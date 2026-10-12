@@ -123,10 +123,12 @@ anticipated after Volume 8 are all shut.
 **Locations the volume needs.**
 
 - **The Correction Office's public hall.** The Office occupies the top floor of the Cobb Street Exchange
-  building; the hearing room is the **Cobb Street hall** and it holds a hundred and forty seated and
-  stands perhaps two hundred. High windows. A raised bench for the hearing officer. A rail with four
+  building; the hearing room is the **Cobb Street hall** and it is **a hundred and forty seats with a rail
+  and ninety standing behind the back row**, which the works department rates at **two hundred and thirty**
+  and prints on a plate by the door. High windows. A raised bench for the hearing officer. A rail with four
   chairs behind it for the parties. **The hall is not new money and it is not clean**, and the volume must
-  describe it as a municipal room, not a temple.
+  describe it as a municipal room, not a temple. **The Reading's two hundred and eleven are inside that
+  rating and no figure of attendance in this volume may exceed it.**
 - **The classified corridor on the second sub-level**, with the cloth on a table and no handle on this
   side of it. He goes down it exactly once in this volume, and the going down is not a triumph.
 - **The Reading's third-floor room**, where Sabine Rooke has set up a room for eleven years for somebody
@@ -321,7 +323,7 @@ why he has to volunteer.**
 ## 6. Climax and resolution
 
 **The climax, 145–148. Thursday the 29th of the third month, the Cobb Street hall, two hundred and eleven
-people on the floor and at the rail.**
+people on the floor and at the rail, which is inside the two hundred and thirty on the plate by the door.**
 
 He is not brought. He is **compelled**: a suspended band cannot be compelled *of* a thing, but a member
 under a proceeding can be compelled *to submit to measurement*, and Volume 2's refusal is the reason the
@@ -728,21 +730,60 @@ sixty-two days** — one day inside "about nine weeks" and inside "about two mon
 Correction Office would in fact sit. **A Volume 3 writer must not "correct" this to the sixtieth day or the
 sixty-fourth.** The derivation is in the batch's Gate B.
 
-**Batch date allocations.** Batch 0001: **the 1st to the 9th of M+2**, with the only Thursday at Ch 105
-(the 4th); Ch 103 and Ch 104 are the same day, morning and afternoon. Batch 0002: Ch 111–120, the 11th to
-the 19th of M+2, Thursdays at Ch 111 (the 11th) and **Ch 117–118 (the 18th), which is where Wren Kallo's
-immovable scene sits.** Batch 0003: Ch 121–130, the 20th of M+2 to the 2nd of M+3, Thursday at Ch 127 (the
-25th). Batch 0004: Ch 131–140, the 3rd to the 13th of M+3, Thursday at Ch 134 (the 8th). **Batch 0005:
-Ch 141–150, the 14th to the 31st of M+3 — Thursdays at Ch 141 (the 15th) and Ch 143 (the 22nd), and
-Ch 145–148 on the 29th, which is the Reading.** Ch 144 is the 28th, Ch 149 the 30th, Ch 150 the 31st.
+### The day map, 101–150. Laid out here because a span that does not close is how this volume's dates broke
+before, and because five batches of a writer should not each re-derive the same calendar.
+
+**The rule: one chapter a day, in order, except where this table says two chapters share a date.** The days
+a table does not use are named as gaps. **A batch may not extend its own span to make a chapter fit, and a
+writer may not move a date out of this table to solve a pacing problem** — a date that has to move is a
+planning decision, and the planning decision is recorded here.
+
+| Batch | Chapters | Days | Thursdays | Shared | Days that go by |
+| --- | --- | --- | --- | --- | --- |
+| 0001 | 101–110 | M+2, the 1st to the 9th | **Ch 105, the 4th**, and the Board repaints | **Ch 103 and Ch 104, both the 3rd** — morning and afternoon | **the 10th of M+2**, before Batch 0002 |
+| 0002 | 111–120 | M+2, the 11th to the 20th | **Ch 111, the 11th**; **Ch 118, the 18th**, where Wren Kallo's immovable scene sits | none | none |
+| 0003 | 121–130 | M+2, the 21st to the 30th | **Ch 125, the 25th** | none | **the 31st of M+2 and the 1st to the 4th of M+3** — five days, one of them a Thursday, before Batch 0004 |
+| 0004 | 131–140 | M+3, the 5th to the 14th | **Ch 134, the 8th** | none | none |
+| 0005 | 141–150 | M+3, the 15th to the 31st | **Ch 141, the 15th**; **Ch 143, the 22nd**; **Ch 145–148, the 29th, which is the Reading** | **Ch 145, 146, 147 and 148 are all the 29th** — the four hours in the hall | **the 17th to the 21st and the 23rd to the 27th**, both inside the batch |
+
+Read as dates: **101** the 1st · **102** the 2nd · **103** and **104** the 3rd · **105** the 4th · **106** the
+5th · **107** the 6th · **108** the 7th · **109** the 8th · **110** the 9th — *the 10th goes by* — **111** the
+11th · **112** the 12th · **113** the 13th · **114** the 14th · **115** the 15th · **116** the 16th · **117**
+the 17th · **118** the 18th · **119** the 19th · **120** the 20th · **121** the 21st · **122** the 22nd ·
+**123** the 23rd · **124** the 24th · **125** the 25th · **126** the 26th · **127** the 27th · **128** the 28th
+· **129** the 29th · **130** the 30th — *five days go by* — **131** the 5th · **132** the 6th · **133** the
+7th · **134** the 8th · **135** the 9th · **136** the 10th · **137** the 11th · **138** the 12th · **139** the
+13th · **140** the 14th · **141** the 15th · **142** the 16th — *five days go by* — **143** the 22nd · **144**
+the 28th — **145, 146, 147, 148** the 29th · **149** the 30th · **150** the 31st.
+
+**Three things this map changed and why, so no later writer thinks it is arbitrary.**
+
+1. **Ch 127 is no longer a Thursday. The batch's Thursday is Ch 125, the 25th.** The old allocation mapped
+   Ch 121 onto the 20th of M+2 and then named Ch 127 as a Thursday, which puts Ch 127 on the 26th and not
+   the 25th. **Ch 127 is where the instrument's rule is stated once and it needs no weekday**; the reversal
+   at 125–127 now opens on the Thursday instead of closing on it, which is no worse and costs nothing.
+2. **Ch 117 and Ch 118 are the 17th and the 18th, not both the 18th.** The pairing was what left Ch 120 with
+   no day at all. Wren's scene is on the 18th, as it has to be.
+3. **Batch 0004 starts on the 5th of M+3 rather than the 3rd**, which puts the whole of the gap at one place
+   — the 31st of M+2 and the first four days of the third month — instead of hiding it in two batches. **A gap
+   at a batch boundary is a card's opening line. A gap in the middle of a batch is a hole in the prose.**
+
+**On the Thursdays, and the anchor rule.** Every one of them is a Thursday because **the Board repaints every
+Thursday morning**, which is standing instrument-work and is on the page since Volume 1. A chapter may be
+dated on one of these days without carrying the repaint as a beat. **Ch 105 carries it, because the repaint
+is that chapter's subject, and the 29th carries a hearing, because the Office sits.** **A date in this volume
+is never a Thursday because it was computed into one, and *fifth Thursday running* is banned outright.**
 
 ### D4 — a defect this volume inherits and does not repair
 
 **The Volume 2 close audit's Thursday table lists M−1's Thursdays as the 6th, 13th, 20th and 27th. Those
 cannot all be Thursdays and that table is internally inconsistent.** M−1's 1st is a Sunday (thirty days
-before M's Tuesday), so M−1's Thursdays are the **5th, 12th, 19th and 26th**, and the strip series that
-Chapter 80 calls *fifth Thursday running* and Chapter 87 enumerates — the 13th, 20th and 27th of M−1 — runs
-**six days** from the 27th to M's 3rd. Two consecutive Thursdays cannot be six days apart.
+before M's Tuesday), so M−1's Thursdays are the **5th, 12th, 19th and 26th** — and `state/continuity.md`
+prints *a Sunday* in its own length-and-weekday column, so the table contradicts itself on one line. **That
+single comparison is the whole of the defect.** An earlier draft of this file also argued it from a strip
+series on the 13th, 20th and 27th of M−1; **that argument was cut on review because no chapter places a
+strip on any Thursday of M−1** — Ch 87's enumeration is the only Thursday series on the page and it begins
+at the 3rd of M.
 
 Everything else in the spine is consistent and is what this volume uses. **The contradiction is entirely
 inside M−1, it touches no date in Volume 3, and this phase does not repair it** — a Volume 2 repair is a

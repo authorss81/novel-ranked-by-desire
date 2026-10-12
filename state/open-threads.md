@@ -1,5 +1,44 @@
 # Open Threads
 
+## Volume 3 PLANNING REPAIRED — four findings from `logs/volume-plan.review.log`, applied before any Volume 3
+## chapter was written. No prose touched, no plot changed, no canon moved on the page.
+
+The reviewer's structural checks all passed — the fifty-title bank, the scene schedule, the five Thursday
+series, the sixty-two-day Reading, all ten cards, no controller file touched. **Four defects were found and
+all four are fixed.** Recorded here because a state file that asserts a figure is a figure somebody has to
+check, and this repository's history is of an assertion that was wrong.
+
+1. **The batch outline said *Eleven Chapters* for a ten-chapter batch.** `outline/batches/volume-03-batch-0001.md`
+   opened its escalation step with eleven. It is **ten**. The title block, the prompt and all ten cards
+   already said ten.
+2. **D4's strip-series bullet was struck as unsourced, and the defect survives without it.** This is the
+   important one, because the entry's whole purpose is to be *an inference is not an anchor*. It used to
+   argue the defect partly from a strip series on the 13th, 20th and 27th of M−1. **No chapter places a
+   strip on any Thursday of M−1**; Ch 87's enumeration is the only Thursday series on the page and it begins
+   at the 3rd of M. **D4 now rests on the Sunday-first comparison alone — and it rests more tightly than
+   before**, because M−1's 1st is a Sunday, so its Thursdays are the 5th, 12th, 19th and 26th, and
+   `state/continuity.md` prints *a Sunday* in its own weekday column on the same row. The table contradicts
+   itself and one of those two entries is wrong. **No page was changed to repair it and none should be
+   until a repair pass checks it against the dates.**
+3. **The Cobb Street hall was smaller than the Reading.** The room was specified as a hundred and forty
+   seated and standing room for *perhaps two hundred*, and the climax states **two hundred and eleven people
+   in it** five times. **Capacity is now one number in one place: a hundred and forty seats and ninety
+   standing, rated at two hundred and thirty on a plate by the door**, and 211 is inside it. The room stays a
+   municipal room. **A writer must not have to do arithmetic in the middle of the climax to know whether
+   the crowd fits.**
+4. **The batch date allocations did not close.** Batch 0002 gave ten chapters nine days and then consumed
+   the slack by putting Ch 117 and Ch 118 on the same date, which left **Ch 120 with no day at all**; Batch
+   0003 named **Ch 127** as a Thursday that arithmetic puts on the 26th. **The whole volume's dates are now
+   laid out chapter by chapter in `outline/volume-03.md` §12 under *The day map***, with every gap and every
+   shared date named. **Batch 0001's slice is unchanged** — the 1st to the 9th of M+2, Ch 105 the 4th, Ch 103
+   and Ch 104 both the 3rd — **so the batch about to run is unaffected.** Three things moved and are named
+   in the map: **Ch 127 is no longer the Thursday, Ch 125 is; Ch 117 and Ch 118 are the 17th and the 18th;
+   Batch 0004 starts on the 5th of M+3.** None of the three is a plot fact.
+
+**What did not change: the volume sentence, the escalation steps, the irreversible decision at 109, the
+midpoint reversal at 125–127, the climax at 145–148, the seven-point restatement rule, the title bank, the
+scene schedule, and every proposed canon above.** The plan reads the same; it now adds up.
+
 ## Volume 3 PLANNED — `outline/volume-03.md` exists. PROPOSED CANON, registered before any Volume 3 chapter is written.
 
 **Written by the Volume 3 planning phase, which wrote no prose.** It read Chapter 100, the *Volume 2 closed*
@@ -30,14 +69,21 @@ The arithmetic, shown:
   25th of M = 42 days = (30 − 13) + 25) and Ch 77 (*seventeen days to the end of that month*).
 - **Therefore M−1's 1st is a Sunday** — thirty days before a Tuesday is a Sunday.
 - **A month of thirty days whose 1st is a Sunday has Thursdays on the 5th, 12th, 19th and 26th.** Not the
-  6th, 13th, 20th and 27th.
-- **And the strip series the page itself prints is the 13th, 20th and 27th of M−1.** Ch 80 calls the 31st
-  of M the *"fifth Thursday running"*; Ch 87 enumerates the series; Ch 100 puts the eighth strip on the 21st
-  of M+1 and the ninth on the 28th. **The gap from the 27th of M−1 to the 3rd of M is six days.** Two
-  consecutive Thursdays cannot be six days apart.
+  6th, 13th, 20th and 27th. **That single comparison is the whole of D4, because `state/continuity.md:45`
+  prints *a Sunday* in its own length-and-weekday column and then prints Thursdays that a Sunday-first month
+  cannot contain.** The table contradicts itself and one of the two entries is wrong.
 - **The Review is therefore a Friday on the consistent reading, not a Thursday** — and Ch 57 and Ch 60
   repeatedly say *what happened to me on Thursday* about it, and the audit's R1 block certifies the Review
   as a Thursday precisely because those sentences exist.
+
+**A supporting bullet was cut from this entry on review, and the repair pass should not go looking for it.**
+The entry used to carry a fifth bullet claiming that *the strip series the page prints is the 13th, 20th and
+27th of M−1*, and reasoning from a six-day gap between the 27th of M−1 and the 3rd of M. **No chapter
+places a strip on any Thursday of M−1.** Ch 61's nine strips are *"in three weeks"*, which is working-day
+printing; Ch 87 is the only chapter that enumerates the Thursday series and it begins at the **3rd of M**;
+Ch 80's *"fifth Thursday running"* and Ch 100's eighth and ninth strips agree with Ch 87 exactly. The
+six-day gap was inferred, not read, and it is struck. **The core finding stands without it** — a
+Sunday-first M−1 against a printed 6/13/20/27 is the contradiction, and it needs no strip series.
 
 **What this is and is not.** It touches **no date in Volume 3**. Everything Volume 3 uses — M's Tuesdays and
 Thursdays, M+1's Friday 1st and its Thursdays of the 7th, 14th, 21st and 28th — is consistent and is on the
@@ -94,6 +140,19 @@ Board repaints, a strip prints, a clerk attends — and never because a characte
 it was computed. Chapter 105, dated the fourth, carries the Board repainting and that is the entire of how
 the first Thursday of Volume 3 exists.
 
+**Every other Thursday in Volume 3 is a Thursday on that same standing instrument.** `bible/terminology.md`
+has the Board repainting every Thursday morning since Volume 1, so Ch 111 (the 11th), Ch 118 (the 18th), Ch
+125 (the 25th), Ch 134 (the 8th of the third month), Ch 141 (the 15th), Ch 143 (the 22nd) and the Reading
+(the 29th) are Thursdays without any of them having to carry a repaint as a beat. **Only Ch 105 repaints,
+because the repaint is its subject, and only the 29th sits, because the Office sits.**
+
+**The whole of Volume 3's dates, 101–150, is laid out chapter by chapter in `outline/volume-03.md` §12**
+under *The day map*. **That map is binding on every batch prompt.** The allocation this planning phase first
+wrote named spans that did not close — Batch 0002 gave ten chapters nine days and then left Ch 120 with no
+day, and Batch 0003 named Ch 127 as a Thursday that arithmetic puts a day later — and a calendar that does
+not close is how this volume's dates broke once already. **A batch may not extend its own span to make a
+chapter fit.**
+
 ### New named people proposed, with ages fixed here and never contradicted
 
 - **Ivo Sarn**, counter-forensics reporting officer, Bureau instrument certification desk. **Age 46.**
@@ -103,8 +162,12 @@ the first Thursday of Volume 3 exists.
   villain, not a final enemy, and does not persist as an opponent past Volume 4.** `bible/characters.md`
   should carry him when a writer next edits that file; **this phase does not edit it.**
 - **The Correction Office occupies the top floor of the Cobb Street Exchange building** and its hearing
-  room is the **Cobb Street hall** — a municipal room, a hundred and forty seated, high windows, not clean
-  and not new.
+  room is the **Cobb Street hall** — a municipal room, **a hundred and forty seats and ninety standing,
+  rated at two hundred and thirty on a plate by the door**, high windows, not clean and not new. **The
+  Reading's two hundred and eleven are inside that rating; the earlier version of this file said the room
+  *stood perhaps two hundred*, which put the volume's most-quoted figure outside its own room. Capacity is
+  now stated once, in one number, and no chapter may print a larger attendance than two hundred and
+  thirty.**
 - **Wren Kallo is named for the first time at Chapter 116 and is on the page from 118.** **Her first scene
   is Chapter 118 and is immovable** (`bible/characters.md`, `outline/series.md` scene table).
   **She is core and unsworn.** **No card before 115 may name her.**

@@ -27,6 +27,14 @@ page and fixed**: Thursdays are the **6th, 13th, 20th and 27th of M−1**; the *
 its own first line. **There is no Thursday inside the plate hold**, and the 17th is not one. Five chapters
 were repaired to say so. **Verify dates against a table, never against a name.**
 
+**AND ONE ROW OF THAT TABLE HAS SINCE BEEN FLAGGED AS WRONG. Read it as history, not as authority.**
+**D4**, raised when Volume 3's spine was derived, holds that M−1's 1st is a **Sunday** — thirty days before
+M's Tuesday — and that a Sunday-first month of thirty days has Thursdays on the **5th, 12th, 19th and 26th**,
+not the 6th, 13th, 20th and 27th printed above, which would require a Saturday first. **The M and M+1 rows
+stand and every chapter in Volumes 2 and 3 is consistent with them. The M−1 row is not to be used until a
+repair pass settles it**, and no Volume 3 date derives from it. Full arithmetic at the head of
+`state/open-threads.md`.
+
 **D1 (six weeks in Chapters 57 and 60) is also closed. Five instances, two chapters, eleven words, all
 anchored to the Review on the 13th.**
 
@@ -82,6 +90,18 @@ none over fourteen. **Proposed canon is registered in `state/open-threads.md` un
 before the chapters that carry it are written**, including **D4**, a new calendar defect found while
 deriving this volume's spine and **flagged rather than repaired** — Volume 2's Thursday table lists M−1's
 Thursdays as the 6th, 13th, 20th and 27th and that is inconsistent with everything else in its own spine.
+
+**VOLUME 3 PLANNING REPAIRED, BEFORE ANY CHAPTER EXISTS.** A review of that plan returned four findings and
+all four are fixed; the substance of the plan is untouched. **The batch outline said *eleven* chapters for a
+ten-chapter batch.** **D4's supporting strip-series claim was struck as unsourced — no chapter puts a strip
+on any Thursday of M−1 — and the defect now rests on the Sunday-first comparison alone, which is tighter:
+`state/continuity.md` prints *a Sunday* in its own weekday column on the same row that prints the 6th, 13th,
+20th and 27th.** **The Cobb Street hall was smaller than the Reading it holds; capacity is now stated once,
+as a hundred and forty seats and ninety standing rated at two hundred and thirty, and the Reading's two
+hundred and eleven are inside it.** **The batch date allocations did not close — ten chapters into nine days,
+with Ch 120 left with no day at all — and Volume 3's whole calendar, 101–150, is now laid out chapter by
+chapter in `outline/volume-03.md` §12 with every gap and shared date named.** Batch 0001's own slice is
+unchanged, so the phase about to run is unaffected. Full record at the head of `state/open-threads.md`.
 
 ## Volume 2 close — what is now on the page
 

@@ -1,6 +1,6 @@
 # Batch 0001 — Volume 3, Chapters 101–110
 
-**Escalation step 1, The Notice.** Eleven Chapters of the volume's opening. **This batch turns the private
+**Escalation step 1, The Notice.** Ten Chapters of the volume's opening. **This batch turns the private
 inquiry into a public question, puts Yusuf Adeyemi on the page, takes Lin Hao off the Board, starts
 Marguerite Vale's scene, assembles the exhibit roll, and closes the option of a private description
 permanently.**
@@ -380,8 +380,8 @@ that he intends to go on.
 
 **Major turn.** Adeyemi describes, in about six sentences and with no sympathy in it at all, what actually
 happens in his hall: **it is a hearing and not a trial**, the member may speak, the Office must put its
-case in full, the room holds a hundred and forty seated and will hold rather more standing, and **the member
-may bring one witness and the Office may bring an instrument.**
+case in full, the room is a hundred and forty seats and ninety standing and the plate by the door says two
+hundred and thirty, and **the member may bring one witness and the Office may bring an instrument.**
 
 **And then, as a courtesy, and in the same six sentences, he says the thing that is going to try to kill
 this man: the counter-forensics instrument has never once worked in an empty room, and the Office expects
@@ -701,7 +701,9 @@ it — Batch 0004 registered its own late and the repair pass had to find the dr
    one day inside "about nine weeks" and inside "about two months". **This was solved and not asserted, and
    no later writer may "correct" it to the sixtieth day or the sixty-fourth.**
 4. **Batch 0001 is the 1st to the 9th of M+2**, with the only Thursday at Chapter 105 (the 4th) and Chapters
-   103 and 104 both on the 3rd — morning and afternoon.
+   103 and 104 both on the 3rd — morning and afternoon. **The whole of Volume 3's dates, 101–150, is laid
+   out chapter by chapter in `outline/volume-03.md` §12 under *The day map*, and it is binding on every
+   batch. Do not re-derive the later batches and do not extend this one to fit a chapter.**
 5. **D4 is flagged, not fixed.** The Volume 2 Thursday table lists M−1's as the 6th, 13th, 20th and 27th
    and that cannot be right. Nothing in this batch may touch it.
 
@@ -713,7 +715,9 @@ it — Batch 0004 registered its own late and the repair pass had to find the dr
    not a final enemy, and does not persist as an opponent past Volume 4. **Recommend `bible/characters.md`
    carry him when a writer next touches that file; this phase does not edit it.**
 7. **The Correction Office sits on the top floor of the Cobb Street Exchange building** and its hearing
-   room is the **Cobb Street hall**, a municipal room, a hundred and forty seated.
+   room is the **Cobb Street hall**, a municipal room, **a hundred and forty seats and ninety standing,
+   rated at two hundred and thirty on the plate by the door**. The Reading's attendance is two hundred and
+   eleven and is inside that rating.
 8. **Wren Kallo is named for the first time at 116 and is on the page from 118.** Her scene is **118 and is
    immovable.** No Volume 3 card before 115 may name her, and no earlier batch card may begin her.
 9. **Nobody is given an age in prose.** Sarn's forty-six lives here and in `bible/characters.md` when it is

@@ -75,7 +75,9 @@ not an anchor.** Derive every date from something printed on a page.
 ## Date spine for this batch
 
 **Batch 0001 is the 1st to the 9th of the new month, with the only Thursday at Chapter 105.** Chapters 103
-and 104 are both the 3rd — morning and afternoon.
+and 104 are both the 3rd — morning and afternoon. **The whole of Volume 3's dates, 101–150, is laid out
+chapter by chapter in `outline/volume-03.md` §12 under *The day map*, and it is binding on every batch.**
+Do not re-derive the later batches and do not extend this one to fit a chapter.
 
 - The new month has **thirty-one days** and its **first day is a Monday**. Its Thursdays are the **4th,
   11th, 18th and 25th**.
@@ -97,10 +99,10 @@ and 104 are both the 3rd — morning and afternoon.
 - **D4 — a NEW defect, found while planning Volume 3 and flagged in `state/open-threads.md`.** The Volume 2
   close audit's Thursday table lists M−1's Thursdays as the 6th, 13th, 20th and 27th. **That cannot be right
   and it is internally inconsistent with the rest of its own spine**: M−1 is thirty days and its 1st is a
-  Sunday, so its Thursdays are the **5th, 12th, 19th and 26th**, and the strip series the page prints runs
-  from the 27th of M−1 to the 3rd of M in six days. **No chapter in this batch may derive a date from the
-  Review's weekday, may call the 13th of last month a Thursday, or may use the phrase *fifth Thursday
-  running*.** It is a repair pass for a separate run.
+  Sunday, so its Thursdays are the **5th, 12th, 19th and 26th**, while the same table prints *a Sunday* in
+  its own weekday column. **No chapter in this batch may derive a date from the Review's weekday, may call
+  the 13th of last month a Thursday, or may use the phrase *fifth Thursday running*.** It is a repair pass
+  for a separate run.
 - **D3 — nine unrepaired interval figures across Chapters 59, 71, 73, 74, 76, 79 and 100.** Table with the
   arithmetic in `reviews/volume-02/volume-close.md` §14. **Chapter 101 derives no date from any of them and
   neither does any other chapter here.**
