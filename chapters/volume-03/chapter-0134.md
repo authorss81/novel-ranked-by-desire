@@ -112,7 +112,7 @@ He had not thought that far, and it took him about two seconds and it was not a 
 
 "That is not a reason to keep it off the file."
 
-"No," said Wren Kallo. "It is a reason to know what it costs, and you already knew the cost, because you knew the cost at half past six on the Friday and you have been carrying it around a building for three days and you came up here with your coat brushed to put it in front of me."
+"No," said Wren Kallo. "It is a reason to know what it costs, and you already knew the cost, because you knew the cost at half past six on the Friday and you have been carrying it around a building for six days and you came up here with your coat brushed to put it in front of me."
 
 Twenty-one days. Twenty-one less the eighth, and both in this month, and the Board repainting in a square four hundred yards away for a man who was not in it.
 

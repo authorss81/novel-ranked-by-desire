@@ -9,13 +9,18 @@ below it and loses nothing.)
 
 ### Day map (M+3, thirty-one days, its 1st a Thursday, Thursdays 1/8/15/22/29)
 
-131 the 5th · 132 the 6th · 133 the 7th · **134 the 8th, the batch's only Thursday, because the Board
+131 the 5th · 132 the 6th · 133 the 7th · **134 the 8th, the batch's Thursday, because the Board
 repaints** · 135 the 9th · 136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th.
 **No shared dates. The 31st of M+2 and the 1st–4th of M+3 went by between the batches** (five days, one of
 them a Thursday, and the 1st is never named as one because no instrument acts on it in this batch).
-**Thursday is the only weekday name in the batch and it appears in Ch 134 alone.** No other weekday name
-appears anywhere in 131–140. *fifth Thursday running* does not appear. D4/D3 inherited, flagged,
-untouched; nothing derives from the Review's weekday or any D3 figure.
+**This block proposed that Thursday would be the only weekday name in the batch and would appear in Ch
+134 alone. The drafting did not hold to it and the proposal is not canon.** Weekday names run twenty-eight
+times across eight of the ten chapters; every one is a lived day named by a character for a day she or
+he is living or has just lived, and each has been checked by subtraction against this day map. **None of
+them lands on a date the batch does not own, and none touches the 15th.** The instance-by-instance table is
+in the close record below, and it was added by the review repair, not written in advance.
+*fifth Thursday running* does not appear. D4/D3 inherited, flagged, untouched; nothing derives from the
+Review's weekday or any D3 figure.
 
 **Countdowns.** The hall and the countdown are in the **same month** for the first time in the volume,
 so every figure is the 29th less the chapter's own date and no month-remainder is added:
@@ -135,6 +140,61 @@ proposal. The seven-point restatement rule was held absolutely: **the reversal i
 131–140**, which leaves the fourth and final permitted use available to Batch 0005, and it is not restated
 after Chapter 133 anywhere, in any register, including in a joke.**
 
+## Volume 3, Batch 0004 — REPAIR PASS (review findings applied, Chapters 131–140)
+
+**A reviewer ran this batch against its prompt, the adjacent chapters and `outline/volume-03.md` §12, and
+found nine items: a timeline that put one chapter on another chapter's date and once on Batch 0005's, a
+self-contradiction inside that chapter, a wrong date and a wrong speaker for an event the previous chapter
+had already dated, two state-file claims that were demonstrably false, an interval that reconciles under
+no reading, a Gate A that traced the wrong figures, and two mis-recorded word counts. All are applied.
+The batch was not restarted and no planned plot moved: the irreversible decision (Ch 140, the hours
+become shared), the argument at 131, the household's decision that nobody is at the rail, Runa's three
+refusals, Sun's position on the landing, the public good deed and its price, and the reversal ration all
+stand exactly as written. Every change is a date, a figure, or a state-file sentence.**
+
+### What changed on the page — eight lines, three chapters
+
+- **Ch 134 — "three days" is now "six days."** Wren Kallo says he knew the cost at half past six on the
+  Friday. M+3's Friday before the 8th is **the 2nd**, which is six days back. Three days before the 8th
+  is Monday the 5th, which is not a Friday, so the figure reconciled with nothing.
+- **Ch 137 — "Twelve days after your hearing" is now "A fortnight after your hearing."** The sentence
+  says he will be described on a Thursday and she will answer for it on a Thursday. Twelve days from a
+  Thursday is a Tuesday. M+4's 1st is a Sunday, so M+4's Thursdays are the 5th, 12th, 19th and 26th, and
+  the fortnight lands on the 12th. **Two lines in the chapter carried the figure**, her speech and the
+  countdown paragraph at its close ("a hearing on the twelfth day after the one he had not yet been
+  through"), and both are corrected. **Her hearing is still unprinted, still unresolved, still not this
+  volume's hearing.** Nothing about the thread moved.
+- **Ch 139 — seven figures, all in the chapter's own date.** The chapter is the 13th, a Tuesday.
+  - `it took him until the Wednesday to understand it` → **`it took him about twenty minutes to understand
+    it`**, which is the register counter at ten past eleven to the stair at half past eleven, both printed
+    in the same chapter two paragraphs apart.
+  - `By the Wednesday there were eleven people at the branch counter` → **`By that evening there were nine
+    people at the branch counter`**, which also matches Nadia Ferrous's nine in the paragraph after.
+    Eleven is now only the forecourt count he made on purpose at ten to one past eleven, and it is still
+    the number the city holds in the chapter's last line.
+  - `on the Thursday night at the table` → **`at the table that night`**. From the 13th the next Thursday
+    is the **15th of M+3, which is Batch 0005's Chapter 141**, and the batch was specified as one chapter
+    a day with no shared dates. This was the finding that mattered.
+  - `you have carried that around three days` → **`two days`**, Sunday the 11th to Tuesday the 13th.
+  - `on the ninth of this month a broker priced this house` → **`on the sixth of this month Marguerite Vale
+    priced this house`**. Ch 132 is the 6th, Marguerite priced the household at that table, and Ola Bright
+    dated the page "On the sixth of the month, six women in a house priced the house."
+  - `you have known since Tuesday what the bill was going to be` → **`you have had a week to sit with what
+    the bill was going to be`**, the 6th to the 13th. The first version contradicted the same chapter's
+    `until the Wednesday` in four paragraphs.
+  - `It had not moved a grain in five months` → **`It had not moved a grain since the winter`**, which is
+    Ch 105's own phrase for the same plate.
+
+### What changed in the state files
+
+The two false claims are struck and replaced with counts taken by machine over the repaired text: the
+weekday census at the head of this block, and the census and the date check under Gate B. **The batch's
+original record said one weekday name appeared in the batch, in Ch 134. Twenty-eight appear across eight
+of the ten chapters, all of them lived days, none of them on a date the batch does not own, and none on
+the 15th.** The recorded word counts for Ch 136 and Ch 139 were wrong and are corrected. Three intervals
+remain untraced and are now three rather than two: 135's "nine days", 138's "six days", and 132's "two
+days", which attaches to a Tuesday night the chapter never dates.
+
 ### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
 
 | Chapter | Figure | Line's figure | Anchor | Subtraction |
@@ -153,41 +213,91 @@ after Chapter 133 anywhere, in any register, including in a joke.**
 | 133 | the twenty-eighth of last month, a plate off a sill | — | Ch 128, the 28th of M+2 | the chapter's own date and the chapter's own act, both on the page; **the first pass said the twenty-ninth, which is neither date in the batch, and was corrected to the twenty-eighth** |
 | 134 | "thinking about that since the twenty-seventh" | 27 | Ch 127, the 27th of M+2, when the run went on his file | not a subtraction; a back-reference to a printed date |
 | 134 | four minutes, the cost of telling the Office a document is wrong | 4 | — | **a character estimating how long an office takes to act. No date is attached and nothing is asserted about an interval on the spine.** |
+| 134 | "you knew the cost at half past six on the Friday and you have been carrying it around a building for six days" | 6 | M+3's Fridays are the 2nd, 9th, 16th, 23rd and 30th; the Friday before the 8th is **the 2nd** | 8 − 2 = 6. **REPAIRED: the first pass said three days, which reconciles with nothing — three days before the 8th is Monday the 5th, which is not a Friday, and the 2nd is six days back. The gate had no row for the sentence at all.** |
 | 135 | three hundred and eleven sentences, four months of copying | 311 | from the 1st of M+3 (where the notebook was opened) to the 9th | **a figure Ola Bright states about her own book. It is not converted to a day count on the page and no date is printed on the cover.** |
 | 135 | nine days of not putting four things in the book | 9 | the notice reached four people on the 8th (Ch 134, the 8th) | 9th less the 8th is one day of his knowing; the nine days are hers, counted from when she first heard, which is the 30th of M+2 or thereabouts. **This figure is NOT traced to a printed date and is flagged: the chapter never prints a date for when she first heard, and a later phase must not add one without deciding to.** |
 | 136 | seven minutes, four hundred and twenty seconds, item five | 7 min / 420 s | — | 41 names read at a clerk's pace. **420 seconds is exactly seven minutes and both figures are printed, so the pair reconciles internally. Neither is subtracted from a date; this is a duration of speech, not of the calendar.** |
 | 136 | the letter takes eleven days | 11 | — | **the Office's own written-request rule, stated by Tove Marlin about a procedure, and it is explicitly NOT the letter that reached Nadia's service — the chapter says so in a line of its own, because the letter that got to her arrived in eight days by a route nobody wrote down. The eleven days is therefore a prediction Tove makes and the page corrects, not a contradiction.** |
-| 137 | "a month before my hearing" | ~30 | the hearing is twelve days after the 29th (Runa's own statement, Ch 137) | 29th + 12 = the 11th of the next month; from the 11th of this month that is about a month. **Not printed as a subtraction and the hearing's date is never given, per the thread rule.** |
+| 137 | "a month before my hearing" | ~30 | the hearing is a fortnight after the 29th (Runa's own statement, Ch 137) | 20 days left in M+3 + 14 = the 12th of M+4, which is 34 days from the 11th of M+3. **Not printed as a subtraction and the hearing's date is never given, per the thread rule. CORRECTED BY THE REVIEW REPAIR: the first pass said the hearing was twelve days after the 29th, which put it on the 10th of M+4 — a Tuesday — while the same sentence says she will answer for it on a Thursday.** |
+| 137 | "I will answer for it on a Thursday" | — | the 29th of M+3 is a Thursday; a fortnight from a Thursday is a Thursday | **This is the row the first pass did not have. Twelve days from a Thursday is a Tuesday, and the page asserted the Thursday twice in one sentence: the Reading, and her answer for it. `Twelve days` is now `A fortnight`. M+4's 1st is a Sunday, so M+4's Thursdays are the 5th, 12th, 19th and 26th, and the 12th is the one that reconciles. Her hearing remains unprinted, unresolved and outside the volume.** |
 | 138 | five years of a district's cold minutes | 5 | "a year of them and the four before that," in her own words, Ch 138 | 1 + 4 = 5. **The first pass said nine years in three places, which is her service, not her book, and was wrong; all three were corrected.** |
 | 138 | six days she had held it without a condition | 6 | the 28th of M+2 (the condition died, Ch 128) to the 12th of M+3 | 3 days left in M+2 + 12 = 15, **not six. The figure is hers, spoken as an estimate, and it does not reconcile with the spine. FLAGGED: a later phase must either drop it or make it reconcile. It is left standing because she is a woman counting her own days in a cab at half past eleven at night and the chapter does not present it as arithmetic.** |
 | 139 | eight days since the first true sentence about the plan | 8 | the 5th of M+3 (Ch 131, the argument) to the 13th | 13 − 5 = 8. **Correct in the first pass by accident and checked by subtraction here.** |
 | 139 | "since the seventh and he had waited six days" | 7 / 6 | the 7th (Ch 133, the list of acts) to the 13th | 13 − 7 = 6 |
+| 139 | "about twenty minutes to understand it" | 20 min | the register counter at ten past eleven and the stair at half past eleven, both on the page in the same chapter | 11:10 to 11:30 = twenty minutes. **REPAIRED: the first pass read `it took him until the Wednesday to understand it`, which is the 14th — Ch 140's date — and contradicted the stair at half past eleven that the same chapter prints two paragraphs later.** |
+| 139 | "By that evening there were nine people at the branch counter" | 9 | the 13th, the chapter's own date | **REPAIRED in two ways. The first pass reached forward to the Wednesday, which is Ch 140's date, and printed eleven where Nadia Ferrous's next paragraph prints nine. Nine is now the counter count in both places; eleven is the forecourt count the lead deliberately made at ten to one past eleven and is still the number the city holds at the end of the chapter.** |
+| 139 | "at the table that night" | — | the 13th | **REPAIRED: the first pass read `on the Thursday night at the table`. From the 13th the next Thursday is the 15th of M+3, which is Batch 0005's Ch 141, and the batch was specified as one chapter a day with no shared dates.** |
+| 139 | "you have carried that around two days" | 2 | Sunday the 11th to Tuesday the 13th | 13 − 11 = 2. **REPAIRED from three days, which is the count that belongs to the batch's 14th-to-15th reach-forward and did not belong to the 13th.** |
+| 139 | "on the sixth of this month Marguerite Vale priced this house" | 6 | Ch 132, the 6th, where Marguerite prices the household at her own table and Ola Bright dates the page "On the sixth of the month, six women in a house priced the house" | **REPAIRED in two ways. The first pass said the ninth, which is neither a date in the batch nor Ch 132's date, and it said "a broker", which is Marguerite herself standing at the table; the word also collided with the broker she is not.** |
+| 139 | "you have had a week to sit with what the bill was going to be" | 7 | the 6th, when the price was set, to the 13th | 13 − 6 = 7. **REPAIRED from `you have known since Tuesday what the bill was going to be`, which contradicted the same chapter's `it took him until the Wednesday to understand it` and had no anchor of its own.** |
+| 139 | "It had not moved a grain since the winter" | — | Ch 105, the 4th of M+2: "The six sat where it had been seated in the winter" | **REPAIRED from `in five months`, which no chapter in the volume anchors and which overstates by roughly a month and a half on the spine. The figure was about the plate's stasis, not about the countdown, so it was given the one date the page prints about the plate's stillness rather than deleted.** |
 | 140 | nineteen people in the hall | 19 | — | a headcount Tove Marlin made. **No date.** |
 | 140 | fifteen days early, not putting a doctor in a chair | 15 | the 14th to the 29th | 29 − 14 = 15. **The first pass said nine days early, which is 29 − 20 and belongs to no date in the batch; caught by subtraction and corrected.** |
 
-**Three of the traces above record a figure the first pass got wrong and the correction caught:
-131's "twenty-nine days off", 133's "twenty-ninth of last month", 138's "nine years", 140's
+**Five of the traces above record a figure the first pass got wrong and the drafting pass caught by
+subtraction: 131's "twenty-nine days off", 133's "twenty-ninth of last month", 138's "nine years", 140's
 "nine days early", 136's "eleven minutes" against 420 seconds. All five were arithmetic failures
 of exactly the kind Gate A exists for, and none of them was visible to any other gate in the suite.**
 
-**Two figures are NOT traced and are flagged rather than argued for:** 135's "nine days" of Ola
-Bright's silence, and 138's "six days" of Beatrix Halm's carrying, which does not reconcile with the
-spine and is a woman's own count spoken at midnight. **A later phase must not build on either.**
+**A further eight were wrong and were NOT caught by the drafting pass.** They were found by the Batch
+0004 review and are marked REPAIRED in the table above: **139's "until the Wednesday", "By the Wednesday
+there were eleven", "on the Thursday night", "three days", "on the ninth", "since Tuesday" and "in five
+months", and 134's "three days".** Six of the eight moved the batch onto a date it does not own — the
+14th, which is Ch 140's, and in one case the **15th, which is Batch 0005's Ch 141** — and the suite of
+gates returned clean on every one of them, because a gate can only see what it is looking for and the
+batch's own Gate A had read the wrong figures and traced them. **The lesson recorded for Batch 0005: a
+Gate A row that quotes a figure must be checked against the chapter by subtraction before the row is
+written, and a date the batch does not own is a finding even when every word of it is a lived day.**
+
+**Three figures are NOT traced and are flagged rather than argued for:** 135's "nine days" of Ola
+Bright's silence, 138's "six days" of Beatrix Halm's carrying, which does not reconcile with the spine
+and is a woman's own count spoken at midnight, and **132's "I have been sitting here for two days", which
+is attached to a Tuesday night the chapter never dates and cannot be made to reconcile without dating
+that night.** **A later phase must not build on any of the three, and must not quietly date them.** These
+three are listed because a printed date *in the same chapter* contradicts each of them. The batch also
+carries a number of unanchored rolling figures in characters' mouths — Beatrix's "in a month" at 139,
+Nadia's "a month" of being right, "about a week" of a queue — which no printed date contradicts and which
+this gate has never claimed to trace. **Gate A covers intervals a date can be subtracted from. It is not a
+general claim that every number in a character's speech has an anchor, and it should not be read as one.**
 
 ### Gate B — every date on one screen, checked by subtraction against `outline/volume-03.md` §12
 
 131 the 5th · 132 the 6th · 133 the 7th · **134 the 8th (Thursday, the Board repaints)** · 135 the 9th ·
 136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th. M+3 is thirty-one days with
-its 1st a Thursday and its Thursdays on the **1st, 8th, 15th, 22nd and 29th**; the 8th is the batch's only
-Thursday and it is a Thursday **because a man goes up a ladder**, which is how a date in this book is a
-Thursday. **The 15th is Batch 0005's. The batch's own span does not touch the 15th and no chapter
-anticipates it.**
+its 1st a Thursday and its Thursdays on the **1st, 8th, 15th, 22nd and 29th**. The 8th is a Thursday
+**because a man goes up a ladder**, which is how a date in this book is a Thursday.
 
-**No weekday name appears anywhere in Chapters 131–140 except one, in Ch 134, and it is Thursday on the
-8th, attached to the repaint. Checked by eye over every instance rather than by a gate, because the
-Batch 0002 review established that a weekday-name gate cannot see a weekday attached to a date that is
-not one. No named day of the week appears in any other chapter, and none is attached to a lived day
-either — the batch declined the precedent available to it.**
+**THE 15TH IS BATCH 0005'S, AND THIS IS NOW A CHECKED STATEMENT RATHER THAN AN ASSERTION.** The batch's
+own span runs the 5th to the 14th and stops. **No chapter in 131–140 prints the 15th or any date after
+the 14th, and no chapter narrates a day the next chapter narrates.** This was false as first recorded:
+Ch 139 reached forward to the 14th twice ("it took him until the Wednesday", "By the Wednesday") and put
+its whole climax on "the Thursday night", which from the 13th is the **15th** — Batch 0005's Chapter 141.
+All three are repaired on the page and the check below was rerun against the repaired text. **A batch that
+ends the day before the next batch begins must say so by subtraction, not by assertion, because the
+assertion is what a reviewer stops trusting when the arithmetic turns out to be wrong elsewhere.**
+
+### Weekday census, taken by machine over the repaired text and checked by hand
+
+**Twenty-eight weekday names across eight of the ten chapters. 131 and 133 have none.** An earlier version
+of this record claimed one instance in Ch 134 and no others anywhere in the batch. That was false by
+twenty-seven and it is struck.
+
+| Ch | Day | Count | The date each one lands on, by subtraction |
+| --- | --- | --- | --- |
+| 132 | Tuesday ×2 | 2 | the 6th, the chapter's own date, or a Tuesday before it. **See the flagged "two days" in Gate A.** |
+| 134 | Thursday ×2, Tuesday ×2, Wednesday, Friday | 6 | the 8th (today, the repaint); the 6th; the 7th; **the 2nd** |
+| 135 | Thursday ×2, Tuesday, Wednesday, Saturday | 5 | the 8th (Ch 134's own bench paper); days in Ola Bright's copybook before the 9th; the 7th |
+| 136 | Friday ×4, Saturday ×2, Tuesday | 7 | the 9th; the 10th (today); a Tuesday in the spring; one Friday is the service's weekly cycle, not a date |
+| 137 | Thursday ×2 | 2 | the 29th of M+3, and Runa's answer for it — **a fortnight later, which is the 12th of M+4 and is a Thursday. The first pass said twelve days and put it on a Tuesday.** |
+| 138 | Saturday | 1 | the 11th |
+| 139 | Sunday ×4 | 4 | **the 11th, in all four. The first pass also carried a Wednesday and a Thursday in this chapter and both are gone.** |
+| 140 | Friday | 1 | the 9th |
+
+**Every instance is a lived day named by a character for a day she or he is living or has just lived,
+which is the Batch 0001/0002 precedent the prompt allowed. Not one lands on the 15th, and not one lands
+on a date the batch does not own.** The count is by extraction over the prose and the dates are by
+subtraction against §12; the drafting pass's original claim that only Ch 134 carried a weekday name was
+made by eye and was wrong.
 
 **No chapter in 131–140 prints a day-count of the household notebook**, because counting it forward
 requires the length of M−1, which D4 does not settle. **No chapter prints the length of M+2 or M+3 in
@@ -198,7 +308,7 @@ any character's mouth.**
 ```
 ls chapters/volume-03/                                       → 40
 grep -h '^# ' chapters/volume-03/chapter-01*.md              → 40 titles, all from the volume bank, verbatim, no duplicates
-wc -w, per chapter                                           → 2674 / 2705 / 1901 / 2665 / 2171 / 1897 / 2398 / 1925 / 2256 / 2877
+wc -w, per chapter                                           → 2674 / 2705 / 1901 / 2665 / 2171 / **1945** / **2396** / 1925 / **2257** / 2877  **(re-counted after the review repair; the first pass recorded 1897 for Ch 136, 2398 for Ch 137 and 2256 for Ch 139, and all three were wrong)**
 grep -cE '^\s*(---|\*\*\*|___|—)\s*$'                        → 0 on all ten
 grep -cE '^\s*>'                                            → 0 on all ten
 grep -onE '\*\*[^*]+\*\*|_[^_]+_'                            → 0 (no bold, no italic, no emphasis of any kind)
@@ -209,14 +319,20 @@ grep -inE 'this volume|this book|the reader|\bchapters?\b|\bvolume\b|fifty chapt
 grep -inE 'there is no form|…|record remained|nobody thanked|nobody asked|nobody knew' → **0 across 131–140.** The single hit the batch grep returns is in Ch 130, a Batch 0003 chapter, and is not this batch's.
 grep -inE '\bnobody\b|\bno one\b|\bno-one\b' on 131–140      → **1 across all ten** — Ch 140, in Tove Marlin's mouth ("Nobody names anybody in a document"), which is the single instance the prompt allows, in a character's own mouth, doing characterisation work: it is the reason a clerk cannot do what he has just asked her to do, and it is the beat on which the chapter turns. **The first pass ran the family thirty-nine times across eight chapters. Every instance was rewritten to a positive form — "not one person", "not one of them", "the room was empty", "it is attached to no person at all" — until one remained.**
 grep -inE '(six|seven|eight|nine|ten|eleven|twelve) (women|people|chairs|men|notebooks|lines)' → read every hit by eye. **The household is SEVEN women, six of them keep the notebook, one is on the landing. Every hit is correct:** Ch 132 prices seven women and says six keep the book; Ch 140 has six named at a table plus a serving officer in a corridor and one on a landing; Ch 139's "eleven people" is a forecourt and Ch 136's "nine other people" is a shift, neither of which is a household.
-awk paragraph gate (RS="")                                    → **0 paragraphs over 90 words; none over 120, in all ten.** Every one was split in drafting and eleven were split again after the first gate run.
-duplication gate (adjacent-identical paragraphs; any sentence ≥8 words appearing twice in one chapter) → 0
+awk paragraph gate (RS="")                                    → **0 paragraphs over 90 words; none over 120, in all ten.** Every one was split in drafting and eleven were split again after the first gate run. **Re-run after the review repair: still 0 in all ten.**
+duplication gate (adjacent-identical paragraphs; any sentence ≥8 words appearing twice in one chapter) → 0 **and re-run after the review repair: still 0.**
 ```
 
 **The duplication gate found nothing. It has now run on three batches of this repository's prose and it
 does not tell me the sentences are varied; it tells me none was printed twice. The word counts certify
 nothing about the prose. This record is not a review of the prose**, and the batch's own claim that the
 `nobody` family runs once was verified by an independent count and not by the drafting pass's memory.
+
+**What the gate output above does not tell you, and the review proved it: not one of these ten chapters'
+nine calendar defects was visible to any line of it.** They were all real sentences in a well-formed
+file. The gate that would have caught them is the weekday census and the interval trace, and the batch
+ran the interval trace over the wrong figures and the weekday census by eye. Both are now machine-extracted
+over the repaired text and then subtracted, and both are printed above in full.
 
 **Named length exceptions, as the prompt requires.**
 
@@ -237,7 +353,9 @@ nothing about the prose. This record is not a review of the prose**, and the bat
   them hers, and now the four acts copied onto its inside cover · the Certification desk's four-line
   note that a member who states an intention in advance has had the opportunity to prepare the room
   (a lie, and it is in the file with a number on it) · the fourth services' letter and Nadia Ferrous's
-  written answer at a change of shift · Runa Sato's hearing on **the twelfth day after the 29th** and the
+  written answer at a change of shift · Runa Sato's hearing on **the fortnight after the 29th** (the 12th
+  of M+4, which is a Thursday because the 29th is; the first pass printed twelve days, which is a
+  Tuesday) and the
   three things she is not allowed, of which the third one is him · the district's cold minutes in
   exercise book form, given with no condition · the announcement itself, in Tove Marlin's day book,
   dated the 14th, naming four holders.

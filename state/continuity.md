@@ -2,6 +2,15 @@
 
 # Volume 3, Batch 0004 — CLOSED (Chapters 131–140)
 
+**REPAIR PASS APPLIED AFTER REVIEW. Nine findings, all closed. Seven lines of prose changed across three
+chapters — Ch 134's "three days" is now six; Ch 137's "twelve days" is now a fortnight, in two lines;
+Ch 139's seven figures are now anchored inside the 13th. Nothing in the plot, the mechanics, the
+irreversible decision or
+the reversal ration moved, and the batch was not restarted. Ch 139 had reached forward onto the 14th —
+Ch 140's date — and once onto the 15th, which is Batch 0005's Chapter 141. That is fixed on the page and
+the date check under Gate B in `state/open-threads.md` was rerun against the repaired text. This block's
+two weekday claims were false and are corrected below; read the counts, not the old sentence.**
+
 **Ten chapters written against `outline/volume-03.md` escalation step 4 (The Choice), entered early, on
 the 5th to the 14th of M+3, one chapter a day. Proposed canon was registered in
 `state/open-threads.md` BEFORE Chapter 131 was drafted; that block is the newest and governs every Volume
@@ -12,19 +21,26 @@ Volume 3 block below it on every point it touches.**
 ## Calendar, as the page fixed it
 
 - **Batch 0004 is the 5th to the 14th of M+3**, one chapter a day: 131 the 5th · 132 the 6th ·
-  133 the 7th · **134 the 8th, the batch's only Thursday, and it is a Thursday because the Board
+  133 the 7th · **134 the 8th, the batch's Thursday, and it is a Thursday because the Board
   repaints** · 135 the 9th · 136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th.
   M+3 is thirty-one days, its 1st a Thursday, its Thursdays **1/8/15/22/29**; the Reading is Thursday
-  the 29th of M+3. **The 15th is Batch 0005's and no chapter in this batch anticipates it.** The 31st of
-  M+2 and the 1st–4th of M+3 went by before the batch, five days, one of them a Thursday, and the 1st is
-  never named as one because no instrument acts on it here.
+  the 29th of M+3. **The 15th is Batch 0005's, and that is a checked statement rather than an assertion:
+  after the review repair no chapter in 131–140 prints the 15th or any later date, and no chapter
+  narrates a day the next chapter narrates.** The 31st of M+2 and the 1st–4th of M+3 went by before the
+  batch, five days, one of them a Thursday, and the 1st is never named as one because no instrument acts
+  on it here.
 - **Countdowns, elapsed, each anchored to the chapter's own date and the printed 29th of M+3, which is
   this month:** 131 twenty-four · 132 twenty-three · 133 twenty-two · 134 twenty-one · 135 twenty ·
   136 nineteen · 137 eighteen · 138 seventeen · 139 sixteen · 140 fifteen. **Every countdown is printed
   with its subtraction.** The chapter says, and the chapter is right, that this is the first time in the
   volume that the hall and the countdown have been in the same month.
-- **Thursday is the only weekday name in the batch** and it appears in Ch 134 alone, attached to the
-  repaint. Checked by eye, not by a gate.
+- **Weekday names are spoken in this batch, and this corrects an earlier version of this file that claimed
+  Thursday was the only one and appeared in Ch 134 alone.** The count is **twenty-eight across eight of
+  the ten chapters** (131 and 133 have none), taken by extraction over the prose and dated by subtraction
+  against §12. Every one is a lived day named by a character for a day she or he is living or has just
+  lived. **None lands on the 15th or on any date the batch does not own.** Thursday itself appears three
+  times: Ch 134's repaint, Ch 135's bench paper dated the 8th, and Ch 137's two — the Reading and Runa's
+  answer for it a fortnight later, which is the 12th of M+4 and is a Thursday.
 - **No day-count of the household notebook is printed anywhere in 131–140**, because counting it forward
   requires the length of M−1, which D4 does not settle. D4/D3 inherited, flagged, untouched.
 
@@ -79,8 +95,10 @@ Volume 3 block below it on every point it touches.**
   because a serving officer present during the reading of her own minute would be a party conversing with
   the clerk; she is in the corridor and she has been there since twenty to nine. She is not allowed an
   objection, because one from her would be a document about Field. **And she is not allowed to be told,
-  and that is him.** **Her hearing is the twelfth day after the 29th. The date is not printed and the
-  hearing is not this volume's hearing and it is not resolved.**
+  and that is him.** **Her hearing is the fortnight after the 29th — the 12th of M+4, which is a Thursday
+  because so is the 29th. It is NOT twelve days, which is what the first pass printed and which put it on
+  a Tuesday while the same sentence said she would answer for it on a Thursday. The date is not printed
+  and the hearing is not this volume's hearing and it is not resolved.**
 - **THE PRICE OF SIX (137), which he learns standing in an empty hall.** On the 29th the minute is read
   and stops where a seventh name would have been, and the hearing officer will not know why, and the
   Office will not know why, and he will know why and will not be able to say one word, because saying it
@@ -163,7 +181,7 @@ and an inability to date most of his own life · 134 a document he cannot un-fil
 it because she could not keep it · 135 four seconds of yes and then nine days of no · 136 seven minutes
 and a car at a change of shift · 137 an empty hall and a door and a fourth silence · 138 midnight in the
 rain and the worst thing she has ever done, said out loud · 139 a box up a flight of stairs, a grey
-temple, and eleven new faces at a counter by Wednesday · 140 a trade where both sides are true. Emotion
+temple, and nine new faces at a counter by that evening · 140 a trade where both sides are true. Emotion
 varies across the ten: bafflement, a professional argument between two women who are both right,
 depression, dread, a kind of bleak amusement, shame paid by somebody else, a cold corridor, anger without
 heat, self-loathing named by a woman who is not in the room, and a lightness that is not relief.

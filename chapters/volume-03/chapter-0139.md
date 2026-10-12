@@ -40,7 +40,7 @@ He had carried that box up a flight of stairs in front of eleven people, and the
 
 The grey came about a second and a half behind it, at his left temple, the way it always came, and it stayed for the rest of the day, and he did not sleep that night.
 
-He had not been expecting it to cost him anything. That was the second thing that went wrong and it took him until the Wednesday to understand it.
+He had not been expecting it to cost him anything. That was the second thing that went wrong and it took him about twenty minutes to understand it.
 
 The grey at one temple was not the cost. The grey was what happened when a thing he could not move asked a body that had nothing on the other side of the person it touched. The box was a box. The woman at the step had not fed him and was never going to feed him, and the whole of what the account could do there was nothing, and the asking was charged to him at a rate that has never once improved.
 
@@ -50,11 +50,11 @@ What he had not known, and what he worked out sitting on a stair at half past el
 
 The notice came off the district board in the Reading Square on the third of this month and went into a house file in Cobb Street. But a notice about a hearing goes around a city by being talked about, and there are two thousand people a day through that gate, and eleven of them had just watched a man with a bucket carry a box up a flight of stairs for a woman who had sat down on a step.
 
-By the Wednesday there were eleven people at the branch counter who had not been there the week before.
+By that evening there were nine people at the branch counter who had not been there the week before.
 
 That was the arithmetic, and it was not complicated and it was not a discovery. A deed done in the open at the Fourth Branch in the third week of a month in which the city knows your name is a deed that is not about the woman on the step.
 
-He worked it out properly on the Thursday night at the table, with six women round it, and it took him about eleven seconds, and he said the name himself, because he had said it to himself on Sunday and he was not going to let somebody else say it first.
+He worked it out properly at the table that night, with six women round it, and it took him about eleven seconds, and he said the name himself, because he had said it to himself on Sunday and he was not going to let somebody else say it first.
 
 "Nadia," he said.
 
@@ -96,7 +96,7 @@ Not one of them spoke for about four seconds.
 
 Ines Duarte had not spoken. She had the folder open on her knees, which she had brought to the table on purpose.
 
-"You did the arithmetic correctly and you did it late," she said. "You worked out on Sunday that the deed had to be visible, and you have carried that around three days, and on the ninth of this month a broker priced this house at less than nothing in this room and told you that the price would be presented on the fourteenth, and you have known since Tuesday what the bill was going to be."
+"You did the arithmetic correctly and you did it late," she said. "You worked out on Sunday that the deed had to be visible, and you have carried that around two days, and on the sixth of this month Marguerite Vale priced this house at less than nothing in this room and told you that the price would be presented on the fourteenth, and you have had a week to sit with what the bill was going to be."
 
 "Yes."
 
@@ -108,7 +108,7 @@ He put his hands flat on the table on either side of the notebook.
 
 "That is the first true sentence anybody has said about that plan in eight days," said Ines Duarte, "and it is the worst possible reason for it, and both of those are true, and I am not going to pick one."
 
-Eight thousand one hundred and thirty-eight, against a floor of eight thousand one hundred and forty-one, three grains of margin, and eleven thousand eight hundred and sixty-two short of a band that was sitting on an instrument in another building, suspended pending a description. It had not moved a grain in five months and it was not going to move one on the fourteenth of this month either.
+Eight thousand one hundred and thirty-eight, against a floor of eight thousand one hundred and forty-one, three grains of margin, and eleven thousand eight hundred and sixty-two short of a band that was sitting on an instrument in another building, suspended pending a description. It had not moved a grain since the winter and it was not going to move one on the fourteenth of this month either.
 
 Sixteen days. Sixteen less the thirteenth, and both in this month.
 

@@ -1,6 +1,20 @@
 # Current State
 
-**Last written:** **Volume 3, Batch 0004 — Chapters 131–140 written (The Choice opens).**
+**Last written:** **Volume 3, Batch 0004 — Chapters 131–140 written (The Choice opens), then repaired after review.**
+**REPAIR PASS, ALL NINE FINDINGS CLOSED, BATCH NOT RESTARTED.** Ch 139 had reached forward onto the 14th
+— Ch 140's date — and put its climax on "the Thursday night", which from the 13th is **the 15th, i.e.
+Batch 0005's Chapter 141**. Ch 139's date is now wholly inside the 13th, its broker's date is now the 6th
+and the broker is Marguerite Vale by name, its counter count is now nine and agrees with Nadia Ferrous's,
+and its contradiction about when he understood the cost is gone. Ch 134's "three days" is now six days
+back from the 2nd, which is the Friday before the 8th. Ch 137's hearing is now **the fortnight** after the
+29th and not twelve days, because twelve days from a Thursday is a Tuesday and the chapter says twice on
+one line that both dates are Thursdays. **Nothing in the plot moved: the irreversible decision at 140, the
+argument at 131, nobody being at the rail, Runa's three refusals, Sun on the landing, and the reversal
+ration all stand.** Two state-file claims that were false — "one weekday name in Ch 134", and "the batch
+does not touch the 15th" — are struck and replaced with machine counts taken over the repaired text:
+**twenty-eight weekday names across eight of the ten chapters, all lived days, none on a date the batch
+does not own, and none on the 15th.**
+
 Ten chapters: the argument at a table that is about him and not about the Office; a broker pricing the
 household and finding it worth less than nothing; the beginning of a list of his own acts and the discovery
 that he cannot date most of them; a builder who signs a statement instead of keeping it and the lie that

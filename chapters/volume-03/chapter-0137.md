@@ -34,7 +34,7 @@ He sat down on the bench at the other end of it, which is four feet, because the
 
 "What is the date."
 
-"Twelve days after your hearing." She said it flatly. "I did not choose it and I would not have chosen it and it is the date the room is free. You will have been described on a Thursday and I will answer for it on a Thursday and the paper that tells me that has come out of the same office that told me to attest a minute as a whole, and I have put both of them in a drawer and I have not shown them to anybody."
+"A fortnight after your hearing." She said it flatly. "I did not choose it and I would not have chosen it and it is the date the room is free. You will have been described on a Thursday and I will answer for it on a Thursday and the paper that tells me that has come out of the same office that told me to attest a minute as a whole, and I have put both of them in a drawer and I have not shown them to anybody."
 
 "Runa—"
 
@@ -134,7 +134,7 @@ He had not thought about that at all, and it took him about four seconds, and al
 
 "That is the price of six and it has been hers since the sixth and now it is yours as well," said Runa Sato, "because you are the reason there are six."
 
-Eighteen days. Eighteen less the eleventh, and both in this month, and a hearing on the twelfth day after the one he had not yet been through.
+Eighteen days. Eighteen less the eleventh, and both in this month, and a hearing a fortnight after the one he had not yet been through.
 
 He walked down the back stair of the Exchange building with a sealed notice in his hand that he was going to have to give back to a woman standing in a corridor, and she was not going to open it in front of him.
 
