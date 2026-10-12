@@ -34,7 +34,7 @@ It was longer than the notice. Four paragraphs, a heading in capitals, and at th
 
 She held the sheet up.
 
-"It wants names. It is two inches deep and it is names, and it is served on these premises by a person of reading age at these premises, and I have written on that doorframe since the thirteenth that a paper comes to me and I answer it and I do not ask anybody else in this house what the answer is.
+"It wants names. It is two inches deep and it is names, and it is served on these premises by a person of reading age at these premises, and it is on that doorframe in my own hand in one line: a paper comes to me, I answer it, and I do not go round the landing asking any of the rest of you what it is. It has been on that doorframe since the thirteenth and it is the only thing I have ever written on a doorframe.
 
 "So I am not asking anybody. I am telling you that I am going to write six names in two inches of space, and that I have sat at that table for three days working out how, and that I cannot do it in the morning with a pen in my hand while six people watch me do it.
 

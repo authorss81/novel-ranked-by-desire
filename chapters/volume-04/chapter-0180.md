@@ -118,11 +118,11 @@ She read the roll. She read the seventh row twice.
 
 "Four people deep and three told, and all four of them kept every one. And the thing that came out of it came out of a chart a doctor signed at five to midnight in a washroom on the seventh of this month and handed to a woman to carry up a stair."
 
-Wren Kallo put her hand on the roll's edge. "I have spent eleven days waiting to be the reason something, and I was not the reason, and I have never in my life been less the reason for something. I would like somebody to write that down and I do not care where."
+Wren Kallo put her hand on the roll's edge. "I have spent four days waiting to be the reason something, and I was not the reason, and I have never in my life been less the reason for something. I would like somebody to write that down and I do not care where."
 
 "It goes in Ola's book," said Sun Meiling.
 
-"It does not go in Ola's book, because the second a woman in that book can be named next to a thing I have carried for eleven days, the book stops being the thing you keep when you cannot write anything down."
+"It does not go in Ola's book, because the second a woman in that book can be named next to a thing I have carried for four days, the book stops being the thing you keep when you cannot write anything down."
 
 He looked at it for about four seconds and then he said, "It is not going to be a thing anybody can use. That is the actual sentence. The certificate comes at the end of sixty days and there is a space at the top of it, and whatever you wrote on the wall of that landing stays on the wall of that landing until somebody sands it off, and I am not going to pretend that is a large thing to be offered in a month like this one."
 

@@ -233,6 +233,22 @@ duplicates between Batch 0003 and Batch 0004.** Batch 0003's first pass returned
 repeated *paragraph* is invisible to a gate that looks for repeated sentences and repeated eight-grams**,
 which is how Chapter 161 shipped an eighty-word paragraph twice.
 
+**AND TWO GATE BLIND SPOTS BATCH 0003'S REVIEW FOUND, WHICH NO AMOUNT OF RE-RUNNING WILL CLOSE.**
+
+**One: a sentence lifted from a chapter far behind you.** Chapter 179 opened its scene with the sentence
+Chapter 169 opens with, word for word, and then stopped exactly where 169 delivers. **A duplication gate run
+across a volume will not catch a phrase lifted from a chapter a hundred pages back, because it is comparing
+files it was never told to compare.** So before you draft a scene, **open the last scene and the one before
+it, and read them, and do not write a sentence that either of them already contains.** Chapter 189 is
+Beatrix Halm's and Chapter 197 is Marguerite Vale's; when you draft 189, open **169 and 179**, both of which
+are a woman in a room with a man and both of which are scenes.
+
+**Two: a stray newline hides a paragraph from the paragraph gate.** Chapter 179 broke a sentence across a
+paragraph break in the middle of a speech, and the fragment the second half made is why a clean
+paragraph-length scan had never once reported that paragraph. Joining the sentence exposed 116 words, and
+it had to be split again at the speech turn. **Scan for paragraphs that contain an internal newline. A
+fragment is not a paragraph and it conceals the one next to it.**
+
 **Gate A — interval trace. READ IT.** Trace every duration to an anchor in its own chapter or a printed
 earlier figure and write the trace into `state/open-threads.md`. **A count is not a reading and an
 inference is not an anchor.** **Batches 0001, 0002 and 0003 found nine, eight and seven real errors
@@ -240,6 +256,36 @@ respectively by doing this subtraction by hand, on pages every mechanical gate r
 hearing printed on the wrong weekday, a nine-day span that is seven, a "yesterday" that was two days, *nine
 days* where seven was the answer in six places in one chapter, and *nine years* on a finding three weeks
 old. Do it by hand. Do not trust the machine.**
+
+**AND THE THING GATE A GOT WRONG, WHICH IS THE POINT OF WRITING IT DOWN.** **Batch 0003's Gate A trace
+was written by the same pass that drafted the chapters, and the review that followed found five more
+interval errors the trace had missed.** Three of them sat *in rows the trace itself had written and
+certified*. The trace said *19 → 28 = 9. Correct* about a woman waiting for a bill, **and nobody had read
+what happened to Wren Kallo on the nineteenth, because Wren Kallo is not in Chapter 169.** A subtraction
+that checks out proves the arithmetic. It says nothing whatever about whether the anchor is a thing that
+happened.
+
+**So, before you write a figure into a row, open the chapter that prints the anchor and read it. Then, for
+every row, answer one question in the row itself: *what does the anchor character actually do on that
+date?* If the answer is nothing, the anchor is wrong, however good the subtraction.**
+
+The five Batch 0003's own trace missed, all now repaired, and the shape of them is the shape of what you
+should expect to find:
+
+- **A span attached to a machine rather than to a date.** Ch 174 said *four months ago* twice for a filing
+  machine he learned on the second of April. Four months is not a wrong subtraction; it is a word with no
+  subtraction in it at all. **Never print a span without the date it runs from.**
+- **A date on a document that is a different date on the same document elsewhere.** A card read THE
+  FIFTEENTH for a return the volume dates to the sixth, and the fifteenth was already carrying a different
+  event. **Print the date twice and check it twice.**
+- **An event dated to a busy day.** The leak was dated to the twenty-ninth of March where Ch 154 dates it
+  to the twenty-sixth, because the twenty-ninth is a date this book is loud about. **A famous date is
+  attractive to a sentence and it will be wrong.**
+- **A count of a body.** Ch 179 said she felt *all three of them* land four paragraphs after term three had
+  named four. **When a character states a number in a term, every later reference to that number is checked
+  against the term.**
+- **Two chapters disagreeing about the same event, where one of them was already reviewed and fixed.** Read
+  the earlier chapter before you date anything. It is not a copy source, it is the authority.
 
 **Gate B — every date on one screen, checked by subtraction.** 181 the 1st · 182 the 2nd · **183 the 3rd, a
 Thursday, and the Board repaints** · 184 the 4th · 185 the 5th, a Thursday, and it repaints · 186 the 6th ·
@@ -257,7 +303,12 @@ what the output does not tell you**) · `state/chapter-summaries.md` (181–190)
 **Keep the state files bounded. The head block is what the next writer reads. Do not restate a closed
 volume's record — point at `state/archive/` instead.** Volume 3's records are already archived; **do not
 re-stack another volume**, and do not carry Batch 0002's head block forward: its close record is in
-`state/open-threads.md` and it stays there.
+`state/open-threads.md` and it stays there. **Batch 0003's review pass moved Batches 0001 and 0002's Gate A
+and Gate B traces into `state/archive/open-threads-v4-batch-0001-0002-gates.md`, so `state/open-threads.md`
+now carries one live gate block instead of three. Do it again to Batch 0002 and Batch 0003 when you close
+this batch, into the same archive.** **And read the note at the head of that archive before you trust any
+row in it: a row that says *Correct* is a claim about a subtraction, and Batch 0003's live trace had three
+such claims about a figure whose anchor nobody had read.**
 
 **File `reviews/volume-04/batch-0004.md` before you mark this phase done**: what shipped, what the gate
 output does not tell you, and every defect with its chapter. **Seven earlier reviews were run and never

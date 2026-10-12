@@ -112,7 +112,7 @@ By about a quarter past twelve there were four hundred people in the square and 
 
 Not one person came over. That was the thing he kept coming back to on the walk back.
 
-Eleven households in this city had bought a shilling's worth of paper about that street, and one of them was four doors up with a boot scraper outside, and there were nine people standing under the Board in front of four hundred witnesses on the morning the wall was repainted, and not one person in that square walked over to them, because a wall with a pale rectangle on it is not a story. It is ceramic.
+Nine people were standing under the Board in front of four hundred witnesses on the morning the wall was repainted, and not one person in that square walked over to them, and one of the eleven households that had paid a shilling for public paper about that street was four doors up with a boot scraper outside, because a wall with a pale rectangle on it is not a story. It is ceramic.
 
 It is a picture of a household in a city that has never once been interested in one, and it cannot be resold, and it does not have to be defended, and it is the first thing this house has made in four months that it did not have to write down.
 

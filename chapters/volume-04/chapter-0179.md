@@ -42,9 +42,9 @@ She turned round and looked at him.
 
 "What does it cost this time."
 
-"The Field owns one thing off me and I have been not knowing that for sixteen days." She sat down on the edge of the bunk, which made the bunk take her weight
+"The Field owns one thing off me and I have been not knowing that for sixteen days." She sat down on the edge of the bunk, which made the bunk take her weight with a sound.
 
-with a sound. "A Field operative is not a person who works. A Field operative is an instrument that can be sent for. Nine years of a division have had my body on a list, and the list is the division, and being on it has been the only thing in the city that could find me, and I gave that up in a corridor on the eighth of this month in exchange for a thing that turned out to be a lie.
+"A Field operative is not a person who works. A Field operative is an instrument that can be sent for. Nine years of a division have had my body on a list, and the list is the division, and being on it has been the only thing in the city that could find me, and I gave that up in a corridor on the eighth of this month in exchange for a thing that turned out to be a lie.
 
 "And you cannot do both. A thing that is sent for and a thing that answers are the same wire. If I am the instrument that produces five other people when a request comes, then I cannot be the instrument that is sent for, and the only way in this city to stop being sent for is to ask, in writing, to be struck as available, and that is a resignation and it does not come back."
 
@@ -68,7 +68,7 @@ She let that sit for about four seconds.
 
 "Two. Nothing is spent. Not on me and not on you and not on anybody else in this building, and I do not want your hand anywhere near me for the rest of the evening, and I know what that costs you and it is a price and I am asking you to pay it."
 
-"Three." She stood up off the bunk. "There is something on your left side. Four of them, since about the end of March, and I know how I know, because I was in a hall on Cobb Street on the twenty-ninth and I felt all three of them land while I was holding you up, and I have thought about it every day since.
+"Three." She stood up off the bunk. "There is something on your left side. Four of them, since about the end of March, and I know how I know, because I was in a hall on Cobb Street on the twenty-ninth of March and I felt three of them go at once while I was holding you up and I felt the fourth about ten minutes later, and I have thought about it every day since.
 
 "I am not going to touch them and I am not going to ask you about them. I am a person who carries other people's weight for a living, and I have been told by a doctor with a scale that those four are permanent, and a person who carries things does not go near a thing that is a permanent instrument. You can put them wherever you want."
 
@@ -90,23 +90,49 @@ She thought about it. He watched her decide where to stand and how to get her fe
 
 She was about a stone and a half heavier than she looked and she had said so in a corridor once and had been told she was joking.
 
-They took about an hour and she did most of it with her own body.
+It ran about fifty minutes and she did most of it with her own body.
 
-She was not fast at the start. She went about it the way she went about a carry, in order, and she told him what she was doing about nine seconds before she did it every time.
+Her boots came off first, one and then the other, and she put them under the desk without looking for them. Then the belt. Then the tunic over the back of the chair, because a chair is what you put a tunic over. She undressed in the order a person undresses when they have dressed in the dark nine hundred times and never once in a hurry.
+
+She was bare to the waist before she had the skirt and she did not make a production of it, and what he understood inside about four seconds was that she had stopped being a woman taking her clothes off and had become a body with a job.
+
+Under the skin of her back and along the tops of her arms there was a ridge, and under the ridge a second one, and it was not a thing that comes of exercise. A person exercises to look a certain way. This had been built by somebody lifting other people off the ground for nine years, and it ran in bands, and her forearms were the hardest part of her and her stomach was the softest.
+
+"Onto your right side," she said. "Face away from me."
+
+He got onto the bunk, which was a Field bunk made for a man with a kit and a wall at one end of it, and it was not a wide piece of furniture and neither of them pretended otherwise.
+
+"Your left side is not going to take me and we are not going to find out tonight whether it can. I am not touching them. That was term three and I am holding to it."
+
+She got on behind him and put one forearm across his hips and got her other hand flat between his shoulder blades, and the first thing she did with her mouth was not him.
+
+"Right," she said, into the muscle at the top of his shoulder. "That is the one. I can feel where it starts. Stop making noises and start breathing."
+
+She was not fast at the start. She went about it the way she went about a carry, in order, and from the outside in, and she told him what she was doing about nine seconds before she did it every time.
 
 That is a habit from a job where the person being carried cannot see and must not be startled. She had not thought about it at all, and he worked it out about two hours afterwards, when he realised she had been narrating the entire time in a low flat register like a woman reading out a load plan.
 
 Then she was not slow either, and that came as a surprise, because on the twelfth of this month a woman had sat in a corridor and told him about a rule on a wall in the wrong tense and he had built a woman out of it who was strong and slow.
 
-He got his hands on her and she let him for about a minute and then told him to leave them where they were, and he left them where they were for most of it.
+He came close the first time and she stopped, which she had told him in the first four minutes that she was going to do.
+
+"Not yet," she said. "I have said it once and I am not saying it twice."
+
+He got his hands on her and she let him for about a minute and then told him to leave them where they were, and he left them where they were for most of it, and she used them exactly where she had put them and told him so out loud.
 
 The bunk took a great deal of weight that it had not been designed for and the frame complained about it once. She did not stop. She worked with it.
 
-She kept talking to him the entire time in that flat register, in short sentences, and he understood about half of it as instruction and the other half as a woman who has been alone in a nine-foot room for sixteen days and has run out of people to say things to, and he understood about a third of that on the second half of the hour and did not know why until afterwards.
-
 "Say something," she said, at one point, and he said something, and she told him that was better.
 
+She got herself up and round and got on top of him, and she put his hand where she wanted it and then stopped directing him and let him work, and she got a hand back into his hair and kept it there.
+
+She was faster than she had told him she was going to be. She had told him she was going to do most of it with her own body and she had told him the reason, and neither of those had been a lie, and she was fast anyway.
+
 She came first, which she had decided about in about the first four minutes and had told him about in the first four minutes, and she did not make a sound, and she held on to him afterwards with both arms and about as much weight as she had been doing the whole time, which is what she is for, and which is also the single most expensive thing he had ever been given for nothing.
+
+And then, not immediately, she finished him, with her hand and afterwards with her mouth, and she was as thorough about that half as she had been about the other, and she wiped him with the corner of the sheet without hurrying and without looking away.
+
+She kept talking to him the entire time in that flat register, in short sentences, and he understood about half of it as instruction and the other half as a woman who has been alone in a nine-foot room for sixteen days and has run out of people to say things to, and he understood about a third of that by the end of it and did not know why until afterwards.
 
 He did not use her name and she did not use his, and that was not an agreement.
 

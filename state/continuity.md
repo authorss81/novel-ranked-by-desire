@@ -138,7 +138,7 @@ the open air and she came up sixty-one steps twice.**
 woman names eleven thousand people in a form in her own hand · **174 a man stands in a room and reads a card
 and cannot un-find it** · 175 six liabilities and a name said out loud in a kitchen · 176 a bare tile and nine
 people in daylight · 177 nine seconds at a counter and a shelf forty feet from a bundle · 178 a notice with
-no name on it and a doctor signing a second chart · **179 an hour in a nine-foot room and a roster turned
+no name on it and a doctor signing a second chart · **179 fifty minutes in a nine-foot room and a roster turned
 face down** · 180 a roll on a landing and a plate that has not moved. Temperature runs cold, terror, cold
 and hot, dread, cold, heat, dread, want, heat, and then a wall.
 
@@ -481,7 +481,7 @@ Gate B date subtraction are in `state/open-threads.md` in this batch's close rec
   nine, and nothing else.
 - **The leak: four deep and three told at the open; five deep and four told from Ch 154.** Wren Kallo's
   fourth name is **Hessa Lund**, a dispensary clerk at the Vestry who does the clinic's requisitions,
-  and the question she was asked in a corridor on the twenty-ninth of March was not whether a clinic
+  and the question she was asked in a corridor on the **twenty-sixth** of March was not whether a clinic
   could be entered in a member's file but **whether it could be entered in one later.** He refuses to
   put her at the head of the chain and tells her the actual reason, which is not a better reason than
   hers: if she is at the end, the chain starts in her room, and the only door between the thing and the

@@ -16,16 +16,16 @@ in about five minutes of screen time, by a man going up a floor of the Reading h
 | --- | --- | --- | --- |
 | 171 | Household In Law | 2,713 | The rules of a composition return, from a clerk who received them for eleven years; seven refusals; the clock |
 | 172 | The Waiting Room | 2,235 | Four hours of nothing, off the page for the review; the fourth door on the landing |
-| 173 | Sun Meiling | 2,395 | The second paper up the stair; item eleven in her own hand; Agnete's price |
-| 174 | Sabine Rooke | 2,302 | **The reversal**, on a shelf, in ninety seconds with the file |
+| 173 | Sun Meiling | 2,422 | The second paper up the stair; item eleven in her own hand; Agnete's price |
+| 174 | Sabine Rooke | 2,322 | **The reversal**, on a shelf, in ninety seconds with the file |
 | 175 | The Head Of Household | 2,797 | **The irreversible decision**, six liabilities read out, his name said aloud |
-| 176 | The Pale Rectangle | 2,273 | The Thursday, the repaint, the bare tile, nine people in daylight, tomorrow |
+| 176 | The Pale Rectangle | 2,269 | The Thursday, the repaint, the bare tile, nine people in daylight, tomorrow |
 | 177 | The Counting Room | 2,721 | **Nine seconds at a counter**; the return completes; the shelf empties |
-| 178 | A Patient File | 2,317 | The notice with no name on it; Tessa's second chart; the leak stops |
-| 179 | The Hostel Room | 3,142 | **The scene.** Runa Sato, asked to be answerable for all of them |
+| 178 | A Patient File | 2,332 | The notice with no name on it; Tessa's second chart; the leak stops |
+| 179 | The Hostel Room | 3,692 | **The scene.** Runa Sato, asked to be answerable for all of them |
 | 180 | The Month Ends | 2,324 | The roll on the landing, six names and a space, the plate unmoved |
 
-Total 25,917 words. **Ten unique titles, all from the volume's §11 bank, none over 90 characters, zero
+Total 25,827 words. **Ten unique titles, all from the volume's §11 bank, none over 90 characters, zero
 duplicates book-wide against all 180 existing chapter titles.**
 
 ## Gate output
@@ -107,8 +107,10 @@ opened*, where the day map makes it ten days, which Chapter 174 prints with the 
 
 ## Named length exceptions
 
-**Ch 179 runs 3,142 words**, inside the 2,600–3,900 scene band. It is the batch's only scene and the
-sex is the product. The other nine run **2,235 to 2,797**.
+**Ch 179 runs 3,692 words**, inside the 2,600–3,900 scene band. It is the batch's only scene and the
+sex is the product. **The figure is the repaired one: the chapter shipped at 3,142 and the review pass
+added 546 words of scene, which is the difference between a chapter that describes a sex act and one
+that contains it.** The other nine run **2,235 to 2,797**.
 
 **Ch 175 (2,797), Ch 177 (2,721) and Ch 171 (2,713)** are each between 13 and 97 words over the 2,700
 guide. **The overage in each is a rule that a later chapter in the same batch is built on**: Ines
@@ -140,3 +142,56 @@ indoors, which this batch does not shut** · the leak, which stopped and is not 
 of May. **It must fix M+5's length with a printed anchor of the kind Chapter 151 printed for April before
 it uses any interval crossing the thirtieth of April**, or no writer after it may subtract across the
 month boundary.
+
+---
+
+## The review pass that ran after this file was written, and what it found
+
+**A review ran after the close record was written. It found eight defects. All are repaired in the prose
+and the repairs are registered in the second-pass Gate A at `state/open-threads.md`. This section exists
+because the honest record of a gate is what it did not see.**
+
+**Five were interval errors of the same class the Gate A above claims to catch, and Gate A had missed all
+five** — four of them because no row existed for them and one because the row certified the subtraction
+without the anchor ever being read:
+
+1. **Ch 174 said `four months ago` twice** for the filing machine, in the chapter's two load-bearing
+   paragraphs. He learned it at Ch 152, the second of April. 24 − 2 is twenty-two days and the chapter now
+   says so. Four months ago is the fourteenth of December and nothing on the page puts him on that machine
+   before April.
+2. **Ch 174's card read `THE FIFTEENTH`**, which is Ch 165, where Ines Duarte names the date. The first
+   issue went out on the sixth. Corrected to THE SIXTH, which also removes the collision.
+3. **Ch 178 dated the corridor question to the twenty-ninth of March** where `chapter-0154.md:39,109` dates
+   the same question, corridor and clerk to the twenty-sixth. The twenty-ninth is the Cobb Street hall and a
+   different event in a different building. Batch 0001's own Gate A registered the twenty-sixth and the
+   correction that produced it, so Batch 0001 is right and this was wrong. Both instances corrected.
+4. **Ch 178 and Ch 180 gave Wren Kallo nine days and eleven days** off *the evening of the nineteenth*,
+   which nothing in the volume puts her in front of — Wren is not in Chapter 169. Re-anchored to the
+   repaint, where he tells her at the rail that she is one of three who could be told. 26 → 28 = 2 and
+   26 → 30 = 4, and the smaller figures are worse for her, which is the point of her.
+5. **Ch 179 said she felt *all three of them* land**, four paragraphs after term three named four. Corrected
+   to three at once and the fourth ten minutes later, which is what a fourth break does.
+
+**Three were of another kind:**
+
+6. **Ch 179's scene was implication, not the scene.** About 1,200 words of terms and negotiation, then
+   roughly twenty-five lines that never crossed the skin, opening on the sentence Ch 169 opens with. The
+   act is now written out, unhurried and explicit, in the room's own furniture, and it borrows no image from
+   Ch 169 — no corridor, no runner, no wall, no cardigan, no darn. It keeps every beat the implication
+   carried and Ch 169 is unchanged. **Ch 179 runs 3,692 words.**
+7. **A sentence was broken across a paragraph break at Ch 179**, and the fragment it made is why the
+   paragraph gate had never reported that paragraph. Joining it exposed 116 words, which was then split at
+   the speech turn. **The volume now scans clean for paragraphs containing an internal newline.**
+8. **Two constructions a near-verbatim gate cannot catch**: a thirteen-word run at Ch 176 against Ch 167,
+   and *that was the thing he kept coming back to*, which had landed at 174 and again at 176 in
+   near-identical positions. Both cut at Ch 176. **Separately, the doorframe sentence ran verbatim at Ch
+   166, Ch 167 and Ch 173**; Ch 173's is now a paraphrase of what is on the doorframe rather than the
+   doorframe again, which is what she is doing in that scene. Two verbatim instances remain and they are
+   the origin and the recitation.
+
+**The gate output above was correct about what it measured and silent about what it was not pointed at.**
+It scanned 171–180 for banned words and found none of four new wrong numbers. It scanned 171–180 for
+duplication and did not compare 179 against 169, which is where the batch's scene came from. It scanned for
+paragraphs and could not see a paragraph a stray newline had split in two. **A gate that only looks inside
+the set of files it was handed will return zero on a batch that contains all of these.** The Batch 0004
+prompt now carries the three rules that come out of this.

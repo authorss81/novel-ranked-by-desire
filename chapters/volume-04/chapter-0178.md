@@ -64,7 +64,7 @@ She looked at him for about four seconds.
 
 He looked at her.
 
-"It was asked on the twenty-ninth of March, in a corridor, by a dispensary clerk who had been sent to find something out," he said. "And what was asked was whether a clinic that had never been entered in a member's file could be entered in one later. It was about this building. It was not about me and it was not about you."
+"It was asked on the twenty-sixth of March, in a corridor, by a dispensary clerk who had been sent to find something out," he said. "And what was asked was whether a clinic that had never been entered in a member's file could be entered in one later. It was about this building. It was not about me and it was not about you."
 
 Tessa Okonkwo did not say anything for about nine seconds.
 
@@ -80,9 +80,9 @@ That is the entire leak. Four people deep and three of them told and the fourth 
 
 He had come out of the Vestry at about six and thought about that for about four minutes and then he went and found Wren Kallo, because she was the only person in the city for whom that was a personal fact.
 
-Wren Kallo was at a counter on the ground floor of the Reading and she had been at it for nine days waiting to be ruined.
+Wren Kallo was at a counter on the ground floor of the Reading and she had not been anywhere else since the morning the Board came down, waiting to be ruined.
 
-"I have been waiting nine days for the bill," she said, before he had got to the end of the second sentence. "The fourth name is a dispensary clerk and she asked a question about a building in a corridor on the twenty-ninth of March and I have sat here every day since waiting for somebody to walk into this building and ask her about it.
+"I have been waiting two days for the bill," she said, before he had got to the end of the second sentence. "The fourth name is a dispensary clerk and she asked a question about a building in a corridor on the twenty-sixth of March and I have sat here every day since waiting for somebody to walk into this building and ask her about it.
 
 "Not one person has walked in. Not one person has asked her. The leak did not leak." She looked up. "That is not possible. If a person has been told a thing and they break it, it breaks. There is no version of that where a man who cannot keep a secret ends up not breaking anything."
 
@@ -94,11 +94,11 @@ Wren Kallo was at a counter on the ground floor of the Reading and she had been 
 
 Wren Kallo sat back about four inches.
 
-"Nine days," she said.
+"Two days," she said.
 
-"Ten."
+"Three."
 
-"Nine. It was the evening of the nineteenth and I have been counting since, and I would like it noted that I have been wrong twice and that both times were in the direction of expecting to be the cause of something."
+"Two. You told me at the rail on the morning they took a tile down off that wall and I have been counting since, and I would like it noted that I have been wrong twice and that both times were in the direction of expecting to be the cause of something."
 
 Tessa Okonkwo signed a second chart at about ten past ten that night at the back of her own building.
 

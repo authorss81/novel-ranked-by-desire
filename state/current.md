@@ -98,6 +98,16 @@ count turns; the one ledger figure in the batch is in prose at Ch 177.** The com
 **complete**, filed on the twenty-seventh with **seven persons of reading age counted and a head of
 household named**, and a **sixty-day certification is running and will not be certified inside the volume**.
 
+**BATCH 0003 WENT TO REVIEW AFTER IT CLOSED, AND THE REVIEW FOUND FIVE INTERVAL ERRORS THIS FILE'S OWN GATE
+A TRACE HAD MISSED.** They are all repaired. **Ch 174 said *four months ago* twice for a thing he learned on
+the second of this month. A card in Ch 174 read *the fifteenth* for a return the volume dates to the sixth.
+Ch 178 dated the corridor question to the twenty-ninth of March where Ch 154 dates it to the twenty-sixth.
+Ch 178 and Ch 180 gave Wren Kallo *nine days* and *eleven days* off an evening of the nineteenth that
+nothing in the volume puts her in front of, and she is now anchored to the repaint at two and four days.**
+**Ch 179's scene was implication and is now the scene, at 3,692 words. The lesson is registered above in
+open-threads and it is one sentence: a figure is traced when its anchor has been read on the page in the
+chapter that prints the anchor, and not when a row exists asserting that the subtraction works.**
+
 **THE HOUSEHOLD AS IT NOW STANDS, AND WHICH LIST IS MEANT.** **Seven women**, of whom **six keep the
 notebook** and **Sun Meiling does not**, and Wren Kallo is the eighth partner and is on no roll at any
 time. **The roll on the landing has seven ruled rows: six filled, the seventh numbered and empty, and the
@@ -108,11 +118,12 @@ sleeps in the building and is on no list at all, and there is still no column in
 **Scenes: 106, 118, 129, 141, 149 in Volume 3; 157, 169, 179 in Volume 4.** Gaps 149 → 157 = 8, 157 → 169
 = 12, 169 → 179 = **10**, and the next scene is Chapter 189 (Beatrix Halm, the signal cabin at the far end
 of the Ferrier line, asked to stop writing minutes down), a gap of **10**. **Ch 179 is written out at
-3,142 words, inside the 2,600–3,900 scene band.** It is staged in her own room in the Field hostel at
+3,692 words, inside the 2,600–3,900 scene band.** It is staged in her own room in the Field hostel at
 Cordwain — a bunk, a footlocker, kit packed on the thirteenth and not gone, a roster brought down off the
 muster-room wall and laid face up on the desk — **his name is not used once, by either of them, because a
 roster does not take a name**, the ribs are named once and not touched, nothing is spent on anybody, and
-her last act is the roster turned face down.
+her last act is the roster turned face down. **The scene was rewritten on the Batch 0003 review pass,
+which found it implication rather than scene, and it now borrows no image from Ch 169.**
 
 **THE CALENDAR, DERIVED AND PRINTED.** M+3's 1st is a Thursday and M+3 has thirty-one days, so M+4's 1st
 is a Sunday and **M+4's Thursdays are the 5th, 12th, 19th and 26th**. **M+4 is thirty days and Chapter 151
@@ -341,11 +352,20 @@ Most are Volume 1 and Volume 2 process history; items 1–17 and 52–61 carry l
 59. T1 DID NOT ADVANCE IN VOLUME 2, AND THIS IS NOW VERIFIED BY COMMAND. `grep -n "Lin Wei\|second folio\|4,112\|Held Account\|two hundred and….
 60. THE WEEKDAY AND AGE CENSUSES CAME BACK CLEAN FOR THE FIRST TIME. Zero illegal weekday names across all fifty chapters, against Volume 1's 58 behind….
 61. THE BATCH 0005 CLOSE RECORD CLAIMED ZERO PARAGRAPHS OVER NINETY WORDS AND CH 150 CARRIED ONE AT 102. `AGENTS.md` bars the horizontal rule, a misplaced quotation mark broke a speech in two, and the paragraph was cut to eighty-nine. **A gate that has never been wrong is not evidence, and this is the seventh time this repository has written one down without re-deriving it.**
+62. **A ROW IN GATE A IS NOT A VERIFICATION, AND THREE ROWS THAT SAID *CORRECT* WERE NOT.** The Batch 0003 review found that the trace certified *nine days* at Ch 178 and *eleven days* at Ch 180 on the subtraction alone, **19 → 28 = 9, without anybody having read what Wren Kallo did on the nineteenth**, which is nothing, because Wren is not in Chapter 169. All three rows are repaired and re-anchored to the repaint. **The same review found four more interval defects the trace did not list: *four months* at 174, a card dated *the fifteenth* at 174, the leak at *the twenty-ninth of March* at 178, and *all three of them* against four at 179.** **A trace written by the same pass that drafted the chapters certifies the chapter's own arithmetic to itself. It needs a pass that did not write the page.**
+63. **A STRAY NEWLINE HID A 116-WORD PARAGRAPH FROM THE PARAGRAPH GATE FOR THE WHOLE LIFE OF THE BATCH.** Ch 179's cost statement was broken mid-clause across a paragraph, which made it two paragraphs, one of them a four-word fragment, which is why a clean paragraph scan had never reported it. Joining the sentence exposed the paragraph and it had to be split again at the speech turn. **Scan for paragraphs containing an internal newline; a fragment is not a paragraph and it hides the one next to it.**
+64. **THE BATCH'S OWN SCENE REPEATED THE REPOSITORY'S CITED SCENE VERBATIM.** Ch 179 opened its act with *They took about an hour*, which is Ch 169:125 word for word, and then stopped where 169 delivers. **A near-verbatim gate run chapter-against-chapter will never catch a phrase lifted from a chapter a hundred pages back, because the comparison it wants is with a file it has not been pointed at.**
 
 **The standing lesson behind items 22, 29, 30, 35, 44, 46 and 47:** a gate that has never been
 wrong is not evidence. Every one of those seven is a claim in this repository's own records that
 was false when it was written, and a batch must re-derive its own gates by command before it
 writes one of them down again.
+
+**The standing lesson behind items 62, 63 and 64:** a gate that never looks outside the set of files it
+was pointed at is not a gate. Item 62 is a trace that certified a subtraction whose anchor it had never
+read. Item 63 is a paragraph gate that returned clean because a typo had hidden the paragraph from it.
+Item 64 is a duplication gate that returned clean because nobody had told it which chapter to compare
+against. **All three returned zero, and all three were wrong.**
 
 ## Voice note
 

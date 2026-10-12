@@ -28,7 +28,7 @@ She went back to her bundle.
 
 He stood in the doorway for about a second and a half.
 
-Then he went in and went along the third shelf and put his hand in on the F, eleven files along, the way you go eleven drawers along in the F in the second-floor trays at the Fourth Branch, which is the identical machine and the identical order and which he had learned four months ago by watching a stranger's name become a written address in eight minutes and forty seconds.
+Then he went in and went along the third shelf and put his hand in on the F, eleven files along, the way you go eleven drawers along in the F in the second-floor trays at the Fourth Branch, which is the identical machine and the identical order and which he had learned on the second of this month by watching a stranger's name become a written address in eight minutes and forty seconds.
 
 Ferrier Street. Fourteen inches of the file. He went along it.
 
@@ -36,7 +36,7 @@ Eighty or ninety cards. A card is a folded sheet with a stub on the front and a 
 
 THE TWENTY-THIRD OF THIS MONTH. PREMISES ABOVE THE CHOP-HOUSE. RETURN. NO ANSWER.
 
-THE FIFTEENTH. SAME PREMISES. RETURN, FIRST ISSUE.
+THE SIXTH. SAME PREMISES. RETURN, FIRST ISSUE.
 
 THE TWENTY-SEVENTH OF LAST MONTH. NUMBER 6. WORKSHOP ACCOMMODATION. COMPLETE.
 
@@ -92,11 +92,11 @@ He could have had it in ninety seconds.
 
 Forty feet. He had read the plate on it on the twenty-second and had stood at it for a minute, in a corridor, on his way out of a building, after four hours of the most frightening ordinary experience of his life, and he had not gone in, and there had been a woman inside doing a period bundle who would have told him which shelf.
 
-He had cleaned six floors of the Fourth Branch every working morning for four years and he had learned the exact shape of this machine four months ago by watching a clerk put a stranger's name into a written address in eight minutes and forty seconds, and the machine was thirty-five feet long and had four shelves and one of them was labelled.
+He had cleaned six floors of the Fourth Branch every working morning for four years and he had learned the exact shape of this machine twenty-two days ago by watching a clerk put a stranger's name into a written address in eight minutes and forty seconds, and the machine was thirty-five feet long and had four shelves and one of them was labelled.
 
 He had spent four volumes being the least findable person in Ostara and he had confused it with being safe. Those are not the same thing and the difference between them is a shelf.
 
-Nothing had been hidden. That was the thing he kept coming back to, standing there. It was not on a shelf because somebody had decided it should stay there. It was on a shelf because it had missed its period, and a filing system does not conceal late returns. It is the place late returns go.
+Nothing had been hidden, and that was the part that would not sit still on him in the room, the way a man cannot stop checking a pocket he has already emptied. It was not on a shelf because somebody had decided it should stay there. It was on a shelf because it had missed its period, and a filing system does not conceal late returns. It is the place late returns go.
 
 The woman at the bench had not looked up again. He turned round and she was still in the bundle and she had a pencil behind her ear that she had not had when he came in.
 
