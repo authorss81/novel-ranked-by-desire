@@ -11,8 +11,23 @@ Volume 1 or Volume 2 fact, the archive is one read away; you do not pay for it o
    re-open any of them; the reasoning is in the archive.
 3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 197.
 
-**Last written:** **Volume 4, Batch 0002 — Chapters 161–170 (The Return), written and closed.**
-**Volume 4 is open, Batch 0003 is the volume's midpoint span, and the reversal is at Chapter 174.**
+**Last written:** **Volume 4, Batch 0002 — Chapters 161–170 (The Return), written and closed, then
+repaired against an external prose review.** **Volume 4 is open, Batch 0003 is the volume's midpoint span,
+and the reversal is at Chapter 174.**
+
+**THE REPAIR PASS, AND WHAT A WRITER INHERITS FROM IT.** The batch was reviewed against the page and six
+findings were carried into the manuscript; no chapter was restarted, no date moved and no thread opened
+or closed. **Ch 169's scene was written as implication and is now written out, in full**, and the
+chapter runs 4,719 words instead of 3,618, over the scene band and inside the Chapter 55 and Chapter 8
+precedent, with a named exception. **Ch 170's contradiction with Ch 162's roster rule is repaired at both
+ends** — the duty clerk at 163 says in terms that the fourth column took her off nothing and that he
+ruled the line off the wall himself for a strength count the office had owed since February, and Runa
+Sato states the distinction in her own words at 170. **Ch 161's duplicated paragraph is gone**, replaced
+by two new ones in which he counts the bodies coming out of a gate and understands what a division clerk
+will ask him for. **Ch 162's closing image is corrected** so that the frame's own rectangle and the band
+above it where the sentence was painted back are two different marks, which leaves the pale rectangle to
+Ch 176. Three gate claims in this batch's own record were false and have been corrected: zero emphasis
+markup, the count of the word Thursday, and the hot-path byte total.
 
 Ten chapters: a woman on a stair quoting a rule about a stranger and asking for one promise; four hours
 on a bench in a corridor outside a hearing room and a lie told at two o'clock; a notice on a step, a
@@ -46,8 +61,11 @@ has lied, and she says *right*.**
 - **Sun Meiling is now the point at which every paper for that house is served**, and she is there
   because she refused to be written down. Four months of safety turned out to be four months of being the
   cheapest door in the city.
-- **Runa Sato is struck off the Field division roster** and the standing she entered on the composition
-  return on the eighth of this month is now a false line on a form.
+- **Runa Sato's name has a rule through it on the Field roster at Cordwain and she cannot be found by a
+  posting, a division, a service or a band** — and the standing she entered on the composition return on
+  the eighth of this month is now a false line on a form. **Two documents did that to her and only one
+  was hers: the entry as refusing, which costs her the premises, and a strength count the office had owed
+  since February, which cost her the wall.**
 - **A member who refuses a count is entered as refusing, and a household with a member who has refused is
   a household with an unanswered count in it.** That is the Bureau's own rule, it was on a wall for
   eleven years, and it is now about this house.
@@ -83,11 +101,12 @@ point of service.
 
 **Scenes: 106, 118, 129, 141, 149 in Volume 3; 157 and 169 in Volume 4.** Gaps 149 → 157 = 8, 157 → 169 =
 **12**, and the next scene is Chapter 179 (Runa Sato, the Field hostel, the roster face down on a desk),
-a gap of **10**. Ch 169 is staged in a corridor in the Vestry with a runner worn thin down the middle,
-four doors, a window that does not open, and the other side of a door that has not been opened in eleven
-years — **a ground, a hand, a name-exchange and an aftermath that appear nowhere in the ten scenes of the
-grid** — the rib is never mentioned, his name is used once and as a word, nothing is spent on anybody,
-and her last act is the door left standing open behind her.
+a gap of **10**. **Ch 169 is written out and not summarised, and it is 4,719 words.** It is staged in a
+corridor in the Vestry with a runner worn thin down the middle, four doors, a window that does not open,
+and the other side of a door that has not been opened in eleven years — **a ground, a hand, a
+name-exchange and an aftermath that appear nowhere in the ten scenes of the grid** — the rib is never
+mentioned, his name is used once and as a word, nothing is spent on anybody, she takes nothing from him
+and gives him nothing, and her last act is the door left standing open behind her.
 
 **THE CALENDAR, DERIVED AND PRINTED.** M+3's 1st is a Thursday and M+3 has thirty-one days, so M+3's 31st
 is a Saturday and **M+4's 1st is a Sunday.** **M+4's Thursdays are the 5th, 12th, 19th and 26th** — and

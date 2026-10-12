@@ -126,23 +126,57 @@ They took about an hour.
 
 There was no furniture in it that could be used and no light that could be lowered and no rug and no water and nothing on the walls, and there was a runner on the floor of the corridor outside with a path worn down the middle of it, and after the first quarter of an hour she had him against the wall on the left-hand side of the door and after that neither of them cared where the wall was.
 
+She took her cardigan off and put it over the back of the one chair, because she is a woman who has kept a room for eleven years and a room is a thing you keep.
+
+The zip at the side of the skirt had been mended with a staple and she got it open with her thumb, and underneath it she had a vest and a pair of stockings with a darn at one heel and no shoes, because she keeps her shoes under the bed and had not gone for them.
+
+She stood against the wall with her arms down and let him look at her, and did not ask him to turn round, and did not hurry.
+
+"You are allowed to look. I have not been looked at since the ninth year and I have had a very long time to decide what I would want said about it, and I have not decided, and I am not going to decide it in front of you."
+
+Then she came in against him and got both hands up behind his head and pulled it down onto her, and she was a little taller than him and neither of them had noticed that in a room.
+
+"Right," she said, with her mouth against his ear. "This is the part where I am bad at it. I am telling you now so that you do not spend the next four minutes deciding whether I am bad at it."
+
+Her feet were cold and she told him that, out loud, in the flat register of a woman reporting a figure she has checked twice, and then laughed at herself for about a second and a half, which was the first thing either of them said in that corridor that had not been arranged in advance.
+
+Then she took hold of the sleeve of his shirt, got it caught under her hand twice trying to get it up over his head, and swore at him for it in the flat voice, and then got it, and threw the shirt about nine inches and left it where it landed.
+
 She had not been touched in eleven years, and that is not a thing anybody can be ready for.
 
-She came off the start of it fast, and then forgot to be fast, and then stopped being careful altogether. She told him where to put his hands in the first minute, and then stopped telling him and put them where she wanted them. At one point she got both hands behind his head and made him say a thing, and he said it twice.
+She came off the start of it fast, and then forgot to be fast, and then stopped being careful altogether. She told him where to put his hands in the first minute and told him the same of it again in different words, which is what a woman does when the first sentence was not the true one.
+
+His left hand went flat between her shoulder blades and his right one stayed where it was until she pushed it up to the back of her neck and said the word not, which he understood, and did not pull.
+
+She made a noise at that, and put her own forearm across the front of herself as though she might get smaller, and told him he was not to find out how she sounded until she had been in a room with somebody for a year. At one point after that she got both hands behind his head and made him say a thing, and he said it twice.
+
+Then she took hold of him with both hands, one below and one above, and worked at him with the enormous patience of a woman who has read about this for eleven years and done it once, and it was not good, and she kept at it because she had said she would.
 
 She wanted it said out loud. That was not in her four terms and she did not put it in them, because a term is a thing you can be held to and this was not a term, it was a want, and she had not had one in nine years and she was not going to file it.
 
 "There," she said, once, with him. "That. I have not heard that from a person in eleven years and I did not know until just now that I had been missing it."
 
+Then she wanted it said again, and then she wanted it said slower, and somewhere in the middle of that she stopped being able to say what she wanted in a sentence and started saying it in single words, and the single words got fewer, and after a certain point there were none of them at all and he was taking directions from her hands.
+
 There is a thing a body does when it has been left alone for a very long time and it is not dramatic and it is not slow. It is fast, and it is bad at it, and it goes on being bad at it, and then at about the ten-minute mark it stops being bad at it entirely and becomes a different animal with a great deal of practice in exactly one thing.
 
 She got him off the wall and round and put him on the floor on the runner with her on top of him and her hands on his chest, and she watched him the entire time the way a woman watches a form she has to sign, checking for a discrepancy, and there was not one.
+
+The runner has a path worn down the middle of it and she put her knees on either side of the path, so that both of them were on the hard edges of it, which she had worked out about four seconds before she did it.
+
+She took her weight on her knees and on one hand and used the other one the way she had said she was going to, and after a while she laid it flat against him and kept it there and did not move it, which turned out to be worse for him than anything she had done with it in motion. He understood about a minute afterwards why a person does that, and she told him why before he got there on his own.
+
+"I am not going to be able to do this in the dark after eleven years, and if I stop touching you I will stop knowing where you are. I am not losing this."
 
 "Right," she said, about twenty minutes in. "You are not frightened of me and I have to say that it is the first time and it is also a little insulting."
 
 "You have not made yourself frightening."
 
 "I know exactly what I have made myself. It has been the whole of my usefulness for eleven years and it is a thing you stand in and it makes you honest and it does not make you like me." She had her mouth about four inches away and did not close it. "You should try to like me. That is not in the four terms. I have simply never had occasion to ask."
+
+He did, and she said nothing about having been asked and went straight back to it. The corridor had four doors on it and one of them was hers and the other three had not been opened by anybody in a long time, and the window at the far end that does not open had the last of the light in it and did not let any of it in.
+
+Then she got her weight off him and back against the wall with him under her, and gave him all of it at once instead of holding herself off on one arm, which he had not had from anybody since the seventh and had not known he was missing.
 
 "You have not said my name once," she said, about halfway through.
 
@@ -156,9 +190,21 @@ She was not going to answer that and did not.
 
 Her back was against the wall and his hands were on her ribs and the fourth one on his left had been there the whole time saying nothing, and neither of them had mentioned it and neither of them was going to.
 
-It was not tender. That is the thing that he would remember afterwards and would not have been able to put into a sentence for anybody in Ostara. It was fast and it was expert and at one point she laughed out loud once, in the middle of it, at nothing at all, and then stopped laughing and held on to him.
+"So I am going to say what this is," she said, "and I am not going to do it kindly.
 
-She came first, and she did not make a sound, and he let her, which was the single most expensive thing he had ever done for anybody and cost nothing at all, and he had done it once before on the seventh floor of a branch office with a balance on the window-cleaning shelf and he had not known then that it would turn out to be the shape of his life.
+"There are six people on the third floor of this building and I know every one of them and not one of them has ever asked me for a single thing in eleven years. I have had four people through that door and none of them came for this.
+
+"And I am telling you that out loud before you are kind to me about it, because you will want to be, and I want it in the room that you are going to do it anyway and that I have not asked you for any part of it."
+
+Then she stopped talking, and it was not tender. That is the thing that he would remember afterwards and would not have been able to put into a sentence for anybody in Ostara.
+
+It was fast and it was expert and she was in front of him for half of it with her own hand flat on him and half of it with her mouth, and at one point she laughed out loud once, in the middle of it, at nothing at all, and then stopped laughing as though she had been caught at something, and held on to him.
+
+About the last four minutes she got both hands behind his head and held it there so that she did not have to watch his face, and he would have given her anything at all at that point, and she knew it, and took none of it.
+
+"I know what you would have given me," she said. "Nothing has been given to me in eleven years, and I am not going to be handed something in the first ten minutes either."
+
+She came first, and she did not make a sound, and he let her, which was the single most expensive thing he had ever done for anybody and cost nothing at all, and he had done it once before on the sixth floor of a branch office with a balance on the window-cleaning shelf and he had not known then that it would turn out to be the shape of his life.
 
 Then she sat on the runner with her back against the wall and her face in her hands for about forty seconds, and came out of them, and looked at him.
 
@@ -210,4 +256,6 @@ Then she said his name.
 
 She said it once, at the end, the way she said everything else in this corridor, as a word inside a sentence, and it was not an address and it was not a form of words directed at a person standing in front of her.
 
-"I am going to sleep for the first time in about nine hours, and I am going to wake up in a room with an open door, and in about a fortnight somebody is going to come up that stair with a second piece of paper, and I am going to be here for that one as well, and the whole of the reason for that is a woman who asked a question in the plainest words available to her and went home without waiting to be thanked for it."
+"I am going to sleep for the first time in about nine hours, and I am going to wake up in a room with an open door, and in about a fortnight somebody is going to come up that stair with a second piece of paper, and I am going to be here for that one as well.
+
+"And the whole of the reason for that is a woman who came to a door at eleven at night and asked the plainest question there is, and took the answer away with her when she went."

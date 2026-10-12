@@ -4,23 +4,30 @@
 `reviews/volume-04/batch-0001.md` set the precedent for, so that the review-coverage hole Volume 3
 closed with does not become seven.** This file is **the record, not the authority**. It carries the gate
 output as the gates actually returned it, and what the gate output does not tell you. **It is not a
-review of the prose**: a review is a separate run against the page, and the prose-level questions a
-reviewer should be asking first are listed at the end of `state/open-threads.md` under *What the gate
-output does not tell you*.
+review of the prose**: a review is a separate run against the page.
+
+**REPAIR PASS — the prose review against the page has now been run, and this file is amended by it.
+Source: `logs/batch-0002.review.log`. Every gate figure below was re-derived by command after the
+repair, not before it, and three of the figures in the first draft of this record were false and are
+corrected here. The findings, the repairs, and what was deliberately not changed are in
+*Repair pass* at the foot of this file.** The open-threads record carries the same amendment.
 
 Reviewed from the writing run in which the ten chapters were drafted. No chapter was restarted, no date
 spine was moved, no thread opened or closed, and no figure was changed after the Gate A pass.
 
 ## What shipped
 
-Ten chapters, 25,277 words, one chapter a day from the eleventh to the twentieth of April, written
-against `outline/volume-04.md` §4 escalation step 2 of 5.
+Ten chapters, 25,277 words at first filing, **26,753 words after the repair pass**, one chapter a day
+from the eleventh to the twentieth of April, written against `outline/volume-04.md` §4 escalation step
+2 of 5.
 
-Every mechanical gate passed on the finished text. **Zero horizontal rules, zero blockquotes, zero
-emphasis markup, zero planning-register terms, zero age statements, zero B103 in any form, zero system
-panels in ten chapters, zero weekday names other than Thursday, zero `nobody <verb>` against a ration of
-one, and zero paragraphs over ninety words.** Titles unique book-wide against one hundred and sixty
-spent, none over ninety characters, and every one of them a name rather than a summary.
+Every mechanical gate passed on the finished text **at first filing, and three of the claims made about
+the text were false when they were written** — see *Repair pass*. On the repaired text: zero horizontal
+rules, zero blockquotes, zero emphasis markup of any kind including single-asterisk italics, zero
+planning-register terms, zero age statements, zero B103 in any form, zero system panels in ten chapters,
+zero weekday names other than Thursday, zero `nobody <verb>` and zero `no one` against a ration of one,
+zero duplicated paragraphs, and zero paragraphs over ninety words. Titles unique book-wide against one
+hundred and sixty spent, none over ninety characters, and every one of them a name rather than a summary.
 
 **The batch's irreversible decision is Ch 163 and it belongs to Sun Meiling**, not to the lead: she signs
 a delivery stub on a doorstep and puts the first document of any kind carrying her name and that street
@@ -39,29 +46,30 @@ nothing, and use none of the four banned words — verified by command over `cha
 ls chapters/volume-04/                                          → 20
 titles, book-wide duplicate check                              → NONE (170 unique titles)
 titles over 90 characters                                       → 0
-wc -w 161–170                                                  → 1971 / 2690 / 2461 / 2064 / 2339 / 2462 / 2606 / 2359 / **3618** / 2707
+wc -w 161–170, at first filing                                  → 1971 / 2690 / 2461 / 2064 / 2339 / 2462 / 2606 / 2359 / **3618** / 2707
 horizontal rules                                                → 0
 blockquotes                                                     → 0
 bold / underscore markup                                        → 0
+single-asterisk italic markup                                  → **1. `said *that one*` at 161:7. FALSE at the time this line was first written, which claimed zero emphasis markup. Cut in the repair pass**
 planning-register terms                                         → 0
 system panels                                                   → **0.** No count turned; the one rise is in prose at 161
 ages                                                            → 0
 meta-language                                                   → 0 in 161–170
-rationed constructions                                          → **0 in 161–170**
+rationed constructions                                         → **0 in 161–170**
 nobody / no one / no-one                                        → **0.** The batch opened at zero and spent zero
 weekday names other than Thursday                               → 0, after **eleven** in the first pass
 church / chaplain / congregation / null room / quiet number     → 0 in 161–168
 not a tank / he is a door                                       → 0
-paragraphs over 90 words                                        → 0, longest in the batch 90
-duplication gate, intra- and cross-chapter                      → clean, after one 8-word sentence hit
+paragraphs over 90 words                                        → 0, longest in the batch 90 at first filing
+duplication gate, intra- and cross-chapter                      → **NOT CLEAN. 161:109 and 161:115 were the same eighty-word paragraph six lines apart, four words differing. The gate looked for repeated sentences and repeated eight-grams and both instances were unique; the defect is a repeated paragraph. Found by the prose review and repaired**
 ```
 
-**Seven of those lines were false or wrong when first written and were corrected by command rather than
-by re-derivation.** That is the habit adjudicated item 30 asks for, and Batch 0001 of this volume did
-the same thing with six. The rationed-construction line is the interesting one: the first pass returned
-**three** hits, all of them in sentences that were arguing the wrong thing — *there is no form* at 168,
-*there was no form* at 169, and *there is no column* at 170 — and the third of those is the sentence
-Volume 7 owns and is now stated as a ruled space.
+**Nine of those lines were false or wrong when first written, and six were corrected by command rather
+than by re-derivation.** That is the habit adjudicated item 30 asks for, and Batch 0001 of this volume
+did the same thing with six. The rationed-construction line is the interesting one: the first pass
+returned **three** hits, all of them in sentences that were arguing the wrong thing — *there is no form*
+at 168, *there was no form* at 169, and *there is no column* at 170 — and the third of those is the
+sentence Volume 7 owns and is now stated as a ruled space.
 
 ## Gate A found eight real errors, and two of them are invisible to every gate in this repository
 
@@ -138,10 +146,14 @@ here, because a plan and a page that disagree is adjudicated item 50 waiting to 
 
 The Batch 0002 prompt says Chapter 170's day **is a Tuesday that nobody has named.** The derivation in
 `outline/volume-04.md` §12 puts M+4's Thursdays on the 5th, 12th, 19th and 26th, so **the twentieth of
-April is the day after a Thursday.** **No chapter in this batch names a weekday other than Thursday, and
-the word Thursday appears once, in Chapter 162's second sentence, derived from the repaint.** Nothing on
-the page carries the disagreement. It is recorded because a state file that quietly adopts a wrong figure
-is exactly how this repository's worst defects have been produced.
+April is the day after a Thursday.** **No chapter in this batch names a weekday other than Thursday.
+The word Thursday appears five times, in Chapters 162, 163 and 167** — three of them in 162's first
+sentence and the repaint it derives from, and one each at the duty clerk's reconciliation of the
+strength and at a signal operator describing what a clerk will do on Thursday morning. **The first
+draft of this record claimed the word appears once, in Chapter 162's second sentence. That was false
+and was found by the prose review.** Nothing on the page carries the disagreement with the prompt. It
+is recorded because a state file that quietly adopts a wrong figure is exactly how this repository's
+worst defects have been produced.
 
 ## Threads
 
@@ -164,11 +176,16 @@ the two ninth chairs · September and the broken price · Sun Meiling's February
 
 ## The state files were bounded on this pass
 
-The hot path stood at 619,000 bytes after the batch record went in and is now **330,433 bytes**, with
-Volume 3's head records, continuity blocks and thread records moved in full into `state/archive/` as
-`current-v3.md`, `continuity-v3.md` and `open-threads-v3.md`. **Nothing was deleted and no fact was
-dropped**, and the Volume 4 Batch 0001 proposed-canon block stays in `state/open-threads.md` because
-Batch 0003's reversal is still governed by it.
+The hot path stood at 619,000 bytes after the batch record went in and is now **138,980 bytes** —
+`state/current.md` at 36,715, `state/continuity.md` at 32,160 and `state/open-threads.md` at 70,105, on
+the figures this file was first written. **The first draft of this record gave the hot path as 330,433
+bytes, a figure that reproduces nothing; "hot path" is defined nowhere else in this repository and the
+number appears to have been the size of a working copy rather than of the three files.** The real total
+is the one above and the reader can confirm it with `wc -c`. With Volume 3's head records, continuity
+blocks and thread records moved in full into `state/archive/` as `current-v3.md`, `continuity-v3.md` and
+`open-threads-v3.md`. **Nothing was deleted and no fact was dropped**, and the Volume 4 Batch 0001
+proposed-canon block stays in `state/open-threads.md` because Batch 0003's reversal is still governed by
+it.
 
 ## The backlogs this file does not close
 
@@ -176,3 +193,53 @@ Batch 0003's reversal is still governed by it.
 can reproduce would be a fabrication about uninspectable work, which is the failure adjudicated item 22
 records. **This file is filed; the backlog is registered as an open item in `state/open-threads.md`; and
 a Volume 5 writer must not assume any of those six was ever checked against the page.**
+
+## Repair pass — the prose review against the page, and what it changed
+
+**Run against the committed batch, findings in `logs/batch-0002.review.log`. Six findings were carried
+into the manuscript and one was examined and not actioned. No chapter was restarted, no date was moved,
+no thread was opened or closed, and the planned plot is unchanged.** Every gate figure in this file and
+in `state/open-threads.md` was re-derived by command after the repairs, not before them.
+
+1. **THE SCENE WAS WRITTEN AS IMPLICATION AND IS NOW THE SCENE.** `outline/volume-04.md` §10 schedules
+   five scenes and 169 is one of them, and `AGENTS.md` is unambiguous that implication is not the
+   target. The encounter had run to about seven hundred words of withheld explicitness. **It is now
+   written out — the cardigan over the chair, the skirt with the staple in the zip, the shirt thrown
+   nine inches, the cold hands, the runner with its worn path and her knees on either side of it, the
+   hand laid flat and kept there, her weight given all at once.** **Every staging commitment survives:
+   the corridor, the four doors, the window that does not open, the rib never mentioned by anybody,
+   nothing spent on anybody, no impaired state, her professional register, his name used once at the
+   end as a word inside a sentence, and the door left standing open behind her.** Chapter 169 moves
+   from 3,618 words to **4,719**, which is over the 2,600–3,900 scene band and inside the Chapter 55
+   and Chapter 8 precedent; the exception is named in `state/open-threads.md`.
+2. **A CONTRADICTION IN THE ROSTER WAS REPAIRED AT BOTH ENDS.** Chapter 170 had Runa Sato saying *I
+   was struck off a roster*, against Chapter 162's rule that a member entered as refusing is still on
+   this roster and still paid and still in the division. **The duty clerk at Chapter 163 now says
+   plainly that the fourth column took her off nothing and that he ruled the line off the wall himself
+   the previous afternoon for a strength count the office had owed since February — and Chapter 170's
+   speech is rewritten to say the same thing she would say, which is that there are two pieces of paper
+   on her and one of them was hers.** This is better than the defect: the thing that removed her from a
+   wall is a man doing a count he was late doing, which is the volume's own argument about arithmetic,
+   and the refusal still costs her the premises.
+3. **A DUPLICATED PARAGRAPH WAS FOUND BY A GATE THAT DID NOT LOOK FOR THEM.** Chapter 161's
+   eighty-word loading-yard paragraph appeared twice, six lines apart, with four words differing. **The
+   second instance is now two new paragraphs: he counts the bodies coming out of that gate in the way
+   he counts washrooms, and understands standing there that this is the whole of what a division clerk
+   will ask anybody for.** It is better than the copy, and it sets up what Chapter 162 asks him for.
+4. **ONE ANTI-PATTERN WAS SPENT TWICE IN ONE CHAPTER'S CLOSING BEATS.** Chapter 169 carried *never once
+   been thanked* and *went home without waiting to be thanked* three paragraphs apart. **The second is
+   rewritten**, and the first is kept, because the chapter's last line now has to land on the woman who
+   asked the question rather than on the word.
+5. **A SINGLE-ASTERISK ITALIC WAS CUT AT 161:7.** The gate that reported zero emphasis markup had
+   checked bold and underscore and not italics. **That gate's line is corrected above.**
+6. **THE THURSDAY COUNT AND THE HOT-PATH BYTES ARE CORRECTED ABOVE.** The first draft of this record
+   claimed the word appears once in the batch; it appears five times, in three chapters. The hot path
+   is 138,980 bytes, not 330,433.
+
+**Examined and not actioned, with the reason.** The reviewer's low-confidence item — that Chapter 162's
+closing image of a pale rectangle is the size of a sentence painted *above* the roster — was **correct
+and has been repaired**: the frame's own rectangle and the painted-over band above it are now two
+different marks, which is what the wall would do, and which leaves the pale rectangle available to
+Chapter 176 where the title bank has been holding it. One further error the review did not catch was
+found while repairing and is fixed here: Chapter 169 said he had last let a woman come first *on the
+seventh floor* of a branch office, and Chapter 157 is the **sixth** floor.

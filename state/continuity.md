@@ -15,10 +15,13 @@ on. **This block is the newest and supersedes every block below it on every poin
   164 the 14th · 165 the 15th · 166 the 16th · 167 the 17th · 168 the 18th · **169 the 19th,
   Agnete Lindqvist's scene, and the Board repaints** · 170 the 20th. **The 21st begins Batch 0003.**
 - **M+4's Thursdays are the 5th, 12th, 19th and 26th.** Ch 162's second sentence derives the twelfth's
-  weekday from the repaint rather than asserting it, and **the word Thursday appears once in the whole
-  batch and no other weekday name appears anywhere in it.**
+  weekday from the repaint rather than asserting it, **the word Thursday appears five times in the
+  whole batch — three in Ch 162's first sentence, one at the duty clerk's reconciliation in 163 and one
+  at a signal operator in 167 — and no other weekday name appears anywhere in it.**
 - **FLAGGED AND NOT REPRODUCED: the Batch 0002 prompt calls Ch 170's day "a Tuesday."** The derivation
   makes it the day after a Thursday. **No chapter names it.** Record at the head of the close record.
+- **REPAIRED 20 ON THE BATCH 0002 PROSE REVIEW, and no date in the spine moved.** See *Repair pass* at
+  the head of this batch's close record in `state/open-threads.md`.
 
 ## Mechanics now on the page — CANNOT CONTRADICT
 
@@ -37,10 +40,16 @@ on. **This block is the newest and supersedes every block below it on every poin
   to him on the eleventh about a division officer in February: a member who refuses to answer a count is
   entered as refusing, and a household with a member who has refused is a household with an unanswered
   count in it.** It is eleven years old and it is the wall's only readable sentence.
-- **A MEMBER ENTERED AS REFUSING IS STILL ON THE STRENGTH (163).** Eight on the wall at ten in the
-  morning on the twelfth, **seven** on the morning of the thirteenth, a rule through her line and a card
-  under the rail: STRENGTH RECONCILED, SEVENTH. **It is the premises that cannot be returned to**, and
-  an office that cannot reconcile a count on paper has exactly one lawful way left.
+- **A MEMBER ENTERED AS REFUSING IS STILL ON THE STRENGTH, STILL ON THE ROSTER, STILL PAID AND STILL IN
+  THE DIVISION (162), and the entry in the fourth column took nothing off her.** **What put a rule
+  through her line on the morning of the thirteenth is a separate act of the same office: the duty clerk
+  says so at the desk. He ruled the line off the wall himself, the previous afternoon, at about four
+  o'clock, because he had owed that building a strength count since the fifteenth of February and there
+  was one name too many on it when he came to do it.** Eight on the wall at ten in the morning on the
+  twelfth, **seven** on the morning of the thirteenth, a rule through her line and a card under the rail:
+  STRENGTH RECONCILED, SEVENTH. **Runa Sato states the distinction herself at 170, in her own words:
+  there are two pieces of paper on her and one of them was hers.** **It is the premises that cannot be
+  returned to**, and an office that cannot reconcile a count on paper has exactly one lawful way left.
 - **AN ASSESSOR.** Once a fortnight, from an office with a different letterhead, no warrant and no
   reason. They ask how many people and write down what they are told.
 - **THE NOTICE OF PREMISES STANDING (163).** Dated the twelfth, delivered on the morning of the
@@ -117,10 +126,16 @@ on. **This block is the newest and supersedes every block below it on every poin
   inches by two with nothing engraved on it. **Four terms, in a former clerk's register, and the fourth
   is the cost: her gift makes a room in which a person cannot be compelled to testify, and therefore there
   is no protection in it at all, for him or for her or for anything he came up the stair carrying.**
-  **The rib is never mentioned by anybody. Nothing is spent on anybody. He asks her nothing and she tells
-  him so, and the reason she gives is that she had been waiting three years for somebody to ask.**
-  **His name is used once, at the end, as a word inside a sentence and not as an address.** Her last act
-  is the door onto the stair left standing open behind her.
+  **THE ENCOUNTER IS WRITTEN OUT AND NOT SUMMARISED**, after the Batch 0002 prose review found it running
+  as implication: the cardigan over the one chair, the zip mended with a staple, a vest and a darn and no
+  shoes, the shirt thrown about nine inches, the cold hands, the wall on the left-hand side of the door,
+  the runner with her knees on either side of its worn path, one hand laid flat against him and kept
+  there, and her whole weight given at once instead of on one arm. **The rib is never mentioned by
+  anybody. Nothing is spent on anybody. He asks her nothing and she tells him so, and the reason she
+  gives is that she had been waiting three years for somebody to ask.** **His name is used once, at the
+  end, as a word inside a sentence and not as an address.** Her last act is the door onto the stair left
+  standing open behind her. **She takes nothing from him and gives him nothing, and says so while it is
+  happening rather than after.**
 - **SHE CANNOT GO BACK IN (170).** She opened the door at about half past ten on the nineteenth and slept
   about nine hours. On the morning of the twentieth she got to the fourth step and sat down on it, and
   has been sitting on it ever since. **The door is still open behind her.** Nobody forced anything here

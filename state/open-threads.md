@@ -6,6 +6,40 @@
 twentieth of April, one chapter a day, no shared dates and no gaps. This block supersedes every block
 below it on every point it touches.**
 
+### Repair pass — the Batch 0002 prose review, and what a writer inherits from it
+
+**An external review was run against the page after this record was filed, and the findings are in
+`logs/batch-0002.review.log`. Six were carried into the manuscript. No chapter was restarted, no date was
+moved, no thread was opened or closed, and the planned plot is unchanged.** Every gate figure in this
+record was re-derived by command after the repairs rather than before them.
+
+1. **Ch 169's scene was implication and is now the scene, written out in full**, at 4,719 words instead
+   of 3,618. Every staging commitment survives and is now demonstrated rather than asserted. **The
+   chapter is over the 2,600–3,900 scene band and inside the Chapter 55 and Chapter 8 precedent; the
+   exception is named below.**
+2. **The Ch 170 contradiction with Ch 162's roster rule is repaired at both ends.** A member entered as
+   refusing is still on the roster, still on the strength, still paid and still in the division; **what
+   put a rule through her line on the thirteenth is the duty clerk doing a strength count the office had
+   owed since February**, and she says so herself: *two pieces of paper on her and one of them was hers.*
+   **This is better than the defect and must not be collapsed again.**
+3. **Ch 161's duplicated eighty-word loading-yard paragraph is gone.** The second instance is now him
+   counting the bodies coming out of that gate, and understanding what a division clerk will ask for.
+   **The duplication gate in this record looked for repeated sentences and repeated eight-grams and both
+   instances were unique; it did not look for repeated paragraphs. A gate that cannot see a defect is
+   not a gate.**
+4. **Ch 169's doubled anti-pattern is down to one instance.** *Never once been thanked* is kept;
+   *went home without waiting to be thanked* is rewritten.
+5. **Ch 162's closing image is corrected.** The frame's rectangle and the painted-over band above it are
+   now two different marks, which is what a wall does, and the pale rectangle is left where the Volume 4
+   title bank has been holding it for **Chapter 176**.
+6. **One error the review did not catch was found while repairing and is fixed:** Ch 169 said he had last
+   let a woman come first on the **seventh** floor of a branch office, and Ch 157 is the **sixth**.
+
+**Three claims this record made about its own batch were false and are corrected in place below: zero
+emphasis markup, the count of the word Thursday, and the duplication line.** That is the fourth time a
+batch record in this repository has certified a gate that was not true when it was written, and it is
+adjudicated item 30 again: *a gate that has never been wrong is not evidence.*
+
 ### Day map (M+4, thirty days, its 1st a Sunday, Thursdays 5/12/19/26)
 
 161 the 11th · **162 the 12th, a Thursday, Runa's hearing, and the Board repaints** · 163 the 13th ·
@@ -43,7 +77,9 @@ twentieth** and repeats the sixteen-plus-eleven arithmetic. 168's "in about a fo
    and some hundred persons, holding no plate and no audit, membership attested, attestation not
    audited, no composition return ever filed — and it is named in full, by the woman it belongs to, at
    **Ch 169, and nowhere earlier.** No chapter from 161 to 168 names it, shows a member of it, or
-   alludes to it, and the word *chaplain* first appears at 169.
+   alludes to it. **The word *chaplain* appears nowhere in the batch: `bible/characters.md` gives it as
+   her office and the page does not use it, and an earlier draft of this record claimed it first appeared
+   at 169, which was false.**
 4. **RUNA SATO'S HEARING HAPPENED AND DID NOT RESOLVE (162)**, in front of the reader, in two parts.
    She was in the room from ten until two with four people in it; she was **made to wait in the
    corridor** for the last twenty minutes because she would be able to object to the item that concerns
@@ -75,11 +111,16 @@ twentieth** and repeats the sixteen-plus-eleven arithmetic. 168's "in about a fo
    officer enters that a number answered by a person other than the member cannot go on a record of the
    member's own conduct — so the count stands as refused and is entered against her and not against
    him.** The instrument's rule is not stated, derived, joked about, or used.
-2. **RUNA SATO IS STRUCK OFF THE FIELD ROSTER (163).** Eight on the wall at ten in the morning on the
-   twelfth, **seven** on the morning of the thirteenth, a rule through her line and a card under the
-   rail reading STRENGTH RECONCILED, SEVENTH. **A member entered as refusing is still on the strength
-   and still paid; it is the premises that cannot be returned to.** And the standing she entered in the
-   fourth box of the composition return on the eighth is now a false line on a form.
+2. **RUNA SATO'S LINE IS RULED OFF THE FIELD ROSTER (163), AND IT WAS NOT THE REFUSAL THAT DID IT.** A
+   member entered as refusing is still on this roster, still on the strength, still paid and still in
+   the division, and her name is read out on Thursday morning with the rest of them. **What put a rule
+   through her line on the morning of the thirteenth is the duty clerk, the previous afternoon, at about
+   four o'clock, doing a strength count this office had owed since the fifteenth of February and finding
+   one name too many on it.** Eight on the wall at ten in the morning on the twelfth, **seven** on the
+   morning of the thirteenth, a rule through her line and a card under the rail reading STRENGTH
+   RECONCILED, SEVENTH. **She says the distinction out loud at 170 in front of six people in a street:
+   two pieces of paper on her, one of them hers.** The standing she entered in the fourth box of the
+   composition return on the eighth is now a false line on a form, and that one **is** hers.
 3. **A PERSON MAY NOT BE PRESENT FOR AN ITEM CONCERNING ANOTHER PERSON**, because she would be able to
    object and an objection from the member reopens the proceeding. That is why she is in a corridor and
    why he is in a room, and it is why the promise of the eleventh had to be a promise about lying.
@@ -137,7 +178,7 @@ twentieth** and repeats the sixteen-plus-eleven arithmetic. 168's "in about a fo
 | 162 | **the twelfth is a Thursday** | the Board's repaint at nine | **CORRECTED IN THE FIRST PASS. The chapter's first line now derives the weekday from the instrument rather than asserting it, per `outline/volume-04.md` §12.** |
 | 162 | the hearing, ten until two, four hours | the three files that date it | 10:00 → 14:00 |
 | 162 | she comes out at twenty past one; he is brought in at twenty to two; he comes out at two | **THE FIRST PASS SAID *FORTY MINUTES* IN BOTH PLACES AND IT WAS WRONG.** 1:20 → 1:40 → 2:00 is **twenty minutes**. Corrected to *they have twenty minutes*, and the scene inside the room is the twenty minutes** |
-| 162 | eight on the wall at ten, seven after | 163's STRENGTH RECONCILED, SEVENTH | traced across a chapter boundary to a printed card |
+| 162 | eight on the wall at ten, seven after | 163's STRENGTH RECONCILED, SEVENTH | traced across a chapter boundary to a printed card, and **the clerk says at 163 that the fourth column took nothing off her and that he did the count himself, which is the repair of a contradiction between 162, 163 and 170** |
 | 162 | "the twenty-ninth of last month" | the Cobb Street hall | **CORRECTED. The first pass said *the month before last*, which is two months out. M+3's 29th is last month from M+4's 12th** |
 | 163 | the notice is dated the twelfth, effective the fifteenth | the hearing, which ended at ten past two on the twelfth | 13 + 2 = **the fifteenth**, printed aloud three times and in capitals |
 | 163 | "about ninety seconds" (the signing) | the scene | in-scene duration |
@@ -200,8 +241,11 @@ the banned-word gate all returned clean on.
 | 170 | 20th (chapter) · the **seventeenth** · the thirteenth · the **twelfth** · the **twenty-seventh** · the **sixteenth** · the seventh · the eighth · yesterday (cut) | **20 + 7 = 27. "Yesterday" was removed: the gate at that gate was the 18th, which is the day before yesterday from the 20th** |
 
 **Not one date in the batch lands on a Thursday that is not the 5th, 12th, 19th or 26th. The word
-Thursday appears in the batch once, in Ch 162's second sentence, and it is derived from the repaint
-rather than asserted. Zero weekday names other than Thursday across all ten chapters.**
+Thursday appears in the batch five times, in three chapters — three in Ch 162's first sentence, one at
+the duty clerk's reconciliation in 163 and one at a signal operator in 167 — and it is derived from the
+repaint rather than asserted. Zero weekday names other than Thursday across all ten chapters.** *(An
+earlier version of this line said the word appears once, in Ch 162's second sentence. That was false and
+was found by the prose review.)*
 
 **FLAGGED, NOT SMOOTHED: the Batch 0002 prompt says Chapter 170's day "is a Tuesday that nobody has
 named."** The derivation in `outline/volume-04.md` §12 puts M+4's Thursdays on the 5th, 12th, 19th and
@@ -217,29 +261,33 @@ because a later writer must subtract against §12 and not against this prompt.**
 ls chapters/volume-04/                                     → 20
 grep -h '^# ' chapters/volume-0*/chapter-*.md | sort | uniq -d   → NONE (170 unique titles book-wide)
 titles over 90 characters                                  → 0
-wc -w, per chapter 161–170                                 → 1971 / 2690 / 2461 / 2064 / 2339 / 2462 / 2606 / 2359 / **3618** / 2707 — total 25,277
+wc -w, per chapter 161–170, at first filing               → 1971 / 2690 / 2461 / 2064 / 2339 / 2462 / 2606 / 2359 / **3618** / 2707 — total 25,277
+wc -w, per chapter 161–170, after the repair pass          → 2011 / 2769 / 2599 / 2064 / 2339 / 2462 / 2606 / 2359 / **4719** / 2825 — total 26,753
 horizontal rules                                             → 0
 blockquotes                                                 → 0
 bold / underscore markup                                    → 0
+single-asterisk italic markup                              → **1 at first filing** (`said *that one*` at 161:7) and **0 after the repair.** The line "zero emphasis markup" in the first version of this block was false: the gate had checked bold and underscore and not italics
 planning-register terms (reservoir, quiet account, concil, ninth seal, channel) → 0
 system panels                                                → **0.** No count turned and no panel printed, and the batch's only rise is in prose at 161
 ages                                                         → 0
 meta-language                                               → 0 in 161–170. **Four hits in 160 are Batch 0001's physical copybook and are untouched**
 rationed constructions                                      → **0 in 161–170.** The first pass returned *there is no form* at 168, *there was no form* at 169 and *there is no column* at 170, all three of them in a first draft that was arguing the wrong thing; all three were rewritten and one of them, *there is no column*, is the sentence Volume 7 owns and is now stated as a ruled space
 nobody / no one / no-one                                    → **0.** The batch opened at zero and spent zero against a ration of one
-weekday names other than Thursday                            → 0. **The first pass returned eleven — Monday, Tuesday, Thursday, Friday, Saturday, Sunday, twice and in the first drafts — and every one was cut or replaced with a date**
-church / chaplain / congregation / null room / quiet number  → 0 in 161–168, by command over 016[1-8].md only
+weekday names other than Thursday                            → 0. **The first pass returned eleven — Monday, Tuesday, Thursday, Friday, Saturday, Sunday, twice and in the first drafts — and every one was cut or replaced with a date.** Thursday itself appears **five** times, in 162, 163 and 167
+church / chaplain / congregation / null room / quiet number  → 0 in 161–168, by command over 016[1-8].md only. **The word chaplain appears nowhere in the batch, and an earlier version of this block claimed it first appeared at 169**
 not a tank / he is a door                                   → 0
-paragraphs over 90 words                                    → 0, none over 120, longest in the batch 90
-duplication gate (intra- and cross-chapter, 8+ word sentences and 6+ word paragraphs) → clean
+paragraphs over 90 words                                    → 0, none over 120, longest in the batch 90 at Ch 164 before and after the repair. **Three paragraphs written during the repair were broken at a natural beat rather than trimmed, and the longest paragraph the repair introduced is 88**
+duplication gate (intra- and cross-chapter, 8+ word sentences and 6+ word paragraphs) → **the first version of this line said clean. IT WAS NOT.** 161:109 and 161:115 were the same eighty-word paragraph six lines apart, four words differing, and the gate could not see it because neither instance repeated a sentence or an eight-gram. **A repeated paragraph is invisible to a gate that looks for repeated sentences.** Now zero duplicate paragraphs of forty words or more, intra- and cross-chapter, by command
 ```
 
 **The two constructs that survived the duplication gate as whole paragraphs are one-word dialogue beats
 — "Yes.", "No.", "Lin Hao.", "Go on." — and they are not defects.** The gate's real output this batch was
 one eight-word sentence, *She put her hands flat on the table*, shared between Ch 159 and Ch 166 and
-rewritten in 166. **The house motif *the oven ticked* was running four times in the batch and three of
-the four were varied in the same pass** to the range letting go of its heat, the lamp buzzing, and the
-oven going off behind them. That is the gate doing the only thing it has ever done here.
+rewritten in 166. **The gate also returned clean on the one defect that would have been visible to a
+reader, the duplicated loading-yard paragraph at 161, and it returned clean on it because it looks for
+repeated sentences and repeated eight-grams and this was a repeated paragraph.** The house motif *the
+oven ticked* was running four times in the batch and three of the four were varied in the same pass to
+the range letting go of its heat, the lamp buzzing, and the oven going off behind them.
 
 ### What the gate output does not tell you
 
@@ -266,28 +314,38 @@ attack:**
    civilised device, and a reader who has spent nine chapters on forms may put it down as a change of
    register.** The defence is that he is right, that he says so, that he tells them about the next one,
    and that the household's reaction to him is dread rather than relief.
-3. **Whether Ch 169's scene earns eleven years.** The staging is new against all ten entries in the grid
-   — a corridor, a runner with a worn path, two doors, a window that does not open, a room of one chair
-   — the rib is never mentioned by anybody, the name is used once and as a word inside a sentence, her
-   last act is the door left standing open, and nothing is spent on anybody. **The risk is that the
-   chapter's strength is its terms, and four terms are a great deal of front matter for a scene**; the
-   defence is that she is a former clerk and a woman who cannot let a room take a testimony, and that
-   the terms are how she is professionally able to want this.
+3. **Whether Ch 169's scene earns eleven years — REPAIRED, and the question is now narrower.** The
+   staging is new against all ten entries in the grid — a corridor, a runner with a worn path, four
+   doors, a window that does not open, a room of one chair — the rib is never mentioned by anybody, the
+   name is used once and as a word inside a sentence, her last act is the door left standing open,
+   and nothing is spent on anybody. **The encounter itself had been written as implication, and the
+   prose review was right that that is not the product this repository sells; it is now written out in
+   full and the four terms survive in front of it.** What a reader now has instead of a summary is an
+   hour in which a woman who cannot be compelled to testify is the only person in the room doing the
+   asking, and the thing to judge is whether the terms still read as the strength of the chapter with
+   the scene on the page behind them, and whether four terms is still a great deal of front matter.
 
 **This record is not a review of the prose.** The review is a separate run and its file is
 `reviews/volume-04/batch-0002.md`.
 
 ### Named length exceptions
 
-**One, and it is a scene and it is inside its own band.**
+**Two, and one of them is a scene that is now over its band on purpose.**
 
-- **Ch 169 runs 3,618 words.** It is Volume 4's second labelled scene, it sits inside the 2,600 to 3,900
-  scene band with 282 words to spare, and it carries the batch's only scene and the volume's first naming
-  of the Church of the Quiet Number, and the naming is spoken by the woman it belongs to as the answer
-  to a question about a number in a margin. **The other nine run 1,971 to 2,707**, and 170 at 2,707 is
-  seven words over the 2,700 guide and is inside the 1,800–2,700 guide's ordinary noise; **it is the
-  last day of the batch and it carries the aftermath of the scene and the household's whole position on
-  the form, and cutting anything from it makes the twenty-seventh arrive without a subtraction.**
+- **Ch 169 runs 4,719 words** (3,618 at first filing). **It is over the 2,600 to 3,900 scene band, and
+  the reason is named rather than tolerated: the encounter had been written as implication and the
+  Batch 0002 prose review held that a scene is the product, so the scene was written out.** It is inside
+  the Chapter 55 precedent at 5,065 and the Chapter 8 precedent at 4,761, **it is the second labelled
+  scene of the volume and the only scene in this batch, and it carries the volume's first naming of the
+  Church of the Quiet Number** — spoken by the woman it belongs to, as the answer to a question about a
+  number in a margin. **Cutting anything back to the band would mean cutting the scene, and the scene
+  is the chapter.**
+- **Ch 170 runs 2,825 words** (2,707 at first filing). That is 125 over the 2,700 guide and **the
+  overage is Runa Sato's corrected account of two documents instead of one** — she now has to say that
+  the fourth column took nothing off her and that a duty clerk she has never spoken to ruled her line
+  off the wall himself for a count the office had owed since February. **It is the last day of the batch
+  and it carries the aftermath of the scene and the household's whole position on the form, and cutting
+  the distinction makes the twenty-seventh arrive without a subtraction.**
 
 ### Threads: opened, advanced, left open, untouched
 

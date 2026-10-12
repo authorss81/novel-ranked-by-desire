@@ -4,7 +4,7 @@ Runa Sato did not come in at seven on the morning of the thirteenth, which was t
 
 He went down to Cordwain at about half past seven and stood in a corridor with a cold candle on a ledge.
 
-The frame was back on the wall. The four column rule was back on the wall above it, painted over in the same white and slightly out of true, and in the body of the roster, in the second column, on the line that had said R. SATO, there was a rule straight through it from the left margin to the right, and no new line under it, because there was nothing under it.
+The frame was back on the wall. The four column rule was back on the wall above it, painted back in white and slightly out of true, and in the body of the roster, in the second column, on the line that had said R. SATO, there was a rule straight through it from the left margin to the right, and no new line under it, because there was nothing under it.
 
 A strip of card had been taped to the frame's bottom rail, and on it, in the duty clerk's hand, four words.
 
@@ -19,6 +19,10 @@ The duty clerk had the collar of a different coat on and a bundle of frames on h
 "That was before your woman put REFUSING in the fourth column. That letter is dated the fifteenth of February. You are welcome to it."
 
 He squared the bundle.
+
+"And that is the part that gets said wrong in rooms like yours," he said. "The fourth column did not take her off anything. She is on this roster and she is paid and she is in the division, and on Thursday morning her name goes out with the rest of them.
+
+"I ruled that line off the wall myself, yesterday, at about four o'clock, because I have owed this building a strength count since the fifteenth of February and there was one name too many on it when I came to do it. So you can say whatever you like to your six women about that column. It was the count that did it, and I did the count, and I am telling you that before you go up those stairs and tell her it was her own word."
 
 "And take the piece of card down if you are going to stand and read it. That tape has been read by forty men in nine years and not one of them took it off."
 

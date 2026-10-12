@@ -4,7 +4,7 @@ The visitors' book came down off the shelf at four in the afternoon and Beatrix 
 
 A hundred and eleven. Forty-one asking about a person, seventeen asking about the household, and she gave the two figures as she went so that the rest of the room did not have to hold them.
 
-When she got to the forty-first she put one finger on the page, said *that one*, and carried on, and he knew which one she meant, because it was the only entry in a hundred and eleven that had never been answered and could not be. It was in Ola Bright's copy hand, at the foot of a page in the middle of February, and it asked whether a woman on a landing was still taking callers, and the answer had been that there was no landing.
+When she got to the forty-first she put one finger on the page, said "that one," and carried on, and he knew which one she meant, because it was the only entry in a hundred and eleven that had never been answered and could not be. It was in Ola Bright's copy hand, at the foot of a page in the middle of February, and it asked whether a woman on a landing was still taking callers, and the answer had been that there was no landing.
 
 "They are not going to stop," said Beatrix, when she had finished. "I have read that book out four times now and the same twelve names come up in it over and over, and I have started to hear the surnames before I get to them, and that is not a thing you can unlearn at a table."
 
@@ -108,10 +108,12 @@ He went down to Cordwain on the strength of nothing at all, because there was a 
 
 A man came out of the gate of the loading yard at about half past eleven with a barrow he had not asked anybody to help him with, and stopped halfway across it to move a stone out of the way that four hundred people had walked around for years, and then went on again, and not one person in that yard would have said at any point in the next twenty years that anything had happened there at all.
 
+He counted them the way he counted washrooms: in order, without turning his head, a figure for every body that came out through that gate, and he did not round it, and he did not decide in advance what a person looked like while they were being counted.
+
+It took him fifty minutes and nothing else, and he understood in the middle of it, standing at a gate in the dark doing arithmetic on strangers, that this was the whole of what a division clerk in Cordwain would be asking anybody for. Not an admission and not a feeling. A figure. And a man who can produce one is a man who can be asked for it twice.
+
 A hundred and eighteen.
 
 He stayed at the yard gate until the gates were shut at about six and then went home, and slept about two hours, and was at the Fourth Branch for seven in the morning.
-
-A man came out of the gate of the loading yard at about half past eleven with a barrow he had not asked for help with, and stopped halfway across it to move a stone out of the way that four hundred people had walked around for years, and then went on again, and not one person in that yard would have said at any point in the next twenty years that anything had happened there at all.
 
 It went on the back page with the gate and the hour on it, under Beatrix's two lines in pencil, and he put the pencil down and picked it up again and did not write a name, because a line is a face and not an act.

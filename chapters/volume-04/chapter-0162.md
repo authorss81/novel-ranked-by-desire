@@ -192,4 +192,6 @@ She went up the stair and he let her get two floors ahead before he followed her
 
 He had taken the four column rule off first. It was on the wall in a different paint and it had been the only part of that wall anybody had ever read.
 
-The frame came down, and the wall behind it was a different white, and there was a pale rectangle in it the size of the sentence.
+The frame came down, and the wall behind it was a different white from the wall either side of it, because a wall remembers having something hung on it for eleven years.
+
+Above the frame, where the sentence had been, there was a band about a foot high and the width of the writing on it that was a shade off the white around it. Somebody had painted it back. Not that morning. The brush had been the wrong width and there was a line along the bottom edge of it where the wall had been dusted and the paint had taken in the dust.

@@ -56,7 +56,10 @@ the fact that there is no protection in that room**; 170 for a woman who cannot 
   a paper comes to me, I answer it, and I do not ask anybody else in this house what the answer is — is
   in the seventh space of the notebook and is not withdrawable.**
 - **The Vestry clinic is in his file.** **Agnete Lindqvist is in the building and cannot get back in.**
-  **Runa Sato is off the Field roster and the standing she entered on the eighth is now a false line.**
+  **Runa Sato has a rule through her line on the Field roster at Cordwain and cannot be found by any
+  office, and the standing she entered on the eighth is now a false line. She has said out loud that two
+  pieces of paper did this to her and one of them was hers: the entry as refusing, which cost her the
+  premises, and a strength count the office had owed since February, which cost her the wall.**
   **Ines Duarte's review is on the morning of the twenty-second and he has promised not to tell the
   table.**
 - **Visitors' book: a hundred and eleven, forty-one about a person, seventeen about the household.** It
@@ -191,8 +194,12 @@ column for it` not before Volume 7 · `record remained` vary or cut.
 ## Length targets
 
 **1,800–2,700 words per chapter.** The scene at 179 sits in the 2,600–3,900 band with a named reason for
-anything over 2,700. Batch 0002's ten ran 1,971 to 2,707 with one scene at 3,618, and **anything outside
-its band carries a named reason in the batch record. Cut rather than pad.**
+anything over 2,700. Batch 0002's ten ran 1,971 to 2,825 with one scene at 4,719, and **anything outside
+its band carries a named reason in the batch record. Cut rather than pad.** **Chapter 169 is the standing
+example on the Batch 0002 prose review: it was first filed at 3,618 with the encounter written as
+implication, it was repaired, and it is now 4,719 with the scene on the page. A scene is the product and
+it is written, not summarised — but a scene that overruns its band has to justify it in the record or be
+cut.**
 
 ## Gates — run all of them, then A and B by hand
 

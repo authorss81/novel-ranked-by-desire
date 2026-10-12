@@ -112,7 +112,13 @@ Runa Sato had not come up the steps at all.
 
 She had been standing at the bottom of them with her hands behind her back, in a place where the market went past and the steps did not, and when she spoke she spoke to the woman on the top step and not to anybody else.
 
-"I was struck off a roster on the twelfth of this month at about ten past two in the afternoon," she said. "There is a frame on a wall in Cordwain with a rule through my line on it and a card taped under the rail that says strength reconciled, seventh.
+"I was entered as refusing on the twelfth of this month at about ten past two in the afternoon," she said. "That is a word in a column. It cost me the premises, and the premises paper is lying on a table in that house with your kitchen on it, and I would pay that again.
+
+"And there is a second thing on that wall that is not the column, and I want it said in this street before anybody says anything else. On the same morning, before I was down the stair, a duty clerk I have never spoken to ruled my line off and wrote a card under the rail that says strength reconciled, seventh.
+
+"That is a count this office has owed since February. It was not done to me. It was done to a building that had one name too many on it, and I happened to be the name."
+
+"So there are two pieces of paper on me and one of them was mine."
 
 "There is no office in this city that can find me by a posting or a division or a service or a band. I have not got any of those, and I gave the last one away in writing on the eighth of this month in exchange for a thing that turned out to be a lie.
 
