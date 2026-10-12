@@ -74,7 +74,6 @@ At the register counter Drant had the thin book open and shut and open again and
 
 "It is not true," Drant said, "and it is what the book is for, and you have known that since the eighth of last month and you have never once asked me to write a true thing, which is why I am going to carry it."
 
-
 He finished the fourth floor at half past five and signed out at the gate and went up the long road, and the thing that stayed with him was not the plate and was not the sweep line and was not the heat.
 
 It was nine pencil lines rubbed out of nine sheets at even intervals, by a man who was not frightened, in a room with no window, with a plate on the door saying what happens to a person who goes through one.

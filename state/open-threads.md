@@ -1,5 +1,32 @@
 # Open Threads
 
+## Volume 3, Batch 0003 — REPAIR PASS (review findings applied)
+
+**The reviewer's four blockers, five should-fix items and five minor items are applied. Prose that was
+working was kept; the batch was not restarted and no planned plot moved.** Three claims this file made
+about its own gates were false and have been corrected in the close record below rather than left
+standing: the `nobody` count (it ran four times in Ch 130, not zero), the paragraph gate (Ch 130 had
+eleven paragraphs over 90 words and three over the 120 ceiling, not none), and the Gate A row for Ch
+126, which traced *nine days (four of them unaccounted for)* — a figure that is nowhere in the chapter.
+
+**Canon settled by the repair, and binding on Batch 0004:**
+
+- **THE SUB-LEVEL CORRIDOR HAS NO CHAIRS IN IT from the 2nd of this month.** Bare board, eight sets
+  of leg marks in two rows of four, and four feet out from the wall the single mark of the chair that
+  stood square to a door. Ch 123 is the chapter that shows it, and it is an observation about dust.
+- **THE MOVE ON THE 2ND HAD TWO LEGS.** Down the Wing stair in the morning with a handcart and a man
+  who gave no name; back up the outside stair at about six in the evening with eight men, who put
+  eight chairs against the far wall of the Reading's third-floor room in two rows of four and did not
+  ask Sabine anything. The ninth stayed in the corridor with her. **Do not state this move in one
+  direction again.**
+- **THE TWO NINTH CHAIRS ARE NOT RESOLVED AND MUST NOT BE.** Ch 95 puts the ninth chair on the third
+  floor of the Reading with Sabine; Ch 100 puts a ninth square to a door at the sub-level on the 20th
+  of last month. Ch 123 states the ninth left on the 27th and that he never found out whether it came
+  out of that corridor. **Resolving it is a future decision, and it has to be made on the page if it
+  is made at all.**
+- **Ch 130's close beat is Sabine Rooke's chair, not a Bellhouse stage.** A "woman on a Friday stage"
+  was residue from the cut first-draft character and is gone; nothing of it enters the canon.
+
 ## Volume 3, Batch 0003 — CLOSE RECORD (writing pass). Ten chapters written, read against the page.
 
 **Drafted against the proposed-canon block below. Changes from the proposal: the four forward marks on the
@@ -28,12 +55,12 @@ whole volume, of which this batch uses three (127, 128, 130).**
 | 122 | eleven years of Sabine's chair and her sheets | 11 | Ch 95/107, her own statement | not a subtraction; a figure she states about her own service and it is unchanged |
 | 125 | four years back (the run) | 4 | the 25th of this month | not converted to days on the page; the four forward marks carry printed dates instead |
 | 125 | four quarterlies | 4 | the clerk's own statement, "a run is entered in the quarterly that follows it and in every quarterly after it" | not a subtraction; a filing rule |
-| 126 | nine days (four of them unaccounted for) | 9 | 21 on the case file, 6 on the run, both printed on the page | 21 − 6 = 15 unaccounted for; the nine in Tove's line is the count of read-only entries, not a subtraction of these figures — **the line reads *That is not a figure* and is followed by *That is five women and ten men*, which is 5 + 10 = 15** |
+| 126 | fifteen unaccounted for, read on the page as five women and ten men | 15 | 21 on the case file, 6 on the run, both printed on the page | 21 − 6 = 15, and Tove's line gives it out loud: *"That is not a figure. That is five women and ten men"* → 5 + 10 = 15. **An earlier draft of this row read *nine days (four of them unaccounted for)*, a figure that is nowhere in Chapter 126; it was a reconciliation of a line the chapter does not contain, and the row has been rewritten to the figure the page actually prints.** |
 | 127 | seven years (the tool's life on the bench) | 7 | Ch 116, the clerk: built seven years ago on the second bench | unchanged |
 | 127 | seven years (the specification's age) | 7 | same | unchanged |
 | 129 | thirty-two days without a movement on the rack | 32 | Ch 100: the rack went 27→28 on the 28th of M+1, "the first time it has moved since the seventeenth of last month" | 28th of M+1 → 28th of M+2 = 31 days; → the 29th = 32 |
 | 129 | three days to the first of next month | 3 | the 29th of M+2 | 30th, 31st, 1st = 3 |
-| 129 | the 22nd was the sixth Sunday of the run | — | **CUT** | no weekday is named anywhere in 121–130 |
+| 129 | the 22nd was the sixth Sunday of the run | — | **CUT** | no date in 121–130 is called a weekday except the 25th, and the only Thursday named at 122 is in a month that has gone |
 | 130 | five days after the thirtieth | 5 | `outline/volume-03.md` §12 day map | 31st of M+2 and the 1st–4th of M+3 = 5, printed as the gap before Batch 0004 |
 | 128 | nine weeks | — | Ch 100's "about nine weeks" said on the 29th of M+1, where 62 days is one day inside 63 | the chapter says she had been right to within a day and that there are thirty-two days of it left; **no arithmetic is asserted and the phrase is carried, not converted** |
 
@@ -62,7 +89,7 @@ nineteenth*). **Do not trust a weekday name; these were subtracted, not gated.**
 ```
 ls chapters/volume-03/                                       → 30
 grep -h '^# ' chapters/volume-03/chapter-01*.md              → 30 titles, all from the volume bank, verbatim
-wc -w, per chapter                                           → 2012 / 2358 / 2094 / 1873 / 1843 / 1954 / 2282 / 1851 / 3167 / 2782
+wc -w, per chapter                                           → 2015 / 2429 / 2230 / 1873 / 1843 / 1958 / 2285 / 1851 / 3443 / 2754
 grep -cE '^\s*(---|\*\*\*|___|—)\s*$'                        → 0 on all ten
 grep -cE '^\s*>'                                            → 0 on all ten
 grep -onE '\*\*[^*]+\*\*|_[^_]+_'                            → 0 (no bold, no italic, no emphasis of any kind)
@@ -71,8 +98,8 @@ grep -nE '^\s*\[.+\]\s*$'                                    → 0 (no system pa
 grep -inE 'years old|\baged [0-9]|…'                         → 3 hits, all *four years old* / *seven years old* applied to a document or a specification. No age is stated for a person.
 grep -inE 'this volume|this book|the reader|\bchapters?\b|\bvolume\b' → 0
 grep -inE 'there is no form|…|nobody thanked|nobody asked|nobody knew|record remained' → 0
-grep -c 'nobody'                                             → 0 across all ten (the prompt allows at most one per batch, in a character's mouth; the first pass had twenty-nine and every one was rewritten)
-awk 'BEGIN{RS=""}' paragraph gate                            → 0 paragraphs over 90 words; none over 120
+grep -inE '\bnobody\b|\bno one\b|\bno-one\b'                → **1 across all ten** — Chapter 130, in the certification clerk's mouth ("Nobody in Cobb Street wants that on a page"), which is the single instance the prompt allows, with work to do. The first pass had twenty-nine and every one was rewritten; a second repair pass cut Chapter 130's four narration uses and Chapter 122's and 126's, so the family now runs once in the batch, in dialogue.
+awk 'BEGIN{RS=""}' paragraph gate                            → **0 paragraphs over 90 words; none over 120.** *This line was FALSE when the batch was first written — Chapter 130 carried eleven paragraphs over 90 and three over the ceiling (144 / 136 / 135). It was corrected by splitting those paragraphs, not by editing the claim.*
 duplication gate (adjacent-identical paragraphs; any sentence ≥8 words appearing twice in one chapter) → 0
 ```
 
@@ -81,14 +108,15 @@ tell me the sentences are varied; it tells me none was printed twice. The word c
 about the prose. This record is not a review of the prose.** A separate run must judge the scene at
 129, the reversal at 125–127, and whether the ten endings vary and land.
 
-**Named length exception, as `outline/volume-03.md` §10 requires.** **Ch 130 runs 2,782 words against
+**Named length exception, as `outline/volume-03.md` §10 requires.** **Ch 130 runs 2,754 words against
 the 1,800–2,700 band.** Reason: it is the hinge into Batch 0004 and it carries three separate closures
 in one morning — the arithmetic's remainder, the Office's knowledge that an empty column is worth
 nothing to it, and the household confrontation that Batch 0004's Chapter 131 opens on — and cutting it
-to band would have cost the confrontation. **Ch 129 runs 3,167 words against the scene band's floor of
-2,600**, which is inside it and needs no reason; the scene is on the page and not summarised, and the
-refusal has to be argued, the debt named, and the terms stated out loud before the scene can happen
-at all.
+to band would have cost the confrontation. **Ch 129 runs 3,443 words against the scene band of
+2,600–3,900, inside it, and needs no reason.** It was 3,167 when first written and the first pass
+**summarised the back half of the scene** — a single paragraph standing in for an hour of it. That
+paragraph has been replaced with written body at the density Chapter 118 sets, and the first claim
+that the scene was "on the page and not summarised" was wrong when it was made.
 
 ### Threads: opened, advanced, left open, untouched
 

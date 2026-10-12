@@ -70,14 +70,13 @@ The fourth said the second of the month four months after the run, and it was on
 
 "It is your job from this morning, and you have one question, because the hearing officer's rule lets a member put a question to the instrument before it is admitted, and a question has to be in writing and it has to go to the desk by the twenty-seventh." She put her hand on the certified run. "Ask why the output has six and the file has twenty-one."
 
-"That is a question about the instrument and only the desk can answer it and it cannot be answered out of these two sheets, because those two sheets are about a man no one in this building has ever heard of."
+"That is a question about the instrument and only the desk can answer it and it cannot be answered out of these two sheets, because those two sheets are about a stranger, and about a name that has never been said aloud in this room."
 
 He looked at the six names and the twenty-one entries and the pencil margin with four forwards on the edge of it.
 
 "Is there a version where somebody is hurt," he said.
 
 "There are fifteen entries with nothing against them," said Tove Marlin. "I have no idea whose they are and neither does anybody on this floor, and if there is a version where somebody is hurt then it is in a file in a district office and not in this room, and that is not a sentence I am going to put in a hall."
-
 
 The Field house had a yard at the back and an inspection was not due and Runa Sato was sitting on the sill with her sleeves rolled past the elbow when he came round, and the cover note was on the sill beside her with a date on it.
 

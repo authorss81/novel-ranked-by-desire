@@ -24,7 +24,7 @@ Six names, written in the same machine hand as the plate number, set in a column
 
 He read them twice.
 
-*Marta Vey. Ansell Rooke. Bethan Truscott. Iven Marchetti-Lowe. Dell Anspach. Willem Rasch.*
+*Marta Vey. Ansell Verrow. Bethan Truscott. Iven Marchetti-Lowe. Dell Anspach. Willem Rasch.*
 
 He had never heard of any of them.
 

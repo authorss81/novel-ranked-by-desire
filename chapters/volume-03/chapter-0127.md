@@ -60,14 +60,13 @@ This was a plain cold that came up out of the floor and settled in the middle of
 
 Four years of carrying a bucket through six floors and touching people. A hundred and twelve lines in a book in a drawer. Every one of them a person he had put a hand on.
 
-Six names on a certified output, because six separate occasions somebody had been in a room with him while a machine was watching, and fifteen of the twenty-one on that date were not on it because they were not in the room and had not been in the room for years.
+Six names on somebody else's certified output, because six people were in a room with that man while the machine was watching, and fifteen of the twenty-one on his file of the same date were not on it because they were not in the room and had not been in the room for years.
 
 The whole of his life is a set of occasions. A machine cannot read a set of occasions, and it cannot read one tonight, and it cannot read a hundred and twelve.
 
 What he wanted, sitting there, was the sheet. The specification was a document and the specification was the only piece of paper in the city that said in advance what that machine would do to him, and it had been sitting on a desk two floors under a room for seven years.
 
 He did not ask for it. He asked for something else.
-
 
 "Read the entry back," he said.
 

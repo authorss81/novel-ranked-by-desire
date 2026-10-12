@@ -26,7 +26,6 @@ He read it three times. The four lines were the business and the fifth line was 
 
 "That is a builder," said Anneke Roos, from the register, without looking up. "That is a person who has confirmed a machine's output in a proceeding and is telling a subject about it the same evening. Put it in your coat and do not read it twice in a corridor."
 
-
 The table had six women at it and the notebook open with a date ruled at the top and thirty-nine days of lines in it, six a day, one per woman, in six hands, and his pen in his pocket where it had been for a month.
 
 He put the slip on the table face up and told them the whole of the twenty-seventh in Tove Marlin's words as near as he could hold them, and he read out the two columns and the two numbers and the fifteen, and then he read out clause nine, which he had written on the back of Ola Bright's pad on the train because he had known on the stair that he would need it in his hand.

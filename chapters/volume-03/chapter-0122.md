@@ -18,7 +18,6 @@ He sat down on the floor against the door frame, which was where a man sits in a
 
 "They asked me a third time," said Sabine Rooke.
 
-
 The woman had come at half past ten with a card and no coat, which Lin Hao understood was a professional decision and not an accident, because a woman with a coat is a woman who is leaving.
 
 The question had not been about a Thursday.
@@ -45,7 +44,9 @@ Lin Hao looked at the chair she was sitting on.
 
 "Where did the nine chairs come from," he said.
 
-"Eight of them came back down here on the second of this month," she said, "with a handcart and a man who did not give his name and did not ask me anything, and they went down the Wing stair and I stood at the top of it and watched them go, which is the third time in two months I have stood at the top of a stair in this building and watched something of mine go down it."
+"The eight went down the Wing stair on the morning of the second of this month," she said, "in a handcart, with a man who did not give his name and did not ask me anything, and I stood at the top of it and watched them go, which is the third time in two months I have stood at the top of a stair in this building and watched something of mine go down it."
+
+"Then eight men came up the outside stair at about six that evening with the same cart and took eight of them back up, and set them against the far wall of that room in two rows of four, and did not ask me anything either, and they left at about twenty past six. I sat on the ninth chair until the building shut and then I went home."
 
 "And the ninth."
 
@@ -68,7 +69,6 @@ He did not say anything, because there was nothing to say to a woman who has kep
 She said that last part the way she said everything, which was as though it were a piece of furniture she had noticed in a corridor and had decided to move.
 
 "I have not asked anybody for anything in my life," she said. "I told you that on the fifteenth of last month and I said I was not starting until the fourteenth of this month, and it is the twenty-second and the fourteenth has gone, and I have come and found you first because I said I would, and I am asking you for the chair."
-
 
 That is what it cost, and she had priced it before she asked, which was the first thing he understood about her.
 
@@ -114,7 +114,7 @@ She nodded once and put her hand back on the back of the chair.
 
 "I am going to be here from seven and I am going to sign for nine chairs and a table and nine boxes, and when the clerk counts she is going to find nine, and she is going to write the number nine, and no chair is going to have to be explained." She straightened up. "You have an hour. Do not be early, because a porter can tell early from late and I have spent eleven years learning what a porter can tell."
 
-He got the chair off the floor of the corridor and took the outside stair down and across the square with it, which is four hundred yards of street in front of two thousand people who had been going past him for four years without looking, and no one looked, and a porter at the foot of the Wing stair in the Exchange building looked, and said the one sentence porters say.
+He got the chair off the floor of the corridor and took the outside stair down and across the square with it, which is four hundred yards of street in front of two thousand people who had been going past him for four years without looking, and not one of the two thousand turned round, and a porter at the foot of the Wing stair in the Exchange building looked, and said the one sentence porters say.
 
 "Corridor furniture."
 
@@ -122,6 +122,6 @@ He got the chair off the floor of the corridor and took the outside stair down a
 
 The porter wrote it in a book. Lin Hao did not ask to see the entry and did not need to, because he had learned in a corridor on the eighth of last month exactly what a book on that floor is for and exactly how long it stays there.
 
-He carried a chair up four flights and put it in the room where eight others stood against a wall, and he put it in the ninth place, four feet out, square to the door, where it had stood for eleven years before eight men came up the outside stair with a handcart and took it away from him.
+He carried a chair up four flights and put it in the room where eight others stood against a wall, and he put it in the ninth place, four feet out, square to the door, where it had stood for eleven years before eight men came up the outside stair with a handcart and took the room apart around it.
 
 Thirty-eight days. Nine left in this month after today and twenty-nine in the next, and a woman downstairs signing her name to nine pieces of furniture for a morning she has arranged for eleven years, and a porter's book on a floor with no standing on it, and the ninth chair in the room where it was always going to be.

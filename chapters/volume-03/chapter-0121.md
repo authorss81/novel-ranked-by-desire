@@ -1,6 +1,6 @@
 # What Adeyemi Is For
 
-Yusuf Adeyemi came to the Fourth Branch on the twenty-first and stood at the top of the stair that serves the fourth floor, which had been discharged for three weeks and did not have anybody on it, and he stood there with his coat folded over his arm as though the floor underneath him were still running.
+Yusuf Adeyemi came to the Fourth Branch on the twenty-first and stood at the top of the stair that serves the fourth floor, which had been discharged on the eighteenth of last month and did not have anybody on it, and he stood there with his coat folded over his arm as though the floor underneath him were still running.
 
 Lin Hao had that floor's washrooms in front of him because they were the dirtiest thing in the building and a week old and unused. He had a bucket, a cloth, and four weeks of asking nothing of anybody.
 

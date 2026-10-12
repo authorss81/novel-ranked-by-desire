@@ -1,5 +1,55 @@
 # Continuity
 
+# Volume 3, Batch 0003 — REPAIR PASS (review findings applied, Chapters 121–130)
+
+**A reviewer ran the batch against its prompt, the prior batch and `AGENTS.md`, and found four
+blockers, five should-fix items and five minor ones. All are applied. The batch was not restarted and
+no planned plot moved: the irreversible decision (option A, Ch 127), the reversal at 125–127, Runa's
+refusal, Sun's position, the scene at 129 and the hinge at 130 all stand exactly as written.**
+
+## What changed on the page
+
+- **The chair geography was contradicting itself and is now fixed against Ch 75, Ch 95, Ch 100 and
+  Ch 107.** Ch 123 had nine chairs standing in the sub-level corridor on the 23rd and then said eight
+  of them had gone up on the 2nd. The corridor now holds **no chairs**: bare board, eight sets of leg
+  marks, and four feet out from the wall the single mark of the chair that stood square to a door.
+- **The 2nd's chair move now runs one way and has both legs.** Ch 122 stated the eight came down,
+  Ch 107 states eight men carried them up. Both are true of the same day: **down the Wing stair in
+  the morning with a handcart, back up the outside stair at about six in the evening with eight
+  men.** Ch 75 (nine in the Reading's corridor on the 26th of last month) and Ch 100 (nine at the
+  sub-level on the 20th) both now sit on one timeline.
+- **THE TWO NINTH CHAIRS, AND HOW THEY READ.** Ch 95 records that the ninth chair stayed on the third
+  floor of the Reading with Sabine Rooke, and Ch 100 records a ninth standing square to a door at the
+  sub-level on the 20th. **These are not asserted to be the same chair.** Ch 123 now says only that
+  the ninth went on the 27th of last month and that he never saw it go and never found out whether
+  it came out of that corridor. **A later phase must not resolve it without a decision on the page.**
+- **Ch 130's paragraph ceiling.** Eleven paragraphs over 90 words, three over 120 (144 / 136 / 135).
+  All eleven were split into shorter ones and nothing was cut.
+- **Ch 130's closing beat.** The "Friday stage in Bellhouse" was residue from the first draft's cut
+  character and named nothing in the manuscript. It is replaced by Sabine Rooke's chair, which is on
+  the page and in this household's future.
+- **Ch 130's stock phrases.** *Hundred and forty seats / rail / ninety standing places* ran three
+  times and *Thirty days* three times; each now appears once where it does work.
+- **Ch 129's scene was summarised and is now written.** One paragraph had stood in for the back half
+  of an hour; it is replaced with six paragraphs of body at the density Ch 118 sets. Ch 129 is 3,443
+  words against the 2,600–3,900 scene band.
+- **The `nobody` family** ran four times in Ch 130 and twice elsewhere. It now runs **once** in the
+  batch, in the certification clerk's mouth, which is the single instance the batch prompt allows.
+- **Ch 127** no longer slides the stranger's run into his own biography; the six names belong to the
+  unnamed subject.
+- **Ch 121** now prints the fourth floor's discharge date (the 18th of last month) instead of a
+  duration that put it twelve days out.
+- **Ch 125's** second counterparty is **Ansell Verrow**, not Rooke; no counterparty shares a surname
+  with Sabine Rooke.
+- **Eight stray double blank lines** removed across 122, 124, 126, 127, 128 and 130.
+
+## What was false in this file before the repair, and is now true
+
+Three claims in the batch's own records were wrong and have been corrected at source rather than
+argued: the `nobody` count, the paragraph-gate line, and the weekday claim. **The Gate A row for
+Ch 126 traced a figure — *nine days (four of them unaccounted for)* — that appears nowhere in Ch 126.**
+The row now traces the figure the chapter prints.
+
 # Volume 3, Batch 0003 — CLOSED (Chapters 121–130)
 
 **Ten chapters written against `outline/volume-03.md` escalation step 3 (The Live Column, 121–133),
@@ -21,9 +71,14 @@ supersedes every Volume 3 block below it on every point it touches.**
   is NEXT month), with the month-remainder stated on the page:** 121 thirty-nine (10+29) · 122
   thirty-eight (9+29) · 123 thirty-seven (8+29) · 124 thirty-six (7+29) · 125 thirty-five (6+29) ·
   126 thirty-four (5+29) · 127 thirty-three (4+29) · 128 thirty-two (3+29) · 129 thirty-one (2+29) ·
-  130 thirty (1+29). Every countdown is printed in the prose with its remainder. **No two dates on
-  the page are ever called a weekday except the 25th, and no other weekday name appears anywhere in
-  121–130.**
+  130 thirty (1+29). Every countdown is printed in the prose with its remainder. **No date in
+  121–130 is called a weekday except the 25th.** The only other weekday name in the batch is
+  *Thursday* at 122, three times, and every one of them is a back-reference to the 12th and the 27th
+  of last month — Thursdays in a month that has gone, and the date the woman with a card keeps
+  asking about. **An earlier version of this line claimed no weekday name appears anywhere in
+  121–130; that was false, and the two instances that made it false (a Monday at 129, correct under
+  the day map but out of the batch's discipline, and a Friday at 130 that belonged to nothing) were
+  replaced rather than argued for.**
 - D4/D3 inherited, flagged, untouched. Nothing in the batch derives from the Review's weekday, and
   no D3 figure is used.
 
@@ -45,7 +100,7 @@ supersedes every Volume 3 block below it on every point it touches.**
   a triumph and it explains nothing; he told no woman in his household about it.**
 - **THE DESK'S BEST WORK (125).** A certified counter-forensics run dated **the ninth, four years
   back**, on an unnamed subject (a plate number; the name line burnished over). Counterparty column:
-  **six names** — Marta Vey, Ansell Rooke, Bethan Truscott, Iven Marchetti-Lowe, Dell Anspach,
+  **six names** — Marta Vey, Ansell Verrow, Bethan Truscott, Iven Marchetti-Lowe, Dell Anspach,
   Willem Rasch. Certified complete to specification. **It cannot be repeated**, because the premises
   closed and the subject is not available, and that is what makes it paper rather than a claim. It
   has been carried into four quarterlies under the same six names.

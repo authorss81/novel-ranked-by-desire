@@ -37,6 +37,29 @@ once **and for the irreversible decision**, which is option A and is the only on
 threat's new species and Beatrix Halm's condition declared dead; 129 for Tessa's ask and the scene;
 130 for the blank output sheet and the arithmetic's remainder.
 
+**Corrections carried from the Batch 0003 repair. Read these before you write, because two of them
+concern a fact the batch briefly got wrong and a third concerns a sentence a reviewer cut.**
+
+- **THE SUB-LEVEL CORRIDOR HAS NO CHAIRS IN IT.** From the 2nd of this month the corridor on the second
+  sub-level of the Fourth Branch is bare board: eight sets of leg marks in two rows of four, and four
+  feet out from the wall the single mark of a chair that stood square to a door. **Do not put a chair
+  back in that corridor.** Ch 123 is the chapter that shows it.
+- **THE MOVE ON THE 2ND HAD TWO LEGS, and must not be stated in one direction again.** Down the Wing
+  stair in the morning with a handcart and a man who gave no name; back up the outside stair at about
+  six in the evening with eight men, who put eight chairs against the far wall of the Reading's
+  third-floor room and did not ask Sabine anything. The ninth stayed in the corridor with her.
+- **THE TWO NINTH CHAIRS ARE NOT RESOLVED.** Ch 95 puts the ninth chair on the Reading's third floor
+  with Sabine; Ch 100 puts a ninth square to a door at the sub-level on the 20th of last month. Ch 123
+  says the ninth left on the 27th and that he never found out whether it came out of that corridor.
+  **Do not resolve it. If a chapter needs it resolved, that is a decision on the page and it costs
+  something.**
+- **Ch 130's close beat is Sabine Rooke's chair.** A "woman on a Friday stage in Bellhouse" was residue
+  from a cut first draft and was deleted. Nothing of it is canon. Do not bring it back.
+- **The `nobody <verb>` family is spent for the batch's purposes.** Batch 0003 ends with exactly one,
+  in the certification clerk's mouth. Start this batch at zero and ration to one.
+- **Chapter 129's scene is the standard for density, not the summary that used to stand there.** It is
+  3,443 words and the back half of it is written body. Write yours the same way.
+
 ## Starting position, exact
 
 - **Plate 8,138. Floor 8,141. Tolerance three. Band six opens at 20,000; 11,862 short.** Seated on the

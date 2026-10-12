@@ -60,7 +60,7 @@ She put her hands in her lap and was quiet for about three seconds.
 
 "Then what was it about."
 
-"It was about me wanting out," she said, "and about me finding out, in a chair, with my own hands on my own book, that the only door out of it is a thing you are going to have to do in a hall in thirty-one days, and about both of us knowing it out loud in a shut room, in four hours, on a Monday morning." She stood up.
+"It was about me wanting out," she said, "and about me finding out, in a chair, with my own hands on my own book, that the only door out of it is a thing you are going to have to do in a hall in thirty-one days, and about both of us knowing it out loud in a shut room, in four hours, on the morning of the twenty-ninth." She stood up.
 
 "And about the fact that you have about two minutes to decide whether you are going to be honest about the second half of it, and I would like you to be, because I have had a very bad week and I am not going to be managed."
 
@@ -112,7 +112,7 @@ There was no cold anywhere in that room.
 
 He was aware of the whole of her body against the whole of his, of her weight coming down onto him on the couch, and of her hair falling forward over both of them. There was not one second in it of anything arriving early and settled, nothing owed between them that a hand could carry.
 
-She did not feed him. She has never fed him. And the whole of what she was asking for on the morning was for him to spend something that does not move on the person it came from.
+She did not feed him. She had never fed him. And the whole of what she was asking for on the morning was for him to spend something that does not move on the person it came from.
 
 She made him put his hands behind his head and she counted him out loud against his collarbone, and when he came up at the end of it she took his face in both hands and made him look at her while she was finishing, which is not a thing she does for a man she is being gracious with.
 
@@ -126,7 +126,17 @@ Then she turned him over onto his front and got a hand under his ribs, and it we
 
 He let her.
 
-It went on for a long time and neither of them hurried at any point in it, and she talked to him the whole way through in the flat voice she used for figures, naming what was happening to him as though it were a return she was completing, and twice she made him say her name and twice he did, and the second time she put her hand flat over his mouth and said not yet and made him wait, and then took the hand away.
+It went on from there for most of an hour and neither of them hurried at any point in it. The light off the window came across the couch and up the wall and went off again as the cloud came over it, and the rack of boards stayed where it was, and the day book lay shut on the table where she had left it.
+
+She talked to him the whole way through in the flat voice she used for figures, and none of it was small talk. She told him what she was doing to him while she was doing it, in the order she was doing it, and she gave him each thing as she found it, and she never once told him that it was all right.
+
+She made him say her name twice. The first time he said it and she said nothing and carried on. The second time she put her hand flat over his mouth and said, "Not yet," and held it there until he had said it again with her palm across it, and then took the hand away and made him finish what he had started with her hand still on his jaw.
+
+She turned him under her and took her time over it with one hand flat between his shoulder blades keeping him where she wanted him, and when he came the second time she held him down inside her and told him the number out loud in the same flat voice she had told him his pulse in twenty minutes earlier.
+
+Then she stopped, and let him get it out of his system, and did not move again until he had. The light had gone round to the other wall by then. He had his face turned into the arm of the couch and could see, past her forearm, the corner of the day book on the table with her sleeve hanging off the edge of it, and the rack above it, and the four shut doors at the end of the corridor.
+
+None of it moved while she was on him, and she was not gentle. She was exact.
 
 Afterwards she lay along him with her weight on his side and one hand flat on his chest, counting his heart, the way she had done it on the twenty-ninth of last month and twice since, and said into the collar of his open shirt:
 

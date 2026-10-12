@@ -9,11 +9,20 @@ tolerance*, carried forward four times and never reconciled; **the reversal, sta
 a clerk in it, from the tool's own clause nine**; **the irreversible decision, and only option A — he
 asks for that run, that file and that margin to be entered against his own file**; the threat's new
 species carried in a man's hands; Tessa Okonkwo asking to be released from a debt he cannot discharge,
-and the scene; and the blank output sheet. Repaired on the read: six weekday names cut to printed
-dates, twenty-nine instances of the `nobody <verb>` family reduced to zero, three horizontal rules cut,
-every paragraph over ninety words split, and the auto-split rejoined so that no quotation breaks across
-a paragraph. Full record at the head of `state/open-threads.md`; calendar and mechanics at the head of
-`state/continuity.md`; summaries in `state/chapter-summaries.md`.
+and the scene; and the blank output sheet.
+
+**Repair pass, applied after review.** First pass, on the read: six weekday names cut to printed dates,
+twenty-nine instances of the `nobody <verb>` family cut, three horizontal rules cut, and the auto-split
+rejoined so that no quotation breaks across a paragraph. **Two of those claims were false when they were
+written** — the `nobody` family was not down to zero, and the paragraphs were not all under ninety words
+— and a reviewer caught both. Second pass: the chair geography in 122 and 123 was contradicting itself
+and is now fixed against Chapters 75, 95, 100 and 107; Chapter 130's eleven over-long paragraphs are
+split into twenty-four and its closing beat no longer names a Bellhouse stage that nothing in the
+manuscript supports; Chapter 129's back half was a summary standing in for an hour of scene and is now
+written; Ch 127 no longer puts the stranger's run in his own biography; Ch 121 prints the fourth
+floor's discharge date instead of a duration twelve days out; and three false gate claims in this
+repository's own records were corrected at source. Full record at the head of `state/open-threads.md`
+and `state/continuity.md`; summaries in `state/chapter-summaries.md`.
 
 **THE STANDING LESSON, repeated:** a trace is not an anchor unless subtracted from two printed dates,
 both still on the page. Batch 0003's countdowns were all subtracted and all printed with their month

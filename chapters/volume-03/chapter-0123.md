@@ -16,19 +16,25 @@ He wanted to stand at arm's length from the door that the paragraph was written 
 
 He cleaned six floors first. The fourth was still discharged and he did it last, and at half past four he put the bucket in the closet and went down the Wing stair.
 
-The top flight was empty. The goods lift light was on at the bottom, which it always was after four, and the corridor ran off in both directions with a door on each side and every door the same, and against the near wall the eight chairs stood in two rows of four with their legs up.
+The top flight was empty. The goods lift light was on at the bottom, which it always was after four, and the corridor ran off in both directions with a door on each side and every door the same, and against the near wall there was bare board with the marks of eight chair legs in the dust in two rows of four, and four feet out from the wall a single mark where one more chair had been standing square to a door.
 
-And there was a ninth chair standing square to a door four feet out from the wall.
+There was nothing in the corridor at all.
 
-He looked at that chair for a long time.
+He had come down a stair twice and stopped on the third step both times and had never once got as far as the wall, so he did not find out about any of it until the twenty-third, which was three weeks after eight men put the last of them into a cart.
 
-It was the same chair.
+He stood and looked at the two sets of marks for a long time.
 
-He had looked at it from the top of this stair on the twentieth of last month with the light off the goods lift on and the drawer in the cabinet open, and he had looked at it from the third step on the fifteenth of the month before with a runner four steps above him, and he had written in his own head on the twentieth that a man who spends six weeks learning where a door is has not yet decided anything about it.
+He had looked at that chair from the top of this stair on the twentieth of last month with the light off the goods lift on and the drawer in the cabinet open, and he had looked at it from the third step on the fifteenth of the month before with a runner four steps above him.
 
-And here was the thing about the chair that he had not worked out on a stair, and it took about a second and a half: eight of the nine chairs in that room had been carried four hundred yards up an outside stair in a handcart on the second of this month and put against a wall in a corridor on the third floor of the Reading, where a woman who arranges rooms had left one of them where she was sitting on it.
+He had written in his own head on the twentieth that a man who spends six weeks learning where a door is has not yet decided anything about it. Six weeks was what it had taken him to find out that the thing on the floor was dust.
 
-Eight went up and were left where a corridor wanted them. The ninth stayed here. And the reason the ninth stayed here was not a decision anybody made about furniture. It was that the list of nine chairs in this building had one line in it and the line had not been filled in since the twenty-sixth of last month, and a room with a gap in the count of its furniture is an unfinished room.
+The eight had gone on the second of this month. They went down the Wing stair in the morning with a handcart and came back up the outside stair at about six in the evening with eight men, and a corridor four hundred yards away, where a woman who arranges rooms had taken eight chairs off a cart and put them against a far wall in two rows of four.
+
+The ninth had gone on the twenty-seventh of last month and he had never been on this floor to watch it go, and it had come out of this corridor or it had not, and after four weeks it made no difference to the shape of the dust.
+
+And here was the thing about the dust that he had not worked out on a stair, and it took him about a second and a half: the list of nine chairs in this building had one line in it, and the line had not been filled in since the twenty-sixth of last month, and nothing that had gone out of this corridor since the twenty-seventh had gone through anything the building counted.
+
+A room with a gap in the count of its furniture is an unfinished room, and he had spent six weeks treating an unfinished room as an occupied one.
 
 He had a full month of reasons not to go and he went through them going down, which is what a man does when he has already decided and is only collecting the objections. The first was the register on the fourth floor, which Drant kept and which said what moved on a floor and when, and had said on the eighth of last month that a man from the Exchange went down the Wing stair with Drant at the top and neither of them went further.
 
@@ -44,7 +50,7 @@ There was no handle on that side of it.
 
 He went down.
 
-That was the whole of it and it took him about eleven seconds and there was nothing in them: the second flight, the turn, the corridor, the light off the goods lift lying in a long shape down the middle of the boards, eight chairs with their legs up on the near side and eleven feet of nothing on either side of him.
+That was the whole of it and it took him about eleven seconds and there was nothing in them: the second flight, the turn, the corridor, the light off the goods lift lying in a long shape down the middle of the boards, the marks of eight chair legs and the mark of one on the near side, and eleven feet of nothing on either side of him.
 
 At the foot of the flight, against the wall, there was the cabinet with four drawers. He had known about that cabinet since the eighth of last month and had never been close enough to see it, and he could see it now, and all four drawers were shut, and the one that had been open on the eighth had a different handle from the other three and had been re-fitted about four inches higher than it had been.
 
@@ -56,7 +62,7 @@ That was so obviously a second set that he understood at once the corridor had b
 
 The other door in the right-hand eleven feet was the one with the plate on it.
 
-He had been wrong for a month and a half about what he expected to feel and he was not wrong about the rest of it. He had expected a corridor and there was a corridor. He had expected eight chairs and there were eight chairs, with their legs up, the way they had stood in a corridor four hundred yards away for nine days in the middle of last month before eight men came up an outside stair with a handcart and took them away.
+He had been wrong for a month and a half about what he expected to feel and he was not wrong about the rest of it. He had expected a corridor and there was a corridor. He had expected chairs and there were none, and the dust had kept the arrangement perfectly, eight and one, for a building that had stopped counting its own furniture a month ago.
 
 He had expected a plate and there was a plate.
 
