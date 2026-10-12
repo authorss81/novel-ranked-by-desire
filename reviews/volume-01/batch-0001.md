@@ -89,5 +89,6 @@ membership, which was spending Chapter 10's plant.
 ## Canon-change flag
 
 None. Chapter 10's title follows the fixed title bank (*No One Keeps the Diary*), not the batch card's
-*Not Back That Shift*; the card's phrasing was carried into the ending instead. Flagged rather than
-adopted, and recorded in `state/open-threads.md`.
+*Not Back That Shift*. The title bank governed, the chapter was written under it, and the card heading in
+`outline/batches/volume-01-batch-0001.md` has since been corrected to match. The card's phrasing survives
+only as the pull line for that chapter. Recorded in `state/open-threads.md`; no canon change.

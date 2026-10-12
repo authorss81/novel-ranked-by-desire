@@ -11,7 +11,7 @@
 | T5 | Tessa Okonkwo's inventory of injuries is running out of room. | V3–V4 | **Open — planted in Ch 10.** She has a physical box in the clinic cold store of bodies that do not match their own charts, and she does not count them. |
 | T6 | Agnete Lindqvist has not been outside a null room in eleven years. | V4, Ch 169 | Open |
 | T7 | Petra Ilyin is under an eleven-year promise she cannot remember making. | V5, Ch 214 | Open |
-| T8 | Ines is losing her twenties to the records she holds. | V10, Ch 447 | **Open — planted in Ch 8.** She says the volume of what she holds; the loss is not yet visible on the page. |
+| T8 | Ines is losing her twenties to the records she holds. | V9, Ch 446 | **Open — planted in Ch 8.** She says the volume of what she holds; the loss is not yet visible on the page. |
 | T9 | Nadia can only go down, never up. | V7 | **Open — planted in Ch 6** (she is delighted and loud about a lift that will not go up). |
 | T10 | Sun Meiling has waited three years for the right question. | V2, Ch 63 | Open |
 | T11 | Why there is no rank ten. | V9 | Open — do not hint before Volume 7 |
@@ -44,12 +44,32 @@ Any proposal to change a fixed canon item, to move a character's age, to resched
 the ending, or to introduce a final enemy not already named here goes in this file as a flagged
 proposal with a reason, before it is written into a chapter. It is not silently adopted.
 
-**Reconciled at the bible verification pass, no canon change:** the household is twelve partners and
-**nine** of them are sworn in. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not in the standing
-household recognised at Chapter 402, each for a stated reason, fixed in `bible/characters.md`. Any batch
-that puts a fourth woman outside the sworn nine, or that has a sworn woman leave without explaining it,
-is changing canon and must flag it here first.
+**Reconciled, no canon change.** The household is **twelve partners, nine sworn in.** Wren Kallo, Sun
+Meiling and Dagmar Oyelowo are not on the standing household roll recognised at Chapter 402, each for a
+stated reason, fixed in `bible/characters.md`. The roll binds the plate and the bond, **not** shared
+quarters, which is what lets Ines Duarte be sworn in at Ch 402 while keeping her own rooms on Lantern Row
+after Ch 271. Any batch that puts a fourth woman outside the sworn nine, that has a sworn woman leave
+without explaining it, or that puts Ines back under his roof, is changing canon and must flag it here
+first.
+
+**The four who use the option to leave, fixed and countable:** Ines (out at 246, back at 271), Wren
+Kallo, Sun Meiling, Dagmar Oyelowo (each refusing the plate and the quarters, for the reasons in the
+characters file). The old wording — "two who can leave" in the series outline against "at least three"
+in the themes file — is closed; both now say four, and they mean the same four people.
 
 **Closed:** the Chapter 10 card was headed *Not Back That Shift* while the fixed title bank in
 `outline/volume-01.md` gives that chapter as *No One Keeps the Diary*. The title bank governed, the
 chapter was written under it, and the card heading has been corrected to match. No canon change.
+
+**Known and accepted: two short scene gaps in Volume 1.** Chapters 26 and 29 are three apart and 29 to 36
+is seven, against a soft floor of eight. Both are locked inside Batch 0003, whose climax is specified as
+Ch 26–28 and whose title bank gives Ch 27 to the Thursday line; separating them would break the batch
+plan. Every other gap in the book is between eight and fourteen. Do not "fix" these in a later batch by
+moving Tessa's or Nadia's scene — if it ever must be fixed, it is a Volume 1 re-plan, flagged here
+first.
+
+**Closed:** Volume 10's fifth scene was scheduled at Ch 492 with the wording "nine women, one account,"
+which described the Ch 473 household argument that `outline/ending.md` already owns. The table entry now
+sits at **Ch 494** with `ending.md`'s own dispersed-household wording. `ending.md` governs; the table
+followed. Chapter 447's "Final scene" is now **Ch 446, the close of the climb** — Ines opens the last
+volume at 454 — and `T8` above was repointed to match.

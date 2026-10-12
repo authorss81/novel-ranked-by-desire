@@ -45,8 +45,10 @@ week whether to report the man she is sleeping with. It costs her nothing to be 
 everything to be honest, and the book never resolves that by making the Bureau villainous.
 
 **Violates it when:** the women become rewards for his progress. They are not. Each one has her own
-standing, her own agenda, her own account to settle, and the option to leave, and at least three of them
-use that option during the book and come back on their own terms.
+standing, her own agenda, her own account to settle, and the option to leave. **Four of the twelve use
+that option on the page** — Ines walks out in Chapter 246 and comes back in 271, and Wren Kallo, Sun
+Meiling and Dagmar Oyelowo refuse the plate and the quarters outright — and all four are still standing in
+his life at the end, on their own terms.
 
 **The awkwardness the book keeps:** a man being fought over by women who would not have looked at him last
 month, and the reader gets to enjoy that *and* to watch him be sick about it.
@@ -73,7 +75,7 @@ stops them from seeing him.
 ## 5. A gift that can only be returned is not a gift
 
 The reservoir gives back only what was given to it. That limitation is the moral centre of the novel and
-it is not a limitation the plot ever gets around: in nine volumes he never takes anything from anyone. He
+it is not a limitation the plot ever gets around: in ten volumes he never takes anything from anyone. He
 returns. Which means every woman who wants him is a woman who has to decide she wants to be given
 something back, and that is a different thing from being wanted and it is the book.
 
@@ -82,7 +84,7 @@ going to, because in the last hour he put his hand on her wrist and gave her bac
 she has been owed since her mother's reading.
 
 **Violates it when:** the power is used to seduce, compel, soften an objection, or win a negotiation.
-Not once, in nine volumes. If a scene would read differently if he had used the reservoir to make her want
+Not once, in ten volumes. If a scene would read differently if he had used the reservoir to make her want
 it, the scene is wrong.
 
 **Ending answer:** the last volume asks who the account belongs to, and the answer is that an account

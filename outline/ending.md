@@ -26,9 +26,11 @@ The question of the final volume, stated once and then never restated in those w
 
 ## Starting state
 
-**Lin Hao, 30.** Rank nine, black tile, the first new name on the top row in living memory. Standing
-household of nine, recognised at the Terrace at Chapter 402. He is, by Volume 10, the most protected man
-in Ostara and the most hunted, and the protection and the hunt are the same fact.
+**Lin Hao, 30.** He is twenty-five in Chapter 1 and twenty-eight when he reaches rank nine, so thirty is
+the right number here and no chapter may contradict either figure. Rank nine, black tile, the first new
+name on the top row in living memory. Standing household of nine, recognised at the Terrace at Chapter
+402. He is, by Volume 10, the most protected man in Ostara and the most hunted, and the protection and
+the hunt are the same fact.
 
 **What he holds:** a file, opened. A transfer receipt naming his brother. A ledger with a thousand
 faces. An account with roughly 1.4 million grains of unrecorded merit in it — more than the entire

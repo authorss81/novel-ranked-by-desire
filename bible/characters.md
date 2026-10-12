@@ -84,20 +84,32 @@ recipient for it.
 ## The household
 
 Twelve partners. Five are core; seven more join between Volume 1 and Volume 8. Entry volumes and scene
-chapters are fixed here so nobody re-invents them.
+chapters are fixed here so nobody re-invents them, and **the twelve are numbered in the order they enter**
+— that is, in the order of their first scenes — so a writer who needs to know who is on the page by
+Volume 4 can count down the list instead of guessing.
 
-**The standing household is nine of the twelve.** Under Ostaran law a standing household shares quarters
-and one plate and is bound by the highest rank in it, and it is recognised at the Terrace in Chapter 402.
-Nine women are sworn in. Three are not, and the three are fixed, and no batch invents a fourth:
+**Core and sworn are two different lists and only one name is on both.** The **core five** are the women
+whose arcs run the length of the book and who are named as the core roster in `NOVEL_SPEC.md`: **Ines
+Duarte, Tessa Okonkwo, Runa Sato, Marguerite Vale, Sun Meiling.** Beatrix Halm enters earlier than three
+of them and is not core; that is a scheduling fact and not a ranking, and no batch may promote or demote
+anybody on this list.
+
+**The standing household is nine of the twelve.** Nine women are sworn in on one plate at the Ninth
+Terrace in Chapter 402 and the household is bound by the highest rank in it. **The law binds the plate and
+the bond. Shared quarters are how most households do it and they are what a reader will assume, but
+quarters are not the test** — a sworn member may hold her own plate and her own rooms, and her name stays
+on the roll, and the roll is the thing the Bureau reads and the thing requisition runs against. The three
+who are not sworn are fixed, and no batch invents a fourth:
 
 - **Wren Kallo** cannot be sworn in without destroying the posting that makes her useful. A Bureau
   counter-forensics officer bound to a rank-nine man is a woman nobody in her own division will speak to
   by Volume 6, and she chooses that over the protection.
 - **Sun Meiling** cannot be sworn in while she is inside Veil-Research, and by Volume 8 the sworn-in women
   are the ones who can be requisitioned. She is the one who needs protecting, and the household protects
-  people by being a household.
-- **Dagmar Oyelowo** lives at the Ninth Terrace and runs its intake desk and will not leave it. She is in
-  the household in every way the law can see and in none of the ways that matters.
+  people by being a household. She is core and unsworn, and both of those are deliberate.
+- **Dagmar Oyelowo** has run the Ninth Terrace intake desk for twenty years, and the desk is a public
+  post. A name on a household roll is read at every counter a member of it ever stands in front of, and
+  hers is the counter; the oath would make her legible where she works and would not reach her there.
 
 All three come to his shift in the last chapters anyway. **Nobody in this book stays because she cannot
 leave.**
@@ -125,6 +137,14 @@ the whole tension she carries into Volume 5, which is titled after her.
 **Arc:** becomes the woman who can read the unrecorded case, because in Volume 10 she is the only
 auditor alive who has ever held a record that was never written. Ends in Volume 10 having got her
 twenties back and no idea what year it is.
+
+**She does not live in the household and she is still sworn into it.** She walks out of his flat in
+Chapter 246 and comes back in 271 on her own terms, and `outline/series.md` is explicit that from then on
+she is not under his roof. She keeps her own rooms on Lantern Row and her own plate for the rest of the
+book, and at the Terrace in Chapter 402 she signs for the household anyway, in person, and does not
+argue about it. Because the bond and the roll are the law and quarters are not, this is legal, it is
+deliberate, and it is the strongest thing either of them says out loud. **No later batch may put her back
+under his roof without flagging it in `state/open-threads.md` first.**
 
 ### 2. Beatrix Halm — tram operator. Age 27. Enters Volume 1. Scene: Chapter 17.
 
@@ -160,7 +180,23 @@ stops being afraid of it.
 ward and says so. **What it changes:** she stabilises a turned person by paying the cold minutes herself,
 out of her own inventory, and Lin Hao has to be told that the cost of a turned line is not only his.
 
-### 4. Runa Sato — field operative. Age 29. Enters Volume 1. Scene: Chapter 36.
+### 4. Nadia Ferrous — lift operator. Age 23. Enters Volume 1. Scene: Chapter 29. **Adult, always
+written as one.**
+
+Youngest of the household, loudest, and completely unambiguous about what she wants from the first page
+she appears on. She does not need the reservoir. She felt a cold minute in a warm lift and has told
+everybody about it.
+
+**Gift:** she arrives before anyone else. **Cost:** distance only folds downward for her. She can go down
+fast and up never, and she has never once in her life been able to leave.
+
+**What she wants:** him, specifically, and out loud. She is not a mystery and she is not a test.
+
+**First scene (Ch 29):** in a stopped lift between the Vestry and the clinic, and neither of them gets
+stuck by accident. **What it changes:** she becomes the household's conscience and its comic relief and,
+in Volume 7, the person who physically carries the answer up a floor she cannot otherwise climb.
+
+### 5. Runa Sato — field operative. Age 29. Enters Volume 1. Scene: Chapter 36.
 
 Brute-force division, rank six, sent to watch him because the Bureau does not send auditors, it sends
 her. Hates that he outranks her on paper and much more that he does not have a rank at all.
@@ -177,7 +213,7 @@ injured and neither of them impaired by anything the book should not use. **What
 declines to write the report that would end him. From Chapter 36 the Bureau's most dangerous field
 operative is lying in her own files, and she knows exactly how expensive that is.
 
-### 5. Marguerite Vale — guild broker. Age 41. Enters Volume 1. Scene: Chapter 46.
+### 6. Marguerite Vale — guild broker. Age 41. Enters Volume 1. Scene: Chapter 46.
 
 The Vant's senior broker. Trades in favours, keeps the real books, and keeps investing after the return
 stops making sense.
@@ -195,36 +231,21 @@ plainly enjoying it. **What it changes:** she offers to launder the reservoir in
 he says no, and she keeps investing anyway. That refusal is the most attractive thing anyone has done for
 him in five hundred chapters and it is the beginning of Volume 6.
 
-### 6. Nadia Ferrous — lift operator. Age 23. Enters Volume 1. Scene: Chapter 29. **Adult, always
-written as one.**
+### 7. Sun Meiling — research wing. Age 33. Enters Volume 2. Scene: Chapter 63.
 
-Youngest of the household, loudest, and completely unambiguous about what she wants from the first page
-she appears on. She does not need the reservoir. She felt a cold minute in a warm lift and has told
-everybody about it.
+Lin Wei's former research partner, who waited three years for someone to ask her the right question. She
+is the one who will say the sentence in Volume 8 that reconciles everything, and she is one of the core
+five and is still not on the roll at Chapter 402.
 
-**Gift:** she arrives before anyone else. **Cost:** distance only folds downward for her. She can go down
-fast and up never, and she has never once in her life been able to leave.
+**Gift:** she sees the same shape in different data. **Cost:** she lost the ability to see a single thing
+clearly; she sees everything as a set, which is why nobody, including her, can tell her when she is wrong.
 
-**What she wants:** him, specifically, and out loud. She is not a mystery and she is not a test.
-
-**First scene (Ch 29):** in a stopped lift between the Vestry and the clinic, and neither of them gets
-stuck by accident. **What it changes:** she becomes the household's conscience and its comic relief and,
-in Volume 7, the person who physically carries the answer up a floor she cannot otherwise climb.
-
-### 7. Wren Kallo — Bureau counter-forensics. Age 38. Enters Volume 3. Scene: Chapter 118.
+### 8. Wren Kallo — Bureau counter-forensics. Age 38. Enters Volume 3. Scene: Chapter 118.
 
 Built the tool that would classify Lin Hao, and has to decide whether to keep her hand in the machine.
 Gifts: she sees the shape of an edit in a record. **Cost:** she cannot keep a secret — which made her an
 excellent auditor and a poor friend, and which means by the time she joins the household the secret in
 question is already four people deep and she has told three of them.
-
-### 8. Sun Meiling — research wing. Age 33. Enters Volume 2. Scene: Chapter 63.
-
-Lin Wei's former research partner, who waited three years for someone to ask her the right question. She
-is the one who will say the sentence in Volume 8 that reconciles everything.
-
-**Gift:** she sees the same shape in different data. **Cost:** she lost the ability to see a single thing
-clearly; she sees everything as a set, which is why nobody, including her, can tell her when she is wrong.
 
 ### 9. Agnete Lindqvist — chaplain of the Church of the Quiet Number. Age 45. Enters Volume 4.
 Scene: Chapter 169.

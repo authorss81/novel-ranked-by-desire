@@ -190,31 +190,50 @@ something.
 | 261 | Isolde Marchetti | First scene. | The household becomes public. |
 | 271 | Ines Duarte | She comes back, on her own terms, having filed a correction she has not filed yet. | The relationship is better than it was and she is not under his roof. |
 | 388 | Dagmar Oyelowo | First scene. | The woman with no gift says yes to the man with the only one, out loud, and it is the last quiet thing in the book. |
-| 402 | The household | Standing household recognised at rank nine. | Lin Hao becomes legally bound to nine women and their combined standing, which is the cover for the last volume. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not sworn in; which three and why is fixed in `bible/characters.md`. |
-| 447 | Ines Duarte | Final scene. | She reads him correctly, in public, on purpose. |
-| 492 | The household | Last scene. | Nine women, one account, and a decision they all signed. |
+| 402 | The household | Standing household recognised at rank nine. | Lin Hao becomes legally bound to nine women and their combined standing, which is the cover for the last volume. He signs the roll himself and Ines Duarte signs hers in person, from her own rooms, without arguing about it. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not sworn in; which three and why is fixed in `bible/characters.md`. |
+| 446 | Ines Duarte | The close of the climb. | She reads him correctly, in public, on purpose, and it is the last time anybody in the city gets to do it to him by accident. |
+| 454 | Ines Duarte | The last volume opens on her. | She is the only person in Volume 10 who never lies to him and never lets him lie to himself, and they have one conversation about it. |
+| 494 | The household | Last household scene. | Nine women, dispersed and intact, in the week after the return, signing the thing they have all signed. Three of them never live with him again and all three of them come to his shift. |
 
-**The two women who can leave, leave, and come back, and that is the proof the book is not a harem
-power fantasy about a man being worshipped.** Nobody stays because she cannot leave. Everybody stays
-because she can and does.
+**Four women use the option to leave, and that is the proof the book is not a harem power fantasy about a
+man being worshipped.** Ines walks out in Chapter 246 and comes back in 271 on her own terms and does not
+live under his roof again. Wren Kallo, Sun Meiling and Dagmar Oyelowo refuse the plate and the quarters
+outright, for the three reasons fixed in `bible/characters.md`, and all three of them are still standing
+in his life at the end. Nobody stays because she cannot leave. Everybody stays because she can and does.
 
 ### Scene budget across the book
 
-Fifty-one planned scenes in 500 chapters. No gap between consecutive scenes exceeds fourteen chapters.
-Every volume carries its share; the reviewer counts from this table.
+Fifty-one planned scenes in 500 chapters. No gap between consecutive scenes exceeds fourteen chapters, and
+no gap runs under eight except the two inside Volume 1 noted below. Every volume carries its share; the
+reviewer counts from this table.
 
 | Volume | Scene chapters | Count |
 | --- | --- | --- |
 | 1 Rank Four | 8, 17, 26, 29, 36, 46 | 6 |
-| 2 The Reservoir | 56, 63, 74, 86, 96 | 5 |
+| 2 The Reservoir | 55, 63, 74, 86, 97 | 5 |
 | 3 The Reading | 106, 118, 129, 141, 149 | 5 |
-| 4 Six | 155, 169, 178, 190, 198 | 5 |
+| 4 Six | 157, 169, 179, 189, 197 | 5 |
 | 5 The Auditor's Price | 205, 214, 228, 241, 249 | 5 |
-| 6 The Broker's Terms | 255, 261, 274, 287, 297 | 5 |
-| 7 Seven | 308, 319, 332, 344, 349 | 5 |
-| 8 The Brother's File | 353, 365, 378, 388, 396 | 5 |
-| 9 Rank Nine | 404, 418, 429, 441, 447 | 5 |
-| 10 Returned | 454, 465, 474, 483, 492 | 5 |
+| 6 The Broker's Terms | 261, 269, 279, 289, 299 | 5 |
+| 7 Seven | 308, 318, 329, 340, 350 | 5 |
+| 8 The Brother's File | 358, 369, 380, 388, 398 | 5 |
+| 9 Rank Nine | 406, 417, 428, 438, 446 | 5 |
+| 10 Returned | 454, 465, 474, 483, 494 | 5 |
+
+**Three notes on this table, so no later writer mistakes it.**
+
+- **Chapters 63, 118, 169, 214, 261 and 388 are immovable.** They are the first scenes of Sun Meiling,
+  Wren Kallo, Agnete Lindqvist, Petra Ilyin, Isolde Marchetti and Dagmar Oyelowo, and each of those is
+  named in `bible/characters.md`. The other forty-five are movable.
+- **Chapters 454, 465, 474 and 483 are Volume 10's four labelled scenes** in `outline/ending.md`. The
+  fifth entry, 494, is the dispersed household of its Ch 494–497, and it is the last one in the book
+  containing all nine sworn women. The household argument at Ch 473 is a different beat and is not a scene
+  in this table's sense.
+- **Volume 1 is the one place the floor is not met, and it is deliberate.** Chapters 26 and 29 are three
+  apart, and 29 to 36 is seven. Both are inside Batch 0003, whose climax is written as Ch 26–28: Tessa's
+  scene and Nadia's are two panels of the same ten-chapter batch, in the same four-floor building, with
+  the clinic's records between them. Separating them would break the batch plan and the title bank. They
+  are the only two short gaps in the book.
 
 A scene may be moved one or two chapters when a volume outline is written, but **never past the next
 entry in this row**, and a movement that pushes a gap to sixteen is a failed budget and the batch is
