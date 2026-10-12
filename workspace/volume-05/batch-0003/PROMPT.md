@@ -33,9 +33,13 @@ trace every date by hand.**
 - **THE CERTIFICATE IS BATCH 0004'S, AND SAY SO ON THE PAGE IF A CHARACTER NEEDS TO.** Batch 0004 runs
   the twenty-first to the thirtieth and is the only batch that can reach the twenty-sixth or the
   twenty-seventh. **This is now recorded in `outline/volume-05.md` §6 movement 3 rather than left to be
-  discovered by whoever writes Batch 0004.** A character doing arithmetic out loud in June is going to
-  say *three weeks* or *the end of the month* and is going to be right, and a character who says *nine
-  days* is going to be wrong and is going to have to be shown being wrong.
+  discovered by whoever writes Batch 0004.** A character doing arithmetic out loud in the second half of
+  June is going to say *the end of the month* and is going to be right. **The first of July is twenty
+  days out on the eleventh and eleven days out on the twentieth. The certificate is sixteen days out on
+  the eleventh and seven on the twentieth. *Three weeks* is wrong on every day of this batch, and *three
+  weeks and three days* is the length of the window the seventh bought and is wrong on every other day
+  of the month.** A character who says *nine days* is going to be wrong and is going to have to be shown
+  being wrong.
 - **June's Thursdays are the first, the eighth, the fifteenth, the twenty-second and the twenty-ninth.**
   Batch 0002 printed the whole of June's weekday map and it is in `state/continuity.md`. **Batch 0003
   contains exactly ONE Thursday and it is the fifteenth, and it repaints, and it is Chapter 225.** No
@@ -106,11 +110,11 @@ mechanism arrive and to show her reading it correctly, in public, without being 
    looking at it, and she has said on the page that she has not asked what the account is for.** This
    batch may advance it hard. It may not identify the hand.
 3. **THE BROKER'S CHAIN, ONE STEP FURTHER, WITHOUT THE ANNUAL SITTING.** Solveig Rask does not come on
-   stage and the sitting is four years out and is Volume 6. **What this batch owns is the first
-   valuation on the first of July being four days after the batch ends, and a lodged standing that a
-   broker has said cannot be withdrawn before it.** Somebody in that guild is going to test that, and
-   the test is not necessarily hostile.
-4. **THE SUNDAY CHAPTER.** Batch 0002's quiet chapter was Beatrix Halm's and it is spent. **Batch 0003
+stage and the sitting is four years out and is Volume 6. **What this batch owns is the first
+  valuation on the first of July being eleven days after the batch ends, and a lodged standing that a
+  broker has said cannot be withdrawn before it.** Somebody in that guild is going to test that, and
+  the test is not necessarily hostile.
+4. **THE QUIET CHAPTER.** Batch 0002's quiet chapter was Beatrix Halm's and it is spent. **Batch 0003
    needs a valley of its own and it needs a woman who has not had one.** Tessa Okonkwo's fourth rib is
    an open thread and an unfunded clinic that a certificate is about to make visible is Ch 207's
    standing promise, and **Ch 228 is immovable and is inside this batch**, so whatever Ch 228 stages, a

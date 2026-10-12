@@ -70,7 +70,9 @@ point it touches.**
   and the next valuation. A month is a valuation, unless the book changes hands.**
 - **A CALLED STANDING CANNOT BE DRAWN AGAINST (Ch 218).** Every entitlement any member of the household
   bought in the month of May with the household's standing behind it is unpayable from the seventh of
-  June to the first of July. **Twenty-three days and one.**
+  June to the first of July. **Twenty-four days, which is three weeks and three days. Of that, the
+  window is twenty-three days on the eighth (Ch 218) and twenty-one days on the tenth (Ch 220), and the
+  two chapters differ by exactly the two days between them.**
 - **A QUARTERLY RETURN IS NOT AMENDED, IT IS ADDED TO (Ch 217).** A return lodged early on the
   twenty-fourth of a month stands.
 - **THE AUDIT DIVISION CANNOT CERTIFY A SCHEDULE ITS OWN AUDITOR OF RECORD IS A MEMBER OF (Ch 219).**

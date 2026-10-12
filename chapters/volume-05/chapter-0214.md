@@ -154,6 +154,64 @@ He stopped.
 
 She said, "Yes," and pulled his shirt out of his trousers with one hand and then took her own hair up off her shoulders and held it, which was the only concession to the room she made all afternoon.
 
+## The Inventory
+
+She took the docket off the bolted table and put it face down and squared it to the edge, which is the thing a woman does to a surface she intends to come back to.
+
+"Right," she said. "I am going to do this the way I take stock of a room, and I am telling you that I am going to do it that way for the first four minutes, and then I am going to stop, and when I stop you are not to put it together again and make it tidy."
+
+"I will not."
+
+"You will want to." She put her hands flat on the table, one on either side of the docket. "That is the whole of what I have ever offered anybody, and I am thirty-five, and I have made exactly one of them and it is to a man I met on the second of this month."
+
+She went at her own shirt and was bad at it and did it anyway, got the jacket off her shoulders with his hands on it and let it fall, and it made the sound a thing makes when it is put down by somebody who has carried it up stairs for eleven years.
+
+Then she stood in front of him with her arms down at her sides and said, "Look at me and tell me what you see, and be careful, because I have asked four hundred men that in four hundred rooms and never once wanted the answer."
+
+He told her.
+
+She was quiet for a second and a half, then said, "Say that again, slower, and do not be decent about it."
+
+He said it again, slower, and not decently.
+
+"That is the instrument," said Petra Ilyin.
+
+She got a hand behind his head, pulled it down to her and put her mouth on his, and for about four seconds she was bad at it, and after that she was not bad at anything.
+
+She let her hair down over the two of them and said into it, once, that there had not been a man in any room she had stood in for eleven years, and then stopped talking and took her shirt off over her head and opened her own belt before he understood that she had decided to.
+
+It is a hard table and her shoulder went into the rail of it. "Careful," he said. "You put me on it."
+
+"I have been in worse rooms than this one," she said, "and I have never once been in one with anybody in it."
+
+Everything she had on under the shirt had been chosen by somebody with a duty list and she got out of it standing up in about nine seconds, without once taking her eyes off him.
+
+She got his shirt up off him then and put her palm flat between his shoulder blades and pushed him back down onto the bolted table and stood over him and said, "Take stock of me. You are the officer now."
+
+It went on from there for a long time in a room eleven feet by seven with a high grille over a yard, and the last of the light came through it in bars that were first on the table and then on the floor.
+
+At some point she reached up without looking for it and turned the wall lamp off with the back of her hand and said, "I cannot do anything at all with a lamp on, and I am not going to be one of the women who says it out loud."
+
+She told him to stop, and then told him to start again, both instructions given in the flat voice of a woman reading a clause out of a book. The second time she put her hand flat over his mouth to say it and took it off herself afterward, which she had never once done before.
+
+She got him up off the table onto his feet with a hand under him and would not be carried, and it was very cold in the room and neither of them had a thing on.
+
+"I want that said in the room and not afterwards," she said. "I have not been under a man in eleven years and I have been under my own hand about four hundred times, and I noticed myself saying that and went on anyway."
+
+Then she sat on the edge of the bolted table with her back to the open door and stopped, all at once, in the middle of a different sentence.
+
+"That is odd," she said.
+
+"What is."
+
+"Nothing has happened." She was looking at her own hands. "For eleven years, in a room with a door on it, about four minutes in, my chest does a thing and I stand up and I go to the door, and it is not a thought and it is not a decision, and it is the only instruction I have ever had that I could not write down.
+
+"It has not happened once tonight. Marguerite Vale took it off a chained book in front of me at about five o'clock and I felt it go, and I did not know that was what it was, and I have spent three hours finding out that a thing I have believed was mine was a clause in somebody else's book."
+
+She got her breath, and it took longer than the sentence.
+
+"That is the whole of what I came up here to find out," she said, "and I found it in a room I could already walk out of, and I am not going to be grateful to you for it in the way you are expecting, and the peg is behind your head and you have not looked at it once."
+
 Afterwards she lay along the bolted table with her boots on the floor and one arm over her eyes and counted nothing, because she had no reason to count, and when he asked her what she was thinking about she said, "Eleven years," and then, after a while, "The peg."
 
 "The coat."

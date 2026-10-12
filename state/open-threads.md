@@ -130,7 +130,10 @@ less that: **3 (rest of April) + 30 (May) = 33 on the thirtieth, + 1 = 34 on the
 
 **Every row was checked by hand against the chapter that prints its anchor, per adjudicated item 62,
 and the anchor-character question — what does the anchor character actually do on that date — is
-answered in the row. Twelve real errors were found in the drafting pass and all twelve are fixed.**
+answered in the row. Twelve real errors were found in the drafting pass and all twelve are fixed, and a
+review that did not write the pages found four more, all of them at Ch 220, and all four are fixed.**
+**A row exists for every figure printed on the page, not only for anchor events, and every row must be
+grep-verifiable against the committed chapter before this record is written.**
 
 | Chapter | Figure | Anchor | Subtraction, and what the anchor character actually does on that date |
 | --- | --- | --- | --- |
@@ -167,22 +170,34 @@ answered in the row. Twelve real errors were found in the drafting pass and all 
 | 219 | **the certificate is dated the twenty-seventh and the schedule goes up on the twenty-sixth; two working days between them** | the schedule goes up the working day before the certificate | **26 → 27 = 1, and the chapter says *two working days* because it means the two on which they are worked, not the two dates.** **Deliberately printed with NO REASON**, per the standing instruction |
 | 219 | **raised against those premises on the twenty-first of May** | Ch 210 | Canon quotation |
 | 220 | **the demand was met on the tenth by a clerk writing one word** | the demand was dated the tenth | Correct and the chapter dates it |
-| 220 | **twenty-one days** to the first of July | the tenth of June | **10 June → 1 July = 21.** **THE FIRST PASS PRINTED *TWENTY-THREE*, WHICH IS THE FIGURE FOR THE EIGHTH, WHICH IS WHAT CH 218 SAYS.** Fixed, and the two chapters now differ by the two days between them |
+| 220 | **twenty-one days** out of this morning, and the section is headed for it | the tenth of June | **10 June → 1 July = 21.** **THE FIRST PASS PRINTED *TWENTY-THREE*, WHICH IS THE FIGURE FOR THE EIGHTH, WHICH IS WHAT CH 218 SAYS.** Fixed, and the two chapters now differ by the two days between them. **THE REVIEW REPAIR PASS FOUND THE PROSE FIX HAD NEVER BEEN MADE AND ONLY THE HEADING SURVIVED: `## Twenty-Three Days`. The heading is now `## Twenty-One Days` and Runa Sato derives the figure on the page — *"That is twenty-one days out of this morning and three days behind us."* Grep for `twenty-one` in `chapter-0220.md` now returns that line and the heading** |
+| 220 | **three weeks and three days**, spoken three times | the seventh of June to the first of July | **7 June → 1 July = 24 days = 3 weeks + 3 days.** **REVIEW REPAIR: THE DRAFTING PASS PRINTED *THREE WEEKS AND ONE DAY* TWICE (Runa Sato and Sun Meiling) AND *THREE WEEKS* ONCE (Lin Hao), WHICH ARE 22, 22 AND 21 DAYS, AND LIN HAO'S SENTENCE THEN SAID THE PAPER WAS WRITTEN FOR *THE DAY AFTER* A 21-DAY WINDOW AND SO FOR THE TWENTY-EIGHTH, WHEN THE TWELFTH DOCKET IS DATED THE FIRST OF JULY.** **This window had NO row in this table — the drafting pass traced the start anchor and never the end — which is why the defect survived it. All three now print three weeks and three days, and Lin Hao's closes on the first of July** |
+| 220 | **eight days**, in Petra Ilyin's mouth | the second of June to the tenth | **2 → 10 = 8.** **REVIEW REPAIR: THE DRAFTING PASS HAD *TWENTY-ONE DAYS* STANDING ALONE AS HER OPENING FIGURE IN A SPEECH ABOUT THE FOUR HUNDRED ROOMS SINCE THE SECOND, WHERE IT IS NOT DERIVABLE FROM ANYTHING SHE IS HOLDING. It is now *eight days*, which is the figure the sentence is actually about** |
 | 220 | **the account was secured from the seventh** | the lodging on the seventh | Correct |
 | 220 | **seventeen days to a certificate** | the certificate is the twenty-seventh of June | **10 → 27 = 17.** **THE FIRST PASS PRINTED *TWENTY-TWO*, WHICH IS THE FIGURE FOR THE FIFTH.** Fixed |
 | 220 | **a hundred and thirty-two dockets** | one a month for eleven years | **11 × 12 = 132.** **THE FIRST PASS HAD ELEVEN SHEETS IN A COAT POCKET FOR ELEVEN YEARS, WHICH IS ELEVEN MONTHS, AND A BUNDLE OF ELEVEN IS ALSO WHAT IT SAID ABOUT THE FIRST DOCKET BEING DATED IN THE YEAR OF THE VEI, WHICH IS TWENTY YEARS BACK.** **BOTH FIXED**: the first docket is dated in the eleventh year back, and there are a hundred and thirty-two of them, and a hundred and thirty-two production marks |
 | 220 | **the twelfth docket is dated the first of July and was in the coat at nine on the tenth** | dockets go out on the first | **Twenty-one days early.** Runa Sato says *three weeks early* in the chapter, and 21 days is exactly three weeks. Correct |
-| 220 | **about four hundred rooms since the second** | the fourth is when the oath was released and the second is when she first walked out | Correct, and it is inside the batch, not in the past |
+| 220 | **about four hundred rooms since the second** | the second is when she first walked out of a room, eleven days before the release on the fourth, because she was not the last one in it (Ch 214) | Correct, and it is inside the batch, not in the past |
 
-**Twelve real errors in the drafting pass and twelve fixed, and the mechanism in nine of them is the
-recurring one adjudicated at item 62: a figure correctly derived from an anchor on one date and then
-carried forward to a later date without being re-derived.** *Four* for eight at 211 · *four days / a fifth
-day coming* for five and a sixth at 216 and five at 217 · *two days early* for four from the fourth at
-217 · *in about two hours* for *before four* at 217 · *the last working day of this month* for *next
-month* at 217 · *half past ten* for *a quarter to ten* at 218 · *eight days* for ten at 218 · *twenty-
-three* for twenty-one at 220 · *twenty-two days to a certificate* for seventeen at 220 · *in about four
-days* for *before the end of next month* at 214 · **and the board's own line at 218, which was the worst
-of the twelve because it put a date three weeks in the future on a wall that had already been painted.**
+**Twelve real errors in the drafting pass, twelve fixed, and four more found by the review repair pass
+and fixed there, and the mechanism in thirteen of the sixteen is the recurring one adjudicated at item
+62: a figure correctly derived from an anchor on one date and then carried forward to a later date
+without being re-derived.** *Four* for eight at 211 · *four days / a fifth day coming* for five and a
+sixth at 216 and five at 217 · *two days early* for four from the fourth at 217 · *in about two hours*
+for *before four* at 217 · *the last working day of this month* for *next month* at 217 · *half past ten*
+for *a quarter to ten* at 218 · *eight days* for ten at 218 · *twenty-three* for twenty-one at 220 ·
+*twenty-two days to a certificate* for seventeen at 220 · *in about four days* for *before the end of next
+month* at 214 · **and the board's own line at 218, which was the worst of the twelve because it put a
+date three weeks in the future on a wall that had already been painted** · **and the three durations at
+220, which the table above did not cover because a row existed for the start anchor and not for the end.**
+
+### What the review repair pass changed about the shape of this table
+
+**The reviewer's finding is the one this section is now built to prevent: every remaining defect was a
+DURATION and every one of them is now a row of its own rather than a by-product of an anchor row. The
+rule adopted is that a figure gets a row if it is printed on the page, and a row must be grep-verifiable
+against the committed file before the record is committed. Any figure that appears in a chapter and has
+no row here is an error this table has not earned yet.**
 
 ### Gate B — every date on one screen, checked by subtraction against the printed card
 

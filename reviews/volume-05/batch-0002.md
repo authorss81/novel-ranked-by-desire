@@ -212,3 +212,101 @@ now had a chapter about what the household costs them is a pattern or a processi
 opening note, that Beatrix Halm has never once been asked what she wanted before she told them what she
 felt, is the kind of beat that a reader either believes immediately or does not believe at all, and
 nothing in this file settles it.**
+
+---
+
+# REVIEW REPAIR PASS — Volume 5, Batch 0002
+
+**Everything above this line is the drafting pass's own gate output, left exactly as it was written.**
+**Everything below this line is a separate run that did not write the pages, found four things, and fixed
+them.** No number above has been edited to match. Where the two disagree, the drafting pass was right
+about the counts it took before the repair and wrong about what it claimed it had finished.
+
+## What the review found
+
+The mechanical gates were re-derived independently and are honest: the paragraph gate, the weekday gate,
+the rationed-construction count, the title gate, the markup gate, the Ch 218 board line and the Ch 204
+source repair are all exactly as recorded above. **Every defect the review found was a DURATION, and no
+mechanical gate in this repository can see a duration.**
+
+| # | Finding | Where |
+| --- | --- | --- |
+| 1 | The countdown section heading still read **Twenty-Three Days** on the tenth of June, and the string the Gate A table certified as fixed was not on the page at all | `chapter-0220.md:9`, and Gate A row 220 |
+| 2 | **The governing window — the seventh of June to the first of July — was spoken three times with three different figures: twenty-two, twenty-two and twenty-one days. Twenty-four is correct. The table had a row for the start anchor and none for the end, which is why it survived** | `chapter-0220.md`, Runa Sato, Sun Meiling, Lin Hao |
+| 3 | **Chapter 214, the batch's only scene, faded to black.** It reached the approach, took the shirt out of the trousers, and cut to *Afterwards*. The batch as first written contained no explicit scene at all, against a book standard set two chapters earlier at Ch 197 and again at Ch 205 | `chapter-0214.md` |
+| 4 | **The Batch 0003 prompt licensed the error**: *a character doing arithmetic out loud in June is going to say three weeks and is going to be right*. Batch 0003 runs the eleventh to the twentieth and *three weeks* is wrong on every one of those days | `workspace/volume-05/batch-0003/PROMPT.md` |
+
+The structural work was not touched and was not in question: the Ch 217 irreversible decision and its
+Ch 218 cost, the seven/eight women kept distinct list by list, the hundred-and-thirty-two-docket fix, the
+outline and the state files.
+
+## What was changed
+
+**Ch 220.** `## Twenty-Three Days` → `## Twenty-One Days`, and Runa Sato now derives it on the page:
+*That is twenty-one days out of this morning and three days behind us.* **The window is now three weeks
+and three days in all three mouths**, which is what the seventh to the first of July is, and Lin Hao's
+closing line no longer says the paper was written for the day after a twenty-one-day window, which
+would have been the twenty-eighth, when the twelfth docket is dated the first. **Petra Ilyin's stranded
+*Twenty-one days* — standing alone as her opening figure in a speech about four hundred rooms since the
+second, where it is not derivable from anything she is holding — is now *eight days*, which is what that
+sentence is about.** 2,056 → 2,119 words. 24 hours the window, 21 to the valuation from the tenth, 23 from
+the eighth, 17 to the certificate, 8 since the second, 9 since the first, 21 days early for the docket.
+**Every printed figure in the chapter now subtracts correctly.**
+
+**Ch 214.** **The scene is now written**, in her own discipline, and the chapter's beat is unchanged: it
+still ends with the coat on the peg and her name said once at a doorway. She turns the docket face down
+and squares it to the edge, says she is going to do this the way she takes stock of a room for the first
+four minutes and then stop, tells him to say what he sees and then to say it again slower and not
+decently, and hands him the inventory when he does. It is unhurried after the first four minutes, it is
+explicit, and **nothing in it turns on an impaired state: the oath was released in the chained book at
+about five o'clock and the scene is the consequence of her finding out that it is gone.** The turn is the
+one the chapter was already built for and had not reached: on the edge of the table she stops mid-sentence
+because the thing her chest has done in a room with a door on it for eleven years did not happen once
+tonight. 2,912 → 3,890 words, inside the 2,600–3,900 scene band. Longest paragraph 86 words.
+
+**`workspace/volume-05/batch-0003/PROMPT.md`.** The *three weeks* rule is replaced with the actual
+figures — the first of July is twenty days out on the eleventh and eleven on the twentieth, the
+certificate sixteen and seven, *three weeks* is wrong on every day of the batch and *three weeks and three
+days* is right on one day of the month that the batch does not reach. Two further stale figures found in
+the same file and fixed in passing: the valuation was described as *four days after the batch ends* and
+is **eleven**, and a section labelled **THE SUNDAY CHAPTER** is now **THE QUIET CHAPTER**, because the
+prompt's own rule permits no weekday name except Thursday and a heading invites one.
+
+## Gate output, re-derived by command after the repair
+
+```
+chapters/volume-05/chapter-0214.md words                                          → 3,890  (scene band 2,600–3,900)
+chapters/volume-05/chapter-0220.md words                                          → 2,119
+paragraphs over 90 words, 214 and 220                                           → 0; longest 86 and 90
+paragraphs over 120 words                                                        → 0
+12-gram scan of Ch 214 against EVERY earlier chapter, not only scene chapters    → 7 runs, all in one contiguous stretch
+                                                                                  of canon language at Ch 214:85, all present in the
+                                                                                  pre-repair commit, none written by this pass
+12-gram scan of Ch 220 against every earlier chapter                              → 7 runs: six at Ch 218's panel question, which the
+                                                                                  chapter quotes on purpose, one at Ch 214's service
+                                                                                  line, both pre-existing
+duplicated 8+ word sentences touching 211–220                                     → 2, both pre-existing, neither written here
+weekday names, 211–220                                                           → 5, all Thursday, all at 211 and 218
+nobody / no one / no-one, 211–220                                                → 1, against a ration of 1 (Ch 216, untouched)
+bold, underscore and italic markup                                               → 0
+blockquotes, tables, code blocks, horizontal rules                               → 0
+system panels in 211–220                                                         → 0, and none is due
+titles unique book-wide (220 files), none over 90 characters                      → unique, none over
+gate rows for 220 now greppable                                                  → three weeks and three days ×3, twenty-one days ×2
+                                                                                  (one of them the heading), Eight days ×1, Seventeen days ×1
+```
+
+**The rule this pass added to the Gate A table, and the reason for it.** A figure gets a row if it is
+printed on the page, not only if it has an anchor event. **A row must be grep-verifiable against the
+committed chapter before the record is committed.** Finding 1 is what happens when a table row is written
+from intent instead of from the file: the drafting pass recorded *twenty-one days* as fixed and shipped a
+heading reading *Twenty-Three Days*, and no gate in this repository could see the difference.
+
+## What this pass does NOT claim
+
+**It is a repair, not a review.** It fixed what a reviewer named and two stale figures found beside it.
+**It did not re-litigate the four structural questions the drafting pass asked a reader to test** — whether
+Ch 217's decision is irreversible, whether Ch 212 is anger or a speech, whether the household is a pattern
+or a procession, and whether Ch 219 needs three canon quotations in one chapter. **That last one was put
+to the reviewer and the reviewer did not answer it, so it stands open.** The prose of Ch 214's new scene
+has been read once by the person who wrote it, which is not the same thing as having been reviewed.

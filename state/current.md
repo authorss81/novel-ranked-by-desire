@@ -75,7 +75,8 @@ three, and a standing may be lodged against a broker's account on the second for
 it is released with the book and not by the person who lodged it, and it may be called by the holder of
 the book at any valuation, and there is no right of withdrawal between the lodging and the next one.**
 **He lodges it at twenty to four on the seventh, in a chained book, in a broker's dictation, into a
-public quarterly return at the next lodgement.** It buys twenty-three days and one. **The option that
+public quarterly return at the next lodgement.** It buys three weeks and three days — the first of July
+is twenty-one days after the lodging went in. **The option that
 closes is the one he has lived inside since Chapter 1: that he is the person in the room who is not
 standing on anything.**
 
@@ -84,7 +85,7 @@ a cleaner on his own floor, has the whole of it on the landing by seven in the m
 kindly, and half the landing has it by lunch. **Beatrix Halm's fifth rating hearing — granted in writing
 in March and carried in a coat since — is adjourned at nine-fifty because a called standing cannot be
 drawn against and a claim supported by the encumbered standing of a household cannot be heard**, and it
-is twenty-three days and one to the first of July, when a panel will ask her what a signal operator who
+is twenty-three days to the first of July, when a panel will ask her what a signal operator who
 cannot hear in one ear is doing in a cab. **And the certificate, if it issues on the twenty-seventh,
 issues upon a standing a stranger can call.**
 
@@ -99,9 +100,14 @@ and the guild had stopped carrying it. She releases it herself in the chained re
 in the afternoon, in eleven seconds, with the pen chained round her wrist.** **Her scene is written in
 her own discipline — she collects, she takes stock, she names what a thing is before she will admit what
 it costs — in a room eleven feet by seven with a bolted table, four pegs, one coat and a door standing
-open that she cannot be the first one out of. It is 2,912 words, inside the scene band, and the 12-gram
-scan of it against all twenty-one earlier scene chapters returns zero. Her last act is that she leaves
-the coat on the peg.** Her name is in her mouth once, at a doorway, after eleven years.
+open that she cannot be the first one out of. It is 3,890 words, inside the scene band, and the 12-gram
+scan of it against every earlier chapter returns only two pre-existing runs of canon language about the
+account. **The review repair pass wrote the scene out: the drafting pass reached the approach, took the
+shirt out of the trousers, and cut to *Afterwards*, so the batch as first written contained no explicit
+scene at all. It is now written in her instrument — take stock, name the thing, state the figure, and
+then lose the vocabulary four minutes in — and the beat it turns on is her finding out mid-scene that
+the instruction her body has been obeying for eleven years did not happen once, and that it was a clause
+and not a part of her.** Her last act is that she leaves the coat on the peg.** Her name is in her mouth once, at a doorway, after eleven years.
 
 **AND THE HOUSEHOLD DISCOVERS, TOO LATE AND IN ONE KITCHEN, THAT IT HAS HAD AN OFFICER INSIDE AN
 OBLIGATION FOR ELEVEN YEARS AND DID NOT KNOW (Ch 215, 220).** **A hundred and thirty-two dockets**, one

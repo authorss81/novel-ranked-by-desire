@@ -6,7 +6,7 @@ It took four minutes at a desk on the ground floor of the Exchange. A clerk wrot
 
 Then he came home up sixty-one steps at half past eleven with a coat over his arm that was not his.
 
-## Twenty-Three Days
+## Twenty-One Days
 
 The rest of the morning was arithmetic and it was the first arithmetic in four volumes that had a date on the good side of it.
 
@@ -16,9 +16,11 @@ And Beatrix Halm's hearing came back on the first of July, in writing, at nine i
 
 She did not celebrate, and the household let her alone, and that was correct.
 
-"And from the seventh until the first," said Runa Sato, "nothing in this house draws on anything. Every permission, every correction, every instrument any of us has bought in the last month with the standing of this household behind it, is unpayable for three weeks and one day."
+"And from the seventh until the first," said Runa Sato, "nothing in this house draws on anything. Every permission, every correction, every instrument any of us has bought in the last month with the standing of this household behind it, is unpayable for three weeks and three days.
 
-"Three weeks and one day," said Sun Meiling, "and it is the first time in five years that there has been a date on the good side of anything in this kitchen, and it is on the good side because a man put a plate into a chained book, and I am not going to be the one who says out loud what that is, and I would like somebody else to notice it eventually and say something."
+"That is twenty-one days out of this morning and three days behind us, and I have been counting since the seventh and I intend to go on counting in this kitchen out loud until the first, so that the count does not have to live in one head."
+
+"Three weeks and three days," said Sun Meiling, "and it is the first time in five years that there has been a date on the good side of anything in this kitchen, and it is on the good side because a man put a plate into a chained book, and I am not going to be the one who says out loud what that is, and I would like somebody else to notice it eventually and say something."
 
 ## The Coat
 
@@ -26,7 +28,7 @@ Petra Ilyin had gone back to the Vant at nine in the morning and had gone on her
 
 The coat was on the peg in a room eleven feet by seven with a bolted table with nothing on it and four pegs on a rail and a high window with a grille in it and a door standing open.
 
-"Twenty-one days," she said, coming in with it over her arm. "I have been in about four hundred rooms since the second and I have not had to think about any of them, and on the second I went into one and my hand went out for the frame out of eleven years' habit and there was no frame there, and I laughed in a corridor on my own, which I am told is not what officers do."
+"Eight days," she said, coming in with it over her arm. "I have been in about four hundred rooms since the second and I have not had to think about any of them, and on the second I went into one and my hand went out for the frame out of eleven years' habit and there was no frame there, and I laughed in a corridor on my own, which I am told is not what officers do."
 
 She put the coat on the back of a chair and did not put it on.
 
@@ -106,4 +108,4 @@ The room looked at the sheet of paper in her hand and the sheet of paper in her 
 
 She put it down on top of the bundle.
 
-"Seventeen days to the certificate," said Lin Hao. "Three weeks is what his plate bought on the seventh, and somebody has already written the paper for the day after it."
+"Seventeen days to the certificate," said Lin Hao. "Three weeks and three days is what his plate bought on the seventh, that window runs to the first of July, and somebody inside that building has already written the paper for the day it runs out."
