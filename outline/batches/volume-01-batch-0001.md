@@ -349,7 +349,7 @@ inexperience a condition of anything. Ola is not an antagonist. She is bored.
 **Pull:** A man off the fourth floor was taken for a reading on Thursday and he was not back that shift, and
 Ola Bright has been waiting in the Vestry corridor since six to ask a porter about it.
 
-### Chapter 10 — Not Back That Shift
+### Chapter 10 — No One Keeps the Diary
 
 **POV / location / time:** Lin Hao. The Vestry corridor at six in the morning, then the Classification
 Wing's public counter, then the branch floor.

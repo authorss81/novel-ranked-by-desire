@@ -12,6 +12,25 @@ reservoir is requisitioned by the Fourth Branch and he never gets it back**.
 **Next phase to run:** Volume 1, Batch 0002, chapters 11–20. Prompt in
 `workspace/volume-01/batch-0002/PROMPT.md`. Cards in `outline/batches/volume-01-batch-0002.md`.
 
+## Bible verification pass (bootstrap re-run)
+
+The bible, series outline, ending, Volume 1 outline and Batch 0001 cards were re-read against the phase
+rules and found sound. Four defects were corrected and no canon was changed, no scene was moved, and no
+age was altered:
+
+- `outline/ending.md` opened by saying he "reaches rank nine at 409 **and therefore** opens the file at
+  372." The file opens first, at 372, on a rank he does not hold; nine at 409 buys him nothing about it.
+- `bible/characters.md` gave Ines a second scene at "Chapter 8, **then 17**." Chapter 17 is Beatrix
+  Halm's, in the title bank, in the volume outline and in Batch 0002's cards. Ines's Volume 1 scene is
+  Chapter 8.
+- The household count is now reconciled on the page: **twelve partners, nine sworn in.** Wren Kallo, Sun
+  Meiling and Dagmar Oyelowo are not in the standing household and the reason for each is fixed in
+  `bible/characters.md`. Chapters 401–402 and Movement three of Volume 10 depend on that list existing.
+- `bible/terminology.md` put the Channel in Volume 4. It is a Volume 1 accident, unusable until he learns
+  it in Volume 5, which is where the stage table and the Ines hinge put it.
+
+Nothing else changed. Batch 0002 reads exactly as it was written to.
+
 ## Where Batch 0002 picks up
 
 | | |

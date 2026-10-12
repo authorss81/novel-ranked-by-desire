@@ -44,6 +44,12 @@ Any proposal to change a fixed canon item, to move a character's age, to resched
 the ending, or to introduce a final enemy not already named here goes in this file as a flagged
 proposal with a reason, before it is written into a chapter. It is not silently adopted.
 
-**Noted for Batch 0002:** the batch prompt described the Chapter 10 card as *Not Back That Shift* and
-the fixed title bank in `outline/volume-01.md` gives the same chapter as *No One Keeps the Diary*.
-The title bank governs; the card's phrasing was carried into the ending instead. No canon change.
+**Reconciled at the bible verification pass, no canon change:** the household is twelve partners and
+**nine** of them are sworn in. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not in the standing
+household recognised at Chapter 402, each for a stated reason, fixed in `bible/characters.md`. Any batch
+that puts a fourth woman outside the sworn nine, or that has a sworn woman leave without explaining it,
+is changing canon and must flag it here first.
+
+**Closed:** the Chapter 10 card was headed *Not Back That Shift* while the fixed title bank in
+`outline/volume-01.md` gives that chapter as *No One Keeps the Diary*. The title bank governed, the
+chapter was written under it, and the card heading has been corrected to match. No canon change.

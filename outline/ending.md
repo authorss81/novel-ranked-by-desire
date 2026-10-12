@@ -7,11 +7,14 @@ later wants a different destination, that is a canon change and it is flagged, n
 
 ## What Volume 10 has to do
 
-Lin Hao reaches rank nine at Chapter 409 and therefore opens Lin Wei's file at 372 — which means by the
-time Volume 10 begins he already knows everything this document knows. **Volume 10 is not about the
-answer. It is about what he does with it.** The mystery is closed before the volume starts. Nothing new
-is introduced. There is no last-minute cosmic threat, no second hidden enemy, no twist in the final ten
-chapters.
+Lin Wei's file opens at Chapter 372, in the middle of a live requisition, on a rank he does not have.
+Lin Hao reaches rank nine at Chapter 409, and nine buys him nothing about the file, because the file was
+never the thing nine was for. **By the time Volume 10 begins he already knows everything this document
+knows.**
+
+**Volume 10 is not about the answer. It is about what he does with it.** The mystery is closed before the
+volume starts. Nothing new is introduced. There is no last-minute cosmic threat, no second hidden enemy,
+no twist in the final ten chapters.
 
 The question of the final volume, stated once and then never restated in those words again:
 
@@ -168,9 +171,9 @@ citizen, **unrecorded — carried by**. Almost nobody knows what it means. Cordw
 the Bureau has broken and there are two days of quiet before the numbers come back in. Nothing is
 resolved and nothing is pretended to be. Eleven thousand people in the Vestry go home knowing.
 
-**Ch 488 (interleaved):** **Dagmar Oyelowo.** The intake clerk with no gift. The last quiet thing in the
-book. She says out loud what she wants and gets it and neither of them pretends it is anything else. It
-is a small, decent, adult scene between two people who are exactly what they are.
+**Ch 488 (interleaved):** **Dagmar Oyelowo.** The intake clerk with no gift, at the Terrace desk, in the
+week after the return. She said the same thing in Chapter 388 and it is still true, and neither of them
+pretends it is an event. It is the last scene in the book that contains two people and nobody else.
 
 **Ch 494–497:** the household, dispersed and intact. Where each of them is. What each one does in the
 weeks after. Three of them never live with him again and all three of them come to his shift.

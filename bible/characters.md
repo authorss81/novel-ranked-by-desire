@@ -83,10 +83,26 @@ recipient for it.
 
 ## The household
 
-Twelve partners. Five are core; seven are earned later. Entry volumes and scene chapters are fixed here
-so nobody re-invents them.
+Twelve partners. Five are core; seven more join between Volume 1 and Volume 8. Entry volumes and scene
+chapters are fixed here so nobody re-invents them.
 
-### 1. Ines Duarte — rank two, auditor. Age 34. Enters Volume 1. Scene: Chapter 8, then 17.
+**The standing household is nine of the twelve.** Under Ostaran law a standing household shares quarters
+and one plate and is bound by the highest rank in it, and it is recognised at the Terrace in Chapter 402.
+Nine women are sworn in. Three are not, and the three are fixed, and no batch invents a fourth:
+
+- **Wren Kallo** cannot be sworn in without destroying the posting that makes her useful. A Bureau
+  counter-forensics officer bound to a rank-nine man is a woman nobody in her own division will speak to
+  by Volume 6, and she chooses that over the protection.
+- **Sun Meiling** cannot be sworn in while she is inside Veil-Research, and by Volume 8 the sworn-in women
+  are the ones who can be requisitioned. She is the one who needs protecting, and the household protects
+  people by being a household.
+- **Dagmar Oyelowo** lives at the Ninth Terrace and runs its intake desk and will not leave it. She is in
+  the household in every way the law can see and in none of the ways that matters.
+
+All three come to his shift in the last chapters anyway. **Nobody in this book stays because she cannot
+leave.**
+
+### 1. Ines Duarte — rank two, auditor. Age 34. Enters Volume 1. Scene: Chapter 8.
 
 Reads any record in Ostara and knows it when it has been touched. First to suspect the reservoir is not
 natural, and the only person in the first volume who treats Lin Hao as a person before she treats him as

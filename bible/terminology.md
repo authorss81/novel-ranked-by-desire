@@ -81,9 +81,10 @@ three hundred chapters.
 **The draw** — a spend. Also the act of touching a person's hand and returning what they are owed.
 Relief, not strength. He cannot take anything from anyone, ever.
 
-**The Channel** — a mechanic he learns in Volume 4: routing a draw back through himself into someone else
-so the Exchange credits them. It works. It also makes that person a target, and the first person he routes
-through is Ines Duarte, and that is the hinge of Volume 5.
+**The Channel** — routing a draw back through himself into someone else so the Exchange credits them. He
+does it once by accident in Volume 1 and cannot explain it afterwards, and it is not a mechanic he can use
+again until he learns the Channel in Volume 5. It works. It also makes that person a target, and the first
+person he routes deliberately through is Ines Duarte, and that is the hinge of Volume 5.
 
 **Quiet account** — merit held where the Board cannot see it. Sold illegally. The reservoir is the largest
 one in Ostara and it is not for sale.

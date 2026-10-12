@@ -190,7 +190,7 @@ something.
 | 261 | Isolde Marchetti | First scene. | The household becomes public. |
 | 271 | Ines Duarte | She comes back, on her own terms, having filed a correction she has not filed yet. | The relationship is better than it was and she is not under his roof. |
 | 388 | Dagmar Oyelowo | First scene. | The woman with no gift says yes to the man with the only one, out loud, and it is the last quiet thing in the book. |
-| 402 | The household | Standing household recognised at rank nine. | Lin Hao becomes legally bound to nine women and their combined standing, which is the cover for the last volume. |
+| 402 | The household | Standing household recognised at rank nine. | Lin Hao becomes legally bound to nine women and their combined standing, which is the cover for the last volume. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not sworn in; which three and why is fixed in `bible/characters.md`. |
 | 447 | Ines Duarte | Final scene. | She reads him correctly, in public, on purpose. |
 | 492 | The household | Last scene. | Nine women, one account, and a decision they all signed. |
 
@@ -305,9 +305,9 @@ publishing it, and being right about it for twenty years while the unmeasured ha
 falls into one man's chest. Every fight in the book is with a rule that works.
 
 **The power cannot take.** It gives back only what was given to it. That single restriction means no
-woman is ever compelled, sedated, resisted, or overridden, in nine volumes and fifty scenes — and it means
-every woman in the household wants him on her own terms, fast, and is glad about it. The erotic engine and
-the ethical engine are the same object.
+woman is ever compelled, sedated, resisted, or overridden, in ten volumes and fifty-one scenes — and it
+means every woman in the household wants him on her own terms, fast, and is glad about it. The erotic
+engine and the ethical engine are the same object.
 
 **The reveal is the cost.** The answer to the central mystery is not information Lin Hao is relieved to
 receive. It is the reason he has to empty an account he has spent five volumes building, in front of

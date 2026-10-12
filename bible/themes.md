@@ -65,7 +65,8 @@ four volumes later anyway.
 
 **Violates it when:** a Bureau official explains the system as a smokescreen. They do not. Alma Quayle
 believes in measurement. Yusuf Adeyemi believes in correction. Anouk Ferreira believes the city survives
-because nine people are countable. Ference they are all partly right and it does not help anybody.
+because nine people are countable. All four of them are partly right, and being right is exactly what
+stops them from seeing him.
 
 ---
 
