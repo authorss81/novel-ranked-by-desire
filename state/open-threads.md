@@ -1,14 +1,21 @@
 # Open Threads
 
-**Carried past the Volume 1 close.** Every thread below was checked against the page at the close audit
-and its status updated. **Nothing is closed by a volume ending.** Full working with chapter-and-line
-citations is in `reviews/volume-01/volume-close.md` §3.
+**Carried past the Volume 1 close and into Volume 2 planning.** Every thread below was checked against
+the page at the close audit and its status updated. **Nothing is closed by a volume ending and this phase
+closed none — twenty-six live batch threads and all twelve seeded threads carried forward.** Full working
+with chapter-and-line citations is in `reviews/volume-01/volume-close.md` §3. Volume 2 outline
+(`outline/volume-02.md`) and Batch 0001 cards (`outline/batches/volume-02-batch-0001.md`) now exist;
+no prose written.
 
 **The standing answer to "does he get thanked" is spent as scheduled: Chapter 50, `Nobody has thanked
 him.` No chapter in any later volume may spend that sentence again, and `the record remained` is
 untouched across fifty chapters and remains available.**
 
 ## What Volume 2 may open and what it must not
+
+**VOLUME 2 PLANNED.** Header, starting position, scene schedule, and five scenes placed in
+`state/current.md`. Outline and Batch 0001 cards written; classification held open, never entered in
+Batch 0001.
 
 **MAY OPEN.** The held-account pressure — a rank-six petitioner 11,862 grains under his own band, which
 is a shape the Office has no procedure for. Alma Quayle noticing the thirty-first entry's finding number.

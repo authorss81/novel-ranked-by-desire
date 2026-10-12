@@ -1,6 +1,7 @@
 # Current State
 
-**Last written:** **Volume 1 close, complete.** Close audit run against the page, not against the file.
+**Last written:** **Volume 2 planning, complete.** `outline/volume-02.md` and
+`outline/batches/volume-02-batch-0001.md` exist. Close audit run against the page, not against the file.
 `reviews/volume-01/volume-close.md` holds the full record with every claim marked mechanical or judgement.
 **Items 1 to 33 below are closed and stay closed. Items 34 to 42 are the audit's own. Items 43 to 45 are
 the external review of that audit, and all three corrected a defect in the record rather than on the page.**
@@ -20,9 +21,24 @@ permanently there, and Rhee has no line, no scene and no presence in Chapters 31
 version of this file said he was preparing to go over Lin Hao's head. He is not. Nothing on any page says
 he is. See item 38.)*
 
-**Next phase to run:** **Volume 2 planning** — `workspace/volume-02/volume-plan/PROMPT.md`. It writes
-`outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` and no prose. **Chapter 51 must not
-be drafted before the Volume 2 outline exists**, and there are no Volume 2 cards.
+**Next phase to run:** **Volume 2 Batch 0001 writing (Chapters 51–60)** against
+`outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md`. Planning is closed; no chapter prose
+was written by this phase.
+
+## Volume 2 — planned, not yet written
+
+> In this volume, **Lin Hao must learn what is in him before he spends it on himself again**, or **the Classification Wing classifies the account and empties him out at rank one**.
+
+**Starting position traced from Chapter 50:** held six on an instrument (requisition of the 19th plus
+open-question finding), plate 8,138, 11,862 grains under the band; ninety-one lines, eight turned, one
+reading himself; query closed; file 4,112 with one folio open (Held Account One, no Zero); terms down
+unsigned; register thirty-first entry dated the 3rd with the finding number beside it in red ink.
+
+**Scene schedule:** 55, 63, 74, 86, 97 (gaps 46→55:9, 55→63:8, 63→74:11, 74→86:12, 86→97:11).
+**Five scenes placed:** 55 Sun Meiling first (immovable), 63 Sun Meiling second with the Volume 8 sentence
+(immovable), 74 Tessa Okonkwo second, 86 Runa Sato second, 97 Ines Duarte second. Sun planted before 55 by
+name and not on the page (Ch 52–53 cards). Title bank of fifty verified unique against Volume 1 (zero
+duplicates, mechanical case-normalised check).
 
 ## Adjudicated contradictions — do not re-open
 
