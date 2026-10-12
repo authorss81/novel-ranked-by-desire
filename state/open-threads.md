@@ -1,6 +1,363 @@
 # Open Threads
 
+## Volume 4, Batch 0003 — CLOSE RECORD (Chapters 171–180). THE STANDING.
+
+**Written after the drafting pass. Escalation step 3 of 5, entered at Chapter 171 and running to the
+thirtieth of April, one chapter a day, no shared dates and no gaps. This block supersedes every block
+below it on every point it touches.**
+
+### Day map (M+4, thirty days, its 1st a Sunday, Thursdays 5/12/19/26)
+
+171 the 21st · 172 the 22nd, the review, off the page · 173 the 23rd · **174 the 24th, THE REVERSAL** ·
+175 the 25th · **176 the 26th, a Thursday, and the Board repaints** · 177 the 27th, the deadline ·
+178 the 28th · **179 the 29th, Runa Sato's scene** · 180 the 30th, the last day of the month.
+**The first of May begins Batch 0004 and nothing goes between the thirtieth and the first.**
+
+**Countdowns printed, each with its subtraction on the page:** 171's **six days**, 21 + 6 = **the twenty-seventh**, printed by Runa Sato and by him, and
+agreed with the two figures already on the table (6 + 21 = 27 and 16 + 11 = 27). 176's **one day**, 26 + 1 = **the
+twenty-seventh**, printed as *tomorrow*. 177's **sixty days** is a forward clock the Office puts on a
+complete return and no date is printed for it, because M+5's length is not fixed. **177's "about eleven
+days" is a character's forward forecast about a district line and lands in Batch 0004 or 0005.**
+**No chapter prints a countdown to a date it has already passed, and none was corrected into one.**
+
+**FLAGGED, NOT REPRODUCED: the Batch 0003 prompt places the one-day countdown at Chapter 177.** Ch 177
+is the twenty-seventh, which is the deadline itself, and a countdown to a date the chapter has reached
+bans the figure. **The one-day figure is printed at Ch 176 instead, with its subtraction, which is the only
+day it can be printed on.** The prompt also describes the return as filed "a fortnight and ten days before
+this volume opened"; against the day map the filing on the twenty-second of March is **ten days before the
+first of April**, and Ch 174 prints the subtraction as ten days and seven days before the hall.
+
+### What this batch spent that Batch 0002 was holding
+
+1. **THE REVERSAL IS SPENT, AND IT IS SPENT THREE TIMES AND NO MORE.** **174 is the statement.** 175 is
+   what it costs — the completeness rule and the requirement of a head. 176 is what happens the moment it
+   is complete, said by Wren Kallo as a counter-forensics officer in her own discipline. **Nothing after
+   176 restates it, nothing restates it as *he is the address*, nothing appears in any form of B103,
+   nothing is said funny about it by anybody who has read the paper, and it is never used by Runa Sato,
+   Nadia Ferrous, Beatrix Halm or Sun Meiling, who do not learn it in this volume at all.** Anneke Roos,
+   Marguerite Vale, Wren Kallo, Ines Duarte and Tessa Okonkwo know it; the last two work it out or are
+   told it on the page, in their own registers.
+2. **THE IRREVERSIBLE DECISION OF THE BATCH IS CH 175, AND IT IS HIS, AND IT IS SPOKEN ALOUD IN A
+   KITCHEN.** Seven refusals go round a table in eleven minutes and he says nothing during any of them,
+   and then Ines Duarte reads out six liabilities one at a time and he says **put my name in it** before
+   she has finished. It cannot be taken back and from that day a paper can reach him by writing to him
+   first.
+3. **THE SECOND IRREVERSIBLE ACT IS CH 173, AND IT IS SUN MEILING'S.** The second paper comes up the
+   stair and she answers it with eleven thousand people in her own hand, which is the one thing Agnete
+   Lindqvist said on the twentieth must never be done.
+4. **THE THIRD IS CH 177: NINE SECONDS AT A COUNTER.** He completes the return on purpose and thereby takes
+   the card he read on the twenty-fourth off the shelf, and he tells Ines Duarte and not one other person.
+5. **THE FOURTH IS CH 178, AND IT IS TESSA OKONKWO'S.** A second chart, signed on purpose, putting the
+   Vestry into a Wing file in her own words so that no other office decides what the building is.
+6. **CH 172 IS THE FEAR AND NOTHING HAPPENS IN IT.** A parties' room on the third floor at Cobb Street,
+   four hours, a man who has never once been on the wrong side of a hearing waiting in one, a clerk who
+   is a stranger and cannot be helped because he is not a stranger to anybody, and a review four floors up
+   that is never shown. **She comes out at about ten to two, says do not ask me, and goes down the
+   outside stair.** It is not dated and its weekday is not named.
+7. **NO SYSTEM PANEL IN TEN CHAPTERS AND NO COUNT TURNS.** **Ledger 118, nine turned, printed once, in
+   prose, at Ch 177.** **Nothing was spent on anybody in this batch** and nothing was spent on himself,
+   and the promise made in a hall in March is not tested by anybody with a hand.
+8. **THE LEAK STOPS AND IS NOT EXPLAINED TO ANYBODY.** Hessa Lund was asked in a corridor on the
+   twenty-ninth of March whether a clinic that had never been entered in a member's file could be entered
+   in one later, which was a question about a building and not about a man. **The answer to it is printed
+   in a margin on a form about this house at Ch 166, and the building it is about is named at Ch 178 in a
+   sentence with no name on it.** No confidence was broken. Wren Kallo waits nine days for a bill that
+   does not arrive and then eleven, and cannot be told why, and nobody tells her.
+
+### Drafting decisions that were not in the prompt, registered as canon proposals
+
+1. **AGNETE LINDQVIST WAS A CLERK IN COMPOSITION FOR ELEVEN YEARS, THE LAST FOUR OF THEM RECEIVING
+   RETURNS.** `bible/characters.md` gives her as a former rank-four clerk and gives her office as the one
+   that makes a room where nobody can be compelled to testify. **It is registered here that she is also the
+   only person alive who has read four hundred composition returns from the receiving end, which is what
+   makes her the authority at Ch 171 and it is the only reason the household learns the rules before he
+   finds out what they cost.** Nothing in 169 or 170 contradicts this and nothing in it names the church.
+2. **THE DRAWING-BOARD ROOM AND THE PARTIES' ROOM ARE ON THE SAME FLOOR AND FORTY FEET APART.** Ch 172
+   puts him in one of them for four hours with a shut door and a plate forty feet away and no reason to
+   turn round, and Ch 174 is what happens next. **This is the batch's structural move and it is registered
+   as canon because a later writer must not separate them.**
+3. **A COMPOSITION RETURN IS AN INSTRUMENT OF ACQUISITION AND NOT A CENSUS** (171), with three states:
+   complete, late, or incomplete — and incomplete is not a return, it is a set of answers to a form.
+   Ch 174's card is in the third state and Ch 177's is in the first, and the second state is what a heap
+   on the third floor is for.
+4. **A HEAD OF HOUSEHOLD DOES NOT HAVE TO KEEP AN ADDRESS AT THE PREMISES** (171, 175, Ines Duarte).
+   **This is the door the whole batch turns on and it is consistent with `bible/characters.md`, which
+   records that Ines has kept her own rooms on Lantern Row and her own plate for the rest of the book and
+   is still sworn.** It does not revive Marguerite's terms and it does not put a band on the household.
+5. **WRAY, THE COUNTER CLERK AT THE SECOND-FLOOR COUNTER OF THE FOURTH BRANCH**, refused him a plate hold
+   in ninety seconds on the fifth of this month (Ch 155) and counts the household's returns on the
+   twenty-seventh. **She is not an antagonist, she is not a villain, she is doing an ordinary thing
+   accurately, and she says so.** She reads the six answers in six hands without being told what they are.
+6. **THE SIX ANSWERS OF THE SIXTEENTH ARE COUNTED ON THE PAGE AT 177** and the count is unreconcilable:
+   six, six and a note, NOT MINE, six with a footnote, six then six-again-and-seven, and a Field division
+   address in the wrong box. **Wray writes seven because it is arithmetic and not agreement, and says so
+   out loud so that nobody goes home thinking she believed them.**
+7. **RUNA SATO'S STANDING ENTERED ON THE EIGHTH IS CHECKED AGAINST A WALL.** The small book in the tray at
+   the second-floor counter holds an entry made **at about seven on the morning of the twenty-seventh and
+   dated the twelfth**, by somebody who has read the muster-room wall. **The return goes in complete with a
+   false line in it and the Office will find the line, and it will match, and there is nothing the clerk
+   can do about it and she says she has looked.**
+8. **THE HOUSEHOLD'S SCHEDULE OF THE TWENTY-THIRD ANSWERED WITH ITEM ELEVEN (173).** Six, and then
+   item eleven underneath, and the schedule goes to a counter and a clerk reads the number and the standing
+   and asks nothing further, because there is nothing on the form to ask for. **A body is not a person and
+   a body cannot be answered for, and a household in law needs somebody who can be.**
+9. **SUN MEILING'S REFUSAL IS NOW A RULED LINE WITH A NUMBER AGAINST IT ON A BOARD ON A LANDING WALL
+   (180).** Seventh row. Nothing in the other three columns. **The light at that hour stops about two
+   inches above it and she looks at it every evening for the next sixty days.**
+10. **THE COMPOSITION RETURN IS COMPLETE ON THE TWENTY-SEVENTH AND OPENS A SIXTY-DAY CERTIFICATION.**
+    **The certificate, not the filing, makes it a household, and it cannot arrive inside this volume.**
+    This is registered because `outline/volume-04.md` §4 step 5 places the beginning of the standing and
+    the indemnity at Chapter 199, and **the two are not the same act: filling the box at a counter
+    completes a return, and the indemnity at 199 is a signature in a room in front of a clerk.** The
+    sixty days run past the end of the volume either way and no date is printed for the certificate,
+    because M+5's length is not fixed.
+11. **CH 179'S ROSTER IS LAID FACE UP ON THE DESK AND TURNED FACE DOWN AT THE END.** `outline/volume-04.md`
+    §10 gives the ground as *a roster face down on the desk* and the last act as *the roster turned face
+    down*. **Registered as a deliberate departure: the chapter opens with it face up, because her name has
+    a rule through it and because a last act that repeats the opening image is not an act.** The ground,
+    the hand, the name-exchange and the aftermath are otherwise exactly as the grid specifies.
+12. **HIS NAME IS NOT USED ONCE IN CH 179, BY EITHER OF THEM.** She never says it and he never says it,
+    and the reason is given on the page: *a roster does not take a name.* He uses hers.
+13. **THE FOUR RIBS ARE NAMED ONCE IN CH 179, BY HER, AND ARE NOT TOUCHED**, and her reason is a carrier's
+    and is distinct from Tessa's at 157 and Sun's at 149 and Ines's at 141: a person who carries things
+    does not go near a thing that is a permanent instrument.
+14. **THE PALE RECTANGLE ON THE BOARD (176) IS THE SLOT THE IVO SARN TILE CAME OUT OF.** The tile went up
+    on the twenty-second of March and the men came down off the ladder with it on the twenty-sixth in a
+    crate, because there has been nothing on the week's list for that slot since the first of April.
+    **A Board is a list of bands, not a list of people, and where the list is empty the men leave the slot
+    bare, because a tile nobody has claimed is a claim.**
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+| Chapter | Figure | Anchor | Subtraction |
+| --- | --- | --- | --- |
+| 171 | **six days**, and six from today is the twenty-seventh | the two forms already on the table | **21 + 6 = 27, and it agrees with 6 + 21 = 27 and 16 + 11 = 27. The batch's one printed countdown** |
+| 171 | **seven days** of reading, since the fourteenth | Agnete read the second issue from the day it was read aloud at the steps on the twentieth | **21 − 14 = 7. THE FIRST PASS SAID *NINE DAYS* IN SIX PLACES AND 21 − 14 IS SEVEN. Corrected to seven everywhere, and *seven days ago* for the table** |
+| 171 | "a fortnight" the box has been empty | the first form arrived on the seventh, the second on the sixteenth | **21 − 7 = 14.** **The first pass said *eleven days* and 21 − 7 is a fortnight** |
+| 171 | eleven minutes of refusals | in-scene | traced |
+| 171 | the 22nd named by Ines; the 15th named by him | **the day map** | traced, and neither is given a weekday |
+| 171 | "on the fifteenth and again on the twenty-first" | **Ch 165, the fifteenth, where she told him the date and asked him not to tell the table** | **THE FIRST PASS SAID *the seventh of March*, which is not on the page for either event. Corrected** |
+| 172 | half past nine to ten past two, four hours | the parties' card; the review runs ten to two in three files | 09:30 → 14:10. Ferren called at five to ten and back at ten past ten. The jug at half past eleven. **Ines's door at ten to two. All traced** |
+| 172 | the count "in four minutes against the stair clock" | in-scene | narrative estimate |
+| 172 | "since the start of March", nine weeks removed | his count came back wrong at the start of March | **THE FIRST PASS SAID *NINE WEEKS*, which cannot be checked against an unspecified date in March. Replaced with the date** |
+| 172 | "two thousand nine hundred" changed to "one thousand nine hundred" | `bible/power-system.md`: band four is 3,000 a week and band three is 1,200, and the school place runs on band three | **THE FIRST PASS HAD HIM FALLING FROM FOUR THOUSAND TO TWO NINE HUNDRED, WHICH IS ONE BAND AND LOSES THE SCHOOL PLACE HE TELLS THE READER IS AT STAKE. Corrected to one thousand nine hundred, which is two bands** |
+| 172 | two hundred times in four years; four years; four in the family | in-scene and service | fine |
+| 173 | the schedule's month, from the date of service | the paper, dated the day it is served | forward, no subtraction printed |
+| 173 | **three days** at that table | the 21st, when the household talked about the box, and the 23rd | **21, 22, 23. Correct** |
+| 173 | "for a week" arguing about the margin | the second issue arrived on the sixteenth | **23 − 16 = 7.** Correct |
+| 173 | "since the twenty-second", "a day and a half" | the waiting room, the 22nd, about half past four | **22nd afternoon → 23rd midday.** Correct |
+| 174 | **filed the twenty-second of March; seven days before the hall; ten days before the first of April** | the hall on the twenty-ninth of March; Ch 151's first of April | **22 → 29 = 7 and 22 → 1 = 10. Both printed on the page with the working** |
+| 174 | "half past four in the afternoon" on the twenty-second | in-scene | **THE PROMPT'S *A FORTNIGHT AND TEN DAYS BEFORE THIS VOLUME OPENED* IS NOT REPRODUCED. 22 March → 1 April is ten days and Ch 174 says ten** |
+| 174 | ten past one, four minutes past one, about ninety seconds with the file, about twenty past one out | in-scene | traced |
+| 174 | forty feet | the corridor in Ch 172 | **the parties' room and the drawing-board door, counted in Ch 172 and stated in both** |
+| 174 | "for two days" he had been not going | the 22nd and the 23rd | correct |
+| 174 | eighty or ninety cards in fourteen inches of file | narrative estimate | fine |
+| 175 | "since yesterday afternoon" for the box's requirement | he told the table at about four on the 25th and hands in on the 27th | **25 → 27 = 2. THE FIRST PASS SAID *THEY HAD KNOWN THAT FOR FOUR DAYS*, which is four months of other business and not this. Corrected** |
+| 175 | **"three days before you completed it"** | he found it on the 24th and completed it on the 27th | **24 → 27 = 3. THE FIRST PASS SAID *FOUR DAYS*. Corrected here and at Ch 180, which had the same figure twice** |
+| 175 | "nine years into a finding" replaced | the finding is dated the twenty-ninth of March, three weeks old | **THE FIRST PASS GAVE INES Duarte NINE YEARS OF A FINDING. The finding is three weeks old. Replaced with *the officer of record on a finding dated the twenty-ninth of March*** |
+| 175 | six liabilities: 12th, 7th, 8th, before this month, the 14th of March, the 8th of March | every date a printed one in Batches 0001 and 0002 | all traced |
+| 175 | "Six days ago it would have been zero" | the 25th | **25 − 6 = the 19th, which is a printed date in this batch (Ch 169). Traced, not corrected** |
+| 176 | **"Five days had gone by since the twenty-first"** | the 21st and the 26th | **21 → 26 = 5. THE FIRST PASS SAID *SIX DAYS*, which counts inclusively and is the kind of slip this gate exists for. Corrected** |
+| 176 | "seven days" the tile was up before Anneke struck the paragraph | the tile on the twenty-second of March; the strike at a quarter past five on the twenty-ninth | **22 → 29 = 7. Correct** |
+| 176 | **tomorrow is the twenty-seventh** | the day map | **26 + 1 = 27. THE BATCH'S SECOND PRINTED COUNTDOWN** |
+| 176 | thirty years' service; February; since December; the seventeenth at eleven at night; the twentieth at a quarter past one; four times a month for four years | service figures and Batch 0002 canon | all traced |
+| 177 | twenty-one days from the sixth; eleven from the sixteenth | the two forms | **6 + 21 = 27 and 16 + 11 = 27, printed in the clerk's mouth** |
+| 177 | four minutes counting, nine seconds writing it, twice | in-scene | **the second nine seconds is said to have been harder. Traced** |
+| 177 | "since the seventh of this month" thinking about the box | the first issue arrived on the seventh | **THE FIRST PASS SAID *HE HAD SPENT NINE DAYS THINKING ABOUT THE BOX*, and 27 − 9 = the 18th, which is arbitrary. Replaced with the arrival date** |
+| 177 | "about eleven days" for the district line | forward forecast | not a countdown to a date reached |
+| 177 | sixty days from filing | the certificate clock the Office puts on a complete return | **forward, past the volume, and no date printed because M+5's length is not fixed** |
+| 177 | the bundle card filled at about eleven minutes past five the previous afternoon, figure two | the previous day is the 23rd, when he was on the third floor | correct |
+| 178 | **"You have had four days to tell me something"** and carrying it since the twenty-fourth | he found it on the 24th | **24 → 28 = 4. THE FIRST PASS SAID *NINE DAYS*, which is 28 − 9 = the 19th and has nothing to do with it. Corrected** |
+| 178 | **Wren's nine days** | waiting since the evening of the nineteenth | **19 → 28 = 9. Correct, and the same figure is corrected to eleven at Ch 180, because 19 → 30 = 11** |
+| 178 | the fourth of April, when she knew it on the seventh | in-scene | correct |
+| 179 | **kit packed since the thirteenth, sixteen days** | the 13th and the 29th | **29 − 13 = 16.** Correct |
+| 179 | **"on the eleventh of this month"** for the division clerk and a figure | **Ch 161, the eleventh, in a corridor after the hearing** | **THE FIRST PASS SAID *THE FIRST OF THIS MONTH*, which is Chapter 161's date being confused with the month's first. Corrected** |
+| 179 | three months' clock on being struck as available | the Field's own process | a service figure, forward |
+| 179 | an hour, four minutes, twenty minutes, ten minutes, two minutes | in-scene | traced |
+| 180 | **"it took a week"** for the seventh row being ruled and found out | the schedule answered on the twenty-third | **23 → 30 = 7.** Correct |
+| 180 | **"eleven days"** waiting | Wren's wait from the evening of the nineteenth | **19 → 30 = 11. Corrected in two places, and the ninth was left in place from Ch 178** |
+| 180 | **"three days"** of his silence | the 24th to the 27th | **carried through from the Ch 177 repair** |
+| 180 | **the plate** | `bible/power-system.md`, band five at 8,000 a week | **8,138 is band five and has been for eighty chapters. The floor is 8,141, three grains above it, and 11,862 under band six. All printed once, here** |
+| 180 | sixty days; nine seconds; about four seconds; sixteen days; the thirteenth; the sixteenth; the seventh | as above | all traced |
+
+**Seven real errors, in six chapters, and four of them are the kind every mechanical gate in this
+repository returns clean on, because they attach a correct word to a wrong number.** *Nine days* where
+seven was the answer, three times; *four days* where three was the answer, in two chapters; *nine weeks*
+against an unfixable date; *nine years* on a finding three weeks old; *the first of this month* for the
+eleventh; *nine days* where four was the answer; *six days* where five was. **That is the sixth batch
+running in which Gate A has found things the word gate, the paragraph gate, the duplication gate and the
+banned-word gate all returned clean on.**
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-04.md` §12
+
+171 the 21st · 172 the 22nd · 173 the 23rd · 174 the 24th · 175 the 25th · 176 the 26th · 177 the 27th ·
+178 the 28th · 179 the 29th · 180 the 30th. M+4's 1st is a Sunday and its Thursdays are **the 5th, 12th,
+19th and 26th**.
+
+| Chapter | Dates on the page | Check |
+| --- | --- | --- |
+| 171 | 21st (chapter) · the 22nd · the 6th · the 7th · the 13th · the 14th · the 15th · the 16th · the 27th · the 8th · the 9th · December | **21 + 6 = 27 and the two earlier clocks agree. The 14th is seven days back. The 15th is Ch 165** |
+| 172 | 22nd (chapter) · the 15th · the 29th of March · March · the start of March | **the 29th is Batch 0002's hall. March is a foreign month and nothing is subtracted across it** |
+| 173 | 23rd (chapter) · the 13th · the 16th · the 29th of March · the 22nd · the 19th | **the 16th is the second issue, seven days back. The 29th of March is the finding** |
+| 174 | 24th (chapter) · **the 22nd of March** · the 29th of March · the 23rd, the 15th, the 27th of last month, the 6th of April · the 1st of April · the 27th · the 4th · the 30th | **22 → 29 = 7 and 22 → 1 = 10, both printed with the working. The shelf's other cards are dated 23rd, 15th and 27th of the current month and 27th of March** |
+| 175 | 25th (chapter) · the 22nd · the 23rd · the 25th · the 27th · the 21st · the 5th · the 7th · the 8th · the 12th · the 14th of March · the 29th of March · the 9th of September | **25 + 2 = 27. Every other date is a printed one from Batches 0001 and 0002** |
+| 176 | 26th (chapter) · the 4th of March · the 17th · the 20th · the 21st · the 22nd · the 27th · the 29th of March · the 1st of December · February | **26 + 1 = 27. The 26th is a Thursday and is one, derived from the repaint in four places** |
+| 177 | 27th (chapter) · the 5th · the 6th · the 7th · the 8th · the 12th · the 20th · the 23rd · the 25th · the 27th | **6 + 21 = 27 and 16 + 11 = 27. No date is given a weekday** |
+| 178 | 28th (chapter) · the 7th · the 19th · the 24th · the 28th · the 29th of March · the 4th of April · next month | **24 → 28 = 4 and 19 → 28 = 9, both correct. The 29th of March is the corridor question** |
+| 179 | 29th (chapter) · the 1st · the 6th · the 8th · the 11th · the 12th · the 13th · the 20th · the 27th · the 29th of March | **13 → 29 = 16 and 29 − 13 is the kit. The 11th is Ch 161 and the 20th is Ch 170** |
+| 180 | 30th (chapter) · the 7th · the 10th · the 13th · the 16th · the 23rd · the 27th · the 28th · the 29th · the 30th · the 1st of December · the 4th of March | **23 → 30 = 7 and 19 → 30 = 11. Every date traces to a printed earlier figure** |
+
+**Not one date in the batch lands on a Thursday that is not the 5th, 12th, 19th or 26th. The word Thursday
+appears five times in the batch — four in Ch 176's opening, all of them derived from the repaint at nine,
+and one in Ch 180's last movement — and every one of them is the twenty-sixth. Zero weekday names other
+than Thursday across all ten chapters.**
+
+**FLAGGED, NOT SMOOTHED: the Batch 0003 prompt places the one-day countdown at Chapter 177**, which is the
+deadline. See the top of this block.
+
+### Gates run, and what they do not tell you
+
+```
+ls chapters/volume-04/                                     → 30
+grep -h '^# ' chapters/volume-0*/chapter-*.md | sort | uniq -d   → NONE (180 unique titles book-wide)
+titles over 90 characters                                  → 0
+titles 171–180 against §11 of the volume outline           → exact, ten for ten, in order
+wc -w, per chapter 171–180                                 → 2713 / 2235 / 2395 / 2302 / 2797 / 2273 / 2721 / 2317 / **3142** / 2324 — total 25,917
+horizontal rules                                             → **2 in the first pass, both in 177 and 178 as scene breaks. 0 now**
+blockquotes                                                 → 0
+bold / underscore markup                                    → 0
+single-asterisk italic markup                              → **1 in the first pass, `it *is* the place late returns go` at 174, removed**
+planning-register terms (reservoir, quiet account, concil, ninth seal, channel) → 0
+system panels                                                → **0. No count turns and none is due. The ledger is printed once, in prose, at 177**
+ages                                                         → 0
+meta-language                                                → 0 in 171–180. **The first pass wrote *nothing had been spent on anybody in ninety chapters* at 177, which is both meta-language and a figure I could not trace; cut**
+rationed constructions                                       → **0. The first pass returned *there is no form* and *there is no column* in three chapters and every one was rewritten as the specific thing that is missing**
+nobody / no one / no-one                                     → **1, at 171:107, in Sun Meiling's mouth — *she goes in it because there is nobody else* — against a ration of one. The first pass carried eleven across the batch and ten were rewritten into a positive form before it closed**
+weekday names other than Thursday                           → **0, and the word Thursday five times, four of them in 176 and one in 180. The first pass returned fourteen — Monday, Wednesday, Saturday, Friday and twice — and every one was cut or replaced with a date. The twenty-third is a Monday, the twenty-fifth a Wednesday and the twenty-eighth a Saturday, and the prompt says so nowhere; it was found by subtracting against §12**
+church / chaplain / congregation / null room / quiet number  → 0 in 171–180. **The church is named at 169 and 170 and is referred to after 171 only as item eleven, which is the number on the form, and once as "eleven thousand and some hundred persons" in Agnete's mouth at 173. No chapter in this batch names it.**
+not a tank / he is a door                                    → 0
+paragraphs over 90 words                                     → **0 over the whole of chapters/volume-04/, none over 120, longest in the batch 88. Seventeen paragraphs written over ninety in the first pass and every one was broken at a natural beat rather than trimmed**
+duplication gate, intra- and cross-chapter, 8+ word sentences and 40+ word paragraphs → **clean for Batch 0003 against the whole of chapters/volume-04/. The first pass returned five: a tram sentence shared with Ch 155, a roster sentence lifted from Ch 163, Ines's hands-flat gesture from Ch 165, Tessa's counter wipe from Ch 169, and *the room said nothing for about four seconds* three times inside the batch. All five rewritten and the gate re-run over all thirty files**
+```
+
+**The one hit against the rationed-construction gate is the one instance of `nobody` in the batch and it is
+justified here so that a reviewer does not have to reconstruct it.** `because there is nobody else`, at
+171:107, in Sun Meiling's mouth, four lines before she refuses to be put in the box, is the moment the
+household's shortage is named by the one person in it who cannot be counted. It is not *nobody thanked*,
+which is retired outright with any object; it is not *nobody asked*, whose note is spent; and it is one
+instance against a ration of one.
+
+### What the gate output does not tell you
+
+**It did not see the seven interval errors in Gate A, of which the six that would have been caught by a
+reader with a calendar are the most expensive kind this repository produces: a correct word attached to a
+wrong number.** *Nine days* for *seven*, in six places in one chapter; *four days* for *three*, in two
+chapters; *six days* for *five*; *nine days* for *four*; *nine years* on a finding three weeks old;
+*the first of this month* for *the eleventh*. None of them uses a banned word. **A gate that has never
+been wrong is not evidence, and this is the seventh time a batch record in this repository has written one
+down without re-deriving it**, which is why every figure above was re-derived by command after the last
+edit rather than before it.
+
+**It also did not see the four things a reviewer should attack first, and they are the ones I would
+attack:**
+
+1. **Whether Ch 171 is too much machinery too early in the batch.** The argument for it: Agnete Lindqvist
+   is the only person in the book who has read these forms from the receiving end, she has been in a room
+   for eleven years, and the volume cannot reach its own rule by any other road. **The argument against:
+   the four-state rule and the head-of-household definition are both explained by a woman explaining
+   things, and Chapter 165 already gave this household the volume's thesis in a kitchen with more heat in
+   it.** If Ch 171 is cut for length, it must lose the four refusals in the middle, not the definitions,
+   and the seven refusals are what make Ch 175 land.
+2. **Whether Ch 175 is a decision or a ratification.** The case for it being a decision: seven women had
+   said no for four months and he says a sentence out loud in a kitchen knowing what it costs, before he
+   has been told the whole of it, and he cannot un-say it. **The case against: he had already worked out
+   the answer on the twenty-first and had told Ines Duarte on the morning of the twenty-fifth, so what the
+   chapter stages is a man ratifying something he decided alone two days earlier in a corridor.** The
+   defence is that the chapter is about the six liabilities being read out and the refusals going round the
+   table, not about the deciding.
+3. **Whether Ch 177's first-person end repeats Ch 174's.** Both chapters end with a man alone on a street
+   saying a thing to himself about what he has done, and both say that what he has done was fast. **They
+   are different in construction — 174 is the finding and it is unresolved, 177 is the act and it is
+   reported to Ines Duarte before the chapter ends — but a reader who reads them back to back may find
+   that the volume's two most important chapters both close in a man's interior voice.**
+4. **Whether Ch 179's scene is the right one at this point in the book.** The case for: the gap is exactly
+   ten and the batch needed a scene in the middle of the midpoint, and a woman being made the instrument
+   for five other people's safety is the correct shape for a chapter in which he has just made himself
+   the instrument for six. **The case against: she is being asked to give up the only thing that could
+   find her, which is the same trade he made at the counter nine chapters ago, and a reader may find that
+   this household keeps buying findability with the same coin.** The defence is that hers is written and
+   his was not, and that hers takes three months.
+
+**This record is not a review of the prose.** The review is a separate run and its file is
+`reviews/volume-04/batch-0003.md`.
+
+### Named length exceptions
+
+**Two, and one of them is the batch's scene.**
+
+- **Ch 179 runs 3,142 words**, inside the 2,600–3,900 scene band. **It is the batch's only scene and the
+  volume's third, and it is the one chapter in the batch in which the sex is the product.** It carries
+  the ask in her own register, four terms in plain statements before anything starts, an hour and a half of
+  the scene written out, the cost stated afterwards in the language of a division, and her last act. The
+  nine other chapters run **2,235 to 2,797**.
+- **Ch 175 runs 2,797 words**, 97 over the 2,700 guide. **The overage is Ines Duarte's four-point rule and
+  the reading of the six liabilities**, which is the batch's cost and the thing Chapter 177 and Chapter
+  179 both rest on, and cutting either the rule or the list breaks a later chapter. **Ch 177 runs 2,721
+  and Ch 171 runs 2,713** for the same reason at a smaller size: each carries a four-state rule or a
+  seven-refusal round that a later chapter is built on.
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** the drawing-board room, its four shelves and the third label · the parties' room as a place
+  a man waits in · Wray and the counting room at the second-floor counter · the standing roll and its
+  seven ruled rows · the schedule of persons of reading age keeping an address, and the answer given to
+  it · the notice to unfunded establishments, with no name on it · Tessa Okonkwo's second chart ·
+  Runa Sato on the answer line of a household and the three months of being struck as available · the
+  pale rectangle on the Board as a slot the list has nothing to say about · Agnete Lindqvist's eleven
+  years as a clerk in composition.
+- **Advanced:** Ivo Sarn (his tile comes off the wall on the twenty-sixth and nothing is printed) ·
+  Anneke Roos (untouched in person; she says *ceramic*) · Tessa Okonkwo (the second chart and the loss of
+  the ground the clinic was tolerated on) · Runa Sato (the hearing, the answer line, the three months) ·
+  Marguerite Vale (two answers written and one price refused) · Ola Bright (seven lines in the copybook,
+  the first time his name has ever been in it) · Nadia Ferrous (the Vestry day book, and the nine of a
+  hundred and eleven who come to a hatch) · Beatrix Halm (untouched in person; she is the one who
+  supplied the seven) · Wren Kallo (**the leak stops and she cannot be told why**) · Sun Meiling (the
+  schedule, item eleven, the ruled seventh row, and the refusal that now has a number against it) ·
+  Ines Duarte (the review is on the page only as two words in a corridor, and she does the reading of the
+  six liabilities) · Agnete Lindqvist (out of a building for eleven days, up sixty-one steps twice, and
+  still on no list).
+- **Left open:** every thread in §3 above, unchanged, **plus** the new ones: what a district line about a
+  false standing is worth · what the four people who find out he kept it for three days do · who is on
+  the roll if one of the six asks to come off it · whether a woman who cannot get back into a building can
+  be got to sign anything · what Sun Meiling does about a ruled line with her number on it for sixty days.
+- **Untouched:** everything in the continuity block's NOT-opened list. **And the live-column rule, which
+  is SPENT, which no chapter in this batch states, derives, jokes about, or lets an uninitiated character
+  use; nothing was spent on anybody; no grain moved; no folio opened; no classification entered.**
+
+### What Volume 4 Batch 0004 opens on
+
+**The thirtieth of April is closed and the first of May begins Batch 0004, and M+5's length is not fixed on
+the page anywhere in this repository.** Every branch office keeps the month's instrument days on a card
+by the time clock, and April's card reads the fifth, the twelfth, the nineteenth, the twenty-sixth, and
+then the third of next month, which is what fixes April at thirty days. **May's card has to be printed on
+the page in Batch 0004 before any interval that crosses the thirtieth of April is used**, or no writer
+after it may subtract across the month boundary.
+
+Four dates are the batch's furniture: **the first**, when a person with a warrant may stand at the Vestry
+hatch and ask a name; **the third**, a Thursday, and the Board repaints on it; **the ninth**, which is
+Beatrix Halm's scene and is immovable; and **the tenth**, a Thursday, and the Board repaints on it again.
+**A composition return was completed on the twenty-seventh of April and opened a sixty-day certification
+which cannot close inside the volume.** The reversal must not be restated in Batch 0004 or any batch
+after it; it is operating, and nobody has to say it again.
+
+Three facts the next writer inherits and must not contradict: **the box at the foot of two returns is no
+longer empty and never will be again**; **the roll on the landing has seven rows and the seventh is Sun
+Meiling's and it is empty on purpose**; and **he is now the only person in Ostara who cannot be lost.**
+
+---
+
 ## Volume 4, Batch 0002 — CLOSE RECORD (Chapters 161–170). THE RETURN.
+
 
 **Written after the drafting pass. Escalation step 2 of 5, entered at Chapter 161 and running to the
 twentieth of April, one chapter a day, no shared dates and no gaps. This block supersedes every block

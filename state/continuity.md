@@ -1,6 +1,151 @@
 # Continuity
 
+## Volume 4, Batch 0003 — CLOSED (Chapters 171–180). THE STANDING.
+
+**Ten chapters written against `outline/volume-04.md` §4 escalation step 3, entered at Chapter 171 and
+running to the thirtieth of April, one chapter a day, no shared dates and no gaps.** Full gate output, the
+Gate A interval trace with its seven errors and the Gate B date subtraction are in `state/open-threads.md`
+in this batch's close record. **This block is the newest and supersedes every block below it on every
+point it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0003 is the 21st to the 30th of M+4, one chapter a day, no shared dates and no gaps.**
+  171 the 21st · 172 the 22nd · 173 the 23rd · 174 the 24th, **the reversal** · 175 the 25th ·
+  **176 the 26th, a Thursday, and the Board repaints** · 177 the 27th, the deadline · 178 the 28th ·
+  **179 the 29th, Runa Sato's scene, and it is immovable** · 180 the 30th, the last day of the month.
+  **The 1st of May begins Batch 0004 and nothing goes between it and the 30th.**
+- **M+4's Thursdays are the 5th, 12th, 19th and 26th.** **The word Thursday appears five times in the batch
+  — four in Ch 176 and all of them derived from the repaint at nine, and one in Ch 180 — and every one of
+  them is the twenty-sixth. No other weekday name appears anywhere in the ten chapters.**
+- **NO CHAPTER IN THIS BATCH NAMES THE TWENTY-SECOND'S WEEKDAY**, and none shows Ines Duarte going in.
+  She is four hours in a room on the fourth floor with four people in it, off the page, and the chapter is
+  a waiting room on the third floor.
+- **FLAGGED AND NOT REPRODUCED: the Batch 0003 prompt places a one-day countdown at Chapter 177.** Ch 177
+  is the deadline itself, so a countdown to the twenty-seventh cannot print there. **The one-day figure is
+  printed at Ch 176, the twenty-sixth, with its subtraction, which is the only day it can be printed on.**
+- **M+5's length is NOT fixed. Batch 0004 must print the anchor before it uses any interval crossing
+  30 April.**
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **WHAT A COMPOSITION RETURN IS FOR (171, Agnete Lindqvist, eleven years a clerk in composition, the
+  last four receiving them).** It is an instrument of acquisition: it is how the city acquires the right to
+  serve a household. Three states: complete, and it goes to a district and is acted on; late, and it goes
+  on four shelves on the third floor of the Reading, the third of which is where anything that missed its
+  period goes, shelved, read by a woman doing a period bundle; or incomplete, and it is not a return at
+  all, it is a set of answers to a form.
+- **THE DRAWING-BOARD ROOM, THIRD FLOOR OF THE READING (174).** Four shelves, the third labelled LATE
+  RETURNS AND PERIOD BUNDLES. IN BY THE PUBLIC STAIR. A bench outside the door. **Forty feet from the
+  parties' room where he spent four hours on the twenty-second.** Files are kept by street, A to Z, and the
+  machine is identical to the eleven address trays on the second floor of the Fourth Branch, eleven drawers
+  along in the F.
+- **THE RETURN THAT ALREADY EXISTS (174).** Filed **on the twenty-second of March**, about half past four in
+  the afternoon, marked LATE, PERIOD CLOSED. **One address and six names, each with a printed standing and a
+  printed band.** The box PREMISES HELD UNDER THE STANDING OF, four inches wide, **empty since the day it
+  was signed** — not crossed, not marked, not held open. **Clerk's line: S. ROOKE.** **The man it was
+  filed about is not on it.**
+- **IT COMES OFF THE SHELF (177).** **A complete return reconciles every other return on that address, a
+  return that reconciles is lifted, and a return that is lifted is read.** Within the hour of the
+  twenty-seventh.
+- **THE COST OF BEING FOUND OUT (174).** A woman at the bench fills a strip of card on her bundle at about
+  five o'clock with a count of **persons off the public stair**. On the twenty-fourth that figure was
+  **two**. He can look once.
+- **A HEAD OF HOUSEHOLD (171, 175, Ines Duarte).** A person of reading age who may be required to answer
+  for the premises and may be answered for. **It does not have to be a member, and it does not have to keep
+  an address at those premises** — which is why Ines Duarte has kept two rooms on Lantern Row for eleven
+  years and has never been near a return at them. **Four of the five permitted answers are persons and the
+  fifth is a standing, and a standing cannot be served, produced, fined, appealed, or made to send for
+  anybody.**
+- **THE FOUR-INCH BOX WAS FILLED ON THE TWENTY-SEVENTH (177), in his own hand, in nine seconds, at the
+  second-floor counter of the Fourth Branch**, by **Wray**, the clerk who refused him a plate hold in
+  ninety seconds on the fifth of this month. She initials under his name and dates it. **A complete return
+  opens a certification of sixty days from the date of filing, and the certificate, not the filing, makes
+  it a household.**
+- **THE COUNTING ROOM (177).** Second floor of the Fourth Branch, behind the counter, twelve feet deep, a
+  table, two chairs, pigeonholes to the ceiling, and a glass door with COUNTING on it.
+- **THE SCHEDULE SERVED ON THE TWENTY-THIRD (173).** A schedule of the persons of reading age keeping an
+  address at the premises, required under the notice served on the thirteenth, **one month from the date of
+  service**, served on premises by a person of reading age. Sun Meiling answered it **six**, and underneath
+  it **item eleven** in full, with the number, signed and dated with the time. **She wrote on the back, in
+  the margin, the date, the fact that no office asked for it, and her name twice — once as the person who
+  gave the answer and once as the keeper of the premises.**
+- **THE NOTICE WITH NO NAME ON IT (178).** Notice to unfunded establishments: an establishment recorded in
+  connection with the file of a member of the Bureau and not otherwise funded by the Bureau will be
+  brought within the ordinary schedule **from the first day of next month**, and is advised to prepare and
+  submit **a schedule of persons treated.** No name, no address, no establishment named. About eleven
+  unfunded establishments in the quarter; not one of them can tell whether it is about them.
+- **THE SECOND CHART (178), Tessa Okonkwo's, signed at ten past ten at the back of her own building**,
+  with her name and his name and the date and four lines under the date: the establishment is unfunded; no
+  schedule of persons treated exists; any schedule submitted will be incomplete and the incompleteness is
+  the patients and not the clinician; it has been entered in a member's file once, by her, on the seventh,
+  in a room, deliberately; the notice is answered there and not at a counter.
+- **THE STANDING ROLL (180).** Two feet by three on stiff board, kept at the premises and displayed and
+  produced to any person who calls and asks. **Seven ruled rows, six filled, the seventh numbered and empty.
+  Above them, in a heavier line, THE HEAD OF THE HOUSEHOLD, and under it his name in his own hand.** It
+  went up on the wall of the landing at about eleven on the morning of the thirtieth, over the pencil
+  sentence from the tenth of April, which is still there four feet below it.
+- **RUNA SATO ON THE ANSWER LINE (179).** Being on it means that when a request comes, it comes to her and
+  not to the head, because she is the only body in that house that can be produced. **To be answerable she
+  must be struck as available to the Field division, in writing, with a three-month clock on it, and it
+  does not come back.** An answer and an order come down the same wire.
+
+## Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six, unchanged.** The plate has not moved
+  a grain in eighty chapters. **Band five on the plate, band six on a piece of paper.** **The plate figure
+  is printed once in this batch, at Ch 180, where it does its work.**
+- **Ledger 118 lines, nine turned, the ninth still himself.** **Printed once in prose, at Ch 177. No System
+  panel in the batch and none is due, because no count turns.**
+- **Nothing was spent on anybody in Chapters 161 to 180** — no draw on a stranger, none on himself, none on
+  anybody — **and nothing on himself since the promise made in a hall on the twenty-ninth of March, in
+  front of two hundred and eleven people, before the instrument was run.** Ch 172 shows the hand on a table
+  and it does not move.
+- **File 4,112, one folio open, no second.** No classification entered. No rank earned, no rank lost, no
+  grain scored, no folio opened, no age stated, no Channel, no routing, no rota word, no May clipboard.
+- **The classification paper dated the nineteenth went up three floors at four o'clock and came back down
+  unsigned.** It is not signed anywhere in this batch.
+- **Visitors' book: a hundred and eleven, forty-one about a person, seventeen about the household.**
+  Unchanged in count. **Nadia Ferrous put nine of them on the Vestry day book and six of them keep an
+  address in Ferrier Street and hold no plate.**
+- **Ines Duarte's review was on the morning of the twenty-second.** He was in a parties' room on the third
+  floor from about half past nine until ten past two. She came out at about ten to two, looked at him, said
+  **do not ask me**, and went down the outside stair. **It is not dated on the page, its weekday is not
+  named, she does not discuss it, and it does not resolve.**
+- **The sixteen years' kit (179).** Runa Sato's kit has been packed since the thirteenth of this month and
+  has not gone anywhere.
+
+## What this batch did NOT open
+
+Second folio · Ines's review, resolved · B103 in any form · the instrument's live-column rule · Ding's
+chest · May clipboard · rota word · September's outcome · Marguerite's terms, which are down, unsigned and
+out of force and which a standing household cannot revive · Bernt · Rhee · Saskia Verhoeven as a character
+· Alma Quayle as an opponent · Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Petra
+Ilyin · Dagmar Oyelowo · anything after Volume 8 · the certificate · a second folio · a rank · a grain.
+
+## What this batch did NOT close
+
+Runa Sato's hearing · Ines Duarte's review · the two ninth chairs · the corridor's ninety rubbed-out
+sentences · Marta Vey's name in the record · the desk's four-line note · the classification paper dated the
+nineteenth · the ninth of September · the broken price · Sun Meiling's February · the leak, **which stopped
+and was not explained to anybody** · Sun Meiling's place on the roll · the return's re-issue · **Agnete
+Lindqvist's eleven years indoors, which this batch opens no further and does not shut: she is on a step in
+the open air and she came up sixty-one steps twice.**
+
+## Endings and temperature
+
+171 the sum of a room said aloud by nobody · 172 four hours of nothing and a door forty feet away · 173 a
+woman names eleven thousand people in a form in her own hand · **174 a man stands in a room and reads a card
+and cannot un-find it** · 175 six liabilities and a name said out loud in a kitchen · 176 a bare tile and nine
+people in daylight · 177 nine seconds at a counter and a shelf forty feet from a bundle · 178 a notice with
+no name on it and a doctor signing a second chart · **179 an hour in a nine-foot room and a roster turned
+face down** · 180 a roll on a landing and a plate that has not moved. Temperature runs cold, terror, cold
+and hot, dread, cold, heat, dread, want, heat, and then a wall.
+
+---
+
 ## Volume 4, Batch 0002 — CLOSED (Chapters 161–170). THE RETURN.
+
 
 **Ten chapters written against `outline/volume-04.md` §4 escalation step 2, entered at Chapter 161 and
 running to the twentieth of April, one chapter a day, no shared dates and no gaps.** Full gate output, the

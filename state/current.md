@@ -6,144 +6,161 @@
 `state/archive/current-v1-v2.md` on the Batch 0005 review repair, and nothing was deleted. If you need a
 Volume 1 or Volume 2 fact, the archive is one read away; you do not pay for it on every prompt.
 
-1. **The head block, Volume 4 Batch 0002** — where the book is.
+1. **The head block, Volume 4 Batch 0003** — where the book is.
 2. **Adjudicated contradictions, condensed index** — sixty-one settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
 3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 197.
 
-**Last written:** **Volume 4, Batch 0002 — Chapters 161–170 (The Return), written and closed, then
-repaired against an external prose review.** **Volume 4 is open, Batch 0003 is the volume's midpoint span,
-and the reversal is at Chapter 174.**
+**Last written:** **Volume 4, Batch 0003 — Chapters 171–180 (The Standing), written and closed. Volume 4
+is open, Batch 0004 opens the fifth month, and Chapter 189 is the next scene.**
 
-**THE REPAIR PASS, AND WHAT A WRITER INHERITS FROM IT.** The batch was reviewed against the page and six
-findings were carried into the manuscript; no chapter was restarted, no date moved and no thread opened
-or closed. **Ch 169's scene was written as implication and is now written out, in full**, and the
-chapter runs 4,719 words instead of 3,618, over the scene band and inside the Chapter 55 and Chapter 8
-precedent, with a named exception. **Ch 170's contradiction with Ch 162's roster rule is repaired at both
-ends** — the duty clerk at 163 says in terms that the fourth column took her off nothing and that he
-ruled the line off the wall himself for a strength count the office had owed since February, and Runa
-Sato states the distinction in her own words at 170. **Ch 161's duplicated paragraph is gone**, replaced
-by two new ones in which he counts the bodies coming out of a gate and understands what a division clerk
-will ask him for. **Ch 162's closing image is corrected** so that the frame's own rectangle and the band
-above it where the sentence was painted back are two different marks, which leaves the pale rectangle to
-Ch 176. Three gate claims in this batch's own record were false and have been corrected: zero emphasis
-markup, the count of the word Thursday, and the hot-path byte total.
+Ten chapters: a former clerk of eleven years explains at a kitchen table what a composition return is for
+and where late returns go, and the room does the sum nobody said out loud; **four hours in a parties' room
+on the third floor of the Reading while a review happens four floors above it and he is told nothing**;
+the second paper through the door of Ferrier Street, answered by Sun Meiling with eleven thousand people
+in her own hand; **the reversal, proved on paper in five minutes by a man going up a floor he has never
+walked** — a composition return filed on the twenty-second of March, six names at an address, and the
+space for the head of the household empty since the day it was signed; the cost half, in a kitchen, with
+six liabilities read out in order by a woman who will not put her own name anywhere; a Thursday, a
+repaint, a bare tile and nine people standing in daylight under a wall; **nine seconds at a counter on
+the second floor of the building he cleans**, which completes a return and takes a card off a shelf; a
+notice at a dispensary hatch with no name on it, and a leak that stops without anybody breaking anything;
+**Runa Sato's scene, asked to be answerable for all of them**; and the roll going up on a landing with
+six names and a seventh row with a number against it and nothing in the other three columns.
 
-Ten chapters: a woman on a stair quoting a rule about a stranger and asking for one promise; four hours
-on a bench in a corridor outside a hearing room and a lie told at two o'clock; a notice on a step, a
-delivery stub, and the batch's irreversible signature; a shilling at a counter and the first time in
-four months a woman was allowed to finish a sentence; a thesis about audits said in a kitchen at
-seven in the evening, and the only document in the city that proves it sold for a shilling; a second
-form, a fifth question the Office already knows the answer to, **eleven thousand printed in a margin**,
-and six women answering in six hands with two of them telling the truth in opposite directions; a signal
-operator who reads a hundred and eleven names aloud in a room in Bellhouse to find out which line moves
-a room, and pays for it in her own voice; a jobbing printer four doors up with six questions in pencil,
-entirely within his rights, answered in six hands because a standing instruction says so; **Agnete
-Lindqvist coming out of a room she has not left in eleven years**, and a woman who cannot go back in.
+**THE IRREVERSIBLE DECISIONS OF THIS BATCH ARE THREE, AND ALL THREE ARE PAID.**
 
-**THE IRREVERSIBLE DECISION OF THIS BATCH IS CH 163, AND IT IS SUN MEILING'S.** A notice of premises
-standing goes onto the step of Ferrier Street, dated the twelfth and effective from the fifteenth, and a
-man with a satchel holds out a stub and asks for the name and hour of whoever takes it. **She signs it
-in ninety seconds**, because five other women in that house can each be reached somewhere else and she
-cannot be reached anywhere, and a paper about a building does not have to find her, it only has to find
-the building. **It is the first document of any kind that has carried her name and that street together
-since March, and it cannot be undone. She also writes, in the seventh space of the notebook, a standing
-instruction of her own — a paper comes to me, I answer it, and I do not ask anybody else in this house
-what the answer is — which is the household's first chain of command and it is held by the one woman who
-refused the first one.**
+1. **CH 173, AND IT IS SUN MEILING'S.** The notice of premises standing signed on the thirteenth does its
+   work: on the twenty-third the first thing that comes through that door is a schedule of the persons of
+   reading age keeping an address at the premises, with a month on it. **She takes it because of her own
+   instruction, refuses six names, writes the number six, and then writes item eleven underneath it** —
+   the Church of the Quiet Number, eleven thousand and some hundred persons, in her own hand, in a room in
+   Ferrier Street. **It is the one thing Agnete Lindqvist said on the twentieth must never be done and it
+   is done inside four days, and Agnete's price for it is that she asks Sun Meiling to go and get the sheet
+   back and write on the back of it, in the margin, the date and the fact that no office asked for it,
+   signing her name twice.**
+2. **CH 175, AND IT IS HIS.** He puts it to six women in a kitchen that the box at the foot of two returns
+   wants a head of household, and that none of them can be. **Seven refusals go round the table in eleven
+   minutes and he says nothing during any of them.** Ines Duarte reads out the six liabilities he would be
+   accepting, one at a time, and he says **put my name in it** before she has finished. **He cannot un-say
+   it and the batch's cost is that from this day a paper can reach him by writing to him first.**
+3. **CH 177, NINE SECONDS AT A COUNTER.** He writes his name into the four-inch box, in his own hand, on the
+   second floor of the branch office he has cleaned six floors of for four years, and a clerk initials it.
+   **It completes a return, and a complete return reconciles every other return on that address, so the
+   card he read on the twenty-fourth comes off the shelf within the hour and is read by a district office.
+   He did that on purpose, in nine seconds, and he told Ines Duarte and not one other person.**
 
-**A SECOND UNWITHDRAWABLE PROMISE, CH 161, IS HIS.** Runa Sato asks him, in front of five women and in
-writing, not to tell her what was said in her hearing room, and she names the question in advance so that
-he can decide in advance. **He keeps it by lying to her face in a corridor, and then tells her that he
-has lied, and she says *right*.**
+**THE OTHER IRREVERSIBLE ACT IS CH 178, AND IT IS TESSA OKONKWO'S.** A notice with no name on it reaches
+the dispensary hatch at the Vestry, telling unfunded establishments that they will be brought within the
+ordinary schedule and advised to submit a schedule of persons treated. **She reads it in ten minutes as
+what it is — not money and not the file, but headcount — and then signs a second chart with her own name
+and his on it and four lines under the date saying that no schedule of persons treated exists, that any
+schedule will be incomplete, and that the incompleteness is the patients and not the clinician.** The
+clinic is now in a Wing file on purpose and cannot go back.
 
 **PERMANENT COSTS, NONE OF THEM REFUNDED:**
-- **Sun Meiling is now the point at which every paper for that house is served**, and she is there
-  because she refused to be written down. Four months of safety turned out to be four months of being the
-  cheapest door in the city.
-- **Runa Sato's name has a rule through it on the Field roster at Cordwain and she cannot be found by a
-  posting, a division, a service or a band** — and the standing she entered on the composition return on
-  the eighth of this month is now a false line on a form. **Two documents did that to her and only one
-  was hers: the entry as refusing, which costs her the premises, and a strength count the office had owed
-  since February, which cost her the wall.**
-- **A member who refuses a count is entered as refusing, and a household with a member who has refused is
-  a household with an unanswered count in it.** That is the Bureau's own rule, it was on a wall for
-  eleven years, and it is now about this house.
-- **The blank at the foot of the box has stopped being a wall.** An office can now complete it out of a
-  printed schedule of unmeasured associations, and the box is still empty.
-- **Six women answered a private citizen in six hands**, and the standing instruction was used for the
-  first time, and a man four doors up walked away knowing all of it.
-- **Beatrix Halm has given the visitors' book a voice** and the voice is hers, and about forty people in
-  Bellhouse have heard it.
-- **The Church of the Quiet Number exists on the page**, named in full at Chapter 169 by the woman it
-  belongs to, and eleven thousand of its members have been printed into the margin of a form about this
-  address as a standing the premises may be held under.
-- **Agnete Lindqvist cannot get back into a building**, and the door is open behind her.
+- **A document about six women has been in the Reading since the twenty-second of March and the household
+  has answered an enquiry into an address that had been returned already.** It is now a filing, it is now
+  complete, and a district office reads it.
+- **He is the head of a household and is findable on purpose**, at an address, by name, by anybody, in one
+  line. He is the only person in the book who has ever had a legal standing and it was bought in nine
+  seconds at a counter by a woman he had a conversation with three weeks earlier.
+- **Runa Sato is on the answer line of a household and has asked to be struck as available to the Field
+  division, which is a written act with a three-month clock on it and does not come back.** The thing the
+  Field owns is a body on a list, and an answer and an order come down the same wire.
+- **Sun Meiling is one person short forever and it is now a fact about a legal document.** The roll went up
+  on the landing on the thirtieth with seven ruled rows, six filled and the seventh numbered and empty, and
+  the light at that hour stops two inches above it, and it will be on that wall for sixty days.
+- **Runa Sato's standing entered on the eighth is a false line inside a return that is now complete**, and
+  in about eleven days there will be a line in a district file saying a member of this household gave the
+  Office an answer that was true on the eighth and is not true now.
+- **The Vestry clinic's nine years of being unfunded and unentered are over**, and a person with a warrant
+  can stand at that hatch from the first of next month and ask a name.
+- **The leak stopped and nobody can say why.** Four people deep, three told, all four kept every one, and
+  the thing that came out came out of a chart a doctor signed herself at five to midnight in a washroom.
+- **Agnete Lindqvist is still on no list of any kind, and the roll on the landing has a seventh row with
+  nothing in it, and it is not hers.**
 
-**THE BATCH'S TURNS.** 165 is the volume's argument: *the only thing which defends a person against an
-audit is being the same woman all the way back* — and the only document in Ostara in which six women are
-demonstrably the same six women all the way back is the visitors' book, which is for sale for a shilling.
-166 is the machine noticing: **the second issue of Form 4-C, eleven days instead of twenty-one, due on the
-same day, carrying a fifth question the Office already knows the answer to and a fifth permitted answer
-drawn from a schedule of eleven thousand unmeasured persons.** 168 is the escalation: a man who is not
-from the Bureau, is not a villain, is not stupid, is within his rights, and cannot be answered.
+**THE BATCH'S TURNS.** 171 is the machinery: a return is an instrument of acquisition and a late return
+goes on a heap and is read by a woman doing a bundle. 172 is the terror: nothing happens in it for four
+hours and it is the largest part of what the state does to a person who cannot get anybody to move. 173 is
+the escalation and the price of protection found out. **174 is the reversal and it is proved on a shelf by
+a man who had read the plate on the door forty feet away on the twenty-second.** 175 is the cost and it is
+his decision, taken before anybody had told him the whole of it. 177 is the act. 178 is the leak stopping.
+179 is the scene. 180 is a wall.
 
-**Position at the close of Batch 0002:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band
-six.** The plate has not moved a grain in seventy chapters. **Band five on the plate, band six on a piece
-of paper.** **Ledger 118 lines, nine turned, the ninth still himself. No draw spent on anybody in ten
-chapters, and none on himself in ninety.** File 4,112, one folio open, no second. No classification, no
-rank earned, no rank lost, no grain scored. **Zero system panels in ten chapters**; the one rise to 118
-is in prose at 161 with its cause named. Household seven women, six keeping the notebook, **eight people
-if Agnete Lindqvist agrees to be there, and no column for her**; **one standing instruction handed out
-in six hands and refused once, one written by the woman who refused it, and two promises that cannot be
-withdrawn.** Wren Kallo unsworn and not one of the seven. Sun Meiling off every roll and now the only
-point of service.
+**Position at the close of Batch 0003:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band
+six.** The plate has not moved a grain in eighty chapters and the figure is printed once, in Ch 180, where
+it does its work. **Ledger 118 lines, nine turned, the ninth still him. No draw spent on anybody in twenty
+chapters and none on himself since the promise in the hall.** File 4,112, one folio open, no second. No
+classification, no rank earned, no rank lost, no grain scored. **Zero system panels in ten chapters and no
+count turns; the one ledger figure in the batch is in prose at Ch 177.** The composition return is
+**complete**, filed on the twenty-seventh with **seven persons of reading age counted and a head of
+household named**, and a **sixty-day certification is running and will not be certified inside the volume**.
 
-**Scenes: 106, 118, 129, 141, 149 in Volume 3; 157 and 169 in Volume 4.** Gaps 149 → 157 = 8, 157 → 169 =
-**12**, and the next scene is Chapter 179 (Runa Sato, the Field hostel, the roster face down on a desk),
-a gap of **10**. **Ch 169 is written out and not summarised, and it is 4,719 words.** It is staged in a
-corridor in the Vestry with a runner worn thin down the middle, four doors, a window that does not open,
-and the other side of a door that has not been opened in eleven years — **a ground, a hand, a
-name-exchange and an aftermath that appear nowhere in the ten scenes of the grid** — the rib is never
-mentioned, his name is used once and as a word, nothing is spent on anybody, she takes nothing from him
-and gives him nothing, and her last act is the door left standing open behind her.
+**THE HOUSEHOLD AS IT NOW STANDS, AND WHICH LIST IS MEANT.** **Seven women**, of whom **six keep the
+notebook** and **Sun Meiling does not**, and Wren Kallo is the eighth partner and is on no roll at any
+time. **The roll on the landing has seven ruled rows: six filled, the seventh numbered and empty, and the
+head of household above them in his own hand.** Ola Bright is not a partner and her copybook now carries
+the six lines, a seventh, and a date, and it is not the one unasked record any more. **Agnete Lindqvist
+sleeps in the building and is on no list at all, and there is still no column in this city for her.**
 
-**THE CALENDAR, DERIVED AND PRINTED.** M+3's 1st is a Thursday and M+3 has thirty-one days, so M+3's 31st
-is a Saturday and **M+4's 1st is a Sunday.** **M+4's Thursdays are the 5th, 12th, 19th and 26th** — and
-the derivation checks itself against a canon fact it did not produce, because Runa Sato's hearing is dated
-the twelfth of the fourth month, a Thursday. **M+4 is thirty days and Chapter 151 prints the anchor**:
-the card by the time clock reads APRIL. FIFTH. TWELFTH. NINETEENTH. TWENTY-SIXTH. AND THE THIRD OF NEXT
-MONTH. **M+5's 1st is a Tuesday and its Thursdays are the 3rd, 10th, 17th and 24th; M+5's length is not
-fixed and Batch 0004 must fix it with a printed anchor before it crosses 30 April.**
-**FLAGGED IN THIS BATCH'S CLOSE RECORD: the Batch 0002 prompt called Chapter 170's day a Tuesday. The
-derivation makes it the day after a Thursday. No chapter names it, so nothing on the page carries the
-disagreement, and it is recorded rather than adopted.**
+**Scenes: 106, 118, 129, 141, 149 in Volume 3; 157, 169, 179 in Volume 4.** Gaps 149 → 157 = 8, 157 → 169
+= 12, 169 → 179 = **10**, and the next scene is Chapter 189 (Beatrix Halm, the signal cabin at the far end
+of the Ferrier line, asked to stop writing minutes down), a gap of **10**. **Ch 179 is written out at
+3,142 words, inside the 2,600–3,900 scene band.** It is staged in her own room in the Field hostel at
+Cordwain — a bunk, a footlocker, kit packed on the thirteenth and not gone, a roster brought down off the
+muster-room wall and laid face up on the desk — **his name is not used once, by either of them, because a
+roster does not take a name**, the ribs are named once and not touched, nothing is spent on anybody, and
+her last act is the roster turned face down.
 
-**What is open and what Batch 0003 opens with:** **the twenty-second**, Ines Duarte's review, told to one
-person, not resolved, the hinge of Volume 5; **the twenty-fourth**, the day he goes up a floor he has
-never cleaned; **the twenty-seventh**, the return's deadline, carrying two answers to the same question
-in two hands and a box four inches wide that every answer in the household stops an inch above;
-**the twenty-sixth**, a Thursday, and the Board repaints; **the thirtieth**, the last day of the month.
-And the eight open threads this batch added: what the assessor finds, whether two contradictory answers
-survive a counter, whether the eleven come again, whether Agnete Lindqvist can get back inside, what
-happens when somebody comes up her stair with a second piece of paper, and what a woman who cannot be
-compelled to testify does about that.
+**THE CALENDAR, DERIVED AND PRINTED.** M+3's 1st is a Thursday and M+3 has thirty-one days, so M+4's 1st
+is a Sunday and **M+4's Thursdays are the 5th, 12th, 19th and 26th**. **M+4 is thirty days and Chapter 151
+prints the anchor:** the card by the time clock reads APRIL. FIFTH. TWELFTH. NINETEENTH. TWENTY-SIXTH. AND
+THE THIRD OF NEXT MONTH. **Batch 0003 ran the twenty-first to the thirtieth, one chapter a day, no shared
+dates and no gaps, and the word Thursday appears five times: four of them in Chapter 176 and derived from
+the repaint at nine, and one line of Chapter 180. Every one of them is the twenty-sixth. No other weekday
+name appears anywhere in the batch.**
+**M+5's 1st is a Tuesday and its Thursdays are the 3rd, 10th, 17th and 24th; M+5's length is NOT fixed and
+Batch 0004 must fix it with a printed anchor before it uses any interval crossing 30 April.**
+**FLAGGED AND NOT REPRODUCED: the Batch 0002 prompt called the twentieth a Tuesday, and the Batch 0003
+prompt places a one-day countdown at Chapter 177, which is the deadline itself. The derivation makes the
+twenty-sixth the last day a countdown to the twenty-seventh can print, and it is printed there, with its
+subtraction.**
 
-**In one sentence, which is the sentence the volume is about:** a household made itself unfindable for
-four months and discovered that the cheapest door in the city is the one woman who refused to be written
-down, and every paper in Ostara now knows which door it is.
+**What is open and what Batch 0004 opens with:** **the first of May**, and M+5's length, which must be
+printed on the page before any interval crosses it; **the certificate**, at the end of sixty days, which
+cannot arrive inside this volume; **the one name on the return that is false** and the district line that
+will carry it; **the four people in that building who will find out he knew for three days and did not
+say**; **Ines Duarte's review, the twenty-second of this month, told to one person, not resolved, the
+hinge of Volume 5**; **Runa Sato's three months**; **the standing roll on the wall and the seventh row**;
+**the first day of next month, when a person with a warrant can stand at the Vestry hatch**; Beatrix
+Halm's broken price and the ninth of September; Sun Meiling's shape that says February; the desk's
+four-line note; the classification paper; the leak, which has stopped; and **Agnete Lindqvist's eleven
+years indoors, which is still not shut.**
 
-**Next phase to run:** **Volume 4, Batch 0003 — Chapters 171–180 (the twenty-first to the thirtieth of
-April), the volume's midpoint span.** Prompt at `workspace/volume-04/batch-0003/PROMPT.md`. **Chapter 172
-is Ines Duarte's review and the chapter does not go in with her — it is four hours of waiting in a room
-on the third floor at Cobb Street, and nothing at all happens in it.** **Chapter 174 is the reversal, and
-it is proved on paper in five minutes by a man going up a floor he has never cleaned: the composition
-return that already exists, filed on the twenty-second of March, six names at an address, and the space
-for the head of the household empty since the day it was signed.** The rule in `outline/volume-04.md` §5
-is binding and Batch 0002 spent none of it: **never as *he is the address*, never in any form of B103,
-never by a character who has not read the paper, never in a joke, and never after Chapter 180.**
+**In one sentence, which is the sentence the volume is about:** the household he spent four months refusing
+to build has been on paper since March, and it has become real because a man wrote his name at the top of
+it in nine seconds at a counter in his own place of work, and the only thing he has bought is the right to
+be written to first.
+
+**Next phase to run:** **Volume 4, Batch 0004 — Chapters 181–190 (the first to the tenth of May).** Prompt
+at `workspace/volume-04/batch-0004/PROMPT.md`. **Batch 0004 opens M+5 and must print the anchor that fixes
+M+5's length before it uses any interval that crosses the thirtieth of April**, exactly as Chapter 151
+printed it for April, or no writer after it may subtract. **Chapter 183 is a Thursday and the Board
+repaints on it. One of the six asks to be taken off the roll, which is the first time in this book that a
+person has asked to become unfindable on purpose. Wren Kallo takes the fourth name herself and tells not
+one other person. Chapter 189 is Beatrix Halm's scene and it is immovable.** The reversal must not be
+restated after Chapter 180; from here it is simply operating.
 
 ---
+
+**PREVIOUS HEAD RECORDS — Volumes 4, Batches 0002 and 0001.**
+
+**The Batch 0002 head block was superseded at the Batch 0003 pass and is not carried here. Its full
+close record — the day map, the Gate A interval trace with its eight errors, the gate output, the named
+length exceptions and the drafting decisions registered as canon — is the Batch 0002 block at the head
+of `state/open-threads.md`, one read away.** The Batch 0001 head record follows, unchanged.
 
 **PREVIOUS HEAD RECORD — Volume 4, Batch 0001 — retained below unchanged.**
 
