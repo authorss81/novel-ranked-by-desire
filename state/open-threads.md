@@ -1,5 +1,202 @@
 # Open Threads
 
+## Volume 3, Batch 0003 — CLOSE RECORD (writing pass). Ten chapters written, read against the page.
+
+**Drafted against the proposed-canon block below. Changes from the proposal: the four forward marks on the
+certified run were given printed dates rather than left as four undated entries; the desk's six
+counterparties were given names on the page; the corridor room's contents were fixed at blank forms
+rather than left open; and a first draft of 130 named Isolde Marchetti, which was cut because she
+enters in Volume 6 and nothing in this batch may anticipate it. Nothing else changed. The seven-point
+restatement rule was held: the reversal is stated once at 127 and is used at most four times in the
+whole volume, of which this batch uses three (127, 128, 130).**
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+| Chapter | Figure | Line's figure | Anchor | Subtraction |
+| --- | --- | --- | --- | --- |
+| 121 | thirty-nine days | 39 | 21st of M+2, the 29th of M+3 printed on the notice (Ch 101/103) | 10 days left in M+2 after the 21st + 29 = 39 |
+| 122 | thirty-eight days | 38 | the 22nd | 9 + 29 = 38 |
+| 123 | thirty-seven days | 37 | the 23rd | 8 + 29 = 37 |
+| 124 | thirty-six days | 36 | the 24th | 7 + 29 = 36 |
+| 125 | thirty-five days | 35 | the 25th | 6 + 29 = 35 (five weeks exactly) |
+| 126 | thirty-four days | 34 | the 26th | 5 + 29 = 34 |
+| 127 | thirty-three days | 33 | the 27th | 4 + 29 = 33 |
+| 128 | thirty-two days | 32 | the 28th | 3 + 29 = 32 |
+| 129 | thirty-one days | 31 | the 29th | 2 + 29 = 31 |
+| 130 | thirty days | 30 | the 30th | 1 + 29 = 30 |
+| 128 | thirty-nine days of lines in the notebook | 39 | 21st of last month, counting the day it started on; nineteen at Ch 109, twenty-four at Ch 113 | 24 (at the 13th) + 15 = 39 |
+| 122 | eleven years of Sabine's chair and her sheets | 11 | Ch 95/107, her own statement | not a subtraction; a figure she states about her own service and it is unchanged |
+| 125 | four years back (the run) | 4 | the 25th of this month | not converted to days on the page; the four forward marks carry printed dates instead |
+| 125 | four quarterlies | 4 | the clerk's own statement, "a run is entered in the quarterly that follows it and in every quarterly after it" | not a subtraction; a filing rule |
+| 126 | nine days (four of them unaccounted for) | 9 | 21 on the case file, 6 on the run, both printed on the page | 21 − 6 = 15 unaccounted for; the nine in Tove's line is the count of read-only entries, not a subtraction of these figures — **the line reads *That is not a figure* and is followed by *That is five women and ten men*, which is 5 + 10 = 15** |
+| 127 | seven years (the tool's life on the bench) | 7 | Ch 116, the clerk: built seven years ago on the second bench | unchanged |
+| 127 | seven years (the specification's age) | 7 | same | unchanged |
+| 129 | thirty-two days without a movement on the rack | 32 | Ch 100: the rack went 27→28 on the 28th of M+1, "the first time it has moved since the seventeenth of last month" | 28th of M+1 → 28th of M+2 = 31 days; → the 29th = 32 |
+| 129 | three days to the first of next month | 3 | the 29th of M+2 | 30th, 31st, 1st = 3 |
+| 129 | the 22nd was the sixth Sunday of the run | — | **CUT** | no weekday is named anywhere in 121–130 |
+| 130 | five days after the thirtieth | 5 | `outline/volume-03.md` §12 day map | 31st of M+2 and the 1st–4th of M+3 = 5, printed as the gap before Batch 0004 |
+| 128 | nine weeks | — | Ch 100's "about nine weeks" said on the 29th of M+1, where 62 days is one day inside 63 | the chapter says she had been right to within a day and that there are thirty-two days of it left; **no arithmetic is asserted and the phrase is carried, not converted** |
+
+**Every figure above is either a subtraction from two printed dates both still on the page, or a
+figure a character states about their own service, or a figure with no day count asserted. No figure
+in the batch was traced from a date the page abandons. The one figure the Batch 0002 review caught —
+an untraced interval asserted beside a date — does not appear here: 123's *four trays of stamped
+paper coming up past him in about ten minutes* is anchored in its own first line to the trays that
+come down at four o'clock (Ch 88/91), and 124's runner on the bottom step is the same hour.**
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-03.md` §12
+
+121 the 21st · 122 the 22nd · 123 the 23rd · 124 the 24th · **125 the 25th (Thursday, the Board
+repaints)** · 126 the 26th · 127 the 27th · 128 the 28th · 129 the 29th · 130 the 30th. M+2 is
+thirty-one days with its first a Monday and its Thursdays on the 4th, 11th, 18th and 25th; the 25th
+is the batch's only Thursday and it is a Thursday because a man goes up a ladder. **No other weekday
+name appears in Chapters 121–130 at all**, checked by eye over every instance rather than by a gate,
+because the Batch 0002 review showed that a weekday-name gate cannot see a weekday attached to a date
+that is not one. Two weekday names were written in the first pass — a Tuesday in Adeyemi's mouth at
+121 and four uses of Monday as a back-reference at 122, 125, 126 and 127 — and **all five were
+replaced with printed dates** (*about a day that has not come*, *yesterday*, *the twenty-second*, *the
+nineteenth*). **Do not trust a weekday name; these were subtracted, not gated.**
+
+### Gates run, and what they do not tell you
+
+```
+ls chapters/volume-03/                                       → 30
+grep -h '^# ' chapters/volume-03/chapter-01*.md              → 30 titles, all from the volume bank, verbatim
+wc -w, per chapter                                           → 2012 / 2358 / 2094 / 1873 / 1843 / 1954 / 2282 / 1851 / 3167 / 2782
+grep -cE '^\s*(---|\*\*\*|___|—)\s*$'                        → 0 on all ten
+grep -cE '^\s*>'                                            → 0 on all ten
+grep -onE '\*\*[^*]+\*\*|_[^_]+_'                            → 0 (no bold, no italic, no emphasis of any kind)
+grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b' → 0
+grep -nE '^\s*\[.+\]\s*$'                                    → 0 (no system panel anywhere)
+grep -inE 'years old|\baged [0-9]|…'                         → 3 hits, all *four years old* / *seven years old* applied to a document or a specification. No age is stated for a person.
+grep -inE 'this volume|this book|the reader|\bchapters?\b|\bvolume\b' → 0
+grep -inE 'there is no form|…|nobody thanked|nobody asked|nobody knew|record remained' → 0
+grep -c 'nobody'                                             → 0 across all ten (the prompt allows at most one per batch, in a character's mouth; the first pass had twenty-nine and every one was rewritten)
+awk 'BEGIN{RS=""}' paragraph gate                            → 0 paragraphs over 90 words; none over 120
+duplication gate (adjacent-identical paragraphs; any sentence ≥8 words appearing twice in one chapter) → 0
+```
+
+**The duplication gate found nothing, and it has now run twice on this repository's prose. It does not
+tell me the sentences are varied; it tells me none was printed twice. The word counts certify nothing
+about the prose. This record is not a review of the prose.** A separate run must judge the scene at
+129, the reversal at 125–127, and whether the ten endings vary and land.
+
+**Named length exception, as `outline/volume-03.md` §10 requires.** **Ch 130 runs 2,782 words against
+the 1,800–2,700 band.** Reason: it is the hinge into Batch 0004 and it carries three separate closures
+in one morning — the arithmetic's remainder, the Office's knowledge that an empty column is worth
+nothing to it, and the household confrontation that Batch 0004's Chapter 131 opens on — and cutting it
+to band would have cost the confrontation. **Ch 129 runs 3,167 words against the scene band's floor of
+2,600**, which is inside it and needs no reason; the scene is on the page and not summarised, and the
+refusal has to be argued, the debt named, and the terms stated out loud before the scene can happen
+at all.
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** Adeyemi's rule in force and Sarn's obligation to say what the instrument does · the
+  classified corridor's room (Volume 3's floor) and what is under the cloth · the four-year-old
+  certified run and its six names · the subject's case file of twenty-one and the *instrument out of
+  tolerance* margin · the four forwards · the tool's specification and clause nine · the entry of the
+  run against his own file · Marta Vey, who is now in the record because he asked · the blank output
+  sheet · Sabine Rooke's nine chairs and the drawer of eleven years.
+- **Advanced:** Sun's position (present, on the landing, unclosed and unadvanced) · Runa's cost
+  (refusal written, hearing firms to a date) · Wren's standing (a slip by hand; she has answered for
+  the run and cannot keep the count of the copies) · Beatrix's condition on the turned lines (declared
+  dead on the twenty-eighth) · the classification paper (untouched, still unsigned) · the visitors'
+  book (not advanced; the two figures remain unmerged).
+- **Left open:** Sun's refusal · Runa's hearing · Ines's review · the notebook's refused signature ·
+  the 103 courtesy, carried and unspent · the hall and the twenty-ninth · the argument at 131 ·
+  the corridor's ninety rubbed-out sentences and whoever wrote them · the four offices that carried
+  the margin forward and never reconciled it.
+- **Untouched:** everything in the continuity block's NOT-opened list.
+
+## Volume 3, Batch 0003 — PROPOSED CANON, registered BEFORE Chapter 121 was drafted.
+
+**Written before a word of Chapters 121–130. Anything the drafting rejects is listed in the close
+record rather than dropped. This block is the newest and governs every Volume 3 block below it.**
+
+**Day map (M+2, thirty-one days, its 1st a Monday, Thursdays 4/11/18/25):** 121 the 21st ·
+122 the 22nd · 123 the 23rd · 124 the 24th · **125 the 25th, the batch's only Thursday, because the
+Board repaints** · 126 the 26th · 127 the 27th · 128 the 28th · 129 the 29th · 130 the 30th. **The
+31st of M+2 and the 1st to the 4th of M+3 go by before Batch 0004** (M+3's 1st is a Thursday; it is
+never named as one, because no instrument acts on it in this batch). No other weekday name appears
+in prose. D4/D3 inherited, flagged, untouched; nothing derives from the Review's weekday or any D3
+figure.
+
+**Countdowns, elapsed, anchored to the chapter's own date and the printed 29th of M+3 (which is NEXT
+month), with the month-remainder stated on the page wherever a countdown is printed:** 121 thirty-nine
+(10+29) · 122 thirty-eight (9+29) · 123 thirty-seven (8+29) · 124 thirty-six (7+29) · 125 thirty-five
+(6+29, five weeks exactly) · 126 thirty-four (5+29) · 127 thirty-three (4+29) · 128 thirty-two (3+29)
+· 129 thirty-one (2+29) · 130 thirty (1+29).
+
+**The bookwide notebook inclusive count**, extended by counting forward from the two printed anchors
+(19 days at Ch 109, 24 days at Ch 113, one line per woman per day from the 21st of last month):
+32 at 121 · 36 at 125 · 41 at 130. **No assertion is made anywhere in the batch about the length of
+M−1**, which the underlying arithmetic would require to be thirty-one and which D4 does not settle.
+The count is extended, not re-derived.
+
+**New mechanics on the page in this batch (the reversals, proved once and stated four times):**
+
+1. **(121) Adeyemi's rule, in force.** An instrument offered in evidence is not evidence until a
+   person says in the room, in words, what it does. **The person who must say it is the proponent —
+   Ivo Sarn** — and the member may put him to his own sentence. **If the proponent cannot say what
+   the instrument does, the instrument does not go on the table.** The Certification desk's answer
+   must be on the file **by the 25th**. This is the lever the whole batch turns on and it is earned
+   on the page at 121.
+2. **(125) The desk's best work.** A certified counter-forensics run, dated four years back, on an
+   unnamed subject. Subject column: a plate number. Counterparty column: **six names**. The run
+   cannot be repeated — the subject is gone and the premises are closed — which is why it has never
+   been re-examined.
+3. **(126) The subject's case file of the same date: twenty-one recorded movements. Fifteen
+   unaccounted for.** The margin on the certification reads, in a hand older than Sarn's,
+   *instrument out of tolerance*. **Carried forward four times** (a Field office, a Reading
+   quarterly, the next quarterly, and the desk's own index on the day the file closed) and never
+   reconciled, because each body was waiting for the next reading and not for the last one's
+   arithmetic. **The run is dated the ninth of a month and the four forwards are anchored to it in
+   office marks; no day count is asserted.**
+4. **(127) The rule, stated once, by the certification desk's clerk, who has read both sheets, in a
+   room with a clerk in it (Tove Marlin), from the two printed numbers and not from an explanation:**
+   the tool prints what is in front of it while it is running; it does not read a file; it has no
+   memory of a previous run. **The instrument is a subject-movement instrument and it cannot read a
+   backlog because it never stored one.** Nobody re-derives it. Adeyemi is not in that room and does
+   not learn it until 143. Sarn is never told it at all. Wren may say it from 118 and does not.
+5. **(127) THE IRREVERSIBLE DECISION FOR THIS BATCH — option A, and only option A.** In the same room,
+   with Tove Marlin's pen going into Tove Marlin's day book, he asks for the four-year-old certified
+   run to be **entered against his own file**. It goes into the record, it travels to the hall, it
+   cannot be withdrawn, it puts six strangers' names on the record against his name, and Wren Kallo,
+   answering as a party, must stand behind a run she did not make. **It closes the option he has held
+   since 115: he can never again call the instrument unreliable or careless, because he has staked
+   his own standing on its worst output.** Candidate B (consent to the household being asked at a
+   counter) is NOT landed and must not be.
+6. **(130) The remainder.** A public reading is one name per moment he touches a person in the room.
+   Survivable only if he touches nobody. **An empty reading closes nothing**, and the Office knows
+   that without knowing why. The only movement left in the room is his own and **the reason for it is
+   not stated by anybody, including in his own thought (B103 stays shut).** He does not spend and he
+   does not practise on anybody.
+
+**Option closed: he cannot be measured without moving.** A public reading is not a snapshot of the
+ledger. The Office need not fill the room and need not say anything about the size of it; it need
+only get him into the room and get a table put out. **The 103 courtesy (the instrument has never
+worked in an empty room) is NOT restated, named, collected on or paid anywhere in 121–130. It pays at
+143.**
+
+**Figures.** Plate 8,138 / floor 8,141 / tolerance three / 11,862 under band six wherever printed
+(none of the ten chapters needs a plate figure and none prints one, except 130 which prints the
+held position flatly in one paragraph). Ledger **112 lines, eight turned, one reading himself; no new
+ledger figure printed in any of the ten chapters; work with the cause named goes in without a
+number.** No draw spent on anybody, including himself. No grain scored, no rank moved, nothing
+classified, no folio opened, no second refusal or review from Ines, no ages, no `nobody <verb>` at
+all, no Channel, no routing.
+
+**What this batch must NOT open** (restating the Batch 0002 list for the next writer): second folio ·
+Ines's second refusal or review (V3-4) · B103 in any form · Ding's chest · May clipboard · rota word ·
+September's outcome · Marguerite's terms · Bernt · Church of the Quiet Number · Rhee · Saskia
+Verhoeven as a character · Alma Quayle as an opponent · Anouk Ferreira · Council of Nine by name ·
+anything after Volume 8.
+**What it must NOT close:** Sun's refusal (steady, present, unclosed; 131 and 149 carry it) · Runa's
+hearing (the refusal firms it, it does not resolve it) · Ines's review · the notebook's refused
+signature.
+**The 103 courtesy is carried, unspent.**
+
 ## Volume 3, Batch 0002 — REVIEW REPAIR. External review of `logs/batch-0002.review.log`, applied to the page.
 
 **A reviewer who did not write the batch read all ten chapters against the page. The batch's own close

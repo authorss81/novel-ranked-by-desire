@@ -1,41 +1,46 @@
 # Current State
 
-**Last written:** **Volume 3, Batch 0002 — Chapters 111–120 written (The Register).** Ten chapters:
-the proved roll in nine boxes; Runa's attestation and the dated demand; one buff square named by a
-porter's hand with Sun's refusal advanced on the landing; two papers down and unsigned; the
-certification question taken with Sarn named; the two-column tool with Wren named in the request;
-her confirmation that cannot keep itself; her immovable scene at 118 with the irreversible decision
-(made a party, out loud); six where the file says more with the seventh refused; Sarn's sentence in
-the sixth space as received. Repaired on the read (fourteen wording-level defects, all on the page:
-counts, weekdays, one B103 brush, one routing word, paragraph splits), and then **repaired a second
-time by an external review that read the ten chapters against the page and found nine hard prose
-defects the gates had passed: three byte-identical duplicated paragraphs, a chapter whose clock ran
-backwards and then forwards, an envelope sealed twice, a door in the wrong building, a stray
-holding-ward paragraph, a dangling pronoun, an untraced interval, and one of the batch's own
-fourteen repairs asserted in a state file and absent from the page.** All are fixed. Full record at
-the head of `state/open-threads.md`; the review's own findings at `reviews/volume-03/batch-0002.md`.
-**It certifies nothing about the prose.** Full record at the head of `state/open-threads.md`; calendar and mechanisms at the head
-of `state/continuity.md`; summaries in `state/chapter-summaries.md`.
+**Last written:** **Volume 3, Batch 0003 — Chapters 121–130 written (The Live Column, first ten).**
+Ten chapters: Adeyemi's rule stated in force and the lever it hands him; Sabine Rooke asked a third
+time and starting; the classified corridor, once, and what is under the cloth — fifty blank forms and
+nine sentences rubbed out; the Certification desk's four-year-old certified run on a stranger with six
+names in it; the same subject's file with twenty-one movements and a margin reading *instrument out of
+tolerance*, carried forward four times and never reconciled; **the reversal, stated once in a room with
+a clerk in it, from the tool's own clause nine**; **the irreversible decision, and only option A — he
+asks for that run, that file and that margin to be entered against his own file**; the threat's new
+species carried in a man's hands; Tessa Okonkwo asking to be released from a debt he cannot discharge,
+and the scene; and the blank output sheet. Repaired on the read: six weekday names cut to printed
+dates, twenty-nine instances of the `nobody <verb>` family reduced to zero, three horizontal rules cut,
+every paragraph over ninety words split, and the auto-split rejoined so that no quotation breaks across
+a paragraph. Full record at the head of `state/open-threads.md`; calendar and mechanics at the head of
+`state/continuity.md`; summaries in `state/chapter-summaries.md`.
 
-**THE STANDING LESSON, repeated:** a trace is not an anchor unless subtracted from two printed
-dates, both still on the page. Batch 0002's countdowns were all subtracted (49→40 with remainders
-printed); its two loose spans ("five weeks", weekday arrivals) were cut, not traced.
+**THE STANDING LESSON, repeated:** a trace is not an anchor unless subtracted from two printed dates,
+both still on the page. Batch 0003's countdowns were all subtracted and all printed with their month
+remainder; the two weekday names that survived the first pass were **deleted rather than traced**,
+because a weekday gate cannot see a weekday attached to a date that is not one.
 
 **Position:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Band six seated on
 the Review instrument, suspended pending description — not lost; suspension lifts at 147 and nowhere
-before. Ledger 112 lines, eight turned, one reading himself; no draw spent in ten chapters; no panel.
-File 4,112, one folio open, no second. Classification paper dated the 19th of last month, unsigned;
-sixth space filled as received, not agreed. Household seven women, six keeping the notebook, his
-signature refused; Sun on the landing.
+before. Ledger 112 lines, eight turned, one reading himself; **no draw spent in ten chapters on
+anybody, including himself**; no system panel in ten chapters. File 4,112, one folio open, no second.
+Classification paper dated the 19th of last month, unsigned and untouched by this batch; sixth space
+filled at 120 and not touched again. Household seven women, six keeping the notebook, his signature
+refused; Sun on the landing.
 
-**In the story:** **the 20th of the new month.** The record is complete, the instrument certified on
-paper, the written case opening with a description, his one witness named. The hall stands forty days
-out, for the 29th of **next** month. The next question is whether the instrument can actually
-produce what its proponent says it produces — Batch 0003's proof.
+**In the story:** **the 30th of the month.** The record is complete, the instrument is certified on
+paper and its one certified run is now **on his own file at his own request**, and the arithmetic of
+that run says a public reading of him is one name per moment he touches somebody in the room. The hall
+stands thirty days out, for the 29th of **next** month, with a hundred and forty seats, a rail and
+ninety standing places. The next question is what he says to six women about it — Batch 0004.
 
-**Next phase to run:** **Volume 3, Batch 0003 — Chapters 121–130 (The Live Column, midpoint reversal
-at 125–127).** Prompt at `workspace/volume-03/batch-0003/PROMPT.md`. Wren's secret is four people
-deep; Runa's demand dates the 26th; Field wants a seventh line.
+**Next phase to run:** **Volume 3, Batch 0004 — Chapters 131–140 (The Choice opens: the argument at
+131, the list of acts from 133).** Prompt at `workspace/volume-03/batch-0004/PROMPT.md`. **The
+reversal has now been used three times in this volume (127, 128, 130) and may be used at most once more
+in the whole of Volume 3, and never after Chapter 133.** Runa's hearing has a date. Sun's refusal is
+steady and unclosed. The 103 courtesy is carried and unspent and pays at 143.
+
+**PREVIOUS HEAD RECORD — Volume 3, Batch 0002 (Chapters 111–120), retained below unchanged.**
 
 **SUPERSEDED HEAD RECORD — Volume 3, Batch 0001 (Chapters 101–110), removed from this file on the
 Batch 0002 review repair.** It was stacked here with no boundary marker and contradicted the live

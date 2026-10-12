@@ -1,5 +1,155 @@
 # Continuity
 
+# Volume 3, Batch 0003 — CLOSED (Chapters 121–130)
+
+**Ten chapters written against `outline/volume-03.md` escalation step 3 (The Live Column, 121–133),
+situated the 21st–30th of M+2, one chapter a day. Proposed canon was registered in
+`state/open-threads.md` BEFORE Chapter 121 was drafted; that block is the newest and governs every
+Volume 3 block below it on every point it touches. Full gate output, the Gate A interval trace and
+the Gate B subtraction are in `state/open-threads.md` in this batch's close record. **This block
+supersedes every Volume 3 block below it on every point it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0003 is the 21st to the 30th of M+2**, one chapter a day: 121 the 21st · 122 the 22nd ·
+  123 the 23rd · 124 the 24th · **125 the 25th, the batch's only Thursday, and it is a Thursday
+  because the Board repaints** · 126 the 26th · 127 the 27th · 128 the 28th · 129 the 29th · 130 the
+  30th. M+2 Thursdays 4/11/18/25; M+3 Thursdays 1/8/15/22/29; the Reading is Thursday the 29th of
+  M+3. **The 31st of M+2 and the 1st–4th of M+3 go by before Batch 0004, which opens on the 5th.**
+  M+3's 1st is a Thursday and is never named as one, because no instrument acts on it in this batch.
+- **Countdowns, elapsed, each anchored to the chapter's own date and the printed 29th of M+3 (which
+  is NEXT month), with the month-remainder stated on the page:** 121 thirty-nine (10+29) · 122
+  thirty-eight (9+29) · 123 thirty-seven (8+29) · 124 thirty-six (7+29) · 125 thirty-five (6+29) ·
+  126 thirty-four (5+29) · 127 thirty-three (4+29) · 128 thirty-two (3+29) · 129 thirty-one (2+29) ·
+  130 thirty (1+29). Every countdown is printed in the prose with its remainder. **No two dates on
+  the page are ever called a weekday except the 25th, and no other weekday name appears anywhere in
+  121–130.**
+- D4/D3 inherited, flagged, untouched. Nothing in the batch derives from the Review's weekday, and
+  no D3 figure is used.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **ADEYEMI'S RULE, IN FORCE (121).** An instrument offered in evidence is not evidence until a
+  person says in the room, in words, what it does. **The person who must say it is the proponent,
+  Ivo Sarn, and if he cannot say it the instrument does not go on the table.** The Certification
+  desk's answer must be on the file **by the 25th** and is paper, never a demonstration: Adeyemi is
+  not permitted to run one on a hearing morning. Adeyemi does not enjoy the work and says so once.
+- **THE CORRIDOR, ONCE (123–124).** Volume 3's floor. The classified door on the second sub-level of
+  the Fourth Branch: no handle on this side, and at handle height a filled rectangle of paint where
+  a handle was taken off and painted over, years ago, in an era when the plate was already on the
+  door. Inside: eleven feet by nine, warm, swept since the weekend; a table, a grey cloth, one chair
+  pulled out at the angle of a man who stood up mid-sentence; and under the cloth about **fifty
+  blank forms with six headings ruled and a sixth space ruled and empty on every one** — the Wing's
+  own paperwork, with no name on any of them — and on nine of them, evenly spaced down the stack,
+  a sixth space full of pencil scoring rubbed out. **He went down exactly once. The going down is not
+  a triumph and it explains nothing; he told no woman in his household about it.**
+- **THE DESK'S BEST WORK (125).** A certified counter-forensics run dated **the ninth, four years
+  back**, on an unnamed subject (a plate number; the name line burnished over). Counterparty column:
+  **six names** — Marta Vey, Ansell Rooke, Bethan Truscott, Iven Marchetti-Lowe, Dell Anspach,
+  Willem Rasch. Certified complete to specification. **It cannot be repeated**, because the premises
+  closed and the subject is not available, and that is what makes it paper rather than a claim. It
+  has been carried into four quarterlies under the same six names.
+- **THE TWO NUMBERS (126).** The subject's case file of the same date carries **twenty-one recorded
+  movements**, under the same heading. **Fifteen unaccounted for.** The margin on the certified run
+  reads, in a hand older than Sarn's, *instrument out of tolerance*, dated the ninth, and it is
+  carried forward **four times** — the ninth into a district summary, the fourth of the next month
+  into a quarterly, the second of the month after that into the quarterly again, and the second of
+  the month four months after the run onto a closing index card — and never reconciled, because each
+  body was waiting for the next reading and not for the last one's arithmetic. **The failure was
+  arithmetic and arithmetic does not sit in anybody's column.**
+- **THE RULE, STATED ONCE, AT 127, IN A ROOM WITH A CLERK IN IT.** From the tool's own
+  specification, dated the seventh of a month seven years back when the tool was built on the second
+  bench, eleven clauses, of which **clause nine** says the counterparty column is filled at the
+  moment of contact between the observed subject and a person, in the room, while the tool is
+  running, and that the tool reads nothing else; **clauses four to eight** say it stores nothing
+  between runs and has no memory and no drawer. Said by the certification clerk, who has run the
+  tool seven years; read back exactly as written by Tove Marlin. **The instrument is a
+  subject-movement instrument and it cannot read a backlog because it never stored one.**
+  **It is never restated as *he is safe*, never in the form of *he is not a tank, he is a door*, never
+  as *the account is an address*, and never after Chapter 133.** Adeyemi is not in that room and does
+  not learn it until 143. Sarn is never told it at all. Wren may say it from 118 and does not.
+- **THE IRREVERSIBLE DECISION FOR THIS BATCH IS CH 127, OPTION A, AND ONLY OPTION A.** In a room
+  with a clerk in it, he asks Tove Marlin to **enter the certified run, the case file and the margin
+  against his own file**, and she writes his reason out: he wanted to say in a room that the machine
+  cannot be trusted, and by putting it in the record first he can never say it again. **It cannot be
+  withdrawn by the person it names, it goes to the hall, it puts six strangers' names on the record
+  against his own, and Wren Kallo must stand behind a run she did not make.** One of the six,
+  **Marta Vey**, lives four streets from Ferrier Street and is at the top of her trade, and Tove has
+  not gone to her and is not going to. **This closes the option he has held since 115: he can never
+  again call the instrument unreliable or careless, because he has staked his own standing on its
+  worst output.** Candidate B (consent to the household being asked at a counter) is NOT landed.
+- **THE THREAT CHANGED SPECIES (128–130), NOT ITS TEMPERATURE.** A public reading is one name per
+  moment he touches a person in the room. **Clause nine does not say who starts it**, and the Office
+  does not have to do anything to make the column fill: it has to leave a man who has spent four
+  years touching people in a room with a hundred and forty strangers in it for an hour. **An empty
+  reading closes nothing** — the instrument is withdrawn, the roll is read anyway, the notice does
+  not close — **and the Office knows that without knowing why**, because a procedure that comes out
+  with nothing in it has to be done again and the calendar has the 29th printed on it in two places.
+  **The 103 courtesy (the instrument has never once worked in an empty room) is NOT restated, named,
+  collected on or paid anywhere in 121–130. It pays at 143.**
+- **THE ONLY MOVEMENT LEFT (130).** The one movement in that room that does not put a name in the
+  column is his own body, which he knows of since the thirteenth of last month in a corridor with a
+  woman with a card. **He does not spend it, does not practise it on anybody, and no chapter states
+  why it works (B103 stays shut).**
+- **SUN MEILING (128, 130).** On the landing with her coat on, where she has been since the first.
+  Nadia goes up with the news and comes back and says nothing. **Her refusal is steady, present and
+  unclosed; no chapter in this batch advances or closes it.**
+- **SABINE ROOKE (122), B99 advanced.** Asked a third time, on the 21st, and the third question was
+  about the room rather than a Thursday, which is what makes it a file. She came and found him
+  first, as she said she would. She now holds eleven years of paper in a drawer in that corridor
+  that has been named aloud to an officer, and she has signed for nine chairs at seven on the
+  morning.
+- **THE VISITORS' BOOK IS NOT ADVANCED IN THIS BATCH.** The Office's exhibit sheet still says
+  eighty-nine entries, twenty-nine asking about a person and thirteen about the household; the live
+  book is higher and keeps rising, and no chapter in 121–130 prints a new live figure, so **the
+  two sets remain unmerged and no bridge is owed.**
+
+## Figures, fixed on the page
+
+- **No chapter prints a ledger figure. Ledger 112 lines, eight turned, one reading himself. No draw
+  spent on anybody, including himself, in any of the ten chapters. No system panel in any chapter.
+  Work with the cause named goes in without a number** (a queue, a tap, a floor, an hour), in 125,
+  128 and 130.
+- **Plate 8,138 against a floor of 8,141** printed as words twice, at 125 and 129. The band six is
+  seated on the Review instrument, suspended pending description; it lifts at 147 and nowhere
+  before. No rank earned, none lost, no grain scored, nothing classified.
+- **File 4,112, one folio open, no second.** The classification paper dated the 19th of last month
+  is unsigned and is not mentioned in any of the ten chapters; the sixth space is filled at 120 and
+  is not touched again here.
+- **THE NOTEBOOK** carries **thirty-nine days** of lines at 128, counted forward from the two printed
+  anchors (nineteen at Ch 109, twenty-four at Ch 113). No chapter asserts the length of M−1.
+
+## What this batch did NOT open
+
+Second folio · classification entered · the word *Channel* and routing, in any form, including as an
+analogy for the instrument (the instrument's rule is a machine rule and is never written as
+anything else) · Ines's second refusal or her review (she speaks once, at 130, and it is neither) ·
+B103 in any form · Ding's chest · May clipboard · rota word · September's outcome · Marguerite's
+terms beyond staying down and unsigned · Bernt · Church of the Quiet Number · Rhee · Saskia
+Verhoeven as a character · Alma Quayle as an opponent · Anouk Ferreira · Council of Nine by name ·
+Isolde Marchetti (a first draft named her at 130 and it was cut; she enters in Volume 6) ·
+anything after Volume 8. **No rank moved, no grain scored, no draw spent, nothing classified, no folio
+opened.**
+
+## What this batch did NOT close
+
+Sun's refusal · Runa's hearing (a second written disobedience firms it from a month into a date; the
+date is not given and the hearing is not this volume's hearing) · Ines's review · the notebook's
+refused signature · the corridor door's plate and the ninety rubbing marks · the certification
+desk's fresh run · Marta Vey's name in the record, which now travels to the hall.
+
+## Endings and temperature
+
+121 a lever in a hand (he now owns a question and a date) · 122 a debt accepted in a chair ·
+123 dread, a door with the paint still on it · 124 an object, a hundred and twelve lines, and a lie
+he has not told yet · 125 two numbers and a hand on a tray · 126 a refusal in a serving officer's
+hand · 127 an irreversible request and its cost, in the same breath · 128 an hour and a half in the
+rain outside a gate · 129 a debt that cannot be discharged, and then what happened instead ·
+130 four minutes of silence at a table, cut off. No two consecutive share a shape; none ends on a
+neutral action. Emotion varies: anger, dread, guilt, cold recognition, resolve, shame, the
+specific vertigo of having staked his own standing on a machine's worst output, wariness, and
+something warmer that is still not relief.
+
 # Volume 3, Batch 0002 — CLOSED (Chapters 111–120)
 
 **Ten chapters written against `outline/volume-03.md` escalation step 2 (The Register), situated
