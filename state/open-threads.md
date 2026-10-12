@@ -123,7 +123,7 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 | B23 | **The statement he filed against himself.** Ch 39: five names struck by declaration and not by evidence, Emrys Vaz named, plate 441, his own hand and signature, in the front of Runa Sato's file above the observation of the 6th. It put five names back on the branch board and opened a Reading Office query against his own standing. | **Open — the batch's central irreversible decision.** He gave away the only thing protecting ninety-one colleagues in order to file the truth about one boy. It is not repairable by retracting it. |
 | B24 | **The Reading Office query.** A query wants an instrument. The clerk who entered his reading on the 3rd owns it and cannot invent one. He can petition sealed files at six — after the 29th, if he holds the band at all. | Open — the mechanism that turns his own filing into an instrument he has to earn. Batch 0005's clock. |
 | B25 | **A provisional band is not carried into review.** Printed on the queue sheet on the 24th, two days after his filing. The Review strikes the band off the figure on the day, in a room, from the plate. 8,141 is a five. | Open — closes his six at the Review and is the reason Batch 0005 exists. |
-| B26 | **Eleven thousand eight hundred and fifty-nine grains.** Band six opens at 20,000; published standing is 8,141; a witnessed deed scores 400; he needs twenty-nine in six weeks and has nineteen people and no twentieth. | **Open — NOT closed by Ch 48, and this is now the sharpest fact in the book.** He holds six on an instrument and the plate still reads 8,138. Nothing the account did was converted into a grain. Volume 2 starts 11,862 grains short of the band he is standing on, and the Classification Wing is the party that would like to know how. |
+| B26 | **Eleven thousand eight hundred and sixty-two grains.** Band six opens at 20,000; published standing is 8,141; a witnessed deed scores 400; he needs twenty-nine in six weeks and has nineteen people and no twentieth. *(This cell read 11,859 until the `volume-plan` review. That figure belongs to a plate reading 8,137, which the Batch 0005 repair changed to 8,138 at Ch 47. See `state/current.md` item 31.)* | **Open — NOT closed by Ch 48, and this is now the sharpest fact in the book.** He holds six on an instrument and the plate still reads 8,138. Nothing the account did was converted into a grain. Volume 2 starts 11,862 grains short of the band he is standing on, and the Classification Wing is the party that would like to know how. |
 | B27 | **Tobias Renn is on a board again**, third one down, because of a statement the declarant filed himself, eight days after signing an employer attestation that was not a favour. | Open — B18 deepened. He has still not been thanked and will not take it in a speech. |
 | B28 | **Tessa's rack is at twelve** and she is taking four a day and has crossed her left elbow. She will not stop. She has asked him once a month to say the number out loud to her, and not the names. | Open — the cost of the climb has a body on it. T5 continues. |
 | B29 | **Solveig Rask's column of thirty-one plate numbers over nine years**, and a valuation requiring a rate known to two people. His is the thirty-first, entered on the 3rd, and it is the only entry with a date in the last eleven days. | Open — the register's engine. **Do not resolve before Volume 2.** |
@@ -144,15 +144,18 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 
 ## What the close audit corrected in this file
 
-- **The residual age census is seven, not five.** Two unregistered instances were found on the page at
-  the close: **`chapter-0002.md:21`** ("He had spent twenty-five years wanting a number") and
-  **`chapter-0037.md:57`** ("since he was fifteen years old") — **both Lin Hao, both in narration** — plus
-  **`chapter-0037.md`'s** and **`chapter-0046.md:37`** ("I am forty-one years of keeping books for money",
-  Marguerite Vale, in dialogue). **Three of the seven are the protagonist or a core partner stating a
-  canon-correct age.** Canon is not contradicted; the prose rule is. **A grep will not find the seventh** —
-  a writer making a deliberate decision registers it here at the moment of the decision.
-- **The canon-change guard's list of "five residual ages" is replaced in full** by the seven-item table
-  below. Nothing is adopted, nothing is repaired, and the earlier entries stand as written.
+- **The residual age census is seven, not five** *— superseded, twice over.* The close audit added two
+  unregistered instances to the five: **`chapter-0002.md:21`** ("He had spent twenty-five years wanting a
+  number") and **`chapter-0037.md:57`** ("since he was fifteen years old") — **both Lin Hao, both in
+  narration** — together with **`chapter-0046.md:37`** ("I am forty-one years of keeping books for money",
+  Marguerite Vale, in dialogue). **The `volume-plan` review then added a ninth and found that this label
+  had been saying seven against a table of eight.** **The governing figures are now nine chapters and ten
+  announced ages, five of them the protagonist or a core partner, and the table under *Canon-change flags
+  raised by the Batch 0003 review repair* is the one that governs.** Canon is not contradicted at eight of
+  the ten; the prose rule is. **A grep will not find the Chapter 20 instance** — a writer making a
+  deliberate decision registers it here at the moment of the decision.
+- **The canon-change guard's list of "five residual ages" is replaced in full** by the table above. Nothing
+  is adopted, nothing is repaired, and the earlier entries stand as written.
 
 ## Deliberately unanswered at the end of Batch 0005
 
@@ -160,10 +163,11 @@ Who fed the account before the register’s hand-pencil entry nine years ago. Wh
 
 **The standing answer is spent as scheduled: Nobody has thanked him (Ch 50). No chapter may spend that
 sentence again.** **And the construction behind it is retired, not rationed** — *nobody thanked &lt;anyone&gt;*
-is spent **twice**, at `chapter-0012.md:19` ("Nobody thanked the boy.") and `chapter-0050.md:69`. **No
-chapter in Volume 2 or after may use it with any object.** The close audit briefly certified the
-construction as spent-once and wrote an absolute negative over the Batch 0003 ruling below; that
-certification was false and is corrected. See item 45 in `state/current.md`.
+is spent **once**, at `chapter-0012.md:19` ("Nobody thanked the boy."). Ch 50:69 is *"Nobody has thanked
+him"*, a different construction. **No chapter in Volume 2 or after may use it with any object.** The close
+audit briefly certified the construction as spent-once-and-nowhere-else and wrote an absolute negative
+over the Batch 0003 ruling below; that certification was false and is corrected. See item 45 in
+`state/current.md`.
 
 ## Deliberately unanswered at the end of Batch 0004
 
@@ -279,41 +283,56 @@ ending was not touched.**
   world. It is a Volume 2 engine and it does not answer T2, T3 or the brother's file.
 - **Tessa Okonkwo is a turned line** as of Chapter 26, and **Beatrix's fourth year of counting is
   unaffected.** Neither is a household change. No woman's plate, bond or quarters are altered.
-- **The census of residual ages is SEVEN, not five, and it was found by reading the page rather than by a
-  gate.** `state/current.md` item 25 and this file both carried five. The close audit found two more and
-  neither had ever been registered:
+- **The census of residual announced ages is NINE chapters carrying TEN instances, not five, not seven.**
+  `state/current.md` item 25 and this file both carried five. The close audit found two more and neither
+  had ever been registered. **A third, in Chapter 20, was missed by the close audit and by every gate before
+  it, and was found by the `volume-plan` review.**
 
 | Chapter | Line | Text | Whose | Canon |
 | --- | --- | --- | --- | --- |
-| **Ch 2** | **21** | "He had spent **twenty-five years** wanting a number" / "since he was **nineteen**" | **Lin Hao** | correct |
+| **Ch 2** | **21** | "He had spent **twenty-five years** wanting a number" / "He had wanted it since he was **nineteen**" | **Lin Hao** | **TWO instances, and CONTESTED — see below** |
 | Ch 3 | 29 | "an ordinary man **in his forties** on a tram" | walk-on | — |
 | Ch 8 | 297 | "said by a woman **in her thirties** in a lamp-lit room" | walk-on | — |
 | Ch 16 | 31 | "he is **seventeen**, and he has never in his life been asked to attest anything" | **Emrys Vaz** | correct |
 | Ch 18 | 39 | "a man called Emrys Vaz who is **seventeen**" | **Emrys Vaz** | correct |
+| **Ch 20** | **67** | "a thing he had been able to do since **he was nineteen**" | **Lin Hao** | **correct** |
 | Ch 29 | 91 | "I have had **twenty-three years of my life** and I would like that noted" | **Nadia Ferrous** | correct |
 | **Ch 37** | **57** | "since he was **fifteen years old** and had spent ten years not being it" | **Lin Hao** | correct |
 | **Ch 46** | **37** | "I am **forty-one years** of keeping books for money" | **Marguerite Vale** | correct |
 
-  **Seven, of which four are the protagonist or a core partner stating a canon-correct age.** Ch 2 and Ch
-  37 are **narration about Lin Hao**, which is the exact category the census was built to catch and the one
-  two gates missed. Ch 46 is dialogue in a scene, and it slipped past a gate that had already been widened
-  once for the same class of mistake: `grep -rin "years old|in his forties|in her thirties|about sixty|
-  years of my life"` does not match *forty-one years of keeping books*. **The gate must match a bare
-  number followed by *years of &lt;gerund/noun-phrase&gt;*, not only *years old* and *aged*.**
-  **None adopted, none repaired.** Ch 2 is a certified opening chapter, Ch 37 a certified climax, and Ch 29
-  and Ch 46 are a woman's voice at the end of a scene. **A repair pass may strike any of them if it judges
-  the ripple small; this audit judges it wide across four certified batches and records instead.**
+  **Nine chapters, ten instances. Five of them are the protagonist or a core partner** — Ch 2, Ch 20,
+  Ch 29, Ch 37 and Ch 46. Ch 37 is the proof that the same man is aged consistently elsewhere: fifteen plus
+  ten years is twenty-five, which is Lin Hao's canon age. Ch 3, Ch 8 and the two Emrys Vaz rows are a
+  walk-on, a walk-on, and a feeder who is not one of the core five.
+
+  **`chapter-0002.md:21` is the one row that cannot be certified, and it is the reason the census is not
+  simply "ten correct instances."** The same paragraph says he spent **twenty-five years** wanting a number
+  and that he had wanted it **since he was nineteen**. Lin Hao is **twenty-five** (`bible/characters.md`),
+  so the wanting began six years ago. Twenty-five is his age, not a duration, and the sentence reads as a
+  duration. **Flagged, not rewritten**: Ch 2 is a certified opening chapter and a repair pass that touched
+  it uninvited would be exactly the wide ripple this census has refused twice. **A Volume 2 writer must not
+  build on "he has wanted it since he was nineteen" as a load-bearing span without deciding this first.**
+
+  The gate must match a bare number followed by *years of &lt;gerund/noun-phrase&gt;* and *since he/she was
+  &lt;number&gt;*, not only *years old* and *aged*. **None of the nine unstruck.** Ch 20:67 slipped because no
+  gate had ever swept Chapter 20 — the census was built chapter by chapter as things were found, and the one
+  chapter nobody thought to sweep was the one that had it.
 - **The lesson, which is now the operative rule for Volume 2:** an auditor looking for ages will find
   mistakes and will not look for decisions, so **a deliberate instance has to be registered by whoever
-  makes the decision. A grep can never be the thing that finds it.**
+  makes the decision. A grep can never be the thing that finds it.** *And the second half, learned the hard
+  way here: a census whose own table disagrees with its own label is not a census. The label said seven
+  while the table listed eight, and four files repeated the label rather than the table.*
 - **`chapter-0012.md:19` reads "Nobody thanked the boy."** A near-miss on *nobody thanked him*, which is
   Chapter 50's and unavailable earlier. It is a boy holding a strap for a crate of boots at the Cordwain
   gate and it predates any feeder, so it does not spend the sentence — but it is close enough that the
   construction should be treated as **retired** and not merely rationed. Logged, not changed.
   **CONFIRMED AT THE CLOSE AND STILL BINDING.** The Volume 1 close audit certified the construction as
   *"spent once, Ch 50's last line, and nowhere else in the volume"* — false, and it deleted this ruling by
-  writing over it. **This entry governs: the sentence is Ch 50's, the construction is spent twice and is
+  writing over it. **This entry governs: the sentence is Ch 50's, the construction is spent once and is
   gone for good.** The prose at Ch 12:19 stands and is not to be altered.
+  *("spent twice" was the wording here and it was wrong. Ch 50:69 reads **"Nobody has thanked him"**, which
+  is a different construction; `grep -rniE "nobody (ever )?thanked" chapters/volume-01/` returns **one**
+  hit. Only the count was wrong. The retirement is unaffected and stands.)*
 - **Fifty-eight illegal weekday names survive behind Chapter 20** — Ch 1 (6), 2 (4), 3 (4), 4 (7), 5 (5),
   6 (8), 7 (7), 8 (3), 9 (2), 10 (9), 11 (1), 19 (2); Chapters 12–18 are clean. Three are bare:
   `chapter-0002.md:109`, `chapter-0006.md:19`, `chapter-0006.md:27`. **Flagged as an open repair, not
@@ -495,7 +514,8 @@ mis-specified and has been corrected; both are marked in place.**
   offer.** This is the tenth false certification of this shape in this pipeline and the first about a
   character rather than about a count.
 - **FINDING — eight consecutive chapters close on the same construction.** Chapters **42, 43, 44, 45, 46,
-  47, 48 and 49** all end on a paragraph carrying **"He wanted, concretely,"**. **Five open the final
+  47, 48 and 49** all end on a paragraph carrying **`He wanted, concretely`** — *no trailing comma; with
+  one the match returns seven and drops Ch 42.* **Five open the final
   paragraph on the string (42–46); three embed it inside the final paragraph (`chapter-0047.md:81`,
   `chapter-0048.md:79`, `chapter-0049.md:80`).** Ch 41 and Ch 50 are in other shapes. `AGENTS.md` fails a
   batch for the same construction more than twice running. **The Batch 0005 review repair caught the
@@ -508,10 +528,14 @@ mis-specified and has been corrected; both are marked in place.**
   *(**The reproduction test printed for this finding was mis-specified and has been corrected.** It asked
   whether the final paragraph **begins** with the string and returns **five**, not eight — a repair pass
   running it as printed would have repaired five endings and left three chapters running the construction.
-  The test now asks whether the final paragraph **contains** the string and returns eight. Working and
-  output are in `reviews/volume-01/volume-close.md`, Correction 4.)*
-- **CORRECTION — the residual age census is seven, not five.** Registered in full above. Two were never on
-  any list and both are Lin Hao in narration.
+  The test now asks whether the final paragraph **contains** the string and returns eight. **The string
+  itself was then quoted wrongly in six places across three files — with a trailing comma, which matches
+  seven.** Working and output are in `reviews/volume-01/volume-close.md`, Correction 4.)*
+- **CORRECTION — the residual age census is seven, not five** *(superseded by the `volume-plan` review,
+  which found the label disagreed with its own table and that a ninth instance — `chapter-0020.md:67` — was
+  on the page and unregistered. The governing figures are nine chapters and ten announced ages, five of
+  them the protagonist or a core partner. Registered in full above.)* Two were never on any list and both
+  are Lin Hao in narration.
 - **WITHDRAWN — the close audit's `nobody` correction was false and this entry now stands corrected.**
   The audit reported `state/current.md`'s *"fifteen times across Batch 0005's ten chapters, four of them
   in Ch 50"* as wrong, on the basis of a per-chapter sequence it printed as 3, 2, 1, 4, 1, 0, 0, 0, 1, 0.
@@ -546,20 +570,29 @@ close audit's own claims, and two of them were defects of the same kind: a comma
 the finding it was attached to, reported as though it were the whole finding.**
 
 - **CORRECTION — the audit's reproduction test for the eight-in-a-row ending did not reproduce it.** It
-  asked whether the final paragraph **begins** with "He wanted, concretely," and returns **five**
+  asked whether the final paragraph **begins** with `He wanted, concretely` and returns **five**
   (Ch 42–46). **Ch 47, 48 and 49 carry it inside the final paragraph**, at `chapter-0047.md:81`,
   `chapter-0048.md:79` and `chapter-0049.md:80`. **The finding is eight consecutive chapters and is
   unchanged; the command printed beside it returned five and was printed beside eight.** Corrected in
   `reviews/volume-01/volume-close.md`, in `state/current.md` item 35 and in the entry above. **The
   mis-specification had reached `state/current.md` and would have reached the Volume 2 prompt through it.**
+  *A second, later correction: the string itself was then quoted **with a trailing comma** in six places
+  across three files, and a test pasted from any of them returns **seven**, dropping Ch 42
+  ("concretely **and immediately**"). The string is `He wanted, concretely`, no comma. All six corrected.
+  The mis-specification had two generations and the second one came from copying the string out of prose
+  instead of out of the command.*
 - **CORRECTION — the audit re-certified a retired construction and promoted it into a standing rule.**
   §6 of the audit certified *nobody thanked him* as *"spent once, Ch 50's last line, and nowhere else in
   the volume."* **`chapter-0012.md:19` reads "Nobody thanked the boy."** The Batch 0003 review repair had
   already found that instance and already ruled the construction **retired rather than rationed**; the
   close audit wrote its absolute negative over the top of that ruling and deleted it. **Corrected: the
-  sentence is spent once at Ch 50:69; the construction is spent twice and is gone for good.** The prose at
+  sentence "Nobody has thanked him" is Ch 50:69's alone; the construction `nobody thanked <object>` is
+  spent once, at Ch 12:19, and is gone for good.** The prose at
   Ch 12:19 is load-bearing and stands. See the entry under *Canon-change flags raised by the Batch 0003
   review repair*, which governs.
+  *("spent twice" was the wording this correction first carried. `grep -rniE "nobody (ever )?thanked"
+  chapters/volume-01/` returns **one** hit. Ch 50:69 is a different construction and does not count. The
+  retirement stands; only the count was wrong.)*
 - **CORRECTION — a neighbouring row of the same table was ambiguous and read as a certification.** The
   audit certified *nobody asked* as *"Spent once, Ch 38, in Ola's own hand. Not available again."* The
   **note** is spent once and that is true. **The motif is not rationed at all**: *nobody asked him, nobody

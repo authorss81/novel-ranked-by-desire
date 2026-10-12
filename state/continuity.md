@@ -183,15 +183,18 @@ him anyway.** Ines cannot decide whether to file the himself line, and has said 
 - **The Planning-register ban.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal* and *Channel* are
   planning-register words. **Chapters 1–50 contain none and a Volume 2 chapter may contain none.**
 - **The weekday rule.** Only Thursday, and Monday the nineteenth only where the draw-down opens.
-- **The `nobody thanked` construction is retired, not rationed.** It is spent twice — `chapter-0012.md:19`
-  and `chapter-0050.md:69` — and the sentence itself belongs to Ch 50. **No Volume 2 chapter may use
-  `nobody thanked` with any object.** A Volume 1 close audit certified this as spent-once and the
-  certification was false; it is recorded here because a Volume 2 writer reading only this block would
-  otherwise inherit it.
-- **Every partner's age is fixed** and no chapter announces one. **Seven residual instances of announced
-  ages survive in Volume 1 and are registered in `state/open-threads.md`; three of them are Lin Hao or a
-  core partner stating a canon-correct age.** A Volume 2 writer making a deliberate decision to state one
-  registers it at the moment of the decision — a grep will not find a decision.
+- **The `nobody thanked` construction is retired, not rationed.** It is spent once — `chapter-0012.md:19`,
+  "Nobody thanked the boy." — and the sentence "Nobody has thanked him" belongs to `chapter-0050.md:69`.
+  **No Volume 2 chapter may use `nobody thanked` with any object.** A Volume 1 close audit certified this
+  as spent-once-and-everywhere and the certification was false; it is recorded here because a Volume 2
+  writer reading only this block would otherwise inherit it. *(A later correction carried "spent twice";
+  Ch 50:69 is a different construction and the count is one. The retirement is unaffected.)*
+- **Every partner's age is fixed** and no chapter announces one. **Ten announced ages survive in nine
+  chapters of Volume 1 and all nine chapters are registered in `state/open-threads.md`; five of them are
+  Lin Hao or a core partner stating a canon-correct age, and `chapter-0002.md:21` is contested** — it puts
+  twenty-five years of wanting against a wanting that began at nineteen, and Lin Hao is twenty-five. A
+  Volume 2 writer making a deliberate decision to state one registers it at the moment of the decision —
+  a grep will not find a decision, and will not find the Chapter 20 instance either.
 - **Rhee's offer is closed forever** and was closed on the page in Ch 28. **Rhee himself is off the page
   after Ch 30 and there is no live Rhee thread.** A Volume 2 chapter may not re-open the offer or invent a
   Rhee scene without flagging it.
@@ -299,6 +302,10 @@ the **sixth week**.
   deed, and the batch says so in those terms.
 - **Rank six is 20,000.** He is **11,859 grains short** of the band and **three grains** from losing the
   band he has. Both numbers are on the page and the chapter states that they do not mean the same thing.
+  *(The 11,859 in this Batch 0004 block is stale and predates the Batch 0005 repair, which moved the Ch 47
+  reading from 8,137 to 8,138. The live figure is **11,862** and every Volume 2 file uses it. Left in place
+  because rewriting a closed span block's numbers is a wider change than a review repair should make on its
+  own; flagged so no writer inherits it as current.)*
 - **A provisional band is a real instrument.** Struck by hand from a figure, it prints on the Board,
   carries a floor and a tolerance, and **may not be banded above the figure in hand**. It buys three
   things: a band line, a floor struck off the figure published at the last publication, and a

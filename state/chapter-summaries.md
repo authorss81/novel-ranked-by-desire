@@ -418,9 +418,12 @@ file up cold:
 - **Nothing was closed by the volume ending.** Four threads paid (B9, B19, B24, B25), one superseded, five
   advanced, **twenty-six live.**
 - **T1 advanced by exactly one folio and must advance no further.**
-- **Seven residual ages are announced in Volume 1 and three of them are Lin Hao or a core partner stating a
-  canon-correct age.** Registered in `state/open-threads.md`.
-- **Chapters 42–49 all close on the same construction** and it is the volume's outstanding prose debt. See
-  `state/current.md` item 35.
+- **Ten residual ages are announced across nine chapters of Volume 1, and five of them are Lin Hao or a
+  core partner stating a canon-correct age.** One instance, `chapter-0020.md:67`, was missed by every gate
+  until the `volume-plan` review, and `chapter-0002.md:21` is contested rather than correct. Registered in
+  `state/open-threads.md`.
+- **Chapters 42–49 all close on the same construction** and it is the volume's outstanding prose debt. Test
+  for it with a *contains* check on `He wanted, concretely` **with no trailing comma** — with the comma it
+  matches seven and drops Ch 42. See `state/current.md` item 35.
 - **Volume 1's six scenes ran in six different emotional directions.** Volume 2's five must not repeat a
   shape Volume 1 spent.

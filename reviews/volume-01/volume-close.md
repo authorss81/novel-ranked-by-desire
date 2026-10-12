@@ -398,11 +398,12 @@ Both are canon-correct (he is 25). Neither was ever registered. The five-instanc
 census was built to catch. **Not repaired.** Ch 2 is a certified opening chapter and Ch 37 is a certified
 climax chapter, and "twenty-five years" in Ch 2 is doing the work of the whole want.
 
-**Correction 3 — the residual age census is seven, not five.** The full list as the page stands:
+**Correction 3 — the residual age census is seven, not five.** *Superseded by the `volume-plan` review;
+the table and the count are below.* The list as it stood at this audit:
 
 | Ch | Line | Text | Whose | Canon |
 | --- | --- | --- | --- | --- |
-| 2 | 21 | "twenty-five years wanting a number" / "since he was nineteen" | Lin Hao | correct |
+| 2 | 21 | "twenty-five years wanting a number" / "since he was nineteen" | Lin Hao | **contested — see the later review** |
 | 3 | 29 | "an ordinary man in his forties on a tram" | walk-on | — |
 | 8 | 297 | "said by a woman in her thirties in a lamp-lit room" | walk-on | — |
 | 16 | 31 | "he is seventeen" | Emrys Vaz | correct |
@@ -412,13 +413,16 @@ climax chapter, and "twenty-five years" in Ch 2 is doing the work of the whole w
 | **46** | **37** | **"I am forty-one years of keeping books for money"** | **Marguerite Vale** | **correct** |
 | **8** | 297 | also carries the bare *"Friday night"* | — | illegal weekday |
 
-**Four of the seven are canon-correct.** The register exists so that a grep cannot be the thing that finds
-a decision. It is now seven, and **three of the seven are the protagonist or a core partner**, which the
-census did not represent.
+**The register exists so that a grep cannot be the thing that finds a decision. This table had eight data
+rows and was labelled seven, and three separate counts of the protagonist-or-core-partner subset (three,
+four, three) were carried across four files.** Both errors are of one kind: **the label was repeated and
+the table was not.** Corrected in the later review — **nine chapters, ten instances, five of them the
+protagonist or a core partner**, with `chapter-0020.md:67` added and `chapter-0002.md:21` marked contested.
 
 **Correction 4 — the eight-in-a-row closing construction.** *Mechanical, and the most serious finding in
 this file.* Chapters **42, 43, 44, 45, 46, 47, 48 and 49** — eight consecutive chapters — close on a
-paragraph carrying **"He wanted, concretely,"**.
+paragraph carrying **`He wanted, concretely`**. *No trailing comma: with one the match returns seven and
+drops Ch 42.*
 
 **The test this file first printed was wrong, and it is corrected here at the top of the correction
 rather than left in the state files that inherited it.** The test given was: read the last non-heading,
@@ -571,7 +575,7 @@ case the audit ran a narrower test than the finding required and then reported a
 ### E1 — Correction 4's reproduction test was mis-specified
 
 **The finding is sound. The command printed beside it does not produce the output printed beside it.**
-The test as given asked whether the final paragraph *begins* with "He wanted, concretely," and it returns
+The test as given asked whether the final paragraph *begins* with `He wanted, concretely` and it returns
 **five** — Ch 42, 43, 44, 45, 46. **Ch 47, 48 and 49 embed the construction mid-paragraph**
 (`chapter-0047.md:81`, `chapter-0048.md:79`, `chapter-0049.md:80`). A repair pass running the command as
 documented would have found three of the eight missing and left them running.
@@ -579,6 +583,21 @@ documented would have found three of the eight missing and left them running.
 Corrected: the test now asks whether the final paragraph **contains** the string, and prints its real
 output — eight. **The mis-specification had already propagated into `state/current.md` item 35 and into
 the Volume 2 prompt**, which instructs the next phase to read that item. Both are fixed.
+
+**A second generation of the same defect, found later and now fixed.** Six places across three files quoted
+the string **with a trailing comma** while asserting eight: `state/current.md` (three), `state/open-threads.md`
+(two) and this file (two). `chapter-0042.md:133` reads "He wanted, concretely **and immediately**, to find
+one true instrument…", so a test pasted from any of those six quotes matches **seven** and silently drops
+Chapter 42:
+
+```
+for S in "He wanted, concretely," "He wanted, concretely"; do …; done
+  WITH trailing comma: 7 -> 043 044 045 046 047 048 049
+  WITHOUT trailing comma: 8 -> 042 043 044 045 046 047 048 049
+```
+
+The command at `:437` below was always right. **The wrong string entered by copying it out of a prose
+sentence rather than out of the command**, which is the precise failure this file exists to record.
 
 ### E2 — Correction 8 was false, and it overwrote a correct state file
 
@@ -615,8 +634,13 @@ treated as retired and not merely rationed.* **That ruling was correct and the c
 it by writing an absolute negative over the top of it.** The corrected position, which holds both:
 
 - **The sentence** — *Nobody has thanked him* — is spent **once**, at Ch 50:69. Unchanged.
-- **The construction** — *nobody thanked &lt;anyone&gt;* — occurs **twice**, Ch 12:19 and Ch 50:69, and is
-  **retired entirely**. No Volume 2 chapter may use it in any form, with any object.
+- **The construction** — *nobody thanked &lt;anyone&gt;* — is **retired entirely**, and the only instance
+  of it in fifty chapters is **Ch 12:19**. No Volume 2 chapter may use it in any form, with any object.
+
+**The count in the bullets above first read "occurs twice, Ch 12:19 and Ch 50:69", and that was wrong.**
+Ch 50:69 is *"Nobody **has** thanked him"* — a different construction, and `grep -rniE "nobody (ever
+)?thanked" chapters/volume-01/` returns **one** hit. **The retirement is unaffected and is the whole of
+this correction**; only the figure was measured from the finding rather than from the page.
 
 **The prose is left alone.** `chapter-0012.md:19` is a boy holding a strap for a crate of boots at the
 Cordwain gate, it predates every feeder in the book, and the sentence is doing the thematic work of the
@@ -631,3 +655,89 @@ failure it names. **The operative lesson is now stated once, in `state/current.m
 than *a count is not a reading*: a command that runs is not the same command as the claim it is attached
 to, and a correction made against an unverified per-chapter sequence is a new certification, not the end
 of one.**
+
+## External review of the Volume 2 planning phase
+
+A reviewer read the `volume-plan` phase — `outline/volume-02.md`, `outline/batches/volume-02-batch-0001.md`,
+`state/current.md` and `state/open-threads.md` — against the page. **That phase wrote no prose.** Three
+findings came back. **Two were real and are fixed; one was disproved and is recorded as disproved.** No
+chapter was edited in the making of this section, no plot moved, no scene moved, no thread closed, and
+`outline/ending.md` is untouched. Summarised in `state/current.md` as items 46 to 48.
+
+### E4 — the test string was quoted with a trailing comma in six places
+
+**Mechanical, and the same defect one generation further on.** The finding is eight chapters. The string
+that reproduces it is `He wanted, concretely` **with no trailing comma**:
+
+```
+for f in chapters/volume-01/chapter-*.md; do
+  last=$(awk 'NF && $0 !~ /^#/ && $0 !~ /^\[/ {line=$0} END{print line}' "$f")
+  case "$last" in *"He wanted, concretely"*) echo "$(basename "$f" .md) CONTAINS";; esac
+done
+```
+
+With the comma it returns **seven** (Ch 43–49) and drops Chapter 42, whose sentence is "He wanted,
+concretely **and immediately**, to find one true instrument…" (`chapter-0042.md:133`). Six places across
+three files quoted it with the comma while asserting eight: `state/current.md` (three), `state/open-threads.md`
+(two), this file (two). The command above was always correct.
+
+**The mis-specification had two generations.** The first was *begins* instead of *contains*, fixed above at
+E1. The second was the wrong punctuation in the string itself, and it entered by **copying the string out of
+a prose sentence instead of out of the command** — so the fix to the first defect became the vector for a
+second one. `outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` carried the *contains* rule
+with **no string at all**, leaving the Batch 0001 writer unable to run the test it was instructed to run.
+All corrected.
+
+### E5 — the age census disagreed with its own table, and missed Chapter 20
+
+**Mechanical for the arithmetic, and the arithmetic is now right.** The register table in `state/open-threads.md`
+had **eight data rows** and was labelled **seven**; the protagonist-or-core-partner subset was carried as
+three in `state/continuity.md` and `state/current.md`, as four in a second line of `state/current.md`, and as
+four in this file. A **ninth** instance was on the page and unregistered:
+
+```
+chapter-0020.md:67: … a thing he had been able to do since he was nineteen, and so he did it the other way …
+```
+
+Lin Hao, narration, in a chapter no gate had ever swept. **The figures are now nine chapters and ten
+announced ages, five of them the protagonist or a core partner** (Ch 2, 20, 29, 37, 46), reconciled across
+all five files.
+
+**One row is contested and is not certified.** `chapter-0002.md:21` puts twenty-five years of wanting
+against a wanting that began at nineteen; Lin Hao is **twenty-five**, so the wanting began six years ago.
+`chapter-0037.md:57` gets the same man right — fifteen years old plus ten years not being it — which is
+what establishes the Ch 2 figures as wrong rather than merely loose. **Flagged, not rewritten:** Ch 2 is a
+certified opening chapter.
+
+### E6 — a claimed contradiction in Chapter 37 that does not exist
+
+**Reported as a load-bearing contradiction; checked, and it is not one. No prose change made.** The claim
+was that the bare `8,138.` at `chapter-0037.md:67` contradicts the drift ladder, which `state/continuity.md`
+fixes at 8,140 (Ch 44) → 8,139 (Ch 45) → 8,138 (Ch 47). The full occurrence list across Volume 1 is four
+readings and one arithmetic line:
+
+```
+chapter-0037.md:67: 8,138.
+chapter-0047.md:55: "Floor eight thousand one hundred and forty-one. Reading eight thousand one hundred and thirty-eight. Three grains down."
+chapter-0047.md:63: "Your published standing is eight thousand one hundred and thirty-eight, which is a five."
+chapter-0048.md:31: "The reading is eight thousand one hundred and thirty-eight … Three grains under the floor."
+```
+
+At Ch 37 the plate is standing at the published floor, **8,141** (`chapter-0037.md:47`, `:55`, `:63`;
+`chapter-0040.md:22`). The bare number is the **tolerance edge**, three grains under that floor, and the
+page places it between the two sentences that make it arithmetic — "Below the floor less tolerance the band
+lapsed at the next press" (`:65`) and "He could lose four grains and lose a rank" (`:69`). The drift to
+8,138 happens later and only at Ch 47 and Ch 48, exactly where `state/continuity.md` puts it. **The ladder
+is untouched and correct.**
+
+The finding was produced by grepping for the figure and not reading what it was doing at the one place it
+was not a reading — **the error this file has now catalogued three times, made by the reviewer this time.**
+Recorded so the claim is not raised again. **No prose was changed and none needed to be.**
+
+### A fourth thing, found while checking E6 and not part of the review
+
+`state/continuity.md`'s Batch 0004 block and the B26 row in `state/open-threads.md` carried the gap as
+**11,859**, which belongs to a plate reading 8,137 — the figure the Batch 0005 repair changed to 8,138 at
+Ch 47. **The live figure is 11,862**, and every Volume 2 file already uses it. B26's headline cell is
+corrected; the closed Batch 0004 span block is flagged in place rather than renumbered, because rewriting a
+closed block's numbers is a wider change than a review repair should make uninvited.
