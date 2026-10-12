@@ -1,5 +1,51 @@
 # Open Threads
 
+## Volume 2 Batch 0002 — second verification pass, Chapters 61–70
+
+**The batch was already written, reviewed and repaired on disk when this phase opened.** AGENTS.md is
+explicit that a completed chapter is not restarted, so this pass read all ten chapters as prose and ran the
+gates rather than rewriting them. **One arithmetic defect was found, one word was changed, and two state-file
+misattributions were corrected. Nothing else was touched.**
+
+**A count is not a reading, and this pass is the third demonstration of it in this batch.** Every mechanical
+gate passes on the batch. The single defect the pass found was a **date**, and no gate has a date criterion:
+horizontal rules zero, bold zero, italic zero, planning-register words zero, weekday names other than
+Thursday zero, `there is no form`/`no column` zero, `nobody thanked` zero, `He wanted, concretely` zero,
+panels one in ten chapters and never repeated, no announced age, **nobody 19 and no one 0, maximum 4 in any
+one chapter**, 920
+paragraphs with **none over 90 words and a maximum of 89**, and all seventy titles in the book unique.
+**A reader tracking the calendar is the only instrument that catches what this batch got wrong.**
+
+1. **Chapter 63's date — FIXED, `chapter-0063.md:265`.** The line said the branch strip had been lying on
+   Sun Meiling's table *"for six days"* after arriving on the fourth. **That puts the chapter on the 10th.**
+   `state/continuity.md` records Ch 63 as the **5th**, which places it after Ch 64's explicit sixth and on
+   the same day as Ch 66 — so the page contradicted the state file, which is precisely the class of error
+   `continuity.md` exists to surface. **Three anchors inside Ch 63 agree with the fifth** — *"I have thought
+   about it for four days"* (the 1st), *"you have stood still for twenty-two days"* (the 14th of last month,
+   the day after the Review spend), and the sheets coming off the wall on the last day of the month — and
+   the sixth-day line was the only dissenter. **Changed to "for a day."** One word, one line.
+2. **Two summaries pointed at the wrong chapter — FIXED in `state/chapter-summaries.md`.** The Ch 64
+   summary ended on *"he is not the only one being counted, and he has not been for eighteen days"*, which
+   is not in Ch 64 at all (Ch 64 ends on the RECIPIENT heading that cannot be unasked, and on Sun re-pinning
+   her wall); and the Ch 70 summary retold the beat where a filing clerk on Sun's floor takes the branch
+   strip off a colleague and none of the four other people in the corridor looks up — **that beat is in
+   Ch 63, where she tells it, and Ch 70 refers back to it rather than repeating it.** Both were checked
+   with a `grep` against the page before being changed. **Batch 0003's prompt tells the next writer to read
+   Ch 63 and Ch 70 in full; a summary that sends it to the wrong chapter is a defect in the only memory
+   that chapter range has.**
+
+**Deliberately not changed.** The Ch 63 gloss *"the fortnight she asked for"* in the summaries: the page
+reads *"walking out of my door in September and coming back in a fortnight"* and there was also an October
+visit, so a fortnight may be exact for the interval being described. **Not a contradiction, and not enough
+certainty to spend a word on.**
+
+**This pass did not write `reviews/volume-02/batch-0002.md` and did not certify the batch.** No
+self-certification is permitted, and items 22, 28, 29 and 30 in `state/current.md` are four separate records
+of what happens when one is. **The judgement on Ch 63's scene, on the irreversible decisions in Ch 62 and
+Ch 69, and on whether the batch's cliffhangers are earned belongs to a phase that did not write them.**
+
+---
+
 **Volume 2 Batch 0002 is written: Chapters 61–70, and a separate review run has now read them and repaired
 them.** The full findings are in `logs/next.review.log`; the repairs are recorded immediately below and
 carried into `state/continuity.md` and `state/current.md`. **Chapters 51–60 have still had no review, and

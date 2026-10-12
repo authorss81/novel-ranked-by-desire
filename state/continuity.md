@@ -288,6 +288,35 @@ throughout. Violence and sex in separate registers; there is no violence in the 
   of them is an age.
 - **The Ch 42–49 ending construction is not repeated, and neither is Ch 51–60's.**
 
+## Second repair pass on this batch — one arithmetic error, one word
+
+**This is the second time a pass over Chapters 61–70 has found a defect the first pass did not, and both
+times it was a date.** The first repair pass fixed a tense and a date in Ch 69 and found that a repair can
+introduce a new breach; this pass found one the repair pass did not introduce and did not catch.
+
+- **`chapter-0063.md` said the strip had been on Sun Meiling's table "for six days".** The first repair
+  pass did not touch this line. **It is wrong, and it was the only thing in the batch that made the page
+  disagree with the calendar recorded above** — this file says Ch 63 is the 5th, and "six days" after the
+  fourth put it on the 10th, which is after Ch 64's explicit sixth and on the same day as Ch 66.
+- **Three anchors inside Ch 63 itself all put the chapter on the 5th and only that one line disagreed.**
+  "I have thought about it for four days" (`:309`) = the 1st to the 5th. "You have stood still for
+  twenty-two days" (`:269`) = the 14th of last month, the day after the Review spend, to the 5th. The sheets
+  came off the wall "on the last day of the month" (`:13`), five days before.
+- **Repaired to "for a day".** Nothing else in the chapter or the batch moved. **The prose was not
+  restructured and no other line was touched.**
+- **The date spine of the batch is now monotonic and every internal interval reconciles exactly:** 28th
+  prev, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th, 21st. Ch 68's "four days' notice" on the 16th
+  for the 20th and Ch 64's "since the fourth… two days to be frightened" on the 6th both check.
+- **Two stale attributions in `state/chapter-summaries.md` were corrected against the page in the same pass**
+  — the Ch 64 summary ended on a sentence that is not in Ch 64, and the Ch 70 summary retold the
+  filing-clerk-in-the-corridor beat, which is in **Ch 63**, where Sun tells it, and which Ch 70 refers back
+  to rather than repeats. **No summary claimed a beat that the chapter does not contain; both were summaries
+  pointing at the wrong chapter.**
+- **Checked and deliberately left alone:** the Ch 63 summary gloss *"the fortnight she asked for"*. The page
+  reads *"walking out of my door in September and coming back in a fortnight"* and there was also an
+  October visit, so a fortnight may well be exact for the interval the sentence is about. **It is not a
+  contradiction and I did not have certainty enough to change a word of it.**
+
 ## Defects found in an unreviewed batch, recorded and not repaired
 
 **Chapters 51–60 have not been reviewed and this batch read them as prose.** One calendar defect was found

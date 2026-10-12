@@ -27,9 +27,10 @@ block at the head of the stack**), `state/open-threads.md` (**the B46–B59 tabl
 against his own volume outline in Ch 63, a tense and date break in Ch 69, the schedule arithmetic in Ch 69,
 the attendance ordinals across Ch 67/69/70, a count that was eleven years in one sentence and four in the
 next in Ch 68, a retired construction in Ch 64, and **the title of Ch 69, which was wrong in the batch-0002
-title bank and is now *The Fourth Box*.** The findings and every gate re-run are at the head of
-`state/open-threads.md` and in `state/continuity.md`. **The two files to trust over the prose if they ever
-disagree are those two**, because they are the ones that were corrected.
+title bank and is now *The Fourth Box*.** A second verification pass then found one more error in Ch 63, a
+date, which the first pass had not caught and which no gate can catch. The findings and every gate re-run
+are at the head of `state/open-threads.md` and in `state/continuity.md`. **The two files to trust over the
+prose if they ever disagree are those two**, because they are the ones that were corrected.
 
 **Chapters 51–60 still have not been reviewed**, and Batch 0002 found a reader-checkable arithmetic defect
 in them (a week count roughly three times what the calendar supports, in Ch 57 and Ch 60) and wrote around
@@ -57,6 +58,18 @@ do not repair it uninvited — record it in `state/open-threads.md` and write ar
 - **File 4,112 folios, one open.** **Do not open a second.** Held Account One, no Zero, unchanged.
 - **The May clipboard, the word *Channel*, the rota word, the thin unsigned sheet in the second
   sub-level, Marguerite's terms** — all untouched.
+
+**The verified date spine of the batch you are continuing, and the one fault this range keeps making.**
+Chapters 61–70 ran **28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th, 21st**, and every
+chapter's stated interval reconciles against it. **Chapters 61–70 have now been through two verification
+passes and both found the same fault class: a date.** The second pass found Chapter 63 reading *"for six
+days"* where its own three internal anchors and `state/continuity.md` both put it on the 5th, which made the
+page contradict the calendar and sit **four days after** Chapter 64 and **on** Chapter 66's day; it is now
+*"for a day."* **No mechanical gate has a date criterion.** Every gate passed on text with a broken calendar, twice.
+**Derive every date and every interval you write from the spine above and from what the previous chapter
+states on the page, and add your own arithmetic check to whatever gate you run.** Ch 68's *"four days'
+notice"* and Ch 64's *"since the fourth… two days to be frightened"* are the model: a stated interval that
+exactly reconciles.
 
 ## The eight things this batch must land
 

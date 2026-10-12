@@ -91,6 +91,14 @@ six dated events before the twenty-fifth.
 **In the story:** **the 21st, evening, the bottom of an iron stair in the dark**, having been upstairs for
 nine days' worth of an hour and having asked a woman nothing.
 
+**Date spine, fixed and now monotonic: 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th,
+21st.** Every chapter's stated interval now reconciles against that spine. **A second verification pass over
+Chapters 61–70 found and fixed one arithmetic error in it** — Ch 63 read *"for six days"* where its own
+three internal anchors and this file both put the chapter on the 5th, which had made the page disagree with
+the calendar; changed to *"for a day"*, one word. **Two `state/chapter-summaries.md` entries were pointing at
+the wrong chapter and were corrected against the page.** Every mechanical gate passes and **a count is not a
+reading: no gate has a date criterion, and a date is what this batch got wrong twice.**
+
 **Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**,
 or **the Classification Wing classifies the account and empties him out at rank one**. Twenty chapters in
 and the outline's expected discovery has happened and a second one has happened after it. **At Ch 63 Sun
