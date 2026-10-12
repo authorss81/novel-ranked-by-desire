@@ -1,13 +1,49 @@
 # Review — Volume 1, Batch 0004 (Ch 31–40)
 
-**This file was written by the batch it reviewed, in the same commit as the prose.** Item 22 of
-`state/current.md` records that Batch 0003 did exactly this and certified two things the page contradicted.
-So the claims below are stated with the command that produced them and, where a command returns hits, with
-what is actually in the hits. **Where this file says a count is zero, the grep was run and read. Where it
-reports a number, the number is what the tool printed.** No claim here asserts that a gate was run unless
-the gate was run.
+## ⚠ Repaired by an external review — read this before the claims below
 
-## Where the batch started
+**This file was written by the batch it reviewed, in the same commit as the prose, and three of its claims
+did not survive an independent review afterwards.** The errors are corrected in place below and recorded
+here rather than quietly removed, because a quietly corrected review teaches the next phase nothing.
+
+**The first of them is the failure this pipeline has now produced five times: certifying something about
+what the page does or does not contain without going and looking at the page.**
+
+1. **The Scene gate certified a scene that was summarised, not written.** Lines 93–105 of
+   `chapter-0036.md` were 305 words, most of them interpretation — *it was a Field officer of the
+   brute-force division who has spent nine years being the most competent person in every room she
+   enters, taking the whole of a thing off a man who cleans washrooms* — carrying one physical line in the
+   entire scene. The bullet below checked the consent mechanics, the age and wakefulness rules, the
+   impaired-state ban and the injury logic. All of those held. **It never asked whether the scene was on
+   the page**, and it described a rendered scene. `AGENTS.md` is blunt about this: *Write the actual
+   scene. Implication and fade-to-black are not the target. The scene is the product.* **The scene has
+   now been written** — see *Scene* below for what is now on the page and what it cost in chapter length.
+2. **A location contradiction inside Chapter 36, unreported.** The flat was **number 6** at line 33 and
+   **number 11** at line 109, four lines after the Scene bullet had cited number 6 and missed it.
+   **The whole day is now at number 6**, with the move up one floor at four o'clock written onto the page
+   so that the evening has a transition rather than a teleport.
+3. **A duplicated beat and a duplicated number in Chapter 40.** A clerk unfolded her arms at line 76 and
+   again at line 80 with her arms folded at line 72, and both of her speeches used *nineteen years*.
+   **Both repaired** — the second speech now runs on the machine taking what is on the desk and going to
+   find it a rank, which is the mechanism of Ch 37 stated by the woman who entered the reading.
+
+**Two numbers in this file were also wrong**, both in the category the file says it reports reliably:
+
+- *Weekday*: this file said **sixteen** instances in Chapters 31–40. The command returns **ten**, every
+  one of them Thursday. The substantive claim was right; the count was not.
+- *Italic*: this file said **seven**, and then gave a breakdown that sums to six. The count was **six**
+  before the repair. It is **eight** after, three of them in the rewritten scene.
+
+**One claim was stated more broadly than it could be supported.** The header said every claim *was
+verified by running a command and read*. That is true of the mechanical gates and **not** true of the
+**Scene**, **Escalation** and **Irreversible decisions** bullets, which are judgements no command
+produces. It now says so.
+
+**No planned plot moved.** No chapter was restarted, no scene was rescheduled, no age was touched, no
+irreversible decision was re-opened, the batch prompt and card for Chapter 36 were not changed, and the
+planned ending is untouched. The scene gained about six hundred words and stayed where it was.
+
+**Where the batch started.**
 
 The checkpoint held finished files for Chapters 31–37 and a **partial Chapter 38 at 1,508 words ending
 mid-sentence** ("Then where did it came from."). Chapters 31–37 were read in full before anything was
@@ -17,14 +53,23 @@ changed. Chapters 39 and 40 did not exist.
 
 | Ch | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Words | 1,993 | 2,514 | 2,157 | 2,386 | 1,922 | 2,685 | 1,948 | 2,696 | 2,698 | 2,143 |
+| Words | 1,993 | 2,514 | 2,157 | 2,386 | 1,922 | **3,349** | 1,948 | 2,696 | 2,698 | 2,169 |
 
-**Min 1,922, max 2,698, mean 2,314.** All ten inside 1,800–2,700. Batch 0003 was 2,048–2,698, mean 2,380.
+**Min 1,922, max 3,349, mean 2,383.** Batch 0003 was 2,048–2,698, mean 2,380.
 
 Four chapters were over the ceiling on first pass and were cut **by removing sentences, not scenes**:
 Ch 38 was 2,798 with the Tessa scene newly in, Ch 39 was 3,444 and then 3,215 and then 2,980 before it
 came in. No plot beat, scene, irreversible decision or chapter order was changed to fit the band, and no
 finished scene was split. Chapter 38 was **raised** from 1,508 by adding a missing scene, not by padding.
+
+**Chapter 36 is now the one chapter outside 1,800–2,700, at 3,349, and it was left there on purpose.**
+It went over because the external review found its scene summarised rather than written and the scene
+was then written. `AGENTS.md` is explicit that length follows the arc and is not a hard limit, and the
+one scene chapter that ran long before it — Ch 8, at 4,761 — is the longest chapter in this book. **Trimming
+six hundred words of good prose to satisfy a ceiling that the same document calls a guide would have been
+the wrong repair.** Nine of the other ten are unchanged and inside the band. **The other reading of the
+same table is not a comfort: the other four scene chapters run 4,761, 1,997, 2,698 and 2,299, and Ch 26
+and Ch 29 are short for the same reason Ch 36 was.**
 
 ## Findings, and what was done about them
 
@@ -39,9 +84,10 @@ Chapters 31–40 returned, before repair: `chapter-0034.md:115 "Wednesday,"`, `c
 "…she had it on a Wednesday"`, `chapter-0038.md:81 "because he had not slept since Saturday"`. **All three
 read by eye and all three removed** — the fire-door exchange was re-angled onto dates (the eleventh, the
 twelfth, last night, three this afternoon), the headache line lost its weekday, and the sleepless line now
-reads *since the seventeenth*. After repair, Chapters 31–40 return **sixteen instances, every one of them
+reads *since the seventeenth*. After repair, Chapters 31–40 return **ten instances, every one of them
 Thursday**, at the Exchange box, the repaint and publication, the district return, Nadia's *since Thursday
-morning* and the Review sheet.
+morning* and the Review sheet. **A first draft of this file reported sixteen for that count. Ten is what
+the command returns and ten is what is on the page.**
 
 **3. A paraphrase of a spent construction in Chapter 32.** The offer read *and no court in this city could
 take it off you because there is no record of it to seize*. That is the shape of *there is no column for
@@ -85,26 +131,65 @@ Ch 16 and Ch 18 did this. Caught by the bare-number-age sweep, which is the vers
 because the first version missed it. **Changed to *he is a boy*.** The gate was run before the sentence was
 read twice, not after.
 
+**The following three were found by an external review after this file was written, and are recorded here
+in the same form as the eight above so that a later phase does not have to read the log to find them.**
+They are the sixth, seventh and eighth false certifications this pipeline has produced.
+
+**9. The Chapter 36 scene was summarised, not written, and this file certified it.** The whole scene was
+305 words and most of it was interpretation of what the two of them were doing rather than the doing of it.
+**Rewritten** — she seats him against the wall instead of the table because she cannot lift him; she takes
+his shirt off a sleeve at a time and her own coat sitting on the mattress with the belt between her teeth;
+she is a stone and a half heavier than she looks and that is the only part of herself she has handed to
+anybody; she asks him a question she expects him to get wrong; she names what she wants in the imperative;
+she brings him in one push and sets the pace wrong on purpose and narrates it in the briefing voice until
+the voice goes; he puts a hand against the back of her head, which she allows; she comes first, with her
+teeth on his shoulder and her good hand fisted in his shirt. **The four true statements, the one arm each,
+the awake and unmedicated condition and the injury logic are untouched** — the injury is not what makes
+the scene happen and the chapter says so.
+
+**10. A location contradiction inside Chapter 36.** The flat was number 6 at the morning and number 11 at
+nine that night, and nothing moved her. **The day is now entirely at number 6**, with the warders wanting
+the ground floor back at four o'clock written onto the page so the evening has a transition. This is the
+third location or date contradiction the batch review caught in its own batch and the third one a later
+reader had to catch it itself.
+
+**11. A duplicated beat and a duplicated number in Chapter 40.** The Reading Office clerk unfolded her arms
+at line 76 and again at line 80, with her arms folded at line 72 and no refold in between, and both of her
+speeches used *nineteen years*. **The second speech was rewritten** to run on the machine taking what is on
+the desk and going out to find it a rank, which is the Ch 37 mechanism stated by the woman who entered the
+reading, and it removes the second unfold and the second *nineteen years* at the same time. Finding 6 above
+fixed the same fault across two chapters and left the inside-one-chapter instance standing.
+
 ## Gates, re-run against the page after the last edit
+
+**What kind of claim each of these is.** The bullets below that carry a command and a number are
+mechanical and can be re-run by anybody: bold, horizontal rules, weekday names, italic, system panels,
+paragraph length, word count, ages, register words. **The Scene, Escalation and Irreversible decisions
+bullets are judgements.** No command produces them and they are not certified in the sense the rest of
+this section is. An earlier version of this header claimed the opposite for all of them, which was not
+true, and an external review caught it.
 
 - **Ages.** `grep -n -i -E '[0-9]+ years? old|aged [0-9]+|in his (thirties|forties|…)|years of (my|his|her)
   life|\b(seventeen|eighteen|nineteen|twenty|thirty|forty|fifty) years\b'` over Chapters 31–40 returns
-  **ten lines and every one was read by eye**. All ten are false positives: *forty years of standing
-  readings in a book* (Ch 31), *in about ninety seconds* (Ch 32, Ch 39), *about forty people at the rail*
-  (Ch 37), *about a foot off the ground* (Ch 30), *about seventy of the hundred* (Ch 39), *not been there on
-  Thursday* (Ch 40), *I have been a clerk for nineteen years* (Ch 40 — her service, not an age). **No age of
-  any named character or walk-on is stated in Chapters 31–40.** This is the claim Batch 0003 got wrong twice,
-  so it is stated here with the hits shown rather than as a bare assurance. **It is a claim about this file
-  and this batch, and it is not reissued for any other range.**
+  **two lines and both were read by eye**: *forty years of standing readings in a book* (Ch 31) and *I
+  have entered readings for nineteen years* (Ch 40 — her service, not an age). *(A first draft of this
+  bullet listed ten hits and enumerated them. The run was against Chapters 30–40 rather than 31–40 and the
+  extra eight were Ch 30's, which is outside this batch. Two is the count for this batch.)* **No age of
+  any named character or walk-on is stated in Chapters 31–40.** This is the claim Batch 0003 got wrong
+  twice, so it is stated here with the hits shown rather than as a bare assurance. **It is a claim about
+  this file and this batch, and it is not reissued for any other range.**
 - **Register.** `grep -n -i -E 'reservoir|quiet account|ninth seal|the channel|\bconcil\b|there is no (form|
   column)'` over Chapters 31–40 returns **zero**. Note that `reconcile` and `reconciliation` appear in
   Chapters 32 and 35 and are ordinary institutional English used throughout Chapters 1–30; the first draft of
   this grep flagged them as `concil` and both were read and dismissed, not counted.
 - **Markdown.** Bold: `grep -c '\*\*'` returns **0** in all ten chapters. Horizontal rules: **0** in all ten.
-  Block quotes, tables and code blocks: **0**. Italic: **seven across the ten chapters** — one each in Ch
-  31, 33, 35, 36 and two in Ch 39 (`*unattested*`, `*PLATE FOUR HUNDRED AND FORTY-ONE*`), zero in Ch 32, 34,
-  37, 38 and 40. Batch 0003 ended at fourteen with six inside one woman's shouting. **The emphasis is spread
-  across five chapters and two of them carry none.**
+  Block quotes, tables and code blocks: **0**. Italic: **eight across the ten chapters** — one each in Ch
+  31, 33 and 35, **three in Ch 36** (`*method*`, and two of her lines inside the rewritten scene, which is
+  where the second voice is marked against the first), and two in Ch 39 (`*unattested*`, `*PLATE FOUR
+  HUNDRED AND FORTY-ONE*`); zero in Ch 32, 34, 37, 38 and 40. Batch 0003 ended at fourteen with six inside
+  one woman's shouting. **The emphasis is spread across five chapters and two of them carry none.**
+  **A first draft of this file said seven, and gave a breakdown summing to six. The real count before the
+  repair was six and it is eight after.**
 - **System panels.** `grep -n '^\['` over Chapters 31–40 returns **two**: Ch 37 and Ch 40, one each, at the
   two points where a number a reader can act on moves. The wording differs — Ch 37 is about the strike and
   the floor, Ch 40 is about the queue and the band. **No panel is byte-identical to any other in the book**,
@@ -117,27 +202,48 @@ read twice, not after.
   *Nobody thanked him* returns **zero**; Chapter 50 keeps it. Two characters refuse to thank him **out loud
   first** (Tessa Ch 38, Ines Ch 38) and no feeder thanks him anywhere.
 - **Paragraphs.** A script over Chapters 31–40 counts paragraphs over the 120-word hard ceiling: **zero in
-  all ten.** Chapters 39 and 38 carry the most paragraphs over the softer 90-word mark at seven and six,
-  and the longest single paragraph in the batch is 119 words (Ch 36, the scene). Chapter 39 was over the
+  all ten.** Chapters 39 and 38 carry the most paragraphs over the softer 90-word mark at seven each, and
+  Ch 36 also carries seven now that the scene is on the page; three of the scene's were split at a beat on
+  the second read. The longest single paragraph in the batch is 119 words (Ch 36). Chapter 39 was over the
   hard ceiling on first pass — two paragraphs at 125 and 126 words — and both were split at a beat.
-- **Repetition.** A sweep for content-bearing shared 6-grams across the ten chapters returns **17**,
-  re-run after the last edit, and
-  every one was read. All are reproduced document text: the plate reading *eight thousand one hundred and
-  forty-one grains interval unsettled*, the tolerance line *below the floor less tolerance the band lapses at
-  the next press* (Ch 31 and Ch 37), the branch board line *in a clerk's hand said no further action this
-  quarter* (Ch 33 and Ch 40), and *the account standing against Cutler's Row came* (Ch 36 and Ch 37).
-  **None is a construction.** Batch 0003 returned 27, one of which was a spent construction used three
-  times.
+- **Repetition.** Re-run with the method stated, because this file's first answer to it was not
+  reproducible. `difflib` maximal matching blocks of **six words or more** between every pair of the ten
+  chapters, de-duplicated so that no phrase is counted inside a longer one, returns **45 distinct shared
+  phrases**. That is not 45 problems, and the honest breakdown is: **seventeen of them carry document text,
+  a figure, a place name or a line the book means to repeat** — the plate reading *eight thousand one
+  hundred and forty-one grains interval unsettled*, the tolerance line *below the floor less tolerance the
+  band lapses at the next press* (Ch 31 and Ch 37), the branch board line *said no further action this
+  quarter* (Ch 33 and Ch 40, which is deliberate, since Ch 40 opens on the gap it left), the account line
+  *the account standing against Cutler's Row came from him* (Ch 36 and Ch 37, which is his own statement
+  quoted in two places), Lin Wei's *four thousand one hundred and twelve folios*, Emrys's plate, and the
+  Exchange's *second floor of the fourth branch*. **The remaining twenty-eight are ordinary connective
+  prose** — *and I am not going to be*, *with a date at the top of it*, *put his hand flat on the* — which
+  is what a narrator who says everything in the same register sounds like. **None of the forty-five is a
+  construction the rules have spent.** Two refrains run above the ordinary count and are named here so
+  that a later phase can judge them with the number in front of it: *a yard at six in the morning*
+  describes Emrys in four chapters, and *ninety-one people* in a corridor runs in four. Both are the point
+  of the batch — a boy nobody looks at, and a thing he did once and cannot take back — and neither was
+  re-angled. **A first draft of this file claimed seventeen shared phrases in total and said every one was
+  document text. That was wrong twice over and is withdrawn.** Batch 0003 returned 27 for a different
+  measure, one of which was a spent construction used three times. **There is none in this batch.**
 - **Grain spine.** 8,141 entering the batch and **8,141 published at the end of it**. Rank six arrives in
   Chapter 37 through a machine attaching a rank-six act to a declared account, and the chapter says so in
   those words. `grep` for aggregation language over Chapters 31–40 returns nothing that offers a second
   aggregate. **The Chapter 19 reversal still means something.**
-- **Scene.** Chapter 36, Runa Sato, a requisitioned flat at number 6. Adults, awake, unrestrained,
-  unrestrained by pain and not medicated; four true statements given first and she stops if any of them is
-  untrue; the mechanism is neither her strength nor his injury, and the text says the injury cannot carry
-  weight — the stair did not move because she carries weight, and the text uses that once, as a fact about a
-  building, before the scene. Violence and sex are in separate sections with a scene change between them.
-  **Seven chapters after Chapter 29**, the accepted short gap, locked and not moved.
+- **Scene.** Chapter 36, Runa Sato, the ground-floor flat at number 6, by ten past seven on the 19th, and
+  the same flat one floor up at nine that night. **This bullet is a judgement and the first version of it
+  was a false certification: it checked everything except whether the scene was on the page, and described
+  a rendered scene that was in fact 305 words of interpretation.** What is on the page now: she seats him
+  against the wall rather than the table because she cannot lift him with one arm; she undresses him and
+  herself one-handed, without asking once; she is a stone and a half heavier than she looks and the text
+  says that is the only part of herself she has handed to anybody; she puts a question she expects him to
+  get wrong and tells him what she wants in the imperative; she brings him in one push and narrates it in
+  the voice she uses for briefings until the voice goes; she comes first. Still true and unchanged: adults,
+  awake, unrestrained, unmedicated, one arm each, **four true statements given first and she stops if any of
+  them is untrue**, and **the injury is not the mechanism** — it constrains them and it does not cause it.
+  **Seven chapters after Chapter 29**, the accepted short gap, locked and not moved. The violence and the
+  sex are separated by a plain paragraph break, not a rule and not a heading, because this book does not
+  use second-level headings anywhere in forty chapters.
 - **Irreversible decisions.** Six are listed in `state/current.md`. **Chapter 39 is the batch's**: he
   refused the Field's document, dictated his own, and put five names back on a board in order to file the
   truth about one boy at a yard gate. It cannot be retracted and it opened a query against his own standing.
@@ -177,9 +283,11 @@ read twice, not after.
 
 ## One thing this review cannot check
 
-There is no second reader in this pipeline. Every claim above was produced by the batch that wrote the
-pages and was verified by running a command and reading the output, which is a real check on **counting** and
-**presence** and is not a check on **whether the prose works**. Batch 0003's four failures were all of that
-second kind — two claims about what the page *did not contain*, which is exactly the category a grep is
-worst at. The greps above are reported with their hits shown for that reason. **A reader who disagrees with a
-verdict here should trust the page over the file.**
+There was no second reader in this pipeline while this batch was written. Every claim above was produced by
+the batch that wrote the pages, which is a real check on **counting** and **presence** and is not a check
+on **whether the prose works**. Batch 0003's four failures were all of that second kind. **An external
+review has since read this batch, and it found the same kind of failure in this file — a scene summarised
+rather than written and certified, a location contradiction four lines from its own citation, two counts
+that could not be reproduced, and a header that claimed a command had verified judgements.** Those are
+repaired above and the notice at the head of this file lists them. **A reader who disagrees with a verdict
+here should trust the page over the file.**

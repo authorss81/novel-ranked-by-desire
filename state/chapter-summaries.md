@@ -246,10 +246,13 @@ it; she carries weight and the stair did not move. He had his forearm in to the 
 Rees by the collar; the warders' tally has him out of the passage at six with no time back in. In the
 flat at number 6 she tells him what the falsification costs her and writes it anyway — **failure
 unforecast, officer alone in the passage, her hand twice on the form**, false in four places including him.
-The scene is adults, awake, unrestrained, unmedicated, one arm each, and four true statements first. He
-decides, alone on a landing at seven in the morning, that there is not another side: he writes a
-four-page statement putting his own name under the stair, the forced door, the book, and every dwelling
-that comes off that row.
+The scene is adults, awake, unrestrained, unmedicated, one arm each, and four true statements first; she
+puts her weight on him and says so, and the chapter says the weight is the only part of herself she has
+handed to anybody, and that the injury constrains them without causing anything. The whole day is at
+**number 6** — she is moved up one floor at four o'clock when the warders want the ground floor back, and
+the report is written there at nine. He decides, alone on a landing at seven in the morning, that there is
+not another side: he writes a four-page statement putting his own name under the stair, the forced door,
+the book, and every dwelling that comes off that row.
 
 ### Ch 37 — The Provisional Band
 He writes and files the statement at twenty to six on the 19th. At the Exchange counter Garrick Neve puts

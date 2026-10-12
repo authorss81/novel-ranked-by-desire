@@ -77,7 +77,7 @@ She caught him looking at her and did not pretend she had not.
 
 "Yes," Lin Hao said.
 
-"I have been a clerk for nineteen years and I have never seen the machine run out of honest things before." She unfolded her arms. "And there is a query on it now, which is mine, because I entered it, and I am going to have to answer it, and the only answer anybody in the Reading Office will accept is a figure that came from an instrument, and you have not got one, and I cannot invent you one."
+"I have never once seen that machine ask anybody for anything," she said, and did not unfold her arms. "It takes what is on the desk and it goes and finds a rank for it, and on your desk there was a figure with no rank behind it, so it made one. And there is a query on it now, which is mine, because I entered it, and I am going to have to answer it, and the only answer anybody in the Reading Office will accept is a figure that came from an instrument, and you have not got one, and I cannot invent you one."
 
 "What happens if you cannot."
 

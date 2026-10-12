@@ -147,6 +147,18 @@ the **sixth week**.
   removed over eleven weeks** by a district return reconciling a ~300/week shortfall against ~9,000
   people, initialled **ADJ-DT**. The back stair was reported twice, forced twice with a bar, and is a
   nine-hundredweight landing that comes down in four seconds.
+- **The requisitioned flat on the 19th is the ground floor at number 6, and the whole day happens there.**
+  Runa Sato is put in the ground-floor flat at number 6 at ten past seven; the warders want the ground
+  floor back for a post at four o'clock and she is moved **up one floor at the same number**, and the
+  report is written there at nine that night with the district clerk asleep on a chair. **Number 11 is
+  Halvard Rees's flat** and is where the woman who chained the back door lives. *(A first pass put her at
+  number 11 that night with nothing moving her between the two. Corrected — see the Batch 0004 review
+  repair immediately above the Batch 0003 block below.*
+- **The Chapter 36 scene is on the page.** Adults, awake, unrestrained, unmedicated, one arm each; four
+  true statements before anything starts and she stops if any of them is untrue; the injury constrains them
+  and does not cause anything; she is **a stone and a half heavier than she looks** and the text says the
+  weight is the only part of herself she has handed to anybody. **Seven chapters after Ch 29, the accepted
+  short gap, locked.** Next scene is **Ch 46**, ten chapters later and the last of Volume 1.
 - **Ilse** is not named on the page. The twelfth clipboard is a ward patient two floors above the Vestry
   clinic whose temperature has not come down and who goes home looking entirely well.
 - Locations: the **Fourth Branch second-floor corridor board** (five names, a figure against each, the
@@ -183,9 +195,48 @@ the **sixth week**.
   of thirty and a ceiling of five. *The person nobody looked at* does not appear.
 - Reservoir never spoken. **No feeder thanks him**, and two characters refuse to thank him **out loud
   first** (Tessa at Ch 38, Ines at Ch 38), which is the pattern held and sharpened.
-- **Cross-chapter repetition across the ten chapters: 17 content-bearing shared 6-grams**, all of them
-  reproduced document text — the plate reading, the tolerance line, the branch board line, the account
-  line against Cutler's Row. None is a construction. Batch 0003 returned 27.
+- **Cross-chapter repetition across the ten chapters: 45 distinct shared phrases of six words or more**,
+  counted as `difflib` maximal matching blocks between every pair of the ten, de-duplicated so that no
+  phrase is counted inside a longer one. Seventeen of the forty-five carry document text, a figure, a place
+  name or a line the book means to repeat; the other twenty-eight are ordinary connective prose. **None is
+  a construction.** Batch 0003 returned 27 for a different measure, one of which was spent. *(This figure
+  was first written into this file as **17 shared 6-grams, all reproduced document text**, which was wrong
+  twice over and has been corrected rather than re-certified.)*
+
+---
+
+# Batch 0004 review repair — external findings, applied to Chapters 36 and 40
+
+An independent review read Batch 0004 after the batch that wrote it had certified itself. Three page-level
+faults and two false counts were found. **No canon changed, no age moved, no scene was moved, no
+irreversible decision was re-opened, and the planned ending is untouched.**
+
+1. **The Chapter 36 scene was summarised rather than written** — 305 words, mostly interpretation, one
+   physical line — and the batch's own Scene gate certified it because it checked consent, wakefulness,
+   the impaired-state ban and the injury logic and never asked whether the scene was on the page.
+   **The scene is now written.** Nothing about its mechanics moved: adults, awake, unrestrained,
+   unmedicated, one arm each, four true statements first, the injury constraining rather than causing, the
+   violence and the sex separated by a plain paragraph break. **Ch 36 is now 3,349 words, outside the
+   1,800–2,700 guide on purpose** — it is the only chapter in the batch outside it and the reason is on
+   this page.
+2. **A location contradiction inside Ch 36.** She was at **number 6** in the morning and **number 11** at
+   nine that night with nothing moving her. **The day is now entirely at number 6**, with the move up one
+   floor at four o'clock written in so the evening has a transition.
+3. **A duplicated beat and a duplicated number in Ch 40.** The Reading Office clerk unfolded her arms twice
+   without refolding and used *nineteen years* in both speeches. **The second speech was rewritten** to
+   run on the machine taking what is on the desk and going out to find it a rank, which is the Ch 37
+   mechanism in the mouth of the woman who entered the reading.
+4. **Two counts in `reviews/volume-01/batch-0004.md` could not be reproduced** — weekday names (said
+   sixteen, is **ten**) and italic (said seven with a breakdown summing to six, was **six** and is **eight**
+   after the repair).
+5. **The review's provenance claim was too broad.** It said every claim had been verified by running a
+   command. True of the mechanical gates, not of Scene, Escalation or Irreversible decisions. It now says
+   so, and says which kind of claim each bullet is.
+
+**The pattern is the same one this pipeline has produced five times: a batch certifying something about
+what its own page did or did not contain.** Item 22 of the "Adjudicated contradictions" list in
+`state/current.md` already records that a writer's own review is not a review. **Batch 0004 was the second
+batch to repeat it after being told.**
 
 ---
 

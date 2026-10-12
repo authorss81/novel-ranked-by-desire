@@ -132,6 +132,31 @@ other way: the page this time contained what the gate was looking for, and the g
     mistakes and not decisions. **Recorded in `reviews/volume-01/batch-0004.md` and here. Not repaired** —
     Ch 29 is certified and the sentence is Nadia's voice at the end of a scene.
 
+**Closed by the Batch 0004 review repair** — the sixth, seventh and eighth false certifications, and the
+third time this pipeline has had the same failure after being warned about it by name:
+
+26. **The Chapter 36 scene was summarised rather than written, and the batch's review certified it.** The
+    scene was 305 words carrying one physical line. The Scene gate checked consent, wakefulness, the
+    impaired-state ban and the injury logic and **never asked whether the scene was on the page**, then
+    described it as though it were rendered. `AGENTS.md` on Adult Content is blunt: *Write the actual
+    scene. Implication and fade-to-black are not the target. The scene is the product.* **Rewritten.** The
+    mechanics did not move — adults, awake, unrestrained, unmedicated, one arm each, four true statements
+    first, the injury constraining rather than causing, violence and sex in separate registers.
+27. **Two page-level contradictions the batch review missed in its own batch**, both found afterwards: the
+    Ch 36 flat is **number 6** in the morning and **number 11** at night with nothing moving her, and the
+    Ch 40 Reading Office clerk unfolded her arms twice without refolding and used *nineteen years* in both
+    speeches. **Both repaired.** Number 11 is Halvard Rees's flat and is fixed as such.
+28. **The review's provenance claim was stated more broadly than it could be supported.** It said every
+    claim had been verified by running a command and read. True of the mechanical gates; **not** true of
+    the Scene, Escalation and Irreversible decisions bullets, which are judgements. It now says which kind
+    of claim each bullet is. **A count is not a reading, and a review that cannot say how a claim was
+    checked does not get to make it.**
+29. **Item 22 is now confirmed a second time, not a first.** The Batch 0004 review was written by the batch
+    it reviewed, in the same commit as the prose, and certified a scene that was not on the page — after
+    this file had already recorded that a writer's own review is not a review. **The structural fix is not
+    a prose discipline; it is that the review phase must be a separate run.** Until it is, every claim a
+    batch makes about its own batch is a claim to be re-run, and Batch 0005 should assume it will be.
+
 ## Where Batch 0005 picks up
 
 | | |
@@ -144,7 +169,7 @@ other way: the page this time contained what the gate was looking for, and the g
 | The five | **Back on the branch board from the 26th**, with a gap where the reason should be. Ottoline Barret, **Emrys Vaz** (441), **Tobias Renn**, and two he never asked the names of. |
 | His standing | Public and now **queried**. A Reading Office query is open against his entry and wants an instrument he has not got. Rank six petitions sealed files — Lin Wei, 4,112 folios — from the 29th if he holds the band at all. |
 | Ines | Rank two. **Her paper is discharged**; she said the rota name out loud on the 20th and will write it down if he says the word and will not say it first. He has not said it. **The second-of-May clipboard is still on her table and he still has not said a word.** |
-| Runa | Co-signing a false report with her own hand twice, and holding at the front of her file a statement that convicts the declarant. She filed it on the 23rd. She has told him plainly that she cannot defend his standing and will not pretend she can. |
+| Runa | Co-signing a false report with her own hand twice, and holding at the front of her file a statement that convicts the declarant. She filed it on the 23rd. She has told him plainly that she cannot defend his standing and will not pretend she can. **The scene happened in the ground-floor flat at number 6 on the 19th and she is still carrying it.** |
 | Beatrix | Favour discharged; her three ticks stand. The ninth is her, in September. |
 | Tessa | Turned line and household. Stippling above her left elbow and pale blue above the joint; right forearm beginning. Rack of **twelve** clipboards. She has asked for one thing — say the number out loud to her, once a month, not the names — and said out loud that she will not thank him. |
 | Nadia | In the household and uncontainable, and has forbidden him to spend her. |
@@ -191,11 +216,14 @@ write *there is no form for this*, never write *there is no column for it*, and 
 one.** Ledger messages only where the count turns, and **never the same panel twice**. No feeder thanks
 him, and *nobody thanked him* is Chapter 50's. Word reservoir never spoken.
 
-**Two numeric sweep targets carried forward.** `nobody` / `no one` ran **thirteen times across Batch 0004's
-ten chapters, four in Ch 39**, against a target of thirty and a ceiling of five. *Nobody has asked me to do
-this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person nobody looked at* is
+**Three numeric sweep targets carried forward.** `nobody` / `no one` ran **thirteen times across Batch
+0004's ten chapters, four in Ch 39**, against a target of thirty and a ceiling of five. *Nobody has asked me
+to do this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person nobody looked at* is
 retired** and does not appear. **Chapter prose carries no horizontal rules** — eighteen were cut from a
-partial draft of Chapters 33–38, and Chapters 1–40 now carry none.
+partial draft of Chapters 33–38, and Chapters 1–40 now carry none. **Weekday names returned ten across
+Chapters 31–40 and every one is Thursday**; an earlier review said sixteen and the command says ten.
+**Italic returned eight across the ten chapters, three of them in the Chapter 36 scene**, and zero in four
+of the ten.
 
 **Planning register may use the words the page may not.** *Reservoir*, *quiet account*, *Concil*,
 *Ninth Seal* and *Channel* are terms of the outline and the batch cards. Chapters 1–40 contain none, and
@@ -204,5 +232,10 @@ none may appear. That is a register rule, not a contradiction between the cards 
 ## Scene budget
 
 Scenes done: Ch 8 (Ines), Ch 17 (Beatrix), Ch 26 (Tessa, cold store), **Ch 29 (Nadia, stopped lift)**,
-**Ch 36 (Runa, requisitioned flat)**. Next: **Ch 46 (Marguerite)**. The 29→36 gap was seven and was
+**Ch 36 (Runa, the flat at number 6)**. Next: **Ch 46 (Marguerite)**. The 29→36 gap was seven and was
 accepted and locked; 36→46 is ten. Do not move a scene to fix either.
+
+**A scene is the product, not a summary of one.** The Chapter 36 scene was summarised in its first pass
+and certified anyway; it is now written, and it took the chapter to 3,349 words, outside the length guide
+on purpose. **Ch 29 and Ch 26 are 2,299 and 2,698 and both would read thinner with the same repair.**
+Batch 0005's scene is Chapter 46 and should be written on the page the first time.

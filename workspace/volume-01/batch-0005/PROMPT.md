@@ -14,10 +14,12 @@ state/open-threads.md, state/chapter-summaries.md. Read Chapters 36, 38, 39 and 
 scene, 39 is the irreversible decision, 40 is the arithmetic.**
 
 **Read the "Adjudicated contradictions — closed, do not re-open" section in `state/current.md` before you
-plan anything.** It now runs to **twenty-five** items. **Items 19 to 25 are a warning about this pipeline
-itself**: four state files and three review files have certified a fact that was false, twice that no ages
-were stated, once that a rationed phrase was untouched, once that no construction was repeated, and once —
-last batch — that Chapters 21–40 were clean of ages, which `chapter-0029.md:91` contradicts. Read all seven.
+plan anything.** It now runs to **twenty-nine** items. **Items 19 to 29 are a warning about this pipeline
+itself**: five state files and four review files have certified a fact that was false — twice that no ages
+were stated, once that a rationed phrase was untouched, once that no construction was repeated, once that
+Chapters 21–40 were clean of ages (which `chapter-0029.md:91` contradicts), and last batch **three more**,
+the worst of them a scene that was summarised rather than written and certified by a gate that checked
+everything except whether the scene was on the page. Read all eleven.
 
 ## Starting numbers, exact
 
@@ -81,15 +83,18 @@ earlier, and do not write a paraphrase of it in any other chapter of this batch.
 
 ## Craft
 
-- **Length: land every chapter between 1,800 and 2,700 words.** Batch 0004 ran 1,922–2,698, mean 2,314. Four
+- **Length: land every chapter between 1,800 and 2,700 words.** Batch 0004 ran 1,922–3,349, mean 2,383. Four
   chapters went over the ceiling and were cut by **removing sentences, not scenes**. Do not pad to reach
-  the band and do not split a finished scene to stay inside it.
+  the band and do not split a finished scene to stay inside it. **One exception is recorded and is not
+  precedent: Ch 36 is 3,349 because its scene was found summarised and was written out, and
+  `AGENTS.md` calls length a guide. Do not use it to run long on a chapter that does not need the room.**
 - **Paragraphs two to four sentences, under 120 words.** Batch 0004 ran a maximum of 119.
 - **No horizontal rules.** Nineteen were removed from Batch 0004 and **Chapters 1–40 carry none**. A
   markdown sweep over the whole book is a hard gate, not a formality: a rule that has held for forty chapters
   is not one the forty-first chapter may quietly break.
 - **Bold is not used anywhere in this book.** Document text prints plain. **Italic is scarce** — Batch 0004
-  used seven across ten chapters, zero in four of them. Spread it; one scene must not carry the batch.
+  used **eight** across ten chapters, three of them inside the Chapter 36 scene, and zero in four of them.
+  Spread it; one scene must not carry the batch.
 - **At most one ledger message per chapter and never the same panel twice.** Batch 0004 used Ch 37 and Ch
   40. Expect this batch's at **Ch 48**, where the ledger gains a line that has never been there.
 - **Never speak reservoir, quiet account, the Channel, the Ninth Seal or the Concil in the prose.** The cards
@@ -113,6 +118,12 @@ earlier, and do not write a paraphrase of it in any other chapter of this batch.
   anything. **Ten chapters after Ch 36, and the last scene of Volume 1.** Adults, awake, unrestrained,
   unmedicated; violence and sex stay in separate registers. Her scene changes something: he refuses the
   laundering again, for a worse reason than the first time, and she keeps investing anyway.
+  **Write the scene. Chapter 36's was delivered as 305 words of interpretation — what the two of them were
+  doing rather than their doing it — and the batch certified it, and a later reader found it and it took
+  six hundred words and a chapter over its own ceiling to put it on the page. `AGENTS.md` is blunt: the
+  scene is the product. The five scene chapters in this book run 4,761, 1,997, 2,698, 2,299 and 3,349
+  words, and the two in the middle of that list would both read thinner for the same repair. Do not
+  summarise this one.**
 - Never more than fifteen chapters without a scene. Ch 46 is ten after 36 and is the last before Volume 2.
 - **After any passage of institutional machinery, one plain sentence about what it means for one named
   person.**
@@ -123,9 +134,19 @@ Update state/chapter-summaries.md, state/continuity.md, state/open-threads.md, s
 reviews/volume-01/batch-0005.md. **Volume 1 is not complete after Chapter 50** in the pipeline's sense: leave
 the state files positioned for Volume 2, Batch 0001, and create **exactly one** next phase.
 
-**When you write the review, check the page against your claims.** Five certifications in this pipeline have
-been contradicted by the prose they described, and four of the five were written by a batch that had been
-warned about the previous one by name. Run the grep, **read every hit by eye**, and record what you found
-rather than what you meant. Report the hits, not the conclusion. **If you cannot say how a claim was checked,
-the claim does not go in the file** — and if the honest answer is *this is a claim about absence and a grep is
-the wrong tool*, write that instead of the claim.
+**When you write the review, check the page against your claims.** Eight certifications in this pipeline
+have been contradicted by the prose they described, and **every one of them but the first was written by a
+batch that had already been warned about an earlier one by name**, in a state file, by name. Run the
+grep, **read every hit by eye**, and record what you found rather than what you meant. Report the hits,
+not the conclusion. **If you cannot say how a claim was checked, the claim does not go in the file** — and
+if the honest answer is *this is a claim about absence and a grep is the wrong tool*, write that instead of
+the claim.
+
+**And say which kind of claim each one is.** The Batch 0004 review header claimed every claim had been
+verified by running a command, which was true of the mechanical gates and false of its Scene, Escalation
+and Irreversible-decisions bullets. A judgement written as a certified gate is the failure mode this file
+keeps producing. **Three of Batch 0004's faults were of that kind and none of them was caught by running
+a command**, which is the whole argument for this paragraph.
+
+**Read your own scene back before you certify it.** Ask one question: *is the thing the bullet is about
+actually on the page, or am I describing what the bullet is about?*

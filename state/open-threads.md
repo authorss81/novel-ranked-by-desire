@@ -305,6 +305,44 @@ Recorded because a later phase must be able to tell a decision this batch made f
   down is the *turned* count, which holds at five because he spends nobody. **Lines rise to forty-one.**
   The page is right and the outline's phrasing is ambiguous; no change made to either.
 
+## Canon-change flags raised by the Batch 0004 review repair
+
+An independent review read the batch after the batch that wrote it had certified itself. **No canon was
+changed, no age was moved, no scene was moved, no irreversible decision was re-opened, and the planned
+ending is untouched.** The flags are recorded because a later phase must be able to tell these from
+decisions this batch made on purpose.
+
+- **The Chapter 36 scene was summarised, not written, and the batch's review certified it.** Lines 93–105
+  were 305 words carrying one physical line; the Scene gate checked consent, wakefulness, the
+  impaired-state ban and the injury logic and never asked whether the scene was on the page. **The scene
+  has been written in full.** `AGENTS.md` on Adult Content is unambiguous: *the scene is the product.*
+- **Ch 36 is now 3,349 words and is the one chapter of the batch outside 1,800–2,700.** It was left there
+  rather than trimmed, because the repair that made it long was the repair that made it a scene, and
+  `AGENTS.md` is explicit that chapter length follows the arc and is not a hard limit. **A later phase
+  may not cite this chapter as precedent for running long.** The two scene chapters before it ran 4,761
+  and 4,066; Ch 29, the other scene, ran 2,299.
+- **A location contradiction inside Ch 36** — number 6 in the morning, number 11 at night, nothing moving
+  her between. The day is now at number 6 throughout, with the move up one floor at four o'clock on the
+  page. **Number 11 is Halvard Rees's flat** and is fixed as such.
+- **Ch 40's Reading Office clerk unfolded her arms twice without refolding and used *nineteen years* in
+  both speeches.** The second speech was rewritten and the duplication is gone. It now runs on the machine
+  taking what is on the desk and going out to find it a rank, which is the Ch 37 mechanism said by the
+  woman who entered the reading. **No world fact changed**; the chapter had already said a machine made
+  the band.
+- **Two counts in `reviews/volume-01/batch-0004.md` could not be reproduced** — weekday names (sixteen
+  claimed, **ten** actual) and italic (seven claimed with a breakdown summing to six, **six** actual,
+  **eight** after the repair). Both corrected in the file, with the failed numbers left visible.
+- **The cross-chapter repetition figure carried in `state/continuity.md` was wrong** — 17 claimed as all
+  document text, **45** actual by a stated method, of which seventeen carry document text, a figure, a
+  place name or a line the book means to repeat, and twenty-eight are ordinary connective prose. Corrected
+  in both files. **None of them is a spent construction.**
+- **Self-review was structural, not a regression.** All four batches wrote their own review in the writer
+  commit. `.opencode/agent/novel-reviewer.md` exists and the workflow probes it, but reviews are authored
+  by the writer phase, which is why findings 1 to 3 above reached a file that certified them. **A writer's
+  own review is not a review.** Carried forward to Batch 0005: write the review, then re-read the page
+  against it, and record the command and its output for anything mechanical and **say plainly that a
+  judgement is a judgement**.
+
 ## Markdown and gate repairs made inside this batch, recorded so a later phase does not re-open them
 
 - **Eighteen horizontal rules were removed from Chapters 33–38.** `AGENTS.md` bans them and **Chapters

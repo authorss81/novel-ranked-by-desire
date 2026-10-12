@@ -90,23 +90,49 @@ She got the sling off him, and got her own coat off the back of a chair one-hand
 
 "All true." She got him up off the mattress edge with one hand. "Now sit down properly, because you are going to fall over and I am not catching you on that arm."
 
-It was not gentle and it was not fast and it was not two people being kind to each other in a bad hour. It was a Field officer of the brute-force division who has spent nine years being the most competent person in every room she enters, taking the whole of a thing off a man who cleans washrooms, and it went on a great deal longer than either of them had planned for, because she had one arm and was determined to pretend she had two.
+It was not gentle and it was not fast, and it was not two people being kind to each other in a bad hour. She came at it the way she came at everything, which is with a plan, and she said what she wanted in the imperative because the imperative is the only mood she has ever had.
 
-She had him against the table with his good hand flat on the wood and his forearm out of the sling by the end, and she told him what she wanted in the flat operational voice she used for briefings, and then about a third of the way through she stopped being able to and made a noise in her throat instead and put her forehead on his shoulder and kept it there.
+She put him against the wall rather than against the table, since if he went over on that arm she would have to lift him, and she has one arm and has been under a stair an hour ago. Then she took his shirt off him a sleeve at a time — the good arm first, because that is the one that works, and then the part behind his head, which she would not hurry and would not leave to him.
 
-He got his good hand into her hair and she let him, which was the only thing either of them did that afternoon that was a concession.
+She did her own coat sitting on the mattress, rolling the good shoulder forward and getting the belt between her teeth, and she did not ask for help once and did not look away from him while she did it. When she had the last of it off she looked down at what she had let him see and said "what" in a voice of pure administrative surprise, and then, when he did not answer, took it as an answer and got on with it.
+
+Then she came over him, and she was heavier than she looked, a stone and a half of her and all of it in the shoulders and the back, and none of it was weight for its own sake. It was the only part of herself she had ever handed to anybody.
+
+"Are you afraid of me," she said, into his jaw.
+
+"No."
+
+"That is the wrong answer and you have not even tried to make it the other one." She got a knee between his and pushed his legs open and lay down over him on her good side, propped on her elbow with the bad one pinned against her own ribs.
+
+"Then hold on to me with the arm that works and do not be polite about it. I have had an hour with a lamp and nothing else to do and I am not going to be told what I want by a man who thinks he is taking something off me."
+
+She was fast and thorough and entirely without embarrassment, the way she is at everything, and she got him hard in under a minute with her good hand and the flat of her forearm while telling him what she was doing in the same voice she uses for a briefing — there, that is the hand, that is how much of it there is. About a third of the way through she stopped being able to and made a noise in her throat instead, and put her forehead on his shoulder and kept it there, moving.
+
+He got his good hand into her hair. She let him, which was the only thing either of them did that afternoon that was a concession.
+
+Then she shifted up and took him in one push with her teeth together, and the noise she made at that point was not an announcement and was not for anybody, and she held still for a second with her face in his neck and all that weight on him. Then she began.
+
+She set the pace and she set it wrong on purpose, fast, and then slow enough that he had to make an effort, and she kept the commentary going the entire time in that flat voice, which is the single most unsettling thing about her and which he thought about at a bus stop more than once in the next four years. *That is the door, that is the frame, that is the district behind it — do not think about the district.*
+
+Thirty seconds later, in a completely different voice, not the voice at all: *oh. That. Do that again.*
+
+She lay down over him then and got her ear against his sternum, and he put his good hand against the back of her head, which she allowed, because the alternative was doing it a second time.
 
 "You are very warm," she said into his collar. "I thought you would be cold. Everybody in this is cold."
 
 "That is what it is."
 
-"Yes." She came up onto her knees. "That is exactly what it is, and I am going to think about it on a tram for a month."
+"Yes." She came up onto her knees and looked at the door, which does not lock. "That is exactly what it is, and I am going to think about it on a tram for a month." Then she came back down onto him.
 
-She came first with her teeth on his shoulder and her good hand fisted in the front of his shirt, fast and not quiet, and she held him exactly where he was with one arm and did not let him hurry it, and he went over about four seconds after she had finished and put his forehead down on the table and left it there.
+She took herself off with two fingers and the heel of her hand and told him to hold still, and he held still, because she told him to.
 
-Then she got up and dressed one-handed in about ninety seconds and said that the nurse was next and then the form and then a very bad conversation with a man in the district office who wanted to know why eleven dwellings were not emptied.
+She came first with her teeth on his shoulder and her good hand fisted in the front of his shirt, fast and not quiet, and she held him exactly where he was with one arm and did not let him hurry it, and he went over about three seconds after she had finished and put his forehead down on the table and left it there, and she sat on the edge of the mattress in front of him and let him stay like that for as long as it took.
 
-She wrote it at nine that night in a requisitioned first-floor flat at number 11, with her arm in a sling and the district clerk asleep on a chair, and Lin Hao sat at the other end of the table and read nothing at all.
+Then she got up and dressed one-handed in about ninety seconds, in the order of a person who has done that before, and said that the nurse was next and then the form and then a very bad conversation with a man in the district office who wanted to know why eleven dwellings were not emptied.
+
+They had wanted the ground floor back at four o'clock for a post, so she was moved up one floor at number 6 with the same table and the same lamp carried up ahead of her, and he had gone up and down those stairs twice with the district clerk's box under his good arm, because she could not lift it and would not ask him to.
+
+She wrote the report at nine that night in the first-floor flat at number 6, with her arm in a sling by then and the district clerk asleep on a chair, and Lin Hao sat at the other end of the table and read nothing at all.
 
 It took her eleven minutes. She did not ask him to go and she did not offer him anything to read, and at no point in the eleven minutes did she look up.
 
