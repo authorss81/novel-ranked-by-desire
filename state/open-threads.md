@@ -1,5 +1,271 @@
 # Open Threads
 
+## Volume 3, Batch 0004 — PROPOSED CANON, registered BEFORE Chapter 131 was drafted
+
+**Written before a word of Chapters 131–140. Anything the drafting rejects is listed in the close record
+rather than dropped. This block is the newest and governs every Volume 3 block below it on every point it
+touches.** (Placed above the Batch 0003 repair block for that reason; the repair block itself is intact
+below it and loses nothing.)
+
+### Day map (M+3, thirty-one days, its 1st a Thursday, Thursdays 1/8/15/22/29)
+
+131 the 5th · 132 the 6th · 133 the 7th · **134 the 8th, the batch's only Thursday, because the Board
+repaints** · 135 the 9th · 136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th.
+**No shared dates. The 31st of M+2 and the 1st–4th of M+3 went by between the batches** (five days, one of
+them a Thursday, and the 1st is never named as one because no instrument acts on it in this batch).
+**Thursday is the only weekday name in the batch and it appears in Ch 134 alone.** No other weekday name
+appears anywhere in 131–140. *fifth Thursday running* does not appear. D4/D3 inherited, flagged,
+untouched; nothing derives from the Review's weekday or any D3 figure.
+
+**Countdowns.** The hall and the countdown are in the **same month** for the first time in the volume,
+so every figure is the 29th less the chapter's own date and no month-remainder is added:
+**131 twenty-four · 132 twenty-three · 133 twenty-two · 134 twenty-one · 135 twenty · 136 nineteen ·
+137 eighteen · 138 seventeen · 139 sixteen · 140 fifteen.** Every countdown printed in the prose carries
+its subtraction on the page.
+
+**NOT PRINTED IN 131–140, on purpose, and a later phase must not print it without deciding to:** any
+day-count of the household notebook (counting it forward requires the length of M−1, which D4 does not
+settle); the number of the week's strip; any length of M+2 or M+3 asserted in a character's mouth.
+
+### New mechanics on the page in this batch
+
+1. **(131) The argument.** At the table he tells six women what he has worked out and what he intends to
+   do. **The women object to him, not to the Office.** Nadia names the thing four months old — that every
+   one of them has been refused something and that refusing to let him touch them in a room is the last
+   refusal available to them and he is proposing to take it. **Beatrix Halm states what replaces her dead
+   condition:** not a condition but a hand — she intends to reach him in that hall, she will not promise
+   otherwise, and she says it as a fact about herself and not as a favour. **Sun Meiling advances her
+   refusal from the landing** — the household's protection logic has produced every document in the hall
+   and none of them came out of her, and she will not come down for this.
+2. **(133) A list of acts.** He begins a separate book of his own acts, kept at the table and not in the
+   drawer. **He cannot date most of what he writes.** The chapter's finding is structural, not sentimental:
+   four years of work and he can produce six acts and one date. **The turned count does not move. No draw
+   is spent, on anybody, including himself. No ledger figure beyond 112 is printed.**
+3. **(135) What Ola Bright keeps.** She has kept a diary of cold minutes since the spring, by hour and
+   street, without being asked, and she shows him the whole of it, and the entries go back further than
+   the house has been under notice. **He asks her to hold the four hours. She says yes in about four
+   seconds and keeps the page.** It is the first record of his he has ever let somebody else hold, and the
+   reason is the same reason as Wren Kallo's and the effect is the opposite: Wren cannot keep a secret and
+   Ola cannot keep a silence.
+4. **(134) The witness problem and the announcement that leaks.** He tells Wren Kallo his intention for
+   the 29th, in the workroom, because a party is entitled to know what the member intends and because she
+   asked to be a party rather than discover it as a stranger. **She repeats it back once, then does the
+   thing she has always done:** she writes it on bench paper, dates it, signs it, and puts it into the
+   bench file through Cressida. **The announcement becomes a document with a date and two names on it.**
+   The Certification desk's clerk notes on the file that a member who states an intention in advance has
+   had the opportunity to prepare the room, and Tove Marlin says, flatly, that it is a lie.
+   **Adeyemi does NOT learn the instrument's rule in this chapter** — he learns only that the member has
+   announced something, and the announcement is on the bench file.
+5. **(136, 137, 140) Three readings of the roll, and none of them is comfortable.** Tove Marlin's promise to
+   be sorry for the room is cashed three times: at 136 she says it in front of the forty-one names and
+   reads them anyway; at 137 she does not say it at all, because the room is a hall rated at two hundred
+   and thirty and there is nobody in it to be sorry to; at 140 she begins to say it with the household
+   present and stops herself. **The pre-reads happen in the room where the item will be read** — the
+   parties' room on the third floor for the delivery record, the Cobb Street hall for the Field minute and
+   for the whole roll — because the Office must put its case in full and an item not read in the room
+   cannot be objected to in the room.
+6. **(137) Runa Sato is not allowed in the hall.** A serving officer present while her own minute is read
+   into the record would be a party conversing with the clerk, so she is outside the door, and the door is
+   the cruellest place in Volume 3. **A notice goes to her asking whether she will attend on the 29th, and
+   she must answer it in writing, and answering it is a third document.** Her hearing firms again and is
+   not resolved and is not this volume's hearing.
+7. **(138) September is still Beatrix's.** The broken price is unpaid, uncollected and unforgiven and is
+   not forgiven out loud. **She gives him the district's cold minutes with no condition attached**, because
+   the condition died at 128 and a thing with no condition is a thing he has to ask for. **The price to her
+   is that on the ninth of September her division will be asked for the cold minutes by district and she
+   will have to account for having given them away.** September's outcome is not resolved.
+8. **(139) THE PUBLIC GOOD DEED AND ITS PRICE.** He carries a bundle down two steps for a woman outside
+   the Fourth Branch in front of eleven people, on purpose, having calculated that a man who intends to
+   announce four hours of not touching anybody has to be a man who has been seen not touching anybody for
+   weeks, in public, for nothing. **The price is named in the chapter and it is not his: Nadia Ferrous's
+   forty-one names.** A deed done in the open in front of a gate two thousand people walk past makes the
+   notice bigger and the hall fuller, and a fuller hall reads the roll louder. Anneke Roos writes it in the
+   branch register and asks nothing. **The plate figures are printed here, once, and nowhere else in the
+   batch.** He is never unlooked-at again.
+9. **(140) THE IRREVERSIBLE DECISION FOR THIS BATCH — the hours become shared.** He asks Tove Marlin to
+   enter, in her own day book and as a clerk's record of a member's statement and not as an Office
+   document, the four hours from ten until two on the 29th and his statement that he intends to move
+   nothing on any person in that room. **She asks the question that makes it irreversible: who is going to
+   hold it.** An announcement nobody can be held to is a speech. He names three women and one clerk.
+   **It cannot be unmade, the record stops being his, and the option of keeping the account of himself
+   entirely his own is closed.**
+
+### Figures fixed by this batch
+
+Plate **8,138** / floor **8,141** / tolerance three / **11,862** under band six — printed as words **once**,
+in Ch 139, and not in any other chapter. Ledger **112 lines, eight turned, one reading himself**; **no new
+ledger figure printed in any of the ten chapters**; work with the cause named goes in without a number. No
+draw spent, on anybody, including himself. No grain scored, no rank earned, no rank lost, nothing
+classified, no folio opened, no second refusal or review from Ines, no ages, no system panel, no
+emphasis of any kind, no Channel, no routing.
+
+**The live visitors' book advances once**, at Ch 132, from ninety-four at Ch 113: **a hundred and six in
+all, thirty-eight asking about a person, and sixteen of the thirty-eight asking about somebody in the
+household.** The Office's exhibit sheet stays at eighty-nine / twenty-nine / thirteen and will read those
+on the 29th. **The two sets are never merged and no bridge is owed** — the growth is shown by Marguerite
+reading the live book aloud, which is what she has done every week since the first. Two callers still have
+no names. One buff square named (Nell Ardery), two unnamed and unentered.
+
+### What this batch must NOT open (restating, for the next writer)
+
+Second folio · Ines's second refusal or her review, resolved (V3-4) · B103 in any form · Ding's chest ·
+May clipboard · rota word · September's outcome · Marguerite's terms (down, unsigned, out of force, and
+they cannot come back into force) · Bernt · Church of the Quiet Number · Rhee · Saskia Verhoeven as a
+character · Alma Quayle as an opponent · Anouk Ferreira · Council of Nine by name · Isolde Marchetti ·
+anything after Volume 8. **Do not close:** Sun's refusal (advanced at 131, closed at 149) · Runa's hearing
+· Ines's review · the notebook's refused signature. **Do not restate, name or collect on the 103
+courtesy.** Do not resolve the two ninth chairs. Do not link the classification paper's 19th of last
+month with the notice's drafted-19th.
+
+**The reversal is spent.** Three uses in Volume 3 (127, 128, 130). **Batch 0004 uses it ZERO times.**
+No chapter in 131–140 states, re-derives, jokes about, or collects on the instrument's rule, and no
+character who did not read the file says anything resembling it. **Adeyemi does not learn it before 143.
+Sarn is never told it.** The fourth use, if it is ever used, belongs after 133 and nowhere in this batch.
+
+**The `nobody <verb>` family: rationed to one across the batch.** Batch 0003 ends with exactly one.
+Batch 0004 uses zero in narration and, if it is used at all, one in a character's own mouth with work to
+do. The Batch 0004 close record states which, if any.
+
+## Volume 3, Batch 0004 — CLOSE RECORD (writing pass). Ten chapters written, read against the page.
+
+**Drafted against the PROPOSED CANON block above. Changes from the proposal: nothing in the day map,
+nothing in the countdown series and nothing in the mechanics was altered. Three drafting decisions are
+recorded below because they were not in the proposal and a later phase must not read them back out of the
+proposal. The seven-point restatement rule was held absolutely: **the reversal is used ZERO times in
+131–140**, which leaves the fourth and final permitted use available to Batch 0005, and it is not restated
+after Chapter 133 anywhere, in any register, including in a joke.**
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+| Chapter | Figure | Line's figure | Anchor | Subtraction |
+| --- | --- | --- | --- | --- |
+| 131 | twenty-four days | 24 | the 5th of M+3, the hall printed for the 29th of M+3 (Ch 101/103) | 29 − 5 = 24. **The two numbers are in the same month for the first time in the volume and the chapter says so.** |
+| 132 | twenty-three days | 23 | the 6th | 29 − 6 = 23 |
+| 133 | twenty-two days | 22 | the 7th | 29 − 7 = 22 |
+| 134 | twenty-one days | 21 | the 8th, Thursday, the Board repaints | 29 − 8 = 21 |
+| 135 | twenty days | 20 | the 9th | 29 − 9 = 20 |
+| 136 | nineteen days | 19 | the 10th | 29 − 10 = 19 |
+| 137 | eighteen days | 18 | the 11th | 29 − 11 = 18 |
+| 138 | seventeen days | 17 | the 12th | 29 − 12 = 17 |
+| 139 | sixteen days | 16 | the 13th | 29 − 13 = 16 |
+| 140 | fifteen days | 15 | the 14th | 29 − 14 = 15 |
+| 131 | "twenty-four days off," said to a clerk at a sink | 24 | the 5th | 29 − 5 = 24. **The first pass had "twenty-nine days off" here, which is the hall's date and not an interval, and it was wrong; it was caught by subtraction and corrected.** |
+| 133 | the twenty-eighth of last month, a plate off a sill | — | Ch 128, the 28th of M+2 | the chapter's own date and the chapter's own act, both on the page; **the first pass said the twenty-ninth, which is neither date in the batch, and was corrected to the twenty-eighth** |
+| 134 | "thinking about that since the twenty-seventh" | 27 | Ch 127, the 27th of M+2, when the run went on his file | not a subtraction; a back-reference to a printed date |
+| 134 | four minutes, the cost of telling the Office a document is wrong | 4 | — | **a character estimating how long an office takes to act. No date is attached and nothing is asserted about an interval on the spine.** |
+| 135 | three hundred and eleven sentences, four months of copying | 311 | from the 1st of M+3 (where the notebook was opened) to the 9th | **a figure Ola Bright states about her own book. It is not converted to a day count on the page and no date is printed on the cover.** |
+| 135 | nine days of not putting four things in the book | 9 | the notice reached four people on the 8th (Ch 134, the 8th) | 9th less the 8th is one day of his knowing; the nine days are hers, counted from when she first heard, which is the 30th of M+2 or thereabouts. **This figure is NOT traced to a printed date and is flagged: the chapter never prints a date for when she first heard, and a later phase must not add one without deciding to.** |
+| 136 | seven minutes, four hundred and twenty seconds, item five | 7 min / 420 s | — | 41 names read at a clerk's pace. **420 seconds is exactly seven minutes and both figures are printed, so the pair reconciles internally. Neither is subtracted from a date; this is a duration of speech, not of the calendar.** |
+| 136 | the letter takes eleven days | 11 | — | **the Office's own written-request rule, stated by Tove Marlin about a procedure, and it is explicitly NOT the letter that reached Nadia's service — the chapter says so in a line of its own, because the letter that got to her arrived in eight days by a route nobody wrote down. The eleven days is therefore a prediction Tove makes and the page corrects, not a contradiction.** |
+| 137 | "a month before my hearing" | ~30 | the hearing is twelve days after the 29th (Runa's own statement, Ch 137) | 29th + 12 = the 11th of the next month; from the 11th of this month that is about a month. **Not printed as a subtraction and the hearing's date is never given, per the thread rule.** |
+| 138 | five years of a district's cold minutes | 5 | "a year of them and the four before that," in her own words, Ch 138 | 1 + 4 = 5. **The first pass said nine years in three places, which is her service, not her book, and was wrong; all three were corrected.** |
+| 138 | six days she had held it without a condition | 6 | the 28th of M+2 (the condition died, Ch 128) to the 12th of M+3 | 3 days left in M+2 + 12 = 15, **not six. The figure is hers, spoken as an estimate, and it does not reconcile with the spine. FLAGGED: a later phase must either drop it or make it reconcile. It is left standing because she is a woman counting her own days in a cab at half past eleven at night and the chapter does not present it as arithmetic.** |
+| 139 | eight days since the first true sentence about the plan | 8 | the 5th of M+3 (Ch 131, the argument) to the 13th | 13 − 5 = 8. **Correct in the first pass by accident and checked by subtraction here.** |
+| 139 | "since the seventh and he had waited six days" | 7 / 6 | the 7th (Ch 133, the list of acts) to the 13th | 13 − 7 = 6 |
+| 140 | nineteen people in the hall | 19 | — | a headcount Tove Marlin made. **No date.** |
+| 140 | fifteen days early, not putting a doctor in a chair | 15 | the 14th to the 29th | 29 − 14 = 15. **The first pass said nine days early, which is 29 − 20 and belongs to no date in the batch; caught by subtraction and corrected.** |
+
+**Three of the traces above record a figure the first pass got wrong and the correction caught:
+131's "twenty-nine days off", 133's "twenty-ninth of last month", 138's "nine years", 140's
+"nine days early", 136's "eleven minutes" against 420 seconds. All five were arithmetic failures
+of exactly the kind Gate A exists for, and none of them was visible to any other gate in the suite.**
+
+**Two figures are NOT traced and are flagged rather than argued for:** 135's "nine days" of Ola
+Bright's silence, and 138's "six days" of Beatrix Halm's carrying, which does not reconcile with the
+spine and is a woman's own count spoken at midnight. **A later phase must not build on either.**
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-03.md` §12
+
+131 the 5th · 132 the 6th · 133 the 7th · **134 the 8th (Thursday, the Board repaints)** · 135 the 9th ·
+136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th. M+3 is thirty-one days with
+its 1st a Thursday and its Thursdays on the **1st, 8th, 15th, 22nd and 29th**; the 8th is the batch's only
+Thursday and it is a Thursday **because a man goes up a ladder**, which is how a date in this book is a
+Thursday. **The 15th is Batch 0005's. The batch's own span does not touch the 15th and no chapter
+anticipates it.**
+
+**No weekday name appears anywhere in Chapters 131–140 except one, in Ch 134, and it is Thursday on the
+8th, attached to the repaint. Checked by eye over every instance rather than by a gate, because the
+Batch 0002 review established that a weekday-name gate cannot see a weekday attached to a date that is
+not one. No named day of the week appears in any other chapter, and none is attached to a lived day
+either — the batch declined the precedent available to it.**
+
+**No chapter in 131–140 prints a day-count of the household notebook**, because counting it forward
+requires the length of M−1, which D4 does not settle. **No chapter prints the length of M+2 or M+3 in
+any character's mouth.**
+
+### Gates run, and what they do not tell you
+
+```
+ls chapters/volume-03/                                       → 40
+grep -h '^# ' chapters/volume-03/chapter-01*.md              → 40 titles, all from the volume bank, verbatim, no duplicates
+wc -w, per chapter                                           → 2674 / 2705 / 1901 / 2665 / 2171 / 1897 / 2398 / 1925 / 2256 / 2877
+grep -cE '^\s*(---|\*\*\*|___|—)\s*$'                        → 0 on all ten
+grep -cE '^\s*>'                                            → 0 on all ten
+grep -onE '\*\*[^*]+\*\*|_[^_]+_'                            → 0 (no bold, no italic, no emphasis of any kind)
+grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b' → 0
+grep -nE '^\s*\[.+\]\s*$'                                    → 0 (no system panel anywhere in the batch)
+grep -inE 'years old|\baged [0-9]|…'                         → 0 on 131–140
+grep -inE 'this volume|this book|the reader|\bchapters?\b|\bvolume\b|fifty chapters' → 1 hit in 131–140 and it was a real defect: Ch 132's closing said "the rest of this volume until the hall," which is meta-language. **Corrected on the page to "the rest of this month until the hall."** (The two other hits the grep returns are in 0135 and are the word "book" meaning a physical exercise book, which is legitimate.)
+grep -inE 'there is no form|…|record remained|nobody thanked|nobody asked|nobody knew' → **0 across 131–140.** The single hit the batch grep returns is in Ch 130, a Batch 0003 chapter, and is not this batch's.
+grep -inE '\bnobody\b|\bno one\b|\bno-one\b' on 131–140      → **1 across all ten** — Ch 140, in Tove Marlin's mouth ("Nobody names anybody in a document"), which is the single instance the prompt allows, in a character's own mouth, doing characterisation work: it is the reason a clerk cannot do what he has just asked her to do, and it is the beat on which the chapter turns. **The first pass ran the family thirty-nine times across eight chapters. Every instance was rewritten to a positive form — "not one person", "not one of them", "the room was empty", "it is attached to no person at all" — until one remained.**
+grep -inE '(six|seven|eight|nine|ten|eleven|twelve) (women|people|chairs|men|notebooks|lines)' → read every hit by eye. **The household is SEVEN women, six of them keep the notebook, one is on the landing. Every hit is correct:** Ch 132 prices seven women and says six keep the book; Ch 140 has six named at a table plus a serving officer in a corridor and one on a landing; Ch 139's "eleven people" is a forecourt and Ch 136's "nine other people" is a shift, neither of which is a household.
+awk paragraph gate (RS="")                                    → **0 paragraphs over 90 words; none over 120, in all ten.** Every one was split in drafting and eleven were split again after the first gate run.
+duplication gate (adjacent-identical paragraphs; any sentence ≥8 words appearing twice in one chapter) → 0
+```
+
+**The duplication gate found nothing. It has now run on three batches of this repository's prose and it
+does not tell me the sentences are varied; it tells me none was printed twice. The word counts certify
+nothing about the prose. This record is not a review of the prose**, and the batch's own claim that the
+`nobody` family runs once was verified by an independent count and not by the drafting pass's memory.
+
+**Named length exceptions, as the prompt requires.**
+
+- **Ch 132 runs 2,705 words against the 1,800–2,700 band**, five words over. Reason: it is a priced
+  argument between two women who disagree about the arithmetic of a household, and the disagreement
+  cannot be paid without Marguerite's four lines on the pad and Ines's correction of them. Trimming five
+  words would have removed a beat; the band is a guide and the reason is named here.
+- **Ch 140 runs 2,877 words against the same band.** Reason: it carries three separate closures in one
+  morning — the roll read to the people it is about, the four names on the listening seats, and the
+  irreversible decision with the price of it stated by the woman who makes him pay it. It is the batch's
+  hinge into Batch 0005 and it cannot be cut without losing the decision's cost. **It was trimmed twice
+  and both trims cost the reading's texture rather than its length.**
+- **The remaining eight sit inside the band with no exception required.**
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** Ola Bright's book — three hundred and eleven sentences in six months of copying, eleven of
+  them hers, and now the four acts copied onto its inside cover · the Certification desk's four-line
+  note that a member who states an intention in advance has had the opportunity to prepare the room
+  (a lie, and it is in the file with a number on it) · the fourth services' letter and Nadia Ferrous's
+  written answer at a change of shift · Runa Sato's hearing on **the twelfth day after the 29th** and the
+  three things she is not allowed, of which the third one is him · the district's cold minutes in
+  exercise book form, given with no condition · the announcement itself, in Tove Marlin's day book,
+  dated the 14th, naming four holders.
+- **Advanced:** Sun Meiling (the landing, not present, and her line about the price being hers to
+  decide — **advanced, not closed, and she does not come down**) · Beatrix Halm (the broken price named
+  out loud for the first time in four months, unpaid, uncollected, unforgiven, and the September given
+  away on purpose) · Wren Kallo (a bench paper dated the 8th, signed, in the file, and the four-line note
+  against it) · Tove Marlin (her apology cashed three times and refused twice) · the visitors' book
+  (a hundred and six live against the Office's eighty-nine, read aloud in a hall at 140).
+- **Left open:** Sun's refusal · Runa's hearing · Ines's review · the notebook's refused signature ·
+  the 103 courtesy, carried and unspent · Marta Vey's name in the record · the nine rubbed-out sentences
+  · the two ninth chairs · the clerk's note that is a lie.
+- **Untouched:** everything in the continuity block's NOT-opened list.
+
+### Three drafting decisions not in the proposal, recorded here so no later phase misreads them
+
+1. **Nobody is at the rail on the 29th, and that is the household's own decision, made on the 6th.** Ines
+   Duarte states it in Ch 132 and none of the six women says otherwise afterwards. **A batch that puts
+   one of them at the rail has reversed a decision the page made for it.** The roll is read to the
+   people it is about on the 14th, which is a different thing and is not a reversal.
+2. **Ola Bright will hand the four hours back on the 14th** (Ch 135), and the next phase either pays
+   that or says on the page why it was not paid. She also states she will make him stand in front of the
+   six and tell them she has been holding them.
+3. **Ines is not at the household table on the 6th.** Ch 132 has her arrive late and leave, and her
+   sentence that she has not been at that table since the twenty-seventh of last month is the chapter's
+   only claim about her presence in this batch. **She does not keep the notebook's sixth line in this
+   batch and no chapter says she does.**
+
 ## Volume 3, Batch 0003 — REPAIR PASS (review findings applied)
 
 **The reviewer's four blockers, five should-fix items and five minor items are applied. Prose that was

@@ -1,5 +1,173 @@
 # Continuity
 
+# Volume 3, Batch 0004 — CLOSED (Chapters 131–140)
+
+**Ten chapters written against `outline/volume-03.md` escalation step 4 (The Choice), entered early, on
+the 5th to the 14th of M+3, one chapter a day. Proposed canon was registered in
+`state/open-threads.md` BEFORE Chapter 131 was drafted; that block is the newest and governs every Volume
+3 block below it on every point it touches. Full gate output, the Gate A interval trace and the Gate B
+subtraction are in `state/open-threads.md` in this batch's close record. **This block supersedes every
+Volume 3 block below it on every point it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0004 is the 5th to the 14th of M+3**, one chapter a day: 131 the 5th · 132 the 6th ·
+  133 the 7th · **134 the 8th, the batch's only Thursday, and it is a Thursday because the Board
+  repaints** · 135 the 9th · 136 the 10th · 137 the 11th · 138 the 12th · 139 the 13th · 140 the 14th.
+  M+3 is thirty-one days, its 1st a Thursday, its Thursdays **1/8/15/22/29**; the Reading is Thursday
+  the 29th of M+3. **The 15th is Batch 0005's and no chapter in this batch anticipates it.** The 31st of
+  M+2 and the 1st–4th of M+3 went by before the batch, five days, one of them a Thursday, and the 1st is
+  never named as one because no instrument acts on it here.
+- **Countdowns, elapsed, each anchored to the chapter's own date and the printed 29th of M+3, which is
+  this month:** 131 twenty-four · 132 twenty-three · 133 twenty-two · 134 twenty-one · 135 twenty ·
+  136 nineteen · 137 eighteen · 138 seventeen · 139 sixteen · 140 fifteen. **Every countdown is printed
+  with its subtraction.** The chapter says, and the chapter is right, that this is the first time in the
+  volume that the hall and the countdown have been in the same month.
+- **Thursday is the only weekday name in the batch** and it appears in Ch 134 alone, attached to the
+  repaint. Checked by eye, not by a gate.
+- **No day-count of the household notebook is printed anywhere in 131–140**, because counting it forward
+  requires the length of M−1, which D4 does not settle. D4/D3 inherited, flagged, untouched.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE ANNOUNCEMENT, IN THREE STAGES, AND EACH STAGE COST SOMETHING.** (131) He works out that a
+  reading he cannot control is a reading of ninety chances and that the only fix is to say it in advance,
+  and six women tell him that the sentence is about his hands and that it publishes the shape of him.
+  (134) He tells Wren Kallo in the workroom, because a party is entitled to know what the party intends
+  and because she asked to be a party rather than discover it as a stranger. **She writes it on bench
+  paper, dates it, signs it and puts it into the file through Cressida.** (140) He asks Tove Marlin to
+  enter it in her own day book as a clerk's record, and **she asks the question that makes it
+  irreversible: who is going to hold it.** He names **Nadia Ferrous, Ola Bright, Beatrix Halm and her.**
+- **THE FOUR HOURS, STATED, at 140, in Tove Marlin's words:** ten until two on the 29th; no person
+  touched; nothing moved on any person; said in advance so that no person in the room is put in a position
+  of reaching him. **It cannot be withdrawn by the person it names. He has given away the right to
+  change his mind at ten past ten with a glass of water, and in exchange four people have each separately
+  agreed to a sentence.**
+- **THE HOUSEHOLD'S OWN DECISION (132): nobody is at the rail on the 29th.** Stated by Ines Duarte and
+  unchallenged. It is made because seven women in a room where one man may not touch anybody is a
+  negative value, and because six women who have every reason to reach for him standing in a room where
+  reaching is the only thing provable against him is worse than their absence. **A later batch that puts
+  one of them at the rail has reversed a decision the page made for it.**
+- **MARGARITE'S PRICE (132), in her own broker's method, and it is not money.** Seven women in that room
+  is a negative value. Six is worse. A house that stays at home is worth what it has always been worth.
+  **The only thing in the house with any value is the seventh woman who is not in it and will not come
+  down.** The price is not presented until the 14th, and by 140 it has been presented in a different form.
+- **THE LIST OF ACTS (133).** He begins a second book, kept at the table and not in the drawer. He writes
+  four true acts before seven o'clock and cannot date most of what he writes; a fifth is the hand he took
+  back from four inches of a plate. Ines separates them on the page: two are witnessed and scored into a
+  branch aggregate, the tap is nothing because the plumbers never came, **and the woman on the step is
+  the only one on that sheet that has never been in any document in this city and he does not know her
+  name.** The list lives on a shelf above a sink. It stays on the page through 133, 135, 138 and 140.
+- **THE DESK'S FOUR-LINE NOTE (134).** A member who states an intention in advance has had the
+  opportunity to prepare the room and to prepare the persons in it. **It is a lie, it is in the file
+  with a number on it, it cannot be withdrawn by the person it names, and it is the only document in the
+  proceeding about a thing that did not happen.** Tove Marlin names it as a lie on the page.
+- **OLA BRIGHT'S BOOK (135), and it is not a register.** Three hundred and eleven sentences in six
+  months, every one copied without being asked, eleven of them hers, and not one person has ever asked
+  her for a page. **He asks her to hold the four hours. She says yes in about four seconds, writes them,
+  and does not give the page back: it comes back on the 14th or not at all.** She has also copied the four
+  acts onto the inside cover, dated separately, with two hundred pages of nothing in front of them.
+- **THE FORTY-ONE NAMES, READ ALOUD TWICE BEFORE THE DAY.** At 136, in the parties' room on the third
+  floor, with a clerk in it, at about seven minutes and four hundred and twenty seconds, and **Tove
+  Marlin apologises for the room first and then reads them anyway.** At 140, in the hall, with nineteen
+  people in it, and she does not apologise for them at all — it is a notice, and a notice is worth more
+  to Nadia Ferrous than an apology would be, because an apology is about the clerk. **Nadia Ferrous is
+  told at the sill on the 10th that the consequence has arrived: a letter to her service, asked at a
+  change of shift with nine other operators in the cab, and her answer in her own hand on the service's
+  file, which goes to the Exchange counter on Fridays.**
+- **RUNA SATO'S THREE REFUSALS (137), and none of them is his to overrule.** She is not in the room
+  because a serving officer present during the reading of her own minute would be a party conversing with
+  the clerk; she is in the corridor and she has been there since twenty to nine. She is not allowed an
+  objection, because one from her would be a document about Field. **And she is not allowed to be told,
+  and that is him.** **Her hearing is the twelfth day after the 29th. The date is not printed and the
+  hearing is not this volume's hearing and it is not resolved.**
+- **THE PRICE OF SIX (137), which he learns standing in an empty hall.** On the 29th the minute is read
+  and stops where a seventh name would have been, and the hearing officer will not know why, and the
+  Office will not know why, and he will know why and will not be able to say one word, because saying it
+  discloses a Field demand that is not his. **That is what six cost him.**
+- **SEPTEMBER (138).** The ninth of September is a real request, made twice a year, for a year of her
+  handwriting on a map. She tells him what it is and gives him the whole book — a year and the four
+  before it, five years — **with no condition on it**, because the condition died on the 28th of last
+  month and a thing with no condition is a thing he has to ask for. **The price to her: on the ninth she
+  will have to say it is gone, to a man with a form, in a way that makes her look careless instead of
+  principled.** The broken price from the square in the winter is unpaid, uncollected and unforgiven and
+  is named out loud for the first time in four months. **September's outcome is not resolved.**
+- **THE PUBLIC GOOD DEED AND ITS PRICE (139), and the price is named in the chapter.** He carries a
+  bundle up a flight of stairs for a woman outside the Fourth Branch on the 13th, on purpose, having
+  worked out on the Sunday that a man who intends to announce four hours of not touching anybody has to
+  be a man who has been seen not touching anybody for weeks, in public, for nothing. **Eleven people
+  watch; Anneke Roos writes it in the branch register without asking why.** A witnessed deed is a
+  recorded deed and a recorded deed does not come to him: **the grey comes at one temple a second and a
+  half behind it and he does not sleep.** The notice makes the hall bigger and the roll gets read to a
+  bigger room, and **the forty-one names are read to two hundred and eleven people instead of thirty, and
+  there is no line in any document in this city that says Nadia Ferrous chose that.** **He is never
+  unlooked-at again.**
+- **THREE READINGS OF THE ROLL AND NONE OF THEM IS COMFORTABLE.** (136) item five, parties' room, clerk in
+  it, apology first and names anyway. (137) item one, the Cobb Street hall, empty, a third chair square
+  to the door, **Tove Marlin reads six lines at a quarter speed and says nothing for four seconds where a
+  seventh name would have been, and does not apologise at all.** (140) the whole roll, the hall, nineteen
+  people, **the people it is about.** She begins to apologise and stops herself four words in, because
+  there are nineteen people in front of her who came to be told what a document says, and she says it at
+  the end, out loud, to the empty part of the room behind the bench. **Nobody in the building apologises
+  in any of the three.**
+- **THE REVERSAL IS SPENT AND THIS BATCH SPENDS NONE OF IT.** Three uses in Volume 3 (127, 128, 130).
+  **Batch 0004 uses it zero times.** No chapter in 131–140 states, re-derives, jokes about or collects on
+  the instrument's rule; nobody in it says anything resembling it; **Adeyemi does not learn it and is not
+  in the batch; Sarn is never told it.** The fourth and final permitted use is available to Batch 0005
+  and may be used after 133 only.
+- **THE 103 COURTESY IS NOT RESTATED, NAMED OR COLLECTED ON** anywhere in 131–140. It pays at 143.
+
+## Figures, fixed on the page
+
+- **No chapter prints a new ledger figure.** Ledger 112 lines, eight turned, one reading himself. **No
+  draw is spent in any of the ten chapters, on anybody, including himself.** No grain scored, no rank
+  earned, no rank lost, nothing classified, no folio opened, no system panel, no second refusal or
+  review from Ines, no ages, no Channel, no routing.
+- **Plate 8,138 against a floor of 8,141, tolerance three, 11,862 under band six — printed as words
+  once, in Ch 139, and nowhere else in the batch.** Band six remains seated on the Review instrument,
+  suspended pending description; it lifts at 147 and nowhere before.
+- **THE VISITORS' BOOK ADVANCES ONCE (132).** The live book, read aloud by Marguerite Vale at her own
+  table, is **a hundred and six in all, thirty-eight asking about a person, and sixteen of the
+  thirty-eight asking about somebody in the household.** The Office's exhibit sheet stays at
+  **eighty-nine / twenty-nine / thirteen** and will read those figures in the hall on the 29th, and the
+  gap is stated on the page by the woman who keeps the book. **The two sets are never merged.** Two
+  callers still have no names and have never come back. One buff square named (Nell Ardery), two
+  unnamed and unentered.
+- **THE EXERCISE BOOK IS FIVE YEARS**, not nine: a year of the district's cold minutes and the four
+  before it. Nine years is Beatrix Halm's service and the two are not the same figure.
+- **THE THIRD FLOOR OF THE READING, Ch 137:** nine grey boxes on the eight-foot table, box four shut and
+  wearing the objection on a string, the ninth chair square to a door in the corridor with Sabine Rooke.
+  **The sub-level corridor on the second sub-level still has no chairs in it and no chapter puts one
+  back.** The two ninth chairs are still unresolved and must stay so.
+
+## What this batch did NOT open
+
+Second folio · classification entered · the word *Channel* and routing, in any form · Ines's second
+refusal or her review (she speaks four times in this batch and none of them is either) · B103 in any form ·
+Ding's chest · May clipboard · rota word · September's outcome · Marguerite's terms beyond staying down and
+unsigned · Bernt · Church of the Quiet Number · Rhee · Saskia Verhoeven as a character · Alma Quayle as an
+opponent · Anouk Ferreira · Council of Nine by name · Isolde Marchetti · anything after Volume 8.
+**No rank moved, no grain scored, no draw spent, nothing classified, no folio opened.**
+
+## What this batch did NOT close
+
+Sun's refusal (advanced, on a landing, and she does not come down) · Runa's hearing · Ines's review · the
+notebook's refused signature · the corridor's ninety rubbed-out sentences · Marta Vey's name in the record ·
+the two ninth chairs · the desk's four-line note · Ola Bright's page, which comes back on the 15th.
+
+## Endings and temperature
+
+131 a sentence he could not say at a table and said to a clerk at a sink · 132 a price, and the price is
+that the only thing in the house worth having is the part that will not be spent · 133 four true sentences
+and an inability to date most of his own life · 134 a document he cannot un-file, and a woman who signed
+it because she could not keep it · 135 four seconds of yes and then nine days of no · 136 seven minutes
+and a car at a change of shift · 137 an empty hall and a door and a fourth silence · 138 midnight in the
+rain and the worst thing she has ever done, said out loud · 139 a box up a flight of stairs, a grey
+temple, and eleven new faces at a counter by Wednesday · 140 a trade where both sides are true. Emotion
+varies across the ten: bafflement, a professional argument between two women who are both right,
+depression, dread, a kind of bleak amusement, shame paid by somebody else, a cold corridor, anger without
+heat, self-loathing named by a woman who is not in the room, and a lightness that is not relief.
+
 # Volume 3, Batch 0003 — REPAIR PASS (review findings applied, Chapters 121–130)
 
 **A reviewer ran the batch against its prompt, the prior batch and `AGENTS.md`, and found four

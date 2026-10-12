@@ -1,6 +1,57 @@
 # Current State
 
-**Last written:** **Volume 3, Batch 0003 — Chapters 121–130 written (The Live Column, first ten).**
+**Last written:** **Volume 3, Batch 0004 — Chapters 131–140 written (The Choice opens).**
+Ten chapters: the argument at a table that is about him and not about the Office; a broker pricing the
+household and finding it worth less than nothing; the beginning of a list of his own acts and the discovery
+that he cannot date most of them; a builder who signs a statement instead of keeping it and the lie that
+lands in the file beside it; a woman who copies everything, three hundred and eleven sentences, and four
+seconds of yes followed by nine days of no; forty-one names read aloud twice, and what happens to the
+woman who handed the page over; a serving officer in a corridor who is not allowed three things and the
+third of them is him; the ninth of September given away with no condition on it and a broken price that is
+unpaid, uncollected and unforgiven; a good deed done in the open at his own gate whose price is paid by
+somebody else; and Tove Marlin reading the whole roll to the people it is about before asking the question
+that makes it irreversible.
+
+**THE IRREVERSIBLE DECISION FOR THIS BATCH IS CH 140: the four hours become shared.** He asks a clerk to
+enter, in her own day book and in her own hand, that he will be in that hall from ten until two on the
+29th, that he will touch no person in it, that he will move nothing on any person in it, and that he is
+saying so in advance so that nobody at the rail is reached for. She asks who is going to hold it. He names
+three women and her. **It cannot be withdrawn by the person it names, and the last private thing he had —
+the right to change his mind — is gone.**
+
+**THE REVERSAL WAS USED ZERO TIMES IN THIS BATCH.** Three uses stand in Volume 3 (127, 128, 130). The
+fourth and final permitted use is available to Batch 0005 and is barred before Chapter 133, which is
+behind us.
+
+**Position:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Band six seated on
+the Review instrument, suspended pending description — not lost; suspension lifts at 147 and nowhere
+before. Ledger 112 lines, eight turned, one reading himself; **no draw spent in ten chapters on anybody,
+including himself**; no system panel in ten chapters; no grain scored, no rank moved. File 4,112, one
+folio open, no second. Classification paper dated the 19th of last month, unsigned and untouched by this
+batch. Household seven women, six keeping the notebook, his signature refused; Sun on the landing.
+
+**In the story:** **the 14th of the month, fifteen days out.** The announcement is in a clerk's day book
+with four names on it. A builder's signed statement is in a bench file in the Exchange building beside a
+four-line note that says he prepared the room, which is a lie. A broker's price for the household has been
+handed over without anyone asking for it and the invoice has not arrived. A book of three hundred and
+eleven sentences is under the stairs and a woman is holding a sheet of ruled paper that comes back today.
+Nadia Ferrous's forty-one names have been read out loud twice and will be read out loud a third time in
+front of a hall, and there is no line in any document in this city that says she chose that. The next
+question is Batch 0005's: **Ines's scene at 141, on the 15th.**
+
+**Next phase to run:** **Volume 3, Batch 0005 — Chapters 141–150 (The Room: 141 What She Will Not Read ·
+142 What He Tells Them First · 143 The Hall Fills · 144 Nine Minutes Before · 145 He Gives It Away In
+Public · 146 The Ninth Is Himself · 147 What Goes In The Sixth Space · 148 A Description In His Own Hand ·
+149 The Woman Who Is Not On The List · 150 The Board Repaints).** Prompt at
+`workspace/volume-03/batch-0005/PROMPT.md`. **The 103 courtesy is carried and unspent and pays at 143.
+Adeyemi does not learn the instrument's rule before 143. The band comes off suspension at 147 and nowhere
+before. The ninth turned line is 146 and is never refunded. Sun's refusal closes at 149 and not before.**
+The sixth space in Anneke Roos's fourth book carries Sarn's paragraph and is where his own sentence goes
+at 147, underneath a strike-through. Ines's review is open and must not be resolved.
+
+**PREVIOUS HEAD RECORD — Volume 3, Batch 0003 — REPAIR PASS (Chapters 121–130), retained below unchanged.**
+
+**Volume 3, Batch 0003 (Chapters 121–130), retained below unchanged.**
 Ten chapters: Adeyemi's rule stated in force and the lever it hands him; Sabine Rooke asked a third
 time and starting; the classified corridor, once, and what is under the cloth — fifty blank forms and
 nine sentences rubbed out; the Certification desk's four-year-old certified run on a stranger with six
