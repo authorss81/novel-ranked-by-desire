@@ -1,5 +1,205 @@
 # Open Threads
 
+## Volume 3 PLANNED — `outline/volume-03.md` exists. PROPOSED CANON, registered before any Volume 3 chapter is written.
+
+**Written by the Volume 3 planning phase, which wrote no prose.** It read Chapter 100, the *Volume 2 closed*
+block of `state/continuity.md`, and `reviews/volume-02/volume-close.md` in full, and produced
+`outline/volume-03.md` and `outline/batches/volume-03-batch-0001.md`. **Batch 0005 was the first batch in
+this repository to register its proposed canon before drafting and this is that discipline applied one
+level earlier, to a planning phase.** Everything below is a proposal. The prose is the canon. If Batch 0001
+rejects a proposal, record the rejection here rather than dropping it quietly — Batch 0004 registered late
+and the repair pass had to find the drift.
+
+**The volume sentence, in the required form:**
+
+> In this volume, **Lin Hao must survive being measured in public and keep his ledger**, or **a public
+> reading of him becomes a public reading of everyone who ever fed it**.
+
+### D4 — a NEW calendar defect, found while deriving Volume 3's spine. FLAGGED, NOT REPAIRED.
+
+**The Volume 2 close audit's Thursday table lists M−1's Thursdays as the 6th, 13th, 20th and 27th. Those
+cannot all be Thursdays, and the table is internally inconsistent with the rest of its own spine.**
+
+The arithmetic, shown:
+
+- **M's 1st is a Tuesday.** Six independent places, two of them consecutive chapters that each name their
+  own date in their own first paragraph (Ch 79, Ch 80, Ch 81), plus Ch 70's *"the twenty-fourth and the
+  thirty-first"* and Ch 87's enumerated series *the third, the tenth, the seventeenth, the twenty-fourth,
+  the thirty-first, and the seventh of the new month*. M's Thursdays are **3, 10, 17, 24, 31**.
+- **M−1 is thirty days.** Proved twice by cross-boundary intervals: Ch 59 (the Review, 13th of M−1, to the
+  25th of M = 42 days = (30 − 13) + 25) and Ch 77 (*seventeen days to the end of that month*).
+- **Therefore M−1's 1st is a Sunday** — thirty days before a Tuesday is a Sunday.
+- **A month of thirty days whose 1st is a Sunday has Thursdays on the 5th, 12th, 19th and 26th.** Not the
+  6th, 13th, 20th and 27th.
+- **And the strip series the page itself prints is the 13th, 20th and 27th of M−1.** Ch 80 calls the 31st
+  of M the *"fifth Thursday running"*; Ch 87 enumerates the series; Ch 100 puts the eighth strip on the 21st
+  of M+1 and the ninth on the 28th. **The gap from the 27th of M−1 to the 3rd of M is six days.** Two
+  consecutive Thursdays cannot be six days apart.
+- **The Review is therefore a Friday on the consistent reading, not a Thursday** — and Ch 57 and Ch 60
+  repeatedly say *what happened to me on Thursday* about it, and the audit's R1 block certifies the Review
+  as a Thursday precisely because those sentences exist.
+
+**What this is and is not.** It touches **no date in Volume 3**. Everything Volume 3 uses — M's Tuesdays and
+Thursdays, M+1's Friday 1st and its Thursdays of the 7th, 14th, 21st and 28th — is consistent and is on the
+page. **The contradiction is entirely inside M−1 and entirely in Volume 2.**
+
+**Not repaired by this phase, and that is deliberate.** `reviews/volume-02/volume-close.md` is explicit that
+a repair derived from an inference is still a repair and still has to be checked against the dates rather
+than against a note. **This is a repair pass for a separate run.** Recorded with the arithmetic so the
+pass does not have to rediscover it, and so that nobody in the meantime builds on the wrong half.
+
+**Binding on Volume 3 until it is resolved:** no chapter may derive a date from the Review's weekday, may
+call the 13th of M−1 a Thursday, or may use the phrase *fifth Thursday running*. Chapter 105's Board
+repaint is Volume 3's **first** repaint and does not continue a count Volume 2 broke.
+
+### D3 — inherited, still unrepaired, still the first thing a repair pass should take
+
+The nine interval figures across Chapters 59, 71, 73, 74, 76, 79 and 100 that do not trace to an anchor.
+Table with the arithmetic in `reviews/volume-02/volume-close.md` §14 and above in the *Volume 2 CLOSED*
+block. **Chapter 101 derives no date from any of them and so does no other Volume 3 chapter.**
+
+### The Volume 3 calendar, proposed, and the anchor rule
+
+**M+1's length is undetermined on the page** and every prior state file that asserted a figure was wrong.
+**This plan fixes M+1 at thirty-one days and — the part that matters — requires Chapter 101 to print that
+anchor rather than leave it to subtraction.**
+
+| Month | Length | 1st falls on | Thursdays | Where |
+| --- | --- | --- | --- | --- |
+| M−1 | 30 | a Sunday | **5, 12, 19, 26** — D4, do not use | Review, Ch 51–61 |
+| M | 31 | a Tuesday | **3, 10, 17, 24, 31** | Ch 62–80 |
+| M+1 | **31 — proposed, printed at Ch 101** | a Friday | **7, 14, 21, 28** | Ch 81–100; Ch 100 is the 29th |
+| **M+2** | 31 | a **Monday** | **4, 11, 18, 25** | **Chapters 101–~130** |
+| M+3 | 31 | a **Thursday** | **1, 8, 15, 22, 29** | Chapters ~131–150; **the Reading is the 29th** |
+
+**THE READING'S DATE WAS SOLVED, NOT ASSERTED — and the first answer this phase wrote was wrong.**
+Nine weeks is sixty-three days. Chapter 100 says *"in about nine weeks you are going to stand in a public
+hall"* and *about two months*, both soft. **The sixty-third day after Chapter 100 is a Friday under every
+combination of month lengths consistent with Volume 2's printed dates** — M's 1st a Tuesday, M thirty-one
+days, M's 31st a Thursday, M+1's 1st a Friday, M+1's Thursdays 7/14/21/28, Ch 100 the 29th of M+1 a Friday.
+**A Reading on the sixty-third day therefore cannot be a Thursday in any calendar this book admits.**
+
+**The Reading is Thursday the 29th of M+3, sixty-two days after Chapter 100** — the nearest Thursday on or
+before the sixty-third day, one day inside *about nine weeks* and inside *about two months*, and on a day
+the Correction Office would in fact sit. **No later writer may "correct" this to the sixtieth day or the
+sixty-fourth, and no later planner may re-derive it without running the search again.**
+
+**This is the third time this repository has arrived at the same place: the figure a batch or a planner
+wrote first was wrong, and the error was only caught by arithmetic rather than by a gate.** D2 (the month),
+D4 (M−1's Thursdays), and this one. **An inference is not an anchor, and a plausible number is not a
+calculation.**
+
+**Anchor rule, binding.** A date in this book is a Thursday **because an instrument acts on it** — the
+Board repaints, a strip prints, a clerk attends — and never because a character says so and never because
+it was computed. Chapter 105, dated the fourth, carries the Board repainting and that is the entire of how
+the first Thursday of Volume 3 exists.
+
+### New named people proposed, with ages fixed here and never contradicted
+
+- **Ivo Sarn**, counter-forensics reporting officer, Bureau instrument certification desk. **Age 46.**
+  Rank seven, nine years in the chair. **Named at 115.** His hand is the hand three floors above Anneke
+  Roos that draws the sixth heading in her fourth book — she said on the twentieth of last month that she
+  could not describe it and that it was the design, and Volume 3 may put a name to it. **He is not a
+  villain, not a final enemy, and does not persist as an opponent past Volume 4.** `bible/characters.md`
+  should carry him when a writer next edits that file; **this phase does not edit it.**
+- **The Correction Office occupies the top floor of the Cobb Street Exchange building** and its hearing
+  room is the **Cobb Street hall** — a municipal room, a hundred and forty seated, high windows, not clean
+  and not new.
+- **Wren Kallo is named for the first time at Chapter 116 and is on the page from 118.** **Her first scene
+  is Chapter 118 and is immovable** (`bible/characters.md`, `outline/series.md` scene table).
+  **She is core and unsworn.** **No card before 115 may name her.**
+- **No age is stated in narration or dialogue for any person, named or walk-on.** Sarn's forty-six lives
+  here and in the bible and not on a page.
+
+### New mechanics proposed for Volume 3
+
+- **A hearing notice cannot be withdrawn by the person it names**, and publication on the district board
+  makes it irreversible. The question is *may a member's account remain undescribed*. A member may bring
+  one witness; the Office may bring an instrument.
+- **An exhibit roll is made of documents, not people.** The Office does not ask the household. It asks
+  about the household, and it assembles the paper.
+- **The member's own form requires a reason for remaining undescribed, and every possible answer is a
+  description.** The trap is the form itself.
+- **The Office's answer to an objection is a description, not a ruling.** Excluding a document from a roll
+  puts a description of it into the file. **New fact. It is not `there is no column for it`, which is spent
+  and is not used anywhere in this volume.**
+- **The counter-forensics instrument is a subject-movement instrument.** Its output is a counterparty
+  column, and a counterparty appears only when it is observing the subject and the subject touches a
+  person. It cannot read a backlog and it cannot be compelled to move anything. **This is not the
+  Channel.** Routing is Volume 5.
+- **A suspended band cannot be compelled *of* a thing, but a member under a proceeding can be compelled
+  *to submit to measurement*** — which is how the Cobb Street hall has him at all, and why Volume 2's
+  refusal is the reason the proceeding exists.
+
+### Volume 3's structural decisions, recorded so a later planner does not relitigate them
+
+- **Escalation:** 101–110 The Notice · 111–120 The Register · 121–133 The Live Column · 134–145 The
+  Choice · 146–150 The Room. Each closes one of his options; none is a chapter that could be lifted out
+  and dropped elsewhere.
+- **Midpoint reversal at 125–127**, proved on somebody else's paper by two numbers that do not match in a
+  stranger's four-year-old file: **the counterparty column carries six names and the subject's own file says
+  twenty-one movements.** The instrument reads a counterparty only while it is observing the subject and the
+  subject touches somebody; it cannot read a backlog because it never stored one.
+  **Seven-point restatement rule in `outline/volume-03.md` §5** — it may not be restated as *he is safe*,
+  may not be restated as *he is a door*, may not be restated as *the account is an address*, may not appear
+  after Chapter 133, may not be used by anyone who did not read the file, and a reader who missed it must be
+  able to get it from the scene alone.
+- **Climax at 145–148.** He is compelled to submit to the instrument and it reads nothing, and **he says so
+  in the room before it is run**, and then he moves it himself, three times, in the open, having announced
+  it in advance to two hundred and eleven people. **He turns: eight becomes nine, and the ninth is himself.**
+  He spends on himself for the second time in the book and says in the hall that he will never do it again,
+  which is a promise with a number on it and he has to keep it for the rest of the book.
+- **THE HARD LOCK ON A SPEND, proposed here so that no Volume 3 card ever has to re-derive it.**
+  `bible/power-system.md` rule three: it moves **only on contact with the person it came from**, and the
+  failure clause is explicit — a hand on a stranger moves nothing and costs him grey at one temple, a grey
+  night, and a night of sleep like being woken on the hour, proportional to what he was trying to move, and
+  it never improves. **He cannot relieve a room. No Volume 3 chapter may have him touch a stranger and have
+  anything happen.** The only legal movements in the Cobb Street hall are the hundred and twelve people who
+  fed him, and himself — the himself line is the one established exception, spent once in a corridor on the
+  thirteenth of last month. **Why he is the exception is B103 and stays shut.**
+- **Resolution.** No classification, no rank earned, no rank lost, plate **8,138** in all fifty chapters,
+  floor **8,141**, tolerance **three**, 11,862 under-band. **The only true description of him in Ostara is a
+  certified document saying that in four hours in a public hall, nothing left.** The inquiry closes on his
+  own words. The sixth space gets the Office's sentence and then a struck-through line and then his.
+  **He keeps all one hundred and twelve lines and no name reaches the roll, the transcript or the column —
+  and he stops being the only person in Ostara who knows them.**
+- **By the last page the secret is four people deep and Wren Kallo has told three of them.** That is fixed
+  in `bible/characters.md` and this is where it lands.
+
+### Threads Volume 3 MAY OPEN, and MUST NOT
+
+**May open and should:** the classified corridor on the second sub-level, with the cloth on a table and no
+handle on this side of it (123–124) · Anneke Roos's ruled sixth space (the Office's sentence at 120, his
+own under a strike-through at 147) · Tove Marlin seconded to the Cobb Street hall · the household
+notebook, whose exclusion from the roll is the batch's irreversible decision · Sabine Rooke and the ninth
+chair, **asked a third time at 122, which is the trigger and not before** · one of the three buff squares,
+named by somebody else on a visitors' book page at 113 · Petra Hall's berth card · the lift log's
+forty-one names, read in a hall at 136, **the consequence still Nadia's** · Wren Kallo at 116/118 ·
+Yusuf Adeyemi from 103 · B97 the classification paper **as an object other people argue about, never signed
+in this volume** · **the name of the hand three floors above Anneke Roos.**
+
+**May be advanced and must NOT be closed:** Sun Meiling's refusal of the household's protection logic,
+advanced at 113, 131 and 149 · Tessa's *mass* in a Wing file, Runa's *available* and her pending hearing,
+Sun's list — **Runa's disciplinary hearing is not resolved and is not this volume's hearing** · Ines's
+pending review (V3-4).
+
+**Must not open:** the second folio (T1 did not advance in Volume 2 and does not advance here) ·
+**Saskia Verhoeven as a character** — the *question* being put to the clerk who rules the district table
+may appear on the page in Volume 3, reported by somebody else, offstage; she may not appear, speak, be named
+in a room with him, or be written as a character (B102) · **he is not a tank, he is a door** in any
+restatement (B103) · Ding's chest beyond two sentences (T11) · the word *Channel* and routing (T4) ·
+**Rhee, closed permanently at Chapter 30** · the May clipboard · the rota word · September's outcome ·
+Marguerite's terms, declared off the table on the fourteenth and **not permitted to come back into force**
+(T6) · Bernt's absence · the thin sheet's signature · T2 · T12 · **the Church of the Quiet Number, which
+has eleven thousand members and belongs to Volume 4 at the earliest — no member of it appears and no
+Volume 3 chapter mentions it** · **Alma Quayle as an opponent, and Anouk Ferreira at all** · anything
+anticipated after Volume 8 · the account scoring a grain · a classification being entered.
+
+**Sun Meiling's refusal: the page governs over the outline.** `outline/volume-02.md` says it closes by
+Chapter 100. **It did not and Volume 3 does not close it either.**
+
+---
+
 ## Volume 2 CLOSED — the carry into Volume 3
 
 **Written by the Volume 2 close audit, which read Chapters 51–100 against `outline/volume-02.md`.

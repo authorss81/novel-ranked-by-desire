@@ -67,9 +67,21 @@ the Holding at 86–96, the Keeping at 97–100. **What he learned is that he is
 and it is a **correction and not a discovery**, said once, on the seventeenth, in two rooms on Lantern
 Row, by the only person in the city who can describe him, **who then refused to write it down.**
 
-**Next phase to run:** **Volume 3 planning** — `outline/volume-03.md` and the first batch's cards. **Not a
-batch phase. There are no Volume 3 cards and there must not be until the volume outline exists.** Prompt at
-`workspace/volume-03/volume-plan/PROMPT.md`.
+**Next phase to run:** **Volume 3, Batch 0001 — Chapters 101–110.** Prompt at
+`workspace/volume-03/batch-0001/PROMPT.md`. **The volume outline and the first batch's cards now exist.**
+`outline/volume-03.md` and `outline/batches/volume-03-batch-0001.md`. **Not a planning phase.** There are no
+chapters and there must not be until those ten are written.
+
+**VOLUME 3 IS PLANNED (this phase wrote no prose).** `outline/volume-03.md` exists and carries the
+required sentence in the required form: *In this volume, **Lin Hao must survive being measured in public
+and keep his ledger**, or **a public reading of him becomes a public reading of everyone who ever fed it***.
+Its fifty-title bank returns **zero duplicates** against the one hundred spent page titles and against the
+numbered banks of `outline/volume-01.md` and `outline/volume-02.md`, with no weekday name in any entry. Its
+scene schedule is **106, 118, 129, 141, 149**; gaps from Ch 97 are 9, 12, 11, 12, 8, 8 — no gap under eight,
+none over fourteen. **Proposed canon is registered in `state/open-threads.md` under *Volume 3 PLANNED*,
+before the chapters that carry it are written**, including **D4**, a new calendar defect found while
+deriving this volume's spine and **flagged rather than repaired** — Volume 2's Thursday table lists M−1's
+Thursdays as the 6th, 13th, 20th and 27th and that is inconsistent with everything else in its own spine.
 
 ## Volume 2 close — what is now on the page
 
