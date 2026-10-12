@@ -4,7 +4,8 @@
 
 | Volume | Title | Chapters | Goal |
 | --- | --- | --- | --- |
-| 1 | Rank Four | 1–50 | Hold rank six through the Winter Review, or the reservoir is requisitioned by the Fourth Branch. |
+| 1 | Rank Four | 1–50 | Hold rank six through the Winter Review, or the reservoir is requisitioned by the Fourth Branch. **Paid — seated on an instrument, not on merit.** |
+| 2 | *(unplanned)* | 51– | **No outline exists. Chapter 51 must not be drafted until `outline/volume-02.md` does.** Planning phase prompted at `workspace/volume-02/volume-plan/PROMPT.md`. |
 
 ## Volume 1 — Rank Four
 
@@ -348,22 +349,78 @@ the Review.
 Thursday in the sixth week. Box fourth standing first: **8,138, three down, three inside tolerance**, band
 holds through the day on the edge of it. Review room nine chairs, twenty-two called nine by nine; four
 grains down lapses a man who held five for six years, which is the proof of the three-grain tolerance.
-Query puts him in the room. Panel: provisional not carried, standing is a five. Open-question slot offered
-— one question put on the floor, public, no notice. He takes it.
+Query puts him in the room — Runa says so plainly: *without the query you would not be in it at all.*
+Panel: provisional not carried, standing is a five. Ines puts the May clipboard on the table in the
+corridor ("I have the date and the figure and I have not asked") and **neither of them touches it**.
+Open-question slot offered — one question put on the floor, public, no notice. He takes it.
 
 ### Ch 48 — One Grain of Itself
-Takes the slot. Question: what is the figure made of. Spends the account on himself, once, first time.
-True answer: doors, trays, basket 400, door 200, aggregate 3,529, shifts wherever he stands. The machine
-reads the figure against the **band line** instead of the floor. Panel: **a candidate is seated on published
-standing unless the band was struck on an instrument** — the requisition of the 19th is on the table, and a
-true answer under the open-question rule is a finding, and a finding is an instrument. **Rank six, held,
-not provisional, seated on an instrument of that room. No grain was scored and the plate still reads
-8,138.** Cost: line reading himself, three new turned (Nell Ardery, Garrick Neve, yard checker), the cab
-promise to Beatrix broken, the option of being invisible closed. Ninety-one lines, eight turned.
+Takes the slot. Question: what is the figure made of. **He spends the account on himself, once, first time
+in the book**, and the answer is true: doors, trays, basket 400, door 200, aggregate 3,529, shifts wherever
+he stands — *I did none of it, I stood in it.* The machine reads the figure against the **band line**
+instead of the floor. Panel: **a candidate is seated on published standing unless the band was struck on an
+instrument** — the requisition of the 19th is on the table, and a true answer under the open-question rule is
+a finding, and a finding is an instrument. **Rank six, held, not provisional, seated on an instrument of that
+room. No grain was scored and the plate still reads 8,138.** Cost, all four on the page: a line reading
+himself, three new turned (Nell Ardery, Garrick Neve, yard checker), the cab promise to Beatrix broken and
+unmendable, and the option of being invisible closed forever. **Ninety-one lines, eight turned.**
 [Ledger. Ninety-one lines. Eight turned. One line reads himself.]
+Ola reads the finding aloud to twenty people from the landing rail. Tessa charts all three new colds herself
+and sits looking at her own arms. Ines stands in the back row with her face in her hands.
 
 ### Ch 49 — Four Thousand One Hundred and Twelve
-Finding carried. Query closed — witnessed answer is an instrument. Petitions Lin Wei file next morning: form with folio count as deposit. Index promises trolley by ten. Branch board wiped to Review date; five off by instrument. Beatrix names the broken cab promise without heat. Ines cannot decide whether to file the himself line. Ends wanting one folio by ten.
+Rank six held; the corridor board's five names gone **by instrument instead of by declaration**. Finding
+carried to the Reading Office window. **Query closed — a witnessed answer in a room is an instrument.**
+Deposits the form with the folio count (4,112) as the deposit for a sealed file. Index promises a trolley
+by ten. Beatrix names the broken cab promise without heat and says the price of it is his to carry, not
+hers to forgive in a speech. Nadia says do not spend her and rings the bell up one floor. **Ines: "I am not
+filing it. I cannot decide whether to, which is not the same as deciding not to."** The rota word remains
+ungiven by decision. Ends wanting one folio by ten.
 
 ### Ch 50 — Held Account One
-Side room ten o’clock. Trolley, guard, seals checked twice. 4,112 folios, 4,111 sealed, one open at the back by Wing order, never called. Open folio: transfer receipt in Lin Wei’s hand, 214,000 grains on the eleventh three years ago into an account the index does not contain, signed Lin Wei; under it in Wing print: file of the receiver is Held Account One. No Held Account Zero. Copy slip pocketed. Final image: second-floor washroom, petition drying beside soap, Board nine streets away unvisited, three colds that night. Nobody has thanked him.
+Side room ten o'clock. Trolley, guard, seals checked twice, docket opened folio by folio, copy made at the
+side press and logged in the docket book with the date and his band number. **4,112 folios, 4,111 sealed,
+one open at the back by Wing order, never called.** Open folio: transfer receipt in Lin Wei's hand,
+214,000 grains on the eleventh three years ago into an account the index does not contain, signed Lin Wei;
+under it in Wing print: the file of the receiver is Held Account One. **There is no Held Account Zero** —
+the clerk asked the index that morning and got the answer the same day. He reads both lines three times
+standing up with his hands flat on either side of the paper because if he touched it he would crease it.
+Copy slip pocketed with four counterfoils. The clerk who entered his reading on the 3rd closed her query
+on a finding rather than a lapse.
+Ines in the corridor, **an auditor may stand in a corridor and no further**, the whole hour, folder closed.
+She puts it in one sentence: *he said the number was wrong in public and what he did was give it away where
+no ledger could follow it. And you are the address.* Then the fact that no Bureau has a shape for: *I do not
+know what a Bureau does with a line it has never had to read. Nobody does.*
+Final image: he walks the long road home, forty-one minutes, and cleans the last row of basins with the
+filed petition drying beside the soap, **turning it face down halfway through because a washroom counter is
+no place to leave a brother's hand uncovered.** Runa closes the Field file. Marguerite writes: the terms
+stay down. The Board is nine streets away with his name on a tile for the first time since he was a child
+and he does not go and look at it. **Three people felt something cold that night and none of them knew
+why** — Nell Ardery, Garrick Neve, the checker. Ola copies the finding under the re-read; Beatrix stands in
+front of the rail without speaking; Tessa at seventeen boards, eighteen before nightfall; Nadia holds her
+car at the terminus past midnight with nobody telling her to.
+**Nobody has thanked him.**
+
+---
+
+## Volume 1 closed
+
+Audited against the page on the volume close. **Full working, with commands and chapter-and-line citations
+for every claim, is in `reviews/volume-01/volume-close.md`.** The short form, for a writer picking this
+file up cold:
+
+- **He holds rank six and he is 11,862 grains under his own band.** 20,000 − 8,138. The band came off the
+  requisition of the 19th plus the open-question finding, **not off merit**, and nothing the account did was
+  converted into a grain. **B26 is open and is the volume's live consequence.**
+- **The mechanism changed mid-flight and the change was correct.** Thirty witnessed deeds in six weeks
+  needs thirty witnesses; he has nineteen people and no twentieth, because the only people he can reach are
+  the people relief would mark. He was seated rather than promoted, and that is why the gap did not close.
+- **Nothing was closed by the volume ending.** Four threads paid (B9, B19, B24, B25), one superseded, five
+  advanced, **twenty-six live.**
+- **T1 advanced by exactly one folio and must advance no further.**
+- **Seven residual ages are announced in Volume 1 and three of them are Lin Hao or a core partner stating a
+  canon-correct age.** Registered in `state/open-threads.md`.
+- **Chapters 42–49 all close on the same construction** and it is the volume's outstanding prose debt. See
+  `state/current.md` item 35.
+- **Volume 1's six scenes ran in six different emotional directions.** Volume 2's five must not repeat a
+  shape Volume 1 spent.

@@ -75,6 +75,179 @@ partner dies. No partner leaves without explaining. Ferreira lives. Sowe lives a
 condemned on the page. No new final enemy.
 ---
 
+---
+
+# Volume 1 closed — the record the next volume may not contradict
+
+Written by the Volume 1 close audit against the page. Full working, with commands and chapter-and-line
+citations for every claim, is in `reviews/volume-01/volume-close.md`. **Items marked CANNOT CONTRADICT
+below were checked against a chapter; a later phase that wants to move one flags it first.**
+
+## The calendar, as the page fixed it
+
+**Dates and intervals only. The spoken weekdays are Thursday and Monday the nineteenth, and Monday the
+19th only where the draw-down opens.**
+
+- The batch sequence: **Ch 41** the 26th · **Ch 42** the 22nd, **four days behind Ch 41**, a Thursday
+  (box 1) · **Ch 43** the 28th · **Ch 44** the 29th, a Thursday (box 2 and the quarterly re-read) ·
+  **Ch 45** the first Thursday after (box 3) · **Ch 46** that evening, Bellhouse · **Ch 47** a Thursday
+  in the sixth week (box 4 and the Review) · **Ch 48** the same day, the square · **Ch 49** the next
+  morning · **Ch 50** the morning after, trolley at ten.
+- **The Ch 42 backtrack is deliberate and the page anchors it.** The 22nd is named in its own first line
+  and Neve's *Seven days now* fixes it to the 29th. **A later phase must not smooth this by moving Ch 41.**
+- **The four box Thursdays are consecutive and none is skipped** — 22nd, 29th, then the two after it,
+  with the Review on the fourth. This is what Runa's standing instruction requires.
+- **The sixth week is the sixth week from the 3rd**, the Thursday he declared the reading in front of
+  ninety-one people. That week begins on the 7th. **"The sixth week" in Ch 40, 44, 45, 46 and 47 is one
+  week and is not six weeks from any chapter in Volume 1.**
+- The Review: twenty-two candidates ordered by published standing, called nine by nine. Nine chairs, nine
+  candidate seats, sixty public seats. **Ch 47 is the first and only Review on the page.**
+
+## Mechanics now canon
+
+**1. The open-question rule.** A Review panel may put one question to a candidate on the floor of the
+room, in public, without notice. **A true answer given to it is a finding, and a finding is an
+instrument.** That is an instrument rule, not a scoring rule.
+
+**2. The instrument ruling — how rank six is actually won.** The printed rule seats a candidate on
+published standing, and standing is a five. The panel's ruling in Ch 48: **a candidate is seated on
+standing unless the panel is satisfied the band was struck on an instrument.** The requisition of the
+19th — thirty-one dwellings, executed in the open, disputed by nobody — is on the table, and the
+open-question answer is a finding. **Six, held, not provisional, seated on an instrument of that room.**
+**CANNOT CONTRADICT.** A later phase may not find the standing crossing 20,000, and may not find a grain
+awarded out of the account.
+
+**3. The three-grain tolerance and the drift ladder.** A provisional band carries a floor and a
+**tolerance of three grains**, below which the band lapses at the next press. **The ladder is 8,140
+(Ch 44, one down) → 8,139 (Ch 45, two down) → 8,138 (Ch 47, three down). Four down lapses a band, and
+Ch 47 shows it lapsing a man who held five for six years.** That is the proof and it is on the page.
+**Figure drifts wherever he stands; drift is not a spend and is never a scoring event.** The published
+floor stays 8,141 and the figure only ever drifts down. **CANNOT CONTRADICT.**
+
+**4. What held six is worth.** Band six opens at **20,000**. He holds it on **8,138**. **The distance is
+11,862 grains and nothing in Volume 1 closed it.** This number is the live consequence of the volume and
+the sharpest fact in the book. **CANNOT CONTRADICT — and a Volume 2 batch may not quietly close it with a
+score.**
+
+**5. The reservoir scores nothing.** Verified across all fifty chapters. It cannot be demonstrated on
+demand, cannot raise a rank, cannot be taken, traded or compelled. The one four hundred in Ch 25 moved
+into a *figure*, not a body, and the chapter's subject is that the figure moved and the body did not.
+The four hundred in Ch 48's answer is the *composition* of the standing, not an addition to it.
+
+**6. The ledger.** 91 lines, 8 turned, **one line reading himself**. Lines only ever rise. The two
+intervals where the count holds while the figure moves both have a cause stated on the page: he gave up
+the long ride on the 29th so the faces stopped coming, and he walked the arc on purpose on the 15th
+because he had nineteen people and no way to get a twentieth.
+
+**7. What a turned person costs and who counts them.** A cold minute into a listed person is a
+reportable episode and **the Bureau's threshold is three in a season**, which gets a file. He turned
+three in four seconds in the Review square: **Nell Ardery, Garrick Neve, the yard checker.** **An
+analyst can put a dot on a wall map and the dot is the Review room.**
+
+**8. A sealed file asks three things.** Held rank (the band on the plate, not the wall), a deposit (the
+form with the folio count), and the petitioner in the room on the day. **Provisional is not carried into
+review.** A witnessed answer in a room closes a Reading Office query.
+
+**9. The file.** 4,112 folios. **4,111 sealed. One open**, at the back by order of the Wing, filed three
+years ago, never called. A transfer receipt in Lin Wei's hand: **214,000 grains**, the eleventh three
+years ago, into an account the index does not contain, signed Lin Wei. Under it, in the upright print of
+the Classification Wing: **the file of the person who received it is Held Account One.** **There is no
+Held Account Zero.** **CANNOT CONTRADICT. T1 advanced by exactly one folio and Volume 2 must not open a
+second one in its first batch.**
+
+**10. Standing obligations at the close, unspent.** May clipboard (second, 2,640) — untouched by both of
+them; Ines put it on the table in the corridor at Ch 47 and neither answered. **The rota word, ungiven.**
+Tessa's rack at seventeen, eighteen before nightfall. **September still Beatrix's.** Tobias Renn, owed
+something and still will not take it in a speech. **Marguerite's terms down and unsigned, the house behind
+him anyway.** Ines cannot decide whether to file the himself line, and has said so in words.
+
+## What Volume 2 may not contradict
+
+- **The reservoir's six rules as written in `bible/power-system.md`.** No scene may use sedation,
+  restraint, compulsion or psychic contact as a mechanism. No impaired state produces a scene.
+- **The Planning-register ban.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal* and *Channel* are
+  planning-register words. **Chapters 1–50 contain none and a Volume 2 chapter may contain none.**
+- **The weekday rule.** Only Thursday, and Monday the nineteenth only where the draw-down opens.
+- **Every partner's age is fixed** and no chapter announces one. **Seven residual instances of announced
+  ages survive in Volume 1 and are registered in `state/open-threads.md`; three of them are Lin Hao or a
+  core partner stating a canon-correct age.** A Volume 2 writer making a deliberate decision to state one
+  registers it at the moment of the decision — a grep will not find a decision.
+- **Rhee's offer is closed forever** and was closed on the page in Ch 28. **Rhee himself is off the page
+  after Ch 30 and there is no live Rhee thread.** A Volume 2 chapter may not re-open the offer or invent a
+  Rhee scene without flagging it.
+- **Tessa's May clipboard and the word *Channel* are the Volume 5 hinge.** They may not be spent in
+  Volume 2.
+- **Four partners use the option to leave and they are four**: Ines (out 246, back 271), Wren Kallo, Sun
+  Meiling, Dagmar Oyelowo. **Nobody stays because she cannot leave.**
+- **The ending in `outline/ending.md` is untouched** and nothing in Volume 2 may anticipate the return, the
+  Board's second line, or any event after Volume 8's.
+- **No new final enemy.** Anouk Ferreira is the Council chair. Alma Quayle is the head of classification.
+  Perrin Sowe is Lin Wei's colleague, the man who filed instead of donating. **None of the three is on the
+  page yet and none is a new enemy.**
+- **The held six is an institutional pressure, not a plot hole.** It must be the natural instrument of an
+  Office that has no procedure for a rank-six petitioner with no merit behind the band — **and it must not
+  be the same pressure as Volume 1's**, which was an audit and a Review.
+
+
+# New canon — Batch 0005 (Chapters 41–50)
+
+Appended above Batch 0004. Nothing below altered.
+
+## The calendar, fixed by the page
+
+Batch runs **the 22nd through the sixth week**. Dates and intervals only.
+
+- **Ch 42** is the 22nd, a Thursday, and runs **four days behind Ch 41**, which is the 26th. The
+  backtrack is deliberate and the page anchors it in Ch 42's first line: the 22nd is named there, and
+  Neve's "Seven days now" to the 29th fixes it. **A later phase must not smooth this over by moving
+  Ch 41.** Ch 40 is also the 26th and continues into Ch 41; the chapter order is 40 (26th), 41 (26th),
+  42 (22nd), 43 (28th), 44 (29th).
+- **Ch 41** the 26th. **Ch 42** Thursday the 22nd (box 1). **Ch 43** the 28th. **Ch 44** the 29th, a
+  Thursday (box 2 + quarterly re-read). **Ch 45** the first Thursday after, box 3. **Ch 46** the same
+  evening, Bellhouse. **Ch 47** Thursday in the sixth week (box 4 + Review). **Ch 48** same day, the
+  square. **Ch 49** next morning (petition). **Ch 50** the morning after (trolley at ten).
+- **Four Thursdays stood in the box and they are consecutive weeks.** The 22nd, the 29th, then the two
+  after it, with the Review on the fourth. **No Thursday is skipped**, which is what Runa's standing
+  instruction in Ch 42 requires. Each has a counterfoil, read aloud and read back, queue listening.
+  Fourth box discharged through the Review.
+- **The sixth week is the sixth week from the 3rd**, the Thursday he declared the reading in front of
+  ninety-one people. That week begins on the 7th, which is the eleven days Ch 40 counts forward from the
+  26th. **"The sixth week" in Ch 40, 44, 45, 46 and 47 is the same week and is not six weeks from any
+  chapter in this batch.**
+- **Re-read the 29th:** 8,140, one down, one inside tolerance, band holds, two grains of margin. **Box
+  readings after:** 8,139 (Ch 45, two down, two inside), **8,138 (Ch 47, three down, three inside)**.
+  **Four down lapses a band and is shown lapsing in Ch 47**, which is the proof that three is the
+  tolerance and not four. Figure drifts wherever he stands; drift is not a spend.
+- **Review in the sixth week.** Twenty-two candidates ordered by published standing, called nine by nine.
+  Nine chairs, sixty public seats.
+
+## Mechanics now on the page
+
+- **The squeeze is arithmetic, not mystery.** Band six 20,000; published 8,141; witnessed deed 400; 11,859 short is twenty-nine and a fraction in six weeks with nineteen people and no twentieth. Stated in Ch 40, used as the trap through Ch 41–44. **It is never closed by a score.** The number never crosses 20,000 and the panel never awards merit out of the account; a draft that had the open-question slot add four hundred grains and jump to 20,000 was wrong on its face and was cut. See the open-question rule below.
+- **Zero to spend.** Forty-one lines, five turned (Nadia, Ola, Emrys, Teodor, Tessa, located Ch 38). Best remaining lead already turned. Another cold into a turned person is a reportable episode; three in a season gets a file. He spends no turned person in Ch 41–47.
+- **The ledger rises 41 to 91 with cause stated:** weeks of boxes, queues, corridors and the Review crowds bring fifty new faces. Lines only ever rise. Turned 5 to 8 in Ch 48: Nell Ardery, Garrick Neve, yard checker, all named, all previously unturned, turned at once because nothing he ever did was this size.
+- **THE OPEN-QUESTION RULE — new canon, introduced by the chair in Ch 47 and paid in Ch 48.** A Review panel may put one question to a candidate on the floor of the room, in public, without notice. **A true answer given to it is a finding, and a finding is an instrument.** That is the whole mechanism, and it is an instrument rule, not a scoring rule.
+- **How rank six is actually won.** Not by merit. His band was struck on a **requisition of property** (the 19th, thirty-one dwellings, executed in the open, disputed by nobody), which is why an 8,141 plate ever carried a six at all. The printed Review rule seats a candidate on published standing, and standing is a five. The panel's ruling in Ch 48 is that **a candidate is seated on standing unless the panel is satisfied the band was struck on an instrument**; the requisition is on the table, and the open-question answer is a finding, which is an instrument. **Six, held, not provisional, seated on an instrument of that room.**
+- **This is consistent with the hard limit.** The reservoir still scores nothing and the plate still reads 8,138. Nothing the account did was converted into a grain. **The Classification Wing still cannot measure him**, which is what Volume 2 needs.
+- **Cost of the answer, permanent:** a ledger line reading himself, three turned at once, the cab promise to Beatrix broken, and the option of being invisible closed forever.
+- **Instruments.** Requisition order of the 19th + declaration of the 23rd are not instruments for a Reading Office query. Re-read is not one. A witnessed answer in the room is one. Query opened 24th, owned by the clerk of the 3rd, closed Ch 49.
+- **A sealed file asks:** held rank (band on the plate, not the wall), deposit (the form with the folio count), the petitioner in the room on the day. Provisional not carried into review; candidate seated on published standing at the date.
+- **The file:** 4,112 folios, 4,111 sealed to a held six, one open at the back by Wing order, never called. Open folio is a transfer receipt in Lin Wei’s hand: 214,000 grains on the eleventh three years ago into an account the index does not contain, signed Lin Wei; under it in Wing print: file of the receiver is Held Account One. No Held Account Zero, per the index the same morning.
+- **Marguerite terms:** line held in her personally, one in four for five years, no road (column off the table), plus nine seats with the house in the public seats. **Refused twice — Ch 33 standing in writing, Ch 46 for appetite rather than principle — and kept down both times.** She sits the Review anyway. The third sheet names **a date a week ahead**, which is the Review.
+
+## Standing obligations created or discharged
+
+- **DISCHARGED — the Exchange box through the Review.** Four consecutive Thursdays, four counterfoils, re-read held, Review entered by query. **No Thursday was skipped.**
+- **DISCHARGED — the re-read of the 29th.** Band held by one grain, then two, then three. Three was the whole of the margin.
+- **HELD — rank six, not provisional.** Seated on an instrument of the Review room: the requisition of the 19th, plus the open-question finding. Petition right earned. **Not earned by merit.**
+- **OWED — the himself line and three new turned.** Nell Ardery, Garrick Neve, yard checker. T5 continues through Tessa (rack seventeen, stippling past elbow, pale blue above joint).
+- **OWED — Beatrix’s broken price.** Spend-on-people promise broken in the square; she names it without heat and does not forgive it in a speech.
+- **OWED — Tobias Renn.** Off the board by instrument; declaration still at the front of the Field file. Still owed something he will not take in a speech.
+- **DECISION, not fact — Ines’s word.** Paper discharged, rota name said 20th, word ungiven. May clipboard (2nd, 2,640) still unasked on both sides — the Ch 48 hinge not spent.
+- **KEPT DOWN — Marguerite terms.** Unsigned, house behind him regardless.
+
+---
+
 # New canon — Batch 0004 (Chapters 31–40)
 
 Appended above Batch 0003. Nothing in the Batch 0003 or earlier blocks below has been altered.
@@ -624,62 +797,3 @@ Marchetti, Dagmar Oyelowo, Beatrix Halm.
 - Ola Bright's four sheets of diary are a **predecessor** of the notebook, not the same object: the
   sheets were left under a saucer on the landing rail; the notebook has forty-one pages and was
   started afterwards.
-
----
-
-# New canon — Batch 0005 (Chapters 41–50)
-
-Appended above Batch 0004. Nothing below altered.
-
-## The calendar, fixed by the page
-
-Batch runs **the 22nd through the sixth week**. Dates and intervals only.
-
-- **Ch 42** is the 22nd, a Thursday, and runs **four days behind Ch 41**, which is the 26th. The
-  backtrack is deliberate and the page anchors it in Ch 42's first line: the 22nd is named there, and
-  Neve's "Seven days now" to the 29th fixes it. **A later phase must not smooth this over by moving
-  Ch 41.** Ch 40 is also the 26th and continues into Ch 41; the chapter order is 40 (26th), 41 (26th),
-  42 (22nd), 43 (28th), 44 (29th).
-- **Ch 41** the 26th. **Ch 42** Thursday the 22nd (box 1). **Ch 43** the 28th. **Ch 44** the 29th, a
-  Thursday (box 2 + quarterly re-read). **Ch 45** the first Thursday after, box 3. **Ch 46** the same
-  evening, Bellhouse. **Ch 47** Thursday in the sixth week (box 4 + Review). **Ch 48** same day, the
-  square. **Ch 49** next morning (petition). **Ch 50** the morning after (trolley at ten).
-- **Four Thursdays stood in the box and they are consecutive weeks.** The 22nd, the 29th, then the two
-  after it, with the Review on the fourth. **No Thursday is skipped**, which is what Runa's standing
-  instruction in Ch 42 requires. Each has a counterfoil, read aloud and read back, queue listening.
-  Fourth box discharged through the Review.
-- **The sixth week is the sixth week from the 3rd**, the Thursday he declared the reading in front of
-  ninety-one people. That week begins on the 7th, which is the eleven days Ch 40 counts forward from the
-  26th. **"The sixth week" in Ch 40, 44, 45, 46 and 47 is the same week and is not six weeks from any
-  chapter in this batch.**
-- **Re-read the 29th:** 8,140, one down, one inside tolerance, band holds, two grains of margin. **Box
-  readings after:** 8,139 (Ch 45, two down, two inside), **8,138 (Ch 47, three down, three inside)**.
-  **Four down lapses a band and is shown lapsing in Ch 47**, which is the proof that three is the
-  tolerance and not four. Figure drifts wherever he stands; drift is not a spend.
-- **Review in the sixth week.** Twenty-two candidates ordered by published standing, called nine by nine.
-  Nine chairs, sixty public seats.
-
-## Mechanics now on the page
-
-- **The squeeze is arithmetic, not mystery.** Band six 20,000; published 8,141; witnessed deed 400; 11,859 short is twenty-nine and a fraction in six weeks with nineteen people and no twentieth. Stated in Ch 40, used as the trap through Ch 41–44. **It is never closed by a score.** The number never crosses 20,000 and the panel never awards merit out of the account; a draft that had the open-question slot add four hundred grains and jump to 20,000 was wrong on its face and was cut. See the open-question rule below.
-- **Zero to spend.** Forty-one lines, five turned (Nadia, Ola, Emrys, Teodor, Tessa, located Ch 38). Best remaining lead already turned. Another cold into a turned person is a reportable episode; three in a season gets a file. He spends no turned person in Ch 41–47.
-- **The ledger rises 41 to 91 with cause stated:** weeks of boxes, queues, corridors and the Review crowds bring fifty new faces. Lines only ever rise. Turned 5 to 8 in Ch 48: Nell Ardery, Garrick Neve, yard checker, all named, all previously unturned, turned at once because nothing he ever did was this size.
-- **THE OPEN-QUESTION RULE — new canon, introduced by the chair in Ch 47 and paid in Ch 48.** A Review panel may put one question to a candidate on the floor of the room, in public, without notice. **A true answer given to it is a finding, and a finding is an instrument.** That is the whole mechanism, and it is an instrument rule, not a scoring rule.
-- **How rank six is actually won.** Not by merit. His band was struck on a **requisition of property** (the 19th, thirty-one dwellings, executed in the open, disputed by nobody), which is why an 8,141 plate ever carried a six at all. The printed Review rule seats a candidate on published standing, and standing is a five. The panel's ruling in Ch 48 is that **a candidate is seated on standing unless the panel is satisfied the band was struck on an instrument**; the requisition is on the table, and the open-question answer is a finding, which is an instrument. **Six, held, not provisional, seated on an instrument of that room.**
-- **This is consistent with the hard limit.** The reservoir still scores nothing and the plate still reads 8,138. Nothing the account did was converted into a grain. **The Classification Wing still cannot measure him**, which is what Volume 2 needs.
-- **Cost of the answer, permanent:** a ledger line reading himself, three turned at once, the cab promise to Beatrix broken, and the option of being invisible closed forever.
-- **Instruments.** Requisition order of the 19th + declaration of the 23rd are not instruments for a Reading Office query. Re-read is not one. A witnessed answer in the room is one. Query opened 24th, owned by the clerk of the 3rd, closed Ch 49.
-- **A sealed file asks:** held rank (band on the plate, not the wall), deposit (the form with the folio count), the petitioner in the room on the day. Provisional not carried into review; candidate seated on published standing at the date.
-- **The file:** 4,112 folios, 4,111 sealed to a held six, one open at the back by Wing order, never called. Open folio is a transfer receipt in Lin Wei’s hand: 214,000 grains on the eleventh three years ago into an account the index does not contain, signed Lin Wei; under it in Wing print: file of the receiver is Held Account One. No Held Account Zero, per the index the same morning.
-- **Marguerite terms:** line held in her personally, one in four for five years, no road (column off the table), plus nine seats with the house in the public seats. **Refused twice — Ch 33 standing in writing, Ch 46 for appetite rather than principle — and kept down both times.** She sits the Review anyway. The third sheet names **a date a week ahead**, which is the Review.
-
-## Standing obligations created or discharged
-
-- **DISCHARGED — the Exchange box through the Review.** Four consecutive Thursdays, four counterfoils, re-read held, Review entered by query. **No Thursday was skipped.**
-- **DISCHARGED — the re-read of the 29th.** Band held by one grain, then two, then three. Three was the whole of the margin.
-- **HELD — rank six, not provisional.** Seated on an instrument of the Review room: the requisition of the 19th, plus the open-question finding. Petition right earned. **Not earned by merit.**
-- **OWED — the himself line and three new turned.** Nell Ardery, Garrick Neve, yard checker. T5 continues through Tessa (rack seventeen, stippling past elbow, pale blue above joint).
-- **OWED — Beatrix’s broken price.** Spend-on-people promise broken in the square; she names it without heat and does not forgive it in a speech.
-- **OWED — Tobias Renn.** Off the board by instrument; declaration still at the front of the Field file. Still owed something he will not take in a speech.
-- **DECISION, not fact — Ines’s word.** Paper discharged, rota name said 20th, word ungiven. May clipboard (2nd, 2,640) still unasked on both sides — the Ch 48 hinge not spent.
-- **KEPT DOWN — Marguerite terms.** Unsigned, house behind him regardless.

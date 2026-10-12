@@ -1,23 +1,27 @@
 # Current State
 
-**Last written:** Volume 1, Batch 0005 complete and repaired — Chapters 41 to 50. **Volume 1 is closed in
-prose.** The volume close has not been run yet and must be, before Chapter 51 is drafted.
+**Last written:** **Volume 1 close, complete.** Close audit run against the page, not against the file.
+`reviews/volume-01/volume-close.md` holds the full record with every claim marked mechanical or judgement.
+**Items 1 to 33 below are closed and stay closed. Items 34 to 42 are new and are the audit's own.**
 
-**Position:** Volume 1 complete, chapters 1–50. **Rank six held, not provisional.** File open by one folio
-(Held Account One). Ledger ninety-one lines, eight turned, one reading himself. Query closed.
+**Position:** Volume 1 complete, chapters 1–50. **Rank six held, not provisional — seated on an
+instrument of the Review room, not on merit.** File open by one folio (Held Account One). Ledger
+ninety-one lines, eight turned, one reading himself. Query closed. Plate reads **8,138**.
 
 **In the story:** **the morning after the Review, the Fourth Branch second floor**, with a copy slip drying
 beside the soap, a finding in his coat pocket, and a brother's hand on a transfer receipt for 214,000
 grains into an account the index does not contain.
 
-**Volume goal — met:** In this volume, **Lin Hao must hold rank six through the Winter Review**, or **the
-reservoir is requisitioned by the Fourth Branch and he never gets it back**. He held it. Rhee does not have
-it and is preparing to go over his head.
+**Volume goal — met, by a different mechanism than the one planned.** In this volume, **Lin Hao must hold
+rank six through the Winter Review**, or **the reservoir is requisitioned by the Fourth Branch and he
+never gets it back**. He held it. **Rhee does not have it: the offer was refused in Chapter 28 and closed
+permanently there, and Rhee has no line, no scene and no presence in Chapters 31–50.** *(An earlier
+version of this file said he was preparing to go over Lin Hao's head. He is not. Nothing on any page says
+he is. See item 38.)*
 
-**Next phase to run:** **Volume 1 close** (close audit, then close record). Prompt in
-`workspace/volume-01/volume-close/PROMPT.md`. **Chapter 51 must not be drafted before the Volume 2 outline
-exists** — there is no `outline/volume-02.md` and no Volume 2 cards, which is why the batch prompt that
-was written in its place has been removed.
+**Next phase to run:** **Volume 2 planning** — `workspace/volume-02/volume-plan/PROMPT.md`. It writes
+`outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` and no prose. **Chapter 51 must not
+be drafted before the Volume 2 outline exists**, and there are no Volume 2 cards.
 
 ## Adjudicated contradictions — do not re-open
 
@@ -184,6 +188,76 @@ third time this pipeline has had the same failure after being warned about it by
     outline and no cards. **The prompt has been removed and the volume-close prompt written in its place.**
     A next-phase prompt that concedes it has nothing to write against is not a phase.
 
+**Closed by the Volume 1 close audit — items 34 to 42. Every one was found by reading the page, and none
+was found by a count.** Full working, with commands and chapter-and-line citations, is in
+`reviews/volume-01/volume-close.md`.
+
+34. **The volume promise was met by a different mechanism than the one planned, and that was the right
+    call.** `outline/volume-01.md` set the mechanism as *thirty witnessed deeds and nineteen hands* — 400
+    a deed, band six at 20,000, the gap closed in public. **Thirty deeds in six weeks requires thirty
+    witnesses. He has nineteen people and no twentieth**, and the reason he has no twentieth is on the
+    page: the only people he can reach are the people relief would mark, and a cold minute into a marked
+    person is a reportable episode (`chapter-0043.md`, `chapter-0045.md`). **The planned mechanism was
+    arithmetically unavailable to the character the volume had built.** He is seated on an instrument
+    instead: the requisition of the 19th plus the open-question finding (`chapter-0048.md:35`). **The
+    consequence is live and is the sharpest fact in the book: he holds six and is 11,862 grains under his
+    own band.** 20,000 − 8,138. Nothing the account did was converted into a grain.
+35. **Eight chapters close on the same construction.** **Chapters 42, 43, 44, 45, 46, 47, 48 and 49** all
+    end on a paragraph beginning **"He wanted, concretely,"** — eight consecutive. Checked by reading the
+    last non-heading, non-panel paragraph of each file. Ch 41 and Ch 50 are in other shapes. `AGENTS.md`
+    fails a batch for the same construction more than twice running. **The Batch 0005 review repair caught
+    the ten-in-a-row *For &lt;person&gt;, his &lt;verb&gt; meant* closing, rewrote seven endings, and put this
+    in the seven.** Its claim that the old construction is now in Ch 41, 44 and 48 only is **true**; the
+    repair checked the construction it had been told about and not the one the page ended on. **The most
+    serious finding of the close. Not repaired here** — eight endings across four certified batches is a
+    wide ripple. **It is the first item the next repair pass should take, and the good prose underneath is
+    kept in seven of the eight.**
+36. **The residual age census is seven, not five.** The register in item 25 and in `state/open-threads.md`
+    named Ch 3, 8, 16, 18 and 29. **Two more are on the page and neither has ever been registered:**
+    `chapter-0002.md:21` ("He had spent twenty-five years wanting a number") and `chapter-0037.md:57`
+    ("since he was fifteen years old") — **both Lin Hao, both in narration**, which is the exact category
+    the census was built to catch. **Three of the seven are now the protagonist or a core partner.**
+37. **A third bare number-age, in a scene, slipped past a gate widened once for exactly this.**
+    `chapter-0046.md:37`: **"I am forty-one years of keeping books for money."** Marguerite Vale, canon
+    correct at 41, in her own voice at the top of the volume's best scene. The Batch 0005 review ran
+    `grep -rin "years old|in his forties|in her thirties|about sixty|years of my life"` and reported no
+    hits — **and that pattern does not match *forty-one years of keeping books*.** The gate was widened
+    once for Ch 29 and not widened far enough. **Four of the seven residual instances are the protagonist
+    or a core partner stating a canon-correct age. Canon is not contradicted. The prose rule is.**
+38. **`state/current.md` and `outline/volume-01.md` both said Rhee was preparing to go over Lin Hao's
+    head. He is not, and it is on no page.** Mechanical: `grep -rn '\bRhee\b' chapters/volume-01/` returns
+    25 hits and the last is `chapter-0030.md:17`, a retrospective clause inside a subordinate sentence.
+    **Rhee has no line, no scene and no presence in Chapters 31–50 — twenty chapters including the
+    climax and the resolution.** The first half of the claim is true and sufficient: the offer was refused
+    in Ch 28 and closed permanently there. The second half was a plan the outline hoped for and the page
+    did not deliver. **This is the tenth false certification of this shape in this pipeline and the first
+    one about a character rather than about a count.**
+39. **The promise is paid and the final image is the image the outline specified.** Ch 48 is the
+    irreversible decision and it landed on the page in all four of its costs — the himself line
+    (`chapter-0048.md:51`), three named feeders turned in four seconds (`:45`), the cab promise broken and
+    unmendable (`:55`), and anonymity closed forever (`:53`). Ch 50 carries every element
+    `outline/volume-01.md:126–131` specifies, including the petition turned face down because a washroom
+    counter is no place to leave a brother's hand uncovered. **The volume ends changed, not merely
+    informed.**
+40. **The scene census is confirmed and the lock holds.** Scenes at 8, 17, 26, 29, 36, 46. Gaps **9, 9,
+    3, 7, 10**. Two under the soft floor of eight — **26→29 at 3 and 29→36 at 7** — and both are named
+    and locked in `outline/series.md`, `outline/volume-01.md`, here, and in the canon-change guard.
+    **No scene may be moved to fix either.** The largest gap is ten, inside the band.
+41. **No thread was closed by the volume ending.** Thirty-five batch threads and twelve seeded threads:
+    **four paid** (B9 the audit, B19 the five names, B24 the query, B25 the provisional band), **one
+    superseded** (B12), **five advanced past their Volume 1 beat** (T5, B2, B3, B4, B8), **twenty-six
+    live.** T1 advanced by exactly one folio and must advance no further. Full per-thread status with
+    chapter citations is in `reviews/volume-01/volume-close.md` §3 and is carried forward in
+    `state/open-threads.md`.
+42. **Clean across the whole volume, confirmed by command and not by a batch gate.** Planning-register
+    ban: `grep -niE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b'` returns **zero**
+    hits across all fifty chapters. Horizontal rules: **zero** across all fifty. Bold: **zero** across all
+    fifty. `the record remained`: **zero**. Panels: ten in fifty, one each, none repeated. Weekday names:
+    **Thursday only from Ch 20 on**, with the 58 illegal instances behind Ch 20 confirmed at exactly 58
+    against the census in item 23. All fifty titles are unique, under 90 characters, and match the title
+    bank verbatim. **Italic is zero across Ch 40–50 and 101 across the volume** — the batch figure is not
+    the book figure and a Volume 2 writer must not treat it as one.
+
 **The lesson, stated once and operative from here:** *a count is not a reading.* Every gate above the
 Batch 0005 review was mechanical and every one of them passed. The repair that caught the batch read the
 page. A later phase may still run the commands — they are cheap and they catch real things — but a batch
@@ -210,6 +284,8 @@ may not certify itself, and a review that cannot say how a claim was checked doe
 | Tobias | **Off the board by instrument.** The declaration he was struck off by is still at the front of the Field file, and he has said he cannot do anything about that either. |
 | Halvard | Cutler's Row, wire labelled eleven B, watching. He told him not to spend one of the five and he did not. |
 | Nell Ardery | Eleven weeks of figures, initials on every return, a cold minute on a landing, and a line in a ledger she will never see. |
+| **Rhee** | **Gone from the page at Chapter 30.** Twenty chapters, including the climax, with no line and no scene. The offer is closed forever; **there is no live Rhee thread to carry forward, and a Volume 2 writer must not assume one.** |
+| **Ostara, after** | The branch board stands empty except a date in a clerk's hand. Ninety-one people know what a man in a washroom did. Bellhouse knows by nightfall and the house kept the terms down anyway. Nobody has thanked him. |
 
 ## What he now knows
 
@@ -230,6 +306,16 @@ may not certify itself, and a review that cannot say how a claim was checked doe
    somewhere that cannot be named.
 9. **He has spent himself once and cannot unspend it.** The line reads himself and the option of being
    invisible is closed forever.
+10. **A finding is an instrument and an instrument is not a score.** He has learned this the expensive
+    way: he can hold a rank he cannot justify, and the machine will not come and take it back off him
+    while an instrument stands under it. **He is the only man in Ostara holding a band above his plate.**
+11. **The turned-line pattern now points at a room.** Three people turned in four seconds in the Review
+    square, and the shape of those three is a room with nine chairs in it. He knows this and so does the
+    Bureau's threshold.
+
+**Twelve at the close, not nine.** Items 1–9 were true at the Batch 0005 checkpoint. **10 and 11 are what
+the close audit added, and they are what Volume 2 is built on.** Item 11 is Ines's, said to him in Ch 49:
+*an analyst could put a dot on a wall map and the dot would be that room.*
 
 ## Irreversible decisions taken in Batch 0004
 
@@ -274,50 +360,80 @@ spoken.
 **Chapter 50 owns *Nobody has thanked him* and no other chapter may spend it.** Word reservoir never
 spoken.
 
-**Numeric sweeps, carried forward.** `nobody` / `no one` ran **fifteen times across Batch 0005's ten
-chapters, four of them in Ch 50 and none over five in a chapter**, against a target of thirty.
-*Nobody has asked me to do this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person
-nobody looked at* is retired** and does not appear. **Chapter prose carries no horizontal rules** —
-Chapters 1–50 now carry none. **Weekday names: only Thursday is spoken anywhere in Chapters 41–50**, and
-an earlier review's claim that the batch was clean on that held. **Bold zero across all ten chapters,
-italic zero across all ten**, and one ledger panel, in Chapter 48.
+**Numeric sweeps, verified across the whole volume at the close, not per batch.** *Nobody asked me to do
+this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person nobody looked at* is
+retired** and does not appear. `there is no column for it` is spent once, Chapter 1, and not again.
+`the record remained` is **spent zero times in fifty chapters** — available. `nobody` runs 140 across the
+volume and `no one` 7; **Volume 1 closed at twelve `nobody` in Ch 41–50 and three `no one`**, against a
+target of thirty.
 
-**The chapter-ending beat varies now.** *For <person>, his <verb> meant* ran in all ten chapters of
-Batch 0005 in a row, which AGENTS.md fails a batch for. It is in **Ch 41, Ch 44 and Ch 48 only**,
-none adjacent, no subject repeated. **Do not reinstate the ten.**
+**The chapter-ending beat is the volume's outstanding prose debt and is item 35.** *For &lt;person&gt;, his
+&lt;verb&gt; meant* ran in all ten chapters of Batch 0005, was repaired down to **Ch 41, 44 and 48 only**,
+and the repair **put a new one in the seven it rewrote**: **Chapters 42–49 all close on a paragraph
+beginning "He wanted, concretely,"** — eight consecutive. **A Volume 2 batch may not end two consecutive
+chapters on the same construction, and must check what the page actually ends on, not what a previous
+review said it used.** The first repair pass should take item 35 and keep the good prose underneath.
 
 **Planning register may use the words the page may not.** *Reservoir*, *quiet account*, *Concil*,
 *Ninth Seal* and *Channel* are terms of the outline and the batch cards. Chapters 1–50 contain none, and
 none may appear. That is a register rule, not a contradiction between the cards and the ban the cards state.
 
+**Volume-wide gates, all confirmed by command at the close:** zero horizontal rules, zero bold, zero
+planning-register terms, zero `the record remained`, ten system panels in fifty chapters and none
+repeated, all fifty titles unique and under 90 characters and matching the title bank verbatim.
+**Italic is 101 across the volume and zero from Ch 40 on** — the Batch 0005 figure of zero was a batch
+figure and must not be read as the book's.
+
+**The age gate.** Seven instances remain in certified chapters and **three of them are Lin Hao or a core
+partner stating a canon-correct age** — Ch 2:21 and Ch 37:57 (Lin Hao, narration), Ch 46:37 (Marguerite,
+dialogue). **A grep will never find the seventh.** A writer making a deliberate decision to state an age
+registers it here at the moment of the decision.
+
 ## Scene budget
 
-Volume 1 scenes done: Ch 8 (Ines), Ch 17 (Beatrix), Ch 26 (Tessa, cold store), **Ch 29 (Nadia, stopped
-lift)**, **Ch 36 (Runa, the flat at number 6)**, **Ch 46 (Marguerite, Bellhouse)**. **Six scenes, the last
-of them inside the 8–15 band at a gap of ten.** The 29→36 gap was seven and was accepted and locked; do
-not move a scene to fix it.
+**Volume 1 closed with six scenes: Ch 8 (Ines), Ch 17 (Beatrix), Ch 26 (Tessa, cold store), Ch 29 (Nadia,
+stopped lift), Ch 36 (Runa, the flat at number 6), Ch 46 (Marguerite, Bellhouse). Gaps 9, 9, 3, 7, 10.**
+
+**The 26→29 gap of three and the 29→36 gap of seven are both under the floor of eight. Both are named and
+locked in `outline/series.md`, in `outline/volume-01.md`, here, and in the canon-change guard in
+`state/open-threads.md`. Confirmed at the close audit. No scene may be moved to fix either. If either must
+ever be fixed it is a Volume 1 re-plan, flagged first.** The largest gap in the volume is ten, inside the
+band.
 
 **A scene is the product, not a summary of one.** The Chapter 36 scene was summarised in its first pass
-and certified anyway. **The Chapter 46 scene was written on the page the first time** — 1,959 words,
-adults, awake, unrestrained, unmedicated, consent taken in plain statements before anything started, the
-tender arm constraining rather than causing, violence and sex in separate registers, and the refusal after
-it stated with the worse reason attached. **It changes something: the terms are refused a second time, for
-appetite, and the house keeps investing anyway.**
+and certified anyway. **The Chapter 46 scene was written on the page the first time and was read in full
+at the close audit** — 1,959 words, adults, awake, unrestrained, unmedicated, consent taken in plain
+statements before anything started, the tender arm constraining rather than causing, violence and sex in
+separate registers, and the refusal after it stated with the worse reason attached. **It changes something:
+the terms are refused a second time, for appetite, and the house keeps investing anyway.**
+
+**Volume 1's six scenes ran in six different emotional directions and none of them is interchangeable** —
+a decision against her own interest, a purchase, an alliance designed before the crisis, an assertion of
+want, a felony committed for him, and appetite named honestly and refused anyway. **Volume 2's five must
+not repeat a shape Volume 1 spent.**
 
 **Next scene in the book: Chapter 55, Sun Meiling's first, and it is immovable.** Volume 2 carries five
-(55, 63, 74, 86, 97) and Ch 63 is also fixed. **Sun Meiling is planted in Volume 2, not started.**
+(55, 63, 74, 86, 97) and **Ch 63 is also immovable** — the sentence that unlocks Volume 8.
+**Sun Meiling is planted in Volume 2, not started.** She has waited three years for the right question and
+is not named in a single chapter of Volume 1, which is correct.
 
 ## Where Volume 2 picks up
 
 - **Held six on an instrument, not on merit. Plate reads 8,138. He is 11,862 grains under his own band and
-  the gap did not close.** Volume 2's institutional pressure is a rank-six petitioner with no merit behind
-  the band, which is a shape the Office has no procedure for.
-- **Ninety-one lines, eight turned, one reading himself.** Three new turned named and triangulable to a
-  room. The himself line is a line no auditor has seen and Ines cannot decide whether to file.
+  the gap did not close and cannot be closed by the account.** Volume 2's institutional pressure is a
+  rank-six petitioner with no merit behind the band, which is a shape the Office has no procedure for.
+  **It must not be the same pressure as Volume 1's** — Volume 1's was an audit and a Review.
+- **Ninety-one lines, eight turned, one reading himself.** Three new turned named and triangulable to the
+  Review room. The himself line is a line no auditor has seen and Ines cannot decide whether to file.
 - **Query closed** on a finding. Declaration stands with the finding number beside it. Observation over.
 - **File 4,112, one folio open**: 214,000 grains, Lin Wei's hand, Held Account One, no Zero. **Volume 2
   must not open a second folio in the first batch.**
 - **Terms kept down, unsigned.** **May clipboard untouched** (second, 2,640) — the Ch 48 hinge was not
-  spent. **Rota word ungiven.** Tessa at seventeen, eighteen before nightfall. **September still Beatrix's.**
+  spent and Ines put it on the table in the corridor at Ch 47 and neither of them touched it.
+  **Rota word ungiven.** Tessa at seventeen, eighteen before nightfall. **September still Beatrix's.**
+- **Rhee is gone.** He has no line after Ch 30 and no page in Volume 2 should assume one. His offer is
+  closed forever and a Volume 2 writer may not re-open it.
 - **T1 has advanced one folio and must go no further.** T2, T3, T9, T10 all still open. **No new final
-  enemy.** Anouk Ferreira remains the Council chair and is not yet on the page.
+  enemy.** Anouk Ferreira remains the Council chair and is not yet on the page; Alma Quayle is the head
+  of classification and is not yet on the page; Sowe is Lin Wei's colleague and is not yet on the page.
+  **Volume 2 may not classify him in its first batch.**
