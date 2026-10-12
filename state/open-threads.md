@@ -151,7 +151,12 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 
 Who fed the account before the register’s hand-pencil entry nine years ago. What the 214,000 bought its receiver, and why the receiver’s file is One with no Zero. What a himself line does to a ledger across a season. Whether held six survives Volume 2’s measurement. And whether giving the rota word would cost Ines or save her.
 
-**The standing answer is spent as scheduled: Nobody has thanked him (Ch 50). No chapter may spend it again.**
+**The standing answer is spent as scheduled: Nobody has thanked him (Ch 50). No chapter may spend that
+sentence again.** **And the construction behind it is retired, not rationed** — *nobody thanked &lt;anyone&gt;*
+is spent **twice**, at `chapter-0012.md:19` ("Nobody thanked the boy.") and `chapter-0050.md:69`. **No
+chapter in Volume 2 or after may use it with any object.** The close audit briefly certified the
+construction as spent-once and wrote an absolute negative over the Batch 0003 ruling below; that
+certification was false and is corrected. See item 45 in `state/current.md`.
 
 ## Deliberately unanswered at the end of Batch 0004
 
@@ -298,6 +303,10 @@ ending was not touched.**
   Chapter 50's and unavailable earlier. It is a boy holding a strap for a crate of boots at the Cordwain
   gate and it predates any feeder, so it does not spend the sentence — but it is close enough that the
   construction should be treated as **retired** and not merely rationed. Logged, not changed.
+  **CONFIRMED AT THE CLOSE AND STILL BINDING.** The Volume 1 close audit certified the construction as
+  *"spent once, Ch 50's last line, and nowhere else in the volume"* — false, and it deleted this ruling by
+  writing over it. **This entry governs: the sentence is Ch 50's, the construction is spent twice and is
+  gone for good.** The prose at Ch 12:19 stands and is not to be altered.
 - **Fifty-eight illegal weekday names survive behind Chapter 20** — Ch 1 (6), 2 (4), 3 (4), 4 (7), 5 (5),
   6 (8), 7 (7), 8 (3), 9 (2), 10 (9), 11 (1), 19 (2); Chapters 12–18 are clean. Three are bare:
   `chapter-0002.md:109`, `chapter-0006.md:19`, `chapter-0006.md:27`. **Flagged as an open repair, not
@@ -465,7 +474,9 @@ because a later phase must be able to tell these from decisions the batch made o
 An audit, not a writer. **It changed no prose in Chapters 1–50, moved no age, moved no scene, re-opened no
 irreversible decision, and did not touch `outline/ending.md`.** It corrected four state files against the
 page and recorded nine findings. **Nothing below is a canon change; every entry is either a correction of a
-file that was wrong, or a finding a later repair phase should take first.**
+file that was wrong, or a finding a later repair phase should take first.** **One of the nine — Correction
+8 — was itself false and has been withdrawn, and the reproduction test printed against Correction 4 was
+mis-specified and has been corrected; both are marked in place.**
 
 - **CORRECTION — `state/current.md` said Rhee was "preparing to go over his head." He is not, and it is on
   no page.** `outline/volume-01.md`'s *Concrete resolution* says the same. Mechanical: `grep -rn '\bRhee\b'
@@ -477,20 +488,32 @@ file that was wrong, or a finding a later repair phase should take first.**
   offer.** This is the tenth false certification of this shape in this pipeline and the first about a
   character rather than about a count.
 - **FINDING — eight consecutive chapters close on the same construction.** Chapters **42, 43, 44, 45, 46,
-  47, 48 and 49** all end on a paragraph beginning **"He wanted, concretely,"**. Checked by reading the last
-  non-heading, non-panel paragraph of each of the fifty files. Ch 41 and Ch 50 are in other shapes.
-  `AGENTS.md` fails a batch for the same construction more than twice running. **The Batch 0005 review
-  repair caught the ten-in-a-row *For &lt;person&gt;, his &lt;verb&gt; meant* closing, rewrote seven endings, and
-  put this in the seven.** Its claim that the old construction is now in Ch 41, 44 and 48 only is **true**
-  and was verified here; the repair checked the construction it had been told about and not the one the page
-  ended on. **Not repaired here — eight endings across four certified batches is a wide ripple, and an audit
+  47, 48 and 49** all end on a paragraph carrying **"He wanted, concretely,"**. **Five open the final
+  paragraph on the string (42–46); three embed it inside the final paragraph (`chapter-0047.md:81`,
+  `chapter-0048.md:79`, `chapter-0049.md:80`).** Ch 41 and Ch 50 are in other shapes. `AGENTS.md` fails a
+  batch for the same construction more than twice running. **The Batch 0005 review repair caught the
+  ten-in-a-row *For &lt;person&gt;, his &lt;verb&gt; meant* closing, rewrote seven endings, and put this in
+  the seven.** Its claim that the old construction is now in Ch 41, 44 and 48 only is **true** and was
+  verified here; the repair checked the construction it had been told about and not the one the page ended
+  on. **Not repaired here — eight endings across four certified batches is a wide ripple, and an audit
   that repairs the volume is not an audit.** It is the first item a repair phase should take and **the good
   prose underneath is kept in seven of the eight; only the opening clause needs to change.**
+  *(**The reproduction test printed for this finding was mis-specified and has been corrected.** It asked
+  whether the final paragraph **begins** with the string and returns **five**, not eight — a repair pass
+  running it as printed would have repaired five endings and left three chapters running the construction.
+  The test now asks whether the final paragraph **contains** the string and returns eight. Working and
+  output are in `reviews/volume-01/volume-close.md`, Correction 4.)*
 - **CORRECTION — the residual age census is seven, not five.** Registered in full above. Two were never on
   any list and both are Lin Hao in narration.
-- **CORRECTION — `state/current.md` said Batch 0005's `nobody` budget ran fifteen times with four of them
-  in Ch 50. Ch 50 carries one `nobody` and one `no one`.** The total of 15 across Ch 41–50 is right. Immaterial
-  to the budget; corrected for accuracy.
+- **WITHDRAWN — the close audit's `nobody` correction was false and this entry now stands corrected.**
+  The audit reported `state/current.md`'s *"fifteen times across Batch 0005's ten chapters, four of them
+  in Ch 50"* as wrong, on the basis of a per-chapter sequence it printed as 3, 2, 1, 4, 1, 0, 0, 0, 1, 0.
+  **The page has 2, 1, 4, 1, 0, 0, 0, 1, 0, 3** — the audit put three in Ch 41 and zero in Ch 50, and
+  Ch 50 actually carries **three `nobody` (lines 47, 51, 69) and one `no one` (line 65), which is four.**
+  Only the totals survived the audit's check: twelve `nobody`, three `no one`, fifteen together.
+  **`state/current.md`'s original sentence was right in every particular the audit corrected it on, and has
+  been restored.** Immaterial to the budget either way; the correction was withdrawn rather than reissued,
+  because an eleventh false certification is worse than an inaccurate footnote.
 - **CORRECTION — `state/continuity.md`'s H1 sections were not in the order the file claimed.** The
   `Batch 0005` block sat at the bottom of the file while its own header read *"Appended above Batch 0004.
   Nothing below altered."* A writer reading top-down would have taken Batch 0004's mechanics as the most
@@ -506,3 +529,41 @@ file that was wrong, or a finding a later repair phase should take first.**
   chapters. The reservoir's hard limit in `bible/power-system.md` holds on the page.
 - **CONFIRMED AND NOT CHANGED — no new final enemy, and the ending is untouched.** Ferreira, Quayle and
   Sowe are all named in no chapter of Volume 1. `outline/ending.md` was not modified.
+
+## Flags raised by the external review of the Volume 1 close audit
+
+A reviewer, not a writer, and not a prose pass. **It changed no chapter, moved no age, moved no scene,
+re-opened no irreversible decision, and did not touch `outline/ending.md`.** All three findings were
+re-verified against the page before anything was written down. **Every one of them is a defect in the
+close audit's own claims, and two of them were defects of the same kind: a command that was narrower than
+the finding it was attached to, reported as though it were the whole finding.**
+
+- **CORRECTION — the audit's reproduction test for the eight-in-a-row ending did not reproduce it.** It
+  asked whether the final paragraph **begins** with "He wanted, concretely," and returns **five**
+  (Ch 42–46). **Ch 47, 48 and 49 carry it inside the final paragraph**, at `chapter-0047.md:81`,
+  `chapter-0048.md:79` and `chapter-0049.md:80`. **The finding is eight consecutive chapters and is
+  unchanged; the command printed beside it returned five and was printed beside eight.** Corrected in
+  `reviews/volume-01/volume-close.md`, in `state/current.md` item 35 and in the entry above. **The
+  mis-specification had reached `state/current.md` and would have reached the Volume 2 prompt through it.**
+- **CORRECTION — the audit re-certified a retired construction and promoted it into a standing rule.**
+  §6 of the audit certified *nobody thanked him* as *"spent once, Ch 50's last line, and nowhere else in
+  the volume."* **`chapter-0012.md:19` reads "Nobody thanked the boy."** The Batch 0003 review repair had
+  already found that instance and already ruled the construction **retired rather than rationed**; the
+  close audit wrote its absolute negative over the top of that ruling and deleted it. **Corrected: the
+  sentence is spent once at Ch 50:69; the construction is spent twice and is gone for good.** The prose at
+  Ch 12:19 is load-bearing and stands. See the entry under *Canon-change flags raised by the Batch 0003
+  review repair*, which governs.
+- **CORRECTION — a neighbouring row of the same table was ambiguous and read as a certification.** The
+  audit certified *nobody asked* as *"Spent once, Ch 38, in Ola's own hand. Not available again."* The
+  **note** is spent once and that is true. **The motif is not rationed at all**: *nobody asked him, nobody
+  had ever asked, nobody's ever asked* runs **fourteen times** across Ch 11, 12, 13, 15, 16, 22, 23, 26
+  (twice), 27, 28, 34, 38 and 43, and it is deliberate texture, because the subject of Volume 1 is the
+  unrecorded and the unasked-for. **Motif available, note spent.** Recorded so a Volume 2 writer does not
+  ration a motif the book uses fourteen times, and does not spend the note a second time.
+- **WITHDRAWN — the audit's `nobody` correction overwrote an accurate state file.** Withdrawn in place in
+  the list above and restored in `state/current.md`. **This is the eleventh false certification of this
+  shape in this pipeline and the second of the three inside the close audit itself.**
+
+**Standing rule for the next phase, stated once: a command that runs is not the command the claim is
+attached to, and a correction made against an unverified per-chapter sequence is a new certification, not
+the end of one.** Three defects in one file, all that shape.

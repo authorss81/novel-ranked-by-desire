@@ -131,6 +131,22 @@ outline and the cards may use them.
 opens. Every partner's age is fixed and no chapter announces one. Every sexual character is an adult, and an
 impaired state is never the mechanism that produces a scene.
 
+**And one construction that is retired rather than rationed.** The audit in `reviews/volume-01/volume-close.md`
+§6 certified *nobody thanked him* as *"spent once, Ch 50's last line, and nowhere else in the volume."*
+**That was false. `chapter-0012.md:19` reads "Nobody thanked the boy."** The construction is spent **twice**
+and no Volume 2 chapter may use it with any object.
+
+**A neighbouring row of that same table is ambiguous, and read it carefully.** The audit certifies
+*nobody asked* as *"Spent once, Ch 38, in Ola's own hand. Not available again."* **The note is** — "Nobody
+has asked me to do this", `chapter-0038.md:83`, spent once. **The motif is not rationed at all.** *Nobody
+asked him / nobody had ever asked / nobody's ever asked* runs **fourteen times** across Ch 11, 12, 13, 15,
+16, 22, 23, 26 (twice), 27, 28, 34, 38 and 43, and it is deliberate texture: the subject of Volume 1 is the
+unrecorded and the unasked-for. **Treat the motif as available and the note as spent.**
+
+Three defects in the audit itself were found by an external review and are corrected in place — see
+*External review of this audit* at the end of the audit file. **Read it before relying on any single claim
+in that file.**
+
 ## Do not
 
 - **Draft a chapter.** Not one, not an opening paragraph, not a scene beat.
@@ -140,9 +156,11 @@ impaired state is never the mechanism that produces a scene.
 - Modify `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`,
   `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, or `state/phase-ledger.json`.
 - Introduce a final enemy, or change anything in `outline/ending.md`.
-- Re-open a decided contradiction. `state/current.md` items 1 to 42 are closed. **Read item 35 and item 38
-  before you write the outline**: item 35 is Volume 1's outstanding prose debt and item 38 is the Rhee
-  certification that was false.
+- Re-open a decided contradiction. `state/current.md` items 1 to 45 are closed. **Read items 35, 38 and
+  43 to 45 before you write the outline**: item 35 is Volume 1's outstanding prose debt, item 38 is the
+  Rhee certification that was false, and items 43 to 45 are three defects an external review found in the
+  close audit itself — **including the mis-specified test on item 35, which returns five chapters where the
+  finding is eight.** A command that runs is not the command a claim is attached to.
 
 ## Finish by stating, in your output, in this order
 

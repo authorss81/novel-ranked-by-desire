@@ -56,9 +56,18 @@ colleague, the man who filed instead of donating. Tobias Renn, junior filing cle
 - Ledger notation is a System message: square brackets, own line, plain language, at most one per chapter.
   It reports in people, never in acts.
 - No unit other than grains and bands. Not points, not levels, not XP.
-- Rationed constructions, each usable once or twice across the whole book: "nobody asked", "nobody thanked
-  him", "there is no form for this" (three times, escalating), "there is no column for it" (Chapter 1
-  only, then Volume 7), "the record remained".
+- Rationed constructions, each usable once or twice across the whole book: "there is no form for this"
+  (three times, escalating), "there is no column for it" (Chapter 1 only, then Volume 7), "the record
+  remained".
+  **"nobody thanked him" is no longer rationed — it is retired.** The construction occurs twice, at
+  `chapter-0012.md:19` ("Nobody thanked the boy.") and `chapter-0050.md:69`, and the Batch 0003 review
+  repair ruled it retired rather than rationed. **No chapter may use it again, with any object.** The
+  Volume 1 close audit briefly certified it as spent-once; that was false and is corrected.
+  **"nobody asked" is two different things and must not be rationed as one.** The **note** in Ola's own
+  hand — "Nobody has asked me to do this", Ch 38 — is spent once. The **motif** — *nobody asked him,
+  nobody had ever asked, nobody's ever asked* — runs fourteen times across Ch 11–43 and is deliberate
+  texture, because the volume's subject is the unrecorded and the unasked-for. **Motif available, note
+  spent.**
 - After any passage of institutional machinery, one plain sentence about what it means for one named
   person.
 - **Chapter-ending beats vary.** Batch 0005 ran a *For <person>, his <verb> meant* turn in all ten
@@ -66,6 +75,12 @@ colleague, the man who filed instead of donating. Tobias Renn, junior filing cle
   construction as emphasis more than twice running, so **that turn now appears in Ch 41, Ch 44 and Ch 48
   only, and no two of them are adjacent.** The beat survives in other shapes in the others. A later batch
   must not reinstate the ten.
+  **The repair that fixed that one put a second construction in its place, and that is the volume's
+  outstanding prose debt.** Chapters 42–49 — eight consecutive — close on a paragraph carrying **"He
+  wanted, concretely,"** with five opening the final paragraph on it and three embedding it inside it.
+  **A Volume 2 batch may not end two consecutive chapters on the same construction, and must check what
+  the page actually ends on.** When checking, test whether the final paragraph **contains** the string
+  rather than whether it **begins** with it — the stricter test returns five and hides three.
 
 ## Planned ending — do not drift
 
@@ -168,6 +183,11 @@ him anyway.** Ines cannot decide whether to file the himself line, and has said 
 - **The Planning-register ban.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal* and *Channel* are
   planning-register words. **Chapters 1–50 contain none and a Volume 2 chapter may contain none.**
 - **The weekday rule.** Only Thursday, and Monday the nineteenth only where the draw-down opens.
+- **The `nobody thanked` construction is retired, not rationed.** It is spent twice — `chapter-0012.md:19`
+  and `chapter-0050.md:69` — and the sentence itself belongs to Ch 50. **No Volume 2 chapter may use
+  `nobody thanked` with any object.** A Volume 1 close audit certified this as spent-once and the
+  certification was false; it is recorded here because a Volume 2 writer reading only this block would
+  otherwise inherit it.
 - **Every partner's age is fixed** and no chapter announces one. **Seven residual instances of announced
   ages survive in Volume 1 and are registered in `state/open-threads.md`; three of them are Lin Hao or a
   core partner stating a canon-correct age.** A Volume 2 writer making a deliberate decision to state one
