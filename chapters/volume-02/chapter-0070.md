@@ -1,6 +1,8 @@
 # The Man Who Filed
 
-"Sit down," said Drant. "You have come on a schedule date and I have a schedule sheet, so you are fourth, and the fifth is on the thirty-first of next month, and I wrote it out this morning and I have not told you and I am telling you now so that you cannot use it against me later."
+"Sit down," said Drant. "You have come on a schedule date and I have a schedule sheet, so you are fifth of five, and that closes it, and nothing on the form says a schedule ever finishes, which is how a clerk ends up holding two calendars for one man.
+
+After today the only one still running is the standing. The twenty-fourth and the thirty-first, and you have both of those, because I gave you the thirty-first on the seventeenth and a habit is worth something when it is in ink."
 
 "That is not why you called me in before I had my coat off."
 

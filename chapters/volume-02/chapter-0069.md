@@ -1,10 +1,12 @@
-# The Second Attendance
+# The Fourth Box
 
 The fourth of the week began with a runner at the door who took his name and wrote it down before she took him up, and the runner was not the one from the intake corridor and did not look up when she said it.
 
-"Seventh floor of the standing is being kept," she said, from the sheet. "You are the seventh entry this morning and the eighth is behind you and the ninth is a Field officer."
+"Seventh entry of the standing is being kept," she said, from the sheet. "You are the seventh this morning and the eighth is behind you on the stair and the ninth is not written yet."
 
-"Mine," said Runa Sato.
+"The ninth is a Field officer," Lin Hao said.
+
+"The ninth is mine," said Runa Sato.
 
 She came up the last flight behind him with her hands behind her back and did not say anything in the corridor, which was the correct thing and cost him something to be grateful for.
 
@@ -18,21 +20,25 @@ The room was the same room. Drant had the minute sheet, and the plate in a cloth
 
 He put two sheets down side by side on the cloth, squared to the edges.
 
-"The left is your standing. Seven-day interval, commencing the third, plate and ruling, discharge the three ruled lines against a weekly strip. That is the instrument you signed on the third and it is in force and there is a strip on it for every week since." He put a finger on the other sheet. "The right is the observation desk. Nine-day interval, first and second attendance kept on the eighteenth and the twenty-fourth, five dates written down in front of you on the twenty-seventh."
+"The left is your standing. Seven-day interval, commencing the third, plate and ruling, discharge the three ruled lines against a weekly strip. That is the instrument you signed on the third and it is in force and there is a strip on it for every week since."
+
+He put a finger on the other sheet.
+
+"The right is the observation desk. Nine-day interval, first attendance kept on the eighteenth of last month and the second on the twenty-fourth of last month, and three more dates written in a column in front of you on the eighteenth, which are the third, the twelfth and the twenty-first."
 
 "That was superseded."
 
 "It was not. It was discharged, which is a different thing and the difference is going to cost you about nine days." Drant squared the two sheets so their edges matched. "A standing supersedes a schedule. A schedule does not supersede a standing.
 
-I wrote the third, the twelfth and the twenty-first in a column in front of you on the twenty-fourth and I signed it, and when the interval changed nobody upstairs told me to cancel them, and I am not permitted to cancel my own instruments, and I would not if I could, because a man who has been told there is a line of dates coming should be able to see the line."
+I wrote the third, the twelfth and the twenty-first in that column on the eighteenth and I signed it, and when the interval changed nobody upstairs told me to cancel them, and I am not permitted to cancel my own instruments, and I would not if I could, because a man who has been told there is a line of dates coming should be able to see the line."
 
 "So how many."
 
-"Four before the twenty-fourth of next month. The seventeenth, the twenty-first and the twenty-fourth on the schedule, and the seventeenth, the twenty-fourth and the thirty-first on the standing." He looked at him. "And the thirty-first of next month is not a date you have ever been told about, because it is the eighth week of a strip and I wrote it this morning out of a habit, and I am telling you it is there so that you cannot say nobody told you."
+"Three after this one. The twenty-first on the schedule, and the twenty-fourth and the thirty-first on the standing. And the thirty-first is not a date you have ever been told about, because it is the fifth week of a strip and I wrote it this morning out of a habit, and I am telling you it is there so that you cannot say nobody told you."
 
 Lin Hao looked at the two sheets.
 
-Three days apart, twice in eight days, for two months, because an office had found a cheaper instrument and had not cancelled the expensive one.
+Four days apart, then three, then seven, for two months, because an office had found a cheaper instrument and had not cancelled the expensive one.
 
 "I am not going to complain about it," Drant said. "I want to be exact about why. Because if you complain about it I have to write down that you complained about it, and a man who complains about an interval is a man who has begun to keep his own calendar, and the moment you keep your own calendar this office stops being the thing that owns your time and becomes the thing you visit."
 
@@ -158,7 +164,7 @@ Drant wrote it in his own hand as a heading and turned the sheet round, and Lin 
 
 He squared the sheets and put the three squares back in the envelope and the envelope inside the tray on the left.
 
-"Attendance kept," he said. "Seventh of the standing, fourth of the schedule, and your signature on an instrument that has never been used in nineteen years." He capped the pen. "The three of them are on the nineteenth and you are not, because you are not to be in the room, because you are the source and a source in the room is a coach, and I will not have that done to them."
+"Attendance kept," he said. "Third of the standing, and no date of yours on the schedule at all, and your signature on an instrument that has never been used in nineteen years." He capped the pen. "The three of them are on the nineteenth and you are not, because you are not to be in the room, because you are the source and a source in the room is a coach, and I will not have that done to them."
 
 "That is a rule you invented."
 
@@ -178,7 +184,7 @@ He walked the long road to the branch at forty-one minutes, past the square, wit
 
 And on the two flights of stone between the public counter and the corridor desk he worked out where all of it had come from.
 
-The map had gone up on the nineteenth with Ruta Vesely's initials on it. A map with three names on it would have been read by a woman at the head of that office by now. And that woman had been keeping a book of him since the eighth of last month, and had written a sixth heading on it in her own hand.
+The map goes up on the twentieth with Ruta Vesely's initials on the tie. A map with three names on it will be read by a woman at the head of that office inside three days, and that woman has been keeping a book of him since the eighth of last month, and wrote a sixth heading on it in her own hand on the twentieth.
 
 Three names in a file. A second question behind them.
 

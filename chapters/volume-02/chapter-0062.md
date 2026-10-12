@@ -120,13 +120,17 @@ Lin Hao took the plate and went up the stairs.
 
 Outside the Exchange it was still early enough to be cold, and the square was full, and the Board was nine streets away with a black six on it.
 
-He stood on the kerb with the plate in a cloth bag and worked out, standing still on a pavement like any man waiting for a tram, what he had done at half past nine that morning. He had volunteered, in a room, the only proof that existed that nobody in the city could find where his merit was going. He had done it in exchange for two days in a fortnight.
+He stood on the kerb with the plate in a cloth bag and worked out, standing still on a pavement like any man waiting for a tram, what he had done at half past nine that morning.
 
-Two days in a fortnight was the cheapest thing on the table, and he had taken it because he was tired.
+He had volunteered, in a room, the only proof that existed that nobody in the city could find where his merit was going, and he had done it for two days in a fortnight.
+
+Two days was the cheapest thing on the table. He had taken it because he was tired.
 
 It was a good trade. He could see that it was a good trade, which was the difficulty.
 
-Two days a fortnight is four days a month and Tessa's figure on the wall was twenty-two on the twenty-fifth of the month before, and a good trade in Volume Two is a thing that looks like arithmetic and turns out to be a person.
+Two days a fortnight is four days a month and Tessa's figure on the wall was twenty-two on the twenty-fifth of the month before, and a good trade is a thing that looks like arithmetic and turns out to be a person.
+
+He had not given them four days. He had given them a machine on a wall in his own corridor with a bell on it, once a week, for as long as they cared to keep printing, and there is no version of this where the thing that comes up that stair is four days.
 
 On the desk behind him, in a room with a cloth on the table, Silas Drant entered the minute in the register of outgoing paper with the time and the date and the standing, and put it flat under the tray, and then stood for a moment with his hand on the tray.
 

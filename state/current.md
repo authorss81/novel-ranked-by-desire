@@ -127,13 +127,16 @@ wrong on purpose, and a document with a number on it that somebody else wrote ab
 - **Perrin Sowe is on the page as a respondent's form and is in no room.** VEIL-RESEARCH, PERRIN SOWE,
   RESPONSIBLE, printed on the outgoing consult so the reply need not be looked for. **He answered Sun's memo
   three years ago; she drafted four lines and what went back was his, and she has never read them.** He has
-  not come down her corridor once in three years. **Lin Wei's whereabouts remain unknown to every character on
-  the page.**
+  not come down her corridor once in three years. **He appears nowhere else in Volume 2.** A first pass of
+  Ch 63 had him take the branch strip off a colleague's hand in the corridor; the Batch 0002 review repair
+  removed it, because `outline/volume-02.md` places him off the page for the volume. **Lin Wei's
+  whereabouts remain unknown to every character on the page.**
 - **Two collectors are now loose in the city.** A woman with a notebook rides the Ferrier line and asks
   operators for their counts; a woman in a dark coat with no paper has been working his branch floor and
   Marguerite's porters for eighteen days. **Nadia gave the notebook woman his name in a lift, on purpose.**
-- **Tessa is going to send the Office her own arms** on the twentieth, as a control. 258 cases, cause not
-  established, and one case with a cause. **The rack ladder is 17 → 18 → 22 → 26 and lines only rise.**
+- **Tessa is going to send the Office her own arms** on the twentieth, as a control. **258 cases over
+  ELEVEN years** — the drawer is an eleven-year drawer and the Office's form asks for eleven years — cause
+  not established, and one case with a cause. **The rack ladder is 17 → 18 → 22 → 26 and lines only rise.**
 - **Ines's four-sided sheet is in his coat**, going in on the seventh, with RECIPIENT printed over a blank
   line at the bottom of the fourth side.
 - **Beatrix has taken him off her list** since the thirteenth and he never asked. **The ninth of September is

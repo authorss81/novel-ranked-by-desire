@@ -22,10 +22,20 @@ block at the head of the stack**), `state/open-threads.md` (**the B46–B59 tabl
 `state/chapter-summaries.md`. Then **read Chapters 62, 63, 67, 69 and 70 in full** — 62 is the bargain,
 63 is the scene and the sentence, 67 is the map, 69 is the acknowledgement, 70 is the consult line.
 
-**Chapters 51–70 have not been reviewed.** Every mechanical gate passed and the record of that is at the
-foot of `state/open-threads.md` and in `state/continuity.md`. **Read the chapters as prose and assume
-nothing about them is verified.** If you find a defect, do not build on it and do not repair it uninvited —
-record it in `state/open-threads.md` and write around it.
+**Chapters 61–70 have now been reviewed and repaired; Chapters 51–60 have not.** A separate review run read
+61–70 and fixed seven hard errors and four smaller ones — a meta leak in Ch 62, Perrin Sowe dramatized
+against his own volume outline in Ch 63, a tense and date break in Ch 69, the schedule arithmetic in Ch 69,
+the attendance ordinals across Ch 67/69/70, a count that was eleven years in one sentence and four in the
+next in Ch 68, a retired construction in Ch 64, and **the title of Ch 69, which was wrong in the batch-0002
+title bank and is now *The Fourth Box*.** The findings and every gate re-run are at the head of
+`state/open-threads.md` and in `state/continuity.md`. **The two files to trust over the prose if they ever
+disagree are those two**, because they are the ones that were corrected.
+
+**Chapters 51–60 still have not been reviewed**, and Batch 0002 found a reader-checkable arithmetic defect
+in them (a week count roughly three times what the calendar supports, in Ch 57 and Ch 60) and wrote around
+it rather than repair it. **Read 51–60 as prose and assume nothing about them is verified.** Read 61–70 as
+prose too, but assume they have had one careful pass. If you find a defect in either, do not build on it and
+do not repair it uninvited — record it in `state/open-threads.md` and write around it.
 
 ## Starting numbers, exact
 

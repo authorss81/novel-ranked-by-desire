@@ -262,7 +262,7 @@ Then she got up, filled the jug, and washed him herself the way she had done it 
 
 I have known what day it was since the fourth, because on the fourth a colleague of mine in this house came back from a filing run with a strip off a branch printer in her hand, and it had a number on it, and the number was a ruling number, and she did not know what she was holding and she brought it to me." Sun Meiling said it perfectly level.
 
-"Sowe took it off her in the corridor and looked at it and gave it back and said nothing to me about it, and I have known since the fourth and it has been sitting on the table between us for six days like a third person."
+"A filing clerk on my own floor took it off her in the corridor and looked at it and gave it back and said nothing to me about it, and there were four other people in that corridor and not one of them looked up, and I have known since the fourth, and it has been sitting on the table between us for six days like a third person."
 
 She looked up at the bare wall.
 

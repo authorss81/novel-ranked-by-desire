@@ -142,7 +142,7 @@ What it says is that a distribution of one event is not a distribution, and an o
 
 Drant stamped the attendance sheet once.
 
-"Fourth attendance kept," he said. "And the strip from Thursday went into the tray with no envelope and I am entering it as received, and the figure on it was the same figure, and it has not moved since the Review, and I am a clerk and I do not have a view about the ninth week."
+"Fourth attendance kept, fourth on the schedule, and it is not a standing Thursday," he said. "And the strip from Thursday went into the tray with no envelope and I am entering it as received, and the figure on it was the same figure, and it has not moved since the Review, and I am a clerk and I do not have a view about the ninth week."
 
 He went out and shut the door.
 

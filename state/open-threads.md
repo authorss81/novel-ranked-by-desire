@@ -1,11 +1,81 @@
 # Open Threads
 
-**Volume 2 Batch 0002 is written: Chapters 61–70.** State updated by the batch that wrote it. **No
-review phase has run against Chapters 51–70**, which is the standing problem in this repository and is
-recorded again below rather than papered over. **Chapters 51–70 still have had no review, and this batch read
-them as prose and found one reader-checkable arithmetic defect in them — recorded below as D1 and in
-`state/continuity.md`. It was written around and not repaired, because this batch did not write those
-chapters.**
+**Volume 2 Batch 0002 is written: Chapters 61–70, and a separate review run has now read them and repaired
+them.** The full findings are in `logs/next.review.log`; the repairs are recorded immediately below and
+carried into `state/continuity.md` and `state/current.md`. **Chapters 51–60 have still had no review, and
+that remains the standing problem in this repository.** Batch 0002 read them as prose and found one
+reader-checkable arithmetic defect in them — recorded below as D1 and in `state/continuity.md`. It was
+written around and not repaired, because that batch did not write those chapters, and **nothing in this
+repair pass touched Chapters 51–60.**
+
+## Volume 2 Batch 0002 — review repair, completed
+
+**Seven hard errors and four smaller ones. All were fixed in place in the chapters. The batch was not
+restarted, no plot was moved, and the prose that was already good — Ch 63's scene, Ch 70's close — was left
+alone.** Findings and where each landed:
+
+1. **Meta leak — FIXED, `chapter-0062.md:131`.** The only instance of *Volume Two* in seventy chapters sat in
+   the paragraph carrying the batch's irreversible decision. The line is now in-world, and the paragraph
+   after it was **added**, because the repair was not only a substitution: the chapter had been framing the
+   cost of the strip as the two-day increment, which is not what he sold. **He did not give them four days.
+   He gave them a machine on a wall with a bell on it, once a week, for as long as they care to keep
+   printing.** Ch 69's closing paragraph already said *"the only part of it he was going to be able to give
+   back was four days and a strip of plate paper"*, and it now lands on a lie he can see.
+2. **Perrin Sowe dramatized — FIXED, `chapter-0063.md:265`.** `outline/volume-02.md:34` and `:36` put him off
+   the page for the volume. The strip is now taken by **an unnamed filing clerk on Sun Meiling's own floor**,
+   who looks at it, gives it back, and is not looked at by the other four people in the corridor. **This is
+   the better version and it was the reviewer's own argument:** Ch 70 depends on Sowe never having come down
+   that corridor, and on the strip having moved through the building as unremarkable paper.
+3. **Ch 69 map date and tense — FIXED, `chapter-0069.md:187`.** "Had gone up on the nineteenth," in past
+   perfect, on the seventeenth, against `:53` and against `chapter-0070.md:11`. Now forward-looking and on
+   the **twentieth**. (The rewrite also removed the only non-Thursday weekday name in the batch, which the
+   reviewer's mechanical pass had not caught because it was introduced during repair.)
+4. **Ch 69 schedule dates — FIXED, `chapter-0069.md:23` and `:29`.** "Five dates written down in front of
+   you on the twenty-seventh," and "in front of you on the twenty-fourth." **Ch 60 puts all five dates in a
+   column on the 18th of last month**, which is where they now are.
+5. **Ch 69 count — FIXED, `chapter-0069.md:33`.** "Four before the twenty-fourth" followed by six dates with
+   the seventeenth duplicated and the 17th and 24th filed as schedule dates when Ch 61 established them as
+   standing Thursdays. Now: **three after this one — the 21st on the schedule, the 24th and 31st on the
+   standing**, four days apart then three then seven. The adjacent "**eighth** week of the strip" was also
+   wrong: the strip commences on the 3rd, so the 31st is the **fifth** week.
+6. **Attendance ordinals — FIXED at `chapter-0069.md:161` and `:3` of `chapter-0070.md`; `chapter-0062.md`
+   and `chapter-0067.md` checked and found sound.** *The review was right that the ordinals could not all be
+   true and wrong about why.* Ch 62 and Ch 67 are correct: the register runs one unbroken count across both
+   instruments, so the 3rd is the first kept *of the standing* and the 12th is the **fourth kept** and is
+   not a standing Thursday. Ch 67 now says so in the open. Ch 69's "**seventh of the standing, fourth of the
+   schedule**" was the impossible one — on the 17th it is the **third of the standing and no schedule date
+   at all**. Ch 70's opening claimed "you are fourth, and the fifth is on the thirty-first" and its closing
+   said "fifth of the schedule"; the schedule **closes** on the 21st and the 31st is a standing date.
+   **The full arithmetic is now written into `state/continuity.md` and is the authority for any ordinal.**
+7. **Ch 68's count — FIXED, `chapter-0068.md:71` and `:95`.** 258 was an eleven-year total in the drawer and
+   a four-year total on the Office's form and in her answer. **Everything is now eleven years, including the
+   request.** "Four weeks to answer" is a turnaround time and was left alone.
+8. **Retired construction paraphrased — FIXED, `chapter-0064.md:89`.** *"because there is no rule for one"*
+   is the skeleton of the retired *there is no form for this*. Replaced with Ines's own fact: **every form in
+   the wing prints the address before the name, so nothing in four years of reading them has ever been built
+   to carry a man with nowhere in it, and she stopped looking two years ago and told nobody.**
+9. **Dangling "Mine," — FIXED, `chapter-0069.md:5-9`.** The runner's ninth entry now has a referent and
+   Lin Hao names it before Runa Sato claims it. **"Seventh floor of the standing" also became "seventh entry"**
+   — it was the same confusion.
+10. **The increment-as-cost framing — FIXED with item 1.** The weekly standing is roughly four attendances a
+    month against three under the old schedule; the change is not the increment, it is that the entire
+    cadence now runs off a printed strip in his own corridor.
+11. **Title — FIXED, `chapter-0069.md:1`.** *The Second Attendance* contradicted its own last line and
+    described the scene rather than naming it. Now ***The Fourth Box***, after the empty one.
+    **THE TITLE BANK IS THE SOURCE OF THE ERROR** — `workspace/volume-02/batch-0002/PROMPT.md:11-14` supplies
+    `69 The Second Attendance`, and the writer took it as instructed. **That bank is spent and closed, it is
+    not to be reused, and a bank entry that contradicts a chapter's own arithmetic must be overridden by
+    the chapter rather than obeyed.** *Checked: `The Fourth Box` is unique across all seventy titles and
+    under 90 characters.* The batch-0003 bank (`workspace/volume-02/batch-0003/PROMPT.md:13-15`) is
+    unaffected and is live.
+
+**Not defects, noted so a later run does not chase them.** The "forty-one minutes" in Ch 61 and Ch 69 is an
+intentional motif. The "about forty times" in `chapter-0070.md` is a count of occasions, not an age, and is
+inside the no-ages gate.
+
+**The batch's own standing rule holds and was the right rule.** *"A count is not a reading."* Every
+mechanical gate passed on the unrepaired text and every one of the seven hard errors was invisible to all of
+them. The gates are re-run on the repaired text below.
 
 ## What Volume 2 Batch 0002 has opened, after Ch 70
 

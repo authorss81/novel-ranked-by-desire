@@ -107,7 +107,9 @@ weekday names appear in Chapters 61–70.
   10th, a Thursday. Ch 67 the 12th. Ch 68 the 16th. Ch 69 the 17th, a Thursday. Ch 70 the 21st.**
 - **Thursdays in the batch: the 3rd, the 10th, the 17th.** **The 24th and the 31st of next month are
   Thursdays and are both now on paper** — the 24th as the last date of the weekly standing, the 31st as the
-  eighth week of the strip, written out by Drant on the 17th and disclosed before Lin Hao asked.
+  **fifth** week of the strip, written out by Drant on the 17th and disclosed before Lin Hao asked.
+  **A second disclosure of the 31st in Ch 70 is a callback, not a first telling: Ch 70 now says so on the
+  page ("because I gave you the thirty-first on the seventeenth").**
 - **Tessa's readable-by date is unchanged: the 25th of next month.** Volume 2's thirty-day-month convention
   (Review = the 13th, so the 25th of next month is six weeks after it) still governs, and this batch did not
   re-derive it.
@@ -144,15 +146,44 @@ weekday names appear in Chapters 61–70.
 - **The Office's question changed at Ch 61.** It is no longer *what are you*. It is *where were you, and
   who did you speak to, and what was the address*. **The register keeps addresses and no faces; his ledger
   keeps faces and no addresses; the third ruled line is the join and the join is a person.**
-- **TWO INSTRUMENTS, NOT ONE — new canon, Ch 69.** A standing supersedes a schedule; a schedule does not
-  supersede a standing. The seven-day standing and the nine-day schedule Drant wrote in a column on the
-  twenty-fourth are both in force and both his, and neither was cancelled. **Four attendances before the
-  twenty-fourth: the seventeenth, the twenty-first, the twenty-fourth, the thirty-first.**
-- **THE SECOND ATTENDANCE — new canon, Ch 69.** A procedure that has existed in the building for nine years
+- **Tessa's drawer — new canon, Ch 68, and it supersedes the 261 in the Batch 0001 block below.** The
+  count is now **two hundred and fifty-eight over eleven years**; it was two hundred and sixty-one eleven
+  days ago, and **it has gone down for the first time in eleven years** because three were ordinary people
+  who got better and she took them out of the number first. The other 255 have not moved, and the reason is
+  on the page: the only man in the city doing it has not done it once. **The period is ELEVEN YEARS
+  everywhere, including on the Office's own form.** *A first pass of Ch 68 printed "the last four years" on
+  the request form and "four years" in her answer, which made 258 both an eleven-year and a four-year total.
+  Corrected in the Batch 0002 review repair; **the drawer is an eleven-year drawer and must not be restated
+  as a shorter period.** "It is going to take me four weeks to answer" in Ch 68 is a turnaround time and is
+  not a period.*
+- **The Office reached the clinic on the 16th** — an anonymised printed request for the number of Vestry
+  patients in the last eleven years presenting in a manner inconsistent with their own recorded history, no
+  names, wholly within the rules, arriving at the ward in the wrong envelope. Tessa's answer: **258, cause
+  not established, not one of them, and one case with a cause — herself, as the control.** Goes out on the
+  20th. **She is the only settled mass in the city with a clean history, and that is the whole of what a
+  control is.**
+- **TWO INSTRUMENTS, NOT ONE — new canon, Ch 69, and the arithmetic is now settled on the page.** A standing
+  supersedes a schedule; a schedule does not supersede a standing. **The attendance register runs one
+  unbroken count across both instruments and is the authority for any ordinal spoken aloud.**
+  - **Standing, seven-day, commencing the 3rd, Thursdays: 3rd, 10th, 17th, 24th, 31st.**
+  - **Schedule, nine-day, written in a column in front of him on the 18th of last month: 18th and 24th of
+    last month kept, then the 3rd, the 12th and the 21st.** With a thirty-day month the last two intervals are
+    exactly nine days.
+  - **Count spoken aloud, chapter by chapter: Ch 60, 18th, first kept; 24th, second kept. Ch 62 (3rd), "first
+    attendance of the standing". Ch 67 (12th), "fourth attendance kept, fourth on the schedule, and it is not
+    a standing Thursday". Ch 69 (17th), "third of the standing, and no date of yours on the schedule at all".
+    Ch 70 (21st), "fifth of five", and the schedule is closed.**
+  - **Remaining after the 17th: three dates — the 21st on the schedule, then the 24th and 31st on the
+    standing, four days apart then three then seven.**
+- **THE SECOND KIND OF ATTENDANCE — new canon, Ch 69.** A procedure that has existed in the building for nine years
   and never been used: **attendance for a person named on an analyst's sheet.** Three buff squares, dated
   the nineteenth, one each for **Nell Ardery, Garrick Neve and the yard checker**, with three boxes marked
   and a fourth empty. The source cannot be traced without a source. **A source is not to be in the room** —
   Drant writes that rule into his own minutes on the twentieth, and it has never existed before.
+  **The chapter is titled *The Fourth Box*, after the empty one. "The second attendance" was the title in
+  the batch's title bank and was wrong on the page — it collided with the chapter's own line about the
+  third of the standing. The bank error is recorded in `state/open-threads.md`; the bank itself lives in
+  `workspace/volume-02/batch-0002/PROMPT.md` and is not to be reused.**
 - **THE ACKNOWLEDGEMENT — the second irreversible decision, Ch 69.** One sentence, his hand, minuted in a
   room: the three episodes were **caused at his hand**, are his cost, and are not evidence against the
   persons in which they occurred. **It is the first thing he has ever given that office that is not a
@@ -186,7 +217,7 @@ weekday names appear in Chapters 61–70.
 | --- | --- | --- |
 | **Ruta Vesely** | Analyst, observation support. **Met in person in Ch 67 and not before.** | Reached the wall map from a plate, a band and a date and has worked out that it is a map of his route with one spend on it. Does not believe her own map, wrote that down, left the confirmation box empty, took the whole finding up herself rather than let a clerk carry its weight, and will send a third line he is not allowed to read. **Recurring.** |
 | **Alma Quayle** | Head of the Office. **Named offstage in Ch 62 and Ch 63; in no room.** | Keeps the fourth book, does not read it, wrote the sixth heading herself on the twentieth, and is the woman Sun Meiling has met twice in corridors and who asked her a question she had already written down. |
-| **Perrin Sowe** | Veil-Research, third floor. **Named on a consult line and a respondent's form in Ch 70 and in no room.** | Lin Wei's colleague. The responsible officer who answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. He took the branch strip off a colleague's hand in the corridor on the fourth and said nothing. **He has not come down Sun's corridor once in three years.** |
+| **Perrin Sowe** | Veil-Research, third floor. **Named on a consult line and a respondent's form in Ch 70 and in no room.** | Lin Wei's colleague. The responsible officer who answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. **He has not come down Sun's corridor once in three years, and he is not in Volume 2 anywhere else.** *`outline/volume-02.md:34` and `:36` both place him off the page this volume; a first pass of Ch 63 had him take the branch strip off a colleague's hand in the corridor on the fourth, which is a dramatised appearance and was removed by the Batch 0002 review repair. The strip is now taken by an unnamed filing clerk on Sun's own floor, which is worse and is what Ch 70 needed.*
 | **The woman with the notebook** | Vestry lift, Ferrier line, the Yard gate. **Not named.** | Has a booked seat and no badge, rides four turns, and asks operators for their counts and whether they can feel it when it goes. Calls it a survey and says it is not an audit. Got his name off a signalman at the Yard end in about eleven seconds. |
 | **The woman in the dark coat** | Carried forward from Ch 56. **Not named.** | Has been asking Marguerite's porters as well as his branch floor for eighteen days. The Office is now asking the same question she is. |
 
@@ -240,7 +271,11 @@ throughout. Violence and sex in separate registers; there is no violence in the 
 - **`nobody` / `no one`: 19 across ten chapters, maximum 4 in any one.** Batch 0001 was 28 at a maximum of 5.
   The motif is available and the note stays spent.
 - **Planning-register words: zero.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal*, *Channel*.
-- **Weekday names other than Thursday: zero.** Nine Thursdays, all of them load-bearing.
+- **Weekday names other than Thursday: zero.** Eleven Thursdays, all of them load-bearing. *(Nine before the
+  Batch 0002 review repair; the repair added two while fixing a tense and a date, and **added a Friday by
+  accident in the first pass of the Ch 69 close, which was caught and removed before the text settled.
+  This is the second time in this batch that a repair introduced a gate breach — re-run every gate after a
+  repair, not before.**)*
 - **Horizontal rules: zero. Bold: zero. Italic: zero.** The first pass carried twenty-eight runs of emphasis
   around printed documents and quoted phrases and every one was stripped.
 - **Panels: one in ten chapters**, at Ch 64, where the count turns. `Ninety-seven lines. Eight turned.` and

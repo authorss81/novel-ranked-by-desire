@@ -68,7 +68,7 @@ It was a request form, one page, printed, with a box for the number of cases and
 
 "It does not have your name on it and neither does it have mine, and if you had said that sentence to me a week ago I would have read it to you as an auditor's convenience and it is not one." She turned it round so the printed heading was the right way up for him. "It is from this office.
 
-It is a request for the number of patients at the Vestry clinic in the last four years who present in a manner inconsistent with their own recorded history. It wants a number and a period and it does not want names and it is beautifully and perfectly within the rules and it took four years' worth of somebody else's work to write it."
+It is a request for the number of patients at the Vestry clinic in the last eleven years who present in a manner inconsistent with their own recorded history. It wants a number and a period and it does not want names and it is beautifully and perfectly within the rules and it took eleven years' worth of somebody else's work to write it."
 
 She tapped the box.
 
@@ -92,7 +92,7 @@ She put both hands flat on the table and looked at the request form and then at 
 
 "Say it."
 
-"Two hundred and fifty-eight. Four years of this clinic's night list and bench rota, counted by me, by hand, on my own bench, at two degrees, and the count is two hundred and fifty-eight." She held up one finger. "And then, under the number, I am going to write the word cause: not established. Not one of them. In four years, in two hundred and fifty-eight bodies, not one case where anybody could say why, including me, including the two hundred and fifty-eight people themselves."
+"Two hundred and fifty-eight. Eleven years of this clinic's night list and bench rota, counted by me, by hand, on my own bench, at two degrees, and the count is two hundred and fifty-eight." She held up one finger. "And then, under the number, I am going to write the word cause: not established. Not one of them. In eleven years, in two hundred and fifty-eight bodies, not one case where anybody could say why, including me, including the two hundred and fifty-eight people themselves."
 
 "They will know."
 

@@ -86,7 +86,11 @@ Lin Hao put his hand flat on the table.
 
 "Not file it. Hand it in. It goes in on the seventh, on my own hand, to the office that has asked me twice, and it goes in as a four-sided sheet with no attachments and no names and no addresses, and I sign it, and it gets a number." She did not raise her voice and she did not speed up. "And then it exists.
 
-It will have a number and a date and my name on the front of it and it will be a document in this city about a man with no address, and there is no office in Ostara that can produce a document of that kind because there is no rule for one, and a document with a number cannot be shut and cannot be forgotten and cannot be described away by the next person who gets the file."
+It will have a number and a date and my name on the front of it and it will be a document in this city about a man with no address.
+
+And every form in this wing prints the address before it prints the name, which means that in four years of reading them I have not once seen a piece of paper in this building built to carry a man with nowhere in it, and I stopped looking for one about two years ago and I did not tell anybody I had stopped.
+
+And a document with a number cannot be shut and cannot be forgotten and cannot be described away by the next person who gets the file."
 
 "That is not handing it in. That is putting it on a record where the Office can find it."
 
