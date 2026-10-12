@@ -1,44 +1,67 @@
 # Current State
 
-**Last written:** **Volume 2 planning, complete.** `outline/volume-02.md` and
-`outline/batches/volume-02-batch-0001.md` exist. Close audit run against the page, not against the file.
-`reviews/volume-01/volume-close.md` holds the full record with every claim marked mechanical or judgement.
-**Items 1 to 33 below are closed and stay closed. Items 34 to 42 are the audit's own. Items 43 to 45 are
-the external review of that audit, and all three corrected a defect in the record rather than on the page.**
+**Last written:** **Volume 2, Batch 0001 — Chapters 51–60, complete.** `outline/volume-02.md` and
+`outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; the chapters were
+written by the phase after it.
 
-**Position:** Volume 1 complete, chapters 1–50. **Rank six held, not provisional — seated on an
-instrument of the Review room, not on merit.** File open by one folio (Held Account One). Ledger
-ninety-one lines, eight turned, one reading himself. Query closed. Plate reads **8,138**.
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are
+not restated here and nothing in Volume 2 Batch 0001 re-opens any of them. The last three of them —
+43, 44 and 45 — are a warning about this pipeline, and the batch that wrote Chapters 51–60 obeyed them
+rather than re-deriving them.
 
-**In the story:** **the morning after the Review, the Fourth Branch second floor**, with a copy slip drying
-beside the soap, a finding in his coat pocket, and a brother's hand on a transfer receipt for 214,000
-grains into an account the index does not contain.
+**This batch did not write a review of itself.** That is deliberate. Nine batches in this repository have
+certified their own prose and every one of those certifications was wrong about the page it described;
+item 29 records that the structural fix is a separate run, not a prose discipline. What the batch did
+instead was run every mechanical gate and record the result, and record plainly in
+`state/open-threads.md` that those are counts and not a reading. **A review phase has not run against
+Chapters 51–60 and the next phase that reads them must assume the prose, the midpoint, the climax and
+the cost of the irreversible decision are all unverified.**
 
-**Volume goal — met, by a different mechanism than the one planned.** In this volume, **Lin Hao must hold
-rank six through the Winter Review**, or **the reservoir is requisitioned by the Fourth Branch and he
-never gets it back**. He held it. **Rhee does not have it: the offer was refused in Chapter 28 and closed
-permanently there, and Rhee has no line, no scene and no presence in Chapters 31–50.** *(An earlier
-version of this file said he was preparing to go over Lin Hao's head. He is not. Nothing on any page says
-he is. See item 38.)*
+**Position:** Volume 2 Batch 0001 closed. **Held six on an instrument, plate 8,138, 11,862 grains under
+his own band and no closer.** Ledger **103 lines, 8 turned, one reading himself**, nobody spent in the
+last ten chapters. File 4,112 with **one** folio open and no second. **The attendance schedule is running
+every nine days: the third, the twelfth and the twenty-first of next month, written in a column.**
 
-**Next phase to run:** **Volume 2 Batch 0001 writing (Chapters 51–60)** against
-`outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md`. Planning is closed; no chapter prose
-was written by this phase.
+**In the story:** **the 27th, evening, the room above the chop-house**, with a Thursday box discharged
+and a calendar written on the back of his hand.
 
-## Volume 2 — planned, not yet written
+**Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself
+again**, or **the Classification Wing classifies the account and empties him out at rank one**. Ten
+chapters in and he has learned one thing, and it is not what the outline expected: **the Office does not
+need to touch him at all.** It files him, it inventories attendances, it asks a man at a counter for
+names, and it lengthens the interval. Classification has not been entered and is not close to being
+entered; **the batch's threat is a calendar and a drawer, not a room with no window.**
 
-> In this volume, **Lin Hao must learn what is in him before he spends it on himself again**, or **the Classification Wing classifies the account and empties him out at rank one**.
+**Next phase to run:** **Volume 2 Batch 0002 (Chapters 61–70)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0002/PROMPT.md`.
 
-**Starting position traced from Chapter 50:** held six on an instrument (requisition of the 19th plus
-open-question finding), plate 8,138, 11,862 grains under the band; ninety-one lines, eight turned, one
-reading himself; query closed; file 4,112 with one folio open (Held Account One, no Zero); terms down
-unsigned; register thirty-first entry dated the 3rd with the finding number beside it in red ink.
+## Volume 2 Batch 0001 — what is now on the page
 
-**Scene schedule:** 55, 63, 74, 86, 97 (gaps 46→55:9, 55→63:8, 63→74:11, 74→86:12, 86→97:11).
-**Five scenes placed:** 55 Sun Meiling first (immovable), 63 Sun Meiling second with the Volume 8 sentence
-(immovable), 74 Tessa Okonkwo second, 86 Runa Sato second, 97 Ines Duarte second. Sun planted before 55 by
-name and not on the page (Ch 52–53 cards). Title bank of fifty verified unique against Volume 1 (zero
-duplicates, mechanical case-normalised check).
+- **The plate office prints a third line** it has never printed in twenty-nine years: **carried on a
+  Review ruling, number 112.** The same number is what a clerk wrote in red ink in the margin of the
+  thirty-first register line on the Review day, in front of him. **That is the join, and it is the most
+  actionable fact of the batch.**
+- **The notice is unstamped**, so nothing compels him and nothing binds the office. Three days' notice.
+  A missed attendance is a lapse, and a lapse against a held band is a finding against the band.
+- **The irreversible decision is Ch 54**: asked, in a room, by a clerk who admitted he had no authority
+  to ask, for the names behind eighty-one rows and one empty one — **he said no.** Minuted, read back,
+  signed, dated. **It cost him the safe end of the inquiry and bought him a calendar.** It also protected
+  nobody: by Ch 56 a woman in a dark coat had got two answers out of Colm Deveraux at the counter of his
+  own floor, for nothing, in an ordinary voice.
+- **Ch 58 repeats it and dictates his own minute** as he did on the 23rd, with Runa Sato present and
+  refusing to answer for him. The Office now has in writing that he will not be described by its means.
+- **Ch 55 is Sun Meiling's first scene** and is immovable. Her three terms are on the page: **not sworn,
+  not housed, not filed.** He is wanted for what he carries rather than audited for it. **She keeps one
+  sentence back** and will not give it until he has stood still long enough for a mass to go flat, and she
+  refuses to give a date because a man who aims at a date does not stand still at all.
+- **The batch's real engine is Ch 59.** Tessa's drawer holds **two hundred and sixty-one bodies** over
+  eleven years that present better than their own histories say they should. **A settled mass reads as
+  too well** — a fed body improves and *stays* improved — so a quarter of a district getting better
+  faster than medicine can do it is not a set of charts. It is a line. **The date is the twenty-fifth of
+  next month** and the fifth attendance is the twenty-first. **Four days.**
+- **Standing things carried untouched:** the May clipboard, the second folio, the Church, the rota word,
+  Marguerite's terms down and unsigned, Beatrix's broken price, September, Nadia refusing in advance and
+  unasked, **and Rhee, who has not appeared and may not.**
 
 ## Adjudicated contradictions — do not re-open
 
@@ -519,6 +542,19 @@ repeated, all fifty titles unique and under 90 characters and matching the title
 **Italic is 101 across the volume and zero from Ch 40 on** — the Batch 0005 figure of zero was a batch
 figure and must not be read as the book's.
 
+**Volume 2 Batch 0001 followed that tail rather than the volume average, and the tail is the register:**
+**italic is zero across Chapters 51–60**, and bold is zero, because Volume 1 carried 101 italics and
+none from Chapter 40 on. **Twenty-six horizontal rules were written in this batch's first pass as scene
+separators and all twenty-six were removed** — the same failure as Chapters 33–38 and Chapter 40, and the
+reason the sweep has to run against the whole book rather than against the last batch. **Chapter lengths:
+2,129 / 2,299 / 3,387 / 3,428 / 5,065 / 2,675 / 3,940 / 3,688 / 3,208 / 2,975**, total 32,794, mean
+3,279. **Longest paragraph in the batch is 114 words and the mean is 38.5**, against Volume 1's Ch 41–50
+at 117 and 39.5. Five sit
+above the 1,800–2,700 guide; the guide is not a quota and Ch 55 is a scene that is the product. **Ch 55
+is the longest chapter in the book and Batch 0001 did not cut it, and a later phase may not cite it as
+precedent for running long on a chapter that does not need the room** — that is the Ch 36 ruling
+repeated.
+
 **The age gate.** **Ten announced ages survive in nine chapters of certified prose, and five of them are
 Lin Hao or a core partner stating a canon-correct age** — Ch 2:21 and Ch 20:67 and Ch 37:57 (Lin Hao,
 narration), Ch 29:91 (Nadia, dialogue), Ch 46:37 (Marguerite, dialogue). **A grep will never find the one
@@ -550,28 +586,40 @@ a decision against her own interest, a purchase, an alliance designed before the
 want, a felony committed for him, and appetite named honestly and refused anyway. **Volume 2's five must
 not repeat a shape Volume 1 spent.**
 
-**Next scene in the book: Chapter 55, Sun Meiling's first, and it is immovable.** Volume 2 carries five
-(55, 63, 74, 86, 97) and **Ch 63 is also immovable** — the sentence that unlocks Volume 8.
-**Sun Meiling is planted in Volume 2, not started.** She has waited three years for the right question and
-is not named in a single chapter of Volume 1, which is correct.
+**Next scene in the book: Chapter 63, Sun Meiling's second, and it is immovable.** Volume 2 carries five
+(55, 63, 74, 86, 97) and **Ch 63 is the sentence that unlocks Volume 8.** **Ch 55 is written** — the
+batch's midpoint turn, 5,065 words, over the guide on purpose and on the precedent of Volume 1's Ch 8 at
+4,761. **The gap from 55 to 63 is eight, which is the floor of the book and not a comfortable margin.**
+**Sun Meiling is planted and started.** She waited three years for the right question, she was not named
+in a single chapter of Volume 1, and in Ch 55 she gave her three terms out loud — not sworn, not housed,
+not filed — and kept one sentence back on condition rather than on a date.
 
-## Where Volume 2 picks up
+## Where Volume 2 picks up after Batch 0001
 
 - **Held six on an instrument, not on merit. Plate reads 8,138. He is 11,862 grains under his own band and
-  the gap did not close and cannot be closed by the account.** Volume 2's institutional pressure is a
-  rank-six petitioner with no merit behind the band, which is a shape the Office has no procedure for.
-  **It must not be the same pressure as Volume 1's** — Volume 1's was an audit and a Review.
-- **Ninety-one lines, eight turned, one reading himself.** Three new turned named and triangulable to the
-  Review room. The himself line is a line no auditor has seen and Ines cannot decide whether to file.
+  the gap did not close and cannot be closed by the account.** The socket now prints a third line saying
+  so, and reads it out loud to a queue. **The gap is public property.**
+- **One hundred and three lines, eight turned, one reading himself.** **Nobody was spent in ten chapters.**
+  He was asked to relieve three people in one afternoon and refused all three, out loud, with the reason.
+  The himself line was **stated aloud and minuted in a Wing room** and has still not been filed.
+- **The attendance calendar is running.** Every nine days: the third, the twelfth, the twenty-first of
+  next month. **The twenty-first is four days inside the date Tessa named.**
 - **Query closed** on a finding. Declaration stands with the finding number beside it. Observation over.
-- **File 4,112, one folio open**: 214,000 grains, Lin Wei's hand, Held Account One, no Zero. **Volume 2
-  must not open a second folio in the first batch.**
-- **Terms kept down, unsigned.** **May clipboard untouched** (second, 2,640) — the Ch 48 hinge was not
-  spent and Ines put it on the table in the corridor at Ch 47 and neither of them touched it.
-  **Rota word ungiven.** Tessa at seventeen, eighteen before nightfall. **September still Beatrix's.**
+  **Runa Sato has answered, in writing, for her own file and refused to answer for him.**
+- **File 4,112, one folio open**: 214,000 grains, Lin Wei's hand, Held Account One, no Zero. **Batch 0001
+  opened no second folio and Batch 0002 must not either.**
+- **Terms kept down, unsigned.** **May clipboard untouched** (second, 2,640). **Rota word ungiven.**
+  **Tessa's rack at twenty-two, twenty-three before nightfall**, right forearm begun, and the drawer behind it
+  holds two hundred and sixty-one charts. **September still Beatrix's.** **Nadia refusing in advance.**
+- **Sun Meiling is in.** Not sworn, not housed, not filed, for three reasons given out loud. Her first
+  scene is Chapter 55 and **her second, at Chapter 63, is immovable and is the sentence that unlocks
+  Volume 8.**
 - **Rhee is gone.** He has no line after Ch 30 and no page in Volume 2 should assume one. His offer is
   closed forever and a Volume 2 writer may not re-open it.
-- **T1 has advanced one folio and must go no further.** T2, T3, T9, T10 all still open. **No new final
-  enemy.** Anouk Ferreira remains the Council chair and is not yet on the page; Alma Quayle is the head
-  of classification and is not yet on the page; Sowe is Lin Wei's colleague and is not yet on the page.
-  **Volume 2 may not classify him in its first batch.**
+- **T1 has advanced one folio and must go no further.** T2 touched in Ch 60 and deliberately left shut —
+  the Reading clerk steadied a corner of a docket with her thumb and said nothing, and nobody is to
+  explain it before Volume 3. **B5 opened in Ch 60 and not pulled:** Ding D. Duarte put her own name on
+  an intake sheet, Ines said her sister's name once in a queue, and he asked no question at all.
+  **No new final enemy.** Anouk Ferreira is the Council chair, Alma Quayle is the head of classification,
+  Perrin Sowe is Lin Wei's colleague, and **none of the three is on any page of Chapters 51–60.**
+  **Nothing has been classified and Batch 0002 must not classify him.**

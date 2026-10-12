@@ -92,6 +92,174 @@ condemned on the page. No new final enemy.
 
 ---
 
+# New canon — Volume 2, Batch 0001 (Chapters 51–60)
+
+Written by the batch that wrote the chapters. **Newest block, at the head of the stack.** Nothing below has
+been altered. **This block is a writer's record and has not been reviewed by a separate run** — see the
+standing rule at the foot of `state/open-threads.md`.
+
+## The calendar, fixed by the page
+
+Dates and intervals only. **Spoken weekday: Thursday only**, and only at the Exchange box and the
+publication. Zero other weekday names appear in Chapters 51–60.
+
+- **The Review was Thursday the 13th** (Ch 48), carried forward from Volume 1's sixth week. **Ch 49 the
+  14th, Ch 50 the 15th.** **Ch 51 the 16th.** **Ch 52 the 17th.** **Ch 53 the 17th, evening.**
+  **Ch 54 the 18th** (first attendance). **Ch 55 the 21st** (Veil-Research scene). **Ch 56 the 22nd.**
+  **Ch 57 the 23rd.** **Ch 58 the 24th** (second attendance). **Ch 59 the 25th.** **Ch 60 the 27th, a
+  Thursday** (the Exchange box).
+- **Thursdays in this span: the 20th and the 27th.** Ch 60 is the 27th. **The weekly box question has
+  been running every Thursday since the band was struck from the figure** and is not Volume 1's
+  four-consecutive-Thursdays obligation, which was discharged through the Review (Ch 42–47).
+- **Attendance schedule: the 18th (kept), the 24th (kept), then every nine days — the 3rd, the 12th and
+  the 21st of next month, written down in a column in front of him at the second attendance.** Three of
+  those three dates are the whole of the written schedule; after the fifth the desk's own hand renews it.
+  **The 21st is four days inside Tessa's date.**
+- **Tessa's readable-by date is the 25th of next month.** **It is stated with a stated uncertainty**: the
+  instrument has been able to read the mass since about four days before it, and six weeks from the
+  Review day is how long she would put her hand out, not when the switch happens. **The chapter does
+  not weld the two together arithmetically** — it says the date, then says that from the 25th it is five
+  weeks and a bit and from the Review it is six, so a reader with a calculator is given both readings
+  rather than a single welded claim.
+  **VOLUME 2'S CALENDAR CONVENTION, fixed here so a later phase does not re-derive it:** the Review was
+  the 13th, and **the month containing the 13th is taken as a thirty-day month.** That makes the 25th of
+  the next month exactly six weeks after the 13th, which is the reading the prose assumes. Volume 1's
+  weekday names are formally not canonical (`state/continuity.md`, *Calendar warning*), so nothing a
+  reader can check is wrong if a later phase reads it the other way.
+- **Neve's row, the gate tallies, the cold store visits and the Black Stone** are named but undated.
+
+## Mechanics now on the page
+
+- **THE THIRD LINE — new canon, Ch 51.** The plate-office socket has never printed a third line in
+  twenty-nine years. It reads: **standing, band, floor, and `carried on a Review ruling, number 112`.**
+  The ruling is cited everywhere as **112**. The machine at the Wing inventory desk makes **three clicks
+  and a scrape** and prints nothing when the band is on an instrument, because it cannot get the third
+  thing out of a plate.
+- **The same number is the join.** Ruling 112 is on his plate and, in red ink, in the margin of the
+  thirty-first line of the Wing's observation register. **The printed public sheet beside the Board is
+  printed from the register and does not carry the red ink** — a reader looking at the wall for eleven
+  months was looking at a print, not the book. CANNOT CONTRADICT.
+- **The notice is unstamped.** An unstamped notice is not an instrument: nothing compels him to answer it
+  and nothing binds the office to what it wrote. The runner carries them, wears no badge, and is not a
+  Bureau runner. **A missed attendance is a lapse, and a lapse against a held band is a finding against
+  the band, not against the standing.**
+- **The Office has four shapes and he fits none.** Band struck from the figure (Exchange artefact);
+  band carried by merit (there is no interval to carry it); unsettled pending (which ends in a lapse or
+  in an interval, and his ended in a third thing); held account (described in one line, filed in one
+  drawer). **The fifth shape is what you are, and it is the one upstairs has to write.**
+- **The refusal, minuted, is an event and not a work item.** Two attendances kept, four refusals minuted,
+  one Field paragraph signed. **A man who says nothing keeps a drawer shut for years; a man who says no
+  becomes a thing that must be decided.** CANNOT CONTRADICT — this is the batch's cost.
+- **The thin dated sheet.** A classification paper, dated in advance, unsigned, in a drawer on the second
+  sub-level. **It is never turned round and never read aloud in this batch.** Third sub-level, no window.
+  **Classification is not entered and nothing is signed beyond attendance.**
+- **A settled mass reads as too well.** New canon, Ch 59, and it is the volume's engine. A body that has
+  been fed improves and *stays* improved, so a quarter of a district improving faster than medicine can
+  do it is not a set of charts but a line, and a line has an address. The signature of the account at the
+  other extreme — four seconds of cold — is a body that is *wrong on its chart*. **Both ends are
+  readable and the Office needs only time.**
+- **Tessa's drawer: two hundred and sixty-one charts over eleven years** of bodies that present better
+  than their own histories say they should. **Under a third are traceable to anybody.** She had never
+  told a living soul and does not count them. **A number changed in this batch and the change matters:
+  the count of the rack is the thing that is said aloud. It is eighteen on the wall in Ch 53 (nineteen
+  before nightfall) and twenty-two on the wall in Ch 59 (twenty-three before nightfall).** Volume 1 Ch 50
+  fixed it at seventeen on the 15th and lines only rise, so the ladder is **17 (Ch 50) → 18 (Ch 53) →
+  22 (Ch 59)**. **There is no thirty on any page.**
+- **The ledger: 91 → 97 (Ch 51) → 103 (Ch 60), eight turned throughout, with cause stated both times.**
+  The cause is named in the text at each rise: the Review put his name in the largest type in the city
+  and strangers stood nearer than a queue required; and a Thursday in the largest room he stands in.
+  **Lines only ever rise. No chapter in this batch turns anybody.** He spends nothing from Ch 54 onward
+  and is asked to relieve three times and refuses.
+- **A person who has already had one cold, given a second, makes a reportable episode; three in a season
+  gets a file.** Stated out loud by Lin Hao to Nell Ardery in Ch 57. This is why he refuses, and it is
+  the first time in the book the rule has been given as an excuse rather than as arithmetic.
+
+## New named people
+
+| Name | Where | What they are for |
+| --- | --- | --- |
+| **Silas Drant** | Classification Wing, attendance desk, second sub-level. Nineteen years. | The face of the procedure. Not a hunter and not cruel; refuses to invent an authority he does not have, logs a discharge as an attendance kept when he is entitled to, and tells Lin Hao the calendar is the instrument because he is a man who writes things down. **Recurring in Ch 54, 58 and 60 and available for the rest of the volume.** |
+| **Anneke Roos** | The register desk, transcribes rulings Thursdays and Fridays and the mornings after a publication. | Finds the thirty-first line has a ruling number and nowhere to put it, and sends the sheet up. **Gives Lin Hao S.M. and the consult line in a stairwell, admitting she is not allowed to.** Not on the page as anything but a junior clerk with two days of a problem. |
+| **Ruta Vesely** | Analyst, observation support. **Not in the room.** | Built the wall map from nothing but his plate, his band, his band line and the Review date. Three episodes in three buildings and a ring in a second colour of pencil. Her name is on the map and she is never met in this batch. **Tessa's 261 is her future, and the batch says so.** |
+| **Faber** | Fourth Branch plate office counter, twenty-nine years. | Already canon. **New: he has never once stood beside his own machine, and he reads a third line out to a queue.** |
+| **The runner** | Not named, not Bureau-dressed, no badge. | Carries unstamped attendances. Delivers the notice, states what a lapse costs, and does not open them. |
+
+## New locations
+
+The **Classification Wing intake corridor** (bench, unlit fire, wired light over a door) and its **second
+door**; the **second sub-level inventory room** (table with a cloth, three chairs, one chair against the
+wall); the **register desk corridor** off the brass counter; the **Veil-Research side room** — long
+bench, two lamps, a wall of pinned sheets in three sizes, a kettle, two bad cups, a flat-caned chair, no
+ranking in the room at all — reached by a runner who says *third court, the iron stair, everyone knows it*
+and has never been up it.
+
+## Standing obligations created or discharged
+
+- **DISCHARGED — the query.** Closed in Ch 49, and in Ch 52 the clerk who owned it tells him plainly
+  that a finding does not sit with the office that asked the question. **She cannot help him and says so.**
+- **OWED, and it is the batch's spine — the attendance schedule.** Every nine days. Three dates written.
+  The 21st of next month is the fifth and is four days inside Tessa's date.
+- **OWED — Ines's four-sided sheet.** The line, the arithmetic, and the one question. Shown to nobody,
+  including him. **Shared custody is hers and not a court order, and she says so.**
+- **OWED — Ines's May clipboard and the word *Channel*.** Untouched in this batch and still untouched.
+- **OWED — the four true things.** Said aloud by him and by her before anything starts, and it is now a
+  thing said in this house rather than a thing Ines said once.
+- **OWED — Sun Meiling's sentence.** One page, one sentence, held until he has stood still long enough
+  for a mass to go flat. **A condition, not a date, given deliberately: a man who aims at a date does
+  not stand still at all.**
+- **OWED, monthly — Tessa's number said aloud.** Twenty-two, said in Ch 59. It was seventeen in Ch 53 and
+  eighteen before nightfall, and he says the wall count.
+- **OWED — the yard gate chart.** The checker finishes it that night and writes his own attendances on
+  the back of it, unprompted.
+- **KEPT DOWN — Marguerite's terms.** Untouched in this batch and still unsigned. Beatrix's broken price
+  untouched. **September still Beatrix's.**
+- **REFUSED IN ADVANCE — Nadia.** She says she will not be spent to fix his calendar, and puts on the
+  record that he did not ask and that she chose. T9 intact.
+
+## Scenes
+
+**Chapter 55, Sun Meiling, first.** 5,065 words, the longest chapter in the book and **over the 1,800–2,700
+guide on purpose**; Volume 1's own precedent for a scene chapter is 4,761 (Ch 8) and 3,349 (Ch 36), and
+both were kept. Do not cite this as a precedent for running long on a chapter that does not need the room.
+
+Adults, awake, unrestrained, unmedicated, nothing touched that was not offered. Four true statements
+before anything starts, hers first and longer than his. The tender forearm constrains and is never
+caused. No draw is spent in it — **he touches nobody and the account does not move**, which is the point:
+she wants what he carries, not what he can do to her. **The shape does not repeat a Volume 1 direction**:
+Volume 1 ran decision-against-interest, purchase, pre-designed alliance, assertion of want, felony, and
+appetite named and refused anyway. This one is **wanted for what he carries rather than audited for it**,
+and it changes the relationship: she agrees to keep working and not file him, and she is core and unsworn
+with all three reasons given out loud before anything happens. **Next scene is Ch 63 and it is immovable** —
+eight chapters, which is the floor of the book, not a comfortable margin.
+
+## Rationed and retired constructions — Volume 2 Batch 0001
+
+- **`nobody` / `no one`: 28 across ten chapters, maximum 5 in any one.** Volume 1 closed at 15 across
+  Ch 41–50 against a target of 30.
+- **Planning-register words: zero.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal*, *Channel* —
+  verified absent across all ten chapters by command. **Held Account One and Held Account Zero are on the
+  page in Volume 1 and are not planning-register words.**
+- **Weekday names other than Thursday: zero.** Verified by command.
+- **Horizontal rules: 26 were written in the first pass of these ten chapters as scene separators and
+  every one was removed**, on the same grounds as the nineteen removed from Chapters 33–38 and the
+  nineteenth caught in Chapter 40. **Chapters 51–60 carry none and the book carries none.**
+- **Bold: zero. Italic: zero.** Volume 1 carried 101 italics and **zero from Chapter 40 on**, and the
+  tail is the register this batch followed. The first pass of this batch used 12 bold runs and 13 italics
+  and all were stripped.
+- **Panels: two in ten chapters, one each at Ch 51 and Ch 60, never repeated.**
+- **`nobody thanked &lt;object&gt;` is not used. The construction stays retired.**
+- **The Ch 42–49 ending debt was not repeated.** The string `He wanted, concretely` **does not occur in
+  any of Chapters 51–60**, and the ten final paragraphs run on ten different constructions. The debt is
+  item 35 in `state/current.md` and it is an unpaid Volume 1 repair, not something this batch fixed.
+- **No age is stated for any person in Chapters 51–60.** Ten durations of service do appear and are
+  registered here so a later review does not have to re-derive them: **twenty-nine years at that counter**
+  (Faber, Ch 51, canon in `state/continuity.md` since Batch 0001), **twenty-two years of shelving**
+  (Colm Deveraux, Ch 56, canon in the Batch 0001 table), and eleven years, nine years, six years, two
+  years, three years, ten weeks, four inches and six weeks of clinical practice, background and
+  stipulation. **None of them is an age.**
+
+---
+
 # Volume 1 closed — the record the next volume may not contradict
 
 Written by the Volume 1 close audit against the page. Full working, with commands and chapter-and-line

@@ -1,5 +1,42 @@
 # Open Threads
 
+**Volume 2 Batch 0001 is written: Chapters 51–60.** State updated by the batch that wrote it. **No
+review phase has run against these chapters**, which is the standing problem in this repository and is
+recorded again below rather than papered over.
+
+**Carried past the Volume 1 close and into Volume 2 planning.** Every thread below was checked against
+the page at the close audit and its status updated. **Nothing is closed by a volume ending and this phase
+closed none — twenty-six live batch threads and all twelve seeded threads carried forward.** Full working
+with chapter-and-line citations is in `reviews/volume-01/volume-close.md` §3. Volume 2 outline
+(`outline/volume-02.md`) and Batch 0001 cards (`outline/batches/volume-02-batch-0001.md`) exist and the
+batch they govern has been written.
+
+## What Volume 2 has opened, after Batch 0001
+
+| # | Thread | Status at the end of Ch 60 |
+| --- | --- | --- |
+| **B36** | **The attendance calendar.** 18th kept, 24th kept, then every nine days: the 3rd, the 12th, the 21st of next month, written in a column in front of him. | **Open and dated — the batch's spine and Volume 2's institutional pressure made concrete.** Three of the three written dates fall before the twenty-fifth. The 21st is four days inside it. |
+| **B37** | **Ruling 112 is the join.** The ruling number is on his plate and in red ink in the margin of the thirty-first register line. The printed public sheet does not carry the ink. | **Open. The single most actionable fact of the batch.** Any office anywhere can now join a plate to a register line with a number. |
+| **B38** | **The names are being assembled without him.** A woman in a dark coat with no paper asked Colm Deveraux for names at the counter of his own floor, said *that was very useful*, and got a second answer about arithmetic. | **Open, and it is the direct consequence of Ch 54's refusal.** He paid with a calendar and it protected nobody. |
+| **B39** | **A buff Wing attendance slip under the yard gate tallies**, his name in pencil, rubbed out and rewritten, no date, no box marked. | **Open. The Office has started at the yard instead of at him.** He got it off the checker; the checker wrote his own chart up anyway. |
+| **B40** | **A settled mass reads as too well.** Tessa's 261 charts, a rack at twenty-two boards, and a district that improves faster than medicine. | **Open — this is the volume's real engine and it is not classification.** Stillness is the failure condition and the Office does not have to do anything. |
+| **B41** | **The thin dated sheet.** Classification paper, prepared, unsigned, in a drawer on the second sub-level. Third sub-level, no window. | **Open and NOT entered.** Shown only as an unopened drawer. **It must not be signed in Batch 0002.** |
+| **B42** | **Sun Meiling's one sentence**, held back until he has stood still long enough for a mass to go flat. | **Open. T10 is now started.** The sentence that unlocks Volume 8 is on a page in a drawer on the first floor of Veil-Research and is not read. **Ch 63 is immovable and is where she says it.** |
+| **B43** | **Anneke Roos's consult line.** A Veil-Research consult answered three years ago about a transfer memo with no name, initialled S.M., copied eleven times, never read. | **Open. T10's evidence and the only thing that connects the Wing to a research house.** |
+| **B44** | **Ines's four-sided sheet** — the line, the arithmetic, the one question. Shown to nobody. Shared custody, not a court order. | **Open. B31 is now shared between two auditors.** The Reading Office has asked her formally for the source of the line; she answered with a question. |
+| **B45** | **Ding D. Duarte put her own name on an intake sheet** for a chest, unprompted, four years of being kept away from a doctor. | **Open, and B5 has moved. Lin Hao asked not one question, in a queue of two hundred, and that restraint is now the debt.** |
+
+## What Volume 2 has not opened, and must not
+
+**T1's second folio. The May clipboard. The word *Channel*. The Church. The Unscored.** **Rhee** — no
+line, no scene, no mention, and the offer stays closed. **Alma Quayle, Anouk Ferreira and Perrin Sowe
+are not on any page** and none of them is a new enemy. **No classification entered.** **No second folio.**
+**No scene before Ch 63.** **No new partner started** — Sun Meiling entered as core and unsworn with all
+three reasons stated on the page before anything happened, and no other woman entered the household,
+refused it, or left.
+
+---
+
 **Carried past the Volume 1 close and into Volume 2 planning.** Every thread below was checked against
 the page at the close audit and its status updated. **Nothing is closed by a volume ending and this phase
 closed none — twenty-six live batch threads and all twelve seeded threads carried forward.** Full working
@@ -13,21 +50,23 @@ untouched across fifty chapters and remains available.**
 
 ## What Volume 2 may open and what it must not
 
-**VOLUME 2 PLANNED.** Header, starting position, scene schedule, and five scenes placed in
-`state/current.md`. Outline and Batch 0001 cards written; classification held open, never entered in
-Batch 0001.
+**VOLUME 2 BATCH 0001 WRITTEN, Ch 51–60.** Header, starting position and scene schedule in
+`state/current.md`; outline at `outline/volume-02.md`, cards at
+`outline/batches/volume-02-batch-0001.md`. **Classification held open and never entered. No second folio.
+No Rhee. No scene before Ch 55.** T10 is planted, started at 55 and **binding at 63**, which is immovable.
 
 **MAY OPEN.** The held-account pressure — a rank-six petitioner 11,862 grains under his own band, which
 is a shape the Office has no procedure for. Alma Quayle noticing the thirty-first entry's finding number.
 The Classification Wing register (B16, B29) and Solveig Rask's column. T2, who keeps his file clean
 (no answer before Volume 3). T9, Nadia and the floor. B1 Colm Deveraux. B5 Ding D. Duarte. B6 Bernt
-Halse and Ditta. B7 the two-year gap — Volume 8, not before.
+Halse and Ditta. B7 the two-year gap — Volume 8, not before. **Opened in Batch 0001: B36–B45.**
 
-**MUST NOT OPEN.** T1's second folio — **Volume 2 must not open a second folio in the first batch.** T3,
-the Church, before Volume 4. T4, the Unscored, before Volume 6. T6, T7, T11, T12. **T10 Sun Meiling is
-planted and not started.** The May clipboard and the word *Channel* are the Volume 5 hinge. Rhee's offer
-is closed forever and Rhee himself is off the page after Chapter 30. The Planning-register words — *reservoir*,
-*quiet account*, *Concil*, *Ninth Seal*, *Channel* — never appear in prose. **No new final enemy.**
+**MUST NOT OPEN.** T1's second folio — **Volume 2 must not open a second folio in the first batch, and
+Batch 0001 opened none; Batch 0002 must not either.** T3, the Church, before Volume 4. T4, the Unscored,
+before Volume 6. T6, T7, T11, T12. **The May clipboard and the word *Channel* are the Volume 5 hinge and
+neither has been touched.** Rhee's offer is closed forever and Rhee himself is off the page after
+Chapter 30. The Planning-register words — *reservoir*, *quiet account*, *Concil*, *Ninth Seal*, *Channel*
+— never appear in prose. **No new final enemy.**
 
 ## Seeded at bootstrap
 
@@ -42,7 +81,7 @@ is closed forever and Rhee himself is off the page after Chapter 30. The Plannin
 | T7 | Petra Ilyin is under an eleven-year promise she cannot remember making. | V5, Ch 214 | **Open — untouched.** |
 | T8 | Ines is losing her twenties to the records she holds. | V9, Ch 446 | **Open — planted in Ch 8 and advanced.** She says the volume of what she holds (4,109 files in her head, forty files on Lantern Row) but the loss itself is not visible on the page and the word *twenties* appears nowhere in Chapters 1–50. |
 | T9 | Nadia can only go down, never up. | V7 | **Open and advanced.** Carried up one floor at a price twice — Ch 29 and Ch 49. She refuses to be spent in her own words, twice: *do not spend me*. |
-| T10 | Sun Meiling has waited three years for the right question. | V2, Ch 63 | **Open — correctly untouched. Not named in a single chapter of Volume 1.** Plant in Volume 2, do not start her. **Ch 55 is her first scene and is immovable; Ch 63 is immovable and is the sentence that unlocks Volume 8.** |
+| T10 | Sun Meiling has waited three years for the right question. | V2, Ch 63 | **STARTED — planted by name at Ch 52 and Ch 53, first scene at Ch 55.** She is core and unsworn and all three reasons are given out loud on the page before anything happens. **She has confirmed to herself that he is the address and not the source, and she agrees to keep working without filing him.** The sentence that unlocks Volume 8 is on a page she has not read to him and will not read until he has stood still long enough for a mass to go flat — **a condition, not a date, and the refusal to give a date is deliberate.** **Ch 63 is immovable.** |
 | T11 | Why there is no rank ten. | V9 | **Open — untouched, not hinted.** |
 | T12 | Wren Kallo cannot keep a secret, and is therefore already a leak by the time she joins. | V3, Ch 118 | **Open — untouched.** |
 
@@ -135,6 +174,7 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 | # | Thread | Status at the close of Volume 1 |
 | --- | --- | --- |
 | B31 | **The himself line.** Ninety-one lines, eight turned, one reading himself. | **Open — Volume 2 engine.** No auditor has seen it. Ines says in Ch 49 that she does not know what a Bureau does with a line it has never had to read, and that she cannot decide whether to file it, which is not the same as deciding not to. |
+| B31a | **The himself line, after Batch 0001.** | **Still unfiled and now on two desks.** It was **stated aloud and dictated into a minute in a Wing inventory room** in Ch 58 — one line, reads himself, permanent, the office has it by his mouth and not by any hand. Ines has it on a four-sided sheet in her own rooms. **Runa Sato refused to answer for it in writing.** Two auditors and a clerk now hold it and none of them has filed it. |
 | B35 | **Held six on an instrument.** The band came off a requisition, not off merit, and the open-question answer supplied the instrument. | **Open — Volume 2's institutional pressure, and the volume's live consequence.** A rank-six petitioner standing **11,862 grains under his own band** is a shape the Office has no procedure for. **20,000 − 8,138. Never closed by a score and cannot be.** |
 | B32 | **Three new turned at once.** Nell Ardery, Garrick Neve, yard checker. Three in four seconds in a room. | **Open.** Ines names the consequence in Ch 49: *an analyst could put a dot on a wall map and the dot would be that room.* |
 | B33 | **Held Account One.** Transfer receipt 214,000 grains, Lin Wei's hand, account the index does not contain. No Zero. | **Open — T1 advanced by one folio. 4,111 sealed. Volume 2 must not open a second.** |
@@ -607,3 +647,16 @@ the finding it was attached to, reported as though it were the whole finding.**
 **Standing rule for the next phase, stated once: a command that runs is not the command the claim is
 attached to, and a correction made against an unverified per-chapter sequence is a new certification, not
 the end of one.** Three defects in one file, all that shape.
+
+**Standing rule for Volume 2 Batch 0001, stated because the batch itself had to work around it: this
+phase wrote Chapters 51–60 and it did NOT write a review of them.** Nine batches in this repository have
+certified themselves and every one of those certifications was wrong about the prose it described, and
+item 29 in `state/current.md` records that the structural fix is not a prose discipline but a separate
+run. **The chapters have had every mechanical gate run against them and they pass: zero horizontal rules,
+zero bold, zero italic, zero non-Thursday weekday names, zero planning-register words, two system panels
+in ten chapters and never repeated, `nobody`/`no one` at 28 with a per-chapter maximum of 5, no paragraph
+over 114 words, no duplicate paragraph and no repeated sentence of nine words or more across the batch,
+all ten titles unique against the fifty in Volume 1 and all under 90 characters.** Those are counts. **A
+count is not a reading, and nothing above certifies that the prose is good, that the batch's midpoint and
+climax occurred, or that the irreversible decision costs anything.** The next phase that reads this batch
+must assume all three are unverified.
