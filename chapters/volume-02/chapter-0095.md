@@ -104,10 +104,10 @@ She said it without heat, and then she said the thing that made the whole aftern
 
 "They will ask me a third time," she said. "I know that the way I know the schedule of that room. And when they do, I am going to say the same true thing, and it is going to be the third, and three is a different animal from two. Two is a woman being thorough. Three is a file."
 
-Lin Hao stood in a corridor on the third floor of the Reading with his hands in his pockets and understood that in eight days he would be asked to describe something, and that this woman had just told him what it feels like from the other end of the same question.
+Lin Hao stood in a corridor on the third floor of the Reading with his hands in his pockets and understood that in two days he would be asked to describe something, and that this woman had just told him what it feels like from the other end of the same question.
 
 "If they ask you a third time," he said, "come and find me first."
 
-"You are the worst person in Ostara to say that to," said Sabine Rooke, "and I am going to do it anyway, and you are going to have to decide by the fourteenth of next month whether a ward clerk at the Vestry can be trusted with it, and I will tell you now that I have never in my life asked anybody for anything and I am not starting on the twentieth."
+"You are the worst person in Ostara to say that to," said Sabine Rooke, "and I am going to do it anyway, and you are going to have to decide by the fourteenth of next month whether a ward clerk at the Vestry can be trusted with it, and I will tell you now that I have never in my life asked anybody for anything and I am not starting until then."
 
 He went down the stairs and out into the square, and there was no figure on the Board for him that week because there was no figure for him anywhere, and eight of nine chairs were in a corridor four hundred yards away with a cloth on a table behind a door that was not locked, and the ninth was in a corridor on the third floor where a woman was sitting on it waiting for a Thursday she would never be asked about twice.

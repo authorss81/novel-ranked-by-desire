@@ -11,16 +11,20 @@ actively mis-served. **One exception is named in Part three and it is not option
 ## Why this phase exists, and what it inherits
 
 Four Volume 2 batches have been written. **Batch 0005 closed the volume in prose and did not write a
-review of itself**, which is correct and is the fourth consecutive batch not to. Three of the four
-earlier batches were reviewed by separate runs and repaired. **Chapters 91–100 have been reviewed by
-nobody who did not write them, and this phase should assume they are unverified.**
+review of itself**, which is correct and is the fourth consecutive batch not to. Every other batch was
+reviewed by a separate run and repaired. **Chapters 91–100 have now been reviewed by a run that did not
+write them, and repaired: sixteen arithmetic and meta-language defects and four craft findings, all
+twenty fixed on the page.** The full working is in `state/continuity.md` at the top. **This phase should
+assume the repair is correct, not that it was complete.**
 
-**The pipeline's own record of itself is bad and the audit should not trust it.** Nine batches in this
-repository have certified their own prose and every one of those certifications was wrong about the page it
-described. Twelve defects once reached a file that certified its batch clean while every gate that file ran
-was a count. Three separate false certifications have been about ages. Two have been about repairs recorded
-in a state file and never carried into the chapter. **Run the gate against the chapter, not against the
-note about the chapter.**
+**And it should assume the same about the pipeline's record of that repair, because the pipeline's record
+of everything is bad.** Nine batches in this repository have certified their own prose and every one of
+those certifications was wrong about the page it described. Twelve defects once reached a file that
+certified its batch clean while every gate that file ran was a count. Three separate false certifications
+have been about ages. **Two have been about repairs recorded in a state file and never carried into the
+chapter, and Batch 0005 produced a third: it recorded the Ch 100 *Thursday the 20th* defect as *all
+corrected* when it had cut the weekday name and left the sentence standing.** Run every gate against the
+chapter, not against the note about the chapter.
 
 ### Two open defects that this phase should deal with before anything else
 
@@ -97,8 +101,33 @@ the chapters where a claim can be checked. Answer each in writing, with the chap
     *He wanted, concretely*; the ten-in-a-row *For <person>, his <verb> meant* turn, now in Ch 41, 44 and 48
     only. **Check whether Volume 2 repeated either across consecutive chapters of its own.**
 12. **Register of the canon-change guard.** Every flag in `state/open-threads.md`, including the Batch 0004
-    review repair and both Batch 0005 blocks. **Batch 0005 registered its proposed canon before it drafted
-    and should be checked for that, not assumed.**
+    review repair and all three Batch 0005 blocks. **Batch 0005 registered its proposed canon before it
+    drafted, and should be checked for that, not assumed.**
+13. **The four gates the Batch 0005 review had to invent, because every gate the batch ran passed on text
+    that was wrong.** This is the highest-value item in Part one and it is the one that cannot be done by a
+    count.
+
+    ```
+    cd chapters/volume-02
+    # A. meta-language. Returned ZERO on four real violations in Chapters 91–100.
+    grep -inE 'this volume|this book|the reader|\bchapters?\b|fifty chapters|\bvolume\b' chapter-00*.md
+    # B. week counts — the D1 class, eight of them in one batch.
+    grep -inE '(four|five|six|seven|eight|nine|ten|eleven|twelve)teen? weeks' chapter-00*.md
+    # C. ordinal counts against a named collection: the household, the chairs, the boards, the charts.
+    grep -inE '(six|seven|eight|nine|ten|eleven|twelve) (women|people|chairs|men|girls|boards|charts|lines)' chapter-00*.md
+    # D. every interval number, on one screen, to be READ against the date spine.
+    grep -noE '(for|in|since|by|across|about|after|until) (a|an|one|two|...|thirty-one)? ?(day|days|week|weeks|month|months|night|nights|hour|hours|year|years|fortnight)[a-z]*' chapter-00*.md
+    ```
+
+    **Gate D is not a pass/fail gate. It is a reading list.** Every interval in the volume has to be traced
+    to an anchor inside its own chapter or to an earlier chapter's printed figure, and the D2 month-length
+    question decides the ones that cross a boundary. **Run A and B over all fifty chapters, not only
+    91–100 — the review found the D1 class in Ch 57 and 60 as well as in the batch it was reviewing.**
+14. **The two state files that propagated defects into canon.** `state/chapter-summaries.md` recorded Ch 93's
+    *thirteen days* and Ch 92's *twenty-two weeks* as settled facts, and `state/continuity.md` repeated
+    both. **A state file asserting a figure is not evidence that the figure is right, and this is why the
+    same two classes keep reappearing.** Check the repaired text against the state files once more; the
+    repair pass had to change the state files to match the chapters and not the other way round.
 
 ## Part two — the close record
 
@@ -137,6 +166,14 @@ must then weigh rather than assume.
 **Record the sweep in `reviews/volume-02/volume-close.md` with the command and the output, chapter by
 chapter, and register the decision in `state/open-threads.md`.** Do not leave two incompatible calendars in
 a finished volume.
+
+**One note from the Batch 0005 review repair.** Ch 93 said *I have thirteen days* to the third of next
+month, which was wrong either way, and the repair **removed the arithmetic instead of getting it right**:
+it is now *I have until the third of next month*. **That was deliberate — a deadline survives either
+calendar and a count does not — but it is a mitigation of the same kind Batch 0005 originally made, and
+when D2 is settled it should be checked to make sure the sweep has not reintroduced a derived count there.**
+The same applies to Ch 100's *about a month* / *about two months* against Tessa's nine weeks at Ch 100 and
+Ch 97: **nine weeks is the fixed figure and the other two must agree with it.**
 
 ## Part four — the next phase
 

@@ -50,7 +50,7 @@ She turned the book back.
 
 "Now here is the part I have been sitting on since the twelfth and I am going to say it once. If that line goes into a file, this office has a description of you. Not a figure. Not a band. Not a mass. A shape.
 
-And the shape is one sentence long and it is the sentence the whole of this volume has refused to say out loud, and I am not going to say it in a room, and I am going to say it to you once at this table with a lamp on it because you are entitled to know what is being kept out of a file on your behalf."
+And the shape is one sentence long and it is the sentence that four offices have spent four months refusing to say out loud, and I am not going to say it in a room, and I am going to say it to you once at this table with a lamp on it because you are entitled to know what is being kept out of a file on your behalf."
 
 She waited until he looked at her.
 
@@ -160,7 +160,7 @@ She went up the forearm and found three things, of which one was real and two we
 
 "Ten days of it."
 
-"Twenty-five days of it," said Ines. "And you have not been counting properly since the third because you have been counting from the day it started instead of from the day it started counting, and I have watched you do it wrong for four weeks and I could not tell you which of two numbers you meant and neither could you. Do you know why that matters?"
+"Twenty-five days of it," said Ines. "And you have not been counting properly since the third because you have been counting from the day it started instead of from the day it started counting, and I have watched you do it wrong for a fortnight and I could not tell you which of two numbers you meant and neither could you. Do you know why that matters?"
 
 "No."
 
@@ -186,7 +186,7 @@ She looked down at the place where it was happening and then back at his face.
 
 "Say what it actually is."
 
-"It is a man who has not touched anybody for six weeks being touched by somebody who is going to correct him. Those are not the same thing, and you know the difference, and you are not going to pretend you do not."
+"It is a man who has not touched anybody for three weeks being touched by somebody who is going to correct him. Those are not the same thing, and you know the difference, and you are not going to pretend you do not."
 
 He got her blouse open and his hands were not steady and she took one of them and put it flat on her belly and said, "There. That one is not shaking. I have been watching your hands since the seventh of last month and that is the first steady one."
 
@@ -214,9 +214,29 @@ She looked up at him about half way through with her hands flat on his thighs ho
 
 There was nothing ceremonial about the rest of it and nothing careful.
 
-They went on for a long time on the rug and then half on the couch with the blanket off one shoulder.
+The blanket came off her shoulder and then off the couch and ended up on the floor on top of the rug. He got the rest of her blouse open and she let him do it and then took over, because her hands knew what they were doing and had been given something to do for eleven years without a man in the room.
 
-Somewhere in the middle of it she corrected him again, in a voice entirely level. What she corrected him about was the carefulness. He had been trying to be careful with her for six weeks because he believed he was going to break something, and she said that he had not broken anything in four years, that the carefulness was the single most expensive habit he had, and that she had watched him spend it on four women and get nothing for it.
+"Left," she said. "Go left."
+
+"Left where."
+
+"Where your hand wants to go. I am not going to steer you and then tell you afterward that I did not steer you."
+
+It went left. She made a sound over him that was not a word and put her fingers into his hair and held on, and the thing he had been braced against all night arrived anyway, which was that he was not careful at all once he stopped, and that he had been careful for four years because nothing in his life had ever once let him not be.
+
+"There," she said. "That. That is the man with eight turned lines in four years. Say his name."
+
+"What."
+
+"You have just described him exactly and you cannot hear yourself do it. Say his name."
+
+"Lin Hao."
+
+"Say it again, and slower, and do not stop what your hands are doing to say it."
+
+He said it again, and she shook her head against his chest.
+
+"You have been careful with four women for five weeks because you thought you were going to break something," she said. "You have not broken one thing. The carefulness is the single most expensive habit you have and I have watched you spend it on four women and get nothing at all for it."
 
 "You do not know that."
 
@@ -226,9 +246,25 @@ Somewhere in the middle of it she corrected him again, in a voice entirely level
 
 "I am not going to say it again. I said it once and I will not be a woman who repeats herself to a man in a bed."
 
-He turned her over and she let him, and she told him what she wanted in the plainest words she had, which was not a performance and not a request and not a favour, and when she had her face in the couch she reached back and found his hand and put it where she wanted it and held it there, and neither of them used the word please once.
+She turned him over onto his back and then turned herself and got him behind her, one hand back flat on his chest to hold him where she had put him, and she talked him through it in that same level voice, naming every place her hands were going before they went, which she had made him agree to at the start and which he now found he would have paid almost anything to be allowed to keep.
 
-Afterwards she lay along him with her weight on his side and one hand flat on his chest, counting nothing, and the stove had gone to ash and neither of them had noticed.
+She told him what she wanted in the plainest words she had. It was not a performance and not a request and not a favour, and there was nothing tentative anywhere in it.
+
+"Say it back," she said, when he had gone still for a moment.
+
+"You are going to tell me where your hands are," he said.
+
+"That is not what I said and you know it. That is my rule and you are using it as a door. Say what I want."
+
+"You want me to stop being careful."
+
+"I want you to stop being careful," said Ines Duarte, "and I want to hear you say it out loud tonight, because there is going to come a day when a room full of strangers asks you to stand up in front of all of them and say what you are, and the only version of that answer worth having is one you have already said to somebody."
+
+He said it.
+
+She made him say it twice more, and neither of them used the word please once.
+
+The stove had gone to ash a long time before either of them noticed. Afterwards she lay along him with her weight on his side and one hand flat on his chest, counting nothing, and the room had gone cold at the edges and stayed warm in the middle of it, and neither of them got up for a long time.
 
 "Nothing came in and nothing went out," she said. "I would know. I have been sitting against a ledger for three years and I know what it feels like when you move, and there is nothing in me this evening that is not still where it was, and I would like you to hear that from somebody who is paid to hear movement for a living."
 
@@ -250,4 +286,8 @@ She drank her water.
 
 "And on the eighteenth you are going to be asked to describe yourself in a room, and you are not going to do it, and when you do not do it, I want you to know that there is one person in this city who has read the description correctly and is not going to give it to anybody. She read it correctly tonight, at this table, with you asleep on her couch, and she is not going to put it in an envelope in the morning."
 
-On Lantern Row the four books were open on the far end of a table and one of them had a single line in it with a person at one end of it and no word at the other, and it was legible to the woman who had written it and to the man who had been in the room while she wrote it, and to not one other person in Ostara, and it stayed that way.
+On Lantern Row the four books were open on the far end of a table and one of them had a single line in it with a person at one end of it and no word at the other, and it was legible to the woman who had written it and to the man who had been in the room while she wrote it, and to not one other person in Ostara.
+
+It was sitting on a table for nothing. That was the part neither of them had got round all evening: a true description of him, unwitnessed by any office in this city, held by one woman, and the whole price of it was a career and a night without sleep.
+
+Within four days there would be a paper with the shape of his account on it going to somebody's desk, and the only person in Ostara who could have told that desk what the shape was had spent the night in his arms and was not going to.

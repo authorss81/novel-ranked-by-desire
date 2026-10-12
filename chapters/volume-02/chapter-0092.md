@@ -8,7 +8,7 @@ He felt the shame of it early and it stayed the whole hour. He wanted the findin
 
 The clerk read the arithmetic. It was four months of Colm Deveraux adding the fourth-floor readings against the branch aggregate by hand, every day, on a pad, because the printed aggregate and the floor disagreed by a constant and the constant did not move.
 
-"Twenty-two weeks," the clerk said. "A constant. And the constant is not a person and is not a shift and is not a season. It is present in every week of the pad and it is present on the days when the floor is shut."
+"Seventeen weeks," the clerk said. "A constant. And the constant is not a person and is not a shift and is not a season. It is present in every week of the pad and it is present on the days when the floor is shut."
 
 Nobody said anything for a while.
 
@@ -40,7 +40,7 @@ The clerk entered the finding and it went up the table and came back with a numb
 
 Then the chair said the last thing, which was read out of the minute by the clerk because he was not permitted to say it himself.
 
-"The office notes that the variation is constant across twenty-two weeks and that no document produced before this office accounts for it. The office further notes that a document exists, entered voluntarily on the seventh of last month by an agent of the district, which is not a district record and which the office has not been permitted to read."
+"The office notes that the variation is constant across seventeen weeks and that no document produced before this office accounts for it. The office further notes that a document exists, entered voluntarily on the seventh of last month by an agent of the district, which is not a district record and which the office has not been permitted to read."
 
 The room was very quiet.
 
@@ -84,7 +84,7 @@ She put her hand flat on it.
 
 He waited.
 
-"I am not producing it and I am not hiding it." She said it flatly, the way she said the heavy things. "There is no third position and I have looked for one every night for eleven days. I am going to refuse, in writing, in my own hand, signed and dated, and I am going to give the reason, because an agent who refuses without a reason is an agent who has something.
+"I am not producing it and I am not hiding it." She said it flatly, the way she said the heavy things. "There is no third position and I have looked for one every night since the fourth. I am going to refuse, in writing, in my own hand, signed and dated, and I am going to give the reason, because an agent who refuses without a reason is an agent who has something.
 
 And the reason is going to be true and it is going to be about the document and not about you."
 
@@ -120,7 +120,7 @@ Lin Hao looked at his hands.
 
 He has been on his own in it for four months and you are the only person who has ever gone into it with him and come out."
 
-My sister went on the ninth, she said. It was a chest. That is all I am going to tell you about it and I would like you not to ask me the rest of it while I am holding a decision about your coat.
+"My sister went on the ninth," she said. "It was a chest. That is all I am going to tell you about it, and I would like you not to ask me the rest of it while I am holding a decision about your coat."
 
 The three books open on her table were not hers. One of them was the intake register at that building and it had a line on it, and the line had been struck through, and a struck-through line in an intake register is the whole of what a person gets when they go and come back.
 

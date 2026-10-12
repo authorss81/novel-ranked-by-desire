@@ -82,7 +82,7 @@ Colm sat on the edge of the desk. "I am not asking you to forgive me. That is no
 
 "Do not vouch for me. When they ask you at the twelfth, or when they ask somebody in that room who knows me, do not stand up and say I told you, or that I was straight with you, or anything of that shape."
 
-"Because the moment you vouch, the finding is about both of us. And if it is about both of us then it is about a man who has spent nothing in forty chapters and a man who gave two answers at a counter, and I would rather be the second one on his own."
+"Because the moment you vouch, the finding is about both of us. And if it is about both of us then it is about a man who has spent nothing since the middle of last month and a man who gave two answers at a counter, and I would rather be the second one on his own."
 
 The mop was still leaning against the wall and the corridor was filling up behind him with the morning shift.
 

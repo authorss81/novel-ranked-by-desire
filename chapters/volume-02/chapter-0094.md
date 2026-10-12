@@ -36,7 +36,7 @@ It was written by a person who wanted a building to become a place where the pre
 
 "I made it happen. I chose to make it happen, at my own table, with my own glass, and I would do it again, because the alternative was a woman with no paper coming to this door tomorrow and being turned away because there was nothing here to refuse.
 
-And what I have got instead is a book that says which of you was asked about on which day at which hour, and it will say it again next week, and every name in this house is now in a register that did not exist five weeks ago and that a woman with no paper will never think to consult, because she does not know it is there and she never will."
+And what I have got instead is a book that says which of you was asked about on which day at which hour, and it will say it again next week, and every name in this house is now in a register that did not exist on the first and that a woman with no paper will never think to consult, because she does not know it is there and she never will."
 
 For Marguerite Vale, who had had that house eleven years, the building had stopped being a house and started being a way of finding out who was in it, and she had put the glass there herself.
 
@@ -50,7 +50,7 @@ The room went quiet in a way it did not usually go quiet.
 
 "What did you say."
 
-"I said I could not recall." Sun Meiling looked at the table and not at anybody in it. "And that was the exact truth, and it was also a complete answer to the question he actually asked, and I gave it in under three seconds, and he thanked me and went away, and in about six weeks that conversation will be the reason there is a schedule on my floor with a name on it."
+"I said I could not recall." Sun Meiling looked at the table and not at anybody in it. "And that was the exact truth, and it was also a complete answer to the question he actually asked, and I gave it in under three seconds, and he thanked me and went away, and in about two months that conversation will be the reason there is a schedule on my floor with a name on it."
 
 "He will come back," Ines's absence said from the middle of the table. Beatrix said it. "They always come back with the number."
 
@@ -104,7 +104,7 @@ She took her finger off the page.
 
 Ola Bright had written it. She read it back, twice, and dated it the fourteenth, and put it in the middle of the page under the figures she had already written down, and did not soften one word of it, which is what she had done on the first with the same woman's other sentence.
 
-He wanted the notebook off that table more than he had wanted anything off a table in six weeks, and he did not reach for it, because a man who reaches for a notebook in a room with six women in it is a man who has decided what a notebook is for.
+He wanted the notebook off that table more than he had wanted anything off a table in five weeks, and he did not reach for it, because a man who reaches for a notebook in a room with six women in it is a man who has decided what a notebook is for.
 
 "Nobody writes anything," he said.
 
@@ -114,7 +114,7 @@ He wanted the notebook off that table more than he had wanted anything off a tab
 
 Beatrix laughed once. "That is the most expensive sentence anybody has said in this house."
 
-"He has been here six weeks," said Marguerite, setting the kettle down.
+"He has been here five weeks," said Marguerite, setting the kettle down.
 
 On the table there was a visitors' book with sixty-one entries in it and a glass off a mantel, a notebook open at the fifteenth with a date ruled across the head of the page and nothing under it, and a pad with a figure written down twice in two months and a sentence under it that six women had now heard twice from the same person in the same tone.
 

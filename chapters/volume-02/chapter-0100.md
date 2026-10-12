@@ -1,6 +1,6 @@
 # The Door At Rank One
 
-On the twentieth, which was the last day of the hold, the machine on the fourth floor of the Fourth Branch did not run and the bell did not ring, and a fish woman three doors down put her head in and asked the same question she had asked on the seventeenth and was told the same answer.
+On the twentieth, which was the last day of the hold, the machine on the fourth floor of the Fourth Branch had not run since the fourteenth and neither had the bell, and a fish woman three doors down put her head in and asked the same question she had asked on the seventeenth and was told the same answer.
 
 The hold expired at four that afternoon and the next strip would be on the twenty-first, which was a Thursday, and Drant had entered the fourth floor as discharged on the eighteenth at ten past eleven in the morning, in his own hand, on his own floor, at his own instrument, so there would be a figure on the spike on the twenty-first and nowhere for it to go.
 
@@ -44,13 +44,15 @@ Below him the corridor ran off in both directions with a door on each side and e
 
 The door had a small plate on it that he had not been able to read from the top of the stair in five weeks, and he read it now, because the drawer in the cabinet was shut and the light off the goods lift was on and a man on a stair in a corridor is allowed to lean.
 
-It said, in a plain engraved line, what the whole volume had been about for fifty chapters.
+It said, in a plain engraved line, what four offices and a whole city had spent a month walking around.
 
 It said what a classification is, and it said what happens to a person who goes through one, and it said the word rank and the word one, and it said that the holder is returned at rank one and that nothing else is returned with him.
 
 There was no handle on that side of it.
 
 He did not go down.
+
+He felt something he had not felt in this building before, and it took him a moment to name it because it was so unlike the things he was used to feeling here. It was not fear and it was not the old cold. It was the flat satisfaction of a man being told the price of a thing by somebody who was not permitted to lie about it, and it went out of him as fast as it arrived, because there was nothing underneath it to stand on.
 
 He stood on the stair for about two minutes, looking at a chair standing four feet away from a door he had spent a month learning the location of and had never entered, and he understood that a door was not a punishment and was not a threat, and was a piece of office furniture with a description on it.
 
@@ -60,9 +62,9 @@ Then he went back up in the cold that came out of the wall, and at the top there
 
 Behind him a drawer with four unsigned papers in it went down at four every working day, and would go down at four on the twenty-first and the twenty-fourth and the twenty-eighth and on every working day after that until somebody with a pen put a name in one of them. None of those papers had his name on them. Every one of them would take it.
 
-In the room above the chop-house on Ferrier Street there was a visitors' book with a glass beside it on the table, and sixty-one entries in it had become seventy-eight, and a notebook lay open at the top of the table with a date ruled at the top of the page and nothing under it, and seven women had spent six days not writing anything in it.
+In the room above the chop-house on Ferrier Street there was a visitors' book with a glass beside it on the table, and sixty-one entries in it had become seventy-eight, and a notebook lay open at the top of the table with a date ruled at the top of the page and nothing under it, and six women had spent six days not writing anything in it.
 
-Nobody wrote it. On the twenty-first they wrote one line each, in turn, and Ola Bright copied all seven into the pad, and the line was the same in seven hands: that somebody was in a room on that day and wanted him to know.
+Nobody wrote it. On the twenty-first they wrote one line each, in turn, and Ola Bright copied all six into the pad, and the line was the same in six hands: that somebody was in a room on that day and wanted him to know.
 
 "What does it change," he said.
 
@@ -110,7 +112,7 @@ Ottilie Prebble signed her return on the same day and wrote in her own hand that
 
 On the twenty-eighth the sky over the Ferrier arc was the colour of a plate that has been held too long, and the four quiet rooms at the back of the Vestry were all empty for the first time since the spring.
 
-Tessa Okonkwo cleaned the fourth room herself and did not put a sheet on the bed. The runner with the wrist carried twenty-two boards up two flights and would not let anybody take the second stack. And the rack on the wall went from twenty-seven to twenty-eight, which is the first time it has moved in five weeks.
+Tessa Okonkwo cleaned the fourth room herself and did not put a sheet on the bed. The runner with the wrist carried twenty-two boards up two flights and would not let anybody take the second stack. And the rack on the wall went from twenty-seven to twenty-eight, which is the first time it has moved since the seventeenth of last month.
 
 That means a person in this district was hurt somewhere in a way that a body had to hold. He did not know who, and would not have been told if he had asked.
 
@@ -146,7 +148,7 @@ Lin Hao sat on the edge of a couch in a corridor with four doors shut along it.
 
 "It does not open anything," he said at last. "It is eight thousand one hundred and thirty-eight. It is under the band by eleven thousand eight hundred and sixty-two. And not one person in this building can tell me what it is, and neither can I, and thirty-one readings have told me it has stopped moving and I still do not know why a thing that takes things in would ever stop."
 
-"No," said Tessa Okonkwo. "But in about nine weeks you are going to stand in a public hall in front of a man from the Correction Office who is honest about his profession and does not care in the slightest who anybody is, and something that has been measured privately for fifty chapters is going to be measured in the open, and it will not be a plate and it will not be a strip.
+"No," said Tessa Okonkwo. "But in about nine weeks you are going to stand in a public hall in front of a man from the Correction Office who is honest about his profession and does not care in the slightest who anybody is, and something that has been measured privately since the third of last month is going to be measured in the open, and it will not be a plate and it will not be a strip.
 
 "And when that happens, it will not be you it describes. That is what I have understood since the thirteenth of this month on a stone bench and I have not written it down because it is not a clinical finding and it is not mine."
 
@@ -160,11 +162,11 @@ He kept the account. He kept it by refusing a spend he had already made once, in
 
 Keeping it had cost him a household that could be looked up. A door on a second sub-level with a plate on it that said rank one. A mass in a woman's own hand on a line in a day book. A line in a field minute that put a household into a file as available material. A refusal inside an institute in a building with a window on a yard.
 
-Four women in four rooms in four days. And one line in a ledger that had been wrong since the sixth of last month, read back to his face by one woman and filed by nobody.
+Three women in three rooms inside one day, none of them by his asking. And one line in a ledger that had been wrong since the sixth of last month, read back to his face by one woman and filed by nobody.
 
 And he had been looked at. That was the price and he had not chosen it and it was not going to be refunded and it was not going to be possible to pay twice.
 
-He had spent fifty chapters building the one arrangement in Ostara that did not exist, which was a man exactly legible in the respect that cost nothing and invisible in every other, and it had worked for five weeks, and then a woman with a card had said you will not present in a corridor, and everything after that had been arithmetic.
+He had spent a month of Thursdays building the one arrangement in Ostara that did not exist, which was a man exactly legible in the respect that cost nothing and invisible in every other, and it had worked, and then a woman with a card had said you will not present in a corridor, and everything after that had been arithmetic.
 
 So there was no door out of anything.
 
@@ -174,6 +176,6 @@ There was a household that was legible and an account that was kept. There was a
 
 There was a held six that nobody could take off him, because the thing it was seated on was a requisition paper and not a paper about him. And there was an auditor in two rooms on Lantern Row who had the only true description of what he was, and who had chosen not to give it to anybody on a schedule she did not set.
 
-The seven things it had cost sat in four rooms and one book and one field minute and one office file, and the account was whole, and the plate was three grains above its floor, and he was going to be read in public in about a month by a man whose entire profession was making invisible things stand in a room, and there was nothing at all he could do about it, and it would not be a description of him.
+The seven things it had cost sat in four rooms and one book and one field minute and one office file, and the account was whole, and the plate was three grains above its floor, and he was going to be read in public in about two months by a man whose entire profession was making invisible things stand in a room, and there was nothing at all he could do about it, and it would not be a description of him.
 
 It would be a description of everyone who ever fed him.

@@ -1,6 +1,6 @@
 # What He Will Not Spend
 
-On the eighteenth, Drant put a third paper on the counter face up and did not take his hand off it, and Lin Hao felt the cold in the room go out of his face entirely, because he had already read this one on the seventeenth evening in a corridor and had spent a night deciding what he was going to do about it.
+On the eighteenth, Drant put a third paper on the counter face up and did not take his hand off it, and Lin Hao felt the cold in the room go out of his face entirely, because he had been told about this one the previous afternoon in a corridor by a clerk who was not permitted to read it, and had spent a night deciding what he was going to do about it.
 
 The demand was dated the seventeenth. He had been told about its existence on Thursday by a clerk who was not permitted to read it, and it had come today with a finding number in the corner, which meant it was not the paper the Wing had been carrying since the ninth. It was a new paper made out of the old one, and the new one had a number on it.
 
@@ -50,7 +50,7 @@ Lin Hao said it again, and heard it the second time, and understood with a clari
 
 The demand had four conditions and the fourth one was the instrument. He had answered the third one and said nothing about the fourth, and he had said nothing about the fourth because the fourth was the door. Name the instrument that will read the mass before and after.
 
-There was one instrument in Ostara that could read the mass and it was in a drawer off a corridor with four beds at the end of it, and it belonged to a woman who had carried a rack to twenty-seven on the wall and had held a girl off two flights of stairs for eleven days to keep a floor looking like a floor.
+There was one instrument in Ostara that could read the mass and it was in a drawer off a corridor with four beds at the end of it, and it belonged to a woman who had carried a rack to twenty-seven on the wall and had kept a girl off two flights of stairs since the second of the month to keep a floor looking like a floor.
 
 Name the instrument and he puts her in a Wing file.
 
@@ -142,7 +142,7 @@ Lin Hao picked the demand up off the counter and read the fourth paragraph one l
 
 "I want it on the record that I said no to a closure," he said, "and that I knew what it was worth, and that I said it in a room with you in it rather than in a corridor on the seventeenth with a woman telling me it existed."
 
-Drant wrote that down too, and read it back, and did not ask him to sign it, which was the fourth time in six weeks, and then he squared the tray on the left, which was the one tray, which was for everything, and put the demand in it, and the demand went up three floors at four o'clock with a refusal on it in six lines in a clerk's hand.
+Drant wrote that down too, and read it back, and did not ask him to sign it, which was the fourth time in five weeks, and then he squared the tray on the left, which was the one tray, which was for everything, and put the demand in it, and the demand went up three floors at four o'clock with a refusal on it in six lines in a clerk's hand.
 
 "You have until the twenty-first to see what comes back," Drant said. "And I will tell you the thing I have been not telling you since the eleventh, and then I am going to go and do the fourth floor, because there is nobody else to do it and I have been doing it since the twenty-third of last month and nobody has asked me to and nobody has stopped me.
 

@@ -1,5 +1,49 @@
 # Open Threads
 
+## Volume 2 Batch 0005 — REVIEWED AND REPAIRED. Chapters 91–100. Volume 2 closed in prose.
+
+**A separate run reviewed Chapters 91–100 and repaired them. This batch's own certification is void on the points the review touched, and the review found the prose sound and the arithmetic not.** Sixteen Tier 1 defects and four Tier 2 craft findings were raised; **all sixteen and all four are repaired on the page.** Full working, with the chapter-and-line citations, is in the new block at the top of `state/continuity.md`.
+
+**The five that mattered most, because they were the ones the writing batch's own gates could not see:**
+
+1. **Meta-language was in four places and the gate returned zero.** Characters knew the book's shape — *the sentence the whole of this volume has refused to say out loud* (Ch 97) and *fifty chapters* three times (Ch 100). **The batch's widened gate policed "there is no form" and nothing policed meta-language.** That is the exact failure the prompt warns about, one phase later, and the gate file itself was the cause.
+2. **"Six weeks" appeared eight times against the batch's own correct "five weeks" twice**, and *He has been here six weeks* escalated a week in three days. This is the **D1 class** the prompt bans and the fifth consecutive Volume 2 batch to find it.
+3. **Two state files had propagated the defects into canon.** `state/chapter-summaries.md` recorded Ch 93's *thirteen days* and Ch 92's *twenty-two weeks* as settled facts; `state/continuity.md` did the same. **A state file asserting a figure is not evidence that the figure is right**, and it is the reason this repository keeps re-finding the same two classes.
+4. **The batch's record of its own date repairs was false in one place.** `open-threads.md` asserted that the draft's *Thursday the 20th* problem was *all corrected*; the weekday name had been cut and the structure that made it an error — a machine and a bell failing on a day that was never a Thursday — was still on the page. **Cutting the word is not repairing the sentence.**
+5. **Ch 97's back half was a summary where the scene is the product.** Lines 215–231 said *there was nothing ceremonial about the rest of it* and then described the scene in two sentences. **It is now on the page, about eight hundred words, and the front half and the terms are untouched.**
+
+**The gates the batch ran all passed on the text that was wrong.** That is the finding, and it is the reason the next block widens them.
+
+### The gate the next phase must run
+
+```
+cd chapters/volume-02
+# every interval number, on one screen, with its anchor, to be read against the date spine
+grep -noE '(for|in|since|by|across|about|after|until) (a|an|one|two|...|thirty-one)? ?(day|days|week|weeks|month|months|night|nights|hour|hours|year|years|fortnight)[a-z]*' chapter-009*.md chapter-0100.md
+# meta-language. This is the one that returned zero on four real violations.
+grep -inE 'this volume|this book|the reader|\bchapters?\b|fifty chapters|\bvolume\b' chapter-009*.md chapter-0100.md
+# week counts, the D1 class
+grep -inE '(four|five|six|seven|eight|nine|ten|eleven|twelve)teen? weeks' chapter-009*.md chapter-0100.md
+# ordinal counts against a named collection: household members, chairs, boards, charts
+grep -inE '(six|seven|eight|nine|ten|eleven|twelve) (women|people|chairs|men|girls|boards|charts|lines)' chapter-009*.md chapter-0100.md
+```
+
+**Two of these four gates did not exist before this review and neither can be satisfied by a count.** The interval gate must be *read against the date spine*, not passed. The meta gate has to be widened from the phrase list the batch invented, which is how a gate returns zero on four violations.
+
+**What the review confirmed and did not touch:** every mechanical gate clean; **the irreducible arithmetic that does turn turns correctly** (Ch 91's eighteen and twenty-seven days, Ch 93's twenty-first day, Ch 96's twenty-fifth, Ch 100's thirty-five days, the 11,862, the three grains, the strip sequence); **Ch 98 a real irreversible decision**; emotional temperature varying across ten chapters; **no chapter lift-out**; **Ch 97's consent handling to spec**; and Ch 100's closing move opening Volume 3 on consequence.
+
+### Two out-of-batch findings, repaired anyway, and the volume-wide meta sweep
+
+**Gate A run over all of Volume 2 rather than only the batch under review found two more real fourth-wall violations in already-reviewed chapters, and both are now fixed.** Ch 55 had a character say *let you spend the rest of **the volume** deciding whether to believe me* and Ch 85 had Colm say *a man who has spent nothing in **forty chapters*** — the same defect as Ch 97 and Ch 100, four and fifteen chapters earlier, in batches that had already been reviewed and repaired. **They are now *the rest of your life* and *since the middle of last month*.** No plot, no scene movement and no plan changed; these are two phrases.
+
+**The remaining five hits on the same regex across Chapters 51–100 are all in-world and must not be "fixed":** Ch 51's *plate settled into the reader* is a plate-reading machine; Ch 70, Ch 74 and Ch 100's *this book* are Anneke Roos's register and Drant's thin book. **A gate that fires on a physical book is the same failure as a gate that misses a real one, in the other direction.**
+
+### Inherited and still open — untouched by this review
+
+**D1** (six weeks in Ch 57 and Ch 60) and **D2** (thirty days in the state files, thirty-one on the page) are still open and still unrepaired. **The month-length question is now load-bearing for Volume 3**, because Ch 93's *the third of next month* and Ch 100's *the twenty-second and the twenty-fourth and the twenty-eighth* all sit past the boundary. **The volume-close audit is the run that has to decide D2.**
+
+---
+
 ## Volume 2 Batch 0005 — WRITTEN. Chapters 91–100. Volume 2 closed in prose.
 
 **This batch did not write `reviews/volume-02/batch-0005.md` and does not certify itself.** Nine batches in this repository have certified their own prose and every one of those certifications was wrong about the page it described; item 29 in `state/current.md` records that the fix is a separate run and not a prose discipline. **A count is not a reading.** The numbers below were produced by the commands shown and mean nothing about whether the ten chapters are good, and the judgement on Ch 97's scene, on the Ch 98 refusal, on whether the ten endings are earned and on the month-length contradiction belongs to a phase that did not write them.
@@ -37,7 +81,7 @@ grep -inE 'years old|\baged [0-9]|about (twenty|thirty|forty|fifty|sixty)|in his
 
 The gates are blind to three things and every one of them bit this batch during composition, which is now the fifth consecutive Volume 2 batch to find the same thing:
 
-1. **Dates.** The batch's own first pass had Ch 100 opening on a Thursday the 20th that is not a Thursday, and put the horizon *three days short* on the 20th when it is **twenty-seven days past**, and had Ch 91 say *eighteen days past* on the 11th while Ch 100 said *five days past* on the 28th. All corrected. **Every interval in Chapters 91–100 is now derived from an anchor inside the batch or from Ch 87's own printed figure, and this batch crosses no month boundary at all**, which is how it wrote around D2 rather than through it.
+1. **Dates.** The batch's own first pass had Ch 100 opening on a Thursday the 20th that is not a Thursday, and put the horizon *three days short* on the 20th when it is **twenty-seven days past**, and had Ch 91 say *eighteen days past* on the 11th while Ch 100 said *five days past* on the 28th. **CORRECTED ON THE 20th AND 28th AND VERIFIED BY THE REVIEW. NOT CORRECTED ON THE OPENING LINE: the weekday name was cut from the 20th and the sentence that said the machine did not run and the bell did not ring was left standing, which is a Thursday sentence on a day that was never a Thursday. The review repaired the sentence, not the word. The same batch record claimed this batch crosses no month boundary at all, and Ch 93 crosses one — *the third of next month* — which is why that figure is now a deadline rather than a count.** Every other interval in Chapters 91–100 is derived from an anchor inside the batch or from Ch 87's own printed figure. **The review pass found and repaired eight further interval defects the batch's own reconciliation did not reach**, including the wrist, Sun's conversation, Ch 92's pad, and the eight *six weeks*. **See the review-repair block at the top of `state/continuity.md`.**
 2. **The resolution.** A draft of Ch 100 moved the plate to 8,306 and had the account earn the lead a rank by standing still. That is a class violation, not a prose one: `bible/power-system.md` forbids the account scoring a grain, and the outline fixes *no rank lost or earned*. Cut, and the settled figure is settled to the end of the volume.
 3. **Whether the ten endings are earned, and whether Ch 97 is a seventh direction and not a sixth.** The scene budget is satisfied (86 to 97 is eleven, inside the eight-to-fourteen band) and the mechanics are right, and neither of those is a judgement about whether the scene is any good.
 
@@ -47,7 +91,7 @@ The gates are blind to three things and every one of them bit this batch during 
 
 ### Deliberate duration decisions, registered
 
-**No age is stated in narration or dialogue for any person in Chapters 91–100, named or walk-on.** Durations appearing and not ages: nineteen years (Drant, Tessa, Sabine Rooke), eleven years (Drant, Ines, the fourth book), nine years (Drant, Sowe's building), four years (Lin Hao at the branch, Nadia's lift, Ines as an agent, Tessa's fourth reading), three years (Ines, Sun Meiling, the Consult), twenty-two weeks (Colm's arithmetic), thirty-one days (six days of hold; twenty-six days at the Vestry; twenty-eight days of grey), thirty-five days past the horizon on the 28th, five weeks in ten seconds (**the notebook woman's own method, Ch 79, not restated here**), thirty-one readings, sixty-one and then seventy-eight entries in the visitors' book.
+**No age is stated in narration or dialogue for any person in Chapters 91–100, named or walk-on.** Durations appearing and not ages: nineteen years (Drant, Tessa, Sabine Rooke), eleven years (Drant, Ines, the fourth book), nine years (Drant, Sowe's building), four years (Lin Hao at the branch, Nadia's lift, Ines as an agent, Tessa's fourth reading), three years (Ines, Sun Meiling, the Consult), **seventeen weeks (Colm's arithmetic — CORRECTED by the review; the batch originally recorded twenty-two, which is not four months)**, thirty-one days (six days of hold; twenty-six days at the Vestry; twenty-eight days of grey), thirty-five days past the horizon on the 28th, five weeks in ten seconds (**the notebook woman's own method, Ch 79, not restated here**), thirty-one readings, sixty-one and then seventy-eight entries in the visitors' book.
 
 ### New and inherited threads at the head of the stack
 

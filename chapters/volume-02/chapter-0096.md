@@ -1,6 +1,6 @@
 # The Empty Trolley
 
-On the seventeenth, the second Thursday inside the hold, the machine on the fourth floor did not run and the bell did not ring and the strip did not come off it, and at eleven o'clock Drant put an envelope on the tray and stood looking at it for a while.
+On the seventeenth, the only Thursday inside the hold, the machine on the fourth floor did not run and the bell did not ring and the strip did not come off it, and at eleven o'clock Drant put an envelope on the tray and stood looking at it for a while.
 
 "There is a forwarding," he said. "It goes at four whether there is a strip in it or not, because a forwarding that goes late is a forwarding that did not happen, and the book upstairs has a line for late and a line for missing and I would rather be late."
 
@@ -26,7 +26,7 @@ Drant did not move.
 
 "There is no why. You are a clerk and a forwarding went out on its day and there was nothing on the machine to forward, and that is the whole of the entry and it is the truest thing this floor has produced in a month." He put his finger on the envelope.
 
-"And if you write a figure on a sheet with a date under it, then for the rest of this hold there is a number in a building in this city that says I read eight thousand one hundred and thirty-eight, and somebody will copy it onto something, and in six weeks it will be in a return with my name at the top of it, and there will be no way afterwards to establish that it was ever true on any day.
+"And if you write a figure on a sheet with a date under it, then for the rest of this hold there is a number in a building in this city that says I read eight thousand one hundred and thirty-eight, and somebody will copy it onto something, and within a month it will be in a return with my name at the top of it, and there will be no way afterwards to establish that it was ever true on any day.
 
 I would rather be absent than stale."
 
@@ -34,7 +34,7 @@ That was the reasoning and the second half of it was true and the first half of 
 
 "Attendance," he wrote, "seventeenth of the month. Fourth floor. Figure not produced. Reason: no reading taken at the place of score. Forwarding made and empty."
 
-He squared it and read it back and signed it, and did not ask Lin Hao to sign it, which was the third time in a month he had not asked.
+He squared it and read it back and signed it, and did not ask Lin Hao to sign it, which was the third time in five weeks he had not asked.
 
 The trolley went down the long road at half past three.
 
@@ -58,7 +58,7 @@ He felt the hollow thing come up, the one that is not fear and is worse: being l
 
 "Go on."
 
-"You did not present at the place of score yesterday. That is the whole of it. An absent reading is an absence of input and the office requires an account of the absence, and it is made by the member." She held the form against her chest and did not offer it. "I am not permitted to take your answer on this corridor.
+"You did not present at the place of score today. That is the whole of it. An absent reading is an absence of input and the office requires an account of the absence, and it is made by the member." She held the form against her chest and did not offer it. "I am not permitted to take your answer on this corridor.
 
 I am permitted to ask you whether you will give an account, and if you say you will, I am to write the day and the hour and send a runner for you to come and do it in a room."
 
@@ -70,7 +70,7 @@ I am permitted to ask you whether you will give an account, and if you say you w
 
 "There is no rest of it. There is the account of the absence, and the account is why your plate was not read for six days, and there is a form for that with a heading on it, and the heading is not mine and I am not going to say the heading." She shifted her weight. "I will say this and I will say it once and then I am going to go back up and write what I have to write.
 
-"There is a paper with your name on it going to a desk on the eighteenth. It was drafted yesterday. I do not know what is on it, I am not permitted to read it, and I am telling you that it exists because a man who is told the day before a paper lands can spend a night doing something about it, and I would rather he did that than find out on the eighteenth what everybody else in that building found out on the seventeenth."
+"There is a paper with your name on it going to a desk on the eighteenth. It was drafted this morning. I do not know what is on it, I am not permitted to read it, and I am telling you that it exists because a man who is told the day before a paper lands can spend a night doing something about it, and I would rather he did that than find out on the eighteenth what everybody else in that building found out on the seventeenth."
 
 Lin Hao stood very still.
 
@@ -78,7 +78,7 @@ Lin Hao stood very still.
 
 "I am not permitted to know whether I am permitted to read it," said Tove Marlin, "which is the honest form of it, and which is why I am still standing on this corridor at half past four on a Thursday instead of sitting down."
 
-A ward runner came past them with a chart under her good arm and her bad wrist tucked in, and did not slow down, and did not look at the woman with the card, and went into the office and shut the door, and the office at the end of that corridor had a desk in it and a girl in it and eleven days left of not carrying boards.
+A ward runner came past them with a chart under her good arm and her bad wrist tucked in, and did not slow down, and did not look at the woman with the card, and went into the office and shut the door, and the office at the end of that corridor had a desk in it and a girl in it and two days left of not carrying boards.
 
 "You have a floor to work on," Tove Marlin said, and looked at the doors on both sides. "How many quiet rooms is this."
 

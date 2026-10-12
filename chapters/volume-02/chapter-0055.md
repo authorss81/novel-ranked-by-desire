@@ -220,7 +220,7 @@ She reached down under the bench and picked up the folded square of paper with t
 
 "What does it do to me."
 
-"It takes the accident out of it." She put the square face down on the bench. "I am not going to hand you the middle of the shape and let you spend the rest of the volume deciding whether to believe me. You will believe me or you will not and either way you will start behaving like a man who has been handed something, and you are at last a man who has been handed something, and it will be the fastest and the most dangerous way I have ever seen anybody go wrong."
+"It takes the accident out of it." She put the square face down on the bench. "I am not going to hand you the middle of the shape and let you spend the rest of your life deciding whether to believe me. You will believe me or you will not and either way you will start behaving like a man who has been handed something, and you are at last a man who has been handed something, and it will be the fastest and the most dangerous way I have ever seen anybody go wrong."
 
 "Then when."
 

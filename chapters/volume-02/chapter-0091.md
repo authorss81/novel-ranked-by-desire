@@ -32,7 +32,7 @@ He squared the notice against the counter.
 
 "Go on."
 
-"One. The machine on the fourth floor makes a noise on a Thursday at ten and a bell at half past, and every week for a month that noise has been a figure, and a figure you could stand next to. On the seventeenth there is no noise. On the seventeenth a bell does not ring at half past, in a corridor, at ten past nine, and ninety people are going to hear the machine not happen."
+"One. The machine on the fourth floor makes a noise on a Thursday at ten and a bell at half past, and every week for a month that noise has been a figure, and a figure you could stand next to. On the seventeenth there is no noise. On the seventeenth no bell rings at half past in a corridor where ninety people walk past it, and ninety people are going to hear a machine that has rung for four years not happen."
 
 "That is the whole of it," Lin Hao said. "That is what a hold is."
 
@@ -86,7 +86,7 @@ Drant did not answer that. He put the tray square and wrote the day on the spike
 
 "The ninth."
 
-"The ninth," he said. "The holding order came up on the twenty-fourth with a number on it that I did not say out loud until the twenty-sixth. This one was drafted on the ninth, which is three days after a woman with a berth card you cannot give back was put in your fourth room, and eight days after a corridor got turned into a map, and I have now seen this twice."
+"The ninth," he said. "The holding order came up on the twenty-fourth with a number on it that I did not say out loud until the twenty-sixth. This one was drafted on the ninth, which is a day after a woman with a berth card you cannot give back was put in your fourth room, and a week after a corridor got turned into a map, and I have now seen this twice."
 
 "Twice is not a habit," said Drant. "Three is a habit, and you will know it is a habit on the day it happens a third time, and by then it will have been happening for some time without either of us counting."
 

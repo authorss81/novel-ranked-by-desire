@@ -58,7 +58,7 @@ The old man nine feet along had opened his bag and was eating something out of i
 
 "The twenty-ninth stands at nine in the morning, and you will put your arm on the table and I will read it, and there will be no printed figure anywhere in this city to say whether it has moved.
 
-"If it has moved then it is the first time in seven weeks and not one person but the two of us will ever know it. And if it has not moved then that is a fact about your mass held by one clinician in a building with four beds in it and no clerk at the desk after four o'clock."
+"If it has moved then it is the first time since the thirteenth of last month and not one person but the two of us will ever know it. And if it has not moved then that is a fact about your mass held by one clinician in a building with four beds in it and no clerk at the desk after four o'clock."
 
 "The clerk is at the desk."
 
@@ -74,7 +74,9 @@ She stood up and picked up the day book.
 
 "The third of next month there will be three of them in a column." Tessa held the book against her chest. "A summary not produced, given by the holder in person, three times, and then it stops being a service failing to reply and becomes a service being asked properly and not answering.
 
-I have thirteen days to write one line that says eleven years of a rack without producing eleven years of a rack, and if I write it and it is true they will send somebody up these stairs to look at the floor, and they will not send the girl with the wrist, because on the twenty-third of next month she will be back on the stairs and a man who wants to look at a rack does not need a girl who cannot carry."
+I have until the third of next month to write one line that says eleven years of a rack without producing eleven years of a rack, and if I write it and it is true they will send somebody up these stairs to look at the floor.
+
+And they will not send the girl with the wrist, because from tomorrow she will be back up two flights with a board in each hand, and a man who wants to look at a rack does not need a girl who cannot carry."
 
 Lin Hao stood up off the warm half of the bench.
 

@@ -4,21 +4,21 @@ On the nineteenth the three costs came due inside nine hours, and none of them c
 
 The first was Tessa's, and it came at ten in the morning in a corridor, and it came because the runner's wrist had mended.
 
-He had forgotten that. That was the honest shape of it: he had refused a closure at ten past eleven on the previous day and by ten the next morning he had forgotten that a girl on the Vestry floor would go back up two flights of stairs because the date Tessa had given in that same corridor on the tenth had arrived, and the consequence of the date was that the desk at four o'clock emptied.
+He had forgotten that. That was the honest shape of it: he had refused a closure at ten past eleven on the previous day and by ten the next morning he had forgotten that a girl on the Vestry floor would go back up two flights of stairs because the date Tessa had given in that same corridor on the thirteenth had arrived, and the consequence of the date was that the desk at four o'clock emptied.
 
-"The boards went up at one," Tessa said. "She carried nine of them herself and would not let anybody take the second stack, and she has been up and down for six hours on a wrist that was no worse on the fifteenth, and she is not going to be at that desk at four o'clock and neither will I be, because I will be in a room with a man from this office at four o'clock."
+"The boards went up yesterday at one," Tessa said. "She carried nine of them herself and would not let anybody take the second stack, and she has been up and down two flights all morning on a wrist that was no worse on the fifteenth, and she is not going to be at that desk at four o'clock and neither will I be, because I will be in a room with a man from this office at four o'clock."
 
 "What is the second question."
 
 "It went back on the twelfth and it has come a third time and it is not the same question." She had the form in her hand and she did not offer it to him, which was new. "The first two asked whether the clinic holds an instrument that reads a mass without an interval. I said no, twice, and I did say no, and I was accurate, because there is no instrument in this building that does that in a way anybody but me can operate.
 
-"The third one asked whether the clinic holds an instrument that reads a mass, period. And then it attached a form for an answer, and the form had my name on it and not his, because a clinic that keeps an instrument is a service and a service is answerable, and there is a summary line on this floor that has been asked for three times and produced none."
+"The third one asked whether the clinic holds an instrument that reads a mass, period. And then it attached a form for an answer, and the form had my name on it and not his, because a clinic that keeps an instrument is a service and a service is answerable, and there is a summary line on this floor that has been asked for twice and produced none."
 
 Lin Hao understood it and understood what it meant for her, and then he understood the second thing, and the second thing was worse.
 
 "You have to answer it," he said.
 
-"I have to answer it or the form goes back unanswered and unanswered is a lapse against a service and a lapse against a service gets an officer up these stairs." Tessa turned the form over and there was nothing on the back. "And the answer that closes it is four lines long and I have had three days to write them and I have written them about nine times."
+"I have to answer it or the form goes back unanswered and unanswered is a lapse against a service and a lapse against a service gets an officer up these stairs." Tessa turned the form over and there was nothing on the back. "And the answer that closes it is four lines long and I have been carrying it since the twelfth and I have written it about nine times and I sent four lines yesterday afternoon."
 
 "Read me one."
 
@@ -34,7 +34,7 @@ The arcade was cold and full of people going to lunch.
 
 "So you have written four lines," he said, "and you are going to send four lines that say the instrument exists, that it is mine, that it is clinical, and that its readings are not produced."
 
-"That is what I have written." Tessa put the form in her pocket. "And I would like you to sit down for the rest of this, because I have had three days to think about the second half of it and I have not told you and I am telling you now and it is the worst thing I have done in five months.
+"That is what I have written." Tessa put the form in her pocket. "And I would like you to sit down for the rest of this, because I have had since the twelfth to think about the second half of it and I have not told you and I am telling you now and it is the worst thing I have done in five months.
 
 "In order to refuse to describe your mass I have had to describe your mass. The word is mass. The word is in a Wing file on the eighteenth of this month in my handwriting, in a sentence, in an answer to a question nobody in this building asked about you, and the sentence says a mass and not a figure, and a mass is not a plate reading and there is no plate in this city that returns one."
 
@@ -46,7 +46,7 @@ Lin Hao did not sit down.
 
 "That is not you," he said. "That is me. You refused them on the eighteenth at ten in the morning because I said no in a corridor at eight the same morning, and you did not have to—"
 
-"Don't." Tessa Okonkwo's voice did not rise and did not soften either. "Do not do that. I have been taking what you bring me for six weeks and I have decided today, standing at this rack, that I am going to start refusing it, and if you take it off me it is you refusing for me, and then I have not refused anything.
+"Don't." Tessa Okonkwo's voice did not rise and did not soften either. "Do not do that. I have been taking what you bring me for five weeks and I have decided today, standing at this rack, that I am going to start refusing it, and if you take it off me it is you refusing for me, and then I have not refused anything.
 
 "You did not do this. I did this. Put your hands down."
 
@@ -80,9 +80,9 @@ She came out at half past two and found him there and did not sit beside him, wh
 
 "You said on the sixth that the protection would be answerable."
 
-"I said the protection would be answerable and I meant it and I would say it again." Her voice did not move. "Here is what I have not told you and I am telling you now so that you cannot tell me it was a surprise. I did not expect to be answering for it twice in thirteen days. The sixth was protection. The eighteenth is obstruction of a dated lawful demand, written, by a serving officer, against a member who has already refused.
+"I said the protection would be answerable and I meant it and I would say it again." Her voice did not move. "Here is what I have not told you and I am telling you now so that you cannot tell me it was a surprise. I did not expect to be answering for it twice in twelve days. The sixth was protection. The eighteenth is obstruction of a dated lawful demand, written, by a serving officer, against a member who has already refused.
 
-That is not a division matter any more. That is a disciplinary hearing and there will be one, in about six weeks, in a room, and I will be asked who the household is and I will say what I wrote, because I signed it and I meant it, and I have thought about whether I would unsign it and I have not and I am not going to."
+That is not a division matter any more. That is a disciplinary hearing and there will be one, in about two months, in a room, and I will be asked who the household is and I will say what I wrote, because I signed it and I meant it, and I have thought about whether I would unsign it and I have not and I am not going to."
 
 "How long."
 
@@ -110,7 +110,7 @@ It is not addressed to me by name. It is addressed to the house. It has been sit
 
 "You said no," he said.
 
-"I said I could not recall," said Sun. "That was on the fifteenth and it was the exact truth and it was a complete answer and it bought about three days." She put one finger on the sheet. "This is the fourth one and it is not a question.
+"I said I could not recall," said Sun. "That was on the thirteenth and it was the exact truth and it was a complete answer and it bought five days." She put one finger on the sheet. "This is the fourth one and it is not a question.
 
 It is a direction to my house to produce the consult, and it cites the refusal of an agent dated the fourteenth of this month as an indication that a document in this matter is being withheld, and it asks the house to produce its own record of a consult that it produced three years ago."
 
