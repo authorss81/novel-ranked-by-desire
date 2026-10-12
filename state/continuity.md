@@ -63,3 +63,138 @@ Rank nine. His brother's file opens. The account is returned in full at Chapter 
 a night shift. The Board gains a second line reading **unrecorded — carried by**. Nobody thanks him. No
 partner dies. No partner leaves without explaining. Ferreira lives. Sowe lives and is never forgiven or
 condemned on the page. No new final enemy.
+---
+
+# New canon — Batch 0001 (Chapters 1–10)
+
+Appended. Nothing above this line has been altered.
+
+## Dates fixed by the page
+
+The Board repaints Thursday at nine. Readings are published Thursday. The Fourth Branch **draw-down
+audit opens Monday the nineteenth**. All three day-counts in the batch reconcile on this calendar:
+
+- **Ch 1–3: Wednesday the 1st.** Ch 4: Thursday the 2nd and Friday the 3rd, with the rule running on
+  over the weekend. **Ch 5: Wednesday the 8th — eleven days out.** Ch 6: Thursday the 9th, night
+  shift, into Friday the 10th — **nine days out**. Ch 7–8: Friday the 10th, evening and night.
+  Ch 9: the small hours of Saturday the 11th. **Ch 10: Saturday the 11th at six — eight days out.**
+- The rule is made Thursday the 2nd at ten to six and broken Thursday the 9th at ten past ten at
+  night. **It lasts seven days.** Every downstream reference says seven.
+- Bernt Halse is taken **Thursday the 9th at ten past ten in the morning** — the same clock time as
+  the Colm Deveraux push on the night of the 9th, and twelve hours earlier. Lin Hao says this out
+  loud in Chapter 10 and it is the reason he cannot decide whether he did it.
+
+## Mechanics now established on the page
+
+- A reading is a **figure plus an interval**. The interval is the rate; the band is calculated from it.
+  Lin Hao's first slip: `FIGURE 3,412` / `INTERVAL —`. The dash is the machine declining to write down
+  something it cannot place. A zero would be a finding.
+- The wrapped plate's figure **moves** and is the only place the movement shows. It is not a rate.
+  **The chain, all four readings on the page: 3,412 (Ch 1) → 3,393 (Ch 3, the 19-grain draw) →
+  3,481 (Ch 4, up 88 in two abstinent days) → 3,568 (Ch 5, up 87 in the five days since).
+  Total movement Ch 1 to Ch 5 is 156 grains, which is the figure Ines quotes in Chapters 9 and 10.**
+- **Accrual is proximity, not contact.** He fed the account 256 grains in six days of ordinary
+  commuting without touching anybody, because the doors of a tram and a Bureau building are held open
+  by strangers for people who cannot manage them alone.
+- **A draw is contact and only contact, and only relief.** Fourteen grains out of Halvard Rees in
+  under two seconds; Ines took four months of her sister's staircase in a longer, harder spend.
+- **A wrong-direction spend moves account instead of relief.** Colm Deveraux's Exchange figure rose
+  1,001 grains (2,168 to 3,169) in three days while his rate did not move at all. Lin Hao does not
+  understand this yet.
+- **Failure costs are real and physical, not supernatural.** A touch on a non-feeder (Tobias Renn's
+  shoulder) produced nothing and left him grey at the left temple with a black shape of vertigo. The
+  grey at his left temple is permanent from Chapter 4 onward. Abstention costs four hours a night,
+  then two, and an unsteady hand — he put a bucket of water across the fourth-floor landing.
+- **A turned line is reportable** (fourth subsection), and a reportable turned line opens a file on
+  the person it was spent out of. Three felt episodes is the threshold, because a pattern gets an
+  address.
+- **The notation is a wall of people.** Fourteen lines, two turned, at Chapter 10. Eleven of the
+  fourteen belong to people he has never touched.
+
+## New named people
+
+| Name | Age | Role | Where introduced |
+| --- | --- | --- | --- |
+| Halvard Rees | 40s | Wire-splicer, Ferrier line, out of the Cordwain yards. Shoulder off a gantry four years ago. 11 Cutler's Row, second floor back. | Ch 3 |
+| Bernt Halse | 51 | Stock clerk, Fourth Branch fourth-floor stores, 22 years. Taken **Thursday the 9th at ten past ten in the morning**. | Ch 5 (one paragraph), Ch 10 |
+| Ditta Halse | 40s | Bernt's sister. Cordwain laundry, night shift. On the Vestry benches since six on Friday evening, sleeping there. | Ch 10 |
+| Emrys Vaz | 17 | Yard rota, carries branch stock up from the yard at six. 1,200 grains a week. | Ch 5 |
+| Colm Deveraux | 40s | Supply supervisor, third floor stores. Holds the key to supply room three. Bad right shoulder, twenty-two years of shelving. **Not a feeder.** Now frightened of Lin Hao. | Ch 6 |
+| Hester Quill | 60 | Public counter clerk, Classification Wing intake. Twenty-nine years. Not cruel. Explains taken readings without malice. | Ch 10 |
+
+Existing characters given job and address on the page: **Faber**, counter clerk, First Branch counter,
+Fourth Branch. **Nadia Ferrous**, 23, lift attendant, Vestry arcade car. Off till two, on the car till nine.
+Lives above a chandler's on the Vestry side. **Ola Bright is her sister, not her flatmate.** **Ola Bright**, Vestry kitchens volunteer, four afternoons a week plus the
+Friday branch supper run; premises registration only, no plate issue, no file. **Ines Duarte**,
+second floor above a lock-up and a chandler's on Lantern Row, two rooms, eleven months, second name
+struck through on the lease in a much older hand.
+
+## Sister subplot — Ding D. Duarte
+
+Petition 4118, four years back, refused: *no instrument of record; the act described is not scored
+under any classification heading available to this office.* Ding carried a child up nine steps of the
+long stair at the Vestry at seven in the morning in the dark and lost 300 grains in a single week
+(1,240 down to 611). Ines is rank two; hearings are rank five and above; she has carried the refusal
+since the Wednesday in April. **Fixed: Ding is alive and lives in the Vestry.** She is a source of the
+reservoir and has not been named on the page yet.
+
+## The file
+
+Four years of employment, one plate, a disciplinary note about a mop, and a **two-year gap** between
+the second and third attestation in which Lin Hao does not appear anywhere. At the bottom of the gap,
+a bone-coloured card in a typeface the branch has not used in eight years:
+`RELATIVE OF RECORD: LIN WEI. R.6. SEE ALSO — READING OFFICE TRANSFERS, CLASS.`
+**Nobody inside the Bureau has touched that file in three weeks** — in Ines's judgement, for years.
+**T2 must not be answered before Volume 3.**
+
+## The ledger counts, chapter by chapter
+
+| Ch | Lines | Turned | Turned people |
+| --- | --- | --- | --- |
+| 3 | 3 | 0 | — |
+| 4 | 9 | 1 | Nadia Ferrous (Vestry lift; she has felt one before Ch 4) |
+| 6 | 14 | 2 | + Ola Bright (Vestry supper run, third-floor landing) |
+| 8 | 14 | 9 felt during the scene; Ines reads **nine of the fourteen** through the contact | — |
+| 10 | 14 | 2 | Both located: one floor of a Vestry lift |
+
+## Rationed constructions spent in this batch — do not repeat
+
+- **"there is no column for it"** — spent once, Chapter 1. Not again until Volume 7.
+- **"there is no form for this"** — spent in three registers: Chapter 5 (Tobias, the general
+  observation), Chapter 6 (Colm, bureaucratic frustration), Chapter 7 (Ines, the wall — and she
+  corrects it immediately: *there is a form for a man and nothing for a floor*).
+  **All three escalations are now spent. None remain before Volume 7.**
+- **"nobody asked", "nobody thanked him", "the record remained"** — not spent. All still available.
+  The Volume 1 close is scheduled to spend "nobody has thanked him" in Chapter 50.
+
+## Vocabulary not used in this batch, and why
+
+The word **reservoir** is not spoken or written anywhere in Chapters 1–10. The Bureau's word is
+*unsettled*; Lin Hao's word is *the figure*, *the account*, *it*. The word is named in Volume 2.
+
+Also absent by plan: Channel, quiet account, Ninth Seal, held account, requisition of merit, anything
+from the Concil of the Nine, the Vant, Marguerite Vale, Sun Meiling, Wren Kallo, Perrin Sowe, Alma
+Quayle, Yusuf Adeyemi, Runa Sato, Solveig Rask, Anouk Ferreira, Agnete Lindqvist, Petra Ilyin, Isolde
+Marchetti, Dagmar Oyelowo, Beatrix Halm.
+
+## New world facts established
+
+- **The Classification Wing's public counter** is brass-fronted, has three stools, a bell and a form
+  rack, and is the only part of the sub-level citizens may stand in front of.
+- A taken reading is Class 2 with a single stroke in a column, and the card is kept face-down in a
+  rack of about two hundred.
+- **The Vestry shelter hall** has benches put out overnight by somebody who has done it before. Thirty
+  people waiting on the Saturday morning; most have been there since six the previous evening.
+- **Tessa Okonkwo** runs the largest Vestry free clinic for the gifted, has a physical box in the cold
+  store of bodies that do not match their own charts, and does not count them.
+- A relieved body presents as **too well** — chart says one thing, colour and chest say another. This
+  is the clinical signature of the reservoir's cost and it is what lets the Clinic's records be tested
+  in Volume 3.
+- **The Church of the Quiet Number** has a chapel two streets from the Vestry clinic, holds no ranks,
+  asks for no reading, keeps no register, has eleven thousand members, and a rank-five woman in grey
+  has stood on its step every morning for three years filing the same refused petition: *publish the
+  count of good deeds no instrument ever sees.* Four auditors have refused to read it. **This is T3,
+  planted. Do not develop before Volume 4.**
+- Ola Bright's four sheets of diary are a **predecessor** of the notebook, not the same object: the
+  sheets were left under a saucer on the landing rail; the notebook has forty-one pages and was
+  started afterwards.
