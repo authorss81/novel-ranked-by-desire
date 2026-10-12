@@ -99,26 +99,42 @@ been altered. **This block is a writer's record and has not been reviewed by a s
 standing rule at the foot of `state/open-threads.md`. **The batch did not write `reviews/volume-02/batch-0003.md`
 and does not certify itself.**
 
+**REVIEWED AND PARTLY CORRECTED, and the correction is recorded here because the batch got it wrong.** An
+independent review of commit `77a6d0a` found that a material share of the first pass's date repairs had been
+recorded in `state/open-threads.md` but were **not on the page**. **A repair pass has since corrected them.**
+Everything below describes the text **as it now stands**. Where the repair changed a fact rather than a number,
+the fact is named. The governing rule is unchanged and is now twice-stated because it was once obeyed on paper
+and not in the chapters: **the prose is the canon, and a repair that is not on the page has not happened.**
+
 **HONESTY NOTE, and it is a process fault rather than a canon fault.** The Batch 0003 prompt required any
 proposed canon change to be registered in `state/open-threads.md` **before** it was written into a chapter.
 **That did not happen.** The canon changes below were settled while the chapters were being composed and
 are registered here afterwards, in the same commit. They are recorded in full so that a later phase can
-distinguish a decided question from a new one, but a reader should know they were registered late.
+distinguish a decided question from a new one, but a reader should know they were registered late. The same
+fault produced the review findings below: fixes were made to the state files and to the plan, and a material
+number of them never reached the chapters.
 
 ## The calendar, fixed by the page
 
 Dates and intervals only. **Spoken weekday: Thursday only**, twenty-one mentions across eight of the ten
 chapters. Zero other weekday names appear in Chapters 71–80.
 
-- **Ch 71 the 22nd. Ch 72 the 23rd. Ch 73 the 24th, a Thursday. Ch 74 the 25th. Ch 75 the 26th. Ch 76 the
-  27th. Ch 77 the 28th. Ch 78 the 29th. Ch 79 the 30th. Ch 80 the 31st, a Thursday.**
+- **Ch 71 the 22nd. Ch 72 the 23rd, with a coda on the 25th. Ch 73 the 24th, a Thursday. Ch 74 the 25th. Ch 75
+  the 26th. Ch 76 the 27th. Ch 77 the 28th. Ch 78 the 29th. Ch 79 the 30th. Ch 80 the 31st, a Thursday.**
+  **REPAIRED: Ch 72's coda used to sit on a 27th inside the chapter and its strip filing used to run on the
+  26th. The strip is now filed on the 23rd, the day it is dated, which is what Ch 73 opens on, and the coda is
+  the 25th, the morning he tells Tessa. Do not re-order these two.**
 - **Both calendars are now spent.** The **standing** ran 3rd, 10th, 17th, 24th, 31st and has **five dates
   on it and no end date**; all five are kept and Ch 80 says so out loud. The **schedule** ran 18th and 24th
   of last month and then 3rd, 12th, 21st, all kept, and **closed on the 21st** — the hand that renews it
   writes a column when a standing supersedes it and has not written one since the 3rd. **He has two dates
   and no end, and neither office has given him anything else.**
-- **Thursdays in the batch: the 24th and the 31st.** The 24th is the fourth strip of the standing and the
-  fifth weekly strip was taken on it; the 31st is the fifth.
+- **Thursdays in the batch: the 24th and the 31st. The 24th is the fourth strip of the standing and the
+  31st is the fifth — Drant says "Fifth Thursday running" and "Fifth of the standing" on the 31st and Ch 73
+  says "Fourth of the standing" on the 24th.** **REPAIRED: Ch 76 had called the 24th "the fifth Thursday"
+  and had the figure on "five consecutive strips", and Ch 77 and Ch 78 had the figure at five. All three now
+  read four, which is what Ch 71 already said on the 22nd. The Review room was attended four times, on the
+  3rd, 10th, 17th and 24th.**
 - **The forty-day horizon is the 23rd.** Forty days from the last movement (the 13th of last month):
   seventeen days to the end of that month and twenty-three more into this one. **It is five days past by
   Ch 77 and is named on the page with the derivation shown.** NO MECHANICAL GATE HAS A DATE CRITERION — this
@@ -126,14 +142,20 @@ chapters. Zero other weekday names appear in Chapters 71–80.
 - **Tessa's readable-by date is unchanged: the 25th of next month.** It has NOT moved. Ch 74 is the 25th of
   this month and is the day she *named* it, not the day it falls.
 - **Counted from the page, and derived:** the grey starts on the 23rd and is on its **second** day in Ch
-  73, its **third** by Ch 74, and its **sixth** in Ch 77. Tessa's wall has read **twenty-seven since the
-  seventeenth** — five days in Ch 71, eight in Ch 74, eleven in Ch 77, twelve in Ch 78. Nadia gave the
-  notebook woman his name **on the tenth**; the signalman gave it **on the twenty-fourth**; six days later
-  she says she has had it. The dark coat has been at his branch floor **forty days** (she came to the
+  73, its **third** by Ch 74 (which says "two days of grey"), its **fourth** in Ch 75, its **fifth** in Ch
+  76, and its **sixth** in Ch 77. **REPAIRED: Ch 75 read "the seventh day of it" on the 26th and Ch 76 read
+  "a week of grey" twice on the 27th, with correct chapters on either side of both.** Tessa's wall has read
+  **twenty-seven since the seventeenth** — **five** days in Ch 71 (repaired from six), eight in Ch 74, eleven
+  in Ch 77, twelve in Ch 78 (repaired from "since the thirteenth", which was the wrong date on a correct
+  count). Nadia gave the notebook woman his name **on the tenth**; the signalman gave it **on the
+  twenty-fourth**; six days later she says she has had it. **The lift is the tenth, everywhere, without
+  exception — Ch 71, Ch 77, Ch 79 and Ch 80 all said so and one sentence in Ch 71 and one in Ch 79 said
+  otherwise; both repaired.** The dark coat has been at his branch floor **forty days** (she came to the
   counter on the 20th of last month — `chapter-0056.md:65` and `state/continuity.md`) and at the yard gate
-  for two of them. **BE CAREFUL: the fourth and the tenth are different facts. The fourth is the day the
-  branch strip reached Sun Meiling's floor (Ch 63, canon). The tenth is the day Nadia spoke in the lift
-  (Ch 66).**
+  for two of them, **and she has been on the Office's list since the seventeenth — one date, said once now
+  in two places in Ch 80 where it read seventeenth and twenty-first.** **BE CAREFUL: the fourth and the
+  tenth are different facts. The fourth is the day the branch strip reached Sun Meiling's floor (Ch 63,
+  canon). The tenth is the day Nadia spoke in the lift (Ch 66).**
 
 ## Mechanics now on the page — CANNOT CONTRADICT
 
@@ -144,14 +166,22 @@ chapters. Zero other weekday names appear in Chapters 71–80.
   asked to move and finding out that there is nothing on the other side of the person you touched, and it
   charges you for the asking. The more you reach, the more it looks.* It is **not** the cost of standing
   still and **not** the cost of the weekly strip. **New extent, stated on the page: it stayed, where since
-  the Review it has always gone inside a day and a half, and by the fourth day it had come forward along
-  the ridge above his ear about the width of a finger.** Four nights of eleven minutes at four in the
-  morning. **A failed draw moves nothing at all — no cold in her hand, no cold in his chest — and the
-  plate does not move.**
-- **THE NEGATIVE CASE, PROVED — Ch 72.** He has assumed for four years that what is in him is a thing he
-  does. On the 23rd he proved the opposite: **the thing does not come out of him, it goes in, from whoever
-  is nearest, out of whoever it came from. A thing that arrives in a place is not given by the place; it is
-  sent to a place.** This is the first half of the proof the midpoint needs and it is in his own body.
+  the Review it has always gone inside a day and a half, and by the second day it had come forward along
+  the ridge above his ear about the width of a finger.** **Two nights** of eleven minutes at four in the
+  morning — he tells Tessa that on the 25th and that is the whole of what he has paid at that point.
+  **REPAIRED: this was four nights on the page and five in his mouth, which put five days' elapsed on a
+  chapter whose coda is the 25th. The batch prompt had carried "by the fourth day" and "four nights"; the
+  chapter is two days long and now says two.** **A failed draw moves nothing at all — no cold in her hand,
+  no cold in his chest — and the plate does not move.**
+- **THE NEGATIVE CASE, PROVED — Ch 72, AND IT STOPS ONE STEP SHORT OF THE ANSWER.** He has assumed for four
+  years that what is in him is a thing he does. On the 23rd he proved the opposite and got as far as *it was
+  not that he had been unlucky*, **and then he let it stop, in his own words, because the negative case does
+  not come with an answer fastened to it.** **THE FULL STATEMENT IS NOT ON CH 72.** *It goes in, from
+  whoever is nearest, out of whoever it came from* is said **once in the whole of Chapters 71–80**, on the
+  page in Ch 75, to an analyst, as the proof. **REPAIRED: Ch 72 carried the conclusion in full, privately
+  and at no cost, and Ch 75 then said the identical sentence word for word; the Ch 72 passage has been cut
+  back to the refusal to guess.** Do not restore it. Sun Meiling already had it on the page at Ch 63 and
+  this is not a new discovery.
 - **THE WEEKLY STRIP REACHED THE EXCHANGE — Ch 73.** The strip is a forwarding, so the paper itself leaves
   the branch on a Thursday and then **leaves the Wing**, and the thin register shows it going to **the
   Exchange**, four times running. Drant did not know and says so and asks for it minuted. **The Exchange
@@ -180,11 +210,16 @@ chapters. Zero other weekday names appear in Chapters 71–80.
   own instrument falsifies the Office's own instrument. **The fourth box is empty because there is no
   source, because there is no point.** CANNOT CONTRADICT.
 - **THE HIMSELF LINE, LEGIBLE FOR THE FIRST TIME — Ch 76.** Relief goes to the person it came from, and
-  **nothing in him had ever come from him**, so the one spend that could never have been relief is the only
-  spend that ever worked. **The thirteenth of last month was not a spend. It was the account using the only
-  person in Ostara that nothing looks at hard enough to be a scandal, and it discharged out of three
-  buildings at once.** His brother's sentence in a public hall was not a question about a figure. It was a
-  delivery note. **Lin Wei's whereabouts remain unknown to every character on the page and still are.**
+  **nothing in him had ever come from him**, so the one spend that could never have been relief is the one
+  spend in four years that should have been impossible and worked anyway. **The thirteenth of last month was
+  not a spend. He had been the mouth.** His brother's sentence in a public hall was not a question about a
+  figure. It was a delivery note: *this has been sent, to the lowest address that will hold it.* **Lin Wei's
+  whereabouts remain unknown to every character on the page and still are.** **REPAIRED: Ch 76 carried a
+  full second recital here — the four-year gathering belief, "it was not him going across", and the three
+  buildings discharging at once — which said a second time what Ch 72 and Ch 75 had already said. That
+  recital has been cut. The three-buildings fact is carried by Ch 75's proof and must not be used again as a
+  private epiphany; Ch 76 now opens the passage with *nothing in him had ever come from him* and goes
+  straight to the himself line, which is the part that is new.**
 - **WHAT SETTLING MEANS — new canon, Ch 76, from Anneke Roos and it is the Bureau's own definition.**
   Settling is what the books call **an arrival that has stopped moving**: stopped, gone flat, gone quiet —
   and a thing that has stopped moving has a shape that does not change, so it can be described, so it can be
@@ -215,7 +250,8 @@ chapters. Zero other weekday names appear in Chapters 71–80.
   itself, and while it is open there is nowhere on paper for her to be discharged to.* **It is not the
   third sub-level. It is not a classification. Nothing in that building is holding her.**
 - **THE HOLDING ORDER — new canon, Ch 80.** Prepared, dated the 31st, **unsigned and unissued**, and it came
-  up from three floors on **the twenty-fourth — three days before he said the number out loud to Ruta.**
+  up from three floors on **the twenty-fourth — two days before he said the number out loud to Ruta, and
+  seven days before it was put in front of him.**
   Four printed paragraphs; the fourth holds the attendee at the desk for the term of the inquiry and cites
   an account in this office's custody, one digit long. **Its last sentence is not true and he signs nothing:
   *the account named in this order is held in the custody of this office and the attendee named in this

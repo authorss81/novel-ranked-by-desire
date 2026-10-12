@@ -32,7 +32,7 @@ Lin Hao read the fourth paragraph four times.
 
 "How long have you had it."
 
-"Six days. The twenty-fourth."
+"Seven days. The twenty-fourth."
 
 "You prepared this on the twenty-fourth," he said, "and I did not say that number out loud until the twenty-sixth, in a room with no chairs in it, to an analyst, and there were two people in the building and neither of them writes orders."
 
@@ -114,7 +114,7 @@ Ruta Vesely put her bag down on the floor.
 
 "You are telling me this office is late."
 
-"I am telling you that on the seventeenth a man with a pen in a room four streets from here asked the same three questions she answers at gates at four in the morning, and she has answered his office and mine and has not told either of them about the other, and that when this office finds her — and it will find her, because she has been on a list since the twenty-first — the third question is who she has spoken to.
+"I am telling you that on the seventeenth a man with a pen in a room four streets from here asked the same three questions she answers at gates at four in the morning, and she has answered his office and mine and has not told either of them about the other, and that when this office finds her — and it will find her, because she has been on a list since the seventeenth — the third question is who she has spoken to.
 
 And the people she has spoken to are a gate man, a porter in Bellhouse and a woman in a lift at the Vestry."
 

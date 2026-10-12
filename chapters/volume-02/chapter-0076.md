@@ -1,10 +1,10 @@
 # What Settling Means
 
-The strip came off the machine at twenty to seven and went on the spike and he took it off the spike at ten past and put it in the tray without an envelope, and it was the fifth Thursday, and the figure on it was eight thousand one hundred and thirty-eight, and it had been eight thousand one hundred and thirty-eight on five consecutive strips and the margin printed beneath it was three and the ruling was one hundred and twelve.
+The strip came off the machine at twenty to seven and went on the spike and he took it off the spike at ten past and put it in the tray without an envelope, and the figure on it was eight thousand one hundred and thirty-eight, and it had been eight thousand one hundred and thirty-eight on four consecutive strips and the margin printed beneath it was three and the ruling was one hundred and twelve.
 
 On the third of the month he had given that machine away.
 
-He was in the register corridor at ten past four on the twenty-seventh with a week of grey still at his left temple and the ridge above his ear, and Anneke Roos came out of the register room with her coat already on one arm.
+He was in the register corridor at ten past four on the twenty-seventh with five days of grey still at his left temple and the ridge above his ear, and Anneke Roos came out of the register room with her coat already on one arm.
 
 "You have not come up here for three weeks."
 
@@ -17,6 +17,16 @@ He was in the register corridor at ten past four on the twenty-seventh with a we
 She stopped.
 
 "That was quick," she said. "I had four weeks built into my morning."
+
+"Ruta Vesely closed the Review room over yesterday."
+
+Anneke Roos did not look up from the book.
+
+"You have been up three floors," she said. "I was not told and I am not asking. I am telling you that I know, because two of the nine people who work on this floor were in that room yesterday afternoon and it has not been a secret anywhere, it has only not been a thing I have been told officially."
+
+"Yes."
+
+"Then it went up and it came back down and neither of those touched this room." She put her hand flat on the spine. "Say your two words."
 
 She unlocked the register room and let him in, which she had never done, and shut the door, and the room was a room with a desk and a press and a smell of paper and the big book on the desk with the spine gone.
 
@@ -134,24 +144,16 @@ And on the third flight, with the stair going down and the light going green at 
 
 Nothing in him had ever come from him.
 
-That was the part. He had spent four years believing that what was in him was a thing he did — that he gathered it, in corridors, by being where unrecorded good happened, and that the ledger was a record of a man's attention, and the arithmetic was a man's arithmetic, and when he put his hand on a person it was him going across.
-
-It was not him going across.
-
-It had arrived, for three years, from strangers holding doors for each other four times a day, wherever he stood. It had gone in. It had never once come out of him.
-
-And on the thirteenth of last month, in a room with nine chairs in it, he had opened himself in front of sixty people and the account had used him, because he was the only person in Ostara that nothing looks at hard enough to be a scandal. It had gone out of three buildings at once through the only door in the city that nobody was watching.
+Which meant that the only line in the whole of his ledger that could never have been relief was the line that read himself, because relief goes to the person it came from, and he had put that line into the book on the thirteenth of last month in a room with nine chairs in it with sixty people behind him, and it was the one spend in four years that should have been impossible and had worked anyway.
 
 He had not spent anything that afternoon. He had been the mouth.
 
-And the only line in the whole of his ledger that could never have been relief was the line that read himself, because relief goes to the person it came from, and nothing in him had ever come from him, and that was the only reason the one spend that should have been impossible had worked.
-
-The sentence he had signed on the seventeenth was true and had never been evidence of anything, and a woman at a counter four streets away had been signing an accurate account of a drain on Thursday, and he had been carrying two of the hundred and fourteen thousand grains of his brother's objection around inside his chest for three years believing it was a question about a figure.
+And he had been carrying two of the two hundred and fourteen thousand grains of his brother's objection around inside his chest for three years believing it was a question about a figure.
 
 It was a delivery note.
 
 It said: this has been sent. It has been sent to the lowest address that will hold it. And the address has been filling itself with strangers for three years, and a man who cleans toilets is the only person in this city who is not looked at hard enough, and he is not going to close the gap by earning any more of it, because none of it was ever his to earn.
 
-He got to the bottom of the stair and stood in the street in the green light with a week of grey at his temple. Upstairs there was a sheet in a tray with two words on it in his own hand, going out of a building at five o'clock to a house off a third court.
+He got to the bottom of the stair and stood in the street in the green light with five days of grey at his temple. Upstairs there was a sheet in a tray with two words on it in his own hand, going out of a building at five o'clock to a house off a third court.
 
 A man with a window on the yard had answered a departmental question three years ago about a transfer that carried no name, and had filed the answer, because filing is what an institution does with a thing it cannot describe.

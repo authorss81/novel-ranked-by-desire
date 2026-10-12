@@ -64,7 +64,7 @@ It is not over. She closed it because you gave her a sentence that made it over.
 
 "I have known that since the fourth of the month and I did not say it because I gave your name to a woman in a lift and I did not want to be the woman who came up here and added a thing to a pile," said Nadia.
 
-"So I have been sitting on it for eighteen days waiting for a better time and there has not been one, and I am saying it now because a man who has been counting from the wrong end since the third has not got eighteen days left in this and neither have I."
+"So I have been sitting on it for twenty-four days waiting for a better time and there has not been one, and I am saying it now because a man who has been counting from the wrong end since the third has not got eighteen days left in this and neither have I."
 
 He did the second sum on the bag while she watched.
 
@@ -74,7 +74,7 @@ He did the second sum on the bag while she watched.
 
 "It is five days past and I have no way of knowing whether that is the good news or the bad news, and that is the part that has been sitting in the room since the twenty-sixth and will not go out of it." He turned the bag round. "A thing that goes flat is a thing that can be described. That is the rule and every version of it that anybody in this city knows says the same.
 
-And on the fifth day after it went flat, my plate is reading eight thousand one hundred and thirty-eight and the margin is three and the strip in three days will say the same figure it has said five times.
+And on the fifth day after it went flat, my plate is reading eight thousand one hundred and thirty-eight and the margin is three and the strip in three days will say the same figure it has said four times.
 
 So either it has not gone flat, which means the number is wrong, which means forty days is a number in a corridor and not a rule, which means the Office has been telling the truth for sixty years about a thing they do not have a machine for.
 

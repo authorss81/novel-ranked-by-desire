@@ -42,7 +42,7 @@ Tessa Okonkwo put her hand flat on her own sternum and left it there.
 
 "Held," she said, "and constant, and it has not changed in the seven days I have had it, and I have taken it eleven times and it has not moved a hair.
 
-And there is a reading on the plate in your bag that says eight thousand one hundred and thirty-eight and has said for five consecutive weeks. The two of those are both true and they are not contradicting each other, and there is no office in this city that can put those two numbers in the same sentence."
+And there is a reading on the plate in your bag that says eight thousand one hundred and thirty-eight and has said for four consecutive weeks. The two of those are both true and they are not contradicting each other, and there is no office in this city that can put those two numbers in the same sentence."
 
 She stood up and went to the rack and put her hand flat on the boards, twenty-seven of them, in a column, clipped, each one with a date and a name.
 
@@ -70,7 +70,7 @@ He had not said anything for about half a minute.
 
 "I do not know." She took her hands off him. "I have seven days of a reading, eleven years of charts, and a body that has held past the end of what it had for a hundred and fifty-eight people in a row.
 
-And if I were going to make a sentence out of that I would not be a clinician. I would be a woman with an instrument and a theory, and I have got one of those, and I have never once been the second in eleven years, and I am telling you that tonight and not hiding it in a sentence."
+And if I were going to make a sentence out of that I would not be a clinician. I would be a woman with an instrument and a theory, and I have got one of those, and I have never once been the second in eleven years, and I am telling you that now and not hiding it in a sentence."
 
 "Twenty-three," she said, after a moment. "That is when it went, as far as anything in this room can tell, and it is the same day you worked out on the back of a paper bag in a kitchen, and I have had that in a drawer since the twenty-second and I have not been able to make it mean anything until about an hour ago."
 
@@ -110,13 +110,13 @@ The last time I put a thing down that I had been holding, the person in the bed 
 
 "I want to be able to put it somewhere." Tessa Okonkwo stood up off the table and squared the rack and made the lamp cord straight where it hung. "Not you. Somewhere.
 
-And I have had a clinic for eleven years and a flat above a laundry and a woman in Bellhouse who would take anything I asked her to hold, and I have not asked, and I have not asked because the answer to that question is that a woman in Bellhouse is a woman in Bellhouse, and a month ago you wrote a line in a book in this room and the first of every month is a day that does not happen to anybody else in this city.
+And I have had a clinic for eleven years and a flat above a laundry and a woman in Bellhouse who would take anything I asked her to hold, and I have not asked, and I have not asked because the answer to that question is that a woman in Bellhouse is a woman in Bellhouse, and four days ago you wrote a line in a book in this room and the first of every month is a day that does not happen to anybody else in this city.
 
-And I do not know what it is yet and I have told you on the twenty-ninth because you asked me a question this morning and I would rather you had both than one."
+And I do not know what it is yet and I am telling you this morning, because you asked me a question an hour ago and I would rather you had both than one."
 
 She held the drawer open and then closed it.
 
-"Twenty-seven on the wall," she said. "Twelve days, and nothing has come in since the thirteenth and nothing has gone out, and the one time in eleven years that a rack came down was the one I have just told you about.
+"Twenty-seven on the wall," she said. "Twelve days, and nothing has come in since the seventeenth and nothing has gone out, and the one time in eleven years that a rack came down was the one I have just told you about.
 
 And there is a new line in my book on the first of every month with your name on it and a date. I am telling you all of that on one morning because I am a clinician, and I do not keep things for people to find in a fortnight."
 

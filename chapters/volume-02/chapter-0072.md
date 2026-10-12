@@ -28,6 +28,10 @@ And she looked at him the way a person looks at a colleague who has been unwell 
 
 He went down four floors and washed his hands for a long time.
 
+At ten to seven that morning the strip had come off the machine with the same figure on it, and at the end of the day he took it off the spike and carried it up to the Wing himself and put it in the tray by the brass counter without an envelope, because an envelope in that building was a thing that got weighed.
+
+A day early, and the standing wanted it on the Thursday, and he put it in when he could because a day a man puts in himself is a day nobody can take off him.
+
 The cost arrived at about half past nine.
 
 It started at the left temple, where it has always started, in the exact place it has always been, and he had time to be mildly irritated about that, because a man who has paid a price for six weeks at least expects the supplier to vary the location.
@@ -38,21 +42,21 @@ He had seen it come and go since the Review. It came on the thirteenth and was g
 
 It did not go.
 
-It was there at the end of the shift and it was there when he got home, and it was there when he woke, and he went to work in it for four days because there was nothing else in the calendar to do, and on the fourth of those days he noticed that it had come forward along the ridge above his ear about the width of a finger. It was not pain. It was the specific absence of a thing that was supposed to be there.
+It was there at the end of the shift and it was there when he got home, and it was there when he woke, and he went to work in it for two days because there was nothing else in the calendar to do, and on the second of those days he noticed that it had come forward along the ridge above his ear about the width of a finger. It was not pain. It was the specific absence of a thing that was supposed to be there.
 
 He had not done anything on the twenty-third that was bigger than anything he had done before. That was the part he could not get round. In the Review square it had taken the whole of the account and three strangers and his own line in a ledger, and he had been grey for a day and a half and had gone to work in it with his coat buttoned.
 
-He had put his hand on a woman who had never fed him and nothing had come, and that had cost him the temple and four nights' sleep and it was still there, and the proportion was not in the size of the thing at all.
+He had put his hand on a woman who had never fed him and nothing had come, and that had cost him the temple and two nights' sleep and it was still there, and the proportion was not in the size of the thing at all.
 
-That night he did not sleep. That was the other half of it and it was exactly what it had always been.
+Those nights he did not sleep. That was the other half of it and it was exactly what it had always been.
 
-It started at one and put him out of the bed at half past and let him back in at two and a quarter and gave him eleven minutes of something at four. By the third morning he had understood that the eleven minutes were going to come every night for as long as the grey stayed, and that neither of them was going to tell him anything the other had not.
+It started at one and put him out of the bed at half past and let him back in at two and a quarter and gave him eleven minutes of something at four. By the second morning he had understood that the eleven minutes were going to come every night for as long as the grey stayed, and that neither of them was going to tell him anything the other had not.
 
 He did not tell anybody.
 
 He told Tessa Okonkwo on the twenty-fifth because she was going to look at his face and she was the only person in the household whose looking was an instrument, and he did it in eleven words on the steps of the Vestry while she was holding a door, and he gave her the cause in the same sentence because she would not have accepted it without the cause.
 
-"I put my hand on the woman at my own stair on the twenty-third and nothing came and it has cost me the temple and five nights."
+"I put my hand on the woman at my own stair on the twenty-third and nothing came and it has cost me the temple and two nights."
 
 "Right," said Tessa. "Say the rest of it."
 
@@ -78,7 +82,7 @@ She let the door go and it closed on its hinge.
 
 "That is what I wanted to do about."
 
-"Then you have paid a woman at a stair five days and a week of sleep so that a woman at a stair would not have been annoyed with you," said Tessa Okonkwo, "and I am the person who says that sentence to you because every other woman in this house would say it kindly, and kindly would cost you another week."
+"Then you have paid a woman at a stair two days and two nights of sleep so that a woman at a stair would not have been annoyed with you," said Tessa Okonkwo, "and I am the person who says that sentence to you because every other woman in this house would say it kindly, and kindly would cost you another week."
 
 She went back inside. He stood on the steps in the sun with his hand out of his pocket.
 
@@ -90,13 +94,9 @@ For four years and a hundred and nine lines he had assumed — never examined, n
 
 On the twenty-third of the month he had put his hand on a hand that was not in the book and the entire apparatus had produced nothing, and the reason it had produced nothing was not that he had been unlucky.
 
-It was that the thing does not come out of him.
+It stopped there, and he let it stop, because the negative case does not come with an answer fastened to it, and a man who finishes a sum like that on his own at seven in the morning has usually decided the answer first and is now collecting reasons for it.
 
-It goes in, from whoever is nearest, out of whoever it came from, and it was never in his hand at all.
-
-Which meant that in four years he had never once given anything to anybody. He had only ever been the place it arrived.
-
-And a thing that arrives in a place is not given by the place. A thing that arrives in a place is sent to a place.
+He had not looked properly at a person in four years and it occurred to him somewhere underneath the arithmetic that this was the whole of the subject.
 
 The branch corridor was full at seven and he stood at the bottom of the stair with a queue going up behind him and forty people in the building who had spent four years being looked through by him and had never once been looked at by him.
 
@@ -104,8 +104,4 @@ A woman on the third floor told him her son had come back from the yard and had 
 
 He had said he would come back on Thursday and he had no idea whether he meant it, and the only reason he had said it was that the sentence had come out of his mouth the way sentences do at seven in the morning in a corridor, without a man in it deciding anything.
 
-At ten to seven the next morning the strip came off the machine with the same figure on it.
-
-At the end of the day he took it off the spike and carried it up to the Wing himself and put it in the tray by the brass counter without an envelope, because an envelope in that building was a thing that got weighed. A day early, and the standing wanted it on the Thursday, and he put it in when he could because a day a man puts in himself is a day nobody can take off him.
-
-Then he went up and cleaned six floors of washrooms and stood in a corridor full of strangers with three grains of margin on a printed strip and a hole in his head where his own colour had been, and a woman on the second floor read a plate off a man and said nothing at all.
+He went up and cleaned six floors of washrooms and stood in the middle of the building with three grains of margin on a printed strip he had carried up to the brass counter himself and a hole in his head where his own colour had been for three days, and a woman on the second floor read a plate off a man and said nothing at all.

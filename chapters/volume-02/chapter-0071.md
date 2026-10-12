@@ -132,7 +132,7 @@ She went down the stairs.
 
 The room above the chop-house was quiet for about a minute. Tessa turned her mug a quarter turn and did not drink from it.
 
-"Twenty-seven on the wall," she said. "Six days. It is the first time in eleven years and I would like it noticed by somebody, and I have noticed it myself, and that is not the same, and I am saying it out loud in a room because a thing I have only noticed myself starts to look like a thing I have imagined."
+"Twenty-seven on the wall," she said. "Five days. It is the first time in eleven years and I would like it noticed by somebody, and I have noticed it myself, and that is not the same, and I am saying it out loud in a room because a thing I have only noticed myself starts to look like a thing I have imagined."
 
 "It is noticed," said Beatrix Halm.
 
@@ -166,12 +166,14 @@ He sat down.
 
 Tessa Okonkwo put her mug down.
 
-"That is a date in a room," she said, "and it is five days off, and the twenty-seventh is an ordinary day with nothing written on it at all, and you have never in your life given a date for an ordinary day, and that is what has happened," and I want it said now, in front of all of us, that you have agreed to be asked a question on a day and you will not be let off it on the grounds of a queue."
+"That is a date in a room," she said, "and it is five days off, and the twenty-seventh is an ordinary day with nothing written on it at all, and you have never in your life given a date for an ordinary day, and that is what has happened."
+
+"I want it said now, in front of all of us, that you have agreed to be asked a question on a day and you will not be let off it on the grounds of a queue."
 
 "I will not be let off it."
 
 "Say it back in a week, then," said Nadia Ferrous, "and if you have got a new calendar out by then I want to see both of them, because I gave a stranger your name in a lift for nothing and I would like to have got something out of it."
 
-And it was not a speech. It was a pencil, and a date, and five women, and a woman in a lift on the eleventh of the month who had been asked four times about operators and never once about a clinic.
+And it was not a speech. It was a pencil, and a date, and five women, and a woman in a lift on the tenth of the month who had been asked four times about operators and never once about a clinic.
 
 The room above the chop-house went on until eleven, and nobody mentioned either calendar, and at some point after ten Ola Bright read her own handwriting out loud to make sure of it and Beatrix Halm told her to read it again and she read it again, and it was the same, and she put it on the lamp where it stayed until morning.

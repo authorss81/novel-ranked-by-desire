@@ -1,32 +1,36 @@
 # Current State
 
-**Last written:** **Volume 2, Batch 0003 — Chapters 71–80, complete.** Chapters 51–60 were written by
-Batch 0001, 61–70 by Batch 0002 and then repaired by an external review run, and 71–80 by Batch 0003.
-**The most recent pass over Chapters 61–70 was an external review repair; this batch wrote 71–80 and has not
-been read by anybody who did not write them.**
+**Last written:** **Volume 2, Batch 0003 — Chapters 71–80, complete, reviewed and repaired.** Chapters 51–60
+were written by Batch 0001, 61–70 by Batch 0002 and then repaired by an external review run, and 71–80 by
+Batch 0003 and then **repaired by a second external review run.** **The most recent pass over Chapters 71–80
+was a review repair, and the full list of what it changed is in `state/open-threads.md`.**
 
 **Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are not
 restated here and nothing in Volume 2 Batch 0003 re-opens any of them. **D1 — the six-week count in
 Chapters 57 and 60 — is the one open inherited defect and it is still unrepaired**, because Batch 0003 did
 not write those chapters and a review repair is a separate run.
 
-**This batch did not write a review of itself.** That is deliberate and it is now three batches running. Nine
-batches in this repository have certified their own prose and every one of those certifications was wrong
-about the page it described; item 29 records that the fix is a separate run and not a prose discipline. What
-this batch did instead was run every mechanical gate, record the result with the command that produced it,
-and record plainly in `state/open-threads.md` that those are counts and not a reading. **A review phase has
-not run against Chapters 71–80 and the next phase that reads them must assume the prose, the midpoint
-reversal, the scene and the cost of the irreversible decision are all unverified.**
+**The batch did not write a review of itself, and a review has now read it.** That separation is deliberate and
+it is three batches running. Nine batches in this repository have certified their own prose and every one of
+those certifications was wrong about the page it described; item 29 records that the fix is a separate run and
+not a prose discipline. **The review found the mechanical gates clean and the dates wrong**, and the batch's
+own record of its repairs was, in material part, false: fixes were written into `state/open-threads.md` and
+never carried into the chapters. **That is repaired. What a later phase must assume is narrower than it was
+before and still not clean: the prose, the scene at 74, the cost of the irreversible decision and the judgement
+on whether the ten endings are earned are repaired-for-defect, not certified.**
 
-**And the batch's own arithmetic was wrong nineteen times and wrong in a way no gate can see.** The first
-pass of Chapters 71–80 carried twenty-five illegal weekday names, three runs of emphasis, seventy paragraphs
-over ninety words and three announced ages. **A date montage in Ch 72 ran four days past the chapter that
-owns those days.** Nineteen stated day-counts disagreed with the spine. All are fixed. **Three of those four
-classes are invisible to every mechanical gate in this repository**, which is the fourth consecutive Volume 2
-batch to find the same thing.
+**And the batch's arithmetic was wrong nineteen times, then again after the repair claimed it was fixed.**
+The first pass of Chapters 71–80 carried twenty-five illegal weekday names, three runs of emphasis, seventy
+paragraphs over ninety words and three announced ages. **A date montage in Ch 72 ran four days past the
+chapter that owns those days.** Nineteen stated day-counts disagreed with the spine. **A material share of
+those repairs were never made on the page and were only found by a phase that did not write the chapters.**
+**Three of those four classes are invisible to every mechanical gate in this repository**, which is the fourth
+consecutive Volume 2 batch to find the same thing, and **the fifth to find a repair asserted in a state file
+and absent from the chapter it describes.**
 
 **Position:** Volume 2 Batch 0003 closed. **Held six on an instrument, plate 8,138, floor 8,141, three grains
-of margin, and the figure has not moved in five consecutive weekly strips.** Ledger **112 lines, eight
+of margin, and the figure has not moved in five consecutive weekly strips** — four by the 28th and the fifth
+is the 31st's, which is the last of them. Ledger **112 lines, eight
 turned, one reading himself.** **He has spent nothing in thirty chapters and the one draw he attempted moved
 nothing.** File 4,112 with **one** folio open and no second. **Both calendars are spent** — the standing ran
 five Thursdays and has no end date, the schedule closed on the 21st. **He has two dates and no end.**
@@ -73,15 +77,16 @@ neither findable nor clearable — to make the proof.
   of his page are NOT copied across**, because the moment they sit under that heading they stop being
   entries and become a claim.
 - **THE HOLDING ORDER** is prepared, dated the 31st, **unsigned and unissued**, and it came up from three
-  floors on **the 24th — three days before he said the number out loud.** Its last sentence is not true: the
+  floors on **the 24th — two days before he said the number out loud.** Its last sentence is not true: the
   account is in the office's custody and the man at the desk holds it. **Drant's whole reading is that this
   building has been living on the gap between those two sentences for three years.**
 - **THE GREY — Ch 72, canon confirmed on the page.** A cost of a draw on a person who never fed him, and
   **it is not proportional to how much he was trying to spend**: *the account is asked to move and finds out
   there is nothing on the other side of the person you touched, and it charges you for the asking.* It
-  stayed, where since the Review it has always gone inside a day and a half, and it came forward along the
-  ridge above his ear. **And the negative case is proved: the thing does not come out of him, it goes in.
-  A thing that arrives in a place is not given by the place; it is sent to a place.**
+  stayed, where since the Review it has always gone inside a day and a half, and by the second day it had come
+  forward along the ridge above his ear. **Ch 72 proves the negative case and then stops one step short of the
+  answer, in his own words, because he will not guess at it. The conclusion itself is said once in the batch,
+  in Ch 75, to an analyst: the thing does not come out of him, it goes in.**
 - **THE FORTY DAYS ARE NAMED WITH A DATE — Ch 77.** Forty from the last movement, not the last spend. The
   last movement was the 13th of last month. **Seventeen days to the end of that month and twenty-three more
   into this one. The horizon was the 23rd and it is five days past.** Standing still is what an office does

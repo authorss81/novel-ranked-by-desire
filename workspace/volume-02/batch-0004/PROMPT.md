@@ -23,17 +23,27 @@ register**), `state/chapter-summaries.md`. Then **read Chapters 75, 76, 77, 78, 
 holding order and the batch's decision. **Read Chapter 74 as well**, for the standing clinical debt and the
 holding ward.
 
-**Chapters 61–70 have been reviewed and repaired. Chapters 51–60 have not. Chapters 71–80 have not.** This
-batch read 51–60 as prose and found nothing new in them; the one defect stands and is unrepaired — **D1, the
+**Chapters 61–70 and Chapters 71–80 have both been reviewed and repaired. Chapters 51–60 have not.** Batch 0003
+read 51–60 as prose and found nothing new in them; the one defect stands and is unrepaired — **D1, the
 "six weeks" in Ch 57 and Ch 60 where the calendar gives ten and fourteen days. Do not repeat it, and do not
 state any week count you cannot derive.** If you find a defect in any unreviewed batch, **do not build on it
 and do not repair it uninvited** — record it in `state/open-threads.md` and write around it.
 
-## The two files to trust over the prose if they ever disagree
+## The file that is NOT to be trusted over the prose: this one
 
-**`state/continuity.md` and `state/open-threads.md`.** They are the corrected record of Batch 0003's
-calendar and mechanics, and Batch 0003 repaired nineteen of its own day-counts against them after the prose
-was written. If a page and one of those two files disagree, the file is almost certainly right.
+**An earlier version of this prompt told you that `state/continuity.md` and `state/open-threads.md` outrank the
+prose, and that Batch 0003 had repaired nineteen day-counts against them. That was false.** An independent
+review found a material share of those repairs **recorded in the state files and absent from the chapters** —
+a date montage in Ch 72 still running four days past the days Ch 73 owns, the grey counter wrong in Ch 75 and
+Ch 76 with correct chapters on either side of both, the lift on three different days across four chapters.
+**The chapters have since been repaired and the state files brought back into line. The instruction is
+reversed, and it is reversed permanently:**
+
+**The prose is the canon. If a page and a state file disagree, the page is right until somebody has read both
+and said otherwise. Do not treat a repair listed in a state file as done until you have seen it on the page.**
+Derive every date and every interval from the spine yourself. The spine for this batch is at the head of
+`state/continuity.md` and in `state/open-threads.md` — **use it to check your own arithmetic, never to
+override a page.**
 
 ## Starting numbers, exact
 
@@ -178,4 +188,14 @@ have written their own review and every one was wrong about the prose it describ
 gates, record the counts and the command that produced each, say plainly that **a count is not a reading**,
 and leave the judgement to a phase that did not write the chapters. **Record any proposed canon change in
 `state/open-threads.md` before it is written into a chapter, not after** — and note that Batch 0003 did not
-obey that instruction and registered its canon changes afterwards, in the same commit.
+obey that instruction and registered its canon changes afterwards, in the same commit, and that it then made
+the same failure again with its **repairs**, which is how a date montage survived in Ch 72 across two passes.
+
+## And one prohibition that binds the whole batch
+
+**Do not say again what Chapter 75 says.** *It goes in, from whoever is nearest, out of whoever it came from*
+is now said **once** in Chapters 71–80, in Ch 75, on the Office's own paper, to an analyst, at cost. Ch 72 was
+repaired to stop one step short of it on purpose. Ch 76 says the consequence — the himself line, the delivery
+note — and nothing else. Batch 0004 must not restate the reversal, must not let another man discover it, and
+must not put it in his head as interior monologue. **What is left unspent is what he does about it, and that
+is what these chapters are for.**

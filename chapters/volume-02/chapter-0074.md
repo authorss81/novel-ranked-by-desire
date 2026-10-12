@@ -152,7 +152,7 @@ She was pale and heavy-hipped and marked in four places and she watched him look
 
 "Left," she said. "That is the fourth. That is the fifth. And that is a needle from the ninth of this month and that one will go, and I am telling you it will go so that you do not spend the whole night on it like a man apologising to a building."
 
-Then she came down onto him and put her weight on his chest the way Sun Meiling had put hers on him on a bad bench three weeks before, except that Sun Meiling had asked him first and had said out loud that she wanted it, and Tessa Okonkwo did not ask and did not say it, because she had already said it in item four and she was not a woman who says a thing twice.
+Then she came down onto him and put her weight on his chest the way Sun Meiling had put hers on him on a bad bench seventeen days before, except that Sun Meiling had asked him first and had said out loud that she wanted it, and Tessa Okonkwo did not ask and did not say it, because she had already said it in item four and she was not a woman who says a thing twice.
 
 "Ask me for something," she said, about a minute later. "Not a plate. Not a name. Something you want in this room, out loud, in words, and do not be decent about it, because I have watched you be decent in front of a room full of people and it has cost this city two hundred and fifty-eight charts."
 

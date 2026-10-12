@@ -8,7 +8,7 @@ They went out along the arc with the morning crowd and she worked the pole and d
 
 "I have had some."
 
-"You have had two nights of it and I have been driving past this stop at the end of a shift for six weeks and looking up at that window," said Beatrix, "and I have been off your list since the thirteenth and neither of us has said a word about it, and that has been correct of both of us, and I am not going to start it in a cab at six in the morning. I am going to tell you about a woman in a notebook."
+"You have had seven nights of it and I have been driving past this stop at the end of a shift for six weeks and looking up at that window," said Beatrix, "and I have been off your list since the thirteenth and neither of us has said a word about it, and that has been correct of both of us, and I am not going to start it in a cab at six in the morning. I am going to tell you about a woman in a notebook."
 
 The tram came up slow at the terminus and there was a woman already sitting in the third seat with her bag on her knees.
 
@@ -30,11 +30,11 @@ He had a docket and a whistle and a chart. The chart was the gate tallies and it
 
 "How many times," Lin Hao said.
 
-"Three." The checker held up three fingers and then put them down. "The nineteenth. Three of us at your desk, one at a time, and a man with a pen asking what we felt and when and whether we had reported it, and he wrote down whatever we said and he did not tell the other two what the other two said, and he was very fair about it."
+"Three." The checker held up three fingers and then put them down. "The nineteenth. I have told you what that afternoon was like and I am not going to say it again in a yard. He was fair with us, and he did not tell the other two what the other two said."
 
 "And the boxes."
 
-"Four boxes." The checker showed him the buff square with a thumb. It was not signed. "We filled three and the fourth stayed empty and he said out loud that the fourth one was empty on purpose and that we were not to worry about it, and I have had three weeks to think about that and I still do not know whether it was kindness or whether he was saving it for somebody."
+"Four boxes, and he told us out loud that the fourth was empty on purpose and that we were not to worry about it." The checker took the buff square out of his pocket and showed it with a thumb. It was not signed. "I have had three weeks to think about that and I still do not know whether it was kindness or whether he was saving it for somebody."
 
 "That was kindness."
 
@@ -130,7 +130,7 @@ Ola Bright had the notebook woman on a landing rail in her own hand and the dark
 
 And she has been into my yard at four in the morning and asked a man with a lamp what he could feel and when he could feel it, and that man has an excellent memory and thinks she is a joke."
 
-"And the branch," said Nadia Ferrous. She had been standing since she came in. "I gave the notebook one my name and my building and my floor on the fourth, in a lift, and she has had three days with the Vestry. And Marguerite's porter on the twenty-first and again on the twenty-fourth, and he is not a man who talks, and she did not make him talk, she asked him something and he answered it."
+"And the branch," said Nadia Ferrous. She had been standing since she came in. "I gave the notebook one my name and my building and my floor on the tenth, in a lift, and she has had the Vestry for twenty days. And Marguerite's porter on the twenty-first and again on the twenty-fourth, and he is not a man who talks, and she did not make him talk, she asked him something and he answered it."
 
 Nothing was said for a moment.
 

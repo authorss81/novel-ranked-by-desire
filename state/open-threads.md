@@ -2,11 +2,19 @@
 
 ## Volume 2 Batch 0003 — what the batch wrote, what it changed, and what it did not certify
 
-**Chapters 71–80 are written. This batch did not write `reviews/volume-02/batch-0003.md` and does not
-certify itself.** Nine batches in this repository have certified their own prose and every one of those
-certifications was wrong about the page it described; item 29 in `state/current.md` records that the fix is
-a separate run and not a prose discipline. What this batch did instead was run every mechanical gate, record
-the result with the command that produced it, and say plainly that **a count is not a reading**. The
+**REVIEWED AND REPAIRED. READ THIS BEFORE THE BLOCK BELOW.** An independent review of commit `77a6d0a` found
+that a material share of the first pass's repairs were recorded here **and were not on the page**. A repair
+pass has since put them on the page and this file has been brought back into line with the chapters. **The
+paragraph "And here is what those fourteen gates did not see" below was, for a while, a false record, and it
+stayed false until a phase that did not write the chapters read it against them.** It is retained, with the
+correction stated, because deleting the claim would destroy the only evidence of how the failure happened.
+**No later phase may treat a repair listed in this file as done until it has been seen on the page.**
+
+**Chapters 71–80 are written, reviewed and repaired. This batch did not write `reviews/volume-02/batch-0003.md`
+and does not certify itself.** Nine batches in this repository have certified their own prose and every one of
+those certifications was wrong about the page it described; item 29 in `state/current.md` records that the fix
+is a separate run and not a prose discipline. What this batch did instead was run every mechanical gate,
+record the result with the command that produced it, and say plainly that **a count is not a reading**. The
 judgement on Ch 74's scene, on the midpoint reversal at 75–76, on the irreversible decision in Ch 80 and on
 whether the ten cliffhangers are earned belongs to a phase that did not write them.
 
@@ -14,7 +22,9 @@ whether the ten cliffhangers are earned belongs to a phase that did not write th
 registered in this file **before** it was written into a chapter. **That did not happen.** The canon changes
 below were settled while the chapters were being composed and are registered here afterwards, in the same
 commit. They are recorded in full in `state/continuity.md` so a later phase can tell a decided question from
-a new one, but a reader should know they were registered late, and the guard was not obeyed.
+a new one, but a reader should know they were registered late, and the guard was not obeyed. **The review
+found a second instance of the same fault at a larger scale: the first pass repaired the numbers in this file
+and in the prompt, and then did not carry a number of them into the chapters.**
 
 **Fourteen gates, every one clean on the finished text, and every one of them blind to the batch's real
 defects.** Horizontal rules **0** (`grep -c -E '^\s*(---|\*\*\*|___)\s*$'`) · emphasis **0**
@@ -32,10 +42,45 @@ canon-correct thirty-one**. A **date montage in Ch 72 ran from the 23rd to the 2
 scene on a day already occupied by Ch 73. **Nineteen stated day-counts across the ten chapters disagreed
 with the spine in `state/continuity.md`**, including a wall count that read *six days* in a chapter five
 days from the event, *twenty-four days* since a spend that was twelve days past, and *eleven days after it*
-for two dates two days apart. **Three of those classes are invisible to every gate this repository has**, and
-the third is the class this volume has produced in all three batches so far. **The fix, stated once and
+for two dates two days apart. **Three of those classes are invisible to every gate this repository has**,
+and the third is the class this volume has produced in all three batches so far. **The fix, stated once and
 operative from here: derive every date and every interval from the spine, and add your own arithmetic check
 to whatever gate you run.**
+
+**THE REVIEW CORRECTED THIS RECORD. As written, the paragraph above was a claim that all of it had been
+repaired, and a material part of it had not been.** The review of `77a6d0a` found these still on the page,
+every one of them in the class the paragraph above names as invisible:
+
+| Still on the page at review | What it now says |
+| --- | --- |
+| Ch 72: "four days", "fourth of those days", "four nights", "third morning", "five nights" on a coda dated the 25th | **two days, second of those days, two nights, second morning, two nights.** The strip filing moved from the 26th to the 23rd, the day it is dated and the day Ch 73 opens on. |
+| Ch 75: the grey "on the seventh day of it" on the 26th; Ch 76: "a week of grey", twice, on the 27th | **fourth day**, and **five days of grey**, twice. Ch 73's "second day" and Ch 77's "sixth day" were already correct on either side of both. |
+| Ch 79: the lift on "the fourth", and "three days with the Vestry" | **the tenth**, and **twenty days**. The tenth is stated five times elsewhere. |
+| Ch 71: the lift on "the eleventh of the month" | **the tenth**. |
+| Ch 80: "Six days. The twenty-fourth." | **Seven days.** Two other sentences in the same scene already said seven. |
+| Ch 80: the dark coat on a list "since the seventeenth" and "since the twenty-first", six lines apart | **the seventeenth**, once. |
+| Ch 78: "Twelve days, and nothing has come in since the thirteenth" | **the seventeenth.** The count was right and the date was wrong. |
+| Ch 78: "I am telling you that tonight", in a scene that opens at nine in the morning | **now**. Same fault class as the Ch 69 tense break. |
+| Ch 75: the room "attended four times since the twentieth … and this is the fourth" | **four times on the standing, on the third and the tenth and the seventeenth and the twenty-fourth**, which is four. Exactly one standing fell after the 20th. |
+| Ch 72 L95 and Ch 75 L47: the same sentence word for word | **Ch 72 has been cut back to the refusal to guess.** The line is now said once in the batch, on the page in Ch 75, to an analyst. |
+| Ch 71 L169: an unmatched quote | closed. |
+| Ch 76: "two of the hundred and fourteen thousand grains" | **two hundred and fourteen thousand.** Canon. |
+| Ch 79: "two nights of it" on the 30th | **seven nights.** |
+| Ch 79: the nineteenth re-narrated at length | compressed to a callback. **It happened offstage and is not to be re-narrated.** |
+| Ch 76: the two halves unconnected, Ruta's finding invisible at the register desk | bridged — she raises it in the first minute and explains how she knows. |
+| Ch 74: Sun Meiling's bench "three weeks before" the 25th, against Ch 55's own date of the 8th | **seventeen days.** |
+
+**Three more, found on a last re-read after the repair, same class, not on the reviewer's list:** Ch 76 called
+the 24th "the fifth Thursday" and had the figure on "five consecutive strips" in a chapter dated the 27th,
+while Drant calls the 31st the fifth in Ch 80 and Ch 73 calls the 24th the fourth — **all three of Ch 76,
+Ch 77 and Ch 78 now read four**, which is what Ch 71 already said on the 22nd, and Ch 80 still says five
+because by the 31st five have passed. Ch 77 had Nadia sitting on a thing since the fourth for "eighteen days"
+on the 28th — **twenty-four days**. Ch 71 read "six days" on the wall where it had said five days in the same
+chapter, and the state file had already recorded it as five. And Ch 78 had the day-book line written "a month
+ago" when it was written **four days ago**, on the 25th, in the chapter dated the 29th.
+
+**The lesson, stated once, and it is the only thing in this block worth keeping: a repair that is not on the
+page has not happened. Run the gate against the chapter, not against the note about the chapter.**
 
 ### The batch's irreversible decision, and what it cost
 
@@ -79,6 +124,14 @@ given it away to make the reversal provable on the Office's paper, to the Office
 **Nothing was closed in this batch.** The query, the file, both calendars, the nineteenth, the twentieth, the
 twenty-fourth, the twenty-fifth, the twenty-ninth, the thirty-first, the September date, the four true
 things and the second folio are all still live, and five of them now have a date on them.
+
+**A REPETITION RULE SET BY THE REVIEW REPAIR, and it binds Batch 0004.** The midpoint reversal landed four
+times in the first draft and now lands **twice**: **once, in Ch 75, on the Office's own paper, to an analyst,
+at cost** — and once in Ch 76 as its consequence, the himself line and the delivery note. Ch 72 stops one step
+short of the answer on purpose, in his own words, because he will not guess at it. **Do not open with *it
+goes in, from whoever is nearest* again. Do not let another man discover it. Do not restate it as interior
+monologue.** Sun Meiling has had it since Ch 63 and he has carried it since the twenty-third; what is still
+unspent is what he does about it.
 
 ### Deliberate decisions registered at the moment they were made
 

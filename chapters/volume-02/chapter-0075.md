@@ -14,7 +14,7 @@ She was sitting on the window ledge in her coat with the map rolled up under her
 
 "Then come and do it." She got off the ledge. "And before we start I am going to tell you three things and then I am going to ask you one, and the three are going to cost me and I have decided to spend them, so do not thank me for them.
 
-One: this room has been attended four times since the twentieth, on the standing, and I have been the one attending it, and this is the fourth, and there is nothing in it.
+One: this room has been attended four times on the standing, on the third and the tenth and the seventeenth and the twenty-fourth, and I have been the one attending it, and this is the fourth, and there is nothing in it.
 
 Two: I have stopped it as of this morning. The event has no distribution, my own line says so in my own hand, and I have entered it as insufficient, and from today this office is not sending anybody to this floor and it is not sending anybody to any of the nine people who work in this building.
 
@@ -172,6 +172,6 @@ She held the roll under her arm.
 
 She went out past Sabine Rooke, who was still on the chair with the tally sheet, and who did not look up, and who had been setting up and taking down a room for eleven years for nobody.
 
-Lin Hao stood in an empty room with the panel on its side against the wall, and four marks on the boards where a table's legs had been, and a grey place at his left temple on the seventh day of it, and the word he had been carrying since the eighth of last month came up out of him in the shape of two words, and he said them once, out loud, to nobody, in an empty room, so that he would have said them.
+Lin Hao stood in an empty room with the panel on its side against the wall, and four marks on the boards where a table's legs had been, and a grey place at his left temple on the fourth day of it, and the word he had been carrying since the eighth of last month came up out of him in the shape of two words, and he said them once, out loud, to nobody, in an empty room, so that he would have said them.
 
 Not earned.
