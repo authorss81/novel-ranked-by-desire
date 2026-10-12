@@ -1,6 +1,6 @@
 # Nine Seats
 
-On Thursday morning in the second week after the re-read Lin Hao stood in the Exchange box for the third time, with his plate in his hand and thirty people outside the rail, and Garrick Neve read the figure without looking up.
+On Thursday morning in the first week after the re-read Lin Hao stood in the Exchange box for the third time, with his plate in his hand and thirty people outside the rail, and Garrick Neve read the figure without looking up.
 
 “Eight thousand one hundred and thirty-nine,” Neve said. “Two grains down on the published standing. Two grains inside tolerance. Band holds.”
 
@@ -22,7 +22,7 @@ Three sheets. The first sheet was the offer, rewritten in a clerk’s hand. The 
 
 He read all three standing up with his coat still on.
 
-The offer was the same and not the same. The figure off the Board’s arithmetic into a line held in her personally, untouchable by court, at one grain in four off the top for five years. That part had not moved. What had moved was the favour. The first time she had wanted to be the broker who found it before her chair turned over. This time the third sheet named no favour at all. It named a date six weeks ahead, a room in Bellhouse, and nine seats.
+The offer was the same and not the same. The figure off the Board’s arithmetic into a line held in her personally, untouchable by court, at one grain in four off the top for five years. That part had not moved. What had moved was the favour. The first time she had wanted to be the broker who found it before her chair turned over. This time the third sheet named no favour at all. It named a date a week ahead, a room in Bellhouse, and nine seats.
 
 The Winter Review sat nine. He knew that from the queue sheet. Twenty-two candidates ordered by published standing, seated as many as were seated, in front of a panel with nine chairs behind the table.
 
@@ -34,7 +34,7 @@ Come and hear them read aloud. Nine seats and one of them is yours if you hold t
 
 He folded the three sheets up and put them in his coat pocket and finished the basins, because the basins did not care about brokers’ houses, and then he went down to the yard gate to think.
 
-Emrys Vaz came up with the crate at six minutes past six in the evening, though this was morning, and Lin Hao corrected himself standing by the gate. Morning. The boy came through at ten past seven with the docket, because the rota had changed after the requisition, and he nodded at Lin Hao the way he always did now, kindly, at a distance.
+Emrys Vaz came through the yard gate at ten past seven with a crate on his shoulder and the docket under his arm, because the rota had changed after the requisition, and he nodded at Lin Hao the way he always did now, kindly, at a distance.
 
 Lin Hao did not stop him. There was nothing to stop him for. Another cold into a turned person was how you got them read, and Emrys had never felt one and knew all of it anyway, which was worse.
 
@@ -60,7 +60,7 @@ He took the sheets back and put them in his pocket.
 
 He walked back to the Fourth Branch and worked the rest of the shift with the envelope in his pocket, and at noon he took it to Runa’s cupboard, because there was one person in the building whose trade was reading offers.
 
-She read all three sheets once and put them down.
+She read all three sheets once, turned the third one over to look at the back of it, and put them down.
 
 “A line held in her personally,” Runa said. “One in four for five years. No road this time. That is cleaner than the 12th and it is also dearer, because a line with no road in it has nowhere to hide. Solveig has taken the column off the table. That frightens me more than the column ever did.”
 
@@ -92,6 +92,6 @@ At seven he went up to his room and washed and changed his shirt, because the sl
 
 The anger from the box had gone. In its place was a different feeling, one he had not had since the 3rd. Fear, plainly, of a room with nine seats in it where a provisional band would be struck off a figure on the day.
 
-For Marguerite Vale, who kept the guild’s books for money and had been direct with him in Bellhouse on the 12th, the terms meant putting her house behind a man who had refused her in writing.
+Marguerite Vale kept the guild’s books for money and had been direct with him in Bellhouse on the 12th, and on the strength of three sheets in a washroom she was going to put her house behind a man who had refused her in writing.
 
 He wanted, concretely, to hear the terms read aloud in the room they were written for, with the date and the time on them, before the Review took the band off him — and he knew, standing in his room with a clean shirt on, that wanting leverage was a worse reason than wanting money, which was why he went. He checked the envelope was sealed and dry before he set out, because Bellhouse deserved paper in good order, and he walked the long road so the rain would not touch it.

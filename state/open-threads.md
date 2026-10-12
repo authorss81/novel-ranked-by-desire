@@ -94,7 +94,7 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 | B23 | **The statement he filed against himself.** Ch 39: five names struck by declaration and not by evidence, Emrys Vaz named, plate 441, his own hand and signature, in the front of Runa Sato's file above the observation of the 6th. It put five names back on the branch board and opened a Reading Office query against his own standing. | **Open — the batch's central irreversible decision.** He gave away the only thing protecting ninety-one colleagues in order to file the truth about one boy. It is not repairable by retracting it. |
 | B24 | **The Reading Office query.** A query wants an instrument. The clerk who entered his reading on the 3rd owns it and cannot invent one. He can petition sealed files at six — after the 29th, if he holds the band at all. | Open — the mechanism that turns his own filing into an instrument he has to earn. Batch 0005's clock. |
 | B25 | **A provisional band is not carried into review.** Printed on the queue sheet on the 24th, two days after his filing. The Review strikes the band off the figure on the day, in a room, from the plate. 8,141 is a five. | Open — closes his six at the Review and is the reason Batch 0005 exists. |
-| B26 | **Eleven thousand eight hundred and fifty-nine grains.** Band six opens at 20,000; published standing is 8,141; a witnessed deed scores 400; he needs twenty-nine in six weeks and has nineteen people and no twentieth. | Open — the distance Batch 0005 has to close, and Ch 48's answer is the only one on the table. |
+| B26 | **Eleven thousand eight hundred and fifty-nine grains.** Band six opens at 20,000; published standing is 8,141; a witnessed deed scores 400; he needs twenty-nine in six weeks and has nineteen people and no twentieth. | **Open — NOT closed by Ch 48, and this is now the sharpest fact in the book.** He holds six on an instrument and the plate still reads 8,138. Nothing the account did was converted into a grain. Volume 2 starts 11,862 grains short of the band he is standing on, and the Classification Wing is the party that would like to know how. |
 | B27 | **Tobias Renn is on a board again**, third one down, because of a statement the declarant filed himself, eight days after signing an employer attestation that was not a favour. | Open — B18 deepened. He has still not been thanked and will not take it in a speech. |
 | B28 | **Tessa's rack is at twelve** and she is taking four a day and has crossed her left elbow. She will not stop. She has asked him once a month to say the number out loud to her, and not the names. | Open — the cost of the climb has a body on it. T5 continues. |
 | B29 | **Solveig Rask's column of thirty-one plate numbers over nine years**, and a valuation requiring a rate known to two people. His is the thirty-first, entered on the 3rd, and it is the only entry with a date in the last eleven days. | Open — the register's engine. **Do not resolve before Volume 2.** |
@@ -106,10 +106,11 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 | # | Thread | Status at end of Ch 50 |
 | --- | --- | --- |
 | B31 | **The himself line.** Ninety-one lines, eight turned, one reading himself. No auditor has seen it. Ines cannot decide whether to file it. | Open — Volume 2 engine. The stage-one irreversible decision. |
+| B35 | **Held six on an instrument.** The band came off a requisition, not off merit, and the open-question answer supplied the instrument. A rank-six petitioner standing 11,862 grains under his own band is a shape the Office has no procedure for. | Open — new. Volume 2's institutional pressure, and it is the same pressure the Wing would put on a held account. |
 | B32 | **Three new turned at once.** Nell Ardery, Garrick Neve, yard checker. Three in four seconds in a room. | Open — triangulable pattern now points at the Review room itself. |
 | B33 | **Held Account One.** Transfer receipt 214,000 grains, Lin Wei’s hand, account the index does not contain. No Zero. | Open — T1 advanced by one folio. 4,111 sealed. Volume 2 must not open a second. |
 | B34 | **Beatrix’s broken price.** Cab promise broken in the square. | Open — named without heat, not forgiven in a speech. September still hers. |
-| B23–B30 | Carried. Declaration stands with finding number beside it; query closed by witnessed answer; provisional replaced by held six; 11,859 closed by open-question 400; Tobias off the board by instrument but declaration remains; Tessa at seventeen boards; Solveig column off the table; Bellhouse house behind him unsigned. | Open. |
+| B23–B30 | Carried. Declaration stands with finding number beside it; query closed by witnessed answer; provisional replaced by held six, **seated on an instrument and not on merit**; the 11,859 is **still there on the plate** and was never closed by a score; Tobias off the board by instrument but declaration remains; Tessa at seventeen boards; Solveig column off the table; Bellhouse house behind him unsigned. | Open. |
 | B1–B22 | Carried. Colm still locked; Nadia at three and unspent; Ola clerking; Ding alive unnamed in ledger; Bernt still down; gap unanswered; May clipboard untouched; Rhee closed forever. | Open. |
 
 ## Deliberately unanswered at the end of Batch 0005
@@ -360,7 +361,54 @@ decisions this batch made on purpose.
   against it, and record the command and its output for anything mechanical and **say plainly that a
   judgement is a judgement**.
 
-## Markdown and gate repairs made inside this batch, recorded so a later phase does not re-open them
+## Canon-change flags raised by the Batch 0005 review repair
+
+An independent review read the batch after the batch that wrote it had certified itself — the ninth
+instance of that, recorded in `state/current.md` as item 29. **No canon was changed, no age was moved, no
+scene was moved, no irreversible decision was re-opened, and the planned ending is untouched.** Recorded
+because a later phase must be able to tell these from decisions the batch made on purpose.
+
+- **The volume outline and the page disagree about Marguerite, and the page is now the canon.**
+  `outline/volume-01.md`'s Batch 0005 block requires *"Marguerite's terms are accepted for the wrong
+  reason."* **Chapter 46 refuses them, twice — Ch 33 standing in writing and Ch 46 in bed, for appetite
+  rather than principle.** That is a stronger beat than acceptance-for-appetite and it is what the scene
+  needed, but it contradicts the outline and it is now fixed here. **A later batch may not find the
+  terms accepted, signed, or in force.** They stay down, unsigned, with the house behind him regardless,
+  through the whole of Volume 1.
+- **The volume outline is corrected in the one place the page forced it.** `outline/volume-01.md` says
+  the open-question slot "gets him rank six," which is true, and the batch draft then made it get him
+  rank six *arithmetically*, by scoring four hundred grains off a witnessed answer and jumping 8,137 to
+  20,000. **It does not, and it must not.** The panel's ruling is now an instrument ruling: the band was
+  struck on a requisition, a true answer under the open-question rule is a finding, a finding is an
+  instrument, and a candidate is seated on standing *unless the band was struck on an instrument.* Six,
+  held, on the requisition. **The reservoir scores nothing.** The 11,859 was never closed.
+- **Ch 47's tolerance arithmetic was wrong on the page.** It read 8,137 and called four grains down
+  inside a three-grain tolerance, and the same chapter showed four grains down laping a man. **The Review
+  reading is now 8,138 — three down, three inside, at the edge — and four down still lapses.** The
+  drift ladder is 8,140, 8,139, 8,138 and nothing else. `bible/power-system.md` and the grain spine in
+  this file are unchanged: the published figure is still 8,141 and the figure only ever drifts down.
+- **Ch 42 and Ch 44 were the same day.** Ch 42 is now **Thursday the 22nd**, four days behind Ch 41, and
+  Neve's "Seven days now" fixes it. **Ch 42 backtracks and the page anchors the backtrack.** The four box
+  Thursdays are consecutive and none is skipped, which is what Runa's standing instruction requires and
+  what the first draft quietly broke.
+- **`reviews/volume-01/batch-0005.md` was self-certification again**, in the same commit as the prose it
+  reviewed, and its *Numbers reconcile* bullet certified 8,137 as inside a three-grain tolerance and
+  endorsed a 400 that crossed 20,000. **Both claims were false on the page they were written about.** The
+  bullet now carries the corrected arithmetic and names the check that would have caught it. **Item 29
+  stands: the review phase must be a separate run.**
+- **The chapter-ending construction ran ten times in a row.** *For <person>, his <verb> meant* is now in
+  **Ch 41, Ch 44 and Ch 48 only**, with no two adjacent and no subject repeated across the run. Seven
+  endings were rewritten in other shapes. **The good prose under them was kept.**
+- **The volume-close phase was skipped.** The batch closed Volume 1 in prose and created a Volume 2 batch
+  prompt instead, which `AGENTS.md` and `PHASE_SYSTEM.md` do not allow. **There is no `outline/volume-02.md`
+  and no Volume 2 cards.** `workspace/volume-02/batch-0001/PROMPT.md` has been removed and the volume-close
+  prompt written in its place. **Volume 2 must be planned and closed out before Chapter 51 is drafted.**
+- **Repairs made inside the batch's own prose:** three unclosed quotations and a merged duplicate in
+  Ch 49, a merged two-scene paragraph in Ch 48, a duplicated sentence and a meta leak naming Volume 2 in a
+  character's mouth in Ch 50, a preserved revision artifact in Ch 45, and one duplicated panel-reading
+  scene in Ch 47. **No scene, no beat, no decision and no ending changed.**
+
+## Markdown and gate repairs made inside Batch 0004, recorded so a later phase does not re-open them
 
 - **Eighteen horizontal rules were removed from Chapters 33–38.** `AGENTS.md` bans them and **Chapters
   1–32 had zero**. The draft written before the checkpoint had introduced them as scene separators.

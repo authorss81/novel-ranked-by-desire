@@ -312,25 +312,54 @@ one. Ends on the corridor board: **EMRYS VAZ, four hundred and forty-one, the ne
 26th. Published queue last of twenty-two, provisional the only reason he is on it. Yard gate shows no twentieth person; Vestry shows the five turned are the only named hands. Zero to spend. Ends on the Board repainting Thursday with the only instrument he holds being his own declaration.
 
 ### Ch 42 — What a Sealed File Asks
-Thursday box, second standing. Weekly question from the index: what instrument. Answer: requisition of the 19th and declaration of the 23rd, no other. Third question new: what a sealed file asks — rank held, deposit, form with folio count. Query owned by the clerk of the 3rd, who cannot invent one. Ends wanting one true paper with another hand on it.
+**Thursday the 22nd, four days behind Ch 41.** Box, first standing. Weekly question from the index: what
+instrument. Answer: requisition of the 19th and declaration of the 23rd, no other. Third question new: what
+a sealed file asks — rank held, deposit, form with folio count. Neve: the cheaper price is standing here,
+the dearer one is the date at the top of the band line, seven days. Query owned by the clerk of the 3rd,
+who cannot invent one; Runa makes him swear to stand the box every Thursday until the Review. Ends wanting
+one true paper with another hand on it.
 
 ### Ch 43 — The Longest Walk
-28th. Walks Branch to Cordwain and back looking for a twentieth face. Crossing full of the forty-one. Nell Ardery confirms no new face on the arc; Halvard confirms not one of forty came off him. List written: forty-one lines, five turned. Ends with grief for the trap: the only people he can relieve are the people relief would mark.
+28th. Walks Branch to Cordwain and back looking for a twentieth face. Crossing full of the forty-one. Nell
+Ardery confirms no new face on the arc; Halvard confirms not one of forty came off him. List written:
+forty-one lines, five turned. Ends with grief for the trap: the only people he can relieve are the people
+relief would mark.
 
 ### Ch 44 — An Empty Account
-29th, Thursday. Box third minute, then re-read: 8,140, one down, one inside tolerance, band holds. Query separate and still open. Beatrix: account empty in the one respect that matters. Ines: paper discharged, rota name said, word ungiven, May clipboard still unasked. Nadia: do not spend me. Ends with three stamped slips, none an instrument.
+29th, Thursday. Box second standing, then re-read: 8,140, one down, one inside tolerance, band holds,
+two grains of margin left. Query separate and still open; the Review will ask for an instrument in the
+sixth week. Beatrix: account empty in the one respect that matters. Ines: paper discharged, rota name said,
+word ungiven, May clipboard still unasked. Nadia: do not spend me. Ends with three stamped slips, none an
+instrument.
 
 ### Ch 45 — Nine Seats
-Thursday box, third standing: 8,139, two down, band holds. Marguerite terms return: same line, one in four for five years, no road, plus nine seats with the house in the public seats. Runa: not an instrument. Ines: an evening is not an instrument. He goes for the worse reason — leverage, not money.
+First Thursday after the re-read. Box, third standing: 8,139, two down, band holds. Marguerite terms
+return: same line, one in four for five years, no road, plus **a date a week ahead**, a room in Bellhouse,
+and nine seats with the house in the public seats. Runa: not an instrument. Ines: an evening is not an
+instrument. He goes for the worse reason — leverage, not money.
 
 ### Ch 46 — The Best Rooms in Ostara
-Scene. Bellhouse top rooms. Terms read aloud. No road. Evening asked for herself, answered yes before anything starts. Scene on the page, unhurried, mutual, his tender arm respected. Afterwards he refuses the line again for appetite rather than principle. She keeps the terms down, signed or unsigned, and will sit the Review.
+Scene. Bellhouse top rooms. Terms read aloud. No road. Evening asked for herself, answered yes before
+anything starts. Scene on the page, unhurried, mutual, his tender arm respected. Afterwards he refuses the
+line again for appetite rather than principle. She keeps the terms down, signed or unsigned, and will sit
+the Review.
 
 ### Ch 47 — The Review
-Thursday in the sixth week. Box fourth standing first: 8,137, four down, three inside tolerance, band holds through the day. Review room nine chairs, twenty-two called nine by nine. Query puts him in the room. Panel: provisional not carried, standing is a five. Open-question slot offered. He takes it.
+Thursday in the sixth week. Box fourth standing first: **8,138, three down, three inside tolerance**, band
+holds through the day on the edge of it. Review room nine chairs, twenty-two called nine by nine; four
+grains down lapses a man who held five for six years, which is the proof of the three-grain tolerance.
+Query puts him in the room. Panel: provisional not carried, standing is a five. Open-question slot offered
+— one question put on the floor, public, no notice. He takes it.
 
 ### Ch 48 — One Grain of Itself
-Takes the slot. Question: what is the figure made of. Spends the account on himself, once, first time. True answer: doors, trays, basket 400, door 200, aggregate 3,529, shifts wherever he stands. Machine scores witnessed answer 400; standing crosses 20,000. Rank six held, not provisional. Cost: line reading himself, three new turned (Nell Ardery, Garrick Neve, yard checker). Ninety-one lines, eight turned.
+Takes the slot. Question: what is the figure made of. Spends the account on himself, once, first time.
+True answer: doors, trays, basket 400, door 200, aggregate 3,529, shifts wherever he stands. The machine
+reads the figure against the **band line** instead of the floor. Panel: **a candidate is seated on published
+standing unless the band was struck on an instrument** — the requisition of the 19th is on the table, and a
+true answer under the open-question rule is a finding, and a finding is an instrument. **Rank six, held,
+not provisional, seated on an instrument of that room. No grain was scored and the plate still reads
+8,138.** Cost: line reading himself, three new turned (Nell Ardery, Garrick Neve, yard checker), the cab
+promise to Beatrix broken, the option of being invisible closed. Ninety-one lines, eight turned.
 [Ledger. Ninety-one lines. Eight turned. One line reads himself.]
 
 ### Ch 49 — Four Thousand One Hundred and Twelve

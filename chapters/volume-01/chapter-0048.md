@@ -4,7 +4,7 @@ The open-question slot was a square of floor in front of the panel with no rail 
 
 “What is the figure on that plate made of.”
 
-It was the question he had been asked in different words every Thursday for a month, and it was the question he had answered truly every time without an instrument behind the answer. Where does the movement come from. What instrument do you hold. What does a sealed file ask. Every one of them had been a version of this one, and every answer had been true and unusable.
+It was the question he had been asked in different words every Thursday since the requisition, and it was the question he had answered truly every time without an instrument behind the answer. Where does the movement come from. What instrument do you hold. What does a sealed file ask. Every one of them had been a version of this one, and every answer had been true and unusable.
 
 He stood in the square and looked at the nine chairs and then at the public seats, and he saw Ines in the back row with her folder closed on her knees, and Tessa beside her with her sleeves down, and Beatrix by the door with her hands marked from the brake, and Nadia in the aisle because she would not sit, and Runa in the doorway with her hands behind her back, and Marguerite in the third row with her house round her.
 
@@ -24,11 +24,15 @@ The cold went out of his chest and into his own hand under his own palm, and it 
 
 The room was silent.
 
-The machine on the table printed a slip. The clerk read it and her face changed, and she read it again, and she put it in front of the chair without a word. The panel leaned in. One of the nine put a hand flat on the table to steady himself, though nothing had moved.
+The machine on the table printed a slip. The clerk read it and her face changed, and she read it again, and she put it face up in front of the chair without a word, because the machine had done the one thing it does with a plate that carries a band it cannot find on the floor. It had read the figure against the band line instead. The panel leaned in. One of the nine put a hand flat on the table to steady himself, though nothing had moved.
 
 The chair read it out.
 
-“Published standing eight thousand one hundred and thirty-seven, with a witnessed answer in the room scored at four hundred grains under the open-question rule, attested by nine chairs and sixty witnesses. Standing twenty thousand and above. Band six.”
+“The reading is eight thousand one hundred and thirty-eight,” the chair said. “Three grains under the floor, inside tolerance by nothing. The band holds on standing, and standing is what it has always held on, and standing is a five.”
+
+The room did not move. Then the chair said the rest of it.
+
+“But no candidate is seated on standing at a table where the band was struck on an instrument. This plate was struck on a requisition of property, the nineteenth, thirty-one dwellings, executed in the open and disputed by nobody, and the requisition is on this table in front of me. The answer given in this room is a finding. A finding is an instrument. It answers the index query of the twenty-fourth in the voice of nine chairs and sixty witnesses. Rank six. Held. Not provisional. Seated on an instrument of this room.”
 
 Sixty people drew breath at once, and the usher had to tell the public seats to be still. That was the sound a room makes when arithmetic moves. A man in the second row stood up without knowing he had stood, and sat down again when the usher touched his arm.
 
@@ -54,17 +58,19 @@ The chair struck the band.
 
 “Rank six,” the chair said. “Held. Not provisional. Seated on a witnessed deed of this day.”
 
-The corridor outside filled while the clerk wrote. Word went down the stair faster than any slip. Twenty-second of twenty-two, provisional, one grain, two grains, four grains down, held. The branch would hear it by noon. The Vestry would hear it by night.
+The corridor outside filled while the clerk wrote. Word went down the stair faster than any slip. Twenty-second of twenty-two, provisional, one grain, two grains, three grains down, held. The branch would hear it by noon. The Vestry would hear it by night.
 
-The chair ordered the finding copied and the copies signed, and the clerk worked with both hands while the room watched, stamping each copy separately with great care. The machine cooled with a click between each copy. The register sheet was marked at the thirty-first line, his line, dated the 3rd, with the finding number beside it in the margin in red ink, dated that day.
+The chair ordered the finding copied and the copies signed, and the clerk worked with both hands while the room watched, stamping each copy separately with great care. The machine cooled with a click between each copy. The register sheet was marked at his line, the thirty-first on it, dated the 3rd, with the finding number beside it in the margin in red ink, dated that day.
 
-He stepped out of the square on legs that barely held him, and That night the Vestry was full of talk. Ola read the finding aloud from the landing rail to twenty people, slowly, stumbling on the long words, and Nadia corrected her without malice. The arcade listened the way it listened to announcements. A man asked what a witnessed answer meant and Ola said it meant he told the truth in a room with nine chairs while sixty people listened.
+He stepped out of the square on legs that barely held him, and the clerk came after him with the finding in her hand and the stamp still wet on the corner of it.
+
+That night the Vestry was full of talk. Ola read the finding aloud from the landing rail to twenty people, slowly, stumbling on the long words, and Nadia corrected her without malice. The arcade listened the way it listened to announcements. A man asked what a witnessed answer meant and Ola said it meant he told the truth in a room with nine chairs while sixty people listened.
 
 Tessa examined the three new colds after hours in the cold store, one by one, with the lamp on its cord. Nell Ardery with her eleven weeks of figures, steady, angry at no one. Garrick Neve with nine years at the rail, precise about the minute it happened. The checker with his docket, confused, asking whether he should report it. She charted all three and put the charts on the rack, fifteenth and sixteenth and seventeenth boards, and sat a while with her sleeves up, looking at her own arms.
 
 Runa caught his elbow once, steadying, professional, letting go the instant he was balanced. Ines was standing in the back row with her face in her hands. Tessa had her hand on Ines’s shoulder. Those were the people the machinery had passed through to reach him.
 
-He came out into the corridor with the finding in his hand and the branch porter took it to copy before he could protest. Copies went down the stair in three hands. By noon the corridor board would carry the date of the Review at the top in place of the gap, and the five names would be gone from it by instrument and not by declaration.
+The branch porter took the finding to copy before he could protest. Copies went down the stair in three hands. By noon the corridor board would carry the date of the Review at the top in place of the gap, and the five names would be gone from it by instrument and not by declaration.
 
 Tessa caught his sleeve at the stairwell and held it a moment, hard, and let go. Beatrix nodded once from the doorway, brake marks on her hands, and went back to the yards. Ola wrote the finding down on the landing rail from his dictation, word for word in her own hand, and underlined the band line twice with a ruler.
 

@@ -94,6 +94,6 @@ That night he wrote a list on the back of the counterfoil from the box. Forty-on
 
 When the list was done he looked at it for a long time and then he folded it up and put it in his coat pocket.
 
-For Tessa Okonkwo, who had taken four in a day and two the next morning between six and ten at night because that was when the shifts were, his walk meant six more hours of doors held open by strangers.
+Tessa Okonkwo would go on taking four in a day and two the next morning between six and ten at night, because that was when the shifts were, and his walking the arc had been six more hours of doors held open by strangers.
 
 He wanted, concretely, one new face before the 29th — a stranger at a crossing he had never stood near — and the walk had proved there was not one left on any road his legs could cover.

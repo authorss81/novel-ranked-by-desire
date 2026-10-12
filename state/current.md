@@ -1,18 +1,23 @@
 # Current State
 
-**Last written:** Volume 1, Batch 0005 complete — Chapters 41 to 50. Volume 1 complete in prose; state positioned for Volume 2, Batch 0001.
+**Last written:** Volume 1, Batch 0005 complete and repaired — Chapters 41 to 50. **Volume 1 is closed in
+prose.** The volume close has not been run yet and must be, before Chapter 51 is drafted.
 
-**Position:** Volume 1 complete, chapters 1-50. Rank six held, not provisional, seated on witnessed answer of the Review day. File open by one folio (Held Account One). Next: Volume 2, Batch 0001.
-In the story: **the 26th, morning, outside the Exchange**, having just read a published queue with his own
-name last on it, the word PROVISIONAL on his line, and eleven thousand eight hundred and fifty-nine
-grains between him and a real six.
+**Position:** Volume 1 complete, chapters 1–50. **Rank six held, not provisional.** File open by one folio
+(Held Account One). Ledger ninety-one lines, eight turned, one reading himself. Query closed.
 
-**Volume goal:** In this volume, **Lin Hao must hold rank six through the Winter Review**, or **the
-reservoir is requisitioned by the Fourth Branch and he never gets it back**.
+**In the story:** **the morning after the Review, the Fourth Branch second floor**, with a copy slip drying
+beside the soap, a finding in his coat pocket, and a brother's hand on a transfer receipt for 214,000
+grains into an account the index does not contain.
 
-**Next phase to run:** Volume 1, Batch 0005, chapters 41–50. Prompt in
-`workspace/volume-01/batch-0005/PROMPT.md`. Batch goal: hold rank six through the Winter Review, or lose
-everything to the Fourth Branch.
+**Volume goal — met:** In this volume, **Lin Hao must hold rank six through the Winter Review**, or **the
+reservoir is requisitioned by the Fourth Branch and he never gets it back**. He held it. Rhee does not have
+it and is preparing to go over his head.
+
+**Next phase to run:** **Volume 1 close** (close audit, then close record). Prompt in
+`workspace/volume-01/volume-close/PROMPT.md`. **Chapter 51 must not be drafted before the Volume 2 outline
+exists** — there is no `outline/volume-02.md` and no Volume 2 cards, which is why the batch prompt that
+was written in its place has been removed.
 
 ## Adjudicated contradictions — do not re-open
 
@@ -152,45 +157,79 @@ third time this pipeline has had the same failure after being warned about it by
     of claim each bullet is. **A count is not a reading, and a review that cannot say how a claim was
     checked does not get to make it.**
 29. **Item 22 is now confirmed a second time, not a first.** The Batch 0004 review was written by the batch
-    it reviewed, in the same commit as the prose, and certified a scene that was not on the page — after
-    this file had already recorded that a writer's own review is not a review. **The structural fix is not
-    a prose discipline; it is that the review phase must be a separate run.** Until it is, every claim a
-    batch makes about its own batch is a claim to be re-run, and Batch 0005 should assume it will be.
+   it reviewed, in the same commit as the prose, and certified a scene that was not on the page — after
+   this file had already recorded that a writer's own review is not a review. **The structural fix is not
+   a prose discipline; it is that the review phase must be a separate run.** Until it is, every claim a
+   batch makes about its own batch is a claim to be re-run, and Batch 0005 should assume it will be.
 
-## Where Batch 0005 picks up
+**Closed by the Batch 0005 review repair — the ninth self-certification, and the one that cost the most:**
+
+30. **Twelve defects reached a file that certified the batch clean, and every gate that file ran was a
+    count.** Four were arithmetic, three were quotation or paragraph shape, two were the same scene written
+    twice, one was a construction used ten chapters running, one was a preserved draft artifact, and one
+    was a character naming the volume he is in. **Not one of them was visible to `wc`, `grep`, or a word
+    ceiling.** The Batch 0005 review reported length, bold, weekday and panel gates, all accurately, and
+    never subtracted the floor from a single published reading.
+31. **The volume's central engine was broken by one line and the file endorsed it.** `chapter-0048.md` had
+    the panel award four hundred grains off a witnessed answer and announce standing twenty thousand and
+    above. 8,137 + 400 is 8,537. The whole batch runs on an 11,859 gap. **The reservoir scoring a grain is
+    also the one thing `bible/power-system.md` forbids**, so the fault was not arithmetic alone. **Six is
+    now won on an instrument, not on merit.** B26 is open and sharper than it was.
+32. **Chapter 42 and Chapter 44 were the same day**, and `state/continuity.md` had papered over it by
+    asserting a date its own chapter contradicted. `continuity.md` is the file that is supposed to make
+    this class of error visible. **It is now corrected, and it records why Ch 42 backtracks**, so a later
+    phase does not "fix" the backtrack by moving Ch 41.
+33. **The volume close was skipped.** `AGENTS.md`: if the volume is complete, create exactly one
+    volume-close prompt. The batch created a Volume 2 batch prompt instead, against a volume that has no
+    outline and no cards. **The prompt has been removed and the volume-close prompt written in its place.**
+    A next-phase prompt that concedes it has nothing to write against is not a phase.
+
+**The lesson, stated once and operative from here:** *a count is not a reading.* Every gate above the
+Batch 0005 review was mechanical and every one of them passed. The repair that caught the batch read the
+page. A later phase may still run the commands — they are cheap and they catch real things — but a batch
+may not certify itself, and a review that cannot say how a claim was checked does not get to make it.
+
+## Where Volume 1 closes
 
 | | |
 | --- | --- |
-| Lin Hao | **Provisionally six**, white tile, PROVISIONAL SIX — STRUCK ON A REQUISITION OF PROPERTY, CORDWAIN, 19TH. Floor 8,141, **tolerance three grains**. Published standing 8,141. Grey at left temple, four hours a night, a forearm in a shirt sling, and he walks forty-one minutes instead of riding eleven. |
-| The distance | **Band six opens at 20,000.** He is **11,859 grains short**. A witnessed deed scores 400. That is twenty-nine deeds in six weeks and he has nineteen people and no route to a twentieth. |
-| The account | **Forty-one lines, five turned**, all five located and named in Ch 38: Nadia, Ola, Emrys, Teodor, Tessa. The count rose on the 15th because he walked the arc on purpose, and it has not moved since. He spends nobody in this batch. |
-| The Review | **The sixth week.** Printed rule, up since the 24th: **a provisional band is not carried into review.** He is the twenty-second of twenty-two on a published queue, and the word PROVISIONAL on his line is the only reason he is on it. |
-| The reading | **The 29th.** Three days and two hours from the 26th. Tolerance three grains below the floor. |
-| The five | **Back on the branch board from the 26th**, with a gap where the reason should be. Ottoline Barret, **Emrys Vaz** (441), **Tobias Renn**, and two he never asked the names of. |
-| His standing | Public and now **queried**. A Reading Office query is open against his entry and wants an instrument he has not got. Rank six petitions sealed files — Lin Wei, 4,112 folios — from the 29th if he holds the band at all. |
-| Ines | Rank two. **Her paper is discharged**; she said the rota name out loud on the 20th and will write it down if he says the word and will not say it first. He has not said it. **The second-of-May clipboard is still on her table and he still has not said a word.** |
-| Runa | Co-signing a false report with her own hand twice, and holding at the front of her file a statement that convicts the declarant. She filed it on the 23rd. She has told him plainly that she cannot defend his standing and will not pretend she can. **The scene happened in the ground-floor flat at number 6 on the 19th and she is still carrying it.** |
-| Beatrix | Favour discharged; her three ticks stand. The ninth is her, in September. |
-| Tessa | Turned line and household. Stippling above her left elbow and pale blue above the joint; right forearm beginning. Rack of **twelve** clipboards. She has asked for one thing — say the number out loud to her, once a month, not the names — and said out loud that she will not thank him. |
-| Nadia | In the household and uncontainable, and has forbidden him to spend her. |
-| Marguerite | The Vant's offer refused in writing on the 13th. She kept the terms down, kept investing, and has a broker's house that now knows a man in a washroom asked for the date instead of the money. **Terms arrive Ch 45. Her scene is Ch 46.** |
-| Tobias | Off the filing register, signed an employer attestation that was not a favour, and is third one down on a board again because of the statement the declarant filed himself. |
-| Runa's requisition | Executed. Thirty-one dwellings, a back stair that was reported twice and forced twice, and a statement he wrote at half past two in the morning putting his own name under it. |
+| Lin Hao | **Held six.** Black six on a white tile. **Seated on an instrument of the Review room** — the requisition of the 19th plus the open-question finding. Grey at left temple, a forearm that will bear a sleeve, and he still walks forty-one minutes instead of riding eleven. |
+| His plate | **Published standing 8,138.** Floor 8,141. **The band came off a requisition, not off merit, and the plate still says so.** |
+| The distance | **Band six opens at 20,000. He holds six and is 11,862 grains under his own band.** B26 is open, not closed. Nothing the account did was converted into a grain. |
+| The account | **Ninety-one lines, eight turned**, one of the eight reading himself. Five old turned (Nadia, Ola, Emrys, Teodor, Tessa) and three new, turned at once in a room: **Nell Ardery, Garrick Neve, the yard checker.** Lines only ever rise. |
+| The Review | Held. Four consecutive Thursdays in the box, four counterfoils, the box discharged. **Three grains was the whole of the margin and he used all three.** |
+| The query | **Closed.** A witnessed answer in a room is an instrument. The entry of the 3rd closes on a finding instead of a lapse, in the Reading Office clerk's name. |
+| The file | **4,112 folios. 4,111 sealed. One open**: a transfer receipt in Lin Wei's hand, **214,000 grains**, the eleventh three years ago, into an account the index does not contain. Under it, in Wing print: the file of the person who received it is **Held Account One**. **There is no Held Account Zero.** |
+| Ines | Rank two. **Paper discharged**, rota name said on the 20th, **the word ungiven and that is a decision and not a fact.** The second-of-May clipboard is still on her table and neither of them has said a word. **She cannot decide whether to file the himself line.** |
+| Runa | The Field file closed with the finding. The declaration stands at the front of it above the observation of the 6th, with the finding number beside it. Observation over. She will file nothing further unless the division orders it. |
+| Beatrix | **Her cab price is broken and she named it without heat.** Spend on people, not on yourself; he spent on himself in front of nine chairs. Her three ticks stand. **The ninth is hers, in September.** |
+| Tessa | **Rack of seventeen boards, eighteen before nightfall.** Stippling past the elbow, pale blue above the joint, right forearm begun. She charted the three new colds herself and then sat looking at her own arms. |
+| Nadia | At three in the season and **unspent, on her own instruction.** Held her own car at the terminus past midnight with nobody telling her to. |
+| Ola | Clerking. The diary is up to date and the Review finding is copied under the re-read. |
+| Marguerite | **Refused twice** — standing in writing on the 13th, and in her own rooms for appetite rather than principle. **The terms stay down, unsigned, with the house behind him anyway.** She sat the Review in the public seats with two of her house. |
+| Tobias | **Off the board by instrument.** The declaration he was struck off by is still at the front of the Field file, and he has said he cannot do anything about that either. |
+| Halvard | Cutler's Row, wire labelled eleven B, watching. He told him not to spend one of the five and he did not. |
+| Nell Ardery | Eleven weeks of figures, initials on every return, a cold minute on a landing, and a line in a ledger she will never see. |
 
 ## What he now knows
 
 1. The account is **geography, not intention**, and it moves wherever he stands — so the count stopping
    was always about *faces*, not about the figure.
-2. **Band six is 20,000 and he is at 8,141.** The two numbers on his tile are not two versions of one
-   fact: three grains is how close he is to losing it, eleven eight hundred and fifty-nine is how far he
-   is from having it.
-3. **A band can be struck by a machine** from a figure, and a provisional band does not survive a Review.
+2. **Band six is 20,000 and his plate reads 8,138.** Three grains was how close he was to losing the band
+   and the gap was how far he was from having earned it. **Those are two different numbers and they no
+   longer move together**, because a finding is an instrument and an instrument is not a score.
+3. **A band can be struck by a machine** from a figure, and a machine will read a band against the band
+   line when the figure cannot carry it.
 4. **His declaration was unattested, and so were all five names**, and a self-filing is how you find that out.
 5. **The register is a catch, not a census** — about a hundred out there against thirty-one on the sheet —
    and you get on it the day somebody looks at you.
 6. **The Field and the Wing do not share systems.** Nobody withheld that page from anybody.
-7. **He cannot climb and will not spend anybody.** Thirty deeds in six weeks is not available to a man with
-   nineteen hands.
+7. **He cannot climb.** Thirty deeds in six weeks was never available to a man with nineteen hands, and at
+   the end he did not climb at all. He was seated.
+8. **There is no Held Account Zero**, and his brother moved two hundred and fourteen thousand grains
+   somewhere that cannot be named.
+9. **He has spent himself once and cannot unspend it.** The line reads himself and the option of being
+   invisible is closed forever.
 
 ## Irreversible decisions taken in Batch 0004
 
@@ -202,11 +241,26 @@ third time this pipeline has had the same failure after being warned about it by
 - **Ch 37:** filed a four-page statement putting his own name under a stair he had been in, the door he knew
   had been forced, and every dwelling that came off that row after the 19th.
 - **Ch 38:** spent nothing on anybody, in a batch that climbed to six.
-- **Ch 39 — the batch's irreversible decision:** refused the Field's document, dictated his own, and gave
-  up the wall of ninety-one names on the board in order to file the truth about one boy at a yard gate.
-  Five names went back on the board on the 26th and a query opened against his own standing.
+- **Ch 39:** refused the Field's document, dictated his own, and gave up the wall of ninety-one names on
+  the board in order to file the truth about one boy at a yard gate. Five names went back on the board on
+  the 26th and a query opened against his own standing.
 - **Ch 39:** Ines carried the name up a corridor because a drawer is not a place to keep a person. That
   is hers and it cannot be walked back either.
+
+## Irreversible decisions taken in Batch 0005
+
+- **Ch 48 — the batch's irreversible decision, and the stage-one break.** He takes the Review's
+  open-question slot and **spends the account on himself, once, for the first time in the book**, in front
+  of nine chairs and sixty witnesses. It gets him six. It costs him: **a line in his own ledger that reads
+  himself and should never be**, **three feeders turning at once** because nothing he ever did was that
+  size, and **the cab promise to Beatrix Halm broken** — spend on people, not on yourself — which cannot be
+  mended, because a line that says himself cannot be taken out. It also closes the option of being
+  invisible forever. Nobody arranged for him to.
+- **Ch 46:** refused the Vant's line a second time, **in her own rooms, in bed, for appetite rather than
+  principle**, and said so out loud with the reason attached. She keeps investing anyway.
+- **Ch 49:** kept the declaration at the front of the Field file. Tobias Renn is off the board by
+  instrument because of a finding he did not make, and the statement that put him there is still the first
+  page of his file, and he has said he can do nothing about that either. That is Lin Hao's to carry.
 
 ## Voice note
 
@@ -214,32 +268,56 @@ Long accumulating sentences, short plain landings. Paragraphs two to four senten
 120 words. No weekday names except Thursday and Monday the 19th; dates and intervals otherwise. **Never
 write *there is no form for this*, never write *there is no column for it*, and do not paraphrase either
 one.** Ledger messages only where the count turns, and **never the same panel twice**. No feeder thanks
-him, and *nobody thanked him* is Chapter 50's. Word reservoir never spoken.
+him. **Every number on the page must survive being subtracted from the floor.** Word reservoir never
+spoken.
 
-**Three numeric sweep targets carried forward.** `nobody` / `no one` ran **thirteen times across Batch
-0004's ten chapters, four in Ch 39**, against a target of thirty and a ceiling of five. *Nobody has asked me
-to do this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person nobody looked at* is
-retired** and does not appear. **Chapter prose carries no horizontal rules** — eighteen were cut from a
-partial draft of Chapters 33–38, and Chapters 1–40 now carry none. **Weekday names returned ten across
-Chapters 31–40 and every one is Thursday**; an earlier review said sixteen and the command says ten.
-**Italic returned eight across the ten chapters, three of them in the Chapter 36 scene**, and zero in four
-of the ten.
+**Chapter 50 owns *Nobody has thanked him* and no other chapter may spend it.** Word reservoir never
+spoken.
+
+**Numeric sweeps, carried forward.** `nobody` / `no one` ran **fifteen times across Batch 0005's ten
+chapters, four of them in Ch 50 and none over five in a chapter**, against a target of thirty.
+*Nobody has asked me to do this* was **spent once**, in Ola Bright's notebook in Chapter 38. ***The person
+nobody looked at* is retired** and does not appear. **Chapter prose carries no horizontal rules** —
+Chapters 1–50 now carry none. **Weekday names: only Thursday is spoken anywhere in Chapters 41–50**, and
+an earlier review's claim that the batch was clean on that held. **Bold zero across all ten chapters,
+italic zero across all ten**, and one ledger panel, in Chapter 48.
+
+**The chapter-ending beat varies now.** *For <person>, his <verb> meant* ran in all ten chapters of
+Batch 0005 in a row, which AGENTS.md fails a batch for. It is in **Ch 41, Ch 44 and Ch 48 only**,
+none adjacent, no subject repeated. **Do not reinstate the ten.**
 
 **Planning register may use the words the page may not.** *Reservoir*, *quiet account*, *Concil*,
-*Ninth Seal* and *Channel* are terms of the outline and the batch cards. Chapters 1–40 contain none, and
+*Ninth Seal* and *Channel* are terms of the outline and the batch cards. Chapters 1–50 contain none, and
 none may appear. That is a register rule, not a contradiction between the cards and the ban the cards state.
 
 ## Scene budget
 
-Scenes done: Ch 8 (Ines), Ch 17 (Beatrix), Ch 26 (Tessa, cold store), **Ch 29 (Nadia, stopped lift)**,
-**Ch 36 (Runa, the flat at number 6)**. Next: **Ch 46 (Marguerite)**. The 29→36 gap was seven and was
-accepted and locked; 36→46 is ten. Do not move a scene to fix either.
+Volume 1 scenes done: Ch 8 (Ines), Ch 17 (Beatrix), Ch 26 (Tessa, cold store), **Ch 29 (Nadia, stopped
+lift)**, **Ch 36 (Runa, the flat at number 6)**, **Ch 46 (Marguerite, Bellhouse)**. **Six scenes, the last
+of them inside the 8–15 band at a gap of ten.** The 29→36 gap was seven and was accepted and locked; do
+not move a scene to fix it.
 
 **A scene is the product, not a summary of one.** The Chapter 36 scene was summarised in its first pass
-and certified anyway; it is now written, and it took the chapter to 3,349 words, outside the length guide
-on purpose. **Ch 29 and Ch 26 are 2,299 and 2,698 and both would read thinner with the same repair.**
-Batch 0005's scene is Chapter 46 and should be written on the page the first time.
+and certified anyway. **The Chapter 46 scene was written on the page the first time** — 1,959 words,
+adults, awake, unrestrained, unmedicated, consent taken in plain statements before anything started, the
+tender arm constraining rather than causing, violence and sex in separate registers, and the refusal after
+it stated with the worse reason attached. **It changes something: the terms are refused a second time, for
+appetite, and the house keeps investing anyway.**
+
+**Next scene in the book: Chapter 55, Sun Meiling's first, and it is immovable.** Volume 2 carries five
+(55, 63, 74, 86, 97) and Ch 63 is also fixed. **Sun Meiling is planted in Volume 2, not started.**
 
 ## Where Volume 2 picks up
 
-- Held six. Ninety-one lines, eight turned, one himself. Three new turned named. Query closed. File 4,112 with one open. Terms kept down unsigned. May clipboard untouched. Rota word ungiven. Tessa at seventeen. September still Beatrix.
+- **Held six on an instrument, not on merit. Plate reads 8,138. He is 11,862 grains under his own band and
+  the gap did not close.** Volume 2's institutional pressure is a rank-six petitioner with no merit behind
+  the band, which is a shape the Office has no procedure for.
+- **Ninety-one lines, eight turned, one reading himself.** Three new turned named and triangulable to a
+  room. The himself line is a line no auditor has seen and Ines cannot decide whether to file.
+- **Query closed** on a finding. Declaration stands with the finding number beside it. Observation over.
+- **File 4,112, one folio open**: 214,000 grains, Lin Wei's hand, Held Account One, no Zero. **Volume 2
+  must not open a second folio in the first batch.**
+- **Terms kept down, unsigned.** **May clipboard untouched** (second, 2,640) — the Ch 48 hinge was not
+  spent. **Rota word ungiven.** Tessa at seventeen, eighteen before nightfall. **September still Beatrix's.**
+- **T1 has advanced one folio and must go no further.** T2, T3, T9, T10 all still open. **No new final
+  enemy.** Anouk Ferreira remains the Council chair and is not yet on the page.

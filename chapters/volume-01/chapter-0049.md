@@ -6,25 +6,25 @@ Lin Hao came out of the Review room with a black six on a white tile and a findi
 
 He went to the Reading Office window the next morning with the finding in his hand and the deposit figure in his pocket, because rank six petitioned sealed files, and he had wanted this since the first week of June.
 
-The clerk who had entered his reading on the 3rd was behind the window. She looked at the finding for a long time, front and back, and then at him.
+Behind the window sat the clerk who had put his reading into the machine on the 3rd. She looked at the finding for a long time, front and back, and then at him.
 
 “The query is closed,” she said. “A witnessed answer in the room is an instrument. You hold one now.” She put the finding down. “What file.”
 
 “Lin Wei,” he said. “Reading Office transfers, class. Four thousand one hundred and twelve folios.”
 
-She wrote the number down without looking up, and went out through the back, and came back with a docket book and a form with the folio count printed on it.
+She wrote the number down without looking up, and went out through the back past the guard’s desk and did not hurry, and came back with a docket book and a form with the folio count printed on it.
 
 “Deposit,” she said. “A held rank petitions on the band and not on the figure. Your band held yesterday. The deposit is the form.”
 
 He filled the form in with his name and the file name and the folio count, in his own hand, standing up at the window the way he had stood in the box, and she checked it and stamped it and gave him the counterfoil.
 
-“Come back tomorrow,” she said. “A file of that size is brought up in parts. The index will have it by ten. A trolley with a guard. The seals are checked at the door and again at the table, and the guard signs for each part. You will see the docket first and then the open folio, if there is one, and you will not touch the seals. Those are the rules for a file of this size and they are not mine to bend.
+“Come back tomorrow,” she said. “A file of that size is brought up in parts. The index will have it by ten. A trolley with a guard. The seals are checked at the door and again at the table, and the guard signs for each part. You will see the docket first and then the open folio, if there is one, and you will not touch the seals. Those are the rules for a file of this size and they are not mine to bend.”
 
-He asked what the deposit bought besides the form, and she said it bought the room and the trolley and the guard, and the right to sit at the table while the docket was opened. She said a held rank petitioned on the band and the band had held in a room with nine chairs, so the petition stood.”
+He asked what the deposit bought besides the form, and she said it bought the room and the trolley and the guard, and the right to sit at the table while the docket was opened. She said a held rank petitioned on the band and the band had held in a room with nine chairs, so the petition stood.
 
 He went back to the Fourth Branch and cleaned the second-floor washrooms properly for the first time in a week, basins and floor and doors, because his hands needed the work and the work did not need his head. The corridor board had been wiped again and the five names were gone from it, struck off by a finding instead of by a declaration this time, with the date of the Review at the top in the clerk’s hand.
 
-The branch was different round him from that morning, and the washrooms smelled of soap instead of damp for the first time in weeks. branch was different round him and he felt it in every doorway. Clerks nodded who had never nodded. A porter held a door for him at the plate office, deliberate, meeting his eye. Runa’s cupboard stood open with the table still in it and three chairs, empty, because observation had closed with the finding.
+The branch was different round him from that morning, and the washrooms smelled of soap instead of damp for the first time in weeks. He felt it in every doorway. Clerks nodded who had never nodded. A porter held a door for him at the plate office, deliberate, meeting his eye. Runa’s cupboard stood open with the table still in it and three chairs, empty, because observation had closed with the finding.
 
 Tobias Renn came down with a box and stopped when he saw the board.
 
@@ -32,9 +32,9 @@ Tobias Renn came down with a box and stopped when he saw the board.
 
 “They are off by instrument this time. Not by me standing in a corridor.”
 
-Tobias put the box down. “Then I am not third one down on a board any more, and the statement the declarant filed himself is still in the front of a Field file, and there is nothing I can do about that either.” He picked the box up again. “You are six. Held, not provisional. The whole branch knows.
+Tobias put the box down. “Then I am not third one down on a board any more, and the statement the declarant filed himself is still in the front of a Field file, and there is nothing I can do about that either.” He picked the box up again. “You are six. Held, not provisional. The whole branch knows.”
 
-Tobias shifted the box on his shoulder. The annexe inventory ran to forty boxes and he had carried thirty of them alone, because the deputy would not spare a porter. His hands were raw from the lids and his coat was dusty from the annexe stairs. He asked whether the finding named the declaration, and Lin Hao said it stood at the front of the file with the finding number beside it.”
+Tobias shifted the box on his shoulder. The annexe inventory ran to forty boxes and he had carried thirty of them alone, because the deputy would not spare a porter. His hands were raw from the lids and his coat was dusty from the annexe stairs. He asked whether the finding named the declaration, and Lin Hao said it stood at the front of the file with the finding number beside it.
 
 Lin Hao nodded. There was nothing to say that would survive being said, so he did not say it.
 
@@ -75,6 +75,6 @@ Marguerite sent a note by house runner that night. Three lines. The house had be
 In the morning he walked to the Exchange by the long road, forty-one minutes, past every door he had counted, and the doors were only doors. Strangers held them for each other and the figure moved wherever he stood, and he let it move, because spending on no one was the only instrument he had left until the file came up.
 
 
-For Ines Duarte, who had carried a name up a corridor because a drawer was not a place to keep a person, his finding meant the query she had watched open was closed by a deed she could not file.
+Ines Duarte had carried a name up a corridor because a drawer is not a place to keep a person, and the finding had closed the query she had watched open with a deed she had no standing to file.
 
 Runa found him at the yard gate at dusk with her hands behind her back. The Field file had closed with the finding, she said. His declaration stood at the front of it, above the observation of the 6th, with the finding number beside it. The five names were off the board by instrument. That part was done and it would hold. He thanked her and she nodded once, professional to the end. He wanted, concretely, to see one folio out of four thousand one hundred and twelve before the week was out — and the index had promised it by ten.

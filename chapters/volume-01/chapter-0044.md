@@ -110,6 +110,6 @@ He cleaned the basins slowly, though they were already clean, because the work s
 
 He went into the washroom and laid the re-read slip beside the soap with the two counterfoils, three slips of paper in a row, each one stamped, each one true, none of them an instrument.
 
-For Emrys Vaz, who carried branch stock up from a yard at six in the morning and had never asked anybody for anything, the re-read meant one grain of drift on a plate that could only go down.
+For Beatrix Halm, who had kept a column of cold minutes for four years and had come down off a tram that morning to tell him the sum of it, the re-read meant one grain of drift on a plate that could only go down.
 
 He wanted, concretely, to keep the next grain from drifting before Thursday came round again, and he had no means to do it except standing still, and standing still was what made the figure move.

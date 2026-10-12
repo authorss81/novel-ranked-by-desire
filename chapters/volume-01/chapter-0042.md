@@ -1,6 +1,6 @@
 # What a Sealed File Asks
 
-The Exchange box was a square marked on the floor of the ground-floor plate office with a rail on three sides and a stamp on a post, and on Thursday morning at nine Lin Hao stood in it with his plate in his hand and forty people standing outside the rail listening.
+The Exchange box was a square marked on the floor of the ground-floor plate office with a rail on three sides and a stamp on a post, and on Thursday the 22nd, two days before the queue sheet went up on the wall, Lin Hao stood in it with his plate in his hand and forty people standing outside the rail listening.
 
 He had stood there once before. The first time he had been rank five and provisional and the question had been where the movement came from, and he had answered it in front of forty people with the sentence about standing where strangers held doors for each other. This time Garrick Neve looked at him over the rail with a different sheet on the desk and a different set to his shoulders, and Lin Hao knew before the clerk opened his mouth that the question had changed.
 
@@ -42,7 +42,7 @@ Neve nodded and wrote that down, and then he read the whole of it back to him, q
 
 When it was done Neve stamped the sheet and handed him the counterfoil.
 
-“The cheaper price,” Neve said, in the lower voice he used when he was not reading. “You asked me about it on the 11th and I put it on the record. The cheaper price is standing here. The dearer one is the date at the top of your band line. Three days now.”
+“The cheaper price,” Neve said, in the lower voice he used when he was not reading. “You asked me about it on the 11th and I put it on the record. The cheaper price is standing here. The dearer one is the date at the top of your band line. Seven days now.”
 
 “The 29th.”
 
@@ -64,7 +64,7 @@ Runa Sato came up beside him with her hands in her coat pockets.
 
 “What holds it.”
 
-“Nothing you have got.” She said it without heat. “You spent nobody on the 26th. Tessa told me. That is correct and it is also the reason the figure is going to drift. The figure moves wherever you stand, Lin Hao. You walked forty-one minutes this morning instead of riding eleven. Every door you went past put something in it and every cold you did not put out kept something in it, and the re-read measures the drift.”
+“Nothing you have got.” She said it without heat. “You have spent nobody since the requisition. Tessa told me. That is correct and it is also the reason the figure is going to drift. The figure moves wherever you stand, Lin Hao. You walked forty-one minutes this morning instead of riding eleven. Every door you went past put something in it and every cold you did not put out kept something in it, and the re-read measures the drift.”
 
 He looked at her. “Then what do I do.”
 
@@ -128,6 +128,6 @@ He went into the washroom and took the counterfoil out of his pocket and laid it
 
 The anger was not at Neve, who had read the questions fairly, and not at the queue, who had listened fairly. It was at the shape of the box itself, which required him to stand in a square every Thursday and answer truly about instruments he did not have, in front of people who had them.
 
-For the clerk who had entered his reading on the 3rd, the query meant answering for a figure she had put into a machine in good faith.
+Down on the first floor, in an office with a machine in it, a woman with nineteen years of entries was going to have to explain to somebody how a figure with no rank behind it had been given one. She had put it in in good faith. The machine had not asked her.
 
 He wanted, concretely and immediately, to find one true instrument before the 29th — a paper with somebody else’s hand on it besides his own — and he had no idea where such a paper would come from.

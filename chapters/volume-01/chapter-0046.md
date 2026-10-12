@@ -112,6 +112,6 @@ He turned his head to look at her. “Why.”
 
 He felt the tenderness then, sharp, for a woman who kept books for money and had just been refused twice and was still lying beside him with her hand on his chest.
 
-For Marguerite Vale, who had waited twenty-one days for the first conversation and a month for the second, his refusal meant carrying terms no one had signed into a room with nine seats.
+She would carry unsigned terms into a room with nine seats and sit in the third row with two of her house behind her, for a man who had refused her twice, and she had said out loud in the best rooms in Ostara that she enjoyed herself.
 
 He wanted, concretely, to stay the night in the best rooms he would ever stand in — and he got up instead and dressed, because staying would have made the refusal into a bargain, and walked home through Bellhouse with her tea still warm in him.

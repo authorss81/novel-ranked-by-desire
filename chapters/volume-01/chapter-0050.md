@@ -32,7 +32,7 @@ The clerk folded the docket back and put the open folio on top of it, and gave h
 
 The clerk made the copy herself at the side press, folio number and receipt front, and stamped it twice, once for the file and once for the petitioner. She logged the call in the docket book with the date and his band number, and the guard signed beneath her entry. That was the procedure for a file of this size, and every step of it was witnessed by the room.
 
-For the clerk who had entered his reading on the 3rd and owned the query on it through the 24th, his petition meant the entry she made in good faith had closed with a finding instead of a lapse.
+She had entered his reading on the 3rd and owned the query on it through the 24th, and her entry had closed on a finding in front of nine chairs instead of coming off the sheet on the morning of the Review, and she would go on reading plates for the Office for another nineteen years and never once see the shape of that again.
 
 Ines was waiting in the corridor with her folder closed under her arm. She had stood there the whole hour without sitting, though the corridor had benches. An auditor might stand in a corridor and no further, and she had kept to that exactly, folder closed the whole time.
 
@@ -44,13 +44,11 @@ Ines was waiting in the corridor with her folder closed under her arm. She had s
 
 She looked at him for a long moment, the way she looked at a record that changed the shape of the room. The long corridor was empty except for a porter with a trolley at the far end, waiting patiently to take the heavy file down again. The side room door stood open with the guard beside it, and the trolley inside with its seals checked and logged.
 
-She looked at him for a long moment.
-
-“Then he did it,” she said. “He said the number was wrong in public and by morning he was gone, and what he did was give it away where no ledger could follow it.” She put her hand on his arm. “And you are the address. Ninety-one lines and one of them is yourself. That is what Volume 2 has to learn before it spends you again.”
+“Then he did it,” she said. “He said the number was wrong in public and by morning he was gone, and what he did was give it away where no ledger could follow it.” She put her hand on his arm. “And you are the address. Ninety-one lines and one of them is yourself. I do not know what a Bureau does with a line it has never had to read, Lin Hao. Nobody does. That is not a gap in the rules. That is the rules never having had to cover it.”
 
 They stood a while in the corridor without speaking, because there was nothing in the corridor that could hold what the side room held. Ines asked whether the second line was in the Wing print and he said yes, upright, below the receipt. She asked whether the account number was on the index and he said the clerk had told him plainly it was not in any ledger the large office held. She nodded and put those two facts away the way she put all facts away, squared and dated.
 
-He walked slowly back to the Fourth Branch by the long road, forty-one minutes, with the copy slip in his pocket beside the four counterfoils and the re-read slip and the finding. The pavements were dry and the busy crossing ran freely, strangers holding doors for each other with the shifts. The familiar figure moved wherever he stood and he let it move. Spending on no one at all was the only posture he had left that harmed no one.
+He walked slowly back to the Fourth Branch by the long road, forty-one minutes, with the copy slip in his pocket beside the four counterfoils and the re-read slip and the finding. The pavements were dry and the busy crossing ran freely, strangers holding doors for each other with the shifts. The familiar figure moved wherever he stood and he let it move. Spending on nobody at all was the only posture left to him that did harm.
 
 At the branch the corridor board stood empty except for the Review date at the top in the clerk’s hand. Tobias was in the annexe carrying boxes, thirty-one of forty, and nodded through the stairwell. Runa’s cupboard stood open and empty. The washrooms needed doing and he was glad of it.
 
