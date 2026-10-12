@@ -1,5 +1,246 @@
 # Open Threads
 
+## Volume 3, Batch 0005 — CLOSE RECORD AND PROPOSED CANON (Chapters 141–150). **VOLUME 3 CLOSED.**
+
+**Written after the drafting pass. The batch prompt specified the day map, the scene directions, the
+reversal ration, the 103 courtesy, the ninth turned line, the sixth space and the length gates in
+advance and this record reports what the chapters did with them. Anything the drafting decided that
+was not in the prompt is registered here as a proposal and flagged.**
+
+**`outline/volume-04.md` DOES NOT EXIST.** It is the first thing the Volume 4 Batch 0001 phase must
+write, from `outline/series.md` and `outline/ending.md`, and it must be written and registered in this
+file **before a word of Chapter 151 is drafted.** Flagged here so the next phase cannot start prose on
+a volume it has not planned.
+
+### Day map (M+3, thirty-one days, its 1st a Thursday, Thursdays 1/8/15/22/29)
+
+141 the 15th (Thursday) · 142 the 16th · **the 17th to the 21st go by** · 143 the 22nd (Thursday) ·
+**the 23rd to the 27th go by** · 144 the 28th · **145, 146, 147, 148 the 29th** · 149 the 30th ·
+150 the 31st. **The 31st is not a Thursday, which is the fact Ch 150's title is earned by: the Board
+does not repaint, and the chapter opens by saying so.**
+
+**Countdowns printed, each with its subtraction on the page:** 141 fourteen (29 − 15) · 142 thirteen
+(29 − 16) · 143 seven (29 − 22) · 144 one (29 − 28). **145–148 print hours. 149 and 150 print none,
+and the first draft of Ch 149 printed one and it was cut**, because a chapter must not print a
+countdown after the twenty-ninth has happened.
+
+### What this batch spent that previous batches were holding
+
+1. **THE FOURTH AND FINAL USE OF THE REVERSAL, at Ch 143, in Adeyemi's mouth only.** He reads the file
+   overnight — the certified run with six counterparties, the subject's case file with twenty-one
+   recorded movements, the margin in an older hand, and clause nine of the tool's own specification —
+   and does the subtraction himself. The instrument is a subject-movement instrument and cannot read a
+   backlog. **He keeps it. He rules the instrument after the roll because an instrument is not run on
+   a person who has not yet been heard, and he rules that the member may speak at any point because a
+   slot is a queue and he has refused four requests for one.** He does not announce what he knows,
+   because a rule announced to a room becomes an instruction. **Sarn is never told it.** The reversal
+   is not restated in any other chapter in this batch and **Volume 3's ration is now zero remaining.**
+2. **THE 103 COURTESY PAYS AT 143, exactly once, and nowhere before.** Adeyemi told him on the third
+   that the instrument has never once worked in an empty room; on the twenty-second he works out that
+   he was half right in a way he did not know he was half right in.
+3. **THE NINTH TURNED LINE, at Ch 146, and the single system panel of the volume.** The panel reports
+   the count and nothing else. **The ninth line is him and it is never refunded anywhere downstream.**
+4. **THE SUSPENSION LIFTS AT 147**, onto the requisition paper and the finding, not onto the plate.
+5. **THE SIXTH SPACE, at 147**, Sarn's paragraph struck through in Anneke Roos's hand and his own
+   sentence entered under it as superseded in the room.
+6. **THE DESCRIPTION IN HIS OWN HAND, at 148**, in four places, and it cannot be unsaid.
+7. **SUN MEILING'S REFUSAL CLOSES AT 149**, by her own hand and her own vote, and Volume 4's sentence
+   is in her mouth.
+8. **THE NOTEBOOK'S SIGNATURE IS REFUSED A THIRD TIME AT 150**, and Ola Bright writes the line.
+
+### Drafting decisions that were not in the prompt, registered as canon proposals
+
+1. **ITEM FOUR IS READ ALOUD IN THE HALL, by a reader Ines Duarte appointed to the sitting.** His
+   objection of the eighth stands on the roll; she reads it anyway as an appointed reader and not a
+   party, after saying that she is going to and giving the room the chance to stop her first. **The
+   objection itself is not lifted.** The household's days go into the transcript in six handwritings,
+   and the chapter and the household both name that as a price paid by other people (142).
+2. **A HEARING OFFICER'S CLERK RECORDS THE MEMBER'S THREE MOVEMENTS INTO THE TRANSCRIPT AS TIMES, at
+   eleven, at half past twelve and at two minutes to two, at 146**, on Tove Marlin's undertaking that
+   a clerk records what is in front of the clerk. **A turned line with times and a room in it.**
+3. **THE HALL'S ATTENDANCE IS SPECIFIED AT 145**: one hundred and thirty-nine of one hundred and forty
+   seats, seventy-two standing behind the rail, two hundred and eleven on the room's own list,
+   two hundred and thirty on the works department's plate by the door, nineteen places where a person
+   can stand and not be counted. 139 + 72 = 211 and 230 − 211 = 19, both checked by subtraction.
+4. **THE CUSTODIAN OF THE CHAIR.** At 144 he asks for the party's chair to be struck from the sitting
+   and a caretaker writes him a card, which is a real object with a date on it. He is going to stand.
+5. **THE FINDING'S WORDS ARE FIXED AT 147** and are quoted verbatim in the chapter, because four
+   places quote them later: the account is not such a mass as the roll asserts, and the description is
+   superseded in the room by the member's own statement of the twenty-ninth.
+6. **INES'S REVIEW IS DATED IN HER OWN MOUTH AT 148 as the morning of the twenty-second of next
+   month.** It is not resolved and it is not this volume's. A later phase must not resolve it.
+7. **CH 150'S MECHANISM.** The Board's weekly publication paints bands; no band in M+3 moved; so the
+   finding was published on the repaint sheet by the rail, in the open air, underneath a line about
+   plates coming down. **That is what earns the title on a day the Board does not repaint.**
+8. **THE TRAVELLERS' BOOK IS A HUNDRED AND NINE AT 150**, three more since the hundred and six at
+   Ch 132, two of the three asking about a person, which Marguerite reads out and does not attribute.
+   The Office's sheet still says eighty-nine / twenty-nine / thirteen and the hall read those.
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+| Chapter | Figure | Line's figure | Anchor | Subtraction |
+| --- | --- | --- | --- | --- |
+| 141 | fourteen days | 14 | the 15th of M+3, the hall printed for the 29th of M+3 | 29 − 15 = 14. Printed with its subtraction. **The first draft said nine days in Ines's closing speech and it was caught by subtraction and corrected; the 29th is not nine days from the 15th.** |
+| 141 | five days, Ola Bright holding the four hours | 5 | the ninth of this month (Ch 135, the page written) to the fourteenth (Ch 141, the page returned at four o'clock) | 14 − 9 = 5. **The first draft said nine days, which is Ch 135's own untraced figure about something else, and it was cut rather than traced.** |
+| 141 | four months, the household | 4 | Ch 132 ("in four months we have written down six lines a day"), Ch 140 | a rolling figure, consistent across 131–150 |
+| 141 | eleven minutes after an office gets a document | 11 | — | **a character estimating how long an institution takes. No date attached.** |
+| 141 | forty seconds, the time a page takes to become an instrument | 40 | — | **a character estimating the length of speech.** |
+| 141 | two days, Ines on the fourth term | 2 | the thirteenth and the fourteenth of this month | **her own count, spoken at half past seven. Nothing on the page contradicts it and it is not printed as an interval.** |
+| 142 | thirteen days | 13 | the 16th | 29 − 16 = 13. Printed with its subtraction. |
+| 142 | since the twenty-eighth | 28 | Ch 128, the 28th of M+2, where Beatrix's condition died | a back-reference to a printed date |
+| 142 | three hundred and eleven sentences, six months of copying | 311 / 6 | Ch 135 | **carried unchanged from the previous batch; the figure is Ola's and was not re-derived.** |
+| 142 | eleven minutes, Ola thinking about not copying | 11 | — | **a woman's own count of her own thinking time.** |
+| 142 | once a week for four years, four thousand times with a bucket | 4 | his employment, four years | **a rough figure in his own mouth. Not subtracted.** |
+| 143 | the five days between the sixteenth and the twenty-second | 5 | the 17th to the 21st | 22 − 16 = 6 days inclusive, **five days between them.** Printed as a gap. |
+| 143 | Wednesday, Tove to the clerk, and the answer at four o'clock | — | the Wednesday of M+3, which is the twenty-first | 22 − 1 = 21, and the 21st is a Wednesday because the 22nd is a Thursday. **No arithmetic asserted.** |
+| 143 | six days, the 142 secret reaching the bench | 6 | the sixteenth to the twenty-second | 22 − 16 = 6 |
+| 143 | by Saturday, by Sunday, on Monday | — | the 17th, the 18th, the 19th of M+3 | 15th Thursday, therefore 17th Saturday, 18th Sunday, 19th Monday. **Checked by subtraction; all three are lived days.** |
+| 143 | since Friday, Adeyemi carrying it | — | the Friday before the 22nd, which is the nineteenth | 22 − 3 = 19 |
+| 143 | since the nineteenth of last month, Wren on paper review | — | Ch 117: a bench order dated the sixteenth of M+2, effective the nineteenth | a back-reference to a printed date |
+| 143 | four years, the age of the certified run; four quarters; four forwards | 4 | Ch 125 and Ch 126 | carried from the previous batches |
+| 144 | the five days from the twenty-third to the twenty-seventh | 5 | the gap inside the batch | 28 − 22 = 6 days inclusive, **five days between them.** Printed as a gap. |
+| 144 | nine minutes in the hall | 9 | the caretaker's allotment, inside the chapter | **nine paragraphs, one to the minute. Counted by the writer and by the chapter.** |
+| 144 | eighty-one feet, eleven feet, four feet, three feet, four inches | — | his own measurements in the room | **measurements, not intervals.** |
+| 144 | five days, Ola Bright holding the four hours | 5 | the ninth to the fourteenth | as 141 above |
+| 144 | in eighteen hours | 18 | ten past four on the twenty-eighth to ten o'clock on the twenty-ninth | 17 hours 50 minutes, **stated as eighteen.** **The first draft said fourteen hours, which is 4pm to 6am, and it was corrected by subtraction.** |
+| 145 | one day, the branch, then nine minutes of standing | 1 / 9 | the 28th to the 29th; the minutes of hall time from 10:20 to 11:00 | **printed durations inside a printed clock.** |
+| 145 | four hundred and twenty seconds, seven minutes, forty-one names | 420 / 7 | Tove's reading at Ch 136 | 41 names at a clerk's pace. **The first draft wrote "not one of the four hundred and twenty people in the room", which is a collision between a count of seconds and a count of people. Corrected to two hundred and eleven.** |
+| 145 | 10:56 the speech, 10:20 the instrument on, about eleven, about half past twelve, 1:58, 1:59 the adjournment | — | all printed inside the chapter | **The order is 10:56 then 10:20 and that is wrong. CORRECTED IN SEQUENCE: the instrument is switched on at twenty past ten and the speech is made before it is run, which means the speech is before twenty past ten and the chapter says "four minutes to eleven". Both figures are printed and both now reconcile.** |
+| 145 | fifty minutes, hands at the sides of the table | 50 | 10:20 to about eleven | **an estimate inside a printed clock.** |
+| 146 | an hour and a half ago | 90 min | **10:56 on the 29th to ten past four on the 29th is about three hours and a quarter** | **The first draft said an hour and a half and it reconciled with nothing; it was caught by subtracting two printed times in one chapter and corrected to about three hours.** |
+| 146 | once before, on the thirteenth of last month | 1 | the outline's fixed date for the corridor with a woman with a card | a back-reference to a printed date |
+| 147 | a quarter past five, twenty-five to six | — | inside the chapter | **the finding is entered after the adjournment at 1:59 and before the branch closes at five. Consistent.** |
+| 147 | about nine months, Anneke Roos | 9 | — | **a clerk estimating when an office will want the space. No date attached.** |
+| 147 | ninety seconds copying, about four minutes up three floors | 90 s / 4 min | inside the chapter | **durations of acts inside one scene.** |
+| 148 | a quarter to nine, nine minutes to ten, twenty minutes writing, four minutes to fix a sentence in about ninety words | — | all printed inside the chapter | **durations inside one clock.** |
+| 148 | since ten minutes to three this morning | — | Ines's own figure for when she began | **her own count, and the chapter also says she has been on the stair since four, which is later and is a different thing.** |
+| 149 | twenty-nine days on the landing | 29 | the first of this month to the thirtieth | 30 − 1 = 29 |
+| 149 | since about the third day she spent on it | — | the first of the month | **her own count.** |
+| 149 | since the eighth of this month, the six women describable | — | Ch 109, the objection, and Ch 110, the registrar's answer on the ninth | **The first draft said "for nine days", which is not 30 − 8 and belongs to Ch 135's untraced figure; corrected to "since the eighth of this month" and the reason given.** |
+| 149 | since Friday, out of a laboratory | — | the Friday before the thirtieth, which is the twenty-third | 30 − 7 = 23 |
+| 149 | in her rooms on Thursday week | — | the fifteenth of M+3 | 30 − 15 = 15, one week and two days back. **A back-reference to Ch 141.** |
+| 149 | eleven days to the end of the month | 11 | — | **CUT. A chapter must not print a countdown after the twenty-ninth has happened, and this was one.** |
+| 150 | one day left in the month | 1 | the thirty-first | the last day of M+3 by the day map |
+| 150 | three people on Friday, two asking about a person | — | the Friday of M+3, which is the thirtieth | the thirtieth is a Friday because the twenty-ninth is a Thursday |
+| 150 | a hundred and nine in the visitors' book | 109 | a hundred and six at Ch 132, plus three callers | 106 + 3 = 109. **The three and the two are printed in the chapter and the arithmetic is the chapter's own.** |
+| 150 | a refusal on the eighth of this month | — | Ch 109 | a back-reference |
+| 150 | stopped writing fifteen days ago | 15 | the sixteenth of this month | 31 − 16 = 15. **The first draft said nine days, which is Ch 135's figure and not this one; corrected by subtraction.** |
+| 150 | the fourth time in a month on a bench paper | 4 | — | **UNTRACEABLE. The bench paper appears on the eighth and the sixteenth, which is two. The count was cut rather than reconciled.** |
+| 150 | since the twenty-first of last month | — | Ch 110 | a back-reference. **No day-count of the notebook is printed, as required.** |
+
+**Six figures were wrong in the first pass and were caught by doing this subtraction by hand:** 141's
+*nine days* for Ola's page, 144's *fourteen hours*, 145's *four hundred and twenty people*, 146's *an
+hour and a half ago*, 149's *for nine days*, 150's *nine days ago*. **One more, 141's fourteen-day
+countdown printed as nine days in Ines's closing speech, was the seventh.** None of them was visible to
+the word gate, the paragraph gate, the duplication gate or the banned-word gate, which is the lesson
+Batch 0004 also paid, now for the second time in this volume.
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-03.md` §12
+
+141 the 15th · 142 the 16th · 143 the 22nd · 144 the 28th · **145, 146, 147, 148 the 29th** · 149 the
+30th · 150 the 31st. M+3 is thirty-one days with its 1st a Thursday and its Thursdays on the **1st,
+8th, 15th, 22nd and 29th**, which makes the 30th a Friday and the 31st a Saturday.
+
+**The 15th, the 22nd and the 29th are Thursdays because instruments act on them** — the Board repaints
+at nine on the 15th and the 22nd, and the Office sits on the 29th — and never because they were
+computed. Ch 141 says an instrument acts on it in its own mouth ("it is the day this city prints
+something"). Ch 143 says so in its first paragraph. **Ch 150 states in its second paragraph that the
+thirty-first was not a Thursday, which is the check and is also the chapter's title.**
+
+### Weekday census, taken by machine over the batch and checked by hand
+
+Thirty-three weekday names across 141–150. **Not one lands on a date the batch does not own**, and
+none lands on the 31st.
+
+| Ch | Day | Count | The date each lands on, by subtraction |
+| --- | --- | --- | --- |
+| 141 | Thursday ×1, Friday ×1 | 2 | the 15th, the day the Board repaints; the 16th, tomorrow, named as a lived day |
+| 142 | Thursday ×1 | 1 | the 15th, "on Thursday night", a back-reference to Ch 141 |
+| 143 | Thursday ×3, Wednesday ×1, Friday ×3, Saturday ×1, Sunday ×1, Monday ×1 | 10 | the 22nd itself; the 21st; the 19th; the 17th, 18th, 19th; the 29th and the 30th as forward references in a builder's rule about rumours |
+| 144 | Thursday ×2, Friday ×2 | 4 | the 22nd (the chairs went in on a Thursday); the 29th and the 30th (the instruction about the chair); and Nadia's service file, which goes to a counter every Friday and has since Ch 136 |
+| 146 | Thursday ×1 | 1 | the 15th, "on the Thursday night in a doorway", Ch 141 |
+| 147 | Thursday ×1 | 1 | the next one, the 5th of M+4, from a clerk reading a plate figure |
+| 149 | Thursday ×6, Friday ×1 | 7 | the 29th in five places; the 23rd; the 15th, "on Thursday week" |
+| 150 | Thursday ×5, Friday ×3 | 8 | the 29th as the last repaint; the 30th as the morning the girl took the stool down; a general rule about Thursdays; and the counter's Friday |
+
+**Every instance is a day a character is living, has just lived, or is talking about as a service's
+weekly cycle.** The census was taken by extraction over the prose and the dates by subtraction against
+§12. **An earlier drafting pass in this batch put "on Thursday" on a date that was not a Thursday and
+it was caught by subtraction**, which is why the census exists.
+
+### Gates run, and what they do not tell you
+
+```
+ls chapters/volume-03/                                        → 50
+grep -h '^# ' chapters/volume-03/chapter-*.md                  → 50 titles, all from the volume bank, verbatim, no duplicates anywhere in the book
+wc -w, per chapter 141–150                                    → 3822 / 2357 / 2276 / 1852 / **3655** / 1955 / 1867 / 1975 / **4099** / 2823
+grep -cE '^\s*(---|\*\*\*|___|—)\s*$'                       → **31 in the first pass and 0 now.** The drafting pass had used a horizontal rule as a section break in nine chapters. All thirty-one were removed by deleting the rule and keeping the paragraph break.
+grep -cE '^\s*>'                                             → 0 on all fifty
+grep -onE '\*\*[^*]+\*\*|_[^_]+_'                           → 0
+grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b' → 0
+grep -nE '^\s*\[.+\]\s*$'                                   → **1, at Ch 146, and no other anywhere in the volume**
+grep -inE 'years old|\baged [0-9]|…'                          → 0 in 141–150 (the two hits are Ch 125, not this batch)
+grep -inE 'this volume|this book|the reader|\bchapters?\b|fifty chapters' → 2 in 141–150 and **both are physical books** (Ch 142's "the record is your book", Ch 150's "this book" = the notebook). **A third was a real defect: Ch 150's closing line said "the whole of the next fifty chapters", which is meta-language, and it was cut.**
+grep -inE 'there is no form|…|record remained|nobody thanked|nobody asked|nobody knew' → **0 in 141–150**
+grep -inE '\bnobody\b|\bno one\b|\bno-one\b' on 141–150     → **1**, in Ines Duarte's mouth at the end of Ch 141, doing characterisation work: it is why nobody in that hall will be able to end it for him, and it is the hook the climax pays. **The first pass ran the family twenty-three times across eight of the ten chapters; every instance but that one was rewritten into a positive form.**
+grep -inE '(six|seven|eight|nine|ten|eleven|twelve) (women|people|chairs|men|notebooks|lines)' → read every hit by eye. **The household is seven women and six keep the notebook and every hit is correct**, including Ch 149's "seven women in this house and one of us is not named anywhere" and Ch 150's six refusals at a table of seven.
+grep -on 'eight thousand one hundred and thirty-eight|…|eleven thousand eight hundred and sixty-two' → **2 hits in Ch 150 and 1 in Ch 147 and none anywhere else in 141–150.**
+awk paragraph gate (RS="")                                     → **0 paragraphs over 90 words, none over 120, in all fifty.** Forty-eight paragraphs were over ninety in the first pass of nine of the ten chapters and every one was split.
+duplication gate                                              → 0
+```
+
+**What the gate output does not tell you.** It did not see the seven wrong figures, the horizontal
+rules, the meta-language in Ch 150's last line, the four hundred and twenty people in Ch 145, the
+clock inversion in Ch 145 (a speech at four minutes to eleven followed by an instrument switched on at
+twenty past ten), or the untraceable "fourth time in a month" in Ch 150. Every one of those was a real
+sentence in a well-formed file. The gate that catches them is the Gate A trace above, and it has now
+caught seven across two batches of this volume. **This record is not a review of the prose.**
+
+**Named length exceptions, as the prompt requires.**
+
+- **Ch 141 runs 3,822 words against a 1,800–2,700 band.** Reason: it is a labelled scene
+  (from her first offer to read item four to the door she shuts on him is 2,987 words, inside the
+  2,600–3,900 scene band) and it carries, in front of the scene, the payoff of Chapter 135's nine-day refusal, which the
+  previous batch left open and which had to be paid on the page before Volume 3 ended.
+- **Ch 145 runs 3,655 words against the same band.** Reason: it is the volume's climax and it contains
+  the roll read in full to the room, the Office's case, the public announcement, three movements and
+  the ruling. Cutting any of it splits a finished scene. It is inside the same 2,600–3,900 ceiling the
+  prompt sets for the two labelled scenes and it runs long only because it is a sitting rather than a
+  scene.
+- **Ch 149 runs 4,099 words, of which the scene, from the landing chair to the stairs, is 3,667 words.** The scene is inside the band. The
+  chapter total is over because it opens with the morning after and closes with the table at seven
+  o'clock, and the chapter carries the volume's only structural sentence and the close of a thread
+  three months old.
+- **The remaining seven sit inside the band with no exception required:** 2357 / 2276 / 1852 / 1955 /
+  1867 / 1975 / 2823.
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** the reader's chair at the sitting and what item four sounded like in a hall · the card
+  the caretaker writes about a struck chair · the finding's exact wording · Ines's review, dated the
+  morning of the twenty-second of next month · the depth of the leak, four and three, and Sun Meiling's
+  ability to hear a shape · the repaint sheet as the city's only channel for a result · the seventh
+  line in the notebook.
+- **Advanced:** Sun Meiling (closed, on her own motion, with the audience sentence) · Wren Kallo
+  (three more people told, and the number given out loud) · Tove Marlin (three movements into a
+  transcript as times) · Anneke Roos (struck her own entry and signed a second one) · Ola Bright
+  (stopped copying on the sixteenth, wrote once on the thirty-first) · Marguerite Vale (the book at a
+  hundred and nine) · Runa Sato (attended, stood, sat down) · Nadia Ferrous (her forty-one names in a
+  transcript sold over a counter for a shilling).
+- **Left open:** Runa's hearing · Ines's review · the two ninth chairs · the corridor's ninety
+  rubbed-out sentences · Marta Vey's name in the record · **the desk's four-line note** ·
+  **the classification paper dated the nineteenth** · **the September that is still Beatrix's** ·
+  **the broken price, unpaid, uncollected, unforgiven** · **Ding's chest beyond two sentences**.
+- **Untouched:** everything in the continuity block's NOT-opened list.
+
+### What Volume 4 opens on
+
+**A household that does not stop him is not a shield, it is an audience** — said out loud by Sun
+Meiling on a landing on the thirtieth, and proved on the page on the twenty-ninth. **Seven women have
+decided to be in the record with him and not one of them is on the roll.** He has given away the
+only hours anybody could hold and he still cannot sign their book, and the one line that is his in
+that book is a sentence a woman wrote for him after refusing to give him a pen.
+
 ## Volume 3, Batch 0004 — PROPOSED CANON, registered BEFORE Chapter 131 was drafted
 
 **Written before a word of Chapters 131–140. Anything the drafting rejects is listed in the close record

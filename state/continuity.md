@@ -1,5 +1,164 @@
 # Continuity
 
+# Volume 3, Batch 0005 — CLOSED (Chapters 141–150). THE ROOM. **VOLUME 3 IS COMPLETE.**
+
+**Ten chapters written against `outline/volume-03.md` escalation step 5, entered at Chapter 141 and
+running to the volume's close, on the 15th to the 31st of M+3, one chapter a day except that Chapters
+145, 146, 147 and 148 are all the twenty-ninth. Full gate output, the Gate A interval trace and the
+Gate B date subtraction are in `state/open-threads.md` in this batch's close record. **This block is the
+newest and supersedes every Volume 3 block below it on every point it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0005 is the 15th to the 31st of M+3.** 141 the 15th (Thursday) · 142 the 16th · **the 17th
+  to the 21st go by as a gap** · 143 the 22nd (Thursday) · **the 23rd to the 27th go by as a gap** ·
+  144 the 28th · **145, 146, 147, 148 the 29th, the four hours** · 149 the 30th · 150 the 31st. M+3 is
+  thirty-one days, its 1st a Thursday, its Thursdays **1, 8, 15, 22, 29**. Ch 141 is a Thursday
+  because the Board repaints and because Ines Duarte asked for a Thursday; Ch 143 is a Thursday
+  because the Board repaints and because the Office publishes its sitting notice and books the hall;
+  the 29th is a Thursday because the Office sits. **`fifth Thursday running` does not appear anywhere
+  in 141–150, and no other batch in this volume used it.** No weekday name appears for a day a
+  character is not living: the census is thirty-three instances and every one is traced in Gate B.
+- **The 31st of M+3 is not a Thursday, which is the fact Ch 150's title is earned by.** Ch 150 says so
+  in its second paragraph and the Board does not repaint in it.
+- **Countdowns, each printed with its subtraction:** 141 fourteen (29 − 15) · 142 thirteen (29 − 16) ·
+  143 seven (29 − 22) · 144 one (29 − 28). **145–148 print the hours, not days. 149 and 150 print no
+  countdown at all, and the first draft of Ch 149 printed one (eleven days to the end of the month);
+  it was cut, because a chapter must not print a countdown after the 29th has happened.**
+- **No day-count of the household notebook is printed in 141–150.** Ch 141 and Ch 142 say "six lines a
+  day since the twenty-first of last month" and stop there. Ch 150 says "every evening since the
+  twenty-first of last month." D4/D3 inherited, flagged, untouched.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE CLIMAX (145), Thursday the 29th, ten until two.** He speaks into the microphone **before the
+  instrument is run**, so that nobody at the rail is ambushed: the column will print nothing, and it
+  does move, on him, three times, at the table. **He moves it on himself three times, in the open, at
+  the table, in front of two hundred and eleven people — at about eleven, about half past twelve and
+  two minutes to two. It lands in the fourth rib on his left. One to four seconds each. The
+  counterparty column stays empty from twenty past ten until the sitting is adjourned. He touches no
+  person in that hall. No chapter in this batch describes why it works and B103 stays shut.**
+- **HE TURNS, AND THE NINTH IS HIMSELF (146).** Eight turned becomes nine. Four felt cold minutes —
+  one in a corridor on the thirteenth of last month, three in a hall — is the number at which a person
+  becomes a line. **A turned line can be led to a source by a doctor, a tram operator, an accountant or
+  a relative, and he has made himself the only person in Ostara who can be led to himself. It is never
+  refunded, anywhere, for the rest of the book.** He can now feel one coming with about a second and a
+  half of warning, which is the permanent change in him. **His only cover is that there will never be
+  a second sample, because he said so before he did it and it is in the transcript.**
+- **THE SYSTEM PANEL FOR THE VOLUME IS AT 146 AND THERE IS NO OTHER.** It reports the count and
+  nothing else. No panel in 141–145 or 147–150.
+- **THE BAND COMES OFF SUSPENSION AT 147 AND NOWHERE BEFORE, and it goes back onto the instrument it
+  was always on: a requisition paper dated the nineteenth of last month and a finding dated the
+  twenty-ninth. Not a rank. Not a promotion. Not on the plate — the plate cannot carry it and does not
+  move. 8,138 against 8,141, tolerance three, 11,862 under band six, printed in 147 and 150 and
+  nowhere else in the batch, and unchanged for the whole volume.**
+- **THE SIXTH SPACE (147).** Anneke Roos strikes Sarn's paragraph through in her own hand and enters
+  **his own sentence under it**, copied word for word from the transcript face, as **superseded in the
+  room**, and signs it. **She is the first entry in that space she has originated rather than
+  received**, which is how this reconciles with Chapter 120, where she signed as the hand that
+  received it. **She says out loud that it is going to cost her something she has not been told about.**
+- **THE DESCRIPTION IN HIS OWN HAND (148), in four places: the transcript, the first sheet of the
+  exhibit roll, the certification desk's file, and a book three floors above a counter he cleans.** It
+  says what he did and what he cannot say. **The last line is: he is unable to say what moved, he is
+  not going to attempt to say it again, and he told the hearing officer in advance and not after.** It
+  cannot be unsaid and it cannot be improved by a clerk. **For the rest of the book the thing the
+  Bureau holds about him is his own sentence.**
+- **THE REVERSAL IS SPENT AND THIS IS THE FOURTH AND FINAL USE.** Three uses stood in Volume 3 (127,
+  128, 130). **Batch 0005 uses it once, at 143, and only in Adeyemi's mouth, in a room, off the file
+  he read overnight — which is what the rule requires.** It is not restated in 144, 145, 146, 147,
+  148, 149 or 150 in any form, including in a joke. It is never restated as *he is safe*, never as *he
+  is not a tank, he is a door*, never as *the account is an address*. **Sarn is never told it.**
+- **THE 103 COURTESY PAYS AT 143, EXACTLY ONCE, AND NOWHERE BEFORE.** Adeyemi told him on the third
+  of this month, as a courtesy, that the instrument has never once worked in an empty room; on the
+  twenty-second he learns why he said it and that he was half right in a way he did not know he was
+  half right in. He is named in 143 and is not collected on in any other chapter.
+- **SUN MEILING'S REFUSAL CLOSES AT 149 AND NOWHERE EARLIER.** She asks to be **the person the
+  description does not name** — a name on a document is a handle, and a research wing cannot be
+  written down without the wing being written down — and she says out loud that it is not modesty and
+  not a favour to him, because modesty is what you say when you would like a thing and cannot have
+  it. **She closes the refusal herself: she will not be kept, will not be on a plate, will not be in a
+  roll, will not be sworn to anything, and will be in the record by not being in it. She came down to
+  the table and sits at it and does not take a pen. Volume 4's sentence is in her mouth: a household
+  that does not stop him is not a shield, it is an audience.**
+- **THE HOUSEHOLD'S OWN DECISION STANDS: nobody is at the rail on the 29th.** Ines stated it at 132,
+  nothing in 141–150 reverses it, and Ch 149 says out loud that the six of them have known the
+  audience argument since the sixth of the month and have been arguing about a price.
+- **THE NOTEBOOK'S SIGNATURE IS REFUSED A THIRD TIME AT 150**, after he asks to be refused in front
+  of all six. Five reasons, none of them about a signature. **Ola Bright then writes one line herself
+  in the seventh space under the sixth line — the only line in that book that is not a woman's day,
+  and a sentence rather than a signature, and it cannot be signed or taken back.**
+- **OLA BRIGHT STOPPED COPYING ON THE SIXTEENTH (142) and put three hundred and eleven sentences under
+  the table where no hand in that house can reach them.** She did not burn them. **She picks the pen
+  up again at 150 and uses it once, and the once is the volume's last beat.**
+- **THE SECRET IS FOUR PEOPLE DEEP AND THREE HAVE BEEN TOLD (146, and confirmed at 149 by Sun
+  Meiling, who got it sideways and cannot give a number).** Wren Kallo named a plate clerk, Cressida,
+  and a sister who asked how their mother's knee was. He chose that on purpose on the eighth.
+- **THE LEAKAGE OF THE 142 SECRET:** he told the household on the sixteenth; Wren dated and signed it
+  on bench paper; it was on her bench by the seventeenth, on a plate-clerk's desk by the eighteenth,
+  and in her sister's ear by the nineteenth; and Sun Meiling could hear the shape of it by the thirtieth
+  without any of it coming through the people he told.
+- **THE ONLY TRUE DOCUMENT ABOUT HIM IN THE CITY IS HIS OWN SENTENCE.** The certification says the
+  instrument worked; the finding says the roll's description was wrong; the description is his.
+
+## Figures, fixed on the page
+
+- **Ledger 112 at Chapter 100; 113 at Ch 142 (a woman who took her coat off a rail and queued in her
+  shirtsleeves on the second floor, the 16th); 114 at Ch 145 (a queue of eleven at the socket and a
+  tap on the sixth floor fixed at ten to ten on the morning of the 29th); 115 at Ch 150 (a clerk at a
+  counter and a tap on the third floor, the 31st).** Every rise is named on the page where it happens
+  and none of them has a number attached at the branch register. **Turned lines: eight through Ch 145
+  and nine from Ch 146, and the ninth is himself.**
+- **No grain scored, no rank earned, no rank lost, nothing classified, no folio opened, no second
+  folio, no age stated, no Channel, no routing, no Saskia Verhoeven, no Council of Nine by name, no
+  Alma Quayle as an opponent.**
+- **No draw is spent on anybody in 141–144, 146, 147, 148 or 150.** The only spends in the volume are
+  the three in Ch 145, on himself. Ch 144 puts his hand within four inches of a cleaner and keeps it
+  where it is, and says so.
+- **Visitors' book: a hundred and six at Ch 132, and a hundred and nine at Ch 150** — three callers on
+  the thirtieth, two of them asking about a person, which Marguerite reads out and does not attribute.
+  **The Office's exhibit sheet still says eighty-nine / twenty-nine / thirteen and those are the
+  figures read in the hall on the 29th.** The two sets are never merged.
+- **The hall on the 29th: one hundred and thirty-nine of one hundred and forty seats, seventy-two
+  standing behind the rail, two hundred and eleven on the card, two hundred and thirty on the plate by
+  the door, nineteen places where a person can stand and not be counted.** No figure of attendance in
+  this volume exceeds the rating.
+- **The instrument runs from twenty past ten until the sitting is adjourned.** Adeyemi ruled at 143
+  that it runs after the roll and for the remainder of the sitting, on the standing rule that an
+  instrument is not run on a person who has not yet been heard.
+- **Runa Sato's hearing is a fortnight after the 29th, which is the 12th of M+4, and it is still
+  unprinted and unresolved.** She was in the hall on the 29th, in the third row, and stood up at the
+  end and sat back down.
+- **Ines's review is the morning of the 22nd of next month and it is not resolved and is not this
+  volume's.** She files nothing, refuses nothing further, and her two March and May refusals stand.
+
+## What this batch did NOT open
+
+Second folio · Ines's review, resolved · B103 in any form · Ding's chest · May clipboard · rota word ·
+September's outcome · Marguerite's terms beyond staying down and unsigned · Bernt · Church of the Quiet
+Number · Rhee · Saskia Verhoeven as a character · Alma Quayle as an opponent · Anouk Ferreira ·
+Council of Nine by name · Isolde Marchetti · anything after Volume 8. **No rank moved, no grain scored,
+nothing classified, no folio opened, no spent-on-a-stranger.**
+
+## What this batch did NOT close
+
+Runa's hearing · Ines's review · the corridor's ninety rubbed-out sentences · Marta Vey's name in the
+record · the two ninth chairs · **the desk's four-line note that the member had the opportunity to
+prepare the room, which is a lie and is still in the file and is not withdrawn by anybody in 141–150** ·
+the classification paper dated the nineteenth of last month, which went up at four o'clock on the
+twenty-ninth and came back down unsigned, exactly as it has done every working day since.
+
+## Endings and temperature
+
+141 a woman refusing to file anything and asking to be the voice, and a man handed a sentence in his
+own hand · 142 a household priced again, this time by a woman who copies things, and the copybook put
+under a table · 343 a hearing officer who has done the arithmetic at last and keeps it to himself · 344
+nine minutes alone in a cold room measuring the distances · 145 fear, then flatness, then a lightness
+that is not relief · 346 arithmetic about oneself in a room with a clerk in it · 147 a clerk striking
+her own entry out and signing underneath it · 348 a description written at a table at night that cannot
+be improved · 349 a woman on a landing who wants to be the one nobody writes down, and gets it ·
+350 a man asking to be refused and being given a sentence instead. Temperature runs dread, then
+professional cold, then something close to joy, and the one warm room in the batch is a landing.
+
 # Volume 3, Batch 0004 — CLOSED (Chapters 131–140)
 
 **REPAIR PASS APPLIED AFTER REVIEW. Nine findings, all closed. Seven lines of prose changed across three

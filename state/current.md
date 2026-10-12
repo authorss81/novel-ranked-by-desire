@@ -1,5 +1,101 @@
 # Current State
 
+**Last written:** **Volume 3 COMPLETE — Batch 0005, Chapters 141–150 (The Room), written and closed.
+Volume 3 is one hundred and fifty chapters, one hundred and fifty to `outline/volume-03.md`, with
+every escalation step landed and every thread in its §13 list either closed or explicitly left open.**
+
+Ten chapters: a rank-two auditor asking to be the voice that reads the household's days aloud in a
+hall, and handing back a sentence in his own hand and promising to file nothing; a man telling six
+women first, before the clerk and before the builder, and a woman who copies things refusing for the
+first time in six months to write a thing down; a hearing officer doing the arithmetic on his own file
+at last and keeping it to himself because a rule announced to a room becomes an instruction; nine
+minutes alone in an empty hall counting the distances; the four hours; the ninth turned line and the
+fact that it is himself; a clerk striking her own entry out with one rule and signing a second one
+underneath it; a description written at a table at night that cannot be improved by anybody; a woman
+on a landing who asks to be the one nobody writes down and gets it; and a man asking to be refused a
+signature and being given a sentence instead.
+
+**THE IRREVERSIBLE DECISION OF VOLUME 3 IS CH 145.** He stands at a table in a municipal hall in front
+of two hundred and eleven people and moves the account on himself, three times, in the open, at about
+eleven, about half past twelve and two minutes to two on the twenty-ninth of the third month, having
+told the room in advance, into a microphone, that it moves on him and that he is going to do it three
+times, so that not one person at that rail is ambushed. **It lands in the fourth rib on his left. The
+counterparty column stays empty from twenty past ten until the sitting is adjourned. He touches nobody.
+And he says in the same breath that he will not do it again.**
+
+**PERMANENT COSTS, NONE OF THEM REFUNDED:**
+- **He is turned.** Eight turned lines becomes nine and the ninth is him. Four felt cold minutes is the
+  number at which a person begins keeping track, so from the twenty-ninth of this month he can feel
+  one coming with about a second and a half of warning. **A turned line can be led to a source by a
+  doctor, a tram operator, an accountant or a relative, and he has made himself the only person in
+  Ostara who can be led to himself.** A single sample cannot be triangulated and he has promised, on the
+  record, before the act rather than after it, that there will never be a second.
+- **The thing the Bureau holds about him is now his own sentence**, in four places, and it cannot be
+  unsaid and it cannot be improved by a clerk.
+- **The band six came off suspension at a quarter past five on the twenty-ninth and went straight back
+  onto the requisition paper dated the nineteenth of last month and a finding dated the twenty-ninth.**
+  Not a rank. Not a promotion. Not on the plate.
+- **The household's days went into a transcript that is for sale over a counter for a shilling.**
+- **The only unasked record in Ostara is under a table.** Ola Bright stopped copying on the sixteenth
+  and wrote once more on the thirty-first, and the once was a sentence rather than a signature.
+- **The secret is four people deep and three of them have been told**, and Wren Kallo gave him the
+  number herself because she cannot help it.
+
+**THE RESOLUTION, AND IT IS A CONSEQUENCE.** The only true document about Lin Hao in this city is a
+four-sentence description he wrote himself at a table at a quarter to nine at night because a clerk
+asked him to. The notice does not close. The classification paper dated the nineteenth of last month
+went up three floors at four o'clock on the twenty-ninth and came back down unsigned, exactly as it has
+done every working day since. The desk's four-line note that he prepared the room is still in the file
+and still a lie and still not withdrawn by anybody. The instrument is closed because the Office cannot
+use it.
+
+**THE VOLUME'S SENTENCE IS SPOKEN IN VOLUME 3, IN SUN MEILING'S MOUTH, ON THE THIRTIETH:** a household
+that does not stop him is not a shield, it is an audience. She had been right since the first and she
+says she has said it in the wrong words to people who could not act on it, and she closes her own
+refusal without a vote.
+
+**Position at the end of Volume 3:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band
+six.** The plate has not moved a grain in the whole volume and could not: not one grain of the account
+was converted and no chapter contains a figure that would let one be. Band six is seated on the
+Review instrument and now on a requisition paper and a finding. **Ledger 115 lines, nine turned, and the
+ninth is himself.** File 4,112, one folio open, no second. **No classification entered. No rank earned,
+no rank lost, no grain scored. One system panel in fifty chapters, at Ch 146.**
+**He is still employed**, cleaning six floors at the Fourth Branch, with no standing, no fourth floor
+and no Thursdays.
+
+**The household, at the last page of Volume 3:** **seven women, six of whom keep a book with six lines a
+day and one of whom is on a landing and is not writing anything down.** His signature is refused for the
+third time, and the one line of his in that book is a sentence a woman wrote for him after refusing to
+give him a pen. **Seven women have decided they will be in the record with him and not one of them is
+on the roll.** Ola Bright is not a partner and keeps the copybook that is under a table. Sun Meiling is
+core and unsworn and refuses to be written down because a research wing cannot be written down without
+the wing being written down.
+
+**What is open and what Volume 4 opens with:** Runa Sato's hearing, a fortnight after the reading, the
+twelfth of the fourth month, which is a Thursday because the reading is; Ines Duarte's review on the
+morning of the twenty-second of the next month, which is not resolved and is the hinge of Volume 5;
+Beatrix Halm's broken price, unpaid, uncollected and unforgiven, and the ninth of September, which is
+hers; Sun Meiling's shape that says February and that she will not put a number to; the desk's four-line
+note; the classification paper; the two ninth chairs; the ninety rubbed-out sentences in a corridor;
+Marta Vey's name in the record; and the four ribs on his left.
+
+**In one sentence, which is the sentence Volume 4 is about:** he has given away the only hours anybody
+else could hold, he is findable by anybody who is ever asked to look, and the only people in Ostara who
+know what he is are seven women who have each decided to be in the record with him and who cannot stop
+him and will not try.
+
+**Next phase to run:** **Volume 4, Batch 0001 — Chapters 151–160.** Prompt at
+`workspace/volume-04/batch-0001/PROMPT.md`. **`outline/volume-04.md` DOES NOT EXIST and must be written
+from `outline/series.md` and `outline/ending.md` in that phase, and flagged in
+`state/open-threads.md`, before any prose is drafted.** Volume 4's line, fixed by the series outline:
+**Lin Hao must build a household that can hold rank six, or he stands at six alone and is taken apart
+for it.** His first scene is Chapter 157, the gap from Sun Meiling's at 149 is eight chapters, and no
+gap under eight and none over fourteen may be created. Wren Kallo is unsworn; Sun Meiling is unsworn;
+Agnete Lindqvist of the Church of the Quiet Number enters in this volume at 169 and **no chapter before
+it may show a member of that church or name it**.
+
+**PREVIOUS HEAD RECORD — Volume 3, Batch 0004 (Chapters 131–140), repaired after review, retained below unchanged.**
+
 **Last written:** **Volume 3, Batch 0004 — Chapters 131–140 written (The Choice opens), then repaired after review.**
 **REPAIR PASS, ALL NINE FINDINGS CLOSED, BATCH NOT RESTARTED.** Ch 139 had reached forward onto the 14th
 — Ch 140's date — and put its climax on "the Thursday night", which from the 13th is **the 15th, i.e.
