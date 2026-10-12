@@ -9,12 +9,20 @@ scene and is immovable. Chapter 214 is Petra Ilyin's first scene and she is immo
 eleven-year promise to stay. This batch must open early enough to land her in four chapters.**
 
 Before you draft anything, read, in this order: `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`,
-`outline/ending.md`, **the Volume 5 Batch 0001 head block at the top of `state/current.md`**, the
-Volume 5 Batch 0001 close record at the head of `state/open-threads.md` — which carries the June
-derivation, the Gate A table and the canon proposals, all of which are live —, `state/continuity.md`'s
-Volume 5 Batch 0001 block, and **the last four chapters of Batch 0001 — 207, 208, 209 and 210 — in
-full**, because 210 is where this batch starts from and 208 is where the decision it has to live with
-was taken.
+`outline/ending.md`, **`outline/volume-05.md`**, **the Volume 5 Batch 0001 head block at the top of
+`state/current.md`**, the Volume 5 Batch 0001 close record at the head of `state/open-threads.md` — which
+carries the June derivation, the Gate A table and the canon proposals, all of which are live —,
+`state/continuity.md`'s Volume 5 Batch 0001 block, and **the last four chapters of Batch 0001 — 207,
+208, 209 and 210 — in full**, because 210 is where this batch starts from and 208 is where the decision
+it has to live with was taken.
+
+**On `outline/volume-05.md`, which did not exist until this batch's review repair created it.** Its §1 to
+§5 are written fact and may not be contradicted. Its §6 to §11 are a plan written eleven chapters into
+the volume, **and you are expected to improve on them and to rewrite the file in the same commit when
+you do.** §6 movement 2 is this batch's: **Petra Ilyin enters at 214, she came to collect from
+Marguerite and stayed, a sworn promise binds her body, and she has been under it for eleven years
+without being able to name who made it.** §10 carries ten unused chapter titles for this stretch and
+you may take them or discard all of them.
 
 ## WHERE THIS BATCH STARTS, EXACTLY, AND IT IS ALL ON THE PAGE
 

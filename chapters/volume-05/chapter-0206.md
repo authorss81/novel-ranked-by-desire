@@ -132,5 +132,5 @@ The kitchen was very quiet for a moment.
 
 Runa Sato did not answer it.
 
-She put her wet coat over the back of a chair and went down to work, because she had a shift at eleven and had been at that division since eight, and the twelve instruments on the kitchen table stayed where they were for four more hours while the six of them argued about a number.
+She put her wet coat over the back of a chair and went down to work, because she had a shift at eleven and had been at that division since eight, and the declaration stayed where it was for four more hours while the six of them argued about a number.
 

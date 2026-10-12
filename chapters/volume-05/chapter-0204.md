@@ -1,10 +1,12 @@
 # The Quarterly Return
 
-The Vant's quarterly return went in on the twenty-fourth of this month, two days before she had to, because Marguerite Vale had decided on the fourteenth of March that she would never leave a filing to the last day of a month and had not gone back on it in nineteen years.
+The Vant's quarterly return went in on the twenty-fourth of this month, six days before she had to, because Marguerite Vale had decided on the fourteenth of March that she would never leave a filing to the last day of a month and had not gone back on it in nineteen years.
 
 She went at nine with the book under her arm and did not tell anybody she was going, because she did not want the room with her, and because she had priced the morning before she left the house and had put a figure on it and knew what the figure was for.
 
-The Exchange does not open to the public on the last day of a week. It takes filings at the north desk on those days by arrangement, and the arrangement is that a broker lodges what she has and the desk reads it back, and the desk has four people at it and two of them are clerks.
+The Exchange opens to the public at nine and the north desk is where a broker lodges what she has, and the desk reads it back to her while she is standing there, and there are four people at it and two of them are clerks.
+
+A return is due on the last working day of a month and every broker in this city lodges one on the last working day and not one of them lodges one early, so a woman who lodges six days early has that desk to herself.
 
 The clerk was a woman of about thirty called Kirsten Mahler and she had been at the north desk for two years and she read everything back.
 
@@ -58,7 +60,7 @@ The clerk typed for a while and then read it back, and the clerk's voice did the
 
 "You cannot leave it off and you cannot enter a holder," said Marguerite Vale, "because the holder of that book on the annual sitting is a woman who does not exist yet, or a man who does not exist yet, and I have been trying for about four years to think of a way to write the word whoever and I would like you to type it and I would like it to be typed badly."
 
-The north desk is quiet on a last day of a week. Two clerks and a man filing a lien and a woman reading back.
+The north desk on the twenty-fourth was quiet. Two clerks and a man filing a lien and a woman reading back.
 
 "It will not take whoever," said Mahler.
 
@@ -90,7 +92,7 @@ She did it on the step outside with the receipt in her hand and the book under h
 
 "A rank two book is worth a rank two to whoever inherits it, plus what the book holds. That is the whole of how a guild prices a succession and there is not one line in the rule book about anything else.
 
-"I have put an open-ended security into my own book with no holder named on it. Whoever takes the book on the annual sitting inherits the standing of the highest member of a household of seven women in Ferrier Street, and the examination that goes with it, and the liability of being named on it.
+"I have put an open-ended security into my own book with no holder named on it. Whoever takes the book on the annual sitting inherits the standing of the highest member of a household of six women in Ferrier Street, and the examination that goes with it, and the liability of being named on it.
 
 "That makes my book worth more to her and worth less to me, by about the difference between a rank two and nothing, and I have known the sign of that number since the seventeenth of this month and I have been carrying it about for three days telling myself that the difference was small.
 

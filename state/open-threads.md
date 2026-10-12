@@ -43,13 +43,17 @@ never once been read by a living man.** This is a reconciliation, not a contradi
 190 both quote the card's last line and neither of them asserts that it is correct, and Ch 181's
 derivation of the month's length rests on the *fourth* entry, which is the twenty-fourth.
 
-**A PRINTED PREMISE THAT THE DERIVED CALENDAR DOES NOT SUPPORT, AND WHICH NO CHAPTER MAY REPEAT.**
+**CHAPTER 191'S PRINTED PREMISE IS NOW REPAIRED ON THE PAGE AND BOTH HALVES ARE TRUE.**
 Chapter 191 says the twenty-seventh of June **is not a working day** and therefore the schedule goes up
 on the twenty-sixth. **Under the derivation above the twenty-seventh is a Tuesday and the twenty-sixth is
 a Monday, and both are working days.** The derivation is fixed by three canon facts and cannot give, so
-**the working-day sentence at Ch 191 stands as a printed premise this batch does not repeat and does not
-contradict.** Chapter 199 prints the two dates without the reason and Ch 210 follows it. **A later
-batch that has to explain why the schedule goes up on the twenty-sixth must not use the working day.**
+the working-day sentence was repaired rather than the calendar. **Chapter 201 now prints it, in his
+mouth, in the landing, immediately after the June Thursdays are derived: the schedule goes up the working
+day before the certificate; the working day before it is the twenty-sixth; the twenty-seventh is a
+Tuesday; and the Office does not sit on the twenty-seventh of a month, has not in nineteen years of
+cards, and there is nothing about it on the card or in any card.** **The reason is institutional and not
+calendrical and it is canon. A later batch that has to explain why the schedule goes up on the
+twenty-sixth must use it and must not use the weekday.** The date does not move.
 
 ### Day map (M+5, thirty days, Thursdays the 3rd, 10th, 17th and 24th)
 
@@ -134,13 +138,16 @@ answered in the row. Six real errors were found by this pass and all six are fix
 | 202 | **no repaint due on that wall for another two days** | the twenty-fourth is the last Thursday in May | **22 → 24 = 2.** Correct, and the next is the first of June |
 | 203 | **the caller is the third** | the district clerk on the tenth, the man with the folded sheet on the eleventh | **3 callers.** **THE FIRST PASS SAID *THE FOURTH*, WITH A CALLER ON THE SECOND OF THE MONTH WHO IS NOT IN CANON. Corrected in three places** |
 | 203 | **the card is read back in her own division two days after the twenty-third** | the declaration was raised on the twenty-first and the card went at the end of the week | **23 → 25.** The chapter does not name the date; it says the card goes *up a floor* and *from there down a division* |
+| 204 | **the return went in six days before she had to** | the last working day of the month is the thirtieth | **24 → 30 = 6.** **REPAIRED IN REVIEW: the first pass printed *two days*, and the chapter had also built its whole quiet-desk premise on the twenty-fourth being the last day of a week, which under this batch's own derivation is a Thursday.** Both are fixed: a return is due on the last working day, every broker lodges on that day, and one that lodges early has the north desk to itself |
 | 204 | **the examination is the first security entered against the broker in nine years** | Ch 198, the Vant's entry of the seventeenth of May | Nine years is her own figure and it is her characterisation, not a trace |
 | 204 | **the holder of the book at the annual sitting** | Ch 198's second line: on death, resignation or replacement | Four years is her figure and she has held it since the seventeenth. **Ch 206 has Ines Duarte challenge the four against nine, and Ines does not say which is right** |
 | 205 | **twelve instruments across eleven dates** | the composition return of the twenty-second of March to the declaration of the twenty-first | Counted on the page in the chapter that lays them out. Correct |
-| 205 | **the card was read back to her on the twenty-seventh** | the card went up at the end of the week after the twenty-third | **23 → 27 = 4 days**, and she says *read back to me on the twenty-seventh*. Correct |
+| 205 | **the card was read back to her the next morning** | the card went down the sixty-one steps on the evening of the twenty-third and into an intake at the end of that week | **The scene is the night of the twenty-fifth and the chapter now prints no date for it.** **REPAIRED IN REVIEW: the first pass printed *the twenty-seventh*, which is two days after the scene and in a past tense for an event that had not happened.** |
+| 205 | **the tenth and the eleventh, and one of them is wrong** | Ch 202 stages the tenth's clerk reading five names and two spaces and the eleventh's man reading six names and one space, and says the second of them read a rule as though the line were not there | **REPAIRED IN REVIEW: the first pass printed *the twentieth* and *both true, ten days apart*, which contradicted Ch 202 on the date, declared a miscount correct, and gave a cause that predated the earlier card.** The chapter now names the eleventh, says it is the wrong one, and puts the cause on the second of May, eight days before either caller came |
 | 205 | **the sixth line up from the foot of page two** | the schedule of the fourth of May, six members numbered | Traced in-scene, and the chapter does not assign a number to her line |
 | 206 | **called for on the twenty-first, produced on the twenty-second, returned on the twenty-third** | the declaration was raised on the twenty-first | In-scene, three dates inside one scene. Correct |
 | 206 | **four years and nine years** | the annual sitting | **They are two characters' estimates of the same interval and the chapter says so.** Not a trace, and the disagreement is the point |
+| 207 | **fifty-three days from the fourth of May to a certificate** | the schedule of the fourth, the certificate dated the twenty-seventh of June | **4 May → 30 May = 26 days in a thirty-day May, then 27 days of June = 53.** **REPAIRED IN REVIEW: the first pass printed *eleven months*, twice, for an interval of eight weeks, and the gate record had marked it correct.** Printed by the clinician as a rule, which is why it had to be right |
 | 207 | **eleven families in six years** | Tessa Okonkwo's own count | In her mouth, and it is a new figure registered as such |
 | 207 | **a month of this year versus nine years of the clinic** | the clinic unfunded since Volume 1 | Characterisation. Correct |
 | 208 | **thirty-one of the sixty gone, twenty-nine left** | 202's 25/35 | **28 May = 31 elapsed, 29 left.** **THE FIRST PASS SAID *THIRTY-TWO AND TWENTY-EIGHT*, WHICH IS THE FIGURE FOR THE TWENTY-NINTH. Corrected** |
@@ -166,18 +173,22 @@ first pass. The first pass is not what ships.**
 
 201 the 21st · 202 the 22nd · 203 the 23rd · 204 the 24th · 205 the 25th · 206 the 26th · 207 the 27th ·
 208 the 28th · 209 the 29th · 210 the 30th. **Exactly one Thursday in the batch: the twenty-fourth, and
-no chapter names it.** **Zero weekday names other than Thursday appear anywhere in the ten chapters,
-and the word Thursday appears at 201, 202, 209 and 210, every one of them instrument-derived.**
+no chapter names it.** **The word Thursday appears at 201 (×3), 202 (×1) and 209 (×1), every one of them
+instrument-derived off the card.** **REPAIRED IN REVIEW: the batch now carries one weekday name that is
+not Thursday — *the twenty-seventh of June is a Tuesday*, at 201, in the passage that repairs Ch 191's
+printed premise. It is on the page because the whole point of that passage is that the date is an ordinary
+working day and the Office does not sit on it anyway. It is not a date the card forbids and it is not a
+repaint, a counter or a signature.**
 
 | Chapter | Dates on the page | Check |
 | --- | --- | --- |
-| 201 | the 21st · the 3rd, 10th, 17th, 24th (the card) · the 7th of next month (the card) · the 19th of May (the assumption) · the 4th (the schedule) · the 6th (Sun Meiling) · the 15th · the 27th of April · the 27th of June · the 12th of May (the head's line on the roll) | 21 → 30 = 9. The certificate is the 27th of June and the schedule goes up the day before. Correct |
+| 201 | the 21st · the 3rd, 10th, 17th, 24th (the card) · the 7th of next month (the card) · the 19th of May (the assumption) · the 4th (the schedule) · the 6th (Sun Meiling) · the 15th · the 27th of April · the 27th of June · the 26th of June · the 12th of May (the head's line on the roll) | 21 → 30 = 9. The certificate is the 27th of June, the schedule goes up the working day before, and **the chapter now prints why the 27th is not a working day — the Office does not sit on the twenty-seventh of a month, and never has** |
 | 202 | the 22nd · the 2nd · the 10th · the 11th · the 20th · the 12th of May · the 25th · the 24th · the 1st of next month · the 22nd of March · the 6th | 2 → 22 = 20. 22 → 24 = 2. The roll became five and two on the second. Correct |
 | 203 | the 23rd · the 21st · the 27th · the 2nd · the 15th · the 1st of March · nineteen years · eleven minutes | The card goes up at the end of the week after the twenty-third and is read back on the twenty-seventh. Correct |
 | 204 | the 24th · the 16th · the 7th of May · the 19th · the 14th of March · the 17th · four years · nine years · thirty years of the guild | The invoice of the sixteenth, the purchase of the sixteenth, the assumption of the nineteenth, the real books of the seventeenth. Correct |
-| 205 | the 25th · the 22nd of March · the 1st · the 4th · the 7th · the 8th · the 16th · the 19th · the 20th · the 22nd of April (not dated) · the 23rd · the 27th · the 21st · the 15th · the 6th · the 30th · eleven years · four years | Ines reads the whole file in date order and does not date the twenty-second of April. Correct |
+| 205 | the 25th · the 22nd of March · the 1st · the 4th · the 7th · the 8th · the 10th · the 11th · the 16th · the 19th · the 22nd of April (not dated) · the 23rd · the 21st · the 15th · the 6th · the 30th · the second · eleven years · four years · eight days | Ines reads the whole file in date order and does not date the twenty-second of April. **The card's read-back carries no date and the chapter no longer prints the twenty-seventh, which the first pass put two days after the scene in a past tense** |
 | 206 | the 26th · the 21st, 22nd and 23rd · the 12th and 13th · the middle of February · the 27th of April · the 7th of May · four years · nine years · eleven o'clock | Runa's correction is verbatim from Ch 187 and its dates do not move. Correct |
-| 207 | the 27th · the 4th of May · the 22nd of March · the 27th of June · the 24th · the 20th · the 7th of April · the 14th of March · eleven months · six years · nine years | 27 → 30 is three days, which she says is not what she cares about. Correct |
+| 207 | the 27th · the 4th of May · the 22nd of March · the 27th of June · the 24th · the 20th · the 7th of April · the 14th of March · fifty-three days · six years · nine years | 27 → 30 is three days, which she says is not what she cares about. **4 May → 27 June = 53, and that is the figure she prints as a rule** |
 | 208 | the 28th · the 21st · the 19th of May · the 4th of May · the 1st · the 25th · the 20th · the 14th of March · the 15th · the 30th | 21 → 28 = 7 days, which he says. Correct |
 | 209 | the 29th · the 24th · the 26th of April · the 30th · the 2nd · the 18th · the 20th · the 6th · the 15th · the 10th of April · the 28th · the 30th · four days · eleven years | 24 → 29 = 5 days, which he says. Correct |
 | 210 | the 30th · the 19th · the 23rd · the 25th · the 4th · the 27th of June · the 2nd of May · the 20th · the 15th · the 10th | 30 May → 27 June = 27 with no thirty-first. Correct |
@@ -206,7 +217,7 @@ ages                                                                       → 0
 meta-language in 201–210                                                   → 0 ("a hundred chapters" at 208 and "eighty-one years old" at 209 were both in the first pass and both cut)
 rationed constructions                                                     → 0
 nobody / no one / no-one                                                   → 1, against a ration of 1. **The single instance is Ch 205's *nobody's book*, and it is the sentence the volume is built on**
-weekday names other than Thursday, 201–210                                 → 0. **Eight were in the first pass and every one was on a date the card forbids**
+weekday names other than Thursday, 201–210                                 → 1 after the review repair, *Tuesday* at 201 in the Ch 191 reconciliation. **It was 0 in the first pass and eight weekday names were in that pass, every one of them on a date the card forbids**
 the word Thursday                                                          → 5, at 201 (×3), 202 (×1), 209 (×1). **Every one is the card or the calendar. Four were in the first pass attached to dates the card forbids — a repaint on the twenty-second, a repaint on the twenty-ninth, a counter on the twenty-ninth and a signature on a Thursday — and all four are cut**
 not a tank / he is a door                                                  → 0
 paragraphs over 90 words, chapters/volume-05/                               → 0; none over 120. Longest is 88

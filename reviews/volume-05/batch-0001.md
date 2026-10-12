@@ -1,5 +1,10 @@
 # Volume 5, Batch 0001 — Gate Record (Chapters 201–210)
 
+> **REVIEW REPAIR, appended below this record. An independent review of this batch was run and did not
+> write the page; its findings are in `logs/batch-0001.review.log` and the repairs made in answer to them
+> are in §REVIEW REPAIR at the foot of this file. The gate output above is the drafting pass's own and is
+> unchanged by the repair except where the repair explicitly says so.**
+
 **This is the drafting pass's own gate output and its gate output's limits. It is NOT a review of the
 prose.** A review is a separate run that did not write the page. Seven earlier reviews in this repository
 were run and never committed and Volume 3 closed with one batch of five reviewed on the page; **do not
@@ -59,6 +64,7 @@ meta-language in 201–210                                                   →
 rationed constructions (there is no form, there is no column, the record remained,
   nobody thanked, nobody asked, nobody knew, He wanted, concretely)         → 0
 nobody / no one / no-one                                                   → 1, against a ration of 1
+weekday names other than Thursday, 201–210                                   → 1, *Tuesday* at 201 in the Ch 191 reconciliation, where the point is that the date is an ordinary working day
 weekday names other than Thursday, 201–210                                 → 0
 the word Thursday                                                          → 5, at 201 (×3), 202 (×1), 209 (×1)
 not a tank / he is a door                                                  → 0
@@ -173,3 +179,88 @@ lands as the batch's irreversible decision and that Chapter 209 takes it back of
 her more is a structural claim, not an aesthetic one, and a review run that did not write the pages
 should test it.** So should a reader test whether the seventh row being filled in pencil is a scene or a
 device, and whether Chapter 204 is a cost or a speech.
+
+---
+
+# REVIEW REPAIR — Chapters 201–210
+
+**An independent review ran against this batch and did not write the pages.** Its findings are in
+`logs/batch-0001.review.log`. Fifteen findings; twelve were fixed here, one was a judgement call that is
+now a decision of record, one was a missing artefact that has been created, and one is process status for
+a later phase. **No chapter was restarted, no plot was changed, and no planned beat was moved.**
+
+## What the review found and what was done about it
+
+| # | Finding | Chapter | Action |
+| --- | --- | --- | --- |
+| 1 | **Ch 205 contradicted Ch 202 on the district sheets.** The chapter read *the twentieth* for a card Ch 202 dates to the eleventh, called both figures correct when the batch had already declared one a miscount, and gave a cause — a rule drawn on the second of May — that predates the earlier card and so cannot explain a change between the two visits. | 205 | **Fixed.** The eleventh is named, the eleventh is the wrong one, and the cause is now what Ch 202 actually says: a man read the board the way a man reads a page and counted through the rule, a clerk counted round it, and **the roll changed on the second of May, eight days before either caller came, and can now honestly be counted three ways.** This is better than what it replaced. The miscount was the batch's best small fact about a roll that changed under two people doing their jobs. |
+| 2 | ***Eleven months*, twice, for an interval of eight weeks.** Spoken by the clinician as a rule. The gate record above had marked it correct. | 207 | **Fixed to fifty-three days**, and traced: 4 May → 30 May is twenty-six days in a thirty-day May, then twenty-seven days of June. |
+| 3 | **A past-tense event two days in the future.** *Read back to me on the twenty-seventh*, in a scene fixed at half past two in the morning on the twenty-fifth. | 205 | **Fixed to *the next morning*,** which is after the card went down the steps on the twenty-third and before the scene. |
+| 4 | **Ch 210 put the Lantern Row reading in the wrong room, in the wrong mouth.** The flat has a table under a window and no kitchen; it is Ines who reads aloud in it; and no scene ever stages him holding the card. | 210 | **Fixed.** She reads the whole of it out loud on her own floor in the flat voice of a clerk and he is in the room and does not have to hold any of it. |
+| 5 | **Ch 206 put all twelve instruments on the Ferrier Street kitchen table.** Ch 205 stages them on Lantern Row, says two of them are in neither the notebook nor the house, and ends with her copying the file and shelving the copy. | 206 | **Fixed to *the declaration*,** which is what is on that table on the twenty-sixth. |
+| 6 | ***A household of seven women in Ferrier Street*,** in the mouth of the most arithmetically careful woman in the book. | 204 | **Fixed to six**, which is what Ch 201, Ch 205, `state/current.md` and the certificate all say. |
+| 7 | **Three interval and weekday errors in one chapter.** *Two days before she had to* for six; and a quiet-desk premise built on the Exchange not opening on the last day of a week, when the twenty-fourth is a Thursday on the calendar this batch spends four chapters defending. | 204 | **All fixed.** A return is due on the last working day of a month, every broker lodges on that day, and one lodged six days early has the north desk to herself. The quiet premise is now built on a rule that is true of a Thursday. |
+| 8 | **Ch 205's scene is framed correctly but its central act is summarised.** | 205 | **Decision of record, and one repair.** Four volumes of this book stage a scene at this density and in this register — a signal cabin at Ch 189 has her telling him nine seconds ahead of every movement and being accurate about why — and **this volume's scenes do not become anatomical.** What was genuinely thinner than its neighbours was one sentence: *he did that*. **That sentence is now written out**, with the order given by counting on her own ribs, the third of it got wrong and done again, nine minutes, and then the counting afterwards. **Ch 205 is 3,701 words and is still inside the 2,600–3,900 scene band.** |
+| 9 | **A signature construction ran four times**, with 209 and 210 adjacent. | 205, 210 | **Reduced to two, four chapters apart.** 205's second instance became *there is not a form in this city*; 210's late beat became *nothing in this city was ever going to write down the hour he arrived*, which is plainer and better. The survivors are 205's thesis-bearing line about the twenty-seventh of June and 209's line about a ceramic tile. |
+| 10 | **The two-inches-of-dark beat ran five times, and Ch 210 restated what Ch 209 established** — including the wall sentence transcribed verbatim a second time. | 210 | **Fixed.** The beat runs once in 210 and he **does not read it**: he read it three times the night before, and a man who goes up sixty-one steps to look at a sentence he has got by heart is a man who has come up here to be seen. What he notices instead is the thing that has changed — six names, one head, no spaces. |
+| 11 | **`state/current.md` misdescribed Ch 205's ending** and called a 21–30 May batch *the twenty-seven days before* a date that is thirty-seven days out. | state | **Both fixed.** The tear is followed by an hour and ten minutes of copying, an initialled comma, and WITHDRAWN in the instrument column against her own line — **the tear is the part the house hears about and the copy is the part that costs her.** The batch is now described as the last ten days of a thirty-day month. |
+| 12 | **Ch 191's printed premise — the twenty-seventh of June is not a working day — was registered as unrepaired and silently contradicted by the batch's own derivation.** | 201 | **Repaired on the page, additively.** Ch 191's sentence never said *why*, so Ch 201 now says it in the landing, immediately after the June Thursdays are derived: **the schedule goes up the working day before, the twenty-seventh is a Tuesday, and the Office does not sit on the twenty-seventh of a month, and never has, and there is nothing about it on a card.** Both sentences are now true at once, the derivation does not move, and the reason is institutional rather than calendrical. |
+| 13 | **`outline/volume-05.md` did not exist.** Volumes 1–4 each had one and `PHASE_SYSTEM.md` lists the current volume outline as a required writer read; the Volume 4 close audit should have written it and did not. | outline | **Created.** See below. |
+| 14 | **The batch had no independent review.** | — | **This section is the record of one, and it was run by a phase that did not write the pages.** |
+| 15 | **Volume 4 Batch 0005 sits deferred with its chapters already on disk.** | — | **Process status, not this phase's.** `workspace/volume-04/batch-0005/.deferred` and `.retry-after` are workflow-owned and were not touched. **Flagged forward: a retry must not re-run a batch whose prose is committed at Chapters 191–200.** |
+
+## What the review called good and what the repair did not touch
+
+**The batch's structure is sound and none of it was rebuilt.** Ch 208 is a real irreversible decision with
+both options priced in his own voice; Ch 209 takes it back at a higher cost to her and a day earlier;
+Ch 210 closes on **SHE IS ONE OF OURS** — Ines's own division, her own auditorate, writing against the
+rule she has hidden behind for two years. **Emotional temperature varies**: Ch 204's cold pricing on a
+step outside the Exchange, Ch 207's clinician insisting the certificate makes the household *visible*,
+Ch 209's Sun Meiling taking the gift away from him. **No chapter in the batch is liftable out of it.**
+
+The review also recorded that the mechanical gates were genuinely clean and that the defects were
+concentrated in exactly the calendar arithmetic and in Ch 205's record-reading — which is where the
+batch's engine sits. **Both were true, and the repairs are all in those two places.**
+
+## `outline/volume-05.md`, and why it is split into two registers
+
+Created here because a review found its absence, and split into written fact and plan because writing a
+fifty-chapter plan eleven chapters into a volume is an act of invention and should be labelled as one.
+
+**§1 to §5 are written fact** and are derived from `outline/series.md`, `outline/ending.md`,
+`bible/characters.md`, `outline/volume-04.md` §8 and Chapters 201–210 as they stand. **§6 to §11 are a
+plan**, and the file says in its own first paragraph that a batch which finds a better answer takes the
+better answer and rewrites the file in the same commit. **The volume's spine is not invented here**: the
+scene table is `outline/series.md`'s, **Ch 246 is `outline/series.md`'s — Ines leaves, not a death, not a
+betrayal — and Volume 6's handoff is Volume 6's own fixed sentence.** The title bank in §10 was checked
+against all 210 written titles and collides with none.
+
+## Gates re-derived after the repair, by command
+
+```
+ls chapters/volume-05/                                                     → 10
+titles unique book-wide (210 files)                                        → NONE
+titles over 90 characters                                                  → 0
+horizontal rules / blockquotes / code blocks / tables                      → 0 / 0 / 0 / 0
+bold, underscore and italic markup in chapters/volume-05/                  → 0
+system panels in 201–210                                                   → 0. No count turns and none is due
+paragraphs over 90 words                                                   → 0; longest is 88, none over 120
+paragraphs containing an internal newline                                  → 0
+new 8-gram duplications introduced by this repair                          → 0
+not one instrument in this city                                            → 2, at 205 and 209 (was 4)
+nobody / no one / no-one                                                   → 1, against a ration of 1
+the landing beat, two inches above the seventh row                        → narrated once each at 201, 203, 208 and 210, and four times at 209 where it is the chapter's subject. **210 no longer transcribes the wall sentence that 209 already read aloud**
+wc -w, 201 to 210                                                          → 2320 / 1897 / 1883 / 1871 / 3701 / 1965 / 1946 / 1892 / 1949 / 1958
+```
+
+**Two numbers in the gate output above are now wrong on the page and were corrected in it**: the Gate A
+rows for 205's card read-back and for 207's interval, and the Ch 201 date row for the twenty-sixth.
+**Ch 205 is 3,701 words, not 3,553**, and is still inside the scene band.
+
+## What this repair does not certify
+
+**It does not certify the prose either.** It fixes twelve concrete findings, makes one decision of record
+about Ch 205's scene, and creates one missing artefact. **The reviewer's structural read on the batch —
+that 208 is a genuine irreversible decision, that 209 takes it back at a higher cost, and that no chapter
+here could be lifted out — was accepted, not independently re-tested**, and a reader should still be able
+to disagree with it.

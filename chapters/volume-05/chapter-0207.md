@@ -16,7 +16,7 @@ She put her bag down, went to the table, and read the declaration from the foot 
 
 "In question for how long. There. I can answer that, because I write those letters, because a person whose standing is in question cannot draw on anything the household holds, and I have had to write to eleven families in six years explaining why their card did not work at a hatch in a bad month.
 
-"Eleven months, from the fourth of May to a certificate. And during eleven months the certificate does not issue, and the schedule stands, and the sixty days run while it is held, and every day held is a day off the end of the sixty, and the day you signed that sheet on the nineteenth is the day the sixty stopped being a length of time and became a fight."
+"Fifty-three days, from the fourth of May to a certificate. And for every one of those fifty-three days the certificate does not issue, and the schedule stands, and the sixty days run while it is held, and every day held is a day off the end of the sixty, and the day you signed that sheet on the nineteenth is the day the sixty stopped being a length of time and became a fight."
 
 She sat down, which she did not do.
 

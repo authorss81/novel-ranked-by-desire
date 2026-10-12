@@ -18,7 +18,7 @@ Not the household's notebook. Six women keep that under a table at Ferrier Stree
 
 "Twelve?"
 
-"Twelve instruments across eleven dates, and one card from a district clerk that went into a building two floors above my office at the end of the week and was read back to me on the twenty-seventh by a woman in a corridor who would not give me her name."
+"Twelve instruments across eleven dates, and one card from a district clerk that went into a building two floors above my office at the end of the week and was read back to me the next morning by a woman in a corridor who would not give me her name."
 
 "Sit down. You have eleven minutes to say all of that and then you are going to read, and I want to read, and it will take an hour, and then we are going to talk about one line of it and nothing else."
 
@@ -56,13 +56,17 @@ She put it down.
 
 "And the district sheets."
 
-"There are two and they contradict each other and both are correct."
+"There are two and they contradict each other and one of them is wrong."
 
-"The tenth says five names and two spaces. The twentieth says six names and one space. Both true, ten days apart, because on the second of this month a rule went through the sixth row in my hand and the row that was in front of it stopped being the row behind it. That is not a fault in either clerk. That is a roll changing under two people who were both doing their job correctly on the day."
+"The tenth says five names and two spaces. The eleventh says six names and one space, and the eleventh is the wrong one of the two, and I want that written down before somebody in this city settles it the other way round.
+
+"A man came up those steps the day after her with a sheet folded in four, and he read that board the way a man reads a page, and the rule I put through the sixth row on the second of this month was in his way and he counted straight through it, and the woman who went before him read it from the top down without touching it and counted round it. Neither of them did anything wrong.
+
+"That is not a roll changing between two visits. That is a roll that changed on the second of this month, eight days before the first of them came, and after that this board can honestly be counted three ways by three people who are all doing their job properly on the day."
 
 "And the card."
 
-"The card says six names and two spaces, and it says it in this house's hand, and I want that written down, because the third time is going to be a different figure again, and one day one of those numbers is going to be the number on a certificate, and after the twenty-seventh of June there is not one instrument in this city that can change any of them."
+"The card says six names and two spaces, and it says it in this house's hand, and I want that written down, because the next one of them is going to be a different figure again, and one day one of those numbers is going to be the number on a certificate, and after the twenty-seventh of June there is not one instrument in this city that can change any of them."
 
 She stopped.
 
@@ -150,7 +154,7 @@ It took them about twenty minutes to reach the point where neither of them was r
 
 "I was going to say something about the margin of three."
 
-"Do not." She undid the second button. "There is not one instrument in this city that governs what I do with my hands and you have read enough instruments this month."
+"Do not." She undid the second button. "There is not a form in this city that governs what I do with my hands and you have read enough forms this month."
 
 He got the coat off her shoulders, and she got his shirt open over the ribs on the left, four of them, and put two fingers flat under the fourth without pressing, because she knows exactly where it is and has decided not to, and she gave him the reason for that in April in a washroom at the Fourth Branch and he has not asked since.
 
@@ -168,7 +172,11 @@ He got a hand into her hair and she let him have it for about four seconds and t
 
 And it was not careful and it was not fast and it went on a great deal longer than either of them had expected, in a room eight feet wide above a laundry, on the one night in the month when there was no repainting and no counter and no clerk and no roll on any wall in the world, and for a while the only sound in it was the window and the building and the two of them.
 
-Near the end she got her mouth against his ear and told him what she wanted, all of it, in the order she wanted it, and he did that, and afterwards she lay with her cheek on his chest and counted out loud, the way she counts everything, and he asked her what she was counting and she said, "Seconds. Do not look at me like that. I do it at the office as well."
+Near the end she got her mouth against his ear and told him what she wanted, all of it, in the order she wanted it, and she told him the order by counting on her own ribs under his hand the way she counts everything, and when he got the third of them wrong she stopped him and made him do that one again.
+
+He did it again, and it took about nine minutes, and neither of them said anything else in it.
+
+Afterwards she lay with her cheek on his chest and counted out loud, and he asked her what she was counting and she said, "Seconds. Do not look at me like that. I do it at the office as well."
 
 "How many."
 

@@ -22,9 +22,9 @@ prompt is at `workspace/volume-05/batch-0002/PROMPT.md`.**
 # VOLUME 5, BATCH 0001 — HEAD RECORD. CHAPTERS 201–210. THE AUDITOR'S PRICE OPENS.
 
 **Ten chapters, one a day from the twenty-first to the thirtieth of May, no shared dates and no gaps.
-The certificate is dated the twenty-seventh of June and does not arrive; this batch is the twenty-seven
-days before it, and it is the whole of the first movement of a volume about what happens in a house in
-the month a certificate is going to arrive and everybody in that house knows it.**
+The certificate is dated the twenty-seventh of June and does not arrive; this batch is the last ten days
+of a month that has thirty, and it is the whole of the first movement of a volume about what happens in
+a house in the month a certificate is going to arrive and everybody in that house knows it.**
 
 **THE VOLUME'S SENTENCE IS ANSWERED IN ONE LINE IN THE FIRST CHAPTER AND THE REST OF THE BATCH IS THE
 ANSWER ARRIVING LATE.** `outline/volume-04.md` §8 asked: *what does a woman do who is the only person in
@@ -34,7 +34,12 @@ order, for an hour, and finding two things: that her own division raised her pre
 and did not tell her, and that the instrument column on her own line has been empty since the fifteenth
 of May because she left a member form face down in a drawer.** She does not say why. She has said *it is
 not about this house* and that is all she says, **and no character in this batch asks her, and her review
-does not move one inch.** She tears the form in half, which is the last thing she will ever do about it.
+does not move one inch.** She tears the member form in half at about half past two in the morning, **and
+then she sits down at her own table and spends an hour and ten minutes copying the whole file into a book
+of her own that has nothing on its cover, and initials a comma because she is a woman who initials
+corrections, and writes WITHDRAWN in the instrument column against her own line. The tear is the part the
+house will hear about. The copy is the part that costs her, and it is the first copy of that record to
+exist outside Ferrier Street, and no one in this batch knows she made it.**
 
 **THE IRREVERSIBLE DECISION OF THE BATCH IS CH 208 AND IT IS HIS, AND IT IS ABOUT WHO IS ON THE FILE.**
 A standing household's head must certify the members of his household and the number of persons of
@@ -110,22 +115,32 @@ the head on the thirtieth of May, and the schedule of record carries six, and th
 six, and 205 is Volume 5's first and is immovable on `outline/series.md`'s scene table.** Gaps 149 → 157
 = 8, 157 → 169 = 12, 169 → 179 = 10, 179 → 189 = 10, 189 → 197 = 8, **197 → 205 = 8, the floor, exactly.**
 **The next scene is Chapter 214, Petra Ilyin's first, which is immovable and is Volume 5 Batch 0002's, and
-the gap 205 → 214 is nine.** Ch 205 is written at 3,553 words, inside the 2,600–3,900 scene band, staged
+the gap 205 → 214 is nine.** Ch 205 is written at 3,701 words, inside the 2,600–3,900 scene band, staged
 in a flat on Lantern Row with the household's whole record laid out on her own floor in date order and no
 lamp on it, **and the 12-gram scan of it against all twenty earlier scene chapters returns zero.**
 
 **THE CALENDAR, DERIVED AND PRINTED, AND IT IS THE FIRST THING CHAPTER 201 DOES.**
 **MAY'S THURSDAYS ARE THE THIRD, TENTH, SEVENTEENTH AND TWENTY-FOURTH, from the card printed at Chapter
 181, and this month has thirty days from the same chapter and from the certificate arithmetic at
-Chapter 190 (3 + 30 + 27 = 60).** Therefore the twenty-fourth is a Thursday, the thirtieth a Wednesday,
-**and the first of next month a Thursday, so JUNE'S THURSDAYS ARE THE FIRST, THE EIGHTH, THE FIFTEENTH,
-THE TWENTY-SECOND AND THE TWENTY-NINTH.** **This batch runs the twenty-first to the thirtieth of May and
-it contains exactly one Thursday, the twenty-fourth, and the men are not due on that wall again until the
-first of June, which is Chapter 211.** **The May card's last line reads AND THE SEVENTH OF NEXT MONTH and
-is six days out, and Chapters 201 and 202 fix that on the page: it is the line that tells the men when to
-come back and the card turns over before they do.** **A printed premise this batch does not repeat:
-Chapter 191 says the twenty-seventh of June is not a working day, and under the derivation above it is a
-Tuesday. The date does not move and no chapter explains the twenty-sixth with a working day again.**
+Chapter 190 (3 + 30 + 27 = 60).** **MAY HAS THIRTY DAYS AND NO THIRTY-FIRST — this is load-bearing
+world-canon, printed at 181, restated at 201, and it is why the card's next entry after the twenty-fourth
+cannot exist and why the thirtieth is the last working day of the month.** Therefore the twenty-fourth is
+a Thursday, the thirtieth a Wednesday, **and the first of next month a Thursday, so JUNE'S THURSDAYS ARE
+THE FIRST, THE EIGHTH, THE FIFTEENTH, THE TWENTY-SECOND AND THE TWENTY-NINTH.** **This batch runs the
+twenty-first to the thirtieth of May and it contains exactly one Thursday, the twenty-fourth, and the men
+are not due on that wall again until the first of June, which is Chapter 211.** **The May card's last
+line reads AND THE SEVENTH OF NEXT MONTH and is six days out, and Chapters 201 and 202 fix that on the
+page: it is the line that tells the men when to come back and the card turns over before they do.**
+
+**CHAPTER 191's PRINTED PREMISE IS NOW REPAIRED ON THE PAGE AND IS CANON. Chapter 191 says the
+twenty-seventh of June is not a working day, so the schedule goes up on the twenty-sixth, and the
+derivation above makes the twenty-seventh a Tuesday, which would have made both dates ordinary working
+days. Chapter 201 now prints the reconciliation in his mouth, in the landing, immediately after the June
+thursdays are derived: the schedule goes up the working day before the certificate, the twenty-seventh is
+a Tuesday, **and the Office does not sit on the twenty-seventh of a month, and never has, and there is
+nothing about it on a card.** Both sentences are now true at once. **The reason is institutional and not
+calendrical and it must be used again if the twenty-sixth is ever explained: the Office does not sit on
+the twenty-seventh.** The date does not move.
 
 **WHAT THIS BATCH SPENT, AND WHAT IT BOUGHT:** an option closed (Sun Meiling's row, forever) · a bill
 moved from a kitchen into a public return (Marguerite's, and it is in a woman's handwriting) · a woman
@@ -706,7 +721,7 @@ Volume 5's five are **205, 214, 228, 241 and 249**, and the gaps are **197 → 2
 short gaps in the book are still the two inside Volume 1. **Chapter 214 is Petra Ilyin's first scene and
 is immovable, and it is Volume 5 Batch 0002's.**
 
-**Ch 205 is written at 3,553 words, inside the 2,600–3,900 scene band, and it is Ines Duarte's.** Its
+**Ch 205 is written at 3,701 words, inside the 2,600–3,900 scene band, and it is Ines Duarte's.** Its
 ground, hand, name-exchange and aftermath are all new: **a flat on Lantern Row two floors above a
 laundry, eight feet wide, the household's whole record laid out on her own floor in date order in her
 own hand, no lamp on it, the lamp off at the end, and her last act is that she copies all twelve

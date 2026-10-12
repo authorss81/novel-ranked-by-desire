@@ -24,15 +24,30 @@ every block below it on every point it touches.**
   OF NEXT MONTH; the next Thursday after the twenty-fourth is the first of next month, not the seventh.
   **This is a reconciliation, not a contradiction: Ch 181's derivation of the month's length rests on
   the fourth entry, and neither Ch 181 nor Ch 190 asserts the last line is correct.**
-- **Chapter 191's printed premise that the twenty-seventh of June is not a working day is NOT SUPPORTED
-  BY THE DERIVATION and no chapter in or after this batch may repeat it or use it to explain the
-  twenty-sixth.** The date does not move. Ch 199 and Ch 210 print the two dates without the reason.
+- **MAY HAS THIRTY DAYS AND NO THIRTY-FIRST.** Printed at Ch 181, restated in Ch 201's mouth twice, and it
+  is load-bearing: it is why the card's entry after the twenty-fourth cannot exist, why the men are next
+  due on the first of next month, and why the last working day of the month is the thirtieth.
+- **CHAPTER 191'S PRINTED PREMISE IS REPAIRED ON THE PAGE IN CH 201 AND IS NOW CANON.** Ch 191 says the
+  twenty-seventh of June is not a working day, so the schedule goes up on the twenty-sixth; under the
+  derivation the twenty-seventh is a Tuesday. **Ch 201 now prints both, in his mouth, in the landing,
+  right after the June Thursdays are derived: the schedule goes up the working day before the
+  certificate, the working day before it is the twenty-sixth, the twenty-seventh is a Tuesday, and the
+  Office does not sit on the twenty-seventh of a month and never has and there is nothing about it on a
+  card.** The reason is institutional and not calendrical. **Any later chapter that explains the
+  twenty-sixth must use that reason and not the weekday.** The date does not move.
 - **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Thirty-seven
   days past the twentieth of May; twenty-seven of them are this batch.
 - **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0005.** Days elapsed from the
   twenty-seventh of April, sixty less that. **Batch 0005 closed at 23/37 on the twentieth. Batch 0001:
   24/36 (201) · 25/35 (202) · 28/32 (202, Sun Meiling, quoting the twenty-fifth) · 31/29 (208) ·
   32/28 (209) · 33/27 (210).** Chapters 203 to 207 print no countdown and that is deliberate.
+- **THE DISTINCTOR'S CARD CAME BACK THE MORNING AFTER THE TWENTY-THIRD (Ch 205).** Kolb wrote on it on the
+  evening of the twenty-third and it went down the sixty-one steps and into an intake at the end of that
+  week; **Ines Duarte had it read back to her in a corridor the next morning by a woman who would not
+  give her name.** The chapter no longer names a date for it and must not.
+- **THE CERTIFICATE IS FIFTY-THREE DAYS OFF THE FOURTH OF MAY (Ch 207).** Printed by Tessa Okonkwo in
+  that clinician's arithmetic and it is the batch's interval from the schedule to the certificate: **four
+  days left in a thirty-day May, then twenty-seven days of June.**
 
 ### Mechanics now on the page — CANNOT CONTRADICT
 
@@ -56,7 +71,11 @@ every block below it on every point it touches.**
   as **THE HOLDER OF THIS BOOK ON THE ANNUAL SITTING, WHOEVER THAT IS**, because the second line passes
   the examination on death, resignation or replacement and the form has no box for a woman who does not
   exist yet. **It is a public filing. It is read by the Exchange and by whoever buys the book next, and
-  the broker cannot un-enter it.**
+  the broker cannot un-enter it.** **A quarterly return is due on the last working day of a month and
+  every broker in the city lodges one on the last working day and not one of them lodges one early;
+  Marguerite lodged on the twenty-fourth, six days early, and had the north desk to herself.** The desk
+  opens at nine, there are four people at it and two of them are clerks, and it reads back everything
+  that is lodged.
 - **A ROLL KEPT AT PREMISES IS NOT AN INSTRUMENT AND HAS NO FORCE (Ch 202, reaffirmed).** Nothing on
   the wall can be requisitioned, certified or cited. **A standing column left empty in one's own hand on
   that board is neither a forgery nor a preference, and no office in this city will send anybody for it
@@ -67,6 +86,15 @@ every block below it on every point it touches.**
   card may ask four questions; three are the district's and **the fourth comes off the same sheet under
   the same heading and is not hers.** She does not fill a silence; she waits, and in four minutes of
   waiting she works out a great deal.
+- **THE THREE FIGURES ON THE THREE CARDS, AND WHICH IS WRONG (Ch 202, 205).** **The tenth: five names and
+  two spaces. The eleventh: six names and one space — this is the wrong one, and Ch 202 already says so,
+  because the man read the board the way a man reads a page and counted straight through the rule that
+  went through the sixth row on the second of May. The twenty-second and the twenty-third, both in
+  Kolb's hand and given by the house: six names and two spaces, which is what the wall says.** The
+  household itself carried the wrong five-and-two for four days before the twenty-second. **The roll did
+  not change between the tenth and the eleventh; it changed on the second of May, eight days earlier,
+  and after that it can honestly be counted three ways by three people doing their jobs properly.** Any
+  later chapter that repeats one of these cards must keep which one is wrong.
 - **THE ROLL ON THE LANDING (Ch 209).** Seven ruled rows. **Row six struck, dated the second of May,
   initialled, WITHDRAWN BY THE MEMBER, in Ines Duarte's hand. Row seven, which was Sun Meiling's, now
   carries SUN MEILING in pencil in her own hand, dated the twenty-ninth, with three lines under it:

@@ -12,7 +12,7 @@ Then six lines, numbered, one to six, and beside each of them three things, and 
 
 One. Ines Duarte. Rank two. Instrument: the head's assumption of members, the nineteenth of this month, and the certification schedule of the fourth, page two.
 
-Office held: the audit division of this city, in which she is a rank-two auditor. He did not have to be told to write that. She wrote it on a card in a district clerk's hand on the twenty-third, and the clerk's card is in an intake in Cobb Street, and he read it on the twenty-fifth in a flat on Lantern Row out loud over a kitchen table.
+Office held: the audit division of this city, in which she is a rank-two auditor. He did not have to be told to write that. She wrote it on a card in a district clerk's hand on the twenty-third, and the card is in an intake in Cobb Street, and on the twenty-fifth she read the whole of it out loud on her own floor in the flat voice of a clerk and he was in the room and did not have to hold any of it.
 
 Two and three and four were short. Two lines of post and a band each and a service file or a correction or a schedule, and Tessa Okonkwo's instrument said a clinic in the Vestry that has never been funded and did not say why.
 
@@ -82,11 +82,11 @@ Then she went up.
 
 He followed her up about two minutes later because he wanted to see it in the dark, and she was standing at the bottom of the last six steps with her back to the stair rail, which is where she has stood since the fifteenth of April.
 
-The light came across the stair window and stopped about two inches above the seventh row, where it had stopped every evening since the thirtieth of April, and the seventh row was in the two inches of dark under it, and in the dark in pencil, in her hand, was her name and the date and three lines underneath it.
+The light came across the stair window and stopped about two inches above the seventh row, where it had stopped every evening since the thirtieth of April, and her name was in the two inches of dark under it in pencil, in her hand, with the twenty-ninth of this month under it and three lines under that.
 
-SUN MEILING. THE TWENTY-NINTH OF THIS MONTH. I ASKED FOR THIS ROW AND I FILLED IT AND IT IS MINE BY ASKING.
+He did not read it. He had read it three times the night before and it said the same thing it had said then, and a man who goes up sixty-one steps to look at a sentence he has got by heart is a man who has come up here to be seen.
 
-Above the rows, in a heavier line, THE HEAD OF THE HOUSEHOLD, and under it a name in a man's hand dated the twelfth of May.
+Above the rows, in a heavier line, THE HEAD OF THE HOUSEHOLD, and under it a name in a man's hand dated the twelfth of this month.
 
 Six names. One head. No spaces anywhere on that wall for the first time since the second of this month.
 
@@ -106,7 +106,7 @@ Then she said, "Do not come up here again tonight. Come up tomorrow night when t
 
 She went down.
 
-He went to work at seven and did the second floor and the third and the fourth and the fifth and the sixth, and he was twenty minutes late, and there is not one instrument in this city that records the hour a washroom attendant arrives.
+He went to work at seven and did the second floor and the third and the fourth and the fifth and the sixth, and he was twenty minutes late, and nothing in this city was ever going to write down the hour he arrived.
 
 In an office two floors above that building, on the last working day of the month, a woman who had put his premises on a sheet on the twenty-first read a slip with a number on it and a tick beside the sixth line and then, because the rule she worked under was that an officer does not certify a household she is a member of, opened a second book.
 

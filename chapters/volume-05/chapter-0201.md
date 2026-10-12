@@ -44,6 +44,22 @@ The landing was quiet for a moment.
 
 "The card is right four times out of five and wrong on the line that never gets read," he said. "The line that tells them when to come back. They have never had to read it, because the card turns over before they do. Write that down or do not, it is not going to be the thing that ends anybody."
 
+"There is one more date in this and I have not said it out loud yet."
+
+"Say it."
+
+"The certificate is dated the twenty-seventh of June. The schedule goes up the working day before it, and the working day before it is the twenty-sixth, because the twenty-seventh is a Tuesday and the Office does not sit on the twenty-seventh of a month."
+
+"It does not sit on it."
+
+"It does not. There is nothing about it on that card and nothing about it in nineteen years of cards, and I did not believe it either until somebody said it out loud to me at a counter and I came home and counted it twice to be sure of it."
+
+He put his hand flat on the rail.
+
+"The schedule goes up on the twenty-sixth and the certificate is dated the day after this building shuts, and there is not one person in that office who will ever have to be standing at a counter on the day it issues."
+
+"That is why it has never once felt like a deadline," said Sun Meiling. "It is going to start feeling like one today."
+
 The post had come up over the chop-house before he got to the door and there were three things in it and two of them were for the women.
 
 The third had his name on it.
