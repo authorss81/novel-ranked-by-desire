@@ -65,7 +65,36 @@ partner dies. No partner leaves without explaining. Ferreira lives. Sowe lives a
 condemned on the page. No new final enemy.
 ---
 
+# New canon — Batch 0002 (Chapters 11–20)
+
+Appended. Nothing above this line has been altered except the Batch 0001 block below is preserved.
+
 # New canon — Batch 0001 (Chapters 1–10)
+
+## Mechanics now on the page
+
+- Public attested deeds score; quiet acts score nothing. A deed is scored when a second person stands in the marked witness box and attests it. A man may attest his own hands. Rank five is 8,000 grains a week; Lin Hao entered the batch at 4,012.
+- Ch 15: one witnessed rescue at the interchange scores 400 grains in front of two hundred witnesses, moving 4,012 to 4,412. Permanent and public.
+- Ch 19: the attestation forces a re-read; his four-year office aggregate held pending a witnessed deed applies at once (+3,529) to 8,141. White tile, rank five, held accounts, private office, right to be asked before requisitioned. Rank four throughout until Ch 19.
+- Ledger: 14/2 at Ch 10 → 16/3 at Ch 13 (two new tram lines) → 16/3 at Ch 15 (three spent at once, one keeping track) → 19/3 at Ch 18–19 (mapped). System messages in Ch 13, 15, 19 only.
+- Geography: unrecorded good runs in one arc between the yards and the free clinics, four times a day. Accrual is proximity; the long ride feeds it deliberately.
+- Nine turned lines in one season is a triangulable pattern; a good analyst can find the source address. Beatrix states it on the tram roof.
+
+## New named people and places
+
+- Beatrix Halm, 27, signal operator Ferrier line arcade car four days a week, two rooms over the depot store on Yard Row, deaf in right ear since the Veil, four-year headache diary now Lin Hao's intelligence source. No age stated in prose.
+- Ola Bright confirmed as Nadia's sister, Vestry kitchens four afternoons plus Friday supper run, clinic rota three mornings, third-floor flat above chandler's, forty-one page book plus four predecessor sheets.
+- Runa Sato, 29, Field operative, first appears Ch 20 corridor with sealed order and file; looked at him before Rhee's door.
+- Witness box: marked square with rail and stamp at the plate office counter. Exchange permissions board: hearings, machine hours, district choice.
+
+## Dates
+
+- Batch runs 18th to 27th; audit opens Monday the 19th; Board repaint Thursday. All other references by interval and date only, per calendar warning. No weekday arithmetic used.
+- Emrys Vaz rota line deleted on the 22nd, re-posted to sub-levels. Audit deferred nine days in Ch 20, buying the Branch a fortnight.
+
+## Rationed constructions
+
+- None spent in this batch. Reservoir never spoken. No feeder thanks him; Halvard pattern holds (Ch 15: all three complain or joke, none thank).
 
 Appended. Nothing above this line has been altered.
 

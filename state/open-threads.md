@@ -32,6 +32,17 @@
 | B9 | **The audit opens Monday the nineteenth.** Eight days away at the close of Chapter 10. Nine of ninety-one go down. Lin Hao knows he is one of the nine. | Open — Batch 0002's clock. |
 | B10 | **Ines cannot file what she knows.** She has an illegal premises register requisition at four in the morning and Hester Quill has written her face down. | Open. Her exposure is now on paper in two places. |
 
+## Opened by Batch 0002
+
+| # | Thread | Status at end of Ch 20 |
+| --- | --- | --- |
+| B11 | **Beatrix's four years.** Turned-line geography of the Ferrier arc, plus one name in the back already on a staff register. | Open — his only uninterceptionable source, bought with a promise to spend on people. |
+| B12 | **Rank five held.** 8,141 grains, white tile, private office, right to be asked. First tile move in his life. | Open — what five buys against the draw-down and the Field. |
+| B13 | **Tobias filed to Rhee.** Discrepancy reported honestly out of branch loyalty; Tobias does not know what he handed over. | Open — did the Field order predate Tobias? |
+| B14 | **Rhee's offer.** Portable merit source as stabilisation for nine thousand people 980 short per head. Audit deferred nine days. | Open — employment vs ownership; his only clock spent. |
+| B15 | **Runa Sato's sealed order and file.** Looked at him before Rhee's door. Wax seal as on his brother's card. | Open — who wrote it, how much true, who chose him. |
+| B1–B10 | Carried. Colm still locked and frightened; eleven untouchable lines now nineteen with map; Nadia louder (fourth minute, charging rent joke); Ola's book left with her plus Church notes already out; Ding alive unnamed in ledger; Bernt still down, Ditta on benches; gap unanswered; Tessa box waiting; audit deferred not lifted; Ines exposure unchanged. | Open. |
+
 ## Deliberately unanswered at the end of Batch 0001
 
 Who filled the account before Wednesday. Why Nadia Ferrous had already felt a cold minute before Chapter 4.
