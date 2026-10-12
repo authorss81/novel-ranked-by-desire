@@ -2,9 +2,9 @@
 
 The cabin at the far end of the Ferrier line is a room eight feet by eleven with a window on three sides and a stove in the corner and a frame of thirty-one levers along the north wall, and it is where the line ends and does not so much stop as run out of reasons.
 
-She was in it at ten past ten at night when he came up the outside stair, which is a stair a person climbs on the outside of a building because the inside of it is forty-one steps of a house over a chop-house.
+She was in it at ten past ten at night when he came up the outside stair, which is a stair a person climbs on the outside of a building because the inside of it is three floors of a house over a chop-house, and a person on a nine-year night shift does not take three floors for a signal cabin.
 
-"Shut the door," she said. "All of it. There is no draught in here at eleven and there is a draught in here at nine, and I am not working a cabin with a draught in it."
+"Shut the door," she said. "All of it. There is no draught in here at night and a draught in here by morning, and I am not working a cabin with one in it."
 
 He shut it.
 
@@ -14,7 +14,7 @@ She had the lamps on and the block instrument ticking over on the shelf and a le
 
 He sat down.
 
-"She put her hand flat on the frame, not on a lever, on the frame.
+She put her hand flat on the frame, not on a lever, on the frame, and kept it there, and a hand on a signal frame is how a signal operator looks at a line.
 
 "It is thirty-one levers and it is a telephone made out of iron. Every one of them is a piece of line. I put one down and a signalman at Bellhouse sees a lamp go and reads a letter. That is the whole of it and it has been the whole of it since before the Veil.
 
@@ -54,15 +54,15 @@ The clerk went down the outside stair.
 
 She shut the door.
 
-Then she stood in front of the frame with her hands behind her back and looked at the thirty-one levers and did not say anything for about a minute and a half.
+Then she stood in front of the frame with her hands behind her back and read it with the flat of one hand the way she has read it for nine years, which is not with her eyes, and did not say anything for about a minute and a half.
 
 "Say the thing you have worked out," she said.
 
 "I have not worked anything out. I have been in this cabin for ten minutes and I have not done anything at all."
 
-"You have done about nine seconds' worth and I have watched you do it." She turned round. "He was kind about it. He gave me the folder and did not open it, and he has known about that book for two years and has never asked, and he said one sentence of his own that was not in the instruction, and he said it so that I would know it was his own.
+"You have done about nine seconds' worth and I have watched you do it." She turned round. "She was kind about it. She gave me the folder and did not open it, and she has known about that book for two years and has never asked, and she said one sentence of her own that was not in the instruction, and she said it so that I would know it was her own.
 
-"That is the kindest thing anybody has done for me in about two years and it has been done by a man in a company coat who is frightened, and it is going to cost me a book."
+"That is the kindest thing anybody has done for me in about two years and it has been done by a woman in a company coat who is frightened, and it is going to cost me a book."
 
 She had not raised her voice once in four months and she was not raising it now.
 
@@ -86,9 +86,9 @@ She turned round.
 
 "The true reason is that I cannot write it. I have sat down nineteen times with the pen and I can feel the line going somewhere out in the city and I cannot get it down on the page.
 
-I have been writing it down since the June before last and it is the only record I have ever made that was mine, and since the second of this month I have been unable to do the one thing it is for,
+I have been writing it down since the June before last and it is the only record I have ever made that was mine, and for three weeks now I have been unable to do the one thing it is for,
 
-"and the reason I am unable to do it is that there is a man asleep in a room in Ferrier Street with four of something broken in his side that I found in a hall in March, and I have not been able to write a line since the end of that month."
+"and the reason is that there is a man asleep in a room in Ferrier Street with four of something broken in his side that I found in a hall in March, and I have not been able to put a line down about anything since the seventeenth because of it."
 
 She said it flat, in the register of a signalman reading a lamp.
 
@@ -126,7 +126,7 @@ She was not wearing a great deal and she did not take long over it.
 
 Then she came down onto him.
 
-She had not said that she was going to and he had not asked and he understood afterwards, about an hour later, going back over it, that she had done it because she had been in charge of a frame of thirty-one levers for nine years and a cabin is a room where a person who knows the room wins.
+She had not said that she was going to and he had not asked and he understood afterwards, about an hour later, going back over it, that she had done it because she had stood at a frame of levers for nine years and a cabin is a room where a person who knows the room wins.
 
 She told him what she was doing about nine seconds before she did it every time, and not because she was being careful. She was being accurate.
 
@@ -178,7 +178,7 @@ She stood in the middle of the cabin with it in both hands for about half a minu
 
 "I know you are not. That is the whole of what I have wanted to say about you since the first of April and I am not going to make a speech about it at half past midnight in a cabin." She held it out flat.
 
-"I am going to open it at the front and I am going to let you have about four seconds of the first page and then I am going to burn it, and the four seconds are because you have been in this room for an hour and a half and you have not asked me one single question about it in seven weeks, and four seconds is what that is worth and it is more than most people get."
+"I am going to open it at the front and I am going to let you have about four seconds of the first page and then I am going to burn it, and the four seconds are because you have been in this room for an hour and a half and have not asked me one single question about it since the seventeenth, and four seconds is what that is worth and it is more than most people get."
 
 She opened it at the front and held it out.
 
@@ -216,4 +216,4 @@ She shut the stove door and latched it.
 
 She opened the door.
 
-The river was on it and there was wind off the water for the first time since six, and thirty-one levers stood along the north wall with the road clear for the last two miles because there was nothing on it, and it was the quietest he had ever heard her be, and she went down the outside stair ahead of him with her hands in her pockets and she did not say one word on the way down.
+The river was on it and there was wind off the water for the first time since six, and the frame stood along the north wall with the road clear for the last two miles because there was nothing on it, and it was the quietest he had ever heard her be, and she went down the outside stair ahead of him with her hands in her pockets and she did not say one word on the way down.

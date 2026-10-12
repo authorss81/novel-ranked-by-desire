@@ -71,7 +71,7 @@ kitchen table, six on the certificate, six in a district book. *nine people* thr
 operators in the car, which the prompt requires. *eleven people* at 185 is *two hundred and eleven people*
 in the Cobb Street hall, which is Ch 145. *six lines* at 187 is six lines under a form number. *six women* at
 187 is the six the certificate binds. *six women* at 182, *six people* at 189 is six people in a kitchen.
-*nine people* at 190 is nine people who watched a clerk read a board. **All fourteen are load-bearing and
+*eight people* at 190 is eight people who watched a clerk read a board, being six women, him and the clerk. **All fourteen are load-bearing and
 none of them is an enumeration of the household without a list named.**
 
 ## What the gate output does not tell you
@@ -84,7 +84,7 @@ number and none of which uses a banned word:
 - Ch 187 said the women had spent **five days** behind something — the roll went up on the thirtieth, and 30 April to 7 May is **seven**
 - Ch 190 said the pale rectangle had been bare **six weeks**, three times, in three places — 26 April to 10 May is **fourteen days**, and a fortnight is the exact answer and six weeks is neither the answer nor a plausible rounding of it
 - Ch 189 gave **a fortnight and a half** for three weeks of a missing book, and **the fourteenth of April** for **the thirteenth**, which is Ch 133 and had to be read on the page rather than subtracted
-- Ch 185 said **about fifty days** where fifty-three is the answer and Ch 182 said **about fifty days** where fifty-five is
+- Ch 185 said **about fifty days** where fifty-two is the answer and Ch 182 said **about fifty days** where fifty-five is
 
 **It did not see the worse thing, which happened during the batch rather than in it.** The pass that broke
 paragraphs over ninety words used a sentence regex that required a full stop followed by whitespace, so any
@@ -147,3 +147,35 @@ twentieth of May, **which is where the volume ends.** Chapter 194 is the fourth 
 and found to be the fourth rib, Chapter 195 is Ines Duarte's and is named *Nothing Said At All*, Chapter 197
 is Marguerite Vale's scene in the Exchange sales floor after it closes, and Chapter 199 is the indemnity,
 signed in a room where the whole thing is a form.
+
+## Review repair, second pass
+
+**A reviewer read the ten chapters in full and returned: *do not ship as closed*. The prose was not the
+problem — it was called the strongest batch so far in dialogue and in the women holding their own ground.
+The problem was arithmetic, and it was in the gate file as well as in the prose.** Five hard continuity
+errors and five major ones; **three of them sat in rows of this file and of `state/open-threads.md` stamped
+*Correct*.** All ten are repaired. **Nothing was restarted, no chapter was rewritten from the top, no
+scene was cut, and no planned beat moved.**
+
+The gate output above is now stale in three places and has been amended rather than left to mislead the
+next run: the *nine people* hit at 190 is **eight**, the Ch 185 figure is **fifty-two**, and the eight-gram
+baseline is **657**, re-derived from the files rather than quoted from an earlier pass.
+
+**The process finding is the one that matters and it is not about prose at all.** `state/open-threads.md`
+Gate A marks a row *Correct* by asserting that its subtraction works, and in this batch **the Ch 181 row
+for the bare rectangle had subtracted to the third — which is Chapter 183's date — because the row beneath
+it was copied rather than recomputed.** A reader of that table cannot tell a checked row from an assumed
+one, and Batch 0005 opens on the eleventh of May and will inherit every number in the table as canon. The
+table has been repaired row by row, the arithmetic in the Ch 190 row that read *60 − 10 = 50* is now
+*27 April → 10 May = 13, and 60 − 13 = 47*, and the countdown is one convention written once at the head
+of the file so that a writer cannot re-derive it four ways.
+
+**The second process finding stands and has not gone away: the paragraph-splitting script that deleted nine
+sentences left no trace in any mechanical gate.** The regression test for this batch is still the
+sentence-set diff against the copy taken before that script ran, and the repair was checked against the
+same method — every changed file's sentence set was compared against `HEAD` rather than trusted.
+
+**The four attacks on the batch itself — whether 183 is doing two chapters' work, whether 186 is a refusal
+or a victory, whether the roll is still doing work after 190, and whether the household has enough left to
+lose before 199 — are unchanged and are not repaired here. They are questions for the writer of Batch 0005
+and they are the right four.**

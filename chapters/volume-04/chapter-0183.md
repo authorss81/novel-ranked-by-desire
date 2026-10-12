@@ -94,11 +94,11 @@ She put both hands flat on the rail.
 
 "For four years I could not keep anything. Not a document, not a name, not a date, not a thing a person told me in a corridor. It made me the best counter-forensics officer in this city and it made me a woman with no friends at all, and I have never once minded, because the whole of what I am good at is knowing where an edit is.
 
-"And at the end of March a leak went four people deep out of a building and three of them were told and not one of them broke it, and it came out of a form rather than out of a mouth, and I have been waiting seven days for the bill and it has not come."
+"And at the end of March a leak went four people deep out of a building and three of them were told and not one of them broke it, and it came out of a form rather than out of a mouth, and I have been waiting five weeks for the bill and it has not come."
 
 "That was the twenty-eighth," he said. "The notice came up on the twenty-eighth."
 
-"It came up on the twenty-eighth and I have been waiting seven days, and you have been carrying it since the twenty-fourth, and I have been wrong twice and both times in the direction of expecting to be the cause."
+"It came up on the twenty-eighth and I have been waiting five days for that one, and since the end of March for this one, and you have been carrying it since the twenty-fourth, and I have been wrong twice and both times in the direction of expecting to be the cause."
 
 "That was on the twenty-eighth as well," he said.
 

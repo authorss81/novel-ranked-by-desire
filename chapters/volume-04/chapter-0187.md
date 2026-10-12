@@ -54,7 +54,7 @@ The kitchen let that sit.
 
 "So the clock is running either way," said Marguerite Vale.
 
-"The clock is running either way and the certificate lands at the end of it whether we are behind a thing or standing in the open." Runa Sato unbuttoned her coat. "Nine days of the sixty have gone. Fifty-one of them are left, and Doyle wrote both numbers on the front of the tray in front of me, which I did not ask him to do and which I am going to think about for a long time."
+"The clock is running either way and the certificate lands at the end of it whether we are behind a thing or standing in the open." Runa Sato unbuttoned her coat. "Ten days of the sixty have gone. Fifty of them are left, and Doyle wrote both numbers on the front of the tray in front of me, which I did not ask him to do and which I am going to think about for a long time."
 
 Nadia Ferrous said, "Then say the other thing, because you have been round it twice, and it is the other thing or it is not worth saying."
 
@@ -78,13 +78,13 @@ She did not look at anybody.
 
 "It is mine. I have held an entitlement in this city for nineteen years and I have never once used it on a house and I have thought about using it on a house more times than anybody in this room would find interesting.
 
-"So a certificate at the end of fifty-one days binds six women to a guild broker's standing, and puts the Vant in a position it has not been in for nineteen years, and it happens whether I do anything about it or not, because the rule does not ask me."
+"So a certificate at the end of fifty days binds six women to a guild broker's standing, and puts the Vant in a position it has not been in for nineteen years, and it happens whether I do anything about it or not, because the rule does not ask me."
 
 The kitchen did not move.
 
 "You have not asked her to do anything," he said.
 
-"I have not asked her to do anything and I have just told her that there is something she can do that not one person here has asked her to do, and I would like it recorded that I told her at a kitchen table at ten past one in the afternoon with a certificate that does not issue for fifty-one days in front of it." Marguerite Vale picked her cup up again.
+"I have not asked her to do anything and I have just told her that there is something she can do that not one person here has asked her to do, and I would like it recorded that I told her at a kitchen table at ten past one in the afternoon with a certificate that does not issue for fifty days in front of it." Marguerite Vale picked her cup up again.
 
 "And I am not going to be thanked for the information and I am not going to be talked out of it, and I have priced it and the price is not free and it is not me who pays it, and I have known that since I was thirty-one."
 
@@ -92,6 +92,6 @@ He came in at about five and did the washrooms and got the half-hourly and walke
 
 The card by the time clock on the ground floor of the Fourth Branch said that the men were coming on the tenth, which was three days off, and the tenth was the second Thursday they had printed on that card and he had checked it twice on the first and it had not moved.
 
-Nine days of sixty gone. Fifty-one left. And on the rail at the junction, in the Exchange's own type, in a ruled margin with a heading over it, a sentence that had not been there on the fourth of this month and was there on the seventh, and which said that where a head carries no entitlement, a household carries none, and that no permission may be sold to a household on the account of any member of it.
+Ten days of sixty gone. Fifty left. And on the rail at the junction, in the Exchange's own type, in a ruled margin with a heading over it, a sentence that had not been there on the fourth of this month and was there on the seventh, and which said that where a head carries no entitlement, a household carries none, and that no permission may be sold to a household on the account of any member of it.
 
 Six women. One head. And the whole of what any of them had bought in the last five days was a line of type with a heading over it, printed by people who had never met one of them and were not required to.

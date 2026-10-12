@@ -8,7 +8,7 @@ She had her hand on the rail at the eighth.
 
 "Take me off it," she said.
 
-The landing did not answer for about four seconds.
+The landing did not answer him.
 
 "Not this evening," said Beatrix Halm. "This evening it is a thing I have said in a room. I want it struck tonight, in ink, with the date on it, and I want one of you to initial it, and I do not care which one of you and I would rather it was not him."
 

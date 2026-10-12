@@ -114,7 +114,7 @@ He got up when she was through the door and got as far as the landing.
 
 "You left me out," he said.
 
-"I left you out of a counter in the Reading for two hours and forty minutes," she said, "and I have never once done anything in this house on purpose that was not for you, and you are going to have to sit with that for a day before I give you anything about it."
+"I left you out of a counter in the Reading for an hour and fifty minutes," she said, "and I have never once done anything in this house on purpose that was not for you, and you are going to have to sit with that for a day before I give you anything about it."
 
 "Sit with it," he said.
 
@@ -124,7 +124,7 @@ He had heard that sentence in almost the same words from a woman in a nine-foot 
 
 She went to the kitchen.
 
-He had been left out of a room for two hours and forty minutes and he had been in a building he cleans every working morning for four years, and the fourth floor of that building had a bench with a grey cloth over an instrument on it and an empty slot in a rack of nameplates, and none of that had anything to do with anything, and he had thought about it for two hours and forty minutes.
+He had been left out of a room for an hour and fifty minutes and he had been in a building he cleans every working morning for four years, and the fourth floor of that building had a bench with a grey cloth over an instrument on it and an empty slot in a rack of nameplates, and none of that had anything to do with anything, and he had thought about it for an hour and fifty minutes.
 
 She had wanted for four months to be the one woman in that house who was not on a piece of paper, and she had got that, and the price of it was a page in a district file with four hundred words and a date and an hour on it,
 

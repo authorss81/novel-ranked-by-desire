@@ -12,9 +12,21 @@ read away; you do not pay for it on every prompt.
    re-open any of them; the reasoning is in the archive.
 3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 197.
 
-**Last written:** **Volume 4, Batch 0004 — Chapters 181–190 (The Five Names), written and closed. Volume 4
-is open, one batch of ten chapters remains, Batch 0005 opens on the eleventh of May and ends the volume,
-and Chapter 197 is the next scene.**
+**Last written:** **Volume 4, Batch 0004 — Chapters 181–190 (The Five Names), written and closed, and
+repaired once at review. Volume 4 is open, one batch of ten chapters remains, Batch 0005 opens on the
+eleventh of May and ends the volume, and Chapter 197 is the next scene.**
+
+**ON THE REPAIR, IN ONE PARAGRAPH, BECAUSE IT CHANGES A NUMBER BATCH 0005 WILL INHERIT.** The certificate's
+countdown is **exclusive — days elapsed from the twenty-seventh of April, and sixty less that** — and it is
+now **8/52 on the fifth, 9/51 on the sixth, 10/50 on the seventh, 13/47 on the tenth. Batch 0005 opens on the
+eleventh at fourteen gone and forty-six left.** It was written as 53 → 51 → 51 → 50 and was wrong at every
+step. Also repaired: the pale rectangle is bare at **five** days on the first and not seven; Ch 183's bill is
+**five days** old and not seven; Ch 186's counter is **an hour and fifty minutes** and not Ch 187's two
+forty, which Ch 188 now reaches exactly because he is called at half past ten and not at eleven minutes past;
+Ch 189's records clerk is a **woman** throughout; Ch 189 gives **one** date for when Beatrix stopped writing,
+the seventeenth of April; and Ch 190's roll is **seven rows, five names, two spaces** in the same shape as
+Ch 180 and `state/continuity.md`, where it already was. **Nothing was restarted, no scene was cut, and no
+planned beat moved.** The full record is at the foot of the Batch 0004 block in `state/open-threads.md`.
 
 Ten chapters, one a day from the first to the tenth of May: **a card by a time clock printed in full that
 fixes the month at thirty days, and a second form up the stairs that is not a question but a request for a

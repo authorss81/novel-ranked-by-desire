@@ -28,6 +28,12 @@ it touches.**
   twenty-seventh of April: **three days to the end of April, thirty days in May, twenty-seven days in June.
   The certificate is dated the twenty-seventh of June**, which is thirty-eight days past the end of the
   volume and therefore cannot arrive in Chapter 200.
+- **THE COUNTDOWN IS EXCLUSIVE AND IT IS ONE ARITHMETIC, NOT FOUR FIGURES.** Days are counted from the
+  twenty-seventh of April and **sixty less the elapsed days** is what is left. **5 May: eight gone, fifty-two
+  left** (185). **6 May: nine gone, fifty-one left** (186). **7 May: ten gone, fifty left** (187).
+  **10 May: thirteen gone, forty-seven left** (190). **Batch 0005 opens on the eleventh of May: fourteen
+  gone, forty-six left.** A chapter that says "fifty" on the tenth is wrong and was wrong once; see the
+  repair record in `state/open-threads.md`.
 
 ## Mechanics now on the page — CANNOT CONTRADICT
 
@@ -90,7 +96,8 @@ it touches.**
 - **NADIA FERROUS'S PAGE NINE (185).** An address and a head, ruled by hand because page nine has no line for
   one, then her own name against the premises, then a signature and an hour, written standing up in a car at
   the change of shift in ninety seconds in front of nine operators, and read out aloud to them.
-- **THE PALE RECTANGLE (183, 190).** Bare at seven days on the third and at fourteen days on the tenth.
+- **THE PALE RECTANGLE (181, 183, 190).** Bare at **five days on the first**, at seven days on the third,
+  and at fourteen days on the tenth, all from the twenty-sixth of April.
   **There is no band in this city that has gone and is not filled.** The slot is held open by the Office not
   having decided whether a man left a building or was moved, and Anneke Roos's answer is still *ceramic*.
 
@@ -118,6 +125,12 @@ it touches.**
 - **Beatrix Halm's book is eleven months old and is burned.** She began it in the June before last. It has
   no number on it, it is not in the inventory, and it went into a stove at the far end of the Ferrier line
   in about four minutes on the ninth of this month. **She has three weeks of nothing in her head instead.**
+  **The date she stopped writing is the seventeenth of April and it is the only date she gives for it**, in
+  Ch 182 and in Ch 189, and it is what makes Ch 189's "three weeks" exact. She found out about his ribs on
+  the thirteenth (Ch 133) and could not write from the seventeenth. **Ch 189 is also the scene in which the
+  gift in `bible/characters.md` §2 is stated on the page in its plainest form — she can feel where a piece
+  of line is before the lamp goes, which is canon, not a new faculty, and it is what stops her writing the
+  book and not the reason she gives.**
 - **Wren Kallo's name is not on the page.** She has it, she says she has it, and she does not say what it is.
 
 ## What this batch did NOT open

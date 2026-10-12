@@ -46,8 +46,11 @@ the eleventh.
 **Countdowns printed, each with its subtraction on the page:** 181's **six days**, 1 + 6 = **the seventh**,
 and the subtraction is said out loud twice. 183's **seven days** for the bare rectangle, 26 April → 3 May.
 185's **eight weeks** for Nadia's service file, the tenth of March → the fifth of May = 56 days. 186's
-**nine days of the sixty**, 27 April → 6 May, with **fifty-one** left. 187's **fifty-one** again, seven
-days further on. 190's **fifty days**, 60 − 10, and the full certificate arithmetic.
+**nine days of the sixty**, 27 April → 6 May, with **fifty-one** left. 187's **ten days and fifty**, one
+day further on. 190's **thirteen days gone and forty-seven left**, and the full certificate arithmetic.
+**The countdown is stated on the exclusive convention — days elapsed since the twenty-seventh of April, and
+sixty less that — and it is printed at 185 (8/52), 186 (9/51), 187 (10/50) and 190 (13/47). The four
+figures are now a single arithmetic and were not one until this repair.**
 **No chapter prints a countdown to a date it has already passed.**
 
 ### THE CERTIFICATION'S ARITHMETIC, PRINTED AT CH 190 WITH THE WORKING
@@ -168,7 +171,7 @@ anchor, per adjudicated item 62. The anchor-character question is answered in th
 | 181 | **six days, from the first, to the seventh** | the letter's own clock, read out twice in the room | **1 + 6 = 7.** Correct, and the chapter says so twice |
 | 181 | **twenty-one days on the first issue, due on the twenty-seventh** | Ch 156, the sixth of April | printed canon; he had the form in his hand |
 | 181 | **four days** waiting for the district line | the return went in on the twenty-seventh | **27 April → 1 May = 4.** Wray put it in front of him on the 27th at about twenty to nine |
-| 181 | **seven days** for the pale rectangle | the tile came off on the twenty-sixth (Ch 176) | **26 → 3 = 7.** Correct |
+| 181 | **five days** for the pale rectangle | the tile came off on the twenty-sixth (Ch 176) | **26 April → 1 May = 5.** Correct. **THE FIRST PASS, AND THE FIRST REPAIR, SAID SEVEN DAYS. The 7 belongs to Ch 183, which is the third, and this row had been copied from the 183 row below it, which is the failure the gate exists to prevent. Caught by review, repaired here** |
 | 181 | **three weeks** on the landing wall | the pencil sentence of the tenth of April (Ch 160) | **10 April → 1 May = 21 days.** Correct |
 | 182 | **two days** on the wall | the roll went up on the morning of the thirtieth (Ch 180) | **30 April → 2 May = 2.** Correct |
 | 182 | **eleven months** of the book | it began in the June before last | **June → May = 11.** Correct |
@@ -178,7 +181,7 @@ anchor, per adjudicated item 62. The anchor-character question is answered in th
 | 182 | **a fortnight since the thirtieth** to the certificate | 60 − 14 | **30 April + 14 = 14 May**, which is before 27 June. **THE CHAPTER DOES NOT USE THIS FIGURE; it was cut for exactly this reason** |
 | 183 | **seven days** for the bare rectangle | the twenty-sixth of April | **26 → 3 = 7.** Wren says it first, before he does |
 | 183 | **five days** that the eleven establishments have been reading the notice | the notice came up on the wire on the twenty-eighth of April (Ch 178) | **28 April → 3 May = 5.** **THE FIRST PASS SAID NINE DAYS. Corrected** |
-| 183 | **five days** wanting the name | the notice of the twenty-eighth | **28 → 3 = 5.** **THE FIRST PASS SAID NINE DAYS. Corrected** |
+| 183 | **five days** wanting the notice, and **five weeks** for the leak's bill | the notice of the twenty-eighth; the leak asked on the twenty-sixth of March | **28 April → 3 May = 5. 26 March → 3 May = 37 days = five weeks and two.** **THE FIRST PASS SAID NINE DAYS FOR THE FIRST AND SEVEN DAYS FOR BOTH. Corrected at the second repair, which also split the two bills: the notice is five days old and the leak is five weeks old, and she is wrong about both and right about the day** |
 | 183 | **seven days** waiting for the bill | he told her at the rail on the twenty-sixth (Ch 176) | **26 → 3 = 7.** Correct, and it is the seventh day she has spent expecting to be the cause of something |
 | 183 | **seven days from now**, the tenth | the day map | **3 → 10 = 7.** Correct, and she does not do the subtraction |
 | 184 | **the roll is four days old**, twice | the roll went up on the thirtieth (Ch 180) | **30 April → 4 May = 4.** **THE FIRST PASS SAID TWO DAYS IN BOTH PLACES. Corrected** |
@@ -190,30 +193,32 @@ anchor, per adjudicated item 62. The anchor-character question is answered in th
 | 185 | **two days** for the bare rectangle | Wren said on the third that it would still be bare on the tenth | **3 → 5 = 2.** Correct |
 | 185 | **six weeks, then four**, for the slot | the tile came off on the twenty-sixth; nothing on any list since the first of April | **26 April → 5 May = 9 days.** **The chapter says *five weeks* and *it has been five weeks*, which is wrong. Checked and the sentence is on the white-bearded man, who is wrong on purpose because he does not do the sum. Registered here rather than silently corrected, because a painter who has said six weeks twice in a fortnight is a character and not an error** |
 | 185 | **eight weeks** for the service file | the tenth of March, printed canon | **31 + 25 = 56 days = 8 weeks.** Correct, and it is the only arithmetic Nadia does in the chapter |
-| 185 | **fifty-three days** left on the certificate | 27 April + 60 | **5 May → 27 June = 53.** Correct |
+| 185 | **fifty-two days** left on the certificate | 27 April + 60, exclusive | **5 May → 27 June = 52.** Correct. **SAID *FIFTY-THREE* IN THE FIRST PASS AND IN THE FIRST REPAIR, because the day number was used as the interval. 27 April → 5 May = 8 elapsed and 60 − 8 = 52** |
 | 185 | **ninety seconds** in the car, **eleven minutes** in the kitchen, **twenty minutes** to the counter | in-scene | traced |
 | 185 | **about two hundred entries in four years** | service | figure |
-| 186 | **nine days of the sixty, fifty-one left** | 27 April + 60 | **27 April → 6 May = 9, and 60 − 9 = 51.** Both printed and both correct |
+| 186 | **nine days of the sixty, fifty-one left** | 27 April + 60, exclusive | **27 April → 6 May = 9, and 60 − 9 = 51.** Both printed and both correct, and this is the row the convention is taken from |
+| 186 | **an hour and fifty minutes** at the counter | in-scene; she leaves at half past eleven and is back at twenty past one | 11:30 → 13:20 = **1h50m**, printed as such. **THE FIRST PASS PRINTED *TWO HOURS AND FORTY MINUTES*, TWICE, WHICH IS CH 187'S DURATION FOR A DIFFERENT WOMAN ON A DIFFERENT DAY. Corrected. The repetition of the figure across 186, 187 and 188 was the batch's tic and it was also an error, and the two are now separated** |
 | 186 | **four days** at that table | the sheet on the sixth, the table on the second | 2 → 6 = 4, not stated |
-| 186 | **two hours and forty minutes** at the counter | in-scene; she leaves at half past eleven and is back at twenty past one | 11:30 → 13:20 = 1h50m at the counter plus the journey. **THE FIRST PASS PRINTED THIS AS THE QUEUE LENGTH AT THE VESTRY IN CH 188 AND BOTH ARE TRACED TO THEIR OWN SCENES; 188's is 7:50 → 10:11 = 2h21m, printed as *two hours and forty minutes*, which is a floor and an arrival, not a duration. Both are in-scene estimates by a person who is counting, and both are stated as such.** Registered here rather than corrected |
 | 186 | **eleven times wrong, a twelfth**, and a shape since the first of March | canon, Ch 173 and Ch 55 | **the twelfth is this morning.** February is named once and is not put to a number |
 | 187 | **six days**, first to seventh | the letter of the first | **1 + 6 = 7.** Correct |
 | 187 | **seven days** of six women behaving as though they were behind something | the roll went up on the thirtieth | **30 April → 7 May = 7.** **THE FIRST PASS SAID FIVE DAYS. Corrected** |
 | 187 | **ten days** since the return went down | the twenty-seventh | **27 April → 7 May = 10**, against Wray's *about eleven* at Ch 177. **Wray's forecast is a character's estimate and it is ten; it is not corrected into a fact anywhere** |
 | 187 | **five days** since Nadia's page, **three** since Sun's | the fifth and the sixth | 5 → 7 = 2 and 6 → 7 = 1. **THE CHAPTER PRINTS NEITHER; the figures were cut and the substitutions are the fifth and the second** |
+| 187 | **ten days of the sixty, fifty left** | 27 April + 60, exclusive | **27 April → 7 May = 10, and 60 − 10 = 50.** **THE FIRST PASS, AND THE FIRST REPAIR, SAID NINE AND FIFTY-ONE, WHICH IS CH 186'S FIGURE REPEATED VERBATIM ONE DAY LATE, IN THE CHAPTER WHERE HE HAS JUST PROMISED TO DO EVERY FIGURE OUT LOUD. Corrected at the second repair. The countdown is now 8/52, 9/51, 10/50, 13/47 across four chapters and each is one day from the last** |
 | 187 | **nineteen years** of an entitlement, **thirty-one** a senior broker | service | figure |
-| 188 | **two hours and forty minutes** in the queue | ten to eight to eleven minutes past ten | in-scene estimate |
+| 188 | **two hours and forty minutes** in the queue | ten to eight to half past ten | 7:50 → 10:30 = **2h40m**, printed four times and exact. **THE FIRST PASS CALLED HIM AT ELEVEN MINUTES PAST TEN, WHICH GIVES 2h21m. The hour was moved rather than the figure, because 2h40m is also Runa's duration at the counter the day before and the two women standing in two queues is the point of the repetition. The call is now half past ten** |
 | 188 | **three weeks later** an establishment section read the chart | the seventh of April | **7 April → 28 April = 21 days.** Correct |
 | 188 | **eleven unfunded establishments in the quarter** | Ch 178 | printed canon |
 | 188 | **nine years**, **two hundred and three hundred a day** | Ch 178 | printed canon |
 | 189 | **eleven months** of the book, begun in the June before last | Ch 63's *since June* | **June → May = 11.** Correct |
-| 189 | **three weeks of nothing** in her head | the seventeenth of April | **17 April → 9 May = 22 days.** Correct. **THE FIRST PASS SAID *A FORTNIGHT AND A HALF*, which is seventeen and a half days. Corrected** |
+| 189 | **three weeks of nothing** in her head | the seventeenth of April | **17 April → 9 May = 22 days.** Correct, and the seventeenth is now the only date she gives for it. **THE FIRST PASS SAID *A FORTNIGHT AND A HALF*; the first repair then left *since the second of this month* at one point and *since the end of that month* at another, so that the chapter carried three incompatible dates for one event forty lines apart. Canon is Ch 182 — *since the seventeenth of last month, and I have got a fortnight of missing pages*. Both fixed at the second repair, and the unanchored *seven weeks* at the burning is now the seventeenth as well** |
 | 189 | **since the thirteenth of April** | Ch 133, the thirteenth, where the grey arrives a second and a half after a witnessed act | **13 April is the date.** **THE FIRST PASS SAID THE FOURTEENTH. Corrected, after reading Ch 133 rather than subtracting** |
 | 189 | **four years** of a service, **twenty-six years** of records | service | figure |
 | 189 | **about four minutes** in the stove | in-scene | traced |
 | 190 | **fourteen days**, and a fortnight | the tile came off on the twenty-sixth of April | **26 April → 10 May = 14 days.** **THE FIRST PASS SAID *SIX WEEKS*, TWICE, IN THREE PLACES. Corrected — and this is the single worst figure in the batch, because a fortnight is the exact answer and six weeks is neither the exact answer nor a plausible rounding of it** |
+| 190 | **seven days** since the bench order | the third (Ch 183) | **3 → 10 = 7.** Correct. **THE FIRST PASS ALSO HAD THE PAINTER SAYING HE HAD PREDICTED A FORTNIGHT, WHICH HE NEVER DID ON THE PAGE AND WHICH IS ALSO WRONG BY A WEEK. He now says only that it is a fortnight and that he has stopped saying anything about it, and reads the wall *every Thursday*, which is what he does** |
 | 190 | **ten days** the roll has been on the wall | the thirtieth | **30 April → 10 May = 10.** Correct |
-| 190 | **another fifty days**, and **fifty-three** | 60 − 10 = 50 | **Correct. Sun says fifty and she is looking at a row; Nadia's fifty-three at Ch 185 is seven days earlier and the two figures are ten days apart, which is the point** |
+| 190 | **thirteen days of the sixty, forty-seven left** | 27 April + 60, exclusive | **27 April → 10 May = 13, and 60 − 13 = 47.** Correct. **THE FIRST PASS SAID FIFTY, THREE TIMES, ON THE ARITHMETIC *60 − 10 = 50*, which subtracts the CHAPTER'S DAY NUMBER as if it were the interval. Corrected. Sun's forty-seven is ten days from Nadia's fifty-two at Ch 185 and three days from Runa's fifty at Ch 187** |
 | 190 | **sixty days, three, thirty, twenty-seven, the twenty-seventh of June** | the twenty-seventh of April; May at thirty days from the card | **3 + 30 + 27 = 60.** Printed in full on the page and the card is what makes the thirty stand up |
 | 190 | **three weeks** since the bench order | the third (Ch 183) | **3 → 10 = 7.** Correct, printed by the white-bearded man as "a fortnight" |
 | 190 | **the correction, the day before this one** | the seventh | in-scene, and the file says the correction is in |
@@ -223,6 +228,17 @@ attached to the wrong number.** *Nine days* for *five*, twice, at Ch 183; *two d
 Ch 184; *five days* for *seven* at Ch 187; *six weeks* for *fourteen days*, three times, at Ch 190;
 *a fortnight and a half* for *three weeks* at Ch 189; *the fourteenth* for *the thirteenth* of April at
 Ch 189; *about fifty days* for *fifty-three* at Ch 185 and *about fifty days* for *fifty-five* at Ch 182.
+
+**And then the review found five more, which the first repair did not, three of them in rows this table had
+stamped *Correct*.** *Seven days* for *five* at Ch 181, in a row that had subtracted to the third, which is
+Ch 183's date — **the row was a copy of the row above it**; *seven days* for *five* at Ch 183's bill, in a
+chapter that computes the same anchor correctly four lines earlier; the certificate countdown at Ch 185,
+Ch 187 and Ch 190, which ran 53 → 51 → 51 → 50 across day gaps of one, one and three and was wrong at
+every transition under **either** convention; *two hours and forty minutes* printed for two different women
+in two different queues at Ch 186 and Ch 188, one of which is fifty minutes over and the other nineteen.
+**A gate that marks a row correct by copying the row above it is worse than no gate, and that is what
+happened twice in this table. The anchor column is where the errors entered and it is the only column a
+reviewer has to read.**
 
 **And the finding that matters more than any of them: the paragraph-splitting pass used to break
 paragraphs over ninety words silently deleted a trailing sentence in nine places, because a paragraph
@@ -291,10 +307,51 @@ opened with Chapter 151's opening sentences about the early shift, and rebuilt t
 Chapter 183 repeated two sentences of the white-bearded man's from Ch 176 verbatim, including *you are
 welcome any Thursday*, and all three are rewritten. Chapter 185 opened a beat with *the kitchen made its
 own noise for about four seconds*, which is Ch 171's, and it is now the range. **The eight-gram scan
-still returns 589 shared eight-grams between Batch 0004 and earlier chapters, and every one of them is
-either the card by the time clock, which is the same physical card in the same place and is doing new
-work, or ordinary connective tissue. That figure is recorded because a gate that returns a number this
-large is not a gate until somebody has looked at it, and somebody has.**
+returned 657 shared eight-grams between Batch 0004 and earlier chapters, and every one of them is either the
+card by the time clock, which is the same physical card in the same place and is doing new work, or
+ordinary connective tissue. That figure is recorded because a gate that returns a number this large is not a
+gate until somebody has looked at it, and somebody has. The Batch 0004 repair leaves it one lower, which is
+re-derived against the pre-repair files and not asserted.**
+
+### THE BATCH 0004 REVIEW REPAIR — what was changed, in the order it was found
+
+**A reviewer read the ten chapters and found five hard continuity errors and five major ones, three of
+which were in rows this table had stamped *Correct*. The batch was not restarted and no scene was cut.
+Every change below is a figure, a pronoun, a count or a dropped sentence, and the prose around them is the
+prose that shipped.**
+
+| # | Where | What was wrong | What it is now |
+| --- | --- | --- | --- |
+| B1 | 190, the roll | the board was described three incompatible ways — *seven rows*, *six rows named*, and *two rows at the bottom with one struck* — which is eight rows, against Ch 180's canon of seven | **seven rows, five names, two spaces**, the sixth carrying the strike, the date and the initial, the seventh empty and numbered. **This is the shape `state/continuity.md` already had** and the chapter now matches the state file instead of contradicting it |
+| B2 | 189, Perlmutter | the records clerk is established as a woman and then referred to as *he* four times, and as *a man in a company coat* | **she**, throughout, including the kind sentence |
+| B3 | 189, the dates she stopped writing | three incompatible dates for one event inside forty lines: *the seventeenth of April*, *the second of this month*, *the end of that month*; and an unanchored *seven weeks* | **the seventeenth of April**, the only date, which is Ch 182's and makes Ch 189's *three weeks* exact |
+| B4 | 185, 187, 190 | the countdown ran 53 → 51 → 51 → 50 across day gaps of one, one and three, and is wrong at every transition under **either** convention | **the exclusive convention, fixed once: 8/52, 9/51, 10/50, 13/47.** Ch 186's 9/51 was the only correct one and is now the yardstick |
+| B5 | 181, the rectangle | bare for *seven days* on the first of May; 26 April → 1 May is **five** | **five days**. **The Gate A row that cleared it had subtracted to the third, which is Ch 183's date — the row was a copy of the row above it** |
+| M1 | 190, the close | *the certificate would issue on the six* — no referent anywhere in four volumes — and a fresh return that would put it *past the twentieth of May*, which is vacuous against a certificate already dated the twenty-seventh of June | **the certificate goes into a post while nobody in that house does a single thing, and a fresh return is dated the tenth, runs to the tenth of July, changes nothing, and is a second filing on that address.** The closing image is now the thing it was reaching for: he does nothing and it arrives anyway |
+| M2 | 186 and 188 | *two hours and forty minutes* printed for three different women in three different rooms; 186 is fifty minutes over and 188 is nineteen | **186 is an hour and fifty minutes**, its own clock; **188 keeps two hours and forty minutes exactly, because he is now called at half past ten** instead of at eleven minutes past. **The repetition across 186/187/188 was the batch's tic and it was also an error, and the two are now separated** |
+| M3 | 183, the bill | *seven days* against a 28 April anchor the same chapter computes as **five**, forty lines apart | **five days for the notice and five weeks for the leak**, with the two bills split, which is sharper than the error was |
+| M4 | 189 | a stray opening quotation mark on narration indented as dialogue | **narration, unquoted**, per the convention at 182 |
+| M5 | 189 | *the inside of it is forty-one steps*, against the sixty-one steps of Ferrier Street, in the second sentence of the scene | **three floors of a house over a chop-house**, which also takes one *forty-one* off the batch's count of seven |
+| — | 190 | the painter says *I said it would be here in a fortnight*, which he never says on the page, and 3 May → 10 May is seven days | **he says only that it is a fortnight and that he has stopped saying anything about it**, and reads the wall **every Thursday**, which is what he does |
+| — | 190 | *nine people* on the landing; six women, him and a clerk is eight | **eight** |
+| — | 189 | *there is no draught in here at eleven*, said at ten past ten | **at night, and by morning** |
+| — | 189 | the line-sense arrives mid-scene with no setup | **planted once, physically, before the disclosure** — a hand on a frame is how a signal operator looks at a line — and **registered in `state/continuity.md` as canon from `bible/characters.md` §2, which it always was** |
+| — | 182, 190 | *about four seconds* eleven times across the batch | **nine.** *thirty-one levers* eight times, four of them in 189: **four.** Ch 189 also went ten words over its scene band after the repair and was trimmed back under it without losing a clause |
+
+**Re-derived by command after the last edit, not before it: word counts 2116 / 2518 / 2445 / 2011 / 2582 /
+2307 / 1913 / 1980 / 3898 / 2240, total 24,010 · ten titles unique book-wide across 190 files and matching
+`outline/volume-04.md` §11 ten for ten in order · blockquotes, code fences, tables, horizontal rules, bold,
+italics and emphasis markup **0** · system panels **0** · paragraphs over 90 words **0**, longest in the
+batch 89 · paragraphs containing an internal newline **0** · rationed constructions **0** · *nobody / no
+one* **0** · weekday names other than Thursday **0** · shared eight-grams against earlier chapters **656,
+one lower than the pre-repair baseline of 657, which is re-derived from `HEAD` and not quoted.**
+
+**A note on the 188 change, because it is the one place the repair moved a clock to save a number.** Two
+women stood in two queues on consecutive days, and the repetition of one figure across the two is the
+batch's best quiet joke. Keeping the joke and the arithmetic meant moving the call from eleven minutes past
+ten to half past ten, which is a change nobody will notice and which makes 7:50 → 10:30 exactly two hours
+and forty minutes. **Everywhere else a number moved to fit the prose. Here the hour moved to fit the
+number, and it is registered because that is the exception and not the rule.**
 
 ### What the gate output does not tell you
 
@@ -323,7 +380,7 @@ against a copy taken before the script ran. That copy is now the batch's regress
    with the arithmetic and a woman's offer nobody has taken up. **The attack is that Chapter 190 may be a
    chapter about a wall that has stopped mattering, which is what Chapter 180 was for.**
 4. **Whether the household has enough left to lose before Chapter 199.** Five named, one struck, one
-   entered as absent with reason, and a certificate fifty days out that will bind all of them to a guild
+   entered as absent with reason, and a certificate forty-seven days out that will bind all of them to a guild
    broker's standing whether they consent or not. **The attack is that the volume's last ten chapters have
    been a series of women giving things up and a man signing a box, and Chapter 199 needs a signature that
    is earned for four chapters rather than ninety-nine.**
@@ -454,7 +511,10 @@ first of April**, and Ch 174 prints the subtraction as ten days and seven days b
    in one later, which was a question about a building and not about a man. **The answer to it is printed
    in a margin on a form about this house at Ch 166, and the building it is about is named at Ch 178 in a
    sentence with no name on it.** No confidence was broken. Wren Kallo waits nine days for a bill that
-   does not arrive and then eleven, and cannot be told why, and nobody tells her.
+   does not arrive and then eleven, and cannot be told why, and nobody tells her. **Those two figures are
+   two separate countings from earlier chapters and not a running total; at Ch 183 she puts the whole of it
+   at five weeks, which is 26 March → 3 May = 37 days and is a floor she is wrong about in her own
+   hearing, because the chapter says so**
 
 ### Drafting decisions that were not in the prompt, registered as canon proposals
 

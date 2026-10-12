@@ -120,7 +120,7 @@ Nine people stood in a car.
 
 "And I am aware that nine of you have just heard a thing about a house in the Slough from a woman who runs the lift, and I am aware that the Exchange is entitled to read page nine once a week,
 
-"and I am aware that there are fifty-three days left to run on a certificate at that address with six names on it, and that a household in a service file is a household a clerk can be handed on a wet morning with a line under it, for ever, for nothing."
+"and I am aware that there are fifty-two days left to run on a certificate at that address with six names on it, and that a household in a service file is a household a clerk can be handed on a wet morning with a line under it, for ever, for nothing."
 
 "I did it anyway. I did it in ninety seconds standing up in a car because I have wanted a line under my own name in a document that says I chose it since the fourteenth of March and it is the only one of them left."
 

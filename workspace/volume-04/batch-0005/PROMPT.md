@@ -108,7 +108,10 @@ will be a caller.**
    it. What Chapter 183 has set up: **a bench order that counts callers, and a woman in a wing office who
    has written nothing down for a week.**
 5. **A physical risk or a real deadline in at least one chapter.** The re-issue's six days are gone; the
-   certificate's fifty are not. Find a clock that is inside the batch and that somebody can miss.
+   certificate's **forty-six** are not. Find a clock that is inside the batch and that somebody can miss.
+   **The countdown is exclusive and it is one arithmetic, fixed at review: days elapsed from the twenty-seventh
+   of April, sixty less that. 5 May 8/52 · 6 May 9/51 · 7 May 10/50 · 10 May 13/47 · 11 May 14/46 · 20 May
+   23/37. It was written once as 53 → 51 → 51 → 50 and was wrong at every step; do not start the drift again.**
 
 ## THE REVERSAL — §5 of the outline. IT IS SPENT.
 

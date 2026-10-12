@@ -124,4 +124,4 @@ She put the form inside her tunic and went up.
 
 He went down at about twelve and did the washrooms and came back up at about five.
 
-Two days to the third, which was the first Thursday on the card by the time clock and the day the Board came down, and it had a bare rectangle on it four inches by two that had been bare for seven days, and the men who had carried Ivo Sarn's tile off in a crate had left it bare on purpose, and there was nothing on this week's list for that slot either.
+Two days to the third, which was the first Thursday on the card by the time clock and the day the Board came down, and it had a bare rectangle on it four inches by two that had been bare for five days, and the men who had carried Ivo Sarn's tile off in a crate had left it bare on purpose, and there was nothing on this week's list for that slot either.

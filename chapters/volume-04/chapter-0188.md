@@ -12,7 +12,7 @@ while a woman with a chest that had been going for eleven days was told to come 
 
 Tessa Okonkwo saw him at about half past nine and did not stop and did not hurry and did not look at him again until it was his turn, because a clinician who looks at a man with a warrant in a queue is a clinician who has told every person behind him what he is.
 
-At eleven minutes past ten she said, "Next."
+At half past ten she said, "Next."
 
 He put the folded paper on the counter, unfolded it, and turned it round.
 
