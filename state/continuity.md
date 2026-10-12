@@ -1,5 +1,162 @@
 # Continuity
 
+## Volume 4, Batch 0004 — CLOSED (Chapters 181–190). THE FIVE NAMES.
+
+**Ten chapters written against `outline/volume-04.md` §4 escalation step 4, entered at Chapter 181 and
+running to the tenth of May, one chapter a day, no shared dates and no gaps.** Full gate output, the
+Gate A interval trace with its seven errors, and the Gate B date subtraction are in `state/open-threads.md`
+in this batch's close record. **This block is the newest and supersedes every block below it on every point
+it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0004 is the 1st to the 10th of M+5, one chapter a day, no shared dates and no gaps.**
+  181 the 1st · 182 the 2nd · **183 the 3rd, a Thursday, and the Board repaints** · 184 the 4th ·
+  **185 the 5th, a Thursday, and it repaints** · 186 the 6th · 187 the 7th · 188 the 8th ·
+  **189 the 9th, Beatrix Halm's scene, and it is immovable** · 190 the 10th, a Thursday, and it repaints.
+  **The 11th of May begins Batch 0005.**
+- **M+5 IS THIRTY DAYS AND CHAPTER 181 PRINTS THE ANCHOR.** The card by the time clock on the ground floor
+  of the Fourth Branch reads, in full: **MAY. THIRD. TENTH. SEVENTEENTH. TWENTY-FOURTH. AND THE SEVENTH OF
+  NEXT MONTH.** The twenty-fourth plus seven is the thirty-first, which does not exist, so May has thirty
+  days. **Cross-checked on the page by a fact it did not produce:** April's card ended *AND THE THIRD OF
+  NEXT MONTH* and the men took Sarn's tile off the wall on the twenty-sixth of April, and 26 + 7 = the 3rd.
+  **So the third is a Thursday and the first is two days before a Thursday.**
+- **M+5's Thursdays are the 3rd, 10th, 17th and 24th. The word *Thursday* appears eleven times across the
+  batch and every one of them is the 3rd or the 10th, derived from the card or the repaint at nine. No other
+  weekday name appears anywhere in the ten chapters, and the word *Tuesday* is not on the page.**
+- **THE CERTIFICATE'S DATE IS NOW FIXED AND PRINTED (Ch 190, with the working).** Sixty days from the
+  twenty-seventh of April: **three days to the end of April, thirty days in May, twenty-seven days in June.
+  The certificate is dated the twenty-seventh of June**, which is thirty-eight days past the end of the
+  volume and therefore cannot arrive in Chapter 200.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE RE-ISSUED RETURN (181).** A district holding two returns on one address re-issues the earlier one.
+  It is **not a new question**: same four, same box, plus a correction. **The correction is to be given in
+  one hand, with the name of the person giving it at the foot, on or before the seventh.** It does not say
+  which member. **The only instrument in this city that makes a household produce one of its own members is
+  a form that wants a signature.** Six days.
+- **THE CORRECTION AND THE STANDING (187).** The answer given at item three is **not borne out by the office
+  named in it.** Runa Sato signs, at a counter, in her own hand: *Field division, Cordwain. Entered as
+  refusing a count on the twelfth at ten past two in the afternoon. Struck from the strength on the
+  thirteenth by a duty clerk over a reconciliation the building had owed since the middle of February. On
+  the strength of a standing household at the above premises since the twenty-seventh. Not on a roster.
+  Available to a division under a document she has not yet signed.* **Doyle enters the old date and the new
+  one, and both are on the sheet, and that is the only protection the Office offers anybody and it is
+  offered by accident.**
+- **THE CERTIFICATION SCHEDULE, THE LONG FORM (184).** Four pages, completed in a room in front of a clerk,
+  never at a counter. Page one wants the premises and **the number of persons of reading age who keep an
+  address there** — six, with a permitted note that one person is not on the roll. Page one then wants the
+  head: **a name, a plate number, and a standing, and the standing is optional and the office fills it in
+  from the plate if it is left out.** Page two wants the members, numbered, with a standing and a band and
+  the date each began to keep an address. Page four is the signature and the hour.
+- **A CERTIFICATION DOES NOT MAKE A HOUSEHOLD STRONG. IT MAKES IT ASKABLE** (184, Doyle), **and the whole
+  of what six women are standing behind is eight thousand one hundred and thirty-eight grains a week with
+  three grains of margin, and about one head in four has never understood that it is the figure.**
+- **THE HOUSEHOLD'S ENTITLEMENT IS THE HEAD'S (187).** A new line under the band table on the Exchange's
+  monthly permission circular: **where a head carries none, a household carries none, and no permission may
+  be sold to a household on the account of any member of it.** Printed in the Exchange's own type against
+  the standing line **NO ENTITLEMENT ESTABLISHED**, which has been printed against him since December.
+- **THE BINDING RULE (187).** **A standing household is bound by the highest standing in it.** It is about
+  two hundred years old, the law uses the same rule, and it is not a rule anybody argues with because it is
+  how a score survives a death. **In this household the highest standing is not his. It is Marguerite
+  Vale's**, who has held an entitlement for nineteen years and has never once used it on a house.
+- **THE BENCH ORDER (183).** A one-sided sheet down on the wire on a repaint morning. This week's: **a roll
+  kept at premises and produced to a person who calls is to be produced; where it is produced, the person,
+  the hour, and the number of names and spaces upon it are to be entered on the district sheet and sent in. A
+  roll not produced is not an offence. A roll produced and not entered is.**
+- **THE DISTINCTION THAT ENDS CHAPTER 190 (190, Nunn, a district clerk).** **The roll on the wall is not the
+  instrument.** The schedule of the fourth is. **And there is no instrument in this city by which a member can
+  come off a certified schedule between its filing and the issue of the certificate.** The only way is a
+  fresh return, which does not amend the first and stands beside it, and opens its own sixty days.
+- **ABSENT WITH REASON (186).** The sixth person of reading age is accounted for by the person herself, in
+  four hundred words in her own hand, dated and timed and signed, in the form's own grammar. **Being the
+  person at whom a paper is served is not being one of the people it is served on.** She does not use the
+  standing at item eleven and says the word *no* when Doyle looks at the margin. **She is now on a page in a
+  district file and the seventh row of the board is still empty.**
+- **THE SECOND SHEET AT THE VESTRY (188).** Dated the seventh of this month. **An establishment unfunded, in
+  connection with the file of a member, in which that member is entered as having been treated.** No name, no
+  address. **It fits one establishment out of about eleven in the quarter**, and the Office did not work out
+  which one and did not have to.
+- **THE NOTICE TO UNFUNDED ESTABLISHMENTS IS IN FORCE FROM THE FIRST OF THIS MONTH**, and **a person with a
+  warrant may lawfully stand at that hatch and ask a name.** Tessa Okonkwo's answer is a schedule of numbers
+  and kinds of treatment and a refusal to name anybody, signed by her, in the queue, at the counter, and a
+  card on the counter with her name and her hours on it and the rule that **she will answer for the building
+  and not for the people in it.**
+- **THE ROLL ON THE LANDING.** **Seven ruled rows. FIVE have a name on them.** The sixth has a rule from the
+  left margin to the right edge, the date of the second of this month, an initial, and four words in Ines
+  Duarte's hand: **WITHDRAWN BY THE MEMBER**. The seventh is empty and numbered. The head's name is above
+  them in his own hand. **The light from the stair window stops about two inches above the seventh row.**
+- **NADIA FERROUS'S PAGE NINE (185).** An address and a head, ruled by hand because page nine has no line for
+  one, then her own name against the premises, then a signature and an hour, written standing up in a car at
+  the change of shift in ninety seconds in front of nine operators, and read out aloud to them.
+- **THE PALE RECTANGLE (183, 190).** Bare at seven days on the third and at fourteen days on the tenth.
+  **There is no band in this city that has gone and is not filled.** The slot is held open by the Office not
+  having decided whether a man left a building or was moved, and Anneke Roos's answer is still *ceramic*.
+
+## Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six, unchanged.** The plate has not moved
+  a grain in ninety chapters. **Band five on the plate, band six on a piece of paper.** **The figure is
+  printed twice in this batch and both times are in Chapter 184, where he writes it into a legal document and
+  a clerk reads it back with his thumb on a line.**
+- **Ledger 118 lines, nine turned, the ninth still himself.** **Printed once in prose, at Ch 184. No System
+  panel in the batch and none is due, because no count turns.**
+- **Nothing was spent on anybody in Chapters 181 to 190** — no draw on a stranger, none on himself, none on
+  anybody — **and nothing on himself since the promise made in a hall on the twenty-ninth of March.**
+- **File 4,112, one folio open, no second.** No classification entered. No rank earned, no rank lost, no
+  grain scored, no folio opened, no age stated, no Channel, no routing, no rota word, no May clipboard.
+- **The classification paper dated the nineteenth went up three floors at four o'clock and came back down
+  unsigned.** It is not signed anywhere in this batch.
+- **Visitors' book: a hundred and eleven, forty-one about a person, seventeen about the household.**
+  Unchanged in count. **Nadia Ferrous's page nine now carries a household on it and goes to a counter once a
+  week without anybody asking for it.**
+- **Ines Duarte's review was on the morning of the twenty-second of April.** He was in a parties' room on the
+  third floor from half past nine until ten past two. She came out at about ten to two and said **do not ask
+  me**. **It is not dated on the page in this batch, its weekday is not named, she does not discuss it, and
+  it does not resolve.**
+- **Beatrix Halm's book is eleven months old and is burned.** She began it in the June before last. It has
+  no number on it, it is not in the inventory, and it went into a stove at the far end of the Ferrier line
+  in about four minutes on the ninth of this month. **She has three weeks of nothing in her head instead.**
+- **Wren Kallo's name is not on the page.** She has it, she says she has it, and she does not say what it is.
+
+## What this batch did NOT open
+
+Second folio · Ines's review, resolved · B103 in any form · the instrument's live-column rule, which is
+SPENT · Ding's chest · May clipboard · rota word · September's outcome · **the certificate, which cannot
+arrive inside the volume** · Marguerite's terms, which are down, unsigned and out of force and which a
+standing household cannot revive · Bernt · Rhee · Saskia Verhoeven as a character · Alma Quayle as an
+opponent · Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Petra Ilyin · Dagmar
+Oyelowo · anything after Volume 8 · **the reversal, which is spent and which not one chapter in this batch
+states, recalls or hints at** · a rank · a grain · a folio.
+
+## What this batch did NOT close
+
+Runa Sato's hearing · Runa Sato's three months · Ines Duarte's review · the two ninth chairs · the
+corridor's ninety rubbed-out sentences · Marta Vey's name in the record · the desk's four-line note · the
+classification paper dated the nineteenth · the ninth of September · the broken price · Sun Meiling's
+February · **the leak, which stayed stopped and was not explained to anybody** · Sun Meiling's place on the
+roll, which is now a fact about a document and not a preference · **Agnete Lindqvist's eleven years indoors,
+which this batch does not advance and does not shut, and which has no line in any of this batch's
+instruments** · the certificate · **the four people in that building who will find out he knew about a
+document concerning them for three days and did not say.**
+
+## Endings and temperature
+
+181 a card on a wall by a time clock, and a form that wants a signature · 182 a woman asking to become
+unfindable on purpose, and a line ruled through a row in ink at eleven at night · 183 a bare slot at seven
+days and a woman with a name she will not spend, cheerfully, and it is not funny · **184 fifty minutes in a
+room with a balance nobody can argue with and a number written in his own hand for the first time in five
+years** · 185 ninety seconds standing up in a car in front of nine strangers · 186 four hundred words in a
+clerk's queue and a woman sent out of the room · 187 a signature at a counter and a rule that the household
+has bought nothing at all · 188 a man who waited his turn for two hours and forty minutes and a card with a
+woman's name on it · **189 eleven months in a stove and a woman on the outside stair who does not speak**
+· 190 a clerk reads a board and tells six women that the board is not the thing, and a piece of arithmetic
+with the working shown. Temperature runs cold, hot, cold and then very cold, flat and cold, hot, expensive,
+cold, cold, want, and then a landing with a number on it.
+
+---
+
 ## Volume 4, Batch 0003 — CLOSED (Chapters 171–180). THE STANDING.
 
 **Ten chapters written against `outline/volume-04.md` §4 escalation step 3, entered at Chapter 171 and

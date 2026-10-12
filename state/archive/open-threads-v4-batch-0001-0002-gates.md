@@ -1,6 +1,7 @@
-# Archived — Volume 4, Batch 0001 and Batch 0002 gate traces
+# Archived — Volume 4, Batches 0001, 0002 and 0003 gate traces
 
-**Moved out of `state/open-threads.md` on the Batch 0003 review pass.** The live file had grown to
+**Moved out of `state/open-threads.md` on the Batch 0003 review pass, and again on the
+Batch 0004 pass.** The live file had grown to
 1,172 lines with three stacked Gate A / Gate B blocks, one per batch, and the Batch 0004 prompt says the
 state files are to stay bounded and point here instead.
 
@@ -13,6 +14,156 @@ of the subtraction alone, without anyone having read what happened to that chara
 That is how *nine days* and *eleven days* sat in Chapter 178 and Chapter 180 for a whole batch. **A row
 in this archive is not a verification. It is a claim about a subtraction, and the subtraction is only the
 easy half.**
+
+---
+
+## Volume 4, Batch 0003 — Gate A and Gate B (Chapters 171–180)
+
+**Moved out of `state/open-threads.md` on the Batch 0004 pass.** Nothing here was deleted. The
+second-pass block below is the important half: it is the pass that found five interval errors
+the first pass had certified in rows, and it is the reason every row in this archive is read as
+a claim about a subtraction rather than a verification.
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+| Chapter | Figure | Anchor | Subtraction |
+| --- | --- | --- | --- |
+| 171 | **six days**, and six from today is the twenty-seventh | the two forms already on the table | **21 + 6 = 27, and it agrees with 6 + 21 = 27 and 16 + 11 = 27. The batch's one printed countdown** |
+| 171 | **seven days** of reading, since the fourteenth | Agnete read the second issue from the day it was read aloud at the steps on the twentieth | **21 − 14 = 7. THE FIRST PASS SAID *NINE DAYS* IN SIX PLACES AND 21 − 14 IS SEVEN. Corrected to seven everywhere, and *seven days ago* for the table** |
+| 171 | "a fortnight" the box has been empty | **the first issue went out on the sixth and was at the premises from the seventh; the second came on the sixteenth** | **21 − 7 = 14.** **The first pass said *eleven days* and 21 − 7 is a fortnight. The row also used to say *arrived on the seventh* where the chapter says *went out on the sixth* — the box is empty on a form that is in the house, and 171:9 says the form went out on the sixth. Both facts hold; only the wording was wrong** |
+| 171 | eleven minutes of refusals | in-scene | traced |
+| 171 | the 22nd named by Ines; the 15th named by him | **the day map** | traced, and neither is given a weekday |
+| 171 | "on the fifteenth and again on the twenty-first" | **Ch 165, the fifteenth, where she told him the date and asked him not to tell the table** | **THE FIRST PASS SAID *the seventh of March*, which is not on the page for either event. Corrected** |
+| 172 | half past nine to ten past two, four hours | the parties' card; the review runs ten to two in three files | 09:30 → 14:10. Ferren called at five to ten and back at ten past ten. The jug at half past eleven. **Ines's door at ten to two. All traced** |
+| 172 | the count "in four minutes against the stair clock" | in-scene | narrative estimate |
+| 172 | "since the start of March", nine weeks removed | his count came back wrong at the start of March | **THE FIRST PASS SAID *NINE WEEKS*, which cannot be checked against an unspecified date in March. Replaced with the date** |
+| 172 | "two thousand nine hundred" changed to "one thousand nine hundred" | `bible/power-system.md`: band four is 3,000 a week and band three is 1,200, and the school place runs on band three | **THE FIRST PASS HAD HIM FALLING FROM FOUR THOUSAND TO TWO NINE HUNDRED, WHICH IS ONE BAND AND LOSES THE SCHOOL PLACE HE TELLS THE READER IS AT STAKE. Corrected to one thousand nine hundred, which is two bands** |
+| 172 | two hundred times in four years; four years; four in the family | in-scene and service | fine |
+| 173 | the schedule's month, from the date of service | the paper, dated the day it is served | forward, no subtraction printed |
+| 173 | **three days** at that table | the 21st, when the household talked about the box, and the 23rd | **21, 22, 23. Correct** |
+| 173 | "for a week" arguing about the margin | the second issue arrived on the sixteenth | **23 − 16 = 7.** Correct |
+| 173 | "since the twenty-second", "a day and a half" | the waiting room, the 22nd, about half past four | **22nd afternoon → 23rd midday.** Correct |
+| 174 | **filed the twenty-second of March; seven days before the hall; ten days before the first of April** | the hall on the twenty-ninth of March; Ch 151's first of April | **22 → 29 = 7 and 22 → 1 = 10. Both printed on the page with the working** |
+| 174 | "half past four in the afternoon" on the twenty-second | in-scene | **THE PROMPT'S *A FORTNIGHT AND TEN DAYS BEFORE THIS VOLUME OPENED* IS NOT REPRODUCED. 22 March → 1 April is ten days and Ch 174 says ten** |
+| 174 | ten past one, four minutes past one, about ninety seconds with the file, about twenty past one out | in-scene | traced |
+| 174 | forty feet | the corridor in Ch 172 | **the parties' room and the drawing-board door, counted in Ch 172 and stated in both** |
+| 174 | "for two days" he had been not going | the 22nd and the 23rd | correct |
+| 174 | eighty or ninety cards in fourteen inches of file | narrative estimate | fine |
+| 174 | **"on the second of this month"** and **"twenty-two days ago"**, the filing machine learned | **Ch 152, the second of April, where he watched a stranger's name become a written address in eight minutes and forty seconds** | **24 − 2 = 22. THE REVIEW PASS FOUND THIS ROW MISSING ENTIRELY: both sentences said *four months ago* in the chapter's two load-bearing paragraphs, which is the exact error class Gate A exists for. Four months ago is the fourteenth of December and nothing on the page puts him on this machine before the second of April** |
+| 174 | the card that reads THE SIXTH | the first issue | **THE REVIEW PASS FOUND THIS CARD READING *THE FIFTEENTH*, which is Ch 165, where Ines Duarte named the date. The first issue went out on the sixth at 171:9 and is dated the sixth on the shelf. Corrected to THE SIXTH, which also removes the collision with the fifteenth** |
+| 175 | "since yesterday afternoon" for the box's requirement | he told the table at about four on the 25th and hands in on the 27th | **25 → 27 = 2. THE FIRST PASS SAID *THEY HAD KNOWN THAT FOR FOUR DAYS*, which is four months of other business and not this. Corrected** |
+| 175 | **"three days before you completed it"** | he found it on the 24th and completed it on the 27th | **24 → 27 = 3. THE FIRST PASS SAID *FOUR DAYS*. Corrected here and at Ch 180, which had the same figure twice** |
+| 175 | "nine years into a finding" replaced | the finding is dated the twenty-ninth of March, three weeks old | **THE FIRST PASS GAVE INES Duarte NINE YEARS OF A FINDING. The finding is three weeks old. Replaced with *the officer of record on a finding dated the twenty-ninth of March*** |
+| 175 | six liabilities: 12th, 7th, 8th, before this month, the 14th of March, the 8th of March | every date a printed one in Batches 0001 and 0002 | all traced |
+| 175 | "Six days ago it would have been zero" | the 25th | **25 − 6 = the 19th, which is a printed date in this batch (Ch 169). Traced, not corrected** |
+| 176 | **"Five days had gone by since the twenty-first"** | the 21st and the 26th | **21 → 26 = 5. THE FIRST PASS SAID *SIX DAYS*, which counts inclusively and is the kind of slip this gate exists for. Corrected** |
+| 176 | "seven days" the tile was up before Anneke struck the paragraph | the tile on the twenty-second of March; the strike at a quarter past five on the twenty-ninth | **22 → 29 = 7. Correct** |
+| 176 | **tomorrow is the twenty-seventh** | the day map | **26 + 1 = 27. THE BATCH'S SECOND PRINTED COUNTDOWN** |
+| 176 | thirty years' service; February; since December; the seventeenth at eleven at night; the twentieth at a quarter past one; four times a month for four years | service figures and Batch 0002 canon | all traced |
+| 177 | twenty-one days from the sixth; eleven from the sixteenth | the two forms | **6 + 21 = 27 and 16 + 11 = 27, printed in the clerk's mouth** |
+| 177 | four minutes counting, nine seconds writing it, twice | in-scene | **the second nine seconds is said to have been harder. Traced** |
+| 177 | "since the seventh of this month" thinking about the box, and Wray's "I have had this form in front of me every working day since the seventh" | **the first issue went out on the sixth and was counted at the counter from the seventh** | **THE FIRST PASS SAID *HE HAD SPENT NINE DAYS THINKING ABOUT THE BOX*, and 27 − 9 = the 18th, which is arbitrary. Replaced with the arrival date. The row also said *arrived*; the chapters say *went out* on the sixth and counted from the seventh, and the two are not the same claim** |
+| 177 | "about eleven days" for the district line | forward forecast | not a countdown to a date reached |
+| 177 | sixty days from filing | the certificate clock the Office puts on a complete return | **forward, past the volume, and no date printed because M+5's length is not fixed** |
+| 177 | the bundle card filled at about eleven minutes past five the previous afternoon, figure two | the previous day is the 23rd, when he was on the third floor | correct |
+| 178 | **"You have had four days to tell me something"** and carrying it since the twenty-fourth | he found it on the 24th | **24 → 28 = 4. THE FIRST PASS SAID *NINE DAYS*, which is 28 − 9 = the 19th and has nothing to do with it. Corrected** |
+| 178 | **Wren's two days** | he told her at the rail on the morning the Board came down, Ch 176 | **26 → 28 = 2. THE REVIEW PASS FOUND THIS ROW HAD NO ANCHOR AND SAID SO: it read *nine days* and *waiting since the evening of the nineteenth*, and nothing in the volume puts anything in front of Wren Kallo on the nineteenth. Re-anchored to the repaint, which is on the page, and the figure falls to two** |
+| 178 | the fourth of April, when she knew it on the seventh | in-scene | correct |
+| 178 | **the corridor question, dated the twenty-sixth of March in two places** | **Ch 154:39 and 154:109, which date the same corridor and the same dispensary clerk to the twenty-sixth** | **THE REVIEW PASS FOUND THIS DATED *THE TWENTY-NINTH OF MARCH* IN CH 178, which is the day of the Cobb Street hall and a different event in a different building. The Office's own Gate A for Batch 0001 registered the twenty-sixth and the correction to it, so Batch 0001 is right and this was wrong. Both instances corrected. The leak is not dated anywhere else in the volume and nothing downstream depends on the twenty-ninth** |
+| 179 | **kit packed since the thirteenth, sixteen days** | the 13th and the 29th | **29 − 13 = 16.** Correct |
+| 179 | **"on the eleventh of this month"** for the division clerk and a figure | **Ch 161, the eleventh, in a corridor after the hearing** | **THE FIRST PASS SAID *THE FIRST OF THIS MONTH*, which is Chapter 161's date being confused with the month's first. Corrected** |
+| 179 | three months' clock on being struck as available | the Field's own process | a service figure, forward |
+| 179 | **fifty minutes** in the room | in-scene | **THE REVIEW PASS FOUND THIS CHAPTER OPENING THE ACT WITH *They took about an hour*, the identical sentence at Ch 169:125, which is the repo's own cited standard for a repaired scene. Changed to *It ran about fifty minutes*. 169 is the corridor at the Vestry and this is a Field bunk in a nine-foot room and the two hours are not the same hour** |
+| 179 | **three of them go at once and the fourth ten minutes later** | the four on his left side, term three | **THE REVIEW PASS FOUND THE CHAPTER SAYING SHE FELT *ALL THREE OF THEM* LAND AND, FOUR PARAGRAPHS EARLIER, THAT THERE WERE FOUR. Corrected without moving anything else: three at once and the fourth after, which is what a fourth break does** |
+| 179 | an hour, four minutes, twenty minutes, ten minutes, two minutes, fifty minutes | in-scene | traced |
+| 180 | **"it took a week"** for the seventh row being ruled and found out | the schedule answered on the twenty-third | **23 → 30 = 7.** Correct |
+| 180 | **"four days"** waiting, in two places | Wren's wait from the rail on the twenty-sixth | **26 → 30 = 4. THE REVIEW PASS CORRECTED BOTH FIGURES HERE, which had been *eleven* and *eleven*, off an unanchored nineteenth** |
+| 180 | **"three days"** of his silence | the 24th to the 27th | **carried through from the Ch 177 repair** |
+| 180 | **the plate** | `bible/power-system.md`, band five at 8,000 a week | **8,138 is band five and has been for eighty chapters. The floor is 8,141, three grains above it, and 11,862 under band six. All printed once, here** |
+| 180 | sixty days; nine seconds; about four seconds; sixteen days; the thirteenth; the sixteenth; the seventh | as above | all traced |
+
+**Seven real errors, in six chapters, and four of them are the kind every mechanical gate in this
+repository returns clean on, because they attach a correct word to a wrong number.** *Nine days* where
+seven was the answer, three times; *four days* where three was the answer, in two chapters; *nine weeks*
+against an unfixable date; *nine years* on a finding three weeks old; *the first of this month* for the
+eleventh; *nine days* where four was the answer; *six days* where five was. **That is the sixth batch
+running in which Gate A has found things the word gate, the paragraph gate, the duplication gate and the
+banned-word gate all returned clean on.**
+
+### Gate A, second pass — the Batch 0003 review, and the eight errors it found that the first pass did not
+
+**A review of the batch ran after the close record was written and found five more interval-class defects
+that this trace did not list at all, plus three defects of another kind. All are now repaired in the
+prose and all are listed above in bold.** The five interval errors: *four months* for the filing machine
+at 174, where 24 − 2 is twenty-two days; a card reading *the fifteenth* at 174 for a return the chapter
+elsewhere dates to the sixth; the corridor question at 178 dated to the twenty-ninth of March where
+Ch 154 dates it to the twenty-sixth; Wren's *nine days* at 178 and *eleven days* at 180, both off an
+evening of the nineteenth that nothing in the volume puts in front of her; and *all three of them* at 179
+against four. **That is five interval errors that Gate A itself missed while it was being written**, which is the same
+failure the Gate A section has been claiming to catch since Batch 0001, and the honest statement of it is
+that the trace is only as good as the reading behind it.
+
+**The lesson registered for Batch 0004: a figure is not traced because a row exists for it. A figure is
+traced when its anchor has been read on the page in the chapter that prints the anchor.** Two of these
+five had rows, and both were Wren's, and the row asserted *19 → 28 = 9. Correct* without anyone having
+read what happened to Wren Kallo on the nineteenth — which is nothing, because she is not in Chapter 169.
+**A row that certifies a number nobody checked is worse than no row, because it stops the next pass from
+looking.** The other three had no row at all, which means the trace was not exhaustive on a trace this
+batch's own prompt had demanded be exhaustive.
+
+### What the review pass changed in prose, in one place
+
+1. **Ch 179's scene was implication, not the scene.** Four terms and a negotiation, then about twenty-five
+   lines that never crossed the skin, and the one sentence that opened it was Ch 169's. The act is now on
+   the page, unhurried and explicit, in the room's own furniture — the bunk, the desk, the boots under it,
+   the window four feet from the next building — and it keeps every beat the implication carried: the
+   carrier's habit of taking the weight first, the narration nine seconds ahead of the movement, term three
+   keeping his left side untouched, and her coming first because she said so in the first four minutes.
+   **It does not borrow one image from Ch 169.** No corridor, no runner, no wall, no cardigan, no darn.
+   Ch 179 runs **3,692 words** and Ch 169 runs unchanged.
+2. **Ch 174's two load-bearing paragraphs** now say the date of the machine instead of a span.
+3. **Ch 178 and 180's Wren figures** are re-anchored to the repaint, and Ch 178's leak date to the
+   twenty-sixth of March.
+4. **Ch 179's split sentence is joined** and the joined paragraph split again at a speech turn, because it
+   went to 116 words and the gate allows 90. **That paragraph was invisible to the paragraph gate for the
+   whole of the batch's life, because a stray newline made it two paragraphs and one of them was a
+   fragment.** The volume now scans clean for paragraphs containing an internal newline.
+5. **Two constructions that a near-verbatim gate cannot catch** were cut at Ch 176: a thirteen-word run
+   against Ch 167 (*eleven households in this city have/had bought a shilling's worth of paper about
+   this/that street*), and *that was the thing he kept coming back to*, which had landed at 174 and again
+   at 176 in near-identical structural positions. Ch 176's opening has been rebuilt around the Board's
+   four hundred witnesses instead.
+6. **The doorframe sentence** — *I do not ask anybody else in this house what the answer is* — ran verbatim
+   at Ch 166, Ch 167 and Ch 173. Ch 173's is now a paraphrase of what is on the doorframe, not the
+   doorframe again, which is what she is actually doing in that scene. **Two verbatim instances remain, at
+   166 and 167, and they are the origin and the recitation.**
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-04.md` §12
+
+171 the 21st · 172 the 22nd · 173 the 23rd · 174 the 24th · 175 the 25th · 176 the 26th · 177 the 27th ·
+178 the 28th · 179 the 29th · 180 the 30th. M+4's 1st is a Sunday and its Thursdays are **the 5th, 12th,
+19th and 26th**.
+
+| Chapter | Dates on the page | Check |
+| --- | --- | --- |
+| 171 | 21st (chapter) · the 22nd · the 6th · the 7th · the 13th · the 14th · the 15th · the 16th · the 27th · the 8th · the 9th · December | **21 + 6 = 27 and the two earlier clocks agree. The 14th is seven days back. The 15th is Ch 165** |
+| 172 | 22nd (chapter) · the 15th · the 29th of March · March · the start of March | **the 29th is Batch 0002's hall. March is a foreign month and nothing is subtracted across it** |
+| 173 | 23rd (chapter) · the 13th · the 16th · the 29th of March · the 22nd · the 19th | **the 16th is the second issue, seven days back. The 29th of March is the finding** |
+| 174 | 24th (chapter) · **the 22nd of March** · the 29th of March · the 23rd, the 15th, the 27th of last month, the 6th of April · the 1st of April · the 27th · the 4th · the 30th | **22 → 29 = 7 and 22 → 1 = 10, both printed with the working. The shelf's other cards are dated 23rd, 15th and 27th of the current month and 27th of March** |
+| 175 | 25th (chapter) · the 22nd · the 23rd · the 25th · the 27th · the 21st · the 5th · the 7th · the 8th · the 12th · the 14th of March · the 29th of March · the 9th of September | **25 + 2 = 27. Every other date is a printed one from Batches 0001 and 0002** |
+| 176 | 26th (chapter) · the 4th of March · the 17th · the 20th · the 21st · the 22nd · the 27th · the 29th of March · the 1st of December · February | **26 + 1 = 27. The 26th is a Thursday and is one, derived from the repaint in four places** |
+| 177 | 27th (chapter) · the 5th · the 6th · the 7th · the 8th · the 12th · the 20th · the 23rd · the 25th · the 27th | **6 + 21 = 27 and 16 + 11 = 27. No date is given a weekday** |
+| 178 | 28th (chapter) · the 7th · the 19th · the 24th · the 28th · the 29th of March · the 4th of April · next month | **24 → 28 = 4 and 19 → 28 = 9, both correct. The 29th of March is the corridor question** |
+| 179 | 29th (chapter) · the 1st · the 6th · the 8th · the 11th · the 12th · the 13th · the 20th · the 27th · the 29th of March | **13 → 29 = 16 and 29 − 13 is the kit. The 11th is Ch 161 and the 20th is Ch 170** |
+| 180 | 30th (chapter) · the 7th · the 10th · the 13th · the 16th · the 23rd · the 27th · the 28th · the 29th · the 30th · the 1st of December · the 4th of March | **23 → 30 = 7 and 19 → 30 = 11. Every date traces to a printed earlier figure** |
+
+**Not one date in the batch lands on a Thursday that is not the 5th, 12th, 19th or 26th. The word Thursday
+appears five times in the batch — four in Ch 176's opening, all of them derived from the repaint at nine,
+and one in Ch 180's last movement — and every one of them is the twenty-sixth. Zero weekday names other
+than Thursday across all ten chapters.**
+
+**FLAGGED, NOT SMOOTHED: the Batch 0003 prompt places the one-day countdown at Chapter 177**, which is the
+deadline. See the top of this block.
 
 ---
 
