@@ -1,6 +1,6 @@
 # A Household Of Seven
 
-The twentieth of this month was the last day of a thing, and the only person in that house who knew it was the man who did every figure out loud at the top of sixty-one steps, and there is no instrument in this city that marks the last day of anything.
+The twentieth of this month was the last day of a thing, and the last day of it was a fact about a numbered pad on a shelf in a room in the Reading and a clerk's habit about the close of a month, and it had been said out loud in a room on the eleventh and it was written down nowhere, and there is no instrument in this city that marks the last day of anything.
 
 He cleaned six floors at the Fourth Branch and did them well, and at about half past six in the evening he came up the sixty-one steps to Ferrier Street with his coat over his arm.
 

@@ -1246,7 +1246,7 @@ ls chapters/volume-04/                                                     → 5
 titles unique book-wide (200 files)                                        → NONE
 titles over 90 characters                                                  → 0
 titles 191–200 against outline/volume-04.md §11                            → exact, ten for ten, in order
-wc -w, 191 to 200        2949 / 2542 / 1858 / 1815 / 2599 / 1817 / 3891 / 1963 / 2227 / 2302  → total 23,963
+wc -w, 191 to 200        2957 / 2555 / 1858 / 1823 / 2627 / 1838 / 3887 / 2123 / 2228 / 2361  → total 24,257
 horizontal rules                                                            → 0
 blockquotes                                                                → 0
 bold, underscore and italic markup                                          → 0
@@ -1267,6 +1267,16 @@ sentence-set diff against a pre-pass copy (item 65)                        → n
 duplication gate: 8+ word sentences, 40+ word paragraphs, 8-grams,
   intra- and cross-chapter, over all 50 files                             → 0 exact sentence duplicates
 ```
+
+**Three rows in this block were corrected on 2026-10-12, and the correction is recorded here rather than
+made silently, because the block was archived as a record of what a pass measured and the numbers in it
+had stopped being true.** The `wc -w` row was stale for nine of ten chapters; *the word Thursday* read
+2, both at Ch 197, and the volume holds 3, two at Ch 197 and one at Ch 200; and the markup row read 0
+and the volume holds two italics inside dialogue and no bold. **The block's own framing claimed the gate
+output had been re-derived after every edit. It had not.** The re-derived block lives in
+`reviews/volume-04/batch-0005.md`, which withdrew that claim, and the two files agree. **Nothing else in
+this block was altered, including the Gate A table below, which was hand-derived rather than counted and
+has held.**
 
 **What the gate output does not tell you.** It does not tell you that Chapter 197's first draft reproduced
 Chapter 189's scene mechanics word for word across forty twelve-word runs — **the sentence gate returned
@@ -1319,3 +1329,76 @@ Nothing this batch proposed has been withdrawn. The following were **not** adopt
 - **Sun Meiling did not come onto the roll.** The seventh row stays empty on purpose and her reason is now
   a document, which is not the same as her being on it.
 - **The plate did not move and no rank was entered, lost or scored.**
+
+---
+
+### ADDENDUM, 2026-10-12 — VOLUME 4 BATCH 0005 VERIFICATION AND REPAIR PASS, Chapters 191–200
+
+**This batch was written, committed and closed on the twentieth of May in the book's calendar and was
+then re-dispatched. A second pass ran the gates again and hand-traced every interval in it against the
+chapter that prints the anchor. Every mechanical gate was clean and the interval trace was not. Thirty
+sentences were corrected by hand across eleven chapters, two of them in closed earlier chapters, and one
+beat was added to Ch 198 because two later chapters depend on it. Nothing was rewritten, no scene was
+cut, no pad was given to length. The full record is `reviews/volume-04/batch-0005.md`. The findings the
+next writer must carry are these, and they are canon now:**
+
+1. **Eleven interval defects in 191–200, all real, none of them visible to a gate.** The pattern in
+   almost every one is the same: **a figure was derived from an anchor on one date and then carried
+   forward to a later date without being re-derived.** Marguerite's price at the kitchen table is the
+   seventh of May. Ch 195 (the fifteenth) said four days, which is the arithmetic to the eleventh. Ch 197
+   (the seventeenth) said nine days. Ch 198 (the eighteenth) said nine days again. **The correct figures
+   are eight, ten and eleven, and they are now on the page.**
+2. **Ch 195 carried the countdown figure belonging to the eleventh of May in the middle of a scene dated
+   the fifteenth.** It read *this is the eleventh day and forty-nine of them are gone*, forty-nine being
+   forty-nine days left, which is the eleventh, not the fifteenth. **The fifteenth is eighteen gone and
+   forty-two left, and the chapter's own closing line already said so.** A chapter that contradicts its
+   own last line is invisible to every gate in the prompt.
+3. **THE PROMPT'S OWN GATE LIST IS NOT A LIST OF DEFECTS.** The Batch 0005 prompt listed the twelfth of
+   May as a Thursday that repaints and also listed the seventeenth as one. Only the seventeenth does, and
+   Ch 181's card governs. **A prompt is a plan and a calendar on a card is a fact, and where they differ
+   the card wins and the disagreement goes in this file.**
+4. **Two claims had no anchor at all and were removed rather than corrected**, because there was nothing
+   to correct them against: *he had watched her do it four times* (Ch 196, pricing a room) and *the only
+   person who knew it* (Ch 200). **The second was removed entirely on a third pass, 2026-10-12:** Ines
+   states the deadline and its cause on the twelfth at Ch 192 and Sun Meiling hears him repeat it on the
+   landing at ten that night, so no form of the exclusivity claim survives. The chapter now says the last
+   day was a fact about a numbered pad and a clerk's habit about the close of a month, and was written
+   down nowhere in the city.
+5. **ONE ANCHOR WAS A CHARACTER WHO WAS NOT IN THE ROOM.** Ch 198 attributed a statement to the eighteenth
+   about the seventh row that Ch 198 did not contain, and **Ch 209 at line 69 depends on that attribution
+   being true** — *you put it there on the eighteenth and you wanted it noticed that you did it yourself*.
+   **The beat has been added to Ch 198 in Sun Meiling's mouth, in her register, between Marguerite Vale's
+   two speeches. Ch 200's summary line and Ch 209's line are now both true on the page and a reader who
+   goes back can find it.** On a third pass the insertion was re-sequenced: the gesture beat *She took
+   her hand off the table* went back to its first home directly under Marguerite's speech about the Vant,
+   so that her next untagged paragraph is unambiguously hers again.
+6. **Two defects in closed earlier chapters, repaired at source and recorded here.** Ch 185 said the
+   fifth was the second Thursday on the card by the time clock; **Ch 181 prints the card and the fifth is
+   not on it, the tenth is the second Thursday**, and Ch 185 also said the pale rectangle had been bare for
+   *the fifth week* when Ch 190 prints *fourteen days* on the tenth and the rectangle went bare on the
+   twenty-sixth of April, which makes the fifth of May nine days. **Ch 160 said a book was *the only
+   thing in Ostara that nobody asked for*, which is a retired construction and fails a gate that is
+   specified at zero across the whole of Volume 4.** All three are one-clause changes with no continuity
+   risk.
+7. **A verbatim sentence ran one chapter apart inside the batch.** *I am a guild broker of nineteen years'
+   standing* appeared whole in both Ch 195 and Ch 196. **Ch 196 now says the same fact differently.** The
+   two remaining cross-chapter repeats touching 191–210 are the printed indemnity clause, which must
+   recur verbatim because it is a printed clause, and one gesture by the same Exchange clerk. **The added
+   Ch 198 beat originally shared an eleven-word run with Ch 190** — *in the Reading, in my own hand, four
+   hundred words* — **and was reworded on a third pass to *at a counter in the Reading, four hundred words
+   long and in my own hand*. Ch 200 line 31 still paraphrases the Ch 198 speech, and that is left
+   standing on purpose: it is Marguerite reporting a thing she heard in a room two days earlier, which is
+   what a later chapter referring back to an earlier one looks like.**
+8. **NOT REPAIRED, AND THE NEXT WRITER SHOULD KNOW: Ch 204 at Volume 5 says Marguerite Vale put the head's
+   name in the Vant's book *on the afternoon of the seventh of this month at a window*, and four days
+   later says she took four days to decide.** The Exchange window is the sixteenth at Ch 196, the scene at
+   Ch 197 is the seventeenth, the seventh is a kitchen at ten past one with the certificate on it, and the
+   quarterly return was lodged on the twenty-fourth. **Volume 5 Batch 0001 is closed and reviewed and was
+   not touched. It is a Volume 5 finding and belongs to whoever writes Batch 0002, which reads that file
+   every night.** It is carried live at the foot of `state/open-threads.md` under **LIVE CARRY-FORWARD,
+   2026-10-12**, which is deliberately outside the Volume 5 Batch 0001 close record because that record is
+   archived by the Batch 0002 prompt.
+
+**This block sat inside the Volume 5 Batch 0001 close record until 2026-10-12, which meant the prompt for
+Volume 5 Batch 0002 — which archives that record — would have archived the Ch 204 finding with it. It was
+moved to this file for that reason and nothing else.**

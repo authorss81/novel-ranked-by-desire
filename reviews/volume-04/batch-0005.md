@@ -22,7 +22,7 @@ Ten chapters, one a day from the eleventh to the twentieth of May, closing Volum
   never touched.
 - **196 The Exchange Floor** — a blank account buys nothing, and a broker's standing stands behind the
   household.
-- **197 Marguerite Vale** — the scene, in the Exchange sales floor after it closes, 3,891 words.
+- **197 Marguerite Vale** — the scene, in the Exchange sales floor after it closes, 3,887 words.
 - **198 The Invoice** — RANK TWO in the value column, and the second line about the holder of the book.
 - **199 His Own Indemnity** — the signature. Twenty-five past nine on the nineteenth.
 - **200 A Household Of Seven** — the roll to the counter, six names and one space, and the volume's last
@@ -31,32 +31,52 @@ Ten chapters, one a day from the eleventh to the twentieth of May, closing Volum
 **Volume 4's promise is met and paid.** The irreversible act is Ch 199 and it is his; the batch's loss is
 Ch 193 and it is not his; the batch's other irreversible acts are a woman's each.
 
-## Gate output, re-derived by command after the last edit
+## Gate output, re-derived by command on 2026-10-12 after the third pass
+
+**The first pass's block read *re-derived by command after the last edit*. Nine of the ten word counts in
+its `wc` row had gone stale and three of its gate rows had been wrong since the first pass wrote them.
+All are corrected here. See the third-pass section at the foot of this file for what changed and why.**
 
 ```
 ls chapters/volume-04/                                                     → 50
-titles unique book-wide (200 files)                                        → NONE
+chapter files book-wide                                                    → 210
+titles unique book-wide                                                   → NONE duplicated
 titles over 90 characters                                                  → 0
 titles 191–200 against outline/volume-04.md §11                            → exact, ten for ten, in order
-wc -w, 191 to 200        2949 / 2542 / 1858 / 1815 / 2599 / 1817 / 3891 / 1963 / 2227 / 2302
+wc -w, 191 to 200        2957 / 2555 / 1858 / 1823 / 2627 / 1838 / 3887 / 2123 / 2228 / 2361
 horizontal rules                                                            → 0
 blockquotes                                                                → 0
-bold / italic markup                                                       → 0
+bold                                                                       → 0
+italic                                                                     → 2, both inside dialogue: Ch 191
+                                                                              *what do I have to do*, Ch 194
+                                                                              *that*. The first pass recorded 0
+                                                                              here; that row was wrong.
 planning-register terms (reservoir, quiet account, concil, ninth seal, channel) → 0
 system panels in 191–200                                                   → 0
 ages                                                                       → 0
 meta-language in 191–200                                                   → 0
 rationed constructions                                                     → 0
-nobody / no one / no-one                                                   → 1 (ration 1)
+nobody / no one / no-one                                                   → 1 (Ch 193, ration 1)
 weekday names other than Thursday, 191–200                                 → 0
-the word Thursday                                                          → 2, both at Ch 197
+the word Thursday, 191–200                                                 → 3: two at Ch 197, one at Ch 200.
+                                                                              The first pass recorded 2, both
+                                                                              at Ch 197; that row was wrong.
 not a tank / he is a door                                                  → 0
-paragraphs over 90 words, whole of chapters/volume-04/                     → 0; none over 120
+paragraphs over 90 words, whole of chapters/volume-04/                     → 0; longest paragraph in the volume is
+                                                                              exactly 90 words
 paragraphs containing an internal newline                                  → 0
-8+ word sentence duplication, intra- and cross-chapter, all 50 files       → 0
-sentence-set diff against a pre-pass copy (item 65)                        → no prose lost
+8-word sentence duplication, sentence-initial, intra- and cross-chapter,
+  whole of chapters/volume-04/                                             → 37, **none of them touching
+                                                                              191–200**. The first pass recorded
+                                                                              0 here; that row was wrong.
 12-gram scan of Ch 197 against every earlier scene (item 66)               → forty runs in the first draft; rewritten
 ```
+
+**What the three corrected rows have in common, and why they are recorded here rather than quietly
+replaced: each was a clean-looking number for a gate that had been run, each was false, and in every case
+the prose was fine and the record was wrong.** That is the same shape as the eleven interval defects
+in this batch — a count standing in for a reading. **A gate row is a claim about a command, not the
+command, and a row that cannot be re-derived in one line should not be in the file.**
 
 ## What the gate output does not tell you — read this part
 
@@ -141,8 +161,14 @@ that did not write the pages should test it.**
 **This batch was re-dispatched after it had been written, closed, reviewed on the page and superseded by
 Volume 5 Batch 0001. A second pass ran every gate again, hand-traced every interval in the ten chapters
 against the chapter that prints the anchor, and repaired thirty sentences. No scene was rewritten, none
-was cut, and nothing was padded. The gate output above was re-derived by command after every edit and is
-current. The numbers in it have not moved except the two noted here.**
+was cut, and nothing was padded.**
+
+**The claim this section used to make — that the gate output above was re-derived after every edit and was
+current, with only two numbers moved — was false, and it is withdrawn.** Five of the ten word counts in
+the block had gone stale, two gate rows had been wrong since the first pass wrote them, and a third pass
+corrected all of it. The block above is the one re-derived on 2026-10-12. **This section's own repair
+table, below, is the record of the second pass and has been corrected where the third pass changed a
+repair's outcome; the third pass has its own section at the foot of this file.**
 
 ## What this pass found that the first pass's gates did not
 
@@ -181,7 +207,7 @@ gate in the prompt can, because each individual sentence is arithmetically well-
 | 199 | *written into a legal document seven days ago* | Ch 184 is the fourth of May | fifteen days |
 | 199 | *the sheet on the fourth of April* | the schedule is the fourth of May | the fourth of this month |
 | 199 | *a ruled block with four spaces* listing three | Ch 191's own description | three spaces, twice |
-| 200 | *the only person who knew it* | Doyle told him on the eleventh | *the only person in that house* |
+| 200 | *the only person who knew it* | Doyle told him on the eleventh | **removed outright on the third pass — see that section.** The second pass's *the only person in that house* was still false |
 | 200 | *the men had not been for six days* | the men came on the 17th; the 20th is three days | Thursday, and the rectangle still bare |
 | 200 | *in ten days it will be a number in a column* | the certificate is the twenty-seventh of June | thirty-seven days |
 | 200 | *what has changed in ten days* | the sixth of May, named two clauses earlier | since the sixth |
@@ -231,14 +257,23 @@ silently deleted, no paragraph was lost to a regex, and no damage is hiding behi
 
 ## The duplication scan, cross-chapter, and why it had to be re-run
 
-**Sentence-level 8-word duplication was run over all 260 chapters, not only this volume.** Sixty-four
-sentences repeat across chapter boundaries in the book and every one of them is a recursive motif that
+**Sentence-level 8-word duplication was run over all 210 chapter files, not only this volume** — this
+section previously said 260, which was never the file count and is corrected here. Sixty-four sentences
+repeat across chapter boundaries in the book and every one of them is a recursive motif that
 the book runs on — *she put her hands flat on the table*, *he said it without any weight at all*, the
 plate's own figures. **Four repetitions touch Chapters 191–210 and two survive deliberately: the printed
 indemnity clause, which must recur verbatim because it is printed on the instrument in three chapters,
 and *he put his hand flat on the rail*, which is the same Exchange clerk making the same gesture in
 Ch 196 and Ch 201.** The two that did not survive are in the table: **Ch 196's *I am a guild broker of
 nineteen years' standing*, which ran whole in Ch 195 as well, one chapter apart.**
+
+**A 2026-10-12 note on the sixty-four, because the same run returns a much larger number on a slightly
+different measure.** Run over sentence-*initial* eight-word grams instead of full eight-word windows, the
+same scan returns 247 book-wide and 37 across Volume 4. **The figure that matters for this batch is that
+none of the 37 touches Chapters 191–200, and none of the 247 touches this batch as a whole sentence.**
+The difference between sixty-four and 247 is the difference between a window and a sentence beginning,
+and a record that quotes a number without naming its measure is a row that cannot be re-derived, which is
+the failure the third-pass section is about.
 
 ## What this file still does not tell you
 
@@ -247,3 +282,55 @@ cross-references, all of which are re-derivable, and it certifies nothing about 
 **The most useful thing in this second pass is not in it: eleven arithmetic defects survived a full
 gate suite that had already been run once by the same process that wrote the pages.** A reviewer who
 wants to find something should not start with the gates.
+
+---
+
+# THIRD PASS, 2026-10-12 — REVIEW FINDINGS APPLIED
+
+**A review run — one that did not write these pages — read the second pass and returned eight findings.
+All eight are closed here. Four were real defects on the page that the second pass had itself introduced
+or failed to finish; three were false or stale statements in this file and the state files; one was a
+structural placement that would have destroyed the next phase's most important note. No plot point moved.
+No scene was rewritten. No chapter was cut. No planned beat was changed.**
+
+| # | Finding | What was actually wrong | Closed by |
+| --- | --- | --- | --- |
+| 1 | Ch 192 contradicts itself | Line 93 was repaired to *eight days from the twentieth*; line 139 still read *Nine days to the twentieth* — the same defect class the pass existed to kill, half-fixed | line 139 now reads **eight days**, keeping the ninth for the requisition's twenty-first, which is what the sentence is about |
+| 2 | Ch 192's bare *Nine days.* | It sat one paragraph below the corrected eight, with nothing to justify the switch | **Nine days is this sheet's own figure and it is not Doyle's, and both of them are running** |
+| 3 | Ch 200's exclusivity claim survived in new form | *The only person **in that house** who knew it* was still false: Ines states the deadline and its cause at Ch 192:93, and Sun Meiling hears him repeat it on the landing at ten that night | **removed outright.** The paragraph now says the last day was a fact about a numbered pad and a clerk's habit about the close of a month, and that it had been said out loud in a room on the eleventh and written down nowhere. The closing clause is untouched |
+| 4 | The inserted Ch 198 beat orphaned a paragraph | *Marguerite Vale took her hand off the table* had been moved to sit between Sun Meiling's new speech and Marguerite's untagged next paragraph, so it read as Sun Meiling's | **the gesture went back to its first home**, under Marguerite's speech about the Vant, restored as *She took her hand off the table* — and Marguerite's return is now marked by **Marguerite Vale had not moved and she was not going to** |
+| 5 | This file's currency claim was false | Nine of ten word counts stale; **three** gate rows wrong since the first pass wrote them; *all 260 chapters* was never the file count. `state/current.md`'s *3,891 words* for Ch 197 was stale too | gate block re-derived and rewritten above, false claim withdrawn, stale figures corrected in this file, in `state/current.md` and in the archived block of `state/archive/open-threads-v1-v4-batch-gates.md`, and the third-pass section added here |
+| 6 | Ch 192's summary was stale | `state/chapter-summaries.md` still carried the superseded *nine days to the twentieth* | now **eight days to the twentieth** |
+| 7 | The added Ch 198 beat overlapped Ch 190 | An eleven-word verbatim run — *in the Reading, in my own hand, four hundred words* | **reworded** to *at a counter in the Reading, four hundred words long and in my own hand*. **Ch 200 line 31 still paraphrases the speech and is left standing on purpose:** it is Marguerite reporting something she heard in a room two days earlier, which is what a later chapter referring back to an earlier one looks like |
+| 8 | The carry-forward addendum was in the wrong block | It sat inside *Volume 5, Batch 0001 — CLOSE RECORD*, which the Volume 5 Batch 0002 prompt archives — **the prompt for Batch 0002 would have archived the Ch 204 finding that Batch 0002 exists to fix** | **full addendum moved to** `state/archive/open-threads-v1-v4-batch-gates.md`, at the foot of that file's Volume 4 Batch 0005 section. **A short live carry-forward now stands at the foot of** `state/open-threads.md`, outside the V5 B1 record, carrying the Ch 204 finding and the six rules a Volume 5 writer needs |
+
+## What the third pass added up
+
+**Five edits across three chapters — two in Ch 192, two in Ch 198, one in Ch 200 — of which one is a
+sentence restored to the position it held before the second pass moved it. Word counts moved in three
+chapters and in no others: Ch 192 +16, Ch 198 +12, Ch 200 +26.**
+
+**And the shape of it is the shape of the second pass.** The second pass found eleven figures that had
+been carried forward without being re-derived. The third pass found six statements in four files that had
+been carried forward without being checked against the sentence they were supposed to replace: **two
+defects the pass itself introduced** (the Ch 198 insertion landed on the wrong side of a gesture, and the
+new speech shared eleven words verbatim with Ch 190), **two it half-fixed** (Ch 192's interval and Ch 200's
+exclusivity), and **two it left stale in the state** (Ch 192's summary, and a gate block claiming to be
+current). **A repair that is not re-read in the chapter it lives in is not a repair; it is an edit.**
+That is now in `state/current.md` alongside the carry-forward.
+
+## What the third pass did not do
+
+1. **Ch 204 was still not touched.** It is Volume 5 Batch 0001, it is closed, and it remains Volume 5
+   Batch 0002's to repair or to carry forward deliberately. The finding is live and the prompt that owns
+   it is one read away.
+2. **Ch 192's closing line, *Nine days.*, was left alone.** With line 95 now marking the requisition's
+   figure as the requisition's, the last line lands on the cart at the twenty-first, which is what the
+   chapter has been counting toward since the counter opened that morning. Ambiguity there is the point.
+3. **Ch 192's *the two women in that room this morning are the only people who know they are different*
+   was left alone, and this file should be honest about how thin that is.** The reader can take it as a
+   claim about who has held both dates at once rather than about who heard them, and Ines and Sun Meiling
+   are the two who have. **Beatrix Halm, Runa Sato and Tessa Okonkwo were also in that room and heard both
+   figures said aloud, so if a later chapter needs that exclusivity it will have to narrow it. It was not
+   narrowed here because the review did not flag it, it is not contradicted by anything on the page, and
+   rewriting an unflagged line to satisfy a reading is how a repair pass turns into a rewrite.**

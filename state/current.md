@@ -23,9 +23,28 @@ across eleven chapters.** Nothing was rewritten and no scene was cut. **Three th
 must know: Ch 191 now carries the institutional reason the schedule goes up on the twenty-sixth, so Ch 191
 and Ch 201 agree; Ch 198 now contains Sun Meiling claiming the seventh row on the eighteenth, which Ch 200
 and Ch 209 both depend on; and Ch 185 no longer contradicts Ch 181's printed card.** The full record is
-`reviews/volume-04/batch-0005.md` and the addendum is the last section of the head block of
-`state/open-threads.md`. **One finding was left standing and is Volume 5's: Ch 204 dates the Vant's book
-entry to the seventh at a window, and the window is the sixteenth.**
+`reviews/volume-04/batch-0005.md`; the eight-item addendum is at the foot of
+`state/archive/open-threads-v1-v4-batch-gates.md`, in its Volume 4 Batch 0005 section. **One finding was
+left standing and is Volume 5's: Ch 204 dates the Vant's book entry to the seventh at a window, and the
+window is the sixteenth.** That finding is carried live at the foot of `state/open-threads.md`, **not**
+inside the Volume 5 Batch 0001 close record, because the Batch 0002 prompt archives that record.
+
+**Third pass, 2026-10-12 — review findings applied.** **A review run that did not write the pages read
+the second pass and returned eight findings; all eight are closed.** Four were real defects on the page
+that the second pass had introduced or left half-finished: **Ch 192 contradicted itself, carrying *nine
+days to the twentieth* one line after it had been corrected to eight; Ch 200's *the only person in that
+house who knew it* was still false, because Ines says the deadline and its cause on the twelfth and Sun
+Meiling hears it repeated on the landing, and the exclusivity claim is now gone outright; and the beat
+added to Ch 198 in the second pass had been inserted on the wrong side of a gesture, so that Marguerite
+Vale's next paragraph read as Sun Meiling's.** Three were false or stale statements in the record itself,
+and the second pass's claim that its gate output was *current* is withdrawn. **One was structural: the
+addendum carrying the Ch 204 finding sat inside the Volume 5 Batch 0001 close record, which the Batch
+0002 prompt archives — Batch 0002 would have archived the note that exists to tell it what to fix.**
+
+**Two methods, both earned here, and both worth carrying: re-derive every figure at the date it is spoken
+on, because a figure correctly derived on one date and carried forward to another is this book's most
+recurring silent defect; and re-read, in the chapter it lives in, every sentence a repair touched, because
+the second pass fixed one instance of its own class in Ch 192 and left three.**
 
 ---
 
@@ -299,7 +318,7 @@ not the instrument.**
 
 **Scenes: 106, 118, 129, 141, 149 in Volume 3; 157, 169, 179, 189, 197 in Volume 4 — five, and Volume 4 is
 closed.** Gaps 149 → 157 = 8, 157 → 169 = 12, 169 → 179 = 10, 179 → 189 = 10, 189 → 197 = 8. **Ch 197 is
-written at 3,891 words, inside the 2,600–3,900 scene band**, staged in the Exchange sales floor after
+written at 3,887 words, inside the 2,600–3,900 scene band**, staged in the Exchange sales floor after
 closing with one window and its shutters up and an aisle two feet wide, **with no handhold and no lever
 frame and no timed count**, because the staging grid forbade reusing 189's mechanics and the first draft
 did exactly that and was rewritten; **his name is used once, priced, in the third person, as an item in an

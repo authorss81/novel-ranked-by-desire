@@ -88,13 +88,15 @@ The kitchen was very quiet.
 
 "The Vant has it," said Marguerite Vale. "And I am the one who gave it to them, and I gave it to them for nothing, and I have been giving that guild things for thirty years and this is the first thing I have ever handed over that I kept a copy of."
 
+She took her hand off the table.
+
 Sun Meiling came down four stairs and stopped, which is further into that room than she has been all morning.
 
 "The seventh row is mine," she said. "It is numbered and it is empty and it has been empty since the thirtieth of April, and every one of you has spent a fortnight looking at the sixth one and not one of you has said a word to me about the seventh.
 
-"And I want it said in this room this morning that the row is empty because of something I did on the sixth of this month, with a pencil, at a counter in the Reading, in my own hand, four hundred words, and that not one other person in this house put a mark on any part of it, and that is how it was done and that is the way I would do it again."
+"And I want it said in this room this morning that the row is empty because of something I did on the sixth of this month, with a pencil, at a counter in the Reading, four hundred words long and in my own hand, and that not one other person in this house put a mark on any part of it, and that is how it was done and that is the way I would do it again."
 
-Marguerite Vale took her hand off the table.
+Marguerite Vale had not moved and she was not going to.
 
 "And I want to say the last of it before this room decides what it thinks of me, and then I am going to go to the Exchange at midday because there is a thing I have to do with a book on the second floor, and I am not going to be asked about it and I would rather it was in the room now.
 

@@ -92,7 +92,7 @@ She stood up.
 
 "The household learns what it has signed on the nineteenth of this month, or it does not learn it at all. That is eight days from the twentieth and it is the twentieth because the Office burns an unused pad at the close of a month, and Doyle wrote that on the wall of a room yesterday and it is the truest thing anyone has said to us in a month.
 
-"Nine days. And on this sheet there is a box for the hour a person might be asked before they are touched, and that box is the same width as the box in the reading, and the man who printed both of them does not know that they are the same size, and I do."
+"Nine days is this sheet's own figure and it is not Doyle's, and both of them are running. And on this sheet there is a box for the hour a person might be asked before they are touched, and that box is the same width as the box in the reading, and the man who printed both of them does not know that they are the same size, and I do."
 
 She went out, and they heard the stairs, and then the landing door, and then nothing.
 
@@ -136,7 +136,7 @@ At the top of the sixty-one steps, at about ten, Sun Meiling had the lamp off on
 
 He stood at the eighth step and did the arithmetic out loud, because he had promised himself on the first of this month that he would do every figure out loud in that house.
 
-"Fifteen of the sixty are gone," he said. "Forty-five are left. Nine days to the twentieth, and nine days from the twelfth to the twenty-first, and the twenty-first is a cart at that door, and the twentieth is a sheet in Doyle's pad, and they are not the same date and the two women in that room this morning are the only people who know they are different."
+"Fifteen of the sixty are gone," he said. "Forty-five are left. Eight days to the twentieth, and nine days from the twelfth to the twenty-first, and the twenty-first is a cart at that door, and the twentieth is a sheet in Doyle's pad, and they are not the same date and the two women in that room this morning are the only people who know they are different."
 
 The landing did not say anything.
 

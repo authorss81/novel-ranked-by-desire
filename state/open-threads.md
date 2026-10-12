@@ -314,61 +314,42 @@ assumed:
 - **Agnete Lindqvist was counted in a room and was not counted on a form**, which is the whole of what
   this batch does with her. **Her eleven years indoors are not touched.**
 
-### ADDENDUM, 2026-10-12 — VOLUME 4 BATCH 0005 VERIFICATION AND REPAIR PASS, Chapters 191–200
+## LIVE CARRY-FORWARD, 2026-10-12 — Volume 4 Batch 0005 (Chapters 191–200) verification and repair
 
-**This batch was written, committed and closed on the twentieth of May in the book's calendar and was
-then re-dispatched. A second pass ran the gates again and hand-traced every interval in it against the
-chapter that prints the anchor. Every mechanical gate was clean and the interval trace was not. Thirty
-sentences were corrected by hand across eleven chapters, two of them in closed earlier chapters, and one
-beat was added to Ch 198 because two later chapters depend on it. Nothing was rewritten, no scene was
-cut, no pad was given to length. The full record is `reviews/volume-04/batch-0005.md`. The findings the
-next writer must carry are these, and they are canon now:**
+**This block is deliberately NOT inside the Volume 5 Batch 0001 close record above, because the prompt for
+Volume 5 Batch 0002 archives that record. Do not move this block into it.** The full eight-item addendum,
+with every defect and its anchor, is now archived at
+`state/archive/open-threads-v1-v4-batch-gates.md`, at the foot of that file's Volume 4 Batch 0005 section.
+The gate record is `reviews/volume-04/batch-0005.md`. What follows is only what a Volume 5 writer has to
+carry.
 
-1. **Eleven interval defects in 191–200, all real, none of them visible to a gate.** The pattern in
-   almost every one is the same: **a figure was derived from an anchor on one date and then carried
-   forward to a later date without being re-derived.** Marguerite's price at the kitchen table is the
-   seventh of May. Ch 195 (the fifteenth) said four days, which is the arithmetic to the eleventh. Ch 197
-   (the seventeenth) said nine days. Ch 198 (the eighteenth) said nine days again. **The correct figures
-   are eight, ten and eleven, and they are now on the page.**
-2. **Ch 195 carried the countdown figure belonging to the eleventh of May in the middle of a scene dated
-   the fifteenth.** It read *this is the eleventh day and forty-nine of them are gone*, forty-nine being
-   forty-nine days left, which is the eleventh, not the fifteenth. **The fifteenth is eighteen gone and
-   forty-two left, and the chapter's own closing line already said so.** A chapter that contradicts its
-   own last line is invisible to every gate in the prompt.
-3. **THE PROMPT'S OWN GATE LIST IS NOT A LIST OF DEFECTS.** The Batch 0005 prompt listed the twelfth of
-   May as a Thursday that repaints and also listed the seventeenth as one. Only the seventeenth does, and
-   Ch 181's card governs. **A prompt is a plan and a calendar on a card is a fact, and where they differ
-   the card wins and the disagreement goes in this file.**
-4. **Two claims had no anchor at all and were removed rather than corrected**, because there was nothing
-   to correct them against: *he had watched her do it four times* (Ch 196, pricing a room) and *the only
-   person who knew it* (Ch 200, which was also wrong in substance, because Doyle told him on the eleventh
-   that the pad burns at the close of the twentieth and a man cannot be the only person who knows a thing
-   a clerk told him last week).
-5. **ONE ANCHOR WAS A CHARACTER WHO WAS NOT IN THE ROOM.** Ch 198 attributed a statement to the eighteenth
-   about the seventh row that Ch 198 did not contain, and **Ch 209 at line 69 depends on that attribution
-   being true** — *you put it there on the eighteenth and you wanted it noticed that you did it yourself*.
-   **The beat has been added to Ch 198 in Sun Meiling's mouth, in her register, between Marguerite Vale's
-   two speeches. Ch 198 is now 2,111 words. Ch 200's summary line and Ch 209's line are now both true on
-   the page and a reader who goes back can find it.**
-6. **Two defects in closed earlier chapters, repaired at source and recorded here.** Ch 185 said the
-   fifth was the second Thursday on the card by the time clock; **Ch 181 prints the card and the fifth is
-   not on it, the tenth is the second Thursday**, and Ch 185 also said the pale rectangle had been bare for
-   *the fifth week* when Ch 190 prints *fourteen days* on the tenth and the rectangle went bare on the
-   twenty-sixth of April, which makes the fifth of May nine days. **Ch 160 said a book was *the only
-   thing in Ostara that nobody asked for*, which is a retired construction and fails a gate that is
-   specified at zero across the whole of Volume 4.** All three are one-clause changes with no continuity
-   risk.
-7. **A verbatim sentence ran one chapter apart inside the batch.** *I am a guild broker of nineteen years'
-   standing* appeared whole in both Ch 195 and Ch 196. **Ch 196 now says the same fact differently.** The
-   two remaining cross-chapter repeats touching 191–210 are the printed indemnity clause, which must
-   recur verbatim because it is a printed clause, and one gesture by the same Exchange clerk.
-8. **NOT REPAIRED, AND THE NEXT WRITER SHOULD KNOW: Ch 204 at Volume 5 says Marguerite Vale put the head's
+1. **NOT REPAIRED, AND IT IS THE REASON THIS BLOCK IS LIVE: Ch 204 says Marguerite Vale put the head's
    name in the Vant's book *on the afternoon of the seventh of this month at a window*, and four days
-   later says she took four days to decide.** The Exchange window is the sixteenth at Ch 196, the scene at
-   Ch 197 is the seventeenth, the seventh is a kitchen at ten past one with the certificate on it, and the
-   quarterly return was lodged on the twenty-fourth. **Volume 5 Batch 0001 is closed and reviewed and was
-   not touched. It is a Volume 5 finding and belongs to whoever writes Batch 0002, which reads that file
-   every night.**
+   later says she took *four days* to decide.** The Exchange window is the **sixteenth** at Ch 196, the
+   scene in the Exchange sales floor is the **seventeenth** at Ch 197, the seventh is a kitchen at ten
+   past one with the certificate on the table (Ch 195, Ch 197), and the quarterly return was lodged on
+   the **twenty-fourth** (Ch 204). **Volume 5 Batch 0001 is closed and was not touched by a Volume 4
+   batch. Batch 0002 owns it: either repair Ch 204's two sentences at source, or carry the discrepancy
+   forward deliberately in a voice that knows it. Leaving it to be discovered again by a reader is the one
+   option that is not open.**
+2. **THE WEEKDAY IS NOWHERE THE REASON THE SCHEDULE GOES UP ON THE TWENTY-SIXTH.** Ch 191 and Ch 201 both
+   say the reason is institutional: **the Office does not sit on the twenty-seventh of a month.** Any
+   later chapter that explains the twenty-sixth must use that reason. **The date does not move.**
+3. **THE SCHEDULE IS THE FOURTH OF THIS MONTH, NOT THE FOURTH OF APRIL.** Ch 199 was repaired from *the
+   fourth of April* to *the fourth of this month*. April and May are both being used in these chapters;
+   check which one a date belongs to.
+4. **Sun Meiling claimed the seventh row on the eighteenth, in Ch 198, in her own mouth.** Ch 200's summary
+   of that speech and **Ch 209's line 69 — *you put it there on the eighteenth* — both depend on it.**
+   That beat is load-bearing for Volume 5 and must not be cut.
+5. **Ch 185 no longer contradicts Ch 181's printed card.** The second Thursday in May is the **tenth**;
+   the pale rectangle went bare on the twenty-sixth of April, so it was nine days bare on the fifth.
+6. **Ch 160's retired *nobody asked for* construction is gone.** The gate on `nobody` is zero across
+   Volume 4 and one per batch across the book.
+
+**And the method, because it will recur: eleven interval defects in one batch survived a full gate suite,
+and the recurring mechanism was a figure correctly derived from an anchor on one date and then carried
+forward to a later date without being re-derived.** Re-derive every figure at the date it is spoken on.
+A count is not a reading.
 
 ---
 
