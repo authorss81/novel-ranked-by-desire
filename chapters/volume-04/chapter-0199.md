@@ -6,7 +6,7 @@ The counter on the second floor was the same counter and Doyle was behind it and
 
 "There it is," said Doyle. "Sit down. It takes about nine minutes and it is not the long one and you are not going to like it."
 
-It was one side of a sheet, cream weight, a little heavier than office stock. At the top, in the Office's own type, ASSUMPTION OF MEMBERS. Under that, a ruled block with four spaces: a head, a date, an hour. Under that, six lines, numbered one to six, ruled, for a clerk.
+It was one side of a sheet, cream weight, a little heavier than office stock. At the top, in the Office's own type, ASSUMPTION OF MEMBERS. Under that, a ruled block with three spaces: a head, a date, an hour. Under that, six lines, numbered one to six, ruled, for a clerk.
 
 He looked at it for a while.
 
@@ -18,7 +18,7 @@ The four pages went round to his side of the table.
 
 Page one: the premises, six persons of reading age keeping an address there, one person not on the roll, permitted answer, first person in four years to use it.
 
-Page one: the head, a name in his own hand, and a plate number, and the figure. Eight thousand one hundred and thirty-eight. He did not look at it for long, because he had written it into a legal document seven days ago in this room and had been quoted back to himself about nine hundred times since.
+Page one: the head, a name in his own hand, and a plate number, and the figure. Eight thousand one hundred and thirty-eight. He did not look at it for long, because he had written it into a legal document fifteen days ago in this room and had been quoted back to himself about nine hundred times since.
 
 Page two: five names, numbered, with a standing and a band and the date each began to keep an address at the premises.
 
@@ -104,7 +104,7 @@ He initialled it.
 
 "That is in my hand as well as hers and that is my decision and not the office's, and I have been doing this for thirty years, and it is the correct outcome and the only protection this office offers anybody, and it is offered by accident."
 
-He filled in the four spaces under the heading. He wrote the head's name, the date, and the hour, and he wrote his own initials against the block, and then he did something he had not done on the fourth, which was to put his own name at the foot.
+He filled in the three spaces under the heading. He wrote the head's name, the date, and the hour, and he wrote his own initials against the block, and then he did something he had not done on the fourth, which was to put his own name at the foot.
 
 The room was very quiet for about four seconds.
 
@@ -112,7 +112,7 @@ The room was very quiet for about four seconds.
 
 "You have made yourself the easiest person in Ostara to find. Every form, notice and paper in this city that concerns those premises now has a name at the top of it that leads to a man who cleans six floors of washrooms at the Fourth Branch, and you have been the least findable man in this city for four years and you have made yourself the most findable one in a piece of paper about nine minutes long.
 
-"From today, a paper can reach you by writing to you first. Not by coming to the address. By writing to you. And every one of those five women who answered the sheet on the fourth of April was answering the head, and now the head exists and has answered.
+"From today, a paper can reach you by writing to you first. Not by coming to the address. By writing to you. And every one of those five women who answered the sheet on the fourth of this month was answering the head, and now the head exists and has answered.
 
 "You have bought six people one question. And the question is worth three grains of margin, because that is what being asked is worth at your band, and every household in this city that has ever been certified has bought exactly that and exactly nothing else, and about one in three of them has not understood it at the time you understood it.
 

@@ -108,4 +108,4 @@ He put his shirt on.
 
 He said, at the door, "It is the same four ribs."
 
-"It is the same four ribs," said Tessa Okonkwo, "and that is the first thing that has been the same about them in seven days, and I have spent the last hour making a record of it, and the record is the thing. Go home. I will be here at eight."
+"It is the same four ribs," said Tessa Okonkwo, "and that is the first thing that has been the same about them since I gave you my reason on the seventh of April, and I have spent the last hour making a record of it, and the record is the thing. Go home. I will be here at eight."

@@ -54,7 +54,7 @@ Marguerite Vale looked at the sheet on the table and did not answer for about fo
 
 "I did not buy it for us," she said. "I bought it for me. And six women are in it, and the certificate in June will be issued on my standing, and the examination that follows it is mine, and every one of those is true at the same time.
 
-"And every one of you is in this room and none of you asked me for any of it, and I have been waiting nine days for one of you to make me say that out loud and you have not, and that is the correct outcome and I would be ashamed of both of us if you had."
+"And every one of you is in this room and none of you asked me for any of it, and I have been waiting eleven days for one of you to make me say that out loud and you have not, and that is the correct outcome and I would be ashamed of both of us if you had."
 
 Ines Duarte had the sheet by the corner and had turned it round and was reading the bottom half, and there is a thing she does, which is that she reads a document the way a person reads a document they intend to be cited from, in silence, for as long as it takes.
 
@@ -80,7 +80,7 @@ The kitchen was very quiet.
 
 "Sun—"
 
-"I cannot take it back because I told you on the seventh that a standing household cannot revive a set of terms that are down, and that is true of my terms and it is also true of this.
+"I cannot take it back because I said in this kitchen that a standing household cannot revive a set of terms that are down, and that is true of my terms and it is also true of this.
 
 "An examination once entered against a broker is not an examination that can be un-entered by the broker asking nicely, and there is not one instrument in this city that will do it, and I have looked, because I looked on the afternoon of the sixteenth while I was still paying for it."
 
@@ -88,7 +88,13 @@ The kitchen was very quiet.
 
 "The Vant has it," said Marguerite Vale. "And I am the one who gave it to them, and I gave it to them for nothing, and I have been giving that guild things for thirty years and this is the first thing I have ever handed over that I kept a copy of."
 
-She took her hand off the table.
+Sun Meiling came down four stairs and stopped, which is further into that room than she has been all morning.
+
+"The seventh row is mine," she said. "It is numbered and it is empty and it has been empty since the thirtieth of April, and every one of you has spent a fortnight looking at the sixth one and not one of you has said a word to me about the seventh.
+
+"And I want it said in this room this morning that the row is empty because of something I did on the sixth of this month, with a pencil, at a counter in the Reading, in my own hand, four hundred words, and that not one other person in this house put a mark on any part of it, and that is how it was done and that is the way I would do it again."
+
+Marguerite Vale took her hand off the table.
 
 "And I want to say the last of it before this room decides what it thinks of me, and then I am going to go to the Exchange at midday because there is a thing I have to do with a book on the second floor, and I am not going to be asked about it and I would rather it was in the room now.
 

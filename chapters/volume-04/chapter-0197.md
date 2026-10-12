@@ -18,13 +18,13 @@ There were forty desks and about six chairs that belonged to desks, and she had 
 
 He sat.
 
-"First, the terms, and I am going to say them out loud and I am not going to soften them, because you signed a thing on the seventh of this month on a page that has been read in this city since December and it had my whole price on it in it, and I am not going to have either of us pretend that I told you for the first time tonight.
+"First, the terms, and I am going to say them out loud and I am not going to soften them, because you were at that table on the seventh of this month when I put the whole of this down in front of the certificate in about ninety seconds, and I am not going to have either of us pretend that I told you for the first time tonight.
 
 "I told you at that table. I said the highest standing in this household is mine, and that a certificate at the end of fifty days binds six women to a guild broker's standing, and that it puts the Vant in a position it has not been in for nineteen years.
 
 "I said that none of you had asked me for it, and I said it at ten past one in the afternoon with the certificate in front of us, and every one of you heard me and not one of you asked.
 
-"So I have been waiting nine days for one of you to make me say it out loud as a thing I was offering, and none of you have, and I am going to stop waiting, because I have decided to buy something tonight with my own name and a name is not a thing I buy by myself."
+"So I have been waiting ten days for one of you to make me say it out loud as a thing I was offering, and none of you have, and I am going to stop waiting, because I have decided to buy something tonight with my own name and a name is not a thing I buy by myself."
 
 "What are you buying."
 

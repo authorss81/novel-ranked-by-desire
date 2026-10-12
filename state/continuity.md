@@ -27,14 +27,16 @@ every block below it on every point it touches.**
 - **MAY HAS THIRTY DAYS AND NO THIRTY-FIRST.** Printed at Ch 181, restated in Ch 201's mouth twice, and it
   is load-bearing: it is why the card's entry after the twenty-fourth cannot exist, why the men are next
   due on the first of next month, and why the last working day of the month is the thirtieth.
-- **CHAPTER 191'S PRINTED PREMISE IS REPAIRED ON THE PAGE IN CH 201 AND IS NOW CANON.** Ch 191 says the
+- **CHAPTER 191'S PRINTED PREMISE IS REPAIRED AT SOURCE AND IS NOW CANON.** Ch 191 used to say the
   twenty-seventh of June is not a working day, so the schedule goes up on the twenty-sixth; under the
-  derivation the twenty-seventh is a Tuesday. **Ch 201 now prints both, in his mouth, in the landing,
-  right after the June Thursdays are derived: the schedule goes up the working day before the
-  certificate, the working day before it is the twenty-sixth, the twenty-seventh is a Tuesday, and the
-  Office does not sit on the twenty-seventh of a month and never has and there is nothing about it on a
-  card.** The reason is institutional and not calendrical. **Any later chapter that explains the
-  twenty-sixth must use that reason and not the weekday.** The date does not move.
+  derivation the twenty-seventh is a Tuesday and both dates are working days. **Ch 191 now carries the
+  institutional reason in Doyle's mouth — the Office does not sit on the twenty-seventh of a month and
+  there is nothing about it on a card — and Ch 201 prints the same reason in his mouth in the landing,
+  right after the June Thursdays are derived, along with the dates themselves: the schedule goes up the
+  working day before the certificate, the working day before it is the twenty-sixth, and the twenty-seventh
+  is a Tuesday.** The reason is institutional and not calendrical. **Any later chapter that explains the
+  twenty-sixth must use that reason and not the weekday.** The date does not move. **Repaired at source
+  in the Volume 4 Batch 0005 verification pass, 2026-10-12.**
 - **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Thirty-seven
   days past the twentieth of May; twenty-seven of them are this batch.
 - **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0005.** Days elapsed from the

@@ -1,6 +1,6 @@
 # Nothing Said At All
 
-The forms went round the table on the morning of the fifteenth and there were five of them because Doyle had said six lines and one of the six was the head's, and the head's line was a different paper and lived in a different building.
+The forms went round the table on the morning of the fifteenth and there were five of them, and Ines Duarte had drawn them up herself the night before, one to a woman, because Doyle had said six lines and one of the six was accounted for on the sixth of this month with four hundred words in her own hand, and a line the clerk fills in is not a line a woman fills in.
 
 Each one was one side of a sheet. It wanted, in a ruled block: the member, in their own hand; what the member is; where that is evidenced; and then a line at the foot where the member signed.
 
@@ -10,7 +10,7 @@ Not what they stand for. Not a band. Not a plate. Not a number. What a member is
 
 "Yes," said Ines Duarte.
 
-"And on the seventh of this month Tessa wrote her name on a card at a counter in front of twenty-one people and said what she would answer for. And I have a household on page nine that goes to a counter once a week. And Marguerite has a standing in this city that predates all of us and does not sit in any document a clerk can read."
+"And on the eighth of this month Tessa wrote her name on a card at a counter in front of twenty-one people and said what she would answer for. And I have a household on page nine that goes to a counter once a week. And Marguerite has a standing in this city that predates all of us and does not sit in any document a clerk can read."
 
 "Yes," said Ines Duarte.
 
@@ -26,7 +26,7 @@ The forms sat on the table.
 
 "So the certificate does not issue," said Runa Sato.
 
-"The certificate does not issue, and the sixty run, and this is the eleventh day and forty-nine of them are gone." Marguerite put her own form down with the pen across it. "I am going to say this in the middle of the morning because I am not going to say it at the end, where it would sound like an argument.
+"The certificate does not issue, and the sixty run, and it is the fifteenth of this month and eighteen of them are gone and forty-two are left." Marguerite put her own form down with the pen across it. "I am going to say this in the middle of the morning because I am not going to say it at the end, where it would sound like an argument.
 
 "Every one of us has, in the last ten days, written our own name into a document we chose to write it into, and we each did it for a reason that was ours and not his, and I would like the room to understand that not one of those five documents evidences a standing. They evidence a decision.
 
@@ -34,7 +34,7 @@ The forms sat on the table.
 
 She looked round the table.
 
-"So we have a form that wants a document, and five women who have written five documents, and neither of those is the other thing, and there is about four days between now and the twentieth in which to work out which is which."
+"So we have a form that wants a document, and five women who have written five documents, and neither of those is the other thing, and there are five days between now and the twentieth in which to work out which is which."
 
 Runa Sato had the form in front of her and had not picked up the pen.
 
@@ -66,7 +66,7 @@ Marguerite Vale took her own form and turned it round and wrote on it, in a smal
 
 She set the pen down.
 
-"And the consequence of that answer is that the standing of the standing household is my standing, and that has been the case since the seventh of this month when I said it out loud at this table, and every one of you heard me say it, and none of you asked me for it, and I have been waiting four days for somebody to ask me for it."
+"And the consequence of that answer is that the standing of the standing household is my standing, and that has been the case since the seventh of this month when I said it out loud at this table, and every one of you heard me say it, and none of you asked me for it, and I have been waiting eight days for somebody to ask me for it."
 
 "Then we do not sign her," said Sun Meiling, from the fourth stair.
 
@@ -76,7 +76,7 @@ The table went quiet.
 
 "Sun," said Runa Sato.
 
-"I have said no," said Sun Meiling. "I have said no four times now, on the second of May and on the sixth and on the thirteenth in a queue and now, and I am not saying it again, and I am saying it about her and not about me because it is her name and not mine and I am the only one at this table who is not going to be on it."
+"I have said no," said Sun Meiling. "I have said no three times now, on the second of May and on the sixth and now, and I am not saying it again, and I am saying it about her and not about me because it is her name and not mine and I am the only one at this table who is not going to be on it."
 
 Marguerite Vale looked at the fourth stair for about four seconds.
 
@@ -88,7 +88,7 @@ The room did not answer that.
 
 "I am not signing it for you. I am signing it because it is the only instrument in this city that turns a door into a question. And I am signing it with my own name and my own register, and when the certificate issues on the twenty-seventh of June this household will be bound to me.
 
-"And that is the price, and I have known the price since the seventh and I told you the price on the seventh and none of you asked me for it, and I have been carrying it round this kitchen for four days waiting for one of you to make me say it out loud."
+"And that is the price, and I have known the price since the seventh and I told you the price on the seventh and none of you asked me for it, and I have been carrying it round this kitchen for eight days waiting for one of you to make me say it out loud."
 
 "And we did not," said Ines Duarte.
 

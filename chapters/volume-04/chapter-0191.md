@@ -166,7 +166,7 @@ Doyle did not answer that straight away.
 
 He stood up.
 
-"The twenty-seventh of June is the date on the certificate. The schedule goes up the working day before, which is the twenty-sixth, because the twenty-seventh is not a working day and this building does not act on it."
+"The twenty-seventh of June is the date on the certificate. The schedule goes up the working day before, which is the twenty-sixth, because the Office does not sit on the twenty-seventh of a month and never has, and there is nothing about it on a card."
 
 He said that in the ordinary way, the way a clerk says a fact about a calendar, and did not stop.
 

@@ -1,10 +1,10 @@
 # A Household Of Seven
 
-The twentieth of this month was the last day of a thing, and the only person who knew it was the man who had done the arithmetic out loud on a landing four times, and there is no instrument in this city that marks the last day of anything.
+The twentieth of this month was the last day of a thing, and the only person in that house who knew it was the man who did every figure out loud at the top of sixty-one steps, and there is no instrument in this city that marks the last day of anything.
 
 He cleaned six floors at the Fourth Branch and did them well, and at about half past six in the evening he came up the sixty-one steps to Ferrier Street with his coat over his arm.
 
-The roll was on the wall of the landing. The men had not been for six days and it was still bare. Seven rows. Six names. One space, numbered, empty.
+The roll was on the wall of the landing. The men had been to the square at nine on Thursday and had not been back, and the pale rectangle over there was still bare. Seven rows. Six names. One space, numbered, empty.
 
 Above them, in a heavier line, THE HEAD OF THE HOUSEHOLD, and under that a name in his own hand, dated the twelfth of May.
 
@@ -20,7 +20,7 @@ Marguerite Vale came up the stairs at about seven and stood in front of the boar
 
 "Six names and a space."
 
-"Six names and a space, and the space is the seventh row, and it has been the seventh row since the thirtieth of April, and in ten days it will be a number in a column, and there will be a man in an office who reads it and sees that there is one and that it is not filled.
+"Six names and a space, and the space is the seventh row, and it has been the seventh row since the thirtieth of April, and in thirty-seven days it will be a number in a column, and there will be a man in an office who reads it and sees that there is one and that it is not filled.
 
 "He will not ask why, because there is a box on the schedule of the sixth of this month that says ABSENT WITH REASON and four hundred words in her own hand, and that is why."
 
@@ -32,7 +32,7 @@ She put her hand flat on the wall beside the board, not on it.
 
 "And it is hers," said Sun Meiling.
 
-"It is hers," said Marguerite Vale, "and as of yesterday it is also a fact about a legal document, and those are two different things and they have been two different things since the sixth of this month, and what has changed in ten days is that one of them has become evidence.
+"It is hers," said Marguerite Vale, "and as of yesterday it is also a fact about a legal document, and those are two different things and they have been two different things since the sixth of this month, and what has changed since the sixth is that one of them has become evidence.
 
 "She has spent four months insisting that not being written down was a choice. It is a choice. It is also, since the sixth of this month, a four-hundred-word statement in her own hand in a district file, timed and signed, saying why she is not on a roll and that she is the person at these premises at whom papers are served and not one of the people they are served on.
 
@@ -46,7 +46,7 @@ The others came up. Six of them and him. Beatrix Halm was on the stairs with her
 
 Ines Duarte came up last and stood at the fourth stair and looked at the board the way a woman looks at a thing she has read.
 
-Seven rows on a board on a wall at the top of a stair. Above them, a head. Five names filled in. A sixth with a rule through it, dated and initialled, in a hand that was not the hand of any of the women standing on the landing. A seventh, numbered, empty.
+Seven rows on a board on a wall at the top of a stair. Above them, a head. Five names filled in. A sixth with a rule through it, dated and initialled, and four words at the end of it in the hand of the woman standing at the fourth stair. A seventh, numbered, empty.
 
 "Six names and one space," she said. "That is the sentence. That is the whole of it and it has been the whole of it since the thirtieth of April and it is still the whole of it today, and I want it said by one person in this house and then I am going to bed."
 
@@ -80,7 +80,7 @@ He stood at the eighth step, where he stood most nights, and looked at the board
 
 "There is a margin of three," he said. "And there is a warrant. And there is a name at the top of a page. And there are five names on a wall and a space that is a woman's, and a man who has no rank at all."
 
-"Then that is the shape of it," said Nadia Ferrous, who had not been in the room.
+"Then that is the shape of it," said Nadia Ferrous.
 
 "I did not want to be moved by it. I wrote myself into a service file in ninety seconds so that it would be my decision and not this house's, and I have been waiting since the fourteenth of March for a document with my name and my decision in the same place, and there is not one, and this is not it, and I am not going to pretend it is. Go to bed."
 
@@ -88,7 +88,7 @@ Sun Meiling went down first, to the ground-floor door that the rent comes to, wi
 
 She came back up about an hour later and put a card on the kitchen table face up.
 
-It was the size of a call slip. It had a date on it, the twentieth of this month, and an hour, and a street, and the number of names and spaces upon the roll, and in the fourth column, which was the one she had ruled herself on the sixth of this month, she had written:
+It was the size of a call slip. It had a date on it, the twentieth of this month, and an hour, and a street, and the number of names and spaces upon the roll, and in the fifth column, which was the one she had ruled herself on the sixth of this month, she had written:
 
 SIX NAMES. ONE SPACE. THE SPACE IS NUMBERED AND NOT FILLED. THE NAME ABOVE THE ROWS IS THE HEAD OF THE HOUSEHOLD AND HE SIGNED AN ASSUMPTION AT A COUNTER IN THE READING ON THE NINETEENTH OF THIS MONTH AND A CLERK WROTE DOWN WHAT WAS IN FRONT OF THE CLERK.
 
@@ -108,7 +108,7 @@ She looked round at six women.
 
 "I want every one of you to understand that it costs me something to hold that tonight and I am holding it anyway, and that I am not going to be thanked for it, because it is not a favour. It is a position.
 
-"And on the sixth of this month I said that a thing done for a door does not get thanked, it gets logged, and there is no book left to log it in, and there is now a card, and I have written it, and it is mine."
+"And on the sixth of this month I told him in this room not to thank me for waiting, and what I have never said out loud to any of you is that a thing done for a door does not get thanked, it gets logged, and there is no book left to log it in, and there is now a card, and I have written it, and it is mine."
 
 The lamp went off. The light on the landing stopped about two inches above the seventh row, as it did every night, as it had done since the thirtieth of April, and the board stood in the dark with six names on it and a head above them and one space.
 

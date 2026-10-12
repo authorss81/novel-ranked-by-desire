@@ -17,6 +17,16 @@ read away; you do not pay for it on every prompt.
 VOLUME 5 IS OPEN at Chapter 210. Volume 5, Batch 0002 — Chapters 211–220 — is the next phase, and its
 prompt is at `workspace/volume-05/batch-0002/PROMPT.md`.**
 
+**Second pass, 2026-10-12:** **Volume 4 Batch 0005 (Chapters 191–200) was re-dispatched after it was
+already closed, verified against the prompt's gates and hand-traced, and thirty sentences were corrected
+across eleven chapters.** Nothing was rewritten and no scene was cut. **Three things a later writer
+must know: Ch 191 now carries the institutional reason the schedule goes up on the twenty-sixth, so Ch 191
+and Ch 201 agree; Ch 198 now contains Sun Meiling claiming the seventh row on the eighteenth, which Ch 200
+and Ch 209 both depend on; and Ch 185 no longer contradicts Ch 181's printed card.** The full record is
+`reviews/volume-04/batch-0005.md` and the addendum is the last section of the head block of
+`state/open-threads.md`. **One finding was left standing and is Volume 5's: Ch 204 dates the Vant's book
+entry to the seventh at a window, and the window is the sixteenth.**
+
 ---
 
 # VOLUME 5, BATCH 0001 — HEAD RECORD. CHAPTERS 201–210. THE AUDITOR'S PRICE OPENS.

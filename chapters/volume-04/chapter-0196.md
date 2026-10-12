@@ -8,7 +8,7 @@ The sales floor is the second floor and you go up by a stair that smells of oil,
 
 One window on the far side had its shutters up and the light came through it in a low bar across the boards.
 
-She went to the window first. She always priced a room before she stood in it, and he had watched her do it four times.
+She went to the window first. She always priced a room before she stood in it, and he had watched her do it enough times not to be surprised by it.
 
 "You have not been in here," she said.
 
@@ -66,7 +66,7 @@ Marguerite Vale had been looking at the low bar of light on the boards the whole
 
 "You are rank two."
 
-"I am a guild broker of nineteen years' standing. And I am a member of that household, and a member of a standing household is inside it, and the standing of a standing household is the standing of its highest member."
+"I am a guild broker, and nineteen years is how long I have held it, which is a longer answer than the question needed. And I am a member of that household, and a member of a standing household is inside it, and the standing of a standing household is the standing of its highest member."
 
 "Which is you."
 

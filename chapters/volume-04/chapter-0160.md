@@ -24,7 +24,7 @@ He said it standing in the kitchen, in his own words, and she wrote it in the co
 
 "Right," she said. "Now I am going to tell you what that has cost, and I am telling you before I do it, and if you tell me to do it anyway I will, because I have already copied four answers into this book without being asked and there is no version of me that says no to a pen now.
 
-"Since the sixteenth of March this book has been the only thing in Ostara that nobody asked for. Not the notebook, which six women keep because they want to. Not the visitors' book, which Marguerite has kept for four years and reads out loud. Not a ledger, not a day book, not a minute of anything.
+"Since the sixteenth of March this book has been the only thing in Ostara that was not asked for by anybody. Not the notebook, which six women keep because they want to. Not the visitors' book, which Marguerite has kept for four years and reads out loud. Not a ledger, not a day book, not a minute of anything.
 
 "This is the one that has never been asked for by anybody and it has never once been a copy of anything, and it has three hundred and eleven sentences in it and eleven of them are mine and not one of them has ever been produced to anybody."
 

@@ -43,17 +43,18 @@ never once been read by a living man.** This is a reconciliation, not a contradi
 190 both quote the card's last line and neither of them asserts that it is correct, and Ch 181's
 derivation of the month's length rests on the *fourth* entry, which is the twenty-fourth.
 
-**CHAPTER 191'S PRINTED PREMISE IS NOW REPAIRED ON THE PAGE AND BOTH HALVES ARE TRUE.**
-Chapter 191 says the twenty-seventh of June **is not a working day** and therefore the schedule goes up
-on the twenty-sixth. **Under the derivation above the twenty-seventh is a Tuesday and the twenty-sixth is
+**CHAPTER 191'S PRINTED PREMISE IS NOW REPAIRED AT SOURCE AND BOTH HALVES ARE TRUE.**
+Chapter 191 used to say the twenty-seventh of June **is not a working day** and therefore the schedule goes up on
+the twenty-sixth. **Under the derivation above the twenty-seventh is a Tuesday and the twenty-sixth is
 a Monday, and both are working days.** The derivation is fixed by three canon facts and cannot give, so
-the working-day sentence was repaired rather than the calendar. **Chapter 201 now prints it, in his
-mouth, in the landing, immediately after the June Thursdays are derived: the schedule goes up the working
-day before the certificate; the working day before it is the twenty-sixth; the twenty-seventh is a
-Tuesday; and the Office does not sit on the twenty-seventh of a month, has not in nineteen years of
-cards, and there is nothing about it on the card or in any card.** **The reason is institutional and not
+the sentence was repaired rather than the calendar. **Ch 191 now states the institutional reason in
+Doyle's mouth: the Office does not sit on the twenty-seventh of a month, and there is nothing about it
+on a card. Chapter 201 prints the same reason in his mouth in the landing.** **The two chapters now
+agree, and the weekday appears as the reason nowhere in the book. The reason is institutional and not
 calendrical and it is canon. A later batch that has to explain why the schedule goes up on the
-twenty-sixth must use it and must not use the weekday.** The date does not move.
+twenty-sixth must use it and must not use the weekday.** The date does not move. **Repair made
+2026-10-12 in the Volume 4 Batch 0005 verification pass; before that, the correction lived only in
+Ch 201 and Ch 191 was left carrying a false reason.**
 
 ### Day map (M+5, thirty days, Thursdays the 3rd, 10th, 17th and 24th)
 
@@ -312,6 +313,62 @@ assumed:
   touched anybody in ten chapters. **No plate figure moved. No rank was earned, lost or scored.**
 - **Agnete Lindqvist was counted in a room and was not counted on a form**, which is the whole of what
   this batch does with her. **Her eleven years indoors are not touched.**
+
+### ADDENDUM, 2026-10-12 — VOLUME 4 BATCH 0005 VERIFICATION AND REPAIR PASS, Chapters 191–200
+
+**This batch was written, committed and closed on the twentieth of May in the book's calendar and was
+then re-dispatched. A second pass ran the gates again and hand-traced every interval in it against the
+chapter that prints the anchor. Every mechanical gate was clean and the interval trace was not. Thirty
+sentences were corrected by hand across eleven chapters, two of them in closed earlier chapters, and one
+beat was added to Ch 198 because two later chapters depend on it. Nothing was rewritten, no scene was
+cut, no pad was given to length. The full record is `reviews/volume-04/batch-0005.md`. The findings the
+next writer must carry are these, and they are canon now:**
+
+1. **Eleven interval defects in 191–200, all real, none of them visible to a gate.** The pattern in
+   almost every one is the same: **a figure was derived from an anchor on one date and then carried
+   forward to a later date without being re-derived.** Marguerite's price at the kitchen table is the
+   seventh of May. Ch 195 (the fifteenth) said four days, which is the arithmetic to the eleventh. Ch 197
+   (the seventeenth) said nine days. Ch 198 (the eighteenth) said nine days again. **The correct figures
+   are eight, ten and eleven, and they are now on the page.**
+2. **Ch 195 carried the countdown figure belonging to the eleventh of May in the middle of a scene dated
+   the fifteenth.** It read *this is the eleventh day and forty-nine of them are gone*, forty-nine being
+   forty-nine days left, which is the eleventh, not the fifteenth. **The fifteenth is eighteen gone and
+   forty-two left, and the chapter's own closing line already said so.** A chapter that contradicts its
+   own last line is invisible to every gate in the prompt.
+3. **THE PROMPT'S OWN GATE LIST IS NOT A LIST OF DEFECTS.** The Batch 0005 prompt listed the twelfth of
+   May as a Thursday that repaints and also listed the seventeenth as one. Only the seventeenth does, and
+   Ch 181's card governs. **A prompt is a plan and a calendar on a card is a fact, and where they differ
+   the card wins and the disagreement goes in this file.**
+4. **Two claims had no anchor at all and were removed rather than corrected**, because there was nothing
+   to correct them against: *he had watched her do it four times* (Ch 196, pricing a room) and *the only
+   person who knew it* (Ch 200, which was also wrong in substance, because Doyle told him on the eleventh
+   that the pad burns at the close of the twentieth and a man cannot be the only person who knows a thing
+   a clerk told him last week).
+5. **ONE ANCHOR WAS A CHARACTER WHO WAS NOT IN THE ROOM.** Ch 198 attributed a statement to the eighteenth
+   about the seventh row that Ch 198 did not contain, and **Ch 209 at line 69 depends on that attribution
+   being true** — *you put it there on the eighteenth and you wanted it noticed that you did it yourself*.
+   **The beat has been added to Ch 198 in Sun Meiling's mouth, in her register, between Marguerite Vale's
+   two speeches. Ch 198 is now 2,111 words. Ch 200's summary line and Ch 209's line are now both true on
+   the page and a reader who goes back can find it.**
+6. **Two defects in closed earlier chapters, repaired at source and recorded here.** Ch 185 said the
+   fifth was the second Thursday on the card by the time clock; **Ch 181 prints the card and the fifth is
+   not on it, the tenth is the second Thursday**, and Ch 185 also said the pale rectangle had been bare for
+   *the fifth week* when Ch 190 prints *fourteen days* on the tenth and the rectangle went bare on the
+   twenty-sixth of April, which makes the fifth of May nine days. **Ch 160 said a book was *the only
+   thing in Ostara that nobody asked for*, which is a retired construction and fails a gate that is
+   specified at zero across the whole of Volume 4.** All three are one-clause changes with no continuity
+   risk.
+7. **A verbatim sentence ran one chapter apart inside the batch.** *I am a guild broker of nineteen years'
+   standing* appeared whole in both Ch 195 and Ch 196. **Ch 196 now says the same fact differently.** The
+   two remaining cross-chapter repeats touching 191–210 are the printed indemnity clause, which must
+   recur verbatim because it is a printed clause, and one gesture by the same Exchange clerk.
+8. **NOT REPAIRED, AND THE NEXT WRITER SHOULD KNOW: Ch 204 at Volume 5 says Marguerite Vale put the head's
+   name in the Vant's book *on the afternoon of the seventh of this month at a window*, and four days
+   later says she took four days to decide.** The Exchange window is the sixteenth at Ch 196, the scene at
+   Ch 197 is the seventeenth, the seventh is a kitchen at ten past one with the certificate on it, and the
+   quarterly return was lodged on the twenty-fourth. **Volume 5 Batch 0001 is closed and reviewed and was
+   not touched. It is a Volume 5 finding and belongs to whoever writes Batch 0002, which reads that file
+   every night.**
 
 ---
 

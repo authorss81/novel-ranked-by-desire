@@ -90,7 +90,7 @@ She stood up.
 
 "I am going to say the last of it and I want it said before I go and read my own post, because it is the only thing in this room I am certain of.
 
-"The household learns what it has signed on the nineteenth of this month, or it does not learn it at all. That is nine days from the twentieth and it is the twentieth because the Office burns an unused pad at the close of a month, and Doyle wrote that on the wall of a room yesterday and it is the truest thing anyone has said to us in a month.
+"The household learns what it has signed on the nineteenth of this month, or it does not learn it at all. That is eight days from the twentieth and it is the twentieth because the Office burns an unused pad at the close of a month, and Doyle wrote that on the wall of a room yesterday and it is the truest thing anyone has said to us in a month.
 
 "Nine days. And on this sheet there is a box for the hour a person might be asked before they are touched, and that box is the same width as the box in the reading, and the man who printed both of them does not know that they are the same size, and I do."
 
@@ -120,7 +120,7 @@ At the end of the day he answered four questions at the counter and two of them 
 
 "How do you know about Doyle."
 
-"Because Doyle's pad is the only pad in this building that has had a name on the stub for nine days and not been entered," the clerk said, "and he tells me, because he is a man who has worked behind that counter for thirty years and there is not one week in that time that Doyle has not told the mail clerk something that had no business being said out loud in this hall.
+"Because Doyle's pad is the only pad in this building that has had a name on the stub and not been entered," the clerk said, "and he tells me, because he is a man who has worked behind that counter for thirty years and there is not one week in that time that Doyle has not told the mail clerk something that had no business being said out loud in this hall.
 
 "So you are going to sign it, and I want to say to you, as the clerk who reads this rack, that in four years I have not seen a requisition with a head of household served personally on a band five, and I have seen about four hundred with a member served on nothing, and I know what happens to those and I know what happens to these, and the difference is you.
 

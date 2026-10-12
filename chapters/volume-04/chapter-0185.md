@@ -1,6 +1,6 @@
 # The Service File
 
-The fifth was the second Thursday on the card by the time clock, and the men came up to the Reading wall at nine with a ladder and a crate and four buckets, and the pale rectangle was still bare.
+The fifth was not a Thursday on the card by the time clock, and the men came up to the Reading wall at nine with a ladder and a crate and four buckets, and the pale rectangle was still bare.
 
 Two days. He had said on the third that it would be bare on the tenth, and Wren Kallo had said the same thing, and two women who had never spoken to each other about it had arrived at the same figure from different ends.
 
@@ -10,7 +10,7 @@ The white-bearded man handed him a bucket without asking.
 
 "No list."
 
-"That is the fifth week and I have been putting nothing up in that slot since the twenty-sixth of April and there has been nothing on any list since the first, and the day the Office decides whether a man left or was moved the slot goes up or it comes down, and there is nothing either of us can do about it and I have stopped talking about it." He set the crate on the barrow. "You are welcome any Thursday."
+"That is nine days and I have been putting nothing up in that slot since the twenty-sixth of April and there has been nothing on any list since the first, and the day the Office decides whether a man left or was moved the slot goes up or it comes down, and there is nothing either of us can do about it and I have stopped talking about it." He set the crate on the barrow. "You are welcome any Thursday."
 
 At about eleven the six of them were in the kitchen and Nadia Ferrous had a service file on the table with the cover off.
 
