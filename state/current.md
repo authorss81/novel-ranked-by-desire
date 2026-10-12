@@ -1,8 +1,8 @@
 # Current State
 
-**Last written:** Volume 1, Batch 0004 complete — Chapters 31 to 40.
+**Last written:** Volume 1, Batch 0005 complete — Chapters 41 to 50. Volume 1 complete in prose; state positioned for Volume 2, Batch 0001.
 
-**Position:** Volume 1, *Rank Four* → *Rank Five*, chapters 1–50. Ten chapters remain.
+**Position:** Volume 1 complete, chapters 1-50. Rank six held, not provisional, seated on witnessed answer of the Review day. File open by one folio (Held Account One). Next: Volume 2, Batch 0001.
 In the story: **the 26th, morning, outside the Exchange**, having just read a published queue with his own
 name last on it, the word PROVISIONAL on his line, and eleven thousand eight hundred and fifty-nine
 grains between him and a real six.
@@ -239,3 +239,7 @@ accepted and locked; 36→46 is ten. Do not move a scene to fix either.
 and certified anyway; it is now written, and it took the chapter to 3,349 words, outside the length guide
 on purpose. **Ch 29 and Ch 26 are 2,299 and 2,698 and both would read thinner with the same repair.**
 Batch 0005's scene is Chapter 46 and should be written on the page the first time.
+
+## Where Volume 2 picks up
+
+- Held six. Ninety-one lines, eight turned, one himself. Three new turned named. Query closed. File 4,112 with one open. Terms kept down unsigned. May clipboard untouched. Rota word ungiven. Tessa at seventeen. September still Beatrix.

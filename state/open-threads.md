@@ -101,6 +101,23 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 | B30 | **A broker in Bellhouse told the Vant house that a man in a washroom asked for the date instead of the money.** Marguerite Vale said she was sorry about it. | Open — pays off at Ch 45–46. The refusal was published inside the house and that is why the terms come back. |
 | B1–B22 | Carried. Colm still locked and frightened; Nadia uncontainable and refusing to be spent; Ola's book now has twenty-two entries in a week; Ding alive and unnamed in the ledger; Bernt still down and Ditta on the benches; the gap unanswered; **Tessa's May clipboard untouched, as required**; Rhee's offer closed forever and not re-opened; the ninety-one back on the wall from the 26th. | Open. |
 
+## Opened by Batch 0005
+
+| # | Thread | Status at end of Ch 50 |
+| --- | --- | --- |
+| B31 | **The himself line.** Ninety-one lines, eight turned, one reading himself. No auditor has seen it. Ines cannot decide whether to file it. | Open — Volume 2 engine. The stage-one irreversible decision. |
+| B32 | **Three new turned at once.** Nell Ardery, Garrick Neve, yard checker. Three in four seconds in a room. | Open — triangulable pattern now points at the Review room itself. |
+| B33 | **Held Account One.** Transfer receipt 214,000 grains, Lin Wei’s hand, account the index does not contain. No Zero. | Open — T1 advanced by one folio. 4,111 sealed. Volume 2 must not open a second. |
+| B34 | **Beatrix’s broken price.** Cab promise broken in the square. | Open — named without heat, not forgiven in a speech. September still hers. |
+| B23–B30 | Carried. Declaration stands with finding number beside it; query closed by witnessed answer; provisional replaced by held six; 11,859 closed by open-question 400; Tobias off the board by instrument but declaration remains; Tessa at seventeen boards; Solveig column off the table; Bellhouse house behind him unsigned. | Open. |
+| B1–B22 | Carried. Colm still locked; Nadia at three and unspent; Ola clerking; Ding alive unnamed in ledger; Bernt still down; gap unanswered; May clipboard untouched; Rhee closed forever. | Open. |
+
+## Deliberately unanswered at the end of Batch 0005
+
+Who fed the account before the register’s hand-pencil entry nine years ago. What the 214,000 bought its receiver, and why the receiver’s file is One with no Zero. What a himself line does to a ledger across a season. Whether held six survives Volume 2’s measurement. And whether giving the rota word would cost Ines or save her.
+
+**The standing answer is spent as scheduled: Nobody has thanked him (Ch 50). No chapter may spend it again.**
+
 ## Deliberately unanswered at the end of Batch 0004
 
 Why the oldest of the thirty-one register entries predates the printed column and is still running. What

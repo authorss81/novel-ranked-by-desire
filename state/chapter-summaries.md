@@ -307,3 +307,34 @@ Runa: the document he filed on the 23rd is why a Reading Office query is open on
 wants an instrument he has not got. The clerk who entered his reading on the 3rd says she cannot invent him
 one. Ends on the corridor board: **EMRYS VAZ, four hundred and forty-one, the next reading the 29th.**
 [Winter Review queue published. Provisional band is not carried into review. Band six opens at 20,000. Published standing 8,141.]
+
+### Ch 41 — Zero
+26th. Published queue last of twenty-two, provisional the only reason he is on it. Yard gate shows no twentieth person; Vestry shows the five turned are the only named hands. Zero to spend. Ends on the Board repainting Thursday with the only instrument he holds being his own declaration.
+
+### Ch 42 — What a Sealed File Asks
+Thursday box, second standing. Weekly question from the index: what instrument. Answer: requisition of the 19th and declaration of the 23rd, no other. Third question new: what a sealed file asks — rank held, deposit, form with folio count. Query owned by the clerk of the 3rd, who cannot invent one. Ends wanting one true paper with another hand on it.
+
+### Ch 43 — The Longest Walk
+28th. Walks Branch to Cordwain and back looking for a twentieth face. Crossing full of the forty-one. Nell Ardery confirms no new face on the arc; Halvard confirms not one of forty came off him. List written: forty-one lines, five turned. Ends with grief for the trap: the only people he can relieve are the people relief would mark.
+
+### Ch 44 — An Empty Account
+29th, Thursday. Box third minute, then re-read: 8,140, one down, one inside tolerance, band holds. Query separate and still open. Beatrix: account empty in the one respect that matters. Ines: paper discharged, rota name said, word ungiven, May clipboard still unasked. Nadia: do not spend me. Ends with three stamped slips, none an instrument.
+
+### Ch 45 — Nine Seats
+Thursday box, third standing: 8,139, two down, band holds. Marguerite terms return: same line, one in four for five years, no road, plus nine seats with the house in the public seats. Runa: not an instrument. Ines: an evening is not an instrument. He goes for the worse reason — leverage, not money.
+
+### Ch 46 — The Best Rooms in Ostara
+Scene. Bellhouse top rooms. Terms read aloud. No road. Evening asked for herself, answered yes before anything starts. Scene on the page, unhurried, mutual, his tender arm respected. Afterwards he refuses the line again for appetite rather than principle. She keeps the terms down, signed or unsigned, and will sit the Review.
+
+### Ch 47 — The Review
+Thursday in the sixth week. Box fourth standing first: 8,137, four down, three inside tolerance, band holds through the day. Review room nine chairs, twenty-two called nine by nine. Query puts him in the room. Panel: provisional not carried, standing is a five. Open-question slot offered. He takes it.
+
+### Ch 48 — One Grain of Itself
+Takes the slot. Question: what is the figure made of. Spends the account on himself, once, first time. True answer: doors, trays, basket 400, door 200, aggregate 3,529, shifts wherever he stands. Machine scores witnessed answer 400; standing crosses 20,000. Rank six held, not provisional. Cost: line reading himself, three new turned (Nell Ardery, Garrick Neve, yard checker). Ninety-one lines, eight turned.
+[Ledger. Ninety-one lines. Eight turned. One line reads himself.]
+
+### Ch 49 — Four Thousand One Hundred and Twelve
+Finding carried. Query closed — witnessed answer is an instrument. Petitions Lin Wei file next morning: form with folio count as deposit. Index promises trolley by ten. Branch board wiped to Review date; five off by instrument. Beatrix names the broken cab promise without heat. Ines cannot decide whether to file the himself line. Ends wanting one folio by ten.
+
+### Ch 50 — Held Account One
+Side room ten o’clock. Trolley, guard, seals checked twice. 4,112 folios, 4,111 sealed, one open at the back by Wing order, never called. Open folio: transfer receipt in Lin Wei’s hand, 214,000 grains on the eleventh three years ago into an account the index does not contain, signed Lin Wei; under it in Wing print: file of the receiver is Held Account One. No Held Account Zero. Copy slip pocketed. Final image: second-floor washroom, petition drying beside soap, Board nine streets away unvisited, three colds that night. Nobody has thanked him.
