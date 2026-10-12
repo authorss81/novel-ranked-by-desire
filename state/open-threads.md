@@ -1,8 +1,36 @@
 # Open Threads
 
-**Volume 2 Batch 0001 is written: Chapters 51–60.** State updated by the batch that wrote it. **No
-review phase has run against these chapters**, which is the standing problem in this repository and is
-recorded again below rather than papered over.
+**Volume 2 Batch 0002 is written: Chapters 61–70.** State updated by the batch that wrote it. **No
+review phase has run against Chapters 51–70**, which is the standing problem in this repository and is
+recorded again below rather than papered over. **Chapters 51–70 still have had no review, and this batch read
+them as prose and found one reader-checkable arithmetic defect in them — recorded below as D1 and in
+`state/continuity.md`. It was written around and not repaired, because this batch did not write those
+chapters.**
+
+## What Volume 2 Batch 0002 has opened, after Ch 70
+
+| # | Thread | Status at the end of Ch 70 |
+| --- | --- | --- |
+| **B46** | **The weekly strip.** The branch plate-office strip goes to the Wing every Thursday, on his shift, in his own corridor, **not a copy**, for the rest of a standing with no end date. It discharges the three ruled lines and holds the interval at seven days. | **Open and irreversible. The batch's decision.** It also arms a dated clock: the band carries three grains of tolerance, he is at 8,138 against a floor of 8,141, and the figure is now printed in public once a week. |
+| **B47** | **The flat figure is public.** The Exchange queue has begun saying *flat* out loud and the wrong explanation is assembling itself: a standing that does not rise is a standing with nothing going into it. Garrick Neve declined to correct it. | **Open and worse than it looks.** The wrong answer is simple and it is what a man builds a whole thing out of, and it will finish inside a fortnight unless somebody corrects it. **This is the cost of B46, paid in other people's reading of him.** |
+| **B48** | **The fourth book.** A volume the Wing keeps for every entry the register could not take, five headings and a ruled sixth space, his page carrying twenty days of dates since the eighth. **She does not read it, she keeps it.** She wrote the sixth heading herself, in her own hand, on the twentieth. | **Open. Two words long and not on the page.** Alma Quayle is named offstage and is in no room. Volume 7's approach is being built in Volume 2 without being answered. |
+| **B49** | **The Office asks where he was, not what he is.** Three ruled lines: days attended, persons spoken with, **addresses**. The register keeps addresses and no faces; his ledger keeps faces and no addresses; the third line is the join. | **Open and now the sharpest institutional threat.** The refusal he made in the sixth week was to surrender faces. It did not touch this, and Ch 61's runner says so to him at a counter. |
+| **B50** | **The second attendance.** A nine-year-old procedure, never used: attendance for a person named on an analyst's sheet. Three buff squares dated the **nineteenth** for Nell Ardery, Garrick Neve and the yard checker, with an empty fourth box. | **Open and dated. Not narrated in this batch and not to be invented:** the nineteenth happens offstage. **A source may not be in the room** — Drant's new rule, written on the twentieth. |
+| **B51** | **The acknowledgement.** His hand, minuted: the three episodes were caused at his hand, are his cost, and are not evidence against the persons in which they occurred. | **Open and irreversible. The batch's second decision.** It is the same shape as what his brother did in a public hall, it cannot be unsaid, and it cannot be classified because it is not a score, a figure or a conduct finding. **This is the seed of every public reading in Volume 3.** |
+| **B52** | **A map of one event.** The thirty-one marks along the Ferrier arc are a pattern of where he walks, not of what he does. The dot is a single spend. If he spends again the dot becomes real and an analyst can draw him. | **Open, and it converges with B40.** Standing still is now doing two kinds of damage: the mass goes flat (Tessa) and the map becomes true (Ruta). **Ruta's third-colour line went up on the twentieth and he was not allowed to read it.** |
+| **B53** | **He is a shape with no place in it.** Sun Meiling's finding from eleven years of sheets. Every shape she has has a place; his does not. | **Open, and it cuts both ways.** A map cannot hold a man with no address, and a man with no address can be neither found nor cleared. **The single fact that defeats the Office's map also defeats his defence when somebody comes with paper.** Volume 3's whole problem. |
+| **B54** | **PERRIN SOWE.** Named on the consult line and on the respondent's form. Veil-Research, third floor, a window on the yard, nine years. **In no room.** He answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. He took the branch strip off a colleague's hand in the corridor on the fourth and said nothing. **He has never come down her corridor in three years.** | **Open. The thread, not the man.** Volume 2 may name the consult line, the memo and the answer and may not put him in a room. **Whether Lin Wei is alive is unknown to every character on the page and must stay that way until Volume 8.** |
+| **B55** | **The woman with the notebook.** A booked seat, no badge, four turns on the Ferrier line, asking operators for their counts and whether they can feel it when it goes. She got his name off a signalman at the Yard end. **Nadia gave it to her in a lift, on purpose, having worked it out first.** | **Open, and she is faster than the Wing.** The Office does not yet know about Nadia and the woman does not know what Nadia is. **Both of those are load-bearing for Volume 3.** |
+| **B56** | **The woman in the dark coat.** Now also working Marguerite's porters. Eighteen days. The Office has begun asking the same question she is. | **Open.** Two collectors, no badge on either, and the household is being counted from outside. |
+| **B57** | **Beatrix has taken him off her list** since the thirteenth and he has never asked. A passenger is somebody she could refuse, and she told him so. **The ninth of September is hers since June and is now known to three women in the household, who have made a rule about it.** | **Open.** The ungiven word is live: she has used one about four hundred times since June and never about him, because a word commits her to an answer she does not have. **September is untouched and is not this volume's.** |
+| **B58** | **Tessa is going to hand her own chart to an Office** on the twentieth, as a control: 258 cases, cause not established, and one case with a cause, her own arms. | **Open, and hers rather than his.** She is the first person in the household to put something into that office on purpose, and the reason is that a control makes two hundred and fifty-eight patients stop being a line. **Volume 10's Ch 483 is seeded here and must not be anticipated.** |
+| **B59** | **Ines's sheet is in his coat.** Four sides, going in on the seventh, with **RECIPIENT** printed over a blank twelfth line. | **Open. B31 and B44 have become one physical object and it is on a man who gets taken.** Shared custody is over and she says so without pretending it is a favour. |
+
+**Nothing was closed in this batch.** The query, the file, both calendars, the nineteenth, the twentieth, the
+twenty-first, the twenty-fourth, the twenty-fifth, the thirty-first, September and the four true things are
+all still live and now all have dates.
+
+
 
 **Carried past the Volume 1 close and into Volume 2 planning.** Every thread below was checked against
 the page at the close audit and its status updated. **Nothing is closed by a volume ending and this phase
@@ -647,6 +675,21 @@ the finding it was attached to, reported as though it were the whole finding.**
 **Standing rule for the next phase, stated once: a command that runs is not the command the claim is
 attached to, and a correction made against an unverified per-chapter sequence is a new certification, not
 the end of one.** Three defects in one file, all that shape.
+
+**Standing rule for Volume 2 Batch 0002, and the counts it ran.** This phase wrote Chapters 61–70 and did
+**not** write a review of them. Nine batches in this repository have written their own review and every one
+was wrong about the prose it described; item 29 in `state/current.md` records that the fix is a separate run.
+**Every mechanical gate below was run and every one passed: zero horizontal rules, zero bold, zero italic,
+zero planning-register words, zero weekday names other than Thursday (nine Thursdays), zero banned
+constructions (*there is no form*, *no column for*, *nobody thanked*, *He wanted, concretely*), one system
+panel in ten chapters and never repeated, `nobody`/`no one` at 19 with a per-chapter maximum of 4, no
+paragraph over 89 words and none over 120, no duplicate paragraph of twelve words or more, no sentence of nine
+words or more repeated anywhere in the batch, and ten titles unique against the fifty in Volume 1 and all
+under 90 characters. Chapter lengths run 2,363 to 5,012, with Ch 63 the scene chapter and over the guide on
+purpose, on the same grounds and with the same warning as Ch 55.** Those are counts. **A count is not a
+reading, and nothing above certifies that the prose is good, that the batch's midpoint and climax occurred, or
+that either irreversible decision costs anything.** The next phase that reads this batch must assume all
+three are unverified.
 
 **Standing rule for Volume 2 Batch 0001, stated because the batch itself had to work around it: this
 phase wrote Chapters 51–60 and it did NOT write a review of them.** Nine batches in this repository have

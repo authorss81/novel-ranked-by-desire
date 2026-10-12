@@ -92,6 +92,195 @@ condemned on the page. No new final enemy.
 
 ---
 
+# New canon — Volume 2, Batch 0002 (Chapters 61–70)
+
+Written by the batch that wrote the chapters. **Newest block, at the head of the stack.** Nothing below has
+been altered. **This block is a writer's record and has not been reviewed by a separate run** — see the
+standing rule at the foot of `state/open-threads.md`.
+
+## The calendar, fixed by the page
+
+Dates and intervals only. **Spoken weekday: Thursday only**, nine times across the ten chapters. Zero other
+weekday names appear in Chapters 61–70.
+
+- **Ch 61 the 28th. Ch 62 the 3rd of next month. Ch 63 the 5th. Ch 64 the 6th. Ch 65 the 9th. Ch 66 the
+  10th, a Thursday. Ch 67 the 12th. Ch 68 the 16th. Ch 69 the 17th, a Thursday. Ch 70 the 21st.**
+- **Thursdays in the batch: the 3rd, the 10th, the 17th.** **The 24th and the 31st of next month are
+  Thursdays and are both now on paper** — the 24th as the last date of the weekly standing, the 31st as the
+  eighth week of the strip, written out by Drant on the 17th and disclosed before Lin Hao asked.
+- **Tessa's readable-by date is unchanged: the 25th of next month.** Volume 2's thirty-day-month convention
+  (Review = the 13th, so the 25th of next month is six weeks after it) still governs, and this batch did not
+  re-derive it.
+
+## Mechanics now on the page
+
+- **THE WEEKLY STRIP — new canon, Ch 62, and it is the batch's spine.** The branch plate-office strip, taken
+  **once a week on a Thursday, on his shift, in his own corridor, and forwarded to the Wing — not a copy** —
+  discharges all three ruled lines (days attended, persons spoken with, addresses) and holds the attendance
+  interval at seven days. Signed on the third of the month. **It has no end date.** Drant says it twice: it
+  is the first time he has seen a strip read by a machine in that building, and the Office's third heading
+  was always the strip. CANNOT CONTRADICT.
+- **A standing that does not feed is evidence.** New canon, Ch 62. Fifty-one readings since the start of the
+  season: 8,140, 8,139, 8,138, 8,138, 8,138, 8,138 — against an ordinary control column that goes up two
+  hundred, down ninety, up four hundred, up eleven. **The plate still reads 8,138 and has not moved all
+  batch. Nothing the account did was converted into a grain.**
+- **THE THREE GRAIN MARGIN IS NOW PUBLIC AND WEEKLY.** A held band carries a tolerance of three grains and
+  four down lapses it. **He is at 8,138 against a floor of 8,141.** From the third of the month the figure is
+  printed in his own corridor on a machine with a bell, and the band sits on the Review floor, not on his
+  plate. **This is the irreversible decision of the batch.** Cost in the open: two days a fortnight, taken
+  because he was tired, against a margin of three grains that a public weekly reading spends.
+- **A printed strip on a corridor spike is a public document.** Stated by the batch's consequence in Ch 66:
+  the queue at the Exchange read the flat figure as *a standing with nothing going into it* and the wrong
+  explanation is assembling itself in the largest room in the district. **Garrick Neve declined to correct
+  it.** The habit was already in the book — Ch 57, Halvard: a thing that is wrong and simple is worse than a
+  thing that is right and complicated.
+- **THE FOURTH BOOK — new canon, Ch 61.** The Classification Wing keeps a fourth volume, out of a drawer
+  since the middle of the season: a page for every entry that came to that floor and could not go in the
+  register, five fixed headings in the same order every time, and a ruled space under the fifth where a
+  sixth heading goes. His page has carried **twenty days of dates since the eighth**. **Anneke Roos's finding,
+  which is the chapter's gift: the head of the office does not read it, she keeps it.** She wrote the sixth
+  heading herself on the twentieth, in her own hand. **It was two words long and the page does not say what
+  they were.** Alma Quayle is named offstage twice in this batch and is in no room.
+- **The Office's question changed at Ch 61.** It is no longer *what are you*. It is *where were you, and
+  who did you speak to, and what was the address*. **The register keeps addresses and no faces; his ledger
+  keeps faces and no addresses; the third ruled line is the join and the join is a person.**
+- **TWO INSTRUMENTS, NOT ONE — new canon, Ch 69.** A standing supersedes a schedule; a schedule does not
+  supersede a standing. The seven-day standing and the nine-day schedule Drant wrote in a column on the
+  twenty-fourth are both in force and both his, and neither was cancelled. **Four attendances before the
+  twenty-fourth: the seventeenth, the twenty-first, the twenty-fourth, the thirty-first.**
+- **THE SECOND ATTENDANCE — new canon, Ch 69.** A procedure that has existed in the building for nine years
+  and never been used: **attendance for a person named on an analyst's sheet.** Three buff squares, dated
+  the nineteenth, one each for **Nell Ardery, Garrick Neve and the yard checker**, with three boxes marked
+  and a fourth empty. The source cannot be traced without a source. **A source is not to be in the room** —
+  Drant writes that rule into his own minutes on the twentieth, and it has never existed before.
+- **THE ACKNOWLEDGEMENT — the second irreversible decision, Ch 69.** One sentence, his hand, minuted in a
+  room: the three episodes were **caused at his hand**, are his cost, and are not evidence against the
+  persons in which they occurred. **It is the first thing he has ever given that office that is not a
+  plate, and it is the same shape as what his brother did in a public hall.** It cannot be unsaid and it
+  cannot be classified, because it is not a score, a figure or a conduct finding.
+- **THE MAP'S BOX — new canon, Ch 67.** Every analyst's sheet ends with *place of event confirmed by
+  subject*. Ruta Vesely left it empty, then wrote in it, in his words, over her initials: *Place of event
+  confirmed by subject. Subject confirms the room and declines to confirm any recurrence.* Her third colour
+  went up separately and she would not read it to him.
+- **A map of one event is not a distribution.** New canon, Ch 67. The thirty-one marks along the Ferrier arc
+  are **a pattern of where he walks, not of what he does**; the single dot is a spend, and there has been one
+  spend since the start of the season. **If he spends again the dot becomes real and an analyst can draw
+  him.** This is now the second thing standing still is doing for the Office, beside Tessa's flat mass.
+- **He is a shape with no place in it.** New canon, Ch 63, Sun Meiling's finding from eleven years of sheets:
+  every shape she has has a place in it, and his does not. Two consequences and they cut opposite ways.
+  **A map cannot hold a man with no address, so the dot will never be him. And a man with no address can be
+  neither found nor cleared**, so the same fact that defeats the Office's map defeats his defence when
+  somebody comes with paper.
+- **THE LEDGER: 103 → 109, eight turned throughout, with the panel at Ch 64 only.** Lines only ever rise.
+  **No chapter in this batch turns anybody, and he spends nothing in all ten**, and the batch says out loud
+  that holding the count at eight is the thing that is killing it. Cause for the rise is stated on the page:
+  a weekly strip with a bell on a corridor counter, and a branch that now knows his Thursdays.
+- **B44 is now physically in his coat.** Ines's four-sided sheet was handed over on the sixth and will be
+  handed in on the seventh. **Shared custody became custody.** Side four carries a twelfth line with the word
+  **RECIPIENT** printed over it and nothing under it, and she wrote the word on purpose so that the document
+  invites a question.
+
+## New named people
+
+| Name | Where | What they are for |
+| --- | --- | --- |
+| **Ruta Vesely** | Analyst, observation support. **Met in person in Ch 67 and not before.** | Reached the wall map from a plate, a band and a date and has worked out that it is a map of his route with one spend on it. Does not believe her own map, wrote that down, left the confirmation box empty, took the whole finding up herself rather than let a clerk carry its weight, and will send a third line he is not allowed to read. **Recurring.** |
+| **Alma Quayle** | Head of the Office. **Named offstage in Ch 62 and Ch 63; in no room.** | Keeps the fourth book, does not read it, wrote the sixth heading herself on the twentieth, and is the woman Sun Meiling has met twice in corridors and who asked her a question she had already written down. |
+| **Perrin Sowe** | Veil-Research, third floor. **Named on a consult line and a respondent's form in Ch 70 and in no room.** | Lin Wei's colleague. The responsible officer who answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. He took the branch strip off a colleague's hand in the corridor on the fourth and said nothing. **He has not come down Sun's corridor once in three years.** |
+| **The woman with the notebook** | Vestry lift, Ferrier line, the Yard gate. **Not named.** | Has a booked seat and no badge, rides four turns, and asks operators for their counts and whether they can feel it when it goes. Calls it a survey and says it is not an audit. Got his name off a signalman at the Yard end in about eleven seconds. |
+| **The woman in the dark coat** | Carried forward from Ch 56. **Not named.** | Has been asking Marguerite's porters as well as his branch floor for eighteen days. The Office is now asking the same question she is. |
+
+## New locations
+
+The **branch corridor board** (now two lines, the second typed, and the whole building reads it). The
+**fourth book** on a desk nobody sits at. The **Register of outgoing paper** at the attendance desk: a thin
+cloth-bound book where anything leaving that floor is entered, and where a receiving house prints the name of
+the person responsible for the reply. The **Vestry lift**, where Nadia has spent the cold minutes of her life
+and where she now tells a woman with a notebook the truth.
+
+## Standing obligations created or discharged
+
+- **OWED and now doubled — the attendance calendar.** The standing (3rd, 10th, 17th, 24th, 31st) and the
+  schedule (3rd, 12th, 21st) run together, and the twentieth of next month is the date Drant will use to
+  write his own rule about sources.
+- **OWED — the nineteenth.** Nell Ardery, Garrick Neve and the yard checker attend. Offstage at the end of
+  this batch and **not narrated**: Batch 0003 opens on the twentieth and may take it up.
+- **OWED — the twentieth.** Tessa sends her own chart to the Office as a control. Ruta's map goes up with
+  three names on it. Drant writes a rule about sources.
+- **OWED — the twenty-fourth and the twenty-first.** The next two attendances, three days apart.
+- **OWED — the twenty-fifth.** Tessa's readable-by date. Unchanged and four days past the 21st.
+- **OWED — the monthly number said aloud.** **Twenty-six**, said in Ch 68. It was twenty-two in Ch 59.
+- **OWED — the ninth of September.** Beatrix Halm's date. Hers since June, told to nobody, and now known to
+  three women in a room above a chop-house, who have made a rule about it.
+- **OWED — Ines's four-sided sheet.** In his inside pocket, going in on the seventh, with RECIPIENT printed
+  at the bottom of the fourth side and nothing under it.
+- **KEPT DOWN — the rota word. The May clipboard. The word *Channel*.** Untouched across all ten.
+- **KEPT DOWN — Marguerite's terms.** She refuses them three ways in Ch 66 and they remain down and unsigned,
+  and the reason she gives for refusing to touch the strip is that a thing she has touched is a thing she has
+  a standing to call in.
+- **REFUSED IN ADVANCE — Nadia.** Four flights of stairs, unasked, and she says so on the page.
+- **KEPT — Beatrix's list.** He has been off it since the thirteenth and did not ask. **September is hers.**
+
+## Scenes
+
+**Chapter 63, Sun Meiling, second.** 5,012 words, the longest chapter in the book and **over the 1,800–2,700
+guide on purpose**, on the same grounds and with the same warning as Ch 55: Volume 1's precedent for a scene
+chapter is 4,761 (Ch 8) and 3,349 (Ch 36). **Do not cite this as a precedent for running long elsewhere.**
+
+Adults, awake, unrestrained, unmedicated, nothing touched that was not offered, four true statements before
+anything starts, hers first and longer and including the true one said on arrival. **No draw is spent.** The
+wall is bare for the duration, which is the scene's whole stage direction. **The direction is new and it is
+the opposite of Ch 55: in September she refused to audit him; here she asks to be allowed to read him aloud
+with her hands on him for an hour, and he wants it, and the reading is for her and she says so.** She narrates
+throughout. Violence and sex in separate registers; there is no violence in the chapter. **Next scene is Ch 74
+(Tessa) and it is eleven chapters away.**
+
+## Rationed and retired constructions — Volume 2 Batch 0002
+
+- **`nobody` / `no one`: 19 across ten chapters, maximum 4 in any one.** Batch 0001 was 28 at a maximum of 5.
+  The motif is available and the note stays spent.
+- **Planning-register words: zero.** *Reservoir*, *quiet account*, *Concil*, *Ninth Seal*, *Channel*.
+- **Weekday names other than Thursday: zero.** Nine Thursdays, all of them load-bearing.
+- **Horizontal rules: zero. Bold: zero. Italic: zero.** The first pass carried twenty-eight runs of emphasis
+  around printed documents and quoted phrases and every one was stripped.
+- **Panels: one in ten chapters**, at Ch 64, where the count turns. `Ninety-seven lines. Eight turned.` and
+  `One hundred and three lines. Eight turned.` are spent and are not reused. **A panel is never repeated.**
+- **`He wanted, concretely` does not occur in any of Chapters 61–70**, and the ten final paragraphs run on ten
+  different constructions. The Volume 1 debt is item 35 in `state/current.md` and is an unpaid repair.
+- **No age is stated for any person in Chapters 61–70.** Two bare number-ages were caught in the first pass
+  and removed — *since I was nineteen* (Nadia, twice) and *before you were six* (Lin Hao, twice) — and one
+  more, *a woman of thirty-one*, in Ch 68. Durations of service and of practice are registered below and none
+  of them is an age.
+- **The Ch 42–49 ending construction is not repeated, and neither is Ch 51–60's.**
+
+## Defects found in an unreviewed batch, recorded and not repaired
+
+**Chapters 51–60 have not been reviewed and this batch read them as prose.** One calendar defect was found
+on the page and **written around, not repaired**, because this batch did not write that chapter and a review
+repair is a separate run:
+
+- **A week count in Chapters 57 and 60 is roughly three times what the calendar supports.** The Review was
+  Thursday the 13th. **Ch 57 is the 23rd and Ch 60 is the 27th**, and both carry *"six weeks"* —
+  `chapter-0057.md:53` ("a figure that has not gone up by one grain in six weeks"),
+  `chapter-0060.md:59` ("every Thursday for the last six weeks he had walked past it"),
+  `chapter-0060.md:61` ("the first time in six weeks"), and `chapter-0060.md:109` ("four feet away, which
+  was further than she had stood in six weeks"). **The interval is ten and fourteen days.** The same drift
+  ladder is unaffected: 8,140 (Ch 44) → 8,139 (Ch 45) → 8,138 (Ch 47) is dates, not weeks.
+  **This batch therefore states no week count it cannot derive**, and uses *since the start of the season*,
+  *since the Review*, or an interval instead. Ch 62 and Ch 63 originally inherited the same error in drafted
+  lines and were corrected before the prose was settled. **A repair pass should take this first** — it is a
+  reader-checkable arithmetic error in three consecutive chapters and it is the same class of fault as items
+  31 and 44 in `state/current.md`.
+- **`chapter-0057.md:197` reads "He had twenty-three days until the second attendance."** Ch 57 is the 23rd
+  and the second attendance was the 24th. One day. Left alone.
+- **A bare number-age slipped into Chapter 59 of the unreviewed batch and was not caught**:
+  `chapter-0059.md` uses "a hundred and sixty bodies in one postal quarter" correctly and states no age, but
+  the same chapter's "Six weeks from the day you did it in that room" is the **one** place in Volume 2 where a
+  week count is correct, because the 25th of next month is six weeks after the 13th on Volume 2's thirty-day
+  convention. **The convention is sound; Ch 57 and Ch 60 simply did not apply it.** No age found.
+
+---
+
 # New canon — Volume 2, Batch 0001 (Chapters 51–60)
 
 Written by the batch that wrote the chapters. **Newest block, at the head of the stack.** Nothing below has

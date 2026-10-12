@@ -63,6 +63,86 @@ entered; **the batch's threat is a calendar and a drawer, not a room with no win
   Marguerite's terms down and unsigned, Beatrix's broken price, September, Nadia refusing in advance and
   unasked, **and Rhee, who has not appeared and may not.**
 
+# Current State
+
+**Last written:** **Volume 2, Batch 0002 — Chapters 61–70, complete.** `outline/volume-02.md` and
+`outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; Chapters 51–60 and then
+Chapters 61–70 by the two phases after it.
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are
+not restated here and nothing in Volume 2 Batch 0002 re-opens any of them. The last three of them —
+43, 44 and 45 — are a warning about this pipeline, and the batch that wrote Chapters 61–70 obeyed them
+rather than re-deriving them.
+
+**This batch did not write a review of itself.** That is deliberate and it is now two batches running.
+Nine batches in this repository have certified their own prose and every one of those certifications was
+wrong about the page it described; item 29 records that the structural fix is a separate run, not a prose
+discipline. What the batch did instead was run every mechanical gate, record the result with the command
+that produced each, and record plainly in `state/open-threads.md` that those are counts and not a reading.
+**A review phase has not run against Chapters 51–70 and the next phase that reads them must assume the
+prose, the midpoint, the climax and the cost of both irreversible decisions are all unverified.**
+
+**Position:** Volume 2 Batch 0002 closed. **Held six on an instrument, plate 8,138, floor 8,141, three grains
+of margin, and the margin is now public and weekly.** Ledger **109 lines, eight turned, one reading himself.**
+**He has spent nothing in twenty chapters and the count holding at eight is stated on the page as the thing
+that is killing it.** File 4,112 with **one** folio open and no second. Two calendars, four instruments, and
+six dated events before the twenty-fifth.
+
+**In the story:** **the 21st, evening, the bottom of an iron stair in the dark**, having been upstairs for
+nine days' worth of an hour and having asked a woman nothing.
+
+**Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**,
+or **the Classification Wing classifies the account and empties him out at rank one**. Twenty chapters in
+and the outline's expected discovery has happened and a second one has happened after it. **At Ch 63 Sun
+Meiling says the sentence that reconciles Volume 8: what is in him was sent, and the address was chosen for
+lowness.** Classification is still not entered and is not close to being entered. **The batch's threat is no
+longer a calendar and a drawer. It is a flat figure printed once a week in his own corridor, a map that is
+wrong on purpose, and a document with a number on it that somebody else wrote about him.**
+
+**Next phase to run:** **Volume 2 Batch 0003 (Chapters 71–80)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0003/PROMPT.md`.
+
+## Volume 2 Batch 0002 — what is now on the page
+
+- **The irreversible decision is Ch 62 and it was a bargain, not a refusal.** Offered by Silas Drant in a
+  room: the branch plate-office strip, once a week, on his shift, in his own corridor, **forwarded, not
+  copied**, discharging the three ruled lines and holding the interval at seven days. Signed with a pen he
+  was handed, four seconds before he understood it was the first thing he had ever given that office. **It
+  cost him the only proof that nobody in the city could find where his merit was going, and it armed the
+  three-grain margin against a public weekly reading.** Ch 66 pays it: the queue at the Exchange says *flat*
+  out loud and a wrong answer assembles itself, and Garrick Neve decides not to correct it.
+- **The second irreversible decision is Ch 69, and it is the chapter's cost rather than its refusal.** Three
+  buff squares dated the nineteenth for the three turned, and an empty fourth box on each, and an
+  acknowledgement he signs in his own hand: the three episodes **were caused at his hand**. **Drant says the
+  price out loud — it is what his brother did.** The three attend offstage and are not narrated.
+- **Ch 63 is Sun Meiling's second scene and is immovable.** She takes two hundred sheets off the wall because
+  she has been looking at pictures of him for three years. She says the sentence whole and does not soften
+  it. **He is a shape with no place in it** — which means a map can never hold him and a man with no address
+  can be neither found nor cleared. She is core and unsworn with all three reasons on the page, she spends
+  no draw, and **the scene is the opposite of Ch 55 in direction: she asks to read him aloud and he wants it.**
+- **Alma Quayle keeps a fourth book** — a page for every entry the register could not take, five headings and
+  a ruled sixth space — **and Anneke Roos's gift to him is that she does not read it, she keeps it.** Quayle
+  wrote the sixth heading herself, in her own hand, on the twentieth. **It was two words long and is not on
+  the page.** She is named offstage twice and is in no room.
+- **Perrin Sowe is on the page as a respondent's form and is in no room.** VEIL-RESEARCH, PERRIN SOWE,
+  RESPONSIBLE, printed on the outgoing consult so the reply need not be looked for. **He answered Sun's memo
+  three years ago; she drafted four lines and what went back was his, and she has never read them.** He has
+  not come down her corridor once in three years. **Lin Wei's whereabouts remain unknown to every character on
+  the page.**
+- **Two collectors are now loose in the city.** A woman with a notebook rides the Ferrier line and asks
+  operators for their counts; a woman in a dark coat with no paper has been working his branch floor and
+  Marguerite's porters for eighteen days. **Nadia gave the notebook woman his name in a lift, on purpose.**
+- **Tessa is going to send the Office her own arms** on the twentieth, as a control. 258 cases, cause not
+  established, and one case with a cause. **The rack ladder is 17 → 18 → 22 → 26 and lines only rise.**
+- **Ines's four-sided sheet is in his coat**, going in on the seventh, with RECIPIENT printed over a blank
+  line at the bottom of the fourth side.
+- **Beatrix has taken him off her list** since the thirteenth and he never asked. **The ninth of September is
+  hers**, is now known to three women in the household, and has a rule attached to it.
+- **Standing things carried untouched:** the May clipboard, the second folio, the word *Channel*, the rota
+  word, the thin unsigned sheet in the drawer, Marguerite's terms down and unsigned, Beatrix's broken price,
+  and **Rhee, who has not appeared and may not.**
+
+
 ## Adjudicated contradictions — do not re-open
 
 Closed before Batch 0001 was written, and in three batch review repairs. Recorded here and in the
