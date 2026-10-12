@@ -1,5 +1,96 @@
 # Open Threads
 
+## Volume 3, Batch 0001 — REPAIR PASS 2. `logs/batch-0001.review.log` read, fourteen findings applied.
+
+**The review found fourteen defects in Chapters 101–110. All fourteen are fixed on the page. This block is
+the record of what was changed and, more usefully, of where the first pass's own Gate A record was wrong.
+The writing pass certified six interval traces it had not subtracted. Every one of the six was wrong, in
+three different ways: wrong arithmetic, an anchor on a date the page later abandons, and an anchor on a
+different month from the one named. **A trace written from memory is not a trace.**
+
+### The six traces that did not survive subtraction
+
+| The record said | The arithmetic | The truth on the page |
+| --- | --- | --- |
+| Ch 103 *nine days* = 3rd to the 12th | 9 | **The 12th deadline is real but the hearing is 57 days out.** Corrected to fifty-seven throughout Ch 103. The old anchor was a date the page abandons four chapters later, and the figure also contradicted *three weeks* four lines below it. |
+| Ch 107 *four days* = 6th to the boxes | 6th + 4 = the 10th | **The roll is on that table on the 7th** (Ch 108:15). Corrected to *tomorrow*, twice. |
+| Ch 102/106 *five weeks* = 28th of M−1 to the 2nd = 35 | 35 | **The 28th of M−1 to the 2nd of M+2 is 66 days, not 35** — the record was a month out. The span that anchors is the discharge of the standing and the fourth floor on the 18th of last month: fifteen days. Corrected to *a fortnight* in both places. |
+| Ch 101 *five days between service and publication* | 3 | Correct, and it was the paragraph arguing against its own *tomorrow*. Ch 101:97 now reads *the day after tomorrow*. |
+| Ch 105 *four months* = nothing | — | The dominant canon figure, unanchored, and correct. See the four/five months entry below. |
+| Ch 109 *four days* after she goes = the 12th | 8 + 4 = 12 | Correct, and it is the one interval in the batch that was both traced and right. |
+
+### The fourteen findings, and what each one was
+
+1. **The answering document predated the objection it answered** (Ch 110:19). The stamp is now half past six
+   **on the morning of the ninth**, which is what Tove Marlin said at Ch 109:149. One clause changed.
+2. **Three timetables for one procedural step.** Consolidated to **one** — the twelfth is the last day, the
+   sheets go down on the morning of the ninth, the answer comes back stamped the same day, and lodging is a
+   separate act at ten past three on the ninth. Ch 108:15, :113 and :133 and Ch 109:44 and Ch 107:95 were
+   rewritten to say it. **Ch 110 and `workspace/volume-03/batch-0002/PROMPT.md` already assumed this
+   timetable, which is why it was chosen.** The rewrite is on the page, not only in this file: a reader of
+   107–110 now has one schedule and not three.
+3. ***Nine days* in Ch 103.** Corrected to fifty-seven, three times, and the fourth week it settles in is
+   now the last fortnight with six weeks in front of it.
+4. **Ch 101:97 put the notice on the board on the 2nd.** Three chapters say the 3rd; Ch 101 is now the
+   day after tomorrow, which agrees with Ch 102:57 and with its own *three days between service and
+   publication*.
+5. **Ch 101:133 said the Board would repaint tomorrow.** The 1st is a Monday. Now *it had done it two days
+   ago and would do it again on Thursday*.
+6. **Ch 107's *four days*.** Corrected to *tomorrow*, twice.
+7. **Ch 107's chair chronology was impossible** — eight chairs squared on the 1st, arrived on the 2nd. Now:
+   she moved the ninth chair on the 1st, on her own, and squared the eight on the 3rd, which took twenty
+   minutes. Sabine now asks for the order to be kept straight, because it is the point of the scene.
+8. **Ch 106's scene was summarised.** Rewritten: forty lines of physical, explicit prose, in the same room,
+   on the same table, with the same terms stated before it and no draw spent. The lamp still falls over and
+   neither of them picks it up. **The four words she says are now given.** *That bed* is now *a cold room
+   and a table*, which is what the chapter had. **This chapter now runs 4,676 words against a card band of
+   2,700–3,900, and that overage is deliberate and is recorded here rather than hidden:** the card says the
+   product of the chapter is the scene, and a scene that is summarised costs more than the words it costs.
+   No other chapter moved more than sixty words from where the first pass put it.
+9. **Ch 105 gave two dates for the rectangle.** Seven days to the 11th, twice, and the two objects are six
+   days apart rather than a week.
+10. **Weekend claims ran a day out.** The 6th is a Saturday and Ch 107 now says so twice; the 8th is a
+    Monday and Ch 109 now says *never once on a Monday night*; Ch 110's *first-of-the-week queue* on a
+    Tuesday is now simply *the ordinary queue*.
+11. ***Five weeks* had no anchor** and the record's own trace was a month out. Now *a fortnight*, anchored
+    to the discharge on the 18th of last month.
+12. **Four months against five months.** Four is the canon figure and the only one left. The two conditions
+    are now coextensive in the same sentence, which is what Ch 105 is arguing.
+13. **Ch 109's *a thing in a hall in six days*** pointed at the 14th, which carries no hall. Now *three
+    weeks*, which is the 29th.
+14. **Minor epistemics.** He can no longer know the 29th of M+3 is a Thursday from the 1st, so he asks
+    instead of asserting and is told nobody prints the year on a notice. Ch 106's *the end of next month* —
+    two days past a hearing already printed — is now *the end of this month*.
+
+### Three more, found by this pass and not in the review
+
+- **Ch 102 printed fifty-nine days four times on the 2nd.** Fifty-eight is correct from the 2nd. Four
+  single-word changes; nothing else in the chapter moved.
+- **Ch 103 printed the notice drafted on the 22nd of last month *and* three weeks before service, which
+  contradict each other by eleven days.** It is now the **19th** — the date of the unsigned classification
+  paper, and what Ines's *opened a drawer a fortnight ago* already implied on the 2nd. No new date is
+  invented and no thread is closed.
+- **Fenn's *in about six weeks* in Ch 110 contradicted his own reading of the same forecast in Ch 104.**
+  Six weeks from the 3rd is the 14th; from the 9th it is five. Corrected in Ch 110.
+
+### What this pass did NOT do
+
+It did not touch the day map. It did not move a single date out of `outline/volume-03.md` §12. It did not
+repair D3 or D4. It did not reopen anything the first pass closed, did not add a thread, did not give any
+character a line that changes what they want, and did not soften the irreversible decision at Ch 109, which
+costs exactly what it cost before. **No prose was rewritten except the Ch 106 scene, which was a summary and
+was required to be a scene.**
+
+### What the gates still do not tell you
+
+The gates passed on every one of these fourteen findings. They are internal contradictions between two
+clauses, two chapters or two characters, and a grep for a weekday name is structurally blind to all of them.
+**A count is not a reading, and an inference is not an anchor** — and this pass adds a third clause:
+**a trace is not an anchor either, unless the trace has been subtracted from two printed dates and both of
+those dates are still on the page.**
+
+---
+
 ## Volume 3, Batch 0001 — CLOSE RECORD. Ten chapters written, read against the page, repaired.
 
 **The chapters existed in draft before this record. A second pass read all ten in full against `outline/volume-03.md`, the batch cards, and the Volume 2 close, ran every mechanical gate, read Gates A and B by hand, and repaired what it found. This record lists what was found, what was changed, and what was verified — and plainly states what the gates cannot tell you.**
@@ -15,6 +106,11 @@
 7. **Ch 106 ran four words over its length band** after the door repair (3904 against 2700–3900). Four one-word trims in ordinary sentences; now 3899. No sentence restructured.
 
 ### Gate A — read by hand, not merely run
+
+> **SUPERSEDED ON THE SIX FIGURES THE REVIEW FOUND WRONG.** This trace was written before the batch was
+> reviewed and six of the figures below did not survive subtraction. `logs/batch-0001.review.log` is right
+> and this trace is not; the corrected working is in **REPAIR PASS 2** at the head of this file. The figures
+> this trace got right are still right.
 
 Every interval figure was traced to an anchor in its own chapter or to a printed Volume 2 figure. The load-bearing subtractions, verified rather than trusted: **Ch 101 fifty-nine = 30 + 29, with Ch 100's nine weeks three days less**; **Ch 105 tenth Thursday** (eighth on the 21st and ninth on the 28th of last month per Ch 100, so the 4th is the tenth); **Ch 109 nineteen days** (21st of last month to the 8th, inclusive — the book's inclusive convention, matching the grey counts); **Ch 102 a fortnight** (drawer opened ~19th of last month, the unsigned paper's own date, to the 2nd = 14); **Ch 102 five weeks** (28th of M−1, ninety-one names off the board per Ch 61, to the 2nd = 35); **Ch 103 nine days** (3rd to the 12th lodging); **Ch 105 three days** (4th to the 7th roll); **Ch 107 eleven days** (room shut since the 26th to the 6th) and **four days** (6th to the boxes ~10th); **Ch 108 five days** (7th to the 12th) and **about eight weeks** (7th to the 29th of M+3 = 53); **Ch 109 about seven weeks** (8th to the 29th = 52); **Ch 110 five days** (bench plate read on Thursday the 4th to the 9th). Two behaviours in dialogue are round rather than exact and are recorded as such: Tove's *careful one for six weeks* (nearest anchor the 25th of M, 44 days) and Fenn's *about six weeks* (a forecast, flagged with about). **No figure in this batch derives from D4 or D3.**
 

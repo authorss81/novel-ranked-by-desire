@@ -32,7 +32,7 @@ It felt like nothing.
 
 That was the answer, and it took about ninety seconds to arrive, and it was the most frightening thing that had happened to him since a woman with a card had read a figure off a page in a corridor in the middle of last month.
 
-Nothing at all. Two thousand people in this square, and not one of them had looked at that rectangle, and none of them would remember it by evening. In eight days it would have been painted over by a tile with somebody's name on it in the ordinary course, and there would be no way afterwards to establish that there had ever been a space.
+Nothing at all. Two thousand people in this square, and not one of them had looked at that rectangle, and none of them would remember it by evening. In seven days it would have been painted over by a tile with somebody's name on it in the ordinary course, and there would be no way afterwards to establish that there had ever been a space.
 
 He had expected a hole. What he got instead, with a wet collar and paint in the air, was the discovery that a man who is not on the wall is not on the wall, and that this is not the same thing as being on the wall wrongly, and that there is not one person in this city who is going to come and tell him about the difference.
 
@@ -40,13 +40,13 @@ And then he understood the Office's whole method, in two objects, standing in a 
 
 One was a frame at the east end with forty sheets on it, and his was one of the forty, and it had gone up on the third at eight in the morning and would come down on the third of next month and go into a house file in Cobb Street after that.
 
-The other was a rectangle of unfired board four feet up a wall, and it had gone blank on the twenty-eighth of last month and would have a stranger's name on it by the eighteenth of this month.
+The other was a rectangle of unfired board four feet up a wall, and it had gone blank on the twenty-eighth of last month and would have a stranger's name on it by the eleventh of this month, at the repaint after this one, because the Board does not leave a gap.
 
-Two objects and one week apart, and they were the same sentence. They said the same thing about him, in the same flat voice, from the same city, and one of them was made of ceramic and one of them was made of paper, and neither of them was made by anybody who had ever spoken to him.
+Two objects and six days apart, and they were the same sentence. They said the same thing about him, in the same flat voice, from the same city, and one of them was made of ceramic and one of them was made of paper, and neither of them was made by anybody who had ever spoken to him.
 
 That was what an office does. It does not need to know what you are. It needs two places to put you and it needs them to agree with each other, and he had spent four months being one of the two places and had never once been told that there was a second one.
 
-He had spent five months being a man nobody looked at and he had been proud of it in a way he had not examined, and he stood in a square on a Thursday morning and found out that being unlooked-at and being uncared-for are the same arrangement viewed from two ends, and that he had bought the second one without noticing that it came with the first.
+He had spent four months being a man nobody looked at and he had been proud of it in a way he had not examined, and he stood in a square on a Thursday morning and found out that being unlooked-at and being uncared-for are the same arrangement viewed from two ends, and that he had bought the second one without noticing that it came with the first.
 
 He wanted, very specifically, for somebody to come and ask him about it.
 
@@ -76,7 +76,7 @@ The strip came off the machine on the fourth floor at ten that morning with eigh
 
 The plate was three grains above a floor that had not moved either. Eleven thousand eight hundred and sixty-two under the band. The six sat where it had been seated in the winter, on the Review instrument and not on his plate, suspended pending a description, which was not the same as lost and was a worse shape than lost.
 
-Nothing about any of that had changed on the fourth of the month. The reason nothing about it had changed is that nobody in this city was looking at him at all, which is what he had paid five months and a floor and a calendar and three women's files for, and it had worked exactly as intended.
+Nothing about any of that had changed on the fourth of the month. The reason nothing about it had changed is that nobody in this city was looking at him at all, which is what he had paid four months and a floor and a calendar and three women's files for, and it had worked exactly as intended.
 
 He got to the Vestry at half past one and sat on the stone bench outside it with his sleeve pushed up, because the bench had a brass plate on the end of it and he had never once read the plate and had decided today that he would.
 
@@ -100,6 +100,6 @@ He stood up off the bench and went in.
 
 The corridor had four shut doors along it and a desk at the end of it with a girl at it, and the girl had been up two flights that morning with a board in each hand, and she had two days left of not carrying boards, and the boards went up at one from tomorrow and the desk at four o'clock was going to be a corridor with a chair in it.
 
-Nine days. A roll, and a room, and a hall with a rail in it.
+Eight days. A roll, and a room, and a hall with a rail in it.
 
 And a household that had spent the morning not being told anything, because he had gone out at five and had said nothing to any of them, and which would find out by the end of the week from a visitors' book, and a visitors' book did not care who read it first.

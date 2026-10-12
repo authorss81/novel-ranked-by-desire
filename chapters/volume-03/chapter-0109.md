@@ -6,7 +6,6 @@ He put the roll on the table in the middle of the notebook.
 
 "Nineteen days," said Nadia Ferrous. "Twenty-first of last month to the eighth. Six lines a day. Say that out loud and then say what it is worth."
 
-
 "I am going to say what it is."
 
 "That is not the same and I am not letting you get away with it either." Nadia did not move her hands off the table. "Nineteen days of six women saying where they were, on a working day, on a day off, for no reason anybody has ever given me a good one for.
@@ -41,8 +40,7 @@ He put his hand flat on the table beside the notebook, not on it.
 
 "And what do you propose to do about that," said Nadia Ferrous, in the voice of a woman who already knew.
 
-"Object to it. In writing, on the twelfth, attached to the acknowledgement of the roll, and the objection is that item four be excluded from being read aloud in the hall."
-
+"Object to it. In writing, attached to the acknowledgement of the roll, and in before the twelfth, because the twelfth is the last day anybody will take it. The objection is that item four be excluded from being read aloud in the hall."
 
 Ola Bright put her hand flat on the pad.
 
@@ -134,7 +132,7 @@ The second was attached to it and was headed by nothing at all.
 
 "Then read it back as written, let six women hear the exact shape of it, and sign it. Then I will tell you what happens tomorrow that you cannot do anything about."
 
-The clerk came up the outside stair at half past eight and knocked, which is a thing she has done eleven times and never once on a day off.
+The clerk came up the outside stair at half past eight and knocked, which is a thing she has done eleven times and never once on a Monday night.
 
 Tove Marlin did not take a chair. She read the two sheets in the order they were written, turned them both round so the room could read them, and read the second aloud exactly as written.
 
@@ -174,6 +172,6 @@ Nobody said anything about it and nobody was going to. He had gone in expecting 
 
 Marguerite Vale was at the door with her coat on.
 
-"Do not go up the stairs yet," she said. "I am going to say a thing in a hall in six days and I am saying it here because there is nobody at this table who can stop me.
+"Do not go up the stairs yet," she said. "I am going to say a thing in a hall in three weeks and I am saying it here because there is nobody at this table who can stop me.
 
 "I told you on the fifth that what was about to happen to you would make you the only man in Ostara whose condition cannot be taken back. It has. Not the way I said it. Because of a sentence about a book in a room above a chop-house, and not because of anything that happens to you on the twenty-ninth. I have been out-priced by a notebook in my own house."

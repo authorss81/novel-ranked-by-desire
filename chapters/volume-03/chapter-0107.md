@@ -1,6 +1,6 @@
 # The Chairs They Put Out
 
-He went to the Reading on the sixth because it was a working day and the district board outside it did not change, and because a man who has been told a date and a room and a number on a plate ought at least to go and look at the building, and because the third floor was the one floor in that building he had a reason to know about.
+He went to the Reading on the sixth because it was a Saturday and half the building was in and the district board outside it did not change, and because a man who has been told a date and a room and a number on a plate ought at least to go and look at the building, and because the third floor was the one floor in that building he had a reason to know about.
 
 There was no lift on that side. He went up the stairs past a corridor with the boards bare and the marks of four table legs on the floor, the same four marks that had been there on the fifteenth of last month, and at the top of the last flight a door stood open on a room that had been shut since the twenty-sixth of last month.
 
@@ -20,7 +20,11 @@ She was sitting in the corridor on the ninth chair. She had her hands on her kne
 
 She did not get up.
 
-"They put eight up and they did not put a ninth anywhere, and they did not ask me, and they left at about twenty past six, and I sat on this chair until the building shut and then I went home." She looked into the room. "I came back on the first with a broom and a floor cloth and I moved it. I put it four feet out from that wall and I squared the eight. I have not told anybody and nobody has asked me."
+"They put eight up and they did not put a ninth anywhere, and they did not ask me, and they left at about twenty past six, and I sat on this chair until the building shut and then I went home." She looked into the room.
+
+"I moved it on the first, before any of that, and I want that in the right order. I came in on the first with a broom and a floor cloth and I put it four feet out from that wall, because it had been against that wall for eleven years and I had been sitting on it for a fortnight, and a chair against a wall is a room nobody has arranged.
+
+"I squared the eight on the third, on my own time, and it took me twenty minutes. I have not told anybody and nobody has asked me."
 
 Lin Hao looked at the chair.
 
@@ -70,7 +74,7 @@ He looked at the eight chairs.
 
 "That is worse than a threat."
 
-"It is a room," said Sabine Rooke. "It is a room with nine chairs and a table and a shut door, and in about four days a man who arranges rooms is going to put nine boxes of paper on that table and two men who do not speak to each other are going to sit down on two of those chairs and wait to be called. And everything that has ever frightened anybody in this building happened to a person in one of those chairs."
+"It is a room," said Sabine Rooke. "It is a room with nine chairs and a table and a shut door, and tomorrow a man who arranges rooms is going to put nine boxes of paper on that table and two men who do not speak to each other are going to sit down on two of those chairs and wait to be called. And everything that has ever frightened anybody in this building happened to a person in one of those chairs."
 
 He was aware, standing in that doorway, of how bad it was, and of how completely ordinary the room was. The floor had been swept. There was a cloth folded on the table. There were marks in the wax on the window ledge where somebody had put a cup down on a day with nothing in it for eleven years.
 
@@ -92,7 +96,7 @@ He was aware, standing in that doorway, of how bad it was, and of how completely
 
 She sat down again on the chair that was not one of the eight.
 
-"There is a queue at the door on the seventh," she said. "Not today. It is there on the seventh and the eighth, because the roll goes to a registrar at four and a registrar comes back with a line on a sheet, and there will be a queue of people on this floor who are allowed to read the roll before the date, and you are one of them, and you will be let up one at a time."
+"There is a queue at the door on the seventh," she said. "Not today. It is there on the seventh and the eighth, because the roll goes down to a registrar on the ninth and a registrar comes back with a line on a sheet, and there will be a queue of people on this floor who are allowed to read the roll before the date, and you are one of them, and you will be let up one at a time."
 
 Lin Hao stood in the doorway.
 
@@ -114,13 +118,13 @@ It had gone into the book that afternoon without his noticing it, the way it had
 
 "Do not."
 
-"You have been arranging this room for eleven years and nobody has ever asked you what it is for, and a woman with a card has been up here twice, and in four days there is going to be a table with nine boxes on it and two men who do not speak to each other sitting in it."
+"You have been arranging this room for eleven years and nobody has ever asked you what it is for, and a woman with a card has been up here twice, and tomorrow there is going to be a table with nine boxes on it and two men who do not speak to each other sitting in it."
 
 "Yes," said Sabine Rooke.
 
 "Then you know what it is for."
 
-"I have known since the second," she said. "I have arranged a room for a member who never came for eleven years and I have never once been told what the room was for, and you have just told me in about ninety seconds, and you did it in a corridor on a working day with a sweep in the bucket and me sat on a chair."
+"I have known since the second," she said. "I have arranged a room for a member who never came for eleven years and I have never once been told what the room was for, and you have just told me in about ninety seconds, and you did it in a corridor on a Saturday with a sweep in the bucket and me sat on a chair."
 
 She picked up her card off the seat.
 

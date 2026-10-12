@@ -24,7 +24,7 @@ Nobody interrupted him, which had never once happened in that room.
 
 "Two months," said Nadia Ferrous. "Two months and they have not got one line in their hand."
 
-"They have got a band and a date and a word called held," said Beatrix Halm, "and they have got every woman in this house, asked about a man, for a month. Give it until the end of next month and they will have a sentence. It does not have to be good. It has to be in a hand."
+"They have got a band and a date and a word called held," said Beatrix Halm, "and they have got every woman in this house, asked about a man, for a month. Give it until the end of this month and they will have a sentence. It does not have to be good. It has to be in a hand."
 
 "They will have to build it out of something." Lin Hao had not meant to say it and said it anyway, because it had been in him since a long road. "There is no way to write that sentence out of what is in my file. There is a band six sitting on a paper and a figure three grains under a floor and a word that says held. That is three facts about a plate, and the question is not about a plate."
 
@@ -64,7 +64,7 @@ She put two fingers on the notice.
 
 "You want to make him expensive."
 
-"I want to make him priced." She said it exactly and she looked at him while she said it. "There is a difference and you know there is a difference, because you have been doing the other thing for five weeks and it has cost you a floor and a standing and a calendar and three files, and you did it in a corridor, at night, on your own, for nothing, because you did not want to owe anybody."
+"I want to make him priced." She said it exactly and she looked at him while she said it. "There is a difference and you know there is a difference, because you have been doing the other thing for a fortnight and it has cost you a floor and a standing and a calendar and three files, and you did it in a corridor, at night, on your own, for nothing, because you did not want to owe anybody."
 
 He did not answer.
 
@@ -150,13 +150,57 @@ She got his shirt open and her hands went down over his ribs and stopped with th
 
 He got her blouse open and she took over halfway, because her hands knew what they were doing and had been given something to do for eleven years without a man in the room, and she said so out loud in four words that made him put his forehead on her shoulder for a second.
 
+"Eleven years," he said, against her collarbone.
+
+"Nobody has ever said that back to me."
+
 "Say what you want," he said. "Not a rule. What you want."
 
 "I want you to be the dangerous thing in a room and to have been in this one first." She got her skirt down to her knees and then stood up out of it and stepped out of the rest of it and stood over him in the half-dark with the lamp turned down, entirely present, entirely herself, and looking at him the way a woman looks at a man she has been pricing for a month and has finally decided to spend.
 
 "Three rooms, and the right week, and a woman in each of them who will find out what you are before the Office does," said Marguerite Vale. "That is the whole of what I am buying with this afternoon, and it costs me the Vant if I get it wrong, and I would like to be able to say that I got it wrong in a room that was worth something."
 
-He got her onto the table and she let him, and there was nothing ceremonial about the next ten minutes and nothing careful, and the lamp stayed on the table and fell over once and neither of them picked it up.
+She took his wrist and put his hand on her hip, and then took it off again and put it somewhere else, and made him do it a third time, and the third time it went where she had meant it to and she left it there.
+
+"On the table," she said. "Hands behind your head and do not help me with anything, and if you lift me I will put you on the floor and I will not be gentle about it."
+
+He got her onto the table and she let him, and the lamp stayed on the table and fell over once and neither of them picked it up.
+
+It was not a thing that was negotiated. She had said her terms and she had meant them and she had not asked him a second time, and what she did with the next hour and ten minutes was work.
+
+She put her palms flat on his chest and pushed until he was back on his shoulders, and held him there with her weight while she put her mouth on the place he had been guarding since the spring, and then did not hurry at all.
+
+He put his hands behind his head where she had told him to put them and kept them there for eleven minutes, which was two minutes longer than he could have, and she counted them out loud against his collarbone and made him hear every one.
+
+"Still holding on," she said.
+
+"I am."
+
+"No, you are not." She came up off him and got a hand under the back of his neck and turned his face into her shoulder. "You are here. That is all it is now. Stop keeping it and tell me when you have stopped keeping it."
+
+He said it and she took the answer at face value and did not check it, which she had promised.
+
+Then she got him off the table and onto his feet with her hands under his arms and stood him against the edge of it, and used him there, and put her mouth to his ear in the dark and priced him again in a voice with nothing in it at all, item by item, the way she would have gone through a tray, and he found that he was answering. That was the part he would not have believed on the way up the stairs. He answered.
+
+"Say it again," she said, when he had.
+
+"No."
+
+"Then I will do it again." She turned him round with one hand and took him back to the table and went down on him slowly, both hands on the wood either side of his ribs, until his heels came up off the floor and she held them there.
+
+The cold came up off the tiles through the soles of his feet and he said something out loud that he had not planned to say, and she laughed at it, one syllable, and that was the only sound in that room that was not one of the two of them.
+
+She let him go then, and sat back on her heels, and took his face in both hands and looked at him for a long moment in the half-dark with the lamp on its side throwing a stripe of light across the ceiling and nothing else.
+
+"There," she said. "You have been arriving in rooms for two months and calling it holding on. You are not holding anything now. Say what the difference is."
+
+"I have not got a word for it."
+
+"You do not need one." She put her thumb on his lower lip and moved it. "That is the whole of what I have been trying to teach you and it is the only thing in this room tonight that I have got for free."
+
+Then she made him do it the other way round, on his back with her above him and her hair down over both of them, and it took longer and she let it take longer and she told him twice to stop apologising with his hands. The table was narrow and neither of them had been in it before and the lamp lay on its side where it had fallen and neither of them reached past each other to turn it up.
+
+He got his hand on the small of her back and she let him keep it there, which was the first thing all night she had let anybody keep, and she worked against it and said so, twice, in words with no courtesy in them at all, and then said something else, once, that was not a price and not a warning and that he understood at the time and did not understand until the following week.
 
 Afterwards she lay along him with her weight on his side and one hand flat on his chest, counting nothing, and said, into the collar of his shirt:
 
@@ -178,10 +222,9 @@ Afterwards she lay along him with her weight on his side and one hand flat on hi
 
 "That is what I am buying tonight and I would like it entered that I paid for it myself." She got off the table and found her shirt. "Do not comfort me. I have had thirty years of comfort from men who were frightened and I have never once mistaken it for anything else."
 
-She was dressed before he was. He watched her do her cuffs and understood that a woman who had been in that bed for an hour and ten minutes looked exactly as she had before it, except for her hair, which was the whole of the cost and which she did not intend to repair.
+She was dressed before he was. He watched her do her cuffs and understood that a woman who had spent an hour and ten minutes in a cold room on a table looked exactly as she had before it, except for her hair, which was the whole of the cost and which she did not intend to repair.
 
 She went out through the back door and shut it behind her, and Lin Hao sat on the edge of a table in a cold room and put his shirt on, and then he did what she had told him to do at the table, which was to wash his hands.
-
 
 He came into the hall at half past eleven and Marguerite Vale was at the table with the visitors' book open and the glass beside it, reading it out loud, the way she read it every week since the first, so the room would hear it before anybody in it said anything.
 

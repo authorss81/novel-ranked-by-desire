@@ -54,7 +54,7 @@ Tessa sat down on the bench at the other end of it, which she had never once don
 
 "A description of an account is a claim about what the account does. A statement of when and where a member intends to say a thing is not a claim about the account at all. It is a claim about the member's mouth.
 
-"Every office in this city already knows the shape of your mouth, Lin Hao, because you have spent five months refusing to use it. The one thing they have never had from you is a date on it."
+"Every office in this city already knows the shape of your mouth, Lin Hao, because you have spent four months refusing to use it. The one thing they have never had from you is a date on it."
 
 She got up off the bench.
 

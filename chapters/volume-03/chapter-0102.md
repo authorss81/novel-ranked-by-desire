@@ -70,7 +70,7 @@ He looked at the sheet on the table.
 
 "I said four things. This is the first, and it is that the answer is no before the hearing and no after it, and the hearing is not a place where anybody finds anything out." She squared the sheet.
 
-"The second is that you have fifty-nine days and every one of them is a day somebody spends on you, and a notice does not stop working because a man is deciding what to do about it. Three desks are already turning. Somebody three floors over a building on Cobb Street went back to a list yesterday and found your name on it."
+"The second is that you have fifty-eight days and every one of them is a day somebody spends on you, and a notice does not stop working because a man is deciding what to do about it. Three desks are already turning. Somebody three floors over a building on Cobb Street went back to a list yesterday and found your name on it."
 
 "That is not the list from the eighteenth of last month. I have asked about it once and been told it is nothing, which is an answer that means the opposite of what it says."
 
@@ -96,13 +96,13 @@ She looked up. "The form asks you for a reason. In your own words. In one paragr
 
 Ines Duarte was quiet for about three seconds, and he understood that she was choosing between two things and that the choice was hers and was not going to be about him at all.
 
-"The fourth is that I cannot help you," she said, "and I am not going to pretend that I cannot help you in order to be the kind of person you came here hoping to find, because you would spend the next fifty-nine days waiting for me to do it and the waiting would be worse than the hall.
+"The fourth is that I cannot help you," she said, "and I am not going to pretend that I cannot help you in order to be the kind of person you came here hoping to find, because you would spend the next fifty-eight days waiting for me to do it and the waiting would be worse than the hall.
 
 "I read every record that passes this table and I have read yours, all of it, since the third of last month. I can tell you the day every paper about you was written, which office wrote it, and the two names that are on every one of them. I can do that in about ninety seconds and it is worth nothing to you."
 
 "The room is not short of paper. The room is short of somebody who will say a sentence out loud in front of a hundred strangers and stand in the room while they write it down in their own words."
 
-"There is one of those people in this city and she has a card on her table and she is sitting opposite you and she is going to do it in her own time or not at all, and I am telling you so that you stop waiting for me to arrive at the other kind of help before the eleventh of next month."
+"There is one of those people in this city and she has a card on her table and she is sitting opposite you and she is going to do it in her own time or not at all, and I am telling you so that you stop waiting for me to arrive at the other kind of help before the twenty-ninth."
 
 He stood up.
 
@@ -114,13 +114,13 @@ He sat down.
 
 "That is not a question anybody has ever answered, and it is not the question, and I am not going to pretend it is." She turned the sheet round again and squared it. "The question is whether you will let them look. Everything else is a version of that question wearing a hat, including the form, and including the refusal, and including the four months you have spent building a shape that was exactly legible in the one respect that cost nothing and invisible in every other.
 
-"You have been invisible for five weeks and it has worked, and it has cost you a floor, a standing, a calendar, three women who have files because of you, and one woman who has said no to her own house in writing and cannot be written down.
+"You have been invisible for a fortnight and it has worked, and it has cost you a floor, a standing, a calendar, three women who have files because of you, and one woman who has said no to her own house in writing and cannot be written down.
 
-"And in fifty-nine days it stops working, because the way they have found you is not a mistake somebody made. It is the procedure doing exactly what it says."
+"And in fifty-eight days it stops working, because the way they have found you is not a mistake somebody made. It is the procedure doing exactly what it says."
 
 She put two fingers on the numbered paragraph and left them there.
 
-"You cannot win this one, and I want that said in a room with a lamp on it and not in a corridor, because you are going to spend fifty-nine days trying to win it and everybody in your house is going to tell you that you are close." She took her fingers off the paper.
+"You cannot win this one, and I want that said in a room with a lamp on it and not in a corridor, because you are going to spend fifty-eight days trying to win it and everybody in your house is going to tell you that you are close." She took her fingers off the paper.
 
 "You are not close. And I am not going to tell you what to do about it, because there is nothing on this page that lets me, and because you have never once in your life done the thing that is printed in front of you, and this is the first time the thing printed in front of you is not a lie."
 

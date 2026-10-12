@@ -25,10 +25,12 @@ Titles from the volume title bank and nowhere else:
 (§4 step 2, §5 reversal and its seven-point restatement rule, §9 power and relationships, §10 scene
 schedule, §12 day map, §13 threads), `state/current.md`, `state/continuity.md` (the *Volume 3, Batch
 0001* block at the head — the calendar, the closed roll, the describing answer), `state/open-threads.md`
-(the *Batch 0001 CLOSE RECORD* at the head — including the ledger-figure correction and the D4/D3
-inheritance), `state/chapter-summaries.md` (101–110).
+(the *Batch 0001 REPAIR PASS 2* block at the head, then the *CLOSE RECORD* — including the ledger-figure
+correction, the six interval traces that were certified and were wrong, and the D4/D3 inheritance),
+`state/chapter-summaries.md` (101–110).
 
-**Then read Chapters 101–110 in full.** They are the state you inherit: the notice and its sixteen words
+**Then read Chapters 101–110 in full.** Read 101 for the notice and the arithmetic, 106 for what the scene
+is when it is written rather than summarised, and 108–110 for the timetable and the nine items. They are the state you inherit: the notice and its sixteen words
 (101), Ines and the coming form (102), Adeyemi and the planted courtesy (103), the blank-strip answer and
 Tessa's lapse (104), the missing tile (105), Marguerite's scene and the unnamed caller (106), Sabine and
 the parties' room (107), the nine-item roll (108), the signed objection (109), the describing answer and
@@ -43,14 +45,23 @@ and the four-line answer, because this batch builds on both word for word.
 - Ledger **112 lines, eight turned, one reading himself**. **No ledger figure beyond 112 is page canon** —
   Batch 0001's work-queues imply accrual with the cause named and print no number. File **4,112, one folio
   open, no second**. 214,000, Held Account One, no Zero unchanged.
-- **The roll is closed.** Nine items, acknowledged with an excluding objection; item four excluded from
-  being read aloud and described in a registrar's file. The hearing stands for Thursday the 29th of the
-  third month. The Office's list of what it will put before the hall opens with a description.
+- **The roll is closed and it is lodged.** Nine items, acknowledged with an excluding objection; item four
+  excluded from being read aloud and described in a registrar's file. The hearing stands for Thursday the
+  29th of the third month. The Office's list of what it will put before the hall opens with a description.
+  **THE REGISTRAR TIMETABLE IS SETTLED AND MUST NOT BE RE-OPENED:** the twelfth of last month was the last
+  day a registrar would take anything; he signed on the night of the eighth; a man came down at half past
+  six on the **ninth** with a stamp; the four-line answer was on the Fourth Branch counter by half past
+  ten on the ninth; and **he lodged the tube himself at ten past three that afternoon**, three days early.
+  Answering and lodging are two different things and Ch 110 says so on the page. **Nothing in 111–120 may
+  describe a return of the roll to a registrar, a re-signature, a second answer, or a deadline.** If a
+  clerk in this batch mentions a registrar, it is about a *different* item.
 - **He is still employed**, cleaning six floors at the Fourth Branch. Do not take the job.
 - Household seven women; six keep the notebook and Sun Meiling does not; his signature refused. Visitors'
   book running since the 1st; the 3rd carries an unnamed caller: *Ask him what it is.* Three women each
   hold one buff square and are not named. Nadia's lift log, forty-one names.
-- Classification paper dated the 19th of last month, unsigned; sixth space empty.
+- Classification paper dated the **19th of last month**, unsigned; sixth space empty. **The hearing notice
+  was drafted on the same 19th** and served on the 1st — that is a fact of the record and no chapter
+  links the two documents.
 - **He is not a tank, he is a door** is never restated in any form, by anyone, including in his thoughts.
   Batch 0001 repaired three lines that broke this; do not re-break it.
 
@@ -59,8 +70,13 @@ and the four-line answer, because this batch builds on both word for word.
 **Batch 0002 is the 11th to the 20th of M+2, one chapter a day, no shared dates.** The 10th goes by
 before it opens. Thursdays are the **11th (Chapter 111)** and the **18th (Chapter 118, Wren's scene)** —
 each is a Thursday because the Board repaints, standing instrument-work, never because it was computed.
-No other weekday name may appear in prose. Do not trust a weekday name; subtract every date against the
-table in `outline/volume-03.md` §12. D4 and D3 are inherited, flagged, and untouched: nothing derives
+No other weekday name may appear in prose **unless a character is named for the day they are living** —
+Batch 0001's review found two chapters calling a Saturday a working day because no weekday name was
+allowed to appear at all, and the fix was not to forbid the name but to use the right one. Do not trust a
+weekday name; subtract every date against the table in `outline/volume-03.md` §12. **And a character may
+not know a weekday the calendar does not give him yet:** at Ch 101 he *asks* whether the hearing date is a
+Thursday and is told that nobody prints the year on a notice, because at that point the length of the
+month he is standing in is not yet on the page for him. D4 and D3 are inherited, flagged, and untouched: nothing derives
 from the Review's weekday or from any of the nine D3 figures.
 
 ## What this batch must land

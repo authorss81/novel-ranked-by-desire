@@ -2,7 +2,7 @@
 
 He went to the Fourth Branch at eight in the morning on the ninth because the answer to a thing he had signed at a table in Ferrier Street was going to arrive in a building he worked in, and he wanted to be standing in it when it did.
 
-The register desk had a queue at it at eight, the ordinary first-of-the-week queue, and he cleaned washrooms until twenty to nine and then went and stood at the end of it with his hands at his sides, and Drant did not look at him for about an hour and a half, which was the longest hour and a half of a working morning Lin Hao had had since the middle of last month.
+The register desk had a queue at it at eight, the ordinary queue, the same one that had been there every morning that week, and he cleaned washrooms until twenty to nine and then went and stood at the end of it with his hands at his sides, and Drant did not look at him for about an hour and a half, which was the longest hour and a half of a working morning Lin Hao had had since the middle of last month.
 
 At half past ten the thin book came off the shelf under the counter and Anneke Roos squared it and opened it and turned it round, because she had done that three times in five weeks and it was a thing she had started doing.
 
@@ -16,7 +16,7 @@ At half past ten the thin book came off the shelf under the counter and Anneke R
 
 "And the second."
 
-"The second is not mine and it is not about this floor. It is on the counter because it is addressed to the register." Anneke Roos put a sheet down face up and kept her hand flat on it. "It came down from the fourth floor of an Exchange building at six o'clock last night with a stamp on it that has an office's name and no person's, and that is how a registrar signs when the thing he is answering is not a thing anybody has looked at."
+"The second is not mine and it is not about this floor. It is on the counter because it is addressed to the register." Anneke Roos put a sheet down face up and kept her hand flat on it. "It came down from the fourth floor of an Exchange building at half past six this morning with a stamp on it that has an office's name and no person's, and that is how a registrar signs when the thing he is answering is not a thing anybody has looked at."
 
 Lin Hao did not put his hand on the sheet.
 
@@ -33,6 +33,8 @@ He read it.
 *No name is attached to the item and none is required.*
 
 Four lines. He had signed eight words and had put a book into a file, and a registrar four floors above a clerk who was not told why had written four lines back, and not one person in the whole of it had decided anything.
+
+The roll had not gone in yet. A registrar answers an objection when the objection reaches him, and the lodging is a separate thing that happens afterwards, in the afternoon, when the whole set goes into a file and stays there, and everybody in the building knew the difference and only one of them cared.
 
 There was no refusal in it and no concession in it. It was not even a judgement. It was a clerk, or a stamp, or a man with a bad shoulder, reading two pieces of paper and finding that one of them was valid, and writing down what the one that was valid described.
 
@@ -60,7 +62,7 @@ That was the whole trade and it had taken four minutes.
 
 "I will not."
 
-"Then it goes back in the tube at four with the roll, and everything that has ever been true about it in that room is going to be read out by a clerk in the voice she reads things in." Anneke Roos squared the sheet.
+"Then it goes back in the tube before four with the roll, and everything that has ever been true about it in that room is going to be read out by a clerk in the voice she reads things in." Anneke Roos squared the sheet.
 
 "And I am going to say the other thing, because you have been standing at this counter for an hour and a half and you did not come here for the four lines and we both know it."
 
@@ -88,7 +90,7 @@ Fenn was coming out of the ward office with a chart under her arm and she saw hi
 
 "What happens to her."
 
-"Nothing for about six weeks, and then a man comes up the arcade with a card and looks at a floor, and the floor is going to look like a floor and the rack is going to say twenty-eight, and there is not one thing on that floor that says a woman has kept it looking like a floor for eleven years on purpose." Fenn picked the chart up. "And she knows that. She knew it on the third when she put nothing on it."
+"Nothing for about five weeks, and then a man comes up the arcade with a card and looks at a floor, and the floor is going to look like a floor and the rack is going to say twenty-eight, and there is not one thing on that floor that says a woman has kept it looking like a floor for eleven years on purpose." Fenn picked the chart up. "And she knows that. She knew it on the third when she put nothing on it."
 
 He went in and Tessa Okonkwo was not in her office and the door was shut and there was a runner at the desk at the end of the corridor with a chart under her arm, one-handed, sorting, refusing on the grounds that the piles were more use than the filing.
 
@@ -108,7 +110,7 @@ It was on the seventh that she had handed a roll to a man in a corridor. This on
 
 He stood on the pavement outside a clinic on the Vestry with a hearing in fifty-one days and the roll in an antechamber two floors under a clerk who was not told anything, and a hearing date he had not had to move because he had been given it, and a household notebook in a shut file that had just become six lines, one line per woman per day, from the twenty-first, signature refused.
 
-Then a runner came back up the arcade at ten past three and stopped in the same place.
+Then a runner came back up the arcade at half past three and stopped in the same place.
 
 "Sorry," she said. "They want it back in the tube."
 

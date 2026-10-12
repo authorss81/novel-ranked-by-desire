@@ -34,7 +34,7 @@ Lin Hao said nothing, because there was nothing to say to a man who had just tol
 
 "Two a month, some months none." He looked along the seats without interest in them. "There is a list. Yours is the eleventh on it, the eleventh hearing set, and the eleventh date."
 
-"It is not a special date. It was the first free one after the notice was drafted, and the notice was drafted on the twenty-second of last month and served on the first, and I will tell you why it was drafted three weeks before it was served. Because you will assume it was drafted because of you, and it was not."
+"It is not a special date. It was the first free one after the notice was drafted, and the notice was drafted on the nineteenth of last month and served on the first, and I will tell you why it was drafted the better part of a fortnight before it was served. Because you will assume it was drafted because of you, and it was not."
 
 "Because of somebody else."
 
@@ -82,11 +82,11 @@ Lin Hao looked at the rail and the ninety places behind it and the plate by the 
 
 "You cannot tell a man something like that and then let him walk into the building."
 
-"I have just let you walk into the building," said Adeyemi. "That is what the courtesy is. I could have said nothing at all and you would have found out in the room, at the table, with the machine switched on and a hundred and forty strangers watching a man fail to move something, and you would have found out that I knew it and said nothing. You have nine days now instead of none."
+"I have just let you walk into the building," said Adeyemi. "That is what the courtesy is. I could have said nothing at all and you would have found out in the room, at the table, with the machine switched on and a hundred and forty strangers watching a man fail to move something, and you would have found out that I knew it and said nothing. You have fifty-seven days instead of none."
 
 He got up quickly and did not straighten his coat.
 
-"Nine days is not a lot," he said. "It is not meant to be. It is meant to be enough for a man with one move to work out."
+"Fifty-seven days is not a lot," he said. "It is not meant to be. It is meant to be enough for a man with one move."
 
 "If you do not have one by the day, I will sit there and I will do the hearing and it will be a fair hearing and you will lose it. There is nothing in this room I can do about that and I have never pretended otherwise to anybody. I have lost about a third of them and I still turn up."
 
@@ -116,7 +116,7 @@ He felt the sentence come out sideways and let it, because it was true, and beca
 
 Adeyemi stood very still for about two seconds, which was the only thing that happened in the room that was not in the schedule.
 
-"Nine days," he said. "That is a good answer and it is a bad answer and I have heard both of those from about a third of the people on that list, and the difference between the good and the bad is entirely in the fourth week, and you have three weeks to find out which one of them you are."
+"Fifty-seven days," he said. "That is a good answer and it is a bad answer and I have heard both of those from about a third of the people on that list, and the difference between the good and the bad is settled in the last fortnight, and you have six weeks to find out which one of them you are."
 
 He held out his hand, and it was a working hand, and the grip lasted about a second and told Lin Hao nothing except that the man had done this nine hundred times.
 
