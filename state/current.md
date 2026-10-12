@@ -1,9 +1,29 @@
 # Current State
 
-**Last written:** **Volume 2, Batch 0003 — Chapters 71–80, complete, reviewed and repaired.** Chapters 51–60
-were written by Batch 0001, 61–70 by Batch 0002 and then repaired by an external review run, and 71–80 by
-Batch 0003 and then **repaired by a second external review run.** **The most recent pass over Chapters 71–80
-was a review repair, and the full list of what it changed is in `state/open-threads.md`.**
+**Last written:** **Volume 2, Batch 0004 — Chapters 81–90, complete, not reviewed by a separate run.** Chapters 61–70 and 71–80 reviewed and repaired; 51–60 not. **This batch wrote no review of itself.**
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed. D1 (six weeks in Ch 57/60) is the one open inherited defect, still unrepaired.**
+
+**Position:** Volume 2 Batch 0004 closed. **Held six on an instrument, plate 8,138, floor 8,141, tolerance three. Band six opens at 20,000; 11,862 short.** Ledger 112 lines, eight turned, one reading himself. File 4,112, one folio open, no second. **Standing five dates, no end date; schedule closed on the 21st. He has two dates (29th, 1st-monthly) and no end.** Sixth Thursday (7th) attended.
+
+**In the story:** **the 10th of next month, afternoon**, strip read in the Vestry corridor, Petra Hall discharged, Nadia's copy answered, Runa's minute on file.
+
+**Date spine, fixed and monotonic:** 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th, 21st, 22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, 31st, **1st, 2nd, 3rd, 4th, 5th, 6th, 7th (Thursday), 8th, 9th, 10th.** Thursdays this batch: the 7th only on the page.
+
+**Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**, or **the Classification Wing classifies the account and empties him out at rank one**. Forty chapters in: the Address closed (74–85), the Holding opened (86–96). No classification entered. He spends nothing.
+
+**Next phase to run:** **Volume 2 Batch 0005 (Chapters 91–100)** — the volume's last batch, closing the volume — against `outline/volume-02.md`. Prompt at `workspace/volume-02/batch-0005/PROMPT.md`.
+
+## Volume 2 Batch 0004 — what is now on the page
+
+- **THE ADDRESS CLOSED, THE HOLDING OPENED (Ch 81–90).** Ch 85 closes step 3; Ch 86 opens step 4 with Runa's written choice, gap 74→86 twelve.
+- **IRREVERSIBLE (Ch 86).** His spoken word for her household line, signed by her into a Field file; her deniability closed, Wing can answer her.
+- **HELD SIX, PLATE 8,138, NO SPEND IN FORTY CHAPTERS.** Sixth Thursday attended 7th; thin sheet seen not descended 8th; Petra discharged 10th; Nadia's cost answered out loud.
+- **Gates on finished text:** HR 0, emphasis 0, planning register 0, illegal weekdays 0, banned strings 0, nobody/no one 6 (max 2), panels 0, paras max 90, ages 0, titles verbatim. **A count is not a reading.**
+
+## Older state — Batch 0003 and before (retained, not restated)
+
+Chapters 51–60 by Batch 0001, 61–70 by Batch 0002 then repaired by an external review run, 71–80 by Batch 0003 then repaired by a second external review run. Full list of the 71–80 repair in `state/open-threads.md`.
 
 **Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are not
 restated here and nothing in Volume 2 Batch 0003 re-opens any of them. **D1 — the six-week count in

@@ -1,5 +1,34 @@
 # Open Threads
 
+## Volume 2 Batch 0004 — what the batch wrote, and what it did not certify
+
+**Chapters 81–90 written. This batch did not write a review of itself and does not certify itself. A count is not a reading; judgement on Ch 86's scene, the Ch 86 decision, and whether the ten endings are earned belongs to a separate run. No repair listed here may be treated as done until seen on the page.**
+
+**Canon changes in this batch were settled during composition and are registered here in the same commit — the same lateness fault as Batch 0003, recorded rather than hidden.** They are: household legibility minuted (Ch 81); room-to-man move entered as watch the attendee (Ch 82); runner's sprain and unfiled charts (Ch 83); RECIPIENT sheet ordered to stay in his coat (Ch 84); Colm's office opened without forgiveness (Ch 85); Runa's written choice plus household line by his word (Ch 86, irreversible); finding number doing time's work across six strips (Ch 87); stair seen not descended (Ch 88); Petra Hall held one night and discharged (Ch 89–90); Nadia's copy plus request and second answering (Ch 90).
+
+**Dates derived from the spine 22–31 then 1–10; arithmetic check:** horizon 23rd → Ch 87 fifteen days past (8+7); grey 23rd → Ch 83 twelfth day (count 1–12); sixth Thursday the 7th after fifth the 31st. **No week count stated that is not derived. No weekday name except Thursday (Ch 87–88).**
+
+**Gates on finished text, from chapters/volume-02/:** `grep -c -E '^\s*(---|\*\*\*|___)\s*$'` 0 · `grep -oE '\*|_'` 0 · planning register `grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b'` 0 · illegal weekdays `grep -inE '\b(monday|tuesday|wednesday|friday|saturday|sunday)\b'` 0 · banned `grep -inE 'there is no form|there is no column|the record remained|nobody thanked|He wanted, concretely'` 0 · nobody/no one 6 total, max 2 (Ch 86) · panels `grep -n '^\[.*\]$'` 0 · paragraphs max 90 after splitting one 91-word para in Ch 86 · ages `grep -inE 'years old|aged |about sixty|in his forties'` 0 · titles ten verbatim from bank. **Three of the batch's real risks are invisible to these gates: date intervals, whether Ch 86's direction is a sixth and not a repeat, and whether every case changes something outside itself.**
+
+**Deliberate decisions, registered:** no age stated for any person in Chapters 81–90, named or walk-on, in narration or dialogue. Durations appearing and NOT ages: eleven years (Tessa's rack/practice, Sun's wall — carryover), nine years (Drant at desk, Sowe in building — carryover), three years and four months (Ottilie at counter — carryover), four years (Lin Hao at branch, Nadia running lift), two years (notebook woman's survey), nineteen years (signalman — carryover). **Defects found in unreviewed Chapters 51–60: none new; D1 (six weeks in Ch 57/60) stands, unrepaired, not built on.**
+
+### What Batch 0004 opened or moved, after Ch 90
+
+| # | Thread | Status at end of Ch 90 |
+| --- | --- | --- |
+| B75 | Household legible | Open. Seven women look-up-able; Nadia answered twice, paper still stands. |
+| B76 | Watch the attendee | Open. Map closed on rooms; line needs two events and has one. |
+| B77 | Runner's wrist / unfiled charts | Open. Vestry cannot answer an eleven-year form this week. |
+| B78 | RECIPIENT sheet in his coat | Open. Ordered to stay a question. |
+| B79 | Colm's open office | Open, paid toward. His episode filed; finding, if any, pending. |
+| B80 | Field protection explicit (Ch 86) | Open and irreversible. Written, signed by her, word his; Wing can answer her instead of rounding her. |
+| B81 | Finding number as publisher | Open. Six strips joined; settled figure publishable. |
+| B82 | Thin dated sheet, second sub-level | Open. Seen, not descended, unsigned, unturned. |
+| B83 | Petra Hall discharged | Paid. One night, date closed 10th. Ward precedent now practice. |
+| B84 | Nadia's copy + request | Open. Cost of keeping on her, answered out loud; lift still hers. |
+
+**Not opened, not moved:** second folio; classification; May clipboard; the word Channel; Church; rota word; Marguerite's terms (down, unsigned); September (Beatrix's); Bernt's absence; thin sheet's signature; Rhee (no line); new partners (none); departures (none); Sun unsworn; Lin Wei's whereabouts unknown to all on page; Yusuf Adeyemi off page; nothing after Volume 8 anticipated.
+
 ## Volume 2 Batch 0003 — what the batch wrote, what it changed, and what it did not certify
 
 **REVIEWED AND REPAIRED. READ THIS BEFORE THE BLOCK BELOW.** An independent review of commit `77a6d0a` found

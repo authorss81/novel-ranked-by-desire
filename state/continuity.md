@@ -92,6 +92,38 @@ condemned on the page. No new final enemy.
 
 ---
 
+# New canon — Volume 2, Batch 0004 (Chapters 81–90)
+
+Written by the batch that wrote the chapters. **Newest block, at the head of the stack.** Nothing below altered. **Writer's record, not reviewed by a separate run. The batch wrote no review of itself. A count is not a reading.**
+
+## Calendar, fixed by the page
+
+Spoken weekday: Thursday only (Ch 87). Zero other weekday names in Chapters 81–90.
+
+- **Ch 81 the 1st of next month. Ch 82 the 2nd. Ch 83 the 3rd. Ch 84 the 4th. Ch 85 the 5th. Ch 86 the 6th. Ch 87 the 7th, a Thursday, sixth of the standing. Ch 88 the 8th. Ch 89 the 9th. Ch 90 the 10th.**
+- Thursdays: the 31st (Ch 80, fifth) then the 7th (Ch 87, sixth). Standing has five dates and no end date; the sixth Thursday is attended with no new date written.
+- Forty-day horizon was the 23rd; Ch 87 states fifteen days past that morning (24–31 eight days, 1–7 seven days). Grey: started night of the 23rd; Ch 83 states twelfth day on the 3rd, eleventh the day before — check: 23(1) through 3rd(12).
+- Arithmetic check run against the spine 22–31 then 1–10; no week count stated except the derived fifteen days and the sixth-Thursday ordinal, both derived above.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **HOUSEHOLD LEGIBLE (Ch 81).** Nadia's name left at four on the 31st in Ruta's hand; Bellhouse porters asked 21st and 24th; yard gate twice; lift on the tenth. He says the sentence back in the room and it is minuted in the house. Nobody leaves, nobody enters.
+- **ROOM TO MAN (Ch 82).** Review room discharged and closed; nineteenth's three addresses are not a room; thirty-one marks are walking line, one dot is one spend. Register entry: watch the attendee. A second spend makes a line with his name at both ends.
+- **QUIET FLOOR (Ch 83).** Mass settled, held at a constant, plate 8,138 unchanged. Worsening in a person: ward runner sprains wrist, off stairs a fortnight, charts unfiled. 29th and 1st dates kept.
+- **SISTER'S STAIR (Ch 84).** Cordwain intake stair; Ding put her name down 20th of last month, is not on the page; B5 untouched. Ines orders the RECIPIENT sheet to stay in his coat.
+- **LOCKED OFFICE (Ch 85).** Colm's office open first time since the 9th of the season; he gave two answers at his counter, answered the Office last week, asks no forgiveness, files his own episode. B1 paid toward, not resolved.
+- **RUNA SECOND SCENE (Ch 86).** Gap 74→86 twelve. Between summons and requisition she attends to inventory and declines delivery to holding, in writing, signed with name and number. Sixth direction: she asks to be kept — a household line on paper — rather than to keep him. Four true statements first; adults, awake, unrestrained, unmedicated; no draw spent; violence and sex separate. IRREVERSIBLE: his spoken word for her household line entered in a Field file; her deniability closed and he cannot walk it back. He signs nothing.
+- **FINDING NUMBER AT WORK (Ch 87).** Ruling 112 joins six identical strips to the register; step 4's instrument is time; settled figure publishable via the number.
+- **WING STAIR (Ch 88).** Second sub-level seen, not descended; thin dated sheet prepared, unsigned, never turned round; drawer shut by foot; nothing entered, nothing signed.
+- **HELD ROOM + COST (Ch 89–90).** Petra Hall held one night because her date stayed open (clerk out); not third sub-level, not classification; date closes 10th in eleven minutes. Cost falls on Nadia out loud in her own words — copy of 31st sheet plus request for her tenth — and he answers her a second time with no paper. Ends on instrument reaching him: forwarded strip read in the Vestry corridor.
+- **LEDGER / PLATE:** plate 8,138 throughout, tolerance three, floor 8,141. No panel in this batch (count does not turn on the page). No spend in ten chapters. Nothing signed by him; no classification; no second folio.
+
+## Gates run on finished text (commands recorded in open-threads)
+
+Horizontal rules 0 · emphasis 0 · planning register 0 · illegal weekday names 0, Thursday in Ch 87–88 only · retired/banned strings 0 · nobody/no one 6 total across ten, max 2 in a chapter · panels 0 · paragraphs max 90 after one repair (Ch 86 para split 91→two) · ages 0 · titles ten, verbatim from bank.
+
+---
+
 # New canon — Volume 2, Batch 0003 (Chapters 71–80)
 
 Written by the batch that wrote the chapters. **Newest block, at the head of the stack.** Nothing below has

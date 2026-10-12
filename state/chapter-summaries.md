@@ -100,6 +100,36 @@ The 30th, six past ten, and Beatrix Halm puts the tram at the stop outside the c
 ### Ch 80 — The Paper He Will Not Sign
 The 31st, a Thursday, and the fifth strip of a standing. **The schedule is finished** — third, twelfth, twenty-first, all kept, and the hand that renews it writes a column when a standing supersedes it and has not written one since the third. **The standing has five dates and no end date, so he has attended everything anybody has ever written down, and there is nothing after this morning.** Then a prepared, dated, unsigned sheet is put face up on the table: four paragraphs, and the fourth holds an attendee at the desk for the term of the inquiry and cites an account in this office's custody, **one digit long.** It came up from three floors on the **twenty-fourth — two days before he said the number out loud to Ruta, and seven days before it was put in front of him**, and both of them sit with that and Drant says the whole of what it means: the fourth paragraph does not say the man holds an account, it says the account is in custody and the man at the desk holds it, **and this building has been living on the gap between those two sentences for three years.** **The batch's decision.** He does not sign it. He does not refuse it either, because Drant's point is that a refusal is an answer and an answer keeps him there, and Drant will enter a third thing that does not exist on any form. **Instead he tells the Office about the two women.** Both, in full, with the notebook woman's method and the dark coat's forty days. He does it because the second is four streets from being in his own file, and when the Office finds her the third question is *who have you spoken to* — a gate man, a porter in Bellhouse, **and a woman in a lift at the Vestry.** **Ruta writes down where each of them got his name and one of the sources is that lift, and he has to give a woman's name out loud in a room with a clerk in it.** He cannot say it back to her in a room because it is a piece of paper in four minutes. **Nothing is signed in this chapter.** Drant enters attendance kept and the order as prepared, unsigned and unissued, and at the end, to an empty room, says that there is a third thing after all and that he has had it for nine minutes and is not going to say it again in this building this month.
 
+### Ch 81 — The House Behind Him
+The 1st of next month. The household meets with both calendars spent and Nadia's name on a sheet that left at four on the 31st. He says the sentence back to her in the room — she gave the building on the tenth on purpose, she is the first thing that happens — and it is minuted in the house. Change: the household becomes people the Office can look up; nobody leaves, nobody enters, and he promises to stay findable.
+
+### Ch 82 — The Dot On The Map
+The 2nd. Ruta lays the map flat with the ring still round the Review square and draws a second ring round the margin. The nineteenth's three addresses are not a room; the thirty-one marks are where he walks. The Office's attention moves from a room to a man in the instrument: watch the attendee. Ends on the cost — a second spend makes a line with his name at both ends.
+
+### Ch 83 — The Quiet Floor
+The 3rd. Tessa's mass reads settled, held at a constant, unchanged. The floor is quiet because nothing is arriving. Visible worsening in a person, not a chart: the ward runner sprains her wrist catching a board, is off the stairs a fortnight, charts do not get filed. He keeps the 29th and the 1st dates.
+
+### Ch 84 — The Sister's Stair
+The 4th. Ines walks him to the Cordwain intake stair, the Volume 1 location. Ding put her name on a sheet on the 20th of last month; Ines said her sister's name once in a queue. Ding is not on the page and B5's answer is not opened. Change: Ines orders the four-sided sheet with RECIPIENT to stay in his coat — neither evidence nor protection while it is a question.
+
+### Ch 85 — The Locked Office Opens
+The 5th. Colm Deveraux unlocks his office, shut since the 9th of the season, and admits he gave the dark coat two answers at his own counter for nothing and answered the Office last week. He opens the room, asks for no forgiveness, and puts his own episode in the drawer. Pay toward B1 without resolving it. The corridor is different for a door being open, and worse.
+
+### Ch 86 — Marks The Field Leaves
+The 6th. Runa Sato's second scene, immovable, gap 74 to 86 twelve. Between an inventory summons and a requisition she chooses in writing: attend to inventory, decline delivery to holding, Field retains file. Sixth direction — she asks to be kept, to have a line in his keeping on paper, rather than to keep him. Adults, awake, unrestrained, unmedicated; four true statements first; no draw spent; violence and sex separate. Irreversible: he gives his word for her household line and she signs it; her deniability is gone.
+
+### Ch 87 — The Finding Number
+The 7th, a Thursday, sixth of the standing. Runa's minute entered; Drant reads the sixth identical strip. Ruta shows ruling 112 joining machine to register across six strips. Step 4's instrument is time: forty days from the last movement, fifteen days past the 23rd, and the finding number is how a settled figure gets published. Ends on the join readable by any office.
+
+### Ch 88 — The Wing Stair
+The 8th. Drant stops him at the top of the second sub-level stair. The thin dated sheet lies in a cabinet drawer below, prepared, unsigned, never turned round. He does not descend, does not turn it, signs nothing. Drant shuts the drawer with his foot and enters nothing. Change: he knows where the next paper comes from.
+
+### Ch 89 — The Held Room
+The 9th. Precedent of Ch 74 extended, not a classification, not the third sub-level. Petra Hall, a tram conductor, holds the fourth quiet room one night because her date is still open — she turned up, the clerk was out. He agrees to walk her to the Exchange at nine.
+
+### Ch 90 — The Cost Of Keeping
+The 10th. Petra's date closes in eleven minutes and she goes home. Nadia receives a copy of the 31st sheet with a request for her tenth-of-the-month days and persons spoken to. The cost of keeping falls on her out loud, in her own words — a paper with her name in a building four streets away — and he says the sentence back a second time with no paper between them. Ends on the instrument reaching him: the forwarded strip read in the Vestry corridor, figure unchanged.
+
 ---
 
 ---
