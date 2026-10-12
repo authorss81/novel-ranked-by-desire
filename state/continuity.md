@@ -2,8 +2,11 @@
 
 # Volume 3, Batch 0002 — CLOSED (Chapters 111–120)
 
-**Ten chapters written against `outline/volume-03.md` escalation step 2 (The Register). situated
-11th–20th of M+2, one chapter a day. This block supersedes every Volume 3 block below it on every
+**Ten chapters written against `outline/volume-03.md` escalation step 2 (The Register), situated
+the 11th–20th of M+2, one chapter a day, then repaired by an external review run that read all ten
+against the page and found nine hard prose defects, a structural break in 117, a repetition cluster
+and one untraced figure. All are fixed on the page. **The writing pass's own Gate A record missed
+one of them; where the two disagree, the review wins.** This block supersedes every Volume 3 block below it on every
 point it touches. Proposed canon was registered in `state/open-threads.md` BEFORE Chapter 111 was
 drafted; rejections/changes are listed at the foot of this block.**
 
@@ -13,6 +16,9 @@ drafted; rejections/changes are listed at the foot of this block.**
   covered) · 112 the 12th · 113 the 13th · 114 the 14th · 115 the 15th · 116 the 16th · 117 the
   17th · 118 the 18th (Thursday, Board repaints, Wren's scene) · 119 the 19th · 120 the 20th.
   M+2 Thursdays 4/11/18/25; M+3 Thursdays 1/8/15/22/29; the Reading is Thursday the 29th of M+3.
+- **THE HEARING IS THE 29TH OF M+3, WHICH IS NEXT MONTH.** Batch 0002 stands in M+2, so "the month
+  after next" is wrong by one month. It was a **label, not an arithmetic error** — every printed figure
+  is correct (40 = 11 + 29) — and it had propagated into four files and the Batch 0003 prompt.
 - **Countdowns, elapsed, each anchored to the chapter's own date and the printed 29th (days left in
   this month + 29):** 49 (20+29) · 48 (19+29) · 47 (18+29) · 46 (17+29) · 45 (16+29) · 44 (15+29) ·
   43 (14+29) · 42 (13+29, six weeks) · 41 (12+29) · 40 (11+29). Every chapter prints its countdown
@@ -36,11 +42,21 @@ drafted; rejections/changes are listed at the foot of this block.**
   the roll and is read first if he insists. By acknowledging to protect item four he proved the other
   eight — his signature's price, stated at 111.
 - **THE FIRST EXHIBIT (112).** Runa attested the hall's copy as true and left the cover unsigned.
-  The cover came back with a dated demand: complete attestation by the 26th or answer for the gap.
-  Her hearing firms; it is not this volume's hearing and is not resolved.
+  The cover note printed a stamp and **no date**. **THERE IS ONE 26th IN THE BOOK AND IT IS ONE
+  DEMAND, NOT TWO.** The dated demand arrives at 119 and it is Field's: attest the copy as a whole
+  *and* complete it to the household's true number by the 26th, or answer for the gap. The true
+  number is seven and the seventh name is Sun. **So "she signs the cover" and "the 26th" are the
+  same act, and signing is impossible without putting Sun on hall paper — which is why she
+  refuses. A later phase that has her sign the cover has put Sun on the roll.** Her hearing firms;
+  it is not this volume's hearing and is not resolved.
 - **THE NAMED SQUARE (113).** One buff square named by the porter's hand in the visitors' book: Nell
   Ardery holds one square. The other two squares stay unnamed and unentered; the unnamed caller of
-  the 3rd stays unnamed. Book past ninety entries (89 at the 7th + growth; six more by the 17th).
+  the 3rd stays unnamed. **The visitors' book carries TWO figures from the 7th onward and they must not
+  be merged into one. The OFFICE'S sheet — read into the roll at 108, pasted into box two at 111 —
+  says eighty-nine entries, twenty-nine asking about a person, thirteen of the twenty-nine asking
+  about somebody in the household. The LIVE book, read aloud at Bellhouse, is higher and keeps rising.
+  At 113, six days after the 7th, the book has taken five more entries: ninety-four, thirty-one asking
+  about a person, fourteen about the household. The Office keeps quoting the sheet, never the book.**
 - **SUN'S REFUSAL (113).** Advanced, not closed, in her own words on the landing: the house protects
   by writing down together; she will not be kept. Six lines a day continue; signature refused.
 - **DOWN AND UNSIGNED (114).** Classification paper still unsigned, still going up and back.
@@ -51,13 +67,14 @@ drafted; rejections/changes are listed at the foot of this block.**
   paper output, subject and counterparty — no statement of what it cannot do (reversal untouched,
   proved at 125–127 or not at all). **Ivo Sarn** named at 115 (reporting officer, nine years, the
   hand three floors up). **Wren Kallo** named for the first time at 116 in the request document, on
-  the page in person from 118. Bench order dated 17th, effective 19th: builder off instruments.
+  the page in person from 118. Bench order dated the **16th**, effective the **19th**: builder off instruments from the 18th.
 - **THE IRREVERSIBLE DECISION (118).** He names Wren Kallo his one witness — a party to the
   proceeding she is losing her post over — out loud, in the room, knowing she cannot keep it. She
   repeats it back word for word. Scene: adults, awake, unrestrained, unmedicated, no impaired state,
   no draw spent, stated on the page ("No draw. No cold. No minute."). Reverses his 103 position (no
   witness); both positions are in his hand. Secret four people deep by the chapter's end.
-- **SIX WHERE THE FILE SAYS MORE (119).** Minute six lines, book six lines, fourteen entries,
+- **SIX WHERE THE FILE SAYS MORE (119).** Minute six lines, book six lines, **thirteen entries on the exhibit sheet and fourteen
+  in the live book**,
   forty-one names; the seventh line is Sun. He refuses in Tove's day book to complete another
   officer's minute (not a registrar's paper, does not touch the roll). Demand goes to Runa.
 - **THE SIXTH SPACE (120).** Sarn's paragraph entered under Anneke Roos's hand as received, not

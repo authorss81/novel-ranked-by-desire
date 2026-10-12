@@ -7,8 +7,14 @@ certification question taken with Sarn named; the two-column tool with Wren name
 her confirmation that cannot keep itself; her immovable scene at 118 with the irreversible decision
 (made a party, out loud); six where the file says more with the seventh refused; Sarn's sentence in
 the sixth space as received. Repaired on the read (fourteen wording-level defects, all on the page:
-counts, weekdays, one B103 brush, one routing word, paragraph splits). **It certifies nothing about
-the prose.** Full record at the head of `state/open-threads.md`; calendar and mechanisms at the head
+counts, weekdays, one B103 brush, one routing word, paragraph splits), and then **repaired a second
+time by an external review that read the ten chapters against the page and found nine hard prose
+defects the gates had passed: three byte-identical duplicated paragraphs, a chapter whose clock ran
+backwards and then forwards, an envelope sealed twice, a door in the wrong building, a stray
+holding-ward paragraph, a dangling pronoun, an untraced interval, and one of the batch's own
+fourteen repairs asserted in a state file and absent from the page.** All are fixed. Full record at
+the head of `state/open-threads.md`; the review's own findings at `reviews/volume-03/batch-0002.md`.
+**It certifies nothing about the prose.** Full record at the head of `state/open-threads.md`; calendar and mechanisms at the head
 of `state/continuity.md`; summaries in `state/chapter-summaries.md`.
 
 **THE STANDING LESSON, repeated:** a trace is not an anchor unless subtracted from two printed
@@ -24,32 +30,23 @@ signature refused; Sun on the landing.
 
 **In the story:** **the 20th of the new month.** The record is complete, the instrument certified on
 paper, the written case opening with a description, his one witness named. The hall stands forty days
-out, for the 29th of the month after next. The next question is whether the instrument can actually
+out, for the 29th of **next** month. The next question is whether the instrument can actually
 produce what its proponent says it produces — Batch 0003's proof.
 
 **Next phase to run:** **Volume 3, Batch 0003 — Chapters 121–130 (The Live Column, midpoint reversal
 at 125–127).** Prompt at `workspace/volume-03/batch-0003/PROMPT.md`. Wren's secret is four people
 deep; Runa's demand dates the 26th; Field wants a seventh line.
 
-**THE STANDING LESSON FROM THIS PHASE, which is more useful than the repairs: six traces were certified
-and all six were wrong — one in arithmetic, three anchored to a date the page later abandons, and two
-anchored to a different month from the one named.** A trace is not an anchor. Subtract it from two printed
-dates and check that both dates are still on the page.
+**SUPERSEDED HEAD RECORD — Volume 3, Batch 0001 (Chapters 101–110), removed from this file on the
+Batch 0002 review repair.** It was stacked here with no boundary marker and contradicted the live
+block twice: it put the sixth space *empty* when 120 fills it, and it put *Batch 0002* next when
+Batch 0002 had already run. Its one durable lesson is kept, below. Its record survives in
+`state/open-threads.md` and `state/chapter-summaries.md`.
 
-**Position:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Band six seated on the
-Review instrument, suspended pending description — not lost. Ledger 112 lines, eight turned, one reading
-himself; no draw spent in ten chapters; no panel. File 4,112, one folio open, no second. Standing and
-fourth floor discharged; classification paper dated the 19th of last month, unsigned; sixth space empty.
-Household seven women, six keeping the notebook, his signature refused.
-
-**In the story:** **the 9th of the new month, afternoon.** The roll is **lodged** — at ten past three, at
-the second clerk's floor, three days before the registrar's deadline — the hearing stands for the 29th of
-the month after next, and the Office's list of what it will put before the hall opens with a description.
-The 10th goes by before the next batch, which opens on the 11th, a Thursday.
-
-**Next phase to run:** **Volume 3, Batch 0002 — Chapters 111–120 (The Register).** Prompt at
-`workspace/volume-03/batch-0002/PROMPT.md`. Wren Kallo is named at 116 and on the page from 118; her scene
-at 118 is immovable.
+**Its standing lesson, kept:** six traces were certified and all six were wrong — one in arithmetic,
+three anchored to a date the page later abandons, and two anchored to a different month from the one
+named. A trace is not an anchor. Subtract it from two printed dates and check that both dates are
+still on the page.
 
 **Previous head record (Volume 2 CLOSE) follows and is unchanged: Volume 2 CLOSE — audited, recorded, then repaired once more after the review of that
 audit. Chapters 51–100 exist and are closed.** The close audit read the whole volume against
@@ -385,7 +382,7 @@ entered; **the batch's threat is a calendar and a drawer, not a room with no win
   Marguerite's terms down and unsigned, Beatrix's broken price, September, Nadia refusing in advance and
   unasked, **and Rhee, who has not appeared and may not.**
 
-# Current State
+## Historical record — Volume 2, Batch 0002 (superseded; retained because it carries adjudicated-contradiction items 11–29)
 
 **Last written:** **Volume 2, Batch 0002 — Chapters 61–70, complete, and then repaired twice.** `outline/volume-02.md`
 and `outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; Chapters 51–60 and

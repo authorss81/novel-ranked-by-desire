@@ -34,9 +34,9 @@ That was all it said. No sentence about what the columns meant. No sentence abou
 
 He read the slip twice and understood that it was telling him nothing he had not been told on the third, in a hall, by a man being courteous. The instrument read a subject and a counterparty. The paper had two columns. The rest was the twenty-ninth.
 
-He ate from the staff kettle at noon with the bucket beside his chair, the way he had for four years, and a clerk told a story about a socket that sparked and nobody listened, and the room went on being a room where nobody asked him anything, and he understood that the room would go on being that room right up to the twenty-ninth, and that no room after it would ever be that room again.
+He ate from the staff kettle at noon with the bucket beside his chair, the way he had for four years, and a clerk told a story about a socket that sparked and nobody listened, and the room went on being a room he sat in and not a room he was in, and he understood that the room would go on being that room right up to the twenty-ninth, and that no room after it would ever be that room again.
 
-In the afternoon the plate queue stood thirty deep at the socket on the ground floor, and he worked round it with the mop, and the second door past the plate office in the other building stood shut in his mind the whole time, with no sound behind it that he could hear from four streets away, and he mopped toward it and away from it, which was the nearest thing to going up a stair he was permitted.
+In the afternoon the plate queue stood thirty deep at the socket on the ground floor, and he worked round it with the mop, and the second door past the plate office in this building stood shut in his mind the whole time, with no sound behind it that he could hear from four streets away, and he mopped toward it and away from it, which was the nearest thing to going up a stair he was permitted.
 
 He felt it then, cold at the back of his neck, the particular unease of a man reading a name that has been in a building for seven years and has never once reached him. Seven years on a bench. Outside the standing roll. The only officer outside it who ever built one of these.
 
@@ -48,13 +48,13 @@ What he wanted was to know who she was. Not what she looked like. What room she 
 
 "What does outside the standing roll mean."
 
-The clerk sealed the envelope with a wafer and pressed it with his thumb. "It means she holds no standing post and sits on no roll of officers, and no office can compel her attendance by schedule. She attends by request, which is why the request goes by hand. Seven years she has benched that tool and seven years no office has had to ask her for anything, because the tool never went into a hall before."
+The clerk sealed the envelope with a wafer and pressed it with his thumb. "It means she holds no standing post and sits on no roll of officers, and no office can compel her attendance by schedule. She attends by request, which is why the request goes by hand. Seven years she has kept that tool on that bench and seven years no office has had to ask her for anything, because the tool never went into a hall before."
 
 He put the envelope in the runner's tray.
 
 "When."
 
-"She has three days." The clerk sealed the envelope. "It goes by hand this morning. A runner takes it up the back stair and waits. She reads it and writes on the line at the foot or she does not, and the runner brings it back down."
+"She has three days." The clerk squared it on the counter. "It goes by hand this morning. A runner takes it up the back stair and waits. She reads it and writes on the line at the foot or she does not, and the runner brings it back down."
 
 He watched the clerk write the direction on the envelope in the same hand as the paragraphs. Wren Kallo. Second bench. By hand.
 

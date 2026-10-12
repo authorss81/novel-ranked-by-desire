@@ -40,7 +40,7 @@ She pasted the sheet to the inside of the lid and smoothed it with the flat of h
 
 "That is what the hall hears," she said. "Not the book. The sheet. The book stays in Bellhouse and the sheet goes into the box, and the box goes into the hall, and a clerk with a good voice reads the sheet. That is proving. The paper travels and the thing stays."
 
-"That is the roll," said Sabine Rooke. "That is what proving looks like when it has furniture."
+"The book stays," said Sabine Rooke. "The women in it come up to this room anyway, on the morning, in those two rows, and they will hear a description of their own house read at them by a man with a good voice, and nothing inside that box knows one thing about any of them." She moved a hand at the chairs against the wall. "That is what the furniture is for. It gives them somewhere to sit and be described."
 
 He went in and stood at the foot of the table. Box four had a slip tied to the handle with string. The slip said, in Tove Marlin's hand, four words he had to lean in to read.
 

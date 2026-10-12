@@ -22,7 +22,7 @@ He was cold. That was the feeling, and it went through him the way winter goes t
 
 "What gap," he said.
 
-"Six names where the file says more." Tove said it flatly, the way she said everything. "The minute covers six. The household book covers six lines a day. The visitors' book asks about somebody in the household on fourteen entries. The delivery record carries forty-one names. Every paper the Office holds about your household counts six, and every file the district holds about the address counts more."
+"Six names where the file says more." Tove said it flatly, the way she said everything. "The minute covers six. The household book covers six lines a day. The visitors' book asks about somebody in the household on thirteen entries, as the exhibit sheet has it since the eleventh. The delivery record carries forty-one names. Every paper the Office holds about your household counts six, and every file the district holds about the address counts more."
 
 She laid the papers out on the counter one by one as she named them, the way a clerk lays a hand of cards. The minute. The exhibit sheet for the book. The exhibit sheet for the visitors' entries. The exhibit sheet for the forty-one.
 
@@ -70,7 +70,7 @@ Tove took out her own day book and wrote it, and read it back, and he nodded onc
 
 She went out with the tube under her arm. Anneke Roos served the last of the queue and squared the book and did not ask him anything, which was the longest courtesy anybody had done him that week.
 
-He cleaned the last three floors with the arithmetic in his head. Six lines. A minute to read. Forty-one names in a delivery record. Fourteen entries asking about somebody. Seven women in a house above a chop-house, and six of them on paper, and one of them on a landing.
+He cleaned the last three floors with the arithmetic in his head. Six lines. A minute to read. Forty-one names in a delivery record. Thirteen entries asking about somebody on the exhibit sheet, and fourteen in the book itself when Marguerite last read it aloud. Seven women in a house above a chop-house, and six of them on paper, and one of them on a landing.
 
 On the fifth floor a clerk stopped him and asked whether the Office had been back, and he said it had not been back to the fifth floor, and the clerk nodded as though that were an answer, and went back to her room. On the ground floor Drant watched him take the bucket through and said nothing, which was the most any of them said to each other that day.
 

@@ -38,11 +38,9 @@ She leaned back against the bench with her arms folded. She was direct in a way 
 
 She picked up the screwdriver and put it down again.
 
-He looked at her. She looked back without apology and without defiance, the way a woman looks at a thing she has stopped trying to change.
-
 "I cannot keep a secret," she said. "That is the whole of me and there is no other version. It made me an excellent auditor, because an auditor who repeats everything she reads is an auditor nobody has to watch, and it has made me a poor friend for longer than you have been cleaning washrooms."
 
-"Everybody on this bench knows it. It is why I am seven years outside the standing roll with nobody minding."
+"It is what the certification clerk said about me at that desk yesterday, word for word, and he was not wrong."
 
 He felt something turn over in his chest. Not pity. Recognition. He had spent four months refusing to be described, and here was a woman who could not stop describing.
 
@@ -66,7 +64,7 @@ He was quiet for a long time. He could hear the plate office queue through the w
 
 What he felt was not what he had expected. He had expected wariness, or calculation, or the particular hunger he had seen in rooms where women wanted something from him. What he felt instead was a clean, cold clarity, like water off a sill.
 
-She could not keep a secret. If he made her a party, she would repeat everything. The decision, the reason, the hour, the room. By the end of anything, the secret would be four people deep and she would have told three of them.
+She could not keep a secret. If he made her a party, she would repeat everything. The decision, the reason, the hour, the room. By the end of anything, the secret would be four people deep and she would have told every one of them and then written it on a bench paper and handed it across.
 
 He decided it on purpose, having calculated that a woman outside the standing roll who cannot keep a secret is a woman who will have to answer for it, and that he would rather she answered for it as a party than discovered it as a stranger.
 
@@ -88,9 +86,9 @@ He stood up off the stool. She was still leaning against the bench with her hand
 
 She said it the way she said everything, directly, with no softening and no hurry.
 
-"I am not impaired and I have had water and bread and nothing else, and I am awake, and nobody has told me to say this, and if you do not want it you will say so and I will go back to the bench and we will never mention it."
+"If you do not want it, say so and I will go back to the bench and we will never mention it, and you will still have a witness on the twenty-ninth."
 
-He looked at her for a long time. The workroom was bright. The door was shut but not locked. The machine sat on the bench with its handle worn pale.
+He looked at her for a long time. The workroom was bright. The door was shut but not locked. The machine sat on the bench with its handle worn pale, and it was the only thing in the room that had not been touched.
 
 "I want it," he said.
 
@@ -102,37 +100,51 @@ She took off her coat and hung it on the back of the wobble stool, and then her 
 
 "Come here," she said.
 
-He came. She put her hands on his face and turned it toward the light, the way she had looked at him when he came in, fully, from boots to face, and then she put her mouth on his, and it was not careful and not practised. It was hungry, and certain, and glad.
+He came. She put her hands on his face and turned it toward the light, and then she put her mouth on his, and it was not careful and not practised. It was hungry, and certain, and glad.
 
-They got his shirt open between them, her fingers on the buttons, his on hers, getting in each other's way and laughing once, briefly, into each other's mouths. Her skin was warm from the bench room's heat. His hands were shaking and she took one and held it flat between both of hers until it stopped.
+They got his shirt open between them, her fingers on the buttons and his on hers, getting in each other's way and laughing once, briefly, into each other's mouths. Her skin was warm from the heat of the bench room. His hands were shaking and she took one and held it flat between both of hers until it stopped.
 
 He laughed, surprised, with his forehead against her shoulder. She smelled of paste and oil and soap.
 
-She got him onto the bench room's narrow cot, which stood against the wall under the window with a folded blanket on it, and went down on him with her hair falling forward over both of them, and took her time, and told him to put his hands behind his head, and counted nothing, and did not hurry at all.
+Then she let go of his hand and moved the screwdriver and the plate to the far end of the bench and squared them, one after the other, without hurrying and without looking away from him once. She was not tidying. She was putting the bench in order so that afterward nothing on it could be said to have fallen over.
+
+She got him onto the narrow cot under the window, where a folded blanket lay square on the ticking, and went down on him with her hair falling forward over both of them, and took her time, and told him to put his hands behind his head, and did not hurry at all.
 
 The light came through the window in a bar across the cot. Dust moved in it. Somewhere below, the plate office queue shuffled forward one place.
 
+She put her mouth on the junction of his neck and shoulder and held it there, and the skin there was not used to being wanted, and she did not move on until his hands had come off the ticking and gone into her hair.
+
 He said something out loud that he had not planned to say, and she laughed against him, one syllable, and held on, and did not let him go until he had said it twice more, and the third time it was her name.
 
-Then she climbed up over him, straddling his hips with her knees on either side, and took him inside her with one hand between them guiding, and sat back on him with her head thrown back and her hands flat on his chest, and moved, slowly at first and then with nothing slow in it.
+"Say it in the morning," she said. "Say it at half past nine with your coat brushed and the door open behind you, and mean it then too."
 
-The cot creaked under them, once, twice, finding its rhythm. The bar of light moved a finger's width across her shoulder. Below, the plate office queue shuffled forward one place, and somebody laughed, and the trams went past on Cobb Street with the wire humming.
+"Not in the morning."
 
-He got his hands on her hips and she let him keep them there, which was the first thing that morning she had let anybody keep, and she worked against them and said so, plainly, in words with nothing in them but want, and then said his name again, twice, the second time with nothing in it but arrival.
+"No. In the morning you will be a member with an hour, and I will be a builder who has been asked to lose a post." She moved down over him. "In the morning I want the man who put the screwdriver at the end of my bench."
+
+She got up onto her knees over his hips and took him inside her with one hand between them guiding, and sat back on him with her head thrown back and her hands flat on his chest, and moved, slowly at first and then with nothing slow left in it.
+
+The cot creaked under them, once, twice, finding its rhythm. The bar of light moved a finger's width across her shoulder. Below, somebody at the socket laughed at nothing, and the trams went past on Cobb Street with the wire humming, and the wire hummed the whole time she was saying his name.
+
+He got his hands on her hips and she let him keep them there, which was the first thing that morning she had let anybody keep, and she worked against them and said so plainly, in words with nothing in them but want, and then said his name again, twice, the second time with nothing in it but arrival.
 
 She came with her hands flat on his chest and her head thrown back, and did not cover her mouth, and the sound went up to the ceiling of the workroom and came back down, and neither of them hushed it.
 
-Then she bent forward over him, breathing hard, with her hair down round both their faces, and held him inside her until he spent, with her eyes open and on his, and it took longer, and she let it take longer, and told him twice to stop apologising with his hands.
+Then she bent forward over him, breathing hard, with her hair down round both their faces, and she held him inside her until he spent, with her eyes open and on his, and it took longer, and she let it take longer, and told him twice to stop apologising with his hands."
+
+He had one hand on the blanket edge and the other flat against the back of her neck, and the machine sat nine feet away on the bench with its handle worn pale where seven years of hands had gone, and it did not run, and nothing in the room moved except the two of them.
+
+When it was done she stayed where she was for a while, her weight on him, her hair stuck to her own throat, breathing in through her mouth.
 
 Afterwards she lay along him with her weight on his side and one hand flat on his chest, counting his heart, and said into the collar of his open shirt:
 
 "Nothing moved. I would know. I have run that machine for seven years and I know what moving feels like, and nothing in this room went anywhere but where we put it."
 
-"That is the only thing anybody can say about it."
+"There is nothing here worth putting on a machine," said Lin Hao.
 
-"That is the only thing anybody can say about it, and it is worth more than every paper on that bench." She sat up and reached for her blouse. "No draw. No cold. No minute. You touched nobody you owed and nobody owed you, and the machine sat on the bench and watched, and that is the whole of the record."
+"That is what a bench is," she said, and sat up and reached for her blouse. "And that is worth more than every paper I have signed for that desk. No draw. No cold. No minute. You touched nobody you owed and nobody owed you, and the machine sat on the bench and watched, and that is the whole of the record."
 
-She dressed before he did, quick and practical, cuffs buttoned, hair pinned back with two pins from the bench. She looked exactly as she had before, except for her mouth, which was the whole of the cost and which she did not intend to repair.
+She dressed before he did, quick and practical, cuffs buttoned, hair pinned back with two pins taken off the bench edge. She looked exactly as she had before, except for her mouth, which was the whole of the cost and which she did not intend to repair.
 
 She unlocked the door herself and put the key back in the drawer, and as she did it there was a knock, quick and familiar, and a woman's voice called through the wood.
 
@@ -142,7 +154,7 @@ Wren looked at Lin Hao, and smiled the smile with nothing professional in it, an
 
 Cressida stood in the corridor with a requisition in her hand and took in the cot and the blanket and the two of them with one practised glance.
 
-"The member," said Wren Kallo, before Cressida could speak. "He named me his witness for the twenty-ninth. I answer for the machine as a party. He decided it on purpose and I repeated it back."
+"The member," said Wren Kallo, before Cressida could speak. "He named me his witness for the twenty-ninth. I answer for the machine as a party. He has told the room and I have told the corridor."
 
 Cressida looked at Lin Hao. Then she nodded once, slowly, and wrote something on the requisition.
 
@@ -150,9 +162,7 @@ Cressida looked at Lin Hao. Then she nodded once, slowly, and wrote something on
 
 She went down the corridor with the requisition, and Wren shut the door, and leaned her forehead against it for a second, and laughed, one syllable.
 
-"There," she said. "Four people, and the bench by noon. That is what you have bought, and the price keeps being paid, and you paid it anyway."
-
-"Go down the stair," she said. "Cressida has been. By noon the bench will know you were here, because I will have told them, and by evening my sister will know, and by tomorrow the paper review door will shut behind me with my name on a list."
+"There," she said. "Four people, and the bench by noon. That is the whole of what there was to buy and it cost both of us the same."
 
 He stood in the doorway with his coat on. She put her hand on his chest, flat, over his heart.
 
@@ -160,8 +170,22 @@ He stood in the doorway with his coat on. She put her hand on his chest, flat, o
 
 "I decided it on purpose," he said. "You answer as a party. I would rather you answered than discovered."
 
-She repeated it back, word for word, because she could not help herself, and then she smiled, and it was the first smile he had seen in that building that had nothing professional in it at all.
+She did not repeat it back. She took a slip from the pad on the bench edge, wrote one line on it in her own hand, read it once, and held it out to him.
 
-He went down the back stair past the plate office, where the queue stood with plates in their hands, and out into Cobb Street with forty-two days in front of him and six weeks exactly, and a witness named where no witness had been, and a woman behind him who had told four people before breakfast and would tell a bench by noon and a sister by evening.
+"There," she said. "If I cannot keep it in my head then I will keep it on paper, and paper is the only place anything in this building stays put. Put it in your coat. Do not show it to anybody until the twenty-ninth."
+
+He took it and put it inside, against the notice on the district frame that had been folded once since the first.
+
+"The bench will have it by noon whatever I do," he said, "and by evening your sister, and by tomorrow morning the name will be in every room in this building except the one it is about."
+
+"Yes."
+
+"And on the twenty-ninth you will stand up in a hall and answer for a machine that reads two columns, and a hundred and forty strangers will be told that you built it, and none of them will know what you are worth, and I will not be able to say."
+
+"No," said Wren Kallo. "You will not be able to say, because you made me a party instead of a witness somebody else could use. That was the point of it and I am not going to pretend now that it was the other thing."
+
+She smiled again, and it was still the smile with nothing professional in it, and it was the first one he had seen in that building.
+
+He went down the back stair past the plate office, where the queue stood with plates in their hands, and out into Cobb Street with forty-two days in front of him and six weeks exactly, and a witness named where no witness had been, and a slip of bench paper against his ribs with a woman's handwriting on it, and a woman behind him who had told four people before breakfast and would tell a bench by noon and a sister by evening.
 
 He had made her a party to the thing she was losing her post over, out loud, in the room. He could not un-tell what she would repeat. That was the decision, and it was made, and it could not be unmade, and he walked home up the long road with it sitting in his chest like a second heart.

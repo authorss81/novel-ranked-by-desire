@@ -1,16 +1,134 @@
 # Open Threads
 
-## Volume 3, Batch 0002 — CLOSE RECORD. Ten chapters written, read against the page, repaired.
+## Volume 3, Batch 0002 — REVIEW REPAIR. External review of `logs/batch-0002.review.log`, applied to the page.
+
+**A reviewer who did not write the batch read all ten chapters against the page. The batch's own close
+record (below) claimed fourteen wording-level repairs, clean paragraph gates, and a Gate A in which
+"every figure above was subtracted from two printed dates." **Three byte-identical duplications, a
+structurally broken chapter, and one untraced figure had shipped through all of it.** Nothing here
+changed the plot, the calendar, the outline or the ending. Full findings and the standing lesson are
+in `reviews/volume-03/batch-0002.md`.**
+
+### Hard prose defects, all fixed on the page
+
+1. **Ch 120 printed its closing beat twice, byte-identical** (two consecutive paragraphs, the batch's
+   last beat). Second occurrence cut; the ending now runs *hall forty days out → the one question
+   nobody had answered → the instrument is certified → What could the instrument actually do.*
+2. **Ch 111 printed Sabine Rooke's "That is the roll / proving looks like when it has furniture"
+   twice**, twelve lines apart, the second with no dramatic reason. The second is replaced with a
+   different beat that does the chapter's real work: the women come and sit in the two rows and hear
+   their own house described, and nothing in the box knows one thing about any of them.
+3. **Ch 118 repeated "That is the only thing anybody can say about it" across two consecutive
+   speeches with no beat between.** Both are gone. He now says *There is nothing here worth putting on
+   a machine*; she answers with what a bench is.
+4. **Ch 117 ran its day backwards and then forwards, and it was structural, not a slip.** It put him
+   to bed at the table, resumed at the certification desk *after* midnight, and then delivered noon and
+   four o'clock — so he went home twice and the chapter's decision (the note with no envelope) landed
+   after he had been put to bed. **Reordered into one clock:** desk (morning) → shut door → branch →
+   noon → four → the note → the table that evening → the long road → bed.
+5. **Ch 116 sealed the envelope twice**, with the runner's tray in between the two seals, and then
+   said "when". Action order restored: seal, thumb, tray, then the answer.
+6. **Ch 116 put the second door "in the other building"** against three other lines that put it in
+   this one. Now "this building" throughout.
+7. **Ch 116 said a builder "has benched that tool".** Not a word. Now "kept that tool on that bench."
+8. **Ch 115's "and she has never seen him" had no antecedent** — Anneke Roos is not in the scene and
+   is not named until eleven lines later. The clerk now says "the woman who keeps that book."
+9. **Ch 114 carried a stray paragraph from the Vestry holding ward** (a runner with a chart, a corridor
+   of four shut doors) interrupting the arcade bench, closing on a clause that cancels itself. Cut.
+10. **Ch 120's "gone nowhere at four for sixteen days" traced to nothing.** The classification paper
+    goes up every working day since the 19th of last month (Ch 114) and the discharge was the 18th of a
+    still earlier month, and the strips are weekly. Re-anchored to the paper's own printed run.
+11. **The five-to-four repair in 118 did not sweep.** `:31` said four people; `:69` still said "she
+    would have told three of them." Now four, and the count is made by a rule stated on the page
+    ("she will have told every one of them and then written it on a bench paper and handed it across").
+
+### Repetition the gate targets, all reduced on the page
+
+- **118's irreversible decision was spent four times on one construction** — "repeated it back, word
+  for word, because she could not help herself" at two points, plus two restatements of "he decided it
+  on purpose." **Now once.** The second beat does the opposite: she will not repeat it back, she writes
+  it on a bench paper and hands it across, and tells him to keep it until the twenty-ninth. **The new
+  beat does more than the repetition did** — it gives him a document in a woman's hand and it pays the
+  chapter's central irony.
+- **118's closing "that is what you have bought … and you paid it anyway"** repeated the line spoken
+  two dozen lines earlier. The second is cut.
+- **120 said "a man who makes his own mass is a man who can be regulated" twice.** Drant keeps it. The
+  narrator's restatement now says what it is for: *a mass a man makes is a mass an office can ask him
+  to stop making, and a thing you made is a thing you can be held to.*
+- **117 gave "a clicking and a pause and a clicking" twice** — once in bed at Bellhouse with no machine
+  in the house. The bed paragraph was rewritten and the image now belongs to the shut door alone.
+- **113 quoted Nadia's forty-word speech twice**, the second as the closing beat. The closing is now a
+  fresh beat: she goes down for her coat and goes out of the **front** door, which nothing in that
+  house has done for three weeks.
+- **Simile family:** "like a hand on a rail" ran 115:53 and 115:79; "like a hand on his wrist" ran
+  117:33 and 117:83. The second of each is cut.
+- **"Nobody asked" — the first construction on `AGENTS.md`'s watch-list, which the batch's own prompt
+  had marked "note spent" — ran four times** (113, 116, 118, 120). **It now runs once**, at 118:27, in
+  Wren's own mouth, where it is doing characterisation work and is the first of the four. **This one is
+  KEPT DELIBERATELY: a later repair pass must not strike it as a residue.** The Batch 0003 prompt's
+  rationed list now permits exactly one `nobody <verb>` per batch, in a character's own mouth, once,
+  with work to do.
+
+### Ch 118's scene was thinner than the prompt demanded
+
+The review found roughly 700 words of sex in a 3,041-word chapter and a **summarised** passage
+("did not let him go until he had said it twice more, and the third time it was her name"), against
+`AGENTS.md`: *Write the actual scene.* **The scene is now on the page.** The chapter runs 3,476 words,
+inside the outline's 2,600–3,900 band, and the sex section roughly doubles. **Named reason for
+exceeding 2,700, as `outline/volume-03.md` §10 requires:** the batch's decision cannot be paid without
+a full scene, because the whole chapter is that she asks to be made accountable and he agrees in a
+room where a machine is watching — and a summarised scene turns that into a decision scene with a
+scene attached. New material: the mouth on
+the junction of his neck and shoulder; her exchange about saying it again *in the morning* and what he
+will be in the morning; and the beat where **she moves the screwdriver and the plate to the far end of
+the bench and squares them** before she goes on — not tidying, putting the bench in order so that
+afterward nothing on it can be said to have fallen over. That is her whole character doing the chapter's
+work, and it is the kind of detail a summary cannot carry.
+
+**The compliance clause is cut.** "I am not impaired and I have had water and bread and nothing else,
+and I am awake, and nobody has told me to say this" was a checklist, not a voice. It is now one line of
+character: *If you do not want it, say so and I will go back to the bench and we will never mention it,
+and you will still have a witness on the twenty-ninth.* The consent the clause was standing in for is
+still on the page in the reply — **"I want it," he said** — and the door is still unlocked, turned by
+her own hand, with the key put where both can see it.
+
+### Figure staleness: the visitors' book had two numbers and no bridge
+
+The household-question count ran **13** (Ch 108:55, Ch 111:37 — the Office's exhibit sheet, read into
+the roll on the 7th) → **14** (Ch 113, Ch 119:25, Ch 120:15) with no caller shown making the change, and
+the 19th and 20th reused the 13th's figure as if it were live. **This is now two named figures with a
+bridge.** Ch 113 states the growth on the page: six days after the 7th the book has taken five more
+entries, ninety-four in all, thirty-one asking about a person, fourteen about the household — and
+Marguerite puts her thumb on the line and says nothing, because **the Office's sheet still says twenty-nine
+and thirteen and will still say it on the twenty-ninth.** Tove and Drant quote the sheet, not the book.
+Ch 119 and Ch 120 now read **thirteen on the exhibit sheet** with the live fourteen kept separate.
+
+### The lesson, and it is the one worth keeping
+
+**Three of the batch's fourteen self-repairs were asserted in a state file and absent from the page, and
+the Gate A record claimed a figure had been traced when it had never been subtracted from anything.**
+Both are the same failure as items 43 and 44 in `state/current.md`: a figure or a claim printed beside
+a finding it was not measured from. **The paragraph gate reported clean because it measures paragraphs,
+not duplicates, and no gate in this repository catches a sentence printed twice.** A repair pass now has
+to diff the batch against itself for repeated sentences as well as run the existing gates.
+
+---
+
+## Volume 3, Batch 0002 — CLOSE RECORD (writing pass, superseded above where the review contradicts it). Ten chapters written, read against the page, repaired.
 
 **Drafted against the proposed-canon block below. All ten mechanics went onto the page. Changes
-from the proposal: none of substance; the repairs below are wording-level, all on the page.**
+from the proposal: none of substance. **This record claimed fourteen wording-level repairs and a clean
+Gate A. The review above found three duplications, a structural break and an untraced figure that all
+passed through it; where the two disagree, the review wins.****
 
 ### Defects found on the read, all repaired on the page
 
 1. **Ch 111 gave Sabine "nine men" against Tove's eleven productions.** Now eleven.
-2. **Ch 114 printed "five weeks" holding for a 26-day span** (19th of last month → 14th). Now "close
-   on four weeks"; the companion "three weeks" of watching cut to "every working day since it was
-   written."
+2. **Ch 114 printed "five weeks" holding for a 26-day span** (19th of last month → 14th). Anneke's
+   own answer now reads "close on four weeks." **The page still carries Drant's "you have held it
+   five weeks" — it was contradicted in dialogue, not cut, and this entry previously said it was
+   removed. Both readings now stand, on purpose, one after the other.** The companion "three weeks"
+   of watching was cut to "every working day since it was written."
 3. **Ch 115 named Tuesday/Wednesday** for arrival days and contradicted the 16th dispatch. Now
    relative ("two days back", "yesterday morning").
 4. **Ch 118 named Tuesday twice** for the 16th. Now "the sixteenth"; Thursday (the chapter's own day)
@@ -33,17 +151,27 @@ from the proposal: none of substance; the repairs below are wording-level, all o
 
 ### Gate A — interval trace, read by hand
 
-Countdowns elapsed to the printed 29th of the month after next, M+2 = 31 days: 111: 49 = 20+29
+Countdowns elapsed to the printed 29th of **M+3, which is NEXT month** (the label "the month after
+next" was wrong by one month and was carried in four files and the next prompt; the arithmetic was
+never wrong), M+2 = 31 days: 111: 49 = 20+29
 (printed with remainder) · 112: 48 = 19+29 · 113: 47 = 18+29 ("eighteen days left after the
 thirteenth") · 114: 46 = 17+29 · 115: 45 = 16+29 · 116: 44 = 15+29 · 117: 43 = 14+29 · 118: 42 =
 13+29, "six weeks" (6×7 exact) · 119: 41 = 12+29 · 120: 40 = 11+29. Notebook: 24 days inclusive at
 113 (11+13, "counting the day it started on"), consistent with 19 at 109. Round dialogue figures
 with anchors: 113 "six weeks" (book since 1st of last month, 43 days), "three weeks" (notebook,
 23 days); 114 "close on four weeks" (26 days); 115 nine-year tenure (outline §3); 116 "three days"
-(answered next morning); 117 bench order dated 17th effective 19th; 119 Field demand "by the 26th"
-(new forward date); 120 notice on frame "until the third of next month" (Ch 105). No figure derives
-from D4 or D3. **A count is not a reading:** every figure above was subtracted from two printed
-dates, both still on the page.
+(answered next morning); 117 bench order dated the **16th** ("dated yesterday", from the 17th) effective the **19th**; 119 Field demand "by the 26th"
+(new forward date — **the only 26th in the batch, and it is Field's demand to complete the minute to
+seven, i.e. to put Sun on paper; the cover note at 112 printed a stamp and no date**); 120 notice on
+frame "until the third of next month" (Ch 105). No figure derives from D4 or D3.
+
+**WITHDRAWN BY THE REVIEW.** This record ended "every figure above was subtracted from two printed
+dates, both still on the page." **It was not true. Ch 120's "gone nowhere at four for sixteen days"
+is not in this list and traces to nothing** — the classification paper runs every working day since
+the 19th of last month, the discharge was the 18th of a still earlier month, and the strips are
+weekly. It has been re-anchored on the page. **The claim is withdrawn rather than reissued: a
+rewritten claim would be the tenth false certification in this pipeline.** Every other figure in the
+list above was re-subtracted against the repaired page and holds.
 
 ### Gate B — every date on one screen, checked by subtraction against outline §12
 

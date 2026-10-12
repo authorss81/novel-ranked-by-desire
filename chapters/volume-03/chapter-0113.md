@@ -6,6 +6,10 @@ Past ninety entries. The porter numbered every one and the week's numbers ran pa
 
 "Thirty-one of them asked about somebody," she said. "Not about the building. About a person. And on fourteen of the thirty-one the person they asked about is one of you, and I am not going to say which, and that is still the rule."
 
+Six days since Tove Marlin read that number out of the roll on the seventh, and the book has taken five more entries since, and two of the five asked about a person, and one of those two asked about somebody in this house.
+
+She did not say it in those words. She put her thumb on the line and let the two sets of numbers do it. The numbers on the page were hers. The numbers in the grey box three streets away were the Office's, and the Office's still said twenty-nine and thirteen, and would go on saying twenty-nine and thirteen on the twenty-ninth.
+
 She turned two pages. The room waited. This was the part of the week nobody hurried.
 
 "And this one is in the porter's hand," she said, "and it is dated the eleventh, and it is a caller who came at half past seven in the evening with a buff square in her hand and would not leave it and would not be without it."
@@ -98,6 +102,6 @@ The room broke up with the book shut and the glass on the mantel and six women g
 
 The landing above them held one woman in her coat, off paper and on the stairs, keeping the place the house could not keep, and the house below her held six, and neither place gave way.
 
-"Somebody is giving this address away," Nadia had said. "It is not this desk. It is somewhere else, and somewhere else has a porter with a pencil, and I am going to find out where before the twenty-ninth."
+Nadia Ferrous went down to the cellar for her own notebook and was gone a while. When she came back up she had a coat on over her work clothes, and Marguerite let her take the hall lamp without a word about it, and the door she went out of was the front one, which in that house nothing had gone out of for three weeks.
 
-She did not say how. Nobody asked her to.
+Whatever she was going to do about two callers with no names, she had not told the table, and Lin Hao understood that he was not going to be told either. Not being told was itself an answer, and it was the first one all evening he had not had to ask for.

@@ -66,8 +66,6 @@ At the corner of Ferrier Street he stopped and looked back at the road he had wa
 
 On the Vestry arcade the stone bench stood empty with the brass plate on the end of it, given in memory of a woman who had carried trays up two flights for nineteen years. He sat on it for a while with his hands on his knees, because the bench was there and he was passing.
 
-A runner came out of the ward office with a chart and did not stop, and the door shut behind her, and the corridor with four shut doors went on being a corridor with four shut doors whether or not anybody watched it.
-
 He climbed the stairs above the chop-house and sat at the table with the notebook shut in front of him. Six lines a day. One line per woman per day. Signature refused.
 
 Ola Bright came in with her pad and sat down opposite him and dated a page.
@@ -84,9 +82,7 @@ She wrote it down and read it back, and he corrected one word, which was the sec
 
 She wrote that down too, and dated it, and read it back, and he did not correct a word.
 
-"That is the whole of the day," she said.
-
-"That is the whole of it."
+"Then that is the whole of the day," she said, "and I will read it back to you the same tomorrow, and the day after, until one of us turns up with something that is not a day."
 
 She went out and he sat at the table with a shut book in front of him and two unsigned papers in two buildings behind him, and the frustration went out of him all at once like water off a sill, and what was left underneath it was something colder and more useful.
 

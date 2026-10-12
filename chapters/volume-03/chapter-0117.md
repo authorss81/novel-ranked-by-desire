@@ -34,16 +34,6 @@ He felt it as urgency, sudden and physical, like a hand closing on his wrist. Tw
 
 What he wanted was to speak to her before the door shut. Not to ask her to change the confirmation. Not to ask her to keep anything back, because she could not keep anything back and the whole building knew it. To look at the woman who had made the machine, and to have her look at him, before the Office put them both in a hall and told them what they were to each other.
 
-He told the table that evening, standing at the foot of it with his coat still on. A confirmation. Three initials. A bench order dated yesterday, effective the nineteenth. Two days of bench left, today gone, tomorrow to come.
-
-Ines looked up from the sill. "A builder who repeats is a witness nobody has to coach," she said, and went back to saying nothing, and the room took it for what it was, which was not advice and not a warning but a true sentence about paper.
-
-Nadia walked him to the stair foot afterwards. "Tomorrow, then," she said. "The eighteenth. Go up the stair and knock. If she tells the bench by eleven, let her. A secret everybody has is not a secret. It is a fact with a date on it."
-
-Ola dated a page in her pad and wrote one line on it, and read it back. "He goes up the back stair in the morning." She looked at him. "That is the whole of tomorrow in this house, and I want it entered that we knew."
-
-He climbed the stairs above the chop-house and lay awake with the photograph face down on the chair, and the clicking went on in his ears long after the house went quiet, a clicking and a pause and a clicking, like a machine being run by somebody who knew it, and after a while he understood that it was his own heart he was hearing, and he slept, with forty-three days in front of him and one morning in front of that.
-
 "Can a member call on a builder after she answers," he said.
 
 "A member can call on anybody who will see him." The clerk put the sheet back in the tray. "She is on the second bench until the nineteenth. Today and tomorrow. After that she is paper review, and paper review does not see members."
@@ -74,10 +64,20 @@ He understood that the unsigned paper was no longer the paper that mattered, and
 
 "Tell Marguerite the book holds," he said, and Nadia looked at him as though he had said something in another language, and then nodded once, slowly, because a message was a message even when it sounded like paper talking.
 
-He wrote the note at the register counter on a slip without an envelope, because a note with no envelope is a thing anybody can read and he wanted it read. Anneke Roos watched him write the one line and did not ask what it was, and Drant entered nothing, because a note was not a document and the register did not take notes.
+He wrote the note on his way out, at the register counter on the Exchange side, on a slip without an envelope, because a note with no envelope is a thing anybody can read and he wanted it read. Anneke Roos watched him write the one line and did not ask what it was, and Drant entered nothing, because a note was not a document and the register does not take notes.
 
-A runner took it up the back stair of the Exchange building with the afternoon post. One line. An hour in the morning, at the second bench, if she would see him.
+A runner took it up the back stair of the Exchange building with the last post. One line. An hour in the morning, at the second bench, if she would see him.
+
+He told the table that evening, standing at the foot of it with his coat still on. A confirmation. Three initials. A bench order dated yesterday, effective the nineteenth. Two days of bench left, today gone, tomorrow to come.
+
+Ines looked up from the sill. "A builder who repeats is a witness nobody has to coach," she said, and went back to saying nothing, and the room took it for what it was, which was not advice and not a warning but a true sentence about paper.
+
+Nadia walked him to the stair foot afterwards. "Tomorrow, then," she said. "The eighteenth. Go up the stair and knock. If she tells the bench by eleven, let her. A secret everybody has is not a secret. It is a fact with a date on it."
+
+Ola dated a page in her pad and wrote one line on it, and read it back. "He goes up the back stair in the morning." She looked at him. "That is the whole of tomorrow in this house, and I want it entered that we knew."
 
 Tomorrow was the eighteenth. The bench was hers until the nineteenth. The Board would repaint in the morning, and the square would fill, and the ladders would go up whether or not there was anything new to say.
 
-He signed out at the gate and walked home up the long road with forty-three days in front of him and one morning in front of that, and the urgency stayed with him all the way, like a hand on his wrist, pulling him toward a shut door with a machine behind it and a woman who had told three people about him before breakfast.
+He signed out at the gate and walked home up the long road with forty-three days in front of him and one morning in front of that, and the urgency stayed with him the whole way, pulling him up a back stair toward a shut door with a machine behind it and a woman who had told four people about him before breakfast.
+
+He climbed the stairs above the chop-house and lay awake with the photograph face down on the chair. The sound of the second bench came up the long road behind him and did not stop when the house did. He had stood in front of that door for a minute without knocking, and the minute had been enough to make a shut door the loudest thing in his week. He turned over onto his back and let it run, and somewhere in the middle of it he slept.

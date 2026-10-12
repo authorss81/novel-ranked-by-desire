@@ -20,7 +20,7 @@ He lifted the requisition so the light fell on the paragraphs. "Two paragraphs. 
 
 "And who says it can do that."
 
-"The man who wrote the output the Wing is relying on." The clerk turned the paper over. On the back, in a different hand, was a name and a post. "Ivo Sarn. Counter-forensics reporting officer. Nine years at this desk. His hand draws the headings in the fourth book three floors above the register room, including the sixth one, and she has never seen him."
+"The man who wrote the output the Wing is relying on." The clerk turned the paper over. On the back, in a different hand, was a name and a post. "Ivo Sarn. Counter-forensics reporting officer. Nine years at this desk. His hand draws the headings in the fourth book three floors above the register room, including the sixth one, and the woman who keeps that book has never laid eyes on the man."
 
 Lin Hao looked at the name. It was the first time it had been on any paper in front of him.
 
@@ -76,7 +76,7 @@ At the corner he stopped and made the decision he had come up the stair without 
 
 Whatever the tool did, it would do in the hall, in front of strangers, on the day, or it would not do it at all. He had written that sentence once before, on a blank strip under a printed line, about a reason. He would hold the machine to the same condition.
 
-He walked back to the branch with forty-five days in front of him and two papers behind him that did not exist yet, and the wariness stayed with him all the way, cold and clean, like a hand on a rail.
+He walked back to the branch with forty-five days in front of him and two papers behind him that did not exist yet, and the wariness stayed with him the whole way and did not warm up once.
 
 He told the table that evening, standing at the foot of it with the notebook shut under Marguerite's hand. A desk. A rule. A reporting officer with nine years in the chair. A builder outside the roll with no name yet.
 

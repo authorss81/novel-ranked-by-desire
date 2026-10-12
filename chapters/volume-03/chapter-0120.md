@@ -2,7 +2,7 @@
 
 The Office put its case in writing on the twentieth, and Lin Hao saw it at ten in the morning on the third floor of the Reading, where Tove Marlin laid it on the eight-foot table beside the nine grey boxes and read the cover sheet exactly as written, because that was the only way she read anything.
 
-He had cleaned six floors before coming, with the washrooms last because a sitting day filled them, and on the fourth floor the machine stood silent in a discharged room, and Drant's own entry beside the spike said received, and it had gone nowhere at four for sixteen days.
+He had cleaned six floors before coming, with the washrooms last because a sitting day filled them, and on the fourth floor the machine stood silent in a discharged room, and Drant's own entry beside the spike said received, and three floors above him the classification paper had gone up at four on every working day since the nineteenth of last month and come back down with nothing on it.
 
 It had gone into the book with the floors. The cause named, and no number.
 
@@ -12,7 +12,7 @@ Sabine Rooke stood in the doorway with her hands on the frame. The fourth box wo
 
 She turned the cover sheet round so it faced him. Four paragraphs. The heading over it said only description, in the flat administrative voice of something made by an office to be read out.
 
-He read the first sentence. It was a description of him, in somebody else's hand, built out of nine boxes and forty-one names and fourteen entries and six lines a day. It did not name him. It did not need to. It was first on the list, and everything under it was his.
+He read the first sentence. It was a description of him, in somebody else's hand, built out of nine boxes and forty-one names and thirteen entries and six lines a day. It did not name him. It did not need to. It was first on the list, and everything under it was his.
 
 "That is the hearing in writing," said Tove. "Nine items, proved, with an excluding objection on the fourth. One witness named by the member." She looked at him. "Wren Kallo. Named yesterday, in your hand, on the form the hearing officer keeps. The Office received it this morning."
 
@@ -48,11 +48,11 @@ The room was quiet. The queue was gone. Drant stood at the end of the counter wi
 
 "It is not true," said Drant, from the end of the counter. He said it to the book and not to anybody. "A mass in his possession by his own condition. No source. No measure. Four offices have believed it for four months and it is false in exactly the direction that matters, because it makes him the maker of a thing he never made, and a man who makes his own mass is a man who can be regulated."
 
-He stopped. Nobody asked him to go on. The sentence sat in the sixth space in Anneke Roos's hand, received and not agreed, and it was the Office's sentence now, and it would be read in the hall.
+He stopped, and the sentence stayed in the room with the rest of it, and it was not going to be argued down by anybody in this building.
 
 Lin Hao looked at the page. Five headings and a sixth space, filled at last. Eleven years ruled, a year and a half empty on purpose, and now a paragraph in it that was wrong, in a clerk's hand, signed and dated.
 
-He understood what it was for. The Office had a record and a case and a certified instrument and a description first on the list. What it had needed since the nineteenth of last month was a sentence to put in the empty space, and now it had one, and the sentence made him the maker of his own mass, and a man who makes his own mass is a man who can be regulated.
+He understood what it was for. The Office had a record and a case and a certified instrument and a description first on the list. What it had needed since the nineteenth of last month was a sentence to put in the empty space, and now it had one, and the sentence did Drant's work for him: a mass a man makes is a mass an office can ask him to stop making, and a thing you made is a thing you can be held to.
 
 "That is the sixth space filled," said Anneke. "It goes up at four with everything else, and it will come back with everything else, and from today there is a line in it where anybody can see it."
 
@@ -63,8 +63,6 @@ Sabine's room stood empty above them with nine boxes on an eight-foot table and 
 He walked home up the long road with forty days in front of him and the record complete behind him. Nine boxes on a table. A shut fourth box wearing his objection. A description first on the list. A sentence in a sixth space, received and not agreed. A certified instrument, two columns, a builder named as his witness who could not keep a secret and had already told a bench and a sister and a runner and a plate-office clerk.
 
 At the house the notebook lay open on the hall table with the day's six lines in it, and the visitors' book sat shut beside it, and Sun was on the landing in her coat, off paper, holding the place the house could not hold. Marguerite read him the day's entries in four minutes. Nothing with legs. The house held.
-
-The hall was forty days out. Everything the Office meant to read was written. Everything the Wing believed was in a book.
 
 The hall was forty days out. Everything the Office meant to read was written. Everything the Wing believed was in a book.
 
