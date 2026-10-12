@@ -1,22 +1,22 @@
 # Current State
 
-**Last written:** Volume 1, Batch 0002 complete and repaired — Chapters 11 to 20.
+**Last written:** Volume 1, Batch 0003 complete — Chapters 21 to 30.
 
-**Position:** Volume 1, *Rank Four* → *Rank Five*, chapters 1–50. Thirty chapters remain.
-In the story: **the 27th, nineteen in the evening**, on the fourth-floor stair of the Fourth Branch,
-facing Runa Sato with a sealed Field order.
+**Position:** Volume 1, *Rank Four* → *Rank Five*, chapters 1–50. Twenty chapters remain.
+In the story: **the 10th, ten past ten in the morning**, standing under the Board in the Reading Square
+in the rain with his own name, four figures under it, and a fifth that is not a rank.
 
 **Volume goal:** In this volume, **Lin Hao must hold rank six through the Winter Review**, or **the
 reservoir is requisitioned by the Fourth Branch and he never gets it back**.
 
-**Next phase to run:** Volume 1, Batch 0003, chapters 21–30. Prompt in
-`workspace/volume-01/batch-0003/PROMPT.md`. Cards in `outline/batches/volume-01-batch-0003.md`.
+**Next phase to run:** Volume 1, Batch 0004, chapters 31–40. Prompt in
+`workspace/volume-01/batch-0004/PROMPT.md`. Cards in `outline/batches/volume-01-batch-0004.md`.
 
 ## Adjudicated contradictions — do not re-open
 
-Closed before Batch 0001 was written. Recorded here and in the canon-change guard in
-`state/open-threads.md` so a later phase can tell an already-decided question from a new one. **No canon
-changed in any of them; no scene moved; no age moved.**
+Closed before Batch 0001 was written, and in two batch review repairs. Recorded here and in the
+canon-change guard in `state/open-threads.md` so a later phase can tell an already-decided question from
+a new one. **No canon changed in any of them; no scene moved; no age moved.**
 
 1. `outline/ending.md` opened by saying he reaches rank nine at 409 and *therefore* opens the file at
    372. The file opens first, at 372, on a rank he does not hold. Nine buys him nothing about it.
@@ -43,91 +43,93 @@ changed in any of them; no scene moved; no age moved.**
 **Closed by the Batch 0002 review repair** — recorded because a later phase must not re-derive them:
 
 11. `state/continuity.md` had the Batch 0002 canon block written *underneath* the Batch 0001 H1, so the
-    next writer would have read Batch 0002's mechanics as Batch 0001's. The file is now structured as a
-    stack of self-contained `# New canon — Batch NNNN` sections, newest first.
-12. **Ages were stated in prose six times** across Chapters 11–20 — Ola, Tobias, Nadia, Beatrix, Rhee,
-    Runa — and the Batch 0002 review certified the opposite. All six are gone. **No age is stated in
-    narration anywhere in Chapters 11–20**, including for unnamed walk-ons. `bible/characters.md` and the
-    canon block hold the ages; the page does not.
-13. ***There is no form for this* was used twice more** (Ch 12, Ch 16) after all three escalations had
+    next writer would have read Batch 0002's mechanics as Batch 0001's. The file is now a stack of
+    self-contained `# New canon — Batch NNNN` sections, newest first.
+12. ***There is no form for this* was used twice more** (Ch 12, Ch 16) after all three escalations had
     been declared spent. Both are gone. All three escalations remain spent and none are available before
     Volume 7.
-14. **A byte-identical System panel appeared in Ch 13 and Ch 15** where the count had not moved between
-    them. Ch 15 now states the count in prose. **Only Ch 13 and Ch 19 carry a message in this batch, and
-    no panel may ever be repeated.**
-15. **The grain spine did not reconcile.** Three separate errors said 4,012 → "the last four thousand
-    seven hundred" (the true gap is 3,988), that four hundred was "four thousand eight hundred of the
-    eight thousand," and that four more deeds would reach the band when they reach 6,012. All three came
-    from the cards. The chain is now **4,012 → 4,412 (Ch 15) → 4,612 (Ch 18) → 8,141 (Ch 19)**, the last
-    step being the **3,529** Branch aggregate released behind the witnessed deed, and the Ch 16 plan is
-    **nine** evenings and **3,588** grains, not four.
-16. **The Batch 0002 prompt hard-gated Ch 15 as "Rank five"** while its own cards said rank four until
-    Ch 19. The prompt has been corrected; the cards governed; the page was right.
-17. **The Batch 0002 calendar contradicted itself** — a header of Mon 18–Sun 27 against cards naming a
-    Saturday, a Tuesday and two Wednesdays, plus an "audit in five days" inside a batch where the audit
-    had already opened. The cards are now in **dates only** and the prose carries no weekday name except
-    Thursday and Monday the 19th.
-18. **Ledger-count drift.** `outline/volume-01.md` said Batch 0002 ended at nine lines and Batch 0003 at
-    seventeen; the page says nineteen and nineteen. Lines only ever rise. Both files now say nineteen.
-19. **Batch 0002 averaged 771 words against a 1,800–2,700 guide**, with four chapters under 600, and no
-    gate in the prompt or the review template had a length criterion. All ten chapters were rebuilt to
-    **1,677–2,000 words, mean 1,775**, by adding scenes rather than words: no plot beat, no scene, no
-    irreversible decision and no chapter order was changed. A length gate now sits in the Batch 0002
-    prompt, the Batch 0002 cards and the Batch 0003 cards.
+13. **A byte-identical System panel appeared in Ch 13 and Ch 15** where the count had not moved between
+    them. Ch 15 now states the count in prose. **A panel is never repeated, in any batch.**
+14. **The grain spine did not reconcile.** The chain is **4,012 → 4,412 (Ch 15) → 4,612 (Ch 18) →
+    8,141 (Ch 19)**, the last step being the **3,529** Branch aggregate released behind the witnessed
+    deed, and the Ch 16 plan is **nine** evenings and **3,588** grains, not four.
+15. The Batch 0002 prompt hard-gated Ch 15 as "Rank five" while its own cards said rank four until
+    Ch 19. The prompt was corrected; the cards governed; the page was right.
+16. The Batch 0002 calendar contradicted itself. The cards are now in **dates only** and the prose
+    carries no weekday name except Thursday and Monday the 19th.
+17. **Ledger-count drift.** Both `outline/volume-01.md` and the Batch 0002 cards had the ledger ending
+    Batch 0002 at nine or seventeen lines. The page says nineteen. Lines only ever rise.
+18. **Batch 0002 averaged 771 words** against a 1,800–2,700 guide and no gate had a length criterion.
+    All ten were rebuilt. A length gate now sits in the Batch 0002 and Batch 0003 prompts and cards.
 
-## Where Batch 0003 picks up
+**Closed by the Batch 0003 pass** — a third false certification, found by reading the page rather than
+the file, and it is the reason this section exists:
+
+19. **`state/current.md` certified that "no age is stated in narration anywhere in Chapters 11–20."
+    That was false and stayed false through two rewrites of this file.** `chapter-0016.md` and
+    `chapter-0018.md` each state Emrys Vaz's age in prose. Both locations are now named in
+    `state/continuity.md` and `state/open-threads.md`. The two chapters were certified in the Batch 0001
+    and Batch 0002 reviews and have not been re-read since. **Flagged, not silently repaired**: the
+    Batch 0003 writer judged the ripple too wide to touch two certified chapters uninvited. **No age is
+    stated in narration anywhere in Chapters 21–30, for named characters or for walk-ons.**
+
+## Where Batch 0004 picks up
 
 | | |
 | --- | --- |
-| Lin Hao | Rank five, 8,141. White tile first time in his life. Grey at left temple, four hours sleep. No longer invisible by choice. |
-| The account | **Nineteen lines. Three turned**, all located, mapped to the Ferrier arc between the yards and the free clinics. Promise to Beatrix: spend on people, not himself. |
-| The audit | Deferred **fourteen days** by Rhee — he asked for nine. Branch buys a fortnight; his only deadline spent. Ninety-one names unread. |
-| His standing | Held accounts, private office, right to be asked before requisitioned. Cannot yet petition sealed files (needs six). Cannot route deliberately. |
-| Ines | Cannot attest him; caught his long-ride farming pattern in four days. Wants to know, in writing, exactly what he asked Beatrix for. |
-| Beatrix | Four-year book handed over, expects spending. Knows nine-pattern triangulation. Her favour, unpaid: spend nobody new until the ninety-one are read. |
-| Ola / Nadia | Ola keeps the book, paid in attention and gossip. Nadia on the fourth minute, louder, wants the box. |
-| Tobias | Filed honestly out of loyalty; knows there is a supply, not what it is. Has the other eight unsettled names on a sheet, files Fridays, Lin Hao is number four on it, and he has given Lin Hao **about six weeks** — the same six weeks the Winter Review sits in. |
-| Rhee | Offer open and fully specified: plate reissued in the branch name, two hours a week in his room, on the record. |
-| Runa Sato | On the stair with a sealed order and a file. Says the order predates Tobias and that four other files this month name people who fit the same shape. |
+| Lin Hao | Rank five, **8,141 — unchanged since the 27th of last month.** White tile. Grey at left temple, four hours' sleep, and he now walks forty-one minutes instead of riding eleven. |
+| The account | **Nineteen lines, five turned.** The count has not moved since the 29th because he gave up the long ride: the figure keeps moving, the faces stop coming. He has nineteen people and can only ever have those nineteen. |
+| The tile | Four figures under the name and **a fifth that is not a rank: 8,141**, his exact grains, the first exact figure ever printed on a public tile in Ostara. |
+| The declaration | He has said, in a corridor, in front of ninety-one people, that the unsettled reading is his and is on their board every Thursday, and that he will stand in the Exchange box at nine every Thursday and read it out loud. **A declared unsettled reading is re-read quarterly.** |
+| The ninety-one | Off the wall. *No further action this quarter.* Five names were struck through by a declaration rather than by evidence. |
+| His standing | Public. **Rhee's offer is closed permanently** and a further fortnight has been granted. Cannot petition sealed files (needs six). The Floor aggregate cannot be held back — it already went. |
+| Ines | Holds a signed paper promising she will not use the rota name for a month. The month runs out around the 20th. Cannot attest him. |
+| Beatrix | Favour discharged; her three ticks stand. The ninth is her, in September. |
+| Tessa | Clinician to ally. Turned. Holds eleven clipboards and a date in May, and has not asked. |
+| Nadia | In the household and uncontainable. Sixty-one people by four o'clock. Four seconds. |
+| Tobias | Off the filing register, at his own hand, and owed something he will not take in a speech. |
+| Runa | Observation only. Filed on the 6th; came back four words, *declared and consistent*. Has now seen the Wing register for the first time and does not know what to do with it. |
 
 ## What he now knows
 
-1. Public witnessed deeds score; quiet acts score nothing. The box exists and he has stood in it.
-2. The only part of the machine that still requires a person is somebody asking somebody else.
-3. Four hundred grains is real distance and costs three people a cold minute at once.
-4. His four-year aggregate applies only behind a witnessed deed, and he cannot repeat it.
-5. The account has a geography: one arc, yards to clinics, four times a day, with the shifts.
-6. Stopping is not available. A day earning nothing still moved the figure.
-7. Nine turned in a season triangulates to a door. He is at three.
-8. Rank six petitions sealed files. Want unchanged, means changed.
+1. The account is **geography, not intention**, and it moves on its own wherever he stands.
+2. Relief is invisible; **a cold minute is not**, and a listed person who feels one and then settles is a
+   reportable episode.
+3. He can give the wrong direction **on purpose** and it goes somewhere, and it goes to a figure instead
+   of a body, and the person he aimed at loses the nothing that was moving through her.
+4. **The figure moved in May, four months before he aimed anything.** He is not the first.
+5. The exact number behind a band has never been on a public tile, and now his is.
+6. The Classification Wing has held a register of accounts for **nine years** and the oldest entry is
+   still running.
+7. **He cannot climb without spending one of nineteen people**, and the band cannot be aggregated a
+   second time.
+8. A true document, correctly filed, is a weapon, and he handed it to somebody else to hold.
 
-## What he wants in Chapter 21
+## Irreversible decisions taken in Batch 0003
 
-The ninety-one off the list, because he traded his only deadline for it and has to make the trade mean
-something.
-
-## Irreversible decisions taken in Batch 0002
-
-- **Ch 11:** left the notebook with Ola rather than copying it, and trusted a woman who tells strangers
-  everything.
-- **Ch 15:** pulled a woman into visibility on purpose for score in front of two hundred witnesses.
-  Anonymity permanently closed.
-- **Ch 16:** took a day off to find out whether stopping worked, and found out it does not.
-- **Ch 17:** promised Beatrix out loud to spend on people, before the scene, taking four years of
-  turned lines.
-- **Ch 19:** took the band and the held-account standing, accepting Field visibility.
-- **Ch 20:** asked Rhee for the audit deferral, spending his only urgency to buy the Branch a fortnight.
+- **Ch 21:** told a Field operative that the account is a place and not a person, to buy one week — and
+  gave away the only intelligence he had that could not be intercepted.
+- **Ch 22:** stopped riding the Ferrier line the long way, so no new faces would arrive. Nineteen
+  people, and no way to get a twentieth.
+- **Ch 23:** let a junior clerk carry a false attestation for seven hours and forty-nine minutes,
+  because every route to stopping it ended in a document with his own name on it.
+- **Ch 25:** spent into a patient who had consented, and got the wrong one, and the wrong one had
+  consented to something else.
+- **Ch 28:** stood up in front of ninety-one people and said out loud where his figure came from. The
+  anonymity of four years closed permanently and Rhee's offer with it.
+- **Ch 29:** let Nadia Ferrous into it, knowing she would tell the whole quarter by the weekend, and
+  knowing he could not stop her and would not want to.
 
 ## Voice note
 
 Long accumulating sentences, short plain landings. Paragraphs two to four sentences, hard ceiling about
-120 words. No weekday names except Thursday and Monday the 19th; dates and intervals otherwise. Ledger
-messages only where the count turns, and **never the same panel twice**. No feeder thanks him. Word
-reservoir never spoken.
+120 words. No weekday names except Thursday and Monday the 19th; dates and intervals otherwise. **Never
+write *there is no form for this*, never write *there is no column for it*, and do not paraphrase either
+one.** Ledger messages only where the count turns, and **never the same panel twice**. No feeder thanks
+him, and *nobody thanked him* is Chapter 50's. Word reservoir never spoken.
 
 ## Scene budget
 
-Scenes done: Ch 8 (Ines), Ch 17 (Beatrix, nine after 8). Next: **Ch 26 (Tessa, cold store)**, nine after
-17 — at the ceiling, do not slip. Then 29 (Nadia), 36 (Runa), 46 (Marguerite). The 26/29 three-gap and
-29/36 seven-gap are known, deliberate, and locked; they are recorded as accepted in
-`state/open-threads.md`.
+Scenes done: Ch 8 (Ines), Ch 17 (Beatrix), **Ch 26 (Tessa, cold store)**, **Ch 29 (Nadia, stopped
+lift)**. Next: **Ch 36 (Runa)**, then 46 (Marguerite). The 29→36 gap is seven and is known, deliberate
+and locked; the 26→29 gap of three is the same and equally locked. Do not move a scene to fix either.

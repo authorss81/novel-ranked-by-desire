@@ -28,7 +28,9 @@ never of deeds. **It cannot take, cannot be compelled, cannot be traded, and can
 **Ages, fixed.** Ines Duarte 34 · Beatrix Halm 27 · Tessa Okonkwo 31 · Nadia Ferrous 23 · Runa Sato 29 ·
 Marguerite Vale 41 · Sun Meiling 33 · Wren Kallo 38 · Agnete Lindqvist 45 · Petra Ilyin 35 · Isolde
 Marchetti 39 · Dagmar Oyelowo 50. **No chapter may state or imply a different age. Every sexual character
-is an adult and is written as one.**
+is an adult and is written as one.** **No age is stated in narration anywhere in Chapters 21–30, for
+named characters or for walk-ons.** Two residual instances survive in the *earlier* batches — Ch 16 and
+Ch 18 both state Emrys Vaz's age in prose — and `state/current.md` no longer certifies otherwise.
 
 **Opposition.** Cassius Rhee, deputy warden of the Fourth Branch, 46 — the recruitment, not the villain.
 Alma Quayle, Classification Wing, 57. Yusuf Adeyemi, Correction Office, 44. Solveig Rask, Vant's real
@@ -63,6 +65,124 @@ Rank nine. His brother's file opens. The account is returned in full at Chapter 
 a night shift. The Board gains a second line reading **unrecorded — carried by**. Nobody thanks him. No
 partner dies. No partner leaves without explaining. Ferreira lives. Sowe lives and is never forgiven or
 condemned on the page. No new final enemy.
+---
+
+# New canon — Batch 0003 (Chapters 21–30)
+
+Appended above Batch 0002. Nothing in the Batch 0002 or Batch 0001 blocks below has been altered.
+
+## The calendar, fixed by the page
+
+Dates and intervals only. **No weekday arithmetic.** The batch runs **the 28th to the 3rd**, then a
+seven-day gap to the 10th.
+
+- **Ch 21** the 28th, morning into ten. **Ch 22** the 29th. **Ch 23** the 30th. **Ch 24** the 31st.
+  **Ch 25** the 1st, ten past ten at night. **Ch 26** the 1st, twenty past midnight. **Ch 27** the 3rd,
+  from ten past ten in the morning. **Ch 28** the 3rd, 11.20 to half past two. **Ch 29** the 3rd, twenty
+  past nine at night. **Ch 30** the 10th, ten past ten in the morning.
+- **Runa's report is filed on the 6th.** Lin Hao reads it on the 8th and goes to look for the thing it
+  named on the 10th. It is read by a man in an office Runa has never been in and comes back with four
+  words: *declared and consistent*.
+- Rhee's first fortnight (granted the 27th) runs out on the **10th**. Rhee's second fortnight is granted
+  in the corridor on the 3rd and is **the last one he will put his name to in writing**.
+- **Spoken weekday: Thursday only.** Used for the repaint, the weekly publication, the Thursday line at
+  the Exchange box, and the readings. Monday the 19th remains available. All other references are dates
+  or intervals. Twenty-two illegal weekday names were removed from the first draft of this batch.
+
+## Mechanics now on the page
+
+- **The figure did not move in this batch.** He is 8,141 at Chapter 30, the same figure he took in
+  Chapter 19. He did not climb, and there is no route by aggregation, because there is no second
+  aggregate. Everything he spent he spent into people who are not his rank.
+- **The ledger is nineteen lines and it stopped moving on the 29th.** He gave up riding the Ferrier line
+  the long way. The rule as it now stands on the page: **the figure keeps moving wherever he stands, and
+  the faces stop coming.** Accrual is proximity; the ledger counts *people*; remove yourself from the
+  densest corridor and no new faces arrive, but the mass still grows. He has nineteen people and can
+  only ever have those nineteen. This is the trap the whole batch turns on, and it is the price of
+  Chapter 22's decision to spend nobody on the ninety-one.
+- **Turned lines 3 → 5**, both first-time spends, both people who had said yes to something else:
+  - **Teodor Mace** (Ch 25) — an Exchange counting-house clerk, plate 2,240 / 402 a week. He agreed at
+    eight o'clock to Tessa's new intake test. Nobody asked him for the other thing.
+  - **Tessa Okonkwo** (Ch 26) — nine unexplained colds since June on other people's chests, called
+    being tired. She keeps a count from here.
+- **Spending on a listed person marks them.** A cold minute is invisible relief's shadow but a visible
+  anomaly, and a person on an audit list who feels a cold and then settles is a reportable episode, and
+  the Bureau's threshold is three in a season.
+- **Wrong-direction spend, done on purpose and aimed, does the wrong thing cleanly.** He touches a wrist,
+  aims, and four hundred grains go into a *figure* instead of a body. The figure moves; the rate does
+  not; the body is untouched and is no better and no worse. The person who was aimed at is drained of
+  nothing and gains nothing, because the thing went past her.
+- **The signature is inverted and now exists on the page in both directions.** A relieved body presents
+  as **too well** — chart says one thing, colour and chest say another. A routed body presents as
+  **no better and no worse with a figure that has jumped**, which is testable and is what the Exchange
+  reconciliation is about. Both are Volume 3 material.
+- **An unaccounted figure is a referral.** A plate carrying grains with no deed behind or in front of
+  them fails reconciliation at the next gate press; a reconciliation failure at the Exchange is a
+  referral to the Wing, which is not a letter to the man, it is a message to his employer.
+- **The wrong-direction error can be absorbed.** Tessa can hold a body past the point it should stop and
+  the cost lands in her own frame. She used that to move 424 grains of reconciliation error out of
+  Teodor Mace and into an account nobody checks, which is her own. Her forearms are grey-black stippled
+  from the wrist to mid-forearm and it is eleven years old.
+- **The Board can print a figure that is not a rank.** A tile carries a rank numeral. Lin Hao's carries
+  four more printed figures: district, year of issue, the standing of the account, and the date it was
+  declared. The **fifth figure is 8,141** — his exact grains — because a declared unsettled reading
+  cannot be banded (no interval, no band) and the Reading Office fell back on the raw number. **No exact
+  figure has ever been printed on a public tile in Ostara.** The number is not his: 400 of it came off a
+  woman with a basket, 200 off a door held in the rain, 3,529 out of the Branch aggregate.
+- **A declared unsettled reading is re-read quarterly** and is carried on a printed board in the branch's
+  own corridor, in a clerk's hand, in red.
+- **The Classification Wing keeps a register of accounts.** Posted at the left-hand end of the Board,
+  a foot off the ground, **opened nine years ago, thirty-one entries, entries are accounts and not
+  persons**, listed by plate number with no names at all. The oldest entry predates the printed column —
+  opened by hand, in pencil — and is the only one of the thirty-one still running. Lin Hao is the
+  thirty-first and was entered on the 3rd. Nobody inside the Field had seen the page before the 10th.
+
+## New named people and places
+
+- **Ottoline Barret**, fourth floor, stores. Eleven years holding the fourth-floor stair door. Forty-second
+  on the ninety-one, unsettled on the 3rd, and struck off by Lin Hao's declaration. Declined a hearing
+  twice in four years because she could not afford the wait. Says exactly one sentence in the book.
+- **Wenna Ost**, Vestry laundress, night shift, rank two. Scar scored against her four years ago by a
+  supervisor who wanted the shift count to come out; nine visits to the Vestry clinic and nine refusals.
+  Agreed to be the receiving end of the first deliberate wrong-direction spend in the city and got
+  nothing out of it. **No age is stated in prose.**
+- **Teodor Mace**, Exchange counting house, plate 2,240 / 402 a week. Chest since the 28th. Agreed to
+  an intake test, not to a routing. Left the cold store without a word. **No age is stated in prose.**
+- **Emrys Vaz** is the third tick in Beatrix's TURNED column. Named in Ch 23, unsettled on the 3rd with a
+  plate handed to him at the north gate that morning reading 441, struck off by the declaration, and back
+  on the yard rota at six by the 10th. **No age is stated in prose anywhere in Chapters 21–30.**
+- Locations: the Field observation room, **second floor, a store cupboard with a table carried up the
+  back stair by hand**; the witness book on its lectern by the plate office door, **with a narrow
+  attestation column that was empty until the 30th**; the Vestry **cold store**, eight feet by eleven,
+  two degrees, one lamp on a cord, a couch, a table, and a rack of eleven clipboards.
+
+## Standing obligations created or discharged
+
+- **DISCHARGED — the Ines debt.** Paid in Ch 22, in writing, in two notebooks bought for eleven cents.
+  The uncomfortable half is not the book. It is that the price was himself, agreed out loud in a cab
+  before anything started, and that Ines — who could not have moved a page of it — would have asked
+  first if she could.
+- **DISCHARGED — Beatrix's favour.** The ninety-one were read on the 3rd, so the term expired. He had
+  broken it twice first, on the 1st, on a patient who said yes to something else.
+- **CLOSED FOREVER — Rhee's offer.** A man who has made a public record of what was offered cannot then
+  sit in a closed room twice a week on the record. Rhee says so himself, through two inches of door, on
+  the 3rd, and buys a fortnight instead. It does not come back in Volume 1.
+- **OWED — the Exchange box.** Every Thursday at nine, at the public counter, read aloud and read back.
+  He has stood there once. The re-read is quarterly.
+- **OWED — the March clipboard.** Tessa has a name on a clipboard dated the second of May with a figure
+  of 2,640 and a man who went out shaking, and he has not told her who it was and she has not asked.
+
+## Rationed constructions
+
+- **None spent in this batch.** *There is no form for this* and *there is no column for it* are both
+  untouched; a paraphrase of the first was written into Ch 27 in the first draft and removed.
+  *Nobody asked* is untouched. **"Nobody thanked him" was cut from the Chapter 30 draft** because
+  Chapter 50 is scheduled to spend it and the Vol 1 close owns it.
+- Reservoir never spoken. **No feeder thanks him.** Halvard's pattern holds and is reinforced: Ottoline
+  Barret's one sentence is not thanks, the second-column man counts words rather than offer thanks, the
+  woman from the second column leaves tea without looking at him, Emrys Vaz says nothing at all.
+- **Zero cross-chapter repeated 6-grams of content words** across the ten chapters, measured.
+
 ---
 
 # New canon — Batch 0002 (Chapters 11–20)
