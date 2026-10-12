@@ -2,7 +2,7 @@
 
 The seventh week of a standing that never went up was the shape in the data, and the shape belonged to Garrick Neve before it belonged to anybody else, because Garrick Neve read forty plates a day at a public counter and wrote down every one of them.
 
-He had said it in a doorway on Cutler's Row ten days after the Review: a figure that has not gone up by one grain since the third of the season, while every plate in that corridor with anything to do with the yard aggregate went up four hundred.
+He had said it in a doorway on Cutler's Row ten days after the Review: a figure that has not gone up by one grain since the third week of the season, while every plate in that corridor with anything to do with the yard aggregate went up four hundred.
 
 Nobody had done anything with it since, because a man on a landing is not a ledger.
 
@@ -20,7 +20,7 @@ The right column went all over the place.
 
 It went up two hundred, down ninety, up four hundred, up eleven, up thirty, up six hundred, down four hundred.
 
-And the left one sat at the bottom of the page with three grains of daylight under it and had not gone up by one grain since the third of the season.
+And the left one sat at the bottom of the page with three grains of daylight under it and had not gone up by one grain since the third week of the season.
 
 "That is not a machine error," Drant said, "and it is not a fault in your plate, and I have had the plate office check the socket twice because I would rather it were a fault in my building than what it actually is."
 

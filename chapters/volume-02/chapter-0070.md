@@ -142,7 +142,7 @@ She turned round and looked at him properly for the first time since he had come
 
 Four hundred filing runs and a kettle on the bench and a woman two floors below him asking him, in front of the whole corridor, three times a year, whether he has read her latest — and he has never once come down."
 
-"I have taken that for eleven years as a man being busy. It is not. I worked that out on the fourth of the month at about eleven at night, and I sat here and did not sleep, and I did not come up the stair and tell you."
+"I have taken that for three years as a man being busy. It is not. I worked that out on the fourth of the month at about eleven at night, and I sat here and did not sleep, and I did not come up the stair and tell you."
 
 "I want you to hear that I decided that on purpose and not out of cowardice, although it was both."
 

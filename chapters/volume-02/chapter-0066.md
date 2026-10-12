@@ -20,7 +20,7 @@ Because the man was wrong, and being wrong in the queue was cheap, and the wrong
 
 He had told Halvard Rees in the fourth week of the season that a thing that was wrong and simple was worse than a thing that was right and complicated, because a man would build the wrong one out of whatever was to hand.
 
-On the sixth floor of a building in Cordwain a woman with a notebook and no badge was asking operators for their counts, and a woman with a dark coat and no paper at all had been getting answers out of frightened men at counters for eleven days, and now the largest queue in the district had begun to invent an explanation that would be finished and complete and entirely wrong inside a fortnight.
+On the sixth floor of a building in Cordwain a woman with a notebook and no badge was asking operators for their counts, and a woman with a dark coat and no paper at all had been getting answers out of frightened men at counters for twenty days, and now the largest queue in the district had begun to invent an explanation that would be finished and complete and entirely wrong inside a fortnight.
 
 His strip was on a spike in his own corridor with a bell on the machine.
 
@@ -150,7 +150,7 @@ I have not asked and I am not asking, and I am telling you that a date you have 
 
 "Who told you about the pencil."
 
-"Not one porter." She went down two steps. "A man in a dark coat has been asking my porters and two of them are women who talk. You are not the only one being counted and you have not been for eleven days."
+"Not one porter." She went down two steps. "A man in a dark coat has been asking my porters and two of them are women who talk. You are not the only one being counted and you have not been for twenty days."
 
 She went down the stairs, and the two of them sat with the candle and the two bottles and the window open over a street where a chop-house had been trading since before the Veil and where the whole unmeasured half of that city's kindness walked past twice a day.
 

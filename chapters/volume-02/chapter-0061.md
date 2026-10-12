@@ -130,7 +130,7 @@ She looked up the corridor at the light over the second door.
 
 "What is on it."
 
-"Eleven days of dates." She said it with her coat over her arm and her eyes on the stair. "Attendances, plate, ruling, figure, margin. All of it in the same order every time, in the same five headings, which is what a book does when the person writing it has decided there is going to be a sixth heading and has not decided what it is."
+"Twenty days of dates." She said it with her coat over her arm and her eyes on the stair. "Attendances, plate, ruling, figure, margin. All of it in the same order every time, in the same five headings, which is what a book does when the person writing it has decided there is going to be a sixth heading and has not decided what it is."
 
 "And when she finds out what it is."
 

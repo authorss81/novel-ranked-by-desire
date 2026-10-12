@@ -70,7 +70,7 @@ They moved on. He stood there for a moment with the plate in the cloth bag and t
 
 At twenty past ten the query clerk came out from behind the rail with a docket in her hand.
 
-She was the woman who had put his reading into the machine on the third of the season, and who had closed the query on a finding in the voice of nine chairs and sixty witnesses, and who had told him a fortnight ago that a finding does not sit with the office that asked the question.
+She was the woman who had put his reading into the machine in the third week of the season, and who had closed the query on a finding in the voice of nine chairs and sixty witnesses, and who had told him a fortnight ago that a finding does not sit with the office that asked the question.
 
 She was going along the rail with the week's docket going to the sub-clerk, and it was the way she handed it across the gap between two counters that stopped him.
 

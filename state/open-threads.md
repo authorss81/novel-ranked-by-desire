@@ -1,5 +1,122 @@
 # Open Threads
 
+## Volume 2 Batch 0002 — external review repair, completed
+
+**A reviewer who did not write the batch read Chapters 61–70 and found eight defects: four hard, four
+minor. All eight are fixed, and the sweep behind them turned up four more that no reviewer had listed.
+Twelve in all. The batch was not restarted, no plot was moved, no scene was rewritten, and the prose the
+reviewer called strong — Ch 62's bargain, Ch 63's scene, Ch 70's close — was left alone.** Findings in the
+order the reviewer gave them, with where each landed:
+
+1. **Ch 69 stated two incompatible counts for the same morning — FIXED, `chapter-0069.md:5`.** The repair that
+   corrected Drant's *"seventh of the standing, fourth of the schedule"* to *"third of the standing"* swept the
+   runner's opening line without sweeping the number in it: the diff was `Seventh floor of the standing` →
+   `Seventh entry of the standing`, a **wording** fix that preserved the wrong **ordinal**. A reader hit the
+   seventh at line 5 and the third at line 167 of one scene. **The runner's count is not his attendance at
+   all — it is the morning's entries at the door**, and the word carrying the collision was *standing*. Now
+   **"Seventh entry of the morning."** The seventh/eighth/ninth beat, the Field officer, and Runa Sato
+   claiming the ninth all survive; **the two standing counts in the chapter are now the only two, and they
+   agree.**
+2. **The dark-coat woman's elapsed time — FIXED in five places, `chapter-0066.md:23` and `:153`,
+   `state/continuity.md`, `state/current.md`, and B56 below.** The page said *eleven days* twice, the state
+   said *eighteen*. **Neither was right and the reviewer's own arithmetic, "roughly 19–20", says so.**
+   Derived: `chapter-0056.md:65` puts her first visit at "two days ago" from Ch 56, `state/continuity.md`
+   fixes **Ch 56 at the 22nd**, so she came on the **20th**; **Ch 66 is the 10th of next month** and the
+   month is thirty days. **20th → 10th is twenty days exactly.** All five locations now read **twenty
+   days.** *The reviewer held that the state was right because the prose was wrong; the state was closer and
+   the page is exact. Where a reviewer's own parenthetical declines to endorse its recommendation, the dates
+   govern.*
+3. **`open-threads.md` B54 preserved prose the repair had deleted — FIXED, cell B54 below.** It still had
+   Sowe taking the branch strip off a colleague's hand in the corridor, which `outline/volume-02.md:34`/`:36`
+   forbid and which the Batch 0002 repair removed from Ch 63. **`state/continuity.md` and `state/current.md`
+   both carried the removal; this file did not** — and `workspace/volume-02/batch-0003/PROMPT.md:21` sends the
+   next writer to the B46–B59 table as its thread memory. **Corrected, and the cell now says which of the
+   three files was stale so it cannot be re-derived wrongly a fourth time.**
+4. **A state file cited a log that does not exist — FIXED, this file.** `logs/next.review.log` is not there;
+   the real file is **`logs/batch-0002.review.log`**, and **`logs/` is gitignored**, so the review's full
+   working is local only. The citation now names the real file **and says that a run which needs the evidence
+   will not find it in the repository**, which is the honest form of the fix.
+5. **`continuity.md` miscounted its own weekday gate — FIXED.** It claimed *Thursday only, **nine** times
+   across the ten chapters*. The count is **eleven across five of them** (Ch 61 ×1, 62 ×4, 66 ×1, 67 ×4,
+   70 ×1) — Ch 69 lost its only Thursday when the ordinal repair rewrote line 5. The **rule** was sound and
+   zero other weekday names appear. This file's whole purpose is to be the corrected record; a figure printed
+   beside a finding it was not measured from is items 43, 44 and 46 again.
+6. **An orphaned fragment — FIXED.** The gate paragraph broke mid-sentence at *"maximum 4 in any one
+   chapter**, 920 paragraphs with…"*. The number is **919** and the sentence is whole.
+7. **Ch 69's acknowledgement cited a document with no referent — FIXED, `chapter-0069.md:117`, and `:93`.**
+   *"the three episodes recorded at the addresses attached to the analyst's sheet **of the seventh**"* —
+   there is no analyst's sheet of the seventh anywhere in the batch. Ruta's map is drawn on the 12th and goes
+   up on the 20th. **The date is struck**; the reader's referent is the sheet already named twice in the same
+   scene, once as the printed heading on the buff squares (`ATTENDANCE — PERSON NAMED ON AN ANALYST'S SHEET`)
+   and once as the procedure Drant names at `:93`. **The reviewer also noted that `:93` claimed the map
+   arrives as the *cause* of squares that were already on the table**, which is a chronology the chapter
+   cannot support; **"And when that sheet arrives, this office has a map with three names on it" is now "And
+   a sheet with three names on it is a map this office will have to do something about"**, which keeps
+   Drant's causal *so* and removes the false order.
+8. **Ch 66's week count did not reconcile — FIXED at the source, not at the line.** The reviewer flagged
+   `chapter-0066.md:3` ("the same number for the eighth week") against *"the third of the season"* in
+   `chapter-0062.md:5`/`:23` and `chapter-0060.md:73`. **Ch 66 was right and the phrase it appeared to
+   contradict was the defect.** `chapter-0062.md:3` already said *"The **seventh** week"* on the 3rd, and
+   `chapter-0066.md:7` already said *"the eight-week figure"* against *"the six-week one"* on the 27th. **The
+   ladder only failed because "the third of the season" reads as a date of the month** — and the 3rd is
+   exactly where Ch 62 is set. **All three occurrences are now "the third week of the season"** and the axis
+   closes: **third week → Ch 60 (the 27th, six weeks) → Ch 62 (the 3rd, the seventh week) → Ch 66 (the 10th,
+   the eighth week).** Four chapters, three week-figures, one start. **`chapter-0066.md` was not touched.**
+
+**Swept past the reviewer's list, because the sweep behind each finding was narrower than the finding — items
+43, 44 and 46, restated.** Three more, all the same arithmetic class, all in the batch's own chapters:
+
+9. **`chapter-0070.md:145` said she had taken Sowe for busy for *eleven years***, four lines below *"'And he
+   has never once come down my corridor,' she said. '**Three years.**'"* and eight below *"I have worked two
+   floors below him for **three years**."* **Now three years.** The eleven-year motif belongs to Tessa's
+   drawer and to Sun's wall of paper; it does not belong to her tenure in that corridor.
+10. **`chapter-0063.md:283` said *"in **nine** years of mine"*** forty lines after her own *"the only thing in
+    **eleven** years of sheets I have ever failed at"* (`:273`) and against `:5`, `:57` and `:169`, which all
+    give the wall of paper eleven years. **Now eleven years.** The nine-year figures in this volume belong to
+    the register, the Office, Sowe and the unused procedure — none of them to her wall.
+11. **Four `state/chapter-summaries.md` entries contradicted the page.** The **Ch 66** summary said the figure
+    had *"been flat for a **fifth** week"* where the chapter says the **eighth** (this is finding 8 seen from
+    the other end: the summary was written before Ch 62's week axis settled). The **Ch 70** summary said Sowe
+    *"has come down her corridor **once in three years**"* where the chapter says **he never once has** — the
+    same deleted beat as finding 3, preserved in a second file. The **Ch 62** summary named the three ruled
+    lines *"faces, persons and addresses"* where `chapter-0062.md:73` makes them *"attendances, persons spoken
+    with, and addresses."* The **Ch 61** summary said Anneke Roos had found her one difference *"in eleven
+    days"* where `chapter-0061.md:147` says **twenty**. **All four corrected against the page.**
+12. **Chapter 61 contradicted itself three lines apart, and the state had already caught it.**
+    `chapter-0061.md:133` read **"Eleven days of dates"** on the fourth book's page, and the same scene says
+    **twenty** three times — *"the first **twenty** days get copied onto the sixth heading"* (`:135`), *"She
+    has been getting it for **twenty** days"* (`:141*), *"I have had **twenty** days to look for it"*
+    (`:147`). **Ch 61 is the 28th and the page has carried dates since the 8th: 28 − 8 = twenty.** `grep -c
+    "twenty days" chapter-0061.md` returned **3** against the single *eleven*, and `state/continuity.md` and
+    the Ch 61 summary **both already said twenty** — which is how the defect was found: the state files were
+    right and the page was the outlier. **Now twenty.** *This is the same shape as the reviewer's finding 2 in
+    reverse: there the page was wrong twice and the state was merely wrong once, and here the page is wrong
+    once and the state is right twice. **Check which side of a disagreement is the outlier before editing
+    either.***
+
+**The reviewer's own gates, re-run on the repaired text and unchanged.** Horizontal rules **0** · bold **0**
+· italic **0** · planning register **0** · retired constructions **0** · weekday names other than Thursday
+**0** · Thursday **11** · panels **1 in 10** (Ch 64, never repeated) · `nobody` **19** / `no one` **0**, max
+4 in a chapter · **919** paragraphs, **max 89 words**, none over 90 · seventy titles, all unique, none over 90
+characters · announced ages **0** (the three regex hits are a nine-year-old register, a nine-year-old
+procedure, and "about forty times in nineteen years", which is a count of occasions). **Every one of the
+twelve defects above is invisible to all of them.**
+
+**Standing note for the next repair pass, and it is a trap.** D1 in `state/continuity.md` — *"six weeks"* in
+Ch 57 and Ch 60 where the calendar gives ten and fourteen days — is **still open and still unrepaired**, and
+it is on the **Review axis**, not the season axis. **A pass that repairs D1 must not break the season-week
+ladder fixed in finding 8.** As it happens the two currently agree by accident: Ch 60's defective *six weeks*
+is also the correct season-week count for the 27th. **That coincidence is not a licence** — it is two
+different statements that happen to carry the same number, and Ch 66:7 depends on the season reading.
+
+**What this pass did not do.** It did not write `reviews/volume-02/batch-0002.md` and it does not certify the
+batch. The judgement on Ch 63's scene, on the two irreversible decisions, and on whether the batch's
+cliffhangers are earned still belongs to a phase that did not write it. **No gate has a date criterion, and
+twelve of these twelve defects were dates, or a number printed beside a date that was never measured from
+it.**
+
+---
+
 ## Volume 2 Batch 0002 — second verification pass, Chapters 61–70
 
 **The batch was already written, reviewed and repaired on disk when this phase opened.** AGENTS.md is
@@ -12,8 +129,8 @@ gate passes on the batch. The single defect the pass found was a **date**, and n
 horizontal rules zero, bold zero, italic zero, planning-register words zero, weekday names other than
 Thursday zero, `there is no form`/`no column` zero, `nobody thanked` zero, `He wanted, concretely` zero,
 panels one in ten chapters and never repeated, no announced age, **nobody 19 and no one 0, maximum 4 in any
-one chapter**, 920
-paragraphs with **none over 90 words and a maximum of 89**, and all seventy titles in the book unique.
+one chapter**, and **919** paragraphs with **none over 90 words and a maximum of 89**, and all seventy titles
+in the book unique.
 **A reader tracking the calendar is the only instrument that catches what this batch got wrong.**
 
 1. **Chapter 63's date — FIXED, `chapter-0063.md:265`.** The line said the branch strip had been lying on
@@ -47,12 +164,13 @@ Ch 69, and on whether the batch's cliffhangers are earned belongs to a phase tha
 ---
 
 **Volume 2 Batch 0002 is written: Chapters 61–70, and a separate review run has now read them and repaired
-them.** The full findings are in `logs/next.review.log`; the repairs are recorded immediately below and
-carried into `state/continuity.md` and `state/current.md`. **Chapters 51–60 have still had no review, and
-that remains the standing problem in this repository.** Batch 0002 read them as prose and found one
-reader-checkable arithmetic defect in them — recorded below as D1 and in `state/continuity.md`. It was
-written around and not repaired, because that batch did not write those chapters, and **nothing in this
-repair pass touched Chapters 51–60.**
+them.** The full findings are in `logs/batch-0002.review.log` — **local only; `logs/` is gitignored, so a
+run that needs the evidence will not find it in the repository** and must re-derive it from the chapters;
+the repairs are recorded immediately below and carried into `state/continuity.md` and `state/current.md`.
+**Chapters 51–60 have still had no review, and that remains the standing problem in this repository.** Batch
+0002 read them as prose and found one reader-checkable arithmetic defect in them — recorded below as D1 and
+in `state/continuity.md`. It was written around and not repaired, because that batch did not write those
+chapters, and **nothing in this repair pass touched Chapters 51–60.**
 
 ## Volume 2 Batch 0002 — review repair, completed
 
@@ -135,9 +253,9 @@ them. The gates are re-run on the repaired text below.
 | **B51** | **The acknowledgement.** His hand, minuted: the three episodes were caused at his hand, are his cost, and are not evidence against the persons in which they occurred. | **Open and irreversible. The batch's second decision.** It is the same shape as what his brother did in a public hall, it cannot be unsaid, and it cannot be classified because it is not a score, a figure or a conduct finding. **This is the seed of every public reading in Volume 3.** |
 | **B52** | **A map of one event.** The thirty-one marks along the Ferrier arc are a pattern of where he walks, not of what he does. The dot is a single spend. If he spends again the dot becomes real and an analyst can draw him. | **Open, and it converges with B40.** Standing still is now doing two kinds of damage: the mass goes flat (Tessa) and the map becomes true (Ruta). **Ruta's third-colour line went up on the twentieth and he was not allowed to read it.** |
 | **B53** | **He is a shape with no place in it.** Sun Meiling's finding from eleven years of sheets. Every shape she has has a place; his does not. | **Open, and it cuts both ways.** A map cannot hold a man with no address, and a man with no address can be neither found nor cleared. **The single fact that defeats the Office's map also defeats his defence when somebody comes with paper.** Volume 3's whole problem. |
-| **B54** | **PERRIN SOWE.** Named on the consult line and on the respondent's form. Veil-Research, third floor, a window on the yard, nine years. **In no room.** He answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. He took the branch strip off a colleague's hand in the corridor on the fourth and said nothing. **He has never come down her corridor in three years.** | **Open. The thread, not the man.** Volume 2 may name the consult line, the memo and the answer and may not put him in a room. **Whether Lin Wei is alive is unknown to every character on the page and must stay that way until Volume 8.** |
+| **B54** | **PERRIN SOWE.** Named on the consult line and on the respondent's form. Veil-Research, third floor, a window on the yard, nine years. **In no room.** He answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. **He has never come down her corridor. On the fourth it was an unnamed filing clerk on Sun's own floor who took the branch strip off a colleague, looked at it, gave it back, and said nothing** — and none of the four other people in that corridor looked up. | **Open. The thread, not the man.** Volume 2 may name the consult line, the memo and the answer and may not put him in a room. **Whether Lin Wei is alive is unknown to every character on the page and must stay that way until Volume 8.** *A first pass of Ch 63 had Sowe take that strip himself in the corridor. `outline/volume-02.md:34` and `:36` put him off the page for the volume, the Batch 0002 review repair removed him from it, and **`state/open-threads.md` was the one file of the three that kept the deleted beat — this cell is corrected against `state/continuity.md` and `state/current.md`, which both carry the removal.** Ch 70 depends on the strip having moved through that building as unremarkable paper.* |
 | **B55** | **The woman with the notebook.** A booked seat, no badge, four turns on the Ferrier line, asking operators for their counts and whether they can feel it when it goes. She got his name off a signalman at the Yard end. **Nadia gave it to her in a lift, on purpose, having worked it out first.** | **Open, and she is faster than the Wing.** The Office does not yet know about Nadia and the woman does not know what Nadia is. **Both of those are load-bearing for Volume 3.** |
-| **B56** | **The woman in the dark coat.** Now also working Marguerite's porters. Eighteen days. The Office has begun asking the same question she is. | **Open.** Two collectors, no badge on either, and the household is being counted from outside. |
+| **B56** | **The woman in the dark coat.** Now also working Marguerite's porters. **Twenty days** — she came to the branch counter on the 20th and Ch 66 is the 10th of next month. The Office has begun asking the same question she is. | **Open.** Two collectors, no badge on either, and the household is being counted from outside. *The page said "eleven days" twice in Ch 66 and the state said "eighteen"; **twenty is what the dates in `chapter-0056.md:65` and the Ch 56/66 date spine give**, and both are changed to it.* |
 | **B57** | **Beatrix has taken him off her list** since the thirteenth and he has never asked. A passenger is somebody she could refuse, and she told him so. **The ninth of September is hers since June and is now known to three women in the household, who have made a rule about it.** | **Open.** The ungiven word is live: she has used one about four hundred times since June and never about him, because a word commits her to an answer she does not have. **September is untouched and is not this volume's.** |
 | **B58** | **Tessa is going to hand her own chart to an Office** on the twentieth, as a control: 258 cases, cause not established, and one case with a cause, her own arms. | **Open, and hers rather than his.** She is the first person in the household to put something into that office on purpose, and the reason is that a control makes two hundred and fifty-eight patients stop being a line. **Volume 10's Ch 483 is seeded here and must not be anticipated.** |
 | **B59** | **Ines's sheet is in his coat.** Four sides, going in on the seventh, with **RECIPIENT** printed over a blank twelfth line. | **Open. B31 and B44 have become one physical object and it is on a man who gets taken.** Shared custody is over and she says so without pretending it is a favour. |

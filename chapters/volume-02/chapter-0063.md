@@ -280,7 +280,7 @@ She looked up at the bare wall.
 
 "Where am I."
 
-"You are in a corridor on the fourth floor of a branch office at seven in the morning and you are in a tram and you are on a landing in Cutler's Row on an afternoon, and in nine years of mine not one of those places has ever been in the middle of anything." She held her hand up flat. "You are the only thing in this city I have ever had to look at that has no address."
+"You are in a corridor on the fourth floor of a branch office at seven in the morning and you are in a tram and you are on a landing in Cutler's Row on an afternoon, and in eleven years of mine not one of those places has ever been in the middle of anything." She held her hand up flat. "You are the only thing in this city I have ever had to look at that has no address."
 
 He sat on the bad bench and let that go all the way down.
 

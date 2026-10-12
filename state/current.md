@@ -65,9 +65,12 @@ entered; **the batch's threat is a calendar and a drawer, not a room with no win
 
 # Current State
 
-**Last written:** **Volume 2, Batch 0002 — Chapters 61–70, complete.** `outline/volume-02.md` and
-`outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; Chapters 51–60 and then
-Chapters 61–70 by the two phases after it.
+**Last written:** **Volume 2, Batch 0002 — Chapters 61–70, complete, and then repaired twice.** `outline/volume-02.md`
+and `outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; Chapters 51–60 and
+then Chapters 61–70 by the two phases after it. **The most recent pass was an external review repair — a
+reviewer who did not write the batch read all ten chapters against the page and found eight defects, four
+hard and four minor. All eight are fixed, plus three more the sweep turned up.** Full working at the head of
+`state/open-threads.md`.
 
 **Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are
 not restated here and nothing in Volume 2 Batch 0002 re-opens any of them. The last three of them —
@@ -96,8 +99,23 @@ nine days' worth of an hour and having asked a woman nothing.
 Chapters 61–70 found and fixed one arithmetic error in it** — Ch 63 read *"for six days"* where its own
 three internal anchors and this file both put the chapter on the 5th, which had made the page disagree with
 the calendar; changed to *"for a day"*, one word. **Two `state/chapter-summaries.md` entries were pointing at
-the wrong chapter and were corrected against the page.** Every mechanical gate passes and **a count is not a
-reading: no gate has a date criterion, and a date is what this batch got wrong twice.**
+the wrong chapter and were corrected against the page.**
+
+**An external review then read all ten chapters against the page and found eight defects, four of them hard,
+and every mechanical gate passed on the text the whole time.** The two that mattered most were of the same
+kind and neither was visible to a count: **Ch 69 told the reader he was the seventh of the standing at line 5
+and the third at line 167**, because the ordinal repair had fixed Drant's half and swept the runner's half;
+and **the dark-coat woman had been on the page for eleven days while three state files said eighteen** —
+**twenty is what the dates give**, and all five locations now read twenty. Also fixed: the acknowledgement
+citing a document with no referent, a state file pointing at a log that does not exist, `open-threads.md`
+preserving prose the Sowe repair had deleted, and a stranded fragment in a gate paragraph. **Four more the
+sweep turned up that no reviewer had listed:** Ch 70's *eleven years* against Sun Meiling's own *three*, Ch
+63's *nine years of mine* against her own *eleven years of sheets*, Ch 61's *eleven days* against its own
+three *twenty*, and four chapter summaries contradicting the page they summarise.
+
+**Every mechanical gate passes and a count is not a reading: no gate has a date criterion, and twelve of the
+twelve defects this batch produced were dates, or a number printed beside a date that was never measured from
+it.**
 
 **Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**,
 or **the Classification Wing classifies the account and empties him out at rank one**. Twenty chapters in
@@ -135,13 +153,16 @@ wrong on purpose, and a document with a number on it that somebody else wrote ab
 - **Perrin Sowe is on the page as a respondent's form and is in no room.** VEIL-RESEARCH, PERRIN SOWE,
   RESPONSIBLE, printed on the outgoing consult so the reply need not be looked for. **He answered Sun's memo
   three years ago; she drafted four lines and what went back was his, and she has never read them.** He has
-  not come down her corridor once in three years. **He appears nowhere else in Volume 2.** A first pass of
-  Ch 63 had him take the branch strip off a colleague's hand in the corridor; the Batch 0002 review repair
-  removed it, because `outline/volume-02.md` places him off the page for the volume. **Lin Wei's
-  whereabouts remain unknown to every character on the page.**
+  **never once** come down her corridor in the three years she has worked two floors below him. **He appears
+  nowhere else in Volume 2.** A first pass of Ch 63 had him take the branch strip off a colleague's hand in
+  the corridor; the Batch 0002 review repair removed it, because `outline/volume-02.md` places him off the
+  page for the volume, and **the external review found that `state/open-threads.md` — the one file of the
+  three that the Batch 0003 prompt sends the next writer to — still carried the deleted beat.** Corrected.
+  **Lin Wei's whereabouts remain unknown to every character on the page.**
 - **Two collectors are now loose in the city.** A woman with a notebook rides the Ferrier line and asks
   operators for their counts; a woman in a dark coat with no paper has been working his branch floor and
-  Marguerite's porters for eighteen days. **Nadia gave the notebook woman his name in a lift, on purpose.**
+  Marguerite's porters for **twenty days** — she came to the counter on the 20th and Ch 66 is the 10th of
+  next month. **Nadia gave the notebook woman his name in a lift, on purpose.**
 - **Tessa is going to send the Office her own arms** on the twentieth, as a control. **258 cases over
   ELEVEN years** — the drawer is an eleven-year drawer and the Office's form asks for eleven years — cause
   not established, and one case with a cause. **The rack ladder is 17 → 18 → 22 → 26 and lines only rise.**

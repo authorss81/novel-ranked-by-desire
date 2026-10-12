@@ -2,7 +2,7 @@
 
 The fourth of the week began with a runner at the door who took his name and wrote it down before she took him up, and the runner was not the one from the intake corridor and did not look up when she said it.
 
-"Seventh entry of the standing is being kept," she said, from the sheet. "You are the seventh this morning and the eighth is behind you on the stair and the ninth is not written yet."
+"Seventh entry of the morning," she said, from the sheet. "You are the seventh this morning and the eighth is behind you on the stair and the ninth is not written yet."
 
 "The ninth is a Field officer," Lin Hao said.
 
@@ -90,7 +90,7 @@ I was not asked to and I do not know who did, and I have been sitting on this mo
 
 "She said it would go up in her hand and it will, and I will read it when it arrives, because I am a clerk and it will be on a sheet that came to my desk." He squared the three squares.
 
-"And when that sheet arrives, this office has a map with three names on it, and it will have to do something about three names, and doing something about three names is what this office does, and so somebody upstairs found the one procedure in the building that has never been used, which is attendance for a person named on an analyst's sheet, and they have used it, and they have used it on the three of them, and they have put it in for the nineteenth."
+"And a sheet with three names on it is a map this office will have to do something about, and doing something about three names is what this office does, and so somebody upstairs found the one procedure in the building that has never been used, which is attendance for a person named on an analyst's sheet, and they have used it, and they have used it on the three of them, and they have put it in for the nineteenth."
 
 "Whose decision."
 
@@ -114,7 +114,7 @@ Lin Hao looked at the three squares for a while.
 
 Drant took a clean sheet and wrote on it, and read it back in the flat clerk's voice.
 
-"Attendee acknowledges that the three episodes recorded at the addresses attached to the analyst's sheet of the seventh were caused at his hand, and that they are his cost and are not evidence against the persons in whom they occurred."
+"Attendee acknowledges that the three episodes recorded at the addresses attached to the analyst's sheet were caused at his hand, and that they are his cost and are not evidence against the persons in whom they occurred."
 
 He put the pen down.
 

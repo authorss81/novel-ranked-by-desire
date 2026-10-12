@@ -100,9 +100,17 @@ standing rule at the foot of `state/open-threads.md`.
 
 ## The calendar, fixed by the page
 
-Dates and intervals only. **Spoken weekday: Thursday only**, nine times across the ten chapters. Zero other
-weekday names appear in Chapters 61–70.
+Dates and intervals only. **Spoken weekday: Thursday only**, eleven times across five of the ten chapters
+(Ch 61 ×1, 62 ×4, 66 ×1, 67 ×4, 70 ×1). Zero other weekday names appear in Chapters 61–70.
 
+- **THE SEASON-WEEK LADDER — now fixed by the page, and the axis Ch 66's week numbers run on.** The flat run
+  begins in the **third week of the season**. A first pass printed it as *"the third of the season"*
+  (`chapter-0060.md:73`, `chapter-0062.md:5`, `chapter-0062.md:23`), which reads as a date of the month and
+  collides with the 3rd, where Ch 62 is set. **It is a week, and the ladder now closes:**
+  **third week → Ch 60 (the 27th, "six weeks", also the figure in `chapter-0057.md`) → Ch 62 (the 3rd,
+  "the seventh week") → Ch 66 (the 10th, "the eighth week" and "the six-week one" the queue last read).**
+  Four chapters, three week-figures, one start. `chapter-0066.md:3` was **correct** and the phrases it
+  appeared to contradict were the defect.
 - **Ch 61 the 28th. Ch 62 the 3rd of next month. Ch 63 the 5th. Ch 64 the 6th. Ch 65 the 9th. Ch 66 the
   10th, a Thursday. Ch 67 the 12th. Ch 68 the 16th. Ch 69 the 17th, a Thursday. Ch 70 the 21st.**
 - **Thursdays in the batch: the 3rd, the 10th, the 17th.** **The 24th and the 31st of next month are
@@ -189,6 +197,19 @@ weekday names appear in Chapters 61–70.
   persons in which they occurred. **It is the first thing he has ever given that office that is not a
   plate, and it is the same shape as what his brother did in a public hall.** It cannot be unsaid and it
   cannot be classified, because it is not a score, a figure or a conduct finding.
+  **The wording carries NO DATE for the sheet it rests on.** A first pass read *"the addresses attached to
+  the analyst's sheet **of the seventh**"*; no such document exists in the batch and the date is struck. **The
+  referent is the sheet named twice in the same scene** — the printed heading on the buff squares
+  (*ATTENDANCE — PERSON NAMED ON AN ANALYST'S SHEET*) and the procedure Drant names. **No Volume 2 chapter may
+  re-attach a date to that acknowledgement.**
+- **THE MORNING'S ENTRIES ARE NOT HIS ATTENDANCE — new canon, Ch 69, and it is a name collision, not a
+  number one.** The runner at the door counts **the morning's entries on that floor** — *the seventh this
+  morning, the eighth behind you on the stair, the ninth not written yet* — and that count has nothing to do
+  with the weekly standing. **In this book "the standing" means the seven-day instrument and nothing else.**
+  A first pass had the runner reading *"Seventh entry of the standing"* against Drant's *"third of the
+  standing"* three paragraphs apart. **She now reads "Seventh entry of the morning."** On the 17th the
+  standing has run three times (3rd, 10th, 17th) and **the only standing count spoken aloud in the chapter is
+  Drant's, and it is the third.**
 - **THE MAP'S BOX — new canon, Ch 67.** Every analyst's sheet ends with *place of event confirmed by
   subject*. Ruta Vesely left it empty, then wrote in it, in his words, over her initials: *Place of event
   confirmed by subject. Subject confirms the room and declines to confirm any recurrence.* Her third colour
@@ -202,6 +223,16 @@ weekday names appear in Chapters 61–70.
   **A map cannot hold a man with no address, so the dot will never be him. And a man with no address can be
   neither found nor cleared**, so the same fact that defeats the Office's map defeats his defence when
   somebody comes with paper.
+- **SUN MEILING'S TWO NUMBERS — canon, and they are not the same number.** **She has worked in that building
+  for THREE years and her wall of paper is ELEVEN years old.** The wall predates her: the plaster behind it is
+  a different colour where eleven years of paper hung (`chapter-0063.md:5`, `:57`, `:169`, `:273`;
+  `chapter-0070.md:95`), and **she has been looking at pictures of his account for three years**
+  (`chapter-0063.md:15`, `:303`). **The nine-year figures in this volume belong to other things** — the
+  register (Ch 61), the Office, Sowe's tenure, and the procedure that has never been used. **No chapter may
+  give her a tenure of nine or of eleven years.** *A first pass had her say she had taken Sowe for busy "for
+  eleven years" (`chapter-0070.md:145`), which is not her tenure and is three times the three years she says
+  on the same page, and it had her say "in nine years of mine" (`chapter-0063.md:283`) against her own
+  eleven. Both corrected by the external review repair.*
 - **THE LEDGER: 103 → 109, eight turned throughout, with the panel at Ch 64 only.** Lines only ever rise.
   **No chapter in this batch turns anybody, and he spends nothing in all ten**, and the batch says out loud
   that holding the count at eight is the thing that is killing it. Cause for the rise is stated on the page:
@@ -217,9 +248,9 @@ weekday names appear in Chapters 61–70.
 | --- | --- | --- |
 | **Ruta Vesely** | Analyst, observation support. **Met in person in Ch 67 and not before.** | Reached the wall map from a plate, a band and a date and has worked out that it is a map of his route with one spend on it. Does not believe her own map, wrote that down, left the confirmation box empty, took the whole finding up herself rather than let a clerk carry its weight, and will send a third line he is not allowed to read. **Recurring.** |
 | **Alma Quayle** | Head of the Office. **Named offstage in Ch 62 and Ch 63; in no room.** | Keeps the fourth book, does not read it, wrote the sixth heading herself on the twentieth, and is the woman Sun Meiling has met twice in corridors and who asked her a question she had already written down. |
-| **Perrin Sowe** | Veil-Research, third floor. **Named on a consult line and a respondent's form in Ch 70 and in no room.** | Lin Wei's colleague. The responsible officer who answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. **He has not come down Sun's corridor once in three years, and he is not in Volume 2 anywhere else.** *`outline/volume-02.md:34` and `:36` both place him off the page this volume; a first pass of Ch 63 had him take the branch strip off a colleague's hand in the corridor on the fourth, which is a dramatised appearance and was removed by the Batch 0002 review repair. The strip is now taken by an unnamed filing clerk on Sun's own floor, which is worse and is what Ch 70 needed.*
+| **Perrin Sowe** | Veil-Research, third floor. **Named on a consult line and a respondent's form in Ch 70 and in no room.** | Lin Wei's colleague. The responsible officer who answered a departmental consult three years ago about a transfer memo with no name; Sun drafted four lines and what went back was his. **He has not come down Sun's corridor once in three years, and he is not in Volume 2 anywhere else.** *`outline/volume-02.md:34` and `:36` both place him off the page this volume; a first pass of Ch 63 had him take the branch strip off a colleague's hand in the corridor on the fourth, which is a dramatised appearance and was removed by the Batch 0002 review repair. The strip is now taken by an unnamed filing clerk on Sun's own floor, which is worse and is what Ch 70 needed.* |
 | **The woman with the notebook** | Vestry lift, Ferrier line, the Yard gate. **Not named.** | Has a booked seat and no badge, rides four turns, and asks operators for their counts and whether they can feel it when it goes. Calls it a survey and says it is not an audit. Got his name off a signalman at the Yard end in about eleven seconds. |
-| **The woman in the dark coat** | Carried forward from Ch 56. **Not named.** | Has been asking Marguerite's porters as well as his branch floor for eighteen days. The Office is now asking the same question she is. |
+| **The woman in the dark coat** | Carried forward from Ch 56. **Not named.** | Has been asking Marguerite's porters as well as his branch floor for **twenty days**. The Office is now asking the same question she is. *`chapter-0056.md:65` puts her first visit at "two days ago" from Ch 56, and `state/continuity.md` fixes Ch 56 at the **22nd**, so she came on the **20th**; Ch 66 is the **10th of next month** and the month is thirty days: 20th → 10th = **twenty days** exactly. The page read "eleven days" and the state read "eighteen"; **twenty is what the dates give** and all five locations now say twenty.* |
 
 ## New locations
 
