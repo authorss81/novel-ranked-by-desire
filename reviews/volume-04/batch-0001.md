@@ -37,7 +37,7 @@ bold / underscore markup                                       → 0. **The firs
 planning-register terms                                         → 0. **The first pass printed "The Ninth Seal" as a schedule line**
 system panels                                                  → 1, at 152
 ages                                                           → 0
-meta-language                                                  → 3, all three the physical copybook in Ch 160
+meta-language                                                  → 4, all four the physical copybook in Ch 160
 rationed constructions                                         → 1, justified in the close record
 nobody / no one                                                → **1**, after eleven in the first pass
 weekday names other than Thursday                              → 0, after **sixty-one** in the first pass

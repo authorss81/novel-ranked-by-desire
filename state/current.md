@@ -612,12 +612,16 @@ object.** Ch 50:69 reads "Nobody has thanked him", which is a different construc
 toward the total. See item 45. Word reservoir never spoken.
 
 **Numeric sweeps, verified across the whole volume at the close, not per batch.** *Nobody asked me to do
-this* — the note in Ola Bright's hand — was **spent once**, in Chapter 38. **That is not the same
-construction as the motif**, and the two must not be confused: *nobody asked him / nobody had ever asked /
-nobody's ever asked* runs **fourteen times** across Ch 11, 12, 13, 15, 16, 22, 23, 26 (twice), 27, 28, 34,
-38 and 43, and is deliberate texture, because the subject of Volume 1 is the unrecorded and the
-unasked-for. **Motif available; note spent.** ***The person nobody looked at* is retired** and does not
-appear. `there is no column for it` is spent once, Chapter 1, and not again. `the record remained` is
+this* — the note in Ola Bright's hand, which Ch 38:83 prints as "Nobody has asked me to do this" — was
+**spent once**, in Chapter 38. **That is not the same construction as the motif**, and the two must not be
+confused: *nobody asked him / nobody had ever asked / nobody's ever asked* runs **four times in Volume 1**,
+at **Ch 11, 15, 27 and 34**, and is deliberate texture, because the subject of Volume 1 is the unrecorded
+and the unasked-for. **An earlier version of this note claimed fourteen times across thirteen chapters and
+was wrong by ten; the figure above is the one a command returns.** The motif runs **nine times book-wide**
+across four volumes — Volume 1 four, Volume 2 two, Volume 3 two, Volume 4 one (Ch 160, in Ola Bright's
+mouth, carrying the batch's cost). **Motif available; note spent.** ***The person nobody looked at* is
+retired** and does not appear. `there is no column for it` is spent once, Chapter 1, and not again.
+`the record remained` is
 **spent zero times in fifty chapters** — available. `nobody` runs 140 across the volume and `no one` 7;
 **Volume 1 closed at twelve `nobody` in Ch 41–50 and three `no one`, fifteen together, against a target of
 thirty.** Per chapter the split is 41:2, 42:1, 43:4, 44:1, 45:0, 46:0, 47:0, 48:1+1, 49:0+1, 50:3+1 — **Ch 50

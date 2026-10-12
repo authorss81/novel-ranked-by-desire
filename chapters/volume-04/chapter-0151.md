@@ -74,7 +74,7 @@ Somebody in that building had known, on the twenty-ninth, that striking a line o
 
 He went down the wall and stood in the street.
 
-The thing he could not get past was not the transfer. Transfers happen. The thing he could not get past was that it had been on the wall for nine days, and that a man who has spent four years making sure that not one page in this city can say where he slept had worked that out in about eleven seconds by looking up, and that the entire skill had been transferable in the other direction and always had been.
+The thing he could not get past was not the transfer. Transfers happen. The thing he could not get past was that it had been on the wall for ten days, and that a man who has spent four years making sure that not one page in this city can say where he slept had worked that out in about eleven seconds by looking up, and that the entire skill had been transferable in the other direction and always had been.
 
 A name on a tile is not a person. It is a public statement that there is a person, and it is the only thing this city publishes that everybody reads, and once a name is on it the name does not come down because anything happened to the man. It comes down because the band changed.
 

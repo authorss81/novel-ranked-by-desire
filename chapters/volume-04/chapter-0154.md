@@ -34,9 +34,9 @@ She turned the sheet round and pushed it through the gap in the desk where the d
 
 She put both hands flat on the desk.
 
-"Hessa Lund is not a party in anything. She is a woman who has been asked a question in a corridor by a colleague who asked it in a corridor to somebody else, and she does not know that is how it reaches anybody, which is the part that should worry you more than the rest of it."
+"Hessa Lund is not a party in anything," he said. "Which means she is not the one, and it has been you since the start."
 
-"No. And that is the half of it that has been sitting in me since the fourth." She turned the sheet back. "A question asked in a corridor is only a question until somebody answers it twice. Hearing it come back is what makes it worth repeating, and the man who sent him to that corridor will know it was repeated by Thursday."
+"No. Being the end of it has been sitting in me since the twenty-sixth, and that is the half of it I cannot put down. A question asked in a corridor is only a question until somebody answers it twice. Hearing it come back is what makes it worth repeating, and the man who sent him to that corridor will know it was repeated by Thursday."
 
 "Then it has one day."
 

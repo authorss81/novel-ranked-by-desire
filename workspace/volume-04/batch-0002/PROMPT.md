@@ -88,7 +88,7 @@ names in its first pass and every one was removed. There is no gate for this any
 and it is the one that did the most work in the last batch.
 
 **No chapter may print a countdown to a date it has already passed.** The return's clock — the 6th to the
-27th, twenty-one days — is the batch's clock and it is **sixteen days out at Ch 161 and five days out at
+27th, twenty-one days — is the batch's clock and it is **sixteen days out at Ch 161 and seven days out at
 Ch 170**, and either figure may be printed with its subtraction.
 
 ## What this batch must land
