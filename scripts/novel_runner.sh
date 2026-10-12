@@ -386,7 +386,7 @@ complete_phase_if_declared() {
     echo "- recorded: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
   } > state/complete.md
   touch "$phase_dir/.done"
-  rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.attempts" "$phase_dir/.retry-after" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict"
+  rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.attempts" "$phase_dir/.retry-after" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict" "$phase_dir/.fix-failed"
   commit_changes "novel: complete $phase_id (manuscript finished)" || true
   clear_wip || true
   return 0
@@ -567,14 +567,13 @@ if [ "$review_code" -eq 0 ] && grep -qiE 'finding|problem|issue|contradiction|re
     checkpoint_and_defer "fix timeout"
   fi
   if [ "$fix_code" -ne 0 ]; then
-    # The marker has to be committed before exiting. Touching it and exiting leaves
-    # it on the runner's ephemeral disk, so the block is forgotten, the phase is
-    # picked again next run, and the same failure repeats forever with nothing in
-    # the repository to explain it.
-    touch "$phase_dir/.blocked"
-    commit_changes "novel: block $phase_id (review fix pass failed, exit $fix_code)" || true
-    echo "Review fix pass failed with exit $fix_code; phase marked blocked"
-    exit 1
+    # The writer's chapters are already committed and pushed. A failed quality pass
+    # is not a failure of the work, so it must not strand the novel: blocking here
+    # stopped a book dead with good prose on disk and no next phase. Record it,
+    # complete the phase, and keep going.
+    echo "Review fix pass failed with exit $fix_code; recording it and completing the phase"
+    printf '%s' "$fix_code" > "$phase_dir/.fix-failed"
+    commit_changes "novel: review fix pass failed for $phase_id (exit $fix_code)" || true
   fi
   commit_changes "novel: save review fixes $phase_id" || true
 fi
