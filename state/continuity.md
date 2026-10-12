@@ -67,34 +67,104 @@ condemned on the page. No new final enemy.
 
 # New canon — Batch 0002 (Chapters 11–20)
 
-Appended. Nothing above this line has been altered except the Batch 0001 block below is preserved.
-
-# New canon — Batch 0001 (Chapters 1–10)
+Appended above Batch 0001. Nothing in the Batch 0001 block below has been altered.
 
 ## Mechanics now on the page
 
-- Public attested deeds score; quiet acts score nothing. A deed is scored when a second person stands in the marked witness box and attests it. A man may attest his own hands. Rank five is 8,000 grains a week; Lin Hao entered the batch at 4,012.
-- Ch 15: one witnessed rescue at the interchange scores 400 grains in front of two hundred witnesses, moving 4,012 to 4,412. Permanent and public.
-- Ch 19: the attestation forces a re-read; his four-year office aggregate held pending a witnessed deed applies at once (+3,529) to 8,141. White tile, rank five, held accounts, private office, right to be asked before requisitioned. Rank four throughout until Ch 19.
-- Ledger: 14/2 at Ch 10 → 16/3 at Ch 13 (two new tram lines) → 16/3 at Ch 15 (three spent at once, one keeping track) → 19/3 at Ch 18–19 (mapped). System messages in Ch 13, 15, 19 only.
-- Geography: unrecorded good runs in one arc between the yards and the free clinics, four times a day. Accrual is proximity; the long ride feeds it deliberately.
-- Nine turned lines in one season is a triangulable pattern; a good analyst can find the source address. Beatrix states it on the tram roof.
+- **Public witnessed deeds score; quiet acts score nothing.** A deed is scored when a second person
+  stands in the marked witness box and attests it. The attestation is free. Any holder of a plate may
+  attest, and a man may attest his own hands. Rank five is 8,000 grains a week.
+- **The box.** A marked square on the floor of the ground-floor plate office with a rail on three sides, a
+  stamp on a post, and a printed notice screwed to the wall. The witness signs a book. Nobody may decline
+  to attest after attesting; anybody may decline before.
+- **Rank five spends.** A hearing this week instead of in March, an hour of a scarce machine, a choice of
+  district, a bed in the Vestry clinic with a name on the door. The permissions board is priced in waiting
+  time. The clerk at that counter is not unkind and has been doing it for twenty-nine years.
+- **The grain spine, reconciled and canonical. Ch 13: 4,012, so 3,988 short of the band.** Ch 15: one
+  witnessed rescue at the interchange scores 400 grains in front of two hundred witnesses, 4,012 → 4,412.
+  Ch 18: a held door at the Reading scores 200, 4,412 → 4,612 — not 400, because the Exchange prices the
+  deed rather than the man. Ch 19: 4,612 + a held four-year Branch aggregate of **3,529** = **8,141**.
+  Rank four throughout until Chapter 19.
+- **The aggregate.** Every plate in the Fourth Branch carries two figures: the man's and the floor's. The
+  floor's figure is pooled, held, and released in slices only to somebody who has done a witnessed deed.
+  Lin Hao's 3,529 — four years of doors, trays and washrooms — was held the whole time and was released
+  the moment the interchange attestation forced a re-read. Release requires no second decision; it is
+  automatic once a witnessed deed lands. **This is the first thing the Field can look at.**
+- **Rank five, held:** white tile, held accounts, a private office, the right to be asked before
+  requisitioned.
+- **Ledger:** 14/2 at Ch 10 → **16/3 at Ch 13** (two new tram lines) → **19/3 at Ch 18** (mapped) and
+  confirmed at Ch 19. Lines only ever rise. **System messages in Chapters 13 and 19 only**, one each, and
+  only where the count turns. Chapter 15 spends three feeders at once and the count does not turn; it is
+  stated in prose there, not bracketed.
+- **Geography:** unrecorded good runs in one arc between the yards and the free clinics and moves along it
+  four times a day with the shifts. Accrual is proximity and the long ride feeds it deliberately.
+- **Stopping is not available as a category.** A day spent earning nothing on the bread-stall wall still
+  moved the figure, because the machine has proximity in it and not intention. There is no life in which
+  he becomes poor and nobody else becomes cold.
+- **Nine turned lines in one season is a triangulable pattern.** A good analyst puts a dot on a wall map
+  and the dot is not a street, it is a house, and the house is everyone within four minutes' walk of the
+  man. Beatrix states this on the tram roof.
 
 ## New named people and places
 
-- Beatrix Halm, 27, signal operator Ferrier line arcade car four days a week, two rooms over the depot store on Yard Row, deaf in right ear since the Veil, four-year headache diary now Lin Hao's intelligence source. No age stated in prose.
-- Ola Bright confirmed as Nadia's sister, Vestry kitchens four afternoons plus Friday supper run, clinic rota three mornings, third-floor flat above chandler's, forty-one page book plus four predecessor sheets.
-- Runa Sato, 29, Field operative, first appears Ch 20 corridor with sealed order and file; looked at him before Rhee's door.
-- Witness box: marked square with rail and stamp at the plate office counter. Exchange permissions board: hearings, machine hours, district choice.
+- **Beatrix Halm**, 27, signal operator on the Ferrier line, arcade car four days a week, two rooms over
+  the depot store on Yard Row, deaf in the right ear since the Veil, and joking about it. Four-year book,
+  two columns: cold minutes by car and hour, and a second column she ruled herself headed **TURNED**,
+  holding a cold she felt and did not put back, with nothing written beside the name. Three ticks in four
+  years, one of them a name already on a rota in the Fourth Branch. **No age is stated in prose.**
+- **Ola Bright confirmed as Nadia's sister.** Vestry kitchens four afternoons plus the Friday supper run,
+  clinic rota three mornings, third-floor flat above a chandler's, flatmate Mord. Premises registration
+  only: she can be a witness by standing beside a box but cannot be *recorded* as one, and she says so
+  herself. Forty-one-page book left in her hands at the end of Chapter 11.
+- **Runa Sato**, 29, Field operative. Chapter 20, the stair under the lamp. Says out loud that the order
+  is not Rhee's, is not Tobias Renn's, and was written before the twentieth, and that she has read four
+  other files this month of people who fit the same shape. No age stated in prose.
+- **Vole**, the Exchange supervisor, heavy, grey-haired, reads a plate three times. Knows about the
+  pigeonhole wall and has never seen the rota that keeps the attesters from asking anybody anything.
+- **Plate-office counter clerk**, twenty-nine years at that counter, not unkind. Named nothing.
+- Locations: the witness box on the ground floor; the Exchange permissions board; the depot office at the
+  yards with a lamp out over the north gate; the board by the second-floor door at the Fourth Branch
+  carrying the ninety-one names and a tick column.
 
 ## Dates
 
-- Batch runs 18th to 27th; audit opens Monday the 19th; Board repaint Thursday. All other references by interval and date only, per calendar warning. No weekday arithmetic used.
-- Emrys Vaz rota line deleted on the 22nd, re-posted to sub-levels. Audit deferred nine days in Ch 20, buying the Branch a fortnight.
+The batch runs **the 18th to the 27th**, and the on-page calendar is dates and intervals only. Chapter 11
+the 18th, morning. **Chapter 12 the 19th, the morning the draw-down opens.** Chapter 13 the 20th. Chapter
+14 the repaint morning. Chapter 15 the 23rd at four. Chapter 16 the 23rd into the 24th. Chapter 17 the
+25th at eleven at night, end of shift. Chapter 18 the 26th. **Chapter 19 the 27th, morning. Chapter 20 the
+27th at nineteen.**
+
+- **No weekday names except Thursday** (Board repaint, readings published, weeklies land) **and Monday the
+  19th** (the draw-down opens). The review found three illegal weekday names in the first draft of this
+  batch — a Saturday in Ch 18, a Tuesday in Ch 20, an "it was not Thursday" in Ch 19 — and all three are
+  gone from the prose.
+- The deferred readings were originally given as **nine days**; Rhee granted **fourteen**. The Branch buys
+  a fortnight. Chapter 20 says so out loud.
+- The ninety-one are read five days after Chapter 18.
+- Emrys Vaz's rota line is deleted on the 22nd and he is re-posted to the sub-levels. He is on the list at
+  the bottom, under a heading for staff who do not hold a plate.
+
+## Standing obligations created
+
+- **To Beatrix, out loud, in the cab, before anything started:** *and you spend them on people, not on
+  yourself.* Her price, her wording, agreed before the scene.
+- **To Ines, imposed by her:** write and tell her exactly what he asked for and exactly what he was given.
+  In writing it is worth something. In the rain at eleven at night it is worth nothing.
+- **To Beatrix, her favour, unpaid:** three ticks stay where they are and he spends nobody new until the
+  ninety-one are read. She says the ninth one is herself, in September.
 
 ## Rationed constructions
 
-- None spent in this batch. Reservoir never spoken. No feeder thanks him; Halvard pattern holds (Ch 15: all three complain or joke, none thank).
+- **None spent in this batch. None available before Volume 7.** The first draft of this batch used *there
+  is no form* twice more, in Chapters 12 and 16, after all three escalations had been declared spent; both
+  are gone from the prose. *There is no column* is likewise untouched. *Nobody asked*, *nobody thanked
+  him* and *the record remained* are all still unspent, and Chapter 50 wants the middle one.
+- Reservoir never spoken. No feeder thanks him; the Halvard pattern holds. Chapter 15 spends three at once
+  and all three complain or joke and none of them thanks him.
+
+---
+
+# New canon — Batch 0001 (Chapters 1–10)
 
 Appended. Nothing above this line has been altered.
 

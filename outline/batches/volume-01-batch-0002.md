@@ -13,13 +13,23 @@ Ola has a notebook and no fear. Colm Deveraux is frightened and has a door locke
 the sub-level and Ditta is on the benches. Tobias Renn knows there is a supply and is waiting to be
 asked the right question. Nobody on the floor knows Lin Hao has said anything to anyone.
 
-**Calendar, fixed by Batch 0001.** The audit opened Monday the nineteenth. Batch 0002 runs
-**Monday the 18th to Sunday the 27th** — Ch 11–20, with Ch 11 on the Monday and Ch 20 on the Sunday.
-Ch 19's band change is mid-week and Ch 20 is the Sunday night the Field order lands.
+**Calendar, fixed by Batch 0001, in dates only.** The draw-down opens Monday the nineteenth. Batch 0002
+runs **the 18th to the 27th**. **11 the 18th · 12 the 19th · 13 the 20th · 14 the repaint morning ·
+15 the 23rd at four · 16 the 23rd into the 24th · 17 the 25th at eleven at night · 18 the 26th ·
+19 the 27th, morning · 20 the 27th at nineteen.**
+
+The first draft of this header put Ch 11 on a Monday and Ch 20 on a Sunday while the cards underneath
+named a Saturday, a Tuesday and two Wednesdays. **Weekday names are not canonical in this book** — see
+the calendar warning in `state/continuity.md` — so the cards below are stated as dates. Speak a weekday
+on the page only for Thursday (repaint, readings published) and Monday the 19th (the draw-down opens).
+Chapter 18 in the first draft also said *an audit in five days* inside a batch in which the audit had
+already opened; it now says **the ninety-one go down in five days**, which is the deferred reading date.
 
 **Batch midpoint (Ch 15):** the Ferrier interchange. He pulls a woman out of a tram's path in front of
-two hundred witnesses and is scored four hundred grains for it. First deliberate act of public
-visibility. Rank five. The cost is that three feeders feel it at once and one of them keeps track.
+two hundred witnesses and is scored four hundred grains for it, taking him 4,012 to 4,412 against a band
+at 8,000. First deliberate act of public visibility. **He is still rank four and stays rank four until
+Ch 19** — the "Required from this batch" section below governs and says so. The cost is that three feeders
+feel it at once and one of them keeps track.
 
 **Batch climax (Ch 17–18):** Beatrix Halm, who has been keeping the notebook properly since Chapter
 eleven, takes him into the cab at the end of her shift, and he uses a full scene budget on her.
@@ -40,7 +50,7 @@ a band costs · 17 scene · 18–19 consequence and the Field · 20 threat.
 
 ### Chapter 11 — Ola Bright
 
-**POV / location / time:** Lin Hao. The Vestry clinic corridor and the arcade, Saturday morning, then
+**POV / location / time:** Lin Hao. The Vestry clinic corridor and the arcade, the 18th, morning, then
 the Vestry kitchens.
 
 **Immediate goal:** Get Ola Bright's notebook out of circulation without frightening her, and find out
@@ -67,8 +77,8 @@ another person's life* rather than as a problem in his own. It is the most adult
 he is not sure yet that it was kind.
 
 **Power or resource change:** The pattern is located, dated and mapped: two places, one lift, one
-arcade, a fortnight of Fridays and a Tuesday rotation. He has an intelligence source that does not
-know it is one.
+arcade, a fortnight of supper runs and a rotation that follows the cars. He has an intelligence
+source that does not know it is one.
 
 [Ledger. Fourteen lines. Two turned.] — *no new message needed; this chapter may carry one only if the
 count moves, and it must not.*
@@ -83,7 +93,7 @@ adult and written as one. Nothing about the reservoir compels anybody.
 
 ### Chapter 12 — The Ferrier Line
 
-**POV / location / time:** Lin Hao. The Ferrier line, Tuesday morning and evening, running the whole
+**POV / location / time:** Lin Hao. The Ferrier line, the 19th, morning and evening, running the whole
 length from the yards to the Slough.
 
 **Immediate goal:** Find out whether the eleven locations in Ola's notebook have a shape, and whether
@@ -115,21 +125,21 @@ does not buy him anything here.
 **Ending type:** Escalation — the rule is understood well enough to exploit.
 
 **Pull:** In Ola's notebook, one of the four mis-spellings of his own name is a *date*, and the date
-is a Tuesday, and Tuesdays are the days Beatrix Halm drives the arcade car to the yards.
+is a roster day, and the roster days are the days Beatrix Halm drives the arcade car to the yards.
 
 ### Chapter 13 — Nine Hundred and Eighty
 
 **POV / location / time:** Lin Hao. The Fourth Branch ground floor, the filing room, and the public
-counter, Wednesday.
+counter, the 20th.
 
-**Immediate goal:** Find out what rank five actually buys, and whether it can be had before Monday the
-twenty-second.
+**Immediate goal:** Find out what rank five actually buys, and whether it can be had before the
+deferred readings.
 
 **Resistance:** A reading is not a sum of deeds you remember; it is a sum of deeds that get *filed*.
-Rank five is 8,000 grains a week and the last four thousand seven hundred of Lin Hao's are not in
-any ledger he can see, because the only deeds that count are the ones somebody else stands in front
-of and writes down. Tobias Renn explains the mechanism with pleasure. The Exchange counter is where
-the distance becomes real: a rank-four man cannot buy a hearing this week. A rank-five man can.
+Rank five is 8,000 grains a week. Lin Hao is at 4,012, so **3,988 of his are not in any ledger he can
+see**, because the only deeds that count are the ones somebody else stands in front of and writes down.
+Tobias Renn explains the mechanism with pleasure. The Exchange counter is where the distance becomes real:
+a rank-four man cannot buy a hearing this week. A rank-five man can.
 
 **Information revealed:** the plate office's witness box. A deed is scored when a second person
 stands in a marked place and attests it, and the attestation is free, and the only reason Lin Hao has
@@ -161,7 +171,7 @@ one of them is a woman who cannot leave a lift.
 
 ### Chapter 14 — Two Witnesses
 
-**POV / location / time:** Lin Hao. The Vestry, the tram line, and the Fourth Branch, Thursday.
+**POV / location / time:** Lin Hao. The Vestry, the tram line, and the Fourth Branch, the repaint morning.
 
 **Immediate goal:** Find a witness who will stand in a box in front of him and be written down.
 
@@ -197,10 +207,10 @@ the real figures in a book for four years and calling it a headache.
 
 ### Chapter 15 — The Interchange at Four
 
-**POV / location / time:** Lin Hao. The Ferrier interchange, Tuesday evening, four o'clock, rain.
+**POV / location / time:** Lin Hao. The Ferrier interchange, the 23rd, four o'clock, rain.
 
-**Immediate goal:** Get four hundred grains, which is four thousand eight hundred of the eight
-thousand he needs, in a place where two hundred people can see him doing it.
+**Immediate goal:** Get four hundred grains — **a tenth of the 3,988 still standing between him and the
+band** — in a place where two hundred people can see him doing it.
 
 **Resistance:** The deed does not present itself. He has to *make* it, and the specific clumsy
 intention of a man shoving a door is not available to him here, because a staged rescue in front of
@@ -216,7 +226,9 @@ credited him for something he did rather than something the branch's aggregate d
 reports it, and one of them keeps track. Beatrix Halm feels it in the cab of the nineteen at four
 o'clock with thirty people on board and has to finish her shift.
 
-[Ledger. Sixteen lines. Three turned.]
+**No System message in this chapter.** Sixteen lines, three turned — the count has not moved since Ch 13
+and the rule is that a message appears only where the count turns. State it in prose. **The only System
+messages in this batch are Ch 13 and Ch 19.**
 
 **Action or decision:** He does not go back. He stands in the interchange and watches his name go up
 on a plate that is not the Board and know exactly what he has done.
@@ -237,15 +249,19 @@ counter opens at five, and he has never in his life been in a room with a rank f
 
 ### Chapter 16 — What a Band Costs
 
-**POV / location / time:** Lin Hao. The Exchange, then the Fourth Branch, Tuesday into Wednesday.
+**POV / location / time:** Lin Hao. The Exchange, then the Fourth Branch, the 23rd into the 24th.
 
 **Immediate goal:** Find out what rank five buys with four hundred grains, and find the rest of it.
 
 **Resistance:** It buys a hearing this week instead of in March. It buys an hour of a scarce machine.
 It buys a choice of district and a bed in the Vestry clinic with a name on the door. He does the
-arithmetic and it comes out at four more identical deeds at four hundred grains, on four wet
-Tuesday evenings, in front of four sets of two hundred people, and every one of them costs three
-people a cold minute, and the ninth of those is a person who keeps track.
+arithmetic and it comes out at **3,588 still to run after the interchange, at four hundred a time,
+which is nine wet evenings, in front of nine sets of two hundred people** — and every one of them costs
+three people a cold minute, which makes nine, and the ninth of those is a person who keeps track.
+
+The day off is the other half of the card and the part the arithmetic could not hold. He spends it on the
+bread-stall wall doing nothing, and the figure goes up anyway, because the machine has proximity in it and
+not intention. **Stopping is not available as a category.**
 
 **Information revealed:** the band is not a reward, it is a queue. Rank five is the rank at which you
 stop waiting, and the price of stopping waiting is that other people wait longer, and the person
@@ -263,15 +279,16 @@ does it because the arithmetic only closes while he is standing still.
 visible ones, on purpose, in public — and he catches himself doing it and cannot stop and does not
 want to stop and that is the most frightening thing in the batch.
 
-**Power or resource change:** Rank five is 4,412 and climbing at four hundred a week on a plan that
-takes four more weeks and the plan requires four more Tuesdays.
+**Power or resource change:** Rank five is 4,412 and the plan requires nine more evenings and twenty-seven
+more cold minutes, one of which is a woman who keeps a book. He has done one. He also learns that he cannot
+stop by stopping.
 
 **Continuity to preserve:** no rank change yet. The band arrives in Chapter 19.
 
 **Ending type:** Momentum, and a cost that is somebody else's.
 
-**Pull:** Tobias Renn has worked out what Lin Hao is doing on Tuesday evenings and has worked out why
-a man with no settled account is standing at an interchange.
+**Pull:** Tobias Renn has worked out what Lin Hao is doing on wet evenings and has worked out why
+a man whose account will not settle is standing at an interchange at all.
 
 ### Chapter 17 — The Cab at the End of the Shift
 
@@ -351,26 +368,33 @@ the correct choice and it is still wrong.
 
 **Ending type:** Revelation with a geography attached.
 
-**Pull:** Two hundred grains on Tuesday's plate and four hundred is not going to be enough, and there is
-an audit in five days.
+**Pull:** Two hundred grains on the week's plate where he wanted four hundred, and the ninety-one go down
+in five days.
 
 ### Chapter 19 — Field Order
 
-**POV / location / time:** Lin Hao. The Fourth Branch, Wednesday morning.
+**POV / location / time:** Lin Hao. The Fourth Branch, the 27th, morning.
 
-**Immediate goal:** Get from 4,612 to 8,000 before Monday without another interchange, and stop Tobias
-Renn from saying the word *supply* in front of anybody with a seal.
+**Immediate goal:** Get from 4,612 to 8,000 before the deferred readings without another interchange, and
+stop Tobias Renn from saying the word *supply* in front of anybody with a seal.
 
-**Resistance:** He cannot. One interchange on a Tuesday is a Tuesday. And Tobias Renn, who is bored
-and has been counting for four years, has put the two facts together and has gone to the one person in
-the building who can act on them, and Tobias did not do it to destroy him; Tobias did it because a man
-with no settled account standing at an interchange four times a month is a *discrepancy*, and Tobias
-loves the branch and the deputy warden is the branch.
+**Resistance:** He cannot. One interchange is an occasion and a second one is a habit and a third one is
+waiting. And Tobias Renn, who is bored and has been counting for four years, has put the two facts together
+and has gone to the one person in the building who can act on them, and Tobias did not do it to destroy him;
+Tobias did it because a man whose account will not settle standing at an interchange four times a month is a
+*discrepancy*, and Tobias has never worked anywhere but here.
 
-**Information revealed:** rank five is granted at 8,000 and his figure crosses it mid-week on the
-strength of a single public deed and an aggregate the branch has carried for four years. **The band
-appears.** White tile, rank five, and it is the first time in his life a tile has moved and the first
-time in his life a number has been the answer to a question rather than a distance from one.
+**Information revealed:** rank five is granted at 8,000 and his figure crosses it on the strength of a
+single public deed and an aggregate the branch has carried for four years — **every plate in the branch
+carries two figures, the man's and the floor's, and the floor's is released in slices only to somebody who
+has done a witnessed deed.** His 3,529 was held the whole time and releases automatically the moment the
+interchange attestation forces a re-read. 4,612 + 3,529 = 8,141. He did not earn it and nobody asks him
+whether he may have it. **The band appears.** White tile, rank five, and it is the first time in his life
+a tile has moved and the first time in his life a number has been the answer to a question rather than a
+distance from one.
+
+**Note for any batch that inherits this:** the rank arrives through an act he did not perform and cannot
+repeat. It is not a plan he can extend. Batch 0003 must not let him climb again by aggregation.
 
 **Action or decision:** He takes the band and does not celebrate, because on the same plate the
 deputy warden's office has written a request for a Field observation, and Lin Hao knows what a Field
@@ -391,8 +415,7 @@ been asked to sit down in the Fourth Branch.
 
 ### Chapter 20 — A Woman With a File
 
-**POV / location / time:** Lin Hao. The deputy's office, then the corridor outside it, then the street,
-Wednesday at nineteen.
+**POV / location / time:** Lin Hao. The deputy's office, then the stair outside it, the 27th at nineteen.
 
 **Immediate goal:** Find out what the deputy warden actually wants, and get out of the building.
 
@@ -409,14 +432,17 @@ else owns. He says the arithmetic out loud and it is correct.
 
 **Action or decision:** Lin Hao does not take the job and does not refuse it outright, because a man
 who says no to the only person in the building who is offering him anything gets nothing at all. He
-asks for one thing — the audit — and Rhee grants it in about eleven seconds, and it costs him
-everything he was going to use the audit for.
+asks for one thing — the audit, nine days — and Rhee grants **fourteen** in about eleven seconds, because
+nine would have him back in the room on the ninth asking for more, and it costs him everything he was going
+to use the audit for. Rhee's terms are on the table in full as well: the plate reissued in the branch name,
+four times a week for two hours in the deputy's own room, on the record, credited to the Fourth Branch and
+not to him. He does not take it.
 
 **Emotional change:** the vertigo of being *recruited*. He has spent four years being looked through
 and the worst thing that has ever happened to him is a man in a good coat being kind to him.
 
-**Power or resource change:** rank five held. The audit is deferred by nine days, which buys the Branch
-a fortnight and buys Lin Hao nothing, because the audit is the only clock he has.
+**Power or resource change:** rank five held. The audit is deferred **fourteen days**, which buys the Branch
+a fortnight and buys Lin Hao nothing, because the audit is the only deadline the world has ever given him.
 
 **Ending type:** Threat with an offer attached, and a woman in the corridor.
 
@@ -434,10 +460,16 @@ only ever seen on one other thing in his life.
   warns him against doing it twice. A feeder who thanks him breaks the mechanic.
 - **No paragraph over roughly 120 words.** Ch 8 and Ch 10 of Batch 0001 already ran long; Batch 0002
   should not.
+- **Length.** Land every chapter in the **1,800–2,700** band unless it is a chapter whose whole work is a
+  single reversal. The first draft of this batch averaged 771 words with four chapters under 600, which no
+  gate in this prompt or in the review template had a criterion for, and it passed. Check the count before
+  you call the batch done.
 - **Ration, do not spend:** *there is no form for this* (all three escalations spent) and *there is no
   column for it* (spent, none until Volume 7).
 - One explicit scene, Chapter 17. One System message at most per chapter, and only where the ledger
-  genuinely turns. Chapters 11, 13, 15 and 19 carry one.
+  genuinely turns. **Chapters 13 and 19 carry one. Nothing else does.** A repeated panel is a failure even
+  when the count is correct: the first draft put the identical `[Ledger. Sixteen lines. Three turned.]` in
+  both 13 and 15, where the count had not moved between them.
 - No term from later volumes. No Channel, no quiet account, no Ninth Seal, no held account.
 - No filler roster. Beatrix, Ola, Nadia, Ines, Tessa, Tobias, Cassius Rhee and Runa Sato have lines.
   Marguerite Vale, Sun Meiling, Wren Kallo and the Concil do not appear.

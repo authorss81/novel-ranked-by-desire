@@ -29,10 +29,12 @@ weeks after the plate. Read Chapters 6, 8 and 10 before you start. They carry th
 ## Hard gates for this batch
 
 **Chapter 15, the Ferrier interchange.** He pulls a woman out of a tram's path in front of two
-hundred witnesses and is scored four hundred grains for it. Rank five. The score is public and
-permanent and it is the first time in the book anybody has written his name down for something he
-did on purpose. Show the arithmetic: four hundred grains is real distance, and it came out of the
-count of people who felt it at the same moment.
+hundred witnesses and is scored four hundred grains for it, taking him from 4,012 to 4,412. **Rank five
+is 8,000 and he does not have it: he is rank four at the end of this chapter and stays rank four until
+Chapter 19.** The score is public and permanent and it is the first time in the book anybody has written
+his name down for something he did on purpose. Show the arithmetic: four hundred grains is a tenth of
+the 3,988 still standing between him and the band, and it came out of the count of people who felt it at
+the same moment.
 
 **Chapter 17, the scene.** Beatrix Halm, in the cab at the end of her shift, and on the roof of a tram.
 Explicit, written as the scene, for the reader who came for it. Adults, awake, unmedicated,
@@ -47,6 +49,9 @@ seen before, and the chapter ends on the fact that somebody with a seal chose hi
 
 ## Craft for this batch
 
+- **Length: land every chapter between 1,800 and 2,700 words.** Do not pad to reach it and do not
+  split a scene to stay under it. A chapter that lands under 1,800 must be carrying one beat sequence
+  where it should be carrying several.
 - Paragraphs of two to four sentences. Break anything over roughly ninety words. Never over 120.
 - Sixty to seventy per cent plainly readable prose, twenty to thirty documentary, never three
   documentary paragraphs in a row without somebody standing in the room.
@@ -54,7 +59,9 @@ seen before, and the chapter ends on the fact that somebody with a seal chose hi
   when something is understood.
 - One System message per chapter at most, in square brackets on its own line, in the ledger
   notation. It reports in people, never in acts. It never tells him what to do. Chapters 11, 13, 15
-  and 19 carry one on the cards; the rest do not need one.
+  and 19 carry one on the cards; the rest do not need one. **Never repeat a panel.** If the count has
+  not moved since the last message, write the count in prose instead — a duplicated `[Ledger. Sixteen
+  lines. Three turned.]` in two chapters is a failure even when the figure is right.**
 - No bold, no italics, no section headings unless a chapter genuinely has two sections.
 - Titles come exactly from the title bank in `outline/volume-01.md`:
   11 Ola Bright · 12 The Ferrier Line · 13 Nine Hundred and Eighty · 14 Two Witnesses · 15 The

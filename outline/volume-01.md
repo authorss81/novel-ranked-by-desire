@@ -61,11 +61,14 @@ not back that shift.
 
 **11–20 — the first ledgers.** Tobias Renn's filing puts the branch on the draw-down list early. Lin Hao
 has to find the one thing he can do that the Bureau cannot audit, which is make somebody's week survivable
-and be seen doing it. At the Ferrier interchange on a Tuesday evening he pulls a woman out of a tram's
-path in front of two hundred people and is scored four hundred grains for it. Rank five. The cost is that
-Nadia Ferrous and two others feel the spend at once and one of them *keeps track*. Beatrix Halm, a tram
-operator who has been writing down the cold minutes she feels, takes him to the cab at the end of a shift
-and decides what to do about him. Runa Sato arrives at 19 with a Field order and a file.
+and be seen doing it. At the Ferrier interchange on the 23rd he pulls a woman out of a tram's path in
+front of two hundred people and is scored four hundred grains for it, which takes him from 4,012 to 4,412
+against a band at 8,000 — **still rank four**. The cost is that Nadia Ferrous and two others feel the spend
+at once and one of them *keeps track*. Beatrix Halm, a tram operator who has been writing down the cold
+minutes she feels, takes him to the cab at the end of a shift and decides what to do about him. **He
+discovers that stopping is not available as a category.** The band arrives at Ch 19 at **8,141**, not
+through a deed but through a four-year Branch aggregate of 3,529 that releases behind the first witnessed
+one and cannot be had twice. Runa Sato arrives at 19 with a Field order and a file.
 
 **21–30 — the staff audit.** The draw-down lands on ninety-one people who are not the problem. Lin Hao
 discovers that his supply is not only relief he can give — it can be *routed*, and that routing it into
@@ -217,8 +220,9 @@ him into the cab at the end of her shift.
 **Required character changes:** Lin Hao learns he can be seen on purpose. Beatrix goes from observer to
 ally. Ola Bright goes from a nuisance to an asset who wants to be paid in gossip.
 
-**Required power changes:** Rank four to five. Ledger at nine lines, three turned. First use of a public
-deed as a deliberate instrument.
+**Required power changes:** Rank four to five, and the band arrives at Chapter 19 through the Branch's
+held four-year aggregate, not through any deed he performs. **Ledger at nineteen lines, three turned.**
+First use of a public deed as a deliberate instrument.
 
 **Required world reveals:** Rank five permits held accounts. The Field has an order form. Turned lines can
 be triangulated and the Bureau knows the technique.
@@ -230,7 +234,7 @@ many people are turned and where?
 
 **Batch goal:** Keep ninety-one people out of classification, and pay for it.
 
-**Starting condition:** Rank five, three turned lines, draw-down list in force, branch staff frightened.
+**Starting condition:** Rank five at 8,141, **nineteen lines three turned**, draw-down list in force, branch staff frightened.
 
 **Starting relationships:** Ines cannot report him and is sleeping badly. Beatrix is supplying
 intelligence. Nadia is a public relations problem.
@@ -248,7 +252,8 @@ Thursday line he tells ninety-one colleagues that the reading is his and will be
 Nadia goes from rumour to household. Tobias is destroyed by his own filing.
 
 **Required power changes:** First *routing* of merit into another account, done badly and not yet
-understood. Ledger at seventeen lines, five turned. Permanent loss of anonymity.
+understood. **Ledger at nineteen lines, five turned** — carried forward from Batch 0002's nineteen, not
+restarted at seventeen. Lines only ever rise. Permanent loss of anonymity.
 
 **Required world reveals:** Merit that is routed moves an Exchange account. The Board can show a figure
 that is not a rank. The Classification Wing has been tracking unsettled readings since before Lin Hao

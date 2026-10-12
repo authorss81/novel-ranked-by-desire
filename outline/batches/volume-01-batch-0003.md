@@ -2,7 +2,7 @@
 
 **Batch goal:** Keep ninety-one people out of classification, and pay for it.
 
-**Starting condition:** Rank five, 8,141 grains, nineteen lines three turned all mapped to the Ferrier arc, Field order live in Runa Sato's hands, audit deferred nine days, Branch bought a fortnight.
+**Starting condition:** Rank five, 8,141 grains, nineteen lines three turned all mapped to the Ferrier arc, Field order live in Runa Sato's hands, audit deferred **fourteen days** (he asked for nine), Branch bought a fortnight, his only deadline spent.
 
 **Starting relationships:** Ines cannot attest him and is sleeping badly. Beatrix supplies intelligence and expects spending on people. Nadia is a public-relations problem on her fourth minute. Ola keeps the book. Tobias has filed honestly. Rhee's employment offer is open. Runa watches.
 
@@ -12,7 +12,7 @@
 
 **Required character changes:** He stops hoarding. Tessa goes clinician to ally. Nadia goes rumour to household. Tobias is destroyed by his own filing.
 
-**Required power changes:** First routing of merit into another account, done badly, not understood. Ledger at seventeen lines? No — carry nineteen forward; batch ends at seventeen? Per volume plan ledger at seventeen lines five turned with permanent anonymity loss. Reconcile: spends and turns two more (19→17 is wrong direction; use 19 lines five turned — flag the volume-plan 17 as superseded by Batch 0002's 19 and hold 19+2 turned). Do not contradict Ch 18–19 counts. End with a fifth figure on his tile that is not a rank (Ch 30).
+**Required power changes:** First routing of merit into another account, done badly, not understood. **Ledger at nineteen lines, five turned.** Batch 0002 closed at nineteen lines and three turned on the page, and lines only ever rise, so this batch turns two more and does not restate them. `outline/volume-01.md` said seventeen here; seventeen is superseded by the nineteen that Batch 0002 actually put on the page and both files now say nineteen. Do not contradict the Ch 18–19 counts. End with a fifth figure on his tile that is not a rank (Ch 30).
 
 **Required world reveals:** Routed merit moves an Exchange account. The Board can show a figure that is not a rank. The Classification Wing has tracked unsettled readings since before he arrived.
 
@@ -53,6 +53,7 @@ Board repaints; his tile carries a fifth figure that is not a rank. Classificati
 ## Craft
 
 - Titles exactly from the bank: 21 Ninety-One Names, 22 The Draw-down, 23 Two Kinds of Clean, 24 What the Clinic Files, 25 The Wrong Direction, 26 Cold Store, 27 The Thursday Line, 28 Public Record, 29 Between Floors, 30 A Fifth Figure.
-- Paragraphs two to four sentences, under 120 words. Ledger messages at most one per chapter, only where the count turns (expect Ch 25, 28 or 30). Never speak reservoir. No feeder thanks him. Weekday only Thursday and Monday the 19th where load-bearing; otherwise dates and intervals.
+- **Length: land every chapter between 1,800 and 2,700 words.** Batch 0002 averaged 771 and passed; do not repeat that.
+- Paragraphs two to four sentences, under 120 words. Ledger messages at most one per chapter, only where the count turns, **and never twice** (expect Ch 25, 28 or 30). Never speak reservoir. No feeder thanks him. Weekday only Thursday and Monday the 19th where load-bearing; otherwise dates and intervals.
 - Scenes Ch 26 and 29 only, each changes standing, registers apart from violence, no impaired mechanism.
 - After institutional passages, one plain sentence for one named person. Physical risk or deadline every batch — Ch 25 wrong routing and Ch 28 public stand satisfy it.

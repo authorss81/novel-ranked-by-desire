@@ -38,16 +38,56 @@
 | --- | --- | --- |
 | B11 | **Beatrix's four years.** Turned-line geography of the Ferrier arc, plus one name in the back already on a staff register. | Open — his only uninterceptionable source, bought with a promise to spend on people. |
 | B12 | **Rank five held.** 8,141 grains, white tile, private office, right to be asked. First tile move in his life. | Open — what five buys against the draw-down and the Field. |
-| B13 | **Tobias filed to Rhee.** Discrepancy reported honestly out of branch loyalty; Tobias does not know what he handed over. | Open — did the Field order predate Tobias? |
-| B14 | **Rhee's offer.** Portable merit source as stabilisation for nine thousand people 980 short per head. Audit deferred nine days. | Open — employment vs ownership; his only clock spent. |
-| B15 | **Runa Sato's sealed order and file.** Looked at him before Rhee's door. Wax seal as on his brother's card. | Open — who wrote it, how much true, who chose him. |
-| B1–B10 | Carried. Colm still locked and frightened; eleven untouchable lines now nineteen with map; Nadia louder (fourth minute, charging rent joke); Ola's book left with her plus Church notes already out; Ding alive unnamed in ledger; Bernt still down, Ditta on benches; gap unanswered; Tessa box waiting; audit deferred not lifted; Ines exposure unchanged. | Open. |
+| B13 | **Tobias filed to Rhee.** Discrepancy reported honestly out of branch loyalty; he has the other eight unsettled names on a sheet and files Fridays, and Lin Hao is number four on it, and he said *I did not put you there* and gave him **about six weeks**. | Open — did the Field order predate Tobias? The six weeks is the same six weeks the Winter Review sits in, and that is now on the page in Tobias's mouth. |
+| B14 | **Rhee's offer.** Fully specified on the page: plate reissued in the branch name, four times a week for two hours in the deputy's own room, on the record, credited to the Branch and not to him. Audit deferred **fourteen days** against the nine he asked for. | Open — employment vs ownership; his only deadline spent. Rhee said out loud that the day he wants out is the day an office asks a question. |
+| B15 | **Runa Sato's sealed order and file.** Looked at him before Rhee's door. Wax seal as on his brother's card. She says the order is neither Rhee's nor Tobias's, was written **before the twentieth**, and that she has read four other files this month of people who fit the same shape. | Open — who wrote it, how much true, and how many people fit the shape before him. |
+| B1–B10 | Carried. Colm still locked and frightened; eleven untouchable lines now nineteen with a map and a favour unpaid to Beatrix not to spend anybody new until the ninety-one are read; Nadia louder (fourth minute, charging rent joke); Ola's book left with her plus Church notes already out; Ding alive unnamed in ledger; Bernt still down, Ditta on benches; gap unanswered; Tessa box waiting; audit deferred not lifted; Ines exposure unchanged. | Open. |
 
 ## Deliberately unanswered at the end of Batch 0001
 
 Who filled the account before Wednesday. Why Nadia Ferrous had already felt a cold minute before Chapter 4.
 What it costs him to be visible. Whether Colm Deveraux will report. Whether Ines's illegality is the
 last of it. What a fourth cold minute in a Vestry lift does to a woman with an exercise book.
+
+## Deliberately unanswered at the end of Batch 0002
+
+Who wrote the Field order, and why it was written **before the twentieth** — that is, before there was
+anything on the record worth ordering. What Runa Sato's other four files this month have in common with
+his. Whether the name in the back of Beatrix's TURNED column is the person Chapter 23 destroys, and
+whether Lin Hao telling Runa about it in Chapter 21 is what puts him there. What is in Tobias Renn's
+seventy-one names that he has not looked at. Whether the held 3,529 can be held back the next time, and
+if not, whether that means the Band can be taken off a man as easily as it is put on. And what Beatrix
+means by September.
+
+**The standing answer is still no, at the top of all of them: nobody thanks him, and no chapter may
+arrange for anybody to.**
+
+## Adjudicated contradictions — closed, do not re-open
+
+Fourteen canon questions were decided before or during Batch 0001 and three more during the Batch 0002
+review repair. The full list with the reasoning is in `state/current.md` under **Adjudicated
+contradictions**. In short, so that a later phase can tell a settled question from an open one:
+
+- The brother's file opens at **Ch 372** on a rank he does not hold; rank nine at 409 buys him nothing
+  about it.
+- **Ines's Volume 1 scene is Chapter 8.** Chapter 17 is Beatrix Halm's, and this is not to be revised.
+- **Twelve partners, nine sworn in.** Four women can leave: Ines (out 246, back 271), Wren Kallo, Sun
+  Meiling, Dagmar Oyelowo. The law binds the plate and the bond, **not** shared quarters.
+- The Channel is **Volume 5**, not Volume 4.
+- The book is **ten volumes**. The "nine volumes" in `premise.md`, `ending.md` and `characters.md` mean
+  *nine before the last* and are correct.
+- **No age is stated in narration anywhere in Chapters 11–20.** Ages are canon and live in
+  `bible/characters.md`. The Batch 0002 review once certified the opposite and was wrong.
+- **All three escalations of *there is no form for this* are spent and none remain before Volume 7.**
+  Neither is *there is no column for it*.
+- **A System panel is never repeated.** It appears only where the count turns, at most one per chapter.
+  In Batch 0002: Chapters 13 and 19 only.
+- **The grain spine is 4,012 → 4,412 → 4,612 → 8,141**, and the last step is a held Branch aggregate he
+  cannot repeat. **The ledger is nineteen lines at the end of Batch 0002 and lines only ever rise**; any
+  plan to take it to seventeen is wrong.
+- **No weekday name is canonical in this book.** Count in dates and intervals. Only Thursday and Monday
+  the 19th may be spoken, and only where the world turns on them.
+- **Every chapter lands between 1,800 and 2,700 words.** A gate now exists in the prompt and the cards.
 
 ## Canon-change guard
 
