@@ -2,7 +2,7 @@
 
 On the eighteenth, Drant put a third paper on the counter face up and did not take his hand off it, and Lin Hao felt the cold in the room go out of his face entirely, because he had been told about this one the previous afternoon in a corridor by a clerk who was not permitted to read it, and had spent a night deciding what he was going to do about it.
 
-The demand was dated the seventeenth. He had been told about its existence on Thursday by a clerk who was not permitted to read it, and it had come today with a finding number in the corner, which meant it was not the paper the Wing had been carrying since the ninth. It was a new paper made out of the old one, and the new one had a number on it.
+The demand was dated the seventeenth. He had been told about its existence on the seventeenth by a clerk who was not permitted to read it, and it had come today with a finding number in the corner, which meant it was not the paper the Wing had been carrying since the ninth. It was a new paper made out of the old one, and the new one had a number on it.
 
 "Read it yourself," Drant said. "I have read it. I am not going to read it aloud this time."
 

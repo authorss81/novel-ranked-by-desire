@@ -2,7 +2,7 @@
 
 On the eleventh of the month Drant put a notice on the table face up and took his hand off it, and Lin Hao felt the cold he had felt on the thirty-first of last month when a different sheet came up three floors in the same shape.
 
-He wanted Thursday's machine to print and he wanted to be standing in his own corridor when it did. Both of those had a date on them now, and the date was three days away, and it was the last Thursday inside a window somebody else had drawn.
+He wanted Thursday's machine to print and he wanted to be standing in his own corridor when it did. Both of those had a date on them now, and the date was three days away, and it was the last Thursday before a window somebody else had drawn.
 
 "Who is it from," he said.
 
@@ -32,7 +32,9 @@ He squared the notice against the counter.
 
 "Go on."
 
-"One. The machine on the fourth floor makes a noise on a Thursday at ten and a bell at half past, and every week for a month that noise has been a figure, and a figure you could stand next to. On the seventeenth there is no noise. On the seventeenth no bell rings at half past in a corridor where ninety people walk past it, and ninety people are going to hear a machine that has rung for four years not happen."
+"One. The machine on the fourth floor makes a noise on a Thursday at ten and a bell at half past, and every week for a month that noise has been a figure, and a figure you could stand next to. There is no Thursday inside those six days. That is the part I want written down.
+
+It starts on the fifteenth and the next one is the twenty-first, so there are six days in a corridor where ninety people walk past a machine that has rung every week for four years and has nothing in it, and then it rings on the twenty-first, a week late, and everybody who has timed their week by that bell will know exactly what a week late means."
 
 "That is the whole of it," Lin Hao said. "That is what a hold is."
 
@@ -48,7 +50,7 @@ Lin Hao looked at him. "They could have put it in a drawer."
 
 "Three is not mine and it is the worst one on the paper." Drant put his finger on the bottom of the second paragraph. "No figure published, for six days. A junior clerk at the Exchange has signed a return every week for a month that is built out of your flatness, and her name on it is Ottilie Prebble and she has three years and four months at that counter.
 
-On the seventeenth she has a week and no figure in it, and the sentence that office has already written on you is that a standing which does not rise indicates an absence of input at the place of score. Absence of input is what they have just ordered. She is going to sign their own order back at them with her name at the bottom."
+On the twentieth she has a week and no figure in it, and the sentence that office has already written on you is that a standing which does not rise indicates an absence of input at the place of score. Absence of input is what they have just ordered. She is going to sign their own order back at them with her name at the bottom."
 
 Drant took his hand off the paper.
 
@@ -70,7 +72,7 @@ He put the notice into the tray on the left, which was the one tray, which was f
 
 "I would tell you that six days without a figure is not six days of nothing. Your last movement was the thirteenth of last month and the horizon was the twenty-third, and today you are nineteen days past it and by the twentieth you will be twenty-eight." Drant squared the tray against the counter. "And I would tell you the thing I have been carrying since the eighth and have not said in this building, which is that a hold does not stop the mass. It only stops the printing.
 
-Whatever is sitting on your plate has been sitting there since before the horizon and the only thing your machine has been doing is confirming it, and on the fifteenth it goes quiet, and from the fifteenth to Thursday you and I will both be guessing."
+Whatever is sitting on your plate has been sitting there since before the horizon and the only thing your machine has been doing is confirming it, and on the fifteenth it goes quiet, and from the fifteenth to the twenty-first you and I will both be guessing."
 
 That was the sentence the whole notice was built out of, and neither of them said it again.
 

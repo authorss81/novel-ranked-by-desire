@@ -1,6 +1,6 @@
 # The Empty Trolley
 
-On the seventeenth, the only Thursday inside the hold, the machine on the fourth floor did not run and the bell did not ring and the strip did not come off it, and at eleven o'clock Drant put an envelope on the tray and stood looking at it for a while.
+On the third day of the hold the machine on the fourth floor did not run and the bell did not ring and the strip did not come off it, and at eleven o'clock Drant put an envelope on the tray and stood looking at it for a while.
 
 "There is a forwarding," he said. "It goes at four whether there is a strip in it or not, because a forwarding that goes late is a forwarding that did not happen, and the book upstairs has a line for late and a line for missing and I would rather be late."
 
@@ -38,7 +38,7 @@ He squared it and read it back and signed it, and did not ask Lin Hao to sign it
 
 The trolley went down the long road at half past three.
 
-Lin Hao walked it as far as the corner, because he had walked it as far as the corner every Thursday for five weeks.
+Lin Hao walked it as far as the corner, because he had walked it as far as the corner every week for five weeks.
 
 A trolley is a low flat thing on two wheels with a rail round the edge of it. On the thirty-first of last month it had gone down that road with a strip on it and a bell had already rung.
 
@@ -76,7 +76,7 @@ Lin Hao stood very still.
 
 "You are not permitted to read it."
 
-"I am not permitted to know whether I am permitted to read it," said Tove Marlin, "which is the honest form of it, and which is why I am still standing on this corridor at half past four on a Thursday instead of sitting down."
+"I am not permitted to know whether I am permitted to read it," said Tove Marlin, "which is the honest form of it, and which is why I am still standing on this corridor at half past four on the third day of a hold instead of sitting down."
 
 A ward runner came past them with a chart under her good arm and her bad wrist tucked in, and did not slow down, and did not look at the woman with the card, and went into the office and shut the door, and the office at the end of that corridor had a desk in it and a girl in it and two days left of not carrying boards.
 
@@ -86,7 +86,7 @@ A ward runner came past them with a chart under her good arm and her bad wrist t
 
 "Four," she said, and wrote nothing, and put the form back inside her coat, and said the last of it at the door on her way out.
 
-"Thursday to Thursday. Six days is five intervals. The office counts intervals and it does not count days, and I do not know why I am telling you that and I have been told not to be helpful."
+"Thursday to Thursday. The fourteenth and the twenty-first. Everything you have lost is what stands between those two dates, and the office counts intervals and it does not count days, and I do not know why I am telling you that and I have been told not to be helpful."
 
 She went up the stairs and Lin Hao stood in a corridor with four shut doors on one side and an office at the end of it, and the grey at his temple was in its twenty-sixth day and it had come past the ridge and settled along the bone above the ear where it was going to stay for some time.
 

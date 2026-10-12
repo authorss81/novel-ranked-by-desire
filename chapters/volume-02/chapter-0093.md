@@ -26,27 +26,27 @@ She turned round on the bench and looked back up her own corridor through the op
 
 The girl looked up. Lin Hao started to say something about a name and Tessa put one finger up without looking at him, which stopped him dead.
 
-"It is the twenty-second day," she said. "Of the grey. I have been counting since the third because you would not and because a thing you are not counting is a thing that gets worse while you are looking at something else. I will put it in the day book on the twenty-ninth with the reading and you will not enjoy that."
+"It is the twenty-second day," she said. "Of the grey. I have been counting since the twenty-third of last month because you would not and because a thing you are not counting is a thing that gets worse while you are looking at something else. I will put it in the day book on the twenty-ninth with the reading and you will not enjoy that."
 
 "I would not mind."
 
 "You would mind enormously and so would I," said Tessa, "and the whole of the point of that book is that it contains my name on eleven years of lines and your name on one, and if I start writing what I can see from a corridor in it then it stops being a clinical record and becomes a woman's diary about a man, and I have enough of those."
 
-He wanted to tell her that the fourth floor of a clinic in a district of two million had been empty of arrivals for twenty-six days and that it was him, and that saying it in the open air on a stone bench was going to be the worst sentence of his month. He had said worse sentences in rooms to analysts.
+He wanted to tell her that the fourth floor of a clinic in a district of two million had been empty of arrivals for twenty-seven days and that it was him, and that saying it in the open air on a stone bench was going to be the worst sentence of his month. He had said worse sentences in rooms to analysts.
 
-"The rack is twenty-seven," Tessa said. "It has been twenty-seven since the seventeenth of last month. That is twenty-six days, and twenty-seven if you count the day it started on, and I have been putting both numbers in the ward returns for five months so that not one person in this building has to have the conversation that you are about to have."
+"The rack is twenty-seven," Tessa said. "It has been twenty-seven since the seventeenth of last month. That is twenty-seven days, and twenty-eight if you count the day it started on, and I have been putting both numbers in the ward returns for five months so that not one person in this building has to have the conversation that you are about to have."
 
 "Have it."
 
 "No. You have come down here to be kind to me about a notice and I am going to be unkind to you about a wall." She put her hand flat on the day book. "Twenty-six days of nothing arriving at a service I have kept for eleven years.
 
-Every one of those twenty-six days had somebody in it who needed a thing put down and had not one person in the building to put it down in, and about half of them went out of the ground-floor door with a worse headache than they came in with, and I know that because they come back and I see them."
+Every one of those twenty-seven days had somebody in it who needed a thing put down and had not one person in the building to put it down in, and about half of them went out of the ground-floor door with a worse headache than they came in with, and I know that because they come back and I see them."
 
 For Tessa Okonkwo, who had refused for five months to build a sentence out of four days and eleven years, the wall had stopped being a number and become the reason.
 
 "You have not spent since the thirteenth of last month," she said. "That is the whole of it.
 
-That is the answer to twenty-six days and it is the answer to a figure that does not move and to a mass that reads constant, and it is the answer to every question this office has been putting to you since the third, and I have known it since the third and I have not written it down because I am a clinician and not an auditor and I do not put things in files that I cannot support with an instrument."
+That is the answer to twenty-seven days and it is the answer to a figure that does not move and to a mass that reads constant, and it is the answer to every question this office has been putting to you since the third, and I have known it since the third and I have not written it down because I am a clinician and not an auditor and I do not put things in files that I cannot support with an instrument."
 
 "You can support it with yours."
 
@@ -84,7 +84,7 @@ Lin Hao stood up off the warm half of the bench.
 
 "It has a shape that ends in your name," Tessa said. "You are the reason that wall is where it is.
 
-You are the reason there is a corridor with nothing arriving in it for twenty-six days, and the day a man from this office puts his head round that door he is going to work backwards from an empty rack to a man who has not spent in a month, and it will take him four minutes, and I am not going to be able to stand in front of the rack and lie to him about a thing I can measure."
+You are the reason there is a corridor with nothing arriving in it for twenty-seven days, and the day a man from this office puts his head round that door he is going to work backwards from an empty rack to a man who has not spent in a month, and it will take him four minutes, and I am not going to be able to stand in front of the rack and lie to him about a thing I can measure."
 
 The arcade went grey outside the doors. Somebody at the far end was running the tap over in the trough, the long slow way it is run at the end of an afternoon, and the sound carried the length of the vault and stopped.
 
@@ -98,4 +98,4 @@ Tessa Okonkwo read his weight with two hands, twice, and wrote nothing down, whi
 
 "Read it again on the twenty-ninth," she said. "At nine. And bring your coat, because it has turned and the arcade is colder than the clinic and you sit on cold benches like a man who is waiting for something and I have watched three men do it this month."
 
-She went in with the day book under her arm and the girl at the desk did not look up, and the old man nine feet along finished what he was eating and put the bag back between his shoes and sat with his hands on his knees, waiting for a person who had not come, and there were twenty-six days on a wall in that building that had a name in them now and only one of them knew it.
+She went in with the day book under her arm and the girl at the desk did not look up, and the old man nine feet along finished what he was eating and put the bag back between his shoes and sat with his hands on his knees, waiting for a person who had not come, and there were twenty-seven days on a wall in that building that had a name in them now and only one of them knew it.

@@ -4,10 +4,10 @@
 `outline/ending.md`, `bible/power-system.md`, `bible/terminology.md`, `bible/characters.md`, and the four
 state files.
 
-**This is an audit. It wrote no chapters.** It repaired the page in **nine places across eight
-chapters**, and every one of those nine is either the named mandatory repair (D2, the month length) or the
-other named open defect (D1, the six-week count), plus one sentence that duplicated itself three lines
-after it was spoken. Everything else this audit found is **recorded and not repaired**, with the
+**This is an audit. It wrote no chapters.** It repaired the page in **fourteen lines across nine
+chapters** (52, 57, 60×4, 83, 87, 91, 93, 96×2, 100×2), and every one of those is either the named
+mandatory repair (D2, the month length) or the other named open defect (D1, the six-week count), plus one
+sentence that duplicated itself three lines after it was spoken. Everything else this audit found is **recorded and not repaired**, with the
 arithmetic shown, because an audit that repairs the whole volume is not an audit.
 
 **How claims are marked.**
@@ -94,7 +94,7 @@ dates rather than against the note.**
 ### The sweep, chapter by chapter, with the arithmetic
 
 Every figure counted from the 23rd of M forward into M+1 gains exactly one day when M is thirty-one rather
-than thirty. Eight figures in six chapters. **All eight are now on the page.**
+than thirty. **Nine figures in six chapters. All nine are now on the page.**
 
 | Chapter | Before | After | Arithmetic |
 | --- | --- | --- | --- |
@@ -655,13 +655,17 @@ Chapters 51–60 have never been reviewed by anybody. **The Review was Thursday 
 figure of roughly six weeks' error, and **no gate in this repository can see it** because a week count is
 not a date.
 
+**ADDED BY THE REPAIR PASS.** The Review being a Thursday is right and it settles Chapter 57 entirely —
+but it also means **the 23rd of M−1 is not a Thursday**, so the doorway scene in Ch 57 could not be one
+either. One line was repaired. See the repair record at the end of this file.
+
 | Chapter | Before | After | Anchor |
 | --- | --- | --- | --- |
 | `chapter-0057.md:53` | *a figure that has not gone up by one grain in **six weeks*** | **in ten days** | The plate read 8,138 from the Review day, the 13th. The 23rd is ten days later. |
 | `chapter-0060.md:59` | *every Thursday for the last **six weeks** he had walked past it* | **for the last three weeks** | Thursdays: the 13th, the 20th, the 27th. Three Thursdays. |
 | `chapter-0060.md:61` | *which was the **first time in six weeks*** | **the first time since the Review** | Same anchor. |
 | `chapter-0060.md:109` | *further than she had stood in **six weeks*** | **further than she had stood since the Review** | Same anchor. |
-| `chapter-0060.md:161` | *a woman who had been counting a mass for **six weeks** would have already been counting it for **four days*** | **a woman who had been counting a mass would have…** | The sentence contradicted itself: if she had been counting six weeks she could not have been counting four days. **The false figure is removed and the operative one is left.** |
+| `chapter-0060.md:161` | *a woman who had been counting a mass for **six weeks** would have already been counting it for **four days*** | *a woman who had been counting a mass **since the twenty-first** would have **four days of it in her hand by then*** | The sentence contradicted itself: if she had been counting six weeks she could not have been counting four days. **The repair pass replaced the deleted modifier with the interval it was standing in for** — the 21st, the fifth attendance, which is what makes four days true on the 25th. **This pass's bare deletion left a doubled future in one sentence and is superseded.** |
 
 **Five instances, two chapters, eleven words.** And the reader-facing consequence: **before this repair a
 reader who counted from the Review would have found Ch 57 and Ch 60 impossible.** After it, Ch 59's *six
@@ -849,3 +853,131 @@ invisible to all of them.
 
 **The repair pass found it by reading Chapter 79's first sentence and Chapter 81's first sentence and
 asking whether they could both be true.**
+---
+
+# Repair record — the review of this audit, applied
+
+**This section supersedes §0, §12 and the §9 weekday gate on every point it touches, and adds to §0's
+sweep table. Everything above it stands as written at the time.**
+
+The review of this audit returned five findings. All five are closed. **Twenty lines were repaired across
+eight chapters** (57, 59, 60, 91×4, 93×7, 96×4, 98, 100). **No date in Volume 2 was moved, no plot
+changed, no chapter restarted, and not one line this audit wrote was altered.** The audit's own fourteen
+repairs are untouched.
+
+## R1 — The weekday spine, decided (the review's Finding 2)
+
+**The audit's weekday gate greps for weekday *names*. It returns zero on a page where the right name is
+attached to the wrong date.** That is the defect it was built to police. Two clusters of claims existed
+and they could not both be true.
+
+**CLUSTER A WINS.** It is carried by an explicitly enumerated series and by the one chapter that states a
+weekday in its own first sentence:
+
+| Proof | Chapter | Page |
+| --- | --- | --- |
+| The strip series is **+7 throughout, 31 → 7**, which only crosses a **thirty-one-day** month | Ch 87 | `chapter-0087.md:27` |
+| *"On the fourteenth, a Thursday"* — stated, in the opening line | Ch 94 | `chapter-0094.md:3` |
+| The 24th and the **31st** as standing Thursdays | Ch 70 | `chapter-0070.md:5` |
+| The 31st is the **fifth** Thursday; the 7th the sixth; the 21st the eighth; the 28th the ninth | Ch 80, 87, 100 | `chapter-0080.md:5`, `chapter-0087.md:7`, `chapter-0100.md:7`, `:119` |
+| The 11th **plus three days** is the next strip, and the 14th is the seventh | Ch 91 | `chapter-0091.md:5`, `:79` |
+| *"nothing printed anywhere in this city **since the fourteenth**"* | Ch 96 | `chapter-0096.md:93` |
+
+**THE ONLY THURSDAYS THAT EXIST.** M−1 (30 days, the 1st a Sunday): the **6th, 13th, 20th, 27th**. M
+(31 days, the 1st a Tuesday): the **3rd, 10th, 17th, 24th, 31st**. M+1 (the 1st a Wednesday): the **7th,
+14th, 21st, 28th**. **The Review is therefore a Thursday**, which is what makes every Thursday in Ch 57
+and Ch 60 that points at the Review correct.
+
+**WHAT THIS KILLS, AND THE REPAIR.**
+
+- **Ch 96 was not a Thursday.** "the only Thursday inside the hold" was false: **the hold runs the 15th to
+  the 20th and contains no Thursday at all.** The 14th stands on one side of it and the 21st on the other.
+  Four lines repaired (`:3`, `:41`, `:79`, `:89`). **The mechanism now on the page is the one the dates
+  actually support, and it is Drant's own point made in Ch 91: the hold swallows the whole gap between two
+  Thursdays, so six days of a silent machine in a corridor of ninety people, and then the bell a week late.**
+  The hold's dates, its length, the empty forwarding and the check-in are untouched.
+- **Ch 91:5** said the 14th was *inside* the window. It is *before* it.
+- **Ch 91:35** named the 17th as the day the bell fails to ring. Rebuilt on the gap.
+- **Ch 91:51** put Ottilie Prebble's empty week on the 17th. Moved to the 20th, the last day of the hold.
+- **Ch 91:73** said *from the fifteenth to Thursday*. The twenty-first.
+- **Ch 98:5** said he had been told about the demand *on Thursday*. The 17th, which is what §3 of that
+  chapter already says in the paragraph above it.
+- **Ch 57:59** put a Thursday on the 23rd of M−1. **The 23rd is not a Thursday** and Ch 57's date is fixed
+  by Ch 58's attendance on the 24th and Ch 60's on the 27th. One line repaired. Every other Thursday in
+  that chapter is either Neve's nine-year habit or the Review, and stands.
+
+**CH 95 IS NOT A DEFECT AND WAS NOT TOUCHED.** The review listed `chapter-0095.md:93` as a Cluster B
+claim. Read it: *"Both times about a Thursday… The first time was the twelfth of last month and the second
+was the twenty-seventh."* **The twelfth and the twenty-seventh are when Sabine Rooke was asked, not
+Thursdays.** No weekday is claimed for either date and none is implied. Recorded here so the next reader
+does not re-raise it.
+
+## R2 — Ch 93's interval pair (the review's Finding 1)
+
+**The audit computed this defect and then dismissed it.** `chapter-0093.md:37` states both conventions
+because Tessa states both conventions, so the pair is reader-visible arithmetic. The rack has been flat
+since the **17th of M** and Ch 93 is the 13th of M+1: (31 − 17) + 13 = **27 elapsed, 28 inclusive**.
+The page said twenty-six and twenty-seven. **Seven lines repaired** — the pair at `:37` and the bare
+interval at `:35`, `:43`, `:49`, `:87`, `:101`.
+
+**The audit's own canon block contradicted itself**: it cited Ch 93 as a proof that **M−1** is thirty while
+measuring across **M**, and it fixed M at thirty-one two lines later. `state/continuity.md` now carries two
+proofs for M−1, not three, and names the dropped one.
+
+## R3 — The grey on the 21st (found by this pass; the review had certified it)
+
+The review verified four grey figures and passed **Ch 100's *twenty-ninth day***. It is on the **21st**,
+which the paragraph above it dates, and inclusive from the 23rd of M that day is the **thirtieth**.
+`chapter-0100.md:11` repaired. **The other three are right**: Ch 83 twelfth, Ch 93 twenty-second, Ch 96
+twenty-sixth.
+
+## R4 — The clause the D1 sweep mangled (the review's Finding 3)
+
+`chapter-0060.md:161`. Removing *for six weeks* left *would read* and *would have already been counting*
+in one sentence and orphaned the interval. Replaced with **since the twenty-first … four days of it in her
+hand by then**, which is the 21st (the fifth attendance) the four days were measured from and is what
+makes them true on the 25th.
+
+**Ch 79:11 is not a defect and was not touched.** Beatrix has driven past the stop *for six weeks*; the
+Review is the 13th of M−1 and Ch 79 is the 30th of M, which is forty-seven days — six weeks and a bit,
+said by a tram driver about her own habit, not a figure off a plate. The D1 defect was a plate reading
+being dated from the Review, and this is not that.
+
+## R5 — Ch 59's week count (incidental; found while settling the spine)
+
+`chapter-0059.md:127` said *five weeks and a bit* to the 25th of next month. **Ch 59 is the 26th of M−1**
+(fixed by Ch 58's attendance on the 24th, Ch 60's on the 27th, and its own *the afternoon before*), and
+(30 − 26) + 25 = 29 days: **four weeks and a bit**. Tessa's *six weeks* from the Review is 42 days and
+stands. The audit's D1 pass missed this one because it was looking for six weeks and not for five.
+
+## R6 — Finding 5, the seam beside a repaired figure
+
+`chapter-0093.md:29` had Tessa counting the grey *since the third*. **Chapter 83 has her giving a day-number
+on the 3rd**, which would make the 13th her eleventh and not the twenty-second. She is counting the grey
+from **the twenty-third of last month, which is the day it began**.
+
+## R7 — Finding 4, the counts
+
+`repaired nine figures in eight chapters` → **fourteen lines across nine chapters**. `Eight figures in six
+chapters` → **nine figures in six chapters**. Both in this file; the first also in `state/current.md` and
+`state/continuity.md`, which now carry the audit's figure **and this pass's**.
+
+## The gate that does not exist and should
+
+The review is right that the weekday gate is structurally blind, and right that the check should be a
+**date-to-weekday assignment**, not a name grep. It was run here as 59 assertions over the whole spine —
+elapsed intervals, inclusive grey counts, every date the page attaches a weekday to, and the Ch 87 series —
+and **all 59 pass**. Nine `date + weekday` constructions survive on the page; **all nine are correct**, and
+seven of the nine are the machine catching *the fourth floor*, *the second floor* and *the sixth Thursday*
+before a date.
+
+**It is not committed as a script.** `scripts/` belongs to the workflow. The table it would assert against
+is now the top of `state/continuity.md`, and **rule 1a there tells the next writer to subtract a date
+against that table rather than trust a gate that greps for names.**
+
+## What this pass did not do
+
+It did not re-date the hold, the demand, the discharge or the classification paper. It did not open the
+second folio or the May clipboard. It did not classify anybody. It did not touch Sun Meiling's refusal,
+Marguerite's terms, the household notebook or the sixth space. **Volume 3 opens on the same dates this
+volume closed on, and for the first time they are all the same dates.**

@@ -1,20 +1,31 @@
 # Current State
 
-**Last written:** **Volume 2 CLOSE — audited and recorded. Chapters 51–100 exist and are closed.** The close
-audit read the whole volume against `outline/volume-02.md`, answered the fourteen audit questions in
-`reviews/volume-02/volume-close.md`, **repaired nine figures on the page in eight chapters**, and wrote
-this record. **It certified nothing about the prose.**
+**Last written:** **Volume 2 CLOSE — audited, recorded, then repaired once more after the review of that
+audit. Chapters 51–100 exist and are closed.** The close audit read the whole volume against
+`outline/volume-02.md`, answered the fourteen audit questions in `reviews/volume-02/volume-close.md`,
+**repaired fourteen figures on the page in nine chapters**, and wrote this record. **It certified nothing
+about the prose.** A second pass then repaired **twenty further figures in eight chapters** — the weekday
+spine, Chapter 93's interval pair, and a clause the first pass had left ungrammatical — and touched no
+line the audit had written.
 
 **THE HEADLINE FINDING: THERE IS NO SINGLE MONTH LENGTH IN VOLUME 2, AND EVERY STATE FILE SAID THERE
 WAS.** This file previously said **the month is thirty days**, derived from Chapter 77's *"Seventeen days
 to the end of that month."* **Chapter 77 is the 28th and it is talking about the PREVIOUS month.** The
 month Ch 77 is standing in has a **thirty-first** — Chapters 70, 79, 80, 81, 83 and 87 all carry one, and
 Ch 79, Ch 80 and Ch 81 are three consecutive chapters each naming its own date in its own first
-paragraph. **The previous month is thirty days and is proved three times over by intervals that cross the
-boundary** (Ch 59's six weeks, Ch 93's twenty-six days, Ch 77's seventeen). **The Batch 0004 review had
-adopted the wrong month and changed two correct chapters to match its own inference: Ch 83's grey day
-count and Ch 87's elapsed count. Both have been restored, and eight figures across six chapters have been
-swept.**
+paragraph. **The previous month is thirty days and is proved twice over by intervals that cross the
+boundary** (Ch 59's six weeks and Ch 77's seventeen). **The Batch 0004 review had adopted the wrong month
+and changed two correct chapters to match its own inference: Ch 83's grey day count and Ch 87's elapsed
+count. Both have been restored, and eight figures across six chapters have been swept.**
+
+**THE SECOND HEADLINE, AND IT IS WORSE THAN A MONTH LENGTH: A DATE WAS CARRYING THE WRONG WEEKDAY AND NO
+GATE COULD SEE IT.** The audit ran a weekday gate that greps for weekday *names*, got a clean zero, and
+certified the rule. **That gate is structurally blind**: it cannot see a Thursday attached to a date that is
+not one, which is exactly the defect sitting in the volume. **The Thursday series was re-derived from the
+page and fixed**: Thursdays are the **6th, 13th, 20th and 27th of M−1**; the **3rd, 10th, 17th, 24th and
+31st of M**; the **7th, 14th, 21st and 28th of M+1**. Chapter 94 says *"On the fourteenth, a Thursday"* in
+its own first line. **There is no Thursday inside the plate hold**, and the 17th is not one. Five chapters
+were repaired to say so. **Verify dates against a table, never against a name.**
 
 **D1 (six weeks in Chapters 57 and 60) is also closed. Five instances, two chapters, eleven words, all
 anchored to the Review on the 13th.**
@@ -36,14 +47,18 @@ was the 23rd of last month and is thirty-six days behind them.
 
 **Date spine, fixed and monotonic:** 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th,
 21st, 22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, **31st**, 1st–10th, **11th, 12th, 13th, 14th
-(Thursday), 15th, 17th (Thursday), 18th, 19th, 20th, 21st (Thursday), 22nd, 24th, 28th (Thursday), 29th.**
-Thursdays in Batch 0005: the 14th, the 17th and the 21st.
+(Thursday), 15th, 17th, 18th, 19th, 20th, 21st (Thursday), 22nd, 24th, 28th (Thursday), 29th.**
+Thursdays in Batch 0005: the 14th and the 21st. **There is no Thursday between them and the plate hold
+runs in exactly that gap.**
 
 **THE CALENDAR, AS THE PAGE FIXED IT.** **M−1 is thirty days. M is thirty-one days. M+1 is
 undetermined** — no interval on the page crosses its end. **Do not assume uniform months.** Two counting
 conventions, still two: the **settling horizon counts elapsed** from the 23rd (the 11th is nineteen days
 past, the 20th twenty-eight, the 28th thirty-six); the **grey counts inclusively** from the 23rd (the 13th
-is the twenty-second day, the 17th the twenty-sixth, the 20th on the twentieth of M+1 the twenty-ninth).
+is the twenty-second day, the 17th the twenty-sixth, the 20th the twenty-ninth, the 21st the thirtieth).
+**A third interval was settled in the second pass:** Tessa's rack has been flat since the 17th of M, so
+**Chapter 93 carries twenty-seven elapsed days and twenty-eight inclusive**, stated as a pair because she
+states both conventions out loud.
 
 **Volume goal, and how it went.** In this volume, **Lin Hao must learn what is in him before he spends it
 on himself again**, or **the Classification Wing classifies the account and empties he out at rank one**.

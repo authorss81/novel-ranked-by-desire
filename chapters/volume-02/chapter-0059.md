@@ -124,7 +124,7 @@ Stillness was the office's ally, and it worked on the bodies of two hundred and 
 
 "Say the date."
 
-"The twenty-fifth of next month." She looked up at him. "From here that is five weeks and a bit. From the day you did it in that room it is six, and it is the second figure that matters and the first one is the one you will put on a door."
+"The twenty-fifth of next month." She looked up at him. "From here that is four weeks and a bit. From the day you did it in that room it is six, and it is the second figure that matters and the first one is the one you will put on a door."
 
 "And when I say that is the date on which it becomes readable, I am not telling you that on that day something switches. I am telling you that on that day an instrument in that office can read it, and it has been able to read it since about four days before, and six weeks is how long I would put out my hand before I would put my hand out."
 

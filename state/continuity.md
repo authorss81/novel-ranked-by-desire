@@ -3,9 +3,11 @@
 # Volume 2 closed — the record a Volume 3 writer may not contradict
 
 **Written by the Volume 2 close audit, which read Chapters 51–100 against `outline/volume-02.md` and
-repaired nine figures on the page in eight chapters. Full working, with every command and every chapter
-citation, is in `reviews/volume-02/volume-close.md`. This block supersedes every Volume 2 block below it on
-every point it touches.**
+repaired fourteen figures on the page in nine chapters, and then by one repair pass after the review of that
+audit, which added twenty further figures in eight chapters and did not touch a line the audit had written.
+Full working, with every command and every chapter citation, is in `reviews/volume-02/volume-close.md` and
+in the repair record appended to it. This block supersedes every Volume 2 block below it on every point it
+touches.**
 
 ## THE CALENDAR, as the page fixed it — and the reading that was struck
 
@@ -18,16 +20,50 @@ WRONG AND IS STRUCK FROM EVERY FILE THAT CARRIED IT.**
 - **M+1** — Chapters 81 (the 1st) to 100 (the 29th) — has **no interval on the page that crosses its end**,
   so its length is undetermined. **Do not assume it.**
 
-**Three proofs that M−1 is thirty, all of them intervals that cross the month boundary and all of them on
+**TWO PROOFS THAT M−1 IS THIRTY, both of them intervals that cross the month boundary and both of them on
 the page:** Ch 59 ("Six weeks from the day you did it in that room… The twenty-fifth of next month" = 42
-days = (30 − 13) + 25); Ch 93 ("twenty-six days" since the 17th of last month = (30 − 17) + 13); Ch 77
-("Seventeen days to the end of that month. Twenty-three more into this one. Forty.").
+days = (30 − 13) + 25); Ch 77 ("Seventeen days to the end of that month. Twenty-three more into this one.
+Forty."). **A third was cited here and was wrong: Ch 93 measured across M, not M−1, and Ch 93's interval is
+now twenty-seven elapsed days, twenty-eight inclusive. See the weekday block below.**
 
-**Five proofs that M is thirty-one:** Ch 70 (the 24th and the **31st** as standing Thursdays); Ch 79
+**FIVE PROOFS THAT M IS THIRTY-ONE:** Ch 70 (the 24th and the **31st** as standing Thursdays); Ch 79
 (opens *on the morning of the thirtieth*); Ch 80 (is the **thirty-first**, fifth strip of the standing);
 Ch 81 (opens *on the first of the month*); Ch 83 (a clerk: *the return was due on the thirty-first and
 the thirty-first is four days ago*, on the 3rd); Ch 87 (the strip series ends *the thirty-first, and the
 seventh of the new month*).
+
+## THE WEEKDAY SPINE — settled, and it is not optional
+
+**ONLY THURSDAY IS EVER NAMED IN VOLUME 2, AND THESE ARE THE ONLY DATES THAT MAY BE CALLED ONE.**
+
+| Month | Length | 1st of month falls on | **Thursdays** |
+| --- | --- | --- | --- |
+| **M−1** — Review, Ch 51–61 | **30** | a Sunday | the **6th, 13th, 20th, 27th** |
+| **M** — Ch 62–80 | **31** | a Tuesday | the **3rd, 10th, 17th, 24th, 31st** |
+| **M+1** — Ch 81–100 | undetermined | a Wednesday | the **7th, 14th, 21st, 28th** |
+
+**THE REVIEW WAS A THURSDAY.** It is the **13th of M−1**, and every "Thursday" in Ch 57 and Ch 60 that
+points at the Review — *what happened to me on Thursday*, *chest, four seconds, Thursday, in a room*, *you
+are still standing where you stood on Thursday afternoon*, *three Thursdays* — is correct because of that.
+
+**THE STANDING'S THURSDAYS ARE CH 70's AND CH 87's AND NOTHING ELSE DECIDES THEM.** Ch 70 names the 24th
+and the 31st; Ch 87 enumerates the strip series and it is **+7 throughout, 31 → 7, which only crosses a
+thirty-one-day month**; Ch 94 states in its own opening line *"On the fourteenth, a Thursday"*; Ch 100 puts
+the eighth strip on the 21st and the ninth on the 28th, both Thursdays. **Any date in this volume that is
+not in the table above is not a Thursday, and a chapter that needs a Thursday must take one of those days.**
+
+**CONSEQUENCES A VOLUME 3 WRITER MUST CARRY.**
+
+- **CH 57 IS THE 23RD OF M−1 AND IS NOT A THURSDAY** (the 20th is the nearest). The doorway scene is a
+  working day. Every Thursday in that chapter is either Neve's nine-year Thursday habit or the Review.
+- **CH 96 IS THE 17TH OF M+1 AND IS NOT A THURSDAY.** **There is no Thursday inside the plate hold.** The
+  hold runs the 15th to the 20th and the Thursdays stand on either side of it, the 14th and the 21st. **The
+  hold's cost is that it swallows the whole gap between two of them** — six days of a silent machine in a
+  corridor of ninety people, and then the bell a week late. That is the mechanism on the page now and it
+  is the one the volume's last third runs on. Do not restore a Thursday to the hold.
+- **Ch 91's "the last Thursday" is the 14th and is before the window, not inside it.**
+- **The hold is six days and is unchanged.** Nothing in this repair moves a single date in Volume 2.
+
 
 **WHAT THE AUDIT FOUND AND WHY IT MATTERS MORE THAN THE FIGURE.** The state files derived a thirty-day
 month from Ch 77 — a sentence about **M−1** — and then applied it to **M**, which has thirty-one days. The
@@ -48,18 +84,33 @@ one more than the elapsed count on the same date. Every figure derived from eith
 audit and the sweep is the table in `reviews/volume-02/volume-close.md` §0. **Both gained exactly one day
 and no figure was moved in place.**
 
+**THE FOUR GREY FIGURES, SETTLED AND NOW ON THE PAGE.** Inclusive from the 23rd of M: **Ch 83 (the 3rd of
+M+1) twelfth · Ch 93 (the 13th) twenty-second · Ch 96 (the 17th) twenty-sixth · Ch 100 (the 21st)
+thirtieth.** The fourth was *twenty-ninth* and was wrong: the repair pass that fixed the weekday spine
+caught it, and the review which certified it had checked it against a table rather than against the date.
+
+**THE TESSA INTERVAL PAIR, SETTLED (Ch 93).** The Vestry rack has held at twenty-seven since **the 17th
+of M**, and Ch 93 is the 13th of M+1. (31 − 17) + 13 = **27 elapsed days, 28 inclusive.** The page states
+both conventions out loud because Tessa states both conventions out loud, so the pair is reader-visible
+arithmetic: **"That is twenty-seven days, and twenty-eight if you count the day it started on."** Six
+instances of the bare interval in that chapter carry twenty-seven.
+
 ## Mechanics now canon — CANNOT CONTRADICT
 
 - **THE PLATE HOLD (Ch 91).** A fourth notice, dated the 9th, put face up on the 11th, holds the plate at
   the place of score **from the 15th to the 20th inclusive, six days**, with no figure published. Its
-  purpose, named by Drant: to take the reading off a floor where ninety people can check it. **The
+  purpose, named by Drant: to take the reading off a floor where ninety people can check it. **There is no
+  Thursday inside it** — the last Thursday is the 14th and the next is the 21st, and the hold swallows the
+  whole six-day gap between them, which is the cost now named on the page in both Ch 91 and Ch 96. **The
   absence-of-input rule: a check-in by an officer of the office, and the check-in is not made at the place
   of score.** Four costs were named before the decision: the bell that does not ring; Drant is the man who
   stops the machine; **Ottilie Prebble signs the absence-of-input sentence back with her name at the
   bottom**; and Faber gets a place-of-score correction and a branch-aggregate audit.
-- **THE 17TH'S STRIP DOES NOT PRINT (Ch 96).** The seventh strip prints on the 14th. On the 17th the
-  branch trolley goes down the long road with the rail empty and **the forwarding envelope goes with
-  nothing in it, on Lin Hao's instruction**: *he would rather be absent than stale.*
+- **THE 17TH'S FORWARDING GOES OUT EMPTY (Ch 96).** The seventh strip printed on the 14th, which is the last
+  figure any instrument in the city will have printed until the 21st. On the 17th, the third day of the
+  hold, the branch trolley goes down the long road with the rail empty and **the forwarding envelope goes
+  with nothing in it, on Lin Hao's instruction**: *he would rather be absent than stale.* Nothing about
+  that Thursday is left in the chapter.
 - **THE CHECK-IN (Ch 96).** **Tove Marlin**, a Wing clerk, conducts it in the Vestry corridor because the
   check-in is not at the place of score, says up front that it is not a summons, and — not permitted to —
   tells him a paper with his name on it goes to a desk on the 18th.
@@ -109,6 +160,11 @@ and no figure was moved in place.**
 1. **Do not assume uniform month lengths.** M−1 is thirty, M is thirty-one, M+1 is undetermined. **Derive
    every interval from an anchor inside the chapter that prints it, and cross a month boundary only when a
    chapter's own printed figure authorises it.**
+1a. **Do not name a weekday a date does not carry.** Only Thursday is ever named in this book, and the
+   only Thursdays that exist are the table at the top of this file. **Before a chapter states that a date is
+   a Thursday, subtract it against that table. There is no gate that will catch this for you**: a grep for
+   weekday *names* returns a clean zero on a page that has the wrong date attached to the right name, which
+   is how a Thursday got into a hold that does not contain one, and how it survived two audits.
 2. **Do not open the second folio.** File 4,112, one open, 214,000 grains in Lin Wei's hand, Held Account
    One, **no Zero**. T1 advanced one folio in Volume 1 and **did not advance in Volume 2** — verified by
    command, not asserted.
@@ -172,11 +228,11 @@ Every mechanical gate independently re-verified clean. **The irreducible arithme
 
 ## Calendar
 
-- **Ch 91 the 11th · 92 the 12th · 93 the 13th · 94 the 14th (a Thursday) · 95 the 15th · 96 the 17th (a Thursday) · 97 the 17th, evening · 98 the 18th · 99 the 19th · 100 the 20th to the 29th.**
-- **Thursdays: the 7th (Ch 87, sixth strip), the 14th (seventh strip), the 17th (held, no strip), the 21st (eighth strip), the 28th (ninth).** Derived from Ch 70's Thursday series and Ch 87's seventh-of-standing.
+- **Ch 91 the 11th · 92 the 12th · 93 the 13th · 94 the 14th (a Thursday) · 95 the 15th · 96 the 17th · 97 the 17th, evening · 98 the 18th · 99 the 19th · 100 the 20th to the 29th.**
+- **Thursdays: the 7th (Ch 87, sixth strip), the 14th (Ch 94, seventh strip), the 21st (eighth strip), the 28th (ninth). There is no Thursday between the 14th and the 21st, and the hold sits in that gap. *(This line, as the Batch 0005 batch wrote it, also gave the 17th as a Thursday. That was wrong and is struck; see the weekday spine at the top of this file.)***
 - **THE MONTH-LENGTH CONTRADICTION IS STILL OPEN AND IS NOW D2.** `state/current.md` says thirty days from Ch 77's *seventeen days to the end of that month*; Ch 70, Ch 80 and Ch 83 all carry a thirty-first. With a thirty-one-day month Ch 77 is off by one and Ch 87's repaired *fourteen days past the twenty-third* is off by one (it would be fifteen, which is the number Ch 87 carried before the Batch 0004 review corrected it). **Batch 0005 crosses no month boundary at all** and derives every interval from an anchor inside the batch or from Ch 87's own printed figure. Full working is in `state/open-threads.md` under the Batch 0005 block. **Not repaired here and not repaired by this batch: the affected chapters are reviewed and repaired, and a repair pass is a separate run.**
-- **The horizon is the 23rd of last month** (forty days from the last movement, the 13th). Elapsed from the 23rd, per Ch 87: **the 11th is eighteen days past; the 20th is twenty-seven; the 28th is thirty-five.**
-- **The grey counts inclusively from the 23rd**, per Ch 83: **the 13th is the twenty-first day; the 17th the twenty-fifth; the 20th the twenty-eighth.**
+- **The horizon is the 23rd of last month** (forty days from the last movement, the 13th). Elapsed from the 23rd, per Ch 87: **the 11th is nineteen days past; the 20th is twenty-eight; the 28th is thirty-six.**
+- **The grey counts inclusively from the 23rd**, per Ch 83: **the 13th is the twenty-second day; the 17th the twenty-sixth; the 20th the twenty-ninth; the 21st the thirtieth.**
 - No weekday name but Thursday appears anywhere in Chapters 91–100 (25 instances, gate-verified).
 
 ## Mechanics now on the page — CANNOT CONTRADICT
@@ -185,7 +241,7 @@ Every mechanical gate independently re-verified clean. **The irreducible arithme
 - **THE 17TH'S STRIP DOES NOT PRINT (Ch 96).** The seventh strip prints on the 14th. On the 17th the branch trolley goes down the long road with the rail empty and the forwarding envelope goes with **nothing in it**, on Lin Hao's instruction and his own reasoning: *he would rather be absent than stale.* Entered by Drant as *figure not produced, reason: no reading taken at the place of score, forwarding made and empty.* **A fish woman asks whether the machine has broken.**
 - **THE CHECK-IN (Ch 96).** **Tove Marlin**, a Wing clerk, conducts it in the Vestry corridor because the check-in is not at the place of score, says up front that it is not a summons, asks whether he will give an account, and — not permitted to — tells him a paper with his name on it goes to a desk **on the 18th**, drafted on the 17th.
 - **THE UNFILED LINE IS REFERENCED (Ch 92).** Colm's sitting on the 12th, eight names, seventeen weeks of arithmetic — **seventeen, not twenty-two: Colm's own four months is the canon in this batch and four months is seventeen weeks; the 12th of the month and the 12th of next month is twenty-one days** — produces a finding whose minute records that **a document exists, entered voluntarily on the seventh by an agent of the district, which is not a district record and which the office has not been permitted to read.** Nobody refused and nobody asked. **The general production of the 4th becomes, on the 13th, a production of that document**, with a finding number in the corner. **Lin Hao does not vouch for Colm**, having promised on the 5th, and pays for the promise.
-- **THE VESTRY'S OWN FIGURE HAS GONE FLAT (Ch 93).** The rack has held at twenty-seven with nothing arriving since **the 17th of last month** — **twenty-six days on the 13th, twenty-seven if the first day is counted.** The Office's instrument in this step is time and the Vestry is now as settled as he is. **The thing that has not arrived at that clinic is him**, and she refuses to put her instrument in a Wing file because the moment it is named in a sentence about him it stops being hers.
+- **THE VESTRY'S OWN FIGURE HAS GONE FLAT (Ch 93).** The rack has held at twenty-seven with nothing arriving since **the 17th of last month** — **twenty-seven days on the 13th, twenty-eight if the first day is counted.** The Office's instrument in this step is time and the Vestry is now as settled as he is. **The thing that has not arrived at that clinic is him**, and she refuses to put her instrument in a Wing file because the moment it is named in a sentence about him it stops being hers. **She is counting the grey from the 23rd of last month, which is the day it began, and not from the 3rd** — the 13th is her twenty-second day.
 - **THE HOUSEHOLD NOTEBOOK (Ch 94).** Opened on the 14th for the 15th to the 20th, at Nadia's decision, kept by the household and **refused his signature on it**. One line per woman per day from the 21st. **Sun Meiling names it as the argument she made on the 1st and this batch advances her refusal and does not close it.**
 - **THE ROOM HAS BEEN FURNISHED (Ch 95).** Eight chairs carried to the second sub-level in a goods lift on the night of the 12th — the night of the sitting. Eight against a wall in two rows of four and one square to a door four feet out. **He stands on the third step and does not go down.** The ninth chair stayed on the third floor of the Reading with **Sabine Rooke**, named for the first time, who has set that room up for eleven years and has been asked twice about a Thursday and says that three is a file.
 - **THE HIMSELF LINE, READ CORRECTLY (Ch 97).** **A ledger entry is a pair — a person relieved and a person it came from — and his line has one name on it.** The word is not *from*. It reads *to*, from a side of the entry with no name on it. **He was standing in a room on the 13th of last month holding something.** If filed, the Wing has a shape, and **the shape is one sentence: he is not a tank, he is a door.** **Ines refuses the production and refuses the second one too, decided on the 12th and delivered on the 17th**, and will stand in a review and say that being true was not the same as being owed to anybody. **The line stays unfiled and is legible to two people: Ines, and Lin Hao, who has never seen it and whom Ruta has told not to let anybody show it to him.**
@@ -198,7 +254,7 @@ Every mechanical gate independently re-verified clean. **The irreducible arithme
 - **No classification.** No rank lost and none earned. **Plate 8,138, floor 8,141, tolerance three.** **Band six still on the Review instrument and not on his plate**, seated by the requisition of the 19th of last month and a finding with an open question in it, neither touched in the second half of the month.
 - **The three Review turned stay turned.**
 - **The standing is discharged and the strip is forwarded nowhere.** The eighth strip prints on the 21st and the ninth on the 28th, both 8,138, both entered as received and neither sent anywhere.
-- **The mass has not moved across thirty-one readings** and the cause is not established and is not hers; **the horizon was the 23rd and is thirty-five days behind them**; the account is past everything the Office needed.
+- **The mass has not moved across thirty-one readings** and the cause is not established and is not hers; **the horizon was the 23rd and is thirty-six days behind them**; the account is past everything the Office needed.
 - **The himself line is unfiled and known to two auditors** — Ines Duarte, and the reader. **Saskia Verhoeven**, the Reading Office clerk who rules the district table, is named by Ruta on the 22nd and he is told not to go and find her.
 - **The inquiry is open into Volume 3**, on dates the Wing sets, and it stays open because that is correct.
 - **Tessa writes the one sentence in the day book** she was promised in June — that the mass has not moved across thirty-one readings, that the reading is hers and not the machine's, that the cause is not established and is not hers — in her own hand, on the line with his name on it.

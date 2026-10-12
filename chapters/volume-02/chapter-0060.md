@@ -158,7 +158,7 @@ He walked home by the long road at half past one with the cloth bag in his hand 
 
 In a room two floors under the Exchange, a man with a rubber stamp wrote three dates on a sheet in a column, and signed under them, and did not think about them again.
 
-On the twenty-first of next month, in this building, somebody would come and stamp a piece of paper and say his name, and on the twenty-fifth, in a district of two million people, three hundred women he had never met would walk into rooms and be better than their own charts had any right to expect, and an instrument would read a line on a map and a woman who had been counting a mass would have already been counting it for four days, quietly, on her own, without a single signature.
+On the twenty-first of next month, in this building, somebody would come and stamp a piece of paper and say his name, and on the twenty-fifth, in a district of two million people, three hundred women he had never met would walk into rooms and be better than their own charts had any right to expect, and an instrument would read a line on a map and a woman who had been counting a mass since the twenty-first would have four days of it in her hand by then, quietly, on her own, without a single signature.
 
 Four days.
 

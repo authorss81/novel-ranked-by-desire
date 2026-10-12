@@ -34,6 +34,19 @@ nothing from any of them.**
 the eight figures that crossed the boundary are repaired. Full derivation in `reviews/volume-02/volume-close.md`
 §0 and `state/continuity.md`.
 
+**D3 (the weekday spine) — closed by the repair pass that followed the review of the D2 audit, and it was
+the larger of the two.** The audit's weekday gate greps for weekday *names* and therefore returns zero on a
+page where the right name is attached to the wrong date. **Re-derived from the page and fixed.** Thursdays
+are the **6th, 13th, 20th, 27th of M−1**; the **3rd, 10th, 17th, 24th, 31st of M**; the **7th, 14th, 21st,
+28th of M+1**. **There is no Thursday inside the plate hold and Ch 96 is not one.** Ten lines repaired
+across Ch 57, 91, 96 and 98, plus Ch 100's grey count and Ch 93's interval pair, plus one incidental week
+count in Ch 59. **No date in Volume 2 moved.** Full record at the end of
+`reviews/volume-02/volume-close.md` and in the weekday table at the top of `state/continuity.md`.
+
+**THE STANDING LESSON, WHICH IS THE ONE TO CARRY: A GATE THAT CANNOT SEE THE CONSTRUCTION IT EXISTS TO
+POLICE IS WORSE THAN NO GATE, BECAUSE IT PRODUCES A FALSE ZERO.** Two of the three gates that have ever
+run clean on this volume were blind in this specific way. Count a date against a table; never count a name.
+
 ### Every thread, with its status at the close
 
 **NOTHING IS CLOSED BY A VOLUME ENDING. There are no exceptions in this table.**
@@ -239,16 +252,18 @@ reviewed and repaired chapters, and a repair pass is a separate run. **Recorded,
 either from an anchor inside the batch or from Ch 87's own printed figure. Specifically:
 
 - The **horizon is the 23rd**, printed twice on the page (Ch 77 and Ch 87) and used only as a date.
-- The **horizon counts elapsed from the 23rd**, anchored to Ch 87's *fourteen days past* on the 7th:
-  the 11th is eighteen days past, the 14th twenty-one, the 17th twenty-four, the 20th **twenty-seven,
+- The **horizon counts elapsed from the 23rd**, anchored to Ch 87's *fifteen days past* on the 7th:
+  the 11th is nineteen days past, the 14th twenty-two, the 17th twenty-five, the 20th **twenty-eight,
   and three days short of the horizon.** Derived by adding days forward from Ch 87's own number, never
   from a month length.
-- The **grey counts inclusively from the 23rd**, anchored to Ch 83's *tenth day yesterday, eleventh
-  today* on the 3rd: the 13th is the twenty-first day, the 17th the twenty-fifth, the 20th the
-  twenty-eighth.
-- **Thursday is the 7th, the 14th, the 17th, the 21st** — from Ch 70's Thursday series and Ch 87's
-  seventh-of-standing, both on the page. The next strip after Ch 87's sixth is the **seventh on the
-  14th**, and the eighth is on the 21st.
+- The **grey counts inclusively from the 23rd**, anchored to Ch 83's *eleventh day yesterday, twelfth
+  today* on the 3rd: the 13th is the twenty-second day, the 17th the twenty-sixth, the 20th the
+  twenty-ninth, the 21st the thirtieth.
+- **Thursday is the 7th, the 14th, the 21st and the 28th** — from Ch 70's Thursday series, Ch 87's
+  seventh-of-standing and Ch 94's own opening line, all three on the page. The next strip after Ch 87's
+  sixth is the **seventh on the 14th**, and the eighth is on the 21st. **There is no Thursday between the
+  14th and the 21st, and the plate hold runs inside that gap.** *(This block as Batch 0005 wrote it gave
+  the 17th as a Thursday. That was wrong. It is struck here and in `state/continuity.md`.)*
 
 No chapter in this batch states a month length, crosses a boundary, or says a day of a month that a
 different reading would move.
@@ -271,9 +286,10 @@ different reading would move.
    learning what it says. The 13th's general production becomes a specific one. **Ch 92.**
 5. **Ding D. Duarte went on the 9th. It was a chest.** Two sentences in Ch 92. **B5 is not opened.**
 6. **The Vestry's own figure has gone flat.** The wall has held at twenty-seven with nothing arriving
-   since the 17th of last month — twenty-six days elapsed on the 13th, twenty-seven if you count the
+   since the 17th of last month — twenty-seven days elapsed on the 13th, twenty-eight if you count the
    first day. The Office's instrument in this step is time, and the Vestry is now as settled as he is.
-   **The thing that has not arrived at that clinic for twenty-six days is him. Ch 93.**
+   **The thing that has not arrived at that clinic for twenty-seven days is him. Ch 93.** *(This block as
+   Batch 0005 wrote it said twenty-six. The repair pass corrected it; the arithmetic is (31 − 17) + 13.)*
 7. **The household ledger.** With six days of no published figure, Nadia starts a book in which the
    household records where he is and when, from the 15th. **Sun Meiling names this on the night of the
    14th as the thing she described on the 1st**, and does not close her refusal. **Ch 94.**

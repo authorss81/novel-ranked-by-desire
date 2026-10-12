@@ -8,7 +8,7 @@ On the twenty-first it ran at ten and rang its bell at half past and the strip s
 
 Lin Hao had wanted the machine to print again more than he had wanted anything in the six days before it. When it did, he looked at the figure for a long time. It was the same figure it had been since the third of last month.
 
-The grey at his temple was in its twenty-ninth day and had stopped being a thing that was going to come and go. It was a ridge above his ear now, and he knew from a woman at a table on Lantern Row that he had been counting it since the wrong end.
+The grey at his temple was in its thirtieth day and had stopped being a thing that was going to come and go. It was a ridge above his ear now, and he knew from a woman at a table on Lantern Row that he had been counting it since the wrong end.
 
 The paper on Anneke Roos's desk did not move that day. He went to the register at half past two and it was face up on the corner where she had left it on the nineteenth, and the five paragraphs were on it and the sixth space was ruled at the bottom of it, and the space was empty, and the line under it was the shape of the space in the fourth book.
 

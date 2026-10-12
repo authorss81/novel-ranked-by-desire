@@ -56,7 +56,7 @@ Neve did not go inside. He stood on the landing in his Exchange coat with his ba
 
 "Yes," Lin Hao said.
 
-"Yes." Neve nodded once. "Thank you. That is all I wanted and I am aware of what it costs you to say it in a doorway on a Thursday. Now. I have to decide something and I would rather decide it with you than about you. Do I write it up?"
+"Yes." Neve nodded once. "Thank you. That is all I wanted, and I am aware of what it costs you to say it in a doorway on a day that is not a Thursday. Now. I have to decide something and I would rather decide it with you than about you. Do I write it up?"
 
 "That is your file and not mine."
 
