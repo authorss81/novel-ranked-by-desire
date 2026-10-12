@@ -1,5 +1,183 @@
 # Continuity
 
+## Volume 4, Batch 0001 — CLOSED (Chapters 151–160). THE INSTRUMENT.
+
+**Ten chapters written against `outline/volume-04.md`, which this phase wrote first** — it did not
+exist when Volume 3 closed. Escalation step 1 of 5, entered at Chapter 151 and running to the
+twentieth of the fourth month, one chapter a day. Full gate output, the Gate A interval trace and the
+Gate B date subtraction are in `state/open-threads.md` in this batch's close record.
+**This block is the newest and supersedes every block below it on every point it touches.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0001 is the 1st to the 10th of M+4, one chapter a day, no shared dates and no gaps.**
+  151 the 1st · 152 the 2nd · 153 the 3rd · 154 the 4th · **155 the 5th** · 156 the 6th · **157 the 7th,
+  the scene** · 158 the 8th · 159 the 9th · 160 the 10th.
+- **THE DERIVATION, and it checks itself against canon it did not produce.** M+3's 1st is a Thursday
+  and M+3 has thirty-one days (Ch 141, 143, 144, 145, 150), therefore M+3's 31st is a **Saturday** and
+  **M+4's 1st is a Sunday.** **M+4's Thursdays are the 5th, 12th, 19th and 26th** — and Runa Sato's
+  hearing is dated in three separate files as the twelfth of the fourth month, a Thursday because the
+  reading is. **The twelfth of this derivation is a Thursday.** M+5's 1st is a **Tuesday** and its
+  Thursdays are the 3rd, 10th, 17th and 24th.
+- **M+4 IS THIRTY DAYS, AND CH 151 PRINTS THE ANCHOR.** A branch office keeps the month's Board
+  repaint days on a card by the time clock. **The card reads: APRIL. FIFTH. TWELFTH. NINETEENTH.
+  TWENTY-SIXTH. AND THE THIRD OF NEXT MONTH** — twenty-sixth plus seven is the thirty-third, which can
+  only be the third of May, which can only be true of a thirty-day April. **A date in this volume is a
+  Thursday because an instrument acts on it.** Ch 155 is the 5th and carries the repaint.
+- **M+5's length is NOT fixed and Batch 0004 must fix it with the same kind of printed anchor before it
+  uses any interval crossing 30 April.**
+- **REGISTERED, NOT SMOOTHED: Ines Duarte's review, dated the morning of the 22nd of M+4, falls on a
+  Sunday.** No chapter in this batch dates the 22nd or names its weekday. **Volume 5 owns that decision.**
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE ADDRESS TRAYS (152).** On the second floor of the Fourth Branch, eleven drawers, alphabetical
+  by street, brass pulls, **two of which stick.** A stranger's name to a written address took **eight
+  minutes and about forty seconds** and nobody in the transaction did anything clever. **A tray holds
+  plates, not men: a man leaves a tray by a card coming out of it, and the card goes into the returns
+  bundle with the period returns.** He signs a request for a card on the second and it comes back at ten
+  past four saying the drawer was emptied at the end of the week.
+- **HE COULD HAVE ERASED A MAN AND DID NOT (152), and he is careful to be honest about why.** He wanted
+  to know how the machine works, and not because he wanted to do anything decent, and the chapter says
+  so in his own reasoning.
+- **IVO SARN IS GONE (151).** Off the certification bench by the first of April. His nameplate is out
+  of the rack of eight on the fourth-floor landing and his instrument is under a grey bench cloth.
+  **His tile went up in the Reading Square on the twenty-second of March, seven days before Anneke Roos
+  struck his paragraph out at a quarter past five on the twenty-ninth.** **Seven days, then three more;
+  ten days from the tile to the cloth.** **THE COST OF ANNEKE ROOS'S SIGNATURE, PAID ON THE PAGE, AND
+  NOBODY PUBLISHED ANY OF IT.** Sarn is band seven and is off the page from 151.
+- **A NAME ON A TILE IS NOT A PERSON (151).** It is a public statement that there is a person, and it
+  comes down because the band changed and not because anything happened to the man.
+- **THE PERMISSION CIRCULAR (155), and it is the volume's mid-batch turn.** Posted by the rail under the
+  repaint sheet, once a month, because the Exchange has no other way of reaching a person not already
+  at a counter. **Every band one to nine against what it buys, with a ruled margin headed ACCOUNT —
+  CLASSIFICATION ENTERED, carrying the standard line NO ENTITLEMENT ESTABLISHED against any account
+  that does not carry one.** The Exchange cannot sell a permission to a man whose account has no
+  classification, because selling one requires writing down what he may do, and a counter may not print
+  a blank in a schedule.
+- **BEING ASKED FIRST IS A PERMISSION (153, 155).** Band five buys *to be asked before requisitioned*,
+  and it is the only line on the schedule that has ever mattered to him, and he cannot buy it. **He is
+  band five on a plate and his entitlement is blank, and a band is public and an entitlement is not, and
+  only one of the two is ever printed on a wall.**
+- **A REQUISITION OF PROPERTY DOES NOT NEED A PERSON, IT NEEDS A PLACE (153).** Rank six may requisition
+  property and property in this city is anything a person is using. **The Office writes *the household of
+  the member described in the finding of the twenty-ninth* and it is delivered, because the woman who
+  comes down to the step is the woman the description is about.** And the protection is not rank: it is
+  being in a file, a service, or a roll, **and a household of six women who have declined to be written
+  down is the only structure in the city a paper cannot get into.**
+- **THE COMPOSITION RETURN GOES OUT ON THE SIXTH (156) and arrives on the seventh.** Not served — posted
+  and returned. Four questions: how many persons of reading age keep an address at the premises, what is
+  each band's, under whose standing the premises are held, are the premises held under a plate. **A box
+  at the foot, four inches wide, headed PREMISES HELD UNDER THE STANDING OF, for one name, and all four
+  answers stop about an inch above it (159).** **Twenty-one days from posting, due the twenty-seventh,
+  printed with its subtraction: 6 + 21 = 27.** **It cannot be completed at a counter and cannot be
+  completed in advance, and a second form carries a shorter clock than the first.**
+- **IF IT IS NOT ANSWERED THE EXCHANGE COMPLETES IT FROM WHAT IT HOLDS (156), and what it holds is the
+  exhibit roll of the twenty-ninth, and item four on that roll is six lines a day in six hands since the
+  twenty-first of March with no signature on any of them.**
+- **THE SCENE AT 157 IS TESSA'S AND IT IS HER SECOND, and it is staged in a place no scene in this book
+  uses.** The sixth-floor washroom at the Fourth Branch at about eleven at night, one bulb over the sinks,
+  water off on three floors, the caretaker at midnight. **Four conditions stated in plain words before
+  anything starts: nothing spent by either of them; the ribs are not touched; he asks her out loud every
+  time; and not one person is told.** A balance she carried up the back stairs herself and put on the
+  window-cleaning shelf. **She does not touch the fourth rib and gives the reason: the ribs are the only
+  part of it on his body, and a clinician who has put her hand on it can never again write a chart on him
+  with her own hand out of it, and she says out loud that this is the same refusal he made in a hall.**
+  **He does not use her name until the last line of the chart, because a chart does not take a name until
+  the end.** Her last act is to read him her own figure and write down that she does not know.
+- **THE CHART (157).** Weighed: **seven stone and two pounds over**, nothing in it that a clinician would
+  call fluid, swelling or tumour, and two ribs recorded and nothing else. It goes in the dispensary day
+  book at the Vestry, **and the first true document about him in four years is now a chart in an unfunded
+  clinic that has never been entered in anybody's file, and a chart is a file.** She said no on the
+  third, a form arrived on the sixth, and **the form is what changed her mind and not him.**
+- **A MEMBER WITH A DISCIPLINARY PROCESS ATTACHED TO AN ADDRESS (158), stated by Ines Duarte off the
+  schedule, and correct.** A member of this household with a process open is entered on a return with the
+  process attached, and Runa Sato says so first, and says she will be the reason anyway.
+- **THE HOUSEHOLD ANSWERS THE FORM WITHOUT HIM (158–159).** Four women, four answers, over a weekend,
+  in four hands, unprompted, and **all four leave the box empty.** Ines wrote the most and left it; Runa
+  wrote a Field address; Beatrix wrote NOT MINE; Marguerite wrote a price. **He is not a party to his own
+  household's answer**, and Beatrix says the true thing about it: they did it because they could not stand
+  in the room and be asked, and a table with him at it is a table where they agree with him.
+- **THE STANDING INSTRUCTION (160), and the irreversible decision.** **He asks Ola Bright to copy one
+  sentence six times in six hands and hand him the page.** It is: if a paper comes for this house,
+  answer it in writing in your own hand and do not consult each other; and if any one of them cannot
+  answer a question on it, write the word no and her name and post that as well. **It removes him from
+  the chain of command of the only structure he has ever wanted to be inside of, and it cannot be
+  withdrawn.** Five copies are delivered in the room; **the sixth is Ines Duarte's and she refuses it**,
+  and she refuses it because a woman who files nothing is a woman who cannot be got at, and she writes
+  four lines on the back of it that are not for him and are not for the file and she does not say what
+  is in them. **He writes the sentence in pencil on the wall of the landing, undated, with no name near
+  it, at Sun Meiling's instruction, and he does not give her a copy.**
+- **THE COST, SAID OUT LOUD BEFORE IT IS PAID (160).** Ola Bright's: the copybook has been the only
+  thing in Ostara nobody asked for since the sixteenth of March, and **from tonight nothing written in it
+  is unasked**, which is the last thing in the city that was hers and that she did not have to explain.
+
+## Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six, unchanged.** The plate has not
+  moved a grain in sixty chapters. **Band five on the plate; band six on a piece of paper.** Only
+  **11,862** is printed, once, at 155, where it does work.
+- **Ledger 115 at the close of Volume 3 · 116 at Ch 152** (Piet Ossick, a coal-wharf gear-runner of
+  band three, sitting on the second step of the stair for forty minutes on the second and saying the
+  steps were colder than the yard had any right to be) **· 117 at Ch 160** (a man on the second floor
+  with a daughter off school since the sixth with a hand that would not close). **Every rise is named
+  with its cause on the page where it happens.**
+- **Turned lines: nine, unchanged, and the ninth is still himself. The volume spends nothing at all in
+  Chapters 151 to 160 — no draw on a stranger, none on himself, none on anybody.**
+- **One system panel in ten chapters, at 152**, reporting the rise from 115 to 116 and the count of
+  nine, and nothing else.
+- **The leak: four deep and three told at the open; five deep and four told from Ch 154.** Wren Kallo's
+  fourth name is **Hessa Lund**, a dispensary clerk at the Vestry who does the clinic's requisitions,
+  and the question she was asked in a corridor on the twenty-ninth of March was not whether a clinic
+  could be entered in a member's file but **whether it could be entered in one later.** He refuses to
+  put her at the head of the chain and tells her the actual reason, which is not a better reason than
+  hers: if she is at the end, the chain starts in her room, and the only door between the thing and the
+  corridor becomes a woman who cannot keep a secret.
+- **Visitors' book: a hundred and eleven at Ch 152 — a hundred and nine at Ch 150 plus two. Forty-one
+  asking about a person (thirty-eight at Ch 132 plus two at Ch 150 plus one) and seventeen asking about
+  the household (sixteen at Ch 132 plus one).** The Office's exhibit sheet still says eighty-nine /
+  twenty-nine / thirteen and **the two sets are never merged.**
+- **A member who has an account with no classification cannot buy a permission at any counter in Ostara,
+  and this is a printed rule and not a judgement about his conduct.**
+- **No grain scored, no rank earned, no rank lost, nothing classified, no folio opened, no second folio,
+  no age stated, no Channel, no routing, no rota word, no May clipboard, no second signature refused
+  and no third signature asked for.**
+- **The classification paper dated the nineteenth went up three floors at four o'clock on the fifth and
+  came back down unsigned.** It is not signed anywhere in this batch.
+
+## What this batch did NOT open
+
+Second folio · Ines's review, resolved · B103 in any form · the instrument's live-column rule, which is
+SPENT · Ding's chest · May clipboard · rota word · September's outcome · Marguerite's terms · Bernt ·
+the Church of the Quiet Number, its members, its chaplain and any allusion to it · Rhee · Saskia Verhoeven
+as a character · Alma Quayle as an opponent · Anouk Ferreira · the Concil of the Nine by name · Isolde
+Marchetti · Petra Ilyin · Dagmar Oyelowo · anything after Volume 8 · **the composition return that
+already exists** · **any reversal of any kind, which Volume 4 spends on 174 and nowhere earlier.**
+
+## What this batch did NOT close
+
+Runa Sato's hearing · Ines Duarte's review · the two ninth chairs · the corridor's ninety rubbed-out
+sentences · Marta Vey's name in the record · the desk's four-line note · the classification paper dated
+the nineteenth · the ninth of September · the broken price · Sun Meiling's February · the leak, which is
+advanced and not explained to anybody · Sun Meiling's place on any roll · the seventh blank space in the
+household.
+
+## Endings and temperature
+
+151 a man's name on a wall and a man gone from a building, and the arithmetic of seven days and three · 152 a clerk
+at a counter refusing him in ninety seconds, and a man deciding not to take a card out of a drawer and
+being honest about why · 153 dread, professional cold, and a doctor refusing him and then giving him the
+thing he actually needed · 154 a woman asking to be put at the end of a chain and a man refusing her for
+the real reason · 155 the turn, a blank space in a margin and four years of a moral question
+re-described as a clerical one · 156 terror and then a bench in the rain with a woman who has done the
+arithmetic · 157 heat, unhurried, and a bill read out before it is paid · 158 six people, one argument,
+and a decision taken without him · 159 four answers he did not ask for, and the first blank a clerk can
+point at · 160 something close to joy in six hands, a sentence on a wall in pencil, and a refusal in a
+doorway. Temperature runs dread, cold, dread, flat institutional, terror, heat, heat, cold, and then a
+loss dressed as a gift.
+
+---
+
 ## Volume 3, Batch 0005 — REPAIR PASS (external review findings applied, Chapters 141–150)
 
 **`logs/batch-0005.review.log` read and applied. Six findings. Two high. No plot, date, figure, thread,

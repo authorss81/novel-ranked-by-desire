@@ -6,10 +6,116 @@
 `state/archive/current-v1-v2.md` on the Batch 0005 review repair, and nothing was deleted. If you need a
 Volume 1 or Volume 2 fact, the archive is one read away; you do not pay for it on every prompt.
 
-1. **The head block, Volume 3 Batch 0005, including the repair pass beneath it** — where the book is.
-2. **Adjudicated contradictions, condensed index** — sixty settled questions, one line each. Do not
+1. **The head block, Volume 4 Batch 0001** — where the book is.
+2. **Adjudicated contradictions, condensed index** — sixty-one settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
-3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 157.
+3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 197.
+
+**Last written:** **Volume 4, Batch 0001 — Chapters 151–160 (The Instrument), written and closed.
+Volume 4 is open and `outline/volume-04.md` now exists.**
+
+**`outline/volume-04.md` was written by this phase before a word of Chapter 151 was drafted**, from
+`outline/series.md`, `outline/ending.md`, the Volume 3 close block in `state/continuity.md` and the
+Batch 0005 close record. It carries the volume's spine, five escalation steps, a midpoint reversal at
+174 with a written rule for what it may not be restated as, a climax and resolution with the costs
+itemised, a fifty-title bank of **names** rather than scene summaries, a day map with the calendar
+**derived**, and a MAY OPEN / MUST NOT OPEN list. **Everything in it is a plan until a chapter puts it
+on the page, and its proposed-canon block is registered in `state/open-threads.md` immediately beneath
+this batch's close record.**
+
+**Ten chapters: a certification officer's name on a ceramic tile nine days before a clerk struck his
+paragraph out; the second-floor address trays and the eight minutes and forty seconds it takes to find
+anybody in a building a man cleans; a doctor who says no and then says the thing that turns four
+months of dread into a blank space in the margin of a printed schedule; the Exchange's monthly
+permission circular with NO ENTITLEMENT ESTABLISHED printed against him; a composition return posted on
+the sixth with twenty-one days on it and a box at the foot for one name; a night in a washroom on the
+sixth floor with a balance she carried up the back stairs herself; six women, one argument and a
+decision taken without him; four answers to a form that he was not asked for and did not see; and six
+carbon copies of one sentence, one refusal in a doorway, and a pencil line on the wall of a landing
+that cannot be dated and cannot be taken back.**
+
+**THE IRREVERSIBLE DECISION OF THIS BATCH IS CH 160.** He asks Ola Bright to copy one sentence six
+times in six hands and to hand him the page. It is a standing instruction: **if a paper comes for this
+house, answer it in writing, in your own hand, and do not consult each other** — and if any one of
+them cannot answer a question on it, write the word no and her name and post that as well. **Five
+copies are delivered in the room in front of him. The sixth is Ines Duarte's and she refuses it**, and
+refuses it for the best reason anybody has given in this book for anything: a woman who files nothing is
+a woman who cannot be got at. **He writes the sentence in pencil on the wall of the landing, undated,
+with no name near it, because Sun Meiling told him to and because a person standing on a stair needs to
+be able to read what she said while it is still true. He does not give her a copy.**
+
+**PERMANENT COSTS, NONE OF THEM REFUNDED:**
+- **The one unasked record in Ostara has stopped being unasked.** Ola Bright's copybook has been the
+  only thing nobody asked for since the sixteenth of March, and from the tenth of April everything in
+  it is a page she wrote because a man in that house asked her to. **She said so before she copied it.**
+- **He has given away the only authority he ever had inside that house.** The instruction answers to six
+  women and not to him, and he cannot change his mind about any of it again, ever.
+- **The Vestry clinic is now in his file.** Tessa Okonkwo signed a chart on the seventh with his name on
+  it and hers under it, and a chart is a file, and the clinic has been tolerated by the Classification
+  Wing for nine years on the single ground that it is unfunded and has never been entered anywhere.
+- **A man's name was on a ceramic tile in the Reading Square for seven days and nobody printed anything
+  when it came down.** That is what Anneke Roos's signature cost, and she is the one who has to sit with
+  it.
+- **The leak is five people deep and four have been told**, and the fourth is inside a dispensary.
+
+**THE BATCH'S TURN IS CH 155 and it is the volume's whole shape.** A member may be entitled to be asked
+before anything is taken off him, and that is band five, and it is a **permission**, and permissions are
+bought at a counter with merit, and a counter cannot sell one to an account with no classification
+entered against it because selling one requires writing down what he may do and a counter may not print
+a blank in a schedule. **Four months of believing his difficulty was a moral question, and it is a
+blank space in the margin of a printed sheet that has been returning the same line since December.**
+The only door out of it is the classification, which is a held account and a room with no window, and
+the second door is a household with a plate, which is what this volume is about.
+
+**Position at the close of Batch 0001:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band
+six.** The plate has not moved a grain in sixty chapters. **Band five on the plate, band six on a piece
+of paper.** **Ledger 117 lines, nine turned, the ninth still himself.** **No draw spent on anybody at
+all in ten chapters.** File 4,112, one folio open, no second. No classification, no rank earned, no
+rank lost, no grain scored. **One system panel in ten chapters, at 152.** Household seven women, six
+keeping the notebook, his signature refused three times and not asked for a fourth; **one refusal of a
+standing instruction**; **one sentence in pencil on the wall of the landing.** Wren Kallo unsworn and
+not one of the seven. Sun Meiling off every roll permanently and not asked.
+
+**Scenes: 106, 118, 129, 141, 149 in Volume 3, and 157 in Volume 4 — and the next scene is Chapter
+169, which is Agnete Lindqvist's first and is immovable.** The gap 149 → 157 is **eight**, the floor,
+and it did not slip. Ch 157 is staged in the sixth-floor washroom with a balance, a clinician reading
+a man as a patient, and a chart that does not take a name until the last line — **a ground, a hand, a
+name-exchange and an aftermath that appear nowhere in the ten scenes of the staging grid**, and the
+rib is not touched.
+
+**THE CALENDAR, DERIVED AND PRINTED.** M+3's 1st is a Thursday and M+3 has thirty-one days, so M+3's
+31st is a Saturday and **M+4's 1st is a Sunday.** **M+4's Thursdays are the 5th, 12th, 19th and 26th**
+— and the derivation checks itself against a canon fact it did not produce, because Runa Sato's hearing
+is dated the twelfth of the fourth month, a Thursday. **M+4 is thirty days and Chapter 151 prints the
+anchor**: the card by the time clock reads APRIL. FIFTH. TWELFTH. NINETEENTH. TWENTY-SIXTH. AND THE
+THIRD OF NEXT MONTH. **M+5's 1st is a Tuesday and its Thursdays are the 3rd, 10th, 17th and 24th; M+5's
+length is not fixed and Batch 0004 must fix it with a printed anchor before it crosses 30 April.**
+
+**Registered and not smoothed: Ines Duarte's review, dated the morning of the 22nd of M+4, falls on a
+Sunday.** Nothing explains it, no chapter in this batch dates the 22nd or names its weekday, and
+**Volume 5 owns that decision.**
+
+**What is open and what Batch 0002 opens with:** Runa Sato's hearing on **the twelfth**, which does not
+resolve and is not this volume's; the **fifteenth**, the date from which any office can come through the
+door of Ferrier Street about her; Ines's review on **the twenty-second**, not resolved and the hinge of
+Volume 5; the return's deadline on **the twenty-seventh**; Beatrix Halm's broken price and the ninth
+of September; Sun Meiling's shape that says February; the desk's four-line note; the classification
+paper; the two ninth chairs; the ninety rubbed-out sentences; Marta Vey's name in the record; and the
+four ribs on his left, which have now been refused by two women and read by a third on a chart.
+
+**In one sentence, which is the sentence the volume is about:** he has found out that the only thing
+between six women and a paper is a name at the top of a roll, and the name at the top of the roll is
+going to have to be his.
+
+**Next phase to run:** **Volume 4, Batch 0002 — Chapters 161–170 (the eleventh to the twentieth of
+April).** Prompt at `workspace/volume-04/batch-0002/PROMPT.md`. **Runa's hearing on the twelfth is a
+Thursday and it happens and it does not resolve. Ch 169 is Agnete Lindqvist's first scene and it is
+immovable, and no chapter before it may name the Church of the Quiet Number, show a member of it, or
+allude to it, and no chapter may use the word *chaplain*, *congregation*, *null room* or *quiet number*
+about anything at all.** The Church's eleven thousand and the Bureau's change of mind are already canon
+in `bible/world.md` and must arrive at him as a number in a return.
+
+---
 
 ## Volume 3, Batch 0005 — REPAIR PASS (external review findings applied, Chapters 141–150)
 
@@ -417,11 +523,11 @@ unchanged, so the phase about to run is unaffected. Full record at the head of `
 
 ## Adjudicated contradictions — CONDENSED INDEX, do not re-open
 
-**Sixty questions this repository has already answered, one line each. This is the whole guard**
-**and it is what a writer reads; the full reasoning behind all sixty is in**
+**Sixty-one questions this repository has already answered, one line each. This is the whole guard**
+**and it is what a writer reads; the full reasoning behind them is in**
 `state/archive/current-v1-v2.md`, under *Adjudicated contradictions*, and in the batch records in
-`state/archive/open-threads-v1-v2.md`. **None of these sixty may be re-opened as a new finding.**
-Most are Volume 1 and Volume 2 process history; items 1–17 and 52–60 carry live canon.
+`state/archive/open-threads-v1-v2.md`. **None of these may be re-opened as a new finding.**
+Most are Volume 1 and Volume 2 process history; items 1–17 and 52–61 carry live canon.
 
 1. `outline/ending.md` opened by saying he reaches rank nine at 409 and *therefore* opens the file at 372.
 2. `bible/characters.md` gave Ines a second scene at "Chapter 8, then 17." Chapter 17 is Beatrix Halm's.
@@ -482,7 +588,8 @@ Most are Volume 1 and Volume 2 process history; items 1–17 and 52–60 carry l
 57. D3 — NINE INTERVALS THAT DO NOT TRACE, FOUND AND DELIBERATELY NOT REPAIRED. Ch 59:127, Ch 71:21, Ch 73:17, Ch 73:27, Ch 73:49, Ch 74:143, Ch 76 ×6, Ch….
 58. THE TWO CONSTRUCTIONS VOLUME 1 SPENT WERE NOT REPEATED, AND THIS IS THE FIRST TIME IN THIS REPOSITORY THAT A BATCH PASSED THAT GATE BY CONSTRUCTION.….
 59. T1 DID NOT ADVANCE IN VOLUME 2, AND THIS IS NOW VERIFIED BY COMMAND. `grep -n "Lin Wei\|second folio\|4,112\|Held Account\|two hundred and….
-60. THE WEEKNDAY AND AGE CENSUSES CAME BACK CLEAN FOR THE FIRST TIME. Zero illegal weekday names across all fifty chapters, against Volume 1's 58 behind….
+60. THE WEEKDAY AND AGE CENSUSES CAME BACK CLEAN FOR THE FIRST TIME. Zero illegal weekday names across all fifty chapters, against Volume 1's 58 behind….
+61. THE BATCH 0005 CLOSE RECORD CLAIMED ZERO PARAGRAPHS OVER NINETY WORDS AND CH 150 CARRIED ONE AT 102. `AGENTS.md` bars the horizontal rule, a misplaced quotation mark broke a speech in two, and the paragraph was cut to eighty-nine. **A gate that has never been wrong is not evidence, and this is the seventh time this repository has written one down without re-deriving it.**
 
 **The standing lesson behind items 22, 29, 30, 35, 44, 46 and 47:** a gate that has never been
 wrong is not evidence. Every one of those seven is a claim in this repository's own records that
@@ -581,10 +688,29 @@ a decision against her own interest, a purchase, an alliance designed before the
 want, a felony committed for him, and appetite named honestly and refused anyway. **Volume 2's five must
 not repeat a shape Volume 1 spent.**
 
-**Next scene in the book: Chapter 63, Sun Meiling's second, and it is immovable.** Volume 2 carries five
-(55, 63, 74, 86, 97) and **Ch 63 is the sentence that unlocks Volume 8.** **Ch 55 is written** — the
-batch's midpoint turn, 5,065 words, over the guide on purpose and on the precedent of Volume 1's Ch 8 at
-4,761. **The gap from 55 to 63 is eight, which is the floor of the book and not a comfortable margin.**
-**Sun Meiling is planted and started.** She waited three years for the right question, she was not named
-in a single chapter of Volume 1, and in Ch 55 she gave her three terms out loud — not sworn, not housed,
-not filed — and kept one sentence back on condition rather than on a date.
+**Volume 3 closed with five scenes: 106 (Marguerite), 118 (Wren), 129 (Tessa), 141 (Ines), 149 (Sun).
+Gaps 9, 12, 11, 12, 8. Volume 4 opened with its first at 157, and the 149 → 157 gap is eight — the floor,
+exactly, and it did not slip.**
+
+**THE STAGING GRID IS NOW CANON FOR EVERY SCENE FROM 157 ONWARD, and a new scene may not reuse a
+ground, a hand, a name-exchange or an aftermath from any of the six already used.** 106 a cold room, a
+table and a lamp, his hands behind his head, a thumb on his lip · 118 a cot on a bench floor, his name
+three times · 129 a couch and four shut doors, *Not yet*, a hand flat on his chest · 141 the floor
+against a low cabinet with the lamp moved to light the files and nothing else, he names the rib out
+loud and she refuses to look, his name once with the rank on it, and her hands in her own lap for two
+minutes touching nothing · 149 a landing against a stair rail, the rib untouched, the name three times ·
+**157 a sixth-floor washroom at eleven at night with a balance she carried up the stairs, a clinician
+reading a man as a patient, his name not used until the last line of a chart, and the rib not touched
+because a clinician who has put her hand on it can never again write a chart on him.**
+
+**ALSO FIXED BY THE VOLUME 3 REVIEW AND STILL BINDING: a scene is written in the woman's own
+professional discipline, not in the book's.** Ines reads, Sun counts, Tessa reads bodies, Marguerite
+prices. **If a scene could be moved from one woman to another without changing a word, it is not written
+yet.**
+
+**Next scene in the book: Chapter 169, Agnete Lindqvist's first, and it is immovable.** Volume 4 carries
+five (157, 169, 179, 189, 197) and **Ch 169 is the day Agnete walks out of a room she has not been
+outside in eleven years.** **Ch 157 is written at 2,876 words, inside the 2,600–3,900 scene band, and it
+is the only chapter in Batch 0001 outside 1,800–2,700.** The gap from 157 to 169 is twelve, inside the
+band. **No chapter before 169 may name the Church of the Quiet Number, show a member of it, allude to
+it, or use the word *chaplain*, *congregation*, *null room* or *quiet number* about anything.**
