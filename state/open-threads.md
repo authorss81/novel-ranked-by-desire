@@ -1,5 +1,187 @@
 # Open Threads
 
+## Volume 2 Batch 0005 — WRITTEN. Chapters 91–100. Volume 2 closed in prose.
+
+**This batch did not write `reviews/volume-02/batch-0005.md` and does not certify itself.** Nine batches in this repository have certified their own prose and every one of those certifications was wrong about the page it described; item 29 in `state/current.md` records that the fix is a separate run and not a prose discipline. **A count is not a reading.** The numbers below were produced by the commands shown and mean nothing about whether the ten chapters are good, and the judgement on Ch 97's scene, on the Ch 98 refusal, on whether the ten endings are earned and on the month-length contradiction belongs to a phase that did not write them.
+
+**The canon-change guard was obeyed this time.** The proposed canon for this batch is the block immediately below this one and it was written **before Chapter 91 was drafted**. Everything proposed went in, with these three changes: the first draft of Ch 100 put the plate at 8,306 and then cut that, because the outline's resolution is *no rank lost or earned* and a settled figure that jumps is not a settled figure; **Saskia Verhoeven and Tove Marlin were both proposed and both are on the page**; and the batch **dropped its own earlier proposal of a chair-count discrepancy in the ninth chair** in favour of the simpler and better one that the ninth chair is the one nobody came back for.
+
+### What the batch wrote
+
+Chapters 91–100, the last batch of the volume, closing it. **Escalation step 4 (The Holding) closes at 91–96, step 5 (The Keeping) is 97–100, the climax is 97–99 and the resolution is 100.** The seven-day-to-one-day spine: a plate hold (91), a sitting that references the unfiled line (92), the Vestry's own figure going flat (93), the household notebook and Sun's second statement of her refusal (94), eight chairs carried up in a goods lift (95), an empty forwarding envelope (96), Ines's second scene and the reading of the himself line (97), the refusal (98), three costs and the classification paper (99), and the resolution (100).
+
+### The irreversible decision
+
+**Ch 98 — he refuses the controlled spend, in person, in words, on the record, and asks for it to be entered as a refusal.** He does not refuse as a silence and he does not refuse as an objection. He dictates four refusals, names the fourth as a refusal by name, and says *there is no episode, there was a room with nine chairs in it and sixty people and a man at the front who was the mouth of a thing being given away*. **The cost, on the page, in Drant's mouth:** the five-date branch standing and the fourth floor are **discharged at ten past eleven on the eighteenth**, which ends every Thursday he has ever had; an inquiry without a standing is an inquiry on **dates somebody else sets**, not Thursdays and not this building; the band is not lost but is **suspended pending description**, which is a different and worse shape; and **the ruled sixth space in Anneke Roos's fourth book is going to get a line in it**, so the account acquires a description in four books for the first time in three years.
+
+**It is also what makes the classification impossible, and that is not a win.** The Office's instrument in this step is time, and a refusal is an answer, and an answer is a fact about a member, so a man who refuses to be described stays on the schedule of the people who want to describe him, indefinitely. **He kept the account by giving up every calendar he had.**
+
+### The gates, on the finished text, from `chapters/volume-02/`
+
+```
+for n in 91 92 93 94 95 96 97 98 99 100; do wc -w < chapter-00$n.md; done
+# 91 1741 · 92 2308 · 93 1944 · 94 2292 · 95 2030 · 96 1743 · 97 4609 · 98 2849 · 99 3174 · 100 3922
+grep -cE '^\s*(---|\*\*\*|___|—)\s*$'        # 0 in all ten
+grep -oE '[\*_]'                                  # 0
+grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b'   # 0
+grep -inE '\b(monday|tuesday|wednesday|friday|saturday|sunday)\b'                    # 0   (Thursday 25)
+grep -inE 'there is no form|there is no column|there was no form|there is no place for|there was no place for|no form that|no column for|record remained|nobody thanked|He wanted, concretely'   # 0
+grep -n '^\s*\[.+\]\s*$'                        # 0
+grep -oiE '\bnobody\b|\bno one\b' | wc -l       # 28   (max 5, in 98 and 100)
+grep -inE 'years old|\baged [0-9]|about (twenty|thirty|forty|fifty|sixty)|in his (twenties|thirties|forties|fifties|sixties)|years of my life'   # 1, and it is *forty seconds*
+```
+
+**700 paragraphs, maximum 90 words, mean 38.0.** The batch's first drafts carried **127 paragraphs over ninety words and 27 over the 120 ceiling, the worst at 153**; every one was split at a sentence or a beat and the split was checked by reading the chapter afterwards, not by trusting the script. **Zero system panels: no count turns anywhere in this batch**, the ledger stands at 112 lines and eight turned and the plate at 8,138 from the first chapter to the last.
+
+### What those gates did not see, and what they could not see
+
+The gates are blind to three things and every one of them bit this batch during composition, which is now the fifth consecutive Volume 2 batch to find the same thing:
+
+1. **Dates.** The batch's own first pass had Ch 100 opening on a Thursday the 20th that is not a Thursday, and put the horizon *three days short* on the 20th when it is **twenty-seven days past**, and had Ch 91 say *eighteen days past* on the 11th while Ch 100 said *five days past* on the 28th. All corrected. **Every interval in Chapters 91–100 is now derived from an anchor inside the batch or from Ch 87's own printed figure, and this batch crosses no month boundary at all**, which is how it wrote around D2 rather than through it.
+2. **The resolution.** A draft of Ch 100 moved the plate to 8,306 and had the account earn the lead a rank by standing still. That is a class violation, not a prose one: `bible/power-system.md` forbids the account scoring a grain, and the outline fixes *no rank lost or earned*. Cut, and the settled figure is settled to the end of the volume.
+3. **Whether the ten endings are earned, and whether Ch 97 is a seventh direction and not a sixth.** The scene budget is satisfied (86 to 97 is eleven, inside the eight-to-fourteen band) and the mechanics are right, and neither of those is a judgement about whether the scene is any good.
+
+### New walk-ons, and none is given a length of service in dialogue
+
+**Tove Marlin**, a Wing clerk who conducts the check-in in a corridor (Ch 96) and reads Runa's household line back to her in a room (Ch 99). **Sabine Rooke**, named for the first time at Ch 95; Ch 75 has her setting the Reading's third-floor room up for eleven years and Ch 95 is the first page she speaks on. **Saskia Verhoeven**, the Reading Office clerk who rules the district table twice a month (Ch 100; described without a name at Ch 87).
+
+### Deliberate duration decisions, registered
+
+**No age is stated in narration or dialogue for any person in Chapters 91–100, named or walk-on.** Durations appearing and not ages: nineteen years (Drant, Tessa, Sabine Rooke), eleven years (Drant, Ines, the fourth book), nine years (Drant, Sowe's building), four years (Lin Hao at the branch, Nadia's lift, Ines as an agent, Tessa's fourth reading), three years (Ines, Sun Meiling, the Consult), twenty-two weeks (Colm's arithmetic), thirty-one days (six days of hold; twenty-six days at the Vestry; twenty-eight days of grey), thirty-five days past the horizon on the 28th, five weeks in ten seconds (**the notebook woman's own method, Ch 79, not restated here**), thirty-one readings, sixty-one and then seventy-eight entries in the visitors' book.
+
+### New and inherited threads at the head of the stack
+
+| # | Thread | Status at the end of Ch 100 |
+| --- | --- | --- |
+| **B92** | **The plate hold** | **Closed, and paid for.** Six days, the 15th to the 20th. The 17th's strip did not print and the forwarding went out empty. Its real purpose was named on the page by Drant: to take the reading off a floor where anybody could check it. |
+| **B93** | **The unfiled line is referenced** | **Open and dated.** The 12th's finding says a document exists that is not a district record. The 13th's production is now specific and carries a finding number. Ines has refused it and will refuse the next one. |
+| **B94** | **Ines's reading of the himself line** | **Paid in this batch and irreversible.** A ledger entry is a pair; his line has one name on it; it reads *to*, not *from*. She can describe him in one sentence and has refused to give it to anyone. **Unfiled, known to two auditors, and he has never seen it.** |
+| **B95** | **The controlled spend, demanded and refused** | **Closed by the refusal.** All four conditions refused on the record on the 18th, the fourth by name. Standing discharged, dates now the Wing's, band suspended pending description. |
+| **B96** | **The three costs of the refusal** | **Open and dated.** Tessa has described him in one word to refuse to describe him; Runa has a disciplinary hearing in about six weeks and the household line is now *available*; Sun has refused a direction to her own house in writing and is at the top of a list. |
+| **B97** | **The classification paper** | **Open, unsigned, dated the 19th, returned at four on the 20th.** The sixth space is ruled and empty. It is ruled so a person can be shown where it would go. |
+| **B98** | **The household notebook** | **Open.** Theirs, not his; his signature refused. One line per woman per day from the 21st. **Sun Meiling named it on the 14th as the thing she warned about on the 1st.** |
+| **B99** | **Sabine Rooke and the ninth chair** | **Open.** Asked twice about a Thursday, has said she will come and find him first if she is asked a third time, and has told him she is not starting on the twentieth. |
+| **B100** | **The lift log** | **Paid.** It came out on the afternoon of the 10th and carried forty-one names off Nadia Ferrous's own page into a document they had no business being in. Offstage; the consequence is hers. |
+| **B101** | **Tove Marlin** | **Open.** The clerk who reads things back to you exactly as written, apologises for the room, and is going to be the person who reads everything else. |
+| **B102** | **Saskia Verhoeven** | **Open, and Ruta forbids him going near her.** The moment somebody upstairs asks her why the line is there, a reference becomes a finding and a finding becomes a name. |
+| **B103** | **The correction of the himself line is the volume's answer** | **Open into Volume 8, not before.** He is not a tank, he is a door. Sun Meiling's sentence at 63 said a sent thing has a sender; this says the account has a far end and it has no name on this side of it. **Not to be resolved before the Brother's File.** |
+
+**Not opened, not moved:** second folio; the classification entered; May clipboard; the word Channel; the Church; the rota word; Marguerite's terms (declared off the table on the 14th and still down and unsigned); September; Bernt's absence; the thin sheet's signature; Ding's chest beyond two sentences; Rhee (no line); new partners; departures; **Sun unsworn and her refusal advanced at 94 and 99 and NOT closed**; **Alma Quayle and Yusuf Adeyemi both off page, Adeyemi named in Ch 100's future and not present**; Lin Wei's whereabouts unknown to every character on page; nothing after Volume 8 anticipated.
+
+**Defects in unreviewed earlier chapters, found while deriving the spine and NOT repaired:** D1 (six weeks in Ch 57/60) stands. **D2 is new and is in `state/continuity.md` and above: the month is thirty days in the state files and thirty-one on the page, and Ch 77's sentence and Ch 87's repaired day-count are each off by one against a thirty-one-day month.** Recorded in this batch's proposed-canon block with the arithmetic shown. Not repaired, not built on, and the first thing a repair pass should take.
+
+---
+
+## Volume 2 Batch 0005 — PROPOSED CANON, registered before Chapters 91–100 were written
+
+The Batch 0004 prompt required proposed canon changes to be registered **before** they were written into a
+chapter. Batch 0004 registered its own late. This block was written before the first chapter of this batch
+and is followed by a second block at the head of this file recording what was actually written and which
+proposals were dropped. **The prose is the canon; a proposal here is a proposal.**
+
+### An inherited contradiction found while deriving the spine, and NOT repaired
+
+**The length of last month is contradictory on the page, and this batch cannot resolve it.**
+
+- `state/continuity.md` and `state/current.md` say **thirty days**, derived from Ch 77's *"Seventeen days
+  to the end of that month."* Thirteen plus seventeen is the thirtieth, and thirty minus twenty-three
+  plus seven is **fourteen**, which is the figure Ch 87 now prints and which the Batch 0004 repair
+  verified.
+- **The chapters say thirty-one.** Ch 70 (the 21st) names *"the twenty-fourth and the thirty-first"* as
+  standing Thursdays ahead of him. Ch 80 is **the thirty-first** and the fifth strip of the standing
+  prints on it. Ch 83, on the 3rd, has a clerk say the return was due on the thirty-first and *"the
+  thirty-first is four days ago"* — which is only true of a thirty-first that existed.
+- **With a thirty-one-day month Ch 77's sentence is off by one and Ch 87's repaired count is off by one.**
+  Thirteen plus seventeen is the 30th; the true interval to a 31st is eighteen. And 31 minus 23, plus 7,
+  is **fifteen** — the number Ch 87 carried *before* the Batch 0004 review "corrected" it to fourteen.
+  Ch 70's *"five days past"* in Ch 77 likewise fits only the thirty-day month.
+
+**This is D2 and it is open and unrepaired. It is not this batch's to fix**: the affected pages are
+reviewed and repaired chapters, and a repair pass is a separate run. **Recorded, not touched.**
+
+**How Batch 0005 wrote around it, which is the whole of the mitigation.** This batch runs the 11th to the
+20th of the month and **crosses no month boundary at all**. Every interval in Chapters 91–100 is derived
+either from an anchor inside the batch or from Ch 87's own printed figure. Specifically:
+
+- The **horizon is the 23rd**, printed twice on the page (Ch 77 and Ch 87) and used only as a date.
+- The **horizon counts elapsed from the 23rd**, anchored to Ch 87's *fourteen days past* on the 7th:
+  the 11th is eighteen days past, the 14th twenty-one, the 17th twenty-four, the 20th **twenty-seven,
+  and three days short of the horizon.** Derived by adding days forward from Ch 87's own number, never
+  from a month length.
+- The **grey counts inclusively from the 23rd**, anchored to Ch 83's *tenth day yesterday, eleventh
+  today* on the 3rd: the 13th is the twenty-first day, the 17th the twenty-fifth, the 20th the
+  twenty-eighth.
+- **Thursday is the 7th, the 14th, the 17th, the 21st** — from Ch 70's Thursday series and Ch 87's
+  seventh-of-standing, both on the page. The next strip after Ch 87's sixth is the **seventh on the
+  14th**, and the eighth is on the 21st.
+
+No chapter in this batch states a month length, crosses a boundary, or says a day of a month that a
+different reading would move.
+
+### Proposed canon for Chapters 91–100
+
+1. **The plate hold.** A fourth notice, dated the 9th and put face up on the 11th, holds the plate at
+   the place of score from the 15th to the 20th inclusive, six days, with no figure published for the
+   term. It is drafted on the Wing's own sentence about absence of input, and its third paragraph
+   requires a **check-in by an officer of the office, not made at the place of score.** The Office is
+   taking the reading off his floor. **Ch 91.**
+2. **Consequence: the 17th's strip does not print.** The seventh strip prints on the 14th. On the 17th
+   the branch trolley goes down the long road empty, and the forwarding envelope goes with nothing in it,
+   and Drant asks Lin Hao whether to send it and Lin Hao says send nothing. **Ch 96.**
+3. **The lift log came out on the afternoon of the 10th** and carried forty-one names off Nadia Ferrous's
+   own page into a document they had no business being in. Offstage; referred to twice. **New fact, Ch
+   99.** Ch 90 left the manager letting the man at it; this closes that thread's outcome.
+4. **Colm's sitting on the 12th** produces a finding on the arithmetic and, attached to it, a reference
+   to **an entry held outside the district file** — the Office learns the unfiled line exists without
+   learning what it says. The 13th's general production becomes a specific one. **Ch 92.**
+5. **Ding D. Duarte went on the 9th. It was a chest.** Two sentences in Ch 92. **B5 is not opened.**
+6. **The Vestry's own figure has gone flat.** The wall has held at twenty-seven with nothing arriving
+   since the 17th of last month — twenty-six days elapsed on the 13th, twenty-seven if you count the
+   first day. The Office's instrument in this step is time, and the Vestry is now as settled as he is.
+   **The thing that has not arrived at that clinic for twenty-six days is him. Ch 93.**
+7. **The household ledger.** With six days of no published figure, Nadia starts a book in which the
+   household records where he is and when, from the 15th. **Sun Meiling names this on the night of the
+   14th as the thing she described on the 1st**, and does not close her refusal. **Ch 94.**
+8. **Nine chairs.** The nine chairs stacked in the corridor outside the Reading's third-floor room are
+   moved by two men at night into the corridor of the second sub-level, outside a shut door, where a cloth
+   is on a table inside. He sees them from the top of the stair and does not go down. **Ch 95.**
+9. **The controlled spend.** A lawful, narrow demand dated the 18th, to be complied with inside the hold:
+   attend the inventory room on the 20th, present the plate there, repeat the Review spend on himself
+   under control, and name the instrument that will measure before and after. **Ch 98.**
+10. **The refusal, in person, on the record, in words, on purpose** — the opposite of Ch 80, where he said
+    nothing and Drant entered a third thing. He asks for it to be written as a refusal. **It lengthens the
+    inquiry and discharges his standing:** the five-date branch standing with no end date, attended six
+    times, is discharged and replaced by an open-ended summons to the Wing's dates. **The refusal is
+    also what makes the classification impossible, and it is not a win.** **Irreversible. Ch 98.**
+11. **The three costs, in 99.** Tessa answers a second request in writing — *the instrument exists, it is
+    mine, it is clinical, the readings are not produced* — and describes him to the Office in one word,
+    *mass*, in order to refuse to produce it. Runa declines a second time in writing against a dated
+    demand, and the Wing receives **the household line**, which she entered on the 6th at his word, so
+    Ch 86's irreversible decision comes due. Sun Meiling is asked inside Veil-Research to state the
+    provenance of a three-year-old consult and refuses, in writing, in her own house. **Ch 99.**
+12. **The classification paper.** Prepared, dated the 19th, **unsigned**, on the register desk, and it
+    cannot be issued, because a classification requires a holder and the last instrument it rests on is a
+    refusal. **Ch 99 and Ch 100.**
+13. **The sixth heading is still a ruled empty space** and stays empty. Quayle's own heading went into a
+    different book on the 20th of last month; his two words went in as received on the 26th. **Ch 100.**
+14. **The himself line is unfiled and known to two auditors**: Ines Duarte, and **Saskia Verhoeven**,
+    the Reading Office clerk who rules the district table, whose name Ruta Vesely gives him and does not
+    charge for. **New walk-on, Ch 100.** The name is how he can check whether his line has been tabled.
+15. **Resolution, all of it on the page:** no classification; no rank lost or earned; plate 8,138 against a
+    floor of 8,141, tolerance three; the band still six on the Review instrument; the three Review turned
+    stay turned; the inquiry open into Volume 3. **Ch 100.**
+16. **Durations appearing, and no age stated for any person.** Six days of hold; twenty-seven days
+    elapsed since the 17th of last month; twenty-eight days of grey; twenty-seven days past the horizon
+    and three days short of it; the runner's wrist mends on the 19th, the date Tessa gave in the corridor
+    on the 10th and which this batch does not re-derive. **Ch 91, 93, 96, 99, 100.**
+
+### Dropped before drafting
+
+- **A second named Wing clerk** was proposed for the demand's bearer and is now **Tove Marlin**, named in
+  Ch 98, because a demand of this size is carried by a person and this book files people.
+- **No walk-on is given a stated length of service** in dialogue anywhere in the batch, because a service
+  length reads as an age at two removes.
+
 ## Volume 2 Batch 0004 — REPAIRED. Read this block before the one below.
 
 **An independent review run (the agent's own log at `logs/batch-0004.review.log`) reviewed commit `870fca9` and found two blockers and five smaller defects. A repair pass has put every fix on the page. This block records what was wrong and what is now on the page. A repair listed here may still be treated as done only once it has been seen on the page.**
