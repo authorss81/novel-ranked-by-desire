@@ -1,6 +1,144 @@
 # Continuity
 
-## Volume 4, Batch 0004 — CLOSED (Chapters 181–190). THE FIVE NAMES.
+## Volume 4, Batch 0005 — CLOSED (Chapters 191–200). SIX. **VOLUME 4 IS CLOSED IN PROSE.**
+
+**Ten chapters written against `outline/volume-04.md` §4 escalation step 5, entered at Chapter 191 on the
+eleventh of May and closing the volume at Chapter 200 on the twentieth, one chapter a day, no shared dates
+and no gaps.** Full gate output, the Gate A interval trace with its six errors, and the Gate B date
+subtraction are in `state/open-threads.md` in this batch's close record, which is now the only live gate
+block in that file; Batches 0003 and 0004's gate blocks have been moved to
+`state/archive/open-threads-v1-v4-batch-gates.md`. **This block supersedes every block below it on
+every point it touches.**
+
+### Calendar, as the page fixed it
+
+- **Batch 0005 is the 11th to the 20th of M+5, one chapter a day, no shared dates and no gaps.** 191 the
+  11th · 192 the 12th · 193 the 13th · 194 the 14th · 195 the 15th · 196 the 16th · **197 the 17th, a
+  Thursday, and the Board repaints, and it is Marguerite Vale's scene** · 198 the 18th · 199 the 19th ·
+  200 the 20th, **the volume's last day**. **Nothing follows the twentieth and the volume ends there.**
+- **ONLY THE SEVENTEENTH REPAINTS IN THIS BATCH. The batch prompt's calendar listed the twelfth as a
+  Thursday with a repaint; it is not one, and `outline/volume-04.md` §12 and the card by the time clock
+  both govern, and the prompt's own Gate B agrees with the card.** M+5's Thursdays are the 3rd, 10th, 17th
+  and 24th, from Ch 181's card. **The word Thursday appears TWICE in the whole batch and both are at Ch
+  197**, where the repaint is on the page and the card is quoted. **Zero other weekday name anywhere.**
+- **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE INSIDE THE VOLUME.** Thirty-
+  seven days past the twentieth of May, printed with the working at Ch 191 and at Ch 200.
+- **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0004.** Days elapsed from the
+  twenty-seventh of April, sixty less that. Batch 0004 closed at 13/47 on the tenth. **Batch 0005:
+  14/46 (191) · 15/45 (192) · 18/42 (195) · 19/41 (196) · 20/40 (197) · 21/39 (198) · 22/38 (199) ·
+  23/37 (200).** Chapters 193 and 194 print no countdown and that is deliberate, not an omission.
+
+### Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE CERTIFICATION RULE (Ch 191, and it is the spine of the volume).** A certification is not granted
+  on a filing. **It is granted on a reading**: four pages go into a room, a clerk puts them in front of
+  the head, asks the head member by member what each member is and where that is evidenced, and writes
+  down what he heard. Where it does not all agree, the schedule is **held — not refused — and the sixty
+  days run while it is held, and every day held is a day off the end of the sixty.**
+- **A STANDING IS ONLY ENTERABLE AGAINST A DOCUMENT (Ch 191).** Doyle has five members on page two and can
+  find the source of four of them that afternoon and does not say the fifth. **The member forms at Ch 195
+  are the direct consequence**: each member states what she is and where it is evidenced, in her own hand.
+  Four of five can; **Nadia Ferrous cannot, because a service file records where she works and not that
+  she chose it**, and a member whose standing cannot be traced to a document holds the schedule.
+- **THE ASSUMPTION OF MEMBERS (Ch 191, signed at Ch 199).** One side of a sheet, cream weight, with a
+  heading, four spaces for a head, a date and an hour, six ruled lines for a clerk, and at the foot of it
+  **printed in the Office's type and not written: THE HEAD OF A HOUSEHOLD ANSWERS IN ITS OWN NAME FOR EVERY
+  MEMBER OF IT.** That printed clause is the indemnity and the indemnity is the whole of the instrument.
+  **The Office will not read a member before the head has signed it.**
+- **THE PAD OF FIFTY, AND THE TWENTIETH (Ch 191).** Assumptions are entered on a numbered pad of fifty and
+  **the Office destroys an unused pad at the close of a month.** This month's pad had his name on the stub
+  from the first. **It was in the stove at the close of the twentieth and he signed on the nineteenth.**
+  After the twentieth there is no instrument in that building that can enter an assumption on that
+  schedule, and the schedule goes up on the twenty-sixth of June without him on it.
+- **THE SCHEDULE GOES UP THE WORKING DAY BEFORE THE CERTIFICATE (Ch 191).** The certificate is dated the
+  twenty-seventh of June and the twenty-seventh is not a working day, so the schedule goes up on the
+  twenty-sixth. **Neither date moved and neither cares what was done in the room.**
+- **A HEAD WHO SIGNS IS MADE ASKABLE, NOT MERELY ANSWERABLE (Ch 191 and Ch 199).** The requisition is
+  served on the head first; the head may be asked; **the privilege for being asked is the band on page
+  one, which is band five, which is three grains above a floor.** Six people buy one question and it is
+  worth exactly that. And the cost, in Doyle's words at the door: **a paper can now reach him by writing
+  to him first.**
+- **THE REQUISITION SERVED ON HIS OWN ACCOUNT (Ch 192).** A requisition of property — a table and two chairs
+  — served at the premises on the head and on no member, **on his own account**, with a box for the hour a
+  person might be asked before they were touched. **Nine days to produce, which is the twenty-first.** The
+  Office cannot take a plate off a band five in nine days, so it serves the paper on the man instead, at
+  his work, in front of the cleaners. He read it out loud in an entrance hall. **The protection worked and
+  it cost him the only thing he had left, which was not being looked at.**
+- **THE REGISTER AT THE VESTRY HAS NO NAMES IN IT AND ITS HOURS WERE TAKEN AWAY (Ch 193).** Nine years
+  of an hour and a count, because that is the clinician's defence and it is a real one. **A man with a
+  warrant worked out that a quarter of eight, every morning, for nine years, in a building with one door,
+  is a person.** She refused to name her. The refusal is correct and changes nothing.
+- **THE CHART (Ch 194).** The fourth rib on the left, counted from the angle along the front and recorded
+  as the fourth rib and nothing else, with the frame and the heart and a mass that has not moved by an
+  ounce since the seventh of April, and under it **that she does not know what moved in it.** Her name and
+  the time on it. **In the day book at the Vestry and nowhere else.**
+- **THE PERMISSION AND THE EXAMINATION (Ch 196, 197, 198).** A permission is a question you are allowed to
+  ask, and the account of a household is the account of its head, and where the head carries none the
+  household carries none, and **no permission may be sold to a household on the account of any member of
+  it.** Every standing household is examined once a year and the examination is entered against a
+  standing. **Marguerite Vale bought that examination with her own rank-two entitlement on the sixteenth
+  and it was entered on the seventeenth, and the standing of a standing household is the standing of its
+  highest member, which is hers.** **The Vant now holds a thing it did not have and did not have to do
+  anything for.** **On the death, resignation or replacement of the broker of record the examination passes
+  to the holder, and it cannot be un-entered.**
+- **THE COUNTERSIGNATURE (Ch 197, 199).** She writes her name at the foot of the indemnity on the
+  nineteenth and **keeps a copy in her pocket**, and that copy is the only thing in the arrangement that
+  survives her in an arguable shape. **She also wrote one line in the Vant's real ledger on the seventeenth
+  with the pen still chained to the desk — HOUSEHOLD, FERRIER STREET — and tore it out along the
+  perforation and kept that too.** That entry is `outline/ending.md`'s and it is now on the page.
+- **THE BENCH ORDER OF THE THIRD IS STILL IN FORCE (Ch 191, 200).** A roll produced to a caller is
+  produced; the caller, the hour, and the number of names and spaces upon the roll go on a district sheet.
+  **The first caller was the district clerk on the tenth, who wrote down five names and two spaces. The
+  second was a man with a folded sheet on the eleventh, who wrote down six names and one space because he
+  read a rule through a line as though the line were not there. On the twentieth the roll went to a counter
+  on its own and the sheet said six names, one space, and a head who signed at a counter on the
+  nineteenth.**
+
+### Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Printed once in this batch, at Ch
+  200, in Runa Sato's mouth. **It has not moved a grain in a hundred chapters.**
+- **Ledger 118 lines, nine turned, the ninth still himself.** Nothing spent on anybody in Volume 4 and
+  nothing spent on himself since the promise in the hall in March. **Zero system panels in ten chapters.**
+- **File 4,112, one folio open, no second.** No classification, no rank earned, no rank lost, no grain
+  scored. **The classification paper dated the nineteenth came back unsigned on the nineteenth of May for
+  the hundredth time and nobody mentioned it.**
+- **139, 140 and 141 are Doyle's own figures and they are his, not the Office's**: nine hundred households
+  come through the room with a four-page form, about a hundred and forty have a head's answer on the
+  certificate, and **the number went up by one on the nineteenth of May** and he will not say what the
+  other one was.
+
+### What this batch did NOT open
+
+Second folio · **Ines's review, resolved** · **B103 in any form** · the instrument's live-column rule ·
+**the certificate, which cannot arrive inside the volume** · **Marguerite's terms, which stay down,
+unsigned and out of force and are not revived by anything signed in June** · Bernt · Rhee · Saskia
+Verhoeven · Alma Quayle · Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Petra Ilyin
+· Dagmar Oyelowo · anything after Volume 8 · **a rank, a grain, a folio, a classification** · **the Vant's
+entry against the reservoir, which belongs to Volume 6 and is not named anywhere in this batch** ·
+**a second scene.**
+
+### What this batch did NOT close
+
+The two ninth chairs · the ninety rubbed-out sentences in a corridor · Marta Vey's name in the record ·
+the desk's four-line note that is a lie · the classification paper dated the nineteenth · the ninth of
+September · the broken price · Sun Meiling's February · **the leak, which stopped on the twenty-eighth of
+April and is not explained to anybody** · **Agnete Lindqvist's eleven years indoors** · **Ines Duarte's
+review** · **Runa Sato's hearing** · **the second line about the holder of the broker's book** · **the
+woman at the hatch, who is found and is not taken**
+
+### Endings and temperature
+
+191 a rule and a deadline and a caller who got the count wrong · 192 a paper served on a man and read
+aloud in a hall · 193 **a loss, and it lands on a woman who is not one of the seven** · 194 a clinic and
+four ribs and a chart · 195 **a form left face down and a woman who will not say it** · 196 a blank account
+and a floor nobody in the book had been inside · 197 **the scene, and a purchase, and a copy in a pocket**
+· 198 a receipt with RANK TWO in the value column and a second line that frightened her · 199 **the
+signature** · 200 the roll to the counter and a space that stays empty. **The batch runs cold on purpose:
+it is the coldest stretch of the volume and the one that ends it, and its two warm chapters are 194 and
+197, and 197 is warm the way a price is warm.**
+
+## Volume 4, Batch 0004 — CLOSED (Chapters 181–190). THE FIVE NAMES. *(previous record, superseded)*
 
 **Ten chapters written against `outline/volume-04.md` §4 escalation step 4, entered at Chapter 181 and
 running to the tenth of May, one chapter a day, no shared dates and no gaps.** Full gate output, the
