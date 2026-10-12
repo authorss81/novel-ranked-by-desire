@@ -30,7 +30,7 @@ He sat down with his back to the stairwell.
 
 She put the pencil down on the step beside her.
 
-"I am going to ask you for something. It is the only thing I have ever wanted from anybody in this city, and I have wanted it since about the third day I spent on this landing. I have not said it out loud to one person, including the woman who downstairs calls it a refusal when she talks about me."
+"I am going to ask you for something. I have wanted it since about the third day I spent on this landing and I have not said it out loud to one person, including the woman who downstairs calls it a refusal when she talks about me."
 
 "Ask."
 
@@ -194,25 +194,39 @@ She came off the chair and put her coat on the step and not down the stair, whic
 
 The landing is about five feet across, with a rail on one side and a window on the other that faces the backs of the buildings across the street, and there is a light on a cord. She pulled the cord and let it go about four times over the course of it, and neither of them mentioned it.
 
-She was not a woman who took her clothes off in an order. She did it in whatever order she found them, told him what she was doing at each stage in the flat voice she used for a column of figures, and did not once tell him it was all right.
+She took her clothes off in whatever order she found them, which was the skirt first because the button had gone, and she told him what she was doing at each stage in the flat voice she used for a column of figures, and she did not once tell him it was all right.
 
-She made him say her name once, and then made him say it again, and the second time she was not in a hurry about it at all.
+"Sun Meiling," he said.
 
-She had him on his back with her hand flat between his shoulder blades and her mouth against his ear, describing what she was about to do.
+"That is the first half of it." She was sitting on the step above him with her knees either side of his ribs and her hands on his face. "Say the whole thing or say nothing. I have been called the first half of it by four people in this city and I have stopped correcting them out loud and started correcting them in the head, and you have not got that far yet."
 
-When he got a hand on her she let him keep it about three seconds and then moved it. When he said her name the first time she said not yet and made him say it again with her palm across his mouth.
+"Sun Meiling."
 
-She was exact and she was not gentle and she did not once ask him whether he could do it or how long it had been. At one point she stopped entirely and made him tell her what he had felt at eleven o'clock that morning in a hall on Cobb Street, and he told her, and she said again and made him tell her twice more.
+"That is better. Once more before the hour is up and it will be true."
 
-Then she turned him over and went at the fourth rib on his left with her thumb, the way a woman who had read about it would, and he made a sound she had not been told to expect, and she said yes once and kept going.
+She had his back against the stair rail and his legs out along the boards and she took him into her hand and started at the outside of it and worked inward, slowly, the way a woman takes a bearing off a point she is not going to arrive at today.
 
-Afterwards she lay along him with her weight on his side and one hand flat on his chest, and neither of them hurried.
+He got a hand on her knee and she left it there. He got both and she said, "Not yet, and do not hurry it, you have been careful for five months and I have watched you be careful, and it is the one thing in this house I cannot be patient about."
+
+She let him get the second one in himself and then stopped him with two fingers flat on the head of it and told him what she was going to do and how long it was going to take, in the same voice she used for a column of figures, and he understood about a second in that the voice was not cold.
+
+It was a woman with eleven thousand pages of other people's data in her head and no other way of saying a thing she meant.
+
+She got him up onto his feet with her hands under his arms and had him hold the rail, and she stood where he could not get his back to anything at all, and she took him in her mouth with one hand flat on his hip and the other counting at the side of his neck, and she was exact and she was not gentle and she did not ask him once whether he could do it or how long it had been.
+
+At one point she stopped entirely and made him tell her what he had felt at eleven o'clock that morning in a hall on Cobb Street, and he told her, and she said again and made him tell her twice more, and the third time she asked him what it had felt like from the inside of the room and not from inside his own chest, which was a different question and the only one she had wanted.
+
+Then she sat him down on the floor with his back against the rail and came down onto the step above him and finished it there, with her hand in his hair and her weight on his thigh and no hurry anywhere in the last ten minutes of it, and she made him say her whole name once more before she let him have it, and he did.
+
+She did not go near the fourth rib. She put an open hand flat against the side of him, held it there, and made him say the number out loud three times while her palm sat on it, and when it did not move she said, "Good. Tell me what it is like when nothing arrives," and he said he did not know, and she said, "Then say that instead," and he did.
+
+Afterwards she sat with her back against the wall and her boots on the boards and took his wrist across her knee and put two fingers on it, and counted, and let him watch her do it.
 
 "Anything," said Sun Meiling.
 
 "Nothing. Nothing moved and nothing arrived. I did not spend anything on you and there was nothing to spend."
 
-"I know." She lifted her hand off his chest. "I can feel the shape of a thing arriving in a body from the outside. It is the only thing I am any good at and I have never once been thanked for it and I am not going to start."
+"I know." She turned his wrist over once and let go of it. "I read arrival the way other people read a face. It has never once been paid for and I am not going to start asking."
 
 She sat up and put her blouse on and did not put the coat on.
 

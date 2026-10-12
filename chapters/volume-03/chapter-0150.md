@@ -92,7 +92,7 @@ Tessa Okonkwo said, "You have not been in this room since the twenty-ninth of la
 
 "I have been in this room."
 
-"You have been in this room on the evenings when there is a line in it, and you have not been in this room on any other evening in two months," said Tessa Okonkwo, "and the difference is the book and you know the difference. "If you put a signature on that page tonight you will not be able to stand at a table on a Thursday morning again without four women in your house holding a piece of paper with your name on it. You did not need that in a hall and you do not need it in a kitchen."
+"You have been in this room on the evenings when there is a line in it, and on no other evening in two months," said Tessa Okonkwo, "and the difference is the book and you know it. If you sign that page tonight you will not be able to stand at a table on a Thursday morning again without four women in your house holding a piece of paper with your name on it. You did not need that in a hall. You do not need it in a kitchen."
 
 Sun Meiling said the fourth from the end of the table, in the chair she had sat in twice since the twenty-seventh of last month, with her coat still on the back of it.
 

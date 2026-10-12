@@ -1,0 +1,905 @@
+# Archived — Volume 1 and Volume 2 state records (Chapters 1–100)
+
+**Retired from the hot path on the Volume 3 Batch 0005 review repair, 2026.** Nothing here was
+deleted and nothing here is wrong. These are the batch-by-batch state blocks for the two
+closed volumes, plus the full 60-item adjudication record that the condensed index in
+`state/current.md` points at.
+
+**Read this only to settle a contradiction with a closed volume, or to find the full reasoning
+behind a numbered adjudication.** The live rules that bind a chapter are in the *Book-wide
+canon and rules* section at the tail of `state/continuity.md` and are not duplicated here.
+
+---
+
+## Volume 2 close — what is now on the page
+
+- **THE VOLUME'S ANSWER, Ch 97, and it is a correction and not a discovery.** A ledger entry is a pair — a
+  person relieved and a person it came from — and the himself line has one name on it. It does not read
+  *from*. It reads *to*, from a side of the entry with no name on it, because on the thirteenth of last
+  month he was standing in a room holding something. **If it is filed, the Wing has a shape, and the shape
+  is one sentence: he is not a tank, he is a door.** **Ines Duarte can write that description in a
+  fortnight and has refused to**, on their schedule rather than forever, decided on the 12th and delivered
+  on the 17th. **The line stays unfiled. It is legible to two auditors, and to him, and he has never seen
+  it.** She will refuse the second production too and will stand in a review and say that being true was
+  not the same as being owed to anybody.
+- **THE IRREVERSIBLE DECISION IS CH 98 and it is a refusal in words, on purpose.** Four conditions refused,
+  the fourth refused by name. **The standing and the fourth floor are discharged at ten past eleven on the
+  18th; the dates are now somebody else's; the band is suspended pending description; and the ruled sixth
+  space in Anneke Roos's fourth book is going to get a line in it.** He gave up every calendar he had in
+  order to stay undescribed, and the Office's weapon in step four is time.
+- **THE OFFICE'S WEAPON, NAMED ON THE PAGE.** The plate hold, the 15th to the 20th, exists to take the
+  reading off a floor where ninety people can check it, and its check-in is conducted wherever he is rather
+  than at the place of score. The 17th's strip did not print and **the forwarding went out with nothing in
+  it, on his instruction**: *he would rather be absent than stale.*
+- **THE THREE COSTS ARE EACH A WOMAN'S AND NONE IS HIS (Ch 99).** **Tessa** had to write the word *mass*
+  into a Wing file in her own handwriting in order to refuse to produce it. **Runa's** household line,
+  entered on the sixth at his word, was read back to her as *available*, and a second written disobedience
+  against a dated demand is a disciplinary hearing. **Sun Meiling** refused a direction to her own house
+  inside Veil-Research and is now the most findable person on that floor, **and refused to let the sentence
+  about it be written down**, because a sentence on a pad is a thing a man can produce in a year.
+- **THE HOUSEHOLD IS A REGISTER AND THE WOMEN SAID SO.** Nadia's notebook, opened on the fourteenth for the
+  six dark days; **his signature refused**. **THE HOUSEHOLD IS SEVEN WOMEN AND SIX OF THEM KEEP IT** — Sun
+  Meiling does not, and that is the whole of her refusal in miniature. **Sun's refusal is stated on the
+  1st, restated on the 14th, paid for on the 19th, and is OPEN.** The outline fixes it "by 100" and the page
+  does not close it; **the page governs.**
+- **THE VOLUME'S THREE COSTS, COLLECTED.** The Bellhouse visitors' book with the glass off Marguerite's own
+  mantel. A lift operator in a file. A household line in a Field minute, available.
+- **The resolution, all of it on the page:** no classification; no rank lost or earned; plate 8,138 against
+  a floor of 8,141; the band six on the Review instrument; the three Review turned stay turned; the strip
+  printed and forwarded nowhere; the inquiry open into Volume 3; **the himself line unfiled and known to
+  two auditors**; and **the classification door's plate read from the top of a stair for the first time in
+  five weeks, with no handle on that side of it.**
+- **Volume 3's question opens at the last line:** the measurement will not be a description of him. **It
+  will be a description of everyone who ever fed it.**
+
+**Carried untouched:** the May clipboard, the word Channel, the rota word, Marguerite's terms (declared off
+the table on the 14th, still down and unsigned), Beatrix's broken price, September, the second folio,
+**Alma Quayle and Yusuf Adeyemi both off page**, Lin Wei's whereabouts unknown to every character on the
+page, and **Rhee, who has not appeared and may not.**
+
+**Open and inherited into Volume 3, and the first thing a repair pass should take: D3** — nine interval
+figures across Chapters 59, 71, 73, 74, 76, 79 and 100 that do not trace to an anchor on the spine. Full
+table with the arithmetic in `reviews/volume-02/volume-close.md` §14 and in `state/open-threads.md`. **They
+were found by reading and were deliberately not repaired here.**
+
+
+## Older state — Batch 0003 and before (retained, not restated)
+
+Chapters 51–60 by Batch 0001, 61–70 by Batch 0002 then repaired by an external review run, 71–80 by Batch 0003 then repaired by a second external review run. Full list of the 71–80 repair in `state/open-threads.md`.
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are not
+restated here and nothing in Volume 2 Batch 0003 re-opens any of them. **D1 — the six-week count in
+Chapters 57 and 60 — is the one open inherited defect and it is still unrepaired**, because Batch 0003 did
+not write those chapters and a review repair is a separate run.
+
+**The batch did not write a review of itself, and a review has now read it.** That separation is deliberate and
+it is three batches running. Nine batches in this repository have certified their own prose and every one of
+those certifications was wrong about the page it described; item 29 records that the fix is a separate run and
+not a prose discipline. **The review found the mechanical gates clean and the dates wrong**, and the batch's
+own record of its repairs was, in material part, false: fixes were written into `state/open-threads.md` and
+never carried into the chapters. **That is repaired. What a later phase must assume is narrower than it was
+before and still not clean: the prose, the scene at 74, the cost of the irreversible decision and the judgement
+on whether the ten endings are earned are repaired-for-defect, not certified.**
+
+**And the batch's arithmetic was wrong nineteen times, then again after the repair claimed it was fixed.**
+The first pass of Chapters 71–80 carried twenty-five illegal weekday names, three runs of emphasis, seventy
+paragraphs over ninety words and three announced ages. **A date montage in Ch 72 ran four days past the
+chapter that owns those days.** Nineteen stated day-counts disagreed with the spine. **A material share of
+those repairs were never made on the page and were only found by a phase that did not write the chapters.**
+**Three of those four classes are invisible to every mechanical gate in this repository**, which is the fourth
+consecutive Volume 2 batch to find the same thing, and **the fifth to find a repair asserted in a state file
+and absent from the chapter it describes.**
+
+**Position:** Volume 2 Batch 0003 closed. **Held six on an instrument, plate 8,138, floor 8,141, three grains
+of margin, and the figure has not moved in five consecutive weekly strips** — four by the 28th and the fifth
+is the 31st's, which is the last of them. Ledger **112 lines, eight
+turned, one reading himself.** **He has spent nothing in thirty chapters and the one draw he attempted moved
+nothing.** File 4,112 with **one** folio open and no second. **Both calendars are spent** — the standing ran
+five Thursdays and has no end date, the schedule closed on the 21st. **He has two dates and no end.**
+
+**In the story:** **the 31st, evening, the long road to the branch at forty-one minutes**, with an unsigned
+holding order in a tray upstairs, a lift operator's name on a sheet going out of the building at four
+o'clock, and the first of next month in front of him.
+
+**Date spine, fixed and now monotonic:** 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th,
+17th, 21st, **22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, 31st.** Thursdays in Batch 0003 are the
+24th and the 31st.
+
+**Volume goal.** In this volume, **Lin Hao must learn what is before he spends it on himself again**, or **the
+Classification Wing classifies the account and empties him out at rank one**. **Thirty chapters in and the
+midpoint has landed.** The account is not a supply he found; **it is an address he was given**, proved on the
+Office's own paper by the arithmetic of three episodes in three buildings in four seconds, and the account
+has a number — **One** — and he has said it out loud in a room with an analyst in it. **Classification is
+still not entered and the volume's threat is no longer a document. It is a settled figure that anybody with
+the right instrument can read, and there is one such instrument in Ostara and it is in a drawer off a
+corridor with four beds at the end of it.** He gave up the only shield he had — having no address, so
+neither findable nor clearable — to make the proof.
+
+**Next phase to run:** **Volume 2 Batch 0004 (Chapters 81–90)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0004/PROMPT.md`.
+
+## Volume 2 Batch 0003 — what is now on the page
+
+- **THE MIDPOINT REVERSAL IS PROVED, not announced — Ch 75–76.** Three episodes, three buildings three
+  streets apart, four seconds: three ordinary causes is not a thing that happens, and one thing leaving one
+  room and arriving in three streets is not a thing a man can do, because in four seconds his hands are in
+  one building. **So nothing left the room. Relief does not travel and never has. So there is no point, and
+  the dot on Ruta Vesely's map is not a person.** The proof is the Office's own paper: **the acknowledgement
+  he signed on the seventeenth joins the word *addresses* to a man by his own hand, and a hand cannot be in
+  three places.** **From 76 he no longer asks how to close 11,862 grains. He asks who sent 214,000, why the
+  receiver's file is One with no Zero, and what forty days of standing still will make of him.**
+- **The irreversible decision is Ch 80 and it costs him a woman.** He does not sign the holding order and
+  does not refuse it. **Instead he tells the Office about both collectors**, in a room with a clerk in it,
+  because the dark coat is four streets from being in his own file and the third question is *who have you
+  spoken to* — a gate man, a porter in Bellhouse, **and the woman who runs the Vestry lift.** **NADIA
+  FERROUS'S NAME IS ON A SHEET LEAVING THE BUILDING AT FOUR O'CLOCK**, and she has asked twice for that
+  sentence to be said back to her in a room and nobody has said it.
+- **The second cost is Ch 76 and it is the volume's own.** He gives Anneke Roos the sixth heading — **NOT
+  EARNED**, two words, in his hand — and it goes into the fourth book as received. **The first twenty days
+  of his page are NOT copied across**, because the moment they sit under that heading they stop being
+  entries and become a claim.
+- **THE HOLDING ORDER** is prepared, dated the 31st, **unsigned and unissued**, and it came up from three
+  floors on **the 24th — two days before he said the number out loud.** Its last sentence is not true: the
+  account is in the office's custody and the man at the desk holds it. **Drant's whole reading is that this
+  building has been living on the gap between those two sentences for three years.**
+- **THE GREY — Ch 72, canon confirmed on the page.** A cost of a draw on a person who never fed him, and
+  **it is not proportional to how much he was trying to spend**: *the account is asked to move and finds out
+  there is nothing on the other side of the person you touched, and it charges you for the asking.* It
+  stayed, where since the Review it has always gone inside a day and a half, and by the second day it had come
+  forward along the ridge above his ear. **Ch 72 proves the negative case and then stops one step short of the
+  answer, in his own words, because he will not guess at it. The conclusion itself is said once in the batch,
+  in Ch 75, to an analyst: the thing does not come out of him, it goes in.**
+- **THE FORTY DAYS ARE NAMED WITH A DATE — Ch 77.** Forty from the last movement, not the last spend. The
+  last movement was the 13th of last month. **Seventeen days to the end of that month and twenty-three more
+  into this one. The horizon was the 23rd and it is five days past.** Standing still is what an office does
+  to you and a duration costs the person it is applied to nothing to run. **The map-becomes-true cost was
+  said out loud once, by Nadia, and the batch's instruction is that it is not said again.**
+- **TESSA'S READING — Ch 78.** Settled, constant, three readings ninety seconds apart. **Not in grains, no
+  interval, not a reading and not a score.** Her working theory since March — that a settled mass makes a
+  body too well — fits all 258 charts and **does not fit him.** He is not a body that is too well; **he is a
+  load-bearing structure**, and if it is not a tank then three years of arrivals are not accumulating. She
+  refuses to make a sentence out of it, on the page, in her own words.
+- **THE STANDING CLINICAL DEBT — Ch 74.** Monthly, on the first, in a day book that has held only her own
+  name for eleven years: **his name, the date, no number, and no word he would have to keep.** For the month
+  her rack runs out, so that an office gets a name and a date instead of a sentence she made up at two in
+  the morning. **She intends to call it in whether he can pay it or not.**
+- **Ch 74 is the holding ward and the title is earned:** four quiet rooms at the back of the Vestry, and a
+  person is held because a date is open. **Not the third sub-level. Not a classification.**
+- **Ottilie Prebble is the batch's innocent.** A junior clerk with three years and four months at a
+  plate-office counter who has to sign a weekly return the Exchange built out of a flat figure. **The guess
+  is correct about the surface and wrong about the cause and it is not his fault.** The true document is in
+  her hand and it will be read as a confession, and she signs it anyway because an unsigned return is a lapse
+  against a held band.
+- **Two collectors, one city, and they are not the same kind of animal — Ch 79.** One that reads: a season
+  on a third seat since the 18th, four hundred and eleven counts in two years, no badge, and names out of
+  men in eleven seconds. **One that talks: no paper, no bag, forty days at his branch floor, two at his yard
+  gate, on an Office list since the 17th untouched, and she does not know the other one exists.**
+- **Standing things carried untouched:** the May clipboard, the word *Channel*, the rota word, the thin dated
+  sheet in the second sub-level prepared and unsigned, Marguerite's terms, Beatrix's broken price,
+  September, **the second folio, and Rhee, who has not appeared and may not.**
+
+
+**Last written:** **Volume 2, Batch 0001 — Chapters 51–60, complete.** `outline/volume-02.md` and
+`outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; the chapters were
+written by the phase after it.
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are
+not restated here and nothing in Volume 2 Batch 0001 re-opens any of them. The last three of them —
+43, 44 and 45 — are a warning about this pipeline, and the batch that wrote Chapters 51–60 obeyed them
+rather than re-deriving them.
+
+**This batch did not write a review of itself.** That is deliberate. Nine batches in this repository have
+certified their own prose and every one of those certifications was wrong about the page it described;
+item 29 records that the structural fix is a separate run, not a prose discipline. What the batch did
+instead was run every mechanical gate and record the result, and record plainly in
+`state/open-threads.md` that those are counts and not a reading. **A review phase has not run against
+Chapters 51–60 and the next phase that reads them must assume the prose, the midpoint, the climax and
+the cost of the irreversible decision are all unverified.**
+
+**Position:** Volume 2 Batch 0001 closed. **Held six on an instrument, plate 8,138, 11,862 grains under
+his own band and no closer.** Ledger **103 lines, 8 turned, one reading himself**, nobody spent in the
+last ten chapters. File 4,112 with **one** folio open and no second. **The attendance schedule is running
+every nine days: the third, the twelfth and the twenty-first of next month, written in a column.**
+
+**In the story:** **the 27th, evening, the room above the chop-house**, with a Thursday box discharged
+and a calendar written on the back of his hand.
+
+**Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself
+again**, or **the Classification Wing classifies the account and empties him out at rank one**. Ten
+chapters in and he has learned one thing, and it is not what the outline expected: **the Office does not
+need to touch him at all.** It files him, it inventories attendances, it asks a man at a counter for
+names, and it lengthens the interval. Classification has not been entered and is not close to being
+entered; **the batch's threat is a calendar and a drawer, not a room with no window.**
+
+**Next phase to run:** **Volume 2 Batch 0002 (Chapters 61–70)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0002/PROMPT.md`.
+
+## Volume 2 Batch 0001 — what is now on the page
+
+- **The plate office prints a third line** it has never printed in twenty-nine years: **carried on a
+  Review ruling, number 112.** The same number is what a clerk wrote in red ink in the margin of the
+  thirty-first register line on the Review day, in front of him. **That is the join, and it is the most
+  actionable fact of the batch.**
+- **The notice is unstamped**, so nothing compels him and nothing binds the office. Three days' notice.
+  A missed attendance is a lapse, and a lapse against a held band is a finding against the band.
+- **The irreversible decision is Ch 54**: asked, in a room, by a clerk who admitted he had no authority
+  to ask, for the names behind eighty-one rows and one empty one — **he said no.** Minuted, read back,
+  signed, dated. **It cost him the safe end of the inquiry and bought him a calendar.** It also protected
+  nobody: by Ch 56 a woman in a dark coat had got two answers out of Colm Deveraux at the counter of his
+  own floor, for nothing, in an ordinary voice.
+- **Ch 58 repeats it and dictates his own minute** as he did on the 23rd, with Runa Sato present and
+  refusing to answer for him. The Office now has in writing that he will not be described by its means.
+- **Ch 55 is Sun Meiling's first scene** and is immovable. Her three terms are on the page: **not sworn,
+  not housed, not filed.** He is wanted for what he carries rather than audited for it. **She keeps one
+  sentence back** and will not give it until he has stood still long enough for a mass to go flat, and she
+  refuses to give a date because a man who aims at a date does not stand still at all.
+- **The batch's real engine is Ch 59.** Tessa's drawer holds **two hundred and sixty-one bodies** over
+  eleven years that present better than their own histories say they should. **A settled mass reads as
+  too well** — a fed body improves and *stays* improved — so a quarter of a district getting better
+  faster than medicine can do it is not a set of charts. It is a line. **The date is the twenty-fifth of
+  next month** and the fifth attendance is the twenty-first. **Four days.**
+- **Standing things carried untouched:** the May clipboard, the second folio, the Church, the rota word,
+  Marguerite's terms down and unsigned, Beatrix's broken price, September, Nadia refusing in advance and
+  unasked, **and Rhee, who has not appeared and may not.**
+
+## Historical record — Volume 2, Batch 0002 (superseded; retained because it carries adjudicated-contradiction items 11–29)
+
+**Last written:** **Volume 2, Batch 0002 — Chapters 61–70, complete, and then repaired twice.** `outline/volume-02.md`
+and `outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; Chapters 51–60 and
+then Chapters 61–70 by the two phases after it. **The most recent pass was an external review repair — a
+reviewer who did not write the batch read all ten chapters against the page and found eight defects, four
+hard and four minor. All eight are fixed, plus three more the sweep turned up.** Full working at the head of
+`state/open-threads.md`.
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are
+not restated here and nothing in Volume 2 Batch 0002 re-opens any of them. The last three of them —
+43, 44 and 45 — are a warning about this pipeline, and the batch that wrote Chapters 61–70 obeyed them
+rather than re-deriving them.
+
+**This batch did not write a review of itself.** That is deliberate and it is now two batches running.
+Nine batches in this repository have certified their own prose and every one of those certifications was
+wrong about the page it described; item 29 records that the structural fix is a separate run, not a prose
+discipline. What the batch did instead was run every mechanical gate, record the result with the command
+that produced each, and record plainly in `state/open-threads.md` that those are counts and not a reading.
+**A review phase has not run against Chapters 51–70 and the next phase that reads them must assume the
+prose, the midpoint, the climax and the cost of both irreversible decisions are all unverified.**
+
+**Position:** Volume 2 Batch 0002 closed. **Held six on an instrument, plate 8,138, floor 8,141, three grains
+of margin, and the margin is now public and weekly.** Ledger **109 lines, eight turned, one reading himself.**
+**He has spent nothing in twenty chapters and the count holding at eight is stated on the page as the thing
+that is killing it.** File 4,112 with **one** folio open and no second. Two calendars, four instruments, and
+six dated events before the twenty-fifth.
+
+**In the story:** **the 21st, evening, the bottom of an iron stair in the dark**, having been upstairs for
+nine days' worth of an hour and having asked a woman nothing.
+
+**Date spine, fixed and now monotonic: 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th,
+21st.** Every chapter's stated interval now reconciles against that spine. **A second verification pass over
+Chapters 61–70 found and fixed one arithmetic error in it** — Ch 63 read *"for six days"* where its own
+three internal anchors and this file both put the chapter on the 5th, which had made the page disagree with
+the calendar; changed to *"for a day"*, one word. **Two `state/chapter-summaries.md` entries were pointing at
+the wrong chapter and were corrected against the page.**
+
+**An external review then read all ten chapters against the page and found eight defects, four of them hard,
+and every mechanical gate passed on the text the whole time.** The two that mattered most were of the same
+kind and neither was visible to a count: **Ch 69 told the reader he was the seventh of the standing at line 5
+and the third at line 167**, because the ordinal repair had fixed Drant's half and swept the runner's half;
+and **the dark-coat woman had been on the page for eleven days while three state files said eighteen** —
+**twenty is what the dates give**, and all five locations now read twenty. Also fixed: the acknowledgement
+citing a document with no referent, a state file pointing at a log that does not exist, `open-threads.md`
+preserving prose the Sowe repair had deleted, and a stranded fragment in a gate paragraph. **Four more the
+sweep turned up that no reviewer had listed:** Ch 70's *eleven years* against Sun Meiling's own *three*, Ch
+63's *nine years of mine* against her own *eleven years of sheets*, Ch 61's *eleven days* against its own
+three *twenty*, and four chapter summaries contradicting the page they summarise.
+
+**Every mechanical gate passes and a count is not a reading: no gate has a date criterion, and twelve of the
+twelve defects this batch produced were dates, or a number printed beside a date that was never measured from
+it.**
+
+**Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**,
+or **the Classification Wing classifies the account and empties him out at rank one**. Twenty chapters in
+and the outline's expected discovery has happened and a second one has happened after it. **At Ch 63 Sun
+Meiling says the sentence that reconciles Volume 8: what is in him was sent, and the address was chosen for
+lowness.** Classification is still not entered and is not close to being entered. **The batch's threat is no
+longer a calendar and a drawer. It is a flat figure printed once a week in his own corridor, a map that is
+wrong on purpose, and a document with a number on it that somebody else wrote about him.**
+
+**Next phase to run:** **Volume 2 Batch 0003 (Chapters 71–80)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0003/PROMPT.md`.
+
+## Volume 2 Batch 0002 — what is now on the page
+
+- **The irreversible decision is Ch 62 and it was a bargain, not a refusal.** Offered by Silas Drant in a
+  room: the branch plate-office strip, once a week, on his shift, in his own corridor, **forwarded, not
+  copied**, discharging the three ruled lines and holding the interval at seven days. Signed with a pen he
+  was handed, four seconds before he understood it was the first thing he had ever given that office. **It
+  cost him the only proof that nobody in the city could find where his merit was going, and it armed the
+  three-grain margin against a public weekly reading.** Ch 66 pays it: the queue at the Exchange says *flat*
+  out loud and a wrong answer assembles itself, and Garrick Neve decides not to correct it.
+- **The second irreversible decision is Ch 69, and it is the chapter's cost rather than its refusal.** Three
+  buff squares dated the nineteenth for the three turned, and an empty fourth box on each, and an
+  acknowledgement he signs in his own hand: the three episodes **were caused at his hand**. **Drant says the
+  price out loud — it is what his brother did.** The three attend offstage and are not narrated.
+- **Ch 63 is Sun Meiling's second scene and is immovable.** She takes two hundred sheets off the wall because
+  she has been looking at pictures of him for three years. She says the sentence whole and does not soften
+  it. **He is a shape with no place in it** — which means a map can never hold him and a man with no address
+  can be neither found nor cleared. She is core and unsworn with all three reasons on the page, she spends
+  no draw, and **the scene is the opposite of Ch 55 in direction: she asks to read him aloud and he wants it.**
+- **Alma Quayle keeps a fourth book** — a page for every entry the register could not take, five headings and
+  a ruled sixth space — **and Anneke Roos's gift to him is that she does not read it, she keeps it.** Quayle
+  wrote the sixth heading herself, in her own hand, on the twentieth. **It was two words long and is not on
+  the page.** She is named offstage twice and is in no room.
+- **Perrin Sowe is on the page as a respondent's form and is in no room.** VEIL-RESEARCH, PERRIN SOWE,
+  RESPONSIBLE, printed on the outgoing consult so the reply need not be looked for. **He answered Sun's memo
+  three years ago; she drafted four lines and what went back was his, and she has never read them.** He has
+  **never once** come down her corridor in the three years she has worked two floors below him. **He appears
+  nowhere else in Volume 2.** A first pass of Ch 63 had him take the branch strip off a colleague's hand in
+  the corridor; the Batch 0002 review repair removed it, because `outline/volume-02.md` places him off the
+  page for the volume, and **the external review found that `state/open-threads.md` — the one file of the
+  three that the Batch 0003 prompt sends the next writer to — still carried the deleted beat.** Corrected.
+  **Lin Wei's whereabouts remain unknown to every character on the page.**
+- **Two collectors are now loose in the city.** A woman with a notebook rides the Ferrier line and asks
+  operators for their counts; a woman in a dark coat with no paper has been working his branch floor and
+  Marguerite's porters for **twenty days** — she came to the counter on the 20th and Ch 66 is the 10th of
+  next month. **Nadia gave the notebook woman his name in a lift, on purpose.**
+- **Tessa is going to send the Office her own arms** on the twentieth, as a control. **258 cases over
+  ELEVEN years** — the drawer is an eleven-year drawer and the Office's form asks for eleven years — cause
+  not established, and one case with a cause. **The rack ladder is 17 → 18 → 22 → 26 and lines only rise.**
+- **Ines's four-sided sheet is in his coat**, going in on the seventh, with RECIPIENT printed over a blank
+  line at the bottom of the fourth side.
+- **Beatrix has taken him off her list** since the thirteenth and he never asked. **The ninth of September is
+  hers**, is now known to three women in the household, and has a rule attached to it.
+- **Standing things carried untouched:** the May clipboard, the second folio, the word *Channel*, the rota
+  word, the thin unsigned sheet in the drawer, Marguerite's terms down and unsigned, Beatrix's broken price,
+  and **Rhee, who has not appeared and may not.**
+
+
+
+---
+
+## Adjudicated contradictions — do not re-open (FULL TEXT, all sixty)
+
+Closed before Batch 0001 was written, and in three batch review repairs. Recorded here and in the
+canon-change guard in `state/open-threads.md` so a later phase can tell an already-decided question from
+a new one. **No canon changed in any of them; no scene moved; no age moved.** The one age that *was*
+wrong on the page is item 21.
+
+1. `outline/ending.md` opened by saying he reaches rank nine at 409 and *therefore* opens the file at
+   372. The file opens first, at 372, on a rank he does not hold. Nine buys him nothing about it.
+2. `bible/characters.md` gave Ines a second scene at "Chapter 8, then 17." Chapter 17 is Beatrix Halm's.
+   Ines's Volume 1 scene is Chapter 8.
+3. Household reconciled on the page: **twelve partners, nine sworn in.** Wren Kallo, Sun Meiling and
+   Dagmar Oyelowo are outside the standing roll, each for a stated reason.
+4. `bible/terminology.md` had the Channel in Volume 4. It is Volume 5, which is where the stage table and
+   the Ines hinge put it.
+5. The nine→ten volume correction had been made in `outline/series.md` and not in `bible/themes.md`. Both
+   now say ten; the "nine volumes" in `premise.md`, `ending.md` and `characters.md` are the legitimate
+   *nine before the last*.
+6. The Dagmar Oyelowo household passage contradicted itself; her desk is the counter the roll gets read
+   at, so the oath would expose her where she works.
+7. "Five are core" did not match entries 1–5. The core five are named and the twelve entries renumbered
+   into the order they enter.
+8. The law binds the plate and the bond and not shared quarters, which is what makes Ines legal at Ch 402
+   while keeping her own rooms on Lantern Row after Ch 271.
+9. "Two women who can leave" against "at least three." **Four** leave: Ines out at 246 and back at 271,
+   plus Wren, Sun and Dagmar refusing outright. Both files now say four and name the same four.
+10. Two scene-table entries duplicated beats. Ch 492 now sits at **Ch 494** on `ending.md`'s own wording.
+    Ch 447's "Final scene" is **Ch 446**.
+
+**Closed by the Batch 0002 review repair** — recorded because a later phase must not re-derive them:
+
+11. `state/continuity.md` had the Batch 0002 canon block written *underneath* the Batch 0001 H1, so the
+    next writer would have read Batch 0002's mechanics as Batch 0001's. The file is now a stack of
+    self-contained `# New canon — Batch NNNN` sections, newest first.
+12. ***There is no form for this* was used twice more** (Ch 12, Ch 16) after all three escalations had
+    been declared spent. Both are gone. All three escalations remain spent and none are available before
+    Volume 7.
+13. **A byte-identical System panel appeared in Ch 13 and Ch 15** where the count had not moved between
+    them. Ch 15 now states the count in prose. **A panel is never repeated, in any batch.**
+14. **The grain spine did not reconcile.** The chain is **4,012 → 4,412 (Ch 15) → 4,612 (Ch 18) →
+    8,141 (Ch 19)**, the last step being the **3,529** Branch aggregate released behind the witnessed
+    deed, and the Ch 16 plan is **nine** evenings and **3,588** grains, not four.
+15. The Batch 0002 prompt hard-gated Ch 15 as "Rank five" while its own cards said rank four until
+    Ch 19. The prompt was corrected; the cards governed; the page was right.
+16. The Batch 0002 calendar contradicted itself. The cards are now in **dates only** and the prose
+    carries no weekday name except Thursday and Monday the 19th.
+17. **Ledger-count drift.** Both `outline/volume-01.md` and the Batch 0002 cards had the ledger ending
+    Batch 0002 at nine or seventeen lines. The page says nineteen. Lines only ever rise.
+18. **Batch 0002 averaged 771 words** against a 1,800–2,700 guide and no gate had a length criterion.
+    All ten were rebuilt. A length gate now sits in the Batch 0002 and Batch 0003 prompts and cards.
+
+**Closed by the Batch 0003 pass** — a third false certification, found by reading the page rather than
+the file, and it is the reason this section exists:
+
+19. **`state/current.md` certified that "no age is stated in narration anywhere in Chapters 11–20."
+    That was false and stayed false through two rewrites of this file.** `chapter-0016.md` and
+    `chapter-0018.md` each state Emrys Vaz's age in prose. Both locations are now named in
+    `state/continuity.md` and `state/open-threads.md`. The two chapters were certified in the Batch 0001
+    and Batch 0002 reviews and have not been re-read since. **Flagged, not silently repaired**: the
+    Batch 0003 writer judged the ripple too wide to touch two certified chapters uninvited.
+
+**Closed by the Batch 0003 review repair** — the fourth false certification this pipeline has produced,
+and the second written by a batch that had been warned about the first by name:
+
+20. **The replacement claim was false too.** The Batch 0003 pass wrote into this file, and certified in
+    `reviews/volume-01/batch-0003.md`, that **no age is stated in narration anywhere in Chapters 21–30,
+    for named characters or for walk-ons.** `chapter-0028.md` stated one: "the man at the front was
+    about sixty." **The evidence was sitting in `state/chapter-summaries.md` the whole time**, which
+    carried "A man of sixty says he has counted the words" on the line above the claim that there was no
+    age anywhere. The age is struck from Ch 28, the summary now reads that he worked the second column
+    for twenty-two years, and the certification is **withdrawn rather than reissued** — a rewritten
+    claim would be a fifth chance to be wrong.
+21. **`chapter-0029.md` contradicted canon.** Nadia Ferrous said "I have had twenty-eight years of my
+    life." `bible/characters.md` fixes her at **23** and AGENTS.md forbids moving an age. Corrected on
+    the page and logged as a canon flag in `state/open-threads.md`. **The age gate missed it because the
+    gate scans narration and this was dialogue.** A gate that claims authority over age must match bare
+    number-ages too — `was about sixty`, `in his forties`, `twenty-three years of my life` — and not only
+    `years old` and `aged`.
+22. **`reviews/volume-01/batch-0003.md` was self-certification.** It was added in the same commit as the
+    writer work with no separate review commit, as Batches 0001 and 0002 had, and it certified the two
+    claims above. **A writer's own review is not a review.** The Batch 0003 review repair is recorded in
+    that file with the external findings it overturned, and from here the gate is: read the page for
+    every certified claim, and if the writer cannot say how a claim was checked, the claim does not go in.
+23. **Fifty-eight illegal weekday names survive behind Chapter 20 and were flagged nowhere.** Only
+    Thursday and Monday the 19th may be spoken. Chapters 1–11 and 19 carry **fifty-eight**: Ch 1 (6),
+    2 (4), 3 (4), 4 (7), 5 (5), 6 (8), 7 (7), 8 (3), 9 (2), 10 (9), 11 (1), 19 (2). Chapters 12–18 are
+    clean. **Three are bare and unambiguous** — `chapter-0002.md:109` ("Monday?"), `chapter-0006.md:19`
+    and `chapter-0006.md:27` ("come back on Monday") — and `chapter-0008.md:297`'s "on a Friday night"
+    shares a sentence with a residual age. A reader crossing the Chapter 20 boundary sees a world rule
+    switch on. **Chapters 1–19 are certified and were not rewritten.** The census is recorded here, in
+    `open-threads.md` and in the Batch 0004 prompt so the rule is enforced going forward, and the
+    residue is logged as an open repair rather than silently fixed in nineteen certified chapters.
+    *(The Batch 0003 review reported this as sixty. Sixty counts the two permitted instances of "Monday
+    the nineteenth" in Ch 4 and Ch 5. Fifty-eight is the count.)*
+
+**Closed by the Batch 0004 pass** — recorded because it is the first instance of the failure mode going the
+other way: the page this time contained what the gate was looking for, and the gate is what was corrected:
+
+24. **Eighteen horizontal rules were sitting in Chapters 33–38** in a book where `AGENTS.md` bans them and
+    **Chapters 1–32 had none**. They were introduced as scene separators by the partial draft that existed
+    at the checkpoint. Eighteen removed, collapsed to plain paragraph breaks. **A nineteenth was then written
+    into Chapter 40 by the Batch 0004 writer while composing it**, and was caught by the same sweep. **All
+    nineteen removed and Chapters 1–40 now carry no horizontal rules at all.** Three illegal weekday names
+    went with the first pass, all in Batch 0004 prose. **The lesson for Batch 0005: the markdown gate has to
+    scan the batch's own chapters against the whole book's baseline, not against the last ten.** A rule that
+    has been true for thirty-two chapters is not a rule the thirtieth of those chapters can quietly break —
+    and it is not one the next chapter cannot break either.
+
+25. **The Batch 0004 review's first draft certified that Chapters 21–40 were clean of ages. That was
+    false, and it is the fifth false certification this pipeline has produced in the same shape as the four
+    before it.** `chapter-0029.md:91` has Nadia Ferrous say *I have had twenty-three years of my life.* It is
+    canon-correct — Batch 0003 changed twenty-eight to twenty-three for exactly that reason — and it is an
+    age in dialogue inside a batch certified clean on this. **The residual census is five, not four**: Ch 3,
+    Ch 8, Ch 16, Ch 18 and **Ch 29**. Ch 29 is the first instance that is deliberate rather than accidental,
+    which makes it the one most likely to be missed, because a reader auditing ages expects to find
+    mistakes and not decisions. **Recorded in `reviews/volume-01/batch-0004.md` and here. Not repaired** —
+    Ch 29 is certified and the sentence is Nadia's voice at the end of a scene.
+
+**Closed by the Batch 0004 review repair** — the sixth, seventh and eighth false certifications, and the
+third time this pipeline has had the same failure after being warned about it by name:
+
+26. **The Chapter 36 scene was summarised rather than written, and the batch's review certified it.** The
+    scene was 305 words carrying one physical line. The Scene gate checked consent, wakefulness, the
+    impaired-state ban and the injury logic and **never asked whether the scene was on the page**, then
+    described it as though it were rendered. `AGENTS.md` on Adult Content is blunt: *Write the actual
+    scene. Implication and fade-to-black are not the target. The scene is the product.* **Rewritten.** The
+    mechanics did not move — adults, awake, unrestrained, unmedicated, one arm each, four true statements
+    first, the injury constraining rather than causing, violence and sex in separate registers.
+27. **Two page-level contradictions the batch review missed in its own batch**, both found afterwards: the
+    Ch 36 flat is **number 6** in the morning and **number 11** at night with nothing moving her, and the
+    Ch 40 Reading Office clerk unfolded her arms twice without refolding and used *nineteen years* in both
+    speeches. **Both repaired.** Number 11 is Halvard Rees's flat and is fixed as such.
+28. **The review's provenance claim was stated more broadly than it could be supported.** It said every
+    claim had been verified by running a command and read. True of the mechanical gates; **not** true of
+    the Scene, Escalation and Irreversible decisions bullets, which are judgements. It now says which kind
+    of claim each bullet is. **A count is not a reading, and a review that cannot say how a claim was
+    checked does not get to make it.**
+29. **Item 22 is now confirmed a second time, not a first.** The Batch 0004 review was written by the batch
+   it reviewed, in the same commit as the prose, and certified a scene that was not on the page — after
+   this file had already recorded that a writer's own review is not a review. **The structural fix is not
+   a prose discipline; it is that the review phase must be a separate run.** Until it is, every claim a
+   batch makes about its own batch is a claim to be re-run, and Batch 0005 should assume it will be.
+
+**Closed by the Batch 0005 review repair — the ninth self-certification, and the one that cost the most:**
+
+30. **Twelve defects reached a file that certified the batch clean, and every gate that file ran was a
+    count.** Four were arithmetic, three were quotation or paragraph shape, two were the same scene written
+    twice, one was a construction used ten chapters running, one was a preserved draft artifact, and one
+    was a character naming the volume he is in. **Not one of them was visible to `wc`, `grep`, or a word
+    ceiling.** The Batch 0005 review reported length, bold, weekday and panel gates, all accurately, and
+    never subtracted the floor from a single published reading.
+31. **The volume's central engine was broken by one line and the file endorsed it.** `chapter-0048.md` had
+    the panel award four hundred grains off a witnessed answer and announce standing twenty thousand and
+    above. 8,137 + 400 is 8,537. The whole batch runs on an 11,859 gap. **The reservoir scoring a grain is
+    also the one thing `bible/power-system.md` forbids**, so the fault was not arithmetic alone. **Six is
+    now won on an instrument, not on merit.** B26 is open and sharper than it was.
+32. **Chapter 42 and Chapter 44 were the same day**, and `state/continuity.md` had papered over it by
+    asserting a date its own chapter contradicted. `continuity.md` is the file that is supposed to make
+    this class of error visible. **It is now corrected, and it records why Ch 42 backtracks**, so a later
+    phase does not "fix" the backtrack by moving Ch 41.
+33. **The volume close was skipped.** `AGENTS.md`: if the volume is complete, create exactly one
+    volume-close prompt. The batch created a Volume 2 batch prompt instead, against a volume that has no
+    outline and no cards. **The prompt has been removed and the volume-close prompt written in its place.**
+    A next-phase prompt that concedes it has nothing to write against is not a phase.
+
+**Closed by the Volume 1 close audit — items 34 to 42. Every one was found by reading the page, and none
+was found by a count.** Full working, with commands and chapter-and-line citations, is in
+`reviews/volume-01/volume-close.md`.
+
+34. **The volume promise was met by a different mechanism than the one planned, and that was the right
+    call.** `outline/volume-01.md` set the mechanism as *thirty witnessed deeds and nineteen hands* — 400
+    a deed, band six at 20,000, the gap closed in public. **Thirty deeds in six weeks requires thirty
+    witnesses. He has nineteen people and no twentieth**, and the reason he has no twentieth is on the
+    page: the only people he can reach are the people relief would mark, and a cold minute into a marked
+    person is a reportable episode (`chapter-0043.md`, `chapter-0045.md`). **The planned mechanism was
+    arithmetically unavailable to the character the volume had built.** He is seated on an instrument
+    instead: the requisition of the 19th plus the open-question finding (`chapter-0048.md:35`). **The
+    consequence is live and is the sharpest fact in the book: he holds six and is 11,862 grains under his
+    own band.** 20,000 − 8,138. Nothing the account did was converted into a grain.
+35. **Eight chapters close on the same construction.** **Chapters 42, 43, 44, 45, 46, 47, 48 and 49** all
+    end on a paragraph carrying **"He wanted, concretely"** — eight consecutive. **Five open the final
+    paragraph on the string (42–46) and three embed it one or two sentences in (47, 48, 49:
+    `chapter-0047.md:81`, `chapter-0048.md:79`, `chapter-0049.md:80`).** Ch 41 and Ch 50 are in other
+    shapes. `AGENTS.md` fails a batch for the same construction more than twice running. **The Batch 0005
+    review repair caught the ten-in-a-row *For &lt;person&gt;, his <verb> meant* closing, rewrote
+    seven endings, and put this in the seven.** Its claim that the old construction is now in Ch 41, 44
+    and 48 only is **true**; the repair checked the construction it had been told about and not the one
+    the page ended on. **The most serious finding of the close. Not repaired here** — eight endings across
+    four certified batches is a wide ripple. **It is the first item the next repair pass should take, and
+    the good prose underneath is kept in seven of the eight.**
+    *(**The string to test for is `He wanted, concretely` with NO trailing comma.** `chapter-0042.md:133`
+    reads "He wanted, concretely **and immediately**, to find one true instrument…", so a test quoted with
+    the comma matches seven chapters and silently drops Ch 42. With the comma it reports 7; without it,
+    8. Two earlier versions of this item quoted it with the comma while claiming eight. See item 46.)*
+    *(**The test printed for this item in the first version was wrong and has been corrected.** It asked
+    whether the final paragraph **begins** with the string, which returns five and not eight, and a repair
+    pass running it would have concluded three of the eight were missing and left them running. The test
+    that reproduces the finding asks whether the final paragraph **contains** the string. Working and
+    output are in `reviews/volume-01/volume-close.md`, Correction 4.)*
+36. **The residual age census is nine chapters, not five — and not seven either.** The register in item 25
+    and in `state/open-threads.md` named Ch 3, 8, 16, 18 and 29. **Two more are on the page and neither has
+    ever been registered:** `chapter-0002.md:21` ("He had spent twenty-five years wanting a number") and
+    `chapter-0037.md:57` ("since he was fifteen years old") — **both Lin Hao, both in narration**, which is
+    the exact category the census was built to catch. **A ninth was found when this item was re-checked
+    against the page:** `chapter-0020.md:67`, "a thing he had been able to do since **he was nineteen**" —
+    Lin Hao again, in narration, and the only age instance in Chapter 20, which no gate had ever swept.
+    **The register is now nine chapters carrying ten announced ages, of which five are the protagonist or
+    a core partner.** See item 47 for why "seven" persisted across four files after the table already
+    disagreed with it, and for the one row that is not safe to certify as canon-correct.
+37. **A third bare number-age, in a scene, slipped past a gate widened once for exactly this.**
+    `chapter-0046.md:37`: **"I am forty-one years of keeping books for money."** Marguerite Vale, canon
+    correct at 41, in her own voice at the top of the volume's best scene. The Batch 0005 review ran
+    `grep -rin "years old|in his forties|in her thirties|about sixty|years of my life"` and reported no
+    hits — **and that pattern does not match *forty-one years of keeping books*.** The gate was widened
+    once for Ch 29 and not widened far enough. **Five of the nine residual instances are the protagonist
+    or a core partner stating a canon-correct age. Canon is not contradicted. The prose rule is.**
+38. **`state/current.md` and `outline/volume-01.md` both said Rhee was preparing to go over Lin Hao's
+    head. He is not, and it is on no page.** Mechanical: `grep -rn '\bRhee\b' chapters/volume-01/` returns
+    25 hits and the last is `chapter-0030.md:17`, a retrospective clause inside a subordinate sentence.
+    **Rhee has no line, no scene and no presence in Chapters 31–50 — twenty chapters including the
+    climax and the resolution.** The first half of the claim is true and sufficient: the offer was refused
+    in Ch 28 and closed permanently there. The second half was a plan the outline hoped for and the page
+    did not deliver. **This is the tenth false certification of this shape in this pipeline and the first
+    one about a character rather than about a count.**
+39. **The promise is paid and the final image is the image the outline specified.** Ch 48 is the
+    irreversible decision and it landed on the page in all four of its costs — the himself line
+    (`chapter-0048.md:51`), three named feeders turned in four seconds (`:45`), the cab promise broken and
+    unmendable (`:55`), and anonymity closed forever (`:53`). Ch 50 carries every element
+    `outline/volume-01.md:126–131` specifies, including the petition turned face down because a washroom
+    counter is no place to leave a brother's hand uncovered. **The volume ends changed, not merely
+    informed.**
+40. **The scene census is confirmed and the lock holds.** Scenes at 8, 17, 26, 29, 36, 46. Gaps **9, 9,
+    3, 7, 10**. Two under the soft floor of eight — **26→29 at 3 and 29→36 at 7** — and both are named
+    and locked in `outline/series.md`, `outline/volume-01.md`, here, and in the canon-change guard.
+    **No scene may be moved to fix either.** The largest gap is ten, inside the band.
+41. **No thread was closed by the volume ending.** Thirty-five batch threads and twelve seeded threads:
+    **four paid** (B9 the audit, B19 the five names, B24 the query, B25 the provisional band), **one
+    superseded** (B12), **five advanced past their Volume 1 beat** (T5, B2, B3, B4, B8), **twenty-six
+    live.** T1 advanced by exactly one folio and must advance no further. Full per-thread status with
+    chapter citations is in `reviews/volume-01/volume-close.md` §3 and is carried forward in
+    `state/open-threads.md`.
+42. **Clean across the whole volume, confirmed by command and not by a batch gate.** Planning-register
+    ban: `grep -niE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b'` returns **zero**
+    hits across all fifty chapters. Horizontal rules: **zero** across all fifty. Bold: **zero** across all
+    fifty. `the record remained`: **zero**. Panels: ten in fifty, one each, none repeated. Weekday names:
+    **Thursday only from Ch 20 on**, with the 58 illegal instances behind Ch 20 confirmed at exactly 58
+    against the census in item 23. All fifty titles are unique, under 90 characters, and match the title
+    bank verbatim. **Italic is zero across Ch 40–50 and 101 across the volume** — the batch figure is not
+    the book figure and a Volume 2 writer must not treat it as one.
+
+**Closed by the external review of the Volume 1 close audit — items 43 to 45.** An external reviewer read
+the audit against the page and found three defects **in the audit**, all of the same shape: a command was
+run that was narrower than the finding, and the result was reported as though it were the whole finding.
+**None of the three touched prose.** No chapter was edited, no plot moved, no thread closed. Full working
+in `reviews/volume-01/volume-close.md` under *External review of this audit*.
+
+43. **Correction 4's reproduction test was mis-specified, and the mis-specification had already reached
+    this file.** It asked whether the final paragraph **begins** with `He wanted, concretely` and returns
+    **five**. **Ch 47, 48 and 49 embed the construction inside the final paragraph**
+    (`chapter-0047.md:81`, `chapter-0048.md:79`, `chapter-0049.md:80`), so the finding is **eight
+    consecutive chapters, not five.** **The conclusion was right and the command printed beside it did not
+    produce the output printed beside it.** A repair pass running the documented command would have repaired
+    five endings and left three running. **The test now asks whether the final paragraph contains the
+    string, and returns eight.** Item 35 above is corrected and carries the distinction a repair pass needs:
+    five open the paragraph, three embed it. **This is the finding most likely to have gone wrong next
+    run, because the Volume 2 prompt tells the next phase to read item 35.**
+44. **Correction 8 was false and overwrote a correct claim in this file.** It reported Ch 50 as carrying
+    one `nobody` and one `no one` and corrected the state for saying four. **Ch 50 carries three `nobody`
+    — lines 47, 51, 69 — and one `no one` at line 65.** The per-chapter `nobody` sequence the audit printed
+    (3, 2, 1, 4, 1, 0, 0, 0, 1, 0) put three in Ch 41 and zero in Ch 50; the page has **two and three**.
+    Only the totals — twelve `nobody`, three `no one`, fifteen together — survive. **The sentence this
+    file carried before the audit was right in every particular the audit corrected it on, and is
+    restored.** Correction 8 is withdrawn rather than reissued.
+45. **A construction retired by an earlier repair was re-certified as spent-once and promoted into a
+    standing rule.** The audit certified *nobody thanked him* as *"spent once, Ch 50's last line, and
+    nowhere else in the volume."* **`chapter-0012.md:19` reads "Nobody thanked the boy."** Same
+    construction, different object, 38 chapters earlier, and `AGENTS.md` names *nobody thanked* among its
+    banned reflexes. **The Batch 0003 review repair had already found this instance and already ruled the
+    construction retired rather than rationed; the close audit wrote an absolute negative over the top of
+    a correct earlier ruling and deleted it.** The standing rule is now written so it cannot be misread
+    again: **the sentence "Nobody has thanked him" is Ch 50:69's alone; the construction `nobody thanked
+    &lt;anyone&gt;` is spent once, at Ch 12:19, and is retired entirely — no Volume 2 chapter may use
+    *nobody thanked* with any object.** The prose is untouched and is not to be touched: Ch 12's line is a
+    boy holding a strap at the Cordwain gate, it predates every feeder, and it is doing the chapter's
+    thematic work.
+    *("spent twice" was the wording this item first carried and it was wrong: Ch 50:69 reads **"Nobody has
+    thanked him"**, which does not match `nobody thanked &lt;object&gt;`. A grep on `nobody thanked` returns
+    **one** hit across fifty chapters, Ch 12:19. **Only the construction's retirement is affected, and the
+    retirement stands.** The counting error is the same shape as items 43 and 44 — a figure asserted
+    beside a finding it was not measured from.)*
+
+**Closed by the external review of the `volume-plan` phase — items 46 to 49.** A reviewer read the Volume 2
+planning phase's output against the page and found three defects, all of them in files this phase or an
+earlier one had written. **No chapter was edited. No plot moved, no thread closed, no scene moved, and
+`outline/ending.md` is untouched.** One of the three was checked and **disproved**, and is recorded as
+disproved rather than silently dropped. Full working in
+`reviews/volume-01/volume-close.md` under *External review of the Volume 2 planning phase*.
+
+46. **Every file naming the closing-construction defect quoted a string that returns the wrong count.**
+    The finding is *eight* chapters. **The string to test is `He wanted, concretely`, with no trailing
+    comma. With the comma it returns seven and silently drops Chapter 42**, which reads "He wanted,
+    concretely **and immediately**, to find one true instrument…" (`chapter-0042.md:133`). Six files
+    quoted it with the comma while asserting eight: this file (three times), `state/open-threads.md` (two)
+    and `reviews/volume-01/volume-close.md` (two). The only working command anywhere in the repo,
+    `volume-close.md:437`, used it correctly. **A phase that copied the string out of a prose sentence
+    rather than out of the command re-created the exact defect items 43 and 44 were written to prevent.**
+    All six quotes corrected. `outline/volume-02.md` and `outline/batches/volume-02-batch-0001.md` carried
+    the *contains* rule with **no string at all**, so the writer could not have run the test it was told to
+    run — both now carry the literal.
+47. **The residual age census said seven across four files while its own table enumerated eight, and a
+    ninth instance was on the page unregistered.** `chapter-0020.md:67` — "a thing he had been able to do
+    since **he was nineteen**" — is Lin Hao in narration, and no gate had ever swept Chapter 20. **The
+    figures are now nine chapters and ten announced ages, five of them the protagonist or a core partner**,
+    and the four disagreeing files are reconciled. **One row is not certified canon-correct and must not
+    be**: `chapter-0002.md:21` reads "He had spent **twenty-five years** wanting a number … He had wanted
+    it since he was **nineteen**." Lin Hao is **25** (`bible/characters.md`), so the wanting began six
+    years ago, not twenty-five. `chapter-0037.md:57` gets the same man right — "since he was **fifteen
+    years old** and had spent **ten** years not being it", 15 + 10 = 25 — which is why the Ch 2 figures
+    are wrong and not merely loose. **Ch 2 is a certified opening chapter and is flagged, not rewritten,
+    on the same grounds as every other unstruck row in this census.**
+48. **A claimed contradiction in Chapter 37 was checked and does not exist.** The report held that the bare
+    `8,138.` at `chapter-0037.md:67` contradicts the drift ladder, which fixes 8,138 at Ch 47. **It does
+    not.** At Ch 37 the plate is standing at the published floor, **8,141** (`chapter-0037.md:47`, `:55`,
+    `:63`, `chapter-0040.md:22`). The bare number is the *tolerance edge* — three grains under the floor —
+    and the page puts it between the two sentences that make it arithmetic: "Below the floor less tolerance
+    the band lapsed at the next press" (`:65`) and "He could lose four grains and lose a rank" (`:69`).
+    **The drift to 8,138 happens later and only at Ch 47:55 and Ch 48:31, exactly where
+    `state/continuity.md` puts it.** The finding came from grepping for the figure and not reading what it
+    was doing — the same error items 43 and 44 describe, made by the reviewer this time. **No prose change
+    made and none needed.** Recorded so the claim is not raised a fourth time.
+49. **A fourth thing, found while checking item 48 and not part of the review.** The Batch 0004 span block
+    in `state/continuity.md` and the B26 headline in `state/open-threads.md` carried the gap as **11,859**,
+    which belongs to a plate reading **8,137** — the figure the Batch 0005 repair changed to 8,138 at
+    Ch 47 (item 31). **The live figure is 11,862** and every Volume 2 file already uses it. B26's headline
+    cell corrected; the closed Batch 0004 block flagged in place rather than renumbered, because rewriting a
+    closed block's numbers is a wider change than a review repair should make on its own.
+
+**Closed by the Volume 2 close audit — items 50 to 60. Every one was found by reading the page, and
+none was found by a count.** Full working, with commands and chapter-and-line citations, is in
+`reviews/volume-02/volume-close.md`.
+
+50. **THE MONTH LENGTH WAS WRONG IN EVERY STATE FILE, AND THE CONFLICT WAS BETWEEN TWO DIFFERENT MONTHS.**
+    This file, `state/continuity.md` and every batch block since Batch 0002 said **the month is thirty
+    days**, from Chapter 77's *"Seventeen days to the end of that month."* **Chapter 77 is the 28th and is
+    talking about the PREVIOUS month.** The month it is standing in has a **thirty-first**, and Ch 79, Ch
+    80 and Ch 81 are three consecutive chapters that each name their own date in their own first
+    paragraph. **M−1 is thirty days and M is thirty-one days. There is no single month length in Volume 2
+    and nothing in the bible, the series outline or the forty-one month-length statements on the page says
+    there should be.** Eight figures across Ch 83, 87, 91, 93, 96 and 100 have been swept and repaired;
+    the horizon stays at the 23rd and did not move.
+51. **A REPAIR DERIVED FROM AN INFERENCE IS STILL A REPAIR, AND IT BROKE TWO CORRECT CHAPTERS.** The Batch
+    0004 review adopted a thirty-day month for M from a sentence about M−1 and **changed Ch 83's grey day
+    count from twelfth to eleventh and Ch 87's elapsed count from fifteen to fourteen. Both were right on
+    the page before the review and both were wrong after it.** This is the eleventh false correction in
+    this pipeline and the first one that made the page worse rather than merely leaving it unchecked.
+    **Restored.** A repair pass must check a figure against the dates, not against the note that motivated
+    it.
+52. **D1 IS CLOSED.** The six-week count in Ch 57 and Ch 60 is repaired — five instances, two chapters,
+    eleven words, all anchored to the Review on the 13th. **Ch 59's *six weeks* is correct and stays**,
+    because it is a cross-boundary interval and it is one of the three proofs that M−1 is thirty days.
+53. **THE HOUSEHOLD IS SEVEN WOMEN, NOT SIX.** The Batch 0005 review recorded *"THE HOUSEHOLD IS SIX
+    WOMEN… Six, from Ch 81's seven people in the room on the 1st: six women and him."* **That is a
+    miscount.** `chapter-0081.md` names seven women in the room — Nadia, Beatrix, Tessa, Ines, Marguerite,
+    Ola and Sun Meiling off the landing — and Marguerite says *Seven women with one man who has no address*
+    (`:59`) and *Seven women, none of them leaving* (`:111`), and Ola's pad carries **seven names** (`:125`,
+    `:127`). **Correct statement: the household is seven women; six of them keep the notebook; Sun Meiling
+    does not, and that is the whole of her refusal in miniature.** Ch 94's *I told seven people on the
+    first* (`:67`) and Ch 94's *six of us are going to write it down* (`:85`) are both right and are about
+    different counts. The page is right and the state file was wrong; **only the state file is corrected.**
+54. **SUN MEILING'S REFUSAL IS OPEN, AND THE OUTLINE SAYS IT IS CLOSED.** `outline/volume-02.md:93` fixes
+    *"refusing the household's protection logic by 100."* The page states it on the 1st, restates it on the
+    14th and pays for it on the 19th, **and does not close it** — which is what Batch 0005 said it was doing
+    and it was honest about it. **The page governs. The thread is open and a Volume 3 planner must not treat
+    the outline's clause as a completion.**
+55. **Ch 69's TITLE IS `The Fourth Box`, NOT THE BANK ENTRY `The Second Attendance`.** The Batch 0002 and
+    Batch 0003 reviews each certified *"titles ten, verbatim from bank."* **That claim is false at Chapter
+    69.** The page's title is the better one and is content-accurate. **The prose is the canon and the bank
+    entry is superseded.** `outline/volume-02.md` is not edited by a close audit; the Volume 3 planner is
+    told to treat **The Fourth Box** as spent.
+56. **THE WIDENED BANNED-CONSTRUCTION GATE WORKS, AND IT FOUND TWO PARAPHRASES.** Run over all fifty
+    chapters it returns two hits, both in `chapter-0052.md`, in a chapter no review has read: *"There is
+    no column for a number beside an unsettled entry"* (`:65`) and the same clause again three lines later
+    (`:67`). **The narrow gate returned zero on both.** `:65` is recorded as a restatement of a
+    rationed construction and is **not** cut, because the fact is new and cutting it would remove Anneke
+    Roos's discovery. `:67` is repaired — it duplicated itself inside the paragraph, which
+    `PHASE_SYSTEM.md`'s batch audit forbids independently of taste. **A gate that cannot see the
+    construction it exists to police is worse than no gate, because it produces a false zero. This one can
+    see it.**
+57. **D3 — NINE INTERVALS THAT DO NOT TRACE, FOUND AND DELIBERATELY NOT REPAIRED.** Ch 59:127, Ch 71:21,
+    Ch 73:17, Ch 73:27, Ch 73:49, Ch 74:143, Ch 76 ×6, Ch 79:11, Ch 100:19. Full table with the arithmetic
+    in `reviews/volume-02/volume-close.md` §14. **None of them changes a date a reader is asked to derive a
+    later date from, and this audit did not repair them because an audit which repairs the whole volume is
+    not an audit.** **They are the first thing the next repair pass should take.**
+58. **THE TWO CONSTRUCTIONS VOLUME 1 SPENT WERE NOT REPEATED, AND THIS IS THE FIRST TIME IN THIS
+    REPOSITORY THAT A BATCH PASSED THAT GATE BY CONSTRUCTION.** `He wanted, concretely` — **zero** across
+    Chapters 51–100. `For <person>, his <verb> meant` — **zero**. Fifty endings on fifty shapes. **The
+    eight-in-a-row debt of Chapters 42–49 was inherited and not extended.**
+59. **T1 DID NOT ADVANCE IN VOLUME 2, AND THIS IS NOW VERIFIED BY COMMAND.** `grep -n "Lin Wei\|second
+    folio\|4,112\|Held Account\|two hundred and fourteen\|214,000\|Zero" chapters/volume-02/chapter-*.md`
+    returns seven hits — Ch 53, 63, 75, 76 — **and every one is a restatement of Volume 1's fact.** No
+    second folio, no new transfer, no character learns anything they did not already know.
+60. **THE WEEKNDAY AND AGE CENSUSES CAME BACK CLEAN FOR THE FIRST TIME.** Zero illegal weekday names
+    across all fifty chapters, against Volume 1's 58 behind Chapter 20. **Zero announced ages for any
+    person, named or walk-on, in narration or dialogue** — against the three false age certifications this
+    repository has produced. Four system panels in fifty chapters, one each, none repeated. Zero horizontal
+    rules, zero bold, zero planning-register terms, longest paragraph 114 words.
+
+**The lesson, stated once and operative from here:** *a count is not a reading.* Every gate above the
+Batch 0005 review was mechanical and every one of them passed. The repair that caught the batch read the
+page. A later phase may still run the commands — they are cheap and they catch real things — but a batch
+may not certify itself, and a review that cannot say how a claim was checked does not get to make it.
+
+**And the second half of it, which is what items 43 to 45 were about: *a command that runs is not the
+command the claim is attached to, and a correction made against an unverified per-chapter sequence is a
+new certification, not the end of one.*** Three defects in a row, all in one file, all of that shape.
+
+**And the third, which is items 50 and 51: *an inference is not an anchor.* Chapter 77's sentence is
+about one month and four state files applied it to the next one, and the next one had a thirty-first in it
+three chapters later, and four review passes and two external reviews did not catch it. **Derive a figure
+from the chapter that prints it, and when a repair changes a figure, check the figure against the dates
+rather than against the reason the repair was given.**
+
+
+---
+
+## Where Volume 1 closes
+
+| | |
+| --- | --- |
+| Lin Hao | **Held six.** Black six on a white tile. **Seated on an instrument of the Review room** — the requisition of the 19th plus the open-question finding. Grey at left temple, a forearm that will bear a sleeve, and he still walks forty-one minutes instead of riding eleven. |
+| His plate | **Published standing 8,138.** Floor 8,141. **The band came off a requisition, not off merit, and the plate still says so.** |
+| The distance | **Band six opens at 20,000. He holds six and is 11,862 grains under his own band.** B26 is open, not closed. Nothing the account did was converted into a grain. |
+| The account | **Ninety-one lines, eight turned**, one of the eight reading himself. Five old turned (Nadia, Ola, Emrys, Teodor, Tessa) and three new, turned at once in a room: **Nell Ardery, Garrick Neve, the yard checker.** Lines only ever rise. |
+| The Review | Held. Four consecutive Thursdays in the box, four counterfoils, the box discharged. **Three grains was the whole of the margin and he used all three.** |
+| The query | **Closed.** A witnessed answer in a room is an instrument. The entry of the 3rd closes on a finding instead of a lapse, in the Reading Office clerk's name. |
+| The file | **4,112 folios. 4,111 sealed. One open**: a transfer receipt in Lin Wei's hand, **214,000 grains**, the eleventh three years ago, into an account the index does not contain. Under it, in Wing print: the file of the person who received it is **Held Account One**. **There is no Held Account Zero.** |
+| Ines | Rank two. **Paper discharged**, rota name said on the 20th, **the word ungiven and that is a decision and not a fact.** The second-of-May clipboard is still on her table and neither of them has said a word. **She cannot decide whether to file the himself line.** |
+| Runa | The Field file closed with the finding. The declaration stands at the front of it above the observation of the 6th, with the finding number beside it. Observation over. She will file nothing further unless the division orders it. |
+| Beatrix | **Her cab price is broken and she named it without heat.** Spend on people, not on yourself; he spent on himself in front of nine chairs. Her three ticks stand. **The ninth is hers, in September.** |
+| Tessa | **Rack of seventeen boards, eighteen before nightfall.** Stippling past the elbow, pale blue above the joint, right forearm begun. She charted the three new colds herself and then sat looking at her own arms. |
+| Nadia | At three in the season and **unspent, on her own instruction.** Held her own car at the terminus past midnight with nobody telling her to. |
+| Ola | Clerking. The diary is up to date and the Review finding is copied under the re-read. |
+| Marguerite | **Refused twice** — standing in writing on the 13th, and in her own rooms for appetite rather than principle. **The terms stay down, unsigned, with the house behind him anyway.** She sat the Review in the public seats with two of her house. |
+| Tobias | **Off the board by instrument.** The declaration he was struck off by is still at the front of the Field file, and he has said he cannot do anything about that either. |
+| Halvard | Cutler's Row, wire labelled eleven B, watching. He told him not to spend one of the five and he did not. |
+| Nell Ardery | Eleven weeks of figures, initials on every return, a cold minute on a landing, and a line in a ledger she will never see. |
+| **Rhee** | **Gone from the page at Chapter 30.** Twenty chapters, including the climax, with no line and no scene. The offer is closed forever; **there is no live Rhee thread to carry forward, and a Volume 2 writer must not assume one.** |
+| **Ostara, after** | The branch board stands empty except a date in a clerk's hand. Ninety-one people know what a man in a washroom did. Bellhouse knows by nightfall and the house kept the terms down anyway. Nobody has thanked him. |
+
+
+## What he now knows
+
+1. The account is **geography, not intention**, and it moves wherever he stands — so the count stopping
+   was always about *faces*, not about the figure.
+2. **Band six is 20,000 and his plate reads 8,138.** Three grains was how close he was to losing the band
+   and the gap was how far he was from having earned it. **Those are two different numbers and they no
+   longer move together**, because a finding is an instrument and an instrument is not a score.
+3. **A band can be struck by a machine** from a figure, and a machine will read a band against the band
+   line when the figure cannot carry it.
+4. **His declaration was unattested, and so were all five names**, and a self-filing is how you find that out.
+5. **The register is a catch, not a census** — about a hundred out there against thirty-one on the sheet —
+   and you get on it the day somebody looks at you.
+6. **The Field and the Wing do not share systems.** Nobody withheld that page from anybody.
+7. **He cannot climb.** Thirty deeds in six weeks was never available to a man with nineteen hands, and at
+   the end he did not climb at all. He was seated.
+8. **There is no Held Account Zero**, and his brother moved two hundred and fourteen thousand grains
+   somewhere that cannot be named.
+9. **He has spent himself once and cannot unspend it.** The line reads himself and the option of being
+   invisible is closed forever.
+10. **A finding is an instrument and an instrument is not a score.** He has learned this the expensive
+    way: he can hold a rank he cannot justify, and the machine will not come and take it back off him
+    while an instrument stands under it. **He is the only man in Ostara holding a band above his plate.**
+11. **The turned-line pattern now points at a room.** Three people turned in four seconds in the Review
+    square, and the shape of those three is a room with nine chairs in it. He knows this and so does the
+    Bureau's threshold.
+
+**Twelve at the close, not nine.** Items 1–9 were true at the Batch 0005 checkpoint. **10 and 11 are what
+the close audit added, and they are what Volume 2 is built on.** Item 11 is Ines's, said to him in Ch 49:
+*an analyst could put a dot on a wall map and the dot would be that room.*
+
+
+## Irreversible decisions taken in Batch 0004 (Volume 1, Chapters 31–40)
+
+- **Ch 32–33:** refused the Vant's offer standing up, in writing, with her own words initialled — and asked
+  for the date and the room instead of the terms, which published the refusal inside her house and left him
+  with no leverage.
+- **Ch 33:** said nothing on the 13th to a Field file served on him, which the machine read as agreement
+  and answered with a mandate.
+- **Ch 37:** filed a four-page statement putting his own name under a stair he had been in, the door he knew
+  had been forced, and every dwelling that came off that row after the 19th.
+- **Ch 38:** spent nothing on anybody, in a batch that climbed to six.
+- **Ch 39:** refused the Field's document, dictated his own, and gave up the wall of ninety-one names on
+  the board in order to file the truth about one boy at a yard gate. Five names went back on the board on
+  the 26th and a query opened against his own standing.
+- **Ch 39:** Ines carried the name up a corridor because a drawer is not a place to keep a person. That
+  is hers and it cannot be walked back either.
+
+
+## Irreversible decisions taken in Batch 0005 (Volume 1, Chapters 41–50)
+
+- **Ch 48 — the batch's irreversible decision, and the stage-one break.** He takes the Review's
+  open-question slot and **spends the account on himself, once, for the first time in the book**, in front
+  of nine chairs and sixty witnesses. It gets him six. It costs him: **a line in his own ledger that reads
+  himself and should never be**, **three feeders turning at once** because nothing he ever did was that
+  size, and **the cab promise to Beatrix Halm broken** — spend on people, not on yourself — which cannot be
+  mended, because a line that says himself cannot be taken out. It also closes the option of being
+  invisible forever. Nobody arranged for him to.
+- **Ch 46:** refused the Vant's line a second time, **in her own rooms, in bed, for appetite rather than
+  principle**, and said so out loud with the reason attached. She keeps investing anyway.
+- **Ch 49:** kept the declaration at the front of the Field file. Tobias Renn is off the board by
+  instrument because of a finding he did not make, and the statement that put him there is still the first
+  page of his file, and he has said he can do nothing about that either. That is Lin Hao's to carry.
+
+
+---
+
+## Where Volume 2 picks up after Batch 0001
+
+- **Held six on an instrument, not on merit. Plate reads 8,138. He is 11,862 grains under his own band and
+  the gap did not close and cannot be closed by the account.** The socket now prints a third line saying
+  so, and reads it out loud to a queue. **The gap is public property.**
+- **One hundred and three lines, eight turned, one reading himself.** **Nobody was spent in ten chapters.**
+  He was asked to relieve three people in one afternoon and refused all three, out loud, with the reason.
+  The himself line was **stated aloud and minuted in a Wing room** and has still not been filed.
+- **The attendance calendar is running.** Every nine days: the third, the twelfth, the twenty-first of
+  next month. **The twenty-first is four days inside the date Tessa named.**
+- **Query closed** on a finding. Declaration stands with the finding number beside it. Observation over.
+  **Runa Sato has answered, in writing, for her own file and refused to answer for him.**
+- **File 4,112, one folio open**: 214,000 grains, Lin Wei's hand, Held Account One, no Zero. **Batch 0001
+  opened no second folio and Batch 0002 must not either.**
+- **Terms kept down, unsigned.** **May clipboard untouched** (second, 2,640). **Rota word ungiven.**
+  **Tessa's rack at twenty-two, twenty-three before nightfall**, right forearm begun, and the drawer behind it
+  holds two hundred and sixty-one charts. **September still Beatrix's.** **Nadia refusing in advance.**
+- **Sun Meiling is in.** Not sworn, not housed, not filed, for three reasons given out loud. Her first
+  scene is Chapter 55 and **her second, at Chapter 63, is immovable and is the sentence that unlocks
+  Volume 8.**
+- **Rhee is gone.** He has no line after Ch 30 and no page in Volume 2 should assume one. His offer is
+  closed forever and a Volume 2 writer may not re-open it.
+- **T1 has advanced one folio and must go no further.** T2 touched in Ch 60 and deliberately left shut —
+  the Reading clerk steadied a corner of a docket with her thumb and said nothing, and nobody is to
+  explain it before Volume 3. **B5 opened in Ch 60 and not pulled:** Ding D. Duarte put her own name on
+  an intake sheet, Ines said her sister's name once in a queue, and he asked no question at all.
+  **No new final enemy.** Anouk Ferreira is the Council chair, Alma Quayle is the head of classification,
+  Perrin Sowe is Lin Wei's colleague, and **none of the three is on any page of Chapters 51–60.**
+  **Nothing has been classified and Batch 0002 must not classify him.**
+

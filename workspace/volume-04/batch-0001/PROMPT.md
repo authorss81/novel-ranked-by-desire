@@ -2,9 +2,26 @@
 
 You are the primary novel writer for a long-form male-led webnovel. Read `AGENTS.md`, `NOVEL_SPEC.md`,
 all six `bible/` files, `outline/series.md`, `outline/ending.md`, `state/current.md`,
-`state/continuity.md` (**the *Volume 3, Batch 0005* block at the head — Volume 3 is complete and that
-block governs everything it touches**), `state/open-threads.md` (**the *Batch 0005 CLOSE RECORD* at the
-head, including its Gate A trace and the gate output**), and `state/chapter-summaries.md` (141–150).
+`state/continuity.md` (**the *Volume 3, Batch 0005* block at the head, then the REPAIR PASS above it,
+then *Book-wide canon and rules* at the tail — Volume 3 is complete and those three blocks govern
+everything they touch**), `state/open-threads.md` (**the REPAIR PASS at the head, then the *Batch 0005
+CLOSE RECORD*, including its Gate A trace and the gate output**), and `state/chapter-summaries.md`
+(141–150).
+
+**Those state files are now bounded and that is deliberate.** The Volume 1 and Volume 2 records were moved
+to `state/archive/` on the Batch 0005 review repair and nothing was deleted. **Do not load the archives.**
+They are there to settle a contradiction with a closed volume, not to be read every prompt.
+
+**Two obligations this phase inherits from that repair, both stated in `state/open-threads.md`:**
+
+- **File your review.** When this phase is done, write `reviews/volume-04/batch-0001.md` — what shipped,
+  what the gate output does not tell you, and every defect with its chapter. **Six earlier reviews were
+  run and never committed, and Volume 3 closed with one batch of five reviewed on the page. Do not make
+  that seven.** File it before you mark this phase done, and do not write a review of your own prose into
+  it — a review is a separate run, and what goes in the file is the gate output and the honesty about it.
+- **The staging grid is canon.** Scenes at 106, 118, 129, 141 and 149 each use a different ground, a
+  different hand, a different name-exchange and a different aftermath, and **Ch 157 and every scene after
+  it may not reuse any of them.** The grid is tabulated in the `state/continuity.md` repair block.
 
 ---
 
@@ -21,6 +38,22 @@ resolution tabled against Volumes 1 and 2, the new question that motivates Volum
 relationship progression, a scene schedule with the direction census, a **unique fifty-title bank**, a
 **day map with the calendar derived not assumed**, and a MAY OPEN / MAY BE ADVANCED / MUST NOT OPEN
 thread list.
+
+### The title bank is fifty **names**, not fifty descriptions
+
+**This is a correction carried forward from the Batch 0005 review.** All ten of Volume 3's batch titles are
+scene summaries and `chapter-0144.md` *Nine Minutes Before* is a clock restatement, which `AGENTS.md`
+bans outright. They were mandated verbatim from `outline/volume-03.md` §11, which is where the failure
+lives, so **the fix is made here and not by retitling Volume 3.**
+
+A title names the chapter the way a chapter title reads in a table of contents: **three to twelve words,
+never much over ninety characters, unique book-wide.** It does **not** restate the scene, the weather, the
+hour, the date, the ages of the people present, or the dialogue. **Twelve Volume 3 titles are the worked
+example of what is being rejected:** *What She Will Not Read · What He Tells Them First · The Hall Fills ·
+Nine Minutes Before · He Gives It Away In Public · The Ninth Is Himself · What Goes In The Sixth Space ·
+A Description In His Own Hand · The Woman Who Is Not On The List · The Board Repaints*. Nine of those ten
+describe what happens; one of them is a clock. **Write the bank, then read every entry and ask whether a
+reader who has not read the chapter would learn anything about the chapter.** If they would, replace it.
 
 **Register it in `state/open-threads.md` before drafting prose**, as a proposed-canon block at the head,
 saying plainly that the outline did not exist when Volume 3 closed and that everything in it is a plan
@@ -202,7 +235,13 @@ Update `state/current.md` · `state/continuity.md` (new block at head) · `state
 advanced, left open, proposed canon in and out, the Gate A trace, the gate output, and **plainly what the
 output does not tell you**) · `state/chapter-summaries.md` (151–160).
 
-**Do not write a review of your own prose.**
+**Keep the state files bounded.** The head block of each file is what the next writer reads. **Do not
+restate a closed volume's record** — point at `state/archive/` instead — and if this batch retires a
+block, move it to `state/archive/` with a pointer rather than leaving it in the hot path. **A gate claim
+you write down must have been produced by a command you ran in this run, and a claim that has never been
+wrong is not evidence.**
+
+**Do not write a review of your own prose. File the review when the review phase runs.**
 
 Then create **exactly one** next-phase prompt at `workspace/volume-04/batch-0002/PROMPT.md`, against the
 `outline/volume-04.md` you wrote. Do not create more than the next phase. The self-dispatch workflow

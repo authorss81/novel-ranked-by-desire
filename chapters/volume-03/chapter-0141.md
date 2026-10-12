@@ -164,13 +164,35 @@ She read it twice, which is what she did with everything, and put it down flat b
 
 "Then we have an hour."
 
-She was not a woman who was quiet in a room. That had never been true of her and it was not true that evening either. She talked the entire time and not a word of it was small.
+She was not a woman who was quiet in a room. That had never been true of her and it was not true that evening either. She talked the whole of it and not one word of it was small.
 
-She made him stand up first and told him what she was going to do before she did any of it, and he understood about four seconds in that this was not modesty either, it was her discipline, and that she would have run the same order in a cold room with a stranger who had asked her to.
+She made him stand up first, and then made him take his coat off and hang it on the back of the door, because a coat over a chair is a coat somebody intends to come back for.
 
-She undressed him the way she read a record, left to right, and named each thing out loud as she found it, and made him say her name once and then made him say it again because the first one had come out wrong and she wanted it right rather than fast.
+"Three things, in order, and you do not get the order improved later." She put the four sheets at the far end of the desk and squared them, put the roll on top of them, and moved the lamp a foot to the left until it lit the floor, the bottom two shelves of files, and nothing else at all.
 
-The lamp made the files behind her into a grey wall and the room was small and warm and had four hundred documents in it and none of them was about this.
+"One. I take your clothes off you and I name every article as I take it, and if I name one you have not got on, you tell me and we stop. Two. This takes about an hour and I am not going to hurry in any part of it. Three. When I am finished I am going to ask you one question about a document, and you will answer it in one sentence, and I will know inside about two seconds whether you have improved it."
+
+"That is a procedure."
+
+"That is a procedure," said Ines Duarte, "and it is the only thing I have ever done in this city that has not been wrong."
+
+She sat him down on the floor with his back against the low cabinet, came down onto her heels in front of him, and set the lamp behind her own shoulder so that he was looking up at her and she was looking down at him.
+
+"Say my name."
+
+"Ines."
+
+"Ines Duarte." She let that stand. "Rank two. Say it with the rank on it the first time, because in fourteen days I am going to stand up in a room and let a hearing officer put my name on a list, and I would like to hear how it sounds in here before I hear how it sounds in there. You will not have to say it with the rank on it again after tonight and I am not going to ask you to."
+
+He said it. She said nothing and carried on.
+
+She undressed him the way she reads a record, left to right, naming each article as she found it: the shirt collar, the second button, the third, the sleeve, the wrist, the belt, and then each sock, turned down over her finger before it came off. She held the wet shirt up to the lamp and read it the way she reads a page, one sleeve at a time, and said the number of the item she was on out loud twice.
+
+He understood somewhere in the middle of it that she would have run the same order in a cold room with a stranger who had asked her to.
+
+The lamp made the files behind her into a grey wall. The room was small and warm and had four hundred documents in it and none of them was about this.
+
+She took her own clothes off over the back of the chair, not down, and told him what she was doing at each stage, and there was no modesty in it anywhere and there was no hurry either.
 
 "Ask me," she said.
 
@@ -178,15 +200,51 @@ He asked her.
 
 She said yes.
 
-She had him on his back with her hand flat between his shoulder blades and she put her mouth against his ear and told him, without any pleasure in her voice at all, exactly what she was going to do to him and in what order, and then she did it, and he understood somewhere in the middle of it that she had done this before in rooms like this one and had never once been in a room like this one.
+She put a hand behind his neck and tipped his head back against the cabinet and went down onto him without hurrying, with one hand flat on his sternum the whole time she was doing it, pushing him back every time he came up off the wood. Not hard. A correction, the way a clerk puts a finger on a page that has started to turn.
 
-She was exact and she was not gentle and she did not tell him it was all right, not once, and when he got a hand on her she let him have about two seconds of it and then took it away and put both his hands flat on the mattress on either side of her and made him leave them there.
+He got his hands on her hips and she let him keep them there for about four seconds and then moved them, one at a time, and put them flat on the cabinet either side of him where she could see them without turning her head.
+
+"That is the reason for it, and I would like it said before rather than after." She said it into the side of his neck, working at his collarbone with her teeth. "Not because I am frightened of you. Because there is a thing a person can be able to do to another person and not know that they know how, and I have read enough about you to want to be the first person in this city to find out whether it runs both ways."
+
+"Nothing will move on you."
+
+"I know nothing will move on me," said Ines Duarte. "I could tell you how I know and it would take ten minutes and you would not enjoy a word of it, and I have already told you I am not going to improve a sentence tonight. Say the number."
+
+He said the number and she said it back to him and made him say it again, and then she took her mouth off him and told him what she was going to do next in three parts before she did any of it, because that was the order of the room.
+
+She was exact and she was not gentle and she did not tell him it was all right, not once, and when he said her name in the middle of it she said not to waste it and use it when there was something to put on it. He put his hands on her anyway and she allowed both of them for about two seconds and then took them off him and made him hold the edge of the cabinet.
+
+She kept the count going out loud the whole of it, not in minutes, in the things she was doing, and it did not stop once. Somewhere in the middle of the second hour he stopped being able to tell whether the number she was saying out loud was the one she had asked him for or the one that was actually happening.
+
+He understood then that it was the second one, and that she had been saying the first for about an hour to see how long it would take him to notice.
+
+She went back to his mouth after that and used her tongue flat and slow and told him to put his hands where she had put them, and when he said he could not hold on that long she said, "Then you will hold on until I have finished, and then you will not have held on, and neither of us is going to discuss it."
+
+When he came to her again she made him ask for it, and he did, and she said yes in a voice that had gone down at the bottom.
+
+Then she took him off the floor and stood him up on his feet with her hands under his arms and used him there against the cabinet, and told him the number out loud in the same voice in which she would read a schedule to a hearing officer, and made him say her name at the end of it.
 
 "Say it again," she said. "Not to me. Say what you said at the table."
 
-He said it, with her sitting on him, and she made him finish it.
+He said it, with her hand still on the back of his neck, and she made him finish the whole of it.
 
-Then she turned him over and went at the ribs with her thumb, and found the fourth one on the left without looking for it, and put her weight on it, and the sound that came out of him went into the wall of a room with four hundred files in it.
+Then she got him down onto the floor again and put herself up behind him on her knees, one hand flat between his shoulder blades holding him where she wanted him, and when he came the second time she held him there inside her and told him the number again in the same flat voice.
+
+Afterwards she sat back on her heels beside him with her hands in her own lap and did not touch him at all for about two minutes.
+
+"Tell me where it is."
+
+"You know where it is."
+
+"I know where it is," said Ines Duarte. "I have known since about the eighth of last month and I have not gone looking for it once and I am not going to start tonight. You are going to say it to me in your own words, out loud, in this room, and then I am going to put my thumb on it. If you cannot say it, then we are finished and you will not have to explain yourself to anybody."
+
+He took about eleven seconds.
+
+"The fourth one," he said. "On the left."
+
+"Say it again."
+
+He said it again, and it came out steadier the second time, and she put her thumb on the fourth rib on the left, exactly where he had said it would be, and then put her weight on it, and the sound that came out of him went into the wall of a room with four hundred files in it.
 
 "That is the one you have been guarding since the spring," said Ines Duarte. "It is not a habit. You have told a room you know how to stand still and you have told them nothing about that, and you have been carrying it round this city like a plate in your pocket."
 
@@ -194,7 +252,7 @@ She worked it for about forty seconds and he could not speak for any of it.
 
 "It is not the season and it is not the cold and it is not a woman at a rail," she said. "It is a thing a man does to a room for four hours. You have known that since the thirtieth and you have been carrying it round as if it were weather, and the reason you have been carrying it round as if it were weather is that weather is not a decision."
 
-She got up off him and sat on the edge of the couch and reached for her shirt and did not put it on, and put her hand flat on her own knee instead, and looked at the wall for a while.
+She got up off him and sat on the edge of the desk and reached for her shirt and did not put it on, and put her hand flat on her own knee instead, and looked at the wall for a while.
 
 "How long," she said.
 
