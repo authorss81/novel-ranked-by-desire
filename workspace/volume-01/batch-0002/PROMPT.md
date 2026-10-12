@@ -102,6 +102,13 @@ chapter cards into `outline/batches/volume-01-batch-0003.md`. One phase and no o
 ## Do not
 
 - Do not write prose outside Chapters 11–20.
+- Do not do weekday arithmetic. Batch 0001 left four mutually incompatible weekday labels in the prose
+  (Saturday the 11th, Monday the 19th, Thursday the fifth, the fourth of June a Tuesday). The dates
+  are canonical and the weekday names are not. **Count in intervals** — eleven days, nine days, eight
+  days, two days, forty minutes — and speak a weekday only where the world turns on it: Thursday
+  (repaint, readings published) and Monday the 19th (the draw-down opens). Anything else should read
+  *the day before*, *that night*, *the Friday*. Read the calendar warning in `state/continuity.md`
+  before you place a date.
 - Do not name a faction or office `bible/terminology.md` does not define.
 - Do not have anybody coerced, sedated, restrained, or psychically touched as the mechanism for a
   scene. Beatrix's deafness is a *cost*, not an impairment used to produce anything.

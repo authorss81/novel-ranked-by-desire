@@ -28,21 +28,17 @@ Ines Duarte listened to it with her hands flat on the table.
 
 She looked at him for a moment and then said: "Then you have been doing something that cannot be made to work and cannot be stopped, and the instrument that started this city has no reading for it."
 
-"A plate reads a figure and a rate. You have got a figure. A rate is a measurement of *how often you are the one who does it*, and a man who is the one who does it without ever being recorded has no rate in him at all, because the only way to get one would be for him to stop."
+"A plate reads a figure and a rate." She held up two fingers. "You have got a figure. A rate is a measurement of *how often you are the one who does it*, and a man who is the one who does it without ever being recorded has no rate in him at all, because the only way to get one would be for him to stop."
 
-She gestured at him with two fingers.
+"And there are people in this city who can do what you can do, and every one of them has been put in a room with no window. That is not because of what they can do. It is because of what it looks like on a plate."
 
-"And there are people in this city who can do what you can do," she said, "and every one of them has been put in a room with no window. That is not because of what they can do. It is because of what it looks like on a plate."
-
-She gestured at him with two fingers.
-
-"A figure with no rate behind it is a figure the instruments cannot place, and a thing the instruments cannot place is a thing somebody eventually has to write down. You have not even noticed. You have not once in four years let anybody find out what you are. It is the single most disciplined thing I have ever seen in a person who has no idea he is doing it."
+She put her hand flat on the table, level with the folder, and did not touch it. "A figure with no rate behind it is a figure the instruments cannot place, and a thing the instruments cannot place is a thing somebody eventually has to write down. You have not even noticed. You have not once in four years let anybody find out what you are. It is the single most disciplined thing I have ever seen in a person who has no idea he is doing it."
 
 "I have a rule. I don't touch anybody."
 
 "How long has that lasted?"
 
-"Eleven days."
+"Seven days."
 
 She laughed — one syllable, entirely without humour — and shook her head, and then she stopped laughing and put her hand over her mouth, and Lin Hao watched a woman who held fourteen years of other people's paperwork in her head have something come apart in her face very quietly, in a room four feet by nine feet on a street nobody chose.
 
@@ -254,9 +250,9 @@ The room went completely quiet.
 
 "I know."
 
-"You do not know." Ines Duarte was already out of the bed and had her coat on, unbuttoned, and she was reaching for the shelf where the folder was, and she stopped with her hand in the air and turned round. "You know the count. You have not done the multiplication. Two turned out of fourteen is not a scandal. Two turned out of fourteen is a man who has been in a building for nine days."
+"You do not know." Ines Duarte was already out of the bed and had her coat on, unbuttoned, and she was reaching for the shelf where the folder was, and she stopped with her hand in the air and turned round. "You know the count. You have not done the multiplication. Two turned out of fourteen is not a scandal. Two turned out of fourteen is a man who has been in a building for seven days."
 
-"Nine turned out of fourteen is not a supply. It is a *source*, and a source has a location, and a location has an address, and the address has a woman in it who is writing it down."
+"Nine names in a single night is not a supply. It is a *source*, and a source has a location, and a location has an address, and the address has a woman in it who is writing it down."
 
 She went to the shelf.
 

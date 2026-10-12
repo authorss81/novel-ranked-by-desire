@@ -90,7 +90,7 @@ Hester Quill was not cruel. Lin Hao had been ready for her to be cruel and she w
 
 "Fourth Branch. Last Thursday. A stock clerk off the fourth floor."
 
-She looked at him for a moment and then she put her hand flat on the counter, and he understood that she had been waiting all morning for somebody to ask her that, and that she had not been asked once in six days.
+She looked at him for a moment and then she put her hand flat on the counter, and he understood that she had been waiting all morning for somebody to ask her that, and that she had not been asked once in two days.
 
 "Bernt Halse," she said. "Fifty-one. Fourth floor stores, twenty-two years. He came down at ten past ten on the Thursday with an escort and a sealed notice and he was very calm, and he asked me — " She stopped. "He asked me what time it would be finished, and I told him I did not know, and that was honest, and I have thought about it since."
 
@@ -138,11 +138,11 @@ Ines pulled him out of the queue by the sleeve and down the stair and into the s
 
 "I have not done anything."
 
-"You are doing arithmetic with your face and I can see the numbers going past it." She was breathing hard. "You put your hand on four people since Wednesday and one of them was a supply supervisor you wanted a key from. Bernt Halse was taken on Thursday at ten past ten and you were on the second floor with a bucket at ten past ten."
+"You are doing arithmetic with your face and I can see the numbers going past it." She was breathing hard. "You put your hand on three people since Wednesday and one of them was a supply supervisor you wanted a key from. Bernt Halse was taken on Thursday at ten past ten and you were on the second floor with a bucket at ten past ten."
 
 "Whatever you are, you did not do that to him. Say it out loud, because I can see you deciding that you did."
 
-"He was taken on the Thursday," Lin Hao said. "Two hours before I put a hand on Colm Deveraux and got him a thousand grains he did not earn. Two hours." He looked at the wet street. "And I have spent six days trying to work out whether those two facts are in the same sentence, and they are not, and it is not going to stop me at four in the morning for the rest of my life."
+"He was taken on the Thursday at ten past ten in the morning," Lin Hao said. "I put a hand on Colm Deveraux at ten past ten that night, and got him a thousand grains he did not earn. The same clock time, twelve hours apart." He looked at the wet street. "And I have spent two days trying to work out whether those two facts are in the same sentence, and they are not, and it is not going to stop me at four in the morning for the rest of my life."
 
 "Good."
 

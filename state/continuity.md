@@ -52,8 +52,8 @@ colleague, the man who filed instead of donating. Tobias Renn, junior filing cle
   It reports in people, never in acts.
 - No unit other than grains and bands. Not points, not levels, not XP.
 - Rationed constructions, each usable once or twice across the whole book: "nobody asked", "nobody thanked
-  him", "there is no form for this" (three times, escalating), "there is no column for it" (Chapter 2
-  area, then Volume 7 only), "the record remained".
+  him", "there is no form for this" (three times, escalating), "there is no column for it" (Chapter 1
+  only, then Volume 7), "the record remained".
 - After any passage of institutional machinery, one plain sentence about what it means for one named
   person.
 
@@ -84,6 +84,26 @@ audit opens Monday the nineteenth**. All three day-counts in the batch reconcile
   the Colm Deveraux push on the night of the 9th, and twelve hours earlier. Lin Hao says this out
   loud in Chapter 10 and it is the reason he cannot decide whether he did it.
 
+### Calendar warning — read before Batch 0002
+
+**The dates are canonical. The weekday names are not.** Four weekday labels in Chapters 1–10 cannot
+all be true of one calendar: Saturday the 11th (`state/current.md`, Ch 10), Monday the 19th (stated in
+the prose four times and load-bearing — offices are shut, the draw-down *opens*), "Thursday the fifth"
+(Ch 5, Tobias on the reading), and "the fourth of June, which is a Tuesday" (Ch 9). Repaired in place
+for everything the Batch 0001 review flagged; the residue is not rewritten, because changing it would
+ripple through six certified chapters for no reader-visible gain.
+
+What Batch 0002 must do:
+
+- Count in **dates and intervals**, never in weekday arithmetic. Eleven days, nine days, eight days,
+  two days, forty minutes, ten minutes, seven days — those all reconcile. Weekday maths does not.
+- Speak a weekday only where the world turns on it: **Thursday** (Board repaint, readings published)
+  and **Monday the 19th** (the draw-down opens). Every other reference should read "the day before",
+  "that night", "the Friday".
+- The diary still starts **4 June** — that date is used as a fact by Ines and by Ola's question. Do
+  not restate its weekday.
+- Anything that needs a real interval, ask it as an interval.
+
 ## Mechanics now established on the page
 
 - A reading is a **figure plus an interval**. The interval is the rate; the band is calculated from it.
@@ -93,10 +113,10 @@ audit opens Monday the nineteenth**. All three day-counts in the batch reconcile
   **The chain, all four readings on the page: 3,412 (Ch 1) → 3,393 (Ch 3, the 19-grain draw) →
   3,481 (Ch 4, up 88 in two abstinent days) → 3,568 (Ch 5, up 87 in the five days since).
   Total movement Ch 1 to Ch 5 is 156 grains, which is the figure Ines quotes in Chapters 9 and 10.**
-- **Accrual is proximity, not contact.** He fed the account 256 grains in six days of ordinary
-  commuting without touching anybody, because the doors of a tram and a Bureau building are held open
-  by strangers for people who cannot manage them alone.
-- **A draw is contact and only contact, and only relief.** Fourteen grains out of Halvard Rees in
+- **Accrual is proximity, not contact.** He fed the account 88 grains in two abstinent days and 156 in the
+  nine days after, without touching anybody, because the doors of a tram and a Bureau building are held
+  open by strangers for people who cannot manage them alone.
+- **A draw is contact and only contact, and only relief.** Nineteen grains out of Halvard Rees in
   under two seconds; Ines took four months of her sister's staircase in a longer, harder spend.
 - **A wrong-direction spend moves account instead of relief.** Colm Deveraux's Exchange figure rose
   1,001 grains (2,168 to 3,169) in three days while his rate did not move at all. Lin Hao does not

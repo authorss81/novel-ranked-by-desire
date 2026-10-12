@@ -24,7 +24,10 @@ reservoir is requisitioned by the Fourth Branch and he never gets it back**.
 | Nadia | Told the entire Vestry arcade about the cold, including a man from the Church who took notes. |
 | Ola | Forty-one pages of diary, delighted, not frightened, sleeping on the third floor with Nadia. |
 | Colm Deveraux | Frightened, locked out, holding 1,001 grains he did not earn. A non-feeder — nothing will ever move through him. |
-| Bernt Halse | In the sub-level since Thursday the 9th at ten past ten. Ditta on the Vestry benches since six on Friday. |
+| Bernt Halse | In the sub-level since Thursday the 9th at ten past ten **in the morning** — the same clock time as the Colm Deveraux push, twelve hours later. Ditta on the Vestry benches since six on Friday. |
+
+**Before Batch 0002 writes a date:** read the calendar warning in `state/continuity.md`. Count in dates
+and intervals. Speak a weekday only for Thursday (repaint, readings published) and Monday the 19th.
 
 ## What he now knows
 

@@ -54,7 +54,7 @@ That was the thing he understood later, at three in the morning, over and over, 
 
 Colm Deveraux took his hand off Lin Hao's chest and stepped back.
 
-He did not feel cold. He did not feel anything at all. He stood there in his stocking feet with his hand half up, and his face went through three things in about two seconds — surprise, then the particular blankness of a man checking a room for the source of a noise, and then something that Lin Hao recognised instantly because he had watched it arrive on a tram a week before and had not been able to stop it: *a man who cannot account for a thing that has just happened to him.*
+He did not feel cold. He did not feel anything at all. He stood there in his stocking feet with his hand half up, and his face went through three things in about two seconds — surprise, then the particular blankness of a man checking a room for the source of a noise, and then something that Lin Hao recognised instantly because he had watched it arrive on a tram eight days before and had not been able to stop it: *a man who cannot account for a thing that has just happened to him.*
 
 "Did you—" Colm Deveraux said. He stopped. He said, "That's — hold on."
 
@@ -108,9 +108,9 @@ She let go and shook the hand out and laughed at it.
 
 Lin Hao stood on the third-floor landing of the Fourth Branch holding four trays and a key.
 
-He had broken the rule three hours ago, in a green-shaded office, with a man who had not wanted anything. And he had done it on purpose, for a door.
+He had broken the rule in a green-shaded office at ten past ten, on a man who had not wanted anything. And he had done it on purpose, for a door.
 
-And then he had done it again, in under an hour, for no reason at all except that a woman on a step had been tired and he could not stand it, and he had not chosen to, and it had gone out of him the way water goes out of a tilted cup.
+And then he had done it again, forty minutes later, for no reason at all except that a woman on a step had been tired and he could not stand it, and he had not chosen to, and it had gone out of him the way water goes out of a tilted cup.
 
 Down at the goods lift, Nadia Ferrous said, "You all right? You look like a man who's lost a plate."
 
@@ -128,9 +128,9 @@ Two.
 
 The first one was a lift attendant on the far side of the city who had told him she had had three in a week. The second one was a woman in a hat who had made a joke about it.
 
-He stood in the middle of the third-floor landing at half past eight in the morning with the notation behind his eyes and the whole of the building moving around him for the first time in four days, and he understood two things.
+He stood in the middle of the third-floor landing at half past eight in the morning with the notation behind his eyes and the whole of the building moving around him for the first time in seven days, and he understood two things.
 
-The first was that he had no rule left. He had made a rule on the Thursday and he had broken it on the Friday for a door, and he had broken it again four minutes later for nothing, and there was no third version of the rule, because the only rule that had ever worked was the one that said *do not touch anybody*, and he had known since Wednesday that he could not hold that for a week, and he had been right.
+The first was that he had no rule left. He had made a rule on the Thursday morning and he had broken it that same night for a door, and he had broken it again forty minutes later for nothing, and there was no third version of the rule, because the only rule that had ever worked was the one that said *do not touch anybody*, and he had known since Wednesday that he could not hold that for a week, and he had been right.
 
 The second was worse.
 

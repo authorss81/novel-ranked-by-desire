@@ -70,7 +70,7 @@ He came down off the pillow of his own arms.
 
 "Is anybody at this branch going to be in trouble."
 
-"Everybody at this branch is going to be re-read. There's a difference and you'll find it out on the nineteenth." He picked up his pen and then put it down again, because he could tell from across the bench that Lin Hao was not going anywhere, and there is nothing a junior filing clerk wants more on a Wednesday morning than a conversation with somebody who cannot get out of it. "You're frightened. Why are you frightened, you've got four grains a week and a sink to clean. Your account's four thousand and you haven't done anything wrong in four years."
+"Everybody at this branch is going to be re-read. There's a difference and you'll find it out on the nineteenth." He picked up his pen and then put it down again, because he could tell from across the bench that Lin Hao was not going anywhere, and there is nothing a junior filing clerk wants more on a Wednesday morning than a conversation with somebody who cannot get out of it. "You're frightened. Why are you frightened, you've got four thousand grains a week and a sink to clean, and you haven't done anything wrong in four years."
 
 "No."
 
@@ -91,10 +91,6 @@ He looked at Lin Hao with the frank, uncomplicated enjoyment of a man who has fo
 "So they'll take it."
 
 "They'll want it classified first. There's a process. Everything's got a process." Tobias Renn turned back to his tray. "Attendant, you're holding up the queue, and the queue is the whole of what I do."
-
-"Is anybody at this branch going to be in trouble."
-
-"Everybody at this branch is going to be re-read. There's a difference and you'll find it out on the nineteenth." He picked up his pen and then put it down again, because he could tell from across the bench that Lin Hao was not going anywhere, and there is nothing a junior filing clerk wants more on a Wednesday morning than a conversation with somebody who cannot get out of it. "You're frightened. Why are you frightened, you've got four thousand grains a week and a sink to clean, and you haven't done anything wrong in four years."
 
 On the fourth floor a man called Bernt Halse — twenty-two years in the branch's stores, a plate of his own with a reader's thumbprint worn into the face of it — was putting away carbon, and would be told on Thursday that his account had not settled, and has not been told yet, and does not know.
 
