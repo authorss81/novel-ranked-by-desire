@@ -1,357 +1,336 @@
 # Open Threads
 
-## Volume 5, Batch 0001 — CLOSE RECORD (Chapters 201–210). THE AUDITOR'S PRICE OPENS.
+## Volume 5, Batch 0002 — CLOSE RECORD (Chapters 211–220). THE ENFORCER.
 
-**Written after the drafting pass. Volume 5 opens here, at Chapter 201 on the twenty-first of May, and
-runs ten chapters to the thirtieth, one a day, no shared dates and no gaps. This block is the only
-gate block in this file; Volume 4 Batch 0005's has been moved, with 0001 to 0003's, into
-`state/archive/open-threads-v1-v4-batch-gates.md`. It supersedes every block below it on every point it
-touches.**
+**Ten chapters, one a day from the first to the tenth of June. Chapter 214 is Petra Ilyin's first scene,
+it is immovable, and it is Volume 5's second of five. Volume 5 Batch 0001's gate block has been moved,
+with Volume 4's, into `state/archive/open-threads-v1-v4-batch-gates.md`, so that this file carries ONE
+gate block and it is Batch 0002 of Volume 5's. This block supersedes every block below it on every point
+it touches.**
 
-### THE VOLUME'S ANCHOR, AND HOW JUNE WAS DERIVED
+### THE ANCHOR, AND THE JUNE DERIVATION AS THE PAGE NOW STANDS
 
-**The certificate is dated the twenty-seventh of June and it did not move. Volume 5 Batch 0001 is the
-twenty-first to the thirtieth of May and the certificate cannot arrive inside it.** Thirty-seven days
-separate the twentieth of May from the twenty-seventh of June, twenty-seven of them are this batch, and
-the last of them is Chapter 210.
+**The certificate is dated the twenty-seventh of June and it did not move. Batch 0002 is the first to the
+tenth of June and the certificate is seventeen days out at the last chapter of this batch. It cannot
+arrive here and it does not.**
 
-**The derivation of June is printed on the page at Ch 201, in his mouth, with the subtraction attached,
-and it is built from three things that are already canon and not one of them is new:**
-
-1. **Chapter 181's printed card** reads MAY. THIRD. TENTH. SEVENTEENTH. TWENTY-FOURTH. AND THE SEVENTH
-   OF NEXT MONTH. **So May's 24th is a Thursday**, and the men paint at nine on a Thursday.
-2. **Chapter 181 also prints, in the same passage, that this month has thirty days**, because the
-   twenty-fourth plus seven is the thirty-first and the card does not print a day that does not exist.
-   **Ch 190's certificate arithmetic depends on the same thirty: 3 + 30 + 27 = 60.** Both are canon.
-3. Therefore: **the 24th is a Thursday, so the 25th is a Friday, the 26th a Saturday, the 27th a Sunday,
-   the 28th a Monday, the 29th a Tuesday, the 30th a Wednesday, and the first of next month a Thursday.**
+The derivation is Batch 0001's and it is unchanged: **Ch 181's card gives May's Thursdays as the 3rd,
+10th, 17th and 24th; May has thirty days from Ch 181 and from Ch 190's 3 + 30 + 27 = 60; therefore the
+24th is a Thursday, the 30th a Wednesday, and the first of next month a Thursday.**
 
 > **JUNE'S THURSDAYS ARE THE FIRST, THE EIGHTH, THE FIFTEENTH, THE TWENTY-SECOND AND THE TWENTY-NINTH.
-> THE THIRTIETH OF JUNE IS A WEDNESDAY AND THE TWENTY-SEVENTH OF JUNE IS A TUESDAY.**
+> JUNE'S WEEKDAYS, PRINTED HERE BECAUSE NO GATE WILL CHECK THEM AGAINST THE PAGE:**
+> **1 Thu · 2 Fri · 3 Sat · 4 Sun · 5 Mon · 6 Tue · 7 Wed · 8 Thu · 9 Fri · 10 Sat · 11 Sun · 12 Mon ·
+> 13 Tue · 14 Wed · 15 Thu · 16 Fri · 17 Sat · 18 Sun · 19 Mon · 20 Tue · 21 Wed · 22 Thu · 23 Fri ·
+> 24 Sat · 25 Sun · 26 Mon · 27 Tue · 28 Wed · 29 Thu · 30 Wed.**
 
-**MAY'S WEEKDAYS, PRINTED HERE BECAUSE NO GATE WILL CHECK THEM AGAINST THE PAGE:**
-**21 Mon · 22 Tue · 23 Wed · 24 Thu · 25 Fri · 26 Sat · 27 Sun · 28 Mon · 29 Tue · 30 Wed.**
-**The 24th is the ONLY repaint in this batch and it is the only Thursday in it, and the men are not due
-on the Reading wall again until the first of June, which is Chapter 211 in Batch 0002 and the day the
-card turns over.**
+**Only two dates in this batch are Thursdays and only two chapters use the word: 211, which is the first
+and the day the May card turned over, and 218, which is the eighth. The word Thursday appears five times
+in the batch, twice at 211 and three times at 218, and all five are the card or the calendar. No chapter
+names any other weekday.**
 
-**The May card's last line is wrong by six days and Chapter 201 says so out loud.** It reads AND THE
-SEVENTH OF NEXT MONTH, and the seventh of next month is not a Thursday under any reading of a month
-that has thirty days and whose twenty-fourth is one. **Ch 201 and Ch 202 both fix it on the page: the
-line is the one that tells the men when to come back, the card turns over before they do, and it has
-never once been read by a living man.** This is a reconciliation, not a contradiction: Ch 181 and Ch
-190 both quote the card's last line and neither of them asserts that it is correct, and Ch 181's
-derivation of the month's length rests on the *fourth* entry, which is the twenty-fourth.
+**The May card's last line was out by six and Chapter 201 says so out loud. Chapter 211 pays that off:
+the June card reads JUNE. FIRST. EIGHTH. FIFTEENTH. TWENTY-SECOND. TWENTY-NINTH. AND THE FIRST OF NEXT
+MONTH, and it is right, because the twenty-ninth is the last Thursday in a month of thirty days and the
+Thursday after the twenty-ninth is the first of the month following. The difference between the two
+cards is that one person in this city has now read the last line, and a chapter says so.** This is an
+advance, not a contradiction: Ch 181 derives the month's length from its fourth entry and never asserts
+that the fifth is correct.
 
-**CHAPTER 191'S PRINTED PREMISE IS NOW REPAIRED AT SOURCE AND BOTH HALVES ARE TRUE.**
-Chapter 191 used to say the twenty-seventh of June **is not a working day** and therefore the schedule goes up on
-the twenty-sixth. **Under the derivation above the twenty-seventh is a Tuesday and the twenty-sixth is
-a Monday, and both are working days.** The derivation is fixed by three canon facts and cannot give, so
-the sentence was repaired rather than the calendar. **Ch 191 now states the institutional reason in
-Doyle's mouth: the Office does not sit on the twenty-seventh of a month, and there is nothing about it
-on a card. Chapter 201 prints the same reason in his mouth in the landing.** **The two chapters now
-agree, and the weekday appears as the reason nowhere in the book. The reason is institutional and not
-calendrical and it is canon. A later batch that has to explain why the schedule goes up on the
-twenty-sixth must use it and must not use the weekday.** The date does not move. **Repair made
-2026-10-12 in the Volume 4 Batch 0005 verification pass; before that, the correction lived only in
-Ch 201 and Ch 191 was left carrying a false reason.**
+**CHAPTER 191's PRINTED PREMISE IS CANON AND IS NOT RESTATED AS A RULE.** The Office does not sit on
+the twenty-seventh of a month. **Ch 215 states the reason once, in Marguerite Vale's mouth, because the
+sixth of June is the day the schedule's consequences begin to be counted. Ch 219 needs the two dates and
+deliberately prints them with no reason at all**, per the standing instruction. The date does not move.
 
-### Day map (M+5, thirty days, Thursdays the 3rd, 10th, 17th and 24th)
+### Day map (first to tenth of June, one chapter a day)
 
-201 the 21st, the card, the derivation, and a paper with his name on it · 202 the 22nd, the card's last
-line out by six, and **the third caller** · 203 the 23rd, the caller again, four questions, and the one
-only Ines Duarte can answer · 204 the 24th, **a Thursday and the only repaint in the batch, which
-nobody is at**, and Marguerite Vale's quarterly return · 205 the 25th, **Ines Duarte's scene, and it is
-immovable** · 206 the 26th, Runa Sato's division, and a document that has been produced and cannot be
-un-produced · 207 the 27th, Tessa Okonkwo's arithmetic, and what a certificate is for · 208 the 28th,
-**the decision** · 209 the 29th, the seventh row, in pencil, in her own hand · 210 the 30th, **filed at
-half past two on the last working day of the month.**
+211 the 1st, **a Thursday and the day the card turns over**, the painters, and the Vant's monthly call ·
+212 the 2nd, **the angry chapter**, Marguerite's rooms, the price of the book, and the account at last
+named · 213 the 3rd, **a district officer on the landing at ten past seven**, the seventh row read at
+close quarters, and a woman in a doorway · 214 the 4th, **PETRA ILYIN'S SCENE, immovable** · 215 the
+5th, the oath released on the fourth and the morning after, and a deadline that turns out to be the
+tenth · 216 the 6th, **Beatrix Halm**, the notebook, and the first thing anyone has asked her for ·
+217 the 7th, **the summons, the landing, and the batch's irreversible decision** · 218 the 8th, **a
+Thursday**, a man at the Branch, a hearing adjourned in Cordwain, and the board at the side of the
+Reading wall · 219 the 9th, **Ines Duarte**, a notice of production, and the only complete version of
+the record · 220 the 10th, the deadline met, the coat, a hundred and thirty-two dockets, and the twelfth.
 
-**Countdowns printed, one series, unbroken out of Batch 0005's 23/37, and each carrying its subtraction
-in the chapter that prints it: 24/36 (201) · 25/35 (202) · 28/32 (202, Sun Meiling, quoting the
-twenty-fifth) · 31/29 (208) · 32/28 (209) · 33/27 (210).** Days elapsed from the twenty-seventh of
-April, sixty less that. **Chapters 203 to 207 print no countdown and that is a choice, not a gap.**
+**Countdowns printed, one series, unbroken out of Batch 0001's 33/27: 36/24 (213) · 38/22 (215) ·
+40/20 (217) · 42/18 is NOT printed. Chapters 211, 212, 214, 216, 218, 219 and 220 print no countdown
+and that is a choice, not a gap.** Days elapsed from the return of the twenty-seventh of April, sixty
+less that: **3 (rest of April) + 30 (May) = 33 on the thirtieth, + 1 = 34 on the first of June, so 34/26
+(211), 35/25 (212), 36/24 (213), 37/23 (214), 38/22 (215), 39/21 (216), 40/20 (217), 41/19 (218),
+42/18 (219), 43/17 (220).**
 
-### What this batch spent that Volume 4 was holding
+### What this batch spent that Batch 0001 was holding
 
-1. **THE BATCH'S INSTRUMENT: THE DECLARATION OF MEMBERSHIP IN A STANDING HOUSEHOLD** (Ch 201). One
-   side, cream weight, a form number, the premises and **the head's name filled in in the Office's type
-   before he ever saw it**. Three questions per member — standing held, instrument evidencing it, and
-   whether the person holds any office, standing or entitlement in a body corporate, guild, exchange
-   or office of this city — a count of persons of reading age keeping an address at the premises, and a
-   printed line at the foot in a size made to be skipped: **WHERE THE HEAD'S CERTIFICATE DOES NOT AGREE
-   WITH THE SCHEDULE OF RECORD, THE HEAD SHALL STATE THE FIGURE HE CERTIFIES AND THE REASON, AND THE
-   SCHEDULE OF RECORD STANDS.** **Returnable at the counter named on the reverse on or before the last
-   working day of this month**, which is the thirtieth, because there is no thirty-first. **It is the
-   first paper in four years to reach him by writing to him first, and Doyle told him on the nineteenth
-   of May that this would happen.**
-2. **THE PRICE OF THE STANDING IS READ BY SOMEBODY ELSE AT LAST (Ch 204).** The Vant's quarterly return
-   goes in at the north desk of the Exchange on the twenty-fourth, item one: a standing household at
-   Ferrier Street, members six, entered against the broker of record and not against the head of it, the
-   head's name typed in **Marguerite Vale's own dictation**, and the holder entered as **THE HOLDER OF
-   THIS BOOK ON THE ANNUAL SITTING, WHOEVER THAT IS** — because the second line passes the examination
-   on death, resignation or replacement and there is no way on that form to name a woman who does not
-   exist yet. **She has entered a private arrangement into a public return and priced herself out of her
-   own succession, and she says the number out loud on the step outside and it is four years.**
-3. **THE CALLER IS A PERSON AND THE COST LANDS ON INES DUARTE (Ch 202, 203).** **Marit Kolb**, district
-   officer, nineteen years, a card, four columns and no form for anything else. Third caller of the
-   month after the district clerk of the tenth and the man with the folded sheet of the eleventh. The
-   room will not answer her third question and the only person in the house who can answer it correctly
-   is the woman it is about. **Ines writes her own name, rank two and the word that says what she is on
-   a district card in her own hand, in four seconds, and the card goes into her own division's intake,
-   which raised those premises on the twenty-first and has a rule that says an officer is not told.**
-4. **INES DUARTE AS THE READER AND THE SUBJECT (Ch 205).** She reads the whole of the household's record
-   out loud on her own floor on Lantern Row — twelve instruments across eleven dates — and finds the
-   one thing her gift finds: **her division raised the premises on the twenty-first and she is the
-   auditor of record on it.** And then she reads her own line on page two, where the instrument column
-   is empty, because the member form with her name in the corner has been lying face down in a drawer
-   at Ferrier Street since the fifteenth of May. **She does not say why. She has said *it is not about
-   this house* and that is all she says, and no character asks her, and her review does not move.**
-5. **SUN MEILING FILLS THE SEVENTH ROW HERSELF, ON THE NINETEENTH (Ch 209)**, in pencil, in her own
-   hand, dated, with three lines under it: **I ASKED FOR THIS ROW AND I FILLED IT AND IT IS MINE BY
-   ASKING.** She does it a day before he certifies and it is her reason for taking it back off herself.
-   **The light on the landing still stops about two inches above the seventh row, and there is a name in
-   the two inches of dark under it, and a district clerk will have to come closer to read it.**
-6. **THE BATCH'S OTHER COSTS.** Runa Sato's correction was called for by an audit intake on the
-   twenty-first and produced on the twenty-second and **it is a copy on a district sheet she cannot see
-   and cannot get back** · **a broker's book now carries an open-ended security with no named holder and
-   the woman who takes it in four years inherits six women** · **the load-bearing chain of the household
-   is bottom to top: a book, an examination, a broker, a rank two, a head with a plate, six members** ·
-   **a standing household's certificate makes the household visible, and the Vestry clinic has been
-   unfunded for nine years on the ground that it has never once been entered anywhere, and Tessa Okonkwo
-   says both sentences out loud on the same morning.**
+1. **THE VANT'S MONTHLY CALL ON A SECURITY (Ch 211).** A broker of record who has entered a security
+   against a household must produce, on the first of every month, a copy of the roll of the persons
+   answerable under it. **The roll kept at premises is not an instrument and has no force, so the call
+   can only be answered by a copy, and a copy is worth what it agrees with — which is what Sun Meiling's
+   pencil bought.** **Hanne Voog**, assessment, nineteen years, copies six names and a head off a
+   landing on the sixth of June in ink, and values the security, and says the number out loud on a
+   landing because she is frightened of saying it in a room. **The household is now a document three
+   kinds of person can ask for** — a district, a guild and a Bureau — **and two of them did not exist
+   in the book a month ago.**
+2. **THE READERS AND WHAT A ROLL THAT AGREES WITH A SWORN ANSWER IS (Ch 213).** Marit Kolb comes at ten
+   past seven on the third, which is the exact night Ch 210 named, and reads the seventh row at about
+   four inches because the stair window is eleven feet off the landing at that hour and she does not ask
+   anybody to hold a lamp. She records six names and nil spaces. She asks the premises question twice
+   and the room does not answer twice, and she writes six and leaves the rest of the line blank, which
+   she has never done in nineteen years. **Her fourth question is hers and not the district's: a roll
+   that says exactly what a head's sworn declaration says is a copy, and a copy can be produced out of
+   the file without anybody walking up sixty-one steps.**
+3. **AN OFFICER OF THE GUILD HAS BEEN INSIDE THE HOUSE FOR ELEVEN YEARS (Ch 214, 215, 220).**
+   **Petra Ilyin**, guild enforcer, comes up sixty-one steps of the Exchange at four on the fourth of
+   June and has been in a collecting room since eleven that morning because her body will not let her be
+   the first one out of a room. **An oath of holding was sworn to Marguerite Vale eleven years ago
+   against an account entered against the broker of record in the year the Veil broke; it was carried
+   nineteen years on money that stopped coming and eleven years on a woman; and there is no instrument in
+   the guild for putting a woman back.** **Marguerite releases it in the chained real book on the fourth
+   at about five in the afternoon, in eleven seconds, with the pen chained to her wrist.** The account
+   comes off the dead list and is now live and unsecured. **The household has had an officer inside an
+   obligation it could not see for eleven years and the man who certified it on the thirtieth of May did
+   not know, and that is the movement's whole subject.**
+4. **THE 132 DOCKETS (Ch 220).** One a month for eleven years, folded twice, in a coat pocket on a peg,
+   every one of them bearing a production mark in Marguerite Vale's own hand on the second of the month
+   at four seconds apiece. **She received them and marked them and never once asked who was producing
+   them, and Petra could not have been asked, because the answer was that a broker receives production
+   from an officer.** **And the twelfth is dated the first of July and was in the coat pocket at nine
+   o'clock on the morning of the tenth, three weeks early, addressed to Ferrier Street, for a household
+   with a lodged standing.** Somebody inside the Vant has already written the paper for the day the
+   plate stops answering for it.
+5. **THE BATCH'S IRREVERSIBLE DECISION IS CH 217 AND IT IS HIS, AND IT IS THE FIRST TIME HE HAS SPENT
+   ANYTHING.** A summons, four days early, on the seventh. **A standing may be lodged against a
+   broker's account on the second form at the Exchange, and a standing so lodged is released with the
+   book and not by the person who lodged it, and it may be called by the holder of the book at any
+   valuation.** **He lodges the plate: 8,138, floor 8,141, tolerance three, five years unmoved and
+   nothing ever spent out of it.** It goes into a chained book at a desk on the ground floor of the
+   Exchange at twenty to four on the seventh, in a broker's dictation, into a public quarterly return at
+   the next lodgement, **and it cannot be withdrawn between the lodging and the next valuation on the
+   first of July.** **The option that closes is the one he has been living inside for five volumes:
+   that he is the person in the room who is not standing on anything.**
+6. **WHAT IT COST, AND THE COST IS NOT REFUNDABLE.** **Lode**, a cleaner on the second floor of the
+   Fourth Branch, has the whole of it on the landing by seven on the eighth and says it kindly.
+   **Beatrix Halm's fifth rating hearing, granted in writing in March and carried in a coat since, is
+   adjourned at nine-fifty on the eighth of June because a called standing cannot be drawn against, and
+   a claim supported by the encumbered standing of a household cannot be heard** — twenty-three days,
+   to the first of July, and then she will be heard by a panel and asked what a signal operator who
+   cannot hear in one ear is doing in a cab. **And the certificate, if it issues on the twenty-seventh,
+   will issue upon a standing a stranger can call.**
+7. **THE BOARD AT THE SIDE OF THE READING WALL (Ch 211, 218).** The wall is where the ranks go. The
+   board beside it is eleven feet long and is painted once a month **on the first, before the figures
+   go up at ten, by a different crew**, and it carries the standing households: number, standing,
+   schedule date. **34-6-118 went onto it at about a quarter to ten on the morning of the first of June,
+   seven days before anybody in that house went and looked**, because he was on a landing at eleven with
+   a woman copying a roll. **The board says the schedule's date and not the certificate's, and it will
+   paint the same four words on the first of next month.**
 
 ### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
 
 **Every row was checked by hand against the chapter that prints its anchor, per adjudicated item 62,
 and the anchor-character question — what does the anchor character actually do on that date — is
-answered in the row. Six real errors were found by this pass and all six are fixed on the page.**
+answered in the row. Twelve real errors were found in the drafting pass and all twelve are fixed.**
 
-| Chapter | Figure | Anchor | Subtraction, and what the anchor character does on that date |
+| Chapter | Figure | Anchor | Subtraction, and what the anchor character actually does on that date |
 | --- | --- | --- | --- |
-| 201 | **twenty-four of the sixty gone, thirty-six left** | the return of the twenty-seventh of April; Ch 200 printed 23/37 on the twentieth | **27 Apr → 21 May = 3 + 21 = 24, and 60 − 24 = 36.** Correct, one day on from 200 |
-| 201 | **nine days** to the declaration | the last working day of the month is the thirtieth | **21 → 30 = 9.** Correct, and the chapter says *nine days* |
-| 201 | **June's Thursdays are the first, the eighth, the fifteenth, the twenty-second and the twenty-ninth** | Ch 181's card: the twenty-fourth is a Thursday, and the month has thirty days | **24 Thu → 30 Wed → June 1 Thu, then +7 four times.** Correct and printed in his mouth |
-| 201 | **the card's last line is out by six** | the card's fourth entry is the twenty-fourth | **24 + 7 = 31, which is the first of next month, not the seventh.** Six days out. Correct |
-| 202 | **twenty-five of the sixty gone, thirty-five left** | 201's 24/36 | **22 May = 25 elapsed, 35 left.** Correct, one day on |
-| 202 | **twenty-eight gone and thirty-two left, that is the twenty-fifth** | the same series | **25 May = 28 elapsed, 32 left.** **THE FIRST PASS PRINTED *TWENTY-NINE GONE AND THIRTY-ONE LEFT*, WHICH IS THE FIGURE FOR THE TWENTY-SIXTH. Corrected.** Sun Meiling is counting forward three days, and the anchor is his own 25/35 on the twenty-second |
-| 202 | **twenty days** since the roll became five names and two spaces | Ines Duarte struck the sixth row on the second of this month | **2 → 22 = 20.** **THE FIRST PASS SAID *TWELVE DAYS*. Corrected** |
-| 202 | **no repaint due on that wall for another two days** | the twenty-fourth is the last Thursday in May | **22 → 24 = 2.** Correct, and the next is the first of June |
-| 203 | **the caller is the third** | the district clerk on the tenth, the man with the folded sheet on the eleventh | **3 callers.** **THE FIRST PASS SAID *THE FOURTH*, WITH A CALLER ON THE SECOND OF THE MONTH WHO IS NOT IN CANON. Corrected in three places** |
-| 203 | **the card is read back in her own division two days after the twenty-third** | the declaration was raised on the twenty-first and the card went at the end of the week | **23 → 25.** The chapter does not name the date; it says the card goes *up a floor* and *from there down a division* |
-| 204 | **the return went in six days before she had to** | the last working day of the month is the thirtieth | **24 → 30 = 6.** **REPAIRED IN REVIEW: the first pass printed *two days*, and the chapter had also built its whole quiet-desk premise on the twenty-fourth being the last day of a week, which under this batch's own derivation is a Thursday.** Both are fixed: a return is due on the last working day, every broker lodges on that day, and one that lodges early has the north desk to itself |
-| 204 | **the examination is the first security entered against the broker in nine years** | Ch 198, the Vant's entry of the seventeenth of May | Nine years is her own figure and it is her characterisation, not a trace |
-| 204 | **the holder of the book at the annual sitting** | Ch 198's second line: on death, resignation or replacement | Four years is her figure and she has held it since the seventeenth. **Ch 206 has Ines Duarte challenge the four against nine, and Ines does not say which is right** |
-| 205 | **twelve instruments across eleven dates** | the composition return of the twenty-second of March to the declaration of the twenty-first | Counted on the page in the chapter that lays them out. Correct |
-| 205 | **the card was read back to her the next morning** | the card went down the sixty-one steps on the evening of the twenty-third and into an intake at the end of that week | **The scene is the night of the twenty-fifth and the chapter now prints no date for it.** **REPAIRED IN REVIEW: the first pass printed *the twenty-seventh*, which is two days after the scene and in a past tense for an event that had not happened.** |
-| 205 | **the tenth and the eleventh, and one of them is wrong** | Ch 202 stages the tenth's clerk reading five names and two spaces and the eleventh's man reading six names and one space, and says the second of them read a rule as though the line were not there | **REPAIRED IN REVIEW: the first pass printed *the twentieth* and *both true, ten days apart*, which contradicted Ch 202 on the date, declared a miscount correct, and gave a cause that predated the earlier card.** The chapter now names the eleventh, says it is the wrong one, and puts the cause on the second of May, eight days before either caller came |
-| 205 | **the sixth line up from the foot of page two** | the schedule of the fourth of May, six members numbered | Traced in-scene, and the chapter does not assign a number to her line |
-| 206 | **called for on the twenty-first, produced on the twenty-second, returned on the twenty-third** | the declaration was raised on the twenty-first | In-scene, three dates inside one scene. Correct |
-| 206 | **four years and nine years** | the annual sitting | **They are two characters' estimates of the same interval and the chapter says so.** Not a trace, and the disagreement is the point |
-| 207 | **fifty-three days from the fourth of May to a certificate** | the schedule of the fourth, the certificate dated the twenty-seventh of June | **4 May → 30 May = 26 days in a thirty-day May, then 27 days of June = 53.** **REPAIRED IN REVIEW: the first pass printed *eleven months*, twice, for an interval of eight weeks, and the gate record had marked it correct.** Printed by the clinician as a rule, which is why it had to be right |
-| 207 | **eleven families in six years** | Tessa Okonkwo's own count | In her mouth, and it is a new figure registered as such |
-| 207 | **a month of this year versus nine years of the clinic** | the clinic unfunded since Volume 1 | Characterisation. Correct |
-| 208 | **thirty-one of the sixty gone, twenty-nine left** | 202's 25/35 | **28 May = 31 elapsed, 29 left.** **THE FIRST PASS SAID *THIRTY-TWO AND TWENTY-EIGHT*, WHICH IS THE FIGURE FOR THE TWENTY-NINTH. Corrected** |
-| 208 | **two days of intake left** | the last working day is the thirtieth | **28 → 30 = 2.** **THE FIRST PASS SAID *THREE*. Corrected** |
-| 208 | **a week to do it** | the declaration arrived on the twenty-first | **21 → 28 = 7.** **THE FIRST PASS SAID *TWO DAYS*. Corrected** |
-| 209 | **thirty-two of the sixty gone, twenty-eight left, one day of intake** | 208's 31/29 | **29 May = 32 elapsed, 28 left, and the last working day is tomorrow.** **THE FIRST PASS SAID *THIRTY-THREE AND TWENTY-SEVEN*, WHICH IS THE THIRTIETH'S FIGURE. Corrected** |
-| 209 | **the men were on the wall five days ago** | the twenty-fourth is the only Thursday in the batch | **24 → 29 = 5.** Correct, and the first pass had the repaint on the twenty-ninth, which is a Tuesday |
-| 210 | **thirty-three of the sixty gone, twenty-seven left, twenty-seven days to a certificate** | 209's 32/28 | **30 May = 33 elapsed, 27 left, and May 30 → June 27 = 27 days with no thirty-first in between.** Correct on both counts. **THE FIRST PASS SAID *THIRTY-FOUR AND TWENTY-SIX*. Corrected** |
-| 210 | **half past two, queue from ten past three, counter shuts at four** | the last working day of the month | In-scene, and the last working day is the thirtieth because there is no thirty-first |
-| 210 | **thirty-four of six one one eight** | the household's own number on the receipt | **It is a household number, not a date, and it begins 34 by nothing.** The gate crew must not read the 34 as a countdown: **the countdown in that chapter is 33/27 and it is spoken by Sun Meiling eleven lines earlier.** Registered because a reader will do it |
+| 211 | **the card turns over, and the last line is right this month** | the June Thursdays are the 1st, 8th, 15th, 22nd and 29th | **29 Thu → 30 Wed → 1 of next month Thu.** Correct and derived in his mouth. The May card said the seventh of next month and was six days out; Ch 201 says so and Ch 211 pays it |
+| 211 | **the men were on the wall eight days after they had last been on it** | the last Thursday in May is the twenty-fourth | **24 May → 1 June = 8.** Correct. **THE FIRST PASS PRINTED *FOUR*, WHICH IS A DATE IN NOVEMBER.** Fixed |
+| 211 | **a woman copied the wall on the sixth of the month and the month book is read on the fourth** | the monthly call is on the first; the copy is inked the same morning | In-scene. The copy is made on the first and the month book is read on the fourth, three days later |
+| 211 | **the June card prints the first of next month** | the last Thursday of the month is the twenty-ninth | Correct, and it is the same subtraction as the row above |
+| 212 | **the account is thirty years old; the security is eleven years** | the Veil broke over Ostara twenty years ago | **30 > 20, so the account predates the Veil and is named as being entered in the year it broke.** The *security* is the younger of the two. **THE FIRST PASS MADE THE FIRST DOCKET DATED IN THE YEAR OF THE VEI AND ALSO GAVE ELEVEN MONTHLY DOCKETS; BOTH WERE WRONG AND BOTH ARE FIXED** — see 220 below |
+| 213 | **a district officer at ten past seven on the third** | Ch 210's *in four days* from the thirtieth of May | **30 May + 4 = 3 June.** Exact. **The night Ch 210 named, to the hour, and it is the only thing in this batch that pays a prediction made two chapters earlier** |
+| 213 | **thirty-six of the sixty gone, twenty-four left** | Batch 0001 closed at 33/27 on the thirtieth of May | **3 June = 3 + 30 + 3 = 36, and 60 − 36 = 24.** Correct, three days on |
+| 213 | **the light on that landing has done the same thing since the thirtieth of April** | Ch 209 and Ch 210 | Canon quotation, not a trace |
+| 213 | **twelve steps off sixty-one, twice** | Kolb stopped at the twelfth on the twenty-second of May (Ch 203) | In-scene, both times, and the chapter says so |
+| 214 | **she had been in the room since about eleven that morning** | the scene is at four on the fourth | In-scene |
+| 214 | **the oath was released in about eleven seconds** | in-scene, and she does not stop to check it | In-scene. The number is a duration and it is not a date |
+| 214 | **four days** for a certificate | the certificate is the twenty-seventh of June | **THE FIRST PASS PUT HER AT A CERTIFICATE COUNTER *IN ABOUT FOUR DAYS*, WHICH IS THE EIGHTH OF JUNE, TWENTY-NINE DAYS FROM THE TWENTY-SEVENTH.** Fixed to *before the end of next month* |
+| 215 | **thirty-eight of the sixty gone, twenty-two left, twenty-two days to a certificate** | Batch 0001's 33/27 on the thirtieth | **5 June = 3 + 30 + 5 = 38, and 5 → 27 June = 22.** Correct on both |
+| 215 | **it came off the dead list on the fourth at about five o'clock in the afternoon** | Ch 214, in-scene, the release | Correct, and the chapter dates it from the chapter that stages it |
+| 215 | **the demand is dated the tenth and it is three days away** | the account came off the list on the fourth | **7 → 10.** The chapter says *three* and Ch 215 is the fifth, so what is three days away is the seventh, which is what Runa says |
+| 215 | **the Office does not sit on the twenty-seventh of a month** | Ch 191 as repaired, and Ch 201 | Canon. The institutional reason, stated once in this batch, and **not** the weekday |
+| 216 | **it started on the first and has happened every day since** | the sixth is today | 1 → 6 inclusive, five days. Correct |
+| 216 | **nine people, five days running, and a sixth day coming tomorrow** | the same | **THE FIRST PASS PRINTED *FOUR DAYS* AND *A FIFTH DAY COMING TOMORROW*, WHICH PUTS HER A DAY BEHIND HER OWN NOTEBOOK.** Fixed at both ends and at Ch 217 |
+| 216 | **on the second I felt nine and did not say so until the sixth; that is four days** | the second of June to the sixth | **2 → 6 = 4.** Correct |
+| 216 | **Hanne Voog came up the steps on the sixth at about eleven** | Ch 211 is the first, and this is Beatrix on a tram at Cordwain at the time | Correct, and the two chapters agree |
+| 217 | **six days of nine and then one** | 216's five days to the sixth, plus the sixth | **THE FIRST PASS PRINTED *FIVE DAYS OF NINE AND THEN ONE*, WHICH IS ONE SHORT** — she is reading on the seventh and the sixth is hers. Fixed |
+| 217 | **Ortwin Halb's summons is four days early, counted from the fourth** | the account came off the dead list on the fourth; the demand is dated the tenth | **4 → 7 = 3, and 4 → 10 = 6.** **THE FIRST PASS PRINTED *TWO DAYS EARLY* AND ATTACHED IT TO *THE SECOND OF JULY*, WHICH IS TWENTY-FIVE DAYS OUT AND IS NOT WHAT A SUMMONS IS.** Fixed to four days from the fourth |
+| 217 | **forty of the sixty gone, twenty are left** | Batch 0001's 33/27 | **7 June = 3 + 30 + 7 = 40.** Correct |
+| 217 | **before four this afternoon** | the desk shuts at four and he says the figure at about ten | **THE FIRST PASS PRINTED *IN ABOUT TWO HOURS*, WHICH PUTS IT AT NOON.** Fixed |
+| 217 | **the next lodgement is the last working day of next month** | a quarterly return is due on the last working day and this month's went in early on the twenty-fourth | **THIS MONTH'S RETURN WAS LODGED ON THE TWENTY-FOURTH (Ch 204) AND A RETURN IS NOT AMENDED, IT IS ADDED TO.** **THE FIRST PASS PRINTED *THE LAST WORKING DAY OF THIS MONTH*, WHICH WOULD PUT THE HEAD'S PLATE IN A PUBLIC FILING NINE DAYS AFTER HE LODGED IT. Fixed, and the mechanism is now the reason the phrase is on the page** |
+| 218 | **one hearing postponed to the first of July; it is twenty-three days** | the hearing was set for ten in the morning on the eighth | **8 June → 1 July = 23.** Correct |
+| 218 | **it has been on that board seven days** | the monthly pass paints on the first | **1 → 8 = 7.** Correct, and the chapter says seven |
+| 218 | **it went up on the first at about a quarter to ten** | the monthly pass is before the figures, and the figures go up at ten (Ch 211) | **THE FIRST PASS PRINTED *HALF PAST TEN*, WHICH IS AFTER THE FIGURES AND INCONSISTENT WITH THE MONTHLY PASS BEING DONE FIRST.** Fixed |
+| 218 | **the schedule's date, not the certificate's** | the schedule of record is the fourth of May and the certificate is the twenty-seventh of June | **THE FIRST PASS PRINTED THE BOARD LINE AS *CERTIFIED THE TWENTY-SEVENTH OF THIS MONTH, IN FORCE THE FOURTH*, WHICH IS A BOARD PAINTED ON THE FIRST CARRYING A DATE THREE WEEKS IN THE FUTURE. Fixed, and the white-bearded man now says why** |
+| 218 | **ten days the only light that ever touched it was the stair window at seven in the evening** | Sun Meiling filled the row on the twenty-ninth at ten at night | **29 May → 8 June = 10.** **THE FIRST PASS PRINTED *EIGHT DAYS*.** Fixed |
+| 219 | **the certificate is dated the twenty-seventh and the schedule goes up on the twenty-sixth; two working days between them** | the schedule goes up the working day before the certificate | **26 → 27 = 1, and the chapter says *two working days* because it means the two on which they are worked, not the two dates.** **Deliberately printed with NO REASON**, per the standing instruction |
+| 219 | **raised against those premises on the twenty-first of May** | Ch 210 | Canon quotation |
+| 220 | **the demand was met on the tenth by a clerk writing one word** | the demand was dated the tenth | Correct and the chapter dates it |
+| 220 | **twenty-one days** to the first of July | the tenth of June | **10 June → 1 July = 21.** **THE FIRST PASS PRINTED *TWENTY-THREE*, WHICH IS THE FIGURE FOR THE EIGHTH, WHICH IS WHAT CH 218 SAYS.** Fixed, and the two chapters now differ by the two days between them |
+| 220 | **the account was secured from the seventh** | the lodging on the seventh | Correct |
+| 220 | **seventeen days to a certificate** | the certificate is the twenty-seventh of June | **10 → 27 = 17.** **THE FIRST PASS PRINTED *TWENTY-TWO*, WHICH IS THE FIGURE FOR THE FIFTH.** Fixed |
+| 220 | **a hundred and thirty-two dockets** | one a month for eleven years | **11 × 12 = 132.** **THE FIRST PASS HAD ELEVEN SHEETS IN A COAT POCKET FOR ELEVEN YEARS, WHICH IS ELEVEN MONTHS, AND A BUNDLE OF ELEVEN IS ALSO WHAT IT SAID ABOUT THE FIRST DOCKET BEING DATED IN THE YEAR OF THE VEI, WHICH IS TWENTY YEARS BACK.** **BOTH FIXED**: the first docket is dated in the eleventh year back, and there are a hundred and thirty-two of them, and a hundred and thirty-two production marks |
+| 220 | **the twelfth docket is dated the first of July and was in the coat at nine on the tenth** | dockets go out on the first | **Twenty-one days early.** Runa Sato says *three weeks early* in the chapter, and 21 days is exactly three weeks. Correct |
+| 220 | **about four hundred rooms since the second** | the fourth is when the oath was released and the second is when she first walked out | Correct, and it is inside the batch, not in the past |
 
-**Six real errors, in five chapters, and four of them are the class Gate A exists for: a correct
-construction attached to the wrong number.** *Twenty-nine gone* for *twenty-eight* at 202 · *twelve days*
-for *twenty* at 202 · *the fourth caller* for *the third* at 202 and 203 · *thirty-two and twenty-eight*
-for *thirty-one and twenty-nine* at 208 · *three days* for *two* at 208 · *two days* for *a week* at
-208 · *thirty-three and twenty-seven* for *thirty-two and twenty-eight* at 209 · *thirty-four and
-twenty-six* for *thirty-three and twenty-seven* at 210. **And two structural errors of the same class,
-found by asking the anchor-character question: a repaint on the twenty-second, which is a Tuesday, and
-a repaint on the twenty-ninth, which is a Tuesday.** **All eight are fixed and all eight were in the
-first pass. The first pass is not what ships.**
+**Twelve real errors in the drafting pass and twelve fixed, and the mechanism in nine of them is the
+recurring one adjudicated at item 62: a figure correctly derived from an anchor on one date and then
+carried forward to a later date without being re-derived.** *Four* for eight at 211 · *four days / a fifth
+day coming* for five and a sixth at 216 and five at 217 · *two days early* for four from the fourth at
+217 · *in about two hours* for *before four* at 217 · *the last working day of this month* for *next
+month* at 217 · *half past ten* for *a quarter to ten* at 218 · *eight days* for ten at 218 · *twenty-
+three* for twenty-one at 220 · *twenty-two days to a certificate* for seventeen at 220 · *in about four
+days* for *before the end of next month* at 214 · **and the board's own line at 218, which was the worst
+of the twelve because it put a date three weeks in the future on a wall that had already been painted.**
 
 ### Gate B — every date on one screen, checked by subtraction against the printed card
 
-201 the 21st · 202 the 22nd · 203 the 23rd · 204 the 24th · 205 the 25th · 206 the 26th · 207 the 27th ·
-208 the 28th · 209 the 29th · 210 the 30th. **Exactly one Thursday in the batch: the twenty-fourth, and
-no chapter names it.** **The word Thursday appears at 201 (×3), 202 (×1) and 209 (×1), every one of them
-instrument-derived off the card.** **REPAIRED IN REVIEW: the batch now carries one weekday name that is
-not Thursday — *the twenty-seventh of June is a Tuesday*, at 201, in the passage that repairs Ch 191's
-printed premise. It is on the page because the whole point of that passage is that the date is an ordinary
-working day and the Office does not sit on it anyway. It is not a date the card forbids and it is not a
-repaint, a counter or a signature.**
+211 the 1st · 212 the 2nd · 213 the 3rd · 214 the 4th · 215 the 5th · 216 the 6th · 217 the 7th · 218 the
+8th · 219 the 9th · 220 the 10th. **Exactly two Thursdays in the batch: the first and the eighth, and
+each of them repaints.** The word Thursday appears at 211 (×2) and 218 (×3), every one of them
+instrument-derived off the card or the painters' nine o'clock.
 
 | Chapter | Dates on the page | Check |
 | --- | --- | --- |
-| 201 | the 21st · the 3rd, 10th, 17th, 24th (the card) · the 7th of next month (the card) · the 19th of May (the assumption) · the 4th (the schedule) · the 6th (Sun Meiling) · the 15th · the 27th of April · the 27th of June · the 26th of June · the 12th of May (the head's line on the roll) | 21 → 30 = 9. The certificate is the 27th of June, the schedule goes up the working day before, and **the chapter now prints why the 27th is not a working day — the Office does not sit on the twenty-seventh of a month, and never has** |
-| 202 | the 22nd · the 2nd · the 10th · the 11th · the 20th · the 12th of May · the 25th · the 24th · the 1st of next month · the 22nd of March · the 6th | 2 → 22 = 20. 22 → 24 = 2. The roll became five and two on the second. Correct |
-| 203 | the 23rd · the 21st · the 27th · the 2nd · the 15th · the 1st of March · nineteen years · eleven minutes | The card goes up at the end of the week after the twenty-third and is read back on the twenty-seventh. Correct |
-| 204 | the 24th · the 16th · the 7th of May · the 19th · the 14th of March · the 17th · four years · nine years · thirty years of the guild | The invoice of the sixteenth, the purchase of the sixteenth, the assumption of the nineteenth, the real books of the seventeenth. Correct |
-| 205 | the 25th · the 22nd of March · the 1st · the 4th · the 7th · the 8th · the 10th · the 11th · the 16th · the 19th · the 22nd of April (not dated) · the 23rd · the 21st · the 15th · the 6th · the 30th · the second · eleven years · four years · eight days | Ines reads the whole file in date order and does not date the twenty-second of April. **The card's read-back carries no date and the chapter no longer prints the twenty-seventh, which the first pass put two days after the scene in a past tense** |
-| 206 | the 26th · the 21st, 22nd and 23rd · the 12th and 13th · the middle of February · the 27th of April · the 7th of May · four years · nine years · eleven o'clock | Runa's correction is verbatim from Ch 187 and its dates do not move. Correct |
-| 207 | the 27th · the 4th of May · the 22nd of March · the 27th of June · the 24th · the 20th · the 7th of April · the 14th of March · fifty-three days · six years · nine years | 27 → 30 is three days, which she says is not what she cares about. **4 May → 27 June = 53, and that is the figure she prints as a rule** |
-| 208 | the 28th · the 21st · the 19th of May · the 4th of May · the 1st · the 25th · the 20th · the 14th of March · the 15th · the 30th | 21 → 28 = 7 days, which he says. Correct |
-| 209 | the 29th · the 24th · the 26th of April · the 30th · the 2nd · the 18th · the 20th · the 6th · the 15th · the 10th of April · the 28th · the 30th · four days · eleven years | 24 → 29 = 5 days, which he says. Correct |
-| 210 | the 30th · the 19th · the 23rd · the 25th · the 4th · the 27th of June · the 2nd of May · the 20th · the 15th · the 10th | 30 May → 27 June = 27 with no thirty-first. Correct |
+| 211 | the 1st · the 3rd, 8th, 15th, 22nd, 29th (the card) · the 1st of next month (the card) · the 7th of next month (May's card, quoted) · the 21st of May · the 24th · the 29th of May · the 30th · the 6th · the 4th · the 26th of June · four days | 24 May → 1 June = 8. The card's last line is right this month and was six days out last month. Correct |
+| 212 | the 2nd · the 4th of every month · the 4th · the 6th · the 17th of last month · the 24th · the 30th · the 19th of May · the third of April · four years · thirty years | The three facts are the thirtieth, the twenty-fourth and the sixth, and they are the three dates the declaration, the return and the copy were made on. Correct |
+| 213 | the 3rd · the 22nd and 23rd of May · the 3rd of May · the 2nd of May · the 30th of April · the 29th of May · the 26th · the 27th · eleven years · nineteen years · four times | 30 May + 4 = 3 June, exact. 36 elapsed. Correct |
+| 214 | the 4th · about eleven that morning · four o'clock · the second · eleven years · nineteen years · thirty years · four days · the 19th of last month | In-scene throughout. The oath's own ages are twenty-four at the swearing and eleven since |
+| 215 | the 5th · the 4th · the 2nd · the 30th · the 24th · the 19th of May · the 27th and 26th of June · the 7th · the 10th · nineteen years · thirty years | 38 elapsed, 22 to the certificate. 5 → 27 = 22. Correct |
+| 216 | the 6th · the 1st · the 2nd · the 4th · the 3rd of May · four years · five days · four days | 2 → 6 = 4. Correct on both figures |
+| 217 | the 7th · the 1st · the 2nd · the 4th · the 6th · the 29th of May · the 10th · the 27th of June · the 19th of May · the 4th of May · the 24th · the 1st of July · the last working day of next month | 40 elapsed. 7 → 27 June = 20, and the chapter says the certificate is the twenty-seventh. Correct |
+| 218 | the 8th · the 1st · the 4th of last month · the 27th of this month · the 1st of July · March · April · May · the 19th of May · seven days · twenty-three days | 1 → 8 = 7. 8 June → 1 July = 23. Correct |
+| 219 | the 9th · the 21st of May · the 26th · the 27th · the 30th of May · the 29th of May · the 19th of May · eleven years | The notice goes up on the ninth and was issued on the eighth, and the chapter says it came early |
+| 220 | the 10th · the 7th · the 4th · the 1st · the 2nd · the 29th of May · the 1st of July · the 27th of June · eleven years · thirty years · a hundred and thirty-two | 10 June → 1 July = 21 days = three weeks. 10 → 27 = 17. Correct |
 
 ### Gates run, and what they do not tell you
 
-Re-derived by command **after the last edit**. **A snapshot of all ten chapters was taken before any
-pass ran over them and the sentence sets were diffed against it afterwards, per adjudicated item 65;
-no prose was lost, and the thirty-nine sentences the diff reports as changed were each traced by hand to
-a deliberate edit** — seven weekday names, six rationed `nobody`, eight count-word disambiguations,
-twelve paragraph splits, and five rewrites. **Nothing was deleted by a script, because no script was
-allowed to write.**
+Re-derived by command **after the last edit**. **A snapshot of all eleven Volume 5 files was taken before any
+pass ran over them, the sentence sets and then the eight-word shingles were diffed against it
+afterwards, per adjudicated item 65, and no sentence was lost.**
 
 ```
-ls chapters/volume-05/                                                     → 10
-titles unique book-wide (210 files)                                        → NONE
-titles over 90 characters                                                  → 0
-titles 201–210 against a fresh bank (Volume 5 has no outline file yet)      → 10 of 10 unique
-wc -w, 201 to 210        2128 / 1897 / 1883 / 1841 / 3553 / 1970 / 1942 / 1891 / 1948 / 1913 → total 21,948
-horizontal rules                                                            → 0
-blockquotes                                                                → 0
-bold, underscore and italic markup                                          → 0
-planning-register terms (reservoir, quiet account, concil, ninth seal, channel) → 0
-system panels in 201–210                                                   → 0. No count turns and none is due
-ages                                                                       → 0
-meta-language in 201–210                                                   → 0 ("a hundred chapters" at 208 and "eighty-one years old" at 209 were both in the first pass and both cut)
-rationed constructions                                                     → 0
-nobody / no one / no-one                                                   → 1, against a ration of 1. **The single instance is Ch 205's *nobody's book*, and it is the sentence the volume is built on**
-weekday names other than Thursday, 201–210                                 → 1 after the review repair, *Tuesday* at 201 in the Ch 191 reconciliation. **It was 0 in the first pass and eight weekday names were in that pass, every one of them on a date the card forbids**
-the word Thursday                                                          → 5, at 201 (×3), 202 (×1), 209 (×1). **Every one is the card or the calendar. Four were in the first pass attached to dates the card forbids — a repaint on the twenty-second, a repaint on the twenty-ninth, a counter on the twenty-ninth and a signature on a Thursday — and all four are cut**
-not a tank / he is a door                                                  → 0
-paragraphs over 90 words, chapters/volume-05/                               → 0; none over 120. Longest is 88
-paragraphs containing an internal newline                                  → 0
-8+ word sentence duplication, intra- and cross-chapter, all 210 files       → 0 exact sentence duplicates
-40+ word paragraph duplication                                             → 0
-12-gram scan of Ch 205 against all twenty earlier scene chapters (item 66) → 0 runs
-12-gram scan of the batch against all 200 earlier chapters                 → 100 runs, **all of them quoted document text, a character's own repeated line, or the book's recursive motifs.** Adjudicated cluster by cluster below
+ls chapters/volume-05/                                                        → 20
+titles unique book-wide (220 files)                                           → NONE
+titles over 90 characters                                                     → 0
+wc -w, 211 to 220   2023 / 2023 / 1887 / 2912 / 1939 / 2075 / 2713 / 1948 / 1845 / 2056 → total 23,361
+horizontal rules / blockquotes / code blocks / tables                          → 0 / 0 / 0 / 0
+bold, underscore and italic markup, chapters/volume-05/                       → 0
+planning-register terms (reservoir, quiet account, concil, ninth seal, channel)→ 0
+system panels in 211–220                                                      → 0. No count turns and none is due
+ages                                                                          → 0
+meta-language in 211–220                                                      → 0
+rationed constructions                                                        → 0
+nobody / no one / no-one                                                      → 1, against a ration of 1. **The single instance is Agnete Lindqvist's at 216: *the difference between the two is the whole of what I do and nobody has ever been able to write it down*. THE FIRST PASS CARRIED NINETEEN**
+weekday names other than Thursday, 211–220                                    → 0. **The first pass carried eleven and every one has been traced to its date and removed**
+the word Thursday                                                            → 5, at 211 (×2) and 218 (×3)
+not a tank / he is a door                                                     → 0
+paragraphs over 90 words, 211–220                                            → 0; longest is 90, none over 120
+paragraphs containing an internal newline                                    → 0
+8+ word sentence duplication, whole book, all 220 files                      → 14, **all fourteen pre-existing and none involving this batch**
+40+ word paragraph duplication                                               → 0
+12-gram scan of Ch 214 against all twenty-one earlier scene chapters (item 66)→ 0 runs
+12-gram scan of the batch against all 210 earlier chapters                    → 18 runs, all four canon quotations, adjudicated below
+sentence/shingle diff against the pre-pass snapshot (item 65)                → 0 sentences lost; see the paragraph below
 ```
 
-**The hundred 12-gram runs, adjudicated, because the batch's review must not take this on trust.**
-They fall into five clusters and **there is no transposed scene sequence among them, which is the
-adjudicated item 66 test and it passes:**
+**THE SCRIPT THAT REWRITES PROSE, AND WHAT THE DIFF REPORTED THIS TIME.** Per adjudicated item 65 a
+copy of all eleven Volume 5 files was taken before any pass ran. **The paragraph pass split twenty-three
+paragraphs at a sentence boundary and changed no word in any of them**, and the sentence-set diff reports
+seventeen sentences that differ from the snapshot and **every one of the seventeen is the same sentence
+with a leading quotation mark added**, because a speech that continues into a new paragraph in this book
+opens with a quotation mark and does not close at the break. **An eight-word-shingle diff was then run
+as a second check, and it reports 4,599 shingles present before and absent after, every one of them a
+shingle that spans a paragraph boundary and therefore cannot survive a split.** **Word counts fall by
+between two and seven words in four chapters and rise by four in one, and every one of those moves is a
+hand edit that was made deliberately: a run-on sentence broken into two at a comma, *thirty years old*
+changed to *thirty years on the ledger* for the age gate, *six men* changed to *six women*, and the
+docket arithmetic. Nothing was deleted and no script wrote to `chapters/` at any point in this pass.**
+A shorter chapter with no banned words and no duplicate is not a shorter chapter.
 
-1. **The card by the time clock on the ground floor of the Fourth Branch** (Ch 181, 187, 191) and **the
-   twenty-fourth / thirty-first subtraction** (Ch 181). **These are the anchor and Chapter 201's entire
-   job is to re-derive them.** The subtraction was reworded anyway so that Chapter 201 is a second
-   derivation and not a replay.
-2. **The promise to do every figure out loud** (Ch 187, 190, 191, 192, 200). A ritual the lead has had
-   since the first of this month and now keeps. Used at 201, 202, 208, 209 and 210. **Five times in ten
-   chapters is a lot and it is deliberate: the promise is the book's clock and this batch is the last
-   full month it runs in.** Recorded here because a later batch may find it worn.
-3. **Quoted document text.** The printed indemnity (Ch 191, 199) · Runa Sato's correction of the seventh
-   of May (Ch 187) · the pencil sentence from the tenth of April (Ch 163) · Sun Meiling's *a thing done
-   for a door does not get thanked, it gets logged* (Ch 189, 200), which she throws back at him · the
-   description of the schedule as *a name at the top of page one and six members on page two* (Ch 190).
-   **A quotation of an instrument is not duplication.** The 8-word sentence gate returns zero on all of
-   them because they are never introduced identically.
-4. **A character's own repeated line.** *Have been waiting since the fourteenth of March for a document
-   with my name and my decision in the same place* is Nadia Ferrous's and she has said it at 185, 195
-   and 200. **She says it once in this batch and it is her line.**
-5. **The painters.** *The men came up to the Reading wall at nine* and *a ladder and a crate and four
-   buckets* (Ch 183, 190) and *did not touch it and did not ask anybody to explain* (Ch 190). **The
-   repaint beat is written the same way every time in this book and it is written the same way here.**
+**THE EIGHTEEN 12-GRAM RUNS, ADJUDICATED, AND THEY ARE FOUR QUOTATIONS AND NOTHING ELSE.**
 
-**One real sentence duplicate was found and fixed:** Chapter 201 opened by reusing Chapter 181's *Then
-he went up at seven and did the second floor, and the third, and the fourth, and the fifth, and the
-sixth.* **The six floors are load-bearing and had to survive; the enumeration did not.**
+1. **The Office does not sit on the twenty-seventh of a month** (five runs, all at 215). Canon, fixed at
+   Ch 191 and Ch 201, and stated once in this batch, in Marguerite Vale's mouth, on the day the
+   schedule's consequences start being counted.
+2. **A rule that says an officer is not told about her own division's index sheets** (six runs, all at
+   219). Canon, from Ch 205, quoted by Sun Meiling reading a notice aloud. **Ch 219 needed the rule and
+   could not say what the rule did without saying the rule.**
+3. **In the flat voice of a clerk reading to a man who has not read it** (four runs, all at 219). Canon,
+   and it is Ines Duarte's register, fixed at Ch 210 on the review of Batch 0001 and used here on purpose
+   because she is reading a document about her own household.
+4. **I said in a corridor in April that you were not to ask me** (three runs, all at 219). **Ines's own
+   line, from Ch 205, said by her about herself.** A character's own repeated line is adjudicated
+   admissible, and this one is the hinge of the volume spoken by the woman it is about.
+
+**And the one that the first pass had and does not have.** The first pass returned **two runs of ten
+words or more that transposed a physical sequence from Chapter 210** — *at the bottom of the last six
+steps with her back to the rail*, which is Sun Meiling's staged position at Ch 149 and Ch 210 and is the
+staging grid's row for Ch 149 — **and an eleven-word verbatim lift of Sun Meiling's own line from
+Chapter 209.** Both were found by the 12-gram scan, neither by the sentence gate, and both are gone.
+**The sentence gate returns zero on a transposed sequence the way it returns zero on a paraphrase.**
 
 ### Proposed canon, in
 
 Registered because each is a fact about the world's instruments, figures or offices that did not exist
 before this batch and that later batches must not contradict:
 
-1. **The Declaration of Membership in a Standing Household** (Ch 201): one side, cream weight, a form
-   number with a printed run, the premises and the head's name pre-entered in the Office's type; three
-   questions per member; a count of persons of reading age keeping an address; the small print about a
-   head's certificate that does not agree with the schedule of record; returnable at a named counter on
-   or before the last working day of the month, and **the last working day of a month is its thirtieth
-   where there is no thirty-first.**
-2. **A paper can now reach him by writing to him first** (Ch 201). This is the promise Doyle made at
-   Ch 199 being cashed, four days later, in the first month.
-3. **The Vant's quarterly return at the north desk of the Exchange** (Ch 204): securities standing
-   against the broker's entitlements, entered in the broker's hand, with the holder of an open-ended
-   security entered as whoever shall hold the book at the annual sitting, and **it is a public filing
-   read by the Exchange and by whoever buys the book next.**
-4. **The bench order of the third of May is still in force and has now been used three times** (Ch 202,
-   203): the tenth (the district clerk, five names and two spaces), the eleventh (a man with a folded
-   sheet, six names and one space, wrong), and the twenty-second and twenty-third (**Marit Kolb, four
-   questions, three of them the district's and the fourth not**). **The roll now reads six names and
-   two spaces** and every district entry since the second of this month has said so.
-5. **A district officer with a card may verify at source**, and an officer of an office who is a member
-   of the household being verified is a subject of her own division's index (Ch 205). **There is a rule
-   that says an officer is not told about her own division's index sheets.**
-6. **The load order of the household, bottom to top** (Ch 206): a book, the examination entered against
-   it, the broker who holds it, the broker's rank two, the head, whose standing is nothing, then six
-   members who rest on the head's signature. **It is bottom to top, not the order on the wall, and that
-   inversion is the chapter.**
-7. **The certificate makes a household visible and not safe** (Ch 207), and a standing household's
-   examination is what a broker's book is secured against; a clinician's arithmetic on a three-grain
-   margin is the batch's argument for having one anyway.
-8. **The declaration was filed at half past two on the thirtieth with six members certified** (Ch 210),
-   and the Bureau gave back a slip with the household's own number on it. **A household number is a
-   number and not a name, and it is findable without anyone having to know a name.**
+1. **The Vant's monthly call on a security (Ch 211).** A broker of record who has entered a security
+   against a household produces, on the first of each month, a copy of the roll of the persons
+   answerable, and the security is valued at the lower of the copy and the file. **The Vant's
+   securities have historically been entered against firms; Ferrier Street is the first against a house.**
+2. **A security on a household is valued by what it can be made to yield, not by what it is worth
+   (Ch 211, 212).** The yield is a word — *produce* — said four times a year by whoever holds the book,
+   and it is enforceable at a counter without a court and without a hearing.
+3. **The Reading's standing-household board (Ch 211, 218).** Eleven feet, painted on the first before
+   the figures go up at ten, by a different crew from the Thursday pass, in a different shade. **Number,
+   standing, schedule date — never the certificate's date.**
+4. **A sworn collector's oath of holding (Ch 214, 215, 220).** Taken by a broker when an account cannot
+   be paid and cannot be written off; discharged by the holder; binds the collector's body and nothing
+   else, so that the collector cannot be the first out of a room. **The body treats it as a floor, not a
+   wall, and the officer has spent eleven years reading it as professional virtue.**
+5. **An entry carried eleven years on a person comes off the dead list when that person is taken out of
+   it**, and there is no instrument in the guild for putting a woman back.
+6. **A standing may be lodged against a broker's account (Ch 217)** on a second form at the Exchange
+   which takes a head, is released with the book and not by the person who lodged it, may be called by
+   the holder of the book at any valuation, and gives the lodger no right of withdrawal between the
+   lodging and the next valuation. **A month is a valuation, unless the book changes hands.**
+7. **A called standing cannot be drawn against (Ch 218).** Every entitlement any member of the household
+   bought in the month of May with the standing of the household behind it is unpayable from the seventh
+   of June to the first of July. **Twenty-three days and one.**
+8. **A quarterly return is not amended, it is added to (Ch 217).** A return lodged early on the
+   twenty-fourth of a month stands, and everything after it goes in at the next lodgement.
+9. **The audit division cannot certify a schedule its own auditor of record is a member of (Ch 219),
+   and the only instrument in the office for removing a person from a certified schedule is for an
+   officer with a conflict.** **If it is used, the schedule does not go up on the twenty-sixth and the
+   certificate does not issue on the twenty-seventh.**
+10. **A notice of production can carry an officer's name in a third line from the index and the officer
+    does not write it and cannot un-write it (Ch 219).**
+11. **Petra Ilyin is a discharged officer of the Vant, on no roll of the guild and on no roll of the
+    household, and she has not been a member of any list at any point in this batch.**
 
 ### Proposed canon, out
 
-Nothing this batch proposed has been withdrawn. The following were **not** adopted and must not be
-assumed:
-
 - **The certificate does not arrive in this batch.** It is dated the twenty-seventh of June and this
-  batch ends on the thirtieth of May, twenty-seven days short of it.
-- **Ines Duarte's review is not resolved, not discussed and not nearly said.** She refuses it once, in
-  the third person, as *it is not about this house*, she tears the member form in half, and that is the
-  whole of what she gives. **No character asks her about it in this batch.**
-- **The audit division's index sheet and its four words** (Ch 210) are on the page and **are not
-  resolved**: they are a fact about Ines's standing in her own office and the batch does not say what
-  happens next about them.
+  batch ends on the tenth, seventeen days short of it.
+- **Ines Duarte's review is not resolved, not discussed and not nearly said.** She asks to be removed
+  from the schedule, once, in advance, procedurally, at Ch 219, and she does not do it. **She asks the
+  room for a standing instruction for the first time in four years, and the standing instruction is
+  that she is to be told before anybody discusses anything.**
+- **The audit division's four words** (SHE IS ONE OF OURS) are on the page and are **used, not acted
+  on.** Her division's index produced a notice and an extract this batch and nothing has moved in the
+  division. **The four words are not resolved.**
 - **Marguerite Vale's terms of the fourteenth of March stay down, unsigned and out of force.** The
-  quarterly return is a disclosure of the seventeenth of May and it revives nothing.
-- **Nothing was spent.** The ledger is 118 lines, nine turned, the ninth still himself, and no draw
-  touched anybody in ten chapters. **No plate figure moved. No rank was earned, lost or scored.**
-- **Agnete Lindqvist was counted in a room and was not counted on a form**, which is the whole of what
-  this batch does with her. **Her eleven years indoors are not touched.**
-
-## LIVE CARRY-FORWARD, 2026-10-12 — Volume 4 Batch 0005 (Chapters 191–200) verification and repair
-
-**This block is deliberately NOT inside the Volume 5 Batch 0001 close record above, because the prompt for
-Volume 5 Batch 0002 archives that record. Do not move this block into it.** The full eight-item addendum,
-with every defect and its anchor, is now archived at
-`state/archive/open-threads-v1-v4-batch-gates.md`, at the foot of that file's Volume 4 Batch 0005 section.
-The gate record is `reviews/volume-04/batch-0005.md`. What follows is only what a Volume 5 writer has to
-carry.
-
-1. **NOT REPAIRED, AND IT IS THE REASON THIS BLOCK IS LIVE: Ch 204 says Marguerite Vale put the head's
-   name in the Vant's book *on the afternoon of the seventh of this month at a window*, and four days
-   later says she took *four days* to decide.** The Exchange window is the **sixteenth** at Ch 196, the
-   scene in the Exchange sales floor is the **seventeenth** at Ch 197, the seventh is a kitchen at ten
-   past one with the certificate on the table (Ch 195, Ch 197), and the quarterly return was lodged on
-   the **twenty-fourth** (Ch 204). **Volume 5 Batch 0001 is closed and was not touched by a Volume 4
-   batch. Batch 0002 owns it: either repair Ch 204's two sentences at source, or carry the discrepancy
-   forward deliberately in a voice that knows it. Leaving it to be discovered again by a reader is the one
-   option that is not open.**
-2. **THE WEEKDAY IS NOWHERE THE REASON THE SCHEDULE GOES UP ON THE TWENTY-SIXTH.** Ch 191 and Ch 201 both
-   say the reason is institutional: **the Office does not sit on the twenty-seventh of a month.** Any
-   later chapter that explains the twenty-sixth must use that reason. **The date does not move.**
-3. **THE SCHEDULE IS THE FOURTH OF THIS MONTH, NOT THE FOURTH OF APRIL.** Ch 199 was repaired from *the
-   fourth of April* to *the fourth of this month*. April and May are both being used in these chapters;
-   check which one a date belongs to.
-4. **Sun Meiling claimed the seventh row on the eighteenth, in Ch 198, in her own mouth.** Ch 200's summary
-   of that speech and **Ch 209's line 69 — *you put it there on the eighteenth* — both depend on it.**
-   That beat is load-bearing for Volume 5 and must not be cut.
-5. **Ch 185 no longer contradicts Ch 181's printed card.** The second Thursday in May is the **tenth**;
-   the pale rectangle went bare on the twenty-sixth of April, so it was nine days bare on the fifth.
-6. **Ch 160's retired *nobody asked for* construction is gone.** The gate on `nobody` is zero across
-   Volume 4 and one per batch across the book.
-
-**And the method, because it will recur: eleven interval defects in one batch survived a full gate suite,
-and the recurring mechanism was a figure correctly derived from an anchor on one date and then carried
-forward to a later date without being re-derived.** Re-derive every figure at the date it is spoken on.
-A count is not a reading.
-
----
-
-## Volume 4, Batch 0002 — CLOSE RECORD (Chapters 161–170). THE RETURN.
+  thirty-year account is new and is **not** those terms; nothing in this batch revives them.
+- **The account is thirty years old, was carried nineteen years on money and eleven on a woman, is live
+  and unsecured from the fourth of June, and is secured from the seventh by a plate.** It is not
+  discharged and it is not written off and **what it is for has still not been said out loud in a room,
+  and Petra Ilyin has said on the page that she has not asked.**
+- **Nothing was spent from the reservoir.** Ledger 118 lines, nine turned, the ninth still himself.
+  **No plate figure moved before Ch 217 and none has moved since; what moved is the plate's standing,
+  not its grain.**
+- **Agnete Lindqvist was seen by a district officer and not entered, and the officer left a line blank
+  for the first time in nineteen years (Ch 213).** That is the whole of what this batch does with her.
+  **Her eleven years indoors are not closed.**
 

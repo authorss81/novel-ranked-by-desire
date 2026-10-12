@@ -1,6 +1,168 @@
 # Continuity
 
+## Volume 5, Batch 0002 — CLOSED (Chapters 211–220). **THE ENFORCER.** PETRA ILYIN HAS ENTERED.
+
+**Ten chapters written against the batch prompt, entered at Chapter 211 on the first of June and running
+to the tenth, one chapter a day, no shared dates and no gaps. Full gate output, the Gate A interval
+trace with its twelve errors, the Gate B date subtraction and the canon proposals are in
+`state/open-threads.md` in this batch's close record, which is the only live gate block in that file;
+Batch 0001's and Volume 4's have been moved to
+`state/archive/open-threads-v1-v4-batch-gates.md`. This block supersedes every block below it on every
+point it touches.**
+
+### Calendar, as the page fixed it
+
+- **Batch 0002 is the 1st to the 10th of M+6, one chapter a day.** 211 the 1st · 212 the 2nd · 213 the
+  3rd · 214 the 4th, **Petra Ilyin's scene, immovable** · 215 the 5th · 216 the 6th · 217 the 7th ·
+  218 the 8th · 219 the 9th · 220 the 10th.
+- **THERE ARE TWO THURSDAYS IN THIS BATCH AND BOTH REPAINT: the first and the eighth.** June's
+  Thursdays are the 1st, 8th, 15th, 22nd and 29th, from the derivation inherited unchanged out of Batch
+  0001 (Ch 181's card, Ch 181's thirty days, Ch 190's 3 + 30 + 27 = 60). **The word Thursday appears
+  five times in the batch, twice at 211 and three times at 218, every one of them the card, the
+  calendar or the painters' nine o'clock. No chapter names any other weekday.**
+- **THE MAY CARD'S LAST LINE IS NOW PAID OFF ON THE PAGE (Ch 211).** The June card reads JUNE. FIRST.
+  EIGHTH. FIFTEENTH. TWENTY-SECOND. TWENTY-NINTH. AND THE FIRST OF NEXT MONTH, **and it is right**,
+  because the twenty-ninth is the last Thursday in a month of thirty days. **May's card said the
+  seventh of next month and was six days out (Ch 201, Ch 202), and the difference between the two
+  cards is that one man in this city has now read the last line.**
+- **THE MAY CARD'S PAINTERS RETURN ON THE FIRST, EIGHT DAYS AFTER THE TWENTY-FOURTH OF MAY, and the
+  men at the bottom of that ladder have four separate passes in the book now: the Thursday pass at
+  nine, the monthly pass on the first at about a quarter to ten before the figures, and the board at
+  the side which is a different crew in a different shade.**
+- **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Seventeen
+  days past the tenth.
+- **THE OFFICE DOES NOT SIT ON THE TWENTY-SEVENTH OF A MONTH AND THAT IS THE ONLY REASON THE SCHEDULE
+  GOES UP ON THE TWENTY-SIXTH.** Stated once in this batch, at 215. **Ch 219 prints the two dates with
+  no reason at all**, per the standing instruction. The date does not move.
+- **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0001.** Days elapsed from the
+  return of the twenty-seventh of April, sixty less that. Batch 0001 closed at 33/27 on the thirtieth of
+  May. **Batch 0002: 34/26 · 35/25 · 36/24 (213) · 37/23 · 38/22 (215) · 39/21 · 40/20 (217) · 41/19 ·
+  42/18 · 43/17.** Printed at 213, 215 and 217; the other seven chapters print none, which is a choice.
+- **THE THIRTEENTH OF JUNE AND EVERYTHING AFTER IT IS BATCH 0003'S AND IS NOT FIXED HERE.**
+
+### Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE VANT'S MONTHLY CALL ON A SECURITY (Ch 211).** A broker of record who has entered a security
+  against a household produces, on the first of each month, a copy of the roll of the persons
+  answerable under it. **The security is valued at the lower of the copy and the file, and a security
+  that cannot be valued goes in as unpriced, which the assessment side will not carry a year running.**
+  **The Vant's securities have been entered against firms. Ferrier Street is the first against a house.**
+- **A SECURITY ON A HOUSEHOLD IS VALUED BY WHAT IT CAN BE MADE TO YIELD (Ch 211, 212).** Not by what it
+  is worth. The yield is a word — *produce* — said four times a year by whoever holds the book, and it
+  is enforceable at a counter without a court, without a hearing and without anybody's agreement.
+- **THE READING'S STANDING-HOUSEHOLD BOARD (Ch 211, 218).** Eleven feet, at the side of the ranks wall,
+  painted on the first before the figures go up at ten, by a different crew in a different shade.
+  **Number, standing, and the schedule's date. Never the certificate's date.** Two hundred and something
+  lines; a hundred and eighty in the spring. **34-6-118 went up on the first of June at about a quarter
+  to ten and was not looked at by anybody in that house until the eighth.** A name is typed small at the
+  head line, because a board that carries a number without a name carries only a number.
+- **A SWORN COLLECTOR'S OATH OF HOLDING (Ch 214, 215, 220).** Taken by a broker when an account cannot
+  be paid in coin and cannot be written off: an officer of the guild swears to hold until the account
+  is discharged. **It binds the collector's body and nothing else. The officer cannot be the first one
+  out of a room.** The body treats it as a floor and not a wall — it walks her back to a table — and
+  eleven years of reading that as professional virtue is what makes it eleven years.
+- **AN ENTRY CARRIED ELEVEN YEARS ON A PERSON COMES OFF THE DEAD LIST WHEN THAT PERSON IS TAKEN OUT
+  OF IT (Ch 214), and there is no instrument in the guild for putting a woman back.**
+- **A STANDING MAY BE LODGED AGAINST A BROKER'S ACCOUNT (Ch 217)** on a second form at the Exchange,
+  which is the only desk in that building with a chain on it that is not a book. It takes a head. **It
+  is released with the book and not by the person who lodged it; it may be called by the holder of the
+  book at any valuation; and the person who lodged it has no right of withdrawal between the lodging
+  and the next valuation. A month is a valuation, unless the book changes hands.**
+- **A CALLED STANDING CANNOT BE DRAWN AGAINST (Ch 218).** Every entitlement any member of the household
+  bought in the month of May with the household's standing behind it is unpayable from the seventh of
+  June to the first of July. **Twenty-three days and one.**
+- **A QUARTERLY RETURN IS NOT AMENDED, IT IS ADDED TO (Ch 217).** A return lodged early on the
+  twenty-fourth of a month stands.
+- **THE AUDIT DIVISION CANNOT CERTIFY A SCHEDULE ITS OWN AUDITOR OF RECORD IS A MEMBER OF (Ch 219).**
+  The only instrument in the office for removing a person from a certified schedule is for an officer
+  with a conflict. **If it is used, the schedule does not go up on the twenty-sixth and the certificate
+  does not issue on the twenty-seventh.**
+- **A NOTICE OF PRODUCTION CAN CARRY AN OFFICER'S NAME IN A THIRD LINE FROM THE INDEX (Ch 219), and the
+  officer did not write it and cannot un-write it.** The index holds the head's line and six members
+  and the name of the auditor of record, and it indexes this household twice without the two entries
+  knowing about each other.
+- **THE GUILD'S PRODUCTION MARK (Ch 220).** Two letters and a date in ink at the foot of a docket,
+  about four seconds, once a month on the second. **A hundred and thirty-two of them in eleven years,
+  all of them Marguerite Vale's, and she never once asked who was producing them.**
+
+### Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three.** Not one grain has moved in five years. **At Ch 217 the
+  grain did not move and the plate was lodged**, and that is the first irreversible act the lead has
+  committed in five volumes.
+- **Ledger 118 lines, nine turned, the ninth still himself.** Nothing spent on anybody in ten chapters.
+  **Zero system panels in ten chapters and no count turns.**
+- **File 4,112, one folio open, no second.** No classification, no rank earned, no rank lost, no grain
+  scored.
+- **34-6-118 is a household number and it is now on a public board.** It went up on the first of June.
+- **1,862 of the sixty days have run.** 43 elapsed, 17 to a certificate dated the twenty-seventh of June.
+
+### The household as it now stands, and which list is meant — SAY IT EVERY TIME
+
+- **Eight women now keep this house in some sense and the lists have not agreed since March.** **Seven
+  women**: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale, Sun
+  Meiling. **Six keep the notebook** (all but Sun Meiling). **Sun Meiling keeps nothing, was on no roll
+  until the twenty-ninth of May, and is in pencil on the seventh row in her own hand, and is now in
+  ink in a guild's card and in ink on a guild's copy.**
+- **Petra Ilyin is in the house on the fourth, the fifth, the sixth and the tenth of June and is on no
+  roll of any kind.** She is a discharged officer of the Vant and she is not a sworn member until
+  Ch 402. **She and Agnete Lindqvist are the two people at Ferrier Street who are on no list at all**,
+  and the chapter that says so says it with a notebook and a table.
+- **Wren Kallo is the eighth partner and is on no roll at any time and has not been in this batch.**
+  **Ola Bright is not a partner.** **Agnete Lindqvist sleeps in the building, is on no list of any
+  kind, was seen by a district officer on the third and was not entered, and there is still not one
+  ruled space in this city for her.**
+- **Six women keep an address at Ferrier Street and the answer has been six since the twenty-second of
+  March and has never once been wrong.**
+- **The roll on the landing carries six names, one head and no spaces, and the declaration filed on the
+  thirtieth of May carries six members, and the two agree, which is the only reason a copy of the roll
+  is worth anything** — and a copy can now be produced out of the Bureau file by anybody holding the
+  file.
+
+### What this batch did NOT open
+
+Second folio · **Ines's review, resolved, discussed or nearly said** · **Ines removed from the schedule
+— she says on the page that she is going to ask and does not do it** · B103 in any form · the
+instrument's live-column rule · **the certificate, which cannot arrive inside this batch** ·
+**Marguerite's terms of the fourteenth of March** · Bernt · Rhee · Saskia Verhoeven · Alma Quayle ·
+Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Dagmar Oyelowo · anything after
+Volume 8 · **a rank, a grain, a folio, a classification** · **the audit division's four words resolved
+— they are used and not acted on** · **who at the Vant entered the twelfth docket early** ·
+**what the thirty-year account is for, which nobody in the batch has asked out loud**.
+
+### What this batch did NOT close
+
+The two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name in the record · the desk's
+four-line note · the classification paper dated the nineteenth · the ninth of September · the broken
+price · Sun Meiling's February · the leak · **Agnete Lindqvist's eleven years indoors** · **Ines
+Duarte's review** · Runa Sato's hearing · **Wren Kallo's held name** · **Beatrix Halm's eleven burned
+months** · **the bare slot on the Reading wall and the name that is going into it** · the certificate ·
+**the thirty-year account and whether it can ever be discharged** · **whether a lodged standing can be
+called before the book changes hands**.
+
+### Endings and temperature
+
+211 a card turned over and a number on a landing · 212 **the angry chapter, and she is right** · 213 a
+district officer, a lamp that was not needed and a line left blank · 214 **the scene** · 215 an account
+named aloud and a woman who was held by somebody else · 216 **the quiet one, and the first time anyone
+has asked Beatrix Halm for anything** · 217 **a hand on a pencil on a wall, and the decision** · 218
+**the cost, in three places, and the board** · 219 **a notice of production and the only complete
+version of the record** · 220 a hundred and thirty-two dockets and a twelfth that came early.
+
+**Scenes: 205 in Volume 5, written; 214, Petra Ilyin's first, written at 2,912 words and inside the
+2,600–3,900 band, staged in a collecting room on the third floor of the Vant with a bolted table, four
+pegs and one coat, and the 12-gram scan of it against all twenty-one earlier scene chapters returns
+zero.** The gap 205 → 214 is nine. The gap 214 → 228 is fourteen, the ceiling, and **Ch 228 is
+immovable and is Volume 5's third scene.**
+
+---
+
+
 ## Volume 5, Batch 0001 — CLOSED (Chapters 201–210). **VOLUME 5 IS OPEN.** THE AUDITOR'S PRICE.
+
+*(previous record, superseded by the block above on every point it touches. Its full gate output, the
+Gate A interval trace with its eight errors, the Gate B date subtraction and the canon proposals are in
+`state/archive/open-threads-v1-v4-batch-gates.md`.)*
 
 **Ten chapters written against the batch prompt, entered at Chapter 201 on the twenty-first of May and
 running to the thirtieth, one chapter a day, no shared dates and no gaps. Full gate output, the Gate A

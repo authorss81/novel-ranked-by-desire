@@ -36,7 +36,7 @@ Mahler had the pen out.
 
 Mahler wrote it.
 
-"And that is the first time in nine years a man with no band at all has had his name entered in that book, and I entered it, and I put it there on the afternoon of the seventh of this month at a window, and the reason it is in there now instead of then is that I have taken four days to decide whether I could live in a house with it in there.
+"And that is the first time in nine years a man with no band at all has had his name entered in that book, and I entered it, and I put it in there on the afternoon of the seventeenth of this month in the same hour in which I bought it, and the reason it is in a public return now and was not in one then is that I have taken a week to decide whether I could live in a house with it in there.
 
 "I can. That is the answer to the only question anybody in that house is going to ask me about it, so let us get it said and go back to the column head."
 

@@ -937,3 +937,174 @@ The twentieth, **the volume's last day.** The roll on the landing: **seven ruled
 
 ### Ch 210 — Six Names And No Spaces
 **The thirtieth, the last working day of the month, and the declaration goes in.** He asks for four o'clock and gets half past two, because the last working day of a month is not a day anybody in that building works to a clock. Seven people in the queue at three, most of them with the look of a person who has been putting this off since the first of the month. **He fills it in standing up against the end of the counter with a pen off a string.** Six in the box, in the ordinary way, not the way a man writes a thing he has argued about. Then six lines and eighteen entries without stopping once. **One: Ines Duarte, rank two, the head's assumption of the nineteenth and the schedule of the fourth, office held: the audit division of this city — and he did not have to be told, because she wrote it on a district clerk's card on the twenty-third, the card is in an intake in Cobb Street, and on the twenty-fifth she read the whole of it out loud on her own floor in the flat voice of a clerk and he was in the room.** Two, three and four short. Five: Marguerite Vale, rank two, the quarterly return lodged on the twenty-fourth, item one, entered by hand against the broker of record, and the examination passing to the holder. **Six — Sun Meiling, no standing entered, the schedule of the fourth and the head's assumption, and no office, no standing and no entitlement in any body corporate, guild, exchange or office of this city** — which took four seconds and is the only one of the eighteen he had said out loud in a kitchen with a lamp on, in front of the room, two nights before. Then the count of persons of reading age keeping an address at the premises: **six, because it has been six since the twenty-second of March and it has never once been wrong.** His name in his own hand, the date, the hour — **two forty-one in the afternoon** — and a signature at the bottom that took longer than any other line, which Doyle would have read back to him and did not. A woman at the counter read all nine words back anyway, and noted that line six has nothing in the middle and one has a guild on it, and is not supposed to have opinions, and put the tick, and said **there is one tick on every form of this kind in the city that carries it and she has never seen two.** **The small print at the foot was the only part of the sheet he did not need**, and there is no line on that sheet anywhere saying a man had come within one name of putting his hand on a woman's own account, and in eleven years a woman will read a head's declaration that agrees with a certificate and have no way of knowing how close the two figures came to not agreeing. **Then a slip about two inches by one: 34-6-118, the date, and the word LUMPED. The household has a number in that building that is not his.** He reads it three times on the pavement, because **a number is how a thing is found, and a number is not a name, and a name is findable, and a number is findable in a way that a name is not because a number requires nobody to know that it is the right number.** It is the fastest way into a building anybody has ever thought of and he has gone and picked one up for himself in a queue. He comes up the sixty-one steps at twenty past three and Sun Meiling does not get up. **Six names, one head, and no spaces anywhere on that wall for the first time since the second of this month**, in pencil, in the two inches of dark under a light that has stopped in the same place every evening since the thirtieth of April. **He does not read it. He read it three times the night before, and a man who goes up sixty-one steps to look at a sentence he has got by heart is a man who has come up here to be seen.** **You cannot read that from the bottom of the stairs** — and neither can a district clerk, and in four days a woman with a card is going to have to come closer or ask somebody to hold a lamp, and that is going to be the first time in nineteen years that she has had to ask, and there will not be one column on that card for the reason. **Thirty-three of the sixty gone, twenty-seven left, twenty-seven days to a certificate with six members on page two of it, and one of them is me, and I did not have a say, and I asked for the row, and those are both of those things at once and they are going to stay both of those things at once.** And in an office two floors above that building, on the last working day of the month, a woman who raised his premises on the twenty-first reads the slip with a tick beside the sixth line, and because the rule she works under is that an officer does not certify a household she is a member of, opens a second book, and writes four words in the third column that have never been written in that building about a person who works in it. **SHE IS ONE OF OURS.**
+
+---
+
+## Volume 5, Batch 0002 — The Enforcer (Chapters 211–220)
+
+### Ch 211 — The Monthly Call
+**The first of June, a Thursday, and the day the May card turns over.** The card on the nail in the basement of the Fourth Branch reads JUNE. FIRST. EIGHTH. FIFTEENTH. TWENTY-SECOND. TWENTY-NINTH. AND THE FIRST OF NEXT MONTH, and **the last line is right this month**, because the twenty-ninth is the last Thursday in a month of thirty days — and last month's said the seventh of next month and was six days out, and the difference between the two cards is that one man has now read it. **At the Reading wall at nine, eight days after they were last there**, the white-bearded man tells him what nobody tells you: the ranks wall is the wall, and the **board at the side of it is eleven feet long and is painted once a month on the first, before the figures go up at ten, and carries the standing households** — number, standing, schedule date — two hundred and something lines where there were a hundred and eighty in the spring. Then **Hanne Voog**, assessment, nineteen years, comes up sixty-one steps at about eleven with a docket, because **a broker of record who has entered a security against a household must produce on the first of each month a copy of the roll of the persons answerable**, and the roll kept at premises is not an instrument and has no force, so the only answer to the call is a copy. She stops at the twelfth step because she was told, she copies six names and a head off the pencil board in ink at about eleven in the morning when the stair window is at its best, **the seventh row last, and she does not ask anybody to hold a lamp**. She values it, and says the number out loud on a landing because she is frightened of saying it in a room, and the number is the yield of a word — *produce* — said four times a year by whoever holds the book: six names at the top of a column and one at the bottom with a number beside it. Sun Meiling is not angry with him. She is angry that she was right. **What she bought in pencil on the twenty-ninth — that the wall and the file would not disagree by one name — is the only reason the copy is worth anything, and it is now in ink in a book a stranger will read on the fourth of every month.** Marguerite, at the foot of the stairs: *come up to the rooms at four, not the Exchange, my rooms, and I will tell you the one number in that book that is not in hers.*
+
+### Ch 212 — The Best Room In Ostara
+**The second, and the angry chapter, and she is right.** Her rooms on the third floor above the Exchange, two chairs, a table with nothing on it, shutters at half height. She entered the examination on the twenty-fourth because a house is not seizable; on the second of June a woman came up sixty-one steps and read six names off a wall in ink, and **a senior broker of the Vant of Brokers has made six named women the most liquid thing in a book that has been dead in eleven places since the nineties, and did not see the shape of it in four minutes at a window.** She is angry at herself and she hands him the reason to be angry at him: *you are the reason it is priced. Not me.* **A book is not worth what the securities in it are worth; it is worth what a man with four guilds and an afternoon will pay to be handed it in four years, and what he pays for is the ability to produce six names, one head and a standing at his own desk without a court, without a hearing and without anybody's agreement. And in thirty years she has never had a man with nothing at all make better security than a man with something — he is the best collateral she has ever entered in that book, and it is because he is worth nothing.** And then the underneath: **there is an account in that ledger entered against the broker of record in the year the Veil broke, never discharged, never written off, secured for eleven years by a person rather than by money**, and there is a name against the line, and it is not hers, and she will not say it today. She will say it on the fourth, and he will not like it, and he will not be able to do anything about it. On the sixty-one steps: *I am the only one of the six that copy carries with nothing under my name at all, and a blank in a copy is a question somebody is going to ask me in four years in an office I have never been in.*
+
+### Ch 213 — The Woman In The Doorway
+**The third, and ten past seven in the evening, which is the exact night Ch 210 named.** Marit Kolb, nineteen years, a card, four columns, up eleven steps and stopping at the twelfth both times. **Thirty-six of the sixty gone, twenty-four left.** She counts the roll twice at two different hours and comes up six names and nil spaces both times. She asks who filled the seventh row and is told, and is told *in pencil, on the twenty-ninth, in my own hand*, and enters it as a member, and does not stand there for eleven minutes asking a member why a member wrote her own name on a board in pencil instead of on a form. Then the fourth column, the premises, put twice — and the room does not answer, twice, and it is not silence, and a district officer who has written *put the question twice and got nothing* on three cards in nineteen years looks at the room at the back where the door is open and says she has never once written down what it was. She writes **six**. And then the woman in the doorway: **Agnete Lindqvist sleeps at this address and does not keep an address here, and Kolb explains exactly why she cannot enter her — the column asks how many keep an address, there is no second column, and a woman who does not keep an address is not an omission in my book, she is the correct application of it — and puts the pen away.** In nineteen years she has never left a line blank. She says she will come up those last six steps on the twenty-sixth, ten past seven, and read that row in the dark, because that is what the light has been doing to it since the thirtieth of April. **At the door, her fourth question, which is hers and not the district's: a roll is nothing, but a roll that says exactly what a head's sworn declaration says is a copy, and a copy can be produced out of the file by anybody holding the file, without anybody walking up sixty-one steps.** And nobody says one word about Ines Duarte, who came down four stairs and stopped, and is not going to be asked.
+
+### Ch 214 — A Promise With No Maker
+**The fourth, and Volume 5's second scene, and it is immovable. 2,912 words.** Petra Ilyin comes up sixty-one steps of the Exchange building at four and has been in a collecting room since about eleven that morning, and the door has been standing open the whole time. **She cannot be the first one out of a room — she can leave eleven times out of twelve, and on the twelfth her body takes her back to a table, and it does not feel like anything, because it feels like putting a cup down, and that is the part nobody has ever believed.** Eleven years. She cannot remember who made the promise. She has a docket with four ruled lines on it and asks him three questions and records the answers in her own hand, and **the third one is the one she cannot answer and asks anyway.** Marguerite Vale comes to the door with the chained book under her arm: an account entered against the broker of record in the year the Veil broke, carried nineteen years on money that stopped coming and eleven years on a woman, because it could not be paid and could not be written off and the guild had stopped carrying it; **I made a woman of thirty-four swear to me in a room in this building and I have let her sit in it for eleven years and I did not tell her.** She writes one line in the left-hand column in about eleven seconds with the pen chained to her wrist and does not stop to check it. Petra stands up, gets three steps, puts her hand on the frame four inches above the thumb-turn, and cannot leave an open room for about nine seconds — and says the true thing about her own condition in daylight in a corridor: *an oath of holding is not a bar. It binds my body and it binds nothing else. It has never once stopped me doing anything at all.* What she wants is not him. **What she wants is to be finished.** And then the hour: she does not close the door, she takes her boots off because she means to stay, she tells him in her own voice before anything that she is not being collected, she makes him put his hand over her mouth if she starts pricing again, and Marguerite goes and stands somewhere else. Afterwards she says the coat is on that peg and has been since the day she came up here and she could not take it with her. She gets up at about six and does not look at the peg. Then she stops, and goes back, and takes the coat off the peg, and hangs it up again, and does not touch it. **That stays.** She walks out without it, does not touch the frame, and says his name once at the top of sixty-one steps, which is the first name she has said in a doorway in eleven years and then left through.
+
+### Ch 215 — Eleven Years Of It
+**The fifth, the morning after.** **Thirty-eight of the sixty gone, twenty-two left, twenty-two days to a
+certificate.** Seven women in the kitchen, six of them keeping a notebook, and the seventh was written
+into a guild's month book in ink on the sixth. Marguerite names the account in front of the room: entered
+against the broker of record in the year the Veil broke, never discharged, never written off, secured
+against a person eleven years ago — and **an officer of the Vant has been inside this building for eleven
+years, four times that anybody knows of, on no roll and in no notebook, because a person inside an
+obligation cannot also be a person inside a household, and Marguerite made that decision alone and
+consulted nobody because there was nobody.** It sits under the whole chain — not a rung on it — and it is
+in her own name. It came off the dead list on the fourth at about five in the afternoon and the security
+against it is nothing, and **a live unsecured account in the senior broker's own name is the one thing in
+that guild that does not sit still and wait for the sitting: they will require security, the demand is
+dated the tenth, and there is nothing in that house to give them except a man.** She refuses to ask any
+of them for a figure and says so out loud in front of seven women. Petra says she was not wronged — she was
+owed a discharge and did not ask, because an officer does not ask — and that she has not asked what the
+account is for and is not going to. Runa Sato puts the chain out loud and gets three things wrong in a
+row. **Sun Meiling says no**: the certificate will issue on the twenty-seventh upon a standing a stranger
+can call, and she is not going to watch the last of it go up a ladder in a different building, and she
+tells him she knows the shape of what he is about to do and is not going to be angry in the third person
+about it this time.
+
+### Ch 216 — What The Line Does
+**The sixth, and the quiet one.** Beatrix Halm comes up the sixty-one steps at seven in the evening with a
+notebook, one ear still ringing from six hours in a cab, and puts it on the table face down. **Nine people
+at eight in the morning going the wrong way, on the first and every day since, five days running.** She
+can feel forty thousand people move on a good evening; she cannot tell you a name, only a direction, a
+weight and whether somebody is in a hurry. She tells them what a condition is in that building — *a thing
+you are not tested for*, which means you are never found to be all right and never found to be not all
+right — and that she has been deaf in one ear since the Veil and it is a switch, not deafness, and that
+the whole of the noise of a nine-hour shift comes into the other ear and stays there. Her hearing is a
+signal operator's instrument and nobody in her division has ever once found out what she can do. She is
+not angry with anybody. **What she wants is to be aimed.** She does not want to be told she is right; she
+wants four sentences with anything in them about what to look for. She has been the person this house
+finds out something from after it has already happened for four years, and the last four things she felt
+got in first, and on the second she felt nine people and said nothing until the sixth. Nadia Ferrous writes
+down that she has been in the building four years and not one person has ever once asked her what she
+wanted before she told them what she felt. At the door, Agnete Lindqvist, in the ordinary way, in the
+daytime, the way she has stood every day this month: *you are the woman a district officer left a line
+blank for. Good. The other one made a man put his pen away, and the difference between the two is the
+whole of what I do.*
+
+### Ch 217 — Eight Thousand One Hundred And Thirty-Eight
+**The seventh, and the batch's irreversible decision, and it is his, and it is the first time he has spent
+anything.** The notebook on the kitchen table at a quarter to eight: 07:58. Off the north line. Satchel.
+Slow. **Six days of nine and then one.** At nine, **Ortwin Halb**, discipline, twelve years, up eleven
+steps and stopping at the twelfth, with a summons and not a demand, and the difference said out loud at the
+top of the stairs: *a demand is dated, a summons is a person in a hallway.* At the top she goes to the
+wall and puts her hand on the sixth name and takes the pencil off the shelf — **which is Sun Meiling's
+pencil, from the twenty-ninth of last month, and is two inches long, and putting her name back in pencil
+afterwards is not permitted.** Sun Meiling tells her to write it in ink, all six of them, in the book,
+because being permanent on a wall is not the same thing as being permanent in a book and she would like to
+find out which one she was actually afraid of. Runa Sato comes up four steps and puts her weight on the
+rail without touching anybody, and Ortwin Halb tells her exactly what she would write down. **She writes
+six names on the card at nine in the morning on the seventh and puts the pencil back on the shelf with a
+flat lead.** Then the kitchen, and the figure said out loud with his hand out of his coat pocket:
+8,138, floor 8,141, tolerance three, unmoved in five years, and before four this afternoon it goes into a
+chained book at a desk on the ground floor of the Exchange and lodges against an account that has been
+dead for thirty years. **Forty of the sixty gone, twenty left.** Three people answer at once and all three
+are wrong. Then the desk: the second form, the one that takes a head. **A standing lodged under this head
+is released with the book and not by the person who lodged it, may be called by the holder of the book at
+any valuation, and the person who lodged it has no right of withdrawal between the lodging and the next
+one. A month is a valuation, unless the book changes hands.** The clerk asks whether he has been told by
+a person whose trade it is to know, and Marguerite says he has not corrected you. He signs at twenty to
+four and a clerk reads the whole of it back to him across a counter, which is the second time in eight days
+and the first time he has thought about it. **The copy goes into the chained book in her own hand and the
+chain comes round her wrist.** In the street she refuses to say the sentence and makes him carry it: a
+man with a plate at 8,138 has pledged the whole of it on an unsecured account in a chained book, and the
+certificate on the twenty-seventh will issue, if it issues, upon a standing a stranger can call. And she
+will not write the word *because* on the quarterly return.
+
+### Ch 218 — The First Of The Month Was Painted
+**The eighth, a Thursday, and everything the decision cost.** At seven on the second floor of the Fourth
+Branch, **Lode**, who has cleaned beside him for three years, puts a cloth down and says the name of his
+household is on a line in the ledger the man in the plaster hat took through the landing at six. He did not
+say it unkindly, which is the part Lin Hao was not ready for. Half the landing has it by lunch, and Lode
+says he did not ask about it and would like it on the record from him rather than from anybody on the
+floor, because in about a week one of the men down at the gate is going to ask him about it and think he
+is being interesting. Dewey gives him half an hour and owes him a free morning in April. **At five to ten
+at the district office in Cordwain, the fifth of a series and the fourth postponement, Beatrix Halm's
+rating hearing on her right ear: a woman at the counter went through her instrument in about ninety
+seconds and there is a line on the back in the Office's type saying the supporting instrument is
+encumbered.** A claim supported by the encumbered standing of a household cannot be heard. Postponed to
+the first of July, which is the next valuation. **Twenty-three days.** She makes him keep his face under
+control for about four seconds and then stop, and then says the thing that is the subject of the whole
+month: nobody has told him what the standing is standing on since the nineteenth of May. Then the square.
+**The board at the side of the wall is not the wall.** Eleven feet, painted once a month on the first by
+a crew that is not the Thursday crew in a shade that is not the Thursday shade. Two hundred and something
+lines. **34-6-118, four days up from the bottom, with a name typed small at the head line.** It went up
+on the first at about a quarter to ten, by a man in a plaster hat who does not know the wall and paints
+from the book, which is correct, and he painted it while his head was somewhere else in the city with his
+coat off. The column says the schedule's date and not the certificate's. It does not come down, and if it
+did it would leave a ghost, and a ghost on that board is a hole. Nadia Ferrous at the top of the stairs:
+Sun Meiling has been going up to that landing with a chair since about ten past nine because in the first
+week of June the sun comes round the back of that building and hits it at about a quarter past ten, and
+she has not said so, and she is not checking that her name is still there.
+
+### Ch 219 — The Complete Version
+**The ninth, and Ines Duarte, and she does not say one word about the twenty-second of April.** A notice of
+production is carried up the sixty-one steps just after eleven in an envelope with a form number on it,
+addressed to Ferrier Street and not to Lantern Row, and Ines comes in behind it at eleven twenty having
+told the man on the bottom stair that if she was going to be handed a document about her own premises it
+would be handed to her in front of the people it concerned. She reads it standing up in the flat voice of a
+clerk, and the third line names the auditor of record, and the second line says the officer holding that
+schedule may not certify a household of which she is a member. She hands it to the room and lets the room
+do it. **The certificate is dated the twenty-seventh and the schedule goes up on the twenty-sixth, and the
+schedule cannot be certified, so on the twenty-sixth it does not go up and on the twenty-seventh there is
+no certificate.** The only instrument in the office for removing a person from a certified schedule is for
+an officer with a conflict, and she is the only person on that page with a conflict, and she has been
+since the sixth of May, and she put herself on it anyway, and she will not discuss it. Then Sun Meiling
+turns the notice over and finds the line above the address that the whole room read straight past: **the
+office indexes every schedule a member of the division appears upon, and it has indexed this household
+twice, and the two entries do not know about each other, and the rule that keeps them apart is a rule
+that says an officer is not told about her own division's index sheets.** An office has built the only
+complete version of that record in the city, and Cobb Street has never been inside the house and is never
+going to be told what is in it, and the complete version now carries the head's pledged standing on the
+foot of it. **That is the safest thing about the household and it is safe because of a form.** Ines asks
+for the extract to be left on the table. She wants the copy in the notebook made, and she wants the two
+documents to differ, and she wants the difference written down, because she is the only person alive who
+can read both of them properly. She says, once, that she is going to ask to be removed from the schedule
+— not today, not in a fit of anything, in a room with a door on it, in writing, with a reason attached —
+and she asks the room for two working days' grace and for nothing to be asked her, and then asks for the
+first standing instruction she has given in this house in four years: **if anything comes to that address
+with a form number on it, whoever opens it tells her before anybody discusses it, and it goes in a book
+that is not hers.** Nadia Ferrous writes it down and turns the notebook round.
+
+### Ch 220 — Eleven Dockets
+**The tenth, the last day of the demand.** At a quarter past ten the account has a standing against it and
+the standing is a plate at 8,138, and it took four minutes at a desk and a clerk wrote one word and turned
+the sheet round. The account is secured from the seventh; the examination stands; the book goes to the next
+sitting in four years without a question about item one. **Beatrix Halm's hearing comes back on the first
+of July in writing, at nine in the morning, and she does not celebrate and the household lets her alone,
+and from the seventh until the first nothing in that house draws on anything — three weeks and one day,
+and it is the first time in five years there has been a date on the good side of anything in that kitchen,
+and it is on the good side because a man put a plate into a chained book.** At nine in the morning Petra
+Ilyin went back to the Vant on her own, which was the first time in eleven years that going back had cost
+her nothing, and came up the sixty-one steps at half past eleven with a coat over her arm that was not his.
+The coat was on the peg in a room eleven feet by seven with a bolted table and four pegs and a high window
+with a grille and a door standing open. **Twenty-one days.** Then she puts a bundle on the kitchen table.
+**A hundred and thirty-two dockets, one a month for eleven years, folded twice, every one of them bearing a
+production mark in Marguerite Vale's own hand on the second of the month at four seconds apiece, a hundred
+and thirty-two marks in a hundred and thirty-two margins, and not one gap in any of them.** Eleven years,
+four times in the building, not once. She wants the version in which she is a woman who trapped a girl in
+a room to be on the table next to the true one, and she wants it said out loud by somebody who is not her.
+Beatrix Halm says the thing nobody has been getting round to: she did not know either, and it took a docket
+with a coat in it. Nadia Ferrous asks the only question she has ever asked anybody in that room, which list
+are you on, and writes down **none of them**, and observes that between Petra Ilyin and Agnete Lindqvist
+there are two people at Ferrier Street on no list of any kind and about twenty-two years of a life spent
+on the wrong side of every form in this city. And then the twelfth docket, which is not on the table: she
+took it out at nine o'clock that morning before she put the coat on, and it is dated the first of July, and
+today is the tenth of June. **Twenty-one days early.** Somebody inside that building already knows what is
+going to happen on the first of July, has written it out, and has put it in a coat pocket, addressed to
+Ferrier Street, for a household of six with a head whose standing is lodged and answerable. **Seventeen
+days to a certificate. Three weeks is what his plate bought on the seventh, and somebody has already
+written the paper for the day after it.**
