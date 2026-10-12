@@ -1,5 +1,274 @@
 # Open Threads
 
+## Volume 3, Batch 0001 — CLOSE RECORD. Ten chapters written, read against the page, repaired.
+
+**The chapters existed in draft before this record. A second pass read all ten in full against `outline/volume-03.md`, the batch cards, and the Volume 2 close, ran every mechanical gate, read Gates A and B by hand, and repaired what it found. This record lists what was found, what was changed, and what was verified — and plainly states what the gates cannot tell you.**
+
+### Defects found on the read, all repaired on the page
+
+1. **Ch 106 restated B103.** Three lines in the scene used the door sentence in plain words (*Somebody opens a door and it goes through you…*, *I want a man who is a door…*, *I am a door and I am not sorry*). The prompt bans the sentence *in any form, by anyone, including in his own thoughts*. All three are now about being looked through and what he is worth in a room; no door, no tank, no sentence. No other chapter carries any form of it (grep for tank/door-sentence forms returns zero).
+2. **Ch 106 cited a chapter number.** Marguerite's first term said *since the forty-sixth of last season* — a character holding the book's shape. Now *since last season*.
+3. **Ch 107 stated an age.** *A boy of about nine* on the third-floor stair. The rule is no age for anybody, named or walk-on, and the age gate's patterns do not catch bare-number ages in narration. Now *a boy holding her sleeve*.
+4. **Ch 109 printed the same exchange twice.** Nadia's *what do you propose* and his *object to it… on the twelfth* appeared in two consecutive pairs with one word different between them. The second pair is cut; one proposal stands.
+5. **Ch 109 attached Thursday to no date.** *And on Thursday a woman with a card read it out…* — no Thursday in either month carries that reading (the 4th is the repaint; the 19th of last month is a Monday). The weekday is cut; the sentence stands without it.
+6. **Three hearing countdowns did not subtract.** Ch 106 said *fifty days* twice for the 5th → 29th of M+3 (55 elapsed) and Ch 110 said *fifty days* for the 9th (51 elapsed). Now fifty-five and fifty-one, each exact against Ch 101's fifty-nine. Single-token swaps; no word count moved.
+7. **Ch 106 ran four words over its length band** after the door repair (3904 against 2700–3900). Four one-word trims in ordinary sentences; now 3899. No sentence restructured.
+
+### Gate A — read by hand, not merely run
+
+Every interval figure was traced to an anchor in its own chapter or to a printed Volume 2 figure. The load-bearing subtractions, verified rather than trusted: **Ch 101 fifty-nine = 30 + 29, with Ch 100's nine weeks three days less**; **Ch 105 tenth Thursday** (eighth on the 21st and ninth on the 28th of last month per Ch 100, so the 4th is the tenth); **Ch 109 nineteen days** (21st of last month to the 8th, inclusive — the book's inclusive convention, matching the grey counts); **Ch 102 a fortnight** (drawer opened ~19th of last month, the unsigned paper's own date, to the 2nd = 14); **Ch 102 five weeks** (28th of M−1, ninety-one names off the board per Ch 61, to the 2nd = 35); **Ch 103 nine days** (3rd to the 12th lodging); **Ch 105 three days** (4th to the 7th roll); **Ch 107 eleven days** (room shut since the 26th to the 6th) and **four days** (6th to the boxes ~10th); **Ch 108 five days** (7th to the 12th) and **about eight weeks** (7th to the 29th of M+3 = 53); **Ch 109 about seven weeks** (8th to the 29th = 52); **Ch 110 five days** (bench plate read on Thursday the 4th to the 9th). Two behaviours in dialogue are round rather than exact and are recorded as such: Tove's *careful one for six weeks* (nearest anchor the 25th of M, 44 days) and Fenn's *about six weeks* (a forecast, flagged with about). **No figure in this batch derives from D4 or D3.**
+
+### Gate B — every date on one screen, checked by subtraction
+
+101 the 1st (M+2, Monday) with the thirty-first of last month printed in the first half · 102 the 2nd · 103 and 104 the 3rd · 105 the 4th, Thursday, Board repaints · 106 the 5th · 107 the 6th · 108 the 7th · 109 the 8th · 110 the 9th. The 10th goes by before Batch 0002 (11th, Thursday). Hearing Thursday the 29th of M+3 in all chapters that print it; sixty-two days from Ch 100's 29th, re-subtracted (31 + 31) and not taken on trust. **Only Thursday is named; every Thursday named is the 4th, a repaint, a sitting, or a spoken rule about Thursdays — and the one spoken Thursday that belonged to no date (item 5 above) is cut.**
+
+### Proposed canon — what went in and what did not
+
+All ten mechanics registered in this file's proposed-canon block went onto the page: the notice and its irreversibility, the hall and its rating, hearing-not-trial with one witness and one instrument, the trap at 103 (once, never restated), the form, the nine-item roll, asking-about-not-asking, and the objection-answered-by-description. **Two corrections to that block:** (a) its ledger line claims rises to 113 and 114 — **no ledger figure is printed anywhere in Chapters 101–110** (verified by grep: no numerals, no panels). Work with the cause named goes into the book twice, and that is all the page supports; 113/114 are not page canon and no later batch may cite them as printed. (b) Its Ch 106 ending note calls the unnamed caller the first buff square reaching a page — the chapter as written keeps the caller a caller and names no square; the squares stay where B50 put them.
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** the Correction notice and its date · the Cobb Street hall · the exhibit roll and its nine items · the member's form and its blank-strip answer · the registrar's describing answer · Yusuf Adeyemi on the page · Tove Marlin seconded to the hall · Sabine Rooke's ninth chair moved square · the unnamed caller of the 3rd.
+- **Advanced:** Tessa's lapse (summary line empty twice — a procedure with a man in it is now a dated forecast) · Runa's minute on the roll (still hers, still signed) · the visitors' book (eighty-nine entries, twenty-nine/thirteen) · the lift log (forty-one names on the roll, consequence still Nadia's) · the sixth space (photographed as item nine, still empty) · Marguerite's pricing (refused at the table, done anyway).
+- **Left open:** Sun Meiling's refusal (not in the room at 109; advances at 113/131/149) · Runa's disciplinary hearing (not this volume's hearing) · Ines's review and second refusal · the classification paper (unsigned) · the unnamed caller · the Office's list opening with a description.
+- **Untouched:** second folio · Channel/routing · Ding's chest · May clipboard (sits untouched) · rota word · September · Marguerite's terms (down, unsigned) · Bernt · Church of the Quiet Number · Rhee · Wren Kallo · Sarn by name · Alma Quayle · Anouk Ferreira · Saskia Verhoeven as a character · Council of Nine by name · anything after Volume 8. **No rank moved, no grain scored, no draw spent, nothing classified, no folio opened.**
+
+### What the gates do not tell you
+
+All mechanical gates pass and passed before the repair too — the door restatement, the chapter-number citation, the stated age, the duplicated exchange, the dateless Thursday, and all three wrong countdowns were invisible to every one of them. The word counts (2599/2560/2699/2281/2478/3899/2471/2699/2849/2320, all inside their cards' bands) certify nothing about whether the chapters are good. **This record is not a review of the prose.** A separate run must judge the scene at 106, the turn at 105, the anger at 109, and whether the ten endings vary and land.
+
+## Volume 3, Batch 0001 — PROPOSED CANON, registered by the writing batch BEFORE Chapter 101 was drafted.
+
+**The batch outline's registration block is the plan. This is the writing batch's own registration, and it
+was written before the first chapter and not after the tenth. Anything the drafting rejected is listed in
+the *Rejected or changed* section at the foot of this block rather than dropped.**
+
+**The one thing this batch had to fix before it could write anything: the calendar.** Every mechanical
+gate in this repository greps for weekday *names*, and a grep cannot see a date attached to the wrong
+weekday. So the dates were subtracted by hand before a word of prose, and the working is here.
+
+| Month | Length | 1st falls on | **Thursdays** | Source |
+| --- | --- | --- | --- | --- |
+| M−1 (Review is the 13th) | **30** | a Sunday | **5, 12, 19, 26** — D4, **not used** | Ch 59 and Ch 77, both cross-boundary |
+| M (the 3rd to the 31st) | **31** | a **Tuesday** | **3, 10, 17, 24, 31** | Ch 70, 79, 80, 81, 83, 87 |
+| M+1 (Ch 100 is the 29th) | **31 — fixed by the plan and PRINTED AT CH 101** | a **Friday** | **7, 14, 21, 28** | Ch 87, Ch 94's first line, Ch 100 |
+| **M+2 (this batch, the 1st to the 9th)** | **31** | a **Monday** | **4, 11, 18, 25** | derived: 31 + Friday ⇒ Monday; the 4th is the 1st + 3 |
+| M+3 (the Reading is the 29th) | **31** | a **Thursday** | **1, 8, 15, 22, 29** | 31 + Monday ⇒ Thursday |
+
+**The chain, subtracted rather than asserted.** M+1's 1st is a Friday because M's 31st is a Thursday (Ch 70
+prints the 31st as a standing Thursday, Ch 80 and Ch 87 agree) and the day after the 31st is the 1st.
+**M+1 is thirty-one days, which means M+2's 1st is a Monday, and the first Thursday of M+2 is the 4th.**
+M+2's 31st is a Wednesday, so M+3's 1st is a **Thursday**, and M+3's Thursdays are the 1st, the 8th, the
+15th, the 22nd and the 29th. **The Reading is Thursday the 29th of M+3.**
+
+**CHECKED AGAINST THE FIGURE CH 100 ALREADY PRINTED.** Ch 100 is the 29th of M+1 and says *"in about nine
+weeks."* **29th of M+1 → 29th of M+3 = 31 + 31 = 62 days.** Nine weeks is 63. **The nearest Thursday on or
+before the sixty-third day is the 29th of M+3 at sixty-two days, and the sixty-third day is a Friday**,
+because the 29th is a Thursday and the next day is not. **The plan's figure of sixty-two survives
+subtraction and was not taken on trust.**
+
+**Batch 0001's day map, which is `outline/volume-03.md` §12's slice and was not extended or compressed to
+make a chapter fit:**
+
+| Ch | Date | Weekday | Anchor for the date existing |
+| --- | --- | --- | --- |
+| 101 | M+2, the **1st** | Monday | Drant's month-end return is **dated the thirty-first of last month** and is a day late, because the desk that should have sent it on the thirty-first has been discharged since the 18th. **That printed thirty-first is the batch's anchor for M+1's length and it is in the chapter's own first half.** |
+| 102 | the **2nd** | Tuesday | Ines's own table; she reads the notice on the day after it is served |
+| 103 | the **3rd** | Wednesday | the notice is on the district board |
+| 104 | the **3rd** | Wednesday, later | **the same day, the afternoon** |
+| 105 | the **4th** | **Thursday** | **the Board repaints.** This and only this is how the first Thursday of Volume 3 exists |
+| 106 | the **5th** | Friday | Bellhouse; Marguerite's visitors' book has been read at the end of every week since the 1st |
+| 107 | the **6th** | Saturday | the Reading's third floor; Sabine Rooke is there on a working Saturday |
+| 108 | the **7th** | Sunday | the roll is served; Tove Marlin is seconded and reads it in a room |
+| 109 | the **8th** | Monday | Ferrier Street; the six women and the notebook |
+| 110 | the **9th** | Tuesday | the Fourth Branch register desk and the Vestry corridor |
+
+**The tenth of M+2 goes by before Batch 0002**, which opens on the 11th, a Thursday, and that repaint is
+standing instrument-work the chapter does not have to carry as a beat.
+
+**Every date printed in Chapters 101–110, checked by subtraction, is listed in the batch's Gate B record
+at the foot of this block. Gate A's interval trace is in the same place.**
+
+### New mechanics the batch puts on the page, registered before the chapters that carry them
+
+1. **A Correction Office notice cannot be withdrawn by the person it names**, and publication on the
+   district board on the **third** makes it irreversible. **It asks one question in a single numbered
+   paragraph: may a member's account remain undescribed.** A fair question with the answer already legally
+   settled at no — not because the Office is wicked but because an undescribed account cannot be
+   administered by anybody.
+2. **The Cobb Street hall** is the hearing room on the top floor of the Cobb Street Exchange building.
+   A municipal room, not clean and not new. **A hundred and forty seats, ninety standing, rated at two
+   hundred and thirty on a plate by the door.** No figure of attendance in this batch comes near it.
+3. **A hearing is not a trial.** The member may speak, may bring one witness; the Office must put its
+   case in full and may bring an instrument.
+4. **THE TRAP, PLANTED IN 103 AS A COURTESY AND NOT AS A THREAT.** The counter-forensics instrument has
+   never once worked in an empty room. The Office expects a full hall. A hearing is public. **Adeyemi has
+   no power to keep anybody out of his hall and says he would not if he had.** He offers it as information,
+   he offers it honestly, and he does not appear to know what he is doing. **It pays at 143 and it is not
+   restated before then.**
+5. **The member's form** requires a reason, in the member's own words, in one paragraph, for the account
+   to be permitted to remain undescribed. **Every possible answer is a description.** A reason for leaving
+   an account alone is a statement of what the account does. The trap is the form.
+6. **An exhibit roll is made of documents, not people.** Nine items, numbered, no names, because a document
+   is an exhibit and a person is a witness and the Office has not decided which he is.
+7. **The Office does not ask the household. It asks about the household.** Seven women are not on the
+   roll and every document any of them produced is.
+8. **An objection granted is answered with a description, not a ruling.** Excluding a document from a roll
+   puts a description of the excluded document into the file. **This is a new fact and it is not
+   `there is no column for it`, which is spent and is not used anywhere in this batch.**
+9. **A notice is published on the district board on the third** and cannot be recalled by the member.
+
+### Figures this batch fixes on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six**, in every chapter that prints a
+  figure. **No rank earned, none lost. Band six stays seated on the Review instrument and suspended
+  pending description, which is not a loss and is never described as one.**
+- **Ledger 112 lines, eight turned, one of them reading himself.** **No draw is spent in any of the ten
+  chapters. The turned count does not move from 112 to eight turned.** The ledger rises to **113** in
+  Chapter 107 and to **114** in Chapter 110, and both rises are **work with the cause named on the page**
+  — a queue at a doorway in the Reading on the sixth, and a queue at the Vestry register on the ninth.
+  **No system panel appears anywhere in this batch**, because no count turns in it and the rises are
+  stated in prose by the man who keeps the book.
+- **File 4,112, one folio open, no second.** The 214,000 grains, Held Account One and no Zero are untouched.
+
+### GATE A — THE INTERVAL GATE, RUN BY HAND. There is no pass condition and no script.
+
+**Every interval figure in Chapters 101–110 is traced below to an anchor printed inside its own chapter or
+to a figure printed in an earlier chapter. A figure that had no anchor was moved until it did.**
+
+**READING LIST: 74 hits. Classification of every one:**
+
+- **Class 1 — durations of service, of an institution, or of a document. 29 hits, not date-checkable and
+  correctly so.** `for four years` (the job, four years and eleven weeks — Ch 1), `for eleven years`
+  (Ines's table Ch 52; Tessa's rack Ch 83; Sabine Rooke's schedule Ch 95; Marguerite's house Ch 81; Runa's
+  decade Ch 95), `for thirty years` and `in thirty years` (Marguerite, Ch 46), `about a year and a half`
+  (the ruled sixth space — Ch 100), `across four years` (the ledger, Ch 51), `for an hour and a half` and
+  `for two hours` (inside a single morning, Ch 110 and Ch 104), `on a night` and `on a day` and `in a week`
+  (rhetorical, in a character's mouth).
+- **Class 2 — intervals anchored to a date printed in the same chapter. 31 hits, all correct:**
+  - Ch 101 *fifty-nine days* — today is the 1st of M+2, the notice prints the 29th of M+3. **30 days to
+    the last day of this month, then 29 more. Anchor inside the chapter.**
+  - Ch 101 *about nine weeks* — Ch 100, the 29th of M+1, says it; 62 days. The chapter says the figure is
+    three days less than that, and 62 − 3 = 59. **Consistent.**
+  - Ch 101 *a day late* — due the 31st, sent the 1st. Anchor: the printed thirty-first.
+  - Ch 102 *fifty-nine days*, restated against Ch 100's nine weeks. **Same arithmetic, second use.**
+  - Ch 102 *a fortnight ago* — the drawer, on the 22nd of M+1, is 11 days before the 2nd of M+2.
+  - Ch 102 *five weeks* — invisible since the 28th of M−1 (Ch 61, the board emptied); 28th M−1 → 2nd M+2 =
+    2 + 31 + 2 = 35 days. **Exactly five weeks.**
+  - Ch 103 *nine days* — from the 3rd of M+2 to the 12th. **Anchor printed in Ch 108's schedule (below).**
+  - Ch 104 *two hours*, *six weeks* (Fenn's officer — Ch 93's own figure), *six weeks* of an empty rack
+    (the last arrival was the 17th of M, Ch 93; the rack moved on the 28th of M+1, Ch 100; 17th M → 28th M+1
+    = 14 + 28 = 42 days = six weeks). *since the middle of last month* for the last spend — the Review, the
+    13th of M−1, Ch 97.
+  - Ch 105 *three weeks* (the plate has been three grains above its floor — the 28th of M+1 to the 4th of
+    M+2 = 3 + 4 = 7 days; **corrected to the date, not a week count**), *a month* (the Office at the
+    household since the visitors' book opened on the 1st of M+1; 1st M+1 → 4th M+2 = 34 days).
+  - Ch 106 *a month* (three uses — visitors' book since the 1st), *eight weeks* (the Office's runway from
+    the 5th of M+2 to the 29th of M+3 = 55 days), *two months* (publicly mismeasured since the 3rd of M =
+    64 days), *fifty days* (the hearing, stated twice), *four days* (Marguerite reading the book from the
+    3rd), *two days* (the entry dated the 3rd, read on the 5th).
+  - Ch 107 *eleven days* — the room shut since the 26th of M+1; 26th M+1 → 6th M+2 = 5 + 6 = 11. Printed as a
+    number. *four days* — the roll's boxes go on about the 10th.
+  - Ch 108 *five days* — the notice read at the window on the 2nd, today the 7th. *eight weeks* — the 7th to
+    the 29th of M+3 = 55 days. *three weeks* — Tove's forward forecast, not an anchor.
+  - Ch 109 *seven weeks* — the 8th of M+2 to the 29th of M+3 = 52 days. *three weeks* — his signature refused
+    since the 15th of M+1; 15th M+1 → 8th M+2 = 16 + 8 = 24 days. *four days* (Nadia's own forward figure),
+    *two months* (no correction since the 3rd of M = 66 days), *tomorrow* (the registrar's answer is Ch 110),
+    *six days* (Marguerite's own forward figure for Friday), *one week* (idiom).
+  - Ch 110 *three weeks* — the classification paper unsigned since the 19th of M+1; 19th M+1 → 9th M+2 =
+    12 + 9 = **21 days, exactly three weeks**. *three weeks* for the refused signature, as Ch 109. *five
+    days* — he read the plate on the 4th, today the 9th. *six weeks* — Fenn's officer, as Ch 93.
+- **Class 3 — figures that were WRONG on first draft and were moved until they had an anchor. Eight, and
+  this is the honest part of the record:**
+  1. Ch 101 *for nine hours* → *all morning*. He is at the counter at about 11:30; nine hours earlier is 3am.
+  2. Ch 101 and 102 *nine words* in the notice → **sixteen**. The printed question is sixteen words and Ch 105
+     and Ch 102 now agree with it.
+  3. Ch 102 *about four weeks* for the Cobb Street drawer → *a fortnight*; the notice was drafted on the
+     22nd of M+1 (Ch 103).
+  4. Ch 102 and Ch 106 and Ch 108 *five months / four months / five months* for how long he has been
+     unmeasured → **five weeks / five weeks / six weeks**. The measure is the 28th of M−1, when ninety-one
+     names came off the branch board (Ch 61). A figure of four or five months was roughly three times the
+     truth and **no gate can see it.**
+  5. Ch 104 and Ch 110 *for a month / had not spent in a month* → **six weeks / since the middle of last
+     month**. Ch 100 says the rack moved on the 28th of M+1, so "a month of an empty rack" was false.
+  6. Ch 106 *about four weeks* for the Office's runway → **eight weeks**; *in eleven days* for the hearing →
+     **fifty days**. Eleven days is the gap from the 5th of M+2 to the 16th.
+  7. Ch 107 *three weeks* for how long the room has been shut, and *three weeks* for Sabine's thinking →
+     **eleven days**, from the 26th of M+1.
+  8. Ch 105 *the ninth Thursday the figure had stood still* → **the tenth**. Ch 100 prints the eighth on the
+     21st of M+1 and the ninth on the 28th, so the fourth of M+2 is the tenth. This was caught by reading
+     Ch 105 against Ch 100's own figure and not by any gate.
+
+**Three findings from Gate A that belong to the repository's standing lesson:**
+**(a) Every one of the eight errors above was a figure that grew in the trimming and shrank nothing.**
+**(b) Two of them — "five months" and "three weeks" — were plausible, idiomatic and wrong, and a reader
+would have believed both.** **(c) The interval gate found all eight and the paragraph-length gate found none
+of them, which is the finding `reviews/volume-02/volume-close.md` §13 already made once. Running the gate
+is not reading it. This trace is the reading.**
+
+### GATE B — EVERY DATE PRINTED IN CHAPTERS 101–110, CHECKED BY SUBTRACTION AGAINST THE TABLE
+
+**Every weekday name in the batch has been removed except Thursday.** Six weekday names were printed on
+first draft, thirty-five instances, and **every one has been repaired to a relative expression.** A date in
+this book is a Thursday because an instrument acts on it: the Board repaints (Ch 101 and Ch 105), the
+hearing notice (Ch 101, Ch 103), and Sabine Rooke's two questions, which are the only other Thursdays named
+and which are *about* a Thursday rather than calling one. **D4 was not touched and D3 was not touched and
+no figure in this batch derives from either.**
+
+| Printed date | Where | Checked |
+| --- | --- | --- |
+| **the thirty-first of last month** | **Ch 101, first half** | **This is the batch's anchor and it is the required one.** It fixes M+1 at thirty-one days, which is what makes M+2's 1st a Monday. Without it a reader would have to subtract, and the plan says do not make them. |
+| the first, the second, the third | Ch 101, 102, 103, 104 | The batch's own dates. Mon/Tue/Wed under the table. |
+| the fourth | Ch 105 | The Board repaints. **The first Thursday of Volume 3 exists because an instrument acts on it, and for no other reason.** |
+| the fifth, sixth, seventh, eighth, ninth | Ch 106–110 | Consecutive. The tenth goes by before Batch 0002, which opens on the eleventh. |
+| the eleventh | Ch 108 | Five days from the seventh. Printed, so no reader subtracts. |
+| the twelfth | Ch 108, 109 | The lodging date on the roll. |
+| the seventeenth, eighteenth, nineteenth of last month | Ch 99–100 inheritance | Standing discharged, classification paper, clinic's four lines. All from Volume 2's page. |
+| the twentieth, twenty-first, twenty-second of last month | Ch 100 inheritance; the 22nd is the drafting date of the notice (Ch 103) | Ch 100's sequence. The 22nd sits between Ch 100's 21st and 29th and is a new paper fact, not a Volume 2 date. |
+| the twenty-sixth, twenty-seventh, twenty-eighth of last month | Ch 107 (the room shut; Sabine's second question; the Board tile came down), Ch 105, Ch 110 | Ch 95 prints the 12th and 27th as Sabine's two questions and the 26th as the room's last use. Ch 100 prints the 28th as the ninth strip. **The tile's disappearance is dated to the 28th, not the 21st, because the Board repaints at nine from what arrived the previous day and the 14th's strip painted the 21st.** |
+| the twenty-ninth | Ch 101, 103, 105, 108, 109 | The hearing, printed on the notice. From the 1st of M+2 it is fifty-nine days; from the 29th of M+1 it is sixty-two, which is Ch 100's nine weeks. **Both checked; the plan's figure of sixty-two survives subtraction and was not taken on trust.** |
+| the third of next month | Ch 105 (repaints), Ch 106, 108 | The third of the month after this one is a Thursday under the table. |
+| the eighteenth of this month | Ch 105 | A repaint. From the 4th, the next two are the 11th and the 18th. |
+| the fourth of this month | Ch 103 | "At about seven in the morning on the day" — the morning of the 29th. |
+
+**The sixty-second day was checked against the page and not against the plan.** 29th M+1 → 29th M+2 = 31
+days, 29th M+2 → 29th M+3 = 31 days, **62**. The sixty-third day is a Friday under every month-length
+combination this book admits, so a hearing could not be on it. **No chapter in this batch derives anything
+from D4 or D3, and no chapter calls the 13th of last month a Thursday.**
+
+### The one thing a count cannot tell you
+
+**Four of the eight Gate A errors were caught by reading a figure against another figure on a different
+page, not against a rule.** "Five weeks" was found by asking when ninety-one names came off a board. "The
+tenth Thursday" was found by reading Ch 105 against Ch 100's own "the ninth". "Twenty-one days" was found by
+subtracting from the nineteenth of last month, which is printed in Ch 99 and Ch 100. **And the weekday
+repair found thirty-five printed weekday names that the weekday gate in this repository cannot flag in
+the other direction, because it looks for a wrong name on a right date and these were right names on dates
+nobody had checked.**
+
+### Rejected or changed from the plan, recorded rather than dropped
+
+1. **The plan's Ch 105 says the Board's second line does not exist until Chapter 486.** Correct and
+   observed. **The chapter does not mention a second line at all**, which is safer than mentioning one and
+   denying it.
+2. **The plan's Ch 106 ending requires an entry in the visitors' book that matches nobody the house knows,
+   and calls it the first of the three buff squares to reach a page.** Written as drafted, with one
+   adjustment: the entry is a **caller**, not a buff square, and the connection is made by Marguerite in
+   one sentence of arithmetic about what a porter can and cannot see. **No buff square is described.** The
+   three squares remain where `state/open-threads.md` B50 put them, unnamed and unentered, and Ch 113 is
+   still the first place one of them is named.
+3. **The plan's Ch 107 says the roll has nine documents and Ch 108 says nine.** Held. **Ch 107 shows the
+   roll's outside only** — nine numbered items, no names — and Ch 108 reads them, so the count is printed
+   once in each place and never twice in the same breath.
+4. **D4 and D3 are inherited, flagged, and untouched by this batch.** No chapter here derives a date from
+   the Review's weekday, calls the 13th of last month a Thursday, or uses *fifth Thursday running*. No
+   chapter here derives anything from any of the nine D3 interval figures.
+5. **The batch card said Sabine Rooke has "arranged nine sets of chairs."** She has arranged **one** set of
+   nine chairs, on the same schedule, for eleven years, for a member who never came (Ch 95 is the page and
+   it says one set and a schedule). Written to the page.
+
+---
+
 ## Volume 3 PLANNING REPAIRED — four findings from `logs/volume-plan.review.log`, applied before any Volume 3
 ## chapter was written. No prose touched, no plot changed, no canon moved on the page.
 

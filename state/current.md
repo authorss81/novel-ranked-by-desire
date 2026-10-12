@@ -1,6 +1,30 @@
 # Current State
 
-**Last written:** **Volume 2 CLOSE — audited, recorded, then repaired once more after the review of that
+**Last written:** **Volume 3, Batch 0001 — Chapters 101–110 written and repaired once on the page.**
+Ten chapters of escalation step 1, The Notice: the hearing notice served, published and unwithdrawable;
+Yusuf Adeyemi on the page and not an enemy; the Board repainted without him; Marguerite Vale's scene at
+106; the nine-item roll; the signed acknowledgement with the excluding objection; the registrar's
+describing answer. A second pass repaired seven defects (a B103 restatement, a chapter-number citation, a
+stated age, a duplicated exchange, a dateless Thursday, three wrong countdowns, one length overrun) and
+touched nothing else. **It certified nothing about the prose.** Full record at the head of
+`state/open-threads.md`; calendar and mechanisms at the head of `state/continuity.md`; summaries in
+`state/chapter-summaries.md`.
+
+**Position:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Band six seated on the
+Review instrument, suspended pending description — not lost. Ledger 112 lines, eight turned, one reading
+himself; no draw spent in ten chapters; no panel. File 4,112, one folio open, no second. Standing and
+fourth floor discharged; classification paper dated the 19th of last month, unsigned; sixth space empty.
+Household seven women, six keeping the notebook, his signature refused.
+
+**In the story:** **the 9th of the new month, afternoon.** The roll is closed, the hearing stands for the
+29th of the month after next, and the Office's list of what it will put before the hall opens with a
+description. The 10th goes by before the next batch, which opens on the 11th, a Thursday.
+
+**Next phase to run:** **Volume 3, Batch 0002 — Chapters 111–120 (The Register).** Prompt at
+`workspace/volume-03/batch-0002/PROMPT.md`. Wren Kallo is named at 116 and on the page from 118; her scene
+at 118 is immovable.
+
+**Previous head record (Volume 2 CLOSE) follows and is unchanged: Volume 2 CLOSE — audited, recorded, then repaired once more after the review of that
 audit. Chapters 51–100 exist and are closed.** The close audit read the whole volume against
 `outline/volume-02.md`, answered the fourteen audit questions in `reviews/volume-02/volume-close.md`,
 **repaired fourteen figures on the page in nine chapters**, and wrote this record. **It certified nothing

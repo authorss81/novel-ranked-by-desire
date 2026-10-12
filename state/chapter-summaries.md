@@ -585,3 +585,35 @@ file up cold:
   matches seven and drops Ch 42. See `state/current.md` item 35.
 - **Volume 1's six scenes ran in six different emotional directions.** Volume 2's five must not repeat a
   shape Volume 1 spent.
+
+## Volume 3 — The Reading
+
+### Ch 101 — The Notice On The Board
+The 1st of the new month. A shift with no questions asked, which is worse than hostility. Drant's month-end return, dated the thirty-first of last month and a day late because the desk was discharged on the 18th. A Correction Office hearing notice, served personally: one numbered paragraph asking whether an account may remain undescribed. Fifty-nine days to the 29th of the month after next. Published on the district board on the 3rd; cannot be withdrawn by the person it names.
+
+### Ch 102 — A Reason To Be Measured
+The 2nd, Lantern Row. Ines reads the notice in ninety seconds: the answer is legally no, because an undescribed account cannot be administered. The notice publishes on the 3rd and the only door shuts with it. A member's form is coming that requires a reason in his own words, and every possible answer is a description. She is kind and completely unhelpful: everything that happens next happens in front of people.
+
+### Ch 103 — The Man From Cobb Street
+The 3rd, morning, the Cobb Street hall. Yusuf Adeyemi, eleven years running hearings, honest about being hated for it: a hearing is not a trial, the member may speak and bring one witness, the Office must put its case in full and may bring an instrument. As a courtesy he hands over the trap without appearing to know it: the instrument has never worked in an empty room, the Office expects a full hall, a hearing is public, and he has no power to keep anyone out and would not if he had. Lin Hao will walk in to refuse it and will bring no witness.
+
+### Ch 104 — The Form Requires A Reason
+The 3rd, afternoon, the Vestry. The member's form arrives: one paragraph, in his own hand, giving the reason the account should remain undescribed. He reads it twice and understands the trap is the form. On the blank strip he writes that a reason will be given in the hall, in person, on the day, and not on paper. Tessa's cost, told to him second-hand: the clinic's summary line went back empty a second time, a lapse and not a refusal, and a service failing to reply twice is about to become a procedure with a man in it.
+
+### Ch 105 — What The Hall Is For
+The 4th, Thursday, the Board repaints at nine. His tile is gone; the strip stopped on the 28th and this is the tenth Thursday the figure stood still. Four months of public mismeasurement ends in public unmeasurement, and the cost is that nobody has to care about him. The only road back onto the wall is the thing he refused twice: a public measurement. In three days a paper goes to every Correction desk, and one desk must decide what goes on the roll.
+
+### Ch 106 — The Best Use Of A Fact
+The 5th, Bellhouse. Marguerite asks leave to speak for him in three rooms using the house's name: a man about to be described in public cannot be seized by a court, and she wants to price that. Refused at the table, and she will do it anyway. Explicit scene, adults, four terms stated, no draw spent, her terms down and unsigned and untouched. Afterwards the visitors' book: an entry dated the 3rd, no name, four words — *Ask him what it is.*
+
+### Ch 107 — The Chairs They Put Out
+The 6th, the Reading's third floor. Eight chairs in two rows and a ninth square to a door, which Sabine Rooke moved there herself; the room shut since the 26th. It is not a hearing room but the room the parties wait in while the hall is cleared, and the Office has decided to put the exhibit roll in it and him with it. The roll has nine items. A queue of eleven people in forty minutes goes into his book with the cause named.
+
+### Ch 108 — The List Without Names
+The 7th. Tove Marlin, who produced the roll, reads it exactly as written and apologises for the room. Nine documents, no names: the Field minute with Runa's household line, the visitors' book, the clinic's four lines, the household record described and not named, the lift log's forty-one names, a district table with no clerk's name, the discharged standing, his own refusal, and a ruled empty sixth space. Five days to acknowledge or object, on the 12th.
+
+### Ch 109 — What He Signs Instead
+The 8th, six women and the notebook with nineteen days of lines. Nadia wants outright refusal; the roll goes in either way. He signs the acknowledgement with a written objection attached: item four, the household record, excluded from being read aloud — a record that is not his, never signed by him, described in his own hand to a registrar. Ines refuses the second document that would reconcile it. Tove reads the objection back exactly as written. It worked, and six women let him do it.
+
+### Ch 110 — What Comes Back Signed
+The 9th. The registrar grants the objection in four lines without deciding anything: item four excluded, and described — six lines, one line per woman per day, from the 21st, signature refused. He traded a name for a description and got the worse half. The classification paper is still unsigned. The roll closes, the hearing stands for the printed day, and the Office sends what it intends to put before the hall. The first item is not a document about him. It is a description.

@@ -1,6 +1,36 @@
 # Continuity
 
-# Volume 2 closed — the record a Volume 3 writer may not contradict
+# Volume 3, Batch 0001 — CLOSED (Chapters 101–110)
+
+**Ten chapters written against `outline/volume-03.md` escalation step 1 and `outline/batches/volume-03-batch-0001.md`, then repaired once by a second pass that read all ten against the page. Full gate output and the repair list are in `state/open-threads.md` in this batch's close record. This block supersedes every Volume 3 planning block below it on every point it touches.**
+
+## Calendar, as the page fixed it
+
+- **M+1 is thirty-one days, printed at Ch 101** by Drant's month-end return dated the thirty-first of last month, delivered on the 1st because the desk was discharged on the 18th. No reader subtracts.
+- **Batch 0001 is the 1st to the 9th of M+2**: 101 the 1st · 102 the 2nd · 103 and 104 the 3rd (morning and afternoon) · **105 the 4th, Thursday, the Board repaints** · 106 the 5th · 107 the 6th · 108 the 7th · 109 the 8th · 110 the 9th. The 10th goes by before Batch 0002.
+- **M+2 is thirty-one days, its 1st a Monday, Thursdays the 4th, 11th, 18th and 25th. M+3 is thirty-one days, its 1st a Thursday; the Reading is Thursday the 29th of M+3, sixty-two days after Ch 100.** Ch 101's fifty-nine days (30 + 29) and Ch 102's restatement agree; Ch 106's fifty-five and Ch 110's fifty-one were repaired to exact figures in the repair pass.
+- **Only Thursday is named, and every Thursday named is one of these.** D4 and D3 untouched: nothing derives from the Review's weekday, the 13th of last month is never called a Thursday, *fifth Thursday running* never appears.
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE NOTICE.** A Correction Office hearing notice, served on the 1st, published on the district board on the 3rd. One numbered paragraph, sixteen words: whether an account may remain undescribed. **It cannot be withdrawn by the person it names**; after publication anyone may repeat it. It accuses him of nothing. A member may bring one witness; the Office may bring an instrument.
+- **THE HALL.** Top floor of the Cobb Street Exchange building. A municipal room, not clean and not new. **A hundred and forty seats, ninety standing, rated at two hundred and thirty on the plate by the door.** A hearing is public; Adeyemi has no power to keep anyone out and would not if he had.
+- **THE TRAP, PLANTED AT 103.** The counter-forensics instrument has never worked in an empty room; the Office expects a full hall. Offered as a courtesy, honestly, by a man who does not appear to know what it is. **Not restated anywhere else in this batch. It pays at 143.**
+- **THE FORM.** Requires a reason, in the member's own words, in one paragraph, for remaining undescribed. **Every possible answer is a description.** He answered on the blank strip: a reason will be given in the hall, in person, on the day, and not on paper.
+- **THE ROLL.** Nine numbered items, no names: Field minute (Runa's household line), visitors' book, clinic's four lines, household record described-not-named, lift log forty-one names, district table with finding number and no clerk's name, discharged standing, his refusal, ruled empty sixth space. **The Office does not ask the household. It asks about the household.**
+- **THE IRREVERSIBLE DECISION (109).** He signed the acknowledgement with a written objection excluding item four from being read aloud. The objection describes the household notebook to a registrar though it is not his and he never signed it. **It cannot be withdrawn; the option of standing outside his own file is closed.**
+- **THE ANSWER (110).** Objection granted in four lines by a hand that decided nothing; the excluded item is described in the file (six lines, one per woman per day, from the 21st, signature refused). The roll closes; the hearing stands for the printed day; the Office's list of what it will put before the hall opens with a description, not a document.
+
+## Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six** wherever a figure is printed (101, 105, 110). No rank earned, none lost, no grain scored. **Band six stays seated on the Review instrument, suspended pending description — never described as a loss.**
+- **Ledger 112 lines, eight turned, one reading himself. No draw spent in any of the ten chapters; the turned count does not move; no system panel appears.** Work with the cause named goes into the book twice (the Reading queue on the 6th, the register queue on the 9th); **no new ledger figure is printed in this batch**, so no figure beyond 112 is page canon.
+- **File 4,112, one folio open, no second.** Classification paper dated the 19th of last month, still unsigned, still going back up three floors. Sixth space still empty.
+- **Household seven women; six keep the notebook; Sun Meiling does not and is not in the room at 109.** His signature refused, still refused. Visitors' book running since the 1st; the 3rd carries an unnamed caller: *Ask him what it is.*
+
+## What this batch did NOT open
+
+Second folio · classification entered · the word *Channel*, routing, or any implication of it · Ines's second refusal or her review · *he is not a tank, he is a door* in any form (repaired out of Ch 106) · Ding's chest · May clipboard beyond sitting untouched on Ines's table · rota word · September's outcome · Marguerite's terms beyond staying down and unsigned · Bernt's absence · Church of the Quiet Number · Rhee · Wren Kallo (named first at 116) · Ivo Sarn by name · Alma Quayle · Anouk Ferreira · Saskia Verhoeven as a character (district table carries no clerk's name) · Council of Nine by name · anything after Volume 8.
 
 **Written by the Volume 2 close audit, which read Chapters 51–100 against `outline/volume-02.md` and
 repaired fourteen figures on the page in nine chapters, and then by one repair pass after the review of that
