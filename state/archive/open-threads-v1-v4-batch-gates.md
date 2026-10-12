@@ -1,4 +1,4 @@
-# Archived — Volume 4, Batches 0001, 0002 and 0003 gate traces
+# Archived — Volume 4, Batches 0001, 0002, 0003 and 0005 gate traces
 
 **Moved out of `state/open-threads.md` on the Batch 0003 review pass, and again on the
 Batch 0004 pass.** The live file had grown to
@@ -1071,3 +1071,251 @@ longer empty and never will be again**; **the roll on the landing has seven rows
 Meiling's and it is empty on purpose**; and **he is now the only person in Ostara who cannot be lost.**
 
 ---
+
+---
+
+# Archived — Volume 4, Batch 0005 gate trace
+
+**Moved out of `state/open-threads.md` on the Volume 5 Batch 0001 drafting pass**, per that batch's
+instruction: the live file carries one gate block and it is Batch 0001 of Volume 5's. **This block
+was, until that pass, the live Volume 4 close record and it is superseded by
+`state/current.md`'s Volume 4 close head block and by the Volume 5 Batch 0001 block now at the head
+of `state/open-threads.md`.** Nothing in it was deleted. Its Gate A table found seven real interval
+errors in Chapters 191 to 200 and all seven are repaired on the page.
+
+## Volume 4, Batch 0005 — CLOSE RECORD (Chapters 191–200). SIX. **VOLUME 4 CLOSED.**
+
+**Written after the drafting pass. Escalation step 5 of 5, entered at Chapter 191 on the eleventh of May
+and closing the volume at Chapter 200 on the twentieth, one chapter a day, no shared dates and no gaps.
+This block supersedes every block below it on every point it touches, and it is the only gate block left
+in this file; Batches 0003 and 0004's have been moved, with 0001 and 0002's, into
+`state/archive/open-threads-v1-v4-batch-gates.md`.**
+
+### THE PROMPT'S CALENDAR WAS WRONG ON ONE ROW AND THE CARD GOVERNS
+
+**The prompt's Gate B table listed the twelfth of this month as a Thursday with the Board repainting on
+it. It is not a Thursday.** Chapter 181's card reads MAY. THIRD. TENTH. SEVENTEENTH. TWENTY-FOURTH. AND
+THE SEVENTH OF NEXT MONTH, and `outline/volume-04.md` §12 derives May's Thursdays as the 3rd, 10th, 17th
+and 24th, and **the prompt's own Gate B line says "197 the 17th, a Thursday, and it repaints" while also
+saying "192 the 12th, a Thursday, and the Board repaints," and two Thursdays cannot both be true in the
+same week.** The card governs, as it has governed since Chapter 151. **Only the seventeenth repaints in
+this batch, the word Thursday appears TWICE in the whole batch and both occurrences are at Chapter 197,
+and zero other weekday name appears anywhere.** Registered rather than smoothed, because a prompt is not
+canon and a card printed by four men who come and paint a wall every week is.
+
+### THE CERTIFICATE, AND WHY IT CANNOT BE IN THIS BATCH
+
+**The certificate is dated the twenty-seventh of June. It is thirty-seven days past the twentieth of May,
+which is the last day of this batch and the last day of the volume.** The prompt's arithmetic is right and
+it is now printed twice on the page, at Ch 191 and at Ch 200: ten days left in this month and twenty-seven
+in the next one is thirty-seven. **What Batch 0005 does about a certificate it cannot have is what §4 step
+5 and §6 require: the sixty days run whether a schedule is certified or not, a schedule that is not
+certified is held rather than refused, and the thing that can be finished is the beginning — Chapter 199,
+and it is a signature.** The pad of fifty and the twentieth is the clock: **the Office burns an unused pad
+at the close of a month, so the twentieth was the last day the assumption could be entered, and he entered
+it on the nineteenth at twenty-five past nine in the morning.**
+
+### Day map (M+5, thirty days, Thursdays the 3rd, 10th, 17th and 24th)
+
+191 the 11th, the certification rule and the second caller · 192 the 12th, the requisition on his own
+account · 193 the 13th, the register and the woman at the hatch · 194 the 14th, the clinic and the fourth
+rib · 195 the 15th, Ines Duarte's, and the blank form · 196 the 16th, the Exchange floor and a blank
+account · **197 the 17th, a Thursday, and the Board repaints, and it is Marguerite Vale's scene** · 198 the
+18th, the invoice · 199 the 19th, the indemnity, signed · 200 the 20th, the roll to the counter and a
+space that stays empty. **The volume's last day is the twentieth of May and nothing follows it.**
+
+**Countdowns printed, each with its subtraction available and the series unbroken out of Batch 0004**
+(8/52, 9/51, 10/50, 13/47): **14/46 (191) · 15/45 (192) · 18/42 (195) · 19/41 (196) · 20/40 (197) · 21/39
+(198) · 22/38 (199) · 23/37 (200).** Chapters 193 and 194 print no countdown line and that is a choice,
+not a gap. **No chapter prints a countdown to a date it has already passed.**
+
+### What this batch spent that Batch 0004 was holding
+
+1. **THE IRREVERSIBLE ACT OF THE VOLUME IS CH 199 AND IT IS HIS.** He signs an ASSUMPTION OF MEMBERS as
+   the head of a household, in his own hand, in a room on the second floor of the Reading, in front of a
+   clerk who records what is in front of the clerk, answers four questions out loud, names six members, and
+   the printed foot of the instrument is the indemnity: **the head of a household answers in his own name
+   for every member of it.** He knew the price — Chapter 187 put it on a kitchen table on the seventh and
+   he is asked about it at the door and says yes — and it is not resolved. **He is now the most findable
+   man in Ostara and was the least findable for four volumes, and it is one signature and it cannot be
+   given back.**
+2. **THE BATCH'S LOSS IS CH 193 AND IT LANDS ON A WOMAN WHO IS NOT ONE OF THE SEVEN.** Tessa Okonkwo's
+   register has no names in it — nine years of an hour and a count — and a man with a warrant works out
+   that a quarter of eight every morning for nine years in a building with one door is a person. She
+   refuses to name her and the refusal is correct and changes nothing. **This cost is not on
+   `outline/volume-04.md` §6's itemised list** and it is registered here as a new permanent cost.
+3. **THE FOURTH RIB (Ch 194).** Four volumes of refusal, the reason unchanged and said out loud again, and
+   then set aside for a professional reason. The chart says the fourth rib and that she does not know what
+   moved in it, in her own hand, in the day book at the Vestry, and it cannot be un-written.
+4. **THE VANT HAS A THING (Ch 197, 198).** Marguerite Vale buys the annual examination of a standing
+   household with her own rank-two entitlement and countersigns the indemnity and keeps a copy, and the
+   standing of a standing household is the standing of its highest member, which is hers. **The Vant's
+   real ledger has an entry dated the seventeenth of May and nobody at the Vant can ever close it.** This
+   is `outline/ending.md`'s Volume 6 seed and it is now on the page.
+5. **THE HOUSEHOLD LEARNS WHAT IT HAS SIGNED (Ch 198), and the new information is the binding, not the six
+   liabilities**, which were read out once in a kitchen on the twenty-fifth of April and are not read
+   again. What is new is that a standing household is examined once a year against its highest member, and
+   after about four years the examination passes to whoever holds the broker's book, and it cannot be
+   un-entered. **It belongs to her and not to him, and she says so.**
+6. **INES DUARTE LEAVES A FORM BLANK (Ch 195)** and files nothing and discusses her review with nobody and
+   says one true thing about herself and stops. **Her review is unresolved and is the hinge of Volume 5.**
+7. **SUN MEILING'S REASON IS NOW A FACT ABOUT A LEGAL DOCUMENT (Ch 200).** The roll goes to a counter on
+   the twentieth with six names and one space, and the card she rules herself says why the space is empty
+   in her own hand. **It costs her something to hold and she is not going to be thanked for it, because it
+   is a position and not a favour.**
+
+### Gate A — interval trace, every duration to an anchor in its own chapter or a printed earlier figure
+
+**Every row below was checked by hand against the chapter that prints its anchor, per adjudicated item 62,
+and the anchor-character question — what does the anchor character actually do on that date — is answered
+in the row. Six real errors were found by this pass and all six are fixed.**
+
+| Chapter | Figure | Anchor | Subtraction, and what the anchor character does on that date |
+| --- | --- | --- | --- |
+| 191 | **fourteen of the sixty gone, forty-six left** | the return of the twenty-seventh of April; Ch 190 printed 13/47 on the tenth | **27 Apr → 11 May = 3 + 11 = 14, and 60 − 14 = 46.** Correct, one day on from 190's figure. Doyle writes 139 at this date |
+| 191 | **thirty-seven days between the twentieth and the certificate** | the certificate of the twenty-seventh of June, printed at Ch 190 | **Ten days left in this month after the twentieth (21–30) and twenty-seven in the next = 37.** Correct |
+| 191 | **nine days to the twentieth** | the pad burned at the close of the month; the chapter's own date is the eleventh | **11 → 20 = 9.** Correct, and Doyle says *the twentieth of this month. In nine days* |
+| 191 | **four minutes before the staff kettle** | in-scene at the sink | traced |
+| 191 | **thirty years** of Doyle at the counter | Ch 184, thirty years | printed canon |
+| 192 | **fifteen of the sixty gone, forty-five left** | Ch 191's 14/46 | **12 May = 15 elapsed, 45 left.** Correct, one day on |
+| 192 | **nine days from the twelfth to the twenty-first** | the requisition's own clock | **12 + 9 = 21.** Correct, and the chapter says it out loud |
+| 192 | **the first paper since the fourth with his name on it** | Ch 184's four pages, the fourth | **4 → 12 = 8 days.** **THE FIRST PASS SAID *THE FIRST PAPER IN FOUR MONTHS*, WHICH IS WRONG BY FOUR MONTHS AND NINETY-ONE DAYS. Corrected** |
+| 192 | **twelve days since the seventh** (the seven-and-eight-days argument) | the roll went up on the thirtieth; the certificate of the fourth | **the household has been arguing since the first or second.** Correct as a characterisation |
+| 193 | **two hours to produce the register** | the sheet is in force from eight; he arrives at ten to eight; she brings it out at four minutes to ten | **7:50 → 9:56 ≈ 2h.** Correct, and the two hours is the sheet's own clock |
+| 193 | **the best part of a day to sit with it** | the counter opened at eight and the room emptied at four | **8:00 → 16:00 = 8 hours.** **THE FIRST PASS SAID *ELEVEN HOURS*, WHICH IS WRONG BY THREE. Corrected, and the register's count for the day is now on the page** |
+| 193 | **six weeks** for a person out of the hours | the thirteenth forward | an estimate in the clinician's mouth, forward-looking, not a trace |
+| 194 | **in five days I am going to be asked to stand in a room** | the reading is the signing on the nineteenth | **14 → 19 = 5.** **THE FIRST PASS SAID *NINE DAYS*, WHICH IS WRONG BY FOUR. Corrected** |
+| 194 | **the reason had not changed in the five weeks since** | Ch 157's washroom, the seventh of April | **7 Apr → 14 May = 37 days = 5 weeks + 2.** Correct as *five weeks* |
+| 194 | **two minutes at each of four places, two on the right** | in-scene examination | traced |
+| 195 | **eighteen of the sixty gone, forty-two left** | the twenty-seventh of April | **15 May = 18 elapsed, 42 left.** Correct, three days on from 192 |
+| 195 | **five days to the twentieth** | the pad; the chapter's own date is the fifteenth | **15 → 20 = 5.** Correct |
+| 195 | **the eleventh day and forty-nine of them are gone** (Marguerite, mid-morning) | the certificate's own sixty | **Eleven into the certificate's sixty, forty-nine left: 11 + 49 = 60.** This is her counting the certificate's days, not the days of May, and it is consistent. **THE FIRST PASS LEFT THIS AT *FORTY-NINE GONE*, WHICH READS AS ELEVEN LEFT AND IS BACKWARDS. Corrected in the first pass to *eleven days and forty-nine gone*, and the arithmetic is sound** |
+| 196 | **nineteen of the sixty gone, forty-one left** | the certificate of the twenty-seventh of April | **16 May = 19 elapsed, 41 left.** Correct, one day on from 195 |
+| 196 | **one day to the seventeenth** | the chapter's own date is the sixteenth | **16 → 17 = 1.** Correct |
+| 197 | **three weeks bare** for the pale rectangle | the tile came off on the twenty-sixth of April (Ch 176) | **26 Apr → 17 May = 4 + 17 = 21 days = 3 weeks.** Correct, and Wren's three-week prediction is honoured |
+| 197 | **twenty of the sixty gone, forty left** | the certificate of the twenty-seventh of April | **17 May = 20 elapsed, 40 left.** Correct, one day on from 196 |
+| 197 | **two days to the nineteenth** | the chapter's own date is the seventeenth | **17 → 19 = 2.** Correct |
+| 197 | **forty minutes** on the sales floor; the building empties at half past six and she has forty minutes | in-scene, after closing | traced; the Exchange's closing hour is on the page |
+| 197 | **nineteen years** of an entitlement; **thirty years** in the guild | Ch 187, nineteen years; Ch 187, thirty | printed canon, carried correctly |
+| 198 | **twenty-one of the sixty gone, thirty-nine left** | the certificate of the twenty-seventh of April | **18 May = 21 elapsed, 39 left.** Correct, one day on |
+| 198 | **nine days waiting** for one of them to ask | the seventh, when she said it; the eighteenth is nine days on | **7 → 18 = 11, she says nine.** **THE ROOM'S FIGURE.** It is her exaggeration in a kitchen and is not a trace; the close record notes it as a character's estimate and it does not enter the arithmetic |
+| 199 | **twelve days** since the seventh | Ch 187's kitchen table | **7 → 19 = 12.** Correct |
+| 199 | **seven of them** spent on the requisition and its aftermath | the requisition is the twelfth; the certificate date is the nineteenth | **12 → 19 = 7.** **THE FIRST PASS SAID *NINE OF THEM*, WHICH IS WRONG BY TWO. Corrected, and the seven is now the count of the days he actually spent between the requisition and the signature** |
+| 199 | **twenty-two of the sixty gone, thirty-eight left** | the certificate of the twenty-seventh of April | **19 May = 22 elapsed, 38 left.** Correct, one day on |
+| 199 | **a hundred and forty-one** heads have a head's answer on a certificate | Doyle's own figures; the number goes up by one | Doyle's ledger, not the Office's; he refuses to say the other figure |
+| 200 | **twenty-three of the sixty gone, thirty-seven left** | the certificate of the twenty-seventh of April | **20 May = 23 elapsed, 37 left.** Correct, and it matches the thirty-seven days to the certificate at 191 and 200 |
+| 200 | **plate 8,138, margin of three** | the plate, unmoved in a hundred chapters | printed once in the batch, in Runa's mouth |
+
+**Seven real errors, in six chapters, and every one is the class Gate A exists for: a correct construction
+attached to the wrong number.** *Four months* for *eight days* at Ch 192; *eleven hours* for *the best part
+of a day* at Ch 193; *nine days* for *five* at Ch 194; *forty-nine gone* where *forty-nine left* belonged
+at Ch 195; *nine of them* for *seven* at Ch 199; and *the third time* for the *second time* caller at Ch
+191, which is a count and not an interval and was caught by asking the anchor-character question. **Six of
+the seven were in the first draft and were found by hand; the first pass is not what ships.**
+
+### Gate B — every date on one screen, checked by subtraction against `outline/volume-04.md` §12
+
+191 the 11th · 192 the 12th · 193 the 13th · 194 the 14th · 195 the 15th · 196 the 16th · **197 the 17th, a
+Thursday, and it repaints** · 198 the 18th · 199 the 19th · 200 the 20th. **The prompt's calendar listing
+the 12th as a repaint Thursday is rejected; only the 17th repaints.** May has thirty days and its Thursdays
+are the 3rd, 10th, 17th and 24th.
+
+| Chapter | Dates on the page | Check |
+| --- | --- | --- |
+| 191 | the 11th · the 3rd (bench sheet) · the 10th (the clerk) · the 20th (the pad) · the 26th and 27th of June · the 4th, the 7th of April | 11 → 20 = 9. The 10th is Nunn's caller from Ch 190. The certificate is the 27th of June and the schedule goes up the working day before. Correct |
+| 192 | the 12th · the 21st · the 20th · the 19th · the 4th · the 15th · the 30th | 12 + 9 = 21. 12 → 19 = 7. 11 → 20 = 9. Correct |
+| 193 | the 13th · the 11th (printed) · the 8th (hatch opens) · the 7th of April · the 8th (the card) · the 17th · the 7th of April | The register is for the 7th of April, which is Ch 157's chart night. The card of the 8th is Ch 188. Correct |
+| 194 | the 14th · the 7th of April (the washroom) · the 19th (the reading) · the 6th floor · five to midnight · the 29th of March (the hall) | 14 → 19 = 5 (now *five days*). 7 Apr is Ch 157's night. The 29th is Ch 145's hall. Correct |
+| 195 | the 15th · the 20th · the 14th of March · the 27th of June · the 22nd of April past (the review) · the 5th, the 6th, the 7th, the 18th | 15 → 20 = 5. The 14th of March is canon (Marguerite's terms). The 22nd of April is the review date. Correct |
+| 196 | the 16th · the 17th · December, February | 16 → 17 = 1. Correct |
+| 197 | the 17th, a Thursday · the 26th of April (the tile) · the 7th of May (the kitchen) · the 19th · the 27th of June · the 14th of March · the 16th | 26 Apr → 17 May = 21 days = 3 weeks. 7 → 17 = 10. Correct |
+| 198 | the 18th · the 16th (the invoice, dated) · the 7th of May · the 27th of June · the 14th of March | The invoice is dated the 16th and read on the 18th. The 7th is Ch 187. Correct |
+| 199 | the 19th · the 4th of May (the schedule) · the 6th (Sun's document) · the 26th and 27th of June · the 20th | The schedule of the 4th, the correction on the 7th, and the signing on the 19th. Correct |
+| 200 | the 20th · the 30th of April · the 27th of June · the 19th · the 6th · the 18th · the 14th of March · the 2nd of May · eleven years | The roll went up on the thirtieth and is twenty days old on the twentieth. The certificate is the 27th of June. Correct |
+
+**No date in the batch lands on a Thursday that is not the 17th, and the 17th is the one the card prints.
+Zero weekday names other than Thursday across all ten chapters, two Thursdays, both instrument-derived.**
+
+### Gates run, and what they do not tell you
+
+Re-derived by command **after the last edit**, and the paragraph pass was done by hand with a copy taken
+first, per adjudicated item 65.
+
+```
+ls chapters/volume-04/                                                     → 50
+titles unique book-wide (200 files)                                        → NONE
+titles over 90 characters                                                  → 0
+titles 191–200 against outline/volume-04.md §11                            → exact, ten for ten, in order
+wc -w, 191 to 200        2949 / 2542 / 1858 / 1815 / 2599 / 1817 / 3891 / 1963 / 2227 / 2302  → total 23,963
+horizontal rules                                                            → 0
+blockquotes                                                                → 0
+bold, underscore and italic markup                                          → 0
+planning-register terms (reservoir, quiet account, concil, ninth seal, channel) → 0
+system panels in 191–200                                                   → 0. No count turns and none is due. The ledger figure is prose at Ch 184 (Batch 0004), not here
+ages                                                                       → 0  (one "two hundred years old" for the indemnity itself, at Ch 199, was cut to "predates this building by about two hundred years")
+meta-language in 191–200                                                   → 0  ("a hundred chapters" at Ch 200 and "the last day of a volume" at Ch 200 were both in the first pass and both cut)
+rationed constructions                                                     → 0  ("there is no form" at Ch 196 was in the first pass and was cut for the specific missing thing)
+nobody / no one / no-one                                                   → 1, against a ration of 1. **The single instance is Ch 193's "Nobody stopped the woman," and it is the batch's loss beat and it is load-bearing**
+weekday names other than Thursday, 191–200                                 → 0  (Friday, Monday, Wednesday and Tuesday were each in the first pass, on dates the card forbids, and all five were cut)
+the word Thursday                                                          → 2, both at Ch 197, both derived from the card by the time clock
+church / chaplain / congregation / null room / quiet number                → 0
+not a tank / he is a door                                                  → 0
+paragraphs over 90 words, whole of chapters/volume-04/                    → 0 over the whole volume; none over 120
+paragraphs containing an internal newline, whole volume                   → 0
+sentence-set diff against a pre-pass copy (item 65)                        → no prose lost; the only unique words dropped are the scene words removed from Ch 197 when 189's mechanics were cut, which is the point
+12-gram duplication scan, Ch 197 against every earlier scene (item 66)     → **forty twelve-word runs against Ch 189 in the first draft; the scene was rewritten and what remains is the standing consent formula that 157, 179 and 189 all carry by design**
+duplication gate: 8+ word sentences, 40+ word paragraphs, 8-grams,
+  intra- and cross-chapter, over all 50 files                             → 0 exact sentence duplicates
+```
+
+**What the gate output does not tell you.** It does not tell you that Chapter 197's first draft reproduced
+Chapter 189's scene mechanics word for word across forty twelve-word runs — **the sentence gate returned
+zero on it, because a transposed scene is not a duplicated sentence.** It does not tell you that the
+prompt's own calendar put a repaint on the wrong day. It does not tell you that five banned weekday names
+were written in the first pass and had to be cut, or that `nobody` came in over the ration and was cut to
+one. **And it does not tell you that any of the six Gate A errors are errors at all** — those were found
+by reading, by asking what the anchor character does on that date, and by subtracting by hand. This is the
+seventh batch in a row where every mechanical gate returned clean and the hand trace found real errors,
+and it is now adjudicated item 66: **a gate that never looks outside the set of files it was pointed at,
+and never looks at what it changed, and never re-derives a subtraction from the page, is not a gate.**
+
+### Proposed canon, in
+
+Registered because each of these is a fact about the world's instruments or figures that did not exist
+before this batch and that later batches must not contradict:
+
+1. **The certification rule** (Ch 191): a certification is granted on a reading, the reading is the head
+   answering member by member out loud in a room in front of a clerk, and where it does not all agree the
+   schedule is held and not refused and the sixty days run while it is held.
+2. **The assumption of members** (Ch 191, signed Ch 199): one side of a sheet with six ruled lines and a
+   printed indemnity at the foot; the Office will not read a member before the head has signed it; the
+   Office destroys an unused pad of fifty at the close of a month, so an assumption has a month to live.
+3. **A standing is only enterable against a document** (Ch 191), which is why the member forms at Ch 195
+   exist and why Nadia Ferrous's service file does not evidence a choice.
+4. **The requisition served on a head in his own account** (Ch 192): served on the man and not on a
+   member, with a box for the hour a person might be asked, and a man with a plate cannot be served at
+   premises so the paper follows him to his work.
+5. **The register at the Vestry has no names and its hours were taken** (Ch 193): nine years of an hour
+   and a count, and a quarter of eight every morning for nine years in a building with one door is a
+   person. **This is the batch's new permanent cost and it lands on a woman not in the household.**
+6. **The annual examination of a standing household** (Ch 197, 198): entered against the highest standing
+   in the household, bought with an entitlement, passing to the holder of the broker's book on death,
+   resignation or replacement, and it cannot be un-entered. **The Vant now holds a standing household it
+   did not have.**
+7. **The countersignature and the two copies** (Ch 197, 199): she writes at the foot of the indemnity and
+   keeps a copy, and on the seventeenth she entered one line in the Vant's real ledger and kept the
+   perforated page.
+
+### Proposed canon, out
+
+Nothing this batch proposed has been withdrawn. The following were **not** adopted and must not be assumed:
+
+- **The certificate does not issue inside the volume and nothing in this batch moved it.** It is dated the
+  twenty-seventh of June.
+- **Marguerite Vale's terms of the fourteenth of March stay down, unsigned and out of force.** The
+  countersignature is not a revival of them and no certificate in June revives them.
+- **The review is not resolved and Ines Duarte filed nothing.** She left a member form blank and said one
+  true thing about herself.
+- **Sun Meiling did not come onto the roll.** The seventh row stays empty on purpose and her reason is now
+  a document, which is not the same as her being on it.
+- **The plate did not move and no rank was entered, lost or scored.**

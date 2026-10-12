@@ -1,5 +1,147 @@
 # Continuity
 
+## Volume 5, Batch 0001 — CLOSED (Chapters 201–210). **VOLUME 5 IS OPEN.** THE AUDITOR'S PRICE.
+
+**Ten chapters written against the batch prompt, entered at Chapter 201 on the twenty-first of May and
+running to the thirtieth, one chapter a day, no shared dates and no gaps. Full gate output, the Gate A
+interval trace with its eight errors, the Gate B date subtraction and the canon proposals are in
+`state/open-threads.md` in this batch's close record, which is the only live gate block in that file;
+Volume 4's gate traces are in `state/archive/open-threads-v1-v4-batch-gates.md`. This block supersedes
+every block below it on every point it touches.**
+
+### Calendar, as the page fixed it
+
+- **Batch 0001 is the 21st to the 30th of M+5, one chapter a day.** 201 the 21st · 202 the 22nd · 203
+  the 23rd · 204 the 24th · 205 the 25th, **Ines Duarte's scene, immovable** · 206 the 26th · 207 the
+  27th · 208 the 28th · 209 the 29th · 210 the 30th.
+- **THERE IS EXACTLY ONE THURSDAY IN THIS BATCH AND IT IS THE TWENTY-FOURTH.** May's Thursdays are the
+  3rd, 10th, 17th and 24th, from the card printed at Ch 181, and May has thirty days from Ch 181 and
+  from Ch 190's 3 + 30 + 27 = 60. **Therefore May 24 is a Thursday, May 30 a Wednesday, and the first of
+  next month a Thursday: JUNE'S THURSDAYS ARE THE 1st, 8th, 15th, 22nd and 29th, and the 27th of June is
+  a Tuesday.** **The men are not due on the Reading wall again until the first of June, which is Ch 211
+  in Batch 0002 and the day the card turns over.**
+- **THE MAY CARD'S LAST LINE IS OUT BY SIX AND CHAPTERS 201 AND 202 SAY SO.** It reads AND THE SEVENTH
+  OF NEXT MONTH; the next Thursday after the twenty-fourth is the first of next month, not the seventh.
+  **This is a reconciliation, not a contradiction: Ch 181's derivation of the month's length rests on
+  the fourth entry, and neither Ch 181 nor Ch 190 asserts the last line is correct.**
+- **Chapter 191's printed premise that the twenty-seventh of June is not a working day is NOT SUPPORTED
+  BY THE DERIVATION and no chapter in or after this batch may repeat it or use it to explain the
+  twenty-sixth.** The date does not move. Ch 199 and Ch 210 print the two dates without the reason.
+- **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Thirty-seven
+  days past the twentieth of May; twenty-seven of them are this batch.
+- **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0005.** Days elapsed from the
+  twenty-seventh of April, sixty less that. **Batch 0005 closed at 23/37 on the twentieth. Batch 0001:
+  24/36 (201) · 25/35 (202) · 28/32 (202, Sun Meiling, quoting the twenty-fifth) · 31/29 (208) ·
+  32/28 (209) · 33/27 (210).** Chapters 203 to 207 print no countdown and that is deliberate.
+
+### Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE DECLARATION OF MEMBERSHIP IN A STANDING HOUSEHOLD (Ch 201).** One side, cream weight, a form
+  number with a printed run. **The premises and the head's name are filled in in the Office's type
+  before the head ever sees the sheet**, which is the sentence Doyle told him on the nineteenth of May
+  being cashed four days later. Three questions per member — standing held; instrument evidencing it;
+  whether the person holds any office, standing or entitlement in a body corporate, guild, exchange or
+  office of this city. Then the head certifies the members and the number of persons of reading age
+  keeping an address at the premises, and signs. **Printed at the foot in a size made to be skipped:
+  WHERE THE HEAD'S CERTIFICATE DOES NOT AGREE WITH THE SCHEDULE OF RECORD, THE HEAD SHALL STATE THE
+  FIGURE HE CERTIFIES AND THE REASON, AND THE SCHEDULE OF RECORD STANDS. RETURNABLE AT THE COUNTER
+  NAMED ABOVE ON OR BEFORE THE LAST WORKING DAY OF THIS MONTH** — and the last working day of a month
+  with no thirty-first is the thirtieth, and the intake shuts at four in the afternoon on it.
+- **A PAPER NOW REACHES HIM BY WRITING TO HIM FIRST (Ch 201).** Doyle's words on the nineteenth. The
+  declaration arrived on the twenty-first. This is the first consequence of the indemnity.
+- **THE VANT'S QUARTERLY RETURN (Ch 204).** Lodged at the north desk of the Exchange, read back by a
+  clerk. Securities standing against the broker's entitlements, item one: a standing household at
+  Ferrier Street, members six, **entered against the broker of record and not against the head of it**;
+  the head's name typed in the broker's own dictation; value to the book on transfer; the holder entered
+  as **THE HOLDER OF THIS BOOK ON THE ANNUAL SITTING, WHOEVER THAT IS**, because the second line passes
+  the examination on death, resignation or replacement and the form has no box for a woman who does not
+  exist yet. **It is a public filing. It is read by the Exchange and by whoever buys the book next, and
+  the broker cannot un-enter it.**
+- **A ROLL KEPT AT PREMISES IS NOT AN INSTRUMENT AND HAS NO FORCE (Ch 202, reaffirmed).** Nothing on
+  the wall can be requisitioned, certified or cited. **A standing column left empty in one's own hand on
+  that board is neither a forgery nor a preference, and no office in this city will send anybody for it
+  in thirty years.**
+- **THE BENCH ORDER OF THE THIRD OF MAY HAS NOW BEEN USED THREE TIMES (Ch 202, 203).** The district
+  clerk on the tenth (five names, two spaces), the man with the folded sheet on the eleventh (six names,
+  one space, wrong), and **Marit Kolb** on the twenty-second and twenty-third. A district officer with a
+  card may ask four questions; three are the district's and **the fourth comes off the same sheet under
+  the same heading and is not hers.** She does not fill a silence; she waits, and in four minutes of
+  waiting she works out a great deal.
+- **THE ROLL ON THE LANDING (Ch 209).** Seven ruled rows. **Row six struck, dated the second of May,
+  initialled, WITHDRAWN BY THE MEMBER, in Ines Duarte's hand. Row seven, which was Sun Meiling's, now
+  carries SUN MEILING in pencil in her own hand, dated the twenty-ninth, with three lines under it:
+  I ASKED FOR THIS ROW AND I FILLED IT AND IT IS MINE BY ASKING. Six names, one head, and no spaces,
+  for the first time since the second of May.** **The light still stops about two inches above the seventh
+  row and the name is in the two inches of dark under it.**
+- **THE LOAD ORDER OF THE HOUSEHOLD, BOTTOM TO TOP (Ch 206).** A book; the examination entered against
+  it; the broker who holds it; the broker's rank two; the head, whose standing is nothing and whose
+  figure is on page one and who answers in his own name for every member of it; then six members who
+  rest on that signature. **It is not the order on the wall and the inversion is the point.** The
+  household's whole standing fails in about four years, when the guild sits and the examination passes
+  to whoever holds the book. **Ines Duarte puts the four years and Runa Sato's nine in the same room and
+  says which of the two figures goes in the instrument column is the question, and neither of them
+  answers it.**
+- **THE HOUSEHOLD'S DISTRIBUTION, IN ONE SENTENCE (Ch 207).** **The certificate does not make a household
+  safe; it makes it visible.** A certificate is a document and a safe house is the absence of documents,
+  and this city has been getting better at reading for two years and cannot read a thing that is not
+  there. **The Vestry clinic has been unfunded and unentered for nine years and its tolerance rests on
+  exactly that, and a certified instrument in that address in June puts a hundred and sixty thousand
+  visits a year into somebody's question.**
+- **THE AUDIT DIVISION'S INDEX (Ch 205, 210).** Every schedule a member of the division appears on is
+  indexed; the declaration against Ferrier Street was raised on the twenty-first by that index and **the
+  auditor of record on it is the same woman who is a member of the household, because there is a rule
+  that says an officer is not told about her own division's index sheets.** On the last working day of
+  the month a woman in that division reads the slip and writes, in the third column, four words:
+  **SHE IS ONE OF OURS.** Not resolved and not discussed in this batch.
+- **THE DECLARATION AS FILED (Ch 210).** Six members certified by the head on the thirtieth at two
+  forty-one in the afternoon, eighteen lines, a read-back, and a slip about two inches by one carrying
+  the household's number and the word LUMPED. **A number is findable without anybody having to know a
+  name.**
+
+### Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Not one grain in five years and
+  nothing in this batch could move it.
+- **Ledger 118 lines, nine turned, the ninth still himself.** Nothing spent on anybody in ten chapters.
+  **Zero system panels in ten chapters and no count turns.**
+- **File 4,112, one folio open, no second.** No classification, no rank earned, no rank lost, no grain
+  scored.
+- **34-6-118 is a household number, not a date.** It begins with 34 and the batch's countdown in that
+  chapter is 33/27 and is spoken eleven lines earlier by Sun Meiling. Registered so that nobody reads
+  the 34 as a countdown.
+
+### What this batch did NOT open
+
+Second folio · **Ines's review, resolved or discussed** · **B103 in any form** · the instrument's
+live-column rule · **the certificate, which cannot arrive inside this batch** · **Marguerite's terms,
+which stay down, unsigned and out of force and are revived by nothing** · Bernt · Rhee · Saskia
+Verhoeven · Alma Quayle · Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti ·
+**Petra Ilyin, who enters at Chapter 214 and is Batch 0002's** · Dagmar Oyelowo · anything after
+Volume 8 · **a rank, a grain, a folio, a classification** · **the Vant's entry against the reservoir,
+which is Volume 6 and is not named anywhere in this batch** · **a second scene** · **the audit division's
+four words, which are a fact and not an outcome.**
+
+### What this batch did NOT close
+
+The two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name in the record · the desk's
+four-line note · the classification paper dated the nineteenth · the ninth of September · the broken
+price · Sun Meiling's February · the leak · **Agnete Lindqvist's eleven years indoors** · **Ines Duarte's
+review** · Runa Sato's hearing · **the second line about the holder of the broker's book** · **the woman
+at the hatch** · **Wren Kallo's held name** · **Beatrix Halm's eleven burned months** · **the bare slot
+on the Reading wall and the name that is going into it** · **the certificate.**
+
+### Endings and temperature
+
+201 an anchor, a derivation and an envelope · 202 a card's last line and a stranger on the step ·
+203 four questions and the one only she can answer · 204 a clerk reading a line back and a price that
+is four years · 205 **the scene, and a woman asking to be carried** · 206 a wet floor and a corridor and
+a volunteer · 207 a clinician's arithmetic and a want that costs · 208 **the decision, and the argument**
+· 209 **a pencil, in the dark, a day early** · 210 a counter, a queue, a slip and a name in the
+distance. **The batch runs cold on purpose with one hot chapter in the middle, and the hot one is 205,
+and 208 is warm the way an argument is warm.**
+
+---
+
 ## Volume 4, Batch 0005 — CLOSED (Chapters 191–200). SIX. **VOLUME 4 IS CLOSED IN PROSE.**
 
 **Ten chapters written against `outline/volume-04.md` §4 escalation step 5, entered at Chapter 191 on the

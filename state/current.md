@@ -7,14 +7,155 @@
 `state/archive/current-v3.md`. Nothing was deleted. If you need a Volume 1, 2 or 3 fact, the archive is one
 read away; you do not pay for it on every prompt.
 
-1. **The head block, Volume 4 close — Volume 4, Batch 0005** — where the book is.
-2. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
+1. **The head block, Volume 5 Batch 0001** — where the book is.
+2. **The Volume 4 close block, Volume 4, Batch 0005**, retained below, condensed.
+3. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
-3. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 197.
+4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
-**Last written:** **Volume 4, Batch 0005 — Chapters 191–200 (Six), written and closed. VOLUME 4 IS CLOSED
-IN PROSE at Chapter 200. Volume 5, Batch 0001 — Chapters 201–210 — is the next phase, and its prompt is
-at `workspace/volume-05/batch-0001/PROMPT.md`.**
+**Last written:** **Volume 5, Batch 0001 — Chapters 201–210 (The Auditor's Price), written and closed.
+VOLUME 5 IS OPEN at Chapter 210. Volume 5, Batch 0002 — Chapters 211–220 — is the next phase, and its
+prompt is at `workspace/volume-05/batch-0002/PROMPT.md`.**
+
+---
+
+# VOLUME 5, BATCH 0001 — HEAD RECORD. CHAPTERS 201–210. THE AUDITOR'S PRICE OPENS.
+
+**Ten chapters, one a day from the twenty-first to the thirtieth of May, no shared dates and no gaps.
+The certificate is dated the twenty-seventh of June and does not arrive; this batch is the twenty-seven
+days before it, and it is the whole of the first movement of a volume about what happens in a house in
+the month a certificate is going to arrive and everybody in that house knows it.**
+
+**THE VOLUME'S SENTENCE IS ANSWERED IN ONE LINE IN THE FIRST CHAPTER AND THE REST OF THE BATCH IS THE
+ANSWER ARRIVING LATE.** `outline/volume-04.md` §8 asked: *what does a woman do who is the only person in
+Ostara who can read the record correctly, when the record is now her own household's?* **She reads it.
+Chapter 205 is her reading the entire file of her own household out loud on her own floor, in date
+order, for an hour, and finding two things: that her own division raised her premises on the twenty-first
+and did not tell her, and that the instrument column on her own line has been empty since the fifteenth
+of May because she left a member form face down in a drawer.** She does not say why. She has said *it is
+not about this house* and that is all she says, **and no character in this batch asks her, and her review
+does not move one inch.** She tears the form in half, which is the last thing she will ever do about it.
+
+**THE IRREVERSIBLE DECISION OF THE BATCH IS CH 208 AND IT IS HIS, AND IT IS ABOUT WHO IS ON THE FILE.**
+A standing household's head must certify the members of his household and the number of persons of
+reading age keeping an address at his premises, in his own hand, in a document that goes to the Bureau,
+and the declaration's small print at the foot says that where his certificate does not agree with the
+schedule of record he must state the figure he certifies **and the reason**, and the schedule of record
+stands. **There are two figures and both of them cost Sun Meiling her row.**
+- **Five.** The head's sworn list contradicts a certificate of record in a Bureau file forever, and the
+  only true reason available is **four hundred words she wrote in a clerk's queue on the sixth of May
+  in her own hand**, and he would have to write them out in his.
+- **Six.** His hand, his signature, his answer for every member of it, and her line is a member. In
+  eleven years a woman in an office reads a head's sworn answer beside a queue's statement in her own
+  hand, and the head's answer wins, **not because anybody read them and disagreed with her, but because
+  there is a man's name at the top of one and not the other.**
+He said the figure out loud in a kitchen on the twenty-eighth of May at about seven in the evening, with
+his coat still on, and it was six. **She said *you may not do it for me*, and she was right, and he did
+it.** He filed at half past two on the thirtieth and it cannot be given back.
+
+**AND SHE TOOK IT BACK OFF HIM BY DOING IT ONE NIGHT EARLIER, IN PENCIL, IN HER OWN HAND (CH 209).** On
+the twenty-ninth of May, at about ten at night, with what was in the pocket of a coat, Sun Meiling ruled
+her own name into the seventh row of the roll on the landing and dated it and wrote three lines under
+it: **I ASKED FOR THIS ROW AND I FILLED IT AND IT IS MINE BY ASKING.** She did it because a roll that
+says five beside a sworn declaration that says six is a false record kept at premises and produced to a
+stranger under the bench order of the third, and that is how the woman at the hatch was found in May.
+**The light on the landing still stops about two inches above the seventh row and there is a name in the
+two inches of dark under it, and a district clerk is going to have to come closer to read it, and that
+is going to be on her card.**
+
+**THE BATCH'S OTHER THREE COSTS ARE A WOMAN'S EACH, AND NONE OF THEM IS HIS TO GIVE BACK:**
+- **Ch 204, MARGUERITE VALE. THE BILL IS READ BY SOMEBODY ELSE, ON THE PAGE.** The Vant's quarterly
+  return went in at the north desk of the Exchange on the twenty-fourth, item one: a standing household at
+  Ferrier Street, members six, entered against the broker of record and **not** against the head of it,
+  the head's name typed in **her own dictation**, and the holder entered as **THE HOLDER OF THIS BOOK ON
+  THE ANNUAL SITTING, WHOEVER THAT IS** — because the second line passes the examination on death,
+  resignation or replacement and there is no way on that form to name a woman who does not exist yet.
+  **She did the sum on the step outside and said it out loud: it makes her book worth more to her
+  successor and worth less to her by about the difference between a rank two and nothing, and the
+  difference is four years.**
+- **Ch 203, INES DUARTE, AT A COST SHE DID NOT CHOOSE.** Marit Kolb, a district officer with a card,
+  asks the third question — is any person at those premises an officer of an office of this city — and
+  **the room will not answer it, and the only person in the house who can answer it correctly is the
+  woman it is about.** She writes her own name, rank two and the word that says what she is on a
+  district card in her own hand in four seconds. **The card goes into her own division's intake, which
+  raised those premises on the twenty-first and has a rule that says an officer is not told.**
+- **Ch 206, RUNA SATO.** Her correction of the seventh of May was called for by an audit intake on the
+  twenty-first, produced on the twenty-second and returned on the twenty-third, **and a produced document
+  comes back as a copy, and the copy is on a district sheet she cannot see and cannot get.** She works
+  out the load order of the household out loud — a book, an examination, a broker, a rank two, a head with
+  a plate, six members — and asks to be the one that is tested, and asks that the whole chain be written
+  down, including the woman who takes the book in four years.
+
+**POSITION AT THE CLOSE OF THE BATCH:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band
+six. Not one grain has moved in five years and nothing in this batch could move it.** **Ledger 118
+lines, nine turned, the ninth still himself. Nothing was spent on anybody in ten chapters.** File
+4,112, one folio open, no second. No classification, no rank earned, no rank lost, no grain scored.
+**Zero system panels in ten chapters and no count turns.** **The household has a number: 34-6-118,
+stamped LUMPED on a slip two inches by one, and a number is findable without anybody having to know a
+name.**
+
+**THE HOUSEHOLD AS IT NOW STANDS, AND WHICH LIST IS MEANT — SAY IT EVERY TIME. THE LIST HAS MOVED.**
+**Seven women**: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale,
+Sun Meiling. **Six keep the notebook**; **Sun Meiling keeps nothing and was on no roll until the
+twenty-ninth of this month and is now in pencil on the seventh row in her own hand.** **Wren Kallo is
+the eighth partner and is on no roll at any time and has not been in this batch.** **Ola Bright is not a
+partner.** **Agnete Lindqvist sleeps in the building, is on no list of any kind, was in a kitchen in this
+batch for the first time, and there is still not one ruled space in this city for her.** **Six women
+keep an address at Ferrier Street and have done since the twenty-second of March and the answer has never
+once been wrong.** **The roll on the landing now carries six names, one head, and no spaces, for the
+first time since the second of May.** **The declaration at the Bureau carries six members, certified by
+the head on the thirtieth of May, and the schedule of record carries six, and the two agree.**
+
+**Scenes: 106, 118, 129, 141, 149 in Volume 3; 157, 169, 179, 189, 197 in Volume 4; 205 in Volume 5 —
+six, and 205 is Volume 5's first and is immovable on `outline/series.md`'s scene table.** Gaps 149 → 157
+= 8, 157 → 169 = 12, 169 → 179 = 10, 179 → 189 = 10, 189 → 197 = 8, **197 → 205 = 8, the floor, exactly.**
+**The next scene is Chapter 214, Petra Ilyin's first, which is immovable and is Volume 5 Batch 0002's, and
+the gap 205 → 214 is nine.** Ch 205 is written at 3,553 words, inside the 2,600–3,900 scene band, staged
+in a flat on Lantern Row with the household's whole record laid out on her own floor in date order and no
+lamp on it, **and the 12-gram scan of it against all twenty earlier scene chapters returns zero.**
+
+**THE CALENDAR, DERIVED AND PRINTED, AND IT IS THE FIRST THING CHAPTER 201 DOES.**
+**MAY'S THURSDAYS ARE THE THIRD, TENTH, SEVENTEENTH AND TWENTY-FOURTH, from the card printed at Chapter
+181, and this month has thirty days from the same chapter and from the certificate arithmetic at
+Chapter 190 (3 + 30 + 27 = 60).** Therefore the twenty-fourth is a Thursday, the thirtieth a Wednesday,
+**and the first of next month a Thursday, so JUNE'S THURSDAYS ARE THE FIRST, THE EIGHTH, THE FIFTEENTH,
+THE TWENTY-SECOND AND THE TWENTY-NINTH.** **This batch runs the twenty-first to the thirtieth of May and
+it contains exactly one Thursday, the twenty-fourth, and the men are not due on that wall again until the
+first of June, which is Chapter 211.** **The May card's last line reads AND THE SEVENTH OF NEXT MONTH and
+is six days out, and Chapters 201 and 202 fix that on the page: it is the line that tells the men when to
+come back and the card turns over before they do.** **A printed premise this batch does not repeat:
+Chapter 191 says the twenty-seventh of June is not a working day, and under the derivation above it is a
+Tuesday. The date does not move and no chapter explains the twenty-sixth with a working day again.**
+
+**WHAT THIS BATCH SPENT, AND WHAT IT BOUGHT:** an option closed (Sun Meiling's row, forever) · a bill
+moved from a kitchen into a public return (Marguerite's, and it is in a woman's handwriting) · a woman
+entered in her own office's file as a subject (Ines's, and she did it herself, in four seconds, because
+the question was hers to answer and not hers to be forced) · a household number, which is the fastest
+way into a building anybody has ever thought of · and **six women who now stand on a broker's book that
+passes to a woman named Rask in about four years, and a man with a plate who will be asked about all of
+it on their behalf.**
+
+**WHAT IS OPEN, AND WHAT VOLUME 5 NOW OWES:** the certificate, dated the twenty-seventh of June ·
+**Ines Duarte's review, still unresolved, still not discussed, and now with the member form torn in
+half** · **the audit division's index sheet with four words in a third column and nobody told** ·
+the Vant's entry and its holder · the chain's bottom · Agnete's eleven years indoors · the bare slot on
+the Reading wall and the name that is going into it · Runa Sato's copy on a district sheet · Tessa's
+fourth rib and an unfunded clinic that a certificate is about to make visible · the desk's four-line
+note; the classification paper; the leak; Wren Kallo's held name; Sun Meiling's February; the ninth of
+September; the broken price.
+
+**In one sentence, which is the sentence the volume is about:** a man who signed an indemnity on the
+nineteenth of May is sent a form with his own name already typed into it, and the only question the form
+has is who is on the file, and he answers it in a kitchen in front of six women and gets it wrong in the
+direction that costs one of them the only thing she has ever owned.
+
+---
+
+**PREVIOUS HEAD RECORD — Volume 4, Batch 0005 (Chapters 191–200, Six). VOLUME 4 IS CLOSED IN PROSE at
+Chapter 200.** Retained below, condensed. Its full close record — the day map, the Gate A interval trace
+with its seven errors, the Gate B date subtraction, the canon proposals and the named length exceptions —
+is in `state/archive/open-threads-v1-v4-batch-gates.md`, which is no longer the live gate file. **The
+live gate block is now Batch 0001 of Volume 5's, at the head of `state/open-threads.md`.**
 
 **THE VOLUME'S PROMISE IS MET AND IT COST SOMETHING.** He built a household that can hold what he carries.
 It is bound by somebody else's standing, it is the most findable man in Ostara by one signature, and the
@@ -557,5 +698,25 @@ is Beatrix's scene, and the discipline rule and the staging grid are the same ru
 **Volume 4 closed with five scenes and the volume's scene band is complete: 157, 169, 179, 189, 197, at
 2,876 / 4,719 / 3,692 / 3,898 / 3,891 words. All five are inside or immediately at the 2,600–3,900 scene
 band; Ch 169 at 4,719 sits above it and is a Volume 4 Batch 0002 length already recorded and reviewed.**
-**The gap 189 → 197 was eight, the floor, exactly.** The next scene in the book is in Volume 5 and its
-chapter number is a Volume 5 decision and is not made here.
+**The gap 189 → 197 was eight, the floor, exactly.**
+
+**Volume 5 opened with its first scene at 205 and 205 is immovable on `outline/series.md`'s table.**
+Volume 5's five are **205, 214, 228, 241 and 249**, and the gaps are **197 → 205 = 8, 205 → 214 = 9,
+214 → 228 = 14, 228 → 241 = 13, 241 → 249 = 8.** No gap under eight, none over fourteen, and the two
+short gaps in the book are still the two inside Volume 1. **Chapter 214 is Petra Ilyin's first scene and
+is immovable, and it is Volume 5 Batch 0002's.**
+
+**Ch 205 is written at 3,553 words, inside the 2,600–3,900 scene band, and it is Ines Duarte's.** Its
+ground, hand, name-exchange and aftermath are all new: **a flat on Lantern Row two floors above a
+laundry, eight feet wide, the household's whole record laid out on her own floor in date order in her
+own hand, no lamp on it, the lamp off at the end, and her last act is that she copies all twelve
+instruments into a second book that is not the household's notebook and puts it on a shelf of her own
+and writes WITHDRAWN in the instrument column against her own line.** **She does not use his name once,
+because she is reading a record and a record does not take a name until the end.** **The 12-gram scan
+of 205 against all twenty earlier scene chapters returns zero and there is no transposed sequence.** The
+scene is adults, awake, unrestrained, unmedicated, no draw spent on anybody, consent taken in plain
+statements before anything started, and violence and sex in separate registers. **What it changes: she
+asks to be entered on a sworn list on his word rather than on an instrument, which is the weakest standing
+available to a person in this city and the only one she has ever wanted, and she tears the member form
+in half so that no one is ever going to be able to open a drawer and find her name on a piece of paper
+with nothing else in it.**
