@@ -1,21 +1,35 @@
 # Current State
 
-**Last written:** **Volume 3, Batch 0001 — Chapters 101–110 written, repaired once on the page, then
-repaired again against `logs/batch-0001.review.log`.**
-Ten chapters of escalation step 1, The Notice: the hearing notice served, published and unwithdrawable;
-Yusuf Adeyemi on the page and not an enemy; the Board repainted without him; Marguerite Vale's scene at
-106; the nine-item roll; the signed acknowledgement with the excluding objection; the registrar's
-describing answer. The second pass repaired seven defects (a B103 restatement, a chapter-number citation, a
-stated age, a duplicated exchange, a dateless Thursday, three wrong countdowns, one length overrun) and
-touched nothing else. **It certified nothing about the prose, and it certified six interval traces that
-did not survive subtraction.** The review then found **fourteen further defects, all of them procedural-date
-contradictions a grep cannot see**, plus the fact that **the scene at 106 was summarised rather than
-written.** All fourteen and three more are fixed on the page: **one registrar timetable instead of three,
-the answering document moved to the morning of the 9th, the notice published on the 3rd, the Board
-repainting on Thursday and not tomorrow, Ch 107's chair chronology put in order, four months instead of five,
-a fortnight instead of an unanchored five weeks, and forty lines of written scene at 106.** Full record at
-the head of `state/open-threads.md`; calendar and mechanisms at the head of `state/continuity.md`;
-summaries in `state/chapter-summaries.md`.
+**Last written:** **Volume 3, Batch 0002 — Chapters 111–120 written (The Register).** Ten chapters:
+the proved roll in nine boxes; Runa's attestation and the dated demand; one buff square named by a
+porter's hand with Sun's refusal advanced on the landing; two papers down and unsigned; the
+certification question taken with Sarn named; the two-column tool with Wren named in the request;
+her confirmation that cannot keep itself; her immovable scene at 118 with the irreversible decision
+(made a party, out loud); six where the file says more with the seventh refused; Sarn's sentence in
+the sixth space as received. Repaired on the read (fourteen wording-level defects, all on the page:
+counts, weekdays, one B103 brush, one routing word, paragraph splits). **It certifies nothing about
+the prose.** Full record at the head of `state/open-threads.md`; calendar and mechanisms at the head
+of `state/continuity.md`; summaries in `state/chapter-summaries.md`.
+
+**THE STANDING LESSON, repeated:** a trace is not an anchor unless subtracted from two printed
+dates, both still on the page. Batch 0002's countdowns were all subtracted (49→40 with remainders
+printed); its two loose spans ("five weeks", weekday arrivals) were cut, not traced.
+
+**Position:** **plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Band six seated on
+the Review instrument, suspended pending description — not lost; suspension lifts at 147 and nowhere
+before. Ledger 112 lines, eight turned, one reading himself; no draw spent in ten chapters; no panel.
+File 4,112, one folio open, no second. Classification paper dated the 19th of last month, unsigned;
+sixth space filled as received, not agreed. Household seven women, six keeping the notebook, his
+signature refused; Sun on the landing.
+
+**In the story:** **the 20th of the new month.** The record is complete, the instrument certified on
+paper, the written case opening with a description, his one witness named. The hall stands forty days
+out, for the 29th of the month after next. The next question is whether the instrument can actually
+produce what its proponent says it produces — Batch 0003's proof.
+
+**Next phase to run:** **Volume 3, Batch 0003 — Chapters 121–130 (The Live Column, midpoint reversal
+at 125–127).** Prompt at `workspace/volume-03/batch-0003/PROMPT.md`. Wren's secret is four people
+deep; Runa's demand dates the 26th; Field wants a seventh line.
 
 **THE STANDING LESSON FROM THIS PHASE, which is more useful than the repairs: six traces were certified
 and all six were wrong — one in arithmetic, three anchored to a date the page later abandons, and two

@@ -1,5 +1,103 @@
 # Continuity
 
+# Volume 3, Batch 0002 — CLOSED (Chapters 111–120)
+
+**Ten chapters written against `outline/volume-03.md` escalation step 2 (The Register). situated
+11th–20th of M+2, one chapter a day. This block supersedes every Volume 3 block below it on every
+point it touches. Proposed canon was registered in `state/open-threads.md` BEFORE Chapter 111 was
+drafted; rejections/changes are listed at the foot of this block.**
+
+## Calendar, as the page fixed it
+
+- **Batch 0002 is the 11th to the 20th of M+2**: 111 the 11th (Thursday, Board repaints, rectangle
+  covered) · 112 the 12th · 113 the 13th · 114 the 14th · 115 the 15th · 116 the 16th · 117 the
+  17th · 118 the 18th (Thursday, Board repaints, Wren's scene) · 119 the 19th · 120 the 20th.
+  M+2 Thursdays 4/11/18/25; M+3 Thursdays 1/8/15/22/29; the Reading is Thursday the 29th of M+3.
+- **Countdowns, elapsed, each anchored to the chapter's own date and the printed 29th (days left in
+  this month + 29):** 49 (20+29) · 48 (19+29) · 47 (18+29) · 46 (17+29) · 45 (16+29) · 44 (15+29) ·
+  43 (14+29) · 42 (13+29, six weeks) · 41 (12+29) · 40 (11+29). Every chapter prints its countdown
+  with the month-remainder stated beside it.
+- **Notebook inclusive count:** 24 days at 113 (21st of last month to the 13th, counting the day it
+  started on), consistent with 19 days at 109 (21st–8th).
+- **Only Thursday is named, and only on the 11th and 18th, each because the Board repaints.**
+  Sabine's 111 line recalls the 6th as a Saturday (lived day, Batch 0001 precedent). D4/D3
+  untouched: nothing derives from the Review's weekday, the 13th of last month is never called a
+  weekday, no D3 figure is used.
+- **Corrections made in drafting:** 111's "five days" window reworded (he spent it on the 9th, time
+  had not run it out); 114's "five weeks" holding cut to "close on four" (19th→14th = 26 days);
+  115's arrived-Tuesday/Wednesday cut to relative days (no weekday, no contradiction with the 16th
+  dispatch); 118's Tuesday references cut to "the sixteenth"; 118's "only lock in the chapter" cut
+  to "in the room"; 118's "five people" corrected to four (runner, plate clerk, Cressida, sister).
+
+## Mechanics now on the page — CANNOT CONTRADICT
+
+- **PROVING.** An acknowledged roll is a proved roll. The nine grey boxes are the hall's set on the
+  eight-foot table; box four is shut and wears the objection on a string. The objection travels with
+  the roll and is read first if he insists. By acknowledging to protect item four he proved the other
+  eight — his signature's price, stated at 111.
+- **THE FIRST EXHIBIT (112).** Runa attested the hall's copy as true and left the cover unsigned.
+  The cover came back with a dated demand: complete attestation by the 26th or answer for the gap.
+  Her hearing firms; it is not this volume's hearing and is not resolved.
+- **THE NAMED SQUARE (113).** One buff square named by the porter's hand in the visitors' book: Nell
+  Ardery holds one square. The other two squares stay unnamed and unentered; the unnamed caller of
+  the 3rd stays unnamed. Book past ninety entries (89 at the 7th + growth; six more by the 17th).
+- **SUN'S REFUSAL (113).** Advanced, not closed, in her own words on the landing: the house protects
+  by writing down together; she will not be kept. Six lines a day continue; signature refused.
+- **DOWN AND UNSIGNED (114).** Classification paper still unsigned, still going up and back.
+  Marguerite's terms down, unsigned, out of force, cannot come back into force; Nadia's offer to be
+  bound instead is refused.
+- **THE CERTIFICATION QUESTION (115–117).** Adeyemi's standing rule on the page. The desk's paper
+  wants two hands: the desk's run and the builder's word. Tool described flatly: two columns on
+  paper output, subject and counterparty — no statement of what it cannot do (reversal untouched,
+  proved at 125–127 or not at all). **Ivo Sarn** named at 115 (reporting officer, nine years, the
+  hand three floors up). **Wren Kallo** named for the first time at 116 in the request document, on
+  the page in person from 118. Bench order dated 17th, effective 19th: builder off instruments.
+- **THE IRREVERSIBLE DECISION (118).** He names Wren Kallo his one witness — a party to the
+  proceeding she is losing her post over — out loud, in the room, knowing she cannot keep it. She
+  repeats it back word for word. Scene: adults, awake, unrestrained, unmedicated, no impaired state,
+  no draw spent, stated on the page ("No draw. No cold. No minute."). Reverses his 103 position (no
+  witness); both positions are in his hand. Secret four people deep by the chapter's end.
+- **SIX WHERE THE FILE SAYS MORE (119).** Minute six lines, book six lines, fourteen entries,
+  forty-one names; the seventh line is Sun. He refuses in Tove's day book to complete another
+  officer's minute (not a registrar's paper, does not touch the roll). Demand goes to Runa.
+- **THE SIXTH SPACE (120).** Sarn's paragraph entered under Anneke Roos's hand as received, not
+  agreed, signed with her name, dated the 20th: *a settled mass in the possession of a member,
+  accumulating by the member's own condition, no source identified, no measure obtainable.* It is
+  what four offices believe; no chapter says it is true. Office's written case opens with a
+  description. Tool certified on paper as meeting its specification — whether it produces what the
+  Wing says in a hall is Batch 0003's proof.
+
+## Figures, fixed on the page
+
+- **No chapter prints a plate figure; position unchanged: plate 8,138, floor 8,141, tolerance three,
+  11,862 under band six.** Band six suspended pending description (lifts at 147, nowhere before).
+- **Ledger 112 lines, eight turned, one reading himself. No new ledger figure printed; no draw spent;
+  turned count does not move; no system panel in any chapter.** Work with the cause named goes in
+  most days (queues, taps, keys, floors) without a number.
+- **File 4,112, one folio open, no second.** Classification paper dated 19th of last month, unsigned.
+  Sixth space filled at 120 as received.
+
+## What this batch did NOT open
+
+Second folio · classification entered · Channel/routing (one "routing slip" cut to "pass slip") ·
+Ines's second refusal or review (she speaks twice, neither is either) · B103 in any form (120's
+"maker" line cut before "door") · Ding's chest · May clipboard · rota word · September's outcome ·
+Marguerite's terms beyond staying down · Bernt · Church of the Quiet Number · Rhee · Alma Quayle ·
+Anouk Ferreira · Council of Nine by name · Saskia Verhoeven as a character (district table still
+carries no clerk's name) · anything after Volume 8. **No rank moved, no grain scored, no draw
+spent, nothing classified, no folio opened. Registrar timetable untouched: the only registrar
+mentions are 111's backward reference to the 9th answer and 119's explicit not-a-registrar-paper.**
+
+## Endings and temperature
+
+Endings in order: revelation (proved it himself) · emotional consequence (the ache, glad of it) ·
+danger (who gives the address) · decision (his is the only hand) · emotional consequence (wariness,
+cold and clean) · anticipation (one paper nearer) · danger (three initials, door shutting) ·
+decision (irreversible, second heart) · mystery (silence where the seventh name would be) ·
+question (what can the instrument actually do). No two consecutive share a shape; none is a neutral
+action. Emotion varies: anger, guilt, shame, frustration, wariness, unease, urgency, clarity,
+cold resolve, grim completeness; each chapter carries his felt emotion and concrete want on the page.
+
 # Volume 3, Batch 0001 — CLOSED and REVIEWED (Chapters 101–110)
 
 **Ten chapters written against `outline/volume-03.md` escalation step 1 and `outline/batches/volume-03-batch-0001.md`, repaired once by a second pass that read all ten against the page, and then repaired a second time against `logs/batch-0001.review.log`, which found fourteen procedural-date defects and one summarised scene. **The writing pass's own Gate A and Gate B records were wrong on six figures and the review is right about all six; where the two disagree, the review wins.** Full gate output, both repair lists and the re-subtraction of every figure are in `state/open-threads.md` in this batch's close record. This block supersedes every Volume 3 planning block below it on every point it touches.**

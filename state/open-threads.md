@@ -1,5 +1,123 @@
 # Open Threads
 
+## Volume 3, Batch 0002 — CLOSE RECORD. Ten chapters written, read against the page, repaired.
+
+**Drafted against the proposed-canon block below. All ten mechanics went onto the page. Changes
+from the proposal: none of substance; the repairs below are wording-level, all on the page.**
+
+### Defects found on the read, all repaired on the page
+
+1. **Ch 111 gave Sabine "nine men" against Tove's eleven productions.** Now eleven.
+2. **Ch 114 printed "five weeks" holding for a 26-day span** (19th of last month → 14th). Now "close
+   on four weeks"; the companion "three weeks" of watching cut to "every working day since it was
+   written."
+3. **Ch 115 named Tuesday/Wednesday** for arrival days and contradicted the 16th dispatch. Now
+   relative ("two days back", "yesterday morning").
+4. **Ch 118 named Tuesday twice** for the 16th. Now "the sixteenth"; Thursday (the chapter's own day)
+   stays.
+5. **Ch 118 locked "the only lock in the chapter"** (character holding the book's shape). Now "in
+   the room."
+6. **Ch 118 counted "five people" for four** (runner, plate clerk, Cressida, sister). Now four; the
+   Cressida knock that follows re-tells one of the four live.
+7. **Ch 118 had Cressida "come in at eleven" after she knocked at eleven.** Now "Cressida has been."
+8. **Ch 118 read "the last page of anything"** (page-aware). Now "the end of anything."
+9. **Ch 120's Drant line ran "maker instead of the door"** (B103 form). Cut before "door."
+10. **Ch 117 carried "routing slip"** (routing is Volume 5). Now "pass slip."
+11. **Ch 111's "five days no longer"** misread the window (12th still open on the 11th). Now "spent
+   your five days on the ninth."
+12. **Ch 115's "eleven instruments"** echoed Tove's eleven productions. Cut to the rule with no count.
+13. **Ch 116's "eleven days"** of nobody calling him had no anchor. Now "since the first of the
+   month" (Ch 101).
+14. **Paragraph gates:** 114 (100), 117 (156, merged pair split into three), 118 (92 ×3) — all split;
+   re-run clean.
+
+### Gate A — interval trace, read by hand
+
+Countdowns elapsed to the printed 29th of the month after next, M+2 = 31 days: 111: 49 = 20+29
+(printed with remainder) · 112: 48 = 19+29 · 113: 47 = 18+29 ("eighteen days left after the
+thirteenth") · 114: 46 = 17+29 · 115: 45 = 16+29 · 116: 44 = 15+29 · 117: 43 = 14+29 · 118: 42 =
+13+29, "six weeks" (6×7 exact) · 119: 41 = 12+29 · 120: 40 = 11+29. Notebook: 24 days inclusive at
+113 (11+13, "counting the day it started on"), consistent with 19 at 109. Round dialogue figures
+with anchors: 113 "six weeks" (book since 1st of last month, 43 days), "three weeks" (notebook,
+23 days); 114 "close on four weeks" (26 days); 115 nine-year tenure (outline §3); 116 "three days"
+(answered next morning); 117 bench order dated 17th effective 19th; 119 Field demand "by the 26th"
+(new forward date); 120 notice on frame "until the third of next month" (Ch 105). No figure derives
+from D4 or D3. **A count is not a reading:** every figure above was subtracted from two printed
+dates, both still on the page.
+
+### Gate B — every date on one screen, checked by subtraction against outline §12
+
+111 the 11th (Thursday, repaint) · 112 the 12th · 113 the 13th · 114 the 14th · 115 the 15th · 116
+the 16th · 117 the 17th · 118 the 18th (Thursday, repaint) · 119 the 19th · 120 the 20th. M+2
+Thursdays 4/11/18/25. Each chapter prints its own date in prose. No other weekday name appears
+except Saturday recalled for the lived 6th (Batch 0001 precedent). Do not trust a weekday name;
+these were subtracted, not gated.
+
+### Threads: opened, advanced, left open, untouched
+
+- **Opened:** proving and the nine boxes · the certification question and Adeyemi's rule · Ivo Sarn
+  (named, reporting officer) · Wren Kallo (named 116, on page 118, witness named) · the named square
+  (Nell Ardery) · the written case opening with a description · Sarn's sentence in the sixth space.
+- **Advanced:** Runa's cost (cover unsigned → dated demand by 26th; hearing firms, unresolved) ·
+  Sun's refusal (landing, own words, open) · visitors' book (past ninety, two unnamed callers) ·
+  notebook (daily six lines, signature refused) · lift log (forty-one, consequence Nadia's) ·
+  Marguerite's pricing (three rooms continue, terms down) · Nadia's hunt (address given away).
+- **Left open:** Sun's refusal · Runa's hearing · Ines's review/second refusal · notebook signature ·
+  classification paper (unsigned) · unnamed caller · what the instrument can do (Batch 0003's proof).
+- **Untouched:** everything listed in the continuity block's NOT-opened list.
+
+### What the gates do not tell you
+
+All mechanical gates pass. Word counts (1951/1851/1900/1716/1806/1810/1668/3041/1704/1618) certify
+nothing about prose. **This record is not a review of the prose.** A separate run must judge the
+scene at 118, the Sun landing at 113, and whether the ten endings vary and land.
+
+## Volume 3, Batch 0002 — PROPOSED CANON, registered BEFORE Chapter 111 was drafted.
+
+**Written before a word of Chapters 111–120. Anything the drafting rejects is listed in the close
+record rather than dropped.**
+
+**Day map (M+2, 31 days, 1st a Monday, Thursdays 4/11/18/25):** 111 the 11th (Thursday, Board
+repaints) · 112 the 12th · 113 the 13th · 114 the 14th · 115 the 15th · 116 the 16th · 117 the
+17th · 118 the 18th (Thursday, Board repaints, Wren's scene) · 119 the 19th · 120 the 20th. No
+other weekday name appears in prose. D4/D3 inherited, flagged, untouched; nothing derives from the
+Review's weekday or any D3 figure.
+
+**Countdowns, elapsed, anchored to the chapter's own date and the printed 29th of the month after
+next (20 days left in this month from the 11th, then 29):** 111 forty-nine · 112 forty-eight ·
+113 forty-seven · 114 forty-six · 115 forty-five · 116 forty-four · 117 forty-three · 118
+forty-two (six weeks) · 119 forty-one · 120 forty. Notebook inclusive count (21st of last month,
+counting the day it started on): 24 days at 113. All recorded as traced in the close record.
+
+**New mechanics/people on the page:** (a) Proving: an acknowledged roll is a proved roll; the
+objection travels with it and is read first if he insists. (b) Ivo Sarn named at 115 as
+counter-forensics reporting officer, nine years at the certification desk, the hand three floors
+above Anneke Roos that drew the sixth heading. Not a villain, not a final enemy, gone as an
+opponent past Volume 4. (c) Wren Kallo named for the first time at 116, in the certification
+request document, not in a room; on the page in person from 118; no card before 116 names her.
+(d) The tool described flatly at 116: a subject column and a counterparty column, paper output.
+No statement of what it cannot do — the reversal is proved at 125–127 or not at all, and no
+character who has not read the file uses it. (e) One buff-square holder named at 113 by the
+porter's hand in the visitors' book: Nell Ardery. Other two squares stay unnamed and unentered;
+the unnamed caller of the 3rd stays unnamed. (f) Sarn's sentence, entered at 120 into the sixth
+space under Anneke Roos's hand as received, not agreed: a settled mass in the possession of a
+member, accumulating by the member's own condition, no source identified, no measure
+obtainable. It is what four offices believe; no chapter says it is true. (g) Certification on
+paper by 120: the desk certifies the tool meets its specification. Whether it produces what the
+Wing says in a hall is Batch 0003's proof, not this batch's.
+
+**Figures:** plate 8,138 / floor 8,141 / tolerance three / 11,862 under band six wherever printed.
+Ledger 112 lines, eight turned, one reading himself; no new ledger figure printed; work with the
+cause named goes in without a number; no draw spent anywhere; turned count does not move; no
+system panel in any chapter. No grain scored, no rank moved, nothing classified, no folio opened,
+no Channel, no ages, no registrar timetable touched (any registrar mentioned is about a different
+item; in practice none is mentioned).
+
+**Irreversible decision (landed by 118):** he makes Wren Kallo a party to the proceeding she is
+losing her post over — his one witness — out loud, in the room, knowing she cannot keep it.
+Option closed: he is not associated with these people for free; the roll is public and cannot be
+unrolled.
+
 ## Volume 3, Batch 0001 — REPAIR PASS 2. `logs/batch-0001.review.log` read, fourteen findings applied.
 
 **The review found fourteen defects in Chapters 101–110. All fourteen are fixed on the page. This block is

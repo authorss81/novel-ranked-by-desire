@@ -617,3 +617,33 @@ The 8th, six women and the notebook with nineteen days of lines. Nadia wants out
 
 ### Ch 110 — What Comes Back Signed
 The 9th. The objection went down to a registrar at half past six that morning and the registrar's four lines came back stamped and did not decide anything: item four excluded, and described — six lines, one line per woman per day, from the 21st, signature refused. The roll itself is not lodged until ten past three that afternoon; lodging and answering are two different things. He traded a name for a description and got the worse half. The classification paper is still unsigned. The roll closes, the hearing stands for the printed day, and the Office sends what it intends to put before the hall. The first item is not a document about him. It is a description.
+
+### Ch 111 — The Roll They Are Building
+The 11th, Thursday, the Board repaints and paints over his rectangle with a stranger's tile. On the Reading's third floor the proved roll sits in nine grey boxes on the eight-foot table, the fourth shut and wearing his objection on a string. Proving means what he signed on the 8th made of the other eight: every one will be read aloud on the 29th. Forty-nine days.
+
+### Ch 112 — The First Exhibit
+The 12th, the Field yard. He helps Runa carry a press bed to the far store before a four o'clock inspection — iron, brick, no draw, nothing owed that a hand could carry. In the clerk's room she attests the hall's copy of the minute as true in three words and leaves the cover note unsigned; the cover comes back as a dated demand and her hearing firms. Her cost advances and does not resolve. Forty-eight days.
+
+### Ch 113 — What The Visitors' Book Shows
+The 13th, Bellhouse. Marguerite's weekly reading: past ninety entries, and one in the porter's hand naming Nell Ardery as holding one buff square — the first square named, by somebody else's hand, on the page. Six women argue in their own words; nobody leaves. On the landing Sun states her refusal in her own words on her own ground: the house protects by writing down together, and she will not be kept. The logic takes the hit without breaking. Forty-seven days.
+
+### Ch 114 — Down And Unsigned
+The 14th. Two papers stay down: the classification paper, unsigned, carried up three floors and back, and Marguerite's terms, unsigned, out of force, which she refuses to take up even when he asks and Nadia offers her own name instead. An office argues about objects; nothing happens. He learns nobody's hand is coming down for him. Forty-six days.
+
+### Ch 115 — The Counter-Forensics Desk
+The 15th, the instrument certification desk. Adeyemi's standing rule: an instrument offered in evidence must be shown capable of producing what its proponent says it produces. The paper does not exist yet; it wants the desk's run and the builder's word. The reporting officer is named: Ivo Sarn, nine years at the desk, the hand three floors above Anneke Roos. He decides whatever the tool does happens in the hall or not at all. Forty-five days.
+
+### Ch 116 — A Tool With Two Columns
+The 16th. The certification request goes by hand, and he reads it at ten: two paragraphs, a slip describing the tool flatly as two columns on paper output, subject and counterparty. The second paragraph names the builder for the first time: Wren Kallo, outside the standing roll, seven years on the second bench. He tells Marguerite alone; she will hold the name till morning. Forty-four days.
+
+### Ch 117 — The Officer Outside The Roll
+The 17th. The confirmation is back: she built it, in her hand, matching the slip — and the envelope carries three extra initials, because she told the runner, the plate clerk, and Cressida before ten. A bench order dated yesterday moves her to paper review effective the 19th. He sends a note with no envelope: an hour in the morning, at the second bench. Forty-three days.
+
+### Ch 118 — What She Cannot Keep
+The 18th, Thursday. Wren Kallo's scene, immovable. She cannot keep a secret; she asks to be made a party to the proceeding she is losing her post over, as his one witness. He decides out loud, in the room, knowing she will repeat it, and she repeats it back word for word. Explicit scene, adults, awake, no draw spent, nothing moved. Cressida knocks at eleven and Wren tells her with him still there. Forty-two days, six weeks.
+
+### Ch 119 — Six Names In A Minute
+The 19th. The hall's copy came back with a dated demand: attest as a whole by the 26th or answer for the gap. The roll's arithmetic already shows it: six names where the file says more, and the seventh line is Sun. He refuses in Tove's day book to complete another officer's minute; the demand goes to Runa instead, and her hearing firms. Sun stays off paper. Forty-one days.
+
+### Ch 120 — The Hearing In Writing
+The 20th. The Office's written case goes on the table, opening with a description, and his one witness stands named on the hearing officer's form. The certification paper says the tool meets its specification. In the register room Anneke Roos enters Sarn's paragraph into the ruled sixth space as received, not agreed: a settled mass in the possession of a member, accumulating by the member's own condition, no source identified, no measure obtainable. The record is complete; what the instrument can actually do is still unanswered. Forty days.
