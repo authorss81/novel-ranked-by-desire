@@ -114,29 +114,44 @@ number belongs to.
 - **Never speak the word *reservoir*.** Lin Hao's words are *the figure*, *the account*, *it*. The
   Bureau's word is *unsettled*. **The Channel does not appear in Volume 1.** No *quiet account* as a
   term of art, no Ninth Seal, no Concil.
+- **This is a register rule, not a contradiction between these cards and the ban above.** These cards
+  are planning documents and they may use *reservoir*, *quiet account*, *Ninth Seal* and *Concil* in
+  order to describe what is being withheld — `state/current.md` names the reservoir in the volume goal
+  and `bible/characters.md` uses it too. **Chapters 1–30 contain none of them and none may appear.**
+  Plan in one voice, write in the other.
 - **Never write *there is no form for this*, never write *there is no column for it*, and do not
   paraphrase either one.** All three escalations are spent and none are available before Volume 7.
   Sweep for the construction, not for the wording.
-- **Length: every chapter between 1,800 and 2,700 words.** Batch 0003 landed at 2,021–2,698, mean
-  2,378. Nine chapters of Batch 0003 went over the ceiling on first pass. Check before you finish.
+- **Length: every chapter between 1,800 and 2,700 words.** Batch 0003 landed at 2,048–2,698, mean
+  2,380. Nine chapters of Batch 0003 went over the ceiling on first pass. Check before you finish.
 - **Paragraphs two to four sentences, nothing over 120 words.** Batch 0003 had nine paragraphs over on
   first pass, one of them 165.
 - **One System message per chapter at most, and never the same panel twice.** Batch 0003 used Ch 25 and
   Ch 30. Expect this batch's panels at Ch 37 and Ch 40, where the band and the margin move.
-- **No age is stated in narration, for named characters or walk-ons.** Ages live in
-  `bible/characters.md`. **Two residual instances survive in Ch 16 and Ch 18** stating Emrys Vaz's age;
-  they are flagged in `state/open-threads.md` and were deliberately not touched.
+- **No age is stated in narration or in dialogue, for named characters or walk-ons.** Ages live in
+  `bible/characters.md`. **Four residual instances survive in certified chapters** — Ch 3 and Ch 8 on
+  walk-ons, Ch 16 and Ch 18 on Emrys Vaz — and are listed with line numbers in `state/open-threads.md`.
+  Batch 0003 also put a canon age in Nadia Ferrous's mouth in dialogue and the age gate missed it, so
+  match bare number-ages (`was about sixty`, `in his forties`, `twenty-three years of my life`), not
+  only `years old` and `aged`.
 - **Bold is not used anywhere in this book.** Chapter prose carries document text plain. Italic is
-  scarce — Batch 0003 ended at twelve across ten chapters.
+  scarce — Batch 0003 ended at **fourteen** across ten chapters, six of them inside one woman's
+  shouting, so one scene carried most of the batch's emphasis.
 - **No feeder thanks him.** *Nobody thanked him* is Chapter 50's and is not available here.
 - **No weekday name except Thursday and Monday the 19th**, where the world turns on it. Otherwise dates
-  and intervals. Batch 0003 removed twenty-two illegal weekday names in one pass.
+  and intervals. Batch 0003 removed twenty-two illegal weekday names in one pass. **Fifty-eight more
+  survive behind Chapter 20** (Ch 1–11 and 19) and are logged as an open repair in
+  `state/current.md` item 23 — do not imitate them and do not go and fix them as part of this batch.
 - **One explicit scene, Chapter 36.** Adults, awake, unrestrained, unmedicated. An impaired state is
   never the mechanism. Her deafness is a cost Beatrix jokes about and is not a mechanism; Runa has no
   such mechanic, so nothing about carrying weight may be used to produce a scene.
 - **Physical risk or a deadline in the batch.** Ch 34's requisition and Ch 37's band satisfy it.
 - **After any passage of institutional machinery, one plain sentence about what it means for one named
   person.** The Cordwain adjustment lands on a named tenant and not on a district.
+- **`nobody` / `no one`: thirty or fewer across these ten chapters, and no chapter over five.** Batch
+  0003 ran forty-four, eight of them in Chapter 27, and Chapter 29 used the word none. **The
+  construction *the person nobody looked at* is retired**, not rationed — it ran three times in seven
+  chapters (Ch 22, 27, 28). A numeric target, because the prose instruction is what let it happen.
 - **No filler roster.** Lin Hao, Ines, Tessa, Beatrix, Nadia, Runa, Marguerite, Tobias, Rhee, Vole and
   Ola have lines. Sun Meiling, Wren Kallo, Solveig Rask, Alma Quayle, Yusuf Adeyemi, Anouk Ferreira and
   Dagmar Oyelowo do not appear. **Marguerite's scene is Chapter 46 and is not this batch.**

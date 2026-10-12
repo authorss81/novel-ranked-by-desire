@@ -60,7 +60,7 @@ Register opened nine years ago. Thirty-one entries.
 
 There was a column of plate numbers down the sheet in a clerk's hand, in the order they had been entered, and about half of them had a date against them and about half of them did not, and the dates ran from nine years ago to the 3rd of this month, and the last number on the list was his own.
 
-It had no name beside it, because the register was of accounts. That was the whole of it and it was the most frightening page in Ostara. There were thirty-one people in this city carrying something the machine could not put in a band, and the Wing had been writing the numbers down for nine years, and there were no names on the page at all, and a number was enough, because a plate number is a person.
+It had no name beside it, because the register was of accounts. That was the whole of it and it was the most frightening page in Ostara. Thirty-one of something the machine could not put in a band, and the Wing had been writing the numbers down for nine years, and there were no names on the page at all, and it did not need names: a plate number is a person, and a plate number that came in off the Ferrier line in June tells a man in a coat which line to stand on. Thirty-one people. The sheet had never once said so.
 
 Runa Sato was standing at the far end of the crowd with her hands in her coat.
 

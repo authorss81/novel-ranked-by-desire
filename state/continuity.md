@@ -28,9 +28,12 @@ never of deeds. **It cannot take, cannot be compelled, cannot be traded, and can
 **Ages, fixed.** Ines Duarte 34 · Beatrix Halm 27 · Tessa Okonkwo 31 · Nadia Ferrous 23 · Runa Sato 29 ·
 Marguerite Vale 41 · Sun Meiling 33 · Wren Kallo 38 · Agnete Lindqvist 45 · Petra Ilyin 35 · Isolde
 Marchetti 39 · Dagmar Oyelowo 50. **No chapter may state or imply a different age. Every sexual character
-is an adult and is written as one.** **No age is stated in narration anywhere in Chapters 21–30, for
-named characters or for walk-ons.** Two residual instances survive in the *earlier* batches — Ch 16 and
-Ch 18 both state Emrys Vaz's age in prose — and `state/current.md` no longer certifies otherwise.
+is an adult and is written as one.** **No age is stated in narration or in dialogue, for named characters or for
+walk-ons.** That claim was made for Chapters 21–30, certified, and was **false**: `chapter-0028.md`
+stated a walk-on's age in prose and `chapter-0029.md` had Nadia Ferrous say she had had twenty-eight
+years of her life when she is 23. Both are corrected. **Four residual instances survive in earlier
+certified batches** — Ch 3 and Ch 8 on walk-ons, Ch 16 and Ch 18 on Emrys Vaz — each listed with a line
+number in `state/open-threads.md`. `state/current.md` certifies nothing about this any more.
 
 **Opposition.** Cassius Rhee, deputy warden of the Fourth Branch, 46 — the recruitment, not the villain.
 Alma Quayle, Classification Wing, 57. Yusuf Adeyemi, Correction Office, 44. Solveig Rask, Vant's real
@@ -88,6 +91,10 @@ seven-day gap to the 10th.
 - **Spoken weekday: Thursday only.** Used for the repaint, the weekly publication, the Thursday line at
   the Exchange box, and the readings. Monday the 19th remains available. All other references are dates
   or intervals. Twenty-two illegal weekday names were removed from the first draft of this batch.
+  **Fifty-eight more survive behind Chapter 20** — Ch 1 (6), 2 (4), 3 (4), 4 (7), 5 (5), 6 (8), 7 (7), 8
+  (3), 9 (2), 10 (9), 11 (1), 19 (2); Ch 12–18 clean — and were never in this batch's census. Logged as
+  an open repair in `state/current.md` item 23. Three are bare: `chapter-0002.md:109`,
+  `chapter-0006.md:19`, `chapter-0006.md:27`.
 
 ## Mechanics now on the page
 
@@ -150,7 +157,8 @@ seven-day gap to the 10th.
   an intake test, not to a routing. Left the cold store without a word. **No age is stated in prose.**
 - **Emrys Vaz** is the third tick in Beatrix's TURNED column. Named in Ch 23, unsettled on the 3rd with a
   plate handed to him at the north gate that morning reading 441, struck off by the declaration, and back
-  on the yard rota at six by the 10th. **No age is stated in prose anywhere in Chapters 21–30.**
+  on the yard rota at six by the 10th. **No age is stated in his prose in Chapters 21–30** — his age is
+  stated in Ch 16 and Ch 18, which are earlier certified chapters, and that residue is logged.
 - Locations: the Field observation room, **second floor, a store cupboard with a table carried up the
   back stair by hand**; the witness book on its lectern by the plate office door, **with a narrow
   attestation column that was empty until the 30th**; the Vestry **cold store**, eight feet by eleven,
@@ -181,7 +189,11 @@ seven-day gap to the 10th.
 - Reservoir never spoken. **No feeder thanks him.** Halvard's pattern holds and is reinforced: Ottoline
   Barret's one sentence is not thanks, the second-column man counts words rather than offer thanks, the
   woman from the second column leaves tea without looking at him, Emrys Vaz says nothing at all.
-- **Zero cross-chapter repeated 6-grams of content words** across the ten chapters, measured.
+- **Cross-chapter repetition across the ten chapters: 27 content-bearing shared 6-grams**, measured.
+  Most are proper nouns and figures. One is a **spent construction used three times in seven chapters** —
+  *the person nobody looked at*, Ch 22, Ch 27, Ch 28 — and the Ch 27 instance has been re-angled, so the
+  construction is retired rather than rationed. **`nobody` / `no one` ran forty-four times** across the
+  batch, eight of them in Ch 27; Ch 29 used the word none.
 
 ---
 

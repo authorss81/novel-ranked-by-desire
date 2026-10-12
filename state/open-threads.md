@@ -90,9 +90,9 @@ thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that senten
 ## Adjudicated contradictions — closed, do not re-open
 
 Seventeen canon questions were decided before or during Batch 0001, three more during the Batch 0002
-review repair, and one more during the Batch 0003 pass. The full list with the reasoning is in
-`state/current.md` under **Adjudicated contradictions**. In short, so that a later phase can tell a
-settled question from an open one:
+review repair, one more during the Batch 0003 pass and four more during the Batch 0003 review repair.
+The full list with the reasoning is in `state/current.md` under **Adjudicated contradictions**. In short,
+so that a later phase can tell a settled question from an open one:
 
 - The brother's file opens at **Ch 372** on a rank he does not hold; rank nine at 409 buys him nothing
   about it.
@@ -102,11 +102,13 @@ settled question from an open one:
 - The Channel is **Volume 5**, not Volume 4.
 - The book is **ten volumes**. The "nine volumes" in `premise.md`, `ending.md` and `characters.md` mean
   *nine before the last* and are correct.
-- **No age is stated in narration anywhere in Chapters 21–30**, named characters or walk-ons. The
-  equivalent claim for Chapters 11–20, which `state/current.md` carried through two batch rewrites,
-  **was false**: Ch 16 and Ch 18 each state Emrys Vaz's age in prose. It is corrected here and in
-  `continuity.md` and both locations are named. A certification that outlives the page it certifies is
-  worse than no certification.
+- **No age is stated in narration anywhere in Chapters 21–30** — **this was certified and it was false
+  too.** The claim was made after a first certification for Chapters 11–20 was found false, it was put
+  in `reviews/volume-01/batch-0003.md` as verified, and `chapter-0028.md` stated a walk-on's age in
+  prose while `state/chapter-summaries.md` carried "A man of sixty" on the line above it. Corrected on
+  the page and **withdrawn, not reissued.** The equivalent claim for Chapters 11–20 was false for the
+  same reason: Ch 16 and Ch 18 each state Emrys Vaz's age. A certification that outlives the page it
+  certifies is worse than no certification. **Match bare number-ages in dialogue as well as narration.**
 - **All three escalations of *there is no form for this* are spent and none remain before Volume 7.**
   Neither is *there is no column for it*, and a **paraphrase of the first was cut from Chapter 27** in
   the Batch 0003 pass. Sweep for the construction, not for the exact wording.
@@ -122,9 +124,11 @@ settled question from an open one:
   29th, so the figure keeps moving and the faces stop coming. No later batch may have the count stop
   for any other reason.
 - **No weekday name is canonical in this book.** Count in dates and intervals. Only Thursday and Monday
-  the 19th may be spoken, and only where the world turns on them.
+  the 19th may be spoken, and only where the world turns on them. **Batch 0003 is clean and is not the
+  whole book: fifty-eight illegal names survive behind Ch 20 and are now item 23 in
+  `state/current.md`.**
 - **Every chapter lands between 1,800 and 2,700 words.** A gate exists in the prompt and the cards.
-  Batch 0003 landed at **2,021–2,698, mean 2,378**.
+  Batch 0003 landed at **2,048–2,698, mean 2,380**.
 
 ## Canon-change guard
 
@@ -187,8 +191,44 @@ ending was not touched.**
   world. It is a Volume 2 engine and it does not answer T2, T3 or the brother's file.
 - **Tessa Okonkwo is a turned line** as of Chapter 26, and **Beatrix's fourth year of counting is
   unaffected.** Neither is a household change. No woman's plate, bond or quarters are altered.
-- **Two residual ages remain in Chapters 16 and 18**, stating Emrys Vaz's age, in a batch already
-  certified. They contradict the gate, not the canon, and the certifier has been corrected rather than
-  the chapters. **Flagged, not silently adopted.** A repair pass on Ch 16 and Ch 18 may strike them if a
-  later phase judges the ripple small; the Batch 0003 writer judged it not small enough to touch two
-  certified chapters uninvited.
+- **Four residual ages survive in certified chapters, and the register of them now lists all four.**
+  They contradict the gate, not the canon. Nothing below is canon and nothing below is planned plot:
+  | Chapter | Line | Text | Whose |
+  | --- | --- | --- | --- |
+  | Ch 3 | 29 | "an ordinary man **in his forties** on a tram" | walk-on |
+  | Ch 8 | 297 | "said by a woman **in her thirties** in a lamp-lit room" | walk-on |
+  | Ch 16 | 31 | "he is **seventeen**, and he has never in his life been asked to attest anything" | **Emrys Vaz** |
+  | Ch 18 | 39 | "a man called Emrys Vaz who is **seventeen**" | **Emrys Vaz** |
+  Ch 3 and Ch 8 were missed by the same grep that missed Ch 28, and the earlier register naming only
+  Ch 16 and Ch 18 was therefore incomplete in a guard meant to be authoritative. **All four are flagged,
+  none adopted.** A repair pass may strike any of them if a later phase judges the ripple small; the
+  Batch 0003 repair pass judged the ripple across four chapters in three certified batches too wide to
+  touch uninvited, and recorded the census instead.
+- **`chapter-0012.md:19` reads "Nobody thanked the boy."** A near-miss on *nobody thanked him*, which is
+  Chapter 50's and unavailable earlier. It is a boy holding a strap for a crate of boots at the Cordwain
+  gate and it predates any feeder, so it does not spend the sentence — but it is close enough that the
+  construction should be treated as **retired** and not merely rationed. Logged, not changed.
+- **Fifty-eight illegal weekday names survive behind Chapter 20** — Ch 1 (6), 2 (4), 3 (4), 4 (7), 5 (5),
+  6 (8), 7 (7), 8 (3), 9 (2), 10 (9), 11 (1), 19 (2); Chapters 12–18 are clean. Three are bare:
+  `chapter-0002.md:109`, `chapter-0006.md:19`, `chapter-0006.md:27`. **Flagged as an open repair, not
+  fixed**, for the same reason as the ages: nineteen certified chapters is not a file to rewrite inside
+  a review repair. The rule is enforced going forward through the Batch 0004 prompt.
+
+## Canon-change flags raised by the Batch 0003 review repair
+
+- **Nadia Ferrous's age was wrong on the page.** `chapter-0029.md` had her say she had "had twenty-eight
+  years of my life." `bible/characters.md` fixes her at **23**. **Canon governed; the page was corrected
+  to twenty-three.** No canon changed — the age was never moved, it was contradicted, and the
+  contradiction is removed. Logged here because the age gate missed it: the gate scanned narration and
+  this was dialogue, so the gate now matches bare number-ages in speech as well as narration.
+- **A walk-on's age was struck from Chapter 28** ("the man at the front was about sixty"), because the
+  batch had certified that Chapters 21–30 stated no ages anywhere. The certification is withdrawn rather
+  than rewritten, and `state/chapter-summaries.md` no longer carries "A man of sixty".
+- **`reviews/volume-01/batch-0003.md` was written by the batch it reviewed**, in the same commit as the
+  writer work, and it certified two claims the page contradicted. The file now carries the external
+  findings that overturned it. **A writer's own review is not a review**, and no batch after this one
+  may treat its self-certification as the gate.
+- **No planned plot moved.** Ch 30's account register was tightened where narration flatly converted
+  "entries are not persons" into "thirty-one people"; the conversion is now his inference, which is what
+  the page was already doing two lines later. One spent construction in Ch 27 was re-angled. Nothing
+  else in Chapters 21–30 was touched, and no scene, beat, decision or ending changed.

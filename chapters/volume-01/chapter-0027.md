@@ -14,7 +14,7 @@ Rank five is high. He had spent four years being low down, and his eyes went to 
 
 Nothing happened.
 
-That was the thing nobody had warned him about and nobody could have warned him about. Two thousand people looked at a board with nine hundred names on it and none of them looked at his for longer than they looked at anybody's, because a man had gone from four to five that is an entirely ordinary event in a city where people go up and down every week and there is a great deal more to look at.
+That was the thing nobody had warned him about and nobody could have. Two thousand people looked at a board with nine hundred names on it and none of them looked at his for longer than they looked at anybody's, because a man had gone from four to five that is an entirely ordinary event in a city where people go up and down every week and there is a great deal more to look at.
 
 A woman in front of him said to the man beside her that her sister had dropped a band and would have to sell the flat, and the man said that was not as bad as the winter, and they moved on.
 
@@ -24,7 +24,7 @@ He went and stood at the top of the Ferrier interchange steps where he could see
 
 The line went along the branch's own corridor, and it had been going since seven, and by half past ten there were about forty people in it and it was moving about one name a minute and a half.
 
-Nobody had told them anything. That was the design. A man who does not know what is going to happen to him in a room is a man who behaves in the corridor in a way that produces a clean reading, and that was not a conspiracy, it was just what happens when nobody has ever had to explain anything to anybody.
+They had not been told anything. That was the design. A man who does not know what is going to happen to him in a room is a man who behaves in the corridor in a way that produces a clean reading, and that was not a conspiracy, it was just what happens when nobody has ever had to explain anything to anybody.
 
 He watched the board by the second-floor door.
 
@@ -66,7 +66,7 @@ He stood four feet away in the rain and he could not think of one single sentenc
 
 "Emrys Vaz is on it too."
 
-"Yes." Tobias turned round. "And the woman on the fourth floor who holds the door. So that is four years of being the person nobody looks at, and the arithmetic has finally worked out that it is a *liability*, and the number has come to tell them about it, and it did not ask any of us what we thought about that either." He pulled his collar up. "You are going to stand there at twelve o'clock and they are going to read your plate and it is going to say unsettled in the place where the interval goes, because it always has. And then the slips print at four and there will be three names on them."
+"Yes." Tobias turned round. "And the woman on the fourth floor who holds the door. So that is four years of being the one the corridor works around, and the arithmetic has finally worked out that it is a *liability*, and the number has come to tell them about it, and it did not ask any of us what we thought about that either." He pulled his collar up. "You are going to stand there at twelve o'clock and they are going to read your plate and it is going to say unsettled in the place where the interval goes, because it always has. And then the slips print at four and there will be three names on them."
 
 "Four."
 

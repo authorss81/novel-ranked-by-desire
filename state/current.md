@@ -14,9 +14,10 @@ reservoir is requisitioned by the Fourth Branch and he never gets it back**.
 
 ## Adjudicated contradictions — do not re-open
 
-Closed before Batch 0001 was written, and in two batch review repairs. Recorded here and in the
+Closed before Batch 0001 was written, and in three batch review repairs. Recorded here and in the
 canon-change guard in `state/open-threads.md` so a later phase can tell an already-decided question from
-a new one. **No canon changed in any of them; no scene moved; no age moved.**
+a new one. **No canon changed in any of them; no scene moved; no age moved.** The one age that *was*
+wrong on the page is item 21.
 
 1. `outline/ending.md` opened by saying he reaches rank nine at 409 and *therefore* opens the file at
    372. The file opens first, at 372, on a rank he does not hold. Nine buys him nothing about it.
@@ -70,8 +71,41 @@ the file, and it is the reason this section exists:
     `chapter-0018.md` each state Emrys Vaz's age in prose. Both locations are now named in
     `state/continuity.md` and `state/open-threads.md`. The two chapters were certified in the Batch 0001
     and Batch 0002 reviews and have not been re-read since. **Flagged, not silently repaired**: the
-    Batch 0003 writer judged the ripple too wide to touch two certified chapters uninvited. **No age is
-    stated in narration anywhere in Chapters 21–30, for named characters or for walk-ons.**
+    Batch 0003 writer judged the ripple too wide to touch two certified chapters uninvited.
+
+**Closed by the Batch 0003 review repair** — the fourth false certification this pipeline has produced,
+and the second written by a batch that had been warned about the first by name:
+
+20. **The replacement claim was false too.** The Batch 0003 pass wrote into this file, and certified in
+    `reviews/volume-01/batch-0003.md`, that **no age is stated in narration anywhere in Chapters 21–30,
+    for named characters or for walk-ons.** `chapter-0028.md` stated one: "the man at the front was
+    about sixty." **The evidence was sitting in `state/chapter-summaries.md` the whole time**, which
+    carried "A man of sixty says he has counted the words" on the line above the claim that there was no
+    age anywhere. The age is struck from Ch 28, the summary now reads that he worked the second column
+    for twenty-two years, and the certification is **withdrawn rather than reissued** — a rewritten
+    claim would be a fifth chance to be wrong.
+21. **`chapter-0029.md` contradicted canon.** Nadia Ferrous said "I have had twenty-eight years of my
+    life." `bible/characters.md` fixes her at **23** and AGENTS.md forbids moving an age. Corrected on
+    the page and logged as a canon flag in `state/open-threads.md`. **The age gate missed it because the
+    gate scans narration and this was dialogue.** A gate that claims authority over age must match bare
+    number-ages too — `was about sixty`, `in his forties`, `twenty-three years of my life` — and not only
+    `years old` and `aged`.
+22. **`reviews/volume-01/batch-0003.md` was self-certification.** It was added in the same commit as the
+    writer work with no separate review commit, as Batches 0001 and 0002 had, and it certified the two
+    claims above. **A writer's own review is not a review.** The Batch 0003 review repair is recorded in
+    that file with the external findings it overturned, and from here the gate is: read the page for
+    every certified claim, and if the writer cannot say how a claim was checked, the claim does not go in.
+23. **Fifty-eight illegal weekday names survive behind Chapter 20 and were flagged nowhere.** Only
+    Thursday and Monday the 19th may be spoken. Chapters 1–11 and 19 carry **fifty-eight**: Ch 1 (6),
+    2 (4), 3 (4), 4 (7), 5 (5), 6 (8), 7 (7), 8 (3), 9 (2), 10 (9), 11 (1), 19 (2). Chapters 12–18 are
+    clean. **Three are bare and unambiguous** — `chapter-0002.md:109` ("Monday?"), `chapter-0006.md:19`
+    and `chapter-0006.md:27` ("come back on Monday") — and `chapter-0008.md:297`'s "on a Friday night"
+    shares a sentence with a residual age. A reader crossing the Chapter 20 boundary sees a world rule
+    switch on. **Chapters 1–19 are certified and were not rewritten.** The census is recorded here, in
+    `open-threads.md` and in the Batch 0004 prompt so the rule is enforced going forward, and the
+    residue is logged as an open repair rather than silently fixed in nineteen certified chapters.
+    *(The Batch 0003 review reported this as sixty. Sixty counts the two permitted instances of "Monday
+    the nineteenth" in Ch 4 and Ch 5. Fifty-eight is the count.)*
 
 ## Where Batch 0004 picks up
 
@@ -127,6 +161,18 @@ Long accumulating sentences, short plain landings. Paragraphs two to four senten
 write *there is no form for this*, never write *there is no column for it*, and do not paraphrase either
 one.** Ledger messages only where the count turns, and **never the same panel twice**. No feeder thanks
 him, and *nobody thanked him* is Chapter 50's. Word reservoir never spoken.
+
+**Two numeric sweep targets, because prose instructions were not enough.** `nobody` / `no one` ran
+**forty-four times across Batch 0003's ten chapters**, eight of them in Ch 27 alone, and Chapter 29 used
+the word none. Batch 0004 gets **thirty or fewer across ten chapters and no chapter over five**. The
+construction *the person nobody looked at* appeared three times in seven chapters (Ch 22, Ch 27, Ch 28);
+the Ch 27 instance has been re-angled and the two survivors are the batch's thesis line and its public
+speech, so it is retired rather than available.
+
+**Planning register may use the words the page may not.** *Reservoir*, *quiet account*, *Concil*,
+*Ninth Seal* and *Channel* are terms of the outline and the batch cards. `outline/batches/` uses them.
+Chapters 1–30 contain none, and none may appear. That is a register rule, not a contradiction between
+the cards and the ban the cards state.
 
 ## Scene budget
 

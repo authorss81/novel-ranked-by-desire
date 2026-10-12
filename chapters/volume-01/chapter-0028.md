@@ -88,7 +88,7 @@ He had prepared a speech for nine days and it had been one sentence, and there w
 
 He went and stood behind the man at the front of the line.
 
-It was eleven twenty-six and the man at the front was about sixty and had worked in the second column for twenty-two years. He turned round, looked at the board, and then back at him.
+It was eleven twenty-six and the man at the front had worked in the second column for twenty-two years. He turned round, looked at the board, and then back at him.
 
 "You are the one that does the second floor."
 

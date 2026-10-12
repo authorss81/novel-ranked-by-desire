@@ -88,7 +88,7 @@ She came first with her mouth open against his jaw and her hands fisted in his s
 
 Afterward she got off him, put her jacket on, and went up onto her toes and put her forehead against his and breathed for a minute.
 
-"Right," she said. "That is done and I am not going to be weird about it. Four seconds." She held up four fingers. "I have never had four seconds of anybody and I have had twenty-eight years of my life and I would like that noted."
+"Right," she said. "That is done and I am not going to be weird about it. Four seconds." She held up four fingers. "I have never had four seconds of anybody and I have had twenty-three years of my life and I would like that noted."
 
 "Noted."
 

@@ -14,9 +14,10 @@ state/open-threads.md, state/chapter-summaries.md. Read Chapters 26, 28, 29 and 
 29 are the two scenes this book writes and 28 is the irreversible one.
 
 **Read the "Adjudicated contradictions — closed, do not re-open" section in `state/current.md` before
-you plan anything.** Twenty items are closed there, and item 19 is a warning about this pipeline itself:
-a state file certified a fact that was false and carried the false claim through two rewrites before
-anybody read the page.
+you plan anything.** Twenty-three items are closed there. **Items 19 to 23 are a warning about this
+pipeline itself**: a state file certified a fact that was false, carried the false claim through two
+rewrites before anybody read the page, and then replaced it with a second false certification written
+by the batch that had just been warned about the first. Read all five.
 
 ## Starting numbers, exact
 
@@ -59,35 +60,58 @@ deadline is spent and this one is spoken for.
 - **Titles exactly from the bank** (31 Provisionally Six · 32 The Vant's Price · 33 Solveig's
   Arithmetic · 34 Cordwain · 35 A Clean Report · 36 Requisitioned Rooms · 37 The Provisional Band ·
   38 Five Cold Minutes · 39 What the Board Does Not Say · 40 The Winter Queue), unique across the book.
-- **Length: land every chapter between 1,800 and 2,700 words.** Batch 0003 landed at 2,021–2,698, mean
-  2,378. Nine of its ten chapters went over the ceiling on first pass and were cut by removing
+- **Length: land every chapter between 1,800 and 2,700 words.** Batch 0003 landed at 2,048–2,698, mean
+  2,380. Nine of its ten chapters went over the ceiling on first pass and were cut by removing
   sentences, not scenes. Do not pad to reach the band and do not split a finished scene to stay inside it.
 - Paragraphs two to four sentences, under 120 words; nine paragraphs of Batch 0003 breached this on
   first pass, one of them 165 words. Check the count before you call the batch done.
 - **Bold is not used anywhere in this book.** Document text prints plain. Italic is scarce — Batch 0003
-  ended at twelve across ten chapters, mostly inside one woman's shouting.
+  ended at **fourteen** across ten chapters, six of them inside one woman's shouting. One scene carried
+  most of that batch's emphasis; spread it.
 - **At most one ledger message per chapter and never the same panel twice.** Batch 0003 used Ch 25 and
   Ch 30. Expect this batch's at Ch 37 and Ch 40, where the band and the margin move.
-- Never speak reservoir. **Never write *there is no form for this*, never write *there is no column for
-  it*, and do not paraphrase either one.** All three escalations are spent and none are available before
+- **Never speak reservoir, quiet account, the Channel, the Ninth Seal or the Concil in the prose.**
+  The cards in `outline/batches/volume-01-batch-0004.md` use those words to describe what is being
+  withheld, and `state/current.md` names the reservoir in the volume goal. **That is a register
+  difference, not a contradiction**: plan in the planning voice, write in the other. Chapters 1–30
+  contain none of the five and must still contain none.
+  **Never write *there is no form for this*, never write *there is no column for it*, and do not
+  paraphrase either one.** All three escalations are spent and none are available before
   Volume 7. A paraphrase of the first survived a word-list into Batch 0003's Chapter 27 and had to be
   cut; sweep for the construction, not the wording.
 - No feeder thanks him. **"Nobody thanked him" is Chapter 50's and is not available in this batch.**
-- **No weekday name except Thursday and Monday the 19th** where load-bearing, otherwise dates and
-  intervals. Twenty-two illegal weekday names had to be removed from Batch 0003 in one pass.
-- **No age is stated in narration**, for named characters or for walk-ons. Ages are canon and live in
-  `bible/characters.md`. Two residual instances survive in Chapters 16 and 18; they are flagged, not
-  repaired, and this batch does not touch certified chapters.
+  **Treat the whole construction as retired, not rationed** — `chapter-0012.md` came within one word of
+  it in a certified chapter.
+- **`nobody` / `no one`: thirty or fewer across these ten chapters, none over five.** Batch 0003 ran
+  forty-four, eight of them in Chapter 27, and Chapter 29 used the word none. *The person nobody looked
+  at* ran three times in seven chapters (Ch 22, 27, 28) and is gone from two of them; it is now spent.
+  **This is a number, not an intention.** Run the count before you call the batch done.
+- **No age is stated in narration or in dialogue**, for named characters or for walk-ons. Ages are canon
+  and live in `bible/characters.md`. **Match bare number-ages, not only "years old":** Batch 0003's gate
+  scanned narration, missed a canon age inside Nadia's speech in Chapter 29, and missed a walk-on's age
+  in Chapter 28 while a state file carried "A man of sixty" one line above the claim that no age was
+  stated anywhere. **Four residual instances survive in certified chapters** — Ch 3, Ch 8, Ch 16, Ch 18,
+  all listed with line numbers in `state/open-threads.md` — flagged, not repaired. Do not touch certified
+  chapters.
+- **No weekday name except Thursday and Monday the 19th**, where load-bearing, otherwise dates and
+  intervals. **Fifty-eight illegal names survive behind Chapter 20** (Ch 1–11 and 19, three of them
+  bare) and are logged as an open repair in `state/current.md` item 23. They are a residue, not a model.
+  Do not copy them and do not fix them as part of this batch.
 - One felt emotion and one concrete want per chapter; institutional passages land on one named person.
-- **Scene Ch 36 only**, seven chapters after Ch 29 — the accepted short gap. Locked. Do not move it to
-  fix the gap. Adults, awake, unrestrained, unmedicated; violence and sex stay in separate registers.
-- Never more than fifteen chapters without a scene. Ch 36 is nine after 29 and the last of Volume 1
-  before 46.
+- **Scene Ch 36 only**, **seven** chapters after Ch 29 — the accepted short gap. Locked. Do not move it
+  to fix the gap. Adults, awake, unrestrained, unmedicated; violence and sex stay in separate registers.
+- Never more than fifteen chapters without a scene. Ch 36 is **seven** after 29 and the last of Volume 1
+  before 46. *(An earlier version of this prompt said nine. It is seven, and the cards and
+  `state/current.md` both had it right.)*
 
 After: update state/chapter-summaries.md, state/continuity.md, state/open-threads.md, state/current.md,
 write reviews/volume-01/batch-0004.md, and create exactly one next phase. One phase only.
 
 **When you write your own review, check the page against your claims.** This pipeline has now produced
-three certifications that the prose contradicted — twice that no ages were stated, and once that a
-rationed phrase was untouched. A review that certifies a fact without reading the page is worse than no
-review. Run the grep, read every hit, and record what you found rather than what you meant.
+**four** certifications that the prose contradicted — twice that no ages were stated, once that a
+rationed phrase was untouched, and once that no construction was repeated. Two of the four were written
+by the batch that had already been warned about the previous one. **A writer's own review is not a
+review:** the Batch 0003 review was written by the batch it reviewed, in the same commit as the prose,
+and it certified two things that were not true. Run the grep, **read every hit by eye**, and record what
+you found rather than what you meant. If you cannot say how a claim was checked, the claim does not go
+in the file.
