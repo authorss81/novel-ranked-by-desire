@@ -16,8 +16,6 @@ Forty-one. He wrote it on the back of a docket in the yard office and read it an
 
 Nobody had asked him to walk it. That was the part he was going to have to look at later, in a colder room, because it had not occurred to him that the figure was the part he was hunting and that for four years he had been hunting it in the wrong place. He was not climbing. He was taking a census.
 
----
-
 Cordwain took the arc at the yards end and the yards were there because Halvard Rees came from them, a wire-splicer off the Ferrier line, and Lin Hao had never once asked the man where he worked because it had not been the kind of question that existed between them.
 
 He learned about the block on the 16th, from Nell Ardery, who was on the landing of number 14 at seven in the morning with a plate reader in her hand and eleven weeks of figures on a sheet in her other hand.
@@ -47,8 +45,6 @@ The landing was very cold and the stair went down into a yard that was making no
 She looked at him.
 
 "It is a district return," she said. "Somebody has to make the district come out. Nine thousand people, three hundred a week short, and a return is a page with numbers on it and the page has to balance. You cannot balance it by taking three hundred from nine thousand people. You take it from thirty-one."
-
----
 
 The requisition order came off the board on the 17th at seven in the morning, in the district office's own frame, in a district office two streets from the yards, and Lin Hao read it standing in front of it with his hood up because it was raining.
 
@@ -98,8 +94,6 @@ He went and found Runa Sato at eleven, on the second floor of the Fourth Branch,
 
 "Twelve thousand dwellings and I could not have found a subject for it."
 
----
-
 He went to Cutler's Row on the 17th at four in the afternoon, in daylight, on purpose, with his name on the order and no authority whatsoever, and the door of number 11 was open because the warders had a man on the stair.
 
 That was the part that was not in the order. Two warders had come at three with a clipboard and had gone down the row knocking, and at number 9 a man had come out onto the landing and had put his hand flat on the door frame and had said the room was his and he had been in it since March, and one of the warders had written something and gone on down. It had taken them four minutes for thirty-one dwellings because most of them are not there in the afternoon.
@@ -108,11 +102,11 @@ At number 11 the door was on the latch and the man was at work and the woman who
 
 It is a fire door. It is on a chain and a padlock from the inside, because it is the only way out of the back of the row, and there are eleven dwellings behind it. The chain was on the floor and the padlock was hanging open in the staple and the door was standing four inches into the passage, and it had been opened from the outside with a bar.
 
-He stood and looked at it for long enough that the woman came back and saw him looking at it and said, in the flat voice of somebody who has already decided what to think, "It was like that on the twelfth."
+He stood and looked at it for long enough that the woman came back and saw him looking at it and said, in the flat voice of somebody who has already decided what to think, "It was like that on the eleventh."
 
-"You said the twelfth."
+"The eleventh."
 
-"Wednesday," she said. "The eleventh. It was shut and I chained it and on the second it was like that and I chained it again and last night it was like that again, and the warders came at three and went straight through it and did not look where they were going, and I am not a fool, I have lived in this row for nine years and I know what a warder looks at."
+"I chained it that night," she said. "On the twelfth it was standing open again and I chained it again, and last night it was standing open again, and your warders came at three this afternoon and went straight through it and did not look where they were going. I am not a fool. I have lived in this row for nine years and I know what a warder looks at."
 
 Behind her the door came in off the landing, and Halvard Rees had his coat over his arm and a roll of wire in his hand, and he looked at the open door in his own passage and then at Lin Hao, and neither of them said anything at all, because there was nothing on either side that had not already been said on a tram.
 
@@ -120,7 +114,7 @@ Behind her the door came in off the landing, and Halvard Rees had his coat over 
 
 "It is not a cellar," Lin Hao said. "It is four dwellings and a passage and the only way out of eleven flats."
 
-"I know what it is. That is why I am telling you." Halvard Rees put the roll of wire down on the table. "Two nights running a man has come through my back door and gone down and I have not heard him come back up. And you are going to go down there, because you have been in my passage four times since the seventeenth and you have never once said why."
+"I know what it is. That is why I am telling you." Halvard Rees put the roll of wire down on the table. "Three times in a fortnight a man has come through my back door and gone down and I have not heard him come back up. And you are going to go down there, because you have been in this row four times in three days and you have never once said why."
 
 He picked the wire up again.
 

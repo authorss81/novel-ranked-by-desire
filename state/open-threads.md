@@ -87,6 +87,30 @@ ever have those nineteen, can climb to six without spending one of them.
 arrange for anybody to.** The Batch 0003 draft put "there is no version of the week in which anybody
 thanked him" into Chapter 30 and it was cut, because Chapter 50 owns that sentence.
 
+## Opened by Batch 0004
+
+| # | Thread | Status at end of Ch 40 |
+| --- | --- | --- |
+| B23 | **The statement he filed against himself.** Ch 39: five names struck by declaration and not by evidence, Emrys Vaz named, plate 441, his own hand and signature, in the front of Runa Sato's file above the observation of the 6th. It put five names back on the branch board and opened a Reading Office query against his own standing. | **Open — the batch's central irreversible decision.** He gave away the only thing protecting ninety-one colleagues in order to file the truth about one boy. It is not repairable by retracting it. |
+| B24 | **The Reading Office query.** A query wants an instrument. The clerk who entered his reading on the 3rd owns it and cannot invent one. He can petition sealed files at six — after the 29th, if he holds the band at all. | Open — the mechanism that turns his own filing into an instrument he has to earn. Batch 0005's clock. |
+| B25 | **A provisional band is not carried into review.** Printed on the queue sheet on the 24th, two days after his filing. The Review strikes the band off the figure on the day, in a room, from the plate. 8,141 is a five. | Open — closes his six at the Review and is the reason Batch 0005 exists. |
+| B26 | **Eleven thousand eight hundred and fifty-nine grains.** Band six opens at 20,000; published standing is 8,141; a witnessed deed scores 400; he needs twenty-nine in six weeks and has nineteen people and no twentieth. | Open — the distance Batch 0005 has to close, and Ch 48's answer is the only one on the table. |
+| B27 | **Tobias Renn is on a board again**, third one down, because of a statement the declarant filed himself, eight days after signing an employer attestation that was not a favour. | Open — B18 deepened. He has still not been thanked and will not take it in a speech. |
+| B28 | **Tessa's rack is at twelve** and she is taking four a day and has crossed her left elbow. She will not stop. She has asked him once a month to say the number out loud to her, and not the names. | Open — the cost of the climb has a body on it. T5 continues. |
+| B29 | **Solveig Rask's column of thirty-one plate numbers over nine years**, and a valuation requiring a rate known to two people. His is the thirty-first, entered on the 3rd, and it is the only entry with a date in the last eleven days. | Open — the register's engine. **Do not resolve before Volume 2.** |
+| B30 | **A broker in Bellhouse told the Vant house that a man in a washroom asked for the date instead of the money.** Marguerite Vale said she was sorry about it. | Open — pays off at Ch 45–46. The refusal was published inside the house and that is why the terms come back. |
+| B1–B22 | Carried. Colm still locked and frightened; Nadia uncontainable and refusing to be spent; Ola's book now has twenty-two entries in a week; Ding alive and unnamed in the ledger; Bernt still down and Ditta on the benches; the gap unanswered; **Tessa's May clipboard untouched, as required**; Rhee's offer closed forever and not re-opened; the ninety-one back on the wall from the 26th. | Open. |
+
+## Deliberately unanswered at the end of Batch 0004
+
+Why the oldest of the thirty-one register entries predates the printed column and is still running. What
+the second person did in May and why they stopped — **Tessa's clipboard is still on the table in Chapter
+38 and he still did not say a word about it.** Whether Solveig Rask's valuation is right. Who reads the
+document he filed and what they do with it on the 29th. Whether giving back the ninety-one was worth one
+boy. And whether a man who cannot climb and will not spend anybody can be six in a room in six weeks.
+
+**The standing answer is unchanged: nobody thanks him, and no chapter may arrange for anybody to.**
+
 ## Adjudicated contradictions — closed, do not re-open
 
 Seventeen canon questions were decided before or during Batch 0001, three more during the Batch 0002
@@ -199,9 +223,22 @@ ending was not touched.**
   | Ch 8 | 297 | "said by a woman **in her thirties** in a lamp-lit room" | walk-on |
   | Ch 16 | 31 | "he is **seventeen**, and he has never in his life been asked to attest anything" | **Emrys Vaz** |
   | Ch 18 | 39 | "a man called Emrys Vaz who is **seventeen**" | **Emrys Vaz** |
+  | Ch 29 | 91 | "I have had **twenty-three years of my life** and I would like that noted" | **Nadia Ferrous** |
   Ch 3 and Ch 8 were missed by the same grep that missed Ch 28, and the earlier register naming only
   Ch 16 and Ch 18 was therefore incomplete in a guard meant to be authoritative. **All four are flagged,
-  none adopted.** A repair pass may strike any of them if a later phase judges the ripple small; the
+  none adopted.**
+- **A FIFTH instance was added by the Batch 0004 audit and it is the first deliberate one.**
+  `chapter-0029.md:91`, Nadia Ferrous: *"I have never had four seconds of anybody and I have had
+  **twenty-three years of my life** and I would like that noted."* This is the sentence the Batch 0003
+  review repair corrected **from twenty-eight to twenty-three** — so it is canon-correct and was written
+  on purpose — and the Batch 0004 review then certified that **Chapters 21–40 were clean of ages**, which
+  was false. **This is the fifth false certification this pipeline has produced and the fourth written by
+  a batch that had been warned about the previous ones by name.** Ch 29 is now registered here, in
+  `state/current.md` item 25 and in `reviews/volume-01/batch-0004.md`. **The census is five, not four.**
+  Not repaired: Ch 29 is certified, the figure is canon, and the sentence is a woman's voice at the end of
+  a scene. **The lesson, which is now the operative rule for Batch 0005: an auditor looking for ages will
+  find mistakes and will not look for decisions, so a deliberate instance has to be registered by whoever
+  makes the decision — a grep can never be the one that finds it.** A repair pass may strike any of them if a later phase judges the ripple small; the
   Batch 0003 repair pass judged the ripple across four chapters in three certified batches too wide to
   touch uninvited, and recorded the census instead.
 - **`chapter-0012.md:19` reads "Nobody thanked the boy."** A near-miss on *nobody thanked him*, which is
@@ -232,3 +269,54 @@ ending was not touched.**
   "entries are not persons" into "thirty-one people"; the conversion is now his inference, which is what
   the page was already doing two lines later. One spent construction in Ch 27 was re-angled. Nothing
   else in Chapters 21–30 was touched, and no scene, beat, decision or ending changed.
+
+## Canon-change flags raised by Batch 0004 — adopted, none contrary to canon
+
+Recorded because a later phase must be able to tell a decision this batch made from one it inherited.
+**No canon was changed, no age was moved, no scene was moved, and the planned ending was not touched.**
+
+- **Rhee's offer was not re-opened.** The Batch 0003 flag closed it permanently in Ch 28. It does not
+  appear anywhere in Chapters 31–40, including by implication.
+- **Marguerite Vale does not have a scene in this batch.** She is in Bellhouse in Ch 32 and Ch 33, refuses
+  to take the terms down, and is not in the room again. **Her scene is Chapter 46** per the volume
+  scene schedule and is not available earlier.
+- **Solveig Rask does not appear.** She is named, her books are on a table, and four lines in her hand are
+  read aloud. Her arithmetic is correct about the 400 first entry, which is the frightening part, and it is
+  left unresolved.
+- **The ledger rises to forty-one lines with five turned**, and the rise is on the page with its cause
+  stated in Ch 34. **Lines only ever rise.** He spends nobody in this batch, so the turned count holds for
+  the first time while the line count moves. **T9 is unaffected: Emrys can still only go down.**
+- **The batch's irreversible decision is Ch 39**: he refuses Runa Sato's document, dictates his own, and
+  gives up the wall of ninety-one names to file the truth about one boy. Five names come back on the board
+  on the 26th. This is the escalation step from *manipulating* to *breaking*, and it is deliberate.
+- **Tessa Okonkwo's cost has worsened on the page** and **her rack is at twelve**. This is T5 advancing,
+  not a new thread and not a changed canon. Her forearms are worse, not healed.
+- **Ines's paper is discharged** — the month ran out on the 20th and she stated the rota name out loud in
+  Ch 38. He did not give her the word. **B22 is spent and must not be re-run.**
+- **The May clipboard is untouched.** Tessa's second-of-May clipboard is on the table in Ch 38 and in the
+  corridor board of Ch 40 and he says nothing about it in either. **This is the Ch 48 hinge and it was not
+  spent.** The word Channel does not appear anywhere in Chapters 31–40.
+- **A known date wobble is flagged, not fixed.** The Batch 0004 card for Ch 31 says *at nine on a
+  Thursday*; Ch 30 fixes the 10th as a repaint-and-publication Thursday and Ch 31 is the 11th. Weekday
+  names are not canonical in this book, the page never names the day, and nothing a reader can check is
+  wrong. **The card line is the leftover.**
+- **The Batch 0004 card for the Volume 1 ledger line said the count would go *down*** ("he stops spending,
+  which is the first time the count goes down") in `outline/volume-01.md`'s Batch 0004 block. What goes
+  down is the *turned* count, which holds at five because he spends nobody. **Lines rise to forty-one.**
+  The page is right and the outline's phrasing is ambiguous; no change made to either.
+
+## Markdown and gate repairs made inside this batch, recorded so a later phase does not re-open them
+
+- **Eighteen horizontal rules were removed from Chapters 33–38.** `AGENTS.md` bans them and **Chapters
+  1–32 had zero**. The draft written before the checkpoint had introduced them as scene separators.
+  Collapsed to plain paragraph breaks.
+- **Three illegal weekday names removed from Ch 34 and Ch 38** (a Wednesday in the fire-door exchange, a
+  Wednesday and a Saturday in Ch 38's Nadia and Ines beats). All three were in Batch 0004 prose and all
+  three are gone. **Chapters 31–40 now speak Thursday and nothing else.**
+- **A paraphrase of *there is no form for this* was removed from Ch 32** (*because there is no record of it
+  to seize*) and re-angled. The construction, not the wording, was the target.
+- **Two internal date contradictions in Ch 34 were fixed**: a man could not have seen Lin Hao "four times
+  since the seventeenth" on the seventeenth, and "two nights running" did not match the forced-door count.
+- **Chapter 38 was a partial file at the checkpoint** — 1,508 words, ending mid-scene. It now stands at
+  2,696 with the fifth turned line (Tessa Okonkwo) added, because the draft visited six people while
+  claiming five and omitted one of the five turned lines entirely.

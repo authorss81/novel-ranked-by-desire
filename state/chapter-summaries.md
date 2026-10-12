@@ -178,3 +178,129 @@ He sits on the Vestry bench doing nothing for two hours, which is new, because t
 ### Ch 30 — A Fifth Figure
 Seven days later the Branch has opinions about him and no one has said any of them out loud; forty people watched him wait two hours, a dozen changed their good morning, and a woman from the second column leaves tea outside the washroom. The ninety-one are off the wall in a single line — *no further action this quarter* — and Emrys Vaz has the yard at six again. His tile is white with a black five, four figures under the name, and a **fifth figure that is not a rank**: 8,141, his exact grains, printed on a public tile for the first time in the Board's history, because a declared unsettled reading cannot be banded and the machine fell back on the raw number. Eight thousand one hundred and forty-one grains, and nineteen people inside it. Beside the Board, a Classification Wing sheet: accounts under continuing observation, register opened **nine years ago, thirty-one entries, entries are accounts and not persons**, listed by plate number with no names at all. Runa has never seen it. The oldest entry predates the printed column — opened by hand, in pencil — and is the only one of the thirty-one still running. Five years of nobody's book before anyone's book.
 [Ledger. Nineteen lines. Five turned. The count has not moved since the 29th.]
+
+### Ch 31 — Provisionally Six
+The Exchange counter at nine on the 11th, and Garrick Neve, a Delta clerk, works out how to make a
+declared unsettled reading official without a band existing behind it: a **provisional band struck by
+hand from a figure**, which prints on the Board and leaves the figure where it is. He may not have six —
+his figure is in the five band and the clerk has no authority to band him above the number in his hand.
+The price is two things: the counter puts a question to him every week in public with the queue
+listening, and the quarterly re-read gets a **printed date he does not control**. He takes it. The band
+line prints **PROVISIONAL, STRUCK FROM FIGURE, FLOOR 8,141** with **TOLERANCE THREE GRAINS**, and he
+works out in the rain that he can lose four grains and lose a rank. **Marguerite Vale** of the Vant
+arrives in the Fourth Branch corridor at ten past one with a card, a printed address and a time, having
+waited twenty-one days for the conversation.
+
+### Ch 32 — The Vant's Price
+Bellhouse, above a chandler's. Marguerite Vale is direct and enjoying herself. The offer: take the
+**figure off the Board's arithmetic entirely** into a sealed line held in her personally, untouchable by
+court, at one grain in four off the top for five years. She states the defect herself — a line held by a
+person can be compelled out of the person — and says the third sheet names other citizens' balances, so
+it is a road and he is to be the road. The favour: she wants to be the broker who found it before her
+chair turns over. **Solveig Rask's real books** are on the table, unwritten spine, and a column of
+**thirty-one plate numbers over nine years, his own at the bottom, entered on the 3rd**, and a valuation
+that requires knowing the rate since the 1st of June — known to two people, one of them him. He asks
+for the **date, the room and the time of the offer in writing** instead of the terms, and says he will
+ask his question at the counter on Thursday.
+
+### Ch 33 — Solveig's Arithmetic
+He refuses standing up, and says why: nineteen hands and a number attached to each, a band that is the
+only instrument that has ever been on his side, and a cupboard where the moment after he stops being able
+to reach anybody he will have to choose between a figure and a person. The refusal is written down with
+REFUSED and initialled. He reads Rask's four lines under the valuation — movement continuous, source
+count not established, settlement risk nil assumed, **first entry standing alone — 400** — which is
+accurate about a woman at an interchange putting a plate down and picking it up, four months before he
+aimed anything. Runa Sato at the rail: the Field file served on the 6th has **no answer and no sponsor**,
+and an unanswered file is read as agreement and gets a **mandate** — execution on the officer's own hand,
+no countersignature. Ends with a man with a clipboard writing **SUPPLY — UNSETTLED — SUBJECT PRESENT**
+in pencil in the Fourth Branch's own corridor, four words, and Emrys Vaz reading it as he passes.
+
+### Ch 34 — Cordwain
+He walks the arc on purpose on the 15th and takes **twenty-two new faces in one day**, because he has
+nineteen people and no way to get a twentieth. The figure keeps moving. The faces come back. **Forty-one.**
+Nell Ardery, a machinist on the landing of number 14, has eleven weeks of figures and a band that has not
+moved; she names **Cutler's Row**, thirty-one dwellings, **2,140 grains over eleven weeks**, taken by a
+district return to reconcile a shortfall of about 300 a week against 9,000 people, initials **ADJ-DT**.
+On the 17th the requisition comes off the board: **thirty-one dwellings, mandate, no countersignature,
+execution the 19th at six, two names — SATO, R. FIELD, and LIN HAO — SUBJECT, ACCOUNT CARRIED, PRESENT
+BY ATTESTATION 3RD.** Runa says she looked for the ground and did not write it, and that a requisitioned
+address is not adjusted. He goes down at four. The back stair fire door has been **forced twice with a
+bar**, by somebody on the 11th and by the warders at three that afternoon, and a woman in the row has
+chained it twice and told nobody.
+
+### Ch 35 — A Clean Report
+A Wing clerk brings the quarterly re-read **eleven days early**, the 18th, and the re-read is deferred to
+the 29th by the provisional band with a receipt. Runa's Cordwain report goes in at two and comes back
+stamped and **entirely accurate and not about him**; in the margin she records that the premises were
+executed against because an address on the observed arc required a subject, and that this is a defect in
+the method. A supervisor countersigned it **noted**. She tells him the margin is her, buying room. The
+order is served on the Fourth Branch at twenty past six for the employer attestation, and the attestation
+box is signed by **Tobias Renn**, who is off the register and was found because he knows where the 3rd is.
+He wants it written that it is not a favour, in eight seconds, with a courier's receipt downstairs with his
+name in it.
+
+### Ch 36 — Requisitioned Rooms
+**Scene.** The execution happens at ten past. Eleven warders, eleven minutes, a district clerk reading a
+number that a tenant says is not the address. The back stair goes at twenty past and Runa Sato is under
+it; she carries weight and the stair did not move. He had his forearm in to the wrist and had Halvard
+Rees by the collar; the warders' tally has him out of the passage at six with no time back in. In the
+flat at number 6 she tells him what the falsification costs her and writes it anyway — **failure
+unforecast, officer alone in the passage, her hand twice on the form**, false in four places including him.
+The scene is adults, awake, unrestrained, unmedicated, one arm each, and four true statements first. He
+decides, alone on a landing at seven in the morning, that there is not another side: he writes a
+four-page statement putting his own name under the stair, the forced door, the book, and every dwelling
+that comes off that row.
+
+### Ch 37 — The Provisional Band
+He writes and files the statement at twenty to six on the 19th. At the Exchange counter Garrick Neve puts
+the **first of the two question families** — *where does the movement come from* — and he answers in front
+of forty people: *a man who cleans washrooms is standing in a place where strangers hold doors for each
+other four times a day. I did not do any of it. I stood in it.* The Board prints **PROVISIONAL SIX.
+STRUCK ON A REQUISITION OF PROPERTY. CORDWAIN. 19TH.** with floor 8,141 and tolerance three. **He was not
+six because he earned six** — the machine found a rank-six act and attached it to the only account in
+Ostara with a declared reading on it. Rank six carries warrants, requisition of property and **compelled
+testimony**, and the correct use of it would be against him. He tries to petition Lin Wei's file and
+cannot: four thousand one hundred and twelve folios, and three grains.
+[Provisional band struck. Six, pending quarterly re-read. Floor 8,141, tolerance three grains.]
+
+### Ch 38 — Five Cold Minutes
+He goes and finds all five turned lines in one night, and finds Halvard Rees first because he is the
+control — the row emptied at ten past six and he is sitting on a wall in twenty degrees, and the climb was
+done forty times and **not one of them came off him**. **Nadia** will not be warned: *do not spend me, I am
+the one thing in this quarter that goes up and I am not going to be turned into a room.* **Ola** has left
+twenty-two new entries and one underlined line — *the Vestry, week beginning the 18th. Nobody has asked me
+to do this* — and he has made a clerk. **Teodor** will not come out of the counting house. **Tessa** is in
+the cold store with the stippling above her left elbow and pale blue where it crossed, six episodes since
+the third, none of them hers, a **twelfth clipboard** dated today, and one request: once a month, say the
+number out loud to her. She will not thank him and says so first. **Emrys** has 441 and can only go down
+and has told nobody. The cold minute goes out across an open door to **Ines**, and it is the third since
+June, which is the line at which the Bureau stops believing coincidence. Her month on the rota name is up.
+She puts it on the table: **Emrys Vaz, yard rota, six in the morning**, and she will write it tonight if he
+says the word, and she will not say it first.
+
+### Ch 39 — What the Board Does Not Say
+Ines counts what the register is not. Nine years, about eleven unsettled readings a year, nine of the
+eleven to her — **a hundred against thirty-one**, so the register is a catch and not a census, and it
+records what this city *catches*: the ones entered are the ones somebody looked at, and the 31st is his and
+is dated the 3rd, the day he stood up. In Runa's cupboard: the Field and the Wing do not share systems, so
+the register was never withheld from anyone. Runa wants the declaration **written down and dated** with the
+five names on it — a cheap weapon, and she cannot write the clean version herself. Ines blocks it and turns
+on Lin Hao, and there is the four seconds where the negotiation belongs to him. He refuses Runa's document
+and dictates his own: five names struck by declaration and not by evidence, **Emrys Vaz is not settled, his
+plate reads 441, I knew it on the day and I said nothing.** It goes into the front of Runa's file. It puts
+five names back on the branch board and the division will ask for the audit, and they will be right to.
+Ines's price is not a speech — she carries a name up a corridor because a drawer is not a place to keep a
+person.
+
+### Ch 40 — The Winter Queue
+The branch board has five names on it again with a gap where the reason should be, and **Tobias Renn** is
+the third one down. The Exchange publishes the **Winter Review candidates: rank six**, twenty-two names,
+ordered by published standing, and he is the last, and the word **PROVISIONAL** on his line is the only
+reason he is on the sheet. Two numbers, and they do not mean the same thing: **three grains is how close
+he is to losing it; 11,859 is how far he is from having it** (band six opens at 20,000, published standing
+8,141, a witnessed deed scores 400, so twenty-nine deeds in six weeks, and he has nineteen people and no
+twentieth). The sheet's small print, up since the 24th: **a provisional band is not carried into review.**
+Runa: the document he filed on the 23rd is why a Reading Office query is open on his standing, and a query
+wants an instrument he has not got. The clerk who entered his reading on the 3rd says she cannot invent him
+one. Ends on the corridor board: **EMRYS VAZ, four hundred and forty-one, the next reading the 29th.**
+[Winter Review queue published. Provisional band is not carried into review. Band six opens at 20,000. Published standing 8,141.]

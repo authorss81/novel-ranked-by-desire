@@ -30,8 +30,6 @@ Lin Hao got his left forearm in to the wrist and something in the hand took hold
 
 It took the warders nine minutes with a bar and the district clerk eleven minutes on a telephone and Runa Sato four minutes to come out from under it, and she came out on her own and stood up in the yard passage with dust in her hair and one arm hanging and said, very clearly, "Everybody back through the front."
 
----
-
 They put her in the ground-floor flat at number 6, which the warders had taken as a post because the woman who lives there is at the works until six, and by ten past seven there was a table in her front room with a lamp on it and a mattress on the floor.
 
 Lin Hao had the arm in a sling made out of a warder's belt. Halvard Rees had gone back up, had left the back stair door standing open, and had told two warders, in the plainest words available to him, that he had reported it twice.
@@ -107,8 +105,6 @@ He got his good hand into her hair and she let him, which was the only thing eit
 She came first with her teeth on his shoulder and her good hand fisted in the front of his shirt, fast and not quiet, and she held him exactly where he was with one arm and did not let him hurry it, and he went over about four seconds after she had finished and put his forehead down on the table and left it there.
 
 Then she got up and dressed one-handed in about ninety seconds and said that the nurse was next and then the form and then a very bad conversation with a man in the district office who wanted to know why eleven dwellings were not emptied.
-
----
 
 She wrote it at nine that night in a requisitioned first-floor flat at number 11, with her arm in a sling and the district clerk asleep on a chair, and Lin Hao sat at the other end of the table and read nothing at all.
 

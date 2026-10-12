@@ -26,7 +26,7 @@ She turned the document round and pushed it across the table, and it was four sh
 
 "Here is what I can do," Marguerite Vale said. "I can take your figure off the Board's arithmetic entirely. Not your band — your band is a public instrument and I would not touch it and you should not let me. Your figure. The number."
 
-"I can hold it for you in a line that the Board does not read and the Exchange does not reconcile and the Classification Wing does not hold an entry for, because there is nothing in it for them to hold. A sealed line. You would keep it. You would be the only person alive who could open it, and you would open it when you chose, and no court in this city could take it off you because there is no record of it to seize."
+"I can hold it for you in a line that the Board does not read and the Exchange does not reconcile and the Classification Wing does not hold an entry for, because there is nothing in it for them to hold. A sealed line. You would keep it. You would be the only person alive who could open it, and you would open it when you chose, and no court in this city could take it off you, because a court cannot seize a thing it has never been told exists."
 
 "Whose record."
 

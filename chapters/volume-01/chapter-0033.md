@@ -57,8 +57,6 @@ Marguerite Vale stood up and took the book out from under his hand, which took t
 
 "Four lines." Marguerite Vale buckled the carrier. "That is the entire value of what you have just cost yourself. Four lines in a woman's arithmetic that she has never shown to her chair."
 
----
-
 Runa Sato was on the second floor of the Fourth Branch at half past four on the 13th, at the rail by the board, and she had been there long enough to have a folder under her arm and short enough to have read it standing up.
 
 "Say it in a corridor if you want," she said. "We are the only two people in it."
@@ -90,8 +88,6 @@ Runa Sato was on the second floor of the Fourth Branch at half past four on the 
 Somebody came up the stair behind them and stopped a metre off and went back down again without a word, and Runa Sato did not turn round.
 
 "Do you know what a mandate means in Cordwain," she said. "Because that is where it will be used. It will not be used on you. A mandate is not for people. It is for buildings."
-
----
 
 At ten past five a man came along the second-floor corridor of the Fourth Branch with a clipboard and a bundle of tally sheets and worked down the list of contracts from the top, and he was not a clerk and he was not a Field officer and he did not have a badge, and he had the particular stillness of a man who has done this in eleven buildings and has stopped expecting to be stopped.
 

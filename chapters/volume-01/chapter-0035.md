@@ -20,8 +20,6 @@ He signed it with a Wing clerk's hand watching and a branch floor listening, and
 
 That was the whole of the 18th until four in the afternoon.
 
----
-
 Runa Sato's report on Cordwain went in at two and came back out of the district office at half past three with a stamp on it, and Lin Hao had a copy by six because she left one on the rail of the second-floor corridor without a word, face down, under a rail clip, the way you leave something for somebody who is not supposed to have it.
 
 He read it standing up in the stairwell.
@@ -65,8 +63,6 @@ He believed her and it did not help at all.
 "It leaves you in a building at six o'clock tomorrow morning with a paper about you that is going out to thirty-one households." Runa Sato went the rest of the way down without turning round.
 
 "One more thing and then it is your evening. I did not write the sentence about the defect in my own method. It is in there because a supervisor countersigned my observation and read it, and he wrote *noted* against it, and the word noted on a Field report is the strongest thing in Ostara. He has admitted on paper that the method is defective, he cannot now unsee it, and he will do it again next quarter with somebody else."
-
----
 
 The order was served at the Fourth Branch at twenty past six, on the second-floor corridor, by a district-office courier who had walked it round on foot because it was one page and there was no reason to post it.
 

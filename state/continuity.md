@@ -70,6 +70,125 @@ partner dies. No partner leaves without explaining. Ferreira lives. Sowe lives a
 condemned on the page. No new final enemy.
 ---
 
+# New canon — Batch 0004 (Chapters 31–40)
+
+Appended above Batch 0003. Nothing in the Batch 0003 or earlier blocks below has been altered.
+
+## The calendar, fixed by the page
+
+Dates and intervals only. The batch runs **the 11th to the 26th**, and then the Winter Review sits in
+the **sixth week**.
+
+- **Ch 31** the 11th. **Ch 32** the 12th. **Ch 33** the 13th. **Ch 34** the 15th to the 17th. **Ch 35**
+  the 18th. **Ch 36** the 19th. **Ch 37** the 19th into the 20th. **Ch 38** the 20th into the 21st.
+  **Ch 39** the 23rd. **Ch 40** the 26th.
+- **The quarterly re-read is the 29th** and it is the same day the five names go back on the board.
+  A Wing clerk brought it early on the 18th and it was **deferred to the 29th by the provisional band**.
+- **Spoken weekday: Thursday only**, at the Exchange box, the Board repaint and publication, the district
+  return, and Nadia reading his band since Thursday morning. **Zero** other weekday names appear in
+  Chapters 31–40; a draft carried three (a Wednesday in Ch 34's fire-door exchange, a Wednesday and a
+  Saturday in Ch 38) and all three were cut.
+- **Known date wobble, flagged not fixed.** `outline/batches/volume-01-batch-0004.md`'s Ch 31 card says
+  *at nine on a Thursday*, but Ch 30 fixes the 10th as a repaint-and-publication Thursday and Ch 31 is
+  the 11th. Weekday names are not canonical in this book and the page does not name the day, so nothing
+  a reader can check is wrong. **The card line is the leftover, not the page.**
+
+## Mechanics now on the page
+
+- **The figure is 8,141 entering and 8,141 leaving the batch.** It does not move in Chapters 31–36, does
+  not move in 37 or 38, and at Ch 40 the **published** standing is still 8,141. **There is no second
+  aggregate and no route by aggregation in the text at all.** Rank six arrives through a machine, not a
+  deed, and the batch says so in those terms.
+- **Rank six is 20,000.** He is **11,859 grains short** of the band and **three grains** from losing the
+  band he has. Both numbers are on the page and the chapter states that they do not mean the same thing.
+- **A provisional band is a real instrument.** Struck by hand from a figure, it prints on the Board,
+  carries a floor and a tolerance, and **may not be banded above the figure in hand**. It buys three
+  things: a band line, a floor struck off the figure published at the last publication, and a
+  **tolerance of three grains** below which the band lapses at the next press. Its two prices are a
+  weekly public question at the counter and a **printed date** for the quarterly re-read.
+- **A declared unsettled reading is read on a fixed published date**, and the date is the 29th.
+- **A Witnessed deed scores 400.** 11,859 / 400 = twenty-nine and a fraction in six weeks, which he
+  cannot do with nineteen people and no twentieth.
+- **The ledger rises to forty-one lines and holds at five turned.** The rise is on the page with its
+  cause: he walked the arc deliberately on the 15th because he had nineteen people and no way to get a
+  twentieth, and took twenty-two new faces in one day. **Lines only ever rise.** He spends nobody in
+  this batch, so the turned count does not move — the first time it has held while the line count rose.
+- **The five turned lines are located and named**: Nadia Ferrous, Ola Bright, Emrys Vaz, Teodor Mace,
+  Tessa Okonkwo. All five said yes to something else first. **Halvard Rees is on the account and is not
+  turned**, and Ch 38 uses him as the control case.
+- **Tessa Okonkwo's cost is physical and worsening.** The grey-black stippling has crossed her left
+  elbow and is pale blue above the joint; the right forearm has begun. She absorbs four in a day and two
+  the next, all of them between six in the evening and ten at night because that is when the shifts are.
+  Her rack is at **twelve clipboards**. She has asked for one thing and will not be thanked for it.
+- **The Classification Wing register is a catch, not a census.** About eleven unsettled readings a year
+  citywide and nine of the eleven go to Ines, so nine years is about a hundred — and the register has
+  **thirty-one**. Every entry on it was entered the day somebody looked at the person behind it, and his
+  is dated the 3rd. **The Field division and the Wing do not share systems**, which is why nobody in the
+  Field had ever seen the page.
+- **The Field and the Wing do not share systems.** Six officers asked, none had seen the register.
+- **A requisitioned address is not adjusted.** Cutting the row stops the district adjustment on it.
+- **An unattested declaration is the most expensive shape a document can have here.** Five names struck
+  by saying a true sentence, with no instrument against any of them, is a defect with a date on it.
+- **A settled reading with no instrument behind it fails reconciliation**, and a reconciliation failure
+  at the Exchange is a referral to the Wing and therefore a message to the employer.
+- **A query at the Reading Office wants an instrument.** The clerk who entered his reading on the 3rd
+  owns the query and cannot invent him one.
+
+## New named people and places
+
+- **Garrick Neve**, Exchange public counter, Delta badge, nine years at the rail. Enters the standing
+  reading, asks the weekly question, and tells him the cheaper of the two prices and puts it on the record.
+- **Marguerite Vale**, Vant broker, keeps the guild's books for money. Direct, unhurried, enjoys herself.
+  **Her Volume 1 scene is Chapter 46 and is not this batch.**
+- **Solveig Rask**, the Vant's real books. **Does not appear on the page.** Named, quoted through four
+  lines in her own hand and a column of thirty-one plate numbers, and never in the room.
+- **Nell Ardery**, machinist at the Cordwain works, plate and band, eleven weeks of figures, no proof.
+- **Cutler's Row, Cordwain** — thirty-one dwellings, the yard passage and the back stair. **2,140 grains
+  removed over eleven weeks** by a district return reconciling a ~300/week shortfall against ~9,000
+  people, initialled **ADJ-DT**. The back stair was reported twice, forced twice with a bar, and is a
+  nine-hundredweight landing that comes down in four seconds.
+- **Ilse** is not named on the page. The twelfth clipboard is a ward patient two floors above the Vestry
+  clinic whose temperature has not come down and who goes home looking entirely well.
+- Locations: the **Fourth Branch second-floor corridor board** (five names, a figure against each, the
+  date of the next reading at the top); the **Exchange permissions board wall** (Winter Review queue);
+  Runa Sato's **second-floor observation room, a store cupboard with no window and three chairs**.
+
+## Standing obligations created or discharged
+
+- **DISCHARGED — the Vant's offer.** Refused standing up on the 13th, in writing, with REFUSED and her
+  words initialled. She asked for the **date, the room and the time in writing** instead of the terms.
+  She still invests: the terms die with her refusal, but a broker in Bellhouse has told the house that a
+  man in a washroom asked for the paper instead of the money.
+- **DISCHARGED — Ines's paper.** The month on the rota name ran out on the 20th. She will write the name
+  down if he says it and she will not say it first, and he has not said it.
+- **OWED, and it is now the batch's live lever — Emrys Vaz.** Lin Hao filed a signed statement on the 23rd
+  putting his own name under the boy, which put five names back on the board and opened a query on his own
+  standing. **Tobias Renn** is third one down on that board and has been since the 26th.
+- **OWED — Tobias Renn.** He signed the employer attestation with his name while off the register, in
+  eight seconds, and asked for it to be written that it was not a favour. He is on a board again because
+  of the statement the declarant filed himself.
+- **OWED — the Exchange box**, every Thursday at nine, the weekly counter question, and **the 29th**.
+- **OWED — Tessa's request**: once a month, on a day he would not have come anyway, say the number on the
+  rack out loud to her. Not the names.
+
+## Rationed constructions
+
+- **None spent in this batch.** *There is no form for this* and *there is no column for it* are untouched.
+  **A paraphrase of the first was written into Ch 32 in the first draft** — *because there is no record of
+  it to seize* — and was re-angled to *a court cannot seize a thing it has never been told exists*, which
+  is the same fact without the construction.
+- ***Nobody has asked me to do this*** is **spent once**, in Chapter 38, in Ola Bright's own hand in her
+  own notebook, twenty-two entries deep. It is not the Chapter 50 construction and does not spend it.
+- **`nobody` / `no one` ran thirteen times across the ten chapters, four of them in Ch 39**, against a target
+  of thirty and a ceiling of five. *The person nobody looked at* does not appear.
+- Reservoir never spoken. **No feeder thanks him**, and two characters refuse to thank him **out loud
+  first** (Tessa at Ch 38, Ines at Ch 38), which is the pattern held and sharpened.
+- **Cross-chapter repetition across the ten chapters: 17 content-bearing shared 6-grams**, all of them
+  reproduced document text — the plate reading, the tolerance line, the branch board line, the account
+  line against Cutler's Row. None is a construction. Batch 0003 returned 27.
+
+---
+
 # New canon — Batch 0003 (Chapters 21–30)
 
 Appended above Batch 0002. Nothing in the Batch 0002 or Batch 0001 blocks below has been altered.

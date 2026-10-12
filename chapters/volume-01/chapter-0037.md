@@ -12,8 +12,6 @@ It said that every dwelling that came off that row after the 19th was his to ans
 
 Then he signed it, and dated it the 19th, and walked it to the district office at twenty to six because the district office opens at six and he wanted it in the box before the warders came back down the row.
 
----
-
 Garrick Neve's counter had a queue in it again on the morning of the 20th, and it was a longer queue than the first morning, and Lin Hao understood in about four seconds that a standing reading that has been on a Board for a week attracts a queue, and that the queue would be larger every week, and that there was no version of the next year where it went back to being nine people and a clerk.
 
 He read the plate out. Eight thousand one hundred and forty-one grains, interval unsettled. The clerk read it back.
@@ -35,8 +33,6 @@ Lin Hao stood there for about four seconds and understood that he had three opti
 Garrick Neve wrote it down. He wrote all of it, in the index, in the public column, against Lin Hao, with a date, and then he read it back the way he read everything back, and the hall heard it.
 
 "That is the answer to the question," he said. "It is not a good answer and it is a true one and it is now in here, and it will be here next week, and the next question is not mine."
-
----
 
 The Board was repainted by ten and he went to look at it in the rain the way a man goes to look at a thing he has done.
 
@@ -71,8 +67,6 @@ Below the floor less tolerance the band lapsed at the next press.
 8,138.
 
 He could lose four grains and lose a rank. He could not spend four hundred. He could not spend nineteen. He could not put his hand on one single person in this city for the rest of the quarter, and the quarter ended on the 29th, and on the 29th it would be struck again off whatever figure the Board had published, and then it would be the same three grains again.
-
----
 
 He read the same three lines on the tile for a third time and then read the Board for what a man gets, which is the part nobody stands in the rain for.
 
@@ -113,8 +107,6 @@ The man's hand went out to the left, towards the rack, and then stopped, and cam
 The man at the rail looked at him over the slip for a second and then put it in the tray.
 
 "Well," he said. "Come back when you have it."
-
----
 
 Lin Hao walked up the long step out of the Correction Office into the wet with his left arm in a shirt and his figure on a wall four hundred yards behind him, and it was the first thing he had wanted since he was fifteen, and he had it, and he could not pay for it.
 
