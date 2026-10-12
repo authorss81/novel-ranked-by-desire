@@ -1,25 +1,36 @@
 # Current State
 
-**Last written:** **Volume 2, Batch 0004 — Chapters 81–90, complete, not reviewed by a separate run.** Chapters 61–70 and 71–80 reviewed and repaired; 51–60 not. **This batch wrote no review of itself.**
+**Last written:** **Volume 2, Batch 0004 — Chapters 81–90, complete, and REPAIRED by an independent review run.** Chapters 61–80 reviewed and repaired; 51–60 not. **The batch wrote no review of itself; a separate run reviewed it and this repair pass put every finding on the page.**
 
 **Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed. D1 (six weeks in Ch 57/60) is the one open inherited defect, still unrepaired.**
 
-**Position:** Volume 2 Batch 0004 closed. **Held six on an instrument, plate 8,138, floor 8,141, tolerance three. Band six opens at 20,000; 11,862 short.** Ledger 112 lines, eight turned, one reading himself. File 4,112, one folio open, no second. **Standing five dates, no end date; schedule closed on the 21st. He has two dates (29th, 1st-monthly) and no end.** Sixth Thursday (7th) attended.
+**Position:** Volume 2 Batch 0004 closed and repaired. **Held six on an instrument, plate 8,138, floor 8,141, tolerance three. Band six opens at 20,000; 11,862 short.** Ledger 112 lines, eight turned, one reading himself. File 4,112, one folio open, no second. **Standing five dates, no end date; schedule closed on the 21st. He has two dates (29th, 1st-monthly) and no end.** Sixth Thursday (7th) attended.
 
-**In the story:** **the 10th of next month, afternoon**, strip read in the Vestry corridor, Petra Hall discharged, Nadia's copy answered, Runa's minute on file.
+**In the story:** **the 10th of next month, afternoon**, strip read in the Vestry corridor, Petra Hall discharged, Nadia's copy answered a third time with the paper in the room, Runa's minute on file, Fenn holding the line with a building manager over a lift log.
 
 **Date spine, fixed and monotonic:** 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th, 17th, 21st, 22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, 31st, **1st, 2nd, 3rd, 4th, 5th, 6th, 7th (Thursday), 8th, 9th, 10th.** Thursdays this batch: the 7th only on the page.
+
+**The month is thirty days** (Ch 77: seventeen days from the 13th to the end of that month). **Two counting conventions, now stated separately, and the batch ran them as one:** the settling horizon counts **elapsed** days from the 23rd (Ch 87, the 7th, is fourteen days past); the grey counts **inclusively** from the 23rd (Ch 83, the 3rd, is the eleventh day). Both were wrong by one in the first pass and the first pass recorded the wrong arithmetic as verified.
 
 **Volume goal.** In this volume, **Lin Hao must learn what is in him before he spends it on himself again**, or **the Classification Wing classifies the account and empties him out at rank one**. Forty chapters in: the Address closed (74–85), the Holding opened (86–96). No classification entered. He spends nothing.
 
 **Next phase to run:** **Volume 2 Batch 0005 (Chapters 91–100)** — the volume's last batch, closing the volume — against `outline/volume-02.md`. Prompt at `workspace/volume-02/batch-0005/PROMPT.md`.
 
-## Volume 2 Batch 0004 — what is now on the page
+## Volume 2 Batch 0004 — reviewed and repaired
 
+The review run found **two blockers and five smaller defects. All seven are on the page now.** Full table in `state/open-threads.md`; a repair listed there may still be treated as done only once it has been seen on the page.
+
+- **F1, blocker — Ch 86 summarised the scene.** It is written out in full now; 3,528 words, the scene itself, in a Field room, with the consent statements preserved and no draw spent. Still the sixth direction, still not a repeat of 55, 63 or 74.
+- **F2, blocker — all ten chapters ran 445 to 1,549 words.** Now **1,806 to 2,175**, with Ch 86 at 3,528 and Ch 88 at 2,175.
+- **F3 — two day counts off by one** (Ch 83, Ch 87). Corrected, with the two conventions separated above.
+- **F4 — Ch 90 delivered the speech a fourth time and then called it the first.** Rebuilt: Nadia counts it, names the 1st, and asks for the third delivery with the paper under his hand and a clerk in the room.
+- **F5 — a banned construction the batch's own gate could not see**, `there was no form that asked for that` in Ch 83. Cut, and **the gate regex widened to catch paraphrases and not only the literal phrase.**
+- **F6 — a tense error in Ch 88.** Corrected.
+- **F7 — Ch 82's strip count contradicted Ch 80 and Ch 87.** Corrected to five entered and a sixth started. Ch 71 and 73's inherited "four" sits inside reviewed-and-repaired chapters and is left alone; it is an open inconsistency for whoever next owns Ch 71–80.
 - **THE ADDRESS CLOSED, THE HOLDING OPENED (Ch 81–90).** Ch 85 closes step 3; Ch 86 opens step 4 with Runa's written choice, gap 74→86 twelve.
 - **IRREVERSIBLE (Ch 86).** His spoken word for her household line, signed by her into a Field file; her deniability closed, Wing can answer her.
-- **HELD SIX, PLATE 8,138, NO SPEND IN FORTY CHAPTERS.** Sixth Thursday attended 7th; thin sheet seen not descended 8th; Petra discharged 10th; Nadia's cost answered out loud.
-- **Gates on finished text:** HR 0, emphasis 0, planning register 0, illegal weekdays 0, banned strings 0, nobody/no one 6 (max 2), panels 0, paras max 90, ages 0, titles verbatim. **A count is not a reading.**
+- **A SECOND CLOSE, ON DRANT (Ch 88).** Four unsigned holding requests stamped and returned down at four every working day; he enters the time, floor, reason and both their names in the thin book, on the floor, where it stays.
+- **Gates on the repaired text:** HR 0, emphasis 0, planning register 0, illegal weekdays 0, banned strings 0 under the widened regex, nobody/no one 19 (max 5), panels 0, paras max 90, ages 0, titles verbatim. **A count is not a reading.**
 
 ## Older state — Batch 0003 and before (retained, not restated)
 

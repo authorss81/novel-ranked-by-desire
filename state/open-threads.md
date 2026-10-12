@@ -1,12 +1,48 @@
 # Open Threads
 
+## Volume 2 Batch 0004 — REPAIRED. Read this block before the one below.
+
+**An independent review run (the agent's own log at `logs/batch-0004.review.log`) reviewed commit `870fca9` and found two blockers and five smaller defects. A repair pass has put every fix on the page. This block records what was wrong and what is now on the page. A repair listed here may still be treated as done only once it has been seen on the page.**
+
+| Reviewer finding | Now on the page |
+| --- | --- |
+| **F1 (blocker)** Ch 86 summarised the scene in one paragraph; 1,549 words against a book whose product is the scene | **The scene is written out in full.** 3,528 words. The bed, the jug on an upturned crate, her harness bands, the two-day-old bruise, her weight, the mouth, the hands located throughout, the turn, the grounded-in-the-room beats, and the field wash afterwards. Consent is the four statements that were already good and are preserved. It is still the sixth direction and still not a repeat of 55, 63 or 74. |
+| **F2 (blocker)** all ten chapters ran 445–1,549 words | **All ten now sit between 1,806 and 2,175, with Ch 86 at 3,528 and Ch 88 at 2,175.** 81 1902 · 82 1859 · 83 1855 · 84 1806 · 85 1858 · 86 3528 · 87 1855 · 88 2175 · 89 1857 · 90 1818. |
+| **F3 (contradiction)** Ch 83 and Ch 87 both off by one from the 23rd | **Both corrected, and the two counts use different conventions, which is now written down.** The **settling horizon is elapsed days** (Ch 77: the 28th is *five days past* the 23rd): Ch 87 now reads **fourteen days past the twenty-third**. The **grey is counted inclusively** (Ch 77: *the sixth day of it* on the 28th): Ch 83 now reads **tenth day yesterday, eleventh today**. |
+| **F4 (continuity)** Ch 90 delivered the speech a fourth time and then said it was the first time | **Rebuilt.** Nadia counts it herself — third time, first was the 1st, she made him say it twice that morning to see whether he would soften it — and asks for it again with the paper under his hand. Fenn, a ward clerk, is present. It is now an escalation rather than a repeat. |
+| **F5 (banned construction)** `chapter-0083.md:41` "there was no form that asked for that" — a paraphrase the batch's own gate could not detect | **Cut.** The gate regex in the block below has been widened to catch paraphrases and not only the literal present-tense phrase. |
+| **F6 (error)** `chapter-0088.md:9` "I have been down there nine years ago" | **Corrected to "I went down there nine years ago, once, with a junior clerk, and we opened nothing."** |
+| **F7 (minor)** Ch 82's strip count contradicted Ch 80 and Ch 87 | **Corrected to five strip lines and a sixth started for the seventh**, agreeing with Ch 80 (fifth strip on the 31st) and Ch 87 (six on the 7th). Ch 71 and 73's inherited "four" is **left alone** — those are reviewed and repaired and reopening them is not this pass's business. |
+
+**Canon changes made in the repair, all in Chapters 81–90 and none outside the batch's plot.** Bellhouse runs a visitors' book from the 1st, at Marguerite's decision, with her reading it weekly (Ch 81). Sun Meiling is in the room on the 1st and states her refusal of the household's protection logic, which the outline fixes by Ch 100 (Ch 81). Two of the three buff squares went out on the 1st and the third at four; three women hold one each and are not named (Ch 82). The Exchange records *summary not produced* against the Vestry, which makes three in a column by the 3rd of next month (Ch 83). A lawful production request dated the 13th of next month, and Ines's refusal already written and dated the 14th (Ch 84). A sitting on Colm's arithmetic on the 12th, eight names, his sixth (Ch 85). **Four unsigned holding requests in a tray since the 24th, stamped and returned down at four, waiting for a name the Wing can put in itself** (Ch 88). **Drant enters the time, floor, reason and both names in the thin book on the 8th — the book and not the tray — which puts both of them on the page for the first time** (Ch 88). Petra Hall bought a berth in March in a shed behind a tram office and cannot return the card without attending (Ch 89). Fenn, the ward clerk, and the lift log the building manager will open (Ch 90).
+
+**Threads the repair opened that Batch 0005 must carry:** the four holding requests stamped at four each day; the thin-book entry of the 8th, readable by the book and not by the tray; Colm's sitting on the 12th; Ines's production refusal posted on the 13th against a refusal dated the 14th; the Vestry's third *summary not produced* on the 3rd of next month; Bellhouse's visitors' book; the lift log; Petra's berth card, which Tessa has said she will read.
+
+**The gates, re-run on the repaired text, with the commands:**
+
+```
+for n in 81 82 83 84 85 86 87 88 89 90; do wc -w < chapters/volume-02/chapter-00$n.md; done
+grep -cE '\*\*|^\s*\*[^*]|^\s*---|^\s*___' chapters/volume-02/chapter-00{81,82,83,84,85,86,87,88,89,90}.md      # 0 everywhere
+grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b' ...                              # NONE
+grep -inE '\b(monday|tuesday|wednesday|friday|saturday|sunday)\b' ...                                            # NONE  (Thursday only, 4x in Ch 87)
+grep -inE 'there is no form|there is no column|there was no form|there is no place for|there was no place for|no form that|no column for|record remained|nobody thanked|He wanted, concretely' ...   # NONE
+grep -n '^\s*\[.+\]\s*$' ...                                                                                  # NONE
+grep -inE 'years old|\baged [0-9]|about (twenty|thirty|forty|fifty|sixty)|in his (twenties|thirties|forties|fifties|sixties)' ...  # NONE
+awk '/^#/||/^$/{next}{c=split($0,a," ");if(c>90)print FILENAME":"NR}' ...                                           # NONE  (max 90)
+grep -oiE '\bnobody\b|\bno one\b' ... | wc -l                                                                  # 19  (ceiling 30, max 5 in one chapter)
+```
+
+**The widened gate, and why it changed.** The Batch 0004 first pass policed `there is no form|there is no column`, which matches the literal present-tense phrase only, and returned **0 on a sentence that was a paraphrase of it.** The regex above now carries the past-tense and the demonstrative variants. **A count is not a reading, and the gate that could not see this one is the reason the fix above had to be made by hand.**
+
+**A count is not a reading.** The numbers above were produced by those commands and mean nothing about whether the ten chapters are good.
+
 ## Volume 2 Batch 0004 — what the batch wrote, and what it did not certify
 
 **Chapters 81–90 written. This batch did not write a review of itself and does not certify itself. A count is not a reading; judgement on Ch 86's scene, the Ch 86 decision, and whether the ten endings are earned belongs to a separate run. No repair listed here may be treated as done until seen on the page.**
 
 **Canon changes in this batch were settled during composition and are registered here in the same commit — the same lateness fault as Batch 0003, recorded rather than hidden.** They are: household legibility minuted (Ch 81); room-to-man move entered as watch the attendee (Ch 82); runner's sprain and unfiled charts (Ch 83); RECIPIENT sheet ordered to stay in his coat (Ch 84); Colm's office opened without forgiveness (Ch 85); Runa's written choice plus household line by his word (Ch 86, irreversible); finding number doing time's work across six strips (Ch 87); stair seen not descended (Ch 88); Petra Hall held one night and discharged (Ch 89–90); Nadia's copy plus request and second answering (Ch 90).
 
-**Dates derived from the spine 22–31 then 1–10; arithmetic check:** horizon 23rd → Ch 87 fifteen days past (8+7); grey 23rd → Ch 83 twelfth day (count 1–12); sixth Thursday the 7th after fifth the 31st. **No week count stated that is not derived. No weekday name except Thursday (Ch 87–88).**
+**Dates derived from the spine 22–31 then 1–10; arithmetic check AS WRITTEN BY THE BATCH AND WRONG:** horizon 23rd → Ch 87 fifteen days past (8+7) — **corrected to fourteen days past (7+7); the batch's own check was run and got the wrong answer and was then written down as verified**; grey 23rd → Ch 83 twelfth day (count 1–12) — **corrected to tenth day yesterday, eleventh today (inclusive, per Ch 77); sixth Thursday the 7th after fifth the 31st. **No week count stated that is not derived. No weekday name except Thursday (Ch 87–88).**
 
 **Gates on finished text, from chapters/volume-02/:** `grep -c -E '^\s*(---|\*\*\*|___)\s*$'` 0 · `grep -oE '\*|_'` 0 · planning register `grep -inE '\breservoir\b|\bquiet account\b|\bconcil\b|ninth seal|\bchannel\b'` 0 · illegal weekdays `grep -inE '\b(monday|tuesday|wednesday|friday|saturday|sunday)\b'` 0 · banned `grep -inE 'there is no form|there is no column|the record remained|nobody thanked|He wanted, concretely'` 0 · nobody/no one 6 total, max 2 (Ch 86) · panels `grep -n '^\[.*\]$'` 0 · paragraphs max 90 after splitting one 91-word para in Ch 86 · ages `grep -inE 'years old|aged |about sixty|in his forties'` 0 · titles ten verbatim from bank. **Three of the batch's real risks are invisible to these gates: date intervals, whether Ch 86's direction is a sixth and not a repeat, and whether every case changes something outside itself.**
 
@@ -16,18 +52,26 @@
 
 | # | Thread | Status at end of Ch 90 |
 | --- | --- | --- |
-| B75 | Household legible | Open. Seven women look-up-able; Nadia answered twice, paper still stands. |
-| B76 | Watch the attendee | Open. Map closed on rooms; line needs two events and has one. |
-| B77 | Runner's wrist / unfiled charts | Open. Vestry cannot answer an eleven-year form this week. |
+| B75 | Household legible | Open. Seven women look-up-able, Sun among them. Nadia answered three times, the third with the paper in the room. Bellhouse visitors' book running from the 1st. |
+| B76 | Watch the attendee | Open. Map closed on rooms; line needs two events and has one. Three buff squares out, one still in a tray. Sun's refusal of the protection logic stated on the 1st. |
+| B77 | Runner's wrist / unfiled charts | Open. **Third *summary not produced* falls on the 3rd of next month**; after that the Vestry is a service asked properly and not answering. |
 | B78 | RECIPIENT sheet in his coat | Open. Ordered to stay a question. |
-| B79 | Colm's open office | Open, paid toward. His episode filed; finding, if any, pending. |
+| B79 | Colm's open office | Open, paid toward. **Sitting on the 12th, eight names, his sixth. Do not vouch for him.** The dark coat never wanted the arithmetic. |
 | B80 | Field protection explicit (Ch 86) | Open and irreversible. Written, signed by her, word his; Wing can answer her instead of rounding her. |
-| B81 | Finding number as publisher | Open. Six strips joined; settled figure publishable. |
-| B82 | Thin dated sheet, second sub-level | Open. Seen, not descended, unsigned, unturned. |
-| B83 | Petra Hall discharged | Paid. One night, date closed 10th. Ward precedent now practice. |
-| B84 | Nadia's copy + request | Open. Cost of keeping on her, answered out loud; lift still hers. |
+| B81 | Finding number as publisher | Open. Six strips joined; **the figure is now a reference, not a case**; five people and a tile handle it. |
+| B82 | Thin dated sheet, second sub-level | Open. Seen, not descended, unsigned, unturned. **Four unsigned holding requests now stamped and returned down at four daily, waiting for a name.** |
+| B83 | Petra Hall discharged | Paid. One night, date closed 10th. Ward precedent now practice. **Petra's berth card of March is the thing that actually holds her and Tessa has said she will read it.** |
+| B84 | Nadia's copy + request | Open. Cost of keeping on her, answered out loud three times; lift still hers. **The lift log is what the request is aimed at and Fenn is holding the line with the manager.** |
 
-**Not opened, not moved:** second folio; classification; May clipboard; the word Channel; Church; rota word; Marguerite's terms (down, unsigned); September (Beatrix's); Bernt's absence; thin sheet's signature; Rhee (no line); new partners (none); departures (none); Sun unsworn; Lin Wei's whereabouts unknown to all on page; Yusuf Adeyemi off page; nothing after Volume 8 anticipated.
+| B85 | Four holding requests in a tray | **Open, dated.** Unsigned, no name, no number, no initials; stamped and returned down at four every working day. A name the Wing can put in itself is what they are for. |
+| B86 | Drant's thin-book entry, the 8th | **Open, entered.** Time, floor, reason, both names, in the book and not the tray. He is now on the page beside the man he has been protecting. |
+| B87 | Colm's sitting, the 12th | Open. Eight names, his sixth, on the arithmetic held four months. |
+| B88 | Ines's production request, the 13th | Open. Lawful, dated, with a form attached; refusal already written and dated the 14th. Three private offers she has not taken. |
+| B89 | Bellhouse visitors' book | Open, running from the 1st. Marguerite reads it herself weekly; every name goes in twice. |
+| B90 | Petra's berth card | Open. Bought March in a shed behind a tram office, never used, cannot be returned without attending. Tessa has said she will read it. |
+| B91 | The lift log | Open. Requested for the tenth and the persons spoken to; the manager will let a man at it because a manager reads the heading. Fenn holds the line. |
+
+**Not opened, not moved:** second folio; classification; May clipboard; the word Channel; Church; rota word; Marguerite's terms (down, unsigned); September (Beatrix's); Bernt's absence; thin sheet's signature; Rhee (no line); new partners (none); departures (none); **Sun unsworn (she stated her refusal of the protection logic on the 1st and nothing more)**; Lin Wei's whereabouts unknown to all on page; Yusuf Adeyemi off page; nothing after Volume 8 anticipated.
 
 ## Volume 2 Batch 0003 — what the batch wrote, what it changed, and what it did not certify
 
