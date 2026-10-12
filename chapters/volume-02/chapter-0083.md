@@ -40,7 +40,7 @@ He put the lint down. "What do you want me to do."
 
 He nodded. The grief stayed, because the floor had changed for the worse in a person and not in a chart.
 
-At the door she stopped him. "You look grey. Tenth day yesterday, eleventh today. Eat something before your shift."
+At the door she stopped him. "You look grey. Eleventh day yesterday, twelfth today. Eat something before your shift."
 
 He went down by the arcade with the quiet behind him, and the quiet was worse than the rack at twenty-seven, and the form was already three days old.
 

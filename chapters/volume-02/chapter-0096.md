@@ -88,8 +88,8 @@ A ward runner came past them with a chart under her good arm and her bad wrist t
 
 "Thursday to Thursday. Six days is five intervals. The office counts intervals and it does not count days, and I do not know why I am telling you that and I have been told not to be helpful."
 
-She went up the stairs and Lin Hao stood in a corridor with four shut doors on one side and an office at the end of it, and the grey at his temple was in its twenty-fifth day and it had come past the ridge and settled along the bone above the ear where it was going to stay for some time.
+She went up the stairs and Lin Hao stood in a corridor with four shut doors on one side and an office at the end of it, and the grey at his temple was in its twenty-sixth day and it had come past the ridge and settled along the bone above the ear where it was going to stay for some time.
 
-It was the twenty-fifth day of a thing that had gone in a day and a half for four years, and there had been no number printed anywhere in this city since the fourteenth to say that the man causing it was still being measured, and the only proof that he existed that had left a building in six days was an envelope with nothing in it that a clerk had entered and signed.
+It was the twenty-sixth day of a thing that had gone in a day and a half for four years, and there had been no number printed anywhere in this city since the fourteenth to say that the man causing it was still being measured, and the only proof that he existed that had left a building in six days was an envelope with nothing in it that a clerk had entered and signed.
 
 At eight that evening the empty forwarding was on a desk in a building he had never been inside, and somebody in that building would open it, and somebody would decide that an envelope with nothing in it was not a figure and was not a silence, and would write the word enclosure absent in a column in a book on the seventh floor, and that word would go down a corridor the following morning and be read by four people who had never spoken to him.

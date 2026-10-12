@@ -1,5 +1,96 @@
 # Open Threads
 
+## Volume 2 CLOSED — the carry into Volume 3
+
+**Written by the Volume 2 close audit, which read Chapters 51–100 against `outline/volume-02.md`.
+Full working, with commands and chapter citations, is in `reviews/volume-02/volume-close.md`. This block
+supersedes every block below it on every point it touches.**
+
+### D3 — THE FIRST THING THE NEXT REPAIR PASS SHOULD TAKE
+
+**Nine interval figures across Chapters 59, 71, 73, 74, 76, 79 and 100 that do not trace to an anchor on
+the date spine. Found by reading gate D as a reading list. Recorded and NOT repaired, because an audit
+which repairs the whole volume is not an audit.**
+
+| Chapter:line | On the page | The spine says |
+| --- | --- | --- |
+| `chapter-0059.md:127` | *From here that is five weeks and a bit* | The 25th of M−1 to the 25th of M is one month. Contradicted by the two figures beside it. |
+| `chapter-0071.md:21` | *standing still for three weeks and nothing is coming in* | The Review is the 13th of M−1; Ch 71 is the 22nd of M. Thirty-nine days. And *nothing is coming in* has been five days, per Ch 71 itself. |
+| `chapter-0073.md:17` | *for four weeks now the actual paper of your figure has been out of the Fourth Branch* | The standing's first strip is the 3rd of M; Ch 73 is the 24th. Twenty-one days. |
+| `chapter-0073.md:27` | *a straight answer about the standing for four weeks* / *I found out on the fourth* | The 4th to the 24th is twenty days. |
+| `chapter-0073.md:49` | *Your figure has not gone up one grain in four weeks* | 8,138 since the 13th of M−1. To the 24th of M is forty-one days. |
+| `chapter-0074.md:143` | *You have not spent in twelve days* | Same anchor. Forty-two days. **This one carries the scene's clinical argument and is the worst of the nine.** |
+| `chapter-0076.md:9, 11, 13, 61, 67, 135` | *You have not come up here for three weeks* (×6) | No anchor on the page. |
+| `chapter-0079.md:11` | *driving past this stop at the end of a shift for six weeks* | No anchor on the page. |
+| `chapter-0100.md:19` | *Three unsigned papers have gone back up three floors from that desk in two months* | She names them: the 31st of M, the 18th, the 19th. Twenty days. |
+
+**None of these changes a date a reader is asked to derive a later date from. A Volume 3 writer may derive
+nothing from any of them.**
+
+### D1 and D2 are closed
+
+**D1** (six weeks in Ch 57 and Ch 60) — **repaired.** Five instances, two chapters, eleven words.
+**D2** (the month) — **settled against the page and swept.** M−1 is thirty days, M is thirty-one days, and
+the eight figures that crossed the boundary are repaired. Full derivation in `reviews/volume-02/volume-close.md`
+§0 and `state/continuity.md`.
+
+### Every thread, with its status at the close
+
+**NOTHING IS CLOSED BY A VOLUME ENDING. There are no exceptions in this table.**
+
+| # | Thread | Status | May Volume 3 open it? |
+| --- | --- | --- | --- |
+| **T1** | The brother's file — 214,000, Held Account One, no Zero | **Unchanged. Did not advance in Volume 2 and this is verified by command.** | **NO. Not before the Brother's File.** |
+| **T2** | The Reading clerk who steadied a corner of a docket | Unchanged, deliberately unexplained | **NO.** Do not explain it. |
+| **T3** | The May clipboard, second, 2,640 | Unchanged, untouched both sides | Only as an object. |
+| **T4** | The word *Channel* | Unchanged, never spoken | **NO. Volume 5.** |
+| **T5** | The rota word | Unchanged, ungiven | Only as a held silence. |
+| **T6** | Marguerite's terms | **Closed on the page:** declared off the table on the 14th, still down and unsigned | **NO. It cannot come back into force.** |
+| **T7** | Beatrix's broken price | Unchanged and unpaid. Spend on people, not on yourself | Yes, on her terms. |
+| **T8** | **Wren Kallo** | **Untouched. No page in either volume.** Outside the standing roll | **YES — this is Volume 3's introduction and her first scene is Chapter 118 and is immovable.** |
+| **T9** | Nadia advancing on her floor without being spent | Advanced and paid. Ch 99 costs *her* the file | Yes. |
+| **T10** | September | Unchanged. Beatrix's | Yes. |
+| **T11** | Ding D. Duarte's chest | Advanced one sentence (Ch 92) and stopped | **NO. Do not open.** |
+| **T12** | The sentence nobody has said to Marguerite | Unchanged | Yes, carefully. |
+| **B92** | The plate hold | **Closed and paid for.** Six days, the 15th to the 20th; the 17th printed nothing and the forwarding went out empty | Closed. |
+| **B93** | The unfiled line is referenced | **Open and dated.** The 12th's finding; the 13th's production carries a finding number | Yes. |
+| **B94** | Ines's reading of the himself line | **Paid and irreversible.** Unfiled, legible to two auditors | **NO. It is not to be resolved before the Brother's File.** |
+| **B95** | The controlled spend demanded and refused | **Closed by the refusal** | Closed. |
+| **B96** | The three costs | **Open and dated.** Tessa's *mass* in a Wing file; Runa's *available* and a hearing; Sun's list | Yes — and all three must still be hurting. |
+| **B97** | The classification paper | **Open, unsigned, dated the 19th, returned at four on the 20th, twice** | Yes. **But see Volume 3's rule: no final enemy.** |
+| **B98** | The household notebook | **Open.** Theirs, not his; his signature refused | Yes. |
+| **B99** | Sabine Rooke and the ninth chair | **Open.** She is the chair nobody came back for | Yes. |
+| **B100** | The lift log | **Paid.** Forty-one names off Nadia's own page; the consequence is hers | Closed. |
+| **B101** | Tove Marlin | **Open.** Reads things back exactly as written, apologises for the room | Yes. |
+| **B102** | **Saskia Verhoeven** | **Open, and Ruta forbids him going near her** | **NO — SHE MUST NOT BE TURNED INTO A CHARACTER BEFORE SOMEBODY UPSTREAMS ASKS HER WHY THE LINE IS THERE.** |
+| **B103** | He is not a tank, he is a door | **Open into Volume 8, not before** | **NO.** |
+| **V3-1** | **The classified corridor with a cloth on a table and no handle on this side** | **Open.** Ch 95, Ch 100 | **YES — this is Volume 3's floor.** |
+| **V3-2** | **Anneke Roos's ruled sixth space** | **Open, ruled and empty.** It has been returned twice | **YES.** A public Reading is exactly what a ruled empty space is for. |
+| **V3-3** | **Tove Marlin's promise** | Open | Yes. |
+| **V3-4** | **Ines's second refusal and her pending review** | **Open, promised on the 17th** | **NO. This is the hinge of Volume 5 and must not be resolved in Volume 3.** |
+| **V3-5** | **Yusuf Adeyemi** | Named in Ch 100's future, **not on the page** | **YES — Volume 3's on-page authority. He is not a new final enemy.** |
+| **V3-6** | **Alma Quayle** | Off page | **She stays Volume 2 and Volume 7 and must not be escalated into a final opponent.** |
+| **V3-7** | **Anouk Ferreira** | Not on the page | **NOT UNTIL VOLUME 10.** |
+
+### Not opened, not moved, and not to be opened early
+
+Second folio · the classification entered · the May clipboard · the word *Channel* · the Church · the rota
+word · September's outcome · the thin sheet's signature · Ding's chest beyond two sentences · **Rhee (no
+line, no scene, no presence after Chapter 30, and the offer closed permanently there)** · new partners ·
+departures · **Alma Quayle as an opponent** · **Anouk Ferreira** · anything anticipated after Volume 8 ·
+**the routing glimpse, which was seen once in Volume 1 and is not to be named, learned or used** ·
+**the account scoring a grain**.
+
+### The standing rule for whoever repairs D3
+
+**Every gate above the Batch 0005 review was mechanical and every one of them passed on text that was
+wrong.** The widened gate is at the top of `reviews/volume-02/volume-close.md` §13 and it **must be run by
+hand against the date spine** — it cannot be passed by a count. And the third half of the lesson:
+**an inference is not an anchor.** Ch 77's sentence is about one month and four state files applied it to
+the next one, which had a thirty-first in it three chapters later.
+
+---
+
 ## Volume 2 Batch 0005 — REVIEWED AND REPAIRED. Chapters 91–100. Volume 2 closed in prose.
 
 **A separate run reviewed Chapters 91–100 and repaired them. This batch's own certification is void on the points the review touched, and the review found the prose sound and the arithmetic not.** Sixteen Tier 1 defects and four Tier 2 craft findings were raised; **all sixteen and all four are repaired on the page.** Full working, with the chapter-and-line citations, is in the new block at the top of `state/continuity.md`.

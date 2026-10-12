@@ -64,7 +64,7 @@ She was young enough that Lin Hao did the arithmetic on her and had to stop hims
 
 "Look at it. Thirty-one rows. Twenty-nine columns. Every column has a heading and every heading is about an account and an account is a thing with a figure and an interval and a state, and a figure and an interval and a state is what a ruling is not. There is no column for a number beside an unsettled entry, because for nine years no unsettled entry has ever had one."
 
-She said there is no column for a number beside an unsettled entry in the voice of a clerk reading out a heading that is not on the sheet, and she was entirely right, and it was the first time anybody had said it to him as a fact about paper rather than as a fact about him.
+She said it in the voice of a clerk reading out a heading that is not on the sheet, and she was entirely right, and it was the first time anybody had said it to him as a fact about paper rather than as a fact about him.
 
 He looked at the sheet.
 

@@ -8,7 +8,7 @@ On the twenty-first it ran at ten and rang its bell at half past and the strip s
 
 Lin Hao had wanted the machine to print again more than he had wanted anything in the six days before it. When it did, he looked at the figure for a long time. It was the same figure it had been since the third of last month.
 
-The grey at his temple was in its twenty-eighth day and had stopped being a thing that was going to come and go. It was a ridge above his ear now, and he knew from a woman at a table on Lantern Row that he had been counting it since the wrong end.
+The grey at his temple was in its twenty-ninth day and had stopped being a thing that was going to come and go. It was a ridge above his ear now, and he knew from a woman at a table on Lantern Row that he had been counting it since the wrong end.
 
 The paper on Anneke Roos's desk did not move that day. He went to the register at half past two and it was face up on the corner where she had left it on the nineteenth, and the five paragraphs were on it and the sixth space was ruled at the bottom of it, and the space was empty, and the line under it was the shape of the space in the fourth book.
 
@@ -120,7 +120,7 @@ A strip came off a machine on the fourth floor of the branch that morning and sa
 
 The mass had not moved and the plate had not moved, and both of those were true in the same morning in the same district, and no instrument in Ostara could hold the two facts side by side.
 
-The horizon was the twenty-third of last month and it was thirty-five days behind them, and a flat figure is publishable, and a published figure is the only kind anybody can do anything about, and the office had had every part of that sentence since the third of last month except a reason to print it.
+The horizon was the twenty-third of last month and it was thirty-six days behind them, and a flat figure is publishable, and a published figure is the only kind anybody can do anything about, and the office had had every part of that sentence since the third of last month except a reason to print it.
 
 Nobody spent anything. Nobody turned anybody. The account sat where it had been sitting since the thirteenth of last month, a long way past the horizon, and it was still the shape of a thing that had stopped moving, which is the only shape in this world that an office can classify.
 

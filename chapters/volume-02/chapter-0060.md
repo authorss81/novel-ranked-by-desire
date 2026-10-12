@@ -56,9 +56,9 @@ A month ago the branch corridor had carried a wall of ninety-one names and a col
 
 The wall had been empty for ten days.
 
-The Board in the Reading Square was nine streets away with his name on a black tile, and every Thursday for the last six weeks he had walked past it on the long road to this counter and had not looked at it.
+The Board in the Reading Square was nine streets away with his name on a black tile, and every Thursday for the last three weeks he had walked past it on the long road to this counter and had not looked at it.
 
-This morning he had come round by the Exchange doors instead, which was the first time in six weeks, and he had come through the square. The tile was there, black six on white, four printed figures under the name, and the fifth one still the largest number in Ostara, and a woman and a child were standing in front of it with their heads back because it was the big one.
+This morning he had come round by the Exchange doors instead, which was the first time since the Review, and he had come through the square. The tile was there, black six on white, four printed figures under the name, and the fifth one still the largest number in Ostara, and a woman and a child were standing in front of it with their heads back because it was the big one.
 
 Eight thousand one hundred and forty-one. The number he had been carrying for four years on a machine that could not tell where it came from.
 
@@ -106,7 +106,7 @@ He put the sheet away and put the stamp that was not a stamp away.
 
 At eleven Ines Duarte was in the queue with her folder shut.
 
-She came and stood four feet away, which was further than she had stood in six weeks and exactly the distance an auditor may stand in a public queue, and neither of them remarked on it.
+She came and stood four feet away, which was further than she had stood since the Review and exactly the distance an auditor may stand in a public queue, and neither of them remarked on it.
 
 "The corridor said you came in by the square," she said.
 
@@ -158,7 +158,7 @@ He walked home by the long road at half past one with the cloth bag in his hand 
 
 In a room two floors under the Exchange, a man with a rubber stamp wrote three dates on a sheet in a column, and signed under them, and did not think about them again.
 
-On the twenty-first of next month, in this building, somebody would come and stamp a piece of paper and say his name, and on the twenty-fifth, in a district of two million people, three hundred women he had never met would walk into rooms and be better than their own charts had any right to expect, and an instrument would read a line on a map and a woman who had been counting a mass for six weeks would have already been counting it for four days, quietly, on her own, without a single signature.
+On the twenty-first of next month, in this building, somebody would come and stamp a piece of paper and say his name, and on the twenty-fifth, in a district of two million people, three hundred women he had never met would walk into rooms and be better than their own charts had any right to expect, and an instrument would read a line on a map and a woman who had been counting a mass would have already been counting it for four days, quietly, on her own, without a single signature.
 
 Four days.
 

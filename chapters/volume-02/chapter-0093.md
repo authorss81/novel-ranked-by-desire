@@ -26,7 +26,7 @@ She turned round on the bench and looked back up her own corridor through the op
 
 The girl looked up. Lin Hao started to say something about a name and Tessa put one finger up without looking at him, which stopped him dead.
 
-"It is the twenty-first day," she said. "Of the grey. I have been counting since the third because you would not and because a thing you are not counting is a thing that gets worse while you are looking at something else. I will put it in the day book on the twenty-ninth with the reading and you will not enjoy that."
+"It is the twenty-second day," she said. "Of the grey. I have been counting since the third because you would not and because a thing you are not counting is a thing that gets worse while you are looking at something else. I will put it in the day book on the twenty-ninth with the reading and you will not enjoy that."
 
 "I would not mind."
 

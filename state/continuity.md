@@ -1,5 +1,136 @@
 # Continuity
 
+# Volume 2 closed — the record a Volume 3 writer may not contradict
+
+**Written by the Volume 2 close audit, which read Chapters 51–100 against `outline/volume-02.md` and
+repaired nine figures on the page in eight chapters. Full working, with every command and every chapter
+citation, is in `reviews/volume-02/volume-close.md`. This block supersedes every Volume 2 block below it on
+every point it touches.**
+
+## THE CALENDAR, as the page fixed it — and the reading that was struck
+
+**THERE IS NO SINGLE MONTH LENGTH IN VOLUME 2, AND THE BLANKET FIGURE "THE MONTH IS THIRTY DAYS" IS
+WRONG AND IS STRUCK FROM EVERY FILE THAT CARRIED IT.**
+
+- **M−1** — the month containing the Review (Ch 48, the 13th) and Chapters 51–61 (the 16th to the 28th) —
+  is **THIRTY DAYS.**
+- **M** — Chapters 62 (the 3rd) to 80 (the **thirty-first**) — is **THIRTY-ONE DAYS.**
+- **M+1** — Chapters 81 (the 1st) to 100 (the 29th) — has **no interval on the page that crosses its end**,
+  so its length is undetermined. **Do not assume it.**
+
+**Three proofs that M−1 is thirty, all of them intervals that cross the month boundary and all of them on
+the page:** Ch 59 ("Six weeks from the day you did it in that room… The twenty-fifth of next month" = 42
+days = (30 − 13) + 25); Ch 93 ("twenty-six days" since the 17th of last month = (30 − 17) + 13); Ch 77
+("Seventeen days to the end of that month. Twenty-three more into this one. Forty.").
+
+**Five proofs that M is thirty-one:** Ch 70 (the 24th and the **31st** as standing Thursdays); Ch 79
+(opens *on the morning of the thirtieth*); Ch 80 (is the **thirty-first**, fifth strip of the standing);
+Ch 81 (opens *on the first of the month*); Ch 83 (a clerk: *the return was due on the thirty-first and
+the thirty-first is four days ago*, on the 3rd); Ch 87 (the strip series ends *the thirty-first, and the
+seventh of the new month*).
+
+**WHAT THE AUDIT FOUND AND WHY IT MATTERS MORE THAN THE FIGURE.** The state files derived a thirty-day
+month from Ch 77 — a sentence about **M−1** — and then applied it to **M**, which has thirty-one days. The
+Batch 0004 review did the same and **changed two correct chapters to match its own inference**: Ch 83's
+grey day count (twelfth → eleventh) and Ch 87's elapsed count (fifteen → fourteen). **Both were right
+before the review and both were wrong after it.** A repair derived from an inference is still a repair and
+still has to be checked against the dates.
+
+**THE FORTY-DAY SETTLING HORIZON IS THE 23RD OF M AND IT DID NOT MOVE.** Forty days from the last
+movement — the 13th of M−1 — is 17 days to the 31st of M−1… **no: 17 days to the end of M−1 (the 30th),
+then 23 more into M. The horizon is the 23rd of M.** Confirmed independently by Ch 78:31, Tessa's own
+instrument, *"It went on the twenty-third of this month."* **Ch 77's "five days past" on the 28th of M is
+correct and stays.**
+
+**TWO CONVENTIONS, AND THEY ARE STILL TWO.** The **settling horizon counts elapsed days** from the 23rd.
+The **grey counts inclusively** from the 23rd, so grey day one *is* the 23rd and the grey day is always
+one more than the elapsed count on the same date. Every figure derived from either was swept by this
+audit and the sweep is the table in `reviews/volume-02/volume-close.md` §0. **Both gained exactly one day
+and no figure was moved in place.**
+
+## Mechanics now canon — CANNOT CONTRADICT
+
+- **THE PLATE HOLD (Ch 91).** A fourth notice, dated the 9th, put face up on the 11th, holds the plate at
+  the place of score **from the 15th to the 20th inclusive, six days**, with no figure published. Its
+  purpose, named by Drant: to take the reading off a floor where ninety people can check it. **The
+  absence-of-input rule: a check-in by an officer of the office, and the check-in is not made at the place
+  of score.** Four costs were named before the decision: the bell that does not ring; Drant is the man who
+  stops the machine; **Ottilie Prebble signs the absence-of-input sentence back with her name at the
+  bottom**; and Faber gets a place-of-score correction and a branch-aggregate audit.
+- **THE 17TH'S STRIP DOES NOT PRINT (Ch 96).** The seventh strip prints on the 14th. On the 17th the
+  branch trolley goes down the long road with the rail empty and **the forwarding envelope goes with
+  nothing in it, on Lin Hao's instruction**: *he would rather be absent than stale.*
+- **THE CHECK-IN (Ch 96).** **Tove Marlin**, a Wing clerk, conducts it in the Vestry corridor because the
+  check-in is not at the place of score, says up front that it is not a summons, and — not permitted to —
+  tells him a paper with his name on it goes to a desk on the 18th.
+- **THE UNFILED LINE, READ CORRECTLY (Ch 97).** **A ledger entry is a pair — a person relieved and a person
+  it came from — and his line has one name on it. It does not read *from*. It reads *to*, from a side of
+  the entry with no name on it, because on the 13th of last month he was standing in a room holding
+  something. If filed, the Wing has a shape, and the shape is one sentence: HE IS NOT A TANK, HE IS A
+  DOOR.** **Ines refuses the production and refuses the second one too**, decided on the 12th and delivered
+  on the 17th, and will stand in a review and say that being true was not the same as being owed to
+  anybody. **The line stays unfiled and is legible to two auditors** — Ines, and Lin Hao, who has never
+  seen it and whom Ruta has told not to let anybody show it to him.
+- **THE DEMAND AND THE REFUSAL (Ch 98).** Four conditions and a fourth paragraph that is the price. **He
+  refuses all four, in person, in words, on the record, and asks for it to be entered as a refusal and not
+  as a third thing.** The fourth is refused **by name**. **IRREVERSIBLE:** the five-date branch standing and
+  the fourth floor are **discharged at ten past eleven on the 18th**; the dates are now somebody else's;
+  the band is **suspended pending description**, which is a worse shape, not a loss.
+- **THE THREE COSTS (Ch 99), one per woman and none of them his.** **Tessa** has described him in one word
+  — *mass* — in her own handwriting in a Wing file in order to refuse to describe him. **Runa**'s household
+  line, entered on the 6th at his word, is read back to her as **available**, and a second written
+  disobedience against a dated demand is a disciplinary hearing. **Sun Meiling** refuses a direction to her
+  own house in writing inside Veil-Research, which puts her at the top of a list, **and refuses to let the
+  sentence about it be written down.**
+- **THE CLASSIFICATION PAPER AND THE SIXTH SPACE (Ch 99, 100).** Prepared, **dated the 19th**, five
+  paragraphs and a sixth space, on Anneke Roos's desk at eight in the morning already decided three floors
+  above her, unsigned, put in the tray at four on the 20th and going back. **The sixth space is ruled and
+  stays empty. It is ruled so a person can be shown where it would go**, and the hand that drew it is a hand
+  three floors above her she has never seen. It has gone back up three floors **twice**.
+- **THE HOUSEHOLD NOTEBOOK (Ch 94, 100).** Opened on the 14th for the 15th to the 20th, at Nadia's
+  decision, **kept by the household and his signature refused.** One line per woman per day from the 21st.
+  **THE HOUSEHOLD IS SEVEN WOMEN AND SIX OF THEM KEEP IT.** Sun Meiling does not, and that is the whole of
+  her refusal in miniature. **(See adjudicated item 53 — the Batch 0005 review recorded this as six women
+  and miscounted Ch 81's room.)**
+- **THE RESOLUTION AS THE PAGE LANDS IT (Ch 100).** No classification. No rank lost and none earned.
+  **Plate 8,138, floor 8,141, tolerance three.** Band six still on the Review instrument and not on his
+  plate. The three Review turned stay turned. The standing is discharged and the strip is forwarded
+  nowhere. **The mass has not moved across thirty-one readings** and the cause is not established and is
+  not hers; **the horizon was the 23rd and is thirty-six days behind them.** The himself line is unfiled
+  and known to two auditors. **The inquiry is open into Volume 3, on dates the Wing sets.** The
+  classification door's plate is **read from the top of a stair for the first time in five weeks, with no
+  handle on that side of it.**
+- **THE VOLUME'S ANSWER, IN ONE SENTENCE.** He is not a tank, he is a door. **He learned it as a
+  correction, not a discovery, and the only person in the city who can describe him refused to write it
+  down.** Said once, on the 17th, in two rooms on Lantern Row (Ch 97).
+
+## What a Volume 3 writer may not contradict
+
+1. **Do not assume uniform month lengths.** M−1 is thirty, M is thirty-one, M+1 is undetermined. **Derive
+   every interval from an anchor inside the chapter that prints it, and cross a month boundary only when a
+   chapter's own printed figure authorises it.**
+2. **Do not open the second folio.** File 4,112, one open, 214,000 grains in Lin Wei's hand, Held Account
+   One, **no Zero**. T1 advanced one folio in Volume 1 and **did not advance in Volume 2** — verified by
+   command, not asserted.
+3. **Do not enter a classification and do not let the account score a grain.** The plate is 8,138 against a
+   floor of 8,141 and the gap is 11,862.
+4. **Do not close Sun Meiling's refusal.** It is stated (the 1st), restated (the 14th) and paid for (the
+   19th) and it is **open**. `outline/volume-02.md` fixes it "by 100" and the page does not; the page
+   governs.
+5. **Do not repeat either construction Volume 1 and Volume 2 have spent.** `He wanted, concretely` — zero
+   in Volume 2. `For <person>, his <verb> meant` — zero in Volume 2. `nobody thanked <object>` — retired
+   outright. `there is no column for it` — spent at Chapter 1; **Ch 52 restates the fact about a
+   register and must not be restated again.**
+6. **Do not re-run the midpoint reversal.** It is said once, proved in Ch 75 on the Office's own paper.
+   Ch 97's far end is a different fact.
+7. **Do not move a scene.** Volume 1: 8, 17, 26, 29, 36, 46. Volume 2: 55, 63, 74, 86, 97.
+8. **Do not treat Wren Kallo as a character before Volume 3 brings her in.** She is outside the standing
+   roll and has no page in either volume.
+9. **Ch 69's title is `The Fourth Box`, not the bank entry `The Second Attendance`. The prose is the
+   canon.** See adjudicated item 55.
+
+---
+
 # Review repair — Volume 2, Batch 0005 (Chapters 91–100)
 
 **A separate run read Chapters 91–100 and did not write them, and this block records what that run changed on the page. It supersedes the Batch 0005 block below it on every point it touches.** The prose, the scene at 97, the refusal at 98 and the shape of the resolution are unchanged. What was wrong was arithmetic and meta-language, and **all of the mechanical gates the writing batch ran pass on the repaired text** — which is the finding that matters, not the prose.

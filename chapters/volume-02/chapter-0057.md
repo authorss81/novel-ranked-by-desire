@@ -50,7 +50,7 @@ Number twenty-two was Garrick Neve's, on the same side, three doors further down
 
 Neve did not go inside. He stood on the landing in his Exchange coat with his badge still on and his hands loose at his sides.
 
-"Eight thousand one hundred and thirty-eight," he said. "Three grains under a floor of eight thousand one hundred and forty-one. A band of six printed off a ruling made in a room. And a figure that has not gone up by one grain in six weeks while every plate in that corridor that has anything to do with the Yard aggregate went up four hundred." He looked at him.
+"Eight thousand one hundred and thirty-eight," he said. "Three grains under a floor of eight thousand one hundred and forty-one. A band of six printed off a ruling made in a room. And a figure that has not gone up by one grain in ten days while every plate in that corridor that has anything to do with the Yard aggregate went up four hundred." He looked at him.
 
 "In the Review room the machine read your figure against the band line instead of against the floor. And that is when it happened. Not the ruling. The reading. Something came out of you in that room and it went into three people and I have been the rail for nine years and I know exactly how long four seconds is."
 

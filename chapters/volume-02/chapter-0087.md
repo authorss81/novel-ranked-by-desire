@@ -28,7 +28,7 @@ Ruta turned the sheet over. On the back was a column of dates in her hand: the t
 
 "Six strips," she said. "Six identical figures. The Exchange has built a return out of the flatness. The return asks for the place of score and the cause. The cause is not at the counter. The cause is time."
 
-Drant nodded. "The instrument of this step is not a plate. It is a duration. Forty days from the last movement. Fourteen days past the twenty-third this morning. Every Thursday the strip prints the same figure, and every Thursday the finding number sits beside it, and the two together say the account has stopped moving."
+Drant nodded. "The instrument of this step is not a plate. It is a duration. Forty days from the last movement. Fifteen days past the twenty-third this morning. Every Thursday the strip prints the same figure, and every Thursday the finding number sits beside it, and the two together say the account has stopped moving."
 
 "That is the sentence they are writing."
 

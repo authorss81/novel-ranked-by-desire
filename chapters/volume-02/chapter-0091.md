@@ -68,7 +68,7 @@ He put the notice into the tray on the left, which was the one tray, which was f
 
 "What would you tell me."
 
-"I would tell you that six days without a figure is not six days of nothing. Your last movement was the thirteenth of last month and the horizon was the twenty-third, and today you are eighteen days past it and by the twentieth you will be twenty-seven." Drant squared the tray against the counter. "And I would tell you the thing I have been carrying since the eighth and have not said in this building, which is that a hold does not stop the mass. It only stops the printing.
+"I would tell you that six days without a figure is not six days of nothing. Your last movement was the thirteenth of last month and the horizon was the twenty-third, and today you are nineteen days past it and by the twentieth you will be twenty-eight." Drant squared the tray against the counter. "And I would tell you the thing I have been carrying since the eighth and have not said in this building, which is that a hold does not stop the mass. It only stops the printing.
 
 Whatever is sitting on your plate has been sitting there since before the horizon and the only thing your machine has been doing is confirming it, and on the fifteenth it goes quiet, and from the fifteenth to Thursday you and I will both be guessing."
 
