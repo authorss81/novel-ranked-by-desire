@@ -1,5 +1,110 @@
 # Open Threads
 
+## Volume 2 Batch 0003 — what the batch wrote, what it changed, and what it did not certify
+
+**Chapters 71–80 are written. This batch did not write `reviews/volume-02/batch-0003.md` and does not
+certify itself.** Nine batches in this repository have certified their own prose and every one of those
+certifications was wrong about the page it described; item 29 in `state/current.md` records that the fix is
+a separate run and not a prose discipline. What this batch did instead was run every mechanical gate, record
+the result with the command that produced it, and say plainly that **a count is not a reading**. The
+judgement on Ch 74's scene, on the midpoint reversal at 75–76, on the irreversible decision in Ch 80 and on
+whether the ten cliffhangers are earned belongs to a phase that did not write them.
+
+**PROCESS FAULT, recorded rather than hidden.** The Batch 0003 prompt required any proposed canon change to be
+registered in this file **before** it was written into a chapter. **That did not happen.** The canon changes
+below were settled while the chapters were being composed and are registered here afterwards, in the same
+commit. They are recorded in full in `state/continuity.md` so a later phase can tell a decided question from
+a new one, but a reader should know they were registered late, and the guard was not obeyed.
+
+**Fourteen gates, every one clean on the finished text, and every one of them blind to the batch's real
+defects.** Horizontal rules **0** (`grep -c -E '^\s*(---|\*\*\*|___)\s*$'`) · emphasis **0**
+(`grep -oE '\*|_'`) · planning-register words **0** · illegal weekday names **0**, Thursday **21**
+(`grep -inE '(monday|tuesday|wednesday|friday|saturday|sunday)'`) · `there is no form` /
+`there is no column` / `the record remained` / `nobody thanked` / `He wanted, concretely` **0** ·
+`nobody` **26** and `no one` **0**, maximum 5 in any one chapter · panels **1 in 10**, at Ch 73, never
+repeated · **784 paragraphs, maximum 90 words, mean 35.3, none over 120** · announced ages **0** · ten
+titles, all unique across all eighty chapters, 14–26 characters.
+
+**And here is what those fourteen gates did not see.** The first pass carried **twenty-five illegal weekday
+names across eight of the ten chapters**, **three runs of emphasis**, **seventy paragraphs over ninety words
+(the worst at 152, against a 120-word ceiling)**, and **three announced ages including Tessa Okonkwo's own
+canon-correct thirty-one**. A **date montage in Ch 72 ran from the 23rd to the 27st** and would have put a
+scene on a day already occupied by Ch 73. **Nineteen stated day-counts across the ten chapters disagreed
+with the spine in `state/continuity.md`**, including a wall count that read *six days* in a chapter five
+days from the event, *twenty-four days* since a spend that was twelve days past, and *eleven days after it*
+for two dates two days apart. **Three of those classes are invisible to every gate this repository has**, and
+the third is the class this volume has produced in all three batches so far. **The fix, stated once and
+operative from here: derive every date and every interval from the spine, and add your own arithmetic check
+to whatever gate you run.**
+
+### The batch's irreversible decision, and what it cost
+
+**Ch 80 — he tells the Office about both collectors, and pays for it with a woman.** The dark coat has been
+on an Office list since the seventeenth and has not been touched; when the Office reaches her the third
+question is *who have you spoken to*, and the answers are a gate man, a porter in Bellhouse **and the woman
+who runs the Vestry lift.** Ruta Vesely writes the sources down and one of them is a lift, and he has to give
+Nadia Ferrous's name out loud in a room with a clerk in it. **He could not say it back to her in a room,
+because it is a piece of paper in four minutes.** **Nadia has asked for that sentence to be said back to her
+twice since the tenth of the month and nobody in the household has done it, and on the thirtieth she claimed
+it in a doorway in front of everybody and then on the thirty-first he put it in an Office file.** He gave
+the Office a rival and in exchange the household became a set of people the Office can look up. **The option
+of Nadia Ferrous being an unrecorded person is closed forever.**
+
+**Ch 75 is the other cost and it is the volume's real one.** He says the account's number out loud — **One**
+— in a room with an analyst in it, and says *I am the address and I have never been the source*. **He had
+no address until the twenty-sixth.** Sun Meiling's Ch 63 finding was that a man with no address cannot be
+found and cannot be cleared, and the fog was the only thing standing between him and a requisition. **He has
+given it away to make the reversal provable on the Office's paper, to the Office.**
+
+## What Volume 2 Batch 0003 has opened, after Ch 80
+
+| # | Thread | Status at the end of Ch 80 |
+| --- | --- | --- |
+| **B60** | **The account has a number and he has said it aloud.** One, the lowest file in Ostara, no Zero. | **Open and irreversible. The reversal's proof.** A man who had no address now has one, and the shield Sun Meiling described is gone. **A paper with his number on it leaves the building at four o'clock.** |
+| **B61** | **The sixth heading: NOT EARNED.** Two words in his hand on a clean sheet, entered by Anneke Roos as received. Quayle got it wrong twice and it is not on the page. | **Open. He has described himself, in the only place a description can live.** **The first twenty days of the page are NOT copied across — the moment they are, they stop being entries and become a claim that somebody has to answer.** |
+| **B62** | **There is no point.** Three episodes, three buildings, four seconds, and a hand cannot be in three places, so the dot on the map is not a person. Relief does not travel. | **Open and it is the volume's hinge.** Ruta's map is closed; the Office's attention moves from a room to a man. **A second spend would be a real second event and there is now no finding to make it not one.** |
+| **B63** | **The himself line is legible.** The only spend that could never have been relief is the only one that worked, because nothing in him came from himself. The thirteenth of last month was not a spend. | **Open. Nobody in the book has yet said this to the Office in those words.** Lin Wei's whereabouts remain unknown to every character on the page. |
+| **B64** | **The settling horizon: forty days from the last movement, and it is the 23rd.** Named on the page with the derivation, five days past by Ch 77. | **Open and it is the Office's ally.** **He cannot tell whether it has gone flat, and a flat figure is a figure that can be described.** Tessa's instrument is the only one in the city that can tell him, and she gives the answer on the 29th. |
+| **B65** | **Tessa's reading.** Settled, constant, not in grains, no interval, three readings ninety seconds apart. | **Open. It is the only readable copy in Ostara and it is in a drawer off a corridor with four beds in it.** She will tell him something else on the first of the month. |
+| **B66** | **The standing clinical debt.** A day book, monthly, his name and a date and no number, for the month her rack runs out. | **Open and hers as much as his.** She intends to call it in whether he can pay it or not. **The first date is the first of next month.** |
+| **B67** | **The holding ward.** Four quiet rooms at the back of the Vestry, and a person is held because a date is open. | **Open.** Ilse Korvin goes to the Exchange on the 29th. **Not the third sub-level, not a classification, and nothing in that building is holding anybody.** |
+| **B68** | **The holding order.** Prepared, dated the 31st, up from three floors on the 24th, unsigned and unissued. Its last sentence says the man at the desk holds the account. | **Open and unsigned. The third thing exists and is not on any form.** Drant has had it for nine minutes and will not say it again in this building this month. |
+| **B69** | **The weekly return.** The Exchange reads the strip and has built a form out of a flat figure, and Ottilie Prebble signs it every week and it will be read as a drain. | **Open, weekly, and it is not his fault.** The guess is correct about the surface and wrong about the cause. An absence-of-input reading triggers a place-of-score correction and an audit of the branch aggregate. |
+| **B70** | **Sabine Rooke and the emptied room.** Nine chairs stacked in a corridor, eleven years of setting a room up, two questions about a Thursday, and it is over. | **Paid in this batch. Ruta spent two facts she had carried alone to get him out of it.** The chairless room is hers. |
+| **B71** | **The Office has both collectors now.** The notebook woman's method in full, and the dark coat's forty days. | **Open and worse.** The Office will find the dark coat, and it now has Nadia Ferrous's name on a sheet going out at four o'clock. |
+| **B72** | **One that reads and one that talks.** | **Open. The finding is that they are not the same kind of animal**, and the one that talks is the one who is going to get put in a drawer. |
+| **B73** | **Standing still has two costs and one of them has been said out loud.** The mass goes flat (Tessa) and the map becomes true (Ruta). | **Said once, at Ch 77, by Nadia Ferrous, and the batch's instruction is that it is not said again.** |
+| **B74** | **The household is legible.** A name on an Office sheet, a porter in Bellhouse who has been asked, a lift operator who talks. | **Open. Volume 4's whole promise — build a household or nobody stands between him and the audit — has now been paid for in advance.** |
+
+**Nothing was closed in this batch.** The query, the file, both calendars, the nineteenth, the twentieth, the
+twenty-fourth, the twenty-fifth, the twenty-ninth, the thirty-first, the September date, the four true
+things and the second folio are all still live, and five of them now have a date on them.
+
+### Deliberate decisions registered at the moment they were made
+
+**No age is stated for any person in Chapters 71–80, named or walk-on, in narration or in dialogue.** Three
+were caught and removed during composition and none was kept. **Durations of service and of practice that do
+appear, registered so a later review need not re-derive them:** eleven years (Tessa's rack and practice, and
+Sun's wall of paper), three years (Sun's corridor), nine years (Drant at the desk, and Perrin Sowe in the
+building), nineteen years (Drant, Faber at the counter, and the signalman at the yard gate), four years
+(Ottilie Prebble at the counter, and Lin Hao at the branch), two years (the notebook woman's survey), eleven
+months (the stippling on Tessa's forearm, which is the same figure as `chapter-0059.md:15`), and twenty-nine
+years at the plate-office counter. **None of them is an age.**
+
+### Not opened, not moved, not anticipated
+
+**T1's second folio. The May clipboard. The word *Channel*. The Church. The Unscored. Colm's locked office.
+Ding's stair. Bernt's absence. The word *reservoir*.** **Rhee** has no line, no scene and no presence, and
+the offer stays closed forever. **Alma Quayle, Anouk Ferreira and Perrin Sowe are not in a room** — Quayle is
+named offstage as the writer of a heading that is not on the page, Sowe is printed on a form, Ferreira is
+absent. **No classification entered. No second folio. No Rhee. No new partner and nobody leaves. Sun Meiling
+stays unsworn.** **Lin Wei's whereabouts remain unknown to every character on the page.** **No new final
+enemy; Yusuf Adeyemi is Volume 3 and is not on the page.** **Nothing anticipates the return at Chapter 486,
+the Board's second line, or any event after Volume 8's.**
+
+---
+
+
 ## Volume 2 Batch 0002 — external review repair, completed
 
 **A reviewer who did not write the batch read Chapters 61–70 and found eight defects: four hard, four

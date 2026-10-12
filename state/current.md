@@ -1,5 +1,117 @@
 # Current State
 
+**Last written:** **Volume 2, Batch 0003 — Chapters 71–80, complete.** Chapters 51–60 were written by
+Batch 0001, 61–70 by Batch 0002 and then repaired by an external review run, and 71–80 by Batch 0003.
+**The most recent pass over Chapters 61–70 was an external review repair; this batch wrote 71–80 and has not
+been read by anybody who did not write them.**
+
+**Items 1 to 49 in the *Adjudicated contradictions* section below are closed and stay closed.** They are not
+restated here and nothing in Volume 2 Batch 0003 re-opens any of them. **D1 — the six-week count in
+Chapters 57 and 60 — is the one open inherited defect and it is still unrepaired**, because Batch 0003 did
+not write those chapters and a review repair is a separate run.
+
+**This batch did not write a review of itself.** That is deliberate and it is now three batches running. Nine
+batches in this repository have certified their own prose and every one of those certifications was wrong
+about the page it described; item 29 records that the fix is a separate run and not a prose discipline. What
+this batch did instead was run every mechanical gate, record the result with the command that produced it,
+and record plainly in `state/open-threads.md` that those are counts and not a reading. **A review phase has
+not run against Chapters 71–80 and the next phase that reads them must assume the prose, the midpoint
+reversal, the scene and the cost of the irreversible decision are all unverified.**
+
+**And the batch's own arithmetic was wrong nineteen times and wrong in a way no gate can see.** The first
+pass of Chapters 71–80 carried twenty-five illegal weekday names, three runs of emphasis, seventy paragraphs
+over ninety words and three announced ages. **A date montage in Ch 72 ran four days past the chapter that
+owns those days.** Nineteen stated day-counts disagreed with the spine. All are fixed. **Three of those four
+classes are invisible to every mechanical gate in this repository**, which is the fourth consecutive Volume 2
+batch to find the same thing.
+
+**Position:** Volume 2 Batch 0003 closed. **Held six on an instrument, plate 8,138, floor 8,141, three grains
+of margin, and the figure has not moved in five consecutive weekly strips.** Ledger **112 lines, eight
+turned, one reading himself.** **He has spent nothing in thirty chapters and the one draw he attempted moved
+nothing.** File 4,112 with **one** folio open and no second. **Both calendars are spent** — the standing ran
+five Thursdays and has no end date, the schedule closed on the 21st. **He has two dates and no end.**
+
+**In the story:** **the 31st, evening, the long road to the branch at forty-one minutes**, with an unsigned
+holding order in a tray upstairs, a lift operator's name on a sheet going out of the building at four
+o'clock, and the first of next month in front of him.
+
+**Date spine, fixed and now monotonic:** 28th of last month, 3rd, 5th, 6th, [7th–9th], 10th, 12th, 16th,
+17th, 21st, **22nd, 23rd, 24th, 25th, 26th, 27th, 28th, 29th, 30th, 31st.** Thursdays in Batch 0003 are the
+24th and the 31st.
+
+**Volume goal.** In this volume, **Lin Hao must learn what is before he spends it on himself again**, or **the
+Classification Wing classifies the account and empties him out at rank one**. **Thirty chapters in and the
+midpoint has landed.** The account is not a supply he found; **it is an address he was given**, proved on the
+Office's own paper by the arithmetic of three episodes in three buildings in four seconds, and the account
+has a number — **One** — and he has said it out loud in a room with an analyst in it. **Classification is
+still not entered and the volume's threat is no longer a document. It is a settled figure that anybody with
+the right instrument can read, and there is one such instrument in Ostara and it is in a drawer off a
+corridor with four beds at the end of it.** He gave up the only shield he had — having no address, so
+neither findable nor clearable — to make the proof.
+
+**Next phase to run:** **Volume 2 Batch 0004 (Chapters 81–90)** against `outline/volume-02.md`. Prompt at
+`workspace/volume-02/batch-0004/PROMPT.md`.
+
+## Volume 2 Batch 0003 — what is now on the page
+
+- **THE MIDPOINT REVERSAL IS PROVED, not announced — Ch 75–76.** Three episodes, three buildings three
+  streets apart, four seconds: three ordinary causes is not a thing that happens, and one thing leaving one
+  room and arriving in three streets is not a thing a man can do, because in four seconds his hands are in
+  one building. **So nothing left the room. Relief does not travel and never has. So there is no point, and
+  the dot on Ruta Vesely's map is not a person.** The proof is the Office's own paper: **the acknowledgement
+  he signed on the seventeenth joins the word *addresses* to a man by his own hand, and a hand cannot be in
+  three places.** **From 76 he no longer asks how to close 11,862 grains. He asks who sent 214,000, why the
+  receiver's file is One with no Zero, and what forty days of standing still will make of him.**
+- **The irreversible decision is Ch 80 and it costs him a woman.** He does not sign the holding order and
+  does not refuse it. **Instead he tells the Office about both collectors**, in a room with a clerk in it,
+  because the dark coat is four streets from being in his own file and the third question is *who have you
+  spoken to* — a gate man, a porter in Bellhouse, **and the woman who runs the Vestry lift.** **NADIA
+  FERROUS'S NAME IS ON A SHEET LEAVING THE BUILDING AT FOUR O'CLOCK**, and she has asked twice for that
+  sentence to be said back to her in a room and nobody has said it.
+- **The second cost is Ch 76 and it is the volume's own.** He gives Anneke Roos the sixth heading — **NOT
+  EARNED**, two words, in his hand — and it goes into the fourth book as received. **The first twenty days
+  of his page are NOT copied across**, because the moment they sit under that heading they stop being
+  entries and become a claim.
+- **THE HOLDING ORDER** is prepared, dated the 31st, **unsigned and unissued**, and it came up from three
+  floors on **the 24th — three days before he said the number out loud.** Its last sentence is not true: the
+  account is in the office's custody and the man at the desk holds it. **Drant's whole reading is that this
+  building has been living on the gap between those two sentences for three years.**
+- **THE GREY — Ch 72, canon confirmed on the page.** A cost of a draw on a person who never fed him, and
+  **it is not proportional to how much he was trying to spend**: *the account is asked to move and finds out
+  there is nothing on the other side of the person you touched, and it charges you for the asking.* It
+  stayed, where since the Review it has always gone inside a day and a half, and it came forward along the
+  ridge above his ear. **And the negative case is proved: the thing does not come out of him, it goes in.
+  A thing that arrives in a place is not given by the place; it is sent to a place.**
+- **THE FORTY DAYS ARE NAMED WITH A DATE — Ch 77.** Forty from the last movement, not the last spend. The
+  last movement was the 13th of last month. **Seventeen days to the end of that month and twenty-three more
+  into this one. The horizon was the 23rd and it is five days past.** Standing still is what an office does
+  to you and a duration costs the person it is applied to nothing to run. **The map-becomes-true cost was
+  said out loud once, by Nadia, and the batch's instruction is that it is not said again.**
+- **TESSA'S READING — Ch 78.** Settled, constant, three readings ninety seconds apart. **Not in grains, no
+  interval, not a reading and not a score.** Her working theory since March — that a settled mass makes a
+  body too well — fits all 258 charts and **does not fit him.** He is not a body that is too well; **he is a
+  load-bearing structure**, and if it is not a tank then three years of arrivals are not accumulating. She
+  refuses to make a sentence out of it, on the page, in her own words.
+- **THE STANDING CLINICAL DEBT — Ch 74.** Monthly, on the first, in a day book that has held only her own
+  name for eleven years: **his name, the date, no number, and no word he would have to keep.** For the month
+  her rack runs out, so that an office gets a name and a date instead of a sentence she made up at two in
+  the morning. **She intends to call it in whether he can pay it or not.**
+- **Ch 74 is the holding ward and the title is earned:** four quiet rooms at the back of the Vestry, and a
+  person is held because a date is open. **Not the third sub-level. Not a classification.**
+- **Ottilie Prebble is the batch's innocent.** A junior clerk with three years and four months at a
+  plate-office counter who has to sign a weekly return the Exchange built out of a flat figure. **The guess
+  is correct about the surface and wrong about the cause and it is not his fault.** The true document is in
+  her hand and it will be read as a confession, and she signs it anyway because an unsigned return is a lapse
+  against a held band.
+- **Two collectors, one city, and they are not the same kind of animal — Ch 79.** One that reads: a season
+  on a third seat since the 18th, four hundred and eleven counts in two years, no badge, and names out of
+  men in eleven seconds. **One that talks: no paper, no bag, forty days at his branch floor, two at his yard
+  gate, on an Office list since the 17th untouched, and she does not know the other one exists.**
+- **Standing things carried untouched:** the May clipboard, the word *Channel*, the rota word, the thin dated
+  sheet in the second sub-level prepared and unsigned, Marguerite's terms, Beatrix's broken price,
+  September, **the second folio, and Rhee, who has not appeared and may not.**
+
+
 **Last written:** **Volume 2, Batch 0001 — Chapters 51–60, complete.** `outline/volume-02.md` and
 `outline/batches/volume-02-batch-0001.md` were written by the volume-plan phase; the chapters were
 written by the phase after it.
