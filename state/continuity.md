@@ -6,12 +6,22 @@ the carry-forward collision; movement 3's rewrite SETTLED the other two open que
 whether a ground can be demanded by a subject and whether the woman the volume sentence names is Sun Meiling.**
 **THE NEXT PHASE IS A WRITING PHASE: `workspace/volume-08/batch-0004/PROMPT.md`, which writes 381–390 and no
 prose about anything else.**
-**Batch 0003 is 20,944 words counted per file and summed. Volume 8 is 65,544 words long and has twenty chapters to
+**Batch 0003 is 21,015 words counted per file and summed. Volume 8 is 65,615 words long and has twenty chapters to
 go. LIN WEI'S FILE OPENED AT 372.**
-**Batch 0003 HAS NOT BEEN REVIEWED. THE REVIEWER OWNS THE FINDING; `logs/batch-0002.review.log` is the precedent
-and `reviews/volume-08/` does not exist.** **THE FOUR FACTS 371 INHERITED AND THE ONE KNOWN DEFECT 371 AVOIDED
-ARE RECORDED IN THE HEAD RECORD AT `state/current.md` AND AT THE HEAD OF `state/open-threads.md`, AND `PC-28` IS
-STILL OPEN AND STILL UNFIXED AND NO CHAPTER IN 371–380 CARRIES ITS FIGURES.**
+**Batch 0003 HAS BEEN REVIEWED AND THE REPAIR IS ON DISK. `logs/batch-0003.review.log` is the finding; all three
+of its defects are fixed and one observation was taken. **THE THREE FIXES: `chapter-0380.md` carried a paragraph
+twice verbatim and one copy is struck; `chapter-0375.md` claimed the two sightings of `S.M.` were "in the same
+month" when they are the sixteenth of January and the twenty-sixth of February and now read "inside six weeks of
+each other"; and 375 put the initials "against the fourth line of a reply" when 374 puts them on the second line
+of the index, the DRAFT, and against the fourth line of that, and 374 says so three times.** **THE ONE
+OBSERVATION TAKEN: the lead never once initiated anything inside the scene at 380, so he now moves her himself
+for the length of one breath after her first climax and she takes his wrists and puts them on the floor.**
+**THE REVIEWER ALSO CONFIRMED THE OUTLINE REWRITE AS AUTHORIZED BY THE BATCH-0003 PROMPT, THE SINGLE NEXT PHASE,
+ZERO BANNED CONSTRUCTIONS, CLEAN MARKDOWN, NO PARAGRAPH OVER NINETY WORDS, TEN UNIQUE TITLES, AND ONE
+SQUARE-BRACKET PANEL IN TEN CHAPTERS.** `reviews/volume-08/` still does not exist. **THE FOUR FACTS 371
+INHERITED AND THE ONE KNOWN DEFECT 371 AVOIDED ARE RECORDED IN THE HEAD RECORD AT `state/current.md` AND AT THE
+HEAD OF `state/open-threads.md`, AND `PC-28` IS STILL OPEN AND STILL UNFIXED AND NO CHAPTER IN 371–380 CARRIES
+ITS FIGURES.**
 
 ### 0. WHAT CHAPTERS 371–380 ADDED TO THE CONTINUITY OF THIS BOOK, AND CHAPTER 381 MAY NOT CONTRADICT ANY OF IT
 
@@ -40,9 +50,13 @@ STILL OPEN AND STILL UNFIXED AND NO CHAPTER IN 371–380 CARRIES ITS FIGURES.**
    COULD NOT ANSWER AND STOPPED.** **THERE IS NOT ONE WORD ABOUT LIN HAO IN THEM AND THERE NEVER WAS.**
    (374, PC-34, and `chapter-0070.md` for who wrote them)
 6. **THE FOUR LINES SIT IN A MINUTE AT THE END OF A CORRIDOR AND CANNOT BE TAKEN OUT, AND `S.M.` IS ON THE
-   TRANSMISSION ABOVE THEM.** *Sun Meiling has had the same answer in a different shape since the twentieth of
+   TRANSMISSION ABOVE THEM.** **SHE ALSO INITIALLED HER OWN DRAFT AGAINST ITS FOURTH LINE, AND THAT DRAFT IS THE
+   SECOND LINE OF THE INDEX AND NOT THE THREE, SO NO LATER CHAPTER MAY PUT THE INITIALS AGAINST THE REPLY:
+   THE REPLY IS THE THIRD LINE AND IT CARRIES SOWE'S OWN SIGNATURE. THE TWO SIGHTINGS ARE THE SIXTEENTH OF
+   JANUARY AND THE TWENTY-SIXTH OF FEBRUARY, INSIDE SIX WEEKS OF EACH OTHER, AND NOT IN ONE MONTH.**
+   *Sun Meiling has had the same answer in a different shape since the twentieth of
    February, given standing up in a corridor outside a door with nothing written down, and she has carried it up
-   sixty-one steps to give to him, and he has not told her he has read it.* (375)
+   sixty-one steps to give to him, and he has not told her he has read it.* (070, 358, 374, 375)
 7. **THE ACCOUNT OF THIRTY YEARS WAS CALLED A FOURTH TIME ON THE FIRST OF MARCH, BY THE SAME HAND ON THE SAME
    PRINTED RULE, AND THE HOUR WENT IN AT TWENTY TO NINE WHETHER OR NOT THERE WAS A MAN AT THE RAIL. NOTHING HAS
    BEEN PAID AND NOTHING CAN BE PRODUCED AND THERE IS NO PRODUCTION OFF THAT DOOR, AND THE WORD GOES ON ON THE

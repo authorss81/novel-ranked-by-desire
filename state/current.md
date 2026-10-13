@@ -10,7 +10,7 @@ now all written fact**; movements 4 and 5 are still plan and Batch 0004 tests mo
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0371.md` … `chapter-0380.md` | ten finished chapters, the twenty-first of February to the tenth of March. **20,944 words counted per file and summed. Volume 8 is 65,544.** |
+| `chapters/volume-08/chapter-0371.md` … `chapter-0380.md` | ten finished chapters, the twenty-first of February to the tenth of March. **21,015 words counted per file and summed. Volume 8 is 65,615.** |
 | `outline/volume-08.md` | **§6 movement 3 rewritten against the page**, with seven named places the plan was wrong; **the two open risk notes at the end of §6 struck and settled**, including the question of whether a ground can be demanded by a subject and the question of whether the woman the volume sentence names is Sun Meiling; §10 re-run |
 | `state/open-threads.md` | **new live gate block**, and canon items **PC-29 to PC-37** recorded in the same commit; Batch 0002's block marked superseded |
 | `workspace/volume-08/batch-0004/PROMPT.md` | **the one live phase prompt in the repository.** Ch 381–390. |
@@ -43,6 +43,49 @@ Days and says nine days and eight days for an interval that is three days from t
 351–360 is Batch 0001's audited and closed position and this batch may not touch it. **No chapter in 371–380
 carries those figures, and the 375-to-376 interval is the one that trips a pass on this calendar and NOTHING IN
 371–380 PRINTS IT.**
+
+## 0c. THE BATCH WAS REVIEWED AND REPAIRED. THREE DEFECTS, THREE FIXED, ONE OBSERVATION TAKEN. NO CHAPTER RESTARTED.
+
+**`logs/batch-0003.review.log` is the review and the full repair list is at the head of `state/open-threads.md`.
+No chapter was restarted, no planned plot was changed, and no prose the review passed was rewritten.**
+
+1. **`chapter-0380.md` carried one paragraph twice, verbatim, at lines 187 and 189,** separated by a blank line
+   and sitting directly after *That is the first one.* The second copy is struck. **IT WAS LOCAL TO 380 AND WAS NOT
+   PASTED FROM ANY EARLIER VOLUME.**
+2. **`chapter-0375.md` opened by claiming the two sightings of `S.M.` were "in the same month"** when the chapter
+   then dates them the **sixteenth of January** and the **twenty-sixth of February**, which is forty-one days. It
+   now reads **inside six weeks of each other**, which is what the two dates support.
+3. **`chapter-0375.md` put the initials "against the fourth line of a reply."** 374 puts them on the second line of
+   the index — **the draft** — in the margin against the fourth, and says so at 374:17, 374:142 and 374:144, while
+   374:19 gives the reply to the responsible officer's signature alone. 375 now reads **against the fourth line of
+   a draft of an answer**. **THE FIX RE-CONCILES 375 WITH 374, 358 AND 070 AND INVERTS NOTHING:** 070:123 has Sun
+   Meiling saying the reply is signed by the officer and initialled by whoever drafted it, and 070:125 puts her
+   initials above his four lines, so the three characters exist in both places and only the draft was ever
+   initialled *against the fourth*. **`outline/volume-08.md`'s 375 card and the 375 entry in
+   `state/chapter-summaries.md` carried the same "same month" claim and both were corrected with it, and
+   `state/continuity.md` item 6 now forbids a later chapter from putting the initials against the reply.**
+
+**THE ONE OBSERVATION THE REVIEW LEFT OPEN AND THAT WAS TAKEN:** at 380 Tessa Okonkwo sets every beat of the scene
+— terms, undressing, position, pacing, and the finish — and the lead acts nowhere inside it. He is the only
+passenger in ten chapters and a reader who has watched him drive 371 to 379 will feel the gear change. **HE NOW
+MOVES HER HIMSELF, ONCE, FOR THE LENGTH OF ONE BREATH** — he comes off the end of her list of instructions and
+puts both hands under her hips and moves her, and she lets him have it for that one breath and then takes both his
+wrists and puts them flat on the floor either side of her head. **TERM TWO IS NOT BREACHED, because a man paying
+for something is not what that is, and nothing about the scene's choreography, its consent, its terms, its closing
+or its twenty days changes.** His one act is the only one he takes all night and it is taken off him inside the
+same paragraph.
+
+**THE FIGURES THE REPAIR MOVED, RE-RUN BY COMMAND AFTERWARDS: batch 0003 is 21,015 and Volume 8 is 65,615.** 375
+went 1,837 to 1,842 and 380 went 4,120 to 4,186. **The scene body at 380, counted on the gate block's own published
+method, went 3,343 to 3,409, and the whole-word probe and the substring probe DID NOT MOVE — 38 and 47 — because
+what came out and what went in are inside the same enumeration.** `gasp` 2 to 1 and `lick` 2 to 1 are the duplicate
+leaving; `come` 6 to 7 and `hip` 4 to 5 are the beat arriving.
+
+**THE REVIEW ALSO PASSED, AND THE REPAIR RECORD KEEPS THE PASSES: the in-commit rewrite of `outline/volume-08.md`
+§6 movement 3 is authorized by line 271 of `workspace/volume-08/batch-0003/PROMPT.md` · exactly one next phase
+exists and it is scoped to 381–390 · ZERO of the banned constructions in ten chapters · no blockquote, table, rule
+or code block in any chapter and NO BOLD AT ALL · ONE square-bracket system line in the batch, at 376 · no
+paragraph over ninety words · ten titles, unique book-wide, all names.**
 
 ## 1. CHAPTER BY CHAPTER, AND WHAT EACH ONE ACTUALLY DID
 
@@ -121,7 +164,7 @@ carries those figures, and the 375-to-376 interval is the one that trips a pass 
   quarters of *held, declines maintained*, and a tenth line in a different hand. **THE WORD SHE USES IS NOT
   *ALIVE*. SHE SAYS *HELD*, and held is a legal category, a form, and a room on the third sub-level with no
   window and a door that is not locked from inside, and the next administration is the thirtieth of March and
-  she will see it.** Scene body **3,343 words, whole-word probe 38, substring 47**; chapter 4,120.
+  she will see it.** Scene body **3,409 words, whole-word probe 38, substring 47**; chapter 4,186.
   **THE GRAMMAR IS BROKEN AGAIN — no terms sheet, no counted minute, no kettle, no dark, a shutter rail instead
   of a bench, and a doctor who counts her own body's responses out loud.** **ENDING: on the morning of the
   thirtieth of March this clinic will be sent a return about her patient and a sheet at the end of a corridor

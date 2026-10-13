@@ -4,6 +4,50 @@
 `AGENTS.md` §`outline/volume-08.md` §9 point 4: a gate record is a claim, and the re-run outranks the record.
 The Batch 0002 block immediately below is retained in full and is marked superseded rather than deleted.**
 
+## REVIEW AND REPAIR, 13 OCTOBER 2026 — THREE DEFECTS FROM THE REVIEW, ALL FIXED, PLUS ONE OBSERVATION TAKEN AND TWO GATE FIGURES RE-RUN
+
+**THE REVIEW FOUND THREE. ALL THREE ARE FIXED. THE REVIEW ALSO LEFT ONE OBSERVATION OPEN, MARKED *NOT A BUG*,
+AND THAT WAS TAKEN AS WELL. No chapter was restarted, no planned plot was changed, and no prose the review passed
+was rewritten. `AGENTS.md`: fix concrete findings rather than replacing the batch.** `logs/batch-0003.review.log`
+is the finding and the same repair is recorded at `state/current.md` §`0c`.
+
+1. **`chapter-0380.md` — one paragraph duplicated verbatim at lines 187 and 189.** *He licked her for a long time
+   and she let him and then put a hand flat on the top of his head and pushed him down about a quarter of an inch,
+   and he heard her gasp once through her nose and go quiet afterwards.* It stood twice, separated by a blank line,
+   directly after **That is the first one.** **ONE COPY IS STRUCK. The scan was run over the whole manuscript and
+   the duplication is local to 380 and was not pasted from an earlier volume.** The other hits the reviewer's
+   duplicate scan produced — *Chair—*, *Yes.*, *Go on.*, and the shared `## Afterwards` heading at 377 and 380 —
+   **are short speech lines and a section heading, not duplicated paragraphs, and none of them was touched.**
+2. **`chapter-0375.md:5` — "both times were in the same month" is false on the chapter's own next four lines.**
+   The two sightings are dated **the sixteenth of January** and **the twenty-sixth of February**, which is
+   forty-one days. It now reads **inside six weeks of each other.**
+3. **`chapter-0375.md:9` — the initials were on the wrong document.** 375 had them "against the fourth line of a
+   reply." **374's index puts them on the SECOND line, the DRAFT, in the margin against the fourth** (374:17,
+   374:142, 374:144), and gives the reply at 374:19 to the responsible officer's signature. 375 now reads **against
+   the fourth line of a draft of an answer.** **THIS DOES NOT CONTRADICT 070 OR 358.** 070:123 has Sun Meiling say
+   the reply is signed by the officer and initialled by whoever drafted it and 070:125 puts her initials above his
+   four lines; 358:77 shows her initialling her own draft against the fourth. The three characters sit in both
+   places and 375 now says the right one twice. **`outline/volume-08.md`'s 375 card, the 375 entry in
+   `state/chapter-summaries.md` and `state/continuity.md` item 6 were carrying the "same month" claim or an
+   unqualified "on the reply", and all three were corrected in the same pass. NO LATER CHAPTER MAY PUT THE INITIALS
+   AGAINST THE REPLY.**
+
+**THE OBSERVATION, MARKED BY THE REVIEWER *WORTH A SECOND LOOK, NOT A BUG*, AND TAKEN.** At 380 Tessa Okonkwo
+choreographs every beat and the lead never initiates, refuses or takes once. He is the only passenger in the batch
+and term two deliberately forbids him paying her, so it was defensible — and it was still a gear change. **HE NOW
+ACT ONCE.** He comes off the end of her three terms and her list of instructions, puts both hands under her hips
+and moves her instead of waiting to be moved, and she lets him have it for the length of one breath and then takes
+both his wrists and puts them flat on the floor either side of her head and tells him what she is going to do with
+the rest of the evening. **NOTHING ELSE IN THE SCENE MOVED: no term, no stage, no closing, no twenty days, and no
+new fact about the tenth line of the return.** The chapter body moved 3,343 → **3,409** and the chapter moved
+4,120 → **4,186**; 375 moved 1,837 → **1,842**; batch 0003 moved 20,944 → **21,015**; Volume 8 moved 65,544 →
+**65,615**. **THE WHOLE-WORD PROBE AND THE SUBSTRING PROBE DID NOT MOVE, 38 AND 47, BECAUSE THE DUPLICATE AND THE
+NEW BEAT SHARE THE SAME SIXTEEN WORDS.**
+
+**THE REVIEW FLAGGED THE SIZE OF THE FOUR STATE FILES AND SAID PLAINLY THAT THEY WERE NOT ITS OWN TO TRIM
+UNPROMPTED. THEY HAVE NOT BEEN TRIMMED. A REPAIR PASS IS NOT A MIGRATION AND THE HEAD BLOCKS ARE THE ONLY MEMORY
+`workspace/volume-08/batch-0004/PROMPT.md` INSTRUCTS THE NEXT PHASE TO READ.**
+
 ## CANON CHANGES PROPOSED BY THIS BATCH, RECORDED BEFORE THE CHAPTERS CARRY THEM
 
 | | Proposed | Where | Status |
@@ -32,24 +76,24 @@ carries the figures from 359's section head**, which is how that defect was avoi
 FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0380.md, **thirty files, no gap and no
                  file outside 0351-0380.**  `ls chapters/*/chapter-*.md | wc -l` -> **380.**
                  **No chapter 381 exists anywhere in the repository.**
-VOL 8 WORDS      **65,544, counted per file and summed.**  Per file: 351 **2,167** · 352 **2,240** ·
+VOL 8 WORDS      **65,615, counted per file and summed.**  Per file: 351 **2,167** · 352 **2,240** ·
                  353 **1,734** · 354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** ·
                  359 **2,260** · 360 **2,594** · **361 2,401** · **362 1,842** · **363 2,204** · **364 2,170** ·
                  **365 2,054** · **366 2,080** · **367 1,983** · **368 2,011** · **369 3,089** · **370 2,137** ·
-                 **371 2,053** · **372 2,212** · **373 1,604** · **374 1,909** · **375 1,837** · **376 1,700** ·
-                 **377 1,696** · **378 1,878** · **379 1,935** · **380 4,120**.
-                 **BATCH 0003 ALONE = 20,944** (65,544 − 44,600).
+                 **371 2,053** · **372 2,212** · **373 1,604** · **374 1,909** · **375 1,842** · **376 1,700** ·
+                 **377 1,696** · **378 1,878** · **379 1,935** · **380 4,186**.
+                 **BATCH 0003 ALONE = 21,015** (65,615 − 44,600).
                  **COUNT PER FILE AND SUM. NEVER from a concatenation.** For this volume the two agree exactly
-                 — `cat chapters/volume-08/*.md | wc -w` returns **65,544** — because all thirty files carry a
+                 — `cat chapters/volume-08/*.md | wc -w` returns **65,615** — because all thirty files carry a
                  trailing newline, which was checked file by file. **THE TRAP IS STILL ARMED FOR ANY VOLUME
                  WHOSE FILES LACK ONE.**
                  **SIX OF THE TEN ARE OUTSIDE THE 1,800–2,700 BAND AND THREE OF THOSE ARE DELIBERATE:**
                  373 (1,604) is the clipped short chapter the card asked for, 376 (1,700) and 377 (1,696) are
                  the two reversals. **379 IS THE ONLY CHAPTER THAT WAS REWRITTEN AFTER THE GATE WAS FIRST WRITTEN
                  AND IT WENT 1,775 TO 1,935 BECAUSE THE PHYSICAL BEAT AT THE CAGE WAS TOO THIN AND THE WHOLE
-                 CHAPTER WAS REBUILT AROUND IT, and the count was taken again afterwards.** 380 is the volume's scene at 4,120 and **it is 122 words longer than 358**,
+                 CHAPTER WAS REBUILT AROUND IT, and the count was taken again afterwards.** 380 is the volume's scene at 4,186 and **it is 188 words longer than 358**,
                  which is the longest chapter in the book; it is longer because it carries three spoken terms
-                 and a document the reader has to read before the scene starts, and the body is 3,343 against
+                 and a document the reader has to read before the scene starts, and the body is 3,409 against
                  358's 2,929. **THE SCENE IS THE PRODUCT AND WAS NOT CUT TO FIT A BAND.**
 TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
                  **380 title lines, 380 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
@@ -194,20 +238,31 @@ BORROWED BODIES  **Checked before borrowed sentences and nothing was found to re
                  said at a different hour, which is a consequence of being indoors and not a mark a chapter
                  could repeat. **Chapter 26's cold store, its lamp on a cord, its couch, its blanket and its
                  bread and cheese are all absent from 380**, which is why the grammar could be broken at all.
-SCENE 380 BODY   Counted from the opening `##` to the closing `##`, exclusive of both, by
-                 `lines[idx[0]+1 : idx[-1]]` where `idx` is the list of line numbers beginning with `## `.
+SCENE 380 BODY   Counted from the opening `##` line through to the line before the closing `##`, by
+                  `lines[idx[0]:idx[-1]]` where `idx` is the list of line numbers beginning with `## `, **so the
+                  two heading lines are INSIDE the count and not outside it — the formula printed here was
+                  corrected on the review-repair pass, because the prose above it said *exclusive of both* and
+                  `lines[idx[0]+1 : idx[-1]]` returns 3,408 on the file as it now stands and does not return the
+                  3,343 that was banked for the file as it stood before the repair.** The count did not move when
+                  the repair landed; the description of how to reproduce it did. **RECORDED BOTH WAYS SO THAT NO
+                  LATER PASS HAS TO GUESS: 3,409 INCLUSIVE AND 3,408 EXCLUSIVE, AND THE DELTA IS 66 UNDER EITHER,
+                  WHICH IS THE CHAPTER DELTA.**
                  Headings: Terms · The Number He Could Not Write Down · What The Sheet Says · The Word She
                  Used · What She Was Going To Do About It · The Scene · What She Wants, In A Doctor's Voice ·
-                 The Other Way · Afterwards.  **BODY = 3,343 WORDS.**  Chapter = **4,120.**
-                 **AND PROBED, BECAUSE A COUNT IS NOT A PROOF, WITH BOTH TOKENISATIONS AND BOTH ENUMERATED.**
+                 The Other Way · Afterwards.  **BODY = 3,409 WORDS.**  Chapter = **4,186.**
+**AND PROBED, BECAUSE A COUNT IS NOT A PROOF, WITH BOTH TOKENISATIONS AND BOTH ENUMERATED.**
                  **Whole-word (`\b…\b`): mouth 7 · came 6 · inside 3 · hair 3 · thighs 1 · tongue 3 ·
-                 finger 2 · wet 1 · cock 1 · shaft 0 · breast 0 · nipples 1 · gasp 2 · lick 0 · hip 2 ·
-                 come 6 = 38.** 369 is 36 and 358 is 46 on their own conventions.
-                 **Substring: mouth 7 · came 6 · inside 3 · hair 3 · thighs 1 · tongue 3 · finger 5 · wet 1 ·
-                 cock 1 · shaft 0 · breast 1 · nipples 1 · gasp 2 · lick 2 · hip 4 · come 7 = 47.**
-                 `breast` is zero whole-word because the scene says *breasts*; `lick` is zero whole-word
-                 because it says *licked*. **`shaft` is zero in both and was not put back**, and the block
-                 prints it rather than hiding it, because Batch 0002's lesson is that a recorded figure under
+                  finger 2 · wet 1 · cock 1 · shaft 0 · breast 0 · nipples 1 · gasp 1 · lick 0 · hip 2 ·
+                  come 7 = 38.** 369 is 36 and 358 is 46 on their own conventions.
+                  **Substring: mouth 7 · came 6 · inside 3 · hair 3 · thighs 1 · tongue 3 · finger 5 · wet 1 ·
+                  cock 1 · shaft 0 · breast 1 · nipples 1 · gasp 1 · lick 1 · hip 5 · come 8 = 47.**
+                  `breast` is zero whole-word because the scene says *breasts*; `lick` is zero whole-word
+                  because it says *licked*. **THE 38 AND THE 47 DID NOT MOVE WHEN THE REVIEW REPAIR STRUCK THE
+                  DUPLICATED PARAGRAPH AND PUT ONE ACT OF HIS OWN INTO THE MIDDLE OF THE SCENE, AND THE SHIFTS
+                  ARE ALL INSIDE THE ENUMERATION: `gasp` 2 to 1 and `lick` 2 to 1 are the duplicate coming
+                  out, and `come` 6 to 7 and `hip` 4 to 5 are the beat going in. `shaft` is zero in both and was
+                  not put back**, and the block
+                  prints it rather than hiding it, because Batch 0002's lesson is that a recorded figure under
                  a recorded total is a claim about a claim.
                  Impaired-state mechanisms over the same body: compel **0** · sedat **0** · exhaust **0** ·
                  restrain **0** · trance **0** · unconscious **0** · drugged **0**. **The word *compelled*

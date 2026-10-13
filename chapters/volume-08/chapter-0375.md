@@ -2,11 +2,11 @@
 
 *S.M.*
 
-He had seen them twice before in his life and both times were in the same month.
+He had seen them twice before in his life and both times were inside six weeks of each other.
 
 The first was at half past eight in the evening on the sixteenth of January, in a side room off an iron stair, out of a drawer that had not been opened in three years, initialled in the margin against the fourth line of a dead draft in a woman's own hand.
 
-The second was at ten past nine on the morning of the twenty-sixth of February, at a side table at the end of a corridor, read out by a clerk who read out everything the same way, against the fourth line of a reply that had stopped a question dead three years before.
+The second was at ten past nine on the morning of the twenty-sixth of February, at a side table at the end of a corridor, read out by a clerk who read out everything the same way, against the fourth line of a draft of an answer that had stopped a question dead three years before.
 
 He had spent a night and a half of it not being able to put the three characters down anywhere.
 

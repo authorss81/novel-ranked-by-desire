@@ -2,9 +2,15 @@
 
 Write **ten finished chapters, in order**, into `chapters/volume-08/chapter-0381.md` through `chapter-0390.md`.
 
-**Chapters 351–380 are on disk. Batch 0001 and Batch 0002 were both reviewed and repaired; Batch 0003 HAS NOT
-BEEN REVIEWED and the reviewer owns the finding. Do not rewrite 351–380 and do not touch any chapter outside
+**Chapters 351–380 are on disk. Batch 0001, Batch 0002 and Batch 0003 have ALL now been reviewed and repaired —
+Batch 0003's finding is `logs/batch-0003.review.log` and its repair is recorded at `state/current.md` §`0c` and at
+the head of the gate block in `state/open-threads.md`. Do not rewrite 351–380 and do not touch any chapter outside
 381–390.**
+
+**TWO FACTS FROM THAT REPAIR ARE BINDING ON YOU AND ARE THE KIND A WRITER RE-DERIVES WRONGLY: the two sightings of
+`S.M.` are the SIXTEENTH OF JANUARY and the TWENTY-SIXTH OF FEBRUARY, inside six weeks of each other and NOT in
+one month; and the initials are on the DRAFT, the second line of the index, in the margin against the fourth — the
+reply is the third line and carries Sowe's signature alone. Put them on the reply and you will be wrong.**
 
 **READ `state/current.md`'s HEAD BLOCK, `state/continuity.md`'S LIVE BLOCK, AND THE GATE BLOCK AT THE HEAD OF
 `state/open-threads.md` BEFORE YOU WRITE A LINE. THEY ARE THE NEXT BATCH'S MEMORY AND EVERY FIGURE IN THEM WAS

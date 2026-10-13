@@ -1035,8 +1035,10 @@ were found by the pass that wrote the chapters and the last two by the twelve-gr
   the reason a receipt and not a file came back for his holding five days earlier, which means he has been
   living inside the consequences of those four lines for five days without knowing it.
 - **375 (27 Feb). THE SIGNATURE UNDER THE ANSWER.** `S.M.` He has seen those three characters twice before in
-  his life and both times were in the same month. **He does not write the number down anywhere: a man who
-  carries a document in his head cannot be made to produce it, and he has been extremely good at that for
+  his life and both times were inside six weeks of each other. **THEY ARE ON THE DRAFT AND NOT ON THE REPLY,
+  which is the second line of the index and not the third, and 374 says so three times.** **He does not write
+  the number down anywhere: a man who carries a document in his head cannot be made to produce it, and he has
+  been extremely good at that for
   eight years.** He goes up the sixty-one steps to tell the one woman he is permitted to tell, **and she
   tells him first.** She went up to the third floor on the twentieth with the consult in her hand and he stood
   in the corridor outside his own door so that they were both standing and gave her the answer in four
@@ -1099,7 +1101,7 @@ were found by the pass that wrote the chapters and the last two by the twelve-gr
   because I am not going to write down what I think it means.*** **THE WORD SHE USES IS NOT *ALIVE*. She says
   *held*, and *held* is a legal category, a form, and a room on the third sub-level with no window and a door
   that is not locked from inside, and the next administration is the thirtieth of March and she will see it.**
-  Scene body **3,343 words counted AND probed**: whole-word **38**, substring **47**. Chapter 4,120.
+  Scene body **3,409 words counted AND probed**: whole-word **38**, substring **47**. Chapter 4,186.
   **THE SCENE GRAMMAR IS BROKEN AGAIN AND THE BREAK IS THE POINT:** no terms sheet and no written terms, no
   counted minute, no kettle, no dark, no corridor, no lamp, and **a doctor who gives her instructions in a
   clinical register and counts her own body's responses out loud because she has never told a living soul.**

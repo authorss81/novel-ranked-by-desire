@@ -23,7 +23,7 @@
 > In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
 > account he has ever had closes on him and he is a man with a number**.
 
-**`chapters/volume-08/` EXISTS. Chapters 351–380 are on disk, thirty files, 65,544 words counted per file and
+**`chapters/volume-08/` EXISTS. Chapters 351–380 are on disk, thirty files, 65,615 words counted per file and
 summed** (per-file and concatenated agree; all thirty carry a trailing newline). **`outline/volume-08.md` §6
 movements 1, 2 AND 3 have all three been rewritten against the chapters they planned, in the commits that wrote
 them. Movement 2's rewrite SETTLED the carry-forward collision §6 had flagged as the most dangerous open
@@ -40,7 +40,7 @@ block is Batch 0003's.
 only account he has ever had closes on him and he is a man with a number.**
 
 **THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN, body 2,929** · 369 Agnete Lindqvist — **WRITTEN,
-body 2,570, whole-word probe 36, substring 43** · **380 Tessa Okonkwo — WRITTEN, body 3,343, whole-word probe
+body 2,570, whole-word probe 36, substring 43** · **380 Tessa Okonkwo — WRITTEN, body 3,409, whole-word probe
 38, substring 47** · **388 Dagmar Oyelowo, immovable** · 398 Wren Kallo. Gaps 8, 11, 11, 8, 10.
 **Ch 372 opened Lin Wei's file and nothing before it went near it, and that was the batch's irreversible
 decision.**
@@ -100,9 +100,12 @@ SAY THE OFFICE COULD NOT ANSWER AND STOPPED.** And at the end he works out that 
 is the reason a receipt and not a file came back for his holding five days earlier.
 
 **375 — The Signature Under The Answer.** The twenty-seventh, short. `S.M.` He has seen those three characters
-twice before in his life and both times were in the same month. **He does not write the number down anywhere:
-a man who carries a document in his head cannot be made to produce it, and he has been extremely good at that
-for eight years.** He goes up the sixty-one steps to tell the one woman he is permitted to tell **and she
+twice before in his life — the sixteenth of January and the twenty-sixth of February, inside six weeks of each
+other — **and on the second occasion they were against the fourth line of a draft of an answer, which is the
+second line of the index, and not against the reply, which is the third and is signed by the responsible officer
+in his own hand.** **He does not write the number down anywhere: a man who carries a document in his head cannot
+be made to produce it, and he has been extremely good at that for eight years.** He goes up the sixty-one steps
+to tell the one woman he is permitted to tell **and she
 tells him first**: on the twentieth she went up to the third floor with the consult and he stood in the corridor
 outside his own door so that they were both standing, and gave her the answer in four sentences, wrote nothing
 down and offered her nothing to take away. **THE ANSWER SHE HAS AND THE FOUR LINES HE HAS ARE THE SAME ANSWER
@@ -166,7 +169,7 @@ held, three years, a quarter shorter than the last and I do not know what that m
 because I am not going to write down what I think it means.* **THE WORD SHE USES IS NOT *ALIVE*. SHE SAYS
 *HELD*, and held is a legal category, a form, and a room on the third sub-level with no window and a door that
 is not locked from inside, and the next administration is the thirtieth of March and she will see it.** Scene
-body **3,343 words, whole-word probe 38, substring 47**; chapter 4,120. **THE GRAMMAR IS BROKEN AGAIN: no
+body **3,409 words, whole-word probe 38, substring 47**; chapter 4,186. **THE GRAMMAR IS BROKEN AGAIN: no
 terms sheet, no counted minute, no kettle, no dark, no corridor, no lamp, a shutter rail instead of a bench, and
 a doctor who counts her own body's responses out loud.** **ENDING:** on the morning of the thirtieth of March
 this clinic will be sent a return about her patient and a sheet at the end of a corridor will be handed to a

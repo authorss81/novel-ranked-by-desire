@@ -186,13 +186,15 @@ She got a hand under his jaw and tipped his face so that he had to look up at he
 
 He licked her for a long time and she let him and then put a hand flat on the top of his head and pushed him down about a quarter of an inch, and he heard her gasp once through her nose and go quiet afterwards.
 
-He licked her for a long time and she let him and then put a hand flat on the top of his head and pushed him down about a quarter of an inch, and he heard her gasp once through her nose and go quiet afterwards.
-
 "That is the first one," she said. "And now I am going to tell you what it is doing to me, and then I am going to stop talking, and after tonight neither of us is going to be able to pretend it was anything else."
 
 She told him. It took her about forty words and he stopped listening to the words inside about nine of them and only heard the count at the end of it, which was a woman saying a number out loud in a warm room.
 
 He put his mouth on her and she came the first time about a minute and a half in, one hand flat on the top of his head and the other on the rail, and it went on after it should have, because she is a woman who has never stopped a thing once it has started.
+
+He was not told. She had read him three terms and a list of instructions and he had worked his way down all of it and come off the end of it, and he put both hands under her hips and moved her instead of waiting to be moved, which was not in anything she had said.
+
+She let him have it for the length of one breath. Then she took both his wrists, put them flat on the floor either side of her head, and told him what she was going to do with the rest of the evening, and he was not the one deciding any of it after that.
 
 ## The Other Way
 
