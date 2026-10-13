@@ -1123,28 +1123,104 @@ to her.**
 4. **THE 436 CARD ASSUMED THE ENTRY AND THE PAGE DECLINED IT.** The slip is written, dated, and left in the drawer; the cost of filing is priced by not paying it.
 5. **THE 439 AND 440 CARDS WERE ONE COUNT AND THE PAGE NEEDED TWO ROOMS.** A drawer in Vestry rooms and a kitchen table of eight: the telling of the first of June lands on two different women in two different ways.
 
-### Movement 5 — THE ANSWER (441–450). 13–30 June.
+### Movement 5 — THE ANSWER (441–450). 13–30 June. **REWRITTEN AGAINST THE PAGE BY THE PHASE THAT WROTE 443–450. EVERY CARD BELOW IS WRITTEN AND EVERY WORD OF IT IS WHAT THE PAGE DID. 441–442 WERE WRITTEN BY BATCH 0004 AND OPEN THIS MOVEMENT'S QUESTION; THE MOVEMENT IS NOT CLOSED ON THE PAGE AND 450 IS SIX O'CLOCK ON THE MORNING OF THE THIRTIETH OF JUNE, WHICH IS BEFORE THE SITTING.**
 
 **The promise:** the standing to answer a requisition, which is the only thing rank nine buys, and he has never in
 nine volumes been in a position to answer one.
 
 - **441 (13 Jun). THE STANDING TO ANSWER FOR HIMSELF. WRITTEN BY BATCH 0004, 1,121 WORDS.** The requisition is called — not carried, not received, not decided — and answering means standing as a member with a seal he cannot refuse. He does not make the room need anything; he is told to stand when called.
 - **442 (15 Jun). THE MINUTES HE READS HIMSELF. WRITTEN BY BATCH 0004, 964 WORDS.** Alone with two minutes, read twice each, no correction, no summing-up. Fifteen days to the day with five things on it.
-- **443–445.** The requisition in his own answer (443). **The cheapest thing in
-  the room (444)** — and the room takes it, and not from him. **The clause under the minute (445)**, entered in the
-  room's own hand on the last sitting day of the quarter.
-- **446 (23 Jun). THE SCENE. INES DUARTE.** §4. `outline/series.md`: **she reads him correctly, in public, on
-  purpose, and it is the last time anybody in the city gets to do it to him by accident.**
-- **447–450.** The fourth seat fills and empties (447). The fifth mark that never came (448). **The boy with the
-  paste brush (449) — the card comes down at six on the morning of the thirtieth of June and Chapter 450 prints
-  both figures on it.** The name on the black tile (450).
+- **443 (17 Jun). THE REQUISITION IN HIS OWN ANSWER. WRITTEN, 2,494 WORDS. THE BATCH'S FIRST IRREVERSIBLE DECISION.**
+  **A printed minute-form goes out on the second table for the first time in ninety days, and it has no box on it
+  for what the subject says, because a clerk may only enter and cannot correct and will not put a man's own words
+  into a book.** He is told what standing up is made of: the fifth seat is four inches lower than the other eight,
+  his hand goes on the back of it, the seal comes off the tray when his name is read, nobody counts him, and the seal
+  goes out of the building at four with everything else and never comes back. **AND HE SAYS THE FOUR WORDS OUT
+  LOUD IN THAT CORRIDOR ON THE SEVENTEENTH OF JUNE, AFTER THE CLERK TOLD HIM ON THE FIFTEENTH NOT TO, AND A CLERK
+  WRITES THEM ON A SLIP IN A DRAWER.** He had said them. They were in a book now. Nobody could take them out.
+  **THE COST: Mrs Imrie may not be asked a single question about the entry she wrote, and in four years a stranger
+  who has read both books will know she was transcribing a man in a kitchen.** The slip is not on the run. It stops
+  being safe at the moment the minute is made, which is the thirtieth.
+- **444 (19 Jun). THE CHEAPEST THING IN THE ROOM. WRITTEN, 2,548 WORDS.** Nine chairs that count and one that does
+  not, empty since the fourth of December, and the cheapest object in that building. **THE ROOM TAKES IT AND NOT
+  FROM HIM: Sun Meiling comes down the corridor at half past one with a docket under her arm, is not on the roll,
+  is told by the clerk exactly what sitting there will cost her, and sits down anyway, beside Alma Quayle.** He
+  opens his mouth twice to thank her and shuts it twice, because the ordinary way would turn an afternoon into a
+  thing he had arranged. The clerk rules, flatly, that he did not put her in that chair and that he must not thank
+  her. **WHAT THE ROOM LEARNS AT THE END: nobody may ask her and there is no sheet, so on the thirtieth there is no
+  way on earth to keep the officer of that composition out of the corridor while he answers.**
+- **445 (21 Jun). THE CLAUSE UNDER THE MINUTE. WRITTEN, 2,484 WORDS. THE BATCH'S SECOND IRREVERSIBLE DECISION.**
+  He writes a clause in a notebook and brings it in: where a minute names premises, no person keeping an address so
+  named may be produced by that minute otherwise than in the presence of the subject. Runa Sato prices it and says
+  the half of it that cannot work — **a clause is entered under a minute at the making of a minute and cannot reach
+  back to the entry of the ninth of May or to the sentence in the minute of the twentieth of February that died on
+  the thirtieth of March, and neither is corrected and neither is struck.** The order of a sitting day is read out
+  to him: a clause goes under the minute after the last seal, the room never reads it, and it works in four years
+  in one room with one stranger in it. He widens it in front of Runa Sato to all nine women and says why. **WHAT IT
+  CLOSED: his own isolation. From the thirtieth of June nothing that room says about his address can be used
+  without him in the corridor, and he has told the house in effect that he is a doorway and not a man in a building.**
+- **446 (23 Jun). THE SCENE. INES DUARTE. WRITTEN AND OUT IN FULL, 4,647 WORDS; SCENE BODY 1,843 ON THE SPAN
+  `## Reading While` TO `## The Hour She Does Not Read` EXCLUSIVE, AND 1,846 ON THE LITERAL FIRST-`##`-TO-LAST-`##`
+  SPAN; PROBE 24 ON THE SAME LIST AS 406/417/428/438.** §4. A reading room on the first floor over the counting
+  house, a rail, an open door, and a day's book in a stand with the hour and the applicant's name on it. She books
+  it **publicly** and writes *public* against it. **THE AXIS IS THE VOICE AND IT IS CARRIED BY THE ROOM'S RULE, NOT
+  BY ANYBODY NAMING IT: in order, the date first, the hour with it, nothing skipped — not a name, not a figure, not
+  a box with nothing in it — a reader may stop and a subject may not, and the room does not hurry anybody.** She
+  reads the record of the fifteenth of April out loud and says the whole of it to him and to four strangers at a
+  rail: **he altered his own record voluntarily, in a queue, with a pen, in ninety seconds, and nine is not a rank,
+  it is the standing to be read.** Then she keeps reading through the whole of it and does not stop. She leaves the
+  last hour out and does not mark it in the day's book. **A name is on the day's book with the hour against it, and
+  he is entered as the subject, and no later reading of him can be called accidental.**
+- **447 (25 Jun). THE FOURTH SEAT FILLS AND EMPTIES. WRITTEN, 2,466 WORDS.** Hanneke Ruis is on the corridor with the
+  chained real book and no table to lay it on. **THE CLERK SENDS FOR BERTRAM SALLOW, whose standing has been read
+  aloud five times since the first of April without him.** He comes at nine and sits in the fourth seat for ninety
+  minutes and the room stands at five before and five after, because a standing is a line in a book and not a body
+  in a chair. **HE ASKS THE ONE QUESTION NOBODY HAS ASKED IN THAT ROOM IN NINETY DAYS — what the fourth part is —
+  and she tells him, because a member may not ask about a name or a space and a premise is neither.** A fact leaves
+  the room. On the stair he says he would rather be a nobody than a rank, and says it to the one man in the city who
+  could have made that true by doing nothing.
+- **448 (27 Jun). THE FIFTH MARK THAT NEVER CAME. WRITTEN, 2,444 WORDS.** Four marks under glass in one hand on a
+  printed rule, the first of December to the first of March, and no fifth and never going to be one. **MARGUERITE
+  VALE COMES DOWN TO THE RAIL TO ASK FOR HER OWN NAME TO BE CORRECTED IN THE FOURTH LINE AND IS TOLD THREE TIMES
+  NO** — a clerk cannot correct a book, a line that has gone out on a run does not come back, and it was read aloud
+  to nine people on the first of April. What she is given instead is her own line read out in order, with the date,
+  by a keeper. The plate's only line about a house is the one carried on the first of April, and on Friday there is
+  going to be a second one with nothing behind it. **THE HINGE, AND IT IS THE ONLY FIGURE IN THE CITY: the card
+  that comes down at six at the head of the Reading prints the standing figure of every named premises, and it goes
+  on a wall, and the keeper needs that figure at about ten to nine at a rail, and there is no instrument that will
+  carry it from one to the other.**
+- **449 (28 Jun). THE BOY WITH THE PASTE BRUSH. WRITTEN, 2,401 WORDS. THE BATCH'S THIRD IRREVERSIBLE DECISION.**
+  The public post off a third court at twenty to four, a queue of four, a counter that shuts at four whatever is in
+  it, and a jar of paste on the shelf under the counter with a brush standing in it. The boy is the boy who put the
+  card on a wall on the thirtieth of March with a paste brush and a list of numbers, and he is told nothing, and he
+  asks nothing, and the whole of his trade is that there is nobody in the building to tell. **THE CHAPTER'S LAST
+  HALF IS HE DECIDING NOT TO GO.** On the morning of the card there is a boy at that wall at half past four and a
+  woman under it at six who has read it alone for nine years; if he is standing at the north end when she picks the
+  chalk up, then the first name on the black tile in twenty years is written with a man underneath it. **He gives
+  the version of it in which he watches ninety seconds and does not take it with him.** He will be about a mile and
+  four floors away at six, on his round, being the man who is there when nobody is looking.
+- **450 (30 Jun, at six). THE NAME ON THE BLACK TILE. WRITTEN, 2,500 WORDS. THE CARD.** He is on his round when it
+  comes down and he arrives at about a quarter past six to a finished wall. **Beatrix Halm reads him the two figures
+  because she does not want to hear his voice say them: 8,147 the floor and 8,131 against premises 34-6-118, sixteen
+  under, tolerance three, out of band by thirteen — and the floor has gone up one and the figure has not moved a
+  grain in ninety days, because a plate moves on attested deeds and a consignment is not a deed and has no floor.**
+  The composition of that premises has said seven since nine forty-one on the morning of the thirteenth of March and
+  the card read it at seven and did not know about the eight people asleep under that roof. **THE TOP TILE IS BLACK
+  AND HAS HAD NOTHING ON IT FOR TWENTY YEARS AND HAS A NAME ON IT IN CHALK IN HER HAND AT TEN PAST SIX, because
+  there is no plate and no card and no floor to press into it and no office in the city that could do it for her.**
+  She writes it in the notebook with the time against it and, under the line, a name, which is the first name she
+  has written at the bottom of a line in nine years. **THE VOLUME'S SECOND SYSTEM PANEL IS HERE AND ONLY HERE:
+  `[Ledger. One hundred and fifty-eight lines. Ten turned. None of them is him.]`**
 
-**THE CLIMAX, AND IT IS NOT A DEAL.** **He answers the requisition himself, in the room, in public, as a member with
-a seal he cannot refuse to use** — and the answer is the only answer that can be given, which is that the holding is
-his and the ground is his own description of his own premises and **a man who has lodged his whole standing cannot
-be administered against a composition he is not keeping.** **The requisition is answered, not carried, not received
-and not decided against him — and the account survives on the strength of the fact that he is the fifth and the
-fifth said no.**
+**THE CLIMAX, AND IT IS NOT A DEAL, AND IT IS NOT YET ON THE PAGE.** The plan put the answering in this movement.
+**The page has put the answering after the volume.** 450 is six o'clock on the morning of the thirtieth; the sitting
+is that afternoon; **every chapter of this batch ends before the thing the volume is about has happened, and the
+thirteenth and twenty-fifth of June are the only two days on it when a member of that room and a woman in a chair
+that is not a member's are in the same corridor on the same afternoon.** That is deliberate and it is the reader's
+standing that carries into Volume 10. **What the answer is going to be is fixed on the page and was fixed at 441:
+the holding is his, the ground is his own description of his own premises, and a lodged man cannot be administered
+against a composition he is not keeping — and he has since paid for saying the four words that identify the ground
+and for a clause that puts himself in the corridor for ever after.**
 
 **THE VOLUME'S LAST IMAGE, AND IT IS THE SAME WALL.** Beatrix Halm has stood at that wall every morning for nine
 years with a notebook and her hands cold round the pencil, and on the morning of the thirtieth of June the card comes
@@ -1153,14 +1229,20 @@ time in living memory**, and **she writes a name down for the first time in nine
 it, and this time there is something under it.** And the last line of the volume is the ledger, and the tenth turned
 line is not him.
 
-**THE EMOTIONAL RESOLUTION:** the want is paid and it is not the reward. **He reaches rank nine and it buys him
-nothing about the file, and the volume says so out loud in a room.** The strategic resolution is that the requisition
-is answered and the account stays open and cannot be closed. **And the thing he is left holding is a household of
-nine sworn women bound to a figure with no floor, three who are not sworn and cannot be protected, a composition
-certificate going out four times a year in a woman's own hand, and a ledger.**
+**THE EMOTIONAL RESOLUTION:** the want is paid and it is not the reward. **He has been legibly on a wall for the first time in twenty years and it opens nothing, and the woman who put it there tells him so in the open and then walks off up the square.** The strategic resolution is that the requisition is answered and the account stays open and cannot be closed. **And the thing he is left holding is a household of nine sworn women bound to a figure with no floor and now behind a clause, three who are not sworn and cannot be protected, a composition certificate going out four times a year in a woman's own hand, a keeper's hand on a plate with nothing behind it, and a ledger.**
 
 **THE NEW QUESTION THAT MOTIVATES VOLUME 10, STATED ONCE AND NOT AGAIN:** **he has now given away everything that
 can be given away on paper, and the paper has stopped being the dangerous part.**
+
+**SEVEN PLACES THE PLAN WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN:**
+
+1. **THE PLAN MADE 443–445 THREE CARDS AND THE PAGE MADE THREE DECISIONS.** The plan's 443 was "what standing up is made of"; the page made it the moment he says the four words in a corridor having been told not to, which is not a rehearsal and is the batch's first thing that cannot be undone.
+2. **THE PLAN GAVE 444 A RECUSAL-ADJACENT CHAIR AND THE PAGE FOUND THAT THE CHAIR WAS NOT THE POINT — THE WOMAN WAS.** Alma Quayle's chair was already on the page from December. What the chapter found is that a chair a man has never been able to put anybody in is the safest object in that building, and that the cheapest thing in the room is taken by the one person in the household who cannot be protected, and he is not thanked and is not allowed to be.
+3. **THE PLAN SAID 445'S CLAUSE WAS "ENTERED ON THE LAST SITTING DAY OF THE QUARTER" AND THE PAGE ENTERED IT ON THE TWENTY-FIRST.** A clause is entered under a minute at the making of a minute, so it cannot be entered until the thirtieth; what the chapter did was draft it, read out the order of a sitting day, price it, widen it in front of the woman who has to be behind it, and lock a drawer that has never been locked.
+4. **THE PLAN MADE 446 A PUBLIC READING AND THE PAGE MADE THE AXIS THE VOICE RATHER THAN THE AUDIENCE.** A woman reading him aloud in front of strangers was going to be the twentieth chapter of somebody reading him aloud. What carried it is that she does not stop reading, and the reason is a rule of a room, and the new axis is that she reads the date first every time he loses the thread — which is what an auditor does and what he has been paying women to do for him since he was nineteen. **AND NOTHING IN THE CHAPTER IS NAMED BY ANYBODY.**
+5. **THE PLAN GAVE 447 "THE FOURTH SEAT FILLS AND EMPTIES" AND THE PAGE GAVE IT A MAN WHO HAS BEEN RESTORED AND A FACT THAT LEAVES THE ROOM.** A seat that fills and empties with the standing number unmoved is the chapter; what fills it is a man who says in a stairwell that he would rather be a nobody than a rank, and what empties the room is not the chair but a fourth part that a fifth person now knows about.
+6. **THE PLAN MADE 448 ABOUT THE FIFTH MARK AND THE PAGE MADE IT ABOUT THREE REFUSALS AND ONE CAREFUL READING.** Marguerite Vale asking for her own name to be corrected and being refused three times is the emotional content; **and the discovery that came out of it is that the only printed figure for that address on the thirtieth of June is on a wall in public and cannot be carried to a rail, which is what makes 449 and 450 the same morning.**
+7. **THE PLAN MADE 449 A BOY AND THE PAGE MADE IT A DECISION NOT TO GO.** The card said the boy could not be named and could not be asked anything, and the page obeyed that and then found that the boy was not the chapter at all: **a man who has decided he will not be at a wall at half past four on the morning a card comes down is the volume's last act of will, and it is the first one that costs him instead of somebody else.**
 
 ---
 
@@ -1177,9 +1259,7 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
 | **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE REVIEW REPAIR OF THE SAME DAY, 23,943 BEFORE IT; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
 | **0004** | **433–442** | 29 May – 15 June | **WRITTEN, 12,100 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 12,109 BEFORE IT; `outline/volume-09.md` §6 movement 4 REWRITTEN AGAINST THE PAGE in the same commit, with five named places the plan was wrong. 441–442 are written by this batch and open movement 5's question; movement 5 is still plan for Batch 0005.** Four minutes and a box; the one who was never told, and the telling is the batch's irreversible decision; the chair who will not meet; a correction not filed; the third sub-level corridor; the Beatrix Halm scene at 438 (body 1,151, probe 20); the count kept under; the house that is nine people; the standing to answer; the minutes read alone. |
-| **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
-`PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
-thirty** |
+| **0005** | **443–450** | 17–30 June | **WRITTEN 13 OCTOBER 2026, 21,984 WORDS COUNTED PER FILE AND SUMMED, EVERY CHAPTER ABOVE 2,400; `outline/volume-09.md` §6 movement 5 REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, WITH SEVEN NAMED PLACES THE PLAN WAS WRONG. Three irreversible decisions: he says the four words in the corridor (443), he enters a clause that makes himself the address every woman keeping it has to be fetched through (445), and he decides not to be at the wall at half past four on the morning the card comes down (449).** The requisition in his own answer; the chair that is not a member's; the clause; the Ines Duarte reading room scene at 446 (body 1,843, probe 24); a restored man in the fourth seat; three refusals at a rail; the boy and the jar; the card at six. **THE SITTING ITSELF IS AFTER THE VOLUME AND THE NEXT PHASE IS `workspace/volume-09/volume-close/PROMPT.md`.** Eight chapters — it is the volume's close and it is one unit, and `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not thirty |
 
 **THE TOTAL IS TWELVE PLUS TEN PLUS TEN PLUS TEN PLUS EIGHT, WHICH IS FIFTY. NO CHAPTER IS IN TWO BATCHES AND NO
 CHAPTER IS IN NONE.**
@@ -1373,6 +1453,8 @@ written twenty-two — 401 to 422 — were each matched to this row by string an
 line, twenty-two of twenty-two, zero mismatches.** Longest **37** (419), shortest 18 (410), word counts 3 to 8, every
 one inside 3 to 12. The twenty-eight that are not written yet, 423 to 450, collide with **0** of the 422 written
 title lines and with **0** of each other. **A batch that changes one re-runs this and rewrites the row in the same
+
+**THE RE-RUN WAS DONE AGAIN IN THE SAME COMMIT THAT WROTE 443–450, 13 OCTOBER 2026: 450 TITLE LINES ACROSS `chapters/`, 450 DISTINCT, `sort | uniq -d` EMPTY; THE EIGHT OF BATCH 0005 MATCH THIS ROW BY STRING, EIGHT OF EIGHT, ZERO MISMATCHES; CHARACTER LENGTHS 33 / 30 / 27 / 28 / 33 / 30 / 28 / 26, WORD COUNTS 7 / 7 / 6 / 7 / 8 / 6 / 7 / 7, EVERY ONE INSIDE THREE TO TWELVE, LONGEST 33, SHORTEST 26. NO TITLE WAS CHANGED BY THIS BATCH AND NO COLLISION EXISTS.**
 commit.**
 
 **THREE TITLES WERE RETITLED IN THE REVIEW REPAIR OF 13 OCTOBER 2026 AND THE RE-RUN WAS DONE AFTER EACH EDIT. NO

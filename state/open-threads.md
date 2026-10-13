@@ -1,3 +1,130 @@
+# VOLUME 9 BATCH 0005 — GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–450 ARE ON DISK, FIFTY FILES. THE LIVE PHASE IS `workspace/volume-09/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS.
+
+**THE BLOCK IMMEDIATELY BELOW THIS ONE IS BATCH 0004'S REVIEW-REPAIR BLOCK OF 13 OCTOBER 2026 AND IS SUPERSEDED BY THIS ONE AND RETAINED IN FULL. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD — WHICH IS EXACTLY WHAT HAPPENED TO IT TWICE.** Every figure in this block was produced by a command run against `chapters/volume-09/chapter-0443.md` … `chapter-0450.md` after the last edit to the prose, on 13 October 2026.
+
+```
+FILES            chapters/volume-09/ holds 50 files numbered 401..450 with no gap; chapters/ holds 450, numbered
+                 1..450 with no gap, 450 title lines and 450 distinct, sort | uniq -d empty.
+                 **THE EIGHT OF THIS BATCH ARE chapter-0443.md … chapter-0450.md, THE SEVENTEENTH TO THE THIRTIETH OF
+                 JUNE. Every one carries exactly one trailing newline, all eight, checked by command.**
+BANK 0005        **21,984 WORDS, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+                    443 2,494 · 444 2,548 · 445 2,484 · 446 4,647 · 447 2,466 · 448 2,444 · 449 2,401 · 450 2,500
+                  **EVERY ONE OF THE EIGHT IS ABOVE 2,400 AND NONE IS UNDER 1,300, SO THE PER-CHAPTER UNDER-1,300
+                  RULE IN THE CARD IS NOT ENGAGED AND NO CHAPTER NEEDS A REASON RECORDED FOR BEING SHORT.**
+                  **THE ONE FINDING OF 13 OCTOBER THAT PROSE ALONE COULD NOT CLOSE WAS BATCH 0004's LENGTH — 12,100
+                  against this volume's 21,692 / 21,563 / 23,925, with eight of its ten under 1,240 and its closing
+                  chapter at 964. This batch is 21,984 across eight, and 446 is 4,647 because a scene chapter leaves
+                  the band when the scene does, and NOT ONE WORD OF IT IS PADDING: the eight cards each had an unspent
+                  beat and the beat was spent when the last person in it had said what they came to say and gone.**
+                  Volume 9 is **101,264 words** across fifty chapters — 21,692 (0001) + 21,563 (0002) + 23,925 (0003)
+                  + 12,100 (0004) + 21,984 (0005).
+TITLES           450 title lines, 450 distinct, sort | uniq -d empty, re-run. **The eight of this batch are exactly as
+                 banked in outline/volume-09.md §10 and were not changed: 443 The Requisition In His Own Answer (33) ·
+                 444 The Cheapest Thing In The Room (30) · 445 The Clause Under The Minute (27) · 446 The Room In Which
+                 He Is Read (28) · 447 The Fourth Seat Fills And Empties (33) · 448 The Fifth Mark That Never Came (30) ·
+                 449 The Boy With The Paste Brush (28) · 450 The Name On The Black Tile (26). Words 7/7/6/7/8/6/7/7,
+                 every one inside three to twelve, longest 33, shortest 26.**
+MARKDOWN         blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **BOLD SPANS 0** · **ITALIC SPANS 6** (one
+                  in 443, the word *ground* on a printed form; one in 446, the word *public* written against an
+                  application in a day's book; one in 448, the word *carried* read off a printed rule in a chained book;
+                  three in 450, two notebook lines and one quoted sentence). **SYSTEM PANELS: ONE IN THE EIGHT AND IT
+                  IS AT 450, ON ITS OWN LINE, IN SQUARE BRACKETS, NEVER BOLD OR ITALIC:
+                  `[Ledger. One hundred and fifty-eight lines. Ten turned. None of them is him.]` — the volume's second
+                  panel, there because the chapter turns on the ledger, and 414 is the first.**
+PARAGRAPHS       **636 BLANK-LINE-SEPARATED BLOCKS INCLUDING HEADINGS; 564 PROSE PARAGRAPHS, HEADINGS EXCLUDED, AND
+                  564 IS THE FIGURE THE QUOTE-PARITY GATE BELOW WAS RUN OVER. NON-BLANK LINES 636 — WHICH IS THE SAME FIGURE AS
+                  THE BLOCK COUNT, because every block in these eight is one line. LONGEST PARAGRAPH
+                  89 WORDS (447 and 449), 0 OVER ROUGHLY 90, 0 OVER ROUGHLY 120, re-run by command after the last
+                  edit. QUOTATION-MARK PARITY PER PARAGRAPH OVER ALL 636: 0 ODD, so no speech runs across a break.**
+                  **NO AUTOMATIC SPLITTER WAS RUN OVER DIALOGUE.** 67 long paragraphs were hand-split at sentence
+                  boundaries chosen against the text, and where a split fell inside a quotation the paragraph was
+                  closed with a quotation mark and the next reopened with one, which is the house convention and is
+                  what keeps parity at zero. `AGENTS.md`'s lesson 1 — never run a paragraph-length splitter over prose
+                  that contains dialogue — was obeyed by not running one; every split was placed by reading the
+                  sentence it fell after.
+WEEKNAMES        Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0, all eight files,
+                  re-run. **TWENTY-SIX WERE IN THE FIRST DRAFTS AND EVERY ONE WAS REPLACED WITH A PRINTED DATE BEFORE
+                  ANY GATE WAS RUN — WHICH IS THE STANDARD AND IS NOT A NEAR MISS.**
+AGES             0 self-reported ages, probed in BOTH forms (digit forms and spelled-out `-year-old` forms), re-run.
+SETTLE           grep -rio "settle" chapters/volume-09/ -> 0, re-run, across the whole volume and not only the eight.
+RIGHT TEMPLE     grep -rio "right temple" chapters/ -> 0, across all four hundred and fifty chapters.
+BAND FLOORS      **THE ONLY FOUR-DIGIT FIGURE OF ANY KIND IN THE EIGHT IS AT 450 AND IT IS THE CARD: 8,147 and 8,131,
+                  on one line, derived in the chapter from the painted card and from Beatrix Halm's notebook. NO FLOOR
+                  IS PRINTED IN 443, 444, 445, 446, 447, 448 OR 449 AND NO FIGURE OF THE FORM [0-9],[0-9]{3} APPEARS
+                  IN ANY OF THEM.** The plate figure 8,131 was last printed in this volume at 415 and is printed here
+                  once, on the card.
+ARITHMETIC       **RE-RUN BY PARSING THE PROSE, NOT BY EYE. The derivation is (30 − 20) + 30 + 30 + 30 + [June day]
+                  = 100 + the June day number, and every chapter prints its own operands and its own total.**
+                    443 117 (17) · 444 119 (19) · 445 121 (21) · 446 123 (23) · 447 125 (25) · 448 127 (27) ·
+                    449 128 (28) · 450 130 (30)
+                  **EIGHT OF EIGHT PASS: the printed total equals the sum of its own printed operands in every one,
+                  and none is quoted across from another chapter.** Days remaining in the quarter: 13, 11, 9, 7, 5, 3,
+                  2, and at 450 thirty taken from thirty leaves nothing, which is the last working day.
+BANNED           his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no
+                  form 0 · there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0.
+                  **NINE OF NINE AT ZERO. TWO `there is no form` AND TWO `nobody asked` WERE IN THE FIRST DRAFTS AND
+                  WERE REWORDED — a clerk's form and a lodgement's, and an unasked entry in a keeping book — BECAUSE
+                  THOSE TWO CONSTRUCTIONS ARE EFFECTIVE ONCE AND DEAD BY THE TENTH OCCURRENCE IN A NINE-VOLUME BOOK.**
+META-CONTAINER   **THE CLASS, NOT A PHRASE: `nine volumes | this book | this chapter | on the page | the page |
+                  no chapter | these ten | of these ten | the axis | the reader | the novel | the story | the scene`,
+                  run over the eight files: 0. FOUR INSTANCES WERE IN THE FIRST DRAFTS AND ALL FOUR WERE CUT — two
+                  `nine volumes` spoken by a character about himself, one `the page` for a sheet on a counter at a
+                  public post, and one `this book` for a ledger clerk's own notebook.**
+                  **THE EIGHT STALE INSTANCES FROM EARLIER BATCHES WERE NOT FIXED BY THIS PHASE AND ARE FLAGGED, NOT
+                  HIDDEN: `nine volumes` at 405:69, 413:117, 414:127, 417:25, 417:61 and 422:115; and the
+                  narrator-as-book habit at 420:29 (a clerk) and 429:13. THE CLOSE PHASE OWNS THEM.**
+BLANK LINES      0 runs of three or more consecutive blank lines in the eight, re-run.
+DUP 12-GRAM      **RE-RUN CROSS-VOLUME AGAINST ALL FOUR HUNDRED AND FORTY-TWO EARLIER CHAPTERS AFTER EVERY REPAIR.
+                  Tokenisation: heading marks and emphasis marks stripped, dashes and curlies folded,
+                  [^a-z0-9] -> space, split on whitespace, headings NOT excluded. FIRST PASS 104 DISTINCT SHARED
+                  12-GRAM FAMILIES; AFTER FOUR REWORDS AND RE-RUN: 71.**
+                  **THE SEVENTY-ONE ARE ALL CANON SENTENCES, DOCUMENT READINGS, INSTRUMENT RECITALS OR THE HOUSE
+                  ARITHMETIC, AND NOT ONE IS A LINE THIS BATCH WROTE AS PROSE.** The families: the requisition-age
+                  derivation, which is the book's own spoken arithmetic and is printed identically in 433–442 · the
+                  description of the twenty-seventh of October at about eleven by a clerk called Imrie on four words ·
+                  the minute of the twentieth of February with its three seals and *not carried* · the entry of the
+                  ninth of May · the composition of seven since nine forty-one on the morning of the thirteenth of
+                  March · the entry of a consignment in the keeping book on the day it was lodged · the door of the
+                  unnamed wing off a third court · the clause as written out at 445 and read into a slip at the end of
+                  it, which is a clause quoted twice in one chapter by design · and the card's own two figures at 450,
+                  which is the same card read by the same woman at the same wall ninety days after 400.
+                  **FOUR REWORDS WERE MADE FOR THIS ROW: the boy-at-the-counter paragraph in 449, which had overlapped
+                  409 by twenty-four 12-grams; the plate-being-scraped sentence in 447, which had overlapped 376 by
+                  seven; the called-account description in 448, which had overlapped 381; and one paragraph in 444.**
+                  SCAN B, VOLUME-ONLY: no new pair created between any two of 443–450 other than the derivation and the
+                  clause, both named above. At 11-grams: 111. At 8-grams: 515. **A COUNT IS NOT A READING: every one
+                  of the seventy-one was read and classified by hand and the four above are the only ones that were
+                  borrowings in any sense.**
+BORROWED BODIES **READ BEFORE ANY BODY WAS WRITTEN, not after, per `outline/volume-09.md` §4a.** **446 is Ines
+                  Duarte and she carries only what the table gives her: ink at the cuticles of the first two fingers
+                  of the RIGHT hand that soap never lifted, and the grey at the LEFT temple that came in with the
+                  etches.** `right temple` returns 0 across all 450 chapters. **The wrist scar from a fastener in the
+                  spring of her third year was NOT used and is hers alone and stays unused.** No fourth instance of
+                  the ink-under-the-reader's-nose construction. No other woman in the eight received any mark at all:
+                  Sun Meiling, Wren Kallo, Beatrix Halm, Runa Sato, Marguerite Vale, Alma Quayle, Hanneke Ruis and
+                  Solveig Rask appear in these eight carrying nothing new. Dagmar Oyelowo does not appear and was not
+                  given a gift (`PC-44`).
+SCENE 446        **RECORDED SPAN, `## Reading While` TO `## The Hour She Does Not Read`, EXCLUSIVE OF THE BOUNDING
+                  HEADINGS: 1,843 WORDS. LITERAL FIRST-`##`-TO-LAST-`##` SPAN: 1,846 WORDS — and here the two
+                  definitions differ by three, because the scene runs across two sections and the closing heading
+                  carries three words that the bounding-heading count excludes. BOTH ARE PRINTED BECAUSE THE 400
+                  CLOSE AUDIT REQUIRED IT AND A CLOSE AUDIT IS THE ONLY THING THAT WILL EVER NOTICE A COUNT BEING
+                  WRONG.** EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet,
+                  case-insensitive substring): **24 ON THE RECORDED SPAN, 24 ON THE LITERAL SPAN, breakdown
+                  8/5/4/2/1/2/2 — against 20 at 438, 22 at 428, 24 at 417 and 30 at 406.** **NOTHING IN THE CHAPTER
+                  NAMES THE AXIS, AND NOBODY IN IT NAMES A SCENE, A CHAPTER, A VOLUME, A PAGE OR HER OWN
+                  PERFORMANCE, AND THE NARRATOR NEVER ADDRESSES THE READER.** The axis is the voice and it is carried
+                  by the room's rule — in order, the date first, the hour with it, nothing skipped, a reader may stop
+                  and a subject may not — and by a woman who does not stop reading. **THE 380-TO-398 EIGHTEEN-CHAPTER
+                  BREACH IS IN THE BOOK AND IS NOT DESCRIBED ANYWHERE AS CLOSED, CURED, RESOLVED OR DISCHARGED.**
+```
+
+**WHAT WAS DELIBERATELY NOT CHANGED.** The plot. **The batch's three irreversible decisions stand as written: 443 (he says the four words), 445 (he enters the clause), 449 (he decides not to go to the wall).** **No scene moved, no date touched, no recusal lifted, no second question to Wren Kallo, no wing named, no word under the fifth line printed, no offer, no instrument used, no Runa hand figure printed, no gift manufactured, no consignment invented, no fifth mark, no correction and nothing struck.** **The requisition is not carried, not received and not decided, and it is NOT answered in these eight.** No character ages, no marks moved, no title changed. **`outline/ending.md` untouched. No new PC adopted and none withdrawn. No new final enemy. `state/complete.md` was NOT created: the series is planned past 500, Volume 10 is *Returned*, and the ending is Chapter 486.**
+
+**THE TWO FIGURES A LATER PHASE MUST NOT RE-DERIVE FROM ANYWHERE BUT THE PAGE.** **THE CARD OF THE THIRTIETH OF JUNE PRINTS A FLOOR OF 8,147 AND, AGAINST PREMISES 34-6-118, A FIGURE OF 8,131.** Sixteen under, tolerance three, out of band by thirteen. **They were read off a painted card in Chapter 450 and against a notebook in which Beatrix Halm wrote the thirtieth of March, and they were NOT taken from `bible/power-system.md`, whose band table is illustrative, and NOT from `outline/volume-09.md` §5a, which prints no figure for this card.** `PC-57` stands and this is its consequence: **a rank with no card has no plate and no floor, and a consignment has neither, and the floor rose and the plate did not.**
+
+---
+
 # VOLUME 9 BATCH 0004 — REVIEW REPAIR, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–442 ARE ON DISK. THE LIVE PHASE IS `workspace/volume-09/batch-0005/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 443–450.
 
 **THE BLOCK IMMEDIATELY BELOW THIS ONE IS THE WRITING PHASE'S OWN GATE BLOCK, WRITTEN THE SAME DAY AND TAKEN BEFORE THE REVIEW. IT IS SUPERSEDED BY THIS ONE AND RETAINED IN FULL. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD — WHICH IS EXACTLY WHAT HAPPENED TO IT TWICE.**
