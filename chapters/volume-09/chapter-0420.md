@@ -26,7 +26,7 @@ Then she stopped.
 
 She did not say the word *vacant*. He noticed that and she noticed him noticing it.
 
-"A space is not a hole," said the clerk. "A hole is where paper is missing. That is a space where a person would stand and does not. There is a difference and it is the whole of this chapter as far as I am concerned, and I have been the clerk of this room for eleven years and I have signed my name under six figures in that time and not one of them was mine."
+"A space is not a hole," said the clerk. "A hole is where paper is missing. That is a space where a person would stand and does not. There is a difference and it is the whole of it as far as I am concerned, and I have been the clerk of this room for eleven years and I have signed my name under six figures in that time and not one of them was mine."
 
 "Who was in the room."
 

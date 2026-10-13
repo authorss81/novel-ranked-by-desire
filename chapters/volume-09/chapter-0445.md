@@ -2,7 +2,7 @@
 
 He had three days to write a clause and he wrote thirty-one words for it in a notebook at Ferrier Street on the evening of the nineteenth, and on the morning of the twenty-first of June he took them to the room at the end of the corridor and put them on the second table under the window face up.
 
-"It is one hundred and twenty-one days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-one makes one hundred and twenty-one."
+"It is one hundred and twenty-one days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and twenty-one makes one hundred and twenty-one."
 
 "Nine days," said the clerk. "Thirty taken from twenty-one leaves nine. And that is a clause and not a sheet, so put it somewhere else before I touch it."
 
@@ -86,7 +86,7 @@ The clerk sat down, which she almost never did.
 
 "I have understood it."
 
-"You have not," said Runa Sato. "You have understood that you will be able to help them. What you have done is that there is now no office in this city that can come at any of us on a matter to do with that address without walking past you first, and you did it in a notebook, and it did not cost you a grain, and it is the first thing in four volumes that you have got for nothing." She picked her bundle up.
+"You have not," said Runa Sato. "You have understood that you will be able to help them. What you have done is that there is now no office in this city that can come at any of us on a matter to do with that address without walking past you first, and you did it in a notebook, and it did not cost you a grain, and it is the first thing in four years that you have got for nothing." She picked her bundle up.
 
 "I am not going to thank you for it and neither is she and you should count on spending the next forty years being described as a man with a grudge on a corridor."
 
@@ -138,6 +138,6 @@ Runa Sato looked at him for slightly too long.
 
 The clerk shut the drawer and turned the key in it, which she had never done in ninety days, and stood there with her hand on the key while he put his coat on.
 
-"Nine days," she said. "And there are three slips in that drawer and none of them is a minute, and on the thirtieth of June all three of them turn into one, and you have just spent the isolation you have spent four volumes building and it took the eleven words of the second sentence and it cost me a pencil."
+"Nine days," she said. "And there are three slips in that drawer and none of them is a minute, and on the thirtieth of June all three of them turn into one, and you have just spent the isolation you have spent four years building and it took the eleven words of the second sentence and it cost me a pencil."
 
 She let him out at the end of the corridor into a court with nine days in it and the paint at the bottom of a board at the end of a stair saying the Council on the thirtieth of June, and behind him, in a drawer in a room where nine people sat, three pieces of paper that could not be taken back had been lying under a lock that had never been locked before.

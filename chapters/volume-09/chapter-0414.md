@@ -44,7 +44,7 @@ A hundred and forty-nine lines went past a hundred and fifty on an ordinary day 
 
 There was nobody to ask about it. That was the thing about it that he had to sit with.
 
-In five volumes he had gone to nine different women with a fact in his hand and every one of them had been able to do something with it, and there was not one of them he could hand this to, because the count was the thing he had never shown anybody and the reason he had never shown it anybody was that a number you tell is a number that exists somewhere other than inside you.
+He had gone to nine different women with a fact in his hand and every one of them had been able to do something with it, and there was not one of them he could hand this to, because the count was the thing he had never shown anybody and the reason he had never shown it anybody was that a number you tell is a number that exists somewhere other than inside you.
 
 ## Half Past Five, Cordwain
 
@@ -58,7 +58,7 @@ Runa Sato did not look up for about a second and a half.
 
 "Ten what."
 
-"Ten turned lines. It was nine for five volumes and it has been nine since the fourth of January and it is ten as of the morning of the twenty-third, and it is not me."
+"Ten turned lines. It was nine for years and it has been nine since the fourth of January and it is ten as of the morning of the twenty-third, and it is not me."
 
 "It is a carter who works that lane every night, and on the ninth of April, about two in the morning, he found an old woman on the ground and took her up three floors in his own arms, because that was quicker than going for help."
 
@@ -124,6 +124,6 @@ And a woman who prices things had been told a number, out loud, at a corner on a
 
 There is a difference between a fact that is in a book and a fact that is in two people's heads, and the difference is about nine years, and there is no instrument in this city that can move a fact out of a head and into a book or out of a head and into nothing.
 
-He had put it in two people's heads for the first time in nine volumes.
+He had put it in two people's heads, and that was the first thing he had ever said out loud that could not be taken back.
 
 The book said one hundred and fifty and one lines and ten turned and it was not sorry about either of them, and it had crossed a hundred and fifty without a sound, and somewhere in the city a man with a handcart who had never heard the word reservoir was going about his day with the knowledge that a stranger in a queue had put a hand on his and given him back something that had been owed since the ninth of April.

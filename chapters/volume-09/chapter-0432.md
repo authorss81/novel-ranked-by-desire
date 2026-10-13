@@ -2,7 +2,7 @@
 
 The counting room is two floors under the Exchange and you go down behind the plate office, and on the morning of the twenty-seventh of May Solveig Rask had the chained real book open on the board with her writing hand tied into it by a cord, and Hanneke Ruis was standing at the rail holding a cup she had not touched.
 
-"There is a thing I am doing on the thirtieth of June," said Hanneke Ruis, "and I have decided to tell you about it on the twenty-seventh, three days early, and you may put that in whatever file you have got and check the date on it."
+"There is a thing I am doing on the thirtieth of June," said Hanneke Ruis, "and I have decided to tell you about it on the twenty-seventh, thirty-three days early, and you may put that in whatever file you have got and check the date on it."
 
 "Go on."
 

@@ -2,7 +2,7 @@
 
 The doctor keeps a surgery on the ground floor of the building above the third sub-level, and on the morning of the seventh of June she was at the rail outside it with a bag in her hand, and he was there because she had told the clinic he might come and she had not told him to stay away.
 
-"It is one hundred and seven days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and seven makes one hundred and seven."
+"It is one hundred and seven days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and seven makes one hundred and seven."
 
 "Twenty-three days to the thirtieth," said the doctor. "Thirty taken from seven leaves twenty-three. I have walked this corridor every working day for three years and I count it the same way."
 
@@ -60,6 +60,6 @@ The doctor picked up the bag again.
 
 "And on the thirtieth of June there are two."
 
-"On the thirtieth of June there are two." She looked at him directly for the first time that morning. "Tessa Okonkwo receives them. She has ruled the date since the morning of the twenty-fifth of May and she has been looking at it for thirteen days. She will read both and hold what is in them, and that is the whole of her evening, and she has told nobody that either except you."
+"On the thirtieth of June there are two." She looked at him directly for the first time that morning. "Tessa Okonkwo receives them. She has ruled the date since the morning of the twenty-fifth of May and she has been looking at it for twelve days. She will read both and hold what is in them, and that is the whole of her evening, and she has told nobody that either except you."
 
 He nodded. His hands were cold and he put them in his pockets, and he was glad of the anger in her voice, because it was the first true feeling anybody in a white coat had shown him since March, and it meant the fixed day was a day with people in it and not only a date painted on a board.

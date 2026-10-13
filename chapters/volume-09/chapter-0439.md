@@ -2,7 +2,7 @@
 
 The Vestry chapel keeps eleven thousand names in its consult book and Tessa Okonkwo keeps her own count in a drawer in her rooms over the cold store, and on the morning of the tenth of June she had the drawer open and he saw it because she did not shut it when he came in.
 
-"It is one hundred and ten days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and ten makes one hundred and ten."
+"It is one hundred and ten days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and ten makes one hundred and ten."
 
 "Twenty days to the thirtieth," said Tessa Okonkwo. "Thirty taken from ten leaves twenty. I have ruled dates since the nineteenth of October and I do not miss."
 
@@ -56,7 +56,7 @@ He sat.
 
 She opened the drawer again and took out the slip with twelve dates and put it on the table between them.
 
-"The twelfth is the thirtieth of June," she said. "I ruled it on the twenty-fifth of May. I have been looking at it for sixteen days."
+"The twelfth is the thirtieth of June," she said. "I ruled it on the twenty-fifth of May. I have been looking at it for fifteen days."
 
 He looked at it and did not touch it.
 

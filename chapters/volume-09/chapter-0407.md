@@ -70,7 +70,7 @@ He is about to buy the same line again, and this time it is the only door he has
 
 "The floor has gone up fourteen points in one day and down fifteen on a card. Eight hands under a page."
 
-"Three attestations move a plate," she said. "You have never once scored a grain yourself. You have done a great deal and nothing has ever scored and you have known that for five volumes, and every figure you have ever had came from somebody else writing something, and you have spent four months on a kitchen table taking that very seriously."
+"Three attestations move a plate," she said. "You have never once scored a grain yourself. You have done a great deal and nothing has ever scored and you have known that for years, and every figure you have ever had came from somebody else writing something, and you have spent four months on a kitchen table taking that very seriously."
 
 She picked the pen up and drew a line under the column.
 
@@ -98,7 +98,7 @@ He got up as well, because there was one left and he wanted it answered in the r
 
 She looked at him for about four seconds.
 
-"Nothing," said Runa Sato. "That is the whole of the answer and you have had it wrong for eight volumes, and I am going to give it to you in one sentence and then I am going to go and hand a report to a man who does not care."
+"Nothing," said Runa Sato. "That is the whole of the answer and you have had it wrong for years, and I am going to give it to you in one sentence and then I am going to go and hand a report to a man who does not care."
 
 She picked up her coat.
 

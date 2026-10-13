@@ -2,7 +2,7 @@
 
 The room where nine people sit has nine chairs that count and one that does not, and the one that does not has been standing empty at the table since the fourth of December, and on the afternoon of the nineteenth of June Lin Hao spent most of an hour being told what it cost.
 
-"It is one hundred and nineteen days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and nineteen makes one hundred and nineteen."
+"It is one hundred and nineteen days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and nineteen makes one hundred and nineteen."
 
 "Eleven days to the thirtieth," said the clerk. "Thirty taken from nineteen leaves eleven. Sit down. You have been standing in that corridor for four days and it is going to take more than standing."
 

@@ -2,7 +2,7 @@
 
 He went to the public post off a third court at about twenty to four on the afternoon of the twenty-eighth of June because there was nothing else in the city to go and do about it, and because the counter shuts at four whatever is in it, and there were four people in the queue and one of them was a man who had been in this queue on the fifteenth of April and had taken about ninety seconds.
 
-"It is one hundred and twenty-eight days since the twentieth of February," he said, in the street outside, to the shut shutter. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-eight makes one hundred and twenty-eight."
+"It is one hundred and twenty-eight days since the twentieth of February," he said, in the street outside, to the shut shutter. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and twenty-eight makes one hundred and twenty-eight."
 
 He knew that boy. There was a card up on a wall at the head of the Reading at six on the morning of the thirtieth of March, and it had gone up in the way a card goes up, and the hand that spread the paste on it was the hand that took the sheet on the fifteenth of April.
 
@@ -102,7 +102,7 @@ He was aware that he had stopped being a man in a queue.
 
 He stood there a moment and understood that he had gone twenty-odd streets to hear four sentences about a jar.
 
-What he had actually come for, and had not said out loud, was that on the fifteenth of April he had stood at this counter and handed a sheet of plain paper to this boy and gone out into the street with nothing in his hands, and that for seventy-four days it had been the only act of his life with no witness to it that he could not produce anybody for.
+What he had actually come for, and had not said out loud, was that on the fifteenth of April he had stood at this counter and handed a sheet of plain paper to this boy and gone out into the street with nothing in his hands, and that for seventy-three days it had been the only act of his life with no witness to it that he could not produce anybody for.
 
 Nobody knows about it except him and a clerk in a room and, since the ninth of May, seven desks and a woman in an office who read a line in a bundle three days later.
 

@@ -2,7 +2,7 @@
 
 The clerk of the room at the end of the corridor had a printed sheet out on the second table under the window on the morning of the seventeenth of June, and it was the first time in ninety days she had put one out for him, and he stood at the end of it for a while before he understood what it was.
 
-"It is one hundred and seventeen days since the twentieth of February," he said, because the date had to be said somewhere. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and seventeen makes one hundred and seventeen."
+"It is one hundred and seventeen days since the twentieth of February," he said, because the date had to be said somewhere. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and seventeen makes one hundred and seventeen."
 
 "Thirteen days to the thirtieth," said the clerk. "Thirty taken from seventeen leaves thirteen. Sit down, I have had this out since eight."
 

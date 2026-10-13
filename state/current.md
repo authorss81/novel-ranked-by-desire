@@ -1,3 +1,45 @@
+# VOLUME 9 CLOSE — 13 OCTOBER 2026. **VOLUME 9 IS CLOSED. CHAPTERS 401–450, FIFTY FILES, 101,302 WORDS. THE NEXT PHASE IS `workspace/volume-10/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+
+> **VOLUME 9 PAID ITS SENTENCE ON THE FIFTEENTH OF APRIL AND REFUSED THE REWARD.** In this volume, **Lin Hao must reach rank nine**, or **Lin Wei's file stays shut and the account stays open**. **He reached nine at ten minutes to nine that morning, at a public post off a third court, in his own hand, in a queue, with a pen, in ninety seconds, with no instrument and no witness and no holder and no receipt and no copy. Nine cannot open his brother's file, the file was never the thing nine was for, and the account cannot be closed because the only thing that closes one is payment.**
+>
+> **WHAT NINE BOUGHT WAS EXACTLY ONE THING: THE STANDING TO BE CALLED AND ANSWER. THE REQUISITION IS CALLED AND IS NOT CARRIED, NOT RECEIVED AND NOT DECIDED, AND IT IS ANSWERED AT ABOUT TWO O'CLOCK ON THE AFTERNOON OF THE THIRTIETH OF JUNE.**
+
+## 0. VOLUME 10 OPENS AT TWO O'CLOCK ON THE AFTERNOON OF THE THIRTIETH OF JUNE
+
+**THE OPENING POSITION, IN ONE PARAGRAPH, AND A VOLUME 10 WRITER NEEDS NOTHING ELSE TO START.** He is standing in a room at the end of a corridor off a second landing where nine people sit and the standing number is **five**, and he is in it for the first time in nine volumes, as the fifth, with a seal he did not ask for and cannot refuse and carries out of the building at four o'clock in the afternoon for the rest of his life. **On the twenty-third of May he entered a clause under the minute — where a minute names premises, no person keeping an address so named may be produced by that minute otherwise than in the presence of the subject, and the subject may not be absent from the making of it — so from today nothing that room says about his address can be used without him standing in the corridor outside the door.** **A woman who cannot be sworn is sitting at the chair that is not one of the nine and he does not know whether she came.** **A man restored by a vote in April is in the fourth seat.** **He said *because it is cheaper* out loud in that corridor on the seventeenth of June, after the clerk told him not to, and it is in a book and cannot be taken out, and Mrs Imrie may never be asked about it.** **Alma Quayle is recused and is in the room at a chair that is not one of the nine, hearing everything and taking no part.** **The ground is his own description of his own premises, and a lodged man cannot be administered against a composition he is not keeping.**
+
+## 1. WHAT THE CLOSE AUDIT REPAIRED, AND NOTHING ELSE IT TOUCHED
+
+**TWENTY-NINE PROSE REPAIRS ACROSS TWENTY-SIX CHAPTERS. EVERY ONE IS A FIGURE OR A REGISTER. NOT ONE CHANGED A FACT, A DATE IN THE FICTION, A PLOT BEAT, A CHARACTER, A TITLE, A SCENE, A SYSTEM PANEL OR A PC. ONE FURTHER REPAIR WAS MADE, FOUND WRONG ON A SECOND DERIVATION, AND REVERTED — SEE `reviews/volume-09/volume-close.md` §5b.**
+
+- **THE META-CONTAINER CLASS WAS 28 AND NOT 8**, because the live gate grepped the phrase `nine volumes` and not the class. **Twenty-six `<number> volumes` and two `this chapter`, all repaired.** This is Batch 0004's own review fault repeated one batch later.
+- **THE REQUISITION-AGE DERIVATION, 433 TO 450, WAS ON A REAL CALENDAR** — *eight from twenty leaves eight, with thirty-one and thirty and thirty-one* — in a book where a month is thirty days and has no thirty-first. **Now *ten from twenty leaves ten, with thirty and thirty and thirty*.** **18 of 18 totals re-derive from their own printed operands. 433's total moves 98 → 99, which is what 413, 419, 420, 421, 422, 423, 425 and 430 already said.**
+- **ELEVEN FURTHER INTERVALS WITH A NAMED ANCHOR WERE WRONG AND ARE REPAIRED**, including *seventy-five days* at 412 whose own operands sum to sixty-nine, and a single figure — *eighty-four days* — printed at 425, 434 and 442, three chapters thirty days apart, where it had to be derived three times.
+
+**THE THREE IRREVERSIBLE DECISIONS STAND EXACTLY AS WRITTEN — 443 (he says the four words), 445 (he enters the clause), 449 (he decides not to go to the wall) — AND THE VOLUME'S OWN FOURTH AT 409, WHICH IS THE MOVEMENT ALL THE REST STANDS ON.** The volume's last image is unchanged: he is standing under the ranks wall with a chalk mark on his own fingers and a corridor to be at at two o'clock in the afternoon.
+
+## 2. THE FIVE DEBTS, AND NONE OF THEM IS DESCRIBED AS ANYTHING BUT A DEBT
+
+**`PC-28` — carried forward and not fixed · the 380-to-398 eighteen-chapter scene breach — a debt · Batch 0004's length — a decision, taken twice · `chapter-0403.md:9` prints a floor against §5a · nine intervals with no falsifiable anchor.** Full derivations at `reviews/volume-09/volume-close.md`.
+
+## 3. WHAT IS STILL SHUT AT THE CLOSE
+
+Lin Wei's file · the second folio of 4,112 · B103 · **the string `settle`, 0 across `chapters/volume-09/`** · Ines's lost day and record · the unstamped reads · the ninth turned line's meaning · the seventh returned line · the bare slot on the Reading wall — **now named on the black tile, which is not the bare slot** · the reason the account has an address · Anouk Ferreira's unoffered offer · **any offer of any kind** · who Wren Kallo tells · October's song · the reach of 486's return · unrecorded ownership, which is Volume 10's · the woman Wren Kallo gave the shape to · Perrin Sowe's four lines · Mrs Imrie, never asked · Dagmar's first thing and `PC-44` · Alma Quayle's recusal, **still recused** · Nikolai Vester · the sixth seat · Imrie's eleven minutes · the two minutes neither he nor Wren Kallo wrote · Beatrix Halm's notebook line about him that has nothing in it · Wanda Rej's plaster, state only · Ines's standing review · **Sun Meiling's row and her bar, told once at 434 and never re-told** · **Marguerite Vale's fourth line, refused a correction three times at 448, not struck** · **the instrument he swore on the ninth of May never to use, still unused** · **and `outline/ending.md` untouched: the reservoir is returned in full at 486, he ends at rank one, the great offer is 486's, and there is no new final enemy.**
+
+## 4. THE ONE SENTENCE VOLUME 10 INHERITS
+
+> **He has now given away everything that can be given away on paper, and the paper has stopped being the dangerous part.**
+
+## 5. THE FIGURES THAT TRAVEL FORWARD, AND A LATER PHASE MUST NOT RE-DERIVE THEM FROM ANYWHERE BUT THE PAGE
+
+**Ledger 158 lines, ten turned, the ninth himself since the fourth of January, the tenth a carter off Ferrier Street. Requisition 130 days old at the thirtieth of June, capable since the fifteenth of April, not carried, not received, not decided. Room at five. Roll entered against 8,131 on the second of April and not correctable. Composition of premises 34-6-118 is seven and the composition certificate for the quarter beginning the first of July does not exist. Card of the thirtieth of June: 8,147 floor, 8,131 against the premises, sixteen under, tolerance three, out of band by thirteen. The black tile has a name on it in chalk and no plate. Clause of `PC-91` is 38 words; 26 is what Runa Sato reads; 11 is the second sentence he says aloud twice; 31 is the notebook draft.**
+
+**THE VOLUME'S SCENE SCHEDULE CLOSES AT 8, 11, 11, 10, 8 ON BOTH THE MIXED AND THE EXPLICIT COUNT, and Volume 10 owes its own count and may not inherit the eighteen.**
+
+---
+
+~~SUPERSEDED BY THE CLOSE BLOCK ABOVE. RETAINED IN FULL.~~
+
 # VOLUME 9 BATCH 0005 HEAD RECORD — AFTER THE REVIEW REPAIR OF 13 OCTOBER 2026. **CHAPTERS 401–450 ARE ON DISK. ALL FIFTY OF THEM. THE NEXT PHASE IS `workspace/volume-09/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS.**
 
 > **THE REPAIR TOOK EIGHTEEN CHAPTERS AND ONE OUTLINE BLOCK AND CHANGED NO PLOT, NO TITLE, NO SCENE, NO DATE IN THE FICTION AND NO CHARACTER.** All seven findings in `logs/batch-0005.review.log` are fixed. **THE THREE IRREVERSIBLE DECISIONS, THE REQUISITION, THE SITTING, THE 130 DAYS AND THE CARD ARE ALL EXACTLY AS THEY WERE.** The volume-close prompt is untouched and is still the one live phase.

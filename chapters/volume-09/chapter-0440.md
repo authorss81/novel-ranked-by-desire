@@ -2,7 +2,7 @@
 
 Eight women were at the kitchen table at Ferrier Street at half past eight on the evening of the twelfth of June, and the ninth name on the roll was not at that table and had never been at it, and Isolde Marchetti counted them out loud the way she sums, because somebody had to say it.
 
-"It is one hundred and twelve days since the twentieth of February," he said from the doorway, because the date had to be said somewhere. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twelve makes one hundred and twelve."
+"It is one hundred and twelve days since the twentieth of February," he said from the doorway, because the date had to be said somewhere. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and twelve makes one hundred and twelve."
 
 "Eighteen days to the thirtieth," said Runa Sato. "Thirty taken from twelve leaves eighteen. That is the quarter."
 

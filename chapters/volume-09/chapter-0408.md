@@ -40,7 +40,7 @@ Beatrix Halm wrote nothing down, which is what she does when the number is one s
 
 He did not soften it and he did not apologise for it and he did not look at one person more than another.
 
-"I cannot get to nine on merit. There is nothing in me that scores and there has not been for five volumes. And I cannot get there on what I have, because none of it is scoreable. The only thing in this business that can be given away is a figure other people have already put under me, and every one of those names is now a document somebody can produce. That is the whole trade. There is no other door and there never was one."
+"I cannot get to nine on merit. There is nothing in me that scores and there has not been for years. And I cannot get there on what I have, because none of it is scoreable. The only thing in this business that can be given away is a figure other people have already put under me, and every one of those names is now a document somebody can produce. That is the whole trade. There is no other door and there never was one."
 
 He stopped.
 

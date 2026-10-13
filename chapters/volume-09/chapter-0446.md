@@ -4,7 +4,7 @@ The reading room is on the first floor over the counting house and it has a tabl
 
 That is the rule and it is the only rule anybody enforces.
 
-He said the date to a clerk on the stair at a quarter to nine, while she was still walking. "One hundred and twenty-three days since the twentieth of February. Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-three makes one hundred and twenty-three. And seven days to the thirtieth, because thirty taken from twenty-three leaves seven."
+He said the date to a clerk on the stair at a quarter to nine, while she was still walking. "One hundred and twenty-three days since the twentieth of February. Ten from twenty leaves ten, ten with thirty and thirty and thirty and twenty-three makes one hundred and twenty-three. And seven days to the thirtieth, because thirty taken from twenty-three leaves seven."
 
 She said the seven back to him without breaking stride and went on up, and that was the only person in this city who had said a number to him that morning and gone away with it.
 

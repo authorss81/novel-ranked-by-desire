@@ -10,7 +10,7 @@ A weekly return carries a standing and carries no names. She turned it round so 
 
 Nine ruled lines. One, two, three, four and five had something in them, and the first four were old enough that the ink had gone brown and the fifth was about six weeks old and still had the sheen on it.
 
-Six, seven, eight and nine were empty. And under the nine of them there was a tenth line with a box at the end of it, and the box had something in it in her own hand that he had seen once on the fifteenth of April and once on the sixth of May and which this chapter is not going to print.
+Six, seven, eight and nine were empty. And under the nine of them there was a tenth line with a box at the end of it, and the box had something in it in her own hand that he had seen once on the fifteenth of April and once on the sixth of May and which nothing in this room is going to print.
 
 "It went out on the ordinary stream at four on the afternoon of the twenty-second, to seven desks," said the clerk. "It came back up this morning at about eleven, in a bundle, with eleven other things, and it came back because a division that has been sent a paper it has no business holding sends it back up the chain unanswered, and there is no instrument in this city by which a division can dispose of a return and dispose of it properly at the same time."
 

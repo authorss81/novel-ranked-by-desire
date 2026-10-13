@@ -1,3 +1,129 @@
+# VOLUME 9 CLOSE AUDIT — 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. CHAPTERS 401–450 ARE ON DISK, FIFTY FILES. VOLUME 9 IS CLOSED. THE NEXT PHASE IS `workspace/volume-10/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+
+**THIS BLOCK WAS WRITTEN FROM OUTSIDE THE FIVE PASSES THAT WROTE THE VOLUME, AND IT RE-RAN EVERY ROW AGAINST `chapters/volume-09/` AFTER ITS OWN LAST EDIT. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD. **FOUR FIGURES IN THE BLOCKS BELOW DID NOT REPRODUCE AND EVERY ONE OF THEM IS CORRECTED HERE, AND IN TWO CASES THE RECORD WAS UNDER-COUNTING A DEFECT BY MORE THAN A FACTOR OF THREE.**
+
+**THE FOUR CORRECTIONS TO THE BLOCKS BELOW, NAMED SO A WRITER PROMPT THAT GREPS THIS FILE FINDS THEM.**
+
+1. **THE META-CONTAINER CLASS IS TWENTY-EIGHT INSTANCES AND NOT EIGHT, AND ALL TWENTY-EIGHT ARE NOW REPAIRED.** The blocks below recorded eight because they grepped the phrase `nine volumes`. `grep -rioE '\b[a-z]+ volumes\b' chapters/volume-09/` returned **twenty-six**, and `this chapter` returned **two**. **This is Batch 0004's own review fault repeated one batch later** — *it recorded one phrase and not the class*. **The class is `[a-z]+ volumes`, not a number-word list.**
+2. **THE REQUISITION-AGE DERIVATION FROM 433 TO 450 WAS ON A REAL CALENDAR AND IS NOW ON THE WORLD'S.** It read *Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and —*, which is a 28-day February and 31-day March and May, in a book where **a month is thirty days and has no thirty-first**. It is now *Ten from twenty leaves ten, with thirty and thirty and thirty and —*. **Eighteen of eighteen totals re-derive, and 433's total moves 98 → 99, which is what 413, 419, 420, 421, 422, 423, 425 and 430 already said.**
+3. **THE 446 "LITERAL" SPAN OF 1,846 WAS NOT A SPAN.** The recorded span is **1,843** and the literal first-`##`-to-last-`##` span is **3,847**. 1,846 is the recorded span plus the two words of the opening heading `Reading While`. **The scene runs across three sections, not two.** The 406 spans are **2,072 recorded and 2,603 literal**, not 2,079 and 2,596.
+4. **THE VOLUME IS 101,302 WORDS, NOT 101,290**, and the whole-volume paragraph figures are **3,250 blocks / 2,931 prose paragraphs / 3,250 non-blank lines**, which are not comparable to the 443–450-only figures in the blocks below and are labelled whole-volume so they cannot go stale silently again.
+
+```
+FILES            chapters/volume-09/ holds 50 files numbered 401..450 with no gap; chapters/ holds 450, numbered 1..450
+                 with no gap. **NO CHAPTER 451 EXISTS ANYWHERE IN THE REPOSITORY** (find -name '*0451*' -> 0). Every one
+                 of the fifty carries exactly one trailing newline, all fifty, by command, and exactly one `# ` title line.
+BANK             **101,302 WORDS ACROSS FIFTY CHAPTERS, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w. WAS 101,290
+                 BEFORE THE CLOSE AUDIT'S TWENTY-NINE PROSE REPAIRS.**
+                   401 1,483 · 402 1,918 · 403 1,619 · 404 1,924 · 405 1,836 · 406 3,257 · 407 1,463 · 408 1,508
+                   409 1,782 · 410 1,442 · 411 1,632 · 412 1,828 · 413 1,890 · 414 1,960 · 415 1,980 · 416 2,192
+                   417 3,787 · 418 2,487 · 419 1,781 · 420 1,844 · 421 1,704 · 422 1,943 · 423 2,978 · 424 2,593
+                   425 2,542 · 426 2,011 · 427 1,962 · 428 3,385 · 429 2,085 · 430 2,125 · 431 2,047 · 432 2,197
+                   433 1,197 · 434 1,202 · 435 1,239 · 436 1,189 · 437 1,096 · 438 1,722 · 439 1,188 · 440 1,182
+                   441 1,121 · 442 964 · 443 2,493 · 444 2,548 · 445 2,500 · 446 4,646 · 447 2,471 · 448 2,444
+                   449 2,409 · 450 2,501
+                 **THE +12 IS TWENTY-NINE FIGURE-AND-REGISTER REPAIRS AND NOTHING ELSE. NO CHAPTER WAS PADDED.**
+TITLES           450 title lines, 450 distinct, sort | uniq -d empty. Volume 9's fifty run 3 to 8 words, 18 to 37
+                 characters, every one inside three to twelve and under ninety. **None begins with *What*; none is built out of
+                 *there is no* / *nobody* / *nothing* / *what*. NO TITLE WAS CHANGED BY THE CLOSE AUDIT.**
+MARKDOWN         blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **BOLD SPANS 0** · **ITALIC SPANS 37** (complete
+                 `*…*` pairs, counted as pairs and not as asterisks, across the fifty).
+                 **SYSTEM PANELS: TWO IN FIFTY, AND THEY ARE THE TWO THE VOLUME PLANNED.**
+                   chapter-0414.md:19  [Ledger. One hundred and fifty lines. Ten turned. It is not sorry about either of them.]
+                   chapter-0450.md:139 [Ledger. One hundred and fifty-eight lines. Ten turned. None of them is him.]
+                 Both on their own line, in square brackets, never bold and never italic. **NO THIRD PANEL WAS WRITTEN.**
+PARAGRAPHS       **3,250 BLANK-LINE-SEPARATED BLOCKS INCLUDING HEADINGS · 2,931 PROSE PARAGRAPHS, HEADINGS EXCLUDED, AND
+                 2,931 IS THE FIGURE THE QUOTE-PARITY GATE WAS RUN OVER · NON-BLANK LINES 3,250. THESE ARE WHOLE-VOLUME
+                 FIGURES AND ARE NOT COMPARABLE TO THE PER-BATCH FIGURES IN THE BLOCKS BELOW.** LONGEST PARAGRAPH UNDER
+                 90 WORDS; **0 OVER ROUGHLY 90, 0 OVER ROUGHLY 120. QUOTATION-MARK PARITY PER PARAGRAPH OVER ALL 2,931:
+                 0 ODD**, so no speech runs across a break. **NO AUTOMATIC SPLITTER WAS RUN OVER PROSE.**
+WEEKNAMES        Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all seven, whole-word
+                 and case-insensitive, across all fifty files. Substring hits on Mon/Fri/Sun are `months`, `frightened` and
+                 Sun Meiling.
+AGES             0 self-reported ages, probed in BOTH forms (digit `-year-old` / `aged N` / `N years old`, and spelled-out
+                 `he/she (twenty|thirty|forty|fifty|sixty) years`). A span of years is permitted and an age is not.
+META-CONTAINER   **THE CLASS, GREPPED AS A CLASS AND READ HIT BY HIT:** `[a-z]+ volumes | this book | this chapter | this
+                 volume | no chapter | the axis | the reader | the novel | the story | the scene`.
+                 **`… volumes` 0 · `this chapter` 0 · `this volume` 0 · `no chapter` 0 · `the axis` 0 · `the reader` 0.**
+                 **`this book` RETURNS 8 AND EVERY ONE IS A PHYSICAL KEEPING BOOK** (Dagmar's at her counter at 402; the
+                 clerk's at 412 x2, 420, 422, 425, 436; a keeper's at 427). **`the page` / `on the page` return 9 and every
+                 one is a leaf on a table.** `in this city` is the city and is not the class.
+DUPLICATION      12-gram against all 400 earlier chapters: **56 shared families, unchanged by the repairs, and EVERY ONE
+                 CLASSIFIED BY HAND.** The witness-line rule across 407/408/410/411, which `outline/volume-09.md` §6 records
+                 as said once *in 385's own words, because it is 385's sentence* · the Imrie description of the twenty-seventh
+                 of October across 424, 441, 442, 443, 446, 447 · the requisition minute at 425 · the composition of seven
+                 at 434 · the certificate formula at 433 · the medical return at 437 · `PC-53`'s wing rule at 442 · the card's
+                 reading rule at 448 and 450 · the card's two figures at 450 (the same card, the same woman, ninety days after
+                 400) · Isolde quoting her own sentence of the third of January at 416 against 395 · the keeper's written
+                 request at 426 against 375 · the *stranger with a folder* register at 435 against 391/392/393 ·
+                 **AND THE ONE BORDERLINE, `428:87` AGAINST `109:125` — A REPEATED BEAT BETWEEN TWO DIFFERENT WOMEN, RECORDED
+                 AND NOT REPAIRED.**
+                 11-grams 135 · 8-grams 1,511. **NO NEW FAMILY WAS CREATED BY THE REPAIRS.**
+                 Exact duplicate paragraphs of 8+ words: **2 within the volume** (a witness line recited twice in 420; `She put
+                 both hands flat on the table.` at 423 and 446) **and 9 against earlier volumes, all six-to-nine-word stage
+                 directions. These are the book's physical grammar and are recorded, not rewritten.**
+ARITHMETIC       **18 OF 18 PASS. Every derivation from 433 to 450 now prints ten from twenty, thirty and thirty and thirty,
+                 and the day, and the printed total equals the sum of its own printed operands in every one.**
+                   433 99 (29 May) · 434 101 · 435 103 · 436 105 · 437 107 · 438 109 · 439 110 · 440 112 · 441 113 · 442 115
+                   · 443 117 · 444 119 · 445 121 · 446 123 · 447 125 · 448 127 · 449 128 · 450 130
+                 **433 IS 99 AND WAS 98. EVERY OTHER TOTAL IS UNCHANGED. THE FIGURE THAT TRAVELS FORWARD IS 130 AT 450.**
+                 Days remaining in the quarter, 443 to 450: 13, 11, 9, 7, 5, 3, 2, and nothing.
+                 Earlier ages re-verified: 63 at 413 · 74 at 419 · 76 at 420 · 77 / 53 / 22 at 421 · 79 at 422 · 81 at 423 ·
+                 85 at 425 · 94 at 430. The ninety days from the thirtieth of March to the thirtieth of June is ninety.
+                 **ELEVEN FURTHER INTERVALS WITH A NAMED ANCHOR WERE WRONG AND WERE REPAIRED — 412, 418 x2, 425, 432, 434, 437,
+                 439, 442 x2, 447, 449, 450 — including a single figure, `eighty-four days`, printed at three
+                 chapters thirty days apart where it had to be derived three times. NINE MORE HAVE NO FALSIFIABLE ANCHOR AND
+                 ARE RECORDED AS UNVERIFIED IN `reviews/volume-09/volume-close.md` §5b.**
+                 **AND A TWELFTH, WHICH THIS AUDIT GOT WRONG AND REVERTED: `chapter-0433.md:51` read *you have carried it
+                 for forty days* since the nineteenth of April at 29 May, which IS FORTY (11 to the thirtieth + 29). The audit
+                 repaired it to seventy and a second derivation taken from the spine parsed out of §5b showed the audit's own
+                 arithmetic was the error. THE CHAPTER WAS RIGHT, THE REPAIR IS REVERTED, AND THE LESSON IS RECORDED: DERIVE
+                 EVERY INTERVAL TWICE, ONCE FROM THE RULE AND ONCE FROM THE SPINE, BEFORE A REPAIR IS APPLIED.**
+BAND FLOORS      **8,147 APPEARS ONCE IN THE WHOLE VOLUME, AT 450, READ OFF A PAINTED CARD IN THE OFFICE'S OWN HAND ON THE
+                 OFFICE'S OWN PAPER AND CROSS-CHECKED AGAINST BEATRIX HALM'S NOTEBOOK. 8,147 - 8,131 = SIXTEEN UNDER,
+                 TOLERANCE THREE, OUT OF BAND BY THIRTEEN.** Across the whole volume four chapters print a four-digit figure:
+                 **402, 403, 412 and 415 all print 8,131, WHICH IS THE PLATE AND NOT A FLOOR; 403 ALSO PRINTS 8,146, WHICH
+                 IS A FLOOR AND IS RECORDED AS A BREACH OF THE LETTER OF §5a AND LEFT ALONE, because it is Volume 8's
+                 thirtieth-of-March card recited and not the June figure and nothing was derived from it.**
+LEDGER           **142 on the fourteenth of March · 149 on the twenty-third of April · 150 on the twenty-fifth · 151 at half
+                 past ten on the night of the twenty-fifth · 158 at the thirtieth of June. 9 + 7 = 158. TEN TURNED
+                 THROUGHOUT, IN EVERY PLACE IT APPEARS. THE NINTH IS STILL HIMSELF SINCE THE FOURTH OF JANUARY. THE TENTH
+                 IS A CARTER OFF FERRIER STREET AND NOT HIM.**
+SETTLE           grep -rio "settle" chapters/volume-09/ -> 0.
+RIGHT TEMPLE     grep -rio "right temple" chapters/ -> 0 across all four hundred and fifty chapters. `left temple` -> 15.
+SCENES           **ALL FIVE WRITTEN OUT, NONE UNDER 900 WORDS. PROBES 30 / 24 / 22 / 20 / 24 ON THE RECORDED SPAN.**
+                   406 Petra Ilyin   recorded 2,072 · literal 2,603
+                   417 Nadia Ferrous recorded 2,056 · literal 2,978
+                   428 Runa Sato     recorded 1,361 · literal 2,852
+                   438 Beatrix Halm  recorded 1,136 · literal 1,136
+                   446 Ines Duarte   recorded 1,843 · literal 3,847
+                 **NO NARRATOR ADDRESSES THE READER IN ANY OF THE FIVE AND NOBODY IN ANY OF THE FIVE NAMES A SCENE, AN AXIS,
+                 A CHAPTER, A VOLUME, A PAGE OR HER OWN PERFORMANCE. 438 and 446 break their axis without naming it; 406,
+                 417 and 428 name theirs before the scene rather than inside it.**
+BORROWED BODIES **READ §4a BEFORE ANY BODY WAS EXAMINED. `right temple` 0 across all 450. Ines Duarte's ink is the first
+                 two fingers of the RIGHT hand and her grey is at the LEFT temple and the wrist scar is not used. Wren Kallo
+                 carries no mark at all in 401-450; her ink was used at 350 and 398 and 398 did not reuse the yellow. Sun
+                 Meiling has one new physical fact and no mark. Dagmar Oyelowo has no gift and is not given one. Marguerite
+                 Vale has ink at the cuticles, both hands, no hand named. `ink at the cuticles` appears FOUR TIMES IN THE
+                 WHOLE BOOK — 329, 340, 404, 446 — two per woman, one per woman's Volume 9 appearance. NO BORROWED BODY.**
+BANNED           his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no form 0 ·
+                 there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0.
+```
+
+**THE FIVE DEBTS THIS BLOCK RECORDS, AND IT DESCRIBES NONE OF THEM AS CLOSED, CURED, RESOLVED, SETTLED, DISCHARGED OR PAID.**
+
+1. **`PC-28` — CARRIED FORWARD AND NOT FIXED.** `chapters/volume-08/chapter-0359.md` heads a section **The Nine Days** and says nine days and eight days for an interval of three days. **It is a miscount inside one sealed block, not a canon error; the repair is not mechanical because *nine days* and *eight days* are doing psychological work; and nothing propagates — no chapter of 401–450 reproduces the interval.** `445` carries a section head `## Nine Days` and its figure is `thirty taken from twenty-one leaves nine`, correct, independent, and recorded as a coincidence of the number and not a propagation.
+2. **THE 380-TO-398 EIGHTEEN-CHAPTER SCENE BREACH IS IN THE BOOK AND IS A DEBT.** `AGENTS.md` allows fifteen. It was inherited and deliberately not repaired because 398 is Volume 8's last scene and moving it would have closed that volume rather than repaired it. **Volume 9 did not repeat it: the schedule closes at 8, 11, 11, 10, 8 on BOTH the mixed and the explicit count, because `PC-44` puts the only partner with no gift off the schedule entirely.** **A repair means moving a scene and that is a planning decision, not an audit's.**
+3. **BATCH 0004'S LENGTH — 12,100 WORDS ACROSS TEN CHAPTERS AGAINST 21,692 / 21,563 / 23,925 / 22,010 — IS A DECISION AND NOT A REPAIR, TAKEN TWICE ALREADY, AND IT STANDS.** Closing it means writing about six thousand words that are not on the page and `AGENTS.md` forbids padding more strongly than it requires a length.
+4. **`chapter-0403.md:9` PRINTS A FLOOR (8,146) AGAINST §5a.** It is the March card recited from 400 and not a derived June figure. Recorded and left.
+5. **NINE INTERVALS WITH NO FALSIFIABLE ANCHOR** are recorded as unverified at `reviews/volume-09/volume-close.md` §5b. **This audit does not invent an anchor and does not repair a number it cannot derive.**
+
+**AND THE ITEM THE NEXT PLANNING PHASE OWNS: the four live state files are 439 KB, 548 KB, 408 KB and 316 KB and are built by appending every superseded block in full. `state/archive/` is not empty and the precedent is set. Volumes 6 to 9 are what the live files still carry in full. This close truncated nothing. The archive step is Volume 10 planning's to take or to decline.**
+
+**THE TWENTY-EIGHT META-CONTAINER INSTANCES MENTIONED IN CORRECTION 1 ABOVE ARE THE ONES THE BLOCKS BELOW LISTED AS EIGHT. THEY ARE REPAIRED IN THE PROSE AND NO LONGER EXIST ON THE PAGE. The blocks below are retained in full and are wrong in the rows this block names.**
+
+---
+
 # VOLUME 9 — INDEPENDENT VERIFICATION PASS, 13 OCTOBER 2026. **THIS BLOCK WRITES NO CHAPTERS AND CHANGES NO FICTION. IT RE-RUNS THE TWO ROWS OF THE LIVE BLOCK BELOW THAT A PRIOR PASS HAD NOT REPRODUCIBLELY MEASURED, AND TWO FIGURES IN THE RE-RUN DO NOT REPRODUCE.**
 
 **WHY THERE IS NO CHAPTER PASS BEHIND THIS BLOCK.** `workspace/volume-09/batch-0004/PROMPT.md` was re-dispatched after its backoff and **the work it asks for is already on disk, reviewed, repaired, superseded and built upon.** Chapters 433–442 exist as ten finished chapters; chapters 443–450 exist and are gate-certified; `workspace/volume-09/batch-0005/PROMPT.md` exists and its directory carries `.done`; and the live phase is `workspace/volume-09/volume-close/PROMPT.md`, a close phase that writes no chapters. **The prompt's own instruction — *read the head of this file before any file else, a figure in a gate block is a claim and the re-run outranks it* — is what settles it, and the re-run outranks the prompt.** Rewriting 433–442 would restart completed chapters, destroy reviewed prose, and desynchronise eight later chapters and the close prompt that were written against them. **No chapter file was opened for writing. No fiction was altered. No `.done`, `.blocked`, `.deferred`, `.attempts` or `.retry-after` file was created, edited, moved or deleted.**

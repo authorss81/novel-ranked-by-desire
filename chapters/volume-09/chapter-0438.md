@@ -2,7 +2,7 @@
 
 The north end of the ranks wall is quiet after the painters have gone, and on the evening of the ninth of June Beatrix Halm was there with her notebook shut on the ledge and her pencil in her pocket, and he stopped about six feet away so that she could see him coming and did not have to hear him.
 
-"It is one hundred and nine days since the twentieth of February," he said, because the date was the only thing to say first. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and nine makes one hundred and nine."
+"It is one hundred and nine days since the twentieth of February," he said, because the date was the only thing to say first. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and nine makes one hundred and nine."
 
 She watched his mouth and nodded once.
 

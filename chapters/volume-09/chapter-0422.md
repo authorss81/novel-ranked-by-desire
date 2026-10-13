@@ -112,4 +112,4 @@ And it would cost a woman something she had not agreed to spend, every time, and
 
 He put his hands in his coat and left the corridor and went down the iron stair and did not go up it.
 
-That is the only instrument he has, and he has decided tonight that he is not going to use it again, and there is not one person in Ostara he is going to tell that about, and on the ninth of May at about ten past five it is the only thing in nine volumes he has ever decided not to do.
+That is the only instrument he has, and he has decided tonight that he is not going to use it again, and there is not one person in Ostara he is going to tell that about, and on the ninth of May at about ten past five it is the only thing he has ever decided not to do.

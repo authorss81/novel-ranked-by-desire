@@ -64,9 +64,9 @@ She waited until he had stopped.
 
 She picked the docket up off the sill.
 
-"That is the price. It is not fear and I want that written down in whatever you are keeping, because you have gone eight volumes without asking anybody for one single thing and this is the first time you have asked and you are going to go home and tell them a woman said no, and the true sentence is that a woman said *one at a time* and has been saying it in her own mouth for eleven years."
+"That is the price. It is not fear and I want that written down in whatever you are keeping, because you have gone years without asking anybody for one single thing and this is the first time you have asked and you are going to go home and tell them a woman said no, and the true sentence is that a woman said *one at a time* and has been saying it in her own mouth for eleven years."
 
-He did not argue. It was the first time in nine volumes that he had been told no by somebody who wanted to say yes, and the not-arguing took about four seconds and cost him more than anything he had said that week.
+He did not argue. It was the first time he had ever been told no by somebody who wanted to say yes, and the not-arguing took about four seconds and cost him more than anything he had said that week.
 
 "Right," he said. "Thank you."
 

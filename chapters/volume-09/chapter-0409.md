@@ -88,7 +88,7 @@ It had stood at four since the first of April, and the fourth was Bertram Sallow
 
 And at about ten past nine on the morning of the fifteenth of April it stood at five, and the fifth was a man who had walked into a hall off a third court with one sheet of plain paper and given it to a boy with the same hands as the boy who paints cards on walls, and who had got nothing for it and could not get it back.
 
-He had spent eight volumes building one thing. A requisition that could not be carried because a room could not reach five.
+He had spent years building one thing. A requisition that could not be carried because a room could not reach five.
 
 He had just supplied the fifth himself.
 

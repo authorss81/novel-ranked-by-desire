@@ -50,7 +50,7 @@ She put the cap back on the pen.
 
 "What I do not know," she said, "is what you have not told me. There is something you have not told me since the nineteenth of April and you have carried it for forty days. I can see the shape of it in the way you stand in my doorway."
 
-"It is ninety-eight days since the twentieth of February," he said. "Eight taken from twenty leaves eight, and eight with thirty-one and thirty and twenty-nine makes ninety-eight. The requisition has been administered weekly against the composition since the first of April."
+"It is ninety-nine days since the twentieth of February," he said. "Ten taken from twenty leaves ten, and ten with thirty and thirty and twenty-nine makes ninety-nine. The requisition has been administered weekly against the composition since the first of April."
 
 "I know that too."
 
@@ -98,7 +98,7 @@ He stayed in the doorway and did not speak.
 
 After about a minute she put the sheet in the tray for the outgoing run and squared it against the edge, the way the clerk of another room squares a bundle.
 
-"There are two days left in this month," she said. "Thirty taken from twenty-nine leaves one, and one with thirty in the next month leaves thirty-one days in the quarter. I have kept this desk for three years and I have never yet been out by a day."
+"There is one day left in this month," she said. "Thirty taken from twenty-nine leaves one, and one with thirty in the next month leaves thirty-one days in the quarter. I have kept this desk for three years and I have never yet been out by a day."
 
 She stood up.
 

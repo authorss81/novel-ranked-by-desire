@@ -28,7 +28,7 @@ What came out of him went into the man and the man's face came up out of it in a
 
 The relief did not make the man stronger. It made him finished. The set of the jaw went out of it. The hand on the rail stopped being held like a hand.
 
-Lin Hao felt the cost on his own side, which was four or five seconds of a cold that came up through his palm and into his wrist, and he had felt that exact thing at the rate of about nine times in five volumes and had not felt it once since the thirtieth of December.
+Lin Hao felt the cost on his own side, which was four or five seconds of a cold that came up through his palm and into his wrist, and he had felt that exact thing about nine times in as many years and had not felt it once since the thirtieth of December.
 
 That was the first thing that was wrong with the morning, and it took him about nine seconds to work out what it was.
 
@@ -66,7 +66,7 @@ He counted the book at about a quarter to eleven in the morning in the two rooms
 
 A hundred and forty-nine lines.
 
-It had been a hundred and forty-two on the fourteenth of March, and it rises because he keeps his round, and a round is not a decision. It is a set of streets and a set of hours and about ninety minutes a day in which he is the man who is there when nobody is looking, and it has not stopped in five volumes and it is going to stop the day he stops.
+It had been a hundred and forty-two on the fourteenth of March, and it rises because he keeps his round, and a round is not a decision. It is a set of streets and a set of hours and about ninety minutes a day in which he is the man who is there when nobody is looking, and it has not stopped in years and it is going to stop the day he stops.
 
 Nine of the hundred and forty-nine were turned.
 
@@ -114,7 +114,7 @@ That was the whole of the morning.
 
 Sixty-three days ago the twentieth of February had been laid on a table at the end of a corridor and was still on it, and a room of five could carry it, and the corridor was nine days old as a member of anything.
 
-At ten past nine that morning he had gone over a rail in a hall off a third court and put his own hand on a stranger's hand and spent the first thing he has spent in nine volumes on a man who has never heard the word reservoir and never will.
+At ten past nine that morning he had gone over a rail in a hall off a third court and put his own hand on a stranger's hand and spent the first thing he has spent since he started keeping the round on a man who has never heard the word reservoir and never will.
 
 The ledger has a hundred and forty-nine lines in it and ten of them have been turned and the tenth one has a face.
 

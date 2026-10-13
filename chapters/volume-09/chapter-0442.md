@@ -2,7 +2,7 @@
 
 The clerk lets a member read the book after the run has gone, and on the evening of the fifteenth of June the corridor was empty and the bundle had gone at four, and she put two minutes on the second table under the window and left him alone with them.
 
-"It is one hundred and fifteen days since the twentieth of February," he said to the empty corridor, because somebody had to say it once. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and fifteen makes one hundred and fifteen."
+"It is one hundred and fifteen days since the twentieth of February," he said to the empty corridor, because somebody had to say it once. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and fifteen makes one hundred and fifteen."
 
 "Fifteen days to the thirtieth," said the clerk from the doorway, and then she went away. "Thirty taken from fifteen leaves fifteen. That is the quarter."
 
@@ -26,13 +26,13 @@ He turned the first minute over. On the back of it, in pencil, in a hand the cle
 
 He put his hand flat on the table the way Beatrix Halm puts hers, to feel the talk that was not there, and he thought about Sun Meiling at the end of a kitchen table with a folder, and about Tessa Okonkwo ruling a twelfth date, and about Hanneke Ruis standing at a rail with a cup she had not touched, and about Runa Sato writing a reason into a box on the twenty-eighth of May with his name in it, in her own hand, unpriced.
 
-The reason box had been written twelve days ago. It was in a drawer in a loading bay off Cordwain. It named him. Nobody had read it aloud. Nobody would strike it.
+The reason box had been written seventeen days ago. It was in a drawer in a loading bay off Cordwain. It named him. Nobody had read it aloud. Nobody would strike it.
 
 ## What Remains Unwritten
 
 He opened the first minute again and ran his finger down the four namings of the premises at its head, and then down the ground beneath them, the description made over it on the morning of the twenty-seventh of October at about eleven against the head, on four words said in a kitchen, and he read them again here and did not say them out loud.
 
-A division that does not sit in the Wing and keeps no list of addresses cannot reach a woman on a list and can only reach the building she is in. That has been true since the first of January. The copy in the division of classification has been there for eighty-four days. Neither he nor the officer of counter-forensics has said one word about the address, and that arrangement has held for a hundred days and more.
+A division that does not sit in the Wing and keeps no list of addresses cannot reach a woman on a list and can only reach the building she is in. That has been true since the first of January. The copy in the division of classification has been there for one hundred and fifteen days. Neither he nor the officer of counter-forensics has said one word about the address, and that arrangement has held for a hundred days and more.
 
 He closed the two minutes and squared them against the edge of the table.
 

@@ -4,7 +4,7 @@ The chair keeps a room on the first floor of the building at the end of the corr
 
 "She is not refusing the room," said the clerk. "She is refusing you. There is a difference and you know the difference."
 
-"It is one hundred and three days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and three makes one hundred and three. I am not asking for a sitting. I know the Council does not sit again until the thirtieth."
+"It is one hundred and three days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and three makes one hundred and three. I am not asking for a sitting. I know the Council does not sit again until the thirtieth."
 
 "Then you know more than most of the people who come to this counter."
 

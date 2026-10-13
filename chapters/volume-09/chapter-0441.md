@@ -2,7 +2,7 @@
 
 The clerk of the room at the end of the corridor had a slip on the second table under the window on the morning of the thirteenth of June, and it was not the one from her drawer, and she turned it face down when he came in.
 
-"It is one hundred and thirteen days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and thirteen makes one hundred and thirteen."
+"It is one hundred and thirteen days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and thirteen makes one hundred and thirteen."
 
 "Seventeen days to the thirtieth," said the clerk. "Thirty taken from thirteen leaves seventeen. You have seventeen days to decide what you are going to do with what I am going to tell you."
 

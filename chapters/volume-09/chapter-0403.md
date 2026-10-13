@@ -62,7 +62,7 @@ She shut the book.
 
 "And that is all of it, and it is not going to get worse, and it is not going to get better, and in about a year somebody in that office is going to be given a district that is short and you are going to be in it."
 
-He had spent seven volumes building the only thing he had ever wanted, which was to be looked through, and he had got it, and on the fifth of April a man at a gate he had walked past four thousand times looked at him the way that man looks at the wall, and it did not feel like anything he had wanted.
+He had spent years building the only thing he had ever wanted, which was to be looked through, and he had got it, and on the fifth of April a man at a gate he had walked past four thousand times looked at him the way that man looks at the wall, and it did not feel like anything he had wanted.
 
 The thing he had wanted was never to be looked at.
 
@@ -76,7 +76,7 @@ It was to be looked at on one line only, in one respect, at a price that was his
 
 "I know what it is."
 
-"It is a bad thing to say because this house has not once in five volumes made anybody safer by knowing that they were frightened," said Beatrix Halm. "We have all been frightened and the whole of what we have built is that the fear does not get spoken. And you are about to say it out loud, and you are going to get a kind of relief out of it that is worth nothing at all, because the wall does not go back up for being described."
+"It is a bad thing to say because this house has not once in years made anybody safer by knowing that they were frightened," said Beatrix Halm. "We have all been frightened and the whole of what we have built is that the fear does not get spoken. And you are about to say it out loud, and you are going to get a kind of relief out of it that is worth nothing at all, because the wall does not go back up for being described."
 
 She was quiet for a moment and then she said something else, in a completely different voice, and it was the reason he had come down to the north end instead of going straight to the branch.
 
@@ -98,4 +98,4 @@ She turned the notebook over and shut it.
 
 "You have been out of band since the morning of the thirtieth, and you have spent four days reading that as the end of something," said Beatrix Halm. "It is not the end of something. It is the end of the *band*."
 
-"Ask the woman who has been keeping the real books of a guild for thirty years. She has known what nine is since before you had a plate, and she has been waiting five volumes for somebody to ask her, and you have not asked her once."
+"Ask the woman who has been keeping the real books of a guild for thirty years. She has known what nine is since before you had a plate, and she has been waiting years for somebody to ask her, and you have not asked her once."

@@ -22,13 +22,13 @@ The doors shut. She hit the handle and the car went down, and it was four floors
 
 "You will get the car and you will get me and that is the whole of the terms and there is no list and there is no paper and there is nothing to write down."
 
-"When you want to know how this works you are going to work it out, and I am not going to help you, and that is the third time in nine volumes somebody has promised me something in a room and it is the first one where I have not told them a single thing in advance."
+"When you want to know how this works you are going to work it out, and I am not going to help you, and that is the third time somebody has promised me something in a room and it is the first one where I have not told them a single thing in advance."
 
 "How long is it going to take me."
 
 "About a fortnight." She put her hands flat on the rail. "Go on then."
 
-He did not get it right for about a minute and a half and then he got all of it at once and it is the worst thing that has happened to him in about four volumes.
+He did not get it right for about a minute and a half and then he got all of it at once and it is the worst thing that has happened to him in about four years.
 
 ## The Car Going Down
 
@@ -58,7 +58,7 @@ She got her hand flat on the front of his coat, the way she had got a hand on a 
 
 "I have wanted you," said Nadia Ferrous. "Out loud. Since a lift between the Vestry arcade and the clinic level, four floors down, about forty seconds, doors shut. Not for a week and not for a month."
 
-"I have said it to forty-one thousand people in this quarter and I have never once said it to you, because every time I came near it you were busy being careful at me, and I have watched you be careful at me for nine volumes and it is the most annoying single thing about you."
+"I have said it to forty-one thousand people in this quarter and I have never once said it to you, because every time I came near it you were busy being careful at me, and I have watched you be careful at me ever since the first lift and it is the most annoying single thing about you."
 
 She opened his shirt with two fingers and let it fall on the car floor.
 

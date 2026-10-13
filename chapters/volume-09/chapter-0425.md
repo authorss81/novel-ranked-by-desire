@@ -112,7 +112,7 @@ He sat with it.
 
 He stood up.
 
-"That division drafted the description on the twenty-seventh of October and entered it on the second of February, and a copy of that minute has been sitting in its own building for eighty-four days, and its head has never said one word to me about it."
+"That division drafted the description on the twenty-seventh of October and entered it on the second of February, and a copy of that minute has been sitting in its own building for one hundred and three days, and its head has never said one word to me about it."
 
 "This morning that woman told me she has been carrying a sheet since the nineteenth of October that she is not permitted to send, and she is the head of that division, and a head of a division gets her own productions on her own ordinary run."
 

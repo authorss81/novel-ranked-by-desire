@@ -526,9 +526,10 @@ and the only thing that can be given is a figure other people have already put u
   is a chain — and says she will come and find him and will not let him pick the day. **Runa Sato prices the queue
   from the rail: two hundred and eleven, of whom ninety are unreachable, four are reachable by another route and two
   not at all; and she refuses to have her standing order of the thirtieth of October invoiced, ever.**
-- **406 (10 Apr). THE SCENE. PETRA ILYIN. WRITTEN AND OUT IN FULL. 3,257 WORDS AFTER THE 15 OCTOBER 2026 REPAIR; SCENE BODY 2,079 ON THE
-  SPAN `## The Frame Of The Roller Door` TO `## Afterwards` EXCLUSIVE, AND 2,596 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH THE REVIEW
-  REQUIRED TO BE PRINTED BESIDE IT; PROBE 30.** **THE SCENE IS PHYSICAL AND IT IS NOT LEXICALLY EXPLICIT. THE REVIEW SAID SO AND DID NOT FAIL IT,
+- **406 (10 Apr). THE SCENE. PETRA ILYIN. WRITTEN AND OUT IN FULL. 3,257 WORDS AFTER THE 15 OCTOBER 2026 REPAIR; SCENE BODY 2,072 ON THE
+  SPAN `## The Frame Of The Roller Door` TO `## Afterwards` EXCLUSIVE, AND 2,603 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH THE REVIEW
+  REQUIRED TO BE PRINTED BESIDE IT; PROBE 30 RECORDED / 32 LITERAL. **BOTH SPAN FIGURES WERE CORRECTED ON 13 OCTOBER 2026 BY THE VOLUME CLOSE AUDIT:
+  the 2,079 and 2,596 in this line were never re-run after the 15 October repair to this chapter and neither reproduced.**** **THE SCENE IS PHYSICAL AND IT IS NOT LEXICALLY EXPLICIT. THE REVIEW SAID SO AND DID NOT FAIL IT,
   AND NOTHING IN IT WAS TOUCHED EXCEPT A TRUNCATED WORD AND A SPEAKER TAG.** A bonded store, a roller door half
   down, a foot of cold along the floor. **She is not impaired and says so in her own mouth before anything else
   happens in the room.** Two spoken terms, no paper, and the second of them is not about him. **The three template
@@ -627,7 +628,7 @@ five — **is gone, and he put it there himself, in about eleven minutes, in a q
   return says five, for the first time in twenty years that a figure about that room has gone there, and there is
   nothing on the face of the service that anybody could object to.** The requisition of the twentieth of February is
   **sixty-one days** old — two months and one day and not three months — can be carried, has not been carried, and he
-  has seventy-five days. **The batch ends with a gap in a line carrying Sun Meiling's reason in it sitting in the
+  has sixty-nine days. **The batch ends with a gap in a line carrying Sun Meiling's reason in it sitting in the
   same room as the figure of five that endangers her.**
 
 **SEVEN PLACES THE PLAN WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN:**
@@ -727,9 +728,9 @@ who is owed relief and has not been asked.**
   YEARS HER GIFT HAS BEEN CALLED LOCAL, AND LOCAL IS NOT A DISTANCE. IT IS A FENCE, AND SHE HAS PUT IT WHERE THE
   WALLS ARE, AND NOBODY HAS EVER SHOWN HER WHERE THE WALLS ARE. SOMEWHERE WITHIN TWO HUNDRED YARDS A ROOM SHE CANNOT
   NAME HAS AGREED WITH NINE SECONDS THAT WERE NOT IN IT.**
-- **417 (1 May). THE SCENE. NADIA FERREROUS. WRITTEN AND OUT IN FULL. 3,793 WORDS; SCENE BODY 2,054 ON THE RECORDED
-  SPAN `## The Car Going Down` TO `## Bottom Of The Shaft` EXCLUSIVE OF BOTH, AND 2,987 ON THE LITERAL
-  FIRST-`##`-TO-LAST-`##` SPAN; PROBE 24 AGAINST 30 AT 406 ON THE SAME LIST.** A lift between the Vestry arcade and
+- **417 (1 May). THE SCENE. NADIA FERREROUS. WRITTEN AND OUT IN FULL. 3,787 WORDS AS THE FILE NOW STANDS; SCENE BODY 2,056 ON THE RECORDED
+  SPAN `## The Car Going Down` TO `## Bottom Of The Shaft` EXCLUSIVE OF BOTH, AND 2,978 ON THE LITERAL
+  FIRST-`##`-TO-LAST-`##` SPAN; PROBE 24 AGAINST 30 AT 406 ON THE SAME LIST. **THE THREE FIGURES THAT DID NOT REPRODUCE ON 13 OCTOBER 2026 — THE FILE'S 3,793 AND THE LITERAL 2,987 — WERE CORRECTED BY THE VOLUME CLOSE AUDIT TO THE FIGURES THE CHAPTER NOW HOLDS.** A lift between the Vestry arcade and
   the clinic level, four floors, about forty seconds, stopped in the middle of the shaft the way it was once before.
   **SHE IS NOT IMPAIRED AND SHE SAYS SO IN HER OWN MOUTH BEFORE ANYTHING ELSE HAPPENS IN THE ROOM, AND THE AXIS IS
   BROKEN AND NAMED ON THE PAGE: SHE GIVES NO TERMS AT ALL.** There is no list, no paper and nothing to write down,
@@ -1160,8 +1161,8 @@ nine volumes been in a position to answer one.
   CLOSED: his own isolation. From the thirtieth of June nothing that room says about his address can be used
   without him in the corridor, and he has told the house in effect that he is a doorway and not a man in a building.**
 - **446 (23 Jun). THE SCENE. INES DUARTE. WRITTEN AND OUT IN FULL, 4,646 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 4,647 BEFORE IT; SCENE BODY 1,843 ON THE SPAN
-  `## Reading While` TO `## The Hour She Does Not Read` EXCLUSIVE, AND 1,846 ON THE LITERAL FIRST-`##`-TO-LAST-`##`
-  SPAN; PROBE 24 ON THE SAME LIST AS 406/417/428/438.** §4. A reading room on the first floor over the counting
+  `## Reading While` TO `## The Hour She Does Not Read` EXCLUSIVE, AND **3,847** ON THE LITERAL FIRST-`##`-TO-LAST-`##`
+  SPAN; PROBE 24 RECORDED / 29 LITERAL ON THE SAME LIST AS 406/417/428/438. **THE 1,846 PREVIOUSLY RECORDED HERE WAS NOT A LITERAL SPAN AND WAS CORRECTED ON 13 OCTOBER 2026 BY THE VOLUME CLOSE AUDIT. IT IS THE RECORDED SPAN PLUS THE TWO WORDS OF THE OPENING HEADING `Reading While`. The scene runs across three sections — `Reading While`, `## The Nineteenth Of June, In Her Voice`, `## She Does Not Stop Reading` — before the closing heading, so the literal span carries two sections the recorded span does not.** §4. A reading room on the first floor over the counting
   house, a rail, an open door, and a day's book in a stand with the hour and the applicant's name on it. She books
   it **publicly** and writes *public* against it. **THE AXIS IS THE VOICE AND IT IS CARRIED BY THE ROOM'S RULE, NOT
   BY ANYBODY NAMING IT: in order, the date first, the hour with it, nothing skipped — not a name, not a figure, not

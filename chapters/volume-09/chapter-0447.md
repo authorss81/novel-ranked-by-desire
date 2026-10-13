@@ -2,7 +2,7 @@
 
 Hanneke Ruis was at the rail outside the room at the end of the corridor at about ten past nine on the morning of the twenty-fifth of June with Solveig Rask and an armful of a book on a chain, and the book had to be laid out on a table in that room on the thirtieth because the quarterly return is drafted from the real book and there is no other table in this quarter long enough for it.
 
-"It is one hundred and twenty-five days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-five makes one hundred and twenty-five."
+"It is one hundred and twenty-five days since the twentieth of February," he said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and twenty-five makes one hundred and twenty-five."
 
 "Five days," said Hanneke Ruis. "Thirty taken from twenty-five leaves five. And do not stand in the doorway of that room with your hands behind you, you look like a man waiting for a bus."
 
@@ -122,7 +122,7 @@ He stood on the landing and thought that a man had just told him, in a stairwell
 
 Hanneke Ruis was still on the corridor with the book in her arms and Solveig Rask had gone down to the rail with the cloth, and he stood with her for about twenty minutes because there was nowhere else to stand.
 
-"The fourth block of that sheet takes a figure off a certificate of the composition of the address," said Hanneke Ruis. "The certificate is made four times a year and the quarter that begins on the first of July has not got one, because a form cannot be drafted without one and no one has drafted one, and there are three days of this quarter left."
+"The fourth block of that sheet takes a figure off a certificate of the composition of the address," said Hanneke Ruis. "The certificate is made four times a year and the quarter that begins on the first of July has not got one, because a form cannot be drafted without one and no one has drafted one, and there are five days of this quarter left."
 
 "Then what goes in the block."
 

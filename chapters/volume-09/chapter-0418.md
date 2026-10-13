@@ -70,7 +70,7 @@ She had not said anything for about a minute and a half and she said the one wor
 
 "Agnete."
 
-"They have always been two documents." Agnete Lindqvist had not moved. "Thirty-five days ago Nadia put a number in at a counter and for thirty-five days the two of them have read the same, and that was a good day, and nobody said at the table on the thirteenth of March that by agreeing in a figure they had welded the two documents together."
+"They have always been two documents." Agnete Lindqvist had not moved. "Fifty days ago Nadia put a number in at a counter and for fifty days the two of them have read the same, and that was a good day, and nobody said at the table on the thirteenth of March that by agreeing in a figure they had welded the two documents together."
 
 "And nobody has said it since, and I have been in eleven thousand services about what people do to documents they did not mean to do to each other."
 

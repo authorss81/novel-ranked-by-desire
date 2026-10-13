@@ -10,7 +10,7 @@ The desk was against the far wall with a book on it, and the book had been on th
 
 Dagmar Oyelowo read the plate back to him at about four minutes to ten and made him press it into the stone herself, which she has done for every person who has ever stood in front of that counter, and the machine gave back 8,131, which is what a plate says in this city in April.
 
-"Sit down on the step," she said. "No. You can stand there. You have been standing on steps for about four volumes and you are going to stand on this one too, and I am not going to have opinions about it in my own hall."
+"Sit down on the step," she said. "No. You can stand there. You have been standing on steps for about four years and you are going to stand on this one too, and I am not going to have opinions about it in my own hall."
 
 Then she took a roll out of a drawer under the counter. It was one sheet, printed, folded twice, and it had a name column and three others.
 
@@ -54,7 +54,7 @@ She had a docket under her arm and she did not put it down.
 
 "And the other reason is worse than the first one, and it arrived in about January, and nobody warned me. The women in this house who are sworn are the women a requisition can be served on."
 
-"That is what the roll is. That is the whole of what it is for, and I do not want to be harder to reach than the average person in Ostara. I have spent three volumes being unreachable and it is not a gift I have got. It is a job I have done."
+"That is what the roll is. That is the whole of what it is for, and I do not want to be harder to reach than the average person in Ostara. I have spent three years being unreachable and it is not a gift I have got. It is a job I have done."
 
 Dagmar Oyelowo was at her own desk and heard both of them from about nine feet away and did not turn round.
 

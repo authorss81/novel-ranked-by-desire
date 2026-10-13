@@ -102,7 +102,7 @@ A requisition laid on the twentieth of February had not been carried, had not be
 
 A requisition carried needs five, and the room stood at five, and the sheet of the twentieth of February could now be carried and had not been carried and would not be carried this afternoon because a room does not carry things on the day a member stands in its corridor.
 
-He had seventy-five days. That was the rest of April, and the whole of May, and the whole of June.
+He had sixty-nine days. That was the rest of April, and the whole of May, and the whole of June.
 
 And eleven minutes away on a second floor there was a woman who had found out on the morning of the nineteenth, from a space two fingers wide in a line, what she had been the officer of since the thirtieth of November.
 

@@ -204,7 +204,7 @@ Once. In a hall on Cobb Street, on a morning in an autumn he has never dated out
 
 He had agreed there to answer for a machine, and had felt one thing come out of him in public with his hand on his own side, and had then said out loud, in the sentence immediately afterwards, while his hand was still there, that it would not happen again.
 
-It was in a transcript. It was the only piece of cover he had ever owned and he had spent five volumes being careful with it and he could not say one word about it, because a man who can carry a document in his head cannot be made to produce it and he has been extremely good at that for eight years.
+It was in a transcript. It was the only piece of cover he had ever owned and he had spent years being careful with it and he could not say one word about it, because a man who can carry a document in his head cannot be made to produce it and he has been extremely good at that for eight years.
 
 He said nothing.
 

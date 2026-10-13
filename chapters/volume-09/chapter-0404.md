@@ -24,7 +24,7 @@ Ink sat in the cuticles of her hands in a way that a broker's hands sit in it. H
 
 She put her fork down, which she did about four times a year.
 
-"Right," she said. "That is a question I have been waiting five volumes for and I want it in the right order and I am going to take about nine minutes and you are not going to get a look in."
+"Right," she said. "That is a question I have been waiting years for and I want it in the right order and I am going to take about nine minutes and you are not going to get a look in."
 
 She took a folded sheet out of the side of the table and squared it and did not open it.
 
@@ -42,7 +42,7 @@ She did not answer that, and he took about four seconds to work out that she was
 
 "You have been to Beatrix Halm about it."
 
-"On the fifth of April, under the north end of that wall, and she gave you the card and the tile and the black, and she has been giving that wall those three things every morning for nine years in a notebook you have walked past for five volumes."
+"On the fifth of April, under the north end of that wall, and she gave you the card and the tile and the black, and she has been giving that wall those three things every morning for nine years in a notebook you have walked past for years."
 
 "And you are not going to say it again."
 
@@ -110,7 +110,7 @@ And he could not climb on what was in him, because not one grain of it was score
 
 She took the plates off the table.
 
-"So there is one thing left to do with those eight women," she said, "and it is not climbing, and it is not safety, and it is the reason I have been waiting five volumes."
+"So there is one thing left to do with those eight women," she said, "and it is not climbing, and it is not safety, and it is the reason I have been waiting years."
 
 ## She Will Not Put Her Name Under It
 

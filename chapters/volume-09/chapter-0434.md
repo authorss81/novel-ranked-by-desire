@@ -8,7 +8,7 @@ She did not touch the folder.
 
 "You said there was no certificate for the quarter that begins on the first of July," said Sun Meiling. "You said a keeper is going to write my name from memory. That was the first of June two days away and now it is twenty-nine days away. Thirty taken from one leaves twenty-nine, with nothing after it in this month, and that is the quarter."
 
-"It is one hundred and one days since the twentieth of February," he said. "Eight from twenty leaves eight, and eight with thirty-one and thirty and thirty-one and one makes one hundred and one. The requisition is still capable and still not carried."
+"It is one hundred and one days since the twentieth of February," he said. "Ten from twenty leaves ten, and ten with thirty and thirty and thirty and one makes one hundred and one. The requisition is still capable and still not carried."
 
 "I know what it is administered against."
 
@@ -26,7 +26,7 @@ Sun Meiling's hands were flat on the table.
 
 "Go on."
 
-"The requisition is administered weekly against that composition. Since the first of April. It runs down the chain to the division that holds the fourth part, and a copy of its minute has been in the division of classification for eighty-four days, and that division is yours."
+"The requisition is administered weekly against that composition. Since the first of April. It runs down the chain to the division that holds the fourth part, and a copy of its minute has been in the division of classification for one hundred and one days, and that division is yours."
 
 "I have not seen it."
 
