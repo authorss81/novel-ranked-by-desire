@@ -56,7 +56,7 @@ Mr Sowerby sat down again.
 
 "If you put your hand on a person who never fed you, nothing moves. If you move merit without a seal, it is theft, and theft of merit is answered at a valuation by paying it or by a production, and you have no production off that door. There will be no production off that door on the first of next month. The last number anybody swears out of that address is eight."
 
-He nodded. He had sworn seven twice, in nine seconds each time, off the same chained book, and a keeper had marked the repetition as a habit. He would never swear that premises at seven again.
+He said nothing, which was assent. He had sworn seven twice, in nine seconds each time, off the same chained book, and a keeper had marked the repetition as a habit. He would never swear that premises at seven again.
 
 "So I cannot move it."
 
@@ -66,7 +66,7 @@ He rode eleven stops home and got off at his own stop the first time, which he h
 
 In the kitchen he told it straight, the way he had promised.
 
-"A movement needs a seal. Without one it is theft. There are nine in this city that will carry an unrecorded movement. One use costs the carrier a year of standing. A man with no standing cannot obtain one."
+"A movement needs a seal," he said. "Without one it is theft. There are nine in this city that will carry one, and none of the nine is mine, and none of the nine will answer me."
 
 Beatrix Halm wrote it down with the date under it.
 
@@ -120,7 +120,7 @@ Sun Meiling set down the mending she had held since the third.
 
 "Then we find whose," she said. "Not in a file. Files open at dates we do not touch. In shapes. I see shapes. That is my cost and my use. Leave it with me until the twelfth."
 
-He nodded. Fourteen days since the twenty-seventh. Twenty-two days since the nineteenth, when Alma Quayle had signed the referral with the address and the figure of eight on it and a song for a reason.
+He gave her the twelfth without asking what it would cost her, which was a thing he noticed himself doing and did not stop. Fourteen days since the twenty-seventh. Twenty-two days since the nineteenth, when Alma Quayle had signed the referral with the address and the figure of eight on it and a song for a reason.
 
 He left both counts on the table without explaining them, because the table had learned to carry counting the way it had learned to carry lists.
 
@@ -129,8 +129,11 @@ He slept badly that night with the nine seals still in his head, waking on the h
 At five he got up and cleaned the stairwell down to the street door, bucket and brush, cold water to the elbow, work that did not score and had to be done anyway. The building breathed round him. Doors shut softly. Somebody coughed behind a wall. Eight women slept behind a list that said eight because it was made and dated, and none of them stirred.
 
 He wanted, that morning, to be worthy of the carrying without knowing who had carried him, and the want held him upright on the wet steps better than sleep would have.
+
 He checked the stairwell door twice before bed, out of old habit, though the household has been frozen since midnight on the thirtieth of September only in memory now.
 
 The lock caught cleanly. The hall smelled of soap and cold air. Above him eight women slept behind doors with rooms against their names, each reachable, each named, each still his to answer for.
+
 He set the bucket to dry by the sink and hung the brush with its bristles down, precisely, the way four years of washrooms have taught him.
+
 The night porter called the hour from the yard and the pipes knocked once, loud, then settled.

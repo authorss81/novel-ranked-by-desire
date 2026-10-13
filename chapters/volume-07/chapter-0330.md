@@ -48,7 +48,7 @@ She came and sat opposite him at the cleared table.
 
 "Here is what changed and is still changed," she said. "I stopped being a woman with a position inside a guild and became a woman who has put her own book on a table. That does not come back. A book once shown cannot be unshown. A list once issued cannot be unissued. You know both shapes now."
 
-He nodded. Eight names in stair order with rooms beside them had issued at four on the thirtieth past recall. Her books had gone at seven this morning and could not be taken back.
+He took both shapes and disputed neither. Eight names in stair order with rooms beside them had issued at four on the thirtieth past recall. Her books had gone at seven this morning and could not be taken back.
 
 "Why show me the empty table."
 
@@ -130,9 +130,10 @@ Sun Meiling ladled more soup into his bowl without being asked, because that was
 
 "Three attestations moved the plate," she said quietly, for him alone. "Three women paid. Marguerite paid more. That is the arithmetic of being wanted on purpose, which is a very different thing from being wanted. Remember the difference. The kitchen can tell it and the wall cannot."
 
-He nodded. Sixteen days since the thirtieth of October, when the list had gone out. Twenty-seven days since the nineteenth, when he had referred the account. Forty-four days since the second of October, when Wren Kallo had taken an address at about eleven and made the composition eight.
+He said it back to her in his own words, so that she would know it had gone in. Sixteen days since the thirtieth of October, when the list had gone out. Twenty-seven days since the nineteenth, when he had referred the account. Forty-four days since the second of October, when Wren Kallo had taken an address at about eleven and made the composition eight.
 
-He counted all three out loud, against dates printed in rooms he was not in, and the table heard him and let the counts stand.
+He counted all three out loud, and the table heard him and let the counts stand.
+
 He washed the cups himself, slowly, and set them to dry in order, and the order held for the rest of the day.
-Outside the light failed early and the square lamps came on one by one down the hill.
+
 Outside the light failed early and the square lamps came on one by one down the hill, steady against the wind.

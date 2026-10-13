@@ -76,6 +76,16 @@ paragraphs       over 90 -> 0; over 120 -> 0. REPORTER ONLY, never a splitter. S
                  at speech beats; re-check whole-file quotes after each.
 exact-duplicates whole-paragraph identity 331–340 vs neighbours 321–340, floors 1/2/3,
                  quoted/unquoted separately. UNQUOTED 0 at all floors.
+LINE BOUNDARIES **TWO GATES ADDED AFTER BATCH 0003 SHIPPED A CLEAN SHEET THAT WAS NOT CLEAN.**
+                 **(a) LOST BREAKS:** a non-heading line opening with a capital or an opening quote
+                 whose predecessor is a non-heading line ending `.` `!` `?`, with no blank line
+                 between. Two paragraphs hard-wrapped into one. **0003 shipped 12 of these and NO
+                 WHOLE-PARAGRAPH GATE COULD SEE THEM — two paragraphs merged into one are not two
+                 paragraphs. Must be 0 in 331–340 AND 0 across 301–330.** Run it before anything else.
+                 **(b) INTRA-PARAGRAPH REPEATS:** the same sentence twice inside one paragraph, and
+                 a sentence duplicated from an earlier line of the same file. **0003 closed 327 on an
+                 unacknowledged copy of its own opening and 330 on the same sentence twice.**
+                 Deliberate refrains must be *framed* — name what the chapter is returning to.
 nobody / no person / He understood / He also understood / He felt / He had woken wanting
                  counted case-insensitively as stated. Report, do not assume.
 weekday          every weekday 0 whole-word AND substring. Volume 7 names none.
@@ -89,6 +99,8 @@ dates            every interval vs printed date elsewhere; state anchor characte
 ```
 
 Tool lessons: never splitter on dialogue; 12-gram first + re-run outside pass; `afterwards` = unwritten scene; write the date not the day; documents paraphrased on referral never quoted; check cards against `bible/characters.md` and closed chapters before writing.
+
+**THREE PASSES SHIPPED FALSE ROWS ON THIS BATCH. THE RULE THAT FOLLOWS IS BINDING.** Batch 0003's writing pass published a clean 12-gram row that was false in both figures, a `He nodded.` row that was false, and word counts written before the last edit — and every duplicate gate it ran was structurally blind to twelve lost paragraph breaks sitting in its own files. **A gate that compares a unit the defect does not respect returns clean forever. Run the line-boundary gate and the intra-paragraph gate, run every other gate against the files as they stand after your last edit, re-run the whole set from outside the pass that wrote the prose, and state for each figure the tokenisation and the scope it came from.**
 
 ## 8. STATE FILES, AFTER LAST EDIT
 

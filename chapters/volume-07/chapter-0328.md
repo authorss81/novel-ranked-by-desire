@@ -133,7 +133,11 @@ At the bottom of the sixty-one Beatrix stopped again, the way she had the night 
 "Three attestations move the plate," she said. "That is still true. What moves next is not the plate. It is the Vant. Marguerite read it first for a reason. Go home and wait for the knock. Do not go to her. Let her send."
 
 He waited. The knock did not come that night. It came the next afternoon, by a boy with no message but her name.
+
 He touched the wet green paint once with one fingertip, lightly, and Beatrix slapped his hand away the way she slaps tram doors shut.
+
 The lamps held steady against the wind coming off the yards.
+
 The crowd thinned as the cold bit, leaving only those with business at the wall.
+
 Beatrix breathed on her cold fingers and wrote on, steady.

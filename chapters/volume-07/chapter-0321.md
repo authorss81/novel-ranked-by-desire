@@ -90,7 +90,7 @@ Beatrix Halm opened the notebook again and turned to a clean page at the back.
 
 "Because a deed you arranged and wrote yourself is your own deed," she said. "And your own deeds do not score. That is the rule you have lived on for five years without telling us, and I have worked it out from nine years of watching a wall."
 
-He nodded.
+He did not defend himself. She had worked it out from a wall in nine years, and he had lived on it for five without once putting it in a room where anybody could check it.
 
 "Is that true."
 

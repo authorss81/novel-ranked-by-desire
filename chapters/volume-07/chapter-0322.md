@@ -40,7 +40,7 @@ Petra Ilyin found him at the tram stop at half past six that evening and walked 
 
 "Because I went to the wall at five," she said. "Eight thousand one hundred and thirty-eight. Six under. The words unchanged. Beatrix was there with the notebook. She read it twice to be sure."
 
-He nodded. He had expected it and it still sat in him like a stone.
+He had known the number before she said it. Knowing a thing had never once made it lighter.
 
 "Why."
 

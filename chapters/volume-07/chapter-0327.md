@@ -46,7 +46,7 @@ The loss of it cut immediately, sharp, and then relief that she had not given it
 
 "The date is when he gave everything he had in one movement," she said. "Three years ago. Before you ever kept a ledger. Before there were a hundred and eighteen lines. Before nine turned. You have been filling since what he filled. That is why the account has an address and the address is you."
 
-He nodded. He could not speak for a moment.
+He could not speak for a moment.
 
 He saw it plainly.
 
@@ -104,7 +104,7 @@ On the evening of the fourteenth Beatrix Halm laid the three copies she had begg
 
 "Because I have watched it for nine years," she said. "The gang arrives at nine and the numbers rise at ten with a wall read before paint, except when dusk falls early. Tomorrow the light fails early. Be at the north end at a quarter to six in the dark. I will read it twice to be sure."
 
-He nodded. Sixteen days since the twenty-eighth of October, when the fair copy had come back to Wren Kallo's tray at a quarter to eight with her posting the only one on the sheet. Fifty-seven days since the seventeenth of September, when the keys had changed to a woman he had never met.
+He put the hour in the place he kept hours, which was in his head and in order. Sixteen days since the twenty-eighth of October, when the fair copy had come back to Wren Kallo's tray at a quarter to eight with her posting the only one on the sheet. Fifty-seven days since the seventeenth of September, when the keys had changed to a woman he had never met.
 
 He subtracted both against dates printed in rooms he was not in, out loud, so that the table heard the anchoring and could hold him to it.
 
@@ -130,5 +130,6 @@ He dreamed that night of a chained book at the Exchange with the same number twi
 
 He woke at five with the habit still in his mouth like a taste, washed in cold water, and went down to hold the tailboard steady for the driver who had no name in any book he keeps.
 
-The driver finished sooner because the board did not shift. The clerk wrote it down. His name was not on that slip. That was the whole posture and it was working, and he did not touch it, praise it, or explain it, because explanation is the fastest way to turn a pattern back into entries.
+The driver finished sooner because the board did not shift, as it had on the fifth. That was three entries in one day with his name off every one of them, and it was the whole posture, and it was working, and he did not touch it, praise it, or explain it, because explanation is the fastest way to turn a pattern back into entries.
+
 The lamp burned low and the wicks needed trimming, and nobody trimmed them until the telling was done.

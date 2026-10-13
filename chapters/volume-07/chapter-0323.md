@@ -134,7 +134,7 @@ She closed the book.
 
 "Go home past the wall and do not read it. Beatrix reads it for you. That is what she is for. You are for the hour between five and seven. Keep to it. Do the ordinary thing where people can see it and do not lift what they can lift themselves."
 
-He nodded. Ten days since the twenty-seventh of October. Twenty-two days since the fifteenth, when the card came down at two in the morning at the singer's own word.
+He took the instruction as given. Ten days since the twenty-seventh of October. Twenty-two days since the fifteenth, when the card came down at two in the morning at the singer's own word.
 
 He subtracted both out loud on the tram platform, against dates printed on cards and slips he did not carry, and the arithmetic held.
 

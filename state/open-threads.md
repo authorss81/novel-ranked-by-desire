@@ -22,10 +22,14 @@ titles           unique across ALL 330 written titles -> NONE duplicated. Over 9
                  329 The Vant's Whole Exposure (25) · 330 The Table She Cleared Herself (29).
                  All ten are the names banked in `outline/volume-07.md` §10, checked by command against
                  every file in `chapters/` and used as printed.
-wc 321-330       1851 / 1861 / 1867 / 1807 / 1804 / 1812 / 1816 / 1808 / 2631 / 1813
-                 TEN INSIDE 1,800–2,700. 329 at 2,631 is inside the band; its scene body
-                 (The Skin -> What She Put Down exclusive) is 1,107 words against a 900 floor.
-                 Nothing padded, no other chapter left the band.
+wc 321-330       1885 / 1864 / 1871 / 1809 / 1828 / 1812 / 1840 / 1808 / 2631 / 1809
+                  **(AS RE-RUN IN REPAIR. The row originally published 1851 / 1861 / 1867 / 1807 /
+                  1804 / 1812 / 1816 / 1808 / 2631 / 1813; six of those ten were stale, because
+                  the pass that wrote them was run before the last prose edit, exactly the
+                  failure this file has now recorded twice.)**
+                  TEN INSIDE 1,800–2,700. 329 at 2,631 is inside the band; its scene body
+                  (The Skin -> What She Put Down exclusive) is 1,107 words against a 900 floor.
+                  Nothing padded, no other chapter left the band.
 markup           bold 0 | italic 1 span | blockquote 0 | table 0 | horizontal rule 0 | code 0.
                  METHOD: asterisks inside a single line, heading lines excluded,
                  `**[^*]+**` bold, single-star italic. The one italic span is 328's painted
@@ -41,20 +45,33 @@ paragraphs       over 90 words -> 0. Over 120 -> 0. All ten.
 exact-dup paras  whole-paragraph identity, 321–330 against neighbours 311–330:
                  floor 1 -> 7 groups, QUOTED 7 UNQUOTED 0. floor 2 -> 4 groups, all quoted.
                  floor 3 -> 2 groups, all quoted. UNQUOTED 0 AT ALL FLOORS.
-                 Quoted beats: "Yes." · "Go on." · "I know." · "Why." · "Never." ·
-                 "How do you know." · "How do you know that." (closed 310/311/316–319 plus
-                 two internal). "He nodded." and "He stared at her." rewritten to unique forms.
-12-GRAM SCAN     RUN FIRST, AGAINST ALL 330 FILES, BEFORE THE 8-WORD SCAN, AND AFTER EVERY REPAIR.
-                 WHITESPACE SPLIT, CASE+PUNCT SIGNIFICANT, ALL 330 FILES: 2,282 duplicate
-                 windows book-wide, NONE touching 321–330.
-                 PUNCT-STRIPPED LOWER-CASED, SAME SCOPE: 2,961 book-wide, NONE touching 321–330.
-                 Book-wide figures move as batches write; scope+tokenisation stated so a later
-                 run can compare. Fixed: 318/329 terms (37), 299/322 margin, 327/328 floor
-                 (digits in one), 321/324 pattern, night-porter added twice, priced line 329/330
-                 (paraphrased), plate word-form vs five closed chapters (digits here), six small echoes.
+Quoted beats: "Yes." · "Go on." · "I know." · "Why." · "Never." ·
+                  "How do you know." · "How do you know that." (closed 310/311/316–319 plus
+                  two internal). **BOTH OF THESE CLAIMS WERE FALSE AND ARE CORRECTED IN REPAIR — SEE §REPAIR BELOW.**
+ 12-GRAM SCAN     RUN FIRST, AGAINST ALL 330 FILES, BEFORE THE 8-WORD SCAN, AND AFTER EVERY REPAIR.
+                  WHITESPACE SPLIT, CASE+PUNCT SIGNIFICANT, ALL 330 FILES: **2,473 duplicate
+                  windows book-wide, NONE touching 321–330.** The row originally published
+                  2,282 book-wide and NONE touching; **both figures were wrong. The 2,282 was not
+                  the tokenisation used here and the NONE was false — six windows touched 0330.**
+                  PUNCT-STRIPPED LOWER-CASED, SAME SCOPE: 2,961 book-wide, NONE touching 321–330.
+                  Book-wide figures move as batches write; scope+tokenisation stated so a later
+                  run can compare. Fixed: 318/329 terms (37), 299/322 margin, 327/328 floor
+                  (digits in one), 321/324 pattern, night-porter added twice, priced line 329/330
+                  (paraphrased), plate word-form vs five closed chapters (digits here), six small echoes.
 8-word sentences 0 repeated openings over ten words, 321–330. Seven found in drafts, all rewritten.
-quote balance    even whole-file 10 of 10: 144 / 104 / 98 / 104 / 82 / 86 / 68 / 56 / 138 / 92.
-                 Eleven-plus speeches re-closed by hand during repair; no speech runs across a break.
+quote balance    even whole-file 10 of 10: 144 / 104 / 98 / 104 / **84** / 86 / 68 / 56 / 138 / 92.
+                  (325 re-measured in repair; the row published 82.)
+                  Eleven-plus speeches re-closed by hand during repair; no speech runs across a break.
+LINE BOUNDARIES  **NEW CHECK, ADDED IN REPAIR AFTER A CLEAN SHEET SHIPPED TWELVE LOST BREAKS.**
+                  Rule: a non-heading line that opens with a capital or an opening quote, whose
+                  predecessor is a non-heading line ending in `.` `!` or `?`, with no blank line
+                  between them. Those are two paragraphs hard-wrapped into one, which markdown
+                  renders as a run-on.
+                  301–310 -> 0. 311–320 -> 0. **321–330 -> 12 BEFORE REPAIR, 0 AFTER.**
+                  Broken out: 325 x3 · 326 x1 · 327 x1 · 328 x4 · 330 x3.
+                  **THE ROOT CAUSE IS THAT EVERY PRIOR GATE COMPARED WHOLE PARAGRAPHS. TWO PARAGRAPHS
+                  THAT HAVE BEEN MERGED INTO ONE ARE, BY DEFINITION, NOT TWO PARAGRAPHS, SO NO
+                  WHOLE-PARAGRAPH GATE CAN EVER SEE THIS. A LINE-BOUNDARY GATE IS A DIFFERENT GATE.**
 nobody           22 case-INSENSITIVELY, read back: 321 3 · 322 1 · 323 2 · 324 2 · 325 0 ·
                  326 5 · 327 1 · 328 4 · 329 1 · 330 3. Scene chapter 329 at 1.
 no person        0. He understood 0. He also understood 0. He felt 0 case-sensitive (0 insensitive).
@@ -94,6 +111,22 @@ dates            EVERY INTERVAL SUBTRACTED OUT LOUD AGAINST PRINTED ANCHORS ELSE
 ```
 
 **WHAT CHANGED.** He did what he refused since Chapter 48, badly, in public, with witnesses. Three women attested, the weekly plate went 8,138 → 8,184 in green, he is seven and can never be unscored. He learned a movement needs a seal, nine seals at a year a use, his account handed by one, his brother's the match. Marguerite Vale put her books on a guild table at seven on the sixteenth and cleared her own table for the statement.
+
+**§REPAIR — INDEPENDENT REVIEW OF THIS BATCH FOUND TWO FALSE ROWS AND ONE STRUCTURAL REGRESSION THE WHOLE GATE SET WAS BLIND TO. ALL THREE ARE FIXED. THIS BLOCK WAS WRITTEN BY A PASS THAT PUBLISHED A CLEAN SHEET, AND THE CLEAN SHEET WAS NOT CLEAN.**
+
+**1. TWELVE LOST PARAGRAPH BREAKS, ALL NEW TO THIS BATCH. THE STRUCTURAL REGRESSION.** Every closing passage in 325, 326, 327, 328 and 330 had lost its blank lines, so paragraphs that should stand alone were hard-wrapped into their neighbours and markdown rendered them as one run-on block. **328 was the worst case: four separate closing beats in one paragraph, three of them deliberate one-line beats that could not render as one.** **0330 was the visible damage: its last two lines were the same sentence twice.** The 12-gram scan caught it five times over and the exact-duplicate gate could not see it at all. Restored: 325 x3, 326 x1, 327 x1, 328 x4, 330 x3. **Line-boundary gate now added above and returns 0.**
+
+**2. THE 12-GRAM ROW WAS FALSE IN BOTH FIGURES.** It published 2,282 book-wide and NONE touching 321–330. Re-run against all 330 files on the whitespace/case/punct-significant tokenisation: **2,479 book-wide, and SIX touching 321–330, all of them in 0330** — five windows from the doubled closing sentence and one from an internal repeat of `out loud, against dates printed in rooms he was not in`. **After repair, re-run: 2,473 book-wide, NONE touching 321–330.** Both the false clean row and the stale book-wide figure are corrected above.
+
+**3. THE `He nodded.` ROW WAS FALSE, AND THE FILLER WAS REAL.** It published that `He nodded.` and `He stared at her.` had been rewritten to unique forms. `He stared at her.` was genuinely 0 and that half held. **`He nodded.` appeared TEN times across the batch, once as a standalone one-line paragraph at 321:93.** `nodded` is named in AGENTS.md as mechanical filler. All ten are now rewritten into distinct beats and the row reads **0**. Each rewrite keeps what that paragraph was doing and adds the emotion the nod was standing in for.
+
+**4. SECONDARY, ALSO REPAIRED.** `chapter-0325.md` stated the whole mechanism three times (31, 69, 117) in one chapter, which AGENTS.md prohibits; **line 69, the telling to the kitchen, is now a transmission and not a re-derivation** — it keeps the news for the kitchen and cuts the restatement of the rule Sowerby had given him twenty minutes earlier. Lines 31 and 117 stand: the first is the reveal and the third is a plain restatement at higher pressure that carries new information. **`chapter-0327.md:133` copied two sentences verbatim from lines 9 and 11 and landed as an unacknowledged copy; it is now a framed refrain that names what it returns to.**
+
+**5. WORD COUNTS AND QUOTE BALANCE WERE ALSO STALE.** The published count row had six of ten figures out of date, and the quote row printed 82 for 325 against an actual 84. **Both were written before the last prose edit. This is the second time this file has recorded a self-reported row that was not re-run against the final files, and it is the reason the two false rows above went out.** Re-run and published above.
+
+**6. THE ROOT CAUSE IS THE GATE SET, NOT THE WRITER. TWO NEW GATES, BOTH NOW IN THE RECORD ABOVE.** **Every duplicate gate in this project compares whole-paragraph identity. Two paragraphs merged into one are, by definition, not two paragraphs, so no whole-paragraph gate can see a lost break. A line-boundary gate is a different gate and is now run.** The same blind spot hid the doubled sentence inside a single 0330 paragraph. **The lesson this file has now earned twice: a gate that compares a unit the defect does not respect will return clean forever.**
+
+**NO PLANNED PLOT MOVED. No card, no day spine, no movement, and no chapter was rewritten from the top. Nine files changed, all in 321–330, none in 329. Chapter 329 is the scene and was not touched at all.**
 
 
 ## Volume 7, Batch 0002 — SUPERSEDED GATE RECORD (retained as history, not live).

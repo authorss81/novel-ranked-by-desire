@@ -108,7 +108,7 @@ Wren Kallo spoke from the corner, where she had stood since six and where she wo
 
 "Then remember this too," she said. "I may not be asked anything about that address again, ever, in any room. You promised that on the twenty-eighth in a forensics room with three conditions. So whatever attests for you will not be me. I am already on the list fourth from the top with my posting on it. I carry that. I carry nothing else."
 
-He nodded. He had promised, and the promise held every day, and it would hold when he broke his own term at a later date in another woman's rooms.
+He let it stand. He had promised, and the promise held every day, and it would hold when he broke his own term at a later date in another woman's rooms.
 
 Twenty days since the nineteenth of October, when he had left a correction half filled at a counter and a clerk had entered the refusal with a date. Ten days since the twenty-ninth, when Runa Sato had told the kitchen about the Field order.
 

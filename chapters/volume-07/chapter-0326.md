@@ -123,6 +123,7 @@ At noon he stood at the branch gate letting the scan beep him through, thinking 
 He thought of the brother's whole want, stated as a number because in this city a number is a want, and of his own want beside it, rank nine for the file, and how the two wants were one want with four years between them.
 
 At four he walked the tram line home past the wall without reading it, saving the reading for Beatrix, who reads walls the way Tessa holds bodies, past the point they should stop.
+
 He oiled the lock on the street door before bed, working the key slowly so as not to wake the ground floor, thinking of seals and years and accounts with no number.
 
 Agnete Lindqvist, ground floor by the street door, called softly through her door that the oil would do, and he smiled in the dark hall, and went up quieter than he had come down.
