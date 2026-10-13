@@ -13,8 +13,21 @@ the month after the month it was answered in**.
 **The calendar Batch 0003 runs on, derived and fixed.** July 1 is a Saturday, so **July's Thursdays are the
 sixth, the thirteenth, the twentieth and the twenty-seventh**, the last Thursday in July is the twenty-seventh,
 **the thirtieth is a Sunday, August 1 is a Tuesday, and the next Thursday is the third of August.** A month is
-thirty days and has no thirty-first. **August's Thursdays are the third and the tenth.** Only Thursday is ever
-named, and every Thursday in this batch is the third of August.
+thirty days and has no thirty-first. **August's Thursdays are the third, the tenth, the seventeenth, the
+twenty-fourth and the thirty-first, and September's are the seventh, the fourteenth, the twenty-first and the
+twenty-eighth.** Only Thursday is ever named, and every Thursday in this batch is the third of August.
+
+**THE DAY COUNTS ARE NOT ONE CONVENTION, AND A REPAIR AFTER THE BATCH FIXED THE RECORD THAT SAID THEY WERE.**
+**FIVE COLUMNS ARE ELAPSED — Petra off roll 4 June, the sworn page of 14 June, Sun's row of 22 March, Rask's 419
+days on 24 July, and every countdown to 1 September. TWO ARE INCLUSIVE — the term sworn in the dark on the night
+of 9 July, where that night is day one, and every count of mornings a thing has been in a state, the bare table
+since 14 July and the saucer since 15 July.** At the ninth of August: **Petra 65 · Sun's row 139 · sworn page 55
+· term thirty-one days · Rask's sitting 404 · twenty-two days to 1 September.** The full map, with each figure
+traced to the line that prints it, is `reviews/volume-06/batch-0003.md` **§2**, and it is **rebuilt** — the
+first version skipped a day in the Term column and carried the first of August's figures against a row labelled
+*30 Jul n / 1 Aug*. **The repair record is §7, and it names two carried figures that were deliberately left
+standing: `270:111`'s one-day seam against 270 (Batch 0002's closed chapter) and `276:3`'s saucer count, which
+depends on an anchor at `266:101` and cannot be derived from inside a batch. Do not "fix" either alone.**
 
 **Ten chapters, one a day, the night of the thirtieth of July through the ninth of August.** 271 carries the
 night of the thirtieth *and* the morning of the first, because Ch 269's owed scene runs from half past twelve

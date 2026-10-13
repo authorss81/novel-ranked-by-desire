@@ -8,7 +8,7 @@ The painters' card comes off the board at the north end of the ranks wall a few 
 
 "Three under for four years and one month, four under for eleven days, five under on the thirtieth." She gave the card back. "Twenty-one days."
 
-He told the kitchen at about nine in the morning on the ninth and there were seven of them in it and the table was bare for the twenty-seventh day.
+He told the kitchen at about nine in the morning on the ninth and there were seven of them in it and the table was bare for the twenty-sixth day.
 
 He told it the way he had told them everything since the second, in the order he had worked it out in, and it took about eleven minutes, and the last part of it was that there were two roads and both of them were a name and he was going to go and ask her for it.
 

@@ -24,7 +24,7 @@ The room was cold and it had a chair in it and a deal table and forty-one books 
 
 "You knew it in a corridor at Cordwain." Wren Kallo said it without any weight at all. "You worked it out in about nine seconds in front of a woman who counts out loud. And then you went into a queue for an hour and ten minutes to find out whether there was a third road, and you told me last night that there were two and both were the same, and you said it as though that were the finding."
 
-She waited.
+She did not take it back.
 
 "It was not the finding. You went to that counter so that you would not have to be on your own with it for an hour and ten minutes. That is what you did. You are a man who cannot be alone with a thing, so you stood in a line."
 

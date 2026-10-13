@@ -4,9 +4,33 @@ Write **ten finished chapters, in order**, into `chapters/volume-06/chapter-0281
 **Chapters, not summaries, and not outlines of chapters.**
 
 **Volume 6 Batch 0003 (Ch 271–280) is written and closed on disk. Its head block is `state/current.md`; its
-live gates are at the head of `state/open-threads.md`; its day map, its date trace and its repair record are
-`reviews/volume-06/batch-0003.md` **§2 and §3**. Its volume outline is `outline/volume-06.md` and it was
+live gates are at the head of `state/open-threads.md`; its day map and its date trace are
+`reviews/volume-06/batch-0003.md` **§2 and §3**; **and its repair record is §7, which is not optional reading
+because two of its findings are still carried forward.** Its volume outline is `outline/volume-06.md` and it was
 rewritten after its own ten chapters — **§6 movement 3 is written fact and §6 movement 4 onward is a plan.**
+
+> **INHERITED FROM BATCH 0003'S REPAIR (`reviews/volume-06/batch-0003.md` §7).**
+>
+> **1. THE DAY COUNTS ARE NOT ONE CONVENTION AND THE MAP NOW SAYS WHICH IS WHICH. FIVE COLUMNS ARE ELAPSED —
+> Petra off roll 4 June, the sworn page of 14 June, Sun's row of 22 March, Rask's 419 days on the 24th of July,
+> and every countdown to the first of September. TWO ARE INCLUSIVE — the term sworn in the dark on the night of
+> the ninth of July, where that night is day one, and every count of mornings a thing has been in a state, the
+> bare table since the fourteenth of July and the saucer since the fifteenth.** At the ninth of August that is
+> Petra **65**, Sun's row **139**, the sworn page **55**, the term **thirty-one days** (which is what 280:23
+> prints and what item 13 below already carries), Rask's sitting **404**, and **twenty-two days to the first of
+> September.**
+>
+> **2. TWO CARRIED FIGURES ARE NAMED AND DELIBERATELY UNFIXED, AND MUST NOT BE "CORRECTED" IN THIS BATCH.**
+> **`270:111` prints the term as twenty-one days on the thirtieth of July where the inclusive count is 22,
+> because Chapter 270 is Batch 0002's closed chapter and it counts elapsed. Leave it. `276:3` counts the saucer
+> as twenty-three days old on the fifth of August, which matches nothing in the book — inclusive from the
+> fifteenth of July it is the twenty-first, and the bare table on that morning is on its twenty-second. The
+> correct value depends on an anchor at `266:101`, in a closed chapter, so no value can be derived from inside a
+> batch and none was invented. If you touch the saucer, settle 266 and 276 together or leave both alone.**
+>
+> **3. A GATE ROW IS NOT A RESULT.** Batch 0003 reported `nobody 0` in a block that quoted the rule *"a gate
+> that returns zero is a claim to be tested and not a result to be reported"*, and there were **five**. Run
+> every count against the file and read the line back out of it before it goes in a block.
 
 ---
 
@@ -210,16 +234,38 @@ exact-duplicate paragraphs  0, on the WHOLE-PARAGRAPH test, batch AND neighbours
                             **A first-6-words-prefix test returns 10 and a first-4-words-prefix test returns
                             68 on Batch 0003's own clean batch, and every one of the 68 is an ordinary
                             opener and not a repeated sentence. The two tests are different. Report both.**
-nobody / no person / He understood / He also understood     each reported, not assumed
+                            **THE FLOOR HAS A HOLE IN IT AND A REVIEWER FOUND IT.** `She waited.` stood in
+                            Ch 279 twice, 124 lines apart, both a beat before she speaks. Both lines are under
+                            four words, **so every paragraph gate in this list passed straight through it and it
+                            shipped.** **Run the whole-paragraph duplicate test at floor 1 and floor 2 as well as
+                            floor 3.** On Batch 0003's repaired chapters, floor 1 returns 11 groups and floor 2
+                            returns 5 — **and every one of those is a quoted dialogue beat** (*Yes.* ×18, *No.*
+                            ×9, *Go on.* ×9, *Say it.* ×5, *I know.* ×4, *I did.* ×3), whose recurrence is the
+                            book's rhythm and not a defect. **The only unquoted duplicate at either floor is
+                            `He sat down.` at 262 and 263, which is Batch 0002's.** So: report the floors, and
+                            report the quoted and unquoted groups separately. **Do not turn it into a
+                            first-three-words test — that returns 12 openers on the same chapters and 10 of them
+                            are ordinary beats.** Test identity, not opening words.
+nobody / no person / He understood / He also understood     each reported, not assumed.
+                            **Batch 0003 reported 0 where the text says 5 and a reviewer found all five.
+                            Run the count and read the lines back before you write the row.**
 He had woken wanting        reported as a count out of 10
 He felt                     case-sensitive
 weekday                     only Thursday is named; every other weekday -> 0, whole-word AND as a
                             substring. **Count the surviving Thursdays AND check each against the
-                            calendar: August's Thursdays are the third and the tenth, and September's are
-                            the seventh, the fourteenth, the twenty-first and the twenty-eighth.**
+                            calendar: August's Thursdays are the third, the tenth, the seventeenth, the
+                            twenty-fourth and the thirty-first, and September's are the seventh, the
+                            fourteenth, the twenty-first and the twenty-eighth. August 1 is a Tuesday and
+                            August 3 is a Thursday.**
 meta / fourth wall / ages   0
 12-gram scene scan          **RUN THIS FIRST, AGAINST ALL CHAPTERS INCLUDING THIS BATCH, AND BEFORE THE
                             8-WORD SENTENCE SCAN, AND RUN IT REPEATEDLY.**
+                            **STATE THE TOKENISATION WITH THE NUMBER.** Batch 0003's gate splits on whitespace
+                            with case and punctuation significant and reported 2. The same scan
+                            lower-cased with punctuation stripped returns **56** for that same batch, because
+                            two phrases that were deliberately reworded differ only by a comma or a capital.
+                            **Both are defensible tests and they do not agree, so a reported 12-gram figure
+                            without its tokenisation is a number nobody can reproduce.** Say which one ran.
 quote balance               NEW ROW, NOT IN THE STANDARD LIST, ADDED BY BATCH 0003. An even number of
                             quotation marks in every chapter file, tested whole-file.
 ```

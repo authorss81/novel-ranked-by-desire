@@ -120,7 +120,7 @@ He had written it anyway. The alternative was a form at the north desk with a sp
 
 Six of them slept there. One of the seven did not.
 
-There was no office in this city that could serve Ines Duarte a copy of the hundred and thirty-fourth answer line where she lives, and there was a man in this city who had promised in the dark on the ninth of July that no paper would ever be read to her in those rooms, and he had kept it for twenty-two days.
+There was no office in this city that could serve Ines Duarte a copy of the hundred and thirty-fourth answer line where she lives, and there was a man in this city who had promised in the dark on the ninth of July that no paper would ever be read to her in those rooms, and he had kept it for twenty-three days.
 
 Keeping it and swindling his own household out of a year of a woman's tail turned out to be one act and not two.
 

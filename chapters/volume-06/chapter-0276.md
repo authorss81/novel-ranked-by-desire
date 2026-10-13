@@ -140,4 +140,4 @@ She put the pencil down.
 
 "There are eight women in this building and one of them is behind a counter at the Vestry and one of them is somewhere on a tram. That is eight and not seven. And the reason the answer is seven is that a man in a district office left a line empty in June, and this city has been counting his emptiness ever since."
 
-"Twenty-nine days," she said. "That is what is left. And one of them has to be a name."
+"Twenty-six days," she said. "That is what is left. And one of them has to be a name."

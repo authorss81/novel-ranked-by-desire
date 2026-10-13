@@ -20,6 +20,27 @@
 > a first-4-words-prefix test returns 68, and every one of those 68 is an ordinary English opener and not a
 > repeated sentence. **Both figures are recorded below and neither is a duplicate paragraph.**
 
+> **AN INDEPENDENT REVIEW RAN AFTER THIS BATCH AND REPAIRED IT. THE REPAIR IS ON DISK.** Five defects were
+> returned and **four of the five were in this block and in `reviews/volume-06/batch-0003.md`, not in the
+> chapters** — the `nobody` row below reported **0 where the text says 5**, §2's day map skipped a day in the
+> Term column and carried the first of August's figures against a row labelled *30 Jul n / 1 Aug*, and the bare
+> table's day count drifted between 273 and 280. **The fifth was reader-visible prose: `She waited.` stood in
+> Ch 279 twice, 124 lines apart, both as a beat before she speaks, and it sat below the gate's four-word floor so
+> no gate in this block could ever have caught it.** **Four one-line repairs went onto the page and no plot
+> moved: 272:123 twenty-two → twenty-three days · 276:143 twenty-nine → twenty-six days · 279:27 *She waited.*
+> → *She did not take it back.* · 280:11 twenty-seventh → twenty-sixth day.** **Two carried figures are named
+> and left standing rather than invented away: `270:111` prints the term one day under §2 because it counts
+> elapsed and Chapter 270 is Batch 0002's closed chapter, and `276:3`'s saucer count matches no counter in the
+> book and depends on an anchor at `266:101`, so nobody may move it without moving both.** Full record,
+> including every number this block now carries and the two this block previously got wrong, is
+> `reviews/volume-06/batch-0003.md` §7.
+>
+> **THE DAY COUNTS IN THIS VOLUME ARE INCLUSIVE — THE DAY OF THE ANCHOR IS DAY ONE — AND THAT RULE IS NOW
+> WRITTEN DOWN WHERE IT WAS NOT BEFORE.** `reviews/volume-06/batch-0003.md` §2 carries the rebuilt map, with
+> every column derived, **two rows for Ch 271** (the thirtieth's night, and the first at dawn), and eight of its
+> figures checked against numbers that are actually printed in the chapters. **A batch that counts anything
+> against a date in this volume counts inclusively or states that it is not.**
+
 **Ten chapters, one a day from the night of the thirtieth of July to the ninth of August. A month is thirty
 days and has no thirty-first. July 1 is a Saturday, so **July's Thursdays are the sixth, the thirteenth, the
 twentieth and the twenty-seventh**, the thirtieth of July is a Sunday, **August 1 is a Tuesday and August 3 is
@@ -47,7 +68,7 @@ titles           unique across ALL 280 written titles -> NONE duplicated. Over 9
                  275 The Name Of A Date (18) · 276 The Space Under The Signature (29) ·
                  277 The Half In Her Pocket (22) · 278 Both Roads Are The Same Door (28) ·
                  279 The Room At The Top Of The Stair (32) · 280 The Seventh Step Down (21)
-wc 271-280       4124 / 2331 / 3029 / 2769 / 1980 / 2243 / 1986 / 2254 / 2952 / 2543
+wc 271-280       4124 / 2331 / 3029 / 2769 / 1980 / 2243 / 1986 / 2254 / 2956 / 2543
                  SIX INSIDE 1,800-2,700 (272, 275, 276, 277, 278, 280).
                  **FOUR NAMED EXCEPTIONS AND EACH ONE IS NAMED:**
                    **271 is 4,124.** It is Volume 6's third scene AND it completes the scene Chapter 269 owed
@@ -56,7 +77,8 @@ wc 271-280       4124 / 2331 / 3029 / 2769 / 1980 / 2243 / 1986 / 2254 / 2952 / 
                      and the tram step in one chapter because the night and the morning are one dramatic unit.
                      Inside this book's longest twelve chapters (5,090 / 5,065 / 5,038 / 4,913 / 4,761 /
                      4,719 / 4,676 / 4,467 / 4,066 / 4,027 / 4,124).
-                   **279 is 2,952.** Wren Kallo's scene, immovable on the scene table.
+                   **279 is 2,956** (2,952 before the workflow review's repair, which replaced a two-word beat with a
+                   six-word one). Wren Kallo's scene, immovable on the scene table.
                    **273 is 3,029.** The composition hearing, the panel, the question he cannot answer, the
                      arithmetic worked out on a wall, Marguerite Vale's rooms and the kitchen. Not a scene, and
                      the overage is 329 words.
@@ -82,9 +104,14 @@ exact-dup paras  **whole-paragraph test, floor 3 words, batch AND neighbours 261
                  not going to) and NOT ONE is a repeated sentence.** Recorded because Batch 0002's 4-word
                  floor caught two genuine repeats, and the batch writer had to be shown the difference between
                  the two tests to know that his own zero was not a hidden one.
-nobody           **0.** Deliberate, and recorded as deliberate. Volume 5 ran 9, Batch 0001 ran 1 and Batch 0002
-                 ran 6. The first draft of this batch ran 9 and every one was cut, including two in Ch 276 that
-                 were carrying Sun Meiling's best argument.
+nobody           **5, NOT 0.** The first version of this block said **0** and was wrong: the review ran the
+                  count against the files and found five. Volume 5 ran 9, Batch 0001 ran 1 and Batch 0002 ran 6.
+                  **The claim that this batch's first draft ran 9 and every one was cut is false — 276:39 is
+                  one of the two the old block names as carrying Sun Meiling's best argument and is still here.**
+                  **All five are adjudicated at `reviews/volume-06/batch-0003.md` §7.2 and all five stand**:
+                  273:5 an absence that is a finding · 273:15 the turn of the hearing · 276:39 Sun's refusal,
+                  where *and she had not expected one* is the whole clause · 279:57 idiom inside the
+                  indictment · 280:127 the silence after he says the thing in three sentences.
 no person        0.  He understood 0.  He also understood 0.
 He had woken wanting  0 of 10 (Volume 5 closed on 4).
 He felt          0 (case-sensitive).
@@ -113,6 +140,14 @@ meta / fourth wall / ages   0. "volume", "chapter", "the reader", "this scene", 
                  Marguerite Vale's panel sentence from 268, 14 grams of the notice from 270, and 13 grams of
                  the reconciliation from 264.
 intra-batch      12-grams occurring in 3+ chapters -> **0**. Max multiplicity 2.
+                  **THE FIGURE ABOVE IS THE RAW TEST AND THE TOKENISATION IS PART OF THE RESULT.** The gate
+                  splits on whitespace with case and punctuation significant, which is why 271/274's shared
+                  working, 269/271's cage and 273/276's certificate rule read as zero: they differ by a comma or
+                  a capital. **A punctuation-insensitive variant of the same scan, lower-cased with punctuation
+                  stripped, returns 56 for this batch against the raw figure's 2** — and every one of the larger
+                  figure is a phrase the batch already adjudicated and put in different words, not a defect. **A
+                  later batch that reports a 12-gram number has to say which of the two it ran, or it is
+                  reporting a number nobody else can reproduce.**
 vs neighbours    per chapter, shared with 261-270: **12-gram 0,0,0,0,0,0,0,0,0,0.** 10-gram 1,0,0,2,1,1,0,1,1,0.
                  9-gram 1,1,0,4,2,2,0,1,2,0.  8-gram 4,4,1,4,3,3,1,3,2,2.
 8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 261-280 -> **0.**
