@@ -1,4 +1,179 @@
-## VOLUME 8 — PLANNED, NOT WRITTEN. CHAPTERS 351–400. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK AND THE VOLUME HAS NO CHAPTER ON DISK.
+## VOLUME 8 — CHAPTERS 351–360 ARE ON DISK. CHAPTERS 361–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK.
+
+**`outline/volume-08.md` §6 MOVEMENT 1 WAS REWRITTEN AGAINST CHAPTERS 351–360 IN THE COMMIT THAT WROTE THEM,
+and it names five places the plan was wrong on the page.** **THE NEXT PHASE IS A WRITING PHASE:
+`workspace/volume-08/batch-0002/PROMPT.md`, which writes 361–370 and no prose about anything else.**
+**Ten files, 22,606 words counted per file and summed. Volume 8 is 22,606 words long and has forty chapters to
+go.**
+
+### 0. WHAT CHAPTERS 351–360 ADDED TO THE CONTINUITY OF THIS BOOK, AND A LATER CHAPTER MAY NOT CONTRADICT
+
+1. **A CALLED LINE CALLED TWICE MAY BE CARRIED FORWARD BY THE ROOM THAT HOLDS THE BOOK, WITHOUT A FRESH SHEET
+   BEING DRAFTED, FROM THE FIRST OF FEBRUARY.** Entered once, in writing, on a slip torn off a plain pad with a
+   ruler, in a hand deliberately not her own, not filed, by Hanneke Ruis at ten to nine on the first of January,
+   to one man. **She said it once and will not say it twice and will not be thanked.** **A carry-forward sheet is
+   not an instrument and nobody has to draft it or put a name under it.** (351)
+2. **THE SECOND CALL ITSELF.** *Called* in the chained real book on the first of December at ten to nine and
+   again on the first of January at ten to nine, word, rule, date, pen on a chain round a wrist, time entered at
+   **twenty to nine**. **A mark in that book cannot be scraped off without a line in a destruction book and the
+   name of the broker who wrote it.** (351)
+3. **A VALUATION NOBODY STANDS AT IS NOT A VALUATION.** That is the whole of why a man with no standing may be
+   in the counting room at all. (351)
+4. **ATTENDANTS SCORE IN AGGREGATE TO THE WHOLE STAFF OF A BRANCH ROUND AND THE SPLIT HAS NEVER BEEN PUBLISHED,
+   AND THEREFORE NO PLATE CAN BE TRACED BACK TO ANY MAN ON THE FOURTH BRANCH.** **THIS IS NOT WHY HE IS ON THE
+   FLOOR OF HIS BAND.** Eight witness hands under a page on the twenty-ninth of December is, and 353 says so
+   out loud. (353)
+5. **SIX OF THE EIGHT AT PREMISES 34-6-118 HOLD A POST A DIVISION CAN SERVE A PAPER AT** — Field · Bureau
+   counter-forensics, which **holds the description and therefore serves anything laid against those premises** ·
+   the Vestry · the guild · the Church · Veil-Research — **five of the six inside machinery a requisition would
+   travel through, and the sixth answering a departmental consult about a transfer that carried no name.**
+   A seventh, Beatrix Halm's, is a tram office and not a division. **The eighth is Isolde Marchetti and her
+   posting is not in any division in this city at all.** (354)
+6. **THE TEXT OF A DECLARATION OF HOLDING, AND IT IS NOW ON THE PAGE AND IT IS THE SAME INSTRUMENT AS THE FOUR
+   SHEETS:** the head, *this is a declaration of holding*, the account of thirty years at that address held by
+   him, the figure of seven dated the sixteenth of September and initialled and not signed, that it has not been
+   paid and has not been produced and there is no production off those premises and there never has been, his
+   name and the date. **NO REASON CLAUSE. AND NO EIGHT WORDS AT THE FOOT — *a declaration is not an attestation
+   and there is nowhere on it for a man to say he will answer for it*.** He signed it alone. (356)
+7. **THE SERVICE SPINE, FIXED ONCE:** laid at five minutes to eleven on the fourteenth of January · served at
+   the desks of the persons named on the **fifteenth** · **out on the ordinary stream at four in the afternoon
+   on the nineteenth**, eight copies to eight addresses inside one building on Ferrier Street and six more to six
+   divisions. **Fourteen to the nineteenth is five days. Nothing may put a fifteenth-service in the future of a
+   sixteenth chapter.** (357, 359)
+8. **THE GAP IN THE WITNESS LINE IS THE FOURTH SEAT AND HE SAYS SO OUT LOUD ON THE PAGE.** Two fingers wide, in
+   the middle of the paper, since the twenty-ninth of December and again on the fourteenth of January. **It has
+   never been his eight women. It is a member of the room, and that member has been empty since the first of
+   November, and a line in a book with a gap in it is a thing a clerk copies out every quarter for four years.**
+   (357)
+9. **SUN MEILING HAS READ HER OWN FOUR LINES OUT LOUD, IN HER OWN HAND, WITH HER INITIALS IN THE MARGIN AGAINST
+   THE FOURTH, AND HAS REFUSED TO SUMMARISE THEM.** **PERENN SOWE'S FOUR LINES ARE STILL SHUT AND ARE STILL NOT
+   HERS TO OPEN.** What she read is her own draft of a departmental answer about a transfer that carried no name,
+   three years old, folded in three, grey at the folds, kept in a drawer under the bench. **The act is the turn;
+   the content is not, and a later chapter may not supply the content before 374.** (358)
+10. **SUN MEILING HAS INITIALLED THE TWENTY-TWO-STITCH ROW HERSELF, ON THE FIRST OF SEPTEMBER, IN A BOOK IN HER
+    OWN WING, WITH A DATE AGAINST IT AND HER NAME AGAINST THE ROW.** A pencil row in a coat lining disappears
+    when a coat is washed. (358)
+11. **PERRIN SOWE SENT FOR HER AT HER OWN DESK ON THE FIFTEENTH OF JANUARY, IN FOUR WORDS, AND SHE WENT UP TO
+    THE THIRD FLOOR FOR ELEVEN MINUTES FOR THE FIRST TIME IN THREE YEARS.** **HE STILL HAS NEVER COME DOWN THAT
+    CORRIDOR IN THREE YEARS AND 364 IS OWED.** He wants the consult that answers a transfer carrying no name and
+    he wants it by the end of the twentieth, because the wing's answer queue goes on the twenty-first. He does not
+    know his name is in it. (358)
+12. **ALMA QUAYLE'S FOUR LINES WENT OUT ON THE ORDINARY STREAM AT FOUR ON THE TWENTY-SIXTH OF JANUARY, ninety-
+    seven days after she drafted them at 11.40 on the nineteenth of October, and it went in as a finding about
+    method and not about the subject.** The four lines are canon now and are printed in full at 360: an account
+    carried at a composition is reached through that composition and through nothing else in this city · a
+    composition may be lowered by any person keeping that address, at any counter, at any hour, by giving the
+    address up · giving an address up is ordinary and requires no instrument, no permission, no witness and no
+    holder, and is dated at the counter · the priced line says seven and the composition says eight and both are
+    true and neither corrects the other and the second is not a mistake. (360)
+13. **ALMA QUAYLE WROTE TO THE ROOM ON THE TWENTY-SECOND OF JANUARY ASKING FOR HER RECUSAL TO BE LIFTED SO THAT
+    SHE CAN ANSWER FOR THE FILE WHEN IT IS HEARD IN ABOUT FOUR YEARS. THE CHAIR REFUSED HER IN ONE WORD. THE
+    WORD IS *NO*. IT IS THE FIRST TIME IN ELEVEN YEARS THAT ROOM HAS ANSWERED A WOMAN OF HERS IN ONE WORD, AND
+    SHE DID NOT SHOW HIM WHICH.** (360)
+14. **WREN KALLO HAS TOLD A DIVISION THAT DOES NOT SIT IN THE WING, THAT KEEPS NO LIST OF ADDRESSES, AND THAT WAS
+    SENT A STRIP ABOUT IN OCTOBER.** That is the whole of what is on the page and it is not a name and not a
+    man. **He asked nothing and nobody thanked him for asking nothing.** (352)
+
+### 1. THE CALENDAR AS IT NOW STANDS, AND EVERY INTERVAL RE-SUBTRACTED
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and the
+last working day of a quarter. NO INTERVAL MAY BE DERIVED AGAINST A REAL CALENDAR — SUBTRACT DAY NUMBERS.**
+
+| Chapter | Day | Chapter | Day |
+| --- | --- | --- | --- |
+| 351 | 1 Jan | 361 | 27 Jan |
+| 352 | 3 Jan | 362 | 30 Jan |
+| 353 | 5 Jan | 363 | 1 Feb |
+| 354 | 8 Jan | 364 | 4 Feb |
+| 355 | 10 Jan | 365 | 6 Feb |
+| 356 | 12 Jan | 366 | 9 Feb |
+| 357 | 14 Jan | 367 | 11 Feb |
+| **358** | **16 Jan, the scene** | 368 | 14 Feb |
+| 359 | 19 Jan | **369** | **16 Feb, the scene** |
+| 360 | 26 Jan | 370 | 20 Feb |
+| 371 | 21 Feb | **372** | **23 Feb, THE FILE OPENS** |
+| 373 | 24 Feb | 374 | 26 Feb |
+| 375 | 27 Feb | 376 | 1 Mar |
+| 377 | 3 Mar | 378 | 5 Mar |
+| 379 | 8 Mar | **380** | **10 Mar, the scene** |
+| 381 | 11 Mar | 382 | 12 Mar |
+| 383 | 13 Mar | 384 | 14 Mar |
+| 385 | 15 Mar | 386 | 16 Mar |
+| 387 | 17 Mar | **388** | **18 Mar, the scene, IMMOVABLE** |
+| 389 | 19 Mar | 390 | 20 Mar |
+| 391 | 21 Mar | 392 | 22 Mar |
+| 393 | 23 Mar | 394 | 24 Mar |
+| 395 | 25 Mar | 396 | 26 Mar |
+| 397 | 27 Mar | **398** | **28 Mar, the scene** |
+| 399 | 29 Mar | **400** | **30 Mar at six** |
+
+**VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero, and 351–360 kept it.
+
+**INTERVALS THAT 351–360 PRINTED AND THAT A LATER CHAPTER MAY NOT RE-DERIVE DIFFERENTLY:** seventeen of
+September to the first of January is **a hundred and four days**, and Hanneke Ruis has been in that room for all
+of them. **The twenty-eighth of October to the eighth of January is seventy days, which is ten weeks and not
+nine.** The fourteenth to the nineteenth is **five days**. The sixteenth to the twentieth is **four days**.
+**The sixteenth to the twenty-sixth is ten days.** The nineteenth of October to the nineteenth of January is
+**ninety days** and to the fifteenth is **ninety-four**, and to the twenty-sixth is **ninety-seven**. The
+thirtieth of December to the fifth of January is **five days** and to the twenty-sixth is **twenty-six**, and
+**there is no thirty-first in that month.**
+
+**THE BAND FLOOR:** 8,142 on the thirtieth of July · 8,143 on the thirtieth of August · 8,144 on the thirtieth
+of September · **8,145 on the thirtieth of December**, set by another office in a different hand at six in the
+morning. **He stood at 8,145 on the nose on the fifth of January and had not moved on the fourteenth and had
+not moved on the nineteenth.** **It does not move again until the thirtieth of March and no batch may print a
+figure for that card that is not printed in the chapter that uses it.**
+
+### 2. THE SCENE SCHEDULE
+
+**358 Sun Meiling — WRITTEN AND COUNTED, body 2,934 words, probed.** · **369 Agnete Lindqvist** · **380 Tessa
+Okonkwo** · **388 Dagmar Oyelowo (IMMOVABLE)** · **398 Wren Kallo**. Gaps 350 → 358 = **8** · 358 → 369 = **11** ·
+369 → 380 = **11** · 380 → 388 = **8** · 388 → 398 = **10**. **No gap under eight and none over fifteen.**
+**Volume 7's five scenes are spent and are not continued: 308, 318, 329, 340 and 350.** 358 is not staged as 63
+and 350 is not re-staged in it.
+
+### 3. MECHANICS, REFERRED AND NEVER RE-EXPLAINED
+
+Movement needs a **Seal**. Nine seals in Ostara will carry one. One use costs the carrier a year of standing. A
+man with no standing cannot obtain one. **The seal that would answer is his brother's, because a seal matches the
+account and not the man.** The account was handed to him, three years past, in one movement, everything at once.
+**Nothing spent, nothing drawn, nothing routed, no folio, no second folio, no settle clock, no settle date, no
+classification completed, and no requisition laid, served, sealed or carried in 351–360.**
+**LIN WEI'S FILE IS SHUT AND OPENS AT CHAPTER 372 AND NOT ONE CHAPTER BEFORE.**
+
+### 4. FOUR THINGS A VOLUME 8 BATCH MUST NOT GET WRONG, INHERITED WHOLE FROM VOLUME 7 AND RE-STATED AFTER BATCH 0001
+
+1. **Count per file and sum. Never `cat *.md | wc -w`.** Volume 7's returned 107,439 against a true 107,477.
+   Batch 0001 gave all ten of its files a trailing newline and the two figures agree at 22,606 — **and the trap
+   is still armed for any volume whose files lack one.**
+2. **A borrowed body is a canon error and the twelve-gram cannot see one. Volume 7 shipped three.** Batch 0001
+   found none: `right temple` is zero book-wide, the only temple in Volume 8 is Lin Hao's own grey at the **left**,
+   and the only new physical fact given to any woman is a line of work across the top of Sun Meiling's spine,
+   now recorded in `outline/volume-08.md` §4 so it cannot be doubled. **Remove the claim; do not move it.**
+3. **The ledger's line count is not the number of lines turned in it. 124 at 350, 125 at 353, 128 at 359, nine
+   turned throughout, nothing spent.**
+4. **A gate record is a claim. Re-run it from outside the pass that wrote the prose.** Batch 0001's own first
+   twelve-gram run used a glob that matched nothing in this repository's layout and returned a false zero, and
+   that is recorded in the live gate block so the next pass does not repeat it.
+
+### 5. STANDING AND UNCLOSED AT THE HANDOFF TO BATCH 0002
+
+The account of thirty years, **called twice**, unproducible, and now capable of being **carried forward without a
+sheet** · **the empty *Held by* box with a clerk's tick in it, which is no longer empty because a man has filled
+it himself** · **a declaration of holding in a room's keeping with eight hands under it and a two-finger gap** ·
+**Alma Quayle's four lines out, and the one word *no*** · **the twenty-two-stitch row initialled** · **Sowe's
+request for the consult, four days that ran out on the twentieth, and ten days of silence after it** · **Ines
+Duarte's drawer and the whole of file 4,112 in her hands, and no paper read in those rooms again** · **the false
+attestation of the twenty-seventh of November** · **Wren Kallo's decision to speak, and a division that keeps no
+list of addresses** · Wanda Rej's plaster and what her hand says now · the fourth seat and the man who was in it ·
+the woman in the sixth seat and her hand on the minute · Nikolai Vester · Sun Meiling's bar, and the fact that
+she cannot be sworn and therefore cannot be covered · the ninth turned line · the seventh returned line · the
+bare slot on the Reading wall · the two unstamped reads in the check column · the day Ines Duarte lost ·
+**the great offer, which is Chapter 486's and is not Wren Kallo's and is not Anouk Ferreira's.**
+
+---
+
+## VOLUME 8 — PLANNED, NOT WRITTEN. CHAPTERS 351–400. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. **SUPERSEDED BY THE BLOCK ABOVE AND RETAINED BELOW AS THE POSITION BEFORE CHAPTERS 351–360 EXISTED.**
 
 **`outline/volume-08.md` EXISTS AND WAS WRITTEN BEFORE CHAPTER 351 FOR THE FIRST TIME IN THE BOOK SINCE
 VOLUME SEVEN.** It is in two registers and the register is printed at the head of it: **§1 to §5 are written

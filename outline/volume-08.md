@@ -330,7 +330,8 @@ book has established and none of them may be given another:
 | **Ines Duarte** | ink at the cuticles of the first two fingers of **the right hand**, soap never lifted in eleven years; a grey at **the left temple** that came in three years ago, with the etches | a wrist scar from a fastener in the spring of her third year — that one is the paper cut, and it is **hers alone** |
 | **Wren Kallo** | two nails of **the left hand** stained at the roots with ink, nine years, and **the yellow at the corner of the white of her left eye since the spring**, which she has not had looked at and is not going to | **the grey at either temple. `right temple` occurs zero times in the book and Volume 8 keeps it at zero.** The left temple is Lin Hao's cost and the manuscript fixes the side in eight chapters. |
 | **Marguerite Vale** | hands with ink at the cuticles that soap will not lift (329) — occupational texture, no hand, no duration, no framing | a fourth instance of the ink-under-the-reader's-nose construction. **Three of Volume 7's five scenes put a Bureau woman's ink on the page and Volume 8 must not add a fourth.** |
-| **Lin Hao** | **grey at the left temple**, and Chapter 72 makes the immovability of the location a deliberate beat | it moving. It does not move in this volume. |
+| **Lin Hao** | **grey at the left temple**, and Chapter 72 makes the immovability of the location a deliberate beat | it moving. It does not move in this volume. **It is named out loud at 358 by the woman who looked at it four times this year and never once said anything, which is not a new mark and is not a move: the location and the owner are unchanged and the rule is intact.** |
+| **Sun Meiling** | **nothing on her before 358**, and 358 gives her exactly one new physical fact and no mark at all: **a line of work across the top of her spine where a docket folder has sat against her for eleven years**, plus the twenty-two-stitch row in a coat lining, which is paper and not a body | a mark borrowed from the four above, a grey at either temple, ink at the cuticles, or the yellow at the corner of an eye. **If 358 is ever re-read and one of those appears on her, it is a canon error and the claim comes out.** |
 
 ---
 
@@ -431,11 +432,14 @@ it, or the chapter does not use one.
 
 ---
 
-## 6. THE MOVEMENTS, 351 to 400 — PLAN, and the plan is not yet a page
+## 6. THE MOVEMENTS, 351 to 400 — **MOVEMENT 1 IS WRITTEN FACT; MOVEMENTS 2 TO 5 ARE STILL PLAN**
 
-> **Movements 1 to 5 are unvalidated plan written by a phase that has never tested any of it.** Treat it as a
-> proposal with a spine. `AGENTS.md`: a batch that finds a better answer on the page takes it and rewrites
-> this file in the same commit.
+> **MOVEMENT 1 IS NO LONGER PLAN. Chapters 351–360 are on disk and movement 1 below was REWRITTEN AGAINST THEM
+> on 13 October 2026, in the commit that wrote them, and it ends with five named places the plan was wrong.**
+> **Movements 2 to 5 are unvalidated plan written by a phase that has never tested any of them.** Treat those as
+> a proposal with a spine. `AGENTS.md`: a batch that finds a better answer on the page takes it and rewrites this
+> file in the same commit. **Batch 0002 owns the carry-forward collision at the end of this section and must settle
+> it on the page.**
 
 **THE ESCALATION FOR THE VOLUME IS FIVE WORDS AND IT IS A VOLUME 8 CONSTRUCTION, NOT A QUOTATION:
 *declared → grounded → produced → served → unanswered*.** Volume 7 ran *describable → named → wanted →
@@ -450,85 +454,201 @@ been published, and the turned count does not move, and the ninth turned line is
 
 ### Movement 1 — THE LINE IS CALLED AGAIN (351–360). 1–26 January.
 
+> **REWRITTEN AGAINST THE PAGE ON 13 OCTOBER 2026, IN THE COMMIT THAT WROTE 351–360.** `AGENTS.md`: a batch
+> that finds a better answer on the page takes it and rewrites this file in the same commit. **The plan below
+> was written by a phase that had never seen a page of this volume. Five of its ten cards came out of the
+> other side of the page and are corrected here, and the places where it was wrong are named at the end of
+> the movement rather than quietly overwritten.**
+
 **The promise:** the account is called again on the first of the month, and a second call is not the same
 thing as a first.
 
 - **351 (1 Jan, ten to nine). THE VALUATION.** *Called* goes into the chained real book a second time: the
-  word, the rule, the date, the pen on a chain round a wrist. **The turn is Hanneke Ruis, in the ordinary
-  course and against her own rule, writing him an answer she has not written for anybody:** a line called
-  once waits; **a line called twice may be carried by the room without a fresh sheet being drafted**, and the
-  room has never had one to carry. She will not say it twice and it does not go in the book.
-  **Cost:** the account now has a paper against it that is not a description and not a valuation. **The
-  option closed: the quiet is over and he chose nothing.**
-- **352 (3 Jan). THE WEEK SHE ASKED FOR, AND IT IS OVER.** Wren Kallo comes back to the table having been
-  off it for four days by her own instruction. **She has chosen and she is not going to say whom, and he is
-  not permitted to ask, and he does not ask, and the chapter is written so that the reader watches him not
-  ask.** What she gives instead is the one thing she can: *the office I told has asked me a question I could
-  only answer by putting a name on it, and I did not put a name on it.* **She has therefore told them the
-  shape and not the woman.** And: she will not be visited with good news for a week and it has not been one.
-- **353 (5 Jan). THE PLATE HOLDS AND IT IS NOT HIS.** 8,145 on the nose, the floor 8,145, **and the wall
-  says nothing about him for the first week running — five days, from the card of the thirtieth of December
-  to the fifth of January, and there is no thirty-first in it.**
-  The arithmetic is Beatrix's and it is the first arithmetic in this volume that flatters him: **branch
-  attendants score in aggregate to the whole staff and the split has never been published, and a man standing
-  on the floor of his band on the strength of a formula he has never seen is the most anonymous thing
-  available to him. It explains why nothing on the plate can be traced to him. It did not put him on the
-  floor: eight witness hands signed under a page on the twenty-ninth and that is the whole of the arithmetic,
-  and Chapter 349 closed the question.** **He does not want it.** He has been invisible on purpose for seven
-  years and this is the first invisibility he did not build.
-- **354 (8 Jan). SIX OF THE EIGHT HAVE A POST.** Runa Sato does the arithmetic he has never done. **A
-  description of premises carries the public post of anybody at that address who holds one** (316), and the
-  declarations of five of the eight go to divisions: the Field, the Bureau counter-forensics that holds the
-  description itself, the Vestry clinic, the guild, and the Church. **And the sixth is Sun Meiling, in a wing
-  that answers a departmental consult about a transfer that carried no name.** **Nobody has ever counted his
-  own household before and the count is the size of the box.**
-- **355 (10 Jan). THE DECISION, AT THE KITCHEN TABLE.** He says it out loud: *the tick is against the held-by
-  line and it is the only tick on the whole of the four parts, and the only person alive who can put anything
-  in that box is the man it is about.* **Eight women hear him and none of them helps him, for the same reason
-  they did not help him on the twenty-sixth of November — helping him would have been the same as writing it
-  for him.** Sun Meiling asks the second question and the chapter ends on it.
-- **356 (12 Jan). THE FIFTH SHEET.** He writes it in his own hand on plain paper, the way he wrote the first
-  four. **The first four described him. The fifth declares him the holding.** It is the same instrument, in
-  the same hand, in the same room, and it is the difference between a document that makes him findable and a
-  document that makes him **answerable**.
-- **357 (14 Jan). EIGHT HANDS, AGAIN.** Witnessed at his own table and laid in at five minutes to eleven.
-  **THE SERVICE SPINE, FIXED HERE ONCE BECAUSE THREE CHAPTERS HAVE ALREADY HAD THREE ANSWERS: laid at five
+  word, the rule, the second date, the pen on a chain round a wrist, and the time entered at twenty to nine.
+  **He has no standing in that room and goes anyway**, in breach of a written instruction from the keeper,
+  and stands at the rail because a valuation nobody stands at is not a valuation. **The turn is Hanneke Ruis,
+  in the ordinary course and against her own rule, writing him an answer on a slip torn off a plain pad with
+  a ruler and not filed, in a hand that is deliberately not her own:** a line called once waits at a valuation
+  until it is paid or produced, and **a line called twice may be carried forward by the room that holds the
+  book without a fresh sheet being drafted at all.** No line at that address has ever been called twice. From
+  the first of February it can go on the quarter's carry-forward sheet. **She will not say it twice, she does
+  not file it, and she refuses to be thanked — a keeper who has been thanked by a man is a keeper who has
+  been useful to a man, and in four years somebody reads that.** **Cost:** the account stops generating paper,
+  which is the first quiet he has been given and he did not choose it and cannot spend it on anybody.
+  **THE ENDING IS UNCHANGED FROM THE PLAN: nobody can pay it at seven and nobody can produce off that door,
+  and it is called on the first of February and the first of March until one of those two things happens.**
+- **352 (3 Jan, evening). THE WEEK SHE ASKED FOR, AND IT IS FOUR DAYS.** Wren Kallo comes back to the table
+  having asked for seven and managed four. **She has chosen and she is not going to say whom, he is barred
+  from asking, he comes within about a second of asking and does not, and eight women at that table watch him
+  not ask** — which the plan wanted and the page delivered by having him say *what question* by reflex and
+  have it land on the table. **What she gives is the one thing she can:** *they asked me a question I could
+  only answer by putting a name on it, and I did not put a name on it.* **She has therefore handed over the
+  shape and withheld the woman.** She is angry at him for being the reason she is frightened and the reason she
+  cannot say so; **she says she has begun to believe she told the wrong people;** and **she gives him one
+  sentence about the office — a division that does not sit in the Wing, keeps no list of addresses, and was sent
+  a strip about it in October.** The hook is one line in his own head and no further: a division that keeps no
+  list of addresses does not want an address, and the only reason clause in this business that has no author
+  on it was made in public on the fifteenth of October. **HE DOES NOT ASK AND THE CHAPTER DOES NOT PAY HIM
+  FOR NOT ASKING.**
+- **353 (5 Jan, a quarter to five). THE PLATE HOLDS AND IT IS NOT HIS.** 8,145 on the nose, the floor 8,145,
+  **and the wall says nothing about him for the first week running — five days, from the card of the thirtieth
+  of December to the fifth of January, and there is no thirty-first in it.** Beatrix Halm has nothing under
+  the time for the first time since the card and does not know what to do about it.
+  The arithmetic is hers: **attendants score in aggregate to the whole staff and the split has never been
+  published, and a man standing on the floor of his band on the strength of a formula he has never seen is the
+  most anonymous figure available to him. It explains why nothing on the plate can be traced back to him. It
+  did not put him on the floor: eight witness hands signed under a page on the twenty-ninth and 349 closed
+  that with the words *that was the whole of the arithmetic* — and the chapter says so out loud.** **He does
+  not want it.** He has been invisible on purpose for seven years and this is the first invisibility he did not
+  build. **He cannot tell the kitchen, and the reason Beatrix gives him is that there is no sentence for it:
+  one of the eight will be pleased for him and seven will hear *I have been frightened for four months and
+  there is now a reason*, and this house has never once done that for anybody.** The hook is Beatrix's: it is
+  the first thing in seven years he built that he cannot take back.
+- **354 (8 Jan, the middle of the morning). SIX OF THE EIGHT HAVE A POST.** Cordwain, the Field counter, across
+  the counter, because he is not a man who comes to Cordwain for a conversation. **Six of the eight at that
+  address hold a post a division can serve a paper at:** Field · counter-forensics, which **holds the
+  description and therefore serves anything laid against those premises** · the Vestry · the guild · the
+  Church · Veil-Research. **Five of the six sit inside machinery a requisition against him would travel
+  through, and the sixth answers a departmental consult about a transfer that carried no name.** Nobody has
+  ever counted his own household and the count is the size of the box. **He found out on the twenty-eighth of
+  October and told nobody, and seventy days is ten weeks — the page fixed this and the plan's sixty is
+  corrected here.** Runa Sato states her standing order once, flatly, and says he may never ask for her release
+  for the life of the account, and that she is the only person alive who knows he wrote it, and **it is not
+  converted into a debt and is never invoited.** **THE HOOK, WHICH THE PLAN NAMED ONLY AS A NUMBER:** **seven
+  of the eight hold something a roll can find — Beatrix's is a tram office and not a division — and the eighth
+  is Isolde Marchetti, and her posting is not in any division in this city at all,** because what a woman at
+  the Bellhouse has is a room that agrees to what she says in it. Nothing can be served on it, no description
+  can carry it, no clerk could write down what she does on an ordinary night, **and a division that cannot
+  finish a file is a division that is asked about one in four years.**
+- **355 (10 Jan, late). THE DECISION, AT THE KITCHEN TABLE.** He opens with the fact he could not get out in
+  the right order on the twenty-sixth of December — and **he tells them at the top of the chapter that he
+  counted them himself at a Field counter on the eighth of January and said nothing for ten weeks, and that
+  eight women let him get away with it, and that is why the evening got as far as it did.**
+  He says it: **the tick is against the held-by line and it is the only tick on the whole of the four parts,
+  and the only person alive who can put anything into that box is the man it is about.** Then the sentence that
+  makes it a decision: **a requisition cannot be laid at all without that box filled; a filled box is the only
+  instrument in this business that does not care whether five people want anything; he has just built that room
+  a door and he is the man who has to walk through it.**
+  **Eight women hear him and none of them helps him, for the reason they did not help him on the twenty-sixth
+  of November — a hand that helped him would have been a hand that had to be on it — and Isolde Marchetti says
+  why in the least noble way available, and Nadia Ferrous says the true thing about an empty box once, and is
+  right, and cuts the bread.** **The hook: Sun Meiling's second question, which is *who signs it*. He says *me*.
+  She says *I know, and I am not asking about the paper*, and the chapter stops there with the answer unsaid.**
+- **356 (12 Jan, from about eight in the morning). THE FIFTH SHEET.** He writes it in his own hand on plain
+  paper, bought alone two days before, at his own table, in about forty minutes. **The first four described
+  him; this one declares him the holding.** Address, figure, the fact that it has not been paid and cannot be
+  produced, a name and a date, **and no reason clause at all**, and nobody helped him and nobody argued and
+  **two of the eight women cried and the chapter does not say which two.** He draws the distinction he has been
+  taught: the price was the twenty-ninth of December and was gone; **this is the bill, and the difference is
+  that the bill has his name on it and the price had eight other women's.** **THE ENDING IS THE PAGE'S AND
+  NOT THE PLAN'S: at the foot of the sheet, where the first four had eight words, he writes NOTHING, and gives
+  the reason in his own mouth — *a declaration is not an attestation, and there is nowhere on it for a man to
+  say he will answer for it* — because if he writes them the sheet becomes an attestation, eight people sign
+  under it, and nothing has happened since the twenty-ninth.**
+- **357 (14 Jan). EIGHT HANDS, AGAIN.** Read round the kitchen table at his own table by the eight, one thing
+  back each, and then laid in at five minutes to eleven. **THE SERVICE SPINE, FIXED HERE ONCE: laid at five
   minutes to eleven on the fourteenth, served at the desks of the people named on the FIFTEENTH, and out on
   the ordinary stream at four in the afternoon on the NINETEENTH. Fourteen to the nineteenth is five days and
-  Beatrix's forecast in 357 is five days. Nothing in this volume may put a fifteenth-service in the future of
-  a sixteenth chapter.** The gap in the line is where it was — two fingers wide, fourth seat — and the second
-  time he sees it he understands that the missing signature is not his eight women, it is a member of the
-  room. **THE IRREVERSIBLE DECISION OF BATCH 0001 IS 356 AND 357 TOGETHER.** The empty box can never be empty
-  again.
-- **358 (16 Jan). THE SCENE. SUN MEILING.** Off a third court, up an iron stair, eight doors shut, a side
-  room with two hundred sheets on a wall that has been covered for three years. **Three terms and not four,
-  and the third is not a term.** A kettle and two cups, because she expected him and did not want two. **She
-  has already read about the sheet from a clerk on the ordinary stream and has come down to tell him the
-  price, and she tells him the price before anything else happens in the room, because she has been
-  arranging to be the one who says things for three years.** The hinge: **she reads him Sowe's four lines.**
-  She has spent three years not reading them *because reading them would mean being the woman who read
-  them*, and she reads them here because a sheet at the Terrace has put his name in the second line of hers
-  and she cannot get it back and she would not have told him not to. **What changes: the only paper in
-  Ostara that says what the account is is now in the hands of the woman who told him, and she has read it,
-  and he cannot un-know what is on it, and neither can she.**
-- **359 (19 Jan). THE ORDINARY STREAM.** Service on the people named happened on the fifteenth, at the desk
-  it was served at. **The ordinary stream is the other half and it goes out at four on the nineteenth: eight
-  copies to eight addresses, all inside one building on Ferrier Street**, in the ordinary way, to no
-  particular address. **And one division that has wanted a reason clause on that file since the fifteenth of
-  October is served a paper instead — a paper with a name at the top of it and no reason on it anywhere — and
-  the chapter does not editorialise about it, and the one division he most needs to know about is the one that
-  holds the description, and he cannot ask.**
-- **360 (26 Jan). THE SENTENCE SHE SENT IN OCTOBER.** Alma Quayle's undelivered sentence goes out, and it is
-  the second thing this volume that a woman wrote months ago and has been sitting in a division since. **It
-  says, in four lines, that an account carried at a composition is reached through the composition and
-  through nothing else — and that a composition can be lowered by any person keeping that address giving it
-  up at a counter, at any hour, without asking anybody.** **The hook: she asks for her recusal to be lifted
-  and the chair refuses her in one word, and the one word is *no*.**
+  Beatrix's forecast on the stair is five days. Nothing in this volume may put a fifteenth-service in the
+  future of a sixteenth chapter.** The gap in the line is where it was — two fingers wide, fourth seat — **and
+  the second time he sees it he says out loud that it has never been his eight: it is a member of the room, and
+  he has been empty since the first of November, and a line in a book with a gap in it is a thing a clerk
+  copies out every quarter for four years.** The chair names what is on the table and does not repeat the
+  twenty-ninth of December's sentence. **Sun Meiling prices the instrument in one sentence and does not
+  soften it and does not explain it afterwards, because explained afterwards it sounds like a warning and it
+  is a bill, and she says she signed at about four minutes to eleven without being asked and without discussing
+  it. THE IRREVERSIBLE DECISION OF BATCH 0001 IS 356 AND 357 TOGETHER: the empty box can never be empty again.**
+- **358 (16 Jan, about eight in the evening). THE SCENE. SUN MEILING.** Off a third court, up the iron stair on
+  the outside of the lamps, eight doors shut and no light behind any of them, a side room with two hundred
+  sheets on a wall that has been covered again since three days after it was bare. **Three terms and not four,
+  on the back of a departmental consult docket, and the third is not a term.** A kettle and two cups.
+  **She names the price before anything else happens in the room**, and the price is this: the copy was served
+  at her own desk at about nine on the fifteenth, a thing served on you at your own desk is a thing you cannot
+  say you did not receive, and **the only one of the eight who cannot be covered by anything is the one who
+  cannot be sworn.**
+  **THE HINGE IS NOT SOWE'S FOUR LINES AND THE OUTLINE IS CORRECTED HERE.** She cannot read his and has never
+  been able to. **What she opens is her own drawer, for the third time in front of him, and reads out loud her
+  own draft of a departmental answer from three years ago, in her own hand, with her initials in the margin
+  against the fourth line — and then refuses to say one word about what is in it, in a summary or in an
+  order**, because the discipline was never about the content. She read them because a copy of his page came to
+  her desk at nine that morning with her name on the first line of it, she cannot get it back, and she would
+  not have told him not to send it. **What changes is therefore this: the only paper about a transfer that
+  carried no name that she has ever held has been read out loud in a room, and neither of them can un-read it,
+  and Sowe's four lines are still shut and still are not hers to open.**
+  Scene body **2,934 words counted AND probed**, chapter 4,003. No compulsion, no sedation, no exhaustion, no
+  restraint, no psychic contact, no trance and no seal; her gift is used on nobody and is written down as
+  forbidden before a word of it is used; she is not impaired and will not be made so. **NOT STAGED AS 63:** 63
+  had a bare wall, a jug of water, no kettle, four terms and her hands on him. This has a covered wall, a
+  kettle, three terms, a price spoken first, and no body described three times.
+  **THE ENDING, WHICH IS THE BATCH'S CLOCK: she gives him the twenty-two-stitch row out of a coat lining,
+  counted in September and initialled by her on the first of September, and the fact that the man on the third
+  floor sent for her yesterday morning and went up that floor for eleven minutes for the first time in three
+  years, and wants the departmental consult that answers a transfer carrying no name, and she has said yes,
+  and she has told nobody else, and he has four days.**
+- **359 (19 Jan, from about eleven, and four in the afternoon). THE ORDINARY STREAM.** **He cannot find out
+  where a copy goes and the chapter is built on his failing to.** Service at the desks happened on the fifteenth
+  and there was no discretion in it and there never is; **the four o'clock is not a service, it is the stream**,
+  and a manifest is not a document anybody may read. Eight copies go to the eight addresses inside one building
+  on Ferrier Street and six go to six divisions. Petra Ilyin tells him at a windowsill that a bundle going out of
+  a gate is completely traceable and that what a man cannot do is stand at a gate and find out who opened it.
+  **And the title is literal: he stands at the foot of the third court at ten past four and a runner goes up
+  the iron stair with one sheet under his arm and puts it on a table on the second floor, and he does not go
+  up, and there is no reason on earth why he should not.**
+  **THE TURN:** ninety days since the referral and ninety-four since the night the song was made, **and a
+  division that has been holding that file wanting a reason it cannot write down is served, in the ordinary
+  way, a paper with a name at the top of it and no reason on it anywhere, and there is nothing on the face of
+  that service that anybody could object to.** The cost is set out plainly: he has spent his last invisibility
+  and bought a route into six divisions, four of which are run by women in his own kitchen, one of which is a
+  wing off a third court, and one of which holds the description — **and he cannot ask whether it has been
+  opened, and cannot ask the woman who signed the description, and there is nobody else he is permitted to
+  ask.** The ending is Beatrix Halm writing a time she is not allowed to know at, and it is **the fourth time
+  in nine years she has had nothing to put under it.**
+- **360 (26 Jan, about eleven in the morning). THE SENTENCE SHE SENT IN OCTOBER.** The Classification Wing,
+  second sub-level, on the bench, and Alma Quayle behind her own door with a sheet she drafted on the
+  nineteenth of October at 11.40, read once, and did not send for **ninety-seven days**. Everything she says in
+  that sub-level is now said as a witness and not as a seal.
+  **She sends it**, and it goes out on the ordinary stream at four that afternoon with the time against it and
+  no division asked to do anything with it. **Four lines: an account carried at a composition is reached
+  through that composition and through nothing else in this city; a composition may be lowered by any person
+  keeping that address, at any counter, at any hour, by giving the address up; giving an address up is ordinary
+  and requires no instrument, no permission, no witness and no holder; the priced line says seven and the
+  composition says eight and both are true and neither corrects the other and the second is not a mistake.**
+  **She is not wrong about one thing and she is diminished by being right, and the chapter does not soften
+  that.** She asks for her recusal to be lifted so that she can answer for the file when it is heard in about
+  four years, **the chair refuses her in one word, the word is *no*, and it is the first time in eleven years
+  that room has answered a woman of hers in one word.** She does not show him the word.
+  **THE COST, IN ONE PLAIN SENTENCE AFTER THE MACHINERY: every defence he has built since October has been
+  about keeping the number of persons at that address at eight, and not one of them has ever been about
+  whether the address is there.** The list of the thirtieth of October still says eight, because a list is made
+  and dated and issues at four and cannot be corrected, withdrawn or unissued.
+  **THE ENDING: the wall has said nothing about anybody for the fourth week running, and on the twenty-sixth he
+  stops reading that as a compliment. Sun Meiling has not said one word about the third floor since the
+  sixteenth; four days ran out on the twentieth; he has waited ten days for a sound and there is no sound, and
+  a woman who has stopped announcing that she is going to do a thing is a different thing from a woman who
+  never said she was.**
 
 **WHAT CLOSES IN MOVEMENT 1:** *the account can no longer sit at an address with a clerk's tick in the corner
-of an empty box.* **THE COST:** a man who cannot be requisitioned has made himself a holding, in his own
-hand, in front of the eight people whose posts the declaration carries, **and he told them at the table and
-then wrote it the next day, and one of the eight is in a building with the man on the third floor.**
+of an empty box.* **THE COST, AND IT IS TWO COSTS AND NOT ONE:** a man who cannot be requisitioned has made
+himself a holding, in his own hand, in front of the eight people whose posts the declaration carries, **and he
+told them at the table and then wrote it the next day; and the cheapest instrument in Ostara against
+everything he has done since October is a woman at a counter giving up an address, and the best classifier in
+the city has just handed it to him in her own hand and been refused the one word that would have let her
+answer for it.** One of the eight is in a building with the man on the third floor, and that man has asked her
+for a consult, and there has been no sound from that building for ten days.
+
+**FIVE PLACES THIS PLAN WAS WRONG ON THE PAGE, RECORDED SO A LATER PHASE DOES NOT RAISE THEM AS NEW:**
+
+1. **358's hinge was Sowe's four lines and it is her own draft.** She cannot read his and never could, and
+   `outline/volume-08.md` §7 keeps them shut until 374. **PC-5 in `state/open-threads.md` is amended by this
+   and what it now proposes is that she reads her own four lines out loud and refuses to summarise them.**
+2. **354's count is six in divisions and a seventh on a tram roll and an eighth in no division at all, and
+   the eighth is Isolde Marchetti.** The plan said six and did not name the one that was left.
+3. **356 ends with nothing at the foot of the sheet, not with the eight words.** The plan had the eight words
+   available; the page found that writing them would have turned the fifth sheet into the first four again.
+4. **357's gap in the witness line is a member of the room and not a hole in his eight**, and he says so out
+   loud on the page rather than the narrator noticing it.
+5. **359's ending is the fourth blank under Beatrix Halm's time and not the second**, because 348, 349, 353 and
+   357 are all on the page and all have one.
 
 ### Movement 2 — WHAT THE ROOM CAN NOW DO (361–370). 27 January – 20 February.
 
@@ -769,6 +889,30 @@ is not in it.**
   thousand people and not about what the room does.**
 - **Whether Dagmar Oyelowo can be given a page.** She cannot and she says so. **Her gift is none at all and
   her scene may not manufacture one.**
+- **NEW, AND IT IS THE ONE THAT IS NOW ACTUALLY DANGEROUS: WHETHER CARRY-FORWARD COLLIDES WITH MOVEMENT 4.**
+  Chapter 351 put it on the page: **a called line that has been called twice may be carried forward by the room
+  that holds the book, without a fresh sheet being drafted.** Chapter 360 has now printed the same power a
+  second time and from the other end, in Alma Quayle's four lines: a called line at a matching composition may
+  be carried on a quarter's sheet by the room that holds the book. **TWO CHAPTERS AGREE ON THE PAGE THAT THE
+  COUNTING ROOM CAN CARRY IT AND THE FOURTH MOVEMENT SAYS IT CANNOT HAPPEN UNTIL MARCH. The collision is not
+  hypothetical any more; it is in two chapters, in two hands, and it is Batch 0002's to settle.** Chapter 363 in the plan above makes it a third
+  mark and a stronger version of the same power. **Movement 4's whole payoff is that a composition of seven —
+  Nadia Ferrous at a counter on the thirteenth of March — lets the account be carried forward.** **If the
+  counting room could carry it from the first of February anyway, then Movement 4 pays nothing, Nadia's six
+  years of address and his refusal of her are wasted, and the volume's fourth movement is a procedure loop
+  with a kitchen in it.** **BATCH 0002 OWNS THIS AND MUST RESOLVE IT ON THE PAGE, NOT IN A RECORD. The
+  resolution has to be one of three things and a batch may not pick a fourth: (a) a carry-forward sheet is
+  cheaper than a valuation but it carries a *figure*, and a figure carried by the room is a figure the room
+  may administer, so the counting room's carry-forward does not stop a requisition, it only moves who
+  administers it, and Nadia's composition drop is what removes the last address the figure has; (b) a
+  carry-forward sheet may only be entered for a line carried at a composition that matches the priced line,
+  and the priced line says seven while the composition says eight, **so the line cannot be carried at all until
+  the two figures agree** — which makes Movement 4 the only thing in the volume that can quieten it, and is by
+  far the best of the three; or (c) the room may carry the line but the room has never had one to carry and
+  the first carry-forward is the event 363 is about, and it takes a keeper and a date and no majority, so it is
+  cheap and it is also *visible*, and a visible figure is a figure that a requisition can now be laid
+  against — which is exactly what he wants and exactly why he does not want it. **Do not let 363 quietly do
+  Movement 4's work four months early.**
 
 ---
 
@@ -954,6 +1098,13 @@ printed lengths  50 of 50 correct against the strings printed beside them
 BANK WAS FIRST WRITTEN FROM. One title was changed on 13 October 2026 — 362 — and every figure was taken again
 afterwards. `reviews/volume-07/volume-close.md` §6 is the precedent: a record of a measurement is still a
 measurement, and four of this repository's own gate records have been wrong.]**
+
+**RE-RUN AGAINST THE CHAPTERS ON DISK AFTER BATCH 0001, 13 OCTOBER 2026.** `grep -h '^# ' chapters/*/chapter-*.md
+| sed 's/^# //' | sort | uniq -d` returns nothing; 360 title lines, 360 distinct. **The ten titles at 351–360 are
+printed exactly as banked and none was changed**, so no second collision check is owed for them; a later batch
+that changes one must re-run this and rewrite the row in the same commit. Longest of the ten: **The Sentence
+She Sent In October, 32 characters.** Word counts 4 to 7, every one inside 3 to 12. Zero beginning with
+*What*, zero built out of *there is no* / *nobody* / *nothing* / *what*.
 
 **351 The Line Called Twice (21) · 352 The Week She Kept To Herself (28) · 353 The Plate Held By A Formula
 (27) · 354 Six Of The Eight Have A Post (28) · 355 The Thing He Is Going To Write (30) · 356 The Fifth Sheet
