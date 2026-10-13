@@ -67,3 +67,89 @@ Endings vary and none is a filing: 241 slept behind a shut door for the first ti
 
 ### Defects by chapter, honestly
 Five chapters (242, 245, 248, 249) still open on the `He had woken wanting … He felt` habit — halved from nine, and now readable as a man's habit rather than a default. 290 cross-batch 12-gram overlaps remain, all adjudicated volume furniture, none of them scene duplication. 241 (2,732) and 249 (2,795) are scenes inside the 2,600–3,900 band with named reasons. Three titles begin with *What* (243, 246, 250) — unique, in the table of contents, but a Volume 6 that adds three more would be a habit.
+
+---
+
+### VOLUME 5 CLOSE PASS — INDEPENDENT RE-RUN AGAINST THE REPAIRED CHAPTERS. 2026-10-13.
+
+**The block above was written by Batch 0005 on its own disk. Every number in it was re-run by the close
+phase against the files as they now stand. Volume 5 is closed and the close phase wrote no chapter.**
+
+**Confirmed exactly, no qualification.** 250 chapters, 50 per volume, no `chapter-0251.md` anywhere and
+no `chapters/volume-06/`. Word counts 2730 / 1928 / 2310 / 1973 / 1875 / 1957 / 2106 / 1884 / 2795 /
+2138. Titles unique across all 250, none over 90 characters. Blockquote 0, table 0, rule 0, code 0.
+**System panels 0** — the batch contains no `[` at all, so zero is structural and not a regex artefact.
+Paragraphs over 90: 0. Over 120: 0. `nobody` 1 (242:55, "A board persuades nobody"); `no person` 0;
+`He understood` 0; `He also understood` 0; `He had woken wanting` 4 of 10; `He felt` **9** (eight capital
+and one lower at 247:27 — a case-sensitive count returns 8 and will make a later writer distrust a
+correct number). Thursday 11, all pointing at the sixth; every other weekday 0. Ages 0. **241 and 249
+each scan zero 12-grams against all 24 earlier scene chapters** (8 17 26 29 36 46 55 63 74 86 97 106 118
+129 141 149 157 169 179 189 197 205 214 228). **241 ↔ 249: 12-gram 0, 10-gram 0, 9-gram 1, 8-gram 3** —
+identical to the figures recorded above. Intra-batch 12-grams in 3+ chapters: 0, max multiplicity 2.
+
+**Two corrections to the record, both small, neither touching a chapter.**
+
+1. **Markup is not zero. There is one italic.** `chapter-0245.md:39` — `said the word *writing* out
+   loud`. Bold 0, blockquote 0, table 0, rule 0, code 0 all hold. `AGENTS.md` permits sparing italic, so
+   this is allowed emphasis and not a defect, but **the gate line above reads `markup -> 0` and that is
+   wrong by one.** A later writer must not inherit the zero.
+2. **Cross-batch 12-gram overlap re-runs at 250, not 290.** Counted as distinct 12-grams occurring in
+   chapters 241–250 that also occur in any earlier chapter, tokens lowercased with punctuation split off.
+   The recorded 290 is almost certainly a different denominator (chapter pairs rather than distinct
+   n-grams, or every chapter rather than the earlier ones). **Neither number is a scene-duplication
+   signal** — both scene scans are zero — so this is a methodology difference and not a change in the
+   prose. Do not cite either figure as a fact about the manuscript without re-running it.
+
+**The gate that is a claim to be tested, and was.** The block above reports exact-duplicate paragraphs at
+6+ words as **0** for the batch and its neighbours. That holds: there is no duplicated paragraph of six
+words or more anywhere in 236–250. Book-wide there are 36, none of them in 241–250. **But the floor is
+doing the work, and a later writer should know it.** Two exact repeats exist inside the batch below that
+floor — `"Eat," he said.` at **238, 242 and 245**, and `"It stands," he said.` at **240 and 246**. They
+are two- and four-word dialogue tags and they are invisible to a 6-word gate. Read for scenes, not for
+paragraphs, before believing a clean duplicate count.
+
+**TWO RESIDUAL FINDINGS THE CLOSE PASS DID NOT REPAIR, because the close phase may not write chapters.**
+
+1. **Ch 250 drifts its own dateline. `250:91` and `250:95`.** The chapter is dated the tenth of July
+   (`250:3`), and `250:93` re-anchors to the tenth outright — *"Sixteen days the finding had sat when she
+   asked on the ninth. Seventeen now."* But `250:91` puts him on *"the last night of July"*, which is
+   twenty-one days past the chapter's own date and **past the unwritten twelfth**, and `250:95` repeats
+   *"the last night"* in the same register. **Root cause is the Batch 0005 review's finding 2, which
+   removed the meta string `on the last night of the volume` by replacing `volume` with `July`.** The
+   repair was correct about the meta and wrong about the date: the closing montage of Volume 5 now
+   happens on the thirty-first, where the volume's hook says the twelfth is two days out and unanswered.
+   This is the class `outline/volume-05.md` §9 names — a figure correctly derived on one date and carried
+   to another — except that here it moves the chapter's *ending* and not a count. **`Volume 6, Batch
+   0001` inherits this as its first repair.** Every other chapter in 241–250 is a strict single day and
+   250 is the only one that sweeps.
+2. **Provenance, not a defect.** `outline/volume-05.md` §6 movement 5 says *"Ch 246 is fixed by
+   `outline/series.md`: INES DUARTE LEAVES."* **`outline/series.md` does not fix Ch 246 and does not fix
+   the mechanism.** What it fixes is that Ines leaves **in Volume 5** (series.md line 41, inside *He
+   hoards*, with the reason) and that Volume 5 is *"a woman deciding whether she can be with a man she
+   has to audit"* (line 104). The chapter number, the filed true report and the walkout of a flat she is
+   still in are Volume 5's own decisions, recorded in this block and in `state/current.md`. Nothing in
+   the chapter is wrong; the outline over-claims one level of authority. **Volume 6 must not inherit the
+   belief that `outline/series.md` pins Chapter 246.**
+
+**Also recorded, no action.** `reviews/volume-05/batch-0005.md` gives 241 as 2,732 words in its
+"Defects the repair did not remove" section and 2,730 in its gate block. The disk is **2,730**, which is
+what the gate block and `outline/volume-05.md` §6 both say. The review file is the writer's record of
+Batch 0005 and is not edited by a later phase.
+
+**The volume's five fixed promises, verified against the chapters and not against a summary.** Ch 241 is
+Agnete Lindqvist's scene — second reading room at Cobb Street, one true sentence given by name and
+voluntarily, nothing compelled, **the certificate in the next house on the kitchen table and not in the
+room** (`241:49`, `241:145`), and its ground, hand, name-exchange and aftermath are fresh against 205's
+floor laid with record, 214's collecting room and 228's night wall. 241 does not merely avoid 214, it
+negates it on the page: *"No bolt showed on the door. No pegs stood on the wall. No coat hung anywhere."*
+Ch 246 is Ines leaving, and she has resolved nothing in 231–240 — the only thing done to her there is an
+extract that took her off the wrong paper — and nobody asks her before it (`237:41`, `239:67`, `240:29`,
+`241:25`, `242:49`, `243:85`, `244:53`, `245:37`). Ch 249 is the fifth scene at Lantern Row, gap eight.
+The first of July and the fourth of July are both on the page with every named part. All four
+irreversible decisions are irreversible. The volume's promise is **answered, not restated**: she was kept
+off his file for the whole of it and she is the one who wanted off her own.
+
+**Hand-off created: `workspace/volume-06/batch-0001/PROMPT.md`, chapters 251–260. It carries the 250
+dateline defect above as its first repair, inherits all of `outline/volume-05.md` §7 unchanged because
+**there is no `outline/volume-06.md`**, and repeats the whole gate list with the two failures Batch 0004
+and Batch 0005 got wrong written into it as standing instructions.**
