@@ -1,6 +1,6 @@
 # The Register Takes A Name
 
-The thirtieth of September is the last working day of the quarter and the sheet goes out at four, and the Register of Unrecorded Merit had been in the world for twenty months and three days, and on the afternoon of the thirtieth of September of the second year it entered a person's name.
+The thirtieth of September is the last working day of the quarter and the sheet goes out at four, and the Register of Unrecorded Merit had been in the world since a letter dated the first of February of the first year, which is five hundred and ninety-nine days and one day short of twenty months, and on the afternoon of the thirtieth of September of the second year it entered a person's name.
 
 Not a deed.
 
@@ -28,15 +28,15 @@ She reads a page twice before she enters it. Both times at the same speed.
 
 She came at about eleven in the morning of the thirtieth and she did not stop in the corridor this time.
 
-She put the folded paper on the table and it was the same paper and it had been folded and unfolded about nine hundred times in twenty-one months.
+She put the folded paper on the table and it was the same paper and it had been folded and unfolded about seven hundred times in nine months.
 
 "I told you I would use it if you found it," said Sela Voel.
 
-"I have not found anything," said Lin Hao. "That is the honest answer and it is the answer you came here for. Nothing in this building lets me put the other half on a page. Nothing did on the thirtieth of December of last year and nothing does now, and I have had a year and nine months to find something that does and I have not found it."
+"I have not found anything," said Lin Hao. "That is the honest answer and it is the answer you came here for. Nothing in this building lets me put the other half on a page. Nothing did on the thirtieth of December of last year and nothing does now, and I have had nine months to find something that does and I have not found it."
 
-"Then I have wasted a year and nine months of carrying it."
+"Then I have wasted nine months of carrying it."
 
-"You have carried it for three years and it was not a waste in December and it is not a waste now," he said, "and I am not going to let you stand at that counter and be told by an office that the reason it cannot go on a sheet is a rule, when the reason is that not one instrument in Ostara can take a sentence out of a woman's mouth and set it on a page."
+"You have carried it for twenty months and it was not a waste in December and it is not a waste now," he said, "and I am not going to let you stand at that counter and be told by an office that the reason it cannot go on a sheet is a rule, when the reason is that not one instrument in Ostara can take a sentence out of a woman's mouth and set it on a page."
 
 ## Why A Name And Not A Deed
 
@@ -44,7 +44,7 @@ The four lines said a great many things and one of them decided the morning.
 
 *An unrecorded deed is a thing all four of which are true.*
 
-Her half page had the second and the fourth and could not have the third, because the third wants another person and the woman who could not put her shoes on in the ninth month of last year has not been found and was never going to be, and Sela Voel had known that since about the middle of March and had brought the paper anyway.
+Her half page had the first and the second and the fourth and could not have the third, because the third wants another person and the woman who could not put her shoes on in the second month of last year has not been found and was never going to be, and Sela Voel had known that since about the middle of March and had brought the paper anyway.
 
 "So it is not a deed," said Sela Voel.
 
@@ -80,7 +80,7 @@ Then she squared the page and put it in the drawer and wrote the time beside the
 
 "A name."
 
-"Three years of a thing and there is a name on it and it is the first thing in this office that is not about a man with a piece of chalk or about the man who would not let it be taken down."
+"Twenty months of a thing and there is a name on it and it is the first thing in this office that is not about a man with a piece of chalk or about the man who would not let it be taken down."
 
 "That is correct," said Lin Hao. "Both of the other entries are about me. That one is the first thing this office has entered on its own hand and not on a report, and it is a name and it is on a page in a drawer and there is not one instrument in this city that can do anything whatever with it, and you are not owed anything this morning and nothing has been paid to you and nothing will be."
 
@@ -88,13 +88,13 @@ Then she squared the page and put it in the drawer and wrote the time beside the
 
 "Then you came for the right thing."
 
-She got the folded paper out of her coat and put it inside it again, and it took her about nine seconds because it had been folded and unfolded about nine hundred times in twenty-one months.
+She got the folded paper out of her coat and put it inside it again, and it took her about nine seconds because it had been folded and unfolded about seven hundred times in nine months.
 
 "There will be about four more of you at this door this year," she said, "and every one of them will be told that the reason is a rule, and I am going to tell nine people this week what you told me, and the nine of them will come here, and you will say it to them as well."
 
 "Yes."
 
-"That is what I am for," said Sela Voel. "I am not a person who does anything. I am a person who tells nine people where a door is, and it has taken me three years to find out that that is a job."
+"That is what I am for," said Sela Voel. "I am not a person who does anything. I am a person who tells nine people where a door is, and it has taken me twenty months to find out that that is a job."
 
 ## What The Register Cannot Do With It
 
@@ -130,7 +130,7 @@ At four the sheet went out.
 
 He went down the hill at about five, which takes about twenty minutes, and at the bottom of it there were five stools standing against a yard wall and a slate propped on top of them about the height of a man's chest.
 
-Seven hundred and eighteen mornings. Twenty-eight days left in October including the third, and thirty each month after that for twenty-three months, and thirty days of the second October, and that is seven hundred and eighteen. A year in this city is three hundred and sixty and two years is seven hundred and twenty and the second anniversary is the third of October, and it is three days short of that, and there will be seven hundred and twenty-one mornings on it.
+Seven hundred and eighteen mornings. Twenty-eight days left in October including the third, and thirty each of the twenty-three months after it, and that is seven hundred and eighteen. A year in this city is three hundred and sixty and two years is seven hundred and twenty and the second anniversary is the third of October, and it is three days short of that, and there will be seven hundred and twenty-one mornings on it.
 
 The five stools were all taken. There was a woman with a pram and a man who had come out of a chandler's and was standing at the wall end with his back to it and a piece of chalk in his right hand and nothing at all on the left.
 

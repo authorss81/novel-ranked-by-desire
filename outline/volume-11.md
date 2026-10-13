@@ -286,7 +286,7 @@ quarter-ends               16 fall in years one to four, and 15 of them land on 
 
 **513 — AGNETE SENDS FORTY UP THE HILL.** The Church, four years later, four thousand instead of eleven hundred, and the second line is still on the wall and she still has not claimed it. **What changes: the only organised claim in the city decides that if the Register gets a column, the Church will fill it before the Bureau does.** *May not:* have her claim the wall line.
 
-**514 — THE SHEET GOES OUT AT FOUR.** A quarter-end and a standing sheet with an address at the head of every line, and the office's first quarter, and the first person who has come to it with a deed she wants entered and a reason she cannot put on paper.
+**514 — THE SHEET GOES OUT AT FOUR.** A quarter-end and a standing sheet with an address at the head of every line, **and the fourth sheet the office has ever put into the world and the fourth quarter it has put a number against — the office was given its room in the first week of February of year one and has carried a line on every sheet since the one that went out on the thirtieth of March** (`chapter-0508.md:57` prints that first one, *First quarter. Entered: one*), **and the first person who has come to it with a deed she wants entered and a reason she cannot put on paper.** *(Repaired 13 October 2026 against `logs/batch-0002.review.log` finding 12: the card used to say "the office's first quarter", which contradicts 508, 510 and the page.)*
 
 **515 — THE WARD AND THE WATER. 21 January, year two. SCENE. §4 above.** Tessa, four months of room, and a division about to be told something. *May not:* re-describe the stippling.
 

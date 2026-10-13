@@ -100,7 +100,7 @@ From the back of the stove, in a voice that does not carry.
 
 "Go on."
 
-"It is not on a page anywhere in this city," said Isolde Marchetti, "and about nine thousand people go under a wall in a day that has a column on it and every number on that wall is on the wall and not on a page, and I have been up a ladder painting the underside of that wall twice since January and there is a box under the step with the sheets in it,"
+"It is not on a page anywhere in this city," said Isolde Marchetti, "and about nine thousand people go under a wall in a day that has a column on it and every number on that wall is on the wall and not on a page, and I have read two sheets out of the box under that step standing on it myself since January, because anybody can, and it is a step in the middle of a pavement and people are going somewhere,"
 
 "and if a number is in a box under a step then it is on a page."
 
@@ -132,7 +132,7 @@ She turned her head about nine degrees.
 
 "I am going to say the other thing and then I am going to stop. If your second line stands, then a person who cannot place a day is not in this register, and about a fifth of the people a division finds in this city cannot place a day either, and they are not lying and they are not stupid, and they are the ones who will get told that they have nothing, because they have nothing that can go in."
 
-"" She put her hand on the table. "Write something on the sheet that says they have nothing in this register and not that they have nothing. That is all. That is my one thing."
+She put her hand on the table. "Write something on the sheet that says they have nothing in this register and not that they have nothing. That is all. That is my one thing."
 
 ## Marguerite
 
@@ -150,7 +150,7 @@ She turned the fourth line round and read it again. "In about four years some cl
 
 ## The Last One
 
-Agnete Lindqvist came in from the doorway and put her chair out from the table with the back of her leg, and sat down in it for the first time since the seventeenth of October of the year before last, and did not take her coat off.
+Agnete Lindqvist came in from the doorway and put her chair out from the table with the back of her leg, and sat down in it for the first time since the seventeenth of October of last year, and did not take her coat off.
 
 "There are about four thousand of us and about four thousand of them have never been in a room that could do anything," she said.
 
@@ -172,7 +172,7 @@ He had it in the inside of his coat where the letter of the first of February ha
 
 "That is the ninth of March version and the eleventh of March version and the one after the eighteenth of April, and I have not kept the ones in between, because there were about thirty of them and they were all the same sentence with a different person taken out of it."
 
-"" He put a finger on the fourth line. "Taking a person out of it is the whole of what I have been doing since February and I have got down to four lines and there is going to be one more of these before the end of the year and it is going to be worse than this one."
+He put a finger on the fourth line. "Taking a person out of it is the whole of what I have been doing since February and I have got down to four lines and there is going to be one more of these before the end of the year and it is going to be worse than this one."
 
 Nobody answered him and the rule held, and Agnete Lindqvist did not look up from her own hands.
 

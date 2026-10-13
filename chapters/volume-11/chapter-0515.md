@@ -86,7 +86,7 @@ He did not answer.
 
 "Then shut the door."
 
-She shut it, and the latch came up hard, and the room was the size of two ward beds and a chair and a lamp on the floor, and about nine thousand people went under a wall a day in the other city and not one of them could have been in this room.
+She shut it, and the latch came up hard, and the room was the size of two ward beds and a chair and a lamp on the floor, and about nine thousand people went under a wall a day in this city and not one of them could have been in this room.
 
 "I am not going to be a doctor about it," she said. "I have been a doctor about everything since the second of December and I have been a doctor about it with you for thirty-two months and I am tired of it. Lie down."
 
@@ -150,7 +150,7 @@ She sat on the edge of the cot with her feet on the floor and her elbows on her 
 
 "You were going to ask me whether I would take another one out of you and you were going to ask it in about nine seconds and I have known you for four years,"
 
-"" she said. "The answer is that I am not going to do it tonight and I have had nine days on the twelfth of September and I am on about the second of them, and I do not take a fraction off a man who has not got one spare for a room that has four people in it."
+"The answer is that I am not going to do it tonight and I have had nine days on the twelfth of September and I am on about the second of them, and I do not take a fraction off a man who has not got one spare for a room that has four people in it."
 
 "That is a reason you made up for me."
 

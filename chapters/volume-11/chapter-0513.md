@@ -28,7 +28,7 @@ The lane took a grain a head off anybody who wanted to stand in it, and forty pe
 
 She put her hands in her pockets.
 
-"I have wanted that lane shut since the eighth of October of the year before last and I sent forty of my own into it yesterday and it is the first thing I have ever done that has made it worse, and I did it on purpose, and if you tell me it was foolish I will thank you and go away."
+"I have wanted that lane shut since the eighth of October of last year and I sent forty of my own into it yesterday and it is the first thing I have ever done that has made it worse, and I did it on purpose, and if you tell me it was foolish I will thank you and go away."
 
 They had come down the hill on the ninth of October with her at their head and had stood behind her under the ranks wall while a clerk's two words and a dash and two more words went into about nine hundred people's heads, and she had turned round afterwards in the street and told them to go back up the hill and be extremely dull about it.
 
@@ -50,7 +50,7 @@ It is about four thousand now, and she did not say how and neither of them asked
 
 "It is."
 
-"I have not claimed it and I am not going to claim it and I want to hear myself say that out loud in front of you one more time, because a woman came to the yard on the twenty-seventh and told two hundred of my people that the Church had a wall and I have spent nine days writing to every house she spoke to in."
+"I have not claimed it and I am not going to claim it and I want to hear myself say that out loud in front of you one more time, because a woman came to the yard on the twenty-seventh and told two hundred of my people that the Church had a wall and I have spent two days writing to every house she spoke to in."
 
 "Then what are you here about."
 

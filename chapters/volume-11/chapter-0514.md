@@ -1,8 +1,10 @@
 # The Sheet Goes Out At Four
 
-The thirtieth of December is the last working day of the quarter and the standing sheet goes out at four in the afternoon with an address at the head of every line, and any person in this city may read it at a public desk on a working afternoon, and for the second quarter running there was a line at the bottom of it that had not been there in the first quarter at all.
+The thirtieth of December is the last working day of the quarter and the standing sheet goes out at four in the afternoon with an address at the head of every line, and any person in this city may read it at a public desk on a working afternoon, and at the bottom of it there was a line that had not been there on any of the three that had gone out before it.
 
-That line said *Register of Unrecorded Merit. Second quarter. Entered: two*, and under the two it said what the office had, which was one act reported by the only person it may ask, and one refusal entered whole with the sentence in the office's own hand and not improved.
+The office was given its room in the first week of February and has carried a line on every sheet since, including the one that went out on the thirtieth of March, and this was the fourth of them and the fourth quarter the office has put a number against.
+
+That line said *Register of Unrecorded Merit. Fourth quarter. Entered: two*, and under the two it said what the office had, which was one act reported by the only person it may ask, and one refusal entered whole with the sentence in the office's own hand and not improved.
 
 She came in at about a quarter to twelve in the morning and she stood in the corridor outside the room for about four minutes before she knocked, which is a thing about her and not about the room.
 
@@ -96,7 +98,9 @@ The clerk read it to the end and then she looked up and she did not say one word
 
 Sela Voel put the folded paper back inside her coat, and it took her about nine seconds to fold it again because she had opened it out on the table while she was talking and had not put it back the way it was.
 
-"Three years," she said. "That is how long I have had that. Three years of a thing nobody wrote down and nobody can write down and a woman who cannot put her shoes on."
+"Ten months," she said. "That is how long I have had that. Ten months of a thing nobody wrote down and nobody can write down and a woman who cannot put her shoes on."
+
+The ninth of February to the thirtieth of December is twenty-one days left in February after the ninth and three hundred days after that, and that is three hundred and twenty-one days, and she had been carrying a piece of folded paper for every one of them.
 
 "That is how long I have had a tile with nothing under it," said Lin Hao, "and I am not telling you what I am doing about it because I am not doing anything about it, and you did not come here to be comforted and I am not going to try."
 
@@ -120,12 +124,12 @@ Halfway down was a street, and under the street a figure and a date and six word
 
 A third of the way down was a landlord's quarter return off Lamplit Row with a figure in a column that had been quoted off a chalk in a district four streets away.
 
-And at the bottom, under an address off a third court, two entries and a refusal and, in the office's own hand, a line that had been added that afternoon because a clerk may only enter and a clerk entered it as it was given to her.
+And at the bottom, under an address off a third court, two entries and, in the office's own hand, a line that had been added that afternoon because a clerk may only enter and a clerk entered it as it was given to her.
 
 *The Register of Unrecorded Merit has entered a deed offered on the thirtieth of December and has not entered the reason for it, and the reason is not on any page of this office and the office has no instrument that would let it be put there.*
 
 At four the sheet went out.
 
-It is the second sheet this office has ever put into the world and the first one with a refusal on it, and it carries a sum of money that is a fraction of the largest thing that has ever happened in this city, and a keeper's six words about a street, and a landlord's figure that came off a piece of chalk, and two entries and a refusal, and one deed with the reason taken out of it by nobody.
+It is the fourth sheet this office has ever put into the world and the first one with a deed offered on it, and it carries a sum of money that is a fraction of the largest thing that has ever happened in this city, and a keeper's six words about a street, and a landlord's figure that came off a piece of chalk, and two entries, and one deed with the reason taken out of it by nobody.
 
 About two hundred people a week in Cordwain read it, and not one of them knows that a woman stood in a corridor off a third court for four minutes this morning deciding whether to knock, and that she is the first person to have brought anything to that door that was hers and not a report about a man with a slate.

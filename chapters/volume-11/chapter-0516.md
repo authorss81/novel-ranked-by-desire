@@ -32,7 +32,7 @@ He stood in the nine feet and read it because a sheet on a door is not a convers
 
 The first name is the officer of the day. The second is the officer in the second room.
 
-The third is a name he had not seen on any paper in this city in about two years, and it was on a list of three under a rule about weeks, and he read it and did not stop in front of it and did not think about it in the nine feet, and there was a woman behind a door at the end of that corridor who filed instead of giving and whose standing is gone.
+The third is a name he had not seen on any paper in this city in about two years, and it was on a list of three under a rule about weeks, and he read it and did not stop in front of it and did not think about it in the nine feet, and at the end of the corridor there was a door with a woman behind it who had filed a thing once instead of giving it, and he did not stop at that door either.
 
 ## The Woman In The First Room
 
@@ -58,7 +58,7 @@ She listened with her hands flat on the paperwork and did not interrupt and did 
 
 "Yes."
 
-"Then it is not mine to classify either," she said. "Mine is the thing that says what a word means and this is a thing that says what a word is for, and the second one is not a classification and it would go round nine divisions for four years and be read nine ways, and the first quarter is already going to have one entry in it."
+"Then it is not mine to classify either," she said. "Mine is the thing that says what a word means and this is a thing that says what a word is for, and the second one is not a classification and it would go round nine divisions for four years and be read nine ways, and the sheet that goes out at four this afternoon is already going to have three entries in it."
 
 ## Four Hundred And Sixty-Eight Days
 
@@ -80,7 +80,7 @@ He put his hands on his knees.
 
 "I have had that sentence in my own head since the ninth of October and I have not said it to anybody and I am not going to say it to you in this chair."
 
-## What Five Hundred And Fifty-Eight Days Does To A Building
+## What Four Hundred And Sixty-Eight Days Does To A Building
 
 "Nine clerks on this floor route past this door," said Alma Quayle. "That is not a punishment and nobody made it one. It is the standing rule of a division when the officer who classifies is out, and it has been out since the twelfth of December, and it is the correct rule and I would not have it changed."
 

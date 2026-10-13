@@ -52,7 +52,7 @@ He put the sheet under his other arm.
 
 "I have read it about nine times since the thirtieth of September and I have had it looked at by two people in this building, and the answer from both of them is that it is the same sentence either way and that neither of them would enjoy being the one who decided."
 
-"" Adeyemi turned the sheet over and turned it back. "I used it on the thirtieth of September and I have not been able to find out since whether I have got one question or nine, and it is the only thing about this office I do not know."
+Adeyemi turned the sheet over and turned it back. "I used it on the thirtieth of September and I have not been able to find out since whether I have got one question or nine, and it is the only thing about this office I do not know."
 
 "What happens when you want to ask again."
 
@@ -70,7 +70,7 @@ He put the sheet under his other arm.
 
 "And the reservoir is in about a million people instead of in a tank."
 
-"The reservoir is in about a million people instead of in a tank, and that came out of a room I called, and I am not going to argue with you about whether that was the right thing, because you have not argued with me about it once in eleven months and I have noticed."
+"The reservoir is in about a million people instead of in a tank, and that came out of a room I called, and I am not going to argue with you about whether that was the right thing, because you have not argued with me about it once in fifteen months and I have noticed."
 
 ## What He Did Not Stop
 
@@ -82,7 +82,9 @@ He put the sheet under his other arm.
 
 "Why."
 
-"Because it was true," he said, "and I have thought about that for about four hundred days and I have not got a better sentence, and you are the only man in this city who would understand that as a reason and I have never been able to work out whether that is a compliment."
+"Because it was true," he said, "and I have thought about that for three hundred and sixty-nine days and I have not got a better sentence, and you are the only man in this city who would understand that as a reason and I have never been able to work out whether that is a compliment."
+
+The hearing had run for four days in the last week of July of the year before and this was the last week of October of the first year, and that is fifteen months. The notice had gone up on the twenty-first of October of that same year before, and a year in this city is three hundred and sixty days and the twenty-first is the twenty-first of it, so three hundred and sixty, and nine more days to this morning, and neither of them had stopped it.
 
 ## The Condition
 
