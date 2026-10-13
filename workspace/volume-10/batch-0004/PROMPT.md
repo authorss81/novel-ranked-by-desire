@@ -78,16 +78,18 @@
 
 ## 5. THE SCENE, AND IT IS YOURS
 
-| Ch | Whose | Last scene | Gap |
+**READ THE THIRD COLUMN BEFORE YOU COUNT ANYTHING. IT IS *THAT WOMAN'S OWN* LAST SCENE, NOT THE LAST SCENE IN THE BOOK.** 474's 329 is Marguerite Vale's, and she has not had a scene since the fifth volume; 483's 380 is Tessa Okonkwo's. **The gap is the distance in CHAPTERS from that woman's own last scene to the chapter she is given next, and it is not the distance from the previous scene in the book.**
+
+| Ch | Whose | **That woman's own last scene** | Chapter gap |
 | --- | --- | --- | --- |
 | 446 | Ines Duarte, Volume 9's last | — | — |
-| 454 | Ines Duarte | 340 | **8** |
-| **465** | Beatrix Halm | 438 | **11** |
-| **474** | **Marguerite Vale** | 329 | **9** |
-| **483** | **Tessa Okonkwo — YOURS** | 380 | **9** |
-| 494 | the household, dispersed | — | **11** |
+| 454 | Ines Duarte | 340 | 454 − 340 = **8** |
+| **465** | Beatrix Halm | 438 | 465 − 438 = **27**, of which **11** count: 438 is Beatrix's own and 446 is Ines's |
+| **474** | **Marguerite Vale** | 329 | **9** from 465, the previous scene in the book |
+| **483** | **Tessa Okonkwo — YOURS** | 380 | **9** from 474, the previous scene in the book |
+| 494 | the household, dispersed | — | **11** from 483 |
 
-**8, 11, 9, 9, 11 ON BOTH COUNTS. NOTHING UNDER EIGHT, NOTHING OVER FIFTEEN.**
+**THE FIGURE THAT GOVERNS 483 IS NINE: 483 − 474. THE FIGURE THAT GOVERNS 494 IS ELEVEN: 494 − 483. THE FIGURES THAT GOVERN 454 AND 465 ARE EIGHT AND ELEVEN AGAINST EACH WOMAN'S OWN LINE. NOTHING UNDER EIGHT, NOTHING OVER FIFTEEN, ON THE MIXED COUNT AND ON THE EXPLICIT COUNT.**
 
 **483 IS AT THE VESTRY CLINIC AND IT IS THE CHAPTER THE VOLUME HAS BEEN BUILDING SINCE CHAPTER TWENTY-SIX.** **She has been absorbing other people's injuries for thirty chapters and she is, at the end, the only one of the household who can take a fraction of what he is paying out. She takes it. IT IS NOT AFFECTION. IT IS MEDICINE. IT IS BOTH. WHAT IT CHANGES: SHE IS THE ONLY ONE WHO COULD HAVE SURVIVED THE ENDING AND SHE CHOSE THIS.**
 
@@ -95,7 +97,24 @@
 
 **HER MARKS, CHECKED ON THE PAGE BEFORE YOU PLAN A BODY:** **the stippling on her forearms is hers from Chapter 26 and is referenced, never re-described.** Nothing else. **NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR A SEAL AS ITS MECHANISM. NO SEXUAL CHARACTER IS UNDER EIGHTEEN. VIOLENCE AND SEX STAY IN SEPARATE REGISTERS.**
 
-**A SCENE CHAPTER MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY. IT MAY NEVER LEAVE THE SCENE UNWRITTEN.** Count the body from the opening `##` to the closing `##`, exclusive of both, print the recorded span AND the literal first-`##`-to-last-`##` span with the definition beside each, and run the explicit-vocabulary probe (mouth · came · hip · thigh · come · inside · wet). **A count is not a proof.** 465 recorded 3,747 and probed 45; 454 recorded 3,489 and probed 18; **474 recorded 5,085 and probed 31.**
+**A SCENE CHAPTER MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY. IT MAY NEVER LEAVE THE SCENE UNWRITTEN.**
+
+**TWO SPANS AND TWO COMMANDS. A FIGURE IS ONLY TRUE OF THE ONE IT WAS TAKEN WITH, AND THE ERROR OF THE PREVIOUS PHASE WAS MEASURING ONE WITH THE OTHER.**
+**RECORDED SPAN — the body counted from the opening `##` to the closing `##`, EXCLUSIVE of both.** `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1); sed -n "$((F+1)),$((L-1))p" FILE | wc -w`
+**LITERAL SPAN — first-`##`-to-last-`##`, INCLUSIVE of both bounding headings.** `sed -n "${F},${L}p" FILE | wc -w`
+**The two differ by the two heading lines and nothing else. Print the definition beside each figure. Run the explicit-vocabulary probe (mouth · came · hip · thigh · come · inside · wet) WHOLE-WORD, on the whole file, and print the seven counts and their sum.**
+
+**A COUNT IS NOT A PROOF. THE FIGURES BELOW WERE ALL RE-RUN BY COMMAND ON 13 OCTOBER 2026 AND ALL THREE PAIRS REPRODUCE.**
+
+| Ch | File words | Recorded, exclusive | Literal, inclusive | Probe |
+| --- | --- | --- | --- | --- |
+| 454 | 4,295 | **3,474** | **3,490** | **18** |
+| 465 | 4,429 | **3,747** | **3,755** | **39** |
+| 474 | 5,410 | **4,625** | **4,642** | **32** |
+
+**THE SIX FIGURES THE PREVIOUS VERSION OF THIS PROMPT QUOTED ARE WRONG OR SUPERSEDED AND MUST NOT BE COPIED: the old line said 465 probed 45 (it is 39), 454 recorded 3,489 (it is 3,474), and 474 recorded 5,085 and probed 31 (474 has been cut to 5,410 as a file, 4,625 recorded, 32 probed). IT ALSO CALLED 465's literal 3,755 UNREPRODUCIBLE, AND IT REPRODUCES: the check that flagged it ran the EXCLUSIVE command against an INCLUSIVE claim. IF YOU REPRODUCE A FIGURE, RUN THE COMMAND THAT MATCHES THE DEFINITION BESIDE IT, OR PRINT NO FIGURE AT ALL.**
+
+**AND ONE MORE THING THE REVIEW OF THE LAST BATCH FOUND, WHICH IS ABOUT CHAPTER STRUCTURE AND NOT ABOUT COUNTS: A SCENE CHAPTER THAT ARRIVES WITH ITS RULES, ITS ENTRY HISTORY AND ITS LIST OF TERMS ALREADY ON THE PAGE IS A SETUP CHAPTER BOLTED TO A SCENE CHAPTER.** 474 was 61% rule-exposition and 39% scene before the repair and is 57/43 after it, and 474 is the chapter the whole movement turns on. **WRITE THE SETUP AS SHORT AS THE PLOT ALLOWS AND BRING HER TO THE BED.**
 
 ## 6. THE TEN CARDS
 

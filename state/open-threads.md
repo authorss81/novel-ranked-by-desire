@@ -1,3 +1,21 @@
+# VOLUME 10 BATCH 0003 — CHAPTERS 471–480 ARE ON DISK, TEN FINISHED FILES, WRITTEN 13 OCTOBER 2026 AND **REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0003.review.log` — FOUR FINDINGS, THREE FIXED, ONE ACCEPTED WITH THE REASON RECORDED.** **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-10/batch-0004/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 481–490.**
+
+## THE 13 OCTOBER 2026 REVIEW REPAIR OF BATCH 0003 — FOUR FINDINGS. **NO CHAPTER WAS RESTARTED, NO EVENT, DATE, CHARACTER, RULE OR PIECE OF THE PLANNED PLOT WAS CHANGED, NO TITLE CHANGED, NO SCENE MOVED, NO PC ADOPTED, WITHDRAWN OR RENUMBERED, NOTHING AGED AND NO MARK MOVED.**
+
+**THE REVIEW IS `logs/batch-0003.review.log`. IT FOUND FOUR DEFECTS AND SAID STRUCTURALLY THAT THE BATCH IS SOUND: NO CONTINUITY BREAK, NO PLOT DRIFT, `outline/ending.md` UNTOUCHED, THE INHERITED IRREVERSIBLE DECISION (`PC-102`) CARRIED FORWARD WITH AN EXPLICIT INSTRUCTION NOT TO UNDO IT.**
+
+1. **F1 — 474 SPLIT 61/39, A SETUP CHAPTER BOLTED TO A SCENE CHAPTER. FIXED IN THE PROSE.** The reviewer counted **3,505 words before `## Slow, And On Purpose` and 2,285 in and after it**, and named the fat precisely: the sixteen-September entry, the broker's reading rule, the guild's form, the four facts. **THREE SECTIONS WERE MERGED INTO ONE, ONE WAS CUT AWAY ENTIRELY, AND 481 WORDS WERE CUT.** `## The Rule That Carries It` and `## The Form The Guild Has` are gone as sections and their content is inside `## The Entry Since The Sixteenth Of September`; `## Four Facts, In Order` is now `## Three Facts, In Order` because one of the four was a restatement of what he says back to her two sections later; **the second "I will ask you three questions and you will answer three" exchange, which restated the call-form paragraph immediately above it and the auditor's-order line that `## What He Gave` already carries, was cut whole.**
+   **RE-RUN BY COMMAND, ON THE REVIEWER'S OWN METHOD AND WITH THE METHOD NAMED BESIDE THE FIGURE: 5,891 → 5,410 WORDS IN THE FILE AND FIFTEEN `##` SECTIONS → THIRTEEN; AND THE REVIEWER'S BUCKET, COUNTED WITH HEADING LINES EXCLUDED SO THAT THE FIGURE IS THE ONE THEY PRINTED, IS 3,505 → 3,036 AGAINST 2,285 IN AND AFTER `## Slow, And On Purpose`, WHICH IS 61% → 57%. COUNTED WITH THE HEADING LINES INCLUDED THE SAME TWO BUCKETS ARE 3,578 → 3,097 AND 2,313.**
+   **THE BLOCKS THE REVIEWER NAMED, MEASURED THE SAME WAY, HEADING WORDS EXCLUDED: THE ENTRY, THE RULE, THE GUILD'S FORM AND THE LIST OF TERMS WENT 1,186 → 811. ADD THE FIRST DESCRIPTION AND IT IS 1,389 → 971. ADD BOTH BODY DESCRIPTIONS, WHICH THE REVIEWER COUNTED INSIDE THE SETUP AND WHICH ARE THE CHAPTER'S AXIS, AND IT IS 2,406 → 1,974.** The chapter still leaves the 1,800–2,700 band and still says why: it is Volume 10's third scene, it is the chapter the movement turns on, and it is nine chapters after 465.
+   **NOTHING WAS CUT OUT OF THE SCENE.** `## The Whole Of It` through `## Afterwards` is untouched to the word, `## What She Gave` and `## What She Would Not Put Her Name Under` are untouched to the word, **the two body descriptions are intact, the one-line-wrong-out-of-nine beat is intact, the refusal to sign is intact, and the ending line is the ending line.**
+2. **F2 — THREE FIGURES DID NOT REPRODUCE AND ALL SIX BAD FIGURES WERE BEING FORWARD-PROPAGATED AS THE METHOD. FIXED, AND ONE OF THE REVIEWER'S OWN MEASUREMENTS WAS A DEFINITION ERROR.** See the SCENE row below, which now carries the definitions beside every figure and **THE REVIEWER MEASURED ALL THREE "LITERAL" CLAIMS WITH THE *EXCLUSIVE* COMMAND, WHICH DOES NOT TEST AN INCLUSIVE CLAIM.** Under the command that matches what each figure claims: **465's literal 3,755 REPRODUCES EXACTLY, and the two blocks in this file that flag it as unreproducible are themselves wrong and are corrected here.** **454's two figures are the only ones that genuinely do not reproduce**, both overstated by fifteen words, and they are corrected in the Batch 0002 block below without touching 454's prose. **474's pair is superseded by the repair.** `workspace/volume-10/batch-0004/PROMPT.md` §5 quoted all six as the method and is corrected.
+3. **F3 — `batch-0004/PROMPT.md` §5's "Last scene" COLUMN MEANT *THAT PARTNER'S* LAST SCENE AND READS LIKE THE PREVIOUS SCENE IN THE BOOK. FIXED.** The column is headed **"That woman's own last scene"** and the gap column now names the arithmetic it subtracts.
+4. **F4 — THE BATCH MEAN OF 2,735 A CHAPTER AGAINST VOLUME 9'S 2,026. ACCEPTED, AND THE REASON IS ON THE PAGE.** Excluding 474 the mean is 2,384. **473 AT 3,000 IS THE MOVEMENT'S ROOM AND 474 AT 5,410 IS THE SCENE, and the other eight sit between 1,792 and 3,000.** Volume 9's mean is a batch of cases; this batch carries a nine-women ensemble and Volume 10's third scene. **NO ACTION, AND NOT A DEFECT.**
+
+**WHAT A REVIEWER SHOULD RE-RUN BY COMMAND AND NOT TRUST, AFTER THIS REPAIR:** files 480, gaps 0 · titles 480 distinct · **batch 26,866 and volume 76,083, counted per file and summed** · 474 = 5,410 as a file, recorded span 4,625, literal 4,642, probe 32 · 465 recorded 3,747 and literal 3,755, probe 39 · 454 recorded 3,474 and literal 3,490, probe 18 · 769 prose paragraphs, 0 over 90, 0 over 120, longest 90 · 0 odd quotation-mark paragraphs · day names 0 · announced ages 0 · `settle` 0 · `cuticles` 0 in this batch.
+
+---
+
 # VOLUME 10 BATCH 0003 — CHAPTERS 471–480 ARE ON DISK, TEN FINISHED FILES, WRITTEN 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-10/batch-0004/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 481–490.**
 
 > **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-10/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**
@@ -25,12 +43,17 @@ TITLES       480 title lines, 480 distinct, sort | uniq -d EMPTY. The ten of thi
              `workspace/volume-10/batch-0003/PROMPT.md` §7 BY STRING AND BY CHARACTER COUNT, TEN OF TEN,
              ZERO MISMATCHES, the counts re-derived by command from the strings and not from the file:
                471 (25) · 472 (32) · 473 (31) · 474 (34) · 475 (27) · 476 (20) · 477 (29) · 478 (31) · 479 (39) · 480 (34)
-             3 to 12 words (6,6,6,6,4,4,6,6,7,5), longest 39 characters with the heading mark, under ninety.
+             3 to 12 words, **counted by command after the repair: (5, 5, 5, 7, 5, 4, 6, 7, 7, 5)**, longest 39
+             characters with the heading mark, under ninety. **THE REPAIR CORRECTED THE WORD COUNTS IN THIS ROW,
+             WHICH READ (6,6,6,6,4,4,6,6,7,5) AND DID NOT REPRODUCE ON ANY TITLE BUT 476's; ALL TEN ARE INSIDE
+             3 TO 12 EITHER WAY AND THE CHARACTER COUNTS ABOVE ARE CORRECT AND DID REPRODUCE.**
              None begins with *What*. None is built out of *there is no* / *nobody* / *nothing*.
-BANK         **27,347 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
-             471 2,146 · 472 2,598 · 473 3,000 · 474 5,891 · 475 2,682 · 476 2,401 · 477 1,792 · 478 2,167 · 479 2,241 · 480 2,429.
-             **VOLUME 10 RE-RUN BY COMMAND AFTER THIS BATCH: 76,564 WORDS ACROSS THIRTY FILES**, being
-             24,719 (Batch 0001, re-run) + 24,498 (Batch 0002, re-run) + 27,347 (this batch).
+BANK         **26,866 WORDS ACROSS TEN FILES AFTER THE REPAIR, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+             471 2,146 · 472 2,598 · 473 3,000 · **474 5,410** · 475 2,682 · 476 2,401 · 477 1,792 · 478 2,167 · 479 2,241 · 480 2,429.
+             **VOLUME 10 RE-RUN BY COMMAND AFTER THE REPAIR: 76,083 WORDS ACROSS THIRTY FILES**, being
+             24,719 (Batch 0001, re-run) + 24,498 (Batch 0002, re-run) + 26,866 (this batch after the repair).
+             **THE BATCH WAS 27,347 AND THE VOLUME 76,564 BEFORE IT; THE DIFFERENCE IS 481 WORDS AND ALL OF
+             THEM ARE 474'S, CUT BY THE REPAIR.**
              **474 LEAVES THE 1,800–2,700 BAND AND SAYS WHY: it is Volume 10's third scene, it is the chapter the
              movement turns on, it is nine chapters after 465, and it is written out.**
              473 (3,000) and 474 leave the band. **473 IS THE MOVEMENT'S ROOM AND ITS ENSEMBLE IS WHAT THE
@@ -94,13 +117,15 @@ ARITHMETIC   Every printed interval derived TWICE and printed with its own opera
              **NO RUNNING BALANCE OF THE ACCOUNT IN GRAINS APPEARS IN ANY OF THESE TEN** and `1.4 million` is 0.
              **NO LEDGER TOTAL.** A draw is described in words at 475 and never added up, and Ines refuses the
              total out loud and says why.
-PARAGRAPHS   **786 prose paragraphs across the ten.** **0 over roughly 90 words. 0 over roughly 120.**
-             **QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech runs across a break.
+PARAGRAPHS   **769 prose paragraphs across the ten, re-run after the repair.** **0 over roughly 90 words. 0 over roughly 120.**
+             Longest 90. **QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech runs across a break.
              **NO AUTOMATIC SPLITTER WAS RUN OVER PROSE.** Every long paragraph was split in hand at a sentence
              boundary and **every split that fell inside a speech closed and reopened the quotation**, which is
              why the parity row is 0 odd. **FIFTY-SEVEN PARAGRAPHS WERE OVER NINETY ON THE FIRST SWEEP AND SIX
-             MORE WERE PUSHED BACK OVER BY THE LATER EDITS; ALL SIXTY-THREE ARE UNDER NINETY ON THE PAGE AND THE
-             LAST SIX WERE SPLIT AT NAMED SENTENCE BOUNDARIES BY HAND.**
+             MORE WERE PUSHED BACK OVER BY THE LATER EDITS. THE REPAIR MERGED SECTIONS IN 474 AND THAT MERGE PUT
+             TEN PARAGRAPHS OVER NINETY, SIX OF THEM OVER ONE HUNDRED AND THE LONGEST AT 179; ALL TEN WERE SPLIT
+             BACK BY HAND AT NAMED SENTENCE BOUNDARIES, EACH SPLIT INSIDE A SPEECH CLOSED AND REOPENED THE
+             QUOTATION, AND THE ROW IS BACK TO 0 OVER 90 WITH 0 ODD.**
 MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold spans 0** · **italic pairs 4**,
              the pairs counted with `grep -o '\*[^*]\{1,\}\*' | wc -l` and every one read by hand.
              **SYSTEM PANELS: ZERO IN TEN CHAPTERS.** Volume 10's panels stand at two in thirty chapters, at
@@ -158,13 +183,18 @@ MARKS        `ink at the cuticles` is at FOUR in the book — 329, 340, 404 and 
              **NADIA'S ONE FACT IS SPATIAL AND IT IS USED AS A MECHANIC, NOT A MARK: THE DEPLETION GOES DOWN A
              FLOOR IN ABOUT FOUR MINUTES AND DOWN A SHAFT IN ABOUT NINE, AND SHE IS THE ONLY PERSON WHO CAN
              GO DOWN.**
-SCENE        474. **RECORDED SPAN 5,085 WORDS**, being the body counted from the opening `##` to the closing
-             `##` exclusive of both. **LITERAL FIRST-##-TO-LAST-## SPAN 5,102 WORDS**, inclusive of both
-             bounding headings. Fifteen section headings; the body runs across fourteen of them. **Both
-             definitions are printed beside the figure and both figures were taken by command after the last
-             edit to the prose.**
-             **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet): 7 · 13 · 2 · 0 ·
-             7 · 1 · 1, SUM 31**, against 45 for 465 at a body of 3,747 and 18 for 454 at a body of 3,489.
+SCENE        474. **RECORDED SPAN 4,625 WORDS AFTER THE REPAIR**, being the body counted from the opening `##`
+             to the closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 4,642 WORDS**,
+             **inclusive of both bounding headings**. Thirteen section headings; the body runs across twelve of
+             them. **Both definitions are printed beside the figure and both figures were taken by command
+             after the last edit to the prose. THE REPAIR'S OWN FIGURES ARE 5,410 for the file, 4,625 recorded
+             and 4,642 literal, AND THE THREE OF THEM ARE THREE DIFFERENT NUMBERS ON PURPOSE.**
+             **THE SUPERSEDED PAIR WAS 5,085 RECORDED AND 5,102 LITERAL, THE SECOND OF WHICH WAS WRONG BY 17
+             UNDER ITS OWN DEFINITION; IT IS REPLACED, NOT CARRIED.**
+             **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet): 6 · 12 · 2 · 0 ·
+             9 · 2 · 1, SUM 32**, against 39 for 465 at a recorded body of 3,747 and 18 for 454 at a recorded
+             body of 3,474. **THE OLD CLAIM OF 7 · 13 · 2 · 0 · 7 · 1 · 1 = 31 DID NOT REPRODUCE ON A WHOLE-WORD
+             READING AND IS WITHDRAWN.**
              **A COUNT IS NOT A PROOF, AND THE FIGURE IS LOWER THAN 465's ON A BODY THAT IS LONGER. THE
              CHAPTER IS WRITTEN OUT, UNHURRIED, EXPLICIT AND PHYSICAL, AND THE PROBE IS PRINTED BECAUSE IT
              IS THE FIGURE THE COMMAND GAVE AND NOT BECAUSE IT IS AN ARGUMENT.**
@@ -183,6 +213,24 @@ SCENE        474. **RECORDED SPAN 5,085 WORDS**, being the body counted from the
              Violence and sex stay in separate registers: **she counts to eleven with two fingers on the place
              where his cough starts before the scene begins, tells him she will tell him off if he coughs and
              will not stop him, and is a broker about a thing she is spending and not about a rescue.**
+
+### THE TWO SPAN FIGURES, AND WHY A LATER PHASE MUST RUN THE DEFINITION AND NOT THE NUMBER
+
+**THREE CHAPTERS OF THIS VOLUME CARRY A SCENE SPAN AND EVERY ONE OF THEM HAD A FIGURE IN THE RECORD THAT DID NOT REPRODUCE. ALL THREE ARE RE-RUN HERE, EACH WITH THE COMMAND THAT MATCHES WHAT THE FIGURE CLAIMS. THE FIGURES BELOW ARE THE FIGURES THE COMMANDS PRINTED.**
+
+| Ch | File | **RECORDED — exclusive of both `##`** | **LITERAL — inclusive of both `##`** | Probe | Headings |
+| --- | --- | --- | --- | --- | --- |
+| **454** | 4,295 | **3,474** | **3,490** | **18** | 9 |
+| **465** | 4,429 | **3,747** | **3,755** | **39** | 11 |
+| **474** | **5,410** | **4,625** | **4,642** | **32** | **13** |
+
+**THE THREE COMMANDS, AND A FIGURE IN THIS TABLE IS ONLY TRUE OF THE ONE IT WAS TAKEN WITH.**
+**RECORDED: `sed -n "$((FIRST+1)),$((LAST-1))p" FILE | wc -w`, where FIRST and LAST are the line numbers of the first and last lines beginning `##`.**
+**LITERAL: `sed -n "${FIRST},${LAST}p" FILE | wc -w`. The two differ by the two heading lines and nothing else.**
+
+- **454 IS THE ONLY CHAPTER OF THE THREE WHOSE RECORD WAS SIMPLY WRONG.** It carried **3,489 recorded and 3,505 literal**; the commands print **3,474 and 3,490**, and both old figures were overstated by fifteen. **454's PROSE WAS NOT TOUCHED, THE FILE IS 4,295 WORDS AND HAS NOT BEEN REWRITTEN SINCE IT WAS WRITTEN, AND THE FIFTEEN WORDS ARE A COUNTING ERROR IN THE RECORD AND NOT A CHANGE IN THE CHAPTER.** Corrected in the Batch 0002 block below and in `state/chapter-summaries.md`.
+- **465 REPRODUCES ON BOTH FIGURES AND THE RECORD WAS WRONG TO SAY OTHERWISE.** This file twice flagged *literal 3,755* as a figure that does not reproduce — once as `R1` in the Batch 0002 repair and once in the Batch 0002 gate. **THE CHECK THAT GENERATED THAT FLAG RAN THE EXCLUSIVE COMMAND AGAINST AN INCLUSIVE CLAIM, WHICH CANNOT FAIL TO MATCH AND DID NOT MATCH.** Under `sed -n "${FIRST},${LAST}p"`, 465 prints **3,755 exactly**. **BOTH FLAGS ARE WITHDRAWN AND A LATER PHASE MUST NOT "REPAIR" 465 AGAIN.**
+- **474's pair is the repair's own and both figures were taken with the command that matches the claim beside them.**
 SETTLE       `grep -rio "settle" chapters/volume-10/` -> **0.** One `it is not going to be settled` at 476 was
              written by this pass and cut before this block was written.
 BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 ·
@@ -194,9 +242,13 @@ BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · lit
              column in this city will ever take it* — **and they are in the same family as two of Batch 0002's.**
              The eighth is `nobody asked her twice` at 473, which became *and not one of them asked her twice* and
              was found and cut by the same sweep. `nobody` as a bare word runs
-             2 / 2 / 3 / 2 / 1 / 3 / 1 / 3 / 0 / 1 across the ten and none is over three. `there is no`, family
-             (no / not / nothing / nobody / nowhere) runs 4 / 5 / 2 / 3 / 2 / 3 / 5 / 0 / 2 / 2 and none is
-             over five.
+             2 / 2 / 3 / **3** / 1 / 3 / 1 / 3 / 0 / 1 across the ten and none is over three. **474 ROSE FROM ONE
+             TO THREE IN THE REPAIR AND THE THREE ARE ALL OBJECTS, NOT REGISTER: *nobody has ever asked you for
+             anything without telling you what it costs*, *nobody in this guild has ever written a rumour down*,
+             and *there is not one thing in this city with his face on it*.** `there is no`, family
+             (no / not / nothing / nobody / nowhere) runs 2 / 4 / 5 / 2 / 3 / 2 / 3 / 5 / 0 / 2 and none is
+             over five. **THE FIGURES IN THE PREVIOUS BLOCK WERE PRINTED ACROSS 470–479 AND ARE RE-PRINTED HERE
+             AGAINST 471–480; BOTH SEQUENCES SATISFY THE SAME CLAIM.**
 CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds: Dagmar Oyelowo appears nowhere in these
              ten, is given no gift, and is not in a scene. `PC-47`, `PC-57`–`PC-60`, `PC-64`, `PC-69`, `PC-82`,
              `PC-84`, `PC-87`, `PC-89` to `PC-93`, Batch 0001's `PC-94`–`PC-97`, and Batch 0002's `PC-98`–
@@ -251,7 +303,7 @@ eleventh of July and on the thirtieth of July and on the second of August.**
 2. **THE CHURCH HAS A POSITION AND IT IS NOT A HOSTILE ONE.** 462, the twenty-first: eleven hundred out of eleven thousand, **one in ten by lot in the order of a roll**, nine of a board that has never chosen her, and **her own name on a book and not the household's.** It belongs to nobody and the correct disposition is that it be given out. There is no list, so it cannot be returned. *He got what he came for and there was nothing in his coat he could have priced her at.*
 3. **FOUR DAYS, SET BY A CLERK, AND A CLERK CANNOT BE ASKED TO HURRY.** 463, the twenty-third: the twenty-sixth, the twenty-seventh, the twenty-eighth, the twenty-ninth — **twenty-nine taken from twenty-six is three, and three days between the first and the last is four days in a room** — sealed in about eleven seconds. He asks for September and is told the days are the days. **AND THE MATTER PUTS ITS ONE WORD ON A WALL AT FOUR O'CLOCK AND HE WATCHES IT HAPPEN AND DOES NOT TAKE IT DOWN**, because the only way to take a notice off that wall is to go and ask who put it up, and the answer is one floor below a room that stands at five.
 4. **AGNETE'S ROOM, ITS RULE, ITS SIZE AND ITS PRICE.** 464, the twenty-fourth: nothing can be compelled in a room she stands in, **she has not been outside one in eleven years**, **she has held it at nine and has never held it at a hundred and will not find out at nine hundred in the middle of somebody's sentence.** She holds it on the second day only. And she tells him on a Friday that **in her room he will not be able to refuse either**, and that he cannot stop it.
-5. **THE SCENE.** 465, the twenty-fifth, Beatrix Halm, **the roof of the last car up the Ferrier hill between eleven and one in the morning.** The city's turned lines triangulated twice, and the second one came from the desk that takes her returns, and the woman on that desk is Wren Kallo, and Wren cannot hold a thing. **He has eleven seconds' worth of an instrument and he does not spend her.** The reading goes out of order and may not be taken back. **She also tells him at the end that she felt a room four streets away go quiet twice and cannot put either one of them at a date, and refuses to invent an hour — after the repair of 13 October 2026, which took the two hours off that were two days early. Body 3,747 words recorded, exclusive of both bounding `##`; the literal 3,755 beside it in an earlier record does not reproduce.**
+5. **THE SCENE.** 465, the twenty-fifth, Beatrix Halm, **the roof of the last car up the Ferrier hill between eleven and one in the morning.** The city's turned lines triangulated twice, and the second one came from the desk that takes her returns, and the woman on that desk is Wren Kallo, and Wren cannot hold a thing. **He has eleven seconds' worth of an instrument and he does not spend her.** The reading goes out of order and may not be taken back. **She also tells him at the end that she felt a room four streets away go quiet twice and cannot put either one of them at a date, and refuses to invent an hour — after the repair of 13 October 2026, which took the two hours off that were two days early. Recorded span 3,747 words, exclusive of both bounding `##`; literal first-`##`-to-last-`##` 3,755, inclusive of both. Both reproduce.**
 6. **THE MAN WHO FILED IT INSTEAD. THE MOVEMENT'S TURN.** 466, the twenty-sixth: Perrin Sowe puts four true sentences about himself into a public record — **Lin Wei was right, he knew, he filed instead of giving, and the file is the reason Lin Wei was removed** — and the book does not punish him. **THE BATCH'S IRREVERSIBLE DECISION IS HANDS AND IT IS HIS: eleven seconds, a brass, a clerk who may only enter and a phrase unspent since the ninth of May, and he lets Sowe pay for a true sentence and does not use one of them.** The option of buying his way out of another person's ruin is closed.
 7. **TWO HOURS AND FIFTY MINUTES NOBODY CAN USE.** 467, the twenty-seventh: sixty names, a hundred and forty particulars, the city, no rhetoric. **He stops a man thanking her and Agnete asks the officer to correct him if he does it twice.** Beatrix is at the back of the room with a notebook in order for the first time in four years.
 8. **PUT IN THE RECORD AND KEPT.** 468, the twenty-eighth: eleven hundred and forty in a room that holds nine hundred, **the room does not hold at that size and she gives the afternoon up and says so on the record** — so the afternoon is the first of the four on which anything said can be used. Eleven wrong answers, and he corrects none of them, because a subject does not instruct the room. **Four lines and an hour and the number of a finding, held by no person, in a book on a shelf that anybody may ask to read.** Nine thousand people under a wall four streets away.
@@ -271,7 +323,7 @@ eleventh of July and on the thirtieth of July and on the second of August.**
 5. **E1 — 468 PRINTED NINE DAYS FOR HOW LONG THE WORD HAD BEEN ON THE WALL.** The word goes up at four o'clock on the twenty-third (`463:105`–`113`) and `468` is the twenty-eighth. **Twenty-eight taken from twenty-three is five, and 468:83 now says five days.**
 6. **E2 — TWO UNANCHORED SPANS POINTING AT THE FIRST OF OCTOBER.** `469:17` said the other half of her fourth part *will be argued about for eleven weeks* and `470:129` said *in eleven weeks there will be nine seals in a room*. **Thirty taken from thirty leaves nothing, thirty of August, thirty of September and the first is sixty-one days, and nine weeks is what a person says about sixty-one days. BOTH ARE NOW NINE WEEKS.** Neither is a reviewer's finding; both are the class of defect the review was looking for.
 7. **E3 — TWO ANNOUNCED AGES.** See the AGES row: *a boy of nineteen* at `467:55` and *a boy of nineteen in March* at `469:31`, both now **a boy off a tram**.
-8. **R1 — A FIGURE IN THIS BLOCK THAT DOES NOT REPRODUCE.** The SCENE row's *LITERAL FIRST-##-TO-LAST-## SPAN 3,755 WORDS* comes out at 3,747 / 3,750 / 3,749 under the three cuts that were run. **3,755 IS NOT A FIGURE ANY CUT PRINTS AND IT IS NOW MARKED AS UNREPRODUCIBLE; 3,747 STANDS WITH ITS DEFINITION.** The prose is untouched and 465's body did not move, because the repair fell after the last `##`.
+8. **R1 — A FIGURE IN THIS BLOCK THAT DOES NOT REPRODUCE. WITHDRAWN 13 OCTOBER 2026 BY THE Batch 0003 REPAIR, WHICH WAS WRONG.** This entry said the SCENE row's *LITERAL FIRST-##-TO-LAST-## SPAN 3,755 WORDS* came out at 3,747 / 3,750 / 3,749 and marked it unreproducible. **ALL THREE OF THOSE CUTS ARE THE EXCLUSIVE CUT AND THE CLAIM IS THE INCLUSIVE ONE; `sed -n "${FIRST},${LAST}p" chapter-0465.md | wc -w` PRINTS 3,755 EXACTLY AND IT HAS SINCE BEEN RUN AGAIN.** The prose was untouched then and is untouched now. **Nothing in 465 needs repairing and no later phase may quote the withdrawal as a reason to touch the chapter.**
 
 **WHAT A REVIEWER SHOULD RE-RUN BY COMMAND AND NOT TRUST, AFTER THIS REPAIR:** files 470, gaps 0 · titles 470 distinct, 0 collisions · batch 24,498 and volume 49,217, counted per file and summed · 465 = 4,429 words as a file · 633 prose paragraphs, 0 over 90, 0 over 120, longest 90 · 0 odd quotation-mark paragraphs, volume-wide · `8,1` 0 · day names 0, both probes · announced ages 0, **in five probes** · `settle` 0 · `right temple` 0 book-wide · `ink at the cuticles` 4 book-wide and this batch adds none · one bracket panel, 465 only · `four hundred years` 0 · `eleven weeks` 0 in this batch · wall days: nine, and the eleventh to the nineteenth, in 460, 461, 465, 468, 469 and 470.
 
@@ -425,16 +477,15 @@ MARKS        `ink at the cuticles` is at FOUR in the book — 329, 340, 404 and 
 SCENE        465. **RECORDED SPAN 3,747 WORDS**, being the body counted from the opening `##` to the closing `##`
              exclusive of both. **LITERAL FIRST-##-TO-LAST-## SPAN 3,755 WORDS**, inclusive of both bounding
              headings. Eleven section headings; the body runs across ten of them. **Both definitions are printed
-             beside the figure and the figure was taken by command. THE REPAIR PASS RE-RAN BOTH AND FOUND
-             THAT THE SECOND FIGURE DOES NOT REPRODUCE: the recorded span comes out at 3,747 exclusive of
-             both bounding headings, 3,750 if the text between the two offsets is counted whole, and 3,749
-             inclusive of the opening heading. **THERE IS NO CUT THAT PRINTS 3,755 AND A LATER PHASE MUST
-             QUOTE 3,747 WITH ITS DEFINITION AND NOT QUOTE 3,755 AT ALL. THIS IS A RECORD DEFECT AND NOT A
-             PROSE ONE.** The repair pass's edit to 465 fell inside the closing section, which lies after
-             the last `##`, so **the body did not move** and 465 is now 4,429 words as a file against
-             4,368 before it. **EXPLICIT-VOCABULARY PROBE
-             (mouth · came · hip · thigh · come · inside · wet): 9 · 17 · 3 · 1 · 7 · 8 · 0, SUM 45**, against 18
-             for 454 at a body of 3,489. **A COUNT IS NOT A PROOF.**
+             beside the figure and **THE REPAIR PASSES THAT FOLLOWED BOTH FIGURES WERE WRONG AND ARE CORRECTED
+             HERE, IN THE Batch 0003 REPAIR BLOCK AT THE HEAD OF THIS FILE: BOTH 3,747 AND 3,755 REPRODUCE
+             EXACTLY UNDER THE COMMANDS STATED BESIDE THEM, `sed -n "$((FIRST+1)),$((LAST-1))p"` for the first
+             and `sed -n "${FIRST},${LAST}p"` for the second, AND THE FLAG BELOW WAS RAISED BY RUNNING THE
+             EXCLUSIVE COMMAND AGAINST THE INCLUSIVE CLAIM, WHICH CANNOT TEST IT.** 465 is 4,429 words as a file
+             against 4,368 before the Batch 0002 repair. **EXPLICIT-VOCABULARY PROBE
+             (mouth · came · hip · thigh · come · inside · wet), WHOLE-WORD, RE-RUN: 9 · 18 · 0 · 0 · 4 · 8 · 0,
+             SUM 39**, against 18 for 454 at a recorded body of 3,474. **THE OLD CLAIM OF 9 · 17 · 3 · 1 · 7 ·
+             8 · 0 = 45 DID NOT REPRODUCE AND IS WITHDRAWN. A COUNT IS NOT A PROOF.**
              **THE AXIS IS THE COUNTED MINUTE, BROKEN BY THE ROOM'S OWN RULE AND NAMED BY NOBODY:** the rule of a
              signal cab is that what the line reports is what she felt, in order, and she may not go back and
              improve it afterwards, **and the reading goes out of order about nine minutes in and she says so out
@@ -507,7 +558,7 @@ been touched: it was exactly as full on the thirtieth of July as it was on the e
 1. **THE SITTING HAPPENED AND THE REQUISITION WAS CARRIED.** 451, the afternoon of the thirtieth of June: five seals, one of them his, a finding that says the holding is his and the ground is his and **the premises are not a person keeping them and the eight who sleep under that roof are**. He said the four words' origin out loud in a room for the first time. The clerk wrote it down, because a clerk may only enter.
 2. **THE CHEAPEST THING HE BOUGHT IS NOW A WEEKLY DELIVERY TO HIS OWN KITCHEN.** 452, the first of July: a carried requisition runs down the chain to the division holding its fourth part, that division has **had a building, an address and a name since four o'clock on the thirtieth of June**, and it keeps no list of addresses. **He told nobody at Ferrier Street. That was his first act of the volume and the chapter says it is not a good one.**
 3. **THE OFFER WAS MADE AND IT IS CORRECT.** 453, the third of July: a standing at the Terrace, a chair, a name that outlives him, the Ninth Seal — on the condition that Alma Quayle classify the reservoir once, which requires him to lift a recusal, which is one sentence, eleven words, and which he is the only man alive who can say. **He did not say it. She said the account's fact out loud in that room, as §8 permits, and he never applied the word to himself.**
-4. **THE SCENE.** 454, the fifth of July, Ines Duarte, a **closed** sitting in a records room with a painted rule, a return read out of an auditor's memory, and one sentence said out of order. **Body 3,489 words recorded / 3,505 literal.**
+4. **THE SCENE.** 454, the fifth of July, Ines Duarte, a **closed** sitting in a records room with a painted rule, a return read out of an auditor's memory, and one sentence said out of order. **Recorded span 3,474 words, exclusive of both bounding `##`; literal first-`##`-to-last-`##` 3,490, inclusive of both. Both re-run by command on 13 October 2026 and both correct an earlier record that carried 3,489 and 3,505.**
 5. **THE AUDITORATE HAS A NAME AND NO BUILDING.** 455, the seventh of July: fourteen lent counters, one rule — **a person who comes in and does not go out** — and Ada at the third window of the Bellhouse since the first of October, asked twice what she was doing it for and answering herself. **Isolde Marchetti found out on the seventh, which is the cost.**
 6. **HE SAID YES.** 456, the ninth of July, in front of five, in a room that **cannot carry a requisition and both of them know it**. He undertook the classification and said nothing about the account. Every person in that room believes him. **Alma Quayle, in the chair that counts for nothing, kept both hands in her lap and did not do the thing she did on the nineteenth of June, and she cannot speak.**
 7. **THE SPEND WENT PUBLIC.** 457, the eleventh of July: a man on a step at the foot of the ranks wall taking strangers by the hand, ten and a half hours, about nine hundred cold minutes, ninety-one strokes in a stranger's chalk, and Cordwain told before the light went that the Bureau had come off the wall.
@@ -603,11 +654,16 @@ MARKS        `ink at the cuticles` is at FOUR in the book — 329, 340, 404 and 
              **ADA'S GREY IS PRINTED WITHOUT A TEMPLE ON A SIDE, THROUGHOUT: *a grey on the side of her head*,
              *on one side*, *above the ear*.** `left temple` remains 15 in the book and 458 adds none — the only
              grey that chapter names on a side of a head belongs to Ada and it carries no temple.
-SCENE        454. **RECORDED SPAN 3,489 words**, being the body counted from the opening `##` to the closing `##`
-             exclusive of both. **LITERAL FIRST-##-TO-LAST-## SPAN 3,505 words**, inclusive of both bounding
+SCENE        454. **RECORDED SPAN 3,474 words**, being the body counted from the opening `##` to the closing `##`
+             exclusive of both. **LITERAL FIRST-##-TO-LAST-## SPAN 3,490 words**, inclusive of both bounding
              headings. Ten section headings; the body runs across nine of them. **Both definitions are printed
-             beside the figure and the figure was taken by command.** **EXPLICIT-VOCABULARY PROBE (mouth · came ·
-             hip · thigh · come · inside · wet): 8 · 5 · 3 · 1 · 2 · 1 · 0.** A count is not a proof.
+             beside the figure and **BOTH FIGURES WERE RE-RUN BY COMMAND ON 13 OCTOBER 2026 AND BOTH WERE WRONG
+             IN THE RECORD BY FIFTEEN WORDS, 3,489 and 3,505 BEING WHAT AN EARLIER BLOCK PRINTED. 454's PROSE WAS
+             NOT TOUCHED BY THAT RE-RUN AND THE FILE IS 4,295 WORDS. A LATER PHASE MUST QUOTE 3,474 AND 3,490
+             WITH THEIR DEFINITIONS AND MUST NOT REPAIR THE CHAPTER OVER A COUNT.** **EXPLICIT-VOCABULARY PROBE
+             (mouth · came · hip · thigh · come · inside · wet), whole-word, re-run: 8 · 5 · 2 · 1 · 1 · 1 · 0,
+             SUM 18.** The old claim of `8 · 5 · 3 · 1 · 2 · 1 · 0` summed to 20 on its own arithmetic and does
+             not reproduce; the sum of 18 is correct. A count is not a proof.
              **THE AXIS IS TERMS, BROKEN BY THE ROOM'S OWN RULE AND NAMED BY NOBODY:** the rule on the wall says
              the one reading may stop and the subject may not, and she stops, and then says a sentence that is
              not in the return and has no date on it. **NO CHARACTER NAMES A SCENE, AN AXIS, A CHAPTER, A

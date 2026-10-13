@@ -1,84 +1,52 @@
 # The Vant's Entry In Her Own Hand
 
-Her rooms were on the second floor above the Vant's counting house and there was a fire lit in them at nine in the evening on the ninth of August, and there was a bound book on the table in the middle of the room that had a ribbon in the spine and nothing else on the cover.
+Her rooms were on the second floor above the Vant's counting house, there was a fire lit in them at nine in the evening on the ninth of August, and there was a bound book on the table in the middle of the room with a ribbon in the spine and nothing else on the cover.
 
-He came up at about nine and she opened the door herself and she was in a dark dress with the sleeves pushed back and her hair up off her face, and she did not ask him to sit.
+He came up at about nine and she opened the door herself, in a dark dress with the sleeves pushed back and her hair up off her face, and she did not ask him to sit.
 
 "You are one hundred and sixty-nine days into it," said Marguerite Vale, from inside the room, before he had got his coat off. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and thirty is one hundred and thirty at the end of June, and July is thirty, so one hundred and sixty at the end of July, and one hundred and sixty with nine is one hundred and sixty-nine. You did not get that from a clerk and I have not got it from a clerk."
 
 "I did not get it from anybody. It is in my head and it is there every morning."
 
-"Then take it in with you," said Marguerite Vale, "because I have got about four hours of this and one of them is going to be about a thing I have been carrying since the spring."
+"Then take it in with you, because I have got about four hours of this and one of them is going to be about a thing I have been carrying since the spring. You have had four days to come and get it and you have not been to the Vant."
 
-"You have had four days," said Marguerite Vale.
+"You knew there was something here to come for."
 
-"I have had four days and I have not been to the Vant."
-
-"You have not been to the Vant because you did not know there was anything here to come for," she said, "and I have spent five years deciding whether to tell you, and I want that on the table before anything else happens tonight, because it is the only thing I have done in this city in nine years that I am not going to put my name under."
+"I knew, and I have spent five years deciding whether to tell you, and I want that on the table before anything else happens tonight, because it is the only thing I have done in this city in nine years that I am not going to put my name under."
 
 ## The Entry Since The Sixteenth Of September
 
-"The Vant's real books have carried an entry at your address since the sixteenth of September," she said. "It is initialled and not signed. It is carried at a figure of seven. It has been called at a valuation on the first of December, on the first of January, on the first of February and on the first of March, and it has not been answered and not been paid and not been produced, because that door cannot be produced from, in or out."
+"The Vant's real books have carried an entry at your address since the sixteenth of September," she said. "It is initialled and not signed. It is carried at a figure of seven. It has been called at four valuations, the first of December, the first of January, the first of February and the first of March, and it has never been answered and never paid and never produced, because that door cannot be produced from, in or out."
 
 "Solveig has said all of that to me."
 
-"Solveig has said the part of it she is allowed to say," said Marguerite Vale.
+"Solveig has said the part of it she is allowed to say," said Marguerite Vale. "She ran the arithmetic on what that entry is actually worth in the winter of a year two years ago, in one night, and got it right, and would not write it on a page and would not say it out loud in a room."
 
-"Solveig ran the arithmetic on what that entry is actually worth in the winter of a year two years ago, in one night, and got it right, and would not write it on a page, and would not say it out loud in a room, and there has been exactly one other person in this guild who has ever done that work and she is me and I did it over eleven years in about four hours a year and I never wrote it down either."
+"There has been exactly one other person in this guild who has ever done that work and she is me, and I never wrote it down either, because the moment it is on a page it becomes a figure the guild can price, and the moment the guild can price it, somebody puts a form under it and starts asking who is owed it and by whom." She shut the door behind him.
 
-"Why not."
+"So there are two women in this city who know what that pot is worth and neither of us has ever put it in ink. A real book is written in the hand of the person who carries the debt. Not the keeper's hand. Not a clerk's. The hand of whoever is carrying it, at the moment they are carrying it, and a second signature on it would be a second carrier, and a debt can only be carried by one person or the figures do not reconcile."
 
-"Because the moment I write it on a page it becomes a figure the guild can price, and the moment the guild can price it, somebody puts a form under it and starts asking who is owed it and by whom." She shut the door behind him.
+"And the carrier may not read her own entry out, to a room or a man or a board or the four walls of her own house: if she reads one line of it aloud to another person then the entry is void and the debt goes back on the house it was carried against and the carrier carries it anyway."
 
-"So there are two women in this city who know what that pot is worth and neither of us has ever put it in ink and there is a rule underneath that which is older than both of us and which is the reason neither of us was tempted."
-
-## The Rule That Carries It
-
-"Tell me the rule."
-
-"A real book is written in the hand of the person who carries the debt," said Marguerite Vale. "Not the keeper's hand. Not a clerk's. The hand of whoever is carrying it, at the moment they are carrying it, and the entry is theirs and it goes into the book as theirs, and a second signature on it would be a second carrier, and a debt can only be carried by one person or the figures do not reconcile."
-
-"That is the whole of it?"
-
-"That is the first half of it." She put her hands flat on the closed book. "The second half is that the carrier may not read her own entry out. Not to a room, not to a man, not to a board, not on a return day, not in the four walls of her own house."
-
-"It goes in the hand of the person carrying it and it stays in the hand of the person carrying it, and if she opens her mouth and reads one line of it aloud to another person then the entry is void and the debt goes back on the house it was carried against and the carrier carries it anyway."
-
-"You have not read it out."
-
-"I have never read one out in eleven years," said Marguerite Vale, "and there has been exactly one line in these books in eleven years that I have wanted to read out, and it is in here, and I am not going to."
+"There has been exactly one line in these books in eleven years that I have wanted to read out," said Marguerite Vale, "and it is in here, and I am not going to."
 
 She took her hands off it.
 
-"So you will have it from me in the only other form the guild has, and I am going to make you do it properly and you are going to hate it."
+"So you will have it from me in the only other form the guild has, and it is this. When something moves in a real book it is called, and a call is three things. What moved. When. At what price. Not two of them. All three."
 
-## The Form The Guild Has
+"A call with two of the three is a rumour, and nobody in this guild has ever written a rumour down, because a rumour with two thirds is a thing people repeat, and a thing people repeat ends up in an opinion, and an opinion about a figure is how a city loses a person. And you are about eleven seconds into a conversation, and you are going to give me three facts in order before you start."
 
-"When something moves in a real book it is called," she said. "Three things. What moved. When. At what price. Not two of them. All three. A call with two of the three is a rumour and nobody in this guild has ever written a rumour down, because a rumour with two thirds is a thing people repeat, and a thing people repeat ends up in an opinion, and an opinion about a figure is how a city loses a person."
+## Three Facts, In Order
 
-"So you will ask me three questions and I will answer three and you will write none of it down."
+"First. I am not going to use what I have on you or on anybody in that room. A debt I touch binds both parties in writing and in person and every debt I take I carry myself, and I carry more of this city's obligations than any living person, and I have said that sentence out loud in about four rooms in nine years and it has never once been a way of asking anybody for anything."
 
-"I will ask you three and you will answer three," said Marguerite Vale, "and you are going to hate it because you have never in your life been asked for what a thing is worth by somebody who intends to do the asking, and you are going to answer me the way a man answers an auditor, which is in the order of the three and with the date on each one."
+"Second. Whatever I tell you tonight comes in the only form I am permitted to use and it will carry no more weight than the air in this room, and if you walk out of here with a figure you can produce against me in a division, I will have told you wrong on purpose."
 
-"And if I get one of them wrong."
+"Third." She did not move. "The night is yours and my morning is empty, and I am not going to handle you gently and you are not going to handle me gently, and you have a chest that is spent and you will not tell me about it, and I have known about it since the fifteenth of July and I have priced it once and I am not going to price it again tonight."
 
-"Then I correct you and you write the correction in the air with your finger," she said. "That is the whole method and it has been the guild's method since before the Vant had a counting house. You are about eleven seconds into a conversation and I am going to give you four facts and you are going to listen to all four before you start."
+"You will cough at least twice and I am going to tell you off for it and I am not going to stop you."
 
-## Four Facts, In Order
-
-"First. I have carried this want since the spring of the year you came up my stair and I have not acted as if it began tonight, and it did not begin tonight."
-
-"Second. I am not going to use what I have on you or on anybody in that room. A debt I touch binds both parties in writing and in person and every debt I take I carry myself, and I carry more of this city's obligations than any living person, and I have said that sentence out loud in about four rooms in nine years and it has never once been a way of asking anybody for anything."
-
-"Third. Tonight I am going to tell you what is in the book on that table in the only form I am permitted to use and it will carry no more weight than the air in this room, and if you walk out of here tonight with a number you can produce against me in a division, I will have told you wrong on purpose and I have not."
-
-"Fourth." She did not move. "The night is yours and my morning is empty, and I am not going to handle you gently and you are not going to handle me gently, and you have a chest that is spent and you will not tell me about it, and I have known about it since the fifteenth of July and I have priced it once and I am not going to price it again tonight."
-
-"I never said anything about my chest."
-
-"You said it in four hundred people on the thirtieth of July," said Marguerite Vale. "Beatrix Halm came up here in the spring and told me you had spent something and would not say what. I do not need you to say anything."
-
-"I have been keeping a real book for thirty years and I can see what is being spent from the outside of it, and tonight you are going to cough at least twice and I am going to tell you off for it and I am not going to stop you."
+"You said it in four hundred people on the thirtieth of July," said Marguerite Vale. "I have been keeping a real book for thirty years and I can see what is being spent from the outside of it, and I do not need you to say anything."
 
 ## The First Description, Which Is Enough
 
@@ -86,17 +54,15 @@ He looked at her for a moment in the firelight, at the shape of a woman who carr
 
 "Three questions," said Marguerite Vale. "Ask."
 
-"Give me the first one properly."
+"The first one."
 
-"Fine." She squared the book. "The first question is what moved. And I am going to answer it first out loud and then I am going to ask you the same question about me, and then I am going to answer it about you, and the three answers are not going to be the same shape, and I am telling you that now so that you do not think I have gone wrong."
+"I am going to deviate, and I am telling you that I am deviating rather than letting you find out at the end of it. The guild's method is a way of finding out what a figure did, and I am not looking for a figure tonight. I am looking for two people who have both been carrying something and have both been lying about it."
 
-"That is not the method."
-
-"It is not the method at all," she said, "and I have told you I am deviating and I am deviating deliberately, because the guild's method is a way of finding out what a figure did and I am not looking for a figure tonight. I am looking for two people who have both been carrying something and have both been lying about it. Come here."
+"So it is this. I answer you about me, and then ask you the same question about me, and then answer it about you, and the three answers are not going to be the same shape. Come here."
 
 ## What Moved, And When
 
-"What moved," said Marguerite Vale, "is a pot of thirty years' worth of small unrecorded things, and what came out of it for eleven years was the cost of keeping one woman's body above freezing, and the two of those are not the same size and I have known that for eleven years and I have never once been able to put it in a book because the line would have to carry both halves and the halves are not the same kind of thing."
+"What moved," said Marguerite Vale, "is a pot of thirty years' worth of small unrecorded things, and what came out of it for eleven years was the cost of keeping one woman's body above freezing, and the two of those are not the same size and I have known that for eleven years and I have never once been able to put it in a book, because the line would have to carry both halves and the halves are not the same kind of thing."
 
 She said the date, and the hour in it, and the name of the quarter.
 
@@ -106,27 +72,23 @@ She said the date, and the hour in it, and the name of the quarter.
 
 She looked at him for about two seconds.
 
-"I do not know," said Marguerite Vale. "And she does not know either, and she has been looking for eleven years, and there is not one thing in this city with his face on it. I have looked in the wrong building for eleven years and so has she and neither of us has ever been in the right one and I am not going to guess at it tonight in a room with a fire in it."
+"I do not know," said Marguerite Vale. "And she does not know either, and she has been looking for eleven years, and there is not one thing in this city with his face on it. I have looked in the wrong building for eleven years and so has she and neither of us has ever been in the right one, and I am not going to guess at it tonight in a room with a fire in it."
 
-"Then it is unknown."
-
-"It is unknown," she said, "and it has been unknown for eleven years, and it is going to be unknown in about seven weeks when a room at the end of a corridor sits, and that is the whole of what I have, and you may have it in that form or not at all."
+"It is unknown, and it is going to be unknown in about seven weeks when a room at the end of a corridor sits, and that is the whole of what I have, and you may have it in that form or not at all."
 
 ## What He Gave
 
-"Your turn," said Lin Hao. "What moved. When. At what price."
+"Your turn. What moved. When. At what price."
 
-"You will not do it in that order," said Marguerite Vale. "You will do it in the order it is comfortable to you, which is price first, because you have never in your life been asked for anything without knowing what it costs. So I am going to make you do it the other way round and you are going to hate it, and that is the method and not my cruelty."
+"You will not do it in that order," said Marguerite Vale. "You will do it in the order that is comfortable to you, which is price first, because nobody has ever asked you for anything without telling you what it costs. So I am going to make you do it the other way round, and you are going to hate it, and that is the method and not my cruelty."
 
-"Fine."
-
-"Fine," she said. "Your turn. What moved."
+"Fine," said Lin Hao. "What moved."
 
 And Lin Hao, standing in the best rooms he would ever stand in, in front of a woman who had been keeping the only books in Ostara that knew what that pot was worth, described her body to her, out loud, in the form of a call.
 
-He said the shoulders, and the line of them, and the hair up off her face, and the sleeves pushed back. He said the hands, which are the hands of a woman who has been writing in her own book for thirty years and who has got the guild out of the middle of her palms and who has washed them a thousand times for an office and once for him. He said the tiredness in one side of her, which is the side she reads on.
+He said the shoulders, and the line of them, and the hair up off her face, and the sleeves pushed back. He said the hands, which are the hands of a woman who has been writing in her own book for thirty years and who has got the guild out of the middle of her palms and who has washed them a thousand times for an office and once for him.
 
-He said the way she holds a room by standing still in it, and the way she had stood still for eleven years in a kitchen on Ferrier Street and been the only one at that table who had not needed the argument to go the way she wanted.
+He said the tiredness in one side of her, which is the side she reads on, and the way she holds a room by standing still in it, which she had done for eleven years in a kitchen on Ferrier Street and been the only one at that table who had not needed the argument to go the way she wanted.
 
 And he said the price, which was that she had been carrying this alone since the spring of the year he came up her stair, and had told not one living soul about it, and had told a man she had known for five years and not one woman in a house with eight of them in it.
 
@@ -146,7 +108,7 @@ Marguerite Vale did not move for about four seconds.
 
 "I am sorry."
 
-"Do not be sorry, be accurate," said Marguerite Vale. "You have spent four years putting people on a wall in chalk in about ninety seconds and you have just spent about ninety seconds on me and you got one line of it wrong out of nine, and I am going to tell you the other eight again in a different order for the rest of my life."
+"Do not be sorry, be accurate. You have spent four years putting people on a wall in chalk in about ninety seconds and you have just spent about ninety seconds on me and you got one line of it wrong out of nine, and I am going to tell you the other eight again in a different order for the rest of my life."
 
 ## The Whole Of It
 
@@ -182,15 +144,15 @@ She got him sitting on the edge of the bed against the far wall where the fireli
 
 "You could have said that when I asked."
 
-"I could have and I did not, and that is mine and I am not apologising for it." She got up off the floor and got her slip over her head and then stood there naked in front of him with the fire behind her, unhurried, entirely comfortable, a woman who has done this in front of a man she wanted in the year the account was carried at seven and has not been in a hurry since.
+"I could have and I did not, and that is mine and I am not apologising for it." She got up off the floor and got her slip over her head and stood there naked in front of him with the fire behind her, unhurried, entirely comfortable, a woman who has done this in front of a man she wanted in the year the account was carried at seven and has not been in a hurry since.
 
-"And that is the last of my terms and you have had four and you are not getting any more, so come and take what you came up the stair for."
+"That is the last of my terms and you have had four and you are not getting any more, so come and take what you came up the stair for."
 
 ## What She Wanted And Was Not Going To Pretend About
 
 He got his hand to her hip and she let him keep it there for about four seconds and then took it and moved it and made him watch her do it.
 
-"Here," she said. "Not because I am cold. Because I want to see you find it and because a man who is shown the way finds it faster and I am thirty years past being patient for a man who is slow."
+"Here," she said. "Not because I am cold. Because I want to see you find it, and because a man who is shown the way finds it faster, and I am thirty years past being patient for a man who is slow."
 
 Her fingers were cold. They were always cold, and he said so, and she said, "They are cold because they have been in a paper bag on a stair at half past seven in the morning for thirty years and I have never once got warm in them and I have stopped minding."
 
@@ -200,7 +162,7 @@ She closed her hand round him, looked at what she had done for a moment, and gav
 
 "I do not think of it that way."
 
-"I do," said Marguerite Vale. "I have been thinking about it since the fifteenth of July and I have never once been able to think about it any other way and I am not going to pretend to you tonight that I came up here for your sake."
+"I do," said Marguerite Vale. "I have been thinking about it since the fifteenth of July and I have never once been able to think about it any other way, and I am not going to pretend to you tonight that I came up here for your sake."
 
 "I came up here because I have been alone in a book for eleven years and I wanted a body in my rooms and I have picked the one I wanted, and it happens to be the one that is being used up, and I am not sorry about that and you may not be either."
 
