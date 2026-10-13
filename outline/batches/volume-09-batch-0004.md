@@ -114,7 +114,7 @@ the room.**
 
 **The duplication risk in this book is *terms, a body described in words three times, a counted minute, then a kettle* — confirmed in 340, 350,
 358, 369, 380 and 398. 406 broke it on three axes, 417 on the terms axis and the minute axis, 428 on the body axis, and 428 said all of it on
-the page. The three are spent. 438 breaks it again on a new one and says which.**
+the page. The three are spent. 438 breaks it again on a new one — the quiet — and carries it in what she does rather than in what she says about herself: she may not name an axis, a chapter, a volume, a page or her own performance, and the narrator may not address the reader. Added by the review repair of 13 October 2026, which found that "says which" was the root of eight fourth-wall breaks in this batch.**
 
 *May not:* use her deafness as the mechanism · have her fast or be silent for it · write the figure she wrote on the back of her own hand
 at 428, which is on the page as a decision and not as a number · make the scene a summary.

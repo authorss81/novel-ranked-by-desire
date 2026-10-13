@@ -6,9 +6,9 @@ The kitchen at Ferrier Street was empty at half past eight on the evening of the
 
 She did not touch the folder.
 
-"You said there was no certificate for the quarter that begins on the first of July," said Sun Meiling. "You said a keeper is going to write my name from memory. That was the first of June twelve days away and now it is twenty-nine days away. Thirty taken from one leaves twenty-nine, with nothing after it in this month, and that is the quarter."
+"You said there was no certificate for the quarter that begins on the first of July," said Sun Meiling. "You said a keeper is going to write my name from memory. That was the first of June two days away and now it is twenty-nine days away. Thirty taken from one leaves twenty-nine, with nothing after it in this month, and that is the quarter."
 
-"It is one hundred and two days since the twentieth of February," he said. "Ten from twenty leaves ten, and ten with thirty and thirty and thirty and one makes one hundred and two. The requisition is still capable and still not carried."
+"It is one hundred and one days since the twentieth of February," he said. "Ten from twenty leaves ten, and ten with thirty and thirty and thirty and one makes one hundred and one. The requisition is still capable and still not carried."
 
 "I know what it is administered against."
 

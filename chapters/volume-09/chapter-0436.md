@@ -2,7 +2,7 @@
 
 The clerk of the room at the end of the corridor keeps a drawer of slips she has written and not filed, and on the morning of the fifth of June she had one of them on the second table under the window with her hand on it, and he saw it because she did not move her hand away.
 
-"It is one hundred and six days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and five makes one hundred and six."
+"It is one hundred and five days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and five makes one hundred and five."
 
 "It is also twenty-five days to the thirtieth," said the clerk. "Thirty taken from five leaves twenty-five. I have kept this book for eleven years and I count it the same way every morning."
 
@@ -30,7 +30,7 @@ He sat down on the bench at the end of the corridor, which she had once sat down
 
 "Then do not file it."
 
-"I am not filing it." She put the slip back in the drawer and shut it. "That is the whole of this chapter in this building. A correction that exists and is correct and has not been filed, and the cost of filing it is somebody else's besides mine, because a bundle that goes into the keeping on the thirtieth of this month would carry it to seven desks at four."
+"I am not filing it." She put the slip back in the drawer and shut it. "That is the whole of this morning. A correction that exists and is correct and has not been filed, and the cost of filing it is somebody else's besides mine, because a bundle that goes into the keeping on the thirtieth of this month would carry it to seven desks at four."
 
 She squared the bundle on the table under the window.
 

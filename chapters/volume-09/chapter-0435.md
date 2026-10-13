@@ -4,7 +4,7 @@ The chair keeps a room on the first floor of the building at the end of the corr
 
 "She is not refusing the room," said the clerk. "She is refusing you. There is a difference and you know the difference."
 
-"It is one hundred and four days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and three makes one hundred and four. I am not asking for a sitting. I know the Council does not sit again until the thirtieth."
+"It is one hundred and three days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and three makes one hundred and three. I am not asking for a sitting. I know the Council does not sit again until the thirtieth."
 
 "Then you know more than most of the people who come to this counter."
 
@@ -80,6 +80,6 @@ She turned then, fully, with the folder against her side.
 
 "You refused it to keep your oath of the ninth of May." She nodded once, as though closing a book. "Lifting me in the last weeks of a quarter in which no Council sits would have been making the room need something, and a woman would have paid for it out of her own future."
 
-"You chose my standing over the ground of your own sheet. That is the most expensive refusal you have made in nine volumes, and you made it to protect me, and I am telling you so because nobody else will."
+"You chose my standing over the ground of your own sheet. That is the most expensive refusal you have made in this city, and you made it to protect me, and I am telling you so because nobody else will."
 
 She went in. The corridor was empty. He sat on the bench for a while with his hands on his knees, and then he got up and went out into the court, where the sun was on one side of it and a runner was taking a sheet up an outside stair.

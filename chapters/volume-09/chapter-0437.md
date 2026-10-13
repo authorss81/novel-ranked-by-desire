@@ -2,7 +2,7 @@
 
 The doctor keeps a surgery on the ground floor of the building above the third sub-level, and on the morning of the seventh of June she was at the rail outside it with a bag in her hand, and he was there because she had told the clinic he might come and she had not told him to stay away.
 
-"It is one hundred and eight days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and seven makes one hundred and eight."
+"It is one hundred and seven days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and seven makes one hundred and seven."
 
 "Twenty-three days to the thirtieth," said the doctor. "Thirty taken from seven leaves twenty-three. I have walked this corridor every working day for three years and I count it the same way."
 
@@ -28,7 +28,7 @@ They went down the last flight. The corridor at the bottom had no window and thr
 
 He stood in the corridor with the cold coming up through the floor and looked at the second door on the left. It was painted the same shade as the others and had no name on it and no number he could read.
 
-"It is one hundred and eight days since the sheet was laid," he said, "and the administration is twenty-three days away."
+"It is one hundred and seven days since the sheet was laid," he said, "and the administration is twenty-three days away."
 
 "It is the way a held account is administered," said the doctor. "On a fixed day. With a medical return to the same clinic. The tenth line of the last one about the man two doors along is in a different hand and says the man is held, three years, a quarter shorter than the last, and that I do not know what that means."
 

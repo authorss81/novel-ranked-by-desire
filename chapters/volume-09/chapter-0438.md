@@ -2,7 +2,7 @@
 
 The north end of the ranks wall is quiet after the painters have gone, and on the evening of the ninth of June Beatrix Halm was there with her notebook shut on the ledge and her pencil in her pocket, and he stopped about six feet away so that she could see him coming and did not have to hear him.
 
-"It is one hundred and ten days since the twentieth of February," he said, because the date was the only thing to say first. "Ten from twenty leaves ten, with thirty and thirty and thirty and nine makes one hundred and ten."
+"It is one hundred and nine days since the twentieth of February," he said, because the date was the only thing to say first. "Ten from twenty leaves ten, with thirty and thirty and thirty and nine makes one hundred and nine."
 
 She watched his mouth and nodded once.
 
@@ -36,11 +36,11 @@ She opened the notebook.
 
 *Twenty-second. Arcade hold. Nine hundred stood still. Twenty-two minutes. It is in here first.*
 
-"This is the axis I am breaking," said Beatrix Halm. "Your others broke terms and the clock and the body described three times. Those three are spent and said on the page. Mine is a new one. I am breaking the quiet."
+"This is the one I am breaking," said Beatrix Halm. "The others broke terms and the clock and the body described three times. Those three are spent. Mine is a new one. I am breaking the quiet."
 
 She looked up.
 
-"Every scene you have had in this book was in a quiet room with the door shut and nobody talking. I cannot use a quiet room. In a quiet room the city leaves my good ear and I hear too much of you and nothing of myself."
+"Every one of them was in a quiet room with the door shut and nobody talking. I cannot use a quiet room. In a quiet room the city leaves my good ear and I hear too much of you and nothing of myself."
 
 "I need noise. I need the laundry below and the yard outside and you talking the whole time so I can place you. If you stop talking I lose you. That is not a game. That is deafness, and it is mine, and it is what makes this mine."
 
@@ -62,9 +62,9 @@ She kissed him then, her mouth on his mouth, open and certain, and she tasted of
 
 He said her name and the date and the wall while she unfastened his belt and he unfastened hers, and they stepped out of boots and trousers in the narrow space between the table and the bed, clumsy and quick, steadying each other with hands on hips and shoulders, and the laundry below sent up heat through the boards and the yard sent in the sound of water.
 
-She was warm under her shirt and she pulled it off herself and stood in her skin with the notebook open on the table behind her, and he looked at her once, fully, and did not describe her again, because one looking was the whole of it and the page of this book has had enough of bodies counted three times.
+She was warm under her shirt and she pulled it off herself and stood in her skin with the notebook open on the table behind her, and he looked at her once, fully, and did not describe her again, because one looking was the whole of it and enough women have been counted three times already.
 
-"This is the second part of the axis," she said, her forehead against his. "No counted minute. No kettle after. Your others counted ninety seconds and a day and a half. I am not counting. When I come I come and you will know it because my hips will tell you, not my watch."
+"This is the second part of it," she said, her forehead against his. "No counted minute. No kettle after. The others counted ninety seconds and a day and a half. I am not counting. When I come I come and you will know it because my hips will tell you, not my watch."
 
 He lifted her and she wrapped her thighs round his waist, and he carried her the two steps to the bed and laid her down on the cover, and she pulled him down with her, her legs still round him, her heels locked at his back.
 

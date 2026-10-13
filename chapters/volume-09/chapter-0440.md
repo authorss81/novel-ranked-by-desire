@@ -2,7 +2,7 @@
 
 Eight women were at the kitchen table at Ferrier Street at half past eight on the evening of the twelfth of June, and the ninth name on the roll was not at that table and had never been at it, and Isolde Marchetti counted them out loud the way she sums, because somebody had to say it.
 
-"It is one hundred and thirteen days since the twentieth of February," he said from the doorway, because the date had to be said somewhere. "Ten from twenty leaves ten, with thirty and thirty and thirty and twelve makes one hundred and thirteen."
+"It is one hundred and twelve days since the twentieth of February," he said from the doorway, because the date had to be said somewhere. "Ten from twenty leaves ten, with thirty and thirty and thirty and twelve makes one hundred and twelve."
 
 "Eighteen days to the thirtieth," said Runa Sato. "Thirty taken from twelve leaves eighteen. That is the quarter."
 
@@ -68,4 +68,4 @@ Beatrix Halm lifted her hand off the wood and put it round her cup, and smiled a
 
 Wren Kallo capped her pen. Sun Meiling picked up her folder. Isolde Marchetti began to sum under her breath, because nobody agrees with arithmetic, and the table agreed with nothing, the way it has every evening for nine months.
 
-He stayed in the doorway with eighteen days in the quarter and a requisition one hundred and thirteen days old administered against the composition of the address they were sitting in, and he understood, the way he had understood nothing else that evening, that the household he had asked for on the fourteenth of April was holding, and that holding was not the same as shelter.
+He stayed in the doorway with eighteen days in the quarter and a requisition one hundred and twelve days old administered against the composition of the address they were sitting in, and he understood, the way he had understood nothing else that evening, that the household he had asked for on the fourteenth of April was holding, and that holding was not the same as shelter.
