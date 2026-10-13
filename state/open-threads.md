@@ -1,4 +1,177 @@
-# VOLUME 8 BATCH 0001 GATE RECORD — 13 OCTOBER 2026, RE-RUN AT THE REVIEW-FIX PASS. CHAPTERS 351–360 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+# VOLUME 8 BATCH 0002 GATE RECORD — 13 OCTOBER 2026, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE. CHAPTERS 361–370 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+
+**Everything below is a claim until a pass that did not write the prose re-runs it. This block WAS re-run from
+outside: the figures in it are what the commands returned when they were run against the files as they stand
+after the last repair, and the commands are printed beside the figures. The Volume 8 Batch 0001 gate record is
+below and is retained in full as history, and so are the Volume 8 planning record and the Volume 7 close record.**
+
+## Batch 0002 gates, re-run by command on 13 October 2026 against the files as they stand after the last repair
+
+```
+FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0370.md, **twenty files, no gap and no
+                 file outside 0351-0370.**  `ls chapters/*/chapter-*.md | wc -l` -> **370.**
+                 **No chapter 371 exists anywhere in the repository.**
+VOL 8 WORDS      **44,580, counted per file and summed.**  Per file: 351 **2,167** · 352 **2,240** ·
+                 353 **1,734** · 354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** ·
+                 359 **2,260** · 360 **2,594** · **361 2,376** · **362 1,842** · **363 2,204** · **364 2,174** ·
+                 **365 2,054** · **366 2,096** · **367 1,983** · **368 1,994** · **369 3,091** · **370 2,137**.
+                 **BATCH 0002 ALONE = 21,951** (44,580 − 22,629).
+                 **Count per file and sum. NEVER from a concatenation.** For this volume the two agree exactly —
+                 `cat chapters/volume-08/*.md | wc -w` returns **44,580** — because all twenty files carry a
+                 trailing newline, which was checked file by file. The trap is still armed for any volume whose
+                 files lack one.
+                 **THE ONLY CHAPTER OUTSIDE THE 1,800–2,700 BAND IS 369**, which is the volume's scene and leaves
+                 it deliberately; Volume 7's four long scenes ran 2,938 to 3,900 and 358 is 3,998. 369 is the
+                 shortest scene the volume has and it is 541 words shorter than 358.
+TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
+                 **370 title lines, 370 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
+                 The ten at 361–370 are printed exactly as banked in `outline/volume-08.md` §10 and **not one
+                 was changed**; longest of the ten 38 characters; word counts 5, 5, 7, 6, 6, 5, 6, 7, 6, 6;
+                 0 beginning with *What*; 0 built out of *there is no* / *nobody* / *nothing* / *what*.
+MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0**, across the ten.
+                 Bold spans **0**. Italic spans **16**, and every one of them is a document, a docket, a quoted
+                 word, or the five sentences a woman has been keeping for eleven years: the two lines on the back
+                 of the docket at 361, *Called.* at 363, *because it is cheaper* at 365 and 370, *vacant* at 367,
+                 *don't* twice and *sixteen* and *seven o'clock, Vestry, Agnete* at 368, *it was me* and
+                 *this clears you* and the five sentences at 369, and the two clauses he is remembering at 370.
+PARAGRAPHS       over roughly 90 words: **0**.  over roughly 120 words: **0**.  **Longest paragraph in the ten is
+                 90**, in 369.  Measured by a reporter that prints lengths and writes nothing.
+                 **LINE-BOUNDARY CHECK, RUN FIRST AND AGAIN AFTER EVERY HAND SPLIT AND AGAIN AT THE END:
+                 0 headings and 0 system panels without a blank line above them, 0 trailing spaces, all ten files
+                 end in a newline, and 0 paragraphs with an odd number of quotation marks — no speech runs
+                 across a paragraph break.** Two splits in this batch did leave a speech unclosed across a break
+                 and the check caught both; they were repaired, not smoothed over.
+SYSTEM MESSAGES  **exactly one in the whole batch, in 363.** Every other chapter carries none. On its own line, in
+                 square brackets, not bold, not italic, and it reports figures and people and carries no date of
+                 any kind:
+                 `[Ledger. One hundred and thirty-one lines. Nine turned. The split has not been published.]`
+                 **NOTE FOR THE REVIEWER: this is 353's panel with one word changed, and that is deliberate —
+                 the line count rises, the turned count does not, the split is still unpublished, and the chapter
+                 is one in which a figure is refused because two figures exist. Nothing is spent.**
+WEEKNAMES        `grep -rniE "monday|tuesday|wednesday|thursday|friday|saturday|sunday" chapters/volume-08/`
+                 -> **no lines. Seven of seven, whole-word and substring, zero.**
+                 **FOUR WERE IN THE FIRST DRAFTS AND WERE CUT BEFORE THE GATE WAS WRITTEN, AND THE RECORD IS
+                 HERE SO A REPAIR DOES NOT PUT THEM BACK: Saturday (368, the note), Monday (368, three times,
+                 and 369, once), Tuesday (362 and 367), Wednesday (365). Every one was replaced by a date.**
+SETTLE           `grep -rn "settle" chapters/volume-08/` -> **no lines.**  Nothing spent, nothing drawn,
+                 nothing routed, no folio, no second folio, no requisition laid, served, sealed, carried or
+                 received. **One was in a draft of 362 — *it would have been settled between the two of us* —
+                 and is now *finished*.**
+AGES             **No chapter announces an age.** `bible/characters.md` fixes them; the page prints none.
+                 **THREE WERE IN THE FIRST DRAFTS AND WERE CUT: Agnete Lindqvist said she was fifty-nine years
+                 old at 369, which `bible/characters.md` fixes at 45 and which was a disclosure in any case;
+                 Runa Sato's span at 366 and the fourth-seat man's seniority at 367 were both reduced to elapsed
+                 spans.** **NO AGE MAY BE GIVEN TO HANNEKE RUIS, MRS IRIE, WANDA REJ, HERTA VOGEL, TO THE MAN
+                 WHO WAS IN THE FOURTH SEAT, OR TO THE WOMAN WHO WAS IN THE THIRD SEAT. Sun Meiling, Agnete
+                 Lindqvist, Beatrix Halm, Nadia Ferrous, Isolde Marchetti, Runa Sato, Marguerite Vale,
+                 Anouk Ferreira, Alma Quayle, Wren Kallo and Bertram Sallow all appear in this batch and none
+                 of them is given one.** **A SPAN OF YEARS IS PERMITTED — eleven years indoors, six years in a
+                 seat, six weeks ago, nine years of a notebook — AND AN AGE IS NOT.**
+BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know
+                 **0** · there is no form **0** · there is no column **0** · the record remained **0** ·
+                 nobody asked **0** · nobody was thanked **0**.  **Nine of nine, in Volume 8.**
+12-GRAM          **Scope: the ten files 361–370 against every one of the other 360 chapter files in `chapters/`,
+                 and against each other. Tokenisation: markdown heading marks stripped; em/en dashes and curly
+                 quotation marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every non-alphanumeric
+                 turned to a space; lowercased; split on whitespace; empty tokens dropped.**
+                 **The same tokenisation reproduces Batch 0001's audited 31 exactly, split 13 / 11 / 7, which is
+                 how the scanner in this repository was verified against a number it did not write.**
+**26 cross-chapter matches involving the ten, in NINE groups, AND THEY COLLAPSE TO TWO DELIBERATE RETURNS AND
+  SEVEN SINGLES.**
+  1. **Hanneke Ruis's own written words, read back to her by name at 363.** **16 of the 26.** Twelve of them are
+     the carry-forward rule as she wrote it on the slip of the first of January — *a line called twice may be
+     carried forward by the room that holds the book without a fresh sheet being drafted* — and four are her
+     standing instruction of the seventeenth of September — *she would not see him again downstairs while there
+     were two figures for one door*. **He is quoting a document she gave him, to the woman who wrote it, in the
+     room, and the chapter cannot work without both quotations.** The remaining one n-gram is the pen on a chain
+     going round a wrist.
+  2. **The Church of the Quiet Number's doctrine, quoted at 369.** **3 of the 26.** *a city which cannot count
+     it has no business saying that the person who did it was worth nothing* is Chapter 10, and Agnete Lindqvist
+     is the chaplain of that Church and states its doctrine on the page as the thing her building is for.
+  3. **Seven singles**, and every one is a document, an address or a figure: a composition certified at nine on
+     the thirtieth of November by the woman who sleeps at that address (0348↔0368), the subject and the holding
+     of a requisition (0343↔0365), the ordinary stream at four in the afternoon (0337↔0368), a guild table at
+     seven on the morning of the sixteenth (0335↔0362), a clerk's tick in the corner of a box (0343↔0370),
+     nine minutes in a room at the end of a corridor (0361↔0369), and four words a man said to a clerk
+     (0365↔0370).
+**THE FIRST PASS OF THIS BATCH RETURNED 421 AND EVERY ONE OF THE 395 REPAIRED MATCHES WAS A REAL DEFECT.**
+  **238 of them were Chapter 351's counting room copied into Chapter 363 almost word for word, and that is the
+  single worst thing in this batch and it was not caught by reading.** Another 21 were the scene grammar of 358
+  turning up inside 369 (*met every stroke with her hips and told him in the ordinary voice exactly what she
+  wanted done about it*; *I want you inside me and I want your mouth on my mouth*), which `outline/volume-08.md`
+  §4 names as **the single largest duplication risk in this manuscript**; 58 were Nadia Ferrous's knife laid down
+  flat, copied out of 355 into 366 and 368 and identical in all three; 18 were Chapter 351's bad back and the
+  water; 10 were Marguerite Vale's sentence about being thanked; and there were runs on the four parts, on the
+  requisition's arithmetic and on the closing of a chapter. **All of it was rewritten rather than patched.
+  `AGENTS.md`: check borrowed bodies before borrowed sentences, and when a repair buys accuracy with a phrase
+  already on the page, run the count again.** Two repairs in this batch did exactly that and were caught.
+  11-GRAM          **79** on the same scope and the same tokenisation.
+  8-GRAM           **1,269** on the same scope, and the reportable figure is the connective tissue of the book
+                   (*and I am going to say*, *she did not look at him*, *which is how*) and not duplication.
+                   **None of the 8-gram report is between two scenes.**
+DUPLICATE PARAS  Exact-duplicate paragraph of eight words or more across two different chapter files in the whole
+                 book: **29, and EXACTLY ONE INVOLVES A VOLUME 8 FILE.** One is Batch 0001's, *I am the man at
+                 the top of this page and I will answer for it* at 348 and 356, which is the third of its three
+                 deliberate returns. **The other was this batch's and it is fixed: Nadia Ferrous put both hands
+                 flat on the table**, in Chapter 216 and in a draft of 368. **Now: *Nadia Ferrous turned her
+                 palms down on the table and left them there*, and the re-run returns 29 with only Batch 0001's
+                 in Volume 8.**
+BORROWED BODIES  **Checked before borrowed sentences and one thing was found and removed.**
+                 `right temple` occurs **zero** times in the whole book and Volume 8 keeps it at zero.
+                 **The only temple in the ten is Lin Hao's grey at the LEFT temple**, named at 369 by a woman
+                 who has known about it since August and never said a word — the same mark, the same side, the
+                 same owner, which is not a new claim and not a move, and she says *that is my business and not
+                 hers*, meaning Sun Meiling's, which is the only other woman who has looked at it.
+                 **No wrist scar. No ink at the cuticles. No yellow at the corner of an eye.** Agnete Lindqvist
+                 is given **no mark at all**: the cold room, hands that have not been warm in the building in
+                 eleven years, hair gone white at the front, a voice that has not been raised in eleven years
+                 (which is 360's own page). **Her new physical facts are all consequences of being indoors and
+                 none of them is a mark a chapter could repeat.** Sun Meiling gains nothing at all in this batch.
+SCENE 369 BODY   Counted from the opening `##` to the closing `##`, exclusive of both, by
+                 `lines[idx[0]+1 : idx[-1]]` where `idx` is the list of line numbers beginning with `## `.
+                 Headings: The Room Is Not A Term · What Am I To Them · The Room Does Nothing · Afterwards ·
+                 The Two Days.  **BODY = 2,570 WORDS.**  Chapter = 3,091.
+                 **AND PROBED, because a count is not a proof.** Substring counts over the body only:
+                 mouth **7** · came **15** · inside **2** · hair **3** · thighs **2** · tongue **1** · finger
+                 **3** · wet **1** · cock **2** · shaft **0** · breast **4** · nipples **1** · gasp **0** ·
+                 lick **0** · hip **4** · come **5**.  **PROBE TOTAL 43.**  (Substring counts; `come` counts
+                 *becomes* and *coming* as well as *came* and *come*, exactly as it did for 358's 46.)
+                 **THE FIRST DRAFT OF THE BODY PROBED 38 WITH *cock* AT ZERO, and *cock* was put back because
+                 a scene in this book says the thing it means.**
+                 Impaired-state mechanisms over the same body: compulsion **0** · sedat **0** · exhaust **0** ·
+                 restrain **0** · trance **0** · seal **0** · unconscious **0** · drugged **0**.
+                 *Compelled* occurs once in the body and it is the room refusing to compel anybody.
+```
+
+**A SECOND RE-RUN WAS DONE AFTER EVERY FIGURE ABOVE WAS WRITTEN, AND IT FOUND SIX INTERVAL DEFECTS IN THE TEN
+CHAPTERS AND ONE BANNED CONSTRUCTION THAT A SINGLE PASS MISSED. ALL SEVEN ARE REPAIRED AND EVERY FIGURE ABOVE IS
+WHAT THE RE-RUN RETURNS. THEY ARE RECORDED HERE BECAUSE BATCH 0001 WAS CAUGHT OUT FOUR TIMES THE SAME WAY AND A
+LATER PASS MUST NOT PAY FOR IT AGAIN.**
+
+1. **363 said *the second time in five weeks* about two visits thirty days apart.** The first of January to the
+   first of February is thirty days. **Five weeks is thirty-five. Now *the second time in a month*, in the
+   narration and in Hanneke Ruis's mouth.**
+2. **363 said *he had bought four weeks of quiet*.** Twenty-eight days is not a month either, and he bought it on
+   the first of January. **Now: *he had believed for a month that he had bought quiet … The quiet had never
+   belonged to him.*** Two short sentences, because the rule wants it applied rather than recited.
+3. **361 said the refusal had taken *eleven days* from the sixteenth of January.** The sixteenth to the twenty-sixth
+   is ten. **Now ten.**
+4. **361 said the booking recorded that she *declined in eleven minutes*,** when the docket carries 11.40 and 11.44
+   and the whole chapter is about those four minutes. **Now: *a woman who cannot be compelled had asked to be told
+   twice and had declined both times inside four minutes.*** This one was in a chapter whose gate row was already
+   written and already clean.
+5. **367 said he tried to sign a coat receipt *about six weeks ago*.** The first of November to the eleventh of
+   February is about ten weeks. **Now ten weeks.**
+6. **364 said *in eleven days* and *in the last nine days* about two acts nine days apart.** The twenty-sixth to
+   the fourth is eight. **Now *since the morning of the twenty-sixth of January* and *in the eight days since*.**
+7. **A repair of 370 reintroduced a banned construction.** Isolde Marchetti's line was reworded to *there is no
+   form in this city for what she does*, and **there is no form is on the nine-item banned list.** **Now: *the
+   city has no sheet for what she does and four offices have now spent eleven years trying to invent one.***
+   **`A REPAIR THAT FIXES ONE GATE CAN OPEN ANOTHER. Run the whole row again, not the row you broke.***
+
+---
+
+# VOLUME 8 BATCH 0001 GATE RECORD — 13 OCTOBER 2026, RE-RUN AT THE REVIEW-FIX PASS. CHAPTERS 351–360 ARE ON DISK. SUPERSEDED BY THE BLOCK ABOVE AND RETAINED IN FULL AS HISTORY.
 
 **Everything below the figures was written by the pass that wrote the prose and is therefore a claim. It was
 re-run from outside that pass after the last edit to the last chapter file, and the figures in the block are
@@ -228,7 +401,7 @@ words at the hinge.**
 
 ---
 
- — 13 OCTOBER 2026. NO CHAPTER OF VOLUME 8 EXISTS. THIS IS NOW THE ONLY LIVE GATE BLOCK IN THIS FILE.
+ — 13 OCTOBER 2026. CHAPTERS 351–360 ARE ON DISK. SUPERSEDED BY THE BATCH 0002 BLOCK ABOVE AS THE LIVE RECORD.
 
 **The Volume 7 close gate record is below and is retained in full as the audited position at Chapter 350. The
 audit is `reviews/volume-07/volume-close.md`. A planning phase owns almost no gates because a planning phase
@@ -277,7 +450,7 @@ THE ENDING.**
 | --- | --- | --- | --- | --- |
 | **PC-1** | **A fifth sheet, in his own hand, declaring him the holder of the account of thirty years standing at premises 34-6-118, lodged with the room where nine people sit.** | 343: *the fifth seal needs a paper and the only way to get one is for the man to write it, and there is no such document in this city because he has never in his life written one.* 347: *the only person alive who can put anything into it is the man it is about.* 348: he wrote one. **The instrument is not invented — it is the same instrument as the four sheets of the twenty-ninth of December, and the difference is what it says.** | 356, 357. The batch's irreversible decision. | **ADOPTED ON THE PAGE, 356 AND 357. See PC-12 for what the page changed about it.** |
 | **PC-2** | **The distinctions tabled / served / sealed / carried / received are five states and not two. A requisition may be laid, served, sealed and LIVE in this volume and is NOT CARRIED, and nothing is taken off anybody.** | 342 establishes that a requisition on a described subject is **served** by the division that holds the description — so Volume 7 already served one and it was not received. 346 establishes that the four on the sheet produced nothing. `outline/ending.md` requires a **live** requisition at 372 and requires the account to be in his hands at the start of Volume 10 to be returned at 486. **A second voiding at the ninth minute would be Volume 7 run again, which is the procedure loop this manuscript keeps falling into.** | 365, 366, 370, 391, 400 | **STILL PROPOSED — Batch 0001 laid, served, sealed and carried NOTHING and the item is untouched and unspent.** |
-| **PC-3** | **A subject served with a requisition may require the room to produce the paper its ground is written on, and the room must produce it — and that paper is Lin Wei's file, which is how a man at band six opens a file on 372.** | `outline/ending.md` fixes that the file opens at 372 **on a rank he does not have**, and that it happens **in the middle of a live requisition**. Rank nine is Volume 9 and he is at the floor of band six. The requisition's fourth part is its ground, and a ground that is a man's own assertion carries no seal; a ground that is a document older than his holding does. **This is the load-bearing invention of the outline and it is the only one.** | 370, 371, 372 | **STILL PROPOSED — the single most important item on this table. Nothing in 351–360 touches it and Lin Wei's file is shut.** |
+| **PC-3** | **A subject served with a requisition may require the room to produce the paper its ground is written on, and the room must produce it — and that paper is Lin Wei's file, which is how a man at band six opens a file on 372.** | `outline/ending.md` fixes that the file opens at 372 **on a rank he does not have**, and that it happens **in the middle of a live requisition**. Rank nine is Volume 9 and he is at the floor of band six. The requisition's fourth part is its ground, and a ground that is a man's own assertion carries no seal; a ground that is a document older than his holding does. **This is the load-bearing invention of the outline and it is the only one.** | 370, 371, 372 | **STILL PROPOSED AND NOW ARMED, AND THE BATCH HAS DONE EVERYTHING IT NEEDS EXCEPT THE DEMAND.** The requisition is LIVE at 370 and the fourth part carries a NAMED PAPER, and 365 and 370 both say out loud that a paper can be asked for and that nobody in that room has ever asked for one in twenty years. **He has paid for the right to ask and has not used it. 371 is the demand and 372 is the file. Lin Wei's file is still shut and 372 is not one chapter early.** |
 | **PC-4** | **Wren Kallo told the office that holds the description, and its head received it.** | 350: she has chosen and will not say whom, and the batch may not resolve it. **She has to have said it to something, and the classification's reason clause is a song with no author, and the only route to an author runs through the woman who sang it.** 360 is Alma Quayle's undelivered sentence going out. | 352, 360, 396, 397 | **PARTLY ADOPTED, AND NOT THE RECIPIENT. 352 gives the shape of the office and nothing else: *a division that does not sit in the Wing, keeps no list of addresses, and was sent a strip about it in October.* The name and the man stay shut until 397.** |
 | **PC-5** | **Sun Meiling reads Perrin Sowe's four lines, on the page, at 358.** | 70: *I have not seen them. They are not mine and they are not in my drawer, and I have not read them in three years, and I am not going to, because reading them would mean being the woman who read them, and I have a discipline.* **The volume's engine requires that discipline to be broken by a decision and not by an accident, and 358 is where she takes it.** | 358 | **NOT ADOPTED AS WRITTEN, AND NOT ADOPTED AT ALL. She cannot read his and never could; he is two floors up and she has no access. `outline/volume-08.md` §7 keeps his four lines shut until 374 and this batch kept them shut. STRUCK AND REPLACED BY PC-12.** |
 | **PC-6** | **Perrin Sowe comes down the second-floor corridor of the iron-stair building once, in this volume.** | 70: *He has been in this building for nine years … I have worked two floors below him for three years … four hundred filing runs … and he has never once come down.* **He is rung seven of `outline/series.md`'s ladder and is named on the page at 70. He is not a new enemy and this phase did not add one.** | 364 | **STILL PROPOSED, AND NOW TIGHTER. 358 makes it a rule rather than an event: Sowe sent for her and she went UP to the third floor for eleven minutes. **He has still never come down that corridor in three years and the once is still owed at 364.** |
@@ -299,7 +472,7 @@ the authority. Where an item is not adopted, it is struck, not left to rot.**
 | # | Adopted on the page, by | Why, from the chapters | Lands in | Status |
 | --- | --- | --- | --- | --- |
 | **PC-12** | **Sun Meiling opens her own drawer and reads her OWN four lines out loud, in her own hand, with her initials in the margin against the fourth line, and then refuses to say one word about what is in them.** | This REPLACES PC-5, which was wrong on the page: she has never seen Sowe's four lines and cannot get at them, and he is two floors up. **What she has is her own draft of a departmental answer from three years ago, folded in three, grey at the folds, in a drawer she has opened in front of him twice and shut.** 70 records both drawers. **The turn is therefore not the content and never was — it is that she reads them at all, out loud, to a man, because a copy of his page came to her own desk at nine on the morning of the fifteenth with her name on the first line of it, and she cannot get it back, and she would not have told him not to send it.** The content stays shut for 374. | 358 | **ADOPTED. `outline/volume-08.md` §6 movement 1 has been rewritten against it.** |
-| **PC-13** | **A called line that has been called twice may be carried forward by the room that holds the book, without a fresh sheet being drafted, from the first of February, on the quarter's carry-forward sheet.** | **Hanneke Ruis, in writing, on a slip torn off a plain pad with a ruler, in a hand that is deliberately not her own, not filed, once, to one man.** The page also fixes that a carry-forward sheet is *not an instrument* and that nobody has to draft it or put a name under it, which is why it is safe and why it is cheap. **THE COST OF IT IS THE PRICE: the account stops generating paper, so from the first of February the one quiet he has been given in three months is a clerk's convenience and he did not choose it and cannot spend it on anybody.** | 351, and 363 | **ADOPTED, ONCE, IN WRITING. She refuses to say it twice and refuses to be thanked, and a keeper who has been thanked by a man is a keeper who has been useful to a man.** |
+| **PC-13** | **A called line that has been called twice may be carried forward by the room that holds the book, without a fresh sheet being drafted, from the first of February, on the quarter's carry-forward sheet.** | **Hanneke Ruis, in writing, on a slip torn off a plain pad with a ruler, in a hand that is deliberately not her own, not filed, once, to one man.** The page also fixes that a carry-forward sheet is *not an instrument* and that nobody has to draft it or put a name under it, which is why it is safe and why it is cheap. **THE COST OF IT IS THE PRICE: the account stops generating paper, so from the first of February the one quiet he has been given in three months is a clerk's convenience and he did not choose it and cannot spend it on anybody.** | 351, and 363 | **ADOPTED, ONCE, IN WRITING, AND THEN PARTLY OVERTURNED ON THE PAGE BY PC-20, WHICH IS THE AUTHORITY ON IT. The slip stated a rule and did not state an outcome; 363 states both, and the quiet does not exist.** |
 | **PC-14** | **Attendants score in aggregate to the whole staff of a branch round, and the split has never been published by anybody, and there is therefore no line anywhere with his name on it that a plate is made out of.** | **Beatrix Halm, at the north wall, on the fifth of January, with a notebook.** **IT IS NOT WHAT PUT HIM ON THE FLOOR AND THE CHAPTER SAYS THAT OUT LOUD: eight witness hands signed a line under a page on the twenty-ninth and 349 closed that with *that was the whole of the arithmetic*. The split explains only why nothing on the plate can be traced back to him.** **He does not want it. It is the first invisibility in eight volumes that he did not build, and he cannot tell the kitchen, and Beatrix gives him the reason: this house has never once done that for anybody.** | 353 | **ADOPTED. A later batch may not re-derive the rise from the split and may not convert it into a defence.** |
 | **PC-15** | **Six of the eight women at premises 34-6-118 hold a post a division in this city can serve a paper at — Field · counter-forensics · the Vestry · the guild · the Church · Veil-Research — and five of the six sit inside machinery a requisition against him would travel through, and the sixth answers a departmental consult about a transfer that carried no name. A seventh, Beatrix Halm's, is a tram office and not a division. THE EIGHTH IS ISOLDE MARCHETTI AND HER POSTING IS NOT IN ANY DIVISION IN THIS CITY AT ALL.** | **Runa Sato, across a Field counter at Cordwain, on the eighth of January, on her own time.** **What she has is a room that agrees to what she says in it, and there is no clerk who could write down what that woman does on an ordinary night and no office that would know what to do with the sheet.** **This is the first time anyone in this book has counted that household, and the count is the size of the box.** | 354 | **ADOPTED, AND IT IS THE FIRST NAMED PLANT OF THE SONG THREAD FOR THE END OF THE VOLUME. It is not a resolution of anything: it names a woman, not a recipient, and nothing in 352 or 359 says who Wren Kallo told.** |
 | **PC-16** | **A DECLARATION OF HOLDING, in his own hand, on plain paper, lodged with the room where nine people sit: the address, the figure of seven dated the sixteenth of September, the fact that it has not been paid and cannot be produced, his name and the date — AND NO REASON CLAUSE AND NO EIGHT WORDS AT THE FOOT.** | **356 and 357. THE PLAN SAID EIGHT WORDS MIGHT BE AVAILABLE AND THE PAGE FOUND THEY MUST NOT BE: *a declaration is not an attestation and there is nowhere on it for a man to say he will answer for it*.** Writing them would have made it an attestation, eight people would have signed under it, and nothing would have happened since the twenty-ninth of December. **He signs it alone and nobody helps him, for the reason nobody helped him on the twenty-seventh of November: a hand that helped would be a hand that had to be on it.** | 356, 357 | **ADOPTED. IT IS THE BATCH'S IRREVERSIBLE DECISION AND IT CANNOT BE UNDONE.** |
@@ -315,6 +488,32 @@ the authority. Where an item is not adopted, it is struck, not left to rot.**
 2. **IT DID NOT OPEN PERRIN SOWE'S FOUR LINES, LIN WEI'S FILE, THE SECOND FOLIO, THE NINTH TURNED LINE, THE
    DESTINATION ACCOUNT, OR ANYTHING AFTER 372.** Sowe sent for her at 358 and she went **up** to the third
    floor for eleven minutes. **He has still never come down that corridor in three years and 364 is owed.**
+
+---
+
+# PROPOSED CANON CHANGES — Volume 8 BATCH 0002, 13 OCTOBER 2026. **RECORDED IN THE SAME COMMIT AS THE CHAPTERS THAT CARRY THEM, WHICH IS EARLIER THAN ANYBODY COULD READ THEM.**
+
+**Every item below is something the ten chapters on disk now assert and that was not on the page at Chapter 360.
+`AGENTS.md`: a batch that finds a better answer takes it, rewrites the outline in the same commit, and records
+the change here. Where an item contradicts the Volume 8 plan, the plan has been rewritten and this table is the
+authority. Where an item is not adopted, it is struck, not left to rot.** `outline/volume-08.md` §6 movement 2
+has been rewritten against all ten chapters in the same commit.
+
+| # | Adopted on the page, by | Why, from the chapters | Lands in | Status |
+| --- | --- | --- | --- | --- |
+| **PC-20** | **A CARRY-FORWARD SHEET CARRIES THE FIGURE THE LINE IS CARRIED AT, AND A LINE MAY NOT BE CARRIED FORWARD ON ONE WHILE ITS COMPOSITION AND ITS PRICED LINE DISAGREE. Hanneke Ruis, at the rail, on the first of February: *a carry-forward sheet carries the figure the line is carried at, and your line is carried at eight and it is priced at seven, and I am not going to move a figure across a quarter boundary that disagrees with itself … it goes on the sheet on the day your composition says what your priced line says, and not on any day before that, and neither of those figures is mine.*** | **THIS SETTLES THE CARRY-FORWARD COLLISION THAT `outline/volume-08.md` §6 FLAGGED AS THE MOST DANGEROUS OPEN QUESTION IN THE FILE, AND IT IS RESOLUTION (b) OF THE THREE THE FILE OFFERED.** It was available the whole time because the page had already written the condition twice: Alma Quayle's four lines of the twenty-sixth of January (carried *at a matching composition*) and Hanneke Ruis's own standing instruction of the seventeenth of September (*while there are two figures for one door*). **The slip of the first of January stated a rule and did not state an outcome and he read a promise off it.** | 363, and Movement 4 | **ADOPTED, ON THE PAGE, IN A PERSON'S MOUTH. MOVEMENT 4 IS INTACT AND IS NOW THE ONLY THING IN THE VOLUME THAT CAN QUIETEN THAT ACCOUNT. A LATER BATCH MAY NOT PRINT A CARRY-FORWARD AT THAT ADDRESS BEFORE NADIA FERROUS HAS BEEN TO A COUNTER.** |
+| **PC-21** | **THE PRICED LINE OF THE SIXTEENTH OF SEPTEMBER WAS INITIALLED BY LIN HAO AND NOT SIGNED, ON THE AFTERNOON HE LEFT MARGUERITE VALE'S ROOM, AND FOURTEEN COPIES OF IT CARRY HIS INITIAL AND NOT HER NAME.** | **A priced line is initialled by the man who brings the figure and not by the broker who gives it, because a broker's figure is an opinion and a man's initial makes it a fact about himself.** 351 puts the line in the book as *initialled and not signed* and says only that *a man* put his initial to it. **For three months the figure of seven has been the price of a woman who would not be thanked, and it has been his since eleven minutes past nine on the sixteenth of September.** Every requisition laid at seven, every ground built on seven and all three calls on that line are marks against his initial. | 362, and after it | **ADOPTED. IT IS THE BATCH'S BIGGEST SINGLE REVERSAL AND IT IS IN A WOMAN TELLING HIM A THING SHE HAS HAD IN A DRAWER FOR FOUR MONTHS. Marguerite Vale does not convert it into a debt and does not want it thanked; she says she never said, because the minute he knew he would have thanked her and a thing finished between two people cannot be used by either of them.** |
+| **PC-22** | **A REFUSAL TO ATTEND IS ENTERED, with the hour of the attendance and the hour at which the clerk entered the refusal, four minutes apart, in the booking book of the floor, and a departmental answer whose own drafter will not stand behind it does not issue — it goes back, and a raised question carries the name of the person who raised it.** | **361.** The plan said she was asked to attend a *consult*. **The page makes it an attendance, which is a different instrument with a worse price: a consult is a document and an attendance is a person.** The docket that comes back under his door is a printed wing form with 11.40, DECLINED, and 11.44. **A woman who cannot be sworn cannot be made to attend anything, and a woman who has just refused in writing has proved it in a book in the building where the man on the third floor works.** | 361, 364 | **ADOPTED. IT IS THE FIRST TIME IN EIGHT VOLUMES THAT SUN MEILING HAS ACTED WITHOUT HIM, AND SHE TOLD HIM AFTERWARDS AND NOT BEFORE, ON THE BACK OF THE DOCKET.** |
+| **PC-23** | **A GROUND IS A PAPER AND NOT A SENTENCE, AND THE ONLY PAPER IN THE CITY THAT CAN STAND IN THE FOURTH PART IS THE DESCRIPTION OF THOSE PREMISES MADE ON THE TWENTY-SEVENTH OF OCTOBER AGAINST THE HEAD, BY A CLERK CALLED IMRIE, WITH THE REASON *because it is cheaper* AND THE HOUR AGAINST IT — AND A GROUND IS NOT DRAFTED BY A CLERK, IT IS TAKEN BY A CLERK FROM THE DIVISION THAT HOLDS THE DOCUMENT.** | **365 names it and 370 has it already written.** Wren Kallo is counter-forensics; the division that holds the description is hers; she entered it on the second of February, out on the stream, into the keeping book on the sixth, **and told nobody.** It is the only paper older than the twelfth of January that is not in his own handwriting, and it is the only document in Ostara that says the thing under classification is a person. | 365, 370, 371 | **ADOPTED. ** IT IS THE WHOLE OF WHAT CHAPTER 7'S INSTRUMENTATION COSTS, AND THE COST FALLS ON EIGHT WOMEN AND NOT ON HIM: a document in a minute for four years that puts eight women at a kitchen table at eleven in the morning on the twenty-seventh of October while a clerk described them, with the reason *because it is cheaper* on it.** |
+| **PC-24** | **THE MAN WHO WAS IN THE FOURTH SEAT IS BERTRAM SALLOW, he was re-read at a valuation on the morning of the first of November, and what he lost is this: somebody queried a return; he was right about the figure and wrong about the week; he said so in the room before anybody else had, in writing; and he would not sign a return he did not agree with. He has no standing, so he cannot sign anything at all, including a coat receipt, and the gap in the witness line is his seat and is permanent.** | **342 and 345 establish the re-read and the empty fourth seat; 357 establishes the gap; 367 names him.** **The chapter's finding is that the gap is the only part of that document which cannot be forged**, and that in about four years the answer to *why is there a space here* is a man who said he was wrong when he was wrong. | 367, 385, 393, 394 | **ADOPTED. **NO AGE IS PRINTED AND NONE MAY BE. THE ROOM DID NOT PUT HIM OUT — it left him a chair and took the seal off it — and he has been coming to the door of that room twice a week since the first of November and the clerk has turned him away twice a week.** |
+| **PC-25** | **FOUR HUNDRED PEOPLE IN THE QUARTER AROUND THE VESTRY KNOW HIS NAME AND THE CHURCH OF THE QUIET NUMBER BELIEVES HE IS THE OFFICE — not because anybody said it, but because a man in a city that scores everybody gave things away in the open for seven years and came back thinner each time, about four hundred people watched it happen, and none of it was written down. And the only thing that would clear him is a record, and this building has spent twenty years teaching eleven thousand people never to believe one.** | **369.** `bible/characters.md` gives Agnete Lindqvist a gift that makes a room where nobody can be compelled to testify, eleven years indoors, and a Church of eleven thousand whose whole doctrine is that a deed with no witness in it is a deed. **The answer is the one he did not want and it is the reason the volume works, and it puts his entire defence and his entire danger inside one sentence: the proof is a paper and the only people who need convincing have sworn never to take one.** | 369, and Volume 10's beat | **ADOPTED. ** IT IS NOT A RESOLUTION OF THE SONG THREAD AND IT MAY NOT BE CONVERTED INTO ONE: a reason clause that cannot be reproduced in writing is still a reason clause that cannot be reproduced in writing, and a chapter that hears eleven thousand people say his name out loud does not put an author on the song.** |
+| **PC-26** | **A PERSON KEEPING AN ADDRESS MAY GIVE IT UP AT ANY COUNTER, IN THE ORDINARY WAY, WITH NO INSTRUMENT, NO PERMISSION, NO WITNESS AND NO HOLDER; THE CLERK ENTERS A NUMBER; THE COMPOSITION DROPS BY ONE; AND IF THE COMPOSITION THEN MATCHES THE PRICED LINE, THE CALLED ACCOUNT GOES ON THE QUARTER'S CARRY-FORWARD SHEET AND IS CARRIED WITHOUT ANOTHER VALUATION EVER.** | **368.** This is Alma Quayle's four lines of the twenty-sixth of January (PC-18) turned into arithmetic by a woman who works doors for a living, **and the arithmetic only completes once PC-20 has put the matching condition in.** The list of the thirtieth of October still says eight and cannot be un-issued, so the two figures are both true afterwards and the older one is the one anybody will read. | 368, 381, 382, 383, 384 | **ADOPTED. ** NADIA FERROUS HAS SAID A DATE OUT LOUD AT HIS OWN TABLE AND HE HAS ASKED HER FOR FORTY-EIGHT HOURS, AND SAID IN FRONT OF EIGHT PEOPLE THAT HE DOES NOT KNOW WHAT HE WILL DO WITH THEM.** |
+| **PC-27** | **AGNETE LINDQVIST IS GOING OUT. On the eighteenth of February, in the morning, onto the front of the Vestry arcade, to say what eleven thousand people believe about a man, without naming anybody.** | **`bible/characters.md`: her cost is that she has not been outside one in eleven years and Volume 4 is partly about getting her out of it.** 360 already has her indoors and on the ground floor of Ferrier Street; 369 announces the intention. **This is announced on the page on the sixteenth and NOT DONE on the page in this batch**, and it lands two days before a requisition is heard. | 369, and after it | **ADOPTED AS AN INTENTION, NOT AN ACT. **A LATER BATCH MAY CARRY IT OUT AND MAY NOT, AND MAY NOT LET HER ROOM'S GIFT BE THE MECHANISM OF IT.** |
+
+**AND THE TWO THINGS BATCH 0002 DID NOT DO, WHICH ARE RECORDED SO A LATER BATCH DOES NOT LOOK FOR THEM:**
+
+1. **IT DID NOT RESOLVE WHOM WREN KALLO TOLD.** She gives one sentence about a counter at 368 and says she has not gone to find out whether anything has been opened and is not going to, **and he asks her nothing, and 369 and 370 both name the bar out loud and neither of them puts a question through it.** 397 and 398 still owe it.
+2. **IT DID NOT OPEN LIN WEI'S FILE, SOWE'S FOUR LINES, THE SECOND FOLIO, THE NINTH TURNED LINE, THE DESTINATION ACCOUNT, OR ANYTHING AFTER 372.** Perrin Sowe came down the second-floor corridor **once**, on the fourth of February, for a box, and asked a woman for her name in a doorway, and **does not know Lin Hao's name is in anything.** He did not know his name is in it and he has still not read the four lines.
 
 **AND THE THING THAT IS NOT A PROPOSAL AND IS FIXED AND MAY NOT BE TOUCHED:** `outline/ending.md` is unmodified
 and Volume 8 does not modify it. **Lin Wei's file opens at 372 and the account is returned in full at 486 and he

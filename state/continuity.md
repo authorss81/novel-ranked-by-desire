@@ -1,12 +1,94 @@
-## VOLUME 8 — CHAPTERS 351–360 ARE ON DISK. CHAPTERS 361–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK.
+## VOLUME 8 — CHAPTERS 351–370 ARE ON DISK. CHAPTERS 371–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK.
 
-**`outline/volume-08.md` §6 MOVEMENT 1 WAS REWRITTEN AGAINST CHAPTERS 351–360 IN THE COMMIT THAT WROTE THEM,
-and it names five places the plan was wrong on the page.** **THE NEXT PHASE IS A WRITING PHASE:
-`workspace/volume-08/batch-0002/PROMPT.md`, which writes 361–370 and no prose about anything else.**
-**Ten files, 22,629 words counted per file and summed after the review fixes. Volume 8 is 22,629 words long and has forty chapters to
-go.**
+**`outline/volume-08.md` §6 MOVEMENTS 1 AND 2 WERE BOTH REWRITTEN AGAINST THE CHAPTERS IN THE COMMITS THAT
+WROTE THEM, and between them they name thirteen places the plan was wrong on the page. MOVEMENT 2's rewrite also
+SETTLED the carry-forward collision that §6 had flagged as the most dangerous open question in the file.**
+**THE NEXT PHASE IS A WRITING PHASE: `workspace/volume-08/batch-0003/PROMPT.md`, which writes 371–380 and no
+prose about anything else.**
+**Batch 0002 is 21,951 words counted per file and summed. Volume 8 is 44,580 words long and has thirty chapters
+to go. LIN WEI'S FILE OPENS AT 372.**
 
-### 0. WHAT CHAPTERS 351–360 ADDED TO THE CONTINUITY OF THIS BOOK, AND A LATER CHAPTER MAY NOT CONTRADICT
+### 0. WHAT CHAPTERS 361–370 ADDED TO THE CONTINUITY OF THIS BOOK, AND CHAPTER 371 MAY NOT CONTRADICT ANY OF IT
+
+1. **A CARRY-FORWARD SHEET CARRIES THE FIGURE A LINE IS CARRIED AT, AND A LINE MAY NOT BE CARRIED FORWARD ON
+   ONE WHILE ITS COMPOSITION AND ITS PRICED LINE DISAGREE.** *A carry-forward sheet carries the figure the line is
+   carried at, and your line is carried at eight and it is priced at seven, and I am not going to move a figure
+   across a quarter boundary that disagrees with itself. It goes on the sheet on the day your composition says
+   what your priced line says, and not on any day before that, and neither of those figures is mine.* **That
+   condition IS the standing instruction Hanneke Ruis wrote to him on the seventeenth of September — while there
+   are two figures for one door — and it is also Alma Quayle's *at a matching composition* from the twenty-sixth
+   of January, and the slip of the first of January stated a rule without stating an outcome and he read a
+   promise off it.** **SETTLES THE COLLISION. MOVEMENT 4 IS THE ONLY THING IN THE VOLUME THAT CAN QUIETEN THAT
+   ACCOUNT. NO CARRY-FORWARD MAY BE PRINTED AT THAT ADDRESS BEFORE A WOMAN HAS BEEN TO A COUNTER.** (363, PC-20)
+2. **THE PRICED LINE OF THE SIXTEENTH OF SEPTEMBER WAS INITIALLED BY LIN HAO AND NOT SIGNED, AT ABOUT HALF PAST
+   ELEVEN IN THE MORNING, ON HIS WAY OUT OF MARGUERITE VALE'S ROOM.** A priced line is initialled by the man who
+   brings the figure and not by the broker who gives it, because a broker's figure is an opinion and a man's
+   initial makes it a fact about himself. **Fourteen copies carry his initial and not her name, and the calls of
+   the first of December, the first of January and the first of February are all marks against it.** **He has
+   never said so to anybody, and she has never asked, and she will not be thanked and did not ask to be.**
+   (362, PC-21)
+3. **A REFUSAL TO ATTEND IS ENTERED, WITH THE HOUR OF THE ATTENDANCE AND THE HOUR AT WHICH THE CLERK ENTERED
+   IT, FOUR MINUTES APART.** An attendance is not a consult: a consult is a document and an attendance is a person
+   in a room. **A departmental answer whose own drafter will not stand behind it does not issue; it goes back; and
+   a question that goes back is raised again, and a raised question carries the name of the person who raised
+   it.** **So a woman under a permanent bar has put her own name at the head of a departmental paper about a
+   transfer that carries no name.** (361, PC-22)
+4. **A GROUND IS A PAPER AND NOT A SENTENCE, AND A GROUND IS NOT DRAFTED BY A CLERK — IT IS TAKEN BY A CLERK FROM
+   THE DIVISION THAT HOLDS THE DOCUMENT.** **The only paper in the city that can stand in the fourth part of a
+   requisition against these premises is the description of the twenty-seventh of October at about eleven in the
+   morning, made against the head and not against the door, at a kitchen table, in front of eight women, by a
+   clerk called Imrie, with the reason *because it is cheaper* and the hour against it.** (365, 370, PC-23)
+5. **THE MAN WHO WAS IN THE FOURTH SEAT IS BERTRAM SALLOW. NO AGE IS PRINTED AND NONE MAY BE.** He was re-read at
+   a valuation on the morning of the first of November and came out under his own floor. **Somebody queried a
+   return; he was right about the figure and wrong about the week; he said so first, in writing; and he would not
+   sign a return he did not agree with, and a man who will not sign a return does not get re-read for about six
+   years.** He has been in the fourth seat for six years, signed that room's keeping book every quarter for six
+   years, and **has not been able to sign anything since the first of November, including a receipt for a meal,
+   which he tried to sign about six weeks before the eleventh of February, for a coat.** **He has been coming to
+   the door of that room twice a week since the first of November and the clerk has turned him away twice a
+   week, and nobody in the room knew.** (367, PC-24)
+6. **THE GAP IN THE WITNESS LINE IS THE ONLY PART OF THAT DOCUMENT THAT CANNOT BE FORGED.** A clerk can produce a
+   page with eight signatures on it; nobody can produce that page with a two-finger gap in the middle of the
+   line, and the only word available under it is *vacant*. **On the morning of the twelfth of February the
+   man in the fourth seat laid a plain sheet on the table under the window stating that he holds the seat, that
+   he was re-read on the first of November, that a man with no standing cannot hold a seal, and that the seat
+   will stand empty until the standing comes back. The clerk entered it at eleven minutes to nine and a copy
+   went out on the stream at four in the afternoon to the divisions that keep a list.** (367)
+7. **A PERSON KEEPING AN ADDRESS MAY GIVE IT UP AT ANY COUNTER, WITH NO INSTRUMENT, NO PERMISSION, NO WITNESS AND
+   NO HOLDER; THE CLERK ENTERS A NUMBER; THE COMPOSITION DROPS BY ONE; AND IF THE COMPOSITION THEN MATCHES THE
+   PRICED LINE, THE CALLED ACCOUNT IS CARRIED FORWARD ON A QUARTER'S SHEET AND NO VALUATION IS EVER GENERATED
+   AGAIN.** **The list of the thirtieth of October still says eight and cannot be corrected, withdrawn or
+   un-issued, so afterwards there is a document in a room with eight signatures under it and seven people living
+   at the address, and both are true.** Nadia Ferrous has said the fifteenth out loud at his own table and he has
+   asked her for forty-eight hours. (368, PC-26)
+8. **WHAT ELEVEN THOUSAND PEOPLE WHO WERE NEVER WRITTEN DOWN BELIEVE HE IS, AND WHY IT CANNOT BE FIXED WITH A
+   PAPER.** Four hundred in the quarter know his name, not eleven thousand; about two hundred have never said it
+   out loud; about forty have never written it, because the Church of the Quiet Number keeps no register.
+   **They think he is the Office**, because of the shape of seven years of a man in a city that scores everybody
+   giving things away in the open and coming back thinner each time. **The only proof is a record, and that
+   building has spent twenty years teaching eleven thousand people never to believe one.** Agnete Lindqvist has
+   also kept forty years of what people said he was, as sentences, with no names on them and none ever to be.
+   (369, PC-25)
+9. **THE REQUISITION IS LIVE. LAID, CALLED, SERVED AND HEARD ON THE TWENTIETH OF FEBRUARY. NOT CARRIED, AND
+   NOTHING IS TAKEN OFF ANYBODY.** The ground was entered at the seventh minute, which gave two, and two is not a
+   majority. **THE GROUND WAS ENTERED BY COUNTER-FORENSICS — WREN KALLO'S DESK — ON THE SECOND OF FEBRUARY, OUT
+   ON THE STREAM THAT AFTERNOON, INTO THE KEEPING BOOK ON THE SIXTH, AND SHE TOLD NOBODY.** The ground is the
+   description of the twenty-seventh of October. **THE PRICE OF IT FELL ON EIGHT WOMEN AND NOT ON HIM.** (370)
+10. **THE ORDINARY RIGHT OF A SUBJECT WHO HAS BEEN SERVED, WHICH NOBODY IN THAT ROOM HAS EVER USED:** a ground
+    cannot be a sentence, and a paper can be produced at a later sitting by whoever asks for it. **He bought
+    that right on the twentieth of February by letting a ground stand and he has not used it yet.** (370, PC-3)
+11. **PERRIN SOWE CAME DOWN THE SECOND-FLOOR CORRIDOR ONCE, ON THE FOURTH OF FEBRUARY AT ABOUT TEN PAST TEN,
+    AFTER THREE YEARS AND FOUR HUNDRED FILING RUNS.** The question was which of two basement boxes held the
+    departmental drafts: **third shelf down from the top, and the lid marked with a date and not with a wing,
+    and whoever marked it did it with a chin.** **He then asked Sun Meiling for her name for a box record and
+    she gave it on a landing, to stop a record clerk coming up to the wing and finding her declined attendance in
+    the booking book.** He does not know Lin Hao's name is in anything. (364, PC-6 spent)
+12. **NO DAY OF THE WEEK IS NAMED ANYWHERE IN VOLUME 8**, and a reader who finds one has found a defect. Four
+    were in the first drafts of 361–370 and all four were cut for dates; the list is in the gate record.
+
+### 0a. THE THINGS CHAPTERS 351–360 ADDED, WHICH ARE STILL LIVE AND ARE NOT REPEATED HERE
+
+
 
 1. **A CALLED LINE CALLED TWICE MAY BE CARRIED FORWARD BY THE ROOM THAT HOLDS THE BOOK, WITHOUT A FRESH SHEET
    BEING DRAFTED, FROM THE FIRST OF FEBRUARY.** Entered once, in writing, on a slip torn off a plain pad with a
@@ -201,7 +283,7 @@ bare slot on the Reading wall · the two unstamped reads in the check column · 
 
 ---
 
-## VOLUME 8 — PLANNED, NOT WRITTEN. CHAPTERS 351–400. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. **SUPERSEDED BY THE BLOCK ABOVE AND RETAINED BELOW AS THE POSITION BEFORE CHAPTERS 351–360 EXISTED.**
+## VOLUME 8, BATCH 0001 — CHAPTERS 351–360. THE FIRST TO THE TWENTY-SIXTH OF JANUARY. **SUPERSEDED BY THE BLOCK ABOVE AND RETAINED BELOW IN FULL. EVERY FIGURE IN IT IS STILL TRUE AND NONE OF IT HAS BEEN UNWRITTEN.**
 
 **`outline/volume-08.md` EXISTS AND WAS WRITTEN BEFORE CHAPTER 351 FOR THE FIRST TIME IN THE BOOK SINCE
 VOLUME SEVEN.** It is in two registers and the register is printed at the head of it: **§1 to §5 are written

@@ -435,14 +435,20 @@ it, or the chapter does not use one.
 
 ---
 
-## 6. THE MOVEMENTS, 351 to 400 — **MOVEMENT 1 IS WRITTEN FACT; MOVEMENTS 2 TO 5 ARE STILL PLAN**
+## 6. THE MOVEMENTS, 351 to 400 — **MOVEMENTS 1 AND 2 ARE WRITTEN FACT; MOVEMENTS 3 TO 5 ARE STILL PLAN**
 
 > **MOVEMENT 1 IS NO LONGER PLAN. Chapters 351–360 are on disk and movement 1 below was REWRITTEN AGAINST THEM
-> on 13 October 2026, in the commit that wrote them, and it ends with five named places the plan was wrong.**
-> **Movements 2 to 5 are unvalidated plan written by a phase that has never tested any of them.** Treat those as
-> a proposal with a spine. `AGENTS.md`: a batch that finds a better answer on the page takes it and rewrites this
-> file in the same commit. **Batch 0002 owns the carry-forward collision at the end of this section and must settle
-> it on the page.**
+> on 13 October 2026, in the commit that wrote them, and it ends with seven named places the plan was wrong.**
+> **MOVEMENT 2 IS ALSO NO LONGER PLAN. Chapters 361–370 are on disk and movement 2 below was REWRITTEN AGAINST
+> THEM on 13 October 2026, in the commit that wrote them, it ends with six more, and it SETTLES THE CARRY-FORWARD
+> COLLISION THAT THE END OF THIS SECTION FLAGGED AS THE MOST DANGEROUS OPEN QUESTION IN THE FILE.**
+> **Movements 3, 4 and 5 remain unvalidated plan written by a phase that has never tested any of them.** Treat
+> those as a proposal with a spine. `AGENTS.md`: a batch that finds a better answer on the page takes it and
+> rewrites this file in the same commit.
+> **AND THE TWO MOVEMENTS THAT ARE NOW FACT HAVE CHANGED MOVEMENT 4, WHICH IS STILL PLAN AND IS NOW SHARPER AND
+> MORE COSTLY THAN IT WAS: the carrying of that account depends on a composition of seven, which means it depends
+> entirely on Nadia Ferrous walking into a counter, which means Movement 4's payoff and Movement 2's cost are the
+> same event and Batch 0003 may not price them separately.**
 
 **THE ESCALATION FOR THE VOLUME IS FIVE WORDS AND IT IS A VOLUME 8 CONSTRUCTION, NOT A QUOTATION:
 *declared → grounded → produced → served → unanswered*.** Volume 7 ran *describable → named → wanted →
@@ -666,65 +672,301 @@ them changed the plot; every one of them corrected the plan to what the page had
 
 ### Movement 2 — WHAT THE ROOM CAN NOW DO (361–370). 27 January – 20 February.
 
-**The promise:** a filled box is not a requisition. It is a requisition that anybody may now write.
+> **REWRITTEN AGAINST CHAPTERS 361–370 ON 13 OCTOBER 2026, IN THE COMMIT THAT WROTE THEM.** `AGENTS.md`: a batch
+> that finds a better answer on the page takes it and rewrites this file in the same commit. **The plan below
+> was written by a phase that had never seen a page of this volume. Six of its ten cards came out of the other
+> side of the page and are corrected here, and the one place the plan was going to cost the whole of the fourth
+> movement is settled here and settled on the page, at Chapter 363, in a woman's mouth.**
 
-- **361 (27 Jan). A REFUSAL THAT GOES IN A BOOK.** Sun Meiling is asked to attend a consult in her own house
-  about a transfer that carried no name. **She says no, and a refusal to attend is entered**, and she says to
-  him in advance what it will cost and then pays it. **She is the first woman in this volume to act without
-  him, and it is the first time in eight volumes that she has.**
-- **362 (30 Jan). THE NINETY SECONDS SHE SPENT.** **Marguerite Vale**, who is not one of the eight and has
-  not been protected since the morning of the sixteenth of November, when he put her books on a guild table
-  at seven. She did the work in ninety seconds on the sixteenth of **September** because he asked her for a
-  figure, and it has cost her the only position that protected her, and she said so once and will not be
-  thanked for it. **The declaration of holding is the second instrument to come out of those books, and she
-  has four lines in a drawer she has never opened, and she tells him neither of those things is the same
-  problem and both of them are hers.**
-- **363 (1 Feb). A THIRD MARK IN A CHAINED BOOK.** The account is called again, in the same hand, on the
-  same rule, with the date against it. **The turn of the movement: a called line that has been called three
-  times may be carried at a valuation by the room that holds the book without anybody having to be in a
-  room at the Terrace at all** — which means the room no longer needs a majority, it needs a keeper and a
-  date. **And the keeper is Hanneke Ruis, who has not put her name under a figure about a household in
-  seventeen days and is not going to start in February.**
-- **364 (4 Feb). THE FILING RUN AFTER NINE YEARS.** **Perrin Sowe comes down Sun Meiling's corridor.** Once.
-  In three years, four hundred filing runs, and once. He has a question and it is a small one and it is
-  about a consult answered three years ago. **What changes: he now knows there is a person at the second
-  floor and a person at the end of the third, and Sun Meiling has to decide in the corridor whether to say
-  her own name, and she says it, because the alternative is the thing she has refused to do for three
-  years.** **This is the chapter in which the woman who told him becomes a person in a file instead of a
-  drafter in a drawer.**
-- **365 (6 Feb). THE BOX WITH SOMETHING IN IT.** The room's arithmetic, done on the page by people who
-  enjoy it: the sheet can be drafted, the fourth part can be filled, **two to call the sitting and five to
-  carry, and there are three who would seal it and a chair who will not.** And the thing that was not on
-  anybody's sheet: **the ground.** A requisition has four parts and the fourth of the four parts is the
-  reason it may be done, and a ground that is an assertion gets no seal out of the four people who read the
-  fifth line.
-- **366 (9 Feb). TWO TO CALL THE SITTING.** Two do. **The book that was going to ask who the holder is has
-  been closed by a sheet he wrote himself, and the room has nothing left to argue about.**
-- **367 (11 Feb). THE SEAT THAT HAS BEEN EMPTY.** The fourth seat. **The man who was in it was re-read at the
-  valuation of the first of November and a man with no standing cannot hold a seal, and the room has been
-  running on eight for two months and pretending it is nine.** **The volume names him** — not his age, never
-  his age — and what he says when he is found is the arithmetic of a man who lost a thing by being correct.
-- **368 (14 Feb). THE ADDRESS SOMEBODY OFFERS TO GIVE UP.** In the kitchen, at night, **Nadia Ferrous says she
-  will give up premises 34-6-118 at a counter.** Because the composition is eight and the price is seven, and
-  a person who gives an address up at a counter lowers the composition, and a composition of seven matches the
-  price and lets the called line be carried forward. **She is not being brave. She is being arithmetic, and
-  she is the only person in that kitchen who has done it.**
-- **369 (16 Feb). THE SCENE. AGNETE LINDQVIST.** In the Vestry chapel, and the terms are her terms because
-  they always are: **in this room nobody can be compelled, which is the only reason he is in it, and the price
-  is that nothing said here can be used against anyone in any other room.** The hinge is not a body and not a
-  gift: **she has eleven years of not going out and she has read everything that came into that room for
-  eleven years, and she gives him the one thing nobody else on this page can give, which is what eleven
-  thousand people who were never written down actually believe he is.** And he asks her the question he has
-  not asked in eight volumes, and she answers it, and **it is not the answer he wanted and it is the reason
-  the volume works.**
-- **370 (20 Feb). THE SITTING CALLED FOR THE ELEVENTH.** **THE REQUISITION IS LIVE.** Laid, called, served,
-  and heard; and the room's clerk has written a ground on the fourth part, and the ground cannot be the sheet
-  he wrote, **because a man is not ground for his own requisition. The ground has to be a document that
-  existed before he was a holder.** And there is exactly one of those.
+**The promise:** a filled box is not a requisition. It is a requisition that anybody may now write — **and a
+requisition that anybody may now write turns out to be a document with no ground in it, which is a document
+that nobody may carry, which is the only reason this movement ends the way it does.**
 
-**WHAT CLOSES IN MOVEMENT 2:** *the account is no longer an address with nothing behind it. It is a
-question with a date on it.* **THE COST: the woman who told him has been read into a file by name, in a
-building with a man on the third floor who has come down the corridor once.**
+- **361 (27 Jan). A REFUSAL THAT GOES IN A BOOK.** **THE PLAN'S HINGE WAS WRONG AND THE PAGE REVERSED IT.**
+  The plan said Sun Meiling is asked to attend a consult *about a transfer that carried no name*. **The page
+  makes it an attendance, which is a different instrument and a worse one**: a consult is a document and goes
+  into a queue, and an attendance is a person in a room whose answers are taken down and initialled and go into
+  a file with her name at the head of it. **She says no, and a refusal to attend is ENTERED**, and the thing
+  that comes back to Ferrier Street under a door is a departmental docket with a wing stamp, a ruled box, the
+  hour **11.40**, the word **DECLINED** in a clerk's hand, and underneath it **11.44** — the minute the clerk
+  entered it, four minutes after the hour in the box, which is a clerk who was made to wait and wrote down that
+  she waited.
+  **THE PRICE IS STATED BY HER ON THE BACK OF THE DOCKET AND ONLY THERE:** *a woman who cannot be sworn cannot
+  be made to attend anything, and a woman who will not attend has just proved it in writing in a book in the
+  building where a man on the third floor works.* **A departmental answer whose own drafter will not stand
+  behind it does not issue; it goes back, and a question that goes back is raised again, and a raised question
+  carries the name of the person who raised it.** So a woman under a permanent bar has put her own name at the
+  head of a departmental paper about a transfer that carries no name — **and she did it at 11.44 on the morning
+  of the twenty-sixth while he was cleaning six floors of washrooms, and told him afterwards, and said on the
+  docket not to be asked anything before the twentieth.**
+  **She is the first woman in this volume to act without him**, and it is the first time in eight volumes that
+  she has.
+- **362 (30 Jan). THE NINETY SECONDS SHE SPENT, AND WHAT IS ACTUALLY UNDER THEM.** **Marguerite Vale**, who is
+  not one of the eight and has been unprotected since the morning of the sixteenth of November. The plan gave
+  this chapter four lines in a drawer and it did not give it the only thing the chapter needed.
+  **The chapter is that the priced line of the sixteenth of September was initialled by HIM.**
+  A priced line is initialled by the man who brings the figure and not by the broker who gives it — a broker's
+  figure is an opinion, and a man's initial makes it a fact about himself. **He came in on the sixteenth of
+  September at about eleven minutes past nine in the morning with a picture of a house where a figure ought to
+  have been, she priced it at seven in ninety seconds, and he initialled it on the way out and did not sign it,
+  and he has never said so to anybody in this city including her.** **Fourteen copies of that sheet carry his
+  initial and not her name, and all three calls on the line are marks against it.** For four months he has
+  believed the figure of seven belonged to a woman who would not be thanked.
+  **She has a drawer she has not opened since the sixteenth of September with one slip of unruled paper in it:
+  a figure, a time, an address, and a line she ruled herself with a ruler.** Nothing on it that matters.
+  **And she tells him the reason she never said, and it is not kindness: if he had known he would have thanked
+  her, and a thing settled between two people cannot be used by either of them afterwards, and she is the only
+  person in this city holding a figure he cannot disown.** *So the brave thing was September and you did it by
+  accident.* **Ending: ten to nine in the morning, and the third mark, and he has no idea what that does.**
+- **363 (1 Feb). A THIRD MARK IN A CHAINED BOOK. THIS IS THE CHAPTER THE WHOLE BATCH EXISTS FOR, AND IT
+  SETTLES THE CARRY-FORWARD COLLISION THAT WAS FLAGGED AS THE MOST DANGEROUS THING IN THIS FILE.**
+  *Called. Called. Called.* in the same hand, on the chain, under the same printed rule, against the first of
+  February, time entered at twenty to nine, **and Hanneke Ruis has been standing in that room a hundred and
+  thirty-four days.**
+  **THE RESOLUTION TAKEN IS RESOLUTION (b) OF THE THREE, AND IT IS THE BEST OF THEM BECAUSE THE PAGE HAD
+  ALREADY HALF-WRITTEN IT TWICE. It is a FACT A PERSON SAYS AND NOT A RULE: *a carry-forward sheet carries the
+  figure the line is carried at, and your line is carried at eight and it is priced at seven, and I am not
+  going to move a figure across a quarter boundary that disagrees with itself.*** Alma Quayle's four lines of
+  the twenty-sixth of January already said the same thing from the other end (*carried at a matching
+  composition*); Hanneke Ruis's slip of the first of January said *from the first of February it can go on the
+  quarter's carry-forward sheet* **without the word outcome**, and he read a promise off it.
+  **So Movement 4 IS INTACT AND IS THE ONLY THING IN THE VOLUME THAT CAN QUIETEN THAT ACCOUNT, and Nadia's six
+  years of address and his refusal of her in March are not wasted, and the fourth movement is not a procedure
+  loop with a kitchen in it.** **And the cost lands on the first of February and not on the first of April:
+  the valuation did not stop. The room produced a valuation sheet at about a quarter to ten the way it produced
+  one on the first of December and the first of January, and it went out of a gate at four in the afternoon to
+  six desks, one of which is a wing off a third court, and the quiet he was sold on the first of January was
+  never his to buy.** Hanneke Ruis also owns the correction in her own mouth: *I told you what the rule was. I
+  did not tell you what the rule would do for you, because I do not know. You are the first line at this address
+  that has ever been called twice and there has never been a second one here to compare it with.* **She enters
+  the time at twenty to nine on both dates because he was at her rail, because she will not sit in a cold room
+  and pretend a man was not there.**
+  **Ending: the only thing in Ostara that can make two figures into one figure is a woman at a counter giving
+  up an address, and there are eight of those women, and one of the eight has been counting since about half
+  past ten that morning and has not told anybody.**
+- **364 (4 Feb). THE FILING RUN AFTER NINE YEARS, AND 364 IS OWED.** Perrin Sowe comes down the second-floor
+  corridor of the iron stair **once, in three years and four hundred filing runs**, at about ten past ten on
+  the morning of the fourth, with twenty file-slate on a strap, and stops at the eighth door. **His question is
+  a small one and it is about a box:** which of two boxes in the basement records store the departmental drafts
+  went into, because both have a wing stamp and the shelves are a floor apart. **Third shelf down from the top,
+  and the lid is marked with a date and not with a wing, and whoever marked it did it with a chin.**
+  **Then he asks her for her name for the box record, and she gives it — "Sun Meiling" — on a landing, in a
+  corridor, to a man with a bundle on his hip.** **Why, and it is not for him:** if she refuses him the name he
+  goes up to the third floor, the record office comes to the wing, the wing goes to the booking book on the
+  second floor, and the booking book says that the woman who drafted the answer three years ago declined to
+  stand behind it at eleven forty-four on the morning of the twenty-sixth. **From that minute the refusal stops
+  being a woman saying no in a room and becomes a fact about a document.**
+  **Lin Hao is in the chair under the window eleven feet away and she does not look down the corridor once.**
+  **WHAT THE CORRIDOR LEARNS, AND IT IS NOT WHAT THE CARD SAID:** he did not come down for the box. **He came
+  down because her refusal was read by somebody who needed a name against it, nine days after it was entered,
+  and the only name there was hers.** The woman who went quiet on the sixteenth had not gone quiet at all —
+  **she had gone to work.**
+- **365 (6 Feb). THE BOX WITH SOMETHING IN IT.** The room at the end of a corridor, seven people in it and two
+  chairs doing nothing. **Runa Sato's arithmetic, done out loud and enjoyed:** three parts written in since the
+  second of October, the sheet can be drafted, two to call the sitting, five to carry, nine minutes to read
+  question and decide, it may be laid only before the last working day of the quarter, **three remain who would
+  seal a fresh one and the chair will not.** **The fourth part of the four is the ground, and this is the thing
+  the whole room has been missing.** A ground is not a reason spoken out loud; it is a document, with a date on
+  it, that somebody else wrote.
+  **It cannot be the declaration of holding and it cannot be the four sheets of the twenty-ninth, because he
+  wrote both, and a man is not ground for his own requisition. It cannot be the priced line, because that is
+  the figure and the figure is the third part. It cannot be the minute of the twenty-sixth of December,
+  because a room cannot ground itself on what the room did.**
+  **THERE IS EXACTLY ONE, AND WREN KALLO NAMES IT: a description of premises 34-6-118 made on the twenty-seventh
+  of October at about eleven in the morning at a kitchen table, against the head and not against the door, in
+  front of eight of them, by a clerk called Imrie, and the reason on it is four words long.** *The reason says
+  because it is cheaper.* **AND SHE ALSO SAYS THE MECHANISM, WHICH IS WHY IT IS THERE AT ALL: a ground is not
+  drafted by a clerk, a ground is taken by a clerk from the division that holds the document, and the division
+  that holds it is hers.**
+  **Agnete Lindqvist says the one objection nobody else has made and does not want it used**, because that paper
+  is the only thing in the city that says the thing under classification is a person, and if it is the ground it
+  stops being the paper that says you are a person and becomes the paper that says you are held. **The chair
+  says the ground is not going anywhere, it has been in that division since October, and tells the clerk to
+  leave the pen.**
+  **And he says the sentence this whole batch is built on: a ground cannot be a sentence, and a sentence cannot
+  be produced, and a paper can — and nobody in that room has ever once asked for one.**
+- **366 (9 Feb). TWO TO CALL THE SITTING.** **Beatrix Halm calls it at about ten to eight on the ninth from the
+  top of the sixty-one steps with the notebook SHUT, which she has not done once in nine years, and gets Runa
+  Sato to co-sign at a Field counter at about eleven** — she went to Runa on the eighth of January first, and
+  asked whether a man with no standing could co-sign anything. **Two members may call a sitting; one member
+  calling a sitting is a member throwing a tantrum.**
+  **It is called for the TWENTIETH. The clerk numbers the sittings and the number goes on the sheet in the corner
+  above the fourth part, and this is the ELEVENTH — which is the chapter title at 370.**
+  **THE OBJECTION THAT ROOM WAS BUILDING SINCE THE SECOND OF OCTOBER IS SPENT: they were going to ask who holds
+  it, and on the twelfth of January a man wrote a sheet with his own name on it and eight people signed a line
+  saying they had seen him do it, and the book is shut on the only question anybody in that business really
+  wants answered.**
+  **AND THE GOOD NEWS, given to him at a counter, flatly, by a woman who has wanted to say it for a week: a
+  requisition with no ground in it cannot be carried, and a requisition that is not carried takes nothing off
+  anybody.** **So there is a version of the next eleven days in which nobody does anything, the fourth part is
+  never written, and the sheet lies down and goes into the next quarter. Beatrix, on the step at seven in the
+  evening: *you are going to do something between now and the twentieth.* It is the fifth blank in her book.**
+- **367 (11 Feb). THE SEAT THAT HAS BEEN EMPTY, AND THE VOLUME NAMES HIM.** **Bertram Sallow.** No age is
+  printed and none may be. **Runa Sato found him on the ninth: two rooms over a lock-up on a lane off Cordwain,
+  a counting-house that pays him four hundred a month to check returns, six years in that room's fourth seat,
+  and he has not signed anything for anybody since the first of November** — and when she asked about his coat,
+  *I could not sign a receipt for a meal. I tried, about six weeks ago, for a coat.*
+  **WHAT HE LOST, and it is the arithmetic of a man who lost a thing by being correct: somebody queried a
+  return, which is all a re-read is. He was right about the figure and wrong about the week, said so in the room
+  before anybody else had, in writing, and would not sign the return. He was right, he said he was wrong, he
+  would not sign, and a man who will not sign a return does not get re-read for about six years.** No standing,
+  so no seal, so the seat is furniture.
+  **WHAT HE GIVES THE ROOM, AND IT IS THE POINT OF THE CHAPTER: the gap in the witness line is the only part of
+  that document that cannot be forged.** Any clerk can produce a page with eight signatures on it. Nobody can
+  produce that page with a two-finger gap in the middle of the line, and a clerk has to write a word under it,
+  and the only word available is *vacant*. **In about four years somebody will ask why, and the answer is a man
+  who said he was wrong when he was wrong.** And he cannot fill the gap himself, because an entry in a book is an
+  entry against a standing.
+  **SO THE GAP BECOMES AN ENTRY: on the morning of the twelfth he lays a plain sheet on the table under the
+  window saying that he holds the fourth seat, that he was re-read on the first of November, that a man with no
+  standing cannot hold a seal, and that the seat will stand empty until the standing comes back. Entered at
+  eleven minutes to nine. A copy goes out on the stream at four to the divisions that keep a list.**
+  **And he says the thing he has held for three months: *I have not mentioned that I come to that door twice a
+  week, because for three months I was quite sure somebody was going to fill that seat.*** **And at the door,
+  to Lin Hao and not to the room: everything from the twenty-seventh of October to the twelfth of January has
+  been on paper, and paper is the part of it that does not hurt anybody.** And: *that is what has been wrong
+  about you since October, and it is not a thing a man gets out of by being careful with paper.*
+- **368 (14 Feb). THE ADDRESS SOMEBODY OFFERS TO GIVE UP.** In the kitchen, at night, **Nadia Ferrous, who
+  works the doors of the Vestry arcade where nine hundred people a day go past, and who has been counting since
+  the fifteenth of October.** **She says she has been doing it since the second of February** — the morning
+  Hanneke Ruis refused — **and has had it in a drawer for twelve days, and she is arithmetic and not brave and
+  will not have it called otherwise.**
+  Eight is the composition, seven is the price, a person keeping an address may go into any counter in this city
+  and give it up, it requires no instrument and no permission and no witness and no holder, the clerk enters a
+  number, and the composition comes down by one. **Seven matches seven, the two figures become one, and the
+  account goes on the quarter's carry-forward sheet and is carried on every first of the month for ever without
+  anybody drafting anything.** **That is the resolution at 363 paid forward, and it is the only way in the world
+  to do it.**
+  **THE BILL, stated by her, in full: the list of the thirtieth of October still says eight and cannot be
+  corrected, withdrawn or un-issued; and the witness line under his sheet has eight names on it, so if she goes
+  into a counter on the fifteenth there is a document in a room at the end of a corridor with eight signatures
+  under it and seven people living in the house, and that is not a mistake anybody made by accident.** It is her
+  name that comes off. It is not line one and it is not the head of the house.
+  **Sun Meiling's price is a demand and not a warning: say the address out loud, to the room, so that it is a
+  thing eight people decided instead of a thing one woman did at a counter. Nadia's answer is that it has to be
+  one woman at a counter, because the second it is eight people deciding it becomes an instrument, and an
+  instrument needs a reason and there is not one.**
+  **Wren Kallo says one thing about a counter and will not be asked anything else: giving up an address is the
+  oldest ordinary act in this city and there has been a place for it since before she came to that desk, and
+  what you get is a day and an hour, and in about four years the only question anybody will ask is what was
+  happening in that building on that day at that hour.** She has not gone to find out whether anything has been
+  opened and is not going to.
+  **WHAT HE DOES IS THE BATCH'S FIRST USE OF HIS STANDING AGAINST ONE OF THEM AND HE HATES IT: he says nothing
+  for nine minutes — the fourth time that year eight women have watched him not say it — and then asks for
+  forty-eight hours, to the morning of the twentieth, and tells the table he does not know what he will do with
+  them.** *Do not think about them. If you think about them you will find a reason, and the reason will be good,
+  and then I am going to come down those stairs on the morning of the fifteenth and you are going to have to say
+  it out loud at this table.* **Nothing in this city can stop her going to a counter, and the only thing standing
+  in the way is him, and that is the whole difficulty.**
+  **And from the ground floor, unsigned and unaddressed, at about half past nine, a folded paper Beatrix found on
+  the mat: *A thing I have not said out loud in eleven years. The sixteenth, seven in the evening, the Vestry.
+  Bring nothing.*** **Beatrix writes *seven o'clock, Vestry, Agnete* and nothing else, and for the first time in
+  nine years writes what a thing is, and does not write it, because she is not allowed to.**
+- **369 (16 Feb). THE SCENE. AGNETE LINDQVIST.** In the Vestry chapel, behind a corridor with a mat on the floor.
+  **THE TEMPLATE IS BROKEN ON PURPOSE AND THE BREAK IS THE POINT: SHE REFUSES TO GIVE TERMS AT ALL.** 358 had
+  three terms written on the back of a docket. **Agnete Lindqvist says terms are what you say when you want a
+  room to behave, and she has given them twice and both times a woman in this city got hurt by having been in
+  the room; and she gives one thing instead, which is not hers and which she did not build: in this room nobody
+  can be compelled to say a word, and the price of that is that nothing said here can be used against anybody
+  anywhere else.** *That is not a courtesy and it is not a term. That is what the room is.* **And she says it is
+  doing nothing, and has been doing nothing for eleven years, and will go on doing nothing whether or not
+  anything happens in it — the only gift in this book that costs the person who gave it and not the person in
+  it.**
+  **THE HINGE IS NOT A BODY AND NOT A GIFT. He asks her the question he has not asked in eight volumes: *what am
+  I to them.*** **And she tells him that eleven thousand people believe he is the Office.** Not because anybody
+  said it. **Because of the shape: a man in a city that scores everybody gave things away in the open for seven
+  years and came back a little thinner every time, about four hundred people in that quarter watched it happen,
+  and none of it was written down — which is the exact shape of what is being done to them.** **Four hundred
+  know his name, not eleven thousand; about two hundred have never said it out loud; about forty have never
+  written it, because the Church of the Quiet Number keeps no register, and if you do not write a thing down then
+  nobody can take it off you.**
+  **THE ANSWER HE DID NOT WANT, AND IT IS THE REASON THE VOLUME WORKS: the only thing that would clear him is a
+  record, and this building has spent twenty years teaching eleven thousand people never to believe one, because
+  the day a paper clears somebody is the day a paper can be used against somebody.** He has exactly what he
+  needs and it is the one thing they have sworn not to take.
+  **She has, and gives him, the one thing nobody else on this page can: forty years of what people said he was,
+  written down as sentences with no names on them and no names ever to be, in the hand of a woman who cannot be a
+  witness to anything. It is worth nothing in any room in this city and she hands it over anyway, because he came
+  up sixty-one steps in the cold.**
+  **And she announces she is going OUT, on the eighteenth, in the morning, onto the arcade wall she has not seen
+  from the outside in eleven years, to say what is on her list without naming anybody. About four hundred will
+  believe her and eleven thousand will not, and the four hundred will include every woman at his table.**
+  Scene body **2,570 words counted AND probed**, chapter 3,091. No compulsion, sedation, exhaustion, restraint,
+  psychic contact, trance or seal as the mechanism; the room does nothing and says so before a word of it is
+  used; she is not impaired, is not reluctant, is not asked for anything, and asks him for nothing. **Not the
+  template of 358: no terms sheet, no counted minute, no kettle, and no body described three times.**
+  **Ending: about an hour of his forty-eight is left; the arrangement at the table stands until the morning of
+  the twentieth; on the twentieth nine people will read a sheet for nine minutes; and on the morning of the day
+  before that a woman who has been indoors for eleven years will stand on a pavement and say what four hundred
+  people believe about him, and neither of them will know about the other.**
+- **370 (20 Feb). THE SITTING CALLED FOR THE ELEVENTH. THE REQUISITION IS LIVE. IT IS NOT CARRIED.**
+  **THE TITLE IS LITERAL AND IT IS FIXED IN 366: the clerk numbers the sittings and this is the eleventh.**
+  **THE GROUND IS ALREADY WRITTEN AND HE DID NOT KNOW.** The fourth part carries a description of those premises
+  made on the twenty-seventh of October against the head, with the day and the hour and the division that holds
+  it — **entered by counter-forensics on the second of February, out on the stream that afternoon, entered in the
+  keeping book on the sixth, and standing in the clerk's drawer since.** **Wren Kallo put it there and told
+  nobody, exactly as Sun Meiling put a refusal in a book and told nobody, and neither of them did it for him.**
+  **THE BATCH'S IRREVERSIBLE DECISION IS THAT HE LETS IT STAND.** He has one sentence — a ground cannot be the
+  document that began the business, and a paper which is the origin of a requisition is not a reason for it —
+  and it is about nineteen words, it has been available to him since the sixth of February, four people in this
+  city could have drafted it better, and he had **seven minutes** before the ground went in and two minutes
+  after.
+  **If he had said it, the fourth part would have been struck, the nine minutes would have run out on a sheet
+  nobody could carry, nothing at all would have been taken off him or anybody else, and the sheet would have lain
+  where it lay until the thirtieth and gone quietly across into the next quarter.** That was the last quiet he
+  had and it cost eight women nothing at all.
+  **The ground went in at the seventh minute, which gives two. Two is not a majority.** Laid, called, served,
+  heard. **Not carried. Nothing has been taken off anybody and nothing will be taken off anybody before the
+  thirtieth, and the chair has that written into the minute in those words so that whoever reads it in four
+  years reads it in the right order.**
+  **WHAT IT COSTS, AND IT IS NOT HIS: a description made in a kitchen on Ferrier Street at about eleven in the
+  morning in front of eight women by a clerk called Imrie, on the strength of four words a man said to her, is
+  now the fourth part of a requisition that would take the account of thirty years out of the house they were
+  sitting in — and in about four years a document in a room will say that eight women were at that table while
+  it was made, with the reason *because it is cheaper* on it, and no version of the minute in which any of them
+  is a stranger to it.**
+  **WHY HE BOUGHT IT, in nineteen words at the end of a corridor: *a ground cannot be a sentence, that is why a
+  ground has to be a paper, and a paper is a thing that can be produced at a later sitting by whoever asks for
+  it, and asking is the ordinary right of a man who has been served. Nobody in that room has ever asked for a
+  ground. Not in twenty years. Not on this account or any other.*** **He bought the right to ask for one piece of
+  paper and he paid for it with a description of his own house made at his own table by a clerk he has never
+  spoken to, and he would make the same trade again on the seventh minute of any morning in the city.**
+  **Ending: the paper is in the second sub-level of the Classification Wing, in a division served with a copy of
+  his declaration at four on the nineteenth of January, which has never said whether it opened it, and which he
+  cannot ask, because the woman who signed the thing is the one woman he is barred from putting a question to.**
+
+**WHAT CLOSES IN MOVEMENT 2:** *the box is filled and it does not matter, and the account is a question with a
+date on it, and the question is a piece of paper.* **THE COST, IN THREE PARTS AND NOT ONE:** the woman who told
+him has been read into a file by name, in a building with a man on the third floor who has come down her
+corridor once and who will come down it again; **the cheapest instrument in Ostara against everything he has
+built since October is a woman at a counter giving up an address, and she has said the date out loud at his own
+table and he has asked her for forty-eight hours**; and **four hundred people in a quarter believe he is the
+Office, and the only proof is a record, and the only people who need convincing have sworn for twenty years never
+to believe one.**
+
+**SIX PLACES THIS PLAN WAS WRONG ON THE PAGE, RECORDED SO A LATER PHASE DOES NOT RAISE THEM AS NEW. The first four
+were found by the pass that wrote the chapters and the last two by the twelve-gram scan that followed it.**
+
+1. **361's hinge was a consult and it is an attendance**, which is a different instrument with a worse price, and
+   the refusal is entered as a docket with an hour and a minute and a word in capitals and the four minutes
+   between them are the chapter's last beat.
+2. **362 was not about a drawer. It is about his initial.** The priced line of the sixteenth of September carries
+   **his** initial and not her name, and three calls on that line are marks against it, and he has never said so.
+   This is Batch 0002's biggest single reversal and it is in a woman telling him a thing she has had in a drawer
+   for four months.
+3. **363 is not a third mark and a stronger version of the same power. 363 is the chapter that says the power
+   cannot be used at all while there are two figures for one door, and it settles the collision as resolution
+   (b) of the three the plan offered.** The plan's own card would have made Movement 4 pay nothing; the page has
+   made Movement 4 the only thing in the volume that can quieten that account.
+4. **364's cost is not that Sun Meiling becomes a person in a file. It is that a booking she entered herself has
+   brought a man down a corridor he has not walked in three years, and she gives him her name in a doorway to
+   stop a clerk doing it.**
+5. **370's irreversible decision is not that a requisition goes live. It is that he says nothing.** The plan
+   gave the batch a sheet being laid; the page gave the batch a man declining to kill it, and the whole of the
+   cost of Chapter 7's instrumentation is now paid by eight women who are in a minute because he wanted a paper.
+6. **THE PLAN PRINTED *THE FOURTH SEAT'S MAN IS NAMED* AND GAVE HIM NO CARD FOR WHAT HE LOST. The page found
+   that the cheapest version is also the truest: he queried a return, was right about the figure, was wrong about
+   the week, said so first, and would not sign. Bertram Sallow has no age printed and none may be.**
 
 ### Movement 3 — THE FILE (371–380). 21 February – 10 March.
 
@@ -903,31 +1145,67 @@ is not in it.**
   thousand people and not about what the room does.**
 - **Whether Dagmar Oyelowo can be given a page.** She cannot and she says so. **Her gift is none at all and
   her scene may not manufacture one.**
-- **NEW, AND IT IS THE ONE THAT IS NOW ACTUALLY DANGEROUS: WHETHER CARRY-FORWARD COLLIDES WITH MOVEMENT 4.**
+- **~~NEW, AND IT IS THE ONE THAT IS NOW ACTUALLY DANGEROUS: WHETHER CARRY-FORWARD COLLIDES WITH MOVEMENT
+  4.~~ SETTLED ON THE PAGE AT CHAPTER 363, 13 OCTOBER 2026, IN THE COMMIT THAT WROTE IT. THE COLLISION WAS
+  REAL AND IT IS NOW GONE. THIS ENTRY IS KEPT IN FULL BECAUSE A LATER PHASE MUST SEE WHAT THE THREE OPTIONS
+  WERE AND WHY (b) WAS THE ONE.**
   Chapter 351 put it on the page: **a called line that has been called twice may be carried forward by the room
-  that holds the book, without a fresh sheet being drafted.** Chapter 360 has now printed the same power a
-  second time and from the other end, in Alma Quayle's four lines: a called line at a matching composition may
-  be carried on a quarter's sheet by the room that holds the book. **TWO CHAPTERS AGREE ON THE PAGE THAT THE
-  COUNTING ROOM CAN CARRY IT AND THE FOURTH MOVEMENT SAYS IT CANNOT HAPPEN UNTIL MARCH. The collision is not
-  hypothetical any more; it is in two chapters, in two hands, and it is Batch 0002's to settle.** Chapter 363 in the plan above makes it a third
-  mark and a stronger version of the same power. **Movement 4's whole payoff is that a composition of seven —
-  Nadia Ferrous at a counter on the thirteenth of March — lets the account be carried forward.** **If the
-  counting room could carry it from the first of February anyway, then Movement 4 pays nothing, Nadia's six
-  years of address and his refusal of her are wasted, and the volume's fourth movement is a procedure loop
-  with a kitchen in it.** **BATCH 0002 OWNS THIS AND MUST RESOLVE IT ON THE PAGE, NOT IN A RECORD. The
-  resolution has to be one of three things and a batch may not pick a fourth: (a) a carry-forward sheet is
-  cheaper than a valuation but it carries a *figure*, and a figure carried by the room is a figure the room
-  may administer, so the counting room's carry-forward does not stop a requisition, it only moves who
-  administers it, and Nadia's composition drop is what removes the last address the figure has; (b) a
-  carry-forward sheet may only be entered for a line carried at a composition that matches the priced line,
-  and the priced line says seven while the composition says eight, **so the line cannot be carried at all until
-  the two figures agree** — which makes Movement 4 the only thing in the volume that can quieten it, and is by
-  far the best of the three; or (c) the room may carry the line but the room has never had one to carry and
-  the first carry-forward is the event 363 is about, and it takes a keeper and a date and no majority, so it is
-  cheap and it is also *visible*, and a visible figure is a figure that a requisition can now be laid
-  against — which is exactly what he wants and exactly why he does not want it. **Do not let 363 quietly do
-  Movement 4's work four months early.**
-
+  that holds the book, without a fresh sheet being drafted.** Chapter 360 printed the same power from the other
+  end, in Alma Quayle's four lines: a carried line at a matching composition may be carried on a quarter's sheet
+  by the room that holds the book. **Two chapters agreed that the counting room could carry it and the fourth
+  movement said it could not happen until March.**
+  **The three candidate resolutions were: (a) a carry-forward carries a figure and a figure carried by the room
+  is a figure the room may administer, so the counting room's carry-forward does not stop a requisition, it only
+  moves who administers it; (b) a carry-forward sheet may only be entered for a line carried at a composition
+  that MATCHES the priced line, so a line carried at eight and priced at seven cannot be carried at all until
+  the two figures agree; (c) the room may carry the line, the room has never had one to carry, the first
+  carry-forward is the event 363 is about, and a visible figure is a figure a requisition can be laid against.
+  A fourth was forbidden.**
+  **WHAT THE PAGE TOOK WAS (b), AND IT TOOK IT BECAUSE THE PAGE HAD ALREADY WRITTEN IT TWICE AND THE PLAN HAD
+  NOT READ EITHER PLACE.** Alma Quayle's four lines of the twenty-sixth of January already said the power is
+  conditional on a matching composition. Hanneke Ruis's slip of the first of January said *from the first of
+  February it can go on the quarter's carry-forward sheet* **without the word outcome**, and he read a promise off
+  a rule. **Chapter 363 now says it out loud, in her mouth, as a fact about a sheet and not as a rule: *a
+  carry-forward sheet carries the figure the line is carried at, and your line is carried at eight and it is
+  priced at seven, and I am not going to move a figure across a quarter boundary that disagrees with itself.*
+  And she adds the condition that closes it: *it goes on the sheet on the day your composition says what your
+  priced line says, and not on any day before that, and neither of those figures is mine and I did not set
+  either of them and I cannot move either of them.*** **That condition is the standing instruction she wrote to
+  him on the seventeenth of September — two figures for one door — and it is now the mechanism, and she says so
+  in the room and not only to him.**
+  **WHAT THIS BUYS AND WHAT IT COSTS.** **It buys: Movement 4 is intact and is the only thing in the volume that
+  can quieten that account, so Nadia Ferrous's six years of address, her offer at 368 and his refusal of her at
+  382 are not wasted, and the fourth movement is not a procedure loop with a kitchen in it.** **It also prices
+  the whole of the fourth movement, because a composition of seven does not merely quieten the account — it is
+  the ONLY condition under which a called line can ever be carried on this address, and a carried line is
+  administered by somebody he did not appoint, which is the sentence Anouk Ferreira has been refusing to say
+  since 345.**
+  **It costs: the quiet Hanneke Ruis sold him on the first of January was never his to buy, and the bill comes
+  on the first of February and not on the first of April. The valuation did not stop. A valuation sheet goes out
+  at four in the afternoon to six desks, one of them a wing off a third court, and the house is legible again
+  from that afternoon, and the only thing in Ostara that can make the two figures agree is one of eight women
+  walking into a counter — which is 368, and which is now not an option anybody has but a thing that is going
+  to happen.**
+  **AND THE SECOND ORDER IS NOW ON THE PAGE TOO: a line called once waits; a line called twice may be carried
+  forward by the room that holds the book; AND A LINE CARRIED FORWARD HAS TO BE CARRIED AT A FIGURE THAT MATCHES
+  ITS OWN PRICED LINE, OR IT IS NOT CARRIED.** **A later batch may not re-derive the carrying as a third and
+  fourth mark, may not make a third mark do Movement 4's work, and may not print a carry-forward at that address
+  before Nadia Ferrous has been to a counter.**
+- **WHETHER BATCH 0002's THIRD VOLUME-LONG FLAG IS NOW ALSO A COLLISION.** It was written before 361–370 and it
+  is printed at the top of this section. **What the page did: 361 turned a consult into an attendance, 362 gave
+  the priced line an initial that is his, 363 killed the carry-forward, 365 made the ground a paper and only one
+  paper, 367 named the fourth seat, 368 made the composition drop a dated promise, 369 made four hundred people
+  think he is the Office, and 370 made a requisition live by saying nothing.** **None of those touches
+  Movement 3's hinge, which is that a subject served with a requisition may require the room to produce the
+  paper its ground is written on. `outline/ending.md` requires the file to open at 372 on a rank he does not
+  have, and the ground of that sheet is now named, dated, in a division he can name, and producible. PC-3 is
+  NOT spent and it is closer than it was.**
+- **A NEW ONE THIS BATCH OWNS, AND IT IS SMALL AND IT IS WORTH NAMING: WHETHER A FILLED HELD-BY BOX COSTS HIM
+  WHAT IT BOUGHT.** 357 put a document in it and 370 shows that a document in the box does not make the box
+  carry anything — **the ground is a line under the four parts and the ground was empty for four months and
+  nothing anybody did to the box touched it.** **The box bought the room a door. The ground bought him a paper.
+  They are two different instruments and this volume has now been careful about which is which for fifty
+  chapters, and Chapter 372 may not collapse them.**
 ---
 
 ## 7. The do-not-open and do-not-close register for the volume
@@ -1119,6 +1397,18 @@ printed exactly as banked and none was changed**, so no second collision check i
 that changes one must re-run this and rewrite the row in the same commit. Longest of the ten: **The Sentence
 She Sent In October, 32 characters.** Word counts 4 to 7, every one inside 3 to 12. Zero beginning with
 *What*, zero built out of *there is no* / *nobody* / *nothing* / *what*.
+
+**RE-RUN AGAINST THE CHAPTERS ON DISK AFTER BATCH 0002, 13 OCTOBER 2026.** `grep -h '^# ' chapters/*/chapter-*.md
+| sed 's/^# //' | sort | uniq -d` returns nothing; **370 title lines, 370 distinct, 0 duplicates anywhere in the
+book.** **THE TEN TITLES AT 361–370 ARE PRINTED EXACTLY AS BANKED AND NOT ONE WAS CHANGED**, and the collision
+check was run before the first chapter was written and again after the last. Lengths 23 to 38, longest **The
+Address Somebody Offers To Give Up, 38**; word counts 5 to 7, every one inside 3 to 12; zero beginning with
+*What*; zero built out of *there is no* / *nobody* / *nothing* / *what*.
+**AND THE DAY SPELLING WAS FIXED BEFORE ANY PROSE EXISTED AND THE FIX IS IN THE CHAPTERS, NOT IN THE BANK:
+the sitting called by two on the ninth of February is for the TWENTIETH, which is what 370's card and 366's text
+both say, and the title *The Sitting Called For The Eleventh* is the clerk's own numbering — the room's clerk
+numbers its sittings and this is the eleventh — and Runa Sato states that number out loud at a Field counter on
+the ninth.**
 
 **351 The Line Called Twice (21) · 352 The Week She Kept To Herself (28) · 353 The Plate Held By A Formula
 (27) · 354 Six Of The Eight Have A Post (28) · 355 The Thing He Is Going To Write (30) · 356 The Fifth Sheet

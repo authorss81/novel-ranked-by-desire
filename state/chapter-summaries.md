@@ -23,19 +23,49 @@
 > In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
 > account he has ever had closes on him and he is a man with a number**.
 
-**`chapters/volume-08/` EXISTS. Chapters 351–360 are on disk, ten files, 22,629 words counted per file and
-summed. `outline/volume-08.md` §6 movement 1 was rewritten against them in the commit that wrote them.**
-Cards: `outline/batches/volume-08-batch-0001.md`. The live phase prompt is
-`workspace/volume-08/batch-0002/PROMPT.md`, which writes 361–370. **Proposed canon changes are recorded at the
-head of `state/open-threads.md`: eleven from the Volume 8 planning phase, of which four are now adopted, three
-partly adopted and one struck, and eight new ones (PC-12 to PC-19) adopted by Batch 0001.**
+**`chapters/volume-08/` EXISTS. Chapters 351–370 are on disk, twenty files, 44,580 words counted per file and
+summed. `outline/volume-08.md` §6 movements 1 AND 2 were both rewritten against them, in the commits that wrote
+them, and movement 2's rewrite SETTLED the carry-forward collision §6 had flagged as the most dangerous open
+question in the file.** Cards: `outline/batches/volume-08-batch-0001.md`. The live phase prompt is
+`workspace/volume-08/batch-0003/PROMPT.md`, which writes 371–380. **Proposed canon changes are recorded at the
+head of `state/open-threads.md`: eleven from the Volume 8 planning phase, of which four are adopted, three
+partly adopted, one struck and one partly overturned by a later page; eight adopted by Batch 0001 (PC-12 to
+PC-19) and eight more adopted by Batch 0002 (PC-20 to PC-27).** The live gate block is Batch 0002's.
 
 **THE VOLUME SENTENCE:** *Lin Hao must find what his brother found and keep the woman who told him*, or **the
 only account he has ever had closes on him and he is a man with a number.**
 
-**THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN** · 369 Agnete Lindqvist · 380 Tessa Okonkwo ·
-**388 Dagmar Oyelowo, immovable** · 398 Wren Kallo. Gaps 8, 11, 11, 8, 10. **Ch 372 opens Lin Wei's file and
-nothing before it may go near it.**
+**THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN** · **369 Agnete Lindqvist — WRITTEN, scene body
+2,570 words, probe 43** · 380 Tessa Okonkwo · **388 Dagmar Oyelowo, immovable** · 398 Wren Kallo. Gaps 8, 11, 11,
+8, 10. **Ch 372 opens Lin Wei's file and nothing before it may go near it.**
+
+### Volume 8, Batch 0002 — Chapters 361–370. THE TWENTY-SEVENTH OF JANUARY TO THE TWENTIETH OF FEBRUARY. **WRITTEN.**
+
+**THE BATCH'S JOB:** a filled box turns out not to be a requisition at all — it is a requisition anybody may now
+write, and a requisition anybody may now write turns out to be a document with no ground in it, which is a
+document nobody may carry. **THE IRREVERSIBLE DECISION IS 370: he lets a ground stand that would have struck the
+sheet out of existence, because a ground is a paper and a paper can be asked for, and that is the only door in
+this book to a file he cannot otherwise reach.** **And the cost is not his: eight women are now inside a minute
+for four years because a clerk described them at his kitchen table on the strength of four words he said to her.**
+
+- **361** — Sun Meiling declines an attendance. A docket under his door with 11.40, DECLINED, and 11.44.
+- **362** — **Marguerite Vale. The priced line of the sixteenth of September carries HIS initial, not her name.**
+- **363** — *Called. Called. Called.* **AND THE CARRY-FORWARD IS REFUSED: a line may not be carried while its
+  composition and its priced line disagree. The quiet is gone and a valuation sheet goes out at four.**
+- **364** — **Perrin Sowe comes down the second-floor corridor for the first time in three years, for a box, and
+  asks Sun Meiling for her name in a doorway.**
+- **365** — The room's arithmetic, and **the ground: the description of the twenty-seventh of October with
+  *because it is cheaper* on it, named by Wren Kallo, who is the division that holds it.**
+- **366** — **Beatrix Halm and Runa Sato call a sitting for the twentieth. It is the eleventh.**
+- **367** — **The fourth seat is named. Bertram Sallow. He queried a return, was right about the figure, was
+  wrong about the week, said so first, and would not sign.**
+- **368** — **Nadia Ferrous offers to give premises 34-6-118 up at a counter, and he asks for forty-eight hours.**
+- **369** — **THE SCENE. AGNETE LINDQVIST. She refuses to give terms at all, and tells him that four hundred
+  people in that quarter believe he is the Office, and that the only proof is a record they have sworn not to
+  believe.**
+- **370** — **The requisition goes live and is not carried. He had one sentence and seven minutes and said
+  nothing. The ground is a description of his own house made at his own table.**
+
 
 ### Volume 8, Batch 0001 — Chapters 351–360. THE FIRST TO THE TWENTY-SIXTH OF JANUARY. **WRITTEN.**
 
