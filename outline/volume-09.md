@@ -473,79 +473,201 @@ NINE VOLUMES:**
 scoreable and that is the engine of the entire plot. So the only way into nine is to give the whole of himself away,
 and the only thing that can be given is a figure other people have already put under him.**
 
-- **401 (1 Apr). THE FIRST SITTING SINCE THE TWENTY-NINTH OF DECEMBER.** He is served with it and is not admitted to
-  it, because he is a subject and is out of band. **THE COUNCIL RESTORES ONE STANDING, and it is Bertram Sallow's,
-  entered in the book at eleven minutes to ten, and the room stands at four.** **AND THE PRICE, READ ALOUD: a
-  restored standing is entered over the line it stands on, the fourth line of the quarterly return in the keeping
-  has carried *Marguerite Vale* in a broker's own hand since the twenty-ninth of March, a clerk cannot correct a
-  book and can only enter, and a member's standing may not be altered in a room where it is not read. So her name
-  is read out loud to nine people on the first of April, because she wanted to be findable.**
-- **402 (2 Apr). NINE SIGNATURES ON ONE ROLL.** The standing household recognised at the Ninth Terrace. **AND THE
-  NINE ARE NAMED, NOT COUNTED OFF A KITCHEN: the twelve less the three unsworn is Ines Duarte, Beatrix Halm, Tessa
-  Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale, Agnete Lindqvist, Petra Ilyin and Isolde Marchetti. Three of the
-  nine hold their own plate and their own rooms and are not in the hall — Ines signs from Lantern Row, in person,
-  without arguing about it, and Tessa and Marguerite sign on their own paper. Quarters are not the test; the roll is.**
-  **Wren Kallo, Sun Meiling and Dagmar Oyelowo are not
-  sworn, and the chapter gives the three reasons once each in the three women's own mouths.** **AND THE FIGURE: the
-  clerk asks for the household's rank, and there is no such thing as the rank of a consignment, and the number
-  entered against the household's name is 8,131 — fifteen under a floor, out of band by twelve, the first figure in
-  the history of a household roll that has been below a band. And the binding takes the highest rank in the
-  household, which on the second of April is not nine.**
-- **403 (4 Apr). A MAN READ PAST AT HIS OWN GATE.** The figure, the wall, the Fourth Branch, Beatrix Halm. **THE
-  TURN: a man who is out of band is read differently at a gate, and the Branch has stopped reading him, and nobody
-  at that building has told him.** The man who spent seven volumes being looked through has been looked past, and
-  it is not a trick and it is not what he wanted.
-- **404 (6 Apr). THE ENTRY SHE NEVER CLOSED.** **Marguerite Vale, and this is the volume paying what `outline/ending.md`
-  says she has been owed: the Vant's real books have carried an entry for the reservoir since Chapter 200 and nobody
-  at the Vant has ever been able to close it, and she is the only one of the household who has known for five
-  volumes what a consignment costs.** She prices it in the language of a person whose gift binds both parties
-  physically and in writing. **She does NOT tell him the disposition of the account. That is Chapter 474's and she
-  says so.**
-- **405 (8 Apr). THE PROMISE SHE CANNOT REMEMBER.** **Petra Ilyin refuses the attestation** — not out of fear for
-  herself, but because a sworn promise binds her body, she has been under one for eleven years and cannot remember
-  who made it, and she cannot bind herself a second time while the first stands. **Runa Sato prices the queue in the
-  same chapter.**
-- **406 (10 Apr). THE SCENE. PETRA ILYIN.** §4.
-- **407 (12 Apr). THE ARITHMETIC OF EIGHT HANDS.** Runa Sato: what an attestation costs, the six of the eight who
-  hold posts a division can serve, the two who do not, and **the turn — a witness line is a list of the people who
-  were in a room on a date, and he bought exactly such a line at Chapter 370 to ground a requisition, and it cost
-  eight women a minute each. The instrument that lifts him is the instrument that can be carried against every woman
-  on it.**
-- **408 (14 Apr). THE THING HE ASKS FOR AT HOME.** **THE BATCH'S FIRST IRREVERSIBLE ACT.** He asks at his own table,
-  out loud, in front of all eight, and he says the price before anybody answers it. Nobody helps. A hand that helped
-  would have been a hand that had to be on it.
-- **409 (15 Apr). THE MOVEMENT THAT CANNOT BE UNDONE.** **THE BATCH'S SECOND IRREVERSIBLE ACT, AND THE ONE
-  `outline/ending.md` FIXES: he lodges the consignment at a public post in his own hand and he is rank nine from that
-  hour.** **AND THE PRICE IS PAID THE SAME MORNING AND IT IS NOT A FIGURE: a lodged consignment is entered in the
-  room's book, and a requisition carried needs five, and the room stood at four on the first of April. So at ten
-  minutes to nine on the morning of the fifteenth of April the room stands at FIVE, and the requisition that has
-  stood uncarried since the twentieth of February becomes capable of being carried for the first time since the
-  twenty-third of December — and he did it, to himself, in a queue, with a pen.**
-- **410 (18 Apr). SEVEN OF THE EIGHT.** **THE TENTH'S GAP, AND IT IS A WOMAN HE DID NOT ASK TO BE IN THE ROOM.** A
-  consignment is witnessed on the day it is lodged and the witnessing is done at the address of the holding. Seven
-  sign. **Sun Meiling does not**, and the reason is not cowardice and not loyalty: **a witness line naming her on a
-  consignment of the holding makes her an officer of that holding, and an officer of a holding is a person the room
-  can serve.** She has spent nine volumes being unusable on purpose. **And there is a gap in the line two fingers
-  wide and it is the fourth gap of that kind in this book and the first one a woman has put there herself.**
+- **401 (1 Apr). A BROKER'S NAME IN THE FOURTH LINE. WRITTEN. 1,483 WORDS.** He is served with the Council's first
+  sitting since the twenty-ninth of December and is not admitted to it, because he is the subject of a live sheet and
+  out of band by twelve, and he stands at the end of a forty-foot corridor on a bench nobody has ever offered him.
+  Alma Quayle comes past him going in and sees him and decides he is a separate item of business. **At eleven minutes
+  to ten the Council restores Bertram Sallow and the room stands at four.** A requisition carried needs five.
+  **AND THE PRICE, WHICH THE CARD ASKED FOR AND THE PAGE TOOK: a restored standing is entered over the line it stands
+  on, a clerk cannot correct a book and can only enter, and a member's standing may not be altered in a room where it
+  is not read — so *Marguerite Vale* is read aloud to nine people on the first of April, and it is her own wanting
+  that put her in the line.** He goes to the Vant's smaller rooms first rather than to the kitchen, knocks twice four
+  seconds apart, waits about a minute and a half, does not knock a third time, and goes away.
+- **402 (2 Apr). NINE SIGNATURES ON ONE ROLL. WRITTEN. 1,918 WORDS.** The Ninth Terrace intake hall, a standing
+  household recognised in the open with about ninety people in it. Dagmar Oyelowo presses the plate herself and reads
+  back 8,131. **The nine are named on the page and not counted off a kitchen**: Ines Duarte signs at Lantern Row, in
+  person, in about eleven words and without arguing; Tessa Okonkwo and Marguerite Vale sign on their own paper from
+  their own plates; six sleep at 34-6-118; **the three who are not sworn each give her reason once, in her own mouth**,
+  and Dagmar's is given standing at her own counter because a roll is a list a counter reads. **THE FIGURE: the third
+  column takes the highest rank in the household on the morning the roll is taken — there is no such thing as the
+  standing of a house — and it is entered at 8,131, the first roll in that hall ever entered below a band, and it is
+  entered anyway.** He walks back down the walled road and does the subtraction correctly the first time: on the
+  fifteenth of April that column will take the highest rank in the household again, there is nobody who can put it
+  back down, and he is the only person in Ostara who knows.
+- **403 (4 Apr). A MAN READ PAST AT HIS OWN GATE. WRITTEN. 1,619 WORDS.** The north end of the ranks wall at a quarter
+  to five, four days after two words went up in paint, and the Fourth Branch staff door at half past five the next
+  morning. Nothing happens at the wall and the nothing is the chapter: the plate is 8,131 against a floor of 8,146,
+  twelve out of band, the two words have had four days and there is no third thing, and **on the first morning since
+  the thirtieth of March there is nothing for Beatrix Halm to write a time under.** **The turn is in a doorway:
+  out of band is a sentence a machine can read, so the man at the Fourth Branch gate reads him the way he reads the
+  wall, and after four years of being stepped around by anybody holding a card he says *go on through*.** She tells
+  him the reason plainly and he does not like it. She then says the thing that starts the volume: a band is a figure
+  and there is one rank in this city that is not one, and it is the one with no card on it, and the woman keeping a
+  guild's real books for thirty years has known it since before he had a plate.
+- **404 (6 Apr). THE ENTRY SHE NEVER CLOSED. WRITTEN. 1,800 WORDS.** The Vant's smaller rooms, evening, at a table she
+  has eaten at four times in six days for the first time in eighteen months. **She knows she was read aloud on the
+  first of April, had a very good lunch about it, says so in four sentences and will not be dramatic.** **She tells
+  him what a consignment is, and it is the only time in nine volumes she is the one who knows**: the Ninth Seal is
+  not a band, there is no card and no floor and no interval, and that is why the top tile is black and has been empty
+  for twenty years; one movement, own hand, public post, ordinary way, no instrument, no witness, no holder; it
+  cannot be partial, topped up, drawn against or given back; a lodged citizen is held, administered quarterly, with a
+  medical return to a clinic; and the Council is the standing custodian of all nine, so five people in a room can
+  answer for a lodged man without taking anything off him because they already hold it. **There has never been a
+  tenth because nobody has been willing to hand their whole life to nine strangers, and there is no cap anywhere.**
+  She does not tell him the disposition of the account — Chapter 474's — and says so in one line. **And the sentence
+  the volume is about comes out of her mouth and not out of his: he cannot climb on merit, he cannot climb on what is
+  in him, and the only thing that can be given away is a figure other people have already put under him.**
+- **405 (8 Apr). THE PROMISE SHE CANNOT REMEMBER. WRITTEN. 1,789 WORDS.** A doorway off Cordwain at half past four,
+  then a Field counter at twenty past five. **Petra Ilyin says no in one syllable before he has finished the ask**,
+  and the reason is arithmetic and not fear: her gift is a sworn promise that binds her body, she has been under one
+  for eleven years with no instrument and no maker, and a binding instrument is one at a time. **He does not argue,
+  which is the first time in nine volumes he has been told no by somebody who wanted to say yes.** She draws the
+  distinction the chapter needs in her own mouth — she signed a roll on the second because a roll is a list and this
+  is a chain — and says she will come and find him and will not let him pick the day. **Runa Sato prices the queue
+  from the rail: two hundred and eleven, of whom ninety are unreachable, four are reachable by another route and two
+  not at all; and she refuses to have her standing order of the thirtieth of October invoiced, ever.**
+- **406 (10 Apr). THE SCENE. PETRA ILYIN. WRITTEN AND OUT IN FULL. 3,259 WORDS; SCENE BODY 2,074 ON THE SPAN
+  `## The Frame Of The Roller Door` TO `## Afterwards` EXCLUSIVE; PROBE 30.** A bonded store, a roller door half
+  down, a foot of cold along the floor. **She is not impaired and says so in her own mouth before anything else
+  happens in the room.** Two spoken terms, no paper, and the second of them is not about him. **The three template
+  axes are broken on the page and named on the page: no terms sheet and no written terms, no counted minute and no
+  kettle and no boiler, and the body is not described three times.** The hinge is a promise and not a body: she can
+  feel the difference between a promise she agrees to and one she was inside when it was made, she had both inside
+  three days, and after eleven years of not knowing she is extremely interested in the difference. **The cost she
+  names out loud before anything happens is that he is asking nine women to be evidence, and evidence is what people
+  were before they were people.** She decided on the tenth and did not tell him. **She ends by naming a question she
+  will not ask — whether he has ever had a thing done to him that he agreed to and could not get out of. He has,
+  once, in a hall on Cobb Street with two hundred and eleven people in a room rated at two hundred and thirty, and he
+  does not tell her, and she lets it stand.**
+- **407 (12 Apr). THE ARITHMETIC OF EIGHT HANDS. WRITTEN. 1,450 WORDS.** A muster room off Cordwain at four in the
+  morning and a sheet of paper she ruled herself. **Six of the eight hold a post a division can serve a paper at**,
+  and the sixth of them sits in a building with a man on the third floor of it. **A witness line is a list of the
+  people who were in a room on a date and cannot be made into a list of who lives at an address**, said once, in
+  385's own words, because it is 385's sentence. Nadia Ferrous cannot be struck and gave up an address to get off
+  exactly that kind of paper. Three attestations move a plate and his own deeds never have. **The turn in four short
+  sentences: he bought a line like this in January, he bought it on purpose, he paid for it with eight women in a
+  minute, and he is about to buy the same line again and this time it is the only door he has.** Runa tells him she
+  will have to certify the composition at the address in her own hand, and that the Field division will then have her
+  on paper against a man, and she had decided that about four minutes before he knocked. **And she tells him what
+  asking eight people in one room costs: nothing. The cost is his, and it is that he will never be able to say he did
+  not know.**
+- **408 (14 Apr). THE THING HE ASKS FOR AT HOME. WRITTEN. 1,502 WORDS.** The kitchen, in the evening, the eight, and
+  nothing brought. **He says the price before he asks: one movement, no partial, no top-up, no draw, no return, the
+  witnessing is at the address of the holding, the line will carry every woman's name under his for four years, and
+  it cannot be struck by anybody.** Then he asks, in about a hundred and forty seconds, uninterrupted. **Nobody
+  helps**, for the reason they did not help on the twenty-sixth of November and the tenth of January: a hand that
+  helped would have been a hand that had to be on it. **Two of the eight cry and the chapter does not say which two.**
+  Isolde Marchetti says the true thing in the least noble way available — he is not asking because they are eight
+  women in a house, he is asking because a line is a list and he needs eight of them and there is no other
+  instrument — and she is right. **The answer is not eight yeses and it is not a refusal. It is Sun Meiling's
+  question: who is going to read the line. He does not have it, and he says out loud that he did not ask her to be in
+  that room.**
+- **409 (15 Apr). THE MOVEMENT THAT CANNOT BE UNDONE. WRITTEN. 1,785 WORDS.** A public post off a third court, in the
+  same building that has Sun Meiling on the second floor and Perrin Sowe on the third, at ten minutes to nine. **The
+  boy at the counter is the boy with the paste brush and the list of numbers from the thirtieth of March, he is not
+  told what he is holding and does not ask, and that is the whole of the safety of it.** No instrument, no
+  permission, no witness, no holder, no receipt, no copy. **He lodges it in his own hand on one sheet of plain paper
+  in about ninety seconds, and the whole movement takes about eleven minutes including the queue.** The boy reads
+  the one thing a clerk has to say, which is that a lodged citizen is held. **At about ten past nine the fifth is
+  entered in that room's book under the fifth line, the room stands at FIVE, and a requisition laid on the twentieth
+  of February — a month and twenty-five days before, not three months — becomes capable of being carried for the first
+  time since the twenty-third of December.** He did it himself, in a queue, with a pen. **And the clerk writes one
+  word under the fifth line, in a space that had been empty for nineteen years, and neither of them knows what it
+  means.** The chapter ends on the address of the holding being a kitchen on Ferrier Street, and the eighteenth.
+- **410 (18 Apr). SEVEN OF THE EIGHT. WRITTEN. 1,443 WORDS.** The kitchen, a sheet, one line. **Seven sign before half
+  past eight, and Petra Ilyin comes in two days late at ten past nine and signs without reading it.** Wren Kallo signs
+  looking at him and says nothing. **Sun Meiling does not sign**, and the reason is one sentence and it is neither
+  cowardice nor loyalty: a witness line naming her on a consignment of that holding makes her an officer of that
+  holding, and an officer of a holding is a person the room can serve. She has spent three years inside
+  Veil-Research and under a permanent bar since the first of September making herself expensive to reach, and this is
+  the first time she has used either of them as a weapon rather than as a wall, and she is right. **A gap two fingers
+  wide — the fourth of its kind in this house and the first one a woman has put there herself — and he is the man who
+  did not ask her to be in the room.** Runa Sato puts the iron stair and the man on the third floor in the same room
+  as the line and says she is not joining them up. **The chapter ends on her sentence: a gap in a line tells the
+  person who reads it exactly one thing, and the thing is that the person who put it there decided to.**
 
-**WHAT CLOSES IN MOVEMENT 1:** *the room stands at five and the fifth is him.* **THE COST, IN THREE PARTS:** **a
-guild broker who wanted nothing but to be findable has been read aloud in a room of nine because he needed a
-standing; **nine sworn women are bound to a figure with no floor — three of them at their own plates and not under his
-roof — and a binding that takes the highest rank in the household takes nine on the fifteenth of April and cannot be
-taken back off them;** and the protection he spent eight
-volumes building — a requisition that could not be carried because the room could not reach five — is gone, and he
-put it there himself.**
+**WHAT CLOSES IN MOVEMENT 1, ON THE PAGE:** *the room stands at five and the fifth is him.* **THE COST, IN THREE
+PARTS, and every part of it paid by somebody other than the man who arranged it:** **a guild broker who asked for
+nothing except to be findable was read aloud to a room of nine on the first of April because he needed a standing,
+and she had a good lunch about it; nine sworn women are bound to a figure with no floor, three of them at their own
+plates and not under his roof, and the binding takes nine on the fifteenth and cannot be put back down;** and the
+protection he spent eight volumes building — a requisition that could not be carried because a room could not reach
+five — **is gone, and he put it there himself, in about eleven minutes, in a queue, with a pen.**
+
+**AND THE TWO CHAPTERS THAT CARRY THE CONSEQUENCE, ALSO WRITTEN:**
+
+- **411 (19 Apr). THE HAND THAT DID NOT SIGN. WRITTEN. 1,632 WORDS. SUN MEILING'S CHAPTER, IN HER OWN ROOM.** She
+  works it out from a gap, because a woman who has spent three years seeing the same shape in different data does
+  not read a document — she looks at where the parts are not. **A space in the middle of a witness line is a hole
+  where a seat should be, a room with a hole in it is one short, and she has known about that hole since the twelfth
+  of February.** She does it in the order it has to be done in, because a fact said in the wrong order sounds like a
+  story: the account of thirty years carried forward on a quarter's sheet with no fifth mark and no payment since the
+  sixteenth of November · the fourth block printed off a certificate of composition of the thirtieth of November · the
+  certificate is in her hand · a composition is certified for the quarter it is certified in · **so she has been
+  certifying the composition of her own household four times a year, in her own division, in her own hand, under her
+  own name, at the head of it, since the thirtieth of November, and she filled in a box on a printed sheet on the
+  morning of the thirtieth of March in about four minutes and carried on with the morning.** **And she is not
+  frightened. She is the second person at that address who has been reachable for five months without knowing it,
+  and she is the cheapest person in this city.** Eleven years of being unreachable does not help, because the
+  certificate is not about her. **She says she is going down sixty-one steps to read a minute and not a file, and she
+  is not taking anybody, and she turns a sheet over.**
+- **412 (21 Apr). THE ROOM STANDS AT FIVE. WRITTEN. 1,811 WORDS.** A public post at ten, then a corridor at four.
+  **Nothing happens, and the chapter is about the nothing without being about a procedure: a member may be shown the
+  book and may not ask the room to do anything, and there is no instrument anywhere for asking it.** **The first
+  weekly return that carries five.** Nine ruled lines and a tenth with a box; a weekly return carries a standing and
+  carries no names. **The fourth line reads the standing restored on the first of April, and the broker's name is
+  nowhere in that book, because a quarterly return carries names and this room never sees a quarterly again.** The
+  fifth is new and under it is the word the clerk wrote on the fifteenth, and she has not been told what it means
+  either, and she asks, and the honest answer is that neither of them knows. **At about half past four the return
+  goes out on the ordinary stream to six desks, and one of the six is a wing off a third court that sits outside the
+  Wing, keeps no register of addresses, has had a shape since the first of January and has never been named — and the
+  return says five, for the first time in twenty years that a figure about that room has gone there, and there is
+  nothing on the face of the service that anybody could object to.** The requisition of the twentieth of February is
+  **sixty-one days** old — two months and one day and not three months — can be carried, has not been carried, and he
+  has seventy-five days. **The batch ends with a gap in a line carrying Sun Meiling's reason in it sitting in the
+  same room as the figure of five that endangers her.**
+
+**SEVEN PLACES THE PLAN WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN:**
+
+1. **THE PLAN GAVE EACH CARD A SUBJECT AND THE PAGE GAVE ONE OF THEM A CHAPTER SHE WAS NOT SUPPOSED TO HAVE.** 403 was
+   to be about a wall and it is about a doorway. 411 was planned as a fact arriving on somebody else; it is the
+   whole of the reversal, in her own room, with no form, no minute and no file.
+2. **THE PLAN PUT THE COST OF EIGHT *AFTER* THE ROLL AND THE PAGE PUT A COST HE DID NOT KNOW HE WAS PAYING AT 401.**
+   A restoration is free until it is entered over a line a woman wrote for a different reason. The bill for Volume 8's
+   393 and 399 arrives four days before the roll does, and the man who caused it does not knock a third time.
+3. **THE 405 CARD SAID PETRA ILYIN WOULD *SIGN THE ROLL* ON OR ABOUT THE EIGHTH. SHE SIGNED IT ON THE SECOND**, in
+   the hall, with six other women, because a roll is a list. The chapter is stronger for it: the refusal is then a
+   refusal of a second and different instrument and not a hesitation about the first.
+4. **THE 403 CARD SAID HE WOULD ASK BEATRIX HALM *IN HIS OWN HEAD*. HE ASKS HER OUT LOUD** and gets the volume's
+   opening sentence out of a woman who has been reading a wall for nine years. A private question would have produced
+   nothing but the flat refusal.
+5. **THE 406 CARD PUT THE COST *BEFORE ANYTHING ELSE HAPPENS IN THE ROOM* AND THE PAGE PUT TWO TERMS AND THREE
+   TEMPLATE AXES IN FRONT OF THAT.** She is a guild enforcer who takes stock of a room before she is in it, and the
+   safety talk is not an interruption to the scene; it is the most attractive thing in it.
+6. **THE 409 CARD SAID HE LODGES *BEFORE THE POST CLOSES* AND THE PAGE PUT HIM IN A QUEUE AT TEN MINUTES TO NINE.**
+   The waiting is the point: eleven minutes in a public post with a boy who does not know, and a requisition four
+   months old makes the sum he does in the corridor at noon the chapter.
+7. **THE 412 CARD SAID THE THING THAT SAVES HIM AND THE THING THAT ENDANGERS HIM ARE THE SAME DOCUMENT. THE PAGE
+   FOUND A STRICTER AND BETTER VERSION: they are not the same sheet, they are the same *door*, at the same hour, and
+   the fifth figure leaves on the ordinary stream to six desks, one of which has no name.**
+   **AND ONE CARD FACT WAS WRONG ON THE PAGE AND WAS NOT FOLLOWED: the 406 card said the hall held nine thousand
+   people. It is Cobb Street, two hundred and eleven in a room rated at two hundred and thirty
+   (`chapter-0141.md:167`, `chapter-0146.md:31`), and the page governs.**
 
 ### Movement 2 — WHAT THE LINE COSTS (411–420). 19 April – 6 May.
 
 **The promise:** the line is signed, seven of eight, with a gap in it, and a document that names seven women at one
 address on one date is now in the keeping of a room that wanted them before it wanted him.
 
-- **411 (19 Apr). THE HAND THAT DID NOT SIGN.** Sun Meiling works out, from the gap and from the ordinary course of
-  her own division, **what she has been certifying four times a year since the thirtieth of November.** **She is not
-  told. She reads it.** This chapter is the volume's first reversal and it is not the reversal anybody expected.
-- **412 (21 Apr). THE ROOM STANDS AT FIVE.** The first return that carries five, the fourth line and the fifth, and
-  the thing the clerk has to write under the fifth because there has never been a word for it.
+- **411 (19 Apr). THE HAND THAT DID NOT SIGN. WRITTEN — SEE §6 MOVEMENT 1.** Sun Meiling works out, from the gap and
+  from the ordinary course of her own division, **what she has been certifying four times a year since the thirtieth
+  of November.** **She is not told. She reads it.** This chapter is the volume's first reversal and it is not the
+  reversal anybody expected, and on the page it is also the only chapter in this volume carried entirely by a woman
+  in her own working room, with no form read, no minute produced and no file opened.
+- **412 (21 Apr). THE ROOM STANDS AT FIVE. WRITTEN — SEE §6 MOVEMENT 1.** The first return that carries five, the
+  fourth line and the fifth, and the thing the clerk has to write under the fifth because there has never been a word
+  for it. **On the page the clerk asks what the word means on the same afternoon she wrote it, and is told that the
+  man standing in the corridor does not know either.** The return goes out at half past four to six desks.
 - **413–416.** The first draw of the volume is made on a stranger (413). **The ledger crosses a number and the
   panel appears (414 — this is one of the two chapters in the volume where a panel is due, and it is due because
   the chapter turns on the ledger).** Runa's own price, invoiced and not invoiced (415). Isolde Marchetti sums aloud

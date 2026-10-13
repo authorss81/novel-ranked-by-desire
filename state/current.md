@@ -1,4 +1,186 @@
-# VOLUME 9 PLANNING HEAD RECORD — 13 OCTOBER 2026. **VOLUME 9 IS NOT WRITTEN. THIS FILE IS THE OPENING POSITION OF THE VOLUME AND THE THREE DECISIONS IT OWES, AND IT IS A PLANNING RECORD, NOT A WRITING ONE.**
+# VOLUME 9 BATCH 0001 HEAD RECORD — 13 OCTOBER 2026. **CHAPTERS 401–412 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.**
+
+> **THE PHASE THAT WROTE THIS WROTE TWELVE CHAPTERS.** `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` exist, the
+> first of April to the twenty-first of April, **21,491 words counted per file and summed**. `outline/volume-09.md` §6 movement 1 has been
+> **rewritten against the page in the same commit**, with seven named places the plan was wrong and **one card fact that was wrong on the
+> page and was not followed** — the 406 card said the hall held nine thousand people; it is Cobb Street, two hundred and eleven in a room
+> rated at two hundred and thirty. `PC-57` to `PC-68` are no longer proposals; they are re-derived against the chapters and are on the page.
+> **`PC-69` to `PC-75` are the batch's own additions and are recorded as PROPOSED with the chapter each lands in.**
+> **LIVE GATES ARE AT THE HEAD OF `state/open-threads.md` AND THE BLOCK BELOW THAT HEAD IS SUPERSEDED, NOT DELETED.**
+> **`outline/ending.md` IS UNTOUCHED AND `state/phase-ledger.json` IS NOT OURS.**
+
+## 0a. WHAT THIS BATCH DID, AND ITS TWO IRREVERSIBLE DECISIONS
+
+| Created | What it is |
+| --- | --- |
+| `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` | **twelve finished chapters, the first of April to the twenty-first of April. 21,491 words counted per file and summed before any state file was written.** |
+| `outline/volume-09.md` | **§6 movement 1 rewritten against the page**, with seven named places the plan was wrong, **and the card facts for 406 corrected in the record where they were wrong** |
+| `state/continuity.md` | **`PC-57`–`PC-68` re-derived from the chapters and marked ON THE PAGE; `PC-69`–`PC-75` recorded as the batch's own proposals; the question the planning phase refused to decide — whether a consignment can be entered out of that room's book — DECIDED BY THE PAGE at 409 and 412: it cannot** |
+| `state/open-threads.md` | **new live gate block with the scanner's tokenisation and scope printed, and the directed-rows column explicitly NOT taken and NOT substituted** |
+| `workspace/volume-09/batch-0002/PROMPT.md` | **the one live phase prompt in the repository. Ch 413–422.** |
+
+**THE BATCH'S FIRST IRREVERSIBLE DECISION IS 408.** On the evening of the fourteenth of April he asked eight women at his own table, out
+loud, in front of all eight of them, **having said the price out loud first** — one movement, no partial, no top-up, no draw, no return, the
+witnessing at the address of the holding, every woman's name under his for four years and none of them strikeable.
+
+**Nobody helped.** Nobody argued. A hand that helped would have been a hand that had to be on it, and that arithmetic has been true since
+the first of December. Two of the eight cried and the chapter does not say which two. **WHAT IT CLOSED: the option of reaching nine without
+handing them over. There is no other door and there never was.**
+
+**THE SECOND IS 409 AND IT IS THE ONE `outline/ending.md` FIXES.** At ten minutes to nine on the morning of the fifteenth of April he lodged
+his whole accumulated standing at a public post off a third court, in his own hand, on one sheet of plain paper, in about ninety seconds and
+about eleven minutes including the queue. No instrument, no permission, no witness, no holder, no receipt, no copy. **The boy behind the
+counter is the boy with the paste brush and the list of numbers from the thirtieth of March, and he was not told what he was holding and did
+not ask, and that was the whole of the safety of it.**
+
+**AND HE IS THE REASON A REQUISITION HE HAS SPENT FIFTY-FIVE DAYS ENJOYING THE SAFETY OF BECAME CAPABLE OF BEING CARRIED.**
+(30 − 20) + 30 + 15 = **55 days from the twentieth of February to the morning of the fifteenth of April. It is not three months.** The room
+stood at three through twenty-six weekly returns, went to four at eleven minutes to ten on the first of April when the Council restored
+Bertram Sallow, and went to **FIVE at about ten past nine on the morning of the fifteenth**, and a requisition carried needs five. **So he
+did the second thing himself, to himself, in a queue, with a pen, and after it there is no version of him that is a man nobody can answer
+for.**
+
+## 0b. THE EIGHT INHERITED LINES, ONE EACH, AND WHAT CHAPTERS 401–412 DID TO EACH
+
+1. **8,131 against a printed floor of 8,146, fifteen under, out of band by twelve.** **UNCHANGED AND IT DOES NOT MOVE UP IN THESE TWELVE
+   CHAPTERS.** It moves because he lodges a consignment, and **a consignment has no floor**, which is the whole of Chapter 409. The two
+   words went up the wall on the afternoon of the thirtieth of March and **the wall said nothing new for the whole batch**: 403 stands in
+   front of four-day-old paint and gets nothing, and the first morning since the thirtieth of March on which there is nothing for Beatrix
+   Halm to write a time under.
+2. **A requisition that crossed into the quarter with the standing of a room that stands at three.** **NOW CAPABLE OF BEING CARRIED SINCE
+   ABOUT TEN PAST NINE ON THE MORNING OF THE FIFTEENTH OF APRIL, AND NOT CARRIED, NOT RECEIVED AND NOT DECIDED IN ANY OF THE TWELVE.** At 412
+   it is **sixty-one days** old: (30 − 20) + 30 + 21. **Two months and one day and not three months.**
+3. **A composition certified four times a year by a woman who does not know she was appointed.** **AT 411 SHE WORKS IT OUT FROM THE GAP IN
+   THE LINE, IN HER OWN ROOM, IN THE ORDER IT HAS TO BE DONE IN, AND HE STILL HAS NOT TOLD HER.** Both facts are true at once and the chapter
+   makes neither a surprise. She certifies it four times a year in her own division, in her own hand, under her own name, at the head of it,
+   and she cannot be sworn.
+4. **A finding in a minute in counter-forensics with his premises at the head of it and his name in the fourth part.** **NOT TOUCHED. The
+   fourth part is named in the requisition and is why the requisition is administered weekly from the first of April, and no chapter of
+   401–412 puts a name to it.**
+5. **A guild broker's name in the fourth line of a quarterly return, filling no seat, unstrikeable, on no roll anywhere in the city.**
+   **READ ALOUD TO NINE PEOPLE AT 401.** She learns of it on the second of April from a man in the second sub-level who owes her a box, and
+   **has a good lunch about it**, and says in four sentences that she wanted to be findable and has been. At 412 the broker's name is **nowhere
+   in that room's book**, because a quarterly return carries names and this room never sees a quarterly again.
+6. **Mrs Imrie, eleven minutes, on the twenty-fourth.** **NOT IN THESE TWELVE AND NOT ASKED ANYTHING.**
+7. **A brother in a room with no window on the third sub-level, whose medical return was administered on the thirtieth of March.** **NOT
+   OPENED. `chapter-0409.md` puts one sentence about the third sub-level in a lodged citizen's medical return and nothing else; the room is
+   not entered, no file is opened, and `outline/ending.md` decides what is in that file and when — his brother is named in Chapter 486.**
+8. **AND WHAT IS STILL SHUT.** **Wren Kallo's bar has never been tested and was not tested in these twelve; her standing answer is still that
+   she does not know what he is talking about and he has not asked.** **Dagmar Oyelowo has no gift at all and is given none — she is at the
+   desk at 402 and says her one reason and stays exactly where she is.** **He has a floor, a date and a direction and no means of getting
+   there.** **The turned count is nine at the start of the batch and nine at the end and the ninth is still himself. Nothing is spent.**
+
+**AND FOUR THINGS THE BATCH OWES AND HAS PAID:** `PC-28` is carried forward and not fixed and no chapter of 401–412 reproduces a figure from
+that section head · **the figure he carries is 8,131 and it does not move up in these twelve, because a consignment has no floor** ·
+**Sun Meiling finds out at 411 from a gap in a line and he still has not told her** · **the requisition becomes capable of being carried at
+409 and is not carried, not received and not decided in any of the twelve.**
+
+## 1. CHAPTER BY CHAPTER, AND WHAT EACH ONE ACTUALLY DID
+
+- **401 (1 Apr). A BROKER'S NAME IN THE FOURTH LINE.** Served and not admitted; out of band by twelve there is no reading of a hall that puts
+  a floor under him; Alma Quayle passes him in the corridor and makes him a separate item of business. **The Council restores Bertram Sallow
+  at eleven minutes to ten and the room stands at four.** And a restored standing is entered over the line it stands on, and the line carried
+  *Marguerite Vale*, and a clerk cannot correct a book. **He goes to the Vant's smaller rooms first rather than to the kitchen and does not
+  knock a third time.**
+- **402 (2 Apr). NINE SIGNATURES ON ONE ROLL.** The nine named, not counted off a kitchen; three of them at their own plates; the three
+  unsworn each give their reason once in her own mouth. **The third column takes the highest rank in the household on the morning the roll is
+  taken and is entered at 8,131, the first roll in that hall ever below a band, and Dagmar Oyelowo reads it back before she signs it and writes
+  it anyway.** Thirteen days to the binding.
+- **403 (4 Apr). A MAN READ PAST AT HIS OWN GATE.** Four-day-old paint and nothing new on it; and at the Fourth Branch gate a man who has
+  scanned him every morning for four years looks at him the way the gate looks at the wall, and says *go on through*. **Beatrix Halm gives him
+  the volume's opening sentence.**
+- **404 (6 Apr). THE ENTRY SHE NEVER CLOSED.** The consignment, in Marguerite Vale's mouth, with no cap anywhere and no tenth because nobody
+  will hand their whole life to nine strangers. **She will not put her name under it and the reason is Chapter 405.**
+- **405 (8 Apr). THE PROMISE SHE CANNOT REMEMBER.** Petra Ilyin says no in one syllable and the reason is arithmetic. **He does not argue**,
+  which is new. Runa Sato prices the queue from the rail.
+- **406 (10 Apr). THE SCENE. PETRA ILYIN.** A bonded store, a roller door half down. Not impaired and she says so first. Two spoken terms,
+  the second not about him, and all three template axes broken on the page. **The cost she names before anything happens: he is asking nine
+  women to be evidence, and evidence is what people were before they were people.** **She names a question she will not ask, and he has the
+  answer and does not give it, and she lets it stand.** Scene body 2,074 words, probe 30.
+- **407 (12 Apr). THE ARITHMETIC OF EIGHT HANDS.** Six of the eight are reachable; the witness line is the same instrument as the ground he
+  bought at 370; and four short sentences about January. **The cost of asking eight people in one room is his, and it is that he will never be
+  able to say he did not know.**
+- **408 (14 Apr). THE THING HE ASKS FOR AT HOME.** The price said first, then the ask. Nobody helps. Isolde says the true thing unkindly and is
+  right. **Sun Meiling asks who is going to read the line, and he does not have it.**
+- **409 (15 Apr). THE MOVEMENT THAT CANNOT BE UNDONE.** Ten minutes to nine, one sheet, about eleven minutes. **Nine from that hour, the room
+  at five, the requisition capable, and a clerk's word under a fifth line that nobody in the city understands.**
+- **410 (18 Apr). SEVEN OF THE EIGHT.** Seven hands and a gap two fingers wide, put there on purpose, for the best reason anybody at that table
+  has given since the thirtieth of March. **A gap in a line tells the person who reads it exactly one thing, and the thing is that the person
+  who put it there decided to.**
+- **411 (19 Apr). THE HAND THAT DID NOT SIGN.** Sun Meiling's chapter, in her own room, with no form read and no minute and no file. **She
+  works it out in the order it has to be done in and is not frightened, and she is the cheapest person in this city.**
+- **412 (21 Apr). THE ROOM STANDS AT FIVE.** The first weekly return carrying five; a word under the fifth line that nobody understands; a
+  return out to six desks at half past four, one of which has no name and has never been named. **The saving fact and the endangering fact are
+  the same door, at the same hour, on the ordinary stream, and nothing on the face of the service is objectable.**
+
+## 2. THE POSITION AT CHAPTER 412 — EVERY FIGURE ON THE PAGE
+
+Plate **8,131.** Band floor **8,146.** Both printed at Chapter 400 and neither has moved; **a consignment has no floor at all.**
+**The room where nine people sit stands at FIVE**, entered at about ten past nine on the morning of the fifteenth of April out of a book in
+the keeping, and **the fifth is him.** **A requisition laid on the twentieth of February is CAPABLE OF BEING CARRIED and is not carried, not
+received and not decided; it is sixty-one days old.** **Nine sworn women on one roll taken at the Ninth Terrace on the second of April with
+8,131 against the household's name, and the roll's third column binds the household by the highest rank in it on the fifteenth, and cannot be
+put back down.** **A witness line with seven names and a two-finger gap in it is in the keeping of that room and can be produced against all
+seven for four years.** Ledger **142 lines and rising, nine turned, the ninth still himself. Nothing spent, nothing drawn, nothing routed, no
+folio, no settle clock, no settle date, no classification completed.** File 4,112, one folio, no second.
+
+**THE NINE ON THE ROLL, AS THE PAGE HAS THEM:** Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale, Agnete
+Lindqvist, Petra Ilyin, Isolde Marchetti. **Three of them hold their own plate and their own rooms and were not in the hall: Ines signed at
+Lantern Row in person without arguing, and Tessa and Marguerite on their own paper.** Six sleep at 34-6-118. **The three who are not sworn are
+Wren Kallo, Sun Meiling and Dagmar Oyelowo, each for the reason `bible/characters.md` fixes, each given once, in her own mouth, at 402.**
+
+**THE EIGHT AT FERRIER STREET AND THE NINE ON THE ROLL ARE NOT THE SAME EIGHT AND MAY NOT BE COUNTED AS ONE.** Eight women at the address;
+Chapter 400 puts eight at that table; six of those eight are on the roll and two of them are not.
+
+## 3. WHAT BATCH 0002 OWNS, AND WHAT IT MAY NOT REACH
+
+**413–422. The twenty-third of April to the ninth of May.** The plan's beats: **the first draw of the volume, made on a stranger (413)** ·
+**the ledger crossing a number and the first of the volume's two system panels, which is due because the chapter turns on the ledger (414)** ·
+Runa's own price invoiced and not invoiced (415) · Isolde Marchetti summing aloud in a corridor she cannot sing in (416) · **417, THE SCENE,
+Nadia Ferrous** · the household finding out what it has signed (418) · **four in the afternoon, to six desks (419)** · the clerk who reads a
+gap aloud (420).
+
+**IT MAY NOT:** print a band floor — the next card is the thirtieth of June and **Chapter 450 prints it** · print a settle date or the string
+`settle` · name a day of the week · announce an age · open Lin Wei's file, add a folio, or put the two hundred and fourteen thousand beside a
+name · ask Wren Kallo about the address or open a chapter in her rooms · **give Dagmar Oyelowo a gift (`PC-44`) or move her** · put a brother
+in Sun Meiling's mouth · carry, receive or decide the requisition · **lift Alma Quayle's recusal** · introduce a new final enemy, or revive
+either offer · resolve whom Wren Kallo told · **describe the eighteen-chapter scene breach as closed** · **reproduce any figure from
+`chapter-0359.md`'s section head (`PC-28`, still open)** · give the ledger a figure a title names that the ledger cannot reach · **write a
+panel anywhere but in a chapter that turns on the ledger, and Volume 9 plans two and has now spent none** · **give a woman a mark she does
+not already own (`outline/volume-09.md` §4a, read before a body is written and not after)**.
+
+## 4. WHAT A LATER VOLUME WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days and has no thirty-first, and the thirtieth is the last working day of the month and of the quarter.** Subtract
+   day numbers; never calculate against a real calendar. **THE THREE COUNTS THE FIRST TWELVE CHAPTERS REST ON: 15 − 2 = THIRTEEN days from
+   the roll to the lodge; (30 − 20) + 30 + 15 = FIFTY-FIVE days from the twentieth of February to the fifteenth of April; (30 − 20) + 30 + 21 =
+   SIXTY-ONE days to the twenty-first. 30 − 15 = FIFTEEN days remain in the quarter from the fifteenth, exclusive. Ninety days from the first
+   of April to the thirtieth of June.**
+2. **Volume 9 names no day of the week at all, and nine were in the first drafts of 401–412 and every one was replaced with a printed date.**
+3. **Ledger: 142 on the fourteenth of March and rising because he keeps his round. Nine turned throughout Batch 0001. The number of lines is
+   not the number of lines turned.**
+4. **A requisition is not one thing.** Tabled ≠ served ≠ sealed ≠ carried ≠ received ≠ administered. **AND IT IS NOW ALSO NOT ONE OTHER
+   THING: IT IS CAPABLE. Capable, carried, received and decided are four separate states and only the first has happened.**
+5. **A consignment is entered in that room's book on the day it is lodged and is not entered out on any day. There is no paper for it and
+   none has ever been one, and it cuts both ways: a subject may not take a sheet off a room's list, and a lodged citizen may not be entered
+   out of one.**
+6. **Wren Kallo's bar holds, was not tested in 401–412, and is still not tested. She has not told him whom and he has not asked.**
+7. **Sun Meiling is never sworn, is under a permanent bar, is line one on the fifth sheet, and is now the officer of a holding that five people
+   in a room can serve anything on — and she knows it, and he still has not told her the rest, and the rest is that the account cannot be
+   closed and she is its officer for ever.**
+8. **Perrin Sowe asked in writing three years ago to be left off the distribution of anything further upon file One, and that is why there is
+   no production off that door and why he answers in corridors. He has not come down that corridor since the fourth of February.**
+9. **LIN WEI'S FILE IS OPEN AND STAYS OPEN, AND NOTHING OF IT WAS TOUCHED IN 401–412.**
+10. **THE ONLY THING THAT COULD QUIETEN THE ACCOUNT WAS A COMPOSITION OF SEVEN, IT WAS DONE AT A COUNTER BY ONE WOMAN ON HER OWN ACCOUNT
+    ON THE THIRTEENTH OF MARCH, AND IT COST HER THE ONLY THING SHE HAD AND HIM THE ONLY INSTRUMENT HE HAD — AND IT PUT SOMEBODY ELSE IN
+    CHARGE OF IT, AND THE SOMEBODY IS THE WOMAN WHO CERTIFIED IT.**
+
+---
+
+## ~~VOLUME 9 PLANNING HEAD RECORD — 13 OCTOBER 2026. **VOLUME 9 IS NOT WRITTEN. THIS FILE IS THE OPENING POSITION OF THE VOLUME AND THE THREE DECISIONS IT OWES, AND IT IS A PLANNING RECORD, NOT A WRITING ONE.**
+
+~~**SUPERSEDED 13 OCTOBER 2026 BY THE BLOCK ABOVE. RETAINED IN FULL AS THE RECORD OF THE VOLUME 9 PLANNING PHASE, WHICH WROTE NO PROSE, AND AS THE POSITION AT CHAPTER 400.**~~
+
 
 > **REPAIRED 13 OCTOBER 2026 BY THE REVIEW REPAIR PASS. THE PLAN IS NOT RESTARTED AND THE PLOT IS NOT CHANGED.**
 > A review of the Volume 9 planning phase found nine defects in `outline/volume-09.md`,
@@ -99,8 +281,8 @@ five scenes at 406, 417, 428, 438 and 446.** `outline/ending.md` fixes **rank ni
 
 ### THE STATE OF THE PIPELINE
 
-**THE ONE LIVE PHASE IS `workspace/volume-09/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 401–412.** The
-planning phase that wrote this record has run and created no other phase. **The series is planned past 500. Volume 10
+**THE ONE LIVE PHASE IS `workspace/volume-09/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 413–422.** This batch
+has run and has created no other phase. **The series is planned past 500. Volume 10
 is *Returned* and the ending is Chapter 486. There is no `state/complete.md` and there must not be one.**
 
 ---

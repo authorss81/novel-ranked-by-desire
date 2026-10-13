@@ -1,3 +1,10 @@
+**BATCH 0001 IS WRITTEN. `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` are on disk, 21,491 words counted per file and
+summed. THREE OF THE CARDS BELOW WERE WRONG ON THE PAGE AND ARE CORRECTED IN PLACE, WITH THE CORRECTION PRINTED AT THE CARD:
+405's roll (she signed it on the second), 403's hook (he asks her out loud), and 406's hall (two hundred and eleven, not nine
+thousand). `outline/volume-09.md` §6 movement 1 has been rewritten against the page in the same commit.**
+
+---
+
 # Volume 9 — Batch 0001 cards. Chapters 401–412. The first of April to the twenty-first of April.
 
 **THE CARDS ARE A PLAN AND THE PLAN DOES NOT OUTRANK THE PAGE.** `AGENTS.md`: *a batch that finds a better answer on
@@ -265,7 +272,9 @@ the only thing that ever moved it was eight hands under a page.** The floor does
 June. **No chapter in this batch prints a card or a floor figure other than the two already printed at 400.**
 Beatrix's notebook: six empty lines and one filled with *thirteenth, counter, nine forty-one*.
 
-**Ending hook:** **he asks her, in his own head, whether a man who is out of band can lodge anything at all — and she
+**Ending hook:** **WRITTEN AGAINST THE PAGE AND CORRECTED: HE ASKS HER OUT LOUD, NOT IN HIS OWN HEAD. A PRIVATE QUESTION
+PRODUCED NOTHING BUT THE FLAT REFUSAL; ASKING A WOMAN WHO HAS READ A WALL FOR NINE YEARS IS WHAT PUTS THE VOLUME'S OPENING
+SENTENCE IN SOMEBODY ELSE'S MOUTH.** **he asks her whether a man who is out of band can lodge anything at all — and she
 says the thing that starts the volume: a band is a figure and there is one rank in this city that is not one, and it
 is the one with no card on it.**
 
@@ -343,8 +352,10 @@ refuses the second, and the chapter has to say the difference.** Runa Sato is th
 his own standing order on the thirtieth of October, and she may never be asked for her release from it, and **that
 standing order is not converted into a debt and is never invoited.**
 
-**Ending hook:** **Petra Ilyin says she will sign the roll because a roll is a roll and the queue is not — and on the
-tenth of April she finds him, and Chapter 406 is that.**
+**Ending hook:** **WRITTEN AGAINST THE PAGE AND CORRECTED: SHE SIGNED THE ROLL ON THE SECOND OF APRIL, IN THE HALL, WITH SIX OTHER
+WOMEN, BECAUSE A ROLL IS A ROLL. ON THE EIGHTH SHE REFUSES THE OTHER INSTRUMENT AND SAYS SO HERSELF — a roll is a list and
+this is a chain — AND SAYS SHE WILL COME AND FIND HIM AND WILL NOT LET HIM PICK THE DAY. On the tenth of April she finds him,
+and Chapter 406 is that.**
 
 ---
 
@@ -394,8 +405,10 @@ times.** 358 had three terms on the back of a docket, a kettle with two cups and
 loading bay, two spoken terms and the second of them is not about him.**
 
 **Ending hook:** **she says she is going to ask him one question and does not ask it — whether he has ever had a
-thing done to him that he agreed to and could not get out of — and he has, once, in a hall, in front of nine thousand
-people, and he does not tell her, and she lets it stand.**
+thing done to him that he agreed to and could not get out of — and he has, ONCE, **IN A HALL ON COBB STREET, ON A MORNING IN AN
+AUTUMN HE DOES NOT DATE OUT LOUD, WITH TWO HUNDRED AND ELEVEN PEOPLE IN A ROOM RATED AT TWO HUNDRED AND THIRTY** (`chapter-0141.md:167`,
+`chapter-0146.md:31`) **— THIS CARD'S *NINE THOUSAND* IS WRONG ON THE PAGE AND WAS NOT FOLLOWED; THE HALL WAS NEVER LARGER THAN
+ABOUT TWO HUNDRED AND THIRTY AND THE FOURTH BRANCH DISTRICT IS THE NINE THOUSAND — and he does not tell her, and she lets it stand.**
 
 ---
 
