@@ -104,7 +104,7 @@ There was nothing in it to do anything with. That was the first thing about the 
 
 She undressed the way she does everything: cuffs first, then the collar, then the front of the blouse over her head in one movement, in an order she chose some years ago and has never explained to anybody.
 
-There was ink at the roots of two nails on her left hand, and she had never once mentioned it and did not mention it now. Her coat had twenty-two stitches in the lining that she had done herself in February and the thread had gone white.
+There was ink at the roots of two nails on her left hand, and she had never once mentioned it and did not mention it now.
 
 She was pale and thin and she got onto the bed on her own and waited for him and did not hurry him, and when he was down to nothing she put one hand flat on his chest and pushed him back about four inches and said, "No. Not like that. I have been in a room with a man who did that in November and it was efficient."
 

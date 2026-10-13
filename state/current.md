@@ -1,6 +1,58 @@
-# VOLUME 8 BATCH 0005 HEAD RECORD — 13 OCTOBER 2026. CHAPTERS 391–400 ARE ON DISK. **VOLUME 8 IS WRITTEN. THE NEXT PHASE IS A CLOSE PHASE, NOT A WRITING PHASE.**
+# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
 
-**Read this block before any Volume 9 chapter is written. It is the head record.** Batch 0004's block is immediately
+**THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`.** Batch 0005's head record is
+immediately below it and is retained in full as the position at Chapter 400. **Four rows of that block were false as
+written and are corrected in the audit: the 12-gram row, the 11-gram row, the 8-gram row and the trailing-newline
+claim.** Read the audit's figures and not the gate block's.
+
+## 0. THE POSITION AT CHAPTER 400, AND IT IS WHAT VOLUME 9 OPENS ON
+
+**A MAN WHO IS FIFTEEN UNDER HIS BAND AND OUT OF BAND ON THE FIRST OF APRIL.** The card came down at six on the
+morning of the thirtieth of March and printed a floor of **8,146** and, against premises 34-6-118, the figure
+**8,131**. Fifteen under. Tolerance three, so out of band by twelve. **The two words went up the wall in paint at
+about four the same afternoon, and the wall had said no word about him at all since the thirtieth of December.**
+
+**A REQUISITION THAT CROSSED INTO THE QUARTER WITH THE STANDING OF A ROOM THAT HAS BEEN ONE SHORT SINCE THE TWELFTH
+OF FEBRUARY.** It is in the next quarter and has been since four in the afternoon of the thirtieth of March, with
+everything written on it. **It was never carried, never received and never decided.** What crosses a boundary is
+the standing of the room and not the sheet; the paper stays in the keeping of the room it was laid in. **The
+standing that went was three, because only the Council can restore one and the Council did not sit before the
+first of April.**
+
+**A COMPOSITION THAT MUST BE CERTIFIED FOUR TIMES A YEAR BY A WOMAN WHO HAS BEEN DOING IT SINCE NOVEMBER WITHOUT
+KNOWING SHE WAS APPOINTED.** The fourth block of a carry-forward sheet is printed off the certificate of the
+composition of the thirtieth of November, which is in Sun Meiling's hand. **The account of thirty years is carried
+on a quarter's sheet that goes on the first of April and there is no fifth mark, and the account cannot be closed
+because payment is impossible. He has not told her. She does not know. She cannot be sworn.**
+
+**A FINDING IN A MINUTE IN A COUNTER-FORENSICS DIVISION WITH HIS PREMISES AT THE HEAD OF IT AND HIS NAME IN THE
+FOURTH PART.** The ground on the sheet is a description of premises 34-6-118 made over it on the morning of the
+twenty-seventh of October at about eleven against the head, by a clerk called Imrie, on four words said by him.
+
+**A FOURTH LINE IN A WEEKLY RETURN CARRYING A GUILD BROKER'S NAME.** Marguerite Vale wrote her own name in the
+fourth line in her own hand at about nine on the morning of the twenty-third of March. **It fills no seat, cannot
+be struck by anybody including her, is on no roll in the city, and is the only thing she wants: to be findable.**
+The fourth seat of the room has said *vacant* since the twelfth of February and only the Council can fill it.
+
+**A WOMAN WHO READ FOUR WORDS BACK TO A MAN AT A COUNTER ON THE SECOND FLOOR OF A BUILDING SHE HAS NEVER BEEN
+INSIDE IN HER LIFE.** Mrs Imrie, at eleven minutes on the twenty-fourth, and she would not say whose line the
+words were, because the moment she says it the house becomes an office's way of reaching her.
+
+**A BROTHER IN A ROOM WITH NO WINDOW ON THE THIRD SUB-LEVEL, WHOSE MEDICAL RETURN WAS ADMINISTERED ON THE THIRTIETH
+OF MARCH BY A DOCTOR WHO HAS PROMISED TO SAY NOTHING ELSE.**
+
+**AND FOUR THINGS THAT ARE STILL SHUT AND MUST STAY SHUT.** Wren Kallo's bar has never been tested: she has not
+told him whom and he may not ask, and the standing answer is that she does not know what he is talking about.
+Dagmar Oyelowo has three things and he has broken two of them and kept the first, and there are two people alive
+who know what is in that book and one of them has no gift at all, and he has a floor, a date and a direction and
+no means of getting there. **`outline/ending.md` is untouched; the reservoir is returned in full at 486 and the
+great offer is 486's, and Volume 8 revived neither Wren Kallo's nor Anouk Ferreira's. There is no new final enemy.**
+
+**`PC-28` IS CARRIED FORWARD AND NOT FIXED, WITH ITS REASONS PRINTED IN THE CLOSE AUDIT.**
+
+**VOLUME 9'S SENTENCE ENDS *OR THE ACCOUNT STAYS OPEN*, AND THE ACCOUNT STAYS OPEN.**
+
+**THE BLOCK IMMEDIATELY BELOW IS BATCH 0005'S AND IS SUPERSEDED BY THE CLOSE RECORD ABOVE. Read the close record before any Volume 9 chapter is written.** Batch 0004's block is immediately
 below it and is retained in full as the position at Chapter 390; 0003's and 0002's follow. **Live gates are at the
 top of `state/open-threads.md`, and the live gate block is Batch 0005's. The volume outline is `outline/volume-08.md`
 and its §6 movements 1 to 5 are all now written fact, its §8 is written fact, and its §10 is re-run against 400 title

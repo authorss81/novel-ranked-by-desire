@@ -2,7 +2,7 @@
 
 Beatrix Halm was standing under the north end of the ranks wall twenty minutes short of six on the morning of the thirtieth of March with the notebook already out and her hands cold round the pencil, and she had been there since half past four, because a wall in this city is read in the dark by a woman with a notebook and has been read that way every morning for nine years.
 
-The card comes down at six on the last working day of a quarter. It is put up by a different office in a different hand on different paper, by a boy with a paste brush and a list of numbers, and the boy does not know whose premises he is reading and is not told and does not ask.
+The card comes down at six, and it is not put up by the office that keeps the plate: a different office, a different hand, different paper, and a boy with a paste brush and a list of numbers, and the boy does not know whose premises he is reading and is not told and does not ask.
 
 "Two figures on it," said Beatrix Halm, before it was four inches off the wall.
 
@@ -112,7 +112,9 @@ She was not reading the wall. She was reading the notebook.
 
 She went down the sixty-one at about ten past five with the notebook against her chest.
 
-He went up it at about ten past ten at night with a bad back and a plate of something out of a pot and eight women at a table under a window, and he told them the two figures and he did not say what they meant, and Nadia Ferrous did the sum out loud at the end of it because that is what she does with a number that has arrived in a room, and got fourteen, and was right.
+He went up it at about ten past ten at night with a bad back and a plate of something out of a pot and eight women at a table under a window, and he told them the two figures and he did not say what they meant.
+
+Nadia Ferrous did the sum out loud at the end of it, because there has not been a figure about that address on any counter in this city since the thirteenth of March and there is one now, and she got fourteen, and was right.
 
 The first of April was tomorrow.
 

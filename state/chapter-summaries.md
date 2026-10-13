@@ -11,7 +11,7 @@
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
 | 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** **[AT THE VOLUME CLOSE: a stale 2,560-character Volume 7 fragment — headed `7 | Seven | 301–350`, marked **OPEN**, naming `workspace/volume-07/batch-0003/PROMPT.md` as the live phase prompt — had been glued into the end of this Volume 6 row behind a doubled pipe delimiter, where a phase reading the index for the most recent batch would have found it. Excised. The live Volume 7 row is its own row below.]** |
 | 7 | Seven | 301–350 | **VOLUME CLOSED IN PROSE at Ch 350. Five batches, all written and reviewed. Scenes at 308, 318, 329, 340 and 350 — 308 is Isolde Marchetti's, 318 is Runa Sato's, 329 is Marguerite Vale's, 340 is Ines Duarte's, and **350 is Wren Kallo's and is the volume's last, written out at length and probed.** At 350: **the account of thirty years is CALLED in a chained real book at ten to nine on the first of December and cannot be paid or produced** · **the room where nine people sit is seen from a corridor on the first, requisitions it on the sixth, hears him on the fourteenth, offers him the small way on the seventeenth, and tables a requisition on the twenty-third that five of nine seal and that is voided at the ninth minute because a requisition is laid against a person and there is no person on the sheet** · **a minute in four hands goes out on the twenty-sixth and puts his name in the middle of it** · **on the twenty-ninth he writes four sheets of plain paper in his own hand with his name at the top and lays them into the keeping of that room, and eight of the nine sign under him, and there is a gap in the line where the fourth seat is** · **the quarterly card comes down at six on the thirtieth and prints a floor of 8,145 and puts him at 8,145 on the nose, and for the first time since the thirtieth of July the ranks wall says no word about him at all** · **8,131 for the whole of December and one movement of fourteen points on the last day, and nothing spent, drawn, routed or requisitioned in fifty chapters** · **he is describable, and named, and wanted, and can be requisitioned, and has not been** · **and Wren Kallo has decided to speak to somebody she has not chosen, and the volume ends on her walking out of a door.** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; **no next batch directory and no next prompt: Batch 0005 was the last batch in Volume 7.** **THE ENGINE:** the priced line of the sixteenth of September says seven and was carried at a door because he asked for it in ninety seconds, so a requisition can be laid against the account but not served on anybody · **THE TURN:** he has been band six on paper and five on his plate for five volumes, and at 348 he signs a page with his own name at the top of it and eight other people carry him to the floor of his band · **AND THE LAST IMAGE:** the card says nothing about him at all. Batch 0001 rewrote §6 movement 1, Batch 0002 rewrote movement 2, Batch 0003 rewrote movement 3, and **Batch 0005 rewrote §6 movement 5 and §7 against the page in the same commit that wrote 341–350.** **THE CLOSE AUDIT RAN ON 13 OCTOBER 2026 AND IT IS `reviews/volume-07/volume-close.md`: THE VOLUME'S SENTENCE WAS PAID — he survives classification and the reservoir is never requisitioned — and all five scenes are written out, bodies 1,538 / 2,313 / 1,107 / 1,448 / 1,621 words exclusive of their bounding headings. The volume is 107,477 words, and `cat *.md | wc -w` UNDERCOUNTS IT BY 38 because 39 of the 50 files carry no trailing newline — count per file and sum. Paragraphs over ninety: 0. Markdown violations: 0. System messages: exactly six, in 331, 332, 335, 339, 343 and 349. Banned constructions: 0 of 7. Duplicate paragraphs: 0. The only twelve-gram in the volume is the framed refrain at 344/345. THE AUDIT CORRECTED FOUR RECORD DEFECTS — two stale figures for Ch 350 in the live gate block, one duplicated body detail in Ch 350's prose, and this file's own Volume 7 Batch 0001 heading and index — AND REWROTE NO CHAPTER. The ledger's 124 lines at 350 is CORRECT and must not be reconciled back to 118: the number of lines in the ledger is not the number of lines turned in it.** **THE NEXT PHASE IS `workspace/volume-08/volume-plan/PROMPT.md` — A PLANNING PHASE. IT WRITES `outline/volume-08.md` AND VOLUME 8 BATCH 0001'S CARDS AND NO PROSE. THE SERIES IS NOT OVER AND IS PLANNED PAST 500; VOLUME 8 IS THE BROTHER'S FILE, CHAPTERS 351–400.** |
-| 8 | The Brother's File | 351–400 | **WRITTEN TO CHAPTER 400 AND WAITING ON ITS CLOSE AUDIT. Batch 0001 written and reviewed (351–360, 22,629 words after the review fixes). Batch 0002 written, REVIEWED AND REPAIRED (361–370, 21,971 words). `outline/volume-08.md` §6 movement 1 was rewritten against 351–360 and §6 movement 2 against 361–370, each in the commit that wrote the chapters. Scenes at 358 (Sun Meiling — WRITTEN, body 2,929 words counted and probed) and **369 (Agnete Lindqvist — WRITTEN, body 2,570 words, whole-word probe 36, substring probe 43)**; 380 (Tessa Okonkwo), **388 (Dagmar Oyelowo, IMMOVABLE)** and 398 (Wren Kallo); gaps 8, 11, 11, 8, 10. Ch 372 opens Lin Wei's file and nothing before it may go near it.** At 360: **the account is called TWICE and a called-twice line can be CARRIED FORWARD without a fresh sheet** · **he is at 8,145 on the nose and the wall has said nothing for twenty-six days** · **he wrote a DECLARATION OF HOLDING in his own hand on the twelfth, with no reason clause and no eight words at the foot, and laid it into the room's keeping on the fourteenth at five minutes to eleven, and eight members of that room signed under it** · **a requisition can now be laid at all against a person, for the first time in this book** · **six of the eight women at that address hold a post a division can serve a paper at** · **Alma Quayle's four lines went out on the twenty-sixth, ninety-seven days late, and say that a composition can be lowered by any person keeping that address giving it up at a counter** · **and Sun Meiling has read her own four lines out loud to him and cannot unread them, and Perrin Sowe has asked her for a consult, and there has been no sound from that building for ten days.** At 370: **a filled box is not a requisition — it is a requisition anybody may now write, and it turns out to be a document with no ground in it, which is a document nobody may carry** · **the CARRY-FORWARD COLLISION IS SETTLED ON THE PAGE AT 363, AS CANDIDATE (b), IN HANNEKE RUIS'S MOUTH: a carry-forward sheet carries the figure the line is carried at, his line is carried at eight and priced at seven, and she will not move a figure across a quarter that disagrees with itself — so Movement 4 survives, Nadia's composition drop survives, and the fourth movement is not a procedure loop** · **the cost of that lands on the first of February, not the first of April: the room produced a valuation anyway and it went out of a gate at four in the afternoon to six desks** · **Sun Meiling has declined an attendance in her own building and put her own name at the head of a departmental paper about a transfer that carries no name, and has done three separate things with her own name in three records since the twenty-sixth without him** · **Marguerite Vale's slip reveals that he initialled the priced line of the sixteenth of September himself and has never said so** · **Nadia Ferrous is going to a counter on the fifteenth to give up the address at 34-6-118, and he has asked her for forty-eight hours and does not know what he will do with them** · **Bertram Sallow, the fourth seat, has laid a dated entry in the keeping book declaring the seat vacant** · **and on the twentieth a sheet is read for nine minutes in a room at the end of a corridor, and he has declined nineteen available words and let the ground stand.** The volume sentence: *Lin Hao must find what his brother found and keep the woman who told him, or the only account he has ever had closes on him and he is a man with a number.* **THE WOMAN WHO TOLD HIM IS SUN MEILING.** **Wren Kallo has told a division that keeps no list of addresses and will not say whom and he did not ask.** **THE REVIEW OF BATCH 0002 IS IN `logs/batch-0002.review.log`: EIGHT FINDINGS, ALL FIXED IN THE PROSE, TWO FIXED AGAIN IN `outline/volume-08.md`, PLUS TWO MORE FOUND BY THE REPAIR PASS WHILE RE-RUNNING THE GATE RECORD ITSELF — a scene-probe enumeration that summed to 50 while claiming 43, and a `nobody asked` at 368 that the banned row recorded as zero. No chapter was restarted and no planned plot was changed.** **BATCH 0005 IS WRITTEN (391–400, 20,335 words). THE NEXT PHASE IS `workspace/volume-08/volume-close/PROMPT.md`, A CLOSE PHASE. IT WRITES NO PROSE.** At 400: **the card prints a floor of 8,146 and 8,131 against premises 34-6-118, fifteen under and out of band by twelve, and the two words went up on the wall in paint the same afternoon** · **the fourteen points that went up on the thirtieth of December came back down on the thirtieth of March, and it is the same fourteen, and the cause is on the page: a quarterly card reads a held figure at the composition, and the composition has been seven since the thirteenth of March** · **what crosses a quarter boundary is the standing of the room, which is three, and not the requisition, which was never in danger of expiring** · **the Council did not sit until the first of April, so the fourth seat could not be filled and the requisition crossed with three** · **a guild broker who is on no roll in this city wrote her own name in the fourth line of a weekly return and it fills nothing and cannot be struck** · **the bill for 352 was paid by Mrs Imrie at a counter in eleven minutes** · **Wren Kallo said out loud for the first time that she is the one who spent the woman, and has still not said whom, and there are now two minutes with his name in them that neither he nor she wrote** · **he broke the last of Dagmar Oyelowo's three things** · **and the volume ends on a man with one day left to put eight hands under a page.** |
+| 8 | The Brother's File | 351–400 | **VOLUME CLOSED IN PROSE at Ch 400. FIVE BATCHES, ALL WRITTEN AND REVIEWED, AND THE CLOSE AUDIT HAS NOW RUN. Batch 0001 written and reviewed (351–360, 22,629 words after the review fixes). Batch 0002 written, REVIEWED AND REPAIRED (361–370, 21,971 words). `outline/volume-08.md` §6 movement 1 was rewritten against 351–360 and §6 movement 2 against 361–370, each in the commit that wrote the chapters. Scenes at 358 (Sun Meiling — WRITTEN, body 2,929 words counted and probed) and **369 (Agnete Lindqvist — WRITTEN, body 2,570 words, whole-word probe 36, substring probe 43)**; 380 (Tessa Okonkwo), **388 (Dagmar Oyelowo, IMMOVABLE)** and 398 (Wren Kallo); gaps 8, 11, 11, 8, 10. Ch 372 opens Lin Wei's file and nothing before it may go near it.** At 360: **the account is called TWICE and a called-twice line can be CARRIED FORWARD without a fresh sheet** · **he is at 8,145 on the nose and the wall has said nothing for twenty-six days** · **he wrote a DECLARATION OF HOLDING in his own hand on the twelfth, with no reason clause and no eight words at the foot, and laid it into the room's keeping on the fourteenth at five minutes to eleven, and eight members of that room signed under it** · **a requisition can now be laid at all against a person, for the first time in this book** · **six of the eight women at that address hold a post a division can serve a paper at** · **Alma Quayle's four lines went out on the twenty-sixth, ninety-seven days late, and say that a composition can be lowered by any person keeping that address giving it up at a counter** · **and Sun Meiling has read her own four lines out loud to him and cannot unread them, and Perrin Sowe has asked her for a consult, and there has been no sound from that building for ten days.** At 370: **a filled box is not a requisition — it is a requisition anybody may now write, and it turns out to be a document with no ground in it, which is a document nobody may carry** · **the CARRY-FORWARD COLLISION IS SETTLED ON THE PAGE AT 363, AS CANDIDATE (b), IN HANNEKE RUIS'S MOUTH: a carry-forward sheet carries the figure the line is carried at, his line is carried at eight and priced at seven, and she will not move a figure across a quarter that disagrees with itself — so Movement 4 survives, Nadia's composition drop survives, and the fourth movement is not a procedure loop** · **the cost of that lands on the first of February, not the first of April: the room produced a valuation anyway and it went out of a gate at four in the afternoon to six desks** · **Sun Meiling has declined an attendance in her own building and put her own name at the head of a departmental paper about a transfer that carries no name, and has done three separate things with her own name in three records since the twenty-sixth without him** · **Marguerite Vale's slip reveals that he initialled the priced line of the sixteenth of September himself and has never said so** · **Nadia Ferrous is going to a counter on the fifteenth to give up the address at 34-6-118, and he has asked her for forty-eight hours and does not know what he will do with them** · **Bertram Sallow, the fourth seat, has laid a dated entry in the keeping book declaring the seat vacant** · **and on the twentieth a sheet is read for nine minutes in a room at the end of a corridor, and he has declined nineteen available words and let the ground stand.** The volume sentence: *Lin Hao must find what his brother found and keep the woman who told him, or the only account he has ever had closes on him and he is a man with a number.* **THE WOMAN WHO TOLD HIM IS SUN MEILING.** **Wren Kallo has told a division that keeps no list of addresses and will not say whom and he did not ask.** **THE REVIEW OF BATCH 0002 IS IN `logs/batch-0002.review.log`: EIGHT FINDINGS, ALL FIXED IN THE PROSE, TWO FIXED AGAIN IN `outline/volume-08.md`, PLUS TWO MORE FOUND BY THE REPAIR PASS WHILE RE-RUNNING THE GATE RECORD ITSELF — a scene-probe enumeration that summed to 50 while claiming 43, and a `nobody asked` at 368 that the banned row recorded as zero. No chapter was restarted and no planned plot was changed.** **BATCH 0005 IS WRITTEN (391–400, 20,335 words before the close audit, 20,324 after it).** **VOLUME 8 IS CLOSED IN PROSE AND ITS CLOSE AUDIT RAN ON 13 OCTOBER 2026: `reviews/volume-08/volume-close.md`. THE VOLUME'S SENTENCE WAS **HALF PAID, AND THE VOLUME SAYS SO** — he kept the woman who told him (Sun Meiling, settled at 372 and not re-opened) and he did NOT find one word of what his brother found, because 372 gives a transfer receipt, an index and four lines, there is no name of his anywhere in it, and there was never a place on the form where a name could have gone. THE OTHER HALF COST FOUR THINGS: **on the morning of the thirtieth of March the card printed a floor of 8,146 and, against premises 34-6-118, the figure 8,131 — fifteen under, out of band by twelve — and the two words went up the wall in paint at about four the same afternoon. Fourteen points down for fourteen points up, ninety days apart, and nobody did anything wrong.** All six scenes are written out: 358, 369, 380, 388, 398, and 350, which is Volume 7's and is not continued. The volume is **106,572 words**, 11 fewer than Batch 0005 recorded, and the 11 is the close audit's four prose repairs. Paragraphs over ninety: **0**. Markdown violations: **0**. Bold spans: **0**. System messages: **four**, in 353, 363, 376 and 384. Banned constructions: **0 of 9**. **THE AUDIT CORRECTED FIVE RECORD DEFECTS — including the live gate block's 12-gram row, recorded at 0 and re-run at 30 — AND REPAIRED FOUR SENTENCES OF PROSE: a borrowed body (398 gave Wren Kallo Sun Meiling's twenty-two stitches), 400's opening restating Chapter 391's card rule in 391's words, Nadia Ferrous handed Isolde Marchetti's sentence, and 396 summarising a notice in the twelve words 397 quotes back. No chapter was restructured, no scene was moved, no plot was changed, and no ending was touched.** **`PC-28` IS CARRIED FORWARD AND NOT FIXED, WITH ITS REASONS PRINTED.** **THE FIFTEEN-CHAPTER SCENE BREACH IS DECIDED: THE STRUCTURAL FACT STANDS.** **THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE. IT WRITES NO PROSE.** At 400: **the card prints a floor of 8,146 and 8,131 against premises 34-6-118, fifteen under and out of band by twelve, and the two words went up on the wall in paint the same afternoon** · **the fourteen points that went up on the thirtieth of December came back down on the thirtieth of March, and it is the same fourteen, and the cause is on the page: a quarterly card reads a held figure at the composition, and the composition has been seven since the thirteenth of March** · **what crosses a quarter boundary is the standing of the room, which is three, and not the requisition, which was never in danger of expiring** · **the Council did not sit until the first of April, so the fourth seat could not be filled and the requisition crossed with three** · **a guild broker who is on no roll in this city wrote her own name in the fourth line of a weekly return and it fills nothing and cannot be struck** · **the bill for 352 was paid by Mrs Imrie at a counter in eleven minutes** · **Wren Kallo said out loud for the first time that she is the one who spent the woman, and has still not said whom, and there are now two minutes with his name in them that neither he nor she wrote** · **he broke the last of Dagmar Oyelowo's three things** · **and the volume ends on a man with one day left to put eight hands under a page.** |
 
 > **Volumes 1 to 5 are CLOSED IN PROSE and their per-chapter summaries are at
 > `state/archive/chapter-summaries-v1-v5.md`,** moved there on Batch 0004's review pass because this file had reached
@@ -23,8 +23,9 @@
 > In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
 > account he has ever had closes on him and he is a man with a number**.
 
-**`chapters/volume-08/` EXISTS. Chapters 351–390 are on disk, forty files, 86,248 words counted per file and
-summed** (per-file and concatenated agree; all forty carry exactly one trailing newline). **`outline/volume-08.md` §6
+**`chapters/volume-08/` EXISTS AND IS COMPLETE. Chapters 351–400 are on disk, fifty files, 106,572 words counted
+per file and summed** (per-file and concatenated agree; forty-nine files carry exactly one trailing newline and
+`chapter-0373.md` carries two — recorded and not repaired, at R1 of the close audit). **`outline/volume-08.md` §6
 movements 1, 2, 3 AND 4 have all four been rewritten against the chapters they planned, in the commits that wrote
 them. Movement 2's rewrite SETTLED the carry-forward collision; movement 3's rewrite SETTLED whether a ground can
 be demanded by a subject and whether the woman the volume sentence names is Sun Meiling; **and movement 4's
@@ -44,7 +45,7 @@ PC-37), eight more by Batch 0004 (PC-38 to PC-45), **and a ninth added by Batch 
 (PC-47 to PC-56), which are the volume's closing canon and include the rule that what crosses a quarter boundary is the
 standing of the room and not the requisition, the rule that a quarterly card reads a held figure at the composition,
 and the rule that a member of that room is not the officer who certifies a composition at any address.** The live gate
-block is Batch 0005's.
+block is below in ascending order, and Batch 0005's is the last of the five.
 
 **THE VOLUME SENTENCE:** *Lin Hao must find what his brother found and keep the woman who told him*, or **the
 only account he has ever had closes on him and he is a man with a number.**
@@ -58,346 +59,6 @@ any kind, which is true; counted as EXPLICIT scenes it is 8, 11, 11 and then 380
 the arithmetic that would close it.**
 **Ch 372 opened Lin Wei's file and nothing before it went near it, and that was the batch's irreversible
 decision.**
-
-### Volume 8, Batch 0004 — Chapters 381–390. THE ELEVENTH TO THE TWENTIETH OF MARCH. **WRITTEN. 20,196 WORDS COUNTED PER FILE AND SUMMED BEFORE REVIEW; 20,633 AFTER THE REVIEW PASS OF 13 OCTOBER 2026. VOLUME 8 IS 86,248.**
-
-**THE REVIEW OF 13 OCTOBER 2026 FOUND TWELVE DEFECTS AND REPAIRED ALL TWELVE. NOTHING WAS RESTAGED, NO TITLE CHANGED, NO
-PLOT CHANGED; THE REPAIRS ADDED 437 WORDS. THE FULL RECORD IS `logs/batch-0004.review.log` AND THE LIST IS AT THE HEAD OF
-`state/open-threads.md`. THE FIVE BLOCKING ONES WERE: 390 printing the October list as eight addresses; six wrong
-*yesterday*s at 385 and 386 for a counter visit on the thirteenth; 384 giving the hour as twenty to ten instead of nine
-forty-one; 387 saying eight days when the thirtieth is thirteen out, with 381 and 383's counts also wrong; and 386 saying
-the September initial was made at night. THE SEVEN SECONDARY ONES WERE: 390 saying Nadia Ferrous left the building; 385
-putting the eight words at the foot on the wrong sheet; 387's nine chairs and then fourteen; 385's gap between the third
-name and the fifth; 389's four days; 388's four desk-holders; and 388's *he had promised her three things*, which are
-hers. THE DAY-COUNTING CONVENTION IS NOW FIXED IN THE GATE BLOCK: THIRTY MINUS THE DATE, EXCLUSIVE.**
-
-**381 — The Offer Made At The Kitchen Table.** The eleventh, down the sixty-one at twenty to seven after a dispensary
-floor and five hours' sleep. **Nadia Ferrous does not ask and does not request: she announces the thirteenth and gives the
-reason, which is that a month is thirty days, the carry-forward sheet goes on the first, and she is not doing it on the last
-day of anything.** *She also draws the line between asking a woman and announcing to eight women, and says she did the
-second on purpose.* **HE WANTS TO BE IN THE ROOM AND CANNOT ASK FOR IT, AND THE CHAPTER GIVES THE READER THE REAL REASON
-INSTEAD OF THE STATED ONE: he needs her to WANT it, because an address given up at a counter is only the oldest ordinary
-act in this city while nobody in it wants anything.** Agnete Lindqvist draws the line between a thing and an instrument
-without turning round. **RUNA SATO PRICES THE QUEUE AT ABOUT FOUR IN THE MORNING AND THEN SAYS OUT LOUD AT THAT TABLE THAT
-SHE HAS KNOWN SINCE THE TWENTIETH OF FEBRUARY THAT THE GROUND WAS WREN KALLO'S AND HAS BEEN HOLDING IT FOR A MONTH, AND
-CALLS IT A DEBT.** **Isolde Marchetti rules that he will not be there and orders the annoyance to have a time limit before
-it goes.** Beatrix Halm says she is not writing the thirteenth down and has decided it on the step. **Ending:** there was
-going to be a fifth mark on the first of April and it comes out of a book on a chain, and it does not come out of him.
-
-**382 — The First Time He Refused Her.** The twelfth, a doorway of the Vestry arcade at half past four, nine hundred people
-going past. **She asks him to come with her and he says no, and what he feels about it is relief, which he lets happen to
-him in full because it is the wrong thing to feel and he knows it.** **THE REFUSAL IS NOT TO HER AND NOT TO HER ACT AND NOT
-BECAUSE OF A PROTECTION: IT IS TO BEING ASKED. The stated reason in his own head is that he needs her to want it, and the
-cost of saying so is that a man who says no and then cannot finish his own sentence does not have a floor under him.** He
-gives her the other half of a carried line — administered, not held; answered for every quarter; out of her own hand, in
-her own division, with her name at the top of a sheet somebody else built — and **cannot say by whom.** She does not leave,
-does not forgive it and does not put it down. **SHE TELLS HIM, TO HIM AND TO NOBODY ELSE, WHY SHE STARTED COUNTING ON THE
-FIFTEENTH OF OCTOBER: a hundred and forty people watched his brother say a wrong number out loud and not one of them did
-anything, and she spent five months finding out that the number she had got was not about him.** She tells him where to be
-on the morning of the thirteenth so that he can be somewhere else. He is not going to be there.
-
-**383 — The Address In Her Own Hand.** The thirteenth, a municipal counter on the ground floor of the Vestry, the second of
-the city's two and not the clinic one, at **nine forty-one**. **She is not the head of the household, so the entry is
-taken against her and not against the premises, and the head is unaffected by it — which is why the composition goes to
-seven and not to six.** The slip is cream card, two inches by one: a name, a day and an hour, and nothing else anywhere in
-this city. **THE RULE IN THE FRAME ON THE WALL: an address once given up cannot be undone by anybody including the giver,
-and cannot be taken up again for four years.** **THE ARITHMETIC IS DONE ONCE AND IT IS A HUNDRED AND SEVENTY-SEVEN DAYS —
-fourteen to the end of September, thirty for October, November, December, January and February, and thirteen more — and the
-plan's card said a hundred and sixty-five, which is the figure to the first of March and not to the thirteenth.** He is on
-the fifth floor of the Fourth Branch with a mop in his hand and a queue of nine behind him. **In the evening the eight read
-it one at a time: Sun Meiling puts it down in the same place and says nothing, which from her is a whole speech; Beatrix
-Halm reads it twice and does not open the notebook; Petra Ilyin asks whether it was a public counter and is told yes and
-says *good*; Wren Kallo does not read it until about seven and says it is an ordinary act and that it is the first
-ordinary act anybody at that table has done in five months; Agnete Lindqvist asks for it to be put on her own table rather
-than the common one.**
-
-**384 — A Composition Of Seven.** The fourteenth, down behind the plate office on the same stair as the first of March.
-**THE CARRY-FORWARD SHEET IS DRAFTED, NOT CARRIED, AND IT GOES ON THE FIRST OF APRIL AND IS ADMINISTERED FROM THAT FIRST.**
-Four ruled blocks — figure carried, priced line, composition certified at, and the fourth — **and a form cannot be drafted
-without a certificate, so the fourth block is printed off the certificate of the composition, which is the thirtieth of
-November, which is in SUN MEILING'S HAND.** *She appointed herself in November by doing her job.* **A COMPOSITION IS
-CERTIFIED FOR THE QUARTER IT IS CERTIFIED IN AND IN NO QUARTER LONGER, SO SHE MUST CERTIFY THE COMPOSITION OF HER OWN
-HOUSEHOLD FOUR TIMES A YEAR, in her own division, in her own hand, with her own name at the head of it, for as long as the
-account is open — and the account cannot be closed, because the one thing that closes one is payment and the books that
-would take seven met at seven on the morning of the sixteenth of November.** Solveig Rask says out loud, in front of a
-witness, that a name is the only part of any form in that building that cannot be got at afterwards. **THE IRREVERSIBLE
-DECISION: HE DOES NOT TELL HER. The reason is given to the reader in full and it is that if he asks her she will say yes,
-and an agreed thing is a thing she can be produced against, so the form will arrive at her desk unasked and there will be no
-minute in this city that says he asked. He has asked her for five words in five months and one of them was her brother's
-name.** **The thirtieth of March now has three things on it and she is the third.**
-
-**385 — The Book With A Gap In The Line.** The fifteenth, the Ferrier Street kitchen. **Nadia Ferrous asks for her name to be
-struck off the declaration of holding and it cannot be struck: a witness line is a list of the people who were in a room on
-a date, it is not a list of who lives at an address and it cannot be made into one, because the day it becomes one is the
-day a document can be corrected by whoever is standing nearest to it.** A second declaration would make it worse, because
-superseded is not withdrawn. **THE BILL IS THE REVERSAL OF 383: she gave up an address to get off every paper with that
-address at the head of it, and she is now the eighth name under the only document in this city with his name at the top of
-it, and in four years a stranger will read the line and not the composition.** Runa Sato says the stranger will have two gaps
-in front of him and will pick the one that looks like carelessness. **BEATRIX HALM FILLS ONE OF HER SIX EMPTY LINES AND IT
-SAYS *thirteenth, counter, nine forty-one* AND NO NAME AND NO ADDRESS AND NO FIGURE.** **THE GAP IS THE FOURTH SEAT AND IT
-FALLS BETWEEN THE THIRD NAME AND THE FOURTH.** **And he reads the foot of the OTHER sheet out loud in his own kitchen for
-the first time — *I am the man at the top of this page and I will answer for it* — and says immediately that he is going to
-answer for it and has had since the twenty-ninth of December not knowing how.** **THE REVIEW PASS OF 13 OCTOBER 2026
-FIXED THREE THINGS HERE AND THE CHAPTER NOW OPENS BY PUTTING BOTH SHEETS IN THE SAME KEEPING: the eight words at the foot
-belong to the four sheets of the twenty-ninth of December and not to the declaration of the twelfth, whose foot he left blank
-on purpose in front of eight women because a declaration is not an attestation; the counter visit is the thirteenth and not
-yesterday; and Wren Kallo's refusal now lands on the hole in the line instead of on a record of a repair.**
-
-**386 — The Price Of Two Figures.** The sixteenth, the Vant's smaller rooms and a table Marguerite Vale has not eaten at
-since the autumn before last. **She has done the arithmetic since September and does it off her fingers.** The whole volume's
-figures, once: the sixteenth of September at seven, brought by him, initialled by him on his way out at about half past
-eleven in the morning, not signed by her; fourteen copies in four divisions; the stand of the trade that took it four days
-later; eight certified on the thirtieth of November; seven since nine forty-one on the morning of the thirteenth. **WHAT THE TWO FIGURES WERE DOING FOR A HUNDRED
-AND SEVENTY-SEVEN DAYS WAS NOTHING, because a line that disagrees with itself is evidence of nothing and nobody has ever
-laid a requisition against a holding that will not agree with its own figure. AND WHAT A LINE THAT AGREES WITH ITSELF IS
-WORTH IS THAT ANYBODY HOLDING ONE OF THE FOURTEEN COPIES CAN PRODUCE IT AGAINST ANYBODY — and one of the four divisions
-does not sit in the Wing, keeps no list of addresses, and has had a strip about Ferrier Street since October.** She names it
-and he cannot ask her a question about it. She gives him the slip from the drawer she has not opened since the sixteenth of
-September: the only paper in this business with her name at the foot of it, the only one she can produce, and nobody has
-ever asked her for it. **THE CHAPTER ENDS ON ONE SIMPLE SENTENCE ABOUT ONE WOMAN AND IT IS ABOUT HER.**
-
-**387 — The Standing Time For A Sheet.** The seventeenth, the room at the end of the corridor, **the thirteenth sitting that
-room's clerk has ever numbered**, called by Beatrix Halm from the top step and co-signed by Runa Sato at a Field counter.
-**A sheet is not read until its fourth part is in, and the ground went in at the seventh minute of the twentieth of
-February, so this is the first time the requisition has been read since then.** Nine minutes, and no clock in the room. **AT
-THE SIXTH MINUTE: the fourth part describes that address as at the morning of the twenty-seventh of October with persons
-at a table, and it is the seventeenth of March, and there are seven.** The chair's finding: **a description made at a date
-cannot be false, it can only be old, and the difference between those two things has been in this city longer than anybody
-and it will not be confused in the room's nine minutes.** Runa Sato puts the seventh minute on the table and asks for it to
-be said by a person and it is not said by a person. **Ninth minute: read, questioned, not decided, three standing, not
-carried. AND THEN THE THING THE CHAPTER EXISTS FOR — a live requisition is administered against a composition, and a
-composition that disagreed with its own priced line by one could not be counted, so the holding COULD NOT BE ADMINISTERED FOR
-FOUR MONTHS, AND ON THE THIRTEENTH IT CAN. From the first of April it will be administered by an office that did not apply
-for it.**
-
-**388 — The Intake Desk After Twenty Years. THE SCENE. DAGMAR OYELOWO. IMMOVABLE, ENTERED AT 388, NO GIFT AT ALL, AND THE
-CHAPTER SAYS SO IN ITS OWN WORDS.** The eighteenth, the Ninth Terrace intake hall after the desk has shut at four, one lamp
-on, a book open on a counter, and a woman still there at ten past six **because the book does not get carried.** **SHE HAS
-TAKEN AN INTAKE NINE HUNDRED TIMES A WEEK FOR TWENTY YEARS AND HAS NEVER SCORED ONCE, AND THERE IS NO TILE ON THE BOARD WITH
-HER NAME ON IT AND NO ROLL IN THIS CITY SHE IS ON.** **THREE PLAIN THINGS, AND THEY ARE NOT TERMS BECAUSE SHE HAS NOTHING TO
-TRADE WITH: you will not ask me for the page; YOU WILL NOT WRITE THE FLOOR DOWN; you will not come back up this road about
-it — and she says the third is the real one and the other two are manners.** The book is a ledger of persons taken up to a
-room and not brought down, ruled as a date, a name, a floor and a direction. **THERE ARE FORTY-ONE LINES IN TWENTY YEARS AND
-EVERY ONE OF THEM WENT UP.** Lin Wei is on the eleventh page and **the page does not come off the desk.** She cannot give
-him the page and she tells him the truth anyway: **he came up that stair on his own feet and he was not brought up, and I
-wrote it down, and I have not said that out loud to anybody since the night I wrote it.** She gives him three facts in an
-order, because a fact said in the wrong order sounds like a story. **THE HINGE IS HIS AND NOT HERS: he offers to put her on
-a roll, which is the one thing in this city he can do for a person and the only thing nobody in five months has offered her,
-and she refuses it in one syllable — *I would be legible*.** *Then:* four hundred people have come up that road in twenty
-years, eleven came back a second time to ask her whether she had written it down, and not one has ever asked her about
-herself. **AND THEN SHE SAYS YES, out loud, standing up, in an empty hall, at a volume that would carry to the tram line.
-It is about being wanted at the bottom of the Board by the man who is at the top of it in the only sense that has ever
-mattered to either of them, which is that his name is on a page. She says do not thank me, because there is no instrument
-in this city that can thank a woman and mean it, and she would rather be wanted.* **THE GRAMMAR IS BROKEN ON EVERY AXIS:
-no terms sheet, no counted minute, no kettle, no dark, no shutter rail, no counted responses, no borrowed bodies — the only
-physical claim in the scene is her hands and it is that there is NOTHING on them.** He walks out with a seventh floor, a
-second day of a month, three years ago, and the word up, **and no means of getting there.**
-
-**389 — The Page With One Direction.** The nineteenth, cold, short, and the aftermath. **HE WRITES IT DOWN AND SIGNS IT.**
-Three lines on the back of a delivery docket in pencil at half past five in the morning, and then a fourth line with his own
-name under it, **because a piece of paper about a man in a room is a story until somebody is standing behind it and he had
-asked her to put it nowhere.** He broke her second thing about ninety seconds after making the third. Beatrix Halm finds it
-at ten past six and does not open the notebook. **WREN KALLO SAYS ONE THING AND STANDS WHILE SHE SAYS IT: that is a
-document, it can be produced by anybody who finds it, the only person who can stop that is the person who put his name to
-it, and this is the best-covered table in this city, which is exactly why it is a good place to lose a document.** **HE KEEPS
-THE OTHER TWO. HE DOES NOT GO BACK UP THE WALLED ROAD.** *And he cannot take it to Alma Quayle, and he cannot take it to the
-third floor, because of a standing answer given to him in one sentence in the first week of December, which covers this, and
-he has been extremely good at that for eight years.*
-
-**390 — The Notice Served At Four.** The twentieth, and it is not a requisition. **A return of a counter entry: a slip made
-out at nine forty-one on the morning of the thirteenth has gone into the division that keeps the list of persons keeping an
-address, and that division must send the composition of every address on its list back to that list, once, when it moves.**
-Seven, dated the thirteenth of March, signed for by whoever answers the door. **WHY NINE AND NOT SEVEN, AND THIS IS `PC-46`
-AND THE FIRST DRAFT OF IT WAS WRONG AND THE REVIEW PASS CAUGHT IT: the list of the thirtieth of October is a list of PERSONS
-KEEPING AN ADDRESS AND NOT OF ADDRESSES, it cannot be corrected, withdrawn or unissued, and the counter entry of the
-thirteenth took Nadia Ferrous off the list being made that month and not off the one that went out in October — so eight
-notices go to eight NAMES on an October list, seven of which slept at that address on the night of the twentieth and the
-eighth of which is up the same stair in a room that is not that address, and a ninth goes to the officer who keeps the
-address in her own hand, and all nine are inside one building on Ferrier Street. HER ENVELOPE IS ONE SHE PUT ON THE SHELF
-FACE DOWN AND DID NOT CARRY TO THE TABLE, BECAUSE GIVING UP AN ADDRESS NEVER TOOK HER OUT OF THE HOUSE.** Nine envelopes go
-up sixty-one steps in one bundle on the ordinary delivery round.
-**Sun Meiling brings the ninth back down at about a quarter to seven, puts it in a drawer in her own room tonight, and says
-in advance that she is not telling anybody in that kitchen what she is going to do with it and there is going to be no
-argument about it.** The second copy goes to a public post off a third court at about nine on the morning of the twenty-first,
-in a building where a man sits on the floor above hers, and nobody has asked her anything. **ENDING: THE WALL. Eighty days.
-Twelve weeks. Nothing said since the thirtieth of December, and the card comes down again on the thirtieth at six in the
-morning in the hand of a boy with a paste brush. Ten days to the last working day of the quarter, and three things on that
-day that nobody has asked for, two of them about the same door.**
-
-**WHAT CLOSES IN THIS BATCH:** *the household's composition, and the last instrument that could shield the account,
-spent by one of them, refused by him, and gone ahead without him.* **THE COST, IN THREE PARTS:** **Nadia Ferrous gave up
-an address she had kept for six years to save an account, and by the fifteenth of March her name was under the only
-document in this city with his name at the top of it, and it cannot be got off it** · **Sun Meiling is the administrator
-of a line carried forward for ever, has not been asked, does not know, and cannot be sworn** · **and a man with a floor, a
-date and a direction has written it down, and signed it, and put it on a table under a cloth in a house with eight women
-in it.**
-
-
-### Volume 8, Batch 0003 — Chapters 371–380. THE TWENTY-FIRST OF FEBRUARY TO THE TENTH OF MARCH. **WRITTEN.**
-
-**THE BATCH'S JOB, IN ONE LINE:** a requisition that is live cannot be decided without a paper, and he has bought
-the right to demand that paper, and the paper is a receipt. **AND IT IS THE CHAPTER THAT OPENS LIN WEI'S FILE,
-WHICH IS THE BATCH'S IRREVERSIBLE DECISION AND `outline/series.md`'s STAGE-FOUR COMMITMENT: HE OPENS IT WHILE
-THE REQUISITION IS LIVE, WHICH MEANS THERE IS NO VERSION OF THIS WHERE HE WALKS AWAY.**
-
-**371 — The Sheet That Names Its Own Ground.** The twenty-first. He lodges the ordinary right of a man who has
-been served — demand production of the paper the fourth part is grounded on — in his own hand, at the side table
-by the door, and a clerk writes it into the keeping book and it goes out at four in the ordinary way. **THE
-CHAIR COMES OUT OF THE ROOM FOR THE FIRST TIME IN A CORRIDOR AND ADDS THE HALF HE DID NOT ASK FOR: a ground
-that is not tied to the holding it grounds is a piece of paper about a house, so the holding comes too, and
-whatever the holding stands on.** He has twenty-six days; a demand entered after the thirtieth is a demand in
-the next quarter. The clerk asks the question nobody in that room has asked in twenty years — *what is the
-holding* — and the account of thirty years is written into a book at the end of a corridor for the first time
-in its life. **THE DIVISION THAT HOLDS THE GROUND IS WREN KALLO'S, and he is barred from asking her about it,
-and the room is not.**
-
-**372 — The Receipt That Names A Number. THE FILE OPENS. THE BATCH'S IRREVERSIBLE DECISION.** The twenty-third,
-and it is a production and not a sitting: no vote, no nine minutes. The ground came back on the twenty-second.
-The holding came back on the twenty-third **as a receipt, because a file does not leave the Classification Wing
-and no division in this city sends one out of a sub-level.** *Two hundred and fourteen thousand grains, one
-movement, three years, sealed; source, a held account in the third sub-level, file two thousand two hundred and
-four; destination, file One.* **HIS OWN NAME IS NOT ON IT AND THERE IS NO PLACE ON THAT FORM WHERE A NAME COULD
-HAVE GONE.** He asks for the file it was drawn out of, which is beyond the holding; the chair refuses it for
-four seconds and then grants it — **not for him, but because she will not have a minute in that room in which
-a man served with a sheet was refused the paper it stands on.** He has a number he cannot write down and
-cannot lose. **There is no version of this in which he walks away.**
-
-**373 — A Name He Is Not Looking For.** The twenty-fourth, short, clipped, in the corridor. He asks one
-ordinary question and does not ask for the book, and the book is shown to him. **The second production went to
-two divisions, and the second is named in full: a division that does not sit in the Wing, keeps no list of
-addresses, and was sent a strip about those premises in October — and he has known since the third of January
-that such a division existed and had never been able to find it.** **And under the destination, an address
-cannot be abbreviated, so it is written out in full: premises 34-6-118, service to the person at the head.**
-He opened his brother's file and the first name in it was the woman he has gone up sixty-one steps for since
-September. **HE COULD HAVE ASKED FOR A RECALL AND DID NOT: a subject may demand production and may not demand
-a recall, a recall is a thing a chair may do once and has never done, and every person at that address would
-have been entitled to be told.** In the evening she says she is not going to ask him what the paper was, and
-keeps her own count of the times she has not asked.
-
-**374 — The Four Lines He Was Never Shown.** The twenty-sixth. The index comes back folded into a cover,
-**because an index is the only part of a file a division will let out of a sub-level and nobody has ever
-thought to ask it for one.** Twelve lines, three years. A consult with a one-digit heading; a draft answer of
-four lines initialled in the margin against the fourth; a reply of four lines signed by the responsible
-officer; and eight lines of nothing in three years, which is the part of an index nobody reads out. **He
-demands the reply and learns what production is: read out where it is produced, entered in the minute, and it
-STAYS IN THE ROOM.** It comes on the twenty-eighth and she reads it in the corridor with the door open.
-*A transfer of this shape cannot be answered from the receiving end. A destination is not a question, it is an
-address, and this house does not hold addresses. The matter is filed and not answered. The responsible officer
-asks to be left off the distribution of anything further upon it.* **THEY DO NOT SAY WHAT THE ACCOUNT IS. THEY
-SAY THE OFFICE COULD NOT ANSWER AND STOPPED.** And at the end he works out that the second of those four lines
-is the reason a receipt and not a file came back for his holding five days earlier.
-
-**375 — The Signature Under The Answer.** The twenty-seventh, short. `S.M.` He has seen those three characters
-twice before in his life — the sixteenth of January and the twenty-sixth of February, inside six weeks of each
-other — **and on the second occasion they were against the fourth line of a draft of an answer, which is the
-second line of the index, and not against the reply, which is the third and is signed by the responsible officer
-in his own hand.** **He does not write the number down anywhere: a man who carries a document in his head cannot
-be made to produce it, and he has been extremely good at that for eight years.** He goes up the sixty-one steps
-to tell the one woman he is permitted to tell **and she
-tells him first**: on the twentieth she went up to the third floor with the consult and he stood in the corridor
-outside his own door so that they were both standing, and gave her the answer in four sentences, wrote nothing
-down and offered her nothing to take away. **THE ANSWER SHE HAS AND THE FOUR LINES HE HAS ARE THE SAME ANSWER
-IN TWO SHAPES, one in a minute in a room of nine and one in a woman in a kitchen, and neither of them puts it
-anywhere.** Runa Sato spends her one question of the evening and gets two sentences.
-
-**376 — The Mark In The Same Hand Again.** The first of March. The fourth mark, same hand, same printed rule,
-hour entered at twenty to nine **whether or not there is a man at the rail**. A hundred and sixty-four days
-since the keys changed. **Hanneke Ruis says the whole of it in one sentence and does not improve it: nothing
-has been paid, there is no production off that door, neither will ever change, and the word goes on the first
-of every month until one of them does.** Four is not a decision, four is a morning — **and a valuation sheet
-with four marks on it goes out of a gate at four to six desks, one of which is the counter-forensics desk that
-has just spent three days reading a brother he has never met.** His account and his file are now legible in
-one envelope, and he did that himself on the first of January.
-
-**377 — The Cost Of A Ground In The Minute.** The third. A copy of the production minute reaches the household at
-ten in the morning and eight women read four lines about their own kitchen table. He says the four words were
-his and that he said them because he wanted it cheaper than a door and did not think about anything else.
-**WREN KALLO SAYS THE ONE SENTENCE AND WILL NOT BE ASKED ANYTHING: she went into a drawer on the second of
-February and put the description into a requisition, and did not ask anybody and did not tell anybody, because
-nobody in that room could and she could. She does not say whom she told and he does not ask.** The chapter's
-plain sentence is the price and it is not his: **a counter clerk in the second sub-level wrote four words at a
-kitchen table on the twenty-seventh of October, has never been asked what she meant, and from the third of
-March the people she eats with are going to ask her.** Four copies of one minute exist in about twenty hours,
-made by four sets of hands, and nobody was asked for any of them.
-
-**378 — The Woman Who Recused Herself.** The fifth, at the Classification Wing's second sub-level with Mrs Imrie
-at the counter. Alma Quayle has asked three times and been refused in one word three times and has spent eleven
-days not telling him why. **THE ANSWER IS WORSE THAN *no*: a recusal in that room is not lifted by the chair,
-it is lifted by the subject, and there is no sheet for lifting one, and the chair says *no* because she is not
-the office that can answer it. HE DOES NOT LIFT IT — three reasons, two of them good, and he uses none of
-them.** **AND SHE SAYS HER SENTENCE OF THE NINETEENTH OF OCTOBER OUT LOUD AT HER OWN COUNTER, IN HER OWN
-BUILDING, AND A CLERK WRITES IT INTO A MINUTE**, which is the ordinary record of a division and the one thing a
-stranger with a folder can be given. She did it for him, he did not ask her to, and nothing could have stopped
-her.
-
-**379 — The Standing Of Nine People.** The eighth. **A LIVE REQUISITION IS ADMINISTERED WEEKLY, and administration
-is not a decision and nobody votes on it.** The first return of the eleventh sitting says three: one, two and
-three. Four says *vacant*. Five is recused. Six withdrew her seal on the twenty-third of December. Seven has
-not been in that room since the twenty-third of December. **And under the nine there is a tenth line headed
-*composition of the holding* with an empty ruled box**, because a requisition naming a holding is administered
-against the composition at that address and the last certificate is four months old. **He asks for a recall;
-the clerk explains what a recall is; the chair refuses it**, because a minute in which a subject asked a room
-to unsend its own paperwork is the worst document she has seen in twenty years. **He does not use it.** He
-walks eleven streets with a back he has had since a washroom went wrong in the autumn, and puts his hand on the
-grille of the cage at the Vestry arcade at ten past four, and the grille opens from the other side. **The
-certificate has to be countersigned at the address, by the person at the head of it, in a box on a printed form,
-at a public post in a building with a man on the third floor of it.** He had thought for four months that the
-cheapest thing in Ostara was a woman giving up an address on purpose.
-
-**380 — The One Who Pays For The Holding. THE SCENE. TESSA OKONKWO.** The tenth, at the Vestry after hours, in
-a dispensary with every light up and the shutters open, **because she is not doing this in the dark and says so
-in the first line.** **Three spoken terms, not a sheet, and the third is a standing order about November and
-about four pencil marks on the back of a woman's left hand, and she is the only person in the city who can
-issue it.** **THE HINGE IS A DOCUMENT AND NOT A BODY: a held account's medical return, which comes to her
-clinic every quarter because the Classification Wing has no doctor, and which is headed with a file, a
-sub-level and the words *held account* and no name.** She had had it on her own shelf for three years and read
-it about nine times a year for eleven different reasons and had never once known whose it was. Ten quarters of
-*held, declines maintained*, and a tenth line dated the thirtieth of December in a different hand: *the man is
-held, three years, a quarter shorter than the last and I do not know what that means and I am writing it down
-because I am not going to write down what I think it means.* **THE WORD SHE USES IS NOT *ALIVE*. SHE SAYS
-*HELD*, and held is a legal category, a form, and a room on the third sub-level with no window and a door that
-is not locked from inside, and the next administration is the thirtieth of March and she will see it.** Scene
-body **3,409 words, whole-word probe 38, substring 47**; chapter 4,186. **THE GRAMMAR IS BROKEN AGAIN: no
-terms sheet, no counted minute, no kettle, no dark, no corridor, no lamp, a shutter rail instead of a bench, and
-a doctor who counts her own body's responses out loud.** **ENDING:** on the morning of the thirtieth of March
-this clinic will be sent a return about her patient and a sheet at the end of a corridor will be handed to a
-clerk with a new quarter's number on it, and neither will have been asked for by anybody, and both will be
-about the same door.
-
-**WHAT CLOSES IN THIS BATCH:** *he can never be a man who has not asked.* **THE COST, IN FOUR PARTS:** the
-receipt has his brother's file number on it and his own address under it and his own name nowhere in it; **the
-ground is in a minute and the price is a clerk being asked four words by four people she eats with**; **the
-woman he has to keep has been served a production at a public post and is about to be handed a box on a form
-asking her for a figure about her own house**; and **the best classifier in this city put a sentence of her own
-into a book where nobody can take it back, for him, on a day he did not ask her for.**
-
-### Volume 8, Batch 0002 — Chapters 361–370. THE TWENTY-SEVENTH OF JANUARY TO THE TWENTIETH OF FEBRUARY. **WRITTEN.**
-
-**THE BATCH'S JOB:** a filled box turns out not to be a requisition at all — it is a requisition anybody may now
-write, and a requisition anybody may now write turns out to be a document with no ground in it, which is a
-document nobody may carry. **THE IRREVERSIBLE DECISION IS 370: he lets a ground stand that would have struck the
-sheet out of existence, because a ground is a paper and a paper can be asked for, and that is the only door in
-this book to a file he cannot otherwise reach.** **And the cost is not his: eight women are now inside a minute
-for four years because a clerk described them at his kitchen table on the strength of four words he said to her.**
-
-- **361** — Sun Meiling declines an attendance. A docket under his door with 11.40, DECLINED, and 11.44.
-- **362** — **Marguerite Vale. The priced line of the sixteenth of September carries HIS initial, not her name.**
-- **363** — *Called. Called. Called.* **AND THE CARRY-FORWARD IS REFUSED: a line may not be carried while its
-  composition and its priced line disagree. The quiet is gone and a valuation sheet goes out at four.**
-- **364** — **Perrin Sowe comes down the second-floor corridor for the first time in three years, for a box, and
-  asks Sun Meiling for her name in a doorway.**
-- **365** — The room's arithmetic, and **the ground: the description of the twenty-seventh of October with
-  *because it is cheaper* on it, named by Wren Kallo, who is the division that holds it.**
-- **366** — **Beatrix Halm and Runa Sato call a sitting for the twentieth. It is the eleventh.**
-- **367** — **The fourth seat is named. Bertram Sallow. He queried a return, was right about the figure, was
-  wrong about the week, said so first, and would not sign.**
-- **368** — **Nadia Ferrous offers to give premises 34-6-118 up at a counter, and he asks for forty-eight hours.**
-- **369** — **THE SCENE. AGNETE LINDQVIST. She refuses to give terms at all, and tells him that four hundred
-  people in that quarter believe he is the Office, and that the only proof is a record they have sworn not to
-  believe.**
-- **370** — **The requisition goes live and is not carried. He had one sentence and seven minutes and said
-  nothing. The ground is a description of his own house made at his own table.**
-
 
 ### Volume 8, Batch 0001 — Chapters 351–360. THE FIRST TO THE TWENTY-SIXTH OF JANUARY. **WRITTEN.**
 
@@ -586,6 +247,432 @@ would have let her answer for the file.**
 **THE NEXT PHASE IS `workspace/volume-08/batch-0002/PROMPT.md` — A WRITING PHASE FOR CHAPTERS 361–370.
 THE SERIES IS NOT OVER AND IS PLANNED PAST 500. LIN WEI'S FILE OPENS AT 372. THE RESERVOIR IS RETURNED IN
 FULL AT 486 AND THE GREAT OFFER IS 486'S AND IS NOT WREN KALLO'S AND NOT ANOUK FERREIRA'S.**
+
+### Volume 8, Batch 0002 — Chapters 361–370. THE TWENTY-SEVENTH OF JANUARY TO THE TWENTIETH OF FEBRUARY. **WRITTEN.**
+
+**THE BATCH'S JOB:** a filled box turns out not to be a requisition at all — it is a requisition anybody may now
+write, and a requisition anybody may now write turns out to be a document with no ground in it, which is a
+document nobody may carry. **THE IRREVERSIBLE DECISION IS 370: he lets a ground stand that would have struck the
+sheet out of existence, because a ground is a paper and a paper can be asked for, and that is the only door in
+this book to a file he cannot otherwise reach.** **And the cost is not his: eight women are now inside a minute
+for four years because a clerk described them at his kitchen table on the strength of four words he said to her.**
+
+- **361** — Sun Meiling declines an attendance. A docket under his door with 11.40, DECLINED, and 11.44.
+- **362** — **Marguerite Vale. The priced line of the sixteenth of September carries HIS initial, not her name.**
+- **363** — *Called. Called. Called.* **AND THE CARRY-FORWARD IS REFUSED: a line may not be carried while its
+  composition and its priced line disagree. The quiet is gone and a valuation sheet goes out at four.**
+- **364** — **Perrin Sowe comes down the second-floor corridor for the first time in three years, for a box, and
+  asks Sun Meiling for her name in a doorway.**
+- **365** — The room's arithmetic, and **the ground: the description of the twenty-seventh of October with
+  *because it is cheaper* on it, named by Wren Kallo, who is the division that holds it.**
+- **366** — **Beatrix Halm and Runa Sato call a sitting for the twentieth. It is the eleventh.**
+- **367** — **The fourth seat is named. Bertram Sallow. He queried a return, was right about the figure, was
+  wrong about the week, said so first, and would not sign.**
+- **368** — **Nadia Ferrous offers to give premises 34-6-118 up at a counter, and he asks for forty-eight hours.**
+- **369** — **THE SCENE. AGNETE LINDQVIST. She refuses to give terms at all, and tells him that four hundred
+  people in that quarter believe he is the Office, and that the only proof is a record they have sworn not to
+  believe.**
+- **370** — **The requisition goes live and is not carried. He had one sentence and seven minutes and said
+  nothing. The ground is a description of his own house made at his own table.**
+
+
+
+### Volume 8, Batch 0003 — Chapters 371–380. THE TWENTY-FIRST OF FEBRUARY TO THE TENTH OF MARCH. **WRITTEN.**
+
+**THE BATCH'S JOB, IN ONE LINE:** a requisition that is live cannot be decided without a paper, and he has bought
+the right to demand that paper, and the paper is a receipt. **AND IT IS THE CHAPTER THAT OPENS LIN WEI'S FILE,
+WHICH IS THE BATCH'S IRREVERSIBLE DECISION AND `outline/series.md`'s STAGE-FOUR COMMITMENT: HE OPENS IT WHILE
+THE REQUISITION IS LIVE, WHICH MEANS THERE IS NO VERSION OF THIS WHERE HE WALKS AWAY.**
+
+**371 — The Sheet That Names Its Own Ground.** The twenty-first. He lodges the ordinary right of a man who has
+been served — demand production of the paper the fourth part is grounded on — in his own hand, at the side table
+by the door, and a clerk writes it into the keeping book and it goes out at four in the ordinary way. **THE
+CHAIR COMES OUT OF THE ROOM FOR THE FIRST TIME IN A CORRIDOR AND ADDS THE HALF HE DID NOT ASK FOR: a ground
+that is not tied to the holding it grounds is a piece of paper about a house, so the holding comes too, and
+whatever the holding stands on.** He has twenty-six days; a demand entered after the thirtieth is a demand in
+the next quarter. The clerk asks the question nobody in that room has asked in twenty years — *what is the
+holding* — and the account of thirty years is written into a book at the end of a corridor for the first time
+in its life. **THE DIVISION THAT HOLDS THE GROUND IS WREN KALLO'S, and he is barred from asking her about it,
+and the room is not.**
+
+**372 — The Receipt That Names A Number. THE FILE OPENS. THE BATCH'S IRREVERSIBLE DECISION.** The twenty-third,
+and it is a production and not a sitting: no vote, no nine minutes. The ground came back on the twenty-second.
+The holding came back on the twenty-third **as a receipt, because a file does not leave the Classification Wing
+and no division in this city sends one out of a sub-level.** *Two hundred and fourteen thousand grains, one
+movement, three years, sealed; source, a held account in the third sub-level, file two thousand two hundred and
+four; destination, file One.* **HIS OWN NAME IS NOT ON IT AND THERE IS NO PLACE ON THAT FORM WHERE A NAME COULD
+HAVE GONE.** He asks for the file it was drawn out of, which is beyond the holding; the chair refuses it for
+four seconds and then grants it — **not for him, but because she will not have a minute in that room in which
+a man served with a sheet was refused the paper it stands on.** He has a number he cannot write down and
+cannot lose. **There is no version of this in which he walks away.**
+
+**373 — A Name He Is Not Looking For.** The twenty-fourth, short, clipped, in the corridor. He asks one
+ordinary question and does not ask for the book, and the book is shown to him. **The second production went to
+two divisions, and the second is named in full: a division that does not sit in the Wing, keeps no list of
+addresses, and was sent a strip about those premises in October — and he has known since the third of January
+that such a division existed and had never been able to find it.** **And under the destination, an address
+cannot be abbreviated, so it is written out in full: premises 34-6-118, service to the person at the head.**
+He opened his brother's file and the first name in it was the woman he has gone up sixty-one steps for since
+September. **HE COULD HAVE ASKED FOR A RECALL AND DID NOT: a subject may demand production and may not demand
+a recall, a recall is a thing a chair may do once and has never done, and every person at that address would
+have been entitled to be told.** In the evening she says she is not going to ask him what the paper was, and
+keeps her own count of the times she has not asked.
+
+**374 — The Four Lines He Was Never Shown.** The twenty-sixth. The index comes back folded into a cover,
+**because an index is the only part of a file a division will let out of a sub-level and nobody has ever
+thought to ask it for one.** Twelve lines, three years. A consult with a one-digit heading; a draft answer of
+four lines initialled in the margin against the fourth; a reply of four lines signed by the responsible
+officer; and eight lines of nothing in three years, which is the part of an index nobody reads out. **He
+demands the reply and learns what production is: read out where it is produced, entered in the minute, and it
+STAYS IN THE ROOM.** It comes on the twenty-eighth and she reads it in the corridor with the door open.
+*A transfer of this shape cannot be answered from the receiving end. A destination is not a question, it is an
+address, and this house does not hold addresses. The matter is filed and not answered. The responsible officer
+asks to be left off the distribution of anything further upon it.* **THEY DO NOT SAY WHAT THE ACCOUNT IS. THEY
+SAY THE OFFICE COULD NOT ANSWER AND STOPPED.** And at the end he works out that the second of those four lines
+is the reason a receipt and not a file came back for his holding five days earlier.
+
+**375 — The Signature Under The Answer.** The twenty-seventh, short. `S.M.` He has seen those three characters
+twice before in his life — the sixteenth of January and the twenty-sixth of February, inside six weeks of each
+other — **and on the second occasion they were against the fourth line of a draft of an answer, which is the
+second line of the index, and not against the reply, which is the third and is signed by the responsible officer
+in his own hand.** **He does not write the number down anywhere: a man who carries a document in his head cannot
+be made to produce it, and he has been extremely good at that for eight years.** He goes up the sixty-one steps
+to tell the one woman he is permitted to tell **and she
+tells him first**: on the twentieth she went up to the third floor with the consult and he stood in the corridor
+outside his own door so that they were both standing, and gave her the answer in four sentences, wrote nothing
+down and offered her nothing to take away. **THE ANSWER SHE HAS AND THE FOUR LINES HE HAS ARE THE SAME ANSWER
+IN TWO SHAPES, one in a minute in a room of nine and one in a woman in a kitchen, and neither of them puts it
+anywhere.** Runa Sato spends her one question of the evening and gets two sentences.
+
+**376 — The Mark In The Same Hand Again.** The first of March. The fourth mark, same hand, same printed rule,
+hour entered at twenty to nine **whether or not there is a man at the rail**. A hundred and sixty-four days
+since the keys changed. **Hanneke Ruis says the whole of it in one sentence and does not improve it: nothing
+has been paid, there is no production off that door, neither will ever change, and the word goes on the first
+of every month until one of them does.** Four is not a decision, four is a morning — **and a valuation sheet
+with four marks on it goes out of a gate at four to six desks, one of which is the counter-forensics desk that
+has just spent three days reading a brother he has never met.** His account and his file are now legible in
+one envelope, and he did that himself on the first of January.
+
+**377 — The Cost Of A Ground In The Minute.** The third. A copy of the production minute reaches the household at
+ten in the morning and eight women read four lines about their own kitchen table. He says the four words were
+his and that he said them because he wanted it cheaper than a door and did not think about anything else.
+**WREN KALLO SAYS THE ONE SENTENCE AND WILL NOT BE ASKED ANYTHING: she went into a drawer on the second of
+February and put the description into a requisition, and did not ask anybody and did not tell anybody, because
+nobody in that room could and she could. She does not say whom she told and he does not ask.** The chapter's
+plain sentence is the price and it is not his: **a counter clerk in the second sub-level wrote four words at a
+kitchen table on the twenty-seventh of October, has never been asked what she meant, and from the third of
+March the people she eats with are going to ask her.** Four copies of one minute exist in about twenty hours,
+made by four sets of hands, and nobody was asked for any of them.
+
+**378 — The Woman Who Recused Herself.** The fifth, at the Classification Wing's second sub-level with Mrs Imrie
+at the counter. Alma Quayle has asked three times and been refused in one word three times and has spent eleven
+days not telling him why. **THE ANSWER IS WORSE THAN *no*: a recusal in that room is not lifted by the chair,
+it is lifted by the subject, and there is no sheet for lifting one, and the chair says *no* because she is not
+the office that can answer it. HE DOES NOT LIFT IT — three reasons, two of them good, and he uses none of
+them.** **AND SHE SAYS HER SENTENCE OF THE NINETEENTH OF OCTOBER OUT LOUD AT HER OWN COUNTER, IN HER OWN
+BUILDING, AND A CLERK WRITES IT INTO A MINUTE**, which is the ordinary record of a division and the one thing a
+stranger with a folder can be given. She did it for him, he did not ask her to, and nothing could have stopped
+her.
+
+**379 — The Standing Of Nine People.** The eighth. **A LIVE REQUISITION IS ADMINISTERED WEEKLY, and administration
+is not a decision and nobody votes on it.** The first return of the eleventh sitting says three: one, two and
+three. Four says *vacant*. Five is recused. Six withdrew her seal on the twenty-third of December. Seven has
+not been in that room since the twenty-third of December. **And under the nine there is a tenth line headed
+*composition of the holding* with an empty ruled box**, because a requisition naming a holding is administered
+against the composition at that address and the last certificate is four months old. **He asks for a recall;
+the clerk explains what a recall is; the chair refuses it**, because a minute in which a subject asked a room
+to unsend its own paperwork is the worst document she has seen in twenty years. **He does not use it.** He
+walks eleven streets with a back he has had since a washroom went wrong in the autumn, and puts his hand on the
+grille of the cage at the Vestry arcade at ten past four, and the grille opens from the other side. **The
+certificate has to be countersigned at the address, by the person at the head of it, in a box on a printed form,
+at a public post in a building with a man on the third floor of it.** He had thought for four months that the
+cheapest thing in Ostara was a woman giving up an address on purpose.
+
+**380 — The One Who Pays For The Holding. THE SCENE. TESSA OKONKWO.** The tenth, at the Vestry after hours, in
+a dispensary with every light up and the shutters open, **because she is not doing this in the dark and says so
+in the first line.** **Three spoken terms, not a sheet, and the third is a standing order about November and
+about four pencil marks on the back of a woman's left hand, and she is the only person in the city who can
+issue it.** **THE HINGE IS A DOCUMENT AND NOT A BODY: a held account's medical return, which comes to her
+clinic every quarter because the Classification Wing has no doctor, and which is headed with a file, a
+sub-level and the words *held account* and no name.** She had had it on her own shelf for three years and read
+it about nine times a year for eleven different reasons and had never once known whose it was. Ten quarters of
+*held, declines maintained*, and a tenth line dated the thirtieth of December in a different hand: *the man is
+held, three years, a quarter shorter than the last and I do not know what that means and I am writing it down
+because I am not going to write down what I think it means.* **THE WORD SHE USES IS NOT *ALIVE*. SHE SAYS
+*HELD*, and held is a legal category, a form, and a room on the third sub-level with no window and a door that
+is not locked from inside, and the next administration is the thirtieth of March and she will see it.** Scene
+body **3,409 words, whole-word probe 38, substring 47**; chapter 4,186. **THE GRAMMAR IS BROKEN AGAIN: no
+terms sheet, no counted minute, no kettle, no dark, no corridor, no lamp, a shutter rail instead of a bench, and
+a doctor who counts her own body's responses out loud.** **ENDING:** on the morning of the thirtieth of March
+this clinic will be sent a return about her patient and a sheet at the end of a corridor will be handed to a
+clerk with a new quarter's number on it, and neither will have been asked for by anybody, and both will be
+about the same door.
+
+**WHAT CLOSES IN THIS BATCH:** *he can never be a man who has not asked.* **THE COST, IN FOUR PARTS:** the
+receipt has his brother's file number on it and his own address under it and his own name nowhere in it; **the
+ground is in a minute and the price is a clerk being asked four words by four people she eats with**; **the
+woman he has to keep has been served a production at a public post and is about to be handed a box on a form
+asking her for a figure about her own house**; and **the best classifier in this city put a sentence of her own
+into a book where nobody can take it back, for him, on a day he did not ask her for.**
+
+
+### Volume 8, Batch 0004 — Chapters 381–390. THE ELEVENTH TO THE TWENTIETH OF MARCH. **WRITTEN. 20,196 WORDS COUNTED PER FILE AND SUMMED BEFORE REVIEW; 20,633 AFTER THE REVIEW PASS OF 13 OCTOBER 2026. VOLUME 8 IS 86,248.**
+
+**THE REVIEW OF 13 OCTOBER 2026 FOUND TWELVE DEFECTS AND REPAIRED ALL TWELVE. NOTHING WAS RESTAGED, NO TITLE CHANGED, NO
+PLOT CHANGED; THE REPAIRS ADDED 437 WORDS. THE FULL RECORD IS `logs/batch-0004.review.log` AND THE LIST IS AT THE HEAD OF
+`state/open-threads.md`. THE FIVE BLOCKING ONES WERE: 390 printing the October list as eight addresses; six wrong
+*yesterday*s at 385 and 386 for a counter visit on the thirteenth; 384 giving the hour as twenty to ten instead of nine
+forty-one; 387 saying eight days when the thirtieth is thirteen out, with 381 and 383's counts also wrong; and 386 saying
+the September initial was made at night. THE SEVEN SECONDARY ONES WERE: 390 saying Nadia Ferrous left the building; 385
+putting the eight words at the foot on the wrong sheet; 387's nine chairs and then fourteen; 385's gap between the third
+name and the fifth; 389's four days; 388's four desk-holders; and 388's *he had promised her three things*, which are
+hers. THE DAY-COUNTING CONVENTION IS NOW FIXED IN THE GATE BLOCK: THIRTY MINUS THE DATE, EXCLUSIVE.**
+
+**381 — The Offer Made At The Kitchen Table.** The eleventh, down the sixty-one at twenty to seven after a dispensary
+floor and five hours' sleep. **Nadia Ferrous does not ask and does not request: she announces the thirteenth and gives the
+reason, which is that a month is thirty days, the carry-forward sheet goes on the first, and she is not doing it on the last
+day of anything.** *She also draws the line between asking a woman and announcing to eight women, and says she did the
+second on purpose.* **HE WANTS TO BE IN THE ROOM AND CANNOT ASK FOR IT, AND THE CHAPTER GIVES THE READER THE REAL REASON
+INSTEAD OF THE STATED ONE: he needs her to WANT it, because an address given up at a counter is only the oldest ordinary
+act in this city while nobody in it wants anything.** Agnete Lindqvist draws the line between a thing and an instrument
+without turning round. **RUNA SATO PRICES THE QUEUE AT ABOUT FOUR IN THE MORNING AND THEN SAYS OUT LOUD AT THAT TABLE THAT
+SHE HAS KNOWN SINCE THE TWENTIETH OF FEBRUARY THAT THE GROUND WAS WREN KALLO'S AND HAS BEEN HOLDING IT FOR A MONTH, AND
+CALLS IT A DEBT.** **Isolde Marchetti rules that he will not be there and orders the annoyance to have a time limit before
+it goes.** Beatrix Halm says she is not writing the thirteenth down and has decided it on the step. **Ending:** there was
+going to be a fifth mark on the first of April and it comes out of a book on a chain, and it does not come out of him.
+
+**382 — The First Time He Refused Her.** The twelfth, a doorway of the Vestry arcade at half past four, nine hundred people
+going past. **She asks him to come with her and he says no, and what he feels about it is relief, which he lets happen to
+him in full because it is the wrong thing to feel and he knows it.** **THE REFUSAL IS NOT TO HER AND NOT TO HER ACT AND NOT
+BECAUSE OF A PROTECTION: IT IS TO BEING ASKED. The stated reason in his own head is that he needs her to want it, and the
+cost of saying so is that a man who says no and then cannot finish his own sentence does not have a floor under him.** He
+gives her the other half of a carried line — administered, not held; answered for every quarter; out of her own hand, in
+her own division, with her name at the top of a sheet somebody else built — and **cannot say by whom.** She does not leave,
+does not forgive it and does not put it down. **SHE TELLS HIM, TO HIM AND TO NOBODY ELSE, WHY SHE STARTED COUNTING ON THE
+FIFTEENTH OF OCTOBER: a hundred and forty people watched his brother say a wrong number out loud and not one of them did
+anything, and she spent five months finding out that the number she had got was not about him.** She tells him where to be
+on the morning of the thirteenth so that he can be somewhere else. He is not going to be there.
+
+**383 — The Address In Her Own Hand.** The thirteenth, a municipal counter on the ground floor of the Vestry, the second of
+the city's two and not the clinic one, at **nine forty-one**. **She is not the head of the household, so the entry is
+taken against her and not against the premises, and the head is unaffected by it — which is why the composition goes to
+seven and not to six.** The slip is cream card, two inches by one: a name, a day and an hour, and nothing else anywhere in
+this city. **THE RULE IN THE FRAME ON THE WALL: an address once given up cannot be undone by anybody including the giver,
+and cannot be taken up again for four years.** **THE ARITHMETIC IS DONE ONCE AND IT IS A HUNDRED AND SEVENTY-SEVEN DAYS —
+fourteen to the end of September, thirty for October, November, December, January and February, and thirteen more — and the
+plan's card said a hundred and sixty-five, which is the figure to the first of March and not to the thirteenth.** He is on
+the fifth floor of the Fourth Branch with a mop in his hand and a queue of nine behind him. **In the evening the eight read
+it one at a time: Sun Meiling puts it down in the same place and says nothing, which from her is a whole speech; Beatrix
+Halm reads it twice and does not open the notebook; Petra Ilyin asks whether it was a public counter and is told yes and
+says *good*; Wren Kallo does not read it until about seven and says it is an ordinary act and that it is the first
+ordinary act anybody at that table has done in five months; Agnete Lindqvist asks for it to be put on her own table rather
+than the common one.**
+
+**384 — A Composition Of Seven.** The fourteenth, down behind the plate office on the same stair as the first of March.
+**THE CARRY-FORWARD SHEET IS DRAFTED, NOT CARRIED, AND IT GOES ON THE FIRST OF APRIL AND IS ADMINISTERED FROM THAT FIRST.**
+Four ruled blocks — figure carried, priced line, composition certified at, and the fourth — **and a form cannot be drafted
+without a certificate, so the fourth block is printed off the certificate of the composition, which is the thirtieth of
+November, which is in SUN MEILING'S HAND.** *She appointed herself in November by doing her job.* **A COMPOSITION IS
+CERTIFIED FOR THE QUARTER IT IS CERTIFIED IN AND IN NO QUARTER LONGER, SO SHE MUST CERTIFY THE COMPOSITION OF HER OWN
+HOUSEHOLD FOUR TIMES A YEAR, in her own division, in her own hand, with her own name at the head of it, for as long as the
+account is open — and the account cannot be closed, because the one thing that closes one is payment and the books that
+would take seven met at seven on the morning of the sixteenth of November.** Solveig Rask says out loud, in front of a
+witness, that a name is the only part of any form in that building that cannot be got at afterwards. **THE IRREVERSIBLE
+DECISION: HE DOES NOT TELL HER. The reason is given to the reader in full and it is that if he asks her she will say yes,
+and an agreed thing is a thing she can be produced against, so the form will arrive at her desk unasked and there will be no
+minute in this city that says he asked. He has asked her for five words in five months and one of them was her brother's
+name.** **The thirtieth of March now has three things on it and she is the third.**
+
+**385 — The Book With A Gap In The Line.** The fifteenth, the Ferrier Street kitchen. **Nadia Ferrous asks for her name to be
+struck off the declaration of holding and it cannot be struck: a witness line is a list of the people who were in a room on
+a date, it is not a list of who lives at an address and it cannot be made into one, because the day it becomes one is the
+day a document can be corrected by whoever is standing nearest to it.** A second declaration would make it worse, because
+superseded is not withdrawn. **THE BILL IS THE REVERSAL OF 383: she gave up an address to get off every paper with that
+address at the head of it, and she is now the eighth name under the only document in this city with his name at the top of
+it, and in four years a stranger will read the line and not the composition.** Runa Sato says the stranger will have two gaps
+in front of him and will pick the one that looks like carelessness. **BEATRIX HALM FILLS ONE OF HER SIX EMPTY LINES AND IT
+SAYS *thirteenth, counter, nine forty-one* AND NO NAME AND NO ADDRESS AND NO FIGURE.** **THE GAP IS THE FOURTH SEAT AND IT
+FALLS BETWEEN THE THIRD NAME AND THE FOURTH.** **And he reads the foot of the OTHER sheet out loud in his own kitchen for
+the first time — *I am the man at the top of this page and I will answer for it* — and says immediately that he is going to
+answer for it and has had since the twenty-ninth of December not knowing how.** **THE REVIEW PASS OF 13 OCTOBER 2026
+FIXED THREE THINGS HERE AND THE CHAPTER NOW OPENS BY PUTTING BOTH SHEETS IN THE SAME KEEPING: the eight words at the foot
+belong to the four sheets of the twenty-ninth of December and not to the declaration of the twelfth, whose foot he left blank
+on purpose in front of eight women because a declaration is not an attestation; the counter visit is the thirteenth and not
+yesterday; and Wren Kallo's refusal now lands on the hole in the line instead of on a record of a repair.**
+
+**386 — The Price Of Two Figures.** The sixteenth, the Vant's smaller rooms and a table Marguerite Vale has not eaten at
+since the autumn before last. **She has done the arithmetic since September and does it off her fingers.** The whole volume's
+figures, once: the sixteenth of September at seven, brought by him, initialled by him on his way out at about half past
+eleven in the morning, not signed by her; fourteen copies in four divisions; the stand of the trade that took it four days
+later; eight certified on the thirtieth of November; seven since nine forty-one on the morning of the thirteenth. **WHAT THE TWO FIGURES WERE DOING FOR A HUNDRED
+AND SEVENTY-SEVEN DAYS WAS NOTHING, because a line that disagrees with itself is evidence of nothing and nobody has ever
+laid a requisition against a holding that will not agree with its own figure. AND WHAT A LINE THAT AGREES WITH ITSELF IS
+WORTH IS THAT ANYBODY HOLDING ONE OF THE FOURTEEN COPIES CAN PRODUCE IT AGAINST ANYBODY — and one of the four divisions
+does not sit in the Wing, keeps no list of addresses, and has had a strip about Ferrier Street since October.** She names it
+and he cannot ask her a question about it. She gives him the slip from the drawer she has not opened since the sixteenth of
+September: the only paper in this business with her name at the foot of it, the only one she can produce, and nobody has
+ever asked her for it. **THE CHAPTER ENDS ON ONE SIMPLE SENTENCE ABOUT ONE WOMAN AND IT IS ABOUT HER.**
+
+**387 — The Standing Time For A Sheet.** The seventeenth, the room at the end of the corridor, **the thirteenth sitting that
+room's clerk has ever numbered**, called by Beatrix Halm from the top step and co-signed by Runa Sato at a Field counter.
+**A sheet is not read until its fourth part is in, and the ground went in at the seventh minute of the twentieth of
+February, so this is the first time the requisition has been read since then.** Nine minutes, and no clock in the room. **AT
+THE SIXTH MINUTE: the fourth part describes that address as at the morning of the twenty-seventh of October with persons
+at a table, and it is the seventeenth of March, and there are seven.** The chair's finding: **a description made at a date
+cannot be false, it can only be old, and the difference between those two things has been in this city longer than anybody
+and it will not be confused in the room's nine minutes.** Runa Sato puts the seventh minute on the table and asks for it to
+be said by a person and it is not said by a person. **Ninth minute: read, questioned, not decided, three standing, not
+carried. AND THEN THE THING THE CHAPTER EXISTS FOR — a live requisition is administered against a composition, and a
+composition that disagreed with its own priced line by one could not be counted, so the holding COULD NOT BE ADMINISTERED FOR
+FOUR MONTHS, AND ON THE THIRTEENTH IT CAN. From the first of April it will be administered by an office that did not apply
+for it.**
+
+**388 — The Intake Desk After Twenty Years. THE SCENE. DAGMAR OYELOWO. IMMOVABLE, ENTERED AT 388, NO GIFT AT ALL, AND THE
+CHAPTER SAYS SO IN ITS OWN WORDS.** The eighteenth, the Ninth Terrace intake hall after the desk has shut at four, one lamp
+on, a book open on a counter, and a woman still there at ten past six **because the book does not get carried.** **SHE HAS
+TAKEN AN INTAKE NINE HUNDRED TIMES A WEEK FOR TWENTY YEARS AND HAS NEVER SCORED ONCE, AND THERE IS NO TILE ON THE BOARD WITH
+HER NAME ON IT AND NO ROLL IN THIS CITY SHE IS ON.** **THREE PLAIN THINGS, AND THEY ARE NOT TERMS BECAUSE SHE HAS NOTHING TO
+TRADE WITH: you will not ask me for the page; YOU WILL NOT WRITE THE FLOOR DOWN; you will not come back up this road about
+it — and she says the third is the real one and the other two are manners.** The book is a ledger of persons taken up to a
+room and not brought down, ruled as a date, a name, a floor and a direction. **THERE ARE FORTY-ONE LINES IN TWENTY YEARS AND
+EVERY ONE OF THEM WENT UP.** Lin Wei is on the eleventh page and **the page does not come off the desk.** She cannot give
+him the page and she tells him the truth anyway: **he came up that stair on his own feet and he was not brought up, and I
+wrote it down, and I have not said that out loud to anybody since the night I wrote it.** She gives him three facts in an
+order, because a fact said in the wrong order sounds like a story. **THE HINGE IS HIS AND NOT HERS: he offers to put her on
+a roll, which is the one thing in this city he can do for a person and the only thing nobody in five months has offered her,
+and she refuses it in one syllable — *I would be legible*.** *Then:* four hundred people have come up that road in twenty
+years, eleven came back a second time to ask her whether she had written it down, and not one has ever asked her about
+herself. **AND THEN SHE SAYS YES, out loud, standing up, in an empty hall, at a volume that would carry to the tram line.
+It is about being wanted at the bottom of the Board by the man who is at the top of it in the only sense that has ever
+mattered to either of them, which is that his name is on a page. She says do not thank me, because there is no instrument
+in this city that can thank a woman and mean it, and she would rather be wanted.* **THE GRAMMAR IS BROKEN ON EVERY AXIS:
+no terms sheet, no counted minute, no kettle, no dark, no shutter rail, no counted responses, no borrowed bodies — the only
+physical claim in the scene is her hands and it is that there is NOTHING on them.** He walks out with a seventh floor, a
+second day of a month, three years ago, and the word up, **and no means of getting there.**
+
+**389 — The Page With One Direction.** The nineteenth, cold, short, and the aftermath. **HE WRITES IT DOWN AND SIGNS IT.**
+Three lines on the back of a delivery docket in pencil at half past five in the morning, and then a fourth line with his own
+name under it, **because a piece of paper about a man in a room is a story until somebody is standing behind it and he had
+asked her to put it nowhere.** He broke her second thing about ninety seconds after making the third. Beatrix Halm finds it
+at ten past six and does not open the notebook. **WREN KALLO SAYS ONE THING AND STANDS WHILE SHE SAYS IT: that is a
+document, it can be produced by anybody who finds it, the only person who can stop that is the person who put his name to
+it, and this is the best-covered table in this city, which is exactly why it is a good place to lose a document.** **HE KEEPS
+THE OTHER TWO. HE DOES NOT GO BACK UP THE WALLED ROAD.** *And he cannot take it to Alma Quayle, and he cannot take it to the
+third floor, because of a standing answer given to him in one sentence in the first week of December, which covers this, and
+he has been extremely good at that for eight years.*
+
+**390 — The Notice Served At Four.** The twentieth, and it is not a requisition. **A return of a counter entry: a slip made
+out at nine forty-one on the morning of the thirteenth has gone into the division that keeps the list of persons keeping an
+address, and that division must send the composition of every address on its list back to that list, once, when it moves.**
+Seven, dated the thirteenth of March, signed for by whoever answers the door. **WHY NINE AND NOT SEVEN, AND THIS IS `PC-46`
+AND THE FIRST DRAFT OF IT WAS WRONG AND THE REVIEW PASS CAUGHT IT: the list of the thirtieth of October is a list of PERSONS
+KEEPING AN ADDRESS AND NOT OF ADDRESSES, it cannot be corrected, withdrawn or unissued, and the counter entry of the
+thirteenth took Nadia Ferrous off the list being made that month and not off the one that went out in October — so eight
+notices go to eight NAMES on an October list, seven of which slept at that address on the night of the twentieth and the
+eighth of which is up the same stair in a room that is not that address, and a ninth goes to the officer who keeps the
+address in her own hand, and all nine are inside one building on Ferrier Street. HER ENVELOPE IS ONE SHE PUT ON THE SHELF
+FACE DOWN AND DID NOT CARRY TO THE TABLE, BECAUSE GIVING UP AN ADDRESS NEVER TOOK HER OUT OF THE HOUSE.** Nine envelopes go
+up sixty-one steps in one bundle on the ordinary delivery round.
+**Sun Meiling brings the ninth back down at about a quarter to seven, puts it in a drawer in her own room tonight, and says
+in advance that she is not telling anybody in that kitchen what she is going to do with it and there is going to be no
+argument about it.** The second copy goes to a public post off a third court at about nine on the morning of the twenty-first,
+in a building where a man sits on the floor above hers, and nobody has asked her anything. **ENDING: THE WALL. Eighty days.
+Twelve weeks. Nothing said since the thirtieth of December, and the card comes down again on the thirtieth at six in the
+morning in the hand of a boy with a paste brush. Ten days to the last working day of the quarter, and three things on that
+day that nobody has asked for, two of them about the same door.**
+
+**WHAT CLOSES IN THIS BATCH:** *the household's composition, and the last instrument that could shield the account,
+spent by one of them, refused by him, and gone ahead without him.* **THE COST, IN THREE PARTS:** **Nadia Ferrous gave up
+an address she had kept for six years to save an account, and by the fifteenth of March her name was under the only
+document in this city with his name at the top of it, and it cannot be got off it** · **Sun Meiling is the administrator
+of a line carried forward for ever, has not been asked, does not know, and cannot be sworn** · **and a man with a floor, a
+date and a direction has written it down, and signed it, and put it on a table under a cloth in a house with eight women
+in it.**
+
+
+
+### Volume 8, Batch 0005 — Chapters 391–400. THE TWENTY-FIRST TO THE THIRTIETH OF MARCH, ONE DAY A CHAPTER. **WRITTEN. 20,324 WORDS COUNTED PER FILE AND SUMMED BEFORE THE CLOSE AUDIT; 20,313 AFTER IT.**
+
+**Ten days, ten chapters, the last ten days of the quarter, and the volume ends inside them.** The gate block for
+this batch is `state/open-threads.md`'s live block and **it is now superseded by `reviews/volume-08/volume-close.md`,
+which re-ran every figure in it and corrected four of them.** Do not read this block's clean rows as audited.
+
+- **391 — *The Account And The Quarter.*** Runa Sato in the muster room off Cordwain, on the morning of the
+  twenty-first, puts the quarter arithmetic on the table for nine days running: what crosses a boundary is the
+  standing of the room and not the sheet, the paper stays in the keeping of the room it was laid in, and a clerk
+  with a book moves a sheet and not a chair. `PC-47`. **The room stands at three and that is the figure that
+  crosses on the thirtieth.**
+- **392 — *The Clause He Wrote For Himself.*** On the afternoon of the fifteenth he said a thing out loud at his
+  own kitchen table and Beatrix Halm told him he had said it in a room and not in a corridor. **He demands
+  production of the foot of the four sheets he laid down on the twenty-ninth of December; the chair refuses to
+  have them carried in as adopted and they go out as produced at the demand of the subject.** `PC-55`.
+- **393 — *The Fourth Hand On The Line.*** Marguerite Vale writes her own name in the fourth line of a weekly
+  return in her own hand, at about nine in the morning on the twenty-third, on her own account. **It fills no
+  seat, cannot be struck by anybody including her, is on no roll in the city, and is the only thing she wants:
+  to be findable.** `PC-52`.
+- **394 — *The Man Who Was In The Fourth Seat.*** Why *vacant* has stood in that line since the twelfth of
+  February. A member of that room is not the officer who certifies a composition at any address, the quarterly
+  re-read reads the whole entry aloud including the line under the standing, and **only the Council restores a
+  standing and the Council does not sit before the first of April.** `PC-51`. **The door into four is closed.**
+- **395 — *The Division That Would Use It.*** Counter-forensics, four doors, one card in a holder, and a man who
+  reads a thing out loud in nineteen minutes and was told he would be read back to somebody in about four years.
+- **396 — *The Woman Who Spoke And Was Believed.*** Mrs Imrie at Ferrier Street on the twenty-sixth, who wrote
+  four words down at a kitchen table in October and will not say whose line they were. **She would hand over a
+  name and go home and it would be in a minute by six o'clock.** And on the road, **he breaks the last of Dagmar
+  Oyelowo's three things — the first of the three, not to come back up the walled road about it** — and comes
+  about her and not about his brother, and she says there are two people alive who know what is in that book and
+  one of them has no gift at all, and she says his name for the first time. A seventh floor, three years and one
+  month old, and a direction nothing in this city travels in.
+- **397 — *The Reason She Told It At Last.*** She comes in with her coat on and does not sit down. **The woman
+  Wren Kallo spent is Mrs Imrie, and Wren says so herself: *I gave them a shape… So it cost her.*** And the price
+  was eleven minutes on the twenty-fourth at a counter on the second floor, where she read four words back to a
+  man and then a question under them and then her own answer back. **She still has not said whom she gave it to,
+  and he may not ask.**
+- **398 — *The Shape She Put In A Room.*** **THE VOLUME'S LAST SCENE, IN HIS OWN ROOMS.** One room, one chair, one
+  plate, one knife, a stove that has to be lit at half past five, and a sheet with five terms on it of which one
+  is crossed out. **No description of anybody, no counted minute, no kettle — he has no kettle — and the
+  template broken on all three axes and said so on the page.** After it, in the after, she says that the house at
+  Ferrier Street is hers and has been hers since the first of December and that he is not going to be told
+  anything.
+- **399 — *The Minute That Carries Her Initials.*** The last working day of a quarter is not a day anything
+  happens on. **The fourth line of the quarterly return goes to four divisions on the ordinary stream at four in
+  the afternoon with *Marguerite Vale* in a hand that was not a clerk's**, and an officer who produces a part
+  initials the transmission above it. `PC-54`. Two minutes in this book carry his name and neither he nor Wren
+  Kallo wrote either of them. `PC-56`.
+- **400 — *The Two Words Return.*** **THE CARD.** Beatrix Halm has been at the north end of the ranks wall since
+  half past four with the notebook out and her hands cold. The card comes down at six, put up by a different
+  office in a different hand on different paper by a boy with a paste brush who does not know whose premises he
+  is reading. **It prints a floor of 8,146 and, against premises 34-6-118, the figure 8,131.** Fifteen under.
+  Tolerance three, so out of band by twelve. **The two words went up the wall in paint at about four the same
+  afternoon.** Nothing was spent, there is no fifth mark, and the cause is printed on the card's own rule: a
+  quarterly card reads a held figure at the composition, and the composition has been seven since nine forty-one
+  on the morning of the thirteenth of March.
+
+**THE TWO IRREVERSIBLE DECISIONS OF THE VOLUME FALL HERE.** 392: the only undertaking in this book that was
+written for himself and had never been read by anybody is now a document, and he put it there on purpose on the
+seventh day of the last ten. 396: the last of another woman's three things, broken on purpose, at the cost of
+every road up that hill that does not begin with a woman saying yes.
+
+**THE CLOSE AUDIT RAN ON 13 OCTOBER 2026 AND IT IS `reviews/volume-08/volume-close.md`.** The volume's sentence
+was **half paid and the volume says so**: he kept the woman who told him and did not find one word of what his
+brother found. **The band floor printed 8,146 and his plate printed 8,131 on the same card in the same morning,
+and the two words went up the wall in paint the same afternoon.** Fourteen points down for fourteen points up,
+ninety days apart, and nobody did anything wrong.
+
+**THE AUDIT'S FOUR PROSE REPAIRS, all single sentences or clauses, no chapter restructured:** **398 was giving
+Wren Kallo a coat lining with twenty-two stitches, which is Sun Meiling's and has been since Chapter 241 —
+removed, not moved** · **400 opened by restating Chapter 391's card rule in 391's own words — rewritten so the
+card arrives as an event** · **400 gave Nadia Ferrous Isolde Marchetti's sentence about a number that has
+arrived in a room, verbatim — Nadia keeps the sum and the reason is now her own** · **396 summarised a notice in
+the twelve words 397 quotes back in Wren Kallo's mouth — 396 is now a paraphrase and 397 keeps the quotation.**
+
+**`PC-28` IS CARRIED FORWARD AND NOT FIXED.** Chapter 359 heads a section *The Nine Days* for an interval of
+three days. **Decided at the close audit, with reasons, and it is not to be silently corrected later.**
+
+**THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md` — A PLANNING PHASE. IT WRITES
+`outline/volume-09.md` AND VOLUME 9'S FIRST BATCH CARDS AND NO PROSE. THE SERIES IS NOT OVER AND IS PLANNED PAST
+500. THE RESERVOIR IS RETURNED IN FULL AT 486 AND THE GREAT OFFER IS 486'S AND IS NOT WREN KALLO'S AND IS NOT
+ANOUK FERREIRA'S.**
 
 ---
 

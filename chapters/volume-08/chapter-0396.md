@@ -8,7 +8,7 @@ There was no bundle. She had come about a quarter of an hour and she was going t
 
 "What is it."
 
-"A notice served at the premises. There is a division that does not sit in the Wing and keeps no list of addresses and it has the fourth part of a sheet, which is a description of this address put over it on the morning of the twenty-seventh of October, at about eleven, against the head, and it requires the person who made the entry to attend at the address the entry describes."
+"A notice served at the premises. There is a division that does not sit in the Wing and keeps no list of addresses and it has the fourth part of a sheet, which is a description of this address put over it on the morning of the twenty-seventh of October, at about eleven, against the head, and it requires whoever wrote the entry down to turn up at the house the entry is about."
 
 She said it the way a woman reads out a rule she has been made to learn. "They cannot reach me. They have never been able to reach me. So they have written to the house."
 

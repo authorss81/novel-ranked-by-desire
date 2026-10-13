@@ -1,15 +1,32 @@
-## VOLUME 8 — CHAPTERS 351–400 ARE ON DISK. **VOLUME 8 IS WRITTEN.** THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
-**THIS IS THE LIVE BLOCK.**
+## VOLUME 8 — CHAPTERS 351–400 ARE ON DISK. **VOLUME 8 IS CLOSED AND ITS CLOSE AUDIT HAS RUN.** THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
+**THIS IS THE LIVE BLOCK AND IT NOW OPENS ON THE CLOSE AUDIT'S RESULT.** Batch 0005's block is immediately below it.
+
+## 0. THE CLOSE AUDIT, 13 OCTOBER 2026. `reviews/volume-08/volume-close.md`. **VOLUME 8 IS CLOSED.**
+
+**THE SENTENCE WAS HALF PAID AND THE VOLUME SAYS SO.** He kept the woman who told him — Sun Meiling, settled at 372 and not re-opened — and **he did not find one word of what his brother found**, because 372 gives a transfer receipt, an index and four lines, there is no name of his anywhere in it, and there was never a place on the form where a name could have gone. **The other half cost four things: 8,146 on the card and 8,131 against premises 34-6-118 on the morning of the thirtieth of March, fifteen under and out of band by twelve, and the two words up the wall in paint the same afternoon.**
+
+**THE FOUR NUMBERS THAT ARE NOW THE OPENING POSITION OF VOLUME 9 AND THAT ARE NOT IN ANY TABLE ANYWHERE:**
+
+| | |
+| --- | --- |
+| **His plate** | **8,131. He is fifteen under the band floor and twelve out of band, and the floor does not move again until the thirtieth of June.** |
+| **The band floor** | **8,146 — PRINTED, not inferred. `outline/volume-08.md` §5a's four-point inference is promoted to fact by Ch 400 and is now `PC-50`.** |
+| **What a card is** | **A card is a quarter-end. It prints a floor AND the standing figure of every named premises at that premises' composition at the hour it is read, and it is put up by a different office in a different hand on different paper. The three cards that carry the volume are the thirtieths of September, December and March and the floor rose by exactly one at each: 8,144, 8,145, 8,146.** |
+| **What crosses** | **The standing of the room, which is three, and not the sheet. The paper stays in the keeping of the room it was laid in.** |
+
+**THE FOUR PROSE REPAIRS THE AUDIT APPLIED** (no chapter restructured, no scene moved, no plot changed): 398 no longer gives Wren Kallo a coat lining with twenty-two stitches, which is Sun Meiling's and has been since Ch 241 · 400's opening no longer restates Ch 391's card rule in 391's words · 400 no longer gives Nadia Ferrous Isolde Marchetti's sentence · 396 no longer summarises a notice in the twelve words 397 quotes back in Wren Kallo's mouth. **Volume 8 is 106,572 words.**
+
+**THE THREE DECISIONS THE AUDIT MADE, all in `reviews/volume-08/volume-close.md`:** `PC-28` is **carried forward and not fixed** (C6) · `outline/volume-08.md` §5a's quarterly-card reading is **settled as to the interval and the figure and left open as to the naming, and the remainder is now sharper and is owed to Volume 7** (C7) · the **fifteen-chapter scene breach stands as a fact about the calendar and not about the people** (C5).
+
+**THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE. IT WRITES NO PROSE.**
 
 **`outline/volume-08.md` §6 MOVEMENTS 1, 2, 3, 4 AND 5 HAVE ALL NOW BEEN REWRITTEN AGAINST THE CHAPTERS IN THE
 COMMITS THAT WROTE THEM, and between them they name thirty-four places the plan was wrong on the page. Movement 5's
 rewrite SETTLED both open questions the end of §6 had left for the last batch: whether the requisition can hold
 through the quarter boundary into Volume 9, and whether the ranks wall talks before the end of the thirtieth or only
 on it. §8 is written fact and §10 is re-run against 400 title lines.**
-**THE NEXT PHASE IS A CLOSE PHASE, NOT A WRITING PHASE: `workspace/volume-08/volume-close/PROMPT.md`, which reports
-the volume close, writes `reviews/volume-08/volume-close.md`, and sets up `outline/volume-09.md`. IT WRITES NO PROSE.
-IT IS THE LAST PHASE OF VOLUME 8.**
-**Batch 0005 is 20,345 words counted per file and summed. Volume 8 is 106,593 words long and has fifty chapters.**
+**VOLUME 8 IS CLOSED. THE CLOSE PHASE HAS RUN AND `reviews/volume-08/volume-close.md` EXISTS.**
+**Batch 0005 is 20,324 words counted per file and summed after the close audit's four repairs, 20,335 before them. **Volume 8 is 106,572 words long and has fifty chapters.****
 **Batch 0004's and Batch 0003's blocks are below this one and are retained in full as the positions at Chapter 390 and
 Chapter 380. The live gate block is Batch 0005's and it is at the head of `state/open-threads.md`, where `PC-47` to
 `PC-56` are recorded.**
