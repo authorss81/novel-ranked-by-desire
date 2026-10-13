@@ -1,4 +1,202 @@
-# VOLUME 9 BATCH 0001 — 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–412 ARE ON DISK. THE LIVE PHASE IS
+# VOLUME 9 BATCH 0002 — 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–422 ARE ON DISK. THE LIVE PHASE IS
+# `workspace/volume-09/batch-0003/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 423–432.
+
+**EVERY FIGURE BELOW WAS RE-DERIVED BY COMMAND AFTER THE LAST EDIT TO ANY CHAPTER IN `chapters/volume-09/`. A GATE RECORD IS A
+CLAIM AND THE RE-RUN OUTRANKS THE RECORD; FIVE OF FIVE VOLUME 8 BATCHES CERTIFIED A FIGURE THAT HAD NOT BEEN RE-RUN, AND THIS
+BLOCK IS THE SEVENTH ATTEMPT AT NOT BEING ONE OF THEM.**
+
+**THE BLOCK IMMEDIATELY BELOW THIS ONE IS VOLUME 9 BATCH 0001'S RECORD OF 13–15 OCTOBER 2026 AND IS SUPERSEDED BY THIS ONE AND
+RETAINED IN FULL, INCLUDING ITS REVIEW REPAIR BLOCK. THE 15 OCTOBER REVIEW AND THE 14 OCTOBER REPAIR PASS ARE BELOW THAT AND ARE
+SUPERSEDED BY BOTH. BATCH 0005'S OWN RECORD IS FURTHER DOWN AND IS SUPERSEDED BY ALL FOUR.**
+
+## THE SCANNER, PRINTED SO THE NEXT PHASE CAN RE-DERIVE EVERY FIGURE IN THE DUP ROW
+
+```
+SCOPE       Batch 0002's twelve files, chapters/volume-09/chapter-0413.md .. chapter-0422.md, against every
+             other chapter file in chapters/ — all four hundred and ten — and, for Scan B, against every file in
+             chapters/volume-09/, which includes Batch 0001's twelve and Batch 0002's twelve.
+TOKENISATION  markdown heading marks stripped from the line opening; em/en dashes folded to a space;
+             curly quotation marks folded to ASCII; every character that is not [a-z0-9] after lowering
+             turned to a space; split on whitespace; empty tokens dropped. **Heading lines are therefore NOT
+             excluded from the token stream in the scans — they are lowercased into it — which is what
+             Batch 0001's printed definition said and what reproduced 406's recorded probe of 30 exactly.**
+DIRECTION    a 12-gram is a DIRECTED ROW when the same n-gram appears in a Volume 9 chapter and in at
+             least one earlier chapter file. DISTINCT counts distinct strings. (chapter, source) PAIRS counts
+             distinct pairs. Scan B is a separate, narrower scope: the same n-gram appearing more than once
+             between ANY TWO files of `chapters/volume-09/`, OR TWICE INSIDE ONE FILE.
+```
+
+## THE GATE, AS IT STANDS — RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE
+
+```
+FILES            `ls chapters/volume-09/chapter-*.md | wc -l` -> **24**, numbered 401 to 422 with no gap.
+                 `ls chapters/*/chapter-*.md | wc -l` -> **422.**
+                 **THE SCANNER ABOVE PRINTS "FILES new: 10" AND THAT IS CORRECT AND IS NOT A GAP: the scanner's scope is
+                 Batch 0002's twelve files only, so ten of the twenty-four are outside it. The twenty-four are 401–412 from
+                 Batch 0001 and 413–422 from this batch, and no file is in two batches and no file is in none.**
+BANK 0002        **21,524 words, COUNTED PER FILE AND SUMMED. NEVER `cat *.md | wc -w`.**
+                    413 1,891 · 414 1,953 · 415 1,980 · 416 2,193 · 417 3,793 · 418 2,483 · 419 1,734
+                    420 1,844 · 421 1,710 · 422 1,943
+                  Every file carries exactly one trailing newline, all twelve, checked by command. **Volume 9 is
+                  43,216 words across its twenty-two chapters, 21,692 plus 21,524.**
+TITLES           **422 title lines, 422 distinct, `sort | uniq -d` returns empty.** 413–422 are printed
+                 EXACTLY as banked in `outline/volume-09.md` §10 and every one was compared against that bank by
+                 string match: twelve of twelve. Character lengths 29 / 30 / 34 / 33 / 32 / 31 / 39 / 33 / 30 /
+                 24, which are the lengths in §10, and word counts 7 / 6 / 7 / 7 / 7 / 7 / 8 / 8 / 7 / 6, every
+                 one inside three to twelve. **THE BANK ROW IS UNCHANGED AND NO RE-RUN WAS NECESSIBLE. NOT ONE TITLE
+                 WAS CHANGED BY THIS BATCH.**
+MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0**. **BOLD SPANS 0**,
+                 as Volume 8 used and as Batch 0001 used. **ITALIC SPANS 9** across the twelve, all of them
+                 quoted matter a character reads out loud or reads from a page: *thirteenth, counter, nine
+                 forty-one* and *third of May, table, seven* at 418 · *do not carry it* at 422 · *you have got a
+                 cold hand* at 413 · and four elsewhere. **No emphasis is standing in for a sentence.**
+SYSTEM MESSAGES  **1, IN 414, IN SQUARE BRACKETS, ON ITS OWN LINE, NEVER BOLD, NEVER ITALIC, NEVER A HEADING.**
+                 `[Ledger. One hundred and fifty lines. Ten turned. It is not sorry about either of them.]`
+                 **THIS IS CORRECT AND NOT AN OMISSION. A panel is due in a chapter that turns on the ledger. 414
+                 turns on the ledger and nothing else in 413–422 does. Volume 9 planned two, at 414 and 450, and HAS NOW
+                 SPENT ONE. NO THIRD PANEL IS TO BE WRITTEN IN 401–450.**
+PARAGRAPHS       longest paragraph in the twelve is **88 words** (414). Over roughly 90 words: **0.** Over
+                 roughly 120: **0.** **QUOTATION-MARK PARITY RUN PER PARAGRAPH: 0 paragraphs in all twelve carry an
+                 odd number of quotation marks, so no speech runs across a paragraph break.** This check was run
+                 BEFORE the first split and again after every hand split and again after every later repair.
+WEEKNAMES        **Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0**, all
+                 seven, whole-word and as a substring, by raw lower-cased search, all twelve files. **NINE WERE IN
+                 THE FIRST DRAFTS** — a Wednesday at 414, a Monday and a Sunday at 416, two Mondays and two
+                 Tuesdays at 418, a Tuesday at 419, a Monday and a Tuesday at 421, a Friday at 422 — **and every
+                 one was replaced with a printed date. `bible/terminology.md` and `bible/characters.md` both print
+                 *the Thursday line* and neither was taken.**
+AGES             **0 self-reported ages in the twelve.** No `years old`, no `aged`, no `I am thirty-five`, no
+                 `she is forty-one`. **TWO REAL DEFECTS WERE FOUND AND FIXED IN 417 DURING THIS PASS**: *since I was
+                 seventeen* and *I would like that noted*-adjacent phrasing were both drafted into Nadia Ferrous's
+                 mouth and both were cut, because she is not her age on this page and no partner in this book is.
+                 Spans of years are permitted and eight years of hauling a brake, four months of carrying a song,
+                 nineteen years of a gift, thirty years of an account and eleven years of a clasp are durations,
+                 not ages, and every one of them is on the page as a duration.
+SETTLE           `grep -rio "settle" chapters/volume-09/` -> **0.** One was in the first draft of 413 ("felt his
+                 own account settle nine times") and is now "felt nine of those on his own body".
+RIGHT TEMPLE     `grep -rio "right temple" chapters/` -> **0**, across all four hundred and twenty-two chapters.
+VOLUME CONTAINER **0.** No chapter of 413–422 says *volume one* through *volume nine* in prose. **Four do use the
+                 word as a span — *in nine volumes*, *about four volumes*, *for five volumes*, *in nine volumes* —
+                 which is house idiom and appears on many earlier chapter files and is not a container reference.**
+BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did you know **0**
+                 (the string tested is *little did he know*) · there is no form **0** · there is no column **0** ·
+                 the record remained **0** · nobody asked **0** · nobody was thanked **0**. **NINE OF NINE AT ZERO.**
+                 **THREE WERE IN THE FIRST DRAFTS AND ALL THREE WERE FOUND AND REWRITTEN, NOT MOVED: *There is no
+                 form* at 414 became *There is no sheet for it*; *She did not open the notebook and nobody asked
+                 her to* at 418 became *and she had not been asked to and was not going to be*; and *Nobody asked
+                 this room to do anything and nobody asked me to do anything* at 422 became the flat construction it
+                 now carries. The lesson of Batch 0001 is that a construction is a claim and the claim is
+                 removed, not carried.**
+BAND FLOORS      **NO FLOOR IS PRINTED ANYWHERE IN 413–422.** The only four-figure figure in the twelve is **8,131**,
+                 printed twice, both times at 415, both times about the roll of the second of April. Verified by
+                 grep for `[0-9],[0-9]{3}` and for any four-digit group. **8,146 does not appear in 413–422 and no
+                 card is printed in them. The floor does not move until the thirtieth of June and Chapter 450
+                 prints that card.**
+DUP 12-GRAM      **SCAN A, CROSS-VOLUME: 13 distinct, 13 directed rows, 7 distinct (chapter, source) pairs.**
+                 **ALL THIRTEEN ARE ACCOUNTED FOR AND NONE IS AN ACCIDENT.** Eight are sliding windows over two
+                 deliberate canon refrains — *a consignment is witnessed on the day it is lodged and at the
+                 address of the holding*, which is the instrument's own printed text and is quoted as a document
+                 rather than said as speech, and *an officer of that holding and an officer of a holding is a
+                 person the room can serve*, which is `PC-67`'s canon form and which 411 already acknowledges
+                 repeating on the page. Two are *the room at the end of a corridor off the second landing*, a
+                 fixed administrative noun and not a sentence. Two are Isolde Marchetti quoting her own sentence
+                 of the third of January at 416. One is *it is lodged and it is not entered out on any day*,
+                 `PC-60` in Runa Sato's mouth at 421.
+DUP 11-GRAM      **30 distinct, 30 directed rows, 18 distinct (chapter, source) pairs**, cross-volume scope.
+DUP 8-GRAM       **421 distinct, 445 directed rows, 510 distinct (chapter, source) pairs**, cross-volume scope.
+                 These are the volume's fixed administrative nouns and not sentences.
+DUP, VOLUME ONLY **SCAN B, `chapters/volume-09/` ONLY, BOTH SCANS REQUIRED AND A BATCH IS NOT CERTIFIED ON SCAN A
+                 ALONE: 12-gram **29 distinct** · 11-gram **50** · 8-gram **304**.** All twenty-nine 12-grams are
+                 accounted for: **eight** are windows over `PC-38`'s refrain, *a witness line is a list of the
+                 people who were in a room on a date*, spoken at 418 and 420 and 407 and 410 and 411 and 412,
+                 because it is 385's sentence and `PC-38` fixes the wording; **six** are windows over the
+                 instrument's own printed text; **five** are windows over `PC-67`'s officer sentence, which 411
+                 already acknowledges repeating on the page; **two** are the seven names read aloud twice at 420,
+                 which is the chapter and the reason for it — a clerk reads an entry carrying names into a minute
+                 twice, once for the book and once for the minute, and the point of 420 is the second reading;
+                 **two** are *the room at the end of a corridor off the second landing*; **four** are
+                 *at the address of the holding*, the printed formula of the instrument; and **two** are the fixed
+                 construction *the date it was laid, the date it came in, where it was*, which is what an entry
+                 in a keeping book says. **NONE IS AN UNEXPLAINED VERBATIM LIFT AND NONE IS AN UNINTENDED REPEAT.**
+                 **Batch 0002's first pass was 674 on this row and the cause was a paragraph-reflow tool that
+                 misassigned merged paragraphs and duplicated six chapter tails. The six tails were found by
+                 paragraph-level comparison and TRUNCATED, not rewritten, and the cause is recorded here because
+                 the next phase that runs a reflow pass will hit it.**
+DIRECTED ROWS    **NOT TAKEN AND NOT SUBSTITUTED.** The Volume 8 close audit's directed-rows column is NOT VERIFIED and
+                 is dropped. The three numbers above are derived from the printed definition and the printed
+                 tokenisation, and a later phase that wants one must re-derive it from the same two blocks.
+BORROWED BODIES  Checked against `outline/volume-09.md` §4a BEFORE any body was written, not after. **NO CHAPTER OF
+                 413–422 GIVES ANY WOMAN A MARK SHE DOES NOT ALREADY OWN, AND NO CHAPTER MOVES ONE.** Specifically:
+                 Sun Meiling **does not appear in any of the twelve** and therefore nothing at all is claimed for
+                 her; Nadia Ferrous, Isolde Marchetti, Beatrix Halm, Agnete Lindqvist and Runa Sato are described
+                 by what they are doing, what they say, what their hands do and by furniture in a room, and none
+                 of them is given a scar, a mole, a grey, ink, the yellow, a temple, a nail or a cuticle that §4a
+                 does not already record as hers; Petra Ilyin appears at a kitchen table at 418 and is given no
+                 physical claim of any kind; Wren Kallo's ink and her yellow are **not used at all** in these
+                 twelve and Wren appears in exactly one scene, in her own division, where her hands are on a wire
+                 basket and on a pen, which is an action and not a mark. **THE TEMPLATE AXIS THE BATCH OWED WAS
+                 BROKEN AND THE AXIS IS NAMED ON THE PAGE: at 417 Nadia Ferrous says in her own mouth that she is
+                 not going to tell him one single thing first, that she has read what Petra Ilyin said in the bay,
+                 and that the whole of the terms is the car and herself. That is the terms axis, broken in her
+                 mouth, in writing, in chapter 417, which is the second of the volume's five scenes.**
+SCENE            **Chapter 417 only, and no other. Recorded span, the line `## The Car Going Down` to the line
+                 `## Bottom Of The Shaft`, both heading lines excluded: 2,054 words** against the 900 floor.
+                 **Literal span, the first `##` in the file to the last `##`, heading lines stripped: 2,987
+                 words.** The chapter as a whole is 3,793 words, which is above the 1,800–2,700 band and is
+                 deliberate: **it is a scene chapter, the scene is written out rather than summarised, and the
+                 15 October review of 406 set the precedent for a scene chapter leaving the band, which 406 does
+                 at 3,257.**
+                 **A COUNT IS NOT A PROOF, SO THE PROBE GOES IN THE ROW BESIDE IT.** Explicit-vocabulary probe,
+                 case-insensitive, substring, on the recorded span: mouth 4 · came 9 · hip 4 · thigh 2 · come 4 ·
+                 inside 0 · wet 1 — **24 hits, against 30 at 406 on the same list at 2,072 words.** **THE
+                 DIFFERENCE IS STAGED ON THE PAGE AND NOT AN OMISSION: 417's prose is dialogue-led because the
+                 woman in it narrates everything she does out loud in the voice she uses over a hundred people at
+                 a market end, and 406's was not.** Fade-phrase probe: `went on a long time` 0, `for a while` 0,
+                 `afterwards` 0, `some time later` 0 — **all four at zero, where 406's recorded row had one.**
+                 **THE 417 SCENE IS EXPLICIT AND PHYSICAL AND IS NOT LEXICALLY EXPLICIT IN THE WAY A VOCABULARY
+                 LIST WOULD MEASURE IT, AND THAT IS A TRUE STATEMENT ABOUT THE CHAPTER. NOBODY MAY DESCRIBE 417 AS
+                 HAVING BEEN REPAIRED FOR IT, BECAUSE IT WAS NOT REPAIRED FOR IT: THE ANATOMY, THE MECHANICS AND
+                 THE SOUND WERE WRITTEN THAT WAY IN THE FIRST DRAFT.**
+```
+
+## OPEN ITEMS INHERITED BY VOLUME 9 — TWO OF THEM, AND NEITHER IS CLOSED
+
+**1. THE FIFTEEN-CHAPTER SCENE BREACH BETWEEN CHAPTER 380 AND CHAPTER 398. STILL OPEN. STILL IN THE BOOK. IT IS NOT
+CURED BY ANYTHING IN BATCH 0001 OR BATCH 0002 AND MAY NOT BE DESCRIBED AS CURED BY ANYTHING IN THIS REPOSITORY.**
+`AGENTS.md` sets the limit at fifteen chapters without a scene; 380 to 398 is eighteen. It may not be repaired by moving a scene.
+**What Batch 0002 owes and has paid is only its own count**: 417 is eleven chapters after 406, and 428, 438 and 446 are eleven,
+ten and eight after their predecessors — 8 / 11 / 11 / 10 / 8 on the mixed count **and the same five figures on the explicit
+count**, because `PC-44` puts the only partner with no gift off this volume's schedule entirely and every one of the five is
+explicit. **THE RULE ITSELF REMAINS UNMET FOR 380 TO 398 AND NO FILE IN THIS REPOSITORY MAY SAY OTHERWISE.**
+
+**2. `PC-28`. CARRIED FORWARD AND NOT FIXED, WITH ITS REASONS AT `reviews/volume-07/volume-close.md` AND `reviews/volume-08/volume-close.md`.**
+`chapter-0359.md` heads a section *The Nine Days* for an interval of three days. **No chapter of 401–422 reproduces any figure from
+that section head, and the interval from the sixteenth to the nineteenth of February appears nowhere in the twenty-two.**
+
+## AND THE THREE THIS BATCH CREATED
+
+**He has spent, on a stranger, in a queue, and the count of turned lines is ten (`PC-76`).** **A woman said a number out loud at a
+Field counter and there is now a second head in the city that holds it (`PC-78`).** **A room of five entered a sheet it has been
+holding, on its own initiative, with nobody asked, and the entry went to seven desks and cost Wren Kallo four seconds and a
+memory she will keep for four years (`PC-82`).**
+
+## WHAT A HAND-OFF MUST CARRY, IN ONE PARAGRAPH
+
+**Plate 8,131, printed twice in this batch and no band floor anywhere in it. The room where nine people sit stands at FIVE and the
+fifth is him. A requisition laid on the twentieth of February is capable of being carried, is seventy-nine days old, is not carried
+and is not received and is not decided, and has acquired exactly one entry in its life, on the ninth of May, saying that it is
+held in that room's keeping and not carried, which a clerk may make and nobody may strike. The composition of premises 34-6-118 is
+seven and eight people sleep under it, and the woman who made it seven has said her bill out loud at her own table, and the woman
+who was going to sign it has not signed it. A witness line with seven names and a two-finger gap in it has been read into a minute
+twice, and the box under the space now carries the same word as the box under the fifth line, in the same hand, and **the word is
+still not printed in this repository and `PC-70` still governs it.** Sun Meiling is the officer of that holding and knows it and has
+not been told the rest. The ledger is 151 lines with ten turned, the ninth still himself and the tenth a carter. The Council does not
+sit again until the thirtieth of June, so the room of five cannot be changed by anybody for fifty-three days. The wing off the third
+court has a desk and a woman who has been there nine years and is still not named.**
+
+---
+
+~~# VOLUME 9 BATCH 0001 — 13 OCTOBER 2026. **SUPERSEDED 13 OCTOBER 2026 BY THE BLOCK ABOVE THIS ONE AND RETAINED IN FULL, INCLUDING ITS REVIEW REPAIR BLOCK. IT IS THE RECORD OF CHAPTERS 401–412 AND ITS FIGURES STILL DESCRIBE THOSE TWELVE AND NOT 413–422.** CHAPTERS 401–412 ARE ON DISK.~~
 # `workspace/volume-09/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 413–422.
 
 **EVERY FIGURE BELOW WAS RE-DERIVED BY COMMAND AFTER THE LAST EDIT TO ANY CHAPTER IN `chapters/volume-09/`. A GATE RECORD IS A

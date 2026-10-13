@@ -657,46 +657,244 @@ five — **is gone, and he put it there himself, in about eleven minutes, in a q
    people. It is Cobb Street, two hundred and eleven in a room rated at two hundred and thirty
    (`chapter-0141.md:167`, `chapter-0146.md:31`), and the page governs.**
 
-### Movement 2 — WHAT THE LINE COSTS (411–420). 19 April – 6 May.
+### Movement 2 — WHAT THE LINE COSTS (411–422). 19 April – 9 May. **REWRITTEN 13 OCTOBER 2026 AGAINST THE PAGE BY THE PHASE THAT WROTE 413–422.**
 
-**The promise:** the line is signed, seven of eight, with a gap in it, and a document that names seven women at one
-address on one date is now in the keeping of a room that wanted them before it wanted him.
+**The promise, as the page kept it:** the line is signed, seven of eight, with a gap in it, and a document that
+names seven women at one address on one date is now in the keeping of a room that wanted them before it wanted him.
 
-- **411 (19 Apr). THE HAND THAT DID NOT SIGN. WRITTEN — SEE §6 MOVEMENT 1.** Sun Meiling works out, from the gap and
-  from the ordinary course of her own division, **what she has been certifying four times a year since the thirtieth
-  of November.** **She is not told. She reads it.** This chapter is the volume's first reversal and it is not the
-  reversal anybody expected, and on the page it is also the only chapter in this volume carried entirely by a woman
-  in her own working room, with no form read, no minute produced and no file opened.
-- **412 (21 Apr). THE ROOM STANDS AT FIVE. WRITTEN — SEE §6 MOVEMENT 1.** The first return that carries five, the
-  fourth line and the fifth, and the thing the clerk has to write under the fifth because there has never been a word
-  for it. **On the page the clerk asks what the word means on the same afternoon she wrote it, and is told that the
-  man standing in the corridor does not know either.** The return goes out at half past four to seven desks.
-- **413–416.** The first draw of the volume is made on a stranger (413). **The ledger crosses a number and the
-  panel appears (414 — this is one of the two chapters in the volume where a panel is due, and it is due because
-  the chapter turns on the ledger).** Runa's own price, invoiced and not invoiced (415). Isolde Marchetti sums aloud
-  in a corridor she cannot sing in, and the chapter is about a woman who has been carrying a song since the third of
-  January (416).
-- **417 (1 May). THE SCENE. NADIA FERREROUS.** §4.
-- **418–420.** The household finds out what it has signed. **Four in the morning at a public post** (419). **The
-  clerk who reads a gap aloud, and the return that goes out at four in the afternoon to seven desks, one of which is a
-  wing off a third court (420).**
+**AND THE PAGE ADDED A SECOND PROMISE THAT WAS NOT IN THE PLAN AND NOBODY ASKED FOR:** *the first time in nine
+volumes he spent anything, and he spent it on a man in a queue who had not agreed to it, and the count of turned
+lines went past the number he has never told anybody.* **Movement 2 is about the bill for the line and it is also
+about the bill for the spend, and the two bills are the same bill: every one of them is being charged to a woman
+who is owed relief and has not been asked.**
 
-**WHAT CLOSES IN MOVEMENT 2:** *the line exists and it can be produced against seven women.* **THE COST:** the
-woman who told him in eight volumes found out from a hole where she should have been, and **he still has not told
-her the rest**, and the rest is that the account cannot be closed and she is the officer of it for ever.
+- **411 (19 Apr). THE HAND THAT DID NOT SIGN. WRITTEN BY BATCH 0001 — SEE §6 MOVEMENT 1.**
+- **412 (21 Apr). THE ROOM STANDS AT FIVE. WRITTEN BY BATCH 0001 — SEE §6 MOVEMENT 1.**
 
-### Movement 3 — CAPABLE (421–430). 7–24 May.
+- **413 (23 Apr). A QUEUE OFF THE THIRD COURT. WRITTEN. 1,891 WORDS.** A public post off a third court, a queue
+  eleven long, a counter that shuts at four whatever is in it, and a man in his good hand holding his other hand the
+  way a person holds a hand that has not been right since about the sixteenth. **THE FIRST DRAW OF THE VOLUME, AND
+  IT IS ON A STRANGER.** He does not decide to do it, which is the one thing about the morning he can be certain of
+  afterwards: their hands were not near each other and then they were. What comes out of him makes the man
+  *finished*, not stronger, and costs him four or five seconds of cold in his own palm, and the man says *you have
+  got a cold hand* and nothing else. The stranger has been fed by something: a carter who works a lane two streets
+  from his own front door found an old woman on the ground at two in the morning on the ninth of April and carried
+  her up three floors to a clinic door because that was quicker than waiting for help. **THE LEDGER SAYS ONE HUNDRED
+  AND FORTY-NINE AND TEN OF THEM ARE TURNED, THE NINTH IS STILL HIMSELF, AND THE TENTH HAS A FACE ON IT.** **THE
+  BATCH'S FIRST IRREVERSIBLE DECISION AND THE FIRST SPEND OF THE VOLUME**, and what cannot be undone is not the
+  money and not the five seconds of cold: it is that a man met him in a queue, was given back something that had
+  been owed since the ninth of April, and never agreed to a single part of it. It ends on what a turned line is
+  for, and a turned line is not a punishment. It is a door somebody will open one day in an ordinary way, with an
+  ordinary reason, by somebody who is only being careful.
+- **414 (25 Apr). THE LEDGER CROSSING A NUMBER. WRITTEN. 1,953 WORDS. THE FIRST OF THE VOLUME'S TWO SYSTEM PANELS,
+  AND IT IS BECAUSE THE CHAPTER TURNS ON THE LEDGER.** The book says one hundred and fifty where it said one hundred
+  and forty-nine on the twenty-third, and it does not make a sound. **THE PANEL IS `[Ledger. One hundred and fifty
+  lines. Ten turned. It is not sorry about either of them.]`, ON ITS OWN LINE, IN SQUARE BRACKETS, AND IT IS
+  INCOMPLETE BY DESIGN BECAUSE THE RESERVOIR'S ACCOUNTING REPORTS IN PEOPLE AND NEVER IN ACTS.** The chapter is about
+  two numbers and about the fact that he had been managing the wrong one for five years: a hundred and forty-nine
+  was a number that rose when he worked, and he had been watching it the way a man watches a tap he knows is
+  running. **THE DECISION: he goes to a Field counter on the corner of Cordwain at half past five on the evening of
+  the twenty-fifth, with about ninety people going past it and four clerks behind her, and says the number out loud.**
+  She refuses to write it down, and then makes him say it a second time so that it cannot afterwards be called a
+  slip of the tongue. **A fact in two people's heads and a fact in a book are about nine years apart and there is no
+  instrument that moves a fact out of a head.**
+- **415 (27 Apr). THE STANDING ORDER SHE WILL KEEP. WRITTEN. 1,980 WORDS.** A loading bay off Cordwain at about
+  twenty past five on the evening of the twenty-seventh. **RUNA SATO PRICES HER OWN CERTIFICATION OUT LOUD AND THEN
+  REFUSES TO INVOICE IT**, which is the chapter's whole engine: she writes the price on a sheet she ruled herself,
+  holds it for about four minutes, folds it once and puts it in her coat, and it goes home into a drawer, because a
+  thing that is priced and not invoiced has not happened to anybody and every office that could receive it would have
+  to take her name as well. **THE STANDING ORDER AND THE NOTE ARE PUT SIDE BY SIDE AND THEY ARE SIX DAYS APART —
+  THE TWENTY-SEVENTH IS HERS, IN HER OWN NAME, REASON BOX BLANK ON PURPOSE — AND THE THIRTIETH IS A NOTE IN HIS
+  HANDWRITING THAT HAS NEVER BEEN FILED ANYWHERE AND THAT NO LIVING SOUL HAS SEEN BUT THE TWO OF THEM.** She names
+  the difference between a standing order and a promise and says he is not going to be thanked, and she says what
+  her face will be doing about it in four months in a kitchen with eight people in it. **AND THE CHAPTER'S REVERSAL
+  IS A FIGURE: THE COMPOSITION SHE IS GOING TO SIGN IS SEVEN, AND SEVEN IS A BILL SHE DID NOT PAY AND ONE WOMAN
+  DID, ALONE, AT A COUNTER, IN NINE MINUTES, ON THE THIRTEENTH OF MARCH, AND THERE ARE EIGHT PEOPLE UNDER THAT ROOF
+  TONIGHT.** She will not sign a figure that is a bill. She names the one other woman who could put a name at the
+  head of that composition, says the name once, and says she is not going to say it again, and the chapter ends on
+  the fact that there is no other one.
+- **416 (29 Apr). THE SINGER WHO CANNOT SING HERE. WRITTEN. 2,193 WORDS.** The back corridor behind the Bellhouse:
+  nine worn steps, four doors and a fire door with a bar on it, and a song that goes down a corridor into rooms the
+  singer cannot see into. **A CORRIDOR IS NOT A ROOM. A CORRIDOR IS A ROAD BETWEEN ROOMS, AND YOU CANNOT SING IN A
+  ROAD, BECAUSE A ROAD GOES SOMEWHERE.** She sums aloud in it, and the sums are safe, because **nobody agrees with
+  arithmetic — you check it** — which is why a kitchen table agrees with nothing and why nine months of this
+  household doing sums at that table has never once moved anybody. **THE SONG IS NINE SECONDS, ON A NURSERY-COUNT
+  TUNE, CARRIED SINCE THE THIRD OF JANUARY, SET FOR THE FIRST OF APRIL, AND NOT DONE ON THE FIRST OF APRIL, because
+  she has not been waiting for a day. She has been putting the day off every time the day got here.** And the
+  chapter names, in one line, that this is not the song that went out in October, so that the register item at §7 is
+  not touched and is not touched by anybody. **SHE SINGS IT IN THE CORRIDOR AND NOTHING COMES BACK UP THE STAIR, AND
+  BY THE TIME HE UNDERSTANDS WHY, IT IS ALREADY THE SECOND IRREVERSIBLE ACT OF THE BATCH AND THE WORST ONE: FOR NINETEEN
+  YEARS HER GIFT HAS BEEN CALLED LOCAL, AND LOCAL IS NOT A DISTANCE. IT IS A FENCE, AND SHE HAS PUT IT WHERE THE
+  WALLS ARE, AND NOBODY HAS EVER SHOWN HER WHERE THE WALLS ARE. SOMEWHERE WITHIN TWO HUNDRED YARDS A ROOM SHE CANNOT
+  NAME HAS AGREED WITH NINE SECONDS THAT WERE NOT IN IT.**
+- **417 (1 May). THE SCENE. NADIA FERREROUS. WRITTEN AND OUT IN FULL. 3,793 WORDS; SCENE BODY 2,054 ON THE RECORDED
+  SPAN `## The Car Going Down` TO `## Bottom Of The Shaft` EXCLUSIVE OF BOTH, AND 2,987 ON THE LITERAL
+  FIRST-`##`-TO-LAST-`##` SPAN; PROBE 24 AGAINST 30 AT 406 ON THE SAME LIST.** A lift between the Vestry arcade and
+  the clinic level, four floors, about forty seconds, stopped in the middle of the shaft the way it was once before.
+  **SHE IS NOT IMPAIRED AND SHE SAYS SO IN HER OWN MOUTH BEFORE ANYTHING ELSE HAPPENS IN THE ROOM, AND THE AXIS IS
+  BROKEN AND NAMED ON THE PAGE: SHE GIVES NO TERMS AT ALL.** There is no list, no paper and nothing to write down,
+  and she says she has read what Petra said in the bay and is not doing it, and she tells him he will have to work it
+  out. **HER GIFT ARRIVES FIRST AND IS NOT THE MECHANISM OF ANYTHING:** distance folds downward, so the car is about
+  four inches narrower on each side by the time it stops, and she has never been at the top of one in her life. **She
+  says the thing she has been wanting to say out loud since a stopped lift in the first year of knowing him and she has
+  never once said it to him because every time she came near it he was busy being careful at her.** She goes up one
+  floor at the end and it takes ninety seconds and costs her a day and a half, and she told him about that before
+  anything happened. **HER ENDING BEAT IS HERS AND IT IS NOT A QUESTION ABOUT HIM:** she prices her own bill out loud
+  in the car, and the bill is not the address, which she gets back in four years. The bill is that the paper says
+  seven and eight of us sleep under this roof, and she took us to seven at nine forty-one in the morning by herself,
+  and now she is going to be the reason for the rest of her life, and nobody is ever going to ask her about it and
+  she is not going to want to be.
+- **418 (3 May). NINE WOMEN AND A WITNESS LINE. WRITTEN. 2,483 WORDS.** The kitchen at Ferrier Street at about half
+  past eight on the evening of the third, and **Beatrix Halm, who cannot hear a single person at that table and who
+  has not been able to for two years, puts her hand flat on the wood at about twenty past nine and says the thing she
+  has been not saying for thirteen days**: a sheet went down off this address at four on the afternoon of the
+  twentieth with seven names on it and a space in the middle of it, and it has not come back, and nothing has come up
+  that corridor in thirteen days, and in this house everything that goes down a chain comes back up it inside four
+  days. **SHE DOES NOT OPEN THE NOTEBOOK AND NOBODY ASKS HER TO, AND BY THE END OF THE CHAPTER SHE HAS WRITTEN TWO
+  LINES IN IT IN ONE SITTING FOR THE FIRST TIME IN NINE YEARS AND THERE IS SOMETHING UNDER BOTH OF THEM.** Runa Sato
+  does the arithmetic nobody had done: two documents, made on two days for two reasons, and they have been quietly
+  welded together since the thirteenth of March. **THE SEVEN WHO SIGNED ARE SEVEN OFFICERS OF THE HOLDING, THE SPACE
+  IS THE ONLY THING IN THIS CITY STANDING BETWEEN ANY OF THEM AND A ROOM OF FIVE, AND IT IS HERS.** Isolde does the
+  other sum and says the two sevens are the same figure and have nothing to do with each other. **AND THEN NADIA
+  FERROUS PRICES HER BILL OUT LOUD AT THAT TABLE FOR THE FIRST TIME, AND RUNA SATO DOES NOT GO ON THE TWENTY-EIGHTH.**
+  That is the chapter's real event and the second cost the batch spends: a woman who had decided something on the
+  twelfth of April at four in the morning un-decides it at a kitchen table because the woman who paid the bill named
+  it, and it costs Runa a record at a Field office and it costs Nadia the only thing she had left to keep to herself.
+- **419 (4 May). FOUR IN THE AFTERNOON, TO SEVEN DESKS. WRITTEN. 1,734 WORDS.** He puts the only question a member
+  of that room is entitled to put — *where does the sheet go* — and the clerk gives him all seven and says out loud
+  that the seventh has never been named. **HE GOES AND FINDS IT. THE WING IS NOT EMPTY.** A corridor with six doors
+  and a glazed counter on the ground floor of a building four storeys high, and a woman who has been at that desk for
+  nine years and who tells him, without being asked anything, that it is the first thing with an address at the top of
+  it that has gone up that stair in twenty years. **A WING IS NOT A DIVISION AND NOTHING CAN BE SERVED THERE; IT IS ON
+  THE STREAM BECAUSE THE STREAM GOES THROUGH IT.** And the return on the same run says five, and it is the first
+  figure about that room to have gone there in twenty years, and she has never been told the room stood at three. The
+  chapter ends on the fact that the first thing that saves him and the third thing that endangers a woman at his own
+  address are now in three separate rooms and there is no copy, no receipt, no index and no way out of any of them.
+- **420 (6 May). THE CLERK WHO READS A GAP ALOUD. WRITTEN. 1,844 WORDS. `PC-72`'s CHAPTER.** The witness line came
+  up the chain on the fifth and was in the keeping book before noon on the sixth, and at about four in the afternoon
+  the clerk read the whole of it into a minute, twice, because that is what she does with an entry that carries
+  names, and a gap in a line was read out loud by somebody in this city for the first time. **SHE IS NOT WRONG ABOUT
+  IT. A SPACE IS NOT A HOLE; A HOLE IS WHERE PAPER IS MISSING AND A SPACE IS WHERE A PERSON WOULD STAND AND DOES
+  NOT.** Nobody asks why. A member may not ask the room to do anything, the person who put the gap there cannot be
+  asked what it was, and he has four people he could not ask and says on the page that he is not going to break the
+  one he gave on the sixth of December merely because he has started to want to. **AND THE REVERSAL IS THE WORST ONE
+  IN THE BATCH SO FAR: THE SPACE UNDER THE LINE HAS A BOX UNDER IT, THE SPACE HAD BEEN BLANK FOR NINETEEN YEARS, AND
+  A CLERK FILLS A SPACE — SO SHE WRITES THE SAME WORD UNDER THE GAP THAT SHE WROTE UNDER THE FIFTH LINE ON THE
+  FIFTEENTH, IN THE SAME HAND, AND SAYS IT ALOUD, AND THE CHAPTER DOES NOT PRINT IT.** There are now two of that word
+  in two books about eleven hundred feet apart and neither of them can be read by anybody, including the two of them.
+- **421 (7 May). THE WEEK IT COULD BE CARRIED. WRITTEN. 1,710 WORDS.** The kitchen at Ferrier Street on the evening of
+  the seventh, and the arithmetic is done by a woman and nobody stands up. **SEVENTY-SEVEN DAYS SINCE THE TWENTIETH OF
+  FEBRUARY, WHICH IS TWO MONTHS AND SEVENTEEN DAYS AND IS NOT THREE MONTHS. TWENTY-TWO DAYS ON WHICH IT COULD HAVE
+  BEEN CARRIED AND WAS NOT. FIFTY-THREE DAYS LEFT IN THE QUARTER, WHICH IS TWENTY-THREE PLUS THIRTY.** She asks the
+  room whether anybody wants it carried, nobody answers for about eleven seconds, and she then explains why the
+  question was a waste of eleven seconds: eight women in a kitchen are not a room of five, and there is no instrument
+  in this city for asking one to do anything. **AND THE CHAPTER'S REAL FINDING IS A CLOCK: A COUNCIL SITTING IS ENTERED
+  A QUARTER AHEAD ON A CALENDAR, THE ENTRY FOR THIS QUARTER IS THE THIRTIETH OF JUNE, AND FOR FIFTY-THREE DAYS THERE
+  IS NOBODY IN THIS CITY WHO CAN RESTORE A STANDING, TAKE ONE AWAY, OR LIFT A RECUSAL, IN A ROOM THAT STANDS AT FIVE
+  WITH A LIVE SHEET IN ITS KEEPING.** In about nine weeks a stranger who is not cruel and is simply working is going to
+  read a list on which that reads as a decision, and there is not one thing anybody at that table can put in a book
+  tonight to say it was fifty-three days of everybody being right.
+- **422 (9 May). THE DAYS A SHEET WAITS. WRITTEN. 1,943 WORDS.** **WHAT A ROOM OF FIVE DOES WITH A SHEET IT HAS BEEN
+  HOLDING, AND IT IS STILL NOT CARRIED.** The requisition has been in that keeping for seventy-nine days with no entry
+  of any kind against it, and the clerk noticed it on the sixth because of the address — a minute carrying an address
+  makes an absence in a book into an absence a clerk cannot sit on. **THE ROOM ACTS ON ITS OWN AND ON NOBODY'S
+  REQUEST: SHE ENTERS ONE LINE, SAYING THAT THE SHEET OF THE TWENTIETH OF FEBRUARY IS IN THE KEEPING OF THIS ROOM AND
+  IS NOT CARRIED, AND A CLERK MAY ONLY ENTER AND CANNOT CORRECT, SO THAT IS NOW THE FIRST THING ANYBODY HAS EVER DONE
+  ABOUT THAT SHEET AND IT CANNOT BE STRUCK BY ANYBODY INCLUDING THE MAN IT IS ABOUT.** It goes out at four on the
+  ordinary stream to seven desks. **AND THE SECOND DESK IS COUNTER-FORENSICS ON THE SECOND SUB-LEVEL, WHERE AN OFFICER
+  INITIALS THE TRANSMISSION ABOVE HER OWN PART, AND THAT OFFICER IS WREN KALLO, AND THE PART IS A DESCRIPTION OF THAT
+  ADDRESS MADE AT ABOUT ELEVEN ON THE MORNING OF THE TWENTY-SEVENTH OF OCTOBER ON FOUR WORDS SAID IN A KITCHEN.** She
+  reads the line once and initials it in four seconds and neither of them says one word about the address, and that
+  arrangement has survived a hundred and forty-four days and survives this. **AND THE BATCH'S THIRD COST, WHICH LANDS
+  ON A WOMAN WHO HAS NOT BEEN ASKED FOR IT IN FOUR YEARS AND IS NEVER GOING TO BE TOLD SHE PAID: HE STANDS AT THE END
+  OF FORTY FEET OF CORRIDOR AND WORKS OUT THE ONLY INSTRUMENT HE HAS. HE CANNOT ASK THAT ROOM FOR ANYTHING. HE CAN
+  MAKE IT NEED SOMETHING. AND EVERY TIME HE DOES IT, A WOMAN PAYS FOR IT OUT OF HER OWN FUTURE AND NOBODY WILL EVER
+  BE ABLE TO TELL HER SHE HAD TO.** He decides, on the ninth of May at about ten past five, that he is not going to
+  use it again, and tells nobody, and it is the only thing in nine volumes he has ever decided not to do.
+
+**WHAT CLOSES IN MOVEMENT 2, ON THE PAGE, IN THREE PARTS.** *The line exists and can be produced against seven
+women, and by the ninth of May it has been in the keeping of that room, and in a wing that keeps no register of
+addresses, and in a minute that carries the address at the head of it, and it has been read aloud.* *He has
+spent, for the first time in nine volumes, and he spent it on a stranger, and the count of turned lines is ten and
+the number he has never told anybody is nine.* *And he has found the one instrument he has and has decided not to
+use it.* **THE COST, IN THREE LINES AND NOT ONE OF THEM PAID BY THE MAN WHO ARRANGED IT:** a woman in a queue who
+was given back something owed since the ninth of April and never agreed to it · a woman who took us to seven at a
+counter and has now said her bill out loud in front of eight people · and a woman on a second sub-level who
+initialled a transmission above her own part in four seconds and will remember it in four years and was never asked.
+
+**AND THE THING THAT IS STILL TRUE AND STILL UNTOUCHED: SUN MEILING HAS NOT BEEN TOLD ANYTHING BY ANYBODY. She knows
+what she has been the officer of since the thirtieth of November and she worked it out on the nineteenth of April
+from a hole in a line in her own room. She has not been told the rest, and the rest is that the account cannot be
+closed and she is the officer of it for ever, and the chapter that changes that is not in this movement.**
+
+### THE NINE PLACES MOVEMENT 2 WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN
+
+1. **THE PLAN HAD 413–416 AS ONE LINE AND THE PAGE GAVE IT THE BATCH'S FIRST SPEND, AND THE SPEND IS NOT THE
+   SECOND-PERSON DRAW THE WHOLE BOOK HAS BEEN BUILDING TOWARDS.** The plan's card said "the first draw of the volume
+   is made on a stranger" and the page gave it a queue, a counter that shuts at four, a man whose hand he could not
+   look away from, and — the thing the plan did not foresee — **a reader who has been told for nine volumes that the
+   turned count is the thing he manages, and who discovers on the twenty-fifth that the count he has been managing is
+   the wrong one.** The chapter that was a cost is a chapter about a man misreading his own instrument.
+2. **THE PLAN'S 414 PANEL WAS DUE AND THE PAGE WROTE IT AS A PANEL THAT IS NOT SORRY.** The volume outline says the
+   reservoir's accounting "reports in people, never in acts"; the page obeyed it literally and produced a book that
+   counts lines and people and has no view on either, which is a stronger statement of the rule than the plan made.
+   **THE PLAN'S OWN BANK NOTE FOR 414 SAID THE FIGURE WOULD BE *ABOUT 152* AND THE PAGE PRINTED ONE HUNDRED AND
+   FIFTY ON THE TWENTY-FIFTH AND ONE HUNDRED AND FIFTY AND ONE BY HALF PAST TEN AT NIGHT.** The bank was right that a
+   title may not name a figure the page cannot produce; it was wrong about the figure, and nothing is broken and the
+   title is untouched.
+3. **THE PLAN GAVE 415 THE NAME INVOICED AND THE PAGE TURNED IT INTO A DOCUMENT THAT IS PRICED FOUR MINUTES AND
+   NEVER ENTERS ANYBODY'S SYSTEM.** Runa Sato's price was supposed to be a figure she refuses to invoice. It is
+   not a figure at all. **It is a woman in a lift**, named at the end of the chapter by the woman in the lift, and
+   the chapter's actual load-bearing discovery — the figure of seven as somebody else's bill — is not in the card.
+4. **THE 416 CARD SAID ISOLDE MARCHETTI SUMS ALOUD IN A CORRIDOR SHE CANNOT SING IN AND THAT IS TRUE AND IT IS NOT
+   THE CHAPTER.** The card did not say that her gift is *local* in the sense of a distance. **The page found the
+   sentence and it is the worst thing in the batch: for nineteen years she has believed that local means near, and
+   local means a fence, and she has put the fence where the walls are.** The card also did not say that singing nine
+   seconds in a corridor is the difference between a thing she has carried for four months and a thing she cannot
+   find again in a fortnight, and that she does it anyway, and that she is not sorry.
+5. **THE 417 CARD ASKED FOR A SCENE AND THE PAGE PUT IT IN THE ONLY ROOM IN THIS CITY WHERE SHE CANNOT LEAVE, AND
+   THE CAR NARROWS.** Nothing in the card pointed at distance folding downward. **A corridor and a lift are the same
+   sound in different clothes and the page made the car the corridor.**
+6. **THE 418 CARD SAID THE HOUSEHOLD FINDS OUT WHAT IT HAS SIGNED AND THE PAGE GAVE IT TO BEATRIX HALM, WHO CANNOT
+   HEAR ANY OF IT, AND THE SIGNING WAS THE SECOND THING IN THE CHAPTER.** The card put the bill at the end. The page
+   put Beatrix's hand flat on a table at twenty past nine in the first third and made the bill the seventh paragraph
+   of the eighth, and Runa Sato's refusal to certify is now the consequence of it rather than a separate beat.
+7. **THE 418 CARD, 419 CARD AND 420 CARD ARE THREE CHAPTERS ABOUT ONE SHEET AND THE PLAN SCATTERED THEM ACROSS
+   THREE ROOMS AND TWO DAYS.** On the page they are one document in one chain: it comes back to the kitchen on the
+   third, it goes out of Ferrier Street at four on the fourth and up a stair nobody has used for an address in twenty
+   years, and it is read into a minute on the sixth. **THE PLAN HAD 419 AT FOUR IN THE MORNING AT A PUBLIC POST. THE
+   PAGE HAS IT AT FOUR IN THE AFTERNOON, WHICH IS WHAT THE TITLE SAYS, AND 412 ALREADY SPENT HALF PAST FOUR ON THE
+   ROOM'S OWN RETURN, SO THE TWO ARE NOT THE SAME SERVICE.**
+8. **THE 421 CARD SAID THE ARITHMETIC OF SEVENTY-FIVE DAYS AND THE PAGE PRINTED A DIFFERENT ARITHMETIC IN A
+   DIFFERENT MONTH.** Seventy-five is the figure from the fifteenth of April to the thirtieth of June and it is
+   correct on the fifteenth of April and wrong on the seventh of May, and a chapter that quoted it would have been
+   quoting another chapter's figure in its own mouth. **The page printed fifty-three and twenty-two and
+   seventy-seven, each derived inside its own chapter, and added the one the plan had not thought of — that the
+   Council does not sit again until the thirtieth of June, which is fifty-three days in which the room of five
+   cannot be changed by anybody.**
+9. **THE 422 CARD WAS TITLED *WHAT A ROOM OF FIVE DOES WITH A SHEET IT HAS BEEN HOLDING* AND THE PAGE ANSWERED IT
+   WITH THE CHEAPEST ACT AVAILABLE AND PUT THE EXPENSE ON WREN KALLO.** The plan did not say whose. **The page made
+   the room act on its own initiative, with no instrument and nobody asked, and it made the cost land on a woman who
+   has a permanent bar on being asked anything and who initialed a transmission above her own part because it was
+   her desk and the rule was hers — and the batch ends with him working out that making a room act is the only
+   instrument he has, and deciding never to use it.**
+
+### Movement 3 — CAPABLE (421–430). 7–24 May. **421 AND 422 ARE NOW WRITTEN — SEE §6 MOVEMENT 2. 423 ONWARD IS PLAN AND THE CARD LIST BELOW HAS BEEN SHIFTED BY ONE AGAINST THE PAGE.**
 
 **The promise:** a requisition that five people can carry, administered weekly, sitting in a room with five people
-in it, for seventy-five days.
+in it, for the rest of the quarter.
 
-- **421 (7 May). THE WEEK IT COULD BE CARRIED.** The arithmetic of seventy-five days, done by a woman, and nobody
-  stands up.
-- **422–427.** Where the fourth part lives, and who would use it (422). The envelope a subject would have to open
-  (423). **Alma Quayle, and the recusal that only the subject may lift, and he does not lift it (424)** — and the
-  chapter where he says no for the fourth time in nine volumes. **The minute that carries five seals (425). The
-  man on the third floor (426).** The consult she takes to a board (427).
-- **428 (21 May). THE SCENE. RUNA SATO.** §4.
+- **421 (7 May). THE WEEK IT COULD BE CARRIED. WRITTEN — SEE §6 MOVEMENT 2.**
+- **422 (9 May). THE DAYS A SHEET WAITS. WRITTEN — SEE §6 MOVEMENT 2.**
+- **423–427.** The envelope a subject would have to open (423). **Alma Quayle, and the recusal that only the subject
+  may lift, and he does not lift it (424)** — and the chapter where he says no for the fourth time in nine volumes.
+  **The minute that carries five seals (425). The man on the third floor (426).** The consult she takes to a board
+  (427).
+- **428 (21 May). THE SCENE. RUNA SATO.** §4. **AND NOTE WHAT BATCH 0002 DID TO HER: she decided on the twelfth of
+  April to certify the composition of premises 34-6-118, priced it on the twenty-seventh, refused to invoice it on
+  the twenty-seventh, and then on the third of May un-decided it at a kitchen table and told a Field office she is not
+  attending, with no reason given. THE CERTIFICATION HAS NOT HAPPENED AND 428 IS WHERE SHE OWES THE READER SOMETHING
+  FOR THAT.**
 - **429–430.** Ten lines on a return, and the days a sheet waits.
 
 **WHAT CLOSES IN MOVEMENT 3:** *the capacity is public.* **THE COST:** everybody in that room now knows that five
@@ -787,8 +985,8 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | Batch | Chapters | Days | The unit |
 | --- | --- | --- | --- |
 | **0001** | **401–412** | 1–21 April | **the restoration, the roll, what nine costs, the ask, the lodge, the line with a gap in it, and the return at five.** Cards written; `workspace/volume-09/batch-0001/PROMPT.md` is the one live phase |
-| **0002** | **413–422** | 23 April – 9 May | **the first draw on a stranger; the ledger crossing a number; each name priced; the Nadia Ferrous scene at 417; the household finding out what it has signed; and the first eight days of a room that can carry the sheet** |
-| **0003** | **423–432** | 11 May – 27 May | **the envelope, the recusal he does not lift, the third floor, the division that holds the fourth part, the Runa Sato scene at 428, and the price of what a lodged citizen is administered against** |
+| **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
+| **0003** | **423–432** | 11 May – 27 May | **the envelope, the recusal he does not lift, the third floor, the division that holds the fourth part, the Runa Sato scene at 428, and the price of what a lodged citizen is administered against.** Carries forward the undecided certification from 418 |
 | **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself** |
 | **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
 `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
