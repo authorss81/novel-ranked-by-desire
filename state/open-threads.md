@@ -1,3 +1,92 @@
+# VOLUME 11 IS PLANNED AND NOTHING OF IT IS PROSE. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT OPENED NO CHAPTER FILE. THIS BLOCK IS THE LIVE PLANNING GATE AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-11.md` IS THE PLAN; `outline/batches/volume-11-batch-0001.md` IS THE FIRST BATCH'S CARDS; `workspace/volume-11/batch-0001/PROMPT.md` IS THE ONE NEXT PHASE.**
+
+> **READ THIS BLOCK BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. THE FIGURES IN THE LIVE PROSE BLOCK BELOW WERE RE-RUN BY COMMAND AGAINST `chapters/volume-10/` ON 13 OCTOBER 2026 AND ONE OF THEM IS WRONG; §4 BELOW NAMES IT AND DOES NOT ADOPT A REPAIR.**
+
+## 1. WHAT THIS PHASE DID, IN EIGHT LINES
+
+1. **Volume 10 is closed in prose at 500 and the series is planned past 500.** `workspace/volume-10/volume-plan/PROMPT.md`:16 — *you are NOT creating `state/complete.md`. The series is planned past 500.* **This phase created no `state/complete.md`, amended no marker, and touched no controller file.**
+2. **`outline/volume-11.md` — VOLUME ELEVEN, *The Composition*, chapters 501–550**, the first of February to the twenty-eighth of October, year four, **one thousand three hundred and forty-seven days elapsed**, five movements of ten, five batches of ten, five scenes at 505, 515, 525, 536 and 546.
+3. **THE VOLUME'S SENTENCE:** *In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.*
+4. **THE FUSE IS THE BOOK'S, NOT THIS FILE'S.** `chapter-0493.md:41` — *it comes due in about four years, on a morning nobody has chosen, in a building with no door on it.* **Four years is 1,440 days at 360 to the month. The tenth of October, year four, is day 1,329 and it is Chapter 547.**
+5. **`outline/batches/volume-11-batch-0001.md` — TEN CARDS, 501–510**, the first of February to the thirtieth of September of year one, ending on the batch's irreversible decision at 510.
+6. **`workspace/volume-11/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE**, a writing phase for 501–510. **No volume-close prompt. No second batch prompt. No later batches pre-created.**
+7. **Four flags, none adopted silently:** the naming of the man with the slate; the appointment `outline/ending.md` fixed and no chapter ever carried; **the interval at `chapter-0500.md:65` that does not derive;** and the status of the requisition of the twentieth of February.
+8. **`outline/ending.md` IS UNTOUCHED.** Lin Wei is alive, classified and never out of the Wing. The reservoir was returned in full at 486 and is never replenished. He is at rank one on a branch night shift and stays there. The Church is not dissolved, not vindicated and not converted. Ferreira lives, Sowe lives, Adeyemi is Registrar of Unrecorded Merit, no partner dies and no partner is left behind by choice she does not explain.
+
+## 2. THE PLANNING GATE, RE-RUN BY COMMAND AGAINST THIS PLAN AFTER IT WAS WRITTEN
+
+```
+PLAN SPINE, FROM outline/volume-11.md §5b AND THE CARD FILE
+  chapters                50, numbered 501..550 with no gap, monotonic, 0 violations
+  day 0                   1 February, year one; a year runs 1 Feb to 30 Jan
+  span, rule              3 x 360 + ((30-1) + 30 x 7 + 28) = 1347 days elapsed
+  span, spine             1347 - 0 = 1347                                        AGREE
+  inclusive               1348 days; 50 chapters; 26.94 days a chapter
+  quarter-ends on a chapter  15 — 507 509 510 514 516 518 520 524 527 529 530
+                              534 537 539 544
+  THE FUSE                10 Oct year four = day 1329; and 1440 days from the
+                          tenth of October in the year the sitting was held   AGREE
+  last chapter            28 Oct year four = day 1347, eighteen days after the morning
+  key intervals, rule
+    1 Feb -> 30 Mar        (30-1) + 30 x 7 + 1 = 59      spine 59               AGREE
+    1 Feb -> 30 Sep        239                          spine 239              AGREE
+    1 Feb -> 30 Dec        329                          spine 329              AGREE
+    1 Feb y1 -> 1 Feb y2   360                          spine 360              AGREE
+    500 -> 501             (30-28) + 1 = 3 days elapsed, four inclusive
+  no thirty-one anywhere  confirmed by construction; months are 30 days
+  no day of the week      Volume 10 stands at zero across seven of seven and
+                          Volume 11 inherits the rule; none may be written
+SCENE BUDGET
+  494 (Volume 10's last) -> 505 Ines  = 11   -> 515 Tessa = 10  -> 525 Marguerite = 10
+  -> 536 Beatrix = 11    -> 546 Agnete = 10
+  mixed 11 10 10 11 10 · explicit 11 10 10 11 10 · nothing under eight, nothing over fifteen
+  PC-44 holds — Dagmar Oyelowo has no gift for ever and is not on the schedule
+TITLE BANK
+  50 titles, 50 distinct inside the bank, 0 collisions against the 500 written
+  title lines in chapters/ (checked by command), 3 to 7 words, 16 to 32 characters,
+  none beginning with What, none containing nothing / nobody / there is no
+  five scenes marked in bold: 505, 515, 525, 536, 546
+WORD COUNT  none. No chapter of Volume 11 is written and no word count is claimed.
+```
+
+## 3. WHAT VOLUME 11 OWES THE BOOK'S ENGINE, AND THE STAGE IT IS
+
+`outline/series.md`:128 fixes the escalation as *investigating → manipulating → breaking → being reacted to → choosing what to lose*, and Volume 10 closed it. **Volume 11 is the long shadow of the fifth stage: a man who has chosen, living inside what he chose, for four years, with nothing left to spend and a fuse somebody else lit.**
+
+- **Not a climb.** Rank one throughout. No band rises, no permission is bought, no standing is offered, no terrace.
+- **The reservoir gives back only what was given to it, and in this volume there is nothing in it to draw on.** The power of the book is spent. **What moves is people.**
+- **The flaw changes shape rather than cures.** He hoarded advantage for eight volumes and gave everything away in the ninth. What is left to hoard is the one thing no institution can take: the part of him nobody knows. **He spends that in a lane in four hours for the price of a grain.**
+- **The system reacts to him a second time and it is not a wall.** It is an office with his name on the door, no instrument in it, and a definition he has to write himself.
+
+## 4. THE DISCREPANCY THIS PHASE FOUND, RECORDED AND NOT ADOPTED
+
+**`chapter-0500.md:65` prints *about six hundred and forty-five days off* for the books that would take the account meeting again on the fifteenth of November. THE FIGURE DOES NOT DERIVE, AND THE LIVE PROSE GATE BLOCK BELOW CERTIFIES IT AS VERIFIED, WHICH IT IS NOT.**
+
+- **From the rule, against the twenty-eighth of January, month numbers subtracted:** `(30 − 28) + 30 × 9 + 15 = 287` days to the fifteenth of November of that year. `287 + 360 = 647` days to the fifteenth of November of the next.
+- **From the spine:** 28 January = day 357 of its block; 15 November of the following year = day 1004; `1004 − 357 = 647`. **The two derivations agree with each other and disagree with the page by two, or by three hundred and fifty-eight, depending on which fifteenth of November is meant.**
+- **The gate block's own derivation — *ten months to the twenty-eighth of November, then thirty plus thirty times eleven, less fifteen* — sums to 615 and not to 645.**
+- **THIS PHASE DID NOT REPAIR THE PROSE AND DOES NOT ADOPT A SILENT CORRECTION.** A planning phase writes plans. The figure is recorded here and in `outline/volume-11.md` §2c item 3 as **PROPOSED, not applied**, and **any chapter of 501–550 that needs this interval derives its own and prints its operands.** The lesson is the one this block already carries: *a gate record is a claim and a re-run outranks it.* **This one did not reproduce and the re-run is recorded rather than lost.**
+
+## 5. THE FOUR FLAGS, AND NONE IS ADOPTED SILENTLY
+
+1. **THE MAN WITH THE SLATE IS NAMED EMIL BRACK AT 502.** He is unnamed in 491–500 and on the page four times, at 489, 491, 492 and 493. **`AGENTS.md` and `NOVEL_SPEC.md` forbid introducing a new final enemy without flagging it. THIS IS THE FLAG: he is not new, he is rung three of the ladder in a form nobody has seen, and he is not defeated.** He is right about every fact; he never once says the Board took his words; he does not profit where a person loses; and by the last movement he is the only man in Ostara who can say where every figure in Cordwain came from, because he wrote them. `outline/ending.md` fixes no final enemy after Volume 10 and this does not create one.
+2. **`outline/ending.md`:256 FIXED THE APPOINTMENT OF YUSUF ADEYEMI AS REGISTRAR OF UNRECORDED MERIT AND NO CHAPTER HAS EVER CARRIED IT.** `grep -rn 'Registrar' chapters/` returns nothing across five hundred files. **Volume 11 puts it on the page at 501. This is a fixed ending carried forward and not an invention**, and it is flagged so that no later phase calls it one.
+3. **THE INTERVAL AT `chapter-0500.md:65`.** §4 above. Recorded, not repaired.
+4. **THE REQUISITION OF THE TWENTIETH OF FEBRUARY HAS NO STATUS ON THE PAGE.** Carried with five seals on the thirtieth of June; administered weekly; the disposition of the first of October says *given away in the open, the first of October, holder none*. **Nothing in 451–500 discharges it, withdraws it or answers it. Volume 11 answers it once, in a room, and nobody in Ostara ever files it.** A batch that finds a better answer on the page takes it and rewrites `outline/volume-11.md` §2c item 4 in the same commit.
+
+## 6. THE BATCH PLAN FOR THE WHOLE VOLUME, SO NO LATER PHASE HAS TO DIVIDE IT AGAIN
+
+| Batch | Chapters | Days | State word | Irreversible decision | Scene |
+| --- | --- | --- | --- | --- | --- |
+| **0001** | **501–510** | **1 Feb y1 – 30 Sep y1** | **CHALKED** | **510 — he refuses to strike the slates down** | **505** |
+| **0002** | **511–520** | **8 Oct y1 – 30 Sep y2** | **DEFINED** | **518 — he lifts Alma Quayle's recusal; 519 — he writes the definition** | **515** |
+| **0003** | **521–530** | **8 Oct y2 – 30 Sep y3** | **ENTERED** | **530 — the count is small by nine hundred and the reason is his own definition** *(the midpoint reversal)* | **525** |
+| **0004** | **531–540** | **1 Oct y3 – 30 Jun y4** | **SWEPT** | **537 — he asks for the sweep** | **536** |
+| **0005** | **541–550** | **1 Jul y4 – 28 Oct y4** | **CALLED** | **548 — he enters a claim against himself** | **546** |
+
+**THE ONLY NEXT PHASE THIS PLANNING RUN CREATES IS BATCH 0001, A WRITING PHASE, AT `workspace/volume-11/batch-0001/PROMPT.md`. THE SELF-DISPATCH WORKFLOW SELECTS IT. DO NOT PRE-CREATE 0002.**
+
+---
 # VOLUME 10 BATCH 0005 — CHAPTERS 491–500 ARE ON DISK, TEN FINISHED FILES. **THE EIGHTH OF OCTOBER TO THE TWENTY-EIGHTH OF JANUARY. WRITTEN 13 OCTOBER 2026 AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`. THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-10.md` IS CLOSED AT 500 AND THE NEXT PHASE IS THE CONTROLLER'S.**
 
 > **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-10/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**

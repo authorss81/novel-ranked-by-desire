@@ -1,3 +1,49 @@
+# VOLUME 11 IS PLANNED. VOLUME 10 IS CLOSED IN PROSE AT 500. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT WROTE NO PROSE. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
+
+**THE SERIES IS PLANNED PAST 500 AND THIS BLOCK IS THE PLAN.** `workspace/volume-10/volume-plan/PROMPT.md`:16 told the Volume 10 planning phase, in its own words, *you are NOT creating `state/complete.md`. The series is planned past 500.* **Volume 10 delivered the ending `outline/ending.md` fixes, in the chapters `outline/ending.md` names. Chapter 500 exists and is `The Number That Is Not Zero`. Volume 11 is what comes after a book that ended, and it may not pretend the book did not.**
+
+**THIS PHASE WROTE `outline/volume-11.md`, `outline/batches/volume-11-batch-0001.md` AND EXACTLY ONE NEXT PHASE PROMPT, `workspace/volume-11/batch-0001/PROMPT.md`. IT WROTE NO CHAPTER PROSE. THE NEXT PHASE WRITES 501–510.**
+
+## 0. WHERE THE MAN STANDS AT CHAPTER 501, IN ONE PARAGRAPH, FROM THE PAGE
+
+Three days after he read a figure off a public desk that was not zero, a letter arrives at a branch office off a third court on the paper the Correction Office has, and it says the office exists and that he is the Registrar of it, and there is nothing to refuse it into. He is rank one, with a white plate in his coat and no figure cut into it anywhere, and he has been on an eleven-at-night-to-half-past-five rota for eleven weeks and three days because rank one gets assigned work and because he asked. Below the second line on the ranks wall there is a white tile with his name on it in chalk and nothing under it, and he stands under it about two minutes at a time and has done about sixty times since the first of January, and four hundred people a week go past doing the same thing, and he does not know who put it there. In a lane off Cordwain a man in a delivery coat has taken a stool and a line every morning for four hundred mornings and takes a grain a head off anybody who wants to stand in it, and chalks a figure in four-inch letters, and has never once said the Board took his words. And somewhere under the Reading a keeper with a lamp is writing a street's composition into a chained book out of her own memory with nothing behind it, four times a year, for thirty years.
+
+## 1. THE SHAPE OF VOLUME 11, AND EVERY FIGURE IN IT IS A PLAN
+
+- **Chapters 501–550. The first of February to the twenty-eighth of October, year four.** Fifty chapters, five batches of ten, one thousand three hundred and forty-seven days elapsed, one thousand three hundred and forty-eight inclusive. **Derived twice by command — from the rule, `3 × 360 + ((30 − 1) + 30 × 7 + 28) = 1347`, and from a cumulative day spine from day 0 — and the two agree, 0 violations, every chapter later than the one before it.**
+- **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. A YEAR RUNS FROM THE FIRST OF FEBRUARY TO THE THIRTIETH OF JANUARY AND IS NAMED BY ITS OPENING FEBRUARY.** No year number reaches the page.
+- **Fifteen quarter-ends land on a chapter**, and the thirtieth of September of year four is 544 and is four days before the morning.
+- **THE FUSE IS THE VOLUME'S CLOCK AND IT IS ON THE PAGE ALREADY.** `chapter-0493.md:41`, Solveig Rask in a called sitting in a room that could carry nothing: *"It is a debt with no creditor. It comes due in about four years, on a morning nobody has chosen, in a building with no door on it."* **Four years is 1,440 days at 360 to the month. The sitting was the tenth of October. The morning is the tenth of October of year four, which is 1,329 days after the first of February, which is CHAPTER 547.**
+- **THE ESCALATION WORDS ARE CHALKED → DEFINED → ENTERED → SWEPT → CALLED**, and they are not Volumes 7, 8, 9 or 10's.
+- **SCENES AT 505, 515, 525, 536 AND 546.** Whose own last scene: Ines 454, Tessa 483, Marguerite 474, Beatrix 465, Agnete to be verified on the page. **Gaps: 11, 10, 10, 11, 10, counted from 494. Nothing under eight, nothing over fifteen, on the mixed count and on the explicit count.** `PC-44` holds and Dagmar Oyelowo is not on the schedule and may never be written as a scene.
+- **NO FLOOR. NO FIGURE OF THE ACCOUNT IN GRAINS ANYWHERE IN 501–550.** It is fixed at 211,840 and `chapter-0500.md:53` is the one place in this book that prints it.
+
+## 2. THE FIVE IRREVERSIBLE DECISIONS VOLUME 11 OWNS, AND ALL FIVE ARE HIS
+
+**510 — HE REFUSES TO STRIKE THE SLATES DOWN.** One sentence, on the ground that he put two words on a wall himself and cannot be the man who takes another man's two words off a slate for standing on the wrong surface. **Closes: the option of striking down a rival measure. Costs: he is the reason there is a second institution in Ostara.**
+**518 — HE LIFTS ALMA QUAYLE'S RECUSAL**, unilaterally, on a slip, in about four seconds, because only the subject may lift one and he is the subject. **Closes: the option of never spending another woman's safety. Costs: a woman who has been careful for thirty years goes back on the record at fifty-seven, and the record is what put his brother in a room with no window.**
+**519 — HE WRITES THE DEFINITION AND IT IS NARROW AND HE KNOWS IT IS NARROW.** **Closes: a Register that measures everything or nothing. Costs: about one person in nine hundred, and the threshold is his handwriting.**
+**537 — HE ASKS FOR THE SWEEP.** A Bureau division, nine people, going door to door, reading turned lines, looking for what people did that was never written down. **The first census of the unrecorded in the history of this city, and it cannot be stopped by anybody. Closes: the option of being a man nobody looks for.**
+**548 — HE ENTERS A CLAIM AGAINST HIMSELF** in the one column nobody has ever filled. **Closes: the option of being a man who did a thing rather than a man who owes a thing. Costs: the Register's first creditor is a man who cannot pay it.**
+
+## 3. FOUR THINGS THIS PHASE FLAGS, AND NONE OF THEM IS ADOPTED SILENTLY
+
+1. **THE MAN WITH THE SLATE IS NAMED EMIL BRACK, AT 502.** He is unnamed in 491–500 and on the page four times, at 489, 491, 492 and 493. **He is not a new final enemy and this is the required flag: he is not new, he is rung three of the ladder in a form nobody has seen, and he is not defeated.** He is right about every fact and by the last movement he is the only man in Ostara who can say where every figure in Cordwain came from, because he wrote them.
+2. **`outline/ending.md`:256 HAS FIXED THE APPOINTMENT OF YUSUF ADEYEMI AS REGISTRAR OF UNRECORDED MERIT SINCE BEFORE ANY CHAPTER CARRIED IT, AND `grep -rn 'Registrar' chapters/` RETURNS NOTHING ACROSS FIVE HUNDRED FILES.** Volume 11 puts it on the page at 501. That is carrying a fixed ending forward, not inventing an office.
+3. **`chapter-0500.md:65` PRINTS AN INTERVAL THAT DOES NOT DERIVE AND A GATE BLOCK CERTIFIES IT.** *About six hundred and forty-five days off* for the books that would take the account meeting again on the fifteenth of November. **Derived twice against the twenty-eighth of January: `(30 − 28) + 30 × 9 + 15 = 287` to the fifteenth of November of that year, and `287 + 360 = 647` to the next. Neither is six hundred and forty-five, and the live gate block re-derives it as *ten months to the twenty-eighth of November, then thirty plus thirty times eleven, less fifteen*, which sums to 615.** **THIS PLANNING PHASE DID NOT REPAIR PROSE IT WAS NOT ASKED TO REPAIR AND DOES NOT ADOPT A SILENT CORRECTION. THE FIGURES ARE RECORDED WITH THEIR OPERANDS IN `outline/volume-11.md` §2c item 3 AND THE PROPOSAL IS CARRIED HERE.**
+4. **THE REQUISITION OF THE TWENTIETH OF FEBRUARY HAS NO STATUS ON THE PAGE.** Carried with five seals on the thirtieth of June, administered weekly for a quarter, and the disposition of the first of October says *given away in the open, the first of October, holder none.* **Nothing in 451–500 discharges it, withdraws it or answers it. Volume 11 answers it once, in a room, and nobody in Ostara ever files it.**
+
+## 4. WHAT VOLUME 11 DOES NOT DO
+
+**It is not a climb.** He is at rank one and stays there; no chapter raises his band, buys a permission, offers him a standing or puts him back on a terrace. **It is not a re-argument of the return.** `outline/ending.md`:229–236 fixes the reach of the return as deliberately open and no chapter of 501–550 may argue for or against the first of October or say the question is settled or that it is not. **It is not a new enemy.** **It is not consequence-free.** **And it does not open Lin Wei's file, which `outline/ending.md` alone decides and which names the brother once, at 486.**
+
+## 5. THE ONE SENTENCE THIS BLOCK HANDS ON
+
+> **Four years after a man emptied an account at a wall, a letter arrives telling him he is the Registrar of an office with two chairs in it, and the only institution his act actually created is a lane off Cordwain where a man takes a grain a head off anybody who wants to stand in a line and writes the figure on a slate in letters the height of a name on a plate.**
+
+---
 # VOLUME 10 BATCH 0005 — CHAPTERS 491–500 ARE ON DISK. THE EIGHTH OF OCTOBER TO THE TWENTY-EIGHTH OF JANUARY. **REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0005.review.log`: TWELVE FINDINGS, ALL APPLIED, NO CHAPTER RESTARTED AND NO PLOT MOVED. THE VOLUME IS CLOSED IN PROSE AT 500. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT.**
 
 > **In this volume, **Lin Hao must decide who the reservoir belongs to and give it back while the Council watches**, or **Ostara keeps measuring the wrong thing for another twenty years**.

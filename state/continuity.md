@@ -1,3 +1,70 @@
+# VOLUME 11 PLANNED — CHAPTERS 501–550. THE FIRST OF FEBRUARY TO THE TWENTY-EIGHTH OF OCTOBER, YEAR FOUR. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT WROTE NO PROSE. NO RULE OF THE WORLD IS OVERTURNED BY IT, NO EVENT, DATE, CHARACTER, TITLE, SCENE OR MARK MOVED, `outline/ending.md` IS UNTOUCHED, AND `PC-44`, `PC-84`, `PC-102`, `PC-109`, `PC-110`, `PC-111`, `PC-112` AND `PC-113` ALL STAND AS THEY DID.**
+
+**THE SERIES IS PLANNED PAST 500.** `workspace/volume-10/volume-plan/PROMPT.md`:16 — *you are NOT creating `state/complete.md`. The series is planned past 500.* **Volume 10 is closed in prose at 500 and `outline/volume-11.md` is the plan for what comes after. NOTHING IN 501–550 IS PROSE YET AND EVERY FIGURE BELOW IS A PLAN AND NOT A FACT ON A PAGE.**
+
+## THE POSITION AT 501, CARRIED WHOLE FROM `chapter-0500.md` AND NOT RE-DERIVED FROM ANYTHING
+
+- **Rank one.** A white plate in his coat, **no figure cut into it anywhere**. Assigned work, a branch office off a third court, eleven at night until half past five, a rota **he asked for**. **Eleven weeks and three days at Chapter 501.**
+- **The account: 211,840 grains, not zero, not going to be zero, belongs to nobody, cannot be drawn against, allocated or closed, and no list exists and none could be built.** **NO CHAPTER OF 501–550 PRINTS THIS FIGURE. `chapter-0500.md:53` is the only place in this book that prints it.**
+- **The second line: *unrecorded — carried by*,** painted the eighth of October at about six in the morning, out of a standing sheet and a repainting form and no instruction, by a clerk who may only enter, and still there after a wash of rain and one winter, and this city has no schedule for taking it down.
+- **The white tile: his name in chalk and nothing under it.** About sixty standings of about two minutes since the first of January; about four hundred people a week go past doing it. **Nobody has put it there and 501–510 does not.**
+- **The household: nine sworn, dispersed and intact, protection gone with the roll's binding.** Three never live with him again and all three are on the rota. None has said why; he has said once that he never will ask.
+- **Ines Duarte** auditing the branch since the first of October, saying nothing; her correction of the twenty-ninth of December unpressed and about Sowe; **not open.**
+- **Beatrix Halm** under the wall at half past four every morning; four hundred turned lines, a time beside each, no figure, none of them his.
+- **Hanneke Ruis** writing premises 34-6-118 into the fourth block of every quarterly from memory, four times a year for thirty years, **120 blocks**, no certificate behind any of them. **NO AGE FIXED AND NONE MAY EVER BE GIVEN.**
+- **The clause of the twenty-first of June: 38 words, not lifted, and it means he cannot leave a room** because six people keep that address.
+- **`PC-84` HOLDS.** The instrument he swore on the ninth of May never to use is still unused and 501–550 does not spend it. The phrase in eight uses went on the first of October. `PC-102` holds — there is nothing to draw on and nobody draws.
+
+## FOUR PROPOSALS CARRIED FORWARD BY THIS PHASE, NONE ADOPTED SILENTLY, NONE RENUMBERING `PC-113`
+
+| Proposed | Lands | Status |
+| --- | --- | --- |
+| **`PC-114`** | **THE MAN WITH THE SLATE IS NAMED EMIL BRACK.** A delivery coat, five stools, a lane off Cordwain, a grain a head off anybody who wants to stand in his line, two words chalking in about four-inch letters at about a quarter past nine every morning, a figure made up in three days in October and never once attributed to the Board. **HE IS RIGHT ABOUT EVERY FACT, HE IS NOT A FRAUD, HE IS NOT DEFEATED, AND NO INSTRUMENT IN OSTARA CAN CHECK HIM.** BEATRIX HALM'S SENTENCE IS THE VOLUME'S MOTTO AND IS ON THE PAGE FOUR YEARS EARLY: *you cannot check a slate. You can check a wall.* | **502** | **PROPOSED BY THE VOLUME 11 PLANNING PHASE AND NOT YET ON ANY PAGE.** **THIS IS THE REQUIRED FLAG: he is not a new final enemy, he is unnamed in 491–500 and on the page four times at 489, 491, 492 and 493, and he is rung three of the ladder in a form nobody has seen.** `outline/volume-11.md` §2c item 1 carries the reasoning in full. |
+| **`PC-115`** | **THE REGISTER OF UNRECORDED MERIT EXISTS IN NAME.** `outline/ending.md`:256 fixed the appointment — *Adeyemi is made Registrar of Unrecorded Merit, which is a joke he tells nobody the meaning of* — **and `grep -rn 'Registrar' chapters/` returns nothing across five hundred files.** The office has two chairs, a table, a room off a third court, no instrument, no money and no column, and its first entry is not a deed. **A title is not an office and an office is not an instrument, and the joke is said out loud once, in a corridor, in year one.** | **501** | **PROPOSED AND CARRIES A FIXED ENDING FORWARD RATHER THAN INVENTING.** Volume 11 opens with it. |
+| **`PC-116`** | **THE REGISTER'S FIRST PUBLIC FIGURE IS ABOUT ONE PERSON IN NINE HUNDRED OF WHAT WENT OUT ON THE FIRST OF OCTOBER, AND THERE IS NOTHING ON THE PAGE TO CHECK IT AGAINST.** **THE REGISTER IS SMALL AND REAL AND THE READER IS GIVEN THE COMPARISON AND IS NOT GIVEN A VERDICT.** | **508, and it is the shape of movement three at 522 and 529** | **PROPOSED BY THE PLANNING PHASE AND NOT YET ON ANY PAGE.** **It may not be printed as a percentage or a ratio that is not derived inside the chapter that prints it, and it may not be resolved.** |
+| **`PC-117`** | **`chapter-0500.md:65` PRINTS *ABOUT SIX HUNDRED AND FORTY-FIVE DAYS OFF* FOR THE BOOKS THAT WOULD TAKE THE ACCOUNT MEETING AGAIN, AND THE FIGURE DOES NOT DERIVE.** Twice, by day numbers against the twenty-eighth of January: `(30 − 28) + 30 × 9 + 15 = 287` to the fifteenth of November of that year and `287 + 360 = 647` to the next. **THE LIVE GATE BLOCK AT THE HEAD OF `state/open-threads.md` RE-DERIVES IT AS *ten months to the twenty-eighth of November, then thirty plus thirty times eleven, less fifteen*, WHICH SUMS TO 615.** | **not repaired. Recorded, not adopted.** | **PROPOSED CORRECTION TO A FIGURE ALREADY ON THE PAGE, NOT ADOPTED, NOT APPLIED TO 500, AND THE PROSE IS UNTOUCHED.** **A planning phase does not repair prose it was not asked to repair and does not adopt a silent correction.** Any chapter of 501–550 that needs this interval derives its own and prints its operands. Carried here so that no later phase reproduces 645 off a different anchor. |
+
+## THE VOLUME'S FIVE IRREVERSIBLE DECISIONS, ALL HIS
+
+1. **510 — HE REFUSES TO STRIKE THE SLATES DOWN.** One sentence. Closes the option of striking down a rival measure, for four years and, on the evidence, for ever. Costs: he is the reason there is a second institution in Ostara.
+2. **518 — HE LIFTS ALMA QUAYLE'S RECUSAL**, unilaterally, on a slip, in about four seconds. **A recusal is lifted by the subject and by nobody else and there is no sheet for lifting one and he is the subject.** Closes the option of never spending another woman's safety. Costs: she goes back on the record at fifty-seven and did not ask to be on it. **`outline/ending.md` fixes the recusal as unlifted at 500; lifting it at 518 is a change to a state `outline/ending.md` describes, and it is flagged here and in `outline/volume-11.md` §2c rather than adopted silently. It is the subject's own act and the subject is Lin Hao.**
+3. **519 — HE WRITES THE DEFINITION AND IT IS NARROW AND HE KNOWS IT IS NARROW.** Closes a Register that measures everything or nothing. Costs about one person in nine hundred, and the threshold is his handwriting.
+4. **537 — HE ASKS FOR THE SWEEP.** A Bureau division, nine people, door to door. **The first census of the unrecorded in the history of this city and nobody can stop it.** Closes the option of being a man nobody looks for.
+5. **548 — HE ENTERS A CLAIM AGAINST HIMSELF** in the one column nobody has ever filled. Closes the option of being a man who did a thing rather than a man who owes a thing.
+
+## THE CALENDAR, DERIVED BY COMMAND TWICE, AND IT IS A PLAN
+
+```
+VOLUME 11 SPINE, RE-RUN BY COMMAND AGAINST outline/volume-11.md §5b
+  chapters 501..550            50, no gap, monotonic, 0 violations
+  day 0                        1 February, year one
+  span, rule                   3 x 360 + ((30-1) + 30 x 7 + 28) = 1080 + 267 = 1347
+  span, spine                  1347 - 0 = 1347                        AGREE
+  1 Feb -> 30 Mar               59      rule (30-1) + 30 x 7 + 1      spine 59    AGREE
+  1 Feb -> 30 Sep               239     spine 239                                     AGREE
+  1 Feb -> 30 Dec               329     spine 329                                     AGREE
+  1 Feb y1 -> 1 Feb y2          360     spine 360                                     AGREE
+  the fuse                      10 October year four = day 1329 from day 0
+                                and 1440 days (four years at 360) from the
+                                tenth of October in the year of the sitting
+  last chapter                  28 October year four = day 1347
+  quarter-ends on a chapter     15 — 507, 509, 510, 514, 516, 518, 520, 524, 527,
+                                529, 530, 534, 537, 539, 544
+  title bank                    50 titles, 50 distinct, 0 collisions against the
+                                500 written title lines, 3 to 7 words, 16 to 32
+                                characters, none beginning with What, none
+                                containing nothing / nobody / there is no
+```
+
+## WHAT VOLUME 11 MAY NOT OPEN, AND IT IS THE WHOLE OF IT
+
+Lin Wei's file, **which `outline/ending.md` alone decides and which names the brother once, at 486** · the second folio of 4,112 · B103 · **the string `settle`, at zero across `chapters/volume-09/` and `chapters/volume-10/`, and at zero across `chapters/volume-11/`** · Ines's lost day and record · the two unstamped reads · the ninth turned line's meaning · the seventh returned line · the bare slot at the head of the Reading, which is not the black tile · the reason the account had an address · **the reach of 486's return, deliberately open to the end of the book** · **whether the account belonged to the unrecorded rather than to him, which is a meaning and not an answer** · how many feeders there are · October's song · the woman Wren Kallo gave the shape to · **who put the white tile up** · **the figure of the account** · **and anything that contradicts `outline/ending.md`, because the ending is the ending.**
+
+## WHAT VOLUME 11 MAY NOT CLOSE
+
+**Mrs Imrie, asked nothing, ever** · Wren Kallo's bar, untested, and no chapter of 501–550 opens in her rooms · **Dagmar Oyelowo's first thing and `PC-44`, and 495 is not a scene and may never be written as one** · **Perrin Sowe is not forgiven and it is not discussed, and Ines's correction stays unpressed** · Nikolai Vester · the woman in the sixth seat · Mrs Imrie's eleven minutes · the two minutes carrying his name that neither he nor Wren wrote · Beatrix Halm's empty notebook line · Wanda Rej's plaster, state only · **Ines Duarte's standing review** · **Sun Meiling's row and her bar, told once at 434 and never re-told** · **Marguerite Vale's fourth line, which cannot be struck** · **the instrument he swore on the ninth of May never to use** · **Ada's grey is permanent and is not recovered** · the words under the fifth line and under the gap · Runa Sato's reason box, never read aloud, never figured · **the words under the tile** · **the certificate behind Hanneke Ruis's eight, which does not exist and will not.**
+
+---
 # VOLUME 10 BATCH 0005 — CHAPTERS 491–500. THE EIGHTH OF OCTOBER TO THE TWENTY-EIGHTH OF JANUARY. **THE VOLUME IS CLOSED IN PROSE. REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0005.review.log`. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT.**
 
 **THE 13 OCTOBER 2026 REVIEW REPAIR CHANGED FOUR FIGURES, TWO DATES AND ONE NAME AND NOTHING ELSE. NO RULE OF THE WORLD WAS OVERTURNED, NO EVENT, TITLE, SCENE OR PIECE OF THE PLANNED PLOT MOVED, AND `outline/ending.md` IS UNTOUCHED.** The four figures: **493's *seventy-nine days* is *eighty*; 497's *three hundred and forty-nine days* is *three hundred and forty-five*; 497's *two hundred and fifty days* is *fifty-eight days*; and 500's copy of the same *three hundred and forty-nine days* was wrong for its own date and is *about six hundred and forty-five days*, because 500 is the twenty-eighth of January and not the thirtieth of November.** The two dates: **Petra Ilyin moved on the second of October** — 494 and 497 gave two different durations and both state files gave a third, and the page now agrees with the state files — **and Isolde Marchetti's nights are *four nights a week until the end of the year* instead of *four hundred and eleven nights*, which were Beatrix Halm's survey count from volume 2 and a span of forty-eight days.** The one name: **494 no longer refers to itself by chapter number.** **THE FIGURES THAT 493, 497 AND 500 PRINT NOW ARE** eighty days · 345 · fifty-eight days · 645 · and 499's ladder of 222, 228, 292, 308 and `130 + 194 = 324`, **every one of which is derived inside its own chapter with its operands. A LATER PHASE MUST NOT RE-DERIVE ANY OF THEM OFF A DIFFERENT ANCHOR.**
