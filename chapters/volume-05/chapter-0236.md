@@ -64,7 +64,7 @@ Sun saw it first.
 
 "It is the wrong schedule," she said quietly. "They have removed you from the correction. The certification still names you. The board went up at ten and the removal is timed at eleven. An hour late and a paper wide."
 
-Ines put the extract down on the table the way she laid a hand on a thing she had decided not to fight. She did not discuss it. She had said in April that she would not, and she had not for five volumes, and she did not now. She looked at the table once, at each of them, and went to her room and shut the door without locking it.
+Ines put the extract down on the table the way she laid a hand on a thing she had decided not to fight. She did not discuss it. She had said in April that she would not, and she had not for five years, and she did not now. She looked at the table once, at each of them, and went to her room and shut the door without locking it.
 
 The kitchen stayed quiet. Petra squared the extract to the edge of the table with care, as she had squared a hundred and thirty-two dockets in eleven years.
 

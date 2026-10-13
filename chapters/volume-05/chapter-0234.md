@@ -8,7 +8,7 @@ Her hearing was on the morning of the first of next month at the Field division,
 
 "I cannot answer it," she said without looking up. "Every entitlement I bought in May with this household's standing behind it is unpayable while a called standing cannot be drawn against, and that runs from the seventh of this month to the first of next. Twenty-four days, and I have spent seven of them with nothing to put against it. I bought a seat on a tram line and a pair of boots and I cannot pay for either until a book changes hands."
 
-He felt the heat of her anger across the table. He had not heard her angry in five volumes. Marguerite's anger had been cold and Sun's had been at herself. This was different. This was a field operative who hated that paperwork outranked her on paper.
+He felt the heat of her anger across the table. He had not heard her angry in five years. Marguerite's anger had been cold and Sun's had been at herself. This was different. This was a field operative who hated that paperwork outranked her on paper.
 
 He wanted to fix it. That was his want, plain and immediate. He wanted to take the paper off the table and carry it somewhere and get a stamp on it.
 

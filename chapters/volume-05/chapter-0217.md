@@ -114,7 +114,7 @@ He said it with his hand in his coat pocket and then he took his hand out of his
 
 "Forty of the sixty are gone," he said. "Twenty are left."
 
-The kitchen said nothing for about four seconds, and then three people said things at once, and all three of them were wrong, and he let them finish, because they had all been wrong in front of him for four volumes and they were going to be wrong now and it was not his job to stop them.
+The kitchen said nothing for about four seconds, and then three people said things at once, and all three of them were wrong, and he let them finish, because they had all been wrong in front of him for four years and they were going to be wrong now and it was not his job to stop them.
 
 Sun Meiling said, "You decided this before the seventh."
 

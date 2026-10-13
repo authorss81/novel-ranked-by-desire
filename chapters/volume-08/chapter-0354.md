@@ -130,7 +130,7 @@ He walked up the hill from Cordwain at about twenty past eleven with the number 
 
 He had spent seven years refusing to be a person in any room he was in.
 
-On the twenty-seventh of October a woman had written down, at his own kitchen table, at his own asking, the reason *because it is cheaper*, and from that morning eight women had been individually reachable for the first time in this book, and he had known it for seventy days, and he had told nobody, and the reason he had told nobody was that the count was the size of the box and he could not make the box smaller.
+On the twenty-seventh of October a woman had written down, at his own kitchen table, at his own asking, the reason *because it is cheaper*, and from that morning eight women had been individually reachable, which had never happened before, and he had known it for seventy days, and he had told nobody, and the reason he had told nobody was that the count was the size of the box and he could not make the box smaller.
 
 Six of them inside the machine. Five of those six at a desk.
 

@@ -36,7 +36,7 @@ She squared the slate.
 
 ## The Other Half
 
-"And I am going to tell you the other half, because you will not get it from anybody else in this building and you have earned it, and because you have spent seven volumes arranging to be unarguable with and I would like you to know exactly what you spent it on."
+"And I am going to tell you the other half, because you will not get it from anybody else in this building and you have earned it, and because you have spent seven years arranging to be unarguable with and I would like you to know exactly what you spent it on."
 
 She did not soften it and she did not enjoy it.
 
@@ -69,7 +69,7 @@ She put her hands together.
 
 "Will you say anything else," said the chair.
 
-"No. If I say anything else it will be an argument from a recused seat, and there is a person in this room who has spent seven volumes refusing arguments and I am not going to be the first one to offer him one."
+"No. If I say anything else it will be an argument from a recused seat, and there is a person in this room who has spent seven years refusing arguments and I am not going to be the first one to offer him one."
 
 The chair wrote four lines on the slate and looked up again.
 

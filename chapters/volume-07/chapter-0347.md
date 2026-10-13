@@ -20,7 +20,7 @@ He read it at the top of the steps with the light off.
 
 *Lin Hao was served with this minute on the twenty-sixth of December.*
 
-Four lines of it were his name. He had spent thirty days getting his name to the top of a page and seven volumes getting it out of documents, and here it was in the middle of a record made by nine people in a room he had never been inside for longer than an hour.
+Four lines of it were his name. He had spent thirty days getting his name to the top of a page and seven years getting it out of documents, and here it was in the middle of a record made by nine people in a room he had never been inside for longer than an hour.
 
 ## The Table
 

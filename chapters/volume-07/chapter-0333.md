@@ -90,7 +90,7 @@ This morning it made him careful.
 
 He was the safest person in the district. There was no relief going into anybody in a radius of six hundred yards with his hand on it.
 
-In three volumes there had been a man in a good coat at a bar, a date gone missing from a hearing, a clerk who found the wrong record, a shape on a page, a shape on a page, a shape on a page, and he had lived on the fact that every one of those was thirty years old and referred to a man called Lin Hao at premises 34-6-118, which is an address on eight lines.
+In three years there had been a man in a good coat at a bar, a date gone missing from a hearing, a clerk who found the wrong record, a shape on a page, a shape on a page, a shape on a page, and he had lived on the fact that every one of those was thirty years old and referred to a man called Lin Hao at premises 34-6-118, which is an address on eight lines.
 
 Right now that man did not exist as anything at all. Right now there was a hole in the current of a whole district, and it had the shape of a stove, and there was no instrument in this city that could connect a hole to a man who was not spending.
 
@@ -100,6 +100,6 @@ He wanted, with a plainness that surprised him, to be able to put his hand on so
 
 Instead he walked to the wash-house yard at half past four in the afternoon, and the grille on the branch side was running, and water was going over the lip and pooling where it pooled, and the clerk who wrote the slips was on the far side of the yard and did not need him.
 
-He stood there for a minute with his hands in his pockets and watched a thing he could have cleared with a bar in nine seconds going down a drain by itself, and it was the first time in this book that the ordinary good had been available to him and not to his hands.
+He stood there for a minute with his hands in his pockets and watched a thing he could have cleared with a bar in nine seconds going down a drain by itself, and it was the first time the ordinary good had been available to him and not to his hands.
 
 Then he went home and told eight women at a kitchen table that he was not going to be able to give anybody anything for eleven days, and eight women looked at him, and not one of them asked him a question.

@@ -102,7 +102,7 @@ She went out. She was gone in about ninety seconds.
 
 He stood at the end of the table with the fourth page in front of him and read it twice, because it was the same page the other instrument had been on, and the difference between the two was that this one only wanted a number.
 
-"I have spent five volumes not putting a number where a number is asked for," he said. "Every office I have ever been inside has had a place where my plate goes and I have never once been the one who wrote it. That was the whole plan and it worked and it cost me the file."
+"I have spent five years not putting a number where a number is asked for," he said. "Every office I have ever been inside has had a place where my plate goes and I have never once been the one who wrote it. That was the whole plan and it worked and it cost me the file."
 
 "It is still the whole plan," said Sun Meiling. "It has just acquired a fourth page."
 

@@ -52,7 +52,7 @@ That was the posture Tessa had given him on the ninth. That was what had moved a
 
 He stood beside Beatrix in the dark and looked at the green words and registered nothing for about four seconds. Then it hit him.
 
-It was not triumph. It was fear, plain and cold, in the stomach, because for the first time in this book he was a figure on a public wall every week, and the man no division could read was now legible where anybody could see him.
+It was not triumph. It was fear, plain and cold, in the stomach, because for the first time ever he was a figure on a public wall every week, and the man no division could read was now legible where anybody could see him.
 
 ## What It Costs
 

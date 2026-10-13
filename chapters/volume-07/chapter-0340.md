@@ -50,7 +50,7 @@ He took the pins out and her hair came down past her shoulders and she shook it 
 
 "I am thin, and I have been paying for other people's paperwork with my own twenties for eleven years and there is a woman at the Vestry this month with a leg in plaster and I have not been the one holding it." She put her hands on his chest and pushed him back half a step, and the gesture was entirely unhurried and entirely deliberate.
 
-"You are not going to hold me either. Not tonight. I do not want a thing given to me tonight. I want you to take what is on offer and I want it to cost you nothing, because that is the one thing this book has not done for either of us and I am going to insist on it."
+"You are not going to hold me either. Not tonight. I do not want a thing given to me tonight. I want you to take what is on offer and I want it to cost you nothing, because that is the one thing this house has not done for either of us and I am going to insist on it."
 
 "I have nothing to give you," he said. "I have had nothing to give anybody for eleven days and I will not have anything by morning."
 
@@ -148,7 +148,7 @@ She put the four sheets into the drawer, and then stopped with her hand on them.
 
 "And nothing is read in this room again," she said. "Not to me and not by me. Not tonight and not in December and not in four years."
 
-"If there is a night in this book that you need something read to you, you will come to a kitchen with eight women at it and somebody will read it aloud badly and that will be what you get. I have been the one who read what you could not read, for nine years, and I am not going to be a drawer you open."
+"If there is a night in this house that you need something read to you, you will come to a kitchen with eight women at it and somebody will read it aloud badly and that will be what you get. I have been the one who read what you could not read, for nine years, and I am not going to be a drawer you open."
 
 ## The First Of December
 
@@ -176,7 +176,7 @@ She got up and came around the table and stood beside his chair and put one hand
 
 She bent and put her mouth against the side of his head.
 
-"The eleventh day ended at midnight last night," she said, "and you have not spent a grain of it on anybody, including me, including the woman in the ward, and I counted that as well, and it is the first time in this book that I have watched you not do the one thing that would have made you easier to live with."
+"The eleventh day ended at midnight last night," she said, "and you have not spent a grain of it on anybody, including me, including the woman in the ward, and I counted that as well, and it is the first time I have watched you not do the one thing that would have made you easier to live with."
 
 She straightened up.
 

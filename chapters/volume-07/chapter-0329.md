@@ -176,7 +176,7 @@ He shook his head slowly.
 
 "I cannot give it to you," he said. "I have no standing. I cannot obtain a seal. I cannot carry you. I cannot promise you a room the Vant cannot take."
 
-"I know," said Marguerite Vale. "You cannot pay for what I am doing. No scene in this book has ever been between a woman and a man who could pay for it. I am doing it anyway."
+"I know," said Marguerite Vale. "You cannot pay for what I am doing. Nothing I have ever done has been between a woman and a man who could pay for it. I am doing it anyway."
 
 She walked him to the door.
 

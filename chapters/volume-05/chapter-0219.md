@@ -42,7 +42,7 @@ Runa Sato had it in about a minute and a half.
 
 She put the notice on the table face down.
 
-"I am not discussing it," she said. "I said in a corridor in April that you were not to ask me about this and I have not discussed it for four volumes and I am not discussing it on a morning when I have handed a piece of paper into a kitchen and let the room work out what it costs."
+"I am not discussing it," she said. "I said in a corridor in April that you were not to ask me about this and I have not discussed it for four years and I am not discussing it on a morning when I have handed a piece of paper into a kitchen and let the room work out what it costs."
 
 "You handed it in," said Sun Meiling.
 
@@ -68,7 +68,7 @@ There was a line above the address that the whole room had read straight past, b
 
 She looked up.
 
-"That is the safest thing about this household and it is the first time anybody has said so in four volumes, and I would like it noted that the safety comes from a form, because the office does not know there are seven women in this kitchen and it is not going to ask, and not one person in that building is going to ask, and that is the whole of what I have left to say about it this morning."
+"That is the safest thing about this household and it is the first time anybody has said so in four years, and I would like it noted that the safety comes from a form, because the office does not know there are seven women in this kitchen and it is not going to ask, and not one person in that building is going to ask, and that is the whole of what I have left to say about it this morning."
 
 The room was very quiet, and Ines Duarte stood at the end of the table with both hands flat on it, and did not say one word, and she was not going to be asked.
 

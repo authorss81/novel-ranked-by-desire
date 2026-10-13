@@ -52,7 +52,7 @@ The hall was very quiet and the lamp made one small yellow thing on the counter.
 
 "What is it about."
 
-"It is about the only fact this desk has ever had," said Dagmar Oyelowo. "A floor is a room. A floor in a document is a door that has been written down, and a door that has been written down gets opened by somebody in about four years who is not anybody in this story, and he will not be cruel about it, he will simply be working."
+"It is about the only fact this desk has ever had," said Dagmar Oyelowo. "A floor is a room. A floor in a document is a door that has been written down, and a door that has been written down gets opened by somebody in about four years who is not anybody in this city, and he will not be cruel about it, he will simply be working."
 
 "And three."
 

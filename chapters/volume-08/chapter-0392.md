@@ -28,7 +28,7 @@ He came back to it on the twenty-second of March for about nine words on the foo
 
 ## The Clerk And The Foot
 
-The clerk's name is not in this chapter. She had been in the room nineteen months and she read the requisition out on the seventeenth of March at eight minutes to ten and had numbered it the thirteenth of those the room's clerk has ever numbered, and she turned a folder round on the table under the window and did not look at him at any point.
+The clerk's name is not in the book. She had been in the room nineteen months and she read the requisition out on the seventeenth of March at eight minutes to ten and had numbered it the thirteenth of those the room's clerk has ever numbered, and she turned a folder round on the table under the window and did not look at him at any point.
 
 There were four sheets of plain paper in it and they had been in that keeping since five minutes to eleven on the evening of the twenty-ninth of December, and eight of the nine had signed underneath them on the same night and on the fourteenth of January, and there was a gap in the line two fingers wide.
 

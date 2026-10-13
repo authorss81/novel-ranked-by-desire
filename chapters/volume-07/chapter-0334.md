@@ -104,7 +104,7 @@ She looked at him the way people look at a man who is not being clever.
 
 "You'll know what song I mean," she said. "Everybody knows what song I mean. You've been under that plate for four months and not one of them could say who you were and now you're a story with a number on it and that's how it goes, isn't it. The number goes down and people start asking."
 
-He wanted, concretely, to be a man that strangers could not ask. That was the whole of the sixth volume and the seventh one behind it, a man no division could read, and he had paid for it with three women and a green shade, and on the evening of the twenty-third of November he got his first question from a woman with a shopping bag.
+He wanted, concretely, to be a man that strangers could not ask. That was the whole of the sixth year and the seventh one behind it, a man no division could read, and he had paid for it with three women and a green shade, and on the evening of the twenty-third of November he got his first question from a woman with a shopping bag.
 
 ## The Clerk With The Book
 

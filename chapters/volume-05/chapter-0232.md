@@ -67,7 +67,7 @@ He finished the corridor and changed the paper and wiped the tile where the clea
 
 He came home at six and found Wren Kallo on the step below the sixty-one steps, sitting with a folder on her knees, not coming up.
 
-She was the eighth partner and was on no roll at any time, and she had been off the page for a volume before the eighteenth, and now she was back with a finding that went to the head of her division on the morrow.
+She was the eighth partner and was on no roll at any time, and she had been off the page for a year before the eighteenth, and now she was back with a finding that went to the head of her division on the morrow.
 
 "You are not coming up," he said.
 

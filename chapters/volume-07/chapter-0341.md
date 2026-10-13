@@ -128,4 +128,4 @@ She did not look at her slate. She answered the way people answer a question at 
 
 Then she put her hand on the next slate and pulled it towards her, which is the end of every conversation at that desk in the history of the city.
 
-He went down the stairs with eleven words in his head that he would not be able to put down, and out into the light of the first of December, where a thing he had been arranging for seven volumes had been called in nine words by a woman with a blotter, and it did not have anybody's name on the head of it, and that was the only reason he was still walking about the city.
+He went down the stairs with eleven words in his head that he would not be able to put down, and out into the light of the first of December, where a thing he had been arranging for seven years had been called in nine words by a woman with a blotter, and it did not have anybody's name on the head of it, and that was the only reason he was still walking about the city.

@@ -132,7 +132,7 @@ Then she went, and the square filled up, and he stood under the ranks wall with 
 
 He took the flat book out of the inside pocket of his coat, the one with a pencil elastic round it and about ninety days of a round written in one hand in a hand that was not his, and he opened it on the stone ledge and counted the lines with his thumb the way he had counted them on the ninth of May at half past ten.
 
-One hundred and fifty-eight. He had counted one hundred and fifty-one that night at half past ten with a woman's voice still in his head about a number told twice at a corner counter, and it has gained seven lines in nine weeks, one a week, because a round writes a line when there is something on it and the round does not stop for anything.
+One hundred and fifty-eight. He had counted one hundred and fifty-one that night at half past ten with a woman's voice still in his head about a number told twice at a corner counter, and it has gained seven lines in nine weeks and not one a week, because a round writes a line when there is something on it and the round does not stop for anything.
 
 Ten of them were turned. Nine of them had been turned since the fourth of January and the ninth of those was himself, and the tenth was a carter who works a lane off Ferrier Street and carried an old woman up three floors at two in the morning on the ninth of April because that was quicker than waiting for help, and said *you have got a cold hand*, and went out into the street.
 

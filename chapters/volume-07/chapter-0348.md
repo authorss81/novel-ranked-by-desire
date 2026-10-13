@@ -48,7 +48,7 @@ Eight words. There was no hour against them and no clerk and no division and no 
 
 "From this morning, every paper in this city that touches that account has to carry his name at the top of it," she said. "Not because anybody made him. Because he went up that hill at four and a quarter past nine this morning with four sheets in his coat and put his name on them himself."
 
-"Six volumes," said Nadia Ferrous. "Six volumes of paper with no name at the top of it, and he has gone the other way in two months, and he did it on purpose, and nobody made him."
+"Six years," said Nadia Ferrous. "Six years of paper with no name at the top of it, and he has gone the other way in two months, and he did it on purpose, and nobody made him."
 
 "He did it because there is a ruled box somewhere in this city with a tick in the corner of it and his address on the line above," said Runa Sato. "And he is the only person alive who can fill it. And he filled it at his own kitchen table rather than in a hearing, and that is going to be in the answer for him and not against him, and it is the only good decision any of us have made in a month."
 

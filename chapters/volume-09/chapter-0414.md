@@ -44,7 +44,7 @@ A hundred and forty-nine lines went past a hundred and fifty on an ordinary day 
 
 There was nobody to ask about it. That was the thing about it that he had to sit with.
 
-He had gone to nine different women with a fact in his hand and every one of them had been able to do something with it, and there was not one of them he could hand this to, because the count was the thing he had never shown anybody and the reason he had never shown it anybody was that a number you tell is a number that exists somewhere other than inside you.
+In five years he had gone to nine different women with a fact in his hand and every one of them had been able to do something with it, and there was not one of them he could hand this to, because the count was the thing he had never shown anybody and the reason he had never shown it anybody was that a number you tell is a number that exists somewhere other than inside you.
 
 ## Half Past Five, Cordwain
 

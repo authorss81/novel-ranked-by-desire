@@ -114,7 +114,7 @@ One of the six is a wing where a woman who is line one on the page works on the 
 
 And one of the six is the division that holds the description, and it has been served, and he cannot ask whether it has opened it, and he cannot ask the woman who signed the description whether she has read what was served on her own division, and there is nobody else in this city who is permitted to tell him.
 
-That was the specific shame of the nineteenth of January. Nothing else had happened to him in four months that was as small, and it was the first time in this book that a man had gone out looking for a piece of paper in order not to be the subject of it.
+That was the specific shame of the nineteenth of January. Nothing else had happened to him in four months that was as small, and it was the first time anybody had gone out looking for a piece of paper in order not to be the subject of it.
 
 The ledger had gone to a hundred and twenty-eight lines in nineteen days, because he had kept his round at the Fourth Branch and branch attendants score in aggregate, and nine of those lines were turned, and the ninth of them was still him, and there was nothing spent on any of them.
 

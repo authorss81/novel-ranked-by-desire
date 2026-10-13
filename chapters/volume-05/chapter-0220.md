@@ -8,7 +8,7 @@ Then he came home up sixty-one steps at half past eleven with a coat over his ar
 
 ## Twenty-One Days
 
-The rest of the morning was arithmetic and it was the first arithmetic in four volumes that had a date on the good side of it.
+The rest of the morning was arithmetic and it was the first arithmetic in four years that had a date on the good side of it.
 
 The account was secured from the seventh. The demand was met on the tenth, in four minutes, by a clerk writing one word. The examination stood, and the examination is entered against a broker of record, and a broker of record with a live account and no problem is a broker of record whose book goes to the next sitting in four years without a question asked about item one.
 

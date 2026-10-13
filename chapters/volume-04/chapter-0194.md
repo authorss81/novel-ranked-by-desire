@@ -12,7 +12,7 @@ They are on his left side, and they are the third, the fourth, the fifth and the
 
 Ines Duarte made him say the location out loud before she would put a thumb on it, and Sun Meiling never touched it at all and made him say the number three times.
 
-Tessa Okonkwo had refused to touch it for four volumes.
+Tessa Okonkwo had refused to touch it for four years.
 
 She had given her reason on the seventh of April, in a washroom on the sixth floor, at five to midnight, in the voice of a clinician and not in the voice of a woman, and the reason had not changed in the five weeks since and it did not change now.
 
@@ -22,7 +22,7 @@ If she put her hand on it and something moved, then she was a clinician who had 
 
 He did not say anything.
 
-"I am going to touch it because a record of a body is the only thing in this city that is worth the paper it is on, and I have signed a chart in four volumes and every one of them has two ribs on it and nothing else, and a chart that says the third and the fourth and stops there is a chart that says a man has two ribs and not a name of anything.
+"I am going to touch it because a record of a body is the only thing in this city that is worth the paper it is on, and I have signed a chart in four years and every one of them has two ribs on it and nothing else, and a chart that says the third and the fourth and stops there is a chart that says a man has two ribs and not a name of anything.
 
 "And there are four.
 

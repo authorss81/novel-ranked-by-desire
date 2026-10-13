@@ -18,7 +18,7 @@ Beatrix Halm was under the north end of the same wall at about a quarter to five
 
 "That is not the same and I would like it kept straight." She shut the book. "I have been here every morning for nine years and on four of those mornings I have written a time underneath something and on the other five hundred and something I have not, and this morning is the first morning since the thirtieth of March that there has been nothing to write a time under."
 
-She said that as a woman reporting a change in a column and not as a woman reporting a loss, and he understood that about her by the end of the first volume and had never once been able to argue with it.
+She said that as a woman reporting a change in a column and not as a woman reporting a loss, and he understood that about her by the end of the first morning and had never once been able to argue with it.
 
 "Ninety days," she said. "And then two words, and the two words have had four days and there has been no third thing. A wall in this city says one thing and stops. It has never once said three."
 

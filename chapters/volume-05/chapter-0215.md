@@ -30,7 +30,7 @@ The room went through about four different kinds of quiet in about nine seconds.
 
 "Yes," said Marguerite Vale.
 
-Nadia Ferrous put her hand up, actually put it up, the way she had at a counter in Cordwain four volumes ago.
+Nadia Ferrous put her hand up, actually put it up, the way she had at a counter in Cordwain four years ago.
 
 "Where does this sit," said Nadia Ferrous. "On the load order. Bottom to top. Because Runa did it on the twenty-sixth and it went book, examination, broker, broker's rank two, head, six members, and this thing is not on any of those rungs and I would like to know what I have been carrying."
 

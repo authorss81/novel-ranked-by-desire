@@ -136,4 +136,4 @@ He stood up off the bench and picked his bag up and did not put it on.
 
 "She has been writing it for nine years and you have been the only thing on it for five of them."
 
-He went out of the muster room at about ten past eight with nine days to the last working day of the quarter, and the whole of the volume's arithmetic in his head, and one figure he could not get out of it by doing sums.
+He went out of the muster room at about ten past eight with nine days to the last working day of the quarter, and the whole of the quarter's arithmetic in his head, and one figure he could not get out of it by doing sums.

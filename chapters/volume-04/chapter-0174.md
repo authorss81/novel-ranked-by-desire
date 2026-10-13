@@ -94,7 +94,7 @@ Forty feet. He had read the plate on it on the twenty-second and had stood at it
 
 He had cleaned six floors of the Fourth Branch every working morning for four years and he had learned the exact shape of this machine twenty-two days ago by watching a clerk put a stranger's name into a written address in eight minutes and forty seconds, and the machine was thirty-five feet long and had four shelves and one of them was labelled.
 
-He had spent four volumes being the least findable person in Ostara and he had confused it with being safe. Those are not the same thing and the difference between them is a shelf.
+He had spent four years being the least findable person in Ostara and he had confused it with being safe. Those are not the same thing and the difference between them is a shelf.
 
 Nothing had been hidden, and that was the part that would not sit still on him in the room, the way a man cannot stop checking a pocket he has already emptied. It was not on a shelf because somebody had decided it should stay there. It was on a shelf because it had missed its period, and a filing system does not conceal late returns. It is the place late returns go.
 

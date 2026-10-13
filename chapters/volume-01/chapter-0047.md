@@ -66,7 +66,7 @@ The panel looked at the query sheet.
 
 The chair conferred with the panel in whispers. The register sheet went along the table again. The clerk stood with her arms folded, waiting, because the query was hers and the answer would be read against her entry. The public seats did not move. Marguerite sat with her house round her, hands folded, watching the table and not the candidates. The two women with her took notes without being asked. Ines had her folder open now on her knees, with a blank page uppermost and a pen in her hand, though she had no standing to write a finding.
 
-The room went quiet. That was the arithmetic of the whole volume in two sentences, and everybody in it knew it.
+The room went quiet. That was the whole of the arithmetic in two sentences, and everybody in it knew it.
 
 “The query requires an answer,” the chair said. “The panel will hear one question put and answered under the open-question rule, if the candidate takes the slot. The slot is public, without notice, on the floor, now.”
 

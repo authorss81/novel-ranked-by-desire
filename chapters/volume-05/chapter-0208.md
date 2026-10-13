@@ -74,7 +74,7 @@ The kitchen was very quiet.
 
 "No." She came down one step, which put her in the light from the stair window, and the light stopped about two inches above the seventh row and she was standing in it.
 
-"You have been trying to keep Ines off that sheet since the nineteenth of May and you did it beautifully. She asked you on the twenty-fifth to stop doing it and you are going to go on doing it, and I watched you agree to her face, and I know exactly what agreeing to her face has been worth you in four volumes.
+"You have been trying to keep Ines off that sheet since the nineteenth of May and you did it beautifully. She asked you on the twenty-fifth to stop doing it and you are going to go on doing it, and I watched you agree to her face, and I know exactly what agreeing to her face has been worth you in four years.
 
 "And now you want to do the same thing to me, and you want to do it for the best possible reason, and the best possible reason is the only one that has never once worked in this house.
 

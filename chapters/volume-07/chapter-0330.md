@@ -42,7 +42,7 @@ Grief came up in him, for her and not for himself, sharp and adult, because she 
 
 "I told you I could not give you a position."
 
-"You told me last night and you were right," she said. "I did it anyway. No woman in this book has ever been with a man who could pay for what she was doing. Runa Sato told you that on Cordwain on the thirtieth of October. Isolde Marchetti told you on the fifteenth. I am telling you now."
+"You told me last night and you were right," she said. "I did it anyway. No woman I have ever known has been with a man who could pay for what she was doing. Runa Sato told you that on Cordwain on the thirtieth of October. Isolde Marchetti told you on the fifteenth. I am telling you now."
 
 She came and sat opposite him at the cleared table.
 

@@ -66,7 +66,7 @@ He read the line twice. Eleven dates, the nineteenth to the twenty-ninth, and un
 
 "I am spending myself to hold her," she said, "and I am telling you what it costs because you are the kind of man who pretends he does not know. Every day of those eleven days takes room in my frame that I do not get back this year."
 
-"You have not spent a grain in five volumes. I am about to spend about eleven days, and nobody will attest any of it, and I have four turned lines in my own book that are going to get worse while I do it. Do not thank me. Thanking me is the cheapest thing you have ever done and you do it when you cannot pay."
+"You have not spent a grain in five years. I am about to spend about eleven days, and nobody will attest any of it, and I have four turned lines in my own book that are going to get worse while I do it. Do not thank me. Thanking me is the cheapest thing you have ever done and you do it when you cannot pay."
 
 He put his hands in his pockets because they had begun, without permission, to shake, and she saw it and said nothing, which was the correct thing and the hardest.
 
@@ -114,7 +114,7 @@ And below the floor an account carried at a figure is not an account any more.
 
 It is a thing that can be called.
 
-He had known that on the nineteenth of October, in a sub-level, with his own reason clause going out on the ordinary stream. He had known it at the third of November in a kitchen when he asked to be seen. He had known it for seven volumes, and he had spent seven volumes arranging for nothing to be able to ask him for anything.
+He had known that on the nineteenth of October, in a sub-level, with his own reason clause going out on the ordinary stream. He had known it at the third of November in a kitchen when he asked to be seen. He had known it for seven years, and he had spent seven years arranging for nothing to be able to ask him for anything.
 
 He was going to keep one woman alive for eleven days with a slip in a ledger in a clinic, and the price of it was that everything he had built would come down in front of strangers, in daylight, in the only colour a painter could get.
 

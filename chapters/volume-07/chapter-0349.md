@@ -110,7 +110,7 @@ Sun Meiling came down at about ten past six with her coat on over her nightshift
 
 He looked up at the card for a while. The boy had gone down the ladder and the paste was drying and about thirty people had come into the square since six, and not one of them stopped at the north wall, and that was the other half of it that nobody was going to put in a notebook.
 
-He had spent seven volumes being a sentence on a wall.
+He had spent seven years being a sentence on a wall.
 
 At twenty past six on the thirtieth of December the sentence stopped.
 

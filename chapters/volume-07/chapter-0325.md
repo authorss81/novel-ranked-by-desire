@@ -90,7 +90,7 @@ Nadia Ferrous broke the quiet.
 
 "No," he said. "It has not changed."
 
-He went to the window and looked out at the dark street where eight women were now individually reachable for the first time in this book, on a list that could not be corrected, and he saw, briefly and completely, what it meant for one man to be carried by somebody he had never met.
+He went to the window and looked out at the dark street where eight women were now individually reachable, all of them on a list that could not be corrected, and he saw, briefly and completely, what it meant for one man to be carried by somebody he had never met.
 
 The wall would have to hear him before any seal ever would. That was the order. That was the whole order.
 
