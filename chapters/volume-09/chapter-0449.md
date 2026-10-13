@@ -2,7 +2,7 @@
 
 He went to the public post off a third court at about twenty to four on the afternoon of the twenty-eighth of June because there was nothing else in the city to go and do about it, and because the counter shuts at four whatever is in it, and there were four people in the queue and one of them was a man who had been in this queue on the fifteenth of April and had taken about ninety seconds.
 
-"It is one hundred and twenty-eight days since the twentieth of February," he said, to nobody, in the street outside. "Ten from twenty leaves ten, with thirty and thirty and thirty and twenty-eight makes one hundred and twenty-eight."
+"It is one hundred and twenty-eight days since the twentieth of February," he said, in the street outside, to the shut shutter. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-eight makes one hundred and twenty-eight."
 
 He knew that boy. There was a card up on a wall at the head of the Reading at six on the morning of the thirtieth of March, and it had gone up in the way a card goes up, and the hand that spread the paste on it was the hand that took the sheet on the fifteenth of April.
 
@@ -128,7 +128,7 @@ He got out under the shutter with about twenty seconds to spare, and stood in th
 
 There is a woman who stands under the north end of that wall every morning of her life.
 
-She has a notebook and her hands are cold round the pencil and she has done it for nine years and nobody has ever asked her a question about it, and on the thirtieth at six a card will come down on that wall and she will read it, and she has said out loud, at a kitchen table, that she will write a name down and put the time against it.
+She has a notebook and her hands are cold round the pencil and she has done it for nine years and not one person has ever asked her a question about it, and on the thirtieth at six a card will come down on that wall and she will read it, and she has said out loud, at a kitchen table, that she will write a name down and put the time against it.
 
 There is a tile at the top of that wall that has nothing on it and has had nothing on it for twenty years and is a different colour from every tile under it, and on the thirtieth there is a boy with a paste brush and a list of numbers at half past four and the only person in this city who will look at what he has put up is a woman who reads walls in the dark and has done it every morning for nine years.
 
@@ -138,7 +138,7 @@ Not at six. At half past four, on the thirtieth morning, in the dark, at the nor
 
 He worked out in about ninety seconds, on a street off a third court, on the twenty-eighth of June, that he was not going to do it, and that this was the first decision he had made in ninety days that cost him something instead of saving somebody else something.
 
-She reads that wall alone. She has read it alone for nine years and she has never once had a man standing at the north end when she came, and the only reason she has ever wanted to write a name on the black tile at the top of it is that nobody ever has.
+She reads that wall alone. She has read it alone for nine years and she has never once had a man standing at the north end when she came, and the only reason she has ever wanted to write a name on the black tile at the top of it is that in nine years not one person has.
 
 If he were standing there when she picked the chalk up, then whatever she wrote on the thirtieth morning would have been written with a man under it, and in about four years there would be a stranger with a folder and a wall and a tile with a name on it, and no way on earth to tell anybody whether the woman who wrote it did it for herself or because she was not alone.
 

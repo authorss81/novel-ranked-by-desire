@@ -2,7 +2,7 @@
 
 Hanneke Ruis was at the rail outside the room at the end of the corridor at about ten past nine on the morning of the twenty-fifth of June with Solveig Rask and an armful of a book on a chain, and the book had to be laid out on a table in that room on the thirtieth because the quarterly return is drafted from the real book and there is no other table in this quarter long enough for it.
 
-"It is one hundred and twenty-five days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and twenty-five makes one hundred and twenty-five."
+"It is one hundred and twenty-five days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-five makes one hundred and twenty-five."
 
 "Five days," said Hanneke Ruis. "Thirty taken from twenty-five leaves five. And do not stand in the doorway of that room with your hands behind you, you look like a man waiting for a bus."
 
@@ -42,7 +42,7 @@ The room stood at five before he came into it and the room stood at five with hi
 
 ## What He Said He Had Been Doing
 
-"You were re-read at the valuation of the first of February," the clerk said, from behind the second table. "That is on the register. A man with no standing cannot hold a seal, and after the second of February you had no standing, and you did not come, and nobody wrote down that you did not come because nobody had to."
+"You were re-read at the valuation of the first of February," the clerk said, from behind the second table. "That is on the register. A man with no standing cannot hold a seal, and after the second of February you had no standing, and you did not come, and it was not written down anywhere, because nothing required it to be."
 
 "I did not come because I did not have a seal to come with."
 
@@ -50,7 +50,7 @@ The room stood at five before he came into it and the room stood at five with hi
 
 "It is the answer to it," said Bertram Sallow. "Five months. I sat outside this door twice and both times a clerk came out and told me there was no business and I went away, and I have been a man who is not in a room for five months and it turns out that is not a thing a man can be once a month in a city this size."
 
-"I went to the hall twice a day for five months and nobody said anything to me, and I want you to understand that nobody saying anything was the entire punishment and it worked."
+"I went to the hall twice a day for five months and nobody said anything to me, and I want you to understand that being left alone was the entire punishment and it worked."
 
 He put his hands flat on the table.
 
@@ -102,15 +102,17 @@ He caught Sallow on the stair, which was the only way out of that building and w
 
 "And now."
 
-"Now there are five." He did not turn round. "There were four on the first of December and there were four on the first of February and the difference between those two numbers was me, and in February I was not one of them, and in April I was one of them again because a Council that had not sat for three months sat for eleven minutes."
+"Now there are five." He did not turn round. "There were four on the first of December and there were four on the first of February and the difference between them was me, and in February I was not one of them, and in April I was one of them again because a Council that had not sat for three months sat for eleven minutes."
 
 "And now there are five and I am one of the five, and I would like it said somewhere, by anybody, in any building, that I do not know what the fifth is for."
 
 He got to the landing above and stopped.
 
-"I have been a rank for five months and a nobody before that and a rank for nine years before that," said Bertram Sallow.
+"I have been a rank for three months and a nobody for the two months before that and a rank for nine years before that," said Bertram Sallow.
 
-"Nobody in this city has ever once asked me which of those three I would rather be, and the answer is that a man who has been a nobody in a city of this size would rather be a nobody than a thing that is read aloud, and I want you to understand that I am saying it out loud in a stairwell and not to a clerk, because I have worked that out about this city in five months of being stepped around by anybody holding a card."
+"Not one person in this city has ever asked me which of those three I would rather be, and the answer is that a man who has been a nobody in a city of this size would rather go on being one than be a thing that is read aloud."
+
+"And I am saying it out loud in a stairwell and not to a clerk, because I have worked that out about this city in five months of being stepped around by anybody holding a card."
 
 Then he went up, because the second floor on that stair was Sun Meiling's and the third was Perrin Sowe's and neither of them had anything to do with him at all.
 
@@ -120,7 +122,7 @@ He stood on the landing and thought that a man had just told him, in a stairwell
 
 Hanneke Ruis was still on the corridor with the book in her arms and Solveig Rask had gone down to the rail with the cloth, and he stood with her for about twenty minutes because there was nowhere else to stand.
 
-"The fourth block of that sheet takes a figure off a certificate of the composition of the address," said Hanneke Ruis. "The certificate is made four times a year and the quarter that begins on the first of July has not got one, because a form cannot be drafted without one and nobody has drafted one, and there are three days of this quarter left."
+"The fourth block of that sheet takes a figure off a certificate of the composition of the address," said Hanneke Ruis. "The certificate is made four times a year and the quarter that begins on the first of July has not got one, because a form cannot be drafted without one and no one has drafted one, and there are three days of this quarter left."
 
 "Then what goes in the block."
 
@@ -130,7 +132,7 @@ Hanneke Ruis was still on the corridor with the book in her arms and Solveig Ras
 
 "And the minute upstairs does not help."
 
-"The minute upstairs does not help at all," said Hanneke Ruis. "A minute says that a man answered a requisition in a room on the thirtieth of June. A certificate says who was living in a house. They are not the same animal, nobody confuses them, and I have been three days working out whether a minute can stand in for one and it cannot, and that is not a question I can put to a room."
+"The minute upstairs does not help at all," said Hanneke Ruis. "A minute says that a man answered a requisition in a room on the thirtieth of June. A certificate says who was living in a house. They are not the same animal and it is not a confusion anybody makes, and I have been three days working out whether a minute can stand in for one and it cannot, and that is not a question I can put to a room."
 
 She looked down the corridor at the door and then at the man in it.
 

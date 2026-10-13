@@ -1,6 +1,6 @@
 # The Name On The Black Tile
 
-"One hundred and thirty days since the twentieth of February," he said, to a doorway. "Ten from twenty leaves ten, with thirty and thirty and thirty and thirty makes one hundred and thirty. And thirty taken from thirty leaves nothing, which is the last working day of the quarter, and there are five things on it and I am not at any of them."
+"One hundred and thirty days since the twentieth of February," he said, to a doorway. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and thirty makes one hundred and thirty. And thirty taken from thirty leaves nothing, which is the last working day of the quarter, and there are five things on it and I am not at any of them."
 
 He was four floors away and about a street away at six o'clock in the morning on the thirtieth of June, on his round, ninety minutes of streets and about four doors, being the man who is there when nobody is looking, and he had known since the afternoon of the twenty-eighth that he would be exactly there.
 

@@ -1130,7 +1130,7 @@ nine volumes been in a position to answer one.
 
 - **441 (13 Jun). THE STANDING TO ANSWER FOR HIMSELF. WRITTEN BY BATCH 0004, 1,121 WORDS.** The requisition is called — not carried, not received, not decided — and answering means standing as a member with a seal he cannot refuse. He does not make the room need anything; he is told to stand when called.
 - **442 (15 Jun). THE MINUTES HE READS HIMSELF. WRITTEN BY BATCH 0004, 964 WORDS.** Alone with two minutes, read twice each, no correction, no summing-up. Fifteen days to the day with five things on it.
-- **443 (17 Jun). THE REQUISITION IN HIS OWN ANSWER. WRITTEN, 2,494 WORDS. THE BATCH'S FIRST IRREVERSIBLE DECISION.**
+- **443 (17 Jun). THE REQUISITION IN HIS OWN ANSWER. WRITTEN, 2,493 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 2,494 BEFORE IT. THE BATCH'S FIRST IRREVERSIBLE DECISION.**
   **A printed minute-form goes out on the second table for the first time in ninety days, and it has no box on it
   for what the subject says, because a clerk may only enter and cannot correct and will not put a man's own words
   into a book.** He is told what standing up is made of: the fifth seat is four inches lower than the other eight,
@@ -1149,7 +1149,7 @@ nine volumes been in a position to answer one.
   thing he had arranged. The clerk rules, flatly, that he did not put her in that chair and that he must not thank
   her. **WHAT THE ROOM LEARNS AT THE END: nobody may ask her and there is no sheet, so on the thirtieth there is no
   way on earth to keep the officer of that composition out of the corridor while he answers.**
-- **445 (21 Jun). THE CLAUSE UNDER THE MINUTE. WRITTEN, 2,484 WORDS. THE BATCH'S SECOND IRREVERSIBLE DECISION.**
+- **445 (21 Jun). THE CLAUSE UNDER THE MINUTE. WRITTEN, 2,499 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 2,484 BEFORE IT. THE BATCH'S SECOND IRREVERSIBLE DECISION.**
   He writes a clause in a notebook and brings it in: where a minute names premises, no person keeping an address so
   named may be produced by that minute otherwise than in the presence of the subject. Runa Sato prices it and says
   the half of it that cannot work — **a clause is entered under a minute at the making of a minute and cannot reach
@@ -1159,7 +1159,7 @@ nine volumes been in a position to answer one.
   in one room with one stranger in it. He widens it in front of Runa Sato to all nine women and says why. **WHAT IT
   CLOSED: his own isolation. From the thirtieth of June nothing that room says about his address can be used
   without him in the corridor, and he has told the house in effect that he is a doorway and not a man in a building.**
-- **446 (23 Jun). THE SCENE. INES DUARTE. WRITTEN AND OUT IN FULL, 4,647 WORDS; SCENE BODY 1,843 ON THE SPAN
+- **446 (23 Jun). THE SCENE. INES DUARTE. WRITTEN AND OUT IN FULL, 4,646 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 4,647 BEFORE IT; SCENE BODY 1,843 ON THE SPAN
   `## Reading While` TO `## The Hour She Does Not Read` EXCLUSIVE, AND 1,846 ON THE LITERAL FIRST-`##`-TO-LAST-`##`
   SPAN; PROBE 24 ON THE SAME LIST AS 406/417/428/438.** §4. A reading room on the first floor over the counting
   house, a rail, an open door, and a day's book in a stand with the hour and the applicant's name on it. She books
@@ -1171,7 +1171,7 @@ nine volumes been in a position to answer one.
   it is the standing to be read.** Then she keeps reading through the whole of it and does not stop. She leaves the
   last hour out and does not mark it in the day's book. **A name is on the day's book with the hour against it, and
   he is entered as the subject, and no later reading of him can be called accidental.**
-- **447 (25 Jun). THE FOURTH SEAT FILLS AND EMPTIES. WRITTEN, 2,466 WORDS.** Hanneke Ruis is on the corridor with the
+- **447 (25 Jun). THE FOURTH SEAT FILLS AND EMPTIES. WRITTEN, 2,471 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 2,466 BEFORE IT.** Hanneke Ruis is on the corridor with the
   chained real book and no table to lay it on. **THE CLERK SENDS FOR BERTRAM SALLOW, whose standing has been read
   aloud five times since the first of April without him.** He comes at nine and sits in the fourth seat for ninety
   minutes and the room stands at five before and five after, because a standing is a line in a book and not a body
@@ -1189,7 +1189,7 @@ nine volumes been in a position to answer one.
   that comes down at six at the head of the Reading prints the standing figure of every named premises, and it goes
   on a wall, and the keeper needs that figure at about ten to nine at a rail, and there is no instrument that will
   carry it from one to the other.**
-- **449 (28 Jun). THE BOY WITH THE PASTE BRUSH. WRITTEN, 2,401 WORDS. THE BATCH'S THIRD IRREVERSIBLE DECISION.**
+- **449 (28 Jun). THE BOY WITH THE PASTE BRUSH. WRITTEN, 2,409 WORDS AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 2,401 BEFORE IT. THE BATCH'S THIRD IRREVERSIBLE DECISION.**
   The public post off a third court at twenty to four, a queue of four, a counter that shuts at four whatever is in
   it, and a jar of paste on the shelf under the counter with a brush standing in it. The boy is the boy who put the
   card on a wall on the thirtieth of March with a paste brush and a list of numbers, and he is told nothing, and he
@@ -1215,8 +1215,9 @@ nine volumes been in a position to answer one.
 **THE CLIMAX, AND IT IS NOT A DEAL, AND IT IS NOT YET ON THE PAGE.** The plan put the answering in this movement.
 **The page has put the answering after the volume.** 450 is six o'clock on the morning of the thirtieth; the sitting
 is that afternoon; **every chapter of this batch ends before the thing the volume is about has happened, and the
-thirteenth and twenty-fifth of June are the only two days on it when a member of that room and a woman in a chair
-that is not a member's are in the same corridor on the same afternoon.** That is deliberate and it is the reader's
+nineteenth of June is the only day in the batch on which a member of that room and a woman in a chair that is not a
+member's are in the same corridor on the same afternoon — for about an hour and a quarter at the second table, with
+Alma Quayle already in the chair when Sun Meiling came down the corridor.** That is deliberate and it is the reader's
 standing that carries into Volume 10. **What the answer is going to be is fixed on the page and was fixed at 441:
 the holding is his, the ground is his own description of his own premises, and a lodged man cannot be administered
 against a composition he is not keeping — and he has since paid for saying the four words that identify the ground
@@ -1259,7 +1260,7 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
 | **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE REVIEW REPAIR OF THE SAME DAY, 23,943 BEFORE IT; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
 | **0004** | **433–442** | 29 May – 15 June | **WRITTEN, 12,100 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 12,109 BEFORE IT; `outline/volume-09.md` §6 movement 4 REWRITTEN AGAINST THE PAGE in the same commit, with five named places the plan was wrong. 441–442 are written by this batch and open movement 5's question; movement 5 is still plan for Batch 0005.** Four minutes and a box; the one who was never told, and the telling is the batch's irreversible decision; the chair who will not meet; a correction not filed; the third sub-level corridor; the Beatrix Halm scene at 438 (body 1,151, probe 20); the count kept under; the house that is nine people; the standing to answer; the minutes read alone. |
-| **0005** | **443–450** | 17–30 June | **WRITTEN 13 OCTOBER 2026, 21,984 WORDS COUNTED PER FILE AND SUMMED, EVERY CHAPTER ABOVE 2,400; `outline/volume-09.md` §6 movement 5 REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, WITH SEVEN NAMED PLACES THE PLAN WAS WRONG. Three irreversible decisions: he says the four words in the corridor (443), he enters a clause that makes himself the address every woman keeping it has to be fetched through (445), and he decides not to be at the wall at half past four on the morning the card comes down (449).** The requisition in his own answer; the chair that is not a member's; the clause; the Ines Duarte reading room scene at 446 (body 1,843, probe 24); a restored man in the fourth seat; three refusals at a rail; the boy and the jar; the card at six. **THE SITTING ITSELF IS AFTER THE VOLUME AND THE NEXT PHASE IS `workspace/volume-09/volume-close/PROMPT.md`.** Eight chapters — it is the volume's close and it is one unit, and `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not thirty |
+| **0005** | **443–450** | 17–30 June | **WRITTEN 13 OCTOBER 2026, 22,010 WORDS COUNTED PER FILE AND SUMMED AFTER THE REVIEW REPAIR OF THE SAME DAY, 21,984 BEFORE IT, EVERY CHAPTER ABOVE 2,400; `outline/volume-09.md` §6 movement 5 REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, WITH SEVEN NAMED PLACES THE PLAN WAS WRONG. Three irreversible decisions: he says the four words in the corridor (443), he enters a clause that makes himself the address every woman keeping it has to be fetched through (445), and he decides not to be at the wall at half past four on the morning the card comes down (449).** The requisition in his own answer; the chair that is not a member's; the clause; the Ines Duarte reading room scene at 446 (body 1,843, probe 24); a restored man in the fourth seat; three refusals at a rail; the boy and the jar; the card at six. **THE SITTING ITSELF IS AFTER THE VOLUME AND THE NEXT PHASE IS `workspace/volume-09/volume-close/PROMPT.md`.** Eight chapters — it is the volume's close and it is one unit, and `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not thirty |
 
 **THE TOTAL IS TWELVE PLUS TEN PLUS TEN PLUS TEN PLUS EIGHT, WHICH IS FIFTY. NO CHAPTER IS IN TWO BATCHES AND NO
 CHAPTER IS IN NONE.**

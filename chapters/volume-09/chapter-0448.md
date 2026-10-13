@@ -2,7 +2,7 @@
 
 The counting room is two floors under a sales floor and it is cold in June in a way that has nothing to do with the weather, and on the morning of the twenty-seventh of June the real book was on its board with the chain over it and Hanneke Ruis standing at the rail with her sleeves pushed up past the elbow.
 
-"It is one hundred and twenty-seven days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and twenty-seven makes one hundred and twenty-seven."
+"It is one hundred and twenty-seven days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-seven makes one hundred and twenty-seven."
 
 "Three days," said Hanneke Ruis. "Thirty taken from twenty-seven leaves three. Come down here, you are wasting my draught."
 

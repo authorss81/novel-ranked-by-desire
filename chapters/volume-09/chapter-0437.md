@@ -2,7 +2,7 @@
 
 The doctor keeps a surgery on the ground floor of the building above the third sub-level, and on the morning of the seventh of June she was at the rail outside it with a bag in her hand, and he was there because she had told the clinic he might come and she had not told him to stay away.
 
-"It is one hundred and seven days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and seven makes one hundred and seven."
+"It is one hundred and seven days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and seven makes one hundred and seven."
 
 "Twenty-three days to the thirtieth," said the doctor. "Thirty taken from seven leaves twenty-three. I have walked this corridor every working day for three years and I count it the same way."
 

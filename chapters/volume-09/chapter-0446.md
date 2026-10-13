@@ -4,7 +4,7 @@ The reading room is on the first floor over the counting house and it has a tabl
 
 That is the rule and it is the only rule anybody enforces.
 
-He said the date to a clerk on the stair at a quarter to nine, while she was still walking. "One hundred and twenty-three days since the twentieth of February. Ten from twenty leaves ten, with thirty and thirty and thirty and twenty-three makes one hundred and twenty-three. And seven days to the thirtieth, because thirty taken from twenty-three leaves seven."
+He said the date to a clerk on the stair at a quarter to nine, while she was still walking. "One hundred and twenty-three days since the twentieth of February. Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-three makes one hundred and twenty-three. And seven days to the thirtieth, because thirty taken from twenty-three leaves seven."
 
 She said the seven back to him without breaking stride and went on up, and that was the only person in this city who had said a number to him that morning and gone away with it.
 
@@ -52,7 +52,7 @@ In order. The date first, always, and the hour with it when the record carries o
 
 She began at the beginning and she did not hurry, and the woman from the hall came in at about a quarter past nine and stood at the rail with her hands on it, and by half past there were four of them, and nobody came in late and nobody left.
 
-"The twenty-seventh of October. About eleven in the morning." Her voice in a small hard room was a plain thing and did not need to be anything else. "A description of the premises thirty-four, dash, six, dash, one-one-eight, made against the head of those premises, by a clerk of the division of classification. Four words. Spoken by the subject in a kitchen on the fifteenth of November and written down at the head of his own address."
+"The twenty-seventh of October. About eleven in the morning." Her voice in a small hard room was a plain thing and did not need to be anything else. "A description of the premises thirty-four, dash, six, dash, one-one-eight, made against the head of those premises, by a clerk of the division of classification. Four words. Spoken by the subject in a kitchen on that same morning and written down at the head of his own address."
 
 He did not move.
 

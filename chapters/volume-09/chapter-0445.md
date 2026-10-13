@@ -2,7 +2,7 @@
 
 He had three days to write a clause and he wrote thirty-one words for it in a notebook at Ferrier Street on the evening of the nineteenth, and on the morning of the twenty-first of June he took them to the room at the end of the corridor and put them on the second table under the window face up.
 
-"It is one hundred and twenty-one days since the twentieth of February," he said. "Ten from twenty leaves ten, with thirty and thirty and thirty and twenty-one makes one hundred and twenty-one."
+"It is one hundred and twenty-one days since the twentieth of February," he said. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and twenty-one makes one hundred and twenty-one."
 
 "Nine days," said the clerk. "Thirty taken from twenty-one leaves nine. And that is a clause and not a sheet, so put it somewhere else before I touch it."
 
@@ -42,7 +42,7 @@ The clerk put her pen down.
 
 "That is the price."
 
-"That is not a price, that is a purchase," said the clerk. "You are not paying anything. You are taking. In about nine days you are going to buy a minute of a room of five with eleven words of your own, and there is no money in it and there is nothing to be refused, and you have written it out in a notebook at home and brought it in on a working morning like a man bringing in a bill."
+"That is not a price, that is a purchase," said the clerk. "You are not paying anything. You are taking. In about nine days you are going to buy a minute of a room of five with the eleven words you have just said twice, and there is no money in it and there is nothing to be refused, and you have written it out in a notebook at home and brought it in on a working morning like a man bringing in a bill."
 
 ## Runa Sato Came Up The Corridor
 
@@ -118,7 +118,7 @@ She let him stand there and then, apparently as an afterthought, told him what a
 
 ## Nine Days
 
-The clerk took the slip at four o'clock and read the thirty-one words of his and the eleven words of his again with a pencil beside them, and then wrote out on the back of a third slip, in her own hand, one sentence, and signed it, and did not read it back to either of them.
+The clerk took the slip at four o'clock and read the thirty-one words he had brought in from Ferrier Street and the eleven words he had said aloud twice with a pencil beside them, and then wrote out on the back of a third slip, in her own hand, one sentence, and signed it, and did not read it back to either of them.
 
 "That is the clause," she said. "It is free. It goes under the minute when the minute is made and not before, and it cannot be entered now because there is no minute, and it cannot reach the ninth of May, and it cannot reach the twentieth of February, and both of those are in books that are written up and a clerk may only enter and cannot correct." She put the third slip in the drawer with the other two.
 
@@ -138,6 +138,6 @@ Runa Sato looked at him for slightly too long.
 
 The clerk shut the drawer and turned the key in it, which she had never done in ninety days, and stood there with her hand on the key while he put his coat on.
 
-"Nine days," she said. "And there are three slips in that drawer and none of them is a minute, and on the thirtieth of June all three of them turn into one, and you have just spent the isolation you have spent four volumes building and it took eleven words and it cost me a pencil."
+"Nine days," she said. "And there are three slips in that drawer and none of them is a minute, and on the thirtieth of June all three of them turn into one, and you have just spent the isolation you have spent four volumes building and it took the eleven words of the second sentence and it cost me a pencil."
 
 She let him out at the end of the corridor into a court with nine days in it and the paint at the bottom of a board at the end of a stair saying the Council on the thirtieth of June, and behind him, in a drawer in a room where nine people sat, three pieces of paper that could not be taken back had been lying under a lock that had never been locked before.

@@ -2,7 +2,7 @@
 
 The clerk lets a member read the book after the run has gone, and on the evening of the fifteenth of June the corridor was empty and the bundle had gone at four, and she put two minutes on the second table under the window and left him alone with them.
 
-"It is one hundred and fifteen days since the twentieth of February," he said to the empty corridor, because somebody had to say it once. "Ten from twenty leaves ten, with thirty and thirty and thirty and fifteen makes one hundred and fifteen."
+"It is one hundred and fifteen days since the twentieth of February," he said to the empty corridor, because somebody had to say it once. "Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and fifteen makes one hundred and fifteen."
 
 "Fifteen days to the thirtieth," said the clerk from the doorway, and then she went away. "Thirty taken from fifteen leaves fifteen. That is the quarter."
 

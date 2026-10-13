@@ -1,6 +1,117 @@
-# VOLUME 9 BATCH 0005 — GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–450 ARE ON DISK, FIFTY FILES. THE LIVE PHASE IS `workspace/volume-09/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS.
+# VOLUME 9 BATCH 0005 — GATE AFTER THE REVIEW REPAIR, RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–450 ARE ON DISK, FIFTY FILES. THE LIVE PHASE IS `workspace/volume-09/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS.
 
-**THE BLOCK IMMEDIATELY BELOW THIS ONE IS BATCH 0004'S REVIEW-REPAIR BLOCK OF 13 OCTOBER 2026 AND IS SUPERSEDED BY THIS ONE AND RETAINED IN FULL. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD — WHICH IS EXACTLY WHAT HAPPENED TO IT TWICE.** Every figure in this block was produced by a command run against `chapters/volume-09/chapter-0443.md` … `chapter-0450.md` after the last edit to the prose, on 13 October 2026.
+**THE BLOCK IMMEDIATELY BELOW THIS ONE IS BATCH 0005'S OWN WRITING-PHASE GATE BLOCK, WRITTEN THE SAME DAY AND TAKEN BEFORE THE REVIEW. IT IS SUPERSEDED BY THIS ONE AND RETAINED IN FULL. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD — WHICH IS EXACTLY WHAT THE REVIEW DEMONSTRATED ON FOUR COUNTS.** Every figure in this block was produced by a command run against `chapters/volume-09/chapter-0433.md` … `chapter-0450.md` after the repair, on 13 October 2026.
+
+## WHAT THE REVIEW FOUND AND WHAT WAS DONE, IN ONE TABLE
+
+| # | Finding | Severity | Files | Fixed how |
+| --- | --- | --- | --- | --- |
+| 1 | The four words dated the fifteenth of November, contradicting 443 twenty lines above them and the whole of Volumes 7–8 | HIGH | 443, 446 | Both now read `on the same morning` / `on that same morning`. **The twenty-seventh of October is the canon date and is untouched.** |
+| 2 | "Eleven words" named a count the page disproves; the clause is 38 and Runa Sato reads 26 | MEDIUM | 445 ×3 | **Canon text unchanged.** Each of the three now says *the eleven words of the second sentence*, which is what he says aloud at `:39`. |
+| 3 | Bertram Sallow: "a rank for five months and a nobody before that", contradicting `:51` in the same chapter | MEDIUM | 447 | **Three months** (1 Apr → 26 Jun = 86 days) and **two months** (2 Feb → 1 Apr = 58 days). The other `five months` in the chapter measure late January to today and stay. |
+| 4 | §6 movement 5 named the thirteenth and twenty-fifth of June as the days a woman sat in the non-member's chair | MEDIUM | `outline/volume-09.md` | **The nineteenth is the day.** The thirteenth has no woman in the chair and in 447 both women are references, not presences. |
+| 5 | `nobody` at 13 in 447 and 13 in 449 against a 1–4 baseline | MEDIUM | 447, 449 | **447 → 6. 449 → 10, of which 7 are the boy's spoken refrain.** No argument or fact changed. |
+| 6 | The requisition-age derivation assumed a 30-day February and three 30-day months, in all 18 places it appears | LOW | **433–450** | `Eight from twenty leaves eight, with thirty-one and thirty and thirty-one and —`. **Every printed total was already right and every one is unchanged**, except 433, which was a day out at 99 and is **98**. |
+| 7 | "The difference between those two numbers was me", about two identical fours | LOW | 447 | `between them was me` — the two fours are the two rooms. |
+
+```
+FILES            chapters/volume-09/ holds 50 files numbered 401..450 with no gap; chapters/ holds 450, numbered
+                 1..450 with no gap, 450 title lines and 450 distinct, sort | uniq -d empty. **NO CHAPTER 451 EXISTS
+                 ANYWHERE IN THE REPOSITORY.** Every one of the eight carries exactly one trailing newline, all
+                 eight, checked by command. **CHAPTERS 401–432 WERE NOT TOUCHED BY THIS REPAIR.**
+BANK 0005        **22,010 WORDS, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w. WAS 21,984 BEFORE THE REPAIR.**
+                    443 2,493 (−1) · 444 2,548 (+0) · 445 2,499 (+15) · 446 4,646 (−1) · 447 2,471 (+5) ·
+                    448 2,444 (+0) · 449 2,409 (+8) · 450 2,500 (+0)
+                  **EVERY ONE OF THE EIGHT IS STILL ABOVE 2,400, SO THE PER-CHAPTER UNDER-1,300 RULE IS NOT
+                  ENGAGED AND NO CHAPTER NEEDS A REASON RECORDED FOR BEING SHORT.**
+BANK 0004        **12,100 WORDS, UNCHANGED.** The mnemonic swap is word-neutral: 433 1,197 · 434 1,202 · 435 1,239 ·
+                 436 1,189 · 437 1,096 · 438 1,722 · 439 1,188 · 440 1,182 · 441 1,121 · 442 964. **The repair
+                 touched those ten files' text and not one of their counts.**
+VOLUME 9         **101,290 WORDS ACROSS FIFTY CHAPTERS — 21,692 (0001) + 21,563 (0002) + 23,925 (0003) + 12,100
+                 (0004) + 22,010 (0005). WAS 101,264 BEFORE THE REPAIR.**
+ARITHMETIC       **THE FINDING-6 REPAIR. THE DERIVATION IS NOW (28 − 20) + 31 + 30 + 31 + [June day] = 100 + the June
+                 day number, and the first operand is 8 and the months are March, April and May.**
+                    433 98 (29 May) · 434 101 (1 Jun) · 435 103 · 436 105 · 437 107 · 438 109 · 439 110 · 440 112
+                    · 441 113 · 442 115 · 443 117 · 444 119 · 445 121 · 446 123 · 447 125 · 448 127 · 449 128 · 450 130
+                  **EIGHTEEN OF EIGHTEEN PASS: the printed total equals the sum of its own printed operands in every
+                  one, and none is quoted across from another chapter. EVERY FIGURE ABOVE WAS RE-VERIFIED AGAINST A
+                  REAL NON-LEAP-YEAR CALENDAR FROM THE TWENTIETH OF FEBRUARY.** **THE FIGURE THAT TRAVELS FORWARD
+                  IS 130 AT 450.** Days remaining in the quarter: 11, 9, 7, 5, 3, 1, and at 450 thirty taken from
+                  thirty leaves nothing, which is the last working day.
+CANON DATES      **THE FOUR WORDS WERE SAID ON THE MORNING OF THE TWENTY-SEVENTH OF OCTOBER AND ARE NOW SAID SO
+                 IN EVERY VOLUME 9 FILE THAT MENTIONS THEM.** `grep -ril "fifteenth of November" chapters/volume-09/
+                 chapter-044*.md` returns **nothing**. **443 CONTRADICTED ITSELF AT `:31` AND `:49` TWENTY LINES
+                 APART AND NO LONGER DOES.**
+WORD COUNTS      **THE CLAUSE OF `PC-91` IS 38 WORDS AND IS UNCHANGED. ITS FIRST SENTENCE IS 26 AND IS WHAT RUNA
+                 SATO READS AT 445:57. ITS SECOND SENTENCE IS 11 AND IS WHAT HE SAYS ALOUD TWICE AT 445:39. THE
+                 NOTEBOOK DRAFT HE WROTE AT FERRIER STREET ON THE NINETEENTH IS 31. ALL FOUR NUMBERS ARE NOW
+                 SEPARATED ON THE PAGE AND ALL FOUR ARE TRUE.**
+TITLES           450 title lines, 450 distinct, sort | uniq -d empty, re-run after the repair. **The eight of this
+                 batch are exactly as banked in outline/volume-09.md §10 and were not changed: 443 The Requisition
+                 In His Own Answer (35) · 444 The Cheapest Thing In The Room (32) · 445 The Clause Under The Minute
+                 (29) · 446 The Room In Which He Is Read (30) · 447 The Fourth Seat Fills And Empties (35) · 448 The
+                 Fifth Mark That Never Came (32) · 449 The Boy With The Paste Brush (30) · 450 The Name On The Black
+                 Tile (28). Words 7/7/6/8/7/7/7/7, every one inside three to twelve, longest 35, shortest 28.**
+                 **NO TITLE WAS CHANGED BY THE REPAIR AND NO COLLISION EXISTS.**
+MARKDOWN         blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **BOLD SPANS 0** · **ITALIC SPANS 6**
+                 (one in 443, the word *ground* on a printed form; one in 446, the word *public* written against
+                 an application in a day's book; one in 448, the word *carried* read off a printed rule in a chained
+                 book; three in 450, two notebook lines and one quoted sentence). **SYSTEM PANELS: ONE IN THE EIGHT
+                 AND IT IS AT 450, ON ITS OWN LINE, IN SQUARE BRACKETS, NEVER BOLD OR ITALIC:
+                 `[Ledger. One hundred and fifty-eight lines. Ten turned. None of them is him.]` — the volume's
+                 second panel, there because the chapter turns on the ledger, and 414 is the first.**
+PARAGRAPHS       636 blank-line-separated blocks including headings; **629 prose paragraphs, headings excluded,
+                 and 629 IS THE FIGURE THE QUOTE-PARITY GATE WAS RUN OVER.** Non-blank lines 636. **LONGEST
+                 PARAGRAPH 89 WORDS (449), 0 OVER ROUGHLY 90, 0 OVER ROUGHLY 120.** **ONE PARAGRAPH WAS SPLIT BY
+                 THIS REPAIR AND IT IS NAMED: Bertram Sallow's stairwell speech at 447:113 reached 92 words after
+                 the `nobody` cut and was broken after `than be a thing that is read aloud`, with the quotation closed
+                 and reopened per house convention, which is what keeps parity at zero.** Quotation-mark parity per
+                 paragraph over all 629: **0 odd**, so no speech runs across a break. **NO AUTOMATIC SPLITTER WAS RUN.**
+REPETITION       **`nobody` at 3 / 8 / 3 / 7 / 6 / 8 / 10 / 1 across 443–450. 447 IS DOWN FROM THIRTEEN AND 449 IS
+                 DOWN FROM THIRTEEN. IN 449, SEVEN OF THE TEN ARE THE BOY'S SPOKEN REFRAIN IN DIALOGUE AND THE
+                 CHAPTER'S LAST LINE IS ITS ECHO; THE TWO NARRATION INSTANCES ARE `:107` AND THE CLOSING `:147`,
+                 AND BOTH STAY.** `there is no form` 0 · `there is no column` 0 · `the record remained` 0 ·
+                 `nobody asked` 0 · `nobody was thanked` 0 · his eyes widened 0 · he couldn't believe it 0 ·
+                 suddenly 0 · little did he know 0. **THE REPAIR INTRODUCED NONE OF THESE.**
+SCENE 446        **UNTOUCHED BY THE REPAIR AND RE-RUN TO CONFIRM IT.** The single edit this pass made to 446 was
+                 the date of the four words at `:55`, which sits in `## The Fifteenth Of April` and therefore
+                 **OUTSIDE the recorded span**. **RECORDED SPAN, `## Reading While` TO `## The Hour She Does Not
+                 Read`, EXCLUSIVE OF THE BOUNDING HEADINGS: 1,843 WORDS — THE SAME FIGURE AS BEFORE THE REPAIR,
+                 RE-RUN BY COMMAND AGAINST THE REPAIRED FILE. The literal figure the Volume 8 close audit asked
+                 for is 1,846 and is unchanged for the same reason. `right temple` returns 0 across all 450
+                 chapters. THE 380-TO-398 EIGHTEEN-CHAPTER BREACH IS IN THE BOOK AND IS NOT DESCRIBED ANYWHERE AS
+                 CLOSED, CURED, RESOLVED OR DISCHARGED.**
+WEEKNAMES        Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0, all eight, re-run.
+AGES             0 self-reported ages, probed in both forms (digit and spelled-out `-year-old`), re-run.
+SETTLE           grep -rio "settle" chapters/volume-09/ -> 0, across the whole volume, not only the eight.
+RIGHT TEMPLE     grep -rio "right temple" chapters/ -> 0, across all four hundred and fifty chapters.
+BAND FLOORS      **THE ONLY FOUR-DIGIT FIGURE OF ANY KIND IN THE EIGHT IS AT 450 AND IT IS THE CARD: 8,147 and
+                 8,131, on one line, derived in the chapter from the painted card and from Beatrix Halm's notebook.
+                 NO FLOOR IS PRINTED IN 443, 444, 445, 446, 447, 448 OR 449 AND NO FIGURE OF THE FORM [0-9],[0-9]{3}
+                 APPEARS IN ANY OF THEM.** The plate figure 8,131 was last printed in this volume at 415.
+DUP 12-GRAM      **THE RE-RUN AFTER THE REPAIR CREATES NO NEW SHARED FAMILY AGAINST THE 432 EARLIER CHAPTERS. THE
+                 REQUISITION-AGE DERIVATION IS A 12-GRAM FAMILY ACROSS 433–450 BY DESIGN AND IS NOT PROSE; THE
+                 DESCRIPTION OF THE TWENTY-SEVENTH OF OCTOBER AND THE CLAUSE AT 445 ARE CANON SENTENCES; THE CARD'S
+                 TWO FIGURES AT 450 ARE THE SAME CARD READ BY THE SAME WOMAN NINETY DAYS AFTER 400.** The repair
+                 shortened two narration sentences and split one speech, which cannot create a new 12-gram.
+BANNED           **ZERO NEW BANNED CONSTRUCTIONS WERE INTRODUCED BY THE REPAIR. THE CUTS REMOVE THEM.**
+```
+
+**WHAT WAS DELIBERATELY NOT CHANGED.** The plot. **The three irreversible decisions stand exactly as written: 443 (he says the four words), 445 (he enters the clause), 449 (he decides not to go to the wall).** **No scene moved, no date in the fiction moved, no recusal lifted, no second question to Wren Kallo, no wing named, no word under the fifth line printed, no offer, no instrument used, no Runa hand figure printed, no gift manufactured, no fifth mark, no correction and nothing struck.** The requisition is not carried, not received and not decided, and it is **NOT** answered in these eight. No character ages, no marks moved, no title changed. **`outline/ending.md` untouched. No new PC adopted and none withdrawn. No new final enemy. `state/complete.md` was NOT created: the series is planned past 500, Volume 10 is *Returned*, and the ending is Chapter 486.**
+
+**THE TWO FIGURES A LATER PHASE MUST NOT RE-DERIVE FROM ANYWHERE BUT THE PAGE.** **THE CARD OF THE THIRTIETH OF JUNE PRINTS A FLOOR OF 8,147 AND, AGAINST PREMISES 34-6-118, A FIGURE OF 8,131.** Sixteen under, tolerance three, out of band by thirteen. **They were read off a painted card in Chapter 450 and against a notebook in which Beatrix Halm wrote the thirtieth of March, and they were NOT taken from `bible/power-system.md`, whose band table is illustrative, and NOT from `outline/volume-09.md` §5a, which prints no figure for this card.** `PC-57` stands and this is its consequence: **a rank with no card has no plate and no floor, and a consignment has neither, and the floor rose and the plate did not.**
+
+## A NOTE FOR THE VOLUME CLOSE, WHICH OWNS BOTH OF THESE
+
+**THE THREE STALE FOURTH-WALL INSTANCES THE WRITING PHASE FLAGGED AND DID NOT FIX ARE STILL THERE** — `nine volumes` at 405:69, 413:117, 414:127, 417:25, 417:61 and 422:115, and the narrator-as-book habit at 420:29 and 429:13. **The close phase owns them. This repair did not widen its scope to another batch's chapters on a matter of register rather than fact.**
+
+**THE STATE FILES ARE NOW 429 KB, 529 KB, 396 KB AND 307 KB AND ARE BUILT BY APPENDING EVERY SUPERSEDED BLOCK IN FULL.** The review raised this as a structural note, not a defect in this phase, and it is correct: the head-block convention makes it survivable for Volume 10 and it will not survive Volume 11 without extending the archive step. **`state/archive/` IS NOT EMPTY AND THE PRECEDENT IS ALREADY SET: `current-v1-v2`, `current-v3`, `current-v5`, `continuity-v1-v2`, `continuity-v3`, `open-threads-v1-v2` and `chapter-summaries-v1-v5` are all in it. Volumes 6 to 9 are what the live files still carry in full. The close phase is the phase that decides what the next volume's writer reads, and this is its decision to make, not a review fix.** Nothing was truncated by this repair.
+
+**THE 380-TO-398 EIGHTEEN-CHAPTER SCENE BREACH IS IN THE BOOK AND IS NOT DESCRIBED ANYWHERE AS CLOSED, CURED, RESOLVED OR DISCHARGED.**
+
+---
+
+# VOLUME 9 BATCH 0005 — GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE, 13 OCTOBER 2026. **THIS BLOCK IS SUPERSEDED BY THE REPAIR GATE ABOVE IT AND IS RETAINED IN FULL. CHAPTERS 401–450 ARE ON DISK, FIFTY FILES.**
 
 ```
 FILES            chapters/volume-09/ holds 50 files numbered 401..450 with no gap; chapters/ holds 450, numbered
