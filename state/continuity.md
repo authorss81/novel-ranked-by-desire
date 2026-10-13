@@ -17,6 +17,13 @@
 **THE FOUR PROSE REPAIRS THE AUDIT APPLIED** (no chapter restructured, no scene moved, no plot changed): 398 no longer gives Wren Kallo a coat lining with twenty-two stitches, which is Sun Meiling's and has been since Ch 241 · 400's opening no longer restates Ch 391's card rule in 391's words · 400 no longer gives Nadia Ferrous Isolde Marchetti's sentence · 396 no longer summarises a notice in the twelve words 397 quotes back in Wren Kallo's mouth. **Volume 8 is 106,572 words.**
 
 **THE THREE DECISIONS THE AUDIT MADE, all in `reviews/volume-08/volume-close.md`:** `PC-28` is **carried forward and not fixed** (C6) · `outline/volume-08.md` §5a's quarterly-card reading is **settled as to the interval and the figure and left open as to the naming, and the remainder is now sharper and is owed to Volume 7** (C7) · the **fifteen-chapter scene breach stands as a fact about the calendar and not about the people** (C5).
+**AND, CORRECTED 14 OCTOBER 2026, THE THIRD OF THOSE IS NOT A DECISION AND MAY NOT BE READ AS ONE. THE BREACH IS
+STILL IN THE BOOK AND IT IS AN OPEN ITEM, NOT A CLOSED ONE.** `AGENTS.md` sets the limit at fifteen chapters
+without a scene and chapter 380 to chapter 398 is eighteen. **What C5 settled is only that no later phase may
+repair it by moving a scene and that Volume 9 may not repeat it. The rule itself remains unmet, the close audit
+declines to call it met, and the outstanding obligation is Volume 9's own schedule.** **No file may describe this
+breach as closed, decided, cured or discharged.** Full entry, with its owner, at the head of `state/open-threads.md`
+under OPEN ITEMS INHERITED BY VOLUME 9.
 
 **THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE. IT WRITES NO PROSE.**
 
@@ -26,10 +33,10 @@ rewrite SETTLED both open questions the end of §6 had left for the last batch: 
 through the quarter boundary into Volume 9, and whether the ranks wall talks before the end of the thirtieth or only
 on it. §8 is written fact and §10 is re-run against 400 title lines.**
 **VOLUME 8 IS CLOSED. THE CLOSE PHASE HAS RUN AND `reviews/volume-08/volume-close.md` EXISTS.**
-**Batch 0005 is 20,324 words counted per file and summed after the close audit's four repairs, 20,335 before them. **Volume 8 is 106,572 words long and has fifty chapters.****
+**Batch 0005 is 20,324 words counted per file and summed after the close audit's four repairs, 20,335 before them. Volume 8 is 106,572 words long and has fifty chapters.**
 **Batch 0004's and Batch 0003's blocks are below this one and are retained in full as the positions at Chapter 390 and
-Chapter 380. The live gate block is Batch 0005's and it is at the head of `state/open-threads.md`, where `PC-47` to
-`PC-56` are recorded.**
+Chapter 380. The live gate block is the close audit's, in `reviews/volume-08/volume-close.md`, and Batch 0005's is at
+the head of `state/open-threads.md` marked superseded, where `PC-47` to `PC-56` are recorded.**
 
 ### 0. WHAT CHAPTERS 391–400 ADDED TO THE CONTINUITY OF THIS BOOK, AND VOLUME 9 MAY NOT CONTRADICT ANY OF IT
 

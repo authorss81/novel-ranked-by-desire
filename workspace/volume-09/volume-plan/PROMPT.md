@@ -16,9 +16,12 @@ Volume 9 cards, and there must not be a chapter until both exist.** This phase m
 - **`reviews/volume-08/volume-close.md` — read this in full before anything else in the state files.** It is
   the audited answer to *what Volume 8 promised and what it paid*, and every number in it was re-run from
   outside the pass that wrote the chapters, against a scanner validated against a number it did not write.
-  **Its §1 is the position at 400. Its §3 is the table of marks already owned, and you may not give any of
-  those women another one. Its §5 is a twelve-item list that must all still be true when your last chapter
-  is written, and you should be able to tick every line of it.**
+  **Its §1 is the position at 400. Its §3 — headed *Borrowed bodies*, and it opens with the table of marks
+  already owned — is the marks table, and you may not give any of those women another one. Its §5 is a
+  SIXTEEN-row table and all sixteen are true, and you should be able to tick every line of it.** Two of its
+  figures are not to be carried: **the `distinct (chapter, source)` row of the batch twelve-gram table reads 16
+  and is 12 (R6), and every `directed rows` figure in the audit is marked NOT VERIFIED and reproduces under no
+  reading available (R7).** The nine `distinct` cells of its volume-wide table are the confirmed ones.
 - `outline/series.md` and `outline/ending.md`. **The ending is fixed and this phase does not touch it.** The
   reservoir is returned in full at 486, he ends at rank one, and **the great offer is Chapter 486's.**
 - `outline/volume-08.md` — the volume you are following. **§7 is a live do-not-open register, not a wish
@@ -26,7 +29,7 @@ Volume 9 cards, and there must not be a chapter until both exist.** This phase m
   the naming.**
 - `state/current.md` — its head block is the close record and it is the opening position of this volume.
 - `state/continuity.md` — the Volume 8 live block and its canon items.
-- `state/open-threads.md` — the close audit's block is at the head; Batch 0005's is below it and **four of its
+- `state/open-threads.md` — the close audit's block is at the head; Batch 0005's is below it and **five of its
   rows are false and are corrected. Do not carry them forward.**
 - `state/chapter-summaries.md` — Volume 8's five batch blocks, 0001 through 0005, in ascending order.
 - `bible/characters.md`, `bible/power-system.md`, `bible/terminology.md`.
@@ -103,7 +106,17 @@ else can produce.** Plan what rank nine *costs* before you plan what it is.
    any Volume 9 partner has no gift, the schedule must close on the explicit count without inventing one.**
    **Write down in the outline which women the five scenes are and that none of them is a first scene for a
    partner who has not had one.**
-2. **THE TABLE OF MARKS ALREADY OWNED, AND IT IS NOT YOURS TO EXTEND BY ACCIDENT.** Read `reviews/volume-08/volume-close.md` §3 before you plan a single scene. **The only temple in the book is Lin Hao's, at the left, and `grep -rio 'right temple' chapters/` returns zero.** Wren Kallo owns ink at two nails of the **left** hand and the yellow at the corner of the white of her **left** eye — **398 used the ink and did not reuse the yellow, because using it twice in one book is a claim and not a detail.** Sun Meiling has one new physical fact from 358 and no mark at all. Ines Duarte has the wrist scar and the ink and the grey, Marguerite Vale has occupational ink texture, and Dagmar Oyelowo has **no gift and one physical claim, which is an absence.** **In a book that treats a physical detail as a claim, a verbal tic is a claim too** — the close audit found a named character handed another named character's sentence in the volume's last paragraph and removed it.
+   **THIS IS ALSO AN OPEN ITEM YOU INHERIT AND YOU OWN.** The Volume 8 breach of `AGENTS.md`'s fifteen-chapter
+   rule — 380 to 398 is eighteen on the explicit count — **is carried forward unresolved**, and the close audit
+   says so in terms: it may not be repaired by moving a scene, Volume 9 may not repeat it, **and no state file
+   may describe it as closed, decided, cured or discharged.** You do not owe Volume 8 a repair and you may not
+   make one. **What you owe is that Volume 9's own count closes, and that `outline/volume-09.md` carries the
+   arithmetic in the shape `outline/volume-08.md` §4 uses, so the next close audit is not reasoning about an
+   eighteen from a paragraph of prose.**
+2. **THE TABLE OF MARKS ALREADY OWNED, AND IT IS NOT YOURS TO EXTEND BY ACCIDENT.** Read
+   `reviews/volume-08/volume-close.md` §3 before you plan a single scene — **§3 is headed *Borrowed bodies* and the
+   marks table is the first thing in it**, with `outline/volume-08.md` §4 as the source it was read from. **The
+   only temple in the book is Lin Hao's, at the left, and `grep -rio 'right temple' chapters/` returns zero.** Wren Kallo owns ink at two nails of the **left** hand and the yellow at the corner of the white of her **left** eye — **398 used the ink and did not reuse the yellow, because using it twice in one book is a claim and not a detail.** Sun Meiling has one new physical fact from 358 and no mark at all. Ines Duarte has the wrist scar and the ink and the grey, Marguerite Vale has occupational ink texture, and Dagmar Oyelowo has **no gift and one physical claim, which is an absence.** **In a book that treats a physical detail as a claim, a verbal tic is a claim too** — the close audit found a named character handed another named character's sentence in the volume's last paragraph and removed it.
 3. **THE NEW SYSTEM MESSAGES, IF THERE ARE ANY.** Four exist in the whole of Volume 8, one each in 353, 363,
    376 and 384, and each turned on the ledger. **A panel is due in a chapter that turns on the ledger and in
    no other chapter.** Decide against that rule and not by counting.

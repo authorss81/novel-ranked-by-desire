@@ -121,6 +121,16 @@ one that settles it:**
 **VOLUME 9 INHERITS THE RULE AND MAY NOT REPEAT THE BREACH.** If a partner in Volume 9 has no gift, the scene
 schedule must be built so the explicit count closes without manufacturing one.
 
+**AND THIS IS AN OPEN RULE VIOLATION INHERITED AS STANDING DEBT, NOT A CLOSED ITEM. `AGENTS.md` says *no more
+than fifteen chapters without a scene* and the gap is eighteen, and the breach is still in the book.**
+**Why it was nevertheless not repaired here is given in the four reasons above — the third of which is that the
+concern the rule exists to protect was answered on the page — but "the reader was not left alone" is a judgement,
+not a compliance, and this audit does not get to convert an unmet rule into a met one by explaining it.** So the
+item is entered in `state/open-threads.md` as **OPEN, with Volume 9's planning phase as its owner**, and the only
+thing settled about it is **that no later phase may repair it by moving a scene and that Volume 9 must not repeat
+it.** The compliance question itself is carried forward **unresolved** and no state file may describe this breach
+as closed, decided, cured or standing debt discharged.
+
 ---
 
 ## 3. Borrowed bodies — checked before borrowed sentences, and one found
@@ -294,7 +304,18 @@ distinct 12-grams, exactly the audited figure.** It was re-run after the edits a
 | distinct n-grams | **0** | 30 | **16** |
 | directed rows | 0 | 60 | **32** |
 | distinct (chapter, n-gram) | 0 | 60 | **32** |
-| distinct (chapter, source) pairs | 0 | 16 | **16** |
+| distinct (chapter, source) pairs | 0 | 16 | **12** |
+
+**THE FOURTH ROW WAS WRONG IN THE AFTER-REPAIR COLUMN AND IS CORRECTED, 14 OCTOBER 2026. IT READ 16 AND IT IS
+12, AND 16 IS THE BEFORE-REPAIR FIGURE CARRIED ONE COLUMN TOO FAR.** Both halves of that were re-derived: the
+before-repair column reproduces exactly, **30 / 60 / 60 / 16**, against the chapters as `HEAD~1` holds them, so the
+column to its left is sound; and the after-repair column re-derives to **16 / 32 / 32 / 12**, so three of the four
+rows were already right and this one was not. **The twelve, read off the run, are 391→393, 391→400, 392→393,
+393→391, 393→392, 393→394, 393→399, 394→393, 395→397, 397→395, 399→393 and 400→391**, which is the six recorded
+clusters in §3 and nothing else. **Every one of the twelve is inside the batch; not one of the sixteen surviving
+n-grams matches anything outside 391–400**, and the sixteen are counted by n-gram, which is why the two numbers
+differ and why only one of them can be the (chapter, source) row. **NO PROSE CHANGED AND NO CLUSTER CHANGED —
+the six standing clusters are the six §3 names.** The other three rows and the whole of §3 stand as written.
 
 **THE RECORD WAS WRONG BY THIRTY, NOT BY A ROUNDING FIGURE, AND THIS IS THE FOURTH TIME IN FIVE BATCHES THAT THE
 GATE BLOCK'S CLEAN ROW WAS FALSE.** Every one of the thirty was real, C1–C4 are four of them, and the remaining
@@ -302,20 +323,41 @@ sixteen are the six clusters in §3, read and recorded. **All sixteen are named 
 rediscover them.**
 
 **Eleven-gram, same scope:** record **21 distinct**; re-run before repair 68; **after repair 50 distinct, 94
-directed rows.**
+directed rows.** **The two distinct figures reproduce exactly — 68 before repair and 50 after — and the directed
+figure does not, see the note below.**
 
 **Eight-gram, same scope:** record 446 distinct / 1,167 directed rows / 642 (chapter, source) pairs;
-**re-run after repair 527 distinct, 1,582 directed rows.** **The record's 8-gram row names its scope as *a
-corpus of 400 chapters* and does not say whether its targets were the ten or the fifty, and both figures are
-given here so a later phase is not comparing across scopes.**
+**re-run after repair 527 distinct, 1,582 directed rows.** **527 reproduces exactly. The record's 8-gram row
+names its scope as *a corpus of 400 chapters* and does not say whether its targets were the ten or the fifty,
+and both figures are given here so a later phase is not comparing across scopes.**
 
 **Volume-wide, 351–400 against all 400 chapters, after repair:**
 
 | n | directed rows | distinct (chapter, n-gram) | distinct n-grams | distinct (chapter, source) |
 | --- | --- | --- | --- | --- |
-| **12** | 143 | 137 | **87** | 41 |
-| **11** | 356 | 298 | **186** | 182 |
-| **8** | 6,244 | 2,921 | **1,957** | 2,979 |
+| **12** | **139 / 137 — NOT VERIFIED, SEE BELOW** | 137 | **87** | 41 |
+| **11** | **303 / 298 — NOT VERIFIED** | 298 | **186** | 182 |
+| **8** | **3,019 / 2,921 — NOT VERIFIED** | 2,921 | **1,957** | 2,979 |
+
+**EVERY "DISTINCT" FIGURE IN BOTH TABLES REPRODUCES EXACTLY AND EVERY "DIRECTED ROWS" FIGURE DOES NOT. Recorded
+14 OCTOBER 2026, by a run outside this pass, and it is the second time this column has been wrong.** Re-derived
+against the chapters as they stand, the three distinct columns are **137 / 87 / 41, 298 / 186 / 182 and 2,921 /
+1,957 / 2,979** — all three n values, all nine cells, every one exact. **The directed column is a different
+matter: 143, 356 and 6,244 are reproduced by neither reading available.**
+
+**THE TWO READINGS, AND NEITHER GIVES THE RECORDED FIGURE.** *Reading A* is this audit's own convention in the
+batch table above, where directed rows and distinct (chapter, n-gram) are equal because a matched n-gram is
+counted once per chapter — that gives **137, 298 and 2,921**, which are the distinct column's own figures and so
+the recorded 143/356/6,244 cannot be that. *Reading B* counts every *occurrence* of a matched n-gram inside its
+target file — that gives **139, 303 and 3,019**. The recorded numbers are above both. **The batch 12-gram row's
+directed figure, 32, does reproduce under Reading A**, and that is the only directed figure in this audit that
+does; the 11-gram 94, the 8-gram 1,582 and these three do not.
+
+**NO REPLACEMENT NUMBER IS PRINTED FOR THE COLUMN, ON PURPOSE.** Substituting one underived figure for an
+underived one would repeat the defect this audit exists to remove. **THE COLUMN IS MARKED NOT VERIFIED, IT IS
+NOT TO BE CARRIED FORWARD, AND THE OWNER IS THE VOLUME 9 PLANNING PHASE** — which needs no directed figure, and
+which should either re-derive the column from a definition written down first or drop it. **The distinct columns
+are the ones the prose audit actually rests on, and all nine of them are confirmed.**
 
 **The volume's four largest volume-wide twelve-gram clusters, all read and all standing:** 351 ↔ 363, the
 carry-forward rule **written by Hanneke Ruis on a card at 351 and read back to him in her own mouth at 363** —
@@ -374,7 +416,14 @@ the correction is here so the block does not look as though it was always right.
 | **He has broken two of Dagmar Oyelowo's three things and kept the first, and there are two people alive who know what is in that book and one of them has no gift at all. He has a floor, a date and a direction and no means of getting there** | **TRUE.** 396:109–111, 396:121 — *having broken two of three things in eight days, with the first the only one of hers still standing* · *a seventh floor of a terrace was three years and one month old and stood in a direction nothing in this city travels in* |
 | **`outline/ending.md` is NOT TOUCHED.** The reservoir is returned in full at 486, he ends at rank one, the great offer is 486's, it is not Wren Kallo's and not Anouk Ferreira's. **Volume 8 revived neither. There is no new final enemy and none was introduced** | **TRUE.** `git log -- outline/ending.md` returns the bootstrap commit `02baf1f` and nothing since. **No chapter of 351–400 contains an offer.** |
 
-**TWELVE OF TWELVE. Nothing in this list needed a repair.**
+**SIXTEEN OF SIXTEEN. Nothing in this list needed a repair.**
+
+**CORRECTED 14 OCTOBER 2026. The line above said TWELVE OF TWELVE and the table above it has SIXTEEN claim rows,
+which is the same defect class this audit was written to eliminate: a stated count that disagrees with the
+enumeration under it. The count was checked against the table and the table is the sixteen, one row per claim, no
+row counted twice and no claim split across two. The verdicts are unchanged — sixteen TRUE, none of them needing a
+repair — and only the numeral was wrong. `workspace/volume-09/volume-plan/PROMPT.md` inherited the twelve and is
+corrected in the same commit.**
 
 ---
 
@@ -479,8 +528,36 @@ corrected, file untouched, reason given.
 audited 31, and corrected to **16 distinct after repair**, with all sixteen named in §3.
 
 ### **R3 — THE ELEVEN-GRAM AND EIGHT-GRAM ROWS.** 11-gram recorded 21, re-run 50. 8-gram recorded 446 / 1,167 /
-642 with a scope the block does not disambiguate; re-run against the ten files gives 527 / 1,582, and against
-all fifty files gives 1,957 / 6,244 / 2,979. **Both scopes printed so a later phase cannot compare across them.**
+642 with a scope the block does not disambiguate; re-run against the ten files gives 527 distinct, and against all
+fifty files gives 1,957 / 2,979. **Both scopes printed so a later phase cannot compare across them.** **The
+directed-rows figures in both rows — 94 and 1,582 — DO NOT REPRODUCE and are marked NOT VERIFIED at §4. The
+distinct figures in both rows reproduce exactly.**
+
+### **R6 — THE BATCH TWELVE-GRAM TABLE'S (CHAPTER, SOURCE) ROW IS 16 AND IS 12.** Found on the 14 October 2026
+re-run of this audit's own figures from outside it. **16 is the before-repair figure carried one column too far.**
+Corrected at §4, with the twelve pairs named. **The other three rows of that table reproduce exactly, and so does
+the whole of its before-repair column, 30 / 60 / 60 / 16.**
+
+### **R7 — EVERY "DIRECTED ROWS" FIGURE IN THIS AUDIT IS UNVERIFIED.** Found on the same run. **The directed
+columns reproduce under neither available reading** — not this audit's own batch-table convention, nor an
+occurrence count. **All nine distinct cells of the volume-wide table reproduce exactly.** The column is marked NOT
+VERIFIED, no replacement figure is invented, and the owner is the Volume 9 planning phase. **This is the same
+defect class as R2: a number in a record that is clean-looking and cannot be re-derived.**
+
+### **R8 — §5 SAID TWELVE OF TWELVE OVER A SIXTEEN-ROW TABLE.** Found on the same run. Corrected to **sixteen of
+sixteen**; the sixteen verdicts are unchanged. `workspace/volume-09/volume-plan/PROMPT.md` inherited the twelve and
+is corrected in the same commit.
+
+### **R9 — THE WORD-COUNT ROWS THE PROSE REPAIRS INVALIDATED, WHICH THIS AUDIT'S OWN LIST OF FOUR DID NOT
+NAME.** The four repairs in §3 removed 11 words from the volume. `state/continuity.md` and
+`state/chapter-summaries.md` were updated to **106,572 / 20,324**, but `state/current.md` and
+`state/open-threads.md` still carried **106,583 / 20,335**, **and the gate block's per-file list was wrong on four
+of the ten, not three — 396 at 1,918, 398 at 3,313, 399 at 1,913 and 400 at 1,925.** **The 399 figure was never
+the product of a repair; no repair touched 399, and the recorded list does not sum to the recorded batch total
+either (20,345 against 20,335), so it was a transcription error in the block and it is a fifth stale figure rather
+than a sixth.** The block's band claim, *the ten sit between 1,816 and 2,017*, matched no chapter and was wrong
+before the repairs too; the range is **1,820–2,016**. All corrected in the same commit, and the word-count row is
+added to the list of false rows the block carries.
 
 ### **R4 — THE GATE BLOCK'S ¶9 §4 RECORD OF DAGMAR OYELOWO'S ONE PHYSICAL CLAIM.** Both the block and
 `outline/volume-08.md` §4 render it as *nothing on her hands*. **What 396:111 says is about memory: *there is
@@ -521,6 +598,16 @@ chapter in the words of a chapter nine back, one named character handed another 
 clause whose repetition deflated the volume's best reversal. **Nothing was restructured, no scene was moved, no
 plot was changed and no good prose was cut.** One known defect is carried forward and not fixed, with its reasons
 printed.
+
+**THE PROSE IS FIT TO CONTINUE AND THE RECORD IS NOT ENTIRELY TRUSTWORTHY YET, AND BOTH THINGS ARE TRUE AT
+ONCE.** A second run of this audit's own figures from outside it, on 14 October 2026, found **four further
+defects in this file and in the state files and none in the manuscript** — a (chapter, source) row carried one
+column too far (R6), a directed-rows column that reproduces under no reading available (R7), a count of twelve
+over a sixteen-row table (R8), and five stale word-count figures the four prose repairs had invalidated, one of
+which was a transcription error predating them (R9). **The prose this audit re-checked is sound: all nine
+distinct n-gram cells of the volume-wide table reproduce exactly, the batch control reproduces its own audited 31,
+and sixteen of sixteen claims at §5 are true.** **What is not sound is the habit of certifying a figure that has
+not been re-run, and that habit is what R2, R6, R7, R8 and R9 are, five times in five batches.**
 
 **No controller file was touched. No chapter was rewritten. No ending was altered. No final enemy was added.**
 

@@ -1,10 +1,14 @@
 # ~~VOLUME 8 BATCH 0005 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 391–400 ARE ON DISK. VOLUME 8 IS WRITTEN. THIS WAS THE
 # ONLY LIVE GATE BLOCK IN THIS FILE.~~ **SUPERSEDED 13 OCTOBER 2026 BY THE CLOSE AUDIT. RETAINED IN FULL AS THE POSITION AT CHAPTER 400.
-# THE CLOSE AUDIT RE-RAN EVERY FIGURE IN THIS BLOCK AND CORRECTED FOUR OF THEM. **THE LIVE GATE BLOCK IS THE CLOSE
-# AUDIT'S, IN `reviews/volume-08/volume-close.md`. FOUR ROWS BELOW ARE NOW FALSE AS WRITTEN AND ARE LISTED THERE:
-# THE 12-GRAM ROW (recorded 0, re-ran at 30, 16 after repair), THE 11-GRAM ROW (recorded 21, re-ran at 50),
-# THE 8-GRAM ROW (recorded 446/1,167/642 on a scope it does not disambiguate), and THE TRAILING-NEWLINE CLAIM
-# (all fifty files carry exactly one; chapter-0373.md carries two). DO NOT CARRY ANY OF THE FOUR FORWARD.**
+# THE CLOSE AUDIT RE-RAN EVERY FIGURE IN THIS BLOCK AND CORRECTED FOUR OF THEM, AND A SECOND RUN ON 14 OCTOBER 2026
+# CORRECTED FIVE MORE. **THE LIVE GATE BLOCK IS THE CLOSE AUDIT'S, IN `reviews/volume-08/volume-close.md`. NINE ROWS
+# BELOW ARE NOW FALSE AS WRITTEN AND ARE LISTED THERE: THE 12-GRAM ROW (recorded 0, re-ran at 30, 16 after repair),
+# THE 11-GRAM ROW (recorded 21, re-ran at 50), THE 8-GRAM ROW (recorded 446/1,167/642 on a scope it does not
+# disambiguate), THE TRAILING-NEWLINE CLAIM (all fifty files carry exactly one; chapter-0373.md carries two),
+# **AND, FROM THE 14 OCTOBER RUN: THE WORD-COUNT ROWS (106,583 -> 106,572, 20,335 -> 20,324, and the per-file list,
+# which was wrong on four of the ten — 396, 398, 399 and 400 — one of them before any repair), THE BAND CLAIM
+# (1,816-2,017 -> 1,820-2,016), plus the audit's own 12-GRAM (CHAPTER, SOURCE) ROW (16 -> 12) and its DIRECTED-ROWS
+# COLUMN (unverified throughout). DO NOT CARRY ANY OF THE NINE FORWARD.**
 
 **Every figure below was produced by a pass that wrote the prose and was then re-run from outside it after the last
 edit, after the last paragraph split and after the last repair. `AGENTS.md` §`outline/volume-08.md` §9 point 4: a
@@ -96,21 +100,34 @@ ELAPSED DAYS MAY BE WRITTEN EITHER WAY AND THE DATE MUST BE SUBTRACTED, NEVER CA
 FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0400.md, **fifty files, no gap and no file
                  outside 0351-0400.**  `ls chapters/*/chapter-*.md | wc -l` -> **400.**
                  **Volume 8 is COMPLETE.**
-VOL 8 WORDS      **106,583, counted per file and summed.** Per file: 351 **2,167** · 352 **2,240** · 353 **1,734** ·
+VOL 8 WORDS      **106,572, counted per file and summed — CORRECTED 14 OCTOBER 2026, WAS 106,583.** The four prose
+                 repairs in `reviews/volume-08/volume-close.md` §3 removed 11 words from the volume. Per file:
+                 351 **2,167** · 352 **2,240** · 353 **1,734** ·
                  354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** · 359 **2,260** ·
                  360 **2,594** · 361 **2,401** · 362 **1,842** · 363 **2,204** · 364 **2,170** · 365 **2,054** ·
                  366 **2,080** · 367 **1,983** · 368 **2,011** · 369 **3,089** · 370 **2,137** · 371 **2,053** ·
                  372 **2,212** · 373 **1,604** · 374 **1,909** · 375 **1,842** · 376 **1,700** · 377 **1,696** ·
                  378 **1,878** · 379 **1,935** · 380 **4,186** · 381 **2,135** · 382 **2,052** · 383 **2,043** ·
                  384 **2,102** · 385 **2,048** · 386 **1,950** · 387 **1,825** · 388 **3,374** · 389 **1,123** ·
-                 390 **1,981** · **391 2,016 · 392 1,923 · 393 1,829 · 394 1,820 · 395 1,837 · 396 1,917 ·
-                 397 1,830 · 398 3,334 · 399 1,923 · 400 1,916.**
-                 **BATCH 0005 ALONE = 20,335** (106,583 − 86,248).
+                 390 **1,981** · **391 2,016 · 392 1,923 · 393 1,829 · 394 1,820 · 395 1,837 · 396 1,918 ·
+                 397 1,830 · 398 3,313 · 399 1,913 · 400 1,925.**
+                 **THIS LIST WAS WRONG ON FOUR OF THE TEN AND IS NOW CORRECT ON ALL FIFTY: 396 was 1,917, 398 was
+                 3,334, 399 was 1,923 and 400 was 1,916. 396, 398 and 400 are the product of the audit's repairs.
+                 399 IS NOT — no repair touched 399, and the old list summed to 106,593 against its own stated
+                 106,583, so the ten-word discrepancy on 399 was a TRANSCRIPTION ERROR IN THIS BLOCK THAT PREDATES
+                 THE REPAIRS. All fifty per-file counts above were re-run on 14 October 2026 and every other file
+                 is exact.**
+                 **BATCH 0005 ALONE = 20,324** (106,572 − 86,248).
                  **COUNT PER FILE AND SUM. NEVER from a concatenation.** For this volume the two agree exactly —
-                 `cat chapters/volume-08/*.md | wc -w` returns **106,583** and the batch bracket returns **20,335** —
-                 because all fifty files carry exactly one trailing newline and none carries a trailing blank line,
-                 both checked file by file.
-                 **THE TEN OF THIS BATCH SIT BETWEEN 1,816 AND 2,017 AND 398 IS 3,334.** 398 is the volume's
+                 `cat chapters/volume-08/*.md | wc -w` returns **106,572** and the batch bracket returns **20,324** —
+                 and both were re-run on 14 October 2026.
+                 **THE OLD CLAIM THAT THEY AGREE *BECAUSE* ALL FIFTY FILES CARRY EXACTLY ONE TRAILING NEWLINE IS
+                 ALSO FALSE, AND IS THE SAME CLAIM AS THE `chapter-0373.md` DEFECT AT R1: that file carries two.
+                 The two totals agree anyway, because a blank line between two files does not add a word — the
+                 reason given for the agreement was wrong while the agreement was real.**
+                 **THE NINE CHAPTERS OF THIS BATCH THAT ARE NOT THE SCENE SIT BETWEEN 1,820 AND 2,016 AND 398 IS
+                 3,313 — CORRECTED, WAS *BETWEEN 1,816 AND 2,017*, WHICH MATCHED NO CHAPTER AND WAS WRONG BEFORE
+                 THE REPAIRS AS WELL AS AFTER.** 398 is the volume's
                  scene and it is inside the band a scene chapter is allowed to leave, and the reason is printed on
                  the page: it is a scene and it is the last one in the volume and the batch's shortest chapters are
                  394 at 1,820 and 397 at 1,830. **Nothing is padded to a number.**
@@ -209,7 +226,9 @@ DUPLICATE PARAGRAPHS  **0 inside the batch**, checked over every paragraph of ov
                  under her at 396, which is her signature exit and is deliberate** · **and nine ordinary English
                  constructions of eleven words.**
 8-GRAM           **446 distinct**, directed rows **1,167**, distinct (chapter, source) pairs **642**, over a
-                 corpus of 400 chapters and 106,583 words in this volume alone.
+                 corpus of 400 chapters and 106,572 words in this volume alone. **THE DISTINCT FIGURE IS THE ONLY
+                 ONE OF THE THREE THAT RE-DERIVES (527 distinct after repair, `reviews/volume-08/volume-close.md`
+                 §4). 1,167 and 642 do not, and no directed figure in that audit reproduces — see its R7.**
 SCENE            **398 IS THE VOLUME'S LAST SCENE AND IT IS WRITTEN OUT.** Scene body, counted from the opening `##`
                  to the closing `##` exclusive of both: **1,467 words**, against the gate's floor of about 900. No
                  compulsion, no sedation, no toxin, no restraint, no psychic contact, no seal, no violence; **her
@@ -233,6 +252,35 @@ SCENE            **398 IS THE VOLUME'S LAST SCENE AND IT IS WRITTEN OUT.** Scene
 **THE NEXT PHASE IS NOT ANOTHER BATCH AND IT IS NOT A CLOSE PHASE.** **Volume 8 is closed. The close audit has
 run and it is `reviews/volume-08/volume-close.md`. The one live phase is `workspace/volume-09/volume-plan/PROMPT.md`,
 a PLANNING phase that writes `outline/volume-09.md` and Volume 9's first batch cards and no prose.**
+
+---
+
+## OPEN ITEMS INHERITED BY VOLUME 9 — ADDED 14 OCTOBER 2026. **THIS FILE'S PURPOSE IS OPEN THREADS AND IT HAS
+THREE, NONE OF WHICH IS CLOSED.**
+
+**1. THE EIGHTEEN-CHAPTER SCENE GAP. OPEN. OWNER: THE VOLUME 9 PLANNING PHASE.** `AGENTS.md`: *once the first
+partner is established, no more than fifteen chapters without a scene.* **Chapter 380 to chapter 398 is eighteen on
+the explicit count and the breach is in the book.** `reviews/volume-08/volume-close.md` §2 C5 gives four reasons
+why the close audit did not repair it — the breach is forced by `PC-44`, a close phase may not restructure a
+volume, every chapter of 391–400 carries a woman in it with what she wants, and a reader arriving cold is not
+harmed — and then, correctly, declines to call the rule satisfied. **What is settled: it may not be repaired by
+moving a scene, and Volume 9 may not repeat it. What is NOT settled: the rule is still unmet.** **NO STATE FILE
+MAY DESCRIBE THIS BREACH AS CLOSED, DECIDED, CURED, RESOLVED OR DISCHARGED, AND THE WORD *DECIDED* IN
+`state/continuity.md`'s three-audits-made list IS NOT ENOUGH** — a decision about whether to repair is not
+compliance. **The outstanding obligation belongs to Volume 9's own scene schedule, which must close on the
+explicit count without manufacturing a gift for a partner who has none, and `outline/volume-09.md` must carry the
+arithmetic in the shape `outline/volume-08.md` §4 uses.**
+
+**2. `PC-28`, THE INTERVAL DEFECT IN CHAPTER 359. OPEN. OWNER: NOBODY YET, AND IT HAS BEEN OPEN SINCE BATCH 0002.**
+Recorded in full in the canon table below. **It is a miscount inside a sealed and audited block** — 16 to 19 January
+is three days, and the copy was served on the fifteenth, and the section says nine and eight. **It is not a canon
+error and it does not propagate, because no chapter in 371–400 uses that section's figures. It is still wrong.**
+
+**3. THE AUDIT'S DIRECTED-ROWS COLUMN. UNVERIFIED. OWNER: THE VOLUME 9 PLANNING PHASE.** See
+`reviews/volume-08/volume-close.md` §4 and R7. **Every *distinct* figure in that audit re-derives exactly, all nine
+cells of the volume-wide table; every *directed rows* figure does not, under either available reading.** No
+replacement number is printed, because inventing one would repeat the defect. **The column is not to be carried
+forward and no phase needs it.**
 
 ---
 

@@ -2,8 +2,10 @@
 
 **THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`.** Batch 0005's head record is
 immediately below it and is retained in full as the position at Chapter 400. **Four rows of that block were false as
-written and are corrected in the audit: the 12-gram row, the 11-gram row, the 8-gram row and the trailing-newline
-claim.** Read the audit's figures and not the gate block's.
+written and were corrected by the audit — the 12-gram row, the 11-gram row, the 8-gram row and the trailing-newline
+claim — and a second run on 14 October 2026 found five more, of which two are corrected here: the word-count rows,
+106,583 and 20,335, which the audit's own four prose repairs invalidated, and the per-file list behind them. Read the
+audit's figures and not the gate block's.**
 
 ## 0. THE POSITION AT CHAPTER 400, AND IT IS WHAT VOLUME 9 OPENS ON
 
@@ -62,13 +64,17 @@ lines.**
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0391.md` … `chapter-0400.md` | ten finished chapters, the twenty-first to the thirtieth of March, one day a chapter. **20,335 words counted per file and summed. Volume 8 is 106,583.** |
+| `chapters/volume-08/chapter-0391.md` … `chapter-0400.md` | ten finished chapters, the twenty-first to the thirtieth of March, one day a chapter. **20,324 words counted per file and summed — corrected 14 October 2026, this read 20,335. Volume 8 is 106,572 — corrected, this read 106,583.** The 11-word difference is the close audit's four prose repairs |
 | `outline/volume-08.md` | **§6 movement 5 rewritten against the page**, with **twelve named places the plan was wrong**, **both open questions the section left for the last batch settled**, §6's header corrected, §4's fifth column given the register the batch actually carried, §4's day-spine row for 391–400 rewritten, **§8 rewritten against the page as written fact**, the file's own two-register note corrected, and §10 re-run |
 | `state/open-threads.md` | **new live gate block**, and canon items **PC-47 to PC-56** recorded in the same commit; Batch 0004's block marked superseded |
 | `state/current.md` | this block |
 | `state/continuity.md` | the live block replaced |
 | `state/chapter-summaries.md` | 391–400 entered |
-| `workspace/volume-08/volume-close/PROMPT.md` | **the one live phase in the repository.** It reports the volume close, writes `reviews/volume-08/volume-close.md`, and sets up `outline/volume-09.md`. **It writes no prose.** |
+| `workspace/volume-08/volume-close/PROMPT.md` | **it WAS the one live phase in the repository when this batch was banked. IT IS NOT LIVE NOW — IT RAN, AND IT IS COMMITTED AS `reviews/volume-08/volume-close.md`.** It reported the volume close, wrote that audit, and set up Volume 9's planning. **It wrote no prose. THE ONE LIVE PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`.** |
+
+**THIS TABLE IS THE BATCH'S OWN RECORD OF WHAT IT CREATED ON 13 OCTOBER 2026 AND IT IS HISTORICAL. IT IS NOT A LIST
+OF WHAT IS LIVE.** The row that has been misread as a live-phase claim is marked as such above. **A phase reading
+this file for what to do next reads line 1, not this table and not §3.**
 
 **THE BATCH'S FIRST IRREVERSIBLE DECISION IS 392.** On the afternoon of the twenty-second of March he went to the
 room where nine people sit and demanded production of the foot of the four sheets of plain paper he laid there on
@@ -298,21 +304,41 @@ being made on the thirteenth; she did not and could not come off the October one
 six divisions and will in four years. **It is still in the keeping of six desks and the return that went out on the
 twentieth of March carried a broker's name in its fourth line to four of them.**
 
-## 3. WHAT THE VOLUME CLOSE OWNS, AND WHAT IT MAY NOT REACH
+## 3. WHAT THE VOLUME CLOSE OWNED, AND WHAT IT WAS FORBIDDEN TO REACH — **A CLOSED PHASE'S CONSTRAINTS, KEPT FOR THE RECORD**
 
-**THE ONE LIVE PHASE IS `workspace/volume-08/volume-close/PROMPT.md`. IT IS A CLOSE PHASE. It reports the volume
-close, writes `reviews/volume-08/volume-close.md`, and sets up `outline/volume-09.md`. IT WRITES NO PROSE OF ANY KIND,
-NOT ONE CHAPTER, NOT ONE SCENE, AND NOT A LINE OF VOLUME 9.**
+**READ THIS BEFORE §3'S LIST. THIS SECTION DESCRIBES A PHASE THAT HAS ALREADY RUN AND BEEN COMMITTED. IT IS NOT
+THE LIVE CONSTRAINT SET AND NOTHING IN IT BINDS VOLUME 9.** The close phase was
+`workspace/volume-08/volume-close/PROMPT.md`; it ran on 13 October 2026 and its output is
+`reviews/volume-08/volume-close.md`. **The one live phase is `workspace/volume-09/volume-plan/PROMPT.md`, and its
+constraint set is that file.** This section is kept because a close phase's prohibitions explain why the audit
+stopped where it stopped, and because `AGENTS.md` requires a later phase to be able to tell which of its
+inherited rules are live.
 
-**It may not:** contradict any figure in §2 above · print `S.M.` against the reply or the two sightings in one month ·
-put the two composition figures back into disagreement · carry, receive or decide the requisition · spend a grain,
-draw, route or open a folio · print a settle date · name a day of the week · announce an age · resolve whom Wren
-Kallo told · lift Alma Quayle's recusal · give Dagmar Oyelowo a gift or move her or put her room to work · reproduce
-any figure from 359's section head (`PC-28`) · introduce a new final enemy · revive either offer Anouk Ferreira made
-or did not make · **or treat the scene schedule's eighteen-chapter gap as a defect to be repaired by moving a scene,
-which the batch did not do and §4 explains at length.**
+**It wrote no prose of any kind — not one chapter, not one scene, and not a line of Volume 9 — and it may not be
+read as having wanted to.**
 
-**AND THE THINGS THAT ARE TRUE WHATEVER THE CLOSE FINDS:** the reservoir is returned in full at 486 and he ends at
+**While it ran, it was forbidden to:** contradict any figure in §2 above · print `S.M.` against the reply or the two
+sightings in one month · put the two composition figures back into disagreement · carry, receive or decide the
+requisition · spend a grain, draw, route or open a folio · print a settle date · name a day of the week · announce
+an age · resolve whom Wren Kallo told · lift Alma Quayle's recusal · give Dagmar Oyelowo a gift or move her or put
+her room to work · reproduce any figure from 359's section head (`PC-28`) · introduce a new final enemy · revive
+either offer Anouk Ferreira made or did not make · **or treat the scene schedule's eighteen-chapter gap as a defect
+to be repaired by moving a scene, which the batch did not do and §4 explains at length.**
+
+**AND THE ONE PROHIBITION IN THAT LIST WHICH VOLUME 9 MUST NOT INHERIT, WHICH IS THE REASON THIS SECTION IS
+MARKED: *CARRY, RECEIVE OR DECIDE THE REQUISITION*.** It was a prohibition on the CLOSE PHASE and it was correct
+there, because a close phase that moved the requisition would have changed the position it was auditing. **IT IS
+NOT A PROHIBITION ON VOLUME 9.** `outline/series.md` and the Volume 9 planning prompt put *Lin Hao must reach rank
+nine, or Lin Wei's file stays shut and the account stays open* as this volume's sentence, **and a volume that must
+reach rank nine and may not carry, receive or decide the requisition is a volume forbidden its own ascent.**
+**The requisition crossed into the second quarter at four on the afternoon of the thirtieth of March with everything
+written on it and with the standing of the room, which was three, because the Council did not sit before the first
+of April. IT IS LIVE. IT HAS NOT BEEN CARRIED, RECEIVED OR DECIDED. Volume 9's outline must decide what happens to
+it, and nothing in this file may be read to forbid that.** The other thirteen prohibitions above are standing
+canon and do bind Volume 9; **this is the only one that does not, and the reason is not that it was lifted — it is
+that a close phase's own prohibitions expire with the close phase.**
+
+**AND THE THINGS THAT ARE TRUE WHATEVER ANY PHASE FINDS:** the reservoir is returned in full at 486 and he ends at
 rank one. **The great offer is Chapter 486's and is not Wren Kallo's and not Anouk Ferreira's.** Anouk Ferreira made
 the smaller offer at 345, was refused with an instrument, will not make it again, and did not make the other one, and
 this batch did not revive either. **The series is planned past 500 and Volume 8 is not the last of it. There is no new
