@@ -48,7 +48,7 @@ She spread both hands on the table and left them there.
 
 "On the seventh of this month I got a chair and stood on that landing and made a wall and a file agree with each other line for line, so that neither of them was a lie, and I did it for eight days and it was the best work I have done since I came into this house, and I did it because I believed that a thing which agrees with itself cannot be used against it.
 
-"Eleven days ago Marit Kolb came up these stairs at ten past seven at night and read a wall and then asked the one question a district officer is not supposed to ask, and she asked it because a roll that agrees with a sworn answer is a copy, and a copy can be produced out of a file by anybody holding the file. I wrote it down that night. I have it in my own book.
+"Sixteen days ago Marit Kolb came up these stairs at ten past seven at night and read a wall and then asked the one question a district officer is not supposed to ask, and she asked it because a roll that agrees with a sworn answer is a copy, and a copy can be produced out of a file by anybody holding the file. I wrote it down that night. I have it in my own book.
 
 "I built it," said Sun Meiling. "I built the thing that made them able to do this, and I built it out of the best idea I have had in four years, and I have been sitting at this table for nine days watching one institution after another walk through a door I made sure was unlocked."
 
@@ -60,7 +60,7 @@ He got up. He did not get up to say anything clever and he got up because she wa
 
 "Sit down," said Sun Meiling. "There is a wall at the top of this stair with a nail in it and a roll on the nail, and it has got six names and a head's line and a seventh row in pencil in my own hand, and it is the only document in this city that is a household, and it is the only one of the three that somebody in this house has to carry up sixty-one steps to get at.
 
-"A roll that lives at the premises is not an instrument and has no force. I learned that on the first of June from a woman of nineteen years who copied it into a book and told me so while she was doing it.
+"A roll that lives at the premises is not an instrument and has no force. I learned that on the first of June from a woman who has been in that guild nineteen years, who copied it into a book and told me so while she was doing it.
 
 "So I am going to take it down off the wall and I am going to cut it at the ruled lines, and there is going to be a piece of paper with one name on it in each of seven pockets in this house, and there is going to be no roll."
 
@@ -90,10 +90,10 @@ Marguerite Vale looked at it for about four seconds and said, "That is my name a
 
 Nadia Ferrous had not moved from her chair and when it was over she opened her notebook, and shut it again, and opened it, and said one thing, and it was the only thing she said in the whole of the afternoon.
 
-"I have kept six of them for four years," she said. "That is what six means in this house. Six notebooks, six copies, six times somebody in this room wrote a thing down and somebody else read it back. And I have been putting them on this table and saying *which list are you on*, and I have been doing it because I thought the lists were the problem.
+"I have kept six of them for four years," she said. "That is what six means in this house. Six notebooks, six copies, six times somebody in this room wrote a thing down and somebody else read it back. And I have been putting them on this table and asking which list are you on, and I have been doing it because I thought the lists were the problem.
 
 "The lists were never the problem. The lists were the only thing in this city that belonged to us. I want that in a book tomorrow with my name on it and with the word wrong in it, because I am the person who said it, and because a thing said and then taken back is worth about a quarter of what it is worth written down."
 
 She wrote it down herself, in the end. She did not ask anybody to check it.
 
-The kitchen was extremely quiet, and out on the landing the nail was still in the wall, and the roll was not there, and nothing in the world had changed except that a thing which had been true twice was now true once, and the once was in Cobb Street.
+The kitchen was extremely quiet, and out on the landing the nail was still in the wall, and the roll was not there, and nothing in the world had changed except that a thing which had been true in four places was now true in three, and every one of the three was in an office.

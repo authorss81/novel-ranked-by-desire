@@ -24,10 +24,11 @@ a Thursday, the 30th a Wednesday, and the first of next month a Thursday.**
 > **THE ELEVENTH TO THE TWENTIETH: 11 · 12 · 13 · 14 · 15 Thu · 16 · 17 · 18 · 19 · 20.**
 
 **EXACTLY ONE THURSDAY IS IN THIS BATCH AND IT IS THE FIFTEENTH, AND IT REPAINTS: Ch 225.** The word
-Thursday appears six times in the batch — once at 221, once at 223, three times at 225, once at 226 —
+Thursday appears **five** times in the batch — once at 221, once at 223, **twice** at 225, once at 226 —
 and every one of them is the Thursday pass, the calendar, or a date the characters name. **No chapter in
 this batch names any other weekday, and three weekday names were typed into the first draft and removed by
-hand.**
+hand.** (The batch record first said six and put three of them at 225. **It is five. A per-file `grep -c`
+counts lines and Ch 225 carries both of its uses on line 3** — corrected on the Batch 0003 review repair.)
 
 **CHAPTER 191's PRINTED PREMISE IS CANON AND WAS NOT RESTATED IN THIS BATCH.** The Office does not sit on
 the twenty-seventh of a month. It was stated once, in Batch 0002 at Ch 215, and this batch does not
@@ -170,20 +171,20 @@ no weekday to earn.**
 
 221 the 11th · 222 the 12th · 223 the 13th · 224 the 14th · 225 the 15th **and it is the batch's only
 Thursday, and it repaints** · 226 the 16th · 227 the 17th · 228 the 18th · 229 the 19th · 230 the 20th.
-**The word Thursday appears six times and every one of them is the Thursday pass, the calendar, or a date a
-character names: 221 (×1), 223 (×1), 225 (×3), 226 (×1). No chapter names any other weekday.**
+**The word Thursday appears five times and every one of them is the Thursday pass, the calendar, or a date a
+character names: 221 (×1), 223 (×1), 225 (×2), 226 (×1). No chapter names any other weekday.**
 
 | Chapter | Dates on the page | Check |
 | --- | --- | --- |
 | 221 | the 7th, 8th, 9th, 10th, 11th · the 1st, 2nd, 3rd, 5th, 6th · the first of next month (the card) · the 1st of July · 20:40 on the seventh · 07:58, 08:06, 08:04, 08:11, 07:59 | 44 elapsed. The seven-row notebook is 7 + 4 mornings. Correct |
 | 222 | the 12th, the 16th, the 3rd, the 21st of May, the 4th of May, the 26th, the 27th, four days, fifteen days, 45/60 | 45 elapsed, 15 to the certificate. Correct |
 | 223 | the 13th, the 3rd, the 9th, the 12th, the 16th, the 4th of May, the 21st of May, eleven years, four years | 4 days between the two instruments. Correct |
-| 224 | the 14th, the 16th, the 1st of July, the 27th, the 20th, the 29th of last month, the 4th of July, 47/60, eight days, twelve days | 47 elapsed, 13 to the certificate, 16 to the valuation from the fifteenth, 11 from the twentieth. Correct |
+| 224 | the 14th, the 16th, the 1st of July, the 27th, the 20th, the 29th of last month, the 4th of July, 47/60, eight days, twelve days, **seventeen days** | 47 elapsed, 13 to the certificate, **17 to the valuation from the fourteenth**, 16 from the fifteenth, 11 from the twentieth. **THE FIRST PASS PRINTED *ELEVEN DAYS* HERE AND CONTRADICTED ITSELF FOUR LINES LATER. Correct on the repair** |
 | 225 | the 15th, the 13th, the 8th, the 1st, the 16th, the 17th, the 18th, the 23rd, the 4th, the 22nd, the 27th, the 26th, the 1st of July, 48/60, two hours, four years | 48 elapsed. One Thursday, the fifteenth, and it repaints. Correct |
 | 226 | the 16th, the 13th of last month, the 14th of last month, the 7th of April, the 27th, the 3rd, the 1st of next month, nine years, six years, two hundred and three | Ch 194 is the 14th of May and Ch 193 is the 13th; the seventh of April is Ch 183's chart. Correct |
-| 227 | the 17th, the 10th, the 1st, the 4th, the 9th, the 21st of May, the 1st of July, the 4th of July, the 1st of next month, eleven years, thirty years, a hundred and thirty-two, fourteen days | 50 elapsed, 14 to the valuation. Correct |
+| 227 | **the 16th** (the fourth page goes to the counter), the 17th (the index), the 10th, the 1st, the 4th, the 9th, the 21st of May, the 1st of July, the 4th of July, the 1st of next month, eleven years, thirty years, a hundred and thirty-two, fourteen days | 50 elapsed, 14 to the valuation. **THE FIRST PASS DATED THE COUNTER INTAKE TO THE SEVENTEETH AND COLLAPSED THE INTAKE AND THE INDEX ONTO ONE DAY, WHICH PUTS IT AFTER Wren Kallo's *since the sixteenth* at Ch 228. INTAKE CORRECTED TO THE SIXTEENTH, WHICH IS WHAT Ch 224:101 AND Ch 225:89 ALREADY SAID OUT LOUD.** |
 | 228 | the 18th, the 16th, the 17th, the 23rd, the 26th, the 27th, the 1st of July, the 4th, eleven o'clock, half past three, five years, eleven years, four years, four edits | 51 elapsed, 9 to the certificate. The three dates in the final speech are the fourth of last month and the twenty-seventh of this month, which is exactly the ambiguity Ch 218's painter left standing. Correct |
-| 229 | the 19th, the 1st, the 7th, the 29th of last month, the 1st of next month, the 4th of May, twelve days, four years, ninety seconds, eleven seconds, seven pieces | 52 elapsed. Correct |
+| 229 | the 19th, the 1st, the 7th, **the 3rd (sixteen days back)**, the 29th of last month, the 1st of next month, the 4th of May, twelve days, **nineteen years in the guild**, four years, ninety seconds, eleven seconds, seven pieces, four places, three | 52 elapsed. **THE FIRST PASS PRINTED *ELEVEN DAYS AGO* FOR Kolb's VISIT, WHICH IS THE EIGHTEENTH, AND *A WOMAN OF NINETEEN YEARS*, WHICH MADE HER NINETEEN YEARS OLD. Both corrected on the repair** |
 | 230 | the 20th, the 26th, the 27th, the 1st of July, the 4th of July, the 23rd, the 29th of last month, the 13th, the 4th of May, the 30th of May, the 4th, 53/60, a month, eleven years | 53 elapsed, 7 to the certificate, 6 to the schedule, 11 to the valuation. Correct |
 
 ### Gates run, and what they do not tell you
@@ -194,9 +195,10 @@ Re-derived by command **after the last edit**.
 ls chapters/volume-05/                                                        → 30
 titles unique book-wide (230 files)                                           → NONE
 titles over 90 characters                                                     → 0
-wc -w, 221 to 230  1847 / 2098 / 1949 / 1997 / 1970 / 1894 / 2003 / 2925 / 1947 / 2127 → total 20,757
+wc -w, 221 to 230  1847 / 2098 / 1957 / 1997 / 1967 / 1894 / 2014 / 3788 / 1958 / 2127 → total 21,647
 horizontal rules / blockquotes / code blocks / tables                          → 0 / 0 / 0 / 0
-bold, underscore and italic markup                                             → 0
+bold markup, underscores                                                        → 0
+italic markup (single asterisk)                                                 → 2 — FALSE ZERO IN THE FIRST GATE OUTPUT, see the repair record
 planning-register terms (reservoir, quiet account, concil, ninth seal, channel)→ 0
 system panels in 221–230                                                      → 0. No count turns and none is due
 ages                                                                          → 0
@@ -204,7 +206,7 @@ meta-language in 221–230                                                      
 rationed constructions                                                        → 0
 nobody / no one / no-one                                                      → 1, against a ration of 1 (Ch 221)
 weekday names other than Thursday, 221–230                                    → 0. The first pass carried three
-the word Thursday                                                            → 6, at 221, 223, 225 (×3) and 226
+the word Thursday                                                            → 5, at 221 (×1), 223 (×1), 225 (×2) and 226 (×1)
 not a tank / he is a door                                                     → 0
 paragraphs over 90 words, 221–230                                            → 0; longest is 90, none over 120
 8+ word sentence duplication, whole book, all 230 files                      → 66, all pre-existing, none involving this batch
@@ -314,3 +316,70 @@ before this batch and that later batches must not contradict:
   that line it is not written by the Office or by any of the women in the kitchen — **and she was told, on
   the page, that there is no provision for a person to write her own line on a premises return, and she
   said she had known that since May.**
+
+---
+
+## REPAIR PASS ON THIS BLOCK — read before Batch 0004
+
+**A review run that did not write the pages read Chapters 221–230 in full and returned six hard errors, three
+false-zero gate records and five minors. All fourteen are fixed, the gate figures in this block are
+re-derived, and the full record is in `reviews/volume-05/batch-0003.md`. No chapter was restarted and no
+planned plot moved.**
+
+### What a Batch 0004 writer must inherit as corrected fact
+
+1. **Marit Kolb's blank line is the THIRD of June** and Ch 229 now says **sixteen days ago** from the
+   nineteenth. **3 June → 19 June is sixteen; eleven is the figure for the eighth.**
+2. **Runa Sato's price is SEVENTEEN days on the fourteenth** (lodged to 1 July), sixteen on the fifteenth,
+   **eleven on the twentieth.** Ch 224 said eleven on the fourteenth and contradicted itself four lines later.
+3. **THE FOURTH PAGE WENT INTO THE COUNTER AT COBB STREET ON THE SIXTEENTH AND WAS INDEXED ON THE
+   SEVENTEENTH.** Ch 227 had dated the intake to the seventeenth, which put it after Wren Kallo's *I have
+   been looking at it since the sixteenth* at Ch 228. **Ch 224:101 and Ch 225:89 always had the sixteenth and
+   they were right. Intake corrected to the sixteenth.** Any Batch 0004 reference to the fourth page's being
+   lodged is a reference to the **sixteenth**, and any reference to the copy going out is a reference to the
+   **eighteenth.**
+4. **HANNE VOOG IS NINETEEN YEARS IN THE GUILD** and is not nineteen years old (211:51, 230:39).
+5. **THE PAINTER AT THE FOOT OF THE LADDER SAID *ONE WOMAN* AND MEANT WREN KALLO** (225:117). **Ch 228 pays it
+   off: she finds 34-6-118 on the ranks wall with her hand in about two seconds in the dark.** Do not write
+   that beat again; it has been spent.
+6. **Ch 228's *extremely careful* is *for a month***, matching Ch 225. It is not five weeks and never was.
+7. **CH 228 IS 3,788 WORDS AND THE SEX IS ON THE PAGE.** It was summarised at 2,925 and has been written out:
+   consent stated in plain dialogue before anything starts, and the act itself run through her professional
+   discipline — **she reads the history of a record for a living and cannot stop reading one in a man, and
+   there is nothing in him.** **Nothing impedes it: no sedation, exhaustion, toxin, restraint, trance or seal.**
+   His want is stated once on the page: he has spent four years being edited by other people and wanted
+   somebody to look for what was taken out of him and fail to find it.
+8. **A MOTIF WAS CUT IN THE REPAIR AND IS NOT AVAILABLE AGAIN.** An expansion of Ch 228 had him tell her
+   about the light stopping two inches above the seventh row. **It was removed because Ch 228 already ends on
+   darkness and a light a city switches off at eleven.** Do not put the stair light and the pencil row back
+   into Ch 228 or into any scene that runs beside it.
+
+### The defect the review did not reach, and which is the most dangerous thing in this block
+
+**`workspace/volume-05/batch-0004/PROMPT.md` said Batch 0004 *contains exactly ONE Thursday and it is the
+twenty-second*. THAT IS WRONG.** Batch 0004 runs the **twenty-first to the thirtieth** and June's Thursdays
+are the **first, eighth, fifteenth, twenty-second and twenty-ninth**, so **Batch 0004 contains TWO Thursdays,
+the twenty-second and the twenty-ninth, and both of them are the Thursday pass over the ranks wall.**
+**The prompt has been corrected.** The consequence is flagged and NOT designed: **the pass on the twenty-
+second paints over the bare nail and the nine-inch-by-fourteen pale rectangle that Chapter 230 closed on.**
+Batch 0004 owns what happens to it and may not decide it in a way that contradicts Ch 230 or Ch 225.
+
+### Three figures in this block were wrong and are now corrected
+
+- **THE WORD *THURSDAY* APPEARS FIVE TIMES, NOT SIX** — 221 (×1), 223 (×1), 225 (×2), 226 (×1). The sixth
+  was a per-file `grep -c` counting **lines**; Ch 225 carries both of its uses on line 3.
+- **ITALIC MARKUP IS NOT ZERO AND WAS NOT ZERO — IT WAS A FALSE ZERO.** The gate pattern could not match
+  single-asterisk italics. Two spans existed (224:21, 229:93) and **both are now plain text**, so the
+  batch prompt's *no italics* rule and the record agree.
+- **THE TWENTY-TWO SURVIVING 12-GRAM RUNS ARE TWENTY-TWO, NOT SEVENTEEN, ON A BROADER SCOPE.** The
+  re-derivation runs against all **221** earlier chapters and normalises the digits in 34-6-118 out of every
+  string, which surfaces two the earlier method missed: the board's own text at 225 and the
+  certificate-and-schedule line at 228. **All 22 are a character's own words, a document's own text, or a
+  recurring motif. The repair introduced ZERO new runs: 22 before, 22 after, empty set difference.**
+
+### Unchanged by this repair
+
+**The batch's one sentence, both irreversible decisions (his sworn answer of six at Ch 224, Sun Meiling
+cutting the roll at Ch 229), Ines Duarte's non-resolution, the roll's destruction, the bare nail, the
+certificate on the twenty-seventh and the schedule on the twenty-sixth.** **Ch 241 is Batch 0004's. Ch 246
+is Ines leaving and Ch 271 is her return. No new final enemy has been introduced.**

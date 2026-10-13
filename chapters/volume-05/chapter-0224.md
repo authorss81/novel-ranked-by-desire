@@ -18,7 +18,7 @@ He wrote it in his own hand and he did it quickly, which he noticed himself doin
 
 "There is always something under it," said Sun Meiling, "and it is the part that is small. Go on."
 
-He read the small part. It said that the answer is given by the head of the household in his own name and enters the record of the premises at the address and is answerable against the head's standing, and it said the word *answerable* four times in nine lines, and he had not noticed the word the first time he read it and he noticed it now because Runa Sato had made him read it aloud.
+He read the small part. It said that the answer is given by the head of the household in his own name and enters the record of the premises at the address and is answerable against the head's standing, and it used the word answerable four times in nine lines, and he had not noticed the word the first time he read it and he noticed it now because Runa Sato had made him read it aloud.
 
 "Answerable against the head's standing," said Runa Sato. "Say the next part."
 
@@ -34,7 +34,7 @@ Nothing was said for a while, and that was correct, because there was nothing to
 
 ## The Number
 
-"Forty-seven of the sixty are gone," said Runa Sato. "Thirteen to a certificate. And the plate this is answered against is lodged in a chained book until the first of July and cannot be withdrawn before it, so if you want to know what it costs, the price of this page is that for eleven days it cannot be taken out of the book, and after the first of July it can."
+"Forty-seven of the sixty are gone," said Runa Sato. "Thirteen to a certificate. And the plate this is answered against is lodged in a chained book until the first of July and cannot be withdrawn before it, so if you want to know what it costs, the price of this page is that for seventeen days it cannot be taken out of the book, and after the first of July it can."
 
 "How many days."
 

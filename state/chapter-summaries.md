@@ -1184,6 +1184,9 @@ house, because she is going to say things about people who will not be in the ro
 foot of the ladder tells him that **a name cannot come off that board with paint, that it takes a
 correction, and that a correction on that board leaves a hole about a yard long at the low end**, and that
 the men who were on the crew when it happened still talk about it in the tea hut and not to them.
+**He also says there is one woman in the city who can see what was painted over, that she works for nobody,
+and that he saw her at the side of a whole building in a yard behind a laundry about two years ago. That is
+Wren Kallo, and Ch 228 pays it off: she finds 34-6-118 on this wall with her hand, in the dark.**
 **Forty-eight of the sixty gone, twelve to the certificate, sixteen to the valuation.**
 
 **226 Nothing Moved In It.** Tessa Okonkwo's quiet chapter. He comes to the Vestry trade door at ten past
@@ -1200,7 +1203,8 @@ properly**, and to tell him in a room and not in his kitchen, and to put a clini
 answer of six in the same office under the same address — and to carry a crate with him on the eighteenth.
 
 **227 The Space At The Foot.** Petra Ilyin takes the fourth page to Cobb Street at twenty past one on the
-seventeenth, where a clerk enters the figure, initials it, and says nothing, and there is no copy. Then she
+**sixteenth**, where a clerk enters the figure, initials it, and says nothing, and there is no copy; it is
+indexed on the seventeenth, which is the run Ch 224 and Ch 225 already had. She does not sleep much after it. Then she
 goes up sixty-one steps of the Vant with the bundle and reads the ninth page of the rule book for forty
 minutes. **A docket is answered at the foot by the mark of the holder, in ink, in the holder's own hand; a
 docket that reaches its date unmarked is not produced; an account not produced at a valuation goes on the
@@ -1230,7 +1234,14 @@ of a subtraction in every person she touches that she has come out at a quarter 
 before he got there. **The scene happens on the kerb in coats and then not in coats, with two hundred yards
 of empty square between them and the Reading doorway, and it is explicit and unhurried after the first
 hour and a half in which neither of them says anything, and nothing in it turns on an impaired state.**
-She reads him with her hands for an hour and finds nothing over and over. Afterwards, on her back on the
+**He says yes after eleven minutes and says the terms back to her so that she has heard them said, and
+offers to stop knowing he will not be told whether she is stopping; she answers yes and says she is
+frightened of it and that the two are the same thing tonight. The act is run through her discipline: she
+reads the history of a record for a living and cannot stop reading one in a man, **holding still is a
+different shape from not moving**, and she stops him with a hand over his mouth twice because she is
+listening to what happens underneath the words. His want is stated once — he has spent four years being
+the thing other people edit him through and wanted somebody to look for what was taken out of him and fail
+to find it.** She reads him with her hands for an hour and finds nothing over and over. Afterwards, on her back on the
 kerb under four feet of dark tile, she tells him the thing he does not want to hear: **on the twenty-sixth
 the schedule does not go up and on the twenty-seventh there is no certificate, and he is going to have to
 lose somebody in the next nine days.** Then she stands up, finds his name in the dark wall with her hand in

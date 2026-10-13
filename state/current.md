@@ -23,6 +23,16 @@ Batch 0004 — Chapters 231–240 — is the next phase, and its prompt is at
 
 # VOLUME 5, BATCH 0003 — HEAD RECORD. CHAPTERS 221–230. THE NOTICE.
 
+> **REPAIRED ON REVIEW.** An independent review of this batch returned six hard errors, three false-zero
+> gate records and five minors, and **all fourteen are fixed**. Two things a later writer must inherit:
+> **Chapter 228's scene is now written on the page at 3,788 words rather than summarised at 2,925**, and
+> **the fourth page went into the counter at Cobb Street on the SIXTEENTH and was indexed on the
+> seventeenth.** Also: Marit Kolb's blank line is the **third** of June and is **sixteen** days before
+> Ch 229; Runa Sato's price is **seventeen** days on the fourteenth; **Hanne Voog is nineteen years in the
+> guild and is not nineteen years old**; **Batch 0004 has TWO Thursdays, the twenty-second and the
+> twenty-ninth**, not one. **The full record is the repair section at the foot of `state/open-threads.md`
+> and in `reviews/volume-05/batch-0003.md`. No chapter was restarted and no planned plot moved.**
+
 **Ten chapters, one a day from the eleventh to the twentieth of June, no shared dates and no gaps. This
 batch puts Wren Kallo back on the page at Chapter 228, which is immovable on `outline/series.md`'s scene
 table and is Volume 5's third of five, and it takes the household from a plate that a head has pledged to
@@ -134,11 +144,16 @@ ceiling**, 228 → 241 = 13, 241 → 249 = 8.
 
 **THE CALENDAR, AS THE PAGE NOW FIXED IT.** June's Thursdays are the **first, the eighth, the fifteenth,
 the twenty-second and the twenty-ninth**. **This batch runs the eleventh to the twentieth and contains
-exactly one Thursday and it repaints: the fifteenth, and it is Chapter 225.** The word Thursday appears six
-times in the batch and every one of them is the Thursday pass, the calendar or a date a character names.
+exactly one Thursday and it repaints: the fifteenth, and it is Chapter 225.** The word Thursday appears
+**five** times in the batch — 221 (×1), 223 (×1), 225 (×2), 226 (×1) — and every one of them is the Thursday
+pass, the calendar or a date a character names.
 **The certificate is dated the twenty-seventh of June and cannot arrive before Batch 0004**, which runs
 the twenty-first to the thirtieth and carries the schedule on the twenty-sixth and the certificate on the
-twenty-seventh.
+twenty-seventh. **Batch 0004 therefore contains TWO Thursdays, the twenty-second and the twenty-ninth, and
+both are the Thursday pass over the ranks wall.** *(Corrected on the Batch 0003 review repair. The next-
+batch prompt first said Batch 0004 had one, the twenty-second. It has two, and the pass on the twenty-second
+paints over the bare nail and the pale rectangle that Chapter 230 closed on. See the repair record at the
+foot of `state/open-threads.md`.)*
 
 **WHAT THIS BATCH SPENT:** an option closed (**a man whose answers were all true, closed in his own
 handwriting on the fourteenth**) · a cost incurred by somebody else (**Agnete Lindqvist's blank line,

@@ -17,11 +17,14 @@ point it touches.**
   immovable** · 229 the 19th · 230 the 20th.
 - **EXACTLY ONE THURSDAY IN THIS BATCH AND IT IS THE FIFTEENTH, AND IT REPAINTS: Ch 225.** June's
   Thursdays are the 1st, 8th, 15th, 22nd and 29th, inherited unchanged out of Batch 0001 and Batch 0002.
-  **The word Thursday appears six times in the batch and every one of them is the Thursday pass, the
-  calendar, or a date a character names. No chapter names any other weekday.**
+  **The word Thursday appears FIVE times in the batch and every one of them is the Thursday pass, the
+  calendar, or a date a character names. No chapter names any other weekday. (Corrected on review: it is
+  five, not six, and 225 carries two of them. A per-file `grep -c` counts lines.)**
 - **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Sixteen days
   out at Chapter 221 and seven at Chapter 230. **The schedule does not go up on the twenty-sixth either.**
-  **Both belong to Batch 0004, which runs the twenty-first to the thirtieth.**
+  **Both belong to Batch 0004, which runs the twenty-first to the thirtieth — and which therefore contains
+  TWO Thursdays, the twenty-second and the twenty-ninth, both the Thursday pass over the ranks wall.
+  (Corrected on review; the next-batch prompt had said one.)**
 - **THE OFFICE DOES NOT SIT ON THE TWENTY-SEVENTH OF A MONTH AND THIS BATCH NEVER SAYS SO.** Stated once
   in Batch 0002 at Ch 215 and not restated, and not restated as a weekday.
 - **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0002.** Days elapsed from the return
@@ -31,6 +34,20 @@ point it touches.**
 - **THE TWENTY-FIRST TO THE THIRTIETH OF JUNE IS BATCH 0004'S AND IS NOT FIXED HERE.**
 
 ### Mechanics now on the page — CANNOT CONTRADICT
+
+- **THE SIX DATES BELOW WERE FIXED BY THE BATCH 0003 REVIEW REPAIR. RE-DERIVE AGAINST THESE AND NOT
+  AGAINST THE EARLIER FIGURES.** **Marit Kolb's blank line is the THIRD of June**, and Ch 229 says
+  **sixteen days** ago from the nineteenth (3 June → 19 June = 16; eleven is the figure for the eighth).
+  **The price of the fourth page is SEVENTEEN days on the fourteenth**, sixteen on the fifteenth, eleven
+  on the twentieth — the plate is lodged to the first of July, and Ch 224 had contradicted itself four
+  lines apart. **The fourth page went into the counter at Cobb Street on the SIXTEENTH and was indexed on
+  the seventeenth**, which is what Ch 224:101 and Ch 225:89 always said; Ch 227 had dated the intake to the
+  seventeenth and put it after Wren Kallo's *I have been looking at it since the sixteenth* at Ch 228.
+  **Hanne Voog is nineteen years IN THE GUILD and is not nineteen years old.** **The painter at the foot of
+  the ladder said *one woman* (Ch 225) and meant Wren Kallo**, and Ch 228 pays it off with the wall in the
+  dark; that beat is spent. **Ch 228's *extremely careful* is *for a month***, not five weeks. **Ch 228 is
+  3,788 words and the scene is written on the page**; nothing in it is impeded, and the stair light and the
+  pencil row were cut from it and are not available again in or beside it.
 
 - **A CORRECTION TO AN INDEXED SCHEDULE (Ch 222, 223).** Raised by the audit division against its own
   arithmetic, with no requisition and no author, countersigned by counter-forensics before it goes out.

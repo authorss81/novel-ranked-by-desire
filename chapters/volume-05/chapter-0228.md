@@ -8,7 +8,7 @@ She had been there since a quarter past nine, sitting on the kerb with a folder 
 
 "You said on your own."
 
-"I did, and I want to be clear that I did not do it because I do not trust your house. Your house has been extremely careful for five weeks and it is the only careful thing in this city that has not been an accident." She moved the folder along the kerb. "Sit down.
+"I did, and I want to be clear that I did not do it because I do not trust your house. Your house has been extremely careful for a month and it is the only careful thing in this city that has not been an accident." She moved the folder along the kerb. "Sit down.
 
 I am going to talk for about ten minutes and then I am going to stop talking, and I want you to be sitting down for the ten minutes because what I have got is a document and I am not a dramatic person and you should not be looking at my face while I hand it to you."
 
@@ -86,7 +86,17 @@ The lamp at the end of the row made a sound and went off, and the one at the oth
 
 ## Four Hours
 
-She did not talk for the first hour and a half and neither did he.
+"Yes," he said, and it was the quickest of the eleven minutes she had watched him spend on it.
+
+She had been sitting on that kerb for three quarters of an hour before he came round the corner of the ranks wall, and she had asked him for the only thing she has ever wanted off another person in her life, and it had taken him eleven minutes to say it, and she had wanted it said in two, and she had to sit there and find out whether that was going to matter.
+
+"Before any of it," he said. "I want to say it back to you, so that you have heard it said. Outdoors, on stone, about four hours, and you have told me twice that you will not be able to tell me what is happening to you while it is going on. If you want it to stop, say a word and I stop, and none of it goes in a book."
+
+"Then I will not be able to tell you whether I am stopping or not." She put her hands flat on her knees. "That is the price. I have said the price out loud twice and you are the first man in this city who has offered to stop anyway."
+
+"Yes," said Wren Kallo. "I want it. I am frightened of it. Those are the same thing tonight and I am not going to stand here and tell you they are two things."
+
+She did not talk for the next hour and a half and neither did he.
 
 That is the part of it that would not have been possible with anybody else in this city, and it happened because she had asked for it, and what she had asked for was the one thing a woman who reads the shape of an edit in every document she has ever touched can be given by a man who has had four taken out of him.
 
@@ -98,11 +108,55 @@ He took his coat off and put it on the kerb for her to sit on and she did not sa
 
 "Four years," said Wren Kallo, "and I have never once touched a man and not found it. I found it in about four seconds on the eighth of June and I have been carrying it round like a stone in a shoe since and there is nothing. Take your shirt off."
 
-They did it at the foot of the wall on the eighteenth of June with about two hundred yards of empty square between them and the Reading doorway, and the stone was cold under her back and then it was not, and she was as bad at it as anybody is bad at it the first time and then she was not.
+He took his shirt off, and she got him up off the kerb and back against the tile with both palms flat on his ribs, and she was not looking at him.
 
-She asked him twice to say something and did not want the answer either time. She wanted to hear a voice that had not been edited. When she could not get a sound out of him she put her hand over his mouth and made him stop, which she had done once before in her life and to a different man, and she told him about that afterwards and made him promise not to tell Ines Duarte, and he laughed, which she had not planned for.
+She was looking at the place between his collarbone and his breastbone the way a woman looks at a page. Her fingers went down the line of him and stopped, and went on and stopped somewhere else, and he watched her fail to find anything and decide to look somewhere else.
 
-She read him with her hands for about an hour and found nothing, over and over, the way you check a door you have already checked. At some point in the second hour she started to shake, and it was not cold, and he held her through it.
+"Stay still," she said.
+
+"I am still."
+
+"You are holding still." She did not look up. "Holding still is a different shape from not moving. I can see the difference between two documents that agree on every word and I can see it in your hands, and you are helping."
+
+"Then tell me where to put them."
+
+"Anywhere that is not on me."
+
+He put them behind him on the cold stone and she made a sound with her nose that was almost a laugh, and then she got his belt open with two fingers and had to stop and look at what she had done to it, and he lay still and let her work at it, and when she had it she went on higher up, and after a while he stopped keeping track of what she had already read and stopped trying and simply felt it.
+
+She went down the front of him with her mouth and came back up about halfway and looked at him from four inches away.
+
+"Say something."
+
+"Anything in particular."
+
+"Anything. I am not listening to the words." She said it into him. "I am listening to what happens underneath them, and I have never once done that with a person, and I did not know until tonight that it was a thing a body could be made to do."
+
+He told her about a valve on the fourth floor at the Fourth Branch that had been weeping since March, and about a tram he had sat on behind a man who was reading a document upside down for forty minutes without once turning it over, and about a woman in a queue who had let him keep her place and had not said why.
+
+"Say something else."
+
+He told her about a woman who had come into the washroom on the ground floor of the Fourth Branch once a week for four years and talked at him for twenty minutes about nothing, and had never once asked him a single question, and that he had understood about two years ago that she had not been talking to him at all and had come anyway.
+
+She put her hand over his mouth and made him stop, and then took it away again.
+
+"There," she said. "Do you know what that is."
+
+"You have been listening to me the whole time."
+
+"I have been checking you the whole time." She sat back on her heels.
+
+"Eleven years in a division where the entire job is the shape a thing leaves behind, and a man who has been edited four times in five years ought to sound like four joins. You do not.
+
+"You sound like a man who has spent five years taking things out of other people's records and putting them nowhere at all, and that is a worse thing than a join and it is not a join, and I have never heard it before tonight and I do not know what to do with it."
+
+She took him apart with her hands and her mouth afterwards, in her own time, and did not hurry at one point of it, and he let her do it, which he had not believed on the walk over the square that he would be able to do.
+
+She made him promise not to tell Ines Duarte, which was a thing she had done once before in her life and to a different man, and she told him about that afterwards, and he laughed, which she had not planned for.
+
+He had spent four years being the thing other people edited him through — a division, a board, a man on a ladder with a trowel — and there was a woman on the stone in front of him with her hands on him going through him for what somebody had taken out, and there was nothing there, and he understood somewhere in the third hour that he had wanted this for a long time and had not known that it was available.
+
+She read him with her hands for about an hour after that and found nothing, over and over, the way you check a door you have already checked. At some point in the second hour she started to shake, and it was not cold, and he held her through it.
 
 Afterwards she told him that she had not done that since she was nineteen and had not told a living soul about it, and that she was telling him because she had asked for a night with nothing in it, and that this was the first thing that had come out of her in four years.
 
@@ -120,7 +174,7 @@ She sat up and squared the folder on her knees and did not open it.
 
 "You are going to have to lose somebody in the next nine days."
 
-The square was very quiet and the Reading's doorway was two hundred yards off and the tile above them was black, and there was a name in it a foot above her left hand, and she had found it in the dark.
+The square was very quiet and the Reading's doorway was two hundred yards off and the tile above them was black, and there was a name in it somewhere above her left hand, and she had found it in the dark.
 
 "The second is smaller and it is the reason I came out here at a quarter past nine instead of writing to you, and I would like you to have it before you go to bed."
 

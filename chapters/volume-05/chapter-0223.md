@@ -64,7 +64,7 @@ She put her other hand on the frame.
 
 "Who writes the line," said Lin Hao.
 
-"The officer. It is the officer's return." She said it without weight. "I am not able to write my own line on a premises return. There is no provision for it.
+"The officer. It is the officer's return." She said it the way she said a thing she had checked twice. "I am not able to write my own line on a premises return. There is no provision for it.
 
 I have checked, and I checked it in May, and I have been checking it once a month since May, and it is the one thing in eleven years I have been permitted to go and look at, because the Church keeps the rules of every instrument in this city and it is the only reason I have been of any use at all."
 

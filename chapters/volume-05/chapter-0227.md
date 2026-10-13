@@ -1,8 +1,10 @@
 # The Space At The Foot
 
-The counter at Cobb Street took the fourth page at twenty past one in the afternoon of the seventeenth. The clerk was not the one from the ninth of June. He read the figure, put a date against it, initialled it, and pushed it under a grille, and gave her back a slip with a number on it and did not read the whole of it back, which she had been told to expect and had told two other people to expect.
+The counter at Cobb Street took the fourth page at twenty past one in the afternoon of the sixteenth, and Petra Ilyin did not sleep much after it.
 
-"That is the last anybody in this building says about it," she told them at half past four. "There is no copy. It goes into the index this afternoon and the index is the only complete version of it in the world, and there is a figure on it and a head's name and a date, and the woman at the counter did not ask me a single question, and I have been an officer for eleven years and I have never been so frightened of a counter."
+The clerk was not the one from the ninth of June. He read the figure, put a date against it, initialled it, and pushed it under a grille, and gave her back a slip with a number on it and did not read the whole of it back, which she had been told to expect and had told two other people to expect.
+
+"That is the last anybody in this building says about it," she told them at half past four on the seventeenth. "There is no copy. It went into the index yesterday and the index is the only complete version of it in the world, and there is a figure on it and a head's name and a date, and the woman at the counter did not ask me a single question, and I have been an officer for eleven years and I have never been so frightened of a counter."
 
 Then she went up the sixty-one steps of a different building with a bundle of a hundred and thirty-two dockets in a bag, and a woman on a landing watched her go out of the door at the back of the house and did not say anything, because the door at the back of the house is open and it stays open and she was standing behind it.
 

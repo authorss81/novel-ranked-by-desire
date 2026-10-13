@@ -19,7 +19,7 @@ that by writing about what the certificate would be *audited against* instead:**
 - **The certificate is dated the twenty-seventh of June.**
 - **Batch 0004 runs the twenty-first to the thirtieth of June, one chapter a day: 231 the 21st · 232 the
   22nd · 233 the 23rd · 234 the 24th · 235 the 25th · 236 the 26th · 237 the 27th · 238 the 28th · 239 the
-  29th · 230's successor the 30th.** You reach both dates. You are the only batch that can.
+  29th · 240 the 30th.** You reach both dates. You are the only batch that can.
 - **The Office does not sit on the twenty-seventh of a month, and that is the only reason the schedule
   goes up on the twenty-sixth.** It was stated ONCE, in Batch 0002 at Ch 215, in Marguerite Vale's mouth.
   **Do not restate it. Do not restate it as a weekday. Do not explain it at all unless a chapter genuinely
@@ -62,8 +62,16 @@ so does a weekday.** Trace every date by hand.
   may print a countdown on a day after the twenty-seventh.**
 - **June's Thursdays are the first, the eighth, the fifteenth, the twenty-second and the twenty-ninth.
   Batch 0003 printed the whole of June's weekday map and it is in `state/continuity.md`. Batch 0004
-  contains exactly ONE Thursday and it is the twenty-second, and it repaints, and it is one chapter of
-  this batch. No chapter may name any weekday except Thursday.**
+  contains exactly TWO Thursdays and they are the twenty-second and the twenty-ninth, and **both of them
+  are the Thursday pass over the ranks wall**, five weeks and four days after the fifteenth, and the
+  twenty-second is the one a chapter needs. **CAREFUL: the ranks wall is painted over on both Thursdays,
+  and there has been a bare nail and a nine-inch-by-fourteen pale rectangle on it since the nineteenth.
+  The pass on the twenty-second takes that away. Whether a chapter shows that happening is Batch 0004's
+  to decide, and it is not a small thing, but it may not be decided in a way that contradicts Ch 230's
+  pale rectangle or Ch 225's crew. No chapter may name any weekday except Thursday.**
+  (An earlier draft of this prompt said ONE Thursday and it is the twenty-second. That is wrong. The
+  twenty-ninth is in this batch and a writer who trusts the one-Thursday line will print a weekday the
+  batch does not earn or will lose a repaint.)
 - **The board at the side of the ranks wall in the Reading Square is painted on the first of the month,
   before the figures, by a different crew in a different shade. It carried 34-6-118 with a name typed small
   at the head line from the first of June and it is repainted on the first of JULY, which is not this

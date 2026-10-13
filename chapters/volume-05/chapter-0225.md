@@ -46,9 +46,9 @@ He looked at the board above her head while she said that.
 
 And the name, typed small, at the head line.
 
-"There are three lists in that house," she said, watching him look at it. "Seven women on the roll. Six of them keep a notebook. One of them keeps nothing and is in pencil on a seventh row. One of them is in the house on no roll of any kind and has been since the fourth of June. One of them is the eighth and has never been on anything at any time and does not live there.
+"There are three lists in that house," she said, watching him look at it. "Seven women on the roll, and six of them keep a notebook. One woman keeps nothing and is in pencil on a seventh row. One woman is in the house on no roll of any kind and has been since the fourth of June. One woman is the eighth and has never been on anything at any time and does not live there.
 
-And one of them sleeps at the back of it and is on nothing because there is not one ruled space in this city for her.
+And one woman sleeps at the back of it and is on nothing, because there is not one ruled space in this city for her.
 
 "I have read that household out of a file four times in four years and I have got five of the eight and I have never once been given a seventh line for anybody, and on the thirteenth a form came across my bench at about eight in the morning that said the premises answers for seven, and I sat there and worked out that the office had got there by itself, off a line a district officer left."
 
@@ -114,7 +114,7 @@ The man on the ground was about sixty and had been doing it for a long time, and
 
 "Not with paint." He put the trowel down and wiped his hand on his thigh, which is not a thing you do with lime in your hand and is a thing you do when you want a moment. "Off a wall, no.
 
-You can paint over it, and then it is still there underneath, and there is one man in this city who can see what was painted over, and she does not work for the Office and she does not work for anybody, and I have seen her work in a yard behind a laundry about two years ago on a whole side of a building.
+You can paint over it, and then it is still there underneath, and there is one woman in this city who can see what was painted over, and she does not work for the Office and she does not work for anybody, and I have seen her work in a yard behind a laundry about two years ago on a whole side of a building.
 
 "The only way it comes off that board is a correction. And a correction on that board leaves a hole, because the book we paint from keeps the history and the wall does not. And there is a hole on that board about a yard long at the low end, and I was not on this crew when it happened, and the men who were still talk about it in the tea hut and not to us."
 
