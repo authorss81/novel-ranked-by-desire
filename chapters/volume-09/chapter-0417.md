@@ -138,7 +138,7 @@ The doors came back about six inches and then stopped, because the car was in th
 
 ## Bottom Of The Shaft
 
-She came off him slowly with her hair stuck to the side of her face and sat down on the little bench in the corner with one palm wet and flat on her own thigh, and she left it there while she got her breath., and she got her hat off the shelf and put it under her arm rather than on, and she sat down on the little bench in the corner with her boots up on the opposite wall.
+She came off him slowly with her hair stuck to the side of her face, and she got her hat off the shelf and put it under her arm rather than on, and she sat down on the little bench in the corner with one palm wet and flat on her own thigh, and she left it there while she got her breath, and she put her boots up on the opposite wall.
 
 "Right," she said. "Four seconds. Say something."
 
@@ -168,11 +168,11 @@ She came back down into the middle of the shaft and sat down on the bench again 
 
 "Address given up," said Nadia Ferrous. "Nadia Ferrous. Thirteenth day of March. Nine forty-one. Six years of keeping it and about nine minutes at a counter on the ground floor of the Vestry to stop having it."
 
-"Twenty-two days to the thirtieth of June and four years after that before that counter can touch it again."
+"Fifty-nine days to the thirtieth of June and four years after that before that counter can touch it again."
 
 ## The Bill, Priced Out Loud In A Stopped Car
 
-"Twenty-two days to the thirtieth of June," she said. "And four years, and it cannot be taken up again in four years, and after four years it is mine and not the paper's. I am going to have it back on the first day of the month after the quarter it turns in and I am going to put it in by hand and nobody is ever going to know I have had it back."
+"Fifty-nine days to the thirtieth of June," she said. "And four years, and it cannot be taken up again in four years, and after four years it is mine and not the paper's. I am going to have it back on the first day of the month after the quarter it turns in and I am going to put it in by hand and nobody is ever going to know I have had it back."
 
 "That is four years from March."
 
@@ -180,7 +180,7 @@ She came back down into the middle of the shaft and sat down on the bench again 
 
 "The bill."
 
-"The bill is not the address." She put the hand down. "The bill is that on the eighteenth of April, eight days after I gave it up, I signed a piece of paper with my name on it about a holding kept at an address I had handed in at a counter, in front of seven people, after you had told me the whole price out loud in this kitchen and I had understood all of it and I had about four minutes while you were saying it."
+"The bill is not the address." She put the hand down. "The bill is that on the eighteenth of April, thirty-five days after I gave it up, I signed a piece of paper with my name on it about a holding kept at an address I had handed in at a counter, in front of seven people, after you had told me the whole price out loud in this kitchen and I had understood all of it and I had about four minutes while you were saying it."
 
 "Nadia—"
 
@@ -190,7 +190,7 @@ She came back down into the middle of the shaft and sat down on the bench again 
 
 Nadia Ferrous looked up at him from the bench of a stopped lift between the arcade and the clinic level, in her uniform, with her hat under her arm and a day and a half of a headache already arriving.
 
-"The bill," she said, "is that the composition of that address is seven, and there are eight of us under it tonight, and I am one of the seven, and I am going to be one of the seven on the twenty-eighth of this month when a woman with my own post and better handwriting than mine signs her name at the head of it."
+"The bill," she said, "is that the composition of that address is seven, and there are eight of us under it tonight, and I am one of the seven, and I am going to be one of the seven on the twenty-eighth of this month when a woman with a post I have not got and better handwriting than mine signs her name at the head of it."
 
 "There were eight women before the thirteenth of March."
 

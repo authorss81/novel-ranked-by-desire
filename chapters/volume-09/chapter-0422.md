@@ -72,7 +72,7 @@ That is all it took. About four seconds.
 
 Neither of them said one word about the address.
 
-He had gone up that stair in December with a question about an address, been refused, and promised out loud that he would not ask a second time. He had not asked. He was not going to ask in a corridor on the second sub-level at ten past four in the afternoon on the ninth of May, and Wren Kallo was not going to volunteer anything, and that had been the arrangement for a hundred and forty-four days and it was going to survive this.
+He had gone up that stair in December with a question about an address, been refused, and promised out loud that he would not ask a second time. He had not asked. He was not going to ask in a corridor on the second sub-level at ten past four in the afternoon on the ninth of May, and Wren Kallo was not going to volunteer anything, and that had been the arrangement for a hundred and fifty-three days and it was going to survive this.
 
 "What is on your part," he said.
 
@@ -94,7 +94,7 @@ It was going out of the building at four o'clock on the ordinary stream to seven
 
 The sheet was not carried.
 
-It was not received and it was not decided and it had not been carried on any of twenty-two days it could have been carried, and there were fifty-one days left in the quarter, and the number of seats in that room could not be changed by anybody who was not one of the five.
+It was not received and it was not decided and it had not been carried on any of twenty-four days it could have been carried, and there were fifty-one days left in the quarter, and the number of seats in that room could not be changed by anybody who was not one of the five.
 
 He stood there and worked out the only instrument he had.
 

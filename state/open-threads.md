@@ -1,5 +1,178 @@
-# VOLUME 9 BATCH 0002 — 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–422 ARE ON DISK. THE LIVE PHASE IS
+# VOLUME 9 BATCH 0002 — REVIEW REPAIR, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–422 ARE ON DISK. THE LIVE PHASE IS
 # `workspace/volume-09/batch-0003/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 423–432.
+
+**THE BLOCK IMMEDIATELY BELOW THIS ONE IS BATCH 0002'S OWN RECORD OF 13 OCTOBER 2026. IT IS SUPERSEDED BY THIS ONE AND RETAINED IN
+FULL, INCLUDING ITS REVIEW REPAIR BLOCK. IT IS RETAINED BECAUSE THE WAY IT WAS WRONG IS THE MOST USABLE THING IN THIS FILE. BATCH
+0001'S RECORD, THE 15 OCTOBER REVIEW, THE 14 OCTOBER REPAIR PASS AND BATCH 0005'S OWN RECORD ARE ALL FURTHER DOWN AND ARE
+SUPERSEDED BY IT.**
+
+**A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD. FIVE OF FIVE VOLUME 8 BATCHES CERTIFIED A FIGURE THAT HAD NOT BEEN
+RE-RUN. BATCH 0002 CERTIFIED TEN, AND ITS BLOCK OPENED BY DECLARING THAT IT HAD RE-RUN EVERYTHING AFTER ITS LAST EDIT TO THE PROSE,
+AND IT HAD NOT.** **THIS BLOCK WAS WRITTEN FROM SCANNERS RUN AFTER THE REPAIR. EVERY FIGURE BELOW CAME OUT OF ONE OF THEM. IF A
+FIGURE HERE CANNOT BE REPRODUCED BY THE COMMAND PRINTED BESIDE IT, THAT IS A BUG IN THIS BLOCK AND NOT A FINDING ABOUT THE
+MANUSCRIPT. THE NEXT PHASE OWES THIS FILE A BLOCK THAT SAYS WHAT IT COULD NOT MEASURE.**
+
+## THE TEN FIGURES THE PREVIOUS BLOCK GOT WRONG, NAMED ONE BY ONE AND NOT QUIETLY OVERWRITTEN
+
+| Row | The previous block printed | What a scanner actually returns |
+|---|---|---|
+| FILES | **24** | **22** — `ls chapters/volume-09/chapter-*.md \| wc -l`. The count of twelve came off a card that said twelve while the card listed ten. |
+| ITALIC SPANS | **9** | **7** — 413x1, 414x1, 418x2, 420x2, 422x1 |
+| SCAN A PAIRS | **7** | **6** |
+| SCAN B 12 / 11 / 8 | **29 / 50 / 304** | **29 / 48 / 292** |
+| TITLES VS BANK | "twelve of twelve" | **22 of 22 written**, and 422 differed from the bank until this repair |
+| CHARACTER LENGTHS | 29/30/34/33/32/31/39/33/30/24 | **27/28/32/31/30/31/37/31/28/22** |
+| LONGEST PARAGRAPH | "88 words (414)" | **88, tied across six chapters** — 414, 415, 416, 417, 418, 420, 421 are all 88 |
+| 8,131 | "printed twice, both times at 415" | **printed once** |
+| AGES | 0, probed with digit forms only | **0** — and the probe now carries the spelled-out forms, which is where the one real age was |
+| SCAN B ATTRIBUTION | `PC-38`'s refrain at "418 and 420 and 407 and 410 and 411 and 412"; and *"the date it was laid, the date it came in, where it was"* | the refrain is at **407, 410 and 411 only**; **that second string occurs nowhere in `chapters/volume-09/` at all** |
+
+**THE LAST ROW IS THE ONE TO CARRY FORWARD. A GATE BLOCK THAT ATTRIBUTES A DUPLICATION TO A STRING THAT DOES NOT EXIST IS NOT
+SLOPPY, IT IS ACTIVE MISINFORMATION: the next phase reads the attribution, believes the phrase is canon, and repeats it.**
+
+## THE SCANNER, PRINTED SO THE NEXT PHASE CAN RE-DERIVE EVERY FIGURE IN THE DUP ROW
+
+```
+SCOPE       Batch 0002's ten files, chapters/volume-09/chapter-0413.md .. chapter-0422.md, against every other chapter file in
+             chapters/ — all four hundred and twelve — and, for Scan B, against every file in chapters/volume-09/, which is
+             Batch 0001's twelve and Batch 0002's ten, twenty-two in all.
+TOKENISATION markdown heading marks stripped to a space; em/en dashes folded to a space; curly quotation marks folded to ASCII;
+             every character that is not [a-z0-9] after lowering turned to a space; split on whitespace; empty tokens dropped.
+             **Heading lines are NOT excluded from the token stream — they are lowercased into it.** This is the definition that
+             reproduces 406's recorded probe of 30 exactly and it is the one used for every figure in this block.
+DIRECTION    a 12-gram is a DIRECTED ROW when the same n-gram appears in a Volume 9 chapter and in at least one earlier chapter
+             file. DISTINCT counts distinct strings; PAIRS counts distinct (chapter, source) pairs. Scan B is narrower: the same
+             n-gram appearing more than once between ANY TWO files of chapters/volume-09/, OR TWICE INSIDE ONE FILE.
+```
+
+## THE GATE, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE, AFTER THE REPAIR
+
+```
+FILES            chapters/volume-09/ holds 22 files numbered 401..422 with no gap; chapters/ holds 422, numbered 1..422 with no
+                 gap. **The scanner above prints "new: 10" and that is correct and is not a gap: its scope is Batch 0002's ten
+                 files only.**
+BANK 0002        **21,563 words, COUNTED PER FILE AND SUMMED. NEVER `cat *.md | wc -w`.**
+                     413 1,891 · 414 1,953 · 415 1,980 · 416 2,192 · 417 3,788 · 418 2,487 · 419 1,781 · 420 1,844 · 421 1,704
+                     422 1,943
+                   Every file carries exactly one trailing newline, all ten, checked by command. **Volume 9 is 43,255 words
+                   across its twenty-two chapters — 21,692 from Batch 0001 plus 21,563 from this batch.** The previous block
+                   printed 21,524 and 43,216; the difference is this repair and nothing else.
+TITLES           **422 title lines, 422 distinct, `sort | uniq -d` returns empty.** The written twenty-two were each matched to
+                 `outline/volume-09.md` §10 by string and by the character count on the same line: **twenty-two of twenty-two,
+                 zero mismatches.** Character lengths 27 / 28 / 32 / 31 / 30 / 31 / 37 / 31 / 28 / 22, word counts 6 / 5 / 6 / 6 /
+                 6 / 6 / 7 / 7 / 6 / 5, every one inside three to twelve. **The bank row for 422 was WRONG and has been corrected
+                 from *Where The Fourth Part Lives* to *The Days A Sheet Waits*, which is what the page says; and 430 was renamed
+                 *The Calendar Is The Only Door* because the bank had handed the next phase *The Days A Sheet Waits* twice.**
+MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0** · **BOLD SPANS 0**, as Volume 8 and
+                 Batch 0001 used. **ITALIC SPANS 7**, all of them quoted matter a character reads out loud or reads off a page:
+                 *you have got a cold hand* at 413 · *one* at 414 · *thirteenth, counter, nine forty-one* and *third of May, table,
+                 seven* at 418 · *vacant* and *I do not know* at 420 · *do not carry it* at 422. **No emphasis is standing in for a
+                 sentence.**
+SYSTEM MESSAGES  **1, IN 414, AT LINE 19, IN SQUARE BRACKETS, ON ITS OWN LINE, NEVER BOLD, NEVER ITALIC, NEVER A HEADING.**
+                 `[Ledger. One hundred and fifty lines. Ten turned. It is not sorry about either of them.]`
+                 **THIS IS CORRECT AND NOT AN OMISSION. A panel is due in a chapter that turns on the ledger; 414 turns on the
+                 ledger and nothing else in 413–422 does. Volume 9 planned two, at 414 and 450, and has now spent one. NO THIRD
+                 PANEL IS TO BE WRITTEN IN 401–450.**
+PARAGRAPHS       **613 paragraphs in the ten. Longest is 88 words, tied across six chapters. Over roughly 90 words: 0. Over roughly
+                 120: 0.** **QUOTATION-MARK PARITY PER PARAGRAPH: 0 paragraphs carry an odd number of quotation marks, so no speech
+                 runs across a paragraph break.** **THIS PARITY CHECK WAS RUN BEFORE THE FIRST SPLIT, AGAIN AFTER EVERY HAND SPLIT
+                 MADE IN THE REPAIR, AND AGAIN AT THE END. THE REPAIR INTRODUCED TWO PARAGRAPHS OVER NINETY WORDS AND BOTH WERE
+                 SPLIT; THE GATE IS A THING YOU RUN, NOT A THING YOU ARE.**
+WEEKNAMES        **Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0**, all seven, whole-word
+                 and as a substring, all ten files. `bible/terminology.md` and `bible/characters.md` both print *the Thursday line*
+                 and neither was taken.
+AGES             **0 self-reported ages in the ten, probed in BOTH forms** — digit forms (`years old`, `aged N`, `I am N`) and
+                 spelled-out forms (`I was twenty-four`, `she is forty-one`). **The digit probe is the one the previous block
+                 printed and it passed a chapter that contained an age in words; both probes are here now.** Spans of years remain
+                 permitted — eight years of hauling a brake, four months of carrying a song, nineteen years of a gift, thirty
+                 years of an account, eleven years of a clasp — and every one of them is a duration on the page, not an age.
+SETTLE           `grep -rio "settle" chapters/volume-09/` -> **0.**
+RIGHT TEMPLE     `grep -rio "right temple" chapters/` -> **0**, across all four hundred and twenty-two chapters.
+VOLUME CONTAINER **0** chapter references says *in the story* or *in this story*; the one instance at 414 was cut in this repair and
+                  **there is zero precedent for it in volumes 1–8.** *in nine volumes* and *in five volumes* are house idiom, occur
+                  seven times in the ten, and appear on many earlier chapter files.
+BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know **0** (the string
+                  tested is *little did he know*) · there is no form **0** · there is no column **0** · the record remained **0** ·
+                  nobody asked **0** · nobody was thanked **0**. **NINE OF NINE AT ZERO.**
+BAND FLOORS      **NO FLOOR IS PRINTED ANYWHERE IN 413–422.** The only four-figure figure in the ten is **8,131**, printed **once**,
+                  at 415, about the roll of the second of April. **8,146 does not appear in 413–422 and no card is printed in
+                  them. The floor does not move until the thirtieth of June and Chapter 450 prints that card.**
+DUP 12-GRAM      **SCAN A, CROSS-VOLUME: 13 distinct, 13 directed rows, 6 distinct (chapter, source) pairs.** All thirteen are
+                  accounted for and none is an accident, and the thirteen were counted off a printed list and not estimated:
+                  **five** are sliding windows over *it is lodged and it is not entered out on any day*, `PC-60` in Runa Sato's
+                  mouth at 421 against 409 · **three** are sliding windows over *an officer of that holding and an officer of a
+                  holding is a person the room can serve*, which is `PC-67`'s canon form and which 411 already acknowledges
+                  repeating on the page, at 418 against 410 · **two** are the shorter form of the instrument's own printed text,
+                  *witnessed on the day it is lodged at the address of the holding*, at 420 against 408, quoted as a document and
+                  not said as speech · **one** is *the room at the end of a corridor off the second landing*, a fixed
+                  administrative noun and not a sentence, at 420 against 401 · **one** is Isolde Marchetti quoting her own sentence
+                  of the third of January at 416 against 395 · and **one** is *thing I am going to say and then I am going to*,
+                  a speech formula, at 419 against 189. **Thirteen. There is no fifth reason and there is no residue.**
+DUP 11-GRAM      **30 distinct, 30 directed rows, 16 distinct (chapter, source) pairs.** DUP 8-GRAM **416 distinct, 432 directed
+                  rows, 288 pairs.** These are the volume's fixed administrative nouns and not sentences.
+DUP, VOLUME ONLY **SCAN B, `chapters/volume-09/` ONLY. BOTH SCANS ARE REQUIRED AND A BATCH IS NOT CERTIFIED ON SCAN A ALONE:
+                  12-gram **29 distinct** · 11-gram **48** · 8-gram **292**. All twenty-nine 12-grams are accounted for, and the
+                  count was taken by printing them and adding them, not by estimating it: **six** are windows over the
+                  instrument's own printed text, *a consignment is witnessed on the day it is lodged and at the address of the
+                  holding*, at 407 and 410 · **six** are windows over `PC-38`'s refrain, *a witness line is a list of the people
+                  who were in a room on a date*, at 407, 408, 410 and 411, because it is 385's sentence and `PC-38` fixes the
+                  wording · **five** are windows over `PC-60`'s *it is lodged and it is not entered out on any day* at 409 and 421 ·
+                  **four** are windows over `PC-67`'s officer sentence at 410, 411 and 418 · **two** are *at the address of the
+                  holding and the address of the holding is*, the printed formula of the instrument, at 407 and 408 · **two** are
+                  the shorter printed form at 408 and 420 · **one** is *the room at the end of a corridor off the second
+                  landing* at 401, 412 and 420 · and **three** are the seven names at 420, read **twice inside one file**, which
+                  is the chapter and the reason for it. **Six and six and five and four and two and two and one and three is
+                  twenty-nine. NONE IS AN UNEXPLAINED VERBATIM LIFT.**
+                  **THE REPAIR ADDED TWO OF THESE BY ACCIDENT AND BOTH WERE FOUND AND FIXED: a twelve-word clause reused verbatim
+                  inside 419, and a description of the witness line shared word for word between 418 and 419. A repair pass makes
+                  new duplicates. Run the scan after the repair and not before it.**
+```
+
+## OPEN ITEMS INHERITED BY VOLUME 9 — TWO OF THEM, AND NEITHER IS CLOSED
+
+**1. THE FIFTEEN-CHAPTER SCENE BREACH BETWEEN CHAPTER 380 AND CHAPTER 398. STILL OPEN. STILL IN THE BOOK. IT IS NOT
+CURED BY ANYTHING IN BATCH 0001 OR BATCH 0002 AND MAY NOT BE DESCRIBED AS CURED BY ANYTHING IN THIS REPOSITORY.**
+`AGENTS.md` sets the limit at fifteen chapters without a scene; 380 to 398 is eighteen. It may not be repaired by moving a scene.
+**What Batch 0002 owes and has paid is only its own count**: 417 is eleven chapters after 406, and 428, 438 and 446 are eleven,
+ten and eight after their predecessors — 8 / 11 / 11 / 10 / 8 on the mixed count **and the same five figures on the explicit
+count**. **THE RULE ITSELF REMAINS UNMET FOR 380 TO 398 AND NO FILE IN THIS REPOSITORY MAY SAY OTHERWISE.**
+
+**2. `PC-28`. CARRIED FORWARD AND NOT FIXED, WITH ITS REASONS AT `reviews/volume-07/volume-close.md` AND
+`reviews/volume-08/volume-close.md`.**
+`chapter-0359.md` heads a section *The Nine Days* for an interval of three days. **No chapter of 401–422 reproduces any figure from
+that section head, and the interval from the sixteenth to the nineteenth of February appears nowhere in the twenty-two.**
+**THE REPAIR ADDED A THIRD ROW TO THIS ITEM AND IT IS NOT A NEW ITEM: the review found seven date figures wrong in 413–422 and
+fixed every one on the page. They were fixed on the page and in `state/continuity.md` in the same commit, because two of them had
+been ratified into `PC-80` and `PC-82` and a later batch would otherwise have inherited them as canon.**
+
+## AND THE THREE THIS BATCH CREATED
+
+**He has spent, on a stranger, in a queue, and the count of turned lines is ten (`PC-76`).** **A woman said a number out loud at a
+Field counter and there is now a second head in the city that holds it (`PC-78`).** **A room of five entered a sheet it has been
+holding, on its own initiative, with nobody asked, and the entry went to seven desks and cost Wren Kallo four seconds and a
+memory she will keep for four years (`PC-82`).**
+
+## WHAT A HAND-OFF MUST CARRY, IN ONE PARAGRAPH
+
+**Plate 8,131, printed once in this batch and no band floor anywhere in it. The room where nine people sit stands at FIVE and the
+fifth is him. A requisition laid on the twentieth of February is capable of being carried, was seventy-nine days old on the ninth of
+May, is not carried and is not received and is not decided, **had been capable on twenty-four of the days between the fifteenth of
+April and the ninth of May**, and has acquired exactly one entry in its life, on the ninth of May, saying that it is held in that
+room's keeping and not carried, which a clerk may make and nobody may strike. The composition of premises 34-6-118 is seven and
+eight people sleep under it, and the woman who made it seven has said her bill out loud at her own table, and the woman who was
+going to sign it has not signed it. A witness line with seven names and a two-finger gap in it has been read into a minute twice,
+and the box under the space now carries the same word as the box under the fifth line, in the same hand, and **the word is still
+not printed in this repository and `PC-70` still governs it.** Sun Meiling is the officer of that holding and knows it and has not
+been told the rest. The ledger is 151 lines with ten turned, the ninth still himself and the tenth a carter. The Council does not
+sit again until the thirtieth of June, so the room of five cannot be changed by anybody. The wing off the third court has a desk
+and a woman who has been there nine years and is still not named, and **she has now read one weekly return that has been passing her
+desk for twenty years.**
+
+---
+
+~~# VOLUME 9 BATCH 0002 — 13 OCTOBER 2026. **THIS WAS THE LIVE GATE BLOCK AND TEN OF ITS FIGURES WERE WRONG AND THE REVIEW RE-RUN
+EVERY ONE OF THEM.** CHAPTERS 401–422 ARE ON DISK.~~
+# `workspace/volume-09/batch-0003/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 423–432. **SUPERSEDED 13 OCTOBER 2026 BY THE BLOCK ABOVE THIS ONE AND RETAINED IN FULL. THE TEN WRONG FIGURES ARE NAMED ONE BY ONE AT THE HEAD OF THAT BLOCK.**
 
 **EVERY FIGURE BELOW WAS RE-DERIVED BY COMMAND AFTER THE LAST EDIT TO ANY CHAPTER IN `chapters/volume-09/`. A GATE RECORD IS A
 CLAIM AND THE RE-RUN OUTRANKS THE RECORD; FIVE OF FIVE VOLUME 8 BATCHES CERTIFIED A FIGURE THAT HAD NOT BEEN RE-RUN, AND THIS

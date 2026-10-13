@@ -377,7 +377,7 @@ Volume 8's ninety-day shape exactly and the two volumes meet on a card.**
 | --- | --- | --- | --- | --- |
 | **401–410** | **1 Apr – 18 Apr** | the first sitting since the twenty-ninth of December; the broker's name read aloud; **the roll; what a consignment is; the first refusal; the scene; the ask; the movement** | **RESTORED** | **406** |
 | **411–420** | **19 Apr – 6 May** | the line with a gap in it; **she works out what she has been administering**; the first draw; the cost of each name, priced | **WITNESSED** | **417** |
-| **421–430** | **7 May – 24 May** | the room at five and a requisition that is capable of being carried for eighty days and is carried on none; the recusal; the third floor; the division that holds the fourth part | **CAPABLE** | **428** |
+| **421–430** | **7 May – 24 May** | the room at five and a requisition that is capable of being carried for thirty-nine days and is carried on none; the recusal; the third floor; the division that holds the fourth part | **CAPABLE** | **428** |
 | **431–440** | **25 May – 12 Jun** | the composition certificate; the block that no form provides; four minutes and a box; the woman who was never told; **nine years at the north end of a wall**; the count she keeps under | **ADMINISTERED** | **438** |
 | **441–450** | **13 Jun – 30 Jun** | **he answers the requisition himself**; the cheapest thing in the room; the clause under the minute; **the card, and a name on the black tile** | **ANSWERED** | **446** |
 
@@ -805,7 +805,7 @@ who is owed relief and has not been asked.**
   INITIALS THE TRANSMISSION ABOVE HER OWN PART, AND THAT OFFICER IS WREN KALLO, AND THE PART IS A DESCRIPTION OF THAT
   ADDRESS MADE AT ABOUT ELEVEN ON THE MORNING OF THE TWENTY-SEVENTH OF OCTOBER ON FOUR WORDS SAID IN A KITCHEN.** She
   reads the line once and initials it in four seconds and neither of them says one word about the address, and that
-  arrangement has survived a hundred and forty-four days and survives this. **AND THE BATCH'S THIRD COST, WHICH LANDS
+  arrangement has survived a hundred and fifty-three days and survives this. **AND THE BATCH'S THIRD COST, WHICH LANDS
   ON A WOMAN WHO HAS NOT BEEN ASKED FOR IT IN FOUR YEARS AND IS NEVER GOING TO BE TOLD SHE PAID: HE STANDS AT THE END
   OF FORTY FEET OF CORRIDOR AND WORKS OUT THE ONLY INSTRUMENT HE HAS. HE CANNOT ASK THAT ROOM FOR ANYTHING. HE CAN
   MAKE IT NEED SOMETHING. AND EVERY TIME HE DOES IT, A WOMAN PAYS FOR IT OUT OF HER OWN FUTURE AND NOBODY WILL EVER
@@ -895,11 +895,16 @@ in it, for the rest of the quarter.
   the twenty-seventh, and then on the third of May un-decided it at a kitchen table and told a Field office she is not
   attending, with no reason given. THE CERTIFICATION HAS NOT HAPPENED AND 428 IS WHERE SHE OWES THE READER SOMETHING
   FOR THAT.**
-- **429–430.** Ten lines on a return, and the days a sheet waits.
+- **429–430.** Ten lines on a return, and then 430, which is a capable room and a calendar with a date on it. **422's waiting
+  is a sheet in a keeping book with nothing entered against it and the chapter is a clerk entering one line about it; 430's
+  waiting is a room that could carry it and a quarter that will not sit until the thirtieth of June, and the two are not
+  the same chapter and 430 may not reuse 422's title or its scene.** **The movement's own count is thirty-nine days capable
+  and thirty-nine carried, and a title built on that figure would collide in meaning with the days left in the quarter,
+  so 430 is titled *The Calendar Is The Only Door*.**
 
 **WHAT CLOSES IN MOVEMENT 3:** *the capacity is public.* **THE COST:** everybody in that room now knows that five
-would carry it and one of the five is the man it is about, and **nothing has been done about it for eighty days,
-which is a longer silence than the wall managed between the thirtieth of December and the thirtieth of March.**
+would carry it and one of the five is the man it is about, and **nothing has been done about it for thirty-nine
+days, and the wall between the thirtieth of December and the thirtieth of March was longer and said two words.**
 
 ### Movement 4 — WHAT A COMPOSITION IS ADMINISTERED AGAINST (431–440). 25 May – 12 June.
 
@@ -1140,7 +1145,7 @@ before this file was written, and not by eye:**
 
 ```
 titles checked   50, numbered 401..450 with no gap
-collisions       0   (compared against all 400 written title lines, extracted from chapters/)
+collisions       0   (compared against all 422 written title lines, extracted from chapters/)
 duplicates in bank 0
 over 90 chars    0   (longest 37, shortest 18)
 begins with What 0
@@ -1158,10 +1163,10 @@ Movement That Cannot Be Undone (34) · 410 Seven Of The Eight (18)**
 Sing Here (31) · 417 The Woman Who Gave The Address (30) · 418 Nine Women And A Witness Line (29) · 419 Four In The
 Afternoon, To Seven Desks (37) · 420 The Clerk Who Reads A Gap Aloud (31)**
 
-**421 The Week It Could Be Carried (28) · 422 Where The Fourth Part Lives (27) · 423 The Envelope He Would Have To
+**421 The Week It Could Be Carried (28) · 422 The Days A Sheet Waits (22) · 423 The Envelope He Would Have To
 Open (34) · 424 A Recusal Only The Subject May Lift (35) · 425 The Minute That Carries Five Seals (34) · 426 The Man
 On The Third Floor (26) · 427 The Consult She Takes To A Board (32) · 428 The Woman Who Priced The Queue (30) ·
-429 Ten Lines On A Return (21) · 430 The Days A Sheet Waits (22)**
+429 Ten Lines On A Return (21) · 430 The Calendar Is The Only Door (29)**
 
 **431 Four Times A Year In Her Own Hand (33) · 432 The Fourth Block Of A Sheet (27) · 433 Four Minutes And A Box (22)
 · 434 The One Who Was Never Told (26) · 435 The Chair Who Will Not Meet (27) · 436 A Correction She Has Not Filed
@@ -1173,14 +1178,17 @@ Answer (33) · 444 The Cheapest Thing In The Room (30) · 445 The Clause Under T
 He Is Read (28) · 447 The Fourth Seat Fills And Empties (33) · 448 The Fifth Mark That Never Came (30) · 449 The Boy
 With The Paste Brush (28) · 450 The Name On The Black Tile (26)**
 
-**RE-RUN AGAINST THIS FILE AFTER ITS LAST EDIT. The figures in the bank above were produced by command on 13 October
-2026, against all 400 written title lines in `chapters/`, and every one of the fifty is exactly as printed. Longest
-35, shortest 18, word counts 3 to 8, every one inside 3 to 12. A batch that changes one re-runs this and rewrites
-the row in the same commit.**
+**RE-RUN AGAINST THIS FILE AFTER ITS LAST EDIT. The figures in the bank above were produced by command, the last time
+on 13 OCTOBER 2026 IN THE REVIEW REPAIR OF BATCH 0002, and every one of the fifty is exactly as printed. **The
+written twenty-two — 401 to 422 — were each matched to this row by string and by the character count in the same
+line, twenty-two of twenty-two, zero mismatches.** Longest **37** (419), shortest 18 (410), word counts 3 to 8, every
+one inside 3 to 12. The twenty-eight that are not written yet, 423 to 450, collide with **0** of the 422 written
+title lines and with **0** of each other. **A batch that changes one re-runs this and rewrites the row in the same
+commit.**
 
-**TWO TITLES WERE RETITLED IN THE REVIEW REPAIR OF 13 OCTOBER 2026 AND THE RE-RUN WAS DONE AFTER THE EDIT. NEITHER
-CHANGE MOVED A CHAPTER, A DATE, A SCENE OR A FIGURE ON THE PAGE — BOTH WERE NAMES THAT COULD NOT CARRY WHAT THE
-CHAPTER DOES.**
+**THREE TITLES WERE RETITLED IN THE REVIEW REPAIR OF 13 OCTOBER 2026 AND THE RE-RUN WAS DONE AFTER EACH EDIT. NO
+CHANGE MOVED A CHAPTER, A DATE, A SCENE OR A FIGURE ON THE PAGE — EVERY ONE WAS A NAME THAT COULD NOT CARRY WHAT THE
+CHAPTER DOES, OR A NAME THAT WAS ABOUT TO BE A DUPLICATE.**
 
 - **414 WAS *ONE HUNDRED AND SEVENTY-ONE LINES* AND IS NOW *THE LEDGER CROSSING A NUMBER*. THE LEDGER IS 142 ON THE
   FOURTEENTH OF MARCH AND IS RISING ABOUT SEVEN LINES A THIRTY DAYS — 131 ON THE FIRST OF FEBRUARY, 138 ON THE FIRST OF
@@ -1197,6 +1205,30 @@ CHAPTER DOES.**
   well. **The old title was a place this book has never had, and a scene title that names a place is a claim about
   geography whether or not anybody checks it.** The new one uses the two facts that are on the page: nine years, and
   the north end.
+- **430 IS *THE CALENDAR IS THE ONLY DOOR*, AND THE ROW FOR 422 WAS WRONG IN THE OTHER DIRECTION. THE PAGE HAS THE
+  TITLE *THE DAYS A SHEET WAITS* AND THE PAGE OUTRANKS THE ROW.** `chapter-0422.md:1` was written with that title and
+  the bank still carried *Where The Fourth Part Lives (27)* for it, which nothing in the manuscript supports. Meanwhile
+  430 carried *The Days A Sheet Waits (22)*, which is **the same string as 422 and would have been a duplicate title the
+  moment a batch wrote it** — the bank would have handed the next phase a collision it had no way to see. **422 keeps its
+  own title and its own waiting: a sheet in a keeping book with nothing entered against it, and one line entered about
+  it on the ninth of May. 430 IS A DIFFERENT WAITING AND MAY NOT REUSE 422'S TITLE OR ITS SCENE.** The new title names
+  the one thing that is actually still in play on the twenty-fourth of May: a room of five that could carry the sheet,
+  and a Council sitting entered on a calendar four months ahead, which is the only instrument in this city that will
+  change anything before the thirtieth of June.
+  **THE TITLE CARRIES NO FIGURE AND THAT IS DELIBERATE. Thirty-nine is the number of days the requisition has been
+  capable at 430, and it is ALSO the number of days left in the quarter as at the twenty-first of May — a coincidence
+  that `workspace/volume-09/batch-0003/PROMPT.md` already prints, so a title built on thirty-nine would have meant two
+  different things to the chapter that has to carry it.** The new title is 29 characters and 6 words and collides with
+  **0** of the 422 written title lines, checked by command against every file in `chapters/`.
+
+**THE 415 CARD IS WRONG AND THE PAGE IS RIGHT. RECORDED HERE SO THAT NO LATER PHASE FINDS A PHANTOM CONTRADICTION.**
+`workspace/volume-09/batch-0002/PROMPT.md` printed, for 415, *her standing order **of the thirtieth of October** … she is
+the only person alive who knows **he** wrote it*. **The page has it correctly and has had it correctly since Volume 8:
+the standing order is the TWENTY-SEVENTH OF OCTOBER and is applied for BY HER, in her own name, with the reason box
+left blank on purpose; the thirtieth is a note in HIS handwriting that was never filed anywhere. See
+`chapters/volume-08/chapter-0354.md:91` and `:95`, and 415 itself.** The two instruments are three days apart and the
+writer outranked the card correctly. **Anything downstream that reads the card instead of the page will get the two
+instruments the wrong way round, and they are the whole of 415.**
 
 **NOTES A LATER BATCH INHERITS.**
 

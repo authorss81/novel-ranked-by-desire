@@ -90,7 +90,7 @@ She turned the ruled sheet round and pushed it back to him.
 
 "There is no order on me. The order is yours."
 
-"The order is mine and the note is yours and they are six days apart and you have never once, in eight months, put them in the same breath, and you have been extremely careful about it. I noticed in about October and I have not raised it, because raising it would have been asking." She turned round on the bench.
+"The order is mine and the note is yours and they are three days apart and you have never once, in six months, put them in the same breath, and you have been extremely careful about it. I noticed in about October and I have not raised it, because raising it would have been asking." She turned round on the bench.
 
 "The twenty-seventh is mine. I filled in a form at about four in the afternoon with my own name on it and I left the reason box empty on purpose and it stays empty while I am alive. The thirtieth is a note in your own handwriting that has never been filed anywhere in this city, and no living soul has ever seen it but the two of us, and that will keep being true until one of us is not."
 

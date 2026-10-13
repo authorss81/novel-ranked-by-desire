@@ -64,13 +64,15 @@ She had not said anything for about a minute and a half and she said the one wor
 
 "Seven what."
 
-"Seven is the composition of this address and seven is the number of names on that line, and they are the same figure and they have nothing whatever to do with each other, and I have been sitting here for about twenty minutes not saying so because it looked like a coincidence and it is not a coincidence and it is not a coincidence either." She stood up and did not leave the table, which she does.
+"Seven is the composition of this address and seven is the number of names on that line, and they are the same figure and they have nothing whatever to do with each other, and I have been sitting here for about twenty minutes not saying so because it looked like a coincidence and it is not a coincidence." She stood up and did not leave the table, which she does.
 
-"One seven is a building. One seven is a room on a date. If they ever come to agree with each other then whoever reads them can make one out of the other, and today they do not, and that is the single most load-bearing thing in this house and nobody is going to be told about it by me."
+"One seven is a building. One seven is a room on a date. They read the same and they have never once been the same thing, and if they ever were then whoever reads them could make one out of the other, and that is the single most load-bearing thing in this house and nobody is going to be told about it by me."
 
 "Agnete."
 
-"They have always disagreed." Agnete Lindqvist had not moved. "They disagreed for a hundred and seventy-seven days and then Nadia put a number in at a counter and they agreed, and that was a good day, and nobody said at the table on the thirteenth of March that by agreeing they had welded the two documents together. And nobody has said it since, and I have been in eleven thousand services about what people do to documents they did not mean to do to each other."
+"They have always been two documents." Agnete Lindqvist had not moved. "Thirty-five days ago Nadia put a number in at a counter and for thirty-five days the two of them have read the same, and that was a good day, and nobody said at the table on the thirteenth of March that by agreeing in a figure they had welded the two documents together."
+
+"And nobody has said it since, and I have been in eleven thousand services about what people do to documents they did not mean to do to each other."
 
 "Nadia," said Isolde Marchetti.
 

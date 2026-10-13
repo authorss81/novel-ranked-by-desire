@@ -50,7 +50,7 @@ The woman untied it and took out two things.
 
 The first was a weekly return, flat, with nine ruled lines on it and a tenth with a box, and she put that on the left of the counter without looking at it, because a thing that arrives in the same bag every week is a thing you do not read.
 
-The second was one sheet of plain paper with a line ruled across it, and there were seven names on it and a space in the middle of the space, and there was a heading at the top of it that carried an address.
+The second was one sheet of plain paper with a line ruled across it, and seven names went along the line and then the line went on, and there was a heading at the top of it that carried an address.
 
 She read it.
 
@@ -104,11 +104,15 @@ She put it down on the counter face down.
 
 "Then you are in a better position than most people and I am going to say the last thing I am going to say and then I am going to move the bag." She put both hands flat on the counter.
 
-"Twenty years this stream has come up that stair and gone past and gone down, and there has never once been anything in it about a house. And there has never once been a figure about a room in this city come up here, and there is one on that sheet with the other one this afternoon, and it says five."
+"Twenty years this stream has come up that stair and gone past and gone down, and there has never once been anything in it about a house."
+
+She reached round and turned the return over that she had put down without reading it, and turned it so that she could see it herself, which took her a moment.
+
+"And there is a figure about a room at the bottom of this one, and it has been coming up that stair for twenty years, and I have never once turned one of them over, and I would not have turned one over today either if you had not been standing there."
 
 "It says five."
 
-"Five." She looked at him for about two seconds. "That is the first number about that room I have ever seen and I have been on the other side of it for twenty years and nobody has ever told me it stood at three."
+"Five." She looked at him for about two seconds. "That is the first number about that room I have ever looked at and I have been on the other side of it for twenty years and nobody has ever told me it stood at three."
 
 He left at four because the stream empties at four and there is no reason to be in a corridor after it.
 

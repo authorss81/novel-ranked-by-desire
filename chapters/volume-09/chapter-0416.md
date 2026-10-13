@@ -20,7 +20,7 @@ She had her coat over her arm and nothing on under it but a work blouse with the
 
 "A room agrees with me about four seconds after I start and it agrees before it has thought about it, and two people in that room who have known each other for twenty years will find that they agree about something neither of them has ever raised, and by the end of the week neither of them will have any idea that it happened." She said it fast and flatly, the way a person recites something they have had to recite to a doctor.
 
-"And I have never once worked out how to switch it off and I have stopped trying, and I did test it nine times and then an empty church and then my own kitchen at four in the morning, and it happened in all eleven, and I was twenty-four when I stopped."
+"And I have never once worked out how to switch it off and I have stopped trying, and I did test it nine times and then an empty church and then my own kitchen at four in the morning, and it happened in all eleven, and I have not tried since."
 
 "So why the corridor."
 

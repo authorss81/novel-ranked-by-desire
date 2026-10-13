@@ -305,8 +305,13 @@ differently, and if it does something else, do that and rewrite the outline in t
 - **428 (21 May). THE SCENE. RUNA SATO. TITLED *The Woman Who Priced The Queue*.** §4. **AND IT OWES THE READER SOMETHING FOR A CERTIFICATION SHE HAS
   NOT GONE TO.**
 - **429 (23 May). TEN LINES ON A RETURN. TITLED *Ten Lines On A Return*.**
-- **430 (24 May). THE DAYS A SHEET WAITS. TITLED *The Days A Sheet Waits*.** **AND NOTE THAT 422 ALREADY USED THAT TITLE'S IDEA — A SHEET WAITING, A
-  KEEPING BOOK, A CLERK ENTERING ONE LINE — SO 430 HAS TO BE A DIFFERENT WAITING AND NOT THE SAME ONE.**
+- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. TITLED *The Calendar Is The Only Door*.** **422 IS TITLED *THE DAYS A
+  SHEET WAITS* AND THAT TITLE IS SPENT — `outline/volume-09.md` §10 HAS NOW BEEN CORRECTED AND 430 CARRIES A DIFFERENT
+  NAME, SO DO NOT GO BACK TO THE OLD ONE.** 422's waiting is a sheet in a keeping book with nothing entered against it
+  and one line entered about it by a clerk who was not asked. **430'S WAITING IS A ROOM OF FIVE THAT COULD CARRY IT AND
+  A COUNCIL SITTING ENTERED FOUR MONTHS AHEAD, AND THE TWO MUST NOT BE THE SAME CHAPTER, THE SAME SCENE OR THE SAME
+  IDEA.** A title may not carry a figure here: thirty-nine is both the number of days the requisition has been capable
+  at 430 and the number of days left in the quarter as at the twenty-first of May.
 - **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. TITLED *Four Times A Year In Her Own Hand*.** Tessa Okonkwo and the held-account returns, and
   `PC-62`: **a lodged consignment is administered the way a held account is administered, on a fixed day, with a medical return to the same clinic
   every quarter, so that in one quarter that clinic receives two returns about the same matter and neither was asked for by anybody.** **The first of
@@ -323,10 +328,20 @@ to himself on the ninth of May never to use, and do not resolve anything `outlin
 
 ## 7. GATES YOU OWN, AND YOU RE-DERIVE THEM BY COMMAND AFTER YOUR LAST EDIT
 
-**A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD. Five of five Volume 8 batches certified a figure that had not been re-run, and
-Batch 0002 of Volume 9 re-ran everything after its last edit and printed the scanner's tokenisation and scope in the block so you can do the
-same.** **You record the figure you actually got, with the command, in the live gate block at the head of `state/open-threads.md`, and mark the
-block above yours superseded rather than deleting it.**
+**A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD. Five of five Volume 8 batches certified a figure that had not been re-run.**
+**AND NOW READ THIS BEFORE YOU WRITE A SINGLE FIGURE, BECAUSE IT IS THE POINT OF THIS PARAGRAPH:**
+**Batch 0002 opened its block by declaring that a gate record is a claim and that it had re-run everything after its last
+edit. The review re-ran all of it and found TEN of its figures wrong** — the file count, the italic count, a duplication
+pair count, all three Scan B counts, the bank comparison, the character-length row, the longest-paragraph attribution,
+an occurrence count, and the age count, **and two of its attributions were of strings that occur nowhere in the volume
+at all.** The block also printed its probe patterns for the age row, all of which were the digit forms, and the one age
+in the batch was spelled out, so the row it could not fail was the one it was written to catch. **IT WAS NOT CARELESS.
+IT WAS WRITTEN FROM THE CARD AND FROM MEMORY INSTEAD OF FROM A SCANNER.**
+**Volume 9 planned two panels and HAS NOW SPENT ONE. Volume 9 Batch 0002 printed the scanner's tokenisation and scope
+in the block so you can do the same, and you should — and a block that says a figure was produced by command has to
+have been, by you, after your last edit to the prose it describes.** **You record the figure you actually got, with
+the command, in the live gate block at the head of `state/open-threads.md`, and mark the block above yours superseded
+rather than deleting it.**
 
 ```
 files            chapters/volume-09/chapter-0423.md .. chapter-0432.md, ten files, no gap.
@@ -340,7 +355,10 @@ titles           unique across every file in chapters/ — **422 lines, 422 dist
                  IN A TITLE, DERIVE IT AND CHECK IT — 414 WAS RETITLED BECAUSE IT NAMED ONE.**
 markdown         blockquote 0 · table 0 · horizontal rule 0 · code block 0. **Bold and italic SCARCE — Volume 8
                  used zero bold spans across fifty chapters; Volume 9 Batch 0001 used zero bold and nine
-                 italic across twelve; Batch 0002 used zero bold and nine italic across twelve.**
+                 italic across its twelve files; Batch 0002 used zero bold and SEVEN italic across its TEN files,
+                 and it recorded nine across twelve because it was written to a card that said twelve when the
+                 card listed ten.** **RECORD THE COUNT OF THE FILES YOU ACTUALLY WROTE. IT IS NOT THE NUMBER ON THE
+                 CARD.**
 paragraphs       over roughly 90 words -> 0 · over roughly 120 words -> 0. **NEVER RUN A SPLITTER OVER PROSE
                  THAT CONTAINS DIALOGUE. A reporter that prints lengths and writes nothing. Run the line-
                  boundary check before anything and again after every hand split.** **The check is a

@@ -6,7 +6,7 @@ She brought the sheet on the evening of the seventh of May and she had ruled it 
 
 "That is a strong thing to say in a room with eight people in it."
 
-"It is an arithmetic remark and there are eight people in it." She put the sheet flat. "Twenty-four to the thirtieth of April. Nine days of May. Thirty days of June. Fifty-three."
+"It is an arithmetic remark and there are eight people in it." She put the sheet flat. "Twenty-three days of May. Thirty days of June. Fifty-three."
 
 ## Seventy-Seven
 

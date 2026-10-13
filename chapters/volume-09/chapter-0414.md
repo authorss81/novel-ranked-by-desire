@@ -4,9 +4,9 @@ He kept his round on the twenty-fifth of April the way he had kept it every work
 
 The account does not stop. That is the whole of the arrangement and there has never been a second arrangement: if a man stops earning it, then in about forty days it flattens into something a machine in this city can read, and readable means scoreable, and scoreable means a file opens with his name on it and nobody else's on it anywhere in the world.
 
-So he keeps his round. It is the only loyalty in the story that has never been tested and he does not deserve it.
+So he keeps his round. It is the only loyalty in this city that has never been tested and he does not deserve it.
 
-He got in at about a quarter to seven in the evening and counted the book on the table with his coat still on.
+He got in at about a quarter to five in the afternoon and counted the book on the table with his coat still on.
 
 ## One Hundred And Fifty
 
