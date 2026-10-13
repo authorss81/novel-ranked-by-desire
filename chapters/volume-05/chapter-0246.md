@@ -4,11 +4,11 @@ On the sixth of July Ines Duarte went to an office with a door on it in writing 
 
 It was Thursday and the Thursday crew was at the ranks wall at nine with two ladders and three pots, painting the week off it before the figures went up at ten. The side board stood untouched under its shade with the new schedule on it. The monthly crew had repainted the side board on the first in their own shade. The Thursday pass was a different crew in a different shade and did not touch the side board.
 
-He had woken wanting to ask her which office and which reason and had not asked. The want burned in him and he kept his hands off it. He felt fear in his stomach and love behind it and the two would not separate.
+All morning he wanted to ask her which office and which reason. He did not ask. Fear sat in his stomach and love sat directly behind it, and the two had stopped being separable anywhere below the ribs, and he got through the shift by carrying the bucket with both hands.
 
-Seven women on the cut roll ate bread standing round the table before eight. Six kept an address at Ferrier Street and six kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Petra Ilyin was on no roll of any kind and tied nothing that morning.
+Seven women on the cut roll ate bread standing round the table before eight. Six of them carried an address at Ferrier Street and six of them carried a notebook, and one coat pocket held a pencil row under twenty-two stitches.
 
-Wren Kallo was on nothing at any time and was the eighth partner and had gone early with her folder. Agnete Lindqvist was on no list at all and her door stood open and she had given one true sentence in a pale room on the first and slept behind a shut door once since.
+Petra Ilyin tied nothing that morning and was on no roll of any kind. Wren Kallo had gone early with her folder, in no list at any time, the eighth partner. Agnete Lindqvist was on no list at all and had her door open behind her. She had given one true sentence in a pale room on the first and slept behind a shut door once since.
 
 Ines wore her coat with the bag over her shoulder and her hair pinned square. She took the end of the table with both hands on the wood the way she had on the thirtieth and looked at him.
 
@@ -20,9 +20,11 @@ She picked up her bag and went down the sixty-one steps without looking at the n
 
 At ten the audit intake at Cobb Street called her by name to a room with a door on it. The door shut behind her.
 
-The desk held the index entry with six on it in the head's own handwriting, the correction of the twelfth with seven on it, the sworn page of the fourteenth with six on it, the schedule posted on the twenty-sixth with six on it, the certificate dated the twenty-seventh with six on it, the receipt signed on the twenty-eighth, the valuation copy of the first with six names in the broker's own hand. The division held a true report's worth of paper about her household that she herself had never written.
+The desk held seven papers. The index entry with six on it in the head's own handwriting. The correction of the twelfth with seven on it. The sworn page of the fourteenth with six on it.
 
+The schedule posted on the twenty-sixth with six on it. The certificate dated the twenty-seventh with six on it. The receipt signed on the twenty-eighth. The valuation copy of the first with six names in the broker's own hand.
 
+The division held a true report's worth of paper about her household that she herself had never written.
 
 The officer at the desk set a sheet before her with a form number on it.
 
@@ -42,7 +44,17 @@ She blotted it and squared it to the edge of the desk.
 
 "That is my review position," she said. "Filed."
 
-The officer entered it as received and gave her the copy. She put the copy in her bag.
+The officer read it twice before she entered it. The second time was slower than the first.
+
+"That is received," the officer said. "You understand what you have done with it."
+
+"I wrote what was on the papers."
+
+"You wrote that the schedule you audit contains a figure the head of the household disputes, and that the index contains a figure the schedule does not." The officer squared the copy before he gave it to her. "A member of a division may not report on a return her own name stands on. There will be an entry saying so, and it will go up with your report, and it will not go up alone."
+
+"Then it goes up," Ines said. "I have spent five weeks being audited by a return I could not read. I would rather be a subject of one than a reader of it."
+
+She took the copy and put it in her bag.
 
 She came home at six and ate a slice standing and went to her room and came out with the bag over her shoulder. The whole house watched because everyone in the room knew what a woman with a bag had already decided.
 
@@ -52,7 +64,7 @@ She stood in the kitchen doorway with nothing in her hands but the straps.
 
 She turned to him.
 
-"I am walking out of a flat I am still in," she said. "My name is on the cut roll with six others. My address is at Ferrier Street with five others. My notebook is with five others. The certificate carries six and I am one of the six. All of that stands. I am still in it on paper. I am not living in it."
+"I am walking out of a flat I am still in," she said. "My name is on the cut roll with six others. My address is at Ferrier Street with five others. My notebook stays shut in my room with my name on the corner of it. The certificate carries six and I am one of the six. All of that stands. I am still in it on paper. I am not living in it."
 
 He wanted to ask her to stay the way a drowning man wants air. The want filled his mouth and he shut his mouth on it. He felt grief come up through his chest like water through a floor and anger behind it that she had chosen the one day he could not answer.
 
@@ -82,7 +94,7 @@ Petra came to the doorway and stood with her hands behind her back.
 
 "A filed report is a door shut in another building," Petra said quietly. "Eleven years I marked without asking. Three days she sat with a true sentence and then wrote it. That is heavier than marking."
 
-He nodded. He had wanted to ask her to stay the way a drowning man wants air. He had shut his mouth on it. The shutting would have to hold.
+He nodded. The want to say her name had gone up in him twice that day and gone down twice, and the shutting had to hold for as long as she was gone. It would have to hold for longer than that.
 
 Agnete came out of the back room and stood in the empty doorway a while with her cup. The open door behind her and the empty room before her made a line of two open nothings with her between them.
 
@@ -90,6 +102,6 @@ Agnete came out of the back room and stood in the empty doorway a while with her
 
 Tessa put her crate down and stood beside Agnete a moment with her hands clean. Two hundred and three a morning stood counted because of lines like the one Ines had filed. The hatch and the report held each other up without touching.
 
-He went up and lay down with the head line in his coat pocket. The house breathed around him with one room empty and its name still on every paper.
+He went up and lay down in his clothes with the head line in the coat pocket, because he had not wanted to take the coat off and could not say why. The house breathed around him with one room empty and its name still on every paper.
 
 He slept after eleven with that empty room in the house, named, waiting for what it would cost.

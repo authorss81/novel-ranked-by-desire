@@ -6,28 +6,56 @@
 `state/archive/current-v1-v2.md` on the Batch 0005 review repair, and Volume 3's to
 `state/archive/current-v3.md`. Nothing was deleted. If you need a Volume 1, 2 or 3 fact, the archive is one
 read away; you do not pay for it on every prompt.
-
-1. **The head block, Volume 5 Batch 0004** — where the book is. **Volume 5 Batch 0003's, Batch 0002's and Batch 0001's
-   head blocks are retained below it, superseded.**
+1. **The head block, Volume 5 Batch 0005** — where the book is. **Volume 5 Batch 0004's, Batch 0003's,
+   Batch 0002's and Batch 0001's head blocks are retained below it, superseded.**
 2. **The Volume 4 close block, Volume 4, Batch 0005**, retained below, condensed.
 3. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
 4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
-**Last written:** **Volume 5, Batch 0004 — Chapters 231–240 (The Twenty-Sixth and the Twenty-Seventh),
-written, closed, and REPAIRED ON INDEPENDENT REVIEW. VOLUME 5 IS OPEN at Chapter 240. The schedule is
-up (26th), the certificate is dated and received (27th–28th). Volume 5, Batch 0005 — Chapters 241–250
-— is the next phase, and its prompt is at `workspace/volume-05/batch-0005/PROMPT.md`. Ch 241 is Agnete
-Lindqvist's scene. Ch 246 is INES DUARTE LEAVING.**
+**Last written:** **Volume 5, Batch 0005 — Chapters 241–250 (The First of July and After), written,
+closed, and REPAIRED ON INDEPENDENT REVIEW. VOLUME 5 IS CLOSED IN PROSE at Chapter 250.** The next phase
+is the volume close, and its prompt is at `workspace/volume-05/close/PROMPT.md`.
 
 ---
+
 # VOLUME 5, BATCH 0005 — HEAD RECORD. CHAPTERS 241–250. THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.
 
-**Ten chapters, one a day from the first to the tenth of July. This batch settles what 230/233 set: the valuation on the first with the hundred and thirty-third mark in at nine in ink in the broker's own hand (Petra at ten to nine with the bundle), two hearings on the morning of the first, side board repainted by the monthly crew, dead list quiet on the fourth. Ch 241 is AGNETE LINDQVIST'S SCENE (2,717 words, reason: valuation plus hearings plus repaint plus questioning plus scene in one day). Ch 246 is INES DUARTE LEAVING: true report filed, walks out of a flat she is still in. Ch 249 is the fifth scene (2,612 words, Lantern Row, gap 241 to 249 eight). No sixty-count countdown printed; that arithmetic finished with 63 at the thirtieth.**
+> **REPAIRED ON INDEPENDENT REVIEW.** An independent review returned 11 findings and 5 minors and **all
+> are fixed.** The adjudication is in `reviews/volume-05/batch-0005.md`; the reviewer's own log stays at
+> `logs/batch-0005.review.log` and is not superseded. No chapter was restarted and no planned beat moved.
+> **Six things a later writer must inherit, all of them corrections rather than additions:**
+> - **Ch 243's irreversible decision is the FIRST OF AUGUST docket, not the fourth.** The mark on the
+>   first had already made the fourth quiet, so a decision priced against the fourth had nothing left to
+>   decline. She offers once, on the third, dated to **the twelfth of July**, to leave the August docket
+>   unmarked — plate back, dead list on the fourth of August, Beatrix off the guild's tail, the fourth
+>   page struck and burned — and will not offer again in the life of the account. He refuses in writing
+>   with the hour under it and two officers in the queue.
+> - **THE TWELFTH OF JULY IS UNWRITTEN.** It is two days past the close of the volume. It is the hook
+>   into Volume 6.
+> - **Meta leakage is gone** — `Volume Five`, `Volume Six`, `what the volume had handed him`, `first
+>   chapter of his life in this city`, `the last night of the volume`. Do not reintroduce.
+> - **`hearing tail` was retired in Batch 0004 and came back in 243's dialogue. It is gone again.**
+> - **Sun Meiling has three years, not eleven.** `Eleven years of keeping nothing` was invented inside
+>   this batch and printed twice; corrected at 245 and 250. Eleven years belongs to Agnete indoors and to
+>   Petra marking.
+> - **Every printed day count is derived from its anchor.** The finding went in on 23 June: the second =
+>   nine days … the tenth = **seventeen**. The batch had been drifting by one from 247 on and 250
+>   contradicted itself inside one chapter. **Petra has been on no roll since 4 June** — thirty-three days
+>   on the seventh, thirty-six on the tenth, not "nine."
+>
+> Two failures a gate could not see were both repetition the counts were reading as clean: **the registry
+> paragraph opened all ten chapters in one fixed order** (13 deliveries) **and nine of ten chapters shared
+> a three-beat open.** Both are now varied per chapter. The thumb-and-rectangle closing beat ran in nine
+> chapters and now runs in three. Intra-batch 12-gram repeats in three or more chapters: **78 → 0.**
 
-**THE IRREVERSIBLE DECISION IS CH 243 AND IT IS HIS.** At the north desk he tells Marguerite to keep the thirty-year account live and acknowledges the valuation. The option that closes is letting the fourth free the plate, un-encumber Beatrix, and lift the guild tail at once. Cost: plate stays lodged, securities stay, Beatrix stays encumbered another year.
+**Ten chapters, one a day from the first to the tenth of July. This batch settles what 230/233 set: the valuation on the first with the hundred and thirty-third mark in at nine in ink in the broker's own hand (Petra at ten to nine with the bundle), two hearings on the morning of the first, side board repainted by the monthly crew, dead list quiet on the fourth. Ch 241 is AGNETE LINDQVIST'S SCENE (2,730 words, reason: valuation plus hearings plus repaint plus questioning plus scene in one day). Ch 246 is INES DUARTE LEAVING: true report filed, walks out of a flat she is still in. Ch 249 is the fifth scene (2,795 words, Lantern Row, gap 241 to 249 eight). No sixty-count countdown printed; that arithmetic finished with 63 at the thirtieth.**
 
-**POSITION AT THE CLOSE:** plate 8,138, floor 8,141, tolerance three. Ledger 118 lines, nine turned, the ninth still himself. Nothing spent. File 4,112, one folio open, no second. Zero system panels. Seven women on the cut roll (six addresses at Ferrier Street, six notebooks, seventh row pencil sewn twenty-two stitches, one notebook shut in an empty room); Petra on no roll; Wren on nothing, eighth partner, finding sixteen days on Hadewig's desk unacted; Agnete on no list, door open, visible once by choice; Ines out of the flat and still in it on paper with a true document behind her. July Thursdays derived from June 29th: the 6th (246, repaints); the first is the monthly repaint, different crew different shade. Thursday named 9 times, no other weekday. Five debts stand; the pricer is out.
+**THE IRREVERSIBLE DECISION IS CH 243 AND IT IS HIS AND IT IS NO LONGER WHAT THE BATCH FIRST SAID.** At the north desk, on the third of July, Marguerite Vale offers him the only thing she is permitted to offer a head: say the word on or before the twelfth of July and she will leave the **first of August docket unmarked**. The run breaks at the hundred and thirty-fourth place, the account goes on the dead list on the fourth of August, the plate comes back that day, Beatrix Halm comes off the guild's tail, and Marguerite strikes the tail off the fourth page and burns it. After the twelfth she will not put it in front of him again in the life of the account. He says no, and instructs that every docket be marked including the first of August, and the clerk enters the standing instruction with the date and the hour under it and two officers wait behind him in the queue. **The option that closes is in advance, permanently, and it closes for the life of a thirty-year account.** Cost: the plate stays lodged past freeing, Beatrix carries the tail into a year with no price left on the table to strike it with, and the standing instruction will be read at the examination in about four years in his hand and not hers. This is the third thing in his own hand after the pledge at 217 and the receipt at 238.
+
+**THE VOLUME'S REAL SACRIFICE IS INES'S, AND THE BATCH ADDED TWO CONCRETE CONSEQUENCES TO IT.** Filing the true report has made her a subject of her own division's file: an entry goes up with it saying a member may not report on a return her own name stands on, and she can be put at a desk where she is the subject in about a month and cannot refuse. She has said aloud that she cannot afford two rooms above a laundry on a fortnight's answering. And she has set him a term — **no paper is read to her in her own rooms** — which he has agreed to in the dark, and which costs him the only thing he has, because paper is how he holds the house.
+
+**POSITION AT THE CLOSE:** plate 8,138, floor 8,141, tolerance three. Ledger 118 lines, nine turned, the ninth still himself. Nothing spent. File 4,112, one folio open, no second. Zero system panels. Seven women on the cut roll (six addresses at Ferrier Street, six notebooks, seventh row pencil sewn twenty-two stitches, one notebook shut in an empty room); Petra on no roll since 4 June; Wren on nothing, eighth partner, finding **seventeen days** on Hadewig's desk unacted; Agnete on no list, door open, visible once by choice; Ines out of the flat and still in it on paper with a true document behind her and a division entry naming her twice. July Thursdays derived from June 29th: the 6th (246, repaints); the first is the monthly repaint, different crew different shade. Thursday named 11 times, no other weekday. **Five debts stand; the pricer is out. A sixth line sits on the page in Ch 250 and it is not a debt — it is the standing instruction, it has no figure against it, and no office in the city will ever invoice it.**
 
 ---
 

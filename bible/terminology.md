@@ -162,3 +162,26 @@ Every time. The machinery paragraph goes on as long as it needs to, and then som
 **Numbers.** A number appears only when it changes something in the story. Rank thresholds are the
 exception — those exist so a reader can feel distance. Beyond that, if a number does not move a decision,
 delete it.
+---
+
+## Retired, and not to be brought back
+
+Each of these was written once, struck on review, recorded as gone, and then found again in later prose.
+**They are dead. A later writer does not inherit them, does not reintroduce them, and does not reach for a
+synonym that means the same thing.**
+
+**"Her hearing tail" / "my hearing tail."** Invented at Ch 237 to name what the guild's tail on the fourth
+page does to a woman's hearing, given an ambiguous referent, and struck in the Batch 0004 review. It came
+back in dialogue at Ch 243 in Batch 0005 and was struck again. The rule it was standing in for is
+already in the canon and needs no coinage: **on the day an account goes on the dead list, every security
+standing against it comes off.**
+
+**"Volume Five." "Volume Six."** Any volume named in narration or dialogue. So are **"the volume had
+handed him,"** **"the first chapter of his life,"** and **"the last night of the volume."** All four
+appeared in Batch 0005 and all four are gone. A chapter knows its own date and its own weather, not its
+container.
+
+**"Eleven years of keeping nothing," said of Sun Meiling.** Sun has three years, and they are years of
+waiting on a question nobody put to her. **The eleven years in this book belong to Agnete Lindqvist,
+indoors, and to Petra Ilyin, marking.** An attributed span that is not in that woman's file is invented,
+and invented spans are what this book has most of.

@@ -4,13 +4,15 @@ On the first of July he woke before five with the house already awake above him 
 
 He had slept with the receipt and the head line both in his coat pocket and had woken wanting to be at the bottom of the sixty-one steps before Petra needed him to be anywhere else. The want steadied him. He felt dread in his stomach and put bread in his mouth against it and the dread stayed where it was.
 
-Petra stood at the bottom of the sixty-one steps at ten to nine with the bundle under her arm. She was on no roll of any kind. She had counted the steps under her breath since the first of last month and she counted them that morning without moving her lips.
+Seven women on the cut roll carried their pieces out of the house that morning, every one of them in a pocket of her own. Six of them kept an address at Ferrier Street and six of them kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches.
 
-Seven women on the cut roll kept nothing in the house that morning. Six kept an address at Ferrier Street and six kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Wren Kallo was on nothing at any time and was the eighth partner. Agnete Lindqvist was on no list at all and her door stood open and she had stayed indoors eleven years.
+Petra Ilyin was at the bottom of the sixty-one steps with the bundle under her arm and was on no roll of any kind. She had counted the steps under her breath since the first of last month and counted them that morning without moving her lips.
+
+Wren Kallo, who stood in no list at any time, was the eighth partner. Agnete Lindqvist, whom no list had ever held, had her door standing open and had stayed indoors eleven years.
 
 "You do not come up," Petra said. "A marking is not a thing to watch. You be where you are told."
 
-"I will be where I am told," he said.
+"Where I am told, then," he said.
 
 Marguerite went up with Petra to the valuation with the thirteenth docket in her hand. The space at the foot had stayed empty through June. The valuation sat at nine in the morning in the real book. The mark would go in ink in the broker's own hand or it would not go in at all.
 
@@ -98,7 +100,7 @@ At Ferrier Street she went to the back room and stood in the doorway a long time
 
 She nodded. Consent stood between them like a table squared under a window.
 
-They ate bread with the house standing round the table. Seven women on the cut roll ate with their coats on and off. Six kept an address at Ferrier Street and six kept the notebook. Petra ate with the bundle string in her pocket and was on no roll. Wren came late with ink on her fingers and was on nothing and was the eighth partner and sat on the step. Ines ate and went to her room. She was not asked about anything.
+They ate bread with the house standing round the table. Petra came down from the mark with the bundle string in her pocket and nothing else in her hands, and was on no roll of any kind. Wren came late with ink on her fingers, and was on nothing, and was the eighth partner, and sat on the step. Agnete stood in the kitchen doorway with her cup and watched the table being used. Ines ate and went to her room. She was not asked about anything.
 
 After eleven the house settled. Agnete took him by the hand into the back room and shut the door herself. The shut door clicked. Eleven years the door had stood open. The click sounded loud in the small room.
 

@@ -1,14 +1,14 @@
 # What Was Owed To Whom
 
-On the tenth of July he stood on the landing with his thumb in the cold middle of the pale rectangle and worked out what the volume had handed him.
+On the tenth of July he stood on the landing with his thumb in the cold middle of the pale rectangle and worked out what the month had handed him.
 
-He had woken wanting to know what was owed to whom before the next book opened. The want was plain and he followed it with a pencil and the back of a page. He felt sorrow steady in his chest and resolve under it.
+Before the next book opened he wanted one thing settled, which was what was owed and to whom. He took a pencil and the back of a page and went at it. Sorrow sat steady in his chest the whole time and resolve sat under the sorrow and kept both of them moving.
 
-Seven women on the cut roll kept their pieces in seven pockets. Six kept an address at Ferrier Street and six kept the notebook, one shut in an empty room. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Ines Duarte had walked out of a flat she was still in on the sixth with a true report behind her and lay now in her own rooms on Lantern Row.
+Seven women on the cut roll kept their pieces in seven pockets. Six of them carried a door number and six of them carried a notebook. The seventh notebook lay on a shelf in the empty room with a name written on its corner, and the seventh row of the cut stayed pencil sewn under twenty-two stitches.
 
-Petra Ilyin was on no roll of any kind and squared the bundle for the month ahead. Wren Kallo was on nothing at any time and was the eighth partner and had asked Hadewig Mers that morning what a division does with a file held sixteen days. Agnete Lindqvist was on no list at all and her door stood open and she had chosen to be visible on the first.
+Petra Ilyin was on no roll of any kind and squared the bundle for the month ahead. Wren Kallo, in no list at any time and the eighth partner, had gone to Hadewig Mers on the ninth, sixteen days after the finding went in, and come back with the answer that the division would reply in its own time. Agnete Lindqvist was on no list at all and stood in a doorway with it open, having chosen on the first to be found.
 
-The mark was in. The valuation stood entered in the real book with a hundred and thirty-three marks in eleven years with no gaps. The thirty-year account stayed live and secured. The plate at 8,138 stayed lodged with the floor at 8,141 and a tolerance of three. The dead list of the fourth had gone up quiet without it. Every security standing against it stayed where it was.
+The mark was in. The real book carried a hundred and thirty-three of them with no year empty behind any of them. The thirty-year account stayed live and secured. The plate at 8,138 stayed lodged with the floor at 8,141 and a tolerance of three. The dead list of the fourth had gone up quiet without it. Every security standing against it stayed where it was.
 
 The certificate dated the twenty-seventh stood receipted on the twenty-eighth. The schedule of the twenty-sixth stood repainted on the first. The household was findable without being looked for. Three papers agreed with each other and not with the index that held seven.
 
@@ -16,7 +16,9 @@ Two hearings had sat on the morning of the first and kept their papers. Runa's a
 
 Tessa's clinic stood counted from the first. Two hundred and three a morning into somebody's question. Nine years of a quarter of eight stood in the lines.
 
-Wren's finding sat sixteen days on Hadewig's desk. Four edits and every one a removal. It had not been acted on. The true report sat four days in the audit intake in Ines's own hand. A division that had produced both an index with seven and a schedule with six had to answer for having produced them.
+Ines Duarte had walked out of a flat she was still in on the sixth with a true report behind her and lay now in two rooms above a laundry on Lantern Row. Her name stood on the roll and her address stood at Ferrier Street and her notebook stood shut in the room she left. An entry going up beside her report said she could not be examined on a return her own name stood on.
+
+Wren's finding sat seventeen days on Hadewig's desk. Four edits and every one a removal. It had not been acted on. The true report sat four days in the audit intake in Ines's own hand. A division that had produced both an index with seven and a schedule with six had to answer for having produced them.
 
 Five debts stood and the one woman who could price them was out of the room with a true document behind her. The examination passed to whoever held the book in about four years. The open-ended security with no named holder stood in a public return with his name in a broker's dictation. The thirty-year account stood live on a mark and a plate and six names.
 
@@ -24,19 +26,31 @@ The household stood certified and receipted and valued on a figure the index den
 
 Marguerite sat at the table with her gloves folded and looked at the five lines he had pencilled and nodded once.
 
-"That is what is owed and to whom," she said. "Priced plain. No book in this city will price it now she is out of the room. That is what Volume Six will invoice. The Vant's books put a price on what is live. Live is what we kept it."
+"That is what is owed and to whom," she said. "Priced plain. No book in this city will price it now she is out of the room. That is what the creditors will invoice, and they will not send one letter. The Vant's books put a price on what is live. Live is what we kept it."
 
-She set her pen square beside the five lines without uncapping it. Nineteen years in the guild had taught her what an unpriced security did to a year running. The assessment side would not carry one. The description of six names in her own hand had carried this one past the first. The next valuation would ask again.
+She set her pen square beside the five lines without uncapping it. Nineteen years in the guild had taught her what an unpriced security did to a year running. The assessment side would not carry one. The description of six names in her own hand had carried this one past the first.
+
+She tapped the top of the page once with the capped end.
+
+"There is a sixth line and it is not a debt," she said. "You gave me a standing instruction on the third. Every docket marked, first of every month, in the life of the account. I wrote it in the real book with the hour under it and two officers watching, and the twelfth is two days out."
+
+"I know what day it is."
+
+"You know how close it is." She put her gloves on. "That line is the only one of the six with no figure against it. It is the only one that will cost more the longer it stands, and there is no office in this city that will ever invoice it. When the account is examined in about four years whoever holds the book will read your hand at the top of it and not mine."
+
+Marguerite left the six lines squared to the edge of the table and took her gloves and her pen and did not look at them again.
 
 Petra stood at the end with her hands behind her back.
 
-"Eleven years I marked without asking," Petra said. "Nine days I have stood on no roll and watched. Marking is not the work. Answering for the marking is the work."
+"Eleven years I marked without asking," Petra said. "Thirty-six days on no roll and counting. Marking was not the work. Answering for the marking is the work, and I have been doing it since the fourth of June with nothing in my hands to answer with."
 
-Wren came in late with her folder shut and her hands inkless for the first time in a month. Sixteen days on Hadewig's desk and that morning she had stood before it and asked. Hadewig had pulled the index entry first, the correction second, and said the division would answer in its own time. That was the whole of the answer.
+Wren came in late with her folder shut and her hands inkless for the first time in a month. Seventeen days on Hadewig's desk and the day before she had stood before it and asked. Hadewig had pulled the index entry first, the correction second, and said the division would answer in its own time. That was the whole of the answer.
 
-"Sixteen days," Wren said on the step afterwards to him alone. "It sits. The true report sits four days in another division. Two divisions hold us between them. Mine counts removals. Hers counts persons. Both are true."
+"Seventeen days," Wren said on the step afterwards to him alone. "It sits. The true report sits four days in another division. Two divisions hold us between them. Mine counts removals. Hers counts persons. Both are true."
 
-Beatrix showed him her page before she shut the book. The day in her small level hand. Bread. A hatch carried. A wall looked at. A house that now existed on paper and still ate standing up because there were not enough chairs. He read it and nodded.
+Beatrix did not show him the book at all. She read the day out in her own small level hand instead, standing, the way she had told a panel to write it down.
+
+"Bread. A hatch carried. A wall looked at. A house that now exists on paper and still eats standing up because there are not enough chairs." She shut the book on her thumb. "That is the whole of July and I will keep July."
 
 Runa washed the bread knife and put it away. Tessa folded her copy and put it in her coat. Sun laid her coat across her knees. Nadia wrote the day with the hour on it.
 
@@ -62,9 +76,9 @@ Runa left for Cordwain with her folder shut and her pencil down. Beatrix left fo
 
 Petra walked the sixty-one steps down and up once before noon for the steadiness of it. Ten to nine on the first she had stood at the bottom with the bundle. The steps knew her tread. She counted them without moving her lips and came up breathing even.
 
-Sun mended a loose cuff on her coat after noon with white thread. The stitches stood small and even. Twenty-two held the pocket. Six more held the cuff. Her fingers were quick. Eleven years of keeping nothing had taught them care.
+Sun mended a loose cuff on her coat after noon with white thread. The stitches stood small and even. Twenty-two held the pocket. Six more held the cuff. Her fingers were quick. Three years of waiting on a question that was never put to her had taught them care with small things that did not go anywhere.
 
-Wren sat on the step after supper with her folder shut and her hands empty. Sixteen days on the desk. Four days filed in another division. She did not count aloud. The counting sat behind her eyes the way edits sat behind every record she touched.
+Wren sat on the step after supper with her folder shut and her hands empty. Seventeen days on the desk. Four days filed in another division. She did not count aloud. The counting sat behind her eyes the way edits sat behind every record she touched.
 
 He set the broom square in the market stair cupboard before bed. The cupboard smelled of soap and dust. The landing stayed swept round its nail and its rectangle. No crew would paint it. That was why it held.
 
@@ -74,14 +88,16 @@ He left the broom squared and the landing swept for the morrow. The morrow opene
 
 Petra touched the swept edge with her thumb in the morning and nodded. Swept edges held the way marked dockets held.
 
-He counted the sixty-one steps under his breath on the last night of the volume. Ten to nine on the first Petra had stood at the bottom with the bundle. Now the steps stood empty and his own tread steadied them.
+He counted the sixty-one steps under his breath on the last night of July. Ten to nine on the first Petra had stood at the bottom with the bundle. Now the steps stood empty and his own tread steadied them.
 
-Wren counted the steps with him from the stair below without moving her lips. Fifteen days the finding had sat when she asked. Sixteen now. Counting steadied her the way edits steadied records.
+Wren counted the steps with him from the stair below without moving her lips. Sixteen days the finding had sat when she asked on the ninth. Seventeen now. Counting steadied her the way edits steadied records.
 
 He left the landing lamp burning till eleven on the last night. The office paid for light and the light stopped short of the pale rectangle. Pale stayed cool outside it. Both held till morning.
 
 He tested the dark landing after eleven with his thumb in the pale middle. The paint stayed cool. The nail held nothing. Cool paint held the way a swept edge held.
 
-He went in and lay down with the head line in his coat pocket and listened to the building breathe. Volume Five had asked what a woman does who is the only person who can read the record correctly when the record is now her own household's. She had read it out loud on her own floor, found her own division had raised her premises without telling her, filed eleven minutes that were true, and walked out of a flat she was still in.
+He went in and lay down with the head line in his coat pocket and listened to the building breathe. The month had asked what a woman does who is the only person who can read the record correctly when the record is now her own household's.
+
+She had read it out loud on her own floor. She had found her own division had raised her premises without telling her. She had filed eleven minutes that were true and let them put an entry beside them naming her twice, and walked out of a flat she was still in.
 
 He slept after eleven with that answer in the house, filed, waiting for the creditors to learn the one woman who could price it was gone.

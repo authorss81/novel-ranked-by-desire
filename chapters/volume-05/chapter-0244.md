@@ -2,9 +2,9 @@
 
 On the fourth of July the dead list went up at the Exchange at ten and the thirty-year account was not on it.
 
-He had woken wanting to see the list himself and had gone early with Petra before the figures drew a crowd. The want was plain and he did not hide it. He felt dread loosen in his chest as the tram moved and the loosening frightened him more than the dread had.
+He wanted to see the list himself, badly enough to get to the Exchange before the figures drew a crowd, and he went early with Petra to do it. Dread loosened in his chest somewhere around the fourth stop and the loosening frightened him more than the dread had, because a man whose dread goes loose at noon has usually stopped believing what is coming.
 
-Seven women on the cut roll had eaten bread before he left. Six kept an address at Ferrier Street and six kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Petra Ilyin was on no roll of any kind and carried nothing that morning. Wren Kallo was on nothing at any time and was the eighth partner. Agnete Lindqvist was on no list at all and her door stood open.
+They had gone without eating. He had put four things in his coat that morning that had no business in the same pocket: the head line, the receipt, the valuation copy, and a pencil. Six women kept an address at Ferrier Street and a notebook each, and one of them had carried a pencil row sewn into a coat pocket with twenty-two stitches in it and had gone to a division on the first of the month carrying it. Petra had carried nothing at all.
 
 The north desk clerk hung the list in its frame and stepped back. Officers read it in silence and moved on. A hundred and thirty-three marks in eleven years with no gaps had kept one line off the page. The mark had gone in at nine on the first in ink in the broker's own hand. An account not produced at a valuation goes on the dead list on the fourth day after it. This one had been produced. Every security standing against it stayed where it was.
 
@@ -32,7 +32,7 @@ Beatrix stood on the stair with her good ear to the room and her notebook shut. 
 
 He climbed to her on the stair after noon with bread in his hand. She took it and ate standing the way the house ate now, because there were not enough chairs. Her hands were steady. Her notebook stayed shut under her arm.
 
-"My panel wrote my answer down," Beatrix said. "What a signal operator who cannot hear in one ear is doing in a cab. I told them I feel forty thousand people moving and I know where something is wrong before anyone does. They wrote it. Whether they hear it is not on the paper."
+"My panel wrote my answer down," Beatrix said. "It asked me the standing question about the cab and the ear that hears nothing, the one it has asked me since the spring." She touched her good ear. "I told them I feel forty thousand people moving and I know where something is wrong before anyone does. They wrote it. Whether they hear it is not on the paper."
 
 "You looked for an instrument that lets a woman separate a household fact from herself," he said. "That is written."
 
@@ -50,7 +50,7 @@ He sat with Runa after Beatrix went up with her bread. Runa's boots stood square
 
 Tessa came in from the hatch with her hands clean and her copy in her coat. Her clinic had been counted from the first. Two hundred and three a morning stood in the lines. She sat down suddenly the way she had on the thirtieth and then stood and went to put her crate where two hundred and three people would pass it in the morning.
 
-Sun laid her coat across her knees and checked the stitches. Twenty-two held. Nadia wrote the day with the hour on it. Ines came in at half past six and ate standing and went to her room. She had not discussed her review and she had not been asked about it. The house kept to it.
+Sun laid her coat across her knees and checked the stitches. Twenty-two held. Nadia wrote the day with the hour on it. Ines came in at half past six and ate standing and went to her room, and the room she went into had been packed since the thirtieth. Not one of them asked what was in it, and the not asking filled the kitchen the way an unanswered question fills a room.
 
 Wren came late with her folder thinner and her face tired.
 
@@ -64,17 +64,17 @@ She sat down on the step beside him without being asked and put the folder flat 
 
 He sat with her until the lamps came on. The step was cold through his trousers. The folder stayed flat and shut between them.
 
-He went to Agnete with bread after supper. She ate standing in the doorway with the door open behind her.
+He went to the back room door with bread and stood outside it until she took it, and she ate where she stood with the open door at her back and did not come in.
 
 "Not on the list," he said. "The mark held."
 
 "Then I stay findable another year," she said. "One true sentence in a pale room and the room wrote it down and the book kept the weight that made it necessary. That is the shape of an answer given where nothing is written."
 
-At nine he stood on the landing with his thumb in the cold middle of the pale rectangle. The nail held nothing. The paint stayed pale. The side board at the square kept the new schedule. The landing wall stayed unpainted because no crew painted a stair.
+At nine he leaned on the landing rail and looked at the shape the office could not copy. It had outlasted a schedule and a certificate and a receipt and a mark in a chained book, and none of those had outlasted anything at all. The side board at the square kept its new schedule. The landing wall stayed unpainted because no crew painted a stair.
 
 Sun came out with her coat over her arm and stood beside him a moment. She turned her pocket out to show the stitching. Twenty-two white stitches held the seventh row. The cloth did not gape.
 
-"Three papers agree in three offices," Sun said quietly. "Schedule on a board. Certificate on a table. Receipt in your pocket. The roll we cut would have been the fourth. I am glad it is in seven pockets. A fourth that agreed would have made us one document in four places."
+"Three papers agree in three offices," Sun said quietly. "A schedule on a board, a certificate on a table, a receipt in a man's coat. Any one of them can be produced by somebody who was not in the room." She turned the pocket out and showed the stitching and turned it back. "A fourth that agreed would be one document in four rooms, and I am glad it is in seven pockets and agrees with not one of the other three."
 
 He nodded. She had built the agreement for eight days and cut it in eleven seconds. Both were hers. He held to that when he held the receipt.
 
@@ -82,12 +82,12 @@ He ate bread standing with Runa after noon because there were not enough chairs.
 
 Beatrix came down with her notebook shut and her gloves folded. Her good ear caught the market noise through the window. She sat beside Runa and the three of them ate without reaching for paper. The bread was fresh. The quiet was chosen.
 
-Marguerite uncapped her pen after bread and capped it again without writing. The valuation copy lay squared with the mark at the foot in her own hand. One hundred and thirty-three marks in eleven years with no gaps. The run held. She looked at it the way Petra looked at hands.
+Marguerite uncapped her pen after bread and capped it again without writing. The valuation copy lay squared with the mark at the foot in her own hand. A hundred and thirty-three, and never a gap, and eleven years of carrying the weight of the ones in between. The run held. She looked at it the way Petra looked at hands.
 
 Sun turned her pocket out on her knees and counted the stitches aloud to twenty-two. The white thread stood out against the dark coat. Eleven had gaped last month. Twenty-two held now. She turned the pocket back and smoothed it flat.
 
-Nadia wrote the day with the hour on it and which list each paper belonged to on the back of a page. Seven pieces in seven pockets. Six addresses. Six notebooks. One sewn row. She read it back without turning the book round. That motion was done with in the house.
+Nadia turned the book face up and wrote the day on the open page with the hour against it, then went back over the line and put each paper in the column it belonged to. Seven pieces, seven pockets. The book stayed face up. That motion had been done with in the house for a month and she had stopped apologising for it.
 
-He went in and lay down with the head line in his coat pocket. The list had gone up without the one line that would have freed him. He had told the book on the third to keep holding the word. The book had kept it.
+He sat on the edge of the bed with the head line in his coat pocket and did not take it out. The list had gone up without the one line that would have freed him. He had told the book on the third to keep holding the word. The book had kept it.
 
 He slept after eleven with the quiet list in the room, posted, waiting for the week to read what was absent from it.

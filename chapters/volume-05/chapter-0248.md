@@ -4,7 +4,9 @@ On the eighth of July Tessa Okonkwo showed him the day book with his name on the
 
 He had woken wanting to be useful to someone he could still reach. The want pointed him down the market stair before seven. He felt shame that usefulness was all he had left to offer and offered it anyway.
 
-Seven women on the cut roll kept their pieces in seven pockets. Six kept an address at Ferrier Street and six kept the notebook, one shut in an empty room. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Petra Ilyin was on no roll of any kind and walked with Tessa as far as the market. Wren Kallo was on nothing at any time and was the eighth partner. Agnete Lindqvist was on no list at all and her door stood open.
+The women on the cut roll kept their pieces in seven pockets, and one of the seven pieces was no longer on the premises. Six carried an address at Ferrier Street and six carried a notebook, and the seventh of the notebooks lay shut in an empty room on the landing behind him with a name on the corner of it.
+
+A pencil row stayed under twenty-two stitches in a coat pocket. Petra Ilyin walked with Tessa as far as the market and was on no roll of any kind. Wren Kallo, the eighth partner, was in no list at any time and had gone ahead to her division. Agnete Lindqvist was on no list at all and had her door open behind her.
 
 The hatch ran two hundred and three people through the morning that ran to two. He carried the crate and set it down where they would pass it. The counter was worn smooth by nine years of hands.
 
@@ -32,17 +34,19 @@ An old man at the wall end asked him whether the number on the board was a stree
 
 He came home at six and found the house doing its own exactness back, in a kitchen, with bread. Runa washed the bread knife and put it away. Beatrix folded her gloves. Marguerite capped her pen. Sun folded her copy. Petra tied nothing and untied nothing. Nadia wrote the day with the hour on it.
 
-Beatrix showed him her page before she shut the book. The day in her small level hand. Bread. A hatch carried. A wall looked at. A bag gone from an empty room. A house that now existed on paper and still ate standing up. He read it and nodded, because a record of ordinary things was the only record left that anyone in the house controlled.
+Beatrix turned her notebook round to him without shutting it first. The day in her small level hand, five lines and no heading. Bread. A hatch carried. A wall looked at. A bag gone from an empty room. A house that now existed on paper and still ate standing up.
+
+He read it twice and nodded. No office in the city could produce a record of what a house ate on an ordinary day, and she had been keeping one in her own hand since the twenty-first of June for nothing but that.
 
 Runa did not show anybody anything, which was how he knew she was thinking about the Field counter and its half past three. Her answer was in. Her hearing had a paper. She sat beside Beatrix and talked tram talk to keep from talking about the thing in the middle of the table.
 
 Wren stopped him on the step after supper with her folder shut and her hands empty.
 
-"Fourteen days," she said. "Two weeks on Hadewig's desk. It has not been acted on. I am the person who wrote it and I am the last person anyone will go to. Tomorrow I go to her desk and ask what a division does with a file it has held two weeks. That is my own act and I will answer for it."
+"Fifteen days," she said. "A fortnight and a day on Hadewig's desk. It has not been acted on. I am the person who wrote it and I am the last person anyone will go to. Tomorrow I go to her desk and ask what a division does with a file it has held since the twenty-third. That is my own act and I will answer for it."
 
-"Fourteen days," he said.
+"Fifteen days," he said.
 
-She sat down on the step beside him without being asked and set the folder flat on her knees. Fourteen days the finding had sat with four edits and every one a removal. Four days the true report had sat in another division with eleven minutes in her own hand. Two divisions held him between them without speaking to each other.
+She sat down on the step beside him without being asked and set the folder flat on her knees. Fifteen days the finding had sat with four edits and every one a removal. Two days the true report had sat in another division with eleven minutes in her own hand and an entry going up with it that named her twice. Two divisions held him between them without speaking to each other.
 
 "I cannot keep a thing," Wren said quietly. "That is structural. I get a thing and I get rid of it. Four years I told three people about a thing sworn in a room. This time I told paper. Paper keeps better than people and worse. It sits."
 
@@ -58,7 +62,7 @@ Sun came out with her coat over her arm and checked her stitches under the stair
 
 "It holds the house," he said.
 
-At nine he stood on the landing with his thumb in the cold middle of the pale rectangle. The nail held nothing. The paint stayed pale.
+At nine he checked the rectangle with the flat of his hand the way he had checked it every night since the fourth of last month. Cold in the middle, the nail above it, and paint that stayed pale because nothing had ever been laid over it.
 
 He oiled the stair rail after morning work with a rag from the washroom store. The rail took the oil dark and smooth. Hands would wear it lighter by evening. Work answered work. The house learned exactness from the office and did its own back.
 
@@ -90,6 +94,6 @@ He tested the dark stair after eleven with one foot before trusting it. The stai
 
 He slept after eleven with the dark stair outside his door. The stair would lighten by five. The rail would shine. The rectangle would cool. Morning would square them all.
 
-He went in and lay down with the head line in his coat pocket and the day book's first line in his head. The report sat filed. The finding sat fourteen days. The clinic stood counted. The plate stayed lodged. Five debts stood and the one woman who could price them was out of the room with a true document behind her.
+He went in and lay down with the coat across his knees and the day book's first line in his head. The report sat filed. The finding sat fifteen days. The clinic stood counted. The plate stayed lodged. Five debts stood and the one woman who could price them was out of the room with a true document behind her.
 
 He slept after eleven with that arithmetic in the house, standing, waiting for the morrow to bring the ninth and her reading.

@@ -2,13 +2,17 @@
 
 On the seventh of July he cleaned the empty room without being asked and put nothing in it.
 
-He had woken wanting to keep the room as she had left it, with the bed made square and the chair set straight. The want held him until eight and then left him. He felt grief plain in his chest and did the work anyway.
+The want, which had been to keep the room exactly as she left it with the bed made square and the chair set straight, held him until eight and then went out of him all at once. Grief arrived flat in his chest with nothing under it. He swept the room anyway.
 
-Seven women on the cut roll kept their pieces in seven pockets. Six kept an address at Ferrier Street and six kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Ines Duarte had walked out of a flat she was still in on the sixth with a true report behind her. Her name stayed on the roll. Her address stayed.
+The household had spent a week learning to travel with a hole in the middle of it. Seven women on the cut roll and seven pockets, six of the pockets holding an address at Ferrier Street and a notebook, and the seventh holding a pencil row under twenty-two stitches.
 
-Her notebook stayed shut in the room. Petra Ilyin was on no roll of any kind and helped him carry the bedding down. Wren Kallo was on nothing at any time and was the eighth partner. Agnete Lindqvist was on no list at all and her door stood open.
+Petra Ilyin helped him carry the bedding down and was on no roll of any kind. Wren Kallo, in no list at any time, was the eighth partner. Agnete Lindqvist was on no list at all and kept her door open behind her.
 
-The audit intake held the true report from the sixth in her own hand with the date under it. The division had a true report's worth of paper about the household before. Now it had one with her name under it. A division that had produced an index with seven and a schedule with six had to answer for having produced both.
+Ines Duarte had walked out of a flat she was still in on the sixth with a true report behind her. Her name stayed on the roll. Her address stayed. Her notebook stayed shut on the shelf in a room with a made bed and a straight chair, and her name was written on the corner of it in her own hand.
+
+The audit intake held the true report from the sixth in her own hand with the date under it. It also held an entry that would go up with it, saying that a member of a division may not report on a return her own name stands on.
+
+The division had a true report's worth of paper about the household before. Now it had one with her name under it and a second that named her twice. A division that had produced an index with seven and a schedule with six had to answer for having produced both.
 
 Runa went to Cordwain for the returns hatch with her folder shut. Her hearing had a paper from the morning of the first. She would not say beyond that morning and she was not asked to. Beatrix rode the yard tram with her notebook shut. Her panel had asked its question on the morning of the first and written her answer down. She would not say beyond that morning and she was not asked to.
 
@@ -24,33 +28,45 @@ Beatrix passed them on the yard tram with her gloves folded and her season squar
 
 Tessa worked the hatch from a quarter of eight with her copy in her coat. Her clinic had been counted from the first. Two hundred and three people moved through the morning that ran to two. He carried her spare crate to the stair foot and set it square. She thanked him the way she thanked for weight and not for paper.
 
-Sun spent the morning turning her pocket inside out and checking every stitch. Twenty-two held. Six other pieces sat in six other pockets. The landing kept the bare nail and the nine-by-fourteen rectangle. Nadia wrote the day with the hour on it and which list each paper belonged to and read it back.
+Sun spent the morning turning her pocket inside out and checking every stitch. Twenty-two held. Six other pieces sat in six other pockets. The landing kept its bare nail and its nine-by-fourteen unpainted rectangle. Nadia wrote the day down with the hour against it and read it back twice.
 
 Marguerite sat with the valuation copy and the dead list copy squared beside each other and a third sheet between them with five lines pencilled in his hand. Five debts stood. The examination passed to whoever held the book in about four years. The open-ended security with no named holder stood in a public return. The thirty-year account stood live. The household stood certified on a figure the index denied. The clinic stood counted.
 
 "No book in this city will price this now she is out of the room," Marguerite said to the table. "That is what the next book invoices. Being live is what we kept it. Being priced is what comes."
 
-Petra stood at the end with her hands behind her back and looked at the five lines without touching them. Eleven years she had marked without asking. Nine days she had stood on no roll and watched. The watching weighed more.
+She turned the dead list copy round so the blank frame faced him, and waited to see whether he would say the thing she had been waiting for him to say.
+
+"A head may give up a room," she said. "There is an instrument for it and it takes a week and my signature. The household would be five in August. Five prices under six."
+
+He thought about it longer than he meant to. Five would take the sixth name off the return and put a fifth chair nowhere and make every figure in the building one lower. He got as far as the market stair before he understood that the arithmetic was not what had stopped him.
+
+"She said she would sign when signing is what it needs," he said. "Not before. If I put the instrument in front of her I am asking her to be the reason a paper says five."
+
+Marguerite capped her pen.
+
+"Then the room stays," she said, "and I will carry the difference as a difference, which is what a difference is."
+
+Petra stood at the end with her hands behind her back and looked at the five lines without touching them. Eleven years she had marked without asking, and thirty-three days she had stood on no roll and watched and said nothing to anybody about it. The watching weighed more than the eleven years had.
 
 He worked the washrooms floor by floor after the stair. At noon he ate on the back step with the head line in his pocket. Lode sat down beside him with a bucket and said the landing knew by lunch that one room stood empty with its name still on every paper. He said both were true. Lode said a household that could lose a woman and keep her name was the hardest kind to carry.
 
 He came home at six to bread standing round the table. The empty room stood made and straight behind its open nothing. The house ate round the three papers squared at the far end.
 
-Beatrix showed him her page before she shut the book. The day in her small level hand. Bread. A hatch carried. A wall looked at. A bag gone. An entry read back. He read it and nodded, because a record of ordinary things was the only record left that anyone in the house controlled.
+Beatrix held her book open for him at the kitchen table and let him read it upside down rather than turn it round. Bread. A hatch carried. A wall looked at. A bag gone. An entry read back. He read it and put out his own hand flat beside the page, which was not the same thing and was the most he had.
 
 Runa washed the bread knife and put it away with care. Tessa folded her stamped copy and put it in her coat. Sun laid her coat across her knees and checked the stitches with her thumb. Twenty-two held. Petra stood at the end with her hands behind her back. Nadia wrote the day with the hour on it and which list each paper belonged to.
 
-He went to Agnete with bread after supper. She ate standing in the doorway with the door open behind her. The three papers lay squared on the table behind him. The empty room stood straight beyond that.
+He carried her bread out to the doorway where she was standing with her door open behind her, and she ate it there without coming in, and the three papers lay squared on the table behind him and the empty room stood straight beyond that.
 
 Tessa worked the hatch from a quarter of eight with her copy in her coat. Her clinic had been counted from the first. Sun checked her stitches. Twenty-two held. Marguerite sat with the valuation copy and the dead list copy squared beside each other. The account lived. The list stayed quiet. Petra stood at the end with her hands behind her back.
 
-Nadia wrote the day with the hour on it on the back of a page and read it back. She wrote that one room stood empty with its name still on every paper. That was the whole of the entry.
+Nadia wrote the day down, hour against hour, and read it back. She entered one line for the empty room and she entered her own name against it, which had not happened once in eleven years of keeping that book. That was the whole of the entry.
 
 Wren stopped him on the stair after supper.
 
-"Thirteen days," she said. "Hadewig has had it thirteen days. Four edits and every one a removal. It has not been acted on. A true report went into that building yesterday from another division. Mine sits. I count it because I cannot stop."
+"Fourteen days," she said. "Hadewig has had it fourteen days and not one of the four edits has ever added anything to a record. It has not been acted on. A true report went into that building yesterday from another division, and an entry went up with it naming her twice. Mine sits. I count it because I cannot stop."
 
-"Thirteen days," he said.
+"Fourteen days," he said.
 
 Agnete came out of the back room and stood in the empty doorway a long time with nothing in her hands. The certificate lay on the table. The receipt lay beside it. The valuation copy lay beside them. The copy of the true report did not lie anywhere in the house. It lay in a division.
 
@@ -58,7 +74,7 @@ Agnete came out of the back room and stood in the empty doorway a long time with
 
 She went back behind her own door and left it open. The door stayed open.
 
-At nine he stood on the landing with his thumb in the cold middle of the pale rectangle. The nail held nothing. The paint stayed pale. The empty room held its made bed and its straight chair behind him.
+At nine he stood at the empty room's door with his hand flat on the frame and looked in at the made bed and the straight chair and the notebook on the shelf. Behind him the landing kept its bare nail and its unpainted rectangle. Nothing in either place had moved.
 
 He swept the empty room after morning bread with a short broom from the market stair. Dust came up off the boards in a thin cloud and settled. The bed stayed made square. The chair stayed straight. The shut notebook stayed on the shelf. Sweeping changed nothing and kept everything.
 
@@ -76,6 +92,6 @@ Agnete stood in the empty doorway with him a moment with her own cup. Two cups a
 
 He squared the water cup on the empty shelf before sleep. The cup would stand till the morrow. The morrow would bring its own paper.
 
-He went in and lay down with the head line in his coat pocket. The household was findable without being looked for. The division held a true document that said exactly what it was. The one woman who could price any of it correctly was out of the room with her own rooms around her.
+He went in and lay down with the head line in his coat pocket and one hand flat on his own chest. The household was findable without being looked for. The division held a true document that said exactly what it was. The one woman who could price any of it correctly was out of the room with her own rooms around her.
 
 He slept after eleven with that document in another building, filed, waiting for the division to find it could not be unfiled.

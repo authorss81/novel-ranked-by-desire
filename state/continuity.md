@@ -2,7 +2,55 @@
 
 ## Volume 5, Batch 0005 — CLOSED (Chapters 241–250). **THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.**
 
-**Ten chapters, one a day July 1–10. 241 Agnete's scene (second reading room, certificate in next house, one true sentence voluntarily, shut door by her hand, 2,717 words). First: mark in at nine, Petra ten to nine, two hearings, monthly repaint. Third: he keeps the account live (irreversible). Fourth: dead list quiet. Sixth, Thursday: Ines files eleven minutes true and walks out of a flat she is still in. Ninth: fifth scene at Lantern Row (2,612 words). Tenth: five debts priced, pricer out. Calendar: July Thursdays from June 29th are 6/13/20/27; only the 6th falls in batch and repaints; the first is monthly, different crew shade. Thursday 9 times (244x1, 245x2, 246x4, 248x2); 241's 12-gram scene scan vs 24 earlier scenes zero; 249 zero. Nobody-ration one (242). No other weekday. Paras over 90 zero after split pass; sentences lost zero (splits only). Figures unchanged; zero panels.**
+> **REPAIRED ON INDEPENDENT REVIEW — READ THIS BEFORE INHERITING ANYTHING IN THIS BLOCK.** An
+> independent review returned 11 findings and 5 minors; all are fixed and the adjudication is in
+> `reviews/volume-05/batch-0005.md`. **Seven things in this block were wrong and are corrected here:**
+> 1. **The irreversible decision at Ch 243 is the FIRST OF AUGUST docket, not the fourth.** The mark in
+>    at nine on the first had already made the fourth quiet, so a decision priced against the fourth
+>    had nothing left to decline. She offers once, on the third, dated to **the twelfth of July**, and
+>    will not offer again in the life of the account. He refuses in writing, the hour under it, two
+>    officers in the queue. **The twelfth of July is unwritten** — it is two days past the close and it
+>    is Volume 6's hook.
+> 2. **`hearing tail` was retired in Batch 0004 and had come back in 243's dialogue.** Gone again. Do
+>    not reintroduce it.
+> 3. **Meta leakage is gone.** `Volume Five`, `Volume Six`, `what the volume had handed him`,
+>    `first chapter of his life in this city`, `the last night of the volume`. Do not reintroduce.
+> 4. **Sun Meiling has three years, not eleven.** `Eleven years of keeping nothing` was invented inside
+>    this batch and printed twice (245:29 and 250:65). Eleven years belongs to **Agnete indoors** and to
+>    **Petra marking**. Corrected to three years at both, on her character file's grounds.
+> 5. **Every printed day count is derived, not guessed.** The finding went on Hadewig's desk on the
+>    **twentieth of June** and was sent on the **twentythird**. From the 23rd: the 2nd = nine, the 3rd =
+>    ten, the 4th = eleven, the 5th = twelve, the 7th = **fourteen**, the 8th = **fifteen**, the 9th =
+>    **sixteen**, the 10th = **seventeen**. The batch drifted by one from 247 on and 250 contradicted
+>    itself inside one chapter. Two dependent figures moved: the true report was **two** days old on the
+>    eighth, not four.
+> 6. **Petra has been on no roll since the FOURTH OF JUNE** — thirty-three days on the seventh, thirty-six
+>    on the tenth. The batch printed "nine days," which was wrong in every direction.
+> 7. **246's notebook line contradicted 246 itself.** She said it was with five others at 246:55 and it
+>    was shut on the shelf in the room she left at 246:79, which is where 247, 248, 249 and 250 all put
+>    it. The line now agrees with the room.
+
+**Two failures a gate could not see, both repetition the counts were reading as clean: the registry
+paragraph opened all ten chapters in one fixed order (13 deliveries of an accounting the reader had had
+since Batch 0003) and nine of ten chapters shared a three-beat open.** The accounting is load-bearing and
+stays; the recitation and the fixed order are gone, and each chapter now enters it from its own day.
+The thumb-and-rectangle closing beat ran in nine chapters and now runs in three; the
+head-line-in-coat bedside beat ran in eight and now runs in three. Intra-batch 12-gram repeats in three
+or more chapters: **78 → 0.**
+
+**Ten chapters, one a day July 1–10. 241 Agnete's scene (second reading room, certificate in next house, one true sentence voluntarily, shut door by her hand, 2,730 words). First: mark in at nine, Petra ten to nine, two hearings, monthly repaint. Third: he refuses the August docket, the twelfth of July is the expiry (irreversible). Fourth: dead list quiet. Sixth, Thursday: Ines files eleven minutes true and walks out of a flat she is still in. Ninth: fifth scene at Lantern Row (2,795 words). Tenth: five debts priced plus a sixth line that is not a debt, pricer out. Calendar: July Thursdays from June 29th are 6/13/20/27; only the 6th falls in batch and repaints; the first is monthly, different crew shade. Thursday 11 times; no other weekday. Both scene scans return zero against all 24 earlier scenes and 241 ↔ 249 now share zero twelve-grams and zero ten-grams. Nobody-ration one (242). Figures unchanged; zero panels.**
+
+### What this batch adds to the world, which Volume 6 inherits
+
+- **The mark carries the account through the fourth day and no further.** Every docket after the first is
+  the broker's to mark and his to answer for.
+- **A member of a division may not report on a return her own name stands on.** The entry goes up with
+  Ines's true report. She can be put at a desk where she is the subject, in about a month, and cannot
+  refuse, because refusing is what people do who are still on a roll.
+- **A head may give up a room** — instrument, a week, the broker's signature — and it would price the
+  household at five. **He did not put it in front of Ines.** Marguerite carries the difference as a
+  difference.
+- **Ines will not be read to in her own rooms.** He has agreed to read to her on the landing instead.
 
 ---
 

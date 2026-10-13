@@ -4,12 +4,6 @@ On the second of July he went to work at five and mopped the fourth floor while 
 
 He had woken wanting to see the side board himself before the figures drew a crowd. The want went unmet because the tram ran late and the washroom rota ran early. He felt disappointment sharp in his chest and carried it down the corridor with the bucket.
 
-Seven women on the cut roll had eaten bread standing round the table before he left. Six kept an address at Ferrier Street and six kept the notebook. The seventh row stayed pencil sewn in a pocket with twenty-two stitches. Petra Ilyin was on no roll of any kind and had tied the bundle string twice the night before.
-
-Wren Kallo was on nothing at any time and was the eighth partner and had come late with ink on her fingers. Agnete Lindqvist was on no list at all and had slept behind a shut door for the first time in eleven years and had opened it herself in the morning.
-
-The valuation of the first stood entered in the real book with the hundred and thirty-third mark in ink in the broker's own hand at nine. The thirty-year account stayed live and secured. The plate at 8,138 stayed where it had been lodged on the seventh of last month. The floor stayed at 8,141 with a tolerance of three.
-
 Lode met him on the stairs with a nod that said everything the landing knew.
 
 "Mark went in," Lode said.
@@ -24,11 +18,19 @@ He worked the washrooms floor by floor and let the morning go past in soap and p
 
 At noon he ate on the back step with the receipt copy in his pocket. The step was warm. For ten minutes no paper moved anywhere in his life. He held the ten minutes with gratitude and both hands.
 
+The valuation of the first stood entered in the real book with the hundred and thirty-third mark in ink in the broker's own hand at nine. The thirty-year account stayed live and secured. The plate at 8,138 stayed where it had been lodged on the seventh of last month. The floor stayed at 8,141 with a tolerance of three.
+
 He came home at six and found the house counting what the first had settled.
 
-Runa sat at the table with her hearing folder shut and her pencil down. Her morning at the Field division had taken the paper and kept it. She would not say beyond the morning and she was not asked to. Beatrix sat beside her with her notebook shut and her hands folded. Her panel had asked what a signal operator who cannot hear in one ear is doing in a cab and had written her answer down. She would not say beyond the morning and she was not asked to.
+The women on the cut roll had eaten bread standing round the table before he left. Six of them had tied a bundle string that night out of eleven years of habit, six of them carried a notebook and a door number, and one coat pocket held a pencil row sewn shut with twenty-two stitches.
 
-Marguerite sat with the valuation copy squared to the edge of the table. The mark stood at the foot in her own hand. One hundred and thirty-three marks in eleven years with no gaps. The run held.
+Petra Ilyin had gone down the steps at ten to nine and come back at half past nine with the bundle emptied. Wren Kallo had come in late with ink on her fingers and said nothing about it. Agnete Lindqvist had slept for the first time in eleven years behind a shut door and had opened it herself in the morning.
+
+Runa sat at the table with her hearing folder shut and her pencil down. Her morning at the Field division had taken the paper and kept it. She would not say beyond the morning and she was not asked to.
+
+Beatrix sat beside her with her notebook shut and her hands folded. Her panel had put the same question to her it had been putting to her since the spring, the one about the cab and the ear that hears nothing, and had written her answer down. She would not say beyond the morning and she was not asked to.
+
+Marguerite sat with the valuation copy squared to the edge of the table. The mark stood at the foot in her own hand, in ink, at nine, with a hundred and thirty-two behind it and not one of those years empty. The run held.
 
 "It is worth what it secures," Marguerite said to the table rather than to him. "Six names in my own hand on a guild sheet. The assessment side will carry it a year running now that it is priced. That is what yesterday bought."
 
@@ -36,7 +38,7 @@ Petra stood at the end with her hands behind her back and looked at the copy wit
 
 "Eleven years I marked dockets on the second of the month and never asked who produced them," Petra said. "Yesterday I watched a hand mark at nine that I did ask about. That is the difference and I am the one who carries it."
 
-Tessa came in from the hatch with her crate empty and her hands clean. Her clinic had gone into the returned lines on the thirtieth and was counted from the first. Two hundred and three a morning into somebody's question. Nine years of a quarter of eight stood in the lines.
+Tessa came in from the hatch with her crate empty and her hands clean. Her clinic had gone into the returned lines on the thirtieth and was counted from the first. Two hundred and three a morning into somebody's question. Nine years of her standing at that counter before anybody wrote anything about it stood in the lines now.
 
 "It is counted," Tessa said, and sat down suddenly. "From today. Hours and counts. A hatch and a room. I worked it out on the sixteenth and I am glad I did it before the valuation and not after."
 
@@ -92,8 +94,8 @@ Petra squared the bundle string on the kitchen table out of habit and then loose
 
 "Eleven years a hand can do anything if it never asks," Petra said to the room. "One morning it asks and watches. That morning weighs more than the eleven years."
 
-At nine he stood on the landing with his thumb in the cold middle of the pale rectangle. The nail held nothing. The paint stayed pale. Below him the city went about its evening with its lamps lit until eleven and its walls exact.
+At nine he put his hand flat against the pale rectangle on the landing and then took it off again to feel the cold it had kept all day. Nine by fourteen, the nail above it holding nothing. Below him the city went about its evening and the walls stood exact.
 
-He went in and lay down with the head line and the receipt both in his coat pocket. The mark was in. The board was repainted. The hearings had taken their papers. The clinic was counted. The finding sat nine days on a desk. The woman who could price any of it had eaten standing and gone to her room without a word about her own paper.
+He went in and lay down with the coat still on because there were two documents in it and he had stopped being able to separate himself from what he was carrying. The mark was in. The board was repainted. The hearings had taken their papers. The clinic was counted. The finding sat nine days on a desk. The woman who could price any of it had eaten standing and gone to her room without a word about her own paper.
 
 He slept after eleven with that silence in the room, unasked, waiting for its week.
