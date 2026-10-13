@@ -168,7 +168,7 @@ She took her own breast in one hand and used the heel of it against him and made
 
 They turned about on a bed against a wall in one room with a stove in it, and she got herself under him and took him in with her own hand and then with her hips and set about it from underneath with her heels hooked over the back of his thighs so that he could not get out of it without her permission. The noise the yard made outside the window was not a sound anyone in that room was listening to.
 
-"Twenty years," she said. "I have been in four divisions of one building since I was eighteen and I have read about eleven thousand descriptions of other people's work and there is not one word in any of them that would tell you what it is like to be the thing being described." She got her hand into his hair and pulled once, not hard. "This is the only room I have ever been in where I am not reading anything."
+"Twenty years," she said. "I have been in four divisions of one building for nine years and I have read about eleven thousand descriptions of other people's work and there is not one word in any of them that would tell you what it is like to be the thing being described." She got her hand into his hair and pulled once, not hard. "This is the only room I have ever been in where I am not reading anything."
 
 He came and she was already there and she let him have it for about four seconds afterwards and then pushed him off her and lay on her back with one arm over her eyes and her breathing going.
 

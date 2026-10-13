@@ -22,7 +22,7 @@ She never raised her voice.
 
 "I know what it is."
 
-"You have known what it is since the fourteenth of February, and in seven weeks you have never once worked out what it means for a corridor."
+"You have known what it is since the fourteenth of February, and in six weeks you have never once worked out what it means for a corridor."
 
 She put her hand flat on the stone wall.
 
@@ -64,7 +64,7 @@ That was the afternoon. Eleven minutes outside a door, and no instrument in this
 
 "On the third of January, in this house, I said that you were the reason I was frightened and that you had not done one single thing to cause it." She put her hand flat on the wall on the other side of the door from his.
 
-"And I have had nine weeks to sit with that sentence and I have worked out that I can end it, and it is about nine seconds long, and it is the only thing I can do with it, and I cannot do it in here."
+"And I have had eleven weeks to sit with that sentence and I have worked out that I can end it, and it is about nine seconds long, and it is the only thing I can do with it, and I cannot do it in here."
 
 "Tell me what it is and I will not use it."
 
@@ -86,7 +86,7 @@ He turned round.
 
 "I could say whatever I liked," said Isolde Marchetti, "and I am not going to, because a woman who has had a rule put on her and has then started collecting exceptions to it is a woman who has stopped being under anything."
 
-"In seven weeks you have not asked me one question."
+"In six weeks you have not asked me one question."
 
 "Not one of them."
 

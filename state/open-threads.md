@@ -1,3 +1,139 @@
+# VOLUME 8 BATCH 0005 REPAIR PASS — 14 OCTOBER 2026. **A RE-RUN FROM OUTSIDE THE GATE FOUND SEVEN INTERVAL FIGURES THAT
+# WERE WRONG AND THREE SELF-REPORTED AGES THAT BROKE A HARD LOCK. ALL TEN CHAPTERS ARE ON DISK AND THE REPAIRS WERE
+# PROSE-LEVEL AND NUMERIC. NO STORY CHANGE, NO NEW CANON ITEM, NO NEW PHASE.**
+
+**BATCH 0005 WAS ALREADY WRITTEN, REVIEWED AND CLOSED BEFORE THIS RUN. THE WORK HERE WAS NOT TO WRITE IT AND NOT TO
+REPLACE IT BUT TO RE-RUN ITS GATES AND FIX WHAT THE RE-RUN FOUND. EVERY FIGURE BELOW WAS RE-RUN FROM OUTSIDE, AFTER
+THE LAST EDIT.**
+
+## THE SEVEN INTERVAL ERRORS, AND THE ARITHMETIC FOR EACH
+
+**THE CONVENTION, RE-DERIVED AND CONFIRMED: A MONTH IS THIRTY DAYS, SO A YEAR IS THREE HUNDRED AND SIXTY. DAY-NUMBER
+SUBTRACTION ACROSS MONTH BOUNDARIES ONLY. NOTHING BELOW WAS CHECKED AGAINST A REAL CALENDAR.**
+
+| Where | Printed | Anchor, and the subtraction | True | Now |
+| --- | --- | --- | --- | --- |
+| 395:25 | *seven weeks* | the fourteenth of February, spoken on the twenty-fifth of March. Feb 14 = day 74, Mar 25 = day 115. **41 days** | **six weeks** | six weeks |
+| 395:67 | *nine weeks* | the third of January, same day. Jan 3 = day 33. **115 − 33 = 82 days** | **eleven weeks** | eleven weeks |
+| 395:89 | *seven weeks* | the fourteenth of February again, same speech | **six weeks** | six weeks |
+| 397:5 | *Eight days ago* | Mrs Imrie read four words back at a counter on the **twenty-fourth**. Mar 24 = 114, Mar 27 = 117. **3 days** | **three days ago** | three days ago |
+| 397:69 | *eighty-seven days* | the third of January, named in the same sentence. **117 − 33 = 84 days** | **eighty-four days** | eighty-four days |
+| 397:71 | *eighty-seven days* | the third of January, and she is promising the twenty-eighth | **84 days** | **eighty-four days** |
+| 397:111 | *eighty-eight days* | the sheet written on the thirtieth of December, spoken on the **twenty-seventh**. Dec 30 = day 390, Mar 27 = day 117. **360 − 273 = 87 days** | **eighty-seven days** | eighty-seven days |
+| 399:31 | *two days ago* | the fourth line was written on the **twenty-third**, spoken on the **twenty-ninth**. Mar 23 = 113, Mar 29 = 119. **6 days** | **six days ago** | six days ago |
+
+**THE WORST OF THESE IS 397:111, AND THE OLD GATE BLOCK CERTIFIED IT AS CORRECT IN SO MANY WORDS — "*398 says
+eighty-eight for the morning of the twenty-eighth and 397 says eighty-eight for the sheet, and both are correct.*"
+**THE RE-RUN OUTRANKS THE RECORD AND THE RECORD WAS WRONG.** EIGHTY-EIGHT IS CORRECT ON THE TWENTY-EIGHTH AND ONLY
+ON THE TWENTY-EIGHTH. THE CHAPTER THAT SAYS IT ON THE TWENTY-SEVENTH WAS A DAY OVER. THAT PARAGRAPH IN THE SUPERSEDED
+BLOCK BELOW IS MARKED.
+
+**397 WAS THE ONLY CHAPTER IN THE BATCH WITH A SYSTEMATIC PROBLEM AND IT HAD THREE FIGURES WRONG IN ONE CHAPTER,
+WHICH IS EXACTLY THE FAILURE THE PROMPT WARNS ABOUT AND EXACTLY WHAT A RE-RUN IS FOR.**
+
+## THE THREE AGES, AND THE LOCK THEY BROKE
+
+**THE HARD LOCK: "No chapter announces an age", and it names *Wren Kallo* and *Marguerite Vale* in the list of women
+who appear in this batch and none of whom gets one. A SPAN OF YEARS IS PERMITTED AND AN AGE IS NOT.** Three
+self-reported ages were standing in the batch, each in the speaker's own mouth and each about herself, and the old
+gate had argued that such a thing is "the age of a want and not the age of a woman" and had offered the substitution
+*for about nine years* without moving anything else. That substitution has now been made in all three places.
+
+| Where | Was | Now |
+| --- | --- | --- |
+| 393:51 | *I have wanted to be findable since I was thirty-one* | *for about nine years* |
+| 397:103 | *I have not had that since I was about thirty* | *I have not had that for about nine years* |
+| 398:171 | *I have been in four divisions of one building since I was eighteen* | *for nine years* |
+
+**393's AND 397's BOTH LAND ON NINE YEARS, WHICH IS THE SPAN 393 ALREADY USES FOUR TIMES FOR HER OWN NINE YEARS IN NINE
+OFFICES, SO NOTHING MOVED.** 398's "Twenty years" in her mouth is untouched and is a span and not an age.
+
+## EVERY GATE, RE-RUN FROM OUTSIDE AFTER THE LAST EDIT
+
+**Tokenisation, restated because it is the thing that gets faked: markdown heading marks stripped; em/en dashes and
+curly quotation marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every non-alphanumeric turned to a space;
+lowercased; split on whitespace; empty tokens dropped. The scanner was verified BEFORE it was believed, against a
+number it did not write.**
+
+```
+VERIFY         12-gram, Batch 0001's target (351-360 against 1-350), the historical scope -> **31**, the audited
+               figure, exact. The scanner is calibrated.
+12-GRAM        Scope: 391-400 against every other chapter file in `chapters/` (1-390) and against each other.
+               **distinct 0 · directed (chapter, source) pairs 0.** Nothing survives.
+11-GRAM        distinct **21** · pairs **22**.
+8-GRAM         distinct **447** · pairs **637**. Ordinary English over a 400-chapter, 106,574-word corpus.
+BANNED         his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no form 0
+               · there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0. **Nine of nine.**
+WEEKNAMES      Monday Tuesday Wednesday Thursday Friday Saturday Sunday -> **no lines** in the ten.
+SETTLE         `grep -n "settle"` -> **no lines** in the ten.
+S.M.           **no line in the ten.** The only occurrence in the volume is at 375, which is outside this batch and
+               is left alone. No chapter in 391-400 puts initials against the reply and no chapter re-derives either
+               sighting, so nothing here can put them in one month.
+AGES           **ZERO self-reported ages in the ten.** See the three rows above.
+MARKDOWN       blockquote 0 · table 0 · horizontal rule 0 · code block 0, across the ten. **Bold 0.** Italic spans
+               15: **391: 0 · 392: 1 · 393: 4 · 394: 4 · 395: 0 · 396: 0 · 397: 0 · 398: 1 · 399: 5 · 400: 0.**
+PARAGRAPHS     over roughly 90 words **0** · over roughly 120 words **0** · paragraphs with an odd number of
+               quotation marks **0** · trailing-space lines **0** · headings or system panels without a blank line
+               above them **0**. All ten files end in exactly one newline (`0x0a`).
+SYSTEM MESSAGES **ZERO, and correctly.** No chapter in 391-400 turns on the ledger, and 398's figure is read off a
+               painted card, so no panel is owed. The batch precedent of one panel in ten is a precedent.
+TITLES         400 title lines, 400 distinct, `uniq -d` **empty**. 0 over 90 characters. The ten at 391-400 run
+               **20 to 36 characters and 4 to 8 words**, every one inside 3 to 12.
+WORDS          **Counted per file and summed. NEVER from a concatenation.**
+               391 **2,016** · 392 **1,923** · 393 **1,829** · 394 **1,820** · 395 **1,837** · 396 **1,918** ·
+               397 **1,833** · 398 **3,312** · 399 **1,913** · 400 **1,925**.
+               **BATCH 0005 = 20,326. VOLUME 8 = 106,574** (`cat chapters/volume-08/*.md | wc -w` returns 106,574).
+               **THE NINE NON-SCENE CHAPTERS RUN 1,820 TO 2,016 AND 398 IS 3,312.** The pre-repair block's
+               106,572 / 20,324 and its 397 at 1,830 and 398 at 3,313 are superseded by these.
+SCENE          398 is the volume's last scene and is written out. Scene body, span `## The Room` to `## Afterwards`
+               with heading lines excluded: **1,251 words**, against a floor of about 900. **THE CLOSE AUDIT'S 1,467
+               DID NOT REPRODUCE UNDER THIS SPAN DEFINITION AND THE FIGURE RECORDED HERE IS THE ONE THE SPAN ACTUALLY
+               GIVES.** No compulsion, no sedation, no toxin, no restraint, no psychic contact, no seal, no violence;
+               her gift is not used on a record or a person or on him; she is not impaired and says so; every sexual
+               character is an adult and the batch announces no age. Borrowed bodies checked against 308, 318, 329,
+               340, 350, 358, 369, 380 and 388: the only physical claim on Wren Kallo is two nails of the **left**
+               hand stained with ink and the yellow at the corner of the white of her **left** eye since the spring.
+               **398 uses the ink and does not use the yellow, because the yellow was used at 350.**
+               `grep -rn "right temple" chapters/volume-08/` -> **zero**, so the left temple stays Lin Hao's alone.
+               Dagmar Oyelowo is in 396, is given no gift, and her one physical claim — that there is nothing on her
+               hands — is left as it is.
+```
+
+## WHAT WAS DELIBERATELY **NOT** CHANGED
+
+**392:41's "*The room had got it eleven days late and it had got it from a clerk*." NOT RE-DERIVED, BECAUSE IT CANNOT BE.**
+The sentence carries no date anchor and no baseline in its own paragraph, and **"eleven days" already has an
+established referent in this book — the eleven days of unobserved time a corridor declaration leaves a man
+(`chapters/volume-01/chapter-0033.md`) and the eleven days a letter takes under the Office's own rule
+(`chapters/volume-03/chapter-0136.md`).** A figure with no derivable anchor and two live referents elsewhere is not a
+defect this pass may silently overwrite. It is left as printed and flagged here.
+
+**391:123's "*ninety days*" IS LEFT.** It looks wrong against a strict reading (the four sheets went down on the
+twenty-ninth of December and 391 is the twenty-first of March, which is eighty-one days) but **391 itself states the
+rule it is invoking twenty lines earlier, at 391:15: "*A quarter is ninety days. It does not matter when you start it.
+It is ninety days and then the paper is shut.*"** The chapter licenses its own rounding, and 400's ninety days is a
+different and correct figure for a different span. Not a defect.
+
+**THE TWO SOFT ROUNDINGS IN 395 AND 397 ARE LEFT: 395:83's "four months" for a hundred and eight days, and 397:49's
+"two months" for seventy-nine days.** Both are inside a month of the nearest month-count and both are a woman's
+approximation in her own mouth. The hard errors were a full week or more out. Drawing that line and saying so is
+the point of this block.
+
+## CANON
+
+**NO NEW CANON ITEM. `PC-47` TO `PC-56` STAND UNCHANGED AND NONE OF THEM IS AFFECTED BY A NUMERIC REPAIR.** `PC-28`
+is still open and still unfixed and still carries nothing into 391-400. The proposed changes carried by this pass
+are textual only: seven numerals and three ages.
+
+## STATE OF THE PIPELINE
+
+**VOLUME 8 IS WRITTEN AND CLOSED. THE CLOSE PHASE HAS ALREADY RUN — `workspace/volume-08/volume-close/` CARRIES
+`.done`, AND `reviews/volume-08/volume-close.md` IS COMMITTED. THE ONE LIVE PHASE IS
+`workspace/volume-09/volume-plan/PROMPT.md`, WHICH HAS NO `.done` MARKER.** No close phase has been created by this
+pass, because creating one would be creating a second next phase and the rule is exactly one.
+
+---
+
 # ~~VOLUME 8 BATCH 0005 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 391–400 ARE ON DISK. VOLUME 8 IS WRITTEN. THIS WAS THE
 # ONLY LIVE GATE BLOCK IN THIS FILE.~~ **SUPERSEDED 13 OCTOBER 2026 BY THE CLOSE AUDIT. RETAINED IN FULL AS THE POSITION AT CHAPTER 400.
 # THE CLOSE AUDIT RE-RAN EVERY FIGURE IN THIS BLOCK AND CORRECTED FOUR OF THEM, AND A SECOND RUN ON 14 OCTOBER 2026
@@ -85,7 +221,11 @@ ELAPSED DAYS MAY BE WRITTEN EITHER WAY AND THE DATE MUST BE SUBTRACTED, NEVER CA
 - **THE THIRTIETH OF DECEMBER TO THE TWENTY-SEVENTH OF MARCH IS EIGHTY-SEVEN DAYS.** Three to the end of December,
   thirty for January, thirty for February, twenty-seven for March. 397 says eighty-seven and the table in
   `outline/volume-08.md` §6 movement 5 says eighty-seven. **398 says eighty-eight for the morning of the
-  twenty-eighth and 397 says eighty-eight for the sheet, and both are correct.**
+  twenty-eighth and both are correct.**
+  **SUPERSEDED 14 OCTOBER 2026 ON ONE POINT. 397 ALSO SAID EIGHTY-EIGHT FOR THE SHEET, WHICH WAS WRONG — THE SAME
+  THIRTY-DECEMBER-TO-TWENTY-SEVENTH-OF-MARCH SPAN IS EIGHTY-SEVEN DAYS AND 398'S EIGHTY-EIGHT IS CORRECT ONLY ON
+  THE TWENTY-EIGHTH. 397 HAS BEEN CORRECTED TO EIGHTY-SEVEN. THE GATE BLOCK'S CLAIM THAT "BOTH ARE CORRECT" WAS
+  FALSE; SEE THE HEAD OF THIS FILE.**
 - **THE TWENTY-SEVENTH OF OCTOBER TO THE TWENTY-SIXTH OF MARCH IS A HUNDRED AND FORTY-NINE DAYS.** Three to the end
   of October, thirty for each of November, December, January and February, twenty-six for March. 396 says a hundred
   and forty-nine days and the figure is right; **the first draft of 396 said *eighteen weeks*, which is not the same

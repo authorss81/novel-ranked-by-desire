@@ -260,7 +260,14 @@ Every figure here is from a command against the files as they stand **after this
 files            50 files, chapter-0351.md .. chapter-0400.md, no gap in the sequence, no file
                  outside 0351-0400.  `ls chapters/*/chapter-*.md | wc -l` -> 400.
                  **No chapter 401 exists anywhere in the repository.**
-vol 8 words      106,572, counted per file and summed.
+vol 8 words      **SUPERSEDED 14 OCTOBER 2026: 106,574, not 106,572, and Batch 0005 is 20,326, not 20,324.** A later
+                 repair pass corrected seven interval figures and three ages in 393, 395, 397, 398 and 399, which
+                 nets **+2**. Per file now: 391 **2,016** · 392 **1,923** · 393 **1,829** · 394 **1,820** ·
+                 395 **1,837** · 396 **1,918** · 397 **1,833** · 398 **3,312** · 399 **1,913** · 400 **1,925**.
+                 398's scene body is **1,251** words on the span `## The Room` → `## Afterwards` with heading lines
+                 excluded; **this audit's 1,467 did not reproduce under that span definition.** Every figure is
+                 re-run in `state/open-threads.md`, head. ~~The figures this audit recorded:~~
+                 106,572, counted per file and summed.
                  **THIS IS 11 FEWER THAN THE RECORDED 106,583 AND THAT IS THIS AUDIT'S FAULT, NOT A DEFECT.**
                  C1 −21, C2 −4, C3 +7, C4 −2; C3's paragraph split is neutral.
                  Per file after the edits: 396 **1,918** · 398 **3,313** · 400 **1,925**.
@@ -285,9 +292,16 @@ system messages  **FOUR in the whole volume, one each, and no chapter carries mo
 settle           `grep -rn "settle" chapters/volume-08/` -> **no lines.**
 weeknames        Seven of seven, whole-word and substring: **0**, across all fifty files.
 right temple     `grep -rio "right temple" chapters/` -> **0**, across all 400 chapters in the book.
-ages             No chapter announces an age. **393's *since I was thirty-one* is the age of a want in the
+ages             **SUPERSEDED 14 OCTOBER 2026.** The row below is what this audit recorded and **it was wrong on
+                 two of the three and wrong in its own claim of uniqueness.** A re-run found **three** self-reported
+                 ages in the ten, not one: 393's *since I was thirty-one*, 397's *since I was about thirty* and
+                 398's *since I was eighteen*. **The hard lock names Wren Kallo and Marguerite Vale and permits a span
+                 of years and not an age.** All three have been replaced with *for about nine years* / *for nine years*,
+                 which is the substitution this audit itself proposed for 393 and then did not apply. **ZERO ages now
+                 stand in the ten.** See `state/open-threads.md`, head.
+                 ~~No chapter announces an age. **393's *since I was thirty-one* is the age of a want in the
                  speaker's own mouth and is the only one in the ten; 398's *since I was eighteen* and 394's
-                 *I have known for nine years* are spans of years, which are permitted.**
+                 *I have known for nine years* are spans of years, which are permitted.**~~
 ```
 
 ### Duplication

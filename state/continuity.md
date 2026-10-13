@@ -1,6 +1,28 @@
 ## VOLUME 8 — CHAPTERS 351–400 ARE ON DISK. **VOLUME 8 IS CLOSED AND ITS CLOSE AUDIT HAS RUN.** THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
 **THIS IS THE LIVE BLOCK AND IT NOW OPENS ON THE CLOSE AUDIT'S RESULT.** Batch 0005's block is immediately below it.
 
+## 0a. BATCH 0005 REPAIR PASS, 14 OCTOBER 2026. **NUMERIC AND TEXTUAL ONLY. NOTHING BELOW CHANGES THE STORY.**
+
+**Chapter 391-400 were already written, reviewed and closed before this pass. A re-run from outside the gate found
+seven interval figures wrong and three self-reported ages that broke a hard lock. All ten are repaired. The gate
+block, with every figure re-run after the last edit and the arithmetic shown for each repair, is at the head of
+`state/open-threads.md`.**
+
+**WHAT A VOLUME 9 WRITER NEEDS FROM THIS: nothing in the narrative changed. The position at Chapter 400 stands exactly
+as the close audit left it — 8,146 on the card, 8,131 against premises 34-6-118, fifteen under, out of band by twelve,
+the two words up in paint the same afternoon, the requisition across into the next quarter at the standing of three,
+the carry-forward sheet going on the first of April, and a composition that must be certified four times a year by a
+woman who does not know she was appointed.**
+
+**THE FIGURES THAT MOVED, FOR ANYBODY WHO QUOTES THEM: Volume 8 is 106,574 words and Batch 0005 is 20,326** (per file
+and summed; the close audit's 106,572 and 20,324 are stale by +2). **398's scene body is 1,251 words** on the span
+`## The Room` → `## Afterwards` with heading lines excluded; the close audit's 1,467 did not reproduce under that
+definition. **The 12-gram duplication row is 0 and was re-verified against the audited 31 before the scanner was
+believed.** **Zero ages stand in the batch.**
+
+**THE ONE TO CARRY: 397 said eighty-eight days for the sheet on the twenty-seventh of March. It is eighty-seven. The
+superseded gate block had certified that figure as correct in so many words and was wrong.**
+
 ## 0. THE CLOSE AUDIT, 13 OCTOBER 2026. `reviews/volume-08/volume-close.md`. **VOLUME 8 IS CLOSED.**
 
 **THE SENTENCE WAS HALF PAID AND THE VOLUME SAYS SO.** He kept the woman who told him — Sun Meiling, settled at 372 and not re-opened — and **he did not find one word of what his brother found**, because 372 gives a transfer receipt, an index and four lines, there is no name of his anywhere in it, and there was never a place on the form where a name could have gone. **The other half cost four things: 8,146 on the card and 8,131 against premises 34-6-118 on the morning of the thirtieth of March, fifteen under and out of band by twelve, and the two words up the wall in paint the same afternoon.**

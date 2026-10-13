@@ -28,7 +28,7 @@ And under the nine the clerk wrote what she writes at the foot of that return ev
 
 Above the sheet, on a slip about four inches by two, was the transmission: what the return is going to four divisions on, who is producing what out of the return, and which division each part came out of.
 
-There was one initial on it in a small level hand that goes back three inches at the top of the downstroke, and he had looked at that hand over a counter for eleven years, and it was not the hand of the woman who had written her name in the fourth line two days ago and it was not the hand of the chair.
+There was one initial on it in a small level hand that goes back three inches at the top of the downstroke, and he had looked at that hand over a counter for eleven years, and it was not the hand of the woman who had written her name in the fourth line six days ago and it was not the hand of the chair.
 
 It was the initial of the officer of the division that holds the fourth part, and an officer who produces a part initials the transmission above it, and that part has been in the counter-forensics of the second sub-level since the morning of the twenty-seventh of October, and its officer signed a minute about it in her own hand at about eleven o'clock on the twenty-eighth of March.
 

@@ -2,7 +2,7 @@
 
 She came in off the doors at about half past six on the evening of the twenty-seventh of March with her coat still on and did not sit down, which is a thing Wren Kallo has done four times since October and never once for a reason she gave out loud.
 
-Eight days ago a woman had stood on that step and been made to read four words back twice.
+Three days ago a woman had stood at a counter on the second floor and been made to read four words back twice.
 
 "Sit down," said Lin Hao.
 
@@ -66,9 +66,9 @@ Nobody said anything at all.
 
 "No."
 
-"You told me on the third of January that you were not going to tell me the office and you have kept that for eighty-seven days."
+"You told me on the third of January that you were not going to tell me the office and you have kept that for eighty-four days."
 
-"I have kept it for eighty-seven days and I am going to keep it on the twenty-eighth of March as well."
+"I have kept it for eighty-four days and I am going to keep it on the twenty-eighth of March as well."
 
 She put her cup down on the table, not hard.
 
@@ -100,7 +100,7 @@ The others went up about half past eight. Nadia Ferrous went last and did not sa
 
 "Are you going to say thank you for coming down sixty-one steps."
 
-"No," said Wren Kallo. "I came down sixty-one steps and I have been in this room for two hours and there are eight women in this house who would have spoken to me in February and there are eight women in this house who have spoken to me tonight because of four words a man said at a table in October, and I have not had that since I was about thirty."
+"No," said Wren Kallo. "I came down sixty-one steps and I have been in this room for two hours and there are eight women in this house who would have spoken to me in February and there are eight women in this house who have spoken to me tonight because of four words a man said at a table in October, and I have not had that for about nine years."
 
 "You are not asking me for anything."
 
@@ -108,7 +108,7 @@ The others went up about half past eight. Nadia Ferrous went last and did not sa
 
 She stood up and squared her bag on the table.
 
-"There is a sheet I wrote on the thirtieth of December in a clerk's hand and it is in the bag on that chair and it has been in my bag for eighty-eight days. I am going to take it upstairs and I am going to cross out one of the five things on it and I am going to tell you which one and why before anything else happens tomorrow."
+"There is a sheet I wrote on the thirtieth of December in a clerk's hand and it is in the bag on that chair and it has been in my bag for eighty-seven days. I am going to take it upstairs and I am going to cross out one of the five things on it and I am going to tell you which one and why before anything else happens tomorrow."
 
 "What time."
 

@@ -1,4 +1,13 @@
-# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026, RE-RUN AND REPAIRED 14 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+
+> **14 OCTOBER 2026 — BATCH 0005 REPAIR PASS. CHAPTERS 391-400 WERE ALREADY ON DISK, REVIEWED AND CLOSED; THIS PASS DID NOT WRITE OR REPLACE THEM.** A re-run of the gate from outside found **seven interval figures wrong** and **three self-reported ages breaking the hard lock that names Wren Kallo and Marguerite Vale**, and repaired all ten. **The narrative position at Chapter 400 is unchanged.** The full gate block, re-run after the last edit and with the arithmetic for each repair, is at the head of `state/open-threads.md`.
+>
+> **THE FIGURES THAT MOVED: Volume 8 is 106,574 words and Batch 0005 is 20,326**, counted per file and summed — the close audit's 106,572 and 20,324 are stale by two. **398's scene body is 1,251 words** on the span `## The Room` to `## Afterwards` with heading lines excluded. **Zero ages stand in the batch.** The 12-gram row is 0, verified against the audited 31 before the scanner was believed.
+>
+> **THE ONE A REPAIR MUST NOT REINTRODUCE: 397 said *eighty-eight days* for the sheet on the twenty-seventh of March and it is *eighty-seven*.** The superseded gate block certified that figure as correct and was wrong. 398's *eighty-eight* is right, because 398 is the twenty-eighth.
+
+**THE LIVE GATE BLOCK IS NOW THE REPAIR PASS'S, AT THE HEAD OF `state/open-threads.md`, FOLLOWED BY THE CLOSE AUDIT.**
+Batch 0005's own head record is retained in full beneath both and is retained as the position at Chapter 400; Batch 0004's follows it. **Read the audit's figures and not the gate block's, and the repair pass's figures and not either.**
 
 **THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`.** Batch 0005's head record is
 immediately below it and is retained in full as the position at Chapter 400. **Four rows of that block were false as
@@ -147,8 +156,8 @@ does not appear in the ten.
   not hers.**
 - **393 (23 Mar). THE FOURTH HAND ON THE LINE. Seven days.** **Marguerite Vale writes her own name in the fourth
   line of a weekly return at about nine in the morning on her own account, and it fills no seat and cannot be
-  struck.** She is on no roll in this city and is not going to be on one, and she has wanted to be findable since
-  she was thirty-one and had never said it. **And he eats at her table: four chairs, nine years, no meal at it
+  struck.** She is on no roll in this city and is not going to be on one, and she has wanted to be findable for
+  about nine years and had never said it. **And he eats at her table: four chairs, nine years, no meal at it
   since the autumn before last, and the twenty-third of March is the first in eighteen months and she eats at it
   with him and tells him he will be different on the thirtieth before the tea is out.**
 - **394 (24 Mar). THE MAN WHO WAS IN THE FOURTH SEAT. Six days.** **Bertram Sallow, and the cause of the twelfth of
