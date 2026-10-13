@@ -283,18 +283,114 @@ been.** A requisition tabled and refused is not a requisition received.
    **AND THE OPEN QUESTION THIS MOVEMENT ANSWERS, WHICH THE PLAN HAD AS AN OPEN QUESTION: *who writes the
    sentence when a man will not describe himself?* A woman who sings one, on purpose, having been used as an
    instrument in July and having decided to be the author rather than the delivery.**
-2. **The Classification Of A House — 311–320.** Alma Quayle, 57, comes to Ferrier Street and asks to
-   describe the account, and she is courteous, exact, and right: **a thing that cannot be reconciled must be
-   described, and a description that is refused becomes a description written without him.**
-   **THE MIDPOINT, AND IT IS THE VOLUME'S MORAL TURN:** he is offered the door he has never been offered —
-   **write the classification against the head and not against the address** — and he takes it, because it
-   is the merciful thing and because it is what he has always done, and eight women are named in a file in
-   the order they keep the address, one of them in her own words, one of them by a clerk's number that is
-   hers for ever. **He has spent six volumes making himself the object so that nobody else has to be, and
-   this is what it costs when it works.** Runa Sato's scene at 318 is the Field's version of the same
-   decision, taken with a different woman in it.
-   **The option closed:** the household's invisibility is gone and cannot be got back, and he may not
-   unname anybody.
+2. **The Classification Of A House — 311–320. REWRITTEN AGAINST WHAT WAS WRITTEN, IN THE SAME COMMIT THAT
+   WROTE IT. The page governed and this movement now reads as the page left it.**
+   Alma Quayle came to Ferrier Street in Batch 0001 and asked one question. **In this batch she comes up sixty-one
+   steps three times with a form, and the form is where the movement turns.**
+
+   - **311 ANSWERS THE QUESTION THE PLAN DID NOT ASK, WHICH IS WHAT A DESCRIPTION ACTUALLY CONTAINS.** A
+     referral has three parts and the plan said so in Batch 0001. **A description of premises has four, and the
+     fourth is a list of persons of reading age keeping an address, in the order of the stair, with a date
+     against every line.** A third-floor counter clerk named on the page for the first time here reads a real
+     one out of another building, and the list **says nothing whatever about what any of the persons on it is.**
+     It is cheaper than a judgement, which is the whole of why an office prefers it, and eleven divisions keep
+     a public list and will match it against their own books at nine in the morning without a thought about it.
+     **The order of the list is the order of the stair, and he is at the top of it.** And the clerk tells him,
+     unasked, that the form which makes a man the subject of his own premises is in the sub-level and has been
+     there since before he came, and that about four people in this city know it exists. **That sentence is the
+     hinge of the whole movement and the plan did not have it.**
+   - **312 IS ALMA QUAYLE TELLING HIM WHAT HER JOB IS FOR, AND IT IS THE FIRST TIME IN THIS BOOK THAT A WOMAN
+     HAS DONE SO PLAINLY.** Four things refused in thirty years, given by name: a seat with a window, a warrant
+     to reopen anything she had signed, and the best and warmest room in the building. **She wanted to be the
+     person who has to say what a thing is while somebody with an interest in the answer is standing in front of
+     her.** She then shows him the form, states the rule she wrote herself in her fourth year — **the list is
+     attached and issues with the description, because a description of a man with nothing under it is an opinion
+     about himself** — **and tells him, on purpose, that she has known since ten past nine that morning that he
+     is going to say yes, so that he has the choice of knowing that she knows.** **She is not wrong about any
+     single thing she does in any of the ten chapters, and she is not softened by one of them.**
+   - **313 IS THE COURTESY, AND IT IS NOT A COURTESY, AND THE HOUSEHOLD WATCHES IT WORK.** Eight lines in eight
+     hands: a name, the day she took that address, and the room. She wrote the third column in herself. **She
+     says the truth about it in one sentence — the eight names are already on a district leaf with a clerk's
+     number and will be there whatever is written in a kitchen; what the eight hands buy is the difference
+     between eight women who were asked and eight women a description was done to.** Agnete Lindqvist has no
+     date and gets one taken from the building with *from the building* in brackets. **And Beatrix Halm counts
+     the lines, asks how many, and he does not ask the ninth question — and four seconds in that kitchen know
+     precisely what was not being asked. That is the term of the ninth of July, whole, and costing him the same
+     four seconds it cost him on the nineteenth.**
+   - **314 IS THE SENTENCE, AND IT IS FOUR WORDS THAT ARE FALSE.** *It is recommended that the account be
+     treated as unadministrable, being a figure with no subject.* Three lines true, four words not. **A
+     description that says an account has no subject closes the file, and the space where the subject is not is
+     a space an officer fills**, and she says so going down four steps, and he stands at the top of the stair
+     and understands it all at once. **THE SENTENCE SHE WANTED TO WRITE WAS A REFUSAL TO DESCRIBE HIM, AND A
+     REFUSAL TO DESCRIBE HIM WAS A DESCRIPTION OF HIM.** The plan did not have the sentence and the sentence is
+     better than the plan.
+   - **315 IS THE MIDPOINT, THE MORAL TURN, AND THE IRREVERSIBLE DECISION, AND IT IS HIS.** He asks in a
+     kitchen, in front of eight women and a clerk, that the description be written against the head and not
+     against the address. **She grants it in minutes, and the plan's own reasons hold: it is cheaper to
+     administer and easier to appeal, and an office can examine a man and cannot argue with a house.** She
+     brings a clerk so that nothing goes into a division out of her own hand alone. **He gives the reason in
+     four words — *because it is cheaper* — and the clerk enters it with the time against it**, and the chapter
+     says in so many words that it is the worst sentence anybody has ever entered, and nobody in the room is
+     able to say otherwise. **He has spent seven years making himself the object so that nothing else has to
+     be, and this is what it costs when it works.**
+   - **316 IS WREN KALLO AND IT IS THE TITLE OF THE CHAPTER.** She asked Alma Quayle in a kitchen on the
+     twenty-fourth whether the office goes on the list, and was told no, kindly, at four in the afternoon, and
+     **was right to believe her and wrong to ask, because a list does not carry work and a description of
+     premises carries the post of anybody at that address who holds one.** Her line is the only one on the sheet
+     with a posting on it. **The one true thing she says is that nobody counted her** — she walked up to a
+     counter on the second and made herself the eighth name of a house she had never lived in — **and the price
+     of that is her division, and she asks in writing to certify the composition of her own address so that in
+     four years the answer is a line in a kitchen in eight hands.** **And she forbids him, permanently, to ask
+     her anything about that address again.**
+   - **317 IS THE KITCHEN AND HE TELLS THEM WHY BEFORE ANYBODY CAN FIND IT, AND THE REASON IS THE ONE HE HAS
+     USED FOR SEVEN YEARS.** A description of a man can be examined and a description of a house cannot. **He
+     believes it and it is true, and Agnete Lindqvist recognises it as the reason he gave in July about the
+     street**, and says she has been indoors eleven years and has never been a name on anything and **is not
+     sorry, and finds that frightening**, and gives the chapter its word: **a term is a price paid in advance for
+     something that has not arrived, and the price has been named and it is eight lines long and she wrote one
+     of them.** **Nadia Ferrous withdraws the fraud she offered in October and gives the real reason, which is
+     that he would be at the counter within a week.** And Sun Meiling asks the question the movement turns on,
+     which is *who examines you*, and he answers too quickly.
+   - **318 IS THE SCENE AND IT IS RUNA SATO'S, AND IT IS THE FIELD'S VERSION OF THE SAME DECISION TAKEN WITH A
+     DIFFERENT WOMAN IN IT, EXACTLY AS THE PLAN SAID.** A requisitioned flat on Cordwain on the thirtieth
+     morning. **She has a return to file by four and she files the truth and it is useless**, because a return
+     is a figure and a date and a standing order on a composition does not mention a man. The scene is written
+     out and its body is **1,361 words**. **And what it changes is that she tells him she applied for a
+     standing order on that address on purpose and that he cannot protect her from it**, because protection in
+     this city is a thing you do to somebody by asking them for something.
+   - **319 IS THAT ORDER, AND IT IS NOT A SCENE, AND IT ENDS WITH THE ONLY INSTRUCTION HE WRITES IN THE BATCH.**
+     A standing order is a licence and not a warrant, and he cannot get it reviewed, and she will not let it be a
+     question. **He writes on a pad in a muster room at Cordwain, in his own hand, that he will not ask for her
+     release from any standing order on that address for the life of the account.** **It has no figure against
+     it, it is not a debt, and no office in this city will ever invoice it.**
+   - **320 IS THE LIST, AND IT IS ORDINARY, AND THAT IS THE HORROR.** At four o'clock on the thirtieth it goes
+     out on the ordinary stream. At two minutes past nine on the morning of the first, **he asks for a copy of
+     the list of persons at his own address at a Field counter, in a queue, without giving a reason, because
+     none is required.** Three copies go out in one morning with no reason against any of them: a merchant house,
+     a guild house, and a district clerk who walked twenty minutes to be told to ask. Eleven divisions this
+     morning, fourteen by December. **It cannot be stopped, it cannot be unpicked, it is not a weapon, and the
+     only way the world has ever dealt with a piece of paper that says where eight people sleep is to stop
+     writing it down.**
+
+   **THE OPTION CLOSED, AND IT IS EXACTLY THE ONE THE PLAN NAMED:** the household's invisibility is gone and
+   cannot be got back, **and he may not unname anybody.** A person may still give an address up at any counter at
+   any hour and it will be dated and it will lower the composition, **and the list will still say eight on the
+   thirtieth, because it is made and dated and it issues at four.**
+
+   **AND THE ONE SENTENCE THIS MOVEMENT HAD TO RESOLVE THAT THE PLAN LEFT AMBIGUOUS, RESOLVED ON THE PAGE AND
+   NOT BY IGNORING EITHER SIDE OF IT:** §7 lists *a classification completed against him* under **may not
+   open**, and movement 2 requires him to be described. **THE ANSWER IS THAT HE IS DESCRIBED AND NOT
+   CLASSIFIED.** A description of premises was made on the twenty-seventh against the head and the list is
+   attached and issued with it. **No finding has been entered, nothing has been administered, and there is
+   nothing yet to administer it against**, and in about four years a stranger will go looking for the subject of
+   a figure with no subject. **A described account is administered rather than priced, and the administration
+   has not started, and `outline/volume-07.md` §7's item stays shut.**
+
+   **WHAT THE PLAN GOT WRONG IN THIS MOVEMENT, AND THE PAGE OWNS:** the plan assumed the cost would land as
+   shame or as a fight. **It landed as four words about money, entered in a clerk's book, by a man who did not
+   think he was doing anything cruel.** The plan also assumed the eight would be named *in a file*. **They are
+   named on a list, which is a public instrument, and a file is something you can be shown; a list is something
+   you can be handed at a counter without a reason, and that is a different and larger thing.**
 3. **The Thing He Had Never Done — 321–330.** To be heard at all he has to be scored, weekly, in public, by
    deeds other people attest. **It is the thing he has refused since Chapter 48**, and this movement is him
    doing it in public and finding out that the plate is the only part of him anybody can see.
@@ -347,6 +443,11 @@ been.** A requisition tabled and refused is not a requisition received.
 
 **WHERE THE PLAN IS MOST LIKELY TO BE WRONG, AND WHAT THE PAGE OWNS IF IT IS.**
 
+- **Whether describing a house and classifying a man are the same act.** **ANSWERED ON THE PAGE IN 311 TO 320,
+   AND IT IS THE ANSWER THAT KEEPS §7 SHUT.** Three parts is a referral and four is a description; a description
+  of premises carries a list and a list is a public instrument; **a description of premises made against a head
+  of premises is a description of premises, and the finding about what the account is has not been entered and
+  is not entered in this volume.** He is describable and described. **He is not classified.**
 - **Whether the composition moving actually retires a production.** **ANSWERED ON THE PAGE IN 301–310, AND
   IT IS CHEAPER AND MORE ORDINARY THAN THE PLAN ASSUMED.** It does not retire one. **It creates two figures
   for one door, both of which are true, and neither of which corrects the other, and the consequence is that an

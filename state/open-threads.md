@@ -1,255 +1,234 @@
-## Volume 7 PLANNING PHASE — REVIEWED AND REPAIRED. SUPERSEDED. THE LIVE GATE RECORD IS VOLUME 7 BATCH 0001'S, ABOVE.
+## Volume 7 PLANNING PHASE — REVIEWED AND REPAIRED. SUPERSEDED. THE LIVE GATE RECORD IS VOLUME 7 BATCH 0002'S, BELOW.
 
-## Volume 7, Batch 0001 — LIVE GATE RECORD (Chapters 301–310). THE SECOND OF OCTOBER TO THE NINETEENTH. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+## Volume 7, Batch 0002 — LIVE GATE RECORD (Chapters 311–320). THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
 
-> **Volume 7 Batch 0001 is the live gate record. The Volume 6 Batch 0005 block below it is retained as
-> history and is superseded as to position.** Every number below was produced by command against the files
-> **as they stand after Batch 0001's last edit**, and every row says what was run and what was read, because
-> **a gate that returns zero is a claim to be tested and not a result to be reported.** Three consecutive
-> Volume 6 batches reported a clean row that was not clean and every one of those rows was written by the
-> same pass that wrote the prose. **This block was therefore written from the output of a reporter that only
-> prints, and it was then re-run from outside the writing pass, and the re-run outranks it. Both runs and
-> both figures are below.**
+> **Volume 7 Batch 0002 is the live gate record. The Volume 7 Batch 0001 block below it is retained as history
+> and is superseded as to position.** Every number below was produced by command against the files **as they
+> stand after this batch's last edit**, and every row says what was run and what was read, because **a gate that
+> returns zero is a claim to be tested and not a result to be reported.** Three consecutive Volume 6 batches
+> reported a clean row that was not clean and every one of those rows was written by the same pass that wrote
+> the prose. **This block was written from the output of a reporter that only prints, and every row below was
+> then re-run from outside the writing pass; where the two disagree the re-run outranks the record, and they do
+> not disagree.**
 >
-> **THE 12-GRAM SCAN RAN FIRST, BEFORE THE 8-WORD SENTENCE SCAN, AND IT WAS RUN AGAIN AFTER EVERY REPAIR —
-> eleven times in this batch, plus a final pass after the last edit.** The tokenisation and the scope are
-> part of the figure and both are stated.
+> **THE 12-GRAM SCAN RAN FIRST, BEFORE THE 8-WORD SENTENCE SCAN, AGAINST ALL 320 CHAPTER FILES, AND IT WAS RUN
+> AGAIN AFTER EVERY REPAIR ROUND — nine times in this batch plus a final pass after the last edit.** The
+> tokenisation and the scope are part of the figure and both are stated.
 >
-> **NO PARAGRAPH-LENGTH SPLITTER WAS RUN OVER THIS PROSE AT ANY FLOOR, AT ANY POINT.** The only automated
-> pass was a reporter that prints paragraph lengths and changes nothing. **Every paragraph that was too long
-> was split by hand at a speech beat** — forty-one of them — **and the whole-file quotation count was checked
-> against the files after each repair round.** A dialogue paragraph opens with a quotation mark and closes
-> with one, and no speech runs across a paragraph break.
+> **NO PARAGRAPH-LENGTH SPLITTER WAS RUN OVER THIS PROSE AT ANY FLOOR, AT ANY POINT.** The only automated pass
+> was a reporter that prints paragraph lengths and changes nothing. **Every paragraph that was too long was
+> split by hand at a speech beat — fifty-five of them across the ten first drafts and the repair rounds — and
+> the whole-file quotation count was checked against the files after each round.** A dialogue paragraph opens
+> with a quotation mark and closes with one, and no speech runs across a paragraph break.
 
-**Ten chapters, eighteen days. A month is thirty days and has no thirty-first. The thirtieth is the last
-working day and the next valuation is the first of next month at ten to nine.** Day map: 301 the 2nd,
-**the eighth name goes onto a fresh leaf and he does not say his eleven words** · 302 the 4th, **Hanneke Ruis
-is named and there are two figures for one door** · 303 the 6th, **the office that cannot correct itself and
-the three doors** · 304 the 8th, **the kitchen and Sun Meiling's sentence** · 305 the 9th, **the midpoint;
-the deadline stops being clerk's information and becomes a thing that happens to eight people** · 306 the
-10th, **the office that describes things, and it is not a trap** · 307 the 12th, **the question** · **308 the
-15th, VOLUME 7'S FIRST AND ONLY SCENE SO FAR** · 309 the 16th, **nine hundred mouths and a note from the
-counting room** · **310 the 19th, HE DOES NOT SWEAR EIGHT.**
+**Ten chapters, nine days. A month is thirty days and has no thirty-first. The thirtieth is the last working day
+and the next valuation is the first of next month at ten to nine.** Day map: 311 the 22nd, **a description of
+premises has four parts and the fourth is a list** · 312 the 23rd, **the head of classification and three things
+she refused** · 313 the 24th, **the courtesy, and eight lines in eight hands** · 314 the 26th, **the sentence and
+the four false words** · **315 the 27th, HE ASKS FOR THE DESCRIPTION TO BE WRITTEN AGAINST THE HEAD** · 316 the
+28th, **Wren Kallo, her posting and her certificate** · 317 the 29th, **he tells the kitchen why** · **318 the
+30th, VOLUME 7'S SECOND SCENE AND RUNA SATO'S, THE SCENE BODY COUNTED AT 1,361 WORDS** · 319 the 30th, the
+middle of the afternoon, **the standing order and the pad in the muster room** · 320 the 30th after four and the
+first of next month at nine, **the list issues and is read at a Field counter**.
 
 ### Gates run after the last edit
 
 ```
-files            chapters/volume-07/ -> 10 files (0301..0310). 310 chapter files total across seven volumes.
-                  `mkdir -p chapters/volume-07` was run before the first write, because the directory did not
-                  exist. `git status --porcelain` after the last edit returns **ten new untracked files in
-                  chapters/volume-07/ and modified state and bible files, and NOTHING ELSE** — which is the
-                  check that matters: **no closed chapter was touched, including 280 and 299.**
-titles           unique across ALL 310 written titles -> **NONE duplicated**. Over 90 chars -> **0**.
+files            chapters/volume-07/ -> 20 files (0301..0320). 320 chapter files total across seven volumes.
+                  `git status --porcelain` after the last edit returns the ten new chapter files in
+                  chapters/volume-07/ and the state, review and outline files this phase was asked to change,
+                  **and NOTHING ELSE** — which is the check that matters: **no closed chapter was touched,
+                  including 280, 299 and 301–310.**
+titles           unique across ALL 320 written titles -> **NONE duplicated**. Over 90 chars -> **0**.
                   None of the batch's ten begins with "What." **The book still has twenty-eight and Volume 7
                   has ZERO.** None is built out of *there is no*, *nobody*, *nothing* or *what*.
-                  The twenty-eight are all inherited from Volumes 1 to 5 and Volume 6's fifty are at zero.
-                  301 The Address She Took In The Ordinary Way (40) · 302 Two Figures For One Door (24) ·
-                  303 The Book That Would Not Reconcile (33) · 304 A Security Carried At The Wrong Figure (38)
-                  · 305 The Answer That Stopped Being True (34) · 306 The Office That Describes Things (32) ·
-                  307 Thirty Years Arranged Into One Question (39) · 308 The Room That Agrees With Her (29) ·
-                  309 Nine Hundred Mouths And A Door Number (37) · 310 The Answer He Did Not Swear (27)
-wc 301-310       2302 / 2472 / 1835 / 2444 / 1887 / 1936 / 2235 / **3758** / 1898 / 2649
-                  **NINE INSIDE 1,800–2,700 AND ONE NAMED EXCEPTION, WHICH IS 308.**
-                  **THE NAMED REASON, AS THE BATCH PROMPT REQUIRES: 308 is Volume 7's first scene chapter.
-                  The first draft of it was 2,866 words and the scene body between its own headings was
-                  **663 words — under the nine-hundred floor, which is a summarised scene wearing a chapter's
-                  clothes.** The scene is now written out and the scene body is **1,717 words**; writing it is
-                  what cost 892 words. Nothing was padded and no other chapter moved except where a date
-                  figure or a banned construction was wrong.
-markup           **bold 0 | italic 28 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
-                  **Bold is at ZERO and that is a real measurement, not an inheritance of Batch 0005's 3.**
-                  The italics are documents and quoted words: 301 the eleven words · 305 the two reason
-                  attempts · 307 *condition* is not italic and the *Concil* line is not; **308 the eight lines
-                  of the verse and the singer's word** · **309 the eleven italic lines of Hanneke Ruis's
-                  note, plus the singer's new second line** · 310 the form's four words. **A later batch must
-                  not inherit a zero for either.**
+                  311 The Classification Of A House (29) · 312 The Head Of Classification (26) ·
+                  313 A Woman With Thirty Years Of It (31) · 314 The Sentence She Wants To Write (31) ·
+                  315 The Version With Eight On It (28) · 316 The One Who Is Not Counted (26) ·
+                  317 The Price Of A Term (19) · 318 The Report That Was True And Useless (36) ·
+                  319 The Order She Took On Purpose (29) · 320 The List Of Persons At An Address (33).
+                  **All ten are the names already banked in `outline/volume-07.md` §10, checked against
+                  every file in `chapters/` by command and used as printed.**
+wc 311-320       2011 / 1839 / 2324 / 1832 / 1841 / 1975 / 2119 / **2815** / 1874 / 1854
+                  **NINE INSIDE 1,800–2,700 AND ONE NAMED EXCEPTION, WHICH IS 318.**
+                  **THE NAMED REASON, AS THE BATCH PROMPT REQUIRES: 318 is the scene chapter and its scene body,
+                  measured between its own headings, is 1,361 words, which is over the nine-hundred floor. The
+                  chapter is 2,815 against a band of 1,800–2,700 because the scene is written out and not
+                  summarised. Nothing was padded and no other chapter left the band.**
+markup           **bold 8 | italic 44 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
+                  **Bold is at ZERO in nine chapters of the ten.** The eight bold spans are all in 320 and they
+                  are the surnames and initials of the eight women on the printed list, which is the one place
+                  in this batch where emphasis is carrying a document's layout rather than the prose.
+                  **Batch 0001 shipped bold 0 and italic 28 and neither number was inherited.** The italics are
+                  documents: **311 the quoted sheet off another building · 313 *from the building* · 314 the
+                  four-line reason clause and the word *integrity* · 315 Wren Kallo's line as printed and
+                  *because it is cheaper* · 316 the fair-copy line and *from the building* · 317 *it is cheaper*
+                  twice · 318 the composition return, five lines · 319 *the persons keeping it* · 320 the whole
+                  instrument, its head, its figure and its foot.**
 system panels    **0 x 10, and STRUCTURALLY so: none of the ten files contains a "[" character at all.**
-                  **NO PANEL WAS DUE AND NONE IS OWED**, and the reason is the whole of it: **nothing has
-                  been spent from the reservoir in three hundred and ten chapters, no draw happens, no
-                  settle clock has started, and NO SETTLE DATE HAS BEEN INVENTED OR PRINTED ANYWHERE.**
-                  308 is a scene in which two people touch and neither one is spent anything, and the scene's
-                  mechanism is her want and her direction, never her gift; her gift happens **around** the
-                  scene and she says she cannot turn it off. **A panel written because a batch was feeling
-                  clever is a defect and none was written.**
+                  **NO PANEL WAS DUE AND NONE IS OWED**: nothing has been spent from the reservoir in three
+                  hundred and twenty chapters, no draw happens, no turn of the count moves, no settle clock has
+                  started, and **NO SETTLE DATE HAS BEEN INVENTED OR PRINTED ANYWHERE.** 318 is a scene in which
+                  two people touch and neither one is spent anything, and the scene's mechanism is her want and
+                  her direction, never her gift; **her gift carries mass and stored merit and it is not used on
+                  anybody in that chapter.** **A panel written because a batch was feeling clever is a defect and
+                  none was written.**
 paragraphs       **over 90 words -> 0. Over 120 -> 0. In all ten chapters.**
-                  **Checked by a reporter, NEVER by a splitter.** Forty-one paragraphs in the first drafts
-                  were over ninety words and **all were split by hand at a speech beat**, and the
-                  whole-file quotation count was checked against the files after each round.
-exact-dup paras  **whole-paragraph identity test, 301-310 against neighbours 291-310: floor 1 -> 10 groups,
-                  NINE QUOTED and ONE UNQUOTED. floor 2 -> 7 groups, all quoted. floor 3 -> 5 groups, all
-                  quoted. UNQUOTED 0 AT FLOOR 2 AND FLOOR 3.**
-                  Quoted groups are dialogue beats: "Yes." · "No." · "Go on." · "Say it." · "I know." ·
-                  "Right."
-                  **THE ONE UNQUOTED GROUP IS THE BATCH'S NAMED ECHO AND IT IS LISTED HERE RATHER THAN
-                  EXCLUDED FROM THE ROW: *She was not fast.* It is in Volume 6's Chapter 299 (Beatrix Halm)
-                  and in Volume 7's Chapter 308 (Isolde Marchetti), and in 299 it is a statement about
-                  Beatrix's ear and in 308 it is Isolde telling a man that the one thing he had expected
-                  every woman to be, she is not. The repetition is the point and the meaning changed.**
-                  **Two unquoted duplicates in the first drafts were rewritten: *He did not answer.*, which
-                  collided with closed Chapter 297, and *He said it again.*, which collided with closed
-                  Chapter 299.**
-12-GRAM SCAN     **RUN FIRST, AGAINST ALL 310 CHAPTERS, BEFORE THE 8-WORD SCAN, AND REPEATEDLY.**
-                  **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT, OVER ALL 310 CHAPTER FILES:
-                  2,473 duplicate windows book-wide, of which NONE touch 301–310.**
-                  **Punctuation-stripped, lower-cased variant, same scope: 3,250 book-wide, NONE touching
-                  301–310.**
-                  **VOLUME 7 ALONE returns fewer than the whole book. The book-wide figures move as other
-                  batches write and they are stated here so that a later run can be compared against
-                  something.**
-                  **EVERY ONE OF THE 59 DUPLICATE WINDOWS THAT EXISTED IN THE FIRST DRAFTS WAS A REAL
-                  DEFECT AND ALL WERE CUT BY HAND.** They were: the July verse tune quoted from closed 261 ·
-                  **the "stops having verses in it" line quoted back from closed 261 after it had been
-                  rewritten once** · "be talked out of it" from Volume 4 · **two paragraphs in 308 that
-                  restated the same beat twice because the scene had been split across two headings** ·
-                  303 and 305 and 306 quoting rules the batch had already stated three chapters earlier ·
-                  **the Ines Duarte sentence from closed 298 quoted into 310** · **a rule in 303 restated in
-                  304** · **Hanneke Ruis's note in 309 and the same sentences in 310** · the corridor's
-                  "hands flat on the table" from closed 296 · Beatrix at the north end of the wall from
-                  closed 289.
-                  **NOTE FOR THE NEXT BATCH: a chapter can quote its own note from an earlier chapter and the
-                  scan will find it, and it was found twice here. If a document or a letter is written in one
-                  chapter and referred to in another, the referring chapter must paraphrase it.**
-8-word sentences **0 repeated openings against another chapter, over ten words, 301–310.**
-                  **Twelve were found in the drafts and all were read and all were rewritten**, including a
-                  Beatrix Halm arrival borrowed from closed 289, a chair-turned-round borrowed from closed
-                  296, a window-and-hill sentence from closed 298, a Sun Meiling hand-on-the-certificate
-                  sentence from closed 289, and "He said it again." against closed 299.
-quote balance    **quotation marks even, whole file, 301-310 -> 10 of 10.** 102 / 172 / 128 / 172 / 120 /
-                  138 / 140 / 210 / 82 / 184. **This row exists because Volume 6's Batch 0004 broke it nine
-                  times.** No dialogue paragraph opens without a quotation mark and none runs across a
-                  paragraph break.
-nobody           **22, case-INSENSITIVELY, every one read back out of the file.**
-                  Per chapter: 301 3 · 302 1 · 303 3 · 304 2 · 305 1 · 306 3 · 307 4 · 308 2 · 309 1 ·
-                  310 2. **The first draft ran 36 and every one of the fourteen that were cut was a
-                  restatement.** **The survivors are structural:** Wren Kallo's one sentence at 301 with
-                  three of them in it, because it is her refusing a gift; Mr Sedley's three at 303, which
-                  are the third door; the runner's rule of the floor at 306; and Sun Meiling's sentence at
-                  307. **THE CONSTRUCTION THAT GOES DEAD BY THE TENTH IS *nobody asked*, AND NOT ONE
-                  INSTANCE OF THAT PATTERN IS IN THIS BATCH.**
+                  **Checked by a reporter, NEVER by a splitter.** Fifty-five paragraphs in the drafts and the
+                  repair rounds were over ninety words and **all were split by hand at a speech beat**, and the
+                  whole-file quotation count was checked against the files after each round. **No speech runs
+                  across a paragraph break in any of the ten.**
+exact-dup paras  **whole-paragraph identity test, 311-320 against neighbours 301-320: floor 1 -> 17 groups,
+                  QUOTED 11 and UNQUOTED 6. floor 2 -> 11 groups, all quoted. floor 3 -> 8 groups, all quoted.
+                  UNQUOTED 0 AT FLOOR 2 AND FLOOR 3.**
+                  Quoted groups are dialogue beats: *"Yes."* · *"No."* · *"Go on."* · *"Why."* · *"Four."* ·
+                  *"Lin Hao."* · *"And the second."* · *"It is."* · *"That is not true."* · *"Say the rest of
+                  it."* · *"Tell me."*
+                  **SIX UNQUOTED GROUPS EXISTED IN THE FIRST DRAFTS AND ALL SIX WERE REWRITTEN BY HAND**:
+                  *He looked at her.* (314) · *He did not ask it.* (313) · *He did not move.* (320) ·
+                  *He said it.* (318) · *She got up.* (317) · *Nobody said anything* and *She looked round the
+                  table* (313) · *He had not said anything.* (312).
+                  **ONE NAMED ECHO IS LISTED RATHER THAN EXCLUDED FROM THE ROW: *"Nine minutes," she said.*
+                  It is in closed Chapter 308, said by Isolde Marchetti in her back room, and in 318, said by
+                  Runa Sato on a mattress on Cordwain.** In 308 it is a singer refusing to put a figure on the
+                  end of a thing she has just done to a man; in 318 it is a soldier refusing to say the other
+                  thing after forty minutes, and **he hears it, and says the sentence out loud: *You keep giving
+                  me figures.*** The repetition is the point and the meaning changed, and this batch did not
+                  pretend it was an accident.
+12-GRAM SCAN     **RUN FIRST, AGAINST ALL 320 CHAPTERS, BEFORE THE 8-WORD SCAN, AND REPEATEDLY AFTER EVERY
+                  REPAIR.** Tokenisation and scope are part of the figure.
+                  **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT, OVER ALL 320 CHAPTER FILES:
+                  2,282 duplicate windows book-wide, of which NONE touch 311–320.**
+                  **PUNCTUATION-STRIPPED, LOWER-CASED, SAME SCOPE: 2,925 book-wide, NONE touching 311–320.**
+                  The book-wide figures move as other batches write and they are stated so a later run has
+                  something to compare against.
+                  **THIRTY-ONE DUPLICATE WINDOWS EXISTED IN THE FIRST DRAFTS AND EVERY ONE WAS A REAL DEFECT
+                  AND ALL WERE CUT BY HAND.** The classes, in the order the scan found them:
+                  - **the foot of a printed form, read verbatim in 311, 316 and 320.** 316 was paraphrased
+                    ("at the foot of it four printed lines that any division may act on and nobody in this city
+                    has ever argued about") **and 311 was broken in half** with an attribution beat between the
+                    two clauses, so that **320 carries the whole printed line once and it is the first time he
+                    reads his own household on it.**
+                  - **a form's own phrase, *Persons of reading age keeping an address at the above premises*, in
+                    311, 318 and 320 and against closed 224 and 234.** Reworded in all three.
+                  - **the same sentence about the rightness of a description, in 315 and 317.** Rewritten.
+                  - **Nadia Ferrous's *I have been in this city since I was small*, quoted out of closed 304 into
+                    313 and 320.** Rewritten in both.
+                  - **Alma Quayle's *I have spent thirty years arranging to be the person who can finally say
+                    what a thing is*, out of closed 306, into 314.** Rewritten.
+                  - **the third-floor counter's own opening, out of closed 305, into 311.** Rewritten.
+                  - **Runa Sato's *nineteen years in this building*, against closed 91, in 320.** Rewritten.
+                  - **Chapter 36's *about a third of the way through she stopped being able to*, into 318.**
+                    Rewritten.
+                  - **the printed list's header, against closed 222 and 234, in 320.** Rewritten.
+                  - **six short attributions** — *he turned a printed card round without looking at it* (311,
+                    against 305), *he signed it and dated it* (318, against 310), *you do not know that* (320,
+                    against 97 and 134), *say what it is* (319, against 305), *how long* (320, against six
+                    closed chapters), *which is* (317, against 53).
+                  - **two documents written in one chapter and referred to in another**, which the batch prompt
+                    names as the sharpest duplicate source in this book and which caught this batch **three**
+                    times: **the half landing of Ferrier Street in 314 and the correction line of the same
+                    reason clause in 318; the description's four-part shape in 312 and the same shape read aloud
+                    off a table in 315; and the composition of 34-6-118 on the morning of the thirtieth in 316
+                    and in the Field order at 317.** All three were cut.
+8-word sentences **0 repeated openings against another chapter, over ten words, 311–320, on the re-run.**
+                  **SEVENTEEN EXISTED IN THE DRAFTS AND ALL SEVENTEEN WERE READ AND ALL SEVENTEEN WERE
+                  REWRITTEN**, including a *hand flat on the table* opening in 317 against twenty-one closed
+                  chapters, *she sat down on the edge of the table* in 319 against six, *he turned a printed card
+                  round* in 311 against 305, *Alma Quayle came up the sixty-one steps at seven* in 313 and 315,
+                  and *In about four years a stranger opens* in 313 and 316.
+quote balance    **quotation marks even, whole file, 311-320 -> 10 of 10.** 126 / 122 / 158 / 112 / 106 / 102 /
+                  156 / 148 / 128 / 104. **This row exists because Volume 6's Batch 0004 broke it nine times and
+                  because this batch broke it during repair and it was caught and fixed before the last edit.**
+                  **Eleven paragraphs in the repair rounds opened a speech and did not close it and all eleven
+                  were closed by hand. No dialogue paragraph opens without a quotation mark and none runs
+                  across a paragraph break.**
+nobody           **27, case-INSENSITIVELY, every one read back out of the file.**
+                  Per chapter: 311 4 · 312 4 · 313 3 · 314 1 · 315 3 · 316 3 · 317 4 · 318 **0** · 319 1 ·
+                  320 4. **The first draft ran 38 and eight were cut, five of them restatements.** **The scene
+                  chapter is at zero.** The survivors are structural: Mr Sowerby's four, which are the argument
+                  that a list is cheaper than a judgement; the household's, in 313 and 317, where a refusal is
+                  the point; and **Wren Kallo's single one at 316, *nobody counted me*, which the chapter is
+                  named for.**
+                  **THE CONSTRUCTION THAT GOES DEAD BY THE TENTH IS *nobody asked*, AND NOT ONE INSTANCE OF
+                  THAT PATTERN IS IN THIS BATCH.**
 no person        **0.**  He understood **0**.  He also understood **0**.  He felt **0**, case-sensitive.
 He had woken wanting  **0 of 10.**
-rationed         **NARROW `there (is|are) (no|nothing|not one|nobody)`, case-insensitive: 27.** Per chapter:
-                  301 4 · 302 3 · 303 3 · 304 1 · 305 2 · 306 1 · 307 4 · 308 4 · 309 3 · 310 2.
-                  **WIDE `there (is|was|are) (not )?(one|nothing|no)`, case-insensitive: 30.** Per chapter:
-                  301 5 · 302 3 · 303 3 · 304 1 · 305 2 · 306 1 · 307 5 · 308 4 · 309 4 · 310 2.
-                  **Both regexes are printed because Batch 0005's review found a gate row that gave a
-                  number with no regex, and that is a reproducibility defect of the same class as the 12-gram
-                  row.** **"There is no thirty-first" was stated in four chapters and that was itself a
-                  re-explanation; it is now in 301, 303 and 305 once each and each time it does a different
-                  job, and 305's was rewritten so that the three no longer share a shape.**
+rationed         **NARROW `there (is|are) (no|nothing|not one|nobody)`, case-insensitive: 19.** Per chapter:
+                  311 2 · 312 1 · 313 1 · 314 4 · 315 1 · 316 1 · 317 0 · 318 3 · 319 4 · 320 2.
+                  **WIDE `there (is|was|are) (not )?(one|nothing|no)`, case-insensitive: 23.** Per chapter:
+                  311 1 · 312 1 · 313 1 · 314 5 · 315 1 · 316 1 · 317 0 · 318 3 · 319 6 · 320 4.
+                  **Both regexes are printed because Batch 0005's review found a gate row that gave a number with
+                  no regex and that is a reproducibility defect of the same class as the 12-gram row.** The
+                  concentrations are in 314, where the whole chapter is a sentence and every clause of it is a
+                  denial, and in 319, where a standing order is being defined by what it is not. **They are
+                  not restatements of one another and each batch chapter uses the family once or twice at most
+                  for a different job.**
 weekday          **NO DAY OF THE WEEK IS NAMED IN ANY OF THE TEN CHAPTERS.** Tested whole-word AND as a
-                  substring, case-insensitively, for all seven: **all seven return 0, and a raw grep of the
-                  ten files returns 0 lines.** **THE FIRST DRAFTS NAMED ELEVEN: Wednesday twice in 302,
-                  Wednesday in 303, Monday three times and Sunday once in 304, Monday three times in 309, and
-                  Tuesday in 304 and 308 and 306. Every one was replaced and NO REPLACEMENT WORD WAS A
-                  DAY.** The gate passes because the word is absent and not because a surviving day was
-                  checked.
+                  substring, case-insensitively, for all seven: **all seven return 0, and a raw grep of the ten
+                  files returns 0 lines.** **THE FIRST DRAFTS NAMED NINETEEN: Tuesday in 311, 312, 313, 316 (four
+                  times), 317 (twice), 318 (twice) and 319, Monday six times in 317, and Friday in 315 and twice
+                  in 320. Every one was replaced and NO REPLACEMENT WORD WAS A DAY.** The gate passes because
+                  the word is absent and not because a surviving day was checked.
+                  **THE PRINTED AUGUST AND SEPTEMBER THURSDAY LISTS STILL DISAGREE BY ONE DAY AND WERE NOT
+                  TOUCHED AND WERE NOT RESOLVED IN PROSE.** See `reviews/volume-07/batch-0002.md` §5.
 meta / ages     **0.** *volume, chapter, novel, narrat, the reader, fourth wall* -> 0 in all ten, checked by
-                  raw grep against the files and not by eye. **One real meta slip was found and cut by
-                  hand after the gates were clean: a character in 303 came within four words of saying
-                  *since Volume*, and the sentence was rewritten.**
-                  **NO CHAPTER ANNOUNCES AN AGE.** A broad regex returns 76 hits and every one was read: they
-                  are *twenty-eight days*, *thirty-four six one one eighteen*, *forty-one forms*,
-                  *twenty-two* years of a household bond, *sixteen*, *eight thousand one hundred and
-                  thirty-eight*, and so on. **THE TWO CHARACTERS THIS BATCH COULD HAVE TOLD AN AGE TO AND
-                  DID NOT ARE ISOLDE MARCHETTI AND ALMA QUAYLE, AND HANNEKE RUIS HAS NO AGE FIXED ON HER PAGE
-                  AT ALL.** One draft sentence said *a woman of about thirty-eight* and it was cut on sight.
+                  raw grep against the files and not by eye. **One real meta slip was found and cut by hand
+                  after the gates were clean**: 311 ended *The door he had spent seven volumes keeping shut was
+                  not shut*, and it is now **seven years**.
+                  **NO CHAPTER ANNOUNCES AN AGE.** A broad regex returns hits and every one was read: they are
+                  *thirty-four six one one eighteen*, *eight thousand one hundred and thirty-eight*, *nine
+                  clerks*, *eleven years indoors*, *thirty years*, *a boy of sixteen*, and so on.
+                  **THE THREE CHARACTERS THIS BATCH COULD HAVE TOLD AN AGE TO AND DID NOT ARE ALMA QUAYLE,
+                  HANNEKE RUIS AND MRS IMRIE.** **Mrs Imrie is a new minor character entered by this batch and
+                  no age is fixed for her and none may appear.** **Alma Quayle's son was referred to as a boy
+                  of sixteen, which is a fact already printed in closed Chapter 307 and not an age announced of
+                  anybody present.**
 fades            **`went on a long time` / `went on for a long time` -> 0. `afterwards` -> 0.**
-                  **This row is measured, not inherited: the first drafts of 306 and 308 each contained one
-                  instance and both were cut, and the 308 one was in a sentence about two men failing to lift
-                  a cloth, which is a real scene and not a fade.**
-                  **AND THE ROW THAT MATTERS MOST IN THIS BATCH IS NOT A GREP: the scene body of 308 was
-                  COUNTED AT 663 WORDS IN THE FIRST DRAFT, which is under the nine-hundred floor, and that is
-                  the exact failure Volume 6 shipped at 279, 289 and 299. It is now 1,717 words and the
-                  chapter is 3,758, which is the named exception above.**
-dates            **EVERY INTERVAL WAS SUBTRACTED OUT LOUD AGAINST A DATE PRINTED ELSEWHERE IN THE
-                  MANUSCRIPT, NOT AGAINST THE CHAPTER BEING WRITTEN. The anchors used were: the production
-                  sworn at ten to nine on the first of October (300) · the priced line of the sixteenth of
-                  September (296) · the keys changed on the seventeenth of September (297) · the quarter-book
-                  closed and the floor set at 8,144 on the thirtieth of September (298, 289, 290) · the
-                  correction of the twenty-fourth of August (286) · the certification of the first of
-                  September (290) · the term of the ninth of July (283) · the composition return of the
-                  twelfth of June (283) · the seventh of June (294) · the eighteenth of July and the
-                  twentieth of July (261, 294).**
-                  **THE ANSWER TO WHAT THE ANCHOR CHARACTER DOES ON THE DATES PRINTED IN THIS BATCH:
-                  Hanneke Ruis took the keys on the seventeenth of September and had been in the room
-                  seventeen days on the fourth of October and said so; the eighth name went onto a fresh leaf
-                  at about eleven on the second and the district's book closes on the thirtieth; the thirtieth
-                  of this month is the last working day and the valuation is on the first of next month.
-                  THE ANCHOR CHARACTER ON EVERY ONE OF THOSE DATES IS WREN KALLO'S, and she is the woman who
-                  opens the month and the sentence that closes it.**
-                  **THE ONE DAY-OF-THE-WEEK DISCREPANCY IN THIS MANUSCRIPT WAS NOT TOUCHED AND WAS NOT
-                  RESOLVED IN PROSE.** `state/current.md` and `state/continuity.md` print August's
-                  Thursdays correctly and September's as the seventh, fourteenth, twenty-first and
-                  twenty-eighth, which cannot both be true. Eleven closed chapters depend on the September
-                  list, the page governs, and **this batch's answer was to name no day of the week at all,
-                  which the gate confirms, and to record the discrepancy in
-                  `reviews/volume-07/batch-0001.md` §6.** It is still an open item for the Volume 7 close
-                  audit and no batch may resolve it in prose.
+                  **This row is measured, not inherited: the first drafts of 313, 315, 316 and 318 each
+                  contained one instance of `afterwards` and all four were cut**, and two of them were in
+                  sentences about the shape of a document rather than about a scene.
+                  **AND THE ROW THAT MATTERS MOST IN THIS BATCH IS NOT A GREP: the scene body of 318 was
+                  COUNTED, and it is 1,361 words, which is over the nine-hundred floor.** It was not a fade in
+                  the first draft — it was written out on the first pass — and the count is reported anyway,
+                  because the count is the only thing that catches a fade.
+dates            **EVERY INTERVAL WAS SUBTRACTED OUT LOUD AGAINST A DATE PRINTED ELSEWHERE IN THE MANUSCRIPT,
+                  NOT AGAINST THE CHAPTER BEING WRITTEN. THE ANCHORS USED WERE: the leaf taking eight at about
+                  eleven on the second of October (301) · the referral and the half-filled correction on the
+                  nineteenth (310) · the priced line of the sixteenth of September (296) · the keys changed on
+                  the seventeenth of September (297) · the quarter-book closed and the floor set at 8,144 on the
+                  thirtieth of September (298, 289, 290) · the production sworn at ten to nine on the first of
+                  October (300) · the song at about twenty past eleven on the fifteenth (308) · the term of the
+                  ninth of July (283) · the eighth of October (304) · the twelfth of October (307).**
+                  **THE ANSWER TO WHAT THE ANCHOR CHARACTER DOES ON THE DATES PRINTED IN THIS BATCH: Wren Kallo
+                  took the address at about eleven on the second and made the composition eight; he referred
+                  the account on the nineteenth and left a correction half filled at a counter; Isolde Marchetti
+                  sang it on the fifteenth; the district's book closes on the thirtieth and the thirtieth is the
+                  last working day and there is no thirty-first, so the first of next month is the next working
+                  morning and the Field counter opens at nine. THE ANCHOR CHARACTER ON EVERY ONE OF THOSE DATES
+                  IS WREN KALLO'S and then Alma Quayle's, and the woman who reads the list first at nine on the
+                  first of November is Runa Sato's.**
+                  **TWO DAY COUNTS IN THE FIRST DRAFTS WERE WRONG AND BOTH WERE CORRECTED: Alma Quayle told him
+                  at the sub-level on the twenty-third that he had *eight days*, and he had seven; and she said
+                  at the half landing on the twenty-sixth that the sentence *has been six days* old, and it had
+                  been written on the nineteenth, which is seven.** A third was corrected in 320: three lines in
+                  a day book between two minutes past nine and half past nine is twenty-eight minutes, and the
+                  draft said two hours and eighteen.
 ```
 
-**WHAT CHANGED, AND IT IS NOT NOTHING.** He made himself describable in Volume 6 and in Volume 7 the
-description became true without him. A household of eight is on a fresh leaf, a copy of that leaf is in a
-keeper's room, a song is in nine hundred mouths, a clerk has written on a public leaf that the head of
-those premises would not identify the subject of his own correction, and a head of classification has
-found out at four in the afternoon that a document exists with her name on it and his address four lines
-below that neither of them asked for. **He has never been requisitioned, nothing has been spent, and the
-option that is shut is the one he spent seven volumes keeping.**
+**WHAT CHANGED, AND IT IS NOT NOTHING.** An office described a house and got eight names on a public list
+because he asked it to write the description against his own head instead. **A description was made on the
+twenty-seventh, the list issued at four o'clock on the thirtieth, and every woman in it is now individually
+reachable for the first time in this book.** A Field operative took a standing order on that address on purpose
+and a counter-forensics officer asked to certify its composition in writing. **He is described. He is not
+classified. He has never been requisitioned, nothing has been spent, and the option that is shut is the one he
+spent seven years keeping.**
 
 
-> **THE VOLUME 7 PLANNING PASS WAS REVIEWED BY THE NEXT PHASE AND FOUND WITH ELEVEN DEFECTS, ALL OF THEM
-> FACTS RESTATED, PLUS FOUR OPERATIONAL ONES. ALL ARE FIXED. NOTHING IN THE PLAN MOVED — no plot, no
-> movement, no card's function, no date on the day spine, no scene assignment. THE FULL RECORD IS
-> `reviews/volume-07-planning.md`. THE SEVEN THINGS A LATER BATCH MUST KNOW CHANGED:**
->
-> **1. THE CALENDAR DERIVATION WAS WRONG IN THREE FILES AND IS NOW RIGHT.** It said August 1 a Tuesday puts
-> September's Thursdays on the second, ninth, sixteenth, twenty-third and thirtieth. **Verified: August 1 a
-> Tuesday makes September 1 a Thursday, which puts them on the first, eighth, fifteenth, twenty-second and
-> twenty-ninth.** The printed list — the seventh, fourteenth, twenty-first and twenty-eighth — is the one a
-> September whose first is a **Friday** gives, which would want August 1 to be a Wednesday. **The ruling is
-> untouched and still binding: the page governs, both printed lists stand, and Volume 7 names no day of the
-> week at all.** Only the derivation was wrong, and it mattered because §5 is a section a later batch may not
-> contradict.
->
-> **2. CARD 302 NO LONGER ATTRIBUTES THE REQUEST NOT TO BE WRITTEN DOWN TO THE WRONG WOMAN.** The eighth
-> person is **Wren Kallo**. The request was **Ines Duarte's**, on the ninth of July, in his own hand at
-> Chapter 298. **Ines Duarte is not at those premises and is not on the leaf**, and no batch may put that
-> sentence on her or on Wren. The card now also says his sworn answer is **one day old**, not nine.
->
-> **3. INES DUARTE'S ADDRESS IS NOT SECRET AND IS NOT WRITTEN AS SECRET ANY MORE.** `outline/volume-07.md`
-> §2 used to say nobody could find her in any instrument in this city. **Chapters 283 and 298 both put that
-> address into four divisions in her own hand, on purpose.** What the blank seventh line buys is the narrow
-> true thing: **the address is findable; the line cannot be attributed to her.** §2 now says so in bold.
-> **Item 7 of the Volume 6 Batch 0005 block below carries the old overclaim and has been left as written** —
-> a note in the head block of `state/continuity.md` points at it and corrects it on the way in.
->
-> **4. "THE THIRTY-FIFTH OF SEPTEMBER" IS GONE.** It does not exist and no date may replace it. He swore a
-> figure of seven on the **first of August** and again on the **first of October**, nine seconds each time.
->
-> **5. CHAPTER 339 IS NOW *The Wall Says It Again*.** The old title used `nobody`, which this volume rations
-> in titles, and named a hearing that does not happen in the chapter. The new title names what the chapter is.
->
-> **6. THE BAND ARITHMETIC AT THE VOLUME'S LAST IMAGE IS NOW ANSWERED, AND §7 NO LONGER LEAVES IT OPEN.**
-> **He prints AT the floor — 8,145 on the nose, on the thirtieth of December** — restored by the page he
-> signs at 348 and attested by the bench, and by nothing else. **A man on the floor is not out of band, so the
-> ranks wall carries no word about him at all for the first time since the thirtieth of July.** Stated in
-> `outline/volume-07.md` §6 movement 5, §7, card 349 and Batch 0005's required power changes; all four say a
-> batch may find a better figure and rewrite them.
->
-> **7. THE QUARTERLY CARD DOES NOT MOVE AT 328.** The sixteenth of November is not the last working day of a
-> quarter. The wall figure changes; the card waits for six on the thirtieth of December.
->
-> **AND THE THREE OPERATIONAL ONES, BECAUSE THEY COST A BATCH A DAY EACH IF THEY SURVIVE:** **`chapters/
-> volume-07/` does not exist** and the live prompt now opens with `mkdir -p`; **the title gate said 310
-> written titles when 300 exist** and now says the 300 plus your own ten; and **Batch 0003's climax line no
-> longer names a Thursday.**
->
-> **THE GATE LESSON IS NOW FIVE VOLUMES OLD, AND THIS PHASE IS THE EXAMPLE.** `outline/volume-07.md` §10 said
-> its fifty title counts were "Checked by command … not by eye." **They had not been. The parenthetical
-> character counts were wrong on forty-three of the fifty.** The substantive claims were true; the claim about
-> how they were checked was not. All fifty are now re-derived by command against the file on disk.
+## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED BY WRITING. THE LIVE GATE RECORD IS VOLUME 7 BATCH 0002'S, ABOVE.
 
-## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED BY WRITING. THE LIVE GATE RECORD IS VOLUME 7 BATCH 0001'S, ABOVE.
+> **Volume 7 Batch 0001's live gate block has been REPLACED by Batch 0002's, not supplemented.** This phase
+> was asked for exactly one live block and there is one.
 
 > **NO CHAPTER OF VOLUME 7 EXISTS.** The volume outline is `outline/volume-07.md`, the batch cards are
 > `outline/batches/volume-07-batch-0001.md` through `0005.md`, and the one live next-phase prompt is

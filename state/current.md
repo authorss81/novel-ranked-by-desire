@@ -1,3 +1,269 @@
+# VOLUME 7, BATCH 0002 — HEAD RECORD. CHAPTERS 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER.
+
+## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
+
+**This supersedes Volume 7 Batch 0001's block immediately below it as the position**, and that block is
+retained below as the record of what was believed before these ten chapters existed. Every figure it carried is
+still true and none of it moved. **Volume 6's blocks are further below and are superseded as to position.**
+
+**Volume 7 is open. It is not closed and this batch did not close it.** It runs to 350 and its remaining scene
+budget is **329, 340 and 350.**
+
+## 1. WHAT THE BATCH DID
+
+**It described a house, and then it wrote the description against a man, and the eight women went out on the
+ordinary stream at four o'clock on the thirtieth with their names and their rooms on it.**
+
+**THIS IS WHERE THE VOLUME TURNS AND IT TURNS AGAINST HIM, EXACTLY AS THE PLAN SAID IT WOULD.** The door he had
+never been offered is real, it is merciful, and he takes it in about nine seconds in a kitchen with eight women
+and a clerk watching.
+
+**Ch 311 is the third floor of the Wing and a man who will not describe a sheet he cannot produce.**
+Mr Sowerby tells him the thing Batch 0001 did not have room for: **a referral has three parts and a DESCRIPTION
+OF PREMISES HAS FOUR, and the fourth is a list of persons.** He is handed a real one — premises 19-1-6, seven
+names, seven dates, the figure against the head — and the list says nothing whatever about what any of them is.
+**The list goes out at four in the afternoon on the day it is made and any division in Ostara may carry it out
+of the room without giving a reason.** Eleven divisions keep a public list; a district leaf, a plate office and
+the Vestry will all match it against their own books, in the ordinary way, at nine in the morning, and not one
+of the eleven will have a thought about it. **The order of the list is the order of the stair, and he is at the
+top of it.** And Sowerby tells him the thing that is not advice: **the form that makes a man the subject of his
+own premises is in the sub-level, it has been there since before he came, and about four people in this city
+know it exists.** He rides eleven stops and does not get off at his own stop the first time.
+
+**Ch 312 is the head of classification and three things she refused.**
+Alma Quayle gives him the four promotions she turned down in thirty years and what each of them cost her: a
+window, a warrant to reopen anything she had signed, and the best and warmest room in the building. **She
+wanted to be the woman who has to say what a thing is while somebody with an interest in the answer is standing
+in front of her.** Then she gives him the form — address, figure, reason, and a line for the head with his hand
+and the date under it — and the rule she wrote herself in the fourth year of doing this: **the list is attached
+and is issued with the description, because a description of a man with nothing under it is an opinion about
+himself and is worth the paper it is on.** And she tells him, on the twenty-third, that she has known since ten
+past nine that morning that he is going to say yes, **and she tells him on purpose so that he has the choice of
+knowing that she knows.** She puts the sheet down face up on the stool at an angle a man cannot avoid and does
+not ask him today.
+
+**Ch 313 is the courtesy, and the household watches it work.**
+She comes up sixty-one steps at seven on the twenty-fourth with nothing in her hands and a form: a name, the
+date you took that address, and the room. **She wrote the third column in herself, because a printed form with
+two obliges somebody to work out which of the two they would rather leave off.** Eight lines in eight hands,
+and she says plainly that it does not make the eight exist — they have been on a district leaf with a clerk's
+number since about eleven on the second — **it makes them hers instead of a young man's handwriting.** Eight
+women who wrote a line have been asked and answered; eight women who wrote nothing have had a description done
+to them, and in about four years there is not one word of difference except the hands above the names.
+**Agnete Lindqvist has no date**, and Alma Quayle takes the year from the building and writes *from the
+building* in brackets, which she has done twice in thirty years. **And Beatrix Halm counts the lines and asks
+how many, and he does not ask the ninth question**, and there are about four seconds in that kitchen in which
+everybody knows exactly what was not being asked.
+
+**Ch 314 is the sentence and the four words in it that are false.**
+On the half landing at ten past six on the twenty-sixth she reads him four lines. *It is recommended that the
+account be treated as unadministrable, being a figure with no subject.* **Three lines are true and four words
+are not, and the four words are the whole of it.** There is no reservoir in it, because there is no such word in
+this city. She did not send it on the nineteenth because she wanted to be in the room when he heard it. And she
+tells him, going down four steps, why a person who has written *a figure with no subject* for thirty years gets
+it wrong every time: **because it is the only figure in this city every officer wants to be the man who found
+the subject of.** He stands at the top of the sixty-one steps in the dark and sees the whole thing at once.
+**The sentence she wanted to write was a refusal to describe him, and a refusal to describe him was a
+description of him.**
+
+**Ch 315 IS THE MIDPOINT AND THE IRREVERSIBLE DECISION IS HIS.**
+At seven on the twenty-seventh Alma Quayle comes up with **Mrs Imrie of the counting staff**, so that what is
+said goes into a division in the clerk's hand and not out of hers. She writes the reason clause first, dated and
+signed and initialled, and puts two versions of the description side by side on the cleared table. He is asked
+the question in front of eight women. He says three words: **"Against me."** She says, *say why, not for me,
+for the eight of them and for the file.* And he says **"Because it is cheaper,"** and Mrs Imrie writes it down
+in the ordinary way with the time against it, because she has been taught that at a desk and because she cannot
+tell that it is the worst sentence anybody has ever entered. **It is granted in minutes.** The description is
+made at nine with his name at the head of it and the eight names attached, **in the order of the stair**. He is
+told the one thing that does not matter and the one thing that does: **a person may give an address up at any
+counter at any hour and it will lower the composition, and the list will still say eight on the thirtieth
+because it is made and it is dated and it goes out at four.** And at the door she leaves him with the last
+practical fact in the batch: the first counter in this city that stands a man or a woman in front of is the
+Field counter at Cordwain, and it opens at nine on the morning of the first, and **Runa Sato is on it.**
+
+**Ch 316 is Wren Kallo and it is the one that is not counted.**
+She asks him into the Bureau's counter-forensics room at seven forty with three conditions, the second of which
+is that **he is never to ask her anything about that address again, in that building or out of it, for as long
+as he is alive**, and she means it and has been waiting eleven days for him to be somewhere he cannot argue.
+The fair copy went for check on the twenty-eighth and came back to her own division's tray at a quarter to
+eight. **Her line is fourth from the top and it carries her posting — counter-forensics, Bureau of Merit — and
+it is the only posting on the sheet.** On the twenty-fourth she asked Alma Quayle, in a kitchen, whether the
+office went on the list, and was told no, kindly, at four o'clock in the afternoon. **She asked the wrong
+instrument.** A list does not carry work. A description of premises carries the post of anybody at that address
+who holds one, and Alma Quayle signed that rule in the ninth year of doing this and was right. The one true
+thing: **nobody counted her. She walked up to a counter on the second and made herself the eighth name of a
+house she had never lived in.** She would do it again at about eleven in the morning, and the price is her
+division, and there are nine women on two floors who now know where she sleeps and none of them asked. And she
+asks, in writing and in her own hand, to be the officer who certifies the composition of premises 34-6-118 on
+the thirtieth, **so that in about four years the answer to why a counter-forensics officer certified her own
+address is a line in a kitchen in eight hands.**
+
+**Ch 317 is the kitchen and he tells them why, out loud, before anybody can find it.**
+Eight women and a man and a table that was not cleared. He says the description is made and it has his name at
+the head of it and the reason he gave was four words about money. **Nadia Ferrous stands up.** Then he gives
+the real reason — a description of a man can be examined and a description of a house cannot — **and Agnete
+Lindqvist tells him it is the reason he gave in July about the street, and that she has been indoors eleven
+years and has never once been a name on anything, and that she is not sorry, and that is the part she finds
+frightening.** **Nadia Ferrous withdraws the fraud she offered in October and gives the true reason, which is
+that he would be at the counter within a week.** Petra Ilyin asks whether anybody can be un-listed and the
+answer is no, in one line, and it is the answer Alma Quayle gave on Monday and it is not explained again.
+**Agnete Lindqvist says the word: a term is a price paid in advance for something that has not arrived, and
+the price has been named, and it is eight lines long and she wrote one of them.** And Sun Meiling asks the
+question the batch turns on — *who examines you* — and he says he gets to answer it, too quickly, and she tells
+him what will actually be examined. **And then Runa Sato says she has a Field order on the premises dated the
+twenty-seventh and she is going to answer it.**
+
+**Ch 318 IS THE SCENE AND IT IS RUNA SATO'S. THE THIRTIETH OF OCTOBER, MORNING. A requisitioned flat above a
+chandler's on Cordwain, taken for eleven days as a post for the holding of a return.**
+She has been awake since four and three-quarters of a return is done. He comes at eight and says four words:
+**file the truth.** She files it, and it is true in every line, **and it is useless, because a return is a
+figure and a date and answers the question it was asked, and a standing order on a composition does not mention
+a man.** A description of premises was made on the twenty-seventh, in the same minute the description issues,
+and that is not a coincidence and she has had two days to notice it. Then the scene, **written out, with the
+terms stated in the imperative before it begins and no sedation, exhaustion, restraint, psychic contact, trance
+or seal anywhere in it — her gift is not used on anybody and she is alert and directing throughout.** She makes
+him say the reason clause into a wall in Cordwain, because about forty officers will read it at four o'clock and
+none of them will know what is underneath it. She says nine minutes twice and refuses to say the other thing at
+eight in the morning. **And she tells him she has applied for a standing order on that address on the
+twenty-seventh, in her own name, with the reason box left blank on purpose, and that he cannot protect her from
+it, because protection in this city is a thing you do to somebody by asking them for something.**
+
+**Ch 319 IS THAT ORDER, IN THE MUSTER ROOM AT CORDWAIN, IN THE MIDDLE OF THE AFTERNOON, AND IT IS NOT A SCENE.**
+A standing order is a licence, not a warrant: **any officer of the division may be sent to that door on any
+working day without asking anybody and not one person in that building will stop it, including people who are
+not enemies.** He comes with the argument that he can get it reviewed and she dismantles it in eleven minutes —
+a review does not strike an order, it puts her name next to the only thing in this city that has ever reached
+her. **She asks for one thing, and it is the only thing she asks him for in the batch: a written rule, on the
+ordinary stream, in his hand, that he is not going to ask for her release from any standing order on that
+address for the life of this account.** She says it is not a question, because the moment it is a question the
+arrangement becomes a conversation about whether he will. **He writes it on a pad in the muster room at about
+ten to three on the thirtieth and she reads it standing over his shoulder and says it is the first thing he has
+written since the sixteenth of September and that she is going to be the only person who knows he wrote it.**
+
+**Ch 320 IS THE LIST, AND IT IS ORDINARY.**
+At four o'clock on the thirtieth it goes out on the ordinary stream in a leather tube, and a runner comes up the
+sixty-one steps at ten past five with a receipt and nothing else, and nobody on the stairs ever hears of it
+again. **On the morning of the first, at two minutes past nine, Lin Hao asks for a copy of the list of persons
+at his own address at the Field counter, in a queue, without giving a reason, because none is required, and
+Runa Sato writes the time in the book and does not write a reason under it and pushes the sheet under the
+grille.** The eight lines are printed in the order of the stair with the rooms against them. Then the man from
+a merchant house comes at eleven minutes past nine and gives no reason either, and a guild clerk at twenty past,
+and a district clerk at half past who walked twenty minutes to be told to ask. **Three lines in a day book in
+one hand and not one word of reason against any of them.** It goes to eleven divisions this morning and
+fourteen by December. **It cannot be stopped and it cannot be unpicked and it is not a weapon; the only way the
+world has ever dealt with a piece of paper that says where eight people sleep is to stop writing it down.**
+
+**THE SCENE IS 318 AND IT IS THE ONLY ONE. 311 TO 317, 319 AND 320 HAVE NO SCENE AND MAY NOT BE GIVEN ONE.**
+The volume's gaps are 299 → 308 = 9, 308 → 318 = 10, and 318 → 329 = 11. **The scene body of 318 is 1,361 words
+and was counted.**
+
+## 2. THE POSITION AT CHAPTER 320 — EVERY FIGURE ON THE PAGE
+
+Plate **8,138**. Band floor **8,144**. Tolerance three. **Six under**, in two words on a public wall that have
+not changed since the thirtieth of July. Ledger **118 lines, nine turned, the ninth still himself. Nothing
+spent.** File **4,112, one folio open, no second. NO CLASSIFICATION COMPLETED. No rank earned, no rank lost.**
+
+**THE COMPOSITION OF PREMISES 34-6-118 IS EIGHT.** It has been eight since about eleven o'clock on the second of
+October, on a fresh leaf of the quarter-book that opened on the first, in a clerk's hand, with a clerk's number.
+**THE PRICED LINE IN THE VANT'S REAL BOOKS STILL SAYS SEVEN**, dated the sixteenth of September, initialled and
+not signed, answerable by the composition of those premises. **There are two figures for one door in two books
+in two buildings and both are true and neither has moved.**
+
+**A DESCRIPTION OF PREMISES WAS MADE ON THE TWENTY-SEVENTH OF OCTOBER AGAINST THE HEAD OF THE PREMISES AND NOT
+AGAINST THE ADDRESS, ON HIS OWN ASKING AND IN HIS OWN REQUEST.** It is signed by Alma Quayle and dated and
+initialled once. **THE CLASSIFICATION IS NOT COMPLETED AND MAY NOT BE, IN THIS VOLUME.** What the Wing holds is
+a described subject and an open file. **A described account is administered rather than priced, and there is
+nothing yet to administer it against, and in about four years a stranger will look for the subject.**
+
+**THE REASON CLAUSE WAS WRITTEN ON THE TWENTY-SEVENTH AND IS ALMOST ENTIRELY TRUE.** Four lines. True in three,
+and false in four words: *it is recommended that the account be treated as unadministrable, being a figure with
+no subject.* It does not contain the word reservoir, because there is no such word in this city. It carries no
+author and no singer's name.
+
+**THE LIST OF PERSONS AT THE ADDRESS WENT OUT ON THE ORDINARY STREAM AT FOUR O'CLOCK ON THE THIRTIETH AND WAS
+AT THE FIELD COUNTER AT CORDWAIN AT NINE THE NEXT MORNING.** Eight names, in the order of the stair, with the
+rooms against them and a date against every line, entered in eight hands on the twenty-fourth and checked by
+counter-forensics on the twenty-ninth. **A person may give an address up at any counter at any hour and it will
+be dated and it will lower the composition, and the list does not change, because it is made and dated.**
+**THE OPTION CLOSED AND IT IS THE ONE THE VOLUME TURNED ON: the household's invisibility is gone, eight women
+are individually reachable for the first time in this book, and he may not unname anybody.**
+
+**THE THINGS THAT ARE NEW ON THE PAGE AND WERE NOT AT 310:**
+**Mr Sowerby, a third-floor counter clerk who will not describe a sheet he cannot produce, and who put the
+sheet down and told him where it was** · **Mrs Imrie, a clerk of the counting staff who came up sixty-one steps
+to make sure nothing goes into a division in Alma Quayle's hand alone, and who entered *because it is cheaper* at
+a kitchen table with the time against it** · **a standing order to observe premises 34-6-118, granted in four
+minutes to Runa Sato on the twenty-seventh with the reason box left blank** · **a certificate of a composition
+that Wren Kallo has asked for by name in writing at the top of a column** · **a written undertaking of the
+thirtieth, in his own hand, that he will not ask for Runa Sato's release from any standing order on that address,
+lodged, with her name on it, and she is the only person who knows he wrote it** · **three lines in a Field day
+book on the morning of the first of November, each one a copy issued and no reason given** · **and a copy of the
+list in the hands of a clerk from a merchant house, who folded it once and put it inside his coat.**
+
+**THE HOUSEHOLD AS IT NOW STANDS.** Eight women in the building, four on the roll and four on nothing at all,
+and **all eight of them are now on a public list with their rooms on it.** Sun Meiling is line one and has said
+the thing about a term. Runa Sato holds a Field standing order and a day book and is on the counter at nine on
+the first of November by choice. Wren Kallo has put her division on a list on purpose and will not be asked
+about that address again. Beatrix Halm has the answer she asked for on the eighth of October and it is worse
+than she thought. Nadia Ferrous has withdrawn her own fraud and given the reason. Agnete Lindqvist is on a list
+for the first time in eleven years and is not sorry and that is the frightening part. Isolde Marchetti is line
+seven and nothing whatever in this batch is said about what she did on the fifteenth of October.
+**Tessa Okonkwo is not at those premises and is not one of the eight.** Marguerite Vale holds the keys she no
+longer has and four lines in a drawer. Hanneke Ruis holds the counting room and her note of the sixteenth is
+spent. **Ines Duarte is not at those premises, is not on the list, and is not one of the eight. NO PAPER HAS
+BEEN READ TO INES DUARTE IN HER OWN ROOMS AND THE TERM OF THE NINTH OF JULY HOLDS WHOLE.**
+
+## 3. WHAT A LATER BATCH WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day. THE NEXT VALUATION
+   IS THE FIRST OF NEXT MONTH AT TEN TO NINE, and there will be no production off that door and no mark entered
+   against it.** Volume 7's remaining spine is the third to the sixteenth of November, the nineteenth to the
+   thirtieth of November, and the first to the thirtieth of December.
+2. **VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL**, and this batch named nineteen in the first drafts and cut every
+   one without putting a day in its place.
+3. **A REFERRAL HAS THREE PARTS AND A DESCRIPTION OF PREMISES HAS FOUR.** The fourth is a list of persons of
+   reading age keeping an address, in the order of the stair, with a date against each line. **A referral is
+   signed by the man who asks for it; a description is signed by the head of classification.** The two are
+   never confused.
+4. **THE LIST OF A DESCRIPTION OF PREMISES CARRIES THE POST OF ANYBODY AT THAT ADDRESS WHO HOLDS A PUBLIC ONE.**
+   The list alone does not carry work. Alma Quayle signed that rule in her ninth year and was right about it.
+5. **A DESCRIPTION ISSUES AT FOUR IN THE AFTERNOON ON THE DAY IT IS MADE, AND THIS ONE WAS MADE ON THE
+   TWENTY-SEVENTH AND HELD THREE DAYS BECAUSE THE THIRTIETH IS THE LAST WORKING DAY.** An initialled fair copy
+   goes to the divisions that keep public lists for check two days before it issues.
+6. **A LIST CANNOT BE CORRECTED, WITHDRAWN OR UNISSUED. A COMPOSITION CAN CHANGE, AND THE ONLY WAY IT CHANGES
+   IS A PERSON GIVING AN ADDRESS UP OR PUTTING ONE ON.** Both are true at once and the second does not touch the
+   first.
+7. **A STANDING ORDER IS A LICENCE AND NOT A WARRANT.** It ends by one request in writing from the head of the
+   premises, and **the only one that could have ended Runa Sato's has been refused by him in his own hand and
+   lodged.** Nobody in this city can compel anybody and nothing in this batch touched a person.
+8. **THE CLASSIFICATION IS NOT COMPLETED.** A description exists, the file is open, and the finding is not
+   entered. **He is described. He is not classified, and `outline/volume-07.md` §7's *a classification completed
+   against him* is still shut.**
+9. **NOTHING HAS BEEN SPENT FROM THE RESERVOIR IN THREE HUNDRED AND TWENTY CHAPTERS.** No draw, no grain, no
+   turn of the count, no settle clock, no settle date, no rank earned or lost, no requisition tabled, no folio
+   opened, no routing, and Lin Wei's file shut until 372.
+10. **NOTHING HAS BEEN ROUTED AND NOTHING WILL BE.**
+
+## 4. WHAT IS OPEN, AND WHAT BATCH 0003 OWNS
+
+**The account is described and open, and a described account is administered rather than priced.** Batch 0003
+owns **321–330, the third to the sixteenth of November: the thing he had never done, the plate moving, and the
+mechanism beat, which is this batch's to inherit and not to spend.** **THE MECHANISM BEAT IS BATCH 0003'S: a
+movement of unrecorded merit out of an address and into an account requires a Seal, and the file does not open
+until 372.**
+
+**Standing and unclosed:** Alma Quayle's undelivered sentence of the nineteenth, still in a division ·
+**Mrs Imrie's entry of *because it is cheaper*, with the time against it** · **Runa Sato's standing order and
+his written undertaking, and she is the only person who knows he wrote it** · **Wren Kallo's certificate of a
+composition, asked for by name in writing** · **the eight lines in eight hands and the fair copy** · **Runa
+Sato's day book with three lines and no reason against any of them** · **a copy of the list in a merchant
+house** · **the ninth turned line's meaning** · **Marguerite Vale's four lines in a drawer** · **Sun Meiling's
+bar and her sentence** · **Ines Duarte's standing review, and the term of the ninth of July, which must be whole
+when he breaks it himself at 337** · **the ninth terrace** · **the rehearsal book** · **and the song, which is
+out, and which nobody has claimed, and which no chapter in this batch softened.**
+
+---
+
 # VOLUME 7, BATCH 0001 — HEAD RECORD. CHAPTERS 301–310. THE SECOND OF OCTOBER TO THE NINETEENTH.
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES

@@ -9,8 +9,8 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** || 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batch 0001 written (301–310).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scene at 308 is Isolde Marchetti's and is written out; 318 Runa Sato, 329 Marguerite Vale, 340 Ines Duarte, 350 Wren Kallo remain.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.** | Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0001/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Planned scenes at 308, 318, 329, 340 and 350 — Isolde Marchetti, Runa Sato, Marguerite Vale, Ines Duarte, Wren Kallo — and the volume ends on the thirtieth of December with the card at six and him on the floor at 8,145, where the ranks wall finally says no word about him.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record.** |
-| 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batch 0001 written (301–310).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scene at 308 is Isolde Marchetti's and is written out; 318 Runa Sato, 329 Marguerite Vale, 340 Ines Duarte, 350 Wren Kallo remain.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.**
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** || 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batches 0001 and 0002 written (301–320).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scenes at 308 (Isolde Marchetti) and 318 (Runa Sato) are written out; 329 Marguerite Vale, 340 Ines Duarte and 350 Wren Kallo remain. At 315 he asked that the description be written against the head and not against the address, and eight women went out on a public list at four o'clock on the thirtieth. Batch 0002 rewrote §6 movement 2 against the page.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.** | Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0001/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Planned scenes at 308, 318, 329, 340 and 350 — Isolde Marchetti, Runa Sato, Marguerite Vale, Ines Duarte, Wren Kallo — and the volume ends on the thirtieth of December with the card at six and him on the floor at 8,145, where the ranks wall finally says no word about him.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record.** |
+| 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batches 0001 and 0002 written (301–320).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scenes at 308 (Isolde Marchetti) and 318 (Runa Sato) are written out; 329 Marguerite Vale, 340 Ines Duarte and 350 Wren Kallo remain. At 315 he asked that the description be written against the head and not against the address, and eight women went out on a public list at four o'clock on the thirtieth. Batch 0002 rewrote §6 movement 2 against the page.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.**
 
 > **Volumes 1 to 5 are CLOSED IN PROSE and their per-chapter summaries are at
 > `state/archive/chapter-summaries-v1-v5.md`,** moved there on Batch 0004's review pass because this file had reached
@@ -988,3 +988,138 @@ accepted, a sentence drafted and not sent, by the head's own word, preferring th
 her. It is in a division inside the hour. It is the first document in this business with her whole name at
 the head of it and his address four lines below, and she finds out at four in the afternoon and cannot do one
 single thing about it for the rest of the year.**
+
+---
+
+## Volume 7 — Seven
+
+> In this volume, **Lin Hao must survive classification**, or **the reservoir is requisitioned by the Concil of
+> the Nine and stops being his**.
+
+### Volume 7, Batch 0002 — Chapters 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER.
+
+**Ten chapters, nine days. ONE SCENE, at 318, and it is Runa Sato's, and it is written out — the scene body is
+1,361 words and was counted. 311 to 317, 319 and 320 have no scene and may not be given one.** The gap is
+308 → 318 = 10 and the next gap is 318 → 329 = 11. **THIS IS THE BATCH THE VOLUME TURNS ON, AND IT TURNS AGAINST
+HIM: he is offered the door he has never been offered, he takes it in nine seconds in a kitchen, and it costs
+eight women their invisibility.** Read `reviews/volume-07/batch-0002.md` before inheriting any date from these
+summaries.
+
+**311 — The Classification Of A House.** The twenty-second, the third floor of the Wing, Mr Sowerby. **A referral
+has three parts and a description of premises has four, and the fourth is a list.** He is handed a real
+description of premises 19-1-6 and reads it standing up: seven names, seven dates, a figure, and at the foot a
+printed line saying the instrument is a public record any division may act on without a reason. **The list says
+nothing whatever about what a person is, and it is cheaper than a judgement, which is why an office prefers it.**
+Eleven divisions keep a public list; a district leaf, a plate office and the Vestry will all match it against
+their own books at nine in the morning and not one of the eleven will have a thought about it. **The order is
+the order of the stair and he is at the top of it.** Sowerby names where the form that makes a man the subject
+of his own premises is kept and says he is not going to describe a sheet he cannot produce. **He rides eleven
+stops and does not get off at his own stop the first time.**
+
+**312 — The Head Of Classification.** The twenty-third, the second sub-level. **Alma Quayle's four refusals in
+thirty years** — a seat in Records with a window, the whole of the Correction Office under one roof with a
+warrant to reopen anything she had signed, and the best and warmest room in the building, which she turned down
+after nine days and a sleepless eighth night. **She wanted to be the woman who has to say what a thing is while
+somebody with an interest in the answer is standing in front of her.** Then the form: address, figure, reason,
+and a line for the head with his hand and the date under it, **with the list attached and issued together,
+because a description of a man with nothing under it is an opinion about himself.** And she tells him, on
+purpose, that she has known since ten past nine that morning that he is going to say yes, so that he has the
+choice of knowing that she knows. She puts the sheet down face up at an angle a man cannot avoid.
+
+**313 — A Woman With Thirty Years Of It.** The twenty-fourth, the kitchen, eight lines in eight hands. She comes
+with a form — name, date of taking the address, room — **and wrote the third column in herself, because a form
+with two obliges somebody to decide which of the two they would rather leave off.** She says plainly that it
+does not make the eight exist: they have been on a district leaf with a clerk's number since about eleven on the
+second. **It makes them theirs instead of a young man's handwriting, and the difference between eight women who
+wrote a line and eight women who wrote nothing is the only difference there will ever be.** Wren Kallo asks
+whether the office goes on it and is told no, kindly, at four o'clock. **Agnete Lindqvist has no date at all,
+and Alma Quayle takes the year from the building and writes *from the building* in brackets, twice in thirty
+years.** **Beatrix Halm counts the lines and asks how many, and he does not ask the ninth question, and four
+seconds in that kitchen know exactly what was not asked.**
+
+**314 — The Sentence She Wants To Write.** The twenty-sixth, the half landing at ten past six. Four lines, true
+in three and **false in four words: *it is recommended that the account be treated as unadministrable, being a
+figure with no subject.*** There is no reservoir in it, because there is no such word in this city. She wrote
+it on the nineteenth and did not send it because she wanted to be in the room when he heard it. **And she says
+why a person who has written *a figure with no subject* for thirty years gets it wrong: it is the only figure
+in this city every officer wants to be the man who found the subject of.** He stands at the top of the
+sixty-one steps in the dark and sees it. The sentence was a refusal to describe him, and the refusal was a
+description of him.
+
+**315 — The Version With Eight On It. THE MIDPOINT, AND THE IRREVERSIBLE DECISION IS HIS.** The twenty-seventh,
+seven o'clock, **Alma Quayle with Mrs Imrie of the counting staff**, so that nothing goes into a division out of
+Alma Quayle's hand alone. She writes the reason clause first and signs and initials it. Two versions of the
+description go on the table side by side. **He says three words — "Against me" — and when she asks why, for the
+eight of them and for the file, he says *because it is cheaper*, and Mrs Imrie enters it with the time against
+it because she has been taught that at a desk.** It is granted in minutes; it is cheaper to administer and
+easier to appeal. **The description is made at nine with his name at the head of it and the eight names
+attached in the order of the stair.** She tells him the thing that does not matter (a person may give an
+address up) and the thing that does (the list will still say eight, because it is made and dated and it issues
+at four). **And at the door: the Field counter at Cordwain opens at nine on the morning of the first, and
+Runa Sato is on it.**
+
+**316 — The One Who Is Not Counted.** The twenty-eighth, the Bureau's counter-forensics room. **Wren Kallo's
+three conditions, and the second is that he is never to ask her anything about that address again, for as long
+as he is alive.** The fair copy came back to her own division's tray at a quarter to eight. **Her line is
+fourth from the top and carries her posting — counter-forensics, Bureau of Merit — and it is the only posting
+on the sheet**, because a description of premises carries the post of anybody at that address who holds one and
+a list does not. She asked the wrong instrument in a kitchen on the twenty-fourth and believed the answer and
+the answer was true and the instrument was the wrong one. **The one true thing: nobody counted her. She walked
+up to a counter on the second and made herself the eighth name of a house she had never lived in, in daylight.**
+She would do it again at about eleven in the morning and the price is her division, and there are nine women on
+two floors who now know where she sleeps and none of them asked. **She asks in writing, at the top of a column,
+to be the officer who certifies the composition of those premises on the thirtieth.**
+
+**317 — The Price Of A Term.** The twenty-ninth, evening, kitchen, table not cleared. **He tells them what he
+did and why before anybody can find it, and the reason he gave the city was four words about money.** Nadia
+Ferrous stands up. Then he gives the real reason — a description of a man can be examined, a description of a
+house cannot — **and Agnete Lindqvist tells him it is the reason he gave in July about the street.** She has
+been indoors eleven years and has never been a name on anything and **she is not sorry and that is the part she
+finds frightening.**** **Nadia Ferrous withdraws the fraud she offered in October and gives the real reason, which
+is that he would be at the counter within a week.** Petra Ilyin asks whether anyone can be un-listed and gets
+the answer in one line and it is not explained again. **Agnete Lindqvist supplies the word: a term is a price
+paid in advance for something that has not arrived, and the price has been named and it is eight lines long and
+she wrote one of them.** **Sun Meiling asks who examines you, and he answers too quickly, and she tells him what
+will actually be examined.** And Runa Sato says she has a Field order on the premises dated the twenty-seventh.
+
+**318 — The Report That Was True And Useless. THE SCENE. Runa Sato. The thirtieth, morning, a requisitioned
+flat above a chandler's on Cordwain.** Three-quarters of a return is done at eight. He says four words: **file
+the truth.** She files it and every line of it is true **and it is useless, because a return is a figure and a
+date and a standing order on a composition does not mention a man** — and a description of premises was made on
+the twenty-seventh, in the same minute the description issues, which is not a coincidence and she had two days
+to notice. **Then the scene, written out, unhurried once it begins, terms stated in the imperative before it
+starts, no sedation, exhaustion, toxin, restraint, psychic contact, trance or seal anywhere in it, and her gift
+used on nobody.** She makes him say the reason clause into a wall, because forty officers will read it at four
+and none of them will know what is under it. She says nine minutes twice and will not say the other thing at
+eight in the morning. **And she tells him she applied for a standing order on that address on the twenty-seventh
+in her own name with the reason box left blank, and that he cannot protect her from it, because protection in
+this city is a thing you do to somebody by asking them for something.**
+
+**319 — The Order She Took On Purpose.** The thirtieth, the middle of the afternoon, the muster room at
+Cordwain. **NOT A SCENE.** The standing orders are printed at the head of it in a case the size of a door.
+**A standing order is a licence and not a warrant: any officer of the division may be sent to that door on any
+working day without asking anybody, and not one person in that building will stop it, including people who are
+not enemies.** He comes with the argument that it can be reviewed and she takes it apart in eleven minutes —
+a review does not strike an order, it puts her name next to the only thing in this city that has ever reached
+her. **She asks for one thing and it is the only thing she asks him for: a written rule, in his hand, on the
+ordinary stream, that he will not ask for her release from any standing order on that address for the life of
+the account.** She says it must not be a question, because the moment it is a question the arrangement becomes a
+conversation about whether he will. **He writes it on the pad in the muster room at about ten to three and she
+says it is the first thing he has written since the sixteenth of September and that she is the only person who
+will ever know he wrote it.** And she makes him promise to ask for a copy of the list at the grille, in the
+ordinary way, without a reason, **because she wants it to be a queue.**
+
+**320 — The List Of Persons At An Address.** The thirtieth after four, and the morning of the first at nine.
+At four it goes out on the ordinary stream in a leather tube and a runner comes up sixty-one steps with a
+receipt and nothing else, and nobody on the stairs ever hears of it again. **At two minutes past nine Lin Hao
+asks for a copy of the list of persons at his own address at the Field counter, in a queue, without a reason,
+and Runa Sato writes the time in the book and does not write a reason under it.** The eight lines are printed
+in the order of the stair with the rooms against them: **Sun Meiling, top floor, kitchen · Runa Sato, top floor,
+rear · Petra Ilyin, first floor, front · Wren Kallo, second floor, fourth door, counter-forensics, Bureau of
+Merit · Beatrix Halm, second floor, second door · Nadia Ferrous, third floor, first door · Isolde Marchetti,
+third floor, last door · Agnete Lindqvist, ground floor, by the street door.** Then three copies go out in one
+morning with no reason against any of them — a merchant house at eleven minutes past nine, a guild house at
+twenty past, a district clerk at half past who walked twenty minutes to be told to ask. **Eleven divisions this
+morning, fourteen by December. It cannot be stopped, it cannot be unpicked, and it is not a weapon; the only
+way the world has ever dealt with a piece of paper that says where eight people sleep is to stop writing it
+down.**

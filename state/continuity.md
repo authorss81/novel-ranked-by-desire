@@ -22,6 +22,162 @@ the cheaper mistake and the wrong one.
 `state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
 long-range position, before any of this.**
 
+## Volume 7, Batch 0002 — CHAPTERS 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER. LIVE.
+
+**Volume 7 is open. Twenty chapters are on disk in `chapters/volume-07/`.** The head block is in
+`state/current.md`; the live gates are in `state/open-threads.md`; the review record is in
+`reviews/volume-07/batch-0002.md`. **Batch 0001's block is below this one and is superseded as to position, and
+every figure it carried is still true and none of it moved.**
+
+> **READ THIS BEFORE WRITING 321. TWELVE THINGS ARE ON THE PAGE NOW AND A LATER BATCH MAY NOT RE-DERIVE THEM.**
+>
+> **1. A REFERRAL HAS THREE PARTS AND A DESCRIPTION OF PREMISES HAS FOUR.** Address, figure, reason — and a list
+> of the persons of reading age keeping an address at the premises, **in the order of the stair, with a date
+> against every line.** The referral is signed by the man who asks for it. **The description is signed by the
+> head of classification and by nobody else.** The two instruments are never confused in this batch and may not
+> be confused in a later one.
+>
+> **2. A DESCRIPTION OF PREMISES WAS MADE ON THE TWENTY-SEVENTH OF OCTOBER AGAINST THE HEAD OF THOSE PREMISES
+> AND NOT AGAINST THE ADDRESS, ON HIS OWN ASKING, IN A KITCHEN, IN FRONT OF EIGHT WOMEN AND A CLERK.** He gave
+> the reason in four words: *because it is cheaper.* **The option closed and it is the one the volume turned on:
+> the household's invisibility is gone, eight women are individually reachable for the first time in this book,
+> and he may not unname anybody.**
+>
+> **3. THE CLASSIFICATION IS NOT COMPLETED AND MAY NOT BE COMPLETED IN THIS VOLUME.** What exists is a
+> description and an open file. **No finding has been entered and nothing has been administered, because there
+> is nothing yet to administer it against.** `outline/volume-07.md` §7's *a classification completed against him*
+> is still shut, and this is the sentence that keeps it shut.
+>
+> **4. THE LIST WENT OUT ON THE ORDINARY STREAM AT FOUR O'CLOCK ON THE THIRTIETH AND WAS AT THE FIELD COUNTER
+> AT CORDWAIN AT NINE THE NEXT MORNING.** Eight names, the rooms against them, a date against every line, the
+> dates entered in eight hands in a kitchen on the twenty-fourth and checked by counter-forensics on the
+> twenty-ninth. **There is no thirty-first of October and the first of next month is the next working morning.**
+>
+> **5. A LIST CANNOT BE CORRECTED, WITHDRAWN OR UNISSUED, AND A COMPOSITION CAN CHANGE.** A person may give an
+> address up at any counter at any hour of any day; it will be dated, and it will lower the composition of those
+> premises. **The list will still say eight on the thirtieth, because it is made and dated and it issues at
+> four.** Both facts are true at once and a later batch may not collapse them.
+>
+> **6. A LIST DOES NOT CARRY WORK. A DESCRIPTION OF PREMISES CARRIES THE POST OF ANYBODY AT THAT ADDRESS WHO
+> HOLDS A PUBLIC ONE.** Wren Kallo asked Alma Quayle the wrong question in a kitchen on the twenty-fourth and was
+> told no, kindly, at four o'clock in the afternoon, and was right to believe her and wrong to ask. **Alma Quayle
+> signed that rule in her ninth year of doing this and was right about it.**
+>
+> **7. RUNA SATO HOLDS A STANDING ORDER TO OBSERVE PREMISES 34-6-118 AND THE PERSONS KEEPING IT.** Applied for
+> on the twenty-seventh in her own name, granted in about four minutes, **reason box left blank on purpose
+> because a blank is a louder answer than a written one.** It is a licence and not a warrant: any officer of
+> the Field may be sent to that door on any working day without asking anybody, and not one person in that
+> building will stop it, including people who are not enemies.
+>
+> **8. HE HAS WRITTEN, IN HIS OWN HAND, ON THE ORDING PADDING IN THE MUSTER ROOM AT CORDWAIN, ON THE THIRTIETH
+> OF OCTOBER, THAT HE WILL NOT ASK FOR HER RELEASE FROM ANY STANDING ORDER ON THAT ADDRESS FOR THE LIFE OF THE
+> ACCOUNT.** It is lodged and it goes into a division. **She is the only person in the city who knows he wrote
+> it.** This is the standing instruction in register, and like the sixth line in Chapter 250 **it has no figure
+> against it, is not a debt, and will never be invoiced. DO NOT CONVERT IT.**
+>
+> **9. WREN KALLO HAS ASKED IN WRITING, AT THE TOP OF A COLUMN, TO BE THE OFFICER WHO CERTIFIES THE COMPOSITION
+> OF THOSE PREMISES ON THE THIRTIETH.** She put herself into the leaf on the second of October and has said so
+> out loud four times. **He may not ask her anything about that address again, in any room, ever, and she will
+> say she does not know what he is talking about, in front of whoever is there.**
+>
+> **10. THE REASON CLAUSE WAS WRITTEN, DATED, SIGNED AND INITIALLED ON THE TWENTY-SEVENTH.** Four lines, true in
+> three and false in four words: *it is recommended that the account be treated as unadministrable, being a
+> figure with no subject.* **It does not contain the word reservoir, because there is no such word in this
+> city.** It names no author and no singer and it cannot be reproduced in writing, because the only copy of it is
+> in nine hundred mouths.
+>
+> **11. MRS IMRIE ENTERED *because it is cheaper* IN A DIVISION, WITH THE TIME AGAINST IT.** She is a clerk of
+> the counting staff, she came up sixty-one steps on the twenty-seventh because Alma Quayle did not trust
+> herself with a sentence before four in the afternoon, and **she is a new named minor character of this
+> manuscript with no age fixed anywhere and none given on the page.**
+>
+> **12. NOTHING IS SPENT AND NOTHING HAS MOVED.** Plate 8,138, floor 8,144, six under, the two words on the wall
+> unchanged since the thirtieth of July. Ledger 118 lines, nine turned, the ninth still himself. File 4,112,
+> one folio open. **No draw, no spend, no turn of the count, no grain out of the reservoir, no rank earned or
+> lost, no requisition tabled, no folio opened, no routing, no second folio, and Lin Wei's file shut until 372.**
+> **Nothing has been routed. The promise of the twenty-seventh of August stands.**
+
+### 1. THE CALENDAR, AND THE DAY MAP TRACED AGAINST PRINTED ANCHORS
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day. The next valuation is
+the first of next month at ten to nine, and the mark is entered by the broker holding the book — and there will
+be no mark entered against premises 34-6-118, because there is no production off that door and there never will
+be again.**
+
+**VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL.** All ten chapters return zero for every weekday, whole-word and as
+a substring, and the gate passes because the word is absent rather than because a surviving day was checked.
+
+| Ch | Day | To the 30th | Days since the anchor | What it is |
+| --- | --- | --- | --- | --- |
+| **311** | **22 Oct** | **8** | **20** since the leaf took eight; **3** since the referral | four parts and a list; the form she will not describe |
+| **312** | **23 Oct** | **7** | **21** since the leaf; **4** since the referral | three things she refused; the form; she knows he will say yes |
+| **313** | **24 Oct** | **6** | **22** since the leaf; **5** since the referral | the courtesy; eight lines in eight hands; the unasked ninth |
+| **314** | **26 Oct** | **4** | **24** since the leaf; **7** since the referral | the sentence and the four false words |
+| **315** | **27 Oct** | **3** | **25** since the leaf; **8** since the referral | **HE ASKS FOR IT AGAINST THE HEAD. THE IRREVERSIBLE DECISION.** |
+| **316** | **28 Oct** | **2** | **26** since the leaf; **9** since the referral | Wren Kallo, her posting, her certificate |
+| **317** | **29 Oct** | **1** | **27** since the leaf; **10** since the referral | he tells the kitchen why; Agnete's term; the Field order |
+| **318** | **30 Oct**, morning | **0** | **28** since the leaf; **11** since the referral | **THE SCENE. Runa Sato's.** The return, true and useless |
+| **319** | **30 Oct**, the middle of the afternoon | **0** | **28** since the leaf | the standing order; the pad in the muster room |
+| **320** | **30 Oct** after four, and the **first of next month** at nine | — | **28** since the leaf | the list issues and is read at a counter |
+
+Anchors, unchanged, all inherited or printed in this batch: **the leaf of the second of October at about eleven**
+· **the priced line of the sixteenth of September** · **the keys changed on the seventeenth of September** ·
+**the quarter-book closed and the floor set at 8,144 on the thirtieth of September** · **the production sworn at
+ten to nine on the first of October** · **the correction left half filled at a counter and the clerk's entry on
+the nineteenth** · **Alma Quayle's undelivered sentence at 11.40 on the nineteenth** · **the song sung at about
+twenty past eleven on the fifteenth** · **the card taken down at two that morning** · **the term of the ninth of
+July** · **the twenty-seventh, the twenty-eighth and the thirtieth, which are this batch's own printed dates.**
+
+### 2. WHAT THE BATCH PUT ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT
+
+1. **A referral has three parts and a description of premises has four, and the fourth is a list.**
+2. **The list is in the order of the stair, with a date against each line, and the head of premises is at the
+   top of it.**
+3. **The list is not a judgement and says nothing whatever about what any person is. It is cheaper than a
+   judgement, which is why an office prefers it and a wing prefers the other thing.**
+4. **A description of premises carries the public post of anybody at that address who holds one. The list does
+   not carry work at all.**
+5. **A list cannot be corrected, withdrawn or unissued. A composition changes only by a person giving an address
+   up or putting one on, in the ordinary way, with a date and a clerk's number.**
+6. **An initialled fair copy of a description goes to the divisions that keep public lists for check, and a
+   check goes two days before an issue.**
+7. **A description issues at four in the afternoon on the day it is made. This one was made on the twenty-seventh
+   and held until the last working day.**
+8. **A standing order on an address is a licence, not a warrant, and it ends only by a written request from the
+   head of the premises.**
+9. **The eight lines are in eight hands and are dated, and the fair copy is the record.**
+10. **The eight are Sun Meiling, Runa Sato, Petra Ilyin, Wren Kallo, Beatrix Halm, Nadia Ferrous, Isolde
+    Marchetti and Agnete Lindqvist, in that order, top of the stair down.** Tessa Okonkwo is not one of the
+    eight and is not at those premises. **Ines Duarte is not on the list, is not one of the eight, and no paper
+    is read to her in her own rooms. The term of the ninth of July holds whole and is broken by him at 337.**
+
+### 3. INHERIT UNCHANGED FROM BATCH 0001, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE IT
+
+1. **The composition is eight on a fresh leaf; the priced line says seven; both are true.**
+2. **He refused to swear eight on the nineteenth and he never will, and the clerk's entry of that refusal is on
+   the district leaf with a date. There is no production off that door on the first of next month.**
+3. **The account was referred for classification on the nineteenth with the reason being a song made in public
+   on the fifteenth which cannot be reproduced in writing and for which no author has been paid.**
+4. **Hanneke Ruis holds the counting room, answered him in writing on the sixteenth, and has no age fixed on her
+   page and none on this one.**
+5. **The seventh returned line of the third of June is permanently blank because a bound book closed on the
+   thirtieth of September, and its protection as a blank line is spent.**
+6. **A composition counts persons of reading age keeping an address at the premises, and it changes only by a
+   person giving an address up or putting one on.**
+7. **A called standing is answered at a valuation by paying it or by a production, and the mark is at ten to
+   nine on the first and is entered by the broker holding the book.**
+8. **An initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence.**
+9. **`bible/power-system.md`'s band table is illustrative and the page governs. No threshold is derived from it
+   anywhere in this batch.**
+10. **The song is out, cannot be recalled, and what Isolde Marchetti did on the fifteenth of October is not
+    undone, softened or regretted by anybody in this batch or by this batch's prose.** Her name is line seven on
+    a list and that is all the chapter says about her.
+11. **Agnete Lindqvist's eleven years indoors were advanced in 317 and not closed. Solveig Rask's own term is
+    spent. The ninth turned line's meaning was not opened.**
+12. **The Concil of the Nine was named once in this volume, at 307, in a kitchen, and was not named again in this
+    batch.**
+13. **Nothing has been spent, nothing has moved, nothing has been routed, and nothing will be.**
+
 ## Volume 7, Batch 0001 — CHAPTERS 301–310. THE SECOND OF OCTOBER TO THE NINETEENTH. LIVE.
 
 **Volume 7 is open. Ten chapters are on disk in `chapters/volume-07/`.** The head block is in
