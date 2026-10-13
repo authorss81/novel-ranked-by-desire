@@ -1,4 +1,70 @@
-## Volume 7, Batch 0003 — CHAPTERS 321–330. THE THIRD TO THE SIXTEENTH OF NOVEMBER. LIVE.
+## Volume 7, Batch 0004 — CHAPTERS 331–340. THE NINETEENTH TO THE THIRTIETH OF NOVEMBER. LIVE.
+
+**Forty chapters are on disk in `chapters/volume-07/`.** Head in `state/current.md`; live gates in `state/open-threads.md`; review in `reviews/volume-07/batch-0004.md`. **Batch 0003's block below is superseded as to position. Batch 0002's and 0001's remain for their calendar and fixed figures.**
+
+> **READ THIS BEFORE WRITING 341. THE PLATE HAS FALLEN, THE ELEVEN DAYS ARE OVER, THE TERM OF THE NINTH OF JULY IS SPENT, AND A DOCUMENT IS IN A DRAWER ON LANTERN ROW.**
+>
+> **1. PLATE 8,131. FLOOR 8,144. EIGHT UNDER. HE IS NOT AT SEVEN AND HAS NOT BEEN SINCE THE PLATE OF THE TWENTY-SECOND.** The two words from the thirtieth of July are on the ranks wall again and are not news any more. Next floor 8,145 on the thirtieth of December.
+> **2. LEDGER 121 LINES, NINE TURNED, THE NINTH STILL HIMSELF. NOTHING SPENT.** *The total rose from 118 because he kept his round at the Fourth Branch and kept earning; the turned count did not move in ten chapters, which is the entire point of the ten chapters. Do not confuse the two figures.*
+> **3. NOTHING SPENT, NOTHING DRAWN, NOTHING ROUTED, NO REQUISITION TABLED, NO FOLIO OPENED, LIN WEI'S FILE SHUT UNTIL 372.** The only grain that moved anywhere in this batch is one a woman refused on the floor of her own building.
+> **4. THE MECHANISM IS CANON AND IS REFERRED TO, NEVER RE-EXPLAINED:** movement needs a seal; nine seals; a year a use; no standing no seal; handed account; the brother's seal matches the account and not the man.
+> **5. THE ELEVEN DAYS ARE OVER.** Day one was the nineteenth of November; the eleventh ended at midnight at the end of the twenty-ninth. Counted from a ward slip in a clinic, out loud, in 331; counted again backwards in 339. **No settle date exists and none was invented.**
+> **6. THE ACCOUNT IS CALLABLE.** Under its floor since the plate of the twenty-second. **The valuation is the first of December at ten to nine, the mark is entered by the broker holding the book on a pen on a chain, a called account is answered by paying it or by a production, and there is no production off premises 34-6-118.** The books holding the priced line went to a guild table at seven on the morning of the sixteenth and are in hands he did not appoint.
+> **7. INES DUARTE'S TERM IS SPENT AND WAS SPENT BY HIM.** No paper was read to her in her own rooms before the twenty-eighth of November. **NO PAPER WILL BE READ IN THAT ROOM AGAIN — NOT TO HER AND NOT BY HER.** She did not come under his roof and is not on the list and is not one of the eight.
+> **8. DO NOT NAME THE CONCIL AGAIN (named once in this volume, at 307). ANOUK NOT UNTIL 344. ALMA NOT VILLAIN, NO AGE. HANNEKE, MRS IMRIE, HANDA WRITING HAND, WANDA REJ: NO AGE ANYWHERE.** **DO NOT COMPLETE THE CLASSIFICATION.**
+> **9. WREN KALLO'S CERTIFICATE WAS MADE ON THE THIRTIETH OF NOVEMBER AT NINE IN THE MORNING: eight, signed, in her own division, at the address. He may not ask her anything about that address and he has never asked.**
+
+### 1. THE CALENDAR, AND EVERY INTERVAL RE-SUBTRACTED
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and the last working day of a quarter's last month. THE NEXT VALUATION IS THE FIRST OF DECEMBER AT TEN TO NINE, and that is Batch 0005's first morning.**
+
+**VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL.** Batch 0004 wrote nine weekdays in its drafts and cut every one, replacing them with printed dates or with "the end of the week". Zero for all seven weekdays, whole-word and substring.
+
+| Ch | Day | To the 30th | Days since the anchor | What it is |
+| --- | --- | --- | --- | --- |
+| **331** | **19 Nov** | **11** | **3** since the books went to the guild table; **20** since the list; **23** since the description; **64** since the priced line; **133** since the term | **THE DECISION.** Eleven dates on a slip, counted out loud. Day one |
+| 332 | 20 Nov | 10 | **1** since the nineteenth; 2 since the books went out | the bin floor at two in the morning; four marks in carpenter's pencil |
+| 333 | 21 Nov | 9 | **2** since the nineteenth; 3 since the sixteenth | a source of the size of a tram load goes out of the current |
+| 334 | 23 Nov | 7 | **4** since the nineteenth; **24** since the list; **52** since the leaf took eight; **27** since the description | **the plate at 8,139 and the two words back** |
+| **335** | **25 Nov** | **5** | **6** since the nineteenth; **9** since the books went out; under the floor **3** days | **A FIGURE UNDER A FLOOR.** Callable. The fall at two in the morning of the twenty-sixth |
+| 336 | 27 Nov | 3 | **8** since the nineteenth; **31** since the description; **28** since the list; **11** since the books went out; **141** since the term | Lantern Row; the ask; three terms |
+| **337** | **28 Nov** | **2** | **9** since the nineteenth; **32** since the description | **SHE READS IT.** A day lost and a drawer |
+| 338 | 29 Nov | 1 | **10** since the nineteenth; **13** since the books went out | the eleventh day running; three slips burned and one filed |
+| **339** | **30 Nov, morning** | **0** | **11** since the nineteenth | **the count again; 8,131; the certificate at nine** |
+| **340** | **30 Nov, at night** | **0** | 11 since the nineteenth | **THE SCENE. Ines Duarte's.** Body 1,450 words |
+
+Anchors, all printed elsewhere and none moved: the leaf of the second of October at about eleven · the priced line of the sixteenth of September · the keys changed on the seventeenth of September · the quarter-book closed and the floor set at 8,144 on the thirtieth of September · the production sworn at ten to nine on the first of October · the correction refused and the referral signed on the nineteenth · the song sung at about twenty past eleven on the fifteenth of October and the card pulled down at two that morning · eight hands in a kitchen on the twenty-fourth of October · the description made against the head at nine on the twenty-seventh · the fair copy on the twenty-eighth · the list out at four on the thirtieth · Runa Sato reads it at nine on the first of November · the plate up at half past four on the fifteenth of November, the twenty-second and the twenty-ninth · **the books to a guild table at seven on the morning of the sixteenth** · **the term sworn in the dark on the ninth of July.**
+
+### 2. WHAT BATCH 0004 PUT ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT
+
+1. **A turned person keeps the count in her own writing.** Four cold minutes over nine months on the back of her left hand, in a carpenter's pencil, with a date under each. **The Vestry's ward book is a record that answers to the Vestry, and a chart is a document an office can read.**
+2. **Nine turned lines are a shape; ten are an address.** Tessa Okonkwo's arithmetic, given once, and not to be re-derived.
+3. **A DRAW IS THE ONLY THING THAT TURNS A PERSON. NOT SPENDING TURNS NOBODY**, which is why eleven days of it is survivable and why the cost falls on the body rather than on the count.
+4. **A PLATE FALLS WHEN NOTHING IS ATTESTED.** It is not a memory of a week. 8,184 → 8,139 → 8,131.
+5. **AN ACCOUNT CARRIED UNDER ITS FLOOR IS CALLABLE**, and a called account is answered at a valuation by paying it or by a production.
+6. **THE HAND THAT CAN CALL IT IS NOT HIS.** The books that hold the priced line went to a guild table at seven on the morning of the sixteenth.
+7. **A DESCRIPTION OF PREMISES HAS FOUR PARTS AND THE FOURTH IS A LIST**, arranged the way a staircase arranges itself, and a list does not carry work. **THE OFFICER WHO CERTIFIES THE COMPOSITION OF AN ADDRESS MAY BE A PERSON WHO KEEPS THAT ADDRESS**, and there is no instrument in this city that can examine her about it.
+8. **A FALSE ATTESTATION IS NOT A FRAUD IF EVERY COLUMN IN IT IS ACCURATE.** The date is accurate, the premises are accurate, the deed is accurate. It is simply not a deed.
+9. **A LIST OF PERSONS AT AN ADDRESS AND THE PLATE FOR THAT ADDRESS ARE THE SAME OBJECT IN THE CITY'S MOUTH FROM THE THIRTIETH OF NOVEMBER**, and neither one of them can be unpicked.
+10. **A RECORD HELD IN AN AUDITOR'S HEAD ETCHES, AND ONE OF FOUR SHEETS OF FILE 4,112 HAS TAKEN A DAY SHE CANNOT DATE.** She knows what she was holding, because what she was holding is the only record she has ever read that had something cut out of it. **She does not say which record and no batch may make her say.**
+11. **THE HOUSEHOLD'S INTELLIGENCE WENT BLIND ON THE TWENTY-FIRST AND CAME BACK ON THE TWENTY-NINTH HAVING FOUND NOTHING.** None of the eight gives anything to anybody.
+
+### 3. INHERITED FROM BATCH 0003, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE IT
+
+1. **The composition is eight; the priced line says seven; both are true; neither corrects the other.**
+2. **He refused to swear eight on the nineteenth of October and he never will, and the clerk's entry of that refusal is on a public leaf with a date. There is no production off that door.**
+3. **The account was referred for classification on the nineteenth with the reason being a song made in public on the fifteenth which cannot be reproduced in writing and for which no author has been paid.** It was made against the head of the premises, not the address, on his own asking, in a kitchen, in front of eight women and a clerk. **The classification is described and NOT completed and may not be completed in this volume.**
+4. **Three attestations move the plate and his own deeds never score. Whoever writes carries it for four years.**
+5. **A standing order is a licence and not a warrant** and **his lodged undertaking of the thirtieth of October bars him from asking for Runa Sato's release for the life of the account. She is the only person who knows he wrote it. It has no figure against it, is not a debt, and will never be invoiced. Do not convert it.**
+6. **Alma Quayle's undelivered sentence of the nineteenth sits in a division. Mrs Imrie's entry of *because it is cheaper* has the hour against it.**
+7. **Marguerite Vale is unprotected.** Her books went to nine people at seven on the morning of the sixteenth and cannot be taken back.
+8. **The seventh returned line of the third of June is permanently blank** because a bound book closed on the thirtieth of September.
+9. **`bible/power-system.md`'s band table is illustrative and the page governs. No threshold in this batch was derived from it.**
+10. **The song is out and unsoftened** and nothing in this batch touches what Isolde Marchetti did on the fifteenth of October.
+11. **Agnete Lindqvist's eleven years indoors were advanced and not closed. The ninth turned line's meaning was not opened. The bare slot on the Reading wall was not opened.**
+12. **The Concil of the Nine was named once in this volume, at 307, and was not named again.**
+
+## Volume 7, Batch 0003 — CHAPTERS 321–330. THE THIRD TO THE SIXTEENTH OF NOVEMBER. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED FOR ITS CALENDAR AND ITS FIXED FIGURES.
 
 **Thirty chapters are on disk in `chapters/volume-07/`.** Head in `state/current.md`; live gates in `state/open-threads.md`; review in `reviews/volume-07/batch-0003.md`. **Batch 0002's block below is superseded as to position.**
 

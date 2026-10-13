@@ -1,4 +1,189 @@
-## Volume 7, Batch 0003 — LIVE GATE RECORD (Chapters 321–330). THE THIRD TO THE SIXTEENTH OF NOVEMBER. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+## Volume 7, Batch 0004 — LIVE GATE RECORD (Chapters 331–340). THE NINETEENTH TO THE THIRTIETH OF NOVEMBER. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+
+> **Every number below was produced by command against the files as they stand AFTER THE LAST PROSE EDIT, by a pass that did not write the prose, with tokenisation and scope stated wherever a number needs them. The 12-gram scan ran FIRST, before the 8-word scan, against all 340 chapter files, and again after every repair round. No paragraph splitter ran at any floor, ever. The only pass over paragraphs is a reporter that prints lengths and writes nothing. Every over-length paragraph was split by hand at a speech beat, and whole-file quotation counts were re-checked after each round.**
+
+**Ten chapters, twelve days. A month is thirty days and has no thirty-first. The thirtieth is the last working day.** Day map: 331 the 19th, the decision and the printed count · 332 the 20th, the bin floor at two in the morning · 333 the 21st, the household's intelligence goes blind · 334 the 23rd, the plate at 8,139 and the two words back · 335 the 25th, A FIGURE UNDER A FLOOR, the account callable, and the fall at two in the morning · 336 the 27th, Lantern Row and the ask · 337 the 28th, THE IRREVERSIBLE DECISION, she reads it · 338 the 29th, the eighth of them, eleven lines in eight hands, and a false slip · **339 the 30th, morning, the count read again and the wall at 8,131** · **340 the 30th, at night, INES DUARTE'S SCENE, body 1,450 words, counted AND probed**.
+
+### Gates run after the last edit
+
+```
+files            chapters/volume-07/ -> 40 files (0301..0340). 340 chapter files total.
+                 `git status --porcelain` returns the ten new files
+                 chapters/volume-07/chapter-0331.md .. chapter-0340.md and NOTHING ELSE.
+                 **No closed chapter touched, including 301–330, and no controller file.**
+                 (State, review, outline and the one next-phase prompt are added by the same phase
+                 and are listed by the final run; the fiction tree is clean.)
+titles           unique across ALL 340 written titles -> NONE duplicated anywhere in the book.
+                 Over 90 chars -> 0. None of the ten begins with *What*; none is built out of
+                 *there is no*, *nobody*, *nothing* or *what*. Checked by command against every
+                 file in `chapters/`.
+                 331 Eleven Days Of Not Spending (27) · 332 The Woman At Two In The Morning (31) ·
+                 333 A Line That Went Cold (21) · 334 The Count That Went Down In Public (34) ·
+                 335 A Figure Under A Floor (22) · 336 The File He Asked Her To Open (29) ·
+                 337 Her Own Rooms, And Her Own Word (31) · 338 Eight Women On One Line Of Type (31) ·
+                 339 The Wall Says It Again (22) · 340 The Auditor Who Came Back Anyway (32).
+                 All ten are the names banked in `outline/volume-07.md` §10, used as printed.
+                 The book's 28 titles beginning with *What* are all inherited from Volumes 1–5
+                 (chapters 16, 24, 39, 42, 63, 66, 76, 98, 105, 109, 110, 113, 118, 121, 127, 131,
+                 135, 137, 141, 142, 147, 195, 216, 223, 226, 232, 243, 245, 246, 250) and are
+                 closed. Volume 7 keeps its own at zero.
+wc 331-340       2269 / 2077 / 1840 / 1890 / 1922 / 2076 / 2092 / 2105 / 1987 / **3894**.
+                   **NINE INSIDE 1,800–2,700 AND ONE NAMED LEAVER.**
+                   **340 LEAVES THE BAND AT 3,894 AND THE NAMED REASON IS: it is the scene chapter,
+                   its scene body is 1,450 words measured from `## The Two Rooms` to
+                   `## What She Read To Him` exclusive of both, and the chapter carries three
+                   instruments that close the batch (a file in a drawer in Lantern Row, a request on
+                   the ordinary stream for the whole of file 4,112 before the valuation of the first
+                   of December, and the reversal of the term of the ninth of July). `outline/volume-07.md`
+                   §4 permits a scene chapter to leave the band on a stated reason and this is the
+                   stated reason. Nothing was padded: every paragraph in it is a beat the chapter
+                   turns on, and the chapter was cut by roughly 300 words during repair, not grown.**
+markup           bold 0 | italic 7 SPANS across the batch | blockquote 0 | table 0 | horizontal
+                 rule 0 | code block 0. METHOD: asterisks inside a single non-heading line,
+                 `\*\*[^*]+\*\*` for bold and a single-star span for italic.
+                 The seven italic spans are all documents, not prose: 334 the two words painted on
+                 the ranks wall, 335 the keeper's written answer (three lines: the question, the
+                 answer, the signature), 338 the word *proper* inside Runa Sato's own sentence, and
+                 340 the first two words of a sentence she is reading off a sheet. No bold anywhere.
+system panels    **4 x 10, one per chapter maximum: 331, 332, 335, 339.** No chapter contains more
+                 than one bracket line; 333, 334, 336, 337, 338 and 340 contain no "[" at all.
+                 **A CLOCK STARTS, so a panel is due.** 331 starts the eleven; 332 names the refused
+                 draw; 335 reports the ledger going up while the plate goes down; 339 reports the
+                 count. **NO SETTLE DATE INVENTED OR PRINTED ANYWHERE IN THE BATCH**, and the
+                 eleven days are counted from a printed date on a slip in a clinic, not from a
+                 settle clock.
+paragraphs       over 90 words -> **0**. Over 120 -> **0**. All ten.
+                  Reporter only, never a splitter. Fifty-three over-ninety paragraphs were found in
+                  the first pass and every one was split BY HAND at a speech beat or at a sentence
+                  beat inside a narration paragraph, with a new line of dialogue opened and closed
+                  where a speech was divided. Whole-file quotation counts re-checked after each
+                  round; the round that added stray quotation marks was found by the whole-file
+                  quote-balance gate and all five were closed by hand.
+exact-dup paras  whole-paragraph identity, 331–340 against neighbours 321–340:
+                  floor 1 -> 9 groups, **QUOTED 9 UNQUOTED 0**. floor 2 -> 0. floor 3 -> 0.
+                  **UNQUOTED 0 AT ALL THREE FLOORS.**
+                  Quoted beats, all short speeches: "Why." · "Yes." · "Why not." · "Go on." ·
+                  "I know." · "Who." · "No." · "Agreed." — plus **"Eight thousand one hundred and
+                  thirty-one."**, which is the figure Beatrix reads at a quarter to six in the dark
+                  and he reads back out loud at eleven in the morning, and it is FRAMED: the
+                  chapter names what it is returning to in the sentence between them ("because a wall
+                  is read whole and he had been taught that at a quarter to six").
+ 12-GRAM SCAN     **RUN FIRST, AGAINST ALL 340 FILES, BEFORE THE 8-WORD SCAN, AND AGAIN AFTER
+                  EVERY REPAIR ROUND. WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT, SCOPE =
+                  EVERY CHAPTER FILE IN `chapters/`: 2,808 duplicate windows book-wide,
+                   **0 touching 331–340**.**
+                  VARIANT TOKENISATION (lower-cased, punctuation and digits stripped to spaces),
+                  SAME SCOPE: 3,765 book-wide, **0 touching 331–340**.
+                  Both tokenisations are named because Batch 0003 shipped a figure taken from a
+                  tokenisation it did not name. Book-wide figures move as batches write; the
+                  scope+tokenisation pair is the comparison.
+                  **Classes fixed, every one found by command and not by eye:**
+                  Lantern Row's stair lifted verbatim from 280 (11 windows) · the fair-copy
+                   sentence from 321 · the Herta Vogel slip description and the painter's
+                   "word for word, because painters know walls the way clerks know books" from
+                   328 (3 groups) · "a list of persons of reading age keeping that address, in
+                   the order of the stair..." across 321 and 337 · the eleven-date count across
+                   331 and 339 (10 windows, resolved by breaking the run in 339 and by Sun
+                   Meiling finishing the count, and by 339 counting it backwards) · the "you are
+                   not permitted to ask me a question about this address" rule across 338/339 ·
+                   the internal repeats inside 335, 337 and 338 · and **a construction this batch
+                   accidentally built four times while correcting its own date arithmetic** —
+                   "of the eleven still to run, the last of them ending at midnight at the end of
+                   the twenty-ninth" — which the 12-gram gate caught at 29 windows in 333/334/335/
+                   336 after the date fix and which was rewritten four different ways.
+ 8-word sentences 0 repeated openings over ten words, 331–340. Two were found and rewritten in
+                  repair: an identical eight-word opening across the closing lines of 337 and 340,
+                  and the repeated eleven-day construction above.
+quote balance    even whole-file **10 of 10**: 102 / 98 / 70 / 92 / 66 / 110 / 130 / 116 / 96 / 166.
+                  (Re-measured after the last prose edit. Five paragraphs opened a speech and left
+                  it unclosed while the long paragraphs were being split; the whole-file gate found
+                  all five and they were closed by hand.)
+LINE BOUNDARIES  **RUN FIRST, BEFORE ANY OTHER GATE, BECAUSE BATCH 0003 SHIPPED TWELVE LOST BREAKS
+                  THAT NO WHOLE-PARAGRAPH GATE COULD SEE.** Rule: a non-heading line opening with a
+                  capital or an opening quotation mark whose predecessor is a non-heading line
+                  ending in `.` `!` or `?`, with no blank line between. Two paragraphs hard-wrapped
+                  into one.
+                  **301–310 -> 0. 311–320 -> 0. 321–330 -> 0. 331–340 -> 0.**
+                  Re-run after every split round, because this batch split fifty-three paragraphs
+                  by hand and a hand split is exactly how a blank line goes missing.
+INTRA-PARAGRAPH   0 — the same sentence twice inside one paragraph, across 331–340.
+REPEATS           Also 0 — the same sentence, six words or more, duplicated from an earlier
+                  paragraph of the same file, across 331–340. The one file-level repeat the gate
+                  does report is the framed figure read in 339, named above.
+nobody / no person / He understood / He also understood / He felt / He had woken wanting
+                  counted case-INSENSITIVELY and read back per chapter.
+                  **nobody -> 30 (331 4 · 332 3 · 333 2 · 334 2 · 335 3 · 336 2 · 337 2 · 338 6 ·
+                  339 2 · 340 4).** Every instance is a different sentence; eight were rewritten in
+                  repair, including the only two that were using the word as a filler.
+                  **no person -> 0. He understood -> 0. He also understood -> 0. He felt -> 0
+                  case-sensitive AND 0 case-insensitive. He had woken wanting -> 0.**
+                  Four further false positives of a loose case-insensitive scan were removed rather
+                  than reported: *And she felt it anyway* became *And she took it anyway* (331);
+                  the floor covering in 332 is baize and no longer reads as the verb; *he understood
+                  that this was not an accident* became *he saw that* (340); *he felt it happen*
+                  became *he kept still for the whole of it* (340).
+weekday          **EVERY WEEKDAY 0, whole-word AND substring, all seven, all ten chapters**, by raw
+                  string search. Nine were in the first drafts (Tuesday, Monday, Friday, Saturday)
+                  and every one was replaced with a printed date or with "the end of the week".
+                  **Volume 7 still names no day of the week at all.** The printed August/September
+                  Thursday discrepancy is untouched and is not resolved in prose.
+meta / ages      **0.** novel|narrator|reader|this volume|volume <digit>|chapter -> 0 by regex.
+                  The token *volumes* occurs six times (331 x3, 333, 334, 339) and is the book's
+                  own ledger idiom, in dialogue, exactly as in closed chapters.
+                  **NO CHAPTER ANNOUNCES AN AGE.** `years old`, `aged`, `of about`, `of about
+                  seventeen`, and `since he was twenty` were all removed or rewritten in repair.
+                  Durations remain and are not ages: eleven years of the bin round, eleven years of
+                  Agnete Lindqvist indoors, nine years of Beatrix Halm's notebook, four years since
+                  Wren Kallo's request, one hundred and forty-one days since the ninth of July.
+fades            `it went on a long time` -> 0. `afterwards` -> 0 (all seven removed in repair).
+                  **SCENE COUNT AND PROBE, BOTH IN THE ROW, BECAUSE A COUNT IS NOT A PROOF.**
+                  **COUNT: 1,450 words, `## The Two Rooms` -> `## What She Read To Him`, exclusive
+                  of both headings. PROBE, case-insensitive, read as words:** mouth 6 · came 9 ·
+                  inside 5 · hair 7 · thigh(s) 2 + 2 · tongue 2 · fingers 2 · wet 2 · cock 1 ·
+                  shaft 1 · breasts 1 · nipples 1 · gasp 1 · lick 1 · hips 1 · come 1.
+                  A count over nine hundred with an empty probe is a fade. This count with this
+                  probe is a scene.
+dates            **EVERY INTERVAL RE-SUBTRACTED OUT LOUD AGAINST PRINTED ANCHORS ELSEWHERE, never
+                  against the chapter that states it. This batch found and corrected EIGHT wrong
+                  intervals in its own first pass.**
+                  Anchors, all printed elsewhere: the list went out 30 Oct at four · Runa Sato read
+                  it 1 Nov at nine · the books went to a guild table 16 Nov at seven · the
+                  description was made against the head 27 Oct at nine · the fair copy 28 Oct ·
+                  Wren Kallo took the address 2 Oct at about eleven and the leaf took eight · the
+                  priced line 16 Sep · the keys 17 Sep · the quarter closed and the floor was set
+                  at 8,144 on 30 Sep · the plate went up at half past four on 15 Nov and again on
+                  22 Nov and again on 29 Nov · the band first read 8,184 on 15 Nov · eight hands in
+                  a kitchen 24 Oct · the term sworn in the dark 9 Jul.
+                  **ANCHOR CHARACTERS' ACTS ON THE PRINTED DATES, as a later batch will need them:**
+                  Wren Kallo took the address on the second and made the composition eight; Alma
+                  Quayle made the description against the head on the twenty-seventh; Isolda
+                  Marchetti sang on the fifteenth of October and pulled the card down at two that
+                  morning; Runa Sato reads the list at nine on the first and holds a standing order
+                  applied for on the twenty-seventh with the reason box blank; Hanneke Ruis holds
+                  the counting room and answers in writing; Tessa Okonkwo wrote eleven dates on a
+                  ward slip on the nineteenth; Wanda Rej came in at nine at night on the eighteenth.
+                  **THE ELEVEN DAYS, COUNTED BOTH WAYS, BOTH VERIFIED:**
+                  day one is the nineteenth of November and the eleventh ends at midnight at the end
+                  of the twenty-ninth. Counted out loud in 331 from the slip (nineteenth, twentieth,
+                   twenty-first, twenty-second, twenty-third, twenty-fourth, twenty-fifth, twenty-
+                   sixth, twenty-seventh, twenty-eighth, twenty-ninth — eleven) and counted again in
+                   339 at seven in the morning, backwards, with Sun Meiling closing it. Intervals
+                   printed in the batch and verified: **332 (20th) one day since the nineteenth ·
+                   333 (21st) two · 334 (23rd) four, twenty-four since the 30th of October,
+                   fifty-two since the second of October, twenty-seven since the 27th of October ·
+                   335 (25th) six since the nineteenth, and under the floor for three days since the
+                   22nd · 336 (27th) eight since the nineteenth, thirty-one since the 27th of
+                   October, twenty-eight since the 30th, eleven since the 16th · 337/340 one
+                   hundred and forty-one days since the ninth of July.**
+                  **THE NEXT FLOOR IS 8,145 ON THE THIRTIETH OF DECEMBER AND IS NOT PRINTED OR
+                  INVOLVED HERE. THE FLOOR OF 8,144 DOES NOT MOVE IN THIS BATCH.**
+```
+
+**WHAT CHANGED.** He stopped spending for eleven days to keep a woman who empties the bins on the fourth floor of his own building alive, and paid for it on a wall in front of strangers. **The plate went 8,184 → 8,139 (22 Nov, read 23rd) → 8,131 (29 Nov, read 30th): forty-five points down in one week and eight in the next, which is what a plate does when nothing is attested, and the two words the square has carried since the thirtieth of July came back and then stopped being news.** The account of thirty years fell under its floor and became callable at the valuation on the first of December at ten to nine, in hands he did not appoint, and the instrument that could call it belonged to a woman he had unprotected on purpose nine days earlier. Wanda Rej went down four flights of his own stair at two in the morning on the twenty-sixth and will not walk again, and she made him promise that the four marks on her hand do not go any further. **He broke the term of the ninth of July on a landing on Lantern Row on the twenty-seventh, and on the twenty-eighth an auditor read the classification in her own rooms and lost a day she cannot date, and kept the sheets in a drawer with a note on top of them dated that morning. On the thirtieth at night she read the classification back to him, out loud, for eleven minutes, and told him that nothing will ever be read in that room again — not to her and not by her.** And a Bureau officer at the same address wrote a false attestation out in her own hand on the twenty-seventh and has decided to leave it where it is, and he may not ask her one question about it.
+
+**WHAT THE BATCH DID NOT DO, AND A LATER BATCH MUST NOT UNDO.** The classification is **described and not completed**; no finding has been entered. The Concil of the Nine was **not named** — it was named once in this volume, at 307. Anouk Ferreira is not on the page and does not enter until 344. No requisition was tabled and none was received, and a tabled-and-refused requisition would not be one either. Nothing was routed. **Lin Wei's file is still shut and still opens at 372.** No draw was made in ten chapters; the only grain that moved anywhere in this batch is one a woman refused on the floor of her own building. The seventh returned line, the ninth turned line and the bare slot on the Reading wall were not opened. Ines Duarte is still not under his roof, still not on the list, and is not one of the eight.
+
+## Volume 7, Batch 0003 — SUPERSEDED GATE RECORD (Chapters 321–330). THE THIRD TO THE SIXTEENTH OF NOVEMBER. RETAINED AS HISTORY; THE LIVE BLOCK IS BATCH 0004'S, ABOVE IT.
 
 > **Every number below was produced by command against the files after the last edit, with tokenisation and scope stated where a number needs them. The 12-gram scan ran first, before the 8-word scan, against all 330 chapter files, and again after every repair. No paragraph splitter ran at any floor, ever. The only pass was a reporter that prints lengths and writes nothing. Long paragraphs were split by hand at speech beats; quote balance was re-checked whole-file after each round.**
 

@@ -180,7 +180,7 @@ unwritten.** Two batches in Volume 6 shipped a summarised scene and both were ca
 | **301–310** | **the second of October to the nineteenth** | the composition of eight, the account that will not carry, the referral, and the refusal to swear |
 | 311–320 | the twenty-second to the thirtieth of October | classification proper; the head of classification; the eight named |
 | 321–330 | the third to the sixteenth of November | the thing he had never done; the plate moves; the mechanism beat |
-| 331–340 | the nineteenth to the thirtieth of November | **eleven days of not spending**; the stranger; the file he asked her to open |
+| 331–340 | the nineteenth to the thirtieth of November | **WRITTEN.** eleven days of not spending, the band falling to 8,131, the account callable, the stranger's leg, the file he asked her to open, and a false attestation in a Bureau file |
 | 341–350 | the first to the thirtieth of December | the Concil, the requisition tabled, the card at six, the close |
 
 **Anchors for every count in this volume**, all inherited and none to be moved: the priced line of the
@@ -188,7 +188,9 @@ sixteenth of September · the keys on the seventeenth of September · the quarte
 thirtieth of September · **Wren Kallo's address at about eleven on the second of October** · the production
 sworn at ten to nine on the first of October · the floor of 8,144 set on the thirtieth of September · the
 next floor, 8,145, on the thirtieth of December · **the eleven days, counted out loud, starting from a
-printed date in the chapter that starts them.**
+printed date in the chapter that starts them — PRINTED IN 331 AS A WARD SLIP DATED THE NINETEENTH OF NOVEMBER
+AND COUNTED AGAIN BACKWARDS IN 339. Day one is the nineteenth and the eleventh ends at midnight at the end of
+the twenty-ninth, so the scene on the night of the thirtieth falls OUTSIDE them.**
 
 **One number in `bible/power-system.md` is illustrative and the page governs.** Its band table puts rank
 seven at 55,000 grains a week, and the plate in this book prints **8,138 and band five.** `state/continuity.md`
@@ -395,20 +397,111 @@ been.** A requisition tabled and refused is not a requisition received.
    He does the thing refused since Chapter 48 badly, in public, with witnesses in the room, and finds out the plate is the only part of him anybody can see — and that being wanted on purpose is a very different thing from being wanted.
    **THE MECHANISM BEAT, AS THE PAGE GAVE IT:** Mr Sowerby states it standing up on the eleventh — a movement of unrecorded merit out of an address and into an account requires a **Seal**, without one it is theft, **nine seals in Ostara will carry it, one use costs the carrier a year of standing, and a man with no standing cannot obtain one** — and Sun Meiling supplies the match on the twelfth: **the only seal that would answer is his brother's, because a seal matches the account and not the man.** He learns the account was handed to him; three years past, in one movement, everything at once. **He does not open Lin Wei's file; the file opens at 372.** On the fourteenth he is shown three words and a date and the slip is taken back: shape of answer, file shut.
    **HE REACHES SEVEN ON THE FIFTEENTH, NOT THE SIXTEENTH.** Three slips (laundry, gate, yard, 5–14 Nov) become a pattern; the painted board in 328 prints the threshold the chapter uses (seven at 8,170 and above); the weekly plate goes **8,138 → 8,184, forty above the 8,144 floor, in a green the square never had**; Beatrix Halm reads it at a quarter to six in the dark in the notebook of nine years. **The quarterly card does not move.** On the night of the fifteenth Marguerite Vale takes him in her best rooms, states terms, uses the gift on nobody, and asks for a position outside the Vant he cannot give; she files her books to nine people at seven on the morning of the sixteenth anyway, clears her own table for the statement, and goes unprotected. **The option closed:** he can never be unscored again, and the man no division could read is a weekly figure on a public wall.
-4. **Eleven Days Of Not Spending — 331–340.** `bible/power-system.md` fixes this cost and it is the volume's
-   price: **a turned woman at the Vestry is dying of something the reservoir would relieve, and every draw
-   that relieves her is another point on a line that triangulates back to him.** To save her he has to stop
-   spending entirely for eleven days, and every band he has built goes flat while he does it, **in public, on
-   a board he is standing in front of**, and the security of the thirty-year account falls under its floor
-   and the account becomes callable. **He does it anyway.** The stranger lives. **The cost, in one sentence
-   about one person:** for eleven days he is the only person in Ostara who can give something back and he
-   does not, and a woman who emptied bins on the fourth floor of his own building at two in the morning is
-   taken to hospital and does not die and will not walk again, and she is a face in a ledger and not a
-   turned line, and he counts her.
-   **THE SECOND IRREVERSIBLE DECISION, AND IT IS THE WORST THING HE DOES IN THE VOLUME:** he breaks his own
-   standing undertaking of the ninth of July and **asks Ines Duarte to read the classification in her own
-   rooms.** She comes back on her own terms in 271 and he spends the one protection she has.
-   **The option closed:** the term of the ninth of July does not exist again.
+4. **Eleven Days Of Not Spending — 331–340. REWRITTEN AGAINST WHAT WAS WRITTEN, IN THE SAME COMMIT
+   THAT WROTE IT. The page governed and this movement now reads as the page left it.**
+   The plan's price was right and every instrument in it was wrong. **The stranger is not dying of something
+   abstract at the Vestry. She is a woman called Wanda Rej who empties the bins on a fourth floor of his own
+   building at two in the morning, who has done it for eleven years by the load for a contractor who has never
+   written her name down, and who has four cold minutes on the back of her left hand in a carpenter's pencil
+   with a date under each one.** She came in at nine at night on the eighteenth and could not get up the second
+   stair at the infirmary.
+
+   - **331 IS THE DECISION AND IT IS TAKEN IN A CORRIDOR, IN FRONT OF A DOCTOR, ON A PRINTED DATE.** Tessa
+     Okonkwo gives the arithmetic once and will not repeat it: **nine turned lines are a shape and ten are an
+     address**, and a tenth would be a list of five dates in a woman's own hand with a doctor in this city who
+     knows about all five, and she is the doctor. **On the twelfth day the woman is a line in a book with the
+     Vestry's name on it. On the eleventh she is a woman in a bed with four pencil marks and nothing whatever
+     in any file.** Eleven is not a rule. It is the longest a doctor has ever held a body past the point it
+     should stop, and she says she does not know that she can hold a twelfth. **She rules eleven dates on a slip
+     and reads them back and he counts them out loud in the corridor, and he does not explain it and she does
+     not ask him to.** The cost to her is her own frame, and she names it because he is the sort of man who
+     pretends he does not know.
+   - **332 IS THE STRANGER, ESTABLISHED IN PASSING, ON A FLOOR THAT IS ON NOBODY'S LIST.** She asks him for a
+     lamp on the fourth stair. She has asked for eleven years and never once written to anybody. **She tells
+     him that a Field officer stood in that hall on the twentieth of October writing in a book, that she let him
+     past, and that the girl on the round is twenty-two and will argue with a man who writes.** He learns the
+     household's own standing order from a woman nobody has ever written down, and she asks him for the one
+     thing that costs him nothing, at two in the morning, because he cannot refuse a thing that costs nothing
+     at two in the morning.
+   - **333 IS THE PRICE PAID IN THE OPPOSITE DIRECTION, AND THE BATCH HAD NOT SEEN IT COMING.** Beatrix Halm
+     feels a source the size of a tram load go out of the current and **cannot source it**, which has never
+     happened to her in nine years, and she comes down sixty-one steps angry about it. **For eleven days he is
+     the safest person in the district and the most ordinary one, and the household's best intelligence is
+     blind, and both facts come out of the same slip.** He lies to her; she writes it down; she says she will
+     put her hand on the eight of them one at a time and find out which of them gives anything to anybody. She
+     starts on the twenty-fourth and she finishes on the twenty-ninth having found nothing, which is the
+     household holding.
+   - **334 IS THE BAND FALLING IN PUBLIC, AND A WALL IS NOT A PUNISHMENT.** **A plate does not merely stop
+     rising when nothing is attested; a plate falls.** 8,184 on the fifteenth, **8,139 on the twenty-second**,
+     read on the twenty-third: five under the floor, thirty-one under the painted line for seven, the green
+     painted over with lead by a boy doing the branch stalls because the weekly takes what it is given, and
+     **the two words the square has carried since the thirtieth of July back on the wall for the first time in
+     four months**. **Herta Vogel is one of the three women who put him at seven, she reads it, and she says she
+     would do the three mornings again and that it got her nothing, and that nobody can take her name off a
+     slip.** The plan did not have a woman who attests to his ruin and would do it again. It is better than
+     the plan.
+   - **335 IS THE MIDPOINT'S CONSEQUENCE AND IT IS NOT A SURPRISE, IT IS AN ACCOUNTING.** Hanneke Ruis answers in
+     writing on the back of his own question: **an account carried below the floor of its band for one week is
+     callable, and the valuation is the first of December at ten to nine, and a called account is answered by
+     paying it or by a production, and there is no production off that door.** He knew this on the nineteenth
+     of October and he did it anyway. **THE SENTENCE AFTER THE MACHINERY, AND IT IS THE WHOLE MORAL ACCOUNTING
+     OF THE VOLUME: the instrument that can take his account off him on the first belongs to a woman he had
+     put her own book on a guild table nine days earlier, on purpose, in front of nine people.** And at two in
+     the morning of the twenty-sixth Wanda Rej goes down his own stair with a barrow. **Runa Sato, a field
+     operative who is not a bad woman, carries her out. He kneels on the tiles four inches from her sleeve and
+     puts his hands flat on the floor instead.** She does not die. She will not walk again. She makes him
+     promise that the four marks do not go any further, and he says it back, and he keeps it.
+   - **336 AND 337 ARE INES DUARTE, AND THEY ARE THE SECOND IRREVERSIBLE DECISION AND THE WORST THING HE DOES
+     IN THE VOLUME.** He carries a leather wallet up two flights above a laundry on the twenty-seventh, a
+     hundred and forty-one days after a promise made in the dark, and asks her to read the classification in
+     her own rooms. **She says not today** — an auditor who reads a record angry reads it twice and the second
+     pass is contaminated — and gives three terms: he will be in the room; she will answer him about
+     everything; **and after this she is not the person he comes to when he is afraid.** He says the third one
+     back on a landing. **The option closed: the term of the ninth of July does not exist again, and he is the
+     one who ended it, with the wallet still under his coat.**
+     On the twenty-eighth she reads the four sheets aloud and finds two unstamped reads in the check column,
+     and tells him the thing he has not sat with: **the one instrument in this city built to look at eight
+     women in a building is a woman living in it.** And **a record held in the head etches, and one of the
+     four sheets has taken a day she cannot date** — she knows what she was holding, because what she was
+     holding is the only record she has ever read that had something cut out of it, and no batch may make her
+     say which. **She keeps the sheets in a drawer under her table with a note in her own hand saying what
+     they are and when she read them, and no office in this city knows they are there.**
+   - **338 IS THE BATCH ATTEMPTING TO RESCUE HIM AND BEING REFUSED, AND A FORGERY APPEARING AS THE CONSEQUENCE.**
+     **Petra Ilyin offers four false attestations with her own name at the foot, and has written three, and
+     Sun Meiling burns them in a room with eight witnesses, and he refuses, and the reason he gives is the
+     reason he has used for five years: every advantage feels like theft from somebody smaller, and a false
+     attestation is not an advantage.** And **Wren Kallo wrote a fourth in her own hand at seven that morning
+     and filed it in her division in the ordinary way, and it is sitting under the standing papers for the
+     thirtieth's certification, and she decides to leave it there**, and he may not ask her one question about
+     that address, and he asks none. **A false attestation is not a fraud if every column in it is accurate.
+     The date is accurate. The premises are accurate. The deed is simply not a deed.**
+   - **339 IS THE COUNT AGAIN AND THE WALL AT ITS WORST, AND A CERTIFICATE.** The eleventh day ends at midnight
+     at the end of the twenty-ninth. **He counts it backwards in a kitchen and Sun Meiling closes it.** Wren
+     Kallo certifies the composition of premises 34-6-118 at nine in the morning: eight, signed, at the
+     address, in her own division, **the cleanest document in the city about that house, with a false sheet
+     eight inches from her left hand.** And the plate reads **8,131**, the lowest figure that has ever been
+     under his name, and **he reads it out loud himself at eleven in the morning in front of nine strangers,
+     because a wall is read whole and a woman with a notebook taught him that at a quarter to six.**
+   - **340 IS THE SCENE AND IT IS INES DUARTE'S, AND THE BATCH'S LAST MOVE IS NOT HIS.** Terms first: nothing
+     is spent, her gift is used on nobody, she is not impaired and will not be made so. **He comes up the
+     stair with his hands empty, and the scene body is 1,450 words.** Afterwards **she reads the classification
+     back to him, out loud, for eleven minutes** — because the ninth of July was about what was done to her in
+     a room and never meant she could not read a paper back at him — and tells him **nothing is read in that
+     room again, not to her and not by him**. And she shows him a request she lodged on the ordinary stream at
+     nine that morning, in her own name, to be served with every sheet of file 4,112 and the whole of the
+     check column **in advance of the valuation of the first of December**. Not protection. The only door she
+     has.
+
+   **WHAT THE PLAN GOT WRONG IN THIS MOVEMENT, AND THE PAGE OWNS.** The plan said the stranger is "a face in a
+   ledger and not a turned line, and he counts her", which is right, and it said nothing about who she is, what
+   floor she works, or that the woman who empties the bins and the woman the reservoir would relieve are the
+   same woman. **They are the same woman and that is the whole engine: the cost of the eleven days is that he
+   cannot help the one person in Ostara whose help nobody would ever notice.** The plan also put the band going
+   "flat"; **on the page a plate falls, and it fell forty-five points in one week and eight in the next, and
+   the wall turned a word that had been gone since the thirtieth of July back into a fact about a street.** And
+   the plan assumed the batch would end at 340 with the worst thing he has done; **it ends with the worst
+   thing she has done, which is to keep his file in a drawer and to put her own name in front of the
+   valuation.**
 5. **The Room Where Nine People Sit — 341–350.** The Concil of the Nine, monthly, at the bench, with a
    majority seal position on requisition. **Anouk Ferreira, 63, chairs it, she is not a villain, and she is
    right about why nine countable people were able to hold a city still for twenty years.** **She is not
@@ -471,7 +564,9 @@ for again** · whether the broker's bag was in her own rooms or in somebody else
 who bought the verse at the Bellhouse · Marguerite Vale's terms of the fourteenth of March · Bernt · Rhee ·
 Saskia Verhoeven as a character · **Dagmar Oyelowo, who is 388 and enters at 388** · **anything after
 Volume 8** · **Lin Wei's file, which opens at Chapter 372** · **a requisition received** · **a classification
-completed against him** · **a folio** · **the reason the account has an address** · **the ninth turned line's
+completed against him** · **a folio** · **the day Ines Duarte lost at 337 and cannot date** · **which record
+she was holding when she lost it** · **the two unstamped reads in the check column of file 4,112, and who
+made them** · **the reason the account has an address** · **the ninth turned line's
 meaning** · **whether the return in Chapter 486 reaches the people it was meant for.**
 
 **May be advanced and may not be closed:** the two ninth chairs · the ninety rubbed-out sentences · Marta
@@ -489,8 +584,9 @@ rises every quarter means in the next quarter — ANSWERED IN §6 MOVEMENT 5: he
    thirtieth of December, 8,145 on the nose, restored by a page eight other people attested, and the ranks
    wall says no word about him for the first time since the thirtieth of July.**
 
-**Two from Volume 6 that are still live and are not debts:** **Ines's term holds — no paper is read to her
-in her own rooms** — and **the sixth line on the page in Chapter 250 is his standing instruction, it has no
+**Two from Volume 6 that are still live and are not debts:** **Ines Duarte's term is SPENT, AND HE SPENT IT
+HIMSELF ON THE TWENTY-SEVENTH OF NOVEMBER. Nothing is read in those rooms again — not to her and not by him —
+and that is her condition and not his promise** — and **the sixth line on the page in Chapter 250 is his standing instruction, it has no
 figure against it, and no office in this city will ever invoice it. Do not convert it.**
 
 ## 8. What Volume 7 must leave Volume 8
@@ -507,6 +603,16 @@ figure against it, and no office in this city will ever invoice it. Do not conve
   of the book moving one step.
 - **He must still be able to be requisitioned.** The Council wants him, has a route to him, and has nine
   minutes. **The volume closes the door for five weeks and not for ever.**
+- **He must be carrying four live instruments he cannot put down, and every one of them is a document.** A
+  thirty-year account that fell under its floor on the twenty-second of November and **is callable at the
+  valuation on the first of December at ten to nine**, with no production off that door to answer it with ·
+  a **false attestation in a Bureau counter-forensics division's standing papers**, written by a woman who
+  sleeps at the address she certified, which he may not ask her about · **the four sheets of file 4,112 in a
+  drawer in two rooms on Lantern Row with an auditor's note on top of them**, and a request on the ordinary
+  stream to be served with the whole of that file in advance of the valuation · and **a certificate of a
+  composition of eight, made on the thirtieth by the officer who keeps that address, which will cost her
+  division in about four years.** None of these is a requisition. Every one of them can be turned into one by
+  somebody else.
 - **Volume 8 opens on a man who can be routed.** Nothing in Volume 7 may make him safe to leave.
 
 ## 9. Mechanical checks, and who owns them
