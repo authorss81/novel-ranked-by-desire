@@ -9,7 +9,7 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batches 0001 (251–260), 0002 (261–270) and 0003 (271–280) written. Scenes at 261, 269, 279, 289, 299 — **261 is Isolde Marchetti's and is written; 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it; 279 is Wren Kallo's and is written; 289 and 299 unwritten.** At 280: the hundred and thirty-fourth mark is in and the account lives, the guild's hold on Beatrix Halm's hearing stands because of it, the composition of premises 34-6-118 is read at seven with the seventh returned line blank and unnamed, and the only hand that can fill that line has twenty-two days and has said he will not.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batches 0001 (251–260), 0002 (261–270), 0003 (271–280) and 0004 (281–290) written. Scenes at 261, 269, 279, 289, 299 — **261 is Isolde Marchetti's and is written; 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it; 279 is Wren Kallo's and is written; 289 is Sun Meiling's and is written; 299 unwritten.** At 290: **the composition of premises 34-6-118 is certified at seven with the seventh returned line permanently blank and permanently counted, a bar described on the face of the certificate in his own hand, and Sun Meiling in ink underneath it** · **8,138 stands against the broker's account of thirty years, published by a reconciliation initialled and not signed, and the page says in terms that it is not a price** · **Marguerite Vale's statement with eleven on a table is in four divisions** · **the plate is five under a floor of 8,143 in the word OUT OF BAND** · **and the turn of the quarter is the first of October, which is also the morning a sworn enforcer knocks twice at his door because a head cannot refuse her.** |
 
 
 ## Volume 2 — The Reservoir
@@ -1869,3 +1869,157 @@ writes it down and does not read it back, at his instruction, for the first time
 days, a bar on the certificate, and Sun Meiling in ink underneath it, which is what she asked for.
 **Nadia Ferrous's twenty-ninth is still blank and going into four divisions that way on purpose, and she says
 she will never fill it: a book with a hole in it is a record, and this house has more accounts than records.**
+
+## Volume 6, Batch 0004 — Chapters 281–290 (the tenth of August to the first of September)
+
+**Ten chapters, not one a day: 281 the tenth of August, 282 the thirteenth, 283 the sixteenth, 284 the
+nineteenth, 285 the twenty-second, 286 the twenty-fourth, 287 the twenty-seventh, 288 the twenty-ninth, 289 the
+thirtieth, 290 the first of September.** The gaps are where Volume 6's dates are. The one scene is 289.
+
+### Ch 281 — Two Flights Of Stair
+Opens the fourth movement in the kitchen with the painters' card on a table bare for the twenty-seventh day,
+and puts the first of September on the horizon with the six things converging on it — the desk on the
+sixteenth, the broker's statement before the month is out, the card on the thirtieth, the certificate on the
+first, the sixth telling, and **a keeper who has a date and has no price.** Sun Meiling makes him say the sixth
+thing out loud. Then he goes down at four o'clock to ask Rask for the sentence under the column, **which is the
+third time, and she puts him out of the room.** She tells him what he is actually doing — that a frightened man
+goes and looks for a number to put under the fear, and that a figure a man is holding gets smaller every day he
+carries it. **Her reason, which she gives him because she has said no three times in five weeks: on the
+sixteenth of September that room changes hands, and after that she will not be the only woman who can put a
+figure on a page about his account.** He is not to come down those stairs again before the sixteenth of
+September. The option that closes: **he cannot ask her.**
+
+### Ch 282 — The Shortest Thing On A Wall
+Seven in the morning at the bottom of the sixty-one steps, and Beatrix Halm names **what a security that does
+not cover costs.** A production is the answer to a call; it answered the twentieth of July and has been spent
+since the eighth; the plate is five short of the floor from the thirtieth; **so on the thirtieth the guild's
+hold on her hearing stops being a hold and becomes a price, and a price is a thing somebody has to find, and
+the kind of woman who gets found is the kind already on a wall in a new shade with a notebook and a good ear.**
+Second cost: *I am the cheapest thing on a wall.* **Her condition, and the batch's first closed option: bring
+me a price that has somebody else's name on it, or bring me nothing.** He agrees in four seconds without asking
+one question. Her actual want, which she has been too proud to write down: **not a price — a date.** A day it is
+held, with the days counted under it in his handwriting. She would trade it for Runa Sato's lost one and refuses
+to ask. A guild clerk came to the gate at four on the twelfth and said a house takes that sort of thing up at
+the turn. **The turn is the first of September.**
+
+### Ch 283 — A Term With A Date On It
+**THE DESK. Ines Duarte at a desk where she is the subject, fourteen days from the sitting she did not attend
+on the second of August, and he is in the room because the record is about his premises.** She reads her own
+record aloud in date order. The officer reads the two documents in the wrong order, which reads as a woman who
+corrected her own household and then turned out to be in it. **She stops him and forces the file into
+chronological order, and the thing that makes it work is a composition return of the twelfth of June carrying her
+name and her address in her own hand — a document eighteen days older than the correction.** She puts that into
+the file in her own words, on purpose, knowing it puts her address into four divisions. **She spent eleven days
+telling a man not to write her name and then she wrote it herself, in a room, in front of witnesses.**
+Then she uses the only power a subject has: **she puts the term to him — what did you swear to me on the ninth
+of July at about eleven at night — and he says it, and the clerk writes it down, and it is in the file.** It is
+now a standing undertaking of the head of the premises in a division that does not count things and one that
+does. On the steps she asks him which of the two of them told him he was the seventh line. He cannot do anything
+about it. **Thirty-eight days he kept the term by never going up a stair. It took four minutes in a room and it
+can never be kept again that way.**
+
+### Ch 284 — The Round She Cannot Refuse
+Half past six on the nineteenth, on the top of the steps, and Petra Ilyin hands him a quarter round lodged on
+the seventeenth. **The twentieth address is 34-6-118 and the figure under it is seven, and it came off his own
+production line on the first of August, and a clerk at the Vant used it as the address without asking anybody.**
+She cannot refuse a round: her gift is a sworn promise that binds her body and she has not been able to put a
+docket down in eleven years and cannot remember who made the promise. **Her ask: let it be her. He says yes in
+about four seconds, which she calls the worst thing anybody has said to her in eleven years.** The price: on the
+first of October at eight, a woman on no roll in this city at all will stand on the step of this house holding a
+docket with his address on it and the figure seven under it, and the reason she is on that step will be that his
+household asked her nicely. **And he must not be on the step, in the yard, or in the building between seven and
+nine that morning, or she has to write a second report about a man she lives with.** Seventy-five days off every
+roll; a hundred and forty-nine dockets.
+
+### Ch 285 — The Man Who Files In Her Division
+The twenty-second, at Cobb Street, waiting on a pre-issue. **At ten past three on an ordinary afternoon the door
+of a records room at the end of the corridor is open and a voice he knows is in it, and he does not stop
+walking.** The sixth telling happens. Wren Kallo comes out and says four sentences: his job is to put things in
+drawers in the order they arrive; so what she has done in four minutes with the door open is put a thing about
+his household into the ordinary stream of a division that reads everything; and **that is the end of
+*unusual*** — the last word any office in this city was going to be able to use about a composition return with a
+blank seventh line. **She did it because she could not help it, she has known since the seventh of July that it
+is not fair, and she has been living on his *yes* for a fortnight.** Nadia Ferrous finds the consequence at the
+Vestry on the same afternoon: a cross-reference came through her division on the twentieth with a clerk's number
+and a date on it, and **it did not come in sideways. She filed it. A thing that is filed is a thing that is
+ordinary, and ordinary cannot be argued with, and boring is the only hiding place nobody can be punished for.**
+
+### Ch 286 — The Reason She Does Not Ask
+The twenty-fourth, a Thursday, and he does not go down. A boy brings the reconciliation up the street. **It is
+initialled and not signed, and it carries one figure: eight thousand one hundred and thirty-eight, the figure
+of the head, set against an account of thirty years that nothing else secures — and it says in terms that this
+figure is not a price.** It will stand from the thirtieth until it is called, and nothing in the city can move
+it, pay it or answer it before it is called. Runa Sato does the arithmetic out loud: rank four is three
+thousand a week, so 8,138 is two weeks and five days of a rank-four man's plate, **and he cannot earn it,
+because the moment there is a witness in the room he stops scoring altogether.** And it cannot be produced
+against, because a production answers a call and there is no call outstanding. **THE REASON SHE DOES NOT ASK.**
+An initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence; she signed the one
+of the third because that page was about a pen and a hand, and she initialled this one because the day she signs
+a page about an account, that page is evidence about its holder. **If she asked him, the figure would be his and
+not hers, and a figure a man gave a division about his own account is a charge, not an arithmetic.** Under the
+foot of the page, in her hand, one line that is not arithmetic: *the figure above will be five under the band
+floor on the thirtieth of this month.*
+
+### Ch 287 — There Is No Before
+The twenty-seventh, in her rooms, with his hat on, asking a broker to strike a discharge out of her own book so
+that the figure on Rask's page falls away. **She refuses, and the reason is the chapter: striking the entry
+would make a published page one that cannot be about anything, and a page that cannot be about anything is a page
+somebody manufactured, and there are two hands that could have manufactured it and one of them is hers.**
+There is no before; the page went out at eleven on Thursday and is in four buildings. Then the practical thing:
+**a figure standing against an unsecured account is called at the turn of the quarter, and the first of October
+is a turn**, and she has been spending four seconds of attention every quarter making sure that on that day
+there is somebody standing on a step at his address who will not answer a question about an account. He asks who
+she has been keeping it off and is told not to work it out. **Then he makes the batch's promise out loud, to her
+face: he is not going to put merit into a figure through a person so that it scores against them. The routing
+has still not happened and this batch says so in front of a witness and costs him nothing and forecloses
+everything.** He is not to come to the room before the thirty-first, because she will not be able to see him and
+not put him in the minute. Four lines in a drawer two feet from where he is standing.
+
+### Ch 288 — The Room He Is Not In
+The twenty-ninth. He waits at the bottom of the street for two hours and forty minutes and does not get in.
+**The panel is written in the chapter and he is not in it.** Marguerite Vale convened it herself and asked for
+four officers and for the minute to go into the divisions in the ordinary way. **She says the thing she has not
+said since the twenty-second of July: she did not cut the device on the pen she was holding at twenty-five
+minutes past four on the twentieth of July, there are four pen-holders in her office and she cut all four in her
+first month, and she cannot produce the one she used.** Then the number: **eleven entries in her own working
+book over four years made with a pen-holder she did not cut, and she cannot tell them what any of the eleven
+were**, because a keeper keeps movements and not hands. She asks that it be minuted that she offered, not that
+she was asked. She signs it herself. She refuses the last part of a broker's trade — you cannot have the pen, and
+there is no instrument in this city that can take a pen out of her office on a date — and asks that this go in
+the minute too. **Petra Ilyin stands in the doorway across the street for two hours and forty minutes and
+reports the only three things a person on a pavement can know: forty-one minutes, seven people, and a woman who
+went in with her hands empty and came out with her hat in them.** He does not learn the number.
+
+### Ch 289 — The Woman Who Asked To Be Counted
+**THE CARD AT SIX AND THE SCENE.** The thirtieth. Beatrix reads the painters' card in the dark: eight thousand
+one hundred and forty-three, thirty-third day, and the word is the word. **Five under, out of band, in a shade
+this square has never had, and the guild's hold has been standing thirty-three days.** The broker's statement
+goes out in the ordinary post and the number on it is eleven. At nine, Sun Meiling clears the kitchen and says
+what she wants, and says the no to it in the same breath: nothing, and she is not going to be grateful for it
+and is not going to be ungrateful either, and she wants both in the same sentence. **The scene is hers.** She
+has been nineteen years an arrangement inside somebody else's arithmetic and there has not been one day since
+that anybody put her in a room where the count was hers, and the count is hers tonight and it is not the
+certificate's. **She forbids him, in advance, to write one word in the ground of the certification about anybody
+asking for anything** — because a woman who asked not to be named becomes a thing that happened in a division —
+and she says she will know. Afterwards she puts his hand at the base of her throat, and the chapter carries the
+batch's only system panel.
+
+[Draw. The hand at the base of the throat. It will cost her a cold minute and she will be a fool if she takes it again this week.]
+
+She goes down the stair without shutting the door. He sits on the edge of a bed and works out that there are four
+documents about this household and not three, and that a woman two floors under a sales floor was counting books.
+
+### Ch 290 — The Fourth Document
+The first of September, ten in the morning. **He signs twice — as the head of the premises and as the auditor
+of record, which is the first certification of his life.** The seventh line of the composition is four inches
+from the bottom edge of the sheet and it is the only empty space on the whole document, and every other part of
+that certificate is full. **THE BATCH'S IRREVERSIBLE DECISION.** Box four wants three lines and he writes six,
+and the six lines say in his own hand that the seventh returned line stands blank, that it is a bar on this
+certificate, and that he certifies it in that state. **He asks the clerk to minute that the auditor asked for
+the description of the bar to go on the face of the certificate rather than into a file somewhere, and she
+writes it down, and it is the first time in that office anybody has asked for that.** Box five is answered out
+loud for the minute: there is nothing in his knowledge that would alter the figure of seven. Sun Meiling reads
+his six lines out loud at the public counter with a queue behind her, and says that the bar is permanent and
+that nobody will ever be able to find out from that document who the line is for, and that she is neither
+grateful nor ungrateful. **Four documents in four divisions on one day, and the fourth is him.** Rask counted
+three on the third of August and she was counting books.

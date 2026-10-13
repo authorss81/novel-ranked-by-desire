@@ -1,3 +1,119 @@
+## Volume 6, Batch 0004 — CHAPTERS 281–290. THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER. LIVE.
+
+**Ten chapters, twenty-three days.** Batch 0004's head block is in `state/current.md`; the live gates are in
+`state/open-threads.md`; the day map, the gate record and the tool failure are in
+`reviews/volume-06/batch-0004.md`. Batch 0003's block is below this one and is superseded as to position.
+
+> **READ THIS BEFORE WRITING 291.** Two things this batch established that are not rules and will be read as
+> rules. **First: the figure of eight thousand one hundred and thirty-eight on Rask's page of the twenty-fourth
+> is NOT the price of the reservoir.** It is the figure of the head, standing against the broker's account of
+> thirty years, and it is the only figure that account can carry because nothing else secures it. **The price is
+> the sentence under the column and she has not looked at it since the twenty-fourth of July and will not before
+> the sixteenth of September.** A later batch must not call that page a price.
+> **Second: a called figure is answered with a production, and a production is a figure of persons answerable
+> at the premises on the day.** That is the only instrument in the book that can answer the figure of the head,
+> and the only date that can call it is the turn of the quarter, the first of October, which is also the day
+> Petra Ilyin's docket round starts at eight in the morning at the same door.
+
+### 1. THE FIXED CALENDAR, DERIVED AND PRINTED
+
+**July 1 is a Saturday, so July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh.
+August 1 is a Tuesday. August's Thursdays are the third, the tenth, the seventeenth, the twenty-fourth and the
+thirty-first. September's are the seventh, the fourteenth, the twenty-first and the twenty-eighth. A month is
+thirty days and has no thirty-first, so the thirtieth of August and the first of September are consecutive days
+in every table in this book and there is no Monday between them that the city works. Only Thursday is ever
+named, and EVERY THURSDAY IN THIS BATCH IS THE TWENTY-FOURTH OF AUGUST.**
+
+### 2. THE DAY MAP AND THE ARITHMETIC, TRACED
+
+**The map is not one chapter a day and that is the point of it.** Volume 6's dates are not one a day; the gaps
+are where the volume's fixed dates sit.
+
+| Ch | Day | To 1 Sept | Petra off roll | Sun's row | Sworn page | Term kept | Rask's sitting | What the chapter is |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 281 | **10 Aug** | **21** | 66 | 140 | 56 | **32** | **403** | the movement opens; the third ask; she puts him out |
+| 282 | **13 Aug** | **18** | 69 | 143 | 59 | 35 | **400** | what a security that does not cover costs |
+| 283 | **16 Aug** | **15** | 72 | 146 | 62 | 38 | **397** | **THE DESK — the fourteenth day from the second of August** |
+| 284 | **19 Aug** | **12** | 75 | **149** | 65 | 41 | 394 | the round; a figure becomes a postal address |
+| 285 | **22 Aug** | **9** | 78 | 152 | 68 | 44 | 391 | the sixth telling on an ordinary afternoon |
+| 286 | **24 Aug, Thursday** | **7** | 80 | 154 | 70 | 46 | **389** | **THE FIGURE — a reconciliation runs on a Thursday** |
+| 287 | **27 Aug** | **4** | 83 | 157 | 73 | 49 | 386 | there is no before; the routing refused out loud |
+| 288 | **29 Aug** | **2** | 85 | 159 | 75 | 51 | 384 | **the panel — he is not in the room** |
+| 289 | **30 Aug** | **1** | **86** | **160** | 76 | 52 | **383** | **the card at six, five under, and the SCENE** |
+| 290 | **1 Sept** | **0** | **88** | **162** | 78 | 53 | **381** | the certification, the bar, Sun Meiling in ink |
+
+Anchors, unchanged: **Petra Ilyin off every roll 4 June** · **Sun Meiling's pencil row 22 March** · **the sworn
+page 14 June** · **the term agreed on Lantern Row the night of 9 July, counted INCLUSIVE, so the ninth of
+August is thirty-one** · **Rask's 419 days given 24 July** · **the call entered 20 July at 16:25** · **the
+correction filed 30 July at 23:25** · **Ines Duarte's composition return of the twelfth of June** · **the
+kitchen table bare from 14 July inclusive** · **the guild's hold posted 27 July** · **Marguerite Vale's
+statement of the twenty-ninth** · **the reconciliation of the twenty-fourth** · **the certification of the
+first of September.**
+
+Also printed and derived in the text: **the band floor 8,141 → 8,142 on 30 July and 8,143 on 30 August** · **the
+guild's hold thirty-three days old on the thirtieth of August** · **Petra's hundred and forty-nine dockets on
+the nineteenth and a hundred and sixty-one on the first of October** · **rank four at three thousand a week, so
+8,138 is two weeks and five days of it** · **the term thirty-two days on the tenth of August and thirty-eight on
+the sixteenth** · **Rask's sitting three hundred and eighty-one at the tenth of August, three hundred and
+eighty-five at the first of September.**
+
+### 3. WHAT THIS BATCH PUT ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT
+
+1. **The figure of 8,138 standing against the account of the broker is published and is NOT a price.** It is the
+   figure of the head, set against a thirty-year account that nothing else secures, published on the twenty-fourth
+   of August in a reconciliation **initialled and not signed**.
+2. **That figure cannot be moved, paid or answered before it is called.** There is no instrument for it. That
+   is what makes it unrefusable.
+3. **An initialled reconciliation is a keeper's arithmetic; a signed one is a woman's evidence.** She signed
+   the one of the third of August and initialled the one of the twenty-fourth, and Chapter 286 is the reason.
+4. **The reservoir is not priced.** The sentence under the column has not been looked at since the twenty-fourth
+   of July and will not be before the sixteenth of September.
+5. **A production answers a call and not a quarter.** The guild's hold on Beatrix Halm's hearing was bought
+   with a production on the first of August and has been doing nothing since the eighth.
+6. **On the thirtieth of August the plate is five under a floor of 8,143, in the word OUT OF BAND, on a public
+   wall, in a shade the square has never had, and the word has not changed.**
+7. **Marguerite Vale's number is eleven**: eleven entries in her own working book over four years made with a
+   pen-holder she did not cut. She cannot tell them what any of the eleven were. She has said it under her own
+   signature in four divisions.
+8. **The term sworn in the dark on the ninth of July is now in a file.** It is a standing undertaking of the
+   head of the premises, made in a room, on the sixteenth of August, before three officers and a clerk.
+9. **Ines Duarte's address is in four divisions in her own words**, from a composition return of the twelfth of
+   June, and she put it there herself, on purpose, to force the file into chronological order.
+10. **Wren Kallo has told a sixth person** — the man who files in her division — on the twenty-second of August,
+    at ten past three, in a records room with the door open, and the consequence is already in a drawer.
+11. **The certification issues with a bar and his name is on it twice.** Box four of the form wants three lines
+    and he wrote six, and he asked for the description of the bar to go on the face of the certificate.
+12. **A sworn enforcer cannot refuse a round.** Petra Ilyin is on the round that starts on the first of October
+    at eight, and the twentieth address on it is his, with the figure seven under it.
+
+### 4. INHERIT UNCHANGED FROM BATCH 0003, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE THEM WRONGLY
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day.**
+2. **A called standing is answered at a valuation and a valuation is the mark at ten to nine on the first.**
+3. **A composition return counts persons of reading age who hold an address at the premises.**
+4. **The seventh returned line of the district return of the third of June is blank, and a district cannot be
+   corrected by a head. The only office with standing over a district premises return is the auditor of record
+   of the schedule, which is him from the first of August.**
+5. **A correction filed on the last day an office is held cannot be sent back for a fresh answer.**
+6. **A member required to attend a sitting who does not attend can be put at a desk where she is the subject on
+   the fourteenth day after it.**
+7. **A head may diminish his own household on his own sworn answer with a week and the broker's signature, and
+   it never needed the auditor.**
+8. **An impediment on a certificate is a bar on the certificate, not a bar to certifying.**
+9. **A hearing paper runs to the end of the month after the month it was answered in.**
+10. **A reconciliation runs on a Thursday. The quarterly bands go up on the last working day of the quarter, by
+    a different office in a different hand. The Thursday pass never touches them.**
+11. **A published security binds everybody who takes from the account afterwards.**
+12. **Plate 8,138. Band floor 8,143. Tolerance three. Five under.** Ledger 118 lines, nine turned, the ninth
+    still himself. Nothing spent. Zero system panels in nine of the ten chapters and one in 289.
+13. **Five documents in his own hand in seventeen days to the first of August, now six since the sixteenth of
+    July with the certification of the first of September.**
+14. **Petra Ilyin on no roll since the fourth of June — eighty-eight days on the first of September.**
+15. **Wren Kallo on nothing at any time.**
+16. **Ines Duarte is out of the flat and out of her office from the first of August.** Her term — no paper is
+    read to her in her own rooms — was agreed on the ninth of July and is now also on a file.
+17. **Nadia Ferrous's twenty-ninth page is blank and went into four divisions that way, on purpose.**
+
 ## Volume 6, Batch 0003 — CHAPTERS 271–280. THE FIRST TO THE NINTH OF AUGUST. LIVE.
 
 **Ten chapters, one a day, the night of the thirtieth of July through the ninth of August; Ch 271 carries the

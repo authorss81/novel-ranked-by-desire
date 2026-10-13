@@ -1,3 +1,166 @@
+## Volume 6, Batch 0004 — LIVE GATE RECORD (Chapters 281–290). THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER.
+
+> **This block supersedes Batch 0003's as the live gate record.** Batch 0003's block is retained below it,
+> superseded as to position. **Every number below was produced by command against the files as they stand after
+> Batch 0004's last edit, and every row says what was run and what was read, because a gate that returns zero
+> is a claim to be tested and not a result to be reported.** The full record, including the tool failure this
+> batch hit and the four-day repair it cost, is `reviews/volume-06/batch-0004.md`.
+>
+> **THE 12-GRAM SCAN RAN FIRST, AGAINST ALL 290 CHAPTERS, BEFORE THE 8-WORD SENTENCE SCAN, AND IT WAS RUN
+> REPEATEDLY.** **The first pass returned 131.** Batch 0003's first pass returned 387 and Batch 0002's returned
+> 44, so a large first figure is this book's normal condition and not a surprise. **All 131 were cut and the
+> final figure is 0.** **THE TOKENISATION IS PART OF THE FIGURE AND IS STATED.** The figure 0 is the
+> **whitespace split with case and punctuation significant**, the same gate Batch 0003 reported 2 against and
+> Batch 0002 reported 13 against. **A punctuation-insensitive variant — lower-cased, punctuation stripped to
+> spaces, 12-gram — returns 6 for this batch, and every one of the six is a date written in words**
+> (*the thirtieth of July at twenty-five minutes past eleven at night*, between 283 and 271; and
+> *at twenty-five minutes past four on the twentieth of July*, in 287 and 288 and, before them, 264 and 274).
+> **A date is a fact about this world and not a sentence, and two of those facts have to appear more than
+> once.** Both figures are reported because a 12-gram number without its tokenisation is a number nobody else
+> can reproduce.
+>
+> **A QUOTE-BALANCE ROW IS IN THIS BLOCK AND IT IS NOT IN THE STANDARD LIST, AND THIS BATCH IS THE REASON.**
+> Batch 0003 added the row because a machine paragraph-splitter broke four speeches. **This batch ran a
+> paragraph-splitter of its own over prose that contains dialogue and it destroyed the dialogue structure in
+> all ten chapters, twice, and ten chapters had to be rewritten from the drafts.** The gate below is a
+> whole-file count of quotation marks and it returns **10 of 10 even**, which is the cheapest possible test and
+> the one that catches the failure. **A later batch that splits paragraphs programmatically must check
+> quotation balance before it checks anything else, and must not run the splitter on dialogue at all.**
+
+**Ten chapters, twenty-three days. A month is thirty days and has no thirty-first. July 1 is a Saturday, so
+July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh; **August 1 is a Tuesday,
+August's Thursdays are the third, the tenth, the seventeenth, the twenty-fourth and the thirty-first, and
+September's are the seventh, the fourteenth, the twenty-first and the twenty-eighth.** Day map: 281 the 10th,
+**the movement opens, the third ask, and a keeper puts him out of her room** · 282 the 13th, **Beatrix Halm and
+what a security that does not cover costs, and the condition she gives him** · 283 the 16th, **THE DESK —
+Ines Duarte at a desk where she is the subject, and the term goes onto a file** · 284 the 19th, **Petra Ilyin
+and a quarter round whose twentieth address is his, with the figure seven under it** · 285 the 22nd,
+**Wren Kallo's sixth telling on an ordinary afternoon, and the word *unusual* goes off the record** · 286 the
+24th Thursday, **THE FIGURE — eight thousand one hundred and thirty-eight, initialled and not signed** · 287 the
+27th, **there is no before, and the routing is refused out loud in a broker's own rooms** · 288 the 29th,
+**the panel, and he is at the bottom of the street** · 289 the 30th, **the card at six, five under, and
+Sun Meiling's scene** · 290 the 1st of September, **the certification, the bar, and Sun Meiling in ink.**
+
+### Gates run after the last edit
+
+```
+files            chapters/volume-06/ -> 40 (0251..0290). 290 chapter files total across six volumes.
+                  281-290 all present. Nothing before 0281 and nothing after 0290 was created.
+                  **Chapter 0280 was written by Batch 0003 and was NOT modified by this batch; it was restored
+                  from git twice during the paragraph-splitting repair, which is recorded in
+                  `reviews/volume-06/batch-0004.md` §3.** Every file in chapters/ is a chapter. Checked by command.
+titles           unique across ALL 290 written titles -> **NONE duplicated**. Over 90 chars -> **0**.
+                  Longest new title 33 ("The Woman Who Asked To Be Counted").
+                  **None of the batch's ten begins with "What."** **Twenty-eight titles in the whole book do,
+                  all inherited from Volumes 1 to 5 — four in Volume 1, four in Volume 2, thirteen in Volume 3,
+                  none in Volume 4, seven in Volume 5, and ZERO in all forty of Volume 6's written titles.**
+                  Counted by command against every file in chapters/, not by eye.
+                  Collision check run against every file in chapters/ by command, not by eye.
+                  281 Two Flights Of Stair (20) · 282 The Shortest Thing On A Wall (28) ·
+                  283 A Term With A Date On It (24) · 284 The Round She Cannot Refuse (27) ·
+                  285 The Man Who Files In Her Division (30) · 286 The Reason She Does Not Ask (26) ·
+                  287 There Is No Before (18) · 288 The Room He Is Not In (22) ·
+                  289 The Woman Who Asked To Be Counted (33) · 290 The Fourth Document (18)
+wc 281-290       2025 / 1916 / 2263 / 1842 / 1816 / 1826 / 1886 / 2025 / 2532 / 1806
+                  **ALL TEN INSIDE 1,800-2,700 AND NO NAMED EXCEPTIONS ARE NEEDED.**
+                  289 is the longest at 2,532 and it is Volume 6's fourth scene on the scene table, plus a card
+                  coming down on a public wall at six in the morning; it did not run past the band.
+markup           **bold 4 | italic 6 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
+                  **Markup is not zero and a later batch must not inherit a zero.** The four bold spans are
+                  281 the sentence she gives him on the way up the stairs, 285 **unusual**, 285 **filed**, and 289
+                  **out of band**. The six italic spans are 283 *address at premises held*, 285 *yes*, 286 *do
+                  it*, 288 *accusation*, 289 the four lines of the broker's statement as a document, and 290 the
+                  six lines of the ground of certification as a document.
+system panels    **0,0,0,0,0,0,0,0,1,0.** Nine chapters contain no "[" character at all, so their zero is
+                  **STRUCTURAL and not a regex artefact.** **A PANEL WAS DUE IN 289 AND WAS PAID**, because a
+                  draw was spent: *[Draw. The hand at the base of the throat. It will cost her a cold minute and
+                  she will be a fool if she takes it again this week.]* It is placed AFTER the scene and it is
+                  not the mechanism of anything that happened in it — she is already there and she asked.
+                  **Nothing settles in this batch: the forty-day clock on the reservoir has not started, he is
+                  still earning continuously, and no settle date has been invented or printed anywhere.**
+paragraphs       over 90 words -> **0**. Over 120 words -> **0.** *(The first draft had 30 over 90 and 3 over
+                  120; all 33 were split by hand at a speech beat and none was split by machine.)*
+exact-dup paras  **whole-paragraph identity test, batch AND neighbours 271-290, at five floors:**
+                  floor 1 -> 12 groups, **ALL 12 quoted dialogue beats** (*Yes.*, *No.*, *I know.*, *Go on.*,
+                  *Say it.* and so on), **UNQUOTED 0**.
+                  floor 2 -> 5 groups, all 5 quoted dialogue beats, **UNQUOTED 0**.
+                  floor 3 -> **0**. floor 4 -> **0**. floor 6 -> **0**.
+                  **This batch's first draft had `He sat down.` at 281, twice at 283 and once at 289, and
+                  `She stopped.` twice at 283 — six instances of the exact defect Batch 0003's reviewer found at
+                  262 and 263, and all six are now gone.** A first-6-words-prefix test is NOT substituted here,
+                  because on Batch 0003's own clean batch it returned 10 and a first-4-words test returned 68
+                  and every one of those is an ordinary English opener. **Test identity, not opening words.**
+quote balance    **quotation marks even, whole file, 281-290 -> 10 of 10.** 142 / 148 / 164 / 140 / 138 / 108 /
+                  140 / 124 / 158 / 122. **This row exists because this batch broke it nine times** — see the
+                  preamble.
+nobody           **9, and every one was read back out of the file before this row was written.**
+                  281:33 there is nobody else in this room who will · 283:71 nobody here will be able to take
+                  it out again · 286:101 rather publish a figure that convicts nobody at all · 287:45 it
+                  convicts nobody at all · 288:25 a room nobody else ever hears · 289:153 nobody in this
+                  building is going to be kind to you · 289:187 nobody in this house was going to give it to me
+                  · 290:119 nobody will ever be able to find out from this document · 290:149 nobody has ever
+                  read a word of it.
+                  **The first draft ran 22 and thirteen were cut.** Against Volume 5's 9, Batch 0001's 1,
+                  Batch 0002's 6 and Batch 0003's 5. **The construction that goes dead by the tenth is `nobody
+                  asked`, not `nobody`, and there is not one `nobody asked` in this batch.**
+no person        **0.**  He understood **0** (the first draft had one — *He understood, slowly, that* — and it
+                  was cut).  He also understood **0**.
+He had woken wanting  **0 of 10.**
+He felt          **0**, case-sensitive.
+weekday          **Thursday 5 and every other weekday 0**, whole-word AND as a substring, both tested.
+                  **All five surviving Thursdays checked against the calendar: every one is the twenty-fourth
+                  of August.** They are the circulation of the reconciliation (286), the date the page went out
+                  (287, twice) and the reconciliation Marguerite Vale refers to in her statement (288).
+                  **The first draft named Friday and Saturday in seven chapters and every one was replaced, and
+                  no replacement word was Thursday.**
+meta / fourth wall / ages   **0.** volume, chapter, the reader, this scene, novel, narrat, the author, every
+                  age construction -> **0**. **One real age statement was cut: Sun Meiling's *I am thirty-three
+                  years old*, which `bible/characters.md` forbids, and *eleven years old as well*, which was a
+                  promise and not a person and was rewritten to *eleven years in*.**
+12-GRAM SCAN     **RUN FIRST, AGAINST ALL 290 CHAPTERS, BEFORE THE 8-WORD SCAN, AND RUN REPEATEDLY.**
+                  **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. FIRST PASS 131. FINAL 0.**
+                  Against 290 chapters, against Batch 0003's 2 and Batch 0002's 13.
+                  Every one of the 131 was a real defect and every one was cut. The classes were: three instances
+                  of a phrase from Chapters 86 and 189 in 287 · the reconciliation's key clause written out in
+                  full in both 287 and 288 · **Marguerite Vale's four-line statement appearing verbatim in both
+                  288 and 289** · the broker's pen clause across 264, 274, 287 and 288 · the closing paragraph of
+                  289 repeated at the end of 290 · the thirteenth-of-August sentence from 275 in 289 · the
+                  thirteenth-of-June sentence from 132 in 281 · Sun Meiling's own sentence from 276 in 289 ·
+                  Beatrix Halm's definition of a price against Chapter 257 · and eleven single 12-grams of dates
+                  and rules.
+                  **THE ONE ADJUDICATED ECHO OF THE BATCH** is *at twenty-five minutes past four on the
+                  twentieth of July*, which appears in 264, 274, 287 and 288 and is **a date, not a sentence**.
+                  It does not survive the whitespace test and is the whole of the punctuation-stripped figure.
+                  **THE TOKENISATION IS PART OF THE NUMBER. A punctuation-insensitive variant of the same scan
+                  returns 6, and all six are that date and the hour of the correction on the thirtieth of July
+                  in 283 against 271.**
+intra-batch      12-grams occurring in 3+ chapters -> **0**. Max multiplicity 2 (the date, above).
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 261-290 -> **0.**
+                  The first pass returned 1 — *"Eight thousand one hundred and thirty-eight," she said* in 274
+                  and 286 — and it was cut.
+intra-chapter    duplicated 5-word-plus sentences inside any single chapter -> **0.**
+quote balance    quotation marks even, whole file, 281-290 -> **10 of 10.**
+```
+
+### What the gates do not tell you
+
+**This batch's failure mode was a tool, not a sentence.** Two scripts were run over the prose to find
+paragraphs over ninety words, and both of them took dialogue apart: one stripped the opening quotation mark off
+continuation paragraphs and the other moved attribution clauses out of order, and between them they destroyed the
+dialogue structure in all ten chapters. **Chapter 280, which is Batch 0003's closed chapter, was caught by the
+same script and restored from git.** Ten chapters were rewritten from the drafts, once, by hand, and the third
+of the four days this batch cost went into that rather than into the plot. The repair is recorded in
+`reviews/volume-06/batch-0004.md` §3 so that Batch 0005 does not run the same script.
+
+**The batch's strongest turn is a woman asking for a thing she has already been refused and being given it.**
+Petra Ilyin asks to be the one who knocks at his door on the first of October, and he agrees in four seconds,
+and she tells him it is the worst thing anybody has said to her in eleven years, and it is.
+
+**The batch's cost is a bar.** Sun Meiling goes into ink on a certificate that he certified, in his own hand,
+over a defect he described in his own hand, and she is neither grateful nor ungrateful about it, and she asked
+for it on the fifth of August in front of six people, and he has been ungrateful on her behalf since the ninth
+and will not be forgiven for it.
+
 ## Volume 6, Batch 0003 — LIVE GATE RECORD (Chapters 271–280). THE FIRST TO THE NINTH OF AUGUST.
 
 > **This block supersedes Batch 0002's as the live gate record.** Batch 0002's block is retained below it,

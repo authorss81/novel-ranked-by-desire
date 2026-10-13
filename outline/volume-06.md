@@ -179,14 +179,43 @@ every eight to fifteen chapters is met by 261 and not before.
    initialled, and a keeper who signs can be cross-examined, and she did it for nothing and was not asked.**
    She has moved from a name to a date: **the annual sitting is the sixteenth of September, four hundred and
    four days out at the close of the batch.** **289 is Volume 6's next scene and it is not hers.**
-4. **The Figure That Cannot Be Refused — 281–290.** *Plan, and Batch 0003 changed one thing in it before it
-   was written.* **The reservoir gets a figure on a dated page in a book that reconciles**, and the batch that
-   writes it is the batch that pays for it. **Batch 0003 established the condition it has to be written under:
-   Rask's book holds movements and its reconciliation reads the Vant's two books, and it cannot see the
-   Exchange's chained book, and there are now three sets of books in this volume that do not see each other
-   and will all be read by the same four divisions in the same week of the first of September. A figure in a
-   book that reconciles is therefore not the same kind of object as a figure in a book that does not, and the
-   first question Batch 0004 has to answer is which one is on the page under the column.** 289.
+4. **The Figure That Cannot Be Refused — 281–290. WRITTEN, and the plan was wrong about what got the figure.**
+   Batch 0003 amended this movement before it was written: *a figure in a book that reconciles is not the same
+   kind of object as a figure in a book that does not, and the first question Batch 0004 has to answer is which
+   one is on the page under the column.* **The page's answer is the better one and it is not the plan's: the
+   reservoir does NOT get a figure in this movement.** `bible/power-system.md` says it is an account with no
+   number and Batch 0004's prompt said plainly, *do not price the reservoir*, and those two agree. **What goes
+   on the page on the twenty-fourth of August is the figure of the head — eight thousand one hundred and
+   thirty-eight — standing against the broker's unsecured account of thirty years, which is the only figure
+   that account can carry because nothing else secures it, and the page says in terms that the figure is not a
+   price.** The sentence under the column is the price and Rask has not looked at it since the twenty-fourth
+   of July and will not before the sixteenth of September.
+   **So the volume's failure condition is armed rather than paid.** What is on the page is a man, not a thing,
+   and it cannot be moved, paid or answered until it is called — it cannot be earned because a witness in the
+   room stops him scoring, and it cannot be produced against because a production answers a call and there is
+   no call outstanding. **What a security that does not cover costs is movement 4's subject and Chapter 282 is
+   its answer, in Beatrix Halm's mouth: on the thirtieth it stops being a hold and becomes a price, and a price
+   is a thing somebody has to find.**
+   **THE REASON SHE DOES NOT ASK, which was the question the movement was opened for.** An initialled
+   reconciliation is a keeper's arithmetic and a signed one is a woman's evidence; she signed the page of the
+   third of August and initialled the page of the twenty-fourth, and if she asks him for the figure the figure
+   becomes his, and a figure a man gave a division about his own account is a charge rather than an arithmetic
+   and is struck inside a week with everything true about his account. **She is not protecting him. She is
+   protecting the truth.**
+   **The rest of the movement, as written:** 281 the third ask and **a keeper puts him out of the room and bolts
+   the door**, which closes his only channel to her until the seventeenth of September · **283 THE DESK, and it
+   is hers** — Ines Duarte makes him say the term of the ninth of July out loud on the record, and pays for it
+   by putting her own address into four divisions off a return of the twelfth of June, in her own words ·
+   **284 the round, and his own sworn production of seven becomes a postal address**, and Petra Ilyin's sworn
+   promise will not let her refuse it · **285 the sixth telling on an ordinary afternoon with the door open, and
+   the word *unusual* comes off the record for good** · **287 there is no before, and the routing is refused out
+   loud in a broker's own rooms** — the cost has been paid, the routing has not happened, and this is the first
+   time the asymmetry has been said in a room · **288 THE PANEL, and he is not in it** — the promise made on the
+   twenty-eighth of July, on the twenty-ninth, under her own signature, with **eleven** on a table ·
+   **289 THE SCENE, Sun Meiling's, on the night of the card, and she forbids him in advance to write one word
+   about anybody asking for anything** · **290 THE IRREVERSIBLE DECISION, and it is his: he certifies a
+   schedule over a defect he describes in his own hand, on the face of the certificate, with a minute, and Sun
+   Meiling goes into ink underneath the bar.** 289.
 5. **Terms — 291–300.** *Plan.* 299, and Volume 6's answer to `outline/series.md`'s sentence.
 
 **Escalation, stated once so no batch has to re-derive it.** Volume 5 was about a woman deciding whether
@@ -275,7 +304,16 @@ scenes and both titles are the room they happen in. 277 was retitled twice: *The
 struck because a title may not carry a rationed word, and *What He Went Up The Stair For* at 280 was struck
 because a title may not begin with *What*.**
 
-**FREE FOR 281–300. Taken titles above are struck and must not be re-issued:**
+**Batch 0004 took ten.** **281 Two Flights Of Stair (20) · 282 The Shortest Thing On A Wall (28) · 283 A Term
+With A Date On It (24) · 284 The Round She Cannot Refuse (27) · 285 The Man Who Files In Her Division (30) ·
+286 The Reason She Does Not Ask (26) · 287 There Is No Before (18) · 288 The Room He Is Not In (22) · 289 The
+Woman Who Asked To Be Counted (33) · 290 The Fourth Document (18).** Checked by command against all 290 written
+titles: none duplicated, none over ninety characters, **and none begins with *What*, which is the third
+consecutive Volume 6 batch to say so.** **Counted by command against all 290 written titles, Volume 6 has
+ZERO of them, and the book's twenty-eight are all inherited from Volumes 1 to 5 (4 / 4 / 13 / 0 / 7).** The
+longest title in the volume remains 270's forty-one.
+
+**FREE FOR 291–300. Taken titles above are struck and must not be re-issued:**
 
 ~~The One He Named First~~ · ~~The Charge Against The Schedule~~ · ~~The Keeper Of The Real Books~~ · ~~The
 Table Bare~~ · ~~Twenty-Two Stitches~~ · ~~Nine Years In A Line~~ · ~~The Only Room She Owns~~ · ~~One Of The
