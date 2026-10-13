@@ -7,18 +7,20 @@ the re-run outranked the record. The audit is `reviews/volume-07/volume-close.md
 ```
 FILES            chapters/volume-07/ -> 50 files, chapter-0301.md .. chapter-0350.md, no gap in the
                  sequence and no file outside that range. **No chapter 351 exists anywhere in the
-                 repository.** chapters/volume-08/, outline/volume-08.md and workspace/volume-08/
-                 are ALL ABSENT at the time of this run.
-VOL 7 WORDS      **107,478**, counted per file and summed.
-                 **WARNING: `cat *.md | wc -w` returns 107,440 and is WRONG BY 38.** Thirty-nine of
+                 repository.** chapters/volume-08/ and outline/volume-08.md are ABSENT and must
+                 stay absent until the Volume 8 planning phase creates them. workspace/volume-08/
+                 is NOT absent — it holds the one live prompt,
+                 workspace/volume-08/volume-plan/PROMPT.md.
+VOL 7 WORDS      **107,477**, counted per file and summed.
+                 **WARNING: `cat *.md | wc -w` returns 107,439 and is WRONG BY 38.** Thirty-nine of
                  the fifty files carry no trailing newline, so concatenation merges the last word of
                  each file into the first word of the next. **Count per file and sum. Never record a
                  volume word count from a concatenation.**
 TITLES           350 chapter files, 350 distinct title lines, **0 duplicates anywhere in the book**.
                  0 over 90 characters. Volume 7: 0 beginning with *What*, 0 built out of *there is
                  no* / *nobody* / *nothing* / *what*, 0 outside 3-12 words.
-PARAGRAPHS       over 90 words, whole volume: **0**. over 120 words: **0**. Measured after this
-                 audit's own one-word prose repair.
+PARAGRAPHS       over 90 words, whole volume: **0**. over 120 words: **0**. Measured after the
+                 review-fix pass's prose repair.
 MARKUP           blockquote 0 · table 0 · horizontal rule 0 · code block 0.
                  Bold spans 8 and italic spans 91 across fifty chapters; the italics are documents.
 SYSTEM MESSAGES  **exactly six in the whole volume**, one each, in **331, 332, 335, 339, 343, 349**.
@@ -36,27 +38,45 @@ DUPLICATE PARAS  exact-duplicate paragraph across two different chapters, volume
                  connective tissue (*and I am not going to be the*, *she put her hand flat on the
                  table*, *in about four years*), which is the voice and not duplication.
                  **The reportable figure is the pair 340 <-> 350: ONE shared eight-word clause.**
-                 See the two findings below.
+                 See the three findings below.
 BANNED           his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 ·
                  there is no form 0 · there is no column 0 · the record remained 0. **Seven of seven.**
 ```
 
-**THE TWO FINDINGS THE CLOSE AUDIT RAISED AGAINST 340 AND 350, RECORDED HERE SO A LATER PHASE DOES NOT
-RAISE THEM AS NEW:**
+**THE THREE FINDINGS RAISED AGAINST 340 AND 350, RECORDED HERE SO A LATER PHASE DOES NOT RAISE THEM AS NEW:**
 
-1. **APPLIED. The grey temple.** 340 gave Ines Duarte a grey at **the left temple that had come in three
-   years earlier**. 350 gave Wren Kallo *the grey that had come in at her **left** temple three years ago* —
-   **same side, same interval, ten chapters apart, both in the volume's five scenes, and below every
-   word-count gate.** The Batch 0005 scar repair caught the wrist and missed the face. **One word changed:
-   Wren's grey is now at the right temple.** Chapter 350 is 2,939 words before and after. **The wrist scar
-   remains Ines Duarte's alone, and chapter 350 carries no scar.**
-2. **RECORDED, NOT REPAIRED. The scene template.** *Terms, a body described in words, three times, a counted
+1. **REPAIRED, AND REPAIRED TWICE. The grey temple.** 340 gave Ines Duarte a grey at **the left temple that
+   had come in three years earlier**. 350 gave Wren Kallo *the grey that had come in at her **left** temple
+   three years ago* — **same side, same interval, ten chapters apart, both in the volume's five scenes, and
+   below every word-count gate.** The Batch 0005 scar repair caught the wrist and missed the face.
+   **SUPERSEDED REPAIR: the close audit changed one word and moved Wren's grey to the right temple. That was
+   wrong.** The grey temple is **Lin Hao's** cost and the manuscript fixes its side as the **left** in
+   Chapters 4, 5, 25, 26, 38, 57, 72 and 139, and Chapter 72 makes the location's immovability a deliberate
+   beat on the page. That repair put an exception into a rule the book states out loud, and it broke the
+   wrist-scar precedent it was citing, which removed the detail outright.
+   **THE REPAIR THAT STANDS REMOVES WREN'S GREY ENTIRELY.** Chapter 350 now reads *working down from **the
+   yellow at the corner of her left eye since the spring** to the shape of her foot on the floor* — a mark
+   Wren already carries in the same chapter fourteen lines above it, as damage the work has done and she has
+   refused to treat. **`right temple` now occurs ZERO times in the book and the left temple is the only side
+   in it again.** **The wrist scar remains Ines Duarte's alone, and chapter 350 carries no scar.**
+   **Chapter 350 is 2,938 words and its scene body is 1,621.**
+2. **REPAIRED AT THE REVIEW-FIX PASS. The ink — a fourth duplicated claim, found one paragraph above the
+   grey and missed by both earlier passes.** 340 gave Ines *ink at the cuticles on the first two fingers of
+   **the right hand** that **soap had never lifted in eleven years***; 350 gave Wren *Two of the nails of
+   **her right hand** were stained at the roots with ink, and **no soap in this city has ever been able to
+   shift it in eleven years***. **Same hand, same substance, same refusal of soap, same duration.** 350 now
+   reads *Two of the nails of **her left hand** were stained at the roots with ink, and **she had stopped
+   pretending nine years ago that soap was ever going to lift it***. **Chapter 329 is left alone on purpose —
+   Marguerite Vale's version carries no hand, no duration and no framing — but it is the third instance in
+   the volume, and Volume 8 must not add a fourth. Full note at `state/continuity.md` item 19a.**
+3. **RECORDED, NOT REPAIRED. The scene template.** *Terms, a body described in words, three times, a counted
    minute, then a kettle* — confirmed in both 340 and 350, and confirmed by Batch 0005 as **the single
    largest duplication risk in this manuscript.** Every instance differs in content, the fifth term is the
    hinge of each scene, and the one shared eight-word clause finishes differently in each
    (*her hand flat on his wrist keeping the time* against *her nails in him*). **VOLUME 8'S WRITING PHASES
    MUST CHECK SCENES FOR BORROWED BODIES BEFORE THEY CHECK THEM FOR BORROWED SENTENCES: the twelve-gram
-   scan found nothing in this volume and two duplicated body details went out in it.**
+   scan found nothing in this volume and THREE duplicated body details went out in it — the scar, the grey
+   temple and the ink, and every one of the three was caught by reading 340 against 350 and not by a gate.**
 
 **LEDGER: 124 LINES AT 350 IS CORRECT AND MUST NOT BE RECONCILED.** The count rises across the volume — 118
 in 321/323/324/327, 121 at 339, 122 at 343, 124 at 349 — each in a system line, each with *nothing spent*
@@ -69,7 +89,7 @@ line is still himself throughout and nothing was spent throughout.
 
 > **Every number below was produced by command against the files as they stand AFTER THE LAST PROSE EDIT (the last prose edit was the scene rewrite in 350), by passes that did not write the prose, with tokenisation and scope stated wherever a number needs them. The 12-gram scan ran FIRST, before the 8-word scan, against all 350 chapter files, and again after every repair round — three further times after the last prose edit. No paragraph splitter ran at any floor, ever. The only pass over paragraphs is a reporter that prints lengths and writes nothing. Every over-length paragraph was split BY HAND at a speech beat or a sentence beat, and whole-file quotation counts were re-checked after each round.**
 
-**Ten chapters, thirty days. A month is thirty days and has no thirty-first. The thirtieth of December is the last working day of the quarter and the quarterly card comes down at six.** Day map: 341 the 1st, the valuation at ten to nine and the room seen from a corridor · 342 the 6th, the requisition served and the arithmetic of nine · 343 the 10th, the reason, the holding, and the ninety seconds on the sixteenth of September · 344 the 14th, THE HEARING, Anouk Ferreira · **345 the 17th, THE MIDPOINT, the smaller offer, and the instrument he refuses it with** · **346 the 23rd, THE CLIMAX'S FIRST HALF, NINE MINUTES AND NO MAJORITY** · 347 the 26th, the minute in four hands · **348 the 29th, THE BATCH'S IRREVERSIBLE DECISION, the page he signs** · 349 the 30th, early morning, the card at six, 8,145 on the nose · **350 the 30th, at night, WREN KALLO'S SCENE, body 1,626 words, counted AND probed, and the volume's last chapter**.
+**Ten chapters, thirty days. A month is thirty days and has no thirty-first. The thirtieth of December is the last working day of the quarter and the quarterly card comes down at six.** Day map: 341 the 1st, the valuation at ten to nine and the room seen from a corridor · 342 the 6th, the requisition served and the arithmetic of nine · 343 the 10th, the reason, the holding, and the ninety seconds on the sixteenth of September · 344 the 14th, THE HEARING, Anouk Ferreira · **345 the 17th, THE MIDPOINT, the smaller offer, and the instrument he refuses it with** · **346 the 23rd, THE CLIMAX'S FIRST HALF, NINE MINUTES AND NO MAJORITY** · 347 the 26th, the minute in four hands · **348 the 29th, THE BATCH'S IRREVERSIBLE DECISION, the page he signs** · 349 the 30th, early morning, the card at six, 8,145 on the nose · **350 the 30th, at night, WREN KALLO'S SCENE, body 1,621 words, counted AND probed, and the volume's last chapter**.
 
 ### Gates run after the last edit
 
@@ -92,15 +112,18 @@ titles           unique across ALL 350 written titles -> NONE duplicated anywher
                  **349 is the only title in the bank that names an hour and it is kept, because it is
                  the volume's last image.** Volume 7 keeps its own *What* titles at zero; the book's 28
                  inherited ones are all in Volumes 1–5 and are closed.
-wc 341-350       2081 / 2175 / 1973 / 2150 / 1988 / 1992 / 1981 / 1966 / 1934 / **2939**.
+wc 341-350       2081 / 2175 / 1973 / 2150 / 1988 / 1992 / 1981 / 1966 / 1934 / **2938**.
                    **NINE INSIDE 1,800–2,700 AND ONE NAMED LEAVER.**
                    **[RE-RUN AT THE VOLUME CLOSE, 13 OCT 2026. THE FIRST TWO FIGURES ON THESE TWO LINES WERE BOTH
                    WRONG AND THEY DISAGREED WITH EACH OTHER: this line said 2,925 and the line below said 2,927.
                    Chapter 350 stood at 2,927 at the writer's commit and the repair pass in `0f326cb` — which
                    removed the wrist scar and rewrote the breast line — added twelve words and was never
-                   re-measured. THE FIGURE ON DISK IS 2,939, WHICH IS WHAT IS NOW PRINTED IN BOTH PLACES.]**
-                   **350 LEAVES THE BAND AT 2,939 AND THE NAMED REASON IS: it is the scene chapter and
-                   the volume's last chapter. Its scene body is 1,626 words measured from `## The Second
+                   re-measured, which put it at 2,939.
+                   [RE-RUN AGAIN AT THE REVIEW-FIX PASS. The close audit's repair to the grey temple has been
+                   superseded and redone: Wren's borrowed grey is removed rather than moved, which cost one
+                   word. THE FIGURE ON DISK IS NOW 2,938 AND THAT IS WHAT IS PRINTED IN BOTH PLACES.]]**
+                   **350 LEAVES THE BAND AT 2,938 AND THE NAMED REASON IS: it is the scene chapter and
+                   the volume's last chapter. Its scene body is 1,621 words measured from `## The Second
                    Floor` to `## What She Cannot Keep` exclusive of both, counted AND probed, and the
                    chapter carries the four things that close the volume (the thing she cannot keep, the
                    fact that the offer was not made, that a requisition was tabled and voided, and that
@@ -228,12 +251,20 @@ meta / ages      **0.** novel|narrator|reader|this volume|volume <digit>|chapter
                   age fixed anywhere and none is given here.
 fades            `it went on a long time` -> 0. `afterwards` -> 0 (two in 350 removed in repair).
                   **SCENE COUNT AND PROBE, BOTH IN THE ROW, BECAUSE A COUNT IS NOT A PROOF.**
-                  **COUNT: 1,626 words, `## The Second Floor` -> `## What She Cannot Keep`, exclusive
+                  **COUNT: 1,621 words, `## The Second Floor` -> `## What She Cannot Keep`, exclusive
                   of both headings. PROBE, case-insensitive, read as words:** mouth 6 · bed 9 · hair 5 ·
-                  came 3 · thighs 3 · inside 3 · finger 2 · fingers 2 · nipples 2 · come 2 · thigh 3 ·
-                  tongue 1 · wet 1 · cock 1 · shaft 1 · cunt 1 · breasts 1 · hips 1 · stomach 1 ·
-                  scar 1. **Probe total 49 across 24 terms. A count over nine hundred with an empty
+                  came 3 · thighs 3 · inside 2 · finger 2 · fingers 2 · nipples 2 · come 1 · thigh 3 ·
+                  tongue 1 · wet 1 · cock 1 · shaft 1 · cunt 1 · breasts 0 · hips 1 · stomach 1 ·
+                  scar 0. **Probe total 45 across 24 terms. A count over nine hundred with an empty
                   probe is a fade. This count with this probe is a scene.**
+                  **[RE-PROBED AT THE REVIEW-FIX PASS. Batch 0005's own probe, re-run against the file as it
+                  stands, reads mouth 6 · bed 9 · hair 5 · came 3 · thighs 3 · inside 2 · finger 2 ·
+                  fingers 2 · nipples 2 · come 1 · thigh 3 · tongue 1 · wet 1 · cock 1 · shaft 1 · cunt 1 ·
+                  breasts 0 · hips 1 · stomach 1 · scar 0. Four terms differ from the row above and all four
+                  were removed by repairs after it was written: `breasts 1` and `scar 1` by the Batch 0005
+                  repair pass, `inside 3` and `come 2` by the close audit and the review-fix pass. The count
+                  was 1,626 and is 1,621. The conclusion does not move — forty-five hits across twenty-four
+                  terms is a scene and not a fade.]**
                   **SCENE RULES CHECKED AND HOLDING:** adult · **no impaired state as mechanism** (she
                   states in writing that she has eaten, has not drunk, has slept four hours because she
                   could not lie down, and is not in a trance) · **no compulsion** (term four is the

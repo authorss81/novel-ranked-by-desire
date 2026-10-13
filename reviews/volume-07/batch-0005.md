@@ -78,6 +78,9 @@ numbers, not asserted ones.**
 words across the whole volume: **0.** Markdown violations across the whole volume: **0.** System messages:
 **six chapters carry exactly one each — 331, 332, 335, 339, 343 and 349 — and all other chapters carry
 none.** Titles: **350 in the book, no duplicates.** Chapters 341–350 against all earlier files at twelve
+**[RE-MEASURED AT THE REVIEW-FIX PASS, 13 OCT 2026: the volume is now 107,477 words, one under the figure
+above, because the close audit's superseded one-word repair to the grey temple in 350 has been redone properly
+and the borrowed claim came out a word shorter. Every other number in this paragraph still holds.]**
 words: **0 shared.** Within the batch at twelve words: **the 344/345 refrain and nothing else.**
 
 **Found and fixed by the repair pass, all three below the twelve-word gate:**

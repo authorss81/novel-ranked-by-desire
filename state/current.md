@@ -21,25 +21,30 @@ not requisitioned. **A requisition that failed is still a requisition in a room'
 says so: he is safer and more findable on the same morning.**
 
 **THE HEADLINE NUMBERS ALL HELD AGAINST THE PAGE.** Fifty files, 0301–0350, no 351 anywhere.
-**107,478 words.** 350 titles, no duplicate. **0 paragraphs over ninety words and 0 over one hundred and
-twenty.** **0 markdown violations.** **Exactly six system messages in the entire volume**, one each, in 331,
-332, 335, 339, 343 and 349. **0 banned constructions, all seven.** **0 exact-duplicate paragraphs.**
+**107,478 words at the audit's run, 107,477 after the review-fix pass.** 350 titles, no duplicate. **0 paragraphs
+over ninety words and 0 over one hundred and twenty.** **0 markdown violations.** **Exactly six system
+messages in the entire volume**, one each, in 331, 332, 335, 339, 343 and 349. **0 banned constructions, all
+seven.** **0 exact-duplicate paragraphs.**
 **The only twelve-gram match anywhere in the volume is the framed refrain at 344 and 345, which is the one
 match the gate was meant to leave standing.**
 
-**FOUR RECORD DEFECTS WERE CORRECTED IN THE AUDIT'S COMMIT:**
+**FOUR RECORD DEFECTS WERE CORRECTED IN THE AUDIT'S COMMIT, AND THREE MORE BY THE REVIEW-FIX PASS THAT FOLLOWED IT:**
 
-1. **`state/open-threads.md` printed Chapter 350 at two different numbers — 2,925 and 2,927 — and both were stale.** The file was 2,927 at the writer's commit; the scar repair added twelve words and the gate block was never re-derived. **The figure on disk is 2,939. Both places now say 2,939.**
-2. **One word of prose was changed.** Chapter 350 had given Wren Kallo a grey at **the left temple that came in three years ago** — the same side and the same interval as the grey Chapter 340 gives Ines Duarte. **The scar repair caught the wrist and missed the face.** Wren's grey is now at the **right** temple. Chapter 350 is still 2,939 words.
+1. **`state/open-threads.md` printed Chapter 350 at two different numbers — 2,925 and 2,927 — and both were stale.** The file was 2,927 at the writer's commit; the scar repair added twelve words and the gate block was never re-derived. **The figure was 2,939 and is 2,938 now, because the review-fix pass removed the borrowed grey temple from 350 and did not pad the sentence back to a number.**
+2. **Prose was changed, and the audit's repair to it was wrong and has been redone.** Chapter 350 had given Wren Kallo a grey at **the left temple that came in three years ago** — the same side and the same interval as the grey Chapter 340 gives Ines Duarte. **The scar repair caught the wrist and missed the face.** The close audit fixed this by moving Wren's grey to the **right** temple. **That was wrong: the grey temple is Lin Hao's cost and the manuscript fixes its side as the left in eight chapters, and Chapter 72 makes the location's immovability a deliberate beat on the page — and it broke the wrist-scar precedent it was citing, which removed the detail rather than moving it. THE REPAIR THAT STANDS REMOVES WREN'S GREY ENTIRELY.** 350 now reads *working down from the yellow at the corner of her left eye since the spring* — a mark Wren already carries in the same chapter, fourteen lines above it, as damage the work has done and she refuses to treat. **`right temple` now occurs zero times in the book.** Chapter 350 is **2,938** words. **A fourth duplicated claim, the ink, was found one paragraph above the grey and repaired in the same pass; it is canon item 19a.**
 3. **`state/chapter-summaries.md` had the Volume 7 Batch 0001 block unlabelled and headed LIVE**, with the `## Volume 7 — Seven` volume header stranded below it between Batches 0001 and 0002. **The five blocks now read 0001, 0002, 0003, 0004, 0005 in ascending order under a header that sits above the first.**
 4. **A stale 2,560-character Volume 7 plan — marked OPEN, naming a dead phase prompt — was glued inside the Volume 6 row of the same index behind a doubled pipe.** Excised.
+5. **The close audit's own scene table printed Chapter 308 at 1,542 against a header that says every figure is measured exclusive of both headings.** 318, 329, 340 and 350 all reproduced exactly; 308's exclusive figure is **1,538**. No conclusion moved. **A record of a measurement is still a measurement.**
+6. **The close audit's §3 pointed the reader at item C1 for the shared eight-word clause, which is reported in C2.** Corrected.
+7. **Two files claimed `workspace/volume-08/` was absent in the same commit that created its prompt.** Restated accurately: `chapters/volume-08/` and `outline/volume-08.md` are absent and must stay absent until the planning phase; `workspace/volume-08/` exists and holds the one live prompt.
 
 **TWO MEASUREMENT TRAPS, RECORDED SO THE NEXT PHASE DOES NOT FALL IN THEM:**
 
-- **`cat chapters/volume-07/*.md | wc -w` returns 107,440 and is wrong by 38.** Thirty-nine of the fifty files carry no trailing newline. **Count per file and sum.**
+- **`cat chapters/volume-07/*.md | wc -w` returns 107,439 and is wrong by 38.** Thirty-nine of the fifty files carry no trailing newline. **Count per file and sum.**
 - **The ledger's line count rises across Volume 7 — 118, then 121 at 339, 122 at 343, 124 at 349 — and that is correct.** Nothing was spent, so no line was turned; the ninth turned line is still himself throughout. **The number of lines in the ledger is not the number of lines turned in it. 124 at 350 is right and must not be reconciled back to 118.**
 
-**NOTHING ELSE CHANGED.** No chapter was rewritten. No controller file was touched. `outline/ending.md` has
+**NOTHING ELSE CHANGED.** No chapter was restructured, cut or restarted — two clauses in 350 were replaced with
+two clauses that belong to that woman. No controller file was touched. `outline/ending.md` has
 not been modified since the bootstrap commit. **No new final enemy. The ending's shape is untouched: the
 reservoir is returned in full at 486, Lin Wei's file opens at 372, he ends at rank one, and the great offer
 is Chapter 486's — not Wren Kallo's and not Anouk Ferreira's.**

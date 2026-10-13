@@ -56,7 +56,7 @@ She undressed before he did and she did it in an order and at a speed that gave 
 
 Her cuffs first, then her collar, then the front of her blouse, which she pulled over her head with one movement the way somebody does a thing they have done ten thousand times. She put each garment over the back of the single chair, on top of his coat.
 
-She was pale and thin through the middle, and narrow through the shoulders with it, and high-breasted. Two of the nails of her right hand were stained at the roots with ink, and no soap in this city has ever been able to shift it in eleven years.
+She was pale and thin through the middle, and narrow through the shoulders with it, and high-breasted. Two of the nails of her left hand were stained at the roots with ink, and she had stopped pretending nine years ago that soap was ever going to lift it.
 
 Both nipples were already standing up and dark, the colour her own mouth goes on the inside. Her eyes were the eyes of a woman who reads four hundred hands a week, and the white of the left one had been yellow at the corner since the spring and she had not gone to the Vestry clinic about it and was not going to.
 
@@ -72,7 +72,7 @@ He got a button wrong on the second one. She told him he was absurd and meant it
 
 "Hold still," she said, when he was down to nothing. "You have described eleven people to me in words this year and every one of them was a document. I want a body described by a man who is looking at it."
 
-So he looked, and said it out loud, unhurried, in the plain voice, working down from the grey that had come in at her right temple three years ago to the shape of her foot on the floor: the shoulders, the space between them, the small hard curve of her stomach, the way her hip stood out more on one side than the other from eleven hours at a desk, the pale hair at the back, the wetness already between her legs that she was not bothering to hide.
+So he looked, and said it out loud, unhurried, in the plain voice, working down from the yellow at the corner of her left eye since the spring to the shape of her foot on the floor: the shoulders, the space between them, the small hard curve of her stomach, the way her hip stood out more on one side than the other from eleven hours at a desk, the pale hair at the back, the wetness already between her legs that she was not bothering to hide.
 
 "Again," she said, when he had got to the end of it. "Slower. And do not stop when you run out of parts. Start again from my shoulders and go down a second time and I will tell you when to stop."
 

@@ -11,8 +11,11 @@ record is a claim. Re-run it from outside the pass and let the re-run outrank th
 was produced by command against the chapter files as they stand on disk. Where the recorded number and the
 re-run disagreed, **the re-run wins and the record is corrected in this commit.**
 
-**SCOPE: NO CHAPTER WAS REWRITTEN.** One surgical repair was applied to the prose and it is item **C1**
-below; it is one word. Everything else this audit found was in the record, not in the fiction.
+**SCOPE: NO CHAPTER WAS REWRITTEN.** Two surgical repairs have been applied to the prose and they are items
+**C1** and **C1b** below. **C1 has been through two versions and the first one was wrong** — it kept the
+duplicated detail and moved its side, which put an exception into a rule the book states out loud on the
+page. **The repair that stands removes the borrowed claim outright, exactly as the Batch 0005 wrist-scar fix
+did.** Everything else this audit found was in the record, not in the fiction.
 
 ---
 
@@ -65,11 +68,11 @@ open and close the body, **exclusive of both headings** so the figure is prose a
 
 | Ch | Whose | Body | Chapter | Gap in | Gap out |
 | --- | --- | --- | --- | --- | --- |
-| 308 | Isolde Marchetti | 1,542 | 3,758 | 299 → 308 = **9** | |
+| 308 | Isolde Marchetti | 1,538 | 3,758 | 299 → 308 = **9** | |
 | 318 | Runa Sato | 2,313 | 3,783 | 308 → 318 = **10** | |
 | 329 | Marguerite Vale | 1,107 | 2,631 | 318 → 329 = **11** | |
 | 340 | Ines Duarte | 1,448 | 3,900 | 329 → 340 = **11** | |
-| 350 | Wren Kallo | 1,622 | 2,939 | 340 → 350 = **10** | |
+| 350 | Wren Kallo | 1,621 | 2,938 | 340 → 350 = **10** | |
 
 **Every gap is inside 8–15.** **The lowest scene body in the volume is 1,107 words**, against the roughly
 nine-hundred floor `outline/volume-07.md` §9 lesson three sets for a scene that was actually written.
@@ -79,6 +82,13 @@ exclusive of both headings and 340 and 350 inclusive of them, so its 1,452 and 1
 than the exclusive figures above. **Both conventions land in the same place** — five scenes, every one over
 a thousand words, none summarised. 318 and 350 reproduce the recorded numbers exactly under their own
 convention.
+
+**[CORRECTED AT THE REVIEW-FIX PASS. This table originally printed 308 as 1,542, which is the figure with the
+opening `##` heading counted in, against a header that says exclusive of both headings. 318, 329, 340 and 350
+all reproduced exactly under the stated convention and 308 did not. 308 is 1,538 on disk exclusive, which is
+the figure now printed. No conclusion moves: the gaps and the ~900 floor are unchanged. A record of a
+measurement is still a measurement, and this file was the one place in the volume where that had gone
+unre-checked.]**
 
 **A scan for the fade markers §9 lesson three tells a later phase to distrust — *it went on a long time*,
 *afterwards* — returns nothing across all fifty chapters.**
@@ -94,8 +104,10 @@ Every figure here is from a command against the files after this audit's last pr
 ```
 files            50 files, chapter-0301.md .. chapter-0350.md, no gap in the sequence,
                  no file outside 0301–0350. **No chapter 351 exists anywhere in the repository.**
-                 chapters/volume-08/, outline/volume-08.md and workspace/volume-08/ all ABSENT.
-vol 7 words      107,478.  **See the measurement note below — this is the correct figure and
+                 chapters/volume-08/ and outline/volume-08.md are ABSENT and must stay absent until the
+                 Volume 8 planning phase creates them. workspace/volume-08/ is NOT absent — this same
+                 commit creates its one live prompt, workspace/volume-08/volume-plan/PROMPT.md.
+vol 7 words      107,477.  **See the measurement note below — this is the correct figure and
                  `reviews/volume-07/batch-0005.md` had it right.**
 book titles      350 chapter files, 350 distinct title lines, **0 duplicates anywhere in the book.**
                  0 over 90 characters. Volume 7: 0 beginning with *What*, 0 built out of
@@ -111,9 +123,9 @@ duplicate paras  exact-duplicate paragraph across two different chapters, volume
 
 ### **MEASUREMENT NOTE, AND IT WILL BITE THE NEXT PHASE**
 
-**`cat chapters/volume-07/*.md | wc -w` returns 107,440 and that figure is wrong.** Thirty-nine of the fifty
+**`cat chapters/volume-07/*.md | wc -w` returns 107,439 and that figure is wrong.** Thirty-nine of the fifty
 files carry **no trailing newline**, so concatenating them merges the last word of each file into the first
-word of the next and loses **38 words**. Per-file `wc -w`, summed, gives **107,478** — which is what
+word of the next and loses **38 words**. Per-file `wc -w`, summed, gives **107,477** — which is what
 Batch 0005 recorded and what the volume actually is. **Always count per file and sum. Do not record a
 volume word count from a concatenation.**
 
@@ -135,7 +147,7 @@ four in the afternoon. **Not one of the twenty-six is a lifted line and none is 
 **Eight-gram scan, run because twelve is a floor and not a truth.** The volume-wide result is dominated by
 the book's connective tissue — *and I am not going to be the*, *she put her hand flat on the table*,
 *in about four years* — which appears in three, four, sometimes sixteen chapters. That is the voice, not
-duplication. **The reportable figure is the pair 340 ↔ 350, and it is in item C1 below.**
+duplication. **The reportable figure is the pair 340 ↔ 350, and it is in item C2 below.**
 
 ### Banned constructions
 
@@ -155,12 +167,12 @@ wrist, same cause, same season of her third year — and removed it. **That repa
 disk: the scar now exists in Chapter 340 and nowhere else in the volume.** The breast description was also
 separated. **340 and 350 now share no twelve-gram, no eleven-gram, no ten-gram and no nine-gram.**
 
-### **C1 — APPLIED. The grey temple. The same defect as the scar, one layer down.**
+### **C1 — REPAIRED TWICE. The grey temple. The same defect as the scar, one layer down.**
 
 The scar repair caught the wound. **It did not catch the face.**
 
 - **340:** *the lamp caught **the grey at the left temple** that had not been there **three years ago** and had come in with the etches.*
-- **350:** *working down from **the grey that had come in at her left temple three years ago** to the shape of her foot on the floor.*
+- **350, as Batch 0005 left it:** *working down from **the grey that had come in at her left temple three years ago** to the shape of her foot on the floor.*
 
 **Same side. Same interval. Ten chapters apart. Both in the volume's five scenes.** This is precisely the
 class of defect the Batch 0005 review described — *the same wound on a second woman in the same building* —
@@ -168,10 +180,55 @@ sitting one clause below every word-count gate, because no shared eight-gram sur
 book that runs on the principle that a physical detail means something, a grey temple arriving three years
 ago on the same side in the volume's penultimate and final scene reads as a reused stamp.
 
-**REPAIR APPLIED, ONE WORD: the side in 350 is now the right temple.** Nothing else in the sentence moved.
-The detail stays — it is good, and a Bureau officer who reads four hundred hands a week has earned it —
-and it is no longer a mirror. **Chapter 350 is 2,939 words after the repair, unchanged: the count was
-2,939 before it.**
+**FIRST REPAIR, SUPERSEDED: this audit changed the side in 350 to the right temple and called it done.** That
+was wrong, and the review-fix pass caught it. The grey temple is **Lin Hao's** cost — `bible/power-system.md`,
+*grey at one temple* — and the manuscript fixes the side as the **left** in Ch 4, 5, 25, 26, 38, 57, 72 and
+139, and makes its immovability a deliberate beat on the page at 72: *It started at the left temple, where it
+has always started, in the exact place it has always been… a man who has paid a price for six weeks at least
+expects the supplier to vary the location.* **After the first repair, `right temple` occurred exactly once in
+350 chapters.** It also broke the precedent it was citing: the Batch 0005 wrist-scar fix, same defect class,
+**removed** the detail outright — *Removed… the scar belongs to Ines Duarte alone.*
+
+**SECOND REPAIR, APPLIED: the borrowed grey is gone from 350 entirely, and the catalogue is re-anchored on a
+mark that is Wren's own.**
+
+- **350 now reads:** *working down from **the yellow at the corner of her left eye since the spring** to the
+  shape of her foot on the floor.*
+
+That mark is not invented for this repair — it is **already on the page 14 lines above**, in the same
+chapter, as a claim rather than a detail: *the white of the left one had been yellow at the corner since the
+spring and she had not gone to the Vestry clinic about it and was not going to.* It sits above the shoulders,
+so the descent still reads top to bottom, and it is hers. **It also carries the same weight the grey was
+carrying in 340** — damage the work has done and the woman refuses to treat — without borrowing Ines's
+wound for it.
+
+**`right temple` now occurs zero times in the book and the left temple is the only side in it again.**
+**Chapter 350 is 2,938 words, one under the 2,939 the first repair reported.** Its scene body is 1,621.
+
+### **C1b — FOUND AT THE REVIEW-FIX PASS AND REPAIRED. The ink.**
+
+Neither this audit nor the reviewer that corrected it looked one paragraph above the grey.
+
+- **340:** *ink at the cuticles on the first two fingers of **the right hand** that **soap had never lifted in
+  eleven years**.*
+- **350, as Batch 0005 left it:** *Two of the nails of **her right hand** were stained at the roots with ink,
+  and **no soap in this city has ever been able to shift it in eleven years**.*
+
+**Same hand. Same substance. Same refusal of soap. Same duration.** Same pair of chapters, same class, same
+lesson — *a physical detail in this book is a claim, not a filler.* And it is **the third instance in the
+volume**: Marguerite Vale's scene at 329 already has *her hands had ink at the cuticles that soap would not
+lift*, which is why three of Volume 7's five scenes put a Bureau woman's ink under the reader's nose.
+
+**REPAIR APPLIED. 350 now reads:** *Two of the nails of **her left hand** were stained at the roots with ink,
+and **she had stopped pretending nine years ago that soap was ever going to lift it**.*
+
+The hand is moved off Ines's, the duration is moved onto **nine years — the figure the chapter itself gives
+Wren's division at 316** — and the sentence stops mirroring 340's construction. **Word count unchanged: the
+replacement is 31 words and the original was 31.**
+
+**329 IS LEFT ALONE AND THE REASON IS RECORDED.** Its version carries no hand, no duration and no framing, so
+it is occupational texture rather than a repeated claim, and 329 is a chapter this audit passed unaltered.
+The third instance is logged in `state/continuity.md` so Volume 8 does not add a fourth.
 
 ### **C2 — RECORDED, NOT REPAIRED. The scene template.**
 
@@ -246,8 +303,10 @@ stale when the repair pass ran afterwards. All three are corrected here.
 The word list prints `2925`. The leaver sentence four lines below prints `2,927`. **They disagree with each
 other.** Chapter 350 stood at **2,927 at the writer's commit `5e7b7a4`**; the repair pass in `0f326cb` —
 which removed the wrist scar and rewrote the breast line — added twelve words, and the gate block was never
-re-derived. **The figure on disk is 2,939.** Both places now print **2,939**, with the discrepancy recorded
-in place so the block does not look like it was always right.
+re-derived. **The figure was 2,939 when this audit ran and is 2,938 now**, because the review-fix pass removed
+the borrowed grey temple from 350 and did not pad the sentence back to a number. Both places now print the
+figure that is on disk, with the discrepancy recorded in place so the block does not look like it was always
+right.
 
 ### **R2 — `state/chapter-summaries.md`, the Volume 7 Batch 0001 block was unlabelled, marked LIVE, and stranded the volume header.**
 
@@ -277,7 +336,7 @@ malformed (`** ||` rather than ` |`) and is fixed, so both rows parse.
 
 ## 7. The close verdict
 
-**Volume 7 is closed and it paid its sentence.** It is fifty chapters, five batches, five scenes, 107,478
+**Volume 7 is closed and it paid its sentence.** It is fifty chapters, five batches, five scenes, 107,477
 words, and it took a man who had spent six volumes making sure no page in this city had his name at the top
 of it and ended the volume with his name at the top of a page, in a room's keeping, under eight other
 people's hands. **The reservoir is not requisitioned. The account is called. The wall is quiet, and the
@@ -286,7 +345,13 @@ chapter says the quiet is not safety.**
 **Its one irreversible decision is 348 and it is clean:** he chose legibility over invisibility, on the page,
 in front of witnesses, at a cost named by a woman who is not his ally and is right.
 
-**The manuscript is fit to continue.** One prose word was changed. Four record defects were corrected. **No
+**The manuscript is fit to continue.** **[REVIEW-FIX PASS: this line originally read *One prose word was
+changed.* The prose repair at C1 was superseded and has been redone properly — two clauses replaced with two
+clauses that belong to Wren — and a third duplicated physical claim, the ink at C1b, was found one paragraph
+above it and fixed. Four record defects were corrected here and three more by the review-fix pass: a scene
+figure measured against the wrong convention, a cross-reference pointing one item short, and a claim that a
+directory was absent in the same commit that created it. `no chapter was rewritten` still holds — no chapter
+was restructured, cut or restarted, and the plot is untouched.]** **No
 controller file was touched; no chapter was rewritten; no ending was altered; no final enemy was added.**
 
 **THE NEXT PHASE IS A VOLUME-PLANNING PHASE AND IT IS NOT A BATCH.** `workspace/volume-08/volume-plan/PROMPT.md`

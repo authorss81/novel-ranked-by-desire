@@ -111,24 +111,32 @@ character is under eighteen; violence and sex stay in separate registers. **A sc
 
 1. **`cat chapters/volume-0X/*.md | wc -w` undercounts a volume.** Thirty-nine of Volume 7's fifty files
    carry no trailing newline, so concatenation merges words across the junctions and loses 38. It returned
-   107,440 against a true 107,478. **Count per file and sum.** Never record a volume word count from a
+   107,439 against a true 107,477. **Count per file and sum.** Never record a volume word count from a
    concatenation.
 2. **The ledger's line count is not the number of lines turned in it.** Volume 7's count rose 118 → 121 →
    122 → 124 while *nothing spent* held under every one of those figures, and the ninth turned line was
    still himself throughout. **124 at Chapter 350 is correct. Do not reconcile it back to 118.**
-3. **A borrowed body is a canon error and a twelve-gram scan cannot see one.** Volume 7 shipped two. Chapter
+3. **A borrowed body is a canon error and a twelve-gram scan cannot see one. Volume 7 shipped three.** Chapter
    350 gave Wren Kallo the wrist scar that belongs to Ines Duarte — same wrist, same cause, same season of
    her third year — and after that was repaired it still gave her a grey at **the left temple that had come
-   in three years ago**, the same side and the same interval as the grey Chapter 340 gives Ines. **The
-   twelve-gram scan found exactly one match in the entire volume and it was the right answer: the refrain at
-   344/345. Both duplicated body details went out anyway.** *Terms, a body described in words, three times,
-   a counted minute, then a kettle* is this manuscript's scene grammar and it is its single largest
-   duplication risk. **Read every new scene against the other four in the volume before it is closed. Check
-   borrowed bodies before borrowed sentences.**
+   in three years ago**, the same side and the same interval as the grey Chapter 340 gives Ines, and one
+   paragraph above that an ink claim with the same hand, the same refusal of soap and the same eleven years.
+   **All three have now been repaired and `right temple` occurs zero times in the book.** Note *how* they
+   were repaired, because the first attempt at the grey was wrong: the close audit kept the borrowed detail
+   and moved it to the other side, which put an unmarked exception into a rule Chapter 72 states out loud.
+   **The repair that worked was to remove the borrowed claim outright — as the wrist-scar fix had already
+   done — and re-anchor the sentence on a mark that character genuinely carries elsewhere in the chapter.**
+   **The twelve-gram scan found exactly one match in the entire volume and it was the right answer: the
+   refrain at 344/345. All three duplicated body details went out anyway.** *Terms, a body described in words,
+   three times, a counted minute, then a kettle* is this manuscript's scene grammar and it is its single
+   largest duplication risk. **Read every new scene against the other four in the volume before it is closed.
+   Check borrowed bodies before borrowed sentences. When you find one, remove the claim — do not move it.**
 4. **A gate record is a claim. Re-run it from outside the pass that wrote it.** Volume 7's close audit found
    its own gate block printing Chapter 350 at two different numbers, both stale from before a repair, and a
-   stale volume plan glued into the wrong row of a state index. **Record the number you actually got from
-   the command, with the command, and re-run it after your last edit.**
+   stale volume plan glued into the wrong row of a state index. Its own review pass then caught the audit
+   printing a scene figure against the wrong stated convention, a cross-reference pointing one item short,
+   and a claim that a directory was absent in the same commit that created it. **Record the number you
+   actually got from the command, with the command, and re-run it after your last edit.**
 
 ## What this phase creates — exactly three things, and no more
 
