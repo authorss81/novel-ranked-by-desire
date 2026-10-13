@@ -1,5 +1,10 @@
-**BATCH 0001 IS WRITTEN. `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` are on disk, 21,491 words counted per file and
-summed. THREE OF THE CARDS BELOW WERE WRONG ON THE PAGE AND ARE CORRECTED IN PLACE, WITH THE CORRECTION PRINTED AT THE CARD:
+**BATCH 0001 IS WRITTEN AND REVIEWED. `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` are on disk, 21,692 words counted per file and
+summed after the 15 October 2026 review repair and 21,491 before it. **FOUR MORE OF THE CARDS BELOW WERE WRONG ON THE PAGE IN A WAY THE FIRST
+REVIEW CAUGHT AND THE REPAIR CORRECTED, AND THE CARDS ARE CORRECTED IN PLACE: 405 and 407 named the Vestry, which is Tessa Okonkwo, who is not at
+that table, and then named Petra Ilyin among the two with NO post in the same clause that gave her a guild post; 410 said seven had signed before
+half past eight when six had and said Petra Ilyin was two days late when she came on the day she had promised; 408 had Isolde Marchetti pricing a
+figure on the morning of the fourteenth that had been priced at a Field counter on the eighth; and 412 sent a return to six desks and then named a
+seventh.** THREE OF THE CARDS BELOW WERE WRONG ON THE PAGE AND ARE CORRECTED IN PLACE, WITH THE CORRECTION PRINTED AT THE CARD:
 405's roll (she signed it on the second), 403's hook (he asks her out loud), and 406's hall (two hundred and eleven, not nine
 thousand). `outline/volume-09.md` §6 movement 1 has been rewritten against the page in the same commit.**
 
@@ -422,8 +427,11 @@ ABOUT TWO HUNDRED AND THIRTY AND THE FOURTH BRANCH DISTRICT IS THE NINE THOUSAND
 **Resistance:** **she is a Bureau field operative and this is the second true thing she has said out loud in front of
 eight women and she has already paid for the first one.**
 
-**Major turn:** **six of the eight hold a post a division can serve a paper at — Field, counter-forensics, the Vestry,
-the guild, the Church, Veil-Research — and one of them is in a building with a man on the third floor.** And the cost
+**Major turn:** **six of the eight hold a post a division can serve a paper at — Field (Runa Sato), counter-forensics on the second
+sub-level (Wren Kallo), the Ferrier line (Beatrix Halm), the guild (Petra Ilyin), the Church of the Quiet Number (Agnete Lindqvist),
+Veil-Research (Sun Meiling) — and one of them is in a building with a man on the third floor.** **THE TWO WITH NO POST AT ALL ARE NADIA
+FERROUS, WHO WORKS A LIFT BETWEEN TWO FLOORS, AND ISOLDE MARCHETTI, WHO SINGS FOUR NIGHTS A WEEK IN BELLHOUSE. THE VESTRY WAS ON THIS CARD AND
+IS NOT ON THE PAGE: IT IS TESSA OKONKWO'S AND TESSA IS NOT AT THAT TABLE. DAGMAR OYELOWO WAS ALSO ON THIS CARD AND IS NOT ONE OF THE EIGHT.** And the cost
 of an attestation, done once: **a witness line is a list of the people who were in a room on a date. It is not a list
 of who lives at an address and it cannot be made into one, and the day it becomes one is the day a document can be
 corrected by whoever is standing nearest to it.**
@@ -636,8 +644,9 @@ and cannot be struck.** **The fifth is new and under it the clerk writes the wor
 fifteenth, and she has not been told what it means either, and she asks.**
 
 **AND THE SECOND THING, AND IT IS THE ONE THE DAY IS FOR:** at about half past four in the afternoon **a return goes
-out on the ordinary stream to six desks** — Field, counter-forensics, the Vestry, the guild, the Church, Veil-Research —
-**and one of the six is a wing off a third court that is not on any map he has walked in four years, and it is a
+out on the ordinary stream to seven desks** — Field, counter-forensics, the Vestry, the guild, the Church, Veil-Research, and
+a wing off a third court —
+**and the seventh is a wing off a third court that is not on any map he has walked in four years, and it is a
 division that keeps no list of addresses, and it has had the shape since the first of January, and it has never been
 named.** The return says five. **It says five, and it is the first time a figure about that room has gone to that
 division in twenty years, and there is nothing on the face of that service that anybody could object to.**
@@ -653,7 +662,7 @@ requisition carried needs five and has not been carried. **Nothing is spent, not
 no settle clock, no settle date, no classification completed. Ledger 142 and rising, nine turned, the ninth still
 himself.** **NO SYSTEM PANEL IN THIS CHAPTER, because no chapter in 401–412 turns on the ledger.**
 
-**Ending hook:** **at four o'clock the sheet goes out to six desks and the room stands at five, and the requisition
+**Ending hook:** **at four o'clock the sheet goes out to seven desks and the room stands at five, and the requisition
 that could not be carried for sixty-one days — two months and one day, laid on the twentieth of February — can be
 carried now, and he has seventy-five days.**
 

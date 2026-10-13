@@ -1,7 +1,7 @@
 # VOLUME 9 BATCH 0001 HEAD RECORD — 13 OCTOBER 2026. **CHAPTERS 401–412 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.**
 
 > **THE PHASE THAT WROTE THIS WROTE TWELVE CHAPTERS.** `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` exist, the
-> first of April to the twenty-first of April, **21,491 words counted per file and summed**. `outline/volume-09.md` §6 movement 1 has been
+> first of April to the twenty-first of April, **21,692 words counted per file and summed after the 15 October 2026 review repair, 21,491 before it**. `outline/volume-09.md` §6 movement 1 has been
 > **rewritten against the page in the same commit**, with seven named places the plan was wrong and **one card fact that was wrong on the
 > page and was not followed** — the 406 card said the hall held nine thousand people; it is Cobb Street, two hundred and eleven in a room
 > rated at two hundred and thirty. `PC-57` to `PC-68` are no longer proposals; they are re-derived against the chapters and are on the page.
@@ -13,7 +13,7 @@
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` | **twelve finished chapters, the first of April to the twenty-first of April. 21,491 words counted per file and summed before any state file was written.** |
+| `chapters/volume-09/chapter-0401.md` … `chapter-0412.md` | **twelve finished chapters, the first of April to the twenty-first of April. 21,692 words counted per file and summed post-repair; 21,491 before the repair.** |
 | `outline/volume-09.md` | **§6 movement 1 rewritten against the page**, with seven named places the plan was wrong, **and the card facts for 406 corrected in the record where they were wrong** |
 | `state/continuity.md` | **`PC-57`–`PC-68` re-derived from the chapters and marked ON THE PAGE; `PC-69`–`PC-75` recorded as the batch's own proposals; the question the planning phase refused to decide — whether a consignment can be entered out of that room's book — DECIDED BY THE PAGE at 409 and 412: it cannot** |
 | `state/open-threads.md` | **new live gate block with the scanner's tokenisation and scope printed, and the directed-rows column explicitly NOT taken and NOT substituted** |
@@ -96,7 +96,7 @@ that section head · **the figure he carries is 8,131 and it does not move up in
 - **406 (10 Apr). THE SCENE. PETRA ILYIN.** A bonded store, a roller door half down. Not impaired and she says so first. Two spoken terms,
   the second not about him, and all three template axes broken on the page. **The cost she names before anything happens: he is asking nine
   women to be evidence, and evidence is what people were before they were people.** **She names a question she will not ask, and he has the
-  answer and does not give it, and she lets it stand.** Scene body 2,074 words, probe 30.
+  answer and does not give it, and she lets it stand.** Scene body 2,079 words on the recorded span (2,596 on the literal first-`##`-to-last-`##` span), probe 30.
 - **407 (12 Apr). THE ARITHMETIC OF EIGHT HANDS.** Six of the eight are reachable; the witness line is the same instrument as the ground he
   bought at 370; and four short sentences about January. **The cost of asking eight people in one room is his, and it is that he will never be
   able to say he did not know.**
@@ -110,7 +110,7 @@ that section head · **the figure he carries is 8,131 and it does not move up in
 - **411 (19 Apr). THE HAND THAT DID NOT SIGN.** Sun Meiling's chapter, in her own room, with no form read and no minute and no file. **She
   works it out in the order it has to be done in and is not frightened, and she is the cheapest person in this city.**
 - **412 (21 Apr). THE ROOM STANDS AT FIVE.** The first weekly return carrying five; a word under the fifth line that nobody understands; a
-  return out to six desks at half past four, one of which has no name and has never been named. **The saving fact and the endangering fact are
+  return out to **seven** desks at half past four, the seventh of which has no name and has never been named. *(Six on 13 October; corrected on the 15th.)* **The saving fact and the endangering fact are
   the same door, at the same hour, on the ordinary stream, and nothing on the face of the service is objectable.**
 
 ## 2. THE POSITION AT CHAPTER 412 — EVERY FIGURE ON THE PAGE
@@ -132,12 +132,35 @@ Wren Kallo, Sun Meiling and Dagmar Oyelowo, each for the reason `bible/character
 **THE EIGHT AT FERRIER STREET AND THE NINE ON THE ROLL ARE NOT THE SAME EIGHT AND MAY NOT BE COUNTED AS ONE.** Eight women at the address;
 Chapter 400 puts eight at that table; six of those eight are on the roll and two of them are not.
 
+**THE EIGHT, NAMED, AND PINNED HERE ON 15 OCTOBER 2026 BECAUSE CHAPTER 405 AND 407 GOT THEM WRONG TWICE AND NO STATE FILE HAD
+THEM IN WRITING: Agnete Lindqvist, Runa Sato, Nadia Ferrous, Wren Kallo, Isolde Marchetti, Beatrix Halm, Petra Ilyin, Sun Meiling.**
+**Tessa Okonkwo IS NOT ONE OF THEM** — she is on the roll from the Vestry and has never been at that table — **and Marguerite Vale is not
+one of them either.** Six of the eight hold a post a division can serve a paper at — **Field (Runa Sato), counter-forensics on the second
+sub-level (Wren Kallo), the Ferrier line (Beatrix Halm), the guild (Petra Ilyin), the Church of the Quiet Number (Agnete Lindqvist), and
+Veil-Research (Sun Meiling)** — **and the two with no post at all are Nadia Ferrous, who works a lift between two floors, and Isolde Marchetti,
+who sings four nights a week in a room in Bellhouse. THE VESTRY IS NOT ON THAT LIST AND DAGMAR OYELOWO IS NOT ONE OF THE EIGHT.**
+
+## 2a. THE REVIEW REPAIR OF 15 OCTOBER 2026, AND WHAT IT DID NOT TOUCH
+
+**THE REVIEW OF BATCH 0001 IS IN `logs/batch-0001.review.log`. FOURTEEN FINDINGS. TWELVE FIXED IN THE PROSE, ONE FIXED IN THE GATE,
+ONE DELIBERATELY NOT ACTED ON WITH ITS REASON PRINTED IN THE REVIEW REPAIR BLOCK AT THE END OF THE LIVE GATE BLOCK IN
+`state/open-threads.md`. NO CHAPTER WAS RESTARTED, NO CHAPTER WAS RESTRUCTURED, NO PLOT WAS MOVED, NO SCENE WAS MOVED, AND
+`outline/ending.md` IS UNTOUCHED.** The prose fixes were confined to single paragraphs that already existed.
+
+**WHAT DID NOT CHANGE AND MUST NOT BE DESCRIBED AS CHANGED: the two irreversible decisions at 408 and 409; the scene at 406 in its entirety
+apart from a truncated word and a speaker tag; the seven names on the witness line and the two-finger gap at 410; the office Sun Meiling holds
+at 411; the figure of five at 412; the eighteen-chapter scene breach between 380 and 398, which is still open; and `PC-28`, still carried.**
+
+**AND ONE THING A LATER PHASE MUST NOT GET WRONG AGAIN: the scene at 406 is physical and it is not lexically explicit. The reviewer said so
+and did not fail it. Nobody may describe 406 as having been repaired for that, because it was not, and no vocabulary list may be used to
+justify rewriting it.**
+
 ## 3. WHAT BATCH 0002 OWNS, AND WHAT IT MAY NOT REACH
 
 **413–422. The twenty-third of April to the ninth of May.** The plan's beats: **the first draw of the volume, made on a stranger (413)** ·
 **the ledger crossing a number and the first of the volume's two system panels, which is due because the chapter turns on the ledger (414)** ·
 Runa's own price invoiced and not invoiced (415) · Isolde Marchetti summing aloud in a corridor she cannot sing in (416) · **417, THE SCENE,
-Nadia Ferrous** · the household finding out what it has signed (418) · **four in the afternoon, to six desks (419)** · the clerk who reads a
+Nadia Ferrous** · the household finding out what it has signed (418) · **four in the afternoon, to seven desks (419)** · the clerk who reads a
 gap aloud (420).
 
 **IT MAY NOT:** print a band floor — the next card is the thirtieth of June and **Chapter 450 prints it** · print a settle date or the string

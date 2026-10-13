@@ -63,6 +63,21 @@ is on the page in `chapters/volume-09/`. None of them is yours to improve.**
    SPENT AND NOTHING OF THE FIRST TWELVE CHAPTERS MAY BE SPENT BY THESE TWELVE EITHER. The first spend of the volume is at 413 and it is
    ON A STRANGER.**
 
+**AND THE ROSTER, PINNED HERE ON 15 OCTOBER 2026 BECAUSE CHAPTERS 405 AND 407 GOT IT WRONG TWICE AND NOTHING IN THE REPOSITORY HAD
+IT IN WRITING. THIS IS AUTHORITATIVE AND IT OVERRIDES ANYTHING IN 401–412 THAT DISAGREES:**
+
+**THE EIGHT AT FERRIER STREET: Agnete Lindqvist, Runa Sato, Nadia Ferrous, Wren Kallo, Isolde Marchetti, Beatrix Halm, Petra Ilyin, Sun
+Meiling.** **Tessa Okonkwo is not one of them** — she is on the roll and has never been at that table — **and Marguerite Vale is not one of them.**
+
+**THE NINE ON THE ROLL, WHICH IS A DIFFERENT NINE: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale,
+Agnete Lindqvist, Petra Ilyin, Isolde Marchetti.** Six of the nine sleep at 34-6-118. **THE THREE THAT ARE NOT SWORN, EACH OF WHOM HAS GIVEN
+HER REASON ONCE, IN HER OWN MOUTH, AT 402: Wren Kallo, Sun Meiling, Dagmar Oyelowo.**
+
+**SIX OF THE EIGHT HOLD A POST A DIVISION CAN SERVE A PAPER AT — Field (Runa Sato), counter-forensics on the second sub-level (Wren Kallo),
+the Ferrier line (Beatrix Halm), the guild (Petra Ilyin), the Church of the Quiet Number (Agnete Lindqvist), and Veil-Research (Sun
+Meiling). THE TWO WITH NO POST AT ALL ARE NADIA FERREROUS, WHO WORKS A LIFT BETWEEN TWO FLOORS, AND ISOLDE MARCHETTI, WHO SINGS FOUR NIGHTS A
+WEEK IN A ROOM IN BELLHOUSE. THE VESTRY IS NOT ON THAT LIST — IT IS TESSA OKONKWO'S — AND DAGMAR OYELOWO IS NOT ONE OF THE EIGHT.**
+
 **AND FOUR THINGS THIS BATCH OWES, GIVEN TO YOU AND NOT TO BE DROPPED:**
 
 - **`PC-28` IS CARRIED FORWARD AND NOT FIXED.** `chapter-0359.md` heads a section *The Nine Days* for an interval of three days. **No chapter of
@@ -144,7 +159,7 @@ Vale wrong most often.**
 
 | Chapter | Whose | Last scene | Gap mixed | Gap explicit |
 | --- | --- | --- | --- | --- |
-| 406 | **Petra Ilyin. WRITTEN, 3,259 words, scene body 2,074, probe 30.** | 214 | 406 − 398 = **8** | **8** |
+| 406 | **Petra Ilyin. WRITTEN, 3,257 words after the 15 October 2026 review repair, scene body 2,079 on the recorded span and 2,596 on the literal first-`##`-to-last-`##` span, probe 30.** | 214 | 406 − 398 = **8** | **8** |
 | **417 — YOURS** | **Nadia Ferrous** | 29 | 417 − 406 = **11** | **11** |
 | 428 | Runa Sato | 318 | 428 − 417 = 11 | 11 |
 | 438 | Beatrix Halm | 299 | 438 − 428 = 10 | 10 |
@@ -252,8 +267,10 @@ standard: name what the page does differently, and if it does something else, do
 - **417 (1 May). THE SCENE. NADIA FERROUS.** §4.
 - **418 (3 May). THE HOUSEHOLD FINDS OUT WHAT IT HAS SIGNED.** Nine sworn women, one line, one gap, and a document that can be produced against
   every name on it. **Nothing in this chapter may be a scene and it may not turn into one in its last third.**
-- **419 (4 May). FOUR IN THE AFTERNOON, TO SIX DESKS.** **The return goes out on the ordinary stream and the room stands at five and the
-  requisition can be carried and is not carried.**
+- **419 (4 May). FOUR IN THE AFTERNOON, TO SEVEN DESKS.** **The return goes out on the ordinary stream and the room stands at five and the
+  requisition can be carried and is not carried.** **IT IS SEVEN AND NOT SIX, AND CHAPTER 412 SAYS WHY: Field, counter-forensics, the Vestry, the
+  guild, the Church of the Quiet Number, Veil-Research, and a wing off a third court. The sixth is Veil-Research and the seventh is the wing; the
+  stream to the research division runs through that wing and the wing has never been named on any paper he can get hold of.**
 - **420 (6 May). THE CLERK WHO READS A GAP ALOUD.** **This is `PC-72`'s chapter: a gap in a line is not a hole, and the person who put it
   there cannot be asked what it was. Do not have the clerk be wrong about it, and do not have Sun Meiling find out a second time.**
 - **421 (7 May). THE WEEK IT COULD BE CARRIED.** The arithmetic of the remaining seventy-five days, done by a woman, and nobody stands up.
@@ -277,12 +294,13 @@ block above yours superseded rather than deleting it.**
 files            chapters/volume-09/chapter-0413.md .. chapter-0422.md, twelve files, no gap.
                  Count per file and sum. NEVER `cat *.md | wc -w` — it loses a word at every file with no
                  trailing newline and it has cost this repository two audits.
-titles           unique across every file in chapters/ — 422 lines, 422 distinct, `uniq -d` empty.
+titles           unique across every file in chapters/ — **412 lines, 412 distinct, `uniq -d` empty.** *(This line read 422; the 15 October
+                 2026 review pass re-counted and it is 412, the same figure the live gate block prints.)*
                  **THE TWELVE ARE BANKED IN `outline/volume-09.md` §10 AND MUST BE PRINTED EXACTLY AS BANKED.**
                  If you change one, re-run and rewrite the bank row in the same commit. **413 IS *A Queue Off
                  The Third Court* · 414 IS *The Ledger Crossing A Number* · 415 IS *The Standing Order She
                  Will Keep* · 416 IS *The Singer Who Cannot Sing Here* · 417 IS *The Woman Who Gave The
-                 Address* · 418 IS *Nine Women And A Witness Line* · 419 IS *Four In The Afternoon, To Six
+                 Address* · 418 IS *Nine Women And A Witness Line* · 419 IS *Four In The Afternoon, To Seven
                  Desks* · 420 IS *The Clerk Who Reads A Gap Aloud* · 421 IS *The Week It Could Be Carried* ·
                  422 IS *The Days A Sheet Waits*.** **THE BANK NAMES NO FIGURE THE LEDGER CANNOT REACH, BECAUSE
                  THE BANK ALREADY HAD THAT DEFECT AT 414 AND IT WAS REPAIRED. IF YOU NEED A FIGURE IN A TITLE,
@@ -299,23 +317,41 @@ system messages  **AT MOST ONE, in square brackets, on its own line, never bold,
                  **VOLUME 9 PLANS TWO AND HAS NOW SPENT NONE: ONE IS DUE AT 414 AND ONE AT 450, AND BOTH
                  TURN ON THE LEDGER. A PANEL IS DUE IN A CHAPTER THAT TURNS ON THE LEDGER AND IN NO OTHER
                  CHAPTER. THESE TWELVE CHAPTERS CONTAIN THE FIRST OF THE TWO, AND IT IS 414, AND NO OTHER.**
-duplication      12-gram scan FIRST against every chapter in the book including your own twelve, then 11, then
-                 8. **THEN BORROWED BODIES AGAINST THE TABLE AT §2, WHICH IS READ BEFORE A BODY IS WRITTEN AND
+duplication      **TWO SCANS AND BOTH ARE REQUIRED. THE 15 OCTOBER 2026 REVIEW FOUND THAT THE FIRST ONE
+                 ALONE IS HALF-BLIND.**
+                 **SCAN A, CROSS-VOLUME: 12-gram against every EARLIER chapter file, then 11, then 8.**
+                 **SCAN B, VOLUME-ONLY — THIS IS THE ONE THAT CAUGHT THE DEFECTS: a 12-gram duplicated
+                 between ANY TWO of `chapters/volume-09/`, OR TWICE INSIDE ONE FILE.** Scan B is what found
+                 a paragraph repeated word for word at 407, Dagmar Oyelowo's sentence handed to Marguerite Vale
+                 four days later, the Ninth Seal explained twice, and a public-post clerk reciting a guild broker.
+                 A definition that compares a new chapter only against an EARLIER file cannot see any of those.
+                 **THEN BORROWED BODIES AGAINST THE TABLE AT §2, WHICH IS READ BEFORE A BODY IS WRITTEN AND
                  NOT AFTER.** The scanner's tokenisation and scope are printed at the head of
                  `state/open-threads.md`. **DO NOT RECORD A DIRECTED-ROWS FIGURE YOU CANNOT DERIVE: write the
                  definition down first, or record the row as not taken.**
-                 **A TARGET FOR YOU: Batch 0001 finished at 8 distinct 12-grams, and ALL EIGHT WERE SLIDING
-                 WINDOWS OVER ONE DELIBERATE CANON SENTENCE. Anything materially above that needs a reason.**
+                 **TARGETS FOR YOU: Batch 0001 finished Scan A at 8 distinct 12-grams, and ALL EIGHT ARE
+                 SLIDING WINDOWS OVER ONE DELIBERATE CANON SENTENCE. It finished Scan B at 16, of which eight
+                 are that same sentence and its paraphrase, six are the instrument's own printed text, and two
+                 are a fixed administrative noun and a sentence Chapter 411 acknowledges repeating. Anything
+                 materially above either needs a reason in the gate row.**
 weeknames        seven of seven, whole-word and substring: 0, across all twelve.
 ages             zero self-reported ages, anywhere. A span of years is permitted and an age is not.
 settle           `grep -rn "settle" chapters/volume-09/` returns nothing.
-right temple     `grep -rio "right temple" chapters/` returns 0 across all 422 chapters.
+right temple     `grep -rio "right temple" chapters/` returns 0 across all 412 chapters.
 banned           his eyes widened · he couldn't believe it · suddenly · little did he know · there is no form
                  · there is no column · the record remained · nobody asked · nobody was thanked — **nine of
                  nine at zero.**
 scene            417 only. Body word count from the opening `##` to the closing `##`, exclusive of both, plus
                  the explicit-vocabulary probe, both in the gate row.
 ```
+
+**A FIFTH LESSON, ADDED 15 OCTOBER 2026 AND IT COST A REVIEW: TWO OF CHAPTER 405'S FACTS WERE WRONG AND NOBODY IN THE REPOSITORY HAD
+WRITTEN THEM DOWN ANYWHERE, SO NOTHING CAUGHT THEM. When a batch establishes a roster — who is at a table, who is on a roll, who holds
+what — write the roster into the state file in the same commit, in full, with the roles. The corrected eight are at §1 and they are
+authoritative.** **Specifically: the Vestry is Tessa Okonkwo's and Tessa is not at that table; Petra Ilyin holds a guild post and is
+not one of the two with no post; the two with no post are Nadia Ferrous, who works a lift between two floors, and Isolde Marchetti, who
+sings four nights a week in Bellhouse; and Dagmar Oyelowo runs the counter the roll is read at and is one of the three unsworn, not one of
+the eight.**
 
 **FOUR LESSONS THAT EACH COST A VOLUME 7 BATCH DAYS:**
 1. **A paragraph-length splitter over prose with dialogue loses three of four days. Reporter only.**

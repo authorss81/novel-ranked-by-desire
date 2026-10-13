@@ -108,7 +108,7 @@ Runa Sato was at the Field counter on the corner at about twenty past five that 
 
 "Nine of the sixty-one are at a division that serves papers at an address, so nine of them get served every time anybody writes their name anywhere."
 
-"Six of the eight at your table hold a post that a division can serve a paper at. Field, counter-forensics, the Vestry, the guild, the Church, and Veil-Research."
+"Six of the eight at your table hold a post that a division can serve a paper at. Field, counter-forensics, the Ferrier line, the guild, the Church, and Veil-Research."
 
 "Veil-Research is the second floor of a building off a third court, and the woman on that floor is not on your roll and cannot be, and there is a man two floors above her who has been there nine years and has not come down that corridor since the fourth of February."
 
@@ -118,7 +118,9 @@ She put the pen down.
 
 "The two who do not hold a post."
 
-"Two of the eight are not in a division at all, and one of them runs a counter where a roll is read out loud, and you put nine names on a roll on the second and the clerk at that desk has had her finger on your roll for about half an hour a day since."
+"Two of the eight are not in a division at all. One of them is a lift between two floors on a shaft on Ferrier Street and the other one sings in a room in Bellhouse four nights a week." She squared the sheet.
+
+"And neither of those two is the woman who swore your roll, because that woman is not one of the eight. She runs a counter on a walled road, she read nine names out loud off one sheet on the second, and she has had her finger on that roll for about half an hour a day ever since."
 
 He had not thought of it that way and he had been thinking about it for six days.
 

@@ -1,5 +1,6 @@
 ## VOLUME 9 — CHAPTERS 401–412 ARE ON DISK. THE FIRST OF APRIL TO THE TWENTY-FIRST OF APRIL. THE REST IS PLANNED. **THIS IS THE LIVE BLOCK.**
-**BATCH 0001 IS WRITTEN: TWELVE FINISHED CHAPTERS, 21,491 WORDS COUNTED PER FILE AND SUMMED.** `outline/volume-09.md` §6 movement 1 has been
+**BATCH 0001 IS WRITTEN AND REVIEWED: TWELVE FINISHED CHAPTERS, 21,692 WORDS COUNTED PER FILE AND SUMMED AFTER THE 15 OCTOBER 2026
+REVIEW REPAIR (21,491 BEFORE IT). NO CHAPTER WAS RESTARTED AND NO PLOT WAS MOVED.** `outline/volume-09.md` §6 movement 1 has been
 REWRITTEN AGAINST THE PAGE in the same commit that wrote them, with seven named places the plan was wrong and one card fact that was
 wrong on the page and was not followed. `PC-57` to `PC-68` were PROPOSED by the planning phase and **are now ON THE PAGE**; the whole of that
 block is restated below as WRITTEN FACT, with `PC-69` to `PC-75` recorded as the batch's own additions.
@@ -14,8 +15,9 @@ taken at the Ninth Terrace on the second of April with a figure of **8,131** aga
 entered below a band — and the roll's third column binds the household by the highest rank in it on the fifteenth, and cannot be put back down.
 A witness line with seven names and a gap two fingers wide in it is in the keeping of that room. Sun Meiling put the gap there herself, found
 out on the morning of the nineteenth what she has been the officer of since the thirtieth of November, and has not been told the rest by anybody.
-At about half past four on the afternoon of the twenty-first the first weekly return carrying five went out on the ordinary stream to six desks, one
-of which has never been named. **Nothing is spent. Nothing drawn, nothing routed, no folio, no settle clock, no settle date, no classification
+At about half past four on the afternoon of the twenty-first the first weekly return carrying five went out on the ordinary stream to seven desks,
+one of which has never been named. *(It was recorded as six desks on 13 October and the 15 October review caught the seventh standing there under a phrase
+that called it the sixth. Corrected in the chapter and here.)* **Nothing is spent. Nothing drawn, nothing routed, no folio, no settle clock, no settle date, no classification
 completed. The ledger is 142 lines and rising, nine turned, the ninth still himself. `PC-28` is carried forward and not fixed.**
 
 ### THE OPENING POSITION, CARRIED WHOLE AND NOT RE-DERIVED

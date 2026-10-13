@@ -50,7 +50,7 @@ The boy read it. That is the whole of what a clerk does at a public post: read t
 
 "Say it."
 
-"A lodged citizen is held. It means a form and a room and an administration every quarter, and a medical return to a clinic every quarter, and standing that is not yours to spend while it stands." He looked up. "You keep your name and your trade. You can be arrested in the ordinary way. You cannot spend."
+"A lodged citizen is held. It means a file and a room of his own and an administration every quarter, and a medical return like anybody else's, and standing that is not his to spend while it stands." He looked up. "He keeps his name and his trade. He can be arrested in the ordinary way. He cannot spend."
 
 "I understand."
 
@@ -124,7 +124,7 @@ Under the fifth line of the keeping entry of the fifteenth of April, at about tw
 
 He went down the iron stair at about twenty past one and the light on the second floor was on and the light on the third floor was on, and nobody came down either corridor while he was in the building, which is what the third floor has done since the fourth of February and what the second floor has never once done in nine years.
 
-And there was a piece of paper going down the chain at four in the afternoon on the ordinary stream, on different paper from the card, in a different hand, and attached to it was a line, and the line was to be witnessed on the day it was lodged, at the address of the holding.
+And there was a piece of paper going down the ordinary chain at four that afternoon, on different paper from the card, in a different hand, and attached to it was a line, and the line was to be witnessed on the day it was lodged, at the address of the holding.
 
 The address of the holding was premises 34-6-118.
 

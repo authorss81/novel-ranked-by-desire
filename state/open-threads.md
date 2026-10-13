@@ -5,6 +5,12 @@
 CLAIM AND THE RE-RUN OUTRANKS THE RECORD; FIVE OF FIVE VOLUME 8 BATCHES CERTIFIED A FIGURE THAT HAD NOT BEEN RE-RUN, AND THIS
 BLOCK IS THE SIXTH ATTEMPT AT NOT BEING ONE OF THEM.**
 
+**THE 15 OCTOBER 2026 REVIEW REPAIR IS RECORDED IN FULL IN *THE REVIEW REPAIR* BLOCK AT THE END OF THIS GATE BLOCK, BENEATH
+*THE OPEN ITEMS INHERITED BY VOLUME 9*. EVERY FIGURE IN THIS BLOCK BELOW WAS RE-RUN AFTER THAT REPAIR AND IS A POST-REPAIR
+FIGURE. TWO FIGURES THAT THE FIRST POSTING OF THIS BLOCK PRINTED ARE WRONG AND ARE CORRECTED IN PLACE: the 8-gram distinct
+count (431 is superseded by 435) and the scene span (2,074 is superseded by 2,079, and the prompt's literal span of 2,596
+is now printed beside it rather than left for a reader to find).**
+
 **THE BLOCK IMMEDIATELY BELOW THIS ONE IS THE VOLUME 9 PLANNING PHASE'S RECORD OF 13 OCTOBER 2026 AND IS SUPERSEDED BY THIS ONE AND
 RETAINED IN FULL. THE 15 OCTOBER REVIEW AND THE 14 OCTOBER REPAIR PASS ARE BELOW THAT AND ARE SUPERSEDED BY BOTH. BATCH 0005'S OWN
 RECORD IS FURTHER DOWN AND IS SUPERSEDED BY ALL FOUR.**
@@ -13,15 +19,21 @@ RECORD IS FURTHER DOWN AND IS SUPERSEDED BY ALL FOUR.**
 
 ```
 SCOPE       the twelve files chapters/volume-09/chapter-0401.md .. chapter-0412.md against every other
-            chapter file in chapters/ — all four hundred — and against each other.
+             chapter file in chapters/ — all four hundred — and against each other.
 TOKENISATION  markdown heading marks stripped from the line opening; em/en dashes folded to a space;
-            curly quotation marks folded to ASCII; every character that is not [a-z0-9] after lowering
-            turned to a space; split on whitespace; empty tokens dropped.
+             curly quotation marks folded to ASCII; every character that is not [a-z0-9] after lowering
+             turned to a space; split on whitespace; empty tokens dropped.
 DIRECTION    a 12-gram is a DIRECTED ROW when the same n-gram appears in a Volume 9 chapter and in at
-            least one earlier chapter file. DISTINCT counts distinct strings. (chapter, source) PAIRS counts
-            distinct pairs. **All three are printed below. THE DIRECTED-ROWS COLUMN OF THE VOLUME 8 CLOSE
-            AUDIT IS NOT CARRIED FORWARD AND IS NOT RESTATED HERE: it is NOT VERIFIED, it is dropped, and
-            no Volume 9 row substitutes a number for it.**
+             least one earlier chapter file. DISTINCT counts distinct strings. (chapter, source) PAIRS counts
+             distinct pairs. **All three are printed below. THE DIRECTED-ROWS COLUMN OF THE VOLUME 8 CLOSE
+             AUDIT IS NOT CARRIED FORWARD AND IS NOT RESTATED HERE: it is NOT VERIFIED, it is dropped, and
+             no Volume 9 row substitutes a number for it.**
+
+**THE 15 OCTOBER REVIEW FOUND THIS DEFINITION HALF-BLIND AND IT HAS BEEN RE-SCOPED. THE ORIGINAL COUNTED ONLY A
+VOLUME 9 CHAPTER AGAINST AN EARLIER CHAPTER FILE, WHICH EXCLUDED WITHIN-FILE DUPLICATES AND VOLUME 9 AGAINST ITSELF.
+IT COULD NOT SEE THE VERBATIM DUPLICATE PARAGRAPH IT WAS SUPPOSED TO CATCH, AND IT COULD NOT SEE ONE WOMAN'S SENTENCE
+HANDED TO ANOTHER INSIDE A SINGLE VOLUME. THE *DUP, VOLUME ONLY* ROW BELOW IS THE ADDITIONAL, NARROWER SCOPE, AND A
+BATCH IS NOT CERTIFIED ON THE FIRST ROW ALONE.**
 ```
 
 ## THE GATE, AS IT STANDS — RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE
@@ -29,10 +41,11 @@ DIRECTION    a 12-gram is a DIRECTED ROW when the same n-gram appears in a Volum
 ```
 FILES            `ls chapters/volume-09/chapter-*.md | wc -l` -> **12**, numbered 401 to 412 with no gap.
                  `ls chapters/*/chapter-*.md | wc -l` -> **412.**
-BANK 0001        **21,491 words, COUNTED PER FILE AND SUMMED. NEVER `cat *.md | wc -w`.**
-                   401 1,483 · 402 1,918 · 403 1,619 · 404 1,800 · 405 1,789 · 406 3,259 · 407 1,450
-                   408 1,502 · 409 1,785 · 410 1,443 · 411 1,632 · 412 1,811
-                 Every file carries exactly one trailing newline, all twelve, checked by command.
+BANK 0001        **21,692 words, COUNTED PER FILE AND SUMMED. NEVER `cat *.md | wc -w`. THIS IS THE
+                  POST-REPAIR BANK OF 15 OCTOBER 2026 AND IT SUPERSEDES 21,491.**
+                    401 1,483 · 402 1,918 · 403 1,619 · 404 1,924 · 405 1,836 · 406 3,257 · 407 1,463
+                    408 1,508 · 409 1,782 · 410 1,442 · 411 1,632 · 412 1,828
+                  Every file carries exactly one trailing newline, all twelve, checked by command.
 TITLES           **412 title lines, 412 distinct, `sort | uniq -d` returns empty.** 401–412 are printed
                  EXACTLY as banked in `outline/volume-09.md` §10 and every one was compared against that
                  bank by string match: twelve of twelve. Character lengths 34 / 27 / 31 / 26 / 31 / 29 /
@@ -76,26 +89,54 @@ BAND FLOORS      The only four-figure figures anywhere in the twelve are **8,146
                  at Chapter 400. **No card is printed in 401–412 and no other floor figure exists in them.**
                  Verified by grep for `8,[0-9]{3}` and for any four-digit group: five hits, all 8,131 or
                  8,146, in 402, 403 and 412.
-SCENE            **Chapter 406 only, and no other.** Body counted from the line `## The Frame Of The
-                 Roller Door` to the line `## Afterwards`, both heading lines excluded: **2,074 words**
-                 against the 900 floor. **A COUNT IS NOT A PROOF, SO THE PROBE GOES IN THE ROW BESIDE IT.**
-                 Explicit-vocabulary probe, case-insensitive, on that body: mouth 6 · came 9 · hip 4 ·
-                 thigh 3 · come 3 · inside 3 · wet 2 — **30 hits**, against 19 on 398's body at 1,261 words
-                 on the same list. Fade-phrase probe: `went on a long time` 0, `for a while` 0,
-                 `afterwards` 1 (the word "afterwards" does not appear in the body at all; the count is on
-                 the whole chapter). **THE TEMPLATE IS BROKEN ON ALL THREE AXES AND ALL THREE ARE SAID ON
-                 THE PAGE: no terms sheet and no written terms (spoken, in her mouth); no counted minute,
-                 no kettle and no boiler (said out loud, in her mouth); and the body is not described three
-                 times.** Two spoken terms, and the second of them is not about him.
-DUP 12-GRAM      **8 distinct, 24 directed rows, 4 distinct (chapter, source) pairs.** **AND ALL EIGHT ARE
-                 SLIDING WINDOWS OVER ONE SENTENCE** — *a witness line is a list of the people who were in
-                 a room on a date* — spoken once, in Runa Sato's mouth at 407, in 385's own words, because
-                 it is 385's sentence and `PC-38` fixes the wording. **This is the same shape as Volume 7's
-                 single framed refrain at 344/345 and it is deliberate.**
-DUP 11-GRAM      **28 distinct, 47 directed rows, 23 distinct (chapter, source) pairs.**
-DUP 8-GRAM       **431 distinct, 486 directed rows, 598 distinct (chapter, source) pairs.** These are the
-                 volume's fixed administrative nouns and not sentences: *the room at the end of a
-                 corridor*, *premises 34-6-118*, *nine ruled lines*, *sixty-one steps*, *a fixed day*.
+SCENE            **Chapter 406 only, and no other.** **THE 15 OCTOBER REVIEW FOUND THIS ROW WAS PRINTING A
+                  NARROWER SPAN THAN THE PROMPT'S WORDING AND HAS BOTH SPANS NOW.** Recorded span, the line
+                  `## The Frame Of The Roller Door` to the line `## Afterwards`, both heading lines excluded:
+                  **2,079 words** against the 900 floor. Literal span, the first `##` in the file to the last `##`
+                  in the file, heading lines stripped: **2,596 words.** The difference is the two dialogue sections
+                  that sit outside the scene proper — `## Two Things Spoken` and the whole of `## Afterwards` —
+                  and the recorded span is the correct one for a scene count, because `## Afterwards` is not the
+                  scene. **A COUNT IS NOT A PROOF, SO THE PROBE GOES IN THE ROW BESIDE IT.**
+                  Explicit-vocabulary probe, case-insensitive, on the recorded span: mouth 6 · came 9 · hip 4 ·
+                  thigh 3 · come 3 · inside 3 · wet 2 — **30 hits**, against 19 on 398's body at 1,261 words
+                  on the same list. Fade-phrase probe: `went on a long time` 0, `for a while` 0,
+                  `afterwards` 1 (the word "afterwards" does not appear in the body at all; the count is on
+                  the whole chapter). **THE TEMPLATE IS BROKEN ON ALL THREE AXES AND ALL THREE ARE SAID ON
+                  THE PAGE: no terms sheet and no written terms (spoken, in her mouth); no counted minute,
+                  no kettle and no boiler (said out loud, in her mouth); and the body is not described three
+                  times.** Two spoken terms, and the second of them is not about him.
+                  **THE 15 OCTOBER REVIEW ALSO NOTED, AND DID NOT FAIL, THAT A TEN-TERM ANATOMICAL PROBE RETURNS
+                  ALMOST NOTHING ON THAT SPAN — only *wet*, twice. THE SCENE IS SENSUAL AND PHYSICAL AND IT IS NOT
+                  LEXICALLY EXPLICIT. THAT IS A TRUE STATEMENT ABOUT THIS CHAPTER AND IT IS NOT CARRIED AS A
+                  VERDICT, AND NO LATER PHASE MAY DESCRIBE 406 AS EITHER FAITHFUL TO A VOCABULARY LIST OR AS
+                  HAVING BEEN REPAIRED FOR IT: NOTHING IN 406 WAS TOUCHED ON 15 OCTOBER EXCEPT TWO COPY DEFECTS,
+                  A TRUNCATED WORD AND A SPEAKER TAG.**
+DUP 12-GRAM      **8 distinct, 24 directed rows, 4 distinct (chapter, source) pairs**, on the ORIGINAL
+                  cross-volume scope. **ALL EIGHT ARE SLIDING WINDOWS OVER ONE SENTENCE** — *a witness line is a
+                  list of the people who were in a room on a date* — spoken once, in Runa Sato's mouth at 407,
+                  in 385's own words, because it is 385's sentence and `PC-38` fixes the wording. **This is the
+                  same shape as Volume 7's single framed refrain at 344/345 and it is deliberate.**
+DUP, VOLUME ONLY **THE ADDITIONAL SCOPE THE 15 OCTOBER REVIEW REQUIRED: A 12-GRAM DUPLICATED BETWEEN ANY TWO OF
+                  THE TWELVE FILES, OR TWICE INSIDE ONE FILE, ON THE SAME TOKENISATION. 51 DISTINCT ON 13 OCTOBER
+                  2026. 16 DISTINCT AFTER THE REVIEW REPAIR.** All sixteen are accounted for and none is an
+                  accident: **eight** are windows over the `PC-38` refrain (407, 408, 410, 411) and over its
+                  paraphrase at 410; **six** are windows over the instrument's own printed text, *a consignment is
+                  witnessed on the day it is lodged and at the address of the holding*, which is the wording on the
+                  sheet in the reader's hands at 407 and at 410 and is quoted as a document rather than said as
+                  speech; **one** is *the room at the end of a corridor off the second landing* at 401 and 412, a
+                  fixed administrative noun and not a sentence; **one** is *an officer of a holding is a person the
+                  room can serve* at 410 and 411, **AND 411 ACKNOWLEDGES THE REPETITION ON THE PAGE** in its own
+                  words — "She had said a version of that sentence in a kitchen the night before."
+                  **The three verbatim borrowings the review did find — one woman's sentence handed to a second
+                  woman at 402 and 404, the Ninth Seal explained twice at 403 and 404, and a public-post clerk
+                  reciting a guild broker at 404 and 409 — WERE REWRITTEN, NOT MOVED, AND ALL THREE OF THOSE
+                  CHAPTER PAIRS ARE NOW AT ZERO ON THIS ROW.**
+DUP 11-GRAM      **28 distinct, 47 directed rows, 23 distinct (chapter, source) pairs**, cross-volume scope.
+DUP 8-GRAM       **435 distinct, 493 directed rows, 595 distinct (chapter, source) pairs**, cross-volume
+                  scope. **435 IS THE POST-REPAIR FIGURE AND SUPERSEDES BOTH 431 AND THE 432 THE REVIEW
+                  RE-DERIVED; the seven figures of movement are the review repair itself.** These are the volume's
+                  fixed administrative nouns and not sentences: *the room at the end of a corridor*, *premises
+                  34-6-118*, *nine ruled lines*, *sixty-one steps*, *a fixed day*.
 DIRECTED ROWS    **NOT TAKEN AND NOT SUBSTITUTED.** The Volume 8 close audit's directed-rows column is NOT
                  VERIFIED and is dropped. The three numbers above are derived from the printed definition
                  and the printed tokenisation above, and a later phase that wants one must re-derive it from
@@ -137,6 +178,51 @@ that section head, and the interval from the sixteenth to the nineteenth of Febr
 the roll, she has put the gap there herself for the best reason anybody at that table has given since the thirtieth of March, and she
 has now worked out from the gap what she has been administering four times a year since the thirtieth of November — and he has still
 not told her the rest, and the rest is that the account cannot be closed and she is the officer of it for ever.** Movement 2 owns it.
+
+## THE REVIEW REPAIR — 15 OCTOBER 2026. WHAT WAS FOUND, WHAT WAS CHANGED, AND WHAT WAS DELIBERATELY LEFT ALONE
+
+**THE REVIEW PASSED 401–404, 406, 408, 409, 411 AND 412 AS PUBLISHABLE AS THEY STOOD. NOTHING WAS RESTARTED, NO CHAPTER WAS
+REWRITTEN, NO PLOT WAS MOVED, AND `outline/ending.md` IS UNTOUCHED. TWELVE DEFECTS WERE FOUND AND TWELVE WERE FIXED BY HAND,
+EACH INSIDE A PARAGRAPH THAT WAS ALREADY THERE.**
+
+| # | Chapter | Defect | What was done |
+| --- | --- | --- | --- |
+| 1 | 407 | **A paragraph repeated word for word, stage direction and all**, lines 49/51 at 53/55 | second copy deleted. The first copy stands and the chapter turns into it |
+| 2 | 402 → 404 | **Dagmar Oyelowo's and Marguerite Vale's sentences were the same sentence** — *that is not modesty, and I have been told it is modesty twice this year* / *twice this month* | 402 kept. **404 rewritten in the broker's own mouth**: modesty is a thing a person says when the price is too high, and she has never said a thing like that about a figure in her life |
+| 3 | 403 → 404 | **The Ninth Seal explained twice** — no card, no floor, no interval, the black top tile — and 403 ends by sending him to 404 for it | **404 now refuses to restate it.** Marguerite declines the question, tells him Beatrix sold him that half on the fifth and it was worth more in her mouth, and gives him the half that is a counter: the verb |
+| 4 | 404 → 409 | **A public-post clerk reciting a guild broker**: *a form and a room and an administration every quarter, and a medical return to a clinic every quarter* | **409 rewritten into clerk speech**: a file and a room of his own, an administration every quarter, a medical return like anybody else's, and the boy puts the sentence in the third person because a boy reads a card |
+| 5 | 404 → 408 | **Marguerite's trade sentence handed back to him verbatim** — *every one of those names is now a document somebody can produce* | **404 reworded**: a sheet somebody else is holding, on their own paper, with you not in the room. **408 keeps it, in his mouth, as the price he says out loud to eight women** |
+| 6 | 409 → 412 | **The clerk repeats her own line about the space under the fifth line**, ~20 words identical | **412 rewritten**: the fifth line is new, the sheet carries a ruled space under it, the space had been blank on every weekly return for nineteen years |
+| 7 | 405, 407 | **The six-of-eight list was broken at both ends.** It named *the Vestry*, which is Tessa Okonkwo, and Tessa is not at that table; then it answered *the two with no post* with Isolde **and Petra**, naming a woman as postless in the clause that gave her a post; and 405 also claimed one of the eight ran the counter the roll is read at, which is Dagmar's counter, and Dagmar is one of the three unsworn | **THE LIST IS CORRECTED IN BOTH CHAPTERS TO THE EIGHT WHO ARE ACTUALLY AT THE TABLE** — Agnete Lindqvist, Runa Sato, Nadia Ferrous, Wren Kallo, Isolde Marchetti, Beatrix Halm, Petra Ilyin, Sun Meiling, as 402 and 410 already had it. The Vestry is replaced by **the Ferrier line, which is Beatrix Halm, and a signal operator is a division whether she is on a tram or not**. The two with no post are **Nadia Ferrous and Isolde Marchetti**. Dagmar is **kept and moved out of the eight**: she is the woman who swore the roll, she is not one of them, and she runs the counter it is read at. **No plot moved. The roll, the nine and the three unsworn are exactly as 402 printed them.** |
+| 8 | 410 | **"Seven of them signed before half past eight."** Six are named before Petra arrives at ten past nine | now **"Six of them signed before half past eight."** The section head *Seven Hands* and *That was seven* both stand and are still true |
+| 9 | 410 | **"two days late"** had no referent and contradicted 406, where she explicitly promised the eighteenth, which is the day she came | **"an hour and a half late"**, which is what ten past nine is after eight o'clock |
+| 10 | 408 | **"Runa priced it at four this morning."** Wrong date — the pricing was at a Field counter on the evening of the eighth, and 408 is the evening of the fourteenth | **"Runa priced it at four on the eighth."** **No weekname was substituted; a Monday first appeared in the 404 repair and was replaced with the fifth of April before any gate was run** |
+| 11 | 412 | **"It went to six desks,"** then six named, then *And the sixth was also a wing off a third court* — a seventh destination described as a duplicate | **seven desks, seven named,** and the section head is now *Half Past Four, Seven Desks* |
+| 12 | 406 | **a speaker tag in the third person inside a first-person speech block**, and **"is a round"**, which reads as a truncated word | tag removed and the sentence left to stand as Petra's own; **"is a round"** is now **"is a guild round"** |
+
+**THREE FINDINGS WERE READ AND DELIBERATELY NOT ACTED ON, AND THE REASON IS RECORDED SO A LATER PHASE DOES NOT
+RE-OPEN THEM.**
+
+**13. THE SCENE AT 406 IS PHYSICAL BUT NOT LEXICALLY EXPLICIT.** A ten-term probe returns one hit. **THE REVIEW ITSELF DID NOT
+FAIL IT.** The chapter clears the floor on either span, the three-axis template break is real, the cost of the central mechanic
+is demonstrated by an event, and the reviewer called it "sen[sual] and physical rather than explicit" as an observation, not a
+defect. **Rewriting a 2,079-word scene on a vocabulary instruction would destroy the prose the same review called strong, and
+AGENTS.md sets the test as *write the actual scene*, not *use a specified word list*. Nothing in 406 was touched except
+defects 12. A later phase must not describe 406 as repaired for this.**
+
+**14. RUNA PRICES THE EIGHT AT THE END OF 405 AND PRICES THEM AGAIN AT 407.** The reviewer called this legible but a rehearsal.
+**It is staged on the page in two places**: Runa says in 405 *I have given it to you in the wrong order, and I am giving it to you
+again because you did not write it down the first time*, and 407 opens *I am going to give it to you in the wrong order twice and
+you are going to write it down, because the second time is the one that matters and the first time is the one you will
+remember.* Defect 7 corrected the **content** of the 405 version — which was wrong, twice — and left the **structure** alone.
+
+**15. EIGHTEN CHAPTERS FROM 380 TO 398 WITH NO SCENE.** **NOT CURED AND NOT CURED BY ANYTHING IN THIS REPAIR.** It is
+item 1 of the inherited open items above and it stays open there.
+
+**AND THE ONE THAT IS A GATE, NOT A CHAPTER: THE DUP ROW COULD NOT SEE DEFECTS 1, 2 AND 3.** Its printed definition compared a
+Volume 9 chapter only against an *earlier* chapter file, so it excluded within-file duplicates and Volume 9 against itself. It is
+now re-scoped and a second row, *DUP, VOLUME ONLY*, is certified alongside it. **Any batch that certifies against the first row
+alone is certifying half-blind, and every earlier volume in this repository was.**
 
 ---
 

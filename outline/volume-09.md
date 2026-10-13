@@ -526,8 +526,10 @@ and the only thing that can be given is a figure other people have already put u
   is a chain — and says she will come and find him and will not let him pick the day. **Runa Sato prices the queue
   from the rail: two hundred and eleven, of whom ninety are unreachable, four are reachable by another route and two
   not at all; and she refuses to have her standing order of the thirtieth of October invoiced, ever.**
-- **406 (10 Apr). THE SCENE. PETRA ILYIN. WRITTEN AND OUT IN FULL. 3,259 WORDS; SCENE BODY 2,074 ON THE SPAN
-  `## The Frame Of The Roller Door` TO `## Afterwards` EXCLUSIVE; PROBE 30.** A bonded store, a roller door half
+- **406 (10 Apr). THE SCENE. PETRA ILYIN. WRITTEN AND OUT IN FULL. 3,257 WORDS AFTER THE 15 OCTOBER 2026 REPAIR; SCENE BODY 2,079 ON THE
+  SPAN `## The Frame Of The Roller Door` TO `## Afterwards` EXCLUSIVE, AND 2,596 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH THE REVIEW
+  REQUIRED TO BE PRINTED BESIDE IT; PROBE 30.** **THE SCENE IS PHYSICAL AND IT IS NOT LEXICALLY EXPLICIT. THE REVIEW SAID SO AND DID NOT FAIL IT,
+  AND NOTHING IN IT WAS TOUCHED EXCEPT A TRUNCATED WORD AND A SPEAKER TAG.** A bonded store, a roller door half
   down, a foot of cold along the floor. **She is not impaired and says so in her own mouth before anything else
   happens in the room.** Two spoken terms, no paper, and the second of them is not about him. **The three template
   axes are broken on the page and named on the page: no terms sheet and no written terms, no counted minute and no
@@ -574,8 +576,9 @@ and the only thing that can be given is a figure other people have already put u
   time since the twenty-third of December.** He did it himself, in a queue, with a pen. **And the clerk writes one
   word under the fifth line, in a space that had been empty for nineteen years, and neither of them knows what it
   means.** The chapter ends on the address of the holding being a kitchen on Ferrier Street, and the eighteenth.
-- **410 (18 Apr). SEVEN OF THE EIGHT. WRITTEN. 1,443 WORDS.** The kitchen, a sheet, one line. **Seven sign before half
-  past eight, and Petra Ilyin comes in two days late at ten past nine and signs without reading it.** Wren Kallo signs
+- **410 (18 Apr). SEVEN OF THE EIGHT. WRITTEN. 1,442 WORDS AFTER THE 15 OCTOBER 2026 REVIEW REPAIR.** The kitchen, a sheet,
+  one line. **Six sign before half past eight and Petra Ilyin makes it seven, an hour and a half late, at ten past nine, signing
+  without reading it.** Wren Kallo signs
   looking at him and says nothing. **Sun Meiling does not sign**, and the reason is one sentence and it is neither
   cowardice nor loyalty: a witness line naming her on a consignment of that holding makes her an officer of that
   holding, and an officer of a holding is a person the room can serve. She has spent three years inside
@@ -619,7 +622,7 @@ five — **is gone, and he put it there himself, in about eleven minutes, in a q
   nowhere in that book, because a quarterly return carries names and this room never sees a quarterly again.** The
   fifth is new and under it is the word the clerk wrote on the fifteenth, and she has not been told what it means
   either, and she asks, and the honest answer is that neither of them knows. **At about half past four the return
-  goes out on the ordinary stream to six desks, and one of the six is a wing off a third court that sits outside the
+  goes out on the ordinary stream to seven desks, and the seventh is a wing off a third court that sits outside the
   Wing, keeps no register of addresses, has had a shape since the first of January and has never been named — and the
   return says five, for the first time in twenty years that a figure about that room has gone there, and there is
   nothing on the face of the service that anybody could object to.** The requisition of the twentieth of February is
@@ -649,7 +652,7 @@ five — **is gone, and he put it there himself, in about eleven minutes, in a q
    months old makes the sum he does in the corridor at noon the chapter.
 7. **THE 412 CARD SAID THE THING THAT SAVES HIM AND THE THING THAT ENDANGERS HIM ARE THE SAME DOCUMENT. THE PAGE
    FOUND A STRICTER AND BETTER VERSION: they are not the same sheet, they are the same *door*, at the same hour, and
-   the fifth figure leaves on the ordinary stream to six desks, one of which has no name.**
+   the fifth figure leaves on the ordinary stream to seven desks, one of which has no name.**
    **AND ONE CARD FACT WAS WRONG ON THE PAGE AND WAS NOT FOLLOWED: the 406 card said the hall held nine thousand
    people. It is Cobb Street, two hundred and eleven in a room rated at two hundred and thirty
    (`chapter-0141.md:167`, `chapter-0146.md:31`), and the page governs.**
@@ -667,7 +670,7 @@ address on one date is now in the keeping of a room that wanted them before it w
 - **412 (21 Apr). THE ROOM STANDS AT FIVE. WRITTEN — SEE §6 MOVEMENT 1.** The first return that carries five, the
   fourth line and the fifth, and the thing the clerk has to write under the fifth because there has never been a word
   for it. **On the page the clerk asks what the word means on the same afternoon she wrote it, and is told that the
-  man standing in the corridor does not know either.** The return goes out at half past four to six desks.
+  man standing in the corridor does not know either.** The return goes out at half past four to seven desks.
 - **413–416.** The first draw of the volume is made on a stranger (413). **The ledger crosses a number and the
   panel appears (414 — this is one of the two chapters in the volume where a panel is due, and it is due because
   the chapter turns on the ledger).** Runa's own price, invoiced and not invoiced (415). Isolde Marchetti sums aloud
@@ -675,7 +678,7 @@ address on one date is now in the keeping of a room that wanted them before it w
   January (416).
 - **417 (1 May). THE SCENE. NADIA FERREROUS.** §4.
 - **418–420.** The household finds out what it has signed. **Four in the morning at a public post** (419). **The
-  clerk who reads a gap aloud, and the return that goes out at four in the afternoon to six desks, one of which is a
+  clerk who reads a gap aloud, and the return that goes out at four in the afternoon to seven desks, one of which is a
   wing off a third court (420).**
 
 **WHAT CLOSES IN MOVEMENT 2:** *the line exists and it can be produced against seven women.* **THE COST:** the
@@ -941,7 +944,7 @@ before this file was written, and not by eye:**
 titles checked   50, numbered 401..450 with no gap
 collisions       0   (compared against all 400 written title lines, extracted from chapters/)
 duplicates in bank 0
-over 90 chars    0   (longest 35, shortest 18)
+over 90 chars    0   (longest 37, shortest 18)
 begins with What 0
 built out of there is no / nobody / nothing / what   0
 word count       minimum 3, maximum 8, every one inside 3-12
@@ -955,7 +958,7 @@ Movement That Cannot Be Undone (34) · 410 Seven Of The Eight (18)**
 **411 The Hand That Did Not Sign (26) · 412 The Room Stands At Five (23) · 413 A Queue Off The Third Court (27) ·
 414 The Ledger Crossing A Number (28) · 415 The Standing Order She Will Keep (32) · 416 The Singer Who Cannot
 Sing Here (31) · 417 The Woman Who Gave The Address (30) · 418 Nine Women And A Witness Line (29) · 419 Four In The
-Afternoon, To Six Desks (35) · 420 The Clerk Who Reads A Gap Aloud (31)**
+Afternoon, To Seven Desks (37) · 420 The Clerk Who Reads A Gap Aloud (31)**
 
 **421 The Week It Could Be Carried (28) · 422 Where The Fourth Part Lives (27) · 423 The Envelope He Would Have To
 Open (34) · 424 A Recusal Only The Subject May Lift (35) · 425 The Minute That Carries Five Seals (34) · 426 The Man

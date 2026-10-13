@@ -12,7 +12,7 @@ So the sheet came back to a kitchen.
 
 "The fifteenth was three days ago," said Beatrix Halm. "So that has gone, or it has not, and there is nothing on this sheet that tells me which, and I have been in this city for nine years and I have never once been able to make a rule out of a thing that is not printed."
 
-Seven of them signed before half past eight.
+Six of them signed before half past eight.
 
 ## Seven Hands
 
@@ -24,7 +24,7 @@ Isolde Marchetti signed, put the pen down, and said one thing out loud to nobody
 
 Beatrix Halm signed and put the pen down at a right angle to the edge of the sheet.
 
-And Petra Ilyin came in at about ten past nine, two days late, in guild cloth, and signed without reading it, and said she had told him in a bay that she would be there on the eighteenth and she had not said she would be early.
+And Petra Ilyin came in at about ten past nine, an hour and a half late, in guild cloth, and signed without reading it, and said she had told him in a bay that she would be there on the eighteenth and she had not said she would be early.
 
 That was seven.
 
@@ -76,7 +76,7 @@ She straightened the cup she had not drunk from.
 
 "It is arithmetic, and I worked it out on the evening of the seventeenth in about four minutes."
 
-"A line is a list of the people who were in a room on a date. There were eight of us at this table on the evening of the fourteenth, and seven of us signed on the eighteenth, and the space is mine."
+"A line is a list of who was at a table on a day. There were eight of us here on the evening of the fourteenth, and seven of us signed on the eighteenth, and the space is mine."
 
 "And the space is the reason."
 

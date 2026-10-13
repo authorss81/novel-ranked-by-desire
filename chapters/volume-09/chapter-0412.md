@@ -54,7 +54,9 @@ It said five, and under the standing on that line there was the word.
 
 She turned the sheet so he could see it and kept her hand on it.
 
-"I wrote it at about two minutes to one on the fifteenth because there was a space under the fifth line and there had never been anything in that space in nineteen years, and I wrote what a clerk writes when the space has to be filled and nobody has told her what goes in it. It is my hand and there are about four thousand other things in my hand in this building."
+"I wrote it at about two minutes to one on the fifteenth because the fifth line was new, and the sheet carries a ruled space under the fifth line for anything the fifth line cannot hold by itself. That space had been blank on every weekly return in this room for nineteen years. I wrote what a clerk writes when the space has to be filled and nobody has told her what goes in it."
+
+"It is my hand and there are about four thousand other things in my hand in this building."
 
 "What does it say."
 
@@ -68,11 +70,11 @@ She squared the return, and the standing of the room was at the bottom of it in 
 
 *The room stands at five.*
 
-## Half Past Four, Six Desks
+## Half Past Four, Seven Desks
 
 The return went out at about half past four on the ordinary stream, which is the ordinary time and has been the ordinary time since he has been in any building in this city.
 
-It went to six desks.
+It went to seven desks.
 
 The first was Field. The second was counter-forensics on the second sub-level, where an officer initials the transmission above a part of hers, and the part has been in that division since the morning of the twenty-seventh of October.
 
@@ -80,7 +82,7 @@ The third was the Vestry. The fourth was the guild. The fifth was the Church of 
 
 The sixth was Veil-Research, second floor of a building off that court, and a man on the third floor of the same building has been at his post for nine years and has not walked down her corridor since the fourth of February.
 
-And the sixth was also a wing off a third court.
+The seventh was a wing off a third court.
 
 That is not a mistake, and it has never been a mistake. The stream to the research division runs through a wing, and that wing sits on the same court as a division that sits outside the Wing proper, keeps no register of addresses, has had the shape of something since the first of January, and has never been named on any paper he has been able to get hold of.
 

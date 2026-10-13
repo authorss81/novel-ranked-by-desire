@@ -60,7 +60,7 @@ That was when she told him what she had worked out.
 
 "That is not the one I have been carrying." She took her hand off the frame.
 
-"The one I am still carrying is a round, and I took it in about four seconds in an office I had been sent to and could not say no in, from a man who did not give his name and whose face I have never seen since."
+"The one I am still carrying is a guild round, and I took it in about four seconds in an office I had been sent to and could not say no in, from a man who did not give his name and whose face I have never seen since."
 
 "My hands closed on it before anything in me had voted. That is the whole of what one of these is, and it is the whole of why I cannot get out of it."
 
@@ -86,7 +86,7 @@ She looked at him over her shoulder.
 
 "I would not have been able to tell anybody the difference on the eighth. I can tell you the difference standing in a freezing bay at eight in the evening."
 
-"And I have been under one for eleven years without knowing who made it, and I am extremely interested in the difference," said Petra Ilyin. "That is the whole of what I came down here for and it has nothing to do with you."
+"And I have been under one for eleven years without knowing who made it, and I am extremely interested in the difference. That is the whole of what I came down here for and it has nothing to do with you."
 
 "I thought about it from the eighth and I did not tell you and I was not going to."
 

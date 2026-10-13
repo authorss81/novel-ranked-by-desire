@@ -22,7 +22,7 @@ Nobody moved. There is a clock over the door in that kitchen and it is the loude
 
 "And the second half of the price," said Runa Sato, not looking up.
 
-"The second half is that a consignment is witnessed on the day it is lodged, at the address of the holding. And the address of the holding is this address."
+"The second half is that a consignment is witnessed on the day it is lodged, at the address of the holding. And the address of the holding is the address you are all sitting in."
 
 He let that sit for about four seconds and then he said the part he had come to say.
 
@@ -70,7 +70,7 @@ Isolde Marchetti spoke at about twenty to nine and she said the true thing in th
 
 "That is not a moral. That is a fact with a rate on it."
 
-"I know the rate. Runa priced it at four this morning."
+"I know the rate. Runa priced it at four on the eighth."
 
 "Then you know the other half of it as well, and nobody in this room is going to say it for you, so I will."
 

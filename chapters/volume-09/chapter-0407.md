@@ -16,19 +16,25 @@ She had ruled it herself because she did not trust a book.
 
 She wrote them down as she said them, in her own hand, in a column, with nothing to the right of them.
 
-"Field. That is me. Counter-forensics, second sub-level, which is Wren Kallo and there is another name in that division I am not going to say. The Vestry, which is two women in one building because Tessa Okonkwo has a ward and a clerk. The guild, which is Petra Ilyin, and a guild round gets served at a guild door in about four seconds. The Church of the Quiet Number, which is Agnete Lindqvist and eleven thousand people with no ranks and no register."
+"Field. That is me. Counter-forensics, second sub-level, which is Wren Kallo and there is another name in that division I am not going to say. The Ferrier line, which is Beatrix Halm, and a signal operator is a division whether she is on a tram or not, and a tram gets stopped in the middle of a street with everybody in it looking out of a window."
+
+"The guild, which is Petra Ilyin, and a guild round gets served at a guild door in about four seconds. The Church of the Quiet Number, which is Agnete Lindqvist and eleven thousand people with no ranks and no register."
 
 "And the sixth."
 
-"Veil-Research. Second floor, iron stair, off a court with no name on it that a stranger could carry in his head." She put the pen down on that one. "And that one is not in a building. That one sits in the same building as a man who has been on the floor above it for nine years and has not come down that corridor since the fourth of February, and you put nine names on a roll on the second."
+"Veil-Research. Second floor, iron stair, off a court with no name on it that a stranger could carry in his head." She put the pen down on that one. "And that one is not in a building. That one shares a building with a man who has been on the floor above it since before you had a plate, and he has not set foot in her corridor since the start of February, and you put nine names on a roll on the second."
 
 "Sun Meiling is not on the roll."
 
-"Sun Meiling is the reason the sixth one is worth saying out loud." Runa Sato looked at him. "There is not one of these six that a division cannot reach. There are two at that table with no post at all and one of them works a counter."
+"Sun Meiling is the reason the sixth one is worth saying out loud." Runa Sato looked at him. "There is not one of these six that a division cannot reach. There are two at that table with no post at all and one of them is a lift between two floors."
 
 "And the two?"
 
-"Isolde Marchetti and Petra Ilyin, and Petra's is a guild round and the guild is a division whether she likes it or not, and Isolde sings in a room in Bellhouse four nights a week and there are nine hundred people in that room." She squared the sheet. "You have four reachable and two reachable-by-another-route and two not reachable, and you knew most of that, and you came up here at four in the morning because you want it from the woman who prices it."
+"Nadia Ferrous and Isolde Marchetti. Nadia's is a lift on Ferrier Street that a man can stand in, and Isolde's is a room in Bellhouse four nights a week with nine hundred people in it, and there is not one door in this city that either of those two can be served at."
+
+She squared the sheet.
+
+"You have six a division can put a paper into the hand of and two it can only find a building for, and you knew most of that, and you came up here at four in the morning because you want it from the woman who prices it."
 
 ## The Instrument
 
@@ -45,10 +51,6 @@ She tapped the sheet. "Superseded is not withdrawn, and I have been watching you
 "Nadia Ferrous gave up an address at a counter on the morning of the thirteenth of March, because she wanted her name off every paper that carries that address anywhere on it."
 
 "She is still the eighth name under a sheet in a room at the end of a corridor, and she cannot be got off it. She told me so herself at a counter in February, and she said it the way a woman says the price of something."
-
-"So it is the same instrument."
-
-"It is the same instrument and you know the price of it to the grain, because you set it." Runa Sato put both hands flat on the table. "That is why you are awake."
 
 "So it is the same instrument."
 
@@ -80,7 +82,7 @@ She picked the pen up and drew a line under the column.
 
 "At a composition."
 
-"At the address, in the ordinary way, in my own hand, under my own name, at the head of it." She wrote the field on the sheet. "A consignment is witnessed on the day it is lodged and at the address of the holding, and the address of the holding is a kitchen on Ferrier Street, and if a person is going in the room to certify the composition of a premises they go as the person who certifies compositions."
+"At the address, in the ordinary way, at the top of the sheet with my name on it and nothing above that name." She wrote the field on the sheet. "A consignment is witnessed on the day it is lodged and at the address of the holding, and the address of the holding is a kitchen on Ferrier Street, and if a person is going in the room to certify the composition of a premises they go as the person who certifies compositions."
 
 "Then the Field division has you."
 

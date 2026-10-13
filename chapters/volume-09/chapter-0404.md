@@ -32,13 +32,21 @@ She took a folded sheet out of the side of the table and squared it and did not 
 
 "Then what is being priced."
 
-"A rank." She turned the sheet round. "The Ninth Seal is not a band. That is the whole of it and everything else follows and I am going to say it once. A band is a figure. A figure is read off a card. The card comes down on the last working day of a quarter and prints a floor and prints what is against an address. That is the entire mechanism by which this city has ever told anybody what they are."
+"A rank." She turned the sheet round. "The Ninth Seal is not a band. That is the whole of it and everything else follows and I am going to say it once. A band is a figure. A figure is read off a card, and the card has been the only instrument this city has ever used to tell anybody what they are."
+
+"It has been that so long that there is a woman who goes out in the dark to read a wall to find out what she is."
 
 "And the ninth."
 
-"There is no card." She said it flatly. "There has never been one. Nine has no floor and no interval and no figure on any sheet in this city, and that is why the top tile on that wall is black, and it has been black and empty for as long as anybody alive can remember, and there has never been a reason put on it and there is not one to put."
+She did not answer that, and he took about four seconds to work out that she was not going to, and then another four to work out why.
 
-He had been at that wall every morning of a nine-year woman's life and had never once asked why the top tile was black.
+"You have been to Beatrix Halm about it."
+
+"On the fifth of April, under the north end of that wall, and she gave you the card and the tile and the black, and she has been giving that wall those three things every morning for nine years in a notebook you have walked past for five volumes."
+
+"And you are not going to say it again."
+
+"I am not going to stand in my own rooms and sell you a thing you paid another woman for on the fifth." She turned the sheet round and put a finger on it. "She said the half of it that is a wall. I have the half of it that is a counter, and you came up sixty-one steps for it, and here it is, and you may have it once."
 
 "So how does anybody get to it."
 
@@ -96,7 +104,9 @@ And he could not climb on what was in him, because not one grain of it was score
 
 "No."
 
-"No." She turned the folded sheet over and did not open it. "The only thing in this whole business that can be given away is a figure that other people have already put under you. And every one of those names is now a document somebody can produce. That is the trade and there is no other version of it, and I have been able to say that sentence since about Chapter two hundred and I have been waiting for you to get near enough to hear it."
+"No." She turned the folded sheet over and did not open it. "The only thing in this whole business that can be given away is a figure that other people have already put under you. And every one of those names is now a sheet somebody else is holding, on their own paper, with you not in the room."
+
+"That is the trade and there is no other version of it, and I have been able to say that sentence since about Chapter two hundred and I have been waiting for you to get near enough to hear it."
 
 She took the plates off the table.
 
@@ -114,7 +124,7 @@ She said it before he had asked, and she said it without any weight in it at all
 
 She squared the sheet she had never opened.
 
-"And I am not going to put my name under a consignment of a holding I am not answerable for. That is not modesty, and I have been told it is modesty twice this month by people who have not got a word."
+"And I am not going to put my name under a consignment of a holding I am not answerable for. And I will tell you what that is, since we are being plain at this table: it is not modesty. Modesty is cheap. Modesty is what a person says when the price is too high and it is a way of not saying the price, and I have never said a thing like that about a figure in my life."
 
 "Then tell me the price and I will work on it."
 
