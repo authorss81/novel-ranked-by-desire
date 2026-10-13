@@ -1,12 +1,16 @@
 # The Book She May Not Read Out
 
-Her rooms are on the fourth floor of a building off Ferrier Street with a window that goes the whole way round two sides, and there is a fire in them and a table with nothing on it and a chair he has never once been offered again.
+Her rooms are on the fourth floor of a building off Ferrier Street with a window that goes the whole way round two sides. It is the evening of the twenty-fourth of January of the third year. There is a fire in them and a table with nothing on it and a chair he has never once been offered again.
 
 On the table there was a book.
 
-It came in under her arm and it did not leave her hand, and when she took her coat off she put it down on the table and kept her left hand flat on the cover of it, and she did not do that on purpose and she did not stop doing it either, and by the time the fire had gone over twice it had become the shape of the evening the same way the room had become the shape of the evening.
+It was hers and not the Vant's. It came in under her arm and it did not leave her hand, and when she took her coat off she put it down on the table and kept her left hand flat on the cover of it.
 
-She has been the Vant's senior broker for eleven years. She trades in favours and she keeps the real books and she has kept investing after the return stopped making sense.
+She did not do that on purpose and she did not stop doing it either, and by the time the fire had gone over twice it had become the shape of the evening the same way the room had become the shape of the evening.
+
+She has been the Vant's senior broker for eleven years. She trades in favours and she carries more of this city's obligations than any living person and she has kept investing after the return stopped making sense.
+
+The real books are chained in a room off a landing. They go on a table at half past eight on the day and they come off it when the room seals, and the keeper has carried that book up a stair two hundred times and has never once been allowed to sit down with it, and there is no version of this evening in which it is in these rooms.
 
 "Marguerite."
 
@@ -16,7 +20,7 @@ She has been the Vant's senior broker for eleven years. She trades in favours an
 
 She sat down opposite him and did not take her hand off the book.
 
-"Before anything else," she said. "The rule of that room is that nothing in it is said out loud, and the rule is not a courtesy and it is not for you, and if you ask me a question tonight whose answer is in the book then the answer is that the book may not be read out, and you will get that answer whatever the question was."
+"Before anything else," she said. "The rule of that guild is that nothing it records is said out loud — chained or not, including the parts I keep in my own hand at home — and it is not a courtesy and it is not for you, and if you ask me a question tonight whose answer is in the book then the answer is that the book may not be read out, and you will get that whatever the question was."
 
 "What is the rule for."
 
@@ -28,13 +32,27 @@ She turned her head about nine degrees.
 
 ## What Has Happened To Her
 
-"Rask's books meet on the sixteenth of November," she said. "They meet once in the year and they did not move at seven in the morning on the sixteenth, which is a thing they have never done, and the reason they did not move is a figure that is in that book and is not in the Vant's own procedure."
+"The books that would have taken it sit once in the year and not twice," she said. "On the sixteenth of November, at seven in the morning. They did not move. That is a thing they have never done."
 
-"Your book."
+"Why."
 
-"The real book." She did not move her hand. "On the second of October, four years ago, at about ten past four in the afternoon, I closed an entry in it by hand. Not struck. Closed, with a line under it and my name against the line and the word *held* at the end of it."
+"Because there is not going to be one entry in any book in Ostara that says that account is empty." She did not move her hand.
 
-"Because a thing that has been given away in the open is not a thing anybody can keep a claim on. And because if I had struck it, then in about four years a stranger with a folder would have found a gap where the largest number in this city used to be. A gap is worse than a number."
+"A room that meets once a year to move a thing it cannot see does not move it. And no book in this city is going to carry a line saying that the largest figure in it came out into the open in four days and is not there now, because that line is a description of a thing that never existed and this city will not write one."
+
+"Then what held it."
+
+"Six words," said Marguerite Vale. "Four times a year, under a keeper's own name, in a chained book in a room two floors under a sales floor. *It is still going, and it is not shut, and it has nobody's name on it.* That is the whole of what stands between that account and a sentence about it. It is a delay and not a defence and it holds until somebody writes something else."
+
+"And in the meantime a hand-closed entry sits in a book that goes on a table at half past eight and comes off it when the room seals." She put two fingers on the cover without lifting it. "And the only other record of what I did that day is in this."
+
+"You closed it."
+
+"On the second of October, four years ago, at about eleven on the morning, I closed an entry in the real book with a line under it and my name against the line, in front of Solveig Rask, because the thing is gone, and a book that carries nothing is worse than a book that is empty." Her hand did not move. "A thing that has been given away in the open is not a thing anybody can keep a claim on."
+
+"Not struck."
+
+"Not struck. Struck is a word with a form under it and I did not have the form, and I did not strike it because if I had, then in about four years a stranger with a folder would have found a gap where the largest number in this city used to be. A gap is worse than a number."
 
 Her hand did not move.
 
@@ -76,7 +94,7 @@ She looked at him.
 
 He put his hand flat on the table beside hers and did not touch it.
 
-"A man called Ashby wrote a figure off a slate into a lease and he cannot produce it and a woman in number four cannot pay it and the door goes on the first of January."
+"A man called Ashby wrote a figure off a slate into a lease and he cannot produce it and a woman who had been in number four for nine years could not pay it, and the door went on the first of January and she is in her sister's rooms off Cordwain."
 
 "Yes."
 
@@ -96,11 +114,11 @@ She turned it round.
 
 A street and a figure. That is all it was.
 
-"That is what Lamplit Row takes," she said. "It is out of my memory and not out of that book, and I wrote it in about eleven seconds without opening it, and you are going to ask me how I know and the answer is that I have known it for eleven years and that knowing it is not the same as being able to say where it is written down."
+"That is what Lamplit Row takes," she said. "It is out of my memory and not out of a book, and I wrote it in about eleven seconds without opening this one, and you are going to ask me how I know and the answer is that I have known it for eleven years and that knowing it is not the same as being able to say where it is written down."
 
 "It is the same thing a keeper does."
 
-"It is exactly what a keeper does," said Marguerite Vale. "Two floors under a sales floor, four times a year, for thirty years, under her own name, with nothing whatever behind it. I have never once met her and I have thought about her roughly once a month for four years."
+"It is exactly what a keeper does," said Marguerite Vale. "I have never once met her, I have never once been in that room, and I have thought about her roughly once a month for four years."
 
 "The reason is that she is the only person in Ostara who has proved that a figure nobody can check is worth more than a figure somebody can. And I could not think of a single way to say that to you in a room until about eleven seconds ago."
 
@@ -182,7 +200,7 @@ When she came she stayed exactly where she was, on him, and let him put his hand
 
 Then she got off, sat on the edge of the chair, reached down, and put her left hand flat on the book on the floor, and left it there.
 
-"You are the only man in this city I have never had to explain anything to," said Marguerite Vale. "You have cost me the most and you have never once asked me for the terms, and I do not know what to do with that, and I have had eleven years of practice at knowing what to do with everything."
+"You are the only man in this city I have never had to explain anything to," said Marguerite Vale. "You have cost me the most and you have never once asked me what it was for, and I do not know what to do with that, and I have had eleven years of practice at knowing what to do with everything."
 
 ## The Card Afterwards
 
@@ -208,9 +226,9 @@ She squared the card under the ashtray with two fingers.
 
 "So it does not go in."
 
-"Then the man has the first of January," said Lin Hao.
+"Then the man has what he has already taken," said Lin Hao.
 
-"Then the man has the first of January," said Marguerite Vale, "and I have the sixteenth of November. One of those two dates costs a woman a room. The other one costs me eleven years of standing."
+"Then the man has a woman out of a room she had been in for nine years, and that happened on the first of January, and I have the sixteenth of November," said Marguerite Vale. "One of those two dates cost a woman a room. The other one costs me eleven years of standing."
 
 She put her hand flat on the closed book.
 

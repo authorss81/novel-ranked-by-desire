@@ -64,7 +64,7 @@ She turned the page round so that it was facing him.
 
 "And the other."
 
-"The other is a person who can name a day and would not come," said Wenna Raut. "A person who carried something for somebody is the only person in this city who has never once been thanked, has never once been paid, and has never once been able to say so, and every one of those three is a reason to keep it out of a book, and the biggest of the three is that being carried is not something anybody is proud of."
+"The other is a person who can name a day and would not come," said Wenna Raut. "A person who carried something for somebody, got nothing for it, and told nobody, and every one of those three is a reason to keep it out of a book. The one that stops them at this door is not the money. It is that they have stood in a lane once already and the lane asked them something, and they are not going to be asked it twice in the same city."
 
 She put the nib down.
 

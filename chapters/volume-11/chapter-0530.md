@@ -1,4 +1,4 @@
-# A Threshold Is A Floor
+# Her Brother Read The Sheet
 
 She came at about a quarter past ten on the morning of the thirtieth of September, which is the last working day of the quarter and the day the sheet goes out at four, and she was not the first person at that counter that day and she was the only one who came twice.
 
@@ -136,11 +136,11 @@ He stayed at the branch off a third court from eleven at night until half past f
 
 He wrote one more.
 
-*A threshold is a floor.*
+*A threshold under a wall is a floor.*
 
-Marguerite Vale had said that at a table off Ferrier Street on the nineteenth of July of the second year, in her own chair, with her own hand on the fourth line of a definition, and she had said it as a warning and had been thanked for it by nobody.
+She had told him that in a kitchen off Ferrier Street in her own chair on the nineteenth of July of the second year, with the fourth of his four lines turned round in front of her and read back twice.
 
-He had laid a threshold under a wall in his own handwriting on that same evening, and a year of standing sheets had gone out at four since.
+He had laid that threshold under a wall in his own handwriting on the same evening, and a year of standing sheets had gone out at four since.
 
 A column called *carried by* had gone out with it four times with nothing under it. There was a figure off a piece of chalk against a street in Lamplit Row, with a number in it that a woman had written out of her own head at one in the morning.
 

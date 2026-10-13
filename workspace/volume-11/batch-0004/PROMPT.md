@@ -1,4 +1,4 @@
-# VOLUME 11, BATCH 0003 — Chapters 531–540. The first of October, year three to the first of July, year four. Movement four, SWEPT. **A WRITING PHASE. IT WRITES TEN FINISHED CHAPTERS AND NOTHING ELSE.**
+# VOLUME 11, BATCH 0004 — Chapters 531–540. The first of October, year three to the first of July, year four. Movement four, SWEPT. **A WRITING PHASE. IT WRITES TEN FINISHED CHAPTERS AND NOTHING ELSE.**
 
 > **THE VOLUME OUTLINE IS `outline/volume-11.md`. ITS MOVEMENT FOUR IS `outline/volume-11.md` §7 AND IT IS WHAT YOU CITE. IF THE OUTLINE AND THE PAGE DISAGREE, THE PAGE IS RIGHT AND YOU REWRITE THE OUTLINE IN THE SAME COMMIT.** **`outline/ending.md` IS FIXED AND IS NOT YOURS TO EDIT. IT DECIDES WHAT THE FIRST FIVE HUNDRED CHAPTERS DID AND THIS BATCH RUNS FOUR YEARS AFTER THE END OF THAT BOOK.** **WRITE `chapter-0531.md` … `chapter-0540.md` INTO `chapters/volume-11/`.** **Only the controller may mark a phase done or blocked. Do not create, edit, move or delete any `.done`, `.blocked`, `.deferred`, `.attempts` or `.retry-after` file in `workspace/`.**
 
@@ -6,7 +6,7 @@
 
 **YOU WRITE PROSE. TEN CHAPTERS, 531 to 540, the first of October of year three to the first of July of year four.**
 
-**BATCHES 0001 AND 0002 ARE WRITTEN AND REPAIRED: `chapters/volume-11/chapter-0501.md` … `chapter-0520.md`, 46,915 words. BATCH 0003 IS WRITTEN AND ON DISK IN THE SAME COMMIT THAT NAMED THIS PHASE: `chapter-0521.md` … `chapter-0530.md`, 22,240 words.** You are writing the next ten cards of the same movement engine, not a new book. **Read the live gate block at the head of `state/open-threads.md` before any other file in this repository. A figure in a gate block is a claim and a re-run outranks the record.**
+**BATCHES 0001 AND 0002 ARE WRITTEN AND REPAIRED: `chapters/volume-11/chapter-0501.md` … `chapter-0520.md`, 46,915 words. BATCH 0003 IS WRITTEN, ON DISK AND REPAIRED AGAINST `logs/next-0003.review.log`: `chapter-0521.md` … `chapter-0530.md`.** You are writing the next ten cards of the same movement engine, not a new book. **Read the live gate block at the head of `state/open-threads.md` before any other file in this repository. A figure in a gate block is a claim and a re-run outranks the record.**
 
 **THE MOVE BEFORE YOU IS THE FIRST OF OCTOBER OF YEAR THREE, WHICH IS ONE DAY AFTER THE THIRTIETH OF SEPTEMBER ON WHICH HE PRINTED A SENTENCE ABOUT WHAT HIS OWN OFFICE IS NOT. YOU ARE ONE DAY LATER. THAT IS ALL THE RESTING HOUSEKEEPING YOU GET.**
 
@@ -104,7 +104,7 @@
 
 **NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR SEAL AS ITS MECHANISM. NO SEXUAL CHARACTER IS UNDER EIGHTEEN. VIOLENCE AND SEX STAY IN SEPARATE REGISTERS. THE MAN IN THIS SCENE IS A MAN AT RANK ONE WITH A SPENT CHEST AND NO PERMISSION OF ANY KIND, AND THE WOMAN HAS A DIVISION OF NINE AND A SHEET ON HER SIDE AND CAN WALK OFF A ROOF.**
 
-**536 MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY. IT MAY NEVER LEAVE THE SCENE UNWRITTEN.** Batch 0003's scene is 3,322 words and the reason was printed in the gate block; give a reason or stay inside.
+**536 MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY. IT MAY NEVER LEAVE THE SCENE UNWRITTEN.** Batch 0003's scene is 3,687 words and the reason was printed in the gate block; give a reason or stay inside.
 
 **TWO SPANS AND TWO COMMANDS, AND A FIGURE IS ONLY TRUE OF THE ONE IT WAS TAKEN WITH.**
 **RECORDED SPAN — the body counted from the opening `##` to the closing `##`, EXCLUSIVE of both.** `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1); sed -n "$((F+1)),$((L-1))p" FILE | wc -w`
