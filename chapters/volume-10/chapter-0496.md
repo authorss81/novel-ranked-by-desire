@@ -12,7 +12,7 @@ She had not been asked to have the lamp on and she had it on because the light f
 
 ## One Hundred And Twenty
 
-"The books that would take a thing like that did not move at seven on the morning of the sixteenth of November," she said. "You were told that on the fifth of October by a man standing in a lane and you have been carrying the sentence for twenty-five days and it has not improved."
+"The books that would take a thing like that do not sit again until seven on the morning of the sixteenth of November," she said. "You were told that on the fifth of October by a man standing in a lane and you have been carrying the sentence for twenty-five days and it has not improved."
 
 "It has not."
 
@@ -52,9 +52,9 @@ She put her thumb on the page.
 
 She looked up, which she does perhaps four times in a year.
 
-"Think about what happened to that account. Thirty years of it, carried forward, never drawn on, never paid, and on the first of October of this year it went out into a whole city in the open in four days, and the books that would have taken it did not move on the sixteenth of November and they open once in the year and not twice."
+"Think about what happened to that account. Thirty years of it, carried forward, never drawn on, never paid, and on the first of October of this year it went out into a whole city in the open in four days, and the books that would have taken it sit once in the year and not twice, on the sixteenth of November, and nothing anybody does in a lane between now and then is going to be in the room when they do."
 
-"And after the sixteenth of November there is not one entry in any book in Ostara that says that account is empty," said Hanneke Ruis. "There is not one. There is a line of handwriting four times a year in a chained book in a room two floors under a sales floor, and it says *carried forward*, and that line is the only thing in this city that stands between that account and a description of a thing that never existed."
+"And when they sit on the sixteenth of November there is not going to be one entry in any book in Ostara that says that account is empty," said Hanneke Ruis. "There is not going to be one. There is a line of handwriting four times a year in a chained book in a room two floors under a sales floor, and it says *carried forward*, and that line is the only thing in this city that stands between that account and a description of a thing that never existed."
 
 "And the man who emptied it."
 

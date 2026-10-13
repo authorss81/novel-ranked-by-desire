@@ -1,6 +1,14 @@
-# VOLUME 10 BATCH 0005 — CHAPTERS 491–500 ARE ON DISK, TEN FINISHED FILES. **THE EIGHTH OF OCTOBER TO THE TWENTY-EIGHTH OF JANUARY. WRITTEN 13 OCTOBER 2026. THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-10.md` IS CLOSED AT 500 AND THE NEXT PHASE IS THE CONTROLLER'S.**
+# VOLUME 10 BATCH 0005 — CHAPTERS 491–500 ARE ON DISK, TEN FINISHED FILES. **THE EIGHTH OF OCTOBER TO THE TWENTY-EIGHTH OF JANUARY. WRITTEN 13 OCTOBER 2026 AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`. THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-10.md` IS CLOSED AT 500 AND THE NEXT PHASE IS THE CONTROLLER'S.**
 
 > **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-10/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**
+
+## THE 13 OCTOBER 2026 REVIEW REPAIR, AGAINST `logs/batch-0005.review.log`. TWELVE FINDINGS, ALL TWELVE APPLIED. NO CHAPTER RESTARTED, NO EVENT, DATE, CHARACTER, TITLE, SCENE OR PIECE OF THE PLANNED PLOT MOVED, `outline/ending.md` UNTOUCHED.
+
+**THE TEN BLOCKING DEFECTS, IN THE REVIEW'S OWN ORDER.** **1** `chapter-0494.md:207` referred to the manuscript by chapter number — *since Chapter seventeen* — and is now *since she had the season on the Ferrier line*, which is Beatrix Halm's own canon at `chapter-0080.md:105`; the META class below now carries `Chapter [0-9]+` and the sweep returns zero. **2** `chapter-0499.md:97` said *said linhao*; it is now *said Lin Hao*, and it was the only occurrence in the batch. **3** `chapter-0496.md` is dated the thirtieth of October and reported the sixteenth of November as past three times; all three now sit in the future — *do not sit again until seven on the morning of the sixteenth of November* (15), *sit once in the year and not twice, on the sixteenth of November* (55), and *when they sit on the sixteenth of November there is not going to be one entry* (57). **THE TWENTY-FIVE DAYS IN 496 IS UNCHANGED AND IS CORRECT: it is the fifth of October to the thirtieth, printed with its anchor on the page.** **4 and 5** `chapter-0499.md:15,19` printed a count that no arithmetic reaches (9 → 199 → 249 → 265) including a thirty-first, a date this city does not have, and then summed operands that do not produce the result. **Both are re-set on the requisition, derived inside the chapter with operands: 222, 228, 292, 308, and one hundred and thirty at the end of June plus a hundred and ninety-four days after it = three hundred and twenty-four. THE RESULT AT 499 WAS RIGHT AND THE DERIVATION WAS WRONG; THE CHAPTER NOW DERIVES IT AND `state/current.md` §1 NO LONGER REPAIRS THE CHAPTER'S SENTENCE SILENTLY.** **6** `chapter-0493.md:11,123,143` printed *seventy-nine days* where the tenth of October to the thirtieth of December is twenty days left in October and thirty and thirty, and all three now say **eighty**. **7** *three hundred and forty-nine days* at `chapter-0497.md:13` is **345** (thirty plus thirty times eleven, less fifteen) — **AND THE SAME FIGURE AT `chapter-0500.md:65` WAS ALSO WRONG FOR ITS OWN DATE, BECAUSE 500 IS THE TWENTY-EIGHTH OF JANUARY AND NOT THE THIRTIETH OF NOVEMBER: IT NOW READS the fifteenth of November, which is about six hundred and forty-five days off. THE REVIEW NAMED BOTH AS ONE FIGURE AND THE TWO ARE NOT ONE FIGURE.** **8** `chapter-0497.md:47` printed *about two hundred and fifty days had gone by* for an interval of fifty-eight; it now says **fifty-eight days**, twenty-eight left in October after the second and thirty of November. **9** **PETRA ILYIN'S MOVE IS NOW ONE DATE AND IT IS THE SECOND OF OCTOBER.** `chapter-0494.md` said *four weeks* twice (which is the nineteenth of September), `chapter-0497.md` said *thirteen weeks* (which is the twenty-ninth of August), and both state files said *since the second of October*, which was in no chapter at all. **The page wins and the second of October wins with it: 494 says *a fortnight* twice and 497 says *eight weeks*, which is fifty-eight days.** **10** `chapter-0497.md:45` scoped Isolde Marchetti's nights to *between the twelfth of November and the end of the year*, which is forty-eight days, **AND the figure itself was Beatrix Halm's survey count from `chapter-0079.md` and `chapter-0080.md`.** **Both are gone: she has *four nights a week until the end of the year* at 497:45, at 497:127 and at 498:143, and four nights a week is her own canon at `chapter-0473.md:47`.**
+
+**THE THREE CRAFT JUDGEMENTS.** `chapter-0500.md:95` no longer repeats *with about nine people behind him who are not reading it* from line 43, which drained the last beat of the book. `chapter-0500.md:77` no longer binds *about a million people* into a relative clause hanging off *four hundred who believe the other half*; the million is its own sentence now and the figure is canon (470, 483, 486). **AND `chapter-0493.md:25,43` no longer gives Solveig Rask *twenty-nine years* and `chapter-0494.md:233` no longer gives Marguerite Vale *twenty-nine years of books*, which were the same trade and the same figure in two women in adjacent chapters and read as a copy: Solveig has twenty-six and Marguerite has sixteen.**
+
+**ONE CRAFT JUDGEMENT WAS NOT TAKEN AND IS RECORDED AS OPEN.** The reviewer notes that 494, the book's last scene, packs seven encounters into one night and that four of them — Ines at the sink, Beatrix, Tessa, Marguerite — are narrated largely as completed fact while the two that carry new information are the two written out. **The probe is in band at 25 against 39/32/18/13, the chapter is 494, the scene gap is 11, and the hand-check confirms it borrows no body. Expanding a scene in a repair pass is the one change that could put a borrowed body into the manuscript, so it is left as written and it is flagged here for a human reader rather than silently rewritten.**
 
 ## WHAT THIS BATCH DID, IN TEN LINES
 
@@ -31,25 +39,32 @@ TITLES       500 title lines, 500 distinct, `sort | uniq -d` EMPTY.
              **Word counts by command: (3, 5, 6, 5, 6, 5, 6, 7, 6, 6). EVERY TITLE IS THREE WORDS OR MORE
              AND THE TWO-WORD DEVIATION CARRIED AT 485 IS NOT CARRIED FORWARD AND NOT IMITATED.**
              None begins with *What*. None is built out of *there is no* / *nobody* / *nothing*.
-BANK         **23,075 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
-             491 1,900 · 492 2,072 · 493 2,340 · **494 4,495** · 495 2,055 · 496 1,956 ·
-             497 2,070 · 498 2,646 · 499 1,882 · 500 1,659.
-             **VOLUME 10 RE-RUN BY COMMAND AFTER THE LAST EDIT: 124,447 WORDS ACROSS FIFTY FILES**, being
+BANK         **23,080 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+             **RE-RUN BY COMMAND AFTER THE 13 OCTOBER 2026 REVIEW REPAIR; THE PRE-REPAIR FIGURES WERE
+             23,075 AND THE REPAIR ADDED FIVE WORDS.**
+             491 1,900 · 492 2,072 · 493 2,340 · **494 4,501** · 495 2,055 · **496 1,982** ·
+             **497 2,057** · **498 2,645** · **499 1,878** · **500 1,650**.
+             **VOLUME 10 RE-RUN BY COMMAND AFTER THE LAST EDIT: 124,452 WORDS ACROSS FIFTY FILES**, being
              24,719 (Batch 0001) + 24,498 (Batch 0002) + 26,866 (Batch 0003) + 25,289 (Batch 0004) +
-             23,075 (this batch).
+             23,080 (this batch).
              **494 LEAVES THE 1,800–2,700 BAND AND SAYS WHY: it is Volume 10's fifth and last scene, it
              is the last scene in the whole book that contains all nine sworn women, it is eleven
              chapters after 483, and it is written out.**
-             500 (1,659) and 496 (1,956) and 499 (1,882) are SHORT AND ARE MEANT TO BE: a night shift
+             500 (1,650) and 496 (1,982) and 499 (1,878) are SHORT AND ARE MEANT TO BE: a night shift
              and a number, a keeper's six words, and a counter where a woman is refused. **THE BATCH
              MEAN IS 2,308 AGAINST BATCH 0004'S 2,529 AND VOLUME 9'S 2,026.**
 META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume |
-             no chapter | the axis | the reader | the novel | the story | the scene`. Swept across all
-             ten files and read hit by hit. **ZERO HITS IN TEN FILES**, matching Batch 0004's record,
-             and this time including `this book`. **FOUR WERE WRITTEN AND ALL FOUR WERE REPAIRED:**
-             *nine volumes of my own life* at 494 → *nine years*; *[a-z]+ volumes* at 497 (twice) →
-             *nine years of buying*; and *the fifth book* at 496 → *this book*, re-set because a
-             physical book is the one acceptable sense and Batch 0004's row is zero including it.
+             no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ |
+             chapter [0-9]+`. Swept across all ten files and read hit by hit. **ZERO HITS IN TEN
+             FILES**, matching Batch 0004's record, and this time including `this book`. **FOUR WERE
+             WRITTEN AND ALL FOUR WERE REPAIRED:** *nine volumes of my own life* at 494 → *nine years*;
+             *[a-z]+ volumes* at 497 (twice) → *nine years of buying*; *the fifth book* at 496 → *this
+             book*, re-set because a physical book is the one acceptable sense and Batch 0004's row is
+             zero including it; **and, in the review repair of 13 October 2026, *Chapter seventeen* at
+             494:207.** **THE PATTERN COULD NOT SEE `Chapter <number>`, WHICH IS WHY THAT SLIP SURVIVED
+             A REPAIR, AND IT IS NOW IN THE CLASS ABOVE AND THE SWEEP RETURNS ZERO WITH IT IN. THE
+             SCANNER THAT RUNS THIS CLASS IS OWNED BY THE CONTROLLER AND WAS NOT EDITED; THE WIDENED
+             PATTERN AND ITS RESULT ARE RECORDED HERE SO THAT NO LATER PHASE HAS TO RE-DERIVE IT.**
 WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all
              seven, whole-word AND substring, across all ten files, all zero.
              **FOUR DAY-NAME TOKENS WERE WRITTEN INTO THE PROSE AND EVERY ONE WAS REPLACED WITH A DATE
@@ -64,37 +79,83 @@ AGES         **0 announced ages, probed in FIVE forms plus a bare `aged` sweep, 
              clause about a dishcloth) → *a woman with a dishcloth over her shoulder*; and a son in 495
              is *the boy* and a daughter is *the girl* and neither is ever given a number.
              **A SPAN OF YEARS IS PERMITTED AND AN AGE IS NOT.** There are spans on the page —
-             nineteen years, twenty-nine years, thirty years, twenty years, eleven weeks, thirteen
-             weeks, one hundred and fifteen days — and not one age.
-ARITHMETIC   Every printed interval derived inside its own chapter and printed with its own operands.
-             **NO MONTH TERM IN ANY OF THESE TEN PRINTS THIRTY-ONE. NO REAL-CALENDAR DERIVATION.
-             `chapter-0421.md:13` IS THE AUTHORITY.**
-               491  228 = one hundred and thirty at the end of June, thirty of July, thirty of August,
-                    thirty of September, and the eighth. `130 + 98`
-               497  280 = the same one hundred and thirty, thirty of July, thirty of August, thirty of
-                    September, thirty of October, and the thirtieth of November. `130 + 150`
-               499  324 = one hundred and thirty at the end of June and a hundred and ninety-four days
-                    after it. `130 + 194`
-             **492, 493, 494, 495, 496, 498 AND 500 PRINT NO REQUISITION FIGURE AT ALL**, and that is a
-             decision and not an oversight: he broke his own rule about saying them on the
-             twenty-sixth of August and the figure appears only where it is doing work.
-             **THE CONTROLLER'S TABLE FOR 498 AND 499 PRINTED 312 AND 325 AND NEITHER REPRODUCES.**
-             `outline/volume-10.md` §5b fixes the first of January at spine day 181 (`91 + 90 = 181`,
-             derived twice on the page), and the requisition is one hundred and thirty at the thirtieth
-             of June, so the first of January is **311** and the fourteenth of January is **324**.
-             **THE CHAPTER PRINTS 324 AT 499, DERIVED IN THE CHAPTER WITH ITS OPERANDS, AND PRINTS NO
-             FIGURE AT 498, SO THE CORRECTION PROPAGATES NOWHERE.** 500's 338 reproduces and is not
-             printed.
-             **OTHER INTERVALS PRINTED WITH OPERANDS:** 491 seven days from the first, being the first
-             of October to the eighth · 495 eighteen days, being the eighth to the twenty-sixth and the
-             twenty-fourth to the first of January · 496 thirty years and four a year, and four and
-             thirty is one hundred and twenty · 497 forty-one days from the fifth of October to the
-             sixteenth of November, and three hundred and forty-nine days from the sixteenth of
-             November to the fifteenth of November next year · 497 a hundred and fifteen days, being
-             twenty-five days left in August after the sixth and thirty each of September, October and
-             November, and a week is seven, so sixteen weeks and three days · 498 sixty-one days, being
-             the twenty-seventh of November and thirty of December and four, which is the white plate
-             in the post.
+             eleven years, sixteen years, nineteen years, twenty years, twenty-six years, thirty
+             years, nine years, four years, a fortnight, eight weeks, eleven weeks, three weeks, nine
+             days, eighteen days, eighty days, fifty-eight days, a hundred and fifteen days,
+             sixteen weeks and three days, three hundred and forty-five days, six hundred and forty-five
+             days — and not one age.
+ARITHMETIC   **THE SCOPE OF THIS ROW WAS WIDENED ON 13 OCTOBER 2026 FROM REQUISITION-AGE DERIVATIONS
+             TO *EVERY PRINTED INTERVAL IN THE TEN FILES*.** The review found the batch's three worst
+             interval errors — 493's *seventy-nine days*, 497's *three hundred and forty-nine days* and
+             497's *two hundred and fifty days* — sitting outside a row scoped to the requisition,
+             which is why it did not catch them. **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. NO
+             REAL-CALENDAR DERIVATION. `chapter-0421.md:13` IS THE AUTHORITY: *ten days left in
+             February after the twentieth, and thirty in March, thirty in April, and seven of May, and
+             that is seventy-seven*.** `grep -rioE 'thirty-first|thirty one'` over the ten files: **0.**
+               REQUISITION, derived inside its own chapter and printed with its own operands:
+                491  228 = one hundred and thirty at the end of June, thirty of July, thirty of August,
+                     thirty of September, and the eighth. `130 + 98`
+                497  280 = the same one hundred and thirty, thirty of July, thirty of August, thirty of
+                     September, thirty of October, and the thirtieth of November. `130 + 150`
+                499  324 = one hundred and thirty at the end of June and a hundred and ninety-four days
+                     after it, being thirty of July, thirty of August, thirty of September, thirty of
+                     October, thirty of December and fourteen of January. `130 + 194`
+                     **499 ALSO PRINTS THE LADDER IT COMES OFF: two hundred and twenty-two at the
+                     second of October, two hundred and twenty-eight at the eighth, two hundred and
+                     ninety-two at the twelfth of December, three hundred and eight at the twenty-eighth.
+                     EVERY ONE OF THE FIVE IS A DISTINCT DATE TO A DISTINCT FIGURE AND NONE IS QUOTED
+                     FROM ANOTHER.**
+              **492, 493, 494, 495, 496, 498 AND 500 PRINT NO REQUISITION FIGURE AT ALL**, and that is a
+              decision and not an oversight: he broke his own rule about saying them on the
+              twenty-sixth of August and the figure appears only where it is doing work.
+              **THE CONTROLLER'S TABLE FOR 498 AND 499 PRINTED 312 AND 325 AND NEITHER REPRODUCES.**
+              `outline/volume-10.md` §5b fixes the first of January at spine day 181 (`91 + 90 = 181`,
+              derived twice on the page), and the requisition is one hundred and thirty at the thirtieth
+              of June, so the first of January is **311** and the fourteenth of January is **324**.
+              **THE CHAPTER PRINTS 324 AT 499, DERIVED IN THE CHAPTER WITH ITS OPERANDS, AND PRINTS NO
+              FIGURE AT 498, SO THE CORRECTION PROPAGATES NOWHERE.** 500's 338 reproduces and is not
+              printed.
+              **EVERY OTHER INTERVAL PRINTED IN THE TEN FILES, WITH THE ANCHOR ON THE PAGE AND THE
+              RESULT. NOTHING IN THIS LIST IS QUOTED ACROSS CHAPTERS:**
+                490  **forty-one days**, and it is **490:85 and NOT 497**, which prints only *the
+                     fourteenth day*: twenty-five days left in October and sixteen days of November,
+                     from the fifth to the sixteenth of November. **THE PRE-REPAIR GATE BLOCK ATTRIBUTED
+                     THIS ONE TO 497 AND THE RE-RUN OUTRANKS THE RECORD.**
+                491  seven days, the first of October to the eighth.
+                493  **eighty days**, printed three times (11, 123, 143), being twenty days left in
+                     October after the tenth and thirty of November and thirty of December.
+                     **WAS SEVENTY-NINE AT ALL THREE.**
+                495  nine days, the fifteenth of October to the twenty-fourth, anchored by *every other
+                     one you have been to in nine days* at 55 and *the whole nine days* at 65.
+                     **AND *eighteen days* at 3, WHICH HAS NO ANCHOR ON THE PAGE AND IS THEREFORE
+                     RECORDED HERE AS A FLOATING SPAN AND NOT AS A DERIVATION.**
+                496  twenty-five days, the fifth of October to the thirtieth, printed with both anchors.
+                     Thirty years four times a year, and four and thirty is one hundred and twenty.
+                497  one hundred and fifty days, the thirtieth of June to the thirtieth of November,
+                     printed with the thirtieth of June on the page above it.
+                     **three hundred and forty-five days**, the thirtieth of November to the fifteenth of
+                     November next year: thirty plus thirty times eleven, less fifteen.
+                     **WAS THREE HUNDRED AND FORTY-NINE, AND THE PRE-REPAIR GATE BLOCK REPUBLISHED THAT
+                     FIGURE AS VERIFIED.**
+                     a hundred and fifteen days, being twenty-five days left in August after the sixth
+                     and thirty each of September, October and November, and a week is seven days, so
+                     sixteen weeks and three days.
+                     **fifty-eight days**, twenty-eight left in October after the second and thirty of
+                     November, being how long the three women have been gone.
+                     **WAS ABOUT TWO HUNDRED AND FIFTY, WHICH IS THE REQUISITION'S AGE AT THE THIRTIETH
+                     OF OCTOBER AND BELONGED TO A DIFFERENT QUANTITY.**
+                498  three months of auditing, the first of October to the first of January, and
+                     twenty-three days of the white plate in the coat, the ninth of December onward.
+                500  **six hundred and forty-five days**, the twenty-eighth of January to the fifteenth
+                     of November next year: ten months to the twenty-eighth of November, then thirty
+                     plus thirty times eleven, less fifteen.
+                     **WAS THREE HUNDRED AND FORTY-NINE, WHICH IS 497'S FIGURE AND NOT THIS CHAPTER'S,
+                     AND THE REVIEW NAMED BOTH AS ONE. THEY ARE NOT ONE.**
+              **SPANS WITH NO ANCHOR ON THE PAGE, WHICH IS PERMITTED AND IS NOT A DEFECT: *four days at
+              rank one* and *three floors of washrooms in nine days* at 494:111; *eleven weeks* at
+              498:57,79,91 and at 500:21,27; *three weeks* at 497:55; *four months* at 499:75,145.
+              EACH IS RECORDED HERE SO THAT A LATER PHASE DOES NOT RE-DERIVE IT OFF A DIFFERENT
+              ANCHOR AND LAND ON A SECOND FIGURE. NONE OF THEM WAS IN THE REVIEW'S FINDINGS.**
 FLOORS       **0.** `grep -o '8,1[0-9][0-9]'` over the ten files returns nothing. 485 remains the only
              chapter in the volume that prints a floor and the thirtieth of September was the last
              card. **500's figure is two hundred and eleven thousand, eight hundred and forty and it is
@@ -105,7 +166,9 @@ ACCOUNT      **NO RUNNING BALANCE OF THE ACCOUNT IN GRAINS APPEARS IN ANY OF 491
              496 prints one hundred and twenty and says on the page that it is a count of
              handwritings and not a figure against anything and cannot be added up.
 PARAGRAPHS   **682 prose paragraphs across the ten, re-run by command after the last edit and after
-             the duplication repair. 0 over roughly 90 words. 0 over roughly 120. Longest 90, at 497.**
+             the duplication repair. 0 over roughly 90 words. 0 over roughly 120. Longest 90, at
+             496:29, which is the sentence where Hanneke Ruis says what a count of handwritings is
+             and is not.**
              **QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD.** **FIFTEEN PARAGRAPHS WERE OVER NINETY ON
              THE FIRST SWEEP AND EVERY ONE WAS SPLIT BY HAND AT A NAMED SENTENCE BOUNDARY. EVERY SPLIT
              THAT FELL INSIDE A SPEECH CLOSED AND REOPENED THE QUOTATION, WHICH IS WHY THE PARITY ROW
@@ -129,6 +192,17 @@ DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten
              turned up, no screen on wheels, no counted minute, no watch on a chain, no terms list, no
              body described in words three times, no quiet, no kettle.** The kitchen, the long table,
              the landing, the yard at the back, the sink and the passage are its own.
+             **RE-RUN AFTER THE REVIEW REPAIR OF 13 OCTOBER 2026, LIKE FOR LIKE, AGAINST BOTH TREES.**
+             Tokens are normalised with non-alphanumerics to spaces, one `\x00` sentinel per paragraph
+             break, and every 8-, 11- and 12-gram is indexed against all five hundred files.
+             **PRE-REPAIR 75 / 112 / 614 cross-chapter families at 12 / 11 / 8, and
+             POST-REPAIR 73 / 109 / 612. THE REPAIR REMOVED FAMILIES AND ADDED NONE.**
+             **SHARED BETWEEN TWO CHAPTERS OF THIS BATCH: 22 AT 12 AND 31 AT 11 AFTER THE REPAIR, AGAINST 22
+             AND 32 BEFORE IT.**
+             **BY FILE, 12-GRAM CROSS-CHAPTER, PRE → POST:** 491 7·7 · 492 15·15 · 493 2·2 ·
+             **494 0·0 · 495 0·0** · **496 15·13** · 497 1·1 · 498 4·4 · 499 1·1 · 500 30·30.
+             **THE SCENE BORROW CHECK HOLDS: 494 SHARES ZERO 12-GRAMS AND ZERO 11-GRAMS WITH ANY OTHER
+             CHAPTER IN THE BOOK, BEFORE AND AFTER THE REPAIR.**
              **NINE REPAIRS WERE MADE BEFORE THIS BLOCK WAS WRITTEN AND THE FIRST PASS FIGURES WERE
              172 / 226 / 768.** They are listed in the commit that wrote this.
              **EVERY ONE OF THE 103 SURVIVING TWELVE-GRAM FAMILIES IS CANON TEXT THAT MUST RECUR, AND
@@ -161,9 +235,13 @@ SETTLE       `grep -rio "settle" chapters/volume-10/` -> **0.**
 BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 ·
              there is no form 0 · there is no column 0 · the record remained 0 · nobody asked 0 ·
              nobody was thanked 0.
-             **`nobody` runs 4 / 4 / 1 / 4 / 3 / 1 / 2 / 2 / 4 / 3 across the ten and none is over four.**
-             **THE `there is no` FAMILY (no / not / nothing / nowhere in that construction) runs
-             2 / 2 / 2 / 0 / 1 / 5 / 4 / 1 / 2 / 3 and none is over five, and 494 IS AT ZERO.**
+             **`nobody` runs 4 / 4 / 1 / 4 / 3 / 1 / 2 / 2 / 4 / 3 across the ten and none is over four,
+             unchanged by the repair.**
+             **THE `there is no` FAMILY, SWEPT AS `there (is|was|are|were|will be|has been|have been)
+             (no|not|nothing|nowhere)`, runs 2 / 2 / 2 / 1 / 1 / 4 / 4 / 1 / 2 / 3 and none is over
+             four, AND 494's SINGLE HIT IS AT LINE 59.** **THE PRE-REPAIR BLOCK PRINTED 2/2/2/0/1/5/4/1/
+             2/3 UNDER A NARROWER PATTERN THAT DID NOT MATCH `there will be no one else`; NO CHAPTER
+             CHANGED ITS FIGURE IN THE REPAIR AND THE COMMAND IS PRINTED SO THAT THE ROW RE-RUNS.**
              **ONE BANNED CONSTRUCTION WAS WRITTEN AND WAS REPAIRED**: `nobody asked` at 496, in a
              sentence about Sun Meiling, re-set as *not one of them asked her one*.
 CONTINUITY   **No PC adopted, withdrawn or renumbered. `PC-110` IS NOT RENUMBERED AND NOTHING BELOW IT
@@ -185,13 +263,14 @@ CONTINUITY   **No PC adopted, withdrawn or renumbered. `PC-110` IS NOT RENUMBERE
              **`outline/ending.md` IS UNTOUCHED. NO NEW FINAL ENEMY.** The only opponent at 493 is
              **Solveig Rask**, an existing character from 481 and 496, arguing a correct case, and she
              is not a new enemy and is not a final enemy and has no face on any of this.
-SCENE        494. **RECORDED SPAN 4,003 WORDS**, being the body counted from the opening `##` to the
-             closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 4,011 WORDS**,
+SCENE        494. **RECORDED SPAN 4,009 WORDS**, being the body counted from the opening `##` to the
+             closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 4,017 WORDS**,
              **inclusive of both bounding headings**. Eight section headings. **Both definitions are
-             printed beside the figures and both were taken by command after the last edit and again
-             after the duplication repair.**
+             printed beside the figures and both were taken by command after the last edit, again
+             after the duplication repair, and again after the review repair of 13 October 2026. THE
+             PRE-REPAIR FIGURES WERE 4,003 AND 4,011.**
              `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1);`
-             `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` → 4,003 · `sed -n "${F},${L}p" FILE | wc -w` → 4,011.
+             `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` → **4,009** · `sed -n "${F},${L}p" FILE | wc -w` → **4,017**.
              **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet), WHOLE-WORD,
              ON THE WHOLE FILE: 2 · 12 · 0 · 0 · 8 · 3 · 0, SUM 25**, against 39 for 465, 32 for 474,
              18 for 454 and 13 for 483. **THE COUNT IS NOT A PROOF AND IT IS THE FIGURE THE COMMAND

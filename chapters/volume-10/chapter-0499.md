@@ -12,11 +12,11 @@ He kept it in the coat with the white plate.
 
 ## Two Hundred And Eighty, And Then
 
-"The second of October was the ninth day," said Beatrix Halm. "The thirty-first was the hundred and ninety-ninth. I have been counting on the wall every morning since the eighth of October and I have got the twelfth of December at two hundred and forty-nine, which is the number you gave Adeyemi in the room in September, and the twenty-eighth of December at two hundred and sixty-five."
+"The second of October was two hundred and twenty-two," said Beatrix Halm. "I have been counting on the wall every morning since the eighth, when it was two hundred and twenty-eight, and I have got the thirtieth of November at two hundred and eighty, the twelfth of December at two hundred and ninety-two, and the twenty-eighth of December at three hundred and eight."
 
 "And today."
 
-"Fourteen days of January on top of a hundred and ninety-four, and one hundred and thirty at the end of June on top of that," said Beatrix Halm. "That is three hundred and twenty-four, and it has gone up one a day since the eighth of October without a single person administering it."
+"One hundred and thirty at the end of June, and a hundred and ninety-four days after it, and it is the fourteenth of January," said Beatrix Halm. "That is three hundred and twenty-four, and it has gone up one a day since the eighth of October without a single person administering it."
 
 "Nobody is administering it."
 
@@ -94,7 +94,7 @@ Then he said it.
 
 "Go on."
 
-"It is true," said Linhao. "That is the whole trouble with it. It is the truest thing on that wall, and it is the least useful thing on that wall, and it is about you, and it cannot be produced at a counter."
+"It is true," said Lin Hao. "That is the whole trouble with it. It is the truest thing on that wall, and it is the least useful thing on that wall, and it is about you, and it cannot be produced at a counter."
 
 ## Nine Seconds Over A Page
 

@@ -10,7 +10,7 @@ Thirty of July, thirty of August, thirty of September, thirty of October, and th
 
 "It is the fourteenth day."
 
-"It is the fourteenth day, and in about three hundred and forty-nine days it will be the fifteenth of November again and they will meet at seven, and they will not move, and that is the whole of the engagement you have with them for another year."
+"It is the fourteenth day, and in about three hundred and forty-five days it will be the fifteenth of November again and they will meet at seven, and they will not move, and that is the whole of the engagement you have with them for another year."
 
 Adeyemi said it on the step, because he had come up the hill on foot in the rain and was not going into a kitchen for it.
 
@@ -38,13 +38,13 @@ Ines Duarte had read the roll of the household on the twenty-fourth of November,
 
 ## Where The Three Of Them Are
 
-Petra Ilyin was in the room over the laundry off Cordwain and had been for thirteen weeks, and had put a second table in the front room in the middle of November because there is a woman in there now who teaches at two evenings and has to sit somewhere that is not a kitchen.
+Petra Ilyin was in the room over the laundry off Cordwain and had been for eight weeks, and had put a second table in the front room in the middle of November because there is a woman in there now who teaches at two evenings and has to sit somewhere that is not a kitchen.
 
 Nadia Ferrous was at the bottom of a shaft in a building off a third court on four nights out of seven and had been since the eleventh of October, and had asked for the fifth night in the middle of November and had been refused by a man who keeps a rota and who said no without any particular feeling about it, and had asked again four days later and been given it, and had told nobody either request.
 
-Isolde Marchetti had had a bed in the passage at Ferrier Street from the second of October to the eleventh, and had had two rooms above the Bellhouse stage since the eleventh, and had four hundred and eleven nights of work in front of her between the twelfth of November and the end of the year, and on the thirtieth of November she did not sing.
+Isolde Marchetti had had a bed in the passage at Ferrier Street from the second of October to the eleventh, and had had two rooms above the Bellhouse stage since the eleventh, and had four nights a week in front of her until the end of the year, and on the thirtieth of November she did not sing.
 
-Three women out of a house of nine, and none of the three had said why, and about two hundred and fifty days had gone by.
+Three women out of a house of nine, and none of the three had said why, and fifty-eight days had gone by.
 
 ## The Other Six
 
@@ -124,4 +124,4 @@ Then neither of them said anything else about it, and there has not been a word 
 
 She put the cloth down.
 
-"She has four hundred and eleven nights before the end of the year," said Nadia Ferrous, "and you have one shift on the first of January, and I am on it, and the two of them are on it, and a man who keeps a rota wrote all three of our names on a page in his own hand because we asked him to, in front of him, and the fourth line is going to be empty in December the way it has been empty in December for nineteen years."
+"She is four nights a week until the end of the year," said Nadia Ferrous, "and you have one shift on the first of January, and I am on it, and the two of them are on it, and a man who keeps a rota wrote all three of our names on a page in his own hand because we asked him to, in front of him, and the fourth line is going to be empty in December the way it has been empty in December for nineteen years."

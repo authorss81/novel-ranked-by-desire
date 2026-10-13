@@ -62,7 +62,7 @@ That is the sentence. There is not one instrument in this city that could have t
 
 He read the figure a fourth time.
 
-It is not going to be zero. Nothing will take it and nothing will close it, because the books that would take it met at seven on the morning of the sixteenth of November and did not move, and they open once in the year and not twice, and the next time they meet is about three hundred and forty-nine days off.
+It is not going to be zero. Nothing will take it and nothing will close it, because the books that would take it met at seven on the morning of the sixteenth of November and did not move, and they open once in the year and not twice, and they will not meet again until the fifteenth of November, which is about six hundred and forty-five days off.
 
 And on the thirtieth of March a woman two floors under a sales floor will write six words under her own name in a chained book, as she has four times a year for thirty years, and the six of them will say that it is still going and is not shut and has nobody's name on it, and that will be true, and nothing else in this city is going to say anything at all about it.
 
@@ -74,7 +74,7 @@ It is not a fund. It cannot be drawn against, it cannot be allocated, it cannot 
 
 It is not a floor. He has got no floor under him and has not had one since the first of October, and this figure is not one and is not going to become one, and it is the first figure in this city in four years that has stood against nothing at all and has stayed.
 
-It belongs to nobody. That is the entire sentence about it and it has been the entire sentence about it since the second of July, and there are nine thousand people who believe one half of it and four hundred who believe the other half and about a million people in this city standing still in a street on four particular days who were handed something and cannot produce a receipt for it and cannot produce anything else either.
+It belongs to nobody. That is the entire sentence about it and it has been the entire sentence about it since the second of July, and there are nine thousand people who believe one half of it and four hundred who believe the other half. About a million people in this city stood still in a street on four particular days, were handed something, and cannot produce a receipt for it or anything else either.
 
 ## Not Zero
 
@@ -92,4 +92,4 @@ And a number.
 
 He walked back down the hill at a quarter to five with a page in his hand and put his key in the door and started his shift.
 
-The number was not zero, and nothing in this city can make it be anything else, and it is going to be there on the thirtieth of March in a woman's handwriting under her own name. He is going to read it in about two months from a bench in a corridor off a third court, with about nine people behind him who are not reading it.
+The number was not zero, and nothing in this city can make it be anything else, and it is going to be there on the thirtieth of March in a woman's handwriting under her own name. He is going to read it in about two months from a bench in a corridor off a third court.

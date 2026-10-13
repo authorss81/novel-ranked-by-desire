@@ -140,7 +140,7 @@ Petra Ilyin came in at about ten past three and stood in the corridor for about 
 
 Isolde Marchetti came in at about half past three, forty minutes before she had to be anywhere, and stood at the counter.
 
-"I have four hundred and eleven nights and I have taken two of them," she said, "and the man who keeps the rota wrote my name down in front of me and did not ask me a single question about why, and that is the correct arrangement and I want it observed that I said so."
+"I have four nights a week and I have taken two of them," she said, "and the man who keeps the rota wrote my name down in front of me and did not ask me a single question about why, and that is the correct arrangement and I want it observed that I said so."
 
 "You do not have to work here."
 

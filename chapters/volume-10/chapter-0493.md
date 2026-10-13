@@ -8,7 +8,7 @@ The room was off a third court and it held about ninety people on the morning of
 
 "Can you do anything in here."
 
-"No," said Yusuf Adeyemi. "I cannot grant your petition and I cannot refuse it. There is no disposition this room can reach on a matter of this kind until the thirtieth of December, and if it reaches one then, it is seventy-nine days off and you may have stopped caring by the fourteenth."
+"No," said Yusuf Adeyemi. "I cannot grant your petition and I cannot refuse it. There is no disposition this room can reach on a matter of this kind until the thirtieth of December, and if it reaches one then, it is eighty days off and you may have stopped caring by the fourteenth."
 
 "Then why are we here."
 
@@ -22,7 +22,7 @@ He looked round at about ninety people.
 
 About sixty of the ninety had come from Cordwain on foot and had been standing in the corridor before the doors were opened.
 
-The first of them was Solveig Rask, who is a keeper of the Vant's real books and who has been in that trade for twenty-nine years and who has never once in her life spoken in a room like this one.
+The first of them was Solveig Rask, who is a keeper of the Vant's real books and who has been in that trade for twenty-six years and who has never once in her life spoken in a room like this one.
 
 "No," she said. "That is my petition and I will say it in about nine minutes and you will not like any part of it."
 
@@ -40,7 +40,7 @@ She put a hand flat on the bench.
 
 "And I keep books."
 
-"You keep books," said Solveig Rask. "Twenty-nine years of them, and every one of them in the hand of the person who carries the debt, and not one page of any of them that a court can take off you and read. And I will tell a room exactly what an unaccountable thing is, because it is my whole trade."
+"You keep books," said Solveig Rask. "Twenty-six years of them, and every one of them in the hand of the person who carries the debt, and not one page of any of them that a court can take off you and read. And I will tell a room exactly what an unaccountable thing is, because it is my whole trade."
 
 She turned round and looked at the corridor.
 
@@ -120,7 +120,7 @@ He turned round and looked at the clerk.
 
 "Ask me on the thirtieth of December," said Lin Hao. "There will be a sitting that can carry an answer and I will give it there, in public, in full, and I will not soften one word of it, and I have told this room the date so that whoever wants to hear it can write it down."
 
-Somebody at the back called out that the thirtieth of December was a long way off. He said that it was seventy-nine days and that he had had the answer since the second of July and that he had been carrying it down a hill in his own hand since then.
+Somebody at the back called out that the thirtieth of December was a long way off. He said that it was eighty days and that he had had the answer since the second of July and that he had been carrying it down a hill in his own hand since then.
 
 ## What The Clerk Entered
 
@@ -140,7 +140,7 @@ Then he said it out loud to Yusuf Adeyemi in a corridor with nothing in it, whic
 
 "I do it every time," said Lin Hao. "It is the corridor."
 
-"Not the corridor," said Yusuf Adeyemi. "Listen to what is on that sheet and say it back to me. The Bureau of Merit in this city is alive this afternoon because a man with no standing asked a room of ninety people to keep it, and in about seventy-nine days there is a sitting that can strike it, and every person in that corridor will be told by somebody that the man who asked was the man who emptied the pot."
+"Not the corridor," said Yusuf Adeyemi. "Listen to what is on that sheet and say it back to me. The Bureau of Merit in this city is alive this afternoon because a man with no standing asked a room of ninety people to keep it, and in about eighty days there is a sitting that can strike it, and every person in that corridor will be told by somebody that the man who asked was the man who emptied the pot."
 
 "Yes."
 

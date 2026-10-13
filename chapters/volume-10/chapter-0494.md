@@ -90,7 +90,7 @@ She put her hand on the back of the last chair in the room, which is a chair at 
 
 Petra Ilyin was eighth.
 
-"There is a room over a laundry off Cordwain," she said. "Two rooms, and a landing, and it is mine, and I have been in it four weeks, and I pay for it out of what I am paid, and not one other person has put anything into it, and I am not going to let anybody else put anything into it."
+"There is a room over a laundry off Cordwain," she said. "Two rooms, and a landing, and it is mine, and I have been in it a fortnight, and I pay for it out of what I am paid, and not one other person has put anything into it, and I am not going to let anybody else put anything into it."
 
 She put her hands on the table and they were not working, and they had not been working properly since the fourteenth of August, and she left them there.
 
@@ -104,7 +104,7 @@ He went out of the kitchen and up the first flight because the kitchen only has 
 
 She did not ask him anything and she did not say one word about the eighth thing she had said downstairs.
 
-"Four weeks," she said. "Two rooms. It is colder than this house by about four degrees and it is the only place in this city I have ever paid to be in."
+"A fortnight," she said. "Two rooms. It is colder than this house by about four degrees and it is the only place in this city I have ever paid to be in."
 
 She put her hands flat on his chest, and they were not working, and she put them there anyway, and she found the place where the cough lives in about two seconds because she has known where it lives since the second of July.
 
@@ -204,7 +204,7 @@ She went back to the sink.
 
 He came back into the kitchen at about eleven and the nine of them were at the table, and there was an hour of that after, which was not an hour he counted and did not try to count, because it was the longest night of his life and every attempt he made afterwards to put a figure on it came out different.
 
-Beatrix Halm got up off the step first and came in and put herself against the end of the table where his coat was and did not ask for anything and got what she wanted by being the coldest person in a warm room, which she has been able to do on a tram since Chapter seventeen and which nobody in this house has ever got used to.
+Beatrix Halm got up off the step first and came in and put herself against the end of the table where his coat was and did not ask for anything and got what she wanted by being the coldest person in a warm room, which she has been able to do on a tram since she had the season on the Ferrier line, and which nobody in this house has ever got used to.
 
 She was quick and she was not tender and she is deaf in one ear, so she kept her good side turned to him the whole time and talked straight into it, and about four minutes in she stopped talking altogether and made a noise she plainly had not planned to make, and put her hand flat on the back of his neck and left it there.
 
@@ -230,7 +230,7 @@ Marguerite Vale was at the head of the table the whole night with her hands fold
 
 Then she sat down again.
 
-"Twenty-nine years of books," she said. "That is my one comment and I am not answering anybody about it."
+"Sixteen years of books," she said. "That is my one comment and I am not answering anybody about it."
 
 Nadia came back in from the yard at about midnight with her coat over her arm and got hold of him from behind in the passage and did not say a word for about nine minutes, and the stairs are narrow and the passage is narrower and he had the cold from the yard on the back of his neck for the whole of it, and neither of them minded.
 
