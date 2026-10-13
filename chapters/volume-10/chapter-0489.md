@@ -28,7 +28,7 @@ At about a quarter past nine he was at the north end of the ranks wall and there
 
 ## The Counter Off Cordwain
 
-Ines Duarte was on the counter at Cordwain on the third day, in the ordinary way, and at about eleven o'clock a man of about fifty came up with his hat in his hands and no paper at all.
+Ines Duarte was on the counter at Cordwain on the fourth day, in the ordinary way, and at about eleven o'clock a man of about fifty came up with his hat in his hands and no paper at all.
 
 He stood there for about eleven seconds.
 
@@ -54,7 +54,7 @@ It cannot be entered.
 
 ## The Yard Off Cordwain
 
-Agnete Lindqvist had held the yard from nine until about two in the afternoon and had let about four hundred people stand in it with nothing to do, and had fed them, and had not once said anything about the wall.
+Agnete Lindqvist had held the yard from nine until about two in the afternoon and had let four hundred people stand in it with nothing to do, and had fed them, and had not once said anything about the wall.
 
 "The Church's position is on the record and it is the same position it was on the twenty-ninth of July," she said. "It cannot be given back because there is no list of what it is made of. That is true today and it was true on the first and it will be true in January, and I have said it to four hundred people three days running and I will go on saying it."
 
@@ -82,7 +82,7 @@ It said this:
 
 And under that, in the clerk's own hand, because a clerk enters what she is given and cannot improve it:
 
-*amended the same day, the same page, no appeal, the file of the twentieth of February, the file bearing the name it bears, removed permanently; the standing sheet and the requisition of the twentieth of February are both there at the head of every line and neither of them can be administered against that address on the morning of the fifth of October.*
+*amended the same day, the same page, no appeal, the file of the ninth of March, the file bearing the name it bears, removed permanently; the standing sheet and the requisition of the twentieth of February are both there at the head of every line and neither of them can be administered against that address on the morning of the fifth of October.*
 
 "That last part," said Yusuf Adeyemi, reading it over his shoulder at about ten past five. "That is Ferreira's hand and not the clerk's, and she wrote it into a sheet that goes to seven desks, and there is not one instrument in this city that can stop a document going out at four o'clock."
 

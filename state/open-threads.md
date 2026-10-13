@@ -33,19 +33,24 @@ TITLES       490 title lines, 490 distinct, `sort | uniq -d` EMPTY.
              AS THE CONTROLLER'S BANK GIVES IT, WHICH IS WHAT THE PROMPT INSTRUCTS. THE DEVIATION IS
              RECORDED HERE RATHER THAN SILENTLY FIXED, BECAUSE CHANGING A PRINTED TITLE MEANS RE-RUNNING
              THE BANK IN THE SAME COMMIT AND THE CONTROLLER SAID PRINT EXACTLY.**
+             **REVIEWED 13 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` FINDING 17 AND THE TITLE STAYS AS
+             PRINTED. IT IS THE ONE KNOWN DEVIATION IN VOLUME 10 AND IT IS A CLOSED ONE: 491–500 MAY NOT CARRY IT
+             FORWARD, MAY NOT IMITATE IT, AND MAY NOT PRINT A TITLE UNDER THREE WORDS.**
              None begins with *What*. None is built out of *there is no* / *nobody* / *nothing*.
-BANK         **25,239 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
-             481 1,935 · 482 2,285 · **483 4,581** · 484 2,340 · **485 1,604** · **486 5,187** ·
-             487 1,848 · 488 1,745 · 489 1,958 · 490 1,756.
-             **VOLUME 10 RE-RUN BY COMMAND AFTER THE LAST EDIT: 101,322 WORDS ACROSS FORTY FILES**,
+BANK         **25,289 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+             **RE-RUN BY COMMAND AFTER THE REVIEW REPAIR OF 13 OCTOBER 2026; THE PRE-REPAIR FIGURES
+             WERE 25,239 AND THE REPAIR ADDED 50.**
+             481 1,942 · 482 2,285 · **483 4,606** · 484 2,361 · **485 1,619** · **486 5,175** ·
+             487 1,847 · 488 1,741 · 489 1,957 · 490 1,756.
+             **VOLUME 10 RE-RUN BY COMMAND AFTER THE LAST EDIT: 101,372 WORDS ACROSS FORTY FILES**,
              being 24,719 (Batch 0001) + 24,498 (Batch 0002) + 26,866 (Batch 0003, after its repair)
-             + 25,239 (this batch).
+             + 25,289 (this batch, after its repair).
              **483 AND 486 LEAVE THE 1,800–2,700 BAND AND BOTH SAY WHY: 483 is Volume 10's fourth scene,
              it is the chapter the movement turns on, it is nine chapters after 474, and it is written
              out. 486 is the volume's climax and it may be as long as it needs to be.**
-             485 (1,604), 487 (1,848), 488 (1,745) and 490 (1,756) are SHORT AND ARE MEANT TO BE: a
+             485 (1,619), 487 (1,847), 488 (1,741) and 490 (1,756) are SHORT AND ARE MEANT TO BE: a
              painted card read in silence, a day in the city, two people at a counter, and the morning
-             after. **THE BATCH MEAN IS 2,524 AGAINST VOLUME 9'S 2,026 AND BATCH 0003'S 2,687.**
+             after. **THE BATCH MEAN IS 2,529 AGAINST VOLUME 9'S 2,026 AND BATCH 0003'S 2,687.**
 META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume |
              no chapter | the axis | the reader | the novel | the story | the scene`. Swept across all
              ten files and read hit by hit. **ZERO HITS IN TEN FILES**, and this is the first Volume 10
@@ -104,8 +109,9 @@ ACCOUNT      **NO RUNNING BALANCE OF THE ACCOUNT IN GRAINS APPEARS IN ANY OF 481
              hundred thousand grains went out of it.*** **490 PRINTS NO FIGURE AT ALL AND SAYS SO: what
              is empty at the wall on the fifth of October is him, and the chapter does not say the
              account is anything.**
-PARAGRAPHS   **700 prose paragraphs across the ten, re-run by command after the last edit. 0 over roughly 90 words.
-             0 over roughly 120. Longest 90. QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech
+PARAGRAPHS   **702 prose paragraphs across the ten, re-run by command after the last edit and again after
+             the review repair of 13 October. 0 over roughly 90 words. 0 over roughly 120. Longest 90.
+             QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech
              runs across a break. **FIFTY-TWO PARAGRAPHS WERE OVER NINETY ON THE FIRST SWEEP AND SIX
              WERE OVER ONE HUNDRED, THE LONGEST AT 153, AND EVERY ONE WAS SPLIT BY HAND AT A NAMED
              SENTENCE BOUNDARY. EVERY SPLIT THAT FELL INSIDE A SPEECH CLOSED AND REOPENED THE
@@ -161,6 +167,20 @@ BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · lit
              AN ACCIDENT: 490 was written with twelve and fifteen and both were cut.**
              **THE `there is no` FAMILY (no / not / nothing / nobody / nowhere) runs 5 / 4 / 5 / 5 / 3 /
              4 / 4 / 3 / 3 / 0** across the ten and none is over five.
+             **REPAIR      THE REVIEW REPAIR OF 13 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — SEVENTEEN
+             FINDINGS, SIXTEEN FIXED IN PROSE, ONE CLOSED BY VERIFICATION AGAINST 0400:29 AND 0391:123, AND ONE
+             RECORDED WITH ITS REASON (`The Card`, TWO WORDS, LEFT AS THE CONTROLLER'S BANK PRINTS IT).**
+             CUT FOURTEEN HEDGES AND LEFT EVERY FIGURE ABOVE RE-RUN BY COMMAND: `about four seconds` 11 -> 6 ·
+             `about four hundred` 9 -> 7 · `eleven seconds` 6 -> 3 · `nine feet` 15 -> 14 · `about`
+             483 53 -> 49, 486 47 -> 44, 487 34 -> 33, 489 28 -> 27. NO TIMESTAMP CARRYING A DATE WAS TOUCHED
+             AND THE DOCUMENTARY REGISTER IS UNCHANGED IN KIND. THE DRY COUNTS RE-RUN AND HOLD: `8,1[34][0-9]`
+             RETURNS 2 AND BOTH ARE ON 485:27 · `1.4 million` RETURNS 1 AND IT IS AT 486 · `Lin Wei` RETURNS 3
+             IN VOLUME 10 AND NONE OF THE THREE IS IN 481–490 EXCEPT THE ONE READ AT 486.
+             **FOUR CONTINUITY FIGURES WERE WRONG AND ARE NOW FIXED, AND 491–500 INHERITS THE FIXED ONES:
+             THREE WOMEN DREW AGAINST THE POT ON THE FOURTEENTH OF AUGUST AND NOT NINE; THE SHEET CARRIES EIGHT
+             NAMES AND NOT NINE; EIGHT OF THE HOUSEHOLD ARE AT THE WALL ON THE FIRST AND AGNETE LINDQVIST IS
+             NOT; AND THE FILE WAS OPENED ON THE NINTH OF MARCH WHILE THE TWENTIETH OF FEBRUARY IS THE
+             REQUISITION.**
 CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds: Dagmar Oyelowo appears at 488, is
              given no gift of any kind, and 488 IS NOT A SCENE AND MAY NEVER BE WRITTEN AS ONE.
              `PC-102` is INHERITED AND IS NOT UNDONE: the moment any person keeping premises 34-6-118
@@ -174,12 +194,13 @@ CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds: Dagmar Oyelo
              **FIVE NEW PCs ARE PROPOSED IN THE SAME COMMIT THAT WROTE THE CHAPTERS THAT CARRY THEM, AS
              `PC-107` TO `PC-110`, and `PC-106` IS NOT RENUMBERED AND NOTHING BELOW IT MOVED.**
              `outline/ending.md` IS UNTOUCHED. **NO NEW FINAL ENEMY.**
-SCENE        483. **RECORDED SPAN 3,668 WORDS**, being the body counted from the opening `##` to the
-             closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 3,678 WORDS**,
-             **inclusive of both bounding headings**. Eight section headings. **Both definitions are
-             printed beside the figures and both were taken by command after the last edit.**
+SCENE        483. **RECORDED SPAN 3,665 WORDS**, being the body counted from the opening `##` to the
+             closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 3,675 WORDS**,
+             **inclusive of both bounding headings**. Eight section headings. **Both definitions are printed
+             beside the figures and both were taken by command after the last edit and again after the review
+             repair of 13 October; the pre-repair figures were 3,668 and 3,678.**
              `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1);`
-             `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` → 3,668 · `sed -n "${F},${L}p" FILE | wc -w` → 3,678.
+             `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` → 3,665 · `sed -n "${F},${L}p" FILE | wc -w` → 3,675.
              **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet), WHOLE-WORD,
              ON THE WHOLE FILE: 1 · 5 · 2 · 0 · 2 · 2 · 1, SUM 13**, against 39 for 465, 32 for 474 and
              18 for 454. **THE COUNT IS NOT A PROOF AND IT IS THE FIGURE THE COMMAND PRINTED, AND IT IS

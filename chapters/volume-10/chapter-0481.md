@@ -42,9 +42,9 @@ She put the pen down.
 
 "It is two days past the weekly one," said Hanneke Ruis. "The sheet went out on the twenty-sixth and it went to nine persons and one of the nine is a woman in a kitchen off Ferrier Street who counts a house weekly for six years and never once used the count for anything."
 
-"Seven times now."
+"Twenty-two times now."
 
-"Seven," said Hanneke Ruis. "And it is administered against the persons keeping the composition and not against the man, and it has been since the first of July, and it goes to that door every week whether anybody opens it or not, and the reason I know the figure is that I drafted it."
+"Twenty-two," said Hanneke Ruis. "One has gone out every week since the first of April, when a standing of three could not carry it and administration began against the composition instead of against the man, and it goes to that door every week whether anybody opens it or not, and the reason I know the figure is that I drafted it."
 
 She turned a page.
 

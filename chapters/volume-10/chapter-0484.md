@@ -72,11 +72,13 @@ He leaned forward. "A standing is not a rank. A standing is a figure, and a figu
 
 ## Four
 
-"And four," he said. "Four is the name."
+"And four," said Lin Hao. "Four is the name."
 
-"The name is not part of it. The name is the whole of it."
+"The name is not part of it. The name is the whole of it," said Yusuf Adeyemi.
 
-"The name is the whole of it and it is not part of it, and you have not understood the difference, and you will get hurt on the first if you do."
+"Then it is not a fourth thing. It is the whole of the other three."
+
+"You have about nine seconds," said Yusuf Adeyemi, "to work out that I am not going to argue with you about it, and after that I am going to tell you when the file shuts."
 
 Yusuf Adeyemi sat back. "Listen. A file does not close because of an amendment. A file closes at about ten minutes to four on the afternoon of the first, on its own, with not one person writing anything, because not one standing left in this city is left to stand on it."
 
@@ -116,7 +118,7 @@ He was in the yard at about half past two in the afternoon because Agnete Lindqv
 
 "You were right on the twenty-ninth of July."
 
-"I was right on the twenty-ninth of July," she said, "and I have not stopped being right, and I voted against eight women in a kitchen on the twenty-sixth of August and I have not stopped being right about that either, and I am going to be standing nine feet from it with four hundred people behind me who are right as well. Do not come and tell me on the first that I was on your side. I will not be on your side."
+"I was right on the twenty-ninth of July," she said, "and I have not stopped being right, and I voted against eight women in a kitchen on the twenty-sixth of August and I have not stopped being right about that either, and I am going to be standing off from it with four hundred people behind me who are right as well. Do not come and tell me on the first that I was on your side. I will not be on your side."
 
 ## The One Person Who Would See It
 

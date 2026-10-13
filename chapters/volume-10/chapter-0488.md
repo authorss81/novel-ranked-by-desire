@@ -28,7 +28,7 @@ She put her hands flat on the desk. "I have no way of carrying a thing that is n
 
 "You knew before anybody."
 
-"I knew in the spring of a year and a half ago and I have not spoken about it to one living person until a man with a chest that is spent sat down in that chair, and he is not going to get a second use out of me and I am not going to give him one."
+"I knew it on the eighteenth of March and I have not spoken about it to one living person until a man with a chest that is spent sat down in that chair, and he is not going to get a second use out of me and I am not going to give him one."
 
 ## The Figure He Came For
 

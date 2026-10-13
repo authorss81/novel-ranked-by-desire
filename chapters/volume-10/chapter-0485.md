@@ -38,7 +38,11 @@ She turned the notebook round and pushed it at him, and he read it, and neither 
 
 "And the address."
 
-"The address has gone up one as well," she said. "Which it has not done since the thirtieth of December, and I have got nine years of that column and I can tell you it has not moved once in nine years except when eight people went up fourteen on one day at the end of December, and this is not that. This is one grain, on a card, at half past four in the afternoon, from a boy who does not know."
+"The address has gone up one as well," she said. "Which it has not done since the thirtieth of December, and I have got nine years of that column."
+
+"It has moved once in nine years."
+
+"It has moved once in nine years," said Beatrix Halm, "and that was on the thirtieth of December, when eight women put their names under his and it went up fourteen points in a single day. And this is not that. This is one grain, on a card, at half past four in the afternoon, from a boy who does not know."
 
 "Sixteen under."
 

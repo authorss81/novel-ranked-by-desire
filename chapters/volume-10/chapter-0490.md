@@ -1,6 +1,6 @@
 # The Morning It Was Empty
 
-He went up the hill at about ten in the morning on the fifth of October and there were about nine thousand people under the ranks wall because it is an ordinary morning, and about forty of them were standing still, no stool, no slate, no line, and not one of the five hundred people who had come on purpose.
+He went up the hill at about ten in the morning on the fifth of October and there were about nine thousand people under the ranks wall because it is an ordinary morning, and about forty of them were standing still, no stool, no slate, no line, and not one of the four hundred people who had come on purpose.
 
 There was a boy with a bucket at the foot of it doing nothing in particular, which is what a boy does at the foot of a wall.
 
@@ -12,11 +12,11 @@ That is a fact about him and it is not a fact about anything else.
 
 Beatrix Halm came up the hill at about a quarter past ten with her notebook and she did not open it.
 
-"I was here at about eight," she said. "And at half past seven yesterday I was at the wall at ten past five and there were four hundred people and nine feet of stone and a woman with a table of her own and two borrowed trestles. And this morning the wall is empty."
+"I was here at about eight," she said. "And on the first I was at the wall at ten past five and there were four hundred people and nine feet of stone and a woman with a table of her own and two borrowed trestles. And this morning the wall is empty."
 
 "Is it over."
 
-"I do not know," said Beatrix Halm. "I have been standing at this wall since half past four yesterday morning and I have written down every hour and I am telling you, as I have told about nine people this week, that I do not know, and it is the only true sentence anybody has got about any of it, and you are not going to get a better one out of me this morning than you would get out of the rail."
+"I do not know," said Beatrix Halm. "I have been standing at this wall since half past four on the second morning and I have written down every hour and I am telling you, as I have told about nine people this week, that I do not know, and it is the only true sentence anybody has got about any of it, and you are not going to get a better one out of me this morning than you would get out of the rail."
 
 "You cannot tell me whether anything has stopped."
 
@@ -34,7 +34,7 @@ Isolde was on the Bellhouse stage at about the second song. Marguerite was at th
 
 Runa was out on a round and had been since six in the morning and would not be back until dark. Nadia was at the bottom of the Vestry shaft and had been since about nine. Beatrix was at a wall.
 
-Tessa had her table at the north end by the Vestry gate and had been packing it down since about nine, because the second of October was over and she had not told anybody that in advance.
+Tessa had her table at the north end by the Vestry gate and had been packing it down since about nine, because the fourth of October was over and she had not told anybody that in advance.
 
 Ines was at a counter and Petra was at that table with her hands in her lap and Agnete was standing nine feet off a wall.
 

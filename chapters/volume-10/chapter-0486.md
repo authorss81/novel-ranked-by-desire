@@ -1,6 +1,6 @@
 # The Account Opened In The Square
 
-The room at the end of a corridor off a second landing sat at about two o'clock in the afternoon on the first of October, and it had nine thousand people under the wall outside it on an ordinary afternoon, and about four hundred of them had come on purpose, and about forty were standing still.
+The room at the end of a corridor off a second landing sat at about two o'clock in the afternoon on the first of October, and there were nine thousand people under a wall a mile off it on an ordinary afternoon, and about four hundred of them had come on purpose, and about forty were standing still.
 
 He was in the corridor for the first hour and ten minutes of it because of a clause of thirty-eight words he had entered himself.
 
@@ -12,7 +12,7 @@ He was in the corridor for the first hour and ten minutes of it because of a cla
 
 There were five at the table and a chair that was not one of the nine at the end of it. Alma Quayle was in it in her coat with her division's own paperwork on her knees, and she had been there since about twenty to two, and she had not spoken in a sitting in that building since the twelfth of December.
 
-The clerk read the quarterly. The requisition of the twentieth of February, one hundred and thirty days old at the end of June and two hundred and twenty-one days old at that table, carried under five seals on the thirtieth of June and administered weekly against the persons keeping the composition of premises thirty-four, dash, six, dash, one-one-eight, and the seventh delivery had gone out on the twenty-sixth of September to nine persons.
+The clerk read the quarterly. The requisition of the twentieth of February, one hundred and thirty days old at the end of June and two hundred and twenty-one days old at that table, carried under five seals on the thirtieth of June and administered weekly against the persons keeping the composition of premises thirty-four, dash, six, dash, one-one-eight, and the twenty-seventh of those had gone out on the thirtieth of September to nine persons.
 
 Then she read the claim of the Church of the Quiet Number, entered on the twenty-ninth of July, three hundred and ninety words, and the hearing record of four lines and an hour kept in a building off a third court, and the answer given by a man on the thirtieth of July, and the standing sheet, which carried the address at the head of every line.
 
@@ -108,8 +108,6 @@ He put the paper face down.
 
 "I have had it in a drawer since the first of July and I have known what was in it since the sixth of September," he said. "I am going to say the four reasons and then I am going to stop."
 
-"Two hundred and ten of them, and I am going to use four."
-
 "One. A quiet room, a held account and a form is a decision that nine people make in a building on behalf of a million people who are not in the building. That is the whole objection and I am not dressing it up."
 
 "That is not an objection," said Ferreira. "That is the description. What is the objection."
@@ -180,7 +178,7 @@ He took the sheet off Yusuf Adeyemi and read it out, once, in the flat voice of 
 
 The clerk wrote it down. She wrote it in full and she did not look up and she did not improve it, and when she had finished she read it back, because that is done, and she read the name of his brother once in a room of five people and a chair.
 
-Not one of them said anything for about eleven seconds.
+Not one of them said anything for a long time.
 
 "That is a nail in a document," said Yusuf Adeyemi, quietly, to the room.
 
@@ -204,7 +202,7 @@ She looked up. "And I would like it observed, in the minute, that I argued that 
 
 ## The Wall
 
-He walked from the end of a second corridor to the north end of the Reading and it is about a mile and he took fifty-one minutes, and he was at the wall at about eleven minutes past five and there were about nine thousand people under it.
+He walked from the end of a second corridor to the north end of the Reading and it is a mile and he took fifty-one minutes, and he was at the wall at about eleven minutes past five and there were about nine thousand people under it.
 
 About four hundred of them were standing in one place because a chaplain of twenty years had told them to and because they had come on purpose. About forty of them had stopped. The rest were going to the trams.
 
@@ -242,7 +240,7 @@ The ninth was standing nine feet off with her hands in her sleeves and four hund
 
 She read it out.
 
-Nine names and one date and the words: *and the one against has said why out loud.*
+Eight names and one date and the words: *and the one against has said why out loud.*
 
 Then eight women put their hands on the stone of the ranks wall under a painted card at about eleven minutes past five in the afternoon on the first of October, and the man at the north end of it stood four feet away with his hands in his coat, and nine thousand people under a wall on an ordinary afternoon saw nothing happen at all.
 
@@ -270,7 +268,7 @@ And on the second of October there would be a division in this city that would s
 
 ## Nine Feet Of Stone
 
-Agnete Lindqvist did not move for about four seconds and then she turned round to her own four hundred and said four words in the voice of a woman holding a room, and four hundred people in a square of nine thousand said them back, and it made a noise, and it was the only organised sound in the Reading on the first of October.
+Agnete Lindqvist did not move for four seconds and then she turned round to her own four hundred and said four words in the voice of a woman holding a room, and four hundred people in a square of nine thousand said them back, and it made a noise, and it was the only organised sound in the Reading on the first of October.
 
 That it cannot be given back. Because there is no list of what it is made of.
 
@@ -300,7 +298,7 @@ He put his coat on the back of a chair, because there is a chair in that kitchen
 
 "There is not," said Lin Hao.
 
-The woman stood in the doorway for about eleven seconds and then she said thank you and went away down the hill, and he shut the door and stood in a passage with a cough in his chest that is going to be there until he is dead and a first band of standing that is going to have assigned work in it and not one figure anywhere in Ostara that could have told a stranger what he had done and who had done it.
+The woman stood in the doorway for about nine seconds and then she said thank you and went away down the hill, and he shut the door and stood in a passage with a cough in his chest that is going to be there until he is dead and a first band of standing that is going to have assigned work in it and not one figure anywhere in Ostara that could have told a stranger what he had done and who had done it.
 
 And in a building off a third court, a hearing record of four lines and an hour sat on a shelf where it had been sitting since the twenty-eighth of July. It carried no seal, it could not be ordered, it could not be classified, and it could not be read at a valuation.
 

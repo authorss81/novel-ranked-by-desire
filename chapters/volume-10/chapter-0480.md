@@ -124,7 +124,7 @@ He went and stood by the window.
 
 Marguerite Vale read the thing out at about half past nine, which was her right and not a favour, and which she did in the shape of a call because it is the only form in her that knows how to do it.
 
-"What moved. Nine names and one date. When: the twenty-sixth of August, at about nine in the evening, in a kitchen. At what price: every person who signed it is answerable at a counter for four years, and nothing in this city will make an instrument of any of it, and I am not going to write that down in a book a keeper carries into a room, because a keeper carries books and does not carry opinions."
+"What moved. Eight names and one date. When: the twenty-sixth of August, at about nine in the evening, in a kitchen. At what price: every person who signed it is answerable at a counter for four years, and nothing in this city will make an instrument of any of it, and I am not going to write that down in a book a keeper carries into a room, because a keeper carries books and does not carry opinions."
 
 "Nothing on it says who it is for," said Petra Ilyin.
 

@@ -66,7 +66,7 @@ She looked at him properly for the first time. "You are going to lie down and I 
 
 ## Slow, And In A Ward
 
-He lay down on the table in his clothes and she stood at the end of it for about four seconds looking at him the way she looks at a patient's face on a round, which is to say entirely without comment, and then she wheeled the screen round until it stood between the table and the two beds on her side.
+He lay down on the table in his clothes and she stood at the end of it for four seconds looking at him the way she looks at a patient's face on a round, which is to say entirely without comment, and then she wheeled the screen round until it stood between the table and the two beds on her side.
 
 "The screen is not for them," said Tessa Okonkwo. "It is so that whoever walks in has to walk round it, and a person who has walked round something is not surprised by what is behind it."
 
@@ -90,11 +90,11 @@ She got a hand under him at the hip and turned him over without hurry, and she p
 
 He did.
 
-She let him about four seconds and then put a hand round the back of his neck and turned his head, and she kissed him the way she has watched people do in a ward at about two in the morning, which is badly and for a long time, and she was the one making the noise.
+She let him four seconds and then put a hand round the back of his neck and turned his head, and she kissed him the way she has watched people do in a ward at about two in the morning, which is badly and for a long time, and she was the one making the noise.
 
 "There," she said. "Now you know what I have been not thinking about, and I have not put a hand on your chest once, and I have about two hours yet."
 
-She had him the length of the table in about four seconds and she made almost no noise doing it, because she was being careful with the door, and then she sat back on her own heels and looked down at the two of them for about two seconds the way she looks at a plate she has just set down on a trolley.
+She had him the length of the table in four seconds flat and she made almost no noise doing it, because she was being careful with the door, and then she sat back on her own heels and looked down at the two of them for about two seconds the way she looks at a plate she has just set down on a trolley.
 
 "I am going to be unkind about something," said Tessa Okonkwo, "and you are going to let me, and it is that you are the best-looking thing I have had on this table in about four years and I have had four hundred people on it."
 
@@ -148,7 +148,7 @@ She got him over onto his back after about nine minutes with a hand between his 
 
 He did not stop.
 
-She took him all the way in and then stopped, without moving at all, with her palms spread on his ribs and the weight of her standing on him, and the ward went on being a ward around the two of them for about four seconds and neither of them put a hand on anything.
+She took him all the way in and then stopped, without moving at all, with her palms spread on his ribs and the weight of her standing on him, and the ward went on being a ward around the two of them for four seconds and neither of them put a hand on anything.
 
 Then she began to move down onto him the whole length of her, slow, the way she does everything, until there was nothing at all between them.
 
@@ -244,9 +244,9 @@ She took her hands off and looked at them and did not answer for about four seco
 
 She pulled her sleeve down over her forearm and did it neatly.
 
-"Nine women drew against that pot on purpose on the fourteenth of August and took the cold themselves, and every one of them said out loud that they did it because they wanted to be given something back."
+"Three women drew against that pot on purpose on the fourteenth of August and took the cold themselves, and every one of them said out loud that they did it because they wanted to be given something back."
 
-She got up off the trolley. "On the first of October all nine of them are going to be standing in a square with their hands on it, and not one of them is going to be the one that does it, because nine women cannot do it and one woman cannot do it."
+She got up off the trolley. "On the first of October eight of them are going to be standing in a square with their hands on it, and the ninth of us is going to be at a table by the Vestry gate, and not one of the eight is going to be the one that does it. Nine women cannot do it and one woman cannot do it. That is how the arithmetic comes out, and it is not a guess."
 
 "And that is the arithmetic that has been sitting in this city since the fifteenth of July, and nobody has said it out loud."
 

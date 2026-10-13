@@ -84,7 +84,7 @@ She went up the hill.
 
 And at about a quarter past nine on the night of the second of October, Runa Sato came in off a round and put a sheet on the kitchen table face up and did not sit down.
 
-"There is a man in Cordwain selling it," she said. "A stool and a line and a man taking a grain off anybody who wants to stand in it, and he has been doing it since about six this evening and there are about four hundred people behind his line and he is taking money off every one of them and he is not lying to a single one of them."
+"There is a man in Cordwain selling it," she said. "A stool and a line and a man taking a grain off anybody who wants to stand in it, and he has been doing it since about six this evening and there are four hundred people behind his line and he is taking money off every one of them and he is not lying to a single one of them."
 
 "Taking money for a street."
 
