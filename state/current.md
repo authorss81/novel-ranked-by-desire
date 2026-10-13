@@ -154,8 +154,10 @@ fourteen by December. **It cannot be stopped and it cannot be unpicked and it is
 world has ever dealt with a piece of paper that says where eight people sleep is to stop writing it down.**
 
 **THE SCENE IS 318 AND IT IS THE ONLY ONE. 311 TO 317, 319 AND 320 HAVE NO SCENE AND MAY NOT BE GIVEN ONE.**
-The volume's gaps are 299 → 308 = 9, 308 → 318 = 10, and 318 → 329 = 11. **The scene body of 318 is 1,361 words
-and was counted.**
+The volume's gaps are 299 → 308 = 9, 308 → 318 = 10, and 318 → 329 = 11. **The scene body of 318 is 2,313 words,
+measured from `## The Lamp` to `## What She Filed` exclusive of both, and it was counted AND PROBED after
+independent review found it had been a fade behind a passing word count. See `reviews/volume-07/batch-0002.md`
+§8 and the §REPAIR block at the head of `state/open-threads.md`.**
 
 ## 2. THE POSITION AT CHAPTER 320 — EVERY FIGURE ON THE PAGE
 

@@ -72,7 +72,7 @@ Beatrix Halm wrote hers and did not close the notebook, which is not a thing Bea
 
 ## The Question That Was Not Asked
 
-Runa Sato read the sheet from the other end of the table without touching it.
+Runa Sato had hers written and read the sheet from the other end of the table without touching it.
 
 "Refusing," she said. "What does refusing buy."
 
@@ -84,7 +84,7 @@ Runa Sato read the sheet from the other end of the table without touching it.
 
 "The list exists. It is a composition return and it has been since the second of October and it has a clerk's number in the corner of it."
 
-"If the eight of you sit here with your arms folded until midnight on the thirtieth, then on the morning of the first of this month the composition of those premises is eight and the list of those premises is eight, and the two of them agree, because they have always agreed. One was made out of the other."
+"If the eight of you sit here with your arms folded until midnight on the thirtieth, then on the morning of the first of next month the composition of those premises is eight and the list of those premises is eight, and the two of them agree, because they have always agreed. One was made out of the other."
 
 "So nothing we write changes it."
 
@@ -108,7 +108,7 @@ Nadia Ferrous had been holding the pencil since Petra Ilyin gave it back and had
 
 "It is one hundred and forty, and I have been handed every one of them since I was a child in this city," said Nadia Ferrous. "And I would like the woman who classifies houses to know that I can tell a door from a machine at about six feet."
 
-Wren Kallo wrote hers last of the seven at the table, because she had read everybody else's twice, and she wrote it slowly.
+Wren Kallo had hers written before the fourth line went down and had read every other line twice since, and she had not said a word about any of them.
 
 "Does the office go on it."
 
@@ -142,7 +142,7 @@ Alma Quayle looked at the sheet for about four seconds.
 
 Agnete Lindqvist wrote the year.
 
-## The Line Nobody Asked About
+## The Line That Came Back
 
 Beatrix Halm counted the lines on the way a clerk counts them, top of the stair down, and did it twice.
 

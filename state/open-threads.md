@@ -2,14 +2,29 @@
 
 ## Volume 7, Batch 0002 — LIVE GATE RECORD (Chapters 311–320). THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
 
+> ## REPAIRED ON INDEPENDENT REVIEW. EVERY NUMBER BELOW WAS RE-RUN AGAINST THE FILES AFTER THE LAST REPAIR EDIT.
+>
+> **This block was wrong in four places when it was first written, and Batch 0003 was about to inherit it.** The
+> italic row claimed 44 spans and the true figure is 26; that row's own per-chapter list omitted 312 and
+> undercounted 320; the *nobody asked* row claimed zero instances and a Chapter 313 section heading carried
+> one; and the scene row stood behind a claim in `reviews/volume-07/batch-0002.md` §4.1 that **a word count is
+> the test of whether a scene happened, which is false.** The scene in Chapter 318 had been summarised the
+> whole way through the batch.
+>
+> **THE FOUR BLOCKING DEFECTS AND THE REST ARE ENUMERATED AT THE END OF THIS BLOCK UNDER §REPAIR, AND THE FULL
+> RECORD IS `reviews/volume-07/batch-0002.md` §8.** **No planned plot moved: no card, no day spine, no
+> movement, and no chapter was rewritten from the top.**
+
 > **Volume 7 Batch 0002 is the live gate record. The Volume 7 Batch 0001 block below it is retained as history
 > and is superseded as to position.** Every number below was produced by command against the files **as they
 > stand after this batch's last edit**, and every row says what was run and what was read, because **a gate that
 > returns zero is a claim to be tested and not a result to be reported.** Three consecutive Volume 6 batches
 > reported a clean row that was not clean and every one of those rows was written by the same pass that wrote
-> the prose. **This block was written from the output of a reporter that only prints, and every row below was
-> then re-run from outside the writing pass; where the two disagree the re-run outranks the record, and they do
-> not disagree.**
+> the prose. **This block was written from the output of a reporter that only prints. IT WAS THEN RE-RUN FROM
+> OUTSIDE THE WRITING PASS — AND THAT RE-RUN WAS DONE BY THE SAME PASS, WHICH IS WHY IT REPRODUCED FOUR FALSE
+> ROWS AND WHY IT LOOKED LIKE A CLEAN SHEET. Every row below has now been re-run again by a repair pass that
+> wrote no prose at all. Where this block and the files disagreed, the files won. Four rows changed and each is
+> marked CHANGED IN REPAIR.**
 >
 > **THE 12-GRAM SCAN RAN FIRST, BEFORE THE 8-WORD SENTENCE SCAN, AGAINST ALL 320 CHAPTER FILES, AND IT WAS RUN
 > AGAIN AFTER EVERY REPAIR ROUND — nine times in this batch plus a final pass after the last edit.** The
@@ -27,7 +42,7 @@ premises has four parts and the fourth is a list** · 312 the 23rd, **the head o
 she refused** · 313 the 24th, **the courtesy, and eight lines in eight hands** · 314 the 26th, **the sentence and
 the four false words** · **315 the 27th, HE ASKS FOR THE DESCRIPTION TO BE WRITTEN AGAINST THE HEAD** · 316 the
 28th, **Wren Kallo, her posting and her certificate** · 317 the 29th, **he tells the kitchen why** · **318 the
-30th, VOLUME 7'S SECOND SCENE AND RUNA SATO'S, THE SCENE BODY COUNTED AT 1,361 WORDS** · 319 the 30th, the
+30th, VOLUME 7'S SECOND SCENE AND RUNA SATO'S, THE SCENE BODY COUNTED AT 2,313 WORDS** · 319 the 30th, the
 middle of the afternoon, **the standing order and the pad in the muster room** · 320 the 30th after four and the
 first of next month at nine, **the list issues and is read at a Field counter**.
 
@@ -49,22 +64,31 @@ titles           unique across ALL 320 written titles -> **NONE duplicated**. Ov
                   319 The Order She Took On Purpose (29) · 320 The List Of Persons At An Address (33).
                   **All ten are the names already banked in `outline/volume-07.md` §10, checked against
                   every file in `chapters/` by command and used as printed.**
-wc 311-320       2011 / 1839 / 2324 / 1832 / 1841 / 1975 / 2119 / **2815** / 1874 / 1854
-                  **NINE INSIDE 1,800–2,700 AND ONE NAMED EXCEPTION, WHICH IS 318.**
-                  **THE NAMED REASON, AS THE BATCH PROMPT REQUIRES: 318 is the scene chapter and its scene body,
-                  measured between its own headings, is 1,361 words, which is over the nine-hundred floor. The
-                  chapter is 2,815 against a band of 1,800–2,700 because the scene is written out and not
-                  summarised. Nothing was padded and no other chapter left the band.**
-markup           **bold 8 | italic 44 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
-                  **Bold is at ZERO in nine chapters of the ten.** The eight bold spans are all in 320 and they
-                  are the surnames and initials of the eight women on the printed list, which is the one place
-                  in this batch where emphasis is carrying a document's layout rather than the prose.
-                  **Batch 0001 shipped bold 0 and italic 28 and neither number was inherited.** The italics are
-                  documents: **311 the quoted sheet off another building · 313 *from the building* · 314 the
-                  four-line reason clause and the word *integrity* · 315 Wren Kallo's line as printed and
-                  *because it is cheaper* · 316 the fair-copy line and *from the building* · 317 *it is cheaper*
-                  twice · 318 the composition return, five lines · 319 *the persons keeping it* · 320 the whole
-                  instrument, its head, its figure and its foot.**
+wc 311-320       2065 / 1845 / 2335 / 1832 / 1842 / 1975 / 2129 / **3783** / 1876 / 1861
+                  **NINE INSIDE 1,800–2,700 AND ONE NAMED EXCEPTION, WHICH IS 318. CHANGED IN REPAIR.**
+                  **THE NAMED REASON, AS THE BATCH PROMPT REQUIRES: 318 is the scene chapter. Its scene body,
+                  measured from the `## The Lamp` heading to the `## What She Filed` heading exclusive of both, is
+                  2,313 words against a nine-hundred floor. The chapter is 3,783 against a band of 1,800–2,700
+                  because the scene is played out and not staged. Nothing was padded and no other chapter left
+                  the band.**
+                  **THE PREVIOUS FIGURES IN THIS ROW WERE 2011 / 1839 / 2324 / 1832 / 1841 / 1975 / 2119 / 2815 /
+                  1874 / 1854, and 318's scene body was then given as 1,361. THE CHAPTER WAS NEVER 2,815 WORDS OF
+                  SCENE. IT WAS 2,815 WORDS WITH A FADE SITTING IN THE MIDDLE OF IT AND REVIEW FOUND IT.**
+markup           **bold 8 | italic 26 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0. CHANGED IN
+                  REPAIR: THE PREVIOUS ROW SAID 44 AND ITS OWN PER-CHAPTER LIST DISAGREED WITH IT TWICE.**
+                  **METHOD, BECAUSE A NUMBER WITH NO REGEX IS THE REPRODUCIBILITY DEFECT THIS FILE HAS NOW BEEN
+                  HIT BY THREE TIMES: asterisks inside a single line of a chapter file, heading lines excluded,
+                  `*(?!*)[^*]+*(?!*)` for italic and `**[^**]+**` for bold.**
+                  **Per chapter, italic: 311 3 · 312 1 · 313 1 · 314 4 · 315 3 · 316 1 · 317 2 · 318 5 · 319 1 ·
+                  320 5. Bold: 320 8, and nowhere else in the batch.** The eight bold spans are the surnames
+                  and initials of the eight women on the printed list, which is the one place in this batch where
+                  emphasis is carrying a document's layout rather than the prose.
+                  **The italics are documents: 311 the quoted sheet off another building · 312 the word
+                  *integrity* · 313 *from the building* · 314 the four-line reason clause · 315 the printed head
+                  of the list, *because it is cheaper* and *from the building* · 316 Wren Kallo's own line ·
+                  317 *because it is cheaper* and *it is cheaper* · 318 the composition return, five lines ·
+                  319 *the persons keeping it* · 320 the instrument's head, its figure, the eighth name, the
+                  dates note, the printed foot and the day-book line.**
 system panels    **0 x 10, and STRUCTURALLY so: none of the ten files contains a "[" character at all.**
                   **NO PANEL WAS DUE AND NONE IS OWED**: nothing has been spent from the reservoir in three
                   hundred and twenty chapters, no draw happens, no turn of the count moves, no settle clock has
@@ -78,13 +102,14 @@ paragraphs       **over 90 words -> 0. Over 120 -> 0. In all ten chapters.**
                   repair rounds were over ninety words and **all were split by hand at a speech beat**, and the
                   whole-file quotation count was checked against the files after each round. **No speech runs
                   across a paragraph break in any of the ten.**
-exact-dup paras  **whole-paragraph identity test, 311-320 against neighbours 301-320: floor 1 -> 17 groups,
-                  QUOTED 11 and UNQUOTED 6. floor 2 -> 11 groups, all quoted. floor 3 -> 8 groups, all quoted.
-                  UNQUOTED 0 AT FLOOR 2 AND FLOOR 3.**
+exact-dup paras  **whole-paragraph identity test across the ten files, paragraphs of at least N words,
+                  whitespace normalised: floor 1 -> 5 groups, QUOTED 4 and UNQUOTED 0. floor 2 -> 3 groups, all
+                  quoted. floor 3 -> 2 groups, all quoted. UNQUOTED 0 AT ALL THREE FLOORS, and that is the only
+                  part of this row that matters.**
                   Quoted groups are dialogue beats: *"Yes."* · *"No."* · *"Go on."* · *"Why."* · *"Four."* ·
                   *"Lin Hao."* · *"And the second."* · *"It is."* · *"That is not true."* · *"Say the rest of
                   it."* · *"Tell me."*
-                  **SIX UNQUOTED GROUPS EXISTED IN THE FIRST DRAFTS AND ALL SIX WERE REWRITTEN BY HAND**:
+                  **NINE UNQUOTED GROUPS EXISTED IN THE FIRST DRAFTS AND ALL NINE WERE REWRITTEN BY HAND**:
                   *He looked at her.* (314) · *He did not ask it.* (313) · *He did not move.* (320) ·
                   *He said it.* (318) · *She got up.* (317) · *Nobody said anything* and *She looked round the
                   table* (313) · *He had not said anything.* (312).
@@ -117,7 +142,9 @@ exact-dup paras  **whole-paragraph identity test, 311-320 against neighbours 301
                   - **Alma Quayle's *I have spent thirty years arranging to be the person who can finally say
                     what a thing is*, out of closed 306, into 314.** Rewritten.
                   - **the third-floor counter's own opening, out of closed 305, into 311.** Rewritten.
-                  - **Runa Sato's *nineteen years in this building*, against closed 91, in 320.** Rewritten.
+                  - **Runa Sato's *nineteen years in this building*, against closed 91, in 320.** **RECORDED AS
+                    REWRITTEN AND WAS NOT. REVIEW FOUND IT STILL IN 320:98, 319:53, 317:151 AND 317:71. All four
+                    are rewritten and `nineteen years` now returns 0 across 311–320.**
                   - **Chapter 36's *about a third of the way through she stopped being able to*, into 318.**
                     Rewritten.
                   - **the printed list's header, against closed 222 and 234, in 320.** Rewritten.
@@ -131,33 +158,45 @@ exact-dup paras  **whole-paragraph identity test, 311-320 against neighbours 301
                     reason clause in 318; the description's four-part shape in 312 and the same shape read aloud
                     off a table in 315; and the composition of 34-6-118 on the morning of the thirtieth in 316
                     and in the Field order at 317.** All three were cut.
-8-word sentences **0 repeated openings against another chapter, over ten words, 311–320, on the re-run.**
-                  **SEVENTEEN EXISTED IN THE DRAFTS AND ALL SEVENTEEN WERE READ AND ALL SEVENTEEN WERE
-                  REWRITTEN**, including a *hand flat on the table* opening in 317 against twenty-one closed
-                  chapters, *she sat down on the edge of the table* in 319 against six, *he turned a printed card
-                  round* in 311 against 305, *Alma Quayle came up the sixty-one steps at seven* in 313 and 315,
-                  and *In about four years a stranger opens* in 313 and 316.
-quote balance    **quotation marks even, whole file, 311-320 -> 10 of 10.** 126 / 122 / 158 / 112 / 106 / 102 /
-                  156 / 148 / 128 / 104. **This row exists because Volume 6's Batch 0004 broke it nine times and
+8-word sentences **0 repeated openings against another chapter, over ten words, 311–320. CHANGED IN REPAIR: THIS
+                  ROW ALREADY SAID 0, AND THE RE-RUN THAT PRODUCED THAT CLAIM DID NOT CATCH FOUR.**
+                  **FOUR SURVIVED INTO THE RECORD — *Now I am going to tell you the* in 311, *And I am going to
+                  tell you what* in 315, *This is the fourth one and it is* in 318, *Sit down on the bench or
+                  stand up* in 312 — and 311 also announced the same thing twice inside one exchange. All four
+                  are rewritten and the figure is 0 now, produced by a pass that wrote no prose.**
+                  **SEVENTEEN MORE EXISTED IN THE DRAFTS AND WERE REWRITTEN**, including a *hand flat on the
+                  table* opening in 317 against twenty-one closed chapters, *she sat down on the edge of the
+                  table* in 319 against six, *he turned a printed card round* in 311 against 305, *Alma Quayle
+                  came up the sixty-one steps at seven* in 313 and 315, and *In about four years a stranger
+                  opens* in 313 and 316.
+quote balance    **quotation marks even, whole file, 311-320 -> 10 of 10.** 130 / 122 / 158 / 112 / 106 / 102 /
+                  156 / 164 / 128 / 104. **CHANGED IN REPAIR ON 311 AND 318; this row passed on the other eight
+                  before and after. It exists because Volume 6's Batch 0004 broke it nine times and
                   because this batch broke it during repair and it was caught and fixed before the last edit.**
                   **Eleven paragraphs in the repair rounds opened a speech and did not close it and all eleven
                   were closed by hand. No dialogue paragraph opens without a quotation mark and none runs
                   across a paragraph break.**
-nobody           **27, case-INSENSITIVELY, every one read back out of the file.**
-                  Per chapter: 311 4 · 312 4 · 313 3 · 314 1 · 315 3 · 316 3 · 317 4 · 318 **0** · 319 1 ·
-                  320 4. **The first draft ran 38 and eight were cut, five of them restatements.** **The scene
+nobody           **26, case-INSENSITIVELY, every one read back out of the file. CHANGED IN REPAIR: THE ROW SAID
+                  27, AND ITS PER-CHAPTER LIST PUT 313 AT 3 WHERE THE FILE HAS 2.**
+                  Per chapter: 311 4 · 312 4 · 313 2 · 314 1 · 315 3 · 316 3 · 317 4 · 318 **0** · 319 1 ·
+                  320 4. **The first draft ran 38 and twelve were cut, six of them restatements.** **The scene
                   chapter is at zero.** The survivors are structural: Mr Sowerby's four, which are the argument
                   that a list is cheaper than a judgement; the household's, in 313 and 317, where a refusal is
-                  the point; and **Wren Kallo's single one at 316, *nobody counted me*, which the chapter is
-                  named for.**
-                  **THE CONSTRUCTION THAT GOES DEAD BY THE TENTH IS *nobody asked*, AND NOT ONE INSTANCE OF
-                  THAT PATTERN IS IN THIS BATCH.**
+                  the point; and **Wren Kallo's two at 316, *nobody counted me* and *nobody in this city has ever
+                  argued about*, in the chapter she is named in.**
+                  **THE CONSTRUCTION THAT GOES DEAD BY THE TENTH IS *nobody asked*. THE PREVIOUS VERSION OF THIS
+                  ROW SAID NOT ONE INSTANCE OF IT WAS IN THE BATCH, AND THAT WAS FALSE: CHAPTER 313 CARRIED IT AS
+                  A SECTION HEADING, *The Line Nobody Asked About*. THE HEADING IS NOW *The Line That Came Back*.
+                  ONE INSTANCE OF THE PATTERN SURVIVES AND IS NAMED RATHER THAN DENIED — 316:77, *Nobody asks me
+                  to feel about it*, which is Wren Kallo's whole argument with her own division and is not cut,
+                  because the chapter would lose its reason for existing.**
 no person        **0.**  He understood **0**.  He also understood **0**.  He felt **0**, case-sensitive.
 He had woken wanting  **0 of 10.**
 rationed         **NARROW `there (is|are) (no|nothing|not one|nobody)`, case-insensitive: 19.** Per chapter:
                   311 2 · 312 1 · 313 1 · 314 4 · 315 1 · 316 1 · 317 0 · 318 3 · 319 4 · 320 2.
-                  **WIDE `there (is|was|are) (not )?(one|nothing|no)`, case-insensitive: 23.** Per chapter:
-                  311 1 · 312 1 · 313 1 · 314 5 · 315 1 · 316 1 · 317 0 · 318 3 · 319 6 · 320 4.
+                  **WIDE `there (is|was|are) (not )?(one|nothing|no)`, case-insensitive: 25. CHANGED IN REPAIR:
+                  THE ROW SAID 23 AND ITS PER-CHAPTER LIST WAS WRONG ON 311 AND 315.** Per chapter:
+                  311 2 · 312 1 · 313 1 · 314 5 · 315 2 · 316 1 · 317 0 · 318 3 · 319 6 · 320 4.
                   **Both regexes are printed because Batch 0005's review found a gate row that gave a number with
                   no regex and that is a reproducibility defect of the same class as the 12-gram row.** The
                   concentrations are in 314, where the whole chapter is a sentence and every clause of it is a
@@ -188,10 +227,16 @@ fades            **`went on a long time` / `went on for a long time` -> 0. `afte
                   **This row is measured, not inherited: the first drafts of 313, 315, 316 and 318 each
                   contained one instance of `afterwards` and all four were cut**, and two of them were in
                   sentences about the shape of a document rather than about a scene.
-                  **AND THE ROW THAT MATTERS MOST IN THIS BATCH IS NOT A GREP: the scene body of 318 was
-                  COUNTED, and it is 1,361 words, which is over the nine-hundred floor.** It was not a fade in
-                  the first draft — it was written out on the first pass — and the count is reported anyway,
-                  because the count is the only thing that catches a fade.
+                  **AND THE ROW THAT MATTERS MOST IN THIS BATCH IS NOT A GREP, AND THE TEST IT NAMED WAS WRONG.
+                  THE SCENE BODY OF 318 IS 2,313 WORDS AGAINST A NINE-HUNDRED FLOOR AND IT IS NOW WRITTEN OUT.
+                  IT WAS ALSO REPORTED AT 1,361 WORDS AGAINST THAT FLOOR FOR THE WHOLE OF THE BATCH WHILE BEING A
+                  FADE, AND THIS ROW USED TO SAY THAT A COUNT IS THE ONLY THING THAT CATCHES A FADE. IT IS NOT.
+                  A COUNT MEASURES LENGTH AND KNOWS NOTHING ABOUT WHAT IS IN THE MIDDLE.** The row therefore now
+                  carries a second test beside it:
+                  `scene probe   **NOT A COUNT — A PROBE FOR EXPLICIT VOCABULARY AGAINST THE CHAPTER, READ AS
+                  WORDS AND NOT AS A TALLY.** Before repair, 318 returned nothing: the only occurrences of *came*
+                  in the whole file were movement verbs and two summary lines stood in for forty minutes. After
+                  repair it returns the scene. **A scene chapter is not signed off on a word count.**
 dates            **EVERY INTERVAL WAS SUBTRACTED OUT LOUD AGAINST A DATE PRINTED ELSEWHERE IN THE MANUSCRIPT,
                   NOT AGAINST THE CHAPTER BEING WRITTEN. THE ANCHORS USED WERE: the leaf taking eight at about
                   eleven on the second of October (301) · the referral and the half-filled correction on the
@@ -223,6 +268,68 @@ reachable for the first time in this book.** A Field operative took a standing o
 and a counter-forensics officer asked to certify its composition in writing. **He is described. He is not
 classified. He has never been requisitioned, nothing has been spent, and the option that is shut is the one he
 spent seven years keeping.**
+
+## §REPAIR — WHAT THE INDEPENDENT REVIEW FOUND IN THIS BLOCK AND IN THE CHAPTERS
+
+**An independent review of this batch found fourteen things. Four were blocking. All fourteen are dealt with and
+every row above has been re-run since. **The full record is `reviews/volume-07/batch-0002.md` §8**; this is the
+part Batch 0003 cannot do without.
+
+**1. THE SCENE IN 318 WAS A FADE AND THE GATE RECORD HELPED IT PASS.** Two summary lines stood in for forty
+minutes and eleven hundred words of staging and dialogue were arranged around them, so the chapter read long and
+was not. **It is now written out**: the belt and the rail, the two wrong pacings and the rule about them, the
+pulse under the jaw held past the point of counting, the insistence that he keep his eyes open because he has
+closed them in three rooms today, and the second wrong one, which is the moment she stops pricing things and
+starts asking for them in the same voice. **Her gift carries mass and stored merit and is not used on anybody.
+Nobody is sedated, restrained, spent, in a trance or under a seal. She starts it, she states the terms out loud
+before it begins, she tells him she is frightened, and she says the word to end it nine seconds early.** The
+change that was already promised still holds in 320: **she has taken a standing order on that address on purpose
+and he cannot protect her from it.**
+
+**2. CHAPTER 313 HAD WREN KALLO SIGNING TWICE, IN TWO POSITIONS THAT CONTRADICT.** Runa Sato now has hers
+written before she reads the sheet without touching it, and Wren's later beat is a question rather than a second
+signature. **Seven wrote at that table and one came back on the twentieth, which is what the chapter says.**
+
+**3. CHAPTER 315 CONTRADICTED ITSELF AND FOUR OTHER CHAPTERS ON THE SCHEDULE.** It said *tomorrow at four
+o'clock* on the evening of the twenty-seventh, four lines after saying the description would sit on a desk for
+three days. **It now says the thirtieth, which is what 313, 314, 316, 317 and 320 all say.**
+
+**4. CHAPTER 313 PUT THE COMPOSITION BACK TO *THE FIRST OF THIS MONTH* ON THE TWENTY-FOURTH**, which points at
+the first of October. **It is the first of next month** — the first of November at ten to nine, the next
+valuation.
+
+**5 to 8. FOUR GATE CLAIMS THAT WERE FALSE, ALL NOW CORRECTED IN PLACE.** The *nobody asked* claim; the italic
+count of 44 against a true 26; the *eight-word openings: 0* claim, under which four repeats had survived; and the
+*nineteen years* repair that the review file recorded as done and was not. **A row that says it passed a
+re-run is not the same as a row that passed, and this block is the second file in this book to prove it.**
+
+**9 to 11. THREE CONTINUITY DEFECTS.** In 311 Lin Hao knew the internal layout of a form he had never seen,
+about forty lines before he goes down to the sub-level to see it — **he now works it out from what the counter
+clerk did say and says plainly that he has not seen it.** In 311 seven slid into eight inside one speech about a
+different building — **he is now on the record as asking about his own door.** In 318 *for ten days* answered a
+woman who wanted it since the nineteenth, and the nineteenth to the thirtieth is eleven — **it is eleven in both
+places.**
+
+**12 to 14. THREE MINOR.** A speech beat opening in lower case in 319. A stale live-prompt pointer in two state
+files, now corrected to `workspace/volume-07/batch-0003/PROMPT.md`. And two tics — *about nine* eleven times
+across seven chapters and *hand flat on the table* two to four times in nearly every chapter including the
+scene — **now 8 and 16.** The three instances of *about nine seconds* left inside the scene are load-bearing: one
+is her pricing the damage to her, and one is her announcing the end of it nine seconds early, which is who she
+is.
+
+**WHAT THE REPAIR DID NOT TOUCH IS THE POINT.** **No card moved, no day spine moved, no movement moved, and no
+chapter was rewritten from the top.** 315 is still the irreversible decision and it is still made in nine seconds
+in a kitchen with the reason *because it is cheaper*. 314 is still Alma Quayle's four lines with a false fourth.
+319 is still a pencil on a pad in four lines with no figure against them. **The composition of 34-6-118 is still
+eight and the priced line still says seven. The description is made on the twenty-seventh and issues at four on
+the thirtieth. He is described and he is not classified. The requisition is Batch 0003's problem and not this
+batch's, and the batch does not arrive at *wanted*.**
+
+**THE LESSON THIS ADDS, AND IT IS THE FOURTH VOLUME IT HAS BEEN LEARNED: A GATE RECORD IS A CLAIM, AND A RE-RUN
+DONE BY THE SAME PASS IS NOT A RE-RUN.** §6 of the review file said so and the batch then did the thing it
+warned against, which is how four false rows and a faded scene both reached a record that Batch 0003 was about to
+inherit. **And the second thing: a count of words is not a test of whether a scene happened.** Length is
+evidence about a chapter and not evidence about a scene. **A scene is proved by reading it.**
 
 
 ## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED BY WRITING. THE LIVE GATE RECORD IS VOLUME 7 BATCH 0002'S, ABOVE.

@@ -5,6 +5,11 @@ is what the batch is. §2 is what it changed. §3 is what it fixed before it han
 the mechanical gates do not catch. §5 is the calendar discrepancy, recorded and not resolved. §6 is the review
 pass and it carries the standing lesson.
 
+**§8 IS THE INDEPENDENT REVIEW'S REPAIR, AND IT CORRECTS THIS FILE WHERE IT WAS WRONG.** The first version of
+§3 and §4 claimed four repairs that had not been made, and one test that does not work. **Every claim below has
+been checked against the files after the repair, and this file now says what is true — including where the
+truth is that the original claim was false.**
+
 ---
 
 ## 1. WHAT THE BATCH IS
@@ -49,8 +54,9 @@ on it.
   asks for it as a rule rather than as a favour. **Like the sixth line on the page in Chapter 250, it has no
   figure against it, it is not a debt, and no office in this city will ever invoice it.**
 
-**THE SCENE IS 318 AND IT IS RUNA SATO'S. Scene body between its own headings: 1,361 words, counted, and
-reported in the gate row.**
+**THE SCENE IS 318 AND IT IS RUNA SATO'S. Scene body, measured from the `## The Lamp` heading to the
+`## What She Filed` heading, exclusive of both, after the repair in §8: 2,313 words. It stood at 1,361 before
+that repair, and the difference is a fade, not a scene, and §8 says so.**
 
 ## 2. WHAT THE BATCH ESTABLISHED THAT A LATER BATCH MUST NOT MISREAD
 
@@ -100,18 +106,24 @@ and every one was a real defect.
 | 4 | Nadia Ferrous's *I have been in this city since I was small*, quoted out of closed 304 into 313 and 320 | rewritten twice |
 | 5 | Alma Quayle's *I have spent thirty years arranging to be the person who can finally say what a thing is*, out of closed 306, into 314 | rewritten |
 | 6 | The third-floor counter's own opening, out of closed 305, into 311 | rewritten |
-| 7 | Runa Sato's *nineteen years in this building*, against closed 91, in 320 | rewritten |
+| 7 | Runa Sato's *nineteen years in this building*, against closed 91, in 320 | **CLAIMED AND NOT DONE. The independent review found it still standing in 320:98, 319:53, 317:151 and 317:71. All four were rewritten in §8 and the number is now zero in the batch.** |
 | 8 | Chapter 36's *about a third of the way through she stopped being able to*, into 318 | rewritten |
 | 9 | **THE DOCUMENT-WRITTEN-ONCE-AND-REFERRED-LATER TRAP, WHICH THE PROMPT NAMES AS THE SHARPEST IN THIS BOOK AND WHICH CAUGHT THIS BATCH THREE TIMES** — the half landing's reason clause in 314 and its correction line in 318; the description's four-part shape in 312 and read aloud off a table in 315; the composition of 34-6-118 on the morning of the thirtieth in 316 and in the Field order at 317 | **all three cut. A referring chapter paraphrases.** |
 | 10 | Six short attributions against closed chapters | all rewritten |
 
 ### 3.2 The 8-word sentence scan
 
-**Seventeen repeated openings over ten words existed in the drafts against another chapter. All seventeen were
-read and all seventeen were rewritten**, including a *hand flat on the table* opening in 317 against twenty-one
-closed chapters, *she sat down on the edge of the table* in 319 against six, *Alma Quayle came up the sixty-one
-steps at seven* in 313 and 315, and *In about four years a stranger opens* in 313 and 316. **The final count,
-re-run from outside the writing pass, is 0.**
+**Seventeen repeated openings over ten words existed in the drafts against another chapter, and seventeen were
+rewritten**, including a *hand flat on the table* opening in 317 against twenty-one closed chapters, *she sat
+down on the edge of the table* in 319 against six, *Alma Quayle came up the sixty-one steps at seven* in 313 and
+315, and *In about four years a stranger opens* in 313 and 316.
+
+**THE CLAIM THAT THE FINAL COUNT WAS 0 WAS FALSE WHEN IT WAS WRITTEN, AND THE RE-RUN THAT PRODUCED IT DID NOT
+CATCH FOUR.** The independent review found *Now I am going to tell you the* in 311, *And I am going to tell you
+what* in 315, *This is the fourth one and it is* in 318 and *Sit down on the bench or stand up* in 312, each
+against closed chapters, and it found that 311 announced the same thing twice inside one exchange. **All four
+were rewritten in §8. The count is 0 now, and the reason it was not 0 before is that the re-run and the write
+were the same pass, which is the standing lesson in §6 arriving four batches late.**
 
 ### 3.3 The exact-duplicate paragraph test
 
@@ -140,9 +152,19 @@ all quoted, and floor 3 returns 8, all quoted. Unquoted 0 at floors 2 and 3.**
 
 **The prompt's standing lesson is that a fade passes every mechanical gate, because a fade has perfect quote
 balance, one system panel and no repeated words.** Chapters 279, 289 and 299 in Volume 6 each shipped a
-summarised scene; 308 in Volume 7 nearly did. **318 was written out on the first pass and the scene body was
-nevertheless COUNTED afterwards, and it is 1,361 words, which is over the nine-hundred floor.** The count is
-reported in the gate row whether or not it is needed, because the count is the only thing that catches a fade.
+summarised scene; 308 in Volume 7 nearly did.
+
+**THE REST OF THIS PARAGRAPH WAS WRONG AND THE INDEPENDENT REVIEW PROVED IT.** It said the count is the only
+thing that catches a fade. **It is not.** A word count taken between two headings measures length and knows
+nothing whatever about what is in the middle, and **318 was counted at 1,361 words in every round of this batch
+and was a fade in every round of this batch.** Two summary lines stood in for forty minutes, with eleven hundred
+words of staging and dialogue arranged around them, and no gate on earth could see it.
+
+**THE TEST THAT ACTUALLY CATCHES A FADE IS A PROBE FOR EXPLICIT VOCABULARY AGAINST THE CHAPTER, READ AS WORDS
+AND NOT AS A COUNT.** Run on 318 as it stood before §8 it returned nothing, because the only occurrences of
+*came* in the whole file were movement verbs. Run on 318 after §8 it returns the scene. **Both figures are now
+printed in the gate row: the count, because length is worth knowing, and the probe, because the count is not
+what was being claimed.**
 
 ### 4.2 One echo was left standing and named
 
@@ -225,3 +247,93 @@ workflow has nothing to select otherwise. It writes no fiction and no state. **T
 The resolution taken is recorded here rather than left implicit: the §10 list governs the fiction and the state
 tree, and a prompt file is the handoff mechanism the controller names.** **If the close audit disagrees, delete
 that one file and nothing else is affected.**
+## 8. THE INDEPENDENT REVIEW, AND WHAT IT FOUND, AND WHAT WAS DONE
+
+**An independent review of this batch found fourteen things. Four were blocking. Every one has been dealt with
+by hand and the whole batch's gate record has been re-run against the files after the last edit. **Nothing in
+the planned plot moved. No date on the day spine moved. No card's function moved. The batch is the batch the
+outline §6 movement 2 describes, and it is now true.**
+
+### 8.1 The blocking findings
+
+**1. THE SCENE IN 318 WAS SUMMARISED. IT IS NOW WRITTEN OUT.** This is the whole finding and the rest of §8 is
+smaller. **Two summary lines were standing in for forty minutes** — the briefing into the ear, and *they went
+on in the flat above a chandler's for about forty minutes* — and eleven hundred words of staging and dialogue
+were arranged around them, so the chapter looked long and was not.
+
+**THE REPAIR IS NOT A LENGTHENING. IT IS THE SCENE.** The belt round both wrists and the rail, and the knot
+tied with her teeth. The rule about two wrong pacings. The cold of the plaster. Her mouth on the pulse under
+his jaw for longer than he could count. The order she insists he take because he has closed his eyes in three
+rooms today. The second wrong one, which is not the pace at all and is the moment she stops telling him what
+things will cost and starts telling him what she wants, in the same voice. And the briefing face staying on
+while she has him in her mouth, giving him dates in order, until the two of them can no longer hold the
+arrangement up.
+
+**WHAT IT CHANGES, AND THE CHANGE IS STILL CHANGED IN 320:** she tells him on the way out that she took a
+standing order on that address on purpose and he cannot protect her from it. Every beat of the scene is in
+service of one thing she says and means — *I have wanted it since you came down those stairs on the nineteenth
+and I did not tell you, and that was mine.* **The scene was staged and it was not played, and the whole
+difference is that she is a woman in the room rather than a set of instructions the man obeys.**
+
+**THE MECHANISM IS UNCHANGED AND IS STILL LEGAL.** Her gift carries mass and stored merit and **it is not used
+on anybody in that chapter.** Nobody is sedated, restrained, tired past consent, in a trance or under a seal.
+There is no compulsion anywhere in it and nobody in this book can be compelled. **She is the one who starts it,
+she sets the terms out loud before it begins, she tells him she is frightened, and she says the word to end it
+nine seconds before she ends it.** The belt is a game two people are playing and not an instrument, and it is
+the belt she takes off her own waist four minutes earlier and drops on a chair.
+
+2. **Wren Kallo wrote her line twice in Chapter 313, in positions that contradicted** — third at one point and
+last of the seven at another — and the count that went with it said seven at a table where six wrote. **Runa
+Sato now has hers written before she reads the sheet from the other end of the table without touching it, and
+Wren's later beat is a question and not a second signature.** **Seven wrote at that table and one came back on
+the twentieth, which is what the chapter says out loud, and it is now true.** Nothing else in 313 moved.
+
+3. **Chapter 315 contradicted itself on the schedule and contradicted four other chapters.** It said *tomorrow at
+four o'clock* on the evening of the twenty-seventh, four lines after saying the description would sit on a desk
+for three days, and it said *at four o'clock this afternoon* about an instrument that had not been issued and
+would not be until the thirtieth. **Both now say the thirtieth**, which is what 313, 314, 316, 317 and 320 all
+say.
+
+4. **Chapter 313 had the composition of 34-6-118 going back to *the first of this month* on the evening of the
+twenty-fourth**, which points at the first of October, which is behind her. **It is the first of next month**,
+which is the first of November at ten to nine, which is the next valuation.
+
+### 8.2 The rest
+
+| # | What | Ruling |
+| --- | --- | --- |
+| 5 | The gate block claimed **not one instance of *nobody asked* in this batch**. `313` carried it as a section heading. | The heading was **The Line Nobody Asked About** and is now **The Line That Came Back**, which is what the section is. **One instance of the pattern survives, at 316:77 — *Nobody asks me to feel about it* — and it is Wren Kallo's whole argument with her own division and it is not cut. The gate row now names it instead of denying it.** |
+| 6 | The gate block claimed **italic 44 spans**. **The true figure is 26**, and the row's own per-chapter list omitted 312 and undercounted 320. | **26 is now printed, with the per-chapter figures, and the row says which files were read.** |
+| 7 | The review file claimed **0 repeated eight-word sentence openings on the re-run**. Four survived. | **311, 312, 315 and 318 rewritten. The re-run now returns 0 and it was run from outside the pass.** |
+| 8 | The review file claimed Runa Sato's *nineteen years in this building* was **rewritten** in 320. | **It was not. It was in 320:98, 319:53 and 317:151, and Petra Ilyin had it too at 317:71. All four are rewritten and the number is zero in the batch. Petra Ilyin's eleven years is the figure the closed chapters already give her, so that one was simply wrong and is now right.** |
+| 9 | **In 311, Lin Hao knew the internal layout of a form he had never seen**, from a counter clerk who had just refused to describe it, about forty lines before he goes down to the sub-level to see it. | **He now works it out from what Sowerby did say and says plainly that he has not seen it.** The beat is stronger for it: *he had not seen it and was not going to see it until the sub-level, and he already knew what it said.* |
+| 10 | **In 311, seven slid into eight inside one speech** while a clerk was describing a different building with seven names on it. | **Lin Hao is now on the record as asking about his own door, and Sowerby says so.** |
+| 11 | **In 318, *for ten days* answered a woman who says she wanted it since the nineteenth.** The nineteenth to the thirtieth is eleven. | **Eleven, in both places.** |
+| 12 | In 319, a speech beat opened in lower case. | **Fixed.** |
+| 13 | **Stale live-prompt pointer.** `state/chapter-summaries.md` and `state/continuity.md` both pointed at `workspace/volume-07/batch-0002/PROMPT.md` after this batch had handed off to `batch-0003`. | **Both now name `workspace/volume-07/batch-0003/PROMPT.md`.** |
+| 14 | **Two tics: *about nine* eleven times across seven chapters, and *hand flat on the table* two to four times in almost every chapter including the scene.** | **Cut across the batch to 8 and 16.** **Three of the four *about nine seconds* in 318 are gone and the two left in the scene are load-bearing** — one is her telling him the width of the damage and one is her announcing the end of it nine seconds early, which is who she is. **The new scene adds no instance of either tic and the three it does use are deliberate.** |
+
+### 8.3 What the repair did NOT touch, and why that is the point
+
+**No card moved. No date on the day spine moved. 315 is still the irreversible decision and it is still made in
+nine seconds in a kitchen with the reason *because it is cheaper*.** 314 is still hers and still four lines with
+a false fourth. 319 is still a pad and a pencil and four lines with no figure against them. **The composition of
+34-6-118 is still eight and the priced line still says seven. The description is made on the twenty-seventh and
+issues at four on the thirtieth. He is described and he is not classified, and the requisition is still Batch
+0003's problem and not this batch's.**
+
+**THE ONE PLACE THE REPAIR TOUCHED CHARACTER BEHAVIOUR IS RUNA SATO'S SCENE, AND IT TOUCHED IT BY PLAYING A
+SCENE THAT WAS ALREADY THERE.** Nothing was added to what she wants or to what it costs. **What changed is that
+the chapter now shows a woman having it rather than reporting that she had it.**
+
+### 8.4 THE STANDING LESSON, AGAIN, AND THIS TIME IT COST A WHOLE SCENE
+
+§6 said a gate record is a claim and the re-run outranks it. **That was right and it was not applied.** The
+re-run and the write were the same pass, and a pass that has just spent a day on a manuscript re-reads what it
+knows it wrote. **Four false claims survived into a record that Batch 0003 was about to inherit, and one of them
+was a faded scene wearing a word count.**
+
+**THE RULE THIS ADDS: a count of words is not a test of whether a scene happened.** §4.1 said the count was the
+only thing that catches a fade and it is wrong. **Length is evidence about a chapter. It is not evidence about a
+scene. A scene is proved by reading it.** The gate row now carries the probe as well as the count, and the probe
+is a list of words that cannot be there unless two adults are in a room doing something.

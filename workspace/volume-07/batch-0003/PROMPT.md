@@ -98,8 +98,19 @@ contact, trance, seal — is ever the mechanism.** He cannot compel anybody and 
 compelled, and that is the load-bearing rule of the entire manuscript. **Her gift carries a debt in writing and
 physically; it is not used on anybody in this scene.** Violence and sex stay in separate registers and there is no
 violence in this chapter. **Write the scene out: unhurried once it begins, physical, and it changes something
-that is still changed in Chapter 330.** **Count the words of the scene body. Under about nine hundred and you have
-not written it.**
+that is still changed in Chapter 330.**
+
+**A WORD COUNT IS NOT A TEST OF WHETHER A SCENE HAPPENED, AND BATCH 0002 PROVED IT THE EXPENSIVE WAY.** It
+recorded a scene body of 1,361 words in every round of the batch, passed every gate, and shipped a fade: two
+summary lines standing in for forty minutes with eleven hundred words of staging and dialogue arranged around
+them. **Length is evidence about a chapter. It is not evidence about a scene.**
+
+**SO COUNT IT AND THEN PROBE IT.** Report the scene body count as before, **and also report a probe for
+explicit vocabulary against the chapter, read as words and not as a tally.** Before repair, a probe of 318
+returned nothing, because the only occurrences of *came* in the whole file were movement verbs. **A count over
+nine hundred and a probe that returns nothing is a fade. A count over nine hundred and a probe that returns the
+scene is a scene. If the probe returns nothing, the count is a number about how much staging you wrote and you
+have not written the chapter.** Read the scene back yourself before you report either figure.
 
 ## 5. INHERIT UNCHANGED
 
@@ -167,8 +178,10 @@ meta / fourth wall / ages   0. **No chapter announces an age.**
 quote balance    an even number of quotation marks in every chapter file, tested whole-file.
                   **CHECK THIS FIRST AFTER EVERY PARAGRAPH SPLIT. Batch 0002 broke it eleven times during
                   repair, and every break was a speech left open at the end of a split paragraph.**
-fades            `it went on a long time` -> 0. `afterwards` -> report every instance and say which of them,
-                 if any, is standing in for a scene. **COUNT YOUR SCENE WORDS.**
+fades            `it went on a long time` -> 0. `afterwards` -> 0, reported as a figure and not as prose.
+                 **COUNT YOUR SCENE WORDS AND PROBE IT.** **AND KNOW THAT NEITHER ALONE IS ENOUGH: a count
+                 measures length and a fade can be long. The probe reads words. Both go in the row and the row
+                 says which is which.**
 dates            every interval subtracted out loud against a date PRINTED somewhere else in the manuscript,
                  not against the chapter you are writing. **Answer in the gate row what the anchor character
                  actually does on that date.**

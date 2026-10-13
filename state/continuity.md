@@ -340,7 +340,9 @@ rewritten against it in `outline/volume-07.md` §6 movement 1.**
 > **SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE. Chapters 301–310 are on disk.**
 Batch 0005 block immediately below. The outline is `outline/volume-07.md`; the batch cards are
 `outline/batches/volume-07-batch-0001.md` through `0005.md`; the one live phase prompt is
-`workspace/volume-07/batch-0002/PROMPT.md`.
+`workspace/volume-07/batch-0003/PROMPT.md`. **(This line was written when it named
+`workspace/volume-07/batch-0002/PROMPT.md`. That was true on the day and is now superseded: Batch 0002 is on
+disk and has handed off to 0003.)**
 
 **REVIEWED AND REPAIRED BY THE NEXT PHASE — `reviews/volume-07-planning.md` carries the record, and the
 repair block at the head of `state/open-threads.md` carries the seven things that changed.** Nothing in the

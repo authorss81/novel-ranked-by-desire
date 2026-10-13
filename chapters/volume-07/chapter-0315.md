@@ -106,7 +106,7 @@ And at the bottom of the list the date against the last line was a year in brack
 
 Alma Quayle took the list back and folded it once and put it in the case.
 
-"Tomorrow at four o'clock this goes out on the ordinary stream," she said. "And I am going to tell you what it does from tomorrow, because you have had eight days and every one of you has spent them on a different thing and I am the woman who is going to have to answer for it."
+"That goes out on the ordinary stream on the thirtieth at four o'clock," she said. "That is three days off and every one of you is going to spend them on a different thing, and I am the woman who is going to have to answer for what it does. So hear the shape of it now."
 
 Nothing in the room moved.
 
@@ -118,7 +118,7 @@ She closed the case.
 
 "And it cannot be corrected."
 
-"It cannot be corrected and it cannot be withdrawn and it cannot be unissued. A composition changes. A list does not." Alma Quayle picked her coat up off the rail. "You can each of you change what is true about that address from tomorrow. You cannot change what was true about it at four o'clock this afternoon. I did not make that rule and I would not have made it and I cannot get round it."
+"It cannot be corrected and it cannot be withdrawn and it cannot be unissued. A composition changes. A list does not." Alma Quayle picked her coat up off the rail. "You can each of you change what is true about that address from tomorrow. You cannot change what was true about it at four o'clock on the thirtieth. I did not make that rule and I would not have made it and I cannot get round it."
 
 Eight women looked at a man at the end of a table who had put his own name at the top of a page, on purpose, in a kitchen, in front of them, and who had given the reason for it in four words that were about money.
 

@@ -8,7 +8,7 @@ The room had a table in it with four chairs and a telephone on the wall with the
 
 "Who applied for it."
 
-"I did." She put two fingers on the case. "the twenty-seventh, in the afternoon, on a form, at the second desk on the left, and it went up the same day because it is a small thing and there is not one question on it that has to be asked. My name at the foot. My division at the head. The address at the top and *the persons keeping it* underneath."
+"I did." She put two fingers on the case. "The twenty-seventh, in the afternoon, on a form, at the second desk on the left, and it went up the same day because it is a small thing and there is not one question on it that has to be asked. My name at the foot. My division at the head. The address at the top and *the persons keeping it* underneath."
 
 "No reason asked."
 
@@ -50,7 +50,7 @@ He had come up those steps with an argument and she let him have about a minute 
 
 She took her hat off the envelope.
 
-"I have been in nineteen years of this building and I have watched three good officers do that with a thing they cared about. All three of them were protecting somebody. All three spent the next four years being the woman in the building who had somebody in it." She looked at him flatly.
+"I have stood in this room for most of nine years and I have watched three good officers do that with a thing they cared about. All three of them were protecting somebody. All three spent the next four years being the woman in the building who had somebody in it." She looked at him flatly.
 
 "That is the argument, and it took me about eleven minutes to get it out of you this afternoon, and you did not once have a better one."
 

@@ -48,7 +48,7 @@ She turned the lamp down about an inch because the sun had come round onto the y
 
 "How many times."
 
-"Four times in nine years I have had one on an address." She put her hand flat on the sheet.
+"Four times in nine years I have had one on an address." She squared the sheet under her palm and did not let go of it.
 
 "The first one I did not answer and I was wrong. The second one I answered and it was used against a woman at that address and I was wrong again."
 
@@ -58,7 +58,7 @@ She turned the lamp down about an inch because the sun had come round onto the y
 
 She picked the pen up again.
 
-"This is the fourth one. And it is the first one in nine years that I have been in the same building as the people it is about."
+"This one I have counted on my fingers, and it is nine. It is the first of the four in nine years that I have been in the same building as the people it is about."
 
 ## What He Said About It
 
@@ -110,7 +110,7 @@ Then she came round the table and stopped in front of the chair.
 
 "I have never in my life been this frightened," said Runa Sato, "and you are going to find that out in about four minutes and you are not going to be kind about it."
 
-She got the coat off him first because he was in the way and because she wanted to do it and did it the way she did everything, in about nine seconds, and dropped it on the back of the door, and then she got her own belt off over her head with her teeth and dropped it on the chair and did not ask him once for a hand with it.
+She got the coat off him first because he was in the way and because she wanted to do it and did it the way she did everything, in about ten seconds, and dropped it on the back of the door, and then she got her own belt off over her head with her teeth and dropped it on the chair and did not ask him once for a hand with it.
 
 "Right," she said. "Shirt."
 
@@ -118,23 +118,59 @@ He took it off and did not fold it and she did not ask him not to fold it, becau
 
 She is a stone and a half heavier than she looks and all of it is in the shoulders and the back, and the only part of herself she has ever handed to anybody is the part that carries, and she let him have that for about half a second before she took it back.
 
-"You have been treating me like a woman doing an operation," she said. "For ten days. You have been in and out of this city asking me to tell you what your office will call things, and I have answered every question you have put to me, and you have never once in ten days put a hand on me, and this morning you have come up sixty-one steps to give me an instruction in a flat above a chandler's."
+"You have been treating me like a woman doing an operation," she said. "For eleven days. You have been in and out of this city asking me to tell you what your office will call things, and I have answered every question you have put to me, and you have never once in eleven days put a hand on me, and this morning you have come up sixty-one steps to give me an instruction in a flat above a chandler's."
 
 "I did not know you wanted—"
 
 "I have wanted it since you came down those stairs on the nineteenth and I did not tell you, and that was mine."
 
-She got a fist in the front of his shirt and pulled him up off the chair and turned him and put him face to the table. Not roughly, and not fast either, with her hand flat between his shoulder blades for a second and a half, as though she were checking that something was level.
+She got a fist in the front of his shirt and pulled him up off the chair and turned him and put him face to the table. Not roughly, and not fast either, with her palm spread between his shoulder blades for a second and a half, as though she were checking that something was level.
 
 "There. Now you are a man doing an operation about something, and you can tell me what your office calls it and I will tell you what I call it, and it will not be the same word."
 
 She was right about the fear and he had not expected it to be a physical thing.
 
-She was heavier and she was quick and she was not careful, and about a minute in she got her mouth against his ear and told him what the sheet going up the chain at four o'clock was going to cost her, in order, in the flat voice she used for a briefing.
+His hands were on the wood and she did not ask him to move them. She picked the belt up off the chair, put it round both of his wrists and the rail behind him, and did the knot with her teeth the way a woman does a knot she has tied some hundreds of times, and he felt the whole apparatus of his own politeness come apart in about four seconds and understood most of it by the second.
 
-She was gone through the middle of the fourth item and made a noise in her throat about nine seconds later, and she did not stop talking.
+"Turn your head. No. The other way. I want the window behind me and not the door."
 
-"Say it," she said, when she got him turned round again and had him against the wall with the cold of the plaster through the back of his shoulders. "Not to me. Say it in this room."
+The window was behind her. It had been behind her the whole morning.
+
+She got him clear of his trousers and her hand closed on him and he made a noise in the front of his throat that he had not planned to make. She stopped for about half a second to look at what she had done to him, and then started again at the pace she wanted and not the pace he wanted.
+
+"Wrong," she said.
+
+He was not slower.
+
+"That is one of the two," said Runa Sato. "You get two, and I do not tell you which ones they were until the hour is up. That is the rule and the rule is mine, and you may put the whole of it in a report on me."
+
+He put his forehead on the table and she put her hand in his hair at the back of it, once, hard enough to be felt and not hard enough to be a correction, and went on working him with the other hand in the same rhythm, and told him about the window.
+
+"The sun is on the yards and it is going to be on this room by about ten. In about an hour you are going to want to put your coat on because you will think you are cold, and you will not be cold, and I am going to let you think it."
+
+He was cold. That was the part he could not get round for the rest of the morning.
+
+She got her mouth against his ear about a minute in and told him what the sheet going up the chain at four o'clock was going to cost her, in order, in the flat voice she used for a briefing, and she did not stop while she did it.
+
+The names were two. The first was the woman who would open his file when those eight lines were matched against every book in the city that keeps one, and the second was the division that would send it to her, and between them they took about nine minutes off somebody's life and she described both of them the way she describes a route off Cordwain to the sub-level.
+
+She was gone through the middle of the fourth item and made a noise in her throat nine seconds later, and she did not stop talking.
+
+"That is the list and that is the order it will happen in, and it is not a complaint, and if you turn round now and try to discuss it I will stop where I am."
+
+He did not turn round.
+
+She took him off the table and made him sit down on the edge of it with his back off it and her hands underneath him, and she was not careful about that either. Then she got his shirt open down the front and put her mouth on him under the jaw where a man keeps his pulse, and held it there long past the point where he could have counted it, which was the first thing in eleven years he had not been able to reduce to a figure.
+
+He put his hands in her hair and she let him, and that was the whole of the permission and she gave it early and without being asked.
+
+She got down onto her knees on the boards and took him into her mouth, slowly, and then at a speed that was not a consequence of anything he had done, and she looked up at him the entire time with the briefing face still on, handing him dates in order.
+
+"You are going to want to close your eyes," she said around him. "Do not. I have been in four rooms today and in three of them somebody in this city closed his eyes and did not see what he was agreeing to."
+
+So he watched her, and she watched him watching her, and at some point the two of them stopped being able to hold the arrangement up.
+
+"Say it," she said, when she got him turned round and up against the wall with the cold of the plaster through the back of his shoulders. "Not to me. Say it in this room."
 
 He did not know what she meant and she told him, and what she wanted was for him to say the reason clause out loud in a room with a woman in it, which he had done twice in five weeks and never once to anybody who was going to answer.
 
@@ -146,11 +182,19 @@ She made him say it twice more, badly the first time and better the third, and a
 
 "That is better than the first time and you will not believe why," she said. "The first time you were reciting. You are not reciting now and you have not noticed it, and I have, and that is the whole of what I have wanted out of any man for four years and I have never once been able to ask for it because it takes about forty minutes and no officer in this city has forty minutes."
 
-They went on in the flat above a chandler's for about forty minutes, and she set the pace and set it wrong on purpose twice, and neither of them counted it, and she was not tender at any point and told him twice that she was not going to be.
+She had him back to the table for that, and then off it, and then on the mattress against the wall with the sun coming up off the boards and finding her shoulder, and neither of them turned the lamp out and neither of them turned it up.
 
-Somewhere in the middle of it she gave the briefing voice up entirely and started talking in the other one.
+The boards had a cold in them that came up through the wool blanket and she worked around it without once mentioning it, and when she had him where she wanted him she sat back on her heels and looked down the length of him and took her own time.
 
-When she decided she was going to be finished she said so out loud about nine seconds before she was, which she can do, and she came out of it lying along his back with her hand over his sternum and both of them breathing.
+She was not tender at any point, and she said so out loud twice. The first was when he got a hand round the back of her neck and stopped, and she lifted it off him and laid it on the mattress and told him that if he was going to do that then he was going to do it properly, and he did.
+
+The second was a minute or so later and she said it into his shoulder without stopping what she was doing, and by the time she had finished he understood that she had not been telling him anything at all.
+
+The second wrong one came without any warning at all, and it was not the pace. It was that she stopped telling him what anything was going to cost and started telling him what she wanted instead, in the same voice, and he understood about four minutes after that the two were the same voice and had been the whole time.
+
+Somewhere in the middle of it she gave the briefing voice up entirely and started talking in the other one, the one with nothing measured in it, and he found out in about two minutes that he had never in his life heard her use it and that he had been waiting since the nineteenth for it without knowing there was a thing to wait for.
+
+When she decided she was going to be finished she said so out loud nine seconds before she was, which she can do, and she came out of it lying along his back with her hand over his sternum and both of them breathing.
 
 "Nine minutes," she said.
 
@@ -176,7 +220,7 @@ She picked the envelope up off the table and held it.
 
 "You told me last night that you could have refused."
 
-"I can refuse it. It is in my hand at the top of a column and I can strike my name off it in about nine seconds, and this division will put somebody else's name on, and that person will never stand in a kitchen." Her hand went flat on her coat, over the envelope.
+"I can refuse it. It is in my hand at the top of a column and I can strike my name off it in a moment, and this division will put somebody else's name on, and that person will never stand in a kitchen." She kept her palm over the envelope through the wool of her coat.
 
 "I have not refused it, and you cannot protect me from it, and I want you to hear the shape of what I have just done."
 

@@ -8,7 +8,7 @@ Alma Quayle was in the corridor outside the fourth door with the stool out and h
 
 "I have come to ask you what a form is for."
 
-"That is the same question with the manners on it and I have been asked the polite version twice this month." She took a sheet off the rail and held it out of reach. "Sit down on the bench or stand up, and either way I am going to read you something that is printed, because you have had four people tell you things about this building in their own words and you have come upstairs to the person who is paid."
+"That is the same question with the manners on it and I have been asked the polite version twice this month." She took a sheet off the rail and held it out of reach. "There is a bench along that wall and there is a floor beside it, and either way I am going to read you something that is printed, because you have had four people tell you things about this building in their own words and you have come upstairs to the person who is paid."
 
 ## Three Offers
 

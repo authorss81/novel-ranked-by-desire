@@ -70,9 +70,13 @@ He put his thumb on the foot of the sheet.
 
 "Eight lines."
 
-"Eight lines with a date against each of them." Mr Sowerby squared the sheet about.
+"That sheet has seven names on it, and it is a block of twenty-two dwellings with a room in each of them."
 
-"A composition has to be able to answer what it was on the morning of a call. The only way a book answers a question about a day that has already gone is by being able to say how long each person has been standing in the room."
+"A door and eight people on a stair will carry eight lines."
+
+"That is what I am asking about. Will every one of them have a date against it."
+
+"A composition has to be able to answer what it was on the morning of a call. The only way a book answers a question about a day that has already gone is by being able to say how long each person has been standing in the room." Mr Sowerby squared the sheet about.
 
 "So every one of your eight will have a date, and it will be the day she took the address at that door in the ordinary way. It is a clerk's date and not anybody's opinion, and it is the part of that list that will still be there in forty years."
 
@@ -104,7 +108,7 @@ The counter went on being a counter for about four seconds, and there was a queu
 
 "You have told me where it is."
 
-"I have told you where it is, and I have told you it exists, and neither of those is advice." Mr Sowerby lowered his voice about half a tone, which on that floor was the whole of what a clerk could do. "Now I am going to tell you the fourth thing, and then I am going to call the next man, and it is the only opinion I have ever offered anybody at this counter."
+"I have told you where it is, and I have told you it exists, and neither of those is advice." Mr Sowerby lowered his voice about half a tone, which on that floor was the whole of what a clerk could do. "The fourth thing is the only opinion I have ever offered anybody at this counter, and after it I am going to call the next man."
 
 "Go on."
 
@@ -142,6 +146,6 @@ The thing he had learned at the counter was small and it sat badly.
 
 The door he had spent seven years keeping shut was not shut. It had been a form in a drawer in a wing he had been down twice, and it had been there since before he came, and every officer in the building who had ever been handed a thing that would not reconcile could have had it, and about four had.
 
-He had come up to the counter to be told what goes into a description and he had been told, and the description was eight lines long, and on the seventh line from the bottom there was a box that asked whether the head of those premises wished to be the subject of it.
+He had come up to the counter to be told what goes into a description and he had been told, and the description was eight lines long. And the form that put a man in the middle of his own address had to ask one question more than the other one does. He had not seen it and was not going to see it until the sub-level, and he already knew what it said.
 
 He stood in the street outside the Wing for about a minute and a half and then went and got the tram and rode it eleven stops and did not get off at his own stop the first time.

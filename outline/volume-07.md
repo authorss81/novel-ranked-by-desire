@@ -355,7 +355,7 @@ been.** A requisition tabled and refused is not a requisition received.
      DIFFERENT WOMAN IN IT, EXACTLY AS THE PLAN SAID.** A requisitioned flat on Cordwain on the thirtieth
      morning. **She has a return to file by four and she files the truth and it is useless**, because a return
      is a figure and a date and a standing order on a composition does not mention a man. The scene is written
-     out and its body is **1,361 words**. **And what it changes is that she tells him she applied for a
+     out and its body is **2,313 words**. **And what it changes is that she tells him she applied for a
      standing order on that address on purpose and that he cannot protect her from it**, because protection in
      this city is a thing you do to somebody by asking them for something.
    - **319 IS THAT ORDER, AND IT IS NOT A SCENE, AND IT ENDS WITH THE ONLY INSTRUCTION HE WRITES IN THE BATCH.**

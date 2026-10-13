@@ -95,7 +95,7 @@ He stayed where he was.
 
 "That is not a thing you can know."
 
-"I know exactly that. I came into this building nineteen years ago and I have watched four hundred instruments work," said Runa Sato.
+"I know exactly that. I was answering orders on that wall before the ones on it were this length, and I have watched four hundred instruments work," said Runa Sato.
 
 "That thing is a list. It is not a judgement and it is not a charge, and it does not say a word about any of them except where they sleep."
 

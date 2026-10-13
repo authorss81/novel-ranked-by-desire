@@ -68,7 +68,7 @@ Agnete Lindqvist had her sleeve pushed back over her wrist and she looked at him
 
 "The composition would fall," said Runa Sato. "The figure would go from eight to seven for as long as one of us is missing, and the list that issues tomorrow afternoon still says eight, in the order of the stair, with a date under it."
 
-"So somebody gives up the address and pays for the gap," said Petra Ilyin, "and the list goes out anyway. That is the shape of it. I have carried figures for nineteen years and I know the shape of it."
+"So somebody gives up the address and pays for the gap," said Petra Ilyin, "and the list goes out anyway. That is the shape of it. I have carried figures for eleven years and I know the shape of it."
 
 "Give me an hour," said Runa Sato, "and I will tell you what the Field calls that shape, and it is not a discrepancy, it is an evasion, and the person who evades is not the person who gave the address up."
 
@@ -148,7 +148,7 @@ Runa Sato did not go up with her.
 
 "And the figure is eight."
 
-"The figure is eight and I am going to put eight, and I am going to write the whole of it out in the ordinary way, and I am going to send it up at four o'clock tomorrow, because that is what an order is and I have never in nineteen years not answered one." Her palm went down on the table the way it had gone down on a form in a wing on the nineteenth.
+"The figure is eight and I am going to put eight, and I am going to write the whole of it out in the ordinary way, and I am going to send it up at four o'clock tomorrow, because that is what an order is and there has not been one down that wire in nine years that did not go back the same day." Her palm went down on the table the way it had gone down on a form in a wing on the nineteenth.
 
 "And I wanted to tell you tonight, in this kitchen, with you in it, and not at a counter at about half past three in the afternoon."
 
