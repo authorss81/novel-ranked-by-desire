@@ -879,32 +879,209 @@ closed and she is the officer of it for ever, and the chapter that changes that 
    her desk and the rule was hers — and the batch ends with him working out that making a room act is the only
    instrument he has, and deciding never to use it.**
 
-### Movement 3 — CAPABLE (421–430). 7–24 May. **421 AND 422 ARE NOW WRITTEN — SEE §6 MOVEMENT 2. 423 ONWARD IS PLAN AND THE CARD LIST BELOW HAS BEEN SHIFTED BY ONE AGAINST THE PAGE.**
+### Movement 3 — CAPABLE (421–432). 7–27 May. **REWRITTEN 13 OCTOBER 2026 AGAINST THE PAGE BY THE PHASE THAT WROTE 423–432. EVERY CARD BELOW IS WRITTEN AND EVERY WORD OF IT IS WHAT THE PAGE DID.**
 
-**The promise:** a requisition that five people can carry, administered weekly, sitting in a room with five people
-in it, for the rest of the quarter.
+**The promise, as the page kept it:** a requisition that five people can carry, sitting in a room with five people in
+it, for the rest of the quarter — **and the chapter that made it true is about a sealed envelope that has been lying
+under a bill from a chandler at the head of a stair since the twentieth of February.**
 
-- **421 (7 May). THE WEEK IT COULD BE CARRIED. WRITTEN — SEE §6 MOVEMENT 2.**
-- **422 (9 May). THE DAYS A SHEET WAITS. WRITTEN — SEE §6 MOVEMENT 2.**
-- **423–427.** The envelope a subject would have to open (423). **Alma Quayle, and the recusal that only the subject
-  may lift, and he does not lift it (424)** — and the chapter where he says no for the fourth time in nine volumes.
-  **The minute that carries five seals (425). The man on the third floor (426).** The consult she takes to a board
-  (427).
-- **428 (21 May). THE SCENE. RUNA SATO.** §4. **AND NOTE WHAT BATCH 0002 DID TO HER: she decided on the twelfth of
-  April to certify the composition of premises 34-6-118, priced it on the twenty-seventh, refused to invoice it on
-  the twenty-seventh, and then on the third of May un-decided it at a kitchen table and told a Field office she is not
-  attending, with no reason given. THE CERTIFICATION HAS NOT HAPPENED AND 428 IS WHERE SHE OWES THE READER SOMETHING
-  FOR THAT.**
-- **429–430.** Ten lines on a return, and then 430, which is a capable room and a calendar with a date on it. **422's waiting
-  is a sheet in a keeping book with nothing entered against it and the chapter is a clerk entering one line about it; 430's
-  waiting is a room that could carry it and a quarter that will not sit until the thirtieth of June, and the two are not
-  the same chapter and 430 may not reuse 422's title or its scene.** **The movement's own count is thirty-nine days capable
-  and thirty-nine carried, and a title built on that figure would collide in meaning with the days left in the quarter,
-  so 430 is titled *The Calendar Is The Only Door*.**
+- **421 (7 May). THE WEEK IT COULD BE CARRIED. WRITTEN BY BATCH 0002 — SEE §6 MOVEMENT 2.**
+- **422 (9 May). THE DAYS A SHEET WAITS. WRITTEN BY BATCH 0002 — SEE §6 MOVEMENT 2.**
 
-**WHAT CLOSES IN MOVEMENT 3:** *the capacity is public.* **THE COST:** everybody in that room now knows that five
-would carry it and one of the five is the man it is about, and **nothing has been done about it for thirty-nine
-days, and the wall between the thirtieth of December and the thirtieth of March was longer and said two words.**
+- **423 (11 May). THE ENVELOPE HE WOULD HAVE TO OPEN. WRITTEN. 2,977 WORDS.** The kitchen at Ferrier Street at about ten
+  in the morning, five of the eight, and Isolde Marchetti counts a shelf and gets nine where there have been eight since
+  she came in. **THE OBJECT IS A FLAT HAND ENVELOPE WITH PREMISES 34-6-118 ON IT IN A CLERK'S HAND, NO NAME UNDER THE
+  ADDRESS, THE WAX UNBROKEN, AND IT HAS BEEN ON THE SHELF AT THE HEAD OF THE STAIR SINCE THE MORNING OF THE TWENTIETH
+  OF FEBRUARY.** A service on a described subject is served against the head of the premises and not at a door, and the
+  description of those premises was made against the head in October, so the service came to the head of the stair.
+  **NOBODY IN THAT HOUSE HAS EVER OPENED IT AND THE PAGE SAYS WHY: A PERSON WHO OPENS A SERVICE HAS TAKEN THE SERVICE,
+  AND THERE IS NO WAY IN THIS CITY OF PUTTING ONE DOWN AGAIN.** He breaks the wax himself, in the kitchen, in front of
+  four women. **THE FINDING IS A FIGURE AND IT IS THE CHAPTER:** five lines, and the fifth says *Composition of the
+  premises at the date of service: eight.* The requisition has been administered weekly since the first of April against
+  the composition of that premises, and the composition has been **seven** since nine forty-one on the morning of the
+  thirteenth of March, and the difference is one woman at a municipal counter in nine minutes. **THE BATCH'S FIRST
+  IRREVERSIBLE DECISION:** a member of the room at the end of a corridor opened the service on a sheet he is the fifth
+  of, in his own kitchen, and cannot be a stranger to that service again, and the bill for it is that in about four
+  years a stranger with a folder will want to know who else has seen it.
+
+- **424 (13 May). A RECUSAL ONLY THE SUBJECT MAY LIFT. WRITTEN. 2,596 WORDS. `PC-83`'s CHAPTER.** Alma Quayle's own
+  division on a sub-level, at nine in the morning, four words on a slip. **SHE ASKS HIM FOR THE ONLY THING HE CAN GIVE
+  HER: a sentence spoken out loud in front of the clerk of that room, because a recusal is lifted by the subject and by
+  nobody else and there is no sheet for lifting one.** What she wants it for is one line in the minute of the carrying —
+  that the description was made on the twenty-seventh of October, by an officer of a division that was not recused on
+  anything, three months and two days before anybody in that room could have used it. **HE SAYS NO, AND IT IS THE
+  FOURTH TIME IN NINE VOLUMES, AND THE REASON IS FOUND ON THE PAGE AND NOT INHERITED: she has worked out, correctly,
+  what he decided on the evening of the ninth of May at about ten past five, and lifting a recusal in the last three
+  weeks of a quarter in which the Council cannot sit is using the only instrument he has.** He does not confirm it and
+  does not deny it. **THE COST LANDS ON HER AND NOT ON HIM: one line she cannot put anywhere, and a standing she has not
+  had since the fourth of December, and she tells him at the door that a recused member is in the room, at a chair that
+  is not one of the nine, hearing everything and taking no part, and that he is to count her when he builds whatever
+  he builds for the last day of this quarter.** **THE RECUSAL IS STILL UNLIFTED AT THE END OF IT AND IT IS THE THIRTEENTH
+  OF MAY, AND THE DEADLINE HE HAS WASTED IS THE THIRTIETH OF JUNE.**
+
+- **425 (15 May). THE MINUTE THAT CARRIES FIVE SEALS. WRITTEN. 2,543 WORDS.** The corridor off the second landing, the
+  clerk, the keeping book open at the back. **AND THE CHAPTER ANSWERS THE CARD'S OWN OBJECTION ON THE PAGE: A KEEPING
+  BOOK AND A MINUTE ARE NOT THE SAME ANIMAL.** The entry of the ninth of May is a line in a book and it cannot be
+  struck; a minute is a record of a proceeding **and it is also a production, so a copy of it goes to every division
+  holding a part of the thing produced.** She reads the minute of the twentieth of February out in full and it carries
+  **three** seals and says *laid, called, served and heard. Not carried* and, in the chair's own words, *nothing has been
+  taken off any person and nothing will be taken off any person before the thirtieth of the month.* **THAT SENTENCE
+  DIED ON THE THIRTIETH OF MARCH AND NOTHING REPLACED IT, THE ROOM WENT TO FOUR ON THE FIRST OF APRIL AND TO FIVE ON
+  THE FIFTEENTH, A MINUTE DOES NOT EXPIRE AND IS ONLY UNTRUE, AND A CLERK CANNOT CORRECT IT.** The chapter's turn: **a
+  minute of the carrying will carry five seals, one of them his, it names the premises at the head of it four times,
+  and it goes out at four to seven desks — six of which have a woman from that address sitting at them, and the
+  seventh of which has never been named.** And the last discovery is Alma Quayle's: **a copy of that February minute
+  went to her own division, because her division holds the description that is the ground, and she has had it in her
+  own building for eighty-four days and said nothing.**
+
+- **426 (17 May). THE MAN ON THE THIRD FLOOR. WRITTEN. 2,011 WORDS.** Sixty-one iron steps and the third floor of the
+  building off a third court, at about eleven in the morning. **PERRIN SOWE HAS ASKED IN WRITING, THREE YEARS AGO, TO
+  BE LEFT OFF THE DISTRIBUTION OF ANYTHING FURTHER UPON FILE ONE, AND THAT IS WHY THERE IS NO PRODUCTION OFF THAT DOOR
+  AND WHY HE ANSWERS IN CORRIDORS: HANDING A MAN A THING AT HIS OWN DESK IS DISTRIBUTING IT.** He comes out of the
+  door and answers standing up about four feet away, which is not a friendly distance and is the distance of a man who
+  has decided to be exact. **HE CANNOT GIVE A NAME AND SAYS SO IN HER OWN TRADE'S TERMS: HE IS THE FAR END OF THE
+  MACHINE.** He asks for the only thing he has ever asked anybody for, which is not an instrument and is not money:
+  **whether that floor is still going to be there when somebody needs a name on it.** And at the end of the chapter
+  **he does not knock on the second-floor door, and afterwards he stands at a rail above the stairwell and looks down
+  at a floor he has not gone back to since the fourth of February, and neither of them distributes anything.**
+
+- **427 (19 May). THE CONSULT SHE TAKES TO A BOARD. WRITTEN. 1,962 WORDS.** **AGNETE LINDQVIST, NOT A MAN, AND THE
+  BATCH'S SECOND IRREVERSIBLE DECISION.** The corridor outside a room she has not left in eleven years, and then the
+  room: eleven people off a bench, because a body that has never been asked anything is the only kind of body in this
+  city that cannot be made to do a thing. **THE DEADLINE IS A REAL ONE: A BOARD SITS ON THE FIRST OF THE MONTH AND THE
+  BOOK A CONSULT GOES INTO CLOSES ON THE DAY BEFORE, AND THE FIRST OF JUNE IS TWELVE DAYS AWAY, AND IF IT IS NOT IN BY
+  THE TWENTY-NINTH OF MAY IT WAITS A QUARTER AND A QUARTER IS THE FIRST OF OCTOBER.** What she asks is narrow — whether
+  the Church wishes to be counted as one of the places a room's paper goes to — and **it is answered yes in about ninety
+  seconds with no vote, no hands and no minutes taken by anybody.** The cost is her own gift turned against her: **in a
+  room where nobody can be compelled to testify she cannot make eleven people answer her, so she will not know for the
+  rest of her life whether they would have said yes in a room where she could have pushed.** She says it at the kitchen
+  table at half past five with her coat on, and she does not explain the room to anybody, and one woman at that table
+  would have understood it inside four seconds and has said nothing since January.
+
+- **428 (21 May). THE SCENE. RUNA SATO. WRITTEN AND OUT IN FULL. 3,399 WORDS; SCENE BODY 1,367 ON THE RECORDED SPAN
+  `## The Scale` TO `## The Reason Box` EXCLUSIVE OF BOTH, AND 2,866 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH
+  THE PROMPT REQUIRED TO BE PRINTED BESIDE IT; PROBE 22 ON THE RECORDED SPAN AND 29 ON THE LITERAL ONE.** A loading bay
+  off Cordwain at eleven at night with a bench under an awning and a platform scale set into the concrete behind it,
+  **and a scale is there because the bay takes deliveries and nobody in that house had ever asked why.**
+  **SHE IS NOT IMPAIRED AND SHE SAYS SO IN HER OWN MOUTH BEFORE ANYTHING ELSE HAPPENS IN THE ROOM.** Her gift arrives
+  first and her cost is its price: she carries weight, her body absorbs what she carries, she is heavier than she looks
+  by a stone and a half and she has stopped discussing it — **and the weight is not the mechanism and is named on the
+  page as not being the mechanism.** **THE AXIS IS THE ONE THE VOLUME HAD NOT BROKEN AND SHE NAMES IT: Petra broke it on
+  a terms sheet and a promise and a boiler, Nadia broke it by giving no terms at all, both of them broke the clock, and
+  nobody in nine volumes is going to describe this man three times in words.** She says she has wanted him since the
+  twenty-seventh of October, out loud, in a bay, because she did it in a form with a reason box and did not tell him
+  for seven months. **HER ENDING BEAT IS HERS AND SHE IS NOT THANKED, AND IT IS THE ONE THING THE BATCH OWES THE
+  READER FOR A CERTIFICATION SHE HAS NOT GONE TO: SHE TELLS HIM THE CERTIFICATE IS NOT GOING TO HAPPEN ON THE
+  TWENTY-EIGHTH OF MAY AND THAT IT WAS NEVER GOING TO, AND THAT INSTEAD SHE IS GOING TO WRITE A REASON INTO THE REASON
+  BOX OF HER OWN STANDING ORDER OF THE TWENTY-SEVENTH OF OCTOBER — IN HER OWN HAND, UNPRICED, UNINVOICED, AND THE
+  REASON IS GOING TO NAME HIM.** The chapter closes on a figure she wrote on the back of her own left hand on a public
+  scale and never told anybody and never will.
+
+- **429 (23 May). TEN LINES ON A RETURN. WRITTEN. 2,087 WORDS.** The corridor, at about eleven in the morning, and a
+  bundle off the chain with a return in it that **came back up the chain from one of the seven desks because a division
+  that has been sent a paper it has no business holding sends it back up the chain unanswered.** Nine ruled lines and a
+  tenth with a box, five of them carrying a standing, four empty. **ON THE BACK OF IT, IN PENCIL, IN A HAND THE CLERK
+  RECOGNISES AND WILL NOT NAME: A TIME, THE NAME OF A LINE, A FIGURE OF PEOPLE AND A DURATION.** Beatrix Halm is a
+  signal operator on the Ferrier line, forty thousand people move on that line on an ordinary afternoon, and she has been
+  doing it for nine years; **four offices have asked her in writing over the years for something she could put on a
+  paper and she has never given any of them one, and on the twenty-second of May she worked out in four seconds that
+  the sheet has been arriving at her own desk every week for nine years and that the back of it is not part of it.**
+  **SHE CANNOT BE ASKED: a signal operator is a division whether she is on a tram or not, the division has no officer
+  anybody can address, and the officer is on a tram until half past five.** And the bill: **a division that is sent a
+  paper and writes on it and sends it back up the chain has made itself an officer of that paper**, and the return goes
+  into the keeping on the thirtieth of May and nothing in this city can put a line back down. The chapter ends at a
+  quarter to five at the north end of a wall, where the seventh line in nine years has nothing under it.
+
+- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. WRITTEN. 2,124 WORDS.** A board at the end of the corridor with the
+  day's runs chalked on it in a hand that goes up at the end of every line, a woman at it at about ten past ten, and
+  **TEN LINES, NINE OF THEM CHALKED EVERY MORNING AND THE TENTH NEVER CHALKED IN FOUR YEARS.** Underneath, in **paint,
+  put up a quarter ahead by a man from the works who does it in about nine minutes: THE COUNCIL, THE THIRTIETH OF
+  JUNE.** It has not moved since the first of April and it cannot. **A WALKER WHO GETS HIS EYES TO THE BOTTOM OF THAT
+  BOARD HAS FOUND THE ONLY DOOR IN THIS CITY THAT CAN CHANGE ANYTHING BEFORE THE QUARTER ENDS, AND THE ONLY THING ON THE
+  FACE OF A COUNCIL PAPER IS A LIST OF DECISIONS AND A LIST OF STANDINGS, AND A LIST GIVES A REASON NOWHERE TO GO.**
+  **AND THE DOOR AND THE THING COMING THROUGH IT ARE THE SAME OBJECT**, which is what Runa Sato said at a kitchen table
+  on the seventh of May: in about nine weeks somebody who is not cruel and is simply working is going to read a list and
+  read *a room stood at five for fifty-three days holding a sheet that was never carried* as a decision. The chapter ends
+  on the sentence that carries the whole volume in one line: **the instrument he swore on the ninth of May that he
+  would never use again turns out to have two ends.**
+
+- **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. WRITTEN. 2,048 WORDS. `PC-84`'s CHAPTER.** The Vestry clinic, her
+  own rooms over the cold store, and a slip of paper with eleven dates ruled on it and a twelfth ruled and not filled
+  in. **`PC-62` IS NOW ON THE PAGE AND IT IS TESSA OKONKWO WHO PUTS IT THERE.** A held account is administered on the
+  last working day of the last month of its quarter; the tenth line of the last one about the man in the room with no
+  window on the third sub-level is dated the thirtieth of December and is in a different hand and is the most honest
+  sentence in that building; **the next administration for him is the thirtieth of June, and the first administration
+  for a lodged citizen is the thirtieth of June, and both of them go to the same clinic and neither of them was asked
+  for by anybody.** So in one quarter that clinic receives two returns about one matter. **WHAT SHE DOES ABOUT IT IS
+  WRITTEN ON THE FRONT OF THE FILE IN HER OWN HAND BEFORE EITHER OF THEM IS READ: TWO RETURNS, ONE QUARTER, ONE MATTER,
+  AND THE COMPOSITION OF THE ADDRESS — a warning about her own file, not a favour to it, and she is not going to be
+  thanked.** And the cost she will not price: **she takes the damage, she carries a working inventory of every injury
+  she has held, she counts the room she has left in herself, and on the thirtieth of June she reads two returns in one
+  morning and holds what is in them and that is the whole of her evening.** She also says out loud the one thing she has
+  wanted for eleven years — to be permitted to treat somebody without writing the file — **to a man who cannot do
+  anything about it, and she says she chose him on purpose.**
+
+- **432 (27 May). THE FOUR BLOCK OF A SHEET. WRITTEN. 2,197 WORDS.** The counting room two floors under the Exchange,
+  behind the plate office, at about ten in the morning: Hanneke Ruis at the rail with a cup she has not drunk out of and
+  Solveig Rask at the chained real book with her writing hand tied into it by a cord. **AND THE CHAPTER SAYS WHY IT IS
+  A DIFFERENT DOCUMENT FROM EVERYTHING ELSE IN THE MOVEMENT: A CARRY-FORWARD HAS FOUR RULED BLOCKS, THREE OF THEM ARE
+  FILLED FROM DOCUMENTS, AND THE FOURTH IS A NAME PRINTED OFF A CERTIFICATE.** **THE BLOCK THAT NO FORM PROVIDES IS THE
+  FIFTH, AND THERE IS NO FIFTH BLOCK, AND THERE NEVER WAS, AND THE REASON THE ACCOUNT CANNOT BE CLOSED IS SAID ONCE AND
+  IN A ROOM AND BY A WOMAN:** the only thing that closes one is money, the figure is seven, and the books that were
+  able to take that seven were shut to a figure of seven on the morning of the sixteenth of November and have not been
+  opened since. **THE NEW FACT, AND IT IS THE ONE 433 AND 434 STAND ON: THERE IS NO CERTIFICATE FOR THE QUARTER THAT
+  BEGINS ON THE FIRST OF JULY, A FORM CANNOT BE DRAFTED WITHOUT ONE, AND ON THE THIRTIETH OF JUNE A KEEPER IS GOING TO
+  FILL THE FOURTH BLOCK OF A SHEET OUT OF HER OWN MEMORY, IN HER OWN HAND, WITH A NAME ON IT THAT NO CERTIFICATE STANDS
+  BEHIND.** She tells him the same morning, three days early, and says nobody asked her. And **Solveig Rask speaks —
+  four questions about procedure in about sixteen seconds, put the whole of it on herself, and says she will not
+  remember saying them and will not deny them.** The chapter ends on a keeper who drinks nothing and a reminder that
+  there is no thirty-first and three days left in the month.
+
+**WHAT CLOSES IN MOVEMENT 3, ON THE PAGE, IN THREE PARTS.** *The capacity is public and the woman who made it public
+was not asked.* **A SEALED SERVICE WITH THE NUMBER OF THE HOUSE ON IT HAS BEEN READ BY FIVE PEOPLE IN A KITCHEN, AND A
+DIVISION THAT WRITES ON A RETURN HAS MADE ITSELF AN OFFICER OF IT, AND A CHURCH OF ELEVEN THOUSAND PEOPLE HAS SAID YES
+TO BEING COUNTED AS ONE OF THE PLACES A ROOM'S PAPER GOES.** *The only door in this city has a date painted under a
+chalk board and the door and the danger are the same door.* **AND ON THE THIRTIETH OF JUNE A RETURN, A MINUTE AND A
+FORM ALL ARRIVE ON THE SAME DAY, IN THREE BUILDINGS, AND NOBODY CAN MOVE ANY OF THEM.** **THE COST, IN THREE LINES AND
+NOT ONE OF THEM PAID BY THE MAN WHO ARRANGED IT:** a woman who put a piece of paper in a drawer because it says the
+number of people in her house · a woman who has been recused since December who has been refused the only sentence she
+could have said · a woman who has been out of her room twice in eleven years and is going to have to be out of it four
+more times · a woman on a tram who wrote a time on the back of a return because there is nowhere else in this city to
+write one · a woman who is going to write a reason into a box that has been empty for four years, in her own hand,
+with his name in it, and who is not going to be thanked.
+
+### THE EIGHT PLACES MOVEMENT 3 WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN
+
+1. **THE CARD FOR 423 SAID *THE ENVELOPE A SUBJECT WOULD HAVE TO OPEN* AND THE PAGE TURNED IT INTO A DOCUMENT THAT WAS
+   EIGHTY-ONE DAYS OLD AND HAD SAT UNOPENED IN A KITCHEN SINCE THE TWENTIETH OF FEBRUARY, AND THAT SAID EIGHT.** The plan did not foresee a service at all.
+   **What the card should have said was that the requisition's subject finds out what being the fifth actually means
+   physically, and the page found it as a piece of paper with a number on it under a chandler's bill.**
+2. **THE CARD FOR 424 SAID HE WOULD NOT LIFT THE RECUSAL. THE PAGE GAVE HIM A REASON TO LIFT IT AND THE REASON WAS
+   HER.** Alma Quayle had one line to put into a minute of a carrying, and the only instrument that could put it there
+   was him. **A card that says *a refusal* produces a man protecting a woman; a card that says *what she wants* produces
+   a man refusing her for her own sake and being told so.**
+3. **THE CARD FOR 425 SAID *THE MINUTE THAT CARRIES FIVE SEALS* AND THE PAGE WROTE THE MINUTE THAT CARRIES THREE.**
+   The five-seal minute is a thing that has not happened. **What the chapter is about is the sentence in the February
+   minute that protected him and died on the thirtieth of March, and the copies that go wherever a production goes.**
+4. **THE CARD FOR 426 DID NOT SAY THAT A MAN WHO ASKS IN WRITING TO BE LEFT OFF THE DISTRIBUTION CANNOT BE HANDED A
+   THING AT HIS OWN DESK, AND THAT IS THE WHOLE OF THE CHAPTER'S ENGINE AND ITS LAST IMAGE.**
+5. **THE CARD FOR 427 SAID *THE CONSULT SHE TAKES TO A BOARD* AND THE PAGE CHOSE THE ONE BODY IN THIS CITY THAT CANNOT
+   BE ASKED ANYTHING, AND THEN USED THE CHAPLAIN'S OWN GIFT AGAINST HER.** The card did not say that a room in which
+   nobody can be compelled to testify is a room in which nobody can be pushed either.
+6. **THE 428 CARD ASKED FOR A SCENE THAT OWED THE READER A CERTIFICATION. THE CERTIFICATION DOES NOT HAPPEN AND IS NOT
+   GOING TO, AND WHAT SHE GIVES INSTEAD IS A REASON BOX WITH HIS NAME IN IT, WRITTEN BY HER HAND IN FOUR YEARS' TIME
+   FROM NOW, UNPRICED, WHICH IS THE OPPOSITE OF EVERYTHING SHE HAS DONE IN NINE VOLUMES.**
+7. **THE 429 AND 430 CARDS WERE BOTH ABOUT A RETURN AND THE PAGE GAVE THE TENTH LINE OF A RETURN TO ONE WOMAN AND THE
+   TENTH LINE OF A CHALK BOARD TO ANOTHER, AND THE CHAPTERS ARE A RHYME.** The plan had one document; the page has
+   two, and the second is not a document.
+8. **THE 431 CARD SAID *THE COST OF WHAT A LODGED CITIZEN IS ADMINISTERED AGAINST.* THE PAGE PUT THE COST ON A CLINIC
+   THAT HAS BEEN RECEIVING RETURNS ABOUT THE SAME MATTER FOR A QUARTER AND HAS NEVER BEEN TOLD, AND MADE A WOMAN WHO
+   HAS WANTED ONE THING FOR ELEVEN YEARS SAY IT OUT LOID TO A MAN WHO CANNOT GIVE IT TO HER.**
+9. **THE 432 CARD SAID *THE BLOCK NO FORM PROVIDES AND THE REASON THE ACCOUNT CANNOT BE CLOSED.* BOTH ARE TRUE AND BOTH
+   HAVE BEEN SAID TWICE ALREADY IN VOLUME 8 AND ONCE IN VOLUME 9, SO THE PAGE FOUND THE THIRD TELLING AND MADE IT A
+   KEEPER AT A RAIL ON THE MORNING OF THE TWENTY-SEVENTH OF MAY, WITH A NEW REASON ATTACHED THAT THE FIRST TWO
+   TELLINGS DID NOT HAVE: THERE IS NO CERTIFICATE FOR THE NEXT QUARTER AND A KEEPER IS GOING TO WRITE A NAME WITHOUT
+   ONE.** That is what 433 and 434 are standing on, and neither of them is written yet.
 
 ### Movement 4 — WHAT A COMPOSITION IS ADMINISTERED AGAINST (431–440). 25 May – 12 June.
 
@@ -991,8 +1168,8 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | --- | --- | --- | --- |
 | **0001** | **401–412** | 1–21 April | **the restoration, the roll, what nine costs, the ask, the lodge, the line with a gap in it, and the return at five.** Cards written; `workspace/volume-09/batch-0001/PROMPT.md` is the one live phase |
 | **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
-| **0003** | **423–432** | 11 May – 27 May | **the envelope, the recusal he does not lift, the third floor, the division that holds the fourth part, the Runa Sato scene at 428, and the price of what a lodged citizen is administered against.** Carries forward the undecided certification from 418 |
-| **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself** |
+| **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,943 WORDS COUNTED PER FILE AND SUMMED; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
+| **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself.** **THE CARDS AT 433 AND 434 ARE NOW LOADED BY 431 AND 432 AND NOT BY THE PLAN: the first administration of a lodged citizen and the next administration of a held man are the same morning at the same clinic, and a keeper is going to enter a name in the fourth block of a sheet on the thirtieth of June out of her own memory with no certificate behind it** |
 | **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
 `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
 thirty** |
@@ -1179,7 +1356,12 @@ He Is Read (28) · 447 The Fourth Seat Fills And Empties (33) · 448 The Fifth M
 With The Paste Brush (28) · 450 The Name On The Black Tile (26)**
 
 **RE-RUN AGAINST THIS FILE AFTER ITS LAST EDIT. The figures in the bank above were produced by command, the last time
-on 13 OCTOBER 2026 IN THE REVIEW REPAIR OF BATCH 0002, and every one of the fifty is exactly as printed. **The
+on 13 OCTOBER 2026 IN THE REVIEW REPAIR OF BATCH 0002, and every one of the fifty is exactly as printed. **THE RE-RUN
+WAS DONE AGAIN IN THE SAME COMMIT THAT WROTE 423–432: 432 TITLE LINES ACROSS `chapters/`, 432 DISTINCT, `sort | uniq -d`
+EMPTY; THE TEN OF BATCH 0003 MATCHED THIS ROW BY STRING AND BY THE CHARACTER COUNT ON THE SAME LINE, TEN OF TEN, ZERO
+MISMATCHES; CHARACTER LENGTHS 34 / 35 / 34 / 26 / 32 / 30 / 21 / 29 / 33 / 27, WORD COUNTS 7 / 7 / 6 / 6 / 7 / 6 / 5 /
+6 / 8 / 6, EVERY ONE INSIDE THREE TO TWELVE, LONGEST 35, SHORTEST 21. NO TITLE WAS CHANGED BY THIS BATCH AND NO COLLISION
+EXISTS.** **The
 written twenty-two — 401 to 422 — were each matched to this row by string and by the character count in the same
 line, twenty-two of twenty-two, zero mismatches.** Longest **37** (419), shortest 18 (410), word counts 3 to 8, every
 one inside 3 to 12. The twenty-eight that are not written yet, 423 to 450, collide with **0** of the 422 written
