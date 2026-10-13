@@ -14,7 +14,7 @@ This was the first time he had been there in the evening, and the hall was about
 
 "Not you. Somebody before you."
 
-"There have been four." She turned a page over in the book without looking down.
+"There have been three." She turned a page over in the book without looking down.
 
 "The first two were appointed. Appointed means on a roll somewhere, which means there is a tile on that wall with a version of them on it, and neither of them ever sat here at night. The third one was mine, and I have never been on a roll in my life, and there is no tile with my name on that wall anywhere. That is the best thing that has ever happened to me and I would not know how to say it, so I have just said it."
 
@@ -170,7 +170,7 @@ That was the whole of the yes and she said it at a volume that would have carrie
 
 "Do not thank me," she said, "because I have watched this city for twenty years and there is not one instrument in it that can say thank you to a woman and mean it, and I would rather be wanted than thanked and I have said so out loud, in an empty hall, once."
 
-He put his hand out and stopped it about six inches short of the counter and took it back, because he had promised her three things and one of them still had about an hour left on it, and she was standing four feet away and would have been able to count to about nine in the time it took him to change his mind.
+He put his hand out and stopped it about six inches short of the counter and took it back, because there were three things she had put in front of him and he had given back no word to any of them, and one of them still had about an hour left on it, and she was standing four feet away and would have been able to count to about nine in the time it took him to change his mind.
 
 "Say the other thing," said Dagmar Oyelowo. "Whatever it is you have not said. You have said *no* twice tonight and you have not said one single thing out of what you came up here with."
 
@@ -196,4 +196,6 @@ He got to the Vestry arcade at about eight and stood at the doors for a while wa
 
 She was counting. Of course she was counting; she had been counting since the fifteenth of October, and a woman who counts is not a thing anybody in this city has ever found an instrument for, and on the thirteenth of March she had gone to a counter at nine forty-one and taken herself off a list, and here she was on the evening of the eighteenth doing the only thing she knows how to do with a thing she has given away.
 
-He went home up sixty-one steps and did not tell the table, and then he went back down to his own front door and wrote three lines on the back of a kitchen goods docket with a pencil, because a seventh floor and a date and a direction is not a story anybody is going to believe, and because he had promised a woman with no gift at all that he would put it nowhere, and because he was going to have to break that one.
+He went home up sixty-one steps and did not tell the table, and then he went back down to his own front door and wrote three lines on the back of a kitchen goods docket with a pencil.
+
+A seventh floor and a date and a direction is not a story anybody is going to believe, and a woman with no gift at all had put three things in front of him and he had given her nothing back, and he was going to have to break one of the three before he had it inside his own front door.

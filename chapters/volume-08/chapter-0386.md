@@ -14,7 +14,7 @@ She had the kettle on when he came up at about four in the afternoon on the sixt
 
 She did not do it out of a book. She did it off the end of her own fingers, the way she does everything, and she went through it once and did not stop in the middle to enjoy herself.
 
-"Sixteenth of September. A line priced at seven, carried into my rooms in the afternoon, initialled by the man who carried it out at about half past eleven at night and not signed by the woman who gave him the figure. That has been the position for six months and it is a bad one and I told him so at the time and he took it away anyway."
+"Sixteenth of September. A line priced at seven, carried into my rooms in the afternoon, initialled by the man who carried it out at about half past eleven that morning and not signed by the woman who gave him the figure. That has been the position for six months and it is a bad one and I told him so at the time and he took it away anyway."
 
 "It has been in fourteen places in four divisions since October."
 
@@ -22,11 +22,11 @@ She did not do it out of a book. She did it off the end of her own fingers, the 
 
 "And the composition."
 
-"The composition was eight from the day the premises was a premises until the thirtieth of November, when it was certified at nine in the morning by the woman who sleeps there, in her own division, in writing. Eight from that day to the thirteenth of March. Seven since yesterday morning, at nine forty-one, at a counter, in the ordinary way."
+"The composition was eight from the day the premises was a premises until the thirtieth of November, when it was certified at nine in the morning by the woman who sleeps there, in her own division, in writing. Eight from that day to the thirteenth of March. Seven since the morning of the thirteenth, at nine forty-one, at a counter, in the ordinary way."
 
 "Seven and seven."
 
-"Seven and seven, at about half past four yesterday afternoon, after a hundred and seventy-seven days of eight and seven." She put the cup down. "And I have been doing the sum you have been doing, which is that you did not win anything. You paid. Nadia Ferrous paid, in an address she had kept for six years, at nine forty-one in the morning, and the rest of it is arithmetic that was already true when the two of you walked in."
+"Seven and seven, at about half past four on the afternoon of the thirteenth, after a hundred and seventy-seven days of eight and seven." She put the cup down. "And I have been doing the sum you have been doing, which is that you did not win anything. You paid. Nadia Ferrous paid, in an address she had kept for six years, at nine forty-one in the morning, and the rest of it is arithmetic that was already true when the two of you walked in."
 
 ## What The Two Figures Were Doing
 
@@ -46,7 +46,7 @@ He put his hands flat on his knees.
 
 "It can be counted now," he said.
 
-"It can be counted now," said Marguerite Vale. "That is what happened yesterday morning at nine forty-one."
+"It can be counted now," said Marguerite Vale. "That is what happened on the morning of the thirteenth at nine forty-one."
 
 ## What A Correct Line Is Worth
 
@@ -110,4 +110,6 @@ The wind was coming off the tram line and the light in the front room was the li
 
 "Say it."
 
-Marguerite Vale has a table in four rooms off a hotel corridor that she has not eaten a meal at since the autumn before last, and on the thirteenth of March the figure she priced in September became the true figure, and there is not one desk in this city that will send her anything for it.
+Marguerite Vale has a table in four rooms off a hotel corridor that she has not eaten a meal at since the autumn before last.
+
+On the morning of the thirteenth of March the figure she priced in ninety seconds in September became the only figure at that address, and there is not one desk in this city that will send her anything for it, and she ruled a line under that figure with a straight edge and her own hand and she does not know yet what the line was for.

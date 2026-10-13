@@ -4,6 +4,8 @@ The declaration of holding is one sheet of plain paper in his own hand, laid on 
 
 It is now in the keeping of the room where nine people sit, which means it is a document, which means it is not the household's any more.
 
+There is another one in the same keeping, four sheets and sixteen days earlier, with the same name at the top of it and eight words at the foot of it instead of nothing at all, and the room at the end of the corridor does not distinguish between the two of them, which is the whole of what this afternoon is about.
+
 Eight hands went under it.
 
 Seven of those eight people live at premises 34-6-118.
@@ -22,7 +24,7 @@ Wren Kallo put her cup down.
 
 "A witness line is a list of the people who were in a room on a date," she said. "It is not a list of who lives at an address and it never has been and it cannot be made into one, because the day it becomes one is the day a document can be corrected by whoever is standing nearest to it, and a document you can correct is a document nobody has to sign."
 
-She put it down the way she puts things down, and the table let it lie there, and the second one she would not have given has been refused by this table in advance, which was arranged some months ago.
+She put it down the way she puts things down and the table let it lie there. There was a sheet at the end of a corridor with one hole in its line, two fingers wide, and the hole was where he should have been, and all eight of them had known that since January, and not one of them was going to bring it up to a woman who had come in off the doors with her coat on.
 
 "Nadia," said Isolde Marchetti. "She has just told you that there is no instrument for it. Not that I would do it and not that I would not."
 
@@ -42,7 +44,7 @@ She was looking at the sheet in her own head.
 
 "Read the gap out."
 
-"The gap is between the third name and the fifth and it is where a member of the room signs and he has not signed because he cannot, and it has been there since the twenty-ninth of December and it was there on the fourteenth of January." Beatrix Halm shut the book. "Nine things on the line. Eight of them are hands and one of them is nothing."
+"The gap is between the third name and the fourth and it is where a member of the room signs and he has not signed because he cannot, and it has been there since the twenty-ninth of December and it was there on the fourteenth of January." Beatrix Halm shut the book. "Nine things on the line. Eight of them are hands and one of them is nothing."
 
 "Nine," said Lin Hao.
 
@@ -52,7 +54,7 @@ She was looking at the sheet in her own head.
 
 Isolde Marchetti did it in about four sentences and she did not enjoy it.
 
-"The composition was eight on the fourteenth of January and it is seven as of yesterday, and the sheet does not know that, and it is never going to know that, and every copy of it in four divisions is going to carry the fourteenth of January on it for the rest of this decade."
+"The composition was eight on the fourteenth of January and it has been seven since the morning of the thirteenth of March, and the sheet does not know that, and it is never going to know that, and every copy of it in four divisions is going to carry the fourteenth of January on it for the rest of this decade."
 
 "Could we lay a second one."
 
@@ -66,11 +68,11 @@ Isolde Marchetti did it in about four sentences and she did not enjoy it.
 
 She took her coat off then, and put it over the back of a chair, and sat down, which was the moment at which it stopped being an objection and became a thing that was going to happen.
 
-"That is the worst of it," she said, "and I want it said at this table because nobody else is going to say it and I have been carrying it since yesterday morning."
+"That is the worst of it," she said, "and I want it said at this table because nobody else is going to say it and I have been carrying it since the day before yesterday morning."
 
 She put her finger on the cloth where the sheet was not, because the sheet was in a room at the end of a corridor and had been for two months.
 
-"I went to a counter at nine forty-one yesterday to take myself off every paper in this city that has got that address at the head of it. That was the whole point of it. There are six desks that keep lists and I have been on the list of the thirtieth of October for six years and I gave the address up so that the next list is not."
+"I went to a counter at nine forty-one on the morning of the thirteenth of March to take myself off every paper in this city that has got that address at the head of it. That was the whole point of it. There are six desks that keep lists and I have been on the list of the thirtieth of October for six years and I gave the address up so that the next list is not."
 
 "And you are on a witness line," said Lin Hao.
 
@@ -100,11 +102,13 @@ Nobody answered her for about four seconds.
 
 "That is allowed," said Nadia Ferrous. "Put the hour in and nothing else."
 
-## The Foot Of The Sheet
+## The Foot Of The Other Sheet
 
-There is one other thing on that sheet and it is on the foot of it, under the line, in his own hand, and it is the only part of it he wrote for himself.
+There is one other thing and it is not on that sheet. It is on the foot of the other one, under the line, in his own hand, and it is the only part of either of them that he wrote for himself.
 
 He had written it on the twenty-ninth of December at a table under a window at about eleven at night and he had not read it since except on the day he wrote it, and he had never once given any thought to the word answer.
+
+On the twelfth of January he had come down to the foot of a fifth sheet with the pen an inch above it and put it in the tray, because a declaration is not an attestation, and he had said that out loud in his own kitchen in front of eight women and Nadia Ferrous had called it mean.
 
 "Read it to me," he said.
 
@@ -114,11 +118,11 @@ Beatrix Halm did not open the notebook.
 
 "I wrote it."
 
-"You wrote it and you are the only person in this city who knows what is on it and you have not said it out loud in ten weeks."
+"You wrote it and you are the only person in this city who knows what is on it and you have not said it out loud in eleven weeks."
 
 He looked at the table for about a second and then he said it out loud, flatly, in his own kitchen, to eight women, the whole of it, in one breath.
 
-Then he said, "I am going to answer for it and I do not know how, and I have had two months to work out how and the answer is that I have not found one, and I would like it noticed that I have said that in a room and not in a corridor."
+Then he said, "I am going to answer for it and I do not know how, and I have had since the twenty-ninth of December to work out how and the answer is that I have not found one, and I would like it noticed that I have said that in a room and not in a corridor."
 
 "Notice it," said Isolde Marchetti. "Nobody is going to do anything with it. I am going to say one thing and then this is finished."
 

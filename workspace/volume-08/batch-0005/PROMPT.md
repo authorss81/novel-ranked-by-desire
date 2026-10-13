@@ -90,10 +90,20 @@ six in the morning on the last working day of March.**
   and no later chapter may manufacture one and no later chapter may move her.** **Lin Wei is on the eleventh page of a ledger
   of persons taken up to a room and not brought down — a date, a floor and a direction, forty-one lines in twenty years, every
   one of them up — and the book does not come off the desk.** He has a floor, a date and a direction and no means of getting
-  there. **HE PROMISED HER THREE THINGS: not to ask for the page, not to write the floor down, not to come back up the walled
-  road. HE HAS BROKEN THE SECOND ON THE NINETEENTH AND SIGNED IT WITH HIS OWN NAME.**
+  there. **SHE PUT THREE THINGS IN FRONT OF HIM AND HE GAVE BACK NO WORD TO ANY OF THEM: not to ask for the page, not to
+  write the floor down, not to come back up the walled road. THEY ARE HER CONDITIONS, NOT HIS PROMISES, AND NO CHAPTER MAY
+  PRINT THEM AS A PROMISE HE MADE. HE HAS BROKEN THE SECOND ON THE NINETEENTH AND SIGNED IT WITH HIS OWN NAME.**
 - **THERE IS NOW A PIECE OF PAPER IN THIS CITY WITH HIS OWN NAME AT THE FOOT OF IT AND HIS BROTHER'S FLOOR ON THE OTHER
   SIDE**, on the back of a delivery docket in pencil, under a cloth, on a table in a house with eight women in it.
+- **THE LIST OF THE THIRTIETH OF OCTOBER IS A LIST OF PERSONS KEEPING AN ADDRESS AND NOT OF ADDRESSES (`PC-46`, ADDED BY
+  BATCH 0004'S REVIEW PASS BECAUSE 390 GOT IT WRONG AND THE CHAPTER FELL APART).** It was made and dated and issued at
+  four and cannot be corrected, withdrawn or unissued. Nadia Ferrous came off the list being made on the thirteenth; she did
+  not and could not come off the October one, which still carries eight names in six divisions and will in four years. **A
+  later batch may not print that list as a list of addresses, and may not say that a counter entry amended it.**
+- **THE EIGHT WORDS AT THE FOOT ARE ON THE FOUR SHEETS OF THE TWENTY-NINTH OF DECEMBER, NOT ON THE DECLARATION OF THE
+  TWELFTH OF JANUARY, WHOSE FOOT HE LEFT BLANK ON PURPOSE BECAUSE A DECLARATION IS NOT AN ATTESTATION.** Both sheets are in
+  the same keeping and the room does not distinguish them. The gap in the line is the fourth seat and falls between the
+  third name and the fourth.
 
 ## 3. THE HARD LOCKS
 
@@ -105,9 +115,21 @@ CROSS, AND IF THE TWO DISAGREE YOU HAVE THE SAME BUG THE LAST THREE BATCHES HAD.
 card · **400 the thirtieth, at six in the morning, and it is the chapter the ranks wall talks in.** **The interval from the
 twenty-seventh of February to the first of March is already behind you — do not re-derive it and do not print it.**
 
-**VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero, across forty files. **Nine day
-spellings were caught in the first drafts of Movement 4 and the record is at the head of `state/open-threads.md` so that a
-repair does not put them back.**
+**AND HERE IS THE CONVENTION, FIXED ON 13 OCTOBER 2026 BECAUSE BATCH 0004 USED TWO AND A REVIEW CAUGHT IT: A COUNT OF DAYS
+REMAINING IN THE QUARTER IS THIRTY MINUS THE DATE OF THE MONTH, AND IT IS EXCLUSIVE — THE DAY YOU ARE ON IS NOT COUNTED.
+391 is nine days, 392 eight, 393 seven, 394 six, 395 five, 396 four, 397 three, 398 two, 399 one, 400 zero. The sixth of
+February is twenty-two and the thirteenth is seventeen. **Batch 0004 printed twenty on the eleventh and eighteen on the
+thirteenth, both inclusive and both wrong, and eight on the seventeenth, which is wrong under either reading; all three are
+fixed and the working is at the head of `state/open-threads.md`.**
+
+**THE SAME RULE GOVERNS *ago*, AND IT IS THE ONE THAT ACTUALLY GOT THINGS WRONG: ON THE TWENTY-FOURTH THE THIRTEENTH IS
+ELEVEN DAYS BACK AND ON THE TWENTY-EIGHTH IT IS FIFTEEN, AND THE DAY YOU ARE ON IS NOT COUNTED IN THAT EITHER. Batch 0004
+printed six *yesterday*s for the thirteenth on the fifteenth and the sixteenth.** Use the date.
+
+**VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero, across forty files. **Four day
+spellings were caught in the first drafts of Movement 4 — Thursday at 382, Wednesday at 384, Monday at 386, and a
+self-correction at 389 that named the day twice — and the record is at the head of `state/open-threads.md` so that a
+repair does not put them back. This prompt previously said nine and the gate block it cites says four; four is correct.**
 
 **No chapter announces an age.** **Hanneke Ruis, Mrs Imrie, Wanda Rej and Herta Vogel have no age fixed anywhere and none
 may be given. Bertram Sallow and the woman who was in the third seat have none. Dagmar Oyelowo, Wren Kallo, Sun Meiling,
@@ -138,6 +160,16 @@ and again after.** **The template is *terms, a body described in words three tim
 on at least two axes and say so in the chapter's own working, as 369 and 388 did.** No sexual character may be under
 eighteen; an impaired state is never the mechanism; violence and sex stay in separate registers.
 
+**AND THE REGISTER OWES THIS BATCH SOMETHING, BECAUSE OF WHAT IT INHERITED.** Volume 8's explicit scenes are 358, 369, 380
+and 398, and **380 → 398 is eighteen.** That breaches `AGENTS.md`'s "no more than fifteen chapters without a scene" by
+three, and the cause is fixed: 388 was planned as a scene to hold the gap at 8 and `PC-44` forbids giving Dagmar Oyelowo a
+gift, so her chapter is written, it is 3,374 words, and it is not a sex scene and does not pretend to be. **Moving 398 up
+to 395 would close the breach and it has not been done, because hers is the volume's LAST scene and a structural fact
+outranks an interval rule. `outline/volume-08.md` §4 records it in a fourth column with the arithmetic.** So: **391–400 is
+seventeen chapters of register with one scene at the end of it. Carry the thing between two people on the page — attraction,
+jealousy, negotiation, tenderness, and the particular awkwardness of being fought over by people who would have ignored you
+last month — and do not let a whole chapter go by in which nothing between two people is in it.**
+
 **Duplication.** Run the **12-gram scan FIRST**, against every chapter file in `chapters/` including your own ten, and again
 after every repair round. **State the tokenisation and the scope with the figure.** The tokenisation is: markdown heading
 marks stripped; em/en dashes and curly quotation marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every
@@ -153,8 +185,9 @@ thing it counts.
 **Re-run every figure from outside, after your last edit, and record the number you actually got, with the command.**
 
 **Counting.** `cat chapters/volume-08/*.md | wc -w` undercounts by one word per file that lacks a trailing newline. All forty
-files carry exactly one and the two figures agree at 85,811. **Do the same to yours, count per file and sum, and put the
-per-file table in the gate row.**
+files carry exactly one and the two figures agree at **86,248, which is 20,633 for Batch 0004 and 65,615 for 351–380. DO
+NOT USE 85,811; THAT IS THE FIGURE BEFORE THE REVIEW PASS OF 13 OCTOBER 2026, WHICH ADDED 437 WORDS.** Do the same to
+yours, count per file and sum, and put the per-file table in the gate row.
 
 ## 4. THE CARDS
 

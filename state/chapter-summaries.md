@@ -23,7 +23,7 @@
 > In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
 > account he has ever had closes on him and he is a man with a number**.
 
-**`chapters/volume-08/` EXISTS. Chapters 351–390 are on disk, forty files, 85,811 words counted per file and
+**`chapters/volume-08/` EXISTS. Chapters 351–390 are on disk, forty files, 86,248 words counted per file and
 summed** (per-file and concatenated agree; all forty carry exactly one trailing newline). **`outline/volume-08.md` §6
 movements 1, 2, 3 AND 4 have all four been rewritten against the chapters they planned, in the commits that wrote
 them. Movement 2's rewrite SETTLED the carry-forward collision; movement 3's rewrite SETTLED whether a ground can
@@ -36,7 +36,10 @@ officer's name off the certificate, and the officer is Sun Meiling, four times a
 canon changes are recorded at the head of `state/open-threads.md`: eleven from the Volume 8 planning phase, of
 which four are adopted, three partly adopted, one struck and one partly overturned by a later page; eight adopted
 by Batch 0001 (PC-12 to PC-19), eight more by Batch 0002 (PC-20 to PC-27), nine more by Batch 0003 (PC-29 to
-PC-37), and eight more by Batch 0004 (PC-38 to PC-45).** The live gate block is Batch 0004's.
+PC-37), eight more by Batch 0004 (PC-38 to PC-45), **and a ninth added by Batch 0004's REVIEW PASS on 13 October
+2026, `PC-46`, which says that a list of addresses in this city is a list of PERSONS KEEPING AN ADDRESS, because
+390 had it wrong and the chapter's whole nine-envelope construction depended on it.** The live gate block is Batch
+0004's.
 
 **THE VOLUME SENTENCE:** *Lin Hao must find what his brother found and keep the woman who told him*, or **the
 only account he has ever had closes on him and he is a man with a number.**
@@ -44,11 +47,24 @@ only account he has ever had closes on him and he is a man with a number.**
 **THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN, body 2,929** · 369 Agnete Lindqvist — **WRITTEN,
 body 2,570, whole-word probe 36, substring 43** · **380 Tessa Okonkwo — WRITTEN, body 3,409, whole-word probe
 38, substring 47** · **388 Dagmar Oyelowo, immovable — WRITTEN, and it is a scene and it is NOT a sex scene, and
-she has no gift at all and the chapter says so** · 398 Wren Kallo. Gaps 8, 11, 11, 8, 10.
+she has no gift at all and the chapter says so** · 398 Wren Kallo. Gaps 8, 11, 11, 8, 10 **counted as scenes of
+any kind, which is true; counted as EXPLICIT scenes it is 8, 11, 11 and then 380 → 398 = 18, a breach of
+`AGENTS.md`'s fifteen-chapter rule that `outline/volume-08.md` §4 now records in a fourth column with its cause and
+the arithmetic that would close it.**
 **Ch 372 opened Lin Wei's file and nothing before it went near it, and that was the batch's irreversible
 decision.**
 
-### Volume 8, Batch 0004 — Chapters 381–390. THE ELEVENTH TO THE TWENTIETH OF MARCH. **WRITTEN. 20,196 WORDS COUNTED PER FILE AND SUMMED. VOLUME 8 IS 85,811.**
+### Volume 8, Batch 0004 — Chapters 381–390. THE ELEVENTH TO THE TWENTIETH OF MARCH. **WRITTEN. 20,196 WORDS COUNTED PER FILE AND SUMMED BEFORE REVIEW; 20,633 AFTER THE REVIEW PASS OF 13 OCTOBER 2026. VOLUME 8 IS 86,248.**
+
+**THE REVIEW OF 13 OCTOBER 2026 FOUND TWELVE DEFECTS AND REPAIRED ALL TWELVE. NOTHING WAS RESTAGED, NO TITLE CHANGED, NO
+PLOT CHANGED; THE REPAIRS ADDED 437 WORDS. THE FULL RECORD IS `logs/batch-0004.review.log` AND THE LIST IS AT THE HEAD OF
+`state/open-threads.md`. THE FIVE BLOCKING ONES WERE: 390 printing the October list as eight addresses; six wrong
+*yesterday*s at 385 and 386 for a counter visit on the thirteenth; 384 giving the hour as twenty to ten instead of nine
+forty-one; 387 saying eight days when the thirtieth is thirteen out, with 381 and 383's counts also wrong; and 386 saying
+the September initial was made at night. THE SEVEN SECONDARY ONES WERE: 390 saying Nadia Ferrous left the building; 385
+putting the eight words at the foot on the wrong sheet; 387's nine chairs and then fourteen; 385's gap between the third
+name and the fifth; 389's four days; 388's four desk-holders; and 388's *he had promised her three things*, which are
+hers. THE DAY-COUNTING CONVENTION IS NOW FIXED IN THE GATE BLOCK: THIRTY MINUS THE DATE, EXCLUSIVE.**
 
 **381 — The Offer Made At The Kitchen Table.** The eleventh, down the sixty-one at twenty to seven after a dispensary
 floor and five hours' sleep. **Nadia Ferrous does not ask and does not request: she announces the thirteenth and gives the
@@ -113,15 +129,20 @@ superseded is not withdrawn. **THE BILL IS THE REVERSAL OF 383: she gave up an a
 address at the head of it, and she is now the eighth name under the only document in this city with his name at the top of
 it, and in four years a stranger will read the line and not the composition.** Runa Sato says the stranger will have two gaps
 in front of him and will pick the one that looks like carelessness. **BEATRIX HALM FILLS ONE OF HER SIX EMPTY LINES AND IT
-SAYS *thirteenth, counter, nine forty-one* AND NO NAME AND NO ADDRESS AND NO FIGURE.** **And he reads the foot of the sheet
-out loud in his own kitchen for the first time — *I am the man at the top of this page and I will answer for it* — and says
-immediately that he is going to answer for it and has two months' worth of not knowing how.**
+SAYS *thirteenth, counter, nine forty-one* AND NO NAME AND NO ADDRESS AND NO FIGURE.** **THE GAP IS THE FOURTH SEAT AND IT
+FALLS BETWEEN THE THIRD NAME AND THE FOURTH.** **And he reads the foot of the OTHER sheet out loud in his own kitchen for
+the first time — *I am the man at the top of this page and I will answer for it* — and says immediately that he is going to
+answer for it and has had since the twenty-ninth of December not knowing how.** **THE REVIEW PASS OF 13 OCTOBER 2026
+FIXED THREE THINGS HERE AND THE CHAPTER NOW OPENS BY PUTTING BOTH SHEETS IN THE SAME KEEPING: the eight words at the foot
+belong to the four sheets of the twenty-ninth of December and not to the declaration of the twelfth, whose foot he left blank
+on purpose in front of eight women because a declaration is not an attestation; the counter visit is the thirteenth and not
+yesterday; and Wren Kallo's refusal now lands on the hole in the line instead of on a record of a repair.**
 
 **386 — The Price Of Two Figures.** The sixteenth, the Vant's smaller rooms and a table Marguerite Vale has not eaten at
 since the autumn before last. **She has done the arithmetic since September and does it off her fingers.** The whole volume's
 figures, once: the sixteenth of September at seven, brought by him, initialled by him on his way out at about half past
-eleven at night, not signed by her; fourteen copies in four divisions; the stand of the trade that took it four days later;
-eight certified on the thirtieth of November; seven since nine forty-one. **WHAT THE TWO FIGURES WERE DOING FOR A HUNDRED
+eleven in the morning, not signed by her; fourteen copies in four divisions; the stand of the trade that took it four days
+later; eight certified on the thirtieth of November; seven since nine forty-one on the morning of the thirteenth. **WHAT THE TWO FIGURES WERE DOING FOR A HUNDRED
 AND SEVENTY-SEVEN DAYS WAS NOTHING, because a line that disagrees with itself is evidence of nothing and nobody has ever
 laid a requisition against a holding that will not agree with its own figure. AND WHAT A LINE THAT AGREES WITH ITSELF IS
 WORTH IS THAT ANYBODY HOLDING ONE OF THE FOURTEEN COPIES CAN PRODUCE IT AGAINST ANYBODY — and one of the four divisions
@@ -181,11 +202,15 @@ he has been extremely good at that for eight years.*
 **390 — The Notice Served At Four.** The twentieth, and it is not a requisition. **A return of a counter entry: a slip made
 out at nine forty-one on the morning of the thirteenth has gone into the division that keeps the list of persons keeping an
 address, and that division must send the composition of every address on its list back to that list, once, when it moves.**
-Seven, dated the thirteenth of March, signed for by whoever answers the door. **WHY NINE AND NOT SEVEN: the list of the
-thirtieth of October carries eight, it cannot be withdrawn, and a composition is served to the head of a household in her
-own hand as well as to the addresses — so eight notices go to eight names on an October list and a ninth goes to the officer
-who keeps the address, and all nine are inside one building on Ferrier Street, and one of the eight is addressed to a woman
-who does not live there any more.** Nine envelopes go up sixty-one steps in one bundle on the ordinary delivery round.
+Seven, dated the thirteenth of March, signed for by whoever answers the door. **WHY NINE AND NOT SEVEN, AND THIS IS `PC-46`
+AND THE FIRST DRAFT OF IT WAS WRONG AND THE REVIEW PASS CAUGHT IT: the list of the thirtieth of October is a list of PERSONS
+KEEPING AN ADDRESS AND NOT OF ADDRESSES, it cannot be corrected, withdrawn or unissued, and the counter entry of the
+thirteenth took Nadia Ferrous off the list being made that month and not off the one that went out in October — so eight
+notices go to eight NAMES on an October list, seven of which slept at that address on the night of the twentieth and the
+eighth of which is up the same stair in a room that is not that address, and a ninth goes to the officer who keeps the
+address in her own hand, and all nine are inside one building on Ferrier Street. HER ENVELOPE IS ONE SHE PUT ON THE SHELF
+FACE DOWN AND DID NOT CARRY TO THE TABLE, BECAUSE GIVING UP AN ADDRESS NEVER TOOK HER OUT OF THE HOUSE.** Nine envelopes go
+up sixty-one steps in one bundle on the ordinary delivery round.
 **Sun Meiling brings the ninth back down at about a quarter to seven, puts it in a drawer in her own room tonight, and says
 in advance that she is not telling anybody in that kitchen what she is going to do with it and there is going to be no
 argument about it.** The second copy goes to a public post off a third court at about nine on the morning of the twenty-first,

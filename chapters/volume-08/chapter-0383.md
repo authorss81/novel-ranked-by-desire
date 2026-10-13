@@ -122,7 +122,7 @@ He read the slip on the table under the window at about a quarter to six on the 
 
 Premises 34-6-118 had stood at seven since the thirteenth of March and the priced line of the sixteenth of September said seven, and for about eight hours the two figures had been one figure.
 
-Eighteen days to the last working day of the quarter.
+Seventeen days to the last working day of the quarter.
 
 He had been told in a doorway on the afternoon before that a carried line gets administered by somebody he did not appoint, in her own hand, in her own division, four times a year, and that he did not know which of the eight it was going to be, and he had had eight hours to guess and had guessed wrong twice and had been right once.
 

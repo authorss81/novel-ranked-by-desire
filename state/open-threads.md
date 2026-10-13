@@ -5,11 +5,58 @@ FILE. THE BATCH 0003 BLOCK BELOW IT IS MARKED SUPERSEDED AND IS RETAINED IN FULL
 last paragraph split and after the last edit. `AGENTS.md` §`outline/volume-08.md` §9 point 4: a gate record is a claim, and
 the re-run outranks the record. Batch 0003's block is immediately below and is marked superseded rather than deleted.**
 
+## REVIEW OF 13 OCTOBER 2026 — TWELVE FINDINGS, TWELVE REPAIRED, ONE NEW CANON ENTRY. THE WHOLE RECORD IS `logs/batch-0004.review.log`.
+
+**A REVIEW PASS FOUND FIVE BLOCKING AND SEVEN SECONDARY DEFECTS AND EVERY ONE OF THEM WAS LOCAL. NO CHAPTER WAS
+REWRITTEN, NO SCENE WAS MOVED, NO PLOT WAS CHANGED, AND NO GOOD PROSE WAS CUT. WHAT WAS REPAIRED:**
+
+**1. 390 REDEFINED THE LIST OF THE THIRTIETH OF OCTOBER.** It printed eight **addresses** and said that not one of the
+eight was a person living in the house. Canon is the other way round: **it is a list of PERSONS KEEPING AN ADDRESS**, the
+clerk at 383 takes a person off it, and Nadia at 385 has been **on** it for six years. **390 now says eight NAMES; seven of
+them slept at that address on the night of the twentieth and the eighth is up the same stair in a room that is not that
+address.** 390 also claimed the counter entry "amended" the October list, which cannot happen to a list that cannot be
+corrected; it now says what actually happens, which is that she came off the list being made that month and the one that
+went out in October is out of her reach. **THE READING IS NOW `PC-46` AND IT IS FIXED FROM HERE ON.**
+**2. SIX WRONG *yesterday*s.** 385:55/69/73 and 386:25/29/49 called the thirteenth yesterday on the fifteenth and the
+sixteenth. 386:25 also contradicted itself inside one sentence. All six now name the thirteenth or say *the day before
+yesterday*.
+**3. 384:13 GAVE THE COUNTER HOUR AS *about twenty to ten*** — one minute off nine forty-one, in the chapter where the hour
+is load-bearing, and a stray copy of his departure time from the stair. It is nine forty-one now.
+**4. 387:123 SAID *He had eight days*** on the seventeenth, when the thirtieth is thirteen days out. **THE DAY COUNTING
+CONVENTION IS NOW FIXED AND PRINTED BELOW** and 387 says thirteen in both places.
+**5. 386:17 SAID *half past eleven at night.*** Canon is morning, twice, in Marguerite Vale's own mouth (362:73, 362:107)
+and 383:67 gets it right. Corrected.
+**6. 390 SAID NADIA FERROUS *had walked out of it* ON THE THIRTEENTH.** She did not leave the building; she gave up an
+address she was keeping at a door she was not sleeping at, which is `PC-39` and which is why 389, 390 and the kitchen
+between them still count eight women. **390 NOW SAYS THAT IN AS MANY WORDS** and the line is stronger for it.
+**7. 385 PUT THE EIGHT WORDS AT THE FOOT ON THE WRONG SHEET.** They belong to the FOUR SHEETS OF THE TWENTY-NINTH OF
+DECEMBER (356:101, 356:109, 356:119 — he left the foot of the January fifth sheet blank on purpose and Hanneke Ruis told
+him why), and 385 had them on a sheet written on the twelfth, issued on the fourteenth and out to eight desks on the
+fifteenth, which 385's own rule forbids. **385 now opens by putting both sheets in the same keeping, and the whole of the
+section is re-anchored to the twenty-ninth of December.**
+**8. 387 SAID *nine chairs* AND THEN *Fourteen chairs were in it*.** Canon is nine at the table (370:3, 372:39). It is
+now nine round the table and five against the wall.
+**9. 385 PUT THE GAP *between the third name and the fifth*.** On a line of nine with the gap at the fourth seat it falls
+between the third name and the fourth. Corrected.
+**10. 389:57 SAID *he had four days to break two of the three*** and nothing in the chapter or the batch was four days.
+It now uses the chapter's own eleven.
+**11. 388 SAID *There have been four* AND THEN *The third one was mine*** and the reader could not tell whether she was
+the third or the last. There have been three, which also makes her the last line on the desk as well as on the Board.
+**12. 388 SAID *he had promised her three things*.** The three things are **her** conditions and he gives back no word to
+any of them on the page. 388:173 and 388's last paragraph now say so, and **`state/current.md` and
+`workspace/volume-08/batch-0005/PROMPT.md`, which both recorded it as his promise, have been corrected.** 389:121 was
+already honest.
+
+**AND FOUR RECORD DEFECTS, ALL NOW CORRECTED:** the title row's word counts were printed as 4, 6, 6, 6, 5, 5, 6, 6, 5, 5
+and are **7, 6, 6, 4, 8, 5, 6, 6, 5, 5**; `batch-0005/PROMPT.md` said nine day spellings were caught and the gate block
+it cites says **four**; the calendar convention was not fixed anywhere and is now fixed below; and `outline/volume-08.md`
+§4's scene table was carrying a gap breach into the last batch, which is dealt with in §4 of this file.
+
 ## CANON CHANGES PROPOSED BY THIS BATCH, RECORDED BEFORE THE CHAPTERS CARRY THEM
 
 | | Proposed | Where | Status |
 | --- | --- | --- | --- |
-| **PC-38** | **A PERSON KEEPING AN ADDRESS MAY GIVE IT UP AT ANY COUNTER, IN THE ORDINARY WAY; THE ENTRY CARRIES A NAME, A DAY AND AN HOUR AND NOTHING ELSE; IT MAY NOT BE UNDONE BY ANYBODY INCLUDING THE GIVER; AND IT MAY BE TAKEN UP AGAIN BY THAT PERSON AFTER FOUR YEARS AND NOT BEFORE.** | 383 | **ADOPTED. IT IS ALREADY 368'S MECHANISM; 383 PUTS IT ON PAPER AS A FRAMED CARD ON A WALL AND ADDS THE FOUR-YEAR BAR, WHICH IS THE ONLY PART THAT IS NEW.** |
+| **PC-38** | **A PERSON KEEPING AN ADDRESS MAY GIVE IT UP AT ANY COUNTER, IN THE ORDINARY WAY; THE ENTRY CARRIES A NAME, A DAY AND AN HOUR AND NOTHING ELSE; IT MAY NOT BE UNDONE BY ANYBODY INCLUDING THE GIVER; AND IT MAY BE TAKEN UP AGAIN BY THAT PERSON AFTER FOUR YEARS AND NOT BEFORE.** | 383 | **ADOPTED. IT IS ALREADY 368'S MECHANIC; 383 PUTS IT ON PAPER AS A FRAMED CARD ON A WALL AND ADDS THE FOUR-YEAR BAR, WHICH IS THE ONLY PART THAT IS NEW.** |
 | **PC-39** | **A PERSON WHO IS NOT THE HEAD OF A HOUSEHOLD WHO GIVES UP AN ADDRESS HAS THE ENTRY TAKEN AGAINST HERSELF AND NOT AGAINST THE PREMISES, AND THE HEAD OF THE HOUSEHOLD IS UNAFFECTED BY IT.** | 383 | **ADOPTED. IT IS WHY THE COMPOSITION OF PREMISES 34-6-118 WENT TO SEVEN AND NOT TO SIX, AND IT IS THE ONLY REASON THE CARRY-FORWARD IS AVAILABLE AT ALL.** |
 | **PC-40** | **A LINE CARRIED FORWARD IS DRAFTED ON THE FIRST OF A MONTH AND IS ADMINISTERED FROM THAT FIRST; AND A CARRY-FORWARD SHEET'S FOURTH BLOCK IS PRINTED OFF THE CERTIFICATE OF THE COMPOSITION, WHICH IS WHY THE OFFICER WHO CERTIFIED THE COMPOSITION IS THE PERSON WHO ADMINISTRATES THE CARRIED LINE.** | 384 | **ADOPTED. IT IS THE BATCH'S LOAD-BEARING INVENTION AND IT IS `outline/volume-08.md` §6'S "ADMINISTERED BY SOMEBODY HE DID NOT APPOINT", WRITTEN OUT IN A ROOM WITH A FIGURE ON IT. **IT IS NOT RESOLVED AND MOVEMENT 5 MAY NOT UN-DISCOVER IT.** |
 | **PC-41** | **A COMPOSITION IS CERTIFIED FOR THE QUARTER IT IS CERTIFIED IN AND IN NO QUARTER LONGER; SO THE OFFICER WHO KEEPS AN ADDRESS MUST CERTIFY ITS COMPOSITION FOUR TIMES A YEAR, IN HER OWN DIVISION, IN HER OWN HAND, WITH HER OWN NAME AT THE HEAD OF A PRINTED SHEET, FOR AS LONG AS ANY LINE AT THAT ADDRESS IS CARRIED.** | 384 | **ADOPTED. THE CERTIFICATE THAT CARRIES IT IS THE ONE OF THE THIRTIETH OF NOVEMBER, WHICH IS ALREADY CANON AND IS IN SUN MEILING'S HAND.** |
@@ -17,6 +64,7 @@ the re-run outranks the record. Batch 0003's block is immediately below and is m
 | **PC-43** | **THE NINTH TERRACE INTAKE DESK KEEPS A BOUND LEDGER OF PERSONS TAKEN UP TO A ROOM AND NOT BROUGHT DOWN, RULED AS A DATE, A NAME, A FLOOR AND A DIRECTION; THERE ARE FORTY-ONE LINES IN TWENTY YEARS AND EVERY ONE OF THEM WENT UP; THE BOOK DOES NOT COME OFF THE DESK; AND LIN WEI IS ON THE ELEVENTH PAGE.** | 388 | **ADOPTED FROM `PC-7`, WHICH SAID *A PAGE* AND NOT *FORTY-ONE LINES*, *AND EVERY ONE UP*, *OR THE ELEVENTH PAGE*. THE DIRECTION WORD AND THE COUNT ARE FIXED FROM HERE ON.** |
 | **PC-44** | **DAGMAR OYELOWO HAS NO GIFT AT ALL AND IS THE ONLY PARTNER IN THE BOOK WITH NONE; SHE HAS NEVER BEEN ON A ROLL AND THERE IS NO TILE WITH HER NAME ON THE BOARD; A RANK NINE CAN PUT A PERSON ON A ROLL AND SHE HAS REFUSED IT; AND WHAT SHE WANTS IS TO BE ASKED, NOT TO BE PAID OR PLACED.** | 388 | **ADOPTED. IT IS `bible/characters.md`'S ONE LINE WRITTEN OUT, AND IT IS NOT A NEW GIFT AND MAY NOT BE TURNED INTO ONE.** |
 | **PC-45** | **A DOCUMENT WITH A PERSON'S NAME AT THE FOOT OF IT IS A DOCUMENT AND NOT A STORY, AND IT MAY BE PRODUCED BY ANYBODY WHO FINDS IT, AND THE ONLY PERSON WHO CAN PREVENT THAT IS THE PERSON WHO PUT HIS NAME TO IT.** | 389 | **ADOPTED. IT IS THE REASON 389 IS THE BATCH'S SECOND IRREVERSIBLE ACT AND IT IS THE INVERSE OF 372, WHERE HIS OWN NAME WAS NOT ON THE RECEIPT AND THERE WAS NO PLACE ON THAT FORM WHERE A NAME COULD HAVE GONE.** |
+| **PC-46** | **A LIST OF ADDRESSES IN THIS CITY IS A LIST OF PERSONS KEEPING AN ADDRESS AND NOT OF ADDRESSES. IT IS MADE, DATED AND ISSUES AT FOUR IN THE AFTERNOON; IT CANNOT BE CORRECTED, WITHDRAWN OR UNISSUED; A PERSON WHO GIVES UP AN ADDRESS COMES OFF THE LIST BEING MADE AND NOT OFF ONE THAT HAS ALREADY GONE OUT; AND A COMPOSITION THAT MOVES IS SENT BACK TO EVERY NAME ON THE LIST THAT LAST CARRIED IT, WHICH IS WHY NINE NOTICES GO OUT AND NOT SEVEN.** | 390 | **ADOPTED ON REVIEW, 13 OCTOBER 2026. IT IS NOT NEW LAW — IT IS `PC-38` AND 368'S MECHANIC APPLIED TO A LIST INSTEAD OF A COUNTER — AND 390 HAD IT WRONG AS EIGHT ADDRESSES, WHICH COLLAPSED THE NINE-ENVELUE CONSTRUCTION AND CONTRADICTED 360, 368, 383 AND 385. **A LATER BATCH MAY NOT PRINT THE THIRTIETH OF OCTOBER LIST AS A LIST OF ADDRESSES.** |
 
 **AND THE THREE FACTS 381 INHERITED AND DID NOT RE-DERIVE:** **the two sightings of `S.M.` are the sixteenth of January and
 the twenty-sixth of February, inside six weeks and not in one month, and the initials are on the DRAFT — the second line of
@@ -24,46 +72,73 @@ the index, in the margin against the fourth — and the reply is the third line 
 chapter in 381–390 mentions either sighting, and no chapter puts the initials against the reply. **`PC-28` is still open and
 still unfixed, and no chapter in 381–390 carries any figure from 359's section head.**
 
+## THE DAY-COUNTING CONVENTION, FIXED ON 13 OCTOBER 2026, BECAUSE THE BATCH USED TWO AND A LATER PHASE WILL
+
+**VOLUME 8 COUNTS DAYS TO THE LAST WORKING DAY OF THE QUARTER BY SUBTRACTING THE DAY OF THE MONTH FROM THE THIRTHIETH, AND
+IT DOES NOT COUNT THE DAY IT IS ON.** It is **exclusive**, and it is the convention five of the six uses in this batch.
+Worked, with every one of them re-checked on the day of the review:
+
+| Chapter | Date of March | Days printed | 30 − date | |
+| --- | --- | --- | --- | --- |
+| 381 | the eleventh | **nineteen** | 19 | **WAS TWENTY AND WAS WRONG ON REVIEW** |
+| 383 | the thirteenth | **seventeen** | 17 | **WAS EIGHTEEN AND WAS WRONG ON REVIEW** |
+| 384 | the fourteenth | sixteen | 16 | correct as first written |
+| 387 | the seventeenth | **thirteen** | 13 | **WAS EIGHT, TWICE, AND WAS WRONG ON REVIEW** |
+| 389 | the nineteenth | eleven | 11 | correct as first written |
+| 390 | the twentieth | ten | 10 | correct as first written |
+
+**AND THE SAME CONVENTION GOVERNS *ago*: ON THE FIFTEENTH, THE THIRTEENTH IS *THE DAY BEFORE YESTERDAY*, NOT *YESTERDAY*; ON
+THE SIXTEENTH IT IS *THE DAY BEFORE YESTERDAY* AS WELL.** Six chapters-worth of *yesterday*s were wrong on this and all
+six are fixed. **A COUNT OF ELAPSED DAYS IS A DIFFERENT SENTENCE FROM A COUNT OF DAYS REMAINING AND MAY BE WRITTEN EITHER
+WAY; A COUNT OF DAYS REMAINING IN A QUARTER HAS ONE ANSWER AND IT IS 30 MINUS THE DATE.**
+
 ## Batch 0004 gates, re-run by command on 13 OCTOBER 2026 against the files as they stand after the last edit
 
 ```
 FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0390.md, **forty files, no gap and no file
                  outside 0351-0390.**  `ls chapters/*/chapter-*.md | wc -l` -> **390.**
                  **No chapter 391 exists anywhere in the repository.**
-VOL 8 WORDS      **85,811, counted per file and summed.** Per file: 351 **2,167** · 352 **2,240** · 353 **1,734** ·
+VOL 8 WORDS      **86,248, counted per file and summed.** Per file: 351 **2,167** · 352 **2,240** · 353 **1,734** ·
                  354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** · 359 **2,260** ·
                  360 **2,594** · 361 **2,401** · 362 **1,842** · 363 **2,204** · 364 **2,170** · 365 **2,054** ·
                  366 **2,080** · 367 **1,983** · 368 **2,011** · 369 **3,089** · 370 **2,137** · 371 **2,053** ·
                  372 **2,212** · 373 **1,604** · 374 **1,909** · 375 **1,842** · 376 **1,700** · 377 **1,696** ·
-                 378 **1,878** · 379 **1,935** · 380 **4,186** · 381 **2,135** · 382 **2,052** · 383 **2,043** ·
-                 384 **2,104** · 385 **1,858** · 386 **1,904** · 387 **1,810** · 388 **3,344** · 389 **1,115** ·
-                 390 **1,831**.
-                 **BATCH 0004 ALONE = 20,196** (85,811 − 65,615).
+                 378 **1,878** · 379 **1,935** · 380 **4,186** · 381 **2,135** · 382 **2,052** · 383 **2,043** · 384 **2,102** · 385 **2,048** · 386 **1,950** · 387 **1,825** · 388 **3,374** · 389 **1,123** · 390 **1,981**.
+                 **BATCH 0004 ALONE = 20,633** (86,248 − 65,615).
                  **COUNT PER FILE AND SUM. NEVER from a concatenation.** For this volume the two agree exactly —
-                 `cat chapters/volume-08/*.md | wc -w` returns **85,811** and the batch bracket returns **20,196** —
+                 `cat chapters/volume-08/*.md | wc -w` returns **86,248** and the batch bracket returns **20,633** —
                  because all forty files carry a trailing newline and none carries a trailing blank line, both checked
                  file by file.
-                 **TWO ARE OUTSIDE THE 1,800–2,700 BAND AND BOTH ARE DELIBERATE.** 389 (**1,115**) is the deliberately
+                 **TWO ARE OUTSIDE THE 1,800–2,700 BAND AND BOTH ARE DELIBERATE.** 389 (**1,123**) is the deliberately
                  short aftermath the card asked for, at roughly the length the card named, and it is the shortest chapter in
-                 the volume; 388 (**3,344**) is the volume's second scene and it is the longest chapter in Volume 8,
+                 the volume; 388 (**3,374**) is the volume's second scene and it is the longest chapter in Volume 8,
                  beating 380's 4,186 by nothing and 358's 3,998 by nothing, and **it is shorter than 380 and the reason is
                  printed on the page: it is not a sex scene, it has no terms sheet, no counted minute, no kettle and no
                  body described twice, and its whole second half is a woman refusing to be put on a roll.**
+                 **THE TWELVE REPAIRS OF THIS REVIEW PASS ADDED 437 WORDS TO A 20,196-WORD BATCH AND NONE OF THEM IS A
+                 NEW SCENE, A NEW CHARACTER OR A NEW BEAT.**
 TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
                  **390 title lines, 390 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
                  The ten at 381–390 are printed exactly as banked in `outline/volume-08.md` §10 and **not one was
-                 changed**; longest of the ten 35 characters; word counts 4, 6, 6, 6, 5, 5, 6, 6, 5, 5; 0 beginning
-                 with *What*; 0 built out of *there is no* / *nobody* / *nothing* / *what*.
+                 changed**; longest of the ten 35 characters; **word counts 7, 6, 6, 4, 8, 5, 6, 6, 5, 5 — THE PREVIOUS
+                 ENUMERATION OF 4, 6, 6, 6, 5, 5, 6, 6, 5, 5 WAS WRONG IN THREE PLACES AND THE REVIEW PASS CAUGHT IT**;
+                 every one inside 3 to 12; 0 beginning with *What*; 0 built out of *there is no* / *nobody* / *nothing* /
+                 *what*.
 MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0**, across the ten.
                  Bold spans **0**. **Italic spans 20, and every one of the twenty is a document, a form, a field name or a
                  phrase and not a sentence.** Method beside the figure, because Batch 0002 recorded a repair of exactly
                  the mistake of counting delimiters in exactly this row:
                  `re.findall(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)', s, re.S)` over each file.
-                 **381: 0. 382: 0. 383: 3** — the counter's card on the wall, the counter's slip, and Beatrix Halm's one
-                 written line. **384: 4** — *carry-forward* and the four block headings. **385: 1** — the certificate the
-                 composition is carried on. **386: 0. 387: 6** — the five parts as the clerk read them. **388: 2** — the
-                 intake ledger's line, and *nineteen* in her speech. **389: 2** — the four lines he wrote, twice.
-                 **390: 2** — *composition*, and *do not open it*.**
+                 **AND THE DESCRIPTIONS IN THIS ROW WERE RE-CHECKED ON THE REVIEW PASS AND THREE OF THEM WERE WRONG,
+                 BECAUSE THEY NAMED WHAT EACH SPAN WAS AND NOBODY HAD LOOKED AT WHAT IT ACTUALLY SAYS.**
+                 **381: 0. 382: 0. 383: 3** — the slip, *Address given up. Premises 34-6-118. Nadia Ferrous. Thirteenth
+                 day of March. Nine forty-one.* · the rule printed in the frame on the wall · and one written word in
+                 Beatrix Halm's hand, *good*. **384: 4** — the heading of the carry-forward and the three block headings he
+                 watches her fill in. **385: 1** — *thirteenth, counter, nine forty-one*, the one line she fills. **386: 0.
+                 387: 6** — the word on the fourth seat's sheet, *vacant*, and the five parts as the clerk read them
+                 aloud. **388: 2** — the ledger's line as he reads it back off the page, and one syllable of hers, *no*.
+                 **389: 2** — the three lines and the fourth. **390: 2** — the served notice as a document, *Composition.
+                 Premises 34-6-118. Seven. From the thirteenth day of March.*, and *do not open it*.**
 PARAGRAPHS       over roughly 90 words: **0**.  over roughly 120 words: **0**.  **Longest paragraph in the ten is 90.**
                  **THE FIRST PASS OF THIS BATCH HAD TWENTY-ONE PARAGRAPHS OVER NINETY AND EVERY ONE WAS CUT AT A SENTENCE
                  BOUNDARY, AND THE CUTS WERE RE-RUN AFTERWARDS BECAUSE A REPAIR THAT MOVES THE NUMBER IS NOT DONE.** The
@@ -93,16 +168,17 @@ AGES             **No chapter announces an age.** `bible/characters.md` fixes th
                  batch or are named in it and none of them is given one, and neither is Lin Hao, Marguerite Vale, Nadia
                  Ferrous, Wren Kallo, Sun Meiling, Beatrix Halm, Isolde Marchetti, Runa Sato, Petra Ilyin,
                  Anouk Ferreira or Tessa Okonkwo.**
-                 **A SPAN OF YEARS IS PERMITTED AND WAS USED — thirty years, ten weeks, eleven years of a book, five months,
-                 forty-one lines in twenty years, six weeks, four in the morning — AND AN AGE IS NOT.**
+**A SPAN OF YEARS IS PERMITTED AND WAS USED — thirty years, ten weeks, eleven years of a book, five months,
+                  forty-one lines in twenty years, six weeks, four in the morning — AND AN AGE IS NOT.**
 BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know **0** ·
                  there is no form **0** · there is no column **0** · the record remained **0** · nobody asked **0** ·
                  nobody was thanked **0**.  **Nine of nine, in Volume 8, re-run after the last edit.**
                  **TWO WERE IN DRAFTS AND ARE RECORDED HERE SO A REPAIR DOES NOT PUT THEM BACK: `there is no form anywhere
                  that says how many of the eight` at 386, now `nothing anywhere on paper this morning says how many of the
-                 eight`; and `nobody asked her for a second one` at 385, now `the second one she would not have given has
-                 been refused by this table in advance`.** `outline/volume-08.md` §4 and every gate block in this file have
-                 now been hit by this same pair between them, and they are the two a repair is most likely to
+                 eight`; and `nobody asked her for a second one` at 385, now — after the review pass of 13 October found
+                 the repair unreadable — `there was a sheet at the end of a corridor with one hole in its line, two fingers
+                 wide, and the hole was where he should have been`.** `outline/volume-08.md` §4 and every gate block in this
+                 file have now been hit by this same pair between them, and they are the two a repair is most likely to
                  reintroduce while fixing something else.
 12-GRAM          **Scope: the ten files 381–390 against every one of the other 380 chapter files in `chapters/`, and against
                  each other. Tokenisation: markdown heading marks stripped; em/en dashes and curly quotation marks folded
@@ -130,21 +206,32 @@ BANNED           his eyes widened **0** · he couldn't believe it **0** · sudde
                  failure mode Batch 0002 recorded at 363 and the one this gate exists to catch.** **A HUNDRED AND ONE OF THE
                  ONE HUNDRED AND TWENTY-SIX WERE ALSO 389 REPRODUCING 388'S DOCKET TWENTY WORDS VERBATIM**, which a
                  reader has just read three paragraphs earlier.
+                 **THE REVIEW PASS OF 13 OCTOBER INTRODUCED ONE NEW TWELVE-GRAM AND CUT IT IN THE SAME BREATH.** 385's new
+                 sentence about why he left the foot of the fifth sheet blank reproduced 356:119 verbatim for twelve tokens,
+                 and it went because the clause re-explained a principle the reader was given the chapter before, which is the
+                 thing `AGENTS.md` forbids before the scan forbids it. **A REPAIR IS RUN THROUGH THIS ROW TOO.**
 11-GRAM          **Same tokenisation and scope, run second, as the prompt requires.** **4 distinct n-grams, and all four are
                  the requisition's printed subject line** (*the account of thirty years standing at premises 34-6-118*,
                  which appears in 356, 357, 370, 371, 372 and 387 across six chapters of the volume because it is what the
                  sheet is about). **Zero non-document matches.**
-8-GRAM           **Same tokenisation and scope, run third.** **270 directed rows across the ten**, and the scan was
-                 filtered to the rows that are either wholly inside 381–390 or inside two chapters' distance of each other:
-                 **37 rows.** **Of those thirty-seven: twenty-three are the manuscript's own stock constructions repeated
-                 across ten to thirty chapters — *a room at the end of a corridor*, *there is no instrument in this city
-                 that*, *in about four years somebody is going to*, *the only person in this city who can*, *i would like it
-                 noted that i* — and are the book's texture, not duplication; eight are documentary or a form**
-                 (*thirty years standing at premises 34-6-118*, *the priced line of the sixteenth of September*, *at about
-                 half past eleven in the morning*, *the account of thirty years*), **and six were real and were repaired**:
-                 383's section heading against 382's last line, 383 against 390 on the six desks that keep lists, 388
-                 against 389 on the docket and on her third condition, 385 against 359 on the hour of an arrival, and
-                 384 against 388 on the sixty-one steps.
+8-GRAM           **Same tokenisation and scope, run third, and re-run after the review pass. 691 directed rows across the
+                 ten**, and the scan was filtered to the rows that are either wholly inside 381–390 or inside two chapters'
+                 distance of each other: **37 rows before the review pass and 1 row after it.**
+                 **The one that is left is 380 and 381 on *on the last working day of a quarter***, which is institutional
+                 vocabulary and is the same class as the printed forms above.
+                 **OF THE ORIGINAL THIRTY-SEVEN: twenty-three were the manuscript's own stock constructions repeated across
+                 ten to thirty chapters — *a room at the end of a corridor*, *there is no instrument in this city that*, *in
+                 about four years somebody is going to*, *the only person in this city who can*, *i would like it noted that
+                 i* — and are the book's texture, not duplication; eight were documentary or a form** (*thirty years
+                 standing at premises 34-6-118*, *the priced line of the sixteenth of September*, *at about half past eleven in
+                 the morning*, *the account of thirty years*), **and six were real and were repaired**: 383's section heading
+                 against 382's last line, 383 against 390 on the six desks that keep lists, 388 against 389 on the docket and
+                 on her third condition, 385 against 359 on the hour of an arrival, and 384 against 388 on the sixty-one
+                 steps.
+                 **THE REVIEW PASS CUT THIRTY-SIX OF THE THIRTY-SEVEN WITHOUT LOSING ONE BEAT.** Most of them fell out of
+                 the rewrites of 385's foot of the sheet, 390's list and 390's eighth envelope; the last went because 386's
+                 corrected hour now reads *at about half past eleven that morning* and not *in the morning*, which had put
+                 the same documentary eight-gram in three chapters of one batch.
 BORROWED BODIES `outline/volume-08.md` §4 read before 388 was written and checked against 308, 318, 329, 340, 350, 358,
                  369 and 380. **ZERO borrowed claims.** **The only temple is Lin Hao's grey at the LEFT temple and
                  `right temple` is still zero occurrences in the book.** Agnete Lindqvist has no mark and gained none.

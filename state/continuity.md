@@ -7,10 +7,15 @@ open questions at the end of §6: whether 382's refusal protects Nadia Ferrous, 
 requisition, and what a carry-forward actually does when it happens.**
 **THE NEXT PHASE IS A WRITING PHASE: `workspace/volume-08/batch-0005/PROMPT.md`, which writes 391–400 and no prose about
 anything else. IT IS THE LAST BATCH OF VOLUME 8.**
-**Batch 0004 is 20,196 words counted per file and summed. Volume 8 is 85,811 words long and has ten chapters to go.**
+**Batch 0004 is 20,633 words counted per file and summed. Volume 8 is 86,248 words long and has ten chapters to go.**
 **Batch 0003's and Batch 0002's blocks are below this one and are retained in full as the positions at Chapter 380 and
-Chapter 370. The live gate block is Batch 0004's and it is at the head of `state/open-threads.md`, where `PC-38` to `PC-45`
+Chapter 370. The live gate block is Batch 0004's and it is at the head of `state/open-threads.md`, where `PC-38` to `PC-46`
 are recorded.**
+
+**AND ON 13 OCTOBER 2026 THE BATCH WENT THROUGH ITS REVIEW PASS — `logs/batch-0004.review.log` — WHICH FOUND TWELVE DEFECTS
+AND REPAIRED ALL TWELVE. NOTHING WAS RESTAGED, NO TITLE CHANGED AND NO PLOT CHANGED. SIX CONTINUITY ITEMS BELOW WERE
+TOUCHED BY IT AND EVERY ONE OF THEM NOW READS THE WAY THE CHAPTER READS: items 3 (hour and dates), 7 (which sheet carries
+the eight words), 13 (whose three things they are), and a NEW item 15, `PC-46`.**
 
 ### 0. WHAT CHAPTERS 381–390 ADDED TO THE CONTINUITY OF THIS BOOK, AND CHAPTER 391 MAY NOT CONTRADICT ANY OF IT
 
@@ -41,7 +46,11 @@ are recorded.**
    CANNOT BE MADE INTO ONE, BECAUSE THE DAY IT BECOMES ONE IS THE DAY A DOCUMENT CAN BE CORRECTED BY WHOEVER IS STANDING
    NEAREST TO IT. A NAME ON A WITNESS LINE CANNOT BE STRUCK, AND A SECOND DECLARATION DOES NOT FIX ANYTHING BECAUSE
    SUPERSEDED IS NOT WITHDRAWN.** *So Nadia Ferrous is the eighth name under a document with his name at the top of it, at a
-   premises of seven, and she cannot be got off it, and she gave up an address to get off exactly that kind of paper.* (385)
+   premises of seven, and she cannot be got off it, and she gave up an address to get off exactly that kind of paper.*
+   **AND THE GAP IN THAT LINE IS THE FOURTH SEAT AND IT FALLS BETWEEN THE THIRD NAME AND THE FOURTH; AND THE EIGHT WORDS AT
+   THE FOOT — *I am the man at the top of this page and I will answer for it* — ARE ON THE FOUR SHEETS OF THE TWENTY-NINTH
+   OF DECEMBER AND NOT ON THE DECLARATION OF THE TWELFTH, WHOSE FOOT HE LEFT BLANK ON PURPOSE BECAUSE A DECLARATION IS NOT AN
+   ATTESTATION. BOTH SHEETS ARE IN THE SAME KEEPING AND THE ROOM DOES NOT DISTINGUISH THEM.** (385, 356)
 8. **A LINE THAT DISAGREES WITH ITSELF IS EVIDENCE OF NOTHING, AND NOBODY HAS EVER LAID A REQUISITION AGAINST A HOLDING THAT
    WILL NOT AGREE WITH ITS OWN FIGURE. A LINE THAT AGREES WITH ITSELF CAN BE PRODUCED BY ANYBODY HOLDING A COPY, AND THERE ARE
    FOURTEEN IN FOUR DIVISIONS, AND ONE OF THE FOUR DIVISIONS DOES NOT SIT IN THE WING, KEEPS NO LIST OF ADDRESSES, AND HAS HAD
@@ -62,16 +71,22 @@ are recorded.**
     IS NO TILE ON THE BOARD WITH HER NAME ON IT. HE CAN PUT A PERSON ON A ROLL AND HE OFFERED IT AND SHE REFUSED IT IN ONE
     SYLLABLE.** *What she wants is to be asked. Four hundred people have come up that road in twenty years and eleven came back
     twice and not one has ever asked her about herself.* (388, PC-44)
-13. **HE HAS PROMISED HER THREE THINGS AND HAS BROKEN ONE OF THEM: NOT TO ASK FOR THE PAGE, NOT TO WRITE THE FLOOR DOWN, AND
-    NOT TO COME BACK UP THE WALLED ROAD.** *He wrote three lines on the back of a delivery docket in pencil on the morning of
-    the nineteenth and a fourth line with his own name under it, ninety seconds after making the third. He has not been up that
-    road since.* (388, 389)
+13. **SHE PUT THREE THINGS IN FRONT OF HIM AND HE GAVE BACK NO WORD TO ANY OF THEM: NOT TO ASK FOR THE PAGE, NOT TO WRITE THE
+    FLOOR DOWN, AND NOT TO COME BACK UP THE WALLED ROAD. THEY ARE HER CONDITIONS AND NOT HIS PROMISES, AND HE HAS BROKEN
+    ONE OF THEM.** *He wrote three lines on the back of a delivery docket in pencil on the morning of the nineteenth and a
+    fourth line with his own name under it, ninety seconds after making the third. He has not been up that road since.* (388,
+    389)
 14. **A DOCUMENT WITH A PERSON'S NAME AT THE FOOT OF IT IS A DOCUMENT AND NOT A STORY, IT CAN BE PRODUCED BY ANYBODY WHO FINDS
     IT, AND THE ONLY PERSON WHO CAN PREVENT THAT IS THE PERSON WHO PUT HIS NAME TO IT.** *It is the exact inverse of the
     transfer receipt of the twenty-third of February, which has no place on it where a name could have gone.* (389, PC-45)
-15. **A COMPOSITION IS SERVED TO THE HEAD OF A HOUSEHOLD IN HER OWN HAND AS WELL AS TO THE ADDRESSES, AND A LIST OF ADDRESSES
-    ONCE ISSUED CANNOT BE WITHDRAWN. THE NOTICE OF THE TWENTIETH OF MARCH WENT TO NINE ADDRESSES AND NOT SEVEN, ALL INSIDE ONE
-    BUILDING ON FERRIER STREET, AND ONE OF THE EIGHT WAS ADDRESSED TO A WOMAN WHO DOES NOT LIVE THERE ANY MORE.** (390)
+15. **A LIST OF ADDRESSES IN THIS CITY IS A LIST OF PERSONS KEEPING AN ADDRESS AND NOT OF ADDRESSES. IT IS MADE, DATED AND
+    ISSUES AT FOUR IN THE AFTERNOON; IT CANNOT BE CORRECTED, WITHDRAWN OR UNISSUED; A PERSON WHO GIVES UP AN ADDRESS COMES OFF
+    THE LIST BEING MADE AND NOT OFF ONE THAT HAS ALREADY GONE OUT; AND A COMPOSITION THAT MOVES IS SENT BACK TO EVERY NAME ON
+    THE LIST THAT LAST CARRIED IT.** *So the notice of the twentieth of March went to nine NAMES and not seven: eight to the
+    eight names on the list of the thirtieth of October, seven of which slept at that address that night and the eighth of
+    which is up the same stair at a door that is not that address, and a ninth to the officer who keeps the address in her own
+    hand. ALL NINE INSIDE ONE BUILDING ON FERRIER STREET. **GIVING UP AN ADDRESS NEVER TOOK HER OUT OF THE HOUSE, AND EIGHT
+    WOMEN LIVE UNDER THAT ROOF.** (390, PC-46)
 16. **THE REQUISITION IS STILL LIVE AND IS STILL NOT CARRIED, AND IT GOES ACROSS INTO THE NEXT QUARTER ON THE THIRTIETH OF
     MARCH. NOTHING IS SPENT, NOTHING DRAWN, NOTHING ROUTED, NO FOLIO, NO SETTLE CLOCK, NO SETTLE DATE, NO CLASSIFICATION
     COMPLETED, AND THE HELD-BY BOX IS STILL NOT A THING THAT CARRIES ANYTHING.**

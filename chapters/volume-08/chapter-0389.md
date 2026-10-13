@@ -54,7 +54,7 @@ Wren Kallo looked at it for about four seconds and then she said the one thing s
 
 He did not go back up the walled road.
 
-That was the third thing she had said and it was the real one and he had four days to break two of the three and had broken exactly one of them, on purpose, on the morning after, in about ninety seconds with a carpenter's pencil.
+That was the third thing she had said and it was the real one, and there were eleven days to the last working day of the quarter and three things to keep, and he had broken exactly one of them, on purpose, on the morning after, in about ninety seconds with a carpenter's pencil.
 
 He would break it again later in the month, and he had better get used to the fact that he does not know what day later in the month is any more.
 

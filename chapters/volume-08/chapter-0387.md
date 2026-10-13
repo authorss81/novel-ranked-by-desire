@@ -16,7 +16,7 @@ Three.
 
 The room has a table under a window, nine chairs, and a small table at the door with a pen on it, and there is no clock in it, because the standing time is kept by a woman with a book and not by a man with a clock, and nobody ever wrote that down.
 
-Fourteen chairs were in it. Three of the nine were seated and the other six had not been for four months, and one of the six was a recusal on a signature and one was a seal withdrawn on the twenty-third of December and one was a man who had not crossed the door since the same day, and there were two ordinary vacancies besides the fourth.
+Fourteen chairs were in it. Nine of them went round the table and five more were against the wall, and three of the nine were seated and the other six had not been for four months, and one of the six was a recusal on a signature and one was a seal withdrawn on the twenty-third of December and one was a man who had not crossed the door since the same day, and there were two ordinary vacancies besides the fourth.
 
 Lin Hao sat on the chair that is not one of the nine, the one with nothing in the side of it where a seal goes.
 
@@ -120,10 +120,10 @@ Then she stopped, and read her own minute back, and read the ninth line of it ag
 
 "It can," said the chair. "It has not been administered and it is not being administered this morning and this room administers nothing, and it is now administrable, and from the first of April it will be administered by an office that did not apply for it."
 
-He had eight days.
+He had thirteen days.
 
 He went out of the room at five minutes past ten and stood in the corridor with his back to the wall and stayed there longer than a man with nowhere to be stays.
 
-Eight days. A return about a man in a room with no window would reach a dispensary on the Vestry arcade on the thirtieth. A certificate would lapse on the thirtieth. A requisition would cross into the next quarter on the thirtieth.
+Thirteen days. A return about a man in a room with no window would reach a dispensary on the Vestry arcade on the thirtieth. A certificate would lapse on the thirtieth. A requisition would cross into the next quarter on the thirtieth.
 
 And a woman who cannot be sworn was going to be handed a printed form at her own post, in a building that has a man on its third floor, on the same morning as all three of the others, and had not been asked about any of it.

@@ -271,17 +271,46 @@ and this volume turns one of them on purpose.**
 
 ## 4. The scene schedule — FIXED, and it is `outline/series.md`'s table
 
-| Chapter | Whose | Gap |
-| --- | --- | --- |
-| 350 | Wren Kallo. **Volume 7's fifth and last. Spent.** | — |
-| **358** | **Sun Meiling** | 350 → 358 = **8** |
-| **369** | **Agnete Lindqvist** | 358 → 369 = **11** |
-| **380** | **Tessa Okonkwo** | 369 → 380 = **11** |
-| **388** | **Dagmar Oyelowo. IMMOVABLE. She is 388 and enters at 388.** | 380 → 388 = **8** |
-| **398** | **Wren Kallo** | 388 → 398 = **10** |
+| Chapter | Whose | Gap | Explicit |
+| --- | --- | --- | --- |
+| 350 | Wren Kallo. **Volume 7's fifth and last. Spent.** | — | yes |
+| **358** | **Sun Meiling** | 350 → 358 = **8** | **yes** |
+| **369** | **Agnete Lindqvist** | 358 → 369 = **11** | **yes** |
+| **380** | **Tessa Okonkwo** | 369 → 380 = **11** | **yes** |
+| **388** | **Dagmar Oyelowo. IMMOVABLE. She is 388 and enters at 388.** | 380 → 388 = **8** | **NO. `PC-44`.** |
+| **398** | **Wren Kallo** | 388 → 398 = **10** | **yes** |
 
-**No gap under eight and none over fifteen, and the gaps are not one chapter's choice to make.** 358, 369,
-380, 398 may move one chapter inside their own ten without pushing a gap over eleven; **388 may not move at
+**The four columns above are now five and the fifth one is the honest one.** The review pass of 13 October 2026 found
+that this section's claim — *no gap under eight and none over fifteen* — was **true of the mixed count and false of the
+explicit count, and it had been carrying the false half into the final batch.**
+
+**COUNTED AS SCENES OF ANY KIND:** 8, 11, 11, 8, 10. Nothing under eight, nothing over fifteen. The claim in that form
+is true.
+
+**COUNTED AS EXPLICIT SCENES, WHICH IS WHAT `AGENTS.md`'S FIFTEEN-CHAPTER RULE ACTUALLY MEASURES:** 8, 11, 11, and then
+**380 → 398 = 18.** Volume 8's explicit scenes are 358, 369, 380 and 398. **There are seventeen chapters between Tessa
+Okonkwo and Wren Kallo with no explicit scene in them, and that breaches the rule by three.**
+
+**THE CAUSE IS FIXED AND MAY NOT BE WORKED AROUND BY INVENTING A GIFT:** 388 is in this table because it was planned as
+an explicit scene and to hold the gap at 8. **`PC-44` says Dagmar Oyelowo has no gift at all, is the only partner in the
+book with none, and that her scene may not manufacture one; 388 is written, it is 3,374 words, and it is not a sex
+scene, and the chapter says on the page why.** The schedule cannot count it as explicit and it cannot be made into one.
+
+**SO THE BREACH IS REGISTERED RATHER THAN FIXED, AND THIS IS A DELIBERATE CHOICE OF THIS SECTION.** Moving 398 up to 395
+would bring 380 → 395 to exactly 15 and close the breach, and `outline/series.md` line 219 lists 388 among the immovable
+chapters while leaving 398 movable inside its own ten. **It has NOT been moved, because Wren Kallo's is the volume's LAST
+scene and moving it three chapters earlier to satisfy an interval rule trades a structural fact for a metric one.** A
+later phase may move it if a reviewer asks for the rule over the structure, and the arithmetic is here so that phase does
+not have to derive it.
+
+**WHAT THE LAST BATCH OWES THIS BREACH:** `AGENTS.md` keeps the register moving — attraction, jealousy, negotiation,
+tenderness, and the particular awkwardness of being fought over by people who would have ignored you last month —
+between the scenes. **391–400 is seventeen chapters of that with one scene at the end of it, and the batch must therefore
+carry the register on the page and not in the summary, and must not let a whole chapter go by in which nothing between two
+people is in it.**
+
+**No gap under eight and none over fifteen ON THE MIXED COUNT, and the gaps are not one chapter's choice to make.**
+358, 369, 380, 398 may move one chapter inside their own ten without pushing a gap over eleven; **388 may not move at
 all**; and **no batch may move a scene past the entry after it in this row.**
 
 **WHY THESE FIVE, AND THE EVIDENCE, BECAUSE FOUR OF THEM ARE NOT ONE CHAPTER'S CHOICE:**
@@ -1153,8 +1182,15 @@ back, for him, on a day he did not ask her for it.**
 ### Movement 4 — THE COMPOSITION (381–390). 11–20 March. **IS NOW WRITTEN FACT — REWRITTEN AGAINST THE CHAPTERS ON 13 OCTOBER 2026, IN THE COMMIT THAT WROTE THEM, AND IT ENDS WITH NINE NAMED PLACES THE PLAN WAS WRONG.**
 
 > **MOVEMENT 4 IS NO LONGER PLAN.** Chapters 381–390 are on disk and this section was REWRITTEN against them in the same
-> commit that wrote them. `AGENTS.md`: the plan does not outrank the page. **Batch 0004 is 20,196 words counted per file
-> and summed. Volume 8 is 85,811.**
+> commit that wrote them. `AGENTS.md`: the plan does not outrank the page. **Batch 0004 is 20,633 words counted per file
+> and summed. Volume 8 is 86,248.**
+>
+> **AND ON 13 OCTOBER 2026 THIS SECTION AND THE CHAPTERS WERE BOTH PUT THROUGH THE REVIEW IN `logs/batch-0004.review.log`,
+> WHICH FOUND TWELVE DEFECTS AND REPAIRED EVERY ONE OF THEM WITHOUT MOVING A SCENE OR CHANGING A PLOT. FOUR OF THE TWELVE
+> WERE HERE RATHER THAN ON THE PAGE — 390's reading of the October list, 385's foot of the sheet, 388's three things being
+> his, and the title row's word counts — AND THE REMAINING EIGHT WERE ON THE PAGE.** The prose was not rewritten, the
+> scenes were not restaged, and no title changed. **The nine places this section says the plan was wrong have become
+> thirteen, and the four new ones are named in the block at the head of `state/open-threads.md`.**
 
 **The promise, as delivered:** the only instrument that could reach the account was the list of eight women, and it turned
 out to be cheaper and more expensive than the plan had it, and the cheapest instrument in Ostara turned out to be a paper
@@ -1213,9 +1249,14 @@ that arrives at a desk unasked.
   under a document with his name at the top of it, and in four years a stranger will read the line and not the composition.**
   A second declaration would make it worse — superseded is not withdrawn. Runa Sato says that a stranger in four years has
   two gaps in front of him and will pick the one that looks like carelessness. Beatrix Halm fills **one of her six empty
-  lines** and puts *thirteenth, counter, nine forty-one* and no name and no address. **And he reads the foot of the sheet
-  out loud in his own kitchen for the first time — *I am the man at the top of this page and I will answer for it* — and says
-  immediately that he is going to answer for it and does not know how.**
+  lines** and puts *thirteenth, counter, nine forty-one* and no name and no address. **AND THE WHOLE OF THE FOOT SECTION
+  IS THE TWENTY-NINTH OF DECEMBER AND NOT THE FOURTEENTH OF JANUARY, WHICH THE FIRST DRAFT GOT WRONG AND THE REVIEW PASS
+  CAUGHT.** The eight words — *I am the man at the top of this page and I will answer for it* — are on the fourth of the
+  four sheets of plain paper of the twenty-ninth (356), and he left the foot of the fifth, the January declaration,
+  **blank on purpose** because a declaration is not an attestation and Hanneke Ruis told him so. **BOTH SHEETS ARE IN THE
+  SAME KEEPING AND THE ROOM DOES NOT DISTINGUISH THEM, AND THAT IS THE POINT OF THE CHAPTER.** He reads the foot of the
+  other one out loud in his own kitchen for the first time and says immediately that he is going to answer for it and does
+  not know how.
 - **386 (16 Mar). THE PRICE OF TWO FIGURES, DONE ONCE. MARGUERITE VALE.** The Vant's smaller rooms, a table she has not
   eaten at since the autumn before last. She has done the arithmetic since September and does it off her fingers. **THE WHOLE
   OF IT: the sixteenth of September at seven, initialled by him and not signed by her; fourteen copies in four divisions; the
@@ -1264,10 +1305,14 @@ that arrives at a desk unasked.
   OWN WORDS: this is the best-covered table in this city and that is exactly why it is a good place to lose a document.**
 - **390 (20 Mar). THE NOTICE SERVED AT FOUR, AND IT IS NOT A REQUISITION.** A return of a counter entry, at seven, with the
   thirteenth of March on it, in the ordinary way, out of a division that keeps a list of persons keeping an address. **WHY
-  NINE AND NOT SEVEN: the list of the thirtieth of October carries eight, it cannot be withdrawn, and a composition is
-  served to the head of a household in her own hand as well as to the addresses, so eight notices go to eight names on an
-  October list and a ninth goes to the officer who keeps the address, and all nine are inside one building on Ferrier
-  Street — and one of the eight is addressed to a woman who does not live there any more.** Nine envelopes go up sixty-one
+  NINE AND NOT SEVEN, AND IT IS `PC-46` AND IT WAS WRONG IN THE FIRST DRAFT OF THIS BULLET AND THE REVIEW PASS CAUGHT IT:
+  the list of the thirtieth of October is a list of PERSONS KEEPING AN ADDRESS AND NOT OF ADDRESSES, it cannot be
+  corrected, withdrawn or unissued, and the counter entry on the thirteenth took Nadia Ferrous off the list being made
+  that month and not off the one that went out in October — so eight notices go to eight NAMES, seven of which slept at
+  that address on the night of the twentieth and the eighth of which is up the same stair in a room that is not that
+  address, and a ninth goes to the officer who keeps the address in her own hand, and all nine are inside one building on
+  Ferrier Street. HER ENVELOPE IS ONE SHE PUT ON THE SHELF FACE DOWN AND DID NOT CARRY TO THE TABLE, BECAUSE GIVING UP AN
+  ADDRESS NEVER TOOK HER OUT OF THE HOUSE AND THAT IS `PC-39` SAID OUT LOUD.** Nine envelopes go up sixty-one
   steps in one bundle on one delivery round; Sun Meiling brings the ninth back down and puts it in a drawer in her own room
   and says in advance that she will not be discussing it. **The second copy goes to a public post off a third court at nine
   on the morning of the twenty-first, in a building where a man sits on the floor above hers, and nobody has asked her

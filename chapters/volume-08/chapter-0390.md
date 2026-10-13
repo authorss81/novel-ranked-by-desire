@@ -14,23 +14,27 @@ It is not a paper anybody can object to. There is no ground to strike and no fou
 
 *Composition. Premises 34-6-118. Seven. From the thirteenth day of March.*
 
-That is the whole content of it. It goes to the six desks in this city that keep one, and it goes to the addresses, and it is signed for by whoever answers the door.
+That is the whole content of it. It goes to the six desks in this city that keep one, and it goes to the names on the list, and it is signed for by whoever answers the door.
 
 ## Why Nine
 
 Because a list is dated and made and it goes, and from the moment it has gone it is an afternoon that happened, and this city has no office anywhere that can reach back into an afternoon that happened.
 
-The list of the thirtieth of October carries eight addresses. It carried eight on the day it went out and it carries eight now and it will carry eight in four years in every division that keeps a copy, because a list is not a record of a house.
+The list of the thirtieth of October carries eight names. It is a list of persons keeping an address and not a list of addresses, and every name on it on that afternoon was somebody keeping premises 34-6-118.
 
-A list is a record of what was true on the afternoon it was made, and the only instrument in this city that ever amended one was a woman at a counter who took herself off it on her own account and with no instrument at all.
+It carried eight when it went out and it carries eight in the six divisions that keep a copy of it, and it will carry eight in four years, because a list is not a record of a house and a list cannot be corrected, withdrawn or unissued.
 
-So eight notices went to eight names on an October list, and not one of those eight is the seven people living in the house.
+A list is a record of what was true on the afternoon it was made. The only instrument in this city that ever took a person off one was a woman at a counter who took herself off it on her own account and with no instrument at all, and what she took herself off was the list being made this month.
+
+The one from the thirtieth of October went out at four on the afternoon of the twenty-ninth of October and it is out of her reach, and it has been since the counter at four o'clock on the afternoon of the thirteenth.
+
+So eight notices went to eight names on a list from October, and seven of those eight slept at that address on the night of the twentieth, and the eighth gave the address up at a counter at nine forty-one on the thirteenth and is up the same stair in a room that is not that address, and she has not been at that door in a long time, which is not the same thing as having left the building.
+
+Her envelope went under her own door that evening and she did not carry it to the table, and there was nothing for anybody to ask her about, because she had stood at that table on the fifteenth and said all of it, and this was a figure and it wanted nothing.
 
 And a ninth went to the officer who keeps the address, in her own hand, because the officer who keeps an address is served the composition herself and not on a card pushed under a door.
 
 Nine. All nine inside one building on Ferrier Street.
-
-And one of the eight was addressed to a woman who does not live there any more, and it was going to be taken in by whoever opened the door on the evening of the twentieth of March, and nobody who lived in that building was going to know which one of the eight it was.
 
 ## Where It Went
 
@@ -66,9 +70,9 @@ They came in a bundle on the evening of the twentieth between about six and seve
 
 Beatrix Halm put the bundle on the table under the window on top of a piece of brown card with a man's name at the foot of it, and she did not notice that, and neither did anybody else.
 
-Eight of them were addressed to eight names on a list from the thirtieth of October. They went along the hall and under eight doors and into eight rooms that had all been one address in October and were not all still one address now.
+Eight of them were addressed to eight names on a list from the thirtieth of October. They went along the hall and under eight doors and into eight rooms, and seven of those rooms belonged to people who keep that address tonight.
 
-One of them went into a room where nobody had slept since the middle of February, because the woman who had slept there had walked out of it on the thirteenth of March and had not taken her name off anything except one thing.
+The eighth belonged to a woman who gave that address up on the thirteenth and has not been at that door in a long time, and she took hers in and put it face down on the shelf by the door and did not carry it to the table.
 
 And one of them came back down the stairs.
 

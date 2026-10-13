@@ -10,7 +10,7 @@ It was the fifth morning in eleven weeks he had done it at that hour, because te
 
 The book was open on the board and Solveig Rask had the pen on its chain over her wrist, and Hanneke Ruis was at the rail with a cup she had not drunk out of.
 
-"The composition of premises 34-6-118 went to seven yesterday morning," said Lin Hao, "at a counter, in the ordinary way, at about twenty to ten."
+"The composition of premises 34-6-118 went to seven yesterday morning," said Lin Hao, "at a counter, in the ordinary way, at nine forty-one."
 
 ## What Four Marks Buys
 

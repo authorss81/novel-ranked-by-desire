@@ -9,9 +9,9 @@ movements 1, 2, 3 and 4 are now all written fact; movement 5 is still plan and B
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0381.md` … `chapter-0390.md` | ten finished chapters, the eleventh of March to the twentieth of March. **20,196 words counted per file and summed. Volume 8 is 85,811.** |
-| `outline/volume-08.md` | **§6 movement 4 rewritten against the page**, with nine named places the plan was wrong; **three open risk notes at the end of §6 struck and settled** — whether 382's refusal protects Nadia Ferrous, whether a carry-forward collides with the requisition, and what a carry-forward actually does; §6 header and Movement 5 header corrected; §10 re-run |
-| `state/open-threads.md` | **new live gate block**, and canon items **PC-38 to PC-45** recorded in the same commit; Batch 0003's block marked superseded |
+| `chapters/volume-08/chapter-0381.md` … `chapter-0390.md` | ten finished chapters, the eleventh of March to the twentieth of March. **20,196 words counted per file and summed before review; 20,633 after it. Volume 8 is 86,248.** |
+| `outline/volume-08.md` | **§6 movement 4 rewritten against the page**, with nine named places the plan was wrong, **and four more named by the review pass of 13 October 2026; three open risk notes at the end of §6 struck and settled** — whether 382's refusal protects Nadia Ferrous, whether a carry-forward collides with the requisition, and what a carry-forward actually does; **§4's scene schedule given a fourth column and its false half of a claim withdrawn**; §6 header and Movement 5 header corrected; §10 re-run |
+| `state/open-threads.md` | **new live gate block**, and canon items **PC-38 to PC-45** recorded in the same commit, **plus `PC-46` added by the review pass**; Batch 0003's block marked superseded |
 | `workspace/volume-08/batch-0005/PROMPT.md` | **the one live phase prompt in the repository.** Ch 391–400. |
 
 **THE BATCH'S FIRST IRREVERSIBLE DECISION IS 384, AND IT IS THE SAME SHAPE AS 370 AND IT COSTS MORE.** On the morning of the
@@ -29,10 +29,47 @@ months and one of them was her brother's name.
 **WHAT IT CLOSES:** the cheapest instrument in Ostara against everything he has built since October has now been taken
 without asking the only person it lands on, and she cannot be sworn, and she will find out from a form.
 
-**THE SECOND IS 389 AND IT IS NOT HIS TO UNDO.** On the morning of the nineteenth of March, having promised a woman with no
-gift at all that he would not write the floor down, he wrote three lines on the back of a delivery docket with a pencil and
-then wrote a fourth line with his own name under it. He broke one of her three things. He kept the other two, and one of
-them was that he would not come back up the walled road.
+**THE SECOND IS 389 AND IT IS NOT HIS TO UNDO.** On the morning of the nineteenth of March, after a woman with no gift at
+all had put three conditions in front of him and he had given back no word to any of them, he wrote three lines on the back
+of a delivery docket with a pencil and then wrote a fourth line with his own name under it. He broke one of her three
+things. He kept the other two, and one of them was that he would not come back up the walled road.
+
+## 0c. THE REVIEW OF 13 OCTOBER 2026 — TWELVE FINDINGS, TWELVE REPAIRED, NOTHING RESTAGED
+
+**`logs/batch-0004.review.log` is the full record. The chapters were read by a pass that wrote no prose and every figure in
+this block was re-run afterwards. NOTHING WAS REWRITTEN, NO SCENE WAS MOVED, NO TITLE CHANGED AND NO PLOT CHANGED. THE
+REPAIRS ADDED 437 WORDS.**
+
+**FIVE WERE BLOCKING AND EVERY ONE OF THEM WAS A CONTRADICTION THE READER WOULD HAVE CAUGHT:**
+
+1. **390 printed the list of the thirtieth of October as eight ADDRESSES.** It is a list of persons keeping an address
+   (360, 368, 383, 385), and the chapter's whole nine-envelope construction depended on the wrong reading. **390 now says
+   eight NAMES, seven of which slept at that address on the night of the twentieth and the eighth of which is up the same
+   stair at a door that is not that address. THE READING IS `PC-46`.**
+2. **Six wrong *yesterday*s at 385 and 386** for a counter visit on the thirteenth, in chapters set on the fifteenth and the
+   sixteenth. One of them contradicted itself inside a single sentence. All six now name the thirteenth or say *the day
+   before yesterday*.
+3. **384 gave the counter hour as *about twenty to ten*, one minute off nine forty-one**, in the chapter where the hour is
+   the chapter's image.
+4. **387 said *He had eight days*** on the seventeenth, when the thirtieth is thirteen days out. **381's *twenty* and 383's
+   *eighteen* were also wrong and are now *nineteen* and *seventeen*. THE CONVENTION IS NOW FIXED IN THE GATE BLOCK: 30
+   MINUS THE DATE, EXCLUSIVE.**
+5. **386 said *half past eleven at night*** for the September initial. Canon is morning, twice, in Marguerite Vale's own
+   mouth.
+
+**SEVEN WERE SECONDARY:** 390 said Nadia Ferrous had walked out of the building on the thirteenth (**she gave up an address
+she was keeping at a door she was not sleeping at, which is `PC-39`, and 389 and 390 still count eight women under that
+roof**); 385 put the eight words at the foot on the January declaration (**they belong to the twenty-ninth of December, and
+he left the January one blank on purpose, in front of eight women, because a declaration is not an attestation**); 387 said
+nine chairs and then fourteen; 385 put the gap between the third name and the fifth (**it is between the third and the
+fourth**); 389 said *four days* to break two of the three (**there were eleven**); 388 said four desk-holders and then that
+she was the third (**there have been three, which makes her the last**); and 388 said *he had promised her three things*
+(**they are hers and he promises nothing back**, and `state/current.md` and `batch-0005/PROMPT.md`, which both recorded it
+as his promise, are corrected).
+
+**AND FOUR RECORD DEFECTS:** the gate's title word counts were wrong in three places; `batch-0005/PROMPT.md` claimed nine
+day spellings against the gate block's four; the calendar convention was unfixed anywhere and now is; and `outline/volume-08.md`
+§4 was carrying a false claim about scene gaps into the last batch, **which is §4's fourth column now.**
 
 ## 0b. WHAT THE PAGE SETTLED THAT THE PLAN HAD WRONG, AND WHAT IT MUST NOT RE-DERIVE
 
@@ -50,8 +87,11 @@ them was that he would not come back up the walled road.
    address at the head of it, and by the fifteenth of March she was the eighth name under the only document in this city
    with his name at the top of it, and it cannot be struck, because a witness line is a list of the people who were in a
    room on a date.
-6. **The notice at four on the twentieth went to nine addresses and not seven**, because the list of the thirtieth of October
-   cannot be withdrawn and a composition is served to the head in her own hand as well as to the addresses.
+6. **The notice at four on the twentieth went to nine names and not seven, and the October list is a list of PERSONS keeping
+   an address and not of addresses.** It cannot be corrected, withdrawn or unissued, so the counter entry of the thirteenth
+   took Nadia Ferrous off the list being made that month and not off the one that went out in October. Eight notices went to
+   the eight names on it and a ninth went to the officer who keeps the address in her own hand. **This is `PC-46` and it is
+   fixed from here on; a later batch may not print that list as a list of addresses.**
 7. **The lead's refusal at 382 was not a protection and it did not send her.** She goes on the thirteenth because of fifty-one
    days, and the exclusion from the room happened at 381 and the refusal at 382 is what he did with it.
 
@@ -90,9 +130,10 @@ February to the first of March does not appear anywhere in the ten.**
 - **385 (15 Mar). THE BOOK WITH A GAP IN THE LINE, AND THE HOUSEHOLD FINDS OUT WHAT IT HAS LOST.** Her name cannot be struck.
   Beatrix Halm fills one of her six empty lines with *thirteenth, counter, nine forty-one* and no name. **The bill: she gave
   up an address to get off every paper with that address on it and she is now the eighth name under the only document in
-  this city with his name at the top of it.** Runa Sato on the two gaps a stranger will see in four years. **And he reads
-  the foot of the sheet out loud in his own kitchen for the first time and says immediately that he will answer for it and
-  does not know how.**
+  this city with his name at the top of it.** Runa Sato on the two gaps a stranger will see in four years. **And he reads the foot of the OTHER SHEET — the four sheets
+  of the twenty-ninth of December, not the January declaration, which is in the same keeping and has nothing at the foot of
+  it because he left it blank on purpose — out loud in his own kitchen for the first time and says immediately that he will
+  answer for it and does not know how.**
 - **386 (16 Mar). THE PRICE OF TWO FIGURES, DONE ONCE, AT MARGUERITE VALE'S.** The whole volume's arithmetic off her
   fingers. **What the two figures were doing for a hundred and seventy-seven days was nothing, because a line that disagrees
   with itself is evidence of nothing and nobody has ever laid a requisition against a holding that will not agree with its
@@ -125,11 +166,13 @@ February to the first of March does not appear anywhere in the ten.**
   does not go back up the walled road.
 - **390 (20 Mar). THE NOTICE SERVED AT FOUR, AND IT IS NOT A REQUISITION.** A return of a counter entry at seven, dated the
   thirteenth. **Nine envelopes, not seven:** eight to the names on a list from the thirtieth of October that cannot be
-  withdrawn, and a ninth to the officer who keeps the address, in her own hand. All nine inside one building on Ferrier
-  Street, and one of the eight is addressed to a woman who does not live there any more. Sun Meiling brings the ninth back
-  down and says in advance that she will not be discussing it. **A copy goes to a public post off a third court at nine on
-  the morning of the twenty-first, in a building where a man sits on the floor above hers, and nobody has asked her
-  anything.** **The wall: eighty days, twelve weeks, nothing.** Ten days to the last working day of the quarter.
+  corrected, withdrawn or unissued, and a ninth to the officer who keeps the address, in her own hand. All nine inside one
+  building on Ferrier Street. **Seven of the eight slept at that address on the night of the twentieth and the eighth is up
+  the same stair at a door that is not that address, and giving up an address never took her out of the house, which is
+  `PC-39` said out loud.** Sun Meiling brings the ninth back down and says in advance that she will not be discussing it.
+  **A copy goes to a public post off a third court at nine on the morning of the twenty-first, in a building where a man
+  sits on the floor above hers, and nobody has asked her anything.** **The wall: eighty days, twelve weeks, nothing.**
+  Ten days to the last working day of the quarter.
 
 ## 2. THE POSITION AT CHAPTER 390 — EVERY FIGURE ON THE PAGE
 
@@ -204,8 +247,9 @@ tile on the Board with her name on it. **She has NO GIFT AT ALL and is the only 
 chapter may manufacture one and no later chapter may move her.** **Lin Wei is on the eleventh page of a ledger of persons
 taken up to a room and not brought down, with a date, a floor and a direction, and there are forty-one lines in twenty years
 and every one of them went up, and the book does not come off the desk.** He has a floor, a date and a direction and no means
-of getting there. **He has promised her three things: not to ask for the page, not to write the floor down, and not to come
-back up the walled road. HE HAS BROKEN THE SECOND AND HE HAS NOT BEEN UP THAT ROAD SINCE.**
+of getting there. **She put three things in front of him — not to ask for the page, not to write the floor down, and not to
+come back up the walled road — and he gave back no word to any of them. HE HAS BROKEN THE SECOND AND HE HAS NOT BEEN UP
+THAT ROAD SINCE.**
 
 **AND THERE IS NOW A PIECE OF PAPER IN THIS CITY WITH HIS OWN NAME AT THE FOOT OF IT AND HIS BROTHER'S FLOOR ON THE OTHER
 SIDE**, on the back of a delivery docket in pencil, on a table under a cloth in a kitchen on Ferrier Street, under a cloth, in
@@ -507,7 +551,7 @@ figures · **the standing time for a sheet: the requisition has been live for fo
 because the ground arrived late** · **388, Dagmar Oyelowo, IMMOVABLE, the only partner with no gift at all, and
 the intake desk's book of people taken up to a room and not brought down, in which Lin Wei is on a page with a
 date and a direction and the book does not come off the desk** · and **390, the notice served at four on the
-ordinary stream to nine addresses inside one building, which is not a requisition: it is the composition, at
+ordinary stream to nine names inside one building, which is not a requisition: it is the composition, at
 seven, with a date on it, in the ordinary way.**
 
 **IT MAY NOT:** print a carry-forward at premises 34-6-118 before Nadia Ferrous has been to a counter · use any

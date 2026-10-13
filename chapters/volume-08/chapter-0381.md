@@ -1,6 +1,6 @@
 # The Offer Made At The Kitchen Table
 
-He came down the sixty-one at about twenty to seven on the morning of the eleventh of March with no sleep in him and an ache in his back that had got worse in the four hours he had spent lying on a floor, and he came down them because a man who is not in a kitchen by seven has not decided anything about it, and because there were twenty days to the end of the quarter.
+He came down the sixty-one at about twenty to seven on the morning of the eleventh of March with no sleep in him and an ache in his back that had got worse in the four hours he had spent lying on a floor, and he came down them because a man who is not in a kitchen by seven has not decided anything about it, and because there were nineteen days to the end of the quarter.
 
 The kitchen was already warm and the tea was on and Nadia Ferrous was sitting at the head end in her coat with the hood down, which meant she had come in off the doors of the Vestry arcade and had not taken the coat off, which meant she was going out again.
 
