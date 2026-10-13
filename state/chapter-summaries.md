@@ -1284,3 +1284,59 @@ full answer for the first time — seven on the roll, six with an address, six w
 in a coat pocket, one in the house on no roll, the eighth on nothing at any time, one asleep behind a door
 in a building she has not left in eleven years, and the blank line a district officer left on the third of
 this month, which is the reason the whole month is happening.
+
+## Volume 5, Batch 0004 — Chapters 231–240. THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.
+
+**231 The Empty Room.** The twenty-first. The landing nail and the nine-by-fourteen rectangle. Bread,
+work, the weeping valve. Sun sews the seventh row shut (eleven stitches). Ines goes to Cobb Street.
+Runa counts aloud: five to the schedule, six to the certificate, ten to the valuation. Nadia fixes
+the lists. He is frightened of the twenty-third and says so to no one.
+
+**232 What The Board Carries.** The twenty-second, Thursday, repaints. The ranks wall under the
+Thursday crew at nine; the side board untouched (schedule of the fourth of last month, repainted
+only on the first). Beatrix and the weight she will not write down. Wren on the step below the
+sixty-one: her paper goes in on the morrow. Ines takes a sheet with a form number face-down for
+tomorrow.
+
+**233 Named In A Third Line.** The twenty-third. The finding goes to Hadewig Mers, head of
+counter-forensics, at ten: four edits, all removals, no addition in five years — a record someone
+has had access to, and it is not his. A copy of the correction, produced from the index on the
+eighteenth, arrives for the head. Agnete's counsel: do not go to a desk that has just got a paper.
+Tessa will enter her clinic after the schedule, at Runa's arithmetic.
+
+**234 The Recital.** The twenty-fourth. Runa's anger — the batch's, and not a broker's. Her hearing
+paper cannot be answered while a called standing cannot be drawn against. He carries the bundle to
+the Field division counter at Cordwain, which closes at half past three; it goes through with a
+minute to spare and carries his false six into a fourth office. She tells him to tell Tessa to wait.
+
+**235 The Bare Line.** The twenty-fifth. The quiet one. A day with Agnete: the pail, the yard, soup,
+his brother spoken of for the first time in six months. Tessa held past the schedule. The district
+bag brings nothing. The blank of the third stays blank.
+
+**236 Two Working Days.** The twenty-sixth. The schedule goes up at ten on the side board: six
+members, his name at the head, no auditor on its face. At eleven the removal extract arrives — Ines
+taken off the correction of the twelfth, not the certification. An hour late and a paper wide. She
+does not discuss it. The certificate will issue on the morrow upon a schedule its own auditor is a
+member of, carrying six with no roll behind it.
+
+**237 The Account Remains Open.** The twenty-seventh. The certificate arrives at noon by carrier; Sun
+signs the book. Six names, his hand carried forward, stamp and date. The Office does not sit and the
+carrier sits for it. A second line in the carrier's book: a notice of production for the thirty-year
+account at the valuation. Agnete looks at the sheet without coming closer: is it mine. No one can
+answer.
+
+**238 A Number That Finds You.** The twenty-eighth. The man from Cobb Street brings the return slip;
+he signs in his own hand — plate pledged, six written, receipt signed, the third act, and the
+batch's irreversible decision. The certificate is now received and answerable. Sun: three papers
+that agree. Agnete: a room with two certified papers wants to take testimony.
+
+**239 The Frame And Her Hand.** The twenty-ninth, Thursday, repaints. Petra asks him to carry the
+bundle while she looks at the wall — not the schedule but the frame and the clerks' hands. Eleven
+years an officer, a fortnight discharged, hands that marked a hundred and thirty-two dockets. Tessa's
+entry sheet read and true. Ines eats standing and goes to her room.
+
+**240 An Office With A Door On It.** The thirtieth. Ines asks for the room and says one procedural
+thing: an office with a door on it, this afternoon, in writing, with a reason, in the way it is
+done — without saying which office or which reason, and the instruction holds. Tessa carries her clinic into
+the returned lines. Agnete: a door that stays open is not a door that hides; it has not yet been
+asked to shut. The house eats bread. The question waits behind an open door.

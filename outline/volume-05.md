@@ -135,24 +135,37 @@ answer takes the better answer and rewrites this file in the same commit.**
    after ten at night on the eighteenth, at the foot of the ranks wall. **The volume's argument that paper
    makes a house visible is now carried by the household's own act: Sun Meiling cuts the roll at the ruled
    lines and the first thing that gets lighter in a month is the house.**
-4. **The Price — 231–242. NOT WRITTEN.** **Ines is removed from her own division's protection because she
-   is a member of the record**, and the mechanism is already on the page twice over: an officer does not
-   certify a household she is a member of, and the only instrument in the office for removing a person from
-   a certified schedule is for an officer with a conflict, and the schedule does not go up on the
-   twenty-sixth and the certificate does not issue on the twenty-seventh. **Worse, and new as of Batch
-   0003: the schedule she would certify carries a head's sworn answer of six that no longer has a roll in
-   the house behind it, and the roll at Ferrier Street was cut up on the nineteenth.** This is the volume's
-   midpoint reversal and it must land on her, not on him. **She said on the page at Ch 219 that she is
-   going to ask, and she has not asked through Ch 230, and the asking is somebody else's act.** Ch 241 is
-   the scene.
-5. **The Auditor Walks Out — 243–250. NOT WRITTEN.** **Ch 246 is fixed by `outline/series.md`: INES
+4. **The Price — 231–240. WRITTEN.** **The schedule goes up on the twenty-sixth and the certificate
+   is dated the twenty-seventh, and both issue despite the two bars, because an institution acts
+   exactly and wrong: the only removal instrument takes Ines off the correction of the twelfth at
+   eleven on the twenty-sixth, an hour after the certification schedule went up at ten.** Wren
+   Kallo's finding reaches Hadewig Mers on the twenty-third and becomes a division's file. **The
+   lead's third act in his own hand is the receipt (238): plate pledged, six written, receipt signed.
+   The option that closes is the right to say the certificate is not his to answer for.** This
+   batch's anger is Runa Sato's and its quiet is Agnete's. Tessa's clinic is entered on the
+   thirtieth. **Ines says on the thirtieth that she is going to an office with a door on it, in
+   writing, with a reason, in the way it is done — without saying which — and she has still not
+   asked through Ch 240, and nobody has asked her. Her removal remains an act an institution applies
+   to her.** **CH 241 IS DECIDED: AGNETE LINDQVIST'S SCENE.** Batch 0003 proposed it and Batch 0004
+   takes it, for the reason Batch 0003 gave: her gift is that a room where she stands cannot compel
+   testimony and her cost is eleven years indoors, and this batch has put her into an instrument by
+   proxy in a head's handwriting on a page she was never shown, and on the twenty-seventh a certified
+   instrument entered her address for the first time, and Ch 207 stands since May saying the moment it
+   exists somebody is entitled to ask what is at that address. **So 241 is the first time in eleven
+   years somebody asks her a question she cannot decline, the certificate is in the next house and
+   does not come in, and it is the first scene in the book about a woman choosing to be visible —
+   the volume's sentence arrived at from the other end.** Constraints inherited: in her own
+   professional discipline; ground, hand, name-exchange and aftermath fresh against all twenty-four
+   scenes before it (not a collecting room, not a wall at night, not a coat left, not a document read
+   aloud as a stranger reads it); may not reuse 228's night wall or 214's bolted table in any element.
+5. **The Auditor Walks Out — 241–250. NOT WRITTEN.** **Ch 246 is fixed by `outline/series.md`: INES
    DUARTE LEAVES. Not a death, not a betrayal. She files a report that is true and walks out of a flat
-   she is still in.** That is not a departure from the volume's sentence; it is its answer. He could not
-   keep her off his file and she did not want to be kept off her own. **And as of the twentieth of June
-   she has also certified, or refused to certify, or been asked to certify, a page carrying a number her
-   own division knows to be one short, which is a second reason she cannot stay that is hers and not the
-   Bureau's.** The volume closes on the thing she left behind: a report that is true, in a division that
-   now has to answer for having produced it.
+   she is still in.** Ch 241 (Agnete) and Ch 249 (the fifth scene: the true report, filed, and the flat
+   she is still in) are Volume 5's and may move one chapter only. **Nothing written in 231–240 may make
+   246 cheaper or more predictable: Ines has not asked, has not been asked, has certified nothing with
+   her own hand, and the division holds a true report's worth of paper about her household that she
+   herself has never written.** The volume closes on what she leaves behind: a report that is true, in
+   a division that now has to answer for having produced it.
 
 **Escalation, stated once so no batch has to re-derive it.** Early he investigates the record. **At Ch 217
 he stops investigating and starts spending** — the first irreversible act of his own in five volumes, and
@@ -235,14 +248,14 @@ and putting it on the table face up is on its fourth appearance in a month** (21
 fifth is not available. The light stopping two inches above the seventh row and the oven coming on were
 each used once in this volume and are spent for it.
 
-## 10. Title bank, 231–250
+## 10. Title bank, 231–250 (Batch 0004 taken, 241–250 free)
 
 Names, not summaries, unique across all 230 written titles. **Batch 0003 took The Weight At The Top ·
 Seven Where It Says Six · What The Division Did Not Tell · Six Persons Of Reading Age · A Bench Under
 The Wall · Nothing Moved In It · The Space At The Foot · The Shape Of An Edit · The Roll Comes Down ·
 The Twenty-Sixth.**
 
-**Free for 231–250, checked against all 230 written titles: The Empty Room · The Plaster Hat · What The
+**Taken by Batch 0004 (checked against all 240 written titles, no collisions): The Empty Room, What The Board Carries, Named In A Third Line, The Recital, Two Working Days, The Bare Line, The Account Remains Open, A Number That Finds You, The Frame And Her Hand, An Office With A Door On It. Free for 241–250: The Empty Room · The Plaster Hat · What The
 Board Carries · Named In A Third Line · The Recital · Two Working Days · The Bare Line · A Number That
 Finds You · The Man In The Plaster Hat · The Account Remains Open · The Frame And Her Hand · An Office With
 A Door On It · The First Valuation · Nobody Lived Here · What She Filed · The Report That Is True · The
@@ -253,4 +266,4 @@ Half Past One · The Line She Left Blank · A Quarter Of Eight · The Day Book �
 The Ninth Of September · The Division Does Not Sit · The Figure In The Foot Of A Column · A Copy In Three
 Places · The Coat That Is Not Hers · Under Two Lamps.**
 
-**Checked against the 230 written titles at the time of writing: no collisions.**
+**Struck from the bank on this pass: Nobody Lived Here (carries the batch-rationed word).**

@@ -7,21 +7,59 @@
 `state/archive/current-v3.md`. Nothing was deleted. If you need a Volume 1, 2 or 3 fact, the archive is one
 read away; you do not pay for it on every prompt.
 
-1. **The head block, Volume 5 Batch 0003** — where the book is. **Volume 5 Batch 0002's and Batch 0001's
+1. **The head block, Volume 5 Batch 0004** — where the book is. **Volume 5 Batch 0003's, Batch 0002's and Batch 0001's
    head blocks are retained below it, superseded.**
 2. **The Volume 4 close block, Volume 4, Batch 0005**, retained below, condensed.
 3. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
 4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
-**Last written:** **Volume 5, Batch 0003 — Chapters 221–230 (The Notice), written and closed. VOLUME 5
-IS OPEN at Chapter 230, and Wren Kallo is on the page for the first time since Volume 4. Volume 5,
-Batch 0004 — Chapters 231–240 — is the next phase, and its prompt is at
-`workspace/volume-05/batch-0004/PROMPT.md`.**
+**Last written:** **Volume 5, Batch 0004 — Chapters 231–240 (The Twenty-Sixth and the Twenty-Seventh),
+written and closed. VOLUME 5 IS OPEN at Chapter 240. The schedule is up (26th), the certificate is
+dated and received (27th–28th). Volume 5, Batch 0005 — Chapters 241–250 — is the next phase, and its
+prompt is at `workspace/volume-05/batch-0005/PROMPT.md`. Ch 241 is Agnete Lindqvist's scene. Ch 246
+is INES DUARTE LEAVING.**
 
 ---
 
-# VOLUME 5, BATCH 0003 — HEAD RECORD. CHAPTERS 221–230. THE NOTICE.
+# VOLUME 5, BATCH 0004 — HEAD RECORD. CHAPTERS 231–240. THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.
+
+**Ten chapters, one a day from the twenty-first to the thirtieth of June. This batch carries the two
+dates no other batch can: the schedule goes up on the twenty-sixth at ten in the morning (236) and
+the certificate is dated the twenty-seventh and arrives at noon by carrier (237). Both issue despite
+the two bars — the auditor of record is a member of the household, and the head's sworn six has no
+roll behind it — because the office's one removal instrument is applied to the wrong paper (the
+correction of the twelfth) at eleven on the twenty-sixth, an hour late and a paper wide.**
+
+**THE BATCH'S ONE SENTENCE IS `outline/series.md`'s AND NOTHING HAS MOVED AGAINST IT:** *Lin Hao must keep
+Ines Duarte off his file while she starts wanting to be off her own.* **She does not resolve, discuss,
+or nearly say her review; she is asked nothing; she has still not asked to be removed through the
+thirtieth; and the one removal applied to her is an institution's act that takes her off the paper
+that does not matter.**
+
+**THE IRREVERSIBLE DECISION IS CH 238 AND IT IS HIS, AND IT IS THE THIRD THING IN HIS OWN HAND.**
+Plate pledged (217), six written (224), receipt signed (238). He acknowledges the certificate knowing
+it carries a false figure and an auditor who cannot certify it. **The option that closes is the right
+to say it is not his to answer for.** Cost: three papers in his hand agree with each other and not
+with the index that holds him.
+
+**WREN KALLO'S FINDING IS A DIVISION'S FILE (233).** On Hadewig Mers's desk at ten on the
+twenty-third: four edits, every one a removal, no addition in five years. **This batch's anger is
+Runa Sato's (234)** — she carries his false six into a fourth office before a half-past-three
+counter and tells him so — and its quiet is Agnete's (235). **Tessa's clinic is entered on the
+thirtieth.** The household has no roll; the offices have three copies that agree. **CH 241 IS DECIDED:
+AGNETE LINDQVIST'S SCENE**, recorded in `outline/volume-05.md` §6 — the first scene in the book about
+a woman choosing to be visible, certificate in the next house, not in the room.
+
+**POSITION AT THE CLOSE:** plate 8,138, floor 8,141, tolerance three. Ledger 118 lines, nine turned,
+the ninth still himself. Nothing spent on anybody. File 4,112, one folio open, no second. Zero system
+panels. Seven women on the cut roll (six with an address at Ferrier Street, six notebooks, one pencil
+row sewn in a pocket); Petra Ilyin on no roll; Wren Kallo on nothing at any time; Agnete Lindqvist on
+no list at all, door open. Countdown 63 elapsed at the thirtieth; 238–240 print none.
+
+---
+
+# VOLUME 5, BATCH 0003 — HEAD RECORD. CHAPTERS 221–230. THE NOTICE. (SUPERSEDED)
 
 > **REPAIRED ON REVIEW.** An independent review of this batch returned six hard errors, three false-zero
 > gate records and five minors, and **all fourteen are fixed**. Two things a later writer must inherit:

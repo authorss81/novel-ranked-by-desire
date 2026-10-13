@@ -1,6 +1,116 @@
 # Continuity
 
-## Volume 5, Batch 0003 — CLOSED (Chapters 221–230). **THE NOTICE.** WREN KALLO IS ON THE PAGE AGAIN.
+## Volume 5, Batch 0004 — CLOSED (Chapters 231–240). **THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.** BOTH DATES ARE ON THE PAGE.
+
+**Ten chapters written against the batch prompt, entered at Chapter 231 on the twenty-first of June
+and running to the thirtieth, one chapter a day, no shared dates and no gaps. Full gate output, the
+Gate A interval trace with its three fixed errors, the Gate B date screen and the canon proposals
+are in `state/open-threads.md` in this batch's close record, which is the only live gate block in
+that file; Batch 0003's has been moved to `state/archive/open-threads-v1-v4-batch-gates.md`. This
+block supersedes every block below it on every point it touches.**
+
+### Calendar, as the page fixed it
+
+- **Batch 0004 is the 21st to the 30th of M+6, one chapter a day.** 231 the 21st · 232 the 22nd ·
+233 the 23rd · 234 the 24th · 235 the 25th · 236 the 26th, **the schedule goes up at ten** · 237 the
+27th, **the certificate is dated and arrives at noon** · 238 the 28th · 239 the 29th · 240 the 30th.
+- **TWO THURSDAYS IN THIS BATCH AND BOTH REPAINT: the twenty-second (232) and the twenty-ninth
+(239).** June's Thursdays are the 1st, 8th, 15th, 22nd and 29th. **The word Thursday appears five
+times — 232 (x3), 239 (x2) — and every one is the Thursday pass, the calendar, or painters' work.
+No chapter names any other weekday.** (232's third use and 239's second are generic crew references
+inside Thursday chapters and are lawful there; 236 was drafted with two and both were removed.)
+- **THE OFFICE DOES NOT SIT ON THE TWENTY-SEVENTH AND THIS BATCH NEVER SAYS SO.** The carrier sits
+for it (237). Stated once at Ch 215, not restated.
+- **THE COUNTDOWN IS ONE ARITHMETIC.** Days elapsed from the return of the twenty-seventh of April,
+sixty less that: **54/6 (231) · 55/5 · 56/4 · 57/3 · 58/2 · 59/1 · 60/0 (237) · 61 (238) · 62 (239) ·
+63 (240).** Only 231 prints days-to figures (5/6/10 after repair; first pass carried the 20th's
+6/7/11). **238–240 print no countdown of any kind**, per the prompt's ban.
+- **THE FIRST OF JULY AND AFTER IS BATCH 0005'S AND IS NOT FIXED HERE**, except what this batch
+already put there: the hundred and thirty-third mark at nine (Petra below at ten to nine), two
+hearings, the dead list on the fourth.
+
+### Mechanics now on the page — CANNOT CONTRADICT
+
+- **A REMOVAL APPLIED TO THE WRONG PAPER STOPS NOTHING (236).** The instrument for an officer with
+a conflict takes a line, a date and an initial. Raised at eleven on the twenty-sixth against the
+correction of the twelfth, it leaves the certification schedule posted at ten untouched. An hour
+late and a paper wide. Neither bar (auditor-member, six-with-no-roll) is resolved; both are
+bypassed by exactness.
+- **A CERTIFICATE IS RECEIVED, NOT ARRIVED (237, 238).** Sun signs the carrier's book at noon on the
+twenty-seventh; the head signs the return slip in his own hand on the twenty-eighth. From the
+signature the household is findable without being looked for (Ch 207's sentence, now true).
+- **WREN KALLO'S FINDING IS A DIVISION'S FILE (233).** Hadewig Mers, head of counter-forensics, has
+it from ten on the twenty-third. Four edits, all removals, no addition in five years. First it pulls
+the index entry, second the correction, third it asks nobody anything for three days.
+- **A FIELD COUNTER CLOSES AT HALF PAST THREE (234).** Runa's answer goes through with one minute to
+spare and carries the false six into a fourth office.
+- **TESSA'S CLINIC IS ENTERED (240).** Carried on the thirtieth into the returned lines. A clinic,
+not a person — and the office reads lines, not intentions.
+- **THE ROLL STAYS CUT.** Seven pieces in seven pockets; the seventh row sewn shut (eleven stitches,
+then twenty-two). Nail bare, rectangle nine by fourteen, no crew paints a stair. The side board keeps
+the schedule of the fourth of last month throughout; the certificate's date is never painted on it.
+
+### Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three.** Not one unit has moved in five years and nothing in
+this batch could move it. What moved was a schedule, a certificate and a receipt.
+- **Ledger 118 lines, nine turned, the ninth still himself.** Nothing spent on anybody. **Zero system
+panels and no count turns.**
+- **File 4,112, one folio open, no second.**
+- **63 of the sixty days have run at the close (240).** The sixtieth was the twenty-seventh. 238–240
+print no count.
+
+### The household as it now stands, and which list is meant — SAY IT EVERY TIME
+
+- **Seven women on the cut roll**: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato,
+Marguerite Vale, Sun Meiling. **Six keep an address at Ferrier Street and six keep the notebook**
+(all but Sun Meiling). **The seventh row is pencil in a sewn coat pocket.**
+- **Petra Ilyin is in the house and is on no roll of any kind.** She carried the fourth page (16th),
+stands the bundle (1st, ten to nine).
+- **Wren Kallo is the eighth partner, is on no roll at any time.** Her finding is filed; she sits on
+steps that are not in any file.
+- **Agnete Lindqvist sleeps in the building and is on no list of any kind, and the door stays open.**
+The certificate now entitles someone to ask what is at that address. She is what is at it.
+- **Three copies of the household agree in three offices** (index complete since 21st May; guild six
+names since 1st; sworn six of the 14th, now certified and receipted). **None is in the house.**
+
+### What this batch did NOT open
+
+Second folio · **Ines's review, resolved, discussed or nearly said** · B103 · the instrument's
+live-column rule · **Marguerite's March terms** · Bernt · Rhee · Saskia Verhoeven · Alma Quayle ·
+Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Dagmar Oyelowo · anything after
+Volume 8 · **a rank, a grain, a folio, a classification** · **the audit division's four words
+resolved** · **who entered the twelfth docket early** · **what the thirty-year account is for**
+· **who Wren has told since the eighth** · **the hole at the low end of the Reading board** ·
+**Wren's held name** · any new weekday · any new final enemy.
+
+### What this batch did NOT close
+
+The two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name · the desk's four-line
+note · the classification paper dated the nineteenth · the ninth of September · the broken price ·
+Sun Meiling's February · the leak · **Agnete's eleven years indoors** · **Ines's review** · Runa's
+hearing and Beatrix's hearing (both the first) · **Wren's held name** · Beatrix's eleven burned
+months · the bare slot on the Reading wall · **Solveig Rask and the annual sitting** · **the first
+of July** · **the hundred and thirty-third mark, and the fourth of July** · **the woman the
+certificate costs (Ch 241)**.
+
+### Endings and temperature
+
+231 bread and a nail and ten days of paper · 232 ladders, paint, and Wren on a step · 233 a finding
+on a desk and a copy from the index · 234 **the angry chapter, and she is right, and the bundle goes
+through with a minute to spare** · 235 **the quiet one, a pail and soup** · 236 **the schedule at
+ten, the removal at eleven, an hour late and a paper wide** · 237 **the certificate at noon** ·
+238 **the receipt, in his own hand, and the batch's irreversible decision** · 239 a frame, a wall,
+and clerks' hands · 240 an office with a door on it, an entry carried, and a question waiting
+behind an open door.
+
+**Scenes: 205, 214 and 228 in Volume 5, all written; none in this batch. The next is Chapter 241,
+the gap 228 → 241 = 13, and Volume 5 owns 241 and 249 and may move each one chapter only. Ch 241 is
+decided: AGNETE LINDQVIST.**
+
+---
+
+## Volume 5, Batch 0003 — CLOSED (Chapters 221–230). **THE NOTICE.** WREN KALLO IS ON THE PAGE AGAIN. (SUPERSEDED)
 
 **Ten chapters written against the batch prompt, entered at Chapter 221 on the eleventh of June and
 running to the twentieth, one chapter a day, no shared dates and no gaps. Full gate output, the Gate A
