@@ -1390,7 +1390,7 @@ page in a room with a lamp on it on the twenty-first of March, nine days out.**
   A return comes out of a book and a book in that room is not a document anybody can correct. **WHAT SHE WANTS,
   SAID OUT LOUD FOR THE FIRST TIME IN SIX MONTHS: to be findable, because the Vant's books are not a roll and
   there is no instrument in this city that will enter a guild broker's standing anywhere, and she has wanted it
-  for about nine years and never said it.** And he eats at her table. **Four chairs, nine years, no meal at it
+  since before she took the Vant and never said it.** And he eats at her table. **Four chairs, nine years, no meal at it
   since the autumn before last, and the twenty-third of March is the first one in eighteen months and she eats
   at it with him and tells him he will be different on the thirtieth before the tea is out.**
 - **394 (24 Mar). THE MAN WHO WAS IN THE FOURTH SEAT.** **Six days.** Bertram Sallow, gone since the twelfth of

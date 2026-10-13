@@ -1,20 +1,39 @@
-# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026, RE-RUN AND REPAIRED 14 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026, RE-RUN AND REPAIRED 14 OCTOBER 2026, REVIEW FINDINGS APPLIED 15 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
 
-> **14 OCTOBER 2026 — BATCH 0005 REPAIR PASS. CHAPTERS 391-400 WERE ALREADY ON DISK, REVIEWED AND CLOSED; THIS PASS DID NOT WRITE OR REPLACE THEM.** A re-run of the gate from outside found **seven interval figures wrong** and **three self-reported ages breaking the hard lock that names Wren Kallo and Marguerite Vale**, and repaired all ten. **The narrative position at Chapter 400 is unchanged.** The full gate block, re-run after the last edit and with the arithmetic for each repair, is at the head of `state/open-threads.md`.
->
-> **THE FIGURES THAT MOVED: Volume 8 is 106,574 words and Batch 0005 is 20,326**, counted per file and summed — the close audit's 106,572 and 20,324 are stale by two. **398's scene body is 1,251 words** on the span `## The Room` to `## Afterwards` with heading lines excluded. **Zero ages stand in the batch.** The 12-gram row is 0, verified against the audited 31 before the scanner was believed.
->
-> **THE ONE A REPAIR MUST NOT REINTRODUCE: 397 said *eighty-eight days* for the sheet on the twenty-seventh of March and it is *eighty-seven*.** The superseded gate block certified that figure as correct and was wrong. 398's *eighty-eight* is right, because 398 is the twenty-eighth.
+> **15 OCTOBER 2026 — THE REVIEW OF THE 14 OCTOBER REPAIR PASS WAS READ AND ITS FINDINGS APPLIED. CHAPTERS 391-400
+> WERE NOT REWRITTEN.** Six findings and two minor ones. **One line of prose changed, 393:51**, because the pass's own
+> age substitution put *for about nine years* four lines above *you have not been listening for nine years* in the same
+> woman's mouth in the same speech; it now reads *since before the Vant*. **Every figure in the book is unchanged** —
+> 393 is still 1,829 words, Volume 8 is still 106,574, Batch 0005 is still 20,326 — because that substitution is
+> four words for four words. Everything else the pass produced was verified, kept, and had its arithmetic corrected.
 
-**THE LIVE GATE BLOCK IS NOW THE REPAIR PASS'S, AT THE HEAD OF `state/open-threads.md`, FOLLOWED BY THE CLOSE AUDIT.**
-Batch 0005's own head record is retained in full beneath both and is retained as the position at Chapter 400; Batch 0004's follows it. **Read the audit's figures and not the gate block's, and the repair pass's figures and not either.**
+> **WHERE THE NUMBERS COME FROM — ONE ANSWER, NOT TWO.** The live gate block is **the repair-pass block at the head of
+> `state/open-threads.md`**, which was re-run after its last edit and again on 15 October. `reviews/volume-08/volume-close.md`
+> is the close audit and is kept whole, and the batch 0005 head record is kept whole beneath both, but **both are
+> superseded for figures** and neither is a live block. The superseded 13 October paragraph that used to sit under
+> this one is struck through and retained for the record. **Batch 0004's block follows and is likewise superseded.**
 
-**THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`.** Batch 0005's head record is
-immediately below it and is retained in full as the position at Chapter 400. **Four rows of that block were false as
+> **TWO NUMBERS A REPAIR MUST NOT REINTRODUCE. 397 says *eighty-seven days* for the sheet on the twenty-seventh of
+> March, not eighty-eight** — the 13 October gate block certified eighty-eight in so many words and was wrong.
+> **And 393 says no age and no span where the want is spoken**: *since before the Vant*, never *since I was
+> thirty-one*, and never *for about nine years*, which four lines later collides with her *for nine years*.
+
+> **ONE CONDITION THE WRITER CANNOT FIX AND HAS NOT TOUCHED.** `workspace/volume-08/batch-0005/` carries no `.done`
+> while `workspace/volume-08/volume-close/` does, so a selector that scanned markers would see batch 0005 as
+> unfinished. **`PHASE_SYSTEM.md` line 220: "Only the controller may mark a phase done or blocked," so no `.done`
+> marker was written, moved or deleted here, and none will be.** `state/phase-ledger.json`, which the selector reads
+> first, is likewise absent and likewise controller-owned. The condition is recorded at the head of
+> `state/open-threads.md` for the controller.
+
+**~~THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`. Batch 0005's head record is
+immediately below it and is retained in full as the position at Chapter 400. Four rows of that block were false as
 written and were corrected by the audit — the 12-gram row, the 11-gram row, the 8-gram row and the trailing-newline
 claim — and a second run on 14 October 2026 found five more, of which two are corrected here: the word-count rows,
 106,583 and 20,335, which the audit's own four prose repairs invalidated, and the per-file list behind them. Read the
-audit's figures and not the gate block's.**
+audit's figures and not the gate block's.~~ **SUPERSEDED. THIS PARAGRAPH CLAIMED THE SAME THING AS THE ONE ABOVE IT
+AND BOTH WERE LIVE. THE AUDIT IS NOT THE LIVE BLOCK. THE REPAIR PASS AT THE HEAD OF `state/open-threads.md` IS, AND
+THE REASON IS THAT IT IS THE ONLY BLOCK WHOSE FIGURES WERE RE-RUN *AFTER* THE PROSE EDITS THAT INVALIDATED THE
+AUDIT'S. THIS PARAGRAPH IS RETAINED ONLY AS THE RECORD OF WHAT THE AUDIT FOUND.**
 
 ## 0. THE POSITION AT CHAPTER 400, AND IT IS WHAT VOLUME 9 OPENS ON
 
@@ -63,9 +82,10 @@ great offer is 486's, and Volume 8 revived neither Wren Kallo's nor Anouk Ferrei
 
 **VOLUME 9'S SENTENCE ENDS *OR THE ACCOUNT STAYS OPEN*, AND THE ACCOUNT STAYS OPEN.**
 
-**THE BLOCK IMMEDIATELY BELOW IS BATCH 0005'S AND IS SUPERSEDED BY THE CLOSE RECORD ABOVE. Read the close record before any Volume 9 chapter is written.** Batch 0004's block is immediately
+**THE BLOCK IMMEDIATELY BELOW IS BATCH 0005'S WRITING RECORD AND IS SUPERSEDED BY THE CLOSE RECORD ABOVE. Read the close record before any Volume 9 chapter is written.** Batch 0004's block is immediately
 below it and is retained in full as the position at Chapter 390; 0003's and 0002's follow. **Live gates are at the
-top of `state/open-threads.md`, and the live gate block is Batch 0005's. The volume outline is `outline/volume-08.md`
+top of `state/open-threads.md`, and the live gate block is that file's head block — Batch 0005's record as amended by
+the 14 and 15 October passes, and not the 13 October block further down this file.** The volume outline is `outline/volume-08.md`
 and its §6 movements 1 to 5 are all now written fact, its §8 is written fact, and its §10 is re-run against 400 title
 lines.**
 
@@ -73,7 +93,7 @@ lines.**
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0391.md` … `chapter-0400.md` | ten finished chapters, the twenty-first to the thirtieth of March, one day a chapter. **20,324 words counted per file and summed — corrected 14 October 2026, this read 20,335. Volume 8 is 106,572 — corrected, this read 106,583.** The 11-word difference is the close audit's four prose repairs |
+| `chapters/volume-08/chapter-0391.md` … `chapter-0400.md` | ten finished chapters, the twenty-first to the thirtieth of March, one day a chapter. **20,326 words counted per file and summed — corrected 15 October 2026, this read 20,324, and before the close audit 20,335. Volume 8 is 106,574 — corrected, this read 106,572, and before the close audit 106,583.** The first eleven-word difference is the close audit's four prose repairs and the last two-word difference is the repair pass's twelve edits, which are word-for-word and numeral-for-numeral exchanges and therefore **net +2**. Re-run after every edit |
 | `outline/volume-08.md` | **§6 movement 5 rewritten against the page**, with **twelve named places the plan was wrong**, **both open questions the section left for the last batch settled**, §6's header corrected, §4's fifth column given the register the batch actually carried, §4's day-spine row for 391–400 rewritten, **§8 rewritten against the page as written fact**, the file's own two-register note corrected, and §10 re-run |
 | `state/open-threads.md` | **new live gate block**, and canon items **PC-47 to PC-56** recorded in the same commit; Batch 0004's block marked superseded |
 | `state/current.md` | this block |
@@ -156,8 +176,8 @@ does not appear in the ten.
   not hers.**
 - **393 (23 Mar). THE FOURTH HAND ON THE LINE. Seven days.** **Marguerite Vale writes her own name in the fourth
   line of a weekly return at about nine in the morning on her own account, and it fills no seat and cannot be
-  struck.** She is on no roll in this city and is not going to be on one, and she has wanted to be findable for
-  about nine years and had never said it. **And he eats at her table: four chairs, nine years, no meal at it
+  struck.** She is on no roll in this city and is not going to be on one, and she has wanted to be findable since
+  before she took the Vant and had never said it. **And he eats at her table: four chairs, nine years, no meal at it
   since the autumn before last, and the twenty-third of March is the first in eighteen months and she eats at it
   with him and tells him he will be different on the thirtieth before the tea is out.**
 - **394 (24 Mar). THE MAN WHO WAS IN THE FOURTH SEAT. Six days.** **Bertram Sallow, and the cause of the twelfth of

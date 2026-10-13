@@ -1,12 +1,12 @@
 ## VOLUME 8 — CHAPTERS 351–400 ARE ON DISK. **VOLUME 8 IS CLOSED AND ITS CLOSE AUDIT HAS RUN.** THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
 **THIS IS THE LIVE BLOCK AND IT NOW OPENS ON THE CLOSE AUDIT'S RESULT.** Batch 0005's block is immediately below it.
 
-## 0a. BATCH 0005 REPAIR PASS, 14 OCTOBER 2026. **NUMERIC AND TEXTUAL ONLY. NOTHING BELOW CHANGES THE STORY.**
+## 0a. BATCH 0005 REPAIR PASS, 14 OCTOBER 2026, REVIEW FINDINGS APPLIED 15 OCTOBER 2026. **NUMERIC AND TEXTUAL ONLY. NOTHING BELOW CHANGES THE STORY.**
 
 **Chapter 391-400 were already written, reviewed and closed before this pass. A re-run from outside the gate found
-seven interval figures wrong and three self-reported ages that broke a hard lock. All ten are repaired. The gate
-block, with every figure re-run after the last edit and the arithmetic shown for each repair, is at the head of
-`state/open-threads.md`.**
+eight interval figures wrong, three self-reported ages that broke a hard lock, and one location that the same repair
+moved without declaring. All twelve edits are repaired. The gate block, with every figure re-run after the last edit
+and the arithmetic shown for each repair, is at the head of `state/open-threads.md`.**
 
 **WHAT A VOLUME 9 WRITER NEEDS FROM THIS: nothing in the narrative changed. The position at Chapter 400 stands exactly
 as the close audit left it — 8,146 on the card, 8,131 against premises 34-6-118, fifteen under, out of band by twelve,
@@ -18,7 +18,19 @@ woman who does not know she was appointed.**
 and summed; the close audit's 106,572 and 20,324 are stale by +2). **398's scene body is 1,251 words** on the span
 `## The Room` → `## Afterwards` with heading lines excluded; the close audit's 1,467 did not reproduce under that
 definition. **The 12-gram duplication row is 0 and was re-verified against the audited 31 before the scanner was
-believed.** **Zero ages stand in the batch.**
+believed.** **Zero ages stand in the batch.** **Where §0 below prints 106,572 or 20,324, those are the audit's figures
+as they stood on the thirteenth and they are superseded by this block; the per-file list behind both is in the gate
+block at the head of `state/open-threads.md`.**
+
+**THE 15 OCTOBER PASS: ONE LINE OF PROSE, AND NOTHING ELSE.** `chapter-0393.md:51`, where Marguerite Vale says what
+she wants out loud for the first time in six months, read *I have wanted to be findable for about nine years* — the
+substitution the repair pass made for an age — **and four lines below it, in the same speech and the same mouth, she
+says *you have not been listening for nine years*.** It now reads **I have wanted to be findable since before the Vant.**
+The Vant is named twice in the scene immediately above the line, the want predates her holding the thing she cannot be
+found through, **no age and no span is spoken at the line where she says what she wants, and the substitution is four
+words for four words — so every figure in this block is unchanged by it.** `outline/volume-08.md`,
+`state/current.md` and `state/chapter-summaries.md` were updated to the chapter's wording, because a Volume 9 writer
+who reads the plan against the page must not find them disagreeing.
 
 **THE ONE TO CARRY: 397 said eighty-eight days for the sheet on the twenty-seventh of March. It is eighty-seven. The
 superseded gate block had certified that figure as correct in so many words and was wrong.**

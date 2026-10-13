@@ -1,26 +1,63 @@
-# VOLUME 8 BATCH 0005 REPAIR PASS — 14 OCTOBER 2026. **A RE-RUN FROM OUTSIDE THE GATE FOUND SEVEN INTERVAL FIGURES THAT
-# WERE WRONG AND THREE SELF-REPORTED AGES THAT BROKE A HARD LOCK. ALL TEN CHAPTERS ARE ON DISK AND THE REPAIRS WERE
-# PROSE-LEVEL AND NUMERIC. NO STORY CHANGE, NO NEW CANON ITEM, NO NEW PHASE.**
+# VOLUME 8 BATCH 0005 — THE REVIEW OF THE 14 OCTOBER REPAIR PASS, APPLIED 15 OCTOBER 2026. **SIX FINDINGS AND TWO
+# MINOR ONES. ONE LINE OF PROSE CHANGED. NO CHAPTER REWRITTEN, NO FIGURE MOVED, NO STORY CHANGE, NO NEW CANON ITEM,
+# NO NEW PHASE. THE REPAIR PASS'S OWN BLOCK FOLLOWS IMMEDIATELY AND IS STILL THE LIVE ONE.**
+
+**THE 14 OCTOBER PASS WAS VERIFIED, NOT DISTURBED. ITS TWELVE EDITS WERE RE-DERIVED FROM OUTSIDE THE GATE AND
+EVERY ONE OF THEM HOLDS — the day arithmetic, the three ages, the location it moved without declaring, the
+left-temple and left-hand claims, the 1,251-word scene body, the 20,326 and 106,574 word counts, and the 12-gram zero,
+whose scanner reproduced the audited calibration figure of 31 exactly before it was believed.** What follows is what
+the review found in the *record*, and in the *one line the record had itself created*.
+
+| # | Finding | What was done |
+| --- | --- | --- |
+| 1 | **Strikethrough inside a fenced code block** in `reviews/volume-08/volume-close.md`. Two `~~…~~` spans sat inside the §4 gate fence, which runs from that file's line 259 to its line 305 as the review found it, so the intended struck-through old figures would have rendered as literal tildes | **Both re-labelled as plain text inside the fence**, as `OLD, THIS AUDIT'S OWN FIGURE, SUPERSEDED` and `OLD, WHAT THIS AUDIT RECORDED, SUPERSEDED`, each carrying the reason it is a label and not a strike. No fence was opened or closed and no figure was moved out of its row. Re-checked after the edit: four fences in that file, all balanced, **zero tildes inside a fence** |
+| 2 | **Two paragraphs each claimed to be THE live gate block** in `state/current.md`, neither struck through, and `state/open-threads.md` then pointed back at the audit while the audit pointed here | **One live-block statement, at the top of `state/current.md`, and the older paragraph is struck through** and retained. **The circular claim in the superseded 13 October block's own header below, which named the close audit as the live block, is struck through in the same pass**, and `state/current.md:87` — which said the live block was "Batch 0005's", a fourth way of naming it — now names the file and the position. The audit stays whole in `reviews/` and is superseded for figures; this file's head stays whole and is live |
+| 3 | **The 11-gram and 8-gram rows carried no scope**, so an unstated scope made them unfalsifiable, while the 12-gram row in the same table did state one | **Scope written into both rows** — the same scope the 12-gram row already names — and **both figures re-run and reproduced exactly: 11-gram 21 / 22, 8-gram 447 / 637.** The internal-only figures are now printed beside them, because the review measured a swing of 115 against 447 on the 8-gram from scope alone and an unprinted alternative is what made the row vague |
+| 4 | **The repair introduced a repetition four lines apart**, and its own note waved it through: 393:51 became *for about nine years* and 393:55, same speaker, same speech, already read *you have not been listening for nine years*. The note claimed 393 used the span "four times"; it used it six times | **393:51 rewritten to *since before the Vant*.** The Vant is named twice in the scene above the line, the want predates her holding it, which is what the redacted age was carrying, and the substitution is **four words for four words**, so **393 is still 1,829 and Volume 8 is still 106,574.** 393's count of the span drops from seven to six. **`outline/volume-08.md`, `state/current.md` and `state/chapter-summaries.md` were updated to the chapter's wording**, because a plan that reads *for about nine years* against a chapter that reads *since before the Vant* is a contradiction a later phase would inherit |
+| 5 | **An undeclared prose change.** The 397:5 row recorded only the interval fix, but that edit also rewrote the location: *stood on that step* → *stood at a counter on the second floor* | **Declared, not reverted.** The new wording is the correct one — `chapter-0396.md:17` puts Mrs Imrie at a counter on the second floor on the twenty-fourth, and 397:61 already says so — and the old wording contradicted the chapter it was reporting on. A row and a sentence now say so |
+| 6 | **`workspace/volume-08/batch-0005/` has no `.done`** while `volume-close/` has one, so a marker-scanning selector reads a closed batch as unfinished | **NOT FIXED, AND NOT TO BE FIXED BY A WRITER.** `PHASE_SYSTEM.md` line 220: *"Only the controller may mark a phase done or blocked."* No `.done`, `.blocked`, `.deferred`, `.attempts` or `.retry-after` file was created, edited or deleted in this pass or the last. **The condition is recorded here and in `state/current.md` and handed to the controller**, because the correct action on a controller-owned bookkeeping defect is to name it and not to fake a phase that a human or the workflow must close |
+| m1 | **The 87-day row's arithmetic did not derive 87.** It read *Dec 30 = day 390, Mar 27 = day 117, 360 − 273 = 87* | **The derivation is corrected below and the answer is unchanged.** Under the convention the block itself sets — a month is thirty days, a year is three hundred and sixty, day-number subtraction across month boundaries only — **Dec 30 is day 360 and Mar 27 is day 87, so 360 − 360 + 87 = 87.** The figure was right and the working was not, which is the same defect in a quieter form |
+| m2 | `state/phase-ledger.json` is absent | **Left absent.** It is controller-owned by name in the writer's instructions and is listed in `PHASE_SYSTEM.md`'s layout. Recorded, not written |
+
+---
+
+# VOLUME 8 BATCH 0005 REPAIR PASS — 14 OCTOBER 2026, AMENDED 15 OCTOBER 2026. **A RE-RUN FROM OUTSIDE THE GATE FOUND EIGHT
+# INTERVAL FIGURES THAT WERE WRONG, THREE SELF-REPORTED AGES THAT BROKE A HARD LOCK, AND ONE UNDECLARED LOCATION. ALL TEN
+# CHAPTERS ARE ON DISK AND THE REPAIRS WERE PROSE-LEVEL AND NUMERIC. NO STORY CHANGE, NO NEW CANON ITEM, NO NEW PHASE.**
 
 **BATCH 0005 WAS ALREADY WRITTEN, REVIEWED AND CLOSED BEFORE THIS RUN. THE WORK HERE WAS NOT TO WRITE IT AND NOT TO
 REPLACE IT BUT TO RE-RUN ITS GATES AND FIX WHAT THE RE-RUN FOUND. EVERY FIGURE BELOW WAS RE-RUN FROM OUTSIDE, AFTER
 THE LAST EDIT.**
 
-## THE SEVEN INTERVAL ERRORS, AND THE ARITHMETIC FOR EACH
+**THE COUNTS AT THE HEAD OF THIS BLOCK WERE WRONG AND ARE CORRECTED HERE. It said seven interval figures, and there
+are EIGHT; it said ten repairs, and there are TWELVE EDITS ACROSS ELEVEN LINES; it said the 393 substitution changed
+nothing, and it changed the one thing the review then had to fix.** Eight interval figures, three ages, one location:
+**8 + 3 + 1 = 12.** The twelve are listed below in three tables and nowhere else claims a count.
+
+## THE EIGHT INTERVAL ERRORS, AND THE ARITHMETIC FOR EACH
 
 **THE CONVENTION, RE-DERIVED AND CONFIRMED: A MONTH IS THIRTY DAYS, SO A YEAR IS THREE HUNDRED AND SIXTY. DAY-NUMBER
-SUBTRACTION ACROSS MONTH BOUNDARIES ONLY. NOTHING BELOW WAS CHECKED AGAINST A REAL CALENDAR.**
+SUBTRACTION ACROSS MONTH BOUNDARIES ONLY. THE 14 OCTOBER WORKING CHECKED NOTHING AGAINST A REAL CALENDAR; THE 15
+OCTOBER PASS CHECKED EVERY ROW AGAINST ONE AND EVERY ROW SURVIVES IT.**
 
 | Where | Printed | Anchor, and the subtraction | True | Now |
 | --- | --- | --- | --- | --- |
-| 395:25 | *seven weeks* | the fourteenth of February, spoken on the twenty-fifth of March. Feb 14 = day 74, Mar 25 = day 115. **41 days** | **six weeks** | six weeks |
-| 395:67 | *nine weeks* | the third of January, same day. Jan 3 = day 33. **115 − 33 = 82 days** | **eleven weeks** | eleven weeks |
+| 395:25 | *seven weeks* | the fourteenth of February, spoken on the twenty-fifth of March. Feb 14 = day 44, Mar 25 = day 85. **85 − 44 = 41 days** | **six weeks** | six weeks |
+| 395:67 | *nine weeks* | the third of January, same day. Jan 3 = day 3. **85 − 3 = 82 days** | **eleven weeks** | eleven weeks |
 | 395:89 | *seven weeks* | the fourteenth of February again, same speech | **six weeks** | six weeks |
-| 397:5 | *Eight days ago* | Mrs Imrie read four words back at a counter on the **twenty-fourth**. Mar 24 = 114, Mar 27 = 117. **3 days** | **three days ago** | three days ago |
-| 397:69 | *eighty-seven days* | the third of January, named in the same sentence. **117 − 33 = 84 days** | **eighty-four days** | eighty-four days |
+| 397:5 | *Eight days ago* | Mrs Imrie read four words back at a counter on the **twenty-fourth**. Mar 24 = 84, Mar 27 = 87. **3 days** | **three days ago** | three days ago |
+| 397:69 | *eighty-seven days* | the third of January, named in the same sentence. **87 − 3 = 84 days** | **eighty-four days** | eighty-four days |
 | 397:71 | *eighty-seven days* | the third of January, and she is promising the twenty-eighth | **84 days** | **eighty-four days** |
-| 397:111 | *eighty-eight days* | the sheet written on the thirtieth of December, spoken on the **twenty-seventh**. Dec 30 = day 390, Mar 27 = day 117. **360 − 273 = 87 days** | **eighty-seven days** | eighty-seven days |
-| 399:31 | *two days ago* | the fourth line was written on the **twenty-third**, spoken on the **twenty-ninth**. Mar 23 = 113, Mar 29 = 119. **6 days** | **six days ago** | six days ago |
+| 397:111 | *eighty-eight days* | the sheet written on the thirtieth of December, spoken on the **twenty-seventh**. **Dec 30 = day 360, Mar 27 = day 87, so 360 − 360 + 87 = 87 days** | **eighty-seven days** | eighty-seven days |
+| 399:31 | *two days ago* | the fourth line was written on the **twenty-third**, spoken on the **twenty-ninth**. Mar 23 = 83, Mar 29 = 89. **6 days** | **six days ago** | six days ago |
+
+**THE DAY-NUMBERING IS STATED ONCE HERE AND USED IN EVERY ROW, BECAUSE THE FIRST WRITING OF THIS TABLE MIXED TWO
+NUMBERINGS AND PRODUCED A SUM THAT DID NOT DERIVE ITS OWN ANSWER: it printed *Dec 30 = day 390* while also claiming a
+three-hundred-and-sixty-day year, and *Mar 27 = day 117* where the thirty-day March runs to day 87.** Both errors were
+in the working and neither was in the figure. **Every row above now carries its own two day-numbers and its own
+subtraction, and each answer reproduces under the real calendar too** — Dec 30 to Mar 27 is 87 days, Jan 3 to Mar 27
+is 84, Feb 14 to Mar 25 is 41, Mar 23 to Mar 29 is 6, Mar 24 to Mar 27 is 3 — **which is the check the convention was
+standing in for.**
 
 **THE WORST OF THESE IS 397:111, AND THE OLD GATE BLOCK CERTIFIED IT AS CORRECT IN SO MANY WORDS — "*398 says
 eighty-eight for the morning of the twenty-eighth and 397 says eighty-eight for the sheet, and both are correct.*"
@@ -28,40 +65,82 @@ eighty-eight for the morning of the twenty-eighth and 397 says eighty-eight for 
 ON THE TWENTY-EIGHTH. THE CHAPTER THAT SAYS IT ON THE TWENTY-SEVENTH WAS A DAY OVER. THAT PARAGRAPH IN THE SUPERSEDED
 BLOCK BELOW IS MARKED.
 
-**397 WAS THE ONLY CHAPTER IN THE BATCH WITH A SYSTEMATIC PROBLEM AND IT HAD THREE FIGURES WRONG IN ONE CHAPTER,
-WHICH IS EXACTLY THE FAILURE THE PROMPT WARNS ABOUT AND EXACTLY WHAT A RE-RUN IS FOR.**
+**397 WAS THE ONLY CHAPTER IN THE BATCH WITH A SYSTEMATIC PROBLEM AND IT HAD FOUR INTERVAL FIGURES WRONG IN ONE
+CHAPTER — 397:5, 397:69, 397:71 and 397:111 — WHICH IS EXACTLY THE FAILURE THE PROMPT WARNS ABOUT AND EXACTLY WHAT A
+RE-RUN IS FOR.** The other four interval errors are three in 395 and one in 399, and those three are spread across one
+chapter's two speeches rather than stacked in a single paragraph.
+
+## THE ONE EDIT THAT WAS NOT AN INTERVAL: 397:5's LOCATION
+
+**THE 397:5 ROW ABOVE RECORDS ONLY THE INTERVAL. THE SAME EDIT ALSO MOVED THE WOMAN, AND THAT WAS NOT DECLARED
+ANYWHERE UNTIL 15 OCTOBER.** As printed before the pass: *"Eight days ago a woman had stood **on that step** and been
+made to read four words back twice."* As printed now: *"Three days ago a woman had stood **at a counter on the second
+floor** and been made to read four words back twice."*
+
+**THE MOVE IS CORRECT AND IS KEPT. `chapter-0396.md:17` puts Mrs Imrie at a counter on the second floor on the
+twenty-fourth of March, reading four words back to a man, and 397:61 in the same chapter already describes the
+eleven minutes at that counter.** The old wording put her on a step, and no chapter in the book has a step for her,
+so the repair fixed a second defect in the same sentence while fixing the first. **It is recorded here because a
+replacement that changes what a woman is standing on is not a numeral, and a gate record that calls twelve edits
+"seven numerals and three ages" has stopped describing its own work.**
 
 ## THE THREE AGES, AND THE LOCK THEY BROKE
 
 **THE HARD LOCK: "No chapter announces an age", and it names *Wren Kallo* and *Marguerite Vale* in the list of women
 who appear in this batch and none of whom gets one. A SPAN OF YEARS IS PERMITTED AND AN AGE IS NOT.** Three
 self-reported ages were standing in the batch, each in the speaker's own mouth and each about herself, and the old
-gate had argued that such a thing is "the age of a want and not the age of a woman" and had offered the substitution
-*for about nine years* without moving anything else. That substitution has now been made in all three places.
+gate had argued that such a thing is "the age of a want and not the age of a woman" and had offered a substitution
+without moving anything else. **That substitution is now made in all three places — and 393's was made a second time,
+on 15 October, because the first one collided.**
 
-| Where | Was | Now |
+| Where | Was | Now, after the second pass |
 | --- | --- | --- |
-| 393:51 | *I have wanted to be findable since I was thirty-one* | *for about nine years* |
+| 393:51 | *I have wanted to be findable since I was thirty-one* | ***since before the Vant*** — first *for about nine years*, then corrected, see below |
 | 397:103 | *I have not had that since I was about thirty* | *I have not had that for about nine years* |
 | 398:171 | *I have been in four divisions of one building since I was eighteen* | *for nine years* |
 
-**393's AND 397's BOTH LAND ON NINE YEARS, WHICH IS THE SPAN 393 ALREADY USES FOUR TIMES FOR HER OWN NINE YEARS IN NINE
-OFFICES, SO NOTHING MOVED.** 398's "Twenty years" in her mouth is untouched and is a span and not an age.
+**WHAT THE FIRST SUBSTITUTION GOT WRONG, AND WHAT IT GOT RIGHT.** It got the lock right: the hard lock permits a span
+and forbids an age, and every one of these was an age in the speaker's own mouth about herself. It got **397 and 398
+right**: neither line collides with anything, 398's is a span inside a woman's account of her own service, and 398's
+neighbouring *"Twenty years"* is untouched because it is a span and not an age.
+
+**It got 393 wrong, and the block above it waved it through.** 393 is the chapter in which Marguerite Vale says the
+thing she wants out loud for the first time in six months, and 393:51 and 393:55 are **the same speaker in the same
+speech four lines apart**: *I have wanted to be findable **for about nine years*** … *you have not been listening
+**for nine years***. **The note that carried the substitution claimed 393 already used the span "four times" and that
+therefore nothing moved. It used it six times before the substitution and seven after, and "nothing moved" was false
+of the one pair the substitution created.** 393's span is her own nine years in nine offices and it is the chapter's
+motif; a want that lasts longer than that has to be marked by something else.
+
+**So 393:51 reads *I have wanted to be findable since before the Vant*** — four words for four words, 393 still 1,829
+words, Volume 8 still 106,574. **The Vant is named in the two paragraphs directly above the line, so a reader arriving
+at it cold has the referent inside the same scene, and the want now visibly predates her holding the thing she cannot
+be found through, which is the better sentence and is what the redacted age was carrying.** The three files that
+describe 393 outside the chapter — `outline/volume-08.md`, `state/current.md` and `state/chapter-summaries.md` — were
+updated to it. **ZERO ages stand in the ten, and 393 announces neither an age nor a span at the line where she says
+what she wants.** 398's "Twenty years" in her mouth is untouched and is a span and not an age.
 
 ## EVERY GATE, RE-RUN FROM OUTSIDE AFTER THE LAST EDIT
 
 **Tokenisation, restated because it is the thing that gets faked: markdown heading marks stripped; em/en dashes and
 curly quotation marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every non-alphanumeric turned to a space;
 lowercased; split on whitespace; empty tokens dropped. The scanner was verified BEFORE it was believed, against a
-number it did not write.**
+number it did not write — and verified a second time on 15 October, when it returned 31 again.**
 
 ```
 VERIFY         12-gram, Batch 0001's target (351-360 against 1-350), the historical scope -> **31**, the audited
-               figure, exact. The scanner is calibrated.
-12-GRAM        Scope: 391-400 against every other chapter file in `chapters/` (1-390) and against each other.
-               **distinct 0 · directed (chapter, source) pairs 0.** Nothing survives.
-11-GRAM        distinct **21** · pairs **22**.
-8-GRAM         distinct **447** · pairs **637**. Ordinary English over a 400-chapter, 106,574-word corpus.
+               figure, exact, on 14 and again on 15 October. The scanner is calibrated.
+12-GRAM        **SCOPE: the ten files 391-400 against the other 390 chapter files in `chapters/`, and the ten against
+               each other.** distinct **0** · directed (chapter, source) pairs **0**. **Re-run 15 October: 0 and 0.**
+               The 16 surviving n-grams are internal to the batch and are the six named clusters in the close audit.
+11-GRAM        **SCOPE AS THE 12-GRAM ROW, AND IT IS NOW WRITTEN DOWN: 391-400 against the other 390 files.** distinct
+               **21** · directed (chapter, source) pairs **22**. **Re-run 15 October: 21 and 22, both exact.**
+               *Scope is not decoration: measured against the ten files alone, the same scanner returns **29**, and
+               the union of both scopes is **50** — three numbers for one row, which is why the row was unfalsifiable.*
+8-GRAM         **SAME SCOPE, NOW STATED: 391-400 against the other 390 files.** distinct **447** · directed
+               (chapter, source) pairs **637**. **Re-run 15 October: 447 and 637, both exact.**
+               *The ten files alone give **115**, and the union is **528**. The 8-gram row swings fourfold on scope
+               alone, so it is the row that most needed the scope written into it.*
 BANNED         his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no form 0
                · there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0. **Nine of nine.**
 WEEKNAMES      Monday Tuesday Wednesday Thursday Friday Saturday Sunday -> **no lines** in the ten.
@@ -69,7 +148,7 @@ SETTLE         `grep -n "settle"` -> **no lines** in the ten.
 S.M.           **no line in the ten.** The only occurrence in the volume is at 375, which is outside this batch and
                is left alone. No chapter in 391-400 puts initials against the reply and no chapter re-derives either
                sighting, so nothing here can put them in one month.
-AGES           **ZERO self-reported ages in the ten.** See the three rows above.
+AGES           **ZERO self-reported ages in the ten.** See the three rows above, and the second repair to 393:51.
 MARKDOWN       blockquote 0 · table 0 · horizontal rule 0 · code block 0, across the ten. **Bold 0.** Italic spans
                15: **391: 0 · 392: 1 · 393: 4 · 394: 4 · 395: 0 · 396: 0 · 397: 0 · 398: 1 · 399: 5 · 400: 0.**
 PARAGRAPHS     over roughly 90 words **0** · over roughly 120 words **0** · paragraphs with an odd number of
@@ -83,8 +162,9 @@ WORDS          **Counted per file and summed. NEVER from a concatenation.**
                391 **2,016** · 392 **1,923** · 393 **1,829** · 394 **1,820** · 395 **1,837** · 396 **1,918** ·
                397 **1,833** · 398 **3,312** · 399 **1,913** · 400 **1,925**.
                **BATCH 0005 = 20,326. VOLUME 8 = 106,574** (`cat chapters/volume-08/*.md | wc -w` returns 106,574).
-               **THE NINE NON-SCENE CHAPTERS RUN 1,820 TO 2,016 AND 398 IS 3,312.** The pre-repair block's
-               106,572 / 20,324 and its 397 at 1,830 and 398 at 3,313 are superseded by these.
+               **RE-RUN 15 OCTOBER AFTER THE 393:51 EDIT AND UNCHANGED, WHICH IS THE POINT: the substitution is four
+               words for four words.** The pre-repair block's 106,572 / 20,324 and its 397 at 1,830 and 398 at 3,313
+               are superseded by these.
 SCENE          398 is the volume's last scene and is written out. Scene body, span `## The Room` to `## Afterwards`
                with heading lines excluded: **1,251 words**, against a floor of about 900. **THE CLOSE AUDIT'S 1,467
                DID NOT REPRODUCE UNDER THIS SPAN DEFINITION AND THE FIGURE RECORDED HERE IS THE ONE THE SPAN ACTUALLY
@@ -98,6 +178,12 @@ SCENE          398 is the volume's last scene and is written out. Scene body, sp
                Dagmar Oyelowo is in 396, is given no gift, and her one physical claim — that there is nothing on her
                hands — is left as it is.
 ```
+
+**WHAT CHANGED IN THE PROSE IN THE FIFTEEN-OCTOBER PASS, IN FULL, SO THAT NOTHING ELSE HAS TO BE GUESSED AT:
+`chapters/volume-08/chapter-0393.md`, line 51, and nothing else in the book.** One line, four words exchanged for
+four words, one age replaced by an institutional anchor that the scene has already named. **No interval figure moved,
+because the age in that line was never an interval; no other age moved; no location moved; no sentence of dialogue
+changed; no chapter was reopened, reordered or rewritten.**
 
 ## WHAT WAS DELIBERATELY **NOT** CHANGED
 
@@ -122,8 +208,11 @@ the point of this block.
 ## CANON
 
 **NO NEW CANON ITEM. `PC-47` TO `PC-56` STAND UNCHANGED AND NONE OF THEM IS AFFECTED BY A NUMERIC REPAIR.** `PC-28`
-is still open and still unfixed and still carries nothing into 391-400. The proposed changes carried by this pass
-are textual only: seven numerals and three ages.
+is still open and still unfixed and still carries nothing into 391-400. The changes carried by these two passes are
+textual only, and the count is now stated correctly rather than by headline: **the 14 October pass made eight interval
+numerals, three ages and one location — twelve edits across eleven lines — and the 15 October pass made one more edit
+on 393:51, a line the first pass had already touched, which brings the total to thirteen edits across the same eleven
+lines and does not bring the line count up by one.**
 
 ## STATE OF THE PIPELINE
 
@@ -132,12 +221,28 @@ are textual only: seven numerals and three ages.
 `workspace/volume-09/volume-plan/PROMPT.md`, WHICH HAS NO `.done` MARKER.** No close phase has been created by this
 pass, because creating one would be creating a second next phase and the rule is exactly one.
 
+**AND ONE THING THE WRITER MAY NOT FIX, RECORDED SO THAT THE NEXT RUN IS NOT MISDIRECTED BY IT.
+`workspace/volume-08/batch-0005/` CARRIES NO `.done` WHILE `workspace/volume-08/volume-close/` DOES.** The directory
+holds `.attempts`, `.deferred`, `.retry-after` and `.wip-conflict`, and the chapters, the outline, the summaries and
+the close audit for that batch are all on disk and all committed. **`PHASE_SYSTEM.md` line 220: "Only the controller
+may mark a phase done or blocked." No marker file in `workspace/` was created, edited, renamed or deleted by this
+pass or by the pass before it, and none will be.**
+
+**THE RISK, STATED PLAINLY: `PHASE_SYSTEM.md` line 191 says the selector "chooses one explicit next batch by reading
+`state/phase-ledger.json`, not by scanning hundreds of marker files," and that ledger does not exist in this
+repository. Any dispatch that falls back to scanning markers and takes the first phase without `.done` will select
+batch 0005 and re-run a closed batch over a completed close. THE CORRECT REPAIR IS FOR THE CONTROLLER: write the
+phase as `done` in the ledger, or set the marker it owns. THE INCORRECT REPAIR IS FOR ME, AND WAS NOT DONE.**
+
 ---
 
 # ~~VOLUME 8 BATCH 0005 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 391–400 ARE ON DISK. VOLUME 8 IS WRITTEN. THIS WAS THE
 # ONLY LIVE GATE BLOCK IN THIS FILE.~~ **SUPERSEDED 13 OCTOBER 2026 BY THE CLOSE AUDIT. RETAINED IN FULL AS THE POSITION AT CHAPTER 400.
 # THE CLOSE AUDIT RE-RAN EVERY FIGURE IN THIS BLOCK AND CORRECTED FOUR OF THEM, AND A SECOND RUN ON 14 OCTOBER 2026
-# CORRECTED FIVE MORE. **THE LIVE GATE BLOCK IS THE CLOSE AUDIT'S, IN `reviews/volume-08/volume-close.md`. NINE ROWS
+# CORRECTED FIVE MORE. ~~THE LIVE GATE BLOCK IS THE CLOSE AUDIT'S, IN `reviews/volume-08/volume-close.md`.~~ **AND ON
+# 15 OCTOBER 2026 THAT CLAIM WAS STRUCK, BECAUSE TWO BLOCKS WERE CLAIMING TO BE LIVE AT ONCE — THIS SENTENCE AND THE ONE
+# AT THE HEAD OF `state/current.md`.** **THE LIVE GATE BLOCK IS THE REPAIR PASS'S, AT THE HEAD OF THIS FILE, WHICH IS
+# THE ONLY BLOCK WHOSE FIGURES WERE RE-RUN *AFTER* EVERY PROSE EDIT THAT INVALIDATED THE AUDIT'S. NINE ROWS
 # BELOW ARE NOW FALSE AS WRITTEN AND ARE LISTED THERE: THE 12-GRAM ROW (recorded 0, re-ran at 30, 16 after repair),
 # THE 11-GRAM ROW (recorded 21, re-ran at 50), THE 8-GRAM ROW (recorded 446/1,167/642 on a scope it does not
 # disambiguate), THE TRAILING-NEWLINE CLAIM (all fifty files carry exactly one; chapter-0373.md carries two),

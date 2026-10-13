@@ -48,7 +48,7 @@ She turned the cup round on the cloth.
 
 "If the Vant is gone in two years I am gone with it and not one person in Ostara would be able to say where I went."
 
-I have wanted to be findable for about nine years and I have never once said that to anybody.
+I have wanted to be findable since before the Vant and I have never once said that to anybody.
 
 "You have said it now."
 

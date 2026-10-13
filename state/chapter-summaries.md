@@ -1892,8 +1892,8 @@ about nine in the morning and writes her own name in the fourth line of a weekly
 hand, and it fills no seat.** The line has said *vacant* since the twelfth of February. **A name in a line is entered by a
 clerk out of a book and a book in that room is not a document anybody can correct, so it cannot be struck by anybody
 including her** — and she is on no roll anywhere in this city and is not going to be on one, because the Vant's books are
-not a roll. **WHAT SHE WANTS, SAID OUT LOUD FOR THE FIRST TIME IN SIX MONTHS: to be findable. She has wanted it for
-about nine years and never said it to anybody.** The price is a broker's name four lines from the top of somebody else's
+not a roll. **WHAT SHE WANTS, SAID OUT LOUD FOR THE FIRST TIME IN SIX MONTHS: to be findable. She has wanted it
+since before she took the Vant and never said it to anybody.** The price is a broker's name four lines from the top of somebody else's
 name in a paper about eight women at a kitchen table, and nobody in four divisions will ever work out why it is there.
 **And he eats at her table: four chairs, nine years, no meal at it since the autumn before last, and this is the first one
 in eighteen months. She eats at it with him, between two mouthfuls, and tells him he will be different on the thirtieth

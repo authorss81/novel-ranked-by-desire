@@ -1,4 +1,17 @@
-# Volume 8 — Close audit. Chapters 351–400. Run 13 October 2026.
+# Volume 8 — Close audit. Chapters 351–400. Run 13 October 2026. Annotated 15 October 2026.
+
+> **15 OCTOBER 2026 — STATUS OF THIS FILE, ADDED BECAUSE TWO OTHER FILES WERE POINTING AT IT AS THE LIVE GATE BLOCK
+> AND IT IS NOT ONE. THIS AUDIT IS KEPT WHOLE AND IS SUPERSEDED *FOR FIGURES*.** Two passes have run against these
+> chapters since and have moved the numbers this file prints: the 14 October repair pass (**Volume 8 = 106,574**,
+> Batch 0005 = 20,326, eight interval figures, three ages, one location, 398's scene body 1,251) and the 15 October
+> pass that applied the review of it (`chapter-0393.md` line 51 only, and every figure unchanged by it).
+> **The live gate block is the repair pass's, at the head of `state/open-threads.md`,** which is the only block whose
+> figures were re-run after every prose edit that invalidated this one's. **Where this file and that block disagree,
+> that block wins: its word counts, its 11-gram and 8-gram rows, and its ages row.** Everything else here — the
+> promise, the six clusters, the four prose repairs C1–C4, the rejected repair at C2, the volume-wide tables and the
+> unverified directed-rows column — stands as written. Two markup faults of this file's own record are also corrected
+> below: a strikethrough does not render inside a fenced block and two such spans were sitting inside the §4 fence,
+> and the scope of the 11-gram and 8-gram rows is now written out in full rather than left as "same scope".
 
 **This is the close audit that Batch 0005 recorded as the next step and that has never been run.** Batch 0005
 closed the volume in prose on the thirtieth of March with the ranks wall talking about him, wrote nothing to
@@ -261,17 +274,18 @@ files            50 files, chapter-0351.md .. chapter-0400.md, no gap in the seq
                  outside 0351-0400.  `ls chapters/*/chapter-*.md | wc -l` -> 400.
                  **No chapter 401 exists anywhere in the repository.**
 vol 8 words      **SUPERSEDED 14 OCTOBER 2026: 106,574, not 106,572, and Batch 0005 is 20,326, not 20,324.** A later
-                 repair pass corrected seven interval figures and three ages in 393, 395, 397, 398 and 399, which
-                 nets **+2**. Per file now: 391 **2,016** · 392 **1,923** · 393 **1,829** · 394 **1,820** ·
+                 repair pass corrected eight interval figures, three ages and one location in 393, 395, 397, 398 and
+                 399, which nets **+2**. Per file now: 391 **2,016** · 392 **1,923** · 393 **1,829** · 394 **1,820** ·
                  395 **1,837** · 396 **1,918** · 397 **1,833** · 398 **3,312** · 399 **1,913** · 400 **1,925**.
                  398's scene body is **1,251** words on the span `## The Room` → `## Afterwards` with heading lines
                  excluded; **this audit's 1,467 did not reproduce under that span definition.** Every figure is
-                 re-run in `state/open-threads.md`, head. ~~The figures this audit recorded:~~
-                 106,572, counted per file and summed.
+                 re-run in `state/open-threads.md`, head.
+                 OLD, THIS AUDIT'S OWN FIGURE, SUPERSEDED — strikethrough does not render inside a fence and is
+                 therefore written as a label, 15 OCTOBER 2026: 106,572, counted per file and summed.
                  **THIS IS 11 FEWER THAN THE RECORDED 106,583 AND THAT IS THIS AUDIT'S FAULT, NOT A DEFECT.**
                  C1 −21, C2 −4, C3 +7, C4 −2; C3's paragraph split is neutral.
                  Per file after the edits: 396 **1,918** · 398 **3,313** · 400 **1,925**.
-                 `cat chapters/volume-08/*.md | wc -w` also returns 106,572.
+                 `cat chapters/volume-08/*.md | wc -w` also returned 106,572 on the day; it returns 106,574 now.
                  **THE RECORD'S CLAIM THAT ALL FIFTY FILES CARRY EXACTLY ONE TRAILING NEWLINE IS FALSE AND IS
                  CORRECTED AT R1 BELOW.** Both counting methods agree here and both were run.
 book titles      400 chapter files, 400 title lines, **0 duplicates anywhere in the book.**
@@ -296,12 +310,14 @@ ages             **SUPERSEDED 14 OCTOBER 2026.** The row below is what this audi
                  two of the three and wrong in its own claim of uniqueness.** A re-run found **three** self-reported
                  ages in the ten, not one: 393's *since I was thirty-one*, 397's *since I was about thirty* and
                  398's *since I was eighteen*. **The hard lock names Wren Kallo and Marguerite Vale and permits a span
-                 of years and not an age.** All three have been replaced with *for about nine years* / *for nine years*,
-                 which is the substitution this audit itself proposed for 393 and then did not apply. **ZERO ages now
-                 stand in the ten.** See `state/open-threads.md`, head.
-                 ~~No chapter announces an age. **393's *since I was thirty-one* is the age of a want in the
+                 of years and not an age.** All three have been replaced — 393 with *since before the Vant*, as of
+                 15 October 2026 and after a second repair, 397 with *for about nine years* and 398 with *for nine
+                 years*. **ZERO ages stand in the ten.** See `state/open-threads.md`, head.
+                 OLD, WHAT THIS AUDIT RECORDED, SUPERSEDED — written as a label and not struck through, 15 OCTOBER
+                 2026, because strikethrough does not render inside a fence:
+                 No chapter announces an age. **393's *since I was thirty-one* is the age of a want in the
                  speaker's own mouth and is the only one in the ten; 398's *since I was eighteen* and 394's
-                 *I have known for nine years* are spans of years, which are permitted.**~~
+                 *I have known for nine years* are spans of years, which are permitted.**
 ```
 
 ### Duplication
@@ -311,7 +327,7 @@ did not write before it was believed.** Against Batch 0001's target with its his
 351–360 against chapters 1–360 only, because nothing later existed when that audit was taken — **it returns 31
 distinct 12-grams, exactly the audited figure.** It was re-run after the edits and still returns 31.
 
-**Twelve-gram, 391–400 against every one of the 399 other chapter files in the book and against each other:**
+**Twelve-gram, 391–400 against every one of the other chapter files in the book — 390 of them, being 400 less the ten; the 399 in the first printing of this sentence was this audit's own slip — and the ten against each other:**
 
 | | record | re-run before repair | **re-run after repair** |
 | --- | --- | --- | --- |
@@ -344,6 +360,18 @@ figure does not, see the note below.**
 **re-run after repair 527 distinct, 1,582 directed rows.** **527 reproduces exactly. The record's 8-gram row
 names its scope as *a corpus of 400 chapters* and does not say whether its targets were the ten or the fifty,
 and both figures are given here so a later phase is not comparing across scopes.**
+
+**THE 15 OCTOBER 2026 REVIEW FOUND THAT "SAME SCOPE" WAS NOT ENOUGH, AND IT WAS RIGHT: THESE TWO ROWS NAME THEIR SCOPE
+ONLY RELATIVE TO THE ROW ABOVE THEM, AND THE REPAIR PASS AT THE HEAD OF `state/open-threads.md` HAD DROPPED THE SCOPE
+OUTRIGHT FROM ALL THREE OF ITS OWN ROWS. THE SCOPE IS THEREFORE WRITTEN OUT HERE IN FULL. Targets: the ten files
+391–400. Sources: the other 390 files, and the ten against each other. On that scope, re-run from outside on 15
+October: **twelve-gram 0 / 0 · eleven-gram 21 distinct and 22 directed (chapter, source) pairs · eight-gram 447
+distinct and 637 pairs.** The eleven- and eight-gram figures in the repair block reproduce exactly; what was missing
+was not the number but the statement of what it measured. **Measured against the ten files alone the same scanner
+gives 29 and 115, and the union of the two scopes gives 50 and 528 — so the 8-gram row swings more than fourfold on
+scope alone, which is why an unstated scope made it unfalsifiable.** The 50 and 527 printed above are this audit's
+own two figures under its own convention and are retained as recorded; **the live figures are the scoped ones at the
+head of `state/open-threads.md`.**
 
 **Volume-wide, 351–400 against all 400 chapters, after repair:**
 
