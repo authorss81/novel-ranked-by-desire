@@ -1,13 +1,15 @@
-# VOLUME 11 IS PLANNED AND NOTHING OF IT IS PROSE. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT OPENED NO CHAPTER FILE. THIS BLOCK IS THE LIVE PLANNING GATE AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-11.md` IS THE PLAN; `outline/batches/volume-11-batch-0001.md` IS THE FIRST BATCH'S CARDS; `workspace/volume-11/batch-0001/PROMPT.md` IS THE ONE NEXT PHASE.**
+# VOLUME 11 IS PLANNED AND NOTHING OF IT IS PROSE. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT OPENED NO CHAPTER FILE, AND REPAIRED THE SAME DAY AGAINST `logs/next-0002.review.log`: EIGHT FINDINGS APPLIED, PLUS ONE THE REVIEW DID NOT CATCH. THIS BLOCK IS THE LIVE PLANNING GATE AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `outline/volume-11.md` IS THE PLAN; `outline/batches/volume-11-batch-0001.md` IS THE FIRST BATCH'S CARDS; `workspace/volume-11/batch-0001/PROMPT.md` IS THE ONE NEXT PHASE.**
 
 > **READ THIS BLOCK BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. THE FIGURES IN THE LIVE PROSE BLOCK BELOW WERE RE-RUN BY COMMAND AGAINST `chapters/volume-10/` ON 13 OCTOBER 2026 AND ONE OF THEM IS WRONG; §4 BELOW NAMES IT AND DOES NOT ADOPT A REPAIR.**
+
+> **AND THIS BLOCK WAS ITSELF THE THING THAT FAILED THE RE-RUN. IT certified a five-figure scene count for a column it had never run, it certified sixteen quarter-ends on a list of fifteen, it carried a lane four hundred mornings old when the lane is a hundred and twenty-seven mornings old at the chapter that names it, and it printed a weekly rate that is a total on the page. The repair below withdraws both certifications rather than softening them. This block's own standing rule is the reason: *a gate record is a claim and a re-run outranks it — and on 13 October 2026 the re-run outranked this record five times.***
 
 ## 1. WHAT THIS PHASE DID, IN EIGHT LINES
 
 1. **Volume 10 is closed in prose at 500 and the series is planned past 500.** `workspace/volume-10/volume-plan/PROMPT.md`:16 — *you are NOT creating `state/complete.md`. The series is planned past 500.* **This phase created no `state/complete.md`, amended no marker, and touched no controller file.**
 2. **`outline/volume-11.md` — VOLUME ELEVEN, *The Composition*, chapters 501–550**, the first of February to the twenty-eighth of October, year four, **one thousand three hundred and forty-seven days elapsed**, five movements of ten, five batches of ten, five scenes at 505, 515, 525, 536 and 546.
 3. **THE VOLUME'S SENTENCE:** *In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.*
-4. **THE FUSE IS THE BOOK'S, NOT THIS FILE'S.** `chapter-0493.md:41` — *it comes due in about four years, on a morning nobody has chosen, in a building with no door on it.* **Four years is 1,440 days at 360 to the month. The tenth of October, year four, is day 1,329 and it is Chapter 547.**
+4. **THE FUSE IS THE BOOK'S, NOT THIS FILE'S.** `chapter-0493.md:47` — *it comes due in about four years, on a morning nobody has chosen, in a building with no door on it.* **Four years is 1,440 days at 360 to the month. The tenth of October, year four, is day 1,329 and it is Chapter 547.**
 5. **`outline/batches/volume-11-batch-0001.md` — TEN CARDS, 501–510**, the first of February to the thirtieth of September of year one, ending on the batch's irreversible decision at 510.
 6. **`workspace/volume-11/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE**, a writing phase for 501–510. **No volume-close prompt. No second batch prompt. No later batches pre-created.**
 7. **Four flags, none adopted silently:** the naming of the man with the slate; the appointment `outline/ending.md` fixed and no chapter ever carried; **the interval at `chapter-0500.md:65` that does not derive;** and the status of the requisition of the twentieth of February.
@@ -22,8 +24,16 @@ PLAN SPINE, FROM outline/volume-11.md §5b AND THE CARD FILE
   span, rule              3 x 360 + ((30-1) + 30 x 7 + 28) = 1347 days elapsed
   span, spine             1347 - 0 = 1347                                        AGREE
   inclusive               1348 days; 50 chapters; 26.94 days a chapter
-  quarter-ends on a chapter  15 — 507 509 510 514 516 518 520 524 527 529 530
-                              534 537 539 544
+  quarter-ends              16 fall in years one to four and 15 of them land on a
+                            chapter — 507 509 510 514 516 518 520 524 527 529
+                            530 534 537 539 544. The sixteenth, 30 Dec y4 =
+                            day 1409, is 62 days after the last chapter and has
+                            no chapter. The earlier line here said all sixteen
+                            landed and contradicted its own list in the same row.
+  January convention        a January is labelled by the February that FOLLOWS
+                            it. Under this the spine is monotonic at 0 violations
+                            and 547 = 1329 and 550 = 1347. Under the convention
+                            the prose used to state it, 515 lands after 516.
   THE FUSE                10 Oct year four = day 1329; and 1440 days from the
                           tenth of October in the year the sitting was held   AGREE
   last chapter            28 Oct year four = day 1347, eighteen days after the morning
@@ -39,8 +49,29 @@ PLAN SPINE, FROM outline/volume-11.md §5b AND THE CARD FILE
 SCENE BUDGET
   494 (Volume 10's last) -> 505 Ines  = 11   -> 515 Tessa = 10  -> 525 Marguerite = 10
   -> 536 Beatrix = 11    -> 546 Agnete = 10
-  mixed 11 10 10 11 10 · explicit 11 10 10 11 10 · nothing under eight, nothing over fifteen
+  CADENCE, from the previous scene in the book, which is the count AGENTS.md
+  governs: 11 10 10 11 10 · nothing under eight, nothing over fifteen   IN BAND
+  GAPS FROM THAT WOMAN'S OWN LAST SCENE, re-run 13 Oct 2026:
+    505 Ines        454 -> 51
+    515 Tessa       483 -> 32
+    525 Marguerite  474 -> 51
+    536 Beatrix     465 -> 71
+    546 Agnete      369 -> 177      (369, not 350 — 350 is Wren Kallo's)
+    => 51 32 51 71 177 · NONE IS IN THE BAND AND NONE MAY BE CERTIFIED AS BEING
+       IN IT. The earlier line here read `explicit 11 10 10 11 10 · nothing
+       under eight, nothing over fifteen` and repeated the cadence column under
+       a heading it had never been run for. THAT CERTIFICATION IS WITHDRAWN.
   PC-44 holds — Dagmar Oyelowo has no gift for ever and is not on the schedule
+LANE AND TILE, both re-run 13 Oct 2026 against the page
+  lane opened evening of 2 Oct y0 = day -119; 1 Feb y1 is 111 days after the
+    tenth of October sitting, so 2 Oct = -111 - 8 = -119
+    502 day 8 -> 127 mornings · 503 day 17 -> 136 · 504 day 27 -> 146
+    509 day 149 -> 268 · 510 day 239 -> 358, three days short of the first
+    anniversary on 3 Oct of year one (day 242)
+    => the lane is NOT four hundred mornings old at any chapter of this volume
+  white tile, chapter-0500.md:35: "about four hundred people have gone past him
+    doing it" — a TOTAL. chapter-0489.md:21: about NINE THOUSAND people under
+    that wall in a DAY. Never one divided by seven.
 TITLE BANK
   50 titles, 50 distinct inside the bank, 0 collisions against the 500 written
   title lines in chapters/ (checked by command), 3 to 7 words, 16 to 32 characters,
@@ -69,8 +100,8 @@ WORD COUNT  none. No chapter of Volume 11 is written and no word count is claime
 
 ## 5. THE FOUR FLAGS, AND NONE IS ADOPTED SILENTLY
 
-1. **THE MAN WITH THE SLATE IS NAMED EMIL BRACK AT 502.** He is unnamed in 491–500 and on the page four times, at 489, 491, 492 and 493. **`AGENTS.md` and `NOVEL_SPEC.md` forbid introducing a new final enemy without flagging it. THIS IS THE FLAG: he is not new, he is rung three of the ladder in a form nobody has seen, and he is not defeated.** He is right about every fact; he never once says the Board took his words; he does not profit where a person loses; and by the last movement he is the only man in Ostara who can say where every figure in Cordwain came from, because he wrote them. `outline/ending.md` fixes no final enemy after Volume 10 and this does not create one.
-2. **`outline/ending.md`:256 FIXED THE APPOINTMENT OF YUSUF ADEYEMI AS REGISTRAR OF UNRECORDED MERIT AND NO CHAPTER HAS EVER CARRIED IT.** `grep -rn 'Registrar' chapters/` returns nothing across five hundred files. **Volume 11 puts it on the page at 501. This is a fixed ending carried forward and not an invention**, and it is flagged so that no later phase calls it one.
+1. **THE MAN WITH THE SLATE IS NAMED EMIL BRACK AT 502.** He is unnamed in 491–500 and **on the page six times — 489, 490, 491, 492, 493 and 498, and in a delivery coat in two of them, 491 and 493.** **`AGENTS.md` and `NOVEL_SPEC.md` forbid introducing a new final enemy without flagging it. THIS IS THE FLAG: he is not new, he is rung three of the ladder in a form nobody has seen, and he is not defeated.** He is right about every fact; he never once says the Board took his words; he does not profit where a person loses; and by the last movement he is the only man in Ostara who can say where every figure in Cordwain came from, because he wrote them. `outline/ending.md` fixes no final enemy after Volume 10 and this does not create one.
+2. **`outline/ending.md`:255 FIXED THE APPOINTMENT OF YUSUF ADEYEMI AS REGISTRAR OF UNRECORDED MERIT AND NO CHAPTER HAS EVER CARRIED IT.** `grep -rn 'Registrar' chapters/` returns nothing across five hundred files. **Volume 11 puts it on the page at 501. This is a fixed ending carried forward and not an invention.** **AND THE TITLE IS ADEYEMI'S. The earlier draft of this block, of `outline/volume-11.md` and of the batch prompt all had card 501's letter appoint Lin Hao, which contradicted line 255 and the volume's own room row. THE RULING: the letter at 501 says the office exists, names Adeyemi as its Registrar, and names Lin Hao as the only person the office may ask. No chapter of 501–550 may call him the Registrar of Unrecorded Merit, may have him refuse a title he is never offered, or may have him take one. It is also the reason 510 works: a Registrar with no instrument and one man to ask must ask that man.**
 3. **THE INTERVAL AT `chapter-0500.md:65`.** §4 above. Recorded, not repaired.
 4. **THE REQUISITION OF THE TWENTIETH OF FEBRUARY HAS NO STATUS ON THE PAGE.** Carried with five seals on the thirtieth of June; administered weekly; the disposition of the first of October says *given away in the open, the first of October, holder none*. **Nothing in 451–500 discharges it, withdraws it or answers it. Volume 11 answers it once, in a room, and nobody in Ostara ever files it.** A batch that finds a better answer on the page takes it and rewrites `outline/volume-11.md` §2c item 4 in the same commit.
 

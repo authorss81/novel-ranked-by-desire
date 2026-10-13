@@ -10,7 +10,9 @@
 
 **READ THE HEAD OF `state/open-threads.md` BEFORE ANY OTHER FILE IN THIS REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD.** The live block carries the whole classification of the 13 October 2026 repairs and `PC-111` to `PC-113`, which you inherit whole.
 
-**`outline/ending.md`:256 fixed, before any chapter carried it, that Adeyemi is made Registrar of Unrecorded Merit.** `grep -rn 'Registrar' chapters/` returns nothing across five hundred files. **This batch puts it on the page at 501.** That is carrying a fixed ending forward, not inventing an office.
+**`outline/ending.md`:255 fixed, before any chapter carried it, that Adeyemi is made Registrar of Unrecorded Merit.** `grep -rn 'Registrar' chapters/` returns nothing across five hundred files. **This batch puts it on the page at 501. That is carrying a fixed ending forward, not inventing an office.**
+
+**AND THE TITLE IS ADEYEMI'S. THIS BATCH'S FIRST DRAFT MADE THE LETTER APPOINT LIN HAO, WHICH CONTRADICTED BOTH LINE 255 AND `outline/volume-11.md` §2c ITEM 2, AND THAT IS CORRECTED. AT 501 THE LETTER SAYS THREE THINGS: THE OFFICE EXISTS, YUSUF ADEYEMI IS ITS REGISTRAR, AND LIN HAO IS THE ONLY PERSON THE OFFICE MAY ASK. NO CHAPTER OF 501–510 MAY CALL HIM THE REGISTRAR OF UNRECORDED MERIT, MAY HAVE HIM REFUSE A TITLE HE IS NEVER OFFERED, OR MAY HAVE HIM TAKE ONE. THE RULING IS `outline/volume-11.md` §2c ITEM 2 AND IT IS NOT OPTIONAL.** What he gets is a sentence with no number in it that makes him the answer to the only question an office with no instrument, no money and no column may put to anybody — and it is why Adeyemi comes to him at 510 and can go to nobody else.
 
 ## 1. WHAT YOU MUST NOT DO TO THIS BOOK
 
@@ -27,14 +29,14 @@
 - **He is rank one.** A white plate in his coat with his name on it and **no figure cut into it anywhere**. Assigned work: a branch office off a third court, three floors of washrooms, a stairwell and a bin room, from eleven at night until half past five, on a rota **he asked for**. On the twenty-eighth of January he had had eleven weeks of it and 501 is three days later, so **eleven weeks and three days**.
 - **The account is one in seven emptied and is not zero and is not going to be.** It belongs to nobody, cannot be drawn against, allocated or closed, and there is no list and none could be built. **The reason is one plain sentence and it is 500's: the four days ended because the man emptying it had four days in him and then did not have a fifth.**
 - **The second line is on the wall** in the office's own hand, at the height of a name on a plate, under the last tile, and **this city has no schedule anywhere for taking it down**. It came through a wash of rain and one winter.
-- **A white tile below it has his name on it in chalk and nothing at all under it.** He stands under it about two minutes at a time, has done about sixty times since the first of January, and about four hundred people a week go past doing it. **He does not know who put it there. He has never asked. No chapter of 501–510 answers it and 505 asks it and is not answered.**
+- **A white tile below it has his name on it in chalk and nothing at all under it.** He stands under it about two minutes at a time, has done about sixty times since the first of January, and about four hundred people have gone past him doing it. **THAT IS `chapter-0500.md:35` AND IT IS A TOTAL, NOT A RATE. The only forward rate on the page is `chapter-0489.md:21`: about nine thousand people under that wall in a day, on an ordinary morning. A chapter takes the nine thousand for a day and the four hundred for an altogether, and never divides one by seven.** **He does not know who put it there. He has never asked. No chapter of 501–510 answers it and 505 asks it and is not answered.**
 - **The household is nine sworn, dispersed and intact, and three of them never live with him again and all three of them come in on the rota.** None of them has said why and he has said out loud once that he never will ask.
 - **Ines Duarte is auditing the branch he works at and has been since the first of October, and neither of them has said one word about it.** She filed a correction on the twenty-ninth of December and did not press it and neither of them has said a word about what is in it, and it is about Perrin Sowe, and **that is not open.**
 - **Beatrix Halm is under the ranks wall at half past four every morning** and has four hundred turned lines off the district round, a time beside every one, no figure on any of them, **and none of them his.**
 - **Hanneke Ruis writes the composition of premises 34-6-118 into the fourth block of every quarterly return out of her own memory, in her own hand, under her own name, with nothing behind it. Four times a year for thirty years. Four and thirty is one hundred and twenty blocks. SHE HAS NO AGE FIXED AND NONE MAY EVER BE GIVEN ON THE PAGE.**
 - **He has nothing left to spend.** The phrase in eight uses went on the first of October. The instrument he swore on the ninth of May never to use is still unused and this batch does not spend it. The third thing — the plain right to put a question to a woman — is still on the table.
 - **The clause he entered himself on the twenty-first of June is thirty-eight words and is not lifted.** *Where a minute names premises, no person keeping an address so named may be produced by that minute otherwise than in the presence of the subject, and the subject may not be absent from the making of it.* **It means he cannot leave a room. Six people keep 34-6-118 and so it reaches every instrument made about that address. He says on the page that he would enter it again.**
-- **Five stools and a slate in a lane off Cordwain.** A man in a delivery coat, a grain a head, four-inch letters, a figure made up in three days in October and never once attributed to the Board, **and four hundred mornings of it.** `chapter-0493.md:95` — *five stools and a slate in a lane, with a figure on it in four-inch letters made up in three days by a man who believes it, and not one word of it wrong and not one word of it checkable by anybody alive.*
+- **Five stools and a slate in a lane off Cordwain.** A man in a delivery coat, a grain a head, four-inch letters, a figure made up in three days in October and never once attributed to the Board. **`chapter-0493.md:95` — *five stools and a slate in a lane, with a figure on it in four-inch letters made up in three days by a man who believes it, and not one word of it wrong and not one word of it checkable by anybody alive.** **AND THE LANE'S AGE, WITH ITS OPERANDS, BECAUSE THE FIRST DRAFT OF THIS PROMPT SAID FOUR HUNDRED MORNINGS AND THE LANE IS NOT FOUR HUNDRED MORNINGS OLD: it opened on the evening of the second of October, the sitting was the tenth, 1 February of year one is 111 days after the tenth, so the evening of the second is day −119. 501 = day 0 → 119 mornings · 502 = day 8 → 127 · 503 = day 17 → 136 · 504 = day 27 → 146 · 509 = day 149 → 268 · 510 = day 239 → 358, which is three days short of a year.**
 
 ## 3. THE TEN DATES AND EVERY INTERVAL, RE-DERIVED AND NOT QUOTED ACROSS
 
@@ -52,7 +54,7 @@
 
 **VOLUME 11 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero across five hundred files and zero across yours. `bible/terminology.md`:25 prints *repainted every Thursday morning* and no chapter may take it. **Write the date.** A chapter may say a repainting came and went and took nothing with it, which is exactly what `chapter-0500.md:29` says.
 
-**THE FUSE, AND IT IS NOT IN THIS BATCH BUT IT IS UNDER EVERY CHAPTER OF IT:** `chapter-0493.md:41` — *it comes due in about four years, on a morning nobody has chosen, in a building with no door on it.* **The morning is Chapter 547. Nothing in 501–510 may name a year number, and nothing may be dated so that the reader can count to it.**
+**THE FUSE, AND IT IS NOT IN THIS BATCH BUT IT IS UNDER EVERY CHAPTER OF IT:** `chapter-0493.md:47` — *it comes due in about four years, on a morning nobody has chosen, in a building with no door on it.* **The morning is Chapter 547. Nothing in 501–510 may name a year number, and nothing may be dated so that the reader can count to it.**
 
 **ONE DISCREPANCY, AND YOU DO NOT REPAIR IT.** `chapter-0500.md:65` prints *about six hundred and forty-five days off* for the books that would take the account meeting again. **Derived twice: `(30 − 28) + 30 × 9 + 15 = 287` to the fifteenth of November of that year and `287 + 360 = 647` to the next. Neither is six hundred and forty-five.** `outline/volume-11.md` §2c item 3 carries it as a recorded discrepancy, **not a correction. If a chapter of yours needs that interval it derives its own and prints its operands, and it does not silently reproduce 645.**
 
@@ -72,12 +74,12 @@
 
 ## 5. THE SCENE, AND IT IS YOURS
 
-**505 IS THE ONLY SCENE IN THIS BATCH AND IT IS INES DUARTE'S.** Her own last scene is **454**. The gap is **505 − 494 = 11** for the previous scene in the book and **505 − 454 = 51** for hers. Both counts are in band and the governing figure for the budget is the eleven.
+**505 IS THE ONLY SCENE IN THIS BATCH AND IT IS INES DUARTE'S.** Her own last scene is **454**. The gap is **505 − 494 = 11** for the previous scene in the book and **505 − 454 = 51** for hers. **ONLY THE ELEVEN IS IN BAND, AND IT IS THE ELEVEN THAT GOVERNS THE SCENE BUDGET, because the eight-to-fifteen rule in `AGENTS.md` is a rule about how often the book has a scene, not about how often one woman has one. The fifty-one is not in band and no file may describe it as in band.** **This prompt's first draft said both counts were in band. That was false and it was the same defect the volume outline carried, and both are corrected in the same commit.**
 
-| Ch | Whose | **That woman's own last scene** | Chapter gap |
-| --- | --- | --- | --- |
-| 494 | the household, dispersed | — | — |
-| **505** | **Ines Duarte** | 454 | **11 from 494** |
+| Ch | Whose | **That woman's own last scene** | Gap from the previous scene in the book | Gap from her own last scene |
+| --- | --- | --- | --- | --- |
+| 494 | the household, dispersed | — | — | — |
+| **505** | **Ines Duarte** | 454 | **11** — in band | 51 — **not** in band |
 
 **THE AXIS IS THE COUNTED MINUTE, CARRIED BY THE ROOM'S RULE AND NAMED BY NOBODY: an auditor reads in order, the date first, the hour with it, nothing skipped — and the thing she is reading at three in the morning is a page with his name on it.** **NOBODY MAY NAME IT.**
 
@@ -97,13 +99,13 @@
 ## 6. THE TEN CARDS
 
 ### 501 — **Four Years Is Not A Number**. 1 February.
-Eleven weeks and three days of a rota he asked for, a cistern, a woman with a bucket who has never asked him anything, and a letter on the paper the Correction Office has that says the office exists and that he is the Registrar of it. **And Beatrix Halm under the wall at half past four saying out loud what four years of a sentence have been.** *May not:* have him refuse the title; print a figure of the account; name a day of the week.
+Eleven weeks and three days of a rota he asked for, a cistern, a woman with a bucket who has never asked him anything, and a letter on the paper the Correction Office has that says the office exists, that **Yusuf Adeyemi is its Registrar**, and that **he is the only person the office may ask**. **And Beatrix Halm under the wall at half past four saying out loud what four years of a sentence have been.** *May not:* make him Registrar; print a figure of the account; name a day of the week.
 
 ### 502 — **The Man With The Slate**. 9 February.
-**He is named: Emil Brack.** Described before he speaks. Five stools, a grain a head, four-inch letters, four hundred mornings, and he is right about every fact of it and has never once said the Board took his words. *May not:* make him a fraud; buy him; give him a rank or a plate.
+**He is named: Emil Brack.** Described before he speaks. Five stools, a grain a head, four-inch letters, **a hundred and twenty-seven mornings**, and he is right about every fact of it and has never once said the Board took his words. *May not:* make him a fraud; buy him; give him a rank or a plate.
 
 ### 503 — **Five Stools And A Lane**. 18 February.
-Beatrix and Runa Sato on two rounds and a disagreement, and Runa Sato's frame is the correct one: *the four hundred are not behind him, they are in a lane, they happen to be behind a man with a stool* — and the line has been there for four hundred mornings anyway. *May not:* have Runa Sato proved right.
+Beatrix and Runa Sato on two rounds and a disagreement, and Runa Sato's frame is the correct one: *the people in the line are not behind him, they are in a lane, they happen to be behind a man with a stool* — and the line has stood a hundred and thirty-six mornings anyway. *May not:* have Runa Sato proved right.
 
 ### 504 — **A Grain To Stand In A Line**. 28 February.
 **He goes down the hill at about eight in the evening, pays a grain, stands behind nine other people for about four hours, and a man chalks a figure on a slate at about half past midnight. THE FIGURE IS NOT NOTHING.** He does not correct it and does not take the grain back. A stranger behind him says what standing in a line means. *May not:* have him recognised; correct the figure; make it noble.
@@ -123,7 +125,7 @@ The standing sheet goes out at four with an address at the head of every line. T
 Slates in nine districts that do not agree with each other, **and two of them right about a thing the Register has wrong.** *May not:* make the Bureau notice; make the slates wrong; resolve which is better.
 
 ### 510 — **The First Figure Off A Chalk**. 30 September. **QUARTER-END. THE BATCH'S IRREVERSIBLE DECISION.**
-**The office asks him to strike the slates down. He refuses, in about one sentence: he put two words on a wall himself and he is not going to be the man who takes another man's two words off a piece of slate for standing on the wrong surface.** It closes the option of striking down a rival measure and it makes him the reason there is a second institution in Ostara. *May not:* make it a speech; have anybody agree with him in the room; have Adeyemi argue him out of it.
+**The office asks him to strike the slates down — and the office is one Registrar with no instrument and no disposition, and the letter of the first of February named him the Registrar and named Lin Hao the only man it may ask.** He refuses, in about one sentence: he put two words on a wall himself and he is not going to be the man who takes another man's two words off a piece of slate for standing on the wrong surface. It closes the option of striking down a rival measure and it makes him the reason there is a second institution in Ostara. *May not:* make it a speech; have anybody agree with him in the room; have Adeyemi argue him out of it.
 
 ## 7. THE TITLE BANK — PRINT EXACTLY, AND CHECK IT BY COMMAND AGAINST ALL FIVE HUNDRED WRITTEN TITLE LINES BEFORE YOU WRITE
 
@@ -143,7 +145,7 @@ Three to twelve words, sixteen to thirty-two characters, none beginning with *Wh
 
 ## 10. AFTER THE CHAPTERS
 
-Update `state/current.md`, `state/continuity.md`, `state/open-threads.md` and `state/chapter-summaries.md` in the house shape. **Write any proposed canon change as PROPOSED, name the chapter it lands in, and do not renumber `PC-113` or anything below it.** The four proposals this batch owes: **Emil Brack named at 502** · **the Register of Unrecorded Merit named on the page at 501** · **the office's first public figure at 508** · **the discrepancy at `chapter-0500.md:65`, carried from `outline/volume-11.md` §2c item 3 and not repaired in prose.**
+Update `state/current.md`, `state/continuity.md`, `state/open-threads.md` and `state/chapter-summaries.md` in the house shape. **Write any proposed canon change as PROPOSED, name the chapter it lands in, and do not renumber `PC-113` or anything below it.** The proposals this batch owes: **Emil Brack named at 502** · **the Register of Unrecorded Merit named on the page at 501, and the ruling that the title is Adeyemi's per `outline/ending.md`:255 while the office's one permitted question is put to Lin Hao** · **the office's first public figure at 508** · **the lane's age at 502 and 510 — 127 and 358 mornings — and the standing instruction that it is never four hundred** · **the white tile's four hundred as a total and never a rate** · and **the discrepancy at `chapter-0500.md:65`, carried from `outline/volume-11.md` §2c item 3 and not repaired in prose.**
 
 **Re-run every gate row by command after your last edit and record the figure you actually got, with the command, in the live gate block at the head of `state/open-threads.md`.** **A gate record is a claim and a re-run outranks it.**
 
