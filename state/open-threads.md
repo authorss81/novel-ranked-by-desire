@@ -1,4 +1,65 @@
-# VOLUME 9 BATCH 0003 — REVIEW REPAIR, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–432 ARE ON DISK. THE LIVE PHASE IS
+# VOLUME 9 BATCH 0004 — GATE, RE-RUN AFTER THE LAST EDIT TO THE PROSE, BY COMMAND. **THIS IS THE LIVE GATE BLOCK.** CHAPTERS 401–442 ARE ON DISK. THE LIVE PHASE IS `workspace/volume-09/batch-0005/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 443–450.
+
+**THE BLOCK IMMEDIATELY BELOW THIS ONE IS BATCH 0003'S REVIEW-REPAIR BLOCK OF 13 OCTOBER 2026. IT IS SUPERSEDED BY THIS ONE AND RETAINED IN FULL, WITH THE WHOLE FILE IT SAT IN RESTORED BELOW IT. A GATE RECORD IS A CLAIM AND THE RE-RUN OUTRANKS THE RECORD.**
+
+```
+FILES            chapters/volume-09/ holds 42 files numbered 401..442 with no gap; chapters/ holds 442, numbered 1..442 with no gap.
+BANK 0004        12,109 words, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                   433 1,197 · 434 1,202 · 435 1,239 · 436 1,192 · 437 1,096 · 438 1,737 · 439 1,188 · 440 1,182
+                   441 1,121 · 442 955
+                 Volume 9 is 79,289 words across forty-two chapters — 21,692 (0001) + 21,563 (0002) + 23,925 (0003) + 12,109 (0004).
+                 Every file carries exactly one trailing newline, all ten, checked by command.
+TITLES           442 title lines, 442 distinct, sort | uniq -d empty. Lengths 22/26/27/30/19/27/25/29/34/28 chars,
+                 words 5/6/6/6/4/6/5/6/7/6, every one inside three to twelve, every one exactly as banked in
+                 outline/volume-09.md §10. NO TITLE CHANGED.
+MARKDOWN         blockquote 0 · table 0 · horizontal rule 0 · code block 0 · BOLD SPANS 0 · ITALIC SPANS 2 (both in
+                 438, both writing read off a notebook page) · 0 system panels (no chapter turns on the ledger;
+                 volume plans two, one spent at 414, second at 450).
+PARAGRAPHS       404 paragraphs across the ten. LONGEST 87 WORDS, 0 over roughly 90, 0 over roughly 120.
+                 QUOTATION-MARK PARITY PER PARAGRAPH: 0 odd, so no speech runs across a break. NO SPLITTER USED —
+                 reporter only, hand splits re-checked by command. No closing-quote-plus-name-verb paragraph-open
+                 displacement (parity clean; mid-paragraph tags verified by eye).
+WEEKNAMES        Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0, all ten files.
+AGES             0 self-reported ages, probed in BOTH forms (digit forms and spelled-out word forms; remaining
+                 word-hits are dates like nineteenth of May and permitted spans like for nine years).
+SETTLE           grep -rio "settle" chapters/volume-09/ -> 0 (two first-pass hits, settled x2, reworded).
+RIGHT TEMPLE     grep -rio "right temple" chapters/ -> 0, across all four hundred and forty-two chapters.
+BAND FLOORS      NO FOUR-DIGIT FIGURE OF ANY KIND IN 433–442. No card printed. Chapter 450 prints the card.
+BANNED           his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no
+                 form 0 · there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0.
+                 NINE OF NINE AT ZERO (four first-pass nobody asked reworded out of 433/436/440).
+BLANK LINES      0 runs of three or more consecutive blank lines in the ten.
+META-CONTAINER   in this book: 2 in the ten, both in 438 and both deliberate — the axis-breaking passage naming
+                 prior scenes, required by the card to say which axis is broken. No other instances.
+DUP 12-GRAM      SCAN A, CROSS-VOLUME (tokenisation: heading marks stripped, dashes folded, curlies folded,
+                 [^a-z0-9]->space, split on whitespace; headings NOT excluded): hits are canon sentences,
+                 document readings and instrument recitals, itemised: (a) the July-no-certificate fact at 433/434
+                 against 432 (PC-87, the fact these chapters stand on); (b) own-division/hand/name certification
+                 formula at 433/434 (the midpoint content itself); (c) lodged-citizen/held/fixed-day/clinic
+                 administration formula at 437 against 431; (d) the October-twenty-seventh description as ground at
+                 441/442 (document being read); (e) the not-written-until-first-of-July rule at 435 (PC-83);
+                 (f) stranger-with-a-folder future readings at 435/442 (house idiom, varied in 436/441 after repair).
+                 REPAIRED IN PASS: the gap-sentence canon restated verbatim at 434/440 now paraphrased (canon may not
+                 be restated verbatim); put-a-line-back-down repeated from 430 now reworded at 440; the
+                 never-yet-been-out-by-a-day closing repeated in 436/438/439 now varied (one survivor at 433);
+                 lodged-citizen formula at 437 now in own words. SCAN A FINISH: no verbatim canon restatement remains
+                 except the midpoint's own required content and document readings.
+                 SCAN B, VOLUME-ONLY 12-gram: volume idiom groups as before (witness-line instrument, consignment
+                 entry, fifth-into-book); no NEW pair created between any two of 433–442 except the requisition-age
+                 derivations, which are each derived inside their own chapter by subtraction and never quoted across.
+SCENE 438        RECORDED SPAN, ## The Room Above The Laundry TO ## The Seventh Line, EXCLUSIVE OF THE BOUNDING
+                 HEADING: 1,151 WORDS. LITERAL FIRST-##-TO-LAST-## SPAN: 1,151 WORDS (identical, because the scene
+                 runs across both sections and there are exactly three headings). EXPLICIT-VOCABULARY PROBE
+                 (mouth · came · hip · thigh · come · inside · wet, case-insensitive substring): 20 ON BOTH SPANS
+                 (6/3/5/1/2/2/1), against 22 at 428, 24 at 417 and 30 at 406. RECORDED IS THE RIGHT ONE FOR A SCENE
+                 COUNT; HERE BOTH DEFINITIONS COINCIDE.
+```
+
+**WHAT DELIBERATELY WAS NOT CHANGED.** The plot. **The batch's irreversible decision stands as written: 434 (he tells her the rest).** No scene moved, no date touched, no recusal lifted, no second question to Wren Kallo, no wing named, no word under the fifth line printed, no offer, no instrument used, no Runa hand figure printed, no gift manufactured, no consignment invented. **`outline/ending.md` untouched. No new final enemy.**
+
+---
+
+~~# VOLUME 9 BATCH 0003 — REVIEW REPAIR, 13 OCTOBER 2026. **THIS WAS THE LIVE GATE BLOCK AND IS SUPERSEDED BY THE BLOCK ABOVE, RETAINED IN FULL.** CHAPTERS 401–432 ARE ON DISK. THE LIVE PHASE IS~~
 # `workspace/volume-09/batch-0004/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 433–442, WHOSE CARDS ARE NOW ALSO AT
 # `outline/batches/volume-09-batch-0004.md`.
 

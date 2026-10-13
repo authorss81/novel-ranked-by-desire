@@ -25,7 +25,7 @@
 
 > In this volume, **Lin Hao must reach rank nine**, or **Lin Wei's file stays shut and the account stays open**.
 
-**BATCHES 0001, 0002 AND 0003 ARE WRITTEN. `chapters/volume-09/` EXISTS AND HOLDS CHAPTERS 401–432, THIRTY-TWO FINISHED CHAPTERS. BATCH 0001: 21,692 WORDS POST-REPAIR. BATCH 0002: 21,563 WORDS COUNTED PER FILE AND SUMMED. BATCH 0003: 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 23,943 BEFORE IT. Chapters 433–450 are planned and unwritten. THE REPAIR OF BATCH 0001 IS RECORDED IN FULL IN THE REVIEW REPAIR BLOCK AT THE END OF THE SUPERSEDED LIVE GATE BLOCK IN `state/open-threads.md`; **BATCH 0003'S OWN REVIEW REPAIR OF 13 OCTOBER 2026 IS THE HEAD BLOCK OF THAT FILE, AND BATCH 0003'S OWN LIVE GATE BLOCK IS IMMEDIATELY BELOW IT AND IS SUPERSEDED, NOT DELETED.** **THE BATCH BLOCKS ARE BELOW THIS ONE AND THE BATCHES RUN IN ASCENDING ORDER — 0001, THEN 0002, THEN 0003 — SO A PHASE READING THIS FILE FOR THE MOST RECENT BATCH FINDS VOLUME 9 AND NOT A BATCH OF VOLUME 8.** The
+**BATCHES 0001, 0002, 0003 AND 0004 ARE WRITTEN. `chapters/volume-09/` EXISTS AND HOLDS CHAPTERS 401–442, FORTY-TWO FINISHED CHAPTERS. BATCH 0001: 21,692 WORDS POST-REPAIR. BATCH 0002: 21,563 WORDS COUNTED PER FILE AND SUMMED. BATCH 0003: 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 23,943 BEFORE IT. BATCH 0004: 12,109 WORDS COUNTED PER FILE AND SUMMED. Chapters 443–450 are planned and unwritten. THE REPAIR OF BATCH 0001 IS RECORDED IN FULL IN THE REVIEW REPAIR BLOCK AT THE END OF THE SUPERSEDED LIVE GATE BLOCK IN `state/open-threads.md`; **BATCH 0003'S OWN REVIEW REPAIR OF 13 OCTOBER 2026 IS THE HEAD BLOCK OF THAT FILE, AND BATCH 0003'S OWN LIVE GATE BLOCK IS IMMEDIATELY BELOW IT AND IS SUPERSEDED, NOT DELETED.** **THE BATCH BLOCKS ARE BELOW THIS ONE AND THE BATCHES RUN IN ASCENDING ORDER — 0001, THEN 0002, THEN 0003 — SO A PHASE READING THIS FILE FOR THE MOST RECENT BATCH FINDS VOLUME 9 AND NOT A BATCH OF VOLUME 8.** The
 volume's opening position and its twelve-card plan follow in this block, and Batch 0001's own record is under **Volume 9, Batch 0001** immediately beneath it, with Batch 0002's under it and Batch 0003's under that.
 
 ### Volume 9, Batch 0001 — Chapters 401–412. THE FIRST OF APRIL TO THE TWENTY-TH OF APRIL. **WRITTEN. 21,692 WORDS COUNTED PER FILE AND SUMMED, POST-REPAIR, AND 21,491 BEFORE THE 15 OCTOBER REVIEW REPAIR.**
@@ -273,6 +273,31 @@ decision.**
 - **430 (24 May). THE CALENDAR IS THE ONLY DOOR. 2,125 words. The second half of `PC-84`.** Ten lines on a chalk board and a line of paint under it, and a door that opens onto a list.
 - **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. 2,047 words. `PC-86`.** Twelve dates, one fixed day, two returns about one matter, and a line on the front of a file.
 - **432 (27 May). THE FOURTH BLOCK OF A SHEET. 2,197 words. `PC-87`.** Four blocks and no fifth, the reason an account cannot be closed said once by a keeper, and a name going into a fourth block out of memory with no certificate behind it.
+
+### Volume 9, Batch 0004 — Chapters 433–442. THE TWENTY-NINTH OF MAY TO THE FIFTEENTH OF JUNE. **WRITTEN. 12,109 WORDS COUNTED PER FILE AND SUMMED.**
+
+**THE TEN FILES ARE `chapters/volume-09/chapter-0433.md` … `chapter-0442.md`.** Batch 0003's record is immediately above. `outline/volume-09.md` §6 MOVEMENT 4 HAS BEEN REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT THAT WROTE 433–440, WITH **FIVE NAMED PLACES THE PLAN WAS WRONG**, and 441–442 are written by the same phase and open movement 5's question. No new PC is proposed by this batch; `PC-57` to `PC-88` are re-derived unchanged in `state/continuity.md`.
+
+**WHAT THE BATCH DID, IN ONE PARAGRAPH.** She certified again on the twenty-ninth of May knowing the July position, and on the first of June he told her the rest whole — the weekly administration, the copy in her own division, the line in the Church book, the keeper's hand, the unclosable account, the officership without end, and that she cannot be sworn — and the telling cannot be taken back. A chair refused to meet him and the seats did not change, and the woman who is still recused told him his refusal of the thirteenth was the most expensive of nine volumes. A clerk wrote a correction and left it in a drawer with the date on it. A doctor walked him down to a corridor with no window and back up without putting him inside a door. **A woman who has stood at the north end of a wall for nine years took him to a room above a laundry and broke the quiet, and wrote a person under the seventh line.** A woman who counts the room she has left in herself would not say the figure. Eight women sat at one table and named the ninth from elsewhere and nothing moved. The requisition was called and he was told to stand when it is called, and he read two minutes alone with nobody in the room to be angry at, and fifteen days stand between him and the day with five things on it.
+
+**THE BATCH'S IRREVERSIBLE DECISION.**
+
+| Ch | The decision | Who pays | What it closed |
+| --- | --- | --- | --- |
+| **434** | **He told Sun Meiling the rest — the administration, the copy, the line, the keeper's hand, the unclosable account, the endless officership, and that she cannot be sworn.** | **Sun Meiling, who certified against it and will go on certifying, and who neither thanks nor forgives him.** | **The option of protecting her by silence.** |
+
+**CHAPTER BY CHAPTER, COMPACT.**
+
+- **433 (29 May). FOUR MINUTES AND A BOX. 1,197 words.** A sheet with a single box, four minutes, a signature knowing the July position, and one half of the rest told with the other kept.
+- **434 (1 June). THE ONE WHO WAS NEVER TOLD. 1,202 words. THE VOLUME'S MIDPOINT REVERSAL.** The rest told whole, in order, in a kitchen. She is told and is not made whole.
+- **435 (3 June). THE CHAIR WHO WILL NOT MEET. 1,239 words.** A refusal that is nothing — no scene, no paper, no entry — and a recused woman's pricing of his refusal.
+- **436 (5 June). A CORRECTION SHE HAS NOT FILED. 1,192 words.** Correct, dated, and in a drawer. The cheapest act priced by not doing it.
+- **437 (7 June). THE THIRD SUB-LEVEL. 1,096 words. `PC-62` lands here as well as at 431.** A corridor and not a door; anger in a white coat; two returns, one quarter, one matter.
+- **438 (9 June). THE SCENE. BEATRIX HALM. 1,737 words.** A room above a laundry, noise instead of quiet, the axis named on the page, and a person under the seventh line. **Scene body 1,151 on `## The Room Above The Laundry` → `## The Seventh Line` exclusive, which is also the literal first-`##`-to-last-`##` span; explicit-vocabulary probe 20 on both spans.**
+- **439 (10 June). THE COUNT SHE KEEPS UNDER. 1,188 words.** A drawer of dates, a stack with none, anger, and a figure that stays under.
+- **440 (12 June). THE HOUSE THAT IS NINE PEOPLE. 1,182 words.** Eight at the table, the ninth from elsewhere, one sentence from the end of the table, nothing moved.
+- **441 (13 June). THE STANDING TO ANSWER FOR HIMSELF. 1,121 words.** Called, not carried; standing, not making; seventeen days.
+- **442 (15 June). THE MINUTES HE READS HIMSELF. 955 words.** Two minutes read twice alone, no correction, fifteen days to the thirtieth.
 
 ### Volume 8, Batch 0001 — Chapters 351–360. THE FIRST TO THE TWENTY-SIXTH OF JANUARY. **WRITTEN.**
 

@@ -1,0 +1,66 @@
+# VOLUME 9 — BATCH 0005. CHAPTERS 443–450. THE SEVENTEENTH TO THE THIRTIETH OF JUNE.
+
+> # THIS IS A WRITING PHASE. IT WRITES EIGHT FINISHED CHAPTERS AND NOTHING ELSE.
+> Cards below are drawn from `outline/volume-09.md` §6 Movement 5 (still plan) as opened by 441–442, which Batch 0004 wrote. The volume outline is `outline/volume-09.md`; batch cards for 0004 are at `outline/batches/volume-09-batch-0004.md`. The card file and §6 below are the same plan in two places; if they ever disagree, the card file is the one to cite. **READ THE HEAD OF `state/open-threads.md` BEFORE ANY FILE ELSE — IT CARRIES THE LIVE GATE BLOCK WITH EVERY FIGURE RE-RUN BY COMMAND — THEN `state/current.md`, `state/continuity.md` (live block at head), `state/chapter-summaries.md` (Volume 9, Batches 0001–0004, ascending), `outline/volume-09.md` §§1–10, AND `chapters/volume-09/chapter-0441.md` AND `chapter-0442.md` FIRST OF ALL.**
+> **WRITE `chapter-0443.md` … `chapter-0450.md` INTO `chapters/volume-09/`.** The eight files are the only chapter files this phase produces. **Only the controller may mark a phase done or blocked. Do not create, edit, move or delete any `.done`, `.blocked`, `.deferred`, `.attempts` or `.retry-after` file in `workspace/`.**
+
+---
+
+## 0. WHAT YOU ARE
+
+**YOU WRITE PROSE.** Eight chapters, 443 to 450, the seventeenth to the thirtieth of June — the volume's close. **This batch carries the thirtieth of June, which is the last working day of the quarter, the day the Council sits, the fixed administration day for a held account and a lodged citizen, the deadline for a draft carry-forward, and the day a keeper enters a name into the fourth block of a sheet with no certificate behind it.** Chapter 450 prints the card. **A CARD IS NOT A CHAPTER AND A CHAPTER IS NOT A CARD.**
+
+## 1. THE POSITION AT CHAPTER 442 — CARRY EVERY LINE FORWARD AND CHANGE NONE OF IT
+
+1. **HE LODGED A CONSIGNMENT AT TEN MINUTES TO NINE ON THE MORNING OF THE FIFTEENTH OF APRIL AND IS RANK NINE FROM THAT HOUR.** No band floor is printed anywhere since Chapter 400. **A consignment cannot be partial, topped up, drawn against or given back; entered in the room's book on the day lodged, never entered out.**
+2. **THE ROOM WHERE NINE PEOPLE SIT STANDS AT FIVE, AND THE FIFTH IS HIM. A requisition carried needs five.**
+3. **A REQUISITION LAID ON THE TWENTIETH OF FEBRUARY IS CALLED — NOT CARRIED, NOT RECEIVED, NOT DECIDED.** One hundred and sixteen days old at 442. One entry in its life (ninth of May, held-not-carried, unstrikeable). Its February minute carries three seals and a sentence untrue since the thirtieth of March, unstrikeable. A minute of the carrying will carry five seals, one his, name the premises four times, go at four to seven desks. **A copy of the February minute has been in the division of classification — Alma Quayle's — for eighty-four days plus.**
+4. **THE COMPOSITION IS SEVEN AND EIGHT PEOPLE SLEEP UNDER THE ROOF. SHE CERTIFIED AGAIN ON THE TWENTY-NINTH OF MAY KNOWING THE JULY POSITION, AND ON THE FIRST OF JUNE SHE WAS TOLD THE REST** — administration, copy, Church line, keeper's hand, unclosable account, endless officership, unswornable. **THERE IS NO CERTIFICATE FOR THE QUARTER BEGINNING THE FIRST OF JULY; ON THE THIRTIETH A KEEPER FILLS THE FOURTH BLOCK FROM MEMORY, IN HER OWN HAND, WITH HER NAME AND NO CERTIFICATE BEHIND IT.**
+5. **THE FINDING** (October twenty-seventh description, *because it is cheaper*) stands with a transmission initialled above it by Wren Kallo; neither ever speaks of the address.
+6. **THE WITNESS LINE** (seven names, two-finger gap, hers on purpose) is kept and producible four years; the box under the gap carries the same word as under the fifth line — **THE WORD IS NOT PRINTED IN THIS REPOSITORY AND MUST NOT BE PRINTED BY YOU (`PC-70`).** Runa Sato's reason box carries his name since the twenty-eighth of May — **NO FIGURE FROM IT IS PRINTED, AND IT IS NEVER STRUCK, CORRECTED, EXPLAINED AWAY OR READ ALOUD.**
+7. **TWO RETURNS ABOUT ONE MATTER COME TO ONE CLINIC ON THE THIRTIETH**, by one doctor, neither asked for. Tessa Okonkwo will have written her line on the front of the file beforehand.
+8. **STILL SHUT:** Wren Kallo's bar untested (no second question, no chapter opens in her rooms) · Dagmar Oyelowo no gift (`PC-44`), does not move · Mrs Imrie not asked · Alma Quayle recused (a word after the thirtieth is not written until the first of July) · turned count ten, tenth a carter off Ferrier Street · ledger rising, no panel except 450 · **NOTHING CLASSIFIED, NOTHING ROUTED, NO FOLIO, NO SETTLE DATE, NO RECOVERY OF ANYTHING SPENT SINCE THE TWENTY-THIRD OF APRIL. He has not used the instrument he swore on the ninth of May never to use; answering when called is standing, not making.**
+
+**ROSTER UNCHANGED:** eight at Ferrier Street (Agnete, Runa, Nadia, Wren, Isolde, Beatrix, Petra, Sun); nine on the roll (Ines, Beatrix, Tessa, Nadia, Runa, Marguerite, Agnete, Petra, Isolde); three unsworn (Wren, Sun, Dagmar), each reason given at 402.
+
+## 2. MARKS, DAYS, SCENES — READ BEFORE A BODY IS WRITTEN, NOT AFTER
+
+Marks table: `outline/volume-09.md` §4a (only temple is Lin Hao's, left; Sun Meiling nothing-on-her plus spine work-line and paper stitches; Wren left-hand ink, left-eye yellow — use at most one per batch; Ines right-hand cuticle ink plus left-temple grey; Marguerite cuticle ink, no framing; Dagmar no gift and no mark; Petra none; Tessa stippling referenced not re-described). **Invent no claim; move no mark.**
+
+**A month is thirty days, no thirty-first; the thirtieth is the last working day. Remaining-in-quarter = 30 − date, exclusive. SUBTRACT DAY NUMBERS, never a real calendar. NO DAY OF THE WEEK (seven of seven, whole-word and substring, zero). NO ANNOUNCED AGE (probe digits AND words).**
+
+| Ch | Day | Ch | Day |
+| --- | --- | --- | --- |
+| 443 | 17 June | 447 | 25 June |
+| 444 | 19 June | 448 | 27 June |
+| 445 | 21 June | 449 | 28 June |
+| 446 | 23 June — THE SCENE, INES DUARTE | 450 | 30 June, at six — THE CARD |
+
+**REQUISITION AGE, each derived inside its own chapter, never quoted across: 117 at 443 · 119 at 444 · 121 at 445 · 123 at 446 · 125 at 447 · 127 at 448 · 128 at 449 · 130 at 450**, being (30−20)+30+30+30+[June date]. A chapter that needs no count states none.
+
+**SCENE SCHEDULE (mixed = explicit): 406 Petra 8 · 417 Nadia 11 · 428 Runa 11 · 438 Beatrix 10 (WRITTEN, body 1,151, probe 20) · 446 INES — YOURS, gap 8.** She reads him correctly, in public, on purpose — the last time anybody gets to do it by accident. First scene Ch 8, last 340; signs the roll at 402 from her own rooms; no paper is read in her rooms again. **Explicit, unhurried, no fade. Not impaired (said in her own mouth first). No compulsion/sedation/exhaustion/toxin/restraint/psychic/trance/seal as mechanism. Break the template (*terms, body thrice, counted minute, kettle*) on a NEW axis — terms, minute and body axes are spent by 406/417/428 and quiet by 438 — and SAY WHICH ON THE PAGE. Body from opening `##` to closing `##` exclusive; under ~900 is unwritten. Print recorded AND literal spans with definitions and the explicit-vocabulary probe (mouth · came · hip · thigh · come · inside · wet).** Her marks only (right-hand cuticle ink; left-temple grey with the etches). The 380–398 eighteen-chapter breach stays in the book and is NEVER described as closed/cured/resolved/discharged.
+
+## 3. THE EIGHT CHAPTERS, ONE PARAGRAPH EACH (PLAN — THE PAGE OUTRANKS IT)
+
+- **443 (17 June). THE REQUISITION IN HIS OWN ANSWER.** What standing up when called is made of, in his own words, before the sitting. *May not:* carry/receive/decide anything; use the instrument.
+- **444 (19 June). THE CHEAPEST THING IN THE ROOM.** The room takes it, and not from him. *May not:* have him pay it; thank anybody for it.
+- **445 (21 June). THE CLAUSE UNDER THE MINUTE.** Entered in the room's own hand on the last sitting day of the quarter. *May not:* correct anything; strike anything.
+- **446 (23 June). THE SCENE. INES DUARTE. TITLED *The Room In Which He Is Read*.** §2. *May not:* read any paper in her rooms; make it a first scene; use deafness/silence axes again.
+- **447 (25 June). THE FOURTH SEAT FILLS AND EMPTIES.** *May not:* change the room's standing number; lift any recusal.
+- **448 (27 June). THE FIFTH MARK THAT NEVER CAME.** *May not:* invent a fifth mark; correct the book.
+- **449 (28 June). THE BOY WITH THE PASTE BRUSH.** The eve of the card. *May not:* print the card early; name the boy anything but what the page gave.
+- **450 (30 June, at six). THE NAME ON THE BLACK TILE. TITLED *The Name On The Black Tile*.** The card comes down in a different hand on different paper and **prints both figures** (derive ONLY from the painted card read in the chapter, as Vol 7 did at 328 and Vol 8 at 400 — never from `bible/power-system.md`'s illustrative table). The top tile is black with a name for the first time in living memory; she writes it down with the time and something under it. **THE VOLUME'S SECOND SYSTEM PANEL IS HERE AND ONLY HERE — the chapter turns on the ledger: `[Ledger. ...]` on its own line, square brackets, never bold/italic.** *May not:* print a floor anywhere else in the eight; settle anything (string `settle` nowhere); close the 380–398 breach; touch `outline/ending.md`.
+
+**TITLES banked in `outline/volume-09.md` §10 — PRINT EXACTLY:** 443 *The Requisition In His Own Answer* · 444 *The Cheapest Thing In The Room* · 445 *The Clause Under The Minute* · 446 *The Room In Which He Is Read* · 447 *The Fourth Seat Fills And Empties* · 448 *The Fifth Mark That Never Came* · 449 *The Boy With The Paste Brush* · 450 *The Name On The Black Tile*. Unique across `chapters/`, 3–12 words, ≤90 chars. Changing one means re-running the bank in the same commit.
+
+## 4. DO NOT OPEN / DO NOT CLOSE
+
+Lin Wei's file (brother named at 486 only) · second folio of 4,112 · B103 · settle date · Ines's lost day/record · unstamped reads · ninth turned line's meaning · seventh returned line · Reading wall bare slot · account's address reason · Anouk Ferreira's unoffered large offer · **ANY offer of any kind (great offer is 486's)** · who Wren tells · October song · 486 return's reach · unrecorded-ownership (Vol 10) · Wren's shaped woman · fourth part beyond the finding · Perrin Sowe's four lines · anything after Vol 10 · Wren's bar · Mrs Imrie · Dagmar's first thing + `PC-44` · Alma's recusal · Nikolai Vester · sixth seat · Imrie's eleven minutes · the two minutes neither wrote · Beatrix's empty notebook line · Wanda Rej's plaster (state only) · Ines's review · Sun's row/bar (told once at 434 — never re-told, never explained away) · Marguerite's fourth line · `PC-28` figures · Runa's hand figure · Runa's reason box (never read aloud).
+
+## 5. GATES (RE-RUN BY COMMAND AFTER LAST EDIT; RECORD WITH COMMANDS IN NEW LIVE BLOCK AT HEAD OF `state/open-threads.md`, SUPERSEDING NOT DELETING)
+
+files 443–450 eight, no gap, one trailing newline each · titles unique vs all of `chapters/` · markdown: blockquote/table/rule/code 0, bold/italic scarce with count · paragraphs: 0 over ~90/~120, quote-parity 0 odd, no splitter over dialogue · system panels: ONE, at 450 only · duplication: 12-gram vs all earlier then 11/8, plus borrowed-bodies vs §4a BEFORE writing; first pass is a list of what is quoted (documents read aloud?) not faults; rewrite canon in own words, never move claims · weeknames 0 · ages 0 (both probes) · `settle` 0 in volume · `right temple` 0 in book · no `[0-9],[0-9]{3}` except 450's card figures from the painted card · banned nine at zero · scene 446 body+probe with both spans defined.
+
+## 6. AFTER THE EIGHT
+
+Rewrite `outline/volume-09.md` §6 movement 5 against the page with named divergences; record canon in `state/continuity.md` (`PC-89+` PROPOSED with chapters, re-derive `PC-57`–`PC-88` STATUS); update `state/current.md`, `state/open-threads.md` (new live gate block), `state/chapter-summaries.md` (Batch 0005 BELOW 0004, ascending); create exactly one `workspace/volume-09/batch-0006/PROMPT.md` ONLY if chapters remain (they will not — 450 ends the volume; instead write the volume-close prompt per `PHASE_SYSTEM.md`). Do not create `state/complete.md` (series planned past 500; Vol 10 *Returned*; ending Ch 486).

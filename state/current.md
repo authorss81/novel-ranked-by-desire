@@ -1,3 +1,19 @@
+# VOLUME 9 BATCH 0004 HEAD RECORD. **CHAPTERS 401–442 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE FOR 443–450.**
+
+> **THE PHASE THAT WROTE THIS WROTE TEN CHAPTERS.** `chapters/volume-09/chapter-0433.md` … `chapter-0442.md` exist, the twenty-ninth of May to the fifteenth of June, **12,109 words counted per file and summed**. `outline/volume-09.md` §6 movement 4 has been **rewritten against the page in the same commit**, with **five named places the plan was wrong**, and 441–442 are written by the same phase and open movement 5's question. No new PC is proposed; `PC-57` to `PC-88` are re-derived unchanged.
+> **LIVE GATES ARE AT THE HEAD OF `state/open-threads.md` AND THE BLOCK BELOW THAT HEAD IS SUPERSEDED, NOT DELETED.**
+> **`outline/ending.md` IS UNTOUCHED AND `state/phase-ledger.json` IS NOT OURS.**
+
+## 0a. WHAT THIS BATCH DID, AND ITS ONE IRREVERSIBLE DECISION
+
+**THE BATCH'S IRREVERSIBLE DECISION IS 434 AND IT IS HIS.** On the evening of the first of June, in his own kitchen, **he told Sun Meiling the rest** — the weekly administration against the composition, the copy in her own division, the line in the Church book, the keeper's hand with no certificate behind it, that the account cannot be closed, that she is its officer for as long as it stands, and that she cannot be sworn and no roll can protect her. **WHAT IT CLOSED: the option of protecting her by silence.** She certified on the twenty-ninth knowing half of it and would have signed knowing all of it; the telling gives her the shape of the room, not a choice, and she neither thanks nor forgives him.
+
+## 0b. THE POSITION AT CHAPTER 442 — EVERY FIGURE ON THE PAGE
+
+Plate and floor **not printed in any of the ten; no four-digit figure of any kind appears in them.** **The room where nine people sit stands at FIVE** and the fifth is him. **A requisition laid on the twentieth of February is called — not carried, not received, not decided — is one hundred and sixteen days old at 442, and will be answered by him standing in that room as a member when it is called on the thirtieth.** The composition is seven and eight people sleep under it; **she certified it again on the twenty-ninth of May knowing the July position, and on the first of June she was told the rest.** A Church book carries a line with the address since the first of June. A reason box carries his name since the twenty-eighth of May, in Runa Sato's own hand, unpriced. A keeper will fill the fourth block from memory on the thirtieth of June. A clinic will receive two returns about one matter that morning. **He swore on the ninth of May never to make the room need something; he has not used it in any of the ten.** Ledger and file untouched; no chapter turns on the ledger and none carries a panel. The Council sits on the thirtieth of June, fifteen days from the fifteenth. **Beatrix Halm's seventh line has something under it that is not nothing.**
+
+~~SUPERSEDED BY THE BLOCK ABOVE THIS ONE. RETAINED IN FULL.~~
+
 # VOLUME 9 BATCH 0003 HEAD RECORD — 13 OCTOBER 2026. **CHAPTERS 401–432 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.**
 
 > **THE PHASE THAT WROTE THIS WROTE TEN CHAPTERS.** `chapters/volume-09/chapter-0423.md` … `chapter-0432.md` exist, the eleventh of May to the twenty-seventh of May, **23,925 words counted per file and summed after the 13 October 2026 review repair, 23,943 before it**. `outline/volume-09.md` §6 movement 3 has been **rewritten against the page in the same commit**, with **eight named places the plan was wrong**, and the 433 and 434 cards are now loaded by two facts the page established rather than by the plan. `PC-83` to `PC-88` are this batch's own proposals, recorded with the chapter each one lands in.

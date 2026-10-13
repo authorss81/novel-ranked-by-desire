@@ -1083,10 +1083,9 @@ with his name in it, and who is not going to be thanked.
    TELLINGS DID NOT HAVE: THERE IS NO CERTIFICATE FOR THE NEXT QUARTER AND A KEEPER IS GOING TO WRITE A NAME WITHOUT
    ONE.** That is what 433 and 434 are standing on, and neither of them is written yet.
 
-### Movement 4 — WHAT A COMPOSITION IS ADMINISTERED AGAINST (431–440). 25 May – 12 June.
+### Movement 4 — WHAT A COMPOSITION IS ADMINISTERED AGAINST (431–440). 25 May – 12 June. **REWRITTEN AGAINST THE PAGE BY THE PHASE THAT WROTE 433–440. EVERY CARD TO 440 IS WRITTEN AND EVERY WORD OF IT IS WHAT THE PAGE DID. 441–442 ARE WRITTEN BY THE SAME PHASE AND OPEN MOVEMENT 5's QUESTION; MOVEMENT 5 BELOW IS STILL PLAN.**
 
-**The promise:** the requisition has been administered weekly since the first of April against the composition of
-premises 34-6-118, and the composition is seven, and the cheapest thing in the room is a certificate.
+**The promise, as the page kept it:** the requisition has been administered weekly since the first of April against the composition of premises 34-6-118, and the composition is seven, and the cheapest thing in the room is a certificate — **and the certificate is filled in by a woman who now knows what it makes her.**
 
 - **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND.** Tessa Okonkwo and the held-account returns, and the fact that
   **a lodged consignment is administered the way a held account is administered, on a fixed day, with a medical
@@ -1094,14 +1093,14 @@ premises 34-6-118, and the composition is seven, and the cheapest thing in the r
   neither was asked for by anybody.
 - **432 (27 May). THE FOURTH BLOCK OF A SHEET.** The block no form provides, and the reason the account cannot be
   closed, restated **once, in a room, by a woman, and not in narration.**
-- **433 (29 May). FOUR MINUTES AND A BOX.** She certifies again and knows this time.
-- **434 (1 Jun). THE ONE WHO WAS NEVER TOLD.** **THE VOLUME'S MIDPOINT REVERSAL — see below.**
-- **435–437.** The chair who will not meet, because the Council does not sit again until the thirtieth of June
-  (435). A correction she has not filed (436). **The third sub-level: administration, not imprisonment — he is walked
-  down to his own door by a man who does not lock it, and the chapter is about a corridor and not about a door
-  (437).**
-- **438 (9 Jun). THE SCENE. BEATRIX HALM.** §4.
-- **439–440.** The count she keeps under (439). The house that is nine people (440).
+- **433 (29 May). FOUR MINUTES AND A BOX. WRITTEN. 1,197 WORDS.** She certifies again and knows the July position; the rest comes on the first of June. The plan's single certification is two evenings — see the five named divergences below.
+- **434 (1 Jun). THE ONE WHO WAS NEVER TOLD. WRITTEN. 1,202 WORDS. THE VOLUME'S MIDPOINT REVERSAL — see below, now on the page.** He tells her the rest whole, in order, with no shelter left.
+- **435 (3 Jun). THE CHAIR WHO WILL NOT MEET. WRITTEN. 1,239 WORDS.** The chair refuses a member before the sitting; the seats do not change; Alma Quayle prices his thirteenth-of-May refusal.
+- **436 (5 Jun). A CORRECTION SHE HAS NOT FILED. WRITTEN. 1,192 WORDS.** A slip, correct and dated, stays in a drawer. The entry is priced by not being made.
+- **437 (7 Jun). THE THIRD SUB-LEVEL. WRITTEN. 1,096 WORDS. A CORRIDOR AND NOT A DOOR.** He is walked down and back up and is not put inside one. **`PC-62` LANDS HERE AS WELL AS AT 431.**
+- **438 (9 Jun). THE SCENE. BEATRIX HALM. WRITTEN AND OUT IN FULL. 1,737 WORDS; SCENE BODY 1,151 ON THE SPAN `## The Room Above The Laundry` TO `## The Seventh Line` EXCLUSIVE — WHICH IS ALSO THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN; PROBE 20 ON THE SAME LIST AS 406/417/428.** §4. The axis broken is a new one — the quiet — named on the page.
+- **439 (10 Jun). THE COUNT SHE KEEPS UNDER. WRITTEN. 1,188 WORDS.** A drawer in Vestry rooms; she counts and does not say the figure.
+- **440 (12 Jun). THE HOUSE THAT IS NINE PEOPLE. WRITTEN. 1,182 WORDS.** Eight at one table, the ninth named from elsewhere; nothing moves.
 
 **THE MIDPOINT REVERSAL, PLACED AT 434 AND STATED ONCE:** **for eighty days the volume's pressure has been a
 requisition that five people could carry, and the reversal is that the thing being carried is not the account and was
@@ -1111,19 +1110,27 @@ division, in her own hand, under her own name, four times a year, for ever** —
 household who cannot be sworn, cannot be protected by the roll, and did not know until Chapter 411 that she was an
 officer of anything.
 
-**WHAT CLOSES IN MOVEMENT 4:** *the account is safe and a woman is not.* **THE COST, IN ONE PLAIN SENTENCE AFTER
+**WHAT CLOSES IN MOVEMENT 4, ON THE PAGE:** *the account is safe and a woman is not — and she knows it now, because the one man who could have gone on keeping it from her told her on the first of June.* **THE COST, IN ONE PLAIN SENTENCE AFTER
 THE MACHINERY: he has spent nine volumes learning how to be unreached, and the thing this volume reached is a woman
 who has been certifying her own front door every quarter since November because she did a job that was never put
 to her.**
+
+**FIVE PLACES THE PLAN WAS WRONG ON THE PAGE, NAMED RATHER THAN QUIETLY OVERWRITTEN:**
+
+1. **THE 433 CARD SAID *SHE CERTIFIES AGAIN AND KNOWS THIS TIME* AND THE PAGE SPLIT KNOWING IN TWO.** July position on the twenty-ninth, the rest on the first of June. One certification, two evenings.
+2. **THE 434 CARD SAID *HE MAY AT LAST TELL HER THE REST* AND THE PAGE SPENT IT WHOLE.** Permission became the chapter, in order, with nothing sheltered at the end.
+3. **THE 435 CARD SAID A CHAIR REFUSES AND THE PAGE MADE THE REFUSAL NOTHING.** No scene, no paper, no entry — and Alma Quayle's pricing of his refusal is the discovery the card did not foresee.
+4. **THE 436 CARD ASSUMED THE ENTRY AND THE PAGE DECLINED IT.** The slip is written, dated, and left in the drawer; the cost of filing is priced by not paying it.
+5. **THE 439 AND 440 CARDS WERE ONE COUNT AND THE PAGE NEEDED TWO ROOMS.** A drawer in Vestry rooms and a kitchen table of eight: the telling of the first of June lands on two different women in two different ways.
 
 ### Movement 5 — THE ANSWER (441–450). 13–30 June.
 
 **The promise:** the standing to answer a requisition, which is the only thing rank nine buys, and he has never in
 nine volumes been in a position to answer one.
 
-- **441 (13 Jun). THE STANDING TO ANSWER FOR HIMSELF.** The requisition is called and it is his to answer and
-  answering it means standing in that room as a member.
-- **442–445.** The minutes he reads himself (442). The requisition in his own answer (443). **The cheapest thing in
+- **441 (13 Jun). THE STANDING TO ANSWER FOR HIMSELF. WRITTEN BY BATCH 0004, 1,121 WORDS.** The requisition is called — not carried, not received, not decided — and answering means standing as a member with a seal he cannot refuse. He does not make the room need anything; he is told to stand when called.
+- **442 (15 Jun). THE MINUTES HE READS HIMSELF. WRITTEN BY BATCH 0004, 955 WORDS.** Alone with two minutes, read twice each, no correction, no summing-up. Fifteen days to the day with five things on it.
+- **443–445.** The requisition in his own answer (443). **The cheapest thing in
   the room (444)** — and the room takes it, and not from him. **The clause under the minute (445)**, entered in the
   room's own hand on the last sitting day of the quarter.
 - **446 (23 Jun). THE SCENE. INES DUARTE.** §4. `outline/series.md`: **she reads him correctly, in public, on
@@ -1169,7 +1176,7 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | **0001** | **401–412** | 1–21 April | **the restoration, the roll, what nine costs, the ask, the lodge, the line with a gap in it, and the return at five.** Cards written; `workspace/volume-09/batch-0001/PROMPT.md` is the one live phase |
 | **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
 | **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE REVIEW REPAIR OF THE SAME DAY, 23,943 BEFORE IT; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
-| **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself.** **THE CARDS AT 433 AND 434 ARE NOW LOADED BY 431 AND 432 AND NOT BY THE PLAN: the first administration of a lodged citizen and the next administration of a held man are the same morning at the same clinic, and a keeper is going to enter a name in the fourth block of a sheet on the thirtieth of June out of her own memory with no certificate behind it** |
+| **0004** | **433–442** | 29 May – 15 June | **WRITTEN, 12,109 WORDS COUNTED PER FILE AND SUMMED; `outline/volume-09.md` §6 movement 4 REWRITTEN AGAINST THE PAGE in the same commit, with five named places the plan was wrong. 441–442 are written by this batch and open movement 5's question; movement 5 is still plan for Batch 0005.** Four minutes and a box; the one who was never told, and the telling is the batch's irreversible decision; the chair who will not meet; a correction not filed; the third sub-level corridor; the Beatrix Halm scene at 438 (body 1,151, probe 20); the count kept under; the house that is nine people; the standing to answer; the minutes read alone. |
 | **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
 `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
 thirty** |
