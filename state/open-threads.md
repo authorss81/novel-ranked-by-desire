@@ -1,3 +1,48 @@
+## Volume 7 — PLANNED, NOT WRITTEN. THIS BLOCK SUPERSEDES NOTHING; THE BLOCK BELOW IS STILL THE LIVE GATE RECORD.
+
+> **NO CHAPTER OF VOLUME 7 EXISTS.** The volume outline is `outline/volume-07.md`, the batch cards are
+> `outline/batches/volume-07-batch-0001.md` through `0005.md`, and the one live next-phase prompt is
+> `workspace/volume-07/batch-0001/PROMPT.md`. **The Volume 6 Batch 0005 gate block below remains the live
+> gate record** until a Volume 7 batch replaces it with its own, and none of the rows in it has been
+> disturbed by planning.
+>
+> **THREE FLAGS RAISED WHILE PLANNING. NONE IS A CANON CHANGE. ALL THREE ARE BINDING ON THE NEXT BATCH.**
+
+**1. THE CALENDAR DISAGREES WITH ITSELF BY ONE DAY, AND IT HAS SINCE VOLUME 5.** The head block of
+`state/current.md` §3.2 prints **August 1 a Tuesday**, which puts August's Thursdays on the third, tenth,
+seventeenth and twenty-fourth — correct — and prints **September's Thursdays as the seventh, fourteenth,
+twenty-first and twenty-eight**, which cannot both be true. **A month is thirty days and advances the weekday
+by two, so August 1 a Tuesday makes September 1 a Thursday and puts September's Thursdays on the second,
+ninth, sixteenth, twenty-third and thirtieth.**
+**RULING: the page governs and both printed lists stand exactly as written, because eleven closed chapters
+depend on the September list and re-deriving them is not available.**
+**CONSEQUENCE, AND IT IS BINDING: Volume 7 names NO DAY OF THE WEEK AT ALL — not Monday, not Friday, not
+Saturday, and not Thursday.** Write the date. **A batch that genuinely needs a Thursday records the
+discrepancy in its review file and does not resolve it in the prose.** This is a standing open item for the
+Volume 7 close audit, not a thing to be fixed in a batch.
+
+**2. `bible/power-system.md`'s BAND TABLE DOES NOT MATCH THE PRINTED PLATE AND THE PAGE GOVERNS.** The table
+puts rank five at 8,000 and rank seven at 55,000 grains a week. **The plate in this book prints 8,138 and
+`state/continuity.md` has carried *band five on the plate, band six on a piece of paper* for three volumes.**
+**PROPOSED CANON CLARIFICATION, FLAGGED AND NOT ADOPTED: the table is illustrative and every band threshold
+in the prose is read off a card on the ranks wall printed in the chapter that uses it.** **No batch may derive
+a threshold from the table, and no batch edits `bible/power-system.md` to fix it.** Recorded here so that a
+later reader who trusts the table does not silently contradict three closed volumes.
+
+**3. THE GATE LESSON IS NOW FOUR VOLUMES OLD AND IT IS THE STANDING INSTRUCTION FOR THE NEXT PHASE.**
+Three consecutive Volume 6 batches reported a clean gate row that was not clean, and **every one of those
+rows was written by the same pass that wrote the prose.** Batch 0005's own block claimed a first pass of 137
+and a final of 0; an independent run of the committed files found 9. **A gate record is a claim about a
+file. Re-run it from outside the pass and let the re-run outrank the record.** The Volume 7 Batch 0001
+prompt carries this and instructs the batch to print the figure a command returns against the files after
+its last edit, with the tokenisation and the scope stated beside it.
+
+**AND THE TWO THAT ARE NOT NEW BUT ARE STILL THE EXPENSIVE ONES:** **never run a paragraph-length splitter
+over prose containing dialogue** — Volume 6's Batch 0004 ran two and lost three of four days and restored a
+closed chapter from git twice — **and treat every hit for `it went on a long time` or `afterwards` as an
+unwritten scene.** Three summarised scenes shipped in Volume 6, at 279, 289 and 299, and the third passed
+the gate that had recorded the first two as clean.
+
 ## Volume 6, Batch 0005 — REPAIRED ON INDEPENDENT REVIEW. THIS BLOCK SUPERSEDES THE ONE BELOW IT.
 
 > **THE REVIEWER FOUND THREE BLOCKING DEFECTS AND ONE MINOR, AND TWO OF THE THREE HAD BEEN RECORDED

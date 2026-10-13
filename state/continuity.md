@@ -22,6 +22,93 @@ the cheaper mistake and the wrong one.
 `state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
 long-range position, before any of this.**
 
+## Volume 7 — PLANNED, NOT WRITTEN. CHAPTERS 301–350. OPENS THE SECOND OF OCTOBER.
+
+**No chapter of Volume 7 exists. This block is a plan, not a position.** The live position is the Volume 6
+Batch 0005 block immediately below. The outline is `outline/volume-07.md`; the batch cards are
+`outline/batches/volume-07-batch-0001.md` through `0005.md`; the one live phase prompt is
+`workspace/volume-07/batch-0001/PROMPT.md`.
+
+> **THREE THINGS A VOLUME 7 BATCH MUST INHERIT AND MUST NOT RE-DERIVE, AND TWO OF THEM WERE FOUND WHILE
+> PLANNING AND ARE NEW SINCE CHAPTER 300.**
+>
+> **1. THE CALENDAR IN THIS MANUSCRIPT DISAGREES WITH ITSELF, BY ONE DAY, AND IT HAS SINCE VOLUME 5.**
+> `state/current.md` §3.2 prints **August 1 a Tuesday**, which makes August's Thursdays the third, tenth,
+> seventeenth and twenty-fourth — correct. **September's Thursdays are printed as the seventh, fourteenth,
+> twenty-first and twenty-eight, and those two lists cannot both be true:** a month is thirty days and
+> advances the weekday by two, so August 1 a Tuesday makes September 1 a Thursday and puts September's
+> Thursdays on the second, ninth, sixteenth, twenty-third and thirtieth. **Eleven closed chapters depend on
+> the September list, so the page governs and both lists stand exactly as printed. The instruction that
+> follows from it is the strongest rule in this block: VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL** — not
+> Monday, not Friday, not Saturday, and not Thursday. Write the date. **Do not resolve this in prose. If a
+> chapter genuinely needs a Thursday, record the discrepancy in the review file.**
+>
+> **2. `bible/power-system.md`'s BAND TABLE IS ILLUSTRATIVE AND THE PAGE GOVERNS.** It puts rank seven at
+> 55,000 grains a week. The plate in this book prints **8,138 and band five**, and `state/continuity.md` has
+> carried *band five on the plate, band six on a piece of paper* for three volumes. **No Volume 7 batch may
+> derive a band threshold from that table.** A threshold comes from a card printed on the ranks wall in the
+> chapter that uses it, or the chapter does not use one. **This is flagged as a proposed canon clarification
+> in `state/open-threads.md` and is not a change to the bible.**
+>
+> **3. EVERYTHING ELSE IS INHERITED FROM BATCH 0005 AND IS UNCHANGED.** A month is thirty days and has no
+> thirty-first; the thirtieth is the last working day of a quarter; the quarterly floors run 8,142 on the
+> thirtieth of July, 8,143 on the thirtieth of August, 8,144 on the thirtieth of September, and **8,145 on
+> the thirtieth of December, which is the card Volume 7 ends on**; a called standing is answered at a
+> valuation by paying it or by a production; a district premises return is a leaf in a bound quarter-book,
+> one per premises per quarter, which opens on the first and closes on the thirtieth of the quarter's last
+> month and is not reopened; a composition counts persons of reading age holding an address at the premises;
+> an initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence; **no paper is
+> read to Ines Duarte in her own rooms until he breaks that himself at Chapter 337**; **and the sixth line
+> on the page in Chapter 250 is his standing instruction, has no figure against it, and is not a debt.**
+
+### THE PLANNED DAY SPINE OF VOLUME 7 — NOT ONE CHAPTER A DAY, AND IT IS A PLAN
+
+**301–310 the second to the nineteenth of October · 311–320 the twenty-second to the thirtieth of October ·
+321–330 the third to the sixteenth of November · 331–340 the nineteenth to the thirtieth of November ·
+341–350 the first to the thirtieth of December.**
+
+**The only date fixed by a closed chapter is the second of October, at about eleven, at a counter: Wren Kallo
+takes an address at premises 34-6-118, in the ordinary way.** The thirtieth of October is the batch's
+deadline — an account not carried, produced or described by the last day of its month is described by
+default, and **the thirty-first of October does not exist.**
+
+**The eleven days of movement 4 must be counted out loud from a date printed on the page and counted a second
+time in the chapter that ends them. No settle date is invented. No settle date exists anywhere in this
+manuscript and none may be created.**
+
+### WHAT THE PLAN PUTS ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT — ONCE IT IS WRITTEN
+
+1. **The composition of 34-6-118 becomes eight at about eleven on the second of October**, and the priced
+   line in the Vant's real books says seven, and there are two figures for one door in two books.
+2. **The account cannot be carried and is referred for classification** with the address, the figure and the
+   reason on it. **He does not swear eight.** He can never swear that premises at seven again.
+3. **The classification is written against the head and not against the address**, at his request, in
+   Batch 0002 — and eight women are named in a file, in the order they keep the address, one of them in her
+   own words and one of them with a clerk's number that is hers for ever. **The household's invisibility is
+   gone and cannot be got back.**
+4. **He is scored in public for the first time in the book and reaches seven** in Batch 0003, because a band
+   is made of deeds other people attest and the reservoir cannot raise his rank.
+5. **The mechanism beat:** a movement of unrecorded merit requires a **Seal**, and his brother's is the one
+   that matches. **Lin Wei's file does not open. It opens at Chapter 372.**
+6. **Eleven days of not spending** in Batch 0004, to keep a turned woman alive, and the security of the
+   thirty-year account falls under its floor while he does it. **The stranger lives. She is not a partner.
+   No partner dies anywhere in this book.**
+7. **He breaks his own standing undertaking of the ninth of July at Chapter 337** and asks Ines Duarte to
+   read the classification in her own rooms. **The term does not exist again.**
+8. **He signs a page with his name at the top of it in his own hand at Chapter 348**, and lodges it with the
+   bench, and it is the reason the requisition fails for want of a majority at nine minutes at Chapter 346.
+9. **He can be requisitioned and has not been.** That is the volume's ceiling and Volume 8 inherits it.
+
+### THE DO-NOT-OPEN REGISTER FOR VOLUME 7
+
+It is written out in full in **`outline/volume-07.md` §7** and it is binding. **May not open:** the second
+folio · B103 · the instrument's live-column rule, spent · the reason he gave Marguerite Vale on the
+twenty-eighth of August · whether the broker's bag was in her own rooms or another's on the twentieth of
+July · who bought the verse at the Bellhouse · her terms of the fourteenth of March · Bernt · Rhee ·
+Saskia Verhoeven as a character · **Dagmar Oyelowo, who enters at 388** · **anything after Volume 8** ·
+**Lin Wei's file, which opens at 372** · **a requisition received** · **a classification completed against
+him**.
+
 ## Volume 6, Batch 0005 — CHAPTERS 291–300. THE SECOND OF SEPTEMBER TO THE FIRST OF OCTOBER. LIVE.
 
 **Volume 6 is closed at Chapter 300.** Batch 0005's head block is in `state/current.md`; the live gates are in

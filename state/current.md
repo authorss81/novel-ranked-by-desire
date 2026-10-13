@@ -1,3 +1,77 @@
+# VOLUME 7 — PLANNED. NOT WRITTEN. THE VOLUME TURNS AT CHAPTER 301.
+
+## 0. WHAT THIS BLOCK IS
+
+**Volume 6 is closed at Chapter 300 and Volume 7 has been PLANNED, not written.** No file in
+`chapters/volume-07/` exists. **This block is the volume's plan and it is not position.** The position is
+Volume 6 Batch 0005's block, immediately below, which remains the live record until a batch writes 301–310
+and replaces this one.
+
+**What now exists that did not exist at Chapter 300:**
+
+- **`outline/volume-07.md` — the volume outline. §1 to §5 are written fact, derived from the closed pages.
+  §6 onward is an unvalidated plan**, and the batch that writes each stretch rewrites it against the page
+  in the same commit. `AGENTS.md`: a batch that finds a better answer on the page takes it.
+- **`outline/batches/volume-07-batch-0001.md` through `0005.md` — the volume's five batch cards.** Batch 0001
+  has a full card per chapter; 0002 to 0005 have the batch fields and a line per chapter.
+- **`workspace/volume-07/batch-0001/PROMPT.md` — the one live next-phase prompt.** The earlier
+  `outline/batches/volume-07-batch-0001/prompt.md`, written by Volume 6's Batch 0005, is superseded and says
+  so.
+
+**This is the first volume outline in this book to be owned before its first chapter.** Volumes One through
+Four each had one; Volume Five was reconstructed eleven chapters in and its file says what that cost;
+Volume Six had none and its first batch wrote one afterwards and said so on its own face.
+
+## 1. THE VOLUME'S SENTENCE
+
+> In this volume, **Lin Hao must survive classification**, or **the reservoir is requisitioned by the Concil
+> of the Nine and stops being his**.
+
+## 2. THE ENGINE, IN THE LEAD'S OWN SENTENCE FROM CHAPTER 300
+
+**A classification does not need a man in it. It needs an address, and a figure, and a reason.** He has all
+three and he has not been classified.
+
+**The volume is a piece of arithmetic and not a chase.** The reservoir is priced at seven and it is
+*answerable by the composition of that premises* (296). **At about eleven on the second of October, at a
+counter, in the ordinary way, Wren Kallo takes an address at 34-6-118. The composition becomes eight. The
+priced line says seven. An account that cannot be carried as it stands is not a security any more; it is a
+thing that has to be described — and a description of a house is a list of the people who live in it.**
+
+**The title is the turn.** He has been band six on a piece of paper and band five on his plate since Volume 5
+and his plate has not moved a grain in two hundred and forty chapters. **Seven is the band that carries
+requisition of merit from a person and opens the sealed archive.** To be heard by anybody entitled to hear
+him he has to be scored, in public, by deeds other people attest — **the thing he has refused since Chapter
+48 because every advantage feels like theft from somebody smaller. Volume 7 is the volume he does it.**
+
+## 3. THE FIXED POSITION INHERITED UNCHANGED
+
+**Every figure, every standing instrument and every live debt is in `state/continuity.md`'s Batch 0005 block
+and in `outline/volume-07.md` §2, and is not restated here.** The short version, because a later batch will
+otherwise re-derive it wrongly: **plate 8,138, floor 8,144, six under, out of band since the thirtieth of
+July** · **ledger 118 lines, nine turned, the ninth still himself, nothing spent** · **file 4,112, one folio
+open, no second, no classification, no rank earned, no rank lost** · **the reservoir priced at seven, dated
+the sixteenth of September, initialled and not signed, out of the counting room on the seventeenth, in four
+divisions by the end of the week** · **the production of seven sworn at ten to nine on the first of October,
+the second of the same figure from the same premises in nine seconds** · **the third-quarter district book
+closed on the thirtieth of September and the seventh returned line blank because of the book and not because
+of a decision** · **the keys of the counting room changed on the seventeenth of September to a woman he has
+never met, and Chapter 302 names her** · **the thirtieth of December is the next quarterly card and the
+volume ends on it.**
+
+## 4. WHAT THE PLAN OWES THE PAGE, AND WHAT IT MUST NOT ASSUME
+
+- **Nothing above this line has been tested.** The movements are a proposal with a spine.
+- **One defect was found and recorded while planning, and it is in the bible, not in the prose.**
+  `bible/power-system.md`'s band table puts rank seven at 55,000 grains a week and the plate in this book
+  prints **8,138 and band five**. **The table is illustrative and the page governs. No Volume 7 batch may
+  derive a threshold from it; a threshold comes from a card printed in the chapter that uses it, or the
+  chapter does not use one.**
+- **The volume is planned to leave a man who CAN be requisitioned and HAS NOT BEEN.** The requisition is
+  tabled and refused at Chapter 346. That is the ceiling of the volume and it may not be crossed.
+- **The mechanism beat — that a movement of unrecorded merit requires a Seal, and his brother's is the one
+  that matches — is Volume 7's and lands in Batch 0003 (321–330).** It is not Batch 0001's to give away.
+
 # VOLUME 6, BATCH 0005 — HEAD RECORD. CHAPTERS 291–300. THE SECOND OF SEPTEMBER TO THE FIRST OF OCTOBER.
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
