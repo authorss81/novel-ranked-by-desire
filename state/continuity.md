@@ -1,5 +1,144 @@
 # Continuity
 
+## Volume 5, Batch 0003 — CLOSED (Chapters 221–230). **THE NOTICE.** WREN KALLO IS ON THE PAGE AGAIN.
+
+**Ten chapters written against the batch prompt, entered at Chapter 221 on the eleventh of June and
+running to the twentieth, one chapter a day, no shared dates and no gaps. Full gate output, the Gate A
+interval trace with its six errors, the Gate B date subtraction and the canon proposals are in
+`state/open-threads.md` in this batch's close record, which is the only live gate block in that file;
+Batch 0002's and Batch 0001's and Volume 4's have been moved to
+`state/archive/open-threads-v1-v4-batch-gates.md`. This block supersedes every block below it on every
+point it touches.**
+
+### Calendar, as the page fixed it
+
+- **Batch 0003 is the 11th to the 20th of M+6, one chapter a day.** 221 the 11th · 222 the 12th · 223 the
+  13th · 224 the 14th · 225 the 15th · 226 the 16th · 227 the 17th · 228 the 18th, **Wren Kallo's scene,
+  immovable** · 229 the 19th · 230 the 20th.
+- **EXACTLY ONE THURSDAY IN THIS BATCH AND IT IS THE FIFTEENTH, AND IT REPAINTS: Ch 225.** June's
+  Thursdays are the 1st, 8th, 15th, 22nd and 29th, inherited unchanged out of Batch 0001 and Batch 0002.
+  **The word Thursday appears six times in the batch and every one of them is the Thursday pass, the
+  calendar, or a date a character names. No chapter names any other weekday.**
+- **THE CERTIFICATE IS DATED THE TWENTY-SEVENTH OF JUNE AND CANNOT ARRIVE IN THIS BATCH.** Sixteen days
+  out at Chapter 221 and seven at Chapter 230. **The schedule does not go up on the twenty-sixth either.**
+  **Both belong to Batch 0004, which runs the twenty-first to the thirtieth.**
+- **THE OFFICE DOES NOT SIT ON THE TWENTY-SEVENTH OF A MONTH AND THIS BATCH NEVER SAYS SO.** Stated once
+  in Batch 0002 at Ch 215 and not restated, and not restated as a weekday.
+- **THE COUNTDOWN IS ONE ARITHMETIC AND IT RUNS UNBROKEN OUT OF BATCH 0002.** Days elapsed from the return
+  of the twenty-seventh of April, sixty less that. Batch 0002 closed at 43/17 on the tenth. **Batch 0003:
+  44/16 · 45/15 (222) · 46/14 · 47/13 · 48/12 (225) · 49/11 · 50/10 · 51/9 · 52/8 · 53/7 (230).** Printed at
+  222, 225 and 230; the other seven print none, which is a choice.
+- **THE TWENTY-FIRST TO THE THIRTIETH OF JUNE IS BATCH 0004'S AND IS NOT FIXED HERE.**
+
+### Mechanics now on the page — CANNOT CONTRADICT
+
+- **A CORRECTION TO AN INDEXED SCHEDULE (Ch 222, 223).** Raised by the audit division against its own
+  arithmetic, with no requisition and no author, countersigned by counter-forensics before it goes out.
+  **The only thing on it with a person in it is the countersignature.**
+- **AN AUDIT INDEX IS CONSTITUTED FROM RETURNED LINES, NOT FROM TOTALS (Ch 222).** A total is an
+  officer's arithmetic. A returned line is evidence, **and an empty returned line cannot be struck out of
+  an index by anybody who has not got a name to strike it out with.** **A district officer's refusal to
+  write something down is read, four divisions away, as a person.** The seventh line of the premises return
+  of the third of June is the cause of this entire batch.
+- **THE FOURTH PAGE AND THE FIFTH PAGE (Ch 222, 224).** The fourth asks a head to reconcile a figure in his
+  own name, answerable against his standing. The fifth asks him to explain a discrepancy. **A return may
+  have a line struck through, and striking a line out is the only question this city asks for free.** There
+  is no provision anywhere for a person to enter her own name on a premises return.
+- **A LODGED STANDING IS A WEIGHT (Ch 221).** It went into the Ferrier line at about twenty to four on the
+  seventh of June and it has not got lighter. It sits at the top of Ferrier Street. **About forty signal
+  operators can find it.** Not a gift, not a cost, not in any ledger.
+- **A DOCKET IS ANSWERED AT THE FOOT BY THE MARK OF THE HOLDER, IN INK, IN THE HOLDER'S OWN HAND (Ch
+  227).** An unmarked docket is not produced. **An account not produced at a valuation goes on the dead
+  list on the fourth of that month and every security standing against it comes off on the day it goes on.**
+  The twelfth docket is dated the first of July, has no mark, and will therefore put the plate back the way
+  it was on the fourth of July.
+- **THE TWELFTH DOCKET WAS ISSUED OUT OF THE JUNE RUN AND DATED FORWARD INTO JULY (Ch 227).** Numbered in
+  afterwards in a smaller hand above a ruled line. **The run is one a month for eleven years with no gaps.**
+- **THE GUILD'S SECURITY CAN BE VALUED BEFORE ITS VALUATION, AND ONLY BY DESCRIBING WHAT IT SECURES (Ch
+  229).** An unpriced security cannot be carried a year running. **The description of a security on a
+  household is six names in the broker's own hand.**
+- **COUNTER-FORENSICS READ THE HISTORY OF A RECORD (Ch 228).** Four edits in his file, every one a
+  removal, no addition in five years. **A record like that is a record somebody has had access to, and it
+  is not his.**
+- **THE READING SQUARE'S RANKS WALL IS LIT UNTIL ELEVEN AND THEN IT GOES OUT (Ch 228).** The square empties
+  at about ten.
+
+### Figures, fixed on the page
+
+- **Plate 8,138, floor 8,141, tolerance three, 11,862 under band six.** Not one grain has moved in five
+  years and nothing in this batch could move it. **What moved was a weight, a figure and a name.**
+- **Ledger 118 lines, nine turned, the ninth still himself.** Nothing spent on anybody in ten chapters.
+  **Zero system panels in ten chapters and no count turns.**
+- **File 4,112, one folio open, no second.** No classification, no rank earned, no rank lost, no grain
+  scored. **A counter-forensics division is going to be told on the twenty-third that his record has only
+  ever been edited downward.**
+- **34-6-118 is on a public board and has been since the first of June.** **It will be repainted on the
+  first of next month, not in this batch.**
+- **1,963 of the sixty days have run.** 53 elapsed, 7 to a certificate dated the twenty-seventh of June, 6
+  to the schedule, 11 to the first of July, and 3 after that to a date in a coat pocket.
+
+### The household as it now stands, and which list is meant — SAY IT EVERY TIME
+
+- **Seven women on the roll**: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato,
+  Marguerite Vale, Sun Meiling. **Six keep the notebook** (all but Sun Meiling). **Sun Meiling keeps
+  nothing and was in pencil on the seventh row and is now a piece of pencil in her own coat pocket.**
+- **Petra Ilyin is in the house and is on no roll of any kind** and has been since the fourth of June. She
+  carried the fourth page to Cobb Street on the seventeenth.
+- **Wren Kallo is the eighth partner, is on no roll at any time, and is on the page for the first time
+  since Volume 4.** She is a Bureau counter-forensics officer and she is the one person in this city who
+  can see the shape of an edit in a record. **Her scene is Chapter 228 and it is the first scene in this
+  book staged outdoors, at night, in public.**
+- **Agnete Lindqvist sleeps in the building and is on no list of any kind, and the door at the back stays
+  open.** **A district officer left a line blank for her on the third of June and an audit division has
+  now counted that blank as a person.** She asked, on the page, for one impossible thing — that if a name
+  is ever written on that line it is not written by the Office or by any of the women in the kitchen — and
+  she was told there is no provision for it.
+- **Six women keep an address at Ferrier Street and the answer has been six since the twenty-second of
+  March and has never once been wrong.**
+- **THE ROLL AT FERRIER STREET IS CUT UP (Ch 229).** Seven pieces, one name each, the head line with the
+  premises and the number handed to him, and the seventh row in Sun Meiling's own pocket. **There is a
+  bare nail with a paler rectangle of unfaded paint nine inches by fourteen behind it.**
+
+### What this batch did NOT open
+
+Second folio · **Ines's review, resolved, discussed or nearly said** · **Ines removed from the schedule**
+· B103 in any form · the instrument's live-column rule · **the certificate, which cannot arrive inside this
+batch** · **Marguerite's terms of the fourteenth of March** · Bernt · Rhee · Saskia Verhoeven · Alma Quayle ·
+Anouk Ferreira · the Concil of the Nine by name · Isolde Marchetti · Dagmar Oyelowo · anything after
+Volume 8 · **a rank, a grain, a folio, a classification** · **the audit division's four words resolved**
+· **who at the Vant entered the twelfth docket early** · **what the thirty-year account is for, which Petra
+Ilyin has again said on the page that she has not asked about** · **Wren Kallo's held name** · **who Wren
+Kallo has told since the eighth of June** · **the hole at the low end of the Reading board and the household
+that left it**.
+
+### What this batch did NOT close
+
+The two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name in the record · the desk's
+four-line note · the classification paper dated the nineteenth · the ninth of September · the broken price ·
+Sun Meiling's February · the leak · **Agnete Lindqvist's eleven years indoors** · **Ines Duarte's review**
+· Runa Sato's hearing, which is on the first of July · **Wren Kallo's held name** · Beatrix Halm's eleven
+burned months · **the bare slot on the Reading wall and the name that is going into it** · **Solveig Rask
+and the annual sitting** · **the certificate and the schedule** · **the first of July** · **the fourth of
+July**.
+
+### Endings and temperature
+
+221 a notebook with one line in it and a weight at the top of a street · 222 a correction with a form
+number on it and one word said in a kitchen · 223 a blank line, a counter-signature, and a woman in a
+doorway asking for something impossible · 224 **six, in his own handwriting, and the batch's irreversible
+decision** · 225 a bench under a wall, a hole at the low end of the board, and a name typed small · 226
+**the quiet one, and nothing moved in it** · 227 a rule book on a shelf and a corridor and four things said
+at the bottom of sixty-one steps · 228 **THE SCENE** · 229 **the angry chapter, and she is right, and the
+roll comes down** · 230 a bare nail, nine sentences, and a list.
+
+**Scenes: 205 and 214 in Volume 5, both written; 228 is Wren Kallo's, written at 2,925 words and inside
+the 2,600–3,900 band, staged outdoors at night at the foot of the ranks wall with no previous scene's
+ground, hand, name-exchange or aftermath, and the 12-gram scan of it against all twenty-three earlier scene
+chapters returns zero.** Gaps 205 → 214 = 9, **214 → 228 = 14, the ceiling, and 228 → 241 = 13.** Volume 5
+owns 241 and 249 and may move each one chapter only.
+
+---
+
 ## Volume 5, Batch 0002 — CLOSED (Chapters 211–220). **THE ENFORCER.** PETRA ILYIN HAS ENTERED.
 
 **Ten chapters written against the batch prompt, entered at Chapter 211 on the first of June and running

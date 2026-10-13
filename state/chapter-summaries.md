@@ -1109,3 +1109,167 @@ going to happen on the first of July, has written it out, and has put it in a co
 Ferrier Street, for a household of six with a head whose standing is lodged and answerable. **Seventeen
 days to a certificate. Three weeks and three days is what his plate bought on the seventh, that window runs to the
 first of July, and somebody inside that building has already written the paper for the day it runs out.**
+
+---
+
+## Volume 5, Batch 0003 — Chapters 221–230. THE NOTICE.
+
+**221 The Weight At The Top.** Beatrix Halm has been aimed since the seventh and the notebook has five
+mornings in it: **one line on the seventh at 07:58, off the north line, satchel, slow — and four mornings
+of nothing.** Nine a day from the first to the sixth, one on the seventh, then the street went quiet, and
+she has been not telling the household for four days. At half past eight at night she takes him to the
+corner where the Ferrier line comes round from the north and tells him the thing she has not written down:
+**at about twenty to four on the seventh something went into the top of Ferrier Street and it has not come
+out, and it is not louder, it is heavier.** He has felt it too — on the Exchange rail at twenty to four,
+and on a stair rail at the Fourth Branch on the eighth at about ten past seven with a mop in his hand, and
+he told nobody and went back to the sinks. She can find it with a hand on the wall. **There are about forty
+signal operators on that line and none of them is her.** What she wants is to be the only one who can find
+it, and she has twenty days before the panel asks her what a signal operator who cannot hear in one ear is
+doing in a cab.
+
+**222 Seven Where It Says Six.** A sheet with a form number on it comes up the sixty-one steps at about ten
+on the twelfth. **Nadia Ferrous opens it, reads the first line, and does not read the second; she goes down
+sixty-one steps at a run, catches the tram to Lantern Row, and comes back at half past two — four hours,
+because Ines Duarte's standing instruction of the ninth is that whoever opens it tells her first, and the
+price of the instruction is that nothing in that kitchen moves until she does.** Ines arrives at twenty past
+five, stands up, reads it twice, and says one word: **seven.** The index is constituted from the returned
+lines of the district premises returns and not from the totals, and a returned line that is empty cannot be
+struck out by anybody who has not got a name to strike it out with. **The seventh line was left blank by a
+district officer on the third of June at ten past seven in the evening, the officer wrote six in the foot
+of the column, and the office counted seven, because the office is not unkind. The office is exact.** Three
+days and about twenty hours of it. The certificate is in fifteen days and forty-five of the sixty are gone.
+Ines asks the room one question — is there a seventh person keeping an address at those premises — and he
+says yes, and Sun Meiling says *say the name*, and he says it. **Nadia writes the word six in her
+notebook and does not put the name next to it.**
+
+**223 What The Division Did Not Tell.** Sun Meiling reads the foot of the correction at eight in the morning
+on the thirteenth, and **every alteration of an indexed schedule is countersigned before it goes out** —
+which nobody read on the twelfth. The counter-signature is **Wren Kallo**, counter-forensics, the
+thirteenth, with no requisition number anywhere, because a correction raised by an office against its own
+arithmetic has no author. Ines reads the position aloud: two instruments four days apart, one about the
+schedule and one about the premises, **and the second one is about a district officer who left a line blank
+and not about a man who wanted something.** Agnete Lindqvist stands in the open doorway and asks for the
+one thing nobody can give — **if a name is ever written on that line, let it not be written by the Office
+and not by any of you** — and is told, on the page, that a premises return is the officer's and that she
+has been checking once a month since May whether there is a provision for a woman to write her own line on
+one. The door stays open. What the lead wants is to know what Wren Kallo saw before she decides what to do
+about it, and there is no address to write to and no list she is on.
+
+**224 Six Persons Of Reading Age.** He writes six on the fourth page at about nine at night on the
+fourteenth with the whole house in the room, because he said on the twelfth that he would do that and there
+is no instrument in this city that lets a man go back on a thing he said in front of a room. The page
+takes a figure and nothing else. **It is answered in the head's own name and is answerable against his
+standing, four times in nine lines**, which means the lie goes to Cobb Street *and* to the chained book
+that holds his plate until the first of July, and in about four years it belongs to a woman called Rask.
+**Forty-seven of the sixty are gone and thirteen to a certificate.** Ines Duarte comes round the table,
+reads it in about four seconds, and asks him one question — *is it six* — and he says *it is what I am
+writing*, and she says *then it is six*, and goes up the stairs and says nothing else all night. Sun
+Meiling says she did not have a vote and would have voted against it. Petra Ilyin says the price of this
+page is that the head has made himself the only possible criminal in a document about this household, and
+that on the first of July there is a valuation and a docket with an empty space at the foot of it and a
+plate in a chained book, and any one of those is ordinary and all three on the same morning is a paper
+somebody wrote out and put in a coat pocket three weeks early. **She carries the page to Cobb Street on
+the sixteenth because she is on no roll of any kind.**
+
+**225 A Bench Under The Wall.** The fifteenth is a Thursday and the crew is working the tile around the
+mounted standing-household board, and a man on the ground keeps saying four words at a ladder. **Wren Kallo
+is on a bench under the wall with a folder.** She countersigned the correction because that is the standing
+order and a countersignature is a check and not a signature, and she read the history of his file afterwards
+on her own time. **A correction raised by an office carries no requisition, no author, a finding, a figure
+and a stamp, and the only thing on it with a person in it is her name. She cannot unsign it and she cannot
+hold it, and those are two separate problems and she has solved neither in four years.** One person knows,
+since the eighth, and she will not say who. She counts the household's lists out loud and gets five of the
+eight out of a file. She asks to come back on the **eighteenth**, at night, with the folder, and not to the
+house, because she is going to say things about people who will not be in the room. Then the man at the
+foot of the ladder tells him that **a name cannot come off that board with paint, that it takes a
+correction, and that a correction on that board leaves a hole about a yard long at the low end**, and that
+the men who were on the crew when it happened still talk about it in the tea hut and not to them.
+**Forty-eight of the sixty gone, twelve to the certificate, sixteen to the valuation.**
+
+**226 Nothing Moved In It.** Tessa Okonkwo's quiet chapter. He comes to the Vestry trade door at ten past
+one on the sixteenth and she puts him on the chest and counts four ribs along from the angle with her own
+fingers, out loud, because a clinician reads out loud — and then she does the thing she set aside on the
+fourteenth of May and examines **her own** fourth rib for eleven minutes with both hands and finds nothing,
+and writes it in the day book with her name and the time on it. **She is frightened: a clinician who
+cannot find the thing is a clinician who has been treating a symptom, and a symptom is something you can
+keep giving away.** Then the certificate question, four minutes, answered: **the correction is an index
+made out of returned lines, and this clinic has never once been entered in anything, so it is safe the way
+a hole in a wall is safe.** She has a card, on the back page of which she entered nine years of attendance
+on the thirteenth of last month, and a card is not an instrument. **She has decided to enter the building
+properly**, and to tell him in a room and not in his kitchen, and to put a clinic on the same page as his
+answer of six in the same office under the same address — and to carry a crate with him on the eighteenth.
+
+**227 The Space At The Foot.** Petra Ilyin takes the fourth page to Cobb Street at twenty past one on the
+seventeenth, where a clerk enters the figure, initials it, and says nothing, and there is no copy. Then she
+goes up sixty-one steps of the Vant with the bundle and reads the ninth page of the rule book for forty
+minutes. **A docket is answered at the foot by the mark of the holder, in ink, in the holder's own hand; a
+docket that reaches its date unmarked is not produced; an account not produced at a valuation goes on the
+dead list on the fourth of that month and every security standing against it comes off on the day it goes
+on.** And the thirteenth docket **was issued out of the June run and dated forward into July, with its
+number entered afterwards in a smaller hand above a ruled line**, out of a run that is one a month for
+eleven years with no gaps. Ortwin Halb meets her on the second landing, tells her the one thing she is
+allowed to tell a person who is not an officer — **that on the ninth an office that is not this guild
+asked this guild for the production file of that account, and it was refused in four minutes by a woman at
+a counter who had never heard of it** — and sends her home. He has been standing at the bottom of the
+steps for twenty minutes. **Four things, said from the fourth step down, and she will not say who wrote
+the paper. Fourteen days to the first, and three after that.**
+
+**228 The Shape Of An Edit.** **THE SCENE.** Wren Kallo, the eighteenth of June, the Reading Square after
+ten at night, at the foot of the ranks wall under two lamps that go off on a clock at eleven. She has been
+there since a quarter past nine. **She countersigned the correction, and she read the history of his file
+at a quarter past eight in the morning on her own time, and she has written up what she found, and it goes
+to the head of her division on the twenty-third and there is no version of her job in which it does not.**
+The finding: **four edits, and every one of them a removal** — a figure off a band in March, a line out of
+an instrument column and a half form in its place on the seventh of April, a quantity detached from an
+account on the twenty-seventh, six lines onto a declaration on the nineteenth of May — **and not one
+addition in five years, and a record like that is a record somebody has had access to, and it is not his.**
+She asks for four hours and a half with nothing in it, which is the only thing she has ever wanted off
+another person, and she explains why in her own instrument: she cannot keep a thing, it is structural, she
+has carried his edit round like a stone in a shoe for four years, and she is so tired of reading the shape
+of a subtraction in every person she touches that she has come out at a quarter past nine to sit on a wall
+before he got there. **The scene happens on the kerb in coats and then not in coats, with two hundred yards
+of empty square between them and the Reading doorway, and it is explicit and unhurried after the first
+hour and a half in which neither of them says anything, and nothing in it turns on an impaired state.**
+She reads him with her hands for an hour and finds nothing over and over. Afterwards, on her back on the
+kerb under four feet of dark tile, she tells him the thing he does not want to hear: **on the twenty-sixth
+the schedule does not go up and on the twenty-seventh there is no certificate, and he is going to have to
+lose somebody in the next nine days.** Then she stands up, finds his name in the dark wall with her hand in
+about two seconds, and gives him the reason: **there is no light on that wall after eleven o'clock and there
+has not been for twenty years, and darkness is a thing a city switches off at eleven, and it switched it
+off on him for the last four hours while she was standing there.** She will not say who she has told since
+the eighth. She says his name once, at the end, as a clerk reads a line out of an index.
+
+**229 The Roll Comes Down.** A guild's envelope sits under a salt dish from eleven until twenty past two on
+the nineteenth because everybody in the house walks past it. **Hanne Voog of the assessment side has valued
+the security early, because an unpriced security cannot be carried a year running, and a security cannot be
+valued without a description of what it secures.** Marguerite Vale signs it in ninety seconds in the
+kitchen and reads six names out loud in order and the last one is her own. Sun Meiling says *two* — two
+documents in eight days, both naming the women on that floor, both made by institutions, neither asked for
+— and then says the part that is hers: **on the seventh she got a chair and made a wall and a file agree
+with each other so that neither of them was a lie, and that is what let them do it.** She goes up and comes
+back with the roll and cuts it at the ruled lines in about eleven seconds, gives him the head line, keeps
+the seventh row in her own pocket, and puts one piece of paper in front of each of them. **A roll kept at
+premises has no force, and three copies that agree with each other are one document in three places, and
+after this afternoon there is not one copy of this household in this city that anybody in this house
+controls.** Nadia Ferrous, who has kept six notebooks for four years and has said *which list are you on*
+about twice a month for a month, writes in hers: **the lists were never the problem. The lists were the only
+thing in this city that belonged to us.**
+
+**230 The Twenty-Sixth.** A bare nail and a rectangle nine inches by fourteen of paint that has not been
+repainted since the twenty-ninth of last month. Ines Duarte comes in at half past seven and reads the
+position out loud without being asked anything: **three copies of the record exist and the household now
+holds none, which means a head who answers for six with a roll in the room has made a false statement with
+the roll as the proof, and a head who answers for six with no roll in the room has made a statement that
+cannot be checked, and in this city those are the same piece of paper.** Nine sentences, all about numbers,
+none about herself. Sun Meiling works out what Wren Kallo's finding actually indicts, and the answer is
+this floor. Petra Ilyin puts the thirteenth docket on the table and refuses to argue about the date — **the
+mark goes in on the first of July, in the real book, in ink, in the broker's own hand, at nine in the
+morning because she has never once in thirty years done anything to a real book before the building was
+full** — and Marguerite Vale tells her to come down the sixty-one steps with her and **stand at the bottom
+of them at ten to nine with a bundle under her arm, because she is the only person in this city who is on
+no roll of any kind and has a reason to be standing on a pavement at eight in the morning.** Runa Sato does
+the count one last time and gets it right without stopping. Nadia Ferrous asks the list question and gives a
+full answer for the first time — seven on the roll, six with an address, six with a notebook, one in pencil
+in a coat pocket, one in the house on no roll, the eighth on nothing at any time, one asleep behind a door
+in a building she has not left in eleven years, and the blank line a district officer left on the third of
+this month, which is the reason the whole month is happening.

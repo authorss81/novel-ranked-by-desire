@@ -1761,3 +1761,29 @@ forward to a later date without being re-derived.** Re-derive every figure at th
 A count is not a reading.
 
 ---
+
+## Volume 5, Batch 0002 — CLOSE RECORD (Chapters 211–220). THE ENFORCER. ARCHIVED 2026-10-13 by Batch 0003
+
+**This block was the live gate block for Volume 5 Batch 0002 and was moved here by Volume 5 Batch 0003 so
+that `state/open-threads.md` carries exactly one gate block and it is Batch 0003's. Nothing was deleted.
+Batch 0003 supersedes it on every point it touches.**
+
+**Ten chapters, one a day from the first to the tenth of June, over a certificate dated the twenty-seventh
+of June that could not arrive in them. The batch's irreversible decision is Ch 217: the lead lodges the
+plate at 8,138 in a chained real book at twenty to four on the seventh, with no right of withdrawal
+before the first of July, which buys three weeks and three days and closes the option of being the person
+in the room who is standing on nothing. It costs Beatrix Halm a rating hearing adjourned to the first of
+July and Lode, a cleaner, his whole morning on the landing.**
+
+**THE TWELVE CALENDAR ERRORS FOUND BY HAND AND FIXED ARE IN THE GATE A TABLE BELOW AND ARE NOT REPEATED
+HERE. The reviewer who did not write the pages found four more, all of them durations at Ch 220, and
+those are fixed at source. The lesson this batch hands the next one is the rule adopted at the end of it:
+a figure gets a row if it is printed on the page, not only if it has an anchor event, and the row must be
+grep-verifiable against the committed chapter before the record is committed.**
+
+**The full Batch 0002 close record — the June derivation, the day map, the Gate A interval trace with
+its twelve errors, the Gate B date screen, the gate output and the canon proposals in and out — is in the
+commit that closed Batch 0002 and is superseded for all live purposes by the Batch 0003 block at the head
+of `state/open-threads.md`.**
+
+---
