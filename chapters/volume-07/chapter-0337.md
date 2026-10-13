@@ -44,7 +44,7 @@ She read all eight out loud, with the rooms against them, in the order a stairca
 
 Sun Meiling, top floor, kitchen. Runa Sato, top floor, rear. Petra Ilyin, first floor, front. Wren Kallo, second floor, fourth door, counter-forensics, Bureau of Merit. Beatrix Halm, second floor, second door. Nadia Ferrous, third floor, first door. Isolde Marchetti, third floor, last door. Agnete Lindqvist, ground floor, by the street door.
 
-It took about ninety seconds and nobody in either room breathed.
+It took about ninety seconds and neither room made a sound.
 
 "That is not a list of anybody," said Ines Duarte. "That is a list of eight women in stair order, and it is cheaper than a judgement and it says nothing whatever about what any of them is, and it went out on the ordinary stream at four in the afternoon on the thirtieth of October and it has been in eleven divisions ever since and fourteen by December. I could not tell you one thing about any of those eight that is not printed on that sheet."
 
@@ -98,7 +98,7 @@ He did not say anything, because there was nothing.
 
 He looked at the four sheets and did not ask which one. Asking would have cost her another page.
 
-## What She Put Back And What She Kept
+## The Note In Her Own Hand
 
 "The term is finished," he said.
 
@@ -122,7 +122,7 @@ She put the four sheets into a drawer under the table and shut it, and put the n
 
 "That is what the ninth of July cost," she said. "Not a woman who could not be written down. A woman with a drawer."
 
-Eleven days counted from the nineteenth of November, and the eleventh of them ending at midnight tonight.
+Eleven days counted from the nineteenth of November, and the eleventh of them ending at midnight at the end of tomorrow.
 
 He stood up to go, and stopped, and said the only thing he had come to say and had been putting off since the landing.
 

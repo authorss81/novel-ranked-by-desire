@@ -30,7 +30,7 @@ Not one of them was recent.
 
 The oldest was the eleventh of March. The second was the second of July. The third was in August with a day that had been rubbed out and written again. The fourth was the fourteenth of October at ten past two in the morning, and it was the only one still black.
 
-She had kept the count on the back of her own hand, because she could not keep a book, and she had carried it down four flights a night for nine months and she had told nobody.
+She had kept the count on the back of her own hand, because she could not keep a book, and she had carried it down four flights a night for nine months without telling one person in this city.
 
 He put his own hands behind his back and made them stay there.
 

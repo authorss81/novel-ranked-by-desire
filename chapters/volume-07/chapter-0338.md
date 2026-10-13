@@ -10,7 +10,7 @@ He said it in the plainest words he had. That there was a sheet. That it had a d
 
 Not one of them spoke for about nine seconds, which in that kitchen was a long time.
 
-## What Each Of Them Did With It
+## Eight Women And A Sheet
 
 Sun Meiling took her glasses off.
 
@@ -62,13 +62,13 @@ Petra Ilyin looked at him for a while, and then she pushed the three sheets of p
 
 "Those are not signed," she said. "I wrote them before breakfast and I have not shown them to anybody. Do what you want with them."
 
-## What Sun Meiling Did With Them
+## The Fire On The Dresser
 
 Sun Meiling took them off the table, read all three the way she reads everything, folded them once, and put them into the fire on the dresser.
 
 "That is a document being destroyed in a room with eight witnesses," said Wren Kallo, from the second floor side of the table, without looking up, "and I am a Bureau officer, and I have not said one word about it, and if any of you imagine that was a thought in my head, then I have been in this building for three years and you have not been listening."
 
-"Nobody is listening, Wren," said Sun Meiling. He said it on purpose, which is what she meant.
+"We are not listening, Wren," said Sun Meiling. She said it on purpose, which is what she meant.
 
 "I am listening to the fire," said Wren Kallo.
 
@@ -76,7 +76,7 @@ Agnete Lindqvist pushed her chair back from the table for the first time in an h
 
 "There is a room in this city where nobody can be compelled to testify," she said. "It has been true for eleven years and I have not been out of it."
 
-"He has never asked me for it. I have offered him the use of a room in which any officer of any division could stand in the doorway and be answered by nobody at all, and he has never once asked, because he does not believe a thing he cannot pay for, and he is the only man I have met in eleven years who has had a free thing put in front of him and refused it on principle."
+"He has never asked me for it. I have offered him the use of a room in which any officer of any division could stand in the doorway and get nothing out of anybody inside at all, and he has never once asked, because he does not believe a thing he cannot pay for, and he is the only man I have met in eleven years who has had a free thing put in front of him and refused it on principle."
 
 She turned to him.
 
@@ -104,7 +104,7 @@ The table did not move.
 
 "I did it at about seven in the morning in the office, in my own hand, on my own time, and I filed it in the ordinary way, and there is no falsification of any column because every column in it is accurate," said Wren Kallo.
 
-"The date is accurate. The premises are accurate. The deed is accurate. It is simply not a deed." She squared the sheet. "And nobody has to do a single thing with it. It can sit in a file for four years and nobody need ever look at it, and if nobody ever looks at it then it is a sheet of paper. If anybody ever looks at it, then it is a false attestation in the hand of a counter-forensics officer who sleeps at the address she certified."
+"The date is accurate. The premises are accurate. The deed is accurate. It is simply not a deed." She squared the sheet. "And nothing has to be done with it. It can sit in a file for four years and never once be looked at, and a paper nobody ever looks at is only a sheet of paper. If anybody ever looks at it, then it is a false attestation in the hand of a counter-forensics officer who sleeps at the address she certified."
 
 "You said you would not ask me for a thing," said Agnete Lindqvist. "That is a lie of about nine seconds old."
 

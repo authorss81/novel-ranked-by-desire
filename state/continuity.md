@@ -4,7 +4,7 @@
 
 > **READ THIS BEFORE WRITING 341. THE PLATE HAS FALLEN, THE ELEVEN DAYS ARE OVER, THE TERM OF THE NINTH OF JULY IS SPENT, AND A DOCUMENT IS IN A DRAWER ON LANTERN ROW.**
 >
-> **1. PLATE 8,131. FLOOR 8,144. EIGHT UNDER. HE IS NOT AT SEVEN AND HAS NOT BEEN SINCE THE PLATE OF THE TWENTY-SECOND.** The two words from the thirtieth of July are on the ranks wall again and are not news any more. Next floor 8,145 on the thirtieth of December.
+> **1. PLATE 8,131. FLOOR 8,144. THIRTEEN UNDER. HE IS NOT AT SEVEN AND HAS NOT BEEN SINCE THE PLATE OF THE TWENTY-SECOND.** The two words from the thirtieth of July are on the ranks wall again and are not news any more. Next floor 8,145 on the thirtieth of December.
 > **2. LEDGER 121 LINES, NINE TURNED, THE NINTH STILL HIMSELF. NOTHING SPENT.** *The total rose from 118 because he kept his round at the Fourth Branch and kept earning; the turned count did not move in ten chapters, which is the entire point of the ten chapters. Do not confuse the two figures.*
 > **3. NOTHING SPENT, NOTHING DRAWN, NOTHING ROUTED, NO REQUISITION TABLED, NO FOLIO OPENED, LIN WEI'S FILE SHUT UNTIL 372.** The only grain that moved anywhere in this batch is one a woman refused on the floor of her own building.
 > **4. THE MECHANISM IS CANON AND IS REFERRED TO, NEVER RE-EXPLAINED:** movement needs a seal; nine seals; a year a use; no standing no seal; handed account; the brother's seal matches the account and not the man.
@@ -18,20 +18,24 @@
 
 **A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and the last working day of a quarter's last month. THE NEXT VALUATION IS THE FIRST OF DECEMBER AT TEN TO NINE, and that is Batch 0005's first morning.**
 
+> **EVERY INTERVAL BELOW IS DERIVED BY SUBTRACTING DAY NUMBERS IN THE WORLD'S OWN THIRTY-DAY MONTHS AND NOT BY COUNTING A REAL CALENDAR. THE FIRST REPAIR PASS ON THIS BATCH GOT SIX OF THEM WRONG BY USING GREGORIAN MONTH LENGTHS — see `reviews/volume-07/batch-0004.md` §3.8 and §8. A month that ends on the thirtieth makes the thirtieth of October to the nineteenth of November nineteen days, not twenty, and the ninth of July to the twenty-seventh of November one hundred and thirty-eight days, not one hundred and forty-one. NO INTERVAL IN THIS VOLUME MAY BE DERIVED AGAINST A REAL CALENDAR.**
+
+**THE WEEKLY PLATE GOES UP AT HALF PAST FOUR, SO NOVEMBER'S RUN IS THE 1st, THE 8th, THE 15th, THE 22nd AND THE 29th.** 8,138 stood until the fifteenth; 8,184 on the fifteenth; 8,139 on the twenty-second, read on the twenty-third; 8,131 on the twenty-ninth, read at a quarter to six on the thirtieth.
+
 **VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL.** Batch 0004 wrote nine weekdays in its drafts and cut every one, replacing them with printed dates or with "the end of the week". Zero for all seven weekdays, whole-word and substring.
 
 | Ch | Day | To the 30th | Days since the anchor | What it is |
 | --- | --- | --- | --- | --- |
-| **331** | **19 Nov** | **11** | **3** since the books went to the guild table; **20** since the list; **23** since the description; **64** since the priced line; **133** since the term | **THE DECISION.** Eleven dates on a slip, counted out loud. Day one |
-| 332 | 20 Nov | 10 | **1** since the nineteenth; 2 since the books went out | the bin floor at two in the morning; four marks in carpenter's pencil |
-| 333 | 21 Nov | 9 | **2** since the nineteenth; 3 since the sixteenth | a source of the size of a tram load goes out of the current |
-| 334 | 23 Nov | 7 | **4** since the nineteenth; **24** since the list; **52** since the leaf took eight; **27** since the description | **the plate at 8,139 and the two words back** |
-| **335** | **25 Nov** | **5** | **6** since the nineteenth; **9** since the books went out; under the floor **3** days | **A FIGURE UNDER A FLOOR.** Callable. The fall at two in the morning of the twenty-sixth |
-| 336 | 27 Nov | 3 | **8** since the nineteenth; **31** since the description; **28** since the list; **11** since the books went out; **141** since the term | Lantern Row; the ask; three terms |
-| **337** | **28 Nov** | **2** | **9** since the nineteenth; **32** since the description | **SHE READS IT.** A day lost and a drawer |
-| 338 | 29 Nov | 1 | **10** since the nineteenth; **13** since the books went out | the eleventh day running; three slips burned and one filed |
+| **331** | **19 Nov** | **11** | **3** since the books went to the guild table; **19** since the list; **22** since the description; **63** since the priced line; **130** since the term | **THE DECISION.** Eleven dates on a slip, counted out loud. Day one |
+| 332 | 20 Nov | 10 | **1** since the nineteenth; 4 since the books went out | the bin floor at two in the morning; four marks in carpenter's pencil |
+| 333 | 21 Nov | 9 | **2** since the nineteenth, 9 of the eleven still to come; 5 since the sixteenth | a source of the size of a tram load goes out of the current |
+| 334 | 23 Nov | 7 | **4** since the nineteenth, **7** of the eleven still to run; **23** since the list; **51** since the leaf took eight; **26** since the description | **the plate at 8,139 and the two words back** |
+| **335** | **25 Nov** | **5** | **6** since the nineteenth, **5** of the eleven left; **9** since the books went out; under the floor **3** days; **8** gone by two in the morning of the twenty-sixth | **A FIGURE UNDER A FLOOR.** Callable. The fall at two in the morning of the twenty-sixth |
+| 336 | 27 Nov | 3 | **8** since the nineteenth, **3** of the eleven left; **30** since the description; **27** since the list; **11** since the books went out; **138** since the term | Lantern Row; the ask; three terms |
+| **337** | **28 Nov** | **2** | **9** since the nineteenth, **3** of the eleven left; **31** since the description. **The eleventh ends at midnight at the end of the twenty-ninth, not that night** | **SHE READS IT.** A day lost and a drawer |
+| 338 | 29 Nov | 1 | **10** since the nineteenth; **13** since the books went out; the eleventh day running | the eleventh day running; three slips burned and one filed |
 | **339** | **30 Nov, morning** | **0** | **11** since the nineteenth | **the count again; 8,131; the certificate at nine** |
-| **340** | **30 Nov, at night** | **0** | 11 since the nineteenth | **THE SCENE. Ines Duarte's.** Body 1,450 words |
+| **340** | **30 Nov, at night** | **0** | 11 since the nineteenth; **138** days of the term kept before he broke it on the 27th, **141** to tonight | **THE SCENE. Ines Duarte's.** Body 1,444 words |
 
 Anchors, all printed elsewhere and none moved: the leaf of the second of October at about eleven · the priced line of the sixteenth of September · the keys changed on the seventeenth of September · the quarter-book closed and the floor set at 8,144 on the thirtieth of September · the production sworn at ten to nine on the first of October · the correction refused and the referral signed on the nineteenth · the song sung at about twenty past eleven on the fifteenth of October and the card pulled down at two that morning · eight hands in a kitchen on the twenty-fourth of October · the description made against the head at nine on the twenty-seventh · the fair copy on the twenty-eighth · the list out at four on the thirtieth · Runa Sato reads it at nine on the first of November · the plate up at half past four on the fifteenth of November, the twenty-second and the twenty-ninth · **the books to a guild table at seven on the morning of the sixteenth** · **the term sworn in the dark on the ninth of July.**
 

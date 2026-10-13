@@ -102,7 +102,7 @@ He said he did not know what song she meant.
 
 She looked at him the way people look at a man who is not being clever.
 
-"You'll know what song I mean," she said. "Everybody knows what song I mean. You've been under that plate for four months and nobody could say who you were and now you're a story with a number on it and that's how it goes, isn't it. The number goes down and people start asking."
+"You'll know what song I mean," she said. "Everybody knows what song I mean. You've been under that plate for four months and not one of them could say who you were and now you're a story with a number on it and that's how it goes, isn't it. The number goes down and people start asking."
 
 He wanted, concretely, to be a man that strangers could not ask. That was the whole of the sixth volume and the seventh one behind it, a man no division could read, and he had paid for it with three women and a green shade, and on the evening of the twenty-third of November he got his first question from a woman with a shopping bag.
 
@@ -112,7 +112,7 @@ There was a young man in a plain coat at the south end copying the plate into a 
 
 Beatrix watched him for a while and then came over.
 
-"He does that every week," she said. "November, the seventeenth, the tenth, the third, and every week back to March. He copies the plate and the day and the hour into a column and he does not write one word about what it means. In four months he has carried eighty-four figures down into the books of eleven divisions and eleven divisions have matched every one of them against something they hold."
+"He does that every week," she said. "November, the twenty-second, the fifteenth, the eighth, and every week back to March. He copies the plate and the day and the hour into a column and he does not write one word about what it means. In four months he has carried eighty-four figures down into the books of eleven divisions and eleven divisions have matched every one of them against something they hold."
 
 "He is the reason the green mattered."
 
@@ -122,12 +122,12 @@ Beatrix watched him for a while and then came over.
 
 She shut the notebook.
 
-"Twenty-four days since the thirtieth of October," she said. "Fifty-two since the second, when the leaf took eight. Twenty-seven since the twenty-seventh of October, when the description was made against your head with your own reason clause on it. I do all of them out loud now at the bottom of these stairs because you taught me to do it in a kitchen and because there is nothing else on a wall to count."
+"Twenty-three days since the thirtieth of October," she said. "Fifty-one since the second, when the leaf took eight. Twenty-six since the twenty-seventh of October, when the description was made against your head with your own reason clause on it. I do all of them out loud now at the bottom of these stairs because you taught me to do it in a kitchen and because there is nothing else on a wall to count."
 
 "You have been counting the wrong thing."
 
 "I have been counting the only thing that is mine," she said. "Ask me in December."
 
-Four days since the nineteenth. Six of the eleven still to run, and on the twenty-ninth they stop.
+Four days since the nineteenth. Seven of the eleven still to run, and on the twenty-ninth they stop.
 
 He looked at the plate one more time and walked to the bottom of the sixty-one, where Beatrix Halm was waiting with the notebook shut and the pencil in her hand and the two words on the wall behind him going blue in the dark.

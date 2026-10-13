@@ -4,7 +4,7 @@ Beatrix Halm read the plate at a quarter to six in the morning on the thirtieth 
 
 "Eight thousand one hundred and thirty-one."
 
-Eight under the floor of eight thousand one hundred and forty-four. The lowest figure that had ever been under his name on a wall in this city, and four below the month before, and forty-five below the green.
+Thirteen under the floor of eight thousand one hundred and forty-four. The lowest figure that had ever been under his name on a wall in this city, and seven below the number that had stood there all through October, and fifty-three below the green.
 
 She wrote the number with the time against it, and then the two words under it, and then she shut the notebook and stood with her hands round the pencil.
 
@@ -56,7 +56,7 @@ Sun Meiling set the cup down.
 
 "They were eleven days," he said. "They are counted and they are over and I did them. That is all any of this has ever been."
 
-## Where The File Is
+## A Drawer On Lantern Row
 
 The description of premises 34-6-118 was open in a drawer in two rooms on Lantern Row, under an auditor's note in a small level hand that said four sheets, read on the morning of the twenty-eighth at nine.
 
@@ -66,7 +66,7 @@ He was not at rank seven this morning and had not been for a week, and there was
 
 ## Nine O'Clock
 
-Wren Kallo came up the sixty-one at about twenty past nine with a leather folder under her arm and her hat in her hand, and the stair took her weight without a sound, as it always had.
+Wren Kallo came up the sixty-one at about twenty past nine with a leather folder under her arm and her hat in her hand, and not one of the steps made a sound under her, as never had.
 
 She put the folder on the table and opened it and took out a single sheet.
 

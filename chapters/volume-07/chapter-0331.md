@@ -4,7 +4,7 @@ The Vestry clinic kept a corridor outside the ward that nobody had cleaned since
 
 [Ledger. One hundred and eighteen lines. Nine turned. Nothing will be spent for eleven days.]
 
-Three days since the morning of the sixteenth, when a woman had cleared her own table and put her books on a guild table at seven. Twenty days since the thirtieth of October, when eight names went out on the ordinary stream in a leather tube. Twenty-three days since the twenty-seventh, when a description of premises was made at nine with his name at the head of it and a reason clause in four words about money.
+Three days since the morning of the sixteenth, when a woman had cleared her own table and put her books on a guild table at seven. Nineteen days since the thirtieth of October, when eight names went out on the ordinary stream in a leather tube. Twenty-two days since the twenty-seventh, when a description of premises was made at nine with his name at the head of it and a reason clause in four words about money.
 
 He had been doing that subtraction on platforms and in trams for three days and it kept arriving at the same figure: the man no division could read was now a figure on a wall, and a figure on a wall can be put back down.
 

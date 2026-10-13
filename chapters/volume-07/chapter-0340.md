@@ -70,7 +70,7 @@ She was thin and pale and small-breasted, with the shoulders of a woman who has 
 
 Her breasts sat high and close together and the nipples were the colour of the inside of her mouth and had been hard since he came into the room. Her thighs were strong under the softness and her belly was soft over the strength, and she had not once in nine years been a woman who hid any of it.
 
-"Take that off me," she said, "and then tell me what you have looked at, because I want to hear a man describe a body in words tonight. I have read four hundred bodies in four hundred documents and nobody has ever described one to me and I have wanted it for a decade."
+"Take that off me," she said, "and then tell me what you have looked at, because I want to hear a man describe a body in words tonight. I have read four hundred bodies in four hundred documents and not one man has ever described one to me and I have wanted it for a decade."
 
 He took the shift off her and put it over the chair with her collar, and told her — in the plain flat voice she had asked for, with his hands moving and his mouth open — what she looked like, from the grey at her temple to the arch of her foot, and he was slow and detailed and did not stop to be modest, naming every place as he touched it and making her lift a shoulder or turn a hip to get at the next one.
 
@@ -118,13 +118,13 @@ He sat down opposite her.
 
 She squared the first sheet.
 
-"On the ninth of July, in the dark, on a sill, you gave me a term. That was the ninth of July. And you kept it for one hundred and forty-one days, and in about four seconds on the afternoon of the twenty-seventh you came up a stair with a leather wallet under your coat and broke it."
+"On the ninth of July, in the dark, on a sill, you gave me a term. That was the ninth of July. And you kept it for one hundred and thirty-eight days, and in about four seconds on the afternoon of the twenty-seventh you came up a stair with a leather wallet under your coat and broke it."
 
 She put a finger on the sheet. "So there is now a document in this flat that no office in this city knows about, and there is a note under it in my own hand saying what it is and when I read it, and I have decided what happens next, and it is the only interesting thing I have decided all week."
 
 "You cannot read it to me."
 
-"I cannot read it to you," said Ines Duarte. "That is the ninth of July. The ninth of July was about what was done to me in a room. For one hundred and forty-one days that meant nobody put a paper in front of me in here and made me be a woman who had read one, and it did not mean one thing more than that. It never meant I could not read one back at you."
+"I cannot read it to you," said Ines Duarte. "That is the ninth of July. The ninth of July was about what was done to me in a room. For one hundred and forty-one days, up to tonight, that meant nobody put a paper in front of me in here and made me be a woman who had read one, and it did not mean one thing more than that. It never meant I could not read one back at you."
 
 She drew the first sheet towards her and began.
 
@@ -172,7 +172,7 @@ He looked at the sheet.
 
 "I lodged this at nine this morning, while you were standing under a plate with eight thousand one hundred and thirty-one on it, telling nine strangers what you are."
 
-She got up and came around the table and stood beside his chair and put one hand on his shoulder. "That is what I have decided you are, since the fifteenth of November. Not a man nobody can read. A man who reads his own figure out loud to nine people on the street because a woman with a notebook told him in the dark that a wall is read whole."
+She got up and came around the table and stood beside his chair and put one hand on his shoulder. "That is what I have decided you are, since the fifteenth of November. Not a man the city cannot read. A man who reads his own figure out loud to nine people on the street because a woman with a notebook told him in the dark that a wall is read whole."
 
 She bent and put her mouth against the side of his head.
 

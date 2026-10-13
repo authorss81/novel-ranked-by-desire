@@ -26,9 +26,9 @@ Six days since the nineteenth, and five of them left, and the last one ends at m
 
 The sentence that came after all of it was not about a figure.
 
-The instrument that could take his account off him on the first of December belonged to a woman he had put her own book on a guild table nine days earlier, on purpose, in front of nine people, so that a kitchen would know what exposure cost.
+The instrument that could take his account off him on the first of December belonged to a woman who had put her own book on a guild table nine days earlier, on purpose, in front of nine people, so that a kitchen would know what exposure cost.
 
-He had done that eleven days after she had asked him for the one thing she asked anybody for, which was a position that did not depend on the Vant, and he had said no, correctly, because he has no standing and no seal and cannot carry anybody.
+He had done that in about nine hours after she had asked him for the one thing she asked anybody for, which was a position that did not depend on the Vant, and he had said no, correctly, because he has no standing and no seal and cannot carry anybody.
 
 ## The Yard Behind The Vestry
 
@@ -36,11 +36,11 @@ He went down to the clinic at six on the afternoon of the twenty-fifth and stood
 
 Tessa Okonkwo came out at half past seven with a basin and did not stop.
 
-"Nine days," she said. "She has been up twice. She went up the stair to the second landing this morning and sat on it for a while and came down again, and she has asked me twice what the weather is going to do and I have told her both times."
+"Seven days," she said. "She has been up twice. She went up the stair to the second landing this morning and sat on it for a while and came down again, and she has asked me twice what the weather is going to do and I have told her both times."
 
 "And the eleven."
 
-"The eleven is the one I have not got." She set the basin down on the wall. "Nine I can do like breathing."
+"The eleven is the one I have not got." She set the basin down on the wall. "Seven I can do like breathing."
 
 "Eleven I can do the way a man can carry a weight that is heavier than he is, which is to say I can do it once and from that day it is in my chest for a year and I do not know what I will be doing on the twelfth day at eight in the morning and neither does she. That is the shape of what you have bought with eleven dates."
 
@@ -78,7 +78,7 @@ She was conscious, and she got a hand up off the tiles before he was down the la
 
 "Don't lift me," she said. "I know what this is. I have had it before. You get the leg and you get the other thing, and then I am a woman on a floor with everybody standing about."
 
-Nobody said the rest of it.
+The rest of it went unsaid.
 
 He knelt on the tiles on the other side of her from Runa and his hands were about four inches off her sleeve and he put them on the floor instead, flat, palms down, the way a man puts his hands down when he has decided something and does not want to see himself decide it.
 
@@ -108,6 +108,6 @@ She shut her eyes for a moment and then opened them and looked up at the sky, wh
 
 "Then that's the night's work done," said Wanda Rej. "Eleven years of nights and that's the one where somebody came up. Go inside, for God's sake. You've no shoes on."
 
-Nine days gone, and the eleventh ends at midnight at the end of the twenty-ninth.
+Eight days gone, and the eleventh ends at midnight at the end of the twenty-ninth.
 
 He stood in the road in one stocking until the cart had gone, and then he went up the sixty-one steps and sat down on the top of them in the dark with his shoes in his hand, and did not go to bed, and did not open his hands.

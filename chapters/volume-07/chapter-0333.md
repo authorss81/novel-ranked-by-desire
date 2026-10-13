@@ -74,13 +74,13 @@ She had not been up thirty seconds when Runa Sato came down past her with her co
 
 He did know which one.
 
-Agnete Lindqvist's chapel was four streets away and a person inside it cannot be compelled to testify. It had been true for eleven years and it was the only room in Ostara where a Field officer with a book could stand in the doorway and be answered by nobody.
+Agnete Lindqvist's chapel was four streets away and a person inside it cannot be compelled to testify. It had been true for eleven years and it was the only room in Ostara where a Field officer with a book could stand in the doorway and get nothing at all out of anybody inside.
 
 "That is the shape of the thing you built," said Runa Sato, "and it works, and I have just walked past it twice in one morning. Write that down as well."
 
 She went down the hill at the pace she kept for everything.
 
-## What Went Out Of Him
+## The Safest Man In The District
 
 He went up the sixty-one and cleaned his room and did not eat, and worked out what had happened in the six hours since he had stood in a clinic corridor, which was that he had done one thing and it had worked, and that the shape of what it cost was not yet visible from the inside.
 

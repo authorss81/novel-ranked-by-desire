@@ -26,7 +26,7 @@ He stood in the ward for another four minutes and did not say a word, because th
 
 ## The Wallet Under The Coat
 
-Lantern Row is two floors above a laundry, and the stairwell there is full of soap and steam that comes up through the well from the mangle room, and the door at the top of it stood shut until about half past three on the afternoon of the twenty-seventh, when a man came up it with a leather wallet under his coat and four sheets inside the wallet and a hundred and forty-one days of not carrying paper up a stair.
+Lantern Row is two floors above a laundry, and the stairwell there is full of soap and steam that comes up through the well from the mangle room, and the door at the top of it stood shut until about half past three on the afternoon of the twenty-seventh, when a man came up it with a leather wallet under his coat and four sheets inside the wallet and a hundred and thirty-eight days of not carrying paper up a stair.
 
 In all that time he had gone up it once, on the ninth of August, with his hands empty, to tell a woman the true reading of a term he had sworn in the dark. She had not asked him for anything. He had come down again.
 
@@ -64,7 +64,7 @@ She put her hand on the door frame.
 
 "Say the rest of it. You have had it ready since the stair."
 
-"Thirty-one days since the description was made against my head. Twenty-eight days since the list went out at four on the thirtieth of October. Eleven days since the books went onto a guild table." He said the numbers the way he said all of them.
+"Thirty days since the description was made against my head. Twenty-seven days since the list went out at four on the thirtieth of October. Eleven days since the books went onto a guild table." He said the numbers the way he said all of them.
 
 "I am under the floor of my band, and an account under its floor is callable at ten to nine on the first. I have spent eleven days not touching anybody so that a woman with four pencil marks on her hand does not become a fifth line in a chart. I am asking you to read a paper because I am out of instruments and you are the last one I have, and I am ashamed of the order."
 

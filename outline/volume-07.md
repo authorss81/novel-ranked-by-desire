@@ -453,7 +453,7 @@ been.** A requisition tabled and refused is not a requisition received.
      promise that the four marks do not go any further, and he says it back, and he keeps it.
    - **336 AND 337 ARE INES DUARTE, AND THEY ARE THE SECOND IRREVERSIBLE DECISION AND THE WORST THING HE DOES
      IN THE VOLUME.** He carries a leather wallet up two flights above a laundry on the twenty-seventh, a
-     hundred and forty-one days after a promise made in the dark, and asks her to read the classification in
+     hundred and thirty-eight days after a promise made in the dark, and asks her to read the classification in
      her own rooms. **She says not today** — an auditor who reads a record angry reads it twice and the second
      pass is contaminated — and gives three terms: he will be in the room; she will answer him about
      everything; **and after this she is not the person he comes to when he is afraid.** He says the third one
@@ -484,7 +484,7 @@ been.** A requisition tabled and refused is not a requisition received.
      because a wall is read whole and a woman with a notebook taught him that at a quarter to six.**
    - **340 IS THE SCENE AND IT IS INES DUARTE'S, AND THE BATCH'S LAST MOVE IS NOT HIS.** Terms first: nothing
      is spent, her gift is used on nobody, she is not impaired and will not be made so. **He comes up the
-     stair with his hands empty, and the scene body is 1,450 words.** Afterwards **she reads the classification
+     stair with his hands empty, and the scene body is 1,444 words.** Afterwards **she reads the classification
      back to him, out loud, for eleven minutes** — because the ninth of July was about what was done to her in
      a room and never meant she could not read a paper back at him — and tells him **nothing is read in that
      room again, not to her and not by him**. And she shows him a request she lodged on the ordinary stream at

@@ -40,7 +40,7 @@ All of it is on the page in `state/current.md`'s Batch 0004 head block, `state/c
 block and the live gate block at the head of `state/open-threads.md`. **Do not re-derive, do not re-explain, do
 not contradict.**
 
-- **Plate 8,131. Band floor 8,144. Tolerance three. EIGHT UNDER.** The two words from the thirtieth of July are
+- **Plate 8,131. Band floor 8,144. Tolerance three. THIRTEEN UNDER.** The two words from the thirtieth of July are
   back on the ranks wall and are no longer news. **He is not at rank seven and has not been since the plate of the
   twenty-second.** Ledger **121 lines, nine turned, the ninth still himself. NOTHING SPENT.** File **4,112, one
   folio, no second. NO CLASSIFICATION COMPLETED.**
