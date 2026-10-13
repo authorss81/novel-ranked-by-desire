@@ -54,7 +54,7 @@ She put the pen down.
 
 "That last one is the whole of what you have done in four years," said the clerk, "and it is in the finding, and it is sealed five times, and you said it out loud in a room and asked for it."
 
-## What It Does To Six Women
+## What It Does To Eight People
 
 He had bought the clause on the twenty-first of June with eleven words of a second sentence, and a woman who prices things had told him in that corridor what it cost, which was that from the thirtieth of June he was not a man in a building but a doorway, and that a doorway cannot be moved and cannot be closed and cannot be got out of the way.
 
@@ -64,7 +64,7 @@ What he had not understood until about twenty-five past two on the afternoon of 
 
 A carried requisition runs down the chain to the division that holds its fourth part, and its fourth part is the premises, and it has been administered weekly against the composition of those premises since the first of April, and the composition of those premises is seven.
 
-Six women slept under that roof and one more woman slept over a plate a street and a half away and one more had rooms of her own in two other buildings, and a composition is administered against the persons keeping the address and not against the man who lodged his standing in a queue.
+Eight people slept under that roof, and a composition is administered against the persons keeping the address and not against the man who lodged his standing in a queue.
 
 He could not be administered against. He had made sure of that on the fifteenth of April in ninety seconds with a pen.
 

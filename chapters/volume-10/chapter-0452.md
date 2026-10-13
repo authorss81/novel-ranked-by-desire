@@ -80,7 +80,7 @@ She turned the minute round so the fourth part was uppermost. It was a descripti
 
 "How long has it been like that."
 
-"It has had the shape of something since the first of January and it has never been named on anything, and I am a clerk and I know what is held where and I am not going to tell you which division it is, because you would go and stand in front of its door in about four minutes and then it would have a name in a book with your address in it."
+"It has had the shape of something since the first of January and it has never been named on anything, and I am a clerk and I know what is held where and I will not tell you which division it is, because you would go and stand in front of its door in about four minutes and then it would have a name in a book with your address in it."
 
 He put both hands flat on the second table.
 
@@ -104,7 +104,7 @@ He put both hands flat on the second table.
 
 He stood there for about a minute with his hands on a table in a corridor.
 
-The cheapest thing he had ever bought had become a weekly delivery to a door with six women asleep behind it, and the address on the delivery was his own, and he had put his own name on it, and there was no instrument in this city that could take a man's own words out of a book.
+The cheapest thing he had ever bought had become a weekly delivery to a door with six women asleep behind it, and the address on the delivery was his own, and he had put his own name on it, and nothing in this city can take a man's own words out of a book.
 
 "Can it be stopped," he said.
 

@@ -96,7 +96,7 @@ By about five o'clock there were four people at the north end of that wall who h
 
 He came off that step at about six o'clock in the evening and he had been on it for ten and a half hours and his back hurt and there was a mark on his palm where a man with a cart handle had gripped him.
 
-There is no figure anywhere in this city that says how much of it went, and he could not have said it if he had been asked, and there was no instrument in Ostara that could put a number on a thing like that.
+Nobody has ever written down how much of it went, and he could not have said it if he had been asked, and Ostara has no instrument that could put a number on a thing like that.
 
 A grain of it is not a grain of anything else. It cannot be scored and it cannot be bought and it cannot be drawn, and a man sitting on a step taking hands is not doing anything the Board has ever had a column for.
 

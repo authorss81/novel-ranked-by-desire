@@ -1,6 +1,6 @@
 # A Counter In The Auditorate
 
-The box office at the Bellhouse has four windows and three of them sell tickets and the fourth one has been a counting counter since the first of January, and the woman who has kept it for eight months is called Ada and has never once been asked to explain what it is for, because the answer to that question is on no register and the room she sits in is a stair hall.
+The box office at the Bellhouse has four windows and three of them sell tickets and the fourth one has been a counting counter since the first of October, and the woman who has kept it for nine months is called Ada and has never once been asked to explain what it is for, because the answer to that question is on no register and the room she sits in is a stair hall.
 
 "You cannot do that here," she said, on the morning of the seventh of July, to a man at the third window who had been standing at it for four minutes with a slip of nothing in his hand. "There is a count at this window and you do not get a turn at it unless you have come in."
 
@@ -20,7 +20,7 @@ She said it the way she said most things, which was once, without weight, to a m
 
 ## The Division With No Building
 
-"That is the first time anybody has asked me for the name of it in eight months and I want to tell you what it is, because it is the thing nobody can find."
+"That is the first time anybody has asked me for the name of it in nine months and I want to tell you what it is, because it is the thing nobody can find."
 
 She turned the sheet over and squared it against the sill.
 
@@ -48,7 +48,7 @@ She turned the sheet round and pushed it at him the way people push things at co
 
 The hall went on being a hall.
 
-"That is not in anything anybody has written," said Ada. "I worked it out at a different counter in eleven years. A return cannot show it, because a return is attested and this is not attested, and there is no instrument in this city that knows the difference between a person who has been somewhere and a person who arrived and stayed and was never let out, and I count them anyway, because somebody has to."
+"That is not in anything anybody has written," said Ada. "I worked it out at a different counter in eleven years. A return cannot show it, because a return is attested and this is not attested, and nothing in this city knows the difference between a person who has been somewhere and a person who arrived and stayed and was never let out, and I count them anyway, because somebody has to."
 
 "How many."
 
@@ -56,7 +56,7 @@ The hall went on being a hall.
 
 ## The Sheets She Had Never Been Told About
 
-"That is the first thing," said Ada. "The second thing is that I have been handing these sheets to a woman for eight months and she has never once said thank you and I did not notice, because I did not know what they were for."
+"That is the first thing," said Ada. "The second thing is that I have been handing these sheets to a woman for nine months and she has never once said thank you and I did not notice, because I did not know what they were for."
 
 "Wren Kallo."
 
@@ -68,7 +68,7 @@ The hall went on being a hall.
 
 "That is not a secret she is keeping from you on purpose."
 
-"I do not know what it is and it does not matter," said Ada. "What matters is that she has taken six years of sheets off me and the round has got my returns and my returns have a rule on them that she wrote and I did not, and a man who came up that stair four minutes ago asked me what a column is for."
+"I do not know what it is and it does not matter," said Ada. "What matters is that she has taken nine months of sheets off me and the round has got my returns and my returns have a rule on them that she wrote and I did not, and a man who came up that stair four minutes ago asked me what a column is for."
 
 ## Isolde Marchetti Came At Half Past Twelve
 
@@ -116,7 +116,7 @@ Isolde Marchetti looked at her for a while, and the hall went on being a hall, a
 
 "The ninth," said Ada, "and you may tell me on the eighth or on the ninth or on the tenth and I will write down which."
 
-She went out into the stair hall and did not say anything else, and she has counted her own house every week for six years and has never once used the count, and on the seventh of July she was carrying two thirds of a sum she had kept to herself since the autumn and she had not asked for it once in twenty-nine weeks.
+She went out into the stair hall and did not say anything else, and she has counted her own house every week for six years and has never once used the count, and on the seventh of July she was carrying two thirds of a sum she had kept to herself since the autumn and she had not asked for it once in thirty-nine weeks.
 
 ## The Part He Did Not Say
 
@@ -136,6 +136,6 @@ He came back at about four in the afternoon and put his hand on the sill of the 
 
 He wrote the day down and the hour and nothing else, and he went out up the stair hall and down into a street in the middle of a city where nine thousand people were going to pass under a wall in four days.
 
-He had learned one thing in a morning that no rule in that building covered, which was that a division which counts what the Board cannot see does not keep a list of addresses and does keep a list of people who come in and do not go out. Somebody in it had been keeping one for eight months and had been asked twice what she was doing it for and had answered herself.
+He had learned one thing in a morning that no rule in that building covered, which was that a division which counts what the Board cannot see does not keep a list of addresses and does keep a list of people who come in and do not go out. Somebody in it had been keeping one for nine months and had been asked twice what she was doing it for and had answered herself.
 
-At the head of the stair he stopped, because the two of them had been counting the same house in the same week for twenty-nine weeks and neither had ever handed the other a figure, and one of them was going to hand over a sheet on the ninth, and he had no instrument in this city that could reach either of them.
+At the head of the stair he stopped, because the two of them had been counting the same house in the same week for thirty-nine weeks and neither had ever handed the other a figure, and one of them was going to hand over a sheet on the ninth, and he had no instrument in this city that could reach either of them.

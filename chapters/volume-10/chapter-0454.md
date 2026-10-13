@@ -42,7 +42,7 @@ She had nothing in her hands. There was no paper on the table and there was no p
 
 "You will not tell me whether a woman came down that corridor."
 
-"I will not tell you that. I will tell you what was in that room and there was a chair in it that does not count, and there has been a chair in it since the fourth of December, and I am not going to put a woman in it or take one out of it in a return."
+"I will not tell you that. I will tell you what was in that room and there was a chair in it that does not count, and there has been a chair in it since the fourth of December, and no woman goes into it or out of it in a return."
 
 "The first of July. Ten past eight in the morning. A member may read the book after the run has gone, and the subject read his own minute in a corridor with the door shut, and it carried a clause under it of thirty-eight words."
 
@@ -62,7 +62,7 @@ Then she got to the fifteenth of July and stopped.
 
 She put both hands flat on the table, and she finished, and then she sat there with the report finished and the room completely quiet, and she opened her mouth and said a sentence that is not on the list and has no date on it.
 
-"He is going to keep doing it until something in him stops working, and I am not able to stop him, and there is no rule in this city that reaches a man spending his own account, and I have spent four days looking for one."
+"He is going to keep doing it until something in him stops working, and I am not able to stop him, and nothing in this city reaches a man spending his own account, and I have spent four days looking for one."
 
 "That is out of order."
 
@@ -172,7 +172,7 @@ Ines Duarte pulled back far enough to look at him.
 
 "And then she said it."
 
-"And then she said it," said Ines Duarte, "and she was right, and she has been right all week, and he has known that since the seventh and has done it anyway, in front of witnesses, on purpose, faster than a body can be finished, and there is no rule in this city that reaches a man spending his own account."
+"And then she said it," said Ines Duarte, "and she was right, and she has been right all week, and he has known that since the seventh and has done it anyway, in front of witnesses, on purpose, faster than a body can be finished, and nothing in this city reaches a man spending his own account."
 
 She got her hand down between them.
 
@@ -228,7 +228,7 @@ Then she let him have it, and she watched his face while it went, which she has 
 
 She washed at the basin in the corner of that room with cold water, and then she dried her hands on a square of paper towel and stood with her back against the wall for a moment, looking at the door.
 
-"The return is on the table by the door and it goes at four with the ordinary run and I have not asked you for one word of it and I am not going to send you anything to correct, because you do not get to correct a thing about yourself and you have known that since the seventh."
+"The return is on the table by the door and it goes at four with the ordinary run and I have not asked you for one word of it and you will get nothing from me to correct, because you do not get to correct a thing about yourself and you have known that since the seventh."
 
 "And the door."
 

@@ -24,7 +24,7 @@ She said it in order, once, and she did not write anything down while she said i
 
 "A standing at the Terrace, entered in the return at the first of the quarter, with your name on it in my hand and mine under it."
 
-"A chair, when one turns, and a chair of the Council does not turn very often and I have not said that this one is going to turn and I am not going to tell you which one."
+"A chair, when one turns, and a chair of the Council does not turn very often and I have not said that this one is going to turn and I will not tell you which one."
 
 "A name that outlives you. There is a wall in this city with nine ranks on it and the ninth of them has been empty in living memory and the name of a man on it is read every morning by a woman with a notebook and she will read it long after you are not here to be troubled by it."
 
@@ -88,9 +88,9 @@ She let that sit.
 
 He did not say anything.
 
-"You have done it four doors at a time for ten weeks on a round nobody is paid to walk, and there is no instrument in this city that can call that what it is either."
+"You have done it four doors at a time for ten weeks on a round nobody is paid to walk, and nothing in this city can call that what it is either."
 
-She said it without heat. "And on the eleventh of July you are going to do it at the head of the Reading under a wall with a black tile at the top of it, and nine thousand people are going to watch a man take strangers by the hand all day, and there is not one office in Ostara that can put a stop to it, and I am not going to send anybody to stand near you."
+She said it without heat. "And on the eleventh of July you are going to do it at the head of the Reading under a wall with a black tile at the top of it, and nine thousand people are going to watch a man take strangers by the hand all day, and there is not one office in Ostara that can put a stop to it, and nobody is going to stand near you."
 
 "A man draining his own account has nothing left to requisition, and this room would rather have an empty account than a classified one. I said that on the third of July and I am not going to take it back in October."
 
@@ -146,7 +146,7 @@ At the bottom of the stair he stopped, because a clerk of that room was coming u
 
 "One hundred and thirty-three days since the twentieth of February," she said. "Ten from twenty leaves ten, ten with thirty and thirty and thirty and three."
 
-"And you have been in a chair on the second floor for eleven minutes," said the clerk, "and I can tell you what came out of that room by the look on a man, and I have looked at a great many of them." She shifted the bundle. "And I am not going to ask you, because you are not going to tell me, and if you did tell me I could not put it anywhere."
+"And you have been in a chair on the second floor for eleven minutes," said the clerk, "and I can tell you what came out of that room by the look on a man, and I have looked at a great many of them." She shifted the bundle. "And I will not ask you, because you are not going to tell me, and if you did tell me I could not put it anywhere."
 
 That was true, and it was the first thing anybody in that building had said to him in four years that was a kindness with a door shut on purpose behind it.
 

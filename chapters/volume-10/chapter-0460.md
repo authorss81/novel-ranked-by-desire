@@ -40,7 +40,7 @@ Then, about four seconds later, she said, "There is a man on the fruit side who 
 
 Eight women and a man at a table in a building he had named four times in a sealed finding nine days before.
 
-They knew about the chair. Isolde Marchetti had sung the shape of it at the table on the night of the ninth, in nine seconds, flat and local, and a room of nine people had agreed with all of it before the second bar, and he had said nothing at the time because there is no instrument in this city for stopping that and because a woman who can make a room agree has never once in four years agreed with a room about anything that was not true.
+They knew about the chair. Isolde Marchetti had sung the shape of it at the table on the night of the ninth, in nine seconds, flat and local, and a room of nine people had agreed with all of it before the second bar, and he had said nothing at the time because nothing in this city stops a thing like that and because a woman who can make a room agree has never once in four years agreed with a room about anything that was not true.
 
 They had all believed him on the ninth of July and they believed him still.
 
@@ -128,6 +128,6 @@ He went back the next morning at seven.
 
 He did not get through as many. About two hundred and forty hands on the seventeenth, and he stood up four times, and he was still there at half past five, and he went home with a piece of brass in his coat and a flat book in the inside pocket with a line in it in his own hand that said he had done a thing to a woman who counts for a living at a counter in a hall with no door on it.
 
-Three streets off, a woman was sitting in a room with no window under a stage with her hand over one side of her head and going through nine weeks of a figure.
+Three streets off, a woman was sitting in a room with no window under a stage with her hand over one side of her head and going through forty weeks of a figure.
 
 There were three weeks in there she could not find in her head and the grey had not gone. She had written his times down and would not give them to him, and she was going to be at the third window of that building on the ninth with a figure she had got off the paper and not off her memory.

@@ -140,7 +140,7 @@ CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds (Dagmar Oyelo
 2. **`chapter-0416.md:83` AND THE CARD DISAGREE ABOUT HOW LONG ADA HAS BEEN COUNTING.** The page says
    **since the autumn** and Isolde says **about six years** of her own counting. **The page wins: Ada has been
    counting since the first of October and Isolde has been counting for six years, and the two of them have been
-   counting the same house in the same week for twenty-nine weeks without ever handing each other a figure.**
+   counting the same house in the same week for thirty-nine weeks without ever handing each other a figure.**
    That is now the chapter's cost, and it is better than the card's.
 3. **THE BATCH CARD SAYS A CLOSED SITTING IS INES'S COST. THE SCENE WAS GOING TO BE A PUBLIC SITTING.** 446 was
    a public application with four strangers at a rail. 454 is a **closed** sitting with a reason entered in a

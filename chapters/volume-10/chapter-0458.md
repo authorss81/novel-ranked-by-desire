@@ -1,6 +1,6 @@
 # A Grey That Stays Where It Came
 
-The counting room at the back of the Bellhouse is below the stage and it has no window and two tables and a rail and a lamp with a green shade, and from about two in the afternoon the stage above it is empty and the room belongs to the counters, and there are four of them and one of them has been at the third window of that building for eight months.
+The counting room at the back of the Bellhouse is below the stage and it has no window and two tables and a rail and a lamp with a green shade, and from about two in the afternoon the stage above it is empty and the room belongs to the counters, and there are four of them and one of them has been at the third window of that building for nine months.
 
 On the afternoon of the thirteenth of July he came in at about four o'clock because a wall is only good for so long.
 
@@ -22,7 +22,7 @@ He put his hand flat on the table beside hers and she said, without turning roun
 
 He took her hand.
 
-It was a hand she had kept behind a counter for eight months and in and out of cold water at every wash-up, and it did not feel like anything for a second, and then it felt like a hand that had been in a bucket.
+It was a hand she had kept behind a counter for nine months and in and out of cold water at every wash-up, and it did not feel like anything for a second, and then it felt like a hand that had been in a bucket.
 
 Then the cold came up the inside of her arm and stopped about four inches below the shoulder and sat there, and Ada put her pencil down, which she has never done in the middle of a count in eleven years.
 
@@ -70,11 +70,11 @@ Nothing about a cold minute in this city has ever left anything on anybody. It l
 
 She counted to the end of the week.
 
-"There," she said, and turned the sheet round and pushed it at him. "That is the week and that is the figure and that is what I am required to hand up, and I have got nine weeks of this address in a stack behind me and I am going to go back through them, because that is what you do when a number does not feel right."
+"There," she said, and turned the sheet round and pushed it at him. "That is the week and that is the figure and that is what I am required to hand up, and I have got forty weeks of this address in a stack behind me and I am going to go back through them, because that is what you do when a number does not feel right."
 
 She went back through them.
 
-She had nine weeks. She has counted that address every week since the twenty-eighth of September at the third window of the Bellhouse because an officer of counter-forensics asked her to in nine words in a lane off Cordwain on a working afternoon, and she had never once told the woman whose house it was.
+She had forty weeks. She has counted that address every week since the twenty-eighth of September at the third window of the Bellhouse because an officer of counter-forensics asked her to in nine words in a lane off Cordwain on a working afternoon, and she had never once told the woman whose house it was.
 
 She got back four weeks and stopped.
 
@@ -156,7 +156,7 @@ At the stair he said, "I will come back."
 
 She came out behind him and stopped on the second step.
 
-"And the strokes on the wall," she said. "That was you, that was not you, and I do not know which, and it is on about ninety marks in somebody else's chalk with nothing behind it, and there are three weeks missing out of my head and I am going to have to hand somebody a figure on the ninth that I cannot get."
+"And the strokes on the wall," she said. "That was you, that was not you, and I do not know which, and it is on about ninety marks in somebody else's chalk with nothing behind it, and there are three weeks missing out of forty and I am going to have to hand somebody a figure on the ninth that I cannot get."
 
 "You can get it. It is on the paper."
 

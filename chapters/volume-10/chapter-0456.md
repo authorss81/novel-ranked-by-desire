@@ -92,7 +92,7 @@ He went out into the corridor and stood against the wall opposite the door with 
 
 He could hear all of it. He could hear the clerk read back the minute in order, the date first and the hour with it, and he could hear the chair's hand on the wood, and he could hear a man in the fourth seat ask whether the minute of a sitting that cannot carry a requisition is a different animal from a minute of the carrying.
 
-"It is a different animal," said the clerk, from where he could not see her, "and the difference is four months, and in four months one of you will have to be in this room again and the other four will be here because they are seals."
+"It is a different animal," said the clerk, from where he could not see her, "and the difference is three months, and in three months one of you will have to be in this room again and the other four will be here because they are seals."
 
 They were sealing at about ten to four. Five of them, one at a time, and the last one was his.
 
@@ -126,6 +126,6 @@ One person in that room had watched a man say yes to four seals with her hands i
 
 He was going to have to say them.
 
-He had two days in which to work out how a man says a thing he means in a room and goes on doing the other thing, and there was not one instrument in this city that would let him have both, and there was not one person in the room who was entitled to tell him which one he had done.
+He had two days in which to work out how a man says a thing he means in a room and goes on doing the other thing, and nothing in this city would let him have both, and there was not one person in the room who was entitled to tell him which one he had done.
 
 The light went off the court at about half past four and the standing sheet on the second floor had five lines on it and one of them had a word under it that he had not seen a clerk put there.

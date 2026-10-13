@@ -136,7 +136,7 @@ He got up.
 
 "You are telling me to go on."
 
-"I am telling you what I see," said Ada, "which is a man who is going to go on, and I have been a counter for eleven years and I am not going to be the one who tells a queue not to hand somebody their turn."
+"I am telling you what I see," said Ada, "which is a man who is going to go on, and I have been a counter for eleven years and a queue does not get told by me not to hand somebody their turn."
 
 He went back to the step and put out his hand to the next person in the line, who was about nineteen and had come at seven in the morning and had been in the queue for five hours.
 
@@ -176,7 +176,7 @@ She shouldered the board and picked up the chair with the other hand.
 
 She got to the bottom step and stopped.
 
-"The cough is yours now," said Ada. "It is not the cold. The cold goes in a second and a half and it always has. That is going to be with you for the rest of whatever you have got, and you are going to be doing sums about it for the rest of that as well, and I am not going to be here for it and neither is anybody else in that square."
+"The cough is yours now," said Ada. "It is not the cold. The cold goes in a second and a half and it always has. That is going to be with you for the rest of whatever you have got, and you are going to be doing sums about it for the rest of that as well, and I will not be here for it and neither will anybody else in that square."
 
 She went off up the square with a chair and a board under her arm, and there were about a hundred and forty people standing at the north end of the ranks wall in the light of a July afternoon, and about ninety strokes in somebody else's chalk were down the side of it with nothing behind them, and none of it was on a card.
 
