@@ -9,7 +9,7 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batch 0001 written (251–260) against `outline/volume-06.md`, which this phase wrote after its own ten chapters. Scenes at 261, 269, 279, 289, 299 — none written yet and none permitted between 251 and 260.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batch 0001 written (251–260), then independently reviewed and repaired. Batch 0002 written (261–270). Scenes at 261, 269, 279, 289, 299 — **261 is WRITTEN and is Volume 6's first; 269 is the position only and its scene is owed to Batch 0003**; 279, 289, 299 unwritten. At 270: plate 8,138 against a band floor of 8,142, four under and printed on a public wall, with the hundred and thirty-fourth mark due at ten to nine on the first of August.** |
 
 
 ## Volume 2 — The Reservoir
@@ -1408,6 +1408,141 @@ been asked to shut. The house eats bread. The question waits behind an open door
 ## Volume 6 — The Broker's Terms
 
 > In this volume, **Lin Hao must call in every debt he owes before the creditors call in him**, or **the Vant's books put a price on the reservoir that he cannot refuse**.
+
+### Volume 6, Batch 0002 — Chapters 261–270. THE TWENTY-FIRST TO THE THIRTIETH OF JULY.
+
+**Ten chapters, one a day. One scene, at 261, and it is immovable and it is Volume 6's first.** The last
+scene was Chapter 249, so 249 → 261 = 12, and the next is owed at 269 and is **not** written here; the batch
+prompt is explicit that there is an explicit scene inside 261 and nowhere else. Read
+`reviews/volume-06/batch-0002.md` before inheriting any date from these summaries.
+
+**The batch performs the second half of the volume's sentence. Batch 0001 called the debts in; this batch
+deals with the account they landed in, which is now in a stranger's book.**
+
+#### Ch 261 — The Verse She Did Not Choose
+**SCENE. IMMOVABLE. Isolde Marchetti, 39, singer at the Bellhouse.** A verse with no name and no street and
+a number in it, bought at a box office for twenty pence on the eighteenth of July by a man in a good coat
+who said *say it exactly, and do not change the number*. It is in repertory with no date on the card.
+**He buys a seat at the back of the fifth house and lets it happen to him, because he is the man in it and
+there was one room left in the city that did not have him in it.** He takes the date off her — the eighteenth,
+a man in a good coat at the office end of a bar — and she tells him he could have taken the card down in four
+minutes and has not, and he cannot give her a reason she would accept. **The scene** is in the dressing room
+over a stage door: eight feet by seven, a cot, a jug, a bar of painted iron, a mirror with eleven bulbs and
+eight lit. **She tests it and it does not happen — the first room in twenty years in which a room that hears
+her does not agree with her — and she says plainly that what moves her is him and not her gift**, and that she
+will sing something of her own on the twenty-third and will not tell him what it is and will not have him in
+the house. **Ends: the card says IN REPERTORY and does not say who bought it, and in two days she sings to
+nine hundred people and he is not there.** Plate untouched. Ledger untouched. Zero panels.
+
+#### Ch 262 — The Room He Will Not Give Up
+A guild's weekly reconciliation on the twentieth shows an entry against premises 34-6-118 at an establishment
+the guild does not keep, and four initials: **S.R.** **Marguerite Vale is a woman who has been told her client
+went to her rival, and she comes to the north desk standing up.** She puts the instrument on the counter and
+tells him it was never what he thought: **a head may give up a room without an auditor at all** — it takes a
+week and her signature, and he had been standing on a false reason for fifteen days because she let him.
+**The price is Ines Duarte going off the paper forever: five in August, no seventh anywhere, nothing to
+contest.** He does not sign the figure. Sun Meiling works it out at the kitchen table in ninety seconds and
+says the sentence the batch is built on: *it is not about me, it has been about her since the seventh of July
+and I have been pleased about it.* **Ends: the week runs to the twenty-ninth and there is nothing he can do
+on the twenty-eighth, and nothing on the twenty-ninth.**
+
+#### Ch 263 — The First Room That Agreed With Her
+Agnete Lindqvist goes out at night for the second time in eleven years and takes a front seat in the gallery
+to hear the answer. **She does not want to be told what the song is. She wants to know whether she is safe in
+a room.** Isolde sings the verse first because the house expects it, then sings something of her own, and the
+answer names the block by its two names for itself and puts **34-6-118 into nine hundred mouths** without ever
+saying a name. **The household is public, and it happened because a woman chose a tune.** Afterward the
+agreement goes out of the house like a lamp and Agnete tells him that eleven years of holding a number in a
+room came out of her hands like water out of a cracked jug, and that a chaplain is a person who has worked
+out what it costs a room to say a number out loud. **Petra Ilyin comes up the last four steps and says the
+whole of it: there is no difference between her and Agnete, and that is the difference.** **Wren Kallo writes
+the date against it in her own book — the first date anyone in this city has ever written against anything
+that has happened to Agnete Lindqvist — and says that is a door and not a protection, and that she did it
+without asking and would again.** **Ends: a woman asleep against a warm wall, a date in a clerk's hand on a
+page where nothing else is, a verse, a song with a door number in it, and eleven minutes to the first.**
+
+#### Ch 264 — The Mark In The Broker's Hand
+Saturday, four days after the return day, and Solveig Rask is at the table because keepers work every day.
+**The standing he lodged on the seventh of June was called on the twentieth of July at twenty-five minutes
+past four** — while he was swearing seven in a room at Cobb Street. The mark is a device cut into a
+pen-holder and a device can be cut again by anybody who has held the pen, so Rask cannot name a hand. **What
+she can do is reconcile, and she tells him the price before he asks: a dated page in a real book saying a call
+was entered and that the entry and the broker's own account do not agree, in four divisions by Friday, and the
+woman it is about cannot produce the pen.** He says *do it* once. **The reservoir is one sentence away from
+description and she does not write a figure on it** — thirty-one lines in a column and, under the column,
+one page with a figure on it and two letters at the foot that are his. **Four hundred and nineteen days.**
+**Ends: he walks out into a clear morning with a page of his own making coming on Thursday.**
+
+#### Ch 265 — The Half He Carried In His Coat
+Cordwain, the Field counter, ten to three, and he has carried one half of a two-part carbon in a coat since
+the eleventh without looking at it. He has come to have it priced: **a priced hearing is a secured hearing
+and a secured hearing survives a dead list.** Runa Sato says the counter has offered her the identical
+instrument once a week for four weeks and she has said no four times, **because a security is what the guild
+reached for over Beatrix and she will not buy herself out of the household's risk.** She pushes it back
+across the counter: *a thing in your coat for a fortnight and in my bag for a fortnight has been in neither
+of our hands for a fortnight, and after the ninth of a month this street is a street with no press in it.*
+He gives it to her. **The hearing goes stale at midnight on the thirtieth and is not resolved.** **Ends: two
+halves of a reconciliation in the same folder, never together and never going to be.**
+
+#### Ch 266 — The Form Behind A Pencil Row
+The charge's own fourteen days run out at Cobb Street and nothing arrives, because a charge a panel has
+carried is an item and not a charge. **He has been asking the wrong woman for a signature: the impediment is
+a bar on the certificate, not a bar to certifying, and it comes off by removing the person it is on.** A change
+of auditor of record is a household office and a head may change it in writing. **He signs it on the
+twenty-sixth, in his own hand, with the date under it, at a bare kitchen table, and says out loud, because Sun
+Meiling made him, that he is doing it for the row.** Nadia Ferrous puts her own name on the witness line for
+the first time in eleven years. **A change is acknowledged on the first; the first is a valuation morning; a
+month has thirty days and no thirty-first — so Sun's row goes into ink on the first of September, and the
+price is the office that made Ines Duarte certifiable.** **Ends: there is no lawful way to give a woman
+notice of something he has just taken from her.**
+
+#### Ch 267 — Beatrix Reading A Wall Aloud
+Thursday. The crew comes at nine and the figures go up at ten and a wall is read before it is painted.
+**A published security binds everybody who takes from the account afterwards, so the guild posted its hold on
+Beatrix Halm's hearing, and a foreman reads it out loud in a public square** — the first time in four years
+anything about her has been in more hands than her own. She writes it down word for word, wants it left and
+not struck, and then **goes and stands under the ranks wall so that the song is over it**, which is the
+second time in eight days something in this household has been put in front of a room that cannot argue with
+it. At the north end he reads the whole lower half of the wall for the first time and finds four words about
+himself, and a man on the ground tells him what the thirty-first will bring. **Ends: plate 8,138 against a
+floor of 8,141 on the bottom band, WITHIN, and five days.**
+
+#### Ch 268 — The Book In Her Own Rooms
+Marguerite Vale comes at nine with a leather bag and puts it on the bare table: **her working book, her
+attestation book, and the key to the chained room, all of it out of this building since the fourteenth of
+July.** She knows what hand made the entry of the twentieth and **will not tell him**: she will say it to a
+panel, under her own signature, before the end of the month, and she is asking him to promise never to ask
+her again. **He promises.** The choice is the disagreement or the eleven-day gap and Sun Meiling sends the
+bag back onto the fourth floor at nine minutes past nine. **Ends: he has spent a broker's standing in four
+divisions, and there is still no lawful way to tell the woman whose office he signed away on Sunday.**
+
+#### Ch 269 — A Cage With A Door On Both Sides
+The instrument dies at midnight of its own week and he writes the refusal out late, in his own hand, with the
+hour, because a silence and a refusal are different documents in four years' time. **Nadia Ferrous, the lift,
+eleven at night.** She has been writing a second copy out by hand one page a night since the nineteenth —
+eleven pages — and she has not skipped a day and cannot write this one. **The position: the only record in
+this city no office can be served on lives in a cage with a door at each end and forty people going through
+it a night, and holding it is not a safe place for a person to be, and she is putting it there anyway.** Her
+want is the only one in this book nobody has said: not to be on the roll, **to be in it.** **No scene is
+written in this chapter. The scene is owed inside 269 and Batch 0003 opens on it.** **Ends: a blank page and a
+promise not to help her write it.**
+
+#### Ch 270 — Eight Thousand One Hundred And Forty-Two
+**The quarterly bands go up on the last working day of the quarter by a different office in a shade the
+square has never had**, and a foreman reads the wall out loud, and the floor moves from 8,141 to **8,142**
+and the word on the bottom band changes from *within* to **out of band**, with his address and his plate on
+it. **He is four under. Rask said on the thirteenth that this would take four quarters and it took seventeen
+days.** A woman of forty asks him if he is all right. Sun Meiling is glad and says so honestly; Petra Ilyin
+counts herself out loud; **Agnete Lindqvist is in a Square in daylight and asks not to be walked home.** He
+says it on a corner at twenty past nine, in daylight, in front of the women in that building: he will be at
+the bottom of the steps at ten to nine tomorrow. **Then the post comes — a division's notice that the
+composition is out of band as from the thirtieth, that a re-issue delivered on the twenty-sixth is
+acknowledged on the first, and that the composition is heard on the second of August at ten with the former
+auditor of record required to attend.** **Ends: 8,138 against 8,142 on a wall in a blue this square has not
+had before, and at ten to nine tomorrow a hundred and thirty-fourth mark and the answer to the standing he
+lodged on the seventh of June go into a chained book with one pen in about eleven seconds.**
+
+---
 
 ### Volume 6, Batch 0001 — Chapters 251–260. THE ELEVENTH TO THE TWENTIETH OF JULY.
 

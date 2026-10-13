@@ -1,5 +1,116 @@
 # Continuity
 
+## Volume 6, Batch 0002 — CHAPTERS 261–270. THE TWENTY-FIRST TO THE THIRTIETH OF JULY. LIVE.
+
+**Ten chapters, one a day, the twenty-first to the thirtieth of July. Batch 0002's own head block is in
+`state/current.md`; the live gates are in `state/open-threads.md`; the day map, the arithmetic and the repair
+record are in `reviews/volume-06/batch-0002.md`. Read this block for what is canon and what may not be closed.**
+
+> **READ §1 BEFORE §2.** The failure mode of THIS batch is not a date. **It is an instrument written once
+> correctly and then restated from memory.** Three rules are introduced in ten chapters — a change of auditor
+> of record, the validity of a hearing paper, and the day a division acknowledges a change — and each was
+> paraphrased wrongly at least once later in the batch. All three are fixed on disk. **A later batch
+> introducing an instrument should write its rule once, in full, and never refer back to it by paraphrase.**
+>
+> **The weekday gate failed on the first pass and the prose was right.** Eight chapters named a day of the
+> week other than Thursday. All of it has been replaced with a date or with the institution's own word. A
+> later batch will hit this: *write the date, not the day.*
+
+### 1. THE FIXED CALENDAR AND THE RULES THIS BATCH SET
+
+**July 1 is a Saturday. July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh.
+The last Thursday in July is the twenty-seventh and the next one is the third of August. A month is thirty
+days and has no thirty-first, and the thirtieth is the last working day. Only Thursday is ever named.**
+
+| Rule | Statement | Set at |
+| --- | --- | --- |
+| **A head may diminish** | a head may lower his own sworn answer about his own household without an auditor. A week, the broker's signature, and it dies uncarried on the seventh day. **It never needed the auditor and never did.** | 262 |
+| **The price of it** | the empty room is the only one the office accepts off a head. Five in August, no seventh anywhere, no row to dispute, and nothing to find. | 262 |
+| **An impediment** | is a bar on a certificate, not a bar to certifying. It comes off by removing the person it is on. | 266 |
+| **A change of auditor** | takes effect on the day the division acknowledges it; the division acknowledges on the first. **A month ends on the thirtieth and has no thirty-first, so the twenty-sixth goes on the first of August and the first of September goes on the first of September.** | 266 |
+| **A hearing paper** | runs from the month it was answered in to the end of the month after it. Runa's was answered 24 June and went stale at midnight on the thirtieth of July. | 265 |
+| **A valuation** | a mark at ten to nine on the first. **A called standing is answered at a valuation.** | 264, 270 |
+| **The quarterly bands** | go up on the last working day of the quarter, by a different office and a different hand from the Thursday crew, in a shade the square has not had. A wall is read before it is painted. | 267, 270 |
+| **A published security** | binds everybody who takes from the account afterwards, which is why a guild posts its hold. | 267 |
+| **A reconciliation** | reads the real book and the broker's own book and publishes where they do not agree. It runs on a Thursday. **Next: the third of August.** | 264, 268 |
+| **A broker's device** | is a shape cut into a pen-holder, not a signature. Anybody who has held the pen can cut it again. | 264 |
+| **A verse** | is an instruction. A song is an argument. The difference is that a song cannot be refused by the person it is about. A standing commission has no date on the card. | 261 |
+
+### 2. THE DAY MAP, WITH EVERY COUNT DERIVED FROM ITS ANCHOR
+
+Anchors: **Wren's finding 23 June** · **the true report 6 July** · **Petra off roll 4 June** · **the sworn
+page 14 June** · **Ines's term the night of 9 July** · **the table bare from 14 July** · **the clinic count
+1 July, the note on its back 9 July** · **the plate signed 16 July** · **the pencil row 22 March, under a
+saucer 15 July** · **the charge 12 July, its own term to 26 July** · **the dispute and the call 20 July at
+16:25** · **Rask's 430 days given 13 July** · **Runa's paper 24 June** · **the broker's papers off the table
+14 July.**
+
+| Ch | Day | Wren | Report | Petra | Sworn | To 1 Aug | What the chapter prints |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 261 | 21 | 28 | 15 | 47 | 37 | 11 | verse in repertory 4 nights (18th–21st); brought in the 18th; answer booked for the 23rd |
+| 262 | 22 | 29 | 16 | 48 | 38 | 10 | **15 days** on the false reason (7th→22nd); **22 + 7 = the 29th**; table bare 8 |
+| 263 | 23 **Thu** | 30 | 17 | 49 | 39 | 9 | **7 in the kitchen, 8 in the building**; answer sung; eleven years indoors |
+| 264 | 24 | 31 | 18 | 50 | 40 | 8 | **419 days** (430 less 11); the call 4 days ago; eight days to the first |
+| 265 | 25 | 32 | 19 | 51 | 41 | 7 | **14 days** carrying the half (11th→25th); hearing **31 days** (24 June→25 July); term tomorrow |
+| 266 | 26 | 33 | 20 | 52 | 42 | 6 | **126 days** on the row (22 March→26 July); table bare **12**; charge's term ends |
+| 267 | 27 **Thu** | 34 | 21 | 53 | 43 | 5 | guild line sent **the 25th**; **five days**; the entry reads *Within* |
+| 268 | 28 | 35 | 22 | 54 | 44 | 4 | bag out of the building **14 days**; **128 days** on the row; table bare **14** |
+| 269 | 29 | 36 | 23 | 55 | 45 | 3 | **4 documents in 13 days** (16th→29th); ten pages 19th–28th, the eleventh blank |
+| 270 | 30 | 37 | 24 | 56 | 46 | 1 | **Petra 56**; the term held **21 days** (9th→30th); table bare **16**; notice for the second |
+
+**Nine errors of the batch's own first draft were found by hand and fixed. The full table with the exact
+before and after is at `reviews/volume-06/batch-0002.md` §2.** The two that were not arithmetic: **"Thirty
+years indoors" invented for Agnete against her canon eleven**, and **the Bellhouse house at four hundred
+people in 261 and nine hundred in 263.**
+
+### 3. THE POSITION AT CHAPTER 270, EVERY FIGURE
+
+**Plate 8,138. Band floor 8,142, up from 8,141 on the morning of the thirtieth. Tolerance three. FOUR UNDER,
+publicly, on the ranks wall.** Ledger **118 lines, nine turned, the ninth still himself, nothing spent.** File
+**4,112, one folio open, no second.** **No classification, no rank earned, no rank lost. Zero system panels**
+— Batch 0002 contains no `[` character at all, so the zero is structural.
+
+**Four documents in his own hand in thirteen days:** a return (16th) · a dispute (20th) · a change of auditor
+(26th) · a late refusal (29th). **He signed the sixth line's neighbour, not the sixth line: the standing
+instruction of the third of July is not a debt and is not one now.**
+
+**The household: eight women in the building, one at her counter.** Seven on the cut roll plus one pencil row
+under twenty-two stitches. **Sun's row goes into ink on the FIRST OF SEPTEMBER.** Petra on no roll since the
+fourth of June, **fifty-six days**. Wren on nothing at any time, the eighth partner, **now holding the first
+date ever written against anything that has happened to Agnete Lindqvist.** Agnete out of doors for the second
+time in eleven years. **Marguerite Vale's device on a dated page in a real book, four divisions, on the third
+of August**, and she has asked him never to ask her again. **Runa Sato's hearing paper stale at midnight on
+the thirtieth, by her own refusal.** **Ines Duarte out of the flat, out of her office from the first of
+August, and required to attend on the SECOND OF AUGUST AT TEN by a division that read a number off a wall.**
+
+**Nadia Ferrous's book carries eleven pages, one of them deliberately blank, and it lives in a lift.**
+
+### 4. WHAT MAY NOT BE OPENED BY THE NEXT BATCH
+
+The second folio · B103 · the instrument's live-column rule, which is spent · Marguerite Vale's terms of the
+fourteenth of March · Bernt · Rhee · Saskia Verhoeven · Alma Quayle · Anouk Ferreira · the Concil of the Nine
+by name · **Dagmar Oyelowo, who is 388** · anything after Volume 8 · **a rank, a grain, a folio, a
+classification** · **what the thirty-year account is for** · **who entered the twelfth docket early** · **who
+Wren Kallo has told since the eighth of June** · **the hole at the low end of the Reading board** · **Wren's
+held name** · **what the ninth turned line is** · **that a routed draw exists at all** · **who bought the
+verse** · **whether Marguerite Vale's bag was in her own rooms or in someone else's on the twentieth of
+July.**
+
+### 5. WHAT MAY BE ADVANCED AND MAY NOT BE CLOSED
+
+The two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name · the desk's four-line note · the
+classification paper dated the nineteenth · the ninth of September · the broken price · Sun Meiling's
+February · the leak · **Agnete Lindqvist's eleven years indoors** · **Ines Duarte's review** · **Runa Sato's
+hearing, now a stale paper** · **Beatrix Halm's hearing, still held by the guild and now published on a wall**
+· Wren's held name · Beatrix's eleven burned months · the bare slot on the Reading wall · **Solveig Rask and
+the annual sitting, 419 days and falling** · **Petra Ilyin's hundred and thirty-two dockets** · **whether a
+lodged standing can be called before the book changes hands** · **the hundred and thirty-fourth mark and the
+fourth of August** · **what the plate being four under a rising floor means** · **Sun's re-issue on the first
+of September** · **the composition hearing on the second of August** · **the man in the good coat at the bar
+on the eighteenth of July**.
+
+---
+
 ## Volume 6, Batch 0001 — CHAPTERS 251–260. THE ELEVENTH TO THE TWENTIETH OF JULY. LIVE.
 
 **Ten chapters, one a day, the eleventh to the twentieth of July. Batch 0001's own head block is in

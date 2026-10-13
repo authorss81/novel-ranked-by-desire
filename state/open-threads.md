@@ -1,5 +1,201 @@
 # Open Threads
 
+## Volume 6, Batch 0002 — LIVE GATE RECORD (Chapters 261–270). THE HEAD MAY GIVE UP A ROOM, THE TWENTY-FIRST TO THE THIRTIETH OF JULY.
+
+> **This block supersedes Batch 0001's as the live gate record.** Batch 0001's block is retained below it,
+> superseded as to position. **Every number below was produced by command against the files as they stand
+> after Batch 0002's last edit, and every row says what was run and what was read, because a gate that returns
+> zero is a claim to be tested and not a result to be reported.** The full record is
+> `reviews/volume-06/batch-0002.md`.
+>
+> **THE 12-GRAM SCAN RAN FIRST, AGAINST ALL 270 CHAPTERS, BEFORE THE 8-WORD SENTENCE SCAN.** It returned
+> **44** on the first pass. Thirty-one were cut and the final figure is **13**, against Batch 0001's recorded
+> 29. Six of the thirty-one were self-repetition *inside this batch*, including one rule that was stated
+> correctly in 265 and then restated from memory in 266 and was wrong in the restatement. **That is the
+> failure mode of this batch and it is the inverse of Batch 0001's, which was dates. Derive a rule from the
+> sentence that states it, never from a memory of the sentence that stated it.**
+>
+> **THE WEEKDAY GATE FAILED ON THE FIRST PASS AND WAS FIXED, AND THE PROSE WAS RIGHT.** Eight chapters named
+> Monday, Tuesday, Wednesday, Friday, Saturday or Sunday. Each has been replaced with a date or with the
+> institution's own word. Recorded because a later batch will hit it.
+
+**Ten chapters, one a day from the twenty-first to the thirtieth of July 2026 in the book's calendar. A month
+is thirty days and has no thirty-first, and the thirtieth is the last working day. Day map: 261 the 21st,
+**Isolde Marchetti's scene, the verse, the household becomes public** · 262 the 22nd, **the instrument comes
+back and it no longer needs Ines's hand** · 263 the 23rd, **the answer song, and Agnete Lindqvist goes out**
+· 264 the 24th, **Rask names the caller and he asks her to reconcile** · 265 the 25th, **Cordwain, ten to
+three, the two halves** · 266 the 26th, **the form behind the pencil row, and he signs it** · 267 the 27th
+Thursday, **the pass along the ranks wall and Beatrix's guild hold in a public shade** · 268 the 28th,
+**Marguerite comes back with a bag** · 269 the 29th, **Nadia Ferrous in the lift, the position** · 270 the
+30th, **the quarter, the band list, and a notice with a date on it.**
+
+### Gates run after the last edit
+
+```
+files            chapters/volume-06/ -> 20 (0251..0270). 270 chapter files total. Nothing before 0261 and
+                 nothing after 0270. Every file in chapters/ is a chapter.
+titles           unique across ALL 270 written titles -> NONE duplicated. Over 90 chars -> 0.
+                 Longest new title 41. None begins with "What". Checked by command against every file.
+wc 261-270       3827 / 2379 / 2266 / 2167 / 2087 / 1974 / 2002 / 2575 / 1982 / 2315
+                 NINE INSIDE 1,800-2,700. ONE NAMED EXCEPTION: **261 is 3,827 words.** It is Volume 6's first
+                 scene and its first explicit scene and it carries the verse, the commission, the household
+                 becoming public, the agreement that does not follow her into a room, the decision and the
+                 scene in one day. The precedents are Ch 214 at 3,890 and Ch 228 at 3,788, so this is inside
+                 this book's established scene envelope. NOTHING ELSE LEAVES THE BAND.
+markup           bold 7 | ITALIC 5 | blockquote 0 | table 0 | horizontal rule 0 | code 0.
+                 The first draft carried seventeen bold and every unnecessary one was cut. The italic is the
+                 four-line verse at 261 and *out of band* at 267 and 270.
+                 **MARKUP IS NOT ZERO AND A LATER BATCH MUST NOT INHERIT ONE.**
+system panels    0,0,0,0,0,0,0,0,0,0. **The batch contains no "[" character at all, so the zero is
+                 STRUCTURAL and not a regex artefact.** Nothing is spent and nothing settles. NO PANEL IS DUE.
+paragraphs       over 90 words -> 0. Over 120 words -> 0.
+exact-dup paras  floor 6+ words, batch AND neighbours 241-270 -> 0.
+                 floor 4+ words, same scope -> 0. **The 4-word floor caught two exact repeats below the
+                 6-word floor — "He looked at her." at 259/270 and "How long," he said. at 261/264 — and
+                 both are fixed. This is the Volume 5 close-pass finding recurring and being caught.**
+nobody           3, adjudicated at `reviews/volume-06/batch-0002.md` §3.2. Two are statutory or idiomatic
+                 (an instrument nobody has used at 262; a body in the street at 270) and one is canon
+                 language at 264's opening. **Volume 5 ran 9 and Batch 0001 ran 1. The ration was not spent
+                 for ornament.**
+no person        0.  He understood 0.  He also understood 0.
+He had woken wanting  0 of 10 (Volume 5 closed on 4).
+He felt          0 (Volume 5 closed on 9, case-sensitive). It is zero.
+weekday          **Thursday 35 and every other weekday 0**, whole-word and as a substring. Eight chapters
+                 named a weekday on the first pass and all of it is gone.
+meta / fourth wall / ages   0. "volume", "chapter", "the reader", "this scene", "novel", narrat, and every
+                 age construction, all 0.
+12-GRAM SCAN     RUN FIRST, AGAINST ALL 270 CHAPTERS, BEFORE THE 8-WORD SCAN.
+                 Distinct 12-grams in 261-270 that occur in any other chapter: 0/0/1/0/0/5/0/0/0/8 = **13
+                 TOTAL**, against 270 chapters, against Batch 0001's 29 and against Volume 5's recorded 290.
+                 Two adjudicated groups:
+                   246/247/266 "a member of a division may not report on a return her own name stands on"
+                       -> a rule, quoted verbatim because quoting it differently would break it.
+                   253/270 "the day you are four under, the standing you put in on the seventh of June is
+                       called at a valuation" -> **DELIBERATE.** Rask's sentence of the 13th, quoted by him
+                       on the 30th at the moment the floor moves and it comes true. The batch's one echo.
+                 **The first pass returned 44 and thirty-one were cut.**
+intra-batch      12-grams occurring in 3+ chapters -> 0. Max multiplicity 2.
+vs neighbours    per chapter, shared with 251-260: 12-gram 0,0,0,0,0,0,0,0,0,1. 10-gram 0,0,0,1,0,1,1,0,0,1.
+                 9-gram 1,0,0,1,0,1,1,0,0,1.  8-gram 1,0,0,1,0,1,1,1,0,1.
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 251-270 -> 0.
+intra-chapter    duplicated 5-word-plus sentences inside any one chapter -> 0. Editing-damage scan for
+                 doubled words and stray punctuation -> 0.
+```
+
+### What the gates do not tell you
+
+**A rule invented and then restated from memory was this batch's failure, and it is not a class any gate
+counts.** Three instruments are introduced in ten chapters — a change of auditor of record, the validity of
+a hearing paper, and the day a division acknowledges a change — and each was written once correctly and then
+paraphrased wrongly later. All three are fixed. **The full before-and-after table with anchors is
+`reviews/volume-06/batch-0002.md` §2.**
+
+**Eight hand-traced date and count errors were found in this batch's own first draft**, all fixed, and the
+day map with the full arithmetic is at `reviews/volume-06/batch-0002.md` §2. Two were contradictions with an
+earlier chapter rather than arithmetic errors: *"Thirty years indoors"* invented for Agnete against her canon
+eleven, and **the Bellhouse house at four hundred people in 261 and nine hundred in 263.**
+
+### Canon this batch makes, in
+
+1. **A head may diminish his own household on his own sworn answer, with a week and a broker's signature,
+   and no auditor at all.** The instrument a head may give up a room was always this. **Marguerite Vale told
+   him the truth on the seventh of July and let him stand on a false reason for fifteen days, on purpose,
+   because if she had taken the reason away he would have used it before the seventh of August.** He
+   declined it, it died of its own week on the twenty-ninth, and on the twenty-ninth he wrote the refusal out
+   late and in his own hand, which makes it a refusal rather than a silence.
+2. **The price of giving up a room is that Ines Duarte goes off the paper forever, and there is nothing to
+   contest.** Five in August, no seventh anywhere, no row to dispute, and every figure he has ever sworn
+   matches every figure anybody holds. **It is the only thing anybody in this book has ever wanted, and it
+   costs the only woman he has been protecting.** Sun Meiling worked this out in ninety seconds at a table
+   and said *it is not about me, it has been about her since the seventh of July and I have been pleased about
+   it.*
+3. **An impediment on a certificate is a bar on the certificate, not a bar to certifying, and it comes off
+   by removing the person it is on.** A change of auditor of record takes effect on the day the division
+   acknowledges it, the division acknowledges on the first, and a month has thirty days and no thirty-first.
+   **He signed it on the twenty-sixth. Sun's row goes into ink on the first of September, not the first of
+   August**, and the price is the office.
+4. **A called standing is answered at a valuation, and a valuation is a mark at ten to nine on the first.**
+   The standing lodged on the seventh of June was called on the twentieth at twenty-five minutes past four,
+   while he was swearing seven in a room at Cobb Street. Rask told him on the thirteenth that it would take
+   four quarters. **It took seventeen days from the day she told him.** The floor went up on the thirtieth
+   from 8,141 to **8,142** and he is **four under**, and the mark that keeps the account alive is the
+   valuation at which the standing is answered.
+5. **The quarterly bands go up on the last working day of the quarter, in a shade the square has not had, by
+   a different office and a different hand from the Thursday crew.** The wall said **out of band** in front of
+   about two hundred people and a foreman read it out loud, because a wall is read before it is painted.
+6. **A published security binds everybody who takes from the account afterwards, which is why a guild posts
+   its hold.** Beatrix Halm's name is on the ranks wall in a public shade from the twenty-seventh of July.
+   She wanted it left, not struck, and then she went and stood under the wall to have the song over it.
+7. **A hearing paper runs from the month it was answered in to the end of the month after it.** Runa Sato's
+   paper was answered on the twenty-fourth of June and went stale at midnight on the thirtieth of July.
+   **She was offered the conversion once a week for four weeks by the same instrument the guild reached for
+   over Beatrix and she turned it down herself, out loud, in front of a man who had come to buy it.**
+8. **A reconciliation reads the real book and the broker's own book and publishes where they do not agree.
+   Solveig Rask, 42, names the caller and it is the broker's device, and a device can be cut again by anybody
+   who has held the pen.** The broker's working book and the key to the chained room were in a bag in two
+   rooms from the fourteenth of July to the twenty-eighth. The page comes on **the third of August**, because
+   the last Thursday in July was the twenty-seventh.
+9. **Rask moves from a room to a name.** Four hundred and nineteen days to the annual sitting on the
+   twenty-fourth of July. She will not price the reservoir this month or this year, **but she is now one
+   sentence from describing it** — thirty-one lines in a column and, under the column, one page with a figure
+   on it and two letters at the foot that are his. **She said that on the twenty-fourth and it is closer
+   than it was on the thirteenth.**
+10. **A room that hears Isolde Marchetti agrees, and she is never in a room without it happening.** Her cost
+    is printed on the page for the first time. **In eight feet by seven over a stage door with eight bulbs lit
+    out of eleven, it did not happen, because she decided that it would not.** She is 39 and her scene is
+    Chapter 261 and it is written.
+11. **A verse is an instruction and a song is an argument, and the difference is that a song cannot be
+    refused by the person it is about.** Twenty pence at a box office, a man in a good coat at the office end
+    of a bar on the eighteenth, a standing commission with no date on the card, and *say it exactly, and do
+    not change the number*. The twenty-third's answer named the block by its two names for itself and put
+    **34-6-118** into nine hundred mouths. **The household has been public since Chapter 261.**
+12. **Nadia Ferrous is the only member of a household whose thing is a book.** She has been writing a second
+    copy out by hand one page a night since the nineteenth of July, eleven pages, **the eleventh of which she
+    left blank and put into the book anyway**, because she does not skip a day. **She is the first partner in
+    this book who has asked to be in something rather than on something.**
+13. **Agnete Lindqvist went out on the twenty-third of July, for the second time in eleven years, and on the
+    thirtieth she was in a Square in daylight.** Wren Kallo wrote the date against it in her own book, in her
+    own hand, which is the first date anybody in this city has ever written against anything that has
+    happened to her. **That is a door, not a protection, and Wren said so.**
+
+### Canon this batch makes, out
+
+- **Ines Duarte does not appear.** She is not in this batch and she is not on the page. **The term agreed in
+  the dark on the ninth of July holds and has held for twenty-one days**, and a notice came to Ferrier Street
+  on the thirtieth requiring **the former auditor of record to attend on the second of August at ten** — put
+  there by a division reading a number off a wall, **not by her.** She comes back on her own terms or not at
+  all, and **Chapter 271 is hers.**
+- **The hundred and thirty-fourth mark is not entered in this batch.** It falls at ten to nine on the first of
+  August, one day outside a batch that runs one day per chapter from the twenty-first. Everything that
+  decides it is on the page. **It belongs to Chapter 271.**
+- **Wren Kallo's finding is advanced and not resolved.** Agnete's date is in Wren's own book and Wren's held
+  name and who she has told are untouched. **Ines Duarte's review is not resolved.** **Beatrix Halm's hearing
+  is not resolved** and the guild's hold is still on it. **Runa Sato's hearing goes stale and is not
+  converted and is not resolved** — it is now a date somebody once mentioned.
+- **Sun Meiling's row is not counted.** It is not counted because a change of auditor has to be acknowledged
+  on the first of a month and a month has no thirty-first and the first is a valuation morning. **The first
+  of September is on the page.**
+- **The reservoir is not priced, not described, not classified and not spent. No system panel is due.**
+- **The sixth line on the page in 250 is still not a debt.**
+- **Nothing is routed. Ines Duarte is the first woman he would route it through and the routing has not
+  happened and it is not resolved in ten chapters, as it must not be.**
+
+### What this batch spent
+
+An option closed (**the last room in the city that did not have him in it**, 261) · an option closed (**his
+broker's standing in four divisions**, 264) · an option closed (**the only thing he had left to buy anybody
+with**, 265) · an option closed (**the office that made Ines Duarte certifiable**, 266) · a cost incurred by
+a woman (**Runa Sato refused her own security out loud and her hearing went stale on the thirtieth**, 265) ·
+a cost incurred by a woman (**Marguerite Vale's device on a dated page in four divisions, bought by the man
+she protects**, 264/268) · a relationship moved (**Nadia Ferrous says the book is hers and asks to be in
+something**, 269) · a relationship moved (**Agnete Lindqvist goes out and sleeps on a landing**, 263/270) ·
+a threat raised (**a reconciliation in four divisions with a broker's name on it**, 268) · a rule understood
+well enough to exploit (**an impediment comes off by removing the person it is on**, 266) · a reversal
+(**the thing he has refused twice was available without her hand all along and Marguerite let him think
+otherwise**, 262) · and a loss (**a verse with a door number in nine hundred mouths, 263**).
+
+---
+
 ## Volume 6, Batch 0001 — LIVE GATE RECORD (Chapters 251–260). THE BROKER'S TERMS, THE ELEVENTH TO THE TWENTIETH OF JULY.
 
 > **RE-RUN AFTER INDEPENDENT REVIEW.** The gates below were re-run against the repaired prose on disk and

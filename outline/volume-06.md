@@ -72,7 +72,7 @@ From `outline/volume-05.md` §2 and §5, still true at 251:
 | Chapter | Whose | Gaps |
 | --- | --- | --- |
 | **261** | **Isolde Marchetti.** First scene. **IMMOVABLE.** She is 39. Used as a public instrument against him before she becomes his. | 249 → 261 = 12 |
-| 269 | — | 261 → 269 = 8, the floor |
+| 269 | **The position only. Nadia Ferrous, in the lift. WRITTEN at 269 as a position; the scene is owed inside 269 and Batch 0003 opens on it.** | 261 → 269 = 8, the floor |
 | 279 | — | 269 → 279 = 10 |
 | 289 | — | 279 → 289 = 10 |
 | 299 | — | 289 → 299 = 10 |
@@ -103,9 +103,13 @@ every eight to fifteen chapters is met by 261 and not before.
 > **Movements 3, 4 and 5 ARE UNVALIDATED PLAN.** Volume 6 has no `volume-plan` phase; this file was written
 > by the batch that wrote chapters 251–260, after its own ten chapters, because the batch prompt opened with
 > *"outline/volume-06.md does not exist."* `PHASE_SYSTEM.md` says a writing phase never plans a volume.
-> **§1 to §5 below are written fact, read back off prose that already existed. §6 movements 2 onward are a
-> hypothesis written by the same run that wrote the prose, and no second reader has checked them.** Treat
-> them as a proposal. Movement 1 is fact. Recorded in `reviews/volume-06/batch-0001.md` §6.4.
+> **§1 to §5 below are written fact, read back off prose that already existed.**
+> **Movements 1 AND 2 are now written fact, read back off prose that exists on disk.** Movement 2 was a
+> hypothesis when Batch 0001 wrote it and **Batch 0002 rewrote it in the same commit against what it
+> actually wrote, because `AGENTS.md` says a batch that finds a better answer on the page takes it and
+> rewrites the file.** Movements 3, 4 and 5 remain unvalidated plan written by a run that had tested none of
+> them. Treat them as a proposal. Recorded in `reviews/volume-06/batch-0001.md` §6.4 and
+> `reviews/volume-06/batch-0002.md`.
 
 1. **The Creditors Come In First — 251–260. WRITTEN.** He calls in the debts out loud, one at a time, in
    his house, and every one of them is refused, given, or taken by somebody else. Runa takes a
@@ -117,13 +121,44 @@ every eight to fifteen chapters is met by 261 and not before.
    kitchen table, which had held this house since the twenty-second of March, is bare from that day.**
    **He disputes his own sworn figure of the fourteenth of June in a room with a form number on
    it, and says the number is seven.** Isolde Marchetti sings under the ranks wall and is named.
-2. **The Head May Give Up A Room — 261–270.** *Plan.* **261 is Isolde's scene and the household becomes public.**
-   The offer's second half: what a broker is permitted to do with a head who has gone to the keeper of
-   the real books. The instrument nobody has used — a head may give up a room — comes back, and so does
-   Sun's re-issue, and the only hand that can certify it is a woman at a desk where she is the subject.
-3. **The Examination Passes — 271–280.** *Plan.* **271: Ines comes back, on her own terms, having filed a
-   correction she has not filed yet, and does not live under his roof again.** The Vant's annual sitting
-   is named and dated. The tail on the fourth page. Rask's date.
+2. **The Head May Give Up A Room — 261–270. WRITTEN, and the plan was wrong in two places.** Batch 0002's
+   prompt called this movement *The Broker's Terms* and Batch 0001's review file already corrected the name.
+   **What is on disk:** **261 is Isolde Marchetti's scene and it is Volume 6's first, and the household
+   becomes public in it** — a verse bought for twenty pence at a bar on the eighteenth, in repertory with no
+   date on the card, and he buys a seat at the back of the fifth house rather than keep the one room left that
+   did not have him in it. On the twenty-third the answer names the block and puts **34-6-118 into nine
+   hundred mouths**; on the thirtieth **the band floor goes from 8,141 to 8,142 and the ranks wall says OUT OF
+   BAND in a shade the square has never had.**
+   **Where the plan was wrong, and the page won.** The plan said the instrument's second half was *what a
+   broker is permitted to do with a head who has gone to the keeper of the real books.* **It is not.** The
+   instrument's second half is that **the instrument never needed the auditor of record and never did** — a
+   head may diminish his own household on his own sworn answer, with a week and the broker's signature — and
+   **Marguerite Vale told him the truth on the seventh of July and let him stand on a false reason for
+   fifteen days, on purpose, because if she had taken it away he would have used it.** **The price is Ines
+   Duarte going off the paper forever, which is the only thing anybody in this book has ever wanted and it
+   costs the only woman he has been protecting.** That is a better answer than the plan's and it is what is
+   written. The plan's *and so does Sun's re-issue* is also wrong in its mechanism: the re-issue is blocked
+   not by Ines's refusal but by **an impediment on a certificate being a bar on the certificate rather than a
+   bar to certifying**, and the batch's answer — he signs a **change of auditor of record** on the
+   twenty-sixth, and Sun's row goes into ink on the **first of September** — is the page's.
+   **Solveig Rask moved from a room to a name in this batch, as required**, and the four hundred and thirty
+   days are counted down to **four hundred and nineteen** on the twenty-fourth. **The reservoir is not
+   priced.** It is one sentence closer than it has ever been and she says so.
+   **The third movement must open on Chapter 271, which is Ines Duarte's and is fixed: she comes back on her
+   own terms, having filed a correction she has not filed yet, and she does not live under his roof again.
+   A division's notice of the thirtieth requires the former auditor of record to attend on the second of
+   August at ten, and she did not ask for that.**
+3. **The Examination Passes — 271–280.** *Plan, and Batch 0002 has changed what it starts from.* **271: Ines
+   comes back, on her own terms, having filed a correction she has not filed yet, and does not live under his
+   roof again.** **What 270 hands over, and all of it is on the page:** the hundred and thirty-fourth mark at
+   ten to nine on the first, **which is also the valuation at which the standing lodged on the seventh of June
+   is answered, with one pen in about eleven seconds** · the composition heard on the second at ten with the
+   former auditor of record required to attend · **Solveig Rask's reconciliation on the third of August and a
+   broker's device on a dated page in four divisions** · Sun Meiling's row into ink on the first of September
+   · a plate four under a floor that goes up every quarter, printed on a public wall · Beatrix Halm's hearing
+   with a guild's hold published on it · Runa Sato's stale paper · and the man in the good coat at the bar on
+   the eighteenth of July who said *say it exactly, and do not change the number*. **The tail on the fourth
+   page and the annual sitting's date are still unfixed and a batch may name them.**
 4. **The Figure That Cannot Be Refused — 281–290.** *Plan.* **The reservoir gets a figure on a dated page
    in a book that reconciles**, and the batch that writes it is the batch that pays for it. 289.
 5. **Terms — 291–300.** *Plan.* 299, and Volume 6's answer to `outline/series.md`'s sentence.
@@ -189,27 +224,38 @@ block and every one of the nine groups of shared 12-grams is adjudicated there b
 
 ## 10. Title bank, 251–300
 
-**Batch 0001 took all ten.** Checked against all 260 written titles by command, **no collisions, none over
-ninety characters, none beginning with *What*** — the first ten titles of this volume that do not begin
-with *What* since Volume 4, after three consecutive Volume 5 titles did.
+**Batch 0001 took ten. Batch 0002 took ten more.** Both sets were checked against all 270 written titles by
+command, not by eye. **No collisions, none over ninety characters, and not one of the twenty begins with
+*What*** — the first twenty titles of this volume that do not, after three consecutive Volume 5 titles did.
 
 **251 The One He Named First** (22) · **252 The Charge Against The Schedule** (31) · **253 The Keeper Of
 The Real Books** (28) · **254 The Table Bare** (14) · **255 Twenty-Two Stitches** (19) · **256 Nine Years
 In A Line** (20) · **257 The Only Room She Owns** (22) · **258 One Of The Nine** (15) · **259 The Price
 She Was Never Shown** (29) · **260 The Chair Where She Is The Subject** (34).
 
-**FREE FOR 261–260's successors — 261–300 — and taken titles above are struck and must not be re-issued:**
+**261 The Verse She Did Not Choose** (28) · **262 The Room He Will Not Give Up** (28) · **263 The First Room
+That Agreed With Her** (35) · **264 The Mark In The Broker's Hand** (29) · **265 The Half He Carried In His
+Coat** (31) · **266 The Form Behind A Pencil Row** (28) · **267 Beatrix Reading A Wall Aloud** (28) · **268 The
+Book In Her Own Rooms** (25) · **269 A Cage With A Door On Both Sides** (32) · **270 Eight Thousand One
+Hundred And Forty-Two** (41). **270 is the precedent of Ch 208's *Eight Thousand One Hundred And Thirty-Eight*
+and follows it; forty-one characters against a cap of ninety.**
+
+**FREE FOR 271–300. Taken titles above are struck and must not be re-issued:**
 
 ~~The One He Named First~~ · ~~The Charge Against The Schedule~~ · ~~The Keeper Of The Real Books~~ · ~~The
-Table Bare~~ · ~~Twenty-Two Stitches~~ · ~~Nine Years In A Line~~ · ~~The Only Room She Owns~~ · ~~One Of
-The Nine~~ · ~~The Price She Was Never Shown~~ · ~~The Chair Where She Is The Subject~~ · The Room Given Up
-· A Week And Her Signature · The Head May Give Up A Room · What The Broker Is Permitted · The Annual
-Sitting · The Figure On A Dated Page · The Correction She Has Not Filed · The Second Head Line · The
-Thursday Shade · Nine Inches By Fourteen · The Day Book Gets A Number · A Plate On A Return · The Answer
-Line · What The Audit Room Agreed With · The Dead Letter From A Broker · The Slips From The Counting Room ·
-The Woman Who Counts Everything · Five Debts And A Standing · The Instrument Under The Bread · The Room
-Above A Laundry · The Stair He Would Not Climb · The Fourth Page · A Room That Agrees · The Bellhouse On A
-Thursday.
+Table Bare~~ · ~~Twenty-Two Stitches~~ · ~~Nine Years In A Line~~ · ~~The Only Room She Owns~~ · ~~One Of The
+Nine~~ · ~~The Price She Was Never Shown~~ · ~~The Chair Where She Is The Subject~~ · ~~The Verse She Did Not
+Choose~~ · ~~The Room He Will Not Give Up~~ · ~~The First Room That Agreed With Her~~ · ~~The Mark In The
+Broker's Hand~~ · ~~The Half He Carried In His Coat~~ · ~~The Form Behind A Pencil Row~~ · ~~Beatrix Reading A
+Wall Aloud~~ · ~~The Book In Her Own Rooms~~ · ~~A Cage With A Door On Both Sides~~ · ~~Eight Thousand One
+Hundred And Forty-Two~~ · The Annual Sitting · The Figure On A Dated Page · The Correction She Has Not Filed ·
+The Second Head Line · Nine Inches By Fourteen · The Day Book Gets A Number · A Plate On A Return · The Answer
+Line · The Dead Letter From A Broker · The Slips From The Counting Room · The Woman Who Counts Everything ·
+Five Debts And A Standing · The Instrument Under The Bread · The Room Above A Laundry · The Stair He Would
+Not Climb · The Fourth Page · A Room That Agrees · The Shade Nobody Has Seen · The Word On The Bottom Band ·
+The Number Four Under · What The Page In Her Own Hand Said · The Device In The Pen-Holder · A Woman Who
+Turns Down Her Own Security · The Answer In A Gallery · The Cage And The Bag.
 
-**New names may be coined for 261–300 and must be entered here with a collision check against all 260
-written titles. *An Hour Late* (236) and *Twenty-Two Stitches* (255) are the precedents.**
+**New names may be coined for 271–300 and must be entered here with a collision check against all 270 written
+titles. *An Hour Late* (236), *Twenty-Two Stitches* (255) and *Eight Thousand One Hundred And Forty-Two*
+(270) are the precedents.**
