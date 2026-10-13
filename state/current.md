@@ -6,20 +6,119 @@
 `state/archive/current-v1-v2.md` on the Batch 0005 review repair, and Volume 3's to
 `state/archive/current-v3.md`. Nothing was deleted. If you need a Volume 1, 2 or 3 fact, the archive is one
 read away; you do not pay for it on every prompt.
-1. **The head block, Volume 5 Batch 0005** — where the book is. **Volume 5 Batch 0004's, Batch 0003's,
-   Batch 0002's and Batch 0001's head blocks are retained below it, superseded.**
-2. **The Volume 4 close block, Volume 4, Batch 0005**, retained below, condensed.
+1. **The head block, Volume 5 Close** — where the book is. **Volume 5 Batch 0005's, Batch 0004's,
+   Batch 0003's and Batch 0002's head blocks are retained below it, superseded.** **Batch 0001 and
+   Volume 4 have no head block in this file** — their close records are in
+   `state/archive/open-threads-v1-v4-batch-gates.md` (Batch 0001 at its line 1412, the Volume 4 close
+   record at its line 1086). Do not hunt for them here. A retained block that says *Next phase to run:*
+   is describing the moment it was written and has been superseded; the head block above is the position.
+2. **The Volume 4 close record** — archived, not retained here. `state/archive/open-threads-v1-v4-batch-gates.md`.
 3. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
    re-open any of them; the reasoning is in the archive.
 4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
-**Last written:** **Volume 5, Batch 0005 — Chapters 241–250 (The First of July and After), written,
-closed, and REPAIRED ON INDEPENDENT REVIEW. VOLUME 5 IS CLOSED IN PROSE at Chapter 250.** The next phase
-is the volume close, and its prompt is at `workspace/volume-05/close/PROMPT.md`.
+**Last written:** **Volume 5 Close — the volume audited, the record written, Volume 6 opened at Batch
+0001. VOLUME 5 IS CLOSED AND AUDITED at Chapter 250.** The next phase is **Volume 6, Batch 0001**
+(Ch 251–260, *The Broker's Terms*) and its prompt is at `workspace/volume-06/batch-0001/PROMPT.md`.
+**The Volume 5 close phase has run and is finished. Do not wait on it and do not re-open it** — a
+reviewer caught this file still naming it as pending, and that is what prompted the correction.
+**One prose repair against Chapter 250 is outstanding and delegated to Batch 0001; see the head block.**
 
 ---
 
-# VOLUME 5, BATCH 0005 — HEAD RECORD. CHAPTERS 241–250. THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.
+# VOLUME 5 CLOSE — HEAD RECORD. CHAPTERS 201–250, THE AUDITOR'S PRICE. VOLUME 5 CLOSED AND AUDITED.
+
+> **THE CLOSE PHASE HAS RUN AND IT IS FINISHED.** It wrote no chapter, which is what its charter
+> required, and it spent its run proving the volume finished rather than extending it. Its record is the
+> gate block at the foot of `state/open-threads.md`; its hand-off is
+> `workspace/volume-06/batch-0001/PROMPT.md`. An independent review of the close pass sits at
+> `logs/close.review.log` and **re-ran every number in that block against the disk.** Nothing in
+> Batch 0005's own block below is superseded as prose; it is superseded only as *where the book is*.
+
+**WHAT THE VOLUME PROMISED AND WHAT IT PAID.** `outline/series.md`: *Lin Hao must keep Ines Duarte off
+his file while she starts wanting to be off her own.* **Answered, not restated** — she is never asked
+about in 231–245, and the only thing done to her there is an extract that takes her off the wrong paper.
+She files the true report herself in 246, in her own hand, and the division's entry goes up against her
+alongside it. **The volume's real sacrifice is hers.**
+
+**THE POSITION AT CHAPTER 250 — EVERY FIGURE ON THE PAGE.** Plate **8,138**, floor **8,141**, tolerance
+**three**. Ledger **118 lines, nine turned, the ninth still himself**. **Nothing spent.** File **4,112**,
+one folio open, no second. **No classification, no rank earned, no rank lost.** He wants rank nine and has wanted
+it since the first month, and he has spent nothing on it. **Zero system panels** — nothing has been
+drawn from the reservoir in two hundred and thirty chapters, and a zero here is structural, not a regex
+artefact. Seven women on the cut roll; **Petra Ilyin on no roll since 4 June, thirty-six days on the
+tenth**; **Wren Kallo on nothing at any time and the eighth partner**; **Agnete Lindqvist on no list at
+all**; **Ines Duarte out of the flat and still in it on paper, with a true document behind her.** **Five
+debts stand and the pricer is out. A sixth line sits on the page in 250 and it is not a debt** — it is
+his standing instruction, it has no figure against it, and no office in the city will ever invoice it.
+**Do not convert it into a debt to make the count tidier.**
+
+**THE IRREVERSIBLE DECISIONS ARE 217, 224, 238 AND 243.** The last is the one Volume 6 inherits. On the
+third of July, at the north desk, **Marguerite Vale offers him the only thing she is permitted to offer a
+head: say the word on or before the twelfth and she will leave the first of August docket unmarked** —
+plate back, dead list on the fourth of August, Beatrix Halm off the guild's tail, the fourth page struck
+and burned. She will not put it in front of him again in the life of the account. He refuses in writing,
+instructs that every docket be marked including the first of August, and the clerk enters the standing
+instruction with the hour under it and two officers behind him in the queue. **It is priced against the
+FIRST OF AUGUST docket, not the fourth** — the mark on the first had already made the fourth quiet, so a
+decision about the fourth had nothing left to decline. He closes the option for the life of a thirty-year
+account and pays in three currencies: the plate stays lodged past freeing, Beatrix carries the tail into
+a year with no price left to strike it with, and the standing instruction will be read at the
+examination in about four years **in his hand and not hers**.
+
+**THE TWO UNWRITTEN DATES ARE THE NEXT VOLUME'S.** **The twelfth of July is unwritten** — two days past
+the close — and the broker's offer expires by the operation of a date and a broker's standing, with
+nothing said on it. **The first of August** is the first docket his standing instruction governs, and
+whether a lodged standing can be called before the book changes hands is an open question. Both fall
+inside Batch 0001's window and both are already paid for in chapters on disk.
+
+> **ONE PROSE REPAIR IS OUTSTANDING AGAINST CHAPTER 250, AND IT IS DELEGATED, NOT DONE.**
+> `chapter-0250.md:91` and `:95` put the closing montage on *"the last night of July"* — the thirty-first —
+> while `:3` dates the chapter to the **tenth** and `:93` derives *"Sixteen days … Seventeen now"* from
+> Wren's finding of 23 June, a count valid only on the tenth. **Root cause: Batch 0005's review finding 2
+> removed the meta string `on the last night of the volume` by substituting `July` for `volume` — right
+> about the meta, wrong about the date.** The last night of July is twenty-one days past the chapter's own
+> date and nineteen past the unwritten twelfth, at a point where the volume's own hook says the twelfth is
+> two days out and unanswered. Every other chapter in 241–250 is a strict single day; **250 is the only
+> one that sweeps.** The close phase may not write chapters, so the repair is carried as **the first task
+> of `workspace/volume-06/batch-0001/PROMPT.md` §2**, which names both lines and both forms of the phrase.
+> **Do not treat Volume 5 as closed-and-final until Chapter 251 exists and that repair is on disk.**
+
+**A NAMED RISK, SO IT CANNOT BE LOST.** The delegation above means **Volume 5's closure is not final
+until 251 runs.** Mutating a closed volume's chapter is outside a batch's own scope by `AGENTS.md`, is
+carved out explicitly in the hand-off, and was the only available path — but the consequence is that if
+Volume 6 Batch 0001 is deferred or blocked, a known defect sits in a closed volume indefinitely with
+nobody holding it. **This block is where the next phase will find the responsibility.**
+
+**A PROVENANCE CORRECTION, SO IT IS NOT INHERITED AS FACT.** `outline/volume-05.md` §6 movement 5 says
+*"Ch 246 is fixed by `outline/series.md`."* **It is not.** `outline/series.md` fixes that **Ines leaves in
+Volume 5** (line 41, with the reason) and that Volume 5 is *"a woman deciding whether she can be with a
+man she has to audit"* (line 104). The chapter number, the filed true report and the walkout of a flat she
+is still in are Volume 5's own decisions, recorded here and in `state/open-threads.md`. **Nothing in the
+chapter is wrong; the outline over-claims one level of authority. No volume outline pins a chapter number
+except the scene table in `outline/series.md`.**
+
+**THREE NUMBERS IN THE CLOSE RECORD THAT A LATER WRITER MUST NOT INHERIT.** **Markup is 1, not 0** — one
+italic at `chapter-0245.md:39`, which `AGENTS.md` permits as sparing emphasis; bold, blockquote, table,
+rule and code are all genuinely 0. **Cross-batch 12-gram overlap re-runs at 250, not 290**, counted as
+distinct 12-grams occurring in 241–250 that also occur in any earlier chapter; the 290 is a different
+denominator and **neither figure is a scene-duplication signal** — both scene scans are zero. **A
+six-word duplicate-paragraph gate returned 0 and there are two exact repeats below that floor** —
+`"Eat," he said.` at 238, 242 and 245, and `"It stands," he said.` at 240 and 246. **Read for scenes, not
+for paragraphs, before believing a clean duplicate count.**
+
+**WHAT VOLUME 6 OPENS ON, AND IT IS NOT A CLEAN SLATE.** Plate 8,138 against a floor of 8,141. Five
+debts unpriced and no pricer in the room. A woman's term — *no paper is read to her in her own rooms* —
+agreed in the dark, which cost him the only thing he has, because paper is how he holds a house; **he
+will break it or keep it and the batch must not settle that in its first chapter.** Solveig Rask, 42,
+keeper of the Vant's real books, is named and may enter as a person but **may not price the reservoir in
+Batch 0001.** Scenes are fixed at 261, 269, 279, 289 and 299, **so there is no scene between 251 and 260
+and this batch must not write one.** **Volume 6 Batch 0001 inherits every do-not-open and do-not-close in
+`outline/volume-05.md` §7 unchanged, because there is no `outline/volume-06.md` yet.**
+
+---
+
+# VOLUME 5, BATCH 0005 — HEAD RECORD (SUPERSEDED AS TO POSITION). CHAPTERS 241–250. THE FIRST OF JULY AND AFTER.
 
 > **REPAIRED ON INDEPENDENT REVIEW.** An independent review returned 11 findings and 5 minors and **all
 > are fixed.** The adjudication is in `reviews/volume-05/batch-0005.md`; the reviewer's own log stays at

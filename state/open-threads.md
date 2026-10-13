@@ -153,3 +153,30 @@ off his file for the whole of it and she is the one who wanted off her own.
 dateline defect above as its first repair, inherits all of `outline/volume-05.md` §7 unchanged because
 **there is no `outline/volume-06.md`**, and repeats the whole gate list with the two failures Batch 0004
 and Batch 0005 got wrong written into it as standing instructions.**
+
+**THE REPAIR IS TWO LINES, NOT ONE, AND THE HAND-OFF NOW SAYS SO.** An independent review of this close
+pass (`logs/close.review.log`) confirmed the defect and found the hand-off's own §10 under-stating it as
+*"one phrase."* **The error is printed twice in two forms: `:91` carries the whole phrase `on the last
+night of July` and `:95` carries the bare `on the last night` in the same register.** A writer reading §10
+alone could license one edit and leave the chapter sweeping. Corrected in three places: §2's heading now
+reads **TWO LINES**, §2 names both lines and both forms and marks `:93`'s day count as the one thing to
+keep, and §10 carries the same. **`:97` is clean — *after eleven* works on any night — and Batch 0001 must
+change no other sentence.**
+
+**ACCEPTED RISK, NAMED SO IT CANNOT BE LOST.** Ordering the first Volume 6 batch to mutate a closed
+volume's chapter is outside a batch's own scope by `AGENTS.md`, is carved out explicitly in the hand-off,
+and was the only available path because the close phase may not write chapters. **The consequence is that
+Volume 5's closure is not final until Chapter 251 runs.** If Volume 6 Batch 0001 is deferred or blocked,
+a known defect sits in a closed volume indefinitely with nobody holding it. **The live gate block for that
+batch, and the Volume 5 Close head block in `state/current.md`, are where the responsibility is recorded.**
+
+**`state/current.md` IS NOW BROUGHT CURRENT.** This review also found it stale: its `Last written` block
+still read *"The next phase is the volume close, and its prompt is at `workspace/volume-05/close/PROMPT.md`"*
+after the close had run and produced the Batch 0001 hand-off. `PHASE_SYSTEM.md` §"The volume close"
+defines the close record as writing the resolution into the state files **and** creating the next planning
+phase, and only the second half had run — every batch prompt tells its writer to read `state/current.md`
+first, so Batch 0001 would have opened on a record claiming the book was waiting on a finished phase.
+**Corrected on the review-fix pass: the index and `Last written` now name Volume 6 Batch 0001, and a
+Volume 5 Close head record carries the position, the irreversible decision, the delegated repair and the
+risk above.** Batch 0005's own head block is retained below it, superseded only as to position and not as
+to prose. No chapter was written, restarted, or altered by that pass.

@@ -45,7 +45,7 @@ any of them.**
 
 ---
 
-## 2. THE FIRST REPAIR, AND IT IS ONE LINE IN THE CHAPTER BEFORE THIS ONE
+## 2. THE FIRST REPAIR, AND IT IS TWO LINES IN THE CHAPTER BEFORE THIS ONE
 
 **`chapters/volume-05/chapter-0250.md:91` and `:95` are wrong and Volume 5's close pass could not fix
 them.** The chapter is dated the tenth of July and re-anchors to the tenth at `:93` — *"Sixteen days the
@@ -56,12 +56,18 @@ stripped the meta string `on the last night of the volume` by swapping `volume` 
 right about the meta and wrong about the date. **Volume 5's closing image now happens on the thirty-first,
 at a point where the volume's own hook says the twelfth is two days out and unanswered.**
 
-**Repair it as the first thing this batch does, before writing 251.** Change the phrase so the closing
-montage sits on the tenth of July like every other chapter in 241–250 — all nine others are a strict
-single day, and 250 is the only one that sweeps. Do not add a paragraph of explanation, do not move the
-dateline, do not renumber anything, and change no other sentence in the chapter. Then record the repair in
-`reviews/volume-06/batch-0001.md` and in the live gate block. **If you think the phrase should stay, say
-so in the review file with the argument — but you may not leave it and say nothing.**
+**Repair it as the first thing this batch does, before writing 251. Fix both lines, not one.**
+`:91` carries the whole phrase **on the last night of July** and `:95` carries the bare **on the last
+night** in the same register, so the error is printed twice in two forms. `:97` is clean — *after eleven*
+works on any night — and lines above and below are clean. **A repair that catches `:91` and leaves `:95`
+leaves the chapter still sweeping, and leaves a bare *the last night* with no date attached to it.** Move
+both so the closing montage sits on the tenth of July like every other chapter in 241–250 — all nine
+others are a strict single day, and 250 is the only one that sweeps. Keep `:93`'s *"Sixteen days … Seventeen
+now"*, which is correct on the tenth and is the count that proves it. Do not add a paragraph of
+explanation, do not move the chapter's dateline at `:3`, do not renumber anything, and change no other
+sentence in the chapter. Then record the repair in `reviews/volume-06/batch-0001.md` and in the live gate
+block, with both line numbers. **If you think the phrase should stay, say so in the review file with the
+argument — but you may not leave it and say nothing.**
 
 **A second provenance correction, so you do not inherit it as fact:** `outline/volume-05.md` §6 movement 5
 says *"Ch 246 is fixed by `outline/series.md`."* It is not. `outline/series.md` fixes that Ines leaves
@@ -311,7 +317,9 @@ Check by command against every file in `chapters/`, not by eye. Enter all ten in
 ## 10. WHAT NOT TO DO
 
 - Do not touch any chapter before 251 or after 260. **Chapter 250 is not yours except for the §2 repair**,
-  and that repair is one phrase.
+  and that repair is **two phrases on two lines — `:91` and `:95`, in two different forms — and it is your
+  first task before you write 251.** Fixing one and not the other leaves a closed volume sweeping a date
+  it left twenty-one days earlier.
 - Do not write a scene. There is none in this batch and the budget forbids one.
 - Do not break Ines's term in the first chapter, and do not let him keep it without the batch making it
   cost him something.
