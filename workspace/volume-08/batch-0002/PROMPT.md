@@ -2,8 +2,9 @@
 
 Write **ten finished chapters, in order**, into `chapters/volume-08/chapter-0361.md` through `chapter-0370.md`.
 
-**Chapters 351–360 are on disk and Batch 0001's review is in the same commit as its chapters. Do not rewrite
-them and do not touch any chapter outside 361–370.**
+**Chapters 351–360 are on disk and Batch 0001 has been reviewed and repaired: the eleven findings are fixed in
+the prose, in `outline/volume-08.md` and in the gate block at the top of `state/open-threads.md`, and that block
+is the audited position on 351–360. Do not rewrite them and do not touch any chapter outside 361–370.**
 
 `outline/volume-08.md` is in two registers and the register is printed on its face. **§1 to §5 are written fact
 derived from Chapters 301–350. §6 movement 1 has now been REWRITTEN AGAINST CHAPTERS 351–360 and is written
@@ -142,7 +143,11 @@ there.**
 month and of the quarter. NO INTERVAL MAY BE DERIVED AGAINST A REAL CALENDAR. SUBTRACT DAY NUMBERS.** 361 the
 twenty-seventh of January · 362 the thirtieth · 363 the first of February · 364 the fourth · 365 the sixth · 366
 the ninth · 367 the eleventh · 368 the fourteenth · **369 the sixteenth, the scene** · 370 the twentieth. 363 is
-ten days after 362 and not nine; 364 is three days after 363 and not four.
+ten days after 362 and not nine; 364 is three days after 363 and not four. **Batch 0001's review found four
+interval and calendar defects in ten chapters and every one was local arithmetic — a thirty-first that does not
+exist, six weeks printed as ten, and a day count that invoked the thirty-day month and then broke it in the
+same sentence. Compute every interval twice, once by subtracting day numbers and once by naming the month
+boundaries you crossed, and if the two disagree you have the same bug.**
 
 **VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** Not Monday, not Friday, not Saturday, not Thursday. **Write the
 date.** All seven, whole-word and substring, zero, across all ten chapters.
@@ -151,7 +156,17 @@ date.** All seven, whole-word and substring, zero, across all ten chapters.
 Ruis, Mrs Imrie, Wanda Rej and Herta Vogel have no age fixed anywhere and none may be given.** **The man who was
 in the fourth seat is named in this batch for the first time and HE HAS NO AGE, and neither does the man who was
 in the third seat, and no batch may give either of them one.** Tessa Okonkwo, Beatrix Halm, Nadia Ferrous and
-Isolde Marchetti all appear in this batch and none of them gets one.
+Isolde Marchetti all appear in this batch and none of them gets one. **Runa Sato's turn on an age is the trap
+that actually caught Batch 0001: she stood at a Field counter and said she had known something *since she was
+twenty-one*, which `bible/characters.md` confirms at twenty-nine and which is therefore true and still
+forbidden. A span of years is permitted — eleven years of work, four hundred filing runs, nine years of a
+trouble — and an age is not. If a character's seniority matters, print the span.**
+
+**Sun Meiling has no brother, no sister and no sibling of any kind.** `bible/characters.md` gives her none.
+Lin Wei is **Lin Hao's** brother and was her research partner, and she has said so on the page at 63 and at 70.
+She may say *your brother* and she may say *Lin Wei*; **any batch that puts a brother in Sun Meiling's mouth
+is a canon error and the line comes out.** This is not a matter of taste — `outline/volume-08.md` §1 point 7
+carried *her brother* for two planning phases before 358 put it into dialogue on the page, and it was cut.
 
 **Nothing spent.** No grain, no draw, no route, no second folio, no settle clock, no settle date. **The string
 `settle` must not appear in any of the ten files.** A panel is due only in a chapter that turns on the ledger,
@@ -163,19 +178,29 @@ for this one as well.**
 **exclusive of both**, and probe it with the explicit-vocabulary list from `reviews/volume-07/`
 (mouth · came · inside · hair · thighs · tongue · finger · wet · cock · shaft · breast · nipples · gasp · lick ·
 hip · come), and put **both** figures in the gate row. **Under about nine hundred and you have not written the
-scene.** Batch 0001's 358 body is 2,934 words and probes 46; a scene that is shorter than 1,500 needs a reason
+scene.** Batch 0001's 358 body is 2,929 words and probes 46; a scene that is shorter than 1,500 needs a reason
 and a shorter one than 900 is a fade.
 
 **Duplication.** Run the **12-gram scan first**, against every chapter file in `chapters/` including your own
 ten, and again after every repair round. **State the tokenisation and the scope with the figure.** Batch 0001's
 scope was *the ten Volume 8 files against every other chapter file in the book and against each other*, tokenised
 by stripping markdown heading marks, folding em dashes and curly quotes, turning `*` `[` `]` `_` and every
-non-alphanumeric to a space, lowercasing and splitting on whitespace. **Batch 0001 finished at 30 matches
-involving Volume 8 and they collapse to THREE deliberate returns, and the file names all three:**
-the standing answer at 352 · the tick sentence at 355 · his own words of the twenty-ninth of December at 356.
-**Batch 0001's first pass returned 131 and thirty-one of those were a principle re-explained from Volume 7.
-That is the failure mode to avoid. Do not restate a rule the reader has already been given; restate what
-happened instead.**
+non-alphanumeric to a space, lowercasing and splitting on whitespace. **Batch 0001 finished at 31 matches
+involving Volume 8 and they collapse to THREE deliberate returns, and the file names all three** —
+13 of the 31 the standing answer at 352 · 11 of the 31 the tick sentence at 355 · 7 of the 31 his own words of
+the twenty-ninth of December at 356. **Batch 0001's first pass returned 131 and thirty-one of those were a
+principle re-explained from Volume 7. That is the failure mode to avoid. Do not restate a rule the reader has
+already been given; restate what happened instead.**
+**AND THE REVERSE TRAP, WHICH A REPAIR CAN SPRING:** when you fix a defect by borrowing a phrase that is already
+on the page, you have bought accuracy with duplication. Batch 0001 dated a night by lifting the closing words
+of Chapter 350, the twelve-gram count went 31 to 33, and it was reworded to the idiom the book already uses for
+that night elsewhere. **After every repair, run the count again. A repair that moves the number is not done.**
+
+**A count inside a speech needs a referent.** Batch 0001 printed *the four of us who sign a line about it* in a
+room where eight hands had signed the witness line three paragraphs earlier, and then had a woman say *I am the
+only one of the eight who has never signed anything about him and I signed this one* inside a single breath. If
+a number is in a character's mouth, the reader must be able to point at the thing it counts. If a sentence
+negates itself, it is either a chiasmus and it has to be built to land, or it is a fault.
 
 **And then run the gate the twelve-gram cannot see: borrowed bodies.** Volume 7 shipped three duplicated body
 details and the twelve-gram found one match in the whole volume. **`outline/volume-08.md` §4 carries the table
@@ -184,8 +209,8 @@ of marks every woman on this page already owns, and it has been updated with wha
 zero times in the book and Volume 8 keeps it at zero. **The grey temple is his cost and it is at the LEFT.**
 
 **Counting.** `cat chapters/volume-08/*.md | wc -w` **will undercount by one word per file that lacks a trailing
-newline.** All ten of Batch 0001's files were given one and the two figures agree at 22,606. **Do the same to
-yours and count per file and sum.**
+newline.** All ten of Batch 0001's files carry one, and after the review fixes the two figures agree at
+**22,629**. **Do the same to yours and count per file and sum.**
 
 **A gate record is a claim.** Everything written into the gate block at the head of `state/open-threads.md` was
 produced by the pass that wrote the prose. **Re-run every figure from outside, after your last edit, and record

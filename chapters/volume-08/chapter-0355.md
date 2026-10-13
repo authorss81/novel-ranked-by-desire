@@ -42,7 +42,7 @@ Sun Meiling spoke without taking her glasses off.
 
 "I know."
 
-"You have known it since the twenty-seventh of November and you have been waiting ten weeks for a room full of women to do a thing that would have taken you eleven minutes." She put the glasses on. "And they are not going to, and you are not going to be angry with them, and I am going to say why in one sentence and then not again."
+"You have known it since the twenty-seventh of November and you have been waiting six weeks for a room full of women to do a thing that would have taken you eleven minutes." She put the glasses on. "And they are not going to, and you are not going to be angry with them, and I am going to say why in one sentence and then not again."
 
 "Anybody who puts a hand to this has her name on it, and there have been enough hands on paper about you in this house already this year."
 

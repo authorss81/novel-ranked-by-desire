@@ -1,4 +1,4 @@
-# VOLUME 8 BATCH 0001 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 351–360 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+# VOLUME 8 BATCH 0001 GATE RECORD — 13 OCTOBER 2026, RE-RUN AT THE REVIEW-FIX PASS. CHAPTERS 351–360 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
 
 **Everything below the figures was written by the pass that wrote the prose and is therefore a claim. It was
 re-run from outside that pass after the last edit to the last chapter file, and the figures in the block are
@@ -6,24 +6,29 @@ the figures the re-run returned, with the command beside them. `outline/volume-0
 is a claim; the re-run outranks the record. The Volume 8 planning gate record and the Volume 7 close gate record
 are below and are retained in full as history.**
 
-## Gates, re-run by command on 13 October 2026 against the files as they stand after the last edit
+**A REVIEW-FIX PASS RAN AFTER THIS BLOCK WAS FIRST WRITTEN AND FOUND ELEVEN DEFECTS IN IT AND IN THE PROSE.
+EVERY ONE IS REPAIRED, EVERY FIGURE BELOW WAS RE-RUN AFTER THE REPAIRS, AND THE WHOLE BLOCK HAS BEEN
+REWRITTEN TO WHAT THE RE-RUN RETURNS. The list of what changed is at the foot of this block, under
+`REVIEW-FIX PASS`. The figures that moved: the word count, the per-file word counts, the scene body, the
+twelve-gram total and its split, and the age gate, which was FALSE AS WRITTEN.**
+
+## Gates, re-run by command on 13 October 2026 against the files as they stand after the review fixes
 
 ```
 FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0360.md, ten files, no gap and no file
                  outside that range.  `ls chapters/*/chapter-*.md | wc -l` -> **360.**
                  **No chapter 361 exists anywhere in the repository.**
-VOL 8 WORDS      **22,606, counted per file and summed.**
-                 `cat chapters/volume-08/*.md | wc -w` -> **22,606**, which agrees this time **because all ten
-                 files were given a trailing newline by this pass.** Volume 7's concatenation returned 107,439
-                 against a true 107,477 for exactly this reason and the trap is still armed for any volume whose
-                 files lack one. **Count per file and sum.**
-                 Per file: 351 **2,171** · 352 **2,235** · 353 **1,734** · 354 **2,246** · 355 **1,768** ·
-                 356 **1,733** · 357 **1,883** · 358 **4,003** · 359 **2,232** · 360 **2,601**.
+VOL 8 WORDS      **22,629, counted per file and summed.**
+                 **Count per file and sum. NEVER from a concatenation.** Volume 7's `cat chapters/volume-07/*.md
+                 | wc -w` returned 107,439 against a true 107,477 for exactly this reason — files without a
+                 trailing newline — and the trap is still armed for any volume whose files lack one.
+                 Per file: 351 **2,167** · 352 **2,240** · 353 **1,734** · 354 **2,245** · 355 **1,768** ·
+                 356 **1,733** · 357 **1,890** · 358 **3,998** · 359 **2,260** · 360 **2,594**.
                  **358 IS THE ONLY CHAPTER OUTSIDE THE 1,800–2,700 BAND AND IT LEAVES IT DELIBERATELY:**
                  it is the volume's only scene so far, it carries a plot hinge (a woman reads her own
                  three-year-old draft out loud and refuses to summarise it) and the scene itself, and Volume 7's
-                 four long scenes ran 2,938 to 3,900. It is 103 words past Volume 7's longest and 157 words
-                 under nothing at all. **The body of the scene is counted and probed separately — see below.**
+                 four long scenes ran 2,938 to 3,900. It is 98 words past Volume 7's longest.
+                 **The body of the scene is counted and probed separately — see below.**
 TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
                  **360 title lines, 360 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
                  The ten at 351–360 are printed exactly as banked in `outline/volume-08.md` §10 and none was
@@ -35,56 +40,77 @@ MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · cod
                  360, and the standing answer of 350 quoted once in 352.
 PARAGRAPHS       over roughly 90 words: **0**.  over roughly 120 words: **0**.  Longest paragraph in the ten
                  is **89** words, in 351.  Measured by a reporter that prints lengths and writes nothing.
-                 **LINE-BOUNDARY CHECK, RUN FIRST AND AGAIN AFTER EVERY HAND SPLIT: 0 headings and 0 system
-                 panels without a blank line above them, 0 trailing spaces, 0 files unbalanced for quotation
-                 marks, and 0 paragraphs with an odd number of quotation marks — no speech runs across a
-                 paragraph break.** This pass split forty-four paragraphs by hand to get under ninety words and
-                 re-opened every one of them afterwards.
+                 **LINE-BOUNDARY CHECK, RUN FIRST AND AGAIN AFTER EVERY HAND SPLIT AND AGAIN AT THE REVIEW-FIX
+                 PASS: 0 headings and 0 system panels without a blank line above them, 0 trailing spaces, all
+                 ten files end in a newline, and 0 paragraphs with an odd number of quotation marks — no speech
+                 runs across a paragraph break.** The first pass split forty-four paragraphs by hand to get
+                 under ninety words and re-opened every one of them afterwards.
 SYSTEM MESSAGES  **exactly one in the whole batch, in 353.** Every other chapter carries none. It is on its
                  own line, in square brackets, not bold, not italic, and it reports in people and in figures
                  and carries no date of any kind:
                  `[Ledger. One hundred and twenty-five lines. Nine turned. The split has not been published.]`
 WEEKNAMES        `grep -rniE "monday|tuesday|wednesday|thursday|friday|saturday|sunday" chapters/volume-08/`
-                 -> **no lines. Seven of seven, whole-word and substring, zero.**  A weekday was in the first
-                 draft of four chapters and all four were found and cut before the record was written.
+                 -> **no lines. Seven of seven, whole-word and substring, zero.**
 SETTLE           `grep -rn "settle" chapters/volume-08/` -> **no lines.**  Nothing spent, nothing drawn,
                  nothing routed, no folio, no second folio, no requisition laid, served, sealed or carried.
-AGES             No chapter announces an age. **Hanneke Ruis is still the one woman with no age fixed
-                 anywhere and none was given to her; Solveig Rask, Alma Quayle, Anouk Ferreira, Isolde
-                 Marchetti, Nadia Ferrous and Beatrix Halm are all referred to without one.** A year, `1974`,
-                 was in the first draft of 360 and was cut.
+AGES             **No chapter announces an age. THE FIRST VERSION OF THIS LINE WAS FALSE:** Runa Sato stood
+                 in 354 and said she had known the difference between a standing order and a warrant *since
+                 she was twenty-one*, and the gate as first written said the age list was clean. It was not.
+                 **`bible/characters.md` fixes Runa Sato at 29, so twenty-one was not *wrong*, it was a
+                 forbidden disclosure and it is now cut, replaced by the elapsed span *for eight years*, which
+                 preserves the same eight years and announces nothing.** **Hanneke Ruis is still the one woman
+                 with no age fixed anywhere and none was given to her; Solveig Rask, Alma Quayle, Anouk
+                 Ferreira, Isolde Marchetti, Nadia Ferrous and Beatrix Halm are all referred to without one.**
+                 Two things were in the first drafts and were cut before this record was written: a year,
+                 `1974`, in 360, and this age in 354.
 BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know
                  **0** · there is no form **0** · there is no column **0** · the record remained **0** ·
                  nobody asked **0** · nobody was thanked **0**.  **Nine of nine, in Volume 8.**
-                 *there is no column* and *nobody asked* were both in the first draft and both were cut.
 12-GRAM          **Scope: the ten Volume 8 files against every one of the other 350 chapter files in
                  `chapters/`, and against each other. Tokenisation: markdown heading marks stripped, em dashes
                  and curly quotation marks folded, `*`, `[`, `]`, `_` and every non-alphanumeric turned to a
                  space, lowercased, split on whitespace, empty tokens dropped.**
-                 **30 cross-chapter matches involving Volume 8, and they collapse to THREE deliberate returns,
-                 which is the answer the gate is meant to leave standing:**
+**31 cross-chapter matches involving Volume 8, and they collapse to THREE deliberate returns,
+                 which is the answer the gate is meant to leave standing. THE FIGURE IN THE FIRST VERSION OF
+                 THIS BLOCK WAS 30 AND IT WAS WRONG; it is 31, re-run by the review-fix pass, and the reviewer
+                 reached 31 independently. Note that the reviewer's own prose split of `14 / 10 / 7` did not
+                 match the list it printed underneath it, which reads 13 / 11 / 7 and sums to 31. The re-run
+                 below is 13 / 11 / 7 and it agrees with the reviewer's list, not with the reviewer's summary:
                  1. **The standing answer**, `you may not put one question to me about that address and I will
-                    say I do not know what you are talking about`, 350 to 352. Ten of the thirty n-grams. The
+                    say I do not know what you are talking about`, 350 to 352. **13 of the 31 n-grams.** The
                     batch card requires the reader to be shown what it would have cost him to ask, and the
                     only way to show it is to put the sentence in the room.
                  2. **The tick sentence**, `the tick is against the held-by line and it is the only tick on the
-                    whole of the four parts`, 343 to 355. Ten of the thirty. The batch card requires him to say
+                    whole of the four parts`, 343 to 355. **11 of the 31.** The batch card requires him to say
                     it out loud at the kitchen table and this is the sentence he says.
                  3. **His own words from sixteen days earlier**, `I am the man at the top of this page and I will
                     answer for it` and `a reason clause in four seconds and a whole page in a year`, 348 to 356.
-                    Ten of the thirty. 356 quotes them on purpose and the text says so — *he said it the way he
+                    **7 of the 31.** 356 quotes them on purpose and the text says so — *he said it the way he
                     had said it on the twenty-ninth of December, in the same words* — because the chapter is
                     about a man refusing to write them a second time.
-                 **The first pass returned 131 matches involving Volume 8, not 30.** Thirty-one of them were a
+                 **13 + 11 + 7 = 31, and there is no fourth group.** **The first pass returned 131 matches
+                 involving Volume 8, not 31.** Thirty-one of them were a
                  principle re-explained from Volume 7 — the service rule at 348 into 357 and again into 359,
                  the cost of a witness line at 348 into 354 and into 357, the file rule at 70 three times over,
                  the composition rule at 316 twice, the song's reason clause at 310. **Every one was cut and
                  reworded. `AGENTS.md`: do not re-explain a principle the reader already knows.**
-11-GRAM          54 involving Volume 8, and they are the same three passages plus their immediate contexts.
-8-GRAM           493 involving Volume 8, and the reportable figure is the connective tissue of the book —
-                 *and I am not going to tell you*, *she said it without any weight at all*, *there is no office
-                 in this city that* — which is the voice and not duplication.  **None of the 493 is between two
-                 scenes.**
+                 **THE REVIEW-FIX PASS ADDED NONE.** Repairing the thirty-first at 352 by putting the date in
+                 words rather than as a calendar figure produced, in a first attempt, a fourth group — the
+                 phrase `to two in the morning of the last night of the year`, lifted from 350's closing
+                 sentence — and the re-run caught it at 33. **It was reworded to `a quarter to two in the
+                 morning on the night of the thirtieth of December`, which is the book's own established
+                 idiom for that night at 350:3, and the count came back to 31.** A repair must not buy the
+                 accuracy of a date with a new piece of duplication.
+ 11-GRAM          **56** involving Volume 8, and they are the same three passages plus their immediate contexts.
+ 8-GRAM           **512** involving Volume 8, and the reportable figure is the connective tissue of the book —
+                  *and I am not going to tell you*, *she said it without any weight at all*, *there is no office
+                  in this city that* — which is the voice and not duplication.  **None of the 512 is between two
+                  scenes.** **(The first block printed 54 and 493. Both were re-run and both moved: the
+                  54 and 493 were taken before the closing repairs to 355 and 361-era wording settled. The
+                  figures above are the ones the re-run returns, and the 8-gram figure is tokenisation-sensitive
+                  — Batch 0003 shipped a number taken from a tokenisation it did not name, so the named
+                  tokenisation is the rule: heading marks stripped, every non-alphanumeric to a space,
+                  lower-cased, split on whitespace, first file wins.)**
 DUPLICATE PARAS  Exact-duplicate paragraph of eight words or more across two different chapter files in the
                  whole book: **27, and EXACTLY ONE OF THEM INVOLVES A VOLUME 8 FILE**, and it is the eight words
                  themselves — *I am the man at the top of this page and I will answer for it* — at 348 and at
@@ -105,25 +131,100 @@ BORROWED BODIES  **Checked before borrowed sentences and nothing was found.** `r
 SCENE 358 BODY   Counted from the opening `##` to the closing `##`, exclusive of both, by
                  `lines[idx[0]+1 : idx[-1]]` where `idx` is the list of line numbers beginning with `## `.
                  Headings: Three Terms And Not Four · The Price · What Was In The Drawer · The Hour · Four Days.
-                 **BODY = 2,934 WORDS.**  Chapter = 4,003.
+                 **BODY = 2,929 WORDS.**  Chapter = 3,998.  **(The first block printed 2,934 and 4,003; the
+                 review-fix pass cut five words from the hinge and the whole block was re-measured.)**
                  **AND PROBED, because a count is not a proof.** Substring counts over the body only:
                  mouth **8** · came **15** · inside **4** · hair **5** · thighs **2** · tongue **1** · finger
                  **2** · wet **1** · cock **1** · shaft **0** · breast **1** · nipples **0** · gasp **0** ·
                  lick **0** · hip **1** · come **5**.  **Probe total 46. The scene is written out and it is
-                 not a fade.**
+                 not a fade.** Impaired-state mechanisms over the same body: compulsion **0** · sedat **0** ·
+                 exhaust **0** · restrain **0** · trance **0** · seal **0** · unconscious **0** · drugged **0**.
                  **The Volume 7 close audit's own figure for 350 was 1,626 against a stated convention that
                  gives 2,090 for the same range, and its 1,621 under the narrower heading range was recorded as
                  1,626. Both are stale. Batch 0002 does not inherit either number and takes the convention from
                  this block.**
 ```
 
-**THE TWO THINGS THIS PASS GOT WRONG ON ITS OWN FIRST RUN AND CORRECTED BEFORE THE RECORD WAS WRITTEN, RECORDED
-SO THE NEXT PASS CAN SEE THAT IT WAS CHECKED:** a paragraph-length splitter run over prose with dialogue in it
-produced forty-four hand splits that left a sentence broken across a paragraph break in four files and left
-forty paragraphs carrying an odd number of quotation marks; and the first twelve-gram run used the glob
-`chapters/volume-*/*/chapter-*.md`, which matches nothing in this repository's layout, and returned a clean
-zero that was false. Both were found and both were fixed before any of this was written down. **A gate that
-returns zero because it looked in the wrong place is the worst kind of wrong.**
+**REVIEW-FIX PASS. WHAT WAS WRONG WITH THIS BATCH AND WHAT WAS DONE ABOUT IT, RECORDED SO THE NEXT PASS CAN
+SEE THAT IT WAS CHECKED AND SO THAT THE SAME PASS DOES NOT REPEAT IT.**
+
+1. **A calendar lock was broken in 352.** Wren Kallo dated the night she decided to speak to *the thirty-first*.
+   **This world has no thirty-first**; `state/continuity.md` states the rule four times and 353 and 360 both
+   state it on the page. Chapter 350 ends at twenty to two on the last night of the year, which is the night
+   of the thirtieth. **Now: *a quarter to two in the morning on the night of the thirtieth of December*** —
+   which is also the book's own phrase for that night at 350:3, and which keeps the *three days* that follow it
+   correct (the first, the second, the third).
+2. **354 announced an age.** Runa Sato said she had known the difference between a standing order and a warrant
+   *since she was twenty-one*. `bible/characters.md` fixes her at 29, so the number was not false — **it was a
+   disclosure the batch does not permit**, and the AGES gate above claimed the batch was clean. **Now: *for
+   eight years***, the same elapsed span with nothing announced.
+3. **355 got an interval wrong by four weeks.** *You have known it since the twenty-seventh of November and you
+   have been waiting ten weeks.* Twenty-seventh of November to the tenth of January is 43 days, because a month
+   is thirty days and has no thirty-first: 3 to the thirtieth of November, 30 through December, 10 into January.
+   **43 days is six weeks.** 354 gets the adjacent figure right (the twenty-eighth of October to the eighth of
+   January is seventy days, and seventy days is ten weeks) and its two *ten weeks* are correct and were left
+   alone. **355 now says six weeks.** **AND THE FIX CLOSED A SECOND CONTRADICTION THE REVIEW DID NOT CATCH:**
+   the same chapter already said, at 355:109, *he had got the three parts out in the right order for
+   the first time in six weeks*, anchored on the same twenty-seventh of November. **The chapter had been
+   contradicting itself and now it does not.** **`NO INTERVAL IN THIS VOLUME MAY BE DERIVED AGAINST A REAL
+   CALENDAR. Subtract day numbers.**
+4. **360 broke its own rule inside one sentence.** *Twenty-six days. Five weeks minus one, from the thirtieth of
+   December, and there is no thirty-first in that month.* Twenty-six is right; five weeks minus one resolves to
+   thirty-four or twenty-eight and never to twenty-six, so the sentence invoked the rule and then broke it.
+   **Now: *Twenty-six days, four short of a month, from the thirtieth of December.*** A month is thirty days,
+   so twenty-six is four short of one, and the rule is applied rather than recited.
+5. **The hinge of the only scene contradicted the two paragraphs above it.** At 358 Sun Meiling unfolds her own
+   draft, says *I wrote these four lines three years ago*, and initials them — and then tells Lin Hao he has
+   come up the wrong stair *to find out what my brother wrote in an office three years ago*, and he replies
+   *There is no brother.* **Sun Meiling has no brother. `bible/characters.md` gives her no sibling of any kind;
+   Lin Wei is LIN HAO'S brother and was her research partner, and she has said so on the page at 63 and 70.**
+   The reply read as a non-sequitur and the load-bearing beat of the batch's one scene hung on it.
+   **Now: *…to find out what the account is then you have come up the wrong stair.* / *You read it out loud.*
+   / *Correct.*** He charges her with the contradiction — she performed the disclosure and withheld everything —
+   and she accepts the charge and shuts the drawer. **The beat is stronger than the one it replaces, because it
+   is his objection and not a flat.** `outline/volume-08.md` §1 point 7 and §3 also carried *her brother* for
+   this reason; **both are corrected to his brother, and §1 now carries a standing warning that any later
+   batch putting a brother in her mouth is a canon error and the line comes out.**
+6. **357 had two numbers and a self-negation inside one speech.** *The four of us who sign a line about it*
+   had no referent for four when eight hands signed the witness line three paragraphs earlier, and *I am the
+   only one of the eight who has never signed anything about him and I signed this one* negates itself in the
+   same breath. **Now: *the eight of us who signed the line under it this morning* … *and I am the only one of
+   the eight that nothing in this room can cover, because I cannot be sworn, and I signed the line at about four
+   minutes to eleven this morning without being asked and without discussing it.*** The second clause is now
+   the standing bar that `outline/volume-08.md` §6 movement 1 already gives her — *the only one of the eight
+   who cannot be covered by anything is the one who cannot be sworn* — so signing is a risk she takes rather
+   than a sentence that eats itself.
+7. **359 had a broken conjunction.** *…because she could feel forty thousand people and a loud woman in her own
+   building is a thing that gets felt three streets away.* The forty-thousand figure is canon
+   (`bible/characters.md`: she can feel forty thousand people moving). **Now: *…and because a woman who can feel
+   forty thousand people can feel one of them shouting in her own building three streets away.** The canon figure
+   is kept and the splice is gone.
+8. **359 counted without cause.** *Six of the eight of them had taken one at a desk on the fifteenth. / Seven of
+   them now had it in the building they worked in.* Nothing introduced the seventh. **The seventh is Wren
+   Kallo, and the cause was already on the page at 357:19 — a counter-forensics desk serves six divisions — so
+   the line now says so: *Seven of them had it in the building they worked in, because a counter-forensics desk
+   serves six divisions and Wren Kallo had been sitting on six copies of it since the middle of that afternoon
+   and had never taken one herself.*** It is the same fact, it now has a woman attached to it, and it is the
+   more frightening version.
+9. **351 carried a meta slip.** *In the whole of the eight volumes of his life.* **That is an authoring unit and
+   not a thing a man can measure, and `grep -rn 'eight volumes' chapters/` returns exactly one line in the whole
+   book — this one.** **Now: *in the whole of his life.*** (`in this book` at 354:133 and 359:117 is house
+   style — nine instances in Volume 7 alone — and those two were correctly left alone.)
+10. **This gate block was wrong about its own twelve-gram figure.** It recorded *30 cross-chapter matches* and
+    *Ten of the thirty* three times. **The re-run returns 31, split 13 / 11 / 7.** The three passages are the
+    same three, so there is no new duplication, but the block was asserting a figure it had not measured.
+    **The block above is now what the re-run returns, and the discrepancy with the reviewer's own printed
+    list is recorded here rather than smoothed over.**
+11. **The next-phase prompt relied on a file that does not exist.** `workspace/volume-08/batch-0002/PROMPT.md`
+    opened with *Batch 0001's review is in the same commit as its chapters*, and `reviews/volume-08/` **does not
+    exist**. Every prior volume carries `reviews/volume-NN/batch-000X.md` for each batch. **The prompt no longer
+    claims it.**
+
+**NOT CHANGED, DELIBERATELY: the plot, the movement structure, the five self-corrections `outline/volume-08.md`
+§6 movement 1 already records about itself, the banked titles in §10, every chapter's date, every interval
+that was already correct, and the three deliberate returns listed above. Nothing was restarted, nothing was
+rewritten from nothing, and no chapter was reordered. Nine chapters were touched and one of them, 358, by five
+words at the hinge.**
 
 ---
 

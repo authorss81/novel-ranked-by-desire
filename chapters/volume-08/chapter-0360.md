@@ -142,7 +142,7 @@ There was nothing on it.
 
 Not *out of band*, not his figure, not two words about a man in band six. The green card was up and the number on it was eight thousand one hundred and forty-five and about nine people were at the rail and none of them were looking at him.
 
-Twenty-six days. Five weeks minus one, from the thirtieth of December, and there is no thirty-first in that month. The first week was the fifth of January and this was the fourth.
+Twenty-six days, four short of a month, from the thirtieth of December. The first week was the fifth of January and this was the fourth.
 
 For four weeks the only sentence he had been given about his own safety was a wall that said nothing at all about anybody, and he had been telling himself since the fifth that it meant a man in band.
 

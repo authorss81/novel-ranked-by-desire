@@ -88,7 +88,7 @@ Then she said, out loud, in the ordinary voice, the only sentence she gave him t
 
 He stood on the service stair for a while with the slip in his coat.
 
-It was eleven minutes past nine and the Exchange yard above him was beginning to make the noise it makes, and he had been awake since five, and in the whole of the eight volumes of his life there had not been a morning on which a piece of paper was handed to him by a keeper as a gift.
+It was eleven minutes past nine and the Exchange yard above him was beginning to make the noise it makes, and he had been awake since five, and in the whole of his life there had not been a morning on which a piece of paper was handed to him by a keeper as a gift.
 
 He wanted to be sick about it, and he could not work out whether it was because of the gift or because of what it said underneath it, and it turned out to be the second.
 

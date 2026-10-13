@@ -64,7 +64,7 @@ She put her thumb on the table and pushed a little, the way a person does when t
 
 "I told them the shape and not the woman, and I did not put a name on it, and I did not put a name on it in a way that could be got at." She put her hands back flat. "That is what I have."
 
-"If anybody in this room wants to be angry with me about that, be angry in the ordinary way and do it at me, because I have been the one holding this since a quarter to two in the morning on the thirty-first and it has been mine alone for three days."
+"If anybody in this room wants to be angry with me about that, be angry in the ordinary way and do it at me, because I have been the one holding this since a quarter to two in the morning on the night of the thirtieth of December and it has been mine alone for three days."
 
 ## The Price Of Not Asking
 

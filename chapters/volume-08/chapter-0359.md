@@ -76,7 +76,7 @@ A copy of a document he had written at his own kitchen table on the twelfth of J
 
 Six of the eight of them had taken one at a desk on the fifteenth.
 
-Seven of them now had it in the building they worked in.
+Seven of them had it in the building they worked in, because a counter-forensics desk serves six divisions and Wren Kallo had been sitting on six copies of it since the middle of that afternoon and had never taken one herself.
 
 ## The Division That Wanted A Reason
 
@@ -134,7 +134,7 @@ Beatrix Halm was up the top of the stair with the notebook open and the pencil d
 
 "Say it."
 
-"Two months ago you came up this stair and told me a card at the north end of the square said eight thousand one hundred and forty-five, and I wrote it down, and you were proud of it in a way you have not been proud of anything since June." Beatrix Halm did not raise her voice, because she never raised her voice, because she could feel forty thousand people and a loud woman in her own building is a thing that gets felt three streets away.
+"Two months ago you came up this stair and told me a card at the north end of the square said eight thousand one hundred and forty-five, and I wrote it down, and you were proud of it in a way you have not been proud of anything since June." Beatrix Halm did not raise her voice, because she never raised her voice, and because a woman who can feel forty thousand people can feel one of them shouting in her own building three streets away.
 
 "Today a man came down this street at ten past four with a piece of paper in his hand, and I know that because you came up those steps at a quarter past and stood there for a minute before you said anything, and a man does not stand on his own stairs unless something has happened to him that he cannot put in a book."
 

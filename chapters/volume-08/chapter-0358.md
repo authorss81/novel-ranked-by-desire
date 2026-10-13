@@ -94,9 +94,9 @@ It took her about eleven seconds and she read it the way she reads anything with
 
 When she had finished she did not look at him to see whether he had understood.
 
-"I am not going to say what is in them," she said. "Not in a summary and not in an order. You did not ask me for the content. You asked me for the discipline and you got the discipline and you are not getting the other thing, and if you have come up sixty-one steps on a night in January in the cold to find out what my brother wrote in an office three years ago then you have come up the wrong stair."
+"I am not going to say what is in them," she said. "Not in a summary and not in an order. You did not ask me for the content. You asked me for the discipline and you got the discipline and you are not getting the other thing, and if you have come up sixty-one steps on a night in January in the cold to find out what the account is then you have come up the wrong stair."
 
-"There is no brother."
+"You read it out loud."
 
 "Correct." She folded the sheet along its three old folds and put it back in the drawer and shut the drawer.
 

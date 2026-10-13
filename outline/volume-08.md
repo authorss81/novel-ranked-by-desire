@@ -85,7 +85,10 @@ six on the floor of his band — and this volume takes it out of his hands by ma
    corridor in three years.** She is under a permanent bar since the first of September and is never to be
    sworn (`bible/characters.md`: *the sworn are the ones who can be requisitioned*). She is one of the eight
    on a public list with her room against it.
-7. **And her initials are already on the paper that took her brother.** Chapter 70: the consult was
+7. **And her initials are already on the transmission of the answer that took his brother.** **He has one
+   brother and it is Lin Wei, and Sun Meiling has none: Lin Wei was her research partner's brother and
+   `bible/characters.md` gives her no sibling of any kind. Any later batch that puts a brother in her mouth
+   is a canon error and the line comes out.** Chapter 70: the consult was
    answered; a reply is signed by the responsible officer of the wing and **initialled by whoever drafted
    it**; *my initials are on the answer to a question about a transfer that carried no name … the four lines
    underneath them are his*; and she has not read them in three years, and will not, *because reading them
@@ -254,7 +257,7 @@ and this volume turns one of them on purpose.**
 | **The kitchen at Ferrier Street, 34-6-118** | the household; eight women | the only room in the city where eight people know what a declaration of holding would cost them before anybody tells them, **and this is the volume in which he tells them after he has done it** |
 | **The counting room, two floors under the Exchange** | **Hanneke Ruis**, keeper and holder of the keys; **Solveig Rask** at the book on the pen on a chain | where the line is called on the first of the month, every month, for as long as he lives |
 | **The room at the end of a corridor in the keeping of the room where nine people sit** | the nine; the chair; **Alma Quayle**; **the fourth seat** | where four sheets went in on the twenty-ninth of December and **where a fifth goes in in this volume** |
-| **The third court and the iron stair, off no map that has been walked in four years** | **Sun Meiling**, second floor, the side room with two hundred picture hooks; **Perrin Sowe**, third floor, a window on the yard | **the only building in this book where the woman who told him and the man who took her brother are two floors apart and never speak** |
+| **The third court and the iron stair, off no map that has been walked in four years** | **Sun Meiling**, second floor, the side room with two hundred picture hooks; **Perrin Sowe**, third floor, a window on the yard | **the only building in this book where the woman who told him and the man who took his brother are two floors apart and never speak** |
 | **The room where the requisition is heard** | nine chairs, a chair that holds a seal and chairs nothing | the only room in Ostara in which a document must be produced by the person who wants it used |
 | **Lantern Row, two flights above a laundry** | **Ines Duarte, 34**, on no roll | **a drawer with four sheets of file 4,112 and the whole of that file, and a woman who will not be read to in her own rooms** |
 | **The Vestry clinic, the cold store, a ward** | **Tessa Okonkwo, 31**; **Wanda Rej**; the stranger | where the cost of eleven days was administered and where one frame is running out of room |
@@ -575,7 +578,7 @@ thing as a first.
   not have told him not to send it. **What changes is therefore this: the only paper about a transfer that
   carried no name that she has ever held has been read out loud in a room, and neither of them can un-read it,
   and Sowe's four lines are still shut and still are not hers to open.**
-  Scene body **2,934 words counted AND probed**, chapter 4,003. No compulsion, no sedation, no exhaustion, no
+  Scene body **2,929 words counted AND probed**, chapter 3,998. No compulsion, no sedation, no exhaustion, no
   restraint, no psychic contact, no trance and no seal; her gift is used on nobody and is written down as
   forbidden before a word of it is used; she is not impaired and will not be made so. **NOT STAGED AS 63:** 63
   had a bare wall, a jug of water, no kettle, four terms and her hands on him. This has a covered wall, a
@@ -636,7 +639,9 @@ the city has just handed it to him in her own hand and been refused the one word
 answer for it.** One of the eight is in a building with the man on the third floor, and that man has asked her
 for a consult, and there has been no sound from that building for ten days.
 
-**FIVE PLACES THIS PLAN WAS WRONG ON THE PAGE, RECORDED SO A LATER PHASE DOES NOT RAISE THEM AS NEW:**
+**SEVEN PLACES THIS PLAN WAS WRONG ON THE PAGE, RECORDED SO A LATER PHASE DOES NOT RAISE THEM AS NEW. The first
+five were found by the pass that wrote the chapters and the last two by the review that followed it. None of
+them changed the plot; every one of them corrected the plan to what the page had already decided.**
 
 1. **358's hinge was Sowe's four lines and it is her own draft.** She cannot read his and never could, and
    `outline/volume-08.md` §7 keeps them shut until 374. **PC-5 in `state/open-threads.md` is amended by this
@@ -649,6 +654,15 @@ for a consult, and there has been no sound from that building for ten days.
    loud on the page rather than the narrator noticing it.
 5. **359's ending is the fourth blank under Beatrix Halm's time and not the second**, because 348, 349, 353 and
    357 are all on the page and all have one.
+6. **359's seventh is Wren Kallo and not a seventh division.** The chapter counted to seven with nothing to
+   count; the cause was already on the page at 357, where counter-forensics serves all six divisions that
+   carry a post at that address. **A woman who has never taken one herself is now sitting on six.**
+7. **SUN MEILING HAS NO BROTHER AND THIS PLAN PRINTED *HER BROTHER* TWICE.** §1 point 7 and §3 both carried it,
+   and 358 put it into her mouth before it was caught. **Lin Wei is Lin Hao's brother and was her research
+   partner; `bible/characters.md` gives her no sibling of any kind, and she has said so on the page at 63 and
+   at 70.** **The hinge is now: *…to find out what the account is then you have come up the wrong stair* /
+   *You read it out loud.* / *Correct.*** — his objection, not hers, and a better beat than the one it replaces.
+   **No later batch may put a brother in Sun Meiling's mouth.**
 
 ### Movement 2 — WHAT THE ROOM CAN NOW DO (361–370). 27 January – 20 February.
 

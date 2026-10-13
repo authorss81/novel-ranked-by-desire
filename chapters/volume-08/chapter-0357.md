@@ -88,9 +88,9 @@ Eight people in a room heard a woman price an instrument the way a clerk prices 
 
 "That is the cost of the twelfth of January," said Sun Meiling, "and it is not mine."
 
-"He wrote it and he will answer for it in four years, and the four of us who sign a line about it will be asked about it in four years. Alma Quayle has been carrying the twenty-ninth of December in her own book since before any of us knew what it was going to cost, and there is nothing anybody in this room can do for her about that,"
+"He wrote it and he will answer for it in four years, and the eight of us who signed the line under it this morning will be asked about it in four years. Alma Quayle has been carrying the twenty-ninth of December in her own book since before any of us knew what it was going to cost, and there is nothing anybody in this room can do for her about that,"
 
-"and I am the only one of the eight who has never signed anything about him and I signed this one at about four minutes to eleven this morning without being asked and without discussing it."
+"and I am the only one of the eight that nothing in this room can cover, because I cannot be sworn, and I signed the line at about four minutes to eleven this morning without being asked and without discussing it."
 
 "You did not have to come," said the chair.
 

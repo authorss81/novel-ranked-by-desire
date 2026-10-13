@@ -98,7 +98,7 @@ She took her hands off the wood.
 
 "That is not a licence you need from me."
 
-"It is not, and I have not taken it as one, and the difference between those two sentences is the difference between a standing order and a warrant and I have known it since I was twenty-one." She picked the bundle up. "I will be there on the day somebody comes at that door, and I will be there for the life of the account, and neither of us is ever going to discuss it at a table on Ferrier Street."
+"It is not, and I have not taken it as one, and the difference between those two sentences is the difference between a standing order and a warrant and I have known it for eight years." She picked the bundle up. "I will be there on the day somebody comes at that door, and I will be there for the life of the account, and neither of us is ever going to discuss it at a table on Ferrier Street."
 
 ## The Seventh
 

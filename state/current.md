@@ -1,4 +1,4 @@
-# VOLUME 8 BATCH 0001 HEAD RECORD — 13 OCTOBER 2026. CHAPTERS 351–360 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.
+# VOLUME 8 BATCH 0001 HEAD RECORD — 13 OCTOBER 2026, RE-RUN AT THE REVIEW-FIX PASS. CHAPTERS 351–360 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.
 
 **Read this block before Chapter 361 is written. It is the head record.** The Volume 8 planning record is
 immediately below it and is retained as the position before these ten chapters existed; the Volume 7 close
@@ -6,11 +6,48 @@ record is below that and is the audited position at Chapter 350. Live gates are 
 The volume outline is `outline/volume-08.md` and **its §6 movement 1 was rewritten against these ten chapters
 in the commit that wrote them.**
 
+**THIS BATCH WAS REVIEWED AND REPAIRED AFTER IT WAS WRITTEN. ELEVEN FINDINGS, ALL LOCAL AND MECHANICAL, ALL
+FIXED, NONE REQUIRING A STRUCTURAL CHANGE AND NONE CHANGING THE PLOT.** **The batch's irreversible decision
+is untouched, no chapter was restarted or reordered, and the banked titles in `outline/volume-08.md` §10 were
+not touched at all.** Nine chapters were edited. **The five that a later batch must not undo:**
+
+1. **352 printed *the thirty-first*.** This world has no thirty-first. **Now: *a quarter to two in the morning on
+   the night of the thirtieth of December*** — the last night of the year, which is the thirtieth, and the three
+   days that follow it are the first, the second and the third.
+2. **354 printed an age.** Runa Sato said *since I was twenty-one*. `bible/characters.md` fixes her at 29, so it
+   was true and it was forbidden. **Now: *for eight years*** — the same span, nothing announced. **A span of
+   years is permitted on this page. An age is not.**
+3. **355 printed *ten weeks* for forty-three days.** The twenty-seventh of November to the tenth of January is
+   43 days and **43 days is six weeks**. **Now: *six weeks*.** 354's *seventy days is ten weeks*, for the
+   twenty-eighth of October to the eighth of January, **is correct and stays.**
+4. **360 printed *five weeks minus one* for twenty-six days.** Five weeks minus one is thirty-four or
+   twenty-eight, never twenty-six, so the sentence invoked the thirty-day month and broke it in the same
+   breath. **Now: *twenty-six days, four short of a month*.**
+5. **358, the hinge of the only scene, said *my brother*.** **Sun Meiling has no brother.** Lin Wei is **Lin
+   Hao's** brother and was her research partner, and she has said so at 63 and at 70. The beat now runs: *…to
+   find out what the account is then you have come up the wrong stair.* / ***You read it out loud.*** /
+   *Correct.* **His objection is a better beat than the one it replaces, because it is his and not a flat.
+   `outline/volume-08.md` §1 point 7 and §3 carried *her brother* too and are corrected, and §1 now carries a
+   standing warning.**
+
+**THE OTHER SIX:** 357 had *the four of us who sign a line about it* where eight signed, and had a woman say
+*I am the only one of the eight who has never signed anything about him and I signed this one* in one breath —
+**now eight of us who signed the line under it this morning, and *I am the only one of the eight that nothing
+in this room can cover, because I cannot be sworn***, which is the standing bar the outline already gave her ·
+359 had a broken conjunction joining the forty-thousand figure to the wrong clause, **now one sentence that
+keeps the canon figure** · 359 counted to seven with no seventh, **and the seventh is Wren Kallo, because a
+counter-forensics desk serves six divisions** · 351 said *in the whole of the eight volumes of his life*, which
+is an authoring unit and not a thing a man can measure, **now *in the whole of his life*** · this file's own
+twelve-gram gate said **30** where the re-run returns **31**, **now 31, split 13 / 11 / 7** · and the next-phase
+prompt opened by claiming Batch 0001's review sat in the same commit, **which it did not and `reviews/volume-08/`
+does not exist; the prompt no longer claims it.** **Full record with the reasoning, at the top of
+`state/open-threads.md`, under `REVIEW-FIX PASS`.**
+
 ## 0. WHAT THIS BATCH DID, AND ITS IRREVERSIBLE DECISION
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0351.md` … `chapter-0360.md` | ten finished chapters, the first to the twenty-sixth of January. **22,606 words counted per file and summed.** |
+| `chapters/volume-08/chapter-0351.md` … `chapter-0360.md` | ten finished chapters, the first to the twenty-sixth of January. **22,629 words counted per file and summed after the review fixes.** |
 | `outline/volume-08.md` | **§6 movement 1 rewritten against the page**, with five named places the plan was wrong; §4 given a Sun Meiling row; §10 re-run against the chapters on disk |
 | `workspace/volume-08/batch-0002/PROMPT.md` | **the one live phase prompt in the repository.** Ch 361–370. |
 
@@ -87,8 +124,14 @@ it. **He can never be the empty box again. There is no instrument in this city t
   loud — a departmental draft three years old, her initials in the margin against the fourth — and then refuses
   to say one word about what is in them, in a summary or in an order.** She read them because a copy of his page
   came to her desk at nine that morning with her name on the first line of it, she cannot get it back, and she
-  would not have told him not to send it. **Sowe's four lines are still shut and are still not hers to open.**
-  Scene body **2,934 words, counted and probed; chapter 4,003.** No compulsion, no sedation, no exhaustion, no
+  would not have told him not to send it. **His objection and her answer: *You read it out loud.* / *Correct.*
+   He charges her with the contradiction — she performed the disclosure and withheld every word of what it said —
+   and she accepts the charge and shuts the drawer. He came up the wrong stair: what he wanted is what the
+   account is, and that is in four lines she has never read and is never going to. Sowe's four lines are still
+   shut and are still not hers to open.** **SUN MEILING HAS NO BROTHER AND THE PAGE SAYS NONE: Lin Wei is Lin
+   Hao's brother and was her research partner, and the first draft of this scene had her say *my brother*, which
+   was a canon error and is cut.**
+  Scene body **2,929 words, counted and probed; chapter 3,998.** No compulsion, no sedation, no exhaustion, no
   restraint, no psychic contact, no trance, no seal; her gift is written down as forbidden before it is used.
   **THE ENDING IS THE BATCH'S CLOCK: the twenty-two-stitch row out of a coat lining, counted in September and
   initialled by her on the first of September; and Sowe sent for her yesterday and she went UP to the third

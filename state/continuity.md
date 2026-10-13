@@ -3,7 +3,7 @@
 **`outline/volume-08.md` §6 MOVEMENT 1 WAS REWRITTEN AGAINST CHAPTERS 351–360 IN THE COMMIT THAT WROTE THEM,
 and it names five places the plan was wrong on the page.** **THE NEXT PHASE IS A WRITING PHASE:
 `workspace/volume-08/batch-0002/PROMPT.md`, which writes 361–370 and no prose about anything else.**
-**Ten files, 22,606 words counted per file and summed. Volume 8 is 22,606 words long and has forty chapters to
+**Ten files, 22,629 words counted per file and summed after the review fixes. Volume 8 is 22,629 words long and has forty chapters to
 go.**
 
 ### 0. WHAT CHAPTERS 351–360 ADDED TO THE CONTINUITY OF THIS BOOK, AND A LATER CHAPTER MAY NOT CONTRADICT
@@ -124,9 +124,37 @@ morning. **He stood at 8,145 on the nose on the fifth of January and had not mov
 not moved on the nineteenth.** **It does not move again until the thirtieth of March and no batch may print a
 figure for that card that is not printed in the chapter that uses it.**
 
+**FOUR INTERVAL AND CALENDAR DEFECTS AND ONE AGE WERE FOUND IN 351–360 AT REVIEW AND ALL FIVE ARE CORRECTED.
+THE FIGURES A LATER CHAPTER INHERITS ARE THESE AND NOT THE ONES THE FIRST DRAFT PRINTED:**
+
+1. **The night Wren Kallo decided to speak is the night of the thirtieth of December.** 352 first printed *the
+   thirty-first* and **this world has no thirty-first.** She dates it from twenty to two in the morning, and that
+   night is the last night of the year, which is the thirtieth. **She has been holding it alone for three days**
+   when she says so on the third — the first, the second, the third.
+2. **The twenty-seventh of November to the tenth of January is forty-three days, and forty-three days is six
+   weeks.** 355 first printed *ten weeks*, which is the figure for a different pair of dates: seventy days from
+   the twenty-eighth of October to the eighth of January. **Both numbers are now on the page and they are
+   different numbers — 354's seventy days is ten weeks, 355's forty-three days is six weeks. Do not reconcile
+   them and do not use one for the other.**
+3. **The thirtieth of December to the twenty-sixth of January is twenty-six days, which is four days short of a
+   month.** 360 first printed *five weeks minus one*, which resolves to thirty-four or twenty-eight and never to
+   twenty-six, so the sentence invoked the thirty-day month and broke it in the same breath. **Twenty-six days,
+   four short of a month.**
+4. **No chapter announces an age.** `bible/characters.md` fixes Runa Sato at **29**, so *since I was twenty-one*
+   was not false — **it was a forbidden disclosure, and 354 now prints *for eight years*, the same elapsed span
+   with nothing announced. A span of years is permitted on this page and an age is not.**
+
+**SUN MEILING HAS NO BROTHER.** `bible/characters.md` gives her no sibling of any kind. **Lin Wei is LIN HAO'S
+brother** and was her research partner, and the two of them have said so on the page at 63 and at 70. She may say
+*your brother* and she may say *Lin Wei*. **358 printed *what my brother wrote* and it is cut; the hinge now
+runs *to find out what the account is then you have come up the wrong stair* / *You read it out loud.* /
+*Correct.*** `outline/volume-08.md` §1 point 7 and §3 both carried *her brother* for two planning phases before
+the prose exposed it, and both are corrected. **A later batch that puts a brother in Sun Meiling's mouth is a
+canon error and the line comes out.**
+
 ### 2. THE SCENE SCHEDULE
 
-**358 Sun Meiling — WRITTEN AND COUNTED, body 2,934 words, probed.** · **369 Agnete Lindqvist** · **380 Tessa
+**358 Sun Meiling — WRITTEN AND COUNTED, body 2,929 words, probed.** · **369 Agnete Lindqvist** · **380 Tessa
 Okonkwo** · **388 Dagmar Oyelowo (IMMOVABLE)** · **398 Wren Kallo**. Gaps 350 → 358 = **8** · 358 → 369 = **11** ·
 369 → 380 = **11** · 380 → 388 = **8** · 388 → 398 = **10**. **No gap under eight and none over fifteen.**
 **Volume 7's five scenes are spent and are not continued: 308, 318, 329, 340 and 350.** 358 is not staged as 63
@@ -144,7 +172,7 @@ classification completed, and no requisition laid, served, sealed or carried in 
 ### 4. FOUR THINGS A VOLUME 8 BATCH MUST NOT GET WRONG, INHERITED WHOLE FROM VOLUME 7 AND RE-STATED AFTER BATCH 0001
 
 1. **Count per file and sum. Never `cat *.md | wc -w`.** Volume 7's returned 107,439 against a true 107,477.
-   Batch 0001 gave all ten of its files a trailing newline and the two figures agree at 22,606 — **and the trap
+   Batch 0001 gave all ten of its files a trailing newline and the two figures agree at 22,629 — **and the trap
    is still armed for any volume whose files lack one.**
 2. **A borrowed body is a canon error and the twelve-gram cannot see one. Volume 7 shipped three.** Batch 0001
    found none: `right temple` is zero book-wide, the only temple in Volume 8 is Lin Hao's own grey at the **left**,
