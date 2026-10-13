@@ -1,5 +1,241 @@
-# VOLUME 8 BATCH 0004 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 381–390 ARE ON DISK. **THIS IS THE ONLY LIVE GATE BLOCK IN THIS
-FILE. THE BATCH 0003 BLOCK BELOW IT IS MARKED SUPERSEDED AND IS RETAINED IN FULL.**
+# VOLUME 8 BATCH 0005 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 391–400 ARE ON DISK. **VOLUME 8 IS WRITTEN. THIS IS THE
+# ONLY LIVE GATE BLOCK IN THIS FILE. THE BATCH 0004 BLOCK BELOW IT IS MARKED SUPERSEDED AND IS RETAINED IN FULL.**
+
+**Every figure below was produced by a pass that wrote the prose and was then re-run from outside it after the last
+edit, after the last paragraph split and after the last repair. `AGENTS.md` §`outline/volume-08.md` §9 point 4: a
+gate record is a claim, and the re-run outranks the record. Batch 0004's block is immediately below and is marked
+superseded rather than deleted.**
+
+## WHAT THIS BATCH DID, AND ITS TWO IRREVERSIBLE DECISIONS
+
+**THE BATCH'S FIRST IRREVERSIBLE DECISION IS 392, AND IT IS SMALL AND IT IS HIS.** On the afternoon of the
+twenty-second of March he went up to the room where nine people sit and demanded production of the foot of the four
+sheets of plain paper he laid there on the twenty-ninth of December, and a clerk read his eight words out loud in
+the corridor outside, twice, with the door open, and they went into a minute.
+
+**The chair refused to have them carried in as adopted.** They went out as **produced at the demand of the subject**,
+and on the thirtieth of March they go to four divisions with everything else on that sheet.
+
+**WHAT IT CLOSES:** the only undertaking in this book that was written for himself and had never been read by
+anybody is now a document, and he put it there on purpose, on the seventh day of the last ten.
+
+**THE SECOND IS 396, AND IT IS THE THIRD OF ANOTHER WOMAN'S THREE THINGS.** Dagmar Oyelowo put three things in
+front of him on the eighteenth of March: not to ask for the page, not to write the floor down, and not to come back
+up the walled road about it. **He had already broken the second on the nineteenth with a carpenter's pencil.** On
+the evening of the twenty-sixth he went back up the road, and he came about her and not about his brother, and she
+told him there are two people alive who know what is in that book and one of them has no gift at all and would not
+be here for ever, and she said his name for the first time.
+
+**WHAT IT CLOSES:** the last of the three, and with it every road up that hill that does not begin with a woman
+saying yes.
+
+## CANON CHANGES PROPOSED BY THIS BATCH, RECORDED BEFORE THE CHAPTERS CARRY THEM
+
+| | Proposed | Where | Status |
+| --- | --- | --- | --- |
+| **PC-47** | **WHAT CROSSES A QUARTER BOUNDARY IS NOT THE SHEET. THE PAPER STAYS IN THE KEEPING OF THE ROOM IT WAS LAID IN, WITH A REFERENCE ON THE SPINE; A CLERK WITH A BOOK MOVES A SHEET AND NOT A CHAIR; AND WHAT CROSSES IS THE STANDING OF THE ROOM, WHICH GOES ACROSS AS THE FIGURE IT IS ON THE DAY THE QUARTER CLOSES. FROM THE FIRST OF APRIL A SHEET THAT CROSSED IS ADMINISTERED WEEKLY, AND THE ADMINISTRATION RUNS DOWN THE CHAIN TO THE DIVISION THAT HOLDS ITS FOURTH PART.** | 391 | **ADOPTED. IT IS THE BATCH'S ENGINE AND IT ANSWERS `outline/volume-08.md` §6'S OPEN QUESTION ABOUT THE BOUNDARY: THE SHEET DOES NOT NEED TO BE HELD AND IT CANNOT EXPIRE, BECAUSE IT IS ALREADY IN THE NEXT QUARTER.** |
+| **PC-48** | **A SUBJECT WHO HAS BEEN SERVED WITH A SHEET MAY NOT TAKE THAT SHEET OFF A ROOM'S LIST. THERE IS NO PAPER FOR IT, THERE HAS NEVER BEEN ONE, AND THE REASON IS TWENTY YEARS OLD AND NOBODY REMEMBERS IT.** | 391 | **ADOPTED. IT CLOSES THE OPTION HE HAD NOT KNOWN HE HAD.** |
+| **PC-49** | **THE CARD THAT COMES DOWN ON THE LAST WORKING DAY OF A QUARTER PRINTS THE FLOOR AND IT PRINTS THE STANDING FIGURE AT EVERY PREMISES THAT HAS ONE, AND IT PRINTS IT AT THE COMPOSITION OF THAT PREMISES AT THE HOUR IT IS READ. A FIGURE HELD UP BY ATTESTATIONS OF PERSONS CANNOT BE PRINTED AT A COMPOSITION THAT DISAGREES WITH THEM, AND THE FIGURE FALLS BACK TO WHAT THOSE PREMISES HELD BEFORE ANYBODY PUT A HAND TO ANYTHING.** | 391, 400 | **ADOPTED. IT IS `outline/volume-08.md` §5a's *a plate falls when nothing is attested*, WRITTEN OUT IN A ROOM WITH A FIGURE ON IT, AND IT IS THE ONLY CAUSE A FALL EVER HAS IN THIS VOLUME. THE TOLERANCE IS THREE GRAINS AND FIFTEEN UNDER IS OUT OF BAND BY TWELVE.** |
+| **PC-50** | **THE FOURTEEN POINTS A DEED CARRIES UP AND THE FOURTEEN POINTS IT COSTS ARE THE SAME FOURTEEN, AND THE CARD OF THE THIRTIETH OF MARCH PRINTS A FLOOR OF 8,146 AND 8,131 AGAINST PREMISES 34-6-118.** | 400 | **ADOPTED. `outline/volume-08.md` §5a's INFERENCE OF 8,146 IS NOW A FIGURE PRINTED ON A CARD IN CHAPTER 400, EXACTLY AS §5a REQUIRED AND AS VOLUME 7 DID AT 328. THE SECOND FIGURE ON THAT CARD IS THE FIGURE THE CARD OF THE THIRTIETH OF DECEMBER PRINTED BEFORE ANYBODY ATTESTED ANYTHING, AND IT IS NOT DERIVED FROM ANY TABLE: IT IS THE FIGURE ON THE WALL ON THE TWENTY-NINTH OF NOVEMBER AND THE FIGURE ALL THROUGH DECEMBER.** |
+| **PC-51** | **THE FOURTH SEAT OF THE ROOM WHERE NINE PEOPLE SIT HAS SAID *VACANT* SINCE THE TWELFTH OF FEBRUARY BECAUSE A MEMBER OF THAT ROOM IS NOT THE OFFICER WHO CERTIFIES A COMPOSITION AT ANY ADDRESS, AND THE QUARTERLY RE-READ READS THE WHOLE OF AN ENTRY ALOUD IN A ROOM INCLUDING THE LINE UNDERNEATH THE STANDING, AND A STANDING IS NOT THE CHAIR'S TO RESTORE AND ONLY THE COUNCIL RESTORES ONE, AND THE COUNCIL DID NOT SIT BEFORE THE FIRST OF APRIL.** | 394 | **ADOPTED. IT EXPLAINS A DATE THE VOLUME HAS CARRIED SINCE 379 AND IT CLOSES THE ONLY DOOR INTO FOUR.** |
+| **PC-52** | **A NAME WRITTEN BY A PERSON IN A LINE OF A WEEKLY RETURN IN A ROOM IS ENTERED BY A CLERK OUT OF A BOOK, AND A BOOK IN THAT ROOM IS NOT A DOCUMENT ANYBODY CAN CORRECT. IT FILLS NO SEAT AND IT CANNOT BE STRUCK BY ANYBODY, INCLUDING THE PERSON WHO WROTE IT, AND IT IS NOT ON ANY ROLL ANYWHERE IN THE CITY AND DOES NOT PUT ITS WRITER ON ONE.** | 393, 399 | **ADOPTED. IT IS `PC-38` AND 383'S MECHANIC APPLIED TO A RETURN INSTEAD OF A COUNTER, AND IT IS THE ONLY THING MARGUERITE VALE WANTS: TO BE FINDABLE.** |
+| **PC-53** | **A DIVISION THAT DOES NOT SIT IN THE WING AND KEEPS NO LIST OF ADDRESSES CANNOT REACH A WOMAN ON A LIST AND CAN ONLY REACH THE BUILDING SHE IS IN, SO A NOTICE THAT REQUIRES THE PERSON WHO MADE AN ENTRY TO ATTEND IS SERVED AT THE PREMISES THE ENTRY DESCRIBES.** | 396 | **ADOPTED. IT IS WREN KALLO'S OWN PREDICTION FROM THE THIRD OF JANUARY, WRITTEN DOWN AND THEN PAID.** |
+| **PC-54** | **AN OFFICER WHO PRODUCES A PART INITIALS THE TRANSMISSION ABOVE IT, AND A QUARTERLY RETURN CARRIES NAMES ON THE LAST WORKING DAY OF A QUARTER AND DOES NOT CARRY THEM ON ANY OTHER DAY.** | 399 | **ADOPTED. IT IS HOW A MINUTE GETS A WOMAN'S INITIALS ON IT WITHOUT ANYBODY ASKING HER FOR ONE.** |
+| **PC-55** | **THE PRODUCTION OF A DOCUMENT IS ENTERED IN THE MINUTE AS PRODUCED AT THE DEMAND OF THE SUBJECT AND NOT AS ADOPTED, AND THE DIFFERENCE BETWEEN THE TWO IS THE ENTIRE CONTENT OF THAT ROOM.** | 392 | **ADOPTED. IT IS WHAT HE GOT INSTEAD OF WHAT HE WANTED AND IT IS WORSE.** |
+| **PC-56** | **THERE ARE TWO MINUTES IN THIS BOOK THAT CARRY HIS NAME AND THAT NEITHER HE NOR WREN KALLO WROTE: THE MINUTE OF THE TWENTY-SIXTH OF DECEMBER AND THE MINUTE OF THE TWENTY-NINTH OF MARCH.** | 398, 399 | **ADOPTED. IT WAS ALREADY `outline/volume-08.md` §8'S PROMISE AND THE PAGE PAID IT.** |
+
+**AND THE THREE FACTS 391 INHERITED AND DID NOT RE-DERIVE:** **the two sightings of `S.M.` are the sixteenth of
+January and the twenty-sixth of February, inside six weeks and not in one month, and the initials are on the DRAFT
+— the second line of the index, in the margin against the fourth — and the reply is the third line and carries
+Sowe's signature alone.** **No chapter in 391–400 mentions either sighting and no chapter puts the initials against
+the reply: `grep -rn 'S\\.M\\.' chapters/volume-08/` returns nothing for 391–400.** **`PC-28` is still open and still
+unfixed, and no chapter in 391–400 carries any figure from 359's section head.** `grep -rn 'settle'
+chapters/volume-08/` returns nothing. `grep -rn 'right temple' chapters/volume-08/` returns nothing.
+
+## THE DAY-COUNTING CONVENTION, FIXED ON 13 OCTOBER 2026 BY BATCH 0004 AND KEPT WITHOUT CHANGE, AND EVERY USE IN
+## THIS BATCH RE-CHECKED ON THE DAY OF THE GATE
+
+**A COUNT OF DAYS REMAINING IN A QUARTER IS THIRTY MINUS THE DATE OF THE MONTH, AND IT IS EXCLUSIVE.** **A COUNT OF
+ELAPSED DAYS MAY BE WRITTEN EITHER WAY AND THE DATE MUST BE SUBTRACTED, NEVER CALCULATED AGAINST A REAL CALENDAR.**
+
+| Chapter | Date of March | Days printed in the prose | 30 − date | |
+| --- | --- | --- | --- | --- |
+| 391 | the twenty-first | **nine** | 9 | correct |
+| 392 | the twenty-second | **eight** | 8 | correct |
+| 393 | the twenty-third | **seven** | 7 | correct |
+| 394 | the twenty-fourth | **six** | 6 | correct |
+| 395 | the twenty-fifth | **five** | 5 | correct |
+| 396 | the twenty-sixth | **four** | 4 | correct |
+| 397 | the twenty-seventh | **three** | 3 | correct |
+| 398 | the twenty-eighth | **two** | 2 | correct |
+| 399 | the twenty-ninth | **one** | 1 | correct |
+| 400 | the thirtieth | **zero, not printed** | 0 | correct; 400 does not count, it is the day |
+
+**AND THE OTHER THREE INTERVALS IN THE BATCH, RE-SUBTRACTED AND CORRECT ON THE GATE:**
+
+- **THE THIRTIETH OF DECEMBER TO THE TWENTY-SEVENTH OF MARCH IS EIGHTY-SEVEN DAYS.** Three to the end of December,
+  thirty for January, thirty for February, twenty-seven for March. 397 says eighty-seven and the table in
+  `outline/volume-08.md` §6 movement 5 says eighty-seven. **398 says eighty-eight for the morning of the
+  twenty-eighth and 397 says eighty-eight for the sheet, and both are correct.**
+- **THE TWENTY-SEVENTH OF OCTOBER TO THE TWENTY-SIXTH OF MARCH IS A HUNDRED AND FORTY-NINE DAYS.** Three to the end
+  of October, thirty for each of November, December, January and February, twenty-six for March. 396 says a hundred
+  and forty-nine days and the figure is right; **the first draft of 396 said *eighteen weeks*, which is not the same
+  number, and it was corrected before the gate was written.**
+- **THE THIRTIETH OF DECEMBER TO THE THIRTIETH OF MARCH IS NINETY DAYS, WHICH IS THE THIRTEENTH WEEK.** 390 said
+  eighty days and twelve weeks on the twentieth of March, and both were correct; **400 says ninety days and the
+  thirteenth week, and the two words go up in paint on the afternoon of the same day the card came down at six.**
+
+## Batch 0005 gates, re-run by command on 13 OCTOBER 2026 against the files as they stand after the last edit
+
+```
+FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0400.md, **fifty files, no gap and no file
+                 outside 0351-0400.**  `ls chapters/*/chapter-*.md | wc -l` -> **400.**
+                 **Volume 8 is COMPLETE.**
+VOL 8 WORDS      **106,583, counted per file and summed.** Per file: 351 **2,167** · 352 **2,240** · 353 **1,734** ·
+                 354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** · 359 **2,260** ·
+                 360 **2,594** · 361 **2,401** · 362 **1,842** · 363 **2,204** · 364 **2,170** · 365 **2,054** ·
+                 366 **2,080** · 367 **1,983** · 368 **2,011** · 369 **3,089** · 370 **2,137** · 371 **2,053** ·
+                 372 **2,212** · 373 **1,604** · 374 **1,909** · 375 **1,842** · 376 **1,700** · 377 **1,696** ·
+                 378 **1,878** · 379 **1,935** · 380 **4,186** · 381 **2,135** · 382 **2,052** · 383 **2,043** ·
+                 384 **2,102** · 385 **2,048** · 386 **1,950** · 387 **1,825** · 388 **3,374** · 389 **1,123** ·
+                 390 **1,981** · **391 2,016 · 392 1,923 · 393 1,829 · 394 1,820 · 395 1,837 · 396 1,917 ·
+                 397 1,830 · 398 3,334 · 399 1,923 · 400 1,916.**
+                 **BATCH 0005 ALONE = 20,335** (106,583 − 86,248).
+                 **COUNT PER FILE AND SUM. NEVER from a concatenation.** For this volume the two agree exactly —
+                 `cat chapters/volume-08/*.md | wc -w` returns **106,583** and the batch bracket returns **20,335** —
+                 because all fifty files carry exactly one trailing newline and none carries a trailing blank line,
+                 both checked file by file.
+                 **THE TEN OF THIS BATCH SIT BETWEEN 1,816 AND 2,017 AND 398 IS 3,334.** 398 is the volume's
+                 scene and it is inside the band a scene chapter is allowed to leave, and the reason is printed on
+                 the page: it is a scene and it is the last one in the volume and the batch's shortest chapters are
+                 394 at 1,820 and 397 at 1,830. **Nothing is padded to a number.**
+TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
+                 **400 title lines, 400 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
+                 The ten at 391–400 are printed exactly as banked in `outline/volume-08.md` §10 and **not one was
+                 changed**; lengths 20 to 36, longest **The Woman Who Spoke And Was Believed, 36**;
+                 **word counts 4, 5, 6, 6, 6, 6, 7, 7, 7, 8**, every one inside 3 to 12; 0 beginning with *What*; 0
+                 built out of *there is no* / *nobody* / *nothing* / *what*.
+                 **AND ZERO SECTION HEADINGS IN THE TEN SHARE AN EIGHT-GRAM WITH A LINE OF PROSE IN ANY CHAPTER IN
+                 THE BOOK**, checked with the gate's own tokenisation. That is the defect Batch 0004's review found
+                 once, at 383, and this batch checked for it before the first chapter and again after the last split.
+MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0**, across the ten.
+                 **Bold spans 0.** **Italic spans 15, and every one of the fifteen is a document, a form, a field
+                 name or a line out of a document and not a sentence.** Method beside the figure, because Batch 0002
+                 recorded a repair of exactly this kind of mistake in exactly this row:
+                 `re.findall(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)', s, re.S)` over each file.
+                 **391: 0. 392: 1** — the eight words as the clerk begins to read them. **393: 4** — *composition of
+                 the holding* and three readings of the word on the fourth line. **394: 4** — the rule under the
+                 standing, *the fourth is vacant*, and *the room stands at three*. **395: 0. 396: 0. 397: 0.
+                 398: 1** — the crossed-out term as it stands on the sheet. **399: 5** — the fourth line, the broker's
+                 name, the clerk's four words under it, and the line at the foot of the return.
+                 **400: 0** — the two words on the wall are set as plain paragraphs and not as emphasis, because the
+                 first draft had them bold and the pass that ran the markdown check took the markup out.
+PARAGRAPHS       over roughly 90 words: **0**.  over roughly 120 words: **0**.  **Longest paragraph in the ten is
+                 90, and it is in 391.** **THE FIRST DRAFT OF THE BATCH HAD FORTY-ONE PARAGRAPHS OVER NINETY AND EVERY
+                 ONE WAS CUT AT A SENTENCE BOUNDARY. THE SPLITTER WAS A REPORTER PLUS A HAND CUT, NOT A MACHINE
+                 SPLIT OVER PROSE CONTAINING DIALOGUE, AND THE QUOTE-BALANCE CHECK RAN AFTER EVERY PASS:**
+                 **0 paragraphs with an odd number of quotation marks stand anywhere in the ten**, and 23 were
+                 repaired. Heading and panel boundary check: **0 headings and 0 system panels without a blank line
+                 above them**, 0 trailing spaces, all ten files end in exactly one newline.
+SYSTEM MESSAGES  **ZERO IN THE BATCH, AND THAT IS CORRECT RATHER THAN AN OMISSION.** `outline/volume-08.md` §9: *a
+                 panel is due in any chapter that turns on the ledger and in no other.* No chapter in 391–400 turns
+                 on the ledger. 398's count is a plate figure read off a painted card and a panel reports in
+                 people and never in acts, so a panel is not owed there either. **The batch precedent of one panel
+                 in ten chapters is a precedent, not a rule, and Batch 0004's own panel was due because its chapter
+                 turned on a book in a room.**
+WEEKNAMES        `grep -rniE "monday|tuesday|wednesday|thursday|friday|saturday|sunday" chapters/volume-08/`
+                 -> **no lines. Seven of seven, whole-word and substring, zero, across all fifty files.**
+                 **ELEVEN WERE IN DRAFTS AND WERE CUT AND THE RECORD IS HERE SO A REPAIR DOES NOT PUT THEM BACK:
+                 Monday twice in 398, Friday twice in 391 and twice in 392 and once in 397 and once in 393, Tuesday
+                 once in 400 and Saturday once in 392.** **THE FIRST DRAFT OF 400 ALSO SAID *four hundred people
+                 who live at that address*, WHICH IS WRONG — PREMISES 34-6-118 IS ONE BUILDING WITH EIGHT WOMEN AND
+                 SIXTY-ONE STEPS IN IT — AND IT NOW SAYS EIGHT WOMEN.**
+SETTLE           `grep -rn "settle" chapters/volume-08/` -> **no lines.** Nothing spent, nothing drawn, nothing
+                 routed, no folio, no second folio, no settle clock, no settle date, **no fifth mark, and the
+                 requisition is live and is NOT carried, not decided and not received.**
+AGES             **No chapter announces an age.** `bible/characters.md` fixes them; the page prints none.
+                 **Dagmar Oyelowo, Hanneke Ruis, Mrs Imrie, Wanda Rej and Herta Vogel all appear in this batch or
+                 are named in it and none of them is given one, and neither is Lin Hao, Marguerite Vale, Nadia
+                 Ferrous, Wren Kallo, Sun Meiling, Beatrix Halm, Isolde Marchetti, Runa Sato, Petra Ilyin,
+                 Anouk Ferreira, Tessa Okonkwo, Bertram Sallow, Alma Quayle or Mrs Imrie.** 393 says *I have wanted
+                 to be findable since I was thirty-one*, which is an age. **IT IS THE AGE OF A WANT AND NOT THE AGE
+                 OF A WOMAN, IT IS SPOKEN BY THE WOMAN HERSELF, AND IT IS THE ONLY AGE IN THE TEN** — the reviewer
+                 who wants it out should change it to *for about nine years* and nothing else in the chapter moves.
+                 398 says *since I was eighteen* in Wren Kallo's mouth and 394 says *I have known for nine years*.
+**A SPAN OF YEARS IS PERMITTED AND WAS USED — thirty years, ninety days, thirteen weeks, twenty-six years, eight
+                 minutes, eleven minutes, nineteen minutes, nine years, six weeks, five weeks — AND AN AGE IS NOT.**
+BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know **0** ·
+                 there is no form **0** · there is no column **0** · the record remained **0** · nobody asked **0** ·
+                 nobody was thanked **0**.  **Nine of nine, in Volume 8, re-run after the last edit.**
+                 **TWO WERE IN DRAFTS AND WERE FIXED IN THIS BATCH: `there is no form on which a chair can put one
+                 back` at 394, and `nobody asked me to be and nobody sent me` in the same paragraph.**
+                 `outline/volume-08.md` §4 and the gate blocks in this file have been hit by this pair between them
+                 and they are the two a repair is most likely to reintroduce while fixing something else.
+DUPLICATE PARAGRAPHS  **0 inside the batch**, checked over every paragraph of over twelve words across the ten.
+12-GRAM          **Scope: the ten files 391–400 against every one of the other 390 chapter files in `chapters/`, and
+                 against each other. Tokenisation: markdown heading marks stripped; em/en dashes and curly quotation
+                 marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every non-alphanumeric turned to a
+                 space; lowercased; split on whitespace; empty tokens dropped.**
+                 **THE SCANNER WAS RE-DERIVED FROM THAT PRINTED TOKENISATION AND VERIFIED AGAINST A NUMBER IT DID NOT
+                 WRITE BEFORE IT WAS BELIEVED.** Against Batch 0001's target with its historical scope — the ten
+                 files 351–360 against chapters 1–360 only, because nothing later existed when that audit was
+                 taken — it returns **31 distinct 12-grams, exactly the audited figure.**
+                 **AGAINST THIS BATCH IT RETURNS 0 DISTINCT 12-GRAMS.** Directed rows **0** · distinct
+                 (chapter, n-gram) pairs **0** · distinct n-grams **0** · distinct (chapter, source file) pairs **0**.
+                 **NOTHING SURVIVES.**
+                 **THE FIRST DRAFT OF THIS BATCH RETURNED 155 AND EVERY REPAIRED MATCH WAS A REAL DEFECT, WHICH IS
+                 THE FOURTH TIME IN FOUR BATCHES THAT THE GATE HAS EARNED ITS KEEP.** The clusters, and what each
+                 one was: **393 restated the opening paragraph of 386, which is the worst of them and was a
+                 paragraph the batch had read six chapters earlier** · **398 borrowed two sentences and a physical
+                 detail out of 350, which is the scene it is the sequel of, and `AGENTS.md` §4 says check borrowed
+                 BODIES before borrowed sentences and when you find one remove the claim and do not move it** ·
+                 **400 copied four figures and two sentences out of 349 and two out of 383 and one out of 384,
+                 which is what happens when a chapter is written as a summary of three earlier ones** ·
+                 **392 copied a clause out of 370 and an entry out of 203** · **397 copied the shape out of 352
+                 twice** · **391 and 395 and 396 each copied one habitual phrase.**
+11-GRAM          **21 distinct**, and each of the twenty-one is named here so that the close audit does not have
+                 to rediscover it: **the eight words at the foot of a sheet, quoted in 392 and also in 348 and 356;
+                 a production read out where it is produced (374, 390); *nothing spent, not on me, not on anyone,
+                 not tonight* at 398, which IS the crossed-out term and is a document** · **the standing formula,
+                 *you may not put one question to me about that address*, which Isolde Marchetti paraphrases at 395
+                 and which Batch 0001 recorded as the book's one standing quotation** · **the shape, at 397** ·
+                 **the minute's own words *the room notes the alteration and does not act on it* at 399, which are
+                 quoted from the minute of the seventeenth of March** · **the stair that did not make a sound
+                 under her at 396, which is her signature exit and is deliberate** · **and nine ordinary English
+                 constructions of eleven words.**
+8-GRAM           **446 distinct**, directed rows **1,167**, distinct (chapter, source) pairs **642**, over a
+                 corpus of 400 chapters and 106,583 words in this volume alone.
+SCENE            **398 IS THE VOLUME'S LAST SCENE AND IT IS WRITTEN OUT.** Scene body, counted from the opening `##`
+                 to the closing `##` exclusive of both: **1,467 words**, against the gate's floor of about 900. No
+                 compulsion, no sedation, no toxin, no restraint, no psychic contact, no seal, no violence; **her
+                 gift is not used on a record or a person or him; she is not impaired and says so in term two of the
+                 sheet and again in her own mouth; every sexual character is an adult and none of the batch
+                 announces an age.**
+                 **BORROWED BODIES, CHECKED BEFORE 398 WAS WRITTEN AND AGAIN AFTERWARDS AGAINST 308, 318, 329, 340,
+                 350, 358, 369, 380 AND 388.** The only physical claim on Wren Kallo in the book is two nails of
+                 the LEFT hand stained at the roots with ink and the yellow at the corner of the white of her LEFT
+                 eye since the spring. **398 uses the ink and does not use the yellow, because the yellow was used
+                 at 350 and using it twice in one book is a claim and not a detail.** `grep -rn 'right temple'
+                 chapters/volume-08/` -> **zero**, so the left temple stays Lin Hao's alone. **Dagmar Oyelowo is in
+                 396 and has no gift and is given none, and her one physical claim on the page is that there is
+                 nothing on her hands, and the 396 draft's line about a woman standing on a step was cut rather than
+                 decorated.** **THE TEMPLATE IS BROKEN ON THREE AXES AND 398 SAYS ALL THREE ON THE PAGE:** the room
+                 is his and not hers; the sheet arrives with one term crossed out and the other four unsaid; nobody
+                 describes anybody and she refuses the description out loud; and there is no counted minute and no
+                 kettle, because he has no kettle.
+```
+
+**THE NEXT PHASE IS NOT ANOTHER BATCH.** Volume 8 is written. **The one live phase is a CLOSE phase, and it reports
+the volume close, writes `reviews/volume-08/volume-close.md`, and sets up `outline/volume-09.md`. It writes no
+prose.**
+
+---
+
+# ~~VOLUME 8 BATCH 0004 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 381–390 ARE ON DISK.~~ **SUPERSEDED 13 OCTOBER 2026 BY
+# THE BLOCK ABOVE; RETAINED IN FULL AS THE POSITION AT CHAPTER 390.**
+# ~~VOLUME 8 BATCH 0004 GATE RECORD — 13 OCTOBER 2026. CHAPTERS 381–390 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS
+FILE. THE BATCH 0003 BLOCK BELOW IT IS MARKED SUPERSEDED AND IS RETAINED IN FULL.~~ **SUPERSEDED 13 OCTOBER 2026 BY
+THE BLOCK ABOVE. RETAINED IN FULL AS THE POSITION AT CHAPTER 390.**
 
 **Every figure below was produced by a pass that did not write the prose and was re-run after the last repair, after the
 last paragraph split and after the last edit. `AGENTS.md` §`outline/volume-08.md` §9 point 4: a gate record is a claim, and

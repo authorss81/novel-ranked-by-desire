@@ -1,5 +1,102 @@
-## VOLUME 8 — CHAPTERS 351–390 ARE ON DISK. CHAPTERS 391–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
+## VOLUME 8 — CHAPTERS 351–400 ARE ON DISK. **VOLUME 8 IS WRITTEN.** THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.
 **THIS IS THE LIVE BLOCK.**
+
+**`outline/volume-08.md` §6 MOVEMENTS 1, 2, 3, 4 AND 5 HAVE ALL NOW BEEN REWRITTEN AGAINST THE CHAPTERS IN THE
+COMMITS THAT WROTE THEM, and between them they name thirty-four places the plan was wrong on the page. Movement 5's
+rewrite SETTLED both open questions the end of §6 had left for the last batch: whether the requisition can hold
+through the quarter boundary into Volume 9, and whether the ranks wall talks before the end of the thirtieth or only
+on it. §8 is written fact and §10 is re-run against 400 title lines.**
+**THE NEXT PHASE IS A CLOSE PHASE, NOT A WRITING PHASE: `workspace/volume-08/volume-close/PROMPT.md`, which reports
+the volume close, writes `reviews/volume-08/volume-close.md`, and sets up `outline/volume-09.md`. IT WRITES NO PROSE.
+IT IS THE LAST PHASE OF VOLUME 8.**
+**Batch 0005 is 20,345 words counted per file and summed. Volume 8 is 106,593 words long and has fifty chapters.**
+**Batch 0004's and Batch 0003's blocks are below this one and are retained in full as the positions at Chapter 390 and
+Chapter 380. The live gate block is Batch 0005's and it is at the head of `state/open-threads.md`, where `PC-47` to
+`PC-56` are recorded.**
+
+### 0. WHAT CHAPTERS 391–400 ADDED TO THE CONTINUITY OF THIS BOOK, AND VOLUME 9 MAY NOT CONTRADICT ANY OF IT
+
+1. **WHAT CROSSES A QUARTER BOUNDARY IS NOT THE SHEET. THE PAPER STAYS IN THE KEEPING OF THE ROOM IT WAS LAID IN
+   WITH A REFERENCE ON THE SPINE; A CLERK WITH A BOOK MOVES A SHEET AND NOT A CHAIR; AND WHAT CROSSES IS THE STANDING
+   OF THE ROOM, WHICH GOES ACROSS AS THE FIGURE IT IS ON THE DAY THE QUARTER CLOSES. FROM THE FIRST OF APRIL A SHEET
+   THAT CROSSED IS ADMINISTERED WEEKLY AGAINST THE COMPOSITION, AND THE ADMINISTRATION RUNS DOWN THE CHAIN TO THE
+   DIVISION THAT HOLDS ITS FOURTH PART.** *So the requisition was never in danger of expiring and never needed to be
+   held: it was already in the next quarter on the afternoon of the thirtieth of March, with everything written on
+   it, and the standing that went with it was three.* (391, PC-47)
+2. **A SUBJECT WHO HAS BEEN SERVED WITH A SHEET MAY NOT TAKE THAT SHEET OFF A ROOM'S LIST.** *No paper for it, none
+   has ever been one, and the reason is twenty years old and nobody down there remembers it either.* (391, PC-48)
+3. **THE CARD THAT COMES DOWN ON THE LAST WORKING DAY OF A QUARTER PRINTS THE FLOOR AND PRINTS THE STANDING FIGURE AT
+   EVERY PREMISES THAT HAS ONE AT THE COMPOSITION OF THAT PREMISES AT THE HOUR IT IS READ. A FIGURE HELD UP BY
+   ATTESTATIONS OF PERSONS CANNOT BE PRINTED AT A COMPOSITION THAT DISAGREES WITH THEM, AND THE FIGURE FALLS BACK TO
+   WHAT THOSE PREMISES HELD BEFORE ANYBODY PUT A HAND TO ANYTHING. THE TOLERANCE IS THREE GRAINS.** *This is the only
+   cause a plate ever has in this volume, and it is why `outline/volume-08.md` §5a's rule that nothing may print a
+   date for the fall off nothing is satisfiable: the fall is dated to the thirteenth of March and read at the
+   card.* (391, 400, PC-49)
+4. **THE FLOOR IS 8,146 AND PLATE 8,131, AND THEY ARE PRINTED ON THE CARD IN CHAPTER 400.** *The fourteen points
+   that eight hands carried up on the thirtieth of December go back down on the thirtieth of March, and it is the
+   same fourteen. 8,131 is the figure that stood on that wall on the twenty-ninth of November and for the whole of
+   December. The tolerance is three, so fifteen under is out of band by twelve, and the two words were on the wall
+   in paint at about four in the afternoon of the same day the card came down at six.* (400, PC-50)
+5. **THE FOURTH SEAT HAS SAID *VACANT* SINCE THE TWELFTH OF FEBRUARY BECAUSE A MEMBER OF THAT ROOM IS NOT THE OFFICER
+   WHO CERTIFIES A COMPOSITION AT ANY ADDRESS, AND THE QUARTERLY RE-READ READS THE WHOLE OF AN ENTRY ALOUD INCLUDING
+   THE LINE UNDERNEATH THE STANDING; A STANDING IS NOT THE CHAIR'S TO RESTORE; ONLY THE COUNCIL RESTORES ONE; AND THE
+   COUNCIL DID NOT SIT UNTIL THE FIRST OF APRIL.** *So the requisition crosses with three and the only door into four
+   opens the day after it crossed. Bertram Sallow lost his seat on the first of February and the clerk wrote the word
+   on the twelfth, and he has laid a dated entry in the keeping book declaring it vacant.* (394, PC-51)
+6. **A NAME WRITTEN BY A PERSON IN A LINE OF A WEEKLY RETURN IN A ROOM IS ENTERED BY A CLERK OUT OF A BOOK, AND A BOOK
+   IN THAT ROOM IS NOT A DOCUMENT ANYBODY CAN CORRECT. IT FILLS NO SEAT AND CANNOT BE STRUCK BY ANYBODY INCLUDING THE
+   PERSON WHO WROTE IT, AND IT IS NOT ON ANY ROLL ANYWHERE IN THE CITY AND DOES NOT PUT ITS WRITER ON ONE.**
+   *Marguerite Vale wrote hers in the fourth line at about nine in the morning on the twenty-third of March and the
+   return carried it to four divisions at four in the afternoon on the twenty-ninth. She is not one of the eight,
+   she is unprotected, she gets nothing for it, and what she wants is to be findable.* (393, 399, PC-52)
+7. **A DIVISION THAT DOES NOT SIT IN THE WING AND KEEPS NO LIST OF ADDRESSES CANNOT REACH A WOMAN ON A LIST AND CAN
+   ONLY REACH THE BUILDING SHE IS IN, SO A NOTICE REQUIRING THE PERSON WHO MADE AN ENTRY TO ATTEND IS SERVED AT THE
+   PREMISES THE ENTRY DESCRIBES.** *Mrs Imrie came up sixty-one steps on the afternoon of the twenty-sixth of March,
+   having spent eleven minutes at a counter on the twenty-fourth reading back four words she wrote in October and a
+   question under them and her own answer, which is *because it is cheaper*, in her own mouth. He is not permitted
+   to put one question to her and he said thank you for coming.* (396, PC-53)
+8. **AN OFFICER WHO PRODUCES A PART INITIALS THE TRANSMISSION ABOVE IT, AND A QUARTERLY RETURN CARRIES NAMES ON THE
+   LAST WORKING DAY OF A QUARTER AND DOES NOT CARRY THEM ON ANY OTHER DAY.** *So Wren Kallo's initials are on a
+   transmission out of her own division on the ordinary stream, and a return at the end of a corridor carries them,
+   and there is no minute in this city that says she was asked.* (399, PC-54)
+9. **THE PRODUCTION OF A DOCUMENT IS ENTERED IN A MINUTE AS PRODUCED AT THE DEMAND OF THE SUBJECT AND NOT AS ADOPTED,
+   AND THE DIFFERENCE BETWEEN THE TWO IS THE ENTIRE CONTENT OF THAT ROOM.** *He chose it. The chair read his eight
+   words out loud twice in a corridor with the door open and then refused to carry them in as hers.* (392, PC-55)
+10. **THERE ARE TWO MINUTES IN THIS BOOK THAT CARRY HIS NAME AND THAT NEITHER HE NOR WREN KALLO WROTE: THE MINUTE OF
+    THE TWENTY-SIXTH OF DECEMBER AND THE MINUTE OF THE TWENTY-NINTH OF MARCH.** *The second was entered at about
+    eleven o'clock on the morning of the twenty-eighth: the shape, the route, the office it reached and the woman it
+    arrived at, in four lines, in her own hand, with her initials on the transmission above them.* (398, 399, PC-56)
+11. **AND WREN KALLO HAS SAID OUT LOUD FOR THE FIRST TIME THAT SHE IS THE ONE WHO SPENT THE WOMAN, EIGHTY-SEVEN DAYS
+    AFTER SHE DECIDED TO SPEAK ON THE NIGHT OF THE THIRTIETH OF DECEMBER; SHE IS NOT TELLING HIM ABOUT THE ADDRESS
+    AND HE IS NOT ASKING AND THE TWO FACTS HAVE NOW SAT IN THAT ROOM TOGETHER NINE TIMES; AND SHE HAS SAID THE
+    ARRANGEMENT OUT LOUD, WHICH IS *IT IS NOT A REWARD AND IT IS NOT A PRICE AND IT IS NOT FOR YOU*.**
+12. **AND SHE WROTE A MINUTE IN HER OWN DIVISION WITH HIS NAME IN IT AND HE IS NOT GOING TO BE TOLD ANYTHING ABOUT
+    IT, AND SHE IS NOT ON A ROLL AND NEVER WILL BE, AND 398 IS THE ONLY SCENE IN THE BOOK THAT IS IN HIS ROOMS.**
+13. **HE HAS BROKEN TWO OF DAGMAR OYELOWO'S THREE THINGS.** *The second on the nineteenth of March, with a pencil,
+    signed with his own name. The third on the evening of the twenty-sixth, by going back up the walled road about
+    her and not about his brother. The first is the only one of her three still standing. And she has told him there
+    are two people alive who know what is in that book, and one of them has no gift at all and would not be here for
+    ever.* (396)
+14. **THE REQUISITION IS STILL LIVE AND IS STILL NOT CARRIED, NOT RECEIVED AND NOT DECIDED, AND IT IS NOW IN THE NEXT
+    QUARTER. NOTHING IS SPENT, NOTHING DRAWN, NOTHING ROUTED, NO FOLIO, NO SETTLE CLOCK, NO SETTLE DATE, NO
+    CLASSIFICATION COMPLETED, AND THE HELD-BY BOX IS STILL NOT A THING THAT CARRIES ANYTHING.**
+15. **THE PLATE IS 8,131, THE FLOOR IS 8,146, AND THE WALL HAS SAID NOTHING ABOUT HIM FOR NINETY DAYS, WHICH IS THE
+    THIRTEENTH WEEK — AND IT SAID TWO WORDS ABOUT HIM ON THE AFTERNOON OF THE THIRTIETH OF MARCH.**
+16. **THE COMPOSITION COPY WENT TO A PUBLIC POST OFF A THIRD COURT ON THE MORNING OF THE TWENTY-FIRST, AND ON THE
+    MORNING OF THE THIRTIETH A RENEWAL SHEET WITH A BOX ON IT WENT TO THE SAME DESK, AND SHE FILLED IN THE BOX IN
+    ABOUT FOUR MINUTES IN HER OWN HAND UNDER HER OWN NAME, AND NOBODY HAD ASKED HER ANYTHING AND SHE WAS THE ONLY
+    PERSON IN THAT BUILDING NOBODY WAS WAITING ON.**
+17. **A HELD ACCOUNT'S MEDICAL RETURN WENT TO THE VESTRY CLINIC ON THE MORNING OF THE THIRTIETH OF MARCH AND Tessa
+    Okonkwo WILL SEE IT, AND SHE HAS PROMISED HIM NOTHING BEYOND SEEING IT AND HE HAS ASKED FOR NOTHING MORE.**
+18. **AND `PC-28` IS STILL OPEN AND STILL UNFIXED.** `chapter-0359.md` heads a section The Nine Days for a three-day
+    interval. **No chapter in 391–400 carries those figures, no chapter in 391–400 mentions either sighting of
+    `S.M.`, and no chapter in 391–400 prints those initials anywhere. `outline/volume-08.md` §8's list of do-not-close
+    items stands and one of them — *whether Volume 8 can run fifty chapters with nothing spent* — was answered
+    against the page: the pressure was documentary, the cost fell on bodies, and the one thing that was spent was a
+    plate.**
+
+## ~~VOLUME 8 — CHAPTERS 351–390 ARE ON DISK. CHAPTERS 391–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH.~~ **SUPERSEDED 13 OCTOBER 2026 BY THE BLOCK ABOVE. RETAINED IN FULL AS THE POSITION AT CHAPTER 390.**
+~~THIS WAS THE LIVE BLOCK.~~
 
 **`outline/volume-08.md` §6 MOVEMENTS 1, 2, 3 AND 4 WERE ALL REWRITTEN AGAINST THE CHAPTERS IN THE COMMITS THAT WROTE
 THEM, and between them they name twenty-two places the plan was wrong on the page. Movement 4's rewrite SETTLED three more
