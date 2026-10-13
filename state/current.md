@@ -1,5 +1,17 @@
 # VOLUME 9 PLANNING HEAD RECORD — 13 OCTOBER 2026. **VOLUME 9 IS NOT WRITTEN. THIS FILE IS THE OPENING POSITION OF THE VOLUME AND THE THREE DECISIONS IT OWES, AND IT IS A PLANNING RECORD, NOT A WRITING ONE.**
 
+> **REPAIRED 13 OCTOBER 2026 BY THE REVIEW REPAIR PASS. THE PLAN IS NOT RESTARTED AND THE PLOT IS NOT CHANGED.**
+> A review of the Volume 9 planning phase found nine defects in `outline/volume-09.md`,
+> `outline/batches/volume-09-batch-0001.md` and `workspace/volume-09/batch-0001/PROMPT.md`, plus one further interval
+> error found while repairing them. **All ten are fixed and the fix is listed in full at the head of
+> `state/open-threads.md`, under *THE 13 OCTOBER 2026 REVIEW REPAIR*.** **No prose was written or altered,
+> `chapters/volume-09/` STILL DOES NOT EXIST, no chapter was added, removed or reordered, no date moved, no scene
+> moved, no scene gap changed, and `outline/ending.md` is still untouched.** **THE THREE THINGS A WRITER SHOULD KNOW
+> THAT WERE WRONG IN THE RECORD BELOW AND ARE NOW RIGHT: Beatrix Halm's last scene is 299 and not 349; the nine sworn
+> on the Chapter 402 roll are named and require Tessa Okonkwo and Marguerite Vale, of whom three hold their own plates;
+> and the interval from the roll to the lodge is THIRTEEN days, not eleven.** Everything this file says about the
+> shape of Volume 9 — its dates, its scenes, its pressure, its cost and its ending — stands as written.
+
 > **THE PHASE THAT WROTE THIS WROTE NO PROSE.** It produced `outline/volume-09.md`, `outline/batches/volume-09-batch-0001.md`,
 > this state update, and one file: `workspace/volume-09/batch-0001/PROMPT.md`, a **WRITING** phase for Chapters 401–412.
 > **`chapters/volume-09/` DOES NOT EXIST AND MUST NOT BE CREATED BY ANYTHING BUT A WRITING PHASE.** Volume 8 remains

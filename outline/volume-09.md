@@ -93,6 +93,23 @@ of prose.** `PC-44`'s consequence is the reason it is possible: **Dagmar Oyelowo
 so there is no scene in 401–450 that cannot be explicit, and the explicit count and the mixed count are the same
 five gaps.**
 
+**AND ONE DIVERGENCE FROM `outline/series.md` THAT A LATER PHASE MUST NOT "CORRECT" BACK, FLAGGED HERE BECAUSE
+`series.md`:193 IS ONE ROW AND READS DIFFERENTLY FROM THE PLAN.**
+
+**`outline/series.md`:193 fixes the Chapter 402 milestone as *the standing household recognised at rank nine*. THIS PLAN
+PUTS 8,131 AGAINST THE HOUSEHOLD'S NAME ON THE SECOND OF APRIL, BECAUSE A ROLL IS TAKEN ON THE DAY IT IS TAKEN AND THE
+HIGHEST RANK IN THE HOUSEHOLD ON THAT MORNING IS HIS. THE HOUSEHOLD IS RECOGNISED AT 402 AND IT IS BOUND AT NINE
+THIRTEEN DAYS LATER, ON THE FIFTEENTH (`PC-68`).**
+
+**THE PLAN HAS NOT CHANGED THE MILESTONE, THE DATE, THE MECHANIC OR THE PLOT, AND `series.md` IS NOT AMENDED: ITS LINE
+IS A ONE-ROW SHORTHAND FOR THE WHOLE CHAPTER 402 MILESTONE AND IT IS NOT WRONG ABOUT THE OUTCOME. WHAT A LATER PHASE
+MUST NOT DO IS READ THAT ROW, FIND 8,131 ON THE SECOND OF APRIL, AND DECIDE THE PLAN IS IN ERROR AND CORRECT IT TO A
+BINDING THAT TAKES NINE ON A ROLL THAT HAS NOT BEEN TAKEN AT NINE. IF THE TWO FILES APPEAR TO CONFLICT, THE ROLL'S
+FIGURE IS 8,131 ON THE SECOND OF APRIL, THE BINDING IS NINE ON THE FIFTEENTH, AND `PC-68` GOVERNS.**
+
+**THE SAME FLAG APPEARS ON THE CHAPTER 402 CARD, IN `outline/batches/volume-09-batch-0001.md`, AND IN THE `PC-68` ROW
+OF `state/continuity.md`, SO THAT A PHASE THAT READS ANY ONE OF THE FOUR PLACES FINDS IT.**
+
 ---
 
 ## 2. Beginning state, entering Chapter 401 — every figure from the page and nothing inferred
@@ -156,6 +173,19 @@ repair block at the head of `state/open-threads.md`. **If a figure here cannot b
 - **Eight women at Ferrier Street, 34-6-118** — Sun Meiling, Runa Sato, Wren Kallo, Beatrix Halm, Nadia Ferrous,
   Isolde Marchetti, Agnete Lindqvist, Petra Ilyin — **and a ninth who is not at that address and is not on the
   October list either: Ines Duarte, on Lantern Row, on no roll, with her own plate.**
+- **AND THE HOUSEHOLD ROLL IS NOT THE LIST ABOVE, AND THE NINE ON IT ARE FIXED BY `bible/characters.md` AND MUST BE
+  NAMES ON THE PAGE. THE TWELVE, LESS THE THREE WHO ARE NOT SWORN, IS NINE: Wren Kallo, Sun Meiling and Dagmar
+  Oyelowo are the three, and the roll is Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato,
+  Marguerite Vale, Agnete Lindqvist, Petra Ilyin and Isolde Marchetti.**
+- **THE MECHANIC THAT MAKES THOSE NINE ONE HOUSEHOLD, AND IT IS THE BIBLE'S OWN, IS THAT THE LAW BINDS THE PLATE AND
+  THE BOND AND QUARTERS ARE NOT THE TEST. A SWORN MEMBER MAY HOLD HER OWN PLATE AND HER OWN ROOMS, AND HER NAME STAYS
+  ON THE ROLL, AND THE ROLL IS THE THING THE BUREAU READS AND THE THING A REQUISITION RUNS AGAINST.** So **three of
+  the nine are not at Ferrier Street and are never at that table** — **Ines Duarte on Lantern Row**, **Tessa Okonkwo**
+  in her own rooms over the cold store, and **Marguerite Vale**, whose plate is the Vant's smaller rooms and who has
+  eaten at that table at most twice in nine years. **Six of the nine live at 34-6-118: Beatrix, Nadia, Runa, Isolde,
+  Agnete and Petra.** Two of the eight who are at that address are not on the roll at all — Wren Kallo and Sun Meiling
+  — **and that is not an oversight in the counting; it is the whole point of the three reasons, and a chapter that puts
+  a sworn name on a roll by counting the people in a kitchen has got seven.**
 - **Wren Kallo has said out loud that she is the one who spent the woman** and has not said whom, and he has not
   asked and is not permitted to. **She has entered a finding in a minute in her own division with his name in it, and
   there are two minutes in this book carrying his name that neither of them wrote (`PC-56`).**
@@ -202,7 +232,7 @@ follows is the arithmetic, on **both** counts, in the shape `outline/volume-08.m
 | **406** | **Petra Ilyin** | 214 | 406 − 398 = **8** | **8** |
 | **417** | **Nadia Ferrous** | 29 | 417 − 406 = **11** | **11** |
 | **428** | **Runa Sato** | 318 | 428 − 417 = **11** | **11** |
-| **438** | **Beatrix Halm** | 349 | 438 − 428 = **10** | **10** |
+| **438** | **Beatrix Halm** | 299 | 438 − 428 = **10** | **10** |
 | **446** | **Ines Duarte** | 340 | 446 − 438 = **8** | **8** |
 
 **MIXED COUNT: 8, 11, 11, 10, 8. Nothing under eight, nothing over fifteen. The claim in that form is true.**
@@ -220,7 +250,7 @@ explicit count without inventing a gift, which is the whole of the obligation Vo
 has had the volume's last scene at 398 and has said out loud that she is not asking him for anything; and Sun
 Meiling is the woman this book told and has not had a scene since 358 and **is about to learn what she has been
 administering, which is not a scene and must never be written as one.** **And none of the five is a first scene for
-a partner who has not had one** — Petra at 214, Nadia at 29, Runa at 318, Beatrix at 349, Ines at 8 and 340 and 271.
+a partner who has not had one** — Petra at 214, Nadia at 29, Runa at 318, Beatrix at 299, Ines at 8 and 340 and 271.
 
 **WHAT THE FIVE ARE FOR, BECAUSE FOUR OF THEM ARE NOT ONE CHAPTER'S CHOICE:**
 
@@ -238,7 +268,12 @@ a partner who has not had one** — Petra at 214, Nadia at 29, Runa at 318, Beat
   only person alive who knows he wrote his own standing order, and she has said out loud in front of eight women that
   she was holding a fact for a month.** She is the one who will have to certify something at a composition in her own
   hand to put a fifth in that room, and she has been priced once already for saying a true thing out loud.
-- **438 BEATRIX HALM.** Last scene 349. **She has stood at that wall every morning for nine years with a notebook and
+- **438 BEATRIX HALM.** Last scene 299, and **299 is Volume 6's fifth and final scene and it is hers** — `outline/series.md`
+  fixes Volume 6's five at 261, 269, 279, 289 and 299, so her first is 17 and her last was 299 and **438 is the second
+  scene she has had in this book — 421 chapters after the first (438 − 17) and 139 after the last (438 − 299).** The
+  figure 349 that an earlier
+  draft of this file carried was the title of a chapter, *The Card Comes Down At Six*, and that chapter is not a
+  scene. **She has stood at that wall every morning for nine years with a notebook and
   has six empty lines in it and one filled with *thirteenth, counter, nine forty-one*.** She is the only intelligence
   source nobody can intercept and the only person in the book who has been nine years inside the one instrument that
   cannot be forged — a woman writing down a time. **Her gift costs her the ear she has been deaf in since the Veil,
@@ -343,7 +378,7 @@ Volume 8's ninety-day shape exactly and the two volumes meet on a card.**
 | **401–410** | **1 Apr – 18 Apr** | the first sitting since the twenty-ninth of December; the broker's name read aloud; **the roll; what a consignment is; the first refusal; the scene; the ask; the movement** | **RESTORED** | **406** |
 | **411–420** | **19 Apr – 6 May** | the line with a gap in it; **she works out what she has been administering**; the first draw; the cost of each name, priced | **WITNESSED** | **417** |
 | **421–430** | **7 May – 24 May** | the room at five and a requisition that is capable of being carried for eighty days and is carried on none; the recusal; the third floor; the division that holds the fourth part | **CAPABLE** | **428** |
-| **431–440** | **25 May – 12 Jun** | the composition certificate; the block that no form provides; four minutes and a box; the woman who was never told; the roof; the count she keeps under | **ADMINISTERED** | **438** |
+| **431–440** | **25 May – 12 Jun** | the composition certificate; the block that no form provides; four minutes and a box; the woman who was never told; **nine years at the north end of a wall**; the count she keeps under | **ADMINISTERED** | **438** |
 | **441–450** | **13 Jun – 30 Jun** | **he answers the requisition himself**; the cheapest thing in the room; the clause under the minute; **the card, and a name on the black tile** | **ANSWERED** | **446** |
 
 **Chapter-by-chapter days, all derived by subtraction inside this world's own thirty-day months. THERE IS NO
@@ -445,8 +480,12 @@ and the only thing that can be given is a figure other people have already put u
   has carried *Marguerite Vale* in a broker's own hand since the twenty-ninth of March, a clerk cannot correct a
   book and can only enter, and a member's standing may not be altered in a room where it is not read. So her name
   is read out loud to nine people on the first of April, because she wanted to be findable.**
-- **402 (2 Apr). NINE SIGNATURES ON ONE ROLL.** The standing household recognised at the Ninth Terrace. Ines signs
-  from her own rooms, in person, without arguing about it. **Wren Kallo, Sun Meiling and Dagmar Oyelowo are not
+- **402 (2 Apr). NINE SIGNATURES ON ONE ROLL.** The standing household recognised at the Ninth Terrace. **AND THE
+  NINE ARE NAMED, NOT COUNTED OFF A KITCHEN: the twelve less the three unsworn is Ines Duarte, Beatrix Halm, Tessa
+  Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale, Agnete Lindqvist, Petra Ilyin and Isolde Marchetti. Three of the
+  nine hold their own plate and their own rooms and are not in the hall — Ines signs from Lantern Row, in person,
+  without arguing about it, and Tessa and Marguerite sign on their own paper. Quarters are not the test; the roll is.**
+  **Wren Kallo, Sun Meiling and Dagmar Oyelowo are not
   sworn, and the chapter gives the three reasons once each in the three women's own mouths.** **AND THE FIGURE: the
   clerk asks for the household's rank, and there is no such thing as the rank of a consignment, and the number
   entered against the household's name is 8,131 — fifteen under a floor, out of band by twelve, the first figure in
@@ -491,8 +530,9 @@ and the only thing that can be given is a figure other people have already put u
 
 **WHAT CLOSES IN MOVEMENT 1:** *the room stands at five and the fifth is him.* **THE COST, IN THREE PARTS:** **a
 guild broker who wanted nothing but to be findable has been read aloud in a room of nine because he needed a
-standing; nine sworn women are bound to a figure with no floor, and a binding that takes the highest rank in the
-household takes nine on the fifteenth of April and cannot be taken back off them; and the protection he spent eight
+standing; **nine sworn women are bound to a figure with no floor — three of them at their own plates and not under his
+roof — and a binding that takes the highest rank in the household takes nine on the fifteenth of April and cannot be
+taken back off them;** and the protection he spent eight
 volumes building — a requisition that could not be carried because the room could not reach five — is gone, and he
 put it there himself.**
 
@@ -625,7 +665,9 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | **0002** | **413–422** | 23 April – 9 May | **the first draw on a stranger; the ledger crossing a number; each name priced; the Nadia Ferrous scene at 417; the household finding out what it has signed; and the first eight days of a room that can carry the sheet** |
 | **0003** | **423–432** | 11 May – 27 May | **the envelope, the recusal he does not lift, the third floor, the division that holds the fourth part, the Runa Sato scene at 428, and the price of what a lodged citizen is administered against** |
 | **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself** |
-| **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters and a half — it is the volume's close and it is one unit, and `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not thirty chapters** |
+| **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
+`PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
+thirty** |
 
 **THE TOTAL IS TWELVE PLUS TEN PLUS TEN PLUS TEN PLUS EIGHT, WHICH IS FIFTY. NO CHAPTER IS IN TWO BATCHES AND NO
 CHAPTER IS IN NONE.**
@@ -789,7 +831,7 @@ Off Cordwain (29) · 407 The Arithmetic Of Eight Hands (29) · 408 The Thing He 
 Movement That Cannot Be Undone (34) · 410 Seven Of The Eight (18)**
 
 **411 The Hand That Did Not Sign (26) · 412 The Room Stands At Five (23) · 413 A Queue Off The Third Court (27) ·
-414 One Hundred And Seventy-One Lines (33) · 415 The Standing Order She Will Keep (32) · 416 The Singer Who Cannot
+414 The Ledger Crossing A Number (28) · 415 The Standing Order She Will Keep (32) · 416 The Singer Who Cannot
 Sing Here (31) · 417 The Woman Who Gave The Address (30) · 418 Nine Women And A Witness Line (29) · 419 Four In The
 Afternoon, To Six Desks (35) · 420 The Clerk Who Reads A Gap Aloud (31)**
 
@@ -800,7 +842,7 @@ On The Third Floor (26) · 427 The Consult She Takes To A Board (32) · 428 The 
 
 **431 Four Times A Year In Her Own Hand (33) · 432 The Fourth Block Of A Sheet (27) · 433 Four Minutes And A Box (22)
 · 434 The One Who Was Never Told (26) · 435 The Chair Who Will Not Meet (27) · 436 A Correction She Has Not Filed
-(30) · 437 The Third Sub-Level (19) · 438 The Roof Above The Reading (26) · 439 The Count She Keeps Under (25) ·
+(30) · 437 The Third Sub-Level (19) · 438 Nine Years At The North End (27) · 439 The Count She Keeps Under (25) ·
 440 The House That Is Nine People (29)**
 
 **441 The Standing To Answer For Himself (34) · 442 The Minutes He Reads Himself (28) · 443 The Requisition In His Own
@@ -812,6 +854,26 @@ With The Paste Brush (28) · 450 The Name On The Black Tile (26)**
 2026, against all 400 written title lines in `chapters/`, and every one of the fifty is exactly as printed. Longest
 35, shortest 18, word counts 3 to 8, every one inside 3 to 12. A batch that changes one re-runs this and rewrites
 the row in the same commit.**
+
+**TWO TITLES WERE RETITLED IN THE REVIEW REPAIR OF 13 OCTOBER 2026 AND THE RE-RUN WAS DONE AFTER THE EDIT. NEITHER
+CHANGE MOVED A CHAPTER, A DATE, A SCENE OR A FIGURE ON THE PAGE — BOTH WERE NAMES THAT COULD NOT CARRY WHAT THE
+CHAPTER DOES.**
+
+- **414 WAS *ONE HUNDRED AND SEVENTY-ONE LINES* AND IS NOW *THE LEDGER CROSSING A NUMBER*. THE LEDGER IS 142 ON THE
+  FOURTEENTH OF MARCH AND IS RISING ABOUT SEVEN LINES A THIRTY DAYS — 131 ON THE FIRST OF FEBRUARY, 138 ON THE FIRST OF
+  MARCH, 142 ON THE FOURTEENTH — AND 414 IS THE TWENTY-FIFTH OF APRIL, WHICH IS FORTY-ONE DAYS LATER AND GIVES ABOUT
+  152.** **171 IS TWENTY-NINE LINES ON, WHICH AT THAT RATE IS ABOUT A HUNDRED AND TWENTY-FOUR DAYS, AND THE THIRTIETH OF
+  JUNE IS A HUNDRED AND SIX DAYS AFTER THE FOURTEENTH OF MARCH: THE TITLE NAMED A FIGURE THE LEDGER DOES NOT REACH
+  INSIDE THE VOLUME.** The chapter is one of the two that turn on a system panel and the panel turns on the ledger
+  *crossing* something. **A title may not name a figure the page cannot produce, and this file's own rule at §5b says a
+  threshold comes from a card on a wall printed in the chapter that uses it or the chapter does not use one.** If a
+  batch later prints a real figure at 414 it may coin a title for it then, on the same collision check.
+- **438 WAS *THE ROOF ABOVE THE READING* AND IS NOW *NINE YEARS AT THE NORTH END*.** **There is no roof in this
+  geography.** `bible/terminology.md` fixes the Board as *the wall of ceramic tiles at the head of the Reading*,
+  `chapter-0400.md:3` and `:87` put Beatrix Halm under *the north end of the ranks wall*, and §3 puts her 438 there as
+  well. **The old title was a place this book has never had, and a scene title that names a place is a claim about
+  geography whether or not anybody checks it.** The new one uses the two facts that are on the page: nine years, and
+  the north end.
 
 **NOTES A LATER BATCH INHERITS.**
 

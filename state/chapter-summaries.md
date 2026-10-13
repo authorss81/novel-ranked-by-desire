@@ -68,7 +68,8 @@ produce.** **On the fourteenth of April he asks eight women at his own table, in
 loud first. On the fifteenth he lodges it at a public post, and a consignment is entered in the room's book on the day
 it is lodged and is not entered out on any day — and the room stood at three for twenty-six weekly returns and stood
 at four from the first of April, so the morning he lodges is the morning the requisition that could not be carried for
-three months becomes capable of being carried. He built the fifth himself. That is the batch's irreversible act and
+fifty-five days — laid on the twentieth of February, and (30 − 20) + 30 + 15 = 55 — becomes capable of being carried.
+He built the fifth himself. That is the batch's irreversible act and
 it costs him the only protection he had.**
 
 ### THE SCENES, AND THE ARITHMETIC ON BOTH COUNTS
@@ -86,6 +87,33 @@ which is still in the book and which no state file may describe as closed, decid
 does not put a brother in Sun Meiling's mouth, does not print a band floor it has not read off a card in the chapter
 that prints it, does not name a day of the week, does not announce an age, does not carry or receive or decide the
 requisition, does not make an offer of any kind, and does not introduce a final enemy.**
+
+### THREE FIGURES IN THIS ENTRY WERE WRONG UNTIL THE 13 OCTOBER 2026 REVIEW REPAIR, AND ARE CORRECTED HERE
+
+**1. THE NINE ON THE CHAPTER 402 ROLL ARE NAMED, NOT COUNTED, AND THREE OF THEM ARE NOT AT FERRIER STREET.**
+`bible/characters.md` fixes the standing household as nine of the twelve, with **Wren Kallo, Sun Meiling and Dagmar
+Oyelowo** the three who are not sworn. **The nine are Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa
+Sato, Marguerite Vale, Agnete Lindqvist, Petra Ilyin and Isolde Marchetti — and Tessa Okonkwo and Marguerite Vale were
+missing from this entry's cast and from the plan's, which made the roll come to seven.** The mechanism that makes nine
+women in three buildings one household is the bible's own and the plan had not invoked it: **the law binds the plate
+and the bond, quarters are not the test, and a sworn member may hold her own plate and her own rooms.** So Ines Duarte
+is on Lantern Row, Tessa Okonkwo and Marguerite Vale are on their own plates, **and only six of the nine live at
+34-6-118.** Chapter 400 is the page that supports it: **eight women at that table, seven of them sleeping at the
+address, the eighth a broker from the Vant.** **A writer who counts the kitchen gets seven and does not know why.**
+
+**2. THE INTERVAL FROM THE ROLL TO THE LODGE IS THIRTEEN DAYS, NOT ELEVEN.** The roll is taken on the second of April
+with 8,131 against the household's name, because a roll is taken on the day it is taken and the highest rank in the
+household that morning is his. **He lodges on the fifteenth of April and is bound at nine: 15 − 2 = 13 (`PC-68`).**
+`outline/series.md`:193 calls the Chapter 402 milestone *the standing household recognised at rank nine*; **that row is
+a one-row shorthand for the milestone and is not an instruction to enter nine on the second of April.** The flag is
+carried at §1b of `outline/volume-09.md`, on the 402 card, in the `PC-68` row and in the PROMPT.
+
+**3. TWO TITLES IN THE BANK WERE RETITLED AND NEITHER MOVE WAS A PLOT CHANGE.** **414 was *One Hundred And
+Seventy-One Lines*, which names a figure the ledger cannot reach by the end of the volume, and is now *The Ledger
+Crossing A Number*. 438 was *The Roof Above The Reading*, which is geography this book does not have, and is now
+*Nine Years At The North End*.** **And Beatrix Halm's last scene was printed as 349 and is 299** — Volume 6's fifth
+and final scene is hers; 349 is a chapter title and not a scene — **which makes 438 the second scene she has had in
+this book and leaves the gap arithmetic untouched.**
 
 ## Volume 8 — The Brother's File
 

@@ -190,9 +190,17 @@ recognised in the open and there is nothing private about a roll.
 **Resistance:** **it is the cheapest instrument in this city and he knows it, and he is putting nine women's names on
 a document anyway.** A roll is read at every counter a member ever stands in front of.
 
-**Major turn:** **nine women sign. Ines Duarte signs from her own rooms on Lantern Row, in person, without arguing
-about it — and that is a signature and not a reading, and no paper is read in those rooms again, not to her and not
-by him. Wren Kallo, Sun Meiling and Dagmar Oyelowo are not sworn, and the chapter gives the three reasons once each,
+**Major turn:** **nine women sign, and the nine are NAMED ON THE PAGE rather than counted off the table.**
+**The twelve less the three unsworn is nine: Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato,
+Marguerite Vale, Agnete Lindqvist, Petra Ilyin, Isolde Marchetti.**
+**AND THE MECHANIC THAT MAKES NINE WOMEN IN THREE BUILDINGS ONE HOUSEHOLD IS THE BIBLE'S OWN: THE LAW BINDS THE PLATE
+AND THE BOND, QUARTERS ARE NOT THE TEST, AND A SWORN MEMBER MAY HOLD HER OWN PLATE AND HER OWN ROOMS.** So **three of
+the nine are not in the hall and do not sign on a sheet in front of a clerk** — **Ines Duarte signs from her own rooms
+on Lantern Row, in person, without arguing about it — that is a signature and not a reading, and no paper is read in
+those rooms again, not to her and not by him — and Tessa Okonkwo and Marguerite Vale sign on their own paper, from
+their own plates.** **Six of the nine are at 34-6-118.** A chapter that gets the number by counting the women at a
+kitchen table gets seven, and it gets seven because two of the eight who live there are not on the roll at all.
+**Wren Kallo, Sun Meiling and Dagmar Oyelowo are not sworn, and the chapter gives the three reasons once each,
 in the three women's own mouths, and `bible/characters.md` fixes all three.**
 
 **AND THE FIGURE, WHICH IS THE CHAPTER'S REAL TURN:** the clerk asks for the household's rank. **There is no such
@@ -215,6 +223,19 @@ useful. **She has no gift at all and gets none.**
 fifteenth it will be nine, and there is nobody in this city who can take it off them afterwards, and he is the only
 person who knows it is coming.**
 
+**THE INTERVAL ON THIS HOOK, RE-SUBTRACTED: 15 − 2 = THIRTEEN DAYS FROM THE ROLL TO THE LODGE.** A roll taken at 8,131
+on the second of April is bound at nine thirteen days later, on the morning of the fifteenth, and the binding is
+entered over the line it stands on the way it was on the first of April (`PC-61`, `PC-68`).
+
+**AND A NOTE FOR ANY LATER PHASE THAT READS `outline/series.md` AND NOT THIS CARD. `outline/series.md`:193 says the
+Chapter 402 milestone is *the standing household recognised at rank nine*, and THE PLAN HAS NOT CHANGED THAT
+MILESTONE AND HAS NOT CHANGED THE PLOT — BUT THE FIGURE AGAINST THE HOUSEHOLD'S NAME ON THE SECOND OF APRIL IS
+**8,131**, BECAUSE A ROLL IS TAKEN ON THE DAY IT IS TAKEN AND THE HIGHEST RANK IN THE HOUSEHOLD ON THE SECOND OF APRIL
+IS HIS. THE HOUSEHOLD IS *RECOGNISED* AT 402 AND IT IS *BOUND AT NINE* THIRTEEN DAYS LATER. IF A LATER PHASE FINDS
+THE TWO FILES IN CONFLICT, **THIS CARD AND `PC-68` GOVERN AND `series.md`'s LINE IS A ONE-ROW SHORTHAND FOR THE WHOLE
+MILESTONE.** The divergence is flagged here, at §1b of `outline/volume-09.md` and in `state/continuity.md` so that it
+is not rediscovered and silently corrected.
+
 ---
 
 ## Chapter 403
@@ -222,13 +243,13 @@ person who knows it is coming.**
 **POV and location:** Lin Hao. The ranks wall at the north end of the Reading on the fourth of April, late afternoon,
 and then the Fourth Branch staff door at half past five the next morning. Beatrix Halm with the notebook.
 
-**Immediate goal:** read his own plate off the wall in a public square, nine days after two words were painted about
+**Immediate goal:** read his own plate off the wall in a public square, four days after two words were painted about
 him on it.
 
 **Resistance:** **the two words are still there and he has to stand in front of them.**
 
 **Major turn:** **nothing happens and the nothing is the chapter.** 8,131 against a floor of 8,146, tolerance three,
-out of band by twelve, and the wall has said two words about him for nine days and says nothing new. **AND THE TURN:
+out of band by twelve, and the wall has said two words about him for four days and says nothing new. **AND THE TURN:
 a man who is out of band is read differently at a gate, and the Fourth Branch has stopped reading him. He has been
 scanned every morning for four years by people who step around anybody holding a reading card, and this morning the
 man at the gate looked at him the way the man at the gate looks at the wall.**
@@ -247,6 +268,12 @@ Beatrix's notebook: six empty lines and one filled with *thirteenth, counter, ni
 **Ending hook:** **he asks her, in his own head, whether a man who is out of band can lodge anything at all — and she
 says the thing that starts the volume: a band is a figure and there is one rank in this city that is not one, and it
 is the one with no card on it.**
+
+**THE INTERVAL ON THIS CARD, RE-SUBTRACTED, BECAUSE AN EARLIER DRAFT SAID *NINE DAYS* IN TWO PLACES AND WAS WRONG BY
+FIVE: THE TWO WORDS WENT UP THE WALL IN PAINT AT ABOUT FOUR ON THE AFTERNOON OF THE THIRTIETH OF MARCH
+(`chapter-0400.md:87`) AND THIS CHAPTER IS THE FOURTH OF APRIL. THAT IS FOUR DAYS.** He has not been on that wall for
+ninety days and the wall said nothing at all until the thirtieth; what he is standing in front of is four days old, and
+a chapter that calls it nine has counted from a date nobody painted on.
 
 ---
 
@@ -435,9 +462,15 @@ having said the price out loud first because he has learned what happens to peop
 form.** **What it closes: the option of reaching nine without handing them over. There is no other door and there
 never was.**
 
-**Required continuity facts:** **eight women at that address: Sun Meiling, Runa Sato, Wren Kallo, Beatrix Halm, Nadia
-Ferrous, Isolde Marchetti, Agnete Lindqvist, Petra Ilyin. Ines Duarte is not at this table and is not to be visited
-with this.** Nobody helps. Nobody argues. **Two of them cry and the chapter does not say which two** — the same rule
+**Required continuity facts:** **THE EIGHT AT THIS ADDRESS, AND THE EIGHT AT THIS TABLE ARE NOT THE NINE ON THE ROLL
+AND MUST NOT BE COUNTED AS SUCH.** Eight women at 34-6-118: Sun Meiling, Runa Sato, Wren Kallo, Beatrix Halm, Nadia
+Ferrous, Isolde Marchetti, Agnete Lindqvist, Petra Ilyin. **Chapter 400 puts eight women at that table and that is the
+page.** **Of those eight, six are sworn and two are not — Wren Kallo and Sun Meiling are the two unsworn, and neither
+is on the roll. The three sworn women who are NOT at this table are Ines Duarte, Tessa Okonkwo and Marguerite Vale,
+and a sworn member may hold her own plate and her own rooms, so their absence costs this chapter nothing and their
+presence is not owed to it.** Ines Duarte is not at this table and is not to be visited with this. **So the ask is
+made in front of eight people of whom six can be put on a line and two already know they cannot.** Nobody helps.
+Nobody argues. **Two of them cry and the chapter does not say which two** — the same rule
 that governed Chapter 356, and a batch that wants to change it should ask itself why.
 
 **Ending hook:** **the answer is not eight yeses and it is not a refusal. It is a question, and it is Sun Meiling's,
@@ -576,7 +609,7 @@ taking anybody, and the chapter stops on her taking the sheet off the wall — o
 **POV and location:** Lin Hao. **A public post off a third court** on the twenty-first of April, from about ten in the
 morning, and then the room at the end of a corridor at four in the afternoon.
 
-**Immediate goal:** find out what a room of five does with a sheet it has been holding for three months, and what it
+**Immediate goal:** find out what a room of five does with a sheet it has been holding for sixty-one days, and what it
 writes under a fifth line.
 
 **Resistance:** **nothing happens, and that is the chapter, and the chapter has to be about the nothing without being
@@ -608,7 +641,15 @@ no settle clock, no settle date, no classification completed. Ledger 142 and ris
 himself.** **NO SYSTEM PANEL IN THIS CHAPTER, because no chapter in 401–412 turns on the ledger.**
 
 **Ending hook:** **at four o'clock the sheet goes out to six desks and the room stands at five, and the requisition
-that could not be carried for three months can be carried now, and he has seventy-five days.**
+that could not be carried for sixty-one days — two months and one day, laid on the twentieth of February — can be
+carried now, and he has seventy-five days.**
+
+**THE INTERVAL ON THIS CARD, RE-SUBTRACTED SO NOBODY RESTATES IT LOOSELY: THE REQUISITION WAS LAID ON THE TWENTIETH
+OF FEBRUARY AND CH 412 IS THE TWENTY-FIRST OF APRIL, SO (30 − 20) + 30 + 21 = 61. IT IS TWO MONTHS AND ONE DAY AND NOT
+THREE MONTHS, WHICH IS WHAT AN EARLIER DRAFT OF THIS CARD SAID IN TWO PLACES.**
+`chapter-0361.md:137`, `chapter-0366.md:23` and `chapter-0369.md:183` each carry the twentieth of February, it is
+inherited and it may not be moved. **At 409, where he lodges, the same subtraction is (30 − 20) + 30 + 15 = 55 — a
+month and twenty-five days — and no chapter may quote one chapter's figure in another's mouth.**
 
 ---
 

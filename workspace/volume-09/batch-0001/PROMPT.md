@@ -147,11 +147,18 @@ OWN NOBODY ELSE'S.**
 | **406 — YOURS** | **Petra Ilyin** | 214 | 406 − 398 = **8** | **8** |
 | 417 | Nadia Ferrous | 29 | 417 − 406 = 11 | 11 |
 | 428 | Runa Sato | 318 | 428 − 417 = 11 | 11 |
-| 438 | Beatrix Halm | 349 | 438 − 428 = 10 | 10 |
-| 446 | Ines Duarte | 349 → 438 → 446 | 446 − 438 = **8** | **8** |
+| 438 | Beatrix Halm | 299 | 438 − 428 = 10 | 10 |
+| 446 | Ines Duarte | 340 | 446 − 438 = **8** | **8** |
 
 **MIXED COUNT: 8, 11, 11, 10, 8. EXPLICIT COUNT: 8, 11, 11, 10, 8 — THE SAME FIVE FIGURES, because all five scenes
 are explicit and no partner with no gift is on the schedule.**
+
+**THE "LAST SCENE" COLUMN IS EACH WOMAN'S LAST SCENE BEFORE 401, AND EVERY ONE OF THEM IS TAKEN FROM
+`outline/series.md`'s table, NOT FROM A CHAPTER TITLE.** Petra 214 · Nadia 29 · Runa 318 · **Beatrix 299** · Ines 340.
+**438 is the SECOND scene Beatrix Halm has had in this book — her first was Chapter 17 — and that is a fact in her
+favour, not a reason to move the chapter.** 299 is *The Ear Turned Into The Street* and it is Volume 6's fifth and
+final scene. **There is no scene at 349**; 349 is *The Card Comes Down At Six*, and anyone who has read that figure off a
+chapter title instead of off the table has found a number and not a scene.
 
 **AND THIS IS THE INHERITED OBLIGATION YOU ARE CLOSING, SO YOU SHOULD KNOW WHAT IT IS.** `AGENTS.md`: *once the first
 partner is established, no more than fifteen chapters without a scene.* **Chapter 380 to Chapter 398 is eighteen on
@@ -251,10 +258,31 @@ Sato's arithmetic, and the discovery that the line he needs is the same instrume
 seven of eight sign · **411 (19 Apr)** Sun Meiling, from a gap · **412 (21 Apr)** the first return that carries five,
 and the first return that goes to the division that has never been named.
 
+**TWO THINGS ABOUT 402 AND 408 THAT ARE THE SAME TRAP, AND YOU WILL FALL IN IT IF YOU COUNT INSTEAD OF NAMING.**
+
+**THE NINE ON THE ROLL ARE FIXED AND THEY ARE NOT THE WOMEN AT THE KITCHEN TABLE.** `bible/characters.md` fixes the
+standing household as nine of the twelve, with **Wren Kallo, Sun Meiling and Dagmar Oyelowo** the three who are not
+sworn. **The nine are Ines Duarte, Beatrix Halm, Tessa Okonkwo, Nadia Ferrous, Runa Sato, Marguerite Vale, Agnete
+Lindqvist, Petra Ilyin and Isolde Marchetti.** The law binds the plate and the bond and **quarters are not the test —
+a sworn member may hold her own plate and her own rooms.** **Three of the nine are not at 34-6-118** — Ines Duarte on
+Lantern Row, Tessa Okonkwo, and Marguerite Vale — and only six live there. **At 408 the table has eight women in it,
+because Chapter 400 puts eight women at that table, and six of those eight are on the roll and two of them, Wren
+Kallo and Sun Meiling, are the two unsworn.** Write the roll from the names. Do not count a kitchen.
+
+**AND THE BINDING IS NOT NINE ON THE SECOND OF APRIL.** **8,131 IS ENTERED AGAINST THE HOUSEHOLD'S NAME ON THE SECOND
+OF APRIL, BECAUSE A ROLL IS TAKEN ON THE DAY IT IS TAKEN AND THE HIGHEST RANK IN THE HOUSEHOLD THAT MORNING IS HIS.
+THE BINDING TAKES NINE THIRTEEN DAYS LATER, ON THE FIFTEENTH (15 − 2 = 13, `PC-68`).** `outline/series.md`:193 says
+the Chapter 402 milestone is *the standing household recognised at rank nine* and **that row is a one-row shorthand
+for the whole milestone; it is not an instruction to enter nine on the second of April, and a batch must not correct
+this plan back to it.** The flag is at §1b of `outline/volume-09.md`, on the 402 card, and in the `PC-68` row of
+`state/continuity.md`.
+
 **THE BATCH'S TWO IRREVERSIBLE DECISIONS ARE 408 AND 409 AND THEY ARE THE BATCH'S CLIMAX.** 408 is a man who has gone
 eight volumes without asking anybody for anything asking eight women at his own table, having said the price out loud
 first. 409 is him writing away his whole standing at a public post and **being the reason a requisition he has spent
-three months enjoying the safety of becomes capable of being carried.** Neither can be undone and both close an
+fifty-five days enjoying the safety of becomes capable of being carried. It was laid on the twentieth of February and
+he lodges on the fifteenth of April: (30 − 20) + 30 + 15 = 55. It is not three months.** Neither can be undone and both
+close an
 option: after 409 there is no version in which he is a man nobody can answer for.
 
 ---

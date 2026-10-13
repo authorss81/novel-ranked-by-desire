@@ -4,6 +4,58 @@
 SUPERSEDED AND BOTH ARE RETAINED IN FULL. THE GATE BLOCK THEY SUPERSEDED — BATCH 0005'S OWN RECORD OF 13 OCTOBER —
 IS FURTHER DOWN AND IS SUPERSEDED BY ALL THREE.**
 
+## THE 13 OCTOBER 2026 REVIEW REPAIR — WHAT WAS WRONG IN THE VOLUME 9 PLAN AND WHAT EACH FINDING WAS
+
+**THE REVIEW FOUND NINE DEFECTS IN `outline/volume-09.md`, `outline/batches/volume-09-batch-0001.md` AND
+`workspace/volume-09/batch-0001/PROMPT.md`. ALL NINE ARE REPAIRED. NONE OF THE REPAIRS TOUCHED PROSE, A DATE, A
+CHAPTER ORDER, A SCENE, A SCENE GAP OR THE PLANNED PLOT — `outline/ending.md` IS STILL UNTOUCHED AND
+`chapters/volume-09/` STILL DOES NOT EXIST.**
+
+1. **BEATRIX HALM'S LAST SCENE WAS PRINTED AS 349 AND IS 299.** `outline/series.md` fixes Volume 6's scenes at 261,
+   269, 279, 289 and 299, so 299 is hers and 349 is *The Card Comes Down At Six*, which is not a scene. **The figure
+   had been read off a chapter title instead of off the table, and it appears in the gap column of the one apparatus
+   the next close audit will lean on.** Corrected in three places in `outline/volume-09.md` and in the PROMPT's §4,
+   with the source printed so it cannot be re-derived wrong. **438 IS HER SECOND SCENE IN THIS BOOK, WHICH
+   STRENGTHENS THE CHAPTER RATHER THAN WEAKENING IT, AND THE GAP ARITHMETIC IS UNAFFECTED BECAUSE THE COLUMN COUNTS
+   CHAPTERS AND NOT SCENES.**
+2. **THE PROMPT's §4 TABLE HAD A CORRUPTED CELL** — `349 → 438 → 446` in the Ines row, which had swallowed the row
+   above. Corrected to 340, which is her last scene before 401 per `outline/series.md`.
+3. **CHAPTER 402 COULD NOT PRODUCE NINE SWORN NAMES FROM THE CAST IT NAMED.** `bible/characters.md` fixes the standing
+   household as nine of the twelve with Wren Kallo, Sun Meiling and Dagmar Oyelowo unsworn, **so the nine REQUIRE Tessa
+   Okonkwo and Marguerite Vale, and the plan named neither** — as written the roll yielded seven. **REPAIRED BY NAMING
+   THE NINE AND INVOKING THE BIBLE'S OWN MECHANISM, WHICH THE PLAN HAD NOT INVOKED: the law binds the plate and the
+   bond, quarters are not the test, and a sworn member may hold her own plate and her own rooms.** Three of the nine
+   are therefore not at Ferrier Street and only six live there. **Chapter 400 is the page that supports this: eight
+   women at that table, seven of them sleeping at the address, the eighth a broker from the Vant.** Carried into §2,
+   the 402 card, the 408 card, the Movement 1 close, `PC-68` and the PROMPT.
+4. **CARD 403 SAID *NINE DAYS* TWICE. IT IS FOUR.** The two words went up at about four on the thirtieth of March and
+   Ch 403 is the fourth of April. Corrected, with the subtraction printed.
+5. **CARD 412 SAID THE REQUISITION HAD BEEN HELD *FOR THREE MONTHS*. IT IS 61 DAYS.** Laid the twentieth of February,
+   read on Ch 412 the twenty-first of April: (30 − 20) + 30 + 21 = 61. **The same error stood in the PROMPT and in
+   `state/chapter-summaries.md`, where the figure at the moment of lodging is 55 — (30 − 20) + 30 + 15 — and both were
+   corrected. The one *three months* left in the batch cards is card 401's, and it is correct: the Council had not sat
+   since the twenty-ninth of December, which is ninety-two days to the first of April.**
+6. **TITLE 414 NAMED A FIGURE THE LEDGER CANNOT REACH.** The ledger is 142 on the fourteenth of March and rising about
+   seven lines a thirty days, and 171 is twenty-nine lines on, which is about a hundred and twenty-four days — and the
+   thirtieth of June is a hundred and six days after the fourteenth of March, so the figure falls outside the volume.
+   414 itself, on the twenty-fifth of April, is about 152. Retitled to *The Ledger Crossing A Number*.
+7. **TITLE 438 NAMED A ROOF.** `bible/terminology.md` puts the Board at the head of the Reading and
+   `chapter-0400.md` puts Beatrix under the north end of the ranks wall. Retitled to the two facts that are on the
+   page.
+8. **§6a CALLED BATCH 0005 *EIGHT CHAPTERS AND A HALF* AND THEN TOTALLED IT AS EIGHT.** It is eight.
+9. **`outline/series.md`:193'S CHAPTER 402 ROW WAS NOT FLAGGED AGAINST THE PLAN'S 8,131.** Flagged in four places —
+   §1b, the 402 card, the `PC-68` row and the PROMPT — **and `series.md` ITSELF IS NOT AMENDED, because the plan has
+   not changed the milestone and a one-row shorthand is not a contradiction.**
+
+**AND ONE MORE INTERVAL WAS FOUND WHILE REPAIRING THESE AND IS OF THE SAME CLASS AS FINDINGS 4 AND 5: `PC-68` PRINTED
+THE GAP BETWEEN THE ROLL AND THE LODGE AS *ELEVEN DAYS*. THE ROLL IS TAKEN ON THE SECOND OF APRIL AND HE LODGES ON THE
+FIFTEENTH, SO IT IS THIRTEEN (15 − 2 = 13). CORRECTED IN `PC-68` WITH THE CORRECTION RECORDED IN THE ROW.**
+
+**WHAT THE REVIEW VERIFIED AND THIS REPAIR DID NOT TOUCH: the gap arithmetic 8/11/11/10/8 on both counts, the whole
+day spine and every re-subtraction in it, the fifty titles against all four hundred written ones, `right temple` at
+zero, plate 8,131 and floor 8,146, ledger 142 on the fourteenth, fourteen points, twenty-six weekly returns, and the
+`PC-57`–`PC-68` block's contiguity.**
+
 **THE FIGURES BELOW ARE THE CLOSE AUDIT'S, NOT BATCH 0005'S.** Every *distinct* figure in `reviews/volume-08/volume-close.md`
 re-derives exactly and all nine cells of its volume-wide table reproduce. **Every *directed rows* figure in that audit
 is marked NOT VERIFIED and is NOT CARRIED INTO THIS BLOCK OR ANY OTHER.**
@@ -50,11 +102,18 @@ FILES            `ls chapters/*/chapter-*.md | wc -l` -> **400.** Eight volume d
                  **NO CHAPTER 401 EXISTS ANYWHERE IN THIS REPOSITORY, AND THAT IS CORRECT FOR A PLANNING PHASE.**
 VOL 8 WORDS      **106,574, counted per file and summed.** Never from a concatenation.
 BANK 0005        **20,326**, on the same convention.
-TITLES           **400 title lines, 400 distinct, `uniq -d` returns empty.** Re-run 13 October 2026.
+TITLES           **400 title lines, 400 distinct, `uniq -d` returns empty.** Re-run 13 October 2026, and **re-run again
+                 after the 13 October 2026 review repair, which retitled two of the fifty; the figures below are the
+                 post-repair run.**
                  **THE FIFTY AT 401-450 WERE COLLISION-CHECKED AGAINST ALL FOUR HUNDRED BEFORE ANY PROSE EXISTED AND
                  RETURN ZERO COLLISIONS, ZERO INTERNAL DUPLICATES, ZERO OVER NINETY CHARACTERS, ZERO BEGINNING WITH
                  *What*, ZERO BUILT OUT OF *there is no* / *nobody* / *nothing* / *what*. Longest 35, shortest 18,
                  word counts 3 to 8.** Full bank in `outline/volume-09.md` §10.
+                 **TWO WERE RETITLED IN THE REPAIR AND BOTH RE-RAN CLEAN: 414 was *One Hundred And Seventy-One Lines*,
+                 which named a figure the ledger's own rate cannot produce by the end of the volume, and is now *The
+                 Ledger Crossing A Number* (28, five words); 438 was *The Roof Above The Reading*, which is a piece of
+                 geography this book has never had, and is now *Nine Years At The North End* (27, six words). Neither
+                 change moved a chapter, a date, a scene or a figure on the page.**
 SYSTEM MESSAGES  **FOUR IN THE WHOLE OF VOLUME 8**, one each in 353, 363, 376 and 384, and every one turned on the
                  ledger. **VOLUME 9 PLANS TWO, AT 414 AND AT 450, AND BOTH TURN ON THE LEDGER. THAT IS A DECISION
                  AGAINST THE RULE AND NOT A COUNT.**
@@ -63,7 +122,10 @@ WEEKNAMES        seven of seven, whole-word and substring: **0**, across all fif
 SETTLE           `grep -rn "settle" chapters/volume-08/` -> **no lines.**
 CANON            **`PC-28` IS CARRIED FORWARD AND NOT FIXED.** `PC-47` TO `PC-56` STAND UNCHANGED. **`PC-57` TO
                  `PC-68` ARE PROPOSED BY THE VOLUME 9 PLANNING PHASE, RECORDED BEFORE THE CHAPTERS THAT WOULD CARRY
-                 THEM, AND ARE AT THE HEAD OF `state/continuity.md`.**
+                 THEM, AND ARE AT THE HEAD OF `state/continuity.md`. `PC-68` WAS CORRECTED IN THE 13 OCTOBER 2026
+                 REVIEW REPAIR: ITS INTERVAL READS THIRTEEN DAYS, NOT ELEVEN (THE ROLL IS 2 APRIL, THE LODGE IS 15
+                 APRIL, 15 − 2 = 13), AND ITS ROW NOW NAMES THE NINE ON THE CHAPTER 402 ROLL, WHICH REQUIRE TESSA
+                 OKONKWO AND MARGUERITE VALE.**
 ENDING           **`outline/ending.md` IS NOT TOUCHED.** `git log -- outline/ending.md` returns the bootstrap commit
                  and nothing since. **The reservoir is returned in full at 486, he ends at rank one, and the great
                  offer is 486's and is not Wren Kallo's and not Anouk Ferreira's. No chapter of Volume 8 contains an
