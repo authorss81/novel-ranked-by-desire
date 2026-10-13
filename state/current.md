@@ -1,3 +1,48 @@
+# VOLUME 11 BATCH 0001 IS WRITTEN. CHAPTERS 501–510 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 24,112 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
+
+**MOVEMENT ONE, CHALKED, IS WRITTEN AND CLOSED ON THE PAGE AT 510. IT DELIVERED THE TITLE, THE MAN, THE LANE, THE KEEPER, THE FIRST ENTRY AND THE FIRST IRREVERSIBLE DECISION. IT DELIVERED NONE OF THE DEFINITION, WHICH IS 519.**
+
+## 0. WHERE THE MAN STANDS AT CHAPTER 511, IN ONE PARAGRAPH, FROM THE PAGE
+
+Four months after the wall was repainted, and a hundred and twenty-one days after he wrote a woman down a hill in October, a letter arrived on the paper the Correction Office has and said three things: the office exists, **Yusuf Adeyemi is its Registrar**, and **Lin Hao is the only person the office may ask**. He did not ask for it and there is nothing to refuse it into, and he is not the Registrar and was never offered the title. He then paid a grain of merit to stand in a lane off Cordwain behind nine other people for about four hours and let a man in a delivery coat write his name on a slate in chalk about two inches high beside a figure of nine, and he has not asked who put a white tile with his name on it under the last tile of the ranks wall and nobody has told him. **On the thirtieth of September the Registrar put the office's one question — strike nine private slates out of this city by writing a sentence that goes out at four with an address at the head of every line — and he refused in one sentence, and the refusal was entered whole, and the slates stay, and there are going to be more of them.** A landlord off Lamplit Row is quoting one of them into a rent. A keeper two floors under a sales floor has written six words out of her own memory for the hundred and twenty-first time and one of them is going onto that slate in chalk. The lane is three hundred and fifty-eight mornings old and three days short of a year.
+
+## 1. WHAT THIS BATCH OWED AND DELIVERED
+
+- **The office, named on the page at 501, with the title Adeyemi's per `outline/ending.md`:255, and the office's one permitted question put to Lin Hao.** The ruling in `outline/volume-11.md` §2c item 2 held and is on the page: **no chapter of 501–510 calls him the Registrar of Unrecorded Merit, offers him a title, has him refuse one or has him take one.** He is handed a sentence with no number in it that makes him the answer to the only question an office with no instrument, no money and no column may put to anybody, and that is why the Registrar comes to him at 510 and can go to nobody else.
+- **Emil Brack, named at 502 and described before he speaks.** An opponent who cannot be defeated, checked, licensed or appealed, who is right about every fact and is not a criminal and does not profit where a person does not lose. The flag `AGENTS.md` requires is raised in `state/continuity.md` and `state/open-threads.md`.
+- **Four hours and a grain at 504, and a name in chalk that nobody will ever attach to him.**
+- **Ines Duarte's scene at 505: the confession that spends the last private thing he had, and the question about the tile that is asked and not answered.**
+- **The Bureau's worst answer to the best problem at 506, in a clerk's own hand, going out at four.**
+- **The hundred and twenty-first block and the newest instrument in the city meeting in a room with a lamp in it at 507, and not agreeing.**
+- **The Register's first entry and its first public figure at 508: one, about one person in nine hundred, and nothing on the page to check it against.**
+- **Nine slates in nine districts that do not agree, and two of them right about a thing the Register has wrong, at 509.**
+- **The refusal at 510, in one sentence, closing the option of striking down a rival measure.**
+
+## 2. THE IRREVERSIBLE DECISION THIS BATCH OWNS, AND IT IS HIS
+
+**510. HE REFUSES TO STRIKE THE SLATES DOWN.** *Two words went onto that wall off a sheet I answered, and I am not going to take another man's two words off a piece of slate for standing on the wrong surface.*
+
+**WHAT IT CLOSES:** the option of striking down a rival measure, for four years and on this evidence for ever. The slates stay in nine districts and become the thing he has to answer for.
+**WHAT IT COSTS:** he is the reason there is a second institution in Ostara. He cannot afterwards be a man who defended measurability in a room of ninety people and watched a private chalk measure his city.
+
+## 3. WHAT THIS BATCH DID NOT DO
+
+**It is not a climb.** He is at rank one the whole way through and no band, standing, permission or hour of his own moves. **It is not a re-argument of the return.** No chapter of 501–510 argues for or against the first of October and no character in them says the question is settled or that it is not; 499's two-things sentence is referred to at 508 and 509 and is not awarded in either direction. **It is not a new enemy.** **It is consequence-free in nothing.** **And it does not open Lin Wei's file, which `outline/ending.md` alone decides.**
+
+## 4. THE FOUR PROPOSALS, AND WHERE THEY ARE
+
+`PC-114` Emil Brack named at 502 · `PC-115` the Register of Unrecorded Merit named at 501 with the title Adeyemi's and the question put to Lin Hao · `PC-116` the lane's age at 119 · 127 · 136 · 146 · 268 · 358 mornings, each derived in its own chapter · `PC-117` the white tile's four hundred as a total with its anchor, and the six words off the a slate. **All four are PROPOSED, all four are on the page, `PC-113` is not renumbered and nothing below it moved.** The full table is at the head of `state/continuity.md`.
+
+**AND THE DISCREPANCY AT `chapter-0500.md:65` IS CARRIED AND NOT REPAIRED.** No chapter of 501–510 prints that interval or derives anything from it.
+
+## 5. THE ONE SENTENCE THIS BLOCK HANDS ON
+
+> **An office with a name on the door, no instrument in it and one man it is allowed to ask put the only question it had to a man at rank one in a room with two chairs in it, and he said no, and the sentence went out at four in a clerk's hand, and the nine slates stayed, and he is the reason they stayed.**
+
+---
+
 # VOLUME 11 IS PLANNED. VOLUME 10 IS CLOSED IN PROSE AT 500. **WRITTEN 13 OCTOBER 2026 BY A PLANNING PHASE THAT WROTE NO PROSE. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
