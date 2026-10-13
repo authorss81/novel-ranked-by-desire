@@ -1,3 +1,53 @@
+# VOLUME 7 CLOSE RECORD — AUDITED 13 OCTOBER 2026. THE VOLUME IS CLOSED AND PAID. THE NEXT PHASE IS A VOLUME-PLANNING PHASE.
+
+**Read this block before Volume 8's outline is written.** It is the head record. Batch 0005's block is
+immediately below it and is retained as the record of the position at Chapter 350, which this audit
+confirmed against the chapters.
+
+## 0. WHAT THE CLOSE AUDIT FOUND, AND WHAT IT CORRECTED
+
+**Batch 0005 wrote its own review inside its own writer commit and the close audit re-ran every gate from
+outside that pass, because `outline/volume-07.md` §9 says a gate record is a claim and the re-run outranks
+the record. The audit is `reviews/volume-07/volume-close.md`.**
+
+**THE VOLUME'S SENTENCE WAS PAID.** *Lin Hao must survive classification, or the reservoir is requisitioned
+by the Concil of the Nine and stops being his.* **He survives it.** He is described and not classified, the
+requisition was tabled on the sixth, heard on the fourteenth, refused with an instrument on the seventeenth,
+**sealed by five of nine on the twenty-third and voided at the ninth minute because a spent majority may not
+be recalled at the same sitting** — **and on the twenty-ninth he wrote four sheets in his own hand with his
+name at the top of the first, laid them into the keeping of the room where nine people sit, and eight people
+signed a witness line under him, with a gap two fingers wide where the fourth seat is.** The reservoir was
+not requisitioned. **A requisition that failed is still a requisition in a room's minute, and the chapter
+says so: he is safer and more findable on the same morning.**
+
+**THE HEADLINE NUMBERS ALL HELD AGAINST THE PAGE.** Fifty files, 0301–0350, no 351 anywhere.
+**107,478 words.** 350 titles, no duplicate. **0 paragraphs over ninety words and 0 over one hundred and
+twenty.** **0 markdown violations.** **Exactly six system messages in the entire volume**, one each, in 331,
+332, 335, 339, 343 and 349. **0 banned constructions, all seven.** **0 exact-duplicate paragraphs.**
+**The only twelve-gram match anywhere in the volume is the framed refrain at 344 and 345, which is the one
+match the gate was meant to leave standing.**
+
+**FOUR RECORD DEFECTS WERE CORRECTED IN THE AUDIT'S COMMIT:**
+
+1. **`state/open-threads.md` printed Chapter 350 at two different numbers — 2,925 and 2,927 — and both were stale.** The file was 2,927 at the writer's commit; the scar repair added twelve words and the gate block was never re-derived. **The figure on disk is 2,939. Both places now say 2,939.**
+2. **One word of prose was changed.** Chapter 350 had given Wren Kallo a grey at **the left temple that came in three years ago** — the same side and the same interval as the grey Chapter 340 gives Ines Duarte. **The scar repair caught the wrist and missed the face.** Wren's grey is now at the **right** temple. Chapter 350 is still 2,939 words.
+3. **`state/chapter-summaries.md` had the Volume 7 Batch 0001 block unlabelled and headed LIVE**, with the `## Volume 7 — Seven` volume header stranded below it between Batches 0001 and 0002. **The five blocks now read 0001, 0002, 0003, 0004, 0005 in ascending order under a header that sits above the first.**
+4. **A stale 2,560-character Volume 7 plan — marked OPEN, naming a dead phase prompt — was glued inside the Volume 6 row of the same index behind a doubled pipe.** Excised.
+
+**TWO MEASUREMENT TRAPS, RECORDED SO THE NEXT PHASE DOES NOT FALL IN THEM:**
+
+- **`cat chapters/volume-07/*.md | wc -w` returns 107,440 and is wrong by 38.** Thirty-nine of the fifty files carry no trailing newline. **Count per file and sum.**
+- **The ledger's line count rises across Volume 7 — 118, then 121 at 339, 122 at 343, 124 at 349 — and that is correct.** Nothing was spent, so no line was turned; the ninth turned line is still himself throughout. **The number of lines in the ledger is not the number of lines turned in it. 124 at 350 is right and must not be reconciled back to 118.**
+
+**NOTHING ELSE CHANGED.** No chapter was rewritten. No controller file was touched. `outline/ending.md` has
+not been modified since the bootstrap commit. **No new final enemy. The ending's shape is untouched: the
+reservoir is returned in full at 486, Lin Wei's file opens at 372, he ends at rank one, and the great offer
+is Chapter 486's — not Wren Kallo's and not Anouk Ferreira's.**
+
+**THE SERIES IS NOT OVER. IT IS PLANNED PAST 500. VOLUME 8 IS NEXT: THE BROTHER'S FILE, CHAPTERS 351–400.**
+
+---
+
 # VOLUME 7, BATCH 0005 — HEAD RECORD. CHAPTERS 341–350. THE FIRST TO THE THIRTIETH OF DECEMBER. **VOLUME SEVEN IS CLOSED AT 350.**
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES

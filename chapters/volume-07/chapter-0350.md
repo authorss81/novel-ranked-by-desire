@@ -72,7 +72,7 @@ He got a button wrong on the second one. She told him he was absurd and meant it
 
 "Hold still," she said, when he was down to nothing. "You have described eleven people to me in words this year and every one of them was a document. I want a body described by a man who is looking at it."
 
-So he looked, and said it out loud, unhurried, in the plain voice, working down from the grey that had come in at her left temple three years ago to the shape of her foot on the floor: the shoulders, the space between them, the small hard curve of her stomach, the way her hip stood out more on one side than the other from eleven hours at a desk, the pale hair at the back, the wetness already between her legs that she was not bothering to hide.
+So he looked, and said it out loud, unhurried, in the plain voice, working down from the grey that had come in at her right temple three years ago to the shape of her foot on the floor: the shoulders, the space between them, the small hard curve of her stomach, the way her hip stood out more on one side than the other from eleven hours at a desk, the pale hair at the back, the wetness already between her legs that she was not bothering to hide.
 
 "Again," she said, when he had got to the end of it. "Slower. And do not stop when you run out of parts. Start again from my shoulders and go down a second time and I will tell you when to stop."
 

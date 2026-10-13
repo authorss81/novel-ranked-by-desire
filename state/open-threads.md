@@ -1,4 +1,71 @@
-## Volume 7, Batch 0005 — LIVE GATE RECORD (Chapters 341–350). THE FIRST TO THE THIRTIETH OF DECEMBER. VOLUME SEVEN CLOSED AT 350. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+# VOLUME 7 CLOSE GATE RECORD — RE-RUN 13 OCTOBER 2026 FROM OUTSIDE THE PASS THAT WROTE IT. THIS IS NOW THE ONLY LIVE GATE BLOCK IN THIS FILE.
+
+**Batch 0005's own gate block is below and is retained as the record of what that pass claimed for itself.
+The close audit re-ran every gate by command against the chapter files on disk and, where the two disagreed,
+the re-run outranked the record. The audit is `reviews/volume-07/volume-close.md`.**
+
+```
+FILES            chapters/volume-07/ -> 50 files, chapter-0301.md .. chapter-0350.md, no gap in the
+                 sequence and no file outside that range. **No chapter 351 exists anywhere in the
+                 repository.** chapters/volume-08/, outline/volume-08.md and workspace/volume-08/
+                 are ALL ABSENT at the time of this run.
+VOL 7 WORDS      **107,478**, counted per file and summed.
+                 **WARNING: `cat *.md | wc -w` returns 107,440 and is WRONG BY 38.** Thirty-nine of
+                 the fifty files carry no trailing newline, so concatenation merges the last word of
+                 each file into the first word of the next. **Count per file and sum. Never record a
+                 volume word count from a concatenation.**
+TITLES           350 chapter files, 350 distinct title lines, **0 duplicates anywhere in the book**.
+                 0 over 90 characters. Volume 7: 0 beginning with *What*, 0 built out of *there is
+                 no* / *nobody* / *nothing* / *what*, 0 outside 3-12 words.
+PARAGRAPHS       over 90 words, whole volume: **0**. over 120 words: **0**. Measured after this
+                 audit's own one-word prose repair.
+MARKUP           blockquote 0 · table 0 · horizontal rule 0 · code block 0.
+                 Bold spans 8 and italic spans 91 across fifty chapters; the italics are documents.
+SYSTEM MESSAGES  **exactly six in the whole volume**, one each, in **331, 332, 335, 339, 343, 349**.
+                 Every other chapter carries none. None is rendered as bold, italic or an unmarked line.
+DUPLICATE PARAS  exact-duplicate paragraph across two different chapters, volume-wide: **0**.
+12-GRAM          341-350 against every earlier chapter file in the book and against each other:
+                 **ONE cross-chapter match in the whole volume** — *I want it to be a page with a name
+                 at the top of it*, said in the hearing at 344 and returned to by him at 345. That is
+                 the match the gate was meant to leave standing.
+11-GRAM          whole volume, across chapters: 32 matches. Six are the same refrain. The other
+                 twenty-six are document texture — requisition clauses, the address written out,
+                 dates, the ordinary stream at four in the afternoon. **None is a lifted line and none
+                 is between two scenes.**
+8-GRAM           run because twelve is a floor and not a truth. Volume-wide the result is the book's
+                 connective tissue (*and I am not going to be the*, *she put her hand flat on the
+                 table*, *in about four years*), which is the voice and not duplication.
+                 **The reportable figure is the pair 340 <-> 350: ONE shared eight-word clause.**
+                 See the two findings below.
+BANNED           his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 ·
+                 there is no form 0 · there is no column 0 · the record remained 0. **Seven of seven.**
+```
+
+**THE TWO FINDINGS THE CLOSE AUDIT RAISED AGAINST 340 AND 350, RECORDED HERE SO A LATER PHASE DOES NOT
+RAISE THEM AS NEW:**
+
+1. **APPLIED. The grey temple.** 340 gave Ines Duarte a grey at **the left temple that had come in three
+   years earlier**. 350 gave Wren Kallo *the grey that had come in at her **left** temple three years ago* —
+   **same side, same interval, ten chapters apart, both in the volume's five scenes, and below every
+   word-count gate.** The Batch 0005 scar repair caught the wrist and missed the face. **One word changed:
+   Wren's grey is now at the right temple.** Chapter 350 is 2,939 words before and after. **The wrist scar
+   remains Ines Duarte's alone, and chapter 350 carries no scar.**
+2. **RECORDED, NOT REPAIRED. The scene template.** *Terms, a body described in words, three times, a counted
+   minute, then a kettle* — confirmed in both 340 and 350, and confirmed by Batch 0005 as **the single
+   largest duplication risk in this manuscript.** Every instance differs in content, the fifth term is the
+   hinge of each scene, and the one shared eight-word clause finishes differently in each
+   (*her hand flat on his wrist keeping the time* against *her nails in him*). **VOLUME 8'S WRITING PHASES
+   MUST CHECK SCENES FOR BORROWED BODIES BEFORE THEY CHECK THEM FOR BORROWED SENTENCES: the twelve-gram
+   scan found nothing in this volume and two duplicated body details went out in it.**
+
+**LEDGER: 124 LINES AT 350 IS CORRECT AND MUST NOT BE RECONCILED.** The count rises across the volume — 118
+in 321/323/324/327, 121 at 339, 122 at 343, 124 at 349 — each in a system line, each with *nothing spent*
+under it. **The number of lines in the ledger is not the number of lines turned in it.** The ninth turned
+line is still himself throughout and nothing was spent throughout.
+
+---
+
+## Volume 7, Batch 0005 — SUPERSEDED GATE RECORD (Chapters 341–350). WRITTEN INSIDE ITS OWN WRITER COMMIT. RETAINED BELOW AS HISTORY; THE LIVE BLOCK IS THE CLOSE AUDIT'S, ABOVE.
 
 > **Every number below was produced by command against the files as they stand AFTER THE LAST PROSE EDIT (the last prose edit was the scene rewrite in 350), by passes that did not write the prose, with tokenisation and scope stated wherever a number needs them. The 12-gram scan ran FIRST, before the 8-word scan, against all 350 chapter files, and again after every repair round — three further times after the last prose edit. No paragraph splitter ran at any floor, ever. The only pass over paragraphs is a reporter that prints lengths and writes nothing. Every over-length paragraph was split BY HAND at a speech beat or a sentence beat, and whole-file quotation counts were re-checked after each round.**
 
@@ -25,9 +92,14 @@ titles           unique across ALL 350 written titles -> NONE duplicated anywher
                  **349 is the only title in the bank that names an hour and it is kept, because it is
                  the volume's last image.** Volume 7 keeps its own *What* titles at zero; the book's 28
                  inherited ones are all in Volumes 1–5 and are closed.
-wc 341-350       2081 / 2175 / 1973 / 2150 / 1988 / 1992 / 1981 / 1966 / 1934 / **2925**.
+wc 341-350       2081 / 2175 / 1973 / 2150 / 1988 / 1992 / 1981 / 1966 / 1934 / **2939**.
                    **NINE INSIDE 1,800–2,700 AND ONE NAMED LEAVER.**
-                   **350 LEAVES THE BAND AT 2,927 AND THE NAMED REASON IS: it is the scene chapter and
+                   **[RE-RUN AT THE VOLUME CLOSE, 13 OCT 2026. THE FIRST TWO FIGURES ON THESE TWO LINES WERE BOTH
+                   WRONG AND THEY DISAGREED WITH EACH OTHER: this line said 2,925 and the line below said 2,927.
+                   Chapter 350 stood at 2,927 at the writer's commit and the repair pass in `0f326cb` — which
+                   removed the wrist scar and rewrote the breast line — added twelve words and was never
+                   re-measured. THE FIGURE ON DISK IS 2,939, WHICH IS WHAT IS NOW PRINTED IN BOTH PLACES.]**
+                   **350 LEAVES THE BAND AT 2,939 AND THE NAMED REASON IS: it is the scene chapter and
                    the volume's last chapter. Its scene body is 1,626 words measured from `## The Second
                    Floor` to `## What She Cannot Keep` exclusive of both, counted AND probed, and the
                    chapter carries the four things that close the volume (the thing she cannot keep, the
