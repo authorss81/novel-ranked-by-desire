@@ -8,6 +8,8 @@
 | 2 | The Reservoir | 51–100 | Learn what is in him before he spends it on himself again, or the Classification Wing classifies the account and empties him out at rank one. **VOLUME CLOSED IN PROSE. Ch 51–100 written. Midpoint reversal at 75–76. Climax 97–99, resolution 100. Ch 71–80, 81–90 and 91–100 have each been reviewed by a separate run and repaired.** |
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
+| 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batch 0001 written (251–260) against `outline/volume-06.md`, which this phase wrote after its own ten chapters. Scenes at 261, 269, 279, 289, 299 — none written yet and none permitted between 251 and 260.** |
 
 
 ## Volume 2 — The Reservoir
@@ -1400,3 +1402,170 @@ been asked to shut. The house eats bread. The question waits behind an open door
 **249 The Report That Is True.** The ninth. At Lantern Row Ines reads the ordinary record and keeps it, then tells him what the division has written against her and that she cannot pay for two rooms on a fortnight's answering. **Volume 5's fifth scene, 2,795 words, gap 241 to 249 eight, zero 12-gram overlap with 241 at twelve and ten words.** Staged against 241 entirely: a washstand, a bed under an open shutter, a chair and a stool, a worktable, no curtain, no shaded window, no pale room. Explicit, consensual, in her own rooms with the door shut by her own hand and opened by it. **She sets a term: no paper is read to her in her own rooms. He agrees in the dark.** Afterwards she stays in her rooms, still on roll and address on paper, signing for the household when signing is what it needs — and he goes home and puts the three papers in a drawer under the bread.
 
 **250 What Was Owed To Whom.** The tenth. Five debts priced plain, the one woman who can price them out with a true document behind her. **Marguerite names the sixth line, which is not a debt: the standing instruction, with no figure against it and no office that will ever invoice it.** He wants rank nine in the same words, costing more. Wren seventeen days, the true report four. Volume 5 closes on the filed answer waiting for creditors — and on a date two days past the close of the batch: **the twelfth of July.**
+
+---
+
+## Volume 6 — The Broker's Terms
+
+> In this volume, **Lin Hao must call in every debt he owes before the creditors call in him**, or **the Vant's books put a price on the reservoir that he cannot refuse**.
+
+### Volume 6, Batch 0001 — Chapters 251–260. THE ELEVENTH TO THE TWENTIETH OF JULY.
+
+**Ten chapters, one a day, no scene.** Batch 0001 inherits `outline/volume-05.md` §7 in full, because there
+was no `outline/volume-06.md`; one is now written, from these ten chapters, and its §1–§5 are written fact.
+
+**251 The One He Named First.** The eleventh. He has one day left to say what he owes before somebody else
+does, and the first name is the one he wrote in his own hand. At the bottom of the sixty-one steps, at ten
+to seven, he tells **Runa Sato** that the six on the sworn page is his, that he wrote it on the fourteenth
+of June, and that it is the reason her answer went into a fourth office — **twenty-seven days she has
+carried it.** She asks what he wants her to do with it. **Nothing.** He is not asking her to file it, and
+that is the cost, and he says so out loud on a stair he chose because at the table a thing becomes a record
+and Nadia writes it down. **She produces a two-part carbon reconciliation slip she has had all along,
+fills it in, dates it the eleventh and does not send it, and gives him the bottom half: neither half can be
+produced without the other.** Four people knew the figure was his. He made it five, on a stair, in the
+rain. Petra thirty-seven days on no roll and tells him she will be told before the first of August or not
+at all. **Ends at the foot of Lantern Row's stairs at half past seven with the valuation copy rolled in
+his hand, and he does not go up, and the twelfth is tomorrow.**
+
+**252 The Charge Against The Schedule.** The twelfth. **The offer expires by the operation of a date.** He
+watches the door all day and is ashamed of watching and says so to Beatrix, who asks why, and who is told:
+*I said no to something on the third of July and I would like very much to see it arrive anyway.* At half
+past four a form-numbered envelope: **a reconciliation charge against the certified schedule, for the audit
+that found seven where the schedule says six, falling on the head of the schedule, which is him.** Fourteen
+days, to the twenty-sixth. He does not pay it, because a paid reconciliation is a schedule that agrees
+with itself at six. **At seven a guild boy brings four words in Marguerite's hand — the account runs to the
+hundred and thirty-fourth mark on the first of August, bring the plate. That is the proof of the expiry:
+the four words are not the offer.** The standing is spent. It cannot be bought, cannot be asked for, and
+will not be offered again in the life of a thirty-year account. **Marguerite tells him plainly there is
+another book in the city and a woman who keeps it who has never met one of them, and that if he goes
+through that door he will get a number and lose the only person who answers for what happens to him.** A
+blank remark line on a receipt and a blank remark line on a charge, and he leaves both.
+
+**253 The Keeper Of The Real Books.** The thirteenth, Thursday, the pass on the ranks wall. **The debts
+have to be priced before the first of August** — an unpriced security cannot be carried a year running —
+and he has no pricer, so he goes to the other book. **SOLVEIG RASK, 42, ENTERS.** Two floors under the
+Exchange sales floor, no window, a stone floor, four books with unwritten spines. *The guild's ledger is a
+beautiful lie and earns everybody in it a living. Mine are the movements.* She prices four of five and
+refuses the fifth, and the refusal is the point of the chapter: **a dispute is not a movement, it is the
+absence of one, and until a transaction happens the only debt he has is free, and free is not the same as
+small.** The open security is worth **a week he has not fallen** — 8,138 against a floor of 8,141 with a
+tolerance of three, floors rising every quarter. Then she asks him what stands behind the plate, and tells
+him she has had his word in her book for four years under a column of thirty-one and left one dated,
+initialled page in on purpose. **She refuses to price it: I do not price a thing I cannot describe. When I
+do price it there will be a date on the page and you will not be able to refuse it, because a dated figure
+in a real book is not an offer. It is a fact.** And she charges him for the hour, against his own account,
+because a stranger's question in that room is a movement. **She and Marguerite price the same thing in the
+same words, and the only difference between them is which book it is in.**
+
+**254 The Table Bare.** The fourteenth. **Marguerite knows by nine** — guilds are small — and comes up the
+sixty-one steps with her gloves on and no pen and does not sit down. She takes the valuation copy, the dead
+list copies and the five pencil lines off the table in about eleven seconds and gives the reason in her own
+discipline: *a broker of record stands answerable for what is in her book, and yesterday a stranger put a
+question into a book that reconciles and it came out of this house.* She prices the debts once more in her
+own hand before she goes, and the figure is very nearly what the stranger charged, **and the horror is
+that the number was never in dispute — only the book.** On the stair she says the thing that costs: *take
+the six off your own schedule and give me the account at six, and there is a woman in four years holding my
+book with a name at the top of it that a stranger chose on a Thursday*, and that this guild prints no
+instrument by which a broker may hold a client's pricing and has printed none since she was twenty-two.
+**Beatrix: then there is nothing on the table to disagree with.** **Nadia writes the day with the hour
+against it and enters her own name against the line, for the fifth time.** Runa leaves her folder on the
+bare table. Petra forty days on no roll asks what the mark on the first of August is keeping. Wren twenty-one
+days. **Ends at the drawer under the bread: four papers, all of them the house, and a table with nothing
+on it.**
+
+**255 Twenty-Two Stitches.** The fifteenth. The third debt. **Sun Meiling, out loud, at the table:** *I owe
+you three years of a question nobody put to you.* She takes the coat off the chair, shakes it, and the
+pencil row comes out of the lining on twenty-two stitches — **and she wants it counted.** Not corrected,
+not footnoted: a row. She says yes is the certificate's fault and says it fast and gladly. **He says yes in
+front of the room.** The price lands in the same minute: a re-issue at seven needs the head's sworn answer
+and **the auditor of record's hand**, and the auditor of record is a woman in two rooms above a laundry
+who will not be asked yet. **The household holds an answered yes that cannot be effected.** Nadia writes it
+with the hour and signs for it and says she is a witness and not a keeper. Runa tells her the truth about
+what it does to a lie she carried into a fourth office, and goes out of the front door without slamming it.
+Beatrix puts a saucer over the row. **Sun: after the first of August I am not putting it back in a coat
+for anybody, including the head of this household.** Ends with him opening the drawer under the bread for
+the first time in five months for a clean sheet and finding at the back of it **Tessa's count from the
+first of July, which he has never once opened, with a blank answer line and a note on the back in her own
+hand dated the sixteenth of last month.**
+
+**256 Nine Years In A Line.** The sixteenth. From a quarter of eight at the market hatch, two hundred and
+three a morning. He offers his plate number against the answer line of a counted clinic return and she
+says **yes in the first minute**, and the reason is not courage: *nine years I have kept a hatch that no
+one in this city could point at, and that was a defence and a good one, and I was hiding behind it.
+Answerable is the difference between a person and a hatch.* **He writes 8,138, dates it the sixteenth,
+and signs his own name because the return wanted a hand and not a number.** **THE BATCH'S IRREVERSIBLE
+DECISION.** A plate on a Bureau line is a plate that has been looked at, and he has been looked at by
+nobody for five years. **It cannot be got off: a return is a return and a re-issue takes a division's
+season.** Tessa says he will regret it inside a month and does not care. Lode says the only strange thing
+about this building is finished, and that everything else in it will hear inside a week. Beatrix refuses to
+put it in the ordinary record and hands it to Nadia's book instead. Petra, forty-two days on no roll, asks
+what a man is supposed to be after three signatures. **August's first line of the day book is to get a
+number on it.** And he is not sorry, **and that was new.**
+
+**257 The Only Room She Owns.** The seventeenth. He goes to Lantern Row at half past seven with six slips
+and a form-numbered envelope and **does not go up.** She opens the door and comes down four steps and stops
+on the seventh, in her stockings, with a candle end behind her, because the rooms are hers and the stair is
+not, and because if he comes up four more steps she will go back in and shut the door and be right to.
+**He reads her four figures from the step below, with the paper in his hand, and that is the whole of the
+term.** She tells him the thing the term costs: **a price is not a figure, a price is a figure against a
+security held by a named holder**, and to price his debts she would have to hold the plate, which puts her
+inside the account she walked out of on the sixth. **And she makes him do the working for the twentieth:
+the sixth, the entry that went up with it, a fortnight as the ordinary answer, six and fourteen. The
+twentieth.** She named about a month on the ninth and she says she was being generous to herself and wrong
+in the direction of hoping. **She also tells him he has not asked her for Sun's re-issue, that the term is
+paper and the term is not her name, and that in three days the line he has been standing on will be gone.**
+She will not be thanked for the stair and does not pretend it is free. **He goes home and counts the days
+to the first of August off the side board, which still says six.**
+
+**258 One Of The Nine.** The eighteenth. After the washing. **He tells the room he keeps a ledger.** A
+hundred and eighteen lines, faces and streets and hours, never deeds. Nine turned — people who have felt
+something cold from his hand and started keeping track. **The ninth is himself**, and he does not explain
+it, and the room notices. **Agnete: you have done the whole of my discipline in my kitchen in eleven
+seconds and you have not once stood in my room — both of those are the same thing and you have spent five
+years believing the difference is what you have.** **Runa: the first debt was the one you have been
+carrying since April, and I want to know which of those was for me and which of those was for the room.
+That was for the room. And that is the answer and I hate it.** **Petra asks one question and it is the
+enforcer's: how many of the nine know they are on it.** **Marguerite refuses, in front of everyone, to
+price it, because a thing with no deed in it has no yield and a security with no yield is a rumour.**
+**Wren gives the batch its threat: nine is not a rumour, nine is a route, and every instrument that reads
+it is on a list that Rask's books reconcile against.** Nadia writes the whole of it with the hour and her
+own name against it. Beatrix refuses to put it in the ordinary record, for the first time in four years.
+**He cannot get it back, and it is now in three written places in one kitchen and will be in a fourth by
+morning.**
+
+**259 The Price She Was Never Shown.** The nineteenth. The debt he could not begin without telling Beatrix
+what he had cost her. **On the third of July the broker offered to leave the first of August docket
+unmarked — the account struck out on the fourth of August, the plate back, and every security standing
+against the account coming off the same day, which is the rule, and one of them is what the guild holds
+over her hearing.** He refused it in a queue. He told her on the third that there was no price left on the
+table. **He never told her a price had been on the table with her name on it, and it expired at seven on
+the twelfth.** She asks what the price was and then asks the question under the price: **would you have
+said yes.** He says *I do not know*, which is not the answer she wanted and is the true one, and the
+batch's sharpest sentence is his: *I would like to tell you I would have let that go. I cannot.* She
+writes it in her small level hand and reads it back. **Then she tears the page out and tells him to give
+it to Nadia's book**, because a record in her own hand is a record and a page in a hand somebody else keeps
+is a hold. Wren reads it standing and says the twenty-sixth day. Petra, forty-five days on no roll, asks him
+to say out loud what the mark on the first of August is keeping; he says: **it is keeping me.** Beatrix goes
+down the sixty-one steps and counts them at the bottom without moving her lips, because he taught her that
+in April and she kept it.
+
+**260 The Chair Where She Is The Subject.** The twentieth, Thursday. Cobb Street, half past four, the file
+is his. **He disputes his own sworn figure of the fourteenth of June in a room with a form number on it
+and says the number is seven** — the seventh returned line, left blank by a district officer on the third
+of June, counted as a person four divisions away. He says he will swear what is true today and today it is
+seven, and he will not swear it in a room where the only person who can certify the schedule is the person
+the schedule is about. **Then they call the auditor of record and she comes in with her bag and does not
+look at him once.** She reads the whole household in date order, slowly, twice over, the fourth page first,
+for two hours, and every figure she gives is the correct one and she gives them with no emphasis at all. **In
+the middle she asks for Wren Kallo's finding of the twenty-third of June to be noted in the record of the
+sitting with the date it went in** — not acted on, not answered, only noted, which is more than nothing was
+an hour before. Then her statement on the charge: **the charge was correctly raised and it is correctly
+answered.** The schedule is not read further until the sworn answer is withdrawn by the head or certified
+by the auditor of record. **The instrument that could settle everything has just been named in a room as
+her hand, and she has not said whether she will.** He comes out into the Square at half past six and
+**Isolde Marchetti is singing under the ranks wall with no instrument, and the barrow goes down, the
+argument stops, and a man with his mouth open to shout goes back inside instead.** Beatrix names her and
+warns him: everything she sings, the room agrees with, and it agrees before it has thought about it. **He
+steps out of it.** Beatrix takes his sleeve on the corner and reads the road and asks him to say it out
+loud: seven, said in a room, cannot be unsaid. **Twelve days to the first of August, a woman to answer for
+a schedule, and she has not said whether she will.**

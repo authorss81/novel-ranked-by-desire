@@ -88,11 +88,11 @@ He left the broom squared and the landing swept for the morrow. The morrow opene
 
 Petra touched the swept edge with her thumb in the morning and nodded. Swept edges held the way marked dockets held.
 
-He counted the sixty-one steps under his breath on the last night of July. Ten to nine on the first Petra had stood at the bottom with the bundle. Now the steps stood empty and his own tread steadied them.
+He counted the sixty-one steps under his breath on the tenth of July. Ten to nine on the first Petra had stood at the bottom with the bundle. Now the steps stood empty and his own tread steadied them.
 
 Wren counted the steps with him from the stair below without moving her lips. Sixteen days the finding had sat when she asked on the ninth. Seventeen now. Counting steadied her the way edits steadied records.
 
-He left the landing lamp burning till eleven on the last night. The office paid for light and the light stopped short of the pale rectangle. Pale stayed cool outside it. Both held till morning.
+He left the landing lamp burning till eleven that night. The office paid for light and the light stopped short of the pale rectangle. Pale stayed cool outside it. Both held till morning.
 
 He tested the dark landing after eleven with his thumb in the pale middle. The paint stayed cool. The nail held nothing. Cool paint held the way a swept edge held.
 

@@ -1,6 +1,129 @@
 # Continuity
 
-## Volume 5, Batch 0005 — CLOSED (Chapters 241–250). **THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.**
+## Volume 6, Batch 0001 — CHAPTERS 251–260. THE ELEVENTH TO THE TWENTIETH OF JULY. LIVE.
+
+**Ten chapters, one a day, the eleventh to the twentieth of July. Batch 0001's own head block is in
+`state/current.md`; the gates are in `state/open-threads.md`; the day map and the date trace are in
+`reviews/volume-06/batch-0001.md`. Read this block for what is canon and what may not be closed.**
+
+### 1. THE INHERITED REPAIR, DONE, AND IT WAS TWO LINES IN TWO FORMS
+
+`chapters/volume-05/chapter-0250.md` was sweeping. The chapter is dated **the tenth of July** at `:3` and
+re-anchors to the tenth at `:93`, but `:91` carried the whole phrase **`on the last night of July`** and
+`:95` carried the bare **`on the last night`** in the same register. **Both are fixed.** `:91` now reads
+*"on the tenth of July"*; `:95` reads *"that night"*. `:93`, `:97` and `:3` are untouched and no other
+sentence in the chapter changed. **Word count 2,138 → 2,135.** The root cause was Batch 0005's review
+finding 2, which removed the meta string `on the last night of the volume` by substituting `July` for
+`volume` — right about the meta, wrong about the date. **Volume 5's closure is now final.**
+
+### 2. PROVENANCE, CORRECTED SO IT IS NOT INHERITED AS FACT
+
+`outline/volume-05.md` §6 movement 5 says *"Ch 246 is fixed by `outline/series.md`."* **It is not.**
+`outline/series.md` fixes that Ines leaves **in Volume 5** (line 41, with the reason) and that Volume 5 is
+*"a woman deciding whether she can be with a man she has to audit"* (line 104). The chapter number, the
+filed true report and the walkout of a flat she is still in are Volume 5's own decisions. **Nothing in the
+chapter is wrong. No volume outline pins a chapter number except the scene table in `outline/series.md`.**
+
+### 3. THE CALENDAR, FIXED AND DERIVED
+
+**July 1 is a Saturday. July 6, 13, 20 and 27 are Thursdays. July 10 a Monday, July 12 a Wednesday,
+August 1 a Tuesday.** No chapter in 251–260 names any weekday but **Thursday**, six times, every one of
+them the Thursday pass. **The monthly crew repaints the side board on the first; the Thursday pass is a
+different crew in a different shade and does not touch it.**
+
+**Anchors:** Wren Kallo's finding filed **23 June** · the true report filed **6 July** · Petra Ilyin off
+every roll since **4 June** · the sworn page in his own hand **14 June** · the broker's offer **3 July**,
+expiring **12 July** · Ines's term agreed on Lantern Row **the night of 9 July**.
+
+| Ch | Day | Wren | Report | Petra | Sworn | To 1 Aug |
+| --- | --- | --- | --- | --- | --- | --- |
+| 251 | 11 | 18 | 5 | **37** | **27** | 21 |
+| 252 | 12 | 19 | **6** | 38 | 28 | 20 |
+| 253 | 13 Thu | 20 | 7 | 39 | 29 | **19** |
+| 254 | 14 | **21** | 8 | **40** | 30 | **18** |
+| 255 | 15 | 22 | 9 | 41 | 31 | 17 |
+| 256 | 16 | 23 | 10 | **42** | 32 | 16 |
+| 257 | 17 | 24 | **11** | 43 | 33 | 15 |
+| 258 | 18 | **25** | 12 | **44** | 34 | 14 |
+| 259 | 19 | **26** | 13 | **45** | 35 | 13 |
+| 260 | 20 Thu | **27** | **14** | 46 | 36 | **12** |
+
+**Thirteen date and count errors were found in this batch's own first draft and all are fixed on disk.**
+The full list with before and after is in `reviews/volume-06/batch-0001.md` §2. **The class is the one
+`outline/volume-05.md` §9 names: a figure correctly derived on one date and carried to another.**
+
+### 4. CANON THIS BATCH MAKES, IN
+
+1. **A debt nobody has entered has no movement, and the real books price movement and nothing else.**
+   **A dispute is not a movement. It is the absence of one.** Four of five debts price; the certified
+   figure is free, and Rask says the free one will cost him the most.
+2. **A standing lodged against a broker's account is worth a week you have not fallen.** Plate 8,138,
+   floor 8,141, tolerance three, the floors rise every quarter and the plates do not. **The day he is four
+   under, the standing lodged on 7 June is called and a pen on a chain answers for it.**
+3. **Solveig Rask, 42, enters.** Four guilds' real books, no window, never met one of them. **She does not
+   price the reservoir.** What she says instead: *I do not price a thing I cannot describe. When I do
+   price it there will be a date on the page and you will not be able to refuse it, because a dated figure
+   in a real book is not an offer. It is a fact.* **And: in about four years the examination passes to
+   her, and then the four hundred and thirty days are hers and not the guild's.**
+4. **A stranger's question taken in the counting room on a return day is entered against the account it
+   concerns.** It is a movement. **It is dated and it reconciles and it cannot be refused.**
+5. **A reconciliation charge is not answered by the head it is raised against.** It is answered when the
+   officer who raised it has heard the other side in person — here, the woman who filed against his own
+   schedule. **The charge's own fourteen-day term runs to the 26th of July and is a different clock from
+   the fourteenth day from the sixth, which is the 20th. Both are on the page.**
+6. **Sun Meiling asks to be counted and he says yes in front of the room.** A re-issue needs the head's
+   sworn answer and **the auditor of record's hand**, and the auditor of record is a woman in two rooms
+   above a laundry who has not been asked. **The household holds an answered yes that cannot be effected.**
+   Her row is under a saucer on a bare table and she will not put it back in a coat after the first of
+   August.
+7. **He wrote plate 8,138 into the answer line of a counted clinic return**, dated the sixteenth of July,
+   in his own hand, over nine years of Tessa Okonkwo's hours. **The option that closes is being a man
+   whose plate a form goes past.** Tessa said yes in the first minute and had written the request on the
+   back of the count on the sixteenth of last month.
+8. **He told the kitchen he keeps a ledger.** 118 lines, nine turned, **the ninth still himself**, nothing
+   spent in five years. **He did not say what it is. The room did not ask.**
+9. **Nine turned lines is a route and not a rumour.** Six is the largest set anyone has. Nine can be
+   triangulated to a floor, and every instrument that does it is in this city and on a list that Rask's
+   books reconcile against. **Wren has stopped needing to know what he is and that is the strangest thing
+   in the batch.**
+10. **He disputed his own sworn figure of the fourteenth of June in a room with a form number on it and
+    said the number is seven.** The schedule is not read further until that answer is withdrawn by the
+    head or certified by the auditor of record. **Neither can be unsaid.**
+11. **Marguerite Vale removed the valuation copy, the dead list copies and the five pencil lines from the
+    kitchen table on the fourteenth.** **The table has been bare since.** She priced the debts once more in
+    her own hand first, and the figure was nearly what the stranger gave him.
+12. **Runa Sato made a two-part carbon reconciliation slip on the eleventh**, dated, filled in and not sent,
+    and gave him the bottom half. **Neither half can be produced without the other.**
+13. **Isolde Marchetti, 39, sang under the ranks wall on the twentieth and a room agreed with her.**
+    Named at the foot of the Square. **Not touched. Her scene is Chapter 261 and it is immovable.**
+
+### 5. WHAT THIS BATCH DID NOT CLOSE, AND MAY NOT BE CLOSED BY A LATER ONE
+
+- **Ines Duarte did not come back to the flat.** She was on a stair in her own rooms on the seventeenth and
+  at a desk at Cobb Street on the twentieth. **She signs when signing is what it needs and she has not been
+  asked.**
+- **The term holds and the batch decided it.** **No paper was read to her in her own rooms.** He read her
+  four figures from the seventh step down with the slips in his hand and did not go up. **The batch must
+  not reverse this in the next ten chapters** — and the cost of keeping it is on the page: he got his
+  price from a stranger's books instead, in a book that reconciles, and she is the one who priced him
+  correctly for five weeks at a desk where she is the subject.
+- **Wren Kallo's finding is advanced, not resolved.** Its existence was noted in the record of the
+  twentieth with the date it went in. It is still on Hadewig Mers's desk.
+- **Ines Duarte's review is not resolved.** The division still has to answer for having produced an index
+  holding seven and a schedule holding six.
+- **Beatrix Halm's hearing and Runa Sato's hearing are untouched.**
+- **The reservoir is not priced, not named, not classified and not spent.** Zero system panels, and none is
+  due.
+- **The sixth line on the page in 250 is still not a debt.** It is the standing instruction, it has no
+  figure against it, and no office in the city will ever invoice it. **Do not convert it.**
+- **`hearing tail` / `my hearing tail` was not used and must not be brought back.** The rule it stood for
+  is on the page in its own words at 259.
+- **`There is no form for this` was spent zero times in this batch.** The general observation is capped at
+  three book-wide and the batch used the specific instrument instead.
+
+---
+
+## Volume 5, Batch 0005 — CLOSED (Chapters 241–250). **THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.** *(SUPERSEDED. Retained.)*
 
 > **REPAIRED ON INDEPENDENT REVIEW — READ THIS BEFORE INHERITING ANYTHING IN THIS BLOCK.** An
 > independent review returned 11 findings and 5 minors; all are fixed and the adjudication is in

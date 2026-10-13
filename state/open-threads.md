@@ -1,6 +1,163 @@
 # Open Threads
 
-## Volume 5, Batch 0005 — CLOSE RECORD (Chapters 241–250). THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED.
+## Volume 6, Batch 0001 — LIVE GATE RECORD (Chapters 251–260). THE BROKER'S TERMS, THE ELEVENTH TO THE TWENTIETH OF JULY.
+
+> **THIS IS THE LIVE GATE BLOCK. Every number below was produced by command against the files as they
+> stand after Batch 0001's last edit. A gate that returns zero is a claim to be tested, not a result to
+> be reported, so every row says what was run and what was read.** The Volume 5 Batch 0005 block and the
+> Volume 5 close-pass block are retained below it, superseded as to position.
+
+**Ten chapters, one a day from the eleventh to the twentieth of July 2026 in the book's calendar. Day map:
+251 the 11th (Runa on the stair; the false six named; half a carbon slip) · 252 the **12th**, the offer
+expires by the operation of a date and a broker's standing (irreversible, inherited) and a reconciliation
+charge arrives · 253 the 13th Thursday, the counting room, **Solveig Rask enters** · 254 the 14th,
+**Marguerite takes her papers off the table; the kitchen table is bare** · 255 the 15th, **Sun Meiling
+asks to be counted and he says yes** · 256 the 16th, **he signs his plate against nine years of Tessa's
+hours — the batch's irreversible decision** · 257 the 17th, Lantern Row, the pricer is reachable and
+unavailable and the twentieth is derived on the page · 258 the 18th, **he says the ledger out loud** ·
+259 the 19th, Beatrix and the price that died on the twelfth · 260 the **20th** Thursday, **Cobb Street,
+Ines at a desk where she is the subject, he disputes his own sworn figure, Isolde Marchetti sings.**
+
+### Gates run after the last edit
+
+```
+files            chapters/volume-06/ -> 10 (0251..0260). No chapter before 0251. No chapter after 0260.
+                 chapters/ holds 260 chapter files and 0 non-markdown files.
+titles           unique across ALL 260 written titles -> NONE duplicated. Over 90 chars -> 0.
+                 The ten new titles: The One He Named First (22) / The Charge Against The Schedule (31) /
+                 The Keeper Of The Real Books (28) / The Table Bare (14) / Twenty-Two Stitches (19) /
+                 Nine Years In A Line (20) / The Only Room She Owns (22) / One Of The Nine (15) /
+                 The Price She Was Never Shown (29) / The Chair Where She Is The Subject (34).
+                 None begins with "What". The collision check was run against every file in chapters/,
+                 not by eye.
+wc 251-260       1869 / 2082 / 2013 / 2014 / 1836 / 1913 / 1970 / 1877 / 1885 / 2150
+                 -> all ten inside 1,800-2,700. NO CHAPTER LEAVES THE BAND AND NO NAMED EXCEPTION IS CLAIMED.
+markup           bold 0 | ITALIC 1 | blockquote 0 | table 0 | horizontal rule 0 | code 0.
+                 The italic is chapter-0252.md:93 -- the four words of Marguerite's slip, set as written
+                 matter. Volume 5 Batch 0005 closed on one italic (245:39) under the same allowance.
+                 MARKUP IS 1, NOT 0. A later batch must not inherit a zero.
+system panels    <= 1 per chapter: 0,0,0,0,0,0,0,0,0,0. The batch contains no "[" character at all, so
+                 zero is STRUCTURAL and not a regex artefact. Nothing is spent from the reservoir in
+                 240 chapters; what moved was a plate number on a return, a sentence in a kitchen, and a
+                 figure a stranger wrote on a slip. NO PANEL IS DUE. Do not manufacture one.
+paragraphs       over 90 words -> 0. Over 120 words -> 0.
+exact-dup paras  floor 6+ words, batch AND neighbours 241-250 -> 0.
+                 floor 4+ words, same scope -> 0. (The 4-word floor was run because Volume 5's 6-word gate
+                 hid two exact repeats below it. It hides nothing here.)
+nobody           1 -- chapter-0255.md:7, "a question nobody put to you". CANON LANGUAGE, not the
+                 rhetorical tic: bible/terminology.md defines Sun Meiling's three years as "years of
+                 waiting on a question nobody put to her", and the chapter's debt is named in the book's
+                 own terms and repeated correctly two paragraphs later. Every other use was cut.
+no person        0.  He understood 0.  He also understood 0.
+He had woken wanting  0 of 10 (Volume 5 closed on 4).
+He felt          0 (Volume 5 closed on 9, eight capital and one lower). Case-sensitive, and it is zero.
+weekday          Thursday 6 (253 x2, 254 x1, 260 x3), every one of them the Thursday pass or a character's
+                 reference to it. EVERY OTHER WEEKDAY -> 0. "Mon/Tue/Wed/Thu/Fri" checked as substrings too.
+meta             volume 0 | chapter 0 | the reader 0 | this scene 0 | novel 0 | narrat 0. AGES 0.
+12-GRAM SCAN     RUN FIRST, AGAINST ALL 260 CHAPTERS, BEFORE THE 8-WORD SCAN.
+                 Distinct 12-grams in 251-260 that occur in any other chapter: 1 / 3 / 3 / 3 / 0 / 5 / 7 /
+                 0 / 1 / 6  =  29 TOTAL, against 260 chapters and against Volume 5's recorded 290.
+                 Every one of the nine groups is adjudicated canon:
+                   251 "the ledger and nine of them turned"            -> 184, the standing stat
+                   252/254 "a printed line under the signature"        -> the blank remark line, 238 & 250
+                   253/257 "a thing that has never been entered"      -> Rask's rule, said again by Ines in agreement
+                   256 "the head of a household answers in his own name" -> the printed indemnity, 191/199/205
+                   256 "and there is nothing I can do"                -> 179
+                   257/260 "the only person who can certify the schedule" -> DELIBERATE. Ines names the
+                       instrument on the 17th and the panel names it on the 20th. This is the batch's one
+                       intended echo and it is four 12-grams in two chapters.
+                   259 "the run breaks at the hundred and"            -> 243, the broker's own words
+                   260 "walked out of a flat she was still in"        -> 247/250, canon
+intra-batch      12-grams occurring in 3+ chapters -> 0. Multiplicity histogram {1: 19446, 2: 10}.
+                 Max multiplicity 2.
+vs neighbours    per chapter, shared with 241-250: 12-gram 0,0,0,0,0,0,0,0,1,2. 10-gram 0,1,0,1,0,0,2,2,
+                 4,4. 8-gram 5,7,2,9,5,4,7,4,12,10.
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings inside the batch
+                 -> 0. Four were found on the first pass and all four were rewritten; they were 251/259
+                 on Petra counting, 251/257 on the term, 252/254 on the broker's definition of a price,
+                 252/259 on the fourteenth day.
+```
+
+### What the gates do not tell you
+
+The counts above are clean and **a hand trace still found thirteen date and count errors in this batch's
+own first draft**, all of them the class the close pass names: **a figure correctly derived on one date
+and carried to another.** They are fixed and the full list with anchors is in
+`reviews/volume-06/batch-0001.md` §2 and §4. **The four that would have been caught by any reviewer:**
+Ch 254 had Petra on 39 days when 4 June to 14 July is 40 · Ch 258 had her on 43 when it is 44 · Ch 256
+dated the clinic return the seventeenth when the chapter is the sixteenth · Ch 252 said he had kept the
+term nine days when the term was agreed late on the ninth and the chapter is the twelfth.
+
+**Three names the batch had to fix that a gate never counts:** `Fourty-three` · the ranks wall described
+as two hours behind with the figures already up at ten, in two chapters · and a room-count that had drifted
+twice (six women, six people, eight women, nine women) because Ines is not in the house.
+
+### Canon this batch makes, in
+
+1. **A debt nobody has entered has no movement, and a real book prices movement and nothing else.** Four of
+   his five debts price. The fifth — the certified figure — is free, and Rask says why in the sentence
+   the batch is built on: **a dispute is not a movement, it is the absence of one.**
+2. **A standing lodged against a broker's account is worth a week you have not fallen.** The plate is
+   8,138 against a floor of 8,141 with a tolerance of three, the floors rise every quarter and the plates
+   do not, and the day he is four under, the standing he put in on the seventh of June is called and a pen
+   on a chain answers for it. **This is the arithmetic nobody in his household can do and it is now on the
+   page.**
+3. **Solveig Rask, 42, enters.** She keeps four guilds' books, has never met any of them, and prices a
+   stranger's question on a return day against the account it concerns. **She does not price the
+   reservoir and says why: I do not price a thing I cannot describe. When I do price it there will be a
+   date on the page and you will not be able to refuse it, because a dated figure in a real book is not an
+   offer. It is a fact.**
+4. **A reconciliation charge is not answered by the head it is raised against.** It is answered when the
+   officer who raised it has heard the other side in person — which for him is the woman who filed against
+   his own schedule. **The charge's own fourteen-day term runs to the twenty-sixth of July and is a
+   different clock from the fourteenth day from the sixth, which is the twentieth. Both are on the page.**
+5. **Sun Meiling asks to be counted and he says yes in front of the room.** A re-issue needs the head's
+   sworn answer and the auditor of record's hand, and the auditor of record is a woman in two rooms above
+   a laundry who has not been asked. **The household now holds an answered yes that cannot be effected.**
+6. **He signed plate 8,138 into the answer line of a counted clinic return**, dated the sixteenth of July,
+   in his own hand, over nine years of Tessa Okonkwo's hours. **The option that closes is being a man
+   whose plate a form goes past.**
+7. **He told the kitchen he keeps a ledger.** A hundred and eighteen lines, nine turned, the ninth still
+   himself, nothing spent in five years. **He did not say what it is and the room did not ask.**
+8. **Nine turned lines is a route, not a rumour.** Six is the largest set anyone has; nine can be
+   triangulated to a floor, and every instrument that does it is in this city and every one of them is on
+   a list that Rask's books reconcile against.
+9. **He disputed his own sworn figure of the fourteenth of June, in a room with a form number on it, and
+   said the number is seven.** The schedule is not read further until the sworn answer is withdrawn by the
+   head or certified by the auditor of record. **He can never unsay it and neither can she.**
+10. **Isolde Marchetti sings under the ranks wall on a Thursday and a room agrees with her.** Named at
+    260. Not touched. She is 39 and her scene is Chapter 261 and it is immovable.
+
+### Canon this batch makes, out
+
+- Volume 5's closure is now final. **Chapter 250's closing montage has been moved off the last night of
+  July onto the tenth** (`:91` and `:95`, both forms) and Volume 6 Batch 0001 exists on disk.
+- Wren Kallo's finding is **advanced, not resolved** — its existence is noted in the record of the
+  twentieth with the date it went in, and it is still on Hadewig Mers's desk.
+- Ines Duarte's review is **not resolved**. The division still has to answer for having produced an index
+  holding seven and a schedule holding six, and the instrument that could settle it is her hand.
+- Beatrix Halm's hearing and Runa Sato's hearing are untouched. Runa's half of the carbon is in his coat
+  and the two halves have never been together.
+- The reservoir is not priced, named, classified or spent.
+- **The sixth line on the page in 250 is still not a debt.** The standing instruction has no figure
+  against it and no office in the city will ever invoice it.
+
+### What this batch spent
+
+An option closed (**a man whose plate a form goes past**, 256) · an option closed (**the household's
+pricing is in another keeper's book now**, 253 and 254) · a cost incurred by a woman (**Runa carried a
+false figure into a fourth office and was told so by the man whose hand it was**, 251) · a cost incurred
+by a woman (**Ines stands on a cold stair in her stockings and is told what the term has cost her**, 257)
+· a relationship moved (**Beatrix stops carrying the guild's hold for the account and starts carrying it
+for him**, 259) · a threat raised (**nine turned lines is a route and a good analyst can arrive at the
+floor**, 258) · a rule understood well enough to exploit (**a dispute has no movement and cannot be
+priced, which means the truest debt is the free one**, 253) · a reversal (**the index of seven is right and
+the head's sworn figure of six is the lie, said by the head, in a room**, 260) · and a loss (**the kitchen
+table has been bare since the fourteenth**, 254).
+
+---
+
+## Volume 5, Batch 0005 — CLOSE RECORD (Chapters 241–250). THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED. *(SUPERSEDED AS TO POSITION. Retained.)*
 
 > **REPAIRED ON INDEPENDENT REVIEW.** An independent review returned 11 findings and 5 minors and **all
 > are fixed.** Three were blocking and a later writer must inherit the corrections rather than the
