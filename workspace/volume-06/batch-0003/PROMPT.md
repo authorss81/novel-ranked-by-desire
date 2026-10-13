@@ -5,8 +5,10 @@ Write **ten finished chapters, in order**, into `chapters/volume-06/chapter-0271
 
 **Volume 6 Batch 0002 (Ch 261–270) is written and closed on disk. Its head block is `state/current.md`; its
 live gates are at the head of `state/open-threads.md`; its day map, its date trace and its repair record are
-`reviews/volume-06/batch-0002.md`. Its volume outline is `outline/volume-06.md` and it was rewritten after
-its own ten chapters — **§1 to §6 movement 2 are written fact and §6 movement 3 onward is a plan.**
+`reviews/volume-06/batch-0002.md` **§2 and §7**. Its volume outline is `outline/volume-06.md` and it was
+rewritten after its own ten chapters — **§1 to §6 movement 2 are written fact and §6 movement 3 onward is a
+plan.** **An independent review ran after that batch and repaired it; §7 of the review file is the list, and
+two of its findings are inherited below as rules for this batch.**
 
 ---
 
@@ -29,10 +31,23 @@ on the first of September and takes Ines Duarte's office to do it** (266).
 
 ## 2. THE POSITION AT CHAPTER 270 — EVERY FIGURE ON THE PAGE
 
-> **INHERIT `reviews/volume-06/batch-0002.md` §2 FOR EVERY COUNT. Nine hand-traced errors were found in that
-> batch's own first draft and the class was not dates — it was an instrument written once correctly and then
-> restated from memory. Three rules were invented in ten chapters and all three were paraphrased wrongly
+> **INHERIT `reviews/volume-06/batch-0002.md` §2 AND §7 FOR EVERY COUNT. Nine hand-traced errors were found in
+> that batch's own first draft and an independent review found seven more. Neither class was surprise prose —
+> it was an instrument written once correctly and then restated from memory, and a figure derived in one place
+> and carried to another. Three rules were invented in ten chapters and all three were paraphrased wrongly
 > later. Write each rule once, in full, and never refer back to it by paraphrase.**
+>
+> **AND INHERIT THE REVIEW'S TWO CALENDAR FINDINGS, WHICH ARE THE ONES A GATE CANNOT CATCH:**
+>
+> - **Only the twenty-seventh of July was a Thursday in 261–270.** July's Thursdays are the sixth, the
+>   thirteenth, the twentieth and the twenty-seventh. **Isolde Marchetti's answer was sung on the twenty-third
+>   and the twenty-third is not one of them.** The weekday gate passed on a batch that had put a Thursday on
+>   the twenty-third, because "only Thursday is named" is exactly what the gate asks for. **When you name a
+>   day of the week, check it against the calendar in the same breath.**
+> - **The quarterly band and the Thursday pass are two offices, two hands and two shades, three days apart.**
+>   The pass reads the wall on the twenty-seventh. The band came down on the thirtieth at six in the morning.
+>   A first draft dated the band five days off the pass, and then a week off it, and then dated it on the
+>   wrong day of 270 entirely.
 >
 > 1. **A month is thirty days and has no thirty-first.** The thirtieth is the last working day. This is the
 >    rule the change of auditor turns on.
@@ -189,7 +204,8 @@ titles                      unique across ALL 280 written titles -> NONE; over 9
 wc 271-280                  1,800-2,700 as the working band; a chapter that leaves it gives a named reason.
                             A SCENE may run longer and must say so.
 markup                      bold / italic / blockquote / table / rule / code -> report the REAL count.
-                            Batch 0002 shipped 7 bold and 5 italic, not zero. Do not inherit a zero.
+                            Batch 0002 shipped 7 bold and 9 italic spans. Do not inherit a zero, and do not
+                            inherit a wrong number either — its own review file reported 5 and was wrong.
 system panels               <= 1 per chapter, and record whether any is due
 paragraphs over 90 / 120    0 / 0
 exact-duplicate paragraphs  0 at 6+ words AND 0 at 4 words, batch AND neighbours 261-270
@@ -198,7 +214,9 @@ He had woken wanting        reported as a count out of 10
 He felt                     case-sensitive
 weekday                     only Thursday is named; every other weekday -> 0, whole-word AND as a
                             substring. Batch 0002 named six weekdays on its first pass and every one
-                            had to go. **Write the date, not the day.**
+                            had to go — **and the replacements were Thursday, which put a Thursday on
+                            the twenty-third of July, a Sunday. Count the surviving Thursdays AND check
+                            each one against the calendar.**
 meta / fourth wall / ages   0
 12-gram scene scan          RUN THIS FIRST, AGAINST ALL CHAPTERS INCLUDING THIS BATCH, and BEFORE the
                             8-word sentence scan.

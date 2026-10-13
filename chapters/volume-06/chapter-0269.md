@@ -90,11 +90,11 @@ They went down. The dispatch man got out at the ground and went out into the yar
 
 "Ten nights," she said. "Nineteenth to twenty-eighth. Ten pages with a night on each one and a thing in it, and I cannot write this one, and I am not going to leave it out and go round to the next one, because I have never skipped a day of that book in eleven years and I am not starting on the day a woman came into my kitchen with a bag.
 
-"So it is blank. And the reconciliation is on the Thursday, and the last Thursday in this month was the twenty-seventh, and that page has to be in this book before a woman four divisions away reads it."
+"So it is blank. And the reconciliation is on the Thursday, and the last Thursday in this month was the twenty-seventh, and that page has to be in this book before a woman four divisions away reads it on the third."
 
-"That is tomorrow," he said.
+"That is the third," he said.
 
-"That is tomorrow," Nadia Ferrous said. "And you are not to help me write it. That is the one thing I would like said out loud tonight, and I would like it said out loud by you, because I have written down twice this month what another person wrote and both of those times I was right and one of those times it cost a woman an office, and I am not doing it again for a page about a thing I did not see."
+"That is the third of August," Nadia Ferrous said. "And you are not to help me write it. That is the one thing I would like said out loud tonight, and I would like it said out loud by you, because I have written down twice this month what another person wrote and both of those times I was right and one of those times it cost a woman an office, and I am not doing it again for a page about a thing I did not see."
 
 He looked at a blank page in a lift at the bottom of a night with a young woman crouched over it who had been on his roll for four years and had never once been in anything.
 

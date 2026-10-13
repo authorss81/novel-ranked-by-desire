@@ -118,7 +118,7 @@ Runa Sato looked at the shuttered counter for a second.
 
 "Say the rest of it," she said. "Because that is a lovely sentence and it is not true."
 
-"The rest of it is that the hearing goes stale on the thirty-first," he said, "and I could have secured it, and you have told me not to, and I have agreed, and that is the first time in a month I have agreed to something a woman in this house asked me for and done the thing I wanted anyway, and I am telling you that the reason I agreed is not the reason you gave me."
+"The rest of it is that the hearing goes stale the moment the month ends," he said, "and I could have secured it, and you have told me not to, and I have agreed, and that is the first time in a month I have agreed to something a woman in this house asked me for and done the thing I wanted anyway, and I am telling you that the reason I agreed is not the reason you gave me."
 
 "Then give me the reason you had."
 
@@ -128,6 +128,6 @@ The Field counter shut at half past three and both halves of that reconciliation
 
 He walked back up the sixty-one steps with his hands in his pockets and nothing in either of them.
 
-In two days a form on a desk dies of its own week whatever anybody does with it. At midnight tonight a month ends and a hearing with it. Tomorrow a charge at Cobb Street runs out its own term. On that Thursday a reconciliation will put a broker's mark and a broker's account on a dated page in a real book four divisions hold by the end of the week.
+In four days a form on a desk dies of its own week whatever anybody does with it. On the night of the thirtieth a month ends and a hearing with it. Tomorrow a charge at Cobb Street runs out its own term. And on the third of August a reconciliation will put a broker's mark and a broker's account on a dated page in a real book four divisions hold by the end of the week.
 
-Runa Sato's hearing paper is good for six more days and she has turned it down herself, out loud, in front of a man who came to buy it.
+Runa Sato's hearing paper is good for five more days and she has turned it down herself, out loud, in front of a man who came to buy it.

@@ -64,13 +64,13 @@ Sun Meiling looked at him.
 
 "So it is not the first," she said.
 
-"Then it is not the first of September at all." He said it and heard it. "Written on the twenty-sixth it goes on the first of August. Written on the thirtieth it goes on the first of August as well, because the thirtieth is the last working day of the month."
+"Then it is not the first of September at all." He said it and heard it. "And it makes no difference which day of this month I put my name to it. The division acknowledges on the first either way, and the thirtieth is the last working day and the first is still the first. So the four days are not in the rule. The four days are me sitting on a stair."
 
 "A month has thirty days and no thirty-first, and a change has to be in before the month is out, and the thirtieth is the day the month goes out." She put her finger on the lamp's edge. "Which is also the morning the quarterly bands go up on the ranks wall, and the morning your plate stops being three under a floor."
 
 "Then it is the thirtieth," he said. "Four days."
 
-"Four days."
+"Four days," Sun Meiling said. "You have had eleven of them already, and I have been standing in this kitchen asking you for every one of them."
 
 Nadia Ferrous had her book open before either of them had finished the sentence, because that is what Nadia does, and she wrote the hour against it and read it back, and then she did the thing she has done twice in eleven years and put her own name on the line.
 
@@ -79,6 +79,12 @@ Nadia Ferrous had her book open before either of them had finished the sentence,
 "You are not putting it on a line," Sun Meiling said. "You are putting it on a witness line, and a witness line is read, and it has never once been read about you."
 
 Nadia wrote her name against the witness line in her small level hand and read it back twice.
+
+"Nadia," he said. "Give me the pen."
+
+"You told me at that table it was the thirtieth."
+
+"I told you at that table there was nothing in the four days. Give me the pen."
 
 He read the change out at the table with all of them on the same side of it, and then he said the thing Sun Meiling had asked him for on the twenty-second of July and had not asked him for again since, which is that he was doing it for her.
 
@@ -90,7 +96,7 @@ He read the change out at the table with all of them on the same side of it, and
 
 "It is because of the row."
 
-He wrote his name in his own hand at the foot of it and put the date under it, which is the twenty-sixth of July, which is the day a reconciliation charge of the twelfth of July ran out its own term in a building two miles away and was not answered by anybody because it had been answered correctly on the twentieth.
+He wrote his name in his own hand at the foot of it and put the date under it, which is the twenty-sixth of July, four days earlier than the morning he had agreed on at that table, and which is also the day a reconciliation charge of the twelfth of July ran out its own term in a building two miles away and was not answered by anybody because it had been answered correctly on the twentieth.
 
 The table had nothing on it except the saucer and the sheet and two cups, and the saucer went back over the pencil row in the middle of it, which was the first time since the fifteenth of July that anybody had touched the saucer at all.
 
@@ -100,7 +106,7 @@ Beatrix Halm came in at ten with her notebook shut under her arm and read the ch
 
 "I know what I have done."
 
-"You do not. You have had six days to think about it and you spent them." Wren shut the folder.
+"You do not. You have had eleven days to think about it and you spent them." Wren shut the folder.
 
 "There is a woman in two rooms above a laundry who held that office on the ninth of July, when you agreed in the dark not to read a piece of paper to her in them. What you have signed tonight cannot be told to her on her own sill without a man knocking at a door he promised not to knock on, and there is no office in this city that will serve that paper on a woman in her own rooms, and I have looked."
 

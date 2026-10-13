@@ -6,7 +6,7 @@ Fourteen days. The table in that kitchen had been bare for fourteen days and in 
 
 "Nobody has touched it," Marguerite Vale said. "I would like that understood before anybody in this room decides what the next four minutes are."
 
-Nobody in the room had been in the building at nine that evening except Beatrix, who had come in off the yard tram and read a wall in the Square, and Wren, who had come out of her room with a book in her hand and stood at the top of the stair, and Nadia, who had her own book open on the settle with the hour going on the page.
+No one in the room had been in the building at nine that evening except Beatrix, who had come in off the yard tram and read a wall in the Square, and Wren, who had come out of her room with a book in her hand and stood at the top of the stair, and Nadia, who had her own book open on the settle with the hour going on the page.
 
 Runa Sato had taken the last house's carriage. Sun Meiling was at the market. Agnete Lindqvist was asleep on the landing by the stair lamp with the blanket over her that Wren Kallo had put there four nights ago and that neither of them had mentioned since.
 
@@ -132,12 +132,12 @@ Wren Kallo came out of the stair with her folder shut under her arm.
 
 He stood in the kitchen after that with the table bare again for the fifteenth time and five women in it.
 
-On that Thursday there would be a page with a broker's name on it and a figure on it and a date on it, because on the twenty-fourth he had gone into a counting room two floors under a sales floor and said two words to get it made, and in two days a woman who had protected a man for four years by carrying her book home to a flat would have a dated disagreement against her name in four divisions.
+On that Thursday there would be a page with a broker's name on it and a figure on it and a date on it, because on the twenty-fourth he had gone into a counting room two floors under a sales floor and said two words to get it made, and in five days a woman who had protected a man for four years by carrying her book home to a flat would have a dated disagreement against her name in four divisions.
 
 He had known the price on the twenty-fourth. She had told him the price on the twenty-fourth, standing up, in a cold room two floors under a sales floor, and he had said do it.
 
 He went up and looked at the form on the table at the top of the stairs with his name and the date on it, and the lamp, and the saucer on the bare middle of the table with a pencil row under it that was going into ink in September because he had signed that on the twenty-sixth and it could not be told to the woman it belonged to without knocking on a door he had promised not to knock on.
 
-Tomorrow the instrument upstairs dies. On the Thursday the page comes. In two days the first of August.
+Tomorrow the instrument upstairs dies. On the Thursday the page comes. In three days the first of August.
 
 And a woman in two rooms on the north side of this city has no idea yet, and there is no lawful way to tell her, and he has just promised a second woman never to ask.

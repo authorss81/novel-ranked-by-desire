@@ -20,7 +20,7 @@ Agnete Lindqvist put her coat on over her cardigan at the end of the table witho
 
 Agnete went down the sixty-one steps for the first time since she came into that building. She went at the speed of a woman going to work, and she did not stop at the bottom to count them, and she did not stand there the way the others do.
 
-He went with her as far as the foot of them and then stopped and let her go, and he went back up and washed his hands and sat on the landing with his back against the cold paint for a while, because there was nothing else in that building on a Thursday evening that he was any use in.
+He went with her as far as the foot of them and then stopped and let her go, and he went back up and washed his hands and sat on the landing with his back against the cold paint for a while, because there was nothing else in that building that evening that he was any use in.
 
 Two of the women in that building are religious about numbers. One of them was on her way down the stair to walk into the one instrument in this city that makes them meaningless.
 
@@ -58,7 +58,7 @@ He sat down.
 
 "I said I would not come to the second house." He had said the first house. "I have been on a landing for two hours with a woman who tells me what the difference between two women is."
 
-"Petra." She almost smiled. "Petra has been the only person in that building who has ever asked me a question about it. In eleven years. Nobody asks a woman about a thing she is doing. They ask her about the thing she is not doing."
+"Petra." She almost smiled. "Petra has been the only person in that building who has ever asked me a question about it. In eleven years, and not one of them has ever put the question to the woman about the thing she is doing. They ask her about the thing she is not doing."
 
 The lamps went down and there were nine hundred people under the rail and he could not see the bottom of the house from the gallery.
 
@@ -132,4 +132,4 @@ At two in the morning he came out of the front room and Wren was still there wit
 
 She went back to her room.
 
-He stood in the dark on the landing with a woman asleep against his warm wall and a date in a clerk's hand on a page where nothing else was, and eleven years of quiet, and one verse, and one song with a door number in it, and eleven minutes to the first of August.
+He stood in the dark on the landing with a woman asleep against his warm wall and a date in a clerk's hand on a page where nothing else was, and eleven years of quiet, and one verse, and one song with a door number in it, and nine days to the first of August.

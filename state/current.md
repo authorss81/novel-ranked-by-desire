@@ -30,6 +30,16 @@ read away; you do not pay for it on every prompt.
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
 
+**An independent review ran after this batch and repaired it. The repair is on disk and no plot moved.** Nine
+defects were returned. Four were reader-visible contradictions — the band posting dated three different ways,
+Ch 265 breaking its own rule four paragraphs after stating it, *"that is tomorrow"* in 269 for a Thursday five
+days away, and an instrument described as signed in 267 after he refused to sign it in 262 — and one was a
+calendar break: the batch's own de-meta repair had replaced real weekday names with **Thursday** and so put a
+Thursday on the twenty-third of July, which is a Sunday. **No event, no decision, no figure a chapter depends
+on, no scene and nothing outside 261–270 changed.** Dates, three counts, one doubled quotation mark, one
+banned construction, and the four-day wait in 266, which bought nothing under the rule the chapter itself
+states and now says so. The full record is `reviews/volume-06/batch-0002.md` §7.
+
 Batch 0001's head block is retained below this one, **superseded as to position.** Its five date corrections
 are still canon and are repeated in §3 because a later batch will otherwise re-derive them wrongly: **the
 kitchen table is bare from the fourteenth only** · **the clinic count begins on the first of July and Tessa's
@@ -41,7 +51,8 @@ carried it sixteen days.**
 the thirteenth, the twentieth and the twenty-seventh, so the last Thursday in the month is the twenty-seventh
 and the next one is the third of August. A month is thirty days and has no thirty-first, and the thirtieth is
 the last working day — which is why a change of auditor signed on the twenty-sixth is acknowledged on the
-first of August and not on the first of September.** Only Thursday is ever named.
+first of August and not on the first of September.** Only Thursday is ever named, and **the only Thursday in
+the batch's ten days is the twenty-seventh.** Isolde's answer was sung on the twenty-third, which is not one.
 
 ## 1. WHAT THE BATCH DID
 
@@ -52,7 +63,7 @@ room **without needing the one woman he could have gone to**, which is the whole
 
 **A verse, a song, and the household becoming public (261–263).** Isolde Marchetti, 39, sings at the Bellhouse,
 and a man in a good coat paid twenty pence at a bar on the eighteenth of July for four lines with a number in
-them and no name and no street. **He has sung it four nights running and it is in repertory with no date on
+them and no name and no street. **It has been sung four nights running and it is in repertory with no date on
 the card.** On the twenty-first he bought a seat at the back and let it happen to him, and the chapter says
 plainly why: *because I am the man in it, and there was one room left in this city that did not have me in
 it, and I gave it away for twenty pence.* On the twenty-third she sang something else, and the answer named
@@ -95,8 +106,11 @@ of a witness.**
 **Sun's row, and the form behind it (266).** An impediment on a certificate is a bar on the certificate, not a
 bar to certifying, and it comes off by removing the person it is on. **He signed a change of auditor of record
 on the twenty-sixth, in his own hand, with the date under it, in a kitchen, out loud, with his reason stated
-as Sun Meiling demanded — and the reason was the row.** A change is acknowledged on the first, and the first
-is a valuation morning, and a month has no thirty-first. **Sun Meiling's row goes into ink on the first of
+as Sun Meiling demanded — and the reason was the row.** A change is acknowledged on the first, the first is a
+valuation morning, and a month has no thirty-first. **He set himself the thirtieth as the day to sign, worked
+out in front of them that the four days bought nothing at all, and signed that night instead, four days before
+his own date, when Nadia Ferrous put her name on the witness line and Sun Meiling told him he had already had
+eleven of those days and she had asked for every one.** **Sun Meiling's row goes into ink on the first of
 September and not the first of August, and the price is the only office that made Ines Duarte certifiable.**
 Nadia Ferrous put her own name on the witness line for the first time in eleven years. **And there is no
 lawful way to tell the woman whose office he has just taken.**
@@ -179,8 +193,16 @@ about the thirtieth, **and one blank page that is going into four divisions' wor
 7. **A room holds eight women, four on the roll and four on nothing.** Seven is the size of the roll, which
    carries Ines and does not carry Sun.
 8. **The kitchen table is bare from the fourteenth of July only**, and it held this household's paper from
-   the twenty-second of March and the broker's account from the nineteenth of June until the twenty-eighth,
-   when the broker put a bag on it for about an hour and took it away again.
+   the twenty-second of March and the broker's account from the nineteenth of June until the fourteenth, when
+   the broker carried the account out of it. She put the bag back on the bare table for about an hour on the
+   twenty-eighth and took it back to the floor at nine minutes past nine.
+9. **The twenty-third of July is not a Thursday and must never be written as one.** July's Thursdays are the
+   sixth, the thirteenth, the twentieth and the twenty-seventh. **Isolde Marchetti's answer was sung on the
+   twenty-third**, and the answer went into the card on the twenty-second.
+10. **The band goes up on the thirtieth, three days after the Thursday pass, and the two are not the same
+    event.** Two offices, two hands, two shades. On the twenty-seventh he is told it is three days off; on the
+    thirtieth it comes down at six in the morning. **The Thursday pass and the quarterly posting are never
+    five days apart and never on the same day.**
 
 ## 4. WHAT IS OPEN, AND WHAT CHAPTER 271 OWNS
 

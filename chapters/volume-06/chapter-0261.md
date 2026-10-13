@@ -67,11 +67,13 @@ He had known that at the door and had come anyway.
 
 "Then what do you do about it."
 
-"I have booked myself for the second house on the twenty-third and I am going to sing something else." She looked up at him. "That is the only lever anybody has ever had over me and I have had it for twenty years and never pulled it once, and I am pulling it on Thursday because a man in a good coat has paid twenty pence to make a street agree with a lie about you, and because I do not intend to be the instrument that does it twice."
+"I have booked myself for the second house on the twenty-third and I am going to sing something else." She looked up at him. "That is the only lever anybody has ever had over me and I have had it for twenty years and never pulled it once, and I am pulling it in two days because a man in a good coat has paid twenty pence to make a street agree with a lie about you,
+
+"and because I do not intend to be the instrument that does it twice."
 
 "You will not tell me what it is."
 
-"I will not, and if I tell you then you will have an afternoon to think about it, and then you will come up here and tell me it is too dangerous for the household, and then I will go up that stair on Thursday and sing the version I have had since the eighteenth, which is the safe one, which is the one that costs you and does not cost me.
+"I will not, and if I tell you then you will have an afternoon to think about it, and then you will come up here and tell me it is too dangerous for the household, and then I will go up that stair that night and sing the version I have had since the eighteenth, which is the safe one, which is the one that costs you and does not cost me.
 
 "I am not going to be managed by a man being frightened for me. I am going to be managed by the room, and the room is the only thing in this city I have never once been able to lie to."
 
@@ -81,7 +83,7 @@ It was that he was the man in the verse. There was one room left in this city th
 
 "All right," he said.
 
-"Go home and sleep," Isolde Marchetti said. "You have not slept since the twentieth and I am not saying that kindly. Thursday."
+"Go home and sleep," Isolde Marchetti said. "You have not slept since the twentieth and I am not saying that kindly. Two days."
 
 She went back in by the stage door and the latch went off, and he stood there while the queue came along the Row past him to a house that was going to make nine hundred people agree with a false thing about him for the fifth night running.
 
@@ -149,7 +151,7 @@ After about nine seconds she took it off him and said, "Right, you have been on 
 
 "How long have you," she said.
 
-"Four years," he said, "and I am going nowhere and I have nowhere to be at ten to ten on a Thursday."
+"Four years," he said, "and I am going nowhere and I have nowhere to be at ten to ten on the twenty-third."
 
 "Then I am not going to hurry and I am not going to be short with you either. If you want me to be one of those, say so now." She said it looking straight at him and not modestly. "I have not been with anybody in two years because I could not find the thing where I chose it, and I have just found it, and it is standing on my floor with wet shoulders."
 
@@ -191,13 +193,13 @@ She washed at the basin in a hard splash of cold water and came back with her ha
 
 She nodded once, and it was not a small nod.
 
-"So on Thursday I sing in front of nine hundred people, and what I sing is mine and not yours, and you are not coming, and you will not be told what it is before or after."
+"So on the twenty-third I sing in front of nine hundred people, and what I sing is mine and not yours, and you are not coming, and you will not be told what it is before or after."
 
 "I will come."
 
 "You will not." She said it without doubt. "The second you walk into that house it is about you, and it stops being mine inside four seconds, and I have had it for four seconds and I want the whole of it.
 
-"You will be somewhere else in this city on Thursday evening and wait for it to come out the way you waited for a mark to go into a book. That is your trade and I am not criticising it."
+"You will be somewhere else in this city on the night of the twenty-third and wait for it to come out the way you waited for a mark to go into a book. That is your trade and I am not criticising it."
 
 He took her at her word, because she was right, and because a woman telling you what you are like is worth more than a woman telling you what she would prefer.
 

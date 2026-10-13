@@ -68,7 +68,7 @@ Petra Ilyin came down at nine and stood at the foot of the steps with her hands 
 
 He turned to her.
 
-"Fifty-six days on no roll," Petra Ilyin said, "and yesterday a man read out my address on a wall in front of two hundred people and none of them knew it was the address of the woman on no roll, and I have been standing at the bottom of these steps since the fourth of June looking at this street and this is the first week I have been in it as somebody who is written about."
+"Fifty-six days on no roll," Petra Ilyin said, "and this morning a man read out my address on a wall in front of two hundred people and none of them knew it was the address of the woman on no roll, and I have been standing at the bottom of these steps since the fourth of June looking at this street and this is the first week I have been in it as somebody who is written about."
 
 Agnete Lindqvist was in the Square, in daylight, for the second time in eleven years, standing about twelve feet off the wall with her hands in a cardigan pocket, and she had walked down sixty-one steps that morning in front of people.
 
@@ -102,7 +102,7 @@ It said that the former auditor of record was required to attend, and that her a
 
 It was four lines and a date and an hour and it was the first piece of paper that had come to that address since the sixth of July with a woman's name in it that had not been put there by anybody in the building.
 
-The second of August at ten. Three days from now.
+The second of August at ten. Two days from now.
 
 She had not written it and had not asked for it.
 
@@ -110,7 +110,7 @@ She was not going to be in that room on the second because somebody in a buildin
 
 The term she had given him in the dark on the ninth of July held, and had held for twenty-one days, and was still the most expensive thing he owned.
 
-He stood in the kitchen with the post in his hand and the table bare for the sixteenth day and the saucer in the middle of it.
+He stood in the kitchen with the post in his hand and the table bare for the seventeenth day and the saucer in the middle of it.
 
 Nadia Ferrous came off the night side at half past six that morning, before he had been down, and had left the cloth bag on the kitchen table with eleven pages in it.
 

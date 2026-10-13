@@ -1443,8 +1443,9 @@ week and her signature, and he had been standing on a false reason for fifteen d
 **The price is Ines Duarte going off the paper forever: five in August, no seventh anywhere, nothing to
 contest.** He does not sign the figure. Sun Meiling works it out at the kitchen table in ninety seconds and
 says the sentence the batch is built on: *it is not about me, it has been about her since the seventh of July
-and I have been pleased about it.* **Ends: the week runs to the twenty-ninth and there is nothing he can do
-on the twenty-eighth, and nothing on the twenty-ninth.**
+and I have been pleased about it.* **She asks whether she would be in it and is told she would — in the
+conditional, if he signed — and the conditional is the whole of the offer.** **Ends: the week runs to the
+twenty-ninth and there is nothing he can do on the twenty-eighth, and nothing on the twenty-ninth.**
 
 #### Ch 263 — The First Room That Agreed With Her
 Agnete Lindqvist goes out at night for the second time in eleven years and takes a front seat in the gallery
@@ -1459,10 +1460,10 @@ whole of it: there is no difference between her and Agnete, and that is the diff
 the date against it in her own book — the first date anyone in this city has ever written against anything
 that has happened to Agnete Lindqvist — and says that is a door and not a protection, and that she did it
 without asking and would again.** **Ends: a woman asleep against a warm wall, a date in a clerk's hand on a
-page where nothing else is, a verse, a song with a door number in it, and eleven minutes to the first.**
+page where nothing else is, a verse, a song with a door number in it, and nine days to the first.**
 
 #### Ch 264 — The Mark In The Broker's Hand
-Saturday, four days after the return day, and Solveig Rask is at the table because keepers work every day.
+The twenty-fourth, four days after a Thursday, and Solveig Rask is at the table because keepers work every day.
 **The standing he lodged on the seventh of June was called on the twentieth of July at twenty-five minutes
 past four** — while he was swearing seven in a room at Cobb Street. The mark is a device cut into a
 pen-holder and a device can be cut again by anybody who has held the pen, so Rask cannot name a hand. **What
@@ -1491,10 +1492,13 @@ a bar on the certificate, not a bar to certifying, and it comes off by removing 
 of auditor of record is a household office and a head may change it in writing. **He signs it on the
 twenty-sixth, in his own hand, with the date under it, at a bare kitchen table, and says out loud, because Sun
 Meiling made him, that he is doing it for the row.** Nadia Ferrous puts her own name on the witness line for
-the first time in eleven years. **A change is acknowledged on the first; the first is a valuation morning; a
-month has thirty days and no thirty-first — so Sun's row goes into ink on the first of September, and the
-price is the office that made Ines Duarte certifiable.** **Ends: there is no lawful way to give a woman
-notice of something he has just taken from her.**
+the first time in eleven years. **He had set himself the thirtieth as the day to sign, worked out in front of
+them that the division acknowledges on the first either way and that the four days therefore bought nothing,
+and signed that night instead — four days before his own date — when Sun Meiling told him he had already had
+eleven of those days and she had asked him for every one.** **A change is acknowledged on the first; the first
+is a valuation morning; a month has thirty days and no thirty-first — so Sun's row goes into ink on the first
+of September, and the price is the office that made Ines Duarte certifiable.** **Ends: there is no lawful
+way to give a woman notice of something he has just taken from her.**
 
 #### Ch 267 — Beatrix Reading A Wall Aloud
 Thursday. The crew comes at nine and the figures go up at ten and a wall is read before it is painted.
@@ -1502,10 +1506,10 @@ Thursday. The crew comes at nine and the figures go up at ten and a wall is read
 Beatrix Halm's hearing, and a foreman reads it out loud in a public square** — the first time in four years
 anything about her has been in more hands than her own. She writes it down word for word, wants it left and
 not struck, and then **goes and stands under the ranks wall so that the song is over it**, which is the
-second time in eight days something in this household has been put in front of a room that cannot argue with
+second time in nine days something in this household has been put in front of a room that cannot argue with
 it. At the north end he reads the whole lower half of the wall for the first time and finds four words about
-himself, and a man on the ground tells him what the thirty-first will bring. **Ends: plate 8,138 against a
-floor of 8,141 on the bottom band, WITHIN, and five days.**
+himself, and a man on the ground tells him what the last working day of the quarter will bring. **Ends: plate
+8,138 against a floor of 8,141 on the bottom band, WITHIN, and three days.**
 
 #### Ch 268 — The Book In Her Own Rooms
 Marguerite Vale comes at nine with a leather bag and puts it on the bare table: **her working book, her
@@ -1514,7 +1518,8 @@ July.** She knows what hand made the entry of the twentieth and **will not tell 
 panel, under her own signature, before the end of the month, and she is asking him to promise never to ask
 her again. **He promises.** The choice is the disagreement or the eleven-day gap and Sun Meiling sends the
 bag back onto the fourth floor at nine minutes past nine. **Ends: he has spent a broker's standing in four
-divisions, and there is still no lawful way to tell the woman whose office he signed away on Sunday.**
+divisions, and there is still no lawful way to tell the woman whose office he signed away on the
+twenty-sixth.**
 
 #### Ch 269 — A Cage With A Door On Both Sides
 The instrument dies at midnight of its own week and he writes the refusal out late, in his own hand, with the

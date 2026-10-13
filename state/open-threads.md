@@ -15,9 +15,13 @@
 > failure mode of this batch and it is the inverse of Batch 0001's, which was dates. Derive a rule from the
 > sentence that states it, never from a memory of the sentence that stated it.**
 >
-> **THE WEEKDAY GATE FAILED ON THE FIRST PASS AND WAS FIXED, AND THE PROSE WAS RIGHT.** Eight chapters named
-> Monday, Tuesday, Wednesday, Friday, Saturday or Sunday. Each has been replaced with a date or with the
-> institution's own word. Recorded because a later batch will hit it.
+> **THE WEEKDAY GATE FAILED ON THE FIRST PASS, AND FIXING IT BROKE THE CALENDAR.** Eight chapters named
+> Monday, Tuesday, Wednesday, Friday, Saturday or Sunday. Every one was replaced — and in five places the
+> replacement word was *Thursday*, which put a Thursday on the twenty-third of July, and **the twenty-third is
+> a Sunday.** An independent review found it on a second pass and every affected sentence now carries a date or
+> the institution's own word. **The gate cannot catch this class: "only Thursday is named" passes precisely when
+> the word is misused.** A later batch that hits the gate must check the surviving Thursdays against the
+> calendar, not just count them.
 
 **Ten chapters, one a day from the twenty-first to the thirtieth of July 2026 in the book's calendar. A month
 is thirty days and has no thirty-first, and the thirtieth is the last working day. Day map: 261 the 21st,
@@ -29,6 +33,16 @@ Thursday, **the pass along the ranks wall and Beatrix's guild hold in a public s
 **Marguerite comes back with a bag** · 269 the 29th, **Nadia Ferrous in the lift, the position** · 270 the
 30th, **the quarter, the band list, and a notice with a date on it.**
 
+> **AN INDEPENDENT REVIEW RAN AFTER THIS BATCH AND REPAIRED IT. THE REPAIR IS ON DISK.** Nine defects were
+> returned, four of them reader-visible contradictions — **the band posting dated three different ways, Ch 265
+> breaking its own rule four paragraphs after stating it, "that is tomorrow" in 269 for a Thursday five days
+> away, an instrument called signed in 267 after he refused to sign it in 262, and a July date counted from a
+> Sunday** — plus the weekday collision above. **No plot moved: no event, no decision, no figure a chapter
+> depends on, no scene, and nothing written outside 261–270.** What moved is dates, three counts, one doubled
+> quotation mark, one banned construction, and the four-day wait in 266, which bought nothing under the rule
+> the chapter states and now says so. The full record, including the corrections to *this* file's figures,
+> is `reviews/volume-06/batch-0002.md` §7.
+
 ### Gates run after the last edit
 
 ```
@@ -36,32 +50,40 @@ files            chapters/volume-06/ -> 20 (0251..0270). 270 chapter files total
                  nothing after 0270. Every file in chapters/ is a chapter.
 titles           unique across ALL 270 written titles -> NONE duplicated. Over 90 chars -> 0.
                  Longest new title 41. None begins with "What". Checked by command against every file.
-wc 261-270       3827 / 2379 / 2266 / 2167 / 2087 / 1974 / 2002 / 2575 / 1982 / 2315
-                 NINE INSIDE 1,800-2,700. ONE NAMED EXCEPTION: **261 is 3,827 words.** It is Volume 6's first
+wc 261-270       3833 / 2383 / 2273 / 2173 / 2095 / 2070 / 2000 / 2576 / 1989 / 2316
+                 NINE INSIDE 1,800-2,700. ONE NAMED EXCEPTION: **261 is 3,833 words.** It is Volume 6's first
                  scene and its first explicit scene and it carries the verse, the commission, the household
                  becoming public, the agreement that does not follow her into a room, the decision and the
-                 scene in one day. The precedents are Ch 214 at 3,890 and Ch 228 at 3,788, so this is inside
-                 this book's established scene envelope. NOTHING ELSE LEAVES THE BAND.
-markup           bold 7 | ITALIC 5 | blockquote 0 | table 0 | horizontal rule 0 | code 0.
+                 scene in one day. It is inside the book's longest twelve chapters, which run 5,090 / 5,065 /
+                 5,038 / 4,913 / 4,761 / 4,719 / 4,676 / 4,467 / 4,066 / 4,027 / 4,013 / 3,890. NOTHING ELSE
+                 LEAVES THE BAND.
+markup           bold 7 | ITALIC 9 spans on 9 lines | blockquote 0 | table 0 | horizontal rule 0 | code 0.
                  The first draft carried seventeen bold and every unnecessary one was cut. The italic is the
-                 four-line verse at 261 and *out of band* at 267 and 270.
+                 four-line verse at 261 and the same line of it again at 261:112, *so it cannot be done* at
+                 266:17, *out of band* at 267:89 and *within* at 270:15.
                  **MARKUP IS NOT ZERO AND A LATER BATCH MUST NOT INHERIT ONE.**
 system panels    0,0,0,0,0,0,0,0,0,0. **The batch contains no "[" character at all, so the zero is
                  STRUCTURAL and not a regex artefact.** Nothing is spent and nothing settles. NO PANEL IS DUE.
-paragraphs       over 90 words -> 0. Over 120 words -> 0.
+paragraphs       over 90 words -> 0. Over 120 words -> 0. *(One paragraph at 261 went to 91 words on the
+                 review repair and was broken at a speech beat rather than left over the line.)*
 exact-dup paras  floor 6+ words, batch AND neighbours 241-270 -> 0.
                  floor 4+ words, same scope -> 0. **The 4-word floor caught two exact repeats below the
                  6-word floor — "He looked at her." at 259/270 and "How long," he said. at 261/264 — and
                  both are fixed. This is the Volume 5 close-pass finding recurring and being caught.**
-nobody           3, adjudicated at `reviews/volume-06/batch-0002.md` §3.2. Two are statutory or idiomatic
-                 (an instrument nobody has used at 262; a body in the street at 270) and one is canon
-                 language at 264's opening. **Volume 5 ran 9 and Batch 0001 ran 1. The ration was not spent
-                 for ornament.**
+nobody           **6**, adjudicated at `reviews/volume-06/batch-0002.md` §3.2 and §7.3. Three are statutory,
+                 idiomatic or documentary: an instrument nobody has used at 262:81, rooms with nobody in them
+                 at 261:106, Nobody comes down here but on a return day at 264:5. Two are a woman's first line
+                 and a woman's reckoning — **Nobody has touched it** at 268:7 and **he had taken nobody's
+                 advice** at 270:121 — and one is the line that earns its place, **Nobody is making it happen
+                 to you** at 261:140, where she has been saying *it is a thing that happens to me* and he
+                 names the absence of a maker. **Volume 5 ran 9 and Batch 0001 ran 1.**
 no person        0.  He understood 0.  He also understood 0.
 He had woken wanting  0 of 10 (Volume 5 closed on 4).
 He felt          0 (Volume 5 closed on 9, case-sensitive). It is zero.
-weekday          **Thursday 35 and every other weekday 0**, whole-word and as a substring. Eight chapters
-                 named a weekday on the first pass and all of it is gone.
+weekday          **Thursday 25 and every other weekday 0**, whole-word and as a substring. Eight chapters
+                 named a weekday on the first pass and all of it is gone. **All twenty-five surviving
+                 Thursdays are checked against the calendar and every one is the sixth, the thirteenth, the
+                 twentieth, the twenty-seventh, or the third of August.**
 meta / fourth wall / ages   0. "volume", "chapter", "the reader", "this scene", "novel", narrat, and every
                  age construction, all 0.
 12-GRAM SCAN     RUN FIRST, AGAINST ALL 270 CHAPTERS, BEFORE THE 8-WORD SCAN.
@@ -77,9 +99,13 @@ meta / fourth wall / ages   0. "volume", "chapter", "the reader", "this scene", 
 intra-batch      12-grams occurring in 3+ chapters -> 0. Max multiplicity 2.
 vs neighbours    per chapter, shared with 251-260: 12-gram 0,0,0,0,0,0,0,0,0,1. 10-gram 0,0,0,1,0,1,1,0,0,1.
                  9-gram 1,0,0,1,0,1,1,0,0,1.  8-gram 1,0,0,1,0,1,1,1,0,1.
-8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 251-270 -> 0.
-intra-chapter    duplicated 5-word-plus sentences inside any one chapter -> 0. Editing-damage scan for
-                 doubled words and stray punctuation -> 0.
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 251-270 -> **1, and
+                 it is the verse.** 261 quotes the four lines twice, once as he reads them out of a card and
+                 once as Isolde sings them into a mirror, and the second quotation is the chapter. Adjudicated,
+                 not cut.
+intra-chapter    duplicated 5-word-plus sentences inside any one chapter -> **1.** 262:69 repeats
+                 *it does not need her hand* from 262:67 inside a single speech, which is Marguerite Vale
+                  refusing her own sentence twice because she means it twice. Adjudicated, not cut.
 ```
 
 ### What the gates do not tell you

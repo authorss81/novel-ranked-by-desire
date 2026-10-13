@@ -6,15 +6,17 @@
 `state/current.md`; the live gates are in `state/open-threads.md`; the day map, the arithmetic and the repair
 record are in `reviews/volume-06/batch-0002.md`. Read this block for what is canon and what may not be closed.**
 
-> **READ §1 BEFORE §2.** The failure mode of THIS batch is not a date. **It is an instrument written once
-> correctly and then restated from memory.** Three rules are introduced in ten chapters — a change of auditor
-> of record, the validity of a hearing paper, and the day a division acknowledges a change — and each was
-> paraphrased wrongly at least once later in the batch. All three are fixed on disk. **A later batch
-> introducing an instrument should write its rule once, in full, and never refer back to it by paraphrase.**
+> **The weekday gate failed on the first pass, and fixing it broke the calendar.** Eight chapters named a day
+> of the week other than Thursday. The replacement word was *Thursday* in five places, which put a Thursday on
+> the twenty-third of July, **and the twenty-third is a Sunday**. Every affected sentence now carries a date or
+> the institution's own word. A later batch will hit this: *write the date, not the day* — and then check the
+> surviving Thursdays against the calendar, because the gate passes precisely when the word is misused.
 >
-> **The weekday gate failed on the first pass and the prose was right.** Eight chapters named a day of the
-> week other than Thursday. All of it has been replaced with a date or with the institution's own word. A
-> later batch will hit this: *write the date, not the day.*
+> **READ §1 BEFORE §2.** The other failure mode of THIS batch is not a date. **It is an instrument written
+> once correctly and then restated from memory.** Three rules are introduced in ten chapters — a change of
+> auditor of record, the validity of a hearing paper, and the day a division acknowledges a change — and each
+> was paraphrased wrongly at least once later in the batch. All are fixed. **A later batch introducing an
+> instrument should write its rule once, in full, and never refer back to it by paraphrase.**
 
 ### 1. THE FIXED CALENDAR AND THE RULES THIS BATCH SET
 
@@ -27,7 +29,7 @@ days and has no thirty-first, and the thirtieth is the last working day. Only Th
 | **A head may diminish** | a head may lower his own sworn answer about his own household without an auditor. A week, the broker's signature, and it dies uncarried on the seventh day. **It never needed the auditor and never did.** | 262 |
 | **The price of it** | the empty room is the only one the office accepts off a head. Five in August, no seventh anywhere, no row to dispute, and nothing to find. | 262 |
 | **An impediment** | is a bar on a certificate, not a bar to certifying. It comes off by removing the person it is on. | 266 |
-| **A change of auditor** | takes effect on the day the division acknowledges it; the division acknowledges on the first. **A month ends on the thirtieth and has no thirty-first, so the twenty-sixth goes on the first of August and the first of September goes on the first of September.** | 266 |
+| **A change of auditor** | takes effect on the day the division acknowledges it; the division acknowledges on the first of the month. **So the twenty-sixth and the thirtieth are the same acknowledgment and the four days between them buy nothing.** A month ends on the thirtieth and has no thirty-first, so nothing written in July can be acknowledged after the first of August. | 266 |
 | **A hearing paper** | runs from the month it was answered in to the end of the month after it. Runa's was answered 24 June and went stale at midnight on the thirtieth of July. | 265 |
 | **A valuation** | a mark at ten to nine on the first. **A called standing is answered at a valuation.** | 264, 270 |
 | **The quarterly bands** | go up on the last working day of the quarter, by a different office and a different hand from the Thursday crew, in a shade the square has not had. A wall is read before it is painted. | 267, 270 |
@@ -49,19 +51,24 @@ saucer 15 July** · **the charge 12 July, its own term to 26 July** · **the dis
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 261 | 21 | 28 | 15 | 47 | 37 | 11 | verse in repertory 4 nights (18th–21st); brought in the 18th; answer booked for the 23rd |
 | 262 | 22 | 29 | 16 | 48 | 38 | 10 | **15 days** on the false reason (7th→22nd); **22 + 7 = the 29th**; table bare 8 |
-| 263 | 23 **Thu** | 30 | 17 | 49 | 39 | 9 | **7 in the kitchen, 8 in the building**; answer sung; eleven years indoors |
-| 264 | 24 | 31 | 18 | 50 | 40 | 8 | **419 days** (430 less 11); the call 4 days ago; eight days to the first |
+| 263 | 23 | 30 | 17 | 49 | 39 | 9 | **7 in the kitchen, 8 in the building**; answer sung; eleven years indoors |
+| 264 | 24 | 31 | 18 | 50 | 40 | 8 | **419 days** (430 less 11); the call 4 days ago; **seven** days to the first |
 | 265 | 25 | 32 | 19 | 51 | 41 | 7 | **14 days** carrying the half (11th→25th); hearing **31 days** (24 June→25 July); term tomorrow |
 | 266 | 26 | 33 | 20 | 52 | 42 | 6 | **126 days** on the row (22 March→26 July); table bare **12**; charge's term ends |
-| 267 | 27 **Thu** | 34 | 21 | 53 | 43 | 5 | guild line sent **the 25th**; **five days**; the entry reads *Within* |
+| 267 | 27 **Thu** | 34 | 21 | 53 | 43 | 5 | guild line sent **the 25th**; the band in **three days**; the entry reads *Within* |
 | 268 | 28 | 35 | 22 | 54 | 44 | 4 | bag out of the building **14 days**; **128 days** on the row; table bare **14** |
 | 269 | 29 | 36 | 23 | 55 | 45 | 3 | **4 documents in 13 days** (16th→29th); ten pages 19th–28th, the eleventh blank |
-| 270 | 30 | 37 | 24 | 56 | 46 | 1 | **Petra 56**; the term held **21 days** (9th→30th); table bare **16**; notice for the second |
+| 270 | 30 | 37 | 24 | 56 | 46 | 1 | **Petra 56**; the term held **21 days** (9th→30th); table bare **17**; notice for the second |
 
-**Nine errors of the batch's own first draft were found by hand and fixed. The full table with the exact
-before and after is at `reviews/volume-06/batch-0002.md` §2.** The two that were not arithmetic: **"Thirty
-years indoors" invented for Agnete against her canon eleven**, and **the Bellhouse house at four hundred
-people in 261 and nine hundred in 263.**
+**Only the twenty-seventh is a Thursday in this run. The 21st, 22nd, 23rd, 24th, 25th, 26th, 28th, 29th and
+30th are not, and a first draft of this batch called the twenty-third one.** July's Thursdays are the sixth,
+the thirteenth, the twentieth and the twenty-seventh.
+
+**Nine errors of the batch's own first draft were found by hand and fixed, and an independent review found
+seven more of the same class. The full tables with the exact before and after are at
+`reviews/volume-06/batch-0002.md` §2 and §7.** The two that were not arithmetic: **"Thirty years indoors"
+invented for Agnete against her canon eleven**, and **the Bellhouse house at four hundred people in 261 and
+nine hundred in 263.**
 
 ### 3. THE POSITION AT CHAPTER 270, EVERY FIGURE
 

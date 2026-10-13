@@ -201,3 +201,185 @@ the twenty-first to the thirtieth. **What Batch 0002 delivers instead is everyth
 called standing, the pen, the bundled docket, Petra at the foot of the steps, the floor that went up on the
 thirtieth, the composition hearing that may adjourn it, and the term he agreed in the dark on the ninth of
 July, which is what Ines Duarte's own hand was for. **The mark belongs to Chapter 271.**
+---
+
+## 7. THE REVIEW GATE RAN. THIS IS ITS REPAIR RECORD.
+
+**§1 to §6 above were written by the batch that wrote the chapters, and this section is the correction to
+them.** The workflow's review gate ran on `logs/batch-0002.review.log` and returned findings against
+`ee1c837`. **All of them are fixed on disk and none of the plot moved.** What follows is what was wrong, what
+it is now, and which figures in §4 above were wrong.
+
+### 7.1 WHAT DID NOT MOVE
+
+**No event, no decision, no irreversible act, no figure a chapter depends on, no scene, no title, and nothing
+outside Chapters 261–270.** The four irreversible decisions are the four the batch recorded: 261 buys the seat,
+264 says *do it*, 265 pushes the carbon across the counter, 266 signs the change of auditor with his own name
+and the twenty-sixth under it. **The hundred and thirty-fourth mark is still not in this batch and still
+belongs to Chapter 271. Isolde Marchetti's scene is still the only scene in the batch. The reconciliation is
+still on the third of August and Sun Meiling's row is still in ink on the first of September.**
+
+**The band posting is on the thirtieth.** 270 opens on it at six in the morning and eleven chapters of the
+volume's third movement are built on it. Where 267 disagreed, **267 was wrong and was moved to the thirtieth,
+not the other way round.**
+
+### 7.2 THE FIVE READER-VISIBLE CONTRADICTIONS
+
+| # | Ch | Was | Now | Why |
+| --- | --- | --- | --- | --- |
+| 1 | 267 | *"In five days it is going to say it about one building"* (89), *"it goes up in a week"* (97), *"a floor that goes to 8,142 in five days"* (101) | **three days**, all three | 267 is the twenty-seventh. The band comes down on the thirtieth (270:5). Five days and a week were both wrong and neither matched the third date the same batch printed. **This was the batch's biggest event dated three ways.** |
+| 2 | 265 | *"the hearing goes stale on the thirty-first"* (121) · *"In two days a form on a desk dies"* (131) · *"At midnight tonight a month ends"* (131) · *"good for six more days"* (133) | **the moment the month ends** · **In four days** · **On the night of the thirtieth** · **five more days** | 265 states the rule at line 35 — *a month ends on the thirtieth* — and broke it four paragraphs later. The instrument was entered on the twenty-second and dies on the twenty-ninth (262:81), four days out. The month ends on the thirtieth, five days out. **The repairs in §2 were applied to the definition and not propagated to its consequences. That is the batch's failure mode stated exactly.** |
+| 3 | 269 | *"That is tomorrow," he said. / "That is tomorrow," Nadia Ferrous said.* | **"That is the third," / "That is the third of August,"** | 269 is the twenty-ninth. The reconciliation is the third of August at 264, 268, 270:125 and in the Batch 0003 prompt. Tomorrow is the thirtieth, and nothing lands on the thirtieth. 269:93 also now carries *reads it on the third* so the deadline is on the page twice. |
+| 4 | 267 | *"A **signed** form at the north desk with two days of life left in it"* | **A form at the north desk** | He refuses to sign it at 262:111 and writes a refusal on it on the twenty-ninth at 269:7. A form described as signed three chapters after a refusal is the one a reader can catch fastest in the batch. |
+| 5 | 268 | *"In two days the first of August"* (141) | **In three days** | 268 is the twenty-eighth. The same line at 135 — *"in two days a woman… would have a dated disagreement against her name in four divisions"* — pointed at the thirtieth and has been moved to **five days**, which is the third of August. The review caught the first and not the second. |
+| 6 | 267 | *"**Five days.** A form on a table at Ferrier Street…"* (99) | **"Five."** | The opener counted five deadlines and read as five days to the band, three lines after the chapter had said five days was wrong. **The five items are still five items** — the form, the hearing paper, the north-desk form, the reconciliation, the plate against the floor — and only the noun went. |
+
+### 7.3 THE THURSDAY COLLISION, AND THE GATE THAT COULD NOT SEE IT
+
+**July 1 is a Saturday, so July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh.
+The twenty-third is a Sunday.** The batch's own de-meta repair (§2, "three calendar repairs that would have read
+as defects") replaced six real weekday names with **Thursday**, and in five places it replaced them on a day that
+was not one.
+
+| Ch | Was | Now |
+| --- | --- | --- |
+| 261:70 | *"I am pulling it **on Thursday**"* | **"I am pulling it in two days"** — the twenty-third, and the chapter's own idiom at :214 |
+| 261:74 | *"I will go up that stair **on Thursday**"* | **"that night"** |
+| 261:84 | *"I am not saying that kindly. **Thursday.**"* | **"Two days."** |
+| 261:152 | *"nowhere to be at ten to ten **on a Thursday**"* | **"on the twenty-third"** |
+| 261:194 | *"**So on Thursday** I sing in front of nine hundred people"* | **"So on the twenty-third"** |
+| 261:200 | *"somewhere else in this city **on Thursday evening**"* | **"on the night of the twenty-third"** |
+| 263:23 | *"nothing else in that building **on a Thursday evening**"* | **"that evening"** |
+
+**The date did not move. Isolde still sings on the twenty-third, the answer still goes into the card on the
+twenty-second, and Agnete still sleeps on the landing.** What moved is the word. `outline/volume-06.md` §5 and
+the Batch 0003 prompt both carry this as a rule now: **the weekday gate passes precisely when the word is
+misused, so the surviving Thursdays have to be checked against the calendar, not merely counted.** All
+twenty-five surviving Thursdays were checked; every one is the sixth, the thirteenth, the twentieth, the
+twenty-seventh, or the third of August.
+
+### 7.4 THE COUNTS THE REVIEW DID NOT RETURN, AND ONE THAT WAS NOT A COUNT
+
+Found by re-deriving every figure in the batch from its own dateline, after the five above were fixed:
+
+| Ch | Was | Now | Why |
+| --- | --- | --- | --- |
+| 263 | *"**eleven minutes** to the first of August"* | **nine days** | 263 is the twenty-third at two in the morning. Nine is the distance. The eleven belonged to a different number in the same paragraph. |
+| 264 | *"**Eight days** to the first of August"* · *"a mark on the wall… that would go up **on Thursday**"* | **Seven days** · **on the last working day of the month** | 24 + 7 = the first. A month is thirty days and has no thirty-first, so there is no eighth day. And the band does not go up on a Thursday. |
+| 266 | Wren: *"You have had **six days** to think about it"* | **eleven days** | Sun had said eleven at 266:37 and the two are about the same discovery, made on the fifteenth. Eleven days to the twenty-sixth is the only figure that reconciles them. |
+| 267 | *"the second time in **eight days**"* | **nine days** | The verse was bought on the eighteenth. This is the twenty-seventh. |
+| 268 | *"Nobody in the room had been…"* | **No one in the room had been…** | Factual use, and it drops the batch's ration by one. See §7.5. |
+| 270 | Petra: *"**yesterday** a man read out my address"* | **this morning** | The band came down at six on the thirtieth and she is speaking at nine the same morning. |
+| 270 | *"The second of August at ten. **Three days** from now."* | **Two days** | From the thirtieth, with no thirty-first: the first is one, the second is two. |
+| 270 | *"the table bare for the **sixteenth** day"* | **the seventeenth day** | Bare from the fourteenth inclusive: the fourteenth is the first day and the thirtieth is the seventeenth. **268:133 already had it right at fifteen on the twenty-eighth, and the batch had been drifting by one since.** |
+
+### 7.5 THE RESTATEMENT DEFECT THE REVIEWER NAMED AS A SOFT ITEM
+
+**266's four-day wait bought nothing.** The chapter states the rule at line 33 — *a change takes effect on the
+day the division acknowledges it, and the division acknowledges on the first of the month* — and then at 67
+uses it to make a four-day wait look like an administrative fact. **Under the rule the chapter states, the
+twenty-sixth and the thirtieth are acknowledged on the same first, so the four days are worth nothing, and the
+batch's central irreversible decision was resting on a distinction that does not exist.** This was not a count
+that could be adjusted. It was the beat.
+
+**The repair keeps the decision, keeps the date, and turns the false distinction into the scene.** He still
+sets himself the thirtieth as the day to sign, and this time he says out loud that the four days are not in
+the rule — *the four days are me sitting on a stair*. **Sun Meiling refuses them**, because she has been asking
+since the fifteenth and eleven of those days have already gone, and **Nadia Ferrous signs the witness line, and
+he takes the pen out of her hand and signs that night, four days before his own date**, which is why 266:93 now
+says so. **The batch's best pattern is a woman refusing something he could have bought, and this repair put a
+fifth one in it.** The signature stays on the twenty-sixth, so 267:99, 268:139, the outline and every state
+file are untouched.
+
+### 7.6 THE REMAINING SOFT ITEMS, ADJUDICATED
+
+- **262:139 and 269:61.** Sun asking *and I would be in it* against *Sun wants to be on the roll and cannot get
+  there*. **Fixed with three words:** 262 now reads *"If I signed it, you would be in it."* The offer was always
+  a conditional and is now one on the page, and 269's line — the twenty-ninth, three weeks before the first of
+  September — is a statement about what has *not* happened yet. No contradiction remains.
+- **267:17 "Beatrice Halm."** **Kept, and now a decision rather than a slip.** The guild's documents and the
+  foreman reading a guild line aloud spell it *Beatrice*; the woman spells it *Beatrix* and is so named in
+  258, 259 and in Nadia's own list at 269:61. The chapter turns on a line read aloud by a man who does not know
+  her from the fruit. **A later batch must not normalise it in either direction.**
+- **262:69's repeated sentence.** *"It does not need her hand"* appears at 67 and again inside 69 in a single
+  speech. **Adjudicated, not cut** — she is refusing her own sentence twice because she means it twice, which
+  is what the chapter's closest reading turns on.
+- **261's four-line verse quoted twice**, at 25 and at 112. **Adjudicated, not cut** — the second is Isolde
+  singing the exact line he has just read off a card, and it is the chapter.
+
+### 7.7 TYPOGRAPHY AND ONE BANNED CONSTRUCTION
+
+- **267:87** opened with `""You do not want to hear it from me`. **One quotation mark removed.** It was the only
+  doubled opening quote in the batch; the book has one other, in Volume 5 at 224, which is not this repair's.
+- **263:61** read *"**Nobody** asks a woman about a thing she is doing"* — the exact construction `AGENTS.md`
+  names and bans. **Rewritten to *"not one of them has ever put the question to the woman about the thing she is
+  doing"*, and it is Agnete's line, so it keeps her edge.** The review did not return this one; it surfaced
+  when the `nobody` count was re-derived.
+
+### 7.8 §4's FIGURES WERE NOT ALL REPRODUCIBLE
+
+The review found three rows of the gate block above that did not survive re-running the stated command, and two
+more that the reviewer's own count then got wrong. **Corrected everywhere they appear — here, in
+`state/open-threads.md`, and in the Batch 0003 prompt:**
+
+| §4 said | Actual | Note |
+| --- | --- | --- |
+| *nobody 3* | **8 before the repair, 6 after** | The five omitted were 261 ×2, 263 ×1, 268 ×2. **263:61 is the banned construction and is gone; 268:9 became *No one*.** All six survivors are adjudicated: three statutory or idiomatic, two a woman's own reckoning, and one — **"Nobody is making it happen to you" at 261:140** — that earns its place, because she has been saying *it is a thing that happens to me* and he names the absence of a maker. Volume 5 ran 9. |
+| *five italic* | **9 spans** | The description was wrong as well as the figure: *out of band* appears once, at 267:89, and not at 270. The nine are the verse at 261 (five, including its quotation at :112), *so it cannot be done* at 266:17, *out of band* at 267:89 and *within* at 270:15. The reviewer's "7 lines" is an artefact of a `{1,60}` cap on the line regex. |
+| *Thursday 35* | **34 before the repair, 25 after** | §4 also mis-described the first pass as replacing *names of days other than Thursday*; six of the eight were replaced **with the word Thursday**, which is the whole of §7.3. |
+| *261 is 3,827 words, precedents 214 at 3,890 and 228 at 3,788* | **3,833 now**, and the precedent is thinner than stated | 3,827 is not among the book's longest chapters. Eleven exceed it and the largest is 5,090. It remains inside the envelope and remains Volume 6's first scene, which is the reason it is long. |
+| *duplicated 8-word sentence openings inside 251–270 → 0* · *intra-chapter duplicated sentences → 0* | **1 and 1** | Both adjudicated at §7.6. §4 reported zero for gates that return one. |
+
+**A gate that returns zero is a claim to be tested and not a result to be reported. §4 reported five zeros that
+were not zero.**
+
+### 7.9 GATES RE-RUN AFTER THE REPAIR
+
+Every command below was re-run against the files on disk after the last edit.
+
+```
+files            chapters/volume-06/ -> 20 (0251..0270). 270 chapter files total. Nothing before 0261,
+                 nothing after 0270, and no file in chapters/ that is not a chapter.
+titles           unique across ALL 270 -> NONE duplicated. Over 90 chars -> 0. None of the ten begins
+                 with "What". Unchanged by the repair; no title was touched.
+wc 261-270       3833 / 2383 / 2273 / 2173 / 2095 / 2070 / 2000 / 2576 / 1989 / 2316
+                 NINE INSIDE 1,800-2,700. ONE NAMED EXCEPTION: 261 at 3,833, Volume 6's first scene.
+                 Nothing else leaves the band. No chapter moved more than 14 words.
+markup           bold 7 | italic 9 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.
+system panels    0 in all ten. The batch still contains no "[" character at all, so the zero is STRUCTURAL.
+paragraphs       over 90 words -> 0. Over 120 words -> 0. **261:70 went to 91 on the repair and was broken
+                 at a speech beat rather than left over the line.**
+exact-dup paras  6-word floor, batch AND neighbours 241-270 -> 0. 4-word floor, same scope -> 0.
+nobody           6, adjudicated at §7.8.  no person 0.  He understood 0.  He also understood 0.
+He had woken wanting  0 of 10.  He felt  0.
+weekday          **Thursday 25 and every other weekday 0**, whole-word and as a substring.
+                 **All twenty-five checked against the calendar: sixth, thirteenth, twentieth, twenty-seventh,
+                 third of August, or the trade's own Thursday pass. See §7.3.**
+meta / ages      0. "volume", "chapter", "the reader", "this scene", "novel", narrat, every age
+                 construction -> 0.
+12-GRAM SCAN     RUN FIRST, AGAINST ALL 270 CHAPTERS, BEFORE THE 8-WORD SENTENCE SCAN.
+                 0 / 0 / 0 / 0 / 0 / 5 / 0 / 0 / 0 / 8  =  **13 TOTAL**, unchanged. The repair introduced no
+                 new shared phrasing: two groups, 266 with {246,247} and 270 with {253}, both adjudicated in
+                 §3.1 and both still deliberate.
+intra-batch      12-grams in 3+ chapters -> 0. Max multiplicity 2.
+intra-chapter    duplicated 5-word-plus sentences -> 1 (262, adjudicated at §7.6).
+8-word openings  duplicated 8-word sentence openings in 251-270 -> 1 (261, the verse, adjudicated).
+```
+
+### 7.10 WHAT THE REVIEWER CONFIRMED, AND WHAT IT MISSED
+
+**Confirmed by command and unchanged:** the 12-gram figure reproduces exactly at 13 and is confined to the two
+adjudicated groups; no duplicated paragraphs at either floor; no paragraph over 90 or 120 words; titles unique
+across all 270 with none over ninety characters and none in this batch beginning with *What*; zero system
+panels and structurally so; blockquote, table, rule and code all zero; bold 7; meta and age constructions zero;
+nothing outside 261–270 touched; exactly one next-phase directory. **The Batch 0003 scene debt is correctly
+placed** — 271 opens inside the cage, giving a gap of 10 from 261, inside the 8–15 band.
+
+**Added by the repair, which the review did not return:** seven counts in §7.4, the banned *Nobody* construction
+at 263:61, the definition-not-propagated defect at 265 (which the review found, and which had a seventh instance
+in the same chapter that §2's own table claimed to have fixed), the *No one* change at 268:9, and the
+corrected `nobody` and italic figures in §7.8.
+
+**The batch's failure mode, now stated once and inherited by Batch 0003: a figure derived in one place and
+carried to another, and a rule stated once and then restated from memory.** Both are invisible to every gate in
+§4. Neither is invisible to a reader.

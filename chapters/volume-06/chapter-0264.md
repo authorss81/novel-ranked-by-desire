@@ -118,6 +118,6 @@ There is no second time. That is what a thing costs when you buy it with somebod
 
 He walked past the Exchange and went down to the market stair with a crate and put it square at the foot of it, and Tessa Okonkwo took it from him and did not say thank you, because that is how she says it, and two hundred and three people went through the hatch in the two hours that followed.
 
-Eight days to the first of August. A mark on the wall in a square that would go up on Thursday. A verse with a door number in nine hundred mouths. A form on a desk upstairs that died on the twenty-ninth whatever anybody did with it.
+Seven days to the first of August. A mark on a wall in a square that would go up on the last working day of the month. A verse with a door number in nine hundred mouths. A form on a desk upstairs that died on the twenty-ninth whatever anybody did with it.
 
 And a page in a book two floors under a sales floor, with a date on it, that was going to have his own hand's mark against it and his own mouth's words about who did it.

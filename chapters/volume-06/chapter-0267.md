@@ -66,7 +66,7 @@ Beatrix Halm looked at her for about a minute and then went and stood under the 
 
 She stood in the middle of the crowd with her eyes shut and her good ear turned up at the tiles and let four thousand people agree with a woman about a thing that was not true, on purpose, so that the thing that was true would stop being the loudest thing in that square for the length of a song.
 
-That was the second time in eight days that a thing in this household had been put in front of a room that could not argue with it, and the first time it had been done to him by a man in a good coat who would not give a name, and the second time had been done by a woman with a shut notebook because she could hear her own name and she wanted the tune over it.
+That was the second time in nine days that a thing in this household had been put in front of a room that could not argue with it, and the first time it had been done to him by a man in a good coat who would not give a name, and the second time had been done by a woman with a shut notebook because she could hear her own name and she wanted the tune over it.
 
 He waited for her and then went round the Square and came at the wall from the other end and read the whole lower half of it, which takes about four minutes.
 
@@ -84,9 +84,9 @@ The man on the ground with the ladders came past him about halfway along and sto
 
 "What figure went wrong."
 
-""You do not want to hear it from me and I do not want to have said it." He got the barrow moving.
+"You do not want to hear it from me and I do not want to have said it." He got the barrow moving.
 
-"I will tell you the half of it that is free. That wall has never once said *out of band* about anybody. It has said within since the wall was painted. In five days it is going to say it about one building, in a shade this square has not had before, and every one of us on this crew will be asked what it means by somebody with a right to ask. I am telling you now that none of us knows."
+"I will tell you the half of it that is free. That wall has never once said *out of band* about anybody. It has said within since the wall was painted. In three days it is going to say it about one building, in a shade this square has not had before, and every one of us on this crew will be asked what it means by somebody with a right to ask. I am telling you now that none of us knows."
 
 Near the end, on the bottom band, in the shade the first of the month had laid down, was the address.
 
@@ -94,8 +94,8 @@ Near the end, on the bottom band, in the shade the first of the month had laid d
 
 It was the third line of that entry that he could not get past. Within. A household with four turned lines and a plate three grains under the floor of its band, sitting on a wall in a public square on the line that says it is where it is supposed to be.
 
-The quarterly bands go up on the last working day of the quarter. That is not a Thursday's business and that is not the crew's business; it is a different office and a different hand and a different shade, and it goes up in a week.
+The quarterly bands go up on the last working day of the quarter. That is not a Thursday's business and that is not the crew's business; it is a different office and a different hand and a different shade, and it goes up in three days.
 
-Five days. A form on a table at Ferrier Street signed the night before with his name at the foot of it. A hearing paper at Cordwain good until the last day of the month and refused by the woman it belongs to. A signed form at the north desk with two days of life left in it that will be dead on the twenty-ninth whoever does what. A reconciliation on the Thursday after this one that will put a broker's mark on a dated page.
+Five. A form on a table at Ferrier Street signed the night before with his name at the foot of it. A hearing paper at Cordwain good until the last day of the month and refused by the woman it belongs to. A form at the north desk with two days of life left in it that will be dead on the twenty-ninth whoever does what. A reconciliation on the Thursday after this one that will put a broker's mark on a dated page.
 
-And a plate at 8,138 against a floor that goes to 8,142 in five days, written on a wall in a shade that has never been there before, where four hundred people can read it and a woman with one ear can hear it read out.
+And a plate at 8,138 against a floor that goes to 8,142 in three days, written on a wall in a shade that has never been there before, where four hundred people can read it and a woman with one ear can hear it read out.

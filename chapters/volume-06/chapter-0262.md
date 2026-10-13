@@ -136,7 +136,7 @@ She came down one step.
 
 "And I would be in it."
 
-"Yes. You would be in it. You would be in it the whole of August, and every month after, and there would be no figure in this city for me to be wrong about."
+"Yes. If I signed it, you would be in it. You would be in it the whole of August, and every month after, and there would be no figure in this city for me to be wrong about."
 
 Sun Meiling stood on the step and thought about it, and the arithmetic of another woman went across her face the way it goes across a face when it is being done properly and not quickly.
 
