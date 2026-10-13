@@ -1,3 +1,208 @@
+# VOLUME 10 BATCH 0004 — CHAPTERS 481–490 ARE ON DISK, TEN FINISHED FILES, WRITTEN 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-10/batch-0005/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 491–500.**
+
+> **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-10/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**
+
+## WHAT THIS BATCH DID, IN TEN LINES
+
+1. **481, THE TWENTY-EIGHTH OF AUGUST — THE QUARTERLY IS PREPARED BY WOMEN WHO MAY NOT SIT IN IT.** Hanneke Ruis drafting a quarterly with a fifth item on it that has no form under it, Solveig Rask carrying the chained real book up at half past eight, a keeper is not a member's chair, Alma Quayle in the chair that counts for nothing, **two fingers flat on the oak of the door frame at about twenty to twelve, which is the whole of the conversation and the second time in five months.** **He has had the eleven words for forty-nine days and did not lift the recusal, and the not lifting is the cheapest and most permanent act of the volume.**
+2. **482, THE SIXTH OF SEPTEMBER — WHAT THE ROOM'S ONLY INSTRUMENT IS.** A claim and an answer and four lines on a shelf and neither of the two documents has one word of the fourteenth of August in it, because there is no box in this city for the decision of nine people who are not sitting in a room with the power to hold it. **A custody was drafted in the first week of July by a clerk told to draft one: a quiet room, a held account and a form.** It requires a holder. The one person who could hold it has said yes to an undertaking and will not take it, and **thirteen weeks of preparation have produced a document nobody has to accept.** The household's sheet is read out in a corridor and cannot be a finding, and is the thinnest thing in the city.
+3. **483 — THE SCENE. TESSA OKONWO. THE TWELFTH OF SEPTEMBER, IN A WARD AT NIGHT WITH A DOOR THAT CLOSES.** She asks him once to lie down and he says yes, and she says the two things are separate in the first four minutes: she wants him, and nine minutes later she is going to take about a thirtieth of what is sitting in his chest, and that the fraction is medicine and not affection and not comfort. **The axis is the quiet, carried by a clinic's rule and named by nobody: the only room in this book where a body may be put down is a room where somebody is being treated.** **THE SETUP IS UNDER A THIRD OF THE CHAPTER.** She has room for four months at a thirtieth, she has been managing since April by taking less off people than they need, and she has kept the plan from the other eight and told him to keep it.
+4. **484, THE TWENTY-FOURTH — WHAT A PAGE CAN BE MADE TO SAY ON A PAGE IT HAS ALREADY WRITTEN.** An amendment is one line under the finding, on the same page, in the same session, without appeal, and the next sitting that can carry anything is the first of January. **It cannot remove *a file*. It removes a file by naming it, and the name is on the Board's index at a public desk.** Adeyemi gives the order — the thing is opened, the standing is spent, the name is read — and says Alma Quayle is the only person in that room who will watch the order and not be able to say a word. **The brother's name is not in this chapter and is not on the page anywhere in 451–485.**
+5. **485, THE THIRTIETH — THE CARD. 8,148, DERIVED IN THE CHAPTER FROM THE RULE AND FROM THE PAINT.** The boy with the paste brush, half past four, told nothing, asked nothing in five cards. **8,148 across the head of it and 8,132 in the column underneath against premises 34-6-118, sixteen under, and nobody reads it aloud.** Hanneke Ruis filled the seventh block out of her own head and **wrote eight**, because eight people sleep under that roof and the certificate has not existed since the fourteenth of March, and it is the first figure in that column in four years that has been correct and nothing whatever stands behind it.
+6. **486, THE FIRST OF OCTOBER — THE ACCOUNT OPENED IN THE SQUARE. THE VOLUME'S CLIMAX.** Ferreira's argument in full, and she is right, and he knows she is right. The instrument is constituted out of the room and not by her: a quiet room, a held account and a form. **He refuses it because a quiet room and a form is a decision somebody makes on behalf of a million people.** **He cannot empty the account and he says so, out loud, to four hundred people, because `PC-102` stops him and three women in a kitchen took the cold themselves on purpose.** Eight women put their hands on the stone under the card. Agnete Lindqvist stands nine feet off it with four hundred of her own behind her and does not touch it, and is the only person in the square who is on the right side and does not put a hand on it. **THE COST, EXACT AND PRINTED ONCE: roughly one million four hundred thousand grains out. Rank nine to rank one, lodged at a public counter at ten minutes to four in his own hand in a queue with a pen. Every permission he has ever bought gone in the same hour. And at ten past four, on the same page, in the same session, an amendment removes the file permanently, his brother's name read once and entered once by a clerk who may only enter, and Ferreira signs it herself and says she has not withdrawn one word of her case.**
+7. **487, THE SECOND — A CITY LEARNS TO STAND STILL.** People who were told to and people who worked it out for themselves, indistinguishable from forty feet. A cold minute can now be waited for, which is the one thing it never could be, and the card of the thirtieth did not move and will not move on the first of January. Two hundred people standing still in a lane in Cordwain at four in the afternoon for a reason nobody can put on anything. **And by a quarter past nine at night a man has put himself at the front of that lane with a stool and is taking a grain a head, and seventy-one have paid and walked away, and not one instrument in this city can touch him.**
+8. **488, THE THIRD — DAGMAR OYELOWO, A DESK TWENTY YEARS IN SERVICE, AND NOT A SCENE.** Two people and nobody else. She does not stand up. **She gives him the same sentence she gave in the summer and it is still true, and neither of them pretends it is an event.** He asks for the figure and she refuses, and he does not ask a second time and says out loud, in a public hall, that he has made that arrangement himself. She has no gift of any kind and is not given one. **She will be at that desk on the sixth, and there will be nobody in front of it, and she will be there anyway, and then it will be a counter again.**
+9. **489, THE FOURTH — THE FIRST PERSON WHO ASKS.** A man of about fifty in a queue at a counter says he carried a woman down four floors in a February and got no name, and Ines Duarte says *no* and does not soften it, and he comes back four feet into the lane and asks whether it is because he cannot say her name, and she says because nothing will take it. **The Board's line under the last one goes out at four with a disposition and a holder of none, and Ferreira wrote a line of her own into a sheet that goes to seven desks.** The Church does not fold and says so. **And five stools have become five stools and a slate, and the slate has a figure of merit chalked on it in four-inch letters with nothing whatever behind it, and no instrument in this city can touch a person for writing a figure on a slate.**
+10. **490, THE FIFTH — THE MORNING IT WAS EMPTY, AND IT IS HE WHO IS EMPTY, NOT THE ACCOUNT, AND THE BOOK NEVER SAYS OTHERWISE.** Nine women in nine places and not one in the kitchen, and three of them have begun sleeping elsewhere this week and have not said why. Hanneke Ruis on the eighth block, which will be written on the thirtieth of December out of her own memory with nothing behind it. **Nobody can tell him whether anything has stopped and nobody is going to.** And the books that would take it did not move on the morning of the sixteenth of November, forty-one days off, and they open once in the year.
+
+## THE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES        chapters/ = 490 files, numbered 1..490 with no gap (script-checked, gaps 0).
+             chapters/volume-10/ = 40, numbered 451..490. Every file carries exactly one `# ` title line,
+             one trailing newline and no run of three blank lines. **ALL TEN FILES OF THIS BATCH WERE
+             RE-READ AFTER THE LAST EDIT AND ALL TEN CARRY 0x0a.**
+TITLES       490 title lines, 490 distinct, `sort | uniq -d` EMPTY.
+             **The ten of this batch match the bank at `workspace/volume-10/batch-0004/PROMPT.md` §7
+             BY STRING AND BY CHARACTER COUNT, TEN OF TEN, ZERO MISMATCHES, the counts re-derived by
+             command from the strings and not from the file:**
+               481 (24) · 482 (31) · 483 (30) · 484 (30) · 485 (8) · 486 (32) · 487 (14) · 488 (30) ·
+               489 (14) · 490 (24)
+             **Word counts by command: (5, 6, 6, 6, 2, 6, 3, 6, 3, 5).**
+             **THE BANK'S OWN FLOOR IS THREE WORDS AND `The Card` IS TWO, AND IT WAS PRINTED EXACTLY
+             AS THE CONTROLLER'S BANK GIVES IT, WHICH IS WHAT THE PROMPT INSTRUCTS. THE DEVIATION IS
+             RECORDED HERE RATHER THAN SILENTLY FIXED, BECAUSE CHANGING A PRINTED TITLE MEANS RE-RUNNING
+             THE BANK IN THE SAME COMMIT AND THE CONTROLLER SAID PRINT EXACTLY.**
+             None begins with *What*. None is built out of *there is no* / *nobody* / *nothing*.
+BANK         **25,239 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+             481 1,935 · 482 2,285 · **483 4,581** · 484 2,340 · **485 1,604** · **486 5,187** ·
+             487 1,848 · 488 1,745 · 489 1,958 · 490 1,756.
+             **VOLUME 10 RE-RUN BY COMMAND AFTER THE LAST EDIT: 101,322 WORDS ACROSS FORTY FILES**,
+             being 24,719 (Batch 0001) + 24,498 (Batch 0002) + 26,866 (Batch 0003, after its repair)
+             + 25,239 (this batch).
+             **483 AND 486 LEAVE THE 1,800–2,700 BAND AND BOTH SAY WHY: 483 is Volume 10's fourth scene,
+             it is the chapter the movement turns on, it is nine chapters after 474, and it is written
+             out. 486 is the volume's climax and it may be as long as it needs to be.**
+             485 (1,604), 487 (1,848), 488 (1,745) and 490 (1,756) are SHORT AND ARE MEANT TO BE: a
+             painted card read in silence, a day in the city, two people at a counter, and the morning
+             after. **THE BATCH MEAN IS 2,524 AGAINST VOLUME 9'S 2,026 AND BATCH 0003'S 2,687.**
+META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume |
+             no chapter | the axis | the reader | the novel | the story | the scene`. Swept across all
+             ten files and read hit by hit. **ZERO HITS IN TEN FILES**, and this is the first Volume 10
+             batch whose sweep returns nothing at all, including `this book`.
+             One hit was WRITTEN AND REPAIRED: *the last piece of furniture left in this book* at 490,
+             which is not a physical book, re-set as *the last piece of furniture in this*.
+WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all
+             seven, whole-word AND substring, across all ten files, all zero.
+             **THIRTY-EIGHT DAY-NAME TOKENS WERE WRITTEN INTO THE PROSE AND EVERY ONE WAS REPLACED WITH
+             A DATE OR AN HOURS-OF-THE-DAY CONSTRUCTION.** Almost all of them were *Friday*, standing for
+             the first of October, and they became the first of October, the first, or in October.
+             The others were Tuesday (twice), Wednesday (twice), Thursday (twice), Monday (four), Saturday
+             (twice) and Sunday (once), and they became the twenty-eighth, the seventh, the eighth, the
+             twenty-second, an ordinary weekend, the end of the month and a *week of waiting for it*.
+             `outline/ending.md`:171 prints one and was not copied.
+AGES         **0 announced ages, probed in FIVE forms plus a bare `aged` sweep, all zero.** Digit:
+             `-year-old` / `aged N` / `N years old` — 0. Spelled with a numeral — 0. Spelled without a
+             numeral `he/she (twenty|…|sixty) years` — 0. `a/an (boy|girl|man|woman|warden|clerk) of
+             (nineteen|…|ninety)` — 0. `in her/his (teens|twenties|…|sixties)` — 0.
+             **THREE WERE WRITTEN AND ALL THREE WERE REPAIRED**: *I have been sixty-three years old*
+             at 482, out of Ferreira's mouth, re-set as *I have been in a chair long enough to know*;
+             *one of them was forty-one and one of them was nineteen* at 483, re-set as one in service
+             and one with a child on her arm; and a stray *aged* was removed from 485's opening.
+             **A SPAN OF YEARS IS PERMITTED AND AN AGE IS NOT.** There are spans on the page — eleven
+             years, nine years, twenty years, four months, four days, thirty years — and not one age.
+ARITHMETIC   Every printed interval derived and printed with its own operands, and **NO MONTH TERM IN
+             ANY OF THESE TEN PRINTS THIRTY-ONE. NO REAL-CALENDAR DERIVATION. `chapter-0421.md:13` IS
+             THE AUTHORITY.** `130 + 30 + [day number]` after the thirtieth of June, because 481 and
+             every chapter after it crosses a month boundary.
+               481  188 = one hundred and sixty at the end of July, and one hundred and sixty with
+                    twenty-eight is one hundred and eighty-eight
+               482  196 = one hundred and ninety at the end of August, and one hundred and ninety with
+                    six is one hundred and ninety-six
+               484  214 = one hundred and ninety at the end of August, and one hundred and ninety with
+                    twenty-four is two hundred and fourteen
+               485  220 = one hundred and ninety at the end of August, and one hundred and ninety with
+                    thirty is two hundred and twenty
+               486  221 = one hundred and ninety at the end of August, thirty of September, and the
+                    first. **130 + 90 + 1. `PC-106`'s figure, printed where the ending needs it.**
+             **483, 487, 488, 489 AND 490 PRINT NO REQUISITION FIGURE AT ALL**, and that is a decision
+             and not an oversight: he broke his own rule about saying them on the twenty-sixth of
+             August and the figure appears only where it is doing work.
+             **OTHER INTERVALS PRINTED WITH OPERANDS:** 481 forty-nine days, being twenty-one days left
+             in July after the ninth and twenty-eight of August · 482 ninety-one days, being thirty of
+             July, thirty of August, thirty of September and one, and a week is seven, so thirteen weeks ·
+             489 the fourth of October, the second night, three days · 490 forty-one days to the
+             sixteenth of November, being twenty-five days left in October and sixteen days of November.
+FLOORS       **8,148 IS PRINTED ONCE IN THE WHOLE VOLUME AND IT IS AT 485:25, IN ONE SENTENCE WITH
+             8,132, AGAINST premises 34-6-118.** `grep -o '8,1[0-9][0-9]'` over the ten files returns
+             exactly two and both are on that line. **8,147 AND 8,131 ARE NOT PRINTED IN 481–490.**
+             8,147 and 8,131 were printed at 450 and 485 is the only chapter in the volume that may
+             print a floor, and the last card in the volume is the thirtieth of September.
+ACCOUNT      **NO RUNNING BALANCE OF THE ACCOUNT IN GRAINS APPEARS IN ANY OF 481–485 AND NO LEDGER
+             TOTAL APPEARS ANYWHERE.** `1.4 million` is 0. **486 PRINTS THE FIGURE ONCE AND ONLY
+             ONCE, AS THE COST, AND IT IS AFTER THE RETURN HAS BEEN OPENED: *Roughly one million four
+             hundred thousand grains went out of it.*** **490 PRINTS NO FIGURE AT ALL AND SAYS SO: what
+             is empty at the wall on the fifth of October is him, and the chapter does not say the
+             account is anything.**
+PARAGRAPHS   **700 prose paragraphs across the ten, re-run by command after the last edit. 0 over roughly 90 words.
+             0 over roughly 120. Longest 90. QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech
+             runs across a break. **FIFTY-TWO PARAGRAPHS WERE OVER NINETY ON THE FIRST SWEEP AND SIX
+             WERE OVER ONE HUNDRED, THE LONGEST AT 153, AND EVERY ONE WAS SPLIT BY HAND AT A NAMED
+             SENTENCE BOUNDARY. EVERY SPLIT THAT FELL INSIDE A SPEECH CLOSED AND REOPENED THE
+             QUOTATION, WHICH IS WHY THE PARITY ROW IS 0 ODD AND NOT 1.** **NO AUTOMATIC SPLITTER WAS
+             RUN OVER PROSE.**
+MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold spans 0** ·
+             **italic pairs 11**, every one read by hand and every one a quoted record, a term under
+             stress or a code word. **A BOLD SPAN ON THE TWO CARD FIGURES WAS WRITTEN AT 485:25 AND
+             REMOVED**, because `chapter-0400.md` prints the same two figures in plain narration and
+             the numbers carry it without markup.
+             **SYSTEM PANELS: ZERO IN TEN CHAPTERS.** Volume 10's panels stand at two in forty
+             chapters, at 459 and at 465, and this batch adds none.
+DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten, on the normalised
+             token method WITH A PARAGRAPH-BREAK SENTINEL, then 11 and 8.
+             **12-gram: 52 shared families · 11-gram: 89 · 8-gram: 684.**
+             **THE FIRST PASS RETURNED 539 TWELVE-GRAM FAMILIES AND THE DIFFERENCE IS THE MOST
+             IMPORTANT THING IN THIS BLOCK: 483 HAD BORROWED TESSA OKONKWO'S CHAPTER 380 STAGING —
+             THE CHART FROM THE LAB, THE ARMS TURNED UP, THE SHIRT ON THE TROLLEY, THE BACK AGAINST
+             THE WALL, THE THUMB, THE COUNTING OUT LOUD, THE SHUTTER RAIL FROM BEHIND, THE NECK, THE
+             FIGURE OF EIGHT, THE SENTENCE ABOUT MEN WHO THINK THEY OWE SOMEBODY, THE HAND FLAT ON HIS
+             CHEST OVER THE PLACE. A TWELVE-GRAM SCAN CANNOT SEE A BORROWED BODY AND A BORROWED BODY IS
+             A CANON ERROR, SO THE WHOLE SCENE BODY OF 483 WAS REWRITTEN AGAINST A WARD AT NIGHT —
+             A SCREEN ON WHEELS, A BLANKET OFF THE FOOT OF THE BED, A WATCH ON A CHAIN, FOUR PATIENTS
+             ASLEEP, A KNEE ON THE TROLLEY BECAUSE HER BACK — AND 483 NOW PROBES CLEAN AT ZERO TWELVE-GRAM FAMILIES. **A SECOND RE-SET WAS NEEDED AFTER THAT AND IT IS THE CLASS OF DEFECT THE SCAN EXISTS FOR: A PASSAGE ADDED TO THE SCENE LATE REPRODUCED TWO OF 474's PHRASES — *both hands flat on his chest and neither of them breathed for about four seconds* and *you have been giving it away for four years to strangers at a wall* — AND BOTH WERE CUT. THAT ARRIVED TWICE IN ONE CHAPTER.**
+             ELEVEN OTHER CHAPTERS WERE ALSO RE-SET WHERE A WHOLE SENTENCE HAD BEEN LIFTED: 485's
+             opening from 400, the card sentence from 400, the plate sentence from 447, and 400's own
+             *Beatrix Halm was at the north end of the ranks wall* which is canon and STAYS.**
+             **EVERY ONE OF THE 51 CLASSIFIED BY HAND AND EVERY ONE IS CANON TEXT THAT MUST RECUR:**
+             the requisition-age mnemonic · *there is a chair at that table that is not a member's
+             chair* (447, and it is said ONCE in 481 after a repair) · *off a certificate of the
+             composition of the address* (447, 478) · *in my own hand with my name at the foot of it*
+             (447) · *four lines on a shelf in a building off a third court* (466, 468, 478) · the
+             heading of the record of the thirtieth of July, quoted whole (PC-101) · *a heading is
+             entered first and read back before the body* (PC-101) · *and in four years a stranger with a
+             folder* · *a recusal is lifted by the subject and by nobody else* (PC-91) · *and the Church's
+             four words, that it cannot be given back because there is no list of what it is made of*
+             (469) · *Beatrix Halm was at the north end of the ranks wall* (400) · and the books of the
+             sixteenth of November (453).
+             **EVERY ONE OF THE ELEVEN 12-GRAM ECHOES THAT WERE NOT CANON WAS REWRITTEN BEFORE THIS
+             BLOCK WAS WRITTEN**, and they are listed in the commit that wrote this: 481's second
+             saying of the chair line, 481's second saying of the fourth-block rule, 481's "he had
+             started saying them and could not stop", 482's four, 484's, 485's three, 486's, 487's,
+             490's two, and the eleven in 483.
+SETTLE       `grep -rio "settle" chapters/volume-10/` -> **0.**
+BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 ·
+             there is no form 0 · there is no column 0 · the record remained 0 · nobody asked 0 ·
+             nobody was thanked 0.
+             **SIX BANNED CONSTRUCTIONS WERE WRITTEN AND ALL SIX WERE REPAIRED**: `there is no form`
+             and `there is no column` at 489, both in Ines Duarte's mouth at a counter, replaced by
+             *Nothing in this city will put it on a form, nothing will print it in a column*.
+             `nobody` runs 2 / 2 / 2 / 2 / 4 / 3 / 3 / 2 / 2 / **0** across the ten and none is over four.
+             **490 RUNS ZERO `nobody` AND ZERO `there is no` AND THAT IS THE RESULT OF A REPAIR, NOT OF
+             AN ACCIDENT: 490 was written with twelve and fifteen and both were cut.**
+             **THE `there is no` FAMILY (no / not / nothing / nobody / nowhere) runs 5 / 4 / 5 / 5 / 3 /
+             4 / 4 / 3 / 3 / 0** across the ten and none is over five.
+CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds: Dagmar Oyelowo appears at 488, is
+             given no gift of any kind, and 488 IS NOT A SCENE AND MAY NEVER BE WRITTEN AS ONE.
+             `PC-102` is INHERITED AND IS NOT UNDONE: the moment any person keeping premises 34-6-118
+             has drawn against it the head of that household may never empty it, and **486 IS WHERE THAT
+             STOPS HIM IN PUBLIC AND THE HOUSEHOLD'S THIRTEEN-YEAR-OLD DECISION IS WHAT GOES ON.** That
+             is not a softening of `PC-102`; it is `PC-102` doing exactly what it was written to do.
+             `PC-98`–`PC-101` all pay at 486: a hearing record is not a finding and cannot be
+             classified; a room in which nothing can be compelled makes a statement that binds nobody;
+             and a record's heading is entered first and read back before the body, which is why the
+             amendment at 486 is a line UNDER a finding and not a heading.
+             **FIVE NEW PCs ARE PROPOSED IN THE SAME COMMIT THAT WROTE THE CHAPTERS THAT CARRY THEM, AS
+             `PC-107` TO `PC-110`, and `PC-106` IS NOT RENUMBERED AND NOTHING BELOW IT MOVED.**
+             `outline/ending.md` IS UNTOUCHED. **NO NEW FINAL ENEMY.**
+SCENE        483. **RECORDED SPAN 3,668 WORDS**, being the body counted from the opening `##` to the
+             closing `##` **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 3,678 WORDS**,
+             **inclusive of both bounding headings**. Eight section headings. **Both definitions are
+             printed beside the figures and both were taken by command after the last edit.**
+             `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1);`
+             `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` → 3,668 · `sed -n "${F},${L}p" FILE | wc -w` → 3,678.
+             **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet), WHOLE-WORD,
+             ON THE WHOLE FILE: 1 · 5 · 2 · 0 · 2 · 2 · 1, SUM 13**, against 39 for 465, 32 for 474 and
+             18 for 454. **THE COUNT IS NOT A PROOF AND IT IS THE FIGURE THE COMMAND PRINTED, AND IT IS
+             LOWER THAN THE OTHER THREE ON A BODY OF THE SAME LENGTH. THE CHAPTER IS WRITTEN OUT,
+             UNHURRIED, EXPLICIT AND PHYSICAL. THE PROBE IS PRINTED BECAUSE IT IS A GATE ROW AND NOT
+             BECAUSE IT IS AN ARGUMENT.**
+             **THE AXIS IS THE QUIET, CARRIED BY A CLINIC'S RULE AND NAMED BY NOBODY: a ward at night
+             with a door that closes, four patients asleep and a woman in the next ward, a screen on
+             wheels so that whoever walks in has to walk round it, a code word for *the room is needed
+             back*, and the only room in this book where a body may be put down is a room where
+             somebody is being treated.** 483 REUSES NONE OF THE SIX RECORDED TEMPLATES: no list of
+             terms, no body described in words as an instrument, no counted minute, and the staging is
+             a 2026 ward at night and not a March scene in the same room.
+             **NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR SEAL
+             IS THE MECHANISM AND EVERY SEXUAL CHARACTER IS AN ADULT.** Her gift is NOT the mechanism
+             of the sex: she says in the first four minutes that the two things are separate, she wants
+             him in a ward with four patients asleep in it, and the fraction is nine minutes afterwards
+             and is medicine. Violence and sex stay in separate registers and nothing in the chapter is
+             a rescue.
+```
+
+---
+
 # VOLUME 10 BATCH 0003 — CHAPTERS 471–480 ARE ON DISK, TEN FINISHED FILES, WRITTEN 13 OCTOBER 2026 AND **REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0003.review.log` — FOUR FINDINGS, THREE FIXED, ONE ACCEPTED WITH THE REASON RECORDED.** **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-10/batch-0004/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 481–490.**
 
 ## THE 13 OCTOBER 2026 REVIEW REPAIR OF BATCH 0003 — FOUR FINDINGS. **NO CHAPTER WAS RESTARTED, NO EVENT, DATE, CHARACTER, RULE OR PIECE OF THE PLANNED PLOT WAS CHANGED, NO TITLE CHANGED, NO SCENE MOVED, NO PC ADOPTED, WITHDRAWN OR RENUMBERED, NOTHING AGED AND NO MARK MOVED.**
