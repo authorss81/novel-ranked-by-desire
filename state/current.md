@@ -1,4 +1,107 @@
-# VOLUME 7 CLOSE RECORD — AUDITED 13 OCTOBER 2026. THE VOLUME IS CLOSED AND PAID. THE NEXT PHASE IS A VOLUME-PLANNING PHASE.
+# VOLUME 8 PLANNING RECORD — 13 OCTOBER 2026. THE PLAN EXISTS AND NO CHAPTER EXISTS. THE NEXT PHASE IS A WRITING PHASE.
+
+**Read this block before Chapter 351 is written. It is the head record.** The Volume 7 close record is
+immediately below it and is retained as the audited position at Chapter 350; `reviews/volume-07/volume-close.md`
+is the audit and `outline/volume-08.md` is the plan.
+
+## 0. WHAT THIS PHASE DID, AND WHAT IT DELIBERATELY DID NOT DO
+
+**It wrote no prose, created no chapter directory, and created exactly one next phase.**
+
+| Created | What it is |
+| --- | --- |
+| `outline/volume-08.md` | the volume outline. **§1–§5 are written fact derived from Chapters 301–350 and §6 onward is plan.** It says so on its own face. |
+| `outline/batches/volume-08-batch-0001.md` | ten cards, 351–360, with the day, the goal, the resistance, the turn, the consequence, the continuity facts and the hook for each |
+| `workspace/volume-08/batch-0001/PROMPT.md` | **the one live phase prompt in the repository.** Ch 351–360. |
+
+**`chapters/volume-08/` DOES NOT EXIST AND MUST NOT BE CREATED BY ANY PHASE EXCEPT THE ONE THAT WRITES 351.**
+**A volume word count for Volume 8 is ZERO and no such figure may be recorded until there are files to count.**
+
+## 1. THE ONE QUESTION THE VOLUME SENTENCE TURNS ON, ANSWERED
+
+> In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
+> account he has ever had closes on him and he is a man with a number**.
+
+**THE WOMAN WHO TOLD HIM IS SUN MEILING.** Five pieces of page evidence and `outline/volume-08.md` §1a sets
+them out in full: `outline/series.md` puts *she says the sentence that unlocks Volume 8* against her Chapter 63
+and `bible/characters.md` puts *she is the one who will say the sentence in Volume 8 that reconciles everything*
+against her entry · **Chapter 63 is titled *What Was Sent* and its content is *what is in you was sent, a thing
+that is sent has a sender*, worked out by her alone in three years from a departmental consult headed with a
+one-digit account number** · **Chapter 326 she supplies the match, the only seal that would answer being his
+brother's** · **Chapter 327 is the volume sentence itself: *you need it on paper once, in my hand and not
+yours, so that in four years when somebody asks where it came from you can say a woman who knew him told you
+on the fourteenth of November*** · and she is the least protected woman in the household and the only one whose
+own building holds the answer.
+
+**WREN KALLO IS NOT HER AND MUST NOT BE PROMOTED.** She is the woman who **is going to tell somebody else**.
+She told him nothing about the account in eight volumes, she is barred by a standing instrument from being
+asked about the address, she has said *I do not know what you are talking about* once already on the sixth of
+December, **and the batch may not resolve whom she told inside Batch 0001.**
+
+**THE TWO DOORS ARE ONE DOOR, AND IT IS THE VOLUME'S ENGINE:** the classification's reason clause is a song
+that cannot be reproduced in writing and has no author on it, so every division that wants a reason on that
+file now wants the woman who sang it, **who is at premises 34-6-118 on a public list with her room against it,
+and the only person in Ostara who can supply that address is the woman Wren Kallo is forbidden to be asked
+about.** He cannot find out whether it has already happened. **The volume sentence joins two doors and they
+join at him.**
+
+## 2. THE POSITION AT CHAPTER 350 — UNCHANGED, AND EVERY FIGURE IS ON THE PAGE
+
+Plate **8,145**. Band floor **8,145** from the thirtieth of December, set by another office in a different hand
+at six in the morning. **He is on the nose, band six and not seven, which is 8,170, and the ranks wall carries
+no word about him at all for the first time since the thirtieth of July.** Ledger **124 lines, nine turned, the
+ninth still himself. NOTHING SPENT.** File 4,112 one folio, no second, **no classification completed.**
+Composition of premises 34-6-118 **eight**, certified at nine on the thirtieth of November by the officer who
+sleeps at that address; the priced line still says **seven**; both true, neither corrects the other.
+
+**The account of thirty years is CALLED** in a chained real book on the first of December at ten to nine, and it
+cannot be paid and cannot be produced, and it is called **on the first of January, on the first of February and
+on the first of March, until somebody pays it or somebody produces.** **A requisition was tabled on the sixth,
+heard on the fourteenth, refused with an instrument on the seventeenth, sealed by five of nine on the
+twenty-third and VOIDED at the ninth minute. Nothing was taken off anybody.** Its fourth part is a box headed
+*Held by*, with a clerk's tick in the corner and nothing in it. **A minute in four hands went out on the
+twenty-sixth and is the first document with his name in it that he did not write.** **Four sheets of plain
+paper in his own hand lie in the keeping of the room where nine people sit with eight witness hands under them
+and a gap two fingers wide where the fourth seat is.** **Four sheets of file 4,112 are in a drawer on Lantern
+Row and the whole of that file is in the same auditor's hands, and no paper is read in those rooms again — not
+to her and not by him.** **A false attestation of the twenty-seventh of November sits in a Bureau
+counter-forensics division's standing papers.** **And Wren Kallo decided to speak on the night of the thirtieth
+of December and has not chosen whom.**
+
+## 3. WHAT BATCH 0001 OWNS, AND WHAT IT MUST NOT REACH
+
+**351–360. The first to the twenty-sixth of January.** The plan's beats: the second call of a chained line and
+what a second call is · Wren Kallo back at the table with a recipient she will not name · the plate held by an
+unpublished split he does not want · six of the eight women holding public posts · **the fifth sheet, in his
+own hand, declaring him the holding — the batch's irreversible decision at 356 and 357** · **358, Sun
+Meiling's scene** · the copies going out at four on the ordinary stream · **Alma Quayle's undelivered sentence
+of the nineteenth of October, which goes out on the twenty-sixth**.
+
+**IT MAY NOT:** open Lin Wei's file or anything in it · touch Sowe's four lines · lay, serve, seal or carry a
+requisition · spend a grain, draw, route or open a folio · print a settle date · name a day of the week ·
+announce an age · give a second woman Wren Kallo's scene · resolve whom she told.
+
+## 4. WHAT A LATER VOLUME WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of
+   the quarter. Volume 8 runs the first of January to the thirtieth of March.** **No interval may be derived
+   against a real calendar.** Subtract day numbers.
+2. **VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero.
+3. **124 ledger lines at 350 is correct and must not be reconciled back to 118.** The line count rises because
+   he keeps his round; the turned count is nine and does not move; nothing is spent.
+4. **The plate is held at 8,145 by an aggregate office split that has never been published.** That is plan for
+   Chapter 353 and it is labelled as plan.
+5. **A requisition is not one thing.** Tabled ≠ served ≠ sealed ≠ carried ≠ received. **Volume 7's was tabled,
+   sealed by five and voided. Volume 8's goes live and is not decided, and it is not carried, and nothing is
+   taken off anybody.** This distinction is a proposed canon change recorded at `state/open-threads.md`.
+6. **The term of the ninth of July is spent and he spent it himself on the twenty-seventh of November.**
+7. **Wren Kallo's bar holds and is exercised in Batch 0001.**
+8. **Sun Meiling is never sworn, is under a permanent bar, and is not to be given a mark she does not already
+   carry.**
+
+---
+
+# VOLUME 7 CLOSE RECORD — AUDITED 13 OCTOBER 2026. THE VOLUME IS CLOSED AND PAID. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED IN FULL BELOW.
 
 **Read this block before Volume 8's outline is written.** It is the head record. Batch 0005's block is
 immediately below it and is retained as the record of the position at Chapter 350, which this audit

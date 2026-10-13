@@ -1,4 +1,72 @@
-# VOLUME 7 CLOSE GATE RECORD — RE-RUN 13 OCTOBER 2026 FROM OUTSIDE THE PASS THAT WROTE IT. THIS IS NOW THE ONLY LIVE GATE BLOCK IN THIS FILE.
+# VOLUME 8 PLANNING GATE RECORD — 13 OCTOBER 2026. NO CHAPTER OF VOLUME 8 EXISTS. THIS IS NOW THE ONLY LIVE GATE BLOCK IN THIS FILE.
+
+**The Volume 7 close gate record is below and is retained in full as the audited position at Chapter 350. The
+audit is `reviews/volume-07/volume-close.md`. A planning phase owns almost no gates because a planning phase
+writes no prose, and the ones below are the ones it does own.**
+
+## Gates this phase ran, and the figures are what the commands actually returned
+
+```
+FILES            chapters/ -> 7 directories, volume-01 .. volume-07. **chapters/volume-08/ is ABSENT and no
+                 phase may create it except the one that writes Chapter 351.**
+                 find chapters -name 'chapter-*.md' -> **350 files. 350 titles.**
+                 find . -name 'chapter-0351.md' -> **0. NO CHAPTER 351 EXISTS ANYWHERE IN THE REPOSITORY.**
+VOL 7 WORDS      **107,477, counted per file and summed.** Re-run by this phase against the files as they
+                 stand. **`cat chapters/volume-07/*.md | wc -w` returns 107,439 and is WRONG BY 38**, and the
+                 reason re-confirmed here is that **39 of the 50 files carry no trailing newline.** Count per
+                 file and sum. Never record a volume word count from a concatenation.
+VOL 8 WORDS      **NONE. There is no Volume 8 and no figure for it may be recorded.**
+TITLE BANK       `outline/volume-08.md` §10. Checked by command before the file was written, against all
+                 350 written title lines extracted with `grep -h '^# ' chapters/*/*.md | sed 's/^# //' | sort`:
+                 **50 banked · 0 collisions (comm against the sorted 350) · 0 duplicates inside the bank ·
+                 0 over 90 characters (longest, The Address Somebody Offers To Give Up, 38) · 0 beginning with
+                 *What* · 0 built out of *there is no* / *nobody* / *nothing* / *what* · word counts 4 to 8,
+                 every one inside 3-12.**
+PLAN REGISTER    `outline/volume-08.md` prints which of its own sections are **written fact derived from
+                 Chapters 301–350** (§1 to §5, and every figure named in §2) and which are **plan** (§6
+                 onward), on the face of the file, as the Volume 7 close audit demanded. **One inference is
+                 labelled inside it rather than outside it: the floor the card of the thirtieth of March will
+                 print, which the file declines to state as fact.**
+```
+
+**THE TWO THINGS THIS PHASE GOT RIGHT THAT THE VOLUME 7 PASSES GOT WRONG, RECORDED SO THE NEXT PASS CAN SEE
+THAT IT WAS CHECKED:** the volume word count was taken per file and summed and the concatenation figure was
+computed separately and printed beside it **as an error**, and the title bank was checked against the 350 by
+command before `outline/volume-08.md` was written rather than eyeballed after.
+
+---
+
+# PROPOSED CANON CHANGES — Volume 8 planning, 13 OCTOBER 2026. **RECORDED BEFORE THE CHAPTERS THAT CARRY THEM EXIST, WHICH IS THE POINT.**
+
+**Every item below is a thing `outline/volume-08.md` §6 needs and the page does not yet have. A batch that
+finds a better answer takes it, rewrites the outline in the same commit, and amends or strikes the item here.**
+**NONE OF THEM IS ADOPTED CANON YET. NONE OF THEM IS FIXED BY `outline/ending.md`, AND NONE OF THEM TOUCHES
+THE ENDING.**
+
+| # | Proposed | Why, from the page | Where it lands | Status |
+| --- | --- | --- | --- | --- |
+| **PC-1** | **A fifth sheet, in his own hand, declaring him the holder of the account of thirty years standing at premises 34-6-118, lodged with the room where nine people sit.** | 343: *the fifth seal needs a paper and the only way to get one is for the man to write it, and there is no such document in this city because he has never in his life written one.* 347: *the only person alive who can put anything into it is the man it is about.* 348: he wrote one. **The instrument is not invented — it is the same instrument as the four sheets of the twenty-ninth of December, and the difference is what it says.** | 356, 357. The batch's irreversible decision. | **PROPOSED** |
+| **PC-2** | **The distinctions tabled / served / sealed / carried / received are five states and not two. A requisition may be laid, served, sealed and LIVE in this volume and is NOT CARRIED, and nothing is taken off anybody.** | 342 establishes that a requisition on a described subject is **served** by the division that holds the description — so Volume 7 already served one and it was not received. 346 establishes that the four on the sheet produced nothing. `outline/ending.md` requires a **live** requisition at 372 and requires the account to be in his hands at the start of Volume 10 to be returned at 486. **A second voiding at the ninth minute would be Volume 7 run again, which is the procedure loop this manuscript keeps falling into.** | 365, 366, 370, 391, 400 | **PROPOSED** |
+| **PC-3** | **A subject served with a requisition may require the room to produce the paper its ground is written on, and the room must produce it — and that paper is Lin Wei's file, which is how a man at band six opens a file on 372.** | `outline/ending.md` fixes that the file opens at 372 **on a rank he does not have**, and that it happens **in the middle of a live requisition**. Rank nine is Volume 9 and he is at the floor of band six. The requisition's fourth part is its ground, and a ground that is a man's own assertion carries no seal; a ground that is a document older than his holding does. **This is the load-bearing invention of the outline and it is the only one.** | 370, 371, 372 | **PROPOSED — the single most important item on this table** |
+| **PC-4** | **Wren Kallo told the office that holds the description, and its head received it.** | 350: she has chosen and will not say whom, and the batch may not resolve it. **She has to have said it to something, and the classification's reason clause is a song with no author, and the only route to an author runs through the woman who sang it.** 360 is Alma Quayle's undelivered sentence going out. | 352, 360, 396, 397 | **PROPOSED — and the plain text of it stays in her mouth until 397** |
+| **PC-5** | **Sun Meiling reads Perrin Sowe's four lines, on the page, at 358.** | 70: *I have not seen them. They are not mine and they are not in my drawer, and I have not read them in three years, and I am not going to, because reading them would mean being the woman who read them, and I have a discipline.* **The volume's engine requires that discipline to be broken by a decision and not by an accident, and 358 is where she takes it.** | 358 | **PROPOSED** |
+| **PC-6** | **Perrin Sowe comes down the second-floor corridor of the iron-stair building once, in this volume.** | 70: *He has been in this building for nine years … I have worked two floors below him for three years … four hundred filing runs … and he has never once come down.* **He is rung seven of `outline/series.md`'s ladder and is named on the page at 70. He is not a new enemy and this phase did not add one.** | 364 | **PROPOSED** |
+| **PC-7** | **The Ninth Terrace intake desk keeps a book of persons taken up to a room and not brought down; Lin Wei is on a page in it with a date and a direction; the book does not come off the desk.** | `bible/characters.md`: Dagmar Oyelowo, 50, twenty years at that desk, never scored once, **no gift at all**, *she tells Lin Hao the truth about his brother in Volume 8.* She is the only woman on the Terrace who can know a person went up and did not come down, and she is the only partner in the book who cannot manufacture a means of getting there. **388 is immovable.** | 388, 389 | **PROPOSED** |
+| **PC-8** | **The card of the thirtieth of March prints the next floor, and the outline labels 8,146 as an inference and prints no figure as fact.** | Cards printed 8,142 / 8,143 / 8,144 / 8,145 on the thirtieth of July, August, September and December. **A count is not a reading and an inference is not an anchor, so a chapter that uses a threshold takes it from the painted card printed in that chapter, exactly as Volume 7 did at 328.** | 400 | **PROPOSED, AND LABELLED AS AN INFERENCE IN THE OUTLINE ITSELF** |
+| **PC-9** | **The two words return to the ranks wall inside this volume.** | 349 and 350 put him on the floor with a silent wall for the first time since the thirtieth of July. 334 re-established that *the two words go back up the day he goes under, and inside a week.* The floor holds at 8,145 from the thirtieth of December until the thirtieth of March and **a plate falls when nothing is attested**, so a man on the floor is under it within a fortnight. | 400, and it is the volume's last image | **PROPOSED** |
+| **PC-10** | **Wanda Rej's plaster.** Ch 341, on the first of December: *the plaster comes off on the twelfth.* Chapters 342–350 cover the sixth to the thirtieth of December and **not one of them says a word about it.** | Either it came off on the twelfth of December off the page, or the sentence went stale. **`outline/volume-08.md` §9 requires Volume 8 to settle it on the page and forbids settling it in a review file.** | Batches 0002–0004 | **CARRIED DISCREPANCY — UNRESOLVED AND DELIBERATELY SO** |
+| **PC-11** | **The floor sequence.** Volume 7's own text calls the card a *quarterly* card and the thirtieth *the last working day of a quarter*, and also prints figures on the thirtieth of three consecutive months. **Both readings stand on the page and the outline does not resolve them.** | This file has arrived at "a gate record is a claim" four times and has still shipped stale numbers. **A contradiction found in a planning phase is recorded, not fixed.** | `outline/volume-08.md` §9 | **CARRIED DISCREPANCY — UNRESOLVED AND DELIBERATELY SO** |
+
+**AND THE THING THAT IS NOT A PROPOSAL AND IS FIXED AND MAY NOT BE TOUCHED:** `outline/ending.md` is unmodified
+and Volume 8 does not modify it. **Lin Wei's file opens at 372 and the account is returned in full at 486 and he
+ends at rank one and the great offer is Chapter 486's — it is not Wren Kallo's and it is not Anouk Ferreira's.
+Anouk Ferreira made the smaller offer on the seventeenth of December, was refused with an instrument, will not
+make it again, and did not make the other one, and Volume 8 may not revive either.** There is no new final
+enemy. The series is planned past 500 and Volume 8 is not the last of it.
+
+---
+
+## Volume 7 close gate record — re-run 13 October 2026 from outside the pass that wrote it. Retained below in full; the live block is the one above.
 
 **Batch 0005's own gate block is below and is retained as the record of what that pass claimed for itself.
 The close audit re-ran every gate by command against the chapter files on disk and, where the two disagreed,

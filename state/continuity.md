@@ -1,4 +1,118 @@
-## VOLUME 7 — CLOSED IN PROSE AT CHAPTER 350. CHAPTERS 301–350. THE SECOND OF OCTOBER TO THE THIRTIETH OF DECEMBER. THIS IS THE LIVE BLOCK AND IT IS THE LAST ONE FOR THIS VOLUME.
+## VOLUME 8 — PLANNED, NOT WRITTEN. CHAPTERS 351–400. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK AND THE VOLUME HAS NO CHAPTER ON DISK.
+
+**`outline/volume-08.md` EXISTS AND WAS WRITTEN BEFORE CHAPTER 351 FOR THE FIRST TIME IN THE BOOK SINCE
+VOLUME SEVEN.** It is in two registers and the register is printed at the head of it: **§1 to §5 are written
+fact derived from Chapters 301–350 and §6 onward is plan.** **THE NEXT PHASE IS A WRITING PHASE:
+`workspace/volume-08/batch-0001/PROMPT.md`, which writes 351–360 and no prose about anything else.**
+
+**Volume 8 is The Brother's File, chapters 351–400, and the volume sentence is fixed:**
+
+> In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
+> account he has ever had closes on him and he is a man with a number**.
+
+**FIFTY CHAPTERS ARE NOT ON DISK. `chapters/volume-08/` DOES NOT EXIST. NO CHAPTER 351 EXISTS ANYWHERE IN THE
+REPOSITORY AND NO WORD COUNT FOR VOLUME 8 MAY BE RECORDED.**
+
+### 0. WHO THE WOMAN WHO TOLD HIM IS, AND WHY IT WAS NOT OBVIOUS
+
+**SUN MEILING.** `outline/volume-08.md` §1a carries the case in five pieces and this block carries the
+conclusion. **The volume sentence's "the woman who told him" is Chapter 327 spoken four volumes early: *you
+need it on paper once, in my hand and not yours, so that in four years when somebody asks where it came from
+you can say a woman who knew him told you on the fourteenth of November.*** Underneath that: `series.md`
+gives her *the sentence that unlocks Volume 8* at 63, `bible/characters.md` gives her *the sentence in Volume 8
+that reconciles everything*, **Chapter 63 is titled *What Was Sent***, Chapter 326 gives her the match, and
+she is the only one of the eight who is inside a building where the man who took her brother has an office two
+floors up and has never come down her corridor in three years.
+
+**WREN KALLO IS THE OTHER DOOR AND IS NOT THE SAME ONE.** She is the woman who is going to tell somebody.
+**Batch 0001 may not resolve it.** Her standing answer is: *you may not put one question to me about that
+address and I will say I do not know what you are talking about.* He asked once, on the sixth of December, got
+it, and said he would not ask again.
+
+### 1. THE CALENDAR, FIXED, AND EVERY INTERVAL RE-SUBTRACTED
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and the
+last working day of the quarter. NO INTERVAL MAY BE DERIVED AGAINST A REAL CALENDAR — SUBTRACT DAY NUMBERS.**
+
+**Volume 8 runs 1 January to 30 March. Ninety days, fifty chapters, deliberately not one a day; the last ten
+chapters are ten days, one a day, because the volume accelerates into its last movement.**
+
+| Batch | Chapters | Days |
+| --- | --- | --- |
+| 0001 | 351–360 | 1 Jan – 26 Jan |
+| 0002 | 361–370 | 27 Jan – 20 Feb |
+| 0003 | 371–380 | 21 Feb – 10 Mar |
+| 0004 | 381–390 | 11 Mar – 20 Mar |
+| 0005 | 391–400 | 21 Mar – 30 Mar (400 is the thirtieth, early morning, the card at six) |
+
+**Chapter-by-chapter days, which are printed in full in `outline/volume-08.md` §5b:** 351 the 1st · 352 the 3rd
+· 353 the 5th · 354 the 8th · 355 the 10th · 356 the 12th · 357 the 14th · **358 the 16th, the scene** · 359 the
+19th · 360 the 26th · 361 the 27th · 362 the 30th · 363 the 1st of February · 364 the 4th · 365 the 6th · 366
+the 9th · 367 the 11th · 368 the 14th · **369 the 16th, the scene** · 370 the 20th · 371 the 21st · **372 the 23rd
+of February, THE FILE OPENS** · 373 the 24th · 374 the 26th · 375 the 27th · 376 the 1st of March · 377 the 3rd
+· 378 the 5th · 379 the 8th · **380 the 10th, the scene** · 381 the 11th · 382 the 12th · 383 the 13th · 384 the
+14th · 385 the 15th · 386 the 16th · 387 the 17th · **388 the 18th, the scene** · 389 the 19th · 390 the 20th ·
+391 the 21st · 392 the 22nd · 393 the 23rd · 394 the 24th · 395 the 25th · 396 the 26th · 397 the 27th · **398 the
+28th, the scene** · 399 the 29th · **400 the 30th at six.**
+
+**VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero.
+
+**THE BAND FLOOR: written fact and one labelled inference, both in `outline/volume-08.md` §5a.** The cards
+printed **8,142 on the thirtieth of July · 8,143 on the thirtieth of August · 8,144 on the thirtieth of
+September · 8,145 on the thirtieth of December.** **The floor does not move again until the thirtieth of March
+and no batch may print a figure for that card that is not printed in the chapter that uses it.** The plan's
+inference is 8,146 and it is labelled as an inference from four data points and not as a fact.
+
+### 2. THE SCENE SCHEDULE, FIXED
+
+**358 Sun Meiling · 369 Agnete Lindqvist · 380 Tessa Okonkwo · 388 Dagmar Oyelowo (IMMOVABLE) · 398 Wren
+Kallo.** Gaps 350 → 358 = **8** · 358 → 369 = **11** · 369 → 380 = **11** · 380 → 388 = **8** · 388 → 398 =
+**10**. **No gap under eight and none over fifteen.** **Volume 7's five scenes are spent and are not
+continued: 308, 318, 329, 340 and 350.** No chapter of Volume 8 may be a continuation of 350, may re-stage its
+five things, or may open in her rooms.
+
+### 3. MECHANICS, REFERRED AND NEVER RE-EXPLAINED
+
+Movement needs a **Seal**. Nine seals in Ostara will carry one. One use costs the carrier a year of standing. A
+man with no standing cannot obtain one. **The seal that would answer is his brother's, because a seal matches
+the account and not the man.** The account was handed to him; three years past, in one movement, everything at
+once. **Eleven days of not spending is spent and may not be re-run. No grain spent, no draw, no route, no
+second folio, no settle clock, no settle date, no classification completed.**
+**LIN WEI'S FILE IS SHUT AND OPENS AT CHAPTER 372 AND NOT ONE CHAPTER BEFORE.**
+
+### 4. THE FOUR THINGS A VOLUME 8 BATCH MUST NOT GET WRONG, INHERITED WHOLE FROM VOLUME 7
+
+1. **Count per file and sum. Never `cat *.md | wc -w`.** Volume 7's returned 107,439 against a true 107,477
+   because thirty-nine of fifty files carry no trailing newline.
+2. **A borrowed body is a canon error and the twelve-gram scan cannot see one. Volume 7 shipped three** — the
+   wrist scar, the grey temple and the ink claim — **and the twelve-gram found exactly one match in the whole
+   volume, which was the framed refrain at 344/345 and was the right answer.** **Remove the claim; do not move
+   it to the other side.** `outline/volume-08.md` §4 carries the table of marks every woman on this volume's
+   page already owns, including the three that were repaired at Volume 7's close.
+3. **The ledger's line count is not the number of lines turned in it. 124 at 350 is right and must not be
+   reconciled back to 118.**
+4. **A gate record is a claim. Re-run it from outside the pass that wrote the prose.** The Volume 7 close audit
+   found its own gate block printing Chapter 350 at two different numbers, both stale; a stale volume plan
+   glued into the wrong row of a state index; a scene figure printed against the wrong stated convention; and a
+   claim that a directory was absent in the same commit that created it.
+
+### 5. STANDING AND UNCLOSED AT THE HANDOFF TO BATCH 0001
+
+The account of thirty years, **called**, unpaid and unproducible, and called on the first of each month · **the
+empty *Held by* box with a clerk's tick in the corner of it, which is the whole of Volume 8's engine** · four
+sheets in a room's keeping and a minute in four hands · Ines Duarte's drawer and the whole of file 4,112 in
+her hands, and no paper read in those rooms again · the false attestation of the twenty-seventh of November ·
+**Wren Kallo's decision to speak** · **Alma Quayle's undelivered sentence of the nineteenth of October** ·
+Wanda Rej's plaster and what her hand says now · the fourth seat and the man who was in it · the woman in the
+sixth seat and her hand on the minute · Nikolai Vester, who walked out on the twenty-third · Sun Meiling's bar
+and her initials on a transmission she has never read the contents of · the two words on the ranks wall, which
+come back up inside a week of his going under · the ninth turned line · the seventh returned line · the bare
+slot on the Reading wall · the two unstamped reads in the check column · the day Ines Duarte lost · **the
+great offer, which is Chapter 486's and is not Wren Kallo's and not Anouk Ferreira's.**
+
+---
+
+## VOLUME 7 — CLOSED IN PROSE AT CHAPTER 350. CHAPTERS 301–350. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED IN FULL BELOW.
 
 **THE CLOSE AUDIT RAN ON 13 OCTOBER 2026 AND IT IS `reviews/volume-07/volume-close.md`. The volume's sentence was paid, all five scenes are written out, and the scene budget is spent.** Read that file before planning Volume 8. **The volume is 107,477 words, `cat *.md | wc -w` undercounts it by 38, and the ledger's 124 lines at 350 is correct and must not be reconciled back to 118.** **THE NEXT PHASE IS A VOLUME-PLANNING PHASE: `workspace/volume-08/volume-plan/PROMPT.md`, which writes `outline/volume-08.md` and Volume 8 Batch 0001's cards and no prose.**
 
