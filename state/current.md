@@ -1,3 +1,51 @@
+# VOLUME 11 BATCH 0002 IS WRITTEN. CHAPTERS 511–520 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 22,612 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE LAST EDIT TO THE PROSE. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
+
+**MOVEMENT TWO, DEFINED, IS WRITTEN AND CLOSED ON THE PAGE AT 520. IT DELIVERED THE ROOM, THE JOKE, THE CHURCH'S DECISION, THE FIRST DEED, THE SCENE, THE LOCKED DOOR, THE FORTY DAYS, THE RECUSAL, THE DEFINITION AND A NAME IN A BOOK. IT DELIVERED ITS IRREVERSIBLE DECISION AT 518.**
+
+## 0. WHERE THE MAN STANDS AT CHAPTER 521, IN ONE PARAGRAPH, FROM THE PAGE
+
+He is at rank one on a branch night shift he asked for, four nights and three off, eleven at night until half past five, a white plate with his name on it and no figure cut into it anywhere. An office called the Register of Unrecorded Merit has a room off a third court with two chairs and a table in it, and for eight months two people came to that door, and it has taken a sentence from him that is four lines long and has a threshold in it: a deed is unrecorded if all four of four things are true of it, and it excludes about nine in ten of what people will bring, and he said the number out loud in a kitchen and did not explain it. To get that sentence classified he had to lift the recusal of the only officer in this city who can classify a word, and he lifted it on a slip the size of a quarter of a page in about four seconds with eleven words on it, and she is fifty-seven and was back on a record in four days and refused four classifications out loud and did not thank him, and the price of it is a room on that floor with no window and a file in it that he stood outside for about a minute and a half and did not knock. The Church of the Quiet Number is about four thousand and has decided that if the Register ever gets a column it will fill that column before the Bureau does, over about nine years, at the pace of one street. A woman who does needlework for four houses off Cordwain has been owed four loaves since the second month of the first year and cannot put the reason on a sheet, because the sheet goes out at four with an address at the head of every line, so the Register's first entry off a street is her name and not her deed. And the white tile under the last tile of the ranks wall still has his name on it in chalk and nothing at all under it, and he has now told one other person in this city that he does not know who put it there.
+
+## 1. WHAT THIS BATCH OWED AND DELIVERED
+
+- **The room at 511, and the office's first real deadline: eighty-two days to the thirtieth of December, and a blank form in a drawer since the fourth of February that nobody in that building will fill in.**
+- **The joke said out loud once at 512, by the man whose title it is, to the first person he has ever told it to, and neither of them explains it. The name was on the form before the office existed.**
+- **The Church's four thousand and its nine-year decision at 513, made out loud and against his own interest, with forty of its own paying a grain a head to stand in a lane off Cordwain and the figure on the slate not going up by forty.**
+- **The first deed offered to the office at 514, and the reason it cannot be put on paper, and the reason is not resolved.**
+- **Tessa Okonkwo's scene at 515 and the quiet carried by a latch, and the division of nine that is about to start going to doors, and what a third of what it finds will cost her.**
+- **The locked door at 516: the only door in this city a definition can come out of, and one man who can open it, and five hundred and fifty-eight days of a recusal he has not lifted.**
+- **The forty days at 517, derived on the page, and six words in a keeper's hand that are worth everything because nothing is behind them.**
+- **The batch's irreversible decision at 518: he lifts the recusal, on a slip, in four seconds.**
+- **The definition at 519, narrow, read out to nine women who each break it once and improve none of it, and the number it excludes.**
+- **A name in the Register at 520, entered by a clerk who may only enter, three days short of two years.**
+
+## 2. THE IRREVERSIBLE DECISION THIS BATCH OWNS, AND IT IS HIS
+
+**518. HE LIFTS ALMA QUAYLE'S RECUSAL.** *This recusal is lifted by me now and by nobody else.* Eleven words, his name, the date, a slip the size of a quarter of a page, no form, about four seconds, on the thirtieth of June of the second year, on the last working day of the quarter.
+
+**WHAT IT CLOSES:** the option of never spending another woman's safety, which was the last one he had that had cost nothing. He had spent the other one on the thirtieth of September of the first year and entered thirty-eight unbreakable words on the twenty-first of June before that.
+
+**WHAT IT COSTS:** a woman who has spent thirty years arranging to be the person who can finally say what a thing is goes back on a record at fifty-seven, without being asked, in the building where a room with no window holds a file he has not opened in two years. She is not diminished. She refuses four classifications out loud in her first four days. She does not thank him and tells him to be more frightened if she turns out ordinary than if she turns out like this.
+
+## 3. WHAT THIS BATCH DID NOT DO
+
+**It is not a climb.** Rank one the whole way through; no band, standing, permission or hour of his own moves, and nothing in these ten chapters offers him anything. **It is not a re-argument of the return.** No chapter of 511–520 argues for or against the first of October and no character in them says the question is settled or that it is not; Sela Voel's reason refers to the fourth of October and is not used as an argument about it. **It is not a new enemy.** **It is consequence-free in nothing.** **It does not answer Ines Duarte's question about the tile, which is still on the page from 505 and is unanswered.** **And it does not open his brother's file, which `outline/ending.md` alone decides.**
+
+## 4. THE EIGHT PROPOSALS, AND WHERE THEY ARE
+
+`PC-118` the Registrar's room at 511 and what is in it · `PC-119` the joke said out loud once at 512 and what it does not explain · `PC-120` the Church's four thousand and its decision at 513 · `PC-121` the first deed offered at 514 and whose reason cannot be put on paper, carried whole into 520 · `PC-122` the classification request at 516, the recusal, and the lift at 518 · `PC-123` the forty days and the six words at 517, with their operands, and the lane's age at 511 and 520 · `PC-124` the definition itself at 519 and the number it excludes · `PC-125` the name entered at 520 and whose it is. **All eight are PROPOSED, all eight are on the page, `PC-117` is not renumbered and nothing below it moved.** The full table is at the head of `state/continuity.md`.
+
+**AND ONE DISCREPANCY WAS FOUND AND NOT REPAIRED: `chapter-0496.md` and `chapter-0507.md` disagree about which block of the keeper's quarterly is the hundred and twenty-first, and the spine says 507 is one high against its own predecessor. NO CHAPTER OF 511–520 PRINTS AN ORDINAL FOR THAT BLOCK AT ALL**, and the finding is recorded in `state/continuity.md` §2 as proposed and not applied.
+
+**AND THE DISCREPANCY AT `chapter-0500.md:65` IS STILL CARRIED AND NOT REPAIRED.** No chapter of 511–520 prints that interval or derives anything from it.
+
+## 5. THE ONE SENTENCE THIS BLOCK HANDS ON
+
+> **An office that could do nothing at all now has a sentence, and the sentence has a floor under the wall in it, and he put it there in a kitchen in front of nine women who did not improve it, and to get it classified he spent the last safety he had on a slip the size of a quarter of a page — and the first name in the Register belongs to a woman who does needlework and is owed four loaves she cannot put on a sheet.**
+
+---
 # VOLUME 11 BATCH 0001 IS WRITTEN. CHAPTERS 501–510 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 24,097 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
