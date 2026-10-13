@@ -22,13 +22,29 @@ Runa wrote it down with the hour on it. Nadia wrote down which list each figure 
 
 Beatrix stood on the stair with her notebook in her hand and listened to the room the way she listened to a line, for what it cost.
 
-Ines came in at half past six with her bag over her arm and her coat on. She looked at the certificate on the table for about four seconds and did not touch it. She had not asked to be removed and no person had asked her about it, and the removal that had arrived on the twenty-sixth had taken her off the wrong paper an hour late.
+"Go down," he said.
 
-She went to her room and shut the door without locking it. Not one person followed. The standing instruction held.
+"I will go down to the sixth and come back," she said, and went, and came back, and sat on the fourth with her pencil out.
+
+"Tell me what he did not say," she said.
+
+"He asked for the head. He was told the head was at work. He asked for a signature and he was offered one. He did not ask whose house it was. He did not look at a roll. He did not ask how many of us live at that number and he did not ask whether the six on the sheet is the six on the board."
+
+"That is the polite part," Beatrix said. "When a man does not ask you a thing on the step, he has already decided not to be the one who asked. Somebody else is going to ask you, and that somebody will have a form with a number on it."
+
+She shut the book.
+
+"You are going to have to decide what you say to a form with a number on it instead of to a man on a step. I would take that worse. Being asked on a step, you can look in the face."
+
+She went up.
+
+Ines came in at half past six with her bag over her arm and her coat on. She looked at the certificate on the table for about four seconds and did not touch it. She had not asked to be removed and had not been asked about it, and the removal that had arrived on the twenty-sixth had taken her off the wrong paper an hour late.
+
+She went to her room and shut the door without locking it. The house let her go. The standing instruction held.
 
 He stood at the table with wet hands and looked at the sheet that made his household visible. A certificate did not make a house safe. It made it visible. Tessa had said it on the twenty-seventh of last month in a room with one window. A safe house was the absence of documents. This city had been getting better at reading for two years and could not read a thing that was not there. Now there was a thing.
 
-He understood it perfectly. He also understood that a woman behind a door at the back of the house had just been put, by his hand, onto a page she had never been shown, in a house that now existed as a number with a page attached to it, and that from tonight anyone entitled could ask what was at that address.
+He had it whole. A woman behind a door at the back of the house had just been put, by his own hand, onto a page she had never been shown, in a house that now existed as a number with a page attached to it. From tonight anyone entitled could ask what was at that address.
 
 Petra squared the certificate to the edge again, though it was already square.
 
@@ -38,26 +54,23 @@ Petra squared the certificate to the edge again, though it was already square.
 
 "A notice of production," Petra said. "For the account entered against the broker of record in the year the Veil broke. Eleven years on money and eleven on a woman. Someone outside the guild asked for its file on the ninth and was refused in four minutes. The notice says the account will be produced at the valuation on the first of next month."
 
-Marguerite went very still. The thirty-year account had been carried nineteen years on money that stopped coming and eleven on a woman, and it was live and secured by a plate that could not be withdrawn before the first. If the hundred and thirty-third mark was not put in on the first, it went on the dead list on the fourth and the plate came back and her hearing tail came off with it.
+Marguerite went very still. The thirty-year account had been carried nineteen years on money that stopped coming and eleven on a woman, and it was live and secured by a plate that could not be withdrawn before the first. If the hundred and thirty-third mark was not put in on the first, it went on the dead list on the fourth, and on the day it went on, every security standing against it came off.
 
 "Then July is the month," Marguerite said. "Not June. June was the certificate. July is the account."
 
-Sun put bread on the table and they ate standing, because there were not enough chairs and because no person wanted to sit with the certificate squared at the edge. Runa ate with her book open, writing the hour beside the noon arrival. Nadia wrote which list each paper belonged to on the back of a page. Six on the certificate, of the cut roll. Seven in the index, of returned lines of the third.
-
-Six on the sworn page, in his hand.
-Six with an address at Ferrier Street, true since March.
+Sun put bread on the table and they ate standing, because there were not enough chairs, and because none of them wanted to sit down with a certificate squared at the edge of a table they had eaten at every evening since the seventh. Runa ate with her book open, writing the hour beside the noon arrival, and Nadia wrote nothing at all, which was the first time in that house that anyone could remember.
 
 Beatrix stood on the stair with her notebook shut. She had listened to the carrier on the step at noon the way she listened to a line, and what she heard was politeness. A carrier with a book did not knock twice. He asked for the head, took a signature in the book, left the sheet. That was the whole of his instrument. It frightened her more than a hearing paper, because a hearing paper at least said what it wanted.
 
 Petra stayed at the end of the table long after the bread was gone, looking at the stamp and the date. She had marked a hundred and thirty-two dockets on the second of the month at four seconds apiece and had never asked who produced them. A stamp was a hand too. Someone's hand had stamped this sheet and put it in a carrier's bag. She wanted to know whose hand and knew she would never be told.
 
-At eight Agnete came out of the back room and stood in the doorway and looked at the certificate without coming closer. She had spent eleven years in rooms where no person could be compelled to speak. A certified instrument in her address changed what a room could be asked.
+At eight Agnete came out of the back room and stood in the doorway and looked at the certificate without coming closer. She had spent eleven years in rooms that could not take testimony out of a person. A certified instrument in her address changed what a room could be asked.
 
-"Is it mine," she said quietly to not one person in particular.
+"Is it mine," she said quietly, to the doorway and to whoever in the house wanted to answer it.
 
-Not one person answered, because not one person could. The certificate carried six names. Hers was not among them. The index carried seven lines. Hers was the blank. The sworn page carried six. Hers was the one kept off. Every paper in the house was about her and none had her name.
+There was no answer in the room. There could not be one. The certificate carried six names. Hers was not among them. The index carried seven lines. Hers was the blank. The sworn page carried six. Hers was the one kept off. Every paper in the house was about her and none had her name.
 
-She went back behind the door and left it open. The door stayed open. He watched her go with grief sitting low in him beside the dread. Eleven years indoors. Eleven years of a room where no person could be compelled to speak. Eleven years of never standing where anyone wanted her to speak. All of it held by a door that stayed open and a house that asked nothing.
+She went back behind the door and left it open. The door stayed open. He watched her go with grief sitting low in him beside the dread. Eleven years indoors. Eleven years of a room that could not make her speak. Eleven years of never standing where anyone wanted her to hear herself. All of it held by a door that stayed open and a house that asked nothing.
 
 Now a carrier with a book had left a sheet on a table, and the sheet made the house visible, and visible meant askable, and the asking would come. Not tonight. Soon. Someone entitled, with a form number, at the bottom of sixty-one steps. He wanted to stand on those steps when it came. He wanted to be the one who answered the door. That was his want, and it was small, and he held it.
 

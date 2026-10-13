@@ -129,6 +129,36 @@ ALL 240; 12-gram of 241 against all 24 earlier scenes), **plus: snapshot before 
 report sentences lost/gained and shingles before-absent-after (want zero); 241's scene scan must be
 zero.** Fix the three interval-error classes by asking what the anchor character does on that date.
 
+## THE GATES THAT 0004 GOT WRONG, AND WHAT TO RUN INSTEAD
+
+**An independent review of Batch 0004 found six separate blocks of duplicated text inside that batch,
+and the batch's own gates reported none of them.** The cause is structural and it will bite this batch
+the same way if you repeat the gate list:
+
+- **The 12-gram scan ran against the 230 earlier chapters only.** Intra-batch duplication was never in
+  scope. **Run it against all 240, including 241–250.**
+- **The 8-word sentence check did not catch a nine-word repeat, and two of the six duplicates were
+  nine words long.** The chapter's central beat landing twice will pass both gates. **Run an
+  exact-duplicate-paragraph scan at six words, and a nine-word shingle scan, intra- and cross-batch.**
+- **A rationed-construction gate was satisfied by switching to a synonym the regex does not catch.**
+  Batch 0004 reported zero uses of *nobody / no one* while using *no person* thirty times, and reported
+  zero for a construction it used seven times. **A gate that returns zero is a claim to be tested, not
+  a result to be reported. Read three sentences around every hit and ask whether the sentence would
+  survive if the construction were deleted.** The constructions that actually ran away in 0004 were
+  *He understood X perfectly. He also understood that…* and *no person / not one person* — both the
+  same failure, which is a habit of writing what is absent instead of what is on the page.
+
+**Two date corrections from the 0004 repair are live in this batch. Do not reintroduce either:**
+
+- **The dead list is the FOURTH of July, not the first.** Batch 0004 had it on the first in two
+  chapters and in `outline/volume-05.md`; all three are corrected. Canon is 0224:85 and 0227:17/:81 —
+  an account not produced at a valuation goes on the dead list on the fourth day after it, and every
+  security standing against it comes off on the day it goes on.
+- **The twenty-sixth of June was a Friday and the certificate is dated to a Saturday.** The weekend is
+  carried by the Office's sitting days, not by naming a weekday. **Chapters 241–250 name no weekday
+  but Thursday**, and the first of July is a Thursday, so the Thursday pass over the ranks wall falls
+  inside this batch.
+
 ## AFTER THE TEN CHAPTERS
 
 Update `state/current.md`, `state/continuity.md`, `state/open-threads.md` (move 0004's block into the

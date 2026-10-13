@@ -21,7 +21,7 @@ The man at the foot of the ladder was the one who had talked in the tea hut abou
 The crew worked fast. Two men up, one below, the paint cut in at the top of the ranks wall and brought down in long strokes. The wall carried the ranks in tile and the figures under them, and the Thursday pass took the week off it and laid the ground for the next.
 
 The board at the side, eleven feet of painted wood with the number 34-6-118 and a name typed small at the head line, stood untouched under its own shade.
-It was painted on the first of the month by a different crew in a different shade, before the figures, and it carried the schedule of the fourth of last month. It would be repainted on the first of next month. Today was not its day.
+Another crew had put it up on the first, in a shade of their own choosing, ahead of the figures, and on it stood the schedule of the fourth of last month. It came down for repainting on the first of next month. Today was not its day.
 
 He watched the paint go over the tile and thought about darkness. Wren Kallo had found his name on that wall with her hand in the dark on the eighteenth in about two seconds, and had told him that everything kept off the wall for five years had been kept off by darkness, and that darkness was a thing a city switched off at eleven. In daylight the wall was exact. There was no darkness on it at nine in the morning.
 
@@ -31,7 +31,7 @@ Beatrix put her hand on his arm.
 
 Low on the ranks wall, near the end where the crew had started, there was a patch where the paint went on thinner, over tile that had been touched often. It was not the pale rectangle on his landing. That rectangle was nine inches by fourteen on a stair wall at Ferrier Street, behind a nail that held nothing since the nineteenth. This was a working wall, wetted and painted every Thursday. The pass took whatever the week had left on it.
 
-He understood the rule perfectly. He also understood that a woman beside him was watching paint cover tile because she wanted to know whether a house could be painted off a wall the way a week could.
+The rule was simple enough. What he could not get past was that a woman beside him was watching paint cover tile, because she wanted to know whether a house could be painted off a wall the way a week could.
 
 "It does not take names," he said to her, low. "The man said so. A name comes off the side board with a correction. Paint takes the week."
 
@@ -63,11 +63,11 @@ Lode shifted the ladder on his shoulder.
 
 "Tell her kindly back," he said, and Lode nodded and went on with the ladder.
 
-He finished the corridor and changed the paper and wiped the tile where the cleaners signed. A woman from the third floor put her head in and asked about the second basin on the left, and he said it drained slow and he would see to it, and she thanked him and went out. He held the ordinary exchange the rest of the hour because there had been so few ordinary exchanges in June.
+He finished the corridor and changed the paper and wiped the tile where the cleaners signed. On the second floor a man he had never spoken to asked him whether the third-floor landing light was meant to be on all night, and he said it was on the same clock as the stair lamps and had been since he came, and the man said right, and went down. He held the ordinary exchange the rest of the hour because there had been so few ordinary exchanges in June.
 
 He came home at six and found Wren Kallo on the step below the sixty-one steps, sitting with a folder on her knees, not coming up.
 
-He came home at six and found Wren Kallo on the step below the sixty-one steps, sitting with a folder on her knees, not coming up. She was the eighth partner and was on no roll at any time, and she had been off the page for a volume before the eighteenth, and now she was back with a finding that went to the head of her division on the morrow.
+She was the eighth partner and was on no roll at any time, and she had been off the page for a volume before the eighteenth, and now she was back with a finding that went to the head of her division on the morrow.
 
 "You are not coming up," he said.
 

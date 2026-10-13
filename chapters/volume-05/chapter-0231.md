@@ -30,7 +30,7 @@ Ines Duarte came in at half past eight with her bag over her shoulder and her co
 
 "I am going to Cobb Street," she said. "I will be back at six."
 
-"Is there anything—" he said, and stopped, because the standing instruction in that house was that no person asked her about the schedule and no person had asked for eleven days.
+"Is there anything—" he said, and stopped, because the standing instruction in that house was that her business was not asked about, and had not been asked about for eleven days.
 
 "There is nothing you can carry for me," she said. "Go to work."
 
@@ -46,7 +46,7 @@ Lode had known about the lodged plate since the eighth. Half the landing had kno
 
 At noon he ate bread on the back step with the plate in his pocket. Plate 8,138. Floor 8,141. Three under. The numbers had not moved in five years and nothing he had done in ten days could move them. What had moved was a weight at the top of Ferrier Street that about forty operators could find, and a figure in his own hand, and a roll cut at the ruled lines.
 
-He understood the mechanism perfectly. He also understood that a woman who had not left a building in eleven years was sleeping behind a door that stayed open because there was nowhere left to write her down except a blank line that had already been counted.
+He had the mechanism whole. Behind a door that stayed open, a woman who had not left a building in eleven years was asleep, because there was nowhere left to write her down except a blank line that had already been counted.
 
 In the afternoon the washroom door opened and a woman from the third floor put her head in and asked whether the second basin on the left was draining, and he said it was draining slow and he would see to it, and she thanked him and went out. It was an ordinary exchange. He held on to it for the rest of the hour because there had been so few ordinary exchanges in June.
 
@@ -60,7 +60,7 @@ Agnete Lindqvist was in the doorway at the back with a cup in her hand. She had 
 
 "No post," he said. "Bread."
 
-He cut the bread and they ate it standing round the table because there were not enough chairs, and no person discussed anything with a form number on it, and Ines came in at half past six and ate a slice standing up and went to the room she shared with not one person and shut the door without locking it.
+He cut the bread and they ate it standing round the table because there were not enough chairs, and nothing with a form number on it was discussed, and Ines came in at half past six and ate a slice standing up and went to the room she shared alone and shut the door without locking it.
 
 After supper Sun Meiling took him out on to the landing and showed him the stitching on her pocket.
 
@@ -92,7 +92,7 @@ She wrote it down on the back of a page and read it back and nodded.
 
 "That is the first true paragraph in two days," she said. "I am keeping it."
 
-Runa Sato came in late with dust on her coat from the Field division counter at Cordwain, where she worked the returns hatch until half past three. Her hearing was on the first of next month, the same morning as the valuation and the dead list, and she had ten days of paper to get through before it.
+Runa Sato came in late with dust on her coat from the Field division counter at Cordwain, where she worked the returns hatch until half past three. Her hearing was on the first of next month, the same morning as the valuation, and the dead list followed on the fourth, and she had ten days of paper to get through before any of it.
 
 "You are counting again," she said to Nadia.
 
@@ -112,4 +112,4 @@ At ten the house settled. The stair light went off on its clock. He lay in his r
 
 He was frightened of the twenty-third. He had not said so to anyone. Wren Kallo had written up what she found in the history of his file and it went to the head of her division on the twenty-third, and when it arrived it would be read by a woman whose whole work was the question of who had held a record that had only been made smaller, and the answer was on his floor.
 
-The fear sat next to the shame and did not move it. He slept after eleven with both of them in the room, and the nail held nothing, and the rectangle stayed pale in the dark where no person could see whether it was pale or not.
+The fear sat next to the shame and did not move it. He slept after eleven with both of them in the room, and the nail held nothing, and the rectangle stayed pale in the dark, and the dark did not care whether it was pale or not.

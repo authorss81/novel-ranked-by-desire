@@ -16,13 +16,31 @@ The whole house watched, because a head's hand was about to move and everyone in
 
 Sun looked at him. Petra looked at the slip and not at him. Runa had her pencil ready to write the hour. Ines was not in the room. She had gone to Lantern Row at seven and had left word she would be back at six.
 
-He took the pen. The slip took a name and nothing else. His hand shook once, then steadied. He wrote his name in his own hand, with the date under it, and the man blotted it and tore the slip along its perforation and gave him the copy. It took about eleven seconds. The pen was ordinary. The book was ordinary. The porch light from the stair window fell on the page and showed the fibres in it.
+He took the pen. The slip asked for a name. His hand shook once, then steadied. He wrote his name in his own hand, with the date under it, and the man blotted it and tore the slip along its perforation and gave him the copy. It took about eleven seconds. The pen was ordinary. The book was ordinary. The porch light from the stair window fell on the page and showed the fibres in it.
 
 He looked at the fibres while the ink dried, because looking at fibres was easier than looking at the room. When it was done the certificate was no longer a paper that had arrived. It was a paper that had been received. The difference lived in his hand. His third act in his own hand. Plate pledged. Six written. Receipt signed. Each had closed an option. Each had cost something real.
 
-The first had cost him the standing of not standing on anything. The second had cost him being a man whose answers were all true. This one cost him the right to say the certificate was not his to answer for.
+The first had cost him the standing of not standing on anything.
 
-It took about eleven seconds. When it was done the certificate was no longer a paper that had arrived. It was a paper that had been received. The difference lived in his hand.
+The second had cost him being a man whose answers were all true.
+
+This one cost him the right to say the certificate was not his to answer for.
+
+The slip had one more line under the signature, and the man turned the book round so that he could read it. Object or remark. None. It was the ordinary line on the ordinary form, and he read it the way he had read the certificate.
+
+He could have put a sentence in it. That was the entire purpose of the line, and nothing would have stopped him, because a remark is a remark and divisions file remarks without moving anything.
+
+He said nothing. The man waited the length of a breath, blotted ink that was already dry, and squared the stub back into the book with his thumb. That blank was his. It was the same shape as the blank a district officer had left on the third of this month, and it would go into a file with his name at the top of it, and that kitchen could not say afterwards that he had not been given the chance.
+
+"They had a line for it," Sun said. "Object or remark. I saw it. He did not write on it."
+
+"He could have written whatever he liked," Petra said. "That is what a remark is. Divisions file remarks and move nothing, and it costs the office nothing whatever." She looked at him across the table with the flat look she had used on counters for eleven years. "You had one sentence, and you had it the whole time he was standing there with the pen."
+
+He had. He had had it ready since the twenty-seventh and had been carrying it about in his coat like something saved for a fight.
+
+"Then it is on the receipt," he said.
+
+"It is on the receipt," Sun said, "and it is in your own hand, and there is no line anywhere in this city that you can put it back on."
 
 The man closed the book and went down the sixty-one steps without looking at the nail or the pale rectangle. The house listened to him go.
 
@@ -34,11 +52,13 @@ Petra nodded. She had carried a hundred and thirty-two dockets for eleven years 
 
 "A number that finds you," she said. "That is what a certificate is. Before it you had to be looked for. Now you can be found without anyone looking."
 
-Runa wrote the hour in her book. Nadia set down which list each paper belonged to. Six on the board, of the schedule of the fourth of last month carried forward. Six on the certificate, off the cut roll. Six on the receipt, in his hand this morning. Seven in the index, of returned lines. Six and a blank on the district return.
+Runa wrote the hour in her book. Nadia set down which list each paper came off, which by that afternoon she could do without stopping to think about it, the way she had learned it in June.
 
 Beatrix stood on the stair and listened to the writing stop.
 
-At ten he went to work because there was nothing else to do with a received paper. The Fourth Branch washroom had its ordinary exchanges. A woman asked about the second basin. Lode asked about the valve. He mopped and wiped and changed the paper, and at noon he ate bread on the back step with the receipt copy in his pocket next to the head line of the cut roll. The step was warm from the sun.
+At ten he went to work because there was nothing else to do with a received paper. The Fourth Branch washroom had its ordinary exchanges. A woman from the fourth floor asked whether the hot water on the second landing had been off on purpose overnight, and he said it had not been off, it had been cold, and he would chase the boiler, and she said she was only reporting it, and went down.
+
+He mopped and wiped and changed the paper. At noon he ate bread on the back step with the receipt copy in his pocket next to the head line of the cut roll. The step was warm from the sun.
 
 The yard clattered. For ten minutes no paper moved anywhere in his life. He held the ten minutes the way Beatrix held a tram seat, with gratitude and both hands. Then he went back in and finished the corridor, and Lode nodded to him on the stairs, and the nod said everything the landing knew and would never put in a book.
 
@@ -56,7 +76,7 @@ He came home at six and found Tessa at the kitchen table with her day book open.
 
 "I am doing it on the morrow," she said to the room. "Not tonight. On the morrow the certificate is a day old and the receipt is in. My entry goes into the lines as a clinic, not a person. It will be counted. It will put a hundred and sixty thousand visits a year into somebody's question. I have sat with it since the sixteenth and I am doing it."
 
-Not one person argued. The certificate had changed what waiting bought.
+The arguing stopped. The certificate had changed what waiting bought.
 
 In the evening Agnete came out and stood in the doorway a long time looking at the certificate and the receipt side by side. She did not come closer. Her discipline was not letting a room take testimony, and a room with two certified papers in it was a room that wanted to take one.
 
@@ -76,6 +96,6 @@ She ate standing in the doorway, with the door open behind her.
 
 "Thank you," she said. "You signed for a house that is not true to keep a woman off a line. I know what it cost. A man whose answers were all true is now a man with three papers in his own hand that agree with each other and not with the office that holds him."
 
-He nodded. He understood her perfectly. He also understood that she was the person the certificate would cost most, because a certified instrument in her address meant someone was now entitled to ask what was at it, and she was the thing at it that had never been written.
+He nodded. She was the person the certificate would cost most. A certified instrument in her address meant somebody was entitled to ask what was at that address, and she was the thing at it that had never been written down.
 
 At nine the house settled. He lay down with the receipt and the head line both in his coat pocket, two papers in his own hand that could not be given back, and the certificate stayed on the table in the dark, received and answerable, waiting for whoever was now entitled to ask.

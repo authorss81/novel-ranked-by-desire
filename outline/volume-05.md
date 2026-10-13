@@ -141,7 +141,12 @@ answer takes the better answer and rewrites this file in the same commit.**
    eleven on the twenty-sixth, an hour after the certification schedule went up at ten.** Wren
    Kallo's finding reaches Hadewig Mers on the twenty-third and becomes a division's file. **The
    lead's third act in his own hand is the receipt (238): plate pledged, six written, receipt signed.
-   The option that closes is the right to say the certificate is not his to answer for.** This
+   The option that closes is the right to say the certificate is not his to answer for. **Set on the
+   Batch 0004 repair pass and now the sharpest thing in the batch: the return slip carries a printed
+   line under the signature for an object or a remark, and he leaves it blank in front of the whole
+   household. That blank is the same shape as the blank a district officer left on the third of this
+   month, it goes into a file with his name at the top of it, and he can never say afterwards that he
+   was not given the chance.** This
    batch's anger is Runa Sato's and its quiet is Agnete's. Tessa's clinic is entered on the
    thirtieth. **Ines says on the thirtieth that she is going to an office with a door on it, in
    writing, with a reason, in the way it is done — without saying which — and she has still not
@@ -197,7 +202,8 @@ asked about out loud and which Petra Ilyin has twice now said on the page that s
 Vey's name in the record · the desk's four-line note that is a lie · the classification paper dated the
 nineteenth · the ninth of September · the broken price · Sun Meiling's February · the leak ·
 **Agnete Lindqvist's eleven years indoors** · **Ines Duarte's review** · Runa Sato's hearing ·
-**Beatrix Halm's hearing, which is on the first of July alongside the valuation and the dead list** ·
+**Beatrix Halm's hearing, which is on the first of July alongside the valuation, the dead list following
+on the fourth** ·
 Wren Kallo's held name · Beatrix Halm's eleven burned months · the bare slot on the Reading wall and the
 name that is going into it · **Solveig Rask and the annual sitting** · **Petra Ilyin's promise, and the
 hundred and thirty-two dockets** · **whether a lodged standing can be called before the book changes
@@ -250,20 +256,29 @@ each used once in this volume and are spent for it.
 
 ## 10. Title bank, 231–250 (Batch 0004 taken, 241–250 free)
 
-Names, not summaries, unique across all 230 written titles. **Batch 0003 took The Weight At The Top ·
+Names, not summaries, unique across all 240 written titles. **Batch 0003 took The Weight At The Top ·
 Seven Where It Says Six · What The Division Did Not Tell · Six Persons Of Reading Age · A Bench Under
 The Wall · Nothing Moved In It · The Space At The Foot · The Shape Of An Edit · The Roll Comes Down ·
 The Twenty-Sixth.**
 
-**Taken by Batch 0004 (checked against all 240 written titles, no collisions): The Empty Room, What The Board Carries, Named In A Third Line, The Recital, Two Working Days, The Bare Line, The Account Remains Open, A Number That Finds You, The Frame And Her Hand, An Office With A Door On It. Free for 241–250: The Empty Room · The Plaster Hat · What The
-Board Carries · Named In A Third Line · The Recital · Two Working Days · The Bare Line · A Number That
-Finds You · The Man In The Plaster Hat · The Account Remains Open · The Frame And Her Hand · An Office With
-A Door On It · The First Valuation · Nobody Lived Here · What She Filed · The Report That Is True · The
-Room She Left · What The Book Is Worth · Rank One · What Was Owed To Whom · The Second Reading Room ·
-Returned, Unspent · The Nail · Nine Inches By Fourteen · The Hundred And Thirty-Third · The Lamp Goes Off At
-Eleven · The Counter-Signature · What She Wrote On The Third · Two Officers With A Conflict · The Clerk At
-Half Past One · The Line She Left Blank · A Quarter Of Eight · The Day Book · What Two Divisions Hold ·
-The Ninth Of September · The Division Does Not Sit · The Figure In The Foot Of A Column · A Copy In Three
-Places · The Coat That Is Not Hers · Under Two Lamps.**
+**TAKEN BY BATCH 0004 — do not reuse, all ten are on the page** (checked against all 240 written titles,
+no collisions): **The Empty Room** (231) · **What The Board Carries** (232) · **Named In A Third Line**
+(233) · **The Recital** (234) · **An Hour Late** (236; drafted as *Two Working Days* and withdrawn on
+review — the twenty-sixth is a Friday and the certificate is dated to a Saturday, so "two working days"
+was never true) · **The Bare Line** (235) · **The Account Remains Open** (237) · **A Number That Finds
+You** (238) · **The Frame And Her Hand** (239) · **An Office With A Door On It** (240).
 
-**Struck from the bank on this pass: Nobody Lived Here (carries the batch-rationed word).**
+**FREE FOR 241–250 ONLY — taken titles above are struck out and must not be re-issued:** ~~The Empty
+Room~~ · The Plaster Hat · ~~What The Board Carries~~ · ~~Named In A Third Line~~ · ~~The Recital~~ · ~~Two
+Working Days~~ (withdrawn) · ~~The Bare Line~~ · ~~A Number That Finds You~~ · The Man In The Plaster Hat
+· ~~The Account Remains Open~~ · ~~The Frame And Her Hand~~ · ~~An Office With A Door On It~~ · The First
+Valuation · ~~Nobody Lived Here~~ (struck: carries the batch-rationed word) · What She Filed · The Report
+That Is True · The Room She Left · What The Book Is Worth · Rank One · What Was Owed To Whom · The
+Second Reading Room · Returned, Unspent · The Nail · Nine Inches By Fourteen · The Hundred And
+Thirty-Third · The Lamp Goes Off At Eleven · The Counter-Signature · What She Wrote On The Third · Two
+Officers With A Conflict · The Clerk At Half Past One · The Line She Left Blank · A Quarter Of Eight · The
+Day Book · What Two Divisions Hold · The Ninth Of September · The Division Does Not Sit · The Figure In
+The Foot Of A Column · A Copy In Three Places · The Coat That Is Not Hers · Under Two Lamps.
+
+**Two new names may be coined for 241–250 and must be entered here with a collision check against all
+240 written titles. "An Hour Late" was coined on the Batch 0004 repair pass and is the precedent.**

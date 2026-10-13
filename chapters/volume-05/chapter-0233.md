@@ -15,7 +15,7 @@ At six he came home and found the kitchen full and Wren Kallo gone from it. Beat
 
 "Good," Beatrix said. "A step is not a room. Let her have it."
 
-Sun Meiling had it out by half past six, because she had been awake since five doing what she did, which was to hold four things up at once and see which one had a shape.
+Sun Meiling had it out before he had finished wiping the tile, because she had been at it since five and had it in a shape by six, and she said the shape out loud in the corridor while he worked, which was a thing she had started doing and had not told anybody she was doing.
 
 "She sent it," Sun said. "A clerk at Cobb Street saw her go in with a folder at ten and come out without it. It is on the head's desk. From tonight it is a division's file about a man whose record has only ever been edited downward."
 
@@ -23,18 +23,17 @@ Petra Ilyin sat with her bag squared against her feet. She had carried the fourt
 
 "What does the head do with a finding like that," Runa asked.
 
-"She reads it," Petra said. "The head of counter-forensics is a woman called Hadewig Mers. She has been in that division since the Veil broke.
+"She reads it," Petra said. "The head of counter-forensics is a woman called Hadewig Mers. She has been in that division since the Veil broke. She does not hurry.
 
-She does not hurry.
-A finding about four removals and no addition in five years is a question about who has had access, and the first thing she does is pull the index entry that has six on it in his hand, and the second is pull the correction with Wren's name at the foot, and the third is to ask no person anything for three days."
+"A finding about four removals and no addition in five years is a question about who has had access," Petra said. "The first thing she does is pull the index entry that has six on it in his hand. The second is pull the correction with Wren's name at the foot. The third is to ask nobody anything for three days."
 
 "Three days," Sun said. "The schedule goes up in three days."
 
 Marguerite Vale looked up from the thirteenth docket on the table. She held the book that would take the hundred and thirty-third mark on the first of next month at nine in the morning, and Petra would stand at the bottom of the sixty-one steps at ten to nine with a bundle under her arm.
 
-"Then we have three days where it sits," Marguerite said. "A paper that sits is a paper no person has to answer."
+"Then we have three days where it sits," Marguerite said. "A paper that sits is a paper that has not answered anybody yet."
 
-Ines Duarte came in at seven with her coat on and her bag over her arm and listened without sitting down. She had not asked to be removed and no person in that house had asked her about it, and the notice of the ninth with her name in the third line was on the table under a salt dish.
+Ines Duarte came in at seven with her coat on and her bag over her arm and listened without sitting down. She had not asked to be removed and had not been asked about it, and the notice of the ninth with her name in the third line was on the table under a salt dish.
 
 "What is on the finding," Ines said to the room. "Exactly."
 
@@ -66,7 +65,7 @@ He opened it at the table with the whole house watching. It was a copy of the co
 
 "Because the index is the only complete version," Petra said. "And because from the seventeenth every office that asked has one. Someone wants him to know what they hold."
 
-Nadia wrote it down in her book. Six women with an address at Ferrier Street. Seven lines in an index. Six on a sworn page. One blank left on the third. She wrote which list each figure belonged to beside it, because a sentence that could not say which list was rewritten in that house.
+Nadia wrote it down in her book and then rewrote it, because in that house a sentence that could not say which list a figure came off was a sentence that got torn up and started again. It took her most of a minute and she did it twice.
 
 At nine Agnete Lindqvist came out of the back room with a cup and stood in the doorway. She had slept in the building for eleven years and was on no list of any kind, and the door stayed open.
 
@@ -74,9 +73,9 @@ At nine Agnete Lindqvist came out of the back room with a cup and stood in the d
 
 "I am thinking about a desk," he said.
 
-"Do not go to it," she said. "A desk that has just got a paper is a room where no person can hear you yet. Wait until there is a person in front of it."
+"Do not go to it," she said. "A desk that has just got a paper is a room where nothing can reach you yet. Wait until there is a body sitting in front of it."
 
-He nodded. He understood the counsel perfectly. He also understood that she had spent eleven years learning when a room could take testimony and when it could not, and that she was giving him the one piece of her discipline she could give without leaving the doorway.
+He nodded. Do not go to a desk that has just got a paper. She had spent eleven years learning the difference between a room that could take testimony and a room that could not, and she was handing him the whole of it from the doorway without ever coming into the room herself.
 
 Before that, at eight, Tessa had taken him aside on the landing with her hands still smelling of the hatch. Nine years of a quarter of eight had taught her to say a hard thing plainly and then stand beside it.
 

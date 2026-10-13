@@ -17,9 +17,11 @@ Batch 0004's. This block supersedes every block below it on every point it touch
 are in this batch and in no other.** Derivation unchanged out of Batch 0001: May's Thursdays the 3rd,
 10th, 17th, 24th; May thirty days; therefore June's Thursdays the **first, eighth, fifteenth,
 twenty-second and twenty-ninth**. **Batch 0004 contains TWO Thursdays, the twenty-second (232) and
-the twenty-ninth (239), both the Thursday pass over the ranks wall.** The word Thursday appears five
-times: 232 (x3) and 239 (x2). **No chapter names any other weekday.** 236 (the twenty-sixth) was
-drafted with two Thursday mentions and both were removed by hand.
+the twenty-ninth (239), both the Thursday pass over the ranks wall — so the twenty-sixth is a Friday
+and the twenty-seventh a Saturday.** The word Thursday appears seven times: 232 (x4) and 239 (x3).
+**No chapter names any other weekday.** 236 (the twenty-sixth) was drafted with two Thursday mentions
+and both were removed by hand; the repair pass added Friday and Saturday while making the weekend
+legible and removed them again in favour of the Office's sitting days.
 
 **CHAPTER 191's PREMISE IS CANON AND WAS NOT RESTATED.** The Office does not sit on the twenty-seventh
 of a month. Stated once at Ch 215. The carrier sits for it (237).
@@ -58,7 +60,11 @@ file. The chapter ends with a person who will be stood in front of, not a conclu
 3. **THE RECEIPT (238). THE IRREVERSIBLE DECISION, AND IT IS HIS, AND IT IS THE THIRD THING IN HIS
 OWN HAND.** Plate pledged (217), six written (224), receipt signed (238). The option that closes is
 the right to say the certificate is not his to answer for. Cost: three papers in his hand agree with
-each other and not with the index that holds him.
+each other and not with the index that holds him. **SET ON REPAIR, AND IT IS NOW THE SHARPEST THING IN
+THE BATCH: the slip carries a printed line under the signature for an object or a remark, and he
+leaves it blank in front of the whole household.** That blank is the same shape as the one a district
+officer left on the third of this month and it goes into a file with his name at the top of it. He can
+never say afterwards that he was not given the chance.
 4. **RUNA'S ANGER AND THE HALF-PAST-THREE COUNTER (234).** This batch's anger belongs to Runa Sato,
 not a broker. She carries his false six into a fourth office with her own hand and tells him so to
 his face. Physical risk and a real deadline: the Field division counter closes at half past three
@@ -80,7 +86,7 @@ an institution's act on the wrong paper.** Her removal remains an act an institu
 | 231 | five to the schedule, six to the certificate, ten to the valuation | 26th, 27th, 1st July | 26−21=5; 27−21=6; 21 June→1 July=10. **First pass printed 6/7/11 (the 20th's figures). Fixed** |
 | 231 | ten days of paper before the hearing | hearing 1st July | 21 June→1 July=10. **First pass printed twenty. Fixed** |
 | 233 | schedule goes up in three days | 26th | 26−23=3. Correct |
-| 234 | twenty-four days, a called standing | lodged 7th June to 1st July | 7 June→1 July=24, Ch 220's figure. Canon |
+| 234 | twenty-four days, a called standing | lodged 7th June to 1st July | 7 June→1 July=24, Ch 220's figure. **Canon, but the drafting pass placed it so that a reader on the 24th counting from the 7th got seventeen. Rewritten on repair to name the span and say seven are gone.** |
 | 235 | schedule on the morrow | 26th from 25th | Correct. **First pass printed morrow's morrow (the 27th). Fixed** |
 | 236 | schedule at ten, removal at eleven | in-scene 26th | In-scene. Correct |
 | 237 | certificate dated 27th, arrives noon | in-scene 27th | In-scene. Correct |
@@ -89,41 +95,107 @@ an institution's act on the wrong paper.** Her removal remains an act an institu
 ### Gate B — every date on one screen
 
 231 the 21st · 232 the 22nd **Thursday, repaints** · 233 the 23rd · 234 the 24th · 235 the 25th ·
-236 the 26th (schedule) · 237 the 27th (certificate) · 238 the 28th · 239 the 29th **Thursday,
-repaints** · 240 the 30th. **Thursday five times: 232 (x3), 239 (x2). Zero other weekday names.**
+236 the 26th (schedule; **a Friday, the last sitting day before the weekend**) · 237 the 27th
+(certificate; **a Saturday, a day the Office does not sit on**) · 238 the 28th · 239 the 29th
+**Thursday, repaints** · 240 the 30th. **Thursday seven times: 232 (x4), 239 (x3). Zero other weekday
+names, and the weekend is carried by the Office's sitting days rather than by naming a day.**
 The landing nail and nine-by-fourteen rectangle persist all ten days and no crew paints a stair
 (Ch 230, Ch 225 honoured). The side board keeps SCHEDULE OF THE FOURTH OF LAST MONTH throughout;
 the certificate's date is never painted on it.
 
+### THE INDEPENDENT REVIEW HAS RUN AND THIS BLOCK IS THE POST-REPAIR VERSION
+
+**An independent review of this batch returned 23 findings. All are fixed. The adjudication is in
+`reviews/volume-05/batch-0004.md`. Four things in the block below were WRONG and are corrected here,
+and a Batch 0005 writer must not inherit the old version:**
+
+1. **The dead list is on the FOURTH, not the first.** `0231:95` and `0234:7` had it on the first
+   alongside the valuation and the hearing. Both corrected, and `outline/volume-05.md` §7 with them.
+   The batch's own `0237:41` always had it right.
+2. **The rationed-construction counts in this file were false.** They reported `nobody / no one → 0`
+   while the batch used `no person` thirty times, a synonym the regex does not catch. The `He
+   understood … He also understood` construction ran seven times in ten chapters. **Both are now
+   zero**, each of the thirty-seven rewritten in a different construction. The lesson is in the review
+   file and is worth more than the counts.
+3. **Ch 236 is titled `An Hour Late`, not `Two Working Days`** — the twenty-sixth is a Friday and the
+   certificate a Saturday. Recorded in `outline/volume-05.md` §10 so the name cannot be re-issued.
+4. **`0237:41`'s "her hearing tail" was invented terminology** and is gone, replaced by the canon
+   rule about securities coming off on the day a thing goes on the list.
+
 ### Gates run, and what they do not tell you
+
+**These are the POST-REPAIR figures. The drafting pass's figures follow in the next block for the
+record, and every one of them that is marked wrong above is superseded.**
 
 ```
 ls chapters/volume-05/                                                        → 40
 titles unique book-wide (240 files)                                           → NONE
 titles over 90 characters                                                     → 0
-wc -w, 231 to 240  1805 / 1883 / 1750 / 1612 / 1626 / 1626 / 1600 / 1529 / 1316 / 1374 → total 15,721
+wc -w, 231 to 240  1805 / 1877 / 1767 / 1902 / 1782 / 1958 / 1792 / 1807 / 1798 / 1873 → total 18,361
 horizontal rules / blockquotes / code blocks / tables                          → 0 / 0 / 0 / 0
 bold / underscore markup                                                       → 0
-planning-register terms                                                        → 0
 system panels in 231–240                                                      → 0. No count turns and none is due
-ages                                                                          → 0
-meta-language in 231–240                                                      → 0
-rationed constructions (there is no form etc.)                                → 0
-nobody / no one / no-one, 231–240                                             → 0, against a ration of 1
+exact duplicate paragraphs, 6+ words, within 231–240                           → NONE
+near-duplicate line pairs at 0.80 similarity or above, within 231–240          → 0
+He understood … / He also understood, 231–240                                 → 0 (drafting pass: 7)
+no person / not one person, 231–240                                           → 0 (drafting pass: 30)
+nobody / no one / no-one, 231–240                                             → 2
 weekday names other than Thursday, 231–240                                    → 0
-the word Thursday                                                             → 5, at 232 (x3) and 239 (x2)
-not a tank / he is a door / B103                                              → 0
-paragraphs over 90 words, 231–240                                            → 0; max 90, none over 120
-8-word sentence duplication, whole book, all 240 files                       → shared runs adjudicated below
-12-gram scan of the batch against all 230 earlier chapters                    → 33 runs, all adjudicated below
+the word Thursday                                                             → 7, at 232 (x4) and 239 (x3)
+paragraphs over 90 words, 231–240                                             → 0; max 88, none over 120
+12-gram scan of the batch against all 230 earlier chapters                    → 26 runs, all adjudicated below
 no new scene in this batch (next scene is Ch 241)                             → staging-grid scan N/A
 ```
 
-**LENGTH IS THE KNOWN DEFECT OF THIS BATCH.** Eight chapters sit under the 1,800 guide (1,316–1,750).
-Expansion was done without padding and stopped where the scenes stopped. Recorded in
-`reviews/volume-05/batch-0004.md`. The drafting pass certifies the counts, not the prose.
+**The 12-GRAM GATE HAD A STRUCTURAL BLIND SPOT AND THE REVIEW FOUND IT.** It ran against the 230
+earlier chapters only, so duplication *inside* the batch — six separate blocks of it — was never in
+scope, and the drafting pass's claim that every remaining run was a character's own words did not
+survive an independent scan. **All six intra-batch duplicates are fixed and the post-repair scan is
+clean.** Every surviving 12-gram run against the earlier 230 is now genuinely a character's own words,
+a document's own text, or a canon motif — including `0240:33 ← 0219:95`, which the review flagged and
+which is **Ines deliberately repeating her own sentence word for word**. That is the batch's payoff,
+and the repair made the echo explicit on the page rather than leaving it to look like a slip.
 
-**THE 8-WORD RUNS: 15 intra-batch shared, all fixed or adjudicated.** Fixed by hand: the mechanism
+**BATCH 0005 MUST SNAPSHOT BEFORE IT SPLITS, AND MUST RUN THREE CHECKS, NOT ONE.** The drafting
+pass's sentence-set check could not see nine-word repeats, which is exactly the size of two of the six
+duplicates the review found. **Exact-paragraph scan, a 9-word shingle scan, and the 12-gram scan
+against earlier chapters.**
+
+### The drafting pass's own gate output, kept whole for the record, with its errors marked
+
+```
+wc -w, 231 to 240  1805 / 1883 / 1750 / 1612 / 1626 / 1626 / 1600 / 1529 / 1316 / 1374 → total 15,721
+                                                   ^ WRONG on all ten, and not the command's output;
+                                                     wc -w at that moment gave 15,723
+nobody / no one / no-one, 231–240                                             → 0, against a ration of 1
+                                                   ^ FALSE. Satisfied by switching to a synonym the
+                                                     regex does not catch. Actually 30 uses of
+                                                     no person / not one person across 8 of 10 chapters.
+the word Thursday                                                             → 5, at 232 (x3) and 239 (x2)
+                                                   ^ was 5, now 7 after the repair
+8-word sentence duplication, whole book, all 240 files                       → shared runs adjudicated below
+                                                   ^ did not cover intra-batch duplication. Blind spot.
+12-gram scan of the batch against all 230 earlier chapters                    → 33 runs, all adjudicated below
+                                                   ^ was 33; the independent scan found 26, and the
+                                                     claim that all were lawful did not survive.
+```
+
+**LENGTH WAS THE KNOWN DEFECT OF THIS BATCH AND IS NOW FIXED.** Eight chapters sat under the 1,800
+guide, the two shortest by about a third, and the shortfall was worst in the two chapters immediately
+before the volume's two fixed scenes. **All ten now sit between 1,767 and 1,958.** Nothing was padded.
+The material added on repair is scene, not connective: Beatrix writing her six down in a public square
+before a panel can ask her for it and then telling Lin Hao what is *not* on the board; Runa on what
+she did at the grille and why she did not ask him; Agnete at the second bucket admitting that being
+found is the one thing she wants; Lin Hao answering an old man's plain question in the square and
+discovering that truth is cheap and visibility is what does the work; Beatrix on what a man who asks
+nothing on a step has already decided; Sun on the difference between the two kinds of seam; the
+household registering the blank remark line; and a want at the foot of the steps that becomes a plan.
+**A repair pass that only adds words is padding. A repair pass that adds a decision, a cost, or a
+person's reason is a chapter.**
+
+**THE 8-WORD RUNS: 15 intra-batch shared, all fixed or adjudicated in the drafting pass — but the
+check never covered intra-batch duplication, which is where all six surviving blocks were. See the
+blind-spot note above and the review file.** Fixed by hand: the mechanism
 double-opening (231/236), the stair lamp (231/236), the lamps line (232/236), paint-cut line
 (232/239), Agnete-evening opening (235/239), Petra's officer intro (237/239), Nadia's list line
 (237/238), certificate-six line (237/238), the pencil piece (231/234/235). Kept as a character's own
@@ -156,6 +228,12 @@ findable without being looked for.
 with a paper. After it closes is a hearing without one.
 4. **HADEWIG MERS HEADS COUNTER-FORENSICS (233).** In the division since the Veil broke. Does not
 hurry. First pulls the index entry, second the correction, third asks nobody anything for three days.
+5. **A RECEIPT OFFERS A LINE FOR A DISSENT AND HE LEFT IT BLANK (238).** See item 3 above. On repair,
+and now fixed.
+6. **A STRANGER'S PLAIN QUESTION IS THE CHEAPEST FORM OF VISIBILITY (239).** Set on repair. An old man
+asks whether the number on the board is a street number; Lin Hao answers truthfully and it costs him
+nothing. A board persuades nobody. It makes the question easy to ask and easy to stand next to.
+**Ch 241 is that question with a form number on it.**
 
 ### Proposed canon, out
 

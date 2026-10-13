@@ -4,9 +4,9 @@ Runa Sato was angry on the twenty-fourth, and she had a right to be, and the hou
 
 He came home at half past twelve to fetch a book Nadia had left at the washroom and found Runa at the kitchen table with a hearing paper spread in front of her and a pencil snapped in two beside it.
 
-Her hearing was on the morning of the first of next month at the Field division, the same morning as the valuation and the dead list, and the paper asked for her standing and her instrument and her entitlement, and the standing of a standing household was the standing of its highest member, which was not hers.
+Her hearing was on the morning of the first of next month at the Field division, the same morning as the valuation, and the paper asked for her standing and her instrument and her entitlement, and the standing of a standing household was the standing of its highest member, which was not hers.
 
-"I cannot answer it," she said without looking up. "Every entitlement I bought in May with this household's standing behind it is unpayable from the seventh until the first of next month because a called standing cannot be drawn against. Twenty-four days. I bought a seat on a tram line and a pair of boots and I cannot pay for either until a book changes hands."
+"I cannot answer it," she said without looking up. "Every entitlement I bought in May with this household's standing behind it is unpayable while a called standing cannot be drawn against, and that runs from the seventh of this month to the first of next. Twenty-four days, and I have spent seven of them with nothing to put against it. I bought a seat on a tram line and a pair of boots and I cannot pay for either until a book changes hands."
 
 He felt the heat of her anger across the table. He had not heard her angry in five volumes. Marguerite's anger had been cold and Sun's had been at herself. This was different. This was a field operative who hated that paperwork outranked her on paper.
 
@@ -24,7 +24,9 @@ They went down the sixty-one steps at one o'clock with a bundle of six sheets un
 
 He took it without answering, because there was nothing to say that was not on the page already. The fourth page had gone in on the sixteenth and been indexed on the seventeenth, and Ines had read it standing up and asked him one question and gone up the stairs.
 
-"You kept her off a line," Runa said. "A woman eleven years indoors. I know why. If a name goes on that line the Office has her. If no name goes the Office has seven anyway. You chose the version where the lie is yours. I am angry because it was the right choice and it still puts my name on a false page."
+"You kept her off a line," Runa said. "A woman eleven years indoors. I know why. If a name goes on that line the Office has her. If no name goes the Office has seven anyway.
+
+"You chose the version where the lie is yours. I am angry because it was the right choice and it still puts my name on a false page."
 
 They reached the Cordwain tram with four minutes to spare and rode it standing with the bundle between them. At the Field division the queue was out of the door and turning at the corner, and the counter clock showed twenty past three.
 
@@ -46,19 +48,27 @@ The clerk wrote six in the foot of the sheet and pushed it back with a slip. The
 
 Outside on the step Runa sat down suddenly on the second stair and put her face in her hands for about ten seconds. He stood over her with the bundle under his arm and did not touch her, because a field operative did not want a hand on a division step.
 
+She had known what she was doing when she said six. That was the thing he kept turning over on the tram. There had been no hesitation in it, no look at him for permission, no arithmetic at all.
+
+She had stood at a grille and put a number she had known was short into a clerk's mouth in front of a queue, at twenty-eight minutes past two with ninety seconds left, and she had done it the way a woman puts down a heavy crate. Both hands, straight back, and no expression at all on her face while it went.
+
+He had had about two seconds to do something about it. The third sheet was still in her hand. If he had put his own face into it, or said a number of his own, or asked her once, loudly, in front of the grille, the thing that had just gone into a division would not have gone into it.
+
+He had watched her shoulders come up under the strap and he had said nothing at all, and there was no version of the walk home where that was anybody else's fault.
+
 "Done," she said, standing up. "It is in. My hearing has a paper. It carries your false six into a fourth office and I am now answerable for a number I know is short."
 
 "I am sorry," he said.
 
-"Do not be sorry," she said, and her anger was gone as fast as it had come, leaving tiredness. "Be at the first. Be at the bottom of those steps at ten to nine if Marguerite wants you. Be where Petra tells you. Sorry is not an instrument."
+"Do not be sorry," she said, and her anger was gone as fast as it had come, leaving tiredness. "You should be at the first. You should be at the bottom of those steps at ten to nine if Marguerite wants you. You should be where Petra tells you. Sorry is not an instrument, and neither is what you just did, so do not spend the afternoon on it."
 
 They walked back slow. On the tram she leaned against the window and fell asleep for three stops with her head tipped back, and he watched the streets go past and felt tenderness for her that had nothing to do with wanting. She had carried his lie into a fourth office without flinching.
 
-At Ferrier Street she stopped at the bottom of the sixty-one steps and looked up.
+They came off the tram at Ferrier Street, and she stood in the road at the foot of the sixty-one steps and looked up at the house she would go into, and neither of them said anything about the fact that she had just made his lie a document in a fourth office.
 
 "One thing," she said. "Tessa is going to enter her clinic into the returned lines. It is going into the lines as of the twelfth of this month, when a returned line became a person. If she does it before the twenty-sixth it sits with your six in the same office. Tell her to wait until after. That is not an order. That is arithmetic."
 
-He nodded. He understood the counsel perfectly. He also understood that she had just given him the one thing she had that no person else in the house had, which was the view from a counter that closed at half past three.
+He nodded. What she had given him in a sentence on a landing was the one thing in that house that could not be got any other way, which was the view from a counter that shut at half past three.
 
 They climbed the steps together. The nail held nothing. The rectangle stayed pale. In the kitchen Nadia wrote down that Runa's answer was in, with the hour on it, and Runa ate bread standing up and went to sleep at eight with her boots by the door.
 
@@ -68,7 +78,7 @@ Before she slept Runa called him to the stair and spoke low, with the anger gone
 
 "You should not carry it for me," he said.
 
-"I am not carrying it for you," she said. "I am carrying it because I live here. Six women with an address at this street. Seven women on the cut roll. The pencil row in her sewn pocket. One woman on no roll. One on nothing. One behind a door. Say which list every time or rewrite the sentence. That is the discipline now."
+"I am not carrying it for you," she said. "I am carrying it because I live here. And the rule that goes with it is this. Six on the board is six of a schedule. Seven in the index is seven of returned lines. Those are not the same figure and this office is going to spend the whole of July treating them as though they were. Say which list every time or rewrite the sentence. That is the discipline now."
 
 She went in and shut the door without locking it. He stood on the landing with his thumb in the cold rectangle and thought about the clock at the Field division, one minute to the half hour, and the clerk's hand writing six in the foot of a sheet. A counter that closed at half past three was a kinder thing than a division that never closed. It told you when you were late.
 

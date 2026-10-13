@@ -2,6 +2,25 @@
 
 ## Volume 5, Batch 0004 — CLOSED (Chapters 231–240). **THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.** BOTH DATES ARE ON THE PAGE.
 
+> **REPAIRED ON INDEPENDENT REVIEW — READ THIS BEFORE INHERITING ANYTHING BELOW.** An independent
+> review returned 23 findings; all are fixed and the adjudication is in
+> `reviews/volume-05/batch-0004.md`. **Five things in this block were wrong and are corrected here, and
+> a later writer must not inherit the old version:**
+> 1. **The dead list is on the FOURTH, not the first.** `0231:95` and `0234:7` had it on the first
+>    alongside the valuation. Corrected in both, and in `outline/volume-05.md` §7.
+> 2. **`0237:41`'s "her hearing tail" was invented terminology with an ambiguous referent.** Replaced
+>    with the canon rule: on the day it goes on the list, every security standing against it comes off.
+> 3. **Ch 236 is now titled `An Hour Late`, not `Two Working Days`.** The twenty-sixth is a Friday and
+>    the certificate is dated to a Saturday. The weekend is now legible **in the Office's sitting
+>    days and not in weekday names**, so the rule below still holds: the batch names no weekday but
+>    Thursday.
+> 4. **Runa's twenty-four days of frozen entitlement** is the span from the seventh to the first, of
+>    which seven are gone by the twenty-fourth. Do not let it read as a remaining count.
+> 5. **The claim that this batch used no rationed absence-constructions was false.** `no person` /
+>    `not one person` ran thirty times and `He understood … He also understood` seven times. Both are
+>    now zero. The drafting pass satisfied a regex by switching synonyms; a later writer must not do
+>    that, and the underlying habit is the thing to watch.
+
 **Ten chapters written against the batch prompt, entered at Chapter 231 on the twenty-first of June
 and running to the thirtieth, one chapter a day, no shared dates and no gaps. Full gate output, the
 Gate A interval trace with its three fixed errors, the Gate B date screen and the canon proposals
@@ -15,10 +34,16 @@ block supersedes every block below it on every point it touches.**
 233 the 23rd · 234 the 24th · 235 the 25th · 236 the 26th, **the schedule goes up at ten** · 237 the
 27th, **the certificate is dated and arrives at noon** · 238 the 28th · 239 the 29th · 240 the 30th.
 - **TWO THURSDAYS IN THIS BATCH AND BOTH REPAINT: the twenty-second (232) and the twenty-ninth
-(239).** June's Thursdays are the 1st, 8th, 15th, 22nd and 29th. **The word Thursday appears five
-times — 232 (x3), 239 (x2) — and every one is the Thursday pass, the calendar, or painters' work.
-No chapter names any other weekday.** (232's third use and 239's second are generic crew references
-inside Thursday chapters and are lawful there; 236 was drafted with two and both were removed.)
+  (239).** June's Thursdays are the 1st, 8th, 15th, 22nd and 29th, so the twenty-sixth is a Friday and
+  the twenty-seventh a Saturday. **The word Thursday appears seven times — 232 (x4), 239 (x3) — and
+  every one is the Thursday pass, the calendar, or painters' work. No chapter names any other
+  weekday.** (236 was drafted with two Thursday mentions, both removed; the repair pass added Friday
+  and Saturday while making the weekend legible and **removed them again in favour of the Office's
+  sitting days**, which is how the weekend is carried without naming a day.)
+- **THE WEEKEND IS CARRIED BY THE OFFICE'S SITTING DAYS, NOT BY NAMING A DAY.** The twenty-sixth is the
+  last day the Office sat before the weekend closed over it. The certificate is dated to a day the
+  Office does not sit on, so whatever stands between a schedule and a certificate is not a person in a
+  chair and does not have to be persuaded. Stated once at Ch 215; made to matter at 236; carried at 237.
 - **THE OFFICE DOES NOT SIT ON THE TWENTY-SEVENTH AND THIS BATCH NEVER SAYS SO.** The carrier sits
 for it (237). Stated once at Ch 215, not restated.
 - **THE COUNTDOWN IS ONE ARITHMETIC.** Days elapsed from the return of the twenty-seventh of April,
@@ -31,19 +56,33 @@ hearings, the dead list on the fourth.
 
 ### Mechanics now on the page — CANNOT CONTRADICT
 
-- **A REMOVAL APPLIED TO THE WRONG PAPER STOPS NOTHING (236).** The instrument for an officer with
-a conflict takes a line, a date and an initial. Raised at eleven on the twenty-sixth against the
+- **A RECEIPT OFFERS A LINE FOR A DISSENT, AND HE LEFT IT BLANK (238 — set on repair, and now the
+  batch's irreversible decision in its plainest form).** The return slip carries a printed line under
+  the signature: *Object or remark. None.* Nothing stops a man writing there; divisions file remarks
+  and move nothing. He says nothing while the man waits the length of a breath. **That blank is his,
+  it is the same shape as the blank a district officer left on the third of this month, and it goes
+  into a file with his name at the top of it.** The option that closes is no longer only *not saying
+  the certificate is his to answer for* — it is that he can never say he was not given the chance.
+- **A REMOVAL APPLIED TO THE WRONG PAPER STOPS NOTHING (236).** The instrument for an officer with a
+conflict takes a line, a date and an initial. Raised at eleven on the twenty-sixth against the
 correction of the twelfth, it leaves the certification schedule posted at ten untouched. An hour
 late and a paper wide. Neither bar (auditor-member, six-with-no-roll) is resolved; both are
 bypassed by exactness.
 - **A CERTIFICATE IS RECEIVED, NOT ARRIVED (237, 238).** Sun signs the carrier's book at noon on the
 twenty-seventh; the head signs the return slip in his own hand on the twenty-eighth. From the
 signature the household is findable without being looked for (Ch 207's sentence, now true).
+- **A STRANGER'S PLAIN QUESTION IS THE CHEAPEST FORM OF VISIBILITY (239, set on repair).** An old man
+asks whether the number on the board is a street number. He answers truthfully and it costs him
+nothing. The lesson is not moral: a board persuades nobody, it only makes the question easy to ask and
+easy to stand next to. **Ch 241 is that question with a form number on it.**
 - **WREN KALLO'S FINDING IS A DIVISION'S FILE (233).** Hadewig Mers, head of counter-forensics, has
 it from ten on the twenty-third. Four edits, all removals, no addition in five years. First it pulls
 the index entry, second the correction, third it asks nobody anything for three days.
 - **A FIELD COUNTER CLOSES AT HALF PAST THREE (234).** Runa's answer goes through with one minute to
-spare and carries the false six into a fourth office.
+spare and carries the false six into a fourth office. **Four offices now hold him where three held him
+on the morning of the twenty-fourth, and one of the four has her name under his number in her hand.**
+She did not ask him at the grille because he would have told her the truth and she would have gone into
+Monday with no paper. Set on repair and now fixed.
 - **TESSA'S CLINIC IS ENTERED (240).** Carried on the thirtieth into the returned lines. A clinic,
 not a person — and the office reads lines, not intentions.
 - **THE ROLL STAYS CUT.** Seven pieces in seven pockets; the seventh row sewn shut (eleven stitches,
@@ -98,11 +137,15 @@ certificate costs (Ch 241)**.
 
 231 bread and a nail and ten days of paper · 232 ladders, paint, and Wren on a step · 233 a finding
 on a desk and a copy from the index · 234 **the angry chapter, and she is right, and the bundle goes
-through with a minute to spare** · 235 **the quiet one, a pail and soup** · 236 **the schedule at
-ten, the removal at eleven, an hour late and a paper wide** · 237 **the certificate at noon** ·
-238 **the receipt, in his own hand, and the batch's irreversible decision** · 239 a frame, a wall,
-and clerks' hands · 240 an office with a door on it, an entry carried, and a question waiting
-behind an open door.
+through with a minute to spare, and on the step neither of them says the thing he is thinking** · 235 **the
+quiet one, a pail and soup, and at the second bucket she admits being found is what she wants** ·
+236 **the schedule at ten, the removal at eleven, an hour late and a paper wide, and Beatrix telling
+him what is not on the board** · 237 **the certificate at noon, and a hand that did not ask him
+anything on a step** · 238 **the receipt, in his own hand, and a printed line left blank, and the
+batch's irreversible decision** · 239 a frame, a wall, clerks' hands, a stranger's plain question,
+and a want that becomes a plan at the foot of the steps · 240 **an office with a door on it, an entry
+carried, her own words from the ninth said back word for word, and a question waiting behind an open
+door**.
 
 **Scenes: 205, 214 and 228 in Volume 5, all written; none in this batch. The next is Chapter 241,
 the gap 228 → 241 = 13, and Volume 5 owns 241 and 249 and may move each one chapter only. Ch 241 is

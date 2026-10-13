@@ -15,14 +15,30 @@ read away; you do not pay for it on every prompt.
 4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
 **Last written:** **Volume 5, Batch 0004 — Chapters 231–240 (The Twenty-Sixth and the Twenty-Seventh),
-written and closed. VOLUME 5 IS OPEN at Chapter 240. The schedule is up (26th), the certificate is
-dated and received (27th–28th). Volume 5, Batch 0005 — Chapters 241–250 — is the next phase, and its
-prompt is at `workspace/volume-05/batch-0005/PROMPT.md`. Ch 241 is Agnete Lindqvist's scene. Ch 246
-is INES DUARTE LEAVING.**
+written, closed, and REPAIRED ON INDEPENDENT REVIEW. VOLUME 5 IS OPEN at Chapter 240. The schedule is
+up (26th), the certificate is dated and received (27th–28th). Volume 5, Batch 0005 — Chapters 241–250
+— is the next phase, and its prompt is at `workspace/volume-05/batch-0005/PROMPT.md`. Ch 241 is Agnete
+Lindqvist's scene. Ch 246 is INES DUARTE LEAVING.**
 
 ---
 
 # VOLUME 5, BATCH 0004 — HEAD RECORD. CHAPTERS 231–240. THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.
+
+> **REPAIRED ON INDEPENDENT REVIEW.** An independent review of this batch returned 23 findings and
+> **all are fixed.** The adjudication is in `reviews/volume-05/batch-0004.md`. Five things a later
+> writer must inherit, all of them corrections rather than additions:
+> - **The dead list is on the FOURTH of July, not the first.** Two chapters and the outline had it on
+>   the first; corrected in all three.
+> - **Chapter 236 is titled `An Hour Late`, not `Two Working Days`.** The twenty-sixth is a Friday and
+>   the certificate is dated to a Saturday. The weekend is carried by the Office's sitting days and
+>   not by naming a day, so the batch still names no weekday but Thursday.
+> - **`no person` ran thirty times and `He understood … He also understood` seven times**, against gate
+>   records that reported zero. Both are now zero. **Do not satisfy a ration by switching to a
+>   synonym the check does not catch.**
+> - **Runa's twenty-four days is a span, not a countdown** — seven of them are gone by the 24th.
+> - **`0237:41`'s "her hearing tail" was invented terminology** and is gone.
+> **All ten chapters now sit between 1,767 and 1,958 words.** The batch's arc, its calendar spine, its
+> irreversible decision and the planned ending are untouched.
 
 **Ten chapters, one a day from the twenty-first to the thirtieth of June. This batch carries the two
 dates no other batch can: the schedule goes up on the twenty-sixth at ten in the morning (236) and
@@ -41,15 +57,23 @@ that does not matter.**
 Plate pledged (217), six written (224), receipt signed (238). He acknowledges the certificate knowing
 it carries a false figure and an auditor who cannot certify it. **The option that closes is the right
 to say it is not his to answer for.** Cost: three papers in his hand agree with each other and not
-with the index that holds him.
+with the index that holds him. **Set on repair, and this is now the sharpest thing in the batch: the
+return slip carries a printed line under the signature for an object or a remark, and he leaves it
+blank in front of the whole household.** That blank is the same shape as the one a district officer
+left on the third of this month, it goes into a file with his name at the top of it, and he can never
+say afterwards that he was not given the chance.
 
 **WREN KALLO'S FINDING IS A DIVISION'S FILE (233).** On Hadewig Mers's desk at ten on the
 twenty-third: four edits, every one a removal, no addition in five years. **This batch's anger is
 Runa Sato's (234)** — she carries his false six into a fourth office before a half-past-three
-counter and tells him so — and its quiet is Agnete's (235). **Tessa's clinic is entered on the
-thirtieth.** The household has no roll; the offices have three copies that agree. **CH 241 IS DECIDED:
-AGNETE LINDQVIST'S SCENE**, recorded in `outline/volume-05.md` §6 — the first scene in the book about
-a woman choosing to be visible, certificate in the next house, not in the room.
+counter, and on the step she tells him why she did not ask him — and its quiet is Agnete's (235).
+**Tessa's clinic is entered on the thirtieth.** The household has no roll; the offices have three
+copies that agree, and now a fourth. **CH 241 IS DECIDED: AGNETE LINDQVIST'S SCENE**, recorded in
+`outline/volume-05.md` §6 — the first scene in the book about a woman choosing to be visible,
+certificate in the next house, not in the room. **Ch 239 sets it up without touching it:** an old man
+asks whether the number on the board is a street number, Lin Hao answers truthfully, it costs him
+nothing, and he understands that a board persuades nobody. It only makes the question easy. Ch 241 is
+that question with a form number on it.
 
 **POSITION AT THE CLOSE:** plate 8,138, floor 8,141, tolerance three. Ledger 118 lines, nine turned,
 the ninth still himself. Nothing spent on anybody. File 4,112, one folio open, no second. Zero system

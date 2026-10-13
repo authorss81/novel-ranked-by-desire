@@ -1,4 +1,4 @@
-# Two Working Days
+# An Hour Late
 
 The schedule went up on the twenty-sixth at ten in the morning, and he was standing in the Reading Square with two hundred people when it did.
 
@@ -24,6 +24,18 @@ Beatrix held his arm a moment longer, then let go, because a signal operator did
 
 "I am well," she said. "My panel will copy this by noon. Six members. Head's answer. They will ask me what six means in my house and I will say six notebooks and six copies and six times someone wrote a thing down and someone read it back. That is what six means where I keep it."
 
+Then she took out the notebook, found a clean page in a square of the square with the crowd in front of her, and wrote the sentence out in full before she could be asked for it, because a thing written in the street was a thing she would have to say in a room as it stood and not as she improved it on the walk.
+
+"Six notebooks," he said, reading it over her shoulder.
+
+"Six notebooks," she said. "And I am not going to tell you what is not on that board.
+
+"There is a seventh row in this city and it is sewn into a coat in this house. There is a woman who carries a bundle on this street and is written down nowhere. There is a woman in another part of the city who has never been on anything and never will be. There is a woman behind a door in this building who has not gone outdoors in eleven years. Not one of them is on that board. All of them eat at my table.
+
+"Six is true, Lin Hao. It is just not the whole of what is true, and I am going to have to stand in a room and be exact about that difference on the first of next month."
+
+She shut the book and went to watch the clerks, and he stayed where he was with the word true sitting in him like a coin in a pocket.
+
 They stood while the crowd thinned. A clerk with a book wrote the hour under the frame. Two women from the market read the number aloud and moved on. The lamps on their brackets hung dark, unlit until night. In daylight the board was exact and merciless. There was no dark on it at ten in the morning.
 
 At eleven he was back at Ferrier Street with the news, and the kitchen took it standing. Sun put down the shirt she was mending. Petra set her bundle string aside. Runa stopped her copying mid-line. Marguerite capped her pen. Nadia opened her book to a fresh back of a page.
@@ -31,8 +43,6 @@ At eleven he was back at Ferrier Street with the news, and the kitchen took it s
 "It is up," he said. "Six. At ten. On the side board."
 
 He told it plainly, the way Ines read at a counter. Frame and sheet. Clerks squaring and stepping back. Six members with his name at the head. The date carried forward. Two hundred people reading. A clerk writing the hour. That was the whole of it, and the room held it without discussing, because the extract with a form number had not yet come and the instruction was to tell her first when it did.
-
-"It is up," he said. "Six. At ten. On the side board."
 
 Sun sat down slowly. Runa let out a breath. Petra closed her eyes. Marguerite put both hands flat on the table.
 
@@ -48,13 +58,13 @@ The line was hers. The date was the twenty-sixth. The initial was not hers.
 
 The schedule it removed her from was not the certification schedule on the board. It was the correction raised on the twelfth against the division's own arithmetic, countersigned by Wren Kallo on the thirteenth. The correction had carried seven where the head said six, with her division's index behind it. Someone at the top of the building had taken her name off the correction's foot as the officer with a conflict, leaving the correction authorless as a correction should be.
 
-He saw the mechanism whole. What it meant for one woman was this: seventeen days of waiting to be taken off the page that mattered, and taken off the page that did not to be taken off the page that mattered had just been taken off the page that did not, and that the schedule on the board still carried her as auditor of record, and the certificate dated to the morrow would still issue upon it.
+He saw the mechanism whole. Seventeen days she had waited to be taken off the page that mattered, and what came up the steps at half past twelve took her off a page that did not matter while the page that mattered still carried her name as its auditor. What it meant for one woman was that nothing had been decided about her. The schedule on the board would still certify her, and the certificate dated to the morrow would still issue upon it.
 
 Sun saw it first.
 
 "It is the wrong schedule," she said quietly. "They have removed you from the correction. The certification still names you. The board went up at ten and the removal is timed at eleven. An hour late and a paper wide."
 
-Ines put the extract down on the table like a woman putting down an instrument. She did not discuss it. She had said in April that she would not, and she had not for five volumes, and she did not now. She looked at the table once, at each of them, and went to her room and shut the door without locking it.
+Ines put the extract down on the table the way she laid a hand on a thing she had decided not to fight. She did not discuss it. She had said in April that she would not, and she had not for five volumes, and she did not now. She looked at the table once, at each of them, and went to her room and shut the door without locking it.
 
 The kitchen stayed quiet. Petra squared the extract to the edge of the table with care, as she had squared a hundred and thirty-two dockets in eleven years.
 
@@ -64,12 +74,14 @@ Marguerite nodded. She had priced households for thirty years and she knew an ex
 
 "Then the certificate issues on the morrow," Marguerite said. "Upon a schedule its own auditor is a member of, carrying a head's answer of six with no roll behind it in any house. Both bars stand. Neither stopped it."
 
-Runa wrote it down in her book, with the hours on it. Ten the schedule. Eleven the removal. Both on the twenty-sixth. Two working days between the schedule and the certificate, and the second of them gone.
+Runa wrote it down in her book, with the hours on it. Ten the schedule. Eleven the removal. Both on the twenty-sixth, which was the last day the Office sat before the weekend closed over it.
+
+The certificate was dated to the morrow, and the Office does not sit on the twenty-seventh. He had been told that once, in the middle of May, and had not let it matter until this afternoon. It meant that whatever stood between a schedule and a certificate on that day would not be a person in a chair, and would not have to be persuaded, and would not have to be argued out of a position by anybody at all.
 
 He stood at the end of the table with the head line in his pocket and felt the weight of the day settle on him. He had wanted to see it plainly. He had seen it. The house was now on a public board in ink under a false figure, certified by a woman who could not certify it, and an office had moved exactly enough to prove it knew.
 
-Petra squared the extract to the edge of the table with care, as she had squared a hundred and thirty-two dockets in eleven years, and left it there for anyone to read. Runa wrote the hours beside the two postings. Ten the schedule. Eleven the removal. Nadia wrote which list each belonged to. Schedule of record, of the board. Removal from the correction, of the index. Two papers, two lists, an hour apart, a paper wide.
+Nadia left it face up, which she had never once done with a paper off the district bag, and wrote nothing in her book about which list it belonged to. There were two lists in this room and the office had picked one of them and picked wrong, and she was not going to sit here helping it keep the arithmetic tidy.
 
 That was the whole of the mechanism, and it was exact, and exact was worse than unkind.
 
-At nine the house settled. Ines did not come out for bread. The stair lamp clicked off on its clock. He lay down with two working days behind him and one dated sheet ahead, and the schedule stayed up in the dark in the square where two hundred people had read it.
+At nine the house settled. Ines did not come out for bread. The stair lamp clicked off on its clock. He lay down with the last working day behind him and a sheet already dated on paper somewhere in the Reading, and the schedule stayed up in the dark in the square where two hundred people had read it.
