@@ -216,7 +216,56 @@ every eight to fifteen chapters is met by 261 and not before.
    about anybody asking for anything** · **290 THE IRREVERSIBLE DECISION, and it is his: he certifies a
    schedule over a defect he describes in his own hand, on the face of the certificate, with a minute, and Sun
    Meiling goes into ink underneath the bar.** 289.
-5. **Terms — 291–300.** *Plan.* 299, and Volume 6's answer to `outline/series.md`'s sentence.
+5. **Terms — 291–300. WRITTEN, and the plan was wrong about the one thing this movement turns on.**
+   `outline/series.md` still carries an unvalidated line for Ch 298 — *he calls in every debt he owes,
+   including one Marguerite never told him was owed, and puts the Vant's whole exposure of him in front
+   of the Concil in exchange for the Brother's File being opened one folio early*. **Batch 0005 did not
+   write that, and `outline/volume-06.md` §7 forbids it: the Concil of the Nine may not be named before
+   Volume 7, and Chapter 299 is immovable on the scene table.** The plan also assumed the volume's failure
+   condition would arrive as an attack. **It arrived as an application, made by him, and that is the better
+   answer and it is what is written.**
+
+   **THE FAILURE CONDITION IS ARMED AND PAID, AND HE DID IT HIMSELF.** On the sixteenth of September, the
+   last day Solveig Rask was the only woman able to write a figure about him, he went down those stairs and
+   did not ask her for the sentence under the column. **He described the account instead** — that it is fed
+   at one address, and that the address is his — because she told him in July that she would not price a
+   thing she could not describe. She priced it in ninety seconds. **The price is seven**, written under his
+   column, dated the sixteenth, initialled and not signed: *an unrecorded account standing against no
+   ledger; carried at the address of premises 34-6-118; answerable by the composition of that premises.*
+   **A dated figure in a real book is not an offer.** He asked for a number instead of a house and got a
+   house, and the volume's sentence is fulfilled to the letter — the Vant's books now carry a price on the
+   reservoir that he cannot refuse — **and it was requested by him, in writing-adjacent terms, in ninety
+   seconds, in a room with no window.**
+
+   **WHAT IT COSTS, IN ONE SENTENCE ABOUT ONE PERSON.** From the sixteenth of September every woman keeping
+   an address at that door is inside a dated figure in a keeper's book, and the seventh of them is a blank
+   line, and nobody will ever be able to tell.
+
+   **THE BATCH, AS WRITTEN.** 291 the movement opens and the two instruments at one door are named — the
+   quarter round at eight and the turn of the quarter that can call the figure — and Runa Sato gives three
+   names, her own first · 292 **THE FIFTH DOCUMENT, and it is a book**: the district premises return of the
+   third of June is a leaf in a bound quarter-book, one per premises per quarter, in four divisions since
+   the second of August, and the book closes on the thirtieth and a head may enter once in a blank line
+   while it is open · 293 **the pencil note** — a district supervisor signs the shelf, matches a clerk's
+   number against the book, and writes six words in a margin that nobody will ever argue with, and the cost
+   of boring lands on Wren Kallo and on his own six lines of the first of September · 294 **Beatrix Halm
+   gets her date** — seven of them, counted, in his handwriting, and the guild tells her the price it will
+   call, and it is the figure of persons at his premises · 295 **the pen on a chain** — he asks a broker to
+   enter the mark and she refuses and makes him give her a written undertaking instead, which is the first
+   document in the book that is about him and not about the household · 296 **THE IRREVERSIBLE DECISION, and
+   it is his** — the description, the price, the signature refused · 297 the household is **frozen for three
+   days**, the answer has to be exactly seven, and Wren Kallo asks when she may take an address · 298 the
+   thirtieth, the band goes to 8,144, **the book closes blank** and he says out loud why, and Ines Duarte
+   makes him say her name for it · **299 THE SCENE, Beatrix Halm's, the night of the thirtieth, in rooms
+   over a shuttered shop on the tram line** · 300 **the first of October**, the round at eight, the docket
+   under his own door, the mark at ten to nine, the production sworn in his own hand, and six documents in
+   four buildings with one line drawn between them.
+
+   **AND WHAT IT LEAVES VOLUME 7, WHICH IS THE VOLUME'S JOB.** A thing that is classifiable and a reason
+   for an institution to want to, **and no classification**. **He has not been classified. He has made
+   himself describable**, which is worse, because a classification does not need a man in it: it needs an
+   address, a figure and a reason, and he has put all three on a page in a real book with his own hand on
+   the description. **No final enemy was introduced and nothing after Volume 8 was opened.**
 
 **Escalation, stated once so no batch has to re-derive it.** Volume 5 was about a woman deciding whether
 she can be with a man she has to audit, and the cost was hers. **Volume 6 he stops investigating and
@@ -317,7 +366,21 @@ and a rationed construction is not a name.** Counted by command against all 290 
 ZERO of them, and the book's twenty-eight are all inherited from Volumes 1 to 5 (4 / 4 / 13 / 0 / 7). The
 longest title in the volume remains 270's forty-one.
 
-**FREE FOR 291–300. Taken titles above are struck and must not be re-issued:**
+**This is Volume 6's last batch.** Checked by command against all 300 written titles: none duplicated, none
+over ninety characters, **and none begins with *What*, which is the fourth consecutive Volume 6 batch to say
+so.**
+
+**291 The Figure That Cannot Move (27) · 292 The Book Of The Quarter (21) · 293 The Clerk Who Signs The
+Shelf (29) · 294 A Day It Is Held (16) · 295 The Pen On A Chain (18) · 296 The Sentence Under The Column
+(29) · 297 The Room After The Sitting (26) · 298 The Quarter Going Out (21) · 299 The Ear Turned Into The
+Street (30) · 300 A Docket Under The Door (23).** **299 is Volume 6's fifth and last scene and it is the
+only one of the fifty that is not a named woman asking for a count; it is a signal operator who is nine
+years old in a notebook and has never once been read, and the title is the habit she brings in with her.**
+The longest new title in the volume remains 270's forty-one. Counted by command against every file in
+`chapters/`, Volume 6 has ZERO titles beginning with *What*, and the book's twenty-eight are all inherited
+from Volumes 1 to 5 (4 / 4 / 13 / 0 / 7).
+
+**FREE FOR 301–350. Every title above is struck, and so is every title in the three struck lists above:**
 
 ~~The One He Named First~~ · ~~The Charge Against The Schedule~~ · ~~The Keeper Of The Real Books~~ · ~~The
 Table Bare~~ · ~~Twenty-Two Stitches~~ · ~~Nine Years In A Line~~ · ~~The Only Room She Owns~~ · ~~One Of The

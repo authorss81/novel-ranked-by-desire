@@ -22,6 +22,129 @@ the cheaper mistake and the wrong one.
 `state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
 long-range position, before any of this.**
 
+## Volume 6, Batch 0005 — CHAPTERS 291–300. THE SECOND OF SEPTEMBER TO THE FIRST OF OCTOBER. LIVE.
+
+**Volume 6 is closed at Chapter 300.** Batch 0005's head block is in `state/current.md`; the live gates are in
+`state/open-threads.md`; the day map, the arithmetic and the repair record are in
+`reviews/volume-06/batch-0005.md`. Batch 0004's block is below this one and is superseded as to position.
+
+> **READ THIS BEFORE WRITING 301. THREE THINGS ARE NOW ON THE PAGE AND A FOURTH BATCH MAY NOT RE-DERIVE THEM.**
+>
+> **1. THE RESERVOIR IS PRICED, AND THE PRICE IS SEVEN, AND HE ASKED FOR IT.** Chapter 296. Under the column
+> in the real books: *an unrecorded account standing against no ledger; carried at the address of premises
+> 34-6-118; answerable by the composition of that premises.* Dated the sixteenth of September, **initialled
+> and not signed**. **This is Volume 6's failure condition, fulfilled to the letter and at the lead's own
+> request, and it is Volume 7's engine.** `outline/series.md`'s line for Ch 298 — the Concil in exchange for
+> the File — **was not written and may not be**: §7 forbids naming the Concil of the Nine before Volume 7.
+>
+> **2. THE FIGURE OF 8,138 WAS ANSWERED ON THE FIRST OF OCTOBER AND AN ANSWERED FIGURE STAYS ON THE PAGE.**
+> A called standing is answered at a valuation by paying it or by a production, and he swore a production of
+> seven in his own hand at ten to nine in a chained book at the Exchange, with the date under it. **He has
+> now sworn a figure of persons from that premises twice, on the first of August and the first of October,
+> and a keeper he had never met said out loud that a book with the same number twice from the same man is a
+> habit and not a coincidence.** Not a price, not a holding, not a lien — an answer.
+>
+> **3. A DISTRICT PREMISES RETURN IS A LEAF IN A BOUND QUARTER-BOOK, ONE PER PREMISES PER QUARTER.** It opens
+> on the first of a quarter, closes on the thirtieth of that quarter's last month, and is not reopened. While
+> it is open the head may enter once, in his own hand, in a line that stands blank. **The seventh returned
+> line is now blank by the closing of a book and not by anything anybody wrote, and it can never be named.**
+
+### 1. THE FIXED CALENDAR, DERIVED AND PRINTED
+
+**July 1 is a Saturday, so July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh.
+August 1 is a Tuesday. August's Thursdays are the third, the tenth, the seventeenth and the twenty-fourth —
+the thirty-first is a phantom, because a month is thirty days and has no thirty-first. September's Thursdays
+are the seventh, the fourteenth, the twenty-first and the twenty-eighth. Only Thursday is ever named, and
+BATCH 0005 NAMED NO DAY OF THE WEEK AT ALL, IN ANY OF ITS TEN CHAPTERS.**
+
+### 2. THE DAY MAP AND THE ARITHMETIC, TRACED
+
+**The map is not one chapter a day.** 291 the second of September · 292 the fifth · 293 the eighth · 294 the
+twelfth · 295 the fifteenth · **296 the sixteenth, the annual sitting and the last day he may go down those
+stairs** · 297 the seventeenth and the nineteenth, the first being the day the keys of the counting room
+changed · **298 the thirtieth, the last working day of the quarter, the band card and the closing of the
+book** · **299 the night of the thirtieth** · **300 the first of October, the turn and the round**.
+
+| Ch | Day | To the 30th | To 1 Oct | Printed on the page |
+| --- | --- | --- | --- | --- |
+| 291 | **2 Sept** | **28** | 29 | twenty-eight to the thirtieth, twenty-nine to the morning |
+| 292 | **5 Sept** | **25** | 26 | twenty-five days, elapsed, to the thirtieth |
+| 293 | **8 Sept** | **22** | 23 | twenty-two days, and the last one is the thirtieth |
+| 294 | **12 Sept** | 18 | **19** | nineteen; twelve on the nineteenth; seven on the twenty-fourth; two on the twenty-ninth |
+| 295 | **15 Sept** | 15 | 16 | six weeks given on the twentieth of July, expiring on the first |
+| 296 | **16 Sept** | 14 | **15** | fifteen days to the turn; three months and twenty-three days since the twenty-fourth of July |
+| 297 | **19 Sept** | 11 | 12 | nineteen out, and the count stops changing on the thirtieth |
+| 298 | **30 Sept** | **0** | 1 | five under for thirty-one days; six under from this morning |
+| 299 | night of 30 Sept | 0 | 1 | the turn at midnight, the corner by the shop four minutes after, back at twenty-one minutes past four |
+| 300 | **1 Oct** | — | **0** | eight o'clock; ten to nine; the band floor 8,144 |
+
+Anchors, unchanged and all of them inherited: **Petra Ilyin off every roll 4 June** · **the call entered
+20 July at 16:25** · **the correction filed 30 July at 23:25** · **Ines Duarte's composition return of the
+twelfth of June** · **the standing of the seventh of June secured at the figure of the head** · **the guild's
+hold posted 27 July, clerk at the gate 12 August** · **the production sworn 1 August at 10:09** · **the term
+agreed on Lantern Row the night of 9 July** · **Marguerite Vale's statement of the twenty-ninth** · **the
+reconciliation of the twenty-fourth** · **the certification of the first of September** · **the annual sitting
+on the sixteenth and the keys on the seventeenth** · **the turn of the quarter on the first of October.**
+
+### 3. WHAT THIS BATCH PUT ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT
+
+1. **THE RESERVOIR IS PRICED AT SEVEN**, dated the sixteenth of September, initialled and not signed, carried
+   at an address and answerable by a composition.
+2. **He described the account to Solveig Rask rather than asking her for it, and she had said in July that
+   she would not price a thing she could not describe.** He did not have to ask.
+3. **The band floor went to 8,144 on the thirtieth of September. Plate 8,138. Six under.** Out of band, in
+   the word that has not changed since the thirtieth of July.
+4. **A district premises return is a leaf in a bound quarter-book, one per premises per quarter, and the book
+   closes on the thirtieth of the quarter's last month and is not reopened.**
+5. **While the book is open, the head may enter once, in his own hand, in a line that stands blank.** The
+   window closed on the thirtieth of September and he did not use it.
+6. **A supervisor signs the shelf in pencil before the store, and a pencil note in a margin of a public book
+   cannot be taken out by anybody but the officer who wrote it.** Six words are in the margin opposite the
+   seventh line and a clerk's number is on them.
+7. **The seventh line is permanently blank and the reason is the book.** A woman asked not to be named, he
+   said so in a room in front of seven women, and nobody can find her in any instrument in this city.
+8. **The mark at ten to nine is entered by the broker holding the book. Marguerite Vale refused on the
+   fifteenth of September and made him give her a dated written undertaking that he would not ask her again.
+   That paper is the first document in this book that is about him and not about the household.**
+9. **The keys of the counting room changed on the seventeenth of September to a woman he has never met.**
+10. **A called standing is answered at a valuation by a production, and he has now sworn one twice, at the
+    figure of seven, in nine seconds each time, in a chained book at the Exchange.**
+11. **Beatrix Halm has seven dates in her own notebook in his handwriting, with the counts under them, and a
+    margin correction in her own hand that he is not permitted to initial.**
+12. **Wren Kallo will take an address at those premises on the second of October at about eleven, in the
+    ordinary way, because a person of reading age keeping an address may be added at any time except while a
+    book is closed.**
+13. **A production answers a call and not a quarter, and this production also answers a price, and both are
+    the figure of seven.**
+
+### 4. INHERIT UNCHANGED FROM BATCH 0004, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE IT WRONGLY
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day.**
+2. **A called standing is answered at a valuation and the mark is at ten to nine on the first.**
+3. **A composition return counts persons of reading age who hold an address at the premises.**
+4. **A district cannot be corrected by a head; the office with standing over a district premises return is
+   the office of the auditor of record of the schedule, which is him from the first of August.**
+5. **An impediment on a certificate is a bar on the certificate and not a bar to certifying.**
+6. **A hearing paper runs to the end of the month after the month it was answered in.**
+7. **A reconciliation runs on a Thursday. The quarterly bands go up on the last working day of the quarter,
+   by a different office in a different hand.**
+8. **A published security binds everybody who takes from the account afterwards.**
+9. **Plate 8,138. Ledger 118 lines, nine turned, the ninth still himself. Nothing spent.**
+10. **Seven documents in his own hand since the sixteenth of July, six of them before the first of September
+    and the sixth the first that cannot be got off.**
+11. **Petra Ilyin on no roll since the fourth of June — one hundred and sixty-nine days on the first of
+    October.**
+12. **Wren Kallo on nothing at any time.**
+13. **Ines Duarte is out of the flat and out of her office from the first of August, and no paper is read to
+    her in her own rooms — the term has held every day since the ninth of July.**
+14. **Nadia Ferrous's twenty-ninth page is blank and went into four divisions that way, on purpose.**
+15. **Marguerite Vale's statement of the twenty-ninth is in four divisions and the number on it is eleven.**
+16. **A head may diminish his own household on his own sworn answer with a week and the broker's signature,
+    and it never needed the auditor.**
+17. **Nothing has been routed. The cost was paid in June and the promise was made on the twenty-seventh of
+    August, and on the nineteenth Runa Sato told him out loud that he had been hiding behind the word for four
+    days.**
+
 ## Volume 6, Batch 0004 — CHAPTERS 281–290. THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER. LIVE.
 
 **Ten chapters, twenty-three days.** Batch 0004's head block is in `state/current.md`; the live gates are in

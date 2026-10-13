@@ -655,3 +655,154 @@ his six lines out loud at the public counter with a queue behind her, and says t
 that nobody will ever be able to find out from that document who the line is for, and that she is neither
 grateful nor ungrateful. **Four documents in four divisions on one day, and the fourth is him.** Rask counted
 three on the third of August and she was counting books.
+
+## Volume 6, Batch 0005 — Chapters 291–300. THE SECOND OF SEPTEMBER TO THE FIRST OF OCTOBER.
+
+### Ch 291 — The Figure That Cannot Move
+The second. The movement opens on the morning after the certification. Sun Meiling says one thing in the
+kitchen and it is *do not apologise to me about the seventh line*, and the certificate is in four divisions
+with the hour in a clerk's minute. **Petra Ilyin brings the lodging date: a quarter round is lodged with the
+house on the last working day of the quarter and served at eight on the first, twenty-one addresses, the
+twentieth his, figure seven under it. And the turn of the quarter on that same morning is the only date that
+can call a figure with nothing behind it. Two instruments, one door, the same hour.** He has promised not
+to be on that step, in that yard, or in that building from seven until nine, so the docket goes under his own
+door unread. **Which leaves the question the chapter ends on: the answer has to be sworn by a person
+answerable at that address. Runa Sato gives three names in order and puts her own first**, and tells him
+that the promise of the twenty-seventh of August covers merit and not persons, and that he is hiding behind
+a word. He admits it, and gives the real reason, which is the first of August and nine seconds.
+
+### Ch 292 — The Book Of The Quarter
+The fifth. Runa Sato goes to the premises desk and finds it. **The district premises return of the third of
+June is not a sheet: it is a leaf in a bound quarter-book, one book per premises per quarter, ruled against
+the leaves either side of it, and a clerk reads a page and not a spine.** It has been in four divisions
+since the second of August and nobody counted it, because nobody counts a room. **She says plainly that it is
+a book, and it is the fifth thing.** And the rule that matters: **a premises book opens on the first of a
+quarter and closes on the thirtieth of its last month and is not reopened, and while it is open the head may
+enter once, in his own hand, in a line that stands blank.** So the seventh line is not permanent because of a
+bar on a certificate; it is permanent because a book closes. He has twenty-five days and he can still fill
+it. He goes up Lantern Row and asks Ines Duarte to come to the kitchen without saying why, and she says no to
+the asking and yes to the coming, because he cannot tell her, and she has known since the third.
+
+### Ch 293 — The Clerk Who Signs The Shelf
+The eighth. **A district supervisor signs the shelf in pencil before the book goes to the store, and checks
+that nothing has been added in a hand that is not one of ours.** Wren Kallo's addition of the twenty-second of
+August was in our hand, so it was in order, so the man writes the next thing a man writes when he finds an
+empty line with a count above it, in the margin, in six words: *7th line blank, returned 3 vi. Head may
+enter. Book closes 30 ix.* **Wren finds it herself, because the number in the margin is hers.** She is not
+sorry about the filing and says so in the same breath as the other half: **a clerk's number in a pencil
+margin in a district store is the most permanent thing there is, and it is in a book about his premises,
+and that is what boring costs.** A pencil note cannot be taken out by anybody but the officer who wrote it.
+And the second cost is his own: **the certificate of the first of September is what put it there, because he
+asked for the description of his own defect to go on the face of the instrument, and one of the four
+divisions keeps the premises books.**
+
+### Ch 294 — A Day It Is Held
+The twelfth, on the sixty-one steps at seven in the evening, which is where she found him on the thirteenth
+of August. **She wanted a day it is held, with the days counted under it in his handwriting, and he had
+agreed to it in four seconds on the thirteenth and done nothing about it for a month, and she says so before
+he hands her anything.** He gives her seven dates and the count under each, and her four lines become a
+calendar. **The cost, which she names: from tonight every date in that book came out of his mouth, and if
+he is wrong about one of them she is carrying a date a man gave her.** Her condition stands — no figure out
+of his household — and she has a calendar instead and says it is the first thing anybody has put in her hand
+since March. **And a guild clerk came on the ninth and told her helpfully that the only figure about his
+household a guild may lawfully ask for is the number of people keeping an address at it on that morning,
+and that the turn is the first of October.** She writes the question in her own book under his dates and
+gives him until the nineteenth to replace the question mark.
+
+### Ch 295 — The Pen On A Chain
+The fifteenth, in her rooms, the first time he has been back since the thirty-first of August. **The mark at
+ten to nine on the first is entered by the broker holding the book, and that is still her on the first of
+October, because the keys change on the seventeenth and the seventeenth is after.** He asks her to enter it
+against a house she sleeps in. **She refuses, and the reason is the chapter: a broker who has entered one
+mark in nine years is a broker with a mark, and that is the thing people know about her and will say when
+they want something.** And then she makes him pay for asking: **she dictates, he writes, they both sign, it
+is dated, and by the end of the week it is in four divisions — a paper with his own handwriting at the top
+of it asking a woman in his own house to refuse him.** She says what she has never said, that this is the
+first of four years of standing on other people's accounts that she has minded every single one, and that he
+is not to put it in a document. **And she tells him that after the seventeenth the person with the keys is
+somebody she has never met and has never taken a cup of tea with, and that they will have had her account
+in front of them for two days and not one hour of her.**
+
+### Ch 296 — The Sentence Under The Column
+The sixteenth, ten in the morning, the last day. The door is open six inches and the leather folder is out
+and the page under his column has been face up for four years. **He does not ask for the sentence under the
+column for the fourth time. He describes the account instead: it is fed at one address, it has never come
+anywhere else, it comes there because of what he is and where he stands and what he does between five and
+seven in the morning, and it has been coming there for four years.** She told him in July that she would not
+price a thing she could not describe. **THE BATCH'S IRREVERSIBLE DECISION.** She prices it in ninety seconds.
+**The figure is seven**, and the line under the column reads: *an unrecorded account standing against no
+ledger; carried at the address of premises 34-6-118; answerable by the composition of that premises.*
+Dated the sixteenth, **initialled and not signed**, because a signed line about an address is evidence about
+the people who keep it and she stops being that room's keeper that afternoon. **What it costs: a dated
+figure in a real book cannot be called back, the only answer it can be given is a figure of persons, and in
+about four years the examination passes to whoever is standing in that room and that person will be
+answerable for seven people they have never met.** He asked for a number instead of a house and he got a
+house, and she says she priced it for him and that not one person in this city asked her to.
+
+### Ch 297 — The Room After The Sitting
+The seventeenth and the nineteenth. The keys change on the first and he is not in the building. **Runa Sato's
+count is six**, and the sixth is the priced line of the sixteenth, four lines, two letters, an address and a
+figure of seven, which is the only document in this city that cannot be unsaid. **He refuses Runa Sato's name
+in nine seconds and she tells him he is hiding behind a word, and he agrees, and then gives the real reason,
+which is the first of August.** So it is him, at ten to nine on the first, in a chained book at the Exchange,
+which is not his own building, so Petra Ilyin's condition can be kept. **And the figure has to be exactly
+seven on that morning:** eight women live at the address and only seven keep it, one of whom has never slept
+in it since the sixth of July and one of whom has never had one at all. **If either moves, the mark stands at
+the figure of the head and the difference is charged to a woman who has carried an account for thirty
+years.** So the kitchen is frozen from midnight on the thirtieth until ten to nine on the first, and Runa
+Sato makes him call it a rule rather than a request. **And Wren Kallo, who has never held an address and is
+on nothing at any time, asks the question nobody wants asked, and answers it herself: the second of October,
+at about eleven, at a counter, in the ordinary way, because a person of reading age keeping an address may be
+added at any time except while a book is closed.**
+
+### Ch 298 — The Quarter Going Out
+The thirtieth, the last working day of the quarter. **The band card says eight thousand one hundred and
+forty-four**, six under, and the word on the wall has not moved since the thirtieth of July; Beatrix Halm's
+count runs three under for four years and a month, four under for eleven days, five under for thirty-one
+days, six under from this morning. **The third-quarter book for those premises goes into a crate and onto a
+store shelf and weighs four pounds and a bit, and Petra Ilyin, who has delivered on that street once a month
+for eleven years, knows exactly what it weighs.** **He does not enter a name in the seventh line.** He says
+so at the kitchen table with Ines Duarte in it, which she asked for and he did not refuse, and he gives the
+reason, and she takes the pencil out of her coat, lays it on the table and will not let him carry her reason
+for her — **and then she makes him say it in the plainest words in the book: he did it because Ines
+Duarte.** Sun Meiling says the line is blank for ever and states for the second time that she is neither
+grateful nor ungrateful. Runa's count is still six. The round is lodged at the Vant at four in the afternoon
+in the ordinary way.
+
+### Ch 299 — The Ear Turned Into The Street
+The night of the thirtieth. **Volume 6's fifth and final scene, and it is Beatrix Halm's, in two rooms over
+a shuttered shop on the tram line, eleven minutes' walk, none of it spoken in.** **She can feel the quarter
+turn and there is no instrument for it and she has told nobody**: every tram in the city takes the corner by
+the shop differently four minutes after a quarter turns, they have all done it since the first of July, and
+the corner goes back at twenty-one minutes past four. **Her want is not mercy and she says so: she is nine
+years into reading other people's page and nobody has ever read hers. She makes him say the seven dates back
+to her out loud, in order, from memory, without looking.** He is six out of seven and the one he gets wrong is
+the thirtieth of August said in the wrong month, because tonight is the thirtieth. **She writes the
+correction in the margin in her own hand and will not let him initial it**, because in about four years a
+page will carry both their hands and one correction of hers would make every line on it hers, and she will
+not have that on a page that says eight thousand one hundred and thirty-eight next to the seventh of June.
+She directs the rest of it too — not gentle and not careful, because *careful is a man watching a woman* and
+she has been watched every day of nine years and never once read — and she makes him listen to the street and
+tell her what it is doing, and she lasts longer than he does and says so in about four words. **Beforehand
+she forbids him to come to the guild with her in the morning and takes the shape of it apart: a woman
+brought to a counter by the man whose household is on a certificate stops being a woman defrauded of a date
+and becomes a woman being helped, and the guild will put the help in the file instead of the answer. He
+promises nine until the hearing is answered or refused, whichever is later, and she says it is not a time
+and is the only acceptable answer anybody has ever given her.**
+
+### Ch 300 — A Docket Under The Door
+The first of October, and the volume's close. **He is four hundred yards up the hill with a cup of tea at ten
+past seven and he is not in the building, the yard or the door.** **Petra Ilyin knocks twice at eight, gets
+no answer, puts the docket under his own door, writes the hour on it, does not read it, and goes on to the
+twenty-first address.** At ten to nine, in a room with one window that does not open, a woman who took the
+keys on the seventeenth reads the four lines of the sixteenth, says *you are the address*, enters the mark
+against the account of thirty years in four seconds, and makes him count her the seven. **He swears a
+production of seven in his own hand with the date under it, nine seconds, for the second time**, and a
+keeper he has never met says that a book with the same number twice from the same man is a habit and not a
+coincidence, and that the account will carry that mark for as long as it is open. Beatrix Halm is at a guild
+counter at ten with a notebook and nothing in her hands, it takes six minutes, and he is nine hundred yards
+away keeping the whole of what he promised at eleven o'clock the night before. **And the close: six
+documents about one address in four buildings in twenty-four days, and not one of them has his name at the
+top of a page. A classification does not need a man in it — it needs an address, and a figure, and a
+reason — and the system has not looked for him; it has read six papers in the order they arrived and drawn
+one line between them, and the line is an address.** He was not classified. He made himself describable.

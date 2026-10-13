@@ -1,3 +1,258 @@
+# VOLUME 6, BATCH 0005 — HEAD RECORD. CHAPTERS 291–300. THE SECOND OF SEPTEMBER TO THE FIRST OF OCTOBER.
+
+## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
+
+**This supersedes Batch 0004's block as the position. Batch 0004's block is retained below it, superseded as
+to position**, and its two carried figures are repeated in §3 because a later batch will otherwise re-derive
+them wrongly: **`270:111` prints the term one day under §2's column because it counts elapsed and 270 is
+Batch 0002's closed chapter** · **`276:3`'s saucer count matches no counter in the book and depends on an anchor
+at `266:101`, so nobody may move it without moving 266 and 276 together.**
+
+**Volume 6 IS CLOSED AT CHAPTER 300.** This is the last block for this volume and Volume 7 opens at 301.
+
+**The calendar Batch 0005 runs on.** A month is thirty days and has no thirty-first. **August 1 is a Tuesday.
+August's Thursdays are the third, the tenth, the seventeenth and the twenty-fourth — the thirty-first is a
+phantom, because a month has no thirty-first. September's are the seventh, the fourteenth, the twenty-first
+and the twenty-eighth.** **THIS BATCH NAMES NO DAY OF THE WEEK AT ALL.** Not one of the ten chapters contains
+the word Thursday or any other weekday, whole-word or as a substring, and the gate passes on that rather
+than on a surviving Thursday being checked. **Write the date, not the day.** The quarterly bands go up on
+the last working day of a quarter: **8,141 → 8,142 on the thirtieth of July, 8,143 on the thirtieth of August,
+and 8,144 on the thirtieth of September, which is the card 289's promise was about.**
+
+**THE DAY MAP IS NOT ONE CHAPTER A DAY.**
+
+| Ch | Day | What it is |
+| --- | --- | --- |
+| **291** | **2 Sept** | the movement opens; **the two instruments at one door**, and Runa Sato gives three names, her own first |
+| 292 | 5 Sept | **THE FIFTH DOCUMENT, and it is a book** |
+| 293 | 8 Sept | **the pencil note in a margin**, and the cost of boring |
+| 294 | 12 Sept | **Beatrix Halm gets her date**, and the guild says what it will call |
+| 295 | 15 Sept | **the pen on a chain** — she refuses, and makes him give her an undertaking |
+| **296** | **16 Sept** | **THE IRREVERSIBLE DECISION — he describes the account and she prices it at seven** |
+| 297 | 17th and 19th Sept | the keys change; **the household is frozen for three days** |
+| 298 | 30 Sept | **the book closes blank**, and he says why in front of Ines Duarte |
+| **299** | **night of 30 Sept** | **THE SCENE, and it is Volume 6's fifth and last** |
+| **300** | **1 Oct** | the round at eight, the mark at ten to nine, and the volume's close |
+
+## 1. WHAT THE BATCH DID
+
+**It priced the reservoir, and it was him who asked.**
+
+**Ch 291 is the movement opening and it is the first time in five months that the whole problem has been
+on one page.** The quarter round is lodged with the house on the last working day of the quarter and served
+at eight on the first, twenty-one addresses, the twentieth his, figure seven under it — and the turn of the
+quarter on that same morning is the only date that can call a figure with nothing behind it. **Two
+instruments, one door, the same hour.** He has promised a woman on a step that he will not be there, so the
+docket goes under his own door unread. **Which leaves the question the chapter ends on: the answer has to be
+sworn by a person answerable at that address, and Runa Sato gives three names and puts her own first.**
+
+**Ch 292 finds the fifth document and it is a book, which is the only answer Runa's four could have had.**
+The district premises return of the third of June is not a sheet. **It is a leaf in a bound quarter-book,
+one book per premises per quarter, ruled against the leaves either side of it, and a clerk reads a page and
+not a spine.** It has been in four divisions since the second of August and nobody counted it, because
+nobody counts a room. **And a premises book opens on the first of a quarter and closes on the thirtieth of
+the last month of it and is not reopened, and while it is open a head may enter once, in his own hand, in a
+line that stands blank.** So the seventh line is not permanent because of a bar on a certificate. It is
+permanent because of a book closing, and the book closes on the thirtieth, and he has twenty-five days.
+
+**Ch 293 is what boring costs.** A district supervisor signs the shelf before the store, checks that nothing
+has been added in a hand that is not one of ours, finds the seventh line blank with a count above it, and
+writes six words in a pencil margin: *7th line blank, returned 3 vi. Head may enter. Book closes 30 ix.*
+**Wren Kallo told him on the twenty-second of August that a filed thing is an ordinary thing, and she is
+right, and ordinary is read on the turn of the quarter by a man with a pencil.** The cost lands twice: a
+clerk's number is in that margin for ever, and **the certificate of the first of September is what put it
+there**, because he asked for the description of his own defect to go on the face of the instrument and the
+division that keeps the premises books read it.
+
+**Ch 294 gives Beatrix Halm the thing nobody has ever given her, which is not a price.** She asked on the
+thirteenth of August for a day it is held, with the days counted under it in his handwriting, and he gave
+her seven of them — the seventh of June, the twentieth of July, the first and the eighth of August, the
+thirtieth of August, the first of October — and the count under each. **And a guild clerk came on the ninth
+and told her, helpfully, that the only figure about his household in any book a guild may lawfully ask for is
+the number of people keeping an address at it on the morning.** She refuses it, as she said she would. What
+she gets is a calendar, and the cost of a calendar is that every date in it came out of his mouth.
+
+**Ch 295 is the pen on a chain, and he asks for the wrong favour and gets a paper instead.** The mark at ten
+to nine on the first is entered by the broker holding the book, and on the first of October that is still
+Marguerite Vale, because the keys change on the seventeenth. **He asks her to enter a mark against a house
+she sleeps in, and she refuses, and the reason is the chapter: a broker who has entered one mark in nine
+years is a broker with a mark.** And then she makes him pay: **a written, dated, countersigned undertaking
+that he will not ask her to enter it.** That is the first document in this book that is about him and not
+about the household, and it goes into four divisions, and it is his own handwriting refusing himself.
+
+**Ch 296 IS THE IRREVERSIBLE DECISION AND IT IS HIS.** On the sixteenth, the last day she was allowed to be
+the only woman able to write a figure about him, he went down the two flights. **He does not ask for the
+sentence under the column for the fourth time. He describes it.** *It is fed at one address. It has never
+come anywhere else. It comes there because of what I am and where I stand and what I am made to do between
+five and seven in the morning, and it has been coming there for four years.* She told him in July that she
+would not price a thing she could not describe, and she prices it in ninety seconds. **The figure is seven**,
+and the line under his column reads: *an unrecorded account standing against no ledger; carried at the address
+of premises 34-6-118; answerable by the composition of that premises.* Dated the sixteenth, **initialled and
+not signed**, because a signed line about an address is evidence about the people who keep it and she stops
+being the keeper of that room that afternoon. **He asked for a number instead of a house and he got a house,
+and a dated figure in a real book cannot be called back.** In about four years the examination passes to
+whoever is standing in that room, and that person will be answerable for seven people they have never met.
+**This is Volume 6's failure condition, fulfilled to the letter, at his own request.**
+
+**Ch 297 is the cost made practical, and it is a household that cannot move.** The answer is sworn by a
+person; he cannot be there; Runa Sato's name goes first and he says no in nine seconds — **and Runa Sato
+tells him he is hiding behind a word, because the promise of the twenty-seventh of August covers merit and
+not persons, and he agrees, and then gives the real reason, which is the first of August and nine seconds and
+a house.** So it is him, at ten to nine, in a chained book at the Exchange, which is not his own building,
+so Petra Ilyin's condition can be kept. **And the figure must be exactly seven on that morning.** Eight women
+live at that address and only seven keep it, one of whom has never slept in it since the sixth of July and
+one of whom has never had one at all. **If either moves, the mark stands at the figure of the head and the
+difference is charged to a woman who has carried an account for thirty years.** So the kitchen is frozen
+from the thirtieth to ten to nine on the first. **And Wren Kallo, who has never held an address and is on
+nothing at any time, asks the only question nobody wants asked, and then answers it herself: the second of
+October, at about eleven, at a counter, in the ordinary way, where a person of reading age keeping an address
+at a premises may be added at any time except while a book is closed.**
+
+**Ch 298 is the last working day of the quarter.** The card comes off the board at ten to six and says
+**eight thousand one hundred and forty-four**, six under, and the word on the wall has not moved since the
+thirtieth of July. The third-quarter book goes into a crate and onto a store shelf and weighs four pounds and
+a bit. **He does not enter a name in the seventh line.** He says so at the kitchen table with Ines Duarte in
+it, which she asked for, and he gives the reason, and she takes the pencil out of her coat and lays it on the
+table and will not let him carry her reason for her. **Then she makes him say it in the plainest words in the
+book: he did it because Ines Duarte.** Sun Meiling says the bar is now blank for ever and states again that
+she is neither grateful nor ungrateful. The round is lodged at the Vant in the ordinary way at four in the
+afternoon.
+
+**Ch 299 IS VOLUME 6'S FIFTH AND FINAL SCENE AND IT IS BEATRIX HALM'S.** Her rooms, two over a shuttered
+shop on the tram line, eleven minutes' walk, none of it spoken in. **She can feel the quarter turn in the
+city and there is no instrument for it and she has told nobody**: every tram in the city takes the corner by
+the shop differently four minutes after a quarter turns, and they have all done it since the first of July,
+and the corner goes back at twenty-one minutes past four. **Her want is the batch's want and it is not
+mercy. She is nine years into reading everybody else's page and she has never once been read: she makes him
+say the seven dates back to her out loud from memory, in order, without looking.** She stops him twice on
+the eighth and he is six out of seven, and the one he gets wrong is the thirtieth of August, said in the
+wrong month, because it is tonight that is the thirtieth. **She writes the correction in the margin in her
+own hand and will not let him initial it**, because in about four years a page will carry both their hands
+and one correction of hers would make every line on it hers. She forbids him to come with her to the guild
+in the morning and takes the whole shape of it apart in four sentences: a woman brought to a counter by the
+man whose household is on a certificate stops being a woman defrauded of a date and becomes a woman being
+helped, and the guild will put the help in the file instead of the answer. **He promises nine until the
+hearing is answered or refused, whichever is later, and she says it is not a time and is the only acceptable
+answer anybody has ever given her.**
+
+**Ch 300 is the first of October, and it is the volume's close.** He is four hundred yards up the hill with
+a cup of tea at ten past seven. **Petra Ilyin knocks twice at eight, gets no answer, puts the docket under
+his own door, writes the hour on it, and does not read it, and goes on to the twenty-first address.** At ten
+to nine, in a room with one window that does not open, a woman who took the keys on the seventeenth reads
+the four lines of the sixteenth, says *you are the address*, enters the mark against the account of thirty
+years in four seconds, and makes him count her the seven. **He swears a production of seven in his own hand
+with the date under it, in nine seconds both times, and a keeper he has never met says that a book with the
+same number twice from the same man is a habit and not a coincidence.** Beatrix Halm is at a guild counter at
+ten with a notebook and nothing in her hands, and it takes six minutes, and he is nine hundred yards away and
+keeps the whole of what he promised at eleven o'clock the night before. **And then the close: six documents
+about one address in four buildings in twenty-four days, and not one of them has his name at the top of a
+page — and a classification does not need a man in it. It needs an address, and a figure, and a reason.**
+
+**THE SCENE IS 299 AND IT IS THE ONLY ONE. 291, 295, 298 AND 300 HAVE NO SCENE AND MAY NOT BE GIVEN ONE.**
+The budget is 261, 269 (spent at 271), 279, 289, 299, and the gaps are twelve, ten, ten, ten, ten.
+
+## 2. THE POSITION AT CHAPTER 300 — EVERY FIGURE ON THE PAGE
+
+Plate **8,138**. Band floor **8,144**, up from 8,143 on the thirtieth of August. Tolerance three. **Six
+under**, published on a public wall on the thirtieth of September, in the word **out of band**, in a shade the
+square has never had, and **the word has not changed since the thirtieth of July.** Ledger **118 lines, nine
+turned, the ninth still himself. Nothing spent.** File **4,112, one folio open, no second. No classification,
+no rank earned, no rank lost.**
+
+**THE FIGURE OF 8,138** still stands against the broker's account of thirty years and **was ANSWERED on the
+first of October by a production of seven persons sworn by him in his own hand in a chained book at the
+Exchange at ten to nine.** An answered figure is answered and does not go away; it stays in a column under an
+address. **A production answers a call and not a quarter, and this production also answers a price, and the
+price is the same seven.**
+
+**THE RESERVOIR IS PRICED, AND THE PRICE IS SEVEN.** *An unrecorded account standing against no ledger.
+Carried at the address of premises 34-6-118. Answerable by the composition of that premises.* Dated the
+sixteenth of September, **initialled and not signed**, in the real books of the Vant, going out of the
+counting room in the ordinary way on the seventeenth and in four divisions by the end of the week. **It is
+dated and initialled and there is not one name on it anywhere, and it is the only document in this city that
+cannot be unsaid.** **It names an address and a figure and not a man, and he asked for it.**
+
+**SEVEN DOCUMENTS, AND RUNA SATO'S COUNT IS SIX PLUS ONE.** Nadia Ferrous's page, the third of August, with
+a leaf left empty on purpose · the composition and the correction · the reconciliation of the twenty-fourth,
+initialled · the broker's statement of the twenty-ninth, signed · **the certificate of the first of
+September, his name twice, with a bar described on its face in six lines in his own hand** · **the
+district quarter-book for those premises, on a store shelf, with a pencil note in the margin of the seventh
+line and a clerk's number on it** · and the priced line of the sixteenth. **Not one of the seven has his
+name at the top of a page.**
+
+**THE HOUSEHOLD AS IT NOW STANDS.** Eight women in the building and **nobody may move in or out, nobody may
+take an address and nobody may give one up, from midnight on the thirtieth until ten to nine on the first**,
+and the rule stands until somebody disobeys it. The seventh returned line of the district return of the third
+of June is **permanently blank, by the closing of a bound book and not by anything anybody wrote**, and it
+was blank by choice, and he has said why out loud in front of the woman it is about. Sun Meiling is in ink
+under a bar on a certificate and is neither grateful nor ungrateful. Wren Kallo will take an address at about
+eleven on the second of October at a counter, in the ordinary way. Petra Ilyin is on no roll at all, one
+hundred and sixty-nine days, and put a docket under his own door on the first and did not read it. Beatrix
+Halm has seven dates in her own notebook and a margin she will not let him initial, and a guild hold that was
+called at the turn at a price she refused. Ines Duarte keeps an address she has never slept in and was made
+to say her own name aloud in a kitchen. Runa Sato's stale paper is stale. **Nothing has been routed, and the
+promise of the twenty-seventh of August stands, and on the nineteenth Runa Sato told him out loud that he
+had been hiding behind the word for four days.**
+
+## 3. WHAT A LATER BATCH WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days and has no thirty-first.** The thirtieth is the last working day of a quarter.
+2. **August 1 is a Tuesday. August's Thursdays are the third, the tenth, the seventeenth and the twenty-fourth
+   — the thirty-first is a phantom.** September's are the seventh, the fourteenth, the twenty-first and the
+   twenty-eighth. **Only Thursday is ever named, and Batch 0005 named no day of the week at all.**
+3. **The band floor goes up on the last working day of a quarter by a different office in a different hand:
+   8,141 → 8,142 on the thirtieth of July, 8,143 on the thirtieth of August, 8,144 on the thirtieth of
+   September.** **Next: the thirtieth of December, and the thirtieth is a Wednesday in that arithmetic and
+   the city does not work the day between.**
+4. **A called standing is answered at a valuation, and the mark is at ten to nine on the first, and the mark
+   is entered by the broker holding the book.** The keys of the counting room changed on the seventeenth of
+   September.
+5. **A production answers a call and is a figure of persons answerable at the premises on the day.** He has
+   sworn it twice, on the first of August and the first of October, in the same chained book, in nine seconds
+   both times, and a keeper has already noted that a book with the same number twice from the same man is a
+   habit.
+6. **A premises book opens on the first of a quarter and closes on the thirtieth of its last month and is
+   not reopened, and while it is open the head may enter once, in his own hand, in a line that stands blank.
+   The district keeps one bound book per premises per quarter.** A blank line in a closed book cannot be
+   named by anybody afterwards.
+7. **A supervisor signs the shelf with a pencil before the store, and a pencil note in a margin of a public
+   book cannot be taken out by anybody but the officer who wrote it.**
+8. **An initialled reconciliation is a keeper's arithmetic; a signed one is a woman's evidence.** She signed
+   the third of August and initialled the twenty-fourth, and **she initialled the priced line of the
+   sixteenth for the same reason and the same reason is about the people who keep the address.**
+9. **An initialled page leaves the room in the ordinary way the next working day.** The priced line went out
+   on the seventeenth and was in four divisions by the end of the week.
+10. **A dated figure in a real book is a fact and not an offer, and it cannot be called back.** Offers expire;
+    facts do not. This is the mechanism of the volume's failure condition and it was triggered by him.
+11. **A classification does not need a man in it. It needs an address, and a figure, and a reason.** He has
+    all three on a page and has not been classified. **That is Volume 7's engine and it is deliberately not
+    resolved here.**
+12. **`270:111` prints the term one day under §2's column because it counts elapsed and 270 is a closed
+    chapter. `276:3`'s saucer count depends on an anchor at `266:101`. Neither was touched and neither may
+    be moved without moving its chapter.**
+
+## 4. WHAT IS OPEN, AND WHAT VOLUME 7 OWNS
+
+**THE RESERVOIR HAS A PRICE AND THE PRICE IS A HOUSEHOLD.** A dated, initialled line in a real book names an
+address and a figure of seven and nothing else, and it went out in the ordinary way on the seventeenth.
+**He did not get classified, and a classification has never needed his name.** Also standing: **Wren Kallo's
+finding, in a drawer, and now in a pencil margin, and the clerk's number on it is hers for ever** · **the
+guild's hold on Beatrix Halm's hearing, called at the turn, and she is at a counter with a notebook on it**
+· **Runa Sato's date, gone missing since the thirtieth of July** · **Marguerite Vale's four lines in a
+drawer** · **Sun Meiling's bar, permanent, and her sentence that she is neither grateful nor ungrateful** ·
+**Ines Duarte's address in four divisions in her own words, and a sentence spoken aloud in a kitchen** ·
+**the seventh line, permanently blank, closed by a book rather than by a decision** · **the routed draw,
+which still has not happened and which Runa Sato now knows he has been hiding behind a word to avoid** ·
+**and a woman holding the keys of a counting room who has never met him, has had his address in a book for
+two days, and is not yet anybody's enemy.**
+
+## 5. THE REPAIR PASS THAT FOLLOWED THIS BATCH'S REVIEW
+
+**See `reviews/volume-06/batch-0005.md`.** The summary of it: the first 12-gram pass returned **137 groups**
+touching this batch and the final is **0 under both tokenisations**, every one of the 137 was a real defect
+and every one was cut, **no paragraph splitter was run over any of this prose at any floor**, and three
+day-count errors and one age construction were found by hand and fixed after the mechanical pass was clean.
+
 # VOLUME 6, BATCH 0004 — HEAD RECORD. CHAPTERS 281–290. THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER.
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
