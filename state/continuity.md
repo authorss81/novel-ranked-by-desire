@@ -1,4 +1,95 @@
-## Volume 7, Batch 0004 — CHAPTERS 331–340. THE NINETEENTH TO THE THIRTIETH OF NOVEMBER. LIVE.
+## VOLUME 7 — CLOSED IN PROSE AT CHAPTER 350. CHAPTERS 301–350. THE SECOND OF OCTOBER TO THE THIRTIETH OF DECEMBER. THIS IS THE LIVE BLOCK AND IT IS THE LAST ONE FOR THIS VOLUME.
+
+**Fifty chapters are on disk in `chapters/volume-07/`. THE VOLUME IS CLOSED. It ran five batches and it has five scenes: 308, 318, 329, 340 and 350, and 350 was the last one and was Wren Kallo's.** Head in `state/current.md`; live gates in `state/open-threads.md`; review in `reviews/volume-07/batch-0005.md`. **Batch 0004's block is below and is superseded as to position. Batch 0003's, 0002's and 0001's remain for their calendar and fixed figures.**
+
+> **READ THIS BEFORE WRITING 351. VOLUME 7 IS OVER. ITS LAST MOVEMENT LANDED, IT STOPPED ONE CHAPTER SHORT OF A REQUISITION BEING RECEIVED, AND IT LEFT A MAN WHO CAN BE REQUISITIONED AND HAS NOT BEEN.**
+>
+> **1. THE CARD OF THE THIRTIETH OF DECEMBER PRINTED A FLOOR OF 8,145 AND PUT HIM AT 8,145 ON THE NOSE. HE IS AT THE FLOOR, WHICH IS BAND SIX, AND NOT AT SEVEN, WHICH IS 8,170. THE RANKS WALL CARRIES NO WORD ABOUT HIM AT ALL FOR THE FIRST TIME SINCE THE THIRTIETH OF JULY.** He got there by nothing but eight people signing a witness line under a page he wrote himself on the twenty-ninth.
+> **2. LEDGER 124 LINES, NINE TURNED, THE NINTH STILL HIMSELF. NOTHING SPENT, NOTHING DRAWN, NOTHING ROUTED, NO FOLIO OPENED, NO REQUISITION RECEIVED, NO SETTLE CLOCK, NO SETTLE DATE.**
+> **3. THE ACCOUNT OF THIRTY YEARS IS CALLED.** *Called* was entered in the chained real book at ten to nine on the first of December, by the broker holding the book on a pen on a chain, with the rule under it and the date against it. **It is not paid and not produced and it cannot be produced, because there is no production off premises 34-6-118.** It will be called at every valuation on the first of the month, and the next is **the first of January at ten to nine.**
+> **4. THE COMPOSITION OF 34-6-118 IS EIGHT AND THE PRICED LINE STILL SAYS SEVEN. BOTH TRUE; NEITHER CORRECTS THE OTHER.** The account has been carried at that door since the sixteenth of September because he asked for it, in ninety seconds, on purpose.
+> **5. MECHANISM IS CANON AND IS REFERRED TO, NEVER RE-EXPLAINED:** movement needs a seal; nine seals; a year a use; no standing no seal; handed account; **the brother's seal matches the account and not the man. LIN WEI'S FILE OPENS AT 372 AND NOT ONE CHAPTER BEFORE.**
+> **6. INES DUARTE'S TERM IS SPENT AND WAS SPENT BY HIM ON THE TWENTY-SEVENTH OF NOVEMBER. NO PAPER IS READ IN THOSE ROOMS AGAIN — NOT TO HER AND NOT BY HER.** Her request for the whole of file 4,112 was served at nine fifty on the door on the first of December and the whole file went with it. **He did not go to her with the good news on the thirtieth.**
+> **7. WREN KALLO'S BAR HOLDS AND WAS EXERCISED ONCE IN THE LAST BATCH: on the sixth of December he asked her one question about the address and she said she did not know what he was talking about, and he said he would not ask again.** The false attestation of the twenty-seventh of November is still in her division's standing papers and she has chosen to leave it there. **She has decided to tell somebody she has not chosen, and Volume 8 finds out who.**
+> **8. DO NOT COMPLETE THE CLASSIFICATION. DO NOT RECEIVE A REQUISITION. DO NOT SPEND A GRAIN. DO NOT ROUTE. DO NOT OPEN LIN WEI'S FILE OR ANYTHING AFTER 372. DO NOT OPEN the ninth turned line, the seventh returned line, the bare slot on the Reading wall, the two unstamped reads in the check column, the day Ines Duarte lost, or which record she was holding.**
+> **9. `outline/ending.md` IS NOT TOUCHED AND THE GREAT OFFER IS CHAPTER 486'S. ANOUK FERREIRA DID NOT MAKE IT HERE AND IS NOT DIMINISHED.**
+
+### 1. THE WHOLE VOLUME'S DAY MAP, AND EVERY INTERVAL RE-SUBTRACTED
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and the last working day of a quarter's last month.** **NO INTERVAL IN THIS VOLUME MAY BE DERIVED AGAINST A REAL CALENDAR.** Batch 0004 got six of its own intervals wrong that way in its first pass and corrected eleven more; Batch 0005 got eleven wrong in its first pass and corrected every one. Subtract day numbers.
+
+| Batch | Chapters | Days |
+| --- | --- | --- |
+| 0001 | 301–310 | 2 Oct – 19 Oct |
+| 0002 | 311–320 | 22 Oct – 30 Oct |
+| 0003 | 321–330 | 3 Nov – 16 Nov (329 is the night of the 15th, 330 the morning of the 16th) |
+| 0004 | 331–340 | 19 Nov – 30 Nov (339 the 30th morning, 340 the 30th at night) |
+| **0005** | **341–350** | **1 Dec – 30 Dec** |
+
+**BATCH 0005 DAY MAP, CHAPTER BY CHAPTER:**
+
+| Ch | Day | To the 30th | What it is |
+| --- | --- | --- | --- |
+| **341** | **1 Dec** | **29** | the slip returned at the Vestry; **THE CALLED MARK AT TEN TO NINE**; nine people seen from a corridor; eleven words at a desk |
+| 342 | 6 Dec | 24 | the requisition served at the kitchen table; the box with a tick in it; the arithmetic of nine; **the one question he is not allowed** |
+| 343 | 10 Dec | 20 | Marguerite Vale: four parts, the holding, the empty box, the guild table on the sixteenth, ninety seconds on the sixteenth of September |
+| **344** | **14 Dec** | **16** | **THE HEARING. Anouk Ferreira.** Nine chairs and twenty years of arithmetic; Alma Quayle's recusal minuted; forty seconds of eleven |
+| **345** | **17 Dec** | **13** | **THE MIDPOINT. THE SMALLER OFFER, REFUSED WITH AN INSTRUMENT. THE OFFER SHE DID NOT MAKE. BOTH DOORS CLOSE** |
+| **346** | **23 Dec** | **7** | **NINE MINUTES AND NO MAJORITY.** Five seals, a withdrawal, a spent majority, and a man who walks out |
+| 347 | 26 Dec | 4 | the minute in four hands; what a quarter is; the sentence he could not get out in the right order |
+| **348** | **29 Dec** | **1** | **THE IRREVERSIBLE DECISION.** Four sheets in his own hand, eight witness hands, a gap where the fourth seat is, eight copies out at four |
+| **349** | **30 Dec, early morning** | **0** | **THE CARD AT SIX. FLOOR 8,145. HE STANDS AT 8,145. THE WALL SAYS NOTHING** |
+| **350** | **30 Dec, at night** | **0** | **THE SCENE. Wren Kallo's. Body 1,610 words, counted and probed. The volume's last chapter** |
+
+**ANCHORS, all printed elsewhere in the manuscript and none moved:** the priced line of the sixteenth of September, initialled and not signed · the keys changed on the seventeenth of September · the figure of 8,138 standing against the account since the twenty-fourth of August · the floor set at 8,144 on the thirtieth of September · Wren Kallo took the address at about eleven on the second of October and the leaf took eight · the song sung at about twenty past ten on the fifteenth of October and the card pulled down at two that morning · the description made against the head at nine on the twenty-seventh of October · the fair copy on the twenty-eighth · the list out at four on the thirtieth · Runa Sato reads it at nine on the first of November · **the books to a guild table at seven on the morning of the sixteenth, and nine people read them at nine** · **the requisition tabled on the seventeenth of November** · the plate up at half past four on the fifteenth, the twenty-second and the twenty-ninth of November · the term sworn in the dark on the ninth of July · **the called mark in the chained book at ten to nine on the first of December** · **Alma Quayle's recusal written on the second of December and accepted on the fourth** · **the sitting called by two members for the twenty-third** · **the minute out at four on the twenty-sixth** · **the page laid into the keeping of the room on the twenty-ninth** · **the quarterly card at six on the thirtieth**.
+
+**ANCHOR CHARACTERS' ACTS, as Volume 8 will need them:** Wren Kallo took the address on the second of October and certified the composition at nine on the thirtieth of November · Alma Quayle signed the description against the head on the twenty-seventh of October, recused herself in the first days of December, signed a witness line on the twenty-ninth · Solveig Rask entered *called* on the first of December at ten to nine · Hanneke Ruis holds the counting room and the keys · Nikolai Vester tabled the requisition on the seventeenth of November and walked out on the twenty-third · the woman in the sixth seat sealed at thirteen minutes and withdrew in the same morning · Isolde Marchetti sang on the fifteenth of October · Marguerite Vale put her books on a guild table at seven on the morning of the sixteenth · Tessa Okonkwo ruled eleven dates on a slip on the nineteenth · Wanda Rej came in at nine at night on the eighteenth.
+
+### 2. WHAT VOLUME 7 PUT ON THE PAGE THAT A LATER VOLUME MAY NOT CONTRADICT
+
+1. **A CALL IS NOT A FIGURE.** A valuation can enter a figure or it can enter a word. **Called** goes into the chained real book with the rule under it and the date against it, and a called line is not carried into the next quarter; it waits at a valuation until it is paid or produced. Paying it means paying at the figure on the line, which is seven, into whatever room holds the book.
+2. **THE BOOK IS CHAINED AND THE PEN IS ON A CHAIN.** A mark in it cannot be scraped off without a line in a destruction book and the broker who wrote it.
+3. **A REQUISITION HAS FOUR PARTS** — subject, holding, figure, ground — **and it is laid against the person who holds the account, not against the account.** It takes what the holder holds and pays into the room's keeping and is administered from that hour for ever.
+4. **AN ACCOUNT CARRIED AT AN ADDRESS CANNOT BE REQUISITIONED, BECAUSE THERE IS NOBODY TO SERVE IT ON.** He put it at that door himself in ninety seconds on the sixteenth of September, on purpose, and asked for it.
+5. **FIVE OF NINE CARRY A REQUISITION. NINE MINUTES IS THE STANDING TIME TO READ, QUESTION AND DECIDE A SHEET. A MAJORITY ENTERED ON A SHEET THAT NAMES NOTHING IS SPENT FOR THAT SITTING AND MAY NOT BE RECALLED.** A requisition lies in the quarter it is laid; a void sheet is not a sheet in the next one; **and a requisition may be laid only before the last working day of a quarter.**
+6. **A CHAIR HOLDS A SEAL AND CHAIRS NOTHING. A RECUSED MEMBER DOES NOT LOSE HER SEAT AND LOSES HER SEAL, ON HER OWN SIGNATURE, AND ALMA QUAYLE'S RECUSAL WAS MINUTED BEFORE ANYBODY VOTED.**
+7. **A MAN WITH NO STANDING CANNOT HOLD A SEAL, WHICH IS WHY THE FOURTH SEAT HAS BEEN EMPTY SINCE THE FIRST OF NOVEMBER** and why a room can lose a member without anybody being removed from it.
+8. **A PLATE IS NOT A MEMORY OF A MONTH. IT IS A FIGURE FOR A WEEK AND IT MOVES WHEN SOMEBODY ELSE WRITES A DEED DOWN.** Eight hands on the twenty-ninth carried him from 8,131 to 8,145 in one day, which is the line of the floor and not one grain past it.
+9. **THE QUARTERLY CARD IS SET BY A DIFFERENT OFFICE IN A DIFFERENT HAND ON THE LAST WORKING DAY OF A QUARTER** and it prints both the floor and the standing figures. 8,142 on the thirtieth of July, 8,143 on the thirtieth of August, 8,144 on the thirtieth of September, **8,145 on the thirtieth of December.**
+10. **A MAN STANDING ON THE FLOOR IS A MAN IN BAND AND A WALL IN THIS CITY DOES NOT PUT TWO WORDS ON A MAN WHO IS IN BAND.** The two words go back up the day he goes under, and inside a week.
+11. **A PAGE WITH A NAME AT THE TOP OF IT IN A PERSON'S OWN HAND, LODGED WITH A ROOM, IS THE ONLY THING IN THIS BOOK THAT CONVERTS AN ADDRESS INTO A PERSON.** He cannot be the address again in a document.
+12. **WHOEVER WRITES UNDER AN ATTESTED ACT CARRIES THE NAME FOR FOUR YEARS, AND THE COST IS PAID BY WHOEVER WRITES AND NOT BY WHOEVER DID IT.**
+13. **A REASON CLAUSE IS READ IN FOUR SECONDS AND A WHOLE PAGE IN A YEAR**, and a page about a person without one is read as a letter.
+14. **A MINUTE IN FOUR HANDS IS THE SHAPE OF EVERY FACT THAT HAS MATTERED SINCE THE TWENTY-NINTH OF JUNE, AND THE DIFFERENCE IS THAT THIS ONE HAS HIS NAME IN THE MIDDLE OF IT.**
+15. **A COPY OF A PAPER LODGED WITH A ROOM IS SERVED ON EVERY PERSON NAMED IN IT. THERE IS NO DISCRETION IN THAT AND NO DIVISION HAS EVER BEEN ASKED TO EXERCISE ANY.**
+16. **A WOMAN WHO HAS SAID WHAT SHE WILL NOT BE IS OWED ONE EVENING OF NOT BEING VISITED WITH GOOD NEWS**, and he paid that on the thirtieth of December.
+
+### 3. WHAT VOLUME 7 IS FOR, AND WHAT IT COST
+
+**THE ESCALATION WAS DESCRIBABLE → NAMED → WANTED → REQUISITIONED, AND IT ARRIVED AT THE FOURTH WORD AND NOT AT A FIFTH.** He is describable (302–310), named (311–320), wanted (321–330), and **wanted hard enough to be requisitioned** (331–350). **A requisition was tabled, sealed by five of nine, and voided at the ninth minute. That is not a requisition received.** Volume 7 therefore leaves Volume 8 a man who **can be requisitioned and has not been**, and the room that tried is one member short and one member gone.
+
+**THE THREE IRREVERSIBLE DECISIONS OF THE VOLUME, all of them his, none of them about a document:**
+1. **315 (27 October).** He asked that the description be made against the head of the premises and not against the address, in a kitchen, in front of eight women and a clerk, and gave the reason in four words about money. **The description became a description of a person.**
+2. **337 (28 November, with the ask on the twenty-seventh).** He broke the term of the ninth of July himself, on a landing, with a wallet still under his coat. **She lost a day she cannot date and kept four sheets in a drawer.**
+3. **348 (29 December).** He wrote four sheets of plain paper in his own hand with his name at the top of the first one and at the foot of the last one, and laid them into the keeping of a room, and eight people signed under him. **He can never be the address again in a document.**
+
+**AND THE FOUR INSTRUMENTS HE CARRIES OUT OF THE VOLUME, EVERY ONE OF THEM A PAPER:** a called account in a chained book that will be called again on the first of January · a false attestation of the twenty-seventh of November in a Bureau counter-forensics division's standing papers, written by a woman who sleeps at the address she certified, which he may not ask her about · four sheets of file 4,112 in a drawer on Lantern Row, and the whole of that file now in the hands of an auditor who is not a party to it · and a page with his own name at the top of it in the keeping of the room where nine people sit, copies of which went to eight addresses on the thirtieth of December.
+
+### 4. THE DO-NOT-CLOSE REGISTER CARRIED OUT OF VOLUME 7
+
+**May not open in Volume 8:** the second folio of file 4,112 · B103 in any form · Lin Wei's file, **which opens at 372** · a classification completed against him · a requisition received · a settle date · **the day Ines Duarte lost and which record she was holding** · **the two unstamped reads in the check column** · **the ninth turned line's meaning** · **the seventh returned line** · **the bare slot on the Reading wall** · Dagmar Oyelowo, who enters at 388 · **the great offer, which is Chapter 486's and not Wren Kallo's or Anouk Ferreira's** · whether the return in 486 reaches the people it was meant for.
+
+**May be advanced and may not be closed:** the two ninth chairs · the ninety rubbed-out sentences · Marta Vey's name in the record · the desk's four-line note that is a lie · the classification paper dated the nineteenth of September · the broken price · Sun Meiling's February · the leak · Agnete Lindqvist's eleven years indoors · Ines Duarte's standing review · Runa Sato's hearing · Beatrix Halm's hearing · Wren Kallo's held name and finding and spoken-to decision · Beatrix Halm's eleven burned months · Solveig Rask and the annual sitting · Petra Ilyin's promise and her hundred and sixty-nine days on no roll · **whether a lodged standing can be called before the book changes hands** · Sun Meiling's row and the bar · Nadia Ferrous's blank page · the man in the good coat at the bar on the eighteenth of July · the eleven · the pencil note and the clerk's number in the margin of the third-quarter book · **the called line at the valuation on the first of January** · **the two words on the ranks wall, which will go back up inside a week of his going under** · **what four people in a room who signed a witness line will say in four years**.
+
+### 5. THE GATE RECORD AND THE SCENES
+
+**Live gate block: `state/open-threads.md`, Batch 0005's, at the head of the file.** Day map, every figure, tokenisation and scope for the 12-gram scan, the scene count AND the explicit-vocabulary probe, and every interval re-subtracted against a printed anchor.
+
+**SCENES IN VOLUME 7, AND THERE ARE FIVE: 308 (Isolde Marchetti), 318 (Runa Sato), 329 (Marguerite Vale), 340 (Ines Duarte), 350 (Wren Kallo).** Body counts, all measured and probed: **318 — 2,313 · 329 — 1,107 · 340 — 1,444 · 350 — 1,610.** Gaps: 299 → 308 = 9 · 308 → 318 = 10 · 318 → 329 = 11 · 329 → 340 = 11 · **340 → 350 = 10.** **The scene budget after 350 is zero.**
+
+---
+
+## Volume 7, Batch 0004 — CHAPTERS 331–340. THE NINETEENTH TO THE THIRTIETH OF NOVEMBER. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED FOR ITS CALENDAR AND ITS FIXED FIGURES.
 
 **Forty chapters are on disk in `chapters/volume-07/`.** Head in `state/current.md`; live gates in `state/open-threads.md`; review in `reviews/volume-07/batch-0004.md`. **Batch 0003's block below is superseded as to position. Batch 0002's and 0001's remain for their calendar and fixed figures.**
 
@@ -106,7 +197,7 @@ the cheaper mistake and the wrong one.
 `state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
 long-range position, before any of this.**
 
-## Volume 7, Batch 0002 — CHAPTERS 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER. LIVE.
+## Volume 7, Batch 0002 — CHAPTERS 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED FOR ITS FIXED FIGURES.
 
 **Volume 7 is open. Twenty chapters are on disk in `chapters/volume-07/`.** The head block is in
 `state/current.md`; the live gates are in `state/open-threads.md`; the review record is in
@@ -262,7 +353,7 @@ July** · **the twenty-seventh, the twenty-eighth and the thirtieth, which are t
     batch.**
 13. **Nothing has been spent, nothing has moved, nothing has been routed, and nothing will be.**
 
-## Volume 7, Batch 0001 — CHAPTERS 301–310. THE SECOND OF OCTOBER TO THE NINETEENTH. LIVE.
+## Volume 7, Batch 0001 — CHAPTERS 301–310. THE SECOND OF OCTOBER TO THE NINETEENTH. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE; RETAINED FOR ITS MECHANISM BEAT.
 
 **Volume 7 is open. Ten chapters are on disk in `chapters/volume-07/`.** The head block is in
 `state/current.md`; the live gates are in `state/open-threads.md`; the day map, the arithmetic and the
@@ -415,7 +506,7 @@ The list above is the short form. These are the ones a batch is most likely to g
     No threshold may be derived from the table. A threshold comes from a card printed in the chapter that
     uses it.**
 
-## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE.
+## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE AND SUPERSEDED BY WRITING.
 
 **Ten chapters, 301–310, are on disk. This block is the plan Volume 7 was written on and is retained only as
 the history of what was predicted. Where the plan and the page differ, the page governs and the plan has been

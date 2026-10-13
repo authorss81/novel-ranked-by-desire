@@ -139,11 +139,14 @@ From `state/current.md` §2 and `state/continuity.md`'s Batch 0005 block, all of
 | **318** | **Runa Sato** | 308 → 318 = 10 |
 | **329** | **Marguerite Vale** | 318 → 329 = 11 |
 | **340** | **Ines Duarte** | 329 → 340 = 11 |
-| **350** | **Wren Kallo. And the volume's last chapter.** | 340 → 350 = 10 |
+| **350** | **Wren Kallo. WRITTEN. Body 1,610 words, counted and probed. And the volume's last chapter.** | 340 → 350 = 10 |
 
 **No gap under eight and none over fourteen, and the gaps are not one chapter's choice to make.** 308 and
 350 are the fixed ones; 318, 329 and 340 may move one chapter inside their own ten without pushing a gap
 over eleven, and **no batch may move a scene past the entry after it in this row.**
+
+**THE SCENE BUDGET IS SPENT. Volume 7 has five scenes — 308, 318, 329, 340 and 350 — and the volume ends at
+350, so there is no sixth, and no chapter of Volume 8 may be written as a continuation of one.**
 
 **Every scene in this volume is between a woman and a man who cannot pay for what she is doing.** No scene
 in 301–350 may use compulsion, sedation, exhaustion, restraint, psychic contact, trance or a seal as its
@@ -171,7 +174,7 @@ unwritten.** Two batches in Volume 6 shipped a summarised scene and both were ca
 > If a chapter genuinely needs a Thursday, the batch records the discrepancy in its review file rather than
 > resolving it, and it does not resolve it in the prose either.
 >
-> **The next quarterly card is the thirtieth of December and the volume ends on it.**
+> **THE LAST QUARTERLY CARD OF THIS VOLUME IS THE THIRTIETH OF DECEMBER AND THE VOLUME ENDS ON IT.** It was printed at six in the morning of 349, in a different hand on different paper, by an office that is not the plate office. **It prints a floor of 8,145 and it put him at 8,145 on the nose.**
 
 **The volume's day spine, and it is deliberately not one chapter a day:**
 
@@ -181,7 +184,7 @@ unwritten.** Two batches in Volume 6 shipped a summarised scene and both were ca
 | 311–320 | the twenty-second to the thirtieth of October | classification proper; the head of classification; the eight named |
 | 321–330 | the third to the sixteenth of November | the thing he had never done; the plate moves; the mechanism beat |
 | 331–340 | the nineteenth to the thirtieth of November | **WRITTEN.** eleven days of not spending, the band falling to 8,131, the account callable, the stranger's leg, the file he asked her to open, and a false attestation in a Bureau file |
-| 341–350 | the first to the thirtieth of December | the Concil, the requisition tabled, the card at six, the close |
+| **341–350** | **the first to the thirtieth of December** | **WRITTEN AND THE VOLUME IS CLOSED.** the called mark, the requisition served, the reason, the hearing, the offer refused with an instrument, nine minutes and no majority, the minute in four hands, the page he signs, the card at six at 8,145 on the nose, and Wren Kallo's scene |
 
 **Anchors for every count in this volume**, all inherited and none to be moved: the priced line of the
 sixteenth of September · the keys on the seventeenth of September · the quarter-book's closing on the
@@ -502,32 +505,196 @@ been.** A requisition tabled and refused is not a requisition received.
    the plan assumed the batch would end at 340 with the worst thing he has done; **it ends with the worst
    thing she has done, which is to keep his file in a drawer and to put her own name in front of the
    valuation.**
-5. **The Room Where Nine People Sit — 341–350.** The Concil of the Nine, monthly, at the bench, with a
-   majority seal position on requisition. **Anouk Ferreira, 63, chairs it, she is not a villain, and she is
-   right about why nine countable people were able to hold a city still for twenty years.** **She is not
-   the ending's speech and she may not give it here** — `outline/ending.md` fixes that for Chapter 486. Her
-   Volume 7 offer is the smaller and earlier one: *bring it in, let it be classified once, properly, and it
-   will be administered instead of taken.* **He refuses it, and the reason he has is an instrument and not
-   an argument:** in four and a half months he has put his own name at the top of a page, in his own hand,
-   as the head of the premises, describing the address and the account and the eight — **so the thing being
-   classified is a person, and a person can be examined, and an address cannot be argued with.**
-   **The requisition is tabled and fails for want of a majority at nine minutes.**
-   **Chapter 349 is the card at six on the thirtieth of December. Chapter 350 is Wren Kallo's scene and the
-   volume's last chapter, on the same night, and it ends with her doing the one thing she cannot not do.**
+5. **The Room Where Nine People Sit — 341–350. REWRITTEN AGAINST WHAT WAS WRITTEN, IN THE SAME COMMIT
+   THAT WROTE IT. The page governed and this movement now reads as the page left it.**
 
-   **AND THE BAND ARITHMETIC, WHICH NO CARD HAD STATED, ANSWERED HERE SO THAT 349 IS NOT LEFT GUESSING:**
-   **he prints AT the floor. 8,145 on the nose, on the thirtieth of December.** The spine of it: at 301 he is
-   six under a floor of 8,144; at 328 three women attest things he did and the figure on the wall goes up in
-   a new shade; through the eleven days of 331–339 every band he built goes flat in public, week by week,
-   and he is at the lowest he has ever been on a wall; **and what brings it back to the line is not a
-   reservoir and not a woman with a gift. It is the page he signs at 348 with his own name at the top of it,
-   which the bench attests and which the minute in four hands at 347 puts into circulation.** He is restored
-   to rank by the one thing the last seven volumes taught him to refuse, and he stops one short.
-   **CONSEQUENCE FOR THE LAST IMAGE, AND IT IS THE POINT: a man on the floor is not out of band, so for the
-   first time since the thirtieth of July the ranks wall carries no word about him at all.** He has spent
-   seven volumes being a sentence on a wall and the last thing that happens to him is that it goes quiet.
-   **This is the plan's answer. A batch that finds a better one takes it and rewrites this movement and §7 in
-   the same commit.**
+   The plan said: the Concil of the Nine, monthly, at the bench, with a majority seal position on
+   requisition; **Anouk Ferreira, 63, chairs it, she is not a villain, and she is right about why nine
+   countable people were able to hold a city still for twenty years**; her Volume 7 offer is the smaller
+   and earlier one — *bring it in, let it be classified once, properly, and it will be administered
+   instead of taken*; he refuses it with an instrument and not an argument; **the requisition is tabled
+   and fails for want of a majority at nine minutes**; he prints at the floor, 8,145 on the nose, on the
+   card at six on the thirtieth; and 350 is Wren Kallo's scene and the volume's last chapter.
+
+   **EVERY ONE OF THOSE BEAT ONTO THE PAGE. The engine underneath them did not, and the engine is the
+   whole of what this movement turned out to be, so this section was rewritten rather than ticked.**
+
+   **THE ENGINE THE PLAN DID NOT HAVE: AN ACCOUNT CARRIED AT AN ADDRESS CANNOT BE REQUISITIONED, BECAUSE
+   A REQUISITION IS LAID AGAINST A PERSON AND THERE IS NOBODY TO SERVE IT ON.** The plan had the room
+   wanting his account and the room being refused for reasons of character. **On the page the room had
+   been ready since the second of October and could not act for sixty-nine days, because the sheet it
+   had been drawing carries four parts and three of them were full and the fourth is a box headed *held
+   by* with a clerk's tick in the corner of it and nothing in it — and the account is carried at
+   premises 34-6-118 because on the sixteenth of September he asked for it, in ninety seconds, at his
+   own request, and a woman did exactly what he asked and has been unprotected for it ever since.**
+   The requisition did not fail because the room was weak or the room was cruel. **It failed because of
+   a box on a form, and the man who emptied the box filled it himself nine days later.**
+
+   - **341 IS THE CALLED MARK AND THE FIRST SIGHT OF THE BENCH, ON THE SAME MORNING.** The valuation of
+     the first of December is at ten to nine and the batch could not put it anywhere else, so it opens the
+     volume's last movement with the thing Batch 0004 left hanging: **Solveig Rask writes the word
+     *called* into the chained real book with a pen on a chain round her wrist, with the rule under it
+     and the date against it, and it is not a figure.** A called line is not carried into the next
+     quarter; it waits at a valuation until it is paid or produced. **It can be paid at seven, into
+     books that went to a guild table of nine people at seven on the morning of the sixteenth, in hands
+     he did not appoint, and there is no production off that door.** Ines Duarte's request for the whole
+     of file 4,112 is served on a door at nine fifty and the whole file goes with it, and the only
+     clerk who could say where says that if they wrote it down it would be a record and not a door. Then,
+     at about eleven, **he goes up to a corridor he has no business on and counts nine people going into
+     a room**, and eight come out. **The chapter ends with eleven words said in the ordinary voice by a
+     woman with a blotter at a desk under the window, and they are the whole of 342 to 346.**
+   - **342 IS THE ARITHMETIC AND IT IS ESTABLISHED BY A WOMAN WHO IS NOT ONE OF THE NINE.** Wren Kallo
+     serves the requisition at the kitchen table, because a requisition on a described subject is served
+     by the division that holds the description, and **he asks her one question about the address and
+     she gives the standing answer and he says he will not ask again.** So the woman who establishes
+     the room is **Runa Sato**, who has stood in that corridor twice on papers and counts it out:
+     **nine seats · five to carry · a chair that holds a seal and chairs nothing · the fourth seat empty
+     since the first of November because the man in it was re-read at that valuation and a man with no
+     standing cannot hold a seal · and Alma Quayle recused on her own signature and will not explain
+     herself.** A subject may be heard once before the seals, never in the same room as the vote, and
+     **a requisition may be laid only before the last working day of a quarter** — which is what makes
+     December a clock and what puts 346, 348 and 349 inside ten days of each other. **Agnete Lindqvist
+     says the sentence the whole movement turns on: the empty box is the only thing in this business
+     that has ever been on his side, and it is empty because he put the account at that door himself.**
+   - **343 IS MARGUERITE VALE AND IT IS THE REASON, AND THE REASON IS NOT A DEFECT.** A requisition is
+     not laid against an account; **it is laid against whoever holds it, and it takes what the holder
+     holds and pays into the room's keeping and is administered from that hour for ever.** The ground is
+     the best ground in this city and the nine have had it since the second of October. **The
+     requisition began at her own guild table on the morning of the sixteenth**, nine people reading her
+     real books, because he put them there. **She did the work in ninety seconds on the sixteenth of
+     September because he asked her for a figure, and it has cost her the only position that protected
+     her, and she says so once and will not be thanked for it and refuses to go into that room and try.**
+     And she names the fifth seal: **it needs a paper, and the only way to get one is for the man to
+     write it, and there is no such document in this city because he has never in his life written one.**
+   - **344 IS ANOUK FERREIRA AND THE PLAN WAS RIGHT ABOUT HER AND WRONG ABOUT WHY SHE IS DANGEROUS.** She
+     is right about the arithmetic and it is twenty years old: **there were eleven once and they could
+     take a person in a morning and afterwards nobody could say who had wanted it; nine countable people
+     are insurance and not mercy, and they are the only reason a person in this city can be said to have
+     been wronged.** And she gives him the other half in the same breath — **the same arithmetic takes
+     people out, and a man whom nine people cannot find is a man this city does not look for, and she has
+     signed two in twenty years and has never been certain which was right** — and she wants the list of
+     eight on his table acknowledged. Alma Quayle asks for her recusal to be minuted before anybody
+     votes. **He is given eleven minutes and uses forty seconds, and what he says is that he wants it to
+     be a page with a name at the top of it, and she tells him that is the first honest thing anybody has
+     said in that room in eleven years and also the answer she was hoping he would not give.**
+   - **345 IS THE MIDPOINT AND THE REFUSAL IS WITH AN INSTRUMENT, EXACTLY AS THE PLAN SAID.** Bring it
+     in, let it be classified once, properly, with a finding entered, and it will be administered instead
+     of taken — by the Board this quarter, by somebody else next quarter, and in about four years by a
+     clerk who has never heard of any of them. **He refuses with the description of the twenty-seventh of
+     October: a description of premises made against the head of them, in his own hand, so the thing under
+     classification is a person, and a person can be examined, and an address cannot be argued with.**
+     She dismantles that in one sentence and she is right — he has spent his best argument on the wrong
+     one — and then tells him the thing the plan did not have her say: **she has thought about the eight
+     women, and a classification follows the subject, and she has made the offer anyway with four days
+     left in a quarter.** **Nikolai Vester is named here and he is not a villain: eleven years in the
+     third seat, right about the ground, wrong about the instrument, and he will walk out of the room on
+     the twenty-third and not come back.** **AND THE TITLE IS TRUE: there was an offer she did not make.**
+     He asks whether that is the whole of it. She says it is the whole of it she is entitled to make to
+     him. **He does not ask for the rest and she does not offer it and neither of them says a word about
+     it for the rest of the year — and both doors close, because he will never ask to be classified and
+     she will never make the offer again.**
+   - **346 IS THE MACHINE WORKING AND IT STILL DOES NOT CLOSE, WHICH IS BETTER THAN THE PLAN.** The
+     sitting is called by two members because the quarter is closing. He is heard and then waits outside
+     while the seals go on. **The first seal at four minutes past ten, the fifth at thirteen: five of
+     nine.** The chair reads the sheet herself and asks **from whom**, and says a composition of eight is
+     a list of who sleeps there and does not say one word about what any of the eight holds. **The woman
+     in the sixth seat withdraws her own seal at the fourteenth minute because she did not read the fifth
+     line and has now read it.** Four on the sheet. **The ruling at the ninth minute is second from the
+     chair and not in dispute: a spent majority may not be recalled at the same sitting.** Vester says
+     the box had been empty since the eighteenth of November and he tabled it anyway, and that a filled
+     box would have taken four minutes instead of nine, and walks out. **THE PROOF THE PLAN ASKED FOR IS
+     THE ONE THE PAGE GAVE: the machine ran for nine minutes with five seals on it and produced nothing,
+     and the cost was not a building.** And then she tells him what it actually is: **nothing was taken,
+     and nothing is what happens on the first of January either, and in about four years a stranger with
+     a folder will read the word *requisition* in this room's minute and want to know what the man held.**
+   - **347 IS THE MINUTE IN FOUR HANDS AND IT IS THE FIRST DOCUMENT WITH HIS NAME IN IT HE DID NOT
+     WRITE.** Out at four on the twenty-sixth: the chair, **Alma Quayle as a witness and not as a
+     seal**, the clerk, and the woman who withdrew her seal. Served on him at the gate the same evening.
+     **Runa Sato gives the last arithmetic of the quarter — a requisition lies in the quarter it is laid,
+     a void sheet is not a sheet in the next one, and after the twenty-third there are three people left
+     who would seal a fresh one — so a filled box may not be enough, which is the reason to fill it
+     anyway.** At the table he says he intends to write it down and **cannot get the sentence out in the
+     right order, and eight women watch a man fail at an ordinary sentence and none of them helps him,
+     because helping him would have been the same as writing it for him.**
+   - **348 IS THE IRREVERSIBLE DECISION AND IT IS THE ARC OF THE BOOK MOVING ONE STEP, ON THE PAGE AND
+     NOT ON THE PLAN'S SCHEDULE.** **He writes it at his own kitchen table from about eight in the
+     morning with the eight watching, in his own hand, on four sheets of plain paper** — the address
+     and the fact that he asked for a description to be made against the head rather than against the
+     door; the account; the composition; the eight in the order of the stair with the room against each;
+     and, at the foot of the fourth sheet, **because a clerk will read a reason clause in four seconds and
+     a whole page in a year, eight words: *I am the man at the top of this page and I will answer for
+     it.*** Nobody helps him, because a hand that helped him write it would be a hand that had to be on
+     it. **Isolde Marchetti gets four sentences and they are not a redemption:** it is a reason, it is
+     not hers, she noticed, she is not asking for it, and she is not going to make it larger than it is.
+     At five minutes to eleven he lays four sheets on a table under a window in front of the room.
+     **Eight people sign a witness line. There are nine seats and there is a gap in the line, two fingers
+     wide, where the fourth seat is.** The chair names what has happened — *this is a person* — and Sun
+     Meiling names the price: **eight people carry his name in a book of their own for four years and one
+     of them has said nothing about it to anybody.** At four in the afternoon a copy goes to eight
+     addresses, all inside one building on Ferrier Street, **and one of them is the second floor he is
+     standing under, and he is barred from asking her one question about it for the rest of his life.**
+     **THE OPTION CLOSED: HE CAN NEVER BE THE ADDRESS AGAIN IN A DOCUMENT.**
+   - **349 IS THE CARD AT SIX AND THE BAND ARITHMETIC THE PLAN ASKED FOR, AND THE FIGURE IS EXACTLY THE
+     PLAN'S.** **The quarterly card comes down on the thirtieth, on different paper, in a different hand,
+     from a boy with a paste brush and a list of numbers, and prints a floor of 8,145 — up one from
+     8,144, which has stood since the thirtieth of September — and against premises 34-6-118 it prints
+     8,145, ON THE NOSE, WHICH IS THE FLOOR.** The plate read 8,131 since the twenty-ninth of November
+     and did not move once in December, because **a plate is not a memory of a month, it is a figure for
+     a week, and it moves when somebody else writes a deed down.** Eight hands carried him fourteen
+     points in one day to the line of the floor and not one grain past it. **THE CONSEQUENCE FOR THE LAST
+     IMAGE IS THE PLAN'S AND IT IS THE POINT: a man standing on the floor is a man in band, and a wall in
+     this city does not put two words on a man who is in band, so for the first time since the thirtieth
+     of July the ranks wall carries no word about him at all.** Beatrix Halm writes the time against it
+     and has nothing to write under it for the first time in nine years. **And he does not go to Lantern
+     Row at twenty past six with the good news, because she told him on the thirtieth of November what
+     she will not be.**
+   - **350 IS WREN KALLO'S SCENE AND IT IS THE VOLUME'S LAST CHAPTER, AND WHAT SHE IS DOING AT THE END
+     IS NOT DECORATION.** A note up the sixty-one — *Second floor. Nine. Come down.* **Five things on a
+     sheet in a clerk's hand with the pen capped across it: nothing is spent · she is not impaired and will
+     not be made so, and there is no drink in the room · her gift is not used, not once, not on a record
+     and not on a person and not on him · there is nothing in that room holding either of them, not the
+     gift, not the term of the ninth of July, not a document · and five, which is that she is not there
+     because he is in trouble, and he has to say it out loud.** Scene body **1,610 words, counted and
+     probed**, written out, unhurried once it begins, no compulsion, no sedation, no psychic contact, no
+     seal, no violence, her gift used on nobody. **Afterwards she tells him what she cannot keep: two
+     documents about the same eight women at the same door, made inside a month by the same pair of
+     hands, in one of which she is a Bureau officer certifying a composition at a distance and in the
+     other she is the fourth line of a list of persons at her own address, and the second one was made
+     to fill a hole the first one left open. There is not another person alive who can see that shape and
+     there is not another person alive who is forbidden to hear about it, and he may not ask and she will
+     say she does not know what he is talking about. HE DOES NOT ASK.** The card at 349 says no word
+     about him at all and she is the only person in that building who cannot sit still with that. **She
+     says she is going to have to tell somebody, has not chosen anybody, and has had since a quarter past
+     six that morning and a card on a wall. He gives her one sentence that is any use at all: *tell them
+     it costs nothing to be wrong about me and a great deal to be right.* Then she goes down the sixty-one
+     without a sound and out of a door at twenty to two in the morning, and the wall behind her says
+     nothing at all about anybody, and SHE DOES NOT KNOW YET WHO SHE IS GOING TO TELL. Volume 8 finds
+     out who.**
+
+   **THE STAGE IS ARRIVED AT AND NOT ARRIVED PAST: describable → named → wanted → requisitioned. A
+   requisition was tabled, sealed by five of nine, and voided at the ninth minute. That is not a
+   requisition received, and Volume 7 therefore closes leaving a man who CAN BE REQUISITIONED AND HAS NOT
+   BEEN, which is exactly what `outline/series.md` requires before Chapter 372.**
+
+   **THE PLAN DID NOT HAVE, AND THE PAGE OWNS, FOUR THINGS:**
+   1. **A requisition is a purchase and not a seizure, and the reason people fear it is that from the
+      hour it is carried the thing is administered, for ever, by somebody you cannot appeal to.**
+   2. **A description of premises carries the post of anybody at that address who holds one, and the
+      certificate Wren Kallo signed on the thirtieth of November is what put eight names and a head in
+      one document. The bench's route to him runs through the cleanest document in the city about that
+      house, and the woman who signed it is the one he may not ask and she may not be asked.**
+   3. **A woman who chairs a room can be right about the arithmetic and still be afraid of it, and the
+      reason she is afraid is the same reason the room exists: nine countable people can also be counted
+      out.** The fourth seat has been empty since the first of November and she cannot fill it and has
+      not told the room why.
+   4. **THE BAND ARITHMETIC IS NOT A TRIUMPH AND THE CHAPTER SAYS SO.** He is restored to the floor by
+      the one thing seven volumes taught him to refuse, and the cost was eight people carrying his name
+      for four years, and **a requisition that failed is still a requisition in a room's minute, and in
+      about four years a stranger will read that word and start looking.** He is safer and more findable
+      on the same morning. That is the trade and there is no second half of it.
+
+   **A batch that found a better answer took it and rewrote this movement and §7 in the same commit.
+   This is that rewrite.**
 
 **WHERE THE PLAN IS MOST LIKELY TO BE WRONG, AND WHAT THE PAGE OWNS IF IT IS.**
 
@@ -558,62 +725,110 @@ been.** A requisition tabled and refused is not a requisition received.
 
 ## 7. The do-not-open and do-not-close register for the volume
 
+**REWRITTEN AGAINST WHAT WAS WRITTEN BY BATCH 0005, WHICH CLOSED THE VOLUME. The register below is the
+live one and every figure in it is on the page at 350.**
+
 **May not open:** the second folio of file 4,112 · B103 in any form · the instrument's live-column rule,
-which is spent · **the reason he gave Marguerite Vale on the twenty-eighth of August, which he must never ask
-for again** · whether the broker's bag was in her own rooms or in somebody else's on the twentieth of July ·
-who bought the verse at the Bellhouse · Marguerite Vale's terms of the fourteenth of March · Bernt · Rhee ·
-Saskia Verhoeven as a character · **Dagmar Oyelowo, who is 388 and enters at 388** · **anything after
-Volume 8** · **Lin Wei's file, which opens at Chapter 372** · **a requisition received** · **a classification
-completed against him** · **a folio** · **the day Ines Duarte lost at 337 and cannot date** · **which record
-she was holding when she lost it** · **the two unstamped reads in the check column of file 4,112, and who
-made them** · **the reason the account has an address** · **the ninth turned line's
-meaning** · **whether the return in Chapter 486 reaches the people it was meant for.**
+which is spent · **the reason he gave Marguerite Vale on the twenty-eighth of August, which he must never
+ask for again** · whether the broker's bag was in her own rooms or in somebody else's on the twentieth of
+July · who bought the verse at the Bellhouse · Marguerite Vale's terms of the fourteenth of March · Bernt ·
+Rhee · Saskia Verhoeven as a character · **Dagmar Oyelowo, who is 388 and enters at 388** ·
+**anything after Volume 8** · **Lin Wei's file, which opens at Chapter 372** ·
+**a requisition received — AND THE ONE THAT WAS TABLED WAS VOIDED AT THE NINTH MINUTE, WHICH IS NOT ONE** ·
+**a classification completed against him** · **a called account paid, produced, or answered in any way
+at the valuation on the first of January or at any valuation after it** · a folio · **the day Ines Duarte
+lost at 337 and cannot date** · **which record she was holding when she lost it** · **the two unstamped
+reads in the check column of file 4,112, and who made them** · the reason the account has an address ·
+**the ninth turned line's meaning** · **the seventh returned line** · **the bare slot on the Reading
+wall** · **the two words on the ranks wall, which will go back up inside a week of his going under** ·
+**the large offer Anouk Ferreira did not make at 345 and would not describe, and which he did not ask
+for** · **who Wren Kallo tells** · the song, out and unsoftened and unsoftenable · **whether the return in
+Chapter 486 reaches the people it was meant for** · **the great offer, which is Chapter 486's and is not
+Wren Kallo's and not Anouk Ferreira's.**
 
 **May be advanced and may not be closed:** the two ninth chairs · the ninety rubbed-out sentences · Marta
 Vey's name in the record · the desk's four-line note that is a lie · the classification paper dated the
 nineteenth of September · the broken price · Sun Meiling's February · the leak · **Agnete Lindqvist's
 eleven years indoors** · **Ines Duarte's standing review** · **Runa Sato's hearing, still stale** ·
-**Beatrix Halm's hearing** · **Wren Kallo's held name** · **Wren Kallo's finding** · **Beatrix Halm's eleven
-burned months** · **the bare slot on the Reading wall** · **Solveig Rask and the annual sitting** · **Petra
-Ilyin's promise and her hundred and sixty-nine days on no roll** · **whether a lodged standing can be called
-before the book changes hands** · **Sun Meiling's row and the bar, both on the page** · **the seventh
-returned line** · **Nadia Ferrous's blank page** · **the man in the good coat at the bar on the eighteenth of
-July** · **the eleven** · **the standing undertaking of the sixteenth of August** · **the pencil note and the
-clerk's number in the margin of the third-quarter book** · **what the plate being six under a floor that
-rises every quarter means in the next quarter — ANSWERED IN §6 MOVEMENT 5: he prints at the floor on the
-   thirtieth of December, 8,145 on the nose, restored by a page eight other people attested, and the ranks
-   wall says no word about him for the first time since the thirtieth of July.**
+**Beatrix Halm's hearing** · **Wren Kallo's held name** · **Wren Kallo's finding** · **Wren Kallo's
+decision to speak to somebody she has not chosen** · **Beatrix Halm's eleven burned months** · **the bare
+slot on the Reading wall** · **Solveig Rask and the annual sitting** · **Petra Ilyin's promise and her
+hundred and sixty-nine days on no roll** · **whether a lodged standing can be called before the book
+changes hands** · **Sun Meiling's row and the bar, both on the page** · **the seventh returned line** ·
+**Nadia Ferrous's blank page** · **the man in the good coat at the bar on the eighteenth of July** · **the
+eleven** · **the standing undertaking of the sixteenth of August** · **the pencil note and the clerk's
+number in the margin of the third-quarter book** ·
+**what the plate being six under a floor that rises every quarter means in the next quarter — ANSWERED ON
+THE PAGE AT 349: the floor rose by one on the thirtieth of December to 8,145 and he rose by fourteen, to
+8,145 on the nose, and the one that moved him was a page eight other people attested, and the ranks wall
+says no word about him for the first time since the thirtieth of July** ·
+**the four seats in the requisition sheet that are full and the one that is empty, and what four people
+in that room will say in four years about having sealed it** ·
+**the woman in the sixth seat, who withdrew her own seal and whose hand is on the minute** ·
+**Nikolai Vester, who walked out of the room on the twenty-third of December and has not been in it
+since, and whether he comes back in January** ·
+**the woman who emptied the bins and will not walk again, and whether the plaster comes off on the
+twelfth and what her hand says afterwards** ·
+**the exposure of the sixteenth of November, which began the requisition and saved her, and which nobody
+has forgiven or blamed** ·
+**a correction form with a fourth box, which failed on its own terms in October and will fail on its own
+terms again.**
 
-**Two from Volume 6 that are still live and are not debts:** **Ines Duarte's term is SPENT, AND HE SPENT IT
-HIMSELF ON THE TWENTY-SEVENTH OF NOVEMBER. Nothing is read in those rooms again — not to her and not by him —
-and that is her condition and not his promise** — and **the sixth line on the page in Chapter 250 is his standing instruction, it has no
-figure against it, and no office in this city will ever invoice it. Do not convert it.**
+**Five from Volume 6 that are still live and are not debts:** **Ines Duarte's term is SPENT, AND HE SPENT
+IT HIMSELF ON THE TWENTY-SEVENTH OF NOVEMBER. Nothing is read in those rooms again — not to her and not
+by him — and that is her condition and not his promise** · **her request of the thirtieth of November was
+served at nine fifty on the first of December and the whole of file 4,112 is in her hands, and no office
+in this city knows it** · **the sixth line on the page in Chapter 250 is his standing instruction, it has
+no figure against it, and no office in this city will ever invoice it. Do not convert it** ·
+**Wren Kallo's bar, and the fact that he asked her one question about that address on the sixth of
+December and received the standing answer** · **the false attestation of the twenty-seventh of November
+in a Bureau counter-forensics division's standing papers, which he may not ask her about and which she
+has chosen to leave where it is.**
 
 ## 8. What Volume 7 must leave Volume 8
 
-`outline/series.md` fixes both the mystery beat and the next volume's sentence.
+`outline/series.md` fixes both the mystery beat and the next volume's sentence. **This section is
+rewritten against the page at 350, because Volume 7 is closed and what it left is what is written here
+rather than what was planned.**
 
-- **The mystery beat is MECHANISM and it lands here and nowhere earlier:** he learns that he can route
-  merit, and that a movement of unrecorded merit requires a **Seal**, and **his brother's seal is the one
-  that matches.** He does not learn why yet. Volume 8 is *The Brother's File* and its sentence is that he
-  must find what his brother found and keep the woman who told him.
-- **He must have earned his own legibility.** Volume 6 left six documents with no name at the top of a page.
-  **Volume 7's last movement must put one page with his name at the top of it, in his own hand, lodged with
-  the Concil**, because that page is the only reason the requisition fails and because it is the whole arc
-  of the book moving one step.
-- **He must still be able to be requisitioned.** The Council wants him, has a route to him, and has nine
-  minutes. **The volume closes the door for five weeks and not for ever.**
-- **He must be carrying four live instruments he cannot put down, and every one of them is a document.** A
-  thirty-year account that fell under its floor on the twenty-second of November and **is callable at the
-  valuation on the first of December at ten to nine**, with no production off that door to answer it with ·
-  a **false attestation in a Bureau counter-forensics division's standing papers**, written by a woman who
-  sleeps at the address she certified, which he may not ask her about · **the four sheets of file 4,112 in a
-  drawer in two rooms on Lantern Row with an auditor's note on top of them**, and a request on the ordinary
-  stream to be served with the whole of that file in advance of the valuation · and **a certificate of a
-  composition of eight, made on the thirtieth by the officer who keeps that address, which will cost her
-  division in about four years.** None of these is a requisition. Every one of them can be turned into one by
-  somebody else.
-- **Volume 8 opens on a man who can be routed.** Nothing in Volume 7 may make him safe to leave.
+- **THE MYSTERY BEAT IS MECHANISM AND IT LANDED IN MOVEMENT 3 AND NOWHERE EARLIER:** he learned that he
+  can route merit, and that a movement of unrecorded merit requires a **Seal**, and **his brother's seal
+  is the one that matches.** He did not learn why and the batch that would have been tempted to learn why
+  spent itself on a room where nine people sit instead. **Lin Wei's file is shut and opens at 372.**
+- **HE HAS EARNED HIS OWN LEGIBILITY, AND HE PAID FOR IT WITH OTHER PEOPLE'S BOOKS.** Volume 6 left six
+  documents with no name at the top of a page. **On the twenty-ninth of December he wrote four sheets of
+  plain paper in his own hand with his name at the top of the first and at the foot of the last, laid
+  them into the keeping of the room where nine people sit, and eight of the nine signed a witness line
+  under him — which is the reason the requisition fails, which is the whole arc of the book moving one
+  step, and which is also why there is a gap in the line two fingers wide where the fourth seat is.**
+- **HE IS STILL ABLE TO BE REQUISITIONED.** The room tried and spent a majority on it and came away with
+  nothing. **It is a member short, one member gone since the twenty-third, and the account is still
+  called.** The volume closes the door for five weeks and not for ever, and the next valuation is **the
+  first of January at ten to nine**.
+- **HE IS CARRYING FIVE LIVE INSTRUMENTS AND EVERY ONE OF THEM IS A DOCUMENT.** **A thirty-year account
+  that is CALLED in a chained real book, unpayable in the hands that hold the book and unproducible
+  because there is no production off that door** · **a false attestation of the twenty-seventh of
+  November in a Bureau counter-forensics division's standing papers, written by a woman who sleeps at the
+  address she certified, which he may not ask her about and which she has chosen to leave** · **the four
+  sheets of file 4,112 in a drawer on Lantern Row under an auditor's note dated the twenty-eighth, and
+  the whole of that file now delivered into the same auditor's hands on the ordinary stream, and no
+  office in this city knows either fact** · **a certificate of a composition of eight made on the thirtieth
+  of November by the officer who keeps that address, which is what put a head and eight names in one
+  document and therefore what gave the room its route to him** · **and a page with his own name at the
+  top of it in the keeping of a room, with eight witness hands under it, copies of which went to eight
+  addresses on the thirtieth of December.** None of these is a requisition. Every one of them can be turned
+  into one by somebody else.
+- **HE IS ON THE FLOOR OF HIS BAND AND THE WALL IS QUIET.** 8,145 on the nose on the card of the
+  thirtieth of December, and for the first time since the thirtieth of July the ranks wall carries no word
+  about him at all, because a man standing on the floor is a man in band. **That is not safety, and the
+  chapter says so: four people in that room put a seal on a piece of paper with his name on it and
+  remember it for the rest of their lives.**
+- **AND A WOMAN HAS DECIDED TO SPEAK.** Wren Kallo is the only person in that building who cannot sit
+  still with a card that says nothing about him, she has said she is going to tell somebody, and she had
+  not chosen who when the volume ended. **Volume 8 is the volume that finds out who.**
+- **VOLUME 8 OPENS ON A MAN WHO CAN BE ROUTED.** Nothing in Volume 7 may make him safe to leave, and
+  `outline/ending.md` is untouched: the reservoir is returned in full at 486, he ends at rank one, and the
+  great offer is Chapter 486's.
 
 ## 9. Mechanical checks, and who owns them
 
