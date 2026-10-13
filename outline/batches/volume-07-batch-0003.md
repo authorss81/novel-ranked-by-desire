@@ -27,8 +27,8 @@ answer that account is his brother's.** He learns that the thing he has been def
 **He does not open Lin Wei's file. The file opens at Chapter 372.**
 
 **Batch climax (330).** **He puts other people's names on deeds he arranged.** The band moves. He reaches
-seven. **The option closed: he can never be unscored again, and the man nobody could read is now a figure
-on a wall every Thursday.**
+seven. **The option closed: he can never be unscored again, and the man no division could read is now a
+figure on a public wall every week.**
 
 **Required character changes.** Marguerite Vale stops being a woman with a position inside a guild and
 becomes a woman who has put her own book on a table. **Sun Meiling's sentence — neither grateful nor
@@ -77,9 +77,10 @@ understand it and Sun Meiling does.
 get an answer. He gets the shape of an answer and a date.**
 
 **328 Seven On A Wall In A New Shade** — the sixteenth. **The band moves, and it moves because three women
-put their names to things he did**, and the card comes off the board and the number goes up in a shade the
-square has not had, and **Beatrix Halm reads it at a quarter to six in the dark and writes it in a notebook
-she has carried for nine years.**
+put their names to things he did**, and the figure on the ranks wall changes and goes up in a shade the square
+has not had, and **Beatrix Halm reads it at a quarter to six in the dark and writes it in a notebook she has
+carried for nine years.** **The quarterly card does not move and is not reprinted: the sixteenth is not the
+last working day of a quarter, and the card does not come down until six on the thirtieth of December.**
 
 **329 The Vant's Whole Exposure. THE SCENE. Marguerite Vale.** — the night of the sixteenth, in her rooms,
 which are the best rooms he will ever stand in. She has decided to put the Vant's whole exposure of him on

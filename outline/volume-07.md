@@ -49,9 +49,9 @@ account that cannot be carried is not a security any more. It is a thing that ha
 people who live behind it, in order, with dates, because that is what a description of a house is.
 
 **That is Volume 7's whole pressure, and it is worse than Volume 6's: there is nothing to refuse.** Every
-defence he built in six volumes — a blank seventh line, a woman unnameable in any instrument, a composition
-sworn twice at the figure of seven — is a defence of the household's invisibility, and **the classification
-is aimed at the invisible part.**
+defence he built in six volumes — a blank seventh line that cannot be attached to the woman it was cut for, a
+composition sworn twice at the figure of seven — is a defence of the household's invisibility, and **the
+classification is aimed at the invisible part.**
 
 **The volume's title is its turn.** He has been band six on a piece of paper and band five on his plate since
 Volume 5, and his plate has not moved a grain in two hundred and forty chapters. **Seven is the band that
@@ -91,8 +91,12 @@ From `state/current.md` §2 and `state/continuity.md`'s Batch 0005 block, all of
 - **The seventh returned line of the district premises return of the third of June is permanently blank**,
   because the quarter-book closed on the thirtieth of September and is not reopened. **The reason is a book
   and not a decision.** A woman kept an address on a composition return of the twelfth of June and has not
-  slept in it since the sixth of July, and he said her name out loud as the reason in a kitchen, and nobody
-  will ever be able to find her in any instrument in this city.
+  slept in it since the sixth of July, and he said her name out loud as the reason in a kitchen.
+  **HER ADDRESS IS NOT SECRET AND MUST NOT BE WRITTEN AS SECRET.** By the sixteenth of August she had put it
+  into four divisions in her own hand, on purpose, and that is closed. **What the blank line buys is
+  narrower, and it is the whole of what it buys: no instrument in this city can ever attach the blank line
+  to her. The address is findable. The line cannot be attributed. A batch that collapses the two puts a
+  sentence on the page that Chapters 283 and 298 both contradict.**
 - **Marguerite Vale refused on the fifteenth of September to enter the mark** and holds a dated written
   undertaking that he will not ask her again. **The keys of the counting room changed on the seventeenth of
   September to a woman he has never met, who has had his address in a book for two days and is nobody's
@@ -155,9 +159,11 @@ unwritten.** Two batches in Volume 6 shipped a summarised scene and both were ca
 
 > **THOSE TWO LISTS DO NOT AGREE, AND THEY HAVE NOT AGREED SINCE VOLUME 5. A month is thirty days and
 > advances the weekday by two. August 1 a Tuesday makes September 1 a Thursday, which puts September's
-> Thursdays on the second, the ninth, the sixteenth, the twenty-third and the thirtieth — not the seventh.
-> The page has been printing the September list since Volume 5 and eleven closed chapters depend on it, so
-> **the page governs and the two lists stand as they are printed.**
+> Thursdays on the **first, the eighth, the fifteenth, the twenty-second and the twenty-ninth** — not the
+> seventh. (The printed list, the seventh, fourteenth, twenty-first and twenty-eighth, is the one you get
+> from a September whose first is a **Friday**, which would want August 1 to be a Wednesday.) The page has
+> been printing the September list since Volume 5 and eleven closed chapters depend on it, so **the page
+> governs and the two lists stand as they are printed.**
 >
 > **THE INSTRUCTION THAT FOLLOWS FROM IT, AND IT IS THE STRONGEST RULE IN THIS SECTION: Volume 7 NAMES NO
 > DAY OF THE WEEK AT ALL.** Volume 6's last forty chapters named none and that was a better result than
@@ -196,10 +202,14 @@ chapter that uses it, or the chapter does not use one.**
 > has never tested any of it. Treat it as a proposal with a spine, not as a set of answers. `AGENTS.md`: a
 > batch that finds a better answer on the page takes it and rewrites this file in the same commit.
 
-**THE ESCALATION FOR THE VOLUME IS FIXED AND IT IS FOUR WORDS.** `outline/series.md` and the Volume 6 prompt
-both give it: **describable → named → wanted → requisitioned.** **`outline/volume-06.md` §5 and the Volume 7
-Batch 0001 prompt both forbid the fourth stage in this volume.** Volume 7 must leave Volume 8 a man who
-**can be requisitioned and has not been.** A requisition tabled and refused is not a requisition received.
+**THE ESCALATION FOR THE VOLUME IS FIXED AND IT IS FOUR WORDS:** **describable → named → wanted →
+requisitioned.** **These four words are a Volume 7 construction, not a quotation — `outline/series.md` states
+its five stages as *investigating → manipulating → breaking → being reacted to → choosing what to lose* and
+does not use this pair. What `series.md` does fix is that stage four runs across Ch 301–400, that the Council's
+standing requisition reaches him inside it, and that its irreversible decision is Chapter 372, which is
+Volume 8. `outline/volume-06.md` §8 forbids classifying him, and the Volume 7 Batch 0001 prompt forbids the
+fourth stage in this volume.** Volume 7 must leave Volume 8 a man who **can be requisitioned and has not
+been.** A requisition tabled and refused is not a requisition received.
 
 **What each movement must do, and what it closes:**
 
@@ -208,12 +218,13 @@ Batch 0001 prompt both forbid the fourth stage in this volume.** Volume 7 must l
    eight; the priced line says seven; the answer he swore twice says seven; **the account cannot be carried.**
    **The referral goes to the Classification Wing.** Isolde Marchetti's scene at 308 gives the classification
    its third leg — **a reason, in nine hundred mouths** — and she does it for him.
-   **THE IRREVERSIBLE DECISION, AND IT IS HIS:** he does not swear eight. **A fresh production is the only
-   instrument that can restate a composition, and swearing it would retire the seven he has sworn twice and
-   put Wren Kallo's name into a chained book for ever — which is the one protection in this book that is
-   real.** So the account is referred. **What it costs:** the one clean answer he has ever given is gone, and
-   eight women are about to be described. **The option closed:** he can never swear that premises at seven
-   again.
+   **THE IRREVERSIBLE DECISION, AND IT IS HIS:** he does not swear eight. **A production is not the
+   instrument — a production answers a call, and no call is outstanding on this account. The instrument is a
+   sworn answer by the head of premises, and the only correction available would be in his own hand and
+   would write the eighth name onto a chained page in a keeper's room for as long as the account is open,
+   which is the one protection in this book that is real.** So the account is referred. **What it costs:** the
+   one clean answer he has ever given is gone, and eight women are about to be described. **The option
+   closed:** he can never swear that premises at seven again.
 2. **The Classification Of A House — 311–320.** Alma Quayle, 57, comes to Ferrier Street and asks to
    describe the account, and she is courteous, exact, and right: **a thing that cannot be reconciled must be
    described, and a description that is refused becomes a description written without him.**
@@ -262,6 +273,20 @@ Batch 0001 prompt both forbid the fourth stage in this volume.** Volume 7 must l
    **Chapter 349 is the card at six on the thirtieth of December. Chapter 350 is Wren Kallo's scene and the
    volume's last chapter, on the same night, and it ends with her doing the one thing she cannot not do.**
 
+   **AND THE BAND ARITHMETIC, WHICH NO CARD HAD STATED, ANSWERED HERE SO THAT 349 IS NOT LEFT GUESSING:**
+   **he prints AT the floor. 8,145 on the nose, on the thirtieth of December.** The spine of it: at 301 he is
+   six under a floor of 8,144; at 328 three women attest things he did and the figure on the wall goes up in
+   a new shade; through the eleven days of 331–339 every band he built goes flat in public, week by week,
+   and he is at the lowest he has ever been on a wall; **and what brings it back to the line is not a
+   reservoir and not a woman with a gift. It is the page he signs at 348 with his own name at the top of it,
+   which the bench attests and which the minute in four hands at 347 puts into circulation.** He is restored
+   to rank by the one thing the last seven volumes taught him to refuse, and he stops one short.
+   **CONSEQUENCE FOR THE LAST IMAGE, AND IT IS THE POINT: a man on the floor is not out of band, so for the
+   first time since the thirtieth of July the ranks wall carries no word about him at all.** He has spent
+   seven volumes being a sentence on a wall and the last thing that happens to him is that it goes quiet.
+   **This is the plan's answer. A batch that finds a better one takes it and rewrites this movement and §7 in
+   the same commit.**
+
 **WHERE THE PLAN IS MOST LIKELY TO BE WRONG, AND WHAT THE PAGE OWNS IF IT IS.**
 
 - **Whether the composition moving actually retires a production.** The plan needs it, and the page has never
@@ -298,7 +323,9 @@ before the book changes hands** · **Sun Meiling's row and the bar, both on the 
 returned line** · **Nadia Ferrous's blank page** · **the man in the good coat at the bar on the eighteenth of
 July** · **the eleven** · **the standing undertaking of the sixteenth of August** · **the pencil note and the
 clerk's number in the margin of the third-quarter book** · **what the plate being six under a floor that
-rises every quarter means in the next quarter**, which this volume answers.
+rises every quarter means in the next quarter — ANSWERED IN §6 MOVEMENT 5: he prints at the floor on the
+   thirtieth of December, 8,145 on the nose, restored by a page eight other people attested, and the ranks
+   wall says no word about him for the first time since the thirtieth of July.**
 
 **Two from Volume 6 that are still live and are not debts:** **Ines's term holds — no paper is read to her
 in her own rooms** — and **the sixth line on the page in Chapter 250 is his standing instruction, it has no
@@ -359,31 +386,33 @@ zero beginning with *What*, every one between three and twelve words.** The long
 **The book's twenty-eight titles beginning with *What* are all inherited from Volumes 1 to 5 and Volume 7
 must keep its own at zero.**
 
-**301 The Address She Took In The Ordinary Way (40) · 302 Two Figures For One Door (22) · 303 The Book That
-Would Not Reconcile (31) · 304 A Security Carried At The Wrong Figure (38) · 305 The Answer That Stopped Being
-True (33) · 306 The Office That Describes Things (30) · 307 Thirty Years Arranged Into One Question (39) · 308
-The Room That Agrees With Her (28) · 309 Nine Hundred Mouths And A Door Number (35) · 310 The Answer He Did
-Not Swear (26).**
+**301 The Address She Took In The Ordinary Way (40) · 302 Two Figures For One Door (24) · 303 The Book
+That Would Not Reconcile (33) · 304 A Security Carried At The Wrong Figure (38) · 305 The Answer
+That Stopped Being True (34) · 306 The Office That Describes Things (32) · 307 Thirty Years Arranged
+Into One Question (39) · 308 The Room That Agrees With Her (29) · 309 Nine Hundred Mouths And A Door
+Number (37) · 310 The Answer He Did Not Swear (27)**
 
-**311 The Classification Of A House (25) · 312 The Head Of Classification (24) · 313 A Woman With Thirty Years
-Of It (28) · 314 The Sentence She Wants To Write (29) · 315 The Version With Eight On It (26) · 316 The One Who
-Is Not Counted (25) · 317 The Price Of A Term (18) · 318 The Report That Was True And Useless (35) · 319 The
-Order She Took On Purpose (28) · 320 The List Of Persons At An Address (31).**
+**311 The Classification Of A House (29) · 312 The Head Of Classification (26) · 313 A Woman With
+Thirty Years Of It (31) · 314 The Sentence She Wants To Write (31) · 315 The Version With Eight On
+It (28) · 316 The One Who Is Not Counted (26) · 317 The Price Of A Term (19) · 318 The Report That
+Was True And Useless (36) · 319 The Order She Took On Purpose (29) · 320 The List Of Persons At An
+Address (33)**
 
-**321 The Thing He Had Never Done (26) · 322 A Deed With Witnesses In The Room (32) · 323 The Plate That Had
-Not Moved (27) · 324 Four Years Of Being Looked Through (31) · 325 A Transfer That Needs A Seal (27) · 326 The
-Only Seal That Would Answer (30) · 327 The Seal That Matches (22) · 328 Seven On A Wall In A New Shade (29) ·
-329 The Vant's Whole Exposure (24) · 330 The Table She Cleared Herself (27).**
+**321 The Thing He Had Never Done (27) · 322 A Deed With Witnesses In The Room (33) · 323 The Plate
+That Had Not Moved (28) · 324 Four Years Of Being Looked Through (34) · 325 A Transfer That Needs A
+Seal (28) · 326 The Only Seal That Would Answer (31) · 327 The Seal That Matches (21) · 328 Seven On
+A Wall In A New Shade (30) · 329 The Vant's Whole Exposure (25) · 330 The Table She Cleared Herself
+(29)**
 
-**331 Eleven Days Of Not Spending (26) · 332 The Woman At Two In The Morning (29) · 333 A Line That Went Cold
-(19) · 334 The Count That Went Down In Public (33) · 335 A Figure Under A Floor (20) · 336 The File He Asked Her
-To Open (29) · 337 Her Own Rooms, And Her Own Word (31) · 338 Eight Women On One Line Of Type (31) · 339 The
-Hearing Nobody Was Entitled To (36) · 340 The Auditor Who Came Back Anyway (33).**
+**331 Eleven Days Of Not Spending (27) · 332 The Woman At Two In The Morning (31) · 333 A Line That
+Went Cold (21) · 334 The Count That Went Down In Public (34) · 335 A Figure Under A Floor (22) · 336
+The File He Asked Her To Open (29) · 337 Her Own Rooms, And Her Own Word (31) · 338 Eight Women On
+One Line Of Type (31) · 339 The Wall Says It Again (22) · 340 The Auditor Who Came Back Anyway (32)**
 
-**341 The Room Where Nine People Sit (26) · 342 A Chair And A Majority (21) · 343 The Reason They Could Not Use
-(28) · 344 The Woman Who Held A City Still (30) · 345 The Offer She Did Not Make (25) · 346 Nine Minutes And No
-Majority (25) · 347 The Council Minute In Four Hands (29) · 348 The Thing He Signed Instead (24) · 349 The Card
-Comes Down At Six (25) · 350 The Thing She Cannot Keep (23).**
+**341 The Room Where Nine People Sit (30) · 342 A Chair And A Majority (22) · 343 The Reason They
+Could Not Use (29) · 344 The Woman Who Held A City Still (31) · 345 The Offer She Did Not Make (26)
+· 346 Nine Minutes And No Majority (28) · 347 The Council Minute In Four Hands (32) · 348 The Thing
+He Signed Instead (27) · 349 The Card Comes Down At Six (26) · 350 The Thing She Cannot Keep (25)**
 
 **Notes a later batch inherits.**
 

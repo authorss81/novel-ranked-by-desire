@@ -3,6 +3,10 @@
 Write **ten finished chapters, in order**, into `chapters/volume-07/chapter-0301.md` through `chapter-0310.md`.
 **Chapters, not summaries, and not outlines of chapters.**
 
+**`chapters/volume-07/` DOES NOT EXIST YET. `mkdir -p chapters/volume-07` before you write your first
+file.** Nothing has ever been written into Volume 7, so the directory has never been created, and a write
+that assumes it is there will fail. Create it and commit it.
+
 **Volume 6 is closed. Chapters 251–300 are on disk and Batch 0005 of that volume was reviewed, repaired and
 closed. Chapter 300 is the volume's last chapter and it leaves you its sentence:**
 
@@ -69,12 +73,13 @@ security any more. It is a thing that has to be described.**
 
 **And the description of a house is a list of the people who live in it.**
 
-**The batch's irreversible decision is his and it is at Chapter 310: he refuses to swear eight.** A fresh
-production is the only instrument that can restate a composition, swearing it would retire the seven he has
-sworn twice in nine seconds on the same chained book, and it would put Wren Kallo's name into a keeper's
-room for as long as the account is open — and she is the only person in this book whose whole protection is
-that nobody can find her in an instrument. **So the account is referred for classification.** What it costs
-is stated in the card and what it closes is this: **he can never swear that premises at seven again.**
+**The batch's irreversible decision is his and it is at Chapter 310: he refuses to swear eight.** **A
+production is NOT the instrument — a production answers a call, and no call is outstanding on this account.
+The instrument is a sworn answer by the head of premises, it has to be in his own hand, and the only
+correction available would write Wren Kallo's name onto a chained page in a keeper's room for as long as the
+account is open — and she is the only person in that building whose whole protection is that no instrument
+can find her.** **So the account is referred for classification.** What it costs is stated in the card and
+what it closes is this: **he can never swear that premises at seven again.**
 
 ## 2. THE FIGURES ON THE PAGE AT 301 — INHERIT, DO NOT RE-DERIVE
 
@@ -109,13 +114,14 @@ run and what was read.**
 
 ```
 files            chapters/volume-07/ -> 301-310 written. Nothing before 0301 or after 0310.
-                 `git status --porcelain` must return only your new files and nothing else. That is the
-                 check that matters: no closed chapter may be touched.
-titles           unique across ALL 310 written titles -> NONE; over 90 chars -> 0; none of your ten
-                 beginning with "What"; none built out of *there is no*, *nobody*, *nothing*, *what*.
-                 Volume 7 must hold zero of them and the book's twenty-eight are all inherited from
-                 Volumes 1 to 5. Ten names are already chosen in `outline/volume-07.md` §10 in chapter
-                 order; check them against every file in chapters/ by command and use them.
+                  `mkdir -p chapters/volume-07` FIRST — the directory does not exist yet.
+                  `git status --porcelain` must return only your new files and nothing else. That is the
+                  check that matters: no closed chapter may be touched.
+titles           unique across the 300 written titles PLUS your own ten -> NONE; over 90 chars -> 0; none
+                  of your ten beginning with "What"; none built out of *there is no*, *nobody*, *nothing*,
+                  *what*. Volume 7 must hold zero of them and the book's twenty-eight are all inherited
+                  from Volumes 1 to 5. Ten names are already chosen in `outline/volume-07.md` §10 in
+                  chapter order; check them against every file in chapters/ by command and use them.
 wc 301-310       1,800-2,700 as the working band. A chapter that leaves it gives a named reason.
                  THE SCENE MAY RUN LONGER AND MUST SAY SO.
 markup           bold / italic / blockquote / table / rule / code -> report the REAL count. Batch 0005
@@ -131,8 +137,9 @@ nobody / no person / He understood / He also understood   each reported, not ass
 He felt / He had woken wanting   case-sensitive, reported as a count out of 10.
 weekday          every weekday name -> 0, whole-word AND as a substring. Volume 7 names none at all.
 meta / fourth wall / ages       0. **No chapter announces an age.** `bible/characters.md` fixes every age.
-12-gram scan     FIRST, against all 310 chapters, before the 8-word sentence scan, repeatedly after every
-                 repair. Tokenisation and scope stated with the figure.
+12-gram scan     FIRST, against every chapter in the book — the 300 that exist plus your own ten, 310 files
+                  in all — before the 8-word sentence scan, repeatedly after every
+                  repair. Tokenisation and scope stated with the figure.
 8-word sentences every run over ten words is a defect until it has been READ. Not until a gate flags it.
 quote balance    an even number of quotation marks in every chapter file, tested whole-file.
 fades            `it went on a long time` -> 0. `afterwards` -> report every instance and say which of

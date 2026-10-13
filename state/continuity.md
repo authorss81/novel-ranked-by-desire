@@ -29,16 +29,25 @@ Batch 0005 block immediately below. The outline is `outline/volume-07.md`; the b
 `outline/batches/volume-07-batch-0001.md` through `0005.md`; the one live phase prompt is
 `workspace/volume-07/batch-0001/PROMPT.md`.
 
-> **THREE THINGS A VOLUME 7 BATCH MUST INHERIT AND MUST NOT RE-DERIVE, AND TWO OF THEM WERE FOUND WHILE
-> PLANNING AND ARE NEW SINCE CHAPTER 300.**
+**REVIEWED AND REPAIRED BY THE NEXT PHASE — `reviews/volume-07-planning.md` carries the record, and the
+repair block at the head of `state/open-threads.md` carries the seven things that changed.** Nothing in the
+plan moved: no plot, no movement, no card's function, no date on the day spine, no scene assignment. **What
+is fixed is the calendar derivation below, an overclaim about Ines Duarte's address, the woman card 302 said
+asked not to be written down, a date that does not exist, the title at 339, and the band arithmetic on the
+volume's closing image.**
+
+> **THREE THINGS A VOLUME 7 BATCH MUST INHERIT AND MUST NOT RE-DERIVE, TWO OF THEM FOUND WHILE
+> PLANNING AND NEW SINCE CHAPTER 300 — AND ONE MISREADING IN THE CLOSED BLOCK BELOW TO LEAVE BEHIND.**
 >
 > **1. THE CALENDAR IN THIS MANUSCRIPT DISAGREES WITH ITSELF, BY ONE DAY, AND IT HAS SINCE VOLUME 5.**
 > `state/current.md` §3.2 prints **August 1 a Tuesday**, which makes August's Thursdays the third, tenth,
 > seventeenth and twenty-fourth — correct. **September's Thursdays are printed as the seventh, fourteenth,
 > twenty-first and twenty-eight, and those two lists cannot both be true:** a month is thirty days and
 > advances the weekday by two, so August 1 a Tuesday makes September 1 a Thursday and puts September's
-> Thursdays on the second, ninth, sixteenth, twenty-third and thirtieth. **Eleven closed chapters depend on
-> the September list, so the page governs and both lists stand exactly as printed. The instruction that
+> Thursdays on the **first, eighth, fifteenth, twenty-second and twenty-ninth.** (The printed list is the
+> one you get from a September whose first falls on a Friday, which would want August 1 to be a Wednesday.)
+> **Eleven closed chapters depend on the September list, so the page governs and both lists stand exactly as
+> printed. The instruction that
 > follows from it is the strongest rule in this block: VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL** — not
 > Monday, not Friday, not Saturday, and not Thursday. Write the date. **Do not resolve this in prose. If a
 > chapter genuinely needs a Thursday, record the discrepancy in the review file.**
@@ -60,6 +69,13 @@ Batch 0005 block immediately below. The outline is `outline/volume-07.md`; the b
 > an initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence; **no paper is
 > read to Ines Duarte in her own rooms until he breaks that himself at Chapter 337**; **and the sixth line
 > on the page in Chapter 250 is his standing instruction, has no figure against it, and is not a debt.**
+>
+> **AND THE MISREADING. Item 7 of the Volume 6 Batch 0005 block below says that *nobody can find her in any
+> instrument in this city*, about the permanently blank seventh line. That is the blank LINE and it is true of
+> the line. It is NOT true of her address, and Chapters 283 and 298 put that address into four divisions in
+> her own hand on purpose and close it. The closed block is left as it was written. What Volume 7 inherits is
+> the narrower true thing: the address is findable and the blank line cannot be attached to her. Nothing may
+> be written that says her address is secret.**
 
 ### THE PLANNED DAY SPINE OF VOLUME 7 — NOT ONE CHAPTER A DAY, AND IT IS A PLAN
 

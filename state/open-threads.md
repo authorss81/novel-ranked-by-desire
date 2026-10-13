@@ -1,3 +1,57 @@
+## Volume 7 PLANNING PHASE — REVIEWED AND REPAIRED. THIS BLOCK SUPERSEDES NOTHING; THE VOLUME 6 BATCH 0005 BLOCK IS STILL THE LIVE GATE RECORD.
+
+> **THE VOLUME 7 PLANNING PASS WAS REVIEWED BY THE NEXT PHASE AND FOUND WITH ELEVEN DEFECTS, ALL OF THEM
+> FACTS RESTATED, PLUS FOUR OPERATIONAL ONES. ALL ARE FIXED. NOTHING IN THE PLAN MOVED — no plot, no
+> movement, no card's function, no date on the day spine, no scene assignment. THE FULL RECORD IS
+> `reviews/volume-07-planning.md`. THE SEVEN THINGS A LATER BATCH MUST KNOW CHANGED:**
+>
+> **1. THE CALENDAR DERIVATION WAS WRONG IN THREE FILES AND IS NOW RIGHT.** It said August 1 a Tuesday puts
+> September's Thursdays on the second, ninth, sixteenth, twenty-third and thirtieth. **Verified: August 1 a
+> Tuesday makes September 1 a Thursday, which puts them on the first, eighth, fifteenth, twenty-second and
+> twenty-ninth.** The printed list — the seventh, fourteenth, twenty-first and twenty-eighth — is the one a
+> September whose first is a **Friday** gives, which would want August 1 to be a Wednesday. **The ruling is
+> untouched and still binding: the page governs, both printed lists stand, and Volume 7 names no day of the
+> week at all.** Only the derivation was wrong, and it mattered because §5 is a section a later batch may not
+> contradict.
+>
+> **2. CARD 302 NO LONGER ATTRIBUTES THE REQUEST NOT TO BE WRITTEN DOWN TO THE WRONG WOMAN.** The eighth
+> person is **Wren Kallo**. The request was **Ines Duarte's**, on the ninth of July, in his own hand at
+> Chapter 298. **Ines Duarte is not at those premises and is not on the leaf**, and no batch may put that
+> sentence on her or on Wren. The card now also says his sworn answer is **one day old**, not nine.
+>
+> **3. INES DUARTE'S ADDRESS IS NOT SECRET AND IS NOT WRITTEN AS SECRET ANY MORE.** `outline/volume-07.md`
+> §2 used to say nobody could find her in any instrument in this city. **Chapters 283 and 298 both put that
+> address into four divisions in her own hand, on purpose.** What the blank seventh line buys is the narrow
+> true thing: **the address is findable; the line cannot be attributed to her.** §2 now says so in bold.
+> **Item 7 of the Volume 6 Batch 0005 block below carries the old overclaim and has been left as written** —
+> a note in the head block of `state/continuity.md` points at it and corrects it on the way in.
+>
+> **4. "THE THIRTY-FIFTH OF SEPTEMBER" IS GONE.** It does not exist and no date may replace it. He swore a
+> figure of seven on the **first of August** and again on the **first of October**, nine seconds each time.
+>
+> **5. CHAPTER 339 IS NOW *The Wall Says It Again*.** The old title used `nobody`, which this volume rations
+> in titles, and named a hearing that does not happen in the chapter. The new title names what the chapter is.
+>
+> **6. THE BAND ARITHMETIC AT THE VOLUME'S LAST IMAGE IS NOW ANSWERED, AND §7 NO LONGER LEAVES IT OPEN.**
+> **He prints AT the floor — 8,145 on the nose, on the thirtieth of December** — restored by the page he
+> signs at 348 and attested by the bench, and by nothing else. **A man on the floor is not out of band, so the
+> ranks wall carries no word about him at all for the first time since the thirtieth of July.** Stated in
+> `outline/volume-07.md` §6 movement 5, §7, card 349 and Batch 0005's required power changes; all four say a
+> batch may find a better figure and rewrite them.
+>
+> **7. THE QUARTERLY CARD DOES NOT MOVE AT 328.** The sixteenth of November is not the last working day of a
+> quarter. The wall figure changes; the card waits for six on the thirtieth of December.
+>
+> **AND THE THREE OPERATIONAL ONES, BECAUSE THEY COST A BATCH A DAY EACH IF THEY SURVIVE:** **`chapters/
+> volume-07/` does not exist** and the live prompt now opens with `mkdir -p`; **the title gate said 310
+> written titles when 300 exist** and now says the 300 plus your own ten; and **Batch 0003's climax line no
+> longer names a Thursday.**
+>
+> **THE GATE LESSON IS NOW FIVE VOLUMES OLD, AND THIS PHASE IS THE EXAMPLE.** `outline/volume-07.md` §10 said
+> its fifty title counts were "Checked by command … not by eye." **They had not been. The parenthetical
+> character counts were wrong on forty-three of the fifty.** The substantive claims were true; the claim about
+> how they were checked was not. All fifty are now re-derived by command against the file on disk.
+
 ## Volume 7 — PLANNED, NOT WRITTEN. THIS BLOCK SUPERSEDES NOTHING; THE BLOCK BELOW IS STILL THE LIVE GATE RECORD.
 
 > **NO CHAPTER OF VOLUME 7 EXISTS.** The volume outline is `outline/volume-07.md`, the batch cards are
@@ -6,14 +60,18 @@
 > gate record** until a Volume 7 batch replaces it with its own, and none of the rows in it has been
 > disturbed by planning.
 >
+> **REVIEWED AND REPAIRED — read the block at the head of this file first.** Everything below is as the
+> planning pass wrote it, except the calendar derivation in flag 1, which has been corrected.
+>
 > **THREE FLAGS RAISED WHILE PLANNING. NONE IS A CANON CHANGE. ALL THREE ARE BINDING ON THE NEXT BATCH.**
 
 **1. THE CALENDAR DISAGREES WITH ITSELF BY ONE DAY, AND IT HAS SINCE VOLUME 5.** The head block of
 `state/current.md` §3.2 prints **August 1 a Tuesday**, which puts August's Thursdays on the third, tenth,
 seventeenth and twenty-fourth — correct — and prints **September's Thursdays as the seventh, fourteenth,
 twenty-first and twenty-eight**, which cannot both be true. **A month is thirty days and advances the weekday
-by two, so August 1 a Tuesday makes September 1 a Thursday and puts September's Thursdays on the second,
-ninth, sixteenth, twenty-third and thirtieth.**
+by two, so August 1 a Tuesday makes September 1 a Thursday and puts September's Thursdays on the first,
+eighth, fifteenth, twenty-second and twenty-ninth.** (The printed list is the one you get from a September
+whose first falls on a Friday, which would want August 1 to be a Wednesday.)
 **RULING: the page governs and both printed lists stand exactly as written, because eleven closed chapters
 depend on the September list and re-deriving them is not available.**
 **CONSEQUENCE, AND IT IS BINDING: Volume 7 names NO DAY OF THE WEEK AT ALL — not Monday, not Friday, not

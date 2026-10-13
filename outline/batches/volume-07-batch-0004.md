@@ -82,9 +82,10 @@ pretends afterwards that it was anything else.
 **338 Eight Women On One Line Of Type** — the twenty-ninth. What the eight make of being described, told
 plainly, at the kitchen table, with the eleventh day running.
 
-**339 The Hearing Nobody Was Entitled To** — the thirtieth, morning. **Eleven days ends.** He has not spent
+**339 The Wall Says It Again** — the thirtieth, morning. **Eleven days ends.** He has not spent
 anything in eleven days and every band he built has gone flat and the file is open in a room in another part
-of the city and **he is not at rank seven this morning**.
+of the city and **he is not at rank seven this morning**, and the word the square has been reading since the
+thirtieth of July is read out again at a worse figure.
 
 **340 The Auditor Who Came Back Anyway. THE SCENE. Ines Duarte.** — the thirtieth, at night. After the worst
 thing either of them has done. **Scene rules as in Batch 0002, and the same rule about written-out scenes

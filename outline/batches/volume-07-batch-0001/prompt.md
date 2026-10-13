@@ -17,6 +17,12 @@ and are corrected in the canonical version:**
 **THE CANONICAL, LIVE PROMPT IS `workspace/volume-07/batch-0001/PROMPT.md`.** That is the only Volume 7
 Batch 0001 phase prompt in this repository, and it is the one the dispatcher will run.
 
+**CHECKED, AND THIS FILE CANNOT BE DISPATCHED BY ACCIDENT.** A review pass flagged that this file sits
+inside a directory a dispatcher *might* glob and could not confirm otherwise. It has now been checked
+against `scripts/novel_runner.sh`, which is the only thing that selects a phase: every discovery of a
+candidate prompt is `find workspace -name PROMPT.md -type f` — scoped to `workspace/`, and matching the
+exact case `PROMPT.md`. This file is under `outline/`, in lower case, and fails both tests. It is inert.
+
 **The volume plan it needed now exists and it lives in two places:**
 
 - **`outline/volume-07.md`** — the volume outline. §1 to §5 are written fact; §6 onward is a plan the batch

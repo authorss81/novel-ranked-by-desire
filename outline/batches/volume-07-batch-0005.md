@@ -4,10 +4,12 @@
 December. Ten chapters, thirty days. **The scene is 350, it is Wren Kallo's, and it is Volume Seven's last
 chapter.**
 
-**THE STAGE REACHED IS *WANTED* AND NOT *REQUISITIONED*.** `outline/series.md` and `outline/volume-06.md` §5
-both forbid the fourth stage in this volume. **A requisition tabled and refused is not a requisition
-received.** Volume 7 must close leaving a man who **can be requisitioned and has not been**, and the nine
-minutes at 346 are the proof that the machine works and that this time it did not close.
+**THE STAGE REACHED IS *WANTED* AND NOT *REQUISITIONED*.** `outline/series.md` puts stage four across Ch
+301–400 and gives it its irreversible decision at **372, which is Volume 8**; `outline/volume-06.md` §8
+forbids classifying him, and the Volume 7 Batch 0001 prompt forbids the fourth stage in this volume. **A
+requisition tabled and refused is not a requisition received.** Volume 7 must close leaving a man who **can
+be requisitioned and has not been**, and the nine minutes at 346 are the proof that the machine works and that
+this time it did not close.
 
 **Ferreira's Volume 7 offer is the small one. `outline/ending.md` fixes the great one for Chapter 486 and no
 part of it may be pre-spent here.** She does not make the speech that wins in the last volume and she is not
@@ -36,8 +38,11 @@ the premises. **The option closed: he can never be the address again in a docume
 **Required character changes.** **Anouk Ferreira meets him and is right.** Wren Kallo closes the volume by
 doing the one thing her gift and her cost make unavoidable, which is telling somebody.
 
-**Required power changes.** **The band on the card on the thirtieth is whatever the page has made it, and
-the card prints it in a shade the square has not had.** No grain is spent. **No requisition is received.**
+**Required power changes.** **He prints AT the floor: 8,145 on the nose, on the card at six on the thirtieth,
+and the ranks wall carries no word about him for the first time since the thirtieth of July. That figure is
+set by the page he signs at 348 and attested by the bench, not by the reservoir. No grain is spent. No draw.
+No requisition is received.** **This resolves `outline/volume-07.md` §6 movement 5 and §7; if the page finds a
+better figure, both are rewritten in this batch's commit.**
 
 **Required world reveals.** **What nine rank-nines need on a page in order to move, and how long they have
 when they have it** · **what a majority seal position is and how close it was** · **what happens to the
@@ -78,8 +83,10 @@ name at the top, in his own hand, describing the address and the account and the
 bench. **Six volumes of documents with no name at the top of a page end here, and he did it on purpose, and
 it is the arc of the book moving one step.**
 
-**349 The Card Comes Down At Six** — the thirtieth, early morning. The quarterly card, a floor of 8,145, the
-figure he stands at, and the word in the shade the square has not had.
+**349 The Card Comes Down At Six** — the thirtieth, early morning. The quarterly card, a floor of 8,145, **and
+the figure he stands at is the floor — 8,145, on the nose.** **The wall says no word about him at all**, for
+the first time since the thirtieth of July, because a man on the floor is not out of band. **He is put there
+by the page at 348 and by nothing else: no grain is spent and nothing is drawn.**
 
 **350 The Thing She Cannot Keep. THE SCENE. Wren Kallo. Volume Seven's last chapter.** — the thirtieth, at
 night. **He is the most legible object in Ostara and she is the only person in that building who cannot sit

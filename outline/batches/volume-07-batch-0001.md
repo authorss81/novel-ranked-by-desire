@@ -80,16 +80,20 @@ ordinary clerk who will read both and think the city is untidy.**
 four in the afternoon. *Immediate goal:* find out whether the eighth name matters, from the only woman who
 can price what moved. *Resistance:* **the woman holding the keys since the seventeenth of September is not
 Solveig Rask, has never met him, and is not obliged to explain a book to a man whose address is in it.**
-*Major turn:* **the name of the eighth person is the woman who asked not to be written down**, and the
-keeper tells him, in one sentence, that his sworn answer is not wrong, it is nine days old, and an answer
-that has been overtaken does not correct itself. *Emotional or practical consequence:* he has spent six
-volumes refusing to be legible and has now been overtaken by a woman of thirty-eight taking an address in
-the ordinary way. *Required continuity facts:* **this chapter names the keeper who took the keys on the
-seventeenth of September** — a working proposal is **Hanneke Ruis**, and a batch may change it, but the
-change must be written into `bible/characters.md` in the same commit and she must not be given an age on the
-page · **an initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence** ·
-Marguerite Vale refused on the fifteenth and holds a dated undertaking. *Ending hook:* **she asks him the one
-question nobody has asked him, which is where it is fed from, and the only answer he has is the address.**
+*Major turn:* **the eighth name is Wren Kallo, and the keeper reads both figures off one leaf and says the two
+things that matter: that his sworn answer is not wrong — it is one day old — and that an answer which has
+been overtaken does not correct itself.** *Emotional or practical consequence:* he has spent six volumes
+refusing to be legible and has now been overtaken by a woman of thirty-eight taking an address in the
+ordinary way, and the woman holding the keys is not going to be his instrument about it. *Required
+continuity facts:* **the request not to be written down was INES DUARTE'S, on the ninth of July, and he
+says so in his own hand at Chapter 298 — it may not be attributed to Wren Kallo or to anybody else in that
+building, and Ines Duarte is not at these premises and is not on the leaf** · **this chapter names the
+keeper who took the keys on the seventeenth of September** — a working proposal is **Hanneke Ruis**, and a
+batch may change it, but the change must be written into `bible/characters.md` in the same commit and she
+must not be given an age on the page · **an initialled reconciliation is a keeper's arithmetic and a signed
+one is a woman's evidence** · Marguerite Vale refused on the fifteenth and holds a dated undertaking.
+*Ending hook:* **she asks him the one question nobody has asked him, which is where it is fed from, and the
+only answer he has is the address.**
 
 **Chapter 303 — The Book That Would Not Reconcile**
 
@@ -104,7 +108,8 @@ third place is where an account goes when nobody chooses for it. *Required conti
 with standing over a district return is the auditor of record, and he is it · the plate is 8,138 against a
 floor of 8,144 · a called standing is answered at a valuation by paying it or by a production. *Ending hook:*
 **the thirty-first of October does not exist and the valuation is the turn, so all three have to happen
-before the thirtieth, and the thirty-fifth of September was the day he swore the other figure.**
+before the thirtieth — and he has already sworn a figure of seven from those premises twice, on the first of
+August and again on the first of October, nine seconds each time, off the same chained book.**
 
 **Chapter 304 — A Security Carried At The Wrong Figure**
 

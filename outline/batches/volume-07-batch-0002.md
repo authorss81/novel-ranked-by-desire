@@ -1,7 +1,7 @@
 # Volume 7, Batch 0002 — Chapter cards, 311–320
 
 **Movement 2 of `outline/volume-07.md` §6: The Classification Of A House.** The twenty-second to the
-thirtieth of October. Nine chapters, nine days. **The scene is 318 and it is Runa Sato's.**
+thirtieth of October. Ten chapters, nine days. **The scene is 318 and it is Runa Sato's.**
 
 **THIS BATCH IS WHERE THE VOLUME TURNS, AND IT TURNS AGAINST HIM.** The offer is real, it is merciful, it is
 the door he has never been offered, and he takes it, and it costs the eight women their invisibility. **A
@@ -75,17 +75,19 @@ she put herself there and would do it again, and that the price of that is her d
 says the reason is that a description of a man can be examined and a description of a house cannot, and he
 believes it, and it is true, and it is also the reason he has used for seven volumes.**
 
-**318 The Report That Was True And Useless. THE SCENE. Runa Sato.** — the thirtieth, after a requisitioned
-flat on Cordwain. Her division has the priced line and an order to produce a return. **He tells her to file
-the truth and she files it and it is useless and it is the only thing in this volume that was hers.**
-**Scene rules: written out, not summarised; no impaired state as a mechanism; nothing compelled.**
+**318 The Report That Was True And Useless. THE SCENE. Runa Sato.** — **the thirtieth, morning.** In a
+requisitioned flat on Cordwain. Her division has the priced line and an order to produce a return. **He tells
+her to file the truth and she files it and it is useless and it is the only thing in this volume that was
+hers.** **Scene rules: written out, not summarised; no impaired state as a mechanism; nothing compelled.**
 
-**319 The Order She Took On Purpose** — the thirtieth, morning. She has taken a standing order to observe the
-premises and has not refused it, and he cannot protect her from an order she has accepted on purpose.
+**319 The Order She Took On Purpose** — **the thirtieth, the middle of the afternoon, after the scene.** She
+has taken a standing order to observe the premises and has not refused it, and he cannot protect her from an
+order she has accepted on purpose.
 
-**320 The List Of Persons At An Address** — the thirtieth, after four o'clock. The list goes out in the
-ordinary way. **The Field counter reads it at nine the next morning.** End on the list being ordinary and
-public and eight names on it.
+**320 The List Of Persons At An Address** — **the thirtieth, after four o'clock.** The list goes out in the
+ordinary way. **The Field counter reads it at nine the following morning, which is the first of November,
+because the thirty-first of October does not exist.** End on the list being ordinary and public and eight
+names on it.
 
 ## Required continuity updates after this batch
 
