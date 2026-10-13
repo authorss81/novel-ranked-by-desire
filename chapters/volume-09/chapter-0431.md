@@ -56,7 +56,7 @@ She turned the slip over and put it back.
 
 She looked up.
 
-"The answer is a quarter, and I did not need nine volumes to get there. I have also promised a man in this city nothing beyond seeing what I see. That promise was made about a piece of paper and it has not been broken and I am not breaking it now."
+"The answer is a quarter, and it did not take me long to get there. I have also promised a man in this city nothing beyond seeing what I see. That promise was made about a piece of paper and it has not been broken and I am not breaking it now."
 
 ## What The Return Will Have At The Head Of It
 

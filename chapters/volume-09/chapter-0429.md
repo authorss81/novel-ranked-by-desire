@@ -60,7 +60,7 @@ The clerk sat down on the bench at the end of the corridor, which she had not do
 
 "Nine lines and a tenth with a box," he said. "And the tenth one is the only line on that paper that anybody in this city has ever written anything into that was not a figure, and she wrote on the other side of it."
 
-"The tenth line has had three separate entries made in it in nine years. Two of them were made in the last thirty-one days and neither of them was mine, and one of them is not in this book at all."
+"The tenth line has had three separate entries made in it in nine years. Two of them were made in the last thirty-one days and neither of them was mine, and one of them is not written down anywhere."
 
 She said it perfectly level.
 

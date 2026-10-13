@@ -46,7 +46,7 @@ Nadia Ferrous picked it up at the bottom edge with two fingers and turned it ove
 
 Runa Sato looked at the envelope on the table. "The requisition is eighty-one days old. It was laid on the twentieth of February, read for nine minutes at ten o'clock, and the chair wrote four words about it that are in a minute now, and one of the four is *served*. That word is why this is on that shelf and not in a drawer."
 
-"It is the only thing that has come to the head of this stair," said Petra Ilyin. She turned her docket over and put it down on the table face down, which she does when she is going to talk about an instrument. "Nine volumes. Four sheets, a page, a finding, a list, a declaration of holding, a priced line, a witness line and a minute. Every one of them was put in a room. This one came here."
+"It is the only thing that has come to the head of this stair," said Petra Ilyin. She turned her docket over and put it down on the table face down, which she does when she is going to talk about an instrument. "Nine times over. Four sheets, a page, a finding, a list, a declaration of holding, a priced line, a witness line and a minute. Every one of them was put in a room. This one came here."
 
 ## Eight
 

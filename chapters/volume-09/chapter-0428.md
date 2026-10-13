@@ -24,7 +24,7 @@ She came off the bench and put her hand flat on it.
 
 "I carry weight. That is my gift, it has been my gift since I was a junior, and I have never once in my life been able to put it down. Mass. Later, other things, and I will tell you about those in about a year and not tonight."
 
-"What I carry, my body takes. I am heavier than I look by a stone and a half and I have been heavier by a stone and a half since I came into this book and it is going to keep going, and I have stopped discussing it, and I am discussing it now because you are going to feel it and I am not going to have you think it is a trick."
+"What I carry, my body takes. I am heavier than I look by a stone and a half and I have been heavier by a stone and a half since the first year and it is going to keep going, and I have stopped discussing it, and I am discussing it now because you are going to feel it and I am not going to have you think it is a trick."
 
 "That is the cost."
 
@@ -38,11 +38,11 @@ She looked at the concrete.
 
 "That is allowed."
 
-"It is allowed. I am simply not doing it." She almost smiled. "And the third thing, and I am naming it because a woman told me to name things in this book or nobody would know which one we had done. Petra broke it on a terms sheet and a written promise and a boiler. Nadia broke it by giving no terms at all and telling you to work it out. Both of them broke it on the clock. Neither of them described you."
+"It is allowed. I am simply not doing it." She almost smiled. "And the third thing, and I am naming it because a woman told me to name things or nobody would know which one we had done. Petra broke it on a terms sheet and a written promise and a boiler. Nadia broke it by giving no terms at all and telling you to work it out. Both of them broke it on the clock. Neither of them described you."
 
 She stepped away from the bench.
 
-"Nobody in nine volumes is going to describe you three times in words," said Runa Sato. "Not tonight."
+"Nobody is going to describe you three times in words," said Runa Sato. "Not tonight."
 
 "I am going to do this and you are going to find out what it is, and if you want it in words you are going to have to ask me for it afterwards and I will probably say no. That is the one nobody has broken and I am breaking it in a loading bay at eleven at night, and there is no sheet and no kettle and no clock in here."
 
@@ -64,7 +64,7 @@ Then she took her coat off and hung it on the end of the bench and came to him, 
 
 ## The Bay
 
-"You are going to want me to be quick," she said, somewhere in the middle of it, with her mouth against the side of his neck. "You have had two women in this book who were fast and one of them was fast on purpose. I am not fast."
+"You are going to want me to be quick," she said, somewhere in the middle of it, with her mouth against the side of his neck. "You have had two women who were fast and one of them was fast on purpose. I am not fast."
 
 "I have spent four years being a woman who gets to the bottom of things and I have earned the right to take my time. I am going to take about two hours and you are going to lie there and let me."
 
@@ -118,15 +118,13 @@ She put her hand on his face.
 
 She went down onto him and stayed there.
 
-"Beatrix says you have gone down to about five cold minutes a day for nine volumes. The last one was on the twenty-third of April and you gave four or five seconds to a man in a queue who had not agreed to anything."
+"Beatrix says you have gone down to about five cold minutes a day. The last one was on the twenty-third of April and you gave four or five seconds to a man in a queue who had not agreed to anything."
 
 "And it is in me now. All four of it. And it stays there, and nobody thanks me for it, and I told you in a bay on the twenty-seventh of April that there would be no thanking, and tonight I meant it more than I did then."
 
 She came with his name in her mouth and then without it, and after that she stopped talking altogether for about a minute and a half and simply worked him, and the bay was very quiet and the whole of it came back off the concrete under them.
 
 ## The Reason Box
-
-
 
 She sat on the bench afterwards with one leg over the other and her boots on and her shirt buttoned and the pen in her hand, and she did not drink anything and she did not smoke and she took about ninety seconds before she said anything, and he let her have them.
 

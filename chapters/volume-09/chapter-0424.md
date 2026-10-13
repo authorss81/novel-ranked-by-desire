@@ -68,7 +68,7 @@ He thought about it for longer than she expected him to.
 
 Alma Quayle did not move for about three seconds.
 
-"That is the fourth time in nine volumes," she said, "and I am not going to pretend I did not know which four, and I want you to hear the rest of it, because the rest of it is not the reason and I have thought about the reason for eleven days."
+"That is the fourth time," she said, "and I am not going to pretend I did not know which four, and I want you to hear the rest of it, because the rest of it is not the reason and I have thought about the reason for eleven days."
 
 "Go on."
 

@@ -25,7 +25,7 @@
 
 > In this volume, **Lin Hao must reach rank nine**, or **Lin Wei's file stays shut and the account stays open**.
 
-**BATCHES 0001, 0002 AND 0003 ARE WRITTEN. `chapters/volume-09/` EXISTS AND HOLDS CHAPTERS 401–432, THIRTY-TWO FINISHED CHAPTERS. BATCH 0001: 21,692 WORDS POST-REPAIR. BATCH 0002: 21,563 WORDS COUNTED PER FILE AND SUMMED. BATCH 0003: 23,943 WORDS COUNTED PER FILE AND SUMMED. Chapters 433–450 are planned and unwritten. THE REPAIR OF BATCH 0001 IS RECORDED IN FULL IN THE REVIEW REPAIR BLOCK AT THE END OF THE SUPERSEDED LIVE GATE BLOCK IN `state/open-threads.md`; BATCH 0002's OWN LIVE GATE BLOCK IS AT THE HEAD OF THAT FILE.** **THE BATCH BLOCKS ARE BELOW THIS ONE AND THE BATCHES RUN IN ASCENDING ORDER — 0001, THEN 0002, THEN 0003 — SO A PHASE READING THIS FILE FOR THE MOST RECENT BATCH FINDS VOLUME 9 AND NOT A BATCH OF VOLUME 8.** The
+**BATCHES 0001, 0002 AND 0003 ARE WRITTEN. `chapters/volume-09/` EXISTS AND HOLDS CHAPTERS 401–432, THIRTY-TWO FINISHED CHAPTERS. BATCH 0001: 21,692 WORDS POST-REPAIR. BATCH 0002: 21,563 WORDS COUNTED PER FILE AND SUMMED. BATCH 0003: 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 23,943 BEFORE IT. Chapters 433–450 are planned and unwritten. THE REPAIR OF BATCH 0001 IS RECORDED IN FULL IN THE REVIEW REPAIR BLOCK AT THE END OF THE SUPERSEDED LIVE GATE BLOCK IN `state/open-threads.md`; **BATCH 0003'S OWN REVIEW REPAIR OF 13 OCTOBER 2026 IS THE HEAD BLOCK OF THAT FILE, AND BATCH 0003'S OWN LIVE GATE BLOCK IS IMMEDIATELY BELOW IT AND IS SUPERSEDED, NOT DELETED.** **THE BATCH BLOCKS ARE BELOW THIS ONE AND THE BATCHES RUN IN ASCENDING ORDER — 0001, THEN 0002, THEN 0003 — SO A PHASE READING THIS FILE FOR THE MOST RECENT BATCH FINDS VOLUME 9 AND NOT A BATCH OF VOLUME 8.** The
 volume's opening position and its twelve-card plan follow in this block, and Batch 0001's own record is under **Volume 9, Batch 0001** immediately beneath it, with Batch 0002's under it and Batch 0003's under that.
 
 ### Volume 9, Batch 0001 — Chapters 401–412. THE FIRST OF APRIL TO THE TWENTY-TH OF APRIL. **WRITTEN. 21,692 WORDS COUNTED PER FILE AND SUMMED, POST-REPAIR, AND 21,491 BEFORE THE 15 OCTOBER REVIEW REPAIR.**
@@ -246,7 +246,7 @@ the arithmetic that would close it.**
 **Ch 372 opened Lin Wei's file and nothing before it went near it, and that was the batch's irreversible
 decision.**
 
-### Volume 9, Batch 0003 — Chapters 423–432. THE ELEVENTH OF MAY TO THE TWENTY-SEVENTH OF MAY. **WRITTEN. 23,943 WORDS COUNTED PER FILE AND SUMMED.**
+### Volume 9, Batch 0003 — Chapters 423–432. THE ELEVENTH OF MAY TO THE TWENTY-SEVENTH OF MAY. **WRITTEN. 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE 13 OCTOBER 2026 REVIEW REPAIR, 23,943 BEFORE IT.**
 
 **THE TEN FILES ARE `chapters/volume-09/chapter-0423.md` … `chapter-0432.md`.** Batch 0002's own record is immediately above. `outline/volume-09.md` §6 MOVEMENT 3 HAS BEEN REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT THAT WROTE THESE TEN, WITH **EIGHT NAMED PLACES THE PLAN WAS WRONG**, and `PC-83` to `PC-88` are this batch's own additions in `state/continuity.md`.
 
@@ -263,16 +263,16 @@ decision.**
 
 **CHAPTER BY CHAPTER, COMPACT.**
 
-- **423 (11 May). THE ENVELOPE HE WOULD HAVE TO OPEN. 2,977 words.** The object, the rule about services, the wax, and a fifth line that says eight. **Nadia Ferrous puts it in a drawer and says the bill is still hers. The chapter closes on the only woman who could lawfully open a service at that address, who has a gap in a line and has not been told anything.**
-- **424 (13 May). A RECUSAL ONLY THE SUBJECT MAY LIFT. 2,596 words. `PC-83`.** The ask, the refusal, the reason, and a woman at a door telling a man to count her at the table.
-- **425 (15 May). THE MINUTE THAT CARRIES FIVE SEALS. 2,543 words.** A keeping book and a minute are not the same animal. **Three seals, a dead sentence, six of seven desks, and a copy of the February minute that has been in Alma Quayle's own building for eighty-four days.**
+- **423 (11 May). THE ENVELOPE HE WOULD HAVE TO OPEN. 2,978 words. `PC-88`.** The object, the rule about services, the wax, and a fifth line that says eight. **Nadia Ferrous puts it in a drawer and says the bill is still hers. The chapter closes on the only woman who could lawfully open a service at that address, who has a gap in a line and has not been told anything.**
+- **424 (13 May). A RECUSAL ONLY THE SUBJECT MAY LIFT. 2,593 words. `PC-83`, and the first half of `PC-84`.** The ask, the refusal, the reason, and a woman at a door telling a man to count her at the table.
+- **425 (15 May). THE MINUTE THAT CARRIES FIVE SEALS. 2,542 words.** A keeping book and a minute are not the same animal. **Three seals, a dead sentence, six of seven desks, and a copy of the February minute that has been in Alma Quayle's own building for eighty-four days.**
 - **426 (17 May). THE MAN ON THE THIRD FLOOR. 2,011 words.** Four minutes in a corridor, a refusal to give a name, a request for a date, and a man standing at a rail at the end who does not knock.
-- **427 (19 May). THE CONSULT SHE TAKES TO A BOARD. 1,962 words. `PC-84`.** Eleven people, ninety seconds, the twenty-ninth of May, and a chaplain who cannot make anybody answer her.
-- **428 (21 May). THE SCENE. RUNA SATO. 3,399 words.** A bay, a scale, a gift and its price, the axis named on the page, and a reason box with his name in it. **Scene body 1,367 on `## The Scale` → `## The Reason Box`, 2,866 on the literal first-`##`-to-last-`##` span, probe 22 and 29.**
-- **429 (23 May). TEN LINES ON A RETURN. 2,087 words. `PC-85`.** A return that came back up the chain with a time on the back of it in pencil, and a woman who cannot be asked.
-- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. 2,124 words.** Ten lines on a chalk board and a line of paint under it, and a door that opens onto a list.
+- **427 (19 May). THE CONSULT SHE TAKES TO A BOARD. 1,962 words.** Eleven people, ninety seconds, the twenty-ninth of May, and a chaplain who cannot make anybody answer her. **`PC-84` WAS MIS-TAGGED TO THIS CHAPTER IN THE FIRST PASS OF THIS BLOCK AND IS CORRECTED HERE: IT LANDS AT 424 AND 430.**
+- **428 (21 May). THE SCENE. RUNA SATO. 3,385 words.** A bay, a scale, a gift and its price, the axis named on the page, and a reason box with his name in it. **Scene body 1,361 on `## The Scale` → `## The Reason Box`, exclusive of the bounding heading; 2,413 on the literal first-`##`-to-last-`##` span, which also carries the last three sections of the chapter; explicit-vocabulary probe 22 and 27. THE TWO FIGURES THE PREVIOUS BLOCK CERTIFIED, 1,367 AND 2,866, COULD NOT BE REPRODUCED BY ANY EXPRESSION AND ARE SUPERSEDED; THE FIGURES ABOVE CARRY THEIR OWN DEFINITIONS.**
+- **429 (23 May). TEN LINES ON A RETURN. 2,085 words. `PC-85`.** A return that came back up the chain with a time on the back of it in pencil, and a woman who cannot be asked.
+- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. 2,125 words. The second half of `PC-84`.** Ten lines on a chalk board and a line of paint under it, and a door that opens onto a list.
 - **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. 2,047 words. `PC-86`.** Twelve dates, one fixed day, two returns about one matter, and a line on the front of a file.
-- **432 (27 May). THE FOUR BLOCK OF A SHEET. 2,197 words. `PC-87`.** Four blocks and no fifth, the reason an account cannot be closed said once by a keeper, and a name going into a fourth block out of memory with no certificate behind it.
+- **432 (27 May). THE FOURTH BLOCK OF A SHEET. 2,197 words. `PC-87`.** Four blocks and no fifth, the reason an account cannot be closed said once by a keeper, and a name going into a fourth block out of memory with no certificate behind it.
 
 ### Volume 8, Batch 0001 — Chapters 351–360. THE FIRST TO THE TWENTY-SIXTH OF JANUARY. **WRITTEN.**
 

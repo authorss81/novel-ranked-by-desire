@@ -888,7 +888,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
 - **421 (7 May). THE WEEK IT COULD BE CARRIED. WRITTEN BY BATCH 0002 — SEE §6 MOVEMENT 2.**
 - **422 (9 May). THE DAYS A SHEET WAITS. WRITTEN BY BATCH 0002 — SEE §6 MOVEMENT 2.**
 
-- **423 (11 May). THE ENVELOPE HE WOULD HAVE TO OPEN. WRITTEN. 2,977 WORDS.** The kitchen at Ferrier Street at about ten
+- **423 (11 May). THE ENVELOPE HE WOULD HAVE TO OPEN. WRITTEN. 2,978 WORDS. `PC-88`'s CHAPTER.** The kitchen at Ferrier Street at about ten
   in the morning, five of the eight, and Isolde Marchetti counts a shelf and gets nine where there have been eight since
   she came in. **THE OBJECT IS A FLAT HAND ENVELOPE WITH PREMISES 34-6-118 ON IT IN A CLERK'S HAND, NO NAME UNDER THE
   ADDRESS, THE WAX UNBROKEN, AND IT HAS BEEN ON THE SHELF AT THE HEAD OF THE STAIR SINCE THE MORNING OF THE TWENTIETH
@@ -904,7 +904,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   of, in his own kitchen, and cannot be a stranger to that service again, and the bill for it is that in about four
   years a stranger with a folder will want to know who else has seen it.
 
-- **424 (13 May). A RECUSAL ONLY THE SUBJECT MAY LIFT. WRITTEN. 2,596 WORDS. `PC-83`'s CHAPTER.** Alma Quayle's own
+- **424 (13 May). A RECUSAL ONLY THE SUBJECT MAY LIFT. WRITTEN. 2,593 WORDS. `PC-83`'s CHAPTER, AND THE FIRST HALF OF `PC-84`.** Alma Quayle's own
   division on a sub-level, at nine in the morning, four words on a slip. **SHE ASKS HIM FOR THE ONLY THING HE CAN GIVE
   HER: a sentence spoken out loud in front of the clerk of that room, because a recusal is lifted by the subject and by
   nobody else and there is no sheet for lifting one.** What she wants it for is one line in the minute of the carrying —
@@ -919,7 +919,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   he builds for the last day of this quarter.** **THE RECUSAL IS STILL UNLIFTED AT THE END OF IT AND IT IS THE THIRTEENTH
   OF MAY, AND THE DEADLINE HE HAS WASTED IS THE THIRTIETH OF JUNE.**
 
-- **425 (15 May). THE MINUTE THAT CARRIES FIVE SEALS. WRITTEN. 2,543 WORDS.** The corridor off the second landing, the
+- **425 (15 May). THE MINUTE THAT CARRIES FIVE SEALS. WRITTEN. 2,542 WORDS.** The corridor off the second landing, the
   clerk, the keeping book open at the back. **AND THE CHAPTER ANSWERS THE CARD'S OWN OBJECTION ON THE PAGE: A KEEPING
   BOOK AND A MINUTE ARE NOT THE SAME ANIMAL.** The entry of the ninth of May is a line in a book and it cannot be
   struck; a minute is a record of a proceeding **and it is also a production, so a copy of it goes to every division
@@ -958,9 +958,9 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   table at half past five with her coat on, and she does not explain the room to anybody, and one woman at that table
   would have understood it inside four seconds and has said nothing since January.
 
-- **428 (21 May). THE SCENE. RUNA SATO. WRITTEN AND OUT IN FULL. 3,399 WORDS; SCENE BODY 1,367 ON THE RECORDED SPAN
-  `## The Scale` TO `## The Reason Box` EXCLUSIVE OF BOTH, AND 2,866 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH
-  THE PROMPT REQUIRED TO BE PRINTED BESIDE IT; PROBE 22 ON THE RECORDED SPAN AND 29 ON THE LITERAL ONE.** A loading bay
+- **428 (21 May). THE SCENE. RUNA SATO. WRITTEN AND OUT IN FULL. 3,385 WORDS; SCENE BODY 1,361 ON THE RECORDED SPAN
+  `## The Scale` TO `## The Reason Box`, EXCLUSIVE OF THE BOUNDING HEADING, AND 2,413 ON THE LITERAL FIRST-`##`-TO-LAST-`##` SPAN, WHICH
+  THE PROMPT REQUIRED TO BE PRINTED BESIDE IT AND WHICH ALSO CARRIES THE LAST THREE SECTIONS OF THE CHAPTER; PROBE 22 ON THE RECORDED SPAN AND 27 ON THE LITERAL ONE. **THE FIGURES 3,399 / 1,367 / 2,866 / 29 THAT THE FIRST PASS OF THIS OUTLINE CERTIFIED WERE NOT REPRODUCIBLE AND WERE CORRECTED ON 13 OCTOBER 2026; THE CHAPTER IS ALSO FOURTEEN WORDS SHORTER AFTER THE REVIEW CUT THE META-CONTAINER TIC OUT OF IT.** A loading bay
   off Cordwain at eleven at night with a bench under an awning and a platform scale set into the concrete behind it,
   **and a scale is there because the bay takes deliveries and nobody in that house had ever asked why.**
   **SHE IS NOT IMPAIRED AND SHE SAYS SO IN HER OWN MOUTH BEFORE ANYTHING ELSE HAPPENS IN THE ROOM.** Her gift arrives
@@ -977,7 +977,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   REASON IS GOING TO NAME HIM.** The chapter closes on a figure she wrote on the back of her own left hand on a public
   scale and never told anybody and never will.
 
-- **429 (23 May). TEN LINES ON A RETURN. WRITTEN. 2,087 WORDS.** The corridor, at about eleven in the morning, and a
+- **429 (23 May). TEN LINES ON A RETURN. WRITTEN. 2,085 WORDS. `PC-85`'s CHAPTER.** The corridor, at about eleven in the morning, and a
   bundle off the chain with a return in it that **came back up the chain from one of the seven desks because a division
   that has been sent a paper it has no business holding sends it back up the chain unanswered.** Nine ruled lines and a
   tenth with a box, five of them carrying a standing, four empty. **ON THE BACK OF IT, IN PENCIL, IN A HAND THE CLERK
@@ -992,7 +992,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   into the keeping on the thirtieth of May and nothing in this city can put a line back down. The chapter ends at a
   quarter to five at the north end of a wall, where the seventh line in nine years has nothing under it.
 
-- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. WRITTEN. 2,124 WORDS.** A board at the end of the corridor with the
+- **430 (24 May). THE CALENDAR IS THE ONLY DOOR. WRITTEN. 2,125 WORDS.** A board at the end of the corridor with the
   day's runs chalked on it in a hand that goes up at the end of every line, a woman at it at about ten past ten, and
   **TEN LINES, NINE OF THEM CHALKED EVERY MORNING AND THE TENTH NEVER CHALKED IN FOUR YEARS.** Underneath, in **paint,
   put up a quarter ahead by a man from the works who does it in about nine minutes: THE COUNCIL, THE THIRTIETH OF
@@ -1005,7 +1005,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   on the sentence that carries the whole volume in one line: **the instrument he swore on the ninth of May that he
   would never use again turns out to have two ends.**
 
-- **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. WRITTEN. 2,048 WORDS. `PC-84`'s CHAPTER.** The Vestry clinic, her
+- **431 (25 May). FOUR TIMES A YEAR IN HER OWN HAND. WRITTEN. 2,047 WORDS. `PC-86`'s CHAPTER. `PC-84` WAS MIS-TAGGED TO THIS CARD IN THE FIRST PASS AND IS CORRECTED HERE; IT IS 424 AND 430.** The Vestry clinic, her
   own rooms over the cold store, and a slip of paper with eleven dates ruled on it and a twelfth ruled and not filled
   in. **`PC-62` IS NOW ON THE PAGE AND IT IS TESSA OKONKWO WHO PUTS IT THERE.** A held account is administered on the
   last working day of the last month of its quarter; the tenth line of the last one about the man in the room with no
@@ -1021,7 +1021,7 @@ under a bill from a chandler at the head of a stair since the twentieth of Febru
   wanted for eleven years — to be permitted to treat somebody without writing the file — **to a man who cannot do
   anything about it, and she says she chose him on purpose.**
 
-- **432 (27 May). THE FOUR BLOCK OF A SHEET. WRITTEN. 2,197 WORDS.** The counting room two floors under the Exchange,
+- **432 (27 May). THE FOURTH BLOCK OF A SHEET. WRITTEN. 2,197 WORDS.** The counting room two floors under the Exchange,
   behind the plate office, at about ten in the morning: Hanneke Ruis at the rail with a cup she has not drunk out of and
   Solveig Rask at the chained real book with her writing hand tied into it by a cord. **AND THE CHAPTER SAYS WHY IT IS
   A DIFFERENT DOCUMENT FROM EVERYTHING ELSE IN THE MOVEMENT: A CARRY-FORWARD HAS FOUR RULED BLOCKS, THREE OF THEM ARE
@@ -1168,7 +1168,7 @@ THE FIRST RETURN THAT CARRIES FIVE.**
 | --- | --- | --- | --- |
 | **0001** | **401–412** | 1–21 April | **the restoration, the roll, what nine costs, the ask, the lodge, the line with a gap in it, and the return at five.** Cards written; `workspace/volume-09/batch-0001/PROMPT.md` is the one live phase |
 | **0002** | **413–422** | 23 April – 9 May | **the first spend on a stranger; the ledger crossing a number and the volume's first panel; a price priced and not invoiced; nine seconds sung in a corridor; the Nadia Ferrous scene; the household finding out what it has signed; a wing that keeps no register of addresses; a gap read aloud and the same word written twice; the arithmetic of fifty-three days; and a room of five entering a sheet it has been holding. WRITTEN 13 OCTOBER 2026, 21,524 words; `workspace/volume-09/batch-0003/PROMPT.md` is the one live phase** |
-| **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,943 WORDS COUNTED PER FILE AND SUMMED; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
+| **0003** | **423–432** | 11 May – 27 May | **WRITTEN 13 OCTOBER 2026, 23,925 WORDS COUNTED PER FILE AND SUMMED AFTER THE REVIEW REPAIR OF THE SAME DAY, 23,943 BEFORE IT; `outline/volume-09.md` §6 movement 3 REWRITTEN AGAINST THE PAGE in the same commit, with eight named places the plan was wrong, and with the 433 and 434 cards standing on two new facts the page established — a certificate for the quarter beginning the first of July that does not exist, and two returns about one matter arriving at one clinic on the thirtieth of June.** `workspace/volume-09/batch-0004/PROMPT.md` is the one live phase |
 | **0004** | **433–442** | 29 May – 15 June | **four minutes and a box; the one who was never told; the third sub-level; the Beatrix Halm scene at 438; and the standing to answer for himself.** **THE CARDS AT 433 AND 434 ARE NOW LOADED BY 431 AND 432 AND NOT BY THE PLAN: the first administration of a lodged citizen and the next administration of a held man are the same morning at the same clinic, and a keeper is going to enter a name in the fourth block of a sheet on the thirtieth of June out of her own memory with no certificate behind it** |
 | **0005** | **443–450** | 17–30 June | **the answer, the cheapest thing in the room, the Ines Duarte scene at 446, the clause under the minute, the card, and a name on the black tile.** **Eight chapters — it is the volume's close and it is one unit, and
 `PHASE_SYSTEM.md` warns against asking a single call to carry a whole volume's close duties, which is why it is not
