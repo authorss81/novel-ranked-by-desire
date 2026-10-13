@@ -90,9 +90,9 @@ The clerk looked up for the first time.
 
 "That is a question about a person and I am permitted to answer questions about a person," she said. "She was told at about eleven this morning, because everything after the day an application is entered is automatic and nothing after that day can be news in this building."
 
-"She will be in that room on the first of the four days and not on the last of them, because she entered the application for the third day and the third day is the day an applicant is heard."
+"She will be in that room on the first of the four days and not on the last of them, because she entered the application for the second day and the second day is the day an applicant is heard."
 
-"She has never asked her board for anything in twenty years and she asked it on the twentieth of July, and she has just been told by an office that she is on the third of four days."
+"She has never asked her board for anything in twenty years and she asked it on the twentieth of July, and she has just been told by an office that she is on the second of four days."
 
 "Yes."
 

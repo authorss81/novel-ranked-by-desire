@@ -14,7 +14,7 @@ She stood up at about eleven and she read it off the book with the book shut and
 
 "Third. Therefore the disposition is distribution. Not return. Distribution. Given out, to people below a floor, in the open, by a body with a book on it and more than one name on the book, and not by a person, because a person is what the four of us have been arguing about for four days and I am the fourth."
 
-"Fourth," said Agnete Lindqvist, "and I am going to say this one slowly and I am going to stop halfway through it because the other half is the part that will be argued about for eleven weeks, and the half I am going to say now is that a return is a man deciding on his own, in his own head, who was owed what, and that there is no list, and that therefore the most he can be asked to do is decide it alone."
+"Fourth," said Agnete Lindqvist, "and I am going to say this one slowly and I am going to stop halfway through it because the other half is the part that will be argued about for nine weeks, and the half I am going to say now is that a return is a man deciding on his own, in his own head, who was owed what, and that there is no list, and that therefore the most he can be asked to do is decide it alone."
 
 She stopped.
 
@@ -28,7 +28,7 @@ What was under it was two hours and fifty minutes on the afternoon of the twenty
 
 She had told that room in advance that she was going to build it out of the three hours, and she had done it, and the building was on the record and the record was kept on a shelf in that building and could be read by anybody who put their name in a day's book at the counter.
 
-Sixty names and a hundred and forty particulars about a city doing the unmeasured thing in doorways. A keeper who filled a block from memory. A woman with a stall whose son scored nine. A counter with no door behind it. A boy of nineteen in March who was laughed at by four people and stopped.
+Sixty names and a hundred and forty particulars about a city doing the unmeasured thing in doorways. A keeper who filled a block from memory. A woman with a stall whose son scored nine. A counter with no door behind it. A boy off a tram in March who was laughed at by four people and stopped.
 
 Not one word of it could be used against a person. All of it was in a book.
 
@@ -42,7 +42,7 @@ By about half past eleven about two thirds of that room had finished being an au
 
 It is his. It is the Board's. It was stolen off somebody.
 
-And about nine hundred people in that room went out at about half past two believing, on the balance of the evidence and on the balance of who they thought they were listening to, that a chaplain of twenty years who had spent three hours on the record naming ordinary people who had been uncounted by their own city was more trustworthy on this question than a man who had been at the foot of a wall taking hands from strangers for eight days and had a cough.
+And about nine hundred people in that room went out at about half past two believing, on the balance of the evidence and on the balance of who they thought they were listening to, that a chaplain of twenty years who had spent three hours on the record naming ordinary people who had been uncounted by their own city was more trustworthy on this question than a man who had been at the foot of a wall taking hands from strangers for nine days and had a cough.
 
 He could not say a word. Not because of the rule about a subject instructing a room, which he had sat through for six hours and forty minutes on the twenty-eighth and had got exactly what he expected from it, but because every word available to him was either a document or an authority or a rank, and he had brought none of the three into that building and had not any of them.
 

@@ -20,7 +20,7 @@ The room had four hundred people in it and there was no compulsion in it at all.
 
 "It is not mine."
 
-He said it at the volume a man uses at the front of a room and not at the volume he had been using at the foot of a wall for eight days, and it went to the back of that room because a room with four hundred people in it carries sound further than a man thinks it does.
+He said it at the volume a man uses at the front of a room and not at the volume he had been using at the foot of a wall for nine days, and it went to the back of that room because a room with four hundred people in it carries sound further than a man thinks it does.
 
 "It has never been mine. I have never said that it was mine, and she asked me on the twenty-ninth of July in front of eleven hundred people whether it was, and I said no, and I am saying it again this morning because it is true and because she has built four sentences on it and they are the only four sentences in her case that I am not going to spend the morning taking apart."
 
@@ -48,9 +48,11 @@ Somebody at the back said, "Then who does it belong to."
 
 "A distribution is a decision," said Lin Hao. "Somebody has to decide the order, and deciding an order means having an aim, and having an aim about people you have never met is easy for a room and it is hard for one person and it is worse for one person who is thirty and has been wrong about his own account for four years."
 
-"So I stood at the foot of a wall for eight days. That is not an argument either, and I am going to tell you the figure because I have got it and nobody else has, and then you can decide whether it is evidence."
+"So I stood at the foot of a wall for nine days. That is not an argument either, and I am going to tell you the figure because I have got it and nobody else has, and then you can decide whether it is evidence."
 
-"About two thousand people came. On the eleventh there were about nine hundred and by the fifteenth there was a queue at half past six in the morning and about two hundred at the wall in the afternoon and I did five days of that and then six and a half hours on the seventeenth and nothing after that."
+"About two thousand people came. On the eleventh there were about nine hundred and by the fifteenth there was a queue at half past six in the morning and about two hundred at the wall in the afternoon, and I stood at that wall from the eleventh to the nineteenth, which is nineteen taken from eleven leaving eight, and eight days from the first of them to the last of them is nine days at a wall."
+
+"I did six and a half hours on the seventeenth and about a hundred and ninety hands on the nineteenth and nothing after that."
 
 "About forty of the two thousand noticed anything. Forty. And every single one of those forty was already standing in that square, because it is the second largest crossing anybody has ever measured in this city and about nine thousand people walk under that wall a day, and every person who needed it was somewhere else with a cold hand and had thought they were cold."
 
@@ -58,7 +60,7 @@ He waited for the room to get to it and it took about four seconds.
 
 "I cannot tell you the name of one of the forty. If the order had been mine, and it was mine,"
 
-"that is exactly what I would not have been able to do about it. And if the order is on the sheet of a body of nine people who have never met me and think I am a man who took it, then you will get about the same forty, out of about a million, and the four hundred years after that will be about a theory held by some people on an ordinary morning."
+"that is exactly what I would not have been able to do about it. And if the order is on the sheet of a body of nine people who have never met me and think I am a man who took it, then you will get about the same forty, out of about a million, and the rest of that will be about a theory held by some people on an ordinary morning."
 
 ## Four: The Thing He Was Not Allowed To Finish
 
@@ -82,7 +84,7 @@ And a third time, about halfway through, with four hundred people in a room that
 
 "There is one more and it is the only thing I have got in my pocket this morning and it is not much, and I am going to say it and then I am finished."
 
-"I can take the cold. I have taken it for eight days at a wall and about four thousand people's worth went out through a chest that had nothing left in it and something in me is spent and it is not going to get better, and there is a cough in it now that is mine for the rest of my life."
+"I can take the cold. I have taken it for nine days at a wall and about four thousand people's worth went out through a chest that had nothing left in it and something in me is spent and it is not going to get better, and there is a cough in it now that is mine for the rest of my life."
 
 "And a woman who counts for a living at a counter in a hall with no door on it went grey on one side of her head on the thirteenth of July in a room I put my hand into, and she is the eleventh name on a turned line and I put it there myself."
 
@@ -118,7 +120,7 @@ He had spent four years making sure that there was not one paper in this city wi
 
 She came out into the yard at about ten to one and stood in the sun and let him catch up and did not begin by saying anything about what he had said.
 
-"I held the room yesterday for two hours and fifty minutes and I have had no sleep," said Agnete Lindqvist, "and there is one thing I want said here and then I am going to go and sit down somewhere with a wall behind me, and you are not to answer it."
+"I held the room on the second day for two hours and fifty minutes and I have had no sleep," said Agnete Lindqvist, "and there is one thing I want said here and then I am going to go and sit down somewhere with a wall behind me, and you are not to answer it."
 
 "Go on."
 
@@ -126,7 +128,7 @@ She came out into the yard at about ten to one and stood in the sun and let him 
 
 "What did you mean."
 
-"I meant that in eleven weeks there will be nine seals in a room and a claim on the table and no answer on the table at all,"
+"I meant that in nine weeks there will be nine seals in a room and a claim on the table and no answer on the table at all,"
 
 "because a man who says yes to a classification in July and says on the thirtieth that it was never his has spent the only card he had and there is nothing left for him to play except an account that he has admitted he does not own." She turned round and looked at the yard.
 

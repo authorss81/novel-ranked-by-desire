@@ -18,7 +18,7 @@ He got on and sat down on the ridge above the third car with his back to the win
 
 "My one and a different one, worked from the same marks, by somebody who has never seen my notebook and who did not walk the north end at six in the morning because there is nobody alive who could stand at that wall at six in the morning unless they had been doing it for years." She held the notebook flat against the roof with one hand.
 
-"Mine is finished. It has been finished since the seventeenth and I have not shown it to one person, including the man at the north end of the wall who has spent eight days sitting under it."
+"Mine is finished. It has been finished since the seventeenth and I have not shown it to one person, including the man at the north end of the wall who has spent nine days sitting under it."
 
 "Mine."
 
@@ -292,11 +292,15 @@ He thought about it for about as long as it took a car to clear the junction.
 
 Then she said the thing she had come up the hill to say and had not said at any point in an hour and ten minutes.
 
-"I felt the room go quiet before this car reached the crest," said Beatrix Halm. "Twice. Once about twenty past ten and once about half past, and both times it was a room with people in it, four streets from here, and both times there were more people in it than there have ever been in it in my life."
+"I felt a room go quiet four streets from here," said Beatrix Halm. "Twice, and not in order, and both times there were more people in it than there have ever been in it in my life, and I cannot tell you when, and I am not going to stand on a roof and invent an hour for you."
 
-"Who was in it."
+"When."
 
-"Somebody was holding it," she said, "and she has never held it in a room with a hundred people in it in my life, and neither has anybody else, and there are four days of hearing starting at ten in the morning and I have got a place on that room because I have never once been in one and I am going to sit at the back."
+"That is the whole of what I have got," she said. "I know what it is and I do not know when it is. Nine years on that line and there has never been a thing that came into me that I could not put at a minute, and I am not permitted an improvement and I am not going to give you one tonight."
+
+"Who was holding it."
+
+"She has never held it in a room with a hundred people in it in my life," said Beatrix Halm, "and neither has anybody else, and there are four days of hearing starting at ten in the morning and I have got a place on that room because I have never once been in one and I am going to sit at the back."
 
 "There is no list of anybody."
 

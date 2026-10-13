@@ -10,9 +10,9 @@ He had done six and a half hours at the north end of a wall on the seventeenth o
 
 There was a woman at the fruit stall on the south side who had started keeping the place at seven for people who could not stand for an hour, and on the seventeenth there were sixty people waiting at half past six instead of forty, and at nine o'clock there were about two hundred at the wall, and by half past five there were still people coming up the square to find out whether it had finished.
 
-He did not stop for lunch. He had not stopped for lunch on any of the five days and there was nowhere at the north end of that wall to stop for lunch.
+He did not stop for lunch. He had not stopped for lunch on any of the seven days and there was nowhere at the north end of that wall to stop for lunch.
 
-At about eleven a man in the queue had asked him whether it was supposed to hurt, and he had said no, and the man had said, "It is hurting you," and had gone off up the square, and that was the only time in five days that anybody had put it into words and he had not corrected him.
+At about eleven a man in the queue had asked him whether it was supposed to hurt, and he had said no, and the man had said, "It is hurting you," and had gone off up the square, and that was the only time in seven days that anybody had put it into words and he had not corrected him.
 
 ## What Eight Women Did With A Cough
 
@@ -122,7 +122,7 @@ He went up at about half past ten and his chest was not better and it was not wo
 
 There is a difference between a thing a man is doing and a thing a man has, and on the eleventh of July he was doing it, and on the fifteenth at a quarter past twelve in a square with nine hundred people in it he crossed over into having it, and there is no instrument in this city that crosses back, and nobody who has crossed back exists.
 
-It was slower now. That was the arithmetic and there was nothing else in it: he had spent five days at the north end of a wall and he had moved about four thousand people through a chest that had nothing left in it, and a woman with a pencil had told him on the fifteenth in front of four hundred people that the account was exactly as full as it had been on the eleventh, and she was right.
+It was slower now. That was the arithmetic and there was nothing else in it: he had spent seven days at the north end of a wall and he had moved about four thousand people through a chest that had nothing left in it, and a woman with a pencil had told him on the fifteenth in front of four hundred people that the account was exactly as full as it had been on the eleventh, and she was right.
 
 He went back the next morning at seven.
 

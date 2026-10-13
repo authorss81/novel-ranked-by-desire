@@ -52,7 +52,7 @@ A man who had carried his mother up three floors at two in the morning and had t
 
 A woman who had told her that the score she was carrying was wrong by a number she would not say out loud to anybody with a stamp on them.
 
-A boy of nineteen who had told her that he had felt something in the street in March and had been laughed at by four people and had stopped saying anything to anybody about anything.
+A boy off a tram who had told her that he had felt something in the street in March and had been laughed at by four people and had stopped saying anything to anybody about anything.
 
 An officer of a division who had told her, in eleven words in a corridor, that a category of thing in this city has neither a witness nor a stamp and no board in the world has ever had a place for it, and that this is why the office that counts it has no door.
 

@@ -80,19 +80,19 @@ He went to the north end of the ranks wall at about half past five on the aftern
 
 About nine thousand people go under that wall a day in a city where the fourth ward is the second largest anybody has ever measured, and the square was full at about half past five with people coming out of the Reading, and roughly nine hundred of them had been in that building all day and eleven hundred and forty of them had been in it for part of it and none of them knew what the other people had heard.
 
-The word had gone round the north end in nine days. It was on the notice on the wall with four days under it, and it was on a piece of paper behind the door of a counter at Cordwain where a woman had written it out in full in a clerk's hand because people kept asking, and it was on the side of the ranks wall in somebody else's chalk in about sixty strokes with nothing behind them, because a square full of people does that.
+The word had gone round the north end in five days. It was on the notice on the wall with four days under it, and it was on a piece of paper behind the door of a counter at Cordwain where a woman had written it out in full in a clerk's hand because people kept asking, and it was on the side of the ranks wall in somebody else's chalk in about sixty strokes with nothing behind them, because a square full of people does that.
 
-There was a woman selling fruit on the south side who had kept the place at seven in the morning since the eleventh and who was now, on the twenty-eighth, doing it out of a habit that was no longer for anybody, because he had not been at that step since the seventeenth.
+There was a woman selling fruit on the south side who had kept the place at seven in the morning since the eleventh and who was now, on the twenty-eighth, doing it out of a habit that was no longer for anybody, because he had not been at that step since the nineteenth.
 
-He stood at the north end at about ten past six in the evening, at the hour he had not been there for eleven days, with no queue and no chair and about nine thousand people going under a wall above his head, and nothing at all in his hands.
+He stood at the north end at about ten past six in the evening, at the hour he had not been there for nine days, with no queue and no chair and about nine thousand people going under a wall above his head, and nothing at all in his hands.
 
 ## Six In The Morning
 
 Beatrix Halm had been at the north end at ten to six that morning, before the city was anything, and had written one line in her notebook with the time against it and one word in it and nothing under the word, because there was nothing under it yet and she was not going to invent something.
 
-Then she had gone to a building off a third court and sat at the back of a hearing room for two hours and fifty minutes, and at about one o'clock she had felt the thing in that room close, and she had not said it to one person and written it in a book and come out onto a landing and been told by a man with his back against a wall what he had worked out.
+Then she had gone to a building off a third court on the day before and sat at the back of a hearing room for two hours and fifty minutes, and at about one o'clock she had felt the thing in that room close, and she had not said it to one person and written it in a book and come out onto a landing and been told by a man with his back against a wall what he had worked out.
 
-At ten past six in the evening she came past the north end on the way home from a shift and she stopped, and he was standing there, and neither of them said anything about the eleven days.
+At ten past six in the evening she came past the north end on the way home from a shift and she stopped, and he was standing there, and neither of them said anything about the nine days.
 
 "Three hundred and forty wrong answers," said Beatrix Halm.
 
