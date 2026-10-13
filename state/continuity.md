@@ -1,3 +1,17 @@
+## Volume 7, Batch 0003 — CHAPTERS 321–330. THE THIRD TO THE SIXTEENTH OF NOVEMBER. LIVE.
+
+**Thirty chapters are on disk in `chapters/volume-07/`.** Head in `state/current.md`; live gates in `state/open-threads.md`; review in `reviews/volume-07/batch-0003.md`. **Batch 0002's block below is superseded as to position.**
+
+> **READ THIS BEFORE WRITING 331. THE PLATE MOVED AND THE MECHANISM IS CANON.**
+>
+> **1. PLATE 8,184, FLOOR 8,144, FORTY ABOVE, SEVEN IN GREEN.** Words since 30 July gone. Ledger 118, nine turned, ninth himself. File 4,112, one folio. **Nothing spent, no draw, no route, no requisition, no folio, Lin Wei shut until 372.**
+> **2. THREE ATTESTATIONS MOVE THE PLATE; HIS OWN DEEDS NEVER SCORE.** Laundry, gate, yard on 5–14 Nov, pattern 15 Nov, weekly plate, quarterly card untouched.
+> **3. MOVEMENT NEEDS A SEAL; WITHOUT ONE THEFT; NINE SEALS; A YEAR A USE; NO STANDING NO SEAL; HANDED ACCOUNT; BROTHER'S SEAL MATCHES THE ACCOUNT NOT THE MAN.** Refer, never re-explain. Do not open the file, the room, the return, anything after Volume 8.
+> **4. MARGUERITE VALE UNPROTECTED.** Books to nine people at seven on the 16th. Table cleared herself. Vant watching Ferrier Street; Field standing order 27 Oct (blank reason) still held; his lodged undertaking (only she knows) still bars release.
+> **5. DATES CORRECTED:** 328 is the 15th (not 16th), 329 night of the 15th, 330 morning of the 16th, to keep the spine 3–16 Nov with nothing past the 16th. All intervals re-subtracted: 3 Nov 3 since list (30 Oct), 2 since counter (1 Nov); 5 Nov 5 since 30 Oct, 16 since 19 Oct; 7 Nov 10 since 27 Oct, 22 since 15 Oct; 9 Nov 12 since 27 Oct, 20 since 19 Oct, 10 since 29 Oct; 11 Nov 14 since 27 Oct, 17 since 24 Oct, 26 since 15 Oct, 55 since 16 Sep, 22 since 19 Oct; 12 Nov 15 since 27 Oct, 18 since 24 Oct, 27 since 15 Oct, 23 since 19 Oct, 11 since 1 Nov; 14 Nov 17 since 27 Oct, 25 since 19 Oct, 20 since 24 Oct, 16 since 28 Oct, 57 since 17 Sep; 15 Nov 18 since 27 Oct, 12 since 3 Nov, 10 since 5 Nov; 16 Nov 16 since 30 Oct, 27 since 19 Oct, 44 since 2 Oct. Anchors: Wren Kallo took address 2 Oct; Alma Quayle referred 19 Oct; Isolde Marchetti sang 15 Oct; Runa Sato reads list 1 Nov at nine.
+> **6. INES DUARTE TERM WHOLE.** Not at premises, not on list, no paper read in own rooms. Broken by him at 337, not before.
+> **7. DO NOT NAME THE CONCIL AGAIN (307 once). ANOUK NOT UNTIL 344. ALMA NOT VILLAIN, NO AGE. MRS IMRIE NO AGE. CLASSIFICATION NOT COMPLETED THIS VOLUME.**
+
 ## HOW TO READ THIS FILE, WHICH IS 166 KB AND IS NOT ALL LIVE
 
 **This file was NOT archived on Batch 0004's review pass, deliberately, and the reason is on the face of it.**

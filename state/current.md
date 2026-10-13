@@ -1,3 +1,60 @@
+# VOLUME 7, BATCH 0003 — HEAD RECORD. CHAPTERS 321–330. THE THIRD TO THE SIXTEENTH OF NOVEMBER.
+
+## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
+
+**This supersedes Volume 7 Batch 0002's block immediately below it as the position**, and that block is retained below as the record of what was believed before these ten chapters existed. Every figure it carried is still true except the plate, which moved. **Volume 6's blocks are further below and are superseded as to position.**
+
+**Volume 7 is open. It is not closed and this batch did not close it.** It runs to 350 and its remaining scene budget is **340 and 350.**
+
+## 1. WHAT THE BATCH DID
+
+**It did the thing refused since Chapter 48, in public, with witnesses, and found out what it costs.**
+
+**Ch 321 is the kitchen argument on the third.** He has to be scored by deeds other people attest, the reservoir cannot raise rank, the cost is paid by whoever attests, and nobody in that room has ever asked him for anything in public either. He says he will do it anyway.
+
+**Ch 322 is the yard drain on the fifth.** Four witnesses, a clerk's slip, into the day book at nine — and it does not score, because the deed was his. Relief converted into somebody else's attested act is the only thing that ever moved any band he held.
+
+**Ch 323 is the Vestry on the seventh.** Tessa tells him once what rank is for (time, not power), that every band he held came from relief into another's act, and that the cost of legibility is paid by whoever attests. Three attestations move the plate. One does not.
+
+**Ch 324 is the assessment on the ninth.** Four years of being looked through made the account his. To be scored he must stand where people look. Whoever writes his name carries it for four years.
+
+**Ch 325 IS THE MECHANISM, on the eleventh.** A movement of unrecorded merit out of an address requires a seal; without one it is theft; nine seals in Ostara will carry it; one use costs a year of standing; a man with no standing cannot obtain one. The account was handed to him by a seal.
+
+**Ch 326 is the twelfth, on a walk.** The seal that would answer is his brother's, because a seal matches the account and not the man. Sun Meiling reads shapes and is not wrong about this. He donated everything in one movement three years ago.
+
+**Ch 327 is the fourteenth.** He practises the posture (stand beside, let them lift, walk away), and Sun Meiling shows him three words and a date three years past and takes the slip back. He gets the shape of an answer, not the file.
+
+**Ch 328 IS THE BAND, on the fifteenth.** Three slips from laundry, gate and yard become a pattern. The painted board says seven at 8,170 and above. The weekly plate goes to **8,184, forty above the floor, in a green the square never had.** Beatrix reads it at a quarter to six in the dark and writes it in the notebook she has carried for nine years. The quarterly card does not move.
+
+**Ch 329 IS THE SCENE AND IT IS MARGUERITE VALE'S, the night of the fifteenth.** In the best rooms he will ever stand in, with her working book on the table, terms stated, gift used on nobody, no impaired state, no violence. She asks for a position that does not depend on the Vant. He cannot give it. She does it anyway. Scene body 1,107 words, probed.
+
+**Ch 330 is the morning of the sixteenth.** She cleared the table herself before he came and left nothing on it. The books went at seven to a guild table of nine. The Vant no longer protects her and nobody else has started. Still changed.
+
+**THE SCENE IS 329 AND IT IS THE ONLY ONE. 321–328 AND 330 HAVE NO SCENE AND MAY NOT BE GIVEN ONE.** Gaps 318 → 329 = 11, 329 → 340 = 11.
+
+## 2. THE POSITION AT CHAPTER 330 — EVERY FIGURE ON THE PAGE
+
+Plate **8,184**. Band floor **8,144**. Tolerance three. **Forty above**, seven on a wall in green, the words since the thirtieth of July gone. Ledger **118 lines, nine turned, the ninth still himself. Nothing spent.** File **4,112, one folio open, no second. NO CLASSIFICATION COMPLETED. No rank earned or lost except the band.**
+
+**THE COMPOSITION IS EIGHT. THE PRICED LINE STILL SAYS SEVEN.** Description made 27 Oct against the head. List issued 30 Oct at four, read 1 Nov at nine. **He can never be unscored again.**
+
+**NEW CANON, TO BE REFERRED TO AND NEVER RE-EXPLAINED:** movement needs a seal; nine seals; a year a use; no standing no seal; handed account; brother's seal matches the account.
+
+**UNCHANGED:** standing order 27 Oct with blank reason; his lodged undertaking of the 30th (only Runa Sato knows); Wren Kallo's written certificate request and his permanent bar on asking; Mrs Imrie's *because it is cheaper* with time; Alma Quayle's undelivered sentence of the nineteenth; the song out and unsoftened; Ines Duarte not at premises, not on list, term whole until he breaks it at 337; nothing routed, nothing spent, Lin Wei's file shut until 372; classification not completed and may not be this volume.
+
+## 3. WHAT A LATER BATCH WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days, no thirty-first. This batch runs 3–16 Nov. 328 is the 15th, 329 the night of the 15th, 330 the morning of the 16th** — one day early against the card, to keep no chapter past the sixteenth.
+2. **The floor does not move in this batch.** Quarterly card stays 8,144. Weekly plate moves on attested deeds. Seven prints from the painted board in 328 (8,170 and above) or a chapter uses no threshold.
+3. **Three attestations move the plate. One is an entry.** His own deeds never score.
+4. **Seals: nine, a year a use, match the account.** Do not name the Concil again (named once at 307). Do not bring Anouk Ferreira before 344.
+5. **Marguerite Vale is not protected.** Her books went at seven on the sixteenth to nine people. The table she cleared herself is the statement.
+
+## 4. WHAT IS OPEN, AND WHAT BATCH 0004 OWNS
+
+Batch 0004 owns **331–340, the nineteenth to the thirtieth of November: eleven days of not spending, the stranger, the file he asked her to open, and at 337 he breaks the ninth-of-July term himself.** Remaining scenes **340 and 350.**
+
+---
 # VOLUME 7, BATCH 0002 — HEAD RECORD. CHAPTERS 311–320. THE TWENTY-SECOND TO THE THIRTIETH OF OCTOBER.
 
 ## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES

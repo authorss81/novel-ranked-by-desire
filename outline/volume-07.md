@@ -391,15 +391,10 @@ been.** A requisition tabled and refused is not a requisition received.
    think he was doing anything cruel.** The plan also assumed the eight would be named *in a file*. **They are
    named on a list, which is a public instrument, and a file is something you can be shown; a list is something
    you can be handed at a counter without a reason, and that is a different and larger thing.**
-3. **The Thing He Had Never Done — 321–330.** To be heard at all he has to be scored, weekly, in public, by
-   deeds other people attest. **It is the thing he has refused since Chapter 48**, and this movement is him
-   doing it in public and finding out that the plate is the only part of him anybody can see.
-   **THE MECHANISM BEAT, WHICH IS VOLUME 7'S AND NOT THIS BATCH'S TO GIVE AWAY EARLY:** a movement of
-   unrecorded merit out of an address and into an account requires a **Seal** — without one it is theft —
-   **and the only seal in this city that would answer that account is his brother's.** He learns that the
-   account he is defending was not given to him. He does not open Lin Wei's file; the file opens at 372.
-   **He reaches seven.** The band goes up on a wall in a shade the square has not had. **The option closed:**
-   he can never be unscored again.
+3. **The Thing He Had Never Done — 321–330. REWRITTEN AGAINST WHAT WAS WRITTEN, IN THE SAME COMMIT THAT WROTE IT. The page governed and this movement now reads as the page left it.**
+   He does the thing refused since Chapter 48 badly, in public, with witnesses in the room, and finds out the plate is the only part of him anybody can see — and that being wanted on purpose is a very different thing from being wanted.
+   **THE MECHANISM BEAT, AS THE PAGE GAVE IT:** Mr Sowerby states it standing up on the eleventh — a movement of unrecorded merit out of an address and into an account requires a **Seal**, without one it is theft, **nine seals in Ostara will carry it, one use costs the carrier a year of standing, and a man with no standing cannot obtain one** — and Sun Meiling supplies the match on the twelfth: **the only seal that would answer is his brother's, because a seal matches the account and not the man.** He learns the account was handed to him; three years past, in one movement, everything at once. **He does not open Lin Wei's file; the file opens at 372.** On the fourteenth he is shown three words and a date and the slip is taken back: shape of answer, file shut.
+   **HE REACHES SEVEN ON THE FIFTEENTH, NOT THE SIXTEENTH.** Three slips (laundry, gate, yard, 5–14 Nov) become a pattern; the painted board in 328 prints the threshold the chapter uses (seven at 8,170 and above); the weekly plate goes **8,138 → 8,184, forty above the 8,144 floor, in a green the square never had**; Beatrix Halm reads it at a quarter to six in the dark in the notebook of nine years. **The quarterly card does not move.** On the night of the fifteenth Marguerite Vale takes him in her best rooms, states terms, uses the gift on nobody, and asks for a position outside the Vant he cannot give; she files her books to nine people at seven on the morning of the sixteenth anyway, clears her own table for the statement, and goes unprotected. **The option closed:** he can never be unscored again, and the man no division could read is a weekly figure on a public wall.
 4. **Eleven Days Of Not Spending — 331–340.** `bible/power-system.md` fixes this cost and it is the volume's
    price: **a turned woman at the Vestry is dying of something the reservoir would relieve, and every draw
    that relieves her is another point on a line that triangulates back to him.** To save her he has to stop
