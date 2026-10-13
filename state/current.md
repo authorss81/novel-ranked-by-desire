@@ -1,407 +1,95 @@
-# VOLUME 8 CLOSE RECORD — 13 OCTOBER 2026, RE-RUN AND REPAIRED 14 OCTOBER 2026, REVIEW FINDINGS APPLIED 15 OCTOBER 2026. **VOLUME 8 IS CLOSED. THE NEXT PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
+# VOLUME 9 PLANNING HEAD RECORD — 13 OCTOBER 2026. **VOLUME 9 IS NOT WRITTEN. THIS FILE IS THE OPENING POSITION OF THE VOLUME AND THE THREE DECISIONS IT OWES, AND IT IS A PLANNING RECORD, NOT A WRITING ONE.**
 
-> **15 OCTOBER 2026 — THE REVIEW OF THE 14 OCTOBER REPAIR PASS WAS READ AND ITS FINDINGS APPLIED. CHAPTERS 391-400
-> WERE NOT REWRITTEN.** Six findings and two minor ones. **One line of prose changed, 393:51**, because the pass's own
-> age substitution put *for about nine years* four lines above *you have not been listening for nine years* in the same
-> woman's mouth in the same speech; it now reads *since before the Vant*. **Every figure in the book is unchanged** —
-> 393 is still 1,829 words, Volume 8 is still 106,574, Batch 0005 is still 20,326 — because that substitution is
-> four words for four words. Everything else the pass produced was verified, kept, and had its arithmetic corrected.
+> **THE PHASE THAT WROTE THIS WROTE NO PROSE.** It produced `outline/volume-09.md`, `outline/batches/volume-09-batch-0001.md`,
+> this state update, and one file: `workspace/volume-09/batch-0001/PROMPT.md`, a **WRITING** phase for Chapters 401–412.
+> **`chapters/volume-09/` DOES NOT EXIST AND MUST NOT BE CREATED BY ANYTHING BUT A WRITING PHASE.** Volume 8 remains
+> closed at Chapter 400 with its close audit, `reviews/volume-08/volume-close.md`, kept whole and superseded for
+> figures by the repair block at the head of `state/open-threads.md`.
 
-> **WHERE THE NUMBERS COME FROM — ONE ANSWER, NOT TWO.** The live gate block is **the repair-pass block at the head of
-> `state/open-threads.md`**, which was re-run after its last edit and again on 15 October. `reviews/volume-08/volume-close.md`
-> is the close audit and is kept whole, and the batch 0005 head record is kept whole beneath both, but **both are
-> superseded for figures** and neither is a live block. The superseded 13 October paragraph that used to sit under
-> this one is struck through and retained for the record. **Batch 0004's block follows and is likewise superseded.**
+> **WHERE THE NUMBERS COME FROM — ONE ANSWER, NOT TWO.** **The live gate block is the one at the head of
+> `state/open-threads.md`, written by this planning phase on 13 October 2026.** `reviews/volume-08/volume-close.md` is the
+> close audit and is kept whole; **every *distinct* figure in it reproduces exactly and every *directed rows* figure in
+> it is marked NOT VERIFIED and is not carried forward**, per its own R7 and this phase's obligation under it. **Batch
+> 0005's block and the repair-pass block are retained beneath the new one and are marked superseded.**
 
-> **TWO NUMBERS A REPAIR MUST NOT REINTRODUCE. 397 says *eighty-seven days* for the sheet on the twenty-seventh of
-> March, not eighty-eight** — the 13 October gate block certified eighty-eight in so many words and was wrong.
-> **And 393 says no age and no span where the want is spoken**: *since before the Vant*, never *since I was
-> thirty-one*, and never *for about nine years*, which four lines later collides with her *for nine years*.
+> **WHERE THE VOLUME 8 CLOSE RECORD WENT.** **Its §0 was the position at Chapter 400 and that position is reproduced
+> above as the eight inherited lines, unchanged in every figure.** The close audit it pointed at is kept whole at
+> `reviews/volume-08/volume-close.md`, and Batch 0005's own writing record, which was the last thing in this file that
+> stood at Chapter 400, is retained in full below. **Nothing was deleted that is not reproduced or still held
+> elsewhere in the repository.**
 
-> **ONE CONDITION THE WRITER CANNOT FIX AND HAS NOT TOUCHED.** `workspace/volume-08/batch-0005/` carries no `.done`
-> while `workspace/volume-08/volume-close/` does, so a selector that scanned markers would see batch 0005 as
-> unfinished. **`PHASE_SYSTEM.md` line 220: "Only the controller may mark a phase done or blocked," so no `.done`
-> marker was written, moved or deleted here, and none will be.** `state/phase-ledger.json`, which the selector reads
-> first, is likewise absent and likewise controller-owned. The condition is recorded at the head of
-> `state/open-threads.md` for the controller.
+> **TWO INHERITED ITEMS ARE OPEN AND NEITHER IS CLOSED BY THIS RECORD. `PC-28` is CARRIED FORWARD AND NOT FIXED, with its
+> reasons printed in `reviews/volume-08/volume-close.md` item C6, and no chapter of 401–450 may reproduce any figure
+> from that section head.** **The eighteen-chapter explicit-count scene gap between Chapter 380 and Chapter 398 is
+> still in the book. It may not be repaired by moving a scene; Volume 9 may not repeat it; and NO STATE FILE MAY
+> DESCRIBE IT AS CLOSED, DECIDED, CURED, RESOLVED OR DISCHARGED. What Volume 9 owes is only that its own schedule
+> closes — and `outline/volume-09.md` §4 carries that arithmetic on BOTH the mixed count and the explicit count, so
+> the next close audit is not reasoning about an eighteen from a paragraph of prose.**
 
-**~~THE LIVE GATE BLOCK IS NOW THE CLOSE AUDIT'S: `reviews/volume-08/volume-close.md`. Batch 0005's head record is
-immediately below it and is retained in full as the position at Chapter 400. Four rows of that block were false as
-written and were corrected by the audit — the 12-gram row, the 11-gram row, the 8-gram row and the trailing-newline
-claim — and a second run on 14 October 2026 found five more, of which two are corrected here: the word-count rows,
-106,583 and 20,335, which the audit's own four prose repairs invalidated, and the per-file list behind them. Read the
-audit's figures and not the gate block's.~~ **SUPERSEDED. THIS PARAGRAPH CLAIMED THE SAME THING AS THE ONE ABOVE IT
-AND BOTH WERE LIVE. THE AUDIT IS NOT THE LIVE BLOCK. THE REPAIR PASS AT THE HEAD OF `state/open-threads.md` IS, AND
-THE REASON IS THAT IT IS THE ONLY BLOCK WHOSE FIGURES WERE RE-RUN *AFTER* THE PROSE EDITS THAT INVALIDATED THE
-AUDIT'S. THIS PARAGRAPH IS RETAINED ONLY AS THE RECORD OF WHAT THE AUDIT FOUND.**
+## 0. THE OPENING POSITION, ENTERING CHAPTER 401
 
-## 0. THE POSITION AT CHAPTER 400, AND IT IS WHAT VOLUME 9 OPENS ON
+**Volume 9 is Rank Nine, chapters 401–450, and `outline/series.md` fixes it there, puts it in stage five — he chooses
+what he personally sacrifices — and names its pressure rotation *V9 ascent and action*. It also fixes this volume's
+five scenes at 406, 417, 428, 438 and 446.** `outline/ending.md` fixes **rank nine at Chapter 409** and is not touched.
 
-**A MAN WHO IS FIFTEEN UNDER HIS BAND AND OUT OF BAND ON THE FIRST OF APRIL.** The card came down at six on the
-morning of the thirtieth of March and printed a floor of **8,146** and, against premises 34-6-118, the figure
-**8,131**. Fifteen under. Tolerance three, so out of band by twelve. **The two words went up the wall in paint at
-about four the same afternoon, and the wall had said no word about him at all since the thirtieth of December.**
+### THE EIGHT INHERITED LINES, ONE EACH, ALL FROM THE PAGE AT CHAPTER 400
 
-**A REQUISITION THAT CROSSED INTO THE QUARTER WITH THE STANDING OF A ROOM THAT HAS BEEN ONE SHORT SINCE THE TWELFTH
-OF FEBRUARY.** It is in the next quarter and has been since four in the afternoon of the thirtieth of March, with
-everything written on it. **It was never carried, never received and never decided.** What crosses a boundary is
-the standing of the room and not the sheet; the paper stays in the keeping of the room it was laid in. **The
-standing that went was three, because only the Council can restore one and the Council did not sit before the
-first of April.**
+1. **A MAN WHO IS FIFTEEN UNDER HIS BAND AND OUT OF BAND ON THE FIRST OF APRIL.** 8,131 against a floor of **8,146,
+   which is printed on the card that came down at six on the morning of the thirtieth of March and is not inferred.**
+   The two words went up the ranks wall in paint at about four the same afternoon, ninety days after the fourteen
+   points that carried him there came back down. Tolerance three, so out of band by twelve.
+2. **A REQUISITION THAT CROSSED INTO THE QUARTER WITH THE STANDING OF A ROOM THAT HAS BEEN ONE SHORT SINCE THE TWELFTH
+   OF FEBRUARY.** It went across at four o'clock on the thirtieth of March with everything written on it. **It was
+   never carried, never received and never decided.** What crossed was the standing, which is three, because only the
+   Council can restore one and **the Council did not sit before the first of April.**
+3. **A COMPOSITION THAT MUST BE CERTIFIED FOUR TIMES A YEAR BY A WOMAN WHO HAS BEEN DOING IT SINCE NOVEMBER WITHOUT
+   KNOWING SHE WAS APPOINTED.** The fourth block of the carry-forward sheet is printed off the certificate of the
+   composition of the thirtieth of November, **which is in Sun Meiling's hand** — so she certifies the composition of
+   her own household four times a year, in her own division, in her own hand, under her own name, at the head of it,
+   for as long as the account is open. **The account cannot be closed because payment is impossible. He has not told
+   her. She does not know. She cannot be sworn.**
+4. **A FINDING IN A MINUTE IN A COUNTER-FORENSICS DIVISION WITH HIS PREMISES AT THE HEAD OF IT AND HIS NAME IN THE
+   FOURTH PART.** The ground is a description of premises 34-6-118 made over it on the morning of the twenty-seventh of
+   October at about eleven against the head, by a clerk called Imrie, on four words said by him: *because it is
+   cheaper.*
+5. **A FOURTH LINE IN A WEEKLY RETURN CARRYING A GUILD BROKER'S NAME, WHERE THE FOURTH SEAT HAS SAID *VACANT* FOR SIX
+   WEEKS AND ONLY THE COUNCIL CAN FILL IT.** Marguerite Vale wrote her own name in her own hand. **It fills no seat,
+   cannot be struck by anybody including her, and is on no roll anywhere in the city.**
+6. **A WOMAN WHO READ FOUR WORDS BACK TO A MAN AT A COUNTER ON THE SECOND FLOOR OF A BUILDING SHE HAS NEVER BEEN
+   INSIDE IN HER LIFE.** Mrs Imrie, eleven minutes, on the twenty-fourth. **She would not say whose line the words
+   were, because the moment she says it the house becomes an office's way of reaching her.**
+7. **A BROTHER IN A ROOM WITH NO WINDOW ON THE THIRD SUB-LEVEL, WHOSE MEDICAL RETURN WAS ADMINISTERED ON THE THIRTIETH
+   OF MARCH BY A DOCTOR WHO HAS PROMISED TO SAY NOTHING ELSE.**
+8. **AND WATTS LEFT: WREN KALLO'S BAR HAS NEVER BEEN TESTED, DAGMAR OYELOWO HAS NO GIFT AT ALL (`PC-44`) AND HE HAS
+   BROKEN TWO OF HER THREE THINGS, AND HE HAS A FLOOR, A DATE AND A DIRECTION AND NO MEANS OF GETTING THERE. THE TURNED
+   COUNT IS NINE AND THE NINTH IS STILL HIMSELF. NOTHING SPENT IN NINE VOLUMES.**
 
-**A COMPOSITION THAT MUST BE CERTIFIED FOUR TIMES A YEAR BY A WOMAN WHO HAS BEEN DOING IT SINCE NOVEMBER WITHOUT
-KNOWING SHE WAS APPOINTED.** The fourth block of a carry-forward sheet is printed off the certificate of the
-composition of the thirtieth of November, which is in Sun Meiling's hand. **The account of thirty years is carried
-on a quarter's sheet that goes on the first of April and there is no fifth mark, and the account cannot be closed
-because payment is impossible. He has not told her. She does not know. She cannot be sworn.**
+### THE THREE DECISIONS THE VOLUME OWES, SETTLED IN THE OUTLINE BEFORE THE FIRST CARD
 
-**A FINDING IN A MINUTE IN A COUNTER-FORENSICS DIVISION WITH HIS PREMISES AT THE HEAD OF IT AND HIS NAME IN THE
-FOURTH PART.** The ground on the sheet is a description of premises 34-6-118 made over it on the morning of the
-twenty-seventh of October at about eleven against the head, by a clerk called Imrie, on four words said by him.
+1. **WHAT RANK NINE COSTS, AND IT WAS SETTLED BEFORE IT WAS PLANNED.** **The Ninth Seal is not a band. A band is a
+   figure and a figure is read off a card, and the Ninth Seal has no card, no floor and no interval — which is why
+   the top tile on the Board is black and has never held a name in living memory.** To be held at nine a citizen
+   **lodges their whole accumulated standing** into a consignment: one movement, in the citizen's own hand, at a
+   public post, in the ordinary way. **It cannot be partial, cannot be topped up, cannot be drawn against and cannot
+   be given back, and a lodged citizen is held while it stands.** **He cannot climb on merit and cannot climb on the
+   reservoir — not one grain of it is scoreable — so the only way into nine is to give the whole of himself away,
+   and the only thing that can be given is a figure other people have already put under him.** Every one of those
+   names is now a document somebody else can produce. `PC-57` to `PC-60`.
+2. **WHAT HAPPENS TO THE REQUISITION.** It is live, administered weekly from the first of April, and a room of three
+   cannot carry it. **He is the fifth.** On the first of April the Council restores one standing and the room stands
+   at four; **at ten minutes to nine on the morning of the fifteenth of April he lodges, the fifth is entered in the
+   room's book, and for the first time since the twenty-third of December the requisition is capable of being
+   carried — and he did that himself, in a queue, with a pen.** It is answered at 441–445 and it is **not** carried,
+   **not** received and **not** decided against him.
+3. **WHAT HAPPENS TO THE CERTIFICATE.** **She works it out from a gap in a witness line at Chapter 411 and he tells
+   her the rest at the climax.** She certifies the next quarter anyway, in her own hand, because it is her job and
+   there is nobody else. **Knowing is the one thing he cannot give back.**
 
-**A FOURTH LINE IN A WEEKLY RETURN CARRYING A GUILD BROKER'S NAME.** Marguerite Vale wrote her own name in the
-fourth line in her own hand at about nine on the morning of the twenty-third of March. **It fills no seat, cannot
-be struck by anybody including her, is on no roll in the city, and is the only thing she wants: to be findable.**
-The fourth seat of the room has said *vacant* since the twelfth of February and only the Council can fill it.
+### THE STATE OF THE PIPELINE
 
-**A WOMAN WHO READ FOUR WORDS BACK TO A MAN AT A COUNTER ON THE SECOND FLOOR OF A BUILDING SHE HAS NEVER BEEN
-INSIDE IN HER LIFE.** Mrs Imrie, at eleven minutes on the twenty-fourth, and she would not say whose line the
-words were, because the moment she says it the house becomes an office's way of reaching her.
-
-**A BROTHER IN A ROOM WITH NO WINDOW ON THE THIRD SUB-LEVEL, WHOSE MEDICAL RETURN WAS ADMINISTERED ON THE THIRTIETH
-OF MARCH BY A DOCTOR WHO HAS PROMISED TO SAY NOTHING ELSE.**
-
-**AND FOUR THINGS THAT ARE STILL SHUT AND MUST STAY SHUT.** Wren Kallo's bar has never been tested: she has not
-told him whom and he may not ask, and the standing answer is that she does not know what he is talking about.
-Dagmar Oyelowo has three things and he has broken two of them and kept the first, and there are two people alive
-who know what is in that book and one of them has no gift at all, and he has a floor, a date and a direction and
-no means of getting there. **`outline/ending.md` is untouched; the reservoir is returned in full at 486 and the
-great offer is 486's, and Volume 8 revived neither Wren Kallo's nor Anouk Ferreira's. There is no new final enemy.**
-
-**`PC-28` IS CARRIED FORWARD AND NOT FIXED, WITH ITS REASONS PRINTED IN THE CLOSE AUDIT.**
-
-**VOLUME 9'S SENTENCE ENDS *OR THE ACCOUNT STAYS OPEN*, AND THE ACCOUNT STAYS OPEN.**
-
-**THE BLOCK IMMEDIATELY BELOW IS BATCH 0005'S WRITING RECORD AND IS SUPERSEDED BY THE CLOSE RECORD ABOVE. Read the close record before any Volume 9 chapter is written.** Batch 0004's block is immediately
-below it and is retained in full as the position at Chapter 390; 0003's and 0002's follow. **Live gates are at the
-top of `state/open-threads.md`, and the live gate block is that file's head block — Batch 0005's record as amended by
-the 14 and 15 October passes, and not the 13 October block further down this file.** The volume outline is `outline/volume-08.md`
-and its §6 movements 1 to 5 are all now written fact, its §8 is written fact, and its §10 is re-run against 400 title
-lines.**
-
-## 0a. WHAT THIS BATCH DID, AND ITS TWO IRREVERSIBLE DECISIONS
-
-| Created | What it is |
-| --- | --- |
-| `chapters/volume-08/chapter-0391.md` … `chapter-0400.md` | ten finished chapters, the twenty-first to the thirtieth of March, one day a chapter. **20,326 words counted per file and summed — corrected 15 October 2026, this read 20,324, and before the close audit 20,335. Volume 8 is 106,574 — corrected, this read 106,572, and before the close audit 106,583.** The first eleven-word difference is the close audit's four prose repairs and the last two-word difference is the repair pass's twelve edits, which are word-for-word and numeral-for-numeral exchanges and therefore **net +2**. Re-run after every edit |
-| `outline/volume-08.md` | **§6 movement 5 rewritten against the page**, with **twelve named places the plan was wrong**, **both open questions the section left for the last batch settled**, §6's header corrected, §4's fifth column given the register the batch actually carried, §4's day-spine row for 391–400 rewritten, **§8 rewritten against the page as written fact**, the file's own two-register note corrected, and §10 re-run |
-| `state/open-threads.md` | **new live gate block**, and canon items **PC-47 to PC-56** recorded in the same commit; Batch 0004's block marked superseded |
-| `state/current.md` | this block |
-| `state/continuity.md` | the live block replaced |
-| `state/chapter-summaries.md` | 391–400 entered |
-| `workspace/volume-08/volume-close/PROMPT.md` | **it WAS the one live phase in the repository when this batch was banked. IT IS NOT LIVE NOW — IT RAN, AND IT IS COMMITTED AS `reviews/volume-08/volume-close.md`.** It reported the volume close, wrote that audit, and set up Volume 9's planning. **It wrote no prose. THE ONE LIVE PHASE IS `workspace/volume-09/volume-plan/PROMPT.md`.** |
-
-**THIS TABLE IS THE BATCH'S OWN RECORD OF WHAT IT CREATED ON 13 OCTOBER 2026 AND IT IS HISTORICAL. IT IS NOT A LIST
-OF WHAT IS LIVE.** The row that has been misread as a live-phase claim is marked as such above. **A phase reading
-this file for what to do next reads line 1, not this table and not §3.**
-
-**THE BATCH'S FIRST IRREVERSIBLE DECISION IS 392.** On the afternoon of the twenty-second of March he went to the
-room where nine people sit and demanded production of the foot of the four sheets of plain paper he laid there on
-the twenty-ninth of December, and a clerk read his eight words out loud in the corridor outside, twice, with the door
-open, and they went into a minute.
-
-**The chair refused to have them carried in as adopted.** They went out as **produced at the demand of the subject**,
-and on the thirtieth they go to four divisions with everything else on that sheet.
-
-**WHAT IT CLOSES:** the only undertaking in this book written for himself and read by nobody is now a document, and
-he put it there himself, on the seventh day of the last ten.
-
-**THE SECOND IS 396.** Dagmar Oyelowo's third thing was that he would not come back up the walled road about his
-brother. He had already broken her second. On the evening of the twenty-sixth he went up the road again, and he came
-about **her** and not about his brother, and asked her the question she has wanted for about eleven years, and she
-told him that two people alive know what is in that book and one of them has no gift at all and would not be here
-for ever, and she said his name for the first time.
-
-**WHAT IT CLOSES:** the last of the three, and with it every road up that hill that does not begin with a woman
-saying yes.
-
-## 0b. WHAT THE PAGE SETTLED THAT THE PLAN HAD WRONG, IN TWELVE NAMED PLACES
-
-**THE FULL TWELVE ARE IN `outline/volume-08.md` §6 movement 5, REWRITTEN IN THE COMMIT THAT WROTE THEM. The four that
-a later phase will otherwise re-derive wrongly are these.**
-
-1. **WHAT CROSSES A QUARTER BOUNDARY IS NOT THE REQUISITION, AND IT WAS NEVER IN DIFFICULTY.** The paper stays in the
-   room it was laid in with a reference on the spine. A clerk with a book moves a sheet, not a chair. **What crosses
-   is the standing of the room, which is three, and it goes across as three.** From the first of April the sheet is
-   administered weekly and the administration runs down the chain to the division that holds the fourth part.
-   **The sheet cannot expire and does not need to be held. It is already in the next quarter.** (`PC-47`)
-2. **THE FALL IS NOT A FALL OFF NOTHING, AND THE PLAN NEVER SAID IT WOULD BE.** `outline/volume-08.md` §5a forbade it
-   and the page gave it a cause, a date, a rule and a name: **eight hands on four sheets attested eight persons on
-   the twenty-ninth of December and again on the fourteenth of January; the composition of that address has been
-   seven since the ninth hour and forty-one minutes on the morning of the thirteenth of March; and a card that
-   prints a figure at a composition cannot print a figure held by eight attestations of eight persons.** The
-   fourteen points that went up on the thirtieth of December come back down on the thirtieth of March and it is the
-   same fourteen. (`PC-49`, `PC-50`)
-3. **THE FIGURE ON THE CARD OF THE THIRTIETH OF MARCH IS PRINTED IN CHAPTER 400 AND IS NOT DERIVED FROM ANYTHING.**
-   **The floor is 8,146. Against premises 34-6-118 it is 8,131 — fifteen under, and the tolerance is three, so he is
-   out of band by twelve — and 8,131 is the figure that stood on that wall on the twenty-ninth of November and for
-   the whole of December, before anybody attested anything.** `outline/volume-08.md` §5a's inference of 8,146 is now
-   a figure on a painted card in the chapter that uses it, exactly as §5a required and as Volume 7 did at 328.
-4. **398 IS NOT A SECOND OF THE THIRTIETH OF DECEMBER WITH A DIFFERENT WOMAN IN IT.** **It is in his rooms — one
-   room, one chair, one plate, one knife and a photograph of two men on a tram step face down on a shelf. The sheet
-   arrives with one of its five terms crossed out and she says which and why before anything else happens and does
-   not read the other four out. Nobody describes anybody and she refuses the description out loud. There is no
-   counted minute and no kettle, because he owns no kettle.**
-
-**AND `PC-28` WAS NOT REPRODUCED AND NOT FIXED.** `chapter-0359.md` heads a section The Nine Days for a three-day
-interval. **No chapter in 391–400 carries those figures, and no chapter in 391–400 mentions either sighting of
-`S.M.` or prints those initials anywhere.** The interval from the twenty-seventh of February to the first of March
-does not appear in the ten.
-
-## 1. CHAPTER BY CHAPTER, AND WHAT EACH ONE ACTUALLY DID
-
-- **391 (21 Mar). THE ARITHMETIC OF A QUARTER, DONE BY RUNA SATO, IN A MUSTER ROOM OFF CORDWAIN. Nine days.** A
-  quarter is ninety days and the thirtieth of March is its last working day. **What crosses is not the sheet and not
-  the account and not the ground: it is the standing, and the standing is three.** A subject may demand production
-  and demand a ground and put nineteen words into a room and be refused, and may not take his own sheet off a room's
-  list. **AND THE CHAPTER NO CARD ASKED FOR: the quarterly card reads a held figure against the composition, and
-  eight attestations of eight persons cannot hold a figure at a composition of seven, so the plate goes back to
-  what the premises held before anybody put a hand to anything — 8,131.** Runa Sato also pays for having said out
-  loud, in front of eight women on the eleventh of March, that she had been holding the fact since the twentieth of
-  February: a favour she was going to keep until the autumn went on the second of March.
-- **392 (22 Mar). THE CLAUSE HE WROTE FOR HIMSELF, READ ALOUD IN A CORRIDOR BY A CLERK. Eight days.** **THE FIRST
-  IRREVERSIBLE ACT.** A quarter does nothing to eight words, and he chose to have them read out. The chair refuses
-  to adopt them. **Beatrix Halm, on the bench outside with the notebook shut and a pencil in her pocket, has been
-  able to hear herself not writing eight words on a page since the fifteenth, and the reason she gives is 389 and
-  not hers.**
-- **393 (23 Mar). THE FOURTH HAND ON THE LINE. Seven days.** **Marguerite Vale writes her own name in the fourth
-  line of a weekly return at about nine in the morning on her own account, and it fills no seat and cannot be
-  struck.** She is on no roll in this city and is not going to be on one, and she has wanted to be findable since
-  before she took the Vant and had never said it. **And he eats at her table: four chairs, nine years, no meal at it
-  since the autumn before last, and the twenty-third of March is the first in eighteen months and she eats at it
-  with him and tells him he will be different on the thirtieth before the tea is out.**
-- **394 (24 Mar). THE MAN WHO WAS IN THE FOURTH SEAT. Six days.** **Bertram Sallow, and the cause of the twelfth of
-  February is a quarterly re-read that reads the whole of a member's entry out loud in a room, including the line
-  underneath the standing, and his line underneath the standing was that he had certified a composition at an
-  address in the ordinary way in his own division because a woman he has known for nine years asked him in a
-  doorway.** A standing is not the chair's to restore, only the Council's, **and the Council did not sit until the
-  first of April**, so the requisition crosses with three. **Alma Quayle reads the entry out in the corridor because
-  a member whose standing reads vacant is not in the room when it is read, and she says one sentence: *I can do that
-  for him, because he is not you.***
-- **395 (25 Mar). THE DIVISION THAT WOULD USE IT. Five days.** The second sub-level, a stone corridor, four doors,
-  and the fourth has a card in a holder with nothing in the holder. **He stands outside it for eleven minutes and
-  does not knock.** Isolde Marchetti comes because of what she said at that table on the third of January, and **the
-  thing she is not allowed to do in a corridor is sing, because a room that hears her agrees to what she sings and
-  there is a man in this corridor who writes down what rooms agree to.** **At half past four a bundle of two
-  inches of paper goes UP the stair, on the ordinary stream, to a division with no floor in this building.** The
-  route is seen. The name is still not given.
-- **396 (26 Mar). THE WOMAN WHO SPOKE AND WAS BELIEVED. Four days.** **THE SECOND IRREVERSIBLE ACT.** Mrs Imrie
-  comes to Ferrier Street because an office cannot reach a woman on a list and can only reach the building she is
-  in, so the notice was served at the premises. Eleven minutes at a counter on the twenty-fourth: the entry read
-  back, a question under it, and her own answer, *because it is cheaper*, in her own mouth. **It cost her eleven
-  minutes and it cost Wren Kallo the sentence she has been carrying since the third of January.** He is not
-  permitted to put one question to Mrs Imrie. **And then he goes back up the walled road, breaks her third thing,
-  asks her the question she has wanted for eleven years, and is told there are two people alive who know what is in
-  that book and one of them has no gift at all.**
-- **397 (27 Mar). THE REASON SHE TOLD IT AT LAST. Three days.** **Eighty-seven days**, counted by subtraction, and
-  she decided on the night of the thirtieth of December in the hour between a card on a wall and a walk down
-  sixty-one steps. **She is not telling him about the address and he is not asking, and the two facts sit in the
-  room together for the ninth time, and the chapter does not make the second one a surprise.** The reason she speaks
-  now is Mrs Imrie, and she says so, and she is the one who says it. She tells him to be in his own rooms at eight
-  on the twenty-eighth and says the arrangement out loud: **it is not a reward and it is not a price and it is not
-  for you.**
-- **398 (28 Mar). THE SCENE. WREN KALLO. THE VOLUME'S LAST SCENE. Two days.** **In his rooms, not hers.**
-  The template is broken on three axes and the chapter says all three: the sheet arrives with one of five terms
-  crossed out (*nothing is spent, not on me, not on anyone, not tonight*, because there has been a third person in
-  that sentence since the first of January and she is not going to write a sheet in a business where she has spent
-  a woman) and the other four are not read out; nobody describes anybody and she refuses it out loud; there is no
-  counted minute and no kettle. She is on the side and the last of the evening is hers. **The hinge is the hinge the
-  card asked for: she told them, it cost Mrs Imrie, she says so, and she is not asking him for anything between eight
-  and eleven.** What changes: **at about eleven on the morning of the twenty-eighth she entered a finding in a minute
-  in her own division, four lines, in her own hand, with her initials on the transmission above it, and there are
-  now two minutes in this book with his name in them that neither of them wrote.** The photograph on the shelf is
-  the last beat of the evening and it is hers and it is not about his brother.
-- **399 (29 Mar). THE MINUTE THAT CARRIES HER INITIALS. One day.** The volume's last working day before the card, and
-  the sheet that goes out of the room at four. **A quarterly return with nine ruled lines and a tenth with a box, and
-  the fourth line does not say *vacant* — it says *Marguerite Vale*, in a hand that is not a clerk's hand, with the
-  clerk's four words *present. No standing given* under it. Under the nine the clerk writes *the room stands at
-  three*.** **And the transmission above the sheet carries her initials, because an officer who produces a part
-  initials the transmission above it.** The clerk refuses to read the same line twice in the same minute and says
-  why out loud. **And the three lines that are worse than the rest are about him and none of them is true.**
-- **400 (30 March, at six). THE TWO WORDS RETURN.** The card comes down at six in a different hand on different
-  paper from a boy with a paste brush and prints two figures. **Floor 8,146. Against premises 34-6-118: 8,131.**
-  **Fifteen under. The tolerance is three. He is out of band by twelve, and the fourteen points are the same
-  fourteen.** He says it in the right order and the right order is that nothing was spent, no grain, no folio, no
-  routing, no production, no paper corrected, no fifth mark; the figure is on a card and the card is correct and
-  nobody is going to be able to tell him whose fault it is, **and that is the entire point of it.** About nine that
-  morning a woman off a third court is handed a printed sheet with a box on it at her own post, in her own division,
-  in her own hand, under her own name, at the head of it, fills it in, and carries on with the morning. At four in
-  the afternoon the plate goes up in the green this square has been using since the fifteenth of November and **the
-  two words are OUT OF BAND**, and he says it out loud in daylight at the volume Beatrix Halm uses in the dark.
-
-## 2. THE POSITION AT CHAPTER 400 — EVERY FIGURE ON THE PAGE
-
-Plate **8,131**. Band floor **8,146**, printed on a card at six in the morning of the thirtieth of March by a boy
-with a paste brush. **Fifteen under, out of band by twelve, and the two words were on the wall in paint at about
-four in the afternoon on the same day.** **Ninety days of nothing on the wall, which is the thirteenth week.**
-
-Ledger **131 lines on the first of February, 138 on the first of March, 142 on the fourteenth. Nine turned, the
-ninth still himself. NOTHING SPENT, nothing drawn, nothing routed, no folio, no settle clock, no settle date.** **No
-system panel appears in 391–400 and none is owed: no chapter in the ten turns on the ledger.**
-
-File **4,112, one folio, no second. No classification completed.**
-
-**THE COMPOSITION OF PREMISES 34-6-118 IS SEVEN, FROM THE THIRTEENTH OF MARCH, AT NINE FORTY-ONE.** The priced line
-of the sixteenth of September says seven, dated, initialled and not signed, and the initial is his. **Both true;
-neither corrects the other. And the composition is what the card reads the figure at, which is why 8,131.**
-
-**THE ACCOUNT OF THIRTY YEARS WAS CALLED FOUR TIMES** — the first of December, the first of January, the first of
-February, the first of March. **THERE IS NO FIFTH MARK: A CARRY-FORWARD SHEET WAS DRAFTED ON THE FOURTEENTH OF MARCH
-AND GOES ON THE FIRST OF APRIL AND IS ADMINISTERED FROM THAT FIRST.** Its fourth block is printed off the certificate
-of the composition of the thirtieth of November, **which is in Sun Meiling's hand, and a composition is certified for
-the quarter it is certified in, so she must certify the composition of her own household four times a year, in her
-own division, in her own hand, under her own name, at the head of it, for as long as the account is open. THE
-ACCOUNT CANNOT BE CLOSED BECAUSE PAYMENT IS IMPOSSIBLE. HE HAS NOT TOLD HER. SHE DOES NOT KNOW. SHE CANNOT BE SWORN.**
-**ON THE MORNING OF THE THIRTIETH, AT ABOUT NINE, SHE WAS HANDED THE SHEET AT HER OWN POST AND FILLED IN THE BOX IN
-ABOUT FOUR MINUTES AND CARRIED ON WITH THE MORNING, AND SHE WAS THE ONLY PERSON IN THAT BUILDING NOBODY WAS WAITING
-ON.**
-
-**A HELD ACCOUNT'S MEDICAL RETURN GOES TO THE VESTRY CLINIC EVERY QUARTER. TEN LINES OF *held. Declines maintained*,
-AND A TENTH LINE DATED THE THIRTIETH OF DECEMBER IN A DIFFERENT HAND. THE LAST ADMINISTRATION WAS THE THIRTIETH OF
-MARCH AND IT WENT TO A DISPENSARY ON THE VESTRY ARCADE. Tessa Okonkwo will see it and she has promised him nothing
-beyond that and he has not asked her for anything else.**
-
-**THE REQUISITION IS LIVE AND IS NOT CARRIED, NOT DECIDED AND NOT RECEIVED.** It was read for the first time since
-the twentieth of February on the seventeenth of March and ran out at the ninth minute. **On the thirtieth of March at
-four in the afternoon it went into the quarter commencing the first of April with everything written on it, and the
-STANDING THAT WENT WITH IT WAS THREE.**
-
-**THE ROOM WHERE NINE PEOPLE SAYS THREE.** One, two and three can seal. **Four has said *vacant* since the twelfth of
-February** because a member of that room is not the officer who certifies a composition at any address, and **only the
-Council restores a standing and the Council did not sit until the first of April.** Five is recused on her own
-signature **and only the subject can lift it, and he has not**. Six withdrew her own seal on the twenty-third of
-December. Seven has not been in that room since the twenty-third of December. **Five of nine would carry it and three
-will not improve.**
-
-**THE EIGHT, AND WHAT EACH ONE NOW CARRIES:** **Sun Meiling is line one on the fifth sheet, cannot be sworn, is not on
-a roll, has certified the composition of her own household four times a year since the thirtieth of November without
-knowing she was appointed, filled in a box on the morning of the thirtieth of March in about four minutes, and carries
-Sowe's four lines up sixty-one steps in a building where the man who wrote them is two floors above her and has not
-decided what to do about it** · **Runa Sato priced the queue, has publicly said she has been holding the fact that
-the ground was Wren Kallo's since the twentieth of February, and lost a favour she was going to keep until the autumn
-on the second of March because of saying it** · **Wren Kallo has said out loud for the first time that she is the one
-who spent the woman, and has not said whom she told, and he has not asked and is not permitted to; she has entered a
-finding in a minute in her own division and there are now two minutes with his name in them that neither of them
-wrote** · **Beatrix Halm has six empty lines and one filled with *thirteenth, counter, nine forty-one*, and has
-declined to write eight words down on the fifteenth of March and again on the twenty-second** · **Nadia Ferrous gave
-up an address at nine forty-one on the thirteenth, is the eighth name under a document with his name at the top of
-it, cannot be got off it, and on the morning of the thirtieth of March the plate at her address went back down
-fourteen points because of what she did** · **Isolde Marchetti ruled that he would not be in the room, has said
-that in four years somebody will say the wrong thing badly and it will be about him, cannot sing in a corridor, and
-has been carrying a song since the third of January that she has not used** · **Agnete Lindqvist drew the line
-between a thing and an instrument and has been indoors the whole of two movements** · **Petra Ilyin said *good*** ·
-**Marguerite Vale is not one of the eight and is unprotected, has given him the only paper in this business with her
-name at the foot of it, gets nothing for it, has now written her own name into the fourth line of a weekly return in
-a room at the end of a corridor where it fills no seat and cannot be struck, and ate at her own table for the first
-time in eighteen months** · **Ines Duarte is not at the table, is not on the list, and no paper is read in her
-rooms.**
-
-**THE MAN ON THE THIRD FLOOR:** **Perrin Sowe, Veil-Research, third floor, nine years in that building, came down the
-second-floor corridor ONCE, on the fourth of February, for a box. HIS FOUR LINES ARE READ AT 374 AND HE ASKED IN
-WRITING THREE YEARS AGO TO BE LEFT OFF THE DISTRIBUTION OF ANYTHING FURTHER UPON FILE ONE, WHICH IS WHY THERE IS NO
-PRODUCTION OFF THAT DOOR AND WHY HE ANSWERS IN A CORRIDOR AND WRITES NOTHING DOWN.** He is rung seven of the ladder
-and there is **no new final enemy**.
-
-**DAGMAR OYELOWO, THE NINTH TERRACE INTAKE DESK.** Twenty years, never scored once, no tile on the Board, **no gift
-at all and no later chapter may manufacture one and no later chapter may move her.** **Lin Wei is on the eleventh page
-of a ledger of persons taken up to a room and not brought down — a date, a name, a floor and a direction, forty-one
-lines in twenty years, every one of them up — and the book does not come off the desk.** He has a floor, a date and a
-direction and no means of getting there. **SHE PUT THREE THINGS IN FRONT OF HIM AND HE GAVE BACK NO WORD TO ANY OF
-THEM. HE HAS NOW BROKEN THE SECOND AND THE THIRD: THE SECOND ON THE NINETEENTH, SIGNED WITH HIS OWN NAME, AND THE
-THIRD ON THE TWENTY-SIXTH, BY GOING BACK UP THE ROAD. THE FIRST IS THE ONLY ONE OF HER THREE STILL STANDING. AND
-THERE ARE TWO PEOPLE ALIVE WHO KNOW WHAT IS IN THAT BOOK AND ONE OF THEM HAS NO GIFT AT ALL AND WOULD NOT BE HERE FOR
-EVER.**
-
-**AND THERE IS NOW A PIECE OF PAPER IN THIS CITY WITH HIS OWN NAME AT THE FOOT OF IT AND HIS BROTHER'S FLOOR ON THE
-OTHER SIDE**, on the back of a delivery docket in pencil, on a table under a cloth in a kitchen on Ferrier Street, in a
-house with eight women in it. **AND HIS OWN HANDWRITING HAS NOW BEEN READ ALOUD IN A CORRIDOR AND ENTERED IN A
-MINUTE AS PRODUCED AT THE DEMAND OF THE SUBJECT.**
-
-**THE LIST OF THE THIRTIETH OF OCTOBER IS A LIST OF PERSONS KEEPING AN ADDRESS AND NOT OF ADDRESSES (`PC-46`).** It
-was made and dated and issued at four and cannot be corrected, withdrawn or unissued. Nadia Ferrous came off the list
-being made on the thirteenth; she did not and could not come off the October one, which still carries eight names in
-six divisions and will in four years. **It is still in the keeping of six desks and the return that went out on the
-twentieth of March carried a broker's name in its fourth line to four of them.**
-
-## 3. WHAT THE VOLUME CLOSE OWNED, AND WHAT IT WAS FORBIDDEN TO REACH — **A CLOSED PHASE'S CONSTRAINTS, KEPT FOR THE RECORD**
-
-**READ THIS BEFORE §3'S LIST. THIS SECTION DESCRIBES A PHASE THAT HAS ALREADY RUN AND BEEN COMMITTED. IT IS NOT
-THE LIVE CONSTRAINT SET AND NOTHING IN IT BINDS VOLUME 9.** The close phase was
-`workspace/volume-08/volume-close/PROMPT.md`; it ran on 13 October 2026 and its output is
-`reviews/volume-08/volume-close.md`. **The one live phase is `workspace/volume-09/volume-plan/PROMPT.md`, and its
-constraint set is that file.** This section is kept because a close phase's prohibitions explain why the audit
-stopped where it stopped, and because `AGENTS.md` requires a later phase to be able to tell which of its
-inherited rules are live.
-
-**It wrote no prose of any kind — not one chapter, not one scene, and not a line of Volume 9 — and it may not be
-read as having wanted to.**
-
-**While it ran, it was forbidden to:** contradict any figure in §2 above · print `S.M.` against the reply or the two
-sightings in one month · put the two composition figures back into disagreement · carry, receive or decide the
-requisition · spend a grain, draw, route or open a folio · print a settle date · name a day of the week · announce
-an age · resolve whom Wren Kallo told · lift Alma Quayle's recusal · give Dagmar Oyelowo a gift or move her or put
-her room to work · reproduce any figure from 359's section head (`PC-28`) · introduce a new final enemy · revive
-either offer Anouk Ferreira made or did not make · **or treat the scene schedule's eighteen-chapter gap as a defect
-to be repaired by moving a scene, which the batch did not do and §4 explains at length.**
-
-**AND THE ONE PROHIBITION IN THAT LIST WHICH VOLUME 9 MUST NOT INHERIT, WHICH IS THE REASON THIS SECTION IS
-MARKED: *CARRY, RECEIVE OR DECIDE THE REQUISITION*.** It was a prohibition on the CLOSE PHASE and it was correct
-there, because a close phase that moved the requisition would have changed the position it was auditing. **IT IS
-NOT A PROHIBITION ON VOLUME 9.** `outline/series.md` and the Volume 9 planning prompt put *Lin Hao must reach rank
-nine, or Lin Wei's file stays shut and the account stays open* as this volume's sentence, **and a volume that must
-reach rank nine and may not carry, receive or decide the requisition is a volume forbidden its own ascent.**
-**The requisition crossed into the second quarter at four on the afternoon of the thirtieth of March with everything
-written on it and with the standing of the room, which was three, because the Council did not sit before the first
-of April. IT IS LIVE. IT HAS NOT BEEN CARRIED, RECEIVED OR DECIDED. Volume 9's outline must decide what happens to
-it, and nothing in this file may be read to forbid that.** The other thirteen prohibitions above are standing
-canon and do bind Volume 9; **this is the only one that does not, and the reason is not that it was lifted — it is
-that a close phase's own prohibitions expire with the close phase.**
-
-**AND THE THINGS THAT ARE TRUE WHATEVER ANY PHASE FINDS:** the reservoir is returned in full at 486 and he ends at
-rank one. **The great offer is Chapter 486's and is not Wren Kallo's and not Anouk Ferreira's.** Anouk Ferreira made
-the smaller offer at 345, was refused with an instrument, will not make it again, and did not make the other one, and
-this batch did not revive either. **The series is planned past 500 and Volume 8 is not the last of it. There is no new
-final enemy.**
-
-## 4. WHAT A LATER VOLUME WILL OTHERWISE RE-DERIVE WRONGLY
-
-1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of the
-   quarter. Volume 8 runs the first of January to the thirtieth of March, ninety days.** Subtract day numbers and name
-   the month boundaries you cross. **THE INTERVAL FROM THE TWENTY-SEVENTH OF FEBRUARY TO THE FIRST OF MARCH IS THE ONE
-   THIS PROJECT GETS WRONG AND NOTHING IN 351–400 PRINTS IT.**
-2. **VOLUME 8 NAMES NO DAY OF THE WEEK AT ALL.** All seven, whole-word and substring, zero, across fifty files.
-3. **A COUNT OF DAYS REMAINING IN A QUARTER IS THIRTY MINUS THE DATE OF THE MONTH AND IS EXCLUSIVE.** A count of
-   elapsed days may be written either way. **THE SIXTEENTH OF SEPTEMBER TO THE THIRTEENTH OF MARCH IS ONE HUNDRED AND
-   SEVENTY-SEVEN DAYS.** **THE THIRTIETH OF DECEMBER TO THE TWENTY-SEVENTH OF MARCH IS EIGHTY-SEVEN.**
-4. **A requisition is not one thing.** Tabled ≠ served ≠ sealed ≠ carried ≠ received ≠ administered. **AND WHAT
-   CROSSES A QUARTER BOUNDARY IS THE STANDING OF THE ROOM AND NOT THE SHEET.**
-5. **THE TERM OF THE NINTH OF JULY IS SPENT** and he spent it himself on the twenty-seventh of November.
-6. **Wren Kallo's bar holds, was not tested in 351–390, and is still not tested. She has not told him whom and he has
-   not asked. 397 and 398 owed the reason and the scene and both paid the reason and neither paid the name.**
-7. **Sun Meiling is never sworn, is under a permanent bar, is line one on the fifth sheet, and has been administering
-   the account of thirty years four times a year since the thirtieth of November without knowing it. She has carried
-   an answer up sixty-one steps to give to him and has never been asked anything at all, and on the morning of the
-   thirtieth of March she filled in a box on a printed sheet without being asked anything either.**
-8. **Perrin Sowe asked in writing three years ago to be left off the distribution of anything further upon file One,
-   and that is why there is no production off that door and why he answers in corridors.**
-9. **LIN WEI'S FILE IS OPEN AND STAYS OPEN, AND WHAT IS IN IT BEYOND THE RECEIPT AND THE INDEX IS SHUT.**
-10. **THE ONLY THING THAT COULD QUIETEN THE ACCOUNT WAS A COMPOSITION OF SEVEN, IT WAS DONE AT A COUNTER BY ONE WOMAN
-    ON HER OWN ACCOUNT, AND IT COST HER THE ONLY THING SHE HAD, HIM THE ONLY INSTRUMENT HE HAD, AND ON THE THIRTIETH
-    OF MARCH IT COST HIM THE FLOOR OF HIS BAND.**
-11. **AND IT PUT SOMEBODY ELSE IN CHARGE OF IT, AND ON THE FIRST OF APRIL SHE PUTS HER OWN NAME UNDER IT FOUR TIMES A
-    YEAR.**
-12. **AND A QUARTERLY CARD READS A HELD FIGURE AGAINST A COMPOSITION, WHICH MEANS A PLATE FALLS THE MOMENT A
-    COMPOSITION MOVES UNDER IT AND FALLS BACK TO WHAT THE PREMISES HELD BEFORE ANYBODY ATTESTED ANYTHING.**
+**THE ONE LIVE PHASE IS `workspace/volume-09/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 401–412.** The
+planning phase that wrote this record has run and created no other phase. **The series is planned past 500. Volume 10
+is *Returned* and the ending is Chapter 486. There is no `state/complete.md` and there must not be one.**
 
 ---
 

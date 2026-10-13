@@ -1,6 +1,126 @@
-# VOLUME 8 BATCH 0005 — THE REVIEW OF THE 14 OCTOBER REPAIR PASS, APPLIED 15 OCTOBER 2026. **SIX FINDINGS AND TWO
+# VOLUME 9 PLANNING — 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK.** NO CHAPTER OF VOLUME 9 EXISTS, `chapters/volume-09/` DOES NOT EXIST, AND THE LIVE PHASE IS `workspace/volume-09/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 401–412.
+
+**THE BLOCK BELOW THIS ONE IS THE 15 OCTOBER REVIEW AND THE BLOCK BELOW THAT IS THE 14 OCTOBER REPAIR PASS. BOTH ARE
+SUPERSEDED AND BOTH ARE RETAINED IN FULL. THE GATE BLOCK THEY SUPERSEDED — BATCH 0005'S OWN RECORD OF 13 OCTOBER —
+IS FURTHER DOWN AND IS SUPERSEDED BY ALL THREE.**
+
+**THE FIGURES BELOW ARE THE CLOSE AUDIT'S, NOT BATCH 0005'S.** Every *distinct* figure in `reviews/volume-08/volume-close.md`
+re-derives exactly and all nine cells of its volume-wide table reproduce. **Every *directed rows* figure in that audit
+is marked NOT VERIFIED and is NOT CARRIED INTO THIS BLOCK OR ANY OTHER.**
+
+## THE DIRECTED-ROWS COLUMN — THE INHERITED ITEM THIS PHASE OWED, AND WHAT IT DID WITH IT
+
+**`reviews/volume-08/volume-close.md` §4 and R7 recorded that every directed-rows figure in that audit reproduces
+under neither available reading — not the audit's own batch-table convention, nor an occurrence count — and printed no
+replacement, because substituting an underived figure would repeat the defect.** **THE OWNER WAS THIS PHASE.**
+
+**THE COLUMN IS DROPPED. NO VOLUME 9 GATE ROW CARRIES A DIRECTED-ROWS FIGURE, AND NO FIGURE IS INVENTED IN ITS
+PLACE.** The reasoning is this: a column that cannot be re-derived from a printed definition is not a measurement, it is
+a number someone liked the look of, and Volume 9 has no use for it — every figure the prose audit rests on is a
+*distinct* figure. **A Volume 9 batch that wants one WRITES THE DEFINITION DOWN FIRST — target set, source set,
+tokenisation, and whether a matched n-gram is counted once per chapter or once per occurrence — AND THEN DERIVES IT,
+AND IF IT CANNOT, IT RECORDS THE ROW AS NOT TAKEN RATHER THAN PRINTING A NUMBER.** The scanner is not lost and its
+tokenisation is printed in the retained block below; only the ambiguous column is withdrawn.
+
+## THE SIX ROWS OF BATCH 0005'S OWN GATE BLOCK THAT WERE FALSE, AND WHAT EACH ONE ACTUALLY IS
+
+**THE PLANNING PROMPT THIS PHASE RAN UNDER SAID "FOUR" IN ONE PLACE AND "FIVE" IN ANOTHER. THE ENUMERATION IS SIX AND
+THE SIX ARE BELOW, EACH ONE RE-DERIVABLE BY COMMAND. A count that disagrees with the list under it is the defect this
+repository keeps paying for, so the list is given and the count is derived from it.**
+
+| Row | What it claimed | What it is |
+| --- | --- | --- |
+| **VOL 8 WORDS** | 106,572 and 20,324, with a per-file list "correct on all fifty" | **106,574 and 20,326, per file and summed, re-run by command on 13 October 2026.** The block's own list gives 397 at 1,830, 398 at 3,313, 399 at 1,923 and 400 at 1,916; the true figures are 1,833 / 3,312 / 1,913 / 1,925. Four of the ten were wrong and the block said they had been corrected |
+| **PARAGRAPHS** | "Longest paragraph in the ten is 90, and it is in 391" | **The close audit re-ran it volume-wide and the longest paragraph in Volume 8 is 90 words, in Chapter 369.** Both cannot be true. **Neither is re-derived here and the batch that owns 391–400 settles it if it needs the number** |
+| **AGES** | that `393` reading *since I was thirty-one* and `398` reading *since I was eighteen* and `397` reading *since I was about thirty* were permitted, and that a reviewer wanting them out should change one to *for about nine years* and nothing else would move | **FALSE, AND THE RECOMMENDED SUBSTITUTION WAS ALSO WRONG.** **Zero ages stand in 391–400.** 393:51 reads *since before the Vant*, 397:103 reads *for about nine years*, 398:171 reads *for nine years* — and *for about nine years* collided four lines below itself in 393's own speech, which is why that one was replaced a second time |
+| **12-GRAM** | "AGAINST THIS BATCH IT RETURNS 0 DISTINCT 12-GRAMS… NOTHING SURVIVES", with every cell at zero | **30 before the close audit's repairs and 16 after, with 32 directed (chapter, n-gram) rows and 12 (chapter, source) pairs.** The sixteen are the six standing clusters the close audit names, all inside 391–400 |
+| **8-GRAM** | 446 distinct, 1,167 directed, 642 (chapter, source) pairs, "over a corpus of 400 chapters" | **The distinct figure reproduces under no reading: 1,957 volume-wide, 447 scoped as the 12-gram row, 528 as the union.** **The scope was not printed, which is what made the row unfalsifiable, and the 15 October review wrote the scope into both this row and the 11-gram row. The live scoped figures are 447 distinct and 637 (chapter, source) pairs** |
+| **SCENE** | Chapter 398's scene body at 1,467 words | **1,251 words, on the span `## The Room` to `## Afterwards` with heading lines excluded.** The audit's 1,467 did not reproduce under that span definition |
+
+**AND THE SEVENTH DEFECT IS NOT A FIGURE AND IS STILL TRUE, WHICH IS WHY IT IS LISTED WITH THEM: `chapter-0373.md`
+carries two trailing newlines and the record claimed that every Volume 8 file carries exactly one.** Recorded and not
+repaired, at R1 of the close audit, because a trailing blank line renders identically and a reader is not served by
+touching it.
+
+## THE GATE, AS IT STANDS ON 13 OCTOBER 2026 — RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE
+
+```
+FILES            `ls chapters/*/chapter-*.md | wc -l` -> **400.** Eight volume directories, volume-01 to volume-08.
+                 **`chapters/volume-09/` DOES NOT EXIST. `ls chapters/*/chapter-0401.md` returns nothing.**
+                 **NO CHAPTER 401 EXISTS ANYWHERE IN THIS REPOSITORY, AND THAT IS CORRECT FOR A PLANNING PHASE.**
+VOL 8 WORDS      **106,574, counted per file and summed.** Never from a concatenation.
+BANK 0005        **20,326**, on the same convention.
+TITLES           **400 title lines, 400 distinct, `uniq -d` returns empty.** Re-run 13 October 2026.
+                 **THE FIFTY AT 401-450 WERE COLLISION-CHECKED AGAINST ALL FOUR HUNDRED BEFORE ANY PROSE EXISTED AND
+                 RETURN ZERO COLLISIONS, ZERO INTERNAL DUPLICATES, ZERO OVER NINETY CHARACTERS, ZERO BEGINNING WITH
+                 *What*, ZERO BUILT OUT OF *there is no* / *nobody* / *nothing* / *what*. Longest 35, shortest 18,
+                 word counts 3 to 8.** Full bank in `outline/volume-09.md` §10.
+SYSTEM MESSAGES  **FOUR IN THE WHOLE OF VOLUME 8**, one each in 353, 363, 376 and 384, and every one turned on the
+                 ledger. **VOLUME 9 PLANS TWO, AT 414 AND AT 450, AND BOTH TURN ON THE LEDGER. THAT IS A DECISION
+                 AGAINST THE RULE AND NOT A COUNT.**
+RIGHT TEMPLE     `grep -rio "right temple" chapters/` -> **0**, across all four hundred chapters.
+WEEKNAMES        seven of seven, whole-word and substring: **0**, across all fifty files of Volume 8.
+SETTLE           `grep -rn "settle" chapters/volume-08/` -> **no lines.**
+CANON            **`PC-28` IS CARRIED FORWARD AND NOT FIXED.** `PC-47` TO `PC-56` STAND UNCHANGED. **`PC-57` TO
+                 `PC-68` ARE PROPOSED BY THE VOLUME 9 PLANNING PHASE, RECORDED BEFORE THE CHAPTERS THAT WOULD CARRY
+                 THEM, AND ARE AT THE HEAD OF `state/continuity.md`.**
+ENDING           **`outline/ending.md` IS NOT TOUCHED.** `git log -- outline/ending.md` returns the bootstrap commit
+                 and nothing since. **The reservoir is returned in full at 486, he ends at rank one, and the great
+                 offer is 486's and is not Wren Kallo's and not Anouk Ferreira's. No chapter of Volume 8 contains an
+                 offer and no chapter of Volume 9 may.**
+NEW FINAL ENEMY  **NONE. None introduced in Volume 8 and none introduced here.**
+```
+
+## OPEN ITEMS INHERITED BY VOLUME 9 — RETIRED 13 OCTOBER 2026 AND RESTATED ABOVE. **NOT DELETED.**
+
+**The block three below this one, headed *OPEN ITEMS INHERITED BY VOLUME 9*, added 14 October 2026, is RETIRED. It
+is retained in full at the end of this section. Its three items are restated here from the CLOSE AUDIT'S figures and
+not from that block, and the two that concern a later phase are now owned by a named one.**
+
+**1. THE EIGHTEEN-CHAPTER EXPLICIT-COUNT SCENE GAP. STILL OPEN. STILL IN THE BOOK. OWNER: NO LONGER UNOWNED — IT IS
+OWNED BY `outline/volume-09.md` §4, WHICH CLOSES VOLUME 9'S OWN COUNT ON THE EXPLICIT FIGURES (8, 11, 11, 10, 8)
+BECAUSE `PC-44` PUTS THE ONLY PARTNER WITH NO GIFT OFF THIS VOLUME'S SCHEDULE ENTIRELY.** `AGENTS.md`: *once the first
+partner is established, no more than fifteen chapters without a scene.* **Chapter 380 to Chapter 398 is eighteen on
+the explicit count and that has not changed.** `reviews/volume-08/volume-close.md` §2 C5 gives four reasons the close
+audit did not repair it — the breach is forced by `PC-44`, a close phase may not restructure a volume, every chapter
+of 391–400 carries a woman in it with what she wants, and a reader arriving cold is not harmed — **and then,
+correctly, declines to call the rule satisfied.**
+
+**WHAT IS SETTLED: it may not be repaired by moving a scene, and Volume 9 may not repeat it. WHAT IS NOT SETTLED: the
+rule is still unmet, and this block does not and may not say otherwise.** **NO STATE FILE MAY DESCRIBE THIS BREACH AS
+CLOSED, DECIDED, CURED, RESOLVED OR DISCHARGED**, and the word *decided* in `state/continuity.md`'s three-audits-made
+list is not enough — a decision about whether to repair is not compliance. **The obligation belongs to Volume 9's own
+scene schedule, and `outline/volume-09.md` §4 now carries the arithmetic on both counts, in the shape
+`outline/volume-08.md` §4 uses.**
+
+**2. `PC-28`, THE INTERVAL DEFECT IN CHAPTER 359. CARRIED FORWARD AND NOT FIXED. OWNER: `reviews/volume-08/volume-close.md`
+ITEM C6, and it has had an owner since 13 October 2026.** Recorded in full in the canon table below. It is a miscount
+inside a sealed and audited block — the sixteenth to the nineteenth of January is three days and the copy was served
+on the fifteenth, and the section says nine and eight. **It is not a canon error and it does not propagate, because no
+chapter in 371–400 uses that section's figures. It is still wrong. NO CHAPTER OF 401–450 MAY REPRODUCE ANY FIGURE FROM
+THAT SECTION HEAD.**
+
+**3. THE DIRECTED-ROWS COLUMN. UNVERIFIED IN THE CLOSE AUDIT AND DROPPED BY THIS PHASE. THE OWNER WAS THE VOLUME 9
+PLANNING PHASE AND THE OWNER HAS ACTED.** See the section at the head of this block.
+
+**AND THE FOURTH ITEM, WHICH THE CLOSE PROMPT DID NOT LIST AND WHICH IS HERE SO THAT NOBODY INHERITS IT AS A CLOSED
+THING: `state/current.md`'s Volume 8 close record has been REPLACED by this phase with a Volume 9 planning head record,
+whose §0 reproduces the position at Chapter 400 as eight inherited lines. The close record itself is not lost — its
+audit is `reviews/volume-08/volume-close.md` and Batch 0005's own record of the position at Chapter 400 is retained
+in full in that file.**
+
+---
+
+## ~~OPEN ITEMS INHERITED BY VOLUME 9 — ADDED 14 OCTOBER 2026.~~ **RETIRED 13 OCTOBER 2026 BY THE BLOCK ABOVE AND RETAINED IN FULL. THE THREE ITEMS ARE RESTATED AT THE HEAD OF THIS FILE FROM THE CLOSE AUDIT'S FIGURES. DO NOT WORK FROM THE OWNER COLUMN IN THE BLOCK BELOW.**
+
+# ~~VOLUME 8 BATCH 0005 — THE REVIEW OF THE 14 OCTOBER REPAIR PASS, APPLIED 15 OCTOBER 2026. **SIX FINDINGS AND TWO
 # MINOR ONES. ONE LINE OF PROSE CHANGED. NO CHAPTER REWRITTEN, NO FIGURE MOVED, NO STORY CHANGE, NO NEW CANON ITEM,
-# NO NEW PHASE. THE REPAIR PASS'S OWN BLOCK FOLLOWS IMMEDIATELY AND IS STILL THE LIVE ONE.**
+# NO NEW PHASE.** **AND THE CLAIM THAT THE BLOCK BELOW IS STILL THE LIVE ONE IS STRUCK: THE LIVE BLOCK IS THE VOLUME 9
+# PLANNING BLOCK AT THE HEAD OF THIS FILE, AND THIS ONE IS SUPERSEDED BY IT.**
+
+**SUPERSEDED 13 OCTOBER 2026 BY THE VOLUME 9 PLANNING BLOCK AT THE HEAD OF THIS FILE. RETAINED IN FULL. THE FIGURES
+BELOW WERE RE-RUN AFTER EVERY PROSE EDIT THAT INVALIDATED THE CLOSE AUDIT'S AND THEY ARE STILL THE FRESHEST SET OF
+VOLUME 8 NUMBERS IN THE REPOSITORY — BUT THE LIVE BLOCK IS THE ONE ABOVE AND A VOLUME 9 PHASE READS THAT ONE.**
 
 **THE 14 OCTOBER PASS WAS VERIFIED, NOT DISTURBED. ITS TWELVE EDITS WERE RE-DERIVED FROM OUTSIDE THE GATE AND
 EVERY ONE OF THEM HOLDS — the day arithmetic, the three ages, the location it moved without declaring, the
@@ -21,7 +141,10 @@ the review found in the *record*, and in the *one line the record had itself cre
 
 ---
 
-# VOLUME 8 BATCH 0005 REPAIR PASS — 14 OCTOBER 2026, AMENDED 15 OCTOBER 2026. **A RE-RUN FROM OUTSIDE THE GATE FOUND EIGHT
+# ~~VOLUME 8 BATCH 0005 REPAIR PASS — 14 OCTOBER 2026, AMENDED 15 OCTOBER 2026.~~ **SUPERSEDED 13 OCTOBER 2026 BY THE
+# VOLUME 9 PLANNING BLOCK AT THE HEAD OF THIS FILE. RETAINED IN FULL — ITS WORD COUNTS, ITS AGES TABLE, ITS SCOPE
+# STATEMENTS AND ITS TOKENISATION ARE THE FRESHEST VOLUME 8 FIGURES IN THE REPOSITORY AND ARE CITED BY THE LIVE BLOCK
+# INSTEAD OF BEING RE-TYPED FROM BATCH 0005'S OWN RECORD, WHICH IS WRONG IN SIX ROWS.** **A RE-RUN FROM OUTSIDE THE GATE FOUND EIGHT
 # INTERVAL FIGURES THAT WERE WRONG, THREE SELF-REPORTED AGES THAT BROKE A HARD LOCK, AND ONE UNDECLARED LOCATION. ALL TEN
 # CHAPTERS ARE ON DISK AND THE REPAIRS WERE PROSE-LEVEL AND NUMERIC. NO STORY CHANGE, NO NEW CANON ITEM, NO NEW PHASE.**
 
@@ -241,8 +364,10 @@ phase as `done` in the ledger, or set the marker it owns. THE INCORRECT REPAIR I
 # THE CLOSE AUDIT RE-RAN EVERY FIGURE IN THIS BLOCK AND CORRECTED FOUR OF THEM, AND A SECOND RUN ON 14 OCTOBER 2026
 # CORRECTED FIVE MORE. ~~THE LIVE GATE BLOCK IS THE CLOSE AUDIT'S, IN `reviews/volume-08/volume-close.md`.~~ **AND ON
 # 15 OCTOBER 2026 THAT CLAIM WAS STRUCK, BECAUSE TWO BLOCKS WERE CLAIMING TO BE LIVE AT ONCE — THIS SENTENCE AND THE ONE
-# AT THE HEAD OF `state/current.md`.** **THE LIVE GATE BLOCK IS THE REPAIR PASS'S, AT THE HEAD OF THIS FILE, WHICH IS
-# THE ONLY BLOCK WHOSE FIGURES WERE RE-RUN *AFTER* EVERY PROSE EDIT THAT INVALIDATED THE AUDIT'S. NINE ROWS
+# AT THE HEAD OF `state/current.md`.** **AND ON 13 OCTOBER 2026 THAT CLAIM WAS STRUCK AGAIN, BECAUSE IT NAMED A BLOCK
+# THAT IS ITSELF NOW SUPERSEDED. THE LIVE GATE BLOCK IS THE VOLUME 9 PLANNING BLOCK AT THE HEAD OF THIS FILE.
+# THE REPAIR PASS'S BLOCK, IMMEDIATELY ABOVE THIS ONE, STILL HOLDS THE FRESHEST VOLUME 8 NUMBERS IN THE REPOSITORY AND
+# THE LIVE BLOCK CITES THEM INSTEAD OF RE-TYPING THEM FROM THIS ONE. **SIX** ROWS
 # BELOW ARE NOW FALSE AS WRITTEN AND ARE LISTED THERE: THE 12-GRAM ROW (recorded 0, re-ran at 30, 16 after repair),
 # THE 11-GRAM ROW (recorded 21, re-ran at 50), THE 8-GRAM ROW (recorded 446/1,167/642 on a scope it does not
 # disambiguate), THE TRAILING-NEWLINE CLAIM (all fifty files carry exactly one; chapter-0373.md carries two),
@@ -500,8 +625,9 @@ a PLANNING phase that writes `outline/volume-09.md` and Volume 9's first batch c
 
 ---
 
-## OPEN ITEMS INHERITED BY VOLUME 9 — ADDED 14 OCTOBER 2026. **THIS FILE'S PURPOSE IS OPEN THREADS AND IT HAS
-THREE, NONE OF WHICH IS CLOSED.**
+## ~~OPEN ITEMS INHERITED BY VOLUME 9 — ADDED 14 OCTOBER 2026.~~ **RETIRED 13 OCTOBER 2026. THE THREE ITEMS ARE
+RESTATED, WITH THEIR OWNERS NAMED, IN THE LIVE BLOCK AT THE HEAD OF THIS FILE. RETAINED IN FULL BELOW AND NOT
+WORKED FROM.**
 
 **1. THE EIGHTEEN-CHAPTER SCENE GAP. OPEN. OWNER: THE VOLUME 9 PLANNING PHASE.** `AGENTS.md`: *once the first
 partner is established, no more than fifteen chapters without a scene.* **Chapter 380 to chapter 398 is eighteen on
@@ -3359,7 +3485,9 @@ otherwise**, 262) · and a loss (**a verse with a door number in nine hundred mo
 > was never finished above the middle** · Beatrix's price died on the third and he carried it **sixteen
 > days**, while the fortnight at 259:121 is Ines's report in intake and is a different clock.
 
-> **THIS IS THE LIVE GATE BLOCK. Every number below was produced by command against the files as they
+> ~~**THIS IS THE LIVE GATE BLOCK.**~~ **NO LONGER. STRUCK 13 OCTOBER 2026: THE LIVE GATE BLOCK IS THE VOLUME 9
+> PLANNING BLOCK AT THE HEAD OF THIS FILE, AND THIS ONE IS THE VOLUME 6 BATCH 0001 RECORD, RETAINED FOR ITS
+> CALENDAR AND ITS FIGURES. Every number below was produced by command against the files as they
 > stand after Batch 0001's repair. A gate that returns zero is a claim to be tested, not a result to be
 > reported, so every row says what was run and what was read.** The Volume 5 Batch 0005 block and the
 > Volume 5 close-pass block are retained below it, superseded as to position.
