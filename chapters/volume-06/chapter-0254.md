@@ -14,7 +14,7 @@ She did not sit down.
 
 She took out the two copies and put them square, and then took out a sheet with five lines on it in pencil in his own hand and squared that on top.
 
-The table went from nothing to three things in about eleven seconds. The kitchen was very quiet.
+The table went from one sheet to four in about eleven seconds. The kitchen was very quiet.
 
 "You do not owe me a figure," she said. "You will get one. That is what happened. What you have done is put the pricing of this house into the hands of a woman who keeps four guilds' books and has never met one of you and has wanted what I have spent nineteen years looking for, and who will hand it to the annual sitting with a date on it."
 
@@ -72,7 +72,7 @@ Beatrix had her notebook open and had not written anything in it, which she neve
 
 "That is what I said."
 
-"I heard you. I meant it as the other thing." She turned the notebook round without shutting it. "For five months that table has been where this house could look at itself.
+"I heard you. I meant it as the other thing." She turned the notebook round without shutting it. "Since March that table has been where this house could look at itself.
 
 "You have taken a measure of six women off it in a day and a half. There is a drawer under the bread, a wall with a rectangle on it, and a coat pocket with a pencil row in it. That is the whole inventory of a house that exists on three papers in three offices."
 
@@ -104,11 +104,11 @@ Wren came in after supper with her folder shut and her hands inkless for the sec
 
 "Then it is on her books now and not on yours, and in four years the division that has to answer for this house is the one she sits in," Wren said, "and I count that as the most expensive hour anybody in this building has spent this year, and I include the plate you put in a chained book in June."
 
-He mopped the landing after the household had gone down, working round the nail and the rectangle with the care he always took, and the rectangle was nine by fourteen with its cold middle and nothing had ever been laid over it and nothing had ever been laid on the table either.
+He mopped the landing after the household had gone down, working round the nail and the rectangle with the care he always took, and the rectangle was nine by fourteen with its cold middle and nothing had ever been laid over it, and the table in the room behind him had held this house on it since the twenty-second of March and was holding nothing at all.
 
 At nine he went to the drawer under the bread and put his hand in it to find the charge to look at it again before bed.
 
-Four papers were in there. The receipt on top, signed in his own hand on the twenty-eighth, with a printed line under the signature for an object or a remark and nothing entered on it.
+Four papers were in there that he knew about. The receipt on top, signed in his own hand on the twenty-eighth, with a printed line under the signature for an object or a remark and nothing entered on it.
 
 The certificate under that, dated the twenty-seventh, carrying six. The valuation copy at the bottom, carried out and back the same day and now written in a stranger's figures instead of his broker's. And the charge from audit intake, with a form number and a date and a sum in a hand he did not know.
 

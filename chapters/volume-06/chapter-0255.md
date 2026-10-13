@@ -80,20 +80,20 @@ Wren stopped him on the stair after supper with her folder shut.
 
 "That is not the same as not having asked," Wren said. "You have gone six days now with a piece of paper in your hand and not asked her. You can keep doing that for about a week. After that it stops being a thing you are doing and becomes a thing that has happened."
 
-He went down to the drawer under the bread because he wanted a sheet of clean paper to write Sun's request out on properly, and he had not opened that drawer for a purpose in five months.
+He went down to the drawer under the bread because he wanted a sheet of clean paper to write Sun's request out on properly, and he had not opened that drawer for a purpose since March.
 
 The receipt was on top. The certificate was under it. The valuation copy was at the bottom with a stranger's figures on it now. The charge was on top of the valuation copy with its form number and its sum.
 
-And under the charge, flat against the back of the drawer where it had lain since the first of July, was a single sheet of counting-house paper with a head line on it and no form number at all.
+And under the charge, flat against the back of the drawer, was a fifth, where it had lain since the first of July. It was a single sheet of counting-house paper with a head line on it and no form number at all.
 
-It was the clinic's count. Two hundred and three a morning, nine years of a quarter of eight, hours against a return, and a line at the foot with a blank on it where the name of the person answerable for the hours was supposed to go.
+It was the clinic's count. It had come into the flat on the back of a household return, folded in with the other papers that come in this building every month, and he had put it in the drawer without once looking at what was on it.
 
-He had never opened it. He had known it was in the drawer since the first of July, the way a man knows where a chair is, and it had never once been on the table or in his hands.
+He had never opened it. He had known where it was since the first of July, the way a man knows where a chair is, and it had never once been on the table or in his hands.
 
-He carried it up to the landing and sat on the step with his back against the wall and the sheet on his knees in the light off the stair lamp. The paint on the rectangle was cold where his shoulder was not.
+He carried it up to the landing and sat on the step with his back against the wall and opened it on his knees in the light off the stair lamp. The paint on the rectangle was cold where his shoulder was not.
 
 The line at the foot of it was blank. It had been blank since the first of July, and two hundred and three people had gone through that hatch every morning since, and the name of the woman who ran it had not been on anything anywhere.
 
-He turned it over. On the back, in a small level hand, was a day book entry for the sixteenth of last month that said the clinic worked out at nine years and a quarter of eight and had never once been in a return, and that the head of the household answered in his own name for every member of it, and had therefore better put his name on the line while there was still a clerk who would take it.
+He turned it over. On the back, in a small level hand, was a day book entry for the ninth of this month that said the clinic worked out at nine years and a quarter of eight and had never once been in a return, and that the head of the household answered in his own name for every member of it, and had therefore better put his name on the line while there was still a clerk who would take it.
 
-He took the sheet back down to the kitchen and put it on the bare table with the pencil row beside it, and Sun came in from the market and saw it there and did not touch it, and neither did he, and the drawer under the bread was open on the tablecloth with four papers in it and one of them had a blank line on it that he had been walking past for a month.
+He took the sheet back down to the kitchen and put it on the bare table with the pencil row beside it, and Sun came in from the market and saw it there and did not touch it, and neither did he, and the drawer under the bread was open on the tablecloth with four papers left in it, and a fifth was lying on the wood with a blank line at the foot of it that he had been walking past for a fortnight.

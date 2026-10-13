@@ -28,6 +28,27 @@ about twice and has twice refused to use.**
 
 ## 2. THE POSITION AT CHAPTER 260 — EVERY FIGURE ON THE PAGE
 
+> **BATCH 0001 WAS INDEPENDENTLY REVIEWED AFTER IT CLOSED, AND FIVE OF ITS DATES AND COUNTS WERE
+> REPAIRED. INHERIT THE CORRECTED VERSIONS. The full record is `reviews/volume-06/batch-0001.md` §6.**
+>
+> 1. **The kitchen table is bare from the fourteenth and ONLY from the fourteenth.** It held this house on
+>    it from the **twenty-second of March** and the broker's account from the **nineteenth of June**. Do not
+>    date the bareness to any other day and do not describe it as months deep.
+> 2. **The clinic count began on the first of July and Tessa's note on the back of it is dated the ninth
+>    of July.** Not the sixteenth of last month — a note cannot predate the sheet it is written on. Nine
+>    July to the sixteenth is **a week**, and first of July to the fifteenth is **a fortnight**.
+> 3. **A room holds eight women — four on the cut roll and four on nothing at all** (Beatrix, Runa,
+>    Marguerite, Nadia on the roll; Sun, Petra, Wren, Agnete on nothing; Tessa is at her counter). **Seven
+>    is the size of the roll, not of a room**, and the roll carries Ines, who is out of the flat. Say which
+>    one you mean every time.
+> 4. **The ranks wall is never finished above the middle** on a Thursday. The figures go up at ten and the
+>    crew has not got there.
+> 5. **Beatrix's price died on the third and he carried it sixteen days**, not a fortnight.
+>
+> **The failure mode is one class: a figure correctly derived on one date and carried to another. All seven
+> defects Batch 0001 shipped were that. Derive every count from the chapter's own dateline as you write the
+> sentence, not from the chapter before.**
+
 - **Plate 8,138. Floor 8,141. Tolerance three.** The plate is now **in the answer line of a counted clinic
   return**, dated the sixteenth of July, in his own hand, over nine years of Tessa Okonkwo's hours. **It
   cannot be got off.**

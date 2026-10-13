@@ -1,8 +1,12 @@
 # Volume 6, Batch 0001 — Review and repair record (Chapters 251–260)
 
-**Written by the batch that wrote the chapters. Not a review by a second reader.** The chapters were
-checked by hand after the last edit and every figure in this file is the output of a command run against
-the disk at that moment.
+**§1–§5 were written by the batch that wrote the chapters. That pass was not a review by a second reader.**
+The workflow's review gate did not run — `logs/batch-0001.review.log:1` records the reviewer agent
+falling back to the writer — so nothing below §6 had been checked by anybody who had not already decided
+to write it. **§6 is an independent review that ran afterwards**, read the finished prose on disk and
+repaired it. Every figure in §1–§5 is the output of a command run against the disk at the moment that
+batch's last edit was saved. Every figure in §6 is the output of a command run after the repair. **Where
+the two disagree, §6 is the record.**
 
 ---
 
@@ -62,7 +66,7 @@ another** — and all are fixed on disk.
 | 257:97 | *"You did that nine days ago"* | *"eight days ago"* | The ninth to the seventeenth. |
 | 257:85, 259:121 | *"standing on it for nine days"* | *"since the ninth"* / *"since the ninth"* | same |
 | 255 (×4) | Sun *"proud of it for four months"* / *"a coat for four months"* | *"since March"* / *"since the twenty-second of March"* | 22 March to 15 July is not four months. |
-| 258, 259 | *"six women"*, *"six people"*, *"eight women"*, *"nine women at a kitchen table"* | room-counts re-derived or removed | Ines is absent; the count had drifted twice. |
+| 258, 259 | *"six women"*, *"six people"*, *"eight women"*, *"nine women at a kitchen table"* | **partly swept — the sweep did not finish and this row claimed it had.** Repaired on independent review; see §6 finding 7. | Ines is absent; the count had drifted twice. |
 | 253, 260 | the Thursday pass described as *"two hours behind"* with the figures already up at ten | re-sequenced so the figures and the bare stretch do not contradict each other | `chapter-0246.md:5`. |
 
 ---
@@ -157,3 +161,179 @@ he has been the person a form goes past, and a plate number on a Bureau line is 
 looked at — and it cannot be got off, because a return is a return. **Ch 253 closes a second option:**
 he has carried the household's pricing to the keeper of the real books, and his broker takes her papers
 off the table within a day.
+---
+
+## 6. INDEPENDENT REVIEW AND REPAIR — the pass the workflow did not run
+
+An independent reader took the finished ten chapters, read them against the disk and against the volume's
+own anchors, and returned seven chapter-level defects and four minors. **All seven and all four are fixed
+on disk. The plot is unchanged: no event, no beat, no decision, no figure that a chapter depends on has
+moved.** What moved is dates, counts and two sentences of geography.
+
+**The batch's own sweep was incomplete, and its review file claimed otherwise.** §2 of this file is the
+batch's list of errors it found in its own draft, and the eighth row of that table — the household's
+room-count — says *re-derived or removed* when the text still carried three different counts. A self-written
+review file cannot catch this, which is the whole reason §1–§5 is not a review.
+
+### 6.1 The seven findings
+
+**1. Ch 260 contradicted itself about the ranks wall.** `:3` said *"the wall had been finished twice over"*
+and `:97` said *"two ladders were standing against the ranks wall with nothing on them above the middle."*
+Same afternoon, ninety lines apart. `:97` is the anchor and is untouched; `chapter-0253.md:101` establishes
+the Thursday crew's pace — *"they had not reached the middle of the wall."* `:3` now reads **"the wall had
+been done as far as the middle in a shade that was not the one under it, and there were figures on the
+lower half of it."**
+
+**2. Ch 260 walked past a basement.** `:5` had him *"walk past the Exchange without going in and past the
+counting room without looking up"* — but `chapter-0253.md:7` puts the counting room *"two floors under the
+sales floor."* You cannot walk past it at street level. `:5` now reads **"left the stair that went down to
+the counting room alone."**
+
+**3. The clinic count sheet carried a note older than the sheet.** `255:87/91/95` and `256:5/15` place the
+count from **the first of July**, and that is correct: `chapter-0253.md:59` has Solveig Rask say the
+clinic *"was not counted before the first of this month, so somebody put it there."* The impossibility was
+the other date — `255:97` dated the note on the back to **the sixteenth of last month**, the sixteenth of
+June. A note cannot be on the back of a sheet that begins on the first of July.
+**The count dates were kept and the note moved to the ninth of July.** Everything that depended on the old
+date moved with it:
+
+| Line | Was | Now | Derivation |
+| --- | --- | --- | --- |
+| 255:97 | day book entry for *the sixteenth of last month* | *the ninth of this month* | after the count opened, before the chapter |
+| 255:99 | *walking past for a month* | *for a fortnight* | 1 July → 15 July = 14 days |
+| 256:27 | *I thought about it on the sixteenth of last month* / *waiting a month to be asked* | *on the ninth of this month* / *waiting a week* | 9 July → 16 July = 7 days |
+| 256:29 | *I decided on the sixteenth* | *I decided on the ninth* | same |
+| 256:55 | *she had asked him on the sixteenth of last month* | *on the ninth of this month* | same |
+| 256:95 | *his initials on the first line of every month since the sixteenth of last month* | *his initials on the first line of the month … and the date was the ninth* | only July has a first line inside the batch |
+
+**Volume 5 is not in conflict with any of this and was not touched.** `chapter-0248.md:15` has Tessa say she
+*worked it out* *"on the sixteenth of last month."* That is a different act at a different date, and it is
+the better reading: she worked the arithmetic out in June, the count opened on the first of July with the
+line blank, and on the ninth she wrote on the back of it.
+
+**4. The sheet teleported across the chapter break.** `255:99` left it on the bare kitchen table with Sun
+looking at it and neither of them touching it. `256:5` opened with it folded in Tessa's coat pocket. The
+handover is now on the page in one clause: **"because she had come up the market stair at six that morning
+and taken it off his bare table, where it had lain all night with nobody's hand on it."** This **preserves**
+the beat the two chapters are built on — on the fifteenth neither of them touches it. Provenance was also
+missing, and `255:89` now says the sheet *"had come into the flat on the back of a household return, folded
+in with the other papers that come in this building every month,"* which is how a washroom attendant's count
+ends up in a head's drawer unread. `255:93` now says he **opened** it, so the contents are no longer known
+three lines before they are read.
+
+**5. Ch 259 measured one span two ways.** `:3` said *"for a fortnight"*; `:29` and `:63` said *"for sixteen
+days."* The third of July to the nineteenth is **sixteen days**. `:3` now reads **"for sixteen days."** `:29`
+and `:63` are untouched and are the anchor. `:121`'s *fortnight* is a **different** clock — the fourteen days
+Ines's report sat in intake — and is correct.
+
+**6. "Five months" was wrong three times over, and the table was bare a week before it could be.** `251:69`
+had the kitchen table *"bare, which it had been for five months"*; `251:93` had the household eating
+*"round a bare table"* on the eleventh; `254:75` said *"For five months that table has been where this house
+could look at itself"*; `255:83` said the drawer had not been opened for a purpose *"in five months."* The
+household's papers entered on **the twenty-second of March** and the drawer papers are dated the
+twenty-seventh, the twenty-eighth and the first — **not five months, and not four.**
+
+The number was the smaller half. **The table cannot be bare on the eleventh**, because `254:13` has the
+broker's account sitting on it *"since the nineteenth of June"* and `254:117` has the broker carrying it out
+of the kitchen on the fourteenth, and `254:81` has the table cleared at nine that morning. The bareness of
+the table is this batch's loss beat. **It now happens on the fourteenth and on no earlier day.**
+
+| Line | Now |
+| --- | --- |
+| 251:69 | the broker's account *"lay square in the middle of the kitchen table where it had lain since the nineteenth of June"* |
+| 251:93 | *"a kitchen that ate standing up round a table with a broker's account still squared on one end of it"* |
+| 254:17 | *"The table went from one sheet to four in about eleven seconds"* — it cannot go from nothing while holding the account |
+| 254:75 | *"Since March that table has been where this house could look at itself"* |
+| 254:107 | the closing parallel now reads: nothing has ever been laid over the rectangle, *"and the table in the room behind him had held this house on it since the twenty-second of March and was holding nothing at all"* — the old *"nothing had ever been laid on the table either"* contradicted its own chapter |
+| 255:83 | *"and he had not opened that drawer for a purpose since March"* |
+
+Untouched, and correct because all of them fall after the fourteenth: `255:3` *"The kitchen table had been
+bare for a day"* · `256:77` *"the bare wood was bare"* · `258:7` · `259:119` *"the middle of nothing."*
+
+**7. The household was counted three ways and one of the three was false.** `258:7` read *"Seven women on
+the cut roll and one woman on no list with her door open behind her"* — eight in the room. But the roll of
+seven **includes Ines Duarte, who has been out of the flat since the sixth, and excludes three of the women
+standing in that kitchen**, who are on nothing at all. The room is eight women: **four on the cut roll
+(Beatrix, Runa, Marguerite, Nadia) and four on nothing (Sun's pencil row, Petra, Wren, Agnete).** Tessa is at
+the market and is not in it. `258:7` now reads **"Eight women in it, four of them on the cut roll and four
+of them on nothing of any kind."** `258:101` said *"six women looking at him"* **one line after Petra went to
+bed**; seven remain, and it now reads **"seven women."**
+
+**`258:113` *"a building with eight women in it"*, `259:79` *"eight women hold between them"* and `259:111`
+*"in a room of eight women"* were all correct and were left alone.** Eight is the number.
+
+### 6.2 Two defects found in the same passages, not in the original findings
+
+- **`256:109`** said the hatch *"had been in no return at all until a week ago and was now in three."* It went
+  from no return to three **this morning**, when he signed the line. Now reads **"until this morning."**
+- **`254:111`** counted *"Four papers"* in the drawer, but `255:87` finds a fifth lying flat against the back
+  under the charge. `254:111` now reads **"Four papers were in there that he knew about"** — which is the
+  point of 255, because he had opened that drawer twice by then and had not once seen the fifth. `255:99`
+  now reads *"with four papers left in it, and a fifth was lying on the wood"*, so the arithmetic closes on
+  both sides.
+
+### 6.3 The minors
+
+- **One commit, two names for the same range.** `outline/volume-06.md` §6 movement 2 named 261–270 **The
+  Broker's Terms** — the volume's own title — while `workspace/volume-06/batch-0002/PROMPT.md` called it
+  **The Head May Give Up A Room.** The outline now reads **The Head May Give Up A Room**, which is the name
+  the prompt, the movement's content and the outline's own title bank all already use.
+- **Panel frequency by volume is 10 / 4 / 1 / 1 / 0 / 0.** Defensible under `AGENTS.md` — *rare is better
+  than constant* — but **two consecutive volumes with no panel at all is a choice that should be inherited
+  on purpose rather than by drift.** Recorded here so Batch 0002 inherits the decision consciously. **No
+  panel is due. Do not manufacture one.**
+- **The Ch 250 repair in §1 is now independently confirmed.** The state files locked *"Volume 5's closure is
+  now final"* on the authority of a file the batch wrote about itself. The independent pass re-derived
+  Ch 250's arithmetic from its own dateline and its day counts at `:93` and the lock stands — **on a second
+  reader's authority now, not the batch's own.**
+
+### 6.4 Process notes — controller-side, recorded and not acted on
+
+- **`state/phase-ledger.json` does not exist**, though `PHASE_SYSTEM.md` makes it the phase selector. The
+  runner selects on `.done` markers instead, which works. Controller-owned file; this repair does not
+  create it.
+- **Volume 6 has no `volume-plan` phase.** Volumes 02–05 each have one. The batch prompt opened with
+  *"outline/volume-06.md does not exist"* and the batch wrote the outline **after** its own ten chapters, so
+  `outline/volume-06.md` §1–§5 is written fact derived from prose that already existed and §6 onward is a
+  plan. **`PHASE_SYSTEM.md` says a writing phase never plans a volume. Movements 3–5 (271–300) are therefore
+  unvalidated plan, and a later batch must treat them as a hypothesis, not as instruction.**
+- **`scripts/novel_runner.sh:127` skips a volume-outline phase whose `outline/volume-NN.md` already exists.**
+  A Volume 6 planning phase created now would cancel itself. Recorded; not created.
+
+### 6.5 Gates re-run after the repair
+
+```
+files            10 (0251..0260). No chapter before 0251, none after 0260. 260 chapter files total.
+titles           unique across ALL 260 -> NONE duplicated. Longest new title 34 chars, cap is 90.
+wc 251-260       1888 / 2082 / 2013 / 2032 / 1845 / 1924 / 1970 / 1877 / 1885 / 2161
+                 -> all ten inside 1,800-2,700.
+system panels    0 in all ten. The batch still contains NO "[" character at all, so zero is STRUCTURAL
+                 and not a regex artefact.
+markup           bold 0 | ITALIC 1 (252:93) | blockquote 0 | table 0 | rule 0 | code 0. Unchanged.
+nobody           1 in the batch -- chapter-0255.md:7, "a question nobody put to you", the canon phrase
+                 from bible/terminology.md:185. The repair drafted a second occurrence at 256:5 and it was
+                 cut on re-read, because the recorded ration is 1 and the second one was decoration.
+                 Re-derive this gate after ANY edit, not only after a chapter is written.
+8-word sentence scan   duplicated 8-word sentence openings inside the batch -> 0. Unchanged.
+intra-batch      12-grams occurring in 3+ chapters -> 0. Unchanged.
+vs all 260       12-grams shared with any other written chapter: 29 — 1/3/3/3/0/5/7/0/1/6, the SAME
+                 figure the batch recorded in §3. The repair introduced no new shared phrasing.
+exact-dup paras  6-word floor, batch and neighbours -> 0 inside Volume 6. The five hits the scan returns
+                 are all inside Volume 5 and pre-date this batch.
+```
+
+### 6.6 What an independent reader says holds up
+
+Ten titles, unique across 260, none restating scene, weather, hour, date or ages. Zero duplicated 8-word
+sentences. Zero panels, structurally. `"There is no form for this"` remains 0 book-wide. Ages check out —
+Sun 33 at `255:65`, Solveig Rask 42 at `253:9`, Isolde 39 against her character file. The decision to
+write no scene is correct: 261 is immovable and a scene at 256 would give gaps of 7 and 5. **The
+irreversible decision in Ch 256 holds and is untouched** — a plate number on a counted return, in his own
+hand, cannot be got off, and Lode's line is still the best sentence in the batch: *you have bought a hatch
+with the price of being findable.* Day arithmetic outside the count sheet is disciplined: Wren 25/26/27 at
+258/259/260 from the 23rd of June, Petra 44/45 at 258/259 from the 4th of June, report 14 at 260 from the
+6th of July.
+
+**The failure mode this batch has, stated so Batch 0002 inherits it: dates were derived in one place and
+carried to another.** Seven of the seven findings are that. Derive every date from the chapter's own
+dateline at the moment you write the sentence, not from the chapter before.

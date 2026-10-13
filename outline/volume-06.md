@@ -61,7 +61,7 @@ From `outline/volume-05.md` §2 and §5, still true at 251:
 | --- | --- | --- |
 | **The counting room, two floors under the Exchange sales floor** | **Solveig Rask, 42**, keeper of the Vant's real books; four guilds; no window; a stone floor that has never been warm | the only book in the city that prices what moved, and the woman who has run the arithmetic on what he is and got it right |
 | **The kitchen at Ferrier Street** | the household | the table is bare from the fourteenth. This is where debts are called, aloud, in front of witnesses, and where Nadia's book stops being private |
-| **The market stair, the hatch** | **Tessa Okonkwo**, two hundred and three a morning from a quarter of eight | nine years counted from the first of July, with his plate number in the answer line |
+| **The market stair, the hatch** | **Tessa Okonkwo**, two hundred and three a morning from a quarter of eight | nine years counted from the first of July, with his plate number in the answer line. **Her note on the back of the count is dated the ninth of July — after the count opened, never before it.** |
 | **Lantern Row, two floors above a laundry** | **Ines Duarte**, on no roll, on her own time, two rooms she cannot afford | the only reader in the city, and the standing instruction that she may not be read to in her own rooms |
 | **Cordwain, the Field counter** | **Runa Sato**; closes to returns at half past three | a two-part carbon reconciliation slip that no division can produce without her |
 | **Cobb Street, audit intake** | a panel; a room with a door on it | where the charge is answered and the fourteenth day from the sixth arrives |
@@ -100,15 +100,24 @@ every eight to fifteen chapters is met by 261 and not before.
 
 ## 6. THE MOVEMENTS, 251 to 300
 
+> **Movements 3, 4 and 5 ARE UNVALIDATED PLAN.** Volume 6 has no `volume-plan` phase; this file was written
+> by the batch that wrote chapters 251–260, after its own ten chapters, because the batch prompt opened with
+> *"outline/volume-06.md does not exist."* `PHASE_SYSTEM.md` says a writing phase never plans a volume.
+> **§1 to §5 below are written fact, read back off prose that already existed. §6 movements 2 onward are a
+> hypothesis written by the same run that wrote the prose, and no second reader has checked them.** Treat
+> them as a proposal. Movement 1 is fact. Recorded in `reviews/volume-06/batch-0001.md` §6.4.
+
 1. **The Creditors Come In First — 251–260. WRITTEN.** He calls in the debts out loud, one at a time, in
-   his own house, and every one of them is refused, given, or taken by somebody else. Runa takes a
+   his house, and every one of them is refused, given, or taken by somebody else. Runa takes a
    carbon; Sun asks to be counted; Tessa takes his plate number and nine years; Beatrix takes the price
-   that died on the twelfth and is not angry about it; he tells six women he keeps a ledger with nine
-   turned lines in it and the ninth is himself. **Solveig Rask enters** and prices four debts and refuses
-   the fifth and refuses the reservoir. **The broker takes her papers off the table.** **The kitchen table
-   is bare.** **He disputes his own sworn figure of the fourteenth of June in a room with a form number on
+   that died on the twelfth and is not angry about it; he tells the kitchen — **eight women, four on the
+   roll and four on nothing** — that he keeps a ledger with nine turned lines in it and the ninth is
+   himself. **Solveig Rask enters** and prices four debts and refuses the
+   fifth and refuses the reservoir. **The broker takes her papers off the table on the fourteenth, and the
+   kitchen table, which had held this house since the twenty-second of March, is bare from that day.**
+   **He disputes his own sworn figure of the fourteenth of June in a room with a form number on
    it, and says the number is seven.** Isolde Marchetti sings under the ranks wall and is named.
-2. **The Broker's Terms — 261–270.** *Plan.* **261 is Isolde's scene and the household becomes public.**
+2. **The Head May Give Up A Room — 261–270.** *Plan.* **261 is Isolde's scene and the household becomes public.**
    The offer's second half: what a broker is permitted to do with a head who has gone to the keeper of
    the real books. The instrument nobody has used — a head may give up a room — comes back, and so does
    Sun's re-issue, and the only hand that can certify it is a woman at a desk where she is the subject.

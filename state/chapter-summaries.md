@@ -1413,6 +1413,14 @@ been asked to shut. The house eats bread. The question waits behind an open door
 
 **Ten chapters, one a day, no scene.** Batch 0001 inherits `outline/volume-05.md` §7 in full, because there
 was no `outline/volume-06.md`; one is now written, from these ten chapters, and its §1–§5 are written fact.
+**The batch has since been independently reviewed and repaired — seven chapter-level defects and four
+minors, all fixed, no plot moved. Read `reviews/volume-06/batch-0001.md` §6 before inheriting any date from
+these summaries. The five that change what a later batch would otherwise derive wrongly: the kitchen table
+is **bare from the fourteenth only** and held the house from the twenty-second of March · the clinic count
+**begins on the first of July** and Tessa's note on its back is dated **the ninth of July** · **a room holds
+eight women, four on the roll and four on nothing**, and seven are looking at him at 258:101 · the **ranks
+wall was never finished above the middle** · Beatrix's price died on the third and he carried it **sixteen
+days**.
 
 **251 The One He Named First.** The eleventh. He has one day left to say what he owes before somebody else
 does, and the first name is the one he wrote in his own hand. At the bottom of the sixty-one steps, at ten
@@ -1425,7 +1433,10 @@ fills it in, dates it the eleventh and does not send it, and gives him the botto
 produced without the other.** Four people knew the figure was his. He made it five, on a stair, in the
 rain. Petra thirty-seven days on no roll and tells him she will be told before the first of August or not
 at all. **Ends at the foot of Lantern Row's stairs at half past seven with the valuation copy rolled in
-his hand, and he does not go up, and the twelfth is tomorrow.**
+his hand, and he does not go up, and the twelfth is tomorrow.** *Repaired on independent review — the
+chapter previously had the kitchen table bare for five months and the household eating round a bare table on
+the eleventh. The table is **not** bare on the eleventh: the broker's account lies square on it where it
+has lain since the nineteenth of June.*
 
 **252 The Charge Against The Schedule.** The twelfth. **The offer expires by the operation of a date.** He
 watches the door all day and is ashamed of watching and says so to Beatrix, who asks why, and who is told:
@@ -1470,8 +1481,10 @@ instrument by which a broker may hold a client's pricing and has printed none si
 **Beatrix: then there is nothing on the table to disagree with.** **Nadia writes the day with the hour
 against it and enters her own name against the line, for the fifth time.** Runa leaves her folder on the
 bare table. Petra forty days on no roll asks what the mark on the first of August is keeping. Wren twenty-one
-days. **Ends at the drawer under the bread: four papers, all of them the house, and a table with nothing
-on it.**
+days. **Ends at the drawer under the bread: four papers he knew about, all of them the house, and a table
+that had held this house since the twenty-second of March holding nothing at all.** *Repaired on
+independent review — the table was previously dated as bare for five months, and `254:107` had claimed
+nothing had ever been laid on it at all.*
 
 **255 Twenty-Two Stitches.** The fifteenth. The third debt. **Sun Meiling, out loud, at the table:** *I owe
 you three years of a question nobody put to you.* She takes the coat off the chair, shakes it, and the
@@ -1484,9 +1497,11 @@ with the hour and signs for it and says she is a witness and not a keeper. Runa 
 what it does to a lie she carried into a fourth office, and goes out of the front door without slamming it.
 Beatrix puts a saucer over the row. **Sun: after the first of August I am not putting it back in a coat
 for anybody, including the head of this household.** Ends with him opening the drawer under the bread for
-the first time in five months for a clean sheet and finding at the back of it **Tessa's count from the
-first of July, which he has never once opened, with a blank answer line and a note on the back in her own
-hand dated the sixteenth of last month.**
+the first time since March for a clean sheet and finding at the back of it **a fifth paper, which is Tessa's
+count from the first of July, which came into the flat on the back of a household return and which he has
+never once opened: a blank answer line, and a note on the back in her own hand dated the ninth of this
+month.** *Repaired on independent review — the note previously read "the sixteenth of last month", which
+predates the sheet it is written on.*
 
 **256 Nine Years In A Line.** The sixteenth. From a quarter of eight at the market hatch, two hundred and
 three a morning. He offers his plate number against the answer line of a counted clinic return and she
@@ -1500,7 +1515,9 @@ season.** Tessa says he will regret it inside a month and does not care. Lode sa
 about this building is finished, and that everything else in it will hear inside a week. Beatrix refuses to
 put it in the ordinary record and hands it to Nadia's book instead. Petra, forty-two days on no roll, asks
 what a man is supposed to be after three signatures. **August's first line of the day book is to get a
-number on it.** And he is not sorry, **and that was new.**
+number on it.** And he is not sorry, **and that was new.** *Tessa's note on the back of the count is dated
+the **ninth of July** and she took the sheet off his bare kitchen table at six that morning; all repaired
+on independent review.*
 
 **257 The Only Room She Owns.** The seventeenth. He goes to Lantern Row at half past seven with six slips
 and a form-numbered envelope and **does not go up.** She opens the door and comes down four steps and stops
@@ -1517,8 +1534,9 @@ paper and the term is not her name, and that in three days the line he has been 
 She will not be thanked for the stair and does not pretend it is free. **He goes home and counts the days
 to the first of August off the side board, which still says six.**
 
-**258 One Of The Nine.** The eighteenth. After the washing. **He tells the room he keeps a ledger.** A
-hundred and eighteen lines, faces and streets and hours, never deeds. Nine turned — people who have felt
+**258 One Of The Nine.** The eighteenth. After the washing. **The kitchen holds eight women — four on the
+cut roll and four on nothing at all — and he tells the room he keeps a ledger.** A hundred and eighteen
+lines, faces and streets and hours, never deeds. Nine turned — people who have felt
 something cold from his hand and started keeping track. **The ninth is himself**, and he does not explain
 it, and the room notices. **Agnete: you have done the whole of my discipline in my kitchen in eleven
 seconds and you have not once stood in my room — both of those are the same thing and you have spent five
@@ -1531,10 +1549,11 @@ price it, because a thing with no deed in it has no yield and a security with no
 it is on a list that Rask's books reconcile against.** Nadia writes the whole of it with the hour and her
 own name against it. Beatrix refuses to put it in the ordinary record, for the first time in four years.
 **He cannot get it back, and it is now in three written places in one kitchen and will be in a fourth by
-morning.**
+morning.** *Repaired on independent review — `258:7` and `258:101` previously counted the room two ways.*
 
 **259 The Price She Was Never Shown.** The nineteenth. The debt he could not begin without telling Beatrix
-what he had cost her. **On the third of July the broker offered to leave the first of August docket
+what he had cost her — **sixteen days after the third of July, not a fortnight; repaired on independent
+review.** **On the third of July the broker offered to leave the first of August docket
 unmarked — the account struck out on the fourth of August, the plate back, and every security standing
 against the account coming off the same day, which is the rule, and one of them is what the guild holds
 over her hearing.** He refused it in a queue. He told her on the third that there was no price left on the
@@ -1549,7 +1568,9 @@ to say out loud what the mark on the first of August is keeping; he says: **it i
 down the sixty-one steps and counts them at the bottom without moving her lips, because he taught her that
 in April and she kept it.
 
-**260 The Chair Where She Is The Subject.** The twentieth, Thursday. Cobb Street, half past four, the file
+**260 The Chair Where She Is The Subject.** The twentieth, Thursday. **The Thursday pass is at the ranks
+wall and has not got past the middle — it is never finished above it — and he leaves the stair down to the
+counting room alone; both repaired on independent review.** Cobb Street, half past four, the file
 is his. **He disputes his own sworn figure of the fourteenth of June in a room with a form number on it
 and says the number is seven** — the seventh returned line, left blank by a district officer on the third
 of June, counted as a person four divisions away. He says he will swear what is true today and today it is

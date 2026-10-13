@@ -2,9 +2,29 @@
 
 ## Volume 6, Batch 0001 — LIVE GATE RECORD (Chapters 251–260). THE BROKER'S TERMS, THE ELEVENTH TO THE TWENTIETH OF JULY.
 
+> **RE-RUN AFTER INDEPENDENT REVIEW.** The gates below were re-run against the repaired prose on disk and
+> **every figure still holds**, including the 29 shared 12-grams and the zero panels. Two corrections to
+> what this block *claimed*: the batch's own room-count sweep **did not finish** and was recorded as if it
+> had, and the `nobody` ration is **1**, not 2 — a second occurrence was drafted during the repair and cut.
+> Full record: `reviews/volume-06/batch-0001.md` §6.
+>
+> **THE REVIEW GATE DID NOT RUN FOR THIS BATCH.** `logs/batch-0001.review.log:1` records the reviewer agent
+> falling back to the writer, so this block and `reviews/volume-06/batch-0001.md` §1–§5 are the batch's own
+> work. An independent reader has since passed the batch and found seven chapter-level defects the batch's
+> own gate returned clean on. **Every one was a date derived in one place and carried to another.** Derive
+> counts from the chapter's own dateline when you write the sentence, and re-run these gates after *any*
+> edit, not only after a chapter is first written.
+>
+> **The five corrections a later batch will otherwise re-derive wrongly:** the kitchen table is **bare from
+> the fourteenth only** and held the house from the **twenty-second of March** · the clinic count **begins
+> on the first of July** and Tessa's note on its back is dated **the ninth of July** · **a room holds eight
+> women, four on the roll and four on nothing**, and seven is looking at him at 258:101 · the **ranks wall
+> was never finished above the middle** · Beatrix's price died on the third and he carried it **sixteen
+> days**, while the fortnight at 259:121 is Ines's report in intake and is a different clock.
+
 > **THIS IS THE LIVE GATE BLOCK. Every number below was produced by command against the files as they
-> stand after Batch 0001's last edit. A gate that returns zero is a claim to be tested, not a result to
-> be reported, so every row says what was run and what was read.** The Volume 5 Batch 0005 block and the
+> stand after Batch 0001's repair. A gate that returns zero is a claim to be tested, not a result to be
+> reported, so every row says what was run and what was read.** The Volume 5 Batch 0005 block and the
 > Volume 5 close-pass block are retained below it, superseded as to position.
 
 **Ten chapters, one a day from the eleventh to the twentieth of July 2026 in the book's calendar. Day map:
@@ -30,7 +50,7 @@ titles           unique across ALL 260 written titles -> NONE duplicated. Over 9
                  The Price She Was Never Shown (29) / The Chair Where She Is The Subject (34).
                  None begins with "What". The collision check was run against every file in chapters/,
                  not by eye.
-wc 251-260       1869 / 2082 / 2013 / 2014 / 1836 / 1913 / 1970 / 1877 / 1885 / 2150
+wc 251-260       1888 / 2082 / 2013 / 2032 / 1845 / 1926 / 1970 / 1877 / 1885 / 2161
                  -> all ten inside 1,800-2,700. NO CHAPTER LEAVES THE BAND AND NO NAMED EXCEPTION IS CLAIMED.
 markup           bold 0 | ITALIC 1 | blockquote 0 | table 0 | horizontal rule 0 | code 0.
                  The italic is chapter-0252.md:93 -- the four words of Marguerite's slip, set as written
@@ -48,6 +68,9 @@ nobody           1 -- chapter-0255.md:7, "a question nobody put to you". CANON L
                  rhetorical tic: bible/terminology.md defines Sun Meiling's three years as "years of
                  waiting on a question nobody put to her", and the chapter's debt is named in the book's
                  own terms and repeated correctly two paragraphs later. Every other use was cut.
+                 A SECOND occurrence was drafted during the independent repair (256:5) and cut on re-read,
+                 because the ration is 1. This is why the gate is re-run after every edit and not only
+                 after a chapter is written.
 no person        0.  He understood 0.  He also understood 0.
 He had woken wanting  0 of 10 (Volume 5 closed on 4).
 He felt          0 (Volume 5 closed on 9, eight capital and one lower). Case-sensitive, and it is zero.
@@ -92,6 +115,15 @@ term nine days when the term was agreed late on the ninth and the chapter is the
 as two hours behind with the figures already up at ten, in two chapters · and a room-count that had drifted
 twice (six women, six people, eight women, nine women) because Ines is not in the house.
 
+**That third one was NOT finished.** The batch's review file §2 records it as *"re-derived or removed"* and
+the text still carried three counts: `258:7` put seven of the eight in the kitchen on the cut roll — which
+carries Ines, who is out of the flat, and does not carry the three women standing in that kitchen who are
+on nothing — and `258:101` said *six women looking at him* one line after Petra had gone to bed.
+**Both are fixed on independent review: a room is eight, four on the roll and four on nothing, and seven
+are looking at him at 258:101.** `258:113`, `259:79` and `259:111` were correct at eight and were left
+alone. **A self-written review file cannot catch the error it made. This is the whole argument for the
+review gate, and the gate did not run.**
+
 ### Canon this batch makes, in
 
 1. **A debt nobody has entered has no movement, and a real book prices movement and nothing else.** Four of
@@ -131,7 +163,9 @@ twice (six women, six people, eight women, nine women) because Ines is not in th
 ### Canon this batch makes, out
 
 - Volume 5's closure is now final. **Chapter 250's closing montage has been moved off the last night of
-  July onto the tenth** (`:91` and `:95`, both forms) and Volume 6 Batch 0001 exists on disk.
+  July onto the tenth** (`:91` and `:95`, both forms) and Volume 6 Batch 0001 exists on disk. **Confirmed on
+  independent review: the second reader re-derived Ch 250's arithmetic from its own dateline and its day
+  counts at `:93`, so this lock no longer rests on the authority of the batch that wrote about itself.**
 - Wren Kallo's finding is **advanced, not resolved** — its existence is noted in the record of the
   twentieth with the date it went in, and it is still on Hadewig Mers's desk.
 - Ines Duarte's review is **not resolved**. The division still has to answer for having produced an index

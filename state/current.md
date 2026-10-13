@@ -17,13 +17,53 @@ read away; you do not pay for it on every prompt.
    re-open any of them; the reasoning is in the archive.
 4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
 
-**Last written:** **Volume 6, Batch 0001 — Chapters 251–260 written. The Book's First Volume-Six Chapters,
-and Chapter 250's inherited date defect is fixed.** The next phase is **Volume 6, Batch 0002**
-(Ch 261–270) and its prompt is at `workspace/volume-06/batch-0002/PROMPT.md`.
+**Last written:** **Volume 6, Batch 0001 — Chapters 251–260 written, and then independently reviewed and
+repaired.** The next phase is **Volume 6, Batch 0002** (Ch 261–270) and its prompt is at
+`workspace/volume-06/batch-0002/PROMPT.md`.
 
 ---
 
 # VOLUME 6, BATCH 0001 — HEAD RECORD. CHAPTERS 251–260. THE ELEVENTH TO THE TWENTIETH OF JULY.
+
+## 0. AN INDEPENDENT REVIEW RAN AND REPAIRED THIS BATCH. READ THIS FIRST.
+
+**The workflow's review gate did not run.** `logs/batch-0001.review.log:1` records the reviewer agent
+falling back to the writer, so `reviews/volume-06/batch-0001.md` §1–§5 was written by the batch that wrote
+the chapters — a self-written review file cannot catch what a batch is blind to, and it did not. **An
+independent reader has since taken the finished prose on disk and returned seven chapter-level defects and
+four minors. All are fixed. The full record is `reviews/volume-06/batch-0001.md` §6.**
+
+**No plot moved.** No event, no beat, no decision and no figure a chapter depends on changed. What moved is
+dates, counts and two sentences of geography.
+
+**Inherit these five corrections. They are the ones a later batch will otherwise re-derive wrongly:**
+
+1. **The kitchen table is bare from the fourteenth only.** It held the household's paper from the
+   **twenty-second of March** and the broker's account from the **nineteenth of June** until Marguerite
+   carried the account out of the kitchen on the fourteenth. It was **not** bare on the eleventh and it was
+   **not** bare "for five months." The batch's own loss beat happens on the fourteenth.
+2. **The clinic count begins on the first of July and Tessa's note on its back is dated the ninth of
+   July** — the ninth, not the sixteenth of last month. A note cannot be on the back of a sheet that has
+   not been opened yet. `chapter-0253.md:59` is the anchor: the clinic *"was not counted before the first
+   of this month."*
+3. **The kitchen on the eighteenth holds eight women: four on the cut roll and four on nothing at all.**
+   Seven women is the size of the *roll*, not of the room, and the roll includes Ines Duarte, who has been
+   out of the flat since the sixth. Seven women are looking at him at 258:101, one line after Petra goes to
+   bed. **Eight is the number everywhere else and eight is correct.**
+4. **The ranks wall was never finished above the middle.** At 253:101 the crew had not reached the middle
+   at half past eleven, and at 260:97 the ladders stand with nothing above the middle. `260:3` no longer
+   says the wall was finished.
+5. **Beatrix's price died on the third and he carried it sixteen days**, not a fortnight. Third of July to
+   the nineteenth is sixteen days. The fortnight at 259:121 is a different clock — Ines's report in intake
+   — and is correct.
+
+**And inherit the failure mode.** All seven findings are the same class: **a date derived in one place and
+carried to another.** Derive every count from the chapter's own dateline at the moment you write the
+sentence, not from the chapter before.
+
+**The Chapter 250 repair below is now confirmed by a second reader.** It was locked on the authority of a
+file the batch wrote about itself; an independent pass re-derived Ch 250's arithmetic from its own dateline
+and its day counts at `:93`, and it stands — on someone else's authority now.
 
 **THE INHERITED REPAIR IS DONE AND VOLUME 5 IS NOW CLOSED FOR GOOD.** `chapter-0250.md:91` and `:95` both
 put the closing montage on *"the last night of July"* — the thirty-first, twenty-one days past that
@@ -90,7 +130,11 @@ it since the first month and has spent nothing on it until the sixteenth.
 
 **THE HOUSEHOLD AS IT NOW STANDS.** **Seven women on the cut roll; six addresses; six notebooks; and the
 seventh row is under a saucer on a bare kitchen table because Sun Meiling asked to be counted and he said
-yes and the instrument that would effect it needs a hand that is in two rooms above a laundry.**
+yes and the instrument that would effect it needs a hand that is in two rooms above a laundry.** **That
+seven is the size of the roll and not of any room.** The roll carries Ines Duarte, who has been out of the
+flat since the sixth, and it carries no Sun, who is in pencil. **When the book needs the size of a room it
+is eight** — four on the roll (Beatrix, Runa, Marguerite, Nadia) and four on nothing (Sun, Petra, Wren,
+Agnete), with Tessa at her counter and not in it.
 **Petra Ilyin on no roll since the fourth of June, forty-six days.** **Wren Kallo on nothing at any time
 and the eighth partner; her finding twenty-seven days on Hadewig Mers's desk, and its existence is now
 noted in the record of the twentieth with the date it went in.** **Agnete Lindqvist on no list at all,

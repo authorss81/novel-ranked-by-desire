@@ -1,6 +1,6 @@
 # The Price She Was Never Shown
 
-Beatrix Halm had the last debt and it was not the account's, and he had been carrying it for a fortnight because it was the only one he could not begin without telling her what he had cost her.
+Beatrix Halm had the last debt and it was not the account's, and he had been carrying it for sixteen days because it was the only one he could not begin without telling her what he had cost her.
 
 She came in off the yard tram at six with her gloves folded and her season squared in her coat and put her notebook on the bare table and did not open it.
 

@@ -6,6 +6,30 @@
 `state/current.md`; the gates are in `state/open-threads.md`; the day map and the date trace are in
 `reviews/volume-06/batch-0001.md`. Read this block for what is canon and what may not be closed.**
 
+> **READ §0 BEFORE §1.** The workflow's review gate did not run for this batch, so §1–§5 of the review file
+> are the batch's own. An **independent** reader has since taken the finished prose on disk and returned
+> seven chapter-level defects and four minors. **All are fixed, no plot moved, and the record is
+> `reviews/volume-06/batch-0001.md` §6.** The five corrections that a later batch will otherwise re-derive
+> wrongly:
+>
+> 1. **The kitchen table is bare from the fourteenth and only from the fourteenth.** It held the household's
+>    paper from the **twenty-second of March** and the broker's account from the **nineteenth of June**.
+>    "Bare for five months" was wrong and so was "bare on the eleventh."
+> 2. **The clinic count begins on the first of July; Tessa's note on the back of it is dated the ninth of
+>    July.** Not the sixteenth of last month — a note cannot predate the sheet it is written on. The
+>    anchor is `chapter-0253.md:59`, where Solveig Rask says the clinic *"was not counted before the first
+>    of this month."* Derived spans: 1 July → 15 July = **a fortnight** walked past; 9 July → 16 July =
+>    **a week** of waiting.
+> 3. **A room is eight women, not seven.** Four on the cut roll, four on nothing. Seven is the size of the
+>    *roll*, which carries Ines and does not carry Sun. Seven are looking at him at 258:101, one line
+>    after Petra goes to bed.
+> 4. **The ranks wall was never finished above the middle** (253:101, 260:97). `260:3` no longer claims it
+>    was.
+> 5. **Beatrix's price died on the third and he carried it sixteen days**, not a fortnight. The fortnight
+>    at 259:121 is Ines's report in intake and is a different clock.
+>
+> **The failure mode is the same in all seven: a date derived in one place and carried to another.**
+
 ### 1. THE INHERITED REPAIR, DONE, AND IT WAS TWO LINES IN TWO FORMS
 
 `chapters/volume-05/chapter-0250.md` was sweeping. The chapter is dated **the tenth of July** at `:3` and
@@ -52,6 +76,10 @@ expiring **12 July** · Ines's term agreed on Lantern Row **the night of 9 July*
 The full list with before and after is in `reviews/volume-06/batch-0001.md` §2. **The class is the one
 `outline/volume-05.md` §9 names: a figure correctly derived on one date and carried to another.**
 
+**A further seven of the same class were found by the independent reader after the batch closed, and all
+are fixed. This batch's final error count is therefore twenty, not thirteen.** The full table is
+`reviews/volume-06/batch-0001.md` §6.1.
+
 ### 4. CANON THIS BATCH MAKES, IN
 
 1. **A debt nobody has entered has no movement, and the real books price movement and nothing else.**
@@ -79,7 +107,9 @@ The full list with before and after is in `reviews/volume-06/batch-0001.md` §2.
 7. **He wrote plate 8,138 into the answer line of a counted clinic return**, dated the sixteenth of July,
    in his own hand, over nine years of Tessa Okonkwo's hours. **The option that closes is being a man
    whose plate a form goes past.** Tessa said yes in the first minute and had written the request on the
-   back of the count on the sixteenth of last month.
+   back of the count on **the ninth of July**. **The count opened on the first of July with the line blank
+   and the sheet came into his drawer on the back of a household return; the ninth is the only date a note
+   on it can carry.**
 8. **He told the kitchen he keeps a ledger.** 118 lines, nine turned, **the ninth still himself**, nothing
    spent in five years. **He did not say what it is. The room did not ask.**
 9. **Nine turned lines is a route and not a rumour.** Six is the largest set anyone has. Nine can be
@@ -90,8 +120,9 @@ The full list with before and after is in `reviews/volume-06/batch-0001.md` §2.
     said the number is seven.** The schedule is not read further until that answer is withdrawn by the
     head or certified by the auditor of record. **Neither can be unsaid.**
 11. **Marguerite Vale removed the valuation copy, the dead list copies and the five pencil lines from the
-    kitchen table on the fourteenth.** **The table has been bare since.** She priced the debts once more in
-    her own hand first, and the figure was nearly what the stranger gave him.
+    kitchen table on the fourteenth. The table has been bare since, and it had held this house on it since
+    the twenty-second of March.** She priced the debts once more in her own hand first, and the figure was
+    nearly what the stranger gave him. **Do not date the bareness to any day but the fourteenth.**
 12. **Runa Sato made a two-part carbon reconciliation slip on the eleventh**, dated, filled in and not sent,
     and gave him the bottom half. **Neither half can be produced without the other.**
 13. **Isolde Marchetti, 39, sang under the ranks wall on the twentieth and a room agreed with her.**

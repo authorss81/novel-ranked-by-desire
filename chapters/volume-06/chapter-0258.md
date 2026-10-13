@@ -4,7 +4,7 @@ He stood up after the washing on the eighteenth of July and asked the room to st
 
 "There is a ledger," he said. "I have kept one since the first month I had this address. A hundred and eighteen lines in it. They are faces and streets and hours. They are not deeds, because it has never once told me what any of them did or whether any of them was worth it."
 
-The room said nothing back. Seven women on the cut roll and one woman on no list with her door open behind her, and a kitchen with nothing on the table in the middle of it.
+The room said nothing back. Eight women in it, four of them on the cut roll and four of them on nothing of any kind, and a kitchen with nothing in the middle of the table.
 
 "Nine of those lines are turned. Turned means the person has felt something cold from my hand once or twice or four times and has started keeping track of when. That is all it means and it is the whole of what I have ever told anybody about it."
 
@@ -98,7 +98,7 @@ She closed the book on her thumb.
 
 Petra went to bed at that point and said goodnight to the room in general on the way out.
 
-He stood in the kitchen with the lamp off the edge of the table and six women looking at him who had not looked at him that way in five years, and the thing he had been carrying since April was in the room, and the room had done what every room does to a thing, which was to keep it.
+He stood in the kitchen with the lamp off the edge of the table and seven women looking at him who had not looked at him that way in five years, and the thing he had been carrying since April was in the room, and the room had done what every room does to a thing, which was to keep it.
 
 It could not be given back. He had said it out loud to a room in which every woman keeps a record of something, one of whom now signs against every line she enters and one of whom has ridden forty thousand people a morning for four years for exactly this. The single thing he had managed in five years that no form could reach was now in three written places in one kitchen and would be in a fourth by morning.
 

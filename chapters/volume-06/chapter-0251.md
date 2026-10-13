@@ -66,7 +66,7 @@ He looked at it. Four lines and a sentence in pencil on grey carbon, in the only
 
 She went off up the market toward the tram with her folder shut and her pencil in her hand and her boots striking square, and he stood at the bottom of the sixty-one steps with half a reconciliation slip in his pocket that no division in Ostara could produce without the woman who had made it.
 
-At the house the three papers lay in the drawer under the bread with the receipt on top and the certificate under it and the valuation copy at the bottom, and the kitchen table was bare, which it had been for five months, and five lines stood in his own hand on the sheet Marguerite had given him on the eighth.
+At the house the three papers lay in the drawer under the bread with the receipt on top and the certificate under it and the valuation copy at the bottom, and the broker's account lay square in the middle of the kitchen table where it had lain since the nineteenth of June, and five lines stood in his own hand on the sheet Marguerite had given him on the eighth.
 
 He did not read them. He put them back with the three.
 
@@ -90,7 +90,7 @@ Petra came down at eight with the bundle squared under her arm, thirty-seven day
 
 She went down. He heard her count them without moving her lips.
 
-He worked the second landing and the third after lunch and came home at six to a kitchen that ate standing up round a bare table, because there were seven women on the cut roll and six chairs, and the seventh chair had been a decision taken in April that the house was not going to revisit.
+He worked the second landing and the third after lunch and came home at six to a kitchen that ate standing up round a table with a broker's account still squared on one end of it, because there were seven women on the cut roll and six chairs, and the seventh chair had been a decision taken in April that the house was not going to revisit.
 
 Beatrix read the day out of her notebook in her small level hand and shut it. Bread. A hatch carried. A wall looked at. A stair at the bottom of sixty-one steps where two people had stood still in the rain for four minutes.
 

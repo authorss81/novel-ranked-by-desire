@@ -1,8 +1,8 @@
 # The Chair Where She Is The Subject
 
-The twentieth was a Thursday. The pass went along the ranks wall before the figures went up, and by half past six that afternoon the wall had been finished twice over in a shade that was not the one under it, and there were figures on it he had not been in the city to see.
+The twentieth was a Thursday. The pass went along the ranks wall before the figures went up, and by half past six that afternoon the wall had been done as far as the middle in a shade that was not the one under it, and there were figures on the lower half of it he had not been in the city to see.
 
-He left Ferrier Street at one with the plate in his coat and the certificate in the drawer and the receipt on top of it, and he walked past the Exchange without going in and past the counting room without looking up and took the tram to Cobb Street.
+He left Ferrier Street at one with the plate in his coat and the certificate in the drawer and the receipt on top of it, and he walked past the Exchange without going in and left the stair that went down to the counting room alone, and took the tram to Cobb Street.
 
 Audit intake had the charge on its list at four in the afternoon and the head of the schedule sat in a row of chairs with a form number against his name and a plate on the table in front of him that he did not have to press anywhere.
 

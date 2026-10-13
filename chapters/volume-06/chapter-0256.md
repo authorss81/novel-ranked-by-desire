@@ -2,7 +2,7 @@
 
 The hatch ran from a quarter of eight and by eight the crate had been carried down four times and back up four times and two hundred and three people had gone through it in under six hours.
 
-Tessa Okonkwo worked the counter with her sleeves above the elbow and the wood worn smooth in a curve where nine years of forearms had rested, and the counting sheet from the first of July was folded in three in the inside pocket of her coat and he knew it was because he had held it the night before.
+Tessa Okonkwo worked the counter with her sleeves above the elbow and the wood worn smooth in a curve where nine years of forearms had rested, and the counting sheet was folded in three in the inside pocket of her coat because she had come up the market stair at six that morning and taken it off his bare table, where it had lain all night and neither of them had touched it.
 
 He said the debt to her while she was wiping down between two lines.
 
@@ -24,9 +24,9 @@ He had come down the stair with the answer worked out and it had been the other 
 
 "You are not even going to think about it."
 
-"I thought about it on the sixteenth of last month and I wrote it on the back of the count," Tessa said, and took the folded sheet out of her coat and put it on the counter face up. "I have been waiting a month to be asked.
+"I thought about it on the ninth of this month and I wrote it on the back of the count," Tessa said, and took the folded sheet out of her coat and put it on the counter face up. "I have been waiting a week to be asked.
 
-"If a return counts my hours and the name against them is blank, then a clerk can count me and answer for me and never once learn that I am a person. That has been true of this hatch since the first of April and I decided on the sixteenth that it was not going to be true any more."
+"If a return counts my hours and the name against them is blank, then a clerk can count me and answer for me and never once learn that I am a person. That has been true of this hatch since the first of April and I decided on the ninth that it was not going to be true any more."
 
 She turned the sheet round so the blank line faced him.
 
@@ -52,7 +52,7 @@ He watched her go up the market stair with her card in her fist and worked out w
 
 He had spent five years being the person a form goes past. He had just bought a hatch with the price of being findable, and the woman who had sold it to him had watched him pay and had not once told him the price.
 
-He picked up the empty crate and carried it down to the stair foot because she had asked him on the sixteenth of last month to help her with weight and not with paper, and she came down after him and stood at the foot of it with her arms crossed and watched him set it square.
+He picked up the empty crate and carried it down to the stair foot because she had asked him on the ninth of this month to help her with weight and not with paper, and she came down after him and stood at the foot of it with her arms crossed and watched him set it square.
 
 "You are going to regret this within a month," she said.
 
@@ -92,7 +92,7 @@ Petra stood absolutely still with her hands behind her back, the way she stood w
 
 He got out Tessa's day book and put it on the table open to the month.
 
-She had his initials on the first line of every month since the sixteenth of last month, with a date against them and no number.
+She had his initials on the first line of the month with a date against them and no number, and the date was the ninth.
 
 "August," he said. "What happens in August."
 
@@ -106,6 +106,6 @@ Tessa was not there. He said it to the table and the table heard it.
 
 He stood on the landing at eleven with his hand flat on the pale rectangle, which was nine inches by fourteen and cold in the middle, and the nail above it held nothing, and the paint had not been laid over since the twenty-ninth of the month before last and no crew would ever paint a stair.
 
-Below him a woman was closing up a hatch that had run nine years from a quarter of eight and had been in no return at all until a week ago and was now in three, with a washroom attendant's plate number at the foot of it in his own handwriting.
+Below him a woman was closing up a hatch that had run nine years from a quarter of eight and had been in no return at all until this morning and was now in three, with a washroom attendant's plate number at the foot of it in his own handwriting.
 
 He had gone into this building five years ago with a plate and no history and nothing anybody could ask him about, and every month since he had put one more thing against his own name on purpose, and on the sixteenth of July he put the first one that could not be got off, and he had done it for a counter worn smooth by nine years of forearms, and he was not sorry, and that was new.
