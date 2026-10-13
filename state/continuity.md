@@ -1,4 +1,80 @@
-## VOLUME 8 — CHAPTERS 351–370 ARE ON DISK. CHAPTERS 371–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK.
+## VOLUME 8 — CHAPTERS 351–380 ARE ON DISK. CHAPTERS 381–400 ARE NOT. THE FIRST OF JANUARY TO THE THIRTIETH OF MARCH. THIS IS THE LIVE BLOCK.
+
+**`outline/volume-08.md` §6 MOVEMENTS 1, 2 AND 3 WERE ALL REWRITTEN AGAINST THE CHAPTERS IN THE COMMITS THAT
+WROTE THEM, and between them they name twenty places the plan was wrong on the page. Movement 2's rewrite SETTLED
+the carry-forward collision; movement 3's rewrite SETTLED the other two open questions at the end of §6, namely
+whether a ground can be demanded by a subject and whether the woman the volume sentence names is Sun Meiling.**
+**THE NEXT PHASE IS A WRITING PHASE: `workspace/volume-08/batch-0004/PROMPT.md`, which writes 381–390 and no
+prose about anything else.**
+**Batch 0003 is 20,944 words counted per file and summed. Volume 8 is 65,544 words long and has twenty chapters to
+go. LIN WEI'S FILE OPENED AT 372.**
+**Batch 0003 HAS NOT BEEN REVIEWED. THE REVIEWER OWNS THE FINDING; `logs/batch-0002.review.log` is the precedent
+and `reviews/volume-08/` does not exist.** **THE FOUR FACTS 371 INHERITED AND THE ONE KNOWN DEFECT 371 AVOIDED
+ARE RECORDED IN THE HEAD RECORD AT `state/current.md` AND AT THE HEAD OF `state/open-threads.md`, AND `PC-28` IS
+STILL OPEN AND STILL UNFIXED AND NO CHAPTER IN 371–380 CARRIES ITS FIGURES.**
+
+### 0. WHAT CHAPTERS 371–380 ADDED TO THE CONTINUITY OF THIS BOOK, AND CHAPTER 381 MAY NOT CONTRADICT ANY OF IT
+
+1. **A SUBJECT WHO HAS BEEN SERVED WITH A REQUISITION MAY DEMAND PRODUCTION OF THE PAPER THE FOURTH PART IS
+   GROUNDED ON. THE CHAIR MAY ADD THE HOLDING TO THAT DEMAND AND MUST PRODUCE WHAT THE HOLDING STANDS ON. A
+   PRODUCTION IS READ OUT WHERE IT IS PRODUCED, ENTERED IN THE MINUTE, AND STAYS IN THE ROOM — AND A SUBJECT MAY
+   DEMAND PRODUCTION AND MAY NOT DEMAND A RECALL, WHICH IS A THING A CHAIR MAY DO ONCE AND HAS NEVER DONE.**
+   *He used the right on the twenty-first of February and it brought back a ground, a receipt, an index and four
+   lines, and he has none of them in his hands.* (371, 372, 374, PC-29, PC-33)
+2. **A FILE DOES NOT LEAVE THE CLASSIFICATION WING. WHAT COMES BACK FOR THE CUSTODY OF A HELD THING IS A TRANSFER
+   RECEIPT, AND EVERY RECEIPT FOR A HELD ACCOUNT COMES OUT OF THE THIRD SUB-LEVEL.** (372, PC-30)
+3. **LIN WEI'S HELD-ACCOUNT FILE IS TWO THOUSAND TWO HUNDRED AND FOUR, IN THE THIRD SUB-LEVEL. THE TRANSFER
+   RECEIPT OUT OF IT NAMES TWO HUNDRED AND FOURTEEN THOUSAND GRAINS IN ONE MOVEMENT, THREE YEARS BACK, SEALED, WITH
+   FILE ONE — WHICH IS THE FIRST THING ON THE LIST AND THE LAST THING ON THE BOARD — AS THE DESTINATION. HIS OWN
+   NAME IS NOT ON IT AND THERE IS NO PLACE ON THAT FORM WHERE A NAME COULD HAVE GONE.** **HE HAS THE NUMBER AND
+   CANNOT WRITE IT DOWN, BECAUSE A MAN WHO CARRIES A DOCUMENT IN HIS HEAD CANNOT BE MADE TO PRODUCE IT.**
+   (372, PC-31, and `chapter-0063.md` for *One*)
+4. **A PRODUCTION GOES TO EVERY DIVISION THAT HOLDS A PART OF THE THING, AND A PRODUCTION ABOUT A HOLDING AT AN
+   ADDRESS IS SERVED AT THE ADDRESS, TO THE PERSON AT THE HEAD OF THE HOUSEHOLD.** *So the first name his brother's
+   file put in front of him was the woman he has gone up sixty-one steps for since September, and she has been
+   handed a production at a public post in a building with a man on the third floor of it.* (373, PC-32)
+5. **PERRIN SOWE'S FOUR LINES ARE NOW ON THE PAGE AND THEY ARE NOT WHAT ANYBODY EXPECTED.** *A transfer of this
+   shape cannot be answered from the receiving end. A destination is not a question, it is an address, and this
+   house does not hold addresses. The matter is filed and not answered. The responsible officer asks to be left
+   off the distribution of anything further upon it.* **THEY DO NOT SAY WHAT THE ACCOUNT IS. THEY SAY THE OFFICE
+   COULD NOT ANSWER AND STOPPED.** **THERE IS NOT ONE WORD ABOUT LIN HAO IN THEM AND THERE NEVER WAS.**
+   (374, PC-34, and `chapter-0070.md` for who wrote them)
+6. **THE FOUR LINES SIT IN A MINUTE AT THE END OF A CORRIDOR AND CANNOT BE TAKEN OUT, AND `S.M.` IS ON THE
+   TRANSMISSION ABOVE THEM.** *Sun Meiling has had the same answer in a different shape since the twentieth of
+   February, given standing up in a corridor outside a door with nothing written down, and she has carried it up
+   sixty-one steps to give to him, and he has not told her he has read it.* (375)
+7. **THE ACCOUNT OF THIRTY YEARS WAS CALLED A FOURTH TIME ON THE FIRST OF MARCH, BY THE SAME HAND ON THE SAME
+   PRINTED RULE, AND THE HOUR WENT IN AT TWENTY TO NINE WHETHER OR NOT THERE WAS A MAN AT THE RAIL. NOTHING HAS
+   BEEN PAID AND NOTHING CAN BE PRODUCED AND THERE IS NO PRODUCTION OFF THAT DOOR, AND THE WORD GOES ON ON THE
+   FIRST OF EVERY MONTH UNTIL ONE OF THOSE TWO THINGS HAPPENS — WHICH WILL BE THE FIFTH MARK, ON THE FIRST OF
+   APRIL.** *A valuation sheet with four marks on it went out at four in the afternoon of the first of March to
+   six desks, one of which is the counter-forensics desk that had spent the previous three days reading a file.* (376)
+8. **A HELD ACCOUNT'S MEDICAL RETURN GOES TO THE VESTRY CLINIC EVERY QUARTER, BECAUSE THE CLASSIFICATION WING HAS
+   NO DOCTOR, AND IT IS HEADED WITH A FILE, A SUB-LEVEL AND THE WORDS *HELD ACCOUNT* AND NO NAME.** *Ten quarters
+   of *held. Declines maintained*, and a tenth line dated the thirtieth of December in a different hand: the man is
+   held, three years, a quarter shorter than the last.* **THE WORD FOR A MAN IN THAT ROOM IS *HELD* AND IT IS A
+   LEGAL CATEGORY, A FORM, AND A ROOM WITH NO WINDOW AND A DOOR THAT IS NOT LOCKED FROM INSIDE. IT IS NOT *ALIVE*
+   AND IT IS NOT *GONE*.** **THE NEXT ADMINISTRATION IS THE THIRTIETH OF MARCH, WHICH IS ALSO THE LAST WORKING
+   DAY OF THE QUARTER.** (380, PC-35, and `bible/terminology.md` for the category)
+9. **A LIVE REQUISITION IS ADMINISTERED WEEKLY, AND ADMINISTRATION IS NOT A DECISION.** *A return on the standing
+   of the room, with a line for each of the nine; the room's standing is THREE, and four says *vacant*, five is
+   recused, six withdrew her seal on the twenty-third of December, and seven has not been in the room since the
+   twenty-third of December.* **AND UNDER THE NINE THERE IS A TENTH LINE HEADED *composition of the holding*, WITH A
+   RULED BOX, WHICH MUST BE CERTIFIED AT THE ADDRESS AND COUNTERSIGNED BY THE PERSON AT THE HEAD OF THE
+   HOUSEHOLD, BECAUSE THE LAST CERTIFICATE IS FOUR MONTHS OLD.** **HE ASKED FOR A RECALL AND WAS REFUSED AND DID
+   NOT USE IT.** (379, PC-36)
+10. **A RECUSAL IN THAT ROOM IS LIFTED BY THE SUBJECT AND NOT BY THE CHAIR, AND THERE IS NO SHEET FOR LIFTING
+    ONE. HE DID NOT LIFT ALMA QUAYLE'S.** *And she said her sentence of the nineteenth of October out loud at her
+    own counter, in her own building, and a clerk wrote it into a minute — which is the one thing in this city a
+    stranger with a folder can be given.* (378, PC-37, and 360 for the chair's *no*)
+11. **THE REQUISITION IS STILL LIVE AND IS STILL NOT CARRIED, AND IT GOES ACROSS INTO THE NEXT QUARTER ON THE
+    THIRTIETH OF MARCH. NOTHING IS SPENT, NOTHING DRAWN, NOTHING ROUTED, NO FOLIO, NO SETTLE CLOCK, NO SETTLE
+    DATE, NO CLASSIFICATION COMPLETED.**
+12. **THE PLATE IS 8,145, THE FLOOR IS 8,145, AND THE WALL HAS SAID NOTHING FOR SEVENTY DAYS, WHICH IS THE TENTH
+    WEEK OF THAT COUNT. THE ELEVENTH WEEK IS CHAPTER 400'S AND NOTHING BEFORE IT MAY PRINT A FALL OR A
+    THRESHOLD.**
+
+
 
 **`outline/volume-08.md` §6 MOVEMENTS 1 AND 2 WERE BOTH REWRITTEN AGAINST THE CHAPTERS IN THE COMMITS THAT
 WROTE THEM, and between them they name thirteen places the plan was wrong on the page. MOVEMENT 2's rewrite also

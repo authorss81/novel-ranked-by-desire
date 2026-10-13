@@ -23,21 +23,162 @@
 > In this volume, **Lin Hao must find what his brother found and keep the woman who told him**, or **the only
 > account he has ever had closes on him and he is a man with a number**.
 
-**`chapters/volume-08/` EXISTS. Chapters 351–370 are on disk, twenty files, 44,580 words counted per file and
-summed. `outline/volume-08.md` §6 movements 1 AND 2 were both rewritten against them, in the commits that wrote
-them, and movement 2's rewrite SETTLED the carry-forward collision §6 had flagged as the most dangerous open
-question in the file.** Cards: `outline/batches/volume-08-batch-0001.md`. The live phase prompt is
-`workspace/volume-08/batch-0003/PROMPT.md`, which writes 371–380. **Proposed canon changes are recorded at the
+**`chapters/volume-08/` EXISTS. Chapters 351–380 are on disk, thirty files, 65,544 words counted per file and
+summed** (per-file and concatenated agree; all thirty carry a trailing newline). **`outline/volume-08.md` §6
+movements 1, 2 AND 3 have all three been rewritten against the chapters they planned, in the commits that wrote
+them. Movement 2's rewrite SETTLED the carry-forward collision §6 had flagged as the most dangerous open
+question in the file, and movement 3's rewrite SETTLED the other two open questions at the end of §6: whether a
+ground can be demanded by a subject, and whether the woman the volume sentence names is Sun Meiling.** Cards:
+`outline/batches/volume-08-batch-0001.md`. The live phase prompt is
+`workspace/volume-08/batch-0004/PROMPT.md`, which writes 381–390. **Proposed canon changes are recorded at the
 head of `state/open-threads.md`: eleven from the Volume 8 planning phase, of which four are adopted, three
 partly adopted, one struck and one partly overturned by a later page; eight adopted by Batch 0001 (PC-12 to
-PC-19) and eight more adopted by Batch 0002 (PC-20 to PC-27).** The live gate block is Batch 0002's.
+PC-19), eight more by Batch 0002 (PC-20 to PC-27), and nine more by Batch 0003 (PC-29 to PC-37).** The live gate
+block is Batch 0003's.
 
 **THE VOLUME SENTENCE:** *Lin Hao must find what his brother found and keep the woman who told him*, or **the
 only account he has ever had closes on him and he is a man with a number.**
 
-**THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN** · **369 Agnete Lindqvist — WRITTEN, scene body
-2,570 words, probe 43** · 380 Tessa Okonkwo · **388 Dagmar Oyelowo, immovable** · 398 Wren Kallo. Gaps 8, 11, 11,
-8, 10. **Ch 372 opens Lin Wei's file and nothing before it may go near it.**
+**THE SCENE SCHEDULE IS FIXED:** 358 Sun Meiling — **WRITTEN, body 2,929** · 369 Agnete Lindqvist — **WRITTEN,
+body 2,570, whole-word probe 36, substring 43** · **380 Tessa Okonkwo — WRITTEN, body 3,343, whole-word probe
+38, substring 47** · **388 Dagmar Oyelowo, immovable** · 398 Wren Kallo. Gaps 8, 11, 11, 8, 10.
+**Ch 372 opened Lin Wei's file and nothing before it went near it, and that was the batch's irreversible
+decision.**
+
+### Volume 8, Batch 0003 — Chapters 371–380. THE TWENTY-FIRST OF FEBRUARY TO THE TENTH OF MARCH. **WRITTEN.**
+
+**THE BATCH'S JOB, IN ONE LINE:** a requisition that is live cannot be decided without a paper, and he has bought
+the right to demand that paper, and the paper is a receipt. **AND IT IS THE CHAPTER THAT OPENS LIN WEI'S FILE,
+WHICH IS THE BATCH'S IRREVERSIBLE DECISION AND `outline/series.md`'s STAGE-FOUR COMMITMENT: HE OPENS IT WHILE
+THE REQUISITION IS LIVE, WHICH MEANS THERE IS NO VERSION OF THIS WHERE HE WALKS AWAY.**
+
+**371 — The Sheet That Names Its Own Ground.** The twenty-first. He lodges the ordinary right of a man who has
+been served — demand production of the paper the fourth part is grounded on — in his own hand, at the side table
+by the door, and a clerk writes it into the keeping book and it goes out at four in the ordinary way. **THE
+CHAIR COMES OUT OF THE ROOM FOR THE FIRST TIME IN A CORRIDOR AND ADDS THE HALF HE DID NOT ASK FOR: a ground
+that is not tied to the holding it grounds is a piece of paper about a house, so the holding comes too, and
+whatever the holding stands on.** He has twenty-six days; a demand entered after the thirtieth is a demand in
+the next quarter. The clerk asks the question nobody in that room has asked in twenty years — *what is the
+holding* — and the account of thirty years is written into a book at the end of a corridor for the first time
+in its life. **THE DIVISION THAT HOLDS THE GROUND IS WREN KALLO'S, and he is barred from asking her about it,
+and the room is not.**
+
+**372 — The Receipt That Names A Number. THE FILE OPENS. THE BATCH'S IRREVERSIBLE DECISION.** The twenty-third,
+and it is a production and not a sitting: no vote, no nine minutes. The ground came back on the twenty-second.
+The holding came back on the twenty-third **as a receipt, because a file does not leave the Classification Wing
+and no division in this city sends one out of a sub-level.** *Two hundred and fourteen thousand grains, one
+movement, three years, sealed; source, a held account in the third sub-level, file two thousand two hundred and
+four; destination, file One.* **HIS OWN NAME IS NOT ON IT AND THERE IS NO PLACE ON THAT FORM WHERE A NAME COULD
+HAVE GONE.** He asks for the file it was drawn out of, which is beyond the holding; the chair refuses it for
+four seconds and then grants it — **not for him, but because she will not have a minute in that room in which
+a man served with a sheet was refused the paper it stands on.** He has a number he cannot write down and
+cannot lose. **There is no version of this in which he walks away.**
+
+**373 — A Name He Is Not Looking For.** The twenty-fourth, short, clipped, in the corridor. He asks one
+ordinary question and does not ask for the book, and the book is shown to him. **The second production went to
+two divisions, and the second is named in full: a division that does not sit in the Wing, keeps no list of
+addresses, and was sent a strip about those premises in October — and he has known since the third of January
+that such a division existed and had never been able to find it.** **And under the destination, an address
+cannot be abbreviated, so it is written out in full: premises 34-6-118, service to the person at the head.**
+He opened his brother's file and the first name in it was the woman he has gone up sixty-one steps for since
+September. **HE COULD HAVE ASKED FOR A RECALL AND DID NOT: a subject may demand production and may not demand
+a recall, a recall is a thing a chair may do once and has never done, and every person at that address would
+have been entitled to be told.** In the evening she says she is not going to ask him what the paper was, and
+keeps her own count of the times she has not asked.
+
+**374 — The Four Lines He Was Never Shown.** The twenty-sixth. The index comes back folded into a cover,
+**because an index is the only part of a file a division will let out of a sub-level and nobody has ever
+thought to ask it for one.** Twelve lines, three years. A consult with a one-digit heading; a draft answer of
+four lines initialled in the margin against the fourth; a reply of four lines signed by the responsible
+officer; and eight lines of nothing in three years, which is the part of an index nobody reads out. **He
+demands the reply and learns what production is: read out where it is produced, entered in the minute, and it
+STAYS IN THE ROOM.** It comes on the twenty-eighth and she reads it in the corridor with the door open.
+*A transfer of this shape cannot be answered from the receiving end. A destination is not a question, it is an
+address, and this house does not hold addresses. The matter is filed and not answered. The responsible officer
+asks to be left off the distribution of anything further upon it.* **THEY DO NOT SAY WHAT THE ACCOUNT IS. THEY
+SAY THE OFFICE COULD NOT ANSWER AND STOPPED.** And at the end he works out that the second of those four lines
+is the reason a receipt and not a file came back for his holding five days earlier.
+
+**375 — The Signature Under The Answer.** The twenty-seventh, short. `S.M.` He has seen those three characters
+twice before in his life and both times were in the same month. **He does not write the number down anywhere:
+a man who carries a document in his head cannot be made to produce it, and he has been extremely good at that
+for eight years.** He goes up the sixty-one steps to tell the one woman he is permitted to tell **and she
+tells him first**: on the twentieth she went up to the third floor with the consult and he stood in the corridor
+outside his own door so that they were both standing, and gave her the answer in four sentences, wrote nothing
+down and offered her nothing to take away. **THE ANSWER SHE HAS AND THE FOUR LINES HE HAS ARE THE SAME ANSWER
+IN TWO SHAPES, one in a minute in a room of nine and one in a woman in a kitchen, and neither of them puts it
+anywhere.** Runa Sato spends her one question of the evening and gets two sentences.
+
+**376 — The Mark In The Same Hand Again.** The first of March. The fourth mark, same hand, same printed rule,
+hour entered at twenty to nine **whether or not there is a man at the rail**. A hundred and sixty-four days
+since the keys changed. **Hanneke Ruis says the whole of it in one sentence and does not improve it: nothing
+has been paid, there is no production off that door, neither will ever change, and the word goes on the first
+of every month until one of them does.** Four is not a decision, four is a morning — **and a valuation sheet
+with four marks on it goes out of a gate at four to six desks, one of which is the counter-forensics desk that
+has just spent three days reading a brother he has never met.** His account and his file are now legible in
+one envelope, and he did that himself on the first of January.
+
+**377 — The Cost Of A Ground In The Minute.** The third. A copy of the production minute reaches the household at
+ten in the morning and eight women read four lines about their own kitchen table. He says the four words were
+his and that he said them because he wanted it cheaper than a door and did not think about anything else.
+**WREN KALLO SAYS THE ONE SENTENCE AND WILL NOT BE ASKED ANYTHING: she went into a drawer on the second of
+February and put the description into a requisition, and did not ask anybody and did not tell anybody, because
+nobody in that room could and she could. She does not say whom she told and he does not ask.** The chapter's
+plain sentence is the price and it is not his: **a counter clerk in the second sub-level wrote four words at a
+kitchen table on the twenty-seventh of October, has never been asked what she meant, and from the third of
+March the people she eats with are going to ask her.** Four copies of one minute exist in about twenty hours,
+made by four sets of hands, and nobody was asked for any of them.
+
+**378 — The Woman Who Recused Herself.** The fifth, at the Classification Wing's second sub-level with Mrs Imrie
+at the counter. Alma Quayle has asked three times and been refused in one word three times and has spent eleven
+days not telling him why. **THE ANSWER IS WORSE THAN *no*: a recusal in that room is not lifted by the chair,
+it is lifted by the subject, and there is no sheet for lifting one, and the chair says *no* because she is not
+the office that can answer it. HE DOES NOT LIFT IT — three reasons, two of them good, and he uses none of
+them.** **AND SHE SAYS HER SENTENCE OF THE NINETEENTH OF OCTOBER OUT LOUD AT HER OWN COUNTER, IN HER OWN
+BUILDING, AND A CLERK WRITES IT INTO A MINUTE**, which is the ordinary record of a division and the one thing a
+stranger with a folder can be given. She did it for him, he did not ask her to, and nothing could have stopped
+her.
+
+**379 — The Standing Of Nine People.** The eighth. **A LIVE REQUISITION IS ADMINISTERED WEEKLY, and administration
+is not a decision and nobody votes on it.** The first return of the eleventh sitting says three: one, two and
+three. Four says *vacant*. Five is recused. Six withdrew her seal on the twenty-third of December. Seven has
+not been in that room since the twenty-third of December. **And under the nine there is a tenth line headed
+*composition of the holding* with an empty ruled box**, because a requisition naming a holding is administered
+against the composition at that address and the last certificate is four months old. **He asks for a recall;
+the clerk explains what a recall is; the chair refuses it**, because a minute in which a subject asked a room
+to unsend its own paperwork is the worst document she has seen in twenty years. **He does not use it.** He
+walks eleven streets with a back he has had since a washroom went wrong in the autumn, and puts his hand on the
+grille of the cage at the Vestry arcade at ten past four, and the grille opens from the other side. **The
+certificate has to be countersigned at the address, by the person at the head of it, in a box on a printed form,
+at a public post in a building with a man on the third floor of it.** He had thought for four months that the
+cheapest thing in Ostara was a woman giving up an address on purpose.
+
+**380 — The One Who Pays For The Holding. THE SCENE. TESSA OKONKWO.** The tenth, at the Vestry after hours, in
+a dispensary with every light up and the shutters open, **because she is not doing this in the dark and says so
+in the first line.** **Three spoken terms, not a sheet, and the third is a standing order about November and
+about four pencil marks on the back of a woman's left hand, and she is the only person in the city who can
+issue it.** **THE HINGE IS A DOCUMENT AND NOT A BODY: a held account's medical return, which comes to her
+clinic every quarter because the Classification Wing has no doctor, and which is headed with a file, a
+sub-level and the words *held account* and no name.** She had had it on her own shelf for three years and read
+it about nine times a year for eleven different reasons and had never once known whose it was. Ten quarters of
+*held, declines maintained*, and a tenth line dated the thirtieth of December in a different hand: *the man is
+held, three years, a quarter shorter than the last and I do not know what that means and I am writing it down
+because I am not going to write down what I think it means.* **THE WORD SHE USES IS NOT *ALIVE*. SHE SAYS
+*HELD*, and held is a legal category, a form, and a room on the third sub-level with no window and a door that
+is not locked from inside, and the next administration is the thirtieth of March and she will see it.** Scene
+body **3,343 words, whole-word probe 38, substring 47**; chapter 4,120. **THE GRAMMAR IS BROKEN AGAIN: no
+terms sheet, no counted minute, no kettle, no dark, no corridor, no lamp, a shutter rail instead of a bench, and
+a doctor who counts her own body's responses out loud.** **ENDING:** on the morning of the thirtieth of March
+this clinic will be sent a return about her patient and a sheet at the end of a corridor will be handed to a
+clerk with a new quarter's number on it, and neither will have been asked for by anybody, and both will be
+about the same door.
+
+**WHAT CLOSES IN THIS BATCH:** *he can never be a man who has not asked.* **THE COST, IN FOUR PARTS:** the
+receipt has his brother's file number on it and his own address under it and his own name nowhere in it; **the
+ground is in a minute and the price is a clerk being asked four words by four people she eats with**; **the
+woman he has to keep has been served a production at a public post and is about to be handed a box on a form
+asking her for a figure about her own house**; and **the best classifier in this city put a sentence of her own
+into a book where nobody can take it back, for him, on a day he did not ask her for.**
 
 ### Volume 8, Batch 0002 — Chapters 361–370. THE TWENTY-SEVENTH OF JANUARY TO THE TWENTIETH OF FEBRUARY. **WRITTEN.**
 
