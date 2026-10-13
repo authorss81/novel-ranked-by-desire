@@ -48,7 +48,7 @@ He did not take the paper.
 
 "In three weeks a man with a pencil read the number on it, and the number was mine, and he checked the number against the book." She looked up the sixty-one steps.
 
-"A supervisor signing a shelf checks two things. That the lines are in order, and that nothing has been added in a hand that is not one of ours."
+"A supervisor signing a shelf checks two things. That the lines are in order, and that every hand on that page is a hand his office has used before."
 
 "The addition was in our hand, so it was in order, so he wrote the next thing a man writes when he finds an empty line with a rule under it and a count above it, and then he signed the shelf and went home."
 
@@ -98,13 +98,13 @@ She was already going up the steps.
 
 She went up the hill and he sat on the fourth step from the bottom with his hands on his knees and thought about the order things arrive in, which is the only arithmetic he has ever been any good at, and which had been arranged against him since the third of August by somebody who filed things in drawers for a living and never once thought of him.
 
-Then he went and got the copy from the shelf over the sink and stood in the kitchen and read box four again, all six lines of it, in his own handwriting, in a certificate he had signed twice nine days ago.
+Then he went and got the copy from the shelf over the sink and stood in the kitchen and read box four again, all six lines of it, in his own handwriting, in a certificate he had signed twice seven days ago.
 
 The first line said the seventh returned line stood blank. The third gave the hour and the office and the evening. The sixth said he certified it in that state.
 
 He had put the whole of it in a box for the certification office, and the certification office was one of the four divisions, and one of the four divisions keeps the premises books.
 
-A man signing a shelf checks that nothing has been added in a hand that is not one of ours. A certificate is not an addition. But a certificate that names a blank line, against a book with a blank line in it, is a thing a clerk in the division that keeps the books will look at twice.
+A man signing a shelf is not looking for a house. He is looking for a stranger. A certificate is not a stranger. But a certificate that names a blank line, against a book with a blank line in it, is a thing a clerk in the division that keeps the books will look at twice.
 
 He had written it. He had asked for the defect to be described where a reader would trip over it rather than shut in a file somewhere, and the clerk had said it was the first time anybody had asked for that, and he had gone out into the street feeling like a man who had done a difficult thing correctly.
 

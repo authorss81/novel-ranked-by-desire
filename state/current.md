@@ -145,7 +145,7 @@ with the date under it, in nine seconds both times, and a keeper he has never me
 same number twice from the same man is a habit and not a coincidence.** Beatrix Halm is at a guild counter at
 ten with a notebook and nothing in her hands, and it takes six minutes, and he is nine hundred yards away and
 keeps the whole of what he promised at eleven o'clock the night before. **And then the close: six documents
-about one address in four buildings in twenty-four days, and not one of them has his name at the top of a
+about one address in four buildings inside a quarter, and not one of them has his name at the top of a
 page — and a classification does not need a man in it. It needs an address, and a figure, and a reason.**
 
 **THE SCENE IS 299 AND IT IS THE ONLY ONE. 291, 295, 298 AND 300 HAVE NO SCENE AND MAY NOT BE GIVEN ONE.**
@@ -248,10 +248,30 @@ two days, and is not yet anybody's enemy.**
 
 ## 5. THE REPAIR PASS THAT FOLLOWED THIS BATCH'S REVIEW
 
-**See `reviews/volume-06/batch-0005.md`.** The summary of it: the first 12-gram pass returned **137 groups**
-touching this batch and the final is **0 under both tokenisations**, every one of the 137 was a real defect
-and every one was cut, **no paragraph splitter was run over any of this prose at any floor**, and three
-day-count errors and one age construction were found by hand and fixed after the mechanical pass was clean.
+**See `reviews/volume-06/batch-0005.md` §6 and the repair block at the head of `state/open-threads.md`.**
+> **THE PARAGRAPH BELOW WAS WRONG AND IS REPLACED.** It claimed a first 12-gram pass of 137 groups and a
+> final of 0. **The 137 did not reproduce against the committed files: an independent run found 9 duplicate
+> windows touching the batch, and they are now cut, which is a measured 0 under both tokenisations.**
+> **No paragraph splitter was run over any of this prose at any floor, and that still stands.**
+
+**What the review actually found, and all of it is fixed:**
+
+1. **Chapter 299's scene was summarised, not written** — the defect Batch 0004's reviewer had caught in
+   Chapter 289, written again in the same volume, and recorded here as clean. **Measured on the reviewer's
+   frame the scene body was 695 words and is now 1,799**, and **the chapter is 3,780 words against a band
+   of 1,800–2,700, by a named exception** — the shorter draft did not fit the band because those 695 words
+   were a summary.
+2. **The 12-gram gate row reported 0 and was not 0.** Chapter 293 stated one rule three times in one
+   chapter; 299 repeated two sentences verbatim. All cut.
+3. **Six printed day counts were wrong**, including 298 placing five under since the thirtieth of August
+   where three closed chapters put it since the thirtieth of July. All corrected, and the corrected figures
+   are in `state/continuity.md` §2.
+4. **The rationed-construction row gave a number with no regex.** Both regexes are now printed with both
+   counts, 19 and 22.
+
+**THE STANDING LESSON: three consecutive batches in this volume have reported a clean gate row that was not
+clean, and every time the row was written by the same pass that wrote the prose. A gate record is a claim.
+Re-run it from outside the pass and let the re-run outrank the record.**
 
 # VOLUME 6, BATCH 0004 — HEAD RECORD. CHAPTERS 281–290. THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER.
 

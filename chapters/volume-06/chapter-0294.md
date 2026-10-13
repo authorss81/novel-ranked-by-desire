@@ -4,7 +4,7 @@ She came off the second shift at seven in the evening on the twelfth of Septembe
 
 "Sit down," Beatrix Halm said. "I have been on since six this morning and I can hear the yard from here and I want the yard."
 
-He sat on the second step from the bottom and stayed there, which is the step she uses for people she wants talking upwards at her.
+He took the step she uses for people she wants talking upwards at her, which is the second from the bottom, and stayed on it.
 
 "Show me the book."
 
@@ -140,7 +140,7 @@ The tram came through and the bell went and neither of them heard the end of it.
 
 "I will be at a counter, because that is what the turn is, and I will not be at a counter at eight in the morning." She shifted the notebook. "And when they name it, the number they name will be the number of persons keeping an address at thirty-four six one one eighteen on that morning, and it will be your number, and I will have to look at it and not take it."
 
-He sat on the second step from the bottom and did not answer for a while.
+He sat down on that step and did not answer for a while.
 
 "Say it," said Beatrix Halm.
 

@@ -128,7 +128,7 @@ He took the correction without arguing about it.
 
 "You do not have to write it in the margin."
 
-"I am going to write it in the margin in my own hand and you are not going to initial it."
+"I am going to write it in the margin," said Beatrix Halm, "in my own hand, and you are not going to put one letter next to it."
 
 She had the pencil against the page.
 
@@ -162,21 +162,103 @@ He listened to the street.
 
 "The trams," he said.
 
-"The trams take the corner by the shop differently after a quarter turns and they have all done it since the first of July and there is not one instrument in this city that can hear it," said Beatrix Halm, "and I am telling you now because you are the first person who has ever asked me a question about what I hear instead of telling me what it is."
+"The trams take the corner by the shop differently after a quarter turns," said Beatrix Halm. "Every one of them has done it since the first of July and not one of them has ever mentioned it, and you are the first person who has ever asked me a question about what I hear instead of telling me what it is."
 
 She was not fast.
 
-She took him apart about four times over about an hour and a half and each time she decided it herself and told him about nine seconds before she was going to, which is a thing she can do because she can hear forty thousand people moving and a body in a room is four of them.
+That was the first thing he found out about her in a bed, and it took him about nine minutes to stop trying to be careful about it.
 
-At some point she said his name twice and the second one came out differently.
+He kept waiting for the part where a man is careful — where he slows down and watches a woman's face and asks her twice — and she took his hands off her and put them where she wanted them and said nothing at all, and the not-saying took up more of that room than a question would have done.
 
-At some point she stopped and made him look at her and said "eight thousand one hundred and thirty-eight" in a completely flat voice, as a thing she had practised in a notebook, and then made him say seven, and then made him say it again.
+"You are doing it now," she said.
 
-That was what she wanted, and he got there about four seconds late, and she did not explain it, and she went on taking him apart until he had said it five times.
+"Doing what."
 
-She went on about four minutes past him and told him so afterwards in about four words, and he wrote the hour down in his own head because he has been counting days all month.
+"Being careful." She got her weight off his forearm and onto his hip, unhurried, the way she moves between a counter and a door. "I gave you the difference about two hours ago and I am not going to give it to you twice. Nine years of being watched is the whole of what I am describing. Lie here and be read, or get up and go home."
 
-Afterwards she lay with her head on his chest and her ear against his ribs and let the street go on for about a minute.
+"You want me to be worse than careful."
+
+"I want you to be accurate." She said it with no weight in it. "In about four months somebody is going to be sitting at a counter with your name at the top of a page in front of them and you are not going to be able to do the careful thing. I am not going to be in a room with a man who does it."
+
+He laughed. He had not expected to and it came out of him at about the wrong volume, and she waited for it to finish instead of talking across it.
+
+"That is a strange way to ask a man for it."
+
+"That is the only way anybody has ever put it to me, and I have been putting it to myself since about March." She got her hand flat on his chest and pushed until his shoulders went back into the pillow. "Now stop talking. I have been talking since the twelfth of September and I would like about eleven minutes of a room where I am not explaining one part of it."
+
+He was slow about that. It took her four minutes to get him to stop asking and about nine more before he had stopped apologising for the asking.
+
+She put him on his back and then on his front and did not consult him about either, and when he reached for her she moved about four inches out of the way, which left him on her and not on what he had been reaching for, and she let him arrive at that by himself.
+
+He put his mouth against the back of her neck and she let him have about two seconds of it and then took his chin between two fingers and turned his face away.
+
+"Eyes on the window," she said. "And the numbers are in your ears. Tell me what the street is doing and I will tell you when."
+
+"That is not what you just asked for."
+
+"It is exactly what I just asked for, and it is what I do all day, and you want to know what it is like to be inside nine years of my head, so here it is." She shifted her weight back onto him and put his hands where she wanted them and started again, unhurried, completely on purpose. "Street. Now. Out loud. Keep going."
+
+He told her about the street.
+
+He got the trams and the water and a shutter going up two streets down, and she let him run about four minutes before she stopped him with two fingers on his jaw.
+
+"You are counting."
+
+"I am listening."
+
+"You are counting me." She turned his head until he was looking at her. "That is what you have done since the thirteenth of August, and it is what you did for three years to a woman in a laboratory, and you did not know then either. Start again, and this time say what you can hear instead of what you have worked out."
+
+He said what he could hear.
+
+It was not much and all of it was true, a tram that had taken the corner and a man on the far side of the street who had shut a door and had not gone away, and she worked him about nine minutes on it and made him go back over the tram twice, and he went back over it, and somewhere inside the third time through it he stopped translating and began to hear, and the difference in his hands was visible from above her.
+
+"There," she said. "That. Do not lose it."
+
+At about twenty past twelve she said his name twice. The first one was the one she uses at a counter. The second one came out of her from lower down, and she did not apologise for it and did not explain it.
+
+At about half past one she stopped.
+
+"Eight thousand one hundred and thirty-eight," she said, in a completely flat voice, the way a woman reads a figure off a board.
+
+He had it. He had had it since the thirtieth of August.
+
+"Seven," she said. "Now say seven."
+
+"Seven."
+
+"Now the other one. Again. And do not put a face on it. It is a figure and it has stood in a column since the seventh of June and it is not a thing to make a face about."
+
+He said it again.
+
+"Five times," she said. "You have done it four."
+
+He said it a fifth time and she took the number off him and put it down on the sheet beside them and went back to the street.
+
+At about three she began deciding when she was going to stop, and letting him know, which she can do because she can hear forty thousand people moving and a body in a room is four of them. She told him about nine seconds before every time and he got it wrong twice.
+
+"Again," she said, at about six minutes to four.
+
+"I have not said anything."
+
+"You have not said anything and I have said nothing, and that was the correct thing to do, and I want you to notice that you got it right." Her hand went flat on him and stayed there. "Nine seconds. I am not going to this time."
+
+"What does that mean."
+
+"It means I am going past it," said Beatrix Halm, "and I am telling you now because you would rather know than guess, and I am not being tender about it, I am being accurate about it, and you may count if you want to. I have never once been a woman who could not be counted."
+
+He counted, and he wrote the hour down in his own head afterward because he has been counting days all month and a man who does one thing all month does not stop.
+
+He came out four minutes past it, which is poor work from a man whose whole life is arithmetic, and she told him so afterwards in about four words and would not tell him what they were.
+
+He was about to make something out of that and she put her hand flat over his mouth.
+
+"Not yet," she said. "You always do that. You take the worst thing anybody has said to you in a room and turn it into a thing you are going to carry, and I have watched you do it since the third of August and I am not going to be in a bed while you do it."
+
+She lifted the hand off his mouth.
+
+"Tonight it is going to be a woman who went on past you and said the number out loud. Four minutes. A figure. Go to sleep."
+
+And she lay with her head on his chest and her ear against his ribs and let the street go on for about a minute, the way a woman does it when she has been listening to something for nine years and has decided to stop for the length of a tram.
 
 "Now the other thing," she said. "And I am going to say it before I get warm, so listen."
 

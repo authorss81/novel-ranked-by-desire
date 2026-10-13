@@ -10,7 +10,7 @@ He came round the corner into the square at ten past six with his coffee going c
 
 Eight thousand one hundred and forty-four. Six under, on a public wall, in a shade this square has never had, in the two words that have been on that stone since the thirtieth of July and have not changed once.
 
-"Six," Beatrix Halm said, writing. "Three under for four years and a month. Four under for eleven days. Five under since the thirtieth of August, which is thirty-one days."
+"Six," Beatrix Halm said, writing. "Three under for four years and a month. Four under for eleven days. Five under since the thirtieth of July, which is sixty-two days."
 
 "You have been counting."
 
@@ -34,7 +34,7 @@ The cart had one wheel that had been louder than the other one since she had sta
 
 He had nothing to put after that.
 
-"You had twenty-five days." She said it without any edge at all, the way she says the time. "I am not going to say anything about what you did with them and neither is anybody else in that house, and I have carried paper for eleven years without ever knowing what a single piece of it was for, and I know now that one piece of it was for you."
+"You had twenty-five days." She said it without any edge at all, the way she says the time. "Not one word about what you did with them from me, and not one word from anybody else in that house, and I have carried paper for eleven years without ever knowing what a single piece of it was for, and I know now that one piece of it was for you."
 
 She went back in and left the door open behind her.
 
@@ -90,11 +90,11 @@ The room was very quiet.
 
 "That is all of it," said Ines Duarte. "That is more than all of it, and you have said it once and you will not say it again, and I am not going to be grateful about it, because a woman who is grateful about being unrecorded is asking for a certificate."
 
-Sun Meiling put her hand flat on the certificate on the shelf over the sink without taking it down.
+Sun Meiling's hand went flat on the certificate on the shelf over the sink, and she did not take it down.
 
 "Then it is blank," she said. "For ever. The line is blank and the book is on a store shelf and there is no instrument in this city that can put a name in it and not one office will ever be able to find out from any paper in this house who it was for."
 
-"That is what you asked for on the fifth of August."
+"That is the fifth of August, and it is what you asked for."
 
 "That is what I asked for on the fifth of August and it is what I have got, and I have cost you six lines in a clerk's office and twenty-five days of a man in a kitchen and a whole quarter of your sleep, and I am not going to be ungrateful about it either, and I have told you both of those in the same sentence once already and I am not going to say them again today."
 

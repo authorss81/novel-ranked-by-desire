@@ -113,10 +113,10 @@ exactly that.**
 
 | # | Where | What was wrong | Ruling |
 | --- | --- | --- | --- |
-| 1 | 296 | *four months and twenty-three days* since the twenty-fourth of July | **three months and twenty-three days.** July to September |
+| 1 | 296 | *four months and twenty-three days* since the twenty-fourth of July | ~~**three months and twenty-three days**~~ **WRONG RULING, CORRECTED BY THE REVIEW PASS → one month and twenty-three days.** 24 July to 16 September is one month and twenty-three days. The batch's own ruling was the error and the error survived into `state/continuity.md`. |
 | 2 | 294 | *Eighteen* days from the twelfth of September to the first of October, and *eleven* on the nineteenth, *six* on the twenty-fourth, *one* on the twenty-ninth | **nineteen, twelve, seven, two.** The first draft counted from the twelfth to the thirtieth and printed the arithmetic off the end of the month |
 | 3 | 297 | Beatrix Halm's line said *because it is the fifteenth*, in a chapter dated the nineteenth | **the nineteenth** |
-| 4 | 298 | *Five under since the thirtieth of August, which is twenty-eight days* | **thirty-one days** |
+| 4 | 298 | *Five under since the thirtieth of August, which is twenty-eight days* | ~~**thirty-one days**~~ **WRONG RULING, CORRECTED BY THE REVIEW PASS → the thirtieth of July, which is sixty-two days.** The batch corrected the interval and left the date, and the date was the half that was wrong: closed Chapters 286, 287 and 288 all put five under from the thirtieth of **July**, and 289 has him five under on the thirtieth of August. |
 | 5 | 299 | Beatrix Halm said *since I was eighteen years old* and *since she was eighteen* | **both cut.** `bible/characters.md` fixes every age and no chapter announces one. **A woman telling a man her age on her way to bed is the exact failure Batch 0004's reviewer cut out of 289, and it was written again before the same reviewer saw it.** |
 | 6 | 299 | He said the **thirtieth of September** for the date on which the security stopped covering, and then contradicted himself two lines later | **the reading was restructured** so that he says *the thirtieth of — *, she says *month*, he says *September*, and the correction is the chapter's beat. **The first draft had the mistake and then the repair of the mistake in the wrong order, which is worse than not having it.** |
 
@@ -144,17 +144,30 @@ exactly that.**
    number he cannot find.** If that does not read as a man being frightened rather than a man being brave,
    the batch's engine has failed.
 2. **Check Chapter 299 for a fade.** Batch 0004's reviewer found 289 was built correctly and still ended in
-   one sentence saying it *went on a long time*. **299 was written against that finding.** It is directed by
-   her, she consents, she says what she wants and is told to say it, and the beat that changes the
-   relationship is the margin correction she will not let him initial. **Search for `afterwards`: it occurs
-   twice in the batch and neither is a scene standing in for a sentence.**
+   one sentence saying it *went on a long time*. **299 was written against that finding.**
+   > **THIS ITEM WAS WRONG AND THE REVIEW PASS PROVED IT. The claim below was false when written.**
+   > **The 299 that was on disk put 695 words of scene body into a 2,634-word chapter and carried the
+   > hour and a half on seven summary paragraphs**, one of which read *She took him apart about four
+   > times over about an hour and a half…*, two of which opened *"At some point she…"*, and two of which
+   > used `afterwards`. **The counting of `afterwards` was correct and the reading of it was not**: the
+   > point of searching for the word is that it marks a scene standing in for a sentence, and here it
+   > marked four. **This is the same defect, in the same volume, that Batch 0004's reviewer caught in
+   > 289, and the batch wrote it again anyway.** **The scene is now written out — on the reviewer's own frame
+   > the scene body was 695 words and is now 1,799 — and the volume's one scene chapter is 3,780 words against a
+   > band of 1,800–2,700. That exception is named, with its reason, in the gate block.** A later batch must read
+   > this item as the warning it is: **the trigger words are not decoration, and a chapter can pass every
+   > mechanical gate in §5 and still not contain its scene.**
 3. **Check that Chapter 298's decision is on the page and not in a summary.** He does not enter the seventh
    line. Ines Duarte makes him say her name as the reason, out loud, in a kitchen with seven women in it, and
    she will not let him carry her reason for her.
 4. **Re-run the 12-gram scan against all 300 and believe the re-run over this block.** §5 states the
    tokenisation in both variants because Batch 0004's block reported a number without one.
-5. **Check the arithmetic out loud against `state/continuity.md` §2.** Three of the ten chapters print a day
-   count and **all three were wrong on the first pass** and are right now.
+5. **Check the arithmetic out loud against `state/continuity.md` §2.**
+   > **THIS ITEM WAS WRONG AND IS NOW TRUE.** It originally read that three chapters printed a day count
+   > and all three were right. **Seven printed figures were wrong, in four chapters, and a seventh error
+   > was found in 293 and an eighth in 296.** The full list is in §6 below. **The lesson is not arithmetic.
+   > It is that a gate record written by the same pass that wrote the prose has no way to catch a wrong
+   > day count, and three batches in this volume reported a clean day count that was not clean.**
 6. **Check that nothing in the batch routes.** The promise of the twenty-seventh of August is tested three
    times — in 291, in 297 and in the shape of Runa Sato's refusal — and **it holds on the honest reason and
    not on the convenient one, and the routing has still not happened.**
@@ -174,9 +187,10 @@ files            291-300 written; nothing before 0291 or after 0300 created. `gi
                  returns ten untracked files and nothing else — **no closed chapter was touched.**
 titles           unique across all 300 -> NONE duplicated. Over 90 -> 0. None of the ten begins with "What",
                  and Volume 6 is still at ZERO of the book's twenty-eight (all inherited, 4/4/13/0/7).
-wc 291-300       1963 / 1809 / 1853 / 1941 / 1869 / 2090 / 1915 / 1810 / 2636 / 2027
-                 ALL TEN INSIDE 1,800-2,700. NO NAMED EXCEPTION IS NEEDED, which is the outcome Batch 0004's
-                 review asked for and did not get.
+wc 291-300       1963 / 1809 / 1850 / 1937 / 1869 / 2090 / 1915 / 1814 / 3780 / 2029
+                  **NINE INSIDE 1,800-2,700 AND ONE NAMED EXCEPTION, WHICH IS 299.**
+                  ~~ALL TEN INSIDE 1,800-2,700. NO NAMED EXCEPTION IS NEEDED.~~ **THIS WAS TRUE OF A DRAFT
+                  THAT DID NOT CONTAIN ITS OWN SCENE AND IT IS NOW FALSE.** The reason is §6 finding 1.
 markup           bold 3 | italic 8 | blockquote 0 | table 0 | horizontal rule 0 | code 0
 system panels    0 x 10, and structurally so. **NONE WAS DUE AND NONE IS OWED**: nothing has been spent in
                  three hundred chapters, the forty-day settle clock has not started because he has been
@@ -186,13 +200,17 @@ quote balance    10 of 10 even, whole file; even across 281-300.
 exact-dup paras  floor 1 -> 13 groups, ALL QUOTED. floor 2 -> 1 group, quoted. floor 3 -> 0.
                  **UNQUOTED 0 AT EVERY FLOOR.** Quoted and unquoted reported separately, identity test and
                  not a first-words-prefix test.
-12-gram          **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. First pass 137. FINAL 0.**
-                 **PUNCTUATION-STRIPPED, LOWER-CASED VARIANT: FIRST PASS 12, FINAL 0.** First batch in this
-                 volume where the two tests agree. Book-wide 2,282 and 2,961 across 300 chapters.
-                 **NO REFRAIN WAS EXEMPTED AND NO ECHO WAS HIDDEN.** The one deliberate echo, 291's
-                 *Six lines,* she said / *Six*, is named here and in the gate block.
-8-word openings   291-300 -> 0.  261-300 -> 3, all inherited (264/273, 264/268, 273/276). The neighbour
-                 figure was 4 mid-batch because 299 opened with 289's closing line, and it was cut.
+12-gram          **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT, OVER ALL 300 CHAPTERS:
+                  2,317 duplicate windows book-wide, of which NONE touch 291-300.**
+                  **PUNCTUATION-STRIPPED, LOWER-CASED VARIANT, SAME SCOPE: 2,971 book-wide, NONE touching
+                  291-300.** Volume 6 alone returns 34 and 85.
+                  ~~First pass 137. FINAL 0.~~ **NOT REPRODUCIBLE, AND THE ROW IS REPLACED RATHER THAN
+                  DEFENDED.** An independent re-run of the files as committed found **9** duplicate windows
+                  touching this batch and the batch had recorded 0. See §6 finding 2.
+8-word openings   **291-300 -> 0** (verified after the review pass, and three inherited repeats into 294
+                  and 298 were cut to get there). 261-300 -> **2**, both inherited and both outside this
+                  batch (0261 against itself, 0276 against 0280). The row previously said 3 and listed
+                  264/273, 264/268 and 273/276, **none of which the re-run reproduces.**
 intra-chapter     duplicated 5-word-plus sentences -> 0.
 nobody           9, case-insensitive, every one read back and listed in the gate block. First draft 26.
                  **The list in the gate block was wrong on the first write and was corrected against the
@@ -202,8 +220,9 @@ weekday          **NO WEEKDAY IS NAMED IN ANY OF THE TEN CHAPTERS.** All seven r
                  substring. **The gate passes here because the word is absent and not because a surviving
                  Thursday was checked.**
 meta / ages      0. **Two real age statements were cut from 299 by hand after the mechanical pass was clean.**
-fades            `went on for a long time` / `went on a long time` -> 0. `afterwards` -> 2, neither of them
-                 standing in for a scene. 299 is a scene and the act is on the page.
+fades            `went on for a long time` / `went on a long time` -> 0. **This row is now true and was
+                  false: the word was present four times and three of the four were standing in for the
+                  scene.** See §6 finding 1.
 ```
 
 **THE THREE ROWS THAT EARLIER BLOCKS IN THIS VOLUME GOT WRONG, AND WHAT THIS BLOCK DOES ABOUT THEM.**
@@ -220,3 +239,101 @@ scene is at 299, the irreversible decision is 296, the seventh line closes blank
 figure of eight thousand one hundred and thirty-eight is answered and not erased. **What changed is that the
 volume now ends with a thing that is classifiable and a reason for an institution to want to, written by
 nobody but the man it is about, and that he has not been classified.**
+
+---
+
+# 6. THE REPAIR PASS. INDEPENDENT REVIEW, AND WHAT IT FOUND.
+
+**An independent review returned three blocking findings and one minor against the block above. Three of the
+four had been recorded as clean in this file. All four are fixed. Nothing else in the batch moved: no date,
+no event, no decision, no chapter outside 291–300, and no planned plot.**
+
+## 6.1 FINDING 1 — CHAPTER 299's SCENE WAS SUMMARISED, NOT WRITTEN
+
+**The scene body was 695 words inside a 2,634-word chapter, carried by seven summary paragraphs.** The
+three that mattered: one sentence standing in for the whole hour and a half, two paragraphs opening *At
+some point she…*, and two paragraphs using `afterwards`. **This is the defect Batch 0004's reviewer found
+in Chapter 289, in this same volume, and §4.2 of this file asserted the opposite.** The secondary fault was
+that one of the summary paragraphs embedded speech inside a narration paragraph.
+
+**THE SCENE IS NOW WRITTEN OUT. MEASURED ON THE REVIEWER'S OWN FRAME, THE SCENE BODY THAT WAS LINES
+141–179 AND 695 WORDS IS NOW LINES 141–260 AND 1,799 WORDS; the block from *She was not fast.* to the
+aftermath on its own is 1,308.** Every beat the summary carried is still on the page and is now dramatised
+rather than reported:
+
+- He is careful and she stops it — *careful is a man watching a woman* is not restated, it is enforced.
+- He counts her instead of listening and she catches it and makes him start again, which is the chapter's
+  argument about accuracy turned into an action.
+- She says the figure in a flat voice and makes him say **eight thousand one hundred and thirty-eight** five
+  times, and he does not put a face on it.
+- She tells him nine seconds before she stops and he is wrong twice, because she can hear a body in a room.
+- He comes out four minutes past and she says so in about four words and will not repeat them.
+- She puts her hand over his mouth when he starts to turn the worst thing anybody has said to him into a
+  thing he is going to carry — **which is the man the whole volume has been describing, refused inside the
+  one scene in which he is wanted.**
+
+**WHAT IT COST.** The chapter is **3,780 words**, outside the 1,800–2,700 band, up 1,146 on the draft the
+review found. **This is the named exception the batch prompt requires, and its reason is this finding: the
+earlier 2,634-word chapter did not fit the band because 695 of its words were a summary of a scene that was
+never written.** Nothing was padded. The other nine chapters moved only where a date figure was wrong.
+
+## 6.2 FINDING 2 — THE 12-GRAM ROW REPORTED 0 AND WAS NOT 0
+
+**Nine duplicate 12-gram windows touched the batch and are cut. Re-run after the last edit: 0 under both
+tokenisations, which is stated with its tokenisation and its scope in §5 and in the gate block.**
+
+| Where | What was repeated |
+| --- | --- |
+| 293:19, :51, :107 | *nothing has been added in a hand that is not one of ours*, **three times in one chapter**. **This was also an independent re-explanation failure — one rule, stated three times — and not only a scan hit.** |
+| 299:125, :131 | *in the margin in my own hand and you are not going to initial it*, six lines apart |
+| 299:73, :165 | the first-of-July tram sentence, undeclared |
+
+**The old figure of 137 is gone rather than defended, because it did not reproduce.** What the files return
+is in §5. **The one echo this batch still runs on purpose is 291's *Six lines,* she said* against *Six*,* and
+it is four words and it is named in the gate block rather than quietly excluded.**
+
+## 6.3 FINDING 3 — THE DATE ARITHMETIC WAS STILL WRONG
+
+**Seven printed figures were wrong. All seven are corrected, and a seventh error in 293 and an eighth in 296
+were found while checking the first four.**
+
+| # | Where | Was | Now | Why |
+| --- | --- | --- | --- | --- |
+| 1 | 293:101 | *a certificate he had signed twice **nine days** ago* | **seven days** | the certificate is dated the first of September and 293 is the eighth; 293:111 already said seven days later |
+| 2 | 296:161 | *Since the twenty-fourth of July — **three months and twenty-three days*** | **one month and twenty-three days** | 24 July to 16 September |
+| 3 | 297:125 | *on the twenty-second of August … and **eight days** later a man with a pencil* | **seventeen days later** | 22 August to 8 September |
+| 4 | 298:13 | *Five under since the **thirtieth of August**, which is thirty-one days* | **the thirtieth of July, which is sixty-two days** | closed Chapters 286, 287 and 288 all put five under from the thirtieth of July |
+| 5 | 299:115 | *you have had it right in your head for **eighteen days*** | **thirty-one days** | 30 August to 30 September; 298:13 already had thirty-one |
+| 6 | 300:9 | *the promise he made on the **nineteenth of August*** | **the nineteenth of September** | 297 stages the promise on the nineteenth of September; twelve days to the first is then right |
+| 7 | 300:89, :99 | *in **twenty-four days*** / *legible in four buildings for **twenty-four days*** | **inside a quarter** / **since the second of August** | the six documents run from the corrected composition read at seven on the second of August to the quarter-book on the eighth of September, which is inside one quarter |
+
+**297 also had a dialogue paragraph that opened without a quotation mark. It is now marked as dialogue.**
+
+**THE STANDING LESSON, AND IT IS THE SAME LESSON AS FINDING 2: three consecutive batches in this volume have
+now reported a clean gate row that was not clean, and in every case the row that lied was a row the writing
+pass wrote about its own work. A gate record is a claim. Re-run it against the file, from outside the pass
+that wrote the file, and let the re-run outrank the record.**
+
+## 6.4 FINDING 4 — THE MINOR FINDING WAS REPRODUCIBILITY, NOT PROSE
+
+**The `rationed constr.` row gave a number with no regex, which is the same defect class as the 12-gram row.
+Both regexes are now printed with both counts — 19 narrow, 22 wide — and per-chapter counts are given for
+each.** The previous figure of 20 reproduces under neither pattern. The review pass also cut two more from
+299 while the scene was written.
+
+## 6.5 DISPATCH NOTE, AND IT STILL STANDS
+
+**Chapter 300 is Volume 6's last, and `outline/batches/volume-07-batch-0001/prompt.md` already exists.**
+**The next phase must NOT also emit a Volume 6 volume-close, or Volume 7 acquires two entries.** The stale
+figures the Volume 7 prompt carried from this block have been corrected in place.
+
+## 6.6 WHAT WAS CHECKED AFTER THE LAST EDIT AND DID NOT MOVE
+
+Titles: 300 total, none duplicated, none over 90 characters, none of the batch's ten begins with *What*,
+Volume 6 still at zero. Markup: bold 3, italic 8, blockquote 0, table 0, rule 0, code 0 — **unchanged by
+the repair.** System panels: 0, structurally, no `[` character in any of the ten. Quotation marks even in 10
+of 10. Paragraphs over ninety words: 0; over 120: 0. Exact-duplicate paragraphs 281–300: 13 groups, all
+quoted dialogue beats, **unquoted 0**. `nobody` case-insensitive: 9. `no person`: 0. `He understood`,
+`He also understood`, `He felt`, `He had woken wanting`: 0 in each. No day of the week named in any of the
+ten. No blockquote, table, rule or code block anywhere in the batch. **No closed chapter was touched,
+including 289, whose defect this batch repeated.**

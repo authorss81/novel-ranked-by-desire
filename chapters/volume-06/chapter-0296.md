@@ -158,7 +158,7 @@ The door at the top of the stairs was open six inches and the two of them could 
 
 "Say it."
 
-"I have not looked under that column since the twenty-fourth of July." Solveig Rask closed her hand on the pen. "Three months and twenty-three days, and I did it for a reason I gave you in August, and the reason was that this room changes hands on the seventeenth and after that I would not be the only woman able to put a figure on a page about your account."
+"I have not looked under that column since the twenty-fourth of July." Solveig Rask closed her hand on the pen. "One month and twenty-three days, and I did it for a reason I gave you in August, and the reason was that this room changes hands on the seventeenth and after that I would not be the only woman able to put a figure on a page about your account."
 
 "You were not going to be one of several."
 

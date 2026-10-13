@@ -31,18 +31,29 @@ have been.
 >
 > **3. RUN THE 12-GRAM SCAN FIRST, AGAINST EVERY CHAPTER IN THE BOOK INCLUDING YOUR TEN, AND BEFORE THE 8-WORD
 > SENTENCE SCAN, AND RUN IT AGAIN AFTER EVERY REPAIR.** Batch 0004's first pass returned 131 and its final was
-> 14; Batch 0005's first pass returned **137 and its final was 0**. **A large first figure is this book's normal
-> condition and not a surprise. Every one of them is a real defect. Cut them by hand and do not exempt one as a
-> refrain.** **A figure quoted from an earlier chapter is not free, because the book is one voice.** State the
-> tokenisation with the number — **whitespace split with case and punctuation significant** is the headline test
-> and the punctuation-stripped lower-cased variant must be reported beside it. **One deliberate echo per batch is
-> the most this book has ever allowed and even that must be named in the gate block.**
+> 14. **A large first figure is this book's normal condition and not a surprise. Every one of them is a real
+> defect. Cut them by hand and do not exempt one as a refrain.** **A figure quoted from an earlier chapter is not
+> free, because the book is one voice.** State the tokenisation with the number — **whitespace split with case and
+> punctuation significant** is the headline test and the punctuation-stripped lower-cased variant must be reported
+> beside it — **and state the scope, and print the number a command returns against the files after your last
+> edit. One deliberate echo per batch is the most this book has ever allowed and even that must be named.**
+> **DO NOT QUOTE AN EARLIER BATCH'S FIGURE. Batch 0005 recorded a first pass of 137 and a final of 0, and an
+> independent re-run of the committed files did not reproduce either: it found 9. Three batches in this volume
+> have now reported a clean gate row that was not clean, and every time the row was written by the same pass
+> that wrote the prose. A gate record is a claim. Re-run it from outside the pass and let the re-run outrank the
+> record.**
 >
 > **4. SEARCH YOUR OWN CHAPTERS FOR `it went on a long time` AND `afterwards` AND TREAT EVERY HIT AS AN UNWRITTEN
 > SCENE.** A fade passes every mechanical gate, because a fade has perfect quote balance, one system panel and no
-> repeated words. **Chapters 279, 289 and 299 were all written against that finding and 299 has been checked again
-> by the reviewer.** `AGENTS.md`: *Write the actual scene. Explicit, physical, arousing, unhurried once it begins.
+> repeated words. **Chapters 279 and 289 were written against that finding and 299 WAS WRITTEN AGAINST IT AND
+> STILL SUMMARISED ITS SCENE — seven paragraphs, two of them opening "At some point she…", standing in for an hour
+> and a half. It passed every gate in Batch 0005's own record and an independent reviewer found it.**
+> **COUNT YOUR OWN SCENE WORDS. If your scene chapter's scene body is under about nine hundred words, you have not
+> written it.** `AGENTS.md`: *Write the actual scene. Explicit, physical, arousing, unhurried once it begins.
 > Implication and fade-to-black are not the target. The scene is the product.*
+> **A SCENE MAY TAKE A CHAPTER OUTSIDE THE WORD BAND AND SAY SO.** 299 is 3,780 words, over a band of
+> 1,800–2,700, with the exception named in the gate block: it is the volume's only scene chapter and the shorter
+> draft did not fit the band because its scene was a summary.
 >
 > **5. WRITE THE DATE, NOT THE DAY.** A month is thirty days and has no thirty-first. **Only Thursday is ever named
 > in this book, and Volume 6's last forty chapters name no day of the week at all, which is a stronger result
@@ -50,6 +61,15 @@ have been.
 > **The gate passes precisely when the word is misused.** A hand trace has found real calendar errors in twelve
 > batches running after a clean mechanical pass. **Trace every date to an anchor and answer, in the row, what the
 > anchor character actually does on that date.**
+>
+> **5a. AND DO NOT TRUST A DATE FIGURE THAT CAME OUT OF A GATE ROW. Volume 6, Batch 0005 printed SIX day counts
+> that were wrong and recorded all six as right — after it had already found three on its own first pass and
+> ruled on two of them wrongly.** The worst was Chapter 298 saying *five under since the thirtieth of August*
+> where closed Chapters 286, 287 and 288 all say the thirtieth of **July**. **Subtract every interval out loud
+> and count it against a date that is printed somewhere else in the manuscript, not against your own memory of
+> the chapter you are writing.** The corrected figures are in `state/continuity.md` §2 and they are the ones to
+> inherit. **A batch's own arithmetic ruling is not a check on itself: §3.2 of Batch 0005's review file contains
+> two rulings that were themselves wrong.**
 
 ## 1. THE VOLUME'S SENTENCE
 
@@ -77,8 +97,8 @@ of his household (296).**
 **THE ENGINE OF THIS VOLUME IS ONE SENTENCE AND IT IS ON THE LAST PAGE OF CHAPTER 300: a classification does not
 need a man in it. It needs an address, and a figure, and a reason.** He has all three on a page in a real book,
 in his own handwriting, and he has not been classified. **He made himself describable, which is worse, because
-describable means somebody else can write the sentence.** Seven documents about one address in four buildings in
-twenty-four days, and not one of them has his name at the top of a page — and a woman who took the keys of a
+describable means somebody else can write the sentence.** Seven documents about one address in four buildings
+inside a quarter, and not one of them has his name at the top of a page — and a woman who took the keys of a
 counting room on the seventeenth of September has never met him, has had his address in a book for two days,
 and is nobody's enemy yet.
 
@@ -88,8 +108,9 @@ and is nobody's enemy yet.
 
 > **INHERIT `state/current.md` §2 AND `state/continuity.md`'s Batch 0005 block FOR EVERY COUNT, AND WRITE EACH
 > RULE ONCE, IN FULL, AND NEVER REFER BACK TO IT BY PARAPHRASE.** Batch 0005's 12-gram figure is **0** under
-> **the whitespace split with case and punctuation significant** (first pass **137**, all cut) **and 0** under a
-> **punctuation-insensitive lower-cased variant** (first pass **12**, all cut). **Say which one you ran.**
+> **the whitespace split with case and punctuation significant** and **0** under a
+> **punctuation-insensitive lower-cased variant**, measured over all 300 chapters after the repair pass cut the
+> last nine. **Say which one you ran and against what scope.**
 
 1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day of a quarter.**
 2. **August 1 is a Tuesday. August's Thursdays are the third, the tenth, the seventeenth and the twenty-fourth —
@@ -270,7 +291,7 @@ exact-duplicate paragraphs  0, on the WHOLE-PARAGRAPH test, batch AND neighbours
                             AT EVERY FLOOR.** Do not turn this into a first-three-words test: on a clean batch
                             that returns a dozen ordinary openers. **Test identity, not opening words.**
 nobody / no person / He understood / He also understood     each reported, not assumed, with the lines read
-                            back out of the file. Batch 0005 reported 10 and listed all ten. **COUNT
+                            back out of the file. Batch 0005 reported 9 and listed all nine. **COUNT
                             CASE-INSENSITIVELY: Batch 0004's block reported 9 against a true 16 and a
                             reviewer found all sixteen.**
 He had woken wanting        reported as a count out of 10
@@ -281,10 +302,12 @@ weekday                     only Thursday is named; every other weekday -> 0, wh
 meta / fourth wall / ages   0. **No chapter announces an age.** `bible/characters.md` fixes every age.
 12-gram scene scan          **RUN THIS FIRST, AGAINST ALL CHAPTERS INCLUDING YOUR TEN, AND BEFORE THE
                             8-WORD SENTENCE SCAN, AND RUN IT REPEATEDLY AFTER EVERY REPAIR.**
-                            **STATE THE TOKENISATION WITH THE NUMBER.** Batch 0005's gate splits on whitespace
-                            with case and punctuation significant: first pass **137**, final **0**; the
-                            punctuation-stripped lower-cased variant: first pass **12**, final **0**.
-                            Book-wide those two scans return **2,282** and **2,961** across 300 chapters.
+                            **STATE THE TOKENISATION AND THE SCOPE WITH THE NUMBER, AND PRINT THE FIGURE A
+                            COMMAND RETURNS AGAINST THE FILES AFTER YOUR LAST EDIT.**
+                            Batch 0005's gate splits on whitespace with case and punctuation significant, and
+                            the punctuation-stripped lower-cased variant is reported beside it. **Do not copy a
+                            figure from an earlier batch's block: 0005's recorded 137/0 and 12/0 did not
+                            reproduce, and an independent run found 9 touching that batch.**
 quote balance               An even number of quotation marks in every chapter file, tested whole-file.
                             **Batch 0004 broke this nine times and the review is in
                             `reviews/volume-06/batch-0004.md` §3. Read §3 before you write.**

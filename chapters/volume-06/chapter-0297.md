@@ -122,11 +122,11 @@ The kitchen went quiet in a way he had not heard it go quiet before.
 
 "So ask it properly."
 
-"I am asking it properly." Wren Kallo had both hands flat on the table and she was not looking at him. "I have told six people a thing in five months and I cannot stop, and on the twenty-second of August I filed it and made it ordinary, and eight days later a man with a pencil wrote my number in the margin of a quarter-book and that is the price of boring and I have known it for eleven days."
+"I am asking it properly." Wren Kallo had both hands flat on the table and she was not looking at him. "I have told six people a thing in five months and I cannot stop, and on the twenty-second of August I filed it and made it ordinary, and seventeen days later a man with a pencil wrote my number in the margin of a quarter-book and that is the price of boring and I have known it for eleven days."
 
 She looked up.
 
-And if I take an address at that door on the thirtieth the figure is eight and a woman I live with carries the difference for the rest of her life, and if I take one and go again on the morning of the first that is fraud, and I have not committed one in nineteen years.
+"And if I take an address at that door on the thirtieth the figure is eight and a woman I live with carries the difference for the rest of her life, and if I take one and go again on the morning of the first that is fraud, and I have not committed one in nineteen years."
 
 "So do not take one."
 

@@ -9,7 +9,7 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batches 0001 (251–260), 0002 (261–270), 0003 (271–280) and 0004 (281–290) written. Scenes at 261, 269, 279, 289, 299 — **261 is Isolde Marchetti's and is written; 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it; 279 is Wren Kallo's and is written; 289 is Sun Meiling's and is written; 299 unwritten.** At 290: **the composition of premises 34-6-118 is certified at seven with the seventh returned line permanently blank and permanently counted, a bar described on the face of the certificate in his own hand, and Sun Meiling in ink underneath it** · **8,138 stands against the broker's account of thirty years, published by a reconciliation initialled and not signed, and the page says in terms that it is not a price** · **Marguerite Vale's statement with eleven on a table is in four divisions** · **the plate is five under a floor of 8,143 in the word OUT OF BAND** · **and the turn of the quarter is the first of October, which is also the morning a sworn enforcer knocks twice at his door because a head cannot refuse her.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** |
 
 
 > **Volumes 1 to 5 are CLOSED IN PROSE and their per-chapter summaries are at
@@ -782,8 +782,13 @@ correction in the margin in her own hand and will not let him initial it**, beca
 page will carry both their hands and one correction of hers would make every line on it hers, and she will
 not have that on a page that says eight thousand one hundred and thirty-eight next to the seventh of June.
 She directs the rest of it too — not gentle and not careful, because *careful is a man watching a woman* and
-she has been watched every day of nine years and never once read — and she makes him listen to the street and
-tell her what it is doing, and she lasts longer than he does and says so in about four words. **Beforehand
+she has been watched every day of nine years and never once read — and she makes him listen to the street
+and tell her what it is doing. **The scene is written out and it is the batch's longest chapter: he counts
+her instead of listening and she catches it and makes him start again; she says the figure in a flat voice
+and makes him say eight thousand one hundred and thirty-eight five times without a face on it; she tells him
+about nine seconds before she stops and he is wrong twice; he comes out four minutes past and she says so
+in about four words and will not repeat them; and when he starts to turn the worst thing anybody has said to
+him into a thing he is going to carry, she puts her hand flat over his mouth.** **Beforehand
 she forbids him to come to the guild with her in the morning and takes the shape of it apart: a woman
 brought to a counter by the man whose household is on a certificate stops being a woman defrauded of a date
 and becomes a woman being helped, and the guild will put the help in the file instead of the answer. He
@@ -802,7 +807,7 @@ keeper he has never met says that a book with the same number twice from the sam
 coincidence, and that the account will carry that mark for as long as it is open. Beatrix Halm is at a guild
 counter at ten with a notebook and nothing in her hands, it takes six minutes, and he is nine hundred yards
 away keeping the whole of what he promised at eleven o'clock the night before. **And the close: six
-documents about one address in four buildings in twenty-four days, and not one of them has his name at the
+documents about one address in four buildings inside a quarter, and not one of them has his name at the
 top of a page. A classification does not need a man in it — it needs an address, and a figure, and a
 reason — and the system has not looked for him; it has read six papers in the order they arrived and drawn
 one line between them, and the line is an address.** He was not classified. He made himself describable.

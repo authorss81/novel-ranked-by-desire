@@ -6,7 +6,7 @@ At eight o'clock a woman with a bundle knocked twice at a door at the bottom of 
 
 He was not there.
 
-He was not in the yard and he was not in the building and he had not been in the building since about eleven the previous night, which was the promise he made on the nineteenth of August and had kept for twelve days and about which nobody had ever once asked him.
+He was not in the yard and he was not in the building and he had not been in the building since about eleven the previous night, which is the promise he made on the nineteenth of September and had kept for twelve days and about which nobody had ever once asked him.
 
 Petra Ilyin knocked twice, and then she stood on the step for about eleven seconds, and then she put a folded docket under the door and came back up the sixty-one steps with the bundle under her arm.
 
@@ -86,7 +86,7 @@ Nadia Ferrous's page, blank on the twenty-ninth leaf on purpose. The composition
 
 And the priced line of the sixteenth of September, four lines, two letters at the foot, an address and a figure of seven, in four divisions by the end of the week and in the ordinary stream of the fifth on the twenty-first.
 
-Six documents about one address in one city in twenty-four days, and not one of them had his name at the top of a page.
+Six documents about one address in one city inside a quarter, and not one of them had his name at the top of a page.
 
 A page of accounts carries a name at the top.
 
@@ -96,7 +96,7 @@ A certificate carries a name at the foot of it and at the head of it, and he had
 
 And there was a quarter-book on a store shelf with his initials on the shelf, and a certificate with a bar on the face of it in six lines that he had written to describe the defect of the instrument he was certifying, and a broker's statement about a pen that a man in a grey coat at the bottom of a street had been in the room for.
 
-He stood on the hill at about half past ten and found out that he had been legible in four buildings for twenty-four days without ever once being named at the top of anything.
+He stood on the hill at about half past ten and found out that he had been legible in four buildings since the second of August without ever once being named at the top of anything.
 
 **A classification does not need a man in it.** It needs an address, and a figure, and a reason.
 

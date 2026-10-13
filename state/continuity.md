@@ -28,6 +28,21 @@ long-range position, before any of this.**
 `state/open-threads.md`; the day map, the arithmetic and the repair record are in
 `reviews/volume-06/batch-0005.md`. Batch 0004's block is below this one and is superseded as to position.
 
+> **REPAIRED ON INDEPENDENT REVIEW — READ THIS BEFORE INHERITING ANYTHING IN THIS BLOCK.** An independent
+> review found three blocking defects and one minor, **three of which this block had recorded as clean.**
+> All are fixed and the full record is `reviews/volume-06/batch-0005.md` §6 and the repair block at the head
+> of `state/open-threads.md`. **Four things a later batch must not inherit in the form they were written:**
+> 1. **The day counts in §2's "Printed on the page" column were wrong in six places and have been
+>    corrected in the column itself.** The worst was 298 putting five under since the thirtieth of August
+>    when closed Chapters 286, 287 and 288 all put it since the thirtieth of **July**.
+> 2. **The 12-gram figure of 137 in this file's sibling gate block did not reproduce.** The honest
+>    measured figures, with tokenisation and scope, are in the gate block.
+> 3. **Chapter 299 is 3,780 words and is outside the 1,800–2,700 band by a named exception.** It is
+>    Volume 6's only scene chapter and the earlier, shorter draft did not contain its scene.
+> 4. **A gate row written by the pass that wrote the prose is a claim, not a result.** Three consecutive
+>    batches in this volume have now reported a clean row that was not clean, every time in the same
+>    direction. Re-run from outside.
+
 > **READ THIS BEFORE WRITING 301. THREE THINGS ARE NOW ON THE PAGE AND A FOURTH BATCH MAY NOT RE-DERIVE THEM.**
 >
 > **1. THE RESERVOIR IS PRICED, AND THE PRICE IS SEVEN, AND HE ASKED FOR IT.** Chapter 296. Under the column
@@ -69,14 +84,14 @@ book** · **299 the night of the thirtieth** · **300 the first of October, the 
 | --- | --- | --- | --- | --- |
 | 291 | **2 Sept** | **28** | 29 | twenty-eight to the thirtieth, twenty-nine to the morning |
 | 292 | **5 Sept** | **25** | 26 | twenty-five days, elapsed, to the thirtieth |
-| 293 | **8 Sept** | **22** | 23 | twenty-two days, and the last one is the thirtieth |
+| 293 | **8 Sept** | **22** | 23 | twenty-two days, and the last one is the thirtieth; **seven days** since the certification |
 | 294 | **12 Sept** | 18 | **19** | nineteen; twelve on the nineteenth; seven on the twenty-fourth; two on the twenty-ninth |
 | 295 | **15 Sept** | 15 | 16 | six weeks given on the twentieth of July, expiring on the first |
-| 296 | **16 Sept** | 14 | **15** | fifteen days to the turn; three months and twenty-three days since the twenty-fourth of July |
-| 297 | **19 Sept** | 11 | 12 | nineteen out, and the count stops changing on the thirtieth |
-| 298 | **30 Sept** | **0** | 1 | five under for thirty-one days; six under from this morning |
-| 299 | night of 30 Sept | 0 | 1 | the turn at midnight, the corner by the shop four minutes after, back at twenty-one minutes past four |
-| 300 | **1 Oct** | — | **0** | eight o'clock; ten to nine; the band floor 8,144 |
+| 296 | **16 Sept** | 14 | **15** | fifteen days to the turn; **one month and twenty-three days** since the twenty-fourth of July |
+| 297 | **19 Sept** | 11 | 12 | nineteen out, and the count stops changing on the thirtieth; **seventeen days** from the twenty-second of August to the pencil note |
+| 298 | **30 Sept** | **0** | 1 | **five under since the thirtieth of July, which is sixty-two days**; six under from this morning |
+| 299 | night of 30 Sept | 0 | 1 | the turn at midnight, the corner by the shop four minutes after, back at twenty-one minutes past four; **thirty-one days** since the thirtieth of August |
+| 300 | **1 Oct** | — | **0** | eight o'clock; ten to nine; the band floor 8,144; **the promise of the nineteenth of September kept for twelve days** |
 
 Anchors, unchanged and all of them inherited: **Petra Ilyin off every roll 4 June** · **the call entered
 20 July at 16:25** · **the correction filed 30 July at 23:25** · **Ines Duarte's composition return of the
