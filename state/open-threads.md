@@ -1,3 +1,231 @@
+# VOLUME 11 BATCH 0003 — CHAPTERS 521–530 ARE ON DISK, TEN FINISHED FILES, 22,240 WORDS. THE EIGHTH OF OCTOBER OF YEAR TWO TO THE THIRTIETH OF SEPTEMBER OF YEAR THREE. **WRITTEN 13 OCTOBER 2026. MOVEMENT THREE, ENTERED. THIS IS THE LIVE GATE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> **A WRITING PHASE. IT WROTE TEN CHAPTERS, FOUR STATE FILES, ONE OUTLINE REVISION AND ONE NEXT PHASE PROMPT, AND NO PROSE THAT IS NOT A CHAPTER.**
+
+## WHAT THIS BATCH DID, IN TEN LINES
+
+1. **521, THE EIGHTH OF OCTOBER — FOUR HUNDRED IS A TOTAL, AND A COUNTER IN A CORRIDOR.** The exact anniversary of the second line going onto the ranks wall, which was the eighth of October of year one; the wall repainted twelve times and taken nothing with it twelve times; the boy with the paste brush does four inches in nine seconds and has never been asked what the words are for. **THE FOUR HUNDRED IS `chapter-0500.md:35` AND IS A TOTAL: HE THINKS ABOUT DIVIDING IT BY ABOUT NINE HUNDRED A DAY AND DOES NOT, AND HE GIVES THE REASON — A TOTAL TELLS YOU HOW MANY AND A RATE TELLS YOU WHAT TO EXPECT, AND A MAN WHO WORKS OUT A RATE HAS AGREED TO BE THE PERSON WHO EXPECTED IT.** What changes: a ratchet counter on the wall of a pool-of-eleven corridor, four feet up, never read, jammed twice and freed with a penknife — **NINE HUNDRED AND ELEVEN PEOPLE PAST THAT DOOR IN TWENTY-ONE MONTHS = SIX HUNDRED AND THIRTY DAYS, THIRTY A MONTH, TWELVE MONTHS AND NINE**, about forty-three a month. Adeyemi reads it weekly into a line that goes nowhere. **HE SAYS THE RATIO OUT LOUD ONCE AND IT IS ONE IN NINE HUNDRED: THREE THINGS IN THE DRAWER, TWO OF WHICH CAME OFF A SHEET HE ANSWERED AND DID NOT COME THROUGH THAT DOOR, SO ONE THING HAS COME IN OFF A STREET FOR EVERY NINE HUNDRED PEOPLE WHO CAME.** Adeyemi refuses to enter it and gives four things. He admits he bought the notebook on the second of October, six days BEFORE he asked the question.
+2. **522, THE TWENTY-SEVENTH OF OCTOBER — ONE IN NINE HUNDRED, AND A NEW LEDGER.** A notebook from the second counter at eleven cents with a printed label on it, four years after he handed the last one across a public counter in ninety seconds. **THE DIFFERENCE BETWEEN THE TWO BOOKS IS THAT NOBODY WILL EVER READ THIS ONE, AND THE CHAPTER SAYS OUT LOAD THAT THAT IS NOT A DEFENCE AND IS THE ENTIRE REASON HE WANTED IT.** Five lines under the label, then three more: conditions met, conditions not met, **came and said nothing at all** — which is the largest of the three and he knows it on the twenty-third with four days of evidence. Adeyemi's four things are recorded on the page; the second is that the nine in ten are not lost and the third is that a stranger with a folder in four years cannot tell a right book from a wrong one. **HE BREAKS HIS OWN RULE — a count is only a count if it is written at the time it is counted — once, on the twenty-fourth, and does not break it again.** Ends on the finding that both figures are right and he has no answer for it.
+3. **523, THE THIRTIETH OF NOVEMBER — LAMPLIT ROW.** **CORVIN ASHBY**, six rooms and a shop, a figure off a slate quoted into a lease at about four times what the room takes, a woman in number four for nine years with nothing since the ninth month. He is not a crook and he is not careful either, which costs more. **HE ASKS WHETHER A SLATE CAN BE PRODUCED IN ANSWER TO A QUESTION — THE EXACT QUESTION A WOMAN ASKED AT THAT COUNTER IN OCTOBER OF YEAR ONE — AND THE ANSWER IS THE SAME ONE.** Wenna Raut enters his name and one permitted sentence and says the sentence does not help him. **WHAT CHANGES: the Register's first entry that is a person's complaint, and the first demonstration that the four conditions do not describe a man who has been done wrong.** He does not go down the hill, and the reason is said out loud to a clerk who did not ask for it: **he told a Registrar on the thirtieth of September of year one that he would not take another man's two words off a slate for standing on the wrong surface, and a man who has said that cannot ask for a third word off the same man in the same week.** Ashby opens the door on the first of January; 524 is that day.
+4. **524, THE THIRTIETH OF DECEMBER, QUARTER-END — TWO NAMES AND NO DEEDS.** **AGNETE LINDQVIST COMES FIRST, AS SHE SAID IN A KITCHEN SHE WOULD**, and brings a certified copy of her own refusal of the ninth of October of year one. **THREE CONDITIONS MET AND THE FOURTH NOT GIVEN, BY THE PERSON WHO WOULD HAVE BEEN THE ONE TO GIVE IT, because she put it on a page on purpose in order to stop anybody claiming the wall line.** The clerk enters a name and not a deed. Eighth sheet, five entries, two names and no deed. **SHE SAYS HER ONE THING: the four lines went out on the thirtieth of June and about four thousand people have had six months with four conditions, they will arrive having read the conditions and picked the ones that pass, and the nine in ten they leave behind will hear about themselves from somebody in a yard.** Not resolved. Agnete has not claimed the wall line and does not.
+5. **525, THE TWENTY-FIRST OF JANUARY — THE SCENE. MARGUERITE VALE.** Her rooms off Ferrier Street. **THE REAL BOOK COMES IN UNDER HER ARM, GOES ON THE TABLE UNDER HER LEFT HAND, GOES TO THE FLOOR UNDER HER ARM WHEN SHE STANDS UP, AND HER LEFT HAND IS ON IT FOR THE WHOLE EVENING, AND THE TERMS ARE NEVER READ OUT ON THE PAGE — the room's rule is that nothing in it is said out loud, and about a third of the answers to a question are that sentence.** Rask's books met on the sixteenth of November and did not move; the hand-closed entry of the second of October has no reopening form and the keeper may not countersign anything about a figure already on a wall, so she loses eleven years of standing on a date. **AFTERWARDS SHE WRITES LAMPLIT ROW AND ITS TRUE FIGURE ON A CARD OUT OF HER OWN MEMORY WITH NOTHING BEHIND IT, GIVES IT TO HIM, SAYS SHE HAS NOT DECIDED WHAT SHE WANTS FOR IT, AND SAYS IT DOES NOT GO IN THE REGISTER.** **HE ENTERS IT ON THE TWENTY-SEVENTH AGAINST HER EXPLICIT INSTRUCTION, AND THE CHAPTER ENDS ON THE NOTEBOOK LINE THAT IS THE WHOLE OF HIS ARGUMENT: *the fourth condition says it is not on a page anywhere in this city.* A second irreversible act, and it is his.
+6. **526, THE TWENTY-EIGHTH OF FEBRUARY — THE WRONG QUESTION, ASKED AT LAST.** Sun Meiling at the far table, asked nothing for the fourth time and now asked. **HE ASKS WHETHER THE MAN SHE WORKED WITH WAS RIGHT AND IT IS THE WRONG QUESTION**, because she lost the ability to see a single thing clearly and her three-year answer has gone soft into four shapes, one of which is about a street. **WHAT SHE GIVES HIM: he was not working on an account, he was working on whether a figure about a street can be wrong, he could not find a second place to check it, and that was the finding and not the failure — and then he went looking for a WORD, and the word is the two on the foot of the ranks wall.** Not owed. Not benefited. Not witnessed. **Carried.** Hanneke Ruis stands up, straps the fifth book and goes out and says nothing. Sun Meiling's warning for a filled column is on the page: it would fill faster than anything in this city's history and not one grain would have been earned by anybody in it.
+7. **527, THE THIRTIETH OF MARCH, QUARTER-END — CARRIED BY.** Four words on the office's foolscap and the clerk enters them in the office's own hand: **a second column headed *carried by*, the first use in three years of the two words off the wall anywhere but the wall and a slate in a lane.** **HER ANSWER IS THE CHAPTER AND IT IS CORRECT: it will fill with people who cannot name a day, and those are the people the four lines were built to leave out, so about nine in ten of what comes will land in the second column and be in it by accident.** And her second answer: a person who can name a day and would not come is a different animal, and the biggest reason for that is that being carried is not something anybody is proud of. **ENTERED: NINETEEN — five before the definition took effect on the thirtieth of September of year two and fourteen in six months, out of about a hundred and forty people who came to the counter with a thing in their hands.** The second column is empty at four o'clock and about four thousand people find out about the heading from a board in a public street. The clerk says it is the first thing she has ever entered that she is certain of.
+8. **528, THE TWENTY-SEVENTH OF APRIL — HALF THE LANE BELIEVES IT.** Cordwain splits in eleven days and the two halves never argue, because they are both reading the same city. **ABOUT A HUNDRED PEOPLE OF THE CHURCH COME DOWN THE HILL IN ELEVEN DAYS OUT OF A ROLL BY LOT; NINE BRING SOMETHING THE FOUR CONDITIONS CAN TAKE; ROSALIND KECK IS THE FIRST, AND HER ENTRY IS THE FIFTEENTH THING THAT HAS EVER GONE INTO THE REGISTER OFF A STREET.** He goes down at six on a night shift with the cough in him, does not pay a grain, does not stand in the line, and **stands against the side wall of the lane for an hour doing nothing**, which no person has done there in nineteen thousand mornings. **WHAT CHANGES: EMIL BRACK OFFERS EVERY FIGURE HE HAS MADE UP, AND THE METHOD, AND THE NINE HE DECIDED OFF NOTHING, AND THE ONLY THING HE WANTS IS HIS NAME ON THE SHEET ONCE A QUARTER, IN THE OFFICE'S HAND, SAYING THAT HE MAKES THEM UP.** Lin Hao has four reasons and says none of them and says *I am not going to say anything tonight*, and Brack says that is worse than no, because no is a thing a man can plan around. **THE OFFER IS UNANSWERED AND STANDS INTO MOVEMENT FOUR.** Lane mornings printed once in the batch, with operands: **nine hundred and twenty-five**.
+9. **529, THE THIRTIETH OF JUNE, QUARTER-END — SMALLER AND NOT WRONG.** *Entered: thirty-one*, twelve in a quarter, nine of them in April from about a hundred people, and about one a month since. **THE REASON IS A CORRECTION AND NOT A SLUMP: A PERSON WHO CANNOT NAME A DAY DOES NOT COME TWICE, AND THINKING ABOUT A THING ONCE IS A STRANGE EXPERIENCE AND THINKING ABOUT IT TWICE IS NOT AN EXPERIENCE AT ALL.** So the Register is counting the people who could describe themselves, and the figure is a rate of description and not a rate of kindness. He says the reading out loud to the one person he can say it to. Adeyemi tells him to write the correct sentence. **HE DOES NOT, FOR A REASON GIVEN ON THE PAGE:** Alma Quayle's classification is what a division may carry and it is about four lines and not about a line about what the four lines mean, and the moment this office prints an interpretation of itself there are two documents and the one that is easier to quote will be the one not written by an officer who classifies words for a living. **HE WRITES A PREDICTION AT FOUR IN THE MORNING INSTEAD OF A FIGURE — it is going to be used and not quoted, and the name on it is going to be somebody who can describe herself — NINE DAYS BEFORE IT CAME TRUE, AND HE KNEW THAT IT WOULD.**
+10. **530, THE THIRTIETH OF SEPTEMBER, QUARTER-END — A THRESHANT IS A FLOOR. THE BATCH'S IRREVERSIBLE DECISION.** Rosalind Keck at a quarter past ten, twice, asking for her entry to be struck, because her brother read the sheet off the board at the bottom of the hill and said out loud in a kitchen with her sister there that the boy on the wall is his son, and told her that a thing on a page is a thing she can be asked to do again. **HE HAS NOT ASKED FOR MONEY AND NEVER WILL AND THAT IS THE WORST OF IT AND HE SAID IT KINDLY.** A clerk may only enter; there is no striking in this city; the brother is not to be found. Three things available to him and he takes none of them. **HE WRITES FOUR WORDS IN ABOUT NINE SECONDS AND THE CLERK ENTERS THEM EXACTLY AS GIVEN, FOUR WORDS LONGER THAN THE SENTENCE A CLERK IS PERMITTED TO ADD:** *Where this Register has nothing, it has not been given anything, and it does not say that there was nothing.* **WHAT IT CLOSES: the option of the Register's number being usable, by anybody, including the people it was built for. WHAT IT COSTS: it does not protect her and says so; the Church's hundred stop coming in the first week of October; Agnete Lindqvist does not come and does not write and does not speak about it in the yard; and the column she promised over nine years dies in a quarter because he printed the truth about his own instrument.** It is the sentence a doctor asked for in a room off a ward on the twenty-first of January of year two and has been in a drawer for a year and a half.
+
+## THE TWO IRREVERSIBLE DECISIONS IN THIS BATCH, AND BOTH ARE HIS
+
+**525 — HE ENTERS A FIGURE AGAINST THE WOMAN WHO GAVE IT TO HIM'S EXPLICIT INSTRUCTION.** Marguerite Vale wrote Lamplit Row out of her own memory with nothing behind it, on a card, at about one in the morning, said it does not go in the Register, and he entered a street and a figure and no name on the twenty-seventh of January because his own fourth condition says *it is not on a page anywhere in this city*. **WHAT IT CLOSES: the option of the Register being a record of deeds and nothing else — the office's first entry that is not a deed, not a name and not a complaint, and the first number in the book that anybody in Ostara would want.** **WHAT IT COSTS: the only figure in this city that a senior broker knows out of memory and that the guild cannot account for is now connected by a door to the only office that cannot be audited, and Marguerite Vale is a person who has made trades for eleven years on the proposition that nothing she carries is ever said out loud.** He never apologises to her in this batch and the card is never referred to again.
+
+**530 — HE PRINTS THE SENTENCE THAT SAYS WHAT HIS OWN REGISTER IS NOT.** Irreversible because a standing sheet goes out at four with an address at the head of every line and cannot be un-entered by anybody including the man who wrote it. **WHAT IT CLOSES: the option of the Register's number ever being usable again as a finding against a person.** **WHAT IT COSTS: a woman stays on a public sheet who asked to come off it; about four thousand people are told that the largest thing anybody has ever been able to hand in without being asked for it is not what a public page means; the Church stops bringing things in the first week of October and Agnete Lindqvist does not answer him; and he has spent the last thing the office had, which was the appearance of being evidence, and it bought nothing for anybody in the room.**
+
+## THE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES        `ls chapters/*/chapter-*.md | wc -l` -> 530. `ls chapters/volume-11/*.md | wc -l` -> 30, numbered 501..530
+             with no gap. Every one of the ten carries exactly one `# ` title line and ends 0a (`tail -c1 FILE | xxd -p`).
+TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0. The ten match `outline/volume-11.md` §10 BY STRING,
+             ten of ten, verified in the same commit that wrote them.
+BANK         **22,240 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED AFTER THE LAST EDIT. NEVER cat *.md | wc -w.**
+                521 2,043 · 522 2,027 · 523 2,089 · 524 2,113 · **525 3,322** · 526 1,901 · 527 1,930 · 528 2,558 · 529 2,050 ·
+                530 2,207. **THE MEAN IS 2,224.**
+              **525 LEAVES THE 1,800–2,700 BAND AND SAYS WHY: it is Volume 11's third scene, the only scene in this batch,
+              ten chapters after 515 and fifty-one after Marguerite Vale's own last scene, it carries the only explicit
+              vocabulary in the batch, and it is written out rather than implied.**
+META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume | no chapter |
+              the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+`.
+              Swept across all ten files and read hit by hit. **ZERO HITS IN TEN FILES.**
+              **THREE WERE WRITTEN AND ALL THREE WERE REPAIRED:** *what a figure in this book is* at 528 and *a hole in this
+              book is not a finding* at 530, both of which are an office and not a volume, and
+              *it is the first time in five hundred and thirty chapters of his own life* at 527, which named the thing
+              outright and is now *the first time in five years that he had written a prediction instead of a figure*.
+              **`this book` is permitted only as a physical book on a table and there is none in these ten chapters.**
+WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all seven, whole-word AND
+              substring, across all ten files, all zero.
+AGES         **PART ONE — CHARACTERS WITH NO FIXED AGE: 0**, probed in six forms plus a bare `aged` sweep, all zero.
+              **HANNEKE RUIS IS GIVEN NO AGE AND NO MARK AT 526 OR 527. CORVIN ASHBY, ROSALIND KECK AND WENNA RAUT ARE
+              GIVEN NO AGE; WENNA'S ELEVEN YEARS AT A COUNTER IS A SPAN AND NOT AN AGE.** A woman of about sixty and a man
+              of about thirty and a man of about forty are described by what they look like, which is not an announced age.
+              **PART TWO — CHARACTERS WHOSE AGE IS FIXED: NONE IS PRINTED IN THESE TEN CHAPTERS.** Alma Quayle, Marguerite
+              Vale, Sun Meiling, Agnete Lindqvist and Yusuf Adeyemi all have fixed ages in `bible/characters.md` and none is
+              named in this batch, which is allowed and not an omission.
+ARITHMETIC   **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. EVERY INTERVAL PRINTED IN 521–530 IS DERIVED IN ITS OWN
+              CHAPTER FROM DAY NUMBERS WITH ITS OPERANDS ON THE PAGE, AND NONE IS QUOTED ACROSS.**
+              521: **twenty-one months = six hundred and thirty days** (thirty a month, twelve months and nine), giving nine
+              hundred and eleven people past the door, about forty-three a month. The figure is on the ratchet counter and
+              is checkable, and the chapter says that is the dangerous part. **The notebook is bought on the second of
+              October, six days BEFORE the eighth, and Adeyemi records the order, which is the point of the beat.**
+              522: the ratio is **one in nine hundred** and is derived from nine hundred and eleven against three entries,
+              of which two came off a sheet he answered and not through the door. Twenty-five days from the second of
+              October to the twenty-seventh.
+              523: **the last of December is thirty days and the first of January is his**, and the door opens on the
+              first of January of year three. **The lane's age is NOT printed in 523.**
+              **THE AGE OF THE OFFICE IS PRINTED TWICE IN THIS BATCH AND IS CORRECT AT BOTH: TWENTY-THREE MONTHS AT 524, WHICH IS DAY 689, AND TWENTY-SIX MONTHS AT 527, WHICH IS DAY 779.** The first draft of this block said twenty-five months at 527 and the page was right and the block was wrong, which is the same error as Batch 0002's finding 5, and it is corrected here. **AT 530 THE OFFICE HAS BEEN OPEN THIRTY-TWO MONTHS, WHICH IS 959 DAYS OFF THE LETTER OF THE FIRST OF FEBRUARY, WHICH IS NINE HUNDRED AND FIFTY-NINE = 31 x 30 + 29, AND THAT FIGURE IS HANDED TO THE NEXT PHASE RATHER THAN PRINTED ON THE PAGE.**
+              524: **eighth sheet, fifth entry.** The office carried a line on every sheet from the thirtieth of March of
+              year one (`chapter-0508.md:57`), so 30 Mar, 30 Jun, 30 Sep, 30 Dec of year one, 30 Mar, 30 Jun, 30 Sep of
+              year two, and **30 Dec of year two is the eighth.** **The office has been open twenty-three months and about
+              a thousand people have come to the door.**
+              525: **Rask's books met on the sixteenth of November and did not move; the fourth quarter from that date is
+              the seventeenth.** The form has been looked for for nine months.
+              527: **Entered: nineteen = five before the definition took effect on the thirtieth of September of year two,
+              plus fourteen in six months, out of about a hundred and forty people who came with a thing.** The second
+              column is written on the ninth of March and goes out on the thirtieth.
+              528: **NINE HUNDRED AND TWENTY-FIVE MORNINGS IN THE LANE**, printed once in the batch, with its operands:
+              *twenty-eight days in October including the third, and thirty each of the twenty-nine months from November
+              to March, and twenty-seven days of April* — `28 + 30 x 29 + 27 = 925`, and `806 + 119 = 925` on the spine.
+              **The lane's age is printed at ONE chapter of this batch and at no other, on purpose.**
+              529: **Entered: thirty-one, twelve in a quarter, nine of them in eleven days in April.** The reading is that
+              the figure measures description and not kindness.
+              530: **Entered: thirty-four, three more than the thirtieth of June.**
+              **THE DISCREPANCY AT `chapter-0500.md:65` IS NOT PRINTED IN ANY OF THESE TEN CHAPTERS AND IS NOT DERIVED FROM
+              IN ANY OF THEM. IT IS CARRIED, RECORDED AND NOT REPAIRED.**
+ACCOUNT      **NO FIGURE OF THE ACCOUNT IN GRAINS APPEARS IN ANY CHAPTER OF 521–530 AND NO LEDGER TOTAL APPEARS
+              ANYWHERE.** `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-11/` -> 0. Five
+              chapters need it and all five say *the figure* or do not raise it. **NO CHAPTER OF THIS BATCH COMES NEAR TO
+              ARGUING THE REACH OF THE RETURN, AND 522's one hard sentence about what a ratio counts is about people who
+              came to a door and is not about the return.**
+FLOORS       **0.** `grep -rioE "8,1[0-9][0-9]"` over the whole of `chapters/volume-11/` returns nothing. 485 remains the only
+              chapter in the book that prints a floor.
+PARAGRAPHS   **674 prose paragraphs across the ten, counted by a blank-line split that skips headings, re-run by command after the last edit. 0 OVER NINETY. 0 OVER ONE
+              HUNDRED AND TWENTY. QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD. EVERY PARAGRAPH OPENS ON A CAPITAL:
+              0 LOWER-CASE STARTS.** **FORTY-ONE PARAGRAPHS WERE OVER NINETY ON THE FIRST SWEEP AND EVERY ONE WAS SPLIT BY
+              HAND AT A NAMED SENTENCE BOUNDARY, WITH THE QUOTATION CLOSED AND REOPENED AT EVERY SPLIT THAT FELL INSIDE A
+              SPEECH.** NO AUTOMATIC SPLITTER WAS RUN OVER PROSE WITH DIALOGUE.
+MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold spans 0** · **italic pairs 55**, every one a
+              quoted record, a heading, a figure in a stranger's hand or a rule being named, and the count is inside the
+              60–70 / 20–30 / 5–10 mix because the documentary register in this batch is the second column, the clerk's
+              sentences and the notebook lines. **SYSTEM PANELS: ZERO IN TEN CHAPTERS.** Volume 10's panels stand at two
+              in fifty, this volume's budget is five, and batches 0001 and 0002 spent none.
+DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten, on the normalised token method WITH A
+              PARAGRAPH-BREAK SENTINEL, then 11 and 8, and every hit classified by hand. **RE-RUN BY COMMAND AFTER THE LAST
+              EDIT AGAINST ALL 530 WRITTEN CHAPTERS.**
+              **12-gram cross-chapter hits: 172 across the ten.** **BY FILE: 521 1 · 522 3 · 523 29 · 524 49 · 525 12 ·
+              526 12 · 527 17 · 528 4 · 529 24 · 530 21.**
+              **THE FIRST PASS OF THIS SCAN RETURNED 366 HITS AND EVERY ONE WAS READ. THIRTEEN FAMILIES WERE GENUINE
+              RE-USES AND ALL THIRTEEN WERE RE-SET BY NAME, NOT BY A SWEEP:**
+                · 524 and 527 each re-set the whole *reading the day's page from the top* passage, which between them
+                reproduced the page-description of 514 and 520 almost entire — 164 hits at 524 and 100 at 527 on the first
+                pass, now 49 and 17.
+                · 528 re-set the lane description lifted from 520 whole — the woman with the pram, the man out of the
+                chandler's, the wall end with his back to it, a piece of chalk — 41 hits to 4.
+                · 527 re-set the *carried a parcel up four flights* example that 517 already used, and 527 re-set Wenna
+                Raut's eleven-years-at-the-counter line.
+                · 525 re-set four lifted beats, including *she was unhurried in the way of a woman who has been* out of 515
+                and *he slowed down, she was right about it* out of 515, and the closing paragraph of 515's scene structure.
+                · 530 re-set *I am not saying that to be cruel* and 522 re-set the letter-in-the-coat line out of 519.
+              **EVERY SURVIVING TWELVE-GRAM FAMILY WAS CLASSIFIED BY HAND AND IS CANON TEXT, A FIGURE THAT MUST RECUR, OR
+              A DELIBERATE QUOTATION BY A CHARACTER OF SOMETHING A CHARACTER ELSEWHERE SAID:**
+                · **the standing sheet's own boilerplate** — goes out at four, an address at the head of every line, about
+                  two hundred people a week in Cordwain read it, any person may read it at a public desk on a working
+                  afternoon — which is what the object IS, and which the batch-0002 gate already classified (500, 501, 508,
+                  510, 514, 520). **This is the largest family in the batch and it is a rule being obeyed and not a borrow.**
+                · **the keeper's descriptor** — six words under a figure in a small level hand with her own name and
+                  nothing behind it — at 514, 517, 520, 524 and 527.
+                · **the clerk's rule** — may only enter, cannot improve what she is given, cannot be asked to hurry — at 514,
+                  520, 523, 525 and 527, which is the same woman at the same counter in every one.
+                · **the wall line at the height of a name on a plate** and **the white tile with his name in chalk and
+                  nothing under it**, which is the volume's slowest thread and is not answered in this batch.
+                · **the refusal of the thirtieth of September of year one, quoted at 523 by the man who said it**, which
+                  is a man keeping his own record and is required by the chapter's logic.
+                · **Agnete Lindqvist's sentence from 519** — the first four thousand names in a book decide what the book
+                  is for — quoted back at her at 524.
+                · **the clerk's entered sentence of the thirtieth of September of year two, echoed and varied at 524**,
+                  which is a clerk entering a second name on a form she wrote the first time.
+                · **Tessa Okonkwo's sentence from 519 and 515** — write something on the sheet that says they have nothing
+                  in this register and not that they have nothing — quoted at 529 by the man who has had it in a drawer
+                  for a year and a half, and paid at 530. **This is the batch's longest deliberate quotation and it is the
+                  payoff.**
+                · *in about four years there is a page in a building with a finding on it*, which the batch-0002 gate
+                  already classified at 505, 509 and 511 and which is this manuscript's standing way of putting a future on
+                  the page.
+              **THE SCENE BORROW CHECK HOLDS AND IS A CHECK A SCAN CANNOT MAKE: 525 WAS CHECKED BY HAND AGAINST 483, 494,
+              505, 515, 261, 063, 055 AND 165. ITS TWELVE SURVIVING FAMILIES ARE THE CLERK'S RULE, THE FOUR-YEARS
+              PHRASE, AND TWO COINCIDENCES WITH CHAPTERS THAT HAVE A COT IN THEM. NO BODY.**
+              **STAGED FROM NOTHING** — HER ROOMS OFF FERRIER STREET, A TABLE, A CHAIR, A FIRE THAT GOES OUT, A CARD
+              UNDER AN ASHTRAY, **AND THE CLOSED BOOK, WHICH IS ON THE TABLE UNDER HER LEFT HAND FROM THE MOMENT SHE SITS
+              DOWN, GOES TO THE FLOOR UNDER HER ARM WHEN SHE STANDS UP, AND HER LEFT HAND IS ON IT FOR THE WHOLE OF THE
+              EVENING.** NO TERMS LIST, NO CHART, NO ARM TURNED UP, NO SCREEN ON WHEELS, NO WATCH ON A CHAIN, **NO
+              KETTLE, NO LIST, NO TEA, AND THE BODY IS DESCRIBED ONCE, IN ABOUT ELEVEN WORDS, AND NEVER AGAIN.**
+              **MARGUERITE VALE'S OWN MARKS PER `outline/volume-11.md` §4a ARE HANDS WITH INK AT THE CUTICLES THAT SOAP
+              WILL NOT LIFT, AND THE CHAPTER ADDS NOTHING TO THEM AND SPENDS THE INK-UNDER-THE-READER'S-NOSE CONSTRUCTION
+              ZERO TIMES.**
+WORD BANKS   **`nobody` runs 4 · 3 · 0 · 3 · 2 · 4 · 3 · 4 · 2 · 4 and none is over four.**
+              **THE `there is (is|was|are|were|will be|has been|have been) (no|not|nothing|nowhere)` FAMILY RUNS
+              1 · 1 · 3 · 1 · 2 · 4 · 6 · 4 · 1 · 3. THE FAMILY WAS AT SEVEN IN 523, EIGHT IN 527 AND SEVEN IN 528 ON THE
+              FIRST SWEEP AND ALL THREE WERE CUT BACK BY NAMED RE-SETS ON THE PAGE AND NOT BY A SWEEP.**
+BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no form 0 ·
+              there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0 · nobody knew 0.
+              **FOUR WERE WRITTEN ON THE FIRST DRAFT AND EVERY ONE WAS RE-SET BY NAME:** *There is no column* twice in the
+              notebook line at 523, *nobody asked them for* at 527, *nobody asked me* at 530, and *not one instrument can
+              go and get a street's worth* was rewritten round the banned first clause.
+MARKS        **`right temple` -> 0 ACROSS ALL FIVE HUNDRED AND THIRTY FILES.** **A grey on one side of a head is not
+              written in any of these ten chapters and Ada is not in the batch.** **`ink at the cuticles` is at 2 FILES
+              BOOK-WIDE, AT `chapters/volume-07/chapter-0329.md` AND `chapters/volume-07/chapter-0340.md`, AND THIS BATCH
+              ADDS NONE.** Hanneke Ruis is given no mark and no age at 526 or 527.
+REGISTRAR    `grep -rio "Registrar" chapters/volume-11/chapter-05{21..30}.md` -> 6, and every one is Yusuf Adeyemi's or the
+              office's: 521 (twice, the counter reading and the Registrar's line), 522 (three, the office, the counter and
+              the office again), 523 (the refusal of the thirtieth of September, quoted by the man who said it to one).
+              **NO CHAPTER OF 521–530 CALLS LIN HAO THE REGISTRAR OF UNRECORDED MERIT, OFFERS HIM THE TITLE, OR HAS HIM
+              REFUSE OR TAKE IT. He is the only person the office may ask and he is asked nothing new in this batch.
+              `outline/ending.md`:255's appointment is carried whole and untouched.**
+CONTINUITY   **No PC adopted, withdrawn or renumbered. `PC-125` IS NOT RENUMBERED AND NOTHING BELOW IT MOVED.**
+              `PC-44` holds: Dagmar Oyelowo is not in this batch and is not in a scene. `PC-84` (the instrument he swore
+              on the ninth of May never to use) is untouched, unspent and not mentioned. `PC-102` is inherited whole.
+              `PC-109` (the composition has had no certificate since the fourteenth of March) is on the page at 524 and
+              527. `PC-118`–`PC-125` are inherited whole and `PC-126`–`PC-131` are proposed by this batch.
+              **THE CLAUSE OF THIRTY-EIGHT WORDS ENTERED ON THE TWENTY-THIRD OF JUNE IS NOT LIFTED AND IS NOT RE-WRITTEN**
+              — *the twenty-first* — and it is not mentioned in any of these ten chapters.
+              **THE TILE. NOTHING IN 521–530 ANSWERS INES'S QUESTION OF THE SIXTH OF MARCH OF YEAR ONE, NOTHING ANSWERS THE
+              TWO REFUSALS OF THE EIGHTH OF OCTOBER OF YEAR ONE, AND 521 AND 530 PRINT THE TILE AND PRINT NOTHING UNDER IT.**
+              521 re-sets the four hundred deliberately: he thinks about dividing it and does not, and the reason is given.
+              **Ines's lost day and record are not opened and her correction of the twenty-ninth of December is not
+              mentioned in any of the ten. Perrin Sowe is not forgiven and is not discussed and is not named.**
+              Sun Meiling is at the far table at 526 and the brother's file is referred to without the name;
+              `grep -rio 'Lin Wei' chapters/volume-11/` -> **0.**
+              Hanneke Ruis is at the counting room at 526 and says nothing.
+              **THE HOUSEHOLD IS NINE, DISPERSED AND INTACT.** Nine sworn women are not in the same room in this batch and
+              five of them are on the page: **MARGARUERITE VALE at 525 · SUN MEILING at 526 · AGNETE LINDQVIST at 524 ·
+              WENNA RAUT, who is not sworn, at 521 and 523 and 527 and 530 · and TESSA OKONWO'S SENTENCE, QUOTED AT 529
+              AND PAID AT 530.** Nadia Ferrous, Isolde Marchetti, Petra Ilyin, Ines Duarte, Runa Sato, Beatrix Halm and
+              Wren Kallo do not appear in these ten chapters and none of them is written out of the household.
+              **`outline/ending.md` IS UNTOUCHED. NO NEW FINAL ENEMY. Emil Brack is on the page at 528, is not defeated,
+              is not diminished, is right about every fact, and his offer is unanswered at the end of 530.**
+SCENE        525. **RECORDED SPAN 2,963 WORDS**, being the body counted from the opening `##` to the closing `##`
+              **exclusive of both**. **LITERAL FIRST-##-TO-LAST-## SPAN 2,974 WORDS, INCLUSIVE OF BOTH BOTH BOUNDING
+              HEADINGS.** TWELVE SECTION HEADINGS. FILE TOTAL 3,322 WORDS. Both definitions printed beside the figures and
+              both taken by command after the last edit.
+              `F=$(grep -n '^##' FILE | head -1 | cut -d: -f1); L=$(grep -n '^##' FILE | tail -1 | cut -d: -f1);`
+              `sed -n "$((F+1)),$((L-1))p" FILE | wc -w` -> **2,963** · `sed -n "${F},${L}p" FILE | wc -w` -> **2,974**.
+              **EXPLICIT-VOCABULARY PROBE (mouth · came · hip · thigh · come · inside · wet), WHOLE-WORD, ON THE WHOLE FILE:
+              1 · 6 · 0 · 0 · 2 · 4 · 0, SUM 13**, against 22 for 515, 20 for 505, 25 for 494, 39 for 465, 32 for 474,
+              18 for 454 and 13 for 483. **THE COUNT IS NOT A PROOF AND IT IS THE FIGURE THE COMMAND PRINTED, AND IT IS A
+              GATE ROW AND NOT AN ARGUMENT.**
+              **NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR SEAL IS THE MECHANISM AND
+              EVERY SEXUAL CHARACTER IS AN ADULT. HER GIFT — A DEBT SHE TOUCHES BINDS BOTH PARTIES PHYSICALLY AND IN
+              WRITING — IS ON THE PAGE AND IS **NOT USED AS THE MECHANISM OF ANYTHING THAT HAPPENS IN THE BEDROOM**, and it
+              is not used physically anywhere in the batch. HE IS AT RANK ONE WITH A SPENT CHEST AND NO PERMISSION OF ANY
+              KIND, SHE HAS HER OWN ROOMS AND HER OWN STANDING AND SAYS OUT LOAD THAT SHE SETS THE PACE AND THAT HE IS
+              GOING TO BE SLOW, AND VIOLENCE AND SEX STAY IN SEPARATE REGISTERS. THE AXIS IS NOT NAMED BY ANYBODY INCLUDING
+              THE NARRATOR.**
+SCENE COUNT  **525 − 515 = 10**, from the previous scene in the book, which is the count `AGENTS.md` governs, and it is in
+              the eight-to-fifteen band. **525 − 474 = 51 from Marguerite Vale's own last scene, AND THAT IS NOT IN THE
+              EIGHT-TO-FIFTEEN BAND AND NO FILE HERE CERTIFIES IT AS BEING IN ONE.** The five scenes in Volume 11 are 505,
+              515, 525, 536 and 546 and the gaps between them are 11, 10, 10, 11, 10. **536 IS THE NEXT ONE AND IT IS
+              BEATRIX HALM'S, AND HER OWN LAST SCENE WAS 465.**
+PHASES       **EXACTLY ONE PHASE DIRECTORY WAS CREATED BY THIS RUN: `workspace/volume-11/batch-0003/PROMPT.md`, A WRITING
+              PHASE FOR CHAPTERS 531–540, MOVEMENT FOUR, SWEPT.** **`outline/volume-11.md` WAS REVISED IN THE SAME COMMIT:
+              movement three's ten cards were rewritten against the chapters as written, and four planned titles were
+              replaced** — *The Thirtieth Of December* and *The First Quarter Of Counting* restated the date and the calendar,
+              *The Column Stays Empty* named a summary, and *The Broker's Fourth Line* named a thing the chapter is about
+              NOT being about. **NO WRITTEN CHAPTER WAS TOUCHED TO MAKE ROOM FOR ANY TITLE.**
+              `outline/ending.md` IS UNTOUCHED. **NO `.done`, `.blocked`, `.deferred`, `.attempts` OR `.retry-after` FILE WAS
+              CREATED, EDITED, MOVED OR DELETED ANYWHERE IN `workspace/`.**
+```
+
+---
+
 # VOLUME 11 BATCH 0002 — CHAPTERS 511–520 ARE ON DISK, TEN FINISHED FILES, 22,818 WORDS. THE EIGHTH OF OCTOBER OF YEAR ONE TO THE THIRTIETH OF SEPTEMBER OF YEAR TWO. **WRITTEN 13 OCTOBER 2026. REVIEW REPAIR PASS AGAINST `logs/batch-0002.review.log` APPLIED THE SAME DAY. THIS IS THE LIVE GATE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS THE CONTROLLER'S.**
 
 > **REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0002.review.log`. SIXTEEN FINDINGS. ALL TEN BLOCKING ONES APPLIED IN FULL. FOUR JUDGMENT CALLS APPLIED IN THE PROSE AND TWO APPLIED AS RECORDED DECISIONS. PLUS TWO RESIDUALS FOUND WHILE RE-DERIVING AND APPLIED UNDER THE STANDING RULE THAT A GATE RECORD IS A CLAIM AND A RE-RUN OUTRANKS IT. NO CHAPTER WAS RESTARTED, NO SCENE WAS REPLACED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED, NO CHARACTER AGED, AND THE PLOT IS AS PLANNED. `outline/ending.md` IS UNTOUCHED AND NO NEW FINAL ENEMY APPEARS. THE BANK IS 22,818 AND WAS 22,612; THE PER-FILE FIGURES THAT MOVED ARE 512 1,802→**1,890**, 513 1,816→**1,814**, 514 2,261→**2,353**, 515 3,028→**3,024**, 516 2,061→**2,078**, 519 3,131→**3,136**, 520 2,250→**2,260**. 511, 517 AND 518 ARE UNTOUCHED AT 2,168 / 2,139 / 1,956. THE MEAN IS 2,282.**

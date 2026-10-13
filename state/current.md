@@ -1,3 +1,56 @@
+# VOLUME 11 BATCH 0003 IS WRITTEN. CHAPTERS 521–530 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 22,240 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE LAST EDIT. MOVEMENT THREE, ENTERED. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
+
+**MOVEMENT THREE, ENTERED, IS WRITTEN AND CLOSED ON THE PAGE AT 530. IT DELIVERED THE WALL'S TWELFTH REPINTING, A COUNTER IN A CORRIDOR, A NEW LEDGER, A LANDLORD, THE SECOND NAME OFF A STREET, THE SCENE, THE WRONG QUESTION, THE SECOND COLUMN, THE CHURCH'S FIRST STREET, AN OFFER LEFT UNANSWERED, A NUMBER THAT WENT DOWN, AND A SENTENCE HE PRINTED ABOUT HIMSELF. IT DELIVERED TWO IRREVERSIBLE DECISIONS, AT 525 AND AT 530.**
+
+## 0. WHERE THE MAN STANDS AT CHAPTER 531, IN ONE PARAGRAPH, FROM THE PAGE
+
+He is at rank one on a branch night shift he asked for, eleven at night until half past five, a white plate with his name on it and no figure cut into it anywhere. An office called the Register of Unrecorded Merit has been open thirty-two months, which is thirty-one months and twenty-nine days off the letter of the first of February, has a room off a third court with two chairs in it, a Registrar, a clerk who may only enter and cannot improve what she is given, a ratchet counter in the corridor that says nine hundred and eleven people past the door in twenty-one months, thirty-four entries, and **two columns, the second of which is headed with the two words off the foot of the ranks wall and has never had anything under it.** He has bought a notebook with a printed label on it and a second ledger four years after he handed the first one over, and the chapter says out loud that the difference between them is that nobody will ever read this one. A woman of forty-one sat on a chair in her own rooms with her left hand flat on a closed book for a whole evening and gave him a figure for Lamplit Row out of her own memory with nothing behind it, and told him it did not go in the Register, and he entered it on the twenty-seventh of January. A woman who fed a boy from a school off Cordwain for nine days and paid for it out of her own hands has an entry and has asked to be struck out of it and cannot be, because a clerk may only enter and there is no striking in this city, and her brother has read the sheet and said out loud in a kitchen with his sister there that a thing on a page is a thing she can be asked to do again. A man in a delivery coat has offered every figure he has written in two years, and the method, and about nine he decided off nothing at all, for one line on a public sheet saying that he makes them up, and has not been answered. And on the thirtieth of September of the third year he wrote four words longer than a clerk is permitted to add and they went out at four with an address at the head of every line: *where this Register has nothing, it has not been given anything, and it does not say that there was nothing.* The Church's hundred stopped coming in the first week of October. The white tile under the last tile of the ranks wall still has his name on it in chalk and nothing whatever under it.
+
+## 1. WHAT THIS BATCH OWED AND DELIVERED
+
+- **The wall at 521, the fourth hundred re-set so that it cannot be divided, a counter nobody had ever read, and a ratio said out loud once: one in nine hundred.**
+- **A second ledger at 522, bought six days before the question that made it, and four things said to him by the only person who could say them.**
+- **The Register's first entry that is a person's complaint at 523, a landlord who asked the wrong question and got the standing answer, and the door that opens on the first of January.**
+- **Agnete Lindqvist at that counter first at 524, as she promised in a kitchen, bringing the one thing she has, which fails the fourth condition because she wrote it down on purpose in order to refuse.**
+- **The scene at 525, the terms never spoken, a broker's left hand on a closed book for a whole evening, and a figure entered against the giver's instruction.**
+- **The wrong question at 526 and the two words off the wall in a woman's mouth four years before anybody put them in a column.**
+- **The second column at 527, headed *carried by*, entered in the office's own hand, empty at four o'clock, and a clerk who says the emptiness is correct.**
+- **Cordwain split at 528, a hundred of the Church down a hill in eleven days, an hour spent standing against a wall doing nothing, and an offer made and not taken.**
+- **A number that went down at 529 and was not wrong, and a prediction written nine days before it came true.**
+- **A sentence printed at 530 about what the Register is not, and a woman who cannot be taken off a public sheet.**
+
+## 2. THE TWO IRREVERSIBLE DECISIONS THIS BATCH OWNS, AND BOTH ARE HIS
+
+**525. HE ENTERS A FIGURE AGAINST THE WOMAN WHO GAVE IT TO HIM'S EXPLICIT INSTRUCTION.** A street and a figure and no name, on the twenty-seventh of January, entered by a clerk who read it twice at the same speed both times and asked him nothing.
+
+**WHAT IT CLOSES:** the option of the Register being a record of deeds and nothing else. The first entry in that book that is not a deed, not a name and not a complaint, and the first number in it that anybody in Ostara would want.
+
+**WHAT IT COSTS:** the only figure a senior broker knows out of her own memory and her guild cannot account for is now connected by a door he stands in to the only office in Ostara that cannot be audited. She traded for eleven years on the proposition that nothing she carries is ever said out loud, and she said it out loud once, to one man with no instrument, in a room where the rule is that nothing is said out loud. He never apologises to her in this batch.
+
+**530. HE PRINTS THE SENTENCE THAT SAYS WHAT HIS OWN REGISTER IS NOT.** *Where this Register has nothing, it has not been given anything, and it does not say that there was nothing.* Nine seconds, the office's foolscap, his hand, and a clerk who enters it exactly as given because a clerk may enter what she is given and not make it shorter.
+
+**WHAT IT CLOSES:** the option of the Register's number being usable, by anybody, including the people it was built for. A standing sheet goes out at four with an address at the head of every line and cannot be un-entered by anybody including the man who wrote it.
+
+**WHAT IT COSTS:** it protects nobody and he says so himself; about four thousand people are told that the only thing anybody in this city can hand in without being asked for it is not what a public page means; the Church's hundred stop coming in the first week of October; Agnete Lindqvist does not come and does not write; and he has spent the last thing the office had, which was the appearance of being evidence. It is the sentence Tessa Okonkwo asked for in a room off a ward on the twenty-first of January of year two and he has had it in a drawer for a year and a half.
+
+## 3. WHAT THIS BATCH DID NOT DO
+
+**It is not a climb.** Rank one the whole way through; no band, standing, permission or hour of his own moves. **It is not a re-argument of the return.** No chapter of 521–530 argues for or against the first of October and no character in them says the question is settled or that it is not; 522's one hard sentence is about what a ratio of people-at-a-door counts and is not about the return. **It is not a new enemy.** **It is consequence-free in nothing.** **It does not answer Ines Duarte's question about the tile, which is still on the page from the sixth of March of year one and is unanswered** — 521 and 530 both print the tile and print nothing under it, and 521 re-sets the four hundred deliberately so that no later phase can derive a rate from it. **And it does not open his brother's file, which `outline/ending.md` alone decides.**
+
+## 4. THE SIX PROPOSALS, AND WHERE THEY ARE
+
+`PC-126` the ratchet counter in the corridor and the figure on it · `PC-127` the notebook and the second ledger · `PC-128` the Register's first entry that is a person's complaint, and the landlord whose door opens on the first of January · `PC-129` the card, the scene's rule, and the figure entered against the giver's instruction · `PC-130` the second column and why the two words off the wall were chosen, which is on the page a chapter before the column · `PC-131` Emil Brack's offer, unanswered. **All six are PROPOSED, all six are on the page, `PC-125` is not renumbered and nothing below it moved.** The full table is at the head of `state/continuity.md`.
+
+**AND THE DISCREPANCIES CARRIED AND NOT REPAIRED, UNCHANGED BY THIS BATCH:** `chapter-0500.md:65` prints an interval that does not derive, and **no chapter of 521–530 prints it or derives anything from it** · `chapter-0496.md:119` and `chapter-0507.md:7` disagree about which block of the keeper's quarterly is the hundred and twenty-first, and **no chapter of 521–530 prints an ordinal for that block at all**, describing it as the fourth block with six words and her name · **and the requisition of the twentieth of February is still carried with five seals and unanswered.**
+
+## 5. THE ONE SENTENCE THIS BLOCK HANDS ON
+
+> **A man at rank one spent an hour leaning against the wall of a lane doing nothing, was offered every number in it by a man in a delivery coat for the price of one line on a public sheet, and said nothing at all — and then printed, on the same kind of sheet, a sentence admitting that where his Register has nothing it has not been told anything, which saved nobody, stopped the only organised body in the city from bringing it anything at all, and was the last thing the office had that looked like evidence.**
+
+---
+
 # VOLUME 11 BATCH 0002 IS WRITTEN AND REPAIRED. CHAPTERS 511–520 ARE ON DISK. **WRITTEN 13 OCTOBER 2026 AND REPAIRED THE SAME DAY AGAINST `logs/batch-0002.review.log`. TEN FINISHED FILES, 22,818 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE LAST EDIT TO THE PROSE. SIXTEEN FINDINGS, ALL APPLIED, PLUS TWO RESIDUALS FOUND WHILE RE-DERIVING. NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT MOVED, NO TITLE CHANGED. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
