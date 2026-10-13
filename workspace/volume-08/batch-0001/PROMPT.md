@@ -68,9 +68,11 @@ All of it is on the page. Read `outline/volume-08.md` §2 in full and check anyt
 - **A requisition was TABLED on the sixth of December, heard on the fourteenth, refused with an instrument on the
   seventeenth, sealed by five of nine at thirteen minutes on the twenty-third and VOIDED at the ninth minute
   because a spent majority may not be recalled at the same sitting. Four on the sheet after the woman in the
-  sixth seat withdrew her own seal. NOTHING WAS TAKEN OFF ANYBODY and she said so in front of eight people.** Its
-  fourth part is a box headed *Held by*, the width of a hand, **with a clerk's tick in the corner of it and
-  nothing in it.**
+  sixth seat withdrew her own seal. NOTHING WAS TAKEN OFF ANYBODY and she said so in front of eight people.**
+  It has **four parts — *the subject, the holding, the figure, the ground* — and the fourth of the four is
+  the ground.** Under the four, on a fifth line which 346 calls a line that was not a part and was only a
+  line, is a ruled box headed *Held by*, the width of a hand, **with a clerk's tick in the corner of it and
+  nothing in it. Do not write it as the fourth part.**
 - **Four sheets of plain paper in his own hand, his name at the top of the first, eight words at the foot of the
   last** — *I am the man at the top of this page and I will answer for it* — **laid into the keeping of the room
   where nine people sit at five minutes to eleven on the twenty-ninth of December, with eight witness hands under

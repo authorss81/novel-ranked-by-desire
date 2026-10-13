@@ -93,8 +93,9 @@ is still himself.**
 ## Required world reveals
 
 1. **A line called twice is not a line called once.** Hanneke Ruis, in writing, once.
-2. **The plate is held by an unpublished split and he does not want it.** The first invisibility he did not
-   build, in eight volumes.
+2. **An unpublished split makes him anonymous on his own plate and he does not want that.** The first
+   invisibility he did not build, in eight volumes. **It is not what put him on the floor — the eight witness
+   hands of the twenty-ninth are.**
 3. **Six of the eight women on the list hold public posts, and five of the six sit in a division that a
    requisition against him would travel through.**
 4. **A description of premises carries the post of anybody at that address who holds one, and a declaration
@@ -166,9 +167,11 @@ she gives about the room and not about him.
 without a line in a destruction book and the broker who wrote it. **The call is a word and not a figure. A
 called line is not carried into the next quarter. Paying it means paying at the figure on the line, which is
 seven. There is no production off that door.** **Ledger 124, nine turned, nothing spent.** **Hanneke Ruis
-took the keys on the seventeenth of September and has been in the room seventeen days and has a strap on the
-fifth book, and she will not put her name under a figure about a household, and no age is fixed for her and
-none may be given on the page.**
+took the keys on the seventeenth of September (302) and at the first of January she has been in that room a
+HUNDRED AND FOUR DAYS — seventeen of September to the seventeenth of December is ninety, and seventeen of
+December to the first of January is fourteen — and she has a strap on the fifth book, and she will not put her
+name under a figure about a household, and no age is fixed for her and none may be given on the page. The
+seventeen days is Chapter 302's own figure and it does not survive to this chapter.**
 
 **Ending hook:** the line is called on the first of February and on the first of March, until somebody pays
 it or somebody produces, and there is nobody who can pay it and nobody who can produce it.
@@ -217,10 +220,14 @@ to five in the afternoon. Beatrix Halm with the notebook.
 **Resistance:** **nothing happens, and that is the chapter.** Beatrix has written the time against it for
 nine years and has nothing to write under it for the first time.
 
-**Major turn:** **8,145 on the nose, the floor 8,145, the wall silent for the sixth week — and the arithmetic
-behind it is branch attendants scoring in aggregate to the whole staff on a split that has never been
-published.** A man standing on the floor of his band on the strength of a formula he has never seen is the
-most anonymous thing available to him. **He does not want it.** He has spent seven years building his own
+**Major turn:** **8,145 on the nose, the floor 8,145, the wall silent for the FIRST week — five days from the
+card of the thirtieth of December to the fifth of January, and there is no thirty-first in that month — and
+the arithmetic behind the figure is branch attendants scoring in aggregate to the whole staff on a split that
+has never been published.** A man standing on the floor of his band on the strength of a formula he has never
+seen is the most anonymous thing available to him. **And the split explains why nothing on the plate can be
+traced back to him; it did not put him on the floor. Eight witness hands signed under a page on the
+twenty-ninth and Chapter 349 closed that question with the words *that was the whole of the arithmetic* — a
+writer may not re-derive the rise.** **He does not want it.** He has spent seven years building his own
 invisibility out of refusals and this one arrived on its own.
 
 **Emotional or practical consequence:** a small humiliation and a worse one. **He cannot tell the kitchen,
@@ -259,8 +266,9 @@ household in his life and the count is the size of the box.
 **Emotional or practical consequence:** Runa Sato tells him the arithmetic is not new — a description of
 premises has carried the post of anybody at that address who holds one since the sixteenth of October, when
 Wren Kallo asked Alma Quayle the wrong question in a kitchen and was told no, kindly, at four in the
-afternoon. **He found out on the twenty-eighth of October and told nobody, and has been carrying it for nine
-weeks in a kitchen with six of the people in it.**
+afternoon. **He found out on the twenty-eighth of October and told nobody, and has been carrying it for ten
+weeks in a kitchen with six of the people in it** — the twenty-eighth of October to the twenty-eighth of
+December is sixty, and to the eighth of January is seventy, and seventy days is ten weeks and not nine.
 
 **Required continuity facts:** **a description of premises carries the public post of anybody at that address
 who holds one; the list does not carry work.** **Runa Sato holds a standing order to observe premises
@@ -293,10 +301,12 @@ want anything, and he has therefore just built the room a door and he is the man
 **Emotional or practical consequence:** **Sun Meiling asks the second question** and it is the only question
 in the chapter that matters. She does not ask whether it is safe. She asks **who signs it.**
 
-**Required continuity facts:** **the requisition has four parts and the fourth is a box headed *Held by* with
-a clerk's tick in the corner and nothing in it, and the tick means somebody went round that room with a pen
-and checked.** Five of nine carry; two to call a sitting. A spent majority may not be recalled at the same
-sitting. **A requisition lies in the quarter it is laid and a void sheet is not a sheet in the next one.** The
+**Required continuity facts:** **the requisition has four parts — *the subject, the holding, the figure,
+the ground* — and the fourth of the four parts is the ground (343, 346). The *Held by* box is not the fourth
+part. It is a ruled box under the four, on a fifth line, which 346 calls a line that was not a part and was
+only a line, with a clerk's tick in the corner of it and nothing in it, and the tick means somebody went
+round that room with a pen and checked.** Five of nine carry; two to call a sitting. A spent majority may not
+be recalled at the same sitting. **A requisition lies in the quarter it is laid and a void sheet is not a sheet in the next one.** The
 five seals from the twenty-third of December have not gone anywhere; they have gone to a different quarter.
 **Nadia Ferrous says the sentence about the empty box not carrying anything on its own, once, and is right.**
 
@@ -364,9 +374,11 @@ the twenty-ninth of December and carries his name for four years.** **Copies of 
 on every person named in it.**
 
 **Ending hook:** he goes back up the sixty-one and Beatrix Halm tells him the plate has not moved all week
-and the wall has not said anything, **and that in about four days a copy of that paper will have reached six
-addresses in this city that belong to divisions, and that one of the six is a wing off a third court that is
-not on any map he has walked in four years.**
+and the wall has not said anything, **and that in about five days a copy of that paper will have gone out on
+the ordinary stream at four in the afternoon — the fourteenth to the nineteenth is five days, and the four
+sheets went out at four on the twenty-ninth of December the same way — and that it is bound for six addresses
+in this city that belong to divisions, and that one of the six is a wing off a third court that is not on any
+map he has walked in four years.**
 
 ---
 
@@ -379,9 +391,10 @@ The wall of two hundred sheets is back up and has been for three years.
 **Immediate goal:** tell the woman who told him that he has put her in the second line of a paper, before she
 finds out from a clerk in a sub-level in the flat voice.
 
-**Resistance:** **she has already read about it.** The copy was served at her own desk on the morning of the
-nineteenth and a thing served on you at your own desk is a thing you cannot say you did not receive. **She
-did not come down to be told. She came down to price it.**
+**Resistance:** **she has already read about it.** The sheet was laid at five minutes to eleven on the
+fourteenth and **the copy was served at her own desk at about nine on the morning of the fifteenth**, the
+day after it was laid, and a thing served on you at your own desk is a thing you cannot say you did not
+receive. **She did not come down to be told. She came down to price it.**
 
 **Major turn:** the terms go on the back of a departmental consult docket in her own hand and **there are
 three of them and not four, and the third is not a term.** A kettle and two cups, because she expected him
@@ -414,7 +427,10 @@ plain sentence about it herself and refuses to be comforted.**
 **Ending hook:** **she gives him one thing he did not ask for and cannot refuse** — the twenty-second stitch
 counted and the row initialled on the first of September, and the initials on it, and the fact that the man
 on the third floor has asked her, this week, to bring him the consult that answers a transfer carrying no
-name. **And she says she is going to do it, and she has not told anybody else, and he has about four days.**
+name. **And she says she is going to do it, and she has not told anybody else, and he has about four days**
+— the sixteenth to the twentieth, and **the twentieth is the last of the four days and no chapter in this
+batch is dated the twentieth, so the clock runs out between two chapters and is not a scene. It is not
+carried forward by anybody.**
 
 ---
 
@@ -425,10 +441,12 @@ eleven in the morning, and four in the afternoon.
 
 **Immediate goal:** find out where a copy of his own declaration goes, before it gets there.
 
-**Resistance:** **he cannot.** Service on the people named happened at their own desks on the fifteenth and
-there was no discretion in that and no division has ever been asked to exercise any. **The ordinary stream is
-the other half of it and it went out on the twentieth of December four sheets and it goes out again at four
-this afternoon, and it is the same eight addresses.**
+**Resistance:** **he cannot.** Service on the people named happened at their own desks on the fifteenth, the
+day after the sheet was laid, and there was no discretion in that and no division has ever been asked to
+exercise any. **The ordinary stream is the other half of it and it went out on the twenty-ninth of December
+four sheets, bound for eight addresses, every one of them inside one building on Ferrier Street — the
+twenty-ninth is the day the sheets were laid and the copies left at four that afternoon (348) — and it goes
+out again at four this afternoon, and it is the same eight addresses.**
 
 **Major turn:** eight out at four to eight addresses, **all inside one building on Ferrier Street, in the
 ordinary way, to no particular address** — and the chapter's turn is not the copies. **It is that a division
@@ -490,8 +508,11 @@ still say eight because it is made and dated and it issues at four.** **Mrs Imri
 cheaper* has the hour against it and she is a clerk and is not a character.** No ages for any of them.
 
 **Ending hook and the batch's closing beat:** he goes back up the sixty-one with four lines in his head and
-**the wall behind him says nothing at all about anybody**, which for the sixth week running is the only
-sentence he gets about his own safety, **and Sun Meiling has four days.**
+**the wall behind him says nothing at all about anybody**, which for the fourth week running is the only
+sentence he gets about his own safety, **and Sun Meiling has not said one word about the third floor since
+the sixteenth of January. Four days ran out on the twentieth. He has waited ten days for the sound of it and
+there is no sound, and a woman who has stopped announcing that she is going to do a thing is a different
+thing from a woman who never said she was.**
 
 ---
 

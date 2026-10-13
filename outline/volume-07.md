@@ -523,10 +523,11 @@ been.** A requisition tabled and refused is not a requisition received.
    A REQUISITION IS LAID AGAINST A PERSON AND THERE IS NOBODY TO SERVE IT ON.** The plan had the room
    wanting his account and the room being refused for reasons of character. **On the page the room had
    been ready since the second of October and could not act for sixty-nine days, because the sheet it
-   had been drawing carries four parts and three of them were full and the fourth is a box headed *held
-   by* with a clerk's tick in the corner of it and nothing in it — and the account is carried at
-   premises 34-6-118 because on the sixteenth of September he asked for it, in ninety seconds, at his
-   own request, and a woman did exactly what he asked and has been unprotected for it ever since.**
+   had been drawing carries four parts — *the subject, the holding, the figure, the ground* — and three of
+   them were full, and under the four, on a fifth line that was not a part and was only a line, is a ruled
+   box headed *held by* with a clerk's tick in the corner of it and nothing in it — and the account is
+   carried at premises 34-6-118 because on the sixteenth of September he asked for it, in ninety seconds,
+   at his own request, and a woman did exactly what he asked and has been unprotected for it ever since.**
    The requisition did not fail because the room was weak or the room was cruel. **It failed because of
    a box on a form, and the man who emptied the box filled it himself nine days later.**
 

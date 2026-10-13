@@ -190,9 +190,16 @@ Checked against `chapters/volume-07/` on 13 October 2026 and against `reviews/vo
   talking about.** (338, 350.)
 - **A requisition tabled on the sixth, heard on the fourteenth, refused with an instrument on the
   seventeenth, sealed by five of nine on the twenty-third and VOIDED at the ninth minute.** Four on the
-  sheet. **Nothing was taken off anybody, and she says so to his face in front of eight people.** The fourth
-  part of the sheet is a box headed *Held by*, the width of a hand, **with a clerk's tick in the corner of
-  it and nothing in it** — and the tick means somebody went round that room with a pen and checked.
+  sheet. **Nothing was taken off anybody, and she says so to his face in front of eight people.**
+  **THE SHEET HAS FOUR PARTS AND THE FOURTH OF THE FOUR IS THE GROUND: *the subject, the holding, the
+  figure, the ground*** (343, 346). Under the four, on a fifth line, is a ruled box headed *Held by*,
+  the width of a hand, **with a clerk's tick in the corner of it and nothing in it** — and the tick means
+  somebody went round that room with a pen and checked. **THE FIFTH LINE IS NOT A PART AND IS ONLY A
+  LINE.** 346 says so in the clerk's own words: *the fifth line, which was not a part and was only a line*
+  — and 343: the tick *is against the held by line, and it is the only tick on the whole of the four
+  parts.* **Nothing in this file may write the box as the fourth part. The ground is the fourth part,
+  the box is a line under it, and the difference between the two is what Volume 8's only load-bearing
+  invention stands on.**
 - **The room where nine people sit, as it stands:** Anouk Ferreira chairs it and will not make the smaller
   offer again and did not make the larger one. **Nikolai Vester walked out on the twenty-third and has not
   been in it since.** **The fourth seat has been empty since the first of November** because the man in it was
@@ -356,11 +363,25 @@ only from the painted card on the wall printed in the chapter that uses it, exac
 gives 8,146, and that is an inference from four data points and it is labelled as one here so that nobody
 mistakes it for a printed fact.**
 
-**AND THE CONSEQUENCE, WHICH IS THE VOLUME'S LAST IMAGE AND IT IS NOT A TRIVIAL ONE:** the floor does not move
-again until the thirtieth of March, and a plate falls when nothing is attested, **so a man who is on the
-floor of his band on the thirtieth of December is under it by the middle of January unless somebody else
-writes a deed down for him.** The two words come back up the wall the day he goes under, and inside a week.
-**Volume 8 ends with the wall talking about him again, and the chapter that does it is 400.**
+**PLAN — the second half of this subsection, and the reason it is in this register.**
+**AND THE CONSEQUENCE IS THE VOLUME'S LAST IMAGE AND IT IS NOT A TRIVIAL ONE.** The floor does not move again
+until the thirtieth of March, and a plate falls when nothing is attested. A plate is a figure for a week and
+it moves when somebody else writes a deed down, **and a witness line is a deed that somebody else wrote, and
+the eight have signed two — on the twenty-ninth of December and again on the fourteenth of January.** That is
+what holds a man on the floor of 8,145 through January and February and into March, and it is why nothing in
+this volume may print a date for the fall off nothing. **What the page does settle is the shape of it: the
+two words go back up the wall the day he goes under and inside a week; 357, 359 and 360 all report a wall
+still silent on the twenty-sixth of January; and Chapter 400, on the thirtieth of March, is the chapter in
+which the wall talks. So the fall is late — the last week of March, and the last ten chapters are ten days
+one a day, which is exactly where it has to go.** **Volume 8 ends with the wall talking about him again, and
+the chapter that does it is 400.**
+
+**THE SILENCE CLOCK, COUNTED ONCE HERE BECAUSE TWO CHAPTERS HAVE ALREADY CLAIMED THE SAME WEEK OF IT.** It
+starts on the thirtieth of December, when the card came down and the wall said no word about him at all, and
+there is no thirty-first in that month. **Five days to the fifth of January, and 353 is the first week.
+Twenty-six days to the twenty-sixth of January, and 360 is the fourth week. Ninety days to the thirtieth of
+March, and 400 is the thirteenth week.** No two chapters in this volume may call the same week of that
+silence, and no chapter may carry the number across from another.
 
 ### 5b. THE VOLUME'S DAY SPINE, AND EVERY INTERVAL RE-SUBTRACTED
 
@@ -446,11 +467,15 @@ thing as a first.
   only answer by putting a name on it, and I did not put a name on it.* **She has therefore told them the
   shape and not the woman.** And: she will not be visited with good news for a week and it has not been one.
 - **353 (5 Jan). THE PLATE HOLDS AND IT IS NOT HIS.** 8,145 on the nose, the floor 8,145, **and the wall
-  says nothing about him for the sixth week running.** The arithmetic is Beatrix's and it is the first
-  arithmetic in this volume that flatters him: **branch attendants score in aggregate to the whole staff and
-  the split has never been published, and a man standing on the floor of his band on the strength of a
-  formula he has never seen is the most anonymous thing available to him.** **He does not want it.** He has
-  been invisible on purpose for seven years and this is the first invisibility he did not build.
+  says nothing about him for the first week running — five days, from the card of the thirtieth of December
+  to the fifth of January, and there is no thirty-first in it.**
+  The arithmetic is Beatrix's and it is the first arithmetic in this volume that flatters him: **branch
+  attendants score in aggregate to the whole staff and the split has never been published, and a man standing
+  on the floor of his band on the strength of a formula he has never seen is the most anonymous thing
+  available to him. It explains why nothing on the plate can be traced to him. It did not put him on the
+  floor: eight witness hands signed under a page on the twenty-ninth and that is the whole of the arithmetic,
+  and Chapter 349 closed the question.** **He does not want it.** He has been invisible on purpose for seven
+  years and this is the first invisibility he did not build.
 - **354 (8 Jan). SIX OF THE EIGHT HAVE A POST.** Runa Sato does the arithmetic he has never done. **A
   description of premises carries the public post of anybody at that address who holds one** (316), and the
   declarations of five of the eight go to divisions: the Field, the Bureau counter-forensics that holds the
@@ -467,9 +492,14 @@ thing as a first.
   the same hand, in the same room, and it is the difference between a document that makes him findable and a
   document that makes him **answerable**.
 - **357 (14 Jan). EIGHT HANDS, AGAIN.** Witnessed at his own table and laid in at five minutes to eleven.
-  **The gap in the line is where it was — two fingers wide, fourth seat — and the second time he sees it he
-  understands that the missing signature is not his eight women, it is a member of the room.** **THE
-  IRREVERSIBLE DECISION OF BATCH 0001 IS 356 AND 357 TOGETHER.** The empty box can never be empty again.
+  **THE SERVICE SPINE, FIXED HERE ONCE BECAUSE THREE CHAPTERS HAVE ALREADY HAD THREE ANSWERS: laid at five
+  minutes to eleven on the fourteenth, served at the desks of the people named on the FIFTEENTH, and out on
+  the ordinary stream at four in the afternoon on the NINETEENTH. Fourteen to the nineteenth is five days and
+  Beatrix's forecast in 357 is five days. Nothing in this volume may put a fifteenth-service in the future of
+  a sixteenth chapter.** The gap in the line is where it was — two fingers wide, fourth seat — and the second
+  time he sees it he understands that the missing signature is not his eight women, it is a member of the
+  room. **THE IRREVERSIBLE DECISION OF BATCH 0001 IS 356 AND 357 TOGETHER.** The empty box can never be empty
+  again.
 - **358 (16 Jan). THE SCENE. SUN MEILING.** Off a third court, up an iron stair, eight doors shut, a side
   room with two hundred sheets on a wall that has been covered for three years. **Three terms and not four,
   and the third is not a term.** A kettle and two cups, because she expected him and did not want two. **She
@@ -628,7 +658,9 @@ minute.**
   anybody for wanting something. **And she does not leave and does not forgive it and does not put it down.**
 - **383 (13 Mar). THE ADDRESS IN HER OWN HAND.** She does it anyway, on her own, at a counter, in the
   ordinary way, **and dates it**, and the composition of premises 34-6-118 goes to seven on a leaf on the
-  first and **the priced line of the sixteenth of September is finally, three months later, correct.**
+  first and **the priced line of the sixteenth of September is finally, a hundred and sixty-five days later,
+  correct** — fourteen to the thirtieth of September, thirty for October, thirty for November, thirty for
+  December, thirty for January, thirty for February, and one more to the first of March.
   **WHAT THE BATCH MUST NOT ALLOW HERE: the list does not un-issue. The list said eight on the thirtieth of
   October and it issues at four and both figures are true at once.**
 - **384 (14 Mar). A COMPOSITION OF SEVEN.** The account is carried forward. **He has saved it by losing the
@@ -650,9 +682,13 @@ minute.**
   in it, with a date and a direction, and the book does not come off the desk.** She cannot give him the page
   and she tells him the truth anyway: *he came up that stair on his own feet and he was not brought up, and I
   wrote it down, and nobody has ever come to read it.* **What changes: he has a floor, a date and a
-  direction, and no means of getting there, and the woman who has the means is the only person in this book
-  with no gift and has never scored once.** And she is wanted and says so, and it is about being wanted by a
-  man who is at the bottom of the Board by a wall that has nothing written on him.
+direction, and no means of getting there, and the woman who has the means is the only person in this book
+  with no gift and has never scored once. And she is wanted and says so, and `bible/characters.md` says what
+  it is about in one line and this file does not improve on it: **being wanted at the bottom of the Board by a
+  man who is at the top of it.** She is the bottom of it because she has never scored once and there is no
+  tile on that board with her name on it. He is the top of it in the only sense that has ever mattered to
+  either of them, which is that his name is at the top of a page. **There is a wall between those two things
+  and nothing is written on it about him.**
 - **389 (19 Mar). THE PAGE WITH ONE DIRECTION.** The aftermath of 388 in about six hundred words, and it is
   cold, and **Dagmar Oyelowo is the only person in this volume who does not soften anything for him, because
   she has nothing to soften it with.**
@@ -686,9 +722,9 @@ a sheet in the quarter it was laid.
   and somebody believed it, and the belief had a shape, and the shape had a route, and the route is an
   office. **Nothing is resolved and everything has been spent.**
 - **397 (27 Mar). THE REASON SHE TOLD IT AT LAST.** She is not asked. She says it because she decided to on
-  the night of the thirtieth of December and has been carrying it for ninety days, **and she is not telling
-  him about the address, and he is not asking, and the two facts sit in the room together for the ninth time
-  in this book.**
+  the night of the thirtieth of December and has been carrying it for eighty-seven days, **and she is not
+  telling him about the address, and he is not asking, and the two facts sit in the room together for the
+  ninth time in this book.**
 - **398 (28 Mar). THE SCENE. WREN KALLO. THE VOLUME'S LAST SCENE.** **Terms, and they are the five she wrote
   on a sheet in a clerk's hand on the thirtieth of December, and she has brought the sheet, and one of the
   five has been crossed out and she says which and why.** The hinge is that **she told them, and it cost the
@@ -699,12 +735,13 @@ a sheet in the quarter it was laid.
   goes out of it, and what it says, and the one line in it that is worse than the rest.
 - **400 (30 March, at six). THE TWO WORDS RETURN.** **The card comes down on different paper in a different
   hand from a boy with a paste brush, and prints the floor, and he is under it, and the ranks wall has said
-  nothing about him for six weeks and says something about him again before the end of the week.** **The
+  nothing about him for thirteen weeks and says something about him again before the end of the week.** **The
   requisition is live and goes into the next quarter with him. The account is called again on the first of
   April. And the woman who told him has read four lines and cannot unread them.**
 
-**WHAT CLOSES IN MOVEMENT 5:** *six weeks of quiet on the wall.* **THE COST: everything above, and the file
-is open, and it is not what he wanted, because his name is not in it.**
+**WHAT CLOSES IN MOVEMENT 5:** *thirteen weeks of quiet on the wall, the thirtieth of December to the thirtieth
+of March.* **THE COST: everything above, and the file is open, and it is not what he wanted, because his name
+is not in it.**
 
 **WHERE THIS PLAN IS MOST LIKELY TO BE WRONG, AND WHAT THE PAGE OWNS IF IT IS.**
 
@@ -769,8 +806,8 @@ four years about having sealed it** · **the woman in the sixth seat, who withdr
 **Nikolai Vester, who walked out on the twenty-third of December** · **Wanda Rej, and what her hand says
 now the plaster is off** · **the exposure of the sixteenth of November, which began the requisition and saved
 her, and which nobody has forgiven or blamed** · **a correction form with a fourth box** · **Hanneke Ruis's
-seventeen days and the strap on the fifth book** · **Alma Quayle's recusal, and whether the chair ever lifts
-it** · **the two words on the ranks wall, which will go back up inside a week of his going under** ·
+hundred and four days and the strap on the fifth book** · **Alma Quayle's recusal, and whether the chair ever
+lifts it** · **the two words on the ranks wall, which will go back up inside a week of his going under** ·
 **whether the fifth seal is still available** · **Mrs Imrie's entry of *because it is cheaper*, with the hour
 against it** · **whether the composition being seven un-saves the account or dooms it** · **Beatrix Halm's
 line in the notebook about him that has nothing in it** · **the standing undertaking of the sixteenth of
