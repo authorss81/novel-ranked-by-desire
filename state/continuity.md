@@ -39,7 +39,7 @@
 | 347 | 26 Dec | 4 | the minute in four hands; what a quarter is; the sentence he could not get out in the right order |
 | **348** | **29 Dec** | **1** | **THE IRREVERSIBLE DECISION.** Four sheets in his own hand, eight witness hands, a gap where the fourth seat is, eight copies out at four |
 | **349** | **30 Dec, early morning** | **0** | **THE CARD AT SIX. FLOOR 8,145. HE STANDS AT 8,145. THE WALL SAYS NOTHING** |
-| **350** | **30 Dec, at night** | **0** | **THE SCENE. Wren Kallo's. Body 1,610 words, counted and probed. The volume's last chapter** |
+| **350** | **30 Dec, at night** | **0** | **THE SCENE. Wren Kallo's. Body 1,626 words, counted and probed. The volume's last chapter** |
 
 **ANCHORS, all printed elsewhere in the manuscript and none moved:** the priced line of the sixteenth of September, initialled and not signed · the keys changed on the seventeenth of September · the figure of 8,138 standing against the account since the twenty-fourth of August · the floor set at 8,144 on the thirtieth of September · Wren Kallo took the address at about eleven on the second of October and the leaf took eight · the song sung at about twenty past ten on the fifteenth of October and the card pulled down at two that morning · the description made against the head at nine on the twenty-seventh of October · the fair copy on the twenty-eighth · the list out at four on the thirtieth · Runa Sato reads it at nine on the first of November · **the books to a guild table at seven on the morning of the sixteenth, and nine people read them at nine** · **the requisition tabled on the seventeenth of November** · the plate up at half past four on the fifteenth, the twenty-second and the twenty-ninth of November · the term sworn in the dark on the ninth of July · **the called mark in the chained book at ten to nine on the first of December** · **Alma Quayle's recusal written on the second of December and accepted on the fourth** · **the sitting called by two members for the twenty-third** · **the minute out at four on the twenty-sixth** · **the page laid into the keeping of the room on the twenty-ninth** · **the quarterly card at six on the thirtieth**.
 
@@ -63,6 +63,7 @@
 14. **A MINUTE IN FOUR HANDS IS THE SHAPE OF EVERY FACT THAT HAS MATTERED SINCE THE TWENTY-NINTH OF JUNE, AND THE DIFFERENCE IS THAT THIS ONE HAS HIS NAME IN THE MIDDLE OF IT.**
 15. **A COPY OF A PAPER LODGED WITH A ROOM IS SERVED ON EVERY PERSON NAMED IN IT. THERE IS NO DISCRETION IN THAT AND NO DIVISION HAS EVER BEEN ASKED TO EXERCISE ANY.**
 16. **A WOMAN WHO HAS SAID WHAT SHE WILL NOT BE IS OWED ONE EVENING OF NOT BEING VISITED WITH GOOD NEWS**, and he paid that on the thirtieth of December.
+17. **THE WRIST SCAR IN 350 IS INES DUARTE'S AND NOT WREN KALLO'S, AND CHAPTER 350 WAS REPAIRED TO SAY SO.** As first written, 350 gave Wren Kallo a fine white scar on the inside of her left wrist, from a fastener, in the spring of her third year here — **the same wound, on the same wrist, from the same cause, in the same season, as the paper cut Ines Duarte is given at 340.** Two women in one building do not carry one wound, and the duplication sat at eleven words, below the twelve-word gate that was supposed to catch it. **The scar belongs to Ines Duarte and to nobody else.** Wren Kallo's body is as 350 now reads it: pale and thin through the middle, narrow through the shoulders with it, high-breasted, ink at the roots of two nails, and the white of her left eye yellow at the corner since the spring, which she has not had looked at and is not going to.
 
 ### 3. WHAT VOLUME 7 IS FOR, AND WHAT IT COST
 
@@ -85,7 +86,7 @@
 
 **Live gate block: `state/open-threads.md`, Batch 0005's, at the head of the file.** Day map, every figure, tokenisation and scope for the 12-gram scan, the scene count AND the explicit-vocabulary probe, and every interval re-subtracted against a printed anchor.
 
-**SCENES IN VOLUME 7, AND THERE ARE FIVE: 308 (Isolde Marchetti), 318 (Runa Sato), 329 (Marguerite Vale), 340 (Ines Duarte), 350 (Wren Kallo).** Body counts, all measured and probed: **318 — 2,313 · 329 — 1,107 · 340 — 1,444 · 350 — 1,610.** Gaps: 299 → 308 = 9 · 308 → 318 = 10 · 318 → 329 = 11 · 329 → 340 = 11 · **340 → 350 = 10.** **The scene budget after 350 is zero.**
+**SCENES IN VOLUME 7, AND THERE ARE FIVE: 308 (Isolde Marchetti), 318 (Runa Sato), 329 (Marguerite Vale), 340 (Ines Duarte), 350 (Wren Kallo).** Body counts, all measured and probed: **318 — 2,313 · 329 — 1,107 · 340 — 1,452 · 350 — 1,626.** Gaps: 299 → 308 = 9 · 308 → 318 = 10 · 318 → 329 = 11 · 329 → 340 = 11 · **340 → 350 = 10.** **The scene budget after 350 is zero.**
 
 ---
 
@@ -126,7 +127,7 @@
 | **337** | **28 Nov** | **2** | **9** since the nineteenth, **3** of the eleven left; **31** since the description. **The eleventh ends at midnight at the end of the twenty-ninth, not that night** | **SHE READS IT.** A day lost and a drawer |
 | 338 | 29 Nov | 1 | **10** since the nineteenth; **13** since the books went out; the eleventh day running | the eleventh day running; three slips burned and one filed |
 | **339** | **30 Nov, morning** | **0** | **11** since the nineteenth | **the count again; 8,131; the certificate at nine** |
-| **340** | **30 Nov, at night** | **0** | 11 since the nineteenth; **138** days of the term kept before he broke it on the 27th, **141** to tonight | **THE SCENE. Ines Duarte's.** Body 1,444 words |
+| **340** | **30 Nov, at night** | **0** | 11 since the nineteenth; **138** days of the term kept before he broke it on the 27th, **141** to tonight | **THE SCENE. Ines Duarte's.** Body 1,452 words |
 
 Anchors, all printed elsewhere and none moved: the leaf of the second of October at about eleven · the priced line of the sixteenth of September · the keys changed on the seventeenth of September · the quarter-book closed and the floor set at 8,144 on the thirtieth of September · the production sworn at ten to nine on the first of October · the correction refused and the referral signed on the nineteenth · the song sung at about twenty past eleven on the fifteenth of October and the card pulled down at two that morning · eight hands in a kitchen on the twenty-fourth of October · the description made against the head at nine on the twenty-seventh · the fair copy on the twenty-eighth · the list out at four on the thirtieth · Runa Sato reads it at nine on the first of November · the plate up at half past four on the fifteenth of November, the twenty-second and the twenty-ninth · **the books to a guild table at seven on the morning of the sixteenth** · **the term sworn in the dark on the ninth of July.**
 

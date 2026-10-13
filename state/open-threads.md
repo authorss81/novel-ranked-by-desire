@@ -2,7 +2,7 @@
 
 > **Every number below was produced by command against the files as they stand AFTER THE LAST PROSE EDIT (the last prose edit was the scene rewrite in 350), by passes that did not write the prose, with tokenisation and scope stated wherever a number needs them. The 12-gram scan ran FIRST, before the 8-word scan, against all 350 chapter files, and again after every repair round — three further times after the last prose edit. No paragraph splitter ran at any floor, ever. The only pass over paragraphs is a reporter that prints lengths and writes nothing. Every over-length paragraph was split BY HAND at a speech beat or a sentence beat, and whole-file quotation counts were re-checked after each round.**
 
-**Ten chapters, thirty days. A month is thirty days and has no thirty-first. The thirtieth of December is the last working day of the quarter and the quarterly card comes down at six.** Day map: 341 the 1st, the valuation at ten to nine and the room seen from a corridor · 342 the 6th, the requisition served and the arithmetic of nine · 343 the 10th, the reason, the holding, and the ninety seconds on the sixteenth of September · 344 the 14th, THE HEARING, Anouk Ferreira · **345 the 17th, THE MIDPOINT, the smaller offer, and the instrument he refuses it with** · **346 the 23rd, THE CLIMAX'S FIRST HALF, NINE MINUTES AND NO MAJORITY** · 347 the 26th, the minute in four hands · **348 the 29th, THE BATCH'S IRREVERSIBLE DECISION, the page he signs** · 349 the 30th, early morning, the card at six, 8,145 on the nose · **350 the 30th, at night, WREN KALLO'S SCENE, body 1,610 words, counted AND probed, and the volume's last chapter**.
+**Ten chapters, thirty days. A month is thirty days and has no thirty-first. The thirtieth of December is the last working day of the quarter and the quarterly card comes down at six.** Day map: 341 the 1st, the valuation at ten to nine and the room seen from a corridor · 342 the 6th, the requisition served and the arithmetic of nine · 343 the 10th, the reason, the holding, and the ninety seconds on the sixteenth of September · 344 the 14th, THE HEARING, Anouk Ferreira · **345 the 17th, THE MIDPOINT, the smaller offer, and the instrument he refuses it with** · **346 the 23rd, THE CLIMAX'S FIRST HALF, NINE MINUTES AND NO MAJORITY** · 347 the 26th, the minute in four hands · **348 the 29th, THE BATCH'S IRREVERSIBLE DECISION, the page he signs** · 349 the 30th, early morning, the card at six, 8,145 on the nose · **350 the 30th, at night, WREN KALLO'S SCENE, body 1,626 words, counted AND probed, and the volume's last chapter**.
 
 ### Gates run after the last edit
 
@@ -28,7 +28,7 @@ titles           unique across ALL 350 written titles -> NONE duplicated anywher
 wc 341-350       2081 / 2175 / 1973 / 2150 / 1988 / 1992 / 1981 / 1966 / 1934 / **2925**.
                    **NINE INSIDE 1,800–2,700 AND ONE NAMED LEAVER.**
                    **350 LEAVES THE BAND AT 2,927 AND THE NAMED REASON IS: it is the scene chapter and
-                   the volume's last chapter. Its scene body is 1,610 words measured from `## The Second
+                   the volume's last chapter. Its scene body is 1,626 words measured from `## The Second
                    Floor` to `## What She Cannot Keep` exclusive of both, counted AND probed, and the
                    chapter carries the four things that close the volume (the thing she cannot keep, the
                    fact that the offer was not made, that a requisition was tabled and voided, and that
@@ -156,7 +156,7 @@ meta / ages      **0.** novel|narrator|reader|this volume|volume <digit>|chapter
                   age fixed anywhere and none is given here.
 fades            `it went on a long time` -> 0. `afterwards` -> 0 (two in 350 removed in repair).
                   **SCENE COUNT AND PROBE, BOTH IN THE ROW, BECAUSE A COUNT IS NOT A PROOF.**
-                  **COUNT: 1,610 words, `## The Second Floor` -> `## What She Cannot Keep`, exclusive
+                  **COUNT: 1,626 words, `## The Second Floor` -> `## What She Cannot Keep`, exclusive
                   of both headings. PROBE, case-insensitive, read as words:** mouth 6 · bed 9 · hair 5 ·
                   came 3 · thighs 3 · inside 3 · finger 2 · fingers 2 · nipples 2 · come 2 · thigh 3 ·
                   tongue 1 · wet 1 · cock 1 · shaft 1 · cunt 1 · breasts 1 · hips 1 · stomach 1 ·
@@ -239,7 +239,7 @@ dates            **EVERY INTERVAL RE-SUBTRACTED OUT LOUD AGAINST PRINTED ANCHORS
 
 > **Every number below was produced by command against the files as they stand AFTER THE LAST PROSE EDIT, by a pass that did not write the prose, with tokenisation and scope stated wherever a number needs them. The 12-gram scan ran FIRST, before the 8-word scan, against all 340 chapter files, and again after every repair round. No paragraph splitter ran at any floor, ever. The only pass over paragraphs is a reporter that prints lengths and writes nothing. Every over-length paragraph was split by hand at a speech beat, and whole-file quotation counts were re-checked after each round.**
 
-**Ten chapters, twelve days. A month is thirty days and has no thirty-first. The thirtieth is the last working day.** Day map: 331 the 19th, the decision and the printed count · 332 the 20th, the bin floor at two in the morning · 333 the 21st, the household's intelligence goes blind · 334 the 23rd, the plate at 8,139 and the two words back · 335 the 25th, A FIGURE UNDER A FLOOR, the account callable, and the fall at two in the morning · 336 the 27th, Lantern Row and the ask · 337 the 28th, THE IRREVERSIBLE DECISION, she reads it · 338 the 29th, the eighth of them, eleven lines in eight hands, and a false slip · **339 the 30th, morning, the count read again and the wall at 8,131** · **340 the 30th, at night, INES DUARTE'S SCENE, body 1,444 words, counted AND probed**.
+**Ten chapters, twelve days. A month is thirty days and has no thirty-first. The thirtieth is the last working day.** Day map: 331 the 19th, the decision and the printed count · 332 the 20th, the bin floor at two in the morning · 333 the 21st, the household's intelligence goes blind · 334 the 23rd, the plate at 8,139 and the two words back · 335 the 25th, A FIGURE UNDER A FLOOR, the account callable, and the fall at two in the morning · 336 the 27th, Lantern Row and the ask · 337 the 28th, THE IRREVERSIBLE DECISION, she reads it · 338 the 29th, the eighth of them, eleven lines in eight hands, and a false slip · **339 the 30th, morning, the count read again and the wall at 8,131** · **340 the 30th, at night, INES DUARTE'S SCENE, body 1,452 words, counted AND probed**.
 
 ### Gates run after the last edit
 
@@ -267,7 +267,7 @@ titles           unique across ALL 340 written titles -> NONE duplicated anywher
 wc 331-340       2269 / 2079 / 1845 / 1893 / 1924 / 2076 / 2094 / 2101 / 1995 / **3900**.
                    **NINE INSIDE 1,800–2,700 AND ONE NAMED LEAVER.**
                    **340 LEAVES THE BAND AT 3,900 AND THE NAMED REASON IS: it is the scene chapter,
-                   its scene body is 1,444 words measured from `## The Two Rooms` to
+                   its scene body is 1,452 words measured from `## The Two Rooms` to
                    `## What She Read To Him` exclusive of both, and the chapter carries three
                    instruments that close the batch (a file in a drawer in Lantern Row, a request on
                    the ordinary stream for the whole of file 4,112 before the valuation of the first
@@ -374,7 +374,7 @@ meta / ages      **0.** novel|narrator|reader|this volume|volume <digit>|chapter
                   Wren Kallo's request, one hundred and thirty-eight days since the ninth of July.
 fades            `it went on a long time` -> 0. `afterwards` -> 0 (all seven removed in repair).
                   **SCENE COUNT AND PROBE, BOTH IN THE ROW, BECAUSE A COUNT IS NOT A PROOF.**
-                  **COUNT: 1,444 words, `## The Two Rooms` -> `## What She Read To Him`, exclusive
+                  **COUNT: 1,452 words, `## The Two Rooms` -> `## What She Read To Him`, exclusive
                   of both headings. PROBE, case-insensitive, read as words:** mouth 6 · came 9 ·
                   inside 5 · hair 7 · thigh(s) 2 + 2 · tongue 2 · fingers 2 · wet 2 · cock 1 ·
                   shaft 1 · breasts 1 · nipples 1 · gasp 1 · lick 1 · hips 1 · come 1.

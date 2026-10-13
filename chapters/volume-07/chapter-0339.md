@@ -102,7 +102,7 @@ She shut the folder and picked up her hat.
 
 "You are not going to ask me a question about this address," she said, "so I am going to go, and the certificate is on your table, and the other thing is in my division's file, and on the first of December there is a valuation at ten to nine and a mark entered by a pen on a chain, and I have no standing in it and no business there and I am going to be at my desk by eight."
 
-She went down the sixty-one and the stair took her weight without a sound.
+She went down the sixty-one, taking her weight on her hand at every third step, and the stair said nothing about it.
 
 ## Eleven O'Clock In The Morning
 

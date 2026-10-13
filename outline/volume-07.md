@@ -139,7 +139,7 @@ From `state/current.md` §2 and `state/continuity.md`'s Batch 0005 block, all of
 | **318** | **Runa Sato** | 308 → 318 = 10 |
 | **329** | **Marguerite Vale** | 318 → 329 = 11 |
 | **340** | **Ines Duarte** | 329 → 340 = 11 |
-| **350** | **Wren Kallo. WRITTEN. Body 1,610 words, counted and probed. And the volume's last chapter.** | 340 → 350 = 10 |
+| **350** | **Wren Kallo. WRITTEN. Body 1,626 words, counted and probed. And the volume's last chapter.** | 340 → 350 = 10 |
 
 **No gap under eight and none over fourteen, and the gaps are not one chapter's choice to make.** 308 and
 350 are the fixed ones; 318, 329 and 340 may move one chapter inside their own ten without pushing a gap
@@ -487,7 +487,7 @@ been.** A requisition tabled and refused is not a requisition received.
      because a wall is read whole and a woman with a notebook taught him that at a quarter to six.**
    - **340 IS THE SCENE AND IT IS INES DUARTE'S, AND THE BATCH'S LAST MOVE IS NOT HIS.** Terms first: nothing
      is spent, her gift is used on nobody, she is not impaired and will not be made so. **He comes up the
-     stair with his hands empty, and the scene body is 1,444 words.** Afterwards **she reads the classification
+     stair with his hands empty, and the scene body is 1,452 words.** Afterwards **she reads the classification
      back to him, out loud, for eleven minutes** — because the ninth of July was about what was done to her in
      a room and never meant she could not read a paper back at him — and tells him **nothing is read in that
      room again, not to her and not by him**. And she shows him a request she lodged on the ordinary stream at
@@ -654,7 +654,7 @@ been.** A requisition tabled and refused is not a requisition received.
      not be made so, and there is no drink in the room · her gift is not used, not once, not on a record
      and not on a person and not on him · there is nothing in that room holding either of them, not the
      gift, not the term of the ninth of July, not a document · and five, which is that she is not there
-     because he is in trouble, and he has to say it out loud.** Scene body **1,610 words, counted and
+     because he is in trouble, and he has to say it out loud.** Scene body **1,626 words, counted and
      probed**, written out, unhurried once it begins, no compulsion, no sedation, no psychic contact, no
      seal, no violence, her gift used on nobody. **Afterwards she tells him what she cannot keep: two
      documents about the same eight women at the same door, made inside a month by the same pair of

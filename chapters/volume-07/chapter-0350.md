@@ -16,7 +16,7 @@ He read it. It was in a clerk's hand because a clerk's hand is the only kind of 
 
 *One. Nothing is spent. Not on me. Not on anyone. Not tonight. If that is what you came down sixty-one steps for, go back up them and do not knock on this door again this year.*
 
-*Two. I am not impaired and you will not make me so. I have eaten. I slept four hours this afternoon because I could not lie down. There is no drink in this room and no cloth over anything, and the only thing with any hold on me in it is a woman who has decided. Say out loud what that is, because in about four years somebody will write a document about this evening and I want the right word in it.*
+*Two. I am not impaired and you will not make me so. I have eaten. I slept four hours this afternoon because I could not lie down. There is no drink in this room and no cloth over anything, and the only thing with any hold on me in it is a woman who has decided. Say out loud what that is, because in about four years somebody is going to write this evening down, and I want the right word in it.*
 
 *Three. My gift is not used tonight. Not once. I am not reading a record and I am not reading a person and I am not looking at the shape of an edit in anything, including you. I am asking you for that in writing, because it is the one thing in this city I cannot promise anybody on an ordinary night and I can promise it on this one.*
 
@@ -56,9 +56,9 @@ She undressed before he did and she did it in an order and at a speed that gave 
 
 Her cuffs first, then her collar, then the front of her blouse, which she pulled over her head with one movement the way somebody does a thing they have done ten thousand times. She put each garment over the back of the single chair, on top of his coat.
 
-She was pale and thin through the middle. Two of the nails of her right hand were stained at the roots with ink, and no soap in this city has ever been able to shift it in eleven years.
+She was pale and thin through the middle, and narrow through the shoulders with it, and high-breasted. Two of the nails of her right hand were stained at the roots with ink, and no soap in this city has ever been able to shift it in eleven years.
 
-Her breasts sat high and close together, and the nipples were already the colour of the inside of her mouth. A fine white scar crossed the inside of her left wrist, from a fastener, in the spring of her third year here, and she had not gone to anybody about it then and had not gone to anybody about it now.
+Both nipples were already standing up and dark, the colour her own mouth goes on the inside. Her eyes were the eyes of a woman who reads four hundred hands a week, and the white of the left one had been yellow at the corner since the spring and she had not gone to the Vestry clinic about it and was not going to.
 
 She sat down on the edge of the bed and undressed the rest of herself without standing up.
 
