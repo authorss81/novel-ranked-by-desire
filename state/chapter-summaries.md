@@ -9,10 +9,8 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** |
-
-
-| 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **PLANNED, NOT WRITTEN. No file in `chapters/volume-07/` exists.** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0001/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Planned scenes at 308, 318, 329, 340 and 350 — Isolde Marchetti, Runa Sato, Marguerite Vale, Ines Duarte, Wren Kallo — and the volume ends on the thirtieth of December with the card at six and him on the floor at 8,145, where the ranks wall finally says no word about him.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **VOLUME CLOSED IN PROSE at Ch 300. Five batches, all written and reviewed. Scenes at 261, 269, 279, 289, 299 — 261 is Isolde Marchetti's, 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it, 279 is Wren Kallo's, 289 is Sun Meiling's, and **299 is Beatrix Halm's and is the volume's last, written out at length after review found an earlier draft had summarised it.** At 300: **the reservoir is priced at seven, dated the sixteenth of September, initialled and not signed, carried at premises 34-6-118 and answerable by the composition of that premises — he described it rather than asking for a figure and she priced it in ninety seconds, which is Volume 6's failure condition fulfilled at the lead's own request** · **the seventh returned line closes blank on the thirtieth and can never be named** · **8,138 is answered on the first of October by a production of seven sworn in his own hand and the figure stays on the page** · **the band floor went to 8,144, six under, and the plate did not move a grain in five years** · **and he is not classified. He made himself describable, which is worse, because a classification needs an address, a figure and a reason and he has put all three on a page with his own hand on the description.** || 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batch 0001 written (301–310).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scene at 308 is Isolde Marchetti's and is written out; 318 Runa Sato, 329 Marguerite Vale, 340 Ines Duarte, 350 Wren Kallo remain.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.** | Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0001/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Planned scenes at 308, 318, 329, 340 and 350 — Isolde Marchetti, Runa Sato, Marguerite Vale, Ines Duarte, Wren Kallo — and the volume ends on the thirtieth of December with the card at six and him on the floor at 8,145, where the ranks wall finally says no word about him.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record.** |
+| 7 | Seven | 301–350 | Survive classification, or the reservoir is requisitioned by the Concil of the Nine and stops being his. **OPEN. Batch 0001 written (301–310).** Outline `outline/volume-07.md`; cards `outline/batches/volume-07-batch-0001.md`–`0005.md`; the one live phase prompt is `workspace/volume-07/batch-0002/PROMPT.md`. **The engine:** the priced line of the sixteenth of September says seven and the composition of those premises becomes eight at about eleven on the second of October, and an account that cannot be carried is a thing that has to be described — and a description of a house is a list of the people in it. **The turn:** he has been band six on paper and five on his plate for five volumes, and seven is the band that carries requisition of merit from a person, so he has to be scored in public for the first time in the book. **Scene at 308 is Isolde Marchetti's and is written out; 318 Runa Sato, 329 Marguerite Vale, 340 Ines Duarte, 350 Wren Kallo remain.** **The plan was reviewed and repaired by the next phase; nothing in it moved and `reviews/volume-07-planning.md` carries the record. Batch 0001 rewrote §6 movement 1 against the page.**
 
 > **Volumes 1 to 5 are CLOSED IN PROSE and their per-chapter summaries are at
 > `state/archive/chapter-summaries-v1-v5.md`,** moved there on Batch 0004's review pass because this file had reached
@@ -813,3 +811,180 @@ documents about one address in four buildings inside a quarter, and not one of t
 top of a page. A classification does not need a man in it — it needs an address, and a figure, and a
 reason — and the system has not looked for him; it has read six papers in the order they arrived and drawn
 one line between them, and the line is an address.** He was not classified. He made himself describable.
+
+---
+
+## VOLUME 7 — CHAPTERS 301–310. LIVE. THE SECOND OF OCTOBER TO THE NINETEENTH.
+
+> **THE SCENE IS 308 AND IT IS THE ONLY ONE.** The gaps are 299 → 308 = 9 and 308 → 318 = 10. The volume's
+> remaining scene budget is **318, 329, 340 and 350** and none of 301–307, 309 or 310 may be given one.
+> **Volume 7 names no day of the week at all.** Plate 8,138, floor 8,144, six under, the two words on the
+> wall unchanged since the thirtieth of July. Nothing spent, nothing drawn, nothing routed.
+
+### Ch 301 — The Address She Took In The Ordinary Way
+**The volume opens on the date Volume 6 fixed.** He is in a corridor of the district house at ten to eleven on
+the second of October with **eleven words ready to stop Wren Kallo**, and he worked out at half past five on a
+tram platform that the cheapest way out of a priced account is to stop being the sort of thing that can be
+priced, and that it is the one thing he is not allowed to do. **She comes up the corridor at five to eleven,
+goes past him, and puts herself into the fresh leaf of the quarter-book that opened on the first.** The figure
+at the head of the leaf goes to **eight**, and there are now two figures for one door in two books in two
+buildings. The third-quarter book closed on the thirtieth of September, is on a store shelf in Ferrier Street,
+weighs four pounds and a bit, and is not coming out; it holds a seventh returned line with a rule under it and
+nothing on it and six words of clerk's pencil and a clerk's number beside it. **She asks him on the way out
+whether the counter opens at nine or at ten, and says she will come back at three and tell him which.** At
+seven that evening she tells the kitchen standing, with her hands behind her back, and says she did it
+herself and would like it noted. **Sun Meiling puts a palm on the certificate on the shelf over the sink and
+states the bar was for her and that a fresh leaf takes anybody who walks up to a counter.** He prices it in
+front of them: twenty-eight days, three doors, the thirty-first is not a day this city has. Petra Ilyin comes
+in late with the bundle and says she will be on that step on the first and the figure under the address is
+going to be eight, and that in nineteen years she has never carried a figure that was wrong.
+
+### Ch 302 — Two Figures For One Door
+The counting room, the fourth of October, about four in the afternoon, two flights with no window and a bottom
+step worn into a shallow bowl. **The runner at the top has a list, and he is told the second door on the left
+and to knock once.** **The keeper is named on the page for the first time: Hanneke Ruis, who took the keys on
+the seventeenth of September.** A copy of the fresh leaf came up on the ordinary stream, because a line
+answerable by a composition moves when the composition moves. She will not repeat a name off a composition
+return to a man whose address is in the book; she will say whether she held an address there before, because
+that is the one question a keeper has to ask. **She says the two things that matter and both are true: his
+sworn answer is not wrong and it is one day old, and an answer which has been overtaken does not correct
+itself.** She also tells him a third time in three months will be a habit, and that only the head of the
+premises can swear a production. He says, in a room with no window, **that the woman who asked not to be
+written down is not in that room and not at those premises — Ines Duarte is not at those premises, is not on
+the leaf, and is not the eighth name.** She will not sign anything about a household, because the afternoon she
+does she stops being the keeper of that room. **The chapter ends on her question, which is where it is fed
+from, and the only answer he has is that it comes there because of him and he will not say what he does
+between five and seven in the morning.**
+
+### Ch 303 — The Book That Would Not Reconcile
+The sixth floor of the district house, the sixth of October, about eleven. **He arrives wearing two hats and
+has chosen neither on the way: he is the head of those premises and, from the first of August, the auditor of
+record of the schedule.** Mr Sedley tells him that a district return is not amended by a head, that the
+auditor may not write in a premises book, that the auditor is six under a band floor on a public wall and
+that the schedule requires him to say so once a quarter, **and that the correction he came in carrying — a lie
+about a woman's age at a counter on the second — was the thing he had been carrying since Wednesday.** He is
+given the three doors: **carried, referred, described** — and the third is not a door anybody opens, it is what
+happens at midnight on a thirty-first that does not exist, done by an office, correctly. Twenty-four days to
+the thirtieth; the valuation is on the first at ten to nine; the leaf closes on the thirtieth. Mr Sedley's
+last line is that there is no figure of persons this house can carry that keeps him out of that room.
+
+### Ch 304 — A Security Carried At The Wrong Figure
+The kitchen, the eighth of October, about seven. Three sheets, headings only, one for each door. **Runa Sato
+goes first and asks for it to be said in front of the people who will be in the room that she will not be.**
+Nadia Ferrous offers to go to a counter and commit a fraud and is told she can do it properly or not at all.
+Beatrix Halm asks the only question she has got — **what is a description of a house obliged to include** —
+and is told the answer after the thirtieth. Petra Ilyin says she will carry eight because it is true and that
+if he tells her not to knock on the first, that will be in a room somewhere with a date on it. Agnete
+Lindqvist says the only way a person is safe in a document is if the document cannot find them. Then he is
+asked for the whole of his position and gives it: **the eight of them are the reason the account is in this
+shape, because a thing with no household in it cannot be priced, and seven of them decided to keep an address
+at a door together and that made it a house, and a house can be counted.** **Sun Meiling's sentence:** a
+description of a house is a description of a household, a household in this city is a household in law, and a
+household in law is bound to its head — **so the description he is trying to write away from himself is a
+description of him, and she has been bound to one since she was twenty-two.** Wren Kallo closes it: before the
+second this house had two things no instrument could hold, a blank line in a closed book and a woman on
+nothing at any time, **the first spent itself on the thirtieth of September and the second she spent herself,
+and she would like it noted that she did it herself.**
+
+### Ch 305 — The Answer That Stopped Being True
+The third-floor counter of the Classification Wing in the morning and the Vant's rooms in the afternoon; the
+ninth of October. A card that says a referral carries an address, a figure and a reason, and that the reason
+has to be a statement of the thing as it is, and that it is not signed by anybody while the referral is. **He
+writes two attempts on the corridor and at a tea stall and tears up or pockets both, and the second is a
+description of a man who cleans washrooms on six floors between five and seven in the morning.** Mr Sowerby
+says eleven men have done this at that counter in four years and not one has ever written the reason, and that
+two got it honest, which is worth more than a correct one worded like a form. **Marguerite Vale: it is worth
+seven and it will be worth seven on the thirtieth, and if it is described it stops being worth anything at
+all, because a described account is administered rather than priced.** She also says described is not a door,
+it is what happens in an office to a man who has run out of October, done by people who are not angry and are
+going to be extremely good at it. **The three collapse into two and one of the two has a woman's name at the
+end of it.** At six he is at the bottom of the sixty-one and there is a woman sitting on the hall floor of the
+building with her back against the banister rail who has been there since four because the household wakes at
+five and she would not knock at six.
+
+### Ch 306 — The Office That Describes Things
+The second sub-level, the tenth of October, about a quarter past nine. A runner with a slip. **The stair is
+warm and he wishes it were not.** **A table with a cloth on it, a hand at the far end of it, and two men who
+have already tried to lift it from this side and would not admit it afterwards.** **Alma Quayle, head of
+classification, asks him three questions she has written down and tells him before she asks them that she is
+not examining anybody.** He says there are two figures; she reads both out of a room that has been reading
+since August and explains that a line was drawn between six documents in four buildings by clerks in the
+order the paper arrived, without anybody deciding to. **She states the three contents of a description —
+address, figure, reason — and tells him he has all three and that two of them are his own work.** She says
+she has spent thirty years arranging to be the person who can finally say what a thing is and that every
+thing she has been handed in that time has been a thing; she says a classification has never needed a man in
+it; she refuses to read a man's paragraph about his own life off his coat. **She asks him to have the kitchen
+table cleared, because she wants her one question asked where eight people can hear it being asked.**
+
+### Ch 307 — Thirty Years Arranged Into One Question
+The kitchen, the twelfth of October, about seven; the table cleared in front of the room. **Isolde Marchetti
+is standing at the door in a coat and will not take it off, because she would rather hear it.** Forty-one
+forms and no box on any of them for what Alma Quayle is about to ask. **The question is where it is fed from.**
+Agnete Lindqvist notices that it is being asked in a room where nobody can be compelled to answer. **Her son
+scored two, was two hours from the front of a queue at the Exchange when his plate went, was told by a man
+behind him to move along because the reading was finished, walked out and told two people on the stairs what
+his score was — and that is the last thing anybody has on record about him — and he is not the reason she does
+this.** Runa Sato says the Field will call it a security that has been overtaken and the nearest true thing is
+that a man lied at a valuation. **Then he answers, for about thirty seconds, and says that the eight of them
+would be inside a description and that he has been the only thing standing between this house and a sentence
+for seven years and that he is the sentence.** Sun Meiling **names the Concil of the Nine once, in the
+kitchen, as a room upstairs and not a knife**, and asks to go back to the work. Wren Kallo asks whether a
+description of a household has to list the household and is told that it does, and says *yes*. **In the
+corridor on the way out, Alma Quayle says the thing that is not part of any procedure: there is an instrument
+in this city that can put a thing in front of nine hundred people in one evening, and he had better not wait,
+and she goes down the stairs before he can ask her the name.**
+
+### Ch 308 — The Room That Agrees With Her. THE SCENE. Isolde Marchetti. The fifteenth of October.
+Bellhouse Row, the fifth house, the back, after the house. **Lode comes up the sixty-one at half past seven
+with a crate lid: the card is down, she took it down herself at two that morning, and it says *withdrawn at
+the singer's word*, and it went out of the door with two hundred people in the room and out of the bar the
+next morning with four hundred and eighty.** She wants to be the woman who was right about a man in public
+and she will not be talked out of it, and **she says before anything else happens that she has never used the
+gift on a person and is not starting tonight, because a room is not a woman.** She makes him say the line out
+loud four times standing in the dark, and five more times while she is looking at him, **and she will not let
+him write it down and tells him that it has never worked on paper and that she is the room.** He says it with
+his shirt off, and she is not fast, and she stops him twice with a flat palm and distinguishes careful from
+accurate. **The scene body is 1,717 words and is written out; there is no sedation, exhaustion, restraint,
+psychic contact, trance or seal in it, and she is alert and directing throughout.** She tells him nine seconds
+before she stops, comes out nine minutes past, and will not be tender about it. **At about twenty past eleven
+she sings it to nine people, and the reason clause of a document that has not been written is now in nine
+hundred mouths.** He says the sentence that ends their evening — he has been in nine hundred mouths since July
+and had assumed the second verse was a coincidence, and it was not — and she will not tell him who brought
+the July verse in and says so to his face.
+
+### Ch 309 — Nine Hundred Mouths And A Door Number
+The sixteenth of October. **The tune is in Ferrier Street before nine and is not in the building: a boy on the
+tram steps, two women at a milk cart, a man washing down steps at the wash-house who has never been inside the
+Bellhouse.** **Nineteen years of his life went into building things that could not be found, and all of them
+were instruments, and a tune is not an instrument.** Beatrix Halm at the north end of the ranks wall:
+eight thousand one hundred and thirty-eight, six under, the two words unchanged since the thirtieth of July,
+and **three people in the square had it in the first four minutes and she cannot trace how it travelled
+without a room.** The six streets that fit the song have narrowed to one and **there is no instrument in that
+transaction and no clerk has a number for it.** The turn lands with short sentences: **he does not need to
+build the third leg, because it is already assembled.** **Hanneke Ruis's note comes up the sixty-one with the
+Exchange runner at twenty past four:** a head of premises may correct a composition, it is the only instrument
+that can move a figure off a district leaf, the correction has to be in his own hand, the corrected figure
+will be eight, the eighth name will then be on a chained page in a keeper's room for as long as the account is
+open, and a correction cannot be un-sworn. She adds: *do not send me a third question in writing this week.*
+
+### Ch 310 — The Answer He Did Not Swear
+The nineteenth of October, and **the irreversible decision.** The premises counter at nine and the second
+sub-level at half past eleven. The correction form has four boxes and the fourth asks which person's holding
+is to be corrected. **He enters the date and the figure eight and cannot complete box four**, because there is
+a woman who asked in writing on the ninth of July never to be written down and he will not say her name in a
+room with a clerk in it and will not ask her to come and say it for herself. **The clerk at the grille writes
+that he was asked for the name and did not give it, and it goes onto the leaf with the date — that is the
+cost, a refusal of the head of premises on the face of a public book.** Then the sub-level, and **he refers
+the account**: the address, the figure of eight, and **the reason being a statement made in public on the
+fifteenth of October which cannot be reproduced in writing and for which no author has been paid.** Alma
+Quayle signs it, dates it, and initialled it once. **THE OPTION CLOSED: he can never swear that premises at
+seven again; there will be no production off that door on the first of next month and the last number anybody
+swears out of that address is eight.** She says she is not going to argue and that there is nothing in thirty
+years in her office that lets her argue with a man who has told the truth about a woman and a sheet of paper,
+and she calls the refusal the best thing anybody has done in her division in four years. **Then she drafts the
+sentence she wants to write, reads it once, does not send it, and says so out loud to a clerk — and the clerk
+writes it down, because she said it in the tone of a woman who writes things down: 11.40, the referral
+accepted, a sentence drafted and not sent, by the head's own word, preferring the subject to hear it from
+her. It is in a division inside the hour. It is the first document in this business with her whole name at
+the head of it and his address four lines below, and she finds out at four in the afternoon and cannot do one
+single thing about it for the rest of the year.**

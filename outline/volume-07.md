@@ -213,18 +213,76 @@ been.** A requisition tabled and refused is not a requisition received.
 
 **What each movement must do, and what it closes:**
 
-1. **The Composition of Eight — 301–310.** Wren Kallo takes an address at about eleven on the second, in
-   the ordinary way, in front of a counter, as a person of reading age keeping an address. The composition is
-   eight; the priced line says seven; the answer he swore twice says seven; **the account cannot be carried.**
-   **The referral goes to the Classification Wing.** Isolde Marchetti's scene at 308 gives the classification
-   its third leg — **a reason, in nine hundred mouths** — and she does it for him.
-   **THE IRREVERSIBLE DECISION, AND IT IS HIS:** he does not swear eight. **A production is not the
-   instrument — a production answers a call, and no call is outstanding on this account. The instrument is a
-   sworn answer by the head of premises, and the only correction available would be in his own hand and
-   would write the eighth name onto a chained page in a keeper's room for as long as the account is open,
-   which is the one protection in this book that is real.** So the account is referred. **What it costs:** the
-   one clean answer he has ever given is gone, and eight women are about to be described. **The option
-   closed:** he can never swear that premises at seven again.
+1. **The Composition Of Eight — 301–310. REWRITTEN AGAINST WHAT WAS WRITTEN, IN THE SAME COMMIT THAT WROTE
+   IT. The page governed and this movement now reads as the page left it.**
+   Wren Kallo took the address at about eleven on the second of October, at a counter, in the ordinary way, and
+   **he did not say the eleven words he had carried since six that morning** and she did not thank him and did
+   not soften, and she asked him on the way out whether the counter opened at nine or at ten. The composition
+   is eight on a fresh leaf of the quarter-book that opened on the first. **The priced line says seven. The
+   account cannot be carried.**
+
+   **WHAT THE PAGE FOUND THAT THE PLAN DID NOT KNOW, AND IT IS THE MOST IMPORTANT SENTENCE IN THIS MOVEMENT:
+   the reason clause is the part he can withhold, and he has been living on that for seven volumes.** The plan
+   assumed the account's problem was its figure. **On the page the problem is that a classification needs an
+   address, a figure AND a reason, and that the reason is a sentence about what he does between five and seven
+   in the morning, and that is the only instrument in this book he cannot be audited on.** He wrote two
+   attempts at it in one morning and tore up one and pocketed the other. A keeper on the third floor told him
+   that in four years and eleven attempts not one man has ever written the reason, and that an honest wrong one
+   is worth more than a well-written one.
+
+   **SO THE MOVEMENT RAN ON A DIFFERENT ENGINE THAN THE ONE PLANNED, AND THE DIFFERENCE IS THE POINT:**
+
+   - **303 GAVE THE THREE DOORS, AND THE THIRD IS NOT A DOOR.** Carried on a production at the next valuation
+     · referred before the thirtieth · **described by default at midnight on a thirty-first that does not
+     exist, by an office, correctly.** The plan's arithmetic held.
+   - **304 IS WHERE THE MOVEMENT ACTUALLY TURNS, AND IT IS SUN MEILING'S LINE, NOT HIS DECISION.** A
+     description of a house is a description of a household; a household in this city is a household in law;
+     **and a household in law is bound to its head.** So the description he is trying to write away from
+     himself is a description of him. **He has spent seven volumes making sure nothing could put his name at
+     the head of a sheet, and the way that protection fails is that it protects everybody standing in the room
+     with him.** The plan's "the eight are the reason the account is in this shape" is on the page and it is
+     his sentence, spoken in his own kitchen, and it is a confession.
+   - **306 AND 307 ARE ALMA QUAYLE, AND SHE IS NOT A HUNTER.** She states the three contents of a description
+     and tells him he has all three and that two of them are his own work, and she is right about every
+     single thing she does, and she has been reading the same six documents he has been frightened of and
+     drawing the same line between them. **He arrives at a quarter past nine on the tenth believing he has
+     been sent for and leaves knowing he has been read, and that reading him was ordinary work.** She asks
+     her one question in a kitchen with the table cleared and eight women at it, because a woman described
+     without her household in the room is described with nobody standing in front of her.
+   - **308 GAVE THE REASON CLAUSE A BODY, AND IT IS A SONG.** Isolde Marchetti sings the reason into nine
+     hundred mouths on the fifteenth of October and **pulls the card down herself at two that morning, so it
+     cannot be recalled, withdrawn, entered on a page, or stopped by anybody who did not write it.** The
+     third leg of a classification now exists in a form that needs no office to assemble it and no author to
+     claim it. **THIS IS THE STEP THE PLAN CALLED *describable* AND IT HAS ARRIVED AS SOMETHING HE DID NOT DO.**
+   - **309 IS THE TURN THE PLAN COULD NOT HAVE PREDICTED: every defence he has built for seven years is an
+     instrument, and the thing that beat all of them is a tune.** He does not need to build the third leg. It
+     is already assembled, and by the sixteenth the six streets that fitted the song have narrowed to one.
+   - **310 IS THE IRREVERSIBLE DECISION AND IT IS HIS AND IT IS NOT THE ONE THE PLAN NAMED.** The plan said he
+     would not swear eight because the correction would put Wren Kallo's name on a chained page. **On the
+     page he does not swear eight because the correction form has a fourth box that asks which person's
+     holding is being corrected, and there is a woman he has promised, and the instrument fails on its own
+     terms.** He will not say her name in a room with a clerk in it and will not ask her to come and say it
+     for herself. **A clerk writes on a public leaf that the head of those premises was asked for the name
+     and did not give it — and that is the price, on the face of a public book, and it is a document against
+     him that he made himself.**
+   - **AND THE REFERRAL WENT OUT, WITH THE ADDRESS AND THE FIGURE ON IT AND THE REASON IN A SONG.** The
+     thirtieth was the dead line and it was beaten by eleven days. Alma Quayle signed, dated, and initialled
+     it once. **He has therefore not been described by default and has not been corrected, and he has been
+     referred, and the account is now out of the priced book and in the Wing's.**
+   - **THE OPTION CLOSED, AND IT IS EXACTLY THE ONE THE PLAN NAMED: he can never swear that premises at
+     seven again. There will be no production off that door at the first of next month and the last number
+     anybody swears out of that address is eight.**
+
+   **WHAT BATCH 0002 INHERITS AND THE PLAN DID NOT ANTICIPATE: Alma Quayle and Lin Hao are now on one page,
+   and neither of them asked for it.** At 11.40 on the nineteenth she drafted the sentence she wants to
+   write, read it once, did not send it, and said so out loud to a clerk — and the clerk wrote it down,
+   because she said it in the tone of a woman who writes things down. **It is in a division inside the hour.
+   It is the first document in this business with her whole name at the head of it and his address four lines
+   below, and she cannot do one single thing about it for the rest of the year.**
+
+   **AND THE OPEN QUESTION THIS MOVEMENT ANSWERS, WHICH THE PLAN HAD AS AN OPEN QUESTION: *who writes the
+   sentence when a man will not describe himself?* A woman who sings one, on purpose, having been used as an
+   instrument in July and having decided to be the author rather than the delivery.**
 2. **The Classification Of A House — 311–320.** Alma Quayle, 57, comes to Ferrier Street and asks to
    describe the account, and she is courteous, exact, and right: **a thing that cannot be reconciled must be
    described, and a description that is refused becomes a description written without him.**
@@ -289,9 +347,17 @@ been.** A requisition tabled and refused is not a requisition received.
 
 **WHERE THE PLAN IS MOST LIKELY TO BE WRONG, AND WHAT THE PAGE OWNS IF IT IS.**
 
-- **Whether the composition moving actually retires a production.** The plan needs it, and the page has never
-  had to answer it. **If the page finds a cheaper and more ordinary consequence, the page wins and this file
-  is rewritten.**
+- **Whether the composition moving actually retires a production.** **ANSWERED ON THE PAGE IN 301–310, AND
+  IT IS CHEAPER AND MORE ORDINARY THAN THE PLAN ASSUMED.** It does not retire one. **It creates two figures
+  for one door, both of which are true, and neither of which corrects the other, and the consequence is that an
+  account carried at a figure its own district's book contradicts cannot go forward to the next valuation.**
+  There is no strike, no bar and no instrument. A young man of about twenty-five keeps a leaf open until the
+  thirtieth and a keeper in a cold room keeps a column that says seven, and that is all of it.
+- **Whether the reason clause is something he can hold.** **ANSWERED IN 305 AND IT IS THE MOST IMPORTANT
+  CORRECTION IN THIS FILE.** He can hold it far longer than the plan allowed, and **the volume now turns on
+  the fact that he has given it away out loud twice — in a kitchen at 307 and in a room at 308 — and still
+  has not put it on a page in his own hand.** Movement 2 must be written against that, not against a man who
+  has nothing left to withhold.
 - **Whether reaching seven can be done in ten chapters without becoming the volume's whole subject.** The
   plan says he does it badly, in public, and it costs a woman something. If a batch finds it cannot be done
   without padding, the band is not crossed in this volume and the volume's sentence is carried some other

@@ -22,12 +22,169 @@ the cheaper mistake and the wrong one.
 `state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
 long-range position, before any of this.**
 
-## Volume 7 — PLANNED, NOT WRITTEN. CHAPTERS 301–350. OPENS THE SECOND OF OCTOBER.
+## Volume 7, Batch 0001 — CHAPTERS 301–310. THE SECOND OF OCTOBER TO THE NINETEENTH. LIVE.
 
-**No chapter of Volume 7 exists. This block is a plan, not a position.** The live position is the Volume 6
+**Volume 7 is open. Ten chapters are on disk in `chapters/volume-07/`.** The head block is in
+`state/current.md`; the live gates are in `state/open-threads.md`; the day map, the arithmetic and the
+review record are in `reviews/volume-07/batch-0001.md`. **Volume 6 Batch 0005's block is below this one and
+is superseded as to position, and its carried figures — the priced line, the keys, the closed book, the
+sworn productions, the seventh line — are all still true and are all restated in §3 below.**
+
+> **READ THIS BEFORE WRITING 311. ELEVEN THINGS ARE ON THE PAGE NOW AND A LATER BATCH MAY NOT RE-DERIVE THEM.**
+>
+> **1. THE COMPOSITION OF 34-6-118 IS EIGHT, ON A FRESH LEAF, SINCE ABOUT ELEVEN O'CLOCK ON THE SECOND OF
+> OCTOBER.** The quarter-book for the quarter that opened on the first is open until the thirtieth. A clerk
+> of about twenty-five wrote the eighth name and the figure in the ordinary way, and a clerk's number went on
+> the corner of the leaf.
+>
+> **2. THE PRICED LINE STILL SAYS SEVEN.** Dated the sixteenth of September, initialled and not signed,
+> answerable by the composition of that premises. **Two figures for one door, two books, two buildings, both
+> true, and nothing in this city can reconcile them.**
+>
+> **3. THE ACCOUNT WAS REFERRED FOR CLASSIFICATION ON THE NINETEENTH OF OCTOBER.** Address, figure eight, and
+> **a reason that is a song made in public on the fifteenth of October which cannot be reproduced in writing
+> and for which no author has been paid.** Signed, dated and initialled once by Alma Quayle. **The thirtieth of
+> October was the dead line and it has been beaten by eleven days.**
+>
+> **4. HE HAS REFUSED TO SWEAR EIGHT, AND THE REASON HE GAVE OUT LOUD WAS A WOMAN'S NAME HE WOULD NOT SAY IN
+> A ROOM WITH A CLERK IN IT, AND WOULD NOT ASK HER TO SAY FOR HERSELF.** **THE OPTION CLOSED: he can never
+> swear that premises at seven again. There will be no production off that door at the first of next month
+> and the last number anybody swears out of that address is eight.**
+>
+> **5. THE COST, ON THE FACE OF A PUBLIC BOOK: at the premises counter on the nineteenth of October a clerk
+> entered that the head of those premises was asked for the name of the person whose holding was being
+> corrected, and did not give it. That entry is on the leaf with the date.**
+>
+> **6. HANNEKE RUIS IS THE KEEPER OF THE COUNTING ROOM AND IS NAMED ON THE PAGE AT 302.** She took the keys
+> on the seventeenth of September, entered `bible/characters.md` in the same commit, and **no age is fixed
+> for her and none may appear on the page.** She answers him in writing, has forbidden him the stairs while
+> there are two figures for one door, and has written *do not send me a third question in writing this week.*
+>
+> **7. THREE PLACES AN ACCOUNT THAT WILL NOT CARRY CAN GO, AND THE THIRD IS NOT A DOOR.** Carried, on a
+> production at the next valuation, at the figure that premises can give. Referred, before the thirtieth, to
+> the office that describes things. **Described by default — which is what happens at midnight on a
+> thirty-first that does not exist, done by an office, correctly, and not by him.** The three collapse into
+> two the moment carried is refused, and one of the two has a woman's name at the end of it.
+>
+> **8. THE THIRD LEG OF A CLASSIFICATION IS A SONG, AND IT IS OUT.** Sung by **Isolde Marchetti** to nine
+> people in the back of the Bellhouse at about twenty past eleven on the fifteenth of October. **The card
+> came down at two that morning at the singer's own word and cannot be put up for money in that house
+> again.** The tune cannot be recalled, withdrawn, entered on a page, or stopped by anybody who did not write
+> it, and by the sixteenth it was on about four hundred people who had not been in the room. **The reason
+> clause names no street, no number, no name and no district — and by the sixteenth the six streets that fit
+> the song had narrowed to one.**
+>
+> **9. THE THIRTEENTH OF JUNE'S BLANK SEVENTH RETURNED LINE IS SPENT AS A PROTECTION AND HAS NOT CHANGED.**
+> It is blank because a bound book closed on the thirtieth of September and is not reopened. It can never be
+> named and it can never be attributed. **Its protection is over because a fresh leaf opened on the first of
+> October and takes anybody who walks up to a counter.** **The address of the woman it was for is findable
+> and was put into four divisions by her own hand in August. Nothing in this batch writes it as secret and
+> nothing in a later batch may.**
+>
+> **10. ALMA QUAYLE HAS DRAFTED THE SENTENCE SHE WANTS TO WRITE, HAS NOT SENT IT, AND A CLERK HAS ENTERED
+> THAT SHE DID NOT SEND IT.** 11.40 on the nineteenth, in the counting of her own division. **It is the first
+> document in this business with her whole name at the head of it and his address four lines below, and
+> neither of them asked for it, and she cannot do one single thing about it for the rest of the year.**
+>
+> **11. NOTHING IS SPENT AND NOTHING HAS MOVED.** Plate 8,138, floor 8,144, six under, the two words on the
+> wall unchanged since the thirtieth of July. Ledger 118 lines, nine turned, the ninth still himself.
+> File 4,112, one folio open. **No draw, no spend, no turn of the count, no grain out of the reservoir, no
+> rank earned or lost, no requisition tabled, no folio opened, no routing, and Lin Wei's file shut until
+> 372.**
+
+### 1. THE CALENDAR, AND THE DAY MAP TRACED AGAINST PRINTED ANCHORS
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day. The next valuation
+is the first of next month at ten to nine, and the mark is entered by the broker holding the book.**
+
+**VOLUME 7 NAMES NO DAY OF THE WEEK AT ALL.** All ten chapters return zero for every weekday, whole-word and
+as a substring, and the gate passes because the word is absent rather than because a surviving day of the
+week was checked. **The printed August and September Thursday lists below disagree by one day and have since
+Volume 5; eleven closed chapters depend on the September list; the page governs; both lists stand as printed
+and the discrepancy is recorded in `reviews/volume-07/batch-0001.md` and has NOT been resolved in prose.**
+
+| Ch | Day | To the 30th | Days since the anchor | What it is |
+| --- | --- | --- | --- | --- |
+| **301** | **2 Oct** | **28** | **one** day after the production sworn at ten to nine on the first | the leaf says eight; he did not say his eleven words |
+| **302** | **4 Oct** | **26** | **two** since the leaf; **three** since the production; **seventeen** since the keys changed on the seventeenth of September; **eighteen** since the priced line of the sixteenth of September | Hanneke Ruis is named; two figures for one door |
+| **303** | **6 Oct** | **24** | **four** since the leaf | the office that cannot correct itself; three doors |
+| **304** | **8 Oct** | **22** | **six** since the leaf | the kitchen; Sun Meiling's sentence |
+| **305** | **9 Oct** | **21** | **seven** since the leaf | three attempts at the reason; the deadline becomes a thing that happens to eight people |
+| **306** | **10 Oct** | **20** | **eight** since the leaf | the second sub-level; three contents of a description |
+| **307** | **12 Oct** | **18** | **ten** since the leaf | *where is it fed from* |
+| **308** | **15 Oct** | **15** | **thirteen** since the leaf; **twenty-nine** since the priced line | **THE SCENE** |
+| **309** | **16 Oct** | **14** | **fourteen** since the leaf | nine hundred mouths; Hanneke Ruis's note |
+| **310** | **19 Oct** | **11** | **seventeen** since the leaf; **three** since the priced line | **HE DOES NOT SWEAR EIGHT** |
+
+Anchors, unchanged and all inherited or printed in this batch: **the priced line dated the sixteenth of
+September** · **the keys changed on the seventeenth of September** · **the quarter-book closed on the
+thirtieth of September and the band floor went to 8,144** · **the production sworn at ten to nine on the
+first of October, seven, in nine seconds, off the same chained book** · **the first of August, the first of
+October, the third of June, the ninth of July, the sixteenth of August, the twentieth of July, the
+eighteenth of July, the thirtieth of July** · **Wren Kallo's address at about eleven on the second of
+October** · **the correction form at the counter on the nineteenth; the sheet from Alma Quayle at 11.40 the
+same day; the singing at about twenty past eleven on the fifteenth.**
+
+### 2. WHAT THE BATCH PUT ON THE PAGE THAT A LATER BATCH MAY NOT CONTRADICT
+
+The list above is the short form. These are the ones a batch is most likely to get wrong.
+
+1. **A composition return counts persons of reading age keeping an address at the premises, and it changes
+   only by the person giving an address up or putting one on, in the ordinary way, with a date and a
+   clerk's number.**
+2. **A district cannot amend a head's return, and the office with standing over a district premises return
+   is the auditor of record of the schedule, which is Lin Hao from the first of August.**
+3. **Three doors, and the third is a default. The thirty-first of October does not exist.**
+4. **A production answers a call and not a quarter. He swore it twice at seven, in nine seconds, off the
+   same chained book, and a keeper marked the repetition as a habit. There will not be a third one off that
+   door.**
+5. **A head of premises may correct a composition by sworn answer, in his own hand, and a correction cannot
+   be un-sworn.**
+6. **An initialled reconciliation is a keeper's arithmetic and a signed one is a woman's evidence. Hanneke
+   Ruis will not sign anything about a household.**
+7. **A question may be put to the counting room in writing and will be answered in writing. Going down is
+   forbidden while there are two figures for one door.**
+8. **The wing's rule of the floor is that a corridor knows nobody's name. Alma Quayle used it twice in 306
+   and it was not decoration.**
+9. **A referral needs three parts — address, figure, reason — and the reason clause has been printed since
+   before anyone in this book was born, and it will take a song.**
+10. **The song has no author, no street, no number and no name in it, and it cannot be recalled.**
+11. **Eight names on a fresh leaf. Four on the roll, four on nothing. One of the eight is a woman who put
+    herself there on purpose and has said so out loud.**
+12. **The seventh returned line is spent as a protection. It is blank because a book closed.**
+
+### 3. INHERIT UNCHANGED FROM BATCH 0005 OF VOLUME 6, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE IT
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day.**
+2. **The quarterly floors: 8,142 on the thirtieth of July, 8,143 on the thirtieth of August, 8,144 on the
+   thirtieth of September, and 8,145 on the thirtieth of December.**
+3. **A called standing is answered at a valuation, and the mark is at ten to nine on the first, and the mark
+   is entered by the broker holding the book.**
+4. **Plate 8,138. Ledger 118 lines, nine turned, the ninth still himself. Nothing spent.**
+5. **Nothing has been routed. The promise of the twenty-seventh of August stands.**
+6. **Ines Duarte's term — no paper is read to her in her own rooms — has held every day since the ninth of
+   July and holds now. It is broken by him at Chapter 337 and not before.**
+7. **The sixth line on the page in Chapter 250 is his standing instruction, has no figure against it, is not
+   a debt, and no office in this city will ever invoice it. Do not convert it.**
+8. **Ines Duarte is out of the flat and out of her office from the first of August. Her address is findable.
+   The blank line cannot be attached to her. Those are two different facts and a batch that collapses them
+   puts a sentence on the page that Chapters 283 and 298 both contradict.**
+9. **Marguerite Vale holds a dated written undertaking that he will not ask her again, and it is in his own
+   handwriting refusing himself.**
+10. **The plate in this book prints 8,138 and band five, and `bible/power-system.md`'s table is illustrative.
+    No threshold may be derived from the table. A threshold comes from a card printed in the chapter that
+    uses it.**
+
+## Volume 7 — PLANNED, NOT WRITTEN. SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE.
+
+**Ten chapters, 301–310, are on disk. This block is the plan Volume 7 was written on and is retained only as
+the history of what was predicted. Where the plan and the page differ, the page governs and the plan has been
+rewritten against it in `outline/volume-07.md` §6 movement 1.**
+
+> **SUPERSEDED AS TO POSITION BY THE BLOCK ABOVE. Chapters 301–310 are on disk.**
 Batch 0005 block immediately below. The outline is `outline/volume-07.md`; the batch cards are
 `outline/batches/volume-07-batch-0001.md` through `0005.md`; the one live phase prompt is
-`workspace/volume-07/batch-0001/PROMPT.md`.
+`workspace/volume-07/batch-0002/PROMPT.md`.
 
 **REVIEWED AND REPAIRED BY THE NEXT PHASE — `reviews/volume-07-planning.md` carries the record, and the
 repair block at the head of `state/open-threads.md` carries the seven things that changed.** Nothing in the

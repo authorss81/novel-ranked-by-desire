@@ -295,6 +295,14 @@ Volume 3. Runs public hearings. Lin Hao's advantage is invisibility and Adeyemi'
 forcing invisible things into the open, and he is honest about it and completely willing to be hated for
 it. He becomes something stranger than an enemy by Volume 7.
 
+### Hanneke Ruis — keeper of the counting room, two floors under the Exchange sales floor. **No age is fixed for her and none may be given on the page.**
+
+Volume 7. **She took the keys on the seventeenth of September** and is the second woman to hold them inside four years. She had the address of premises 34-6-118 and a figure of seven in a real book on her second day and had read both by her third, and she has not met the man whose address it is until Chapter 302.
+
+**What she wants:** to be the keeper of that room. She says so in 302 in about nine sentences and she says it as arithmetic and not as modesty. **She will not put her name under a figure about a household**, because the afternoon she does she stops being the keeper of the room, and she has been there seventeen days and has a strap on the fifth book.
+
+**Her agency, which is the reason she is on this page and not in it:** she tells him in 302 that his sworn answer is not wrong and is one day old, that an answer which has been overtaken does not correct itself, and that three instruments with his handwriting in them carrying one figure of persons from one door in two months is a habit. She will not be his instrument about any of it and she says so to his face. **She answers questions from him in writing and will not see him again downstairs while there are two figures for one door**, which is a rule of the floor and not a decision. **In Chapter 309 her note is the last thing that tells him the price of the correction, and she wrote *do not send me a third question in writing this week.***
+
 ### Solveig Rask — keeper of the Vant's real books. Age 42.
 
 Volume 6. Marguerite's rival, and the only person in the guild who has ever run the arithmetic on what
