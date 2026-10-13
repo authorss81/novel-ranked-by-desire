@@ -1,4 +1,86 @@
-# Continuity
+## Volume 6, Batch 0003 — CHAPTERS 271–280. THE FIRST TO THE NINTH OF AUGUST. LIVE.
+
+**Ten chapters, one a day, the night of the thirtieth of July through the ninth of August; Ch 271 carries the
+night and the morning because Ch 269's owed scene runs from half past twelve at night and Ines Duarte's
+return is at ten past six. Batch 0003's head block is in `state/current.md`; the live gates are in
+`state/open-threads.md`; the day map, the arithmetic and the repair record are in
+`reviews/volume-06/batch-0003.md`. Batch 0002's block is below this one and is superseded as to position;
+its five corrections are still canon and are repeated in §3.**
+
+> **READ THIS BEFORE WRITING 281.** Two of the three instruments this batch introduces are about *the same
+> instrument* and a later batch must not confuse them. **A CHANGE OF AUDITOR OF RECORD** (Batch 0002) changes
+> who certifies a schedule. **A PRODUCTION** (this batch) is what a called standing is answered with at a
+> valuation. They are different papers, different days, and the change was acknowledged on the first and the
+> production was made on the first, in the same hour.
+>
+> **The batch's own failure mode was restatement, again.** Two rules — a production being a figure and not a
+> list, and a composition return counting an address rather than a sleeping body — were written once and then
+> restated wrongly in four later chapters before the repair. **Write each rule once, in full, and never refer
+> back to it by paraphrase.**
+
+### 1. THE FIXED CALENDAR, DERIVED AND PRINTED
+
+**July 1 is a Saturday, so July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh.
+The thirtieth of July is a Sunday. August 1 is a Tuesday, August 2 a Wednesday, August 3 a Thursday, August 4
+a Friday. August's Thursdays are the third and the tenth. A month is thirty days and has no thirty-first.
+Only Thursday is ever named, and every Thursday in this batch is the third of August.**
+
+Anchors carried forward: **the sworn page in his own hand 14 June** · **Petra Ilyin off every roll 4 June** ·
+**Wren Kallo's finding filed 23 June** · **the true report 6 July** · **the offer 3 July, expiring 12 July** ·
+**the term agreed on Lantern Row the night of 9 July** · **the hearing paper answered 24 June, stale at
+midnight 30 July** · **Sun Meiling's pencil row 22 March, under a saucer since 15 July** · **the standing of
+the seventh of June, secured at 8,138** · **the call entered 20 July at 16:25** · **the correction filed
+30 July at 23:25** · **Rask's 419 days given 24 July** · **the district return of 3 June** · **the certificate
+of the fourth of May, six members on page two**.
+
+### 2. THE FIGURES, RE-DERIVED FROM THEIR ANCHORS ON THE DAY
+
+| Ch | Day | Petra off roll | Sun's row | Sworn page | Term kept | To 1 Sept | Rask's sitting |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 271 | 30 Jul night / 1 Aug | **57** | **131** | **47** | **22** | **1** | 412 |
+| 272 | 1 Aug | **57** | **131** | **47** | **22** | **1** | 412 |
+| 273 | 2 Aug | **58** | **132** | **48** | **23** | **29 days** | 411 |
+| 274 | 3 Aug | **59** | **133** | **49** | **24** | 28 | 410 |
+| 275 | 4 Aug | **60** | **134** | **50** | **25** | 27 | **409** |
+| 276 | 5 Aug | **61** | **135** | **51** | **27** | 26 | 408 |
+| 277 | 6 Aug | **62** | **136** | **52** | **28** | 25 | 407 |
+| 278 | 7 Aug | **63** | **137** | **53** | **29** | **24** | 406 |
+| 279 | 8 Aug | **64** | **138** | **54** | **30** | 23 | 405 |
+| 280 | 9 Aug | **65** | **139** | **55** | **31** | **22** | **404** |
+
+Also printed and derived in the text: **three under a floor for four years and one month, four under for
+eleven days, five under on the thirtieth of August** (Beatrix, Ch 280) · **the band floor 8,141 → 8,142 on the
+thirtieth of July, 8,143 on the thirtieth of August** · **the standing of the seventh of June secured at
+8,138 and the two books disagreeing by the whole of it** · **four hundred and nineteen days on the twenty-fourth
+of July, four hundred and nine on the fourth of August, four hundred and four on the ninth** · **a fortnight
+from a sitting she did not attend on the second of August is the sixteenth** · **Runa Sato's conversion refused
+25 July, twelve days before the sixth of August.**
+
+### 3. INHERIT UNCHANGED FROM BATCH 0002, REPEATED SO A LATER BATCH DOES NOT RE-DERIVE THEM WRONGLY
+
+1. **A month is thirty days and has no thirty-first. The thirtieth is the last working day.**
+2. **The last Thursday in July was the twenty-seventh. The reconciliation is on the third of August.**
+3. **The composition hearing is the second of August at ten and it is the *former* auditor of record who is
+   required to attend**, because the change is acknowledged on the first.
+4. **Sun Meiling's row is the first of September.** Not the first of August.
+5. **A hearing paper runs to the end of the month after the month it was answered in.**
+6. **A called standing is answered at a valuation and a valuation is the mark at ten to nine on the first.**
+7. **A room holds eight women, four on the cut roll and four on nothing at all.** Seven is the size of the
+   roll, not of a room, and the roll carries Ines Duarte, who is out of the flat.
+8. **The kitchen table is bare from the fourteenth of July only.**
+9. **Plate 8,138. Band floor 8,142. Tolerance three. Four under**, printed on a public wall since the
+   thirtieth of July.
+10. **Ledger 118 lines, nine turned, the ninth still himself. Nothing spent. Zero system panels.**
+11. **Four documents in his own hand in thirteen days** — now **five in seventeen**, with the production of
+    the first of August.
+12. **Petra Ilyin on no roll since the fourth of June — fifty-seven days on the first of August.**
+13. **Wren Kallo on nothing at any time, the eighth partner**, named on Nadia Ferrous's page from the third of
+    August.
+14. **Marguerite Vale's device is on a dated page in a real book, in four divisions, on the third of August**, and
+    she has asked him to promise never to ask her again and he promised.
+15. **Ines Duarte is out of the flat and out of her office from the first of August.** Her term — **no paper is
+    read to her in her own rooms** — was agreed on the ninth of July and has held every day since. **Ch 277 is
+    the batch's statement of what the term actually is: it was never about a room, it was about the counter.**
 
 ## Volume 6, Batch 0002 — CHAPTERS 261–270. THE TWENTY-FIRST TO THE THIRTIETH OF JULY. LIVE.
 

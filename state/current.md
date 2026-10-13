@@ -1,30 +1,232 @@
-# Current State
+# VOLUME 6, BATCH 0003 — HEAD RECORD. CHAPTERS 271–280. THE FIRST TO THE NINTH OF AUGUST.
 
-## How to read this file
+## 0. WHAT THIS BLOCK IS AND WHAT IT SUPERSEDES
 
-**This file is bounded. Everything in it is live.** The records for the two closed volumes were moved to
-`state/archive/current-v1-v2.md` on the Batch 0005 review repair, and Volume 3's to
-`state/archive/current-v3.md`. Nothing was deleted. If you need a Volume 1, 2 or 3 fact, the archive is one
-read away; you do not pay for it on every prompt.
-1. **The head block, Volume 6 Batch 0002** — where the book is. **Volume 6 Batch 0001's, Volume 5 Close's,
-   Batch 0005's, Batch 0004's, Batch 0003's and Batch 0002's head blocks are retained below it,
-   superseded.** **Volume 5
-   Batch 0001 and Volume 4 have no head block in this file** — their close records are in
-   `state/archive/open-threads-v1-v4-batch-gates.md` (Batch 0001 at its line 1412, the Volume 4 close
-   record at its line 1086). Do not hunt for them here. A retained block that says *Next phase to run:*
-   is describing the moment it was written and has been superseded; the head block above is the position.
-2. **The Volume 4 close record** — archived, not retained here. `state/archive/open-threads-v1-v4-batch-gates.md`.
-3. **Adjudicated contradictions, condensed index** — sixty-four settled questions, one line each. Do not
-   re-open any of them; the reasoning is in the archive.
-4. **Voice note** and **Scene budget** — book-wide craft, and the scene schedule through Chapter 205.
+**This supersedes Batch 0002's block as the position. Batch 0002's block is retained below it, superseded as
+to position.** Its five corrections are still canon and are repeated in §3 because a later batch will
+otherwise re-derive them wrongly: **a month is thirty days and has no thirty-first** · **the last Thursday in
+July was the twenty-seventh and the reconciliation is on the third of August** · **the composition hearing is
+the second of August at ten and it is the *former* auditor of record who must attend** · **Sun Meiling's row
+goes into ink on the first of September and not the first of August** · **a hearing paper runs to the end of
+the month after the month it was answered in**.
 
-**Last written:** **Volume 6, Batch 0002 — Chapters 261–270 written.** The next phase is **Volume 6, Batch
-0003** (Ch 271–280) and its prompt is at `workspace/volume-06/batch-0003/PROMPT.md`.
+**The calendar Batch 0003 runs on, derived and fixed.** July 1 is a Saturday, so **July's Thursdays are the
+sixth, the thirteenth, the twentieth and the twenty-seventh**, the last Thursday in July is the twenty-seventh,
+**the thirtieth is a Sunday, August 1 is a Tuesday, and the next Thursday is the third of August.** A month is
+thirty days and has no thirty-first. **August's Thursdays are the third and the tenth.** Only Thursday is ever
+named, and every Thursday in this batch is the third of August.
 
-**Batch 0001 was written, and then independently reviewed and repaired.** Its record is
-`reviews/volume-06/batch-0001.md` §6 and its position is superseded by the block below.
+**Ten chapters, one a day, the night of the thirtieth of July through the ninth of August.** 271 carries the
+night of the thirtieth *and* the morning of the first, because Ch 269's owed scene runs from half past twelve
+at night and Ines Duarte's fixed return is at ten past six in the morning.
 
----
+## 1. WHAT THE BATCH DID
+
+**It bought the first of August with somebody else's arithmetic, and it cost more than the mark was worth.**
+
+**Ch 271 is Ch 269's scene, paid, and it is Ines Duarte's return, and both are immovable.** It opens in the
+cage at half past twelve on the night of the thirtieth. **Nadia Ferrous writes on the eleventh page at last —
+not on the twenty-ninth, which stays blank on purpose — and what she writes is the household's own count of
+itself: an 8, and a list of the eight, and the working under it.** *Five keep an address there and are on the
+roll. Three sleep there and are on nothing. Two are on the roll and are not there.* That page and the
+reconciliation go into four divisions on the third and they are about different things. **The scene is in the
+back booth at four in the morning and it changes one thing: she tells him she wants Wren Kallo on the page
+and she is not taking eight off it, and the only name in this building that has ever been anywhere is about
+to be written down twice, neither time by her.** At ten past six, at the bottom of sixty-one steps, **Ines
+Duarte is standing there**, and she has filed something the night before.
+
+**THE IRREVERSIBLE DECISION OF THE BATCH IS CH 271, IT IS HERS, AND IT IS THE BATCH'S ENGINE: on the
+thirtieth of July at twenty-five minutes past eleven at night, the auditor of record of the certification
+schedule of the fourth of May — the last hour a filing counter takes from a member, the last day she held the
+office — filed a correction to the composition record of premises 34-6-118, in her own hand, returning the
+figure of persons of reading age keeping an address there as SEVEN, and entering the seventh returned line of
+the district premises return of the third of June as returned blank and counted as a person.** She did it
+because from the first of August that office belonged to the man the record is about, and she would have had
+to lodge it over him; and because a correction filed on the last day of an office cannot be sent back for a
+fresh one. **The price is fourteen days: a member who is required to attend a sitting and does not attend can
+be put at a desk where she is the subject on the fourteenth day after it. She will not attend on the second.
+The desk is the sixteenth of August.**
+
+**Ch 272 is the hundred and thirty-fourth mark and the batch's own irreversible act.** At ten to nine on the
+first of August, on the answer line of a valuation, at the bottom of sixty-one steps, with the pen chained to a
+clerk's wrist and the key turned twice: **a called standing is answered either by paying its figure or by a
+production, and a production is a thing at the premises on the day, and the only production at that address is
+the household.** He cannot pay 8,138 — he has not moved a grain in five years and nothing is spent. **He
+writes SEVEN on the production line in his own hand with the date under it, in about eleven seconds.**
+Seven is not his figure. It came out of a district officer's accident on the third of June; it is the index;
+it is Ines Duarte's correction; it is the roll. **The option that closes: from the first of August there is
+not one figure he has ever put on a form that is his own arithmetic. He has sworn the household's security to
+a clerk's mistake, and a production cannot be withdrawn, because withdrawing it is a second answer and a
+second answer is read beside the first in four divisions.** **Seven of the eight women in that building are
+now answerable to a broker's book, and one of the seven does not live there and cannot be told, because no
+paper is ever read to her in her own rooms.** The account lives; the run does not break; there is no list on
+the fourth; **the guild's hold on Beatrix Halm's hearing stands, and it was bought with this.**
+
+**Ch 273 is the composition, read at seven with the seventh line blank.** He attends a room he was not
+summoned to and asks to speak. **The former auditor of record is required and is not there.** The division
+reads the composition at seven on the strength of the correction and not of anything he said at ten to nine.
+Six named lines are the six members of the schedule of the fourth of May; the seventh line is the one the
+district officer left empty and **a head may not put a name on another office's return.** He answers the
+question they have to ask to read the composition at all — *is the auditor of record a person of reading age
+keeping an address at these premises* — with **yes**, and cannot give the name, and the seventh person is
+entered as counted and unnamed. **The head may fill that blank line once, in his own hand, with his own date,
+on the re-issue, before the certification; after the first of September the certificate issues with the line
+blank and a blank line is a bar on the certificate.** He works out on a wall in the Square that the unnamed
+seventh is Ines Duarte and that she made herself uncountable on purpose, and he says so to nobody for a day
+and a half.
+
+**Ch 274 is the reconciliation, and it says what Rask said in advance it would say.** A call was entered in
+the real book at twenty-five minutes past four on the twentieth of July; the broker's own account carries it
+as discharged **at the hour of entry**, out of the standing of the seventh of June secured at the figure of
+the head; the real book carries that standing standing at **8,138** at the close of the thirtieth; **the two
+do not agree, and they do not agree by the whole of it.** It names no hand and does not need to, and the one
+line in it that is about a person is the phrase *at the hour of entry*. **Solveig Rask signs it**, for the
+first time in four years, and a keeper who signs a page is a woman who can be cross-examined, and she did it
+for nothing and was not asked. She also tells him something worse: **her book holds movements and her
+reconciliation reads the Vant's two books, and it cannot see the Exchange's chained book, so the hundred and
+thirty-fourth mark went into a third set of books that do not see each other, and on the first of September
+all three will be read by the same four divisions in the same week.**
+
+**Ch 275 is the dead list, quiet, and the price of it named out loud.** Eight accounts on the fourth and not
+his. Beatrix Halm on the step at seven in the morning: **you have bought a year of my tail with a figure about
+your household, in a chained book, in about eleven seconds, and there is no instrument in this city that can
+take it back off me and none that can take it back off you.** And **Solveig Rask moves from a name to a date:
+the annual sitting is the sixteenth of September**, four hundred and nine days out as of that morning, four
+hundred and nineteen less ten. And she corrects him: she told him on the twenty-fourth of July she would be
+answerable for **six** women in a building she has never walked into, and the figure went up as **seven** on
+the first, and she will have to carry the right number now.
+
+**Ch 276 is Sun Meiling and the form behind the row.** A re-issue takes the head's sworn answer and the
+auditor's certification and **there is no third hand**, and he is now both. Her row goes into ink on the first
+of September **whether the seventh line is filled or not.** She works out the whole chain in ninety seconds
+and then asks him to fill the line, **in a kitchen, in front of six women, and he will not**, because the only
+name that line can take is the one Ines Duarte spent two days making unwriteable. **She asks and is refused
+and asks for it to be written down that she asked.** The chapter's other turn is Nadia's: she wants to know
+whether Wren Kallo is a member of this household from the third of August, in four divisions, on paper.
+
+**Ch 277 is the seventh step, the counter at Cordwain, and the half a sentence.** Runa Sato's hearing went
+stale at midnight on the thirtieth and it is now a date three people once mentioned; the only route back is
+the conversion she refused, and she refuses it again. **Then he asks her a question about the third of June
+and she gives him the arithmetic and the answer he has been wrong on for five days: a composition return
+counts people who hold an address, not people who sleep at it.** He works out in nine seconds that the
+unnamed seventh is a woman who keeps an address at Ferrier Street and has not slept there since the seventh of
+July — because on the first of August, from a tram step, she said *I am not living at your address* and he took
+the half of that sentence that let him go on. **And the only way to be certain is her gift: she can be handed
+an empty frame and tell him what belongs in it, and that is reading her a paper. The term was never about a
+room. It was about the counter, and it always was.**
+
+**Ch 278 is the district counter and the second woman.** Two routes out of the seventh line — his own hand on
+the re-issue, or a correction of the district's own return of the third of June — and both of them are her
+name, because the only office with standing over a district premises return is the office of the auditor of
+record of that schedule, **which is his from the first of August.** He spent a day and a half proving there
+was no third door and the finding is that there are two and they are the same. And **Wren Kallo reads him**,
+in the street, for the first time in two months: you did not go to that counter to find a door, you went
+because you could not be alone with the knowledge. **She says what she wants — the household, not the roll —
+and she says the no with it, and both are hers.**
+
+**Ch 279 is Wren Kallo's scene and it is the batch's reading.** A room eight feet by nine at the top of a
+stair, a door that does not lock, forty-one books on the floor. She tells him what he is, in four sentences,
+and it is the first time in two months anybody has let her look: *you are not hoarding, you have emptied a
+drawer into the street because somebody you love is going to be hurt in a month and you cannot stop it with
+your hands.* Then she says the want and the no, in that order, and then she says the other half — that he
+cannot fill the line, that he decided it in a hall at Cordwain on the sixth, and that everything since has been
+a woman in that house being kind to him about a thing he had already done. She asks him to say the thing he has
+worked out and has not said to anybody, **and he does, and she does not take it out, because she cannot take
+anything out.** She will not tell him which of two women knows what he is. **In about eight days he will be
+standing in a room being read by the other one.**
+
+**Ch 280 is the seventh step down, and the sentence with no name in it.** He tells the kitchen at nine that he
+is going up the stair, and says out loud that **the term has never been a paper and that he has kept it for
+thirty-one days by not going up a stair.** At a quarter past six on the ninth of August he says the question
+from the seventh step down with nothing in his hands. **She says yes: she has kept an address at Ferrier
+Street since the sixth of July and has never slept in it, and kept it so that the correction she filed on the
+thirtieth would still be an answer about an address and not about a woman who was not there.** Then she says
+**do not write it**, and gives the reason he did not have: **writing her name on the seventh line gives a
+division, on the sixteenth of August, a composition return that says she is the seventh person of a household
+that is out of band on a public wall and a correction in her own hand that returned the figure at seven on the
+night before she lost the office, and the two will be read together.** He goes home and says it in the kitchen
+in three sentences and then, without her name in it, says the one thing that has to be said, and **Runa Sato
+writes it down and does not read it back, at his instruction, for the first time in two months.** Twenty-two
+days to the first. A bar on the certificate. Sun Meiling in ink underneath it, which is what she asked for.
+**Nadia Ferrous's twenty-ninth is still blank and going into four divisions that way, on purpose, and she says
+she will never fill it: a book with a hole in it is a record, and this house has more accounts than records.**
+
+## 2. THE POSITION AT CHAPTER 280 — EVERY FIGURE ON THE PAGE
+
+Plate **8,138**. Band floor **8,142**, up from 8,141 on the morning of the thirtieth of July. Tolerance
+three. **Four under.** The next card comes down on **the thirtieth of August** and the floor goes to
+**8,143**, and he will be **five under**, and the word on the wall will not change. Ledger **118 lines, nine
+turned, the ninth still himself. Nothing spent. Zero system panels — the batch contains no `[` character at
+all, so the zero is structural.** File **4,112, one folio open, no second.** **Five documents in his own hand
+in seventeen days:** a return (16th July) · a dispute (20th) · a change of auditor (26th) · a late refusal
+(29th) · **a production at a valuation (1st August)**. No classification, no rank earned, no rank lost. He
+wants rank nine and has spent nothing on it.
+
+**THE ONE HUNDRED AND THIRTY-FOURTH MARK IS IN.** The run is not broken, there is no list on the fourth of
+August, and every security standing against that account is still standing. **The guild's hold on Beatrix
+Halm's hearing therefore remains, published on a public wall since the twenty-seventh of July, bought with a
+figure of persons about his own household.** Sun's row goes into ink on the **first of September** and the
+certificate it issues on carries a **bar**.
+
+**THE COMPOSITION IS READ AT SEVEN.** The seventh returned line of the district return of the third of June is
+blank, counted and unnamed. **The head may fill it once, in his own hand, with his own date, on the re-issue,
+before the certification. There are twenty-two days. He has not filled it and says he will not.**
+
+**THE HOUSEHOLD AS IT NOW STANDS.** Eight women in the building, one of them at her counter at the Vestry, and
+one more on a tram in another city who **keeps an address at the premises and has never slept there since the
+sixth of July.** Seven on the cut roll; one pencil row under twenty-two stitches going into ink on the first
+of September; **Sun Meiling, 136 days old on the fifth of August.** **Petra Ilyin on no roll since the fourth
+of June, 65 days.** **Wren Kallo on nothing at any time and named on a page going into four divisions on the
+third of August**, with the fifth telling about it in her own division still to come. **Nadia Ferrous's book:
+twelve pages, the twenty-ninth blank and staying blank.** **Agnete Lindqvist on no list at all and visible.**
+**Runa Sato's hearing is a stale paper and the half carbon is in her own pocket.** **Ines Duarte is auditor of
+record no longer and is on no roll, and her review can be called on the sixteenth of August, and she will not
+be at Ferrier Street again.**
+
+## 3. WHAT A LATER BATCH WILL OTHERWISE RE-DERIVE WRONGLY
+
+1. **A month is thirty days and has no thirty-first.** August has thirty days. The thirtieth is the last
+   working day.
+2. **August 1 is a Tuesday and August 3 is a Thursday.** Only Thursday is ever named, and in this batch every
+   Thursday is the third of August. The next Thursday is the tenth of August and the next quarterly band
+   card is the **thirtieth of August**.
+3. **A valuation is a mark at ten to nine on the first, and the answer to a called standing is either the
+   figure paid or a production.** A production is a figure and not a list, it is the figure of **persons
+   answerable at the premises on the day**, and a production cannot be withdrawn.
+4. **A composition return counts persons of reading age who hold an address at the premises. Not people who
+   sleep there.** That is the whole of Ch 277 and it is the mistake he makes for five days.
+5. **The seventh returned line of the district return of the third of June is blank, and a district cannot be
+   corrected by a head.** The only office with standing over a district premises return is the office of the
+   auditor of record of that schedule, **which is him from the first of August and was Ines Duarte until it.**
+6. **A correction filed on the last day an office is held cannot be sent back for a fresh answer.** She filed
+   at twenty-five minutes past eleven at night on the thirtieth because that was the last hour a counter took
+   from a member and the last day the office was hers.
+7. **A member required to attend a sitting who does not attend can be put at a desk where she is the subject on
+   the fourteenth day after the sitting.** The sitting was the second of August. **The desk is the sixteenth of
+   August.**
+8. **The standing of the seventh of June is secured at the figure of the head, 8,138, against an unsecured
+   account of thirty years, and the real book and the broker's own book do not agree about it by the whole of
+   it.**
+9. **A keeper keeps movements and not hands, and a reconciliation reads the Vant's two books and cannot see the
+   Exchange's chained book.** There are three sets of books in play in this volume and they do not see each
+   other. **A keeper who signs a page in a real book can be cross-examined on it.**
+10. **The annual sitting is the sixteenth of September** and the book changes hands on the seventeenth.
+    **Four hundred and nineteen days on the twenty-fourth of July, four hundred and nine on the fourth of
+    August, four hundred and four on the ninth of August.** Count it from a printed anchor or not at all.
+11. **The reservoir is still not priced.** Rask has signed a page she could have left initialled, and she will
+    not ask for the sentence under the column, and she has said that if he asks a third time she will put him
+    out of the room.
+
+## 4. WHAT IS OPEN, AND WHAT CHAPTER 281 OWNS
+
+**The reservoir gets a figure on a dated page in a book that reconciles, and the batch that writes it pays for
+it.** Movement 4 is 281–290 and Ch 289 is a scene. Also standing: **the sixteenth of August, when Ines Duarte
+is put at a desk** · **the thirtieth of August, the band card, 8,143** · **the first of September, the
+re-issue, the certification, a bar on the certificate and Sun Meiling in ink underneath it** · **Marguerite
+Vale's panel before the month is out, with four officers and a number on the table and him not in the room** ·
+**Wren Kallo's sixth telling** · **the seventh line, which he has twenty-two days not to fill** ·
+**Nadia Ferrous's blank page going into four divisions** · **the annual sitting on the sixteenth of September**
+· **and the routing, which has still not happened.**
 
 # VOLUME 6, BATCH 0002 — HEAD RECORD. CHAPTERS 261–270. THE TWENTY-FIRST TO THE THIRTIETH OF JULY.
 

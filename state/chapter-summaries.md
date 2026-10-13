@@ -9,7 +9,7 @@
 | 3 | The Reading | 101–150 | Survive being measured in public and keep his ledger. **VOLUME CLOSED IN PROSE. Five batches. Review coverage incomplete and registered as an open item.** |
 | 4 | Six | 151–200 | Build a household that can hold rank six, or he stands at six alone and is taken apart for it. **OPEN. Batch 0001 written (151–160) against `outline/volume-04.md`, which this phase wrote first. Scenes at 157, 169, 179, 189, 197.** |
 | 5 | The Auditor's Price | 201–250 | Keep Ines Duarte off his file while she starts wanting to be off her own. **VOLUME CLOSED IN PROSE at Ch 250. Scenes at 205, 214, 228, 241, 249. Ines files true and leaves in 246. The twelfth of July was left unwritten and is Volume 6's hook; it is now written, in Ch 252.** |
-| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batch 0001 written (251–260), then independently reviewed and repaired. Batch 0002 written (261–270). Scenes at 261, 269, 279, 289, 299 — **261 is WRITTEN and is Volume 6's first; 269 is the position only and its scene is owed to Batch 0003**; 279, 289, 299 unwritten. At 270: plate 8,138 against a band floor of 8,142, four under and printed on a public wall, with the hundred and thirty-fourth mark due at ten to nine on the first of August.** |
+| 6 | The Broker's Terms | 251–300 | Call in every debt he owes before the creditors call in him, or the Vant's books put a price on the reservoir that he cannot refuse. **OPEN. Batches 0001 (251–260), 0002 (261–270) and 0003 (271–280) written. Scenes at 261, 269, 279, 289, 299 — **261 is Isolde Marchetti's and is written; 269 was the position only and Batch 0003 opened inside its scene at 271 and wrote it; 279 is Wren Kallo's and is written; 289 and 299 unwritten.** At 280: the hundred and thirty-fourth mark is in and the account lives, the guild's hold on Beatrix Halm's hearing stands because of it, the composition of premises 34-6-118 is read at seven with the seventh returned line blank and unnamed, and the only hand that can fill that line has twenty-two days and has said he will not.** |
 
 
 ## Volume 2 — The Reservoir
@@ -1730,3 +1730,142 @@ warns him: everything she sings, the room agrees with, and it agrees before it h
 steps out of it.** Beatrix takes his sleeve on the corner and reads the road and asks him to say it out
 loud: seven, said in a room, cannot be unsaid. **Twelve days to the first of August, a woman to answer for
 a schedule, and she has not said whether she will.**
+
+
+---
+
+## Volume 6, Batch 0003 — Chapters 271–280 (the first to the ninth of August)
+
+### Ch 271 — The Booth And The Blank Page
+Opens in the cage at half past twelve on the night of the thirtieth, and pays Chapter 269's owed scene.
+**Nadia Ferrous writes on the eleventh page at last — the twenty-ninth stays blank on purpose — and what she
+writes is the household's own count of itself: an 8, the list of the eight, and under it the working — five
+keep an address there and are on the roll, three sleep there and are on nothing, two are on the roll and are
+not there.** Four true numbers about one household, and no office in this city will ever add them up. The
+scene is in the back booth at four in the morning and it changes one thing: **she wants Wren Kallo on the page,
+she is not taking eight off it, and the only name in that building that has ever been anywhere is about to be
+written down twice, neither time by her.** At ten past six on the first of August, at the bottom of sixty-one
+steps, **Ines Duarte is standing on the bottom one with a division's copy of a sheet she filed at twenty-five
+minutes past eleven at night on the thirtieth — a correction returning the composition at SEVEN, entering the
+seventh returned line of the district return of the third of June as blank and counted as a person.** She filed
+it in the last hour a counter takes from a member, on the last day she held the office, because from the first
+that office belonged to the man the record is about. **A correction filed on the last day of an office cannot be
+sent back for a fresh answer.** She will not attend on the second; the price of not attending is a desk on the
+sixteenth of August. She says on the tram step: *I am not living at your address* — and she does not say she
+does not hold one.
+
+### Ch 272 — The Hundred And Thirty-Fourth
+Ten to nine on the first of August, at the bottom of sixty-one steps, with Petra Ilyin and the bundle and
+fifty-seven days on no roll. **A called standing is answered either by paying its figure or by a production,
+and the only production at that address is the household.** He cannot pay 8,138 and has nothing to produce
+except the people at the door, so **he writes SEVEN on the production line in his own hand with the date under
+it, in about eleven seconds, with a pen chained to a clerk's wrist.** Seven is not his: it came out of a
+district officer's accident on the third of June, it is the index, it is the roll, and it is Ines Duarte's
+correction from nine hours earlier. **The option that closes is arithmetic: from the first of August there is
+not one figure he puts on a form that is his own, and a production cannot be withdrawn because withdrawing it
+is a second answer read beside the first in four divisions.** Seven of the eight women in that building are now
+answerable to a broker's book and one of them does not sleep there and cannot be told. The account lives, there
+is no list on the fourth, and the guild's hold on Beatrix Halm's hearing stands — bought with this.
+
+### Ch 273 — The Seventh Returned Line
+He goes to Cobb Street uninvited and asks to speak. **The required attendance is the former auditor of record
+and she is not there; non-attendance is entered and the composition is read at seven anyway, on the strength
+of her correction and not of anything he said at the Exchange.** Six named lines are the six members of the
+schedule of the fourth of May; the seventh is the district's empty line, and a head may not put a name on
+another office's return. He answers the question they must ask to read the composition — *is the auditor of
+record a person of reading age keeping an address at these premises* — with **yes**, and cannot give the name.
+**The seventh person is counted and unnamed. The head may fill that line once, in his own hand, with his own
+date, on the re-issue, before the certification; after the first of September the certificate issues with the
+line blank and a blank line is a bar on the certificate.** Twenty-nine days. He works it out on a wall in the
+Square that the unnamed seventh is Ines Duarte, that she made herself uncountable on purpose, and that she
+told him the price of the correction before she filed it and called the price something else.
+
+### Ch 274 — A Page That Names No One
+Solveig Rask has signed a reconciliation for the first time in four years, and a keeper who signs a page is a
+woman who can be cross-examined. **It says what she said on the twenty-fourth it would say: a call was entered
+at twenty-five minutes past four on the twentieth of July, the broker's own account carries it as discharged
+*at the hour of entry*, the real book carries the standing at 8,138 at the close of the thirtieth, and the two
+do not agree by the whole of it.** It names no hand and does not need to; the one line that is about a person
+is *at the hour of entry*. She tells him she did it for nothing and was not asked, she refuses to ask him for
+the sentence under the column, and she warns him that **her book holds movements and her reconciliation cannot
+see the Exchange's chained book — the mark he made yesterday went into a third set of books and on the first of
+September all three will be read by the same four divisions in the same week.** Marguerite Vale reads it and
+finds the only line about a person and says a broker can take a thing said in a kitchen and make it an
+instrument; she will stand before four officers before the month is out and he will not be in the room.
+
+### Ch 275 — The Name Of A Date
+Eight accounts on the dead list on the fourth and none of them his, and a man at a counter saying *there is no
+further entry* in front of ninety people. Petra Ilyin, sixty days on no roll. Beatrix Halm on the step: **you
+have bought a year of my tail with a figure about your household, in a chained book, in eleven seconds, and
+there is no instrument in this city that can take it back off me and none that can take it back off you.** Then
+**Solveig Rask moves from a name to a date: the annual sitting is the sixteenth of September**, four hundred
+and nineteen days on the twenty-fourth of July less ten. She corrects him — she told him she would be
+answerable for **six** women in a building she has never walked into and the figure went up as **seven** — and
+she refuses to let him count it down with her, because a figure every morning is the only thing in that room
+that does not move and two of them doing it would be a household. The next band card is the thirtieth of August
+at 8,143.
+
+### Ch 276 — The Space Under The Signature
+The kitchen on the fifth of August and Sun Meiling working out in ninety seconds that the change of auditor
+has made her own row the certificate's problem: **the head swears and the head certifies, there is no third
+hand, and she will go into ink on the first of September whether the seventh line is filled or not.** She
+asks him to fill it, in front of six women, and he will not. **She asks for it to be written down that she
+asked and that he did not.** Nadia Ferrous says the other half of her page out loud: she wants to know whether
+Wren Kallo is a member of this household from the third of August, in four divisions, on paper. Runa Sato
+counts: eight women in the building, one at the Vestry, one on a tram, and the reason the answer is seven is a
+man in a district office who left a line empty in June.
+
+### Ch 277 — The Half In Her Pocket
+Cordwain on a weekend. **Runa Sato's hearing went stale at midnight on the thirtieth and it is a date three
+people once mentioned; the only route back is the conversion she refused at that counter, which is the identical
+instrument the guild reached for over Beatrix, and she refuses it again and puts it away.** Then he asks her
+about the third of June and she gives him the arithmetic he has had wrong for five days: **a composition return
+counts persons of reading age who hold an address at the premises, not persons who sleep there.** He works it
+out in nine seconds that the unnamed seventh is a woman who keeps an address at Ferrier Street and has not
+slept there since the seventh of July, and that on the first of August she said from a tram step *I am not
+living at your address* and he took the half of the sentence that let him go on. And he works out that the only
+way to be certain is her gift — she can be handed an empty frame and tell him what belongs in it — and that
+this is reading her a paper. **The term was never about a room. It was about the counter, and it always was.**
+
+### Ch 278 — Both Roads Are The Same Door
+A queue at the district counter for an hour and ten minutes and a clerk who answers the same question four
+times before answering it once. **A head may fill a blank line only with the name of a person who holds an
+address at that address; a name that is not true of the address is a second answer and is read beside the
+first.** And the only office with standing over a district premises return is the office of the auditor of
+record of that schedule — which is his from the first of August and was hers until it — so both routes out of
+the seventh line are her name and there is no third door. **Wren Kallo reads him, in the street, for the first
+time in two months**: you went into that counter so that you would not have to be alone with it. She has read
+Nadia's page, she cannot take the addition off it, she has told five people and cannot stop, and she says what
+she wants — the household, not the roll, with the seventh line the only instrument left in this city that could
+put her inside it without an oath — and says the no in the same breath, because she cannot keep a secret and a
+household she is bound to is a household whose secrets she will carry out of a door.
+
+### Ch 279 — The Room At The Top Of The Stair
+**Wren Kallo's scene**, in eight feet by nine at the top of a stair with a door that does not lock and forty-one
+books on the floor. She tells him what she has never told him: that she has never once been let to look at him,
+that she has spent nineteen years being the woman who finds what was taken out of a record, and that on the
+seventh he went down sixty-one steps in daylight in front of two hundred people and said out loud that he would
+be at the bottom of them at ten to nine. Then the scene, unhurried, in a cold room with the door shut — and she
+is entirely in the room and entirely outside it, and she asks for nothing in return, which is the whole of
+what she has never asked anybody for. Afterwards she says the other half: he cannot fill the line, he decided
+it in a hall at Cordwain on the sixth, and everything since has been a woman in that house being kind to him
+about a thing he had already done. **She asks him to say the thing he has worked out and has not said to
+anybody, and he does, and she does not take it out, because she cannot take anything out.** She will not tell
+him which of two women knows what he is. In about eight days he will be standing in a room being read by the
+other one.
+
+### Ch 280 — The Seventh Step Down
+The painters' card says the thirtieth of August and 8,143 and he will be five under. He tells the kitchen at
+nine that he is going up the stair and says out loud that **the term has never been a paper and that he has
+kept it for thirty-one days by not going up a stair.** At a quarter past six he asks the question from the
+seventh step down with nothing in his hands. **She says yes: she has kept an address at Ferrier Street since
+the sixth of July and has never slept in it, and kept it so that the correction she filed on the thirtieth
+would still be an answer about an address and not about a woman who was not there.** Then she says **do not
+write it**, and gives the reason he did not have — a division that can put a member at a desk would then hold
+a composition return saying she is the seventh person of a household that is out of band on a public wall,
+and a correction in her own hand, and would read the two together. He goes home and says it in the kitchen in
+three sentences and then, without her name in it, says the one sentence that has to be said. **Runa Sato
+writes it down and does not read it back, at his instruction, for the first time in two months.** Twenty-two
+days, a bar on the certificate, and Sun Meiling in ink underneath it, which is what she asked for.
+**Nadia Ferrous's twenty-ninth is still blank and going into four divisions that way on purpose, and she says
+she will never fill it: a book with a hole in it is a record, and this house has more accounts than records.**

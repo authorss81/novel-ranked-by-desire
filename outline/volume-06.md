@@ -148,19 +148,45 @@ every eight to fifteen chapters is met by 261 and not before.
    own terms, having filed a correction she has not filed yet, and she does not live under his roof again.
    A division's notice of the thirtieth requires the former auditor of record to attend on the second of
    August at ten, and she did not ask for that.**
-3. **The Examination Passes — 271–280.** *Plan, and Batch 0002 has changed what it starts from.* **271: Ines
-   comes back, on her own terms, having filed a correction she has not filed yet, and does not live under his
-   roof again.** **What 270 hands over, and all of it is on the page:** the hundred and thirty-fourth mark at
-   ten to nine on the first, **which is also the valuation at which the standing lodged on the seventh of June
-   is answered, with one pen in about eleven seconds** · the composition heard on the second at ten with the
-   former auditor of record required to attend · **Solveig Rask's reconciliation on the third of August and a
-   broker's device on a dated page in four divisions** · Sun Meiling's row into ink on the first of September
-   · a plate four under a floor that goes up every quarter, printed on a public wall · Beatrix Halm's hearing
-   with a guild's hold published on it · Runa Sato's stale paper · and the man in the good coat at the bar on
-   the eighteenth of July who said *say it exactly, and do not change the number*. **The tail on the fourth
-   page and the annual sitting's date are still unfixed and a batch may name them.**
-4. **The Figure That Cannot Be Refused — 281–290.** *Plan.* **The reservoir gets a figure on a dated page
-   in a book that reconciles**, and the batch that writes it is the batch that pays for it. 289.
+3. **The Examination Passes — 271–280. WRITTEN, and the plan was wrong about what it was about.** Batch 0003's
+   prompt called this movement *The Examination Passes* and handed over four dates: the mark on the first, the
+   composition on the second, the reconciliation on the third, Sun's row on the first of September. **All four
+   are on the page and the page's answer to every one of them is that they are the same instrument.**
+   **271 is the night of the thirtieth in the cage and the morning of the first on the sixty-one steps, and it
+   pays the scene Chapter 269 owed and it is Ines Duarte's return, and both of those were immovable.** The
+   reconciliation lands and says what Solveig Rask said in a cold room on the twenty-fourth it would say: a call
+   was entered at twenty-five minutes past four on the twentieth of July, the broker's own account carries it as
+   discharged at the hour of entry, the real book carries the standing at 8,138, and the two do not agree by the
+   whole of it. The composition is read at seven with the seventh returned line blank, counted and unnamed.
+   **The plan was wrong in three places and the page won all three.**
+   - **It thought the mark was a figure of the account.** It is not. A called standing is answered at a
+     valuation either by paying its figure or by a **production**, and a production is the figure of persons
+     answerable at the premises on the day — **so the hundred and thirty-fourth mark and the composition of
+     that address are the same act, and he swears seven in one stroke with his name and the date under it.**
+   - **It thought the composition would be settled at seven and finished.** It is not settled. **The seventh
+     line can be filled once, by the head, in his own hand, on the re-issue, before the certification; after
+     the first of September the certificate issues with the line blank and a blank line is a bar on the
+     certificate.** So Sun Meiling's row and a bar on the certificate are the same date, and the seventh line
+     has twenty-two days.
+   - **It did not know what the seventh line was for.** It is the only instrument in this city that could put
+     Wren Kallo inside the household without an oath, and the only name it can truthfully take is the one Ines
+     Duarte made unwriteable on purpose on the thirtieth. **Wren says the want on a step on the seventh and
+     says the no in a cold room on the eighth, in that order, and both are hers.**
+   **And the movement's own irreversible decision is his and it closes arithmetic rather than an option:** from
+   the first of August there is not one figure he puts on a form that is his own. He swore a clerk's accident
+   into a chained book because the alternative was the fourth of August. **The reservoir is not priced and Rask
+   has still not asked for the sentence under the column. She has signed a page she could have left
+   initialled, and a keeper who signs can be cross-examined, and she did it for nothing and was not asked.**
+   She has moved from a name to a date: **the annual sitting is the sixteenth of September, four hundred and
+   four days out at the close of the batch.** **289 is Volume 6's next scene and it is not hers.**
+4. **The Figure That Cannot Be Refused — 281–290.** *Plan, and Batch 0003 changed one thing in it before it
+   was written.* **The reservoir gets a figure on a dated page in a book that reconciles**, and the batch that
+   writes it is the batch that pays for it. **Batch 0003 established the condition it has to be written under:
+   Rask's book holds movements and its reconciliation reads the Vant's two books, and it cannot see the
+   Exchange's chained book, and there are now three sets of books in this volume that do not see each other
+   and will all be read by the same four divisions in the same week of the first of September. A figure in a
+   book that reconciles is therefore not the same kind of object as a figure in a book that does not, and the
+   first question Batch 0004 has to answer is which one is on the page under the column.** 289.
 5. **Terms — 291–300.** *Plan.* 299, and Volume 6's answer to `outline/series.md`'s sentence.
 
 **Escalation, stated once so no batch has to re-derive it.** Volume 5 was about a woman deciding whether
@@ -224,9 +250,10 @@ block and every one of the nine groups of shared 12-grams is adjudicated there b
 
 ## 10. Title bank, 251–300
 
-**Batch 0001 took ten. Batch 0002 took ten more.** Both sets were checked against all 270 written titles by
-command, not by eye. **No collisions, none over ninety characters, and not one of the twenty begins with
-*What*** — the first twenty titles of this volume that do not, after three consecutive Volume 5 titles did.
+**Batch 0001 took ten. Batch 0002 took ten more. Batch 0003 took ten more.** All three sets were checked
+against all 280 written titles by command, not by eye. **No collisions, none over ninety characters, and not
+one of the thirty begins with *What*** — the first thirty titles of this volume that do not, after three
+consecutive Volume 5 titles did. **The longest of the thirty is 32 characters.**
 
 **251 The One He Named First** (22) · **252 The Charge Against The Schedule** (31) · **253 The Keeper Of
 The Real Books** (28) · **254 The Table Bare** (14) · **255 Twenty-Two Stitches** (19) · **256 Nine Years
@@ -240,7 +267,15 @@ Book In Her Own Rooms** (25) · **269 A Cage With A Door On Both Sides** (32) ·
 Hundred And Forty-Two** (41). **270 is the precedent of Ch 208's *Eight Thousand One Hundred And Thirty-Eight*
 and follows it; forty-one characters against a cap of ninety.**
 
-**FREE FOR 271–300. Taken titles above are struck and must not be re-issued:**
+**271 The Booth And The Blank Page** (28) · **272 The Hundred And Thirty-Fourth** (29) · **273 The Seventh
+Returned Line** (25) · **274 A Page That Names No One** (24) · **275 The Name Of A Date** (18) · **276 The Space
+Under The Signature** (29) · **277 The Half In Her Pocket** (22) · **278 Both Roads Are The Same Door** (28) ·
+**279 The Room At The Top Of The Stair** (32) · **280 The Seventh Step Down** (21). **271 and 279 are the two
+scenes and both titles are the room they happen in. 277 was retitled twice: *The Paper Nobody Can Revive* was
+struck because a title may not carry a rationed word, and *What He Went Up The Stair For* at 280 was struck
+because a title may not begin with *What*.**
+
+**FREE FOR 281–300. Taken titles above are struck and must not be re-issued:**
 
 ~~The One He Named First~~ · ~~The Charge Against The Schedule~~ · ~~The Keeper Of The Real Books~~ · ~~The
 Table Bare~~ · ~~Twenty-Two Stitches~~ · ~~Nine Years In A Line~~ · ~~The Only Room She Owns~~ · ~~One Of The

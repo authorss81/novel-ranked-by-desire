@@ -1,6 +1,146 @@
-# Open Threads
+## Volume 6, Batch 0003 — LIVE GATE RECORD (Chapters 271–280). THE FIRST TO THE NINTH OF AUGUST.
 
-## Volume 6, Batch 0002 — LIVE GATE RECORD (Chapters 261–270). THE HEAD MAY GIVE UP A ROOM, THE TWENTY-FIRST TO THE THIRTIETH OF JULY.
+> **This block supersedes Batch 0002's as the live gate record.** Batch 0002's block is retained below it,
+> superseded as to position. **Every number below was produced by command against the files as they stand
+> after Batch 0003's last edit, and every row says what was run and what was read, because a gate that returns
+> zero is a claim to be tested and not a result to be reported.** The full record is
+> `reviews/volume-06/batch-0003.md`.
+>
+> **THE 12-GRAM SCAN RAN FIRST, AGAINST ALL 280 CHAPTERS, BEFORE THE 8-WORD SENTENCE SCAN, and it was run
+> repeatedly rather than once.** It returned **387** on the first pass. Every one of those was a real defect —
+> the batch's first draft quoted Chapter 269's own sentences back at the reader, quoted the instrument from
+> 266 word for word, quoted the reconciliation from 268 and the notice from 270, and restated two rules from
+> itself. **Three hundred and seventy-nine were cut and the final figure is 2.** Batch 0002 shipped 13 and
+> Batch 0001 shipped 29. **The rule for a later batch: a figure quoted from an earlier chapter is not free, and
+> a rule stated in this batch must not be restated in this batch.**
+>
+> **THE 12-GRAM GATE IS A PREFIX OR A WHOLE PARAGRAPH, AND THE TWO ANSWER DIFFERENTLY.** The gate that
+> mattered — an exact duplicate *paragraph*, at either floor, across 261–280 — returns **1**, and it is
+> `He sat down.` at 262 and 263, which are not this batch's chapters. A first-6-words-prefix test returns 10 and
+> a first-4-words-prefix test returns 68, and every one of those 68 is an ordinary English opener and not a
+> repeated sentence. **Both figures are recorded below and neither is a duplicate paragraph.**
+
+**Ten chapters, one a day from the night of the thirtieth of July to the ninth of August. A month is thirty
+days and has no thirty-first. July 1 is a Saturday, so **July's Thursdays are the sixth, the thirteenth, the
+twentieth and the twenty-seventh**, the thirtieth of July is a Sunday, **August 1 is a Tuesday and August 3 is
+a Thursday.** Day map: 271 the 30th at night and the 1st at dawn, **the cage and the back booth, Ch 269's owed
+scene, and Ines Duarte's return with a correction filed the night before** · 272 the 1st, **the hundred and
+thirty-fourth mark, and seven sworn on a production line** · 273 the 2nd, **the composition read at seven, the
+seventh line blank, and the unnamed seventh worked out on a wall** · 274 the 3rd Thursday, **the
+reconciliation, signed, and three books that do not see each other** · 275 the 4th, **the dead list is quiet,
+Beatrix is told what her tail was bought with, and the annual sitting gets a date** · 276 the 5th, **Sun
+Meiling, the certificate, and a request refused in front of six women** · 277 the 6th, **Cordwain, the stale
+paper, and the address that is not a sleeping body** · 278 the 7th, **the district counter, two roads, one door,
+and Wren Kallo reading him** · 279 the 8th, **Wren Kallo's scene** · 280 the 9th, **the seventh step down,
+*do not write it*, and a sentence with no name in it.**
+
+### Gates run after the last edit
+
+```
+files            chapters/volume-06/ -> 30 (0251..0280). 280 chapter files total. Nothing before 0271 and
+                 nothing after 0280. Every file in chapters/ is a chapter. Checked by command.
+titles           unique across ALL 280 written titles -> NONE duplicated. Over 90 chars -> 0.
+                 Longest new title 32 ("The Room At The Top Of The Stair"). None begins with "What".
+                 Collision check run against every file in chapters/ by command, not by eye.
+                 271 The Booth And The Blank Page (28) · 272 The Hundred And Thirty-Fourth (29) ·
+                 273 The Seventh Returned Line (25) · 274 A Page That Names No One (24) ·
+                 275 The Name Of A Date (18) · 276 The Space Under The Signature (29) ·
+                 277 The Half In Her Pocket (22) · 278 Both Roads Are The Same Door (28) ·
+                 279 The Room At The Top Of The Stair (32) · 280 The Seventh Step Down (21)
+wc 271-280       4124 / 2331 / 3029 / 2769 / 1980 / 2243 / 1986 / 2254 / 2952 / 2543
+                 SIX INSIDE 1,800-2,700 (272, 275, 276, 277, 278, 280).
+                 **FOUR NAMED EXCEPTIONS AND EACH ONE IS NAMED:**
+                   **271 is 4,124.** It is Volume 6's third scene AND it completes the scene Chapter 269 owed
+                     AND it is Chapter 271 of `outline/series.md`, Ines Duarte's fixed return, with a
+                     correction filed the previous night. It carries the cage, the booth, the page, the scene
+                     and the tram step in one chapter because the night and the morning are one dramatic unit.
+                     Inside this book's longest twelve chapters (5,090 / 5,065 / 5,038 / 4,913 / 4,761 /
+                     4,719 / 4,676 / 4,467 / 4,066 / 4,027 / 4,124).
+                   **279 is 2,952.** Wren Kallo's scene, immovable on the scene table.
+                   **273 is 3,029.** The composition hearing, the panel, the question he cannot answer, the
+                     arithmetic worked out on a wall, Marguerite Vale's rooms and the kitchen. Not a scene, and
+                     the overage is 329 words.
+                   **274 is 2,769.** The reconciliation, the signature and the three books. Not a scene, and
+                     the overage is 69 words.
+markup           **bold 11 | italic 5 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
+                 **MARKUP IS NOT ZERO AND A LATER BATCH MUST NOT INHERIT ONE.** The first draft of this batch
+                 carried 23 horizontal rules used as scene breaks and 14 italic spans and zero bold; the rules
+                 are gone and the italics were moved into bold at the six places where the stress genuinely
+                 fell — seven, a production is a figure and not a list, at the hour of entry, there is no
+                 further entry, out of band, holding an address at the premises, unusual, how it goes on the
+                 record, hers, I am not living at your address, there was not one name in it.
+system panels    0,0,0,0,0,0,0,0,0,0. **The batch contains no "[" character at all, so the zero is
+                 STRUCTURAL and not a regex artefact.** Nothing is spent and nothing settles. NO PANEL IS DUE.
+paragraphs       over 90 words -> **0**. Over 120 words -> **0**. *(The first draft had 91 over 90 and 25 over
+                 120. Nineteen survived the final pass and every one of them was split at a speech beat; two
+                 were still over after that and were split by hand. See `reviews/volume-06/batch-0003.md` §3.)*
+exact-dup paras  **whole-paragraph test, floor 3 words, batch AND neighbours 261-280 -> 1, and it is
+                 `He sat down.` at 262 and 263, which are Batch 0002's chapters and not this batch's.**
+                 Whole-paragraph test at floor 4 and floor 6 -> the same 1.
+                 **First-6-words-prefix test, same scope -> 10. First-4-words-prefix test -> 68. Every one of
+                 the 68 is an ordinary opener (he did not say anything for / she put her hand flat on / "I am
+                 not going to) and NOT ONE is a repeated sentence.** Recorded because Batch 0002's 4-word
+                 floor caught two genuine repeats, and the batch writer had to be shown the difference between
+                 the two tests to know that his own zero was not a hidden one.
+nobody           **0.** Deliberate, and recorded as deliberate. Volume 5 ran 9, Batch 0001 ran 1 and Batch 0002
+                 ran 6. The first draft of this batch ran 9 and every one was cut, including two in Ch 276 that
+                 were carrying Sun Meiling's best argument.
+no person        0.  He understood 0.  He also understood 0.
+He had woken wanting  0 of 10 (Volume 5 closed on 4).
+He felt          0 (case-sensitive).
+weekday          **Thursday 5 and every other weekday 0**, whole-word and as a substring. The first draft
+                 named Monday, Tuesday, Wednesday, Friday, Saturday and Sunday in 271, 272, 274, 276, 277, 278,
+                 279 and 280 and all of it is gone.
+                 **All five surviving Thursdays checked against the calendar: every one is the third of
+                 August.** 271's is the reconciliation going into four divisions; 273's is Nadia's page going
+                 into four divisions; 274's is Rask's reconciliation; 276's and 280's are the third of August as
+                 a date. **The two calendar findings Batch 0002 handed down were both honoured: no batch wrote
+                 a weekday it had not derived, and no replacement word was Thursday.**
+meta / fourth wall / ages   0. "volume", "chapter", "the reader", "this scene", "novel", narrat, the author,
+                 and every age construction -> 0.
+12-GRAM SCAN     **RUN FIRST, AGAINST ALL 280 CHAPTERS, BEFORE THE 8-WORD SCAN, AND RUN REPEATEDLY.**
+                 Distinct 12-grams in 271-280 that occur in any other chapter: **0 / 0 / 0 / 0 / 0 / 0 / 0 /
+                 0 / 1 / 1 = 2 TOTAL**, against 280 chapters, against Batch 0002's 13 and Batch 0001's 29.
+                 One adjudicated group:
+                   **271/273 the correction of the thirtieth of July, quoted verbatim.** 271 is the only place
+                     in the book where that correction is read aloud from the sheet, and 273 is the only place
+                     it is described by a division clerk reading it off her own file. It is a document and it is
+                     quoted, and quoting a document differently would break it. **Two 12-grams in two chapters
+                     and it is the batch's only echo.**
+                 **The first pass returned 387. Every one was a defect and 379 were cut**, including 58 grams of
+                 Chapter 269's own sentences copied into 271, 36 grams of the instrument from 266 quoted word
+                 for word in 276, 26 grams of the certificate rule from 273 repeated in 276, 16 grams of
+                 Marguerite Vale's panel sentence from 268, 14 grams of the notice from 270, and 13 grams of
+                 the reconciliation from 264.
+intra-batch      12-grams occurring in 3+ chapters -> **0**. Max multiplicity 2.
+vs neighbours    per chapter, shared with 261-270: **12-gram 0,0,0,0,0,0,0,0,0,0.** 10-gram 1,0,0,2,1,1,0,1,1,0.
+                 9-gram 1,1,0,4,2,2,0,1,2,0.  8-gram 4,4,1,4,3,3,1,3,2,2.
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 261-280 -> **0.**
+                 The first pass returned 4 and all four were cut.
+intra-chapter    duplicated 5-word-plus sentences inside any single chapter -> **0.**
+quote balance    quotation marks even in every chapter, whole-file test, 271-280 -> 10/10. This is not in the
+                 standard gate list and it is recorded because **the batch broke it four times** while an
+                 automated paragraph-splitter was splitting speeches at sentence boundaries.
+```
+
+### What the gates do not tell you
+
+**This batch's failure mode was restatement, and it was worse than Batch 0002's dates and Batch 0001's
+arithmetic, because it is invisible to every gate in the block above until you run the 12-gram scan — and the
+12-gram scan returned 387 before it returned 2.** Nine separate passages were lifted word for word from an
+earlier chapter into a later chapter in the same batch, including a page of Chapter 269 quoted back at the
+reader four paragraphs after it was set up and the instrument from 266 quoted in full in 276 by a woman asking
+for it to be read back. **A batch that quotes an earlier chapter is quoting itself, because the book is one
+voice; the fix is to write the rule once and then describe the second instance in different words.**
+
+**The second failure was mechanical and it is worth recording because the gate did not catch it either.** A
+paragraph-length splitter was run across the batch and it broke long speeches at sentence boundaries, which
+opened and closed quotation marks that did not belong there. **Three separate repair passes made it worse and
+the chapters had to be rewritten from the drafts.** The final gate block includes a quote-balance row that
+does not exist in the standard list, and **a later batch that splits paragraphs programmatically must check
+quotation balance before it checks anything else.**
+
+## Volume 6, Batch 0002 — RETAINED GATE RECORD (Chapters 261–270). SUPERSEDED BY BATCH 0003 AS TO POSITION.
 
 > **This block supersedes Batch 0001's as the live gate record.** Batch 0001's block is retained below it,
 > superseded as to position. **Every number below was produced by command against the files as they stand
@@ -107,8 +247,6 @@ intra-chapter    duplicated 5-word-plus sentences inside any one chapter -> **1.
                  *it does not need her hand* from 262:67 inside a single speech, which is Marguerite Vale
                   refusing her own sentence twice because she means it twice. Adjudicated, not cut.
 ```
-
-### What the gates do not tell you
 
 **A rule invented and then restated from memory was this batch's failure, and it is not a class any gate
 counts.** Three instruments are introduced in ten chapters — a change of auditor of record, the validity of
