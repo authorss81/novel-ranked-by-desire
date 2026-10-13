@@ -306,11 +306,15 @@ because a title may not begin with *What*.**
 
 **Batch 0004 took ten.** **281 Two Flights Of Stair (20) · 282 The Shortest Thing On A Wall (28) · 283 A Term
 With A Date On It (24) · 284 The Round She Cannot Refuse (27) · 285 The Man Who Files In Her Division (30) ·
-286 The Reason She Does Not Ask (26) · 287 There Is No Before (18) · 288 The Room He Is Not In (22) · 289 The
+286 The Reason She Does Not Ask (26) · 287 The Drawer She Took Nothing From (31) · 288 The Room He Is Not In (22) · 289 The
 Woman Who Asked To Be Counted (33) · 290 The Fourth Document (18).** Checked by command against all 290 written
 titles: none duplicated, none over ninety characters, **and none begins with *What*, which is the third
-consecutive Volume 6 batch to say so.** **Counted by command against all 290 written titles, Volume 6 has
-ZERO of them, and the book's twenty-eight are all inherited from Volumes 1 to 5 (4 / 4 / 13 / 0 / 7).** The
+consecutive Volume 6 batch to say so.** **287 was retitled once after its batch was reviewed: *There Is No
+Before* was struck because a title may not be built out of *there is no*, and this volume's own batch carried
+forty-one instances of that construction.** **This is the second time this volume has struck a title for a
+rationed word, after 277's *The Paper Nobody Can Revive*, and the rule is now a standing one: a title is a name
+and a rationed construction is not a name.** Counted by command against all 290 written titles, Volume 6 has
+ZERO of them, and the book's twenty-eight are all inherited from Volumes 1 to 5 (4 / 4 / 13 / 0 / 7). The
 longest title in the volume remains 270's forty-one.
 
 **FREE FOR 291–300. Taken titles above are struck and must not be re-issued:**

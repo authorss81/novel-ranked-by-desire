@@ -50,13 +50,13 @@ She sat down on the top step with the bundle against her knees.
 
 "That is the thing. That is the whole of the thing and I have not been able to say it out loud to anybody in eleven years."
 
-"You take a round or you do not," she said. "There is no third and there is no appeal."
+"You take a round or you do not," she said. "And the guild does not take a second answer."
 
-"And there is not one office in this guild that will hear the word no from a sworn enforcer about a round she has been offered."
+"And the word no is not a thing this guild will hear from a sworn enforcer about a round she has been offered."
 
 "I have watched three women find that out in five years and two of them found it out the hard way."
 
-"And I did not say yes because there was no point at which I decided anything. A man I have never spoken to handed me a slip at about eleven in the morning and my hands took it."
+"And I did not say yes because I never got as far as deciding anything. A man I have never spoken to handed me a slip at about eleven in the morning and my hands took it."
 
 "Then I walked out and walked two miles with it and got as far as your gate, and I have been standing here since six."
 
@@ -102,7 +102,7 @@ She said it the way a woman says a thing she has rehearsed on a two-mile walk an
 
 "Let me do it and there will be one woman on that step who is standing there because she asked to be."
 
-He said yes in about four seconds, because there was not a version of that question he was going to take longer over.
+He said yes in about four seconds, because he was never going to take longer than four seconds over that question.
 
 "That is the worst thing anybody has said to me in eleven years," Petra Ilyin said. "I asked for it and you gave it to me without one question, and I want you to hear the shape of what you have done."
 

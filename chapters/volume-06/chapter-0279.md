@@ -110,7 +110,19 @@ She took her own coat off the chair and put it on the floor and put her hair up 
 
 "That is the only true thing anybody in this building has said to me about it." Wren Kallo pulled him down. "Say it again later and I will tell you to stop."
 
-It went on for a long time in a cold room with a door that does not lock, and she kept it in front of her the whole way through, not because she was careful but because that is how she is built. She was entirely there and she was not anywhere else, and she did not shut it down once, and she did not let it take her out of the room either.
+She had the lamp on and the blind down, and she had chosen the side of the room with the door on the wrong side of it, and she had not thought about any of that for a second.
+
+"Both hands behind my head," she said. "And they stay there until I move them, and I am going to move them about four times over the next hour, and I am telling you the number now so that you cannot tell anybody afterwards that I sprang it on you."
+
+"There is nobody to tell."
+
+"That is the first thing you have said tonight that is actually true." She pushed him back off her with a hand on his chest, and then pulled him in again by the back of the neck.
+
+"And it is the last one you are going to get, because I have been the person who talks since I was nineteen and I am extremely good at it, and tonight I am not going to do it, and I would like you to understand that this is the single most expensive thing I have ever not done."
+
+He was not gentle. She had told him not to be gentle and he had not been, and at some point in about the first half hour she made a sound she had clearly not decided to make, and put his hand where she wanted it, and then went quiet for about four seconds as though something had been resolved.
+
+After that neither of them said anything for a long time.
 
 At some point she stopped him and made him look at her.
 

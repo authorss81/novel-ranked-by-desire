@@ -1,4 +1,4 @@
-# There Is No Before
+# The Drawer She Took Nothing From
 
 He got to her rooms at about four in the afternoon on the twenty-seventh of August and made her let him in past the outer door, which took nine minutes and a conversation at the hatch about a parcel that did not exist.
 
@@ -16,7 +16,7 @@ Marguerite Vale did not sit down and did not look up.
 
 "And your own account is the book on the other side of that disagreement. Your account says that standing of the seventh of June was discharged at twenty-five minutes past four on the twentieth of July, and the real book carries it whole."
 
-"If you strike the discharge out of your own book tonight, the two books agree, there is nothing to reconcile, and the figure on her page is a figure about an entry that is not there."
+"If you strike the discharge out of your own book tonight, the two books agree, and the figure on her page is a figure about an entry that is not there."
 
 She turned a chair a quarter round and left it.
 
@@ -44,7 +44,7 @@ She put her hands on her knees.
 
 "A reconciliation that publishes a disagreement is a fact about books and it convicts nobody at all, and a woman initialling it is a keeper doing arithmetic, and that is what makes it survivable."
 
-"If I strike the entry on the twenty-seventh of August, then on the twenty-ninth a division has a page in four buildings saying two books disagreed, and on the thirtieth of August there is no longer any entry for that page to be about."
+"If I strike the entry on the twenty-seventh of August, then on the twenty-ninth a division has a page in four buildings saying two books disagreed, and by the thirtieth of August the entry that page is about will not exist."
 
 "And a page that cannot be about anything is a page somebody manufactured. And there are two hands in this city that could have manufactured it, and one of them is mine."
 
@@ -120,7 +120,7 @@ She went across the room and opened a drawer and did not take anything out of it
 
 She shut the drawer.
 
-"Which is why I said there was no before, and why I meant it twice, and why it is worth about four seconds of a careful woman's attention to make sure that on the first of October there is somebody standing on a step at your address who is not going to answer a question about an account."
+"Which is why I said it twice on the way up your stairs, and why I meant it twice, and why it is worth about four seconds of a careful woman's attention to make sure that on the first of October there is somebody standing on a step at your address who is not going to answer a question about an account."
 
 "That is not advice. That is a woman telling you what she has been doing since March without saying she has been doing it."
 

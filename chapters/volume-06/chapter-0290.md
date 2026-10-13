@@ -18,7 +18,7 @@ Then the clerk turned the sheet round.
 
 "There is a ground for it," she said. "Box four. Say why you certify the composition at seven and say what is on the seventh line."
 
-"And if there is nothing on the seventh line then say that there is nothing on it, in those words, because a bar has to be described on the face of the thing and not left for somebody to find in a week."
+"And if the seventh line is empty then say so in those words, because a bar has to be described on the face of the thing and not left for somebody to find in a week."
 
 He read box four.
 
@@ -60,7 +60,7 @@ The clerk wrote it and read it back and he said yes.
 
 Then she read out the list of seven, in the order on page two, at the rate of a woman reading addresses.
 
-She got to the sixth and said Sun Meiling, and did not pause on it, because there was nothing to pause on and there had not been for a hundred and sixty-two days.
+She got to the sixth and said Sun Meiling, and did not pause on it, because she had not paused on it for a hundred and sixty-two days.
 
 She got to the seventh.
 
@@ -146,7 +146,7 @@ Runa Sato was in the corridor with her pencil and her notebook and she had not g
 
 She shut the notebook.
 
-"She was counting books," Runa Sato said, "and there is a certificate with your name at the foot of it, and nobody has ever read a word of it before."
+"She was counting books," Runa Sato said, "and there is a certificate with your name at the foot of it, and it went out without one word of it being read."
 
 "Because a certificate is not a book and it is not in any of the three, and it is about the same household as all three of them."
 

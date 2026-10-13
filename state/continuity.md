@@ -1,3 +1,27 @@
+## HOW TO READ THIS FILE, WHICH IS 166 KB AND IS NOT ALL LIVE
+
+**This file was NOT archived on Batch 0004's review pass, deliberately, and the reason is on the face of it.**
+`state/chapter-summaries.md` and `state/current.md` were both cut by moving closed volumes into
+`state/archive/`, because everything in them about a closed volume is narrative. **This file is different: the
+blocks below Volume 6's four still contain *CANNOT CONTRADICT* sections, fixed calendars and fixed figures, and
+archiving those would invite a later batch to contradict canon it could not see.** Cutting it would have been
+the cheaper mistake and the wrong one.
+
+**So read it selectively, and read these parts:**
+
+1. **Batch 0004 and Batch 0003's blocks, in full.** Live position.
+2. **Any block headed *Mechanics now on the page — CANNOT CONTRADICT*, *Figures, fixed on the page*, or
+   *Calendar, as the page fixed it*.** These are canon, they live inside closed-volume blocks, and they are the
+   whole reason this file is still here. **Volume 4 Batch 0005 at Ch 191–200 carries the most complete set.**
+3. **The rest of a closed-volume block — the narrative — only when a batch needs the chapter-level reason a
+   rule exists.**
+
+**Volume 1 to 5 narrative continuity is additionally in `state/archive/continuity-v1-v2.md`,
+`continuity-v3.md` and the Volume 4 and 5 blocks below.** The Volume index at the top of
+`state/chapter-summaries.md` and the condensed index of adjudicated contradictions at the foot of
+`state/current.md` carry the long-range memory in one line each, and **those two are the right first read for
+long-range position, before any of this.**
+
 ## Volume 6, Batch 0004 — CHAPTERS 281–290. THE TENTH OF AUGUST TO THE FIRST OF SEPTEMBER. LIVE.
 
 **Ten chapters, twenty-three days.** Batch 0004's head block is in `state/current.md`; the live gates are in

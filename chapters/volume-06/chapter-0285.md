@@ -66,7 +66,7 @@ She looked at him without moving the file.
 
 "No."
 
-"That is the end of **unusual**." She said the word exactly the way a woman says a word she has picked up off a wall.
+"That is the end of unusual." She said the word exactly the way a woman says a word she has picked up off a wall.
 
 "On the seventh of August a clerk on a district counter looked at a composition return with six names on it and a seventh line empty and told you in her own words that there was something unusual about it."
 
@@ -128,7 +128,7 @@ She put the paper down on the crate.
 
 "Which means she did not hide it."
 
-"No." She held up a finger. "She **filed** it. Do you understand what she has actually done?"
+"No." She held up a finger. "She filed it. Do you understand what she has actually done?"
 
 "A thing that is filed is a thing that is ordinary. A thing that is ordinary cannot be argued with, because you cannot object to a date and a clerk's number and a drawer."
 

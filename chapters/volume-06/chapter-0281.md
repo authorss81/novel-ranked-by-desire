@@ -84,7 +84,7 @@ He knocked and waited and then knocked again, and she opened it about six inches
 
 "You do not, because you have come down with something to ask for and you have not been told anything yet."
 
-She turned and went in and left the door where it was, and he came in and shut it, because there is no version of this room in which a door is left open.
+She turned and went in and left the door where it was, and he came in and shut it, because a door in that room did not stay open once anybody had been told to leave it.
 
 There were four books on the table and not five, and the leather folder was not on it, and her cup was beside her right hand and had not been in it.
 
@@ -92,7 +92,7 @@ There were four books on the table and not five, and the leather folder was not 
 
 "And it will not be like the last time."
 
-He sat down.
+He took the chair at the end of the table nearest the door, which was a thing he had done every day for five years and had never once done in a room he was going to be put out of.
 
 "The sentence under the column," he said. "That is the third time. I will put it once and then I go when you tell me to go."
 
@@ -164,7 +164,7 @@ He had gone down that afternoon with one thing and come up with two, and the sec
 
 It was the only one in this city that could stop him writing on the first of September: **there was a date after which she would not be the only woman able to write a figure about him.**
 
-Nobody had promised her anything on the seventeenth of September except that the book changed hands.
+She had been promised exactly one thing for the seventeenth of September, and it was that the book changed hands.
 
 He walked back up the hill in the last of the light with nothing in his hands, the way he had walked down it, and there were twenty-one days left and six things on a list.
 

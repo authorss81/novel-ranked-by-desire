@@ -76,7 +76,7 @@ She put the pencil flat on the crate.
 
 "I have not been down there since the third of August and neither have you, and I did not need to be, because she initialled it and she did not sign it."
 
-"And there is not one other person in this city who can tell you what the difference is except a woman who does counter work and has been on both sides of it."
+"And the only person in this city who can tell you what the difference is between those two is a woman who does counter work and has been on both sides of it."
 
 He looked at the sheet again.
 
@@ -98,7 +98,7 @@ He looked at the sheet again.
 
 "The twenty-fourth is not about a pen and it is not about a hand. It is about a figure and two books."
 
-"And she initialled it because the day she signs a page about an account, that page is evidence about the account's holder, and she would rather publish a figure that convicts nobody at all than publish one that convicts you."
+"And she initialled it because the day she signs a page about an account, that page is evidence about the account's holder, and she would rather publish a figure that puts a hand on nothing at all than publish one that puts a hand on you."
 
 The market went on around them.
 

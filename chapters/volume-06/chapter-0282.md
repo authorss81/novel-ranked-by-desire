@@ -100,11 +100,11 @@ She turned her head back.
 
 "I want a line in that notebook with a day on it and a number of days under it in your handwriting, the way Runa does it, so that when it comes I know how many I have got and I am not told afterwards."
 
-"Nine years of that notebook and there is not one line in it that is a day I can arrive at."
+"Nine years of that notebook and every line in it is a thing that happened, and not one of them is a day I can arrive at."
 
 "I have a hundred and forty-three dockets of Petra's in my head every morning and not one date. I have eleven burned months in this book and I have known the count of them since March, and there is not a single day on any of them."
 
-"You want a date and there is not one."
+"You want a date. I do not have one."
 
 "There is one and it belongs to somebody else and she lost hers at midnight on the thirtieth of July."
 

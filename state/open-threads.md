@@ -9,15 +9,22 @@
 > **THE 12-GRAM SCAN RAN FIRST, AGAINST ALL 290 CHAPTERS, BEFORE THE 8-WORD SENTENCE SCAN, AND IT WAS RUN
 > REPEATEDLY.** **The first pass returned 131.** Batch 0003's first pass returned 387 and Batch 0002's returned
 > 44, so a large first figure is this book's normal condition and not a surprise. **All 131 were cut and the
-> final figure is 0.** **THE TOKENISATION IS PART OF THE FIGURE AND IS STATED.** The figure 0 is the
-> **whitespace split with case and punctuation significant**, the same gate Batch 0003 reported 2 against and
-> Batch 0002 reported 13 against. **A punctuation-insensitive variant — lower-cased, punctuation stripped to
-> spaces, 12-gram — returns 6 for this batch, and every one of the six is a date written in words**
-> (*the thirtieth of July at twenty-five minutes past eleven at night*, between 283 and 271; and
-> *at twenty-five minutes past four on the twentieth of July*, in 287 and 288 and, before them, 264 and 274).
-> **A date is a fact about this world and not a sentence, and two of those facts have to appear more than
+> final figure is 14, not 0.** **THOSE 14 ARE TWO REFRAINS AND ARE NAMED BELOW, AND THE EARLIER VERSION OF
+> THIS BLOCK REPORTED THEM AS ZERO, WHICH WAS WRONG.** The reviewer's first pass over Batch 0004 caught the
+> error and it was corrected here on the review's finding. **THE TOKENISATION IS PART OF THE FIGURE AND IS
+> STATED.** The figure is the **whitespace split with case and punctuation significant**, the same gate Batch
+> 0003 reported 2 against and Batch 0002 reported 13 against. **A punctuation-insensitive variant —
+> lower-cased, punctuation stripped to spaces, 12-gram — returns 6 for this batch, and every one of the six is
+> a date written in words** (*the thirtieth of July at twenty-five minutes past eleven at night*, between 283 and
+> 271; and *at twenty-five minutes past four on the twentieth of July*, in 287 and 288 and, before them, 264 and
+> 274). **A date is a fact about this world and not a sentence, and two of those facts have to appear more than
 > once.** Both figures are reported because a 12-gram number without its tokenisation is a number nobody else
 > can reproduce.
+>
+> **A LATER BATCH THAT RUNS THE 12-GRAM SCAN MUST SUBTRACT THE NAMED REFRAINS BY HAND AND SAY SO.** Two are
+> standing in this volume: the clerk and the shelf in 285, and the bottom of the street in 288. **A scan that
+> cannot tell a refrain from an accident will keep reporting clean batches as dirty and dirty batches as clean,
+> and that is the failure this row now exists to prevent.**
 >
 > **A QUOTE-BALANCE ROW IS IN THIS BLOCK AND IT IS NOT IN THE STANDARD LIST, AND THIS BATCH IS THE REASON.**
 > Batch 0003 added the row because a machine paragraph-splitter broke four speeches. **This batch ran a
@@ -26,6 +33,11 @@
 > whole-file count of quotation marks and it returns **10 of 10 even**, which is the cheapest possible test and
 > the one that catches the failure. **A later batch that splits paragraphs programmatically must check
 > quotation balance before it checks anything else, and must not run the splitter on dialogue at all.**
+>
+> **THE REVIEW OF THIS BATCH FOUND THREE OF THIS BLOCK'S OWN ROWS OVER-REPORTING CLEAN.** The 12-gram row said
+> 0 and is 14 · the 8-word-opening row said 0 and was 4 · the nobody row said 9 from a case-sensitive count and
+> is 16 by the same tokenisation, or 9 case-insensitively. **A row on a gate block is a claim about a file and
+> not a result, and a reviewer's re-run of it outranks whatever the block says about itself.**
 
 **Ten chapters, twenty-three days. A month is thirty days and has no thirty-first. July 1 is a Saturday, so
 July's Thursdays are the sixth, the thirteenth, the twentieth and the twenty-seventh; **August 1 is a Tuesday,
@@ -37,7 +49,8 @@ Ines Duarte at a desk where she is the subject, and the term goes onto a file** 
 and a quarter round whose twentieth address is his, with the figure seven under it** · 285 the 22nd,
 **Wren Kallo's sixth telling on an ordinary afternoon, and the word *unusual* goes off the record** · 286 the
 24th Thursday, **THE FIGURE — eight thousand one hundred and thirty-eight, initialled and not signed** · 287 the
-27th, **there is no before, and the routing is refused out loud in a broker's own rooms** · 288 the 29th,
+27th, **a broker opens a drawer, takes nothing out of it, and refuses the routing out loud in her own rooms** ·
+288 the 29th,
 **the panel, and he is at the bottom of the street** · 289 the 30th, **the card at six, five under, and
 Sun Meiling's scene** · 290 the 1st of September, **the certification, the bar, and Sun Meiling in ink.**
 
@@ -56,21 +69,31 @@ titles           unique across ALL 290 written titles -> **NONE duplicated**. Ov
                   none in Volume 4, seven in Volume 5, and ZERO in all forty of Volume 6's written titles.**
                   Counted by command against every file in chapters/, not by eye.
                   Collision check run against every file in chapters/ by command, not by eye.
-                  281 Two Flights Of Stair (20) · 282 The Shortest Thing On A Wall (28) ·
-                  283 A Term With A Date On It (24) · 284 The Round She Cannot Refuse (27) ·
-                  285 The Man Who Files In Her Division (30) · 286 The Reason She Does Not Ask (26) ·
-                  287 There Is No Before (18) · 288 The Room He Is Not In (22) ·
-                  289 The Woman Who Asked To Be Counted (33) · 290 The Fourth Document (18)
-wc 281-290       2025 / 1916 / 2263 / 1842 / 1816 / 1826 / 1886 / 2025 / 2532 / 1806
-                  **ALL TEN INSIDE 1,800-2,700 AND NO NAMED EXCEPTIONS ARE NEEDED.**
-                  289 is the longest at 2,532 and it is Volume 6's fourth scene on the scene table, plus a card
-                  coming down on a public wall at six in the morning; it did not run past the band.
-markup           **bold 4 | italic 6 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
-                  **Markup is not zero and a later batch must not inherit a zero.** The four bold spans are
-                  281 the sentence she gives him on the way up the stairs, 285 **unusual**, 285 **filed**, and 289
-                  **out of band**. The six italic spans are 283 *address at premises held*, 285 *yes*, 286 *do
-                  it*, 288 *accusation*, 289 the four lines of the broker's statement as a document, and 290 the
-                  six lines of the ground of certification as a document.
+281 Two Flights Of Stair (20) · 282 The Shortest Thing On A Wall (28) ·
+                   283 A Term With A Date On It (24) · 284 The Round She Cannot Refuse (27) ·
+                   285 The Man Who Files In Her Division (30) · 286 The Reason She Does Not Ask (26) ·
+                   287 The Drawer She Took Nothing From (31) · 288 The Room He Is Not In (22) ·
+                   289 The Woman Who Asked To Be Counted (33) · 290 The Fourth Document (18)
+                   **287 WAS RETITLED FROM *There Is No Before* ON THE REVIEW'S FINDING.** A title may not be
+                   built out of the construction AGENTS.md names as dead by the tenth, and this batch carried 41
+                   instances of it. **The subject did not change, only the name: Marguerite Vale opens a drawer
+                   and takes nothing out of it, which is the chapter's whole refusal made into an object.**
+wc 281-290       2070 / 1922 / 2264 / 1836 / 1816 / 1832 / 1884 / 2022 / 3309 / 1795
+                   **NINE INSIDE 1,800-2,700. 289 IS 3,309 AND IS THE ONE NAMED EXCEPTION.** It is Volume 6's
+                   fourth scene on the scene table and the review found it written as an implication, which
+                   AGENTS.md forbids, so the act itself is now on the page and the chapter is longer because of
+                   it. **A scene chapter that has to carry an explicit act is allowed past the band; a chapter
+                   that runs long because the prose is interesting is not.** 290 at 1,795 is three words under
+                   the floor and is left, because padding it would be the thing the rule exists to prevent.
+markup           **bold 2 | italic 6 spans | blockquote 0 | table 0 | horizontal rule 0 | code 0.**
+                   **Markup is not zero and a later batch must not inherit a zero.** **THE REVIEW CUT TWO OF
+                   THE FOUR BOLD SPANS**, 285 **unusual** and 285 **filed**, because in both the sentence
+                   carries the word unaided and bolding it is markup standing in for emphasis. **What survives
+                   is 281 the sentence she gives him on the way up the stairs, and 289 **out of band** — two
+                   bold spans in twenty-one thousand words, both of which are a term or a datum rather than an
+                   emotion.** The six italic spans are 283 *address at premises held*, 285 *yes*, 286 *do
+                   it*, 288 *accusation*, 289 the four lines of the broker's statement as a document, and 290 the
+                   six lines of the ground of certification as a document.
 system panels    **0,0,0,0,0,0,0,0,1,0.** Nine chapters contain no "[" character at all, so their zero is
                   **STRUCTURAL and not a regex artefact.** **A PANEL WAS DUE IN 289 AND WAS PAID**, because a
                   draw was spent: *[Draw. The hand at the base of the throat. It will cost her a cold minute and
@@ -80,31 +103,55 @@ system panels    **0,0,0,0,0,0,0,0,1,0.** Nine chapters contain no "[" character
                   still earning continuously, and no settle date has been invented or printed anywhere.**
 paragraphs       over 90 words -> **0**. Over 120 words -> **0.** *(The first draft had 30 over 90 and 3 over
                   120; all 33 were split by hand at a speech beat and none was split by machine.)*
-exact-dup paras  **whole-paragraph identity test, batch AND neighbours 271-290, at five floors:**
-                  floor 1 -> 12 groups, **ALL 12 quoted dialogue beats** (*Yes.*, *No.*, *I know.*, *Go on.*,
-                  *Say it.* and so on), **UNQUOTED 0**.
-                  floor 2 -> 5 groups, all 5 quoted dialogue beats, **UNQUOTED 0**.
-                  floor 3 -> **0**. floor 4 -> **0**. floor 6 -> **0**.
-                  **This batch's first draft had `He sat down.` at 281, twice at 283 and once at 289, and
-                  `She stopped.` twice at 283 — six instances of the exact defect Batch 0003's reviewer found at
-                  262 and 263, and all six are now gone.** A first-6-words-prefix test is NOT substituted here,
-                  because on Batch 0003's own clean batch it returned 10 and a first-4-words test returned 68
-                  and every one of those is an ordinary English opener. **Test identity, not opening words.**
+exact-dup paras  **whole-paragraph identity test, 281-290: floor 1 -> 5 groups, ALL 5 one-word quoted
+                   dialogue beats** (*Yes.*, *No.*, *Go on.*, *Tell me.*, and *Sun.* in 289, where she makes
+                   him say her name twice and the beat has to repeat because the chapter is about a name),
+                   **UNQUOTED 0**. Neighbours 271-290 -> the same 5, **UNQUOTED 0**.
+                   **THE FIGURE THIS BLOCK PREVIOUSLY GAVE WAS 12 AND IT WAS WRONG.** It was read off a
+                   first-words-prefix test, which this block itself warns against four lines below. **Run the
+                   identity test; the prefix test inflates it and then the inflated number becomes the record.**
+                   **This batch's first draft had `He sat down.` at 281, twice at 283 and once at 289, and
+                   `She stopped.` twice at 283 — six instances of the exact defect Batch 0003's reviewer found at
+                   262 and 263. All six were cut in the first pass, and on the review's finding 281:95 was cut a
+                   second time and now reads *He took the chair at the end of the table nearest the door*, which
+                   is the same beat with a fact in it.**
 quote balance    **quotation marks even, whole file, 281-290 -> 10 of 10.** 142 / 148 / 164 / 140 / 138 / 108 /
-                  140 / 124 / 158 / 122. **This row exists because this batch broke it nine times** — see the
-                  preamble.
-nobody           **9, and every one was read back out of the file before this row was written.**
-                  281:33 there is nobody else in this room who will · 283:71 nobody here will be able to take
-                  it out again · 286:101 rather publish a figure that convicts nobody at all · 287:45 it
-                  convicts nobody at all · 288:25 a room nobody else ever hears · 289:153 nobody in this
-                  building is going to be kind to you · 289:187 nobody in this house was going to give it to me
-                  · 290:119 nobody will ever be able to find out from this document · 290:149 nobody has ever
-                  read a word of it.
-                  **The first draft ran 22 and thirteen were cut.** Against Volume 5's 9, Batch 0001's 1,
-                  Batch 0002's 6 and Batch 0003's 5. **The construction that goes dead by the tenth is `nobody
-                  asked`, not `nobody`, and there is not one `nobody asked` in this batch.**
+                   140 / 124 / 198 / 122. **This row exists because this batch broke it nine times** — see the
+                   preamble.
+nobody           **9 case-insensitively, and EVERY ONE WAS READ BACK OUT OF THE FILE.**
+                   281:15 Nobody answered her · 281:33 there is nobody else in this room who will ·
+                   283:13 Nobody said that to me on the second · 283:71 nobody here will be able to take it
+                   out again · 283:165 Nobody stopped him · 287:45 it convicts nobody at all · 288:25 a room
+                   nobody else ever hears · 288:43 Nobody in the room moved for about four seconds ·
+                   290:119 nobody will ever be able to find out from this document.
+                   **THE FIRST DRAFT RAN 22. THE REVIEW FOUND THIS ROW WAS A CASE-SENSITIVE COUNT OF 9 AGAINST
+                   A TRUE FIGURE OF 16, AND THAT 7 MORE HAD SURVIVED THE CUT.** Sixteen is the number that
+                   matters, because seven of it was sentence-initial capital *Nobody* and a capital is not a
+                   different word. **Cut again on the review's finding: 16 -> 9.** Seven went, at 281:167, 283:95,
+                   283:173, 286:101, 289:153, 289:187 and 290:149. **Against Volume 5's 9, Batch 0001's 1,
+                   Batch 0002's 6 and Batch 0003's 5. The construction that goes dead by the tenth is `nobody
+                   asked`, not `nobody`, and there is not one `nobody asked` in this batch.**
+                   **ALWAYS COUNT THIS CONSTRUCTION CASE-INSENSITIVELY. Every figure in this paragraph before
+                   the review's was case-sensitive and every one of them was wrong.**
 no person        **0.**  He understood **0** (the first draft had one — *He understood, slowly, that* — and it
                   was cut).  He also understood **0**.
+rationaled       **THE `there is no / there is nothing / there is not one` FAMILY: 22, DOWN FROM 41.**
+ constructions   Regex, whole batch, case-insensitive: `there is no[a-z]*|there was no[a-z]*|there is not
+                  one|there is nothing|there was not one`. **AGENTS.md names *there is no form* and *there is
+column* as constructions that die by the tenth and the reviewer found 41 of them here, **10 in
+                   284 alone**. Nineteen were cut on the review's finding**, distributed 281 ×1 · 282 ×2 ·
+                   283 ×2 · **284 ×5** · 286 ×1 · **287 ×4** · 289 ×1 · 290 ×3, and **285 and 288 were cut not at
+                   all**, because every instance in them is the chapter's argument rather than a tic: 285's four
+                   are Wren Kallo and Nadia Ferrous taking a word off a record, and 288's two are Marguerite Vale
+                   refusing a broker's trade.
+                   **WHAT SURVIVES IS THE TWENTY-TWO THAT CARRY WEIGHT, AND EVERY ONE OF THEM WAS READ BACK.**
+                   The rest is earned: Beatrix Halm's *There is no first* in one sentence · the term he keeps
+                   about no paper being read in her own rooms (283) · **284's five, which are Petra Ilyin saying
+                   out loud that a guild offers a round the way a bank offers a door** · **285's four, which are
+                   the chapter's whole argument** · 286's *not one office reads one of those as a fact* ·
+                   **287's *There is no before*, which was the title and is now a line a broker says once** ·
+                   288's pen and its close · 289's last line · 290's counter.
+                   **A TITLE MAY NOT BE BUILT OUT OF THIS CONSTRUCTION. 287 was retitled for that reason.**
 He had woken wanting  **0 of 10.**
 He felt          **0**, case-sensitive.
 weekday          **Thursday 5 and every other weekday 0**, whole-word AND as a substring, both tested.
@@ -118,8 +165,12 @@ meta / fourth wall / ages   **0.** volume, chapter, the reader, this scene, nove
                   years old*, which `bible/characters.md` forbids, and *eleven years old as well*, which was a
                   promise and not a person and was rewritten to *eleven years in*.**
 12-GRAM SCAN     **RUN FIRST, AGAINST ALL 290 CHAPTERS, BEFORE THE 8-WORD SCAN, AND RUN REPEATEDLY.**
-                  **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. FIRST PASS 131. FINAL 0.**
-                  Against 290 chapters, against Batch 0003's 2 and Batch 0002's 13.
+                  **WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. FIRST PASS 131. FINAL 14. NOT 0.**
+                  **THE 14 ARE TWO REFRAINS AND THE BLOCK PREVIOUSLY SAID ZERO. THE REVIEW CAUGHT IT.**
+                  **Against 290 chapters, against Batch 0003's 2 and Batch 0002's 13 — and against a
+                  book-wide figure of 2,480 duplicate 12-gram groups across all 290 chapters, which puts this
+                  batch's 14 at about half of one per cent of the book's total and makes Volume 6, at fourteen
+                  across forty chapters, the cleanest stretch of the manuscript.**
                   Every one of the 131 was a real defect and every one was cut. The classes were: three instances
                   of a phrase from Chapters 86 and 189 in 287 · the reconciliation's key clause written out in
                   full in both 287 and 288 · **Marguerite Vale's four-line statement appearing verbatim in both
@@ -128,16 +179,31 @@ meta / fourth wall / ages   **0.** volume, chapter, the reader, this scene, nove
                   thirteenth-of-June sentence from 132 in 281 · Sun Meiling's own sentence from 276 in 289 ·
                   Beatrix Halm's definition of a price against Chapter 257 · and eleven single 12-grams of dates
                   and rules.
-                  **THE ONE ADJUDICATED ECHO OF THE BATCH** is *at twenty-five minutes past four on the
-                  twentieth of July*, which appears in 264, 274, 287 and 288 and is **a date, not a sentence**.
-                  It does not survive the whitespace test and is the whole of the punctuation-stripped figure.
+                  **THE TWO REFRAINS THAT SURVIVE, BOTH NAMED, NEITHER AN ACCIDENT.**
+                  **(1) 285:61 AND 285:151** — *in about eleven weeks a clerk is going to move a file along a
+                  shelf because there is room in the next one up.* Nadia Ferrous states it as a threat in the
+                  corridor conversation and states it again four hours later as an arithmetic fact, and the
+                  twenty-one-word repeat is the whole of what the chapter says about bureaucratic indifference.
+                  That is **10 of the 14** groups, because one twenty-one-word refrain generates ten
+                  overlapping windows.
+                  **(2) 288:153 AND 288:173** — *stood at the bottom of that street for two hours and forty
+                  minutes.* Petra Ilyin says it, and the narration picks it up four paragraphs later without
+                  re-attributing it, because the last line of the chapter is about a fact she did not report.
+                  That is **2 of the 14.**
                   **THE TOKENISATION IS PART OF THE NUMBER. A punctuation-insensitive variant of the same scan
                   returns 6, and all six are that date and the hour of the correction on the thirtieth of July
                   in 283 against 271.**
-intra-batch      12-grams occurring in 3+ chapters -> **0**. Max multiplicity 2 (the date, above).
-8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 261-290 -> **0.**
-                  The first pass returned 1 — *"Eight thousand one hundred and thirty-eight," she said* in 274
-                  and 286 — and it was cut.
+intra-batch      12-grams occurring in 3+ chapters -> **0**. Max multiplicity 2 (both refrains above, and the
+                  date, which is a fact about this world and not a sentence).
+8-word sentence scan (run AFTER the 12-gram scan): duplicated 8-word sentence openings in 261-290 -> **2, both
+                  INHERITED AND NEITHER IN THIS BATCH.** 261 carries *There is a house at the top of* twice
+                  inside itself, and 276 and 280 both open *The certificate issues on the first of September*.
+                  **IN 281-290 THE FIGURE IS 0.** **THE BLOCK PREVIOUSLY REPORTED 0 FOR 261-290 AS A WHOLE AND
+                  THAT WAS WRONG BY TWO** — it counted 281 and 286 both opening *And there is not one office in
+                  this*, and 287 and 288 both opening *And that is the whole of what I*. **Both were cut on the
+                  review's finding**: 284:55 now reads *And the word no is not a thing this guild will hear*,
+                  and 288:87 now reads *And that is all of it.* **Report the batch figure and the neighbour
+                  figure separately, because they are different questions.**
 intra-chapter    duplicated 5-word-plus sentences inside any single chapter -> **0.**
 quote balance    quotation marks even, whole file, 281-290 -> **10 of 10.**
 ```

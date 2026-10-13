@@ -84,7 +84,7 @@ The senior officer asked her to repeat it.
 
 "And I cannot tell you what one of them was, because I keep movements and not hands, and a movement in my own book is a line and a time and a figure, and that is the same whoever held the pen."
 
-"And that is the whole of what I have. I have said that the device was not mine and I have said that there are eleven and I cannot say what they were."
+"And that is all of it. I have said that the device was not mine and I have said that there are eleven and I cannot say what they were."
 
 "And I am not able to say one word more than that, and if anybody in this room writes a sentence that goes further than that sentence then that sentence is not mine and I will have it struck."
 

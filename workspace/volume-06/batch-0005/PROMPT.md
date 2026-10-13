@@ -252,11 +252,12 @@ meta / fourth wall / ages   0. **No chapter announces an age.** `bible/character
 12-gram scene scan          **RUN THIS FIRST, AGAINST ALL CHAPTERS INCLUDING THIS BATCH, AND BEFORE THE
                             8-WORD SENTENCE SCAN, AND RUN IT REPEATEDLY AFTER EVERY REPAIR.**
                             **STATE THE TOKENISATION WITH THE NUMBER.** Batch 0004's gate splits on whitespace
-                            with case and punctuation significant: first pass **131**, final **0**. The same
-                            scan lower-cased with punctuation stripped returns **6** for that batch, and all six
-                            are a date in words. **Both are defensible tests and they do not agree, so a
-                            reported 12-gram figure without its tokenisation is a number nobody can
-                            reproduce. Say which one ran.**
+with case and punctuation significant: first pass **131**, final **14, of which
+                             all fourteen are two named refrains that the block lists by line.** The same
+                             scan lower-cased with punctuation stripped returns **6** for that batch, and all six
+                             are a date in words. **Both are defensible tests and they do not agree, so a
+                             reported 12-gram figure without its tokenisation is a number nobody can
+                             reproduce. Say which one ran.**
 quote balance               NEW ROW, NOT IN THE STANDARD LIST, KEPT FROM BATCH 0003 AND PROVED BY BATCH 0004.
                             An even number of quotation marks in every chapter file, tested whole-file.
                             **Batch 0004 broke this nine times and the review is in
@@ -266,15 +267,41 @@ quote balance               NEW ROW, NOT IN THE STANDARD LIST, KEPT FROM BATCH 0
 **THE THREE THAT HAVE FAILED TWICE, WRITTEN INTO THIS PROMPT SO THEY CANNOT FAIL AGAIN.**
 
 1. **Run the 12-gram scan against every chapter and run it again after the first repair.** Batch 0004's first
-   pass returned **131** and its final figure is **0**. Nine passages were lifted out of earlier chapters and put
+   pass returned **131** and its final figure is **14, not 0** — its own gate block said 0, its reviewer
+   re-ran the scan and caught it, and the block has been corrected. Nine passages were lifted out of earlier
+   chapters and put
    back in, including **Marguerite Vale's four-line statement appearing verbatim in both 288 and 289** and **the
    closing paragraph of 289 repeated at the end of 290**. **A figure quoted from an earlier chapter is not free,
-   because the book is one voice.** **One deliberate echo per batch is the most this book has ever allowed.**
+   because the book is one voice.** **One deliberate echo per batch is the most this book has ever allowed, and
+   even that has to be named in the gate block rather than quietly excluded from it.**
+   > **THREE OF BATCH 0004'S OWN GATE ROWS REPORTED CLEAN AND WERE NOT, AND THAT IS WHY THIS ROW IS REWRITTEN
+   > RATHER THAN INHERITED.** 12-gram said 0 and is 14 · 8-word openings said 0 across 261–290 and were 4,
+   > two of them inside the batch · `nobody` said 9 from a **case-sensitive** count and was **16**, because a
+   > sentence-initial capital *Nobody* is not a different word. **Re-run every row yourself and believe your
+   > run over whatever the block says about itself. A gate record is a claim about a file.**
+   > **The 14 are two refrains and you must subtract them by hand: 285's clerk-and-the-shelf (285:61 and
+   > 285:151) and 288's bottom-of-the-street (288:153 and 288:173).** One twenty-one-word refrain generates
+   > ten overlapping windows, which is why a scan cannot tell it from an accident.
 2. **Treat any run over ten words as a defect until it has been read. Not until a gate flags it.**
 3. **Do not run a paragraph-length splitter over prose that contains dialogue.** Batch 0002's chapters had to be
    rewritten; Batch 0003 broke quotation marks four times; **Batch 0004 destroyed all ten of its chapters twice
    and touched a closed chapter.** If a chapter is over ninety words, **split it at a speech beat by hand and
    check the quotation balance before you check anything else.**
+4. **Write the scene. Never summarise it, and check your own work for a single sentence standing in for an
+   hour.** `AGENTS.md`: *Write the actual scene. Explicit, physical, arousing, unhurried once it begins.
+   Implication and fade-to-black are not the target. The scene is the product.* **Batch 0004's Chapter 289 was
+   built perfectly — she directs it, she is wanted, it follows her consent and not his — and it still ended in
+   one sentence saying it *went on a long time*, and its reviewer's finding was the whole substance of the
+   report. Chapter 279 had the same defect and was repaired cross-batch. Chapters 261 and 271 were checked at
+   the same time and are correct, so this is not a volume-wide failure; it is the failure a gate cannot see,
+   because a fade has perfect quote balance, one system panel and no repeated words.** **Search your own
+   chapters for *it went on for a long time* and *afterwards* and treat every hit as an unwritten scene.**
+5. **Watch the rationed constructions and count them case-insensitively.** `AGENTS.md` names *there is no
+   form*, *there is no column*, *nobody asked* and *the record remained* as constructions dead by the tenth.
+   **Batch 0004 shipped 41 instances of the `there is no / there is nothing / there is not one` family, 8 of them
+   in a single chapter, and one of them was a chapter title; the repair pass cut it to 22 and retitled 287.**
+   **A title may not be built out of a rationed construction.** That is now the second time this volume has
+   struck a title for one, after 277's *The Paper Nobody Can Revive*.
 
 ## 8. TITLES
 
@@ -286,7 +313,7 @@ people in it.
 Line · A Page That Names No One · The Name Of A Date · The Space Under The Signature · The Half In Her Pocket
 · Both Roads Are The Same Door · The Room At The Top Of The Stair · The Seventh Step Down. **Batch 0004 took:**
 Two Flights Of Stair · The Shortest Thing On A Wall · A Term With A Date On It · The Round She Cannot Refuse ·
-The Man Who Files In Her Division · The Reason She Does Not Ask · There Is No Before · The Room He Is Not In ·
+The Man Who Files In Her Division · The Reason She Does Not Ask · **The Drawer She Took Nothing From** · The Room He Is Not In ·
 The Woman Who Asked To Be Counted · The Fourth Document. **Those twenty are struck and must not be
 re-issued.** The free bank is at the foot of `outline/volume-06.md` §10. **Check by command against every
 file in `chapters/`, not by eye.**

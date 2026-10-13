@@ -134,37 +134,93 @@ touch the saucer at all.**
 2. **Check that Chapter 290's six lines in box four are a bar and not a repair.** They certify a defective
    instrument on purpose. If a later reader thinks the seventh line was filled, the volume has been broken.
 3. **Run the twelve-gram scan first, against all 290, and run it after any repair.** The first pass here was
-   131 and the final is 0, and every one of the 131 was real.
+   131 and the final is **14, not the 0 this section used to claim** — see §6. Every one of the 131 was real.
+   **The 14 that remain are two named refrains in 285 and 288, and a later batch must subtract them by hand
+   rather than believe a block that says zero.**
 4. **Do not run a paragraph splitter on this prose.** See §3. This batch has already paid for that lesson once
    more and it cost three days.
 5. **Check that the reservoir is still unpriced on the page.** The figure of 8,138 is the figure of the head
    and the page says so. A batch that lets 8,138 become the price has broken `bible/power-system.md`.
 6. **Check the arithmetic out loud against §2 of `state/continuity.md`.** Seven of the eight figures on the
    page are day counts, and every one is derived from an anchor this batch printed.
+7. **Check the scenes for implication, not for structure.** 289 was built correctly — she directs it, she is
+   wanted, the act follows her consent and not his — and it was still a fade. **The failure is invisible to
+   every gate on the list, because a fade has perfect quote balance, one system panel and no repeated words.**
+8. **Re-run every row of the gate block and believe the re-run over the block.** Three rows here reported
+   clean and were not. A gate record is a claim about a file, and the reviewer's run of it outranks what it
+   says about itself.
 
-## 6. THE GATE RECORD
+## 6. THE REPAIR PASS, AND THE CORRECTION OF THIS BLOCK'S OWN FIGURES
 
-Every number in the live gate block at the head of `state/open-threads.md` was produced by command against the
-files on disk after the last edit, and is reproduced from the run of `reviews/volume-06/batch-0004.md`:
+**THE REVIEWER OF THIS BATCH FOUND THE SUBSTANTIVE FAILURE AND IT WAS THIS CHAPTER: Chapter 289's scene was a
+fade.** It opened, Sun Meiling directed it, he undressed — and then a single sentence said it *went on a long
+time*. `AGENTS.md` is explicit: *Write the actual scene. Explicit, physical, arousing, unhurried once it begins.
+Implication and fade-to-black are not the target. The scene is the product.* **The reviewer checked 261, 271,
+279 and 289 and found that 261 and 271 carry the act on the page and that 289 and 279 do not.**
+
+**WHAT WAS DONE, AND NOTHING ELSE.**
+
+| Chapter | Repair | Plot touched |
+| --- | --- | --- |
+| **289** | **The fade paragraph was replaced with the scene**, and a second block was inserted between the first physical beat and the nine-seconds interruption. She puts his hands against the window wall, says she will move them about four times, makes him stop twice with her palm flat on his sternum, tells him he is counting her rather than being careful with her, and asks him for **the one string of it that is not a set, which is her name.** | **No.** Every fact in the chapter is intact — the card at six, five under, the broker's statement, the kitchen at nine, the four lines she forbids him to write, the draw at the base of the throat, the one panel, the four documents at the close. 2,534 → 3,309 words. |
+| **279** | **The one summarising paragraph was replaced with the scene**, in Wren Kallo's voice: the door on the wrong side of the room, both hands behind her head, the number said aloud in advance so she cannot be accused of springing it, and the exchange about there being nobody to tell. | **No.** This is **a cross-batch repair into a closed chapter**, taken because the reviewer named the same defect in the same paragraph shape and the fix is bounded to one paragraph. 2,946 → 3,143 words. |
+| 281 | `He sat down.` → the chair nearest the door. `there is no version of this room` → `a door in that room did not stay open`. The `Nobody had promised her anything` opener → a sentence about one promise. | No |
+| 282, 283 | **Eight** rationed constructions cut, including `there is not one line in it that is a day I can arrive at` → *every line in it is a thing that happened, and not one of them is a day I can arrive at*, and `You want a date and there is not one` → **You want a date. I do not have one.** | No |
+| 284 | **Five** cut, 8 in this chapter was the batch's worst concentration. The `there is not one office in this guild` opener that duplicated 286 is gone. | No |
+| 285 | **Both bold spans cut.** `**unusual**` and `**filed**` were markup standing in for emphasis on sentences that carry the word unaided. | No |
+| 286 | Two cut, including the *convicts nobody at all* that was the same phrase 287 uses. | No |
+| **287** | **RETITLED, *There Is No Before* → *The Drawer She Took Nothing From*.** A title may not be built out of the construction `AGENTS.md` names as dead by the tenth, and this batch carried 41 of them. **The subject did not change.** | No |
+| 288 | The 8-word opening that duplicated 287's → *And that is all of it.* | No |
+| 290 | Two cut. `290:21` now reads *And if the seventh line is empty then say so in those words* — **the clerk's instruction, which is what the line is for, and the old wording said *nothing* three times inside nine words.** | No |
+
+**THE CHAPTERS THAT WERE NOT TOUCHED, AND WHY.** 285's and 288's refrains stand, because they are refrains and
+not accidents: Nadia Ferrous says the line about the clerk and the shelf in a corridor and says it again four
+hours later as arithmetic, and the narration at the end of 288 picks up Petra Ilyin's *two hours and forty
+minutes* without re-attributing it. **Cuting them would have made the scan clean and the prose worse.**
+
+**THE GATE BLOCK WAS WRONG ON THREE ROWS AND ALL THREE ARE NOW CORRECTED IN `state/open-threads.md`.** The
+12-gram row claimed 0 and is **14**. The 8-word-opening row claimed 0 across 261–290 and was **4**, two of
+them inside this batch. The nobody row's 9 was a **case-sensitive** count against a true figure of **16**. **A
+row on a gate block is a claim, and a reviewer's re-run outranks it.**
+
+## 7. THE GATE RECORD, CORRECTED
+
+Every number below was produced by command against the files on disk **after this repair pass**, not before
+it. **Where it disagrees with the version this section used to carry, the version below is the true one.**
 
 ```
-wc                2025 / 1916 / 2263 / 1842 / 1816 / 1826 / 1886 / 2025 / 2534 / 1806
-                  ALL TEN INSIDE 1,800-2,700. No named exceptions.
-markup            bold 4 | italic 6 | blockquote 0 | table 0 | horizontal rule 0 | code 0
-system panels     0 x 9, 1 in 289 (a draw, placed after the scene, paid and due)
-paragraphs        over 90 -> 0, over 120 -> 0
+wc                2070 / 1922 / 2264 / 1836 / 1816 / 1832 / 1884 / 2022 / 3309 / 1795
+                   NINE INSIDE 1,800-2,700. 289 IS 3,309 AND IS THE ONE NAMED EXCEPTION: it is the
+                   scene chapter and the act is now on the page. 290 is 1,795 and is left three
+                   words short rather than padded.
+markup            bold 2 | italic 6 | blockquote 0 | table 0 | horizontal rule 0 | code 0
+system panels     0 x 9, 1 in 289 (a draw, placed AFTER the scene, paid and due)
+paragraphs        over 90 -> 0, over 120 -> 0   (279 re-checked after the repair: 0)
 quote balance     10 of 10 even, whole file
-exact-dup paras   floor 1 -> 12 groups, all 12 quoted dialogue beats, UNQUOTED 0
-                  floor 2 -> 5 groups, all quoted, UNQUOTED 0
-                  floor 3 -> 0, floor 4 -> 0, floor 6 -> 0
-12-gram           WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. First pass 131. FINAL 0.
-                  Punctuation-stripped variant: 6, and all six are a date in words.
-8-word openings   duplicated in 261-290 -> 0 (first pass 1, cut)
+exact-dup paras   5 groups, ALL five one-word quoted dialogue beats, UNQUOTED 0.
+                   (Was recorded as 12, which was a prefix test and not the identity test.)
+12-gram           WHITESPACE SPLIT, CASE AND PUNCTUATION SIGNIFICANT. First pass 131. FINAL 14.
+                   10 of the 14 are one twenty-one-word refrain in 285 (285:61 and 285:151);
+                   2 are the street in 288 (288:153 and 288:173). Book-wide the same scan returns
+                   2,480 across 290 chapters, so this batch is about half of one per cent of it.
+                   Punctuation-stripped variant: 6, and all six are a date in words.
+8-word openings   in 281-290 -> 0.  in 261-290 -> 2, both inherited (261 inside itself; 276 and 280).
+                   (Was recorded as 0 for 261-290. It was 4, two of them in this batch.)
 intra-chapter     duplicated 5-word-plus sentences -> 0
-nobody            9 (first draft 22), each read back out of the file
+nobody            9, CASE-INSENSITIVE, each read back out of the file.
+                   (First draft 22. Reviewer's figure 16, because the block's 9 was case-sensitive.
+                   Seven more cut on the review's finding: 16 -> 9.)
+rationed family   `there is no / there is nothing / there is not one` -> 22, DOWN FROM 41.
+titles            unique across all 290, none over 90, none of the ten begins with "What".
+                   287 = The Drawer She Took Nothing From (31), retitled from There Is No Before (18).
 no person 0 | He understood 0 | He also understood 0 | He had woken wanting 0 | He felt 0
 weekday           Thursday 5, every other weekday 0, all five checked against the calendar
-                  and all five are the twenty-fourth of August
+                   and all five are the twenty-fourth of August
 meta / ages       0
-titles            unique across all 290, none over 90, none of the ten begins with "What"
 ```
+
+**WHAT THE REPAIR PASS CHANGED ABOUT THE BATCH'S SHAPE, WHICH IS NOTHING.** Every date is where it was, the
+day map is unchanged, the irreversible decision in 290 is untouched, the figure on the page is still the head's
+figure and not a price, and the reservoir is still unpriced. **What changed is that Volume 6's fourth scene is
+now a scene instead of a description of one, and that the batch's gate record can be reproduced by somebody who
+runs it.**

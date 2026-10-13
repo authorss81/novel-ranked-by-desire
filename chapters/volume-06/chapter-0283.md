@@ -2,7 +2,7 @@
 
 The desk on the sixteenth of August was on the ground floor at Cobb Street, and it was a room with three officers, a clerk, a window that had been painted shut, and a member of the certification schedule of the fourth of May sitting at it with her own name on the head line of the paper in front of her.
 
-He was there because the record is about his premises and there is no version of this sitting in which the head of the premises does not attend.
+He was there because the record is about his premises, and the head of the premises attends a sitting that is about his premises.
 
 She had come on her own. She was wearing the coat she had worn on the second and it was not a good coat, and she had a pencil and no folder, and she had not looked at him once in the first four minutes.
 
@@ -92,7 +92,7 @@ The officer read it. A composition return of the fourth quarter, dated the twelf
 
 "And a woman who corrected a record about her household and then held the address is something else entirely, and she is the woman you would have written a minute about if I had let you read it the other way round."
 
-Nobody said anything.
+The room said nothing back.
 
 "So the twelfth of June goes in the file in my words," she said, "and it goes in the file with a date on it, and from this afternoon there are four copies."
 
@@ -170,7 +170,7 @@ Outside on the steps at about half past four, with the light going, she stopped 
 
 He had been ready for it since the eighth of August and he had rehearsed three answers and none of them worked.
 
-"Nobody told me," he said. "I worked it out on a wall in the Square on the second of August at about half past nine in the evening, alone."
+"I had it on my own," he said. "I worked it out on a wall in the Square on the second of August at about half past nine in the evening, alone."
 
 "And you have been able to prove that since the ninth, because you have been able to prove that nothing was in any file before the ninth."
 
@@ -178,7 +178,7 @@ He had been ready for it since the eighth of August and he had rehearsed three a
 
 She looked at him for about four seconds.
 
-"Yes," she said, "and that is exactly the answer of a man who worked it out, and there is nothing else I could have wanted."
+"Yes," she said, "and that is exactly the answer of a man who worked it out, and it is the only answer I could have wanted."
 
 "And it is the only question I have ever asked you that I was going to be satisfied with."
 
@@ -186,7 +186,7 @@ She went down the steps.
 
 He stood on them in the dark for about four minutes with a document in a file in a division in this city saying that he had promised a woman not to put a paper where she sleeps.
 
-There was no version of him that could take it back, and the woman it was about had put it there herself, on purpose, to save a thing he had not known was in danger.
+There was nothing in him that could take it back, and the woman it was about had put it there herself, on purpose, to save a thing he had not known was in danger.
 
 Thirty-eight days he had kept it by never going up a stair.
 

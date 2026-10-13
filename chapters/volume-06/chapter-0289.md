@@ -12,7 +12,7 @@ The second man looked down at her and then went back to his ladder, because it i
 
 That is the only mercy this city has ever offered anybody.
 
-He got there at ten past six. He was four under at six o'clock and five under at six o'clock, and there was not one thing anybody could do about it.
+He got there at ten past six. He was four under at six o'clock and five under at six o'clock, and the wall had made up its mind about him before he turned the corner into the square.
 
 The word on the wall had been **out of band** since the thirtieth of July and still was and always would be, because a number is a number and a word is a word.
 
@@ -142,6 +142,36 @@ He took it off.
 
 She had her hands in his hair before he had finished it, and she was not fast and she was not a performance and she did not close her eyes once for a long time.
 
+Then she stopped, took her own off over her head with one hand and dropped it on the floor, and neither of them turned round to find out whether the other one was looking.
+
+She walked him backwards into the wall by the window, where the warm night air comes through the broken corner of the frame and moves on both of them, and then she took both his wrists in her hands and put his palms flat against the wall behind her head and left them there.
+
+"Hands here," she said. "And they stay where I have put them until I move them, and I will move them."
+
+"You said you were not fragile."
+
+"I said I am not. That is a different sentence and you will find out which one tonight." She pushed his chest once with the flat of her hand and he moved about an inch and stayed moved. "You are going to do this at the speed of a woman who has had eleven days and a fortnight to think about it, and I have run out of people in this city to be patient with, so it is going to be me."
+
+"You said not gentle."
+
+"I said not gentle. I did not say quick, and by the end of the night you will know the difference in about nine seconds."
+
+She was not fast. She made him stop twice in the first quarter of an hour, both times with her hand flat on his sternum, the way he had once watched a woman put two fingers there before she sang in a hall at Cordwain, and both times she stood absolutely still in the dark until her breathing had come back down before she let him start again.
+
+"You are counting," she said at some point. "Four. And then you stop and look at me. And then four more. You think that is being careful with me."
+
+"I am being careful with you."
+
+"You are counting me." She said it without any temper in it at all. "Nineteen years and I have never once been a single thing. I get forty of me at a time and every one of them is about somebody else, and I was wrong in a laboratory for three years and there was not one person in that building who could have told me which of the forty was the wrong one."
+
+She put her fingers back into his hair and turned his face so that his mouth was against her throat instead of against her mouth.
+
+"So I want one string of it. Not the whole of me. One. Say it, and keep saying it while you do that."
+
+"Sun."
+
+"That is the only thing I have had all day that is not a set," Sun Meiling said. "Again."
+
 At some point she made him stop and made him look at her.
 
 "Nine seconds," she said. "You wrote seven on that line in nine seconds on the first of August and you have been sick about it since."
@@ -150,13 +180,31 @@ At some point she made him stop and made him look at her.
 
 "Everything that happens tonight is mine. You are not the instrument and you are not the bill."
 
-"And nobody in this building is going to be kind to you about it afterwards, because there is nothing here to be kind about."
+"And every woman in this building is going to be thinking about tomorrow instead of about this, and that is as it should be."
 
 "It is the thirtieth and it is two days before the first of September, and I want you in this room with me because I am about to be ink."
 
-It went on a long time and she did not shut it down and she did not let it take her anywhere else.
+She took her back off the wall and put him down on the bed on his back and got on top of him and settled her weight onto him without asking him a single question about any part of it, and the fan turned four inches above her shoulder and neither of them looked at it.
+
+She was better at this than any woman who had ever undressed her, and she was entirely without ceremony about it, which was worse than being good at it.
+
+"Sun," he said, about halfway, when she told him to.
+
+"I told you I would tell you to stop."
+
+"Not yet."
+
+"Do not be clever with me tonight. I have a certificate in the morning and I am not going to be able to use any of it if you are clever with me tonight."
+
+She did not answer that at all. She slowed down instead, and she put her palm flat on his chest and left it there and kept on going with it, and about a minute afterwards the hand pressed harder without her having decided to do it, and he understood that she had stopped being in charge of any part of what was happening in the room.
+
+He got his hand round the back of her and she let him keep it there and said nothing about it at all, and after a while she leaned down over him and put her mouth against his ear and said his name twice, and the second time came out of her differently.
 
 The room at the top of the building was dark and hot and neither of them looked at a clock.
+
+He got there first, and she made him say her name again before she would let him stop moving, and then twice more after that, and he said it every time.
+
+She lasted longer than he did, and she did not appear to find that remarkable, which was the most like her of anything she had done all night.
 
 Afterwards she lay with her forehead against his collarbone for about a minute and a half and said nothing at all, which is the thing she is best at.
 
@@ -184,7 +232,7 @@ She lay very still for about four seconds.
 
 "And I have been owed this since eleven o'clock this morning, because I have been sitting in a room being calm about a certificate since eight."
 
-"And nobody in this house was going to give it to me tonight, because they were all thinking about tomorrow."
+"And every one of them was going to give it to me tomorrow instead, because they were all thinking about tomorrow."
 
 She lifted her head.
 
