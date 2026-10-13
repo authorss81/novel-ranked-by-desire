@@ -677,6 +677,13 @@ them changed the plot; every one of them corrected the plan to what the page had
 > was written by a phase that had never seen a page of this volume. Six of its ten cards came out of the other
 > side of the page and are corrected here, and the one place the plan was going to cost the whole of the fourth
 > movement is settled here and settled on the page, at Chapter 363, in a woman's mouth.**
+>
+> **RE-CORRECTED AT THE REVIEW-FIX PASS, 13 OCTOBER 2026. The review is `logs/batch-0002.review.log` and it
+> returned eight findings; two of them were errors this rewrite had carried forward from the prose and they are
+> corrected here in the same commit as the prose. The 364 card said NINE DAYS where the twenty-sixth to the fourth
+> is EIGHT. The 366 card said the twelfth of January where the laying is the FOURTEENTH and the twelfth is the
+> kitchen table. Nothing else in this movement moved: the carry-forward resolution, the promise, the cards, the
+> titles and the ten dates are as the page has them.**
 
 **The promise:** a filled box is not a requisition. It is a requisition that anybody may now write — **and a
 requisition that anybody may now write turns out to be a document with no ground in it, which is a document
@@ -758,7 +765,7 @@ that nobody may carry, which is the only reason this movement ends the way it do
   being a woman saying no in a room and becomes a fact about a document.**
   **Lin Hao is in the chair under the window eleven feet away and she does not look down the corridor once.**
   **WHAT THE CORRIDOR LEARNS, AND IT IS NOT WHAT THE CARD SAID:** he did not come down for the box. **He came
-  down because her refusal was read by somebody who needed a name against it, nine days after it was entered,
+  down because her refusal was read by somebody who needed a name against it, eight days after it was entered,
   and the only name there was hers.** The woman who went quiet on the sixteenth had not gone quiet at all —
   **she had gone to work.**
 - **365 (6 Feb). THE BOX WITH SOMETHING IN IT.** The room at the end of a corridor, seven people in it and two
@@ -793,9 +800,9 @@ that nobody may carry, which is the only reason this movement ends the way it do
   **It is called for the TWENTIETH. The clerk numbers the sittings and the number goes on the sheet in the corner
   above the fourth part, and this is the ELEVENTH — which is the chapter title at 370.**
   **THE OBJECTION THAT ROOM WAS BUILDING SINCE THE SECOND OF OCTOBER IS SPENT: they were going to ask who holds
-  it, and on the twelfth of January a man wrote a sheet with his own name on it and eight people signed a line
-  saying they had seen him do it, and the book is shut on the only question anybody in that business really
-  wants answered.**
+  it, and on the fourteenth of January a man carried a sheet with his own name on it into that room and laid it
+  on the table under the window, and eight people signed a line saying they had seen him do it, and the book is
+  shut on the only question anybody in that business really wants answered.**
   **AND THE GOOD NEWS, given to him at a counter, flatly, by a woman who has wanted to say it for a week: a
   requisition with no ground in it cannot be carried, and a requisition that is not carried takes nothing off
   anybody.** **So there is a version of the next eleven days in which nobody does anything, the fourth part is

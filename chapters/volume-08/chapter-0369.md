@@ -180,4 +180,4 @@ Then she opened the door and the cold came in off the arcade and she shut it aga
 
 He walked back up the hill with about an hour of the forty-eight he had asked for left.
 
-The arrangement at that kitchen table stood until the morning of the twentieth of February. On the morning of the twentieth, nine people were going to read a sheet for nine minutes in a room at the end of a corridor. On the morning of the day before that, a woman who had been indoors for eleven years was going to stand on a pavement and say what four hundred people believed about him, and neither of them was going to know about the other.
+The arrangement at that kitchen table stood until the morning of the twentieth of February. On the morning of the twentieth, nine people were going to read a sheet for nine minutes in a room at the end of a corridor. On the morning of the eighteenth, a woman who had been indoors for eleven years was going to stand on a pavement and say what four hundred people believed about him, and neither of them was going to know about the other.

@@ -2,7 +2,7 @@
 
 Marguerite Vale had two rooms over a chandler's on a street off Cordwain and she had not been inside the premises since the tenth of December, and when he came up to her at about four in the afternoon on the thirtieth of January she had a fire going and did not offer him a chair, which was the first thing about that room he had ever understood.
 
-There was a table against the wall with four chairs at it and a lamp on it and nothing else on the table at all, and a woman who eats alone for eleven weeks stops putting things out, and you can see it on a table like that the way you can see a score.
+There was a table against the wall with four chairs at it and a lamp on it and nothing else on the table at all, and a woman who eats alone for seven weeks stops putting things out, and you can see it on a table like that the way you can see a score.
 
 "Ninety seconds," she said. "Sit down if you are going to, and do not sit down if you are not."
 
@@ -80,7 +80,7 @@ She put her hand flat on the slip.
 
 ## The Whole Of It
 
-He said nothing at all for a while and she let the nothing stand, because the room is the sort of room that has been left alone for eleven weeks and can hold one.
+He said nothing at all for a while and she let the nothing stand, because the room is the sort of room that has been left alone for seven weeks and can hold one.
 
 "For three months I have believed the figure of seven belonged to a woman who would not be thanked," he said.
 
@@ -116,4 +116,4 @@ At the door he stopped and looked at the chest of drawers with the drawer still 
 
 "You kept it for four months," he said. "Shut it."
 
-He went down three flights and out onto a street off Cordwain in the dark with about nine hours of the thirtieth of January still to get through, and a called line sits at a valuation until somebody pays it or somebody produces off the door, and in about nine hours it was going to be marked for the third time at ten to nine in the morning, and he had no idea in the world what that did.
+He went down three flights and out onto a street off Cordwain in the dark with about eight hours of the thirtieth of January still to get through, and a called line sits at a valuation until somebody pays it or somebody produces off the door, and in about seventeen hours it was going to be marked for the third time at ten to nine in the morning, and he had no idea in the world what that did.

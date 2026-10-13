@@ -30,7 +30,7 @@ Nadia Ferrous turned her palms down on the table and left them there.
 
 "And it does not generate a valuation again."
 
-"It does not generate a valuation again. Not on the first of March. Not on the first of April. Not on any first of the month for as long as there is a figure that matches the one it is priced at, and that is the end of it, and it is the end of it because of one sentence a woman said in a sub-level a fortnight ago."
+"It does not generate a valuation again. Not on the first of March. Not on the first of April. Not on any first of the month for as long as there is a figure that matches the one it is priced at, and that is the end of it, and it is the end of it because of one sentence a woman said in a sub-level on the first of February."
 
 ## The Price
 
@@ -62,7 +62,7 @@ She put her hands together on the table.
 
 "That is all I have. I have not gone to find out whether anything has been opened and I am not going to, and that is not a thing anybody at this table is entitled to ask me about."
 
-Nobody asked her anything about it.
+She had told them what would happen if they asked and not one of the eight took her up on it.
 
 ## Say It Out Loud
 

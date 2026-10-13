@@ -22,7 +22,7 @@ The door was shut. It opened.
 
 ## The Question
 
-"It is a small thing and it is about a box," he said, from the threshold, with the bundle still on his hip. "Which of the two boxes the departmental drafts went into, the gray one or the brown one. Both of them have a research wing stamp on the lid. The record office has them on two shelves and the shelves are a floor apart and a man of my age does not want to do it twice."
+"It is a small thing and it is about a box," he said, from the threshold, with the bundle still on his hip. "Which of the two boxes the departmental drafts went into, the gray one or the brown one. Both of them have a research wing stamp on the lid. The record office has them on two shelves and the shelves are a floor apart and I am not coming down this stair twice."
 
 "The gray one," said Sun Meiling.
 
@@ -122,7 +122,7 @@ Then he went down the iron stair on the outside of the lamps and out into the co
 
 The decline was entered at eleven forty-four on the morning of the twenty-sixth. The run came down at ten past ten on the morning of the fourth.
 
-Nine days. A man who has been in a building for nine years, who has never once in three years come down a corridor he walks every working day, came down it on the fourth of February at ten past ten because a clerk on that floor had written a woman's refusal into a book and the department that holds a box record has to be able to say who it asked.
+Eight days. A man who has been in a building for nine years, who has never once in three years come down a corridor he walks every working day, came down it on the fourth of February at ten past ten because a clerk on that floor had written a woman's refusal into a book and the department that holds a box record has to be able to say who it asked.
 
 Perrin Sowe had not come down that corridor to find out about a transfer that carried no name.
 

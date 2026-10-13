@@ -134,6 +134,8 @@ Eleven forty was the hour. Eleven forty-four was the minute she wrote it down. I
 
 "Ask me nothing before the twentieth," the docket said.
 
-He had until the twentieth of February. On the ninth of that stretch two women he could not argue with would call a sitting for the twentieth, and on the twentieth a sheet would be read for nine minutes in a room at the end of a corridor, and none of that was on the docket and none of it was hers, and she had known none of it when she wrote *ask me nothing* on the back of a form at half past six in the morning.
+He had until the twentieth of February. On the ninth of that stretch two women he could not argue with would call a sitting for the twentieth, and on the twentieth a sheet would be read for nine minutes in a room at the end of a corridor.
+
+None of that was on the docket and none of it was hers, and she had known none of it when she wrote *ask me nothing* on the back of a form at half past six in the morning, at a desk two floors up in a building off a third court, and had it under a door on Ferrier Street at ten past seven.
 
 He went in and did not ask.

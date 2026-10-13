@@ -1,9 +1,83 @@
-# VOLUME 8 BATCH 0002 GATE RECORD — 13 OCTOBER 2026, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE. CHAPTERS 361–370 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
+# VOLUME 8 BATCH 0002 GATE RECORD — 13 OCTOBER 2026, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE, AND RE-RUN AGAIN AFTER THE REVIEW REPAIR. CHAPTERS 361–370 ARE ON DISK. THIS IS THE ONLY LIVE GATE BLOCK IN THIS FILE.
 
 **Everything below is a claim until a pass that did not write the prose re-runs it. This block WAS re-run from
 outside: the figures in it are what the commands returned when they were run against the files as they stand
 after the last repair, and the commands are printed beside the figures. The Volume 8 Batch 0001 gate record is
 below and is retained in full as history, and so are the Volume 8 planning record and the Volume 7 close record.**
+
+## REVIEW AND REPAIR, 13 OCTOBER 2026 — EIGHT FINDINGS FROM THE REVIEW AND TWO MORE FOUND IN THIS GATE BLOCK. TEN IN ALL, ALL FIXED. TWO WERE FIXED AGAIN IN `outline/volume-08.md`.
+
+**THE REVIEW FOUND EIGHT. THE REPAIR PASS FOUND TWO MORE IN THE GATE RECORD ITSELF WHILE RE-RUNNING IT, AND
+BOTH ARE FIXED HERE. TEN IN ALL. No chapter was restarted, no planned plot was changed, and no prose was
+rewritten that the review passed. `AGENTS.md`: fix concrete findings rather than replacing the batch.**
+
+1. **`chapter-0364.md` printed `Nine days` and `eight days` for the same interval four lines apart.** The 26
+   January decline to the 4 February filing run is `(30 − 26) + 4 =` **eight** days by subtraction. The opening
+   of the section is now **Eight days**, and the sentence it opens gains, because eight days sits against a man
+   who has been in the building for nine years. `outline/volume-08.md` §6 movement 2's 364 card carried the same
+   `nine days after it was entered` and now says eight.
+2. **`chapter-0366.md:41` put the laying of the declaration on the twelfth of January and in the wrong place.**
+   Canon is 357:25 and 357:57 and 367:33 — he carried a sheet **into the room at the end of the corridor on the
+   FOURTEENTH** and laid it on the table under the window; the twelfth is the Ferrier Street kitchen table, where
+   he wrote the sheets. 366 now says the fourteenth and the room and the table under the window, which is what
+   357 prints. **The twelfth survives at 366:45 and 366:61, where Beatrix Halm is fixing on the date he wrote
+   them, and that is supported by 357:11 and 357:89 and is correct.** §6 movement 2's 366 card carried the same
+   error and is corrected.
+3. **`chapter-0369.md:183` called the eighteenth `the day before that`,** where `that` is the morning of the
+   twentieth. **The eighteenth is canon** — `PC-27` below, `state/current.md`, and the Batch 0003 prompt all have
+   Agnete Lindqvist going out on the eighteenth — so the CLOSING LINE was wrong, not her speech. It now reads
+   **On the morning of the eighteenth.**
+4. **`chapter-0361.md:137` left forty minutes unbridged.** The docket is under the door at ten past seven and
+   she writes *ask me nothing* at half past six, with nothing between. It is now bridged and the bridge is
+   information rather than a patch: **she wrote it at a desk two floors up in a building off a third court and
+   had it under a door on Ferrier Street at ten past seven.** The chapter's engine is the sighting, and the
+   repair names where she was standing when she wrote it. **THE REPAIR BOUGHT A 12-GRAM AND LOST IT:** the first
+   wording said *on the second floor of a building off a third court* and matched 364. The count was re-run, the
+   wording was changed, and the count was re-run again. `AGENTS.md`: a repair that moves the number is not done.
+5. **`chapter-0364.md:25` put an age remark in the mouth of Perrin Sowe** — *a man of my age does not want to do
+   it twice*. No number, so it survived the letter of the ban, and he is the one man in this batch the prompt
+   forbids an age to. It is now **I am not coming down this stair twice**, which is terser, is his register, and
+   carries his nine years without spending an age on it.
+6. **`chapter-0366.md` stated the quarter rule twice, twenty-six lines apart** — Runa Sato's speech at the
+   counter and then narration restating it almost verbatim. **The narration is gone and what replaced it is a man
+   and not a rule:** *He wrote none of it down. He had four months of a habit of writing things down, and there
+   was nothing to write, because a woman at a counter had said it once on purpose and had sent him away with it.*
+   It pays her line — *I will give you the rest of it once and then I am going back to a counter* — and it is the
+   one human sentence after the machinery.
+7. **Three soft intervals, all now subtracted twice.**
+   `0368:33` **a fortnight ago** for a sentence said on the first of February and spoken about on the fourteenth
+   is 13 days; it is now **on the first of February**, which is the house's own way of fixing an interval.
+   `0362:5` and `0362:83` both gave Marguerite Vale's rooms **eleven weeks**; the tenth of December to the
+   thirtieth of January is `(30 − 10) + 30 =` **50 days, seven weeks and a day**, and both now say **seven weeks**.
+   `0362:119` used **about nine hours** twice — once for what was left of the thirtieth after a four o'clock
+   arrival and once for the run to ten to nine the next morning. The first is now **about eight hours** and the
+   second **about seventeen hours**, which also removes the repetition of a single figure inside one sentence.
+8. **The gate block claimed 16 italic spans and there are 18.** The two it did not enumerate were **the note
+   Agnete Lindqvist sends up sixty-one steps at 368** and **the requisition heading itself at 370**. The count
+   and the enumeration are both corrected and all eighteen are now listed below.
+
+**AND TWO MORE, BOTH FOUND BY THE REPAIR PASS RE-RUNNING THE GATE RATHER THAN BY READING, AND BOTH OF THE SAME
+CLASS AS NUMBER EIGHT — A GATE RECORD THAT RECORDS AN ANSWER INSTEAD OF A COMMAND:**
+
+9. **The scene-probe enumeration at 369 was wrong under both tokenisations and summed to 50 while claiming 43.**
+   The total of 43 was right by coincidence for substring counting. The printed per-word figures — came 15,
+   thighs 2, cock 2, breast 4, nipples 1, hip 4, come 5 — are what **no** counting of that body returns.
+   Re-run: whole-word **36** and substring **43**, and **both enumerations are now printed in full**, because the
+   argument for printing the command and not the answer is exactly this row. **The reviewer independently
+   returned 36 on the whole-word count and the two agree exactly.**
+10. **The banned-construction row claimed nine of nine at zero and `nobody asked` was in 368.** Wren Kallo says
+    at 368 that nothing at that table is entitled to ask her anything, and the narration immediately underneath
+    said *Nobody asked her anything about it* — the ninth item of the list, and the entire point of the row. It
+    now reads *She had told them what would happen if they asked and not one of the eight took her up on it*,
+    which keeps the beat, names the room instead of the absence, and is not on the list. **Re-run: nine of nine,
+    zero, across all twenty Volume 8 files.**
+
+**WHAT THE REVIEW FOUND GOOD AND WHAT WAS NOT TOUCHED.** Chapter 363 resolves the carry-forward collision the
+batch prompt flagged as the batch's biggest risk, as candidate (b), as a fact in Hanneke Ruis's mouth and not as
+a rule; Movement 4 survives, Nadia Ferrous's payoff survives, and §6 movement 2 was rewritten against the page
+in the same commit. Chapter 367 names the fourth-seat man, gives him no age, and turns the gap in the witness
+line from a hole into a dated entry. Chapter 370 delivers an irreversible decision with a priced consequence.
+The scene at 369 is written out, is hers, and does not use her gift as a mechanism.
 
 ## Batch 0002 gates, re-run by command on 13 October 2026 against the files as they stand after the last repair
 
@@ -11,31 +85,45 @@ below and is retained in full as history, and so are the Volume 8 planning recor
 FILES            `ls chapters/volume-08/` -> chapter-0351.md .. chapter-0370.md, **twenty files, no gap and no
                  file outside 0351-0370.**  `ls chapters/*/chapter-*.md | wc -l` -> **370.**
                  **No chapter 371 exists anywhere in the repository.**
-VOL 8 WORDS      **44,580, counted per file and summed.**  Per file: 351 **2,167** · 352 **2,240** ·
+VOL 8 WORDS      **44,600, counted per file and summed.**  Per file: 351 **2,167** · 352 **2,240** ·
                  353 **1,734** · 354 **2,245** · 355 **1,768** · 356 **1,733** · 357 **1,890** · 358 **3,998** ·
-                 359 **2,260** · 360 **2,594** · **361 2,376** · **362 1,842** · **363 2,204** · **364 2,174** ·
-                 **365 2,054** · **366 2,096** · **367 1,983** · **368 1,994** · **369 3,091** · **370 2,137**.
-                 **BATCH 0002 ALONE = 21,951** (44,580 − 22,629).
+                 359 **2,260** · 360 **2,594** · **361 2,401** · **362 1,842** · **363 2,204** · **364 2,170** ·
+                 **365 2,054** · **366 2,080** · **367 1,983** · **368 2,011** · **369 3,089** · **370 2,137**.
+                 **BATCH 0002 ALONE = 21,971** (44,600 − 22,629).
                  **Count per file and sum. NEVER from a concatenation.** For this volume the two agree exactly —
-                 `cat chapters/volume-08/*.md | wc -w` returns **44,580** — because all twenty files carry a
+                 `cat chapters/volume-08/*.md | wc -w` returns **44,600** — because all twenty files carry a
                  trailing newline, which was checked file by file. The trap is still armed for any volume whose
                  files lack one.
                  **THE ONLY CHAPTER OUTSIDE THE 1,800–2,700 BAND IS 369**, which is the volume's scene and leaves
                  it deliberately; Volume 7's four long scenes ran 2,938 to 3,900 and 358 is 3,998. 369 is the
-                 shortest scene the volume has and it is 541 words shorter than 358.
+                 shortest scene the volume has and it is 909 words shorter than 358.
+                 **THE REVIEW REPAIR MOVED FIVE OF THE TEN AND THE BAND HELD:** 361 2,376 → **2,401**, 364 2,174 →
+                 **2,170**, 366 2,096 → **2,080**, 368 1,994 → **2,011**, and 369 3,091 → **3,089**. **EVERY FIGURE
+                 IN THIS BLOCK IS THE FIGURE AFTER THE REPAIR AND NONE OF THEM IS THE FIGURE THE WRITER PASS
+                 RECORDED.** 368 rose because the banned construction at 368:65 was replaced by a longer sentence
+                 that does the same work.
 TITLES           `grep -h '^# ' chapters/*/chapter-*.md | sed 's/^# //' | sort | uniq -d` -> **empty.**
                  **370 title lines, 370 distinct, 0 duplicates anywhere in the book.** 0 over 90 characters.
                  The ten at 361–370 are printed exactly as banked in `outline/volume-08.md` §10 and **not one
                  was changed**; longest of the ten 38 characters; word counts 5, 5, 7, 6, 6, 5, 6, 7, 6, 6;
                  0 beginning with *What*; 0 built out of *there is no* / *nobody* / *nothing* / *what*.
 MARKDOWN         blockquote **0** · table **0** · horizontal rule **0** · code block **0**, across the ten.
-                 Bold spans **0**. Italic spans **16**, and every one of them is a document, a docket, a quoted
-                 word, or the five sentences a woman has been keeping for eleven years: the two lines on the back
-                 of the docket at 361, *Called.* at 363, *because it is cheaper* at 365 and 370, *vacant* at 367,
-                 *don't* twice and *sixteen* and *seven o'clock, Vestry, Agnete* at 368, *it was me* and
-                 *this clears you* and the five sentences at 369, and the two clauses he is remembering at 370.
+                 Bold spans **0**. **Italic spans 18, AND THE BLOCK PREVIOUSLY SAID 16 AND NAMED SIXTEEN OF THEM.**
+                 **The two the old enumeration missed are the note Agnete Lindqvist sends up sixty-one steps at
+                 368 and the requisition heading itself at 370, which is a document and is the chapter's title on
+                 the page.** All eighteen, in order: 361 — the two lines on the back of the docket, and *ask me
+                 nothing* in his memory of them · 363 — *Called.* and *Called. Called. Called.* · 365 — *because
+                 it is cheaper* · 367 — *vacant* · 368 — *don't* twice, the note from the Vestry, *sixteen*, and
+                 *seven o'clock, Vestry, Agnete* · 369 — *it was me*, *this clears you*, and the five sentences
+                 she has been keeping for eleven years · 370 — the requisition heading, *because it is cheaper*,
+                 and *a paper can be asked for*. **Every one of the eighteen is a document, a docket, a word a
+                 woman is holding in her mouth, or a phrase and not a sentence.**
 PARAGRAPHS       over roughly 90 words: **0**.  over roughly 120 words: **0**.  **Longest paragraph in the ten is
                  90**, in 369.  Measured by a reporter that prints lengths and writes nothing.
+                 **THE REPAIR BROKE ONE AND THE GATE CAUGHT IT:** bridging the forty minutes at 361 put that
+                 paragraph at 115 words, which is inside the 120 ceiling and outside the 90 one. It was split at
+                 *None of that was on the docket*, which is where the sentence turns from what is coming to what
+                 she did not know, and the longest is back to 90 in 369.
                  **LINE-BOUNDARY CHECK, RUN FIRST AND AGAIN AFTER EVERY HAND SPLIT AND AGAIN AT THE END:
                  0 headings and 0 system panels without a blank line above them, 0 trailing spaces, all ten files
                  end in a newline, and 0 paragraphs with an odd number of quotation marks — no speech runs
@@ -65,19 +153,33 @@ AGES             **No chapter announces an age.** `bible/characters.md` fixes th
                  WHO WAS IN THE FOURTH SEAT, OR TO THE WOMAN WHO WAS IN THE THIRD SEAT. Sun Meiling, Agnete
                  Lindqvist, Beatrix Halm, Nadia Ferrous, Isolde Marchetti, Runa Sato, Marguerite Vale,
                  Anouk Ferreira, Alma Quayle, Wren Kallo and Bertram Sallow all appear in this batch and none
-                 of them is given one.** **A SPAN OF YEARS IS PERMITTED — eleven years indoors, six years in a
-                 seat, six weeks ago, nine years of a notebook — AND AN AGE IS NOT.**
+of them is given one.** **A SPAN OF YEARS IS PERMITTED — eleven years indoors, six years in a
+                  seat, six weeks ago, nine years of a notebook — AND AN AGE IS NOT.**
+                  **FOUR MORE WERE CUT BY THE REVIEW REPAIR AND THE RECORD IS HERE SO A LATER PASS DOES NOT PUT
+                  THEM BACK: Perrin Sowe said *a man of my age* at 364 and now says *I am not coming down this
+                  stair twice*, which is his register and carries his nine years without the age.** The three
+                  above plus that one is **four**; none of the four may return.
 BANNED           his eyes widened **0** · he couldn't believe it **0** · suddenly **0** · little did he know
                  **0** · there is no form **0** · there is no column **0** · the record remained **0** ·
                  nobody asked **0** · nobody was thanked **0**.  **Nine of nine, in Volume 8.**
+                 **AND ONE OF THE NINE WAS FALSE WHEN THIS BLOCK WAS FIRST WRITTEN. Wren Kallo says at 368 that
+                 nothing at that table is entitled to ask her anything, and the narration underneath it said *Nobody
+                 asked her anything about it*,** which is the ninth item of the list and the whole of the point of
+                 the row. **A GATE THAT IS RECORDED RATHER THAN RUN WILL EVENTUALLY RECORD SOMETHING FALSE.**
+                 It now reads *She had told them what would happen if they asked and not one of the eight took
+                 her up on it*, which is the same beat, names the room instead of the absence, and is not on the
+                 list. **Re-run after the change: nine of nine, zero.**
 12-GRAM          **Scope: the ten files 361–370 against every one of the other 360 chapter files in `chapters/`,
                  and against each other. Tokenisation: markdown heading marks stripped; em/en dashes and curly
                  quotation marks folded to a space and to ASCII; `*`, `[`, `]`, `_` and every non-alphanumeric
                  turned to a space; lowercased; split on whitespace; empty tokens dropped.**
                  **The same tokenisation reproduces Batch 0001's audited 31 exactly, split 13 / 11 / 7, which is
                  how the scanner in this repository was verified against a number it did not write.**
-**26 cross-chapter matches involving the ten, in NINE groups, AND THEY COLLAPSE TO TWO DELIBERATE RETURNS AND
-  SEVEN SINGLES.**
+**26 DISTINCT N-GRAMS across the ten, in NINE groups, AND THEY COLLAPSE TO TWO DELIBERATE RETURNS AND SEVEN
+  SINGLES. THE FOUR NUMBERS, BECAUSE FINDINGS 8, 9 AND 10 ARE ALL A GATE RECORD THAT DID NOT SAY WHICH FIGURE IT
+  WAS PRINTING: directed rows **28** (= one per token position) · distinct (chapter, n-gram) pairs **28** ·
+  distinct n-grams **26** · distinct (chapter, source file) pairs **11**. No n-gram occurs at more than one
+  position, so 28 rows and 28 pairs are the same number and 26 is the count of distinct strings.**
   1. **Hanneke Ruis's own written words, read back to her by name at 363.** **16 of the 26.** Twelve of them are
      the carry-forward rule as she wrote it on the slip of the first of January — *a line called twice may be
      carried forward by the room that holds the book without a fresh sheet being drafted* — and four are her
@@ -94,6 +196,11 @@ BANNED           his eyes widened **0** · he couldn't believe it **0** · sudde
      seven on the morning of the sixteenth (0335↔0362), a clerk's tick in the corner of a box (0343↔0370),
      nine minutes in a room at the end of a corridor (0361↔0369), and four words a man said to a clerk
      (0365↔0370).
+  **THE REVIEW REPAIR BOUGHT ONE OF THESE AND GAVE IT BACK, AND THE NUMBER DID NOT MOVE.** Bridging the forty
+  minutes at 361 introduced *on the second floor of a building off a third court and*, a twelfth word against
+  364. The count went to **27 distinct pairs**, the wording was changed to *two floors up in a building off a
+  third court*, and the count was re-run and returned to **26**. **`AGENTS.md`: a repair that moves the number is
+  not done, and this one did move it and was not accepted until it had moved back.**
 **THE FIRST PASS OF THIS BATCH RETURNED 421 AND EVERY ONE OF THE 395 REPAIRED MATCHES WAS A REAL DEFECT.**
   **238 of them were Chapter 351's counting room copied into Chapter 363 almost word for word, and that is the
   single worst thing in this batch and it was not caught by reading.** Another 21 were the scene grammar of 358
@@ -105,17 +212,20 @@ BANNED           his eyes widened **0** · he couldn't believe it **0** · sudde
   requisition's arithmetic and on the closing of a chapter. **All of it was rewritten rather than patched.
   `AGENTS.md`: check borrowed bodies before borrowed sentences, and when a repair buys accuracy with a phrase
   already on the page, run the count again.** Two repairs in this batch did exactly that and were caught.
-  11-GRAM          **79** on the same scope and the same tokenisation.
-  8-GRAM           **1,269** on the same scope, and the reportable figure is the connective tissue of the book
-                   (*and I am going to say*, *she did not look at him*, *which is how*) and not duplication.
-                   **None of the 8-gram report is between two scenes.**
+11-GRAM          **63** on the same scope and the same tokenisation. (Was 79 before the review repair; four
+                    n-grams fell out of the rewording at 361, 364 and 366 and none was added.)
+  8-GRAM           **546** on the same scope, and the reportable figure is the connective tissue of the book
+                    (*and I am going to say*, *she did not look at him*, *which is how*) and not duplication.
+                    **None of the 8-gram report is between two scenes.** (Was 1,269 before the repair; the fall
+                    is the four rewrites and the count was re-run afterwards, not assumed.)
 DUPLICATE PARAS  Exact-duplicate paragraph of eight words or more across two different chapter files in the whole
-                 book: **29, and EXACTLY ONE INVOLVES A VOLUME 8 FILE.** One is Batch 0001's, *I am the man at
+                 book: **27, and EXACTLY ONE INVOLVES A VOLUME 8 FILE.** One is Batch 0001's, *I am the man at
                  the top of this page and I will answer for it* at 348 and 356, which is the third of its three
                  deliberate returns. **The other was this batch's and it is fixed: Nadia Ferrous put both hands
                  flat on the table**, in Chapter 216 and in a draft of 368. **Now: *Nadia Ferrous turned her
-                 palms down on the table and left them there*, and the re-run returns 29 with only Batch 0001's
-                 in Volume 8.**
+                 palms down on the table and left them there*, and the re-run returns 27 with only Batch 0001's
+                 in Volume 8.** The figure was 29 when this block was first written and 27 is what the scan
+                 returns now; **no paragraph was removed to get there, and the repair did not create one.**
 BORROWED BODIES  **Checked before borrowed sentences and one thing was found and removed.**
                  `right temple` occurs **zero** times in the whole book and Volume 8 keeps it at zero.
                  **The only temple in the ten is Lin Hao's grey at the LEFT temple**, named at 369 by a woman
@@ -130,12 +240,22 @@ BORROWED BODIES  **Checked before borrowed sentences and one thing was found and
 SCENE 369 BODY   Counted from the opening `##` to the closing `##`, exclusive of both, by
                  `lines[idx[0]+1 : idx[-1]]` where `idx` is the list of line numbers beginning with `## `.
                  Headings: The Room Is Not A Term · What Am I To Them · The Room Does Nothing · Afterwards ·
-                 The Two Days.  **BODY = 2,570 WORDS.**  Chapter = 3,091.
-                 **AND PROBED, because a count is not a proof.** Substring counts over the body only:
-                 mouth **7** · came **15** · inside **2** · hair **3** · thighs **2** · tongue **1** · finger
-                 **3** · wet **1** · cock **2** · shaft **0** · breast **4** · nipples **1** · gasp **0** ·
-                 lick **0** · hip **4** · come **5**.  **PROBE TOTAL 43.**  (Substring counts; `come` counts
-                 *becomes* and *coming* as well as *came* and *come*, exactly as it did for 358's 46.)
+                 The Two Days.  **BODY = 2,570 WORDS, UNCHANGED BY THE REVIEW REPAIR.**  Chapter = **3,089**
+                 (was 3,091; the repair was to the closing line of The Two Days, which is outside the body).
+                 **AND PROBED, because a count is not a proof. TWO TOKENISATIONS, BOTH RE-RUN, AND BOTH PRINTED
+                 BECAUSE THE OLD BLOCK PRINTED ONE OF THEM WITH THE WRONG PER-WORD FIGURES.**
+                 **Whole-word (`\b…\b`): mouth 7 · came 14 · inside 2 · hair 3 · thighs 1 · tongue 1 · finger 1 ·
+                 wet 1 · cock 1 · breast 2 · come 3 = 36.** This is the figure the Batch 0002 review independently
+                 returned and the two agree exactly.
+                 **Substring (so `come` counts *becomes* and *coming* as well as *came* and *come*, exactly as it
+                 did for 358's 46): mouth 7 · came 14 · inside 2 · hair 3 · thighs 1 · tongue 1 · finger 3 ·
+                 wet 1 · cock 1 · shaft 0 · breast 3 · hip 3 · come 4 = 43.** `nipples`, `gasp`, `lick` and
+                 `shaft` are all **zero** in the substring count, and `thighs` is **1**, not 2.
+                 **THE OLD ENUMERATION WAS WRONG AND SUMMED TO 50 WHILE CLAIMING 43.** It printed came 15, thighs
+                 2, cock 2, breast 4, nipples 1, hip 4 and come 5, none of which is what either tokenisation
+                 returns. **THE TOTAL OF 43 WAS RIGHT BY COINCIDENCE AND THE FIGURES UNDER IT WERE NOT, WHICH IS
+                 THE WHOLE ARGUMENT FOR PRINTING THE COMMAND AND NOT THE ANSWER.** `outline/volume-08.md` §9
+                 point 4: a gate record is a claim; the re-run outranks the record.
                  **THE FIRST DRAFT OF THE BODY PROBED 38 WITH *cock* AT ZERO, and *cock* was put back because
                  a scene in this book says the thing it means.**
                  Impaired-state mechanisms over the same body: compulsion **0** · sedat **0** · exhaust **0** ·
@@ -509,6 +629,8 @@ has been rewritten against all ten chapters in the same commit.
 | **PC-25** | **FOUR HUNDRED PEOPLE IN THE QUARTER AROUND THE VESTRY KNOW HIS NAME AND THE CHURCH OF THE QUIET NUMBER BELIEVES HE IS THE OFFICE — not because anybody said it, but because a man in a city that scores everybody gave things away in the open for seven years and came back thinner each time, about four hundred people watched it happen, and none of it was written down. And the only thing that would clear him is a record, and this building has spent twenty years teaching eleven thousand people never to believe one.** | **369.** `bible/characters.md` gives Agnete Lindqvist a gift that makes a room where nobody can be compelled to testify, eleven years indoors, and a Church of eleven thousand whose whole doctrine is that a deed with no witness in it is a deed. **The answer is the one he did not want and it is the reason the volume works, and it puts his entire defence and his entire danger inside one sentence: the proof is a paper and the only people who need convincing have sworn never to take one.** | 369, and Volume 10's beat | **ADOPTED. ** IT IS NOT A RESOLUTION OF THE SONG THREAD AND IT MAY NOT BE CONVERTED INTO ONE: a reason clause that cannot be reproduced in writing is still a reason clause that cannot be reproduced in writing, and a chapter that hears eleven thousand people say his name out loud does not put an author on the song.** |
 | **PC-26** | **A PERSON KEEPING AN ADDRESS MAY GIVE IT UP AT ANY COUNTER, IN THE ORDINARY WAY, WITH NO INSTRUMENT, NO PERMISSION, NO WITNESS AND NO HOLDER; THE CLERK ENTERS A NUMBER; THE COMPOSITION DROPS BY ONE; AND IF THE COMPOSITION THEN MATCHES THE PRICED LINE, THE CALLED ACCOUNT GOES ON THE QUARTER'S CARRY-FORWARD SHEET AND IS CARRIED WITHOUT ANOTHER VALUATION EVER.** | **368.** This is Alma Quayle's four lines of the twenty-sixth of January (PC-18) turned into arithmetic by a woman who works doors for a living, **and the arithmetic only completes once PC-20 has put the matching condition in.** The list of the thirtieth of October still says eight and cannot be un-issued, so the two figures are both true afterwards and the older one is the one anybody will read. | 368, 381, 382, 383, 384 | **ADOPTED. ** NADIA FERROUS HAS SAID A DATE OUT LOUD AT HIS OWN TABLE AND HE HAS ASKED HER FOR FORTY-EIGHT HOURS, AND SAID IN FRONT OF EIGHT PEOPLE THAT HE DOES NOT KNOW WHAT HE WILL DO WITH THEM.** |
 | **PC-27** | **AGNETE LINDQVIST IS GOING OUT. On the eighteenth of February, in the morning, onto the front of the Vestry arcade, to say what eleven thousand people believe about a man, without naming anybody.** | **`bible/characters.md`: her cost is that she has not been outside one in eleven years and Volume 4 is partly about getting her out of it.** 360 already has her indoors and on the ground floor of Ferrier Street; 369 announces the intention. **This is announced on the page on the sixteenth and NOT DONE on the page in this batch**, and it lands two days before a requisition is heard. | 369, and after it | **ADOPTED AS AN INTENTION, NOT AN ACT. **A LATER BATCH MAY CARRY IT OUT AND MAY NOT, AND MAY NOT LET HER ROOM'S GIFT BE THE MECHANISM OF IT.** |
+
+| **PC-28** | **AN INTERVAL DEFECT IN CHAPTER 359 THAT NEITHER REVIEW CAUGHT, FLAGGED AND DELIBERATELY NOT FIXED BY THE BATCH 0002 REPAIR PASS.** Chapter 359 is dated the nineteenth of January and prints that date itself. Its section is headed **The Nine Days**, it says he *did the arithmetic he had been not doing for nine days*, and it says a thing he understood on the night of the sixteenth *had not been able to put anywhere in eight days*. **By subtraction the sixteenth to the nineteenth is THREE days, and the copy the arithmetic is about was served at her desk at nine on the morning of the FIFTEENTH, so fifteen to nineteen is FOUR. Neither nine nor eight is either figure.** | **`outline/volume-08.md` §5 fixes a thirty-day month and the volume rule is SUBTRACT DAY NUMBERS. This is the exact defect class Batch 0001's own review was taken to task for — the review found four interval defects in ten chapters and every one was local arithmetic — and it fixed four of them and missed this one. The Batch 0002 review read 359 for the twelfth/fourteenth of January and did not reach this.** | **359 — SEALED, AND NOT REPAIRED** | **OPEN, AND IT NEEDS AN OWNER.** **IT WAS NOT FIXED BECAUSE 351–360 IS BATCH 0001'S AUDITED AND CLOSED POSITION AND THE BATCH 0003 PROMPT FORBIDS TOUCHING IT, AND BECAUSE THE REPAIR IS AN EDITORIAL CHOICE BETWEEN THREE NUMBERS** — the section heading, *nine days* at 359:47, and *eight days* at 359:57 — **and THAT CHOICE BELONGS TO WHOEVER OWNS THAT BLOCK, NOT TO A PASS WORKING ON 361–370.** **DO NOT LET A LATER BATCH SILENTLY CARRY *NINE DAYS* FORWARD AS IF IT WERE AUDITED. NO CHAPTER IN 371–400 MAY USE THAT SECTION'S FIGURES.** |
 
 **AND THE TWO THINGS BATCH 0002 DID NOT DO, WHICH ARE RECORDED SO A LATER BATCH DOES NOT LOOK FOR THEM:**
 

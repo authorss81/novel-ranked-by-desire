@@ -2,9 +2,27 @@
 
 Write **ten finished chapters, in order**, into `chapters/volume-08/chapter-0371.md` through `chapter-0380.md`.
 
-**Chapters 351–370 are on disk. Batch 0001 was reviewed and repaired. Batch 0002 has not been reviewed and its
-eleven chapters' worth of gates are recorded from outside the pass that wrote them. Do not rewrite 351–370 and do
-not touch any chapter outside 371–380.**
+**Chapters 351–370 are on disk. Batch 0001 was reviewed and repaired. Batch 0002 WAS ALSO REVIEWED AND
+REPAIRED — `logs/batch-0002.review.log` is the review and the repair list is at the head of
+`state/open-threads.md` — and every one of its gates was re-run from outside after that repair. Do not rewrite
+351–370 and do not touch any chapter outside 371–380.**
+
+**THE FOUR FACTS THE REPAIR SETTLED, AND CHAPTER 371 INHERITS ALL FOUR. CARRY THEM AND DO NOT RE-DERIVE THEM.**
+The refusal of the twenty-sixth of January to the filing run of the fourth of February is **EIGHT days** and not
+nine, by subtraction — `(30 − 26) + 4` — and that is the only arithmetic that decides anything in this volume.
+**The declaration was carried INTO the room at the end of the corridor on the FOURTEENTH of January and laid on
+the table under the window; the TWELFTH is the Ferrier Street kitchen table where he wrote the sheets**, and after
+the repair no chapter may date the laying of that document on the twelfth. **Agnete Lindqvist goes out on the
+EIGHTEENTH of February**, which is two days before the sitting and is not the day before it. **And the nine
+banned constructions are ZERO across Volume 8 — and the gate block's old zero for *nobody asked* was FALSE,
+because a sentence at 368 used it, so a recorded zero in this project has been wrong before and is not evidence
+of anything until the grep is run again.**
+
+**AND ONE KNOWN DEFECT YOU MUST NOT REPRODUCE, FLAGGED AND NOT FIXED — `PC-28` IN `state/open-threads.md`.
+`chapter-0359.md` heads a section The Nine Days and says *nine days* and *eight days* for an interval that is
+THREE days from the sixteenth of January to the nineteenth and FOUR from the fifteenth. 351–360 is Batch 0001's
+audited and closed position and this prompt forbids touching it, so the repair is left to whoever owns that block.
+**NO CHAPTER IN 371–400 MAY USE THOSE FIGURES, AND IF YOU NEED THAT INTERVAL, COUNT IT AGAIN.**
 
 `outline/volume-08.md` is in two registers and the register is printed on its face. **§1 to §5 are written fact.
 §6 movement 1 was rewritten against Chapters 351–360 and §6 movement 2 was rewritten against Chapters 361–370, in
@@ -156,8 +174,11 @@ never bold and never italic. **Batch 0002 used one panel in ten chapters and tha
 **The scene at 380 is written out.** Count the words of the scene body from the opening `##` to the closing `##`,
 **exclusive of both**, and probe it with the explicit-vocabulary list from `reviews/volume-07/` (mouth · came ·
 inside · hair · thighs · tongue · finger · wet · cock · shaft · breast · nipples · gasp · lick · hip · come), and
-put **both** figures in the gate row. **Under about nine hundred and you have not written the scene.** 369's body is
-2,570 and probes 43; 358's is 2,929 and probes 46. **Tessa Okonkwo's terms come FIRST and are SHORT and one of them
+put **both** figures in the gate row. **Under about nine hundred and you have not written the scene.**
+**PRINT THE TOKENISATION WITH THE NUMBER, BECAUSE A RECORDED COUNT WITHOUT ONE IS NOT A CLAIM ANYBODY CAN CHECK.**
+369's body is **2,570 words** and probes **36 whole-word and 43 as substring**; 358's is 2,929 and probes 46.
+**The Batch 0002 gate block printed 43 and then listed per-word figures that summed to 50 and matched neither
+counting, and the review caught it. The total was right by coincidence and the figures under it were not. **Tessa Okonkwo's terms come FIRST and are SHORT and one of them
 is about what she has taken out of her own frame to get him through November. Her gift is the Bureau's gifted, not
 a thing that acts on him in the room. The hinge is a BODY and a document about a body: the medical record of a held
 account is in the hands of the one doctor who keeps the Bureau's gifted alive and she has been reading it for three

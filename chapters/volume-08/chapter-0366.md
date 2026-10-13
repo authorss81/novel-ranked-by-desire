@@ -38,7 +38,7 @@ He caught her at the door.
 
 Beatrix Halm looked at him for a second longer than she usually looked at anybody.
 
-"They were going to ask who holds it," she said. "That is what nine people in a room have been saying since October and it is the only question in this business anybody ever really wants answered, and on the twelfth of January a man wrote a sheet of paper with his own name at the top of it and laid it on a table under a window in that room, and eight people signed a line saying they had seen him do it."
+"They were going to ask who holds it," she said. "That is what nine people in a room have been saying since October and it is the only question in this business anybody ever really wants answered, and on the fourteenth of January a man carried a sheet of paper with his own name at the top of it into that room and laid it on the table under the window, and eight people signed a line saying they had seen him do it."
 
 "So the book is shut."
 
@@ -108,7 +108,7 @@ She put her hands flat on the counter.
 
 That was the whole of it, and he had eleven days, and the arithmetic of the eleven days was not a hard one.
 
-A requisition lies in the quarter it is laid. A sheet that is not decided when the quarter goes out is a sheet in the next one, and the quarter goes out on the thirtieth, and a sheet in the next quarter is a sheet that nobody in any office in this city is in a hurry about.
+He wrote none of it down. He had four months of a habit of writing things down, and there was nothing to write, because a woman at a counter had said it once on purpose and had sent him away with it.
 
 So there was a version of the next eleven days in which nobody did anything at all. The ground stayed out of the fourth part. The nine minutes on the twentieth ran out with a sheet in front of nine people that could not be carried. And on the thirtieth the whole thing went quietly into the next quarter and lay down, and there was no instrument in Ostara that could wake a sheet up early.
 

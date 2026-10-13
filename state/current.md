@@ -1,4 +1,4 @@
-# VOLUME 8 BATCH 0002 HEAD RECORD — 13 OCTOBER 2026, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE. CHAPTERS 361–370 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.
+# VOLUME 8 BATCH 0002 HEAD RECORD — 13 OCTOBER 2026, RE-RUN FROM OUTSIDE THE PASS THAT WROTE THE PROSE, AND AGAIN AFTER THE REVIEW REPAIR. CHAPTERS 361–370 ARE ON DISK. THE NEXT PHASE IS A WRITING PHASE.
 
 **Read this block before Chapter 371 is written. It is the head record.** Batch 0001's block is immediately below
 it and is retained in full as the position at Chapter 360; the Volume 8 planning record and the Volume 7 close
@@ -6,11 +6,26 @@ record follow. Live gates are at the top of `state/open-threads.md`, **and the l
 not Batch 0001's.** The volume outline is `outline/volume-08.md` and **its §6 movements 1 and 2 are now written
 fact**; movements 3 to 5 are still plan and Batch 0003 tests movement 3.
 
+## 0a. THE BATCH WAS REVIEWED AND REPAIRED. TEN FINDINGS, TEN FIXED, NO CHAPTER RESTARTED.
+
+**`logs/batch-0002.review.log` is the review and the full repair list is at the head of `state/open-threads.md`.
+The eight findings the review returned were: a day count that was nine at 364:125 and eight four lines later · a
+laying of the declaration dated the twelfth at 366:41 where canon is the fourteenth and the room · the eighteenth
+called *the day before that* at 369:183 · forty unbridged minutes between the writing of *ask me nothing* and its
+arrival under the door at 361 · *a man of my age* in Perrin Sowe's mouth at 364:25 · the quarter rule stated twice
+in 366 · three soft intervals in 362 and 368 · and a gate block that claimed sixteen italic spans where there
+are eighteen.** **TWO MORE WERE FOUND BY THE REPAIR PASS RE-RUNNING THE GATE RECORD ITSELF — a scene-probe
+enumeration that summed to 50 while claiming 43, and a *nobody asked* at 368:65 that the banned row recorded as
+zero.** **THE FOUR CANON FACTS A LATER CHAPTER MAY RELY ON: the 26 January decline to the 4 February run is
+EIGHT days · the declaration went INTO THE ROOM ON THE FOURTEENTH and the twelfth is the kitchen table where he
+wrote it, which is the only use left of the twelfth · Agnete Lindqvist goes out on the EIGHTEENTH of February ·
+and no chapter may narrate a refusal to be asked with any of the nine banned constructions.**
+
 ## 0. WHAT THIS BATCH DID, AND ITS IRREVERSIBLE DECISION
 
 | Created | What it is |
 | --- | --- |
-| `chapters/volume-08/chapter-0361.md` … `chapter-0370.md` | ten finished chapters, the twenty-seventh of January to the twentieth of February. **21,951 words counted per file and summed. Volume 8 is 44,580.** |
+| `chapters/volume-08/chapter-0361.md` … `chapter-0370.md` | ten finished chapters, the twenty-seventh of January to the twentieth of February. **21,971 words counted per file and summed after the review repair. Volume 8 is 44,600.** |
 | `outline/volume-08.md` | **§6 movement 2 rewritten against the page** with six named places the plan was wrong; **the carry-forward collision at the end of §6 STRUCK AND SETTLED**; §6 and §10 headers corrected; §10 re-run |
 | `state/open-threads.md` | **new live gate block**, and canon items **PC-20 to PC-27** recorded in the same commit |
 | `workspace/volume-08/batch-0003/PROMPT.md` | **the one live phase prompt in the repository.** Ch 371–380. |
@@ -44,7 +59,9 @@ date out loud at his own table · and four hundred people in a quarter believe h
   washrooms. **Petra Ilyin gives the queue; Nadia Ferrous gives the price; Sun Meiling gives the only fact that
   matters, that a raised question with no number on it can sit for ever.** Two lines on the back of the docket:
   *ask me nothing before the twentieth* and *I am telling you afterwards because a woman who tells a man first is
-  doing it for him.* **The first time in eight volumes she has acted without him.**
+  doing it for him.* **The first time in eight volumes she has acted without him.** **She wrote it at half past
+  six at a desk two floors up in a building off a third court and had it under his door at ten past seven; the
+  chapter used to leave those forty minutes unbridged and now says where she was standing when she wrote it.**
 - **362 (30 Jan). THE NINY SECONDS SHE SPENT, AND WHAT IS UNDER THEM.** Marguerite Vale's rooms and a table she
   cannot eat at. **Two instruments have come out of ninety seconds on the sixteenth of September**, the second
   one being everything he has written since, because a man may only declare a holding where a figure has already
@@ -55,7 +72,10 @@ date out loud at his own table · and four hundred people in a quarter believe h
   belonged to a woman who would not be thanked. **A drawer she has not opened since the sixteenth of September,
   with one unruled slip in it: a figure, a time, an address and a line she ruled herself. Nothing on it that
   matters.** And the reason she never said, which is not kindness: he would have thanked her, and a thing
-  finished between two people cannot be used by either of them afterwards.
+  finished between two people cannot be used by either of them afterwards. **The tenth of December to the
+  thirtieth of January is fifty days, seven weeks and a day, and the chapter says seven weeks; and he goes down
+  three flights at four in the afternoon with about eight hours of the thirtieth left and about seventeen hours
+  to the third mark.**
 - **363 (1 Feb). A THIRD MARK IN A CHAINED BOOK. THE CHAPTER THE BATCH EXISTS FOR.** *Called. Called. Called.*
   in the same hand, on the chain, under the same printed rule, against the first of February; the time entered
   at twenty to nine; **a hundred and thirty-four days**. **THE CARRY-FORWARD COLLISION IS RESOLVED HERE, IN HER
@@ -79,7 +99,9 @@ date out loud at his own table · and four hundred people in a quarter believe h
   refusal of the twenty-sixth is entered with an hour and a minute. **Lin Hao is in the chair under the window
   eleven feet away and she does not look down the corridor once.** **What he works out at the bottom of the
   stairs: he did not come for the box. He came because her refusal was read by somebody who needed a name against
-  it, nine days after it was entered, and the only name there was hers. She had gone to work.**
+  it, eight days after it was entered, and the only name there was hers. She had gone to work.** **The twenty-sixth
+  of January to the fourth of February is eight days by subtraction, and the chapter and §6's card now both say
+  eight.** **He does not give his age, or any age: *I am not coming down this stair twice.***
 - **365 (6 Feb). THE BOX WITH SOMETHING IN IT.** The room at the end of a corridor, seven in it and two chairs
   doing nothing. **Runa Sato's arithmetic, done out loud and enjoyed**, and then the thing the whole room has
   been missing: **the fourth part of the four parts is the ground, and a ground is not a reason spoken out loud,
@@ -95,10 +117,14 @@ date out loud at his own table · and four hundred people in a quarter believe h
 - **366 (9 Feb). TWO TO CALL THE SITTING.** **Beatrix Halm calls it at ten to eight with the notebook SHUT** and
   gets Runa Sato to co-sign at a Field counter at about eleven. **Called for the TWENTIETH. The clerk numbers the
   sittings and this is the ELEVENTH.** **The objection the room has been building since the second of October is
-  spent: they were going to ask who holds it, and a sheet he wrote himself closed that book on the twelfth of
-  January.** **And Runa Sato gives him the good news flatly at a counter: a requisition with no ground in it
+  spent: they were going to ask who holds it, and a sheet he wrote himself closed that book on the fourteenth of
+  January, when he carried it into the room at the end of the corridor and eight people signed the line
+  underneath it.** **The twelfth is the Ferrier Street kitchen table where he wrote the sheets, and after the
+  review repair that is the only use left of the twelfth in this chapter.** **And Runa Sato gives him the good news flatly at a counter: a requisition with no ground in it
   cannot be carried, and one that is not carried takes nothing off anybody.** So there is a version of the next
-  eleven days in which nothing at all happens. **Beatrix, at seven in the evening on the step: *you are going to
+  eleven days in which nothing at all happens. **The rule is said once, in her mouth at the counter, and the
+  chapter does not repeat it in narration afterwards; what follows the counter is a man with nothing to write
+  down.** **Beatrix, at seven in the evening on the step: *you are going to
   do something between now and the twentieth.*** Fifth blank.
 - **367 (11 Feb). THE SEAT THAT HAS BEEN EMPTY, AND THE VOLUME NAMES HIM.** **BERTRAM SALLOW**, no age printed
   and none may be. Two rooms over a lock-up off Cordwain and a counting-house that pays him four hundred a month.
@@ -121,7 +147,9 @@ date out loud at his own table · and four hundred people in a quarter believe h
   of the thirtieth of October still says eight and cannot be un-issued, and the witness line has eight names on
   it, so after the fifteenth there is a document in a room with eight signatures under it and seven people living
   in the house, and that is not a mistake anybody made by accident.** Wren Kallo says one thing about a counter
-  and will not be asked anything else. Sun Meiling makes her say the address out loud to the room; Nadia says it
+  and will not be asked anything else. **Her refusal to be asked is no longer narrated with any of the nine
+  banned constructions — it reads *she had told them what would happen if they asked and not one of the eight
+  took her up on it*, and the gate block's old zero for *nobody asked* was false.** Sun Meiling makes her say the address out loud to the room; Nadia says it
   has to be one woman at a counter. **He says nothing for nine minutes, the fourth time this year, and then asks
   for forty-eight hours and tells eight people he does not know what he will do with them.** **And from the
   ground floor, unsigned, at half past nine: *A thing I have not said out loud in eleven years. The sixteenth,
@@ -140,9 +168,12 @@ date out loud at his own table · and four hundred people in a quarter believe h
   thousand people never to believe one, because the day a paper clears somebody is the day a paper can be used
   against somebody.** **She gives him forty years of what people said he was, as sentences, with no names on
   them and none ever to be.** And she says she is going out on the eighteenth.
-  Scene body **2,570 words counted AND probed (43)**; chapter 3,091. **THE TEMPLATE IS BROKEN ON PURPOSE: no
+  Scene body **2,570 words counted AND probed TWICE: whole-word 36 and substring 43.** Chapter **3,089**. **THE
+  TEMPLATE IS BROKEN ON PURPOSE: no
   terms sheet, no counted minute, no kettle, no body described three times, and the room's gift is used on
-  nobody and is written down as doing nothing before a word of it is used.**
+  nobody and is written down as doing nothing before a word of it is used.** **THE EIGHTEENTH IS THE EIGHTEENTH:
+  she goes out on the eighteenth of February, two days before the sitting, and the closing line no longer calls
+  it the day before the twentieth.**
 - **370 (20 Feb). THE SITTING CALLED FOR THE ELEVENTH. THE REQUISITION IS LIVE AND IT IS NOT CARRIED.** **The
   ground was already written and he did not know: entered by counter-forensics on the second of February, out on
   the stream, into the keeping book on the sixth, and standing in the clerk's drawer since. Wren Kallo put it

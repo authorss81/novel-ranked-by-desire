@@ -5,8 +5,24 @@ WROTE THEM, and between them they name thirteen places the plan was wrong on the
 SETTLED the carry-forward collision that §6 had flagged as the most dangerous open question in the file.**
 **THE NEXT PHASE IS A WRITING PHASE: `workspace/volume-08/batch-0003/PROMPT.md`, which writes 371–380 and no
 prose about anything else.**
-**Batch 0002 is 21,951 words counted per file and summed. Volume 8 is 44,580 words long and has thirty chapters
+**Batch 0002 is 21,971 words counted per file and summed. Volume 8 is 44,600 words long and has thirty chapters
 to go. LIN WEI'S FILE OPENS AT 372.**
+**BATCH 0002 WAS REVIEWED ON 13 OCTOBER 2026 AND REPAIRED. `logs/batch-0002.review.log` holds the review; the
+gate record and the repair list are at the head of `state/open-threads.md`. Eight findings were fixed in the
+prose and two more were fixed in `outline/volume-08.md`, and two further defects were found in the gate record
+itself while re-running it. NO CHAPTER WAS RESTARTED AND NO PLANNED PLOT WAS CHANGED. THE FOUR CANON FACTS THE
+REPAIR SETTLED ARE: the 26 January decline to the 4 February filing run is EIGHT days and not nine (361, 364) ·
+**the declaration was carried INTO THE ROOM ON THE FOURTEENTH OF JANUARY and laid on the table under the
+window, and the twelfth is the Ferrier Street kitchen table where he wrote the sheets (366, and §6 movement 2's
+366 card; the twelfth survives only where a woman is fixing on the date he wrote them)** · **Agnete Lindqvist
+goes out on the EIGHTEENTH of February, which is two days before the sitting and not the day before it (369; PC-27
+below is unchanged and was right)** · **and Wren Kallo's refusal to be asked anything at that table is NOT
+narrated as *Nobody asked her anything about it*, which is the ninth item on the banned list (368).**
+**ONE DEFECT WAS FOUND OUTSIDE THAT SCOPE AND WAS FLAGGED RATHER THAN FIXED — `PC-28` in `state/open-threads.md`:
+`chapter-0359.md` heads a section The Nine Days and says nine days and eight days for an interval that is three
+days from the sixteenth to the nineteenth and four from the fifteenth. 351–360 IS SEALED AND AUDITED AND THE
+REPAIR IS AN EDITORIAL CHOICE BETWEEN THREE NUMBERS, SO IT IS NOT OURS TO MAKE. NO CHAPTER IN 371–400 MAY CARRY
+THOSE FIGURES FORWARD.**
 
 ### 0. WHAT CHAPTERS 361–370 ADDED TO THE CONTINUITY OF THIS BOOK, AND CHAPTER 371 MAY NOT CONTRADICT ANY OF IT
 
