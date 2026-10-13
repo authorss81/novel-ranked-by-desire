@@ -1,3 +1,178 @@
+# VOLUME 10 BATCH 0001 — CHAPTERS 451–460 ARE ON DISK, TEN FINISHED FILES. **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-10/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 461–470.**
+
+> **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-10/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**
+
+## WHAT THIS BATCH DID, IN TEN LINES
+
+1. **THE SITTING HAPPENED AND THE REQUISITION WAS CARRIED.** 451, the afternoon of the thirtieth of June: five seals, one of them his, a finding that says the holding is his and the ground is his and **the premises are not a person keeping them and the eight who sleep under that roof are**. He said the four words' origin out loud in a room for the first time. The clerk wrote it down, because a clerk may only enter.
+2. **THE CHEAPEST THING HE BOUGHT IS NOW A WEEKLY DELIVERY TO HIS OWN KITCHEN.** 452, the first of July: a carried requisition runs down the chain to the division holding its fourth part, that division has **had a building, an address and a name since four o'clock on the thirtieth of June**, and it keeps no list of addresses. **He told nobody at Ferrier Street. That was his first act of the volume and the chapter says it is not a good one.**
+3. **THE OFFER WAS MADE AND IT IS CORRECT.** 453, the third of July: a standing at the Terrace, a chair, a name that outlives him, the Ninth Seal — on the condition that Alma Quayle classify the reservoir once, which requires him to lift a recusal, which is one sentence, eleven words, and which he is the only man alive who can say. **He did not say it. She said the account's fact out loud in that room, as §8 permits, and he never applied the word to himself.**
+4. **THE SCENE.** 454, the fifth of July, Ines Duarte, a **closed** sitting in a records room with a painted rule, a return read out of an auditor's memory, and one sentence said out of order. **Body 3,489 words recorded / 3,505 literal.**
+5. **THE AUDITORATE HAS A NAME AND NO BUILDING.** 455, the seventh of July: fourteen lent counters, one rule — **a person who comes in and does not go out** — and Ada at the third window of the Bellhouse since the first of October, asked twice what she was doing it for and answering herself. **Isolde Marchetti found out on the seventh, which is the cost.**
+6. **HE SAID YES.** 456, the ninth of July, in front of five, in a room that **cannot carry a requisition and both of them know it**. He undertook the classification and said nothing about the account. Every person in that room believes him. **Alma Quayle, in the chair that counts for nothing, kept both hands in her lap and did not do the thing she did on the nineteenth of June, and she cannot speak.**
+7. **THE SPEND WENT PUBLIC.** 457, the eleventh of July: a man on a step at the foot of the ranks wall taking strangers by the hand, ten and a half hours, about nine hundred cold minutes, ninety-one strokes in a stranger's chalk, and Cordwain told before the light went that the Bureau had come off the wall.
+8. **ADA WENT GREY ON ONE SIDE OF HER HEAD AND DID NOT RECOVER IT.** 458, the thirteenth of July, in the counting room below the Bellhouse stage, at about four in the afternoon. No temple is named on either side. She finished the week. She wrote a figure in the margin of his own ledger against his own line.
+9. **THE BATCH'S IRREVERSIBLE DECISION.** 459, the fifteenth of July: he spent past what a frame can take, on purpose, in front of about four hundred people, with the only person present who understood the mechanism well enough to know the price. **Something in his chest is spent, permanently, and he buys it with a cough.** He has miscalculated and the miscalculation is in him: **he has not drained anything.**
+10. **THE COUGH IS HIS NOW.** 460, the seventeenth of July: eight women at a kitchen table each said something else instead, and he let them, and he went back at seven the next morning.
+
+## THE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES        chapters/ = 460 files, numbered 1..460 with no gap (script-checked, gaps 0).
+             chapters/volume-10/ = 10, numbered 451..460. Every file carries exactly one `# ` title line,
+             one trailing newline and no run of three blank lines.
+TITLES       460 title lines, 460 distinct, sort | uniq -d EMPTY. The ten of this batch match the bank at
+             outline/volume-10.md §11 BY STRING AND BY CHARACTER COUNT ON THE SAME LINE, TEN OF TEN,
+             ZERO MISMATCHES, the counts re-derived by command from the strings and not from the file:
+               451 (24) · 452 (29) · 453 (26) · 454 (35) · 455 (27) · 456 (26) · 457 (27) · 458 (31) · 459 (28) · 460 (25)
+             3 to 12 words (5,5,5,7,5,5,6,7,6,6), longest 37 characters with the heading mark, under ninety.
+             None begins with *What*. None is built out of *there is no* / *nobody* / *nothing*.
+BANK         **24,804 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+             451 2,370 · 452 2,258 · 453 2,414 · 454 4,312 · 455 2,151 · 456 2,280 · 457 2,191 · 458 2,110 · 459 2,493 · 460 2,225.
+             454 LEAVES THE 1,800–2,700 BAND AND SAYS WHY: it is Volume 10's first scene and it is written out.
+META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume |
+             no chapter | the axis | the reader | the novel | the story | the scene`. Swept as a class and read
+             HIT BY HIT. **ONE HIT IN TEN FILES: `The reader may stop the reading` at 454:7, which is a
+             painted rule on a wall in a reading room and is a person.** `this book` 0 · `this volume` 0 ·
+             `[a-z]+ volumes` 0 · `no chapter` 0 · `the axis` 0 · `the reader` 0 elsewhere · `the novel` 0 ·
+             `the story` 0 · `the scene` 0. One bare use of *volume* remains, at 459:39, and it is loudness.
+             **FIVE `nine volumes` AND ONE `this volume` THAT THIS PASS WROTE WERE REPAIRED TO `four years`
+             AND `this year` BEFORE THIS BLOCK WAS WRITTEN.** The 13 October failure of a phrase-list gate
+             repeated under a class gate is recorded here so that the next phase greps the class.
+WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all seven,
+             whole-word AND substring, across all ten files, all zero. **EIGHT DAY-NAME TOKENS WERE WRITTEN
+             INTO THE PROSE AND ALL EIGHT WERE REPLACED WITH DATES** (`Wednesday` x8 at 455/458/459/460 became
+             the ninth of July; `Saturday`, `Sunday`, `Tuesday`, `Friday` and `Monday` became the tenth, the
+             eleventh, the twelfth, the thirteenth, the fourteenth and the fifteenth of July). The substring
+             sweep returns only these ordinary English words and none is a day name:
+             **months** (15) · **mon** inside *money* (1) · **sat** inside *sat/sat/sat/sat* (21, of which *Sato* 2,
+             *allowed* 2, *ceremony* 1, *conversation* 4) · **sun** inside *sung* (1) and *swallowed* (1) ·
+             **wed** inside *owed* (1) · **fri** inside *frightened* (1). `Sun Meiling` does not appear in these ten.
+AGES         0 self-reported ages, probed in BOTH forms: digit `-year-old` / `aged N` / `N years old`, and spelled-out
+             `he/she (twenty|thirty|forty|fifty|sixty) years`. **A span of years is permitted and an age is not.**
+             *sixty* at 459:179 was a future reference and was cut before this block was written; **there is no age of any form in these ten.**
+ARITHMETIC   Every printed interval derived TWICE and printed with its own operands. **NO MONTH TERM IN THESE
+             TEN PRINTS THIRTY-ONE. NO REAL-CALENDAR DERIVATION.**
+               451  130  = ten from twenty leaves ten, ten with thirty and thirty and thirty and thirty
+               452  131  = one hundred and thirty at the thirtieth, and one more
+               453  133  = ten from twenty leaves ten, ten with thirty and thirty and thirty and three
+               460  13 left in the quarter = thirty taken from seventeen, exclusive
+               457/459  four days of open spending = eleventh to the fifteenth; five days inclusive
+             **NO FLOOR IS PRINTED IN ANY CHAPTER OF 451–460.** `grep -c '8,1' chapters/volume-10/` returns 0.
+             8,147 and 8,131 were printed at 450 and belong to 450. **NO RUNNING BALANCE OF THE ACCOUNT IN
+             GRAINS APPEARS IN ANY OF THESE TEN.** The drain is hours, hands, seconds, and a woman counting.
+PARAGRAPHS   691 prose paragraphs across the ten. **0 over roughly 90 words. 0 over roughly 120.**
+             **QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD**, so no speech runs across a break.
+             **NO AUTOMATIC SPLITTER WAS RUN OVER PROSE.** Every long paragraph was split by hand at a beat and
+             the dialogue split points were placed between sentences, not inside a quotation.
+MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold spans 0** · italic pairs 3.
+             **SYSTEM PANELS: ONE IN TEN CHAPTERS**, `chapter-0459.md:77`,
+             `[Spending past the frame. It will not empty faster than a body can be finished.]`, on its own
+             line, in square brackets, never bold and never italic, in the one chapter that turns on it.
+             451, 452, 453, 454, 455, 456, 457, 458 and 460 carry none.
+DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten, then 11 and 8.
+               12-gram: 208 shared families. 11-gram: 258. 8-gram: 796.
+             **454 AND 459 ARE CLEAN AT TWELVE GRAMS AND CLEAN AT ELEVEN.** The FIRST WRITE OF 454 SHARED
+             FIVE 12-GRAM FAMILIES WITH 446 — *both hands into her hair and she had to stop*,
+             *put him back against the end of the table with her hands flat on the wood*, *said the hour out
+             loud before she did it*, *a moment longer than a woman who has just washed at a basin usually
+             stands*, and *pulled him in by the hip* — which is the one thing the card for 454 forbids. **ALL FIVE
+             WERE REWRITTEN.** 458's ledger recitation of 450 was also rewritten in his own words, which removed
+             29 families from that chapter.
+             **EVERY 12-GRAM FAMILY IN THE OTHER EIGHT CLASSIFIED BY HAND, AND EVERY ONE IS CANON TEXT THAT
+             MUST RECUR VERBATIM:** the requisition-age mnemonic (443–450 and 451–453, which is the book's own
+             sixteen-chapter refrain) · the description of premises 34-6-118 made against the head on the
+             morning of the twenty-seventh of October at about eleven by a clerk called Imrie on four words
+             (443, 446 and 451/452) · the thirty-eight words of the clause read aloud on the page (445 and 451/452) ·
+             the fourth part read out of a minute (446) · *a keeper is not a member of that room and a member's
+             chair is a member's chair* (447) · *the second chair on the left, four inches lower* (444) ·
+             *a member does not refuse his own seal when the room sits* (441) · *a doorway cannot be moved and
+             cannot be closed and cannot be got out of the way* (445) · *put it back in a drawer once it has gone
+             to the first one, six of those seven have a woman from your address* (444) · *the way a list is
+             made* (445) · *a division that does not sit in the Wing and keeps no list of addresses* (396, 442) ·
+             *a minute in a division carries an address and a clerk cannot sit on an absence* (425) ·
+             *a recusal is lifted by the subject and by nobody else and there is no sheet for lifting one* (424) ·
+             *the shape of something since the first of January* (412) · *the books that would take seven met at
+             seven on the morning of the sixteenth of November and have not moved* (384, 434) ·
+             Alma Quayle's *thirty years arranging to be the person who can finally say what a thing is* (306) ·
+             Beatrix Halm's handwriting and the ranks wall (450) · *a round writes a line when there is
+             something on it* (450). **NO NEW FAMILY WAS CREATED BY A REPAIR AND NO FAMILY WAS LEFT UNCLASSIFIED.**
+MARKS        `ink at the cuticles` is at FOUR in the book — 329, 340, 404 and 446 — and `grep -rio 'cuticles'
+             chapters/` returns **4**, all four of them those chapters. **THIS BATCH ADDS NONE.**
+             `grep -rio 'right temple' chapters/` returns **0 ACROSS ALL FOUR HUNDRED AND SIXTY CHAPTERS.**
+             **ADA'S GREY IS PRINTED WITHOUT A TEMPLE ON A SIDE, THROUGHOUT: *a grey on the side of her head*,
+             *on one side*, *above the ear*.** `left temple` remains 15 in the book and 458 adds none — the only
+             grey that chapter names on a side of a head belongs to Ada and it carries no temple.
+SCENE        454. **RECORDED SPAN 3,489 words**, being the body counted from the opening `##` to the closing `##`
+             exclusive of both. **LITERAL FIRST-##-TO-LAST-## SPAN 3,505 words**, inclusive of both bounding
+             headings. Ten section headings; the body runs across nine of them. **Both definitions are printed
+             beside the figure and the figure was taken by command.** **EXPLICIT-VOCABULARY PROBE (mouth · came ·
+             hip · thigh · come · inside · wet): 8 · 5 · 3 · 1 · 2 · 1 · 0.** A count is not a proof.
+             **THE AXIS IS TERMS, BROKEN BY THE ROOM'S OWN RULE AND NAMED BY NOBODY:** the rule on the wall says
+             the one reading may stop and the subject may not, and she stops, and then says a sentence that is
+             not in the return and has no date on it. **NO CHARACTER NAMES A SCENE, AN AXIS, A CHAPTER, A
+             VOLUME, A PAGE, A BOOK OR HER OWN PERFORMANCE, AND THE NARRATOR DOES NOT ADDRESS THE READER.**
+             Her marks are hers alone: **the grey at the left side of her head with the etches.** No ink this
+             chapter, because the ink is at its cap of four. Her wrist scar is not used. **No paper is read in
+             her rooms; the room is a public records room at the Ninth Terrace and she books it SHUT, which is
+             the opposite of what she did at 446 and is the price she pays.** It is one woman, one subject and a
+             report. There is no rail and no stranger.
+SETTLE       `grep -rio "settle" chapters/volume-10/` -> **0.**
+BANNED       his eyes widened 0 · he couldn't believe it 0 · suddenly 0 · little did he know 0 · there is no form 0 ·
+             there is no column 0 · the record remained 0 · nobody asked 0 · nobody was thanked 0.
+             `nobody` as a bare word runs 4 / 3 / 6 / 0 / 3 / 3 / 2 / 0 / 4 / 1 across the ten and three of the
+             four in 451 are 444's and 447's own canonical sentences. `there is no form` was avoided by
+             writing **sheet**, which is the word 424 and 442 use.
+CONTINUITY   No PC adopted, withdrawn or renumbered. `PC-44` holds (Dagmar Oyelowo has no gift and appears not
+             at all in these ten). `PC-47`, `PC-57`–`PC-60`, `PC-64`, `PC-69`, `PC-82`, `PC-84`, `PC-87`, `PC-89`
+             to `PC-93` all re-derive unchanged. **Four new PCs are PROPOSED in the same commit that wrote the
+             chapters that carry them and are named for their chapters in `state/continuity.md`.**
+             `outline/ending.md` IS UNTOUCHED. **NO NEW FINAL ENEMY.**
+```
+
+## FOUR THINGS THE CARDS GOT WRONG AND THE PAGE FIXED, RECORDED BECAUSE THEY ARE NOT ERRORS
+
+1. **`outline/volume-10.md` §8 PLACES FERRERA'S SENTENCE ABOUT THE ACCOUNT AT 451. IT IS AT 453.** 451 is the
+   sitting and there is no room in it for a woman two floors above to say what an account is, and the card for
+   453 forbids him from naming it and asks for the offer in her mouth. She says the fact of it in her own room
+   on the third of July, which is where the reader needs it. **THE SECTION NUMBER IN §8 IS WRONG AND THE CHAPTER
+   IS NOT. No canon moved and no beat was lost.**
+2. **`chapter-0416.md:83` AND THE CARD DISAGREE ABOUT HOW LONG ADA HAS BEEN COUNTING.** The page says
+   **since the autumn** and Isolde says **about six years** of her own counting. **The page wins: Ada has been
+   counting since the first of October and Isolde has been counting for six years, and the two of them have been
+   counting the same house in the same week for twenty-nine weeks without ever handing each other a figure.**
+   That is now the chapter's cost, and it is better than the card's.
+3. **THE BATCH CARD SAYS A CLOSED SITTING IS INES'S COST. THE SCENE WAS GOING TO BE A PUBLIC SITTING.** 446 was
+   a public application with four strangers at a rail. 454 is a **closed** sitting with a reason entered in a
+   day's book against it, and the reason is that the return is not yet filed, and the cost is that in four years
+   a stranger reads that line and works out what a rank-two auditor was frightened of. **Her June bought her a
+   book entry and her July costs her one.**
+4. **`outline/volume-10.md` §4 GIVES 454'S AXIS AS THE TERMS AND THE DEFAULT AS NOT NAMING IT. 453'S FIRST
+   DRAFT HAD A SECTION HEADED `## Terms` AND IT WAS RENAMED `## She Stops Reading In Order` BEFORE THIS BLOCK
+   WAS WRITTEN.** Naming the axis is what manufactures a fourth-wall break, and the 13 October review is right.
+
+## THE FIVE DEBTS ARE UNCHANGED AND NONE IS DESCRIBED AS ANYTHING BUT A DEBT
+
+1. **`PC-28`** — carried forward and not fixed, and **no chapter of 451–460 prints a figure from that section head.**
+2. **The 380-to-398 eighteen-chapter scene breach is in the book and is a debt.** **Volume 10's own count closes
+   at 8, 11, 9, 9, 11 on both the mixed and the explicit count, and 454 IS EIGHT CHAPTERS AFTER A SCENE.**
+3. **Batch 0004 of Volume 9's length** — a decision, taken twice, and not inherited.
+4. **`chapter-0403.md:9` prints a floor** — recorded, not repaired, and **not a precedent: Volume 10 prints no
+   floor in any chapter of 451–460 and 485 is the one that does.**
+5. **Nine unanchored intervals in Volume 9** — recorded as unverified, and **this batch printed no interval it
+   could not derive inside its own chapter.**
+
+## WHAT THE NEXT BATCH INHERITS, IN ONE PARAGRAPH
+
+**He has said yes to four seals to an offer whose condition he has not begun to pay. The requisition is carried
+and goes out weekly to a division that has had a name since the thirtieth of June. He has emptied nothing and
+spent his own chest doing it, and a woman at a counter in a hall with no door is grey on one side of her head
+and cannot remember three weeks. Eight women at Ferrier Street believe him. One woman in a room that does not
+count does not, and she cannot speak. A writer of a report that is true and useless has filed it. And in two
+days the hearing is called, and nobody in this book has yet been told what it is for.**
+
+---
+
 # VOLUME 9 — REVIEW REPAIR PASS, 13 OCTOBER 2026. **THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. CHAPTERS 401–450 ARE ON DISK, FIFTY FILES. VOLUME 9 IS CLOSED. THE NEXT PHASE IS `workspace/volume-10/volume-plan/PROMPT.md`, A PLANNING PHASE THAT WRITES NO PROSE.**
 
 > **READ THE HEAD OF THIS FILE BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS IT.**
