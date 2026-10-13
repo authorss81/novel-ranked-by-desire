@@ -1,6 +1,22 @@
-# VOLUME 11 BATCH 0001 — CHAPTERS 501–510 ARE ON DISK, TEN FINISHED FILES. THE FIRST OF FEBRUARY TO THE THIRTIETH OF SEPTEMBER OF YEAR ONE. **WRITTEN 13 OCTOBER 2026. THIS IS THE LIVE GATE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS THE CONTROLLER'S.**
+# VOLUME 11 BATCH 0001 — CHAPTERS 501–510 ARE ON DISK, TEN FINISHED FILES, REPAIRED 13 OCTOBER 2026. THE FIRST OF FEBRUARY TO THE THIRTIETH OF SEPTEMBER OF YEAR ONE. **WRITTEN 13 OCTOBER 2026. THIS IS THE LIVE GATE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. THE NEXT PHASE IS `workspace/volume-11/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 511–520.**
 
 > **READ THIS BLOCK BEFORE ANY OTHER FILE IN THE REPOSITORY. A FIGURE IN A GATE BLOCK IS A CLAIM AND A RE-RUN OUTRANKS THE RECORD. EVERY FIGURE BELOW WAS RE-RUN BY COMMAND AGAINST `chapters/volume-11/` AFTER THIS BATCH'S LAST EDIT TO THE PROSE, AND THE FIGURE RECORDED IS THE FIGURE THE COMMAND ACTUALLY PRINTED.**
+
+> **REPAIRED 13 OCTOBER 2026 AGAINST `logs/batch-0001.review.log`. TWELVE FINDINGS PLUS ONE FOUND DURING THE REPAIR ITSELF. TWELVE APPLIED IN FULL OR IN PART, ONE APPLIED TO `outline/volume-11.md`, ONE DECLINED WITH REASON. NO CHAPTER WAS RESTARTED, NO SCENE WAS REPLACED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED, AND THE PLOT IS AS PLANNED. THE BANK IS 24,097 AND WAS 24,112; THE PER-FILE FIGURES THAT MOVED ARE 502 2,504→**2,510**, 505 3,840→**3,844**, 506 2,345→**2,339**, 507 2,239→**2,214**, 508 1,978→**1,984**. THE MEAN IS 2,410.**
+>
+> 1. **THE ARITHMETIC GATE AT 507 WAS WRONG AND THE PROSE WAS WRONG WITH IT.** `chapter-0507.md` PRINTED **268 MORNINGS ON THE THIRTIETH OF MARCH** AND PRINTED 509'S OPERAND STRING WITH IT. 268 IS THE THIRTIETH OF JUNE. **IT IS 178 = 28 + 30 x 5**, AND 178 = 59 + 119 ON THE DAY-NUMBER CHAIN BENEATH. THE CHAPTER ALSO SAID *ONE HUNDRED AND TWENTY MORNINGS* FIFTY-FOUR LINES LATER AND DID NOT NOTICE THE CONTRADICTION WITH ITSELF. BOTH ARE REPAIRED; **509 IS CORRECT AT 268 AND WAS NOT TOUCHED.**
+> 2. **`PC-116` PROPAGATED 507'S FIGURE AND HAS BEEN REPAIRED.** See `state/continuity.md`.
+> 3. **`chapter-0507.md` SAID *ABOUT NINE HUNDRED PEOPLE WENT UNDER A WALL* IN ITS LAST PARAGRAPH.** CANON AND THIS BATCH'S OWN SIX OTHER USES ARE **NINE THOUSAND**. REPAIRED.
+> 4. **`chapter-0507.md` OPENED WITH A SENTENCE TWICE.** Line 3 ended mid-clause on *a sheet of foolscap on the table beside the book* and line 5 opened on it. REPAIRED; THE OPENING IMAGE IS NOW ONE CLAUSE LONG AND IS NOT REPEATED.
+> 5. **`chapter-0507.md` CALLED THE HUNDRED AND TWENTY-FIRST BLOCK *THE RETURN OF THE FIRST OF JANUARY*.** IT IS THE RETURN OF THE THIRTIETH OF MARCH. REPAIRED.
+> 6. **`chapter-0507.md` SAID *SHE WRITES IT IN FOUR WORDS* AGAINST ITS OWN TITLE, ITS OWN LINE 17 AND ITS OWN LINES 95, 99, 115, 117 AND 147.** SIX, AND IT WAS RE-SET. THE SAME CHAPTER'S *FOUR TIMES A QUARTER, TWICE A YEAR, NINE YEARS* WAS ALSO INCOHERENT AND IS NOW **FOUR TIMES A YEAR, NINE YEARS**, WHICH IS THE TALLY OF WHAT THE KEEPER MEANS.
+> 7. **`chapter-0505.md` SPENT THE INK-UNDER-THE-READER'S-NOSE CONSTRUCTION TWICE, WHICH `outline/volume-11.md` §4a FORBIDS AFTER 329, 340, 404 AND 446.** BOTH WERE STRUCK. THE SETUP AT :19 IS NOW CRACKED JOINTS AND A NIB STRIPE, WHICH IS A DIFFERENT FACT ABOUT DIFFERENT FINGERS, AND THE SCENE AT :169 IS NOW ONLY HER HAND BEING COLD. **THE BOOK IS BACK ON FOUR.**
+> 8. **`chapter-0506.md` HAD THE TENANT TELL THE LANDLORD'S TENANT WHAT THE COUNTER SAID, WHICH MEANS SHE TOLD HERSELF, AND THEN WENT TO THE LANDLORD AS A SEPARATE ERRAND.** A DRAFT ARTEFACT. REPAIRED: SHE GOES HOME AND ASKS HERSELF THE QUESTION, AND THE CLIMB TO THE LANDLARD'S IS NOW STATED AS THE CLIMB.
+> 9. **`chapter-0502.md` HAD A LINE THAT SAID *I DID NOT COUNT THAT ONE* IMMEDIATELY BEFORE THE SAME MAN SAID HE COUNTED IT AND GOT IT TWICE.** REPAIRED INTO THE QUESTION THAT LINE WAS TRYING TO ASK: HOW DO YOU GET A FIGURE FOR PEOPLE WHO ARE STANDING STILL. THE TWO-INDEPENDENT-COUNTERS BEAT IS UNCHANGED AND IS NOW SET UP BY THE QUESTION RATHER THAN CONTRADICTED BY IT.
+> 10. **`chapter-0508.md` JUMPED FROM THE SIXTEENTH OF APRIL TO THE NINETEENTH WITHOUT A BEAT.** NOW *THREE DAYS LATER, ON THE NINETEENTH OF APRIL*. AND ITS *PAGE OF ABOUT FOUR HUNDRED LINES* IS GONE, BECAUSE THAT FIGURE IS BEATRIX HALM'S TURNED COUNT AND IS PRINTED TWICE ELSEWHERE IN THIS BATCH; THE PAGE NOW RUNS PAST HIS OWN LINE TWICE IN A QUARTER, WHICH IS THE CHAPTER'S OWN POINT.
+> 11. **REPETITION PRESSURE, APPLIED IN PART ONLY.** *FOUR HUNDRED* CARRIES FOUR SEPARATE CANON-ANCHORED REFERENTS AND THREE OF THEM ARE FIXED BY `PC-117` AND BY `chapter-0500.md`: THE TILE'S TOTAL AT 501 AND 505, AND THE TURNED LINES AT 505:219 AND 510:23. **ONLY THE ONE NEW AND NON-CANON COLLISION, 508:9, WAS RE-SET.** THE *ABOUT NINE THOUSAND PEOPLE* FIGURE IS NOW NINE USES AND IS CANON AT `chapter-0489.md:21`; IT IS THE WALL'S DAILY RATE AND IT IS LOAD-BEARING AT 502, 503, 505 AND 509 AND WAS LEFT WHERE IT IS.
+> 12. **ONE FINDING THE REVIEW DID NOT CATCH, FOUND WHILE RE-DERIVING THE SPINE FOR THE NEXT BATCH, AND APPLIED TO `outline/volume-11.md` §5a.** THAT LINE PRINTED *"21 Jan, year two … **two days** after the thirtieth of December of year one"* AND *"the thirtieth of March of year two falls **a month** after that"*. **A JANUARY IS THIRTY DAYS IN THIS WORLD AND THE TWENTY-FIRST IS THE TWENTY-FIRST OF IT: THE GAPS ARE `350 − 329 = 21`, `360 − 350 = 10` AND `419 − 350 = 69`. THE FIRST IS WRONG BY NINETEEN. THE SPINE AT 350 WAS ALWAYS RIGHT AND ONLY THE PROSE AROUND IT WAS WRONG. CORRECTED IN PLACE WITH THE OPERANDS. NO CHAPTER CARRIES THE BAD FIGURE, BECAUSE NO CHAPTER OF 501–550 REACHES IT YET.**
+> 13. **NO NEXT BATCH DIRECTORY EXISTED AFTER THE WRITER PHASE.** `workspace/volume-11/` HELD ONLY `batch-0001/`, `outline/batches/` HELD ONLY `volume-11-batch-0001.md`, AND THE STATE BLOCK SAID *THE NEXT PHASE IS THE CONTROLLER'S* — BUT `outline/volume-11.md` HAS FORTY CHAPTERS LEFT AND `AGENTS.md` REQUIRES THE BATCH PHASE TO CREATE EXACTLY ONE NEXT BATCH DIRECTORY AND WRITE ITS PROMPT. **IT WAS MISSING AND IT WOULD HAVE STALLED THE SELF-DISPATCH WORKFLOW.** `workspace/volume-11/batch-0002/PROMPT.md` NOW EXISTS AND CARRIES CHAPTERS 511–520, MOVEMENT TWO, DEFINED: ten dates with spine days and lane mornings derived and printed, the scene budget for Tessa Okonkwo at 515 with the in-band ten and the not-in-band thirty-two both stated, the ten cards, the ten titles checked against all 510 written title lines, the register that may not open, and the irreversible decision at 518. **NO PHASE WAS CREATED BEYOND THAT ONE.**
 
 ## WHAT THIS BATCH DID, IN TEN LINES
 
@@ -27,13 +43,13 @@ TITLES       510 title lines, 510 distinct, `sort | uniq -d` EMPTY. **The ten of
                509 (30) · 510 (28)
              Word counts by command: (6, 5, 5, 5, 5, 6, 6, 5, 5, 5). None begins with *What*. None is built out
              of *nothing* / *nobody* / *there is no*.
-BANK         **24,112 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
-              501 2,210 · 502 2,504 · 503 2,469 · **504 2,153** · **505 3,840** · 506 2,345 · 507 2,239 ·
-              **508 1,978** · **509 2,163** · **510 2,211**.
+BANK         **24,097 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+              501 2,210 · 502 2,510 · 503 2,469 · **504 2,153** · **505 3,844** · 506 2,339 · 507 2,214 ·
+              **508 1,984** · **509 2,163** · **510 2,211**.
              **505 LEAVES THE 1,800–2,700 BAND AND SAYS WHY: it is Volume 11's first scene, it is eleven
              chapters after 494, it carries the batch's only confession and its only unanswered question, and
-             it is written out.** 508 (1,978) and 509 (2,163) are short and are meant to be: a public desk and
-             a keeper's six words, and nine slates that do not agree. **THE BATCH MEAN IS 2,411.**
+             it is written out.** 508 (1,984) and 509 (2,163) are short and are meant to be: a public desk and
+             a keeper's six words, and nine slates that do not agree. **THE BATCH MEAN IS 2,410.**
 META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume |
              no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ |
              chapter [0-9]+`. Swept across all ten files and read hit by hit. **ZERO HITS IN TEN FILES**,
@@ -58,9 +74,9 @@ ARITHMETIC   **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. NO REAL-CALENDAR 
                LANE, opened the evening of 2 Oct, first morning 3 Oct — 28 days left in October including the
                third, and 30 to the month:
                  501 **119** = 28 + 30 + 30 + 30 + 1   ·  502 **127** = 28 + 30 + 30 + 30 + 9
-                 503 **136** = 28 + 30 + 30 + 30 + 18  ·  504 **146** = 28 + 30 + 30 + 30 + 28
-                 507 **268** = 28 + 30 x 8             ·  509 **268** = 28 + 30 x 8
-                 510 **358** = 28 + 30 x 11, and three days short of a year
+503 **136** = 28 + 30 + 30 + 30 + 18  ·  504 **146** = 28 + 30 + 30 + 30 + 28
+                  507 **178** = 28 + 30 x 5             ·  509 **268** = 28 + 30 x 8
+                  510 **358** = 28 + 30 x 11, and three days short of a year
                THE ROTA, 501: **eleven weeks and three days**, anchored on `chapter-0500.md:21`'s eleven weeks
                  on the twenty-eighth of January plus three days to the first of February.
                506: **thirteen days**, the second of March to the fifteenth of March.
@@ -94,11 +110,21 @@ MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **b
              panels stand at two in fifty chapters, this batch's budget is one, and none was spent, because the
              reservoir has nothing left to report and the book is past its System.
 DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten, on the normalised token
-             method WITH a PARAGRAPH-BREAK SENTINEL, then 11 and 8.
-             **12-gram: 222 distinct cross-chapter families from this batch · 11-gram: 296 · 8-gram: 904.**
-             **BY FILE AT 12, AFTER REPAIR:** 501 24 · 502 22 · 503 18 · 504 28 · **505 7** · 506 11 ·
-             507 11 · **508 56** · 509 24 · 510 21.
-             **THE REPAIR PASS TOOK THE 12-GRAM FIGURE FROM 374 TO 222 AND ADDED NONE.** **THE SCENE BORROW
+             method WITH A PARAGRAPH-BREAK SENTINEL, then 11 and 8. **RE-RUN BY COMMAND ON 13 OCTOBER 2026
+             AFTER THE REVIEW REPAIR, AGAINST ALL 510 WRITTEN CHAPTERS. A GATE RECORD IS A CLAIM AND THE
+             RE-RUN OUTRANKS IT: THE FIGURES BELOW ARE THE RE-RUN'S AND THEY ARE NOT IDENTICAL TO THE
+             FIGURES THE WRITER PHASE RECORDED.**
+             **12-gram: 152 distinct cross-chapter families from this batch · 11-gram: 202 · 8-gram: 667.
+             THE PRE-REPAIR ROW RECORDED 222 / 296 / 904 AND WAS A COUNT OF SOMETHING ELSE; IT IS
+             WITHDRAWN, NOT REPLACED WITH A SOFTER VERSION OF ITSELF.**
+             **BY FILE AT 12, RE-RUN AFTER THE REPAIR:** 501 22 · 502 22 · 503 18 · 504 28 · **505 7** ·
+             506 11 · 507 12 · **508 56** · 509 26 · 510 21.
+             **THE REPAIR TOOK 507 FROM 11 TO 12 AND ADDED EXACTLY ONE FAMILY, WHICH IS THE LANE'S OWN
+             OPERAND STRING NOW THAT 507 AND 509 PRINT THE SAME PREFIX: *twenty-eight days left in October
+             including the third, and thirty each of November, December, January, February*. IT IS THE RUN
+             THE ARITHMETIC RULE REQUIRES ON THE PAGE AND IT IS CLASSIFIED BELOW. 505 IS STILL AT 7 AND THE
+             SCENE BORROW CHECK BELOW IS UNCHANGED.**
+             **THE SCENE BORROW
              CHECK HOLDS AND IS A CHECK A SCAN CANNOT MAKE: 505'S 7 TWELVE-GRAMS ARE ONE WOMAN QUOTING THE
              WOMAN IN THE SHAWL AT 504, THE *STRANGER WITH A FOLDER* CONSTRUCTION, AND A COINCIDENCE WITH 474,
              AND NONE OF THEM IS A BODY. STAGED FROM NOTHING — CORRIDOR, COUNTER THAT SHUTS AT FOUR, BUNDLE,
@@ -117,7 +143,9 @@ DUPLICATION  12-gram FIRST against every chapter in the book INCLUDING these ten
              column (492) · *not to be right, to be there on an ordinary morning with a counter open and a clerk
              who may only enter*, which is Adeyemi quoting Lin Hao's own sentence off the tenth of October
              (493) · *in my own division, in my own hand, under my own name* (411, 433, 496) · Sun Meiling's line
-             of work across the top of her spine (358) · **Runa Sato's own sentence of the second of October
+             of work across the top of her spine (358) · **the one family the repair added, the lane's own
+             operand prefix shared by 501, 502, 507 and 509, which is the arithmetic rule being obeyed and not
+             a borrow** · **Runa Sato's own sentence of the second of October
              (487), which 503 re-prises and marks as a re-prise** · **the lane's own operands, printed six
              times because the arithmetic rule requires them on the page** · **the office's boilerplate with an
              address at the head of every line, which is how a standing sheet works** · and **the two sentences
@@ -158,7 +186,7 @@ CONTINUITY   **No PC adopted, withdrawn or renumbered. `PC-113` IS NOT RENUMBERE
              repainting comes and goes and takes nothing with it. `PC-112` is not opened. `PC-113` is inherited
              whole and the account is referred to and never figured. **`PC-114` TO `PC-117` ARE PROPOSED BY THIS
              BATCH AND ARE ON THE PAGE: Emil Brack named at 502 · the Register named at 501 with the title
-             Adeyemi's and the question put to Lin Hao · the lane's age at 119/127/136/146/268/358 · the white
+             Adeyemi's and the question put to Lin Hao · the lane's age at 119/127/136/146/178/268/358 · the white
              tile's four hundred as a total with its anchor and the six words coming off the slate.** The full
              table is at the head of `state/continuity.md`. **The clause of thirty-eight words is not lifted and
              is not re-written, and 505 says out loud that nothing that night names an address. Alma Quayle's
@@ -265,8 +293,8 @@ LANE AND TILE, both re-run 13 Oct 2026 against the page
   lane opened evening of 2 Oct y0 = day -119; 1 Feb y1 is 111 days after the
     tenth of October sitting, so 2 Oct = -111 - 8 = -119
     502 day 8 -> 127 mornings · 503 day 17 -> 136 · 504 day 27 -> 146
-    509 day 149 -> 268 · 510 day 239 -> 358, three days short of the first
-    anniversary on 3 Oct of year one (day 242)
+    507 day 59 -> 178 · 509 day 149 -> 268 · 510 day 239 -> 358, three days
+    short of the first anniversary on 3 Oct of year one (day 242)
     => the lane is NOT four hundred mornings old at any chapter of this volume
   white tile, chapter-0500.md:35: "about four hundred people have gone past him
     doing it" — a TOTAL. chapter-0489.md:21: about NINE THOUSAND people under

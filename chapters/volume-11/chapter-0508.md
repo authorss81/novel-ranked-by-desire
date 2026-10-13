@@ -6,7 +6,7 @@ Three things had happened on that page since the twenty-eighth of January and he
 
 Reading a standing sheet is not reading a document.
 
-It is standing at a public desk on a working afternoon with about nine people behind you who are not reading it, and turning a page of about four hundred lines in which every line begins with an address and about one line in nine is about a person, and finding the two or three that are about you, and going back to the top of your own line afterwards to see whether it says the same thing it said the last time you stood here.
+It is standing at a public desk on a working afternoon with about nine people behind you who are not reading it, and turning a page of lines that runs past your own twice in a quarter, every line beginning with an address, and about one line in nine about a person, and finding the two or three that are about you, and going back to the top of your own line afterwards to see whether it says the same thing it said the last time you stood here.
 
 ## The Line That Was There Before
 
@@ -64,7 +64,7 @@ Underneath the one, in the same hand, the Registrar had put a second sentence, a
 
 ## How One Got In
 
-He found out on the nineteenth of April, in a corridor, from a man with a title.
+He found out three days later, on the nineteenth of April, in a corridor, from a man with a title.
 
 "He came to me on the second of March," said Yusuf Adeyemi, "which was the day after you came out of a lane off Cordwain at about one in the morning, and he came on his own feet, and nobody sent him."
 

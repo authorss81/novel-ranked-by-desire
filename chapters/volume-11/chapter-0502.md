@@ -100,7 +100,7 @@ He was at the north end of the Reading from about six in the morning on the firs
 
 "And four hundred."
 
-"Four hundred is a person in a line and I have got that to the head, because I did not count that one."
+"How have you got a figure for people who are standing still. Standing still is not a line. It is a crowd with a reason for being in it."
 
 "I counted the people who stood still on those four days by watching the two of us do it," said Emil Brack, "and a woman with a notebook was watching them too, from the other end, on about the same days, and she has four hundred and something and I have four hundred and something, and neither of us can see the other's sheet, and that is the only thing either of us has that is worth having."
 

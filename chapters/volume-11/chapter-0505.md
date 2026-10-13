@@ -16,7 +16,7 @@ She had a coat on over her working clothes and the lamp was on the counter and n
 
 "Then you have two hours and twenty minutes and I am going to use about ninety of them and I am going to tell you when."
 
-She did not turn the sheet round. She had it square to herself with the top edge level with the lamp and her two fingers flat on the margin at the top, and the fingers on that hand had ink in the first two nails and the ink has been in them for eleven years and no soap in this city lifts it.
+She did not turn the sheet round. She had it square to herself with the top edge level with the lamp and her two fingers flat on the margin at the top, and the fingers on that hand are cracked across the first joints the way hands are in this building in February, and there is a stripe down the outside of the second one where a nib has sat every working day for eleven years.
 
 ## The Rule Of The Room
 
@@ -166,7 +166,7 @@ She is not a soft woman and she has not been one since about the second of July,
 
 She wanted him and she said so in about nine words, standing at the counter with her back to the lamp, and he said yes, and she did not wait for a second one.
 
-Her mouth was on his throat and then on the place under his jaw where it hurts when he has been carrying water, and her fingers had ink in the first two nails and they were cold and they were very quick and they knew in about two seconds where the cough lives, the same way a hand that has known a thing knows it.
+Her mouth was on his throat and then on the place under his jaw where it hurts when he has been carrying water, and her fingers were cold and they were very quick and they knew in about two seconds where the cough lives, the same way a hand that has known a thing knows it.
 
 There is a grey at her left temple with the etches in it that has been there since the summer of the second year and it does not move when she is angry and it does not move when she is not, and he put his mouth on it once, without meaning to, about a third of the way through, and she let him and neither of them said anything about it then or afterwards.
 

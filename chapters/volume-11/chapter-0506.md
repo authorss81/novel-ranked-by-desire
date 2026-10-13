@@ -106,11 +106,11 @@ She wrote nothing. There was a sheet in front of her and she turned it a half in
 
 The woman put the foolscap back in the front of her coat when she left, and she did not go up the hill.
 
-She went back down to the room over the laundry and she told the landlord's tenant what the counter had said, and the tenant asked her the question that everybody asks, which is what she was going to do now, and the woman said that she did not know and that not knowing was now the official position of a public counter in this city.
+She went back down to the room over the laundry and she sat down on the edge of the bed with the foolscap in her lap and asked herself the question that everybody asks, and could not answer it, and found that not knowing was now the official position of a public counter in this city.
 
 Then she did the thing that made Lin Hao follow her four streets up the hill and stand in a corridor for about nine minutes.
 
-She went to the landlord and told him the slate figure was nine hundred and forty and that the wall said seven hundred and six, and that a public counter had said it could not say which was right.
+She went up two flights to the landlord and told him the slate figure was nine hundred and forty and that the wall said seven hundred and six, and that a public counter had said it could not say which was right.
 
 And the landlord said: "Then I shall carry on at nine hundred and forty," and she said: "You may carry on at whatever you like. I have just told you that there is an office in this city that has been asked which one is right and has written on a sheet that it cannot find out."
 

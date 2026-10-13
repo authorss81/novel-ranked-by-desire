@@ -1,8 +1,8 @@
 # Six Words In Her Own Hand
 
-The counting room was two floors under a sales floor and at about half past four on the afternoon of the thirtieth of March Hanneke Ruis had the fifth book open in front of her and the lamp on a stand and a strap across it, and she had a sheet of foolscap on the table beside the book
+The counting room was two floors under a sales floor and at about half past four on the afternoon of the thirtieth of March Hanneke Ruis had the fifth book open in front of her and the lamp on a stand and a strap across it.
 
-And she had a sheet of foolscap on the table beside the book with nothing on it yet, because the fourth block is the composition of the street and the street is Cordwain and Cordwain is not a figure and it comes out of her.
+The sheet of foolscap on the table beside the book had nothing on it yet, because the fourth block is the composition of the street and the street is Cordwain and Cordwain is not a figure and it comes out of her.
 
 Four times a year for thirty years. Four and thirty is one hundred and twenty, and the hundred and twenty-first block was on the foolscap at half past four that afternoon.
 
@@ -24,7 +24,7 @@ She had got as far as the address when the stair door opened.
 
 Four times a year for thirty years, and the composition of a street is the one line on that foolscap she has never once been able to write without standing up first, because it is about nine hundred premises and the floor has one woman on it and a lamp, and she writes it in the third week of the quarter from what is in her head, and the head is thirty years deep and it is not a number, it is a street.
 
-She writes it in four words and then she looks at it for a while, and then she signs it.
+She writes it in six words and then she looks at it for a while, and then she signs it.
 
 ## The Man At The Door
 
@@ -46,7 +46,7 @@ He put the slate on the table.
 
 It had on it a figure of merit in four-inch chalk against a premises on the Cordwain side, and against about forty others in a column going down the edge, and at the bottom of the column in small writing the word OPEN and a time.
 
-"Two hundred and sixty-eight mornings," he said. "Twenty-eight days left in October including the third, thirty each of November, December and January, February, March, April and May, and thirty days of June. I do the sum on a card and I have never once got it wrong and I would like you to check it, because you are the first person in four months who has ever been in a position to."
+"One hundred and seventy-eight mornings," he said. "Twenty-eight days left in October including the third, and thirty each of November, December, January, February and March. I do the sum on a card and I have never once got it wrong and I would like you to check it, because you are the first person in four months who has ever been in a position to."
 
 Hanneke Ruis looked at the slate for about nine seconds.
 
@@ -100,7 +100,7 @@ She read them off the page and did not look up.
 
 Emil Brack looked at the page for a while.
 
-"Then you are the same as me," he said, "and you have been it for four and thirty years, and I have been it for one hundred and twenty mornings."
+"Then you are the same as me," he said, "and you have been it for four and thirty years, and I have been it for one hundred and seventy-eight mornings."
 
 "Yes."
 
@@ -130,18 +130,18 @@ She read the page from about a foot behind the keeper's shoulder for a minute an
 
 She has a folder under her arm with a docket in it that has been under her arm since the first of January and there is a line of work across the top of her spine where a folder has sat for eleven years.
 
-She has never once been asked about the docket, and on the thirtieth of March a man in a delivery coat stood four feet from her for about ninety seconds and did not know she was there at all, which is the fourth time and the first time it has been by accident.
+She has never once been asked about the docket, and on the thirtieth of March a man in a delivery coat stood four feet from her with his back to her and did not know she was there at all, which is the fourth time and the first time it has been by accident.
 
 Not one of them asked her one question.
 
 It is the fourth time, and at about twenty past four she gathered the docket and went up without the two words that would normally come with going up, and Hanneke Ruis noticed the absence of them.
 
-"That is four quarters this year," she said, to the middle of her own table. "Four times a quarter, twice a year, nine years, and I have never asked her one, and I did not decide that this morning, and I have never once found out who did."
+"That is four quarters this year," she said, to the middle of her own table. "Four times a year, nine years, and I have never asked her one, and I did not decide that this morning, and I have never once found out who did."
 
 ## The Sixth Line
 
-At about half past five the man in the delivery coat carried the slate out through a door with a lock on the inside of it and went up two flights and out into a street where about nine hundred people went under a wall every day.
+At about half past five the man in the delivery coat carried the slate out through a door with a lock on the inside of it and went up two flights and out into a street where about nine thousand people went under a wall every day.
 
-And in a room two floors under a sales floor a keeper turned her lamp off and then back on again, because the room needed it, and the hundred and twenty-first block of the return of the first of January was finished and signed.
+And in a room two floors under a sales floor a keeper turned her lamp off and then back on again, because the room needed it, and the hundred and twenty-first block of the return of the thirtieth of March was finished and signed.
 
 Six words of it were in her own hand under her own name with nothing whatever behind them, and one of them is going to end up in chalk on a slate in Cordwain, and neither of the two women who will see it there is going to be told that it came from this table.

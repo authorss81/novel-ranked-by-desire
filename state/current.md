@@ -1,8 +1,10 @@
-# VOLUME 11 BATCH 0001 IS WRITTEN. CHAPTERS 501–510 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 24,112 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 11 BATCH 0001 IS WRITTEN. CHAPTERS 501–510 ARE ON DISK. **WRITTEN 13 OCTOBER 2026. TEN FINISHED FILES, 24,097 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.
 
 **MOVEMENT ONE, CHALKED, IS WRITTEN AND CLOSED ON THE PAGE AT 510. IT DELIVERED THE TITLE, THE MAN, THE LANE, THE KEEPER, THE FIRST ENTRY AND THE FIRST IRREVERSIBLE DECISION. IT DELIVERED NONE OF THE DEFINITION, WHICH IS 519.**
+
+**REVIEW REPAIR PASS, 13 OCTOBER 2026, AGAINST `logs/batch-0001.review.log`. TWELVE FINDINGS PLUS ONE FOUND DURING THE REPAIR. TWELVE APPLIED IN FULL OR IN PART. NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT MOVED, NO TITLE CHANGED, PLOT AS PLANNED.** The finding-by-finding record is at the head of `state/open-threads.md` and the canon table is repaired in `state/continuity.md`. **WHAT A WRITER MUST KNOW:** the lane's age at 507 was **three months out** and is now **178**, not 268; the ink construction is back to four in the whole book after two were struck from 505; 506's tenant no longer tells herself what the counter said; 502's four hundred is now a question instead of a contradiction; 508 has a beat for the three-day jump and no longer reprints the turned count. **WHAT DID NOT MOVE:** the refusal at 510, the tile's four hundred, the turned lines, the nine thousand under the wall, and every title. **THE NEXT PHASE IS `workspace/volume-11/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 511–520, MOVEMENT TWO, DEFINED. IT DID NOT EXIST AND THE REVIEW CREATED IT.**
 
 ## 0. WHERE THE MAN STANDS AT CHAPTER 511, IN ONE PARAGRAPH, FROM THE PAGE
 
@@ -33,7 +35,7 @@ Four months after the wall was repainted, and a hundred and twenty-one days afte
 
 ## 4. THE FOUR PROPOSALS, AND WHERE THEY ARE
 
-`PC-114` Emil Brack named at 502 · `PC-115` the Register of Unrecorded Merit named at 501 with the title Adeyemi's and the question put to Lin Hao · `PC-116` the lane's age at 119 · 127 · 136 · 146 · 268 · 358 mornings, each derived in its own chapter · `PC-117` the white tile's four hundred as a total with its anchor, and the six words off the a slate. **All four are PROPOSED, all four are on the page, `PC-113` is not renumbered and nothing below it moved.** The full table is at the head of `state/continuity.md`.
+`PC-114` Emil Brack named at 502 · `PC-115` the Register of Unrecorded Merit named at 501 with the title Adeyemi's and the question put to Lin Hao · `PC-116` the lane's age at 119 · 127 · 136 · 146 · 178 · 268 · 358 mornings, each derived in its own chapter · `PC-117` the white tile's four hundred as a total with its anchor, and the six words off the a slate. **All four are PROPOSED, all four are on the page, `PC-113` is not renumbered and nothing below it moved.** The full table is at the head of `state/continuity.md`.
 
 **AND THE DISCREPANCY AT `chapter-0500.md:65` IS CARRIED AND NOT REPAIRED.** No chapter of 501–510 prints that interval or derives anything from it.
 
