@@ -163,7 +163,7 @@ answer takes the better answer and rewrites this file in the same commit.**
    professional discipline; ground, hand, name-exchange and aftermath fresh against all twenty-four
    scenes before it (not a collecting room, not a wall at night, not a coat left, not a document read
    aloud as a stranger reads it); may not reuse 228's night wall or 214's bolted table in any element.
-5. **The Auditor Walks Out — 241–250. NOT WRITTEN.** **Ch 246 is fixed by `outline/series.md`: INES
+5. **The Auditor Walks Out — 241–250. WRITTEN.** Mark in at nine on the first, Petra at ten to nine, two hearings, board repainted. Ch 241 Agnete (2717 words, second reading room, one true sentence). Ch 243 keeps the account live past the fourth, the irreversible decision. Fourth quiet. Ch 246 Ines files true and walks out of a flat she is still in, Thursday. Ch 249 fifth scene at Lantern Row (2612 words, gap eight). Five debts stand with the pricer out. **Ch 246 is fixed by `outline/series.md`: INES
    DUARTE LEAVES. Not a death, not a betrayal. She files a report that is true and walks out of a flat
    she is still in.** Ch 241 (Agnete) and Ch 249 (the fifth scene: the true report, filed, and the flat
    she is still in) are Volume 5's and may move one chapter only. **Nothing written in 231–240 may make

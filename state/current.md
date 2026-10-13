@@ -21,6 +21,16 @@ up (26th), the certificate is dated and received (27th–28th). Volume 5, Batch 
 Lindqvist's scene. Ch 246 is INES DUARTE LEAVING.**
 
 ---
+# VOLUME 5, BATCH 0005 — HEAD RECORD. CHAPTERS 241–250. THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.
+
+**Ten chapters, one a day from the first to the tenth of July. This batch settles what 230/233 set: the valuation on the first with the hundred and thirty-third mark in at nine in ink in the broker's own hand (Petra at ten to nine with the bundle), two hearings on the morning of the first, side board repainted by the monthly crew, dead list quiet on the fourth. Ch 241 is AGNETE LINDQVIST'S SCENE (2,717 words, reason: valuation plus hearings plus repaint plus questioning plus scene in one day). Ch 246 is INES DUARTE LEAVING: true report filed, walks out of a flat she is still in. Ch 249 is the fifth scene (2,612 words, Lantern Row, gap 241 to 249 eight). No sixty-count countdown printed; that arithmetic finished with 63 at the thirtieth.**
+
+**THE IRREVERSIBLE DECISION IS CH 243 AND IT IS HIS.** At the north desk he tells Marguerite to keep the thirty-year account live and acknowledges the valuation. The option that closes is letting the fourth free the plate, un-encumber Beatrix, and lift the guild tail at once. Cost: plate stays lodged, securities stay, Beatrix stays encumbered another year.
+
+**POSITION AT THE CLOSE:** plate 8,138, floor 8,141, tolerance three. Ledger 118 lines, nine turned, the ninth still himself. Nothing spent. File 4,112, one folio open, no second. Zero system panels. Seven women on the cut roll (six addresses at Ferrier Street, six notebooks, seventh row pencil sewn twenty-two stitches, one notebook shut in an empty room); Petra on no roll; Wren on nothing, eighth partner, finding sixteen days on Hadewig's desk unacted; Agnete on no list, door open, visible once by choice; Ines out of the flat and still in it on paper with a true document behind her. July Thursdays derived from June 29th: the 6th (246, repaints); the first is the monthly repaint, different crew different shade. Thursday named 9 times, no other weekday. Five debts stand; the pricer is out.
+
+---
+
 
 # VOLUME 5, BATCH 0004 — HEAD RECORD. CHAPTERS 231–240. THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.
 

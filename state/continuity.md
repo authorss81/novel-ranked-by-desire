@@ -1,5 +1,12 @@
 # Continuity
 
+## Volume 5, Batch 0005 — CLOSED (Chapters 241–250). **THE FIRST OF JULY AND AFTER. VOLUME 5 CLOSED IN PROSE.**
+
+**Ten chapters, one a day July 1–10. 241 Agnete's scene (second reading room, certificate in next house, one true sentence voluntarily, shut door by her hand, 2,717 words). First: mark in at nine, Petra ten to nine, two hearings, monthly repaint. Third: he keeps the account live (irreversible). Fourth: dead list quiet. Sixth, Thursday: Ines files eleven minutes true and walks out of a flat she is still in. Ninth: fifth scene at Lantern Row (2,612 words). Tenth: five debts priced, pricer out. Calendar: July Thursdays from June 29th are 6/13/20/27; only the 6th falls in batch and repaints; the first is monthly, different crew shade. Thursday 9 times (244x1, 245x2, 246x4, 248x2); 241's 12-gram scene scan vs 24 earlier scenes zero; 249 zero. Nobody-ration one (242). No other weekday. Paras over 90 zero after split pass; sentences lost zero (splits only). Figures unchanged; zero panels.**
+
+---
+
+
 ## Volume 5, Batch 0004 — CLOSED (Chapters 231–240). **THE TWENTY-SIXTH AND THE TWENTY-SEVENTH.** BOTH DATES ARE ON THE PAGE.
 
 > **REPAIRED ON INDEPENDENT REVIEW — READ THIS BEFORE INHERITING ANYTHING BELOW.** An independent

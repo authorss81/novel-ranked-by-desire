@@ -1,0 +1,3 @@
+# Prompt — Volume 5 Close (after Ch 250): The Auditor's Price
+
+Volume 5 is closed in prose at Chapter 250. Do not write chapters. Verify: all 50 chapters exist as finished prose; Ch 241 Agnete scene and Ch 249 fifth scene staged fresh with zero 12-gram vs earlier scenes; Ch 246 Ines leaves as true report plus walkout; valuation/hearings/repaint/dead-list predictions paid; irreversible decisions at 217/224/238/243; five debts stand with pricer out; state, summaries, continuity, review updated; no Volume 6 chapters written. Then open Volume 6 Batch 0001 per series outline (broker's terms, invoicing) with its own prompt. Create nothing else.

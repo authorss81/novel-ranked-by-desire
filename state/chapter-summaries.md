@@ -1371,3 +1371,23 @@ cannot be seen. Tessa carries her clinic into the returned lines and asks that h
 remembered on the sixteenth and not worked out in a corridor later. Runa will not separate herself
 from the household's standing. Agnete: a door that stays open is not a door that hides; it has not yet
 been asked to shut. The house eats bread. The question waits behind an open door.
+
+**241 The Second Reading Room.** The first of July. Valuation at nine with the hundred and thirty-third mark in ink in the broker's own hand, Petra at ten to nine with the bundle. Two hearings in the morning, side board repainted by the monthly crew. A slip names one person of reading age for the second reading room at four. Agnete gives one true sentence voluntarily, her name and keeping, nothing compelled. **Volume 5's fourth scene, 2,717 words.** That night she shuts the back-room door herself for the first time in eleven years and asks him to stay. Explicit, consensual, her discipline throughout.
+
+**242 The First Valuation.** The second. The mark is in, the board carries the twenty-sixth, both hearings kept their papers beyond the morning unasked. Tessa counted from the first. Wren's finding nine days on Hadewig's desk. Agnete open by day, shut once by night.
+
+**243 What The Book Is Worth.** The third. At the north desk he tells Marguerite to keep the account live and acknowledges the valuation. **The batch's irreversible decision, and it is his.** The option of letting the fourth free the plate, un-encumber Beatrix, and lift the guild tail closes with witnesses. The book is worth the word produce.
+
+**244 The Hundred And Thirty-Third.** The fourth. The dead list goes up quiet without the account. One hundred and thirty-three marks with no gaps. The plate stays lodged, the securities stay, Beatrix stays encumbered. Wren eleven days.
+
+**245 A Quarter Of Eight.** The fifth. Tessa's hatch run, the house mending, Ines's bag packed by an open door. Wren twelve days. The Thursday crew due on the morrow.
+
+**246 What She Filed.** The sixth, Thursday, repaints. Asked in a room with a door on it to state her review position, Ines files eleven minutes in her own hand: index seven, certificate six, auditor-member cannot certify. **True report filed. She walks out of a Ferrier flat she is still in on paper for her own rooms on Lantern Row.** Not a death, not a betrayal.
+
+**247 The Room She Left.** The seventh. The empty room swept and kept, its name on every paper. Five debts pencilled. Wren thirteen days. The division must answer for having produced both seven and six.
+
+**248 The Day Book.** The eighth. Tessa's day book with his initials on the first line. The wall, the rail, the steps kept by hand. Wren fourteen days, going to the desk on the morrow.
+
+**249 The Report That Is True.** The ninth. At Lantern Row Ines reads the ordinary record and keeps it. **Volume 5's fifth scene, 2,612 words, gap 241 to 249 eight.** Explicit, consensual, in her own rooms with the door shut by her own hand and opened by it. Aftermath: she stays in her rooms, still on roll and address on paper, signing for the household when signing is what it needs.
+
+**250 What Was Owed To Whom.** The tenth. Five debts priced plain, the one woman who can price them out with a true document behind her. He wants rank nine in the same words, costing more. Volume 5 closes on the filed answer waiting for creditors.
