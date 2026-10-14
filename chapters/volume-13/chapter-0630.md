@@ -2,7 +2,7 @@
 
 Seven days had gone since he read three lines out loud about four hundred times at the foot of a board in a yard, and about nine hundred people in that yard had decided that he had taken the fourth one off himself. One thousand nine hundred and seventy-nine less one thousand nine hundred and seventy-two is seven, and thirty less twenty-three is seven by the month count.
 
-He was in the room off a third court at about eleven in the morning on the thirtieth of July, which in six years had happened on about eleven mornings, and he had nothing under his arm.
+He was in the room off a third court at about eleven on the morning of the thirtieth of July, which in six years has happened on about eleven mornings, and he had nothing under his arm.
 
 He had a want. He had had one since the seventh of July and it had not changed in twenty-three days and it was the simplest want he has ever had and it was the one thing in this city he had the least right to.
 
@@ -12,13 +12,15 @@ He wanted somebody to ask him for something.
 
 ## The Woman In Number Four
 
-She was a big woman and she was not sixty and she could not read, and she had been in number four off Lamplit Row for nine years, and she came up a stair of about nine steps into a room with two chairs in it and put a folded paper on the counter with both hands, the way a person puts down something they have carried a long way.
+She had been in number four off Lamplit Row for nine years and she was not a woman of sixty, and she had dressed for a walk across a city on the word of somebody she had never seen. Her sister was three days older than her and had waited at the bottom of the stair.
+
+She came up about nine steps and put a folded paper on the counter with both hands, the way a person puts down something they have carried a long way. She could not read.
 
 “Nobody has read that to me,” she said. “I have had it since the twenty-fourth.”
 
 “Who brought it to you.”
 
-“A man at the counter where I pay the rent,” she said. “He gave it me and he said it had to be answered by the eleventh of August and he said that because it is the eleventh of August. He read me the bit at the bottom about that. He did not read me the rest and I asked him to and he said it was not his.”
+“A man at the counter where I pay the rent,” she said. “He gave it me and he said it had to be answered by the eleventh of August, and he said that because it is the eleventh. He read me the bit at the bottom about that. He would not read me the rest and I asked him to and he said it was not his.”
 
 Wenna Raut had not touched it.
 
@@ -80,7 +82,7 @@ She put her hand on the edge of the counter for about a second and then took it 
 
 “Then put it back.”
 
-He stood in a room with two chairs in it and a table and a counter and a drawer open and empty since the fourth of February, and about eleven o’clock in the morning of the thirtieth of July, and a woman he had watched from the foot of a stair in January asked him to do the one thing in this city he had spent five years arranging not to be asked for.
+He stood at eleven in the morning on the thirtieth of July in a room with two chairs in it and a drawer open and empty since the fourth of February, and a woman he had watched from the foot of a stair in January had just asked him for the one thing in this city he had spent five years arranging not to be asked for.
 
 “No,” he said.
 
@@ -130,7 +132,7 @@ The woman in number four stood at a counter in a room with two chairs in it and 
 
 “So will you put it back.”
 
-“No,” said Lin Hao, “and I have said the reason and the reason is a thing I wrote in about eleven seconds in a book in this room six years ago, and a clerk who may only enter what she is given wrote a sentence under it, and that sentence has gone out at four on the thirtieth of every quarter since, and there are about two thousand people a day who cannot get past it, and about four in every thousand read it to the bottom.”
+“No,” said Lin Hao, “and I have said the reason and the reason is a thing I wrote in about eleven seconds in a book in this room two years ago, and a clerk who may only enter what she is given wrote a sentence under it, and that sentence has gone out at four on the thirtieth of every quarter since, and there are about two thousand people a day who cannot get past it, and about four in every thousand read it to the bottom.”
 
 She nodded slowly.
 
@@ -154,7 +156,7 @@ He did not say that either, because by the time he had worked out which of the t
 
 ## One Thousand Three Hundred And Thirty-Four
 
-Afterwards he went and took the book down off the shelf where it had stood open and empty since the fourth of February, and the second column was ruled and had two lines in it, and he read the first one.
+Afterwards he took the day book down off its shelf, which is not the drawer under the table and never has been, and opened it at a page ruled in the March of the third year. The second column had two lines in it. He read the first one.
 
 He had written it himself, on the fifteenth of October of the fourth year, at about eleven minutes past ten in the morning, in the column headed carried by, and it was four lines long and it was his and it was the only claim in six years that had ever been entered against a person by that person.
 
@@ -164,7 +166,7 @@ He had read it in about four seconds.
 
 There is no form in this city for striking a line a person entered against themselves in their own hand, and there is no form in this city for putting one back.
 
-The sentence at the foot of a page that goes out four times a year is still in his own handwriting with his name under one of the four lines in it. It is not the same sentence as the one on a board, and the two have never been the same sentence, and about four people in every thousand who read a page to the bottom know that and about eleven thousand people in a yard know the other one.
+The sentence at the foot of a page that goes out four times a year is still in his own handwriting with his name under one of the four lines in it. It is not the same sentence as the one on a board, and the two have never been the same sentence. About four people in every thousand get to the bottom of a page and know that, and about eleven thousand people in a yard know the other one.
 
 A woman in number four came from the other side of the city this morning with a piece of paper she cannot read and asked him for the only thing anybody has asked him for in six years.
 

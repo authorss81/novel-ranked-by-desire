@@ -88,7 +88,7 @@ She put both hands in her lap.
 
 She took her hands out of her lap.
 
-“That lasted about two years,” she said. “And then in the November of the fifth year you went into a room and printed at the foot of a page, in your own hand, that a figure in this city may be a figure somebody made up on purpose. And every entry in that building that had been carried because nothing could be proved became, in about nine seconds, an entry about an absence instead.”
+“That lasted about two years,” she said. “And then in the November of the fifth year you went into a room and wrote at the bottom of a page, in your own hand, that a number set down anywhere in this city may be a number somebody invented, and put your name under it. And every entry in that building that had been carried because nothing could be proved became, in about nine seconds, an entry about an absence instead.”
 
 “And you read it.”
 
@@ -148,9 +148,9 @@ He took his coat off and hung it on a hook by the door and came back and there w
 
 “Say what you are looking at,” said Marguerite Vale.
 
-“You are looking at a man of thirty-nine with a chest that does not go as deep as it should and has not since the spring of the third year.”
+“You are looking at a man whose chest does not go as deep as it should and has not since the spring of the third year, and you have been counting how deep for about four seconds.”
 
-“Thirty-nine,” said Marguerite Vale. “You have been counting.” She came round the table. “Your shoulders are up. They have been up since the stair. Put them down and put your shirt off over the back of that chair and I will not do your buttons and I have told you before that I will not do your buttons.”
+“Four seconds is a long time to look at a man,” said Marguerite Vale. She came round the table. “Your shoulders are up. They have been up since the stair. Put them down and put your shirt off over the back of that chair and I will not do your buttons and I have told you before that I will not do your buttons.”
 
 He took his shirt off and she looked at his back and at his front and described neither.
 
@@ -260,6 +260,6 @@ She picked the book up and put it under her arm.
 
 *Less the second of May, one thousand eight hundred and ninety-one, is thirty-four days, and on the second of May an entry at the Vant was written off on the strength of a sentence and a woman stopped paying for it.*
 
-*Less the third of March, day thirty-five, is one thousand eight hundred and ninety days. The sixth of March of the first year is the sixth day of a month. A year is three hundred and sixty days. One thousand eight hundred and ninety is five years and ninety days, and there is no instrument in this city by which a woman who has carried an entry for four years can be asked to produce it.*
+*Less the sixth of March of the first year, day thirty-five, is one thousand eight hundred and ninety days, and one thousand eight hundred and ninety is five years and ninety days. There is no instrument in this city by which a woman who has carried an entry for four years can be asked to produce it.*
 
-*The nineteenth of August is the sixth valuation. A year is three hundred and sixty days and one thousand eight hundred and ninety-eight less one thousand eight hundred and thirty is one hundred and sixty-eight, and one hundred and eighty less twelve is one hundred and sixty-eight, so the nineteenth of August is in the same month of the year as this morning. The entry will be called then and will not be answered, and the person who carries it will be in this room.*
+*The nineteenth of August is the sixth valuation. The nineteenth of August is day one thousand nine hundred and ninety-eight, and this morning is day one thousand nine hundred and twenty-five, and one thousand nine hundred and ninety-eight less one thousand nine hundred and twenty-five is seventy-three, and thirty and thirty and thirteen is seventy-three. One thousand nine hundred and ninety-eight less the first of March, day one thousand eight hundred and thirty, is one hundred and sixty-eight, and one hundred and eighty less twelve is one hundred and sixty-eight. The entry will be called then and will not be answered, and the person who carries it will be in this room.*

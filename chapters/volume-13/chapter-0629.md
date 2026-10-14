@@ -38,11 +38,11 @@ That is what had happened. About eleven thousand people had taken three lines of
 
 “It is three lines. That is all of them.”
 
-“Then read the third one again,” said the young man. “I have got to say his name at a counter tomorrow and I have been standing here for two hours working out how to say it.”
+“Then read the third one again,” said the young man. “I have got to name him at a counter tomorrow and I have been stood on this spot for two hours trying to find words that would do it.”
 
 “What is his name.”
 
-“That is the whole of it,” said the young man. “I have got him in front of me and I can hear him and I cannot put a description of him down that a man at a counter would be satisfied with, and that is what the third one says. It says somebody else was there or handed it over, and that somebody can be put into words close enough to be a name.”
+“That is the whole of it,” said the young man. “He is standing four feet off me and I cannot get him down on a counter form in words close enough to be a name, and that is the whole of what the third one asks for. Somebody else was there, or handed it over, and that somebody has to be describable.”
 
 “Whose sentence is that.”
 
@@ -120,7 +120,7 @@ He did not answer that, because the man was right, and because he had worked it 
 
 The Vestry steps were full from about eleven o’clock.
 
-There was a queue on them. A woman of about forty was at the top of them reading three lines out loud to about twenty people sitting down, and there was another queue behind her going back into the hall, and the steps of a church off the Vestry were where a woman had stood once a month for eleven years and said one thing and been left unanswered.
+There was a queue on them. A woman of about forty was at the top of them reading three lines out loud to about twenty people sitting down, and there was another queue behind her going back into the hall, and the steps of a church off the Vestry were where a woman had stood once a month for about sixteen months and said one thing and been left unanswered.
 
 There was no room on the steps for anybody who was not reading.
 
@@ -136,11 +136,11 @@ He asked the man beside the door about it at about two o’clock.
 
 “Has she said her month’s thing.”
 
-“She has not stood on those steps since the twenty-fourth of June,” said the man beside the door. “That is the first month in eleven years. The queue comes down the steps at about eleven and goes back into the hall at about four, and there has not been room on them since the ninth of July.”
+“She has not stood on those steps since the twenty-fourth of June,” said the man beside the door. “That is the first month in about fifteen months. The queue comes down the steps at about eleven and goes back into the hall at about four, and there has not been room on them since the ninth of July.”
 
 “You could have cleared them.”
 
-“I could have cleared them for about nine seconds,” said the man, “and I would have had nine hundred people standing on the ground wondering what it was about, and she has said one thing a month for eleven years and been left unanswered every single time, and I am not going to be the reason there was a fuss.”
+“I could have cleared them for about nine seconds,” said the man, “and I would have had nine hundred people standing on the ground wondering what it was about, and she has said one thing a month since the spring of last year and been left unanswered every single time, and I am not going to be the reason there was a fuss.”
 
 ## A Yard Without A Rule
 

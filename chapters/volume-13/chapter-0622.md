@@ -2,7 +2,7 @@
 
 Seven days had gone since a woman came down two flights in the cold for nothing at all, asked one question at a desk under a window, and went back up. One thousand nine hundred and seventeen less one thousand nine hundred and ten is seven, and twenty-eight less twenty-one is seven by the month count.
 
-He went up the stair off a street off Cordwain at about a quarter to eleven in the morning on the twenty-eighth of May for the third time in six weeks, and he did not go all the way up it.
+He climbed the counting-house stair on the twenty-eighth of May, a quarter to eleven in the morning, for the third time in six weeks, and stopped on the second landing and did not go up it.
 
 He wanted to know who was carrying it.
 
@@ -76,7 +76,7 @@ He stood in the ground floor of a counting house and understood that an entry ha
 
 “Solveig Rask would not give me the carrier.”
 
-“Solveig Rask would not give you the carrier because the carrier was a customer of this house and because the carrier is me, and because she would have had to say my name out loud on a landing,” said Marguerite Vale. “You asked the wrong person,” said Marguerite Vale. “A keeper may not say. A broker must.”
+“Solveig Rask would not give you the carrier because the carrier was a customer of this house, and because she would have had to say a name out loud on a landing to say it at all,” said Marguerite Vale. “You asked the wrong person. A keeper may not say. A broker must.”
 
 He had asked for a name and had been handed a position instead. The position was the whole of what he needed and it was the worst possible shape of it, because a name is a person and a position is an office, and there is nothing in this city that appeals an office.
 

@@ -1,8 +1,8 @@
 # They Take One Line Off
 
-Seven days had gone since a page had gone out at four from a room with two chairs in it and been pinned over another page on a desk in a passage off Cordwain. One thousand nine hundred and fifty-six less one thousand nine hundred and forty-nine is seven, and seven less thirty is minus twenty-three, and a month is thirty days and has no thirty-first, so seven less the thirtieth of June is seven with twenty-three days borrowed against it.
+Seven days had gone since a page had gone out at four from a room with two chairs in it and been pinned over another page on a desk in a passage off Cordwain. One thousand nine hundred and fifty-six less one thousand nine hundred and forty-nine is seven, and seven less thirty is minus twenty-three. A month runs thirty days and stops, so seven less the thirtieth of June comes out at seven with twenty-three borrowed off it.
 
-He went up the hill at about ten in the morning on the seventh of July and stood nine feet off the board. That is where he had stood on the first morning of the week and on three mornings after it, and nobody had asked him to.
+He climbed the hill on the seventh of July a little after ten in the morning and took up the nine feet in front of the board again. He had stood in that nine feet on the first morning of the yard’s week and on three mornings after it, and nobody had asked him to.
 
 Nobody had asked him to be there. That had been the condition, and he had accepted it, and it had been nine days.
 
@@ -36,7 +36,7 @@ He turned his head about nine degrees.
 
 About eleven thousand people were in the yard. The meeting had been going since about ten and it was not a meeting anybody had called; it was a week of people standing about in a hall, and at about half past eleven it came out of the hall and into the ground.
 
-Nine hundred of them could read all four lines on the shutter.
+Nine hundred of them could read the whole of what was on the shutter.
 
 About four hundred of those nine hundred had not believed a word he said since a man off an arcade did the arithmetic on this ground on the seventh of February. About five hundred had.
 
@@ -60,7 +60,7 @@ She said it.
 
 “That is not a reason.”
 
-“It is the only reason there is,” said the woman. “You have been the only person anybody could be asked about for six years and about eleven hundred people in this yard have heard you say so out loud twice, and the whole of what we have done for a week is not have you in it.”
+“That is the whole of the reason,” said the woman. “You have been the only person anybody could be asked about for six years and about eleven hundred people in this yard have heard you say so out loud twice, and the whole of what we have done for a week is not have you in it.”
 
 ## At The End Of The Meeting
 
@@ -112,7 +112,7 @@ The Vestry door was shut all morning. It was shut when the meeting came out and 
 
 “Did anybody ask her.”
 
-“Nobody asked her,” said the man beside the door, “and nobody has ever asked her. She has said one thing a month off those steps for eleven years and been left unanswered every time, and this morning there were about eleven thousand people standing in front of them and not one of them went up.”
+“Nobody asked her,” said the man beside the door, “and nobody has ever asked her. She has said one thing a month off those steps for about fifteen months and been left unanswered every time, and this morning there were about eleven thousand people standing in front of them and not one of them went up.”
 
 ## What He Understood While It Was Coming Off
 
@@ -138,7 +138,7 @@ Which meant that the four hundred and nineteen lines on the shutter, the ones wi
 
 “Whose lines are those.” Somebody in the crowd asked him.
 
-“Eleven years of a woman who dug a street in the cold,” he said, “and she has no name against them because a division was not permitted to ask her for one.”
+“Six years of a woman who dug a street in the cold,” he said, “and she has no name against them because a division was not permitted to ask her for one.”
 
 “Is she owed.”
 
@@ -146,7 +146,7 @@ Which meant that the four hundred and nineteen lines on the shutter, the ones wi
 
 “Then that is the wrong sentence,” said the man, “and we have had it up for four years and we did not know.”
 
-He stood nine feet off a board with three lines on it and one sentence under it, and about eleven thousand people, and the fourth line was in a bucket at the end of the yard and the sentence at the foot of the twenty-second sheet was still in his own hand with his name under it and had eleven weeks left to run.
+He stood nine feet off a board with three lines on it and one sentence under it, and about eleven thousand people, and the fourth line was in a bucket at the end of the yard and the sentence at the foot of the twenty-second sheet was still in his own hand with his name under it and had eighty-three days left to run.
 
 *One thousand nine hundred and fifty-six days. Less one thousand nine hundred and forty-nine, the thirtieth of June, is seven. Seven less thirty is minus twenty-three, and a month is thirty days and has no thirty-first.*
 

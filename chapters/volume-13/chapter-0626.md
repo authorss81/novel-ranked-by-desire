@@ -1,12 +1,12 @@
 # The Twenty-Second Sheet
 
-Nine days had gone since he read four lines out loud at the foot of a board in a yard of about eleven thousand people. One thousand nine hundred and forty-nine less one thousand nine hundred and forty is nine, and thirty less twenty-one is nine by the month count, and a month is thirty days and has no thirty-first, which makes this morning the last working day of the month and of the quarter.
+Nine days had gone since he read four lines out loud at the foot of a board in a yard of about eleven thousand people. One thousand nine hundred and forty-nine less one thousand nine hundred and forty is nine, and thirty less twenty-one is nine by the month count. A month runs thirty days and stops, so this morning is the last working day of the month and the last of the quarter.
 
 He was in the room off a third court by ten, the way he has been about eleven mornings in six years, with nothing in his hands.
 
 He wanted the quarter to end the way the last five had ended.
 
-That was the whole of the want and it lasted until about eleven, which is longer than it had lasted the last two times.
+That was the whole of the want, and it held him until eleven, which is longer than it held him either of the two times before it.
 
 ## The Bundle
 
@@ -16,7 +16,7 @@ There was a bundle on the table with string round it, and it had not been there 
 
 “It has four things in it.”
 
-“It went in at a quarter past ten and it goes out at four, and after four it goes into another room. The last bundle that went out of this room went into that room in March, and nobody has opened it since, and nobody in this building is able to.”
+“It went in at a quarter past ten and it goes out at four, and after four it goes into another room in this building that I could not take you to if I wanted to. The last bundle out of this room went into that room in March and has not been opened since, and nobody here is able to open it.”
 
 “Where is that room.”
 
@@ -28,7 +28,7 @@ There was a bundle on the table with string round it, and it had not been there 
 
 “You looked for one.”
 
-“I looked for one for about four minutes,” said Wenna Raut, “which is four minutes more than I am required to do by anything, and I did it because there are three pieces of paper in there that a magistrate has read and one note from a counter off a fourth court that nobody has read.”
+“I looked for one for about four minutes,” said Wenna Raut, “which is four minutes more than I am required to do by anything, and I did it because three of the things in there are papers a magistrate has read and one is a note off a counter that nobody has.”
 
 “Read me the note.”
 
@@ -52,17 +52,17 @@ He stood at the table.
 
 ## Sixty-Four Months And Twenty-Nine Days
 
-The twenty-second sheet came out of a drawer at about half past two and it was the same sheet.
+At about half past two the sheet was brought out and squared, and it was the same sheet it has always been.
 
-Eight hundred and fifty-two stood at the head of it in the office’s own hand, and about four hundred and nineteen of those lines are six years of one person’s cold with an hour entered against every hour of it and no figure on any of them, and the second column has two lines in it, and at the foot of it were four sentences in the hand of the office.
+The figure at the head of it was eight hundred and fifty-two in the office’s own hand. About four hundred and nineteen lines under it are one person’s six years of cold with an hour set against every hour of it and no figure on any of them. The second column has two lines in it. Four sentences in the hand of the office are printed at the bottom.
 
-It had stood at that figure since the thirtieth of March of the fifth year and this was the sixth sheet in a row to go out with it.
+That figure has not moved since the thirtieth of March of the fifth year and this is the sixth sheet since to carry it.
 
-“Do not let it move,” said Wenna Raut.
+“Keep it where it is,” said Wenna Raut.
 
-“It is not going to move.”
+“It is not going anywhere.”
 
-“It moved once,” said Wenna Raut, “in about the ninth month of the third year, because a man handed me a line and I entered it. I am not blaming you. I am telling you that I know exactly what it costs to put a figure in at the top of that page, and that I have said nothing about the second line in that column in four hundred and two days and I am not going to start.”
+“It moved once,” said Wenna Raut, “around the ninth month of the third year, and the reason is standing in front of me with his hands in his pockets. Nobody is blaming anybody. I am telling you that I know to a grain what it costs to change a figure at the head of that page, and that I have sat on the second line in that column for four hundred and two days without a word and I am not opening my mouth now.”
 
 “You said nothing about the second line.”
 
@@ -70,15 +70,15 @@ It had stood at that figure since the thirtieth of March of the fifth year and t
 
 ## What A Registrar Says Standing Up
 
-Yusuf Adeyemi came in at about ten past four with his coat on and stood at the end of the table rather than sitting down, which is what he does on the days he has decided to say something standing.
+Yusuf Adeyemi came in four minutes late with his hat still in his hand and did not take the chair at the head of the table.
 
-He read the top of it and the foot of it and stood there.
+He read the figure at the top, and then he read the four sentences underneath it, and then he stood where he was and did not sit down at all.
 
 “Same as the last five,” he said.
 
 “Same as the last five.”
 
-“That is what I came to say and I am going to say it in six sentences,” said Adeyemi, “because it is four o’clock on a quarter and I am not giving you an hour.”
+“That is what I came to say and I am going to say it in five sentences,” said Adeyemi, “because it is four o’clock on a quarter and I am not giving you an hour.”
 
 “Say them.”
 
@@ -88,13 +88,13 @@ He read the top of it and the foot of it and stood there.
 
 “You have been waiting to be told it since the thirteenth of May,” said Adeyemi, “and you went up that hill on the first morning of the week and read four lines out loud twice, and I know you did that because about two hundred people in this city have told me about it and not one of them was you.”
 
-## Six Sentences
+## Five Sentences
 
 “The second is that the bundle goes into another room at four and nobody has to open it.”
 
 “I know.”
 
-“You do not know it,” said Adeyemi. “You know it the way a man knows a thing he has been told. This office cannot be compelled and cannot sue and cannot be sued and holds no money, and the only thing it has ever had that other things do not have is that it could not be got at. The bundle takes that away, and it takes it away the same way a drawer takes it away from a person who owns the room.”
+“You do not know it,” said Adeyemi. “You know it the way a man knows a thing he has been told. Nothing in this city can make this office do anything, and it has not a coin to its name, and the one thing it ever had that other things do not have is that you could not get at it. A bundle takes that away, and it takes it away the way a locked drawer takes it away from the man who owns the room.”
 
 “The second thing.”
 
@@ -104,7 +104,7 @@ He read the top of it and the foot of it and stood there.
 
 “It is the whole of what this building is,” said Adeyemi, “and it has been the whole of what this building is for about four hundred days, and neither of us has looked at it.”
 
-He put a finger about an inch off the edge of the table without touching anything.
+He put a finger down on the wood about an inch in from the edge and left it there, well clear of the sheet.
 
 “That sentence at the foot of the page says where this Register has nothing, it has not been given anything, and it does not say that there was nothing. There is not one clerk in this city who could tell you what makes it true, and I am telling you that it is not the sheet and not the building and not the four sentences.”
 
@@ -118,35 +118,35 @@ He picked up his hat.
 
 ## Four O’Clock
 
-Thirty multiplied by sixty-four is one thousand nine hundred and twenty, and twenty-nine days after that is one thousand nine hundred and forty-nine, and that is how old this office is on the afternoon it prints the twenty-second time.
+Thirty multiplied by sixty-four is one thousand nine hundred and twenty, and twenty-nine days past that is one thousand nine hundred and forty-nine, which is this afternoon, and this afternoon is the one the office prints for the twenty-second time.
 
 The sheet went out at four.
 
-It went out the way it has gone out four times since the first of February of the first year, in a bundle, into a hand, and down two floors and along a corridor to a desk under a window in a passage off Cordwain, where a man who has run that desk for about nine years takes it in and pins the new one over the old.
+A clerk took it out of the room with it still in its bundle, went down the stair and along two floors of passage, and put it into the hand of a man at a counter in a building that has a window on the street. That man pinned it over the sheet that had been on the rail since the thirtieth of March, and neither of the two of them said one word about it, because there is nothing either of them is required to say about a page.
 
-And out in a lane nine streets from that counter there is a wall with nine stools along it and a slate that has been up every morning since the third of October of the year before the first, and the third of October of the year before the first is day minus one hundred and eighteen, and one thousand nine hundred and forty-nine less minus one hundred and eighteen with one day after it is two thousand and sixty-eight mornings.
+Nine streets back from that counter a wall carries nine stools and a slate has been chalked up every morning since the third of October of the year before the first. That first morning is day minus one hundred and eighteen. One thousand nine hundred and forty-nine less minus one hundred and eighteen, with one day counted in, is two thousand and sixty-eight mornings.
 
-Nine stools, a slate, a man in a delivery coat, about nine figures a morning, a grain a head, twelve books on a ledge, and about two thousand of about eight thousand ringed with a reason in the margin.
+A grain a head for about nine figures, twelve books on a ledge, a man in a delivery coat, and about two thousand of about eight thousand ringed with a reason in the margin.
 
-## The Second Time He Went Down Cordwain
+## The Man Who Runs That Desk
 
-He went down at about half past four, and the new sheet was already out on the desk, squared, with the corner still soft where shoulders go past.
+He went down at about half past four and the new sheet was already on the desk, squared, with one corner of it gone soft where the shoulders of a day have been going past it since seven in the morning.
 
-“Same one,” said the man at the desk.
+“Six,” said the man at the desk.
 
-“Same one.”
+“Six.”
 
-“Same one for six of them,” said the man at the desk. “I have said that to about four people a fortnight since the thirtieth of March and I said it to a woman on the fourth of February and to a man with a barrow in March and to a man in a delivery coat in April.”
+“Six of them the same,” said the man at the desk. “I have said that sentence four times since the thirtieth of December and three of the four were strangers, and the fourth was a man in a delivery coat who came down in April and wanted to know whether the foot of it was any good.”
 
 “He came down here?”
 
-“He came to the rail,” said the man at the desk. “He stood about nine feet off where you are standing, on a morning, and he read the whole of the page from the top to the bottom, including the second column, and then he asked me one question.”
+“He stood about nine feet off where you are standing, on a morning, and he read the page from the head of it to the foot of it, including the second column, and then he asked me one question.”
 
 “What question.”
 
-“He asked me whether anybody had ever read the second column,” said the man at the desk, “and I said I had read it four times and could not tell him what was in it, and he said that was the correct answer and went up his stairs.”
+“He asked me whether anybody had ever read the second column,” said the man at the desk, “and I told him I had read it four times and could not tell him what was in it, and he said that was the correct answer and went back up where he came from.”
 
-The light came in under the sash and lay along the paper, and the corner of it was already going soft, and about a hundred people a day went past that desk and about two of them got to the foot.
+A tram went under the wall a street away and the boards of the passage took it, and he did not say anything for about nine seconds.
 
 He stood there with a sheet going out four times a year that had made him findable on the ground in a yard, put a bundle into a room he cannot open, hold the only claim anybody has ever had on the office in a column nobody reads, and lose a week in a hall.
 

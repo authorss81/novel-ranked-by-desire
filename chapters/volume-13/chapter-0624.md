@@ -4,13 +4,13 @@ Seven days had gone since a woman in a room off Ferrier Street had told him an e
 
 He came into the room off a third court at about ten in the morning on the thirteenth of June with nothing under his arm, which in six years had happened on about eleven mornings, and he wanted to know how many claims his own rule had produced.
 
-That was the whole of the want. He had wanted it since the seventh of February, when a man off an arcade had done the arithmetic out loud on the ground in front of nine hundred people and had come away with the fact that the fourth of four lines could not be tested by anybody in Ostara including the man who wrote it.
+That was the whole of the want. He had wanted it since the seventh of February, when a checker off an arcade had done the whole of the arithmetic on the ground where about nine hundred people could hear it, and had come away with the fact that the fourth of four lines cannot be tried by anybody in Ostara, the man who wrote it included.
 
 ## The Number He Wanted To Move
 
-Eight hundred and fifty-two stood at the head of the standing sheet in the office’s own hand, and it had stood there since the thirtieth of March of the fifth year, which was four hundred and thirty-three days ago, and this was the fourth sheet since to go out with it.
+Eight hundred and fifty-two stood at the head of the standing sheet in the office’s own hand, and it had stood there since the thirtieth of March of the fifth year, which was four hundred and thirty-three days ago, and four sheets had gone out since with that figure at the top of them and nothing else changed anywhere on the page.
 
-About four hundred and nineteen of those lines were somebody’s account of six years of cold, an hour against every hour of it, and not one figure on any of them.
+About four hundred and nineteen of those lines were one person’s account of six years in the cold, an hour set against every hour of it, and no figure standing against a single one of them.
 
 The second column had two lines in it.
 
@@ -30,7 +30,7 @@ He did not say anything for about four seconds.
 
 “That is the first one,” said Wenna Raut. “And it is yours. And the second one came on the first of May of the fifth year and it is not yours.”
 
-He had known there were two. He had been reading the top of that sheet since January and had never once got to the column, and there are about four people in every thousand who read a page of this office to the bottom, and he is one of four or five of them, and he had never once been one of the four who goes to the second column.
+He had known there were two. He had been reading the top of that sheet since January and had never once got to the column, and about four people in every thousand get to the bottom of a page this office prints, and he is one of the four or five, and he had never been one of the ones who goes on to the second column.
 
 “Read it to me.”
 
@@ -116,7 +116,7 @@ He had never once looked at the column.
 
 “Say that again.”
 
-“I am not going to say it again,” said Marguerite Vale, “and I am not going to tell you what it is worth, and I am going to go back to work.”
+“Not once,” said Marguerite Vale. “And I am not going to tell you what it is worth, and I am going back to work.”
 
 “Six hundred and eighty entries,” he said, “and two of them are yours, and one of the two is mine, and you have been carrying mine for four years, and about one in four thousand reads your sentence out of my page without being asked.”
 

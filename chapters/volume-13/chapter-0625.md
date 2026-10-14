@@ -10,7 +10,7 @@ There was a reason, and it was not a good one. He had worked it out at about ele
 
 ## The Ordinary Ground
 
-About eleven thousand people were in the yard on an ordinary morning. They stood on the ground and on the steps and poured out of both ends of it into the street, and about nine hundred of them could read the four lines on the shutter at the far end, and the rest could not read any of them and had never once tried.
+About eleven thousand people were in the yard, the way they are in it most mornings. They stood on the ground and on the steps and poured out of both ends into the street, about nine hundred of them able to take in what was chalked on the shutter at the far end, and the rest unable to and never having tried.
 
 The Vestry door was shut. The man who stands beside it had been doing that for five years and was doing it now, and not one person in that yard glanced towards it.
 
@@ -98,11 +98,11 @@ He had not thought of that. In six years he had not once thought of that.
 
 “Has anybody asked her for it.”
 
-“No. A division was not permitted to ask her for a name and did not ask her, and there is no column on that page that would take one if it had.”
+“No. Nobody was permitted to ask her for one and nobody asked, and that page has not got a place to put a name in if one had been offered.”
 
 “Then how does she get it.”
 
-“She does not,” said Lin Hao. “There is no instrument in this city that can put six years of a street into a book against a person, and there has not been one since I was twenty-four, and that is not the same as saying nobody in this yard is owed.”
+“She does not,” said Lin Hao. “There is no instrument in this city that can put six years of a street into a book against a person, and there has not been one since the Bureau was started, and that is not the same as saying nobody in this yard is owed.”
 
 “I did not say nobody in this yard is owed,” said the man. “I said I have read every name on that board and not one of them is his. That is the whole of what I said and you have been making it into a bigger thing than I made it for about two minutes.”
 
@@ -132,7 +132,7 @@ So he read them again, the same way, at the same speed, with nothing improved, w
 
 The chaplain was on the steps of the Vestry when he came down off the hill. She had been on them since about ten and she had said one thing and had not been answered.
 
-For eleven years she has stood on those steps once a month and said one thing and been left unanswered, and the man beside the door has heard every one of them.
+For about fifteen months she has stood on those steps once a month and said one thing and been left unanswered, and the man beside the door has been there for five years of them and has not missed one.
 
 This morning she had asked a question instead.
 
@@ -140,7 +140,7 @@ This morning she had asked a question instead.
 
 Nobody had answered it, because about eleven thousand people were on the ground reading four lines to each other and nine hundred of them had just stopped.
 
-“Go and tell her,” said the man beside the door, seeing where he was looking. “No. Do not. She has said one thing a month for eleven years and she has never once wanted it carried. If you carry it up there it stops being hers.”
+“Go and tell her,” said the man beside the door, seeing where he was looking. “No. Do not. She has said one thing a month for about fifteen months and she has never once wanted it carried. If you carry it up there it stops being hers.”
 
 “I was not going to.”
 

@@ -6,7 +6,7 @@ He came off Cordwain at about a quarter to seven in the morning on the fifteenth
 
 Nine stools along a wall. A slate. A man in a delivery coat. And a queue that had gone past the mouth of the lane and stood in it.
 
-He had wanted to ask him something. He had wanted it since the sixth of February, when a man had told him that the only thing anybody in this city had ever been able to check was a figure with a date and the weather and a reason in the margin against it.
+He had wanted to ask him something. He had wanted it since the seventh of February, when a man had told him that the only thing anybody in this city had ever been able to check was a figure with a date and the weather and a reason in the margin against it.
 
 Then, in a yard, he had heard the other half of it.
 
@@ -48,7 +48,7 @@ He turned round.
 
 ## What Brack Started On The Thirteenth
 
-“The thirteenth. Three days ago.”
+“The thirteenth. Two days ago.”
 
 “That is the thirteenth,” said Brack. “I opened the twelfth book at ten to six on that morning and read the margin for every ringed figure in it, out loud, at the wall end, in the open, to anybody standing there. And I did it again at twenty past seven and again at half past eight, and I have done it every morning since, and about forty people are standing here at a quarter to seven on the fifteenth because they know I do it at ten to six.”
 
@@ -70,7 +70,7 @@ He turned round.
 
 “That the figure came off my slate on a morning in the month of the year in which there was a particular kind of weather, and that I took it on a hunch, and that here is the hunch,” said Brack, “and then they wrote the hunch at the bottom of a piece of paper and took it to a rent board.”
 
-He put the chalk down and did not come round the stools, which is a thing he did.
+He set the chalk down against the ledge and stayed where he was, nine feet short of the stools, and did not come round them.
 
 “You have made your figures evidence,” said Lin Hao.
 
@@ -90,7 +90,7 @@ Then he came out of it, put the rag in his coat, and looked at Lin Hao for the f
 
 He turned the slate round.
 
-“Your office printed, in its own hand, in a November, that a figure in this city may be made up on purpose. That sentence is why the fourth line came off a board. The fourth line coming off a board is why a yard of about eleven thousand people went looking for a figure they could be shown.”
+“Your office printed, in its own hand, in a November, that a number written down anywhere in this city may be one somebody invented, and it put its own name under it. That sentence is why the fourth line came off a board. The fourth line coming off a board is why a yard of about eleven thousand people went looking for a figure they could be shown.”
 
 “I know that.”
 
@@ -110,7 +110,11 @@ He turned the slate round.
 
 “You have been made useful.”
 
-“I have,” said Emil Brack. “For the first time in nine years. And I am not going to tell you I do not want it, because I have wanted it since the second year and I said so at this wall end and you were not here.” He found the chalk where he had left it and rolled it between his fingers without marking anything with it. “What I am going to tell you is what it is, and then you can carry it up your three flights and put it on a table.”
+“I have,” said Emil Brack. “For the first time in nine years, and I am not going to tell you that I do not want it, because I have wanted it since the second year and I said so at this wall end and you were not here.”
+
+He found the chalk where he had left it and rolled it between his fingers without marking anything with it.
+
+“What I am going to tell you is what it is, and then you can carry it up your three flights and put it on a table.”
 
 He put the chalk down.
 
@@ -118,7 +122,7 @@ He put the chalk down.
 
 “You were right.”
 
-“I have been right about it every morning since,” said Brack, “and I have been right about it eleven times in six weeks, and nobody has once agreed with me about any of the eleven.”
+“I have been right about it every morning since,” said Brack, “and I have been right about it eleven times since the spring and nobody has once agreed with me about any of the eleven.”
 
 He wiped the slate.
 
