@@ -1,3 +1,52 @@
+# VOLUME 11 CLOSE RECORD — CHAPTERS 501–550, FIFTY FILES, 113,615 WORDS. **CLOSE AUDIT RUN 14 OCTOBER 2026. NO CHAPTER WAS WRITTEN. FOUR CHARACTERS OF MARKDOWN REPAIR APPLIED. NINE FINDINGS RECORDED AT `reviews/volume-11/volume-close.md`. THE TWELVE PROPOSALS `PC-143`–`PC-153` REMAIN `PROPOSED`; NONE WAS ADOPTED SILENTLY. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> **THE VOLUME'S SENTENCE:** *In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.*
+>
+> **THE VERDICT, WHICH THE CHAPTER SAYS AT 550 IN THE MAN'S OWN NOTEBOOK AND THIS BLOCK REPEATS: PAID. HE WROTE THE DEFINITION, AND THE OFFICE STILL HAS NO INSTRUMENT AND NO MONEY, AND ITS COLUMN HAS HAD ONE LINE IN IT SINCE THE FIFTEENTH OF OCTOBER AND THE LINE IS HIM. THE SECOND ALTERNATIVE DID NOT HAPPEN AND NOBODY SAYS IT DID: THE SECOND LINE AT THE FOOT OF THE RANKS WALL IS STILL ON THE STONE AT THE HEIGHT OF A NAME ON A PLATE, A CITY CANNOT READ IT, AND THE MAN WITH THE CHALK HAS NOT BEEN ANSWERED IN FOUR YEARS.**
+
+## 1. THE PROPOSALS STAY PROPOSALS
+
+**`PC-143` to `PC-153` ARE ALL ON THE PAGE AND ALL `PROPOSED`. `PC-142` IS NOT RENUMBERED AND NOTHING BELOW IT MOVED.** A close audit adopts nothing. **What Volume 11 EARNED AND CLOSED INSIDE ITSELF:** `PC-143` the satchel and 419 accounts · `PC-144` the Church's forty and the parting of *useful* from *owed* · `PC-145` Sela Voel and the death of the fourth condition · `PC-146` what *no holder* means · `PC-147` the broom and the reason he does not ask · `PC-148` the arrangement in the Vestry and the yard she has lost · `PC-149` Mavis Rooke as the first creditor · `PC-150` the claim against himself · `PC-151` the clause reaching six people into a kitchen · `PC-152` the rota with four names and the verdict · `PC-153` the lane's age, **1,466 mornings, printed at ONE chapter of Volume 11 and no other**.
+
+**WHAT A LATER VOLUME INHERITS AS A PROMISE:**
+
+| From | Promise | Dated? |
+| --- | --- | --- |
+| `PC-150` | **the keeper's six words now have a name against them and she reads it** | **YES — 2 January, year five.** Hanneke Ruis's last appearance in Volume 11 is 544, the thirtieth of September of year four, ten days before the name exists. Nothing in 501–550 shows her reading it. |
+| `PC-149` | **whether Mavis Rooke ever learns what was done for her** | no. The 548 self-contradiction is repaired — *he is never going to tell her, and the page will* — and the question is open. |
+| `PC-148` | **Emil Brack's offer is unanswered and he is undefeated; the Church's column is going to fill and Agnete is not going to stop it** | no |
+| `PC-145` | **the fourth condition is dead as a test for anybody a division visits** | no. Every street a round reads is disqualified by his own definition. |
+| `PC-147` | **Ines Duarte's three-part question of the sixth of March of year one is still unanswered**, and 545 gives the reason he does not ask | no |
+| `PC-152` | **the wall.** A city cannot read it and he wrote it | no |
+
+## 2. THE FIGURES, EACH WITH ITS OPERANDS, DERIVED TWICE
+
+**THE SPINE, RE-RUN FROM OUTSIDE THE PASS THAT WROTE IT.** Day 0 is the first of February of year one, a month is thirty days, a year is three hundred and sixty, a January is labelled by the February that follows it. **540 = 1230 · 541 = 1240 · 542 = 1261 · 543 = 1284 · 544 = 1319 · 545 = 1324 · 546 = 1325 · 547 = 1329 · 548 = 1334 · 549 = 1341 · 550 = 1347. MONOTONIC, ZERO VIOLATIONS.** Intervals 10 · 21 · 23 · 35 · 5 · 1 · 4 · 5 · 7 · 6, summing **117** off 1,230 at 540. Anchors 59 · 239 · 329 · 360. Span 1,347.
+
+- **THE FUSE.** The sitting of the tenth of October is spine day **−111** — `(30−10) + 30 + 30 + 30 + 1`. **1,329 − (−111) = 1,440 = 4 × 360.** 547 derives 1,329 twice on the page by two methods that share no constant and derives 1,440 on the page.
+- **THE LANE.** Its first morning, the third of October of year zero, is spine day **−118**. **1,347 − (−118) + 1 = 1,466 mornings**, printed once at 550:58 with operands and cross-checked independently at 550:60.
+- **THE STANDING SHEET.** **thirty-nine** at the thirtieth of March of year four, **eight hundred and forty-one** at the thirtieth of June, **the same eight hundred and forty-one** at the thirtieth of September. Both intervals are ninety days and the figure did not move, with **four hundred and nineteen accounts** behind it. **No chapter of 501–550 calls it a count of deeds.**
+- **THE ROUND.** Nine divisions, about nine hundred doors, ninety days, **four hundred and nineteen** accounts with an hour against each and no figure on any of them, nineteen of them fetched by his asking.
+- **THE ACCOUNT IS NEVER PRINTED.** `8,1xx` and *two hundred and eleven thousand* return **0** across Volume 11. **No floor.** **No ledger total. `settle` returns 0.**
+- **THE KEEPER'S SIX WORDS.** Thirty multiplied by four is **one hundred and twenty**, printed with operands at 544:25 and **with no ordinal**, because 496 and 507 disagree about which block is the hundred and twenty-first and Volume 11 does not own either chapter. **No chapter of 501–550 prints the hundred and twenty-first.**
+
+**AND FIVE FIGURES FAIL.** 542's four days is three · 544's sixteenth quarter is the fifteenth · 544's ninth of July is the eleventh · the column's four years on that sheet is one year and six months · 548's five quarters is seven enumerated four lines above it. **All five are printed without operands, all five were certified as passing, and all five are carried as one repair to the phase that owns the batches.** The full table with the correct figure and every line carrying it is at `reviews/volume-11/volume-close.md` §8, Finding 9.
+
+## 3. THE TWO THREADS VOLUME 11 OPENED AND MAY NOT CLOSE
+
+1. **THE KEEPER'S SIX WORDS, AND THE NAME NOW AGAINST THEM. READ ON THE SECOND OF JANUARY OF YEAR FIVE.** The public sheet carries the claim from the thirtieth of December; the keeper reads her own chained book, which comes off the shelf on the first of January; the second of January is when he is permitted to stand there. **No page of 501–550 shows her reading it.**
+2. **WHETHER THE WOMAN TWO FLIGHTS UP OFF CORDWAIN EVER LEARNS WHAT WAS DONE FOR HER.** Open, undated, and deliberately so.
+
+## 4. WHAT IS STILL SHUT
+
+**EVERY ITEM ON `outline/volume-11.md` §8 IS STILL SHUT**, mechanically re-checked: `Lin Wei` **0** · `B103` **0** · `settle` **0** · the figure of the account **0** · `right temple` **0 across all 550 chapters**. The reach of the return is not resolved and is not argued and no character says it is settled or is not settled. Whether the account belonged to the unrecorded rather than to him is a meaning and not an answer and nobody says otherwise. Who put the white tile up is a question on the page and is answered nowhere. Perrin Sowe is not forgiven and is not discussed and Ines's correction stays unpressed. Marguerite Vale's fourth line cannot be struck. Agnete Lindqvist's refusal of the ninth of October is on the page twice and resolved neither time. Hanneke Ruis's six words carry no certificate and will not. Sun Meiling's row and her bar were told once, at 434, and are not re-told. The instrument he swore on the ninth of May never to use is still unused. **`outline/ending.md` is untouched and inherited whole: Lin Wei alive and classified, the reservoir returned and never replenished, Lin Hao at rank one, the Church not dissolved and not vindicated, Ferreira lives, Sowe lives, Adeyemi is Registrar of Unrecorded Merit and Lin Hao is not, no partner dies, and no partner is left behind by a choice she does not explain.**
+
+## 5. THE NEXT PHASE
+
+**`workspace/volume-12/plan/PROMPT.md`. A PLANNING PHASE. IT WRITES AN OUTLINE AND NO PROSE. THAT PHASE, AND NOT THE CLOSE AUDIT, IS WHERE A DECISION IS MADE ABOUT WHETHER THE WALL GETS A THRESHOLD UNDER IT OR DOES NOT. `state/complete.md` IS NOT CREATED.**
+
+---
+
 # VOLUME 11 BATCH 0005 — CHAPTERS 541–550 ARE ON DISK. THE ELEVENTH OF JULY OF YEAR FOUR TO THE TWENTY-EIGHTH OF OCTOBER OF YEAR FOUR. **WRITTEN 14 OCTOBER 2026 AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`: FOUR FINDINGS, ALL FOUR APPLIED, NO CHAPTER RESTARTED, NO PLOT CHANGED. TEN FINISHED FILES, 22,641 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE LAST EDIT (22,654 BEFORE THE REPAIR). MOVEMENT FIVE, CALLED. THE LAST TEN CHAPTERS OF VOLUME 11, AND THE VOLUME IS COMPLETE AT 550. THE NEXT PHASE IS `workspace/volume-11/volume-close/PROMPT.md`, A CLOSE-AUDIT PHASE THAT WRITES NO CHAPTERS. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > **THE VOLUME'S SENTENCE:** *In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**.*

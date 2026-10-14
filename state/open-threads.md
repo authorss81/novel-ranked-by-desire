@@ -1,3 +1,274 @@
+# VOLUME 11 CLOSE AUDIT — CHAPTERS 501–550, FIFTY FILES, 113,615 WORDS. THE VOLUME IS COMPLETE AND IT IS AUDITED. **RUN 14 OCTOBER 2026, FROM OUTSIDE EVERY PASS THAT WROTE IT. A GATE RECORD IS A CLAIM; THIS BLOCK IS THE RE-RUN, AND WHERE THE TWO DIFFER THE RE-RUN STANDS. FULL RECORD AT `reviews/volume-11/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> **A CLOSE-AUDIT PHASE. IT WROTE NO CHAPTER. IT READ 550 FILES, RE-DERIVED EVERY FIGURE IT COULD FIND A DERIVATION FOR, RE-RAN EVERY ROW OF THE BLOCK BELOW, ADDED THE ROWS THAT BLOCK DID NOT HAVE, APPLIED FOUR CHARACTERS OF MARKDOWN REPAIR, AND RECORDED NINE FINDINGS. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 550.**
+>
+> **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/plan/PROMPT.md`, A PLANNING PHASE THAT WRITES `outline/volume-12.md` AND NO PROSE. DO NOT PRE-CREATE A BATCH 0001 FOR VOLUME 12. THE SELF-DISPATCH WORKFLOW SELECTS THE PLAN.**
+
+## WHAT THE VOLUME PROMISED AND WHAT IT PAID
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**
+
+**PAID, NARROWLY, AND THE CHAPTER SAYS SO AT 550 IN HIS OWN HAND.** He spent four years writing down what other people did when nothing was written down, for an office that still has no instrument and no money, and on the fifteenth of October of the fourth year he put his own name in the one column of his own book that nobody had been able to fill — and the wall a city still cannot read is still there, and the man with the chalk is still right about every fact he says.
+
+**THE FIRST HALF IS PAID.** The four lines at 519, classified by Alma Quayle at 529, and the office refuses to print a sentence explaining them, so the definition exists in a book and in nobody's mouth. On the morning of the fifteenth of October, at eleven minutes past ten, four lines against himself go into the column headed *carried by* in his own hand, entered exactly as given by a clerk who may only enter. **THREE OF THE FOUR CONDITIONS ARE MET AND THE FOURTH IS NOT, AND THE CLERK SAYS WHY: THE THING IT DESCRIBES IS ON A PAGE IN THIS CITY.**
+
+**THE SECOND HALF DID NOT HAPPEN AND IT WAS NOT A FAILURE OF NERVE.** It was the other half of a disjunction and the branch taken was real. The second line at the foot of the ranks wall did not get a threshold under it that a man with a chalk chose. It is still on the stone in the office's own hand at the height of a name on a plate, a city cannot read it, and **Emil Brack is at the wall end of that lane at about a quarter to seven every morning, right about every fact he says, and has not been answered.** 550 says *the second alternative did not happen* in the lead's own notebook rather than pretending otherwise.
+
+**THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE:** nine divisions to about nine hundred doors in ninety days and four hundred and nineteen of the people they found lost the fourth condition of his own definition · forty women out for four days to ninety-one doors, asked nothing, back with nothing · a street four streets off the yard end, counted four times in thirty years, read once · six words written four times a year for thirty years under a keeper's own name with a name now put against them by a man she has never met, read on the second of January · a woman who dug a street for six years and was never paid is the Register's first creditor and came up two flights without a hand on the rail · a chaplain refused a second time and lost the argument instead of the sentence, and has lost her yard · nine women said nine things in a kitchen and not one of them told him he was right · and a Register that has a debtor in it, which is a different object from a Register that has nobody in it.
+
+## THE GATE, RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE IT
+
+```
+FILES         `ls chapters/volume-11/` -> 50 files, chapter-0501.md..chapter-0550.md, diff
+              against `seq 501 550` EMPTY. `find chapters -name 'chapter-*.md' | wc -l` -> 550.
+              `find . -name '*551*'` -> EMPTY. **NO CHAPTER 551 EXISTS ANYWHERE IN THE REPOSITORY.**
+              ONE `# ` TITLE LINE IN EVERY FILE.
+
+TITLES        `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 550 FILES.**
+              **0 OF 50** DISAGREE WITH `outline/volume-11.md` §10, BY WHOLE-LINE STRING.
+              **TWO RULE EXCEPTIONS IN THIS VOLUME, BOTH RECORDED AT FINDING 7 AND NEITHER
+              RENAMED:** 523 *Lamplit Row* and 527 *Carried By* are two words against a
+              three-word floor (book-wide there are 72 such titles and *Cordwain*, *Lantern Row*,
+              *Signal* and *Zero* set the practice), and **534 *What The Church Did Not Bring*
+              BEGINS WITH *WHAT*, WHICH §10 FORBIDS FOR THIS VOLUME.**
+
+BANK          **113,615 WORDS ACROSS FIFTY FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+              MEAN 2,272.
+              **SEVEN OF FIFTY LEAVE THE 1,800-2,700 BAND, AND THE OLD BLOCK CLAIMED THAT NONE DID
+              OUTSIDE ITS SCENES:**
+                  505 3,844 · 515 3,024 · **519 3,136** · 525 3,687 · 536 2,984 · 546 3,570 · **549 2,748**
+              505/515/525/536/546 ARE THE FIVE SCENES AND MAY LEAVE IT WITH A STATED REASON.
+              **519 IS THE VOLUME'S CENTRE, NOT A SCENE, AND ITS REASON IS IN
+              `state/chapter-summaries.md`: the definition, all nine objections and the number are
+              in it and nothing can be cut. 549 IS NOT A SCENE AND ITS REASON IS RECORDED NOWHERE.**
+              **546 IS 3,570 WORDS, NOT 3,577 — 3,577 WAS ITS PRE-REPAIR LENGTH ON 14 OCTOBER 2026 —
+              AND IT LEAVES THE BAND BY 870, NOT 877.**
+
+META          **THE CLASS, NOT A PHRASE:**
+              `[a-z]+ volumes|this book|this chapter|this volume|no chapter|the axis|the reader|
+              the novel|the story|the scene|Chapter [0-9]+|chapter [0-9]+` -> **0 HITS IN 50 FILES.**
+              **WIDENED, WITH THE TERM THE 14 OCTOBER 2026 REVIEW ADDED AND FOUR MORE:**
+              `+ manuscript|in this manuscript|this manuscript|this page|the reader sees|
+              you the reader|sentence you are reading` -> **3 HITS, ALL *this page* AT 505**, all
+              in-world (an audit page in a corridor at three in the morning).
+              SECOND SWEEP for `our narrator|the author|the text|the prose|page \d+|chapter \d+|
+              volume \d+|in this (novel|book|story|chapter|volume|scene)` -> **0.**
+              **`manuscript` RETURNS 0 ACROSS VOLUME 11. THE 550 REPAIR HOLDS.**
+
+WEEKNAMES     Monday · Tuesday · Wednesday · Thursday · Friday · Saturday · Sunday, ALL SEVEN,
+              WHOLE-WORD **AND** SUBSTRING, ACROSS ALL FIFTY FILES -> **0.**
+              THE THREE-LETTER FORMS ARE NOT ADMISSIBLE: `sat` (43) IS THE VERB *SAT DOWN* AND
+              `sun` (15) IS *SUN MEILING*. `mon wed fri tue thu thur` -> 0.
+
+AGES          **NINE FORMS, ALL ZERO:** `aged \d+` · `aged of \d+` · `\d+ years old` ·
+              `\d+ years of age` · `\d{2}-year-old` · `\d{2} year old` ·
+              `in (her|his|their) (early|mid|late) (twenties|thirties|forties|fifties|sixties)` ·
+              `a (girl|boy|woman|man|child) of TWENTY..NINETY` · **BARE `aged` SWEEP.**
+              **ONE FIXED AGE IS PRINTED AND IT IS CANON: AGNETE LINDQVIST IS FORTY-FIVE**, at
+              546:120, written *a big woman of forty-five* and not *forty-five years old*.
+              **HANNEKE RUIS IS GIVEN NO AGE AND NO MARK IN HER SIX CHAPTERS (507, 508, 517, 526,
+              527, 544).** EVERY OTHER NUMBER IN THE VOLUME IS A SPAN OR A COUNT.
+
+ARITHMETIC    **THE SPINE, RE-DERIVED TWICE BY TWO METHODS THAT SHARE NO CONSTANT, BOTH AGREE AT ALL
+              ELEVEN DATES:**
+              540 1230 · 541 1240 · 542 1261 · 543 1284 · 544 1319 · 545 1324 · 546 1325 ·
+              547 1329 · 548 1334 · 549 1341 · 550 1347.
+              **MONOTONIC, ZERO VIOLATIONS.** INTERVALS 10·21·23·35·5·1·4·5·7·6, SUMMING **117** FROM
+              1,230, AND 1,347 − 1,230 = 117.
+              SPAN 3×360 + ((30−1) + 30×7 + 28) = 1,080 + 267 = **1,347**.  ANCHORS 59 · 239 · 329 · 360.
+              **THE FUSE: THE SITTING OF THE TENTH OF OCTOBER IS SPINE DAY −111, AND
+              1,329 − (−111) = 1,440 = 4 × 360. THE LANE'S FIRST MORNING, THE THIRD OF OCTOBER OF
+              YEAR ZERO, IS SPINE DAY −118, SO 1,347 − (−118) + 1 = 1,466 MORNINGS.**
+              **EVERY PRINTED INTERVAL IN 541–550 WAS PARSED OUT AND ITS OPERANDS SUMMED. FIVE
+              FIGURES FAIL AND NONE OF THEM PRINTS AN OPERAND AT ALL:**
+                · **542:15, THE FORTY WENT OUT FOR *FOUR* DAYS. IT IS THREE.** 29 JUL Y4 = 1,258 AND
+                  2 AUG Y4 = 1,261. THE BREAKDOWN *ONE DAY TO THE THIRTIETH OF JULY AND TWO MORE DAYS
+                  OF JULY AND ONE DAY OF AUGUST* NEEDS DAYS THAT DO NOT EXIST IN A THIRTY-DAY MONTH.
+                  THE FIGURE CARRIES TO SIX PLACES IN THE CHAPTER INCLUDING THE TITLE.
+                · **544:37, *SIXTEENTH QUARTER*. IT IS THE FIFTEENTH.** 537 HEADS ITSELF *THE THIRTEENTH
+                  SHEET*, AND THE SIXTEENTH IS THE SHEET OF THE THIRTIETH OF DECEMBER THAT HAS NOT GONE
+                  OUT YET (548:103, 550:78).
+                · **544:39, *THE NINTH DAY OF JULY WHEN THE SATCHEL CAME IN*. IT CAME IN ON THE
+                  ELEVENTH** — 541:3, 541:67, 541:120, 542:11, 547:37 AND 547:84 ALL SAY ELEVENTH.
+                · **537:95 AND 544:43, *THE FOUR YEARS IT HAS BEEN ON THAT SHEET*.** THE COLUMN WAS RULED
+                  ON THE NINTH OF MARCH OF YEAR THREE = DAY 758. AT 544 THAT IS **561 DAYS, ONE YEAR AND
+                  SIX MONTHS**; AT 537, 381 DAYS; AT 548, 576 DAYS.
+                · **548:74, *FIVE QUARTERS AND TWO YEARS OF IT*, UNDER A LIST OF SEVEN EMPTY
+                  QUARTER-ENDS ENUMERATED FOUR LINES ABOVE IT.** FROM THE RULING TO THE THIRTIETH OF
+                  SEPTEMBER OF YEAR FOUR IS **SEVEN QUARTER-ENDS, 576 DAYS.**
+              **ALL FIVE ARE CARRIED, NOT APPLIED — SEE FINDING 9. THE RATE OF FAILURE OF THE SENTENCE
+              AT `outline/volume-11.md` §9 IS NOW V8 x5, V9 x2, V10 x1, V11 x5. A GATE ROW THAT
+              QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE: 543 FAILED BOTH THE WRITING PASS
+              AND THE BATCH'S OWN ARITHMETIC ROW BECAUSE THAT ROW WAS WRITTEN FROM THE CHAPTER INSTEAD
+              OF FROM THE SPINE.**
+
+QUARTERLY     **ENTERED, RE-RUN:** one (508, Q1) · two (514, Q4) · five (524, Q8) · nineteen (527, Q9)
+FIGURES       · thirty-one (529, Q10) · thirty-four (530, Q11) · thirty-four (534, Q12) ·
+              thirty-nine (537, Q13) · **eight hundred and forty-one (539, Q14)** ·
+              **eight hundred and forty-one AGAIN (544).**
+              **THE STANDING SHEET: THIRTY-NINE AT THE THIRTIETH OF MARCH, EIGHT HUNDRED AND FORTY-ONE
+              AT THE THIRTIETH OF JUNE, THE SAME EIGHT HUNDRED AND FORTY-ONE AT THE THIRTIETH OF
+              SEPTEMBER. BOTH INTERVALS ARE NINETY DAYS AND THE FIGURE DID NOT MOVE, WITH FOUR HUNDRED
+              AND NINETEEN ACCOUNTS BEHIND IT. NO CHAPTER OF 501–550 CALLS IT A COUNT OF DEEDS; THE
+              PHRASE IS ON THE PAGE ONLY AS THE MISREADING THE CHAPTERS ARE ABOUT (541:77, 541:87,
+              534:45).** **THE QUARTER ORDINALS ARE WRONG AT 544 — FINDING 2.**
+
+ACCOUNT       `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-11/` -> **0.**
+              **NO LEDGER TOTAL AND NO RUNNING BALANCE IN GRAINS ANYWHERE.**
+              `grep -rio 'settle' chapters/volume-11/` -> **0**, AND THE INFLECTED FORMS -> **0.**
+              **NO FIGURE OF THE FORM 8,1xx. NO FLOOR.**
+
+FLOORS / RT   `grep -rio 'right temple' chapters/` -> **0 ACROSS ALL 550 CHAPTERS.**
+              `grep -rlio 'cuticle' chapters/` -> **4 FILES: 329, 340, 404, 446. VOLUME 11 -> 0.**
+              **THE OLD ROW SAID *2 FILES BOOK-WIDE*: THAT IS A PHRASE GREP AND IT UNDERSTATES THE
+              CONSTRUCTION. THE CONSTRUCTION IS AT FOUR AND STAYS AT FOUR.**
+              `left temple` STANDS IN **16 CHAPTERS** BOOK-WIDE (THE OUTLINE'S *15 OCCURRENCES* IS A
+              CHAPTER COUNT, NOT AN OCCURRENCE COUNT — **THE DISCREPANCY IS IN THE OUTLINE, NOT THE
+              PROSE**). VOLUME 11 HAS ONE, AT 505:171, AND IT IS *A GREY AT HER LEFT TEMPLE WITH THE
+              ETCHES* — **INES DUARTE'S OWN MARK, CORRECTLY AT THE LEFT.**
+
+PARAGRAPHS    **3,184 PROSE PARAGRAPHS ACROSS THE FIFTY FILES, BLANK-LINE SPLIT SKIPPING HEADINGS,
+              HEADING WORDS EXCLUDED. 0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY.**
+              **QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD.**
+              **SPEECH RUNNING ACROSS A BREAK: 0** — NO PARAGRAPH ENDS WITH AN UNCLOSED QUOTATION.
+
+HEADINGS      ONE `# ` IN 50 FILES; 347 `## ` IN ALL. **NO HEADING NAMES THE CHAPTER'S TURN.**
+              **ONE DEFECT: `chapter-0505.md` CARRIES TWO SECTIONS BOTH TITLED `## The Hour`,
+              AT LINES 91 AND 195.** FINDING 6.
+
+MARKDOWN      blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold `**` 0**.
+              **SINGLE-ASTERISK MARKERS 514 = 257 COMPLETE PAIRS, 0 ODD FILES. BEFORE THE
+              FINDING 1A REPAIR: 511 MARKERS WITH THREE FILES ODD AND THREE ITALIC SPANS UNCLOSED —
+              `chapter-0538.md:137`, `chapter-0539.md:127`, `chapter-0540.md:119`. ALL THREE APPLIED,
+              PLUS A DOUBLED COMMA AT `chapter-0538.md:131`. A FULL PUNCTUATION SWEEP FOR
+              `[,.;:!?]{2,}` AND FOR A SPACE BEFORE A FULL STOP NOW RETURNS **0 ACROSS 50 FILES.**
+              **SYSTEM PANELS: 0 IN 50 CHAPTERS.** VOLUME 10 STANDS AT TWO IN FIFTY AND THIS VOLUME'S
+              BUDGET IS FIVE; FIVE BATCHES HAVE NOW SPENT NONE.
+
+DUPLICATION   12-GRAM SCAN FIRST AGAINST **ALL 500 EARLIER CHAPTERS**, NORMALISED TOKEN METHOD,
+              THEN 11 AND 8. **12-GRAMS: 366 HITS, 277 FAMILIES. 11-GRAMS: 516 HITS, 388 FAMILIES.
+              8-GRAMS: 2,572 HITS, 1,980 FAMILIES.**
+              **EVERY 12-GRAM FAMILY CLASSIFIED BY HAND AND NONE IS AN UNREAD COUNT:**
+              · **CANON TEXT THAT MUST RECUR** — the standing sheet's boilerplate; the disposition of
+                the first of October; the clerk's rule at 508, 510, 514, 520; the second line in the
+                office's hand at the height of a name on a plate; the composition of 34-6-118 quoted
+                into a tenant's lease every quarter for nine years; Rask's line at 547, spoken in the
+                room it predicted; the clause of the twenty-first of June, all thirty-eight words, at
+                549; Hanneke Ruis's six words; the books that would have taken the account and the
+                reason nobody will say in any book that it is empty.
+              · **THE VOLUME'S OWN STRUCTURE** — *I AM GOING TO SAY ONE THING AND I AM NOT GOING TO* at
+                513, 541, 545, 547 AND 550: THE RULE OF ONE THING EACH ARRIVING AT A CHURCH.
+              · **A CHARACTER QUOTING HIMSELF** — 510 RE-STATES THE SENTENCE HE SPOKE AT THE SITTING
+                (493) AS THE THING HE REFUSES TO UN-SAY. CORRECT.
+              · **A BOOKEND** — 550 QUOTING 501'S BRANCH OPENING AND THE WOMAN WITH THE CLOTH.
+              · **THE MANUSCRIPT'S REGISTER** — THE *I AM GOING TO TELL YOU WHAT I WANT* AND
+                *PUT HER HANDS FLAT ON THE TABLE* CONSTRUCTIONS ECHOING 0061, 0171, 0186, 0258, 0259,
+                0261, 0306, 0380 AND 0395. STRUCTURAL AND LOW-VALUE. NOT CUT.
+              · **ONE STAGING RE-USE — FINDING 8.**
+              EXACT DUPLICATE PARAGRAPHS (>= 12 WORDS): **2 FAMILIES, BOTH CANON** — the definition's
+              own sentence (519/520) and the sentence of the thirtieth of September (530/537/544). THE
+              530 INSTANCE IS TWICE *IN ONE CHAPTER*, WRITTEN ON FOOLSCAP AT LINE 83 AND ENTERED BY THE
+              CLERK AT LINE 123, WHICH IS A THREE-STEP STAGING AND NOT A SLIP.
+              EXACT DUPLICATE SENTENCES (>= 10 WORDS), CROSS-CHAPTER: **2.**
+
+SCENES        **505 · 515 · 525 · 536 · 546, ALL FIVE WRITTEN OUT, NOT SUMMARISED.**
+              **340 IS VOLUME 7'S AND IS NOT CONTINUED.** 505 ANSWERS 340'S LAST LINE INSTEAD OF
+              RESTAGING IT.
+              **CADENCE RE-RUN: 11 · 10 · 10 · 11 · 10. NOTHING UNDER EIGHT, NOTHING OVER FIFTEEN.**
+              **PER-WOMAN GAPS RE-RUN: 51 · 32 · 51 · 71 · 177. NONE OF THEM IS IN THE BAND AND NO
+              FILE HERE MAY SAY ONE IS.** THE 177 IS AGNETE LINDQVIST'S AND IT IS THE LONGEST SUCH GAP
+              IN THE BOOK; IT IS DELIBERATE AND IT IS THE FIRST THING THE NEXT VOLUME SHOULD LOOK AT.
+              **EXPLICIT VOCABULARY OVER 547–550: 14 · 2 · 8 · 7 TOKENS, ALL *come / came / inside /
+              mouth* IN ORDINARY SENSES. NO SCENE AFTER 546. 546 IS THE FIFTH AND LAST SCENE.**
+              **MAY A VOLUME CLOSE WITH ITS LAST SCENE FOUR CHAPTERS BEFORE ITS LAST PAGE? YES.**
+              THE SCENE IS THE VOLUME'S LAST TURNING OF THE ENGINE IN A BODY; THE FOUR CHAPTERS AFTER
+              IT ARE WHERE THE ENGINE TURNS IN INSTITUTIONS, AND EACH CHANGES SOMETHING. THE READER IS
+              LEFT HOLDING AN UNDECIDED MAN WHO HAS JUST MADE HIMSELF THE FIRST DEBTOR OF HIS OWN
+              REGISTER, FOUR WOMEN WHO HAVE TOLD HIM WHAT THAT COST IN ORDER, AND A WALL THAT FOUR YEARS
+              OF HIS HANDWRITING HAVE NOT MADE LEGIBLE TO ANYBODY.
+              **EVERY SCENE MEASUREMENT, PRINTED UNDER THREE DEFINITIONS BECAUSE THE TWO DEFINITIONS
+              HAVE NOW DIVERGED TWICE:**
+                CH  WORDS  `##`  RECORDED SPAN  FIRST-##-TO-LAST-##  SINGLE SCENE SECTION
+                505 3,844  12    not recorded    **3,355**            full span
+                515 3,024   9    not recorded    **2,554**            full span
+                525 3,687  12    not recorded    **3,233**            full span
+                536 2,984   5    **817**         **2,071**            *What He Spent Her On* = 817
+                546 3,570   5    **1,429**       **2,794**            *The Lamp On The Bracket* = 1,436
+              **THE OLD RECORDED FIGURES WERE TAKEN BY TWO DIFFERENT DEFINITIONS INSIDE ONE BLOCK AND
+              NEITHER REPRODUCES: 536's 817 IS A SINGLE SECTION COUNTED INCLUDING ITS OWN HEADING, AND
+              546's 1,429 IS CLAIMED EXCLUSIVE OF BOTH HEADINGS WHEN THE TRUE FIGURE IS 1,430. NEITHER
+              IS THE FIRST-##-TO-LAST-## FIGURE THAT `outline/volume-11.md` §4 ACTUALLY SPECIFIES.**
+
+THE AXES      505 breaks the counted minute · 515 the quiet · 525 the body described three times ·
+              536 the terms · 546 the voice. **CARRIED BY A RULE OF THE ROOM AND NAMED BY NOBODY IN
+              ALL FIVE.** NO KETTLE, NO CHART, NO ARM TURNED UP, NO COUNTED MINUTE. 515's COT IS THE
+              WARD AND NOT THE TEMPLATE. **THE FOURTH-WALL CLASS, WIDENED, IS ZERO; THE ONLY THREE
+              HITS ARE *this page* AT 505 AND ALL THREE ARE AN AUDIT PAGE IN A CORRIDOR.**
+
+BODIES        **`outline/volume-11.md` §4a WAS READ BEFORE ANY BODY WAS EXAMINED. NO BORROWED BODY
+              IN 501–550.** `right temple` 0 BOOK-WIDE. `cuticle` 4 FILES BOOK-WIDE, 0 IN VOLUME 11.
+              Ines's grey at the LEFT temple, once, correctly at 505:171; her cuticles are not
+              mentioned at all and **THE WRIST SCAR FROM THE SPRING OF HER THIRD YEAR IS NOT USED.**
+              **Sun Meiling's spine line from 358 appears ONCE, at 507, correctly.** **Hanneke Ruis has
+              no age and no mark. Ada, Dagmar Oyelowo and Wren Kallo do not appear in Volume 11 at
+              all**, so `PC-44` and Ada's permanent grey are untouched. **Marguerite Vale gains no
+              third instance of the ink-under-the-reader's-nose construction.** **Agnete Lindqvist
+              carries only what she had at 369 — broad-shouldered and heavy, white at the front of her
+              hair, hands that do not come up to about the second joint — and is given no grey, no
+              temple, no hand-mark, no eye and no ink.**
+
+THE VOLUME   **THE VOLUME'S SENTENCE IS PAID AND THE CHAPTER SAYS SO AT 550 IN HIS OWN NOTEBOOK
+             RATHER THAN IN A REVIEW.** **THE SECOND ALTERNATIVE DID NOT HAPPEN AND NO CHARACTER IN
+             THE VOLUME SAYS IT DID.** THE REACH OF THE RETURN IS NOT RESOLVED AND IS NOT ARGUED.
+             `outline/ending.md` IS UNTOUCHED AND INHERITED WHOLE. A CLERK STILL MAY ONLY ENTER.
+             **`grep -rn 'Registrar' chapters/volume-11/` RETURNS ADEYEMI'S TITLE AND NEVER LIN HAO'S,
+             AND NO CHAPTER OF 501–550 CALLS LIN HAO THE REGISTRAR OF UNRECORDED MERIT.**
+
+THE PROPOSALS  **`PC-143` TO `PC-153`, TWELVE, ALL ON THE PAGE, ALL PROPOSED, NONE ADOPTED SILENTLY.
+             `PC-142` WAS NOT RENUMBERED AND NOTHING BELOW IT MOVED.** ALL TWELVE WERE EARNED.
+             `PC-153` — **THE LANE'S AGE, 1,466 MORNINGS, IS PRINTED AT ONE CHAPTER OF VOLUME 11 AND
+             NO OTHER**, with operands at 550:58 and an independent cross-check at 550:60.
+             `grep -rio 'four hundred mornings' chapters/volume-11/` -> **0.**
+
+STILL OPEN    **THE TWO VOLUME 11 OPENED ITSELF AND MAY NOT CLOSE: (1) THE KEEPER'S SIX WORDS NOW
+             HAVE A NAME AGAINST THEM AND SHE READS IT ON THE SECOND OF JANUARY OF YEAR FIVE — HER
+             LAST APPEARANCE IS 544, TEN DAYS BEFORE THE NAME EXISTS, AND NOTHING IN 501–550 SHOWS
+             HER READING IT; (2) WHETHER THE WOMAN TWO FLIGHTS UP OFF CORDWAIN EVER LEARNS WHAT WAS
+             DONE FOR HER.** THE 548 SELF-CONTRADICTION IS REPAIRED AND THE QUESTION IS OPEN.
+             EVERY ITEM ON `outline/volume-11.md` §8 IS STILL SHUT: `Lin Wei` 0 · `B103` 0 · `settle` 0 ·
+             the figure of the account 0 · `right temple` 0.
+
+FINDINGS      **NINE FINDINGS, RECORDED IN FULL AT `reviews/volume-11/volume-close.md` §8.**
+             **1A APPLIED** — three unclosed italic spans and one doubled comma, four characters.
+             **1–5 CARRIED, NOT APPLIED** — five arithmetic defects at 542, 544, 537 and 548, each a
+             figure printed without operands in a book whose argument is that an unmeasured interval is
+             the danger; the correct figure and every line carrying it are named, for one commit by
+             the phase that owns the batches. **6 RECORDED** — two sections of 505 both titled
+             *The Hour*. **7 RECORDED** — 534 begins with *What*, against §10. **8 RECORDED** — 515
+             gives Tessa Okonkwo Alma Quayle's seated staging from 486, verbatim, including the *since
+             about twenty to* clock. **9** — findings 1–5 as one carried item.
+
+PIPELINE      **GAP 1, RECORDED:** `workspace/volume-11/batch-0005/PROMPT.md`:148 TOLD THE WRITING
+              PHASE *THEN CREATE NOTHING ELSE… DO NOT WRITE A VOLUME-CLOSE PROMPT*, WHICH
+              CONTRADICTS `AGENTS.md` AND `PHASE_SYSTEM.md`:153. **THAT PROMPT IS THE VOLUME-CLOSE
+              PROMPT THAT INSTRUCTION OWED THE PIPELINE AND IT HAS NOW BEEN WRITTEN AND RUN. THIS
+              FILE IS NOT A PRECEDENT FOR SKIPPING THE PROMPT AGAIN.**
+              **GAP 2, RECORDED AND NOT REPAIRED HERE:** VOLUME 10 CLOSED IN PROSE AT 500 WITH NO
+              CLOSE PROMPT AND NO CLOSE AUDIT. `workspace/volume-10/` HOLDS FIVE BATCHES AND A
+              `volume-plan` AND NOTHING ELSE. **A VOLUME 10 CLOSE AUDIT IS A SEPARATE UNIT OF WORK
+              AND CREATING ITS PROMPT HERE WOULD BE CREATING A SECOND NEXT PHASE, WHICH THIS PHASE
+              IS FORBIDDEN TO DO.**
+              **GAP 3, RECORDED:** FOUR BATCH GATES IN VOLUME 11 CERTIFIED FIGURES THAT DID NOT
+              REPRODUCE. FIVE, COUNTING THE `chapter-0500.md:65` INTERVAL VOLUME 10 CARRIED FORWARD.
+
+NEXT PHASE    **`workspace/volume-12/plan/PROMPT.md`. A PLANNING PHASE. IT WRITES
+              `outline/volume-12.md` AND ITS FIRST BATCH'S CARDS AND NO PROSE.** THAT PHASE, AND NOT
+              THIS ONE, IS WHERE A DECISION IS MADE ABOUT WHETHER THE WALL GETS A THRESHOLD UNDER IT
+              OR DOES NOT. **`state/complete.md` MUST NOT BE CREATED.**
+```
+
+---
+
 # VOLUME 11 BATCH 0005 — CHAPTERS 541–550 ARE ON DISK, TEN FINISHED FILES, 22,641 WORDS. THE ELEVENTH OF JULY OF YEAR FOUR TO THE TWENTY-EIGHTH OF OCTOBER OF YEAR FOUR. **WRITTEN 14 OCTOBER 2026, AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`: FOUR FINDINGS, ALL FOUR APPLIED, NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT, DATE, CHARACTER OR TITLE MOVED, NO FIGURE CHANGED, NO PLOT CHANGED. THE FIGURES IN THIS BLOCK ARE THE POST-REPAIR FIGURES, RE-RUN BY COMMAND AFTER THE LAST EDIT. MOVEMENT FIVE, CALLED. THE LAST TEN CHAPTERS OF VOLUME 11 AND THE BATCH THAT CLOSES THE VOLUME. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > **A WRITING PHASE. IT WROTE TEN CHAPTERS, FOUR STATE FILES AND ONE OUTLINE REVISION, AND NO PROSE THAT IS NOT A CHAPTER. IT CREATED NO NEXT PHASE, NO NEXT BATCH DIRECTORY AND NO VOLUME-CLOSE PROMPT, BECAUSE §9 OF ITS OWN PROMPT SAYS THE NEXT PHASE IS THE CONTROLLER'S.**

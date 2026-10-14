@@ -128,13 +128,13 @@ He wrote it up on the twenty-fifth at the top of the third flight with the bin r
 
 *Two hundred and nineteen doors gone into since the thirtieth of March. Nine people, twenty-five days, about one a day each across the nine, and a day is how long you stand on a step until a person has finished telling you.*
 
-*The nineteenth is a man carrying a chair up an outside stair every morning for about eleven weeks and not knocking, and the round does not know what it is for, neither does he,, and I am the only person in Ostara who has ever been told and I am not going to be able to find out and I asked for it.*
+*The nineteenth is a man carrying a chair up an outside stair every morning for about eleven weeks and not knocking, and the round does not know what it is for, neither does he, and I am the only person in Ostara who has ever been told and I am not going to be able to find out and I asked for it.*
 
 Then, after a gap:
 
 *I have begun, without noticing, to go and get people.*
 
-*For as long as this office has existed I stood at a counter and waited for a person to bring me a thing they did not have to bring. That is the whole engine and it is the only thing I have ever been proud of.
+*For as long as this office has existed I stood at a counter and waited for a person to bring me a thing they did not have to bring. That is the whole engine and it is the only thing I have ever been proud of.*
 
 *And on the twenty-eighth of April at about eleven o'clock at night I sent nine women onto four streets they do not walk to fetch me nineteen strangers out of their own evenings, because I wanted to know whether a page of mine and a page of theirs were the same kind of thing.*
 

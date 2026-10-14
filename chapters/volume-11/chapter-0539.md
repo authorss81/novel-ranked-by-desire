@@ -124,6 +124,6 @@ She has been right about it for four quarters and the column is doing nothing at
 
 *The second column has been empty for four quarters and about nine hundred things went past it this quarter.*
 
-*What he said and what I have not got an answer to, and he was not going to give me one, and he is the only man in this city who has been on a landing: a street is about four seconds long and a stranger on a step is the only news anybody has had in nine years.
+*What he said and what I have not got an answer to, and he was not going to give me one, and he is the only man in this city who has been on a landing: a street is about four seconds long and a stranger on a step is the only news anybody has had in nine years.*
 
 *I put that sentence on a tally board at four in the morning and did not know it was the sentence that mattered, and the sentence I did know was the one about owing.*

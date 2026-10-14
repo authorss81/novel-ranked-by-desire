@@ -116,7 +116,7 @@ He wrote it up at the top of the third flight at a quarter to five with the bin 
 
 Then, after a gap:
 
-*I want to be able to put it back. I want the drawer and the sheet and the quarter and the four thousand people back, and I have wanted that for four minutes and I do not know what I would do with them if they came.
+*I want to be able to put it back. I want the drawer and the sheet and the quarter and the four thousand people back, and I have wanted that for four minutes and I do not know what I would do with them if they came.*
 
 *And that is the second time in four years I have wanted to put something back and the first time I did it I put a figure in the office's book against the instruction of the woman who gave it to me, and it took eleven minutes, and I would do that again.*
 

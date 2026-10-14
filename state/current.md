@@ -1,3 +1,39 @@
+# VOLUME 11 IS CLOSED AND AUDITED. CHAPTERS 501–550, FIFTY FILES, 113,615 WORDS. **CLOSE AUDIT RUN 14 OCTOBER 2026 FROM OUTSIDE EVERY PASS THAT WROTE IT. NO CHAPTER WAS WRITTEN BY THIS PHASE. FOUR CHARACTERS OF MARKDOWN REPAIR APPLIED; NINE FINDINGS RECORDED. FULL RECORD AT `reviews/volume-11/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**
+
+**PAID, NARROWLY, AND THE CHAPTER SAYS SO AT 550 IN HIS OWN NOTEBOOK.** He wrote the definition. The office still has no instrument and no money. Its second column had nothing in it for five quarters and has one line in it since the fifteenth of October, and the line is him. **THE SECOND ALTERNATIVE DID NOT HAPPEN AND NOBODY SAYS IT DID:** the second line at the foot of the ranks wall is still on the stone in the office's own hand at the height of a name on a plate, a city cannot read it, and the man with the chalk is at the wall end of a lane at about a quarter to seven and has not been answered in four years.
+
+## WHERE HE STANDS AT 551, IN ONE PARAGRAPH, FROM THE PAGE
+
+He is at rank one on a branch night shift he asked for, eleven at night until half past five, four nights and three off, a white plate with his name on it and no figure cut into it anywhere, and the rota page at that branch now carries four names on it. The Register of Unrecorded Merit has been open forty-one months and ten days as counted off the first of February of the first year, has a room with two chairs and a drawer that has been open and empty since the fourth of February of that year, and a book in which the second column, ruled on the ninth of March of the third year, was empty for five quarters and has one line in it. **That line is his.** On the fifteenth of October he entered, in his own hand and entered exactly as given by a clerk who may only enter, a claim against himself: that the thing returned on the first of October was taken from about a million people and that he decided who received it. Of the four conditions, three were met and the fourth was not, and the reason is that the thing it describes is on a page in this city. It cannot be struck. It goes out on a public desk on the thirtieth of December. A woman who dug a street for six years and was never paid is the Register's first creditor and she is two flights up off Cordwain, and **he is never going to tell her, and the page will — whether she ever reads that page is open and is carried to the next volume.** A street four streets off the yard end that has been counted four times in thirty years was read once in ninety days and every person it found lost the fourth condition of his own definition. The Church has about eleven thousand in its yard, a column it intends to fill, and a chaplain who has lost it. Emil Brack's offer — every figure he has invented, the method, and nine he decided off nothing, for one line in the office's hand saying he makes them up — **is unanswered and he is undefeated and he is right about every fact.** The slates are still in a lane off Cordwain, the wall still cannot be read by anybody, and the white tile under the last tile still has his name on it in chalk and nothing whatever under it, and nobody in this city has put it there.
+
+## WHAT THIS PHASE SETTLED
+
+1. **A volume may close with its last scene four chapters before its last page.** 546 is the fifth and last scene; 547–550 are prose and none is a scene. The four chapters after it are where the engine turns in institutions, and each changes something. The reader is left holding an undecided man who has just made himself the first debtor of his own register and a wall that four years of his handwriting have not made legible to anybody.
+2. **The arithmetic failed five times in Volume 11, not once.** The 543 interval was repaired on 14 October and holds. Four more were found by the close audit and are carried, not applied: **542's forty went out for four days and it is three** · **544's sheet is the fifteenth quarter and it says sixteenth** · **544's satchel came in on the eleventh of July and it says the ninth** · **the column has been on that sheet one year and six months and two chapters say four years** · **548 enumerates seven empty quarter-ends and then says five.** The rate of failure of the sentence at `outline/volume-11.md` §9 is now V8 ×5, V9 ×2, V10 ×1, **V11 ×5**.
+3. **`PC-150`'s thread is open, live and dated.** Hanneke Ruis's last appearance is 544, ten days before the name exists. Nothing in 501–550 shows her reading it. **The second of January, year five.**
+4. **The contradiction at 548 is repaired and the question is open.** Whether Mavis Rooke ever learns what was done for her is not decided anywhere.
+5. **All four defects the 14 October review repaired hold.**
+6. **All twelve proposals `PC-143`–`PC-153` were earned and none was adopted silently.** `PC-153` is printed at one chapter of Volume 11 and no other.
+7. **The corrected spine is right and is now the spine every later phase checks against**: 541 = 1,240 · 542 = 1,261 · 543 = 1,284 · 544 = 1,319 · 545 = 1,324 · 546 = 1,325 · 547 = 1,329 · 548 = 1,334 · 549 = 1,341 · 550 = 1,347. Monotonic, zero violations, summing 117 from 1,230.
+
+## WHAT THE NEXT PHASE OWES, IN THIS ORDER
+
+1. **Findings 1–5 as one commit**, with the correct figure and every line carrying it named, and the title bank re-run by command in the same commit.
+2. **The second of January, year five.** A keeper takes six words off a shelf and reads them and there is a name against them. Nobody has written it.
+3. **Whether Mavis Rooke ever reads a public sheet.** Open, undated.
+4. **The wall.** The next volume's sentence has to decide whether a city that cannot read the two words is paid or merely survived.
+5. **The 177.** Whether a woman who has not had a scene in a hundred and seventy-seven chapters gets one sooner.
+
+## THE STANDING RULE FOR EVERY ARITHMETIC ROW FROM HERE ON
+
+> **A gate row that quotes the prose it is checking cannot catch the prose. Every interval is derived from the spine, twice, with the operands printed — never copied out of the chapter it is meant to be checking.**
+
+**THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/plan/PROMPT.md`, A PLANNING PHASE THAT WRITES AN OUTLINE AND NO PROSE. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 550.**
+
+---
+
 # VOLUME 11 BATCH 0005 IS WRITTEN AND REPAIRED. CHAPTERS 541–550 ARE ON DISK. **WRITTEN 14 OCTOBER 2026 AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`: FOUR FINDINGS, ALL FOUR APPLIED, NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT, DATE, CHARACTER OR TITLE MOVED, NO FIGURE CHANGED, NO PLOT CHANGED. TEN FINISHED FILES, 22,641 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE LAST EDIT. MOVEMENT FIVE, CALLED. THIS IS THE LIVE BLOCK AND IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**
