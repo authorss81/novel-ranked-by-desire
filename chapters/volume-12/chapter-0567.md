@@ -4,7 +4,7 @@ Eight days from the thirtieth of March to this afternoon, and this afternoon is 
 
 One thousand four hundred and forty was the first of February of year five, the first of March was one thousand four hundred and seventy, the first of April is the day after the thirtieth of March and is one thousand five hundred, and this is the eighth, and one thousand five hundred and seven less one thousand four hundred and ninety-nine is eight.
 
-The seventeenth sheet had been out eight days, and about four hundred people a week read a standing sheet somewhere in Cordwain, and about four in every thousand of them stop at the bottom.
+The seventeenth sheet had been out eight days, and about two hundred people a week read a standing sheet somewhere in Cordwain, and about four in every thousand of them stop at the bottom.
 
 ## At The Foot Of The Hill
 

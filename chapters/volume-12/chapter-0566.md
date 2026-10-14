@@ -2,7 +2,7 @@
 
 Eleven days from the nineteenth of March to this afternoon, and this afternoon is one thousand four hundred and ninety-nine days off the first of February of the first year.
 
-One thousand four hundred and forty was the first of February of year five, and the first of March was one thousand four hundred and seventy because the thirtieth of February is the last day of a month that has thirty days in it and not the last day of the year, and the thirtieth of March is ten days after that and is one thousand four hundred and ninety-nine.
+One thousand four hundred and forty was the first of February of year five, and the first of March was one thousand four hundred and seventy because the thirtieth of February is the last day of a month that has thirty days in it and not the last day of the year, and the thirtieth of March is twenty-nine days after that and is one thousand four hundred and ninety-nine.
 
 The thirtieth of December was one thousand four hundred and nine, and one thousand four hundred and ninety-nine less one thousand four hundred and nine is ninety, and a quarter in this office is three months of thirty days, and thirty and thirty and thirty is ninety.
 

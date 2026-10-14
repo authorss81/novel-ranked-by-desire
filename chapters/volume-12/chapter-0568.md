@@ -108,7 +108,7 @@ She had done it in one night. She said so, and she said that she had done it in 
 
 ## What He Wants
 
-He stood in that office for about eleven minutes and he wanted to say one thing and he could not find a form for it and there is no form in this city.
+He stood in that room for about eleven minutes and he wanted to say one thing and he could not find a way to say it and there is not one instrument in this city that would take one.
 
 "What do you want me to do," he said.
 

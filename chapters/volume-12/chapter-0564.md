@@ -16,7 +16,7 @@ The note came to the branch at about ten in the morning and it came to him and n
 
 Four lines.
 
-*I have one thing to say and I cannot say it in the room, because the room is where I say it, and I have been not saying it for a year and four months and I have worked out why this morning.*
+*I have one thing to say and I cannot say it in the room, because the room is where I say it, and I have been not saying it for a year and five months and eight days and I have worked out why this morning.*
 
 *Come at about eleven. Do not come up the yard. Come in at the Vestry door at the bottom and do not stop in the arcade and do not speak to anybody.*
 
@@ -150,7 +150,7 @@ She wiped her forehead with the back of her wrist.
 
 "Agnete—"
 
-"You will not say it was the right thing," she said. "I know what you are going to say and it is the sentence from the sixth of October and I have had about four months to get used to it and I have not, and I am not going to be comforted by it this morning."
+"You will not say it was the right thing," she said. "I know what you are going to say and it is the sentence from the sixth of October and I have had about five months to get used to it and I have not, and I am not going to be comforted by it this morning."
 
 ## What She Is Not Going To Do
 
@@ -180,7 +180,7 @@ She sat down, and put her hands on her knees, and her hands do not come up to ab
 
 She put her hand flat on the arm of the chair, and the chair took it.
 
-"I want this. I have wanted it since the sixth of October of the fourth year, and I did not do anything about it then because a man came to my steps and I did not want the last day of that year to be that. I have been not doing anything about it for four months."
+"I want this. I have wanted it since the sixth of October of the fourth year, and I did not do anything about it then because a man came to my steps and I did not want the last day of that year to be that. I have been not doing anything about it for five months."
 
 "Yes."
 
@@ -214,7 +214,7 @@ She got his coat off his shoulders without letting go of him with the other hand
 
 She is a big woman of forty-five who has been on her feet in a yard in every month of twenty years. He got his hands on her and found that everything about her was exactly as solid as she looked and none of it gave, and she let him take her weight and then took it back.
 
-"Now," she said. "Here. Mouth. And do not be quick about it, because the last one of these was four months ago and it lasted about nine minutes and I have been thinking about it at the bottom of about eleven steps every week since."
+"Now," she said. "Here. Mouth. And do not be quick about it, because the last one of these was five months ago and it lasted about nine minutes and I have been thinking about it at the bottom of about eleven steps every week since."
 
 ## Nine Minutes In October
 
@@ -260,7 +260,7 @@ Then she stopped him with two fingers on his chest, which is a thing she does, a
 
 "And I am going to change one of the three in this room, and I am telling you while I have still got my dress on, because a rule you break in your underwear is a different thing from a rule you break in your clothes."
 
-She put her hand flat on her own thigh. "I am going first. Before I ask you anything. I am going to say the thing I want, out loud, in this room, and then I am going to take what I want, and that is a breach and it is the only one and I have thought about it for four months."
+She put her hand flat on her own thigh. "I am going first. Before I ask you anything. I am going to say the thing I want, out loud, in this room, and then I am going to take what I want, and that is a breach and it is the only one and I have thought about it for five months."
 
 "You do not have to tell me the order."
 

@@ -30,7 +30,7 @@ The first is four streets from where he was born and about nine hundred people w
 
 The ninth is four streets off Cordwain and he is standing in front of it.
 
-None of the nine has his name on it, and not one of the nine is about him, and he worked that out on the fourth of May.
+None of the nine has his name on it, and not one of the nine is about him, and he had not asked any of the nine for anything, and he was going to be asked about all nine of them for the next four years.
 
 ## What Somebody In The Corridor Said
 
@@ -78,7 +78,7 @@ A page with four columns and about a hundred and thirty-nine names in one hand, 
 
 Every name in it could describe what they had done and when and who had been there. Not one of them is on a page anywhere in this city and not one of them has been entered anywhere at all, in four years, by an office with a column and a book and a clerk.
 
-Nine days ago he read eleven accounts in about four minutes and a figure at the top of a public sheet moved for the first time in four quarters, and there was no column anywhere that said why.
+Thirty-one days ago he read eleven accounts in about four minutes and a figure at the top of a public sheet moved for the first time in four quarters, and there was no column anywhere that said why.
 
 This was the other half, written in the other half's hand, on the other half's time, by somebody who worked for nobody.
 
@@ -162,7 +162,7 @@ The second column was ruled on the ninth of March of the third year and was empt
 
 It is going out on the sheet of the thirtieth of June, which is the eighteenth, at four, and about two hundred people a week read one, and four or five in a thousand of them get as far as the bottom.
 
-Berta Skell of a street he cannot name would be on that page. She wrote it herself, in a house in Lamp Street, at about nine in the evening, and she cannot read a page, and she never gave him anything, and she is going to find out from a stranger standing at a desk in Cordwain.
+Berta Skell of a street he cannot name would be on that page. She did not write it and she cannot read it. A woman she has never met wrote it in her own hand, in a house in Lamp Street, in one night, and Berta Skell does not know that it exists, and she never gave him anything, and she is going to find out from a stranger standing at a desk in Cordwain.
 
 He cannot strike it. A clerk may only enter what she is given and cannot improve it and cannot be asked to hurry, and he has entered it himself, and there is no form in this city for striking a line a person entered against themselves in their own hand.
 
@@ -178,7 +178,7 @@ Ruta Mielke came in at about twenty past five and stood in the doorway and did n
 
 "The first one on it."
 
-"Then she is the first name on the board, because that book was written from the top down and so was the board." She did not come in. "I have been carrying that page in a coat for about a day and a night and you have had it in a drawer for about an hour, and I want to say one thing to you from a doorway and then I am going to go home."
+"Then she is the first name on the board, because that book was written from the top down and so was the board." She did not come in. "I carried that page in a coat for about five hours yesterday and you have had it in a drawer for about a day now, and I want to say one thing to you from a doorway and then I am going to go home."
 
 "Go on."
 

@@ -22,13 +22,13 @@ Aurel Stenner had eight hundred and something of his plate run out and about nin
 
 He said that last part to Yusuf Adeyemi and Adeyemi agreed with him inside four seconds and then went further than he had, and made it a rule nobody had asked him for.
 
-"There will be no name at the top of them and no mark of this office on them," said the Registrar of Unrecorded Merit. "I will not have it. I am the Registrar of an office that has one line in a column and about four hundred and thirty lines in another and no money, and the second I put in that column is the only sentence in this building with a name on it."
+"There will be no name at the top of them and no mark of this office on them," said the Registrar of Unrecorded Merit. "I will not have it. I am the Registrar of an office that has one line in a column and about four hundred and nineteen lines in another and no money, and the second I put in that column is the only sentence in this building with a name on it."
 
 "It is already on eight hundred sheets in this district."
 
 "It is on eight hundred sheets in this district with no name on them, because a compositor in this city struck his own name off his own plate in March and he was right and I have not found a way to be angry with him about it." Adeyemi had both hands behind his back, which is how he stands in that room.
 
-"I am not going to be the reason a division office in this city becomes a place where people leave pieces of paper. There is no instrument in this building that can take one back out, and there is no form anywhere in this city for saying to a person *this is not where you leave it*, and I have been looking."
+"I am not going to be the reason a division office in this city becomes a place where people leave pieces of paper. There is no instrument in this building that can take one back out, and there is nothing anywhere in this city that would let me say to a person *this is not where you leave it*, and I have been looking for four years."
 
 "You have no authority over a printer."
 
@@ -40,7 +40,7 @@ He said that last part to Yusuf Adeyemi and Adeyemi agreed with him inside four 
 
 "So you want me to print them without his name on them."
 
-"I want you to print what you are already printing, which is four lines and nothing else, on nine boards in nine corridors, where about thirty people a day walk past each one." Adeyemi turned round. "That is the whole of my instruction and I am giving it in a room with no sign on the door and it is not in writing and there is no form for it and I would rather it were not."
+"I want you to print what you are already printing, which is four lines and nothing else, on nine boards in nine corridors, where about thirty people a day walk past each one." Adeyemi turned round. "That is the whole of my instruction and I am giving it in a room with no sign on the door and it is not in writing and I would rather it were not."
 
 The printer picked the bundle up.
 
@@ -52,7 +52,7 @@ The printer picked the bundle up.
 
 ## The Nine
 
-They went up on the first of May, which is the first working day of the first month of the fifth year and not the thirtieth of April, because a division corridor is shut at four and the boards are put up by a man from the stores in the morning.
+They went up on the first of May, which is the first working day of the fourth month of the fifth year and not the thirtieth of April, because a division corridor is shut at four and the boards are put up by a man from the stores in the morning, and by eleven on the thirtieth there was not a morning left.
 
 Nine divisions. Nine corridors. Nine sheets of the same four lines with a printer's mark in the corner and no name at the top of them and nothing above them and nothing under them.
 
@@ -120,7 +120,7 @@ She went out at about a quarter to five.
 
 *Thirtieth of April of year five, a room off a third court, about a quarter to five. Thirteen days since the seventeenth of April and thirty days since the seventeenth sheet and one hundred and twenty days since a woman with a piece of slate and a bit of chalk wrote four lines on a shutter in about nine minutes.*
 
-*Nine divisions put up nine boards in nine corridors on the first of May at about two hundred and seventy people a day walking past them, with no name at the top of any of them, and I could not have stopped one of them and there is no form for stopping one of them.*
+*Nine divisions put up nine boards in nine corridors on the first of May at about two hundred and seventy people a day walking past them, with no name at the top of any of them, and not one instrument in this city can take a board down, and I could not have stopped one of them.*
 
 *And a page with about a hundred and thirty-nine names on it went into a drawer that has been open and empty since the fourth of February of the first year, and it is the first thing that has ever gone into it, and a clerk said it out loud first and put it in and shut the drawer that was already shut.*
 

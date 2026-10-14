@@ -1,4 +1,12 @@
-# VOLUME 12 BATCH 0002 IS WRITTEN. CHAPTERS 561–570 ARE ON DISK. **TEN FINISHED FILES, 26,568 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT TWO, *BORROWED*. ONE SCENE, AT 564, AGNETE LINDQVIST, EIGHTEEN CHAPTERS AFTER 546. ONE SYSTEM PANEL, AT 566, AGAINST A VOLUME BUDGET OF FIVE. THE NEXT PHASE IS `workspace/volume-12/batch-0003/PROMPT.md`, CHAPTERS 571–580, MOVEMENT THREE, *COUNTERSIGNED*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS THIRTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 12 BATCH 0002 IS WRITTEN AND REPAIRED. CHAPTERS 561–570 ARE ON DISK. **TEN FINISHED FILES, 26,625 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE REVIEW-REPAIR PASS. MOVEMENT TWO, *BORROWED*. ONE SCENE, AT 564, AGNETE LINDQVIST, EIGHTEEN CHAPTERS AFTER 546. ONE SYSTEM PANEL, AT 566, AGAINST A VOLUME BUDGET OF FIVE. THE REVIEW OF THIS BATCH IS `logs/batch-0002.review.log` AND ELEVEN FINDINGS WERE APPLIED IN THE PROSE; SEE THE OPEN ITEM BELOW. THE NEXT PHASE IS `workspace/volume-12/batch-0003/PROMPT.md`, CHAPTERS 571–580, MOVEMENT THREE, *COUNTERSIGNED*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS THIRTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## OPEN ITEM, HEAD OF THE LIST. ONE UNREPAIRED INTERVAL IN THE PAYOFF CHAPTER, AND IT IS NOT THE REVIEW'S
+
+**`chapter-0570.md`:169 PRINTS *he said so out loud in a yard a year and three months ago, and about nine hundred people in that yard told him he was wrong*.** The first of May of year five is 1,530 and the sentence points at about 1,080, which is **the first of February of the fourth year**. **NO CHAPTER IN VOLUMES 11 OR 12 PUTS THAT SPEECH IN THAT YARD.** What is on the page: `chapter-0560.md`:91 prints that in the yard of the thirtieth of January *nobody said anything about his sentence being narrow, or about the four conditions, or about the first of October*, and **nothing happened**; `chapter-0559.md` and `chapter-0560.md` print no book and no yard; the only earlier yard of about eleven thousand is `chapter-0542.md`, which is August of the fourth year, `1,530 − 1,250 = 280` days, and is not nine hundred wrong — it is **two hundred and eighty days wrong and neither reading rescues the line**. `chapter-0546.md` is the sixth of October of the fourth year, which is 205 days, and it is a room and not a yard.
+
+**WHY IT IS CARRIED AND NOT FIXED.** The sentence names a referent the reader cannot check, and there are two ways to close it: move it to the thirtieth of January, which the sentence at `state/continuity.md` §0a and the line at `chapter-0570.md`:157 and `:195 both already use, or delete the interval. **THE FIRST IS A CANON CHANGE AND THE SECOND IS A PLOT EDIT, AND NEITHER IS THIS PASS'S.** Guessing a third date and printing it would put a second invented date on a page that already had one, which is the defect the reviewer came to remove.
+
+**THE REPAIR OWES ONE CLAUSE AND NOTHING ELSE.** Any future phase that touches `chapter-0570.md`:169 either anchors the yard to the thirtieth of January of year five, which makes the interval ninety-one days and about three months and is consistent with the rest of the chapter, or cuts the interval and leaves the rest of the sentence standing. **Until one of those two things is done, this line is a claim and not a fact, and nothing else in 561–570 depends on it.**
 
 > A writing phase. It wrote `chapters/volume-12/chapter-0561.md` … `chapter-0570.md` and `outline/volume-12.md` §7 movement two's ten cards against the page, and nothing else. `outline/ending.md` is untouched. **No new enemy. No new `PC`. No scene outside 564. No second explicit vocabulary passage in a chapter that is not the scene.**
 
@@ -13,9 +21,9 @@ TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS A
               The ten match `outline/volume-12.md` §10 by whole-line string: **10 OF 10.**
 
 BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
-              561 2,193 · 562 2,091 · 563 2,308 · **564 5,619** · 565 2,509 · 566 2,106 ·
-              567 2,461 · 568 2,289 · 569 2,313 · 570 2,679. **BATCH TOTAL 26,568.**
-              Nine files inside 1,800–2,700. **564 LEAVES THE BAND BY 2,919 WORDS AND SAYS
+              561 2,193 · 562 2,091 · 563 2,308 · **564 5,622** · 565 2,512 · 566 2,106 ·
+              567 2,461 · 568 2,295 · 569 2,325 · 570 2,712. **BATCH TOTAL 26,625.**
+              Nine files inside 1,800–2,700. **564 LEAVES THE BAND BY 2,922 WORDS AND SAYS
               WHY IN `state/continuity.md` §3 AND `state/chapter-summaries.md`:** it is the
               batch's only scene, it is Aginete Lindqvist's second scene and the first in
               eighteen chapters, it is the chapter the yard's rule is turned against the woman
@@ -179,7 +187,7 @@ SCENES       **ONE, AT 564.** Its span is measured under THREE definitions becau
               | (3) scene section EXCLUSIVE of both heading lines | 2,079 | 2,851 | **2,662** |
               | explicit-vocabulary probe, scene section | 17 | 14 | **52** |
               | explicit-vocabulary probe, whole file | 21 | 20 | **76** |
-              | whole file | 3,570 | 3,730 | **5,619** |
+              | whole file | 3,570 | 3,730 | **5,622** |
               **THE PROBE BANK IS PRINTED IN FULL BENEATH THIS BLOCK AND WAS RUN AGAINST ALL THREE
               CHAPTERS SO THAT THE THREE FIGURES ARE COMPARABLE.**
               **THE SCENE IS WRITTEN OUT AND NOT IMPLIED. NO COMPULSION, NO SEDATION, NO

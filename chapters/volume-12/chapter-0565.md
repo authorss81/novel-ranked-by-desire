@@ -122,7 +122,7 @@ He had taken the name off.
 
 ## What Is On It Now
 
-There were about eight hundred of them in the city by the twentieth of March and about eight hundred people had read one by the twenty-fourth, and about one in four of them had never seen the four lines before, because the four lines had been on a shutter in four-inch chalk since the thirtieth of December and about half the people in that district cannot read chalk at forty feet from a ground.
+There were about eight hundred of them in the city by the morning of the twenty-second of March and about eight hundred people had read one by the twenty-fourth, and about one in four of them had never seen the four lines before, because the four lines had been on a shutter in four-inch chalk since the thirtieth of December and about half the people in that district cannot read chalk at forty feet from a ground.
 
 And the fourth of the four lines was on all of them.
 
@@ -146,7 +146,7 @@ On the morning of the twenty-second of March Stenner counted, because he counts,
 
 "Somebody will," said Aurel Stenner, "and I have one plate, and I am going to be able to say yes to all nine of them in about nine minutes, and there is not one thing in this city that a man with a bucket and a plate with no figure cut into it can do about that, and you have been in my shop twice now and you have not told me once that there is."
 
-*Twenty-second of March of year five, in the doorway of a printer's off Cordwain, about eleven in the morning. The chapter is the nineteenth and I was there on the nineteenth and this is the twenty-second and I have been there three times in four days.*
+*Twenty-second of March of year five, in the doorway of a printer's off Cordwain, about eleven in the morning. I put it to him on the nineteenth and he would not give me a straight answer, and I have been there three times in four days.*
 
 *About eight hundred of them and about eight hundred people have read one and one in four had never seen the four lines before, because half the people in that district cannot read chalk at forty feet from a ground.*
 
