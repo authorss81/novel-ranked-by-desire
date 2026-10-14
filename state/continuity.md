@@ -1,3 +1,91 @@
+# VOLUME 13 CHAPTERS 611–620 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE CHAPTER 611, BY TWO METHODS THAT SHARE NO CONSTANT, AND RE-RUN AGAIN IN THE SAME COMMIT AFTER THE LAST FILE LANDED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT TWO IS NOW REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE SPINE FOR 611–620, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes a year and is therefore the twelfth month of it:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). This is the convention
+           `outline/volume-12.md` §5b proves impossible to get wrong. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) otherwise;  day = 30*i + (d-1)   — contains no 360 at all
+
+610   4 Mar y6 = 5*360 + 30 + 3   = 1,833   (two flights and a landing with nobody on it)
+611  11 Mar y6 = 5*360 + 30 + 10  = 1,840   ( +7)  THE BATCH'S IRREVERSIBLE DECISION
+612  17 Mar y6 = 5*360 + 30 + 16  = 1,846   ( +6)
+613  24 Mar y6 = 5*360 + 30 + 23  = 1,853   ( +7)  SCENE, Sun Meiling
+614  30 Mar y6 = 5*360 + 30 + 29  = 1,859   ( +6)  QUARTER-END, the twenty-first sheet
+615   7 Apr y6 = 5*360 + 60 + 6   = 1,866   ( +7)
+616  15 Apr y6 = 5*360 + 60 + 14  = 1,874   ( +8)
+617  22 Apr y6 = 5*360 + 60 + 21  = 1,881   ( +7)  THE PAYMENT
+618  29 Apr y6 = 5*360 + 60 + 28  = 1,888   ( +7)
+619   6 May y6 = 5*360 + 90 + 5   = 1,895   ( +7)
+620  13 May y6 = 5*360 + 90 + 12  = 1,902   ( +7)  THE MOVEMENT'S TURN, and it is not his
+
+10 OF 10 DATES AGREE BETWEEN THE TWO METHODS. 0 MONOTONIC VIOLATIONS.
+SEAM 611-610 = 1,840 - 1,833 = 7.
+BATCH SPAN  620-611 = 1,902 - 1,840 = 62, and 7 + 6 + 7 + 6 + 7 + 8 + 7 + 7 + 7 + 7 = 62.
+QUARTER-END  30 Mar y6 = 1,859 = chapter 614 = the twenty-first sheet.
+             1,859 - 1,769 = 90, and 30 + 30 + 30 = 90, and 1769 is the twentieth sheet.
+NEXT QUARTER-END  30 Jun y6 = 1,949 = chapter 626 = the twenty-second sheet.
+VOLUME 13 SPAN  650 - 601 = 2,129 - 1,773 = 356, unchanged.
+ANNIVERSARIES  the second line went up 8 October of year one = 247 and its sixth anniversary is
+             2,047. NO CHAPTER OF 601–650 LANDS ON IT: 638 is 2,039 and 639 is 2,051 and both
+             dates fall in the gap between them. 611–620 DO NOT REACH ACROSS THAT GAP AND NEITHER
+             DATE IS NAMED IN ANY OF THE TEN. THE FUSE IS NOT RE-LIT.
+SIXTH OF MARCH  year one, day 35. 1,115 is withdrawn. Not used in this batch.
+```
+
+## 0a. THE INTERVALS THE TEN FOOTERS PRINT, PARSED FROM THE PAGE AND SUMMED WITH THEIR OPERANDS
+
+```
+611  1,840 - 1,833 = 7   ·  1,840 - 1,773 = 67   · 30 + 30 = 60 with 7 after   ·
+     1,855 - 1,840 = 15, and 11 + 15 = 26   ·  1,840 - 1,769 = 71, and 60 + 11 = 71
+612  1,846 - 1,840 = 6   ·  1,846 - 1,773 = 73, and 60 + 13 = 73   ·
+     1,855 - 1,846 = 9   ·  1,855 - 1,846 = 9
+613  1,853 - 1,846 = 7   ·  1,853 - 1,773 = 80, and 60 + 20 = 80   ·
+     1,855 - 1,853 = 2   ·  1,853 - 1,722 = 131
+614  1,859 - 1,853 = 6   ·  1,859 - 1,773 = 86, and 60 + 26 = 86   ·
+     1,859 - 1,769 = 90, and 30 + 30 + 30 = 90   ·  30 x 61 + 29 = 1,859   ·
+     1,859 - (-118) + 1 = 1,978
+615  1,866 - 1,859 = 7   ·  1,866 - 1,773 = 93, and 90 + 3 = 93   ·
+     1,866 - 1,853 = 13   ·  1,866 - 1,680 = 186   ·  1,866 - 247 = 1,619
+616  1,874 - 1,866 = 8   ·  1,874 - 1,813 = 61   ·  1,874 - 1,861 = 13   ·
+     1,891 - 1,874 = 17
+617  1,881 - 1,874 = 7   ·  1,881 - 1,827 = 54   ·  1,881 - 1,240 = 641   ·
+     1,881 - 1,723 = 158   ·  1,881 - 1,859 = 22   ·  1,949 - 1,881 = 68
+618  1,888 - 1,881 = 7   ·  1,888 - 1,773 = 115, and 90 + 25 = 115   ·
+     1,888 - 1,769 = 119   ·  1,888 - 1,722 = 166
+619  1,895 - 1,888 = 7   ·  1,895 - 1,773 = 122, and 120 + 2 = 122   ·
+     1,868 is the ninth of April   ·  1,895 - 1,723 = 172
+620  1,902 - 1,895 = 7   ·  1,902 - 1,773 = 129, and 120 + 9 = 129   ·
+     1,940 - 1,902 = 38   ·  28 June is day 1,947   ·  30 June is day 1,949
+```
+
+**EVERY FIGURE IN THAT BLOCK RE-DERIVES FROM THE TWO FORMULAS AT THE HEAD OF THIS FILE, AND EVERY ONE IS PRINTED WITH ITS OPERANDS ON THE PAGE.** The anchors it uses, re-derived here and not carried: 1,833 = 4 Mar y6 · 1,769 = 30 Dec y5, the twentieth sheet · 1,773 = 4 Jan y6 · 1,722 = 13 Nov y5 · 1,723 = 14 Nov y5 · 1,853 = 24 Mar y6 · 1,861 = 2 Apr y6 · 1,868 = 9 Apr y6 · 1,680 = 1 Oct y5 · 1,681 = 2 Oct y5 · 1,827 = 28 Feb y6 · 1,813 = 14 Feb y6 · **1,240 = 11 Jul of the fourth year, the day the ninth line down went into a book in a clerk's hand** · 247 = 8 Oct of year one · **−118 = 3 Oct of the year before the first** · 1,891 = 2 May y6 · 1,940 = 21 Jun y6 · 1,947 = 28 Jun y6 · 1,949 = 30 Jun y6.
+
+**AND THE ONE THAT HAD TO BE CORRECTED BEFORE IT WAS PRINTED.** The phase prompt gave the lane's mornings at 614 as `1,859 − (−118) + 1 = 1,977`. `1,859 + 118 + 1 = 1,978`. The page prints **1,978** with both operands and the prompt's error is recorded at `state/current.md` §0b item 1. *A figure nobody re-computes is the figure that is wrong, and this one was wrong in the file whose whole job is to catch that.*
+
+## 0b. THE SCENE AT 613, AND WHAT 621–630 OWES THE NEXT BATCH
+
+**ONE SCENE IN THIS BATCH, AT 613, AND IT IS SUN MEILING'S. 613 − 603 = 10, in band. 613 − 63 = 550, REPORTED AND NOT CERTIFIED.** The scene measured three ways from disk, with every line span beside every cell, is at `state/current.md` §0a and at `state/chapter-summaries.md`: **3,901 exclusive of both `##` lines (10–252) · 1,501 in the single scene section inclusive (91–182) · 4,580 exclusive through to end of file (10–284) · 4,415 to the last prose line (10–277) · 4,752 whole (1–284).** Eight `##` headings at 9, 37, 55, 91, 183, 209, 233 and 253, and 284 newline-terminated lines.
+
+**THE AXIS BROKEN IS THE ORDER**, carried by her room's rule and named by nobody: a folder is taken in the order it was opened and may not be taken out of order afterwards, and the first question in it is not the one anybody came for. **The chapter's structural difference from every other scene in this book: at 603 a woman had the authority and he was the one who could not be found; at 613 the room has the order and the order is hers, and the thing she has wanted for four years is to be asked, and he asks her what she is doing at the far table and she answers inside two seconds, and the chapter ends with her asking him the question she has wanted to put to anybody.** No clock inside the scene and no hour counted in it. No kettle, no chart, no arm turned up. **No hand flat on a table and no hand flat on anything.**
+
+**AND THE NEXT FOUR SCENES OF THIS VOLUME ARE NOT IN THIS BATCH.** They are at **623** (Marguerite Vale, ninety-eight chapters, a real book and a carrier), **633** (Wren Kallo, five hundred and fifteen, on a returns desk and not in her rooms) and **643** (Ines Duarte, fifty-nine, and an hour she declines to give). **No chapter of 611–620 contains an explicit passage except 613, and 613 does not turn into one twice.**
+
+## 0c. WHAT IS CARRIED OUT OF 611–620 AND INTO 621–630
+
+- **A finding with his name in it**, drawn on the eleventh of March and up on the twenty-seventh, with **a copy of the standing page behind it** so that a magistrate turns it over on any morning.
+- **A minute of a magistrate's clerk's own, in that file, going in front of a magistrate**, which records that the fourth of four lines is a statement about the absence of a page and that the rule relied on cannot be tried by the court or by any party. **It is the only page in that file nobody wrote but him, and there is no instrument in this city that takes it out.**
+- **A sentence he wrote in nine files on nine counters in nine divisions**, in nine hands, one of them a division officer's own, and he cannot withdraw one of them.
+- **Sun Meiling asked him whether he was asked, and he did not answer and will not answer again.**
+- **The Register's first creditor knows what was done for her, and was given nothing, and was thanked by nobody**, and learned it from a man with a slate in a lane at ten to seven in the morning on the twenty-second of April. **THE THREAD IS CLOSED AND NO CHAPTER OF 601–650 REOPENS IT.**
+- **A real book entry that will be written off on the second of May, in seventeen days, on the strength of a sentence of his read into it**, and a keeper who showed him a second unsealed book of her own to prove the mechanism and will not give him the carrier's address.
+- **A second demand with four lines on it and no address**, carried across a city at eleven at night by a woman who could not find an address that was not on it, and lying in a drawer at the back of a branch counter.
+- **A hall off the Vestry booked for the week of the twenty-first to the twenty-eighth of June**, on an ordinary form, and **he has been told by a woman of rank two that he is not going to be allowed in it**, and that she is not asking him for anything.
+
 # VOLUME 13 CHAPTERS 601–610 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE CHAPTER 601, BY TWO METHODS THAT SHARE NO CONSTANT, AND RE-RUN AGAIN IN THE SAME COMMIT AFTER THE LAST FILE LANDED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT ONE IS NOW REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 601–610, AND EVERY FIGURE IT CARRIES

@@ -1,3 +1,213 @@
+# VOLUME 13 BATCH 0002 IS ON DISK. CHAPTERS 611–620 ARE WRITTEN PROSE. **TEN FINISHED FILES, 26,106 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT TWO, *ASKED*. THE SCENE AT 613 IS SUN MEILING'S — 550 CHAPTERS AFTER HER LAST ONE AND 10 CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS: HE SAYS HIS OWN NAME INTO A FINDING. THE MOVEMENT'S TURN IS AT 620 AND IT IS NOT HIS: A YARD HAS A WEEK AND HE IS KEPT OUT OF IT BY A WOMAN WHO ASKED HIM FOR NOTHING. THE PAYMENT VOLUME 12 OWED IS AT 615 AND 617 AND IT IS MADE BY EMIL BRACK AND NOT BY LIN HAO. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0004, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
+
+**DELIVERED:** the office named in a finding for the first time in six years because a landlord swore where he copied the four lines from, and a magistrate's clerk entitled to one question which is *who wrote those four lines*, and a man who spent six years arranging not to be found saying his own name into a record · **a copy of the standing page copied into that file**, and a Registrar telling him he has handed the office a second address, and that the thing he was protecting against was never compulsion but being read · nine divisions returning nine lines to a finding and Beatrix Halm, deaf in one ear, asking what the two-inch space is for, and his own sentence going out in her hand to a magistrate · **the scene, two floors under a sales floor, a folder taken in the order it was opened, a woman asked for the sixth time and answering inside two seconds, and a question at the end of it that nobody in this city can answer** · the twenty-first sheet at four with the head unmoved for the fifth time running, the office at sixty-one months and twenty-nine days, the lane at one thousand nine hundred and seventy-eight mornings, both printed once with operands · a desk under a window and two mornings of a woman who cannot read standing at it · **a real book entry that a page can shut wrongly, shown on a second unsealed book a keeper has kept nine years and shown to nobody** · **the payment, in a lane at ten to seven in the morning: a woman told that a figure about her was never hers, that nobody ever told her, and that there is no way in this city of knowing whether a thing written down is true — and given nothing** · four sentences at the foot of a page read aloud in order by the man entitled to read them, and a minute of his own going in front of a magistrate · **a second demand with four lines and no address, carried across a city at eleven at night** · **a hall booked for a week, and a woman of rank two who came to tell him about it and asked him for nothing.**
+
+**THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS. WHAT IT CLOSES:** six years of having no author on anything — a rule with no author cannot be argued with, and that was the only defence he built. **WHAT IT COSTS:** his name in a document a magistrate will turn over, a copy of the office's own page inside that document, and a clerk telling him to his face that there is not one person in this city who can give him anything for it. He wanted, for about four seconds, to be a man who had not been asked. **WHAT IT IS NOT:** a scene, a rescue, a promotion, and it is not the volume's last irreversible decision, which is at 644.
+
+**REFUSED:** the figure of the account · any floor, ledger total or running balance in grains · `settle` in every inflection · the reach of the return, argued by nobody in either direction · whether the fourth condition was ever true of anybody's deed · either repainting box · the keeper's six words · who put the white tile up · Perrin Sowe · Dagmar Oyelowo · Hanneke Ruis, who is furniture in 613 and is given no age and no mark and is not a person in it · **Mavis Rooke's hand-flat, and no hand flat on a table anywhere in the ten** · a second conversation with the man with the broom · **a second time up the two flights off Cordwain, and the stair is not used** · **the identity of the woman paying a quarter into a book at the Vant, which belongs to 623 and is NOT merged with the woman on the ninth line down** · Brack thanked, diminished, defeated or wrong about any fact · **either four hundred's figure, and the four four-hundreds that do stand in these ten files are named and classified at §0c** · any day of the week · any announced age · any year numeral in the prose · any mark, temple, eye or ink for Sun Meiling, Mavis Rooke or Hanneke Ruis · a fourth-wall hit, including `manuscript` and `opposition` · any system panel · a second verbatim printing of the invented-figures sentence · anything in `outline/ending.md`, which this phase did not touch.
+
+## 0a. THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE IT. **VOLUME-WIDE WHERE THE ROW SAYS SO, AND NOT PER BATCH.**
+
+```
+FILES            10 files, chapters/volume-13/chapter-0611.md .. :0620.md.
+                 `find chapters -name 'chapter-*.md' | wc -l` -> **620**, taken by command.
+                 ONE `# ` title line in every file. ALL TEN END 0a.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 620**.
+                 The ten titles match `outline/volume-13.md` §10 by whole-line string, 10 of 10.
+                 611 The Office Named In A Finding · 612 Nine Divisions Return A Line · 613 The
+                 Sixth Time She Is Asked · 614 The Twenty-First Sheet · 615 A Desk Under Her Own
+                 Stair · 616 An Entry Open Since September · 617 Which Of These Did You Make Up ·
+                 618 The Man Entitled To Read It · 619 A Piece Of Paper Came Back · 620 The Week
+                 The Yard Decides. No written chapter was changed to make room.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 611 2,512 · 612 2,541 · 613 **4,766** · 614 2,687 · 615 2,265 · 616 2,334 ·
+                 617 2,700 · 618 2,196 · 619 2,089 · 620 2,016.
+                 **TOTAL 26,106. MEAN 2,610.6. NO CHAPTER BELOW THE 1,800 FLOOR.**
+                 *** ONE CHAPTER ABOVE THE 2,700 CEILING: 613 AT 4,766. REASON: IT IS THE
+                 SCENE AND IT CARRIES THE BATCH'S LARGEST STRUCTURAL DEBT INSIDE THIS BATCH
+                 (550 CHAPTERS SINCE SUN MEILING'S LAST SCENE, THE LARGEST OPEN IN THE VOLUME
+                 AFTER 603's 567), THE AXIS BREAK AT 613 IS THE ORDER AND THE ENTIRE SCENE IS
+                 PERFORMED IN THAT ORDER, AND THE CHAPTER ALSO CARRIES A FULL REVERSAL IN WHICH
+                 A WOMAN WHO HAS WANTED FOUR YEARS TO BE ASKED ASKS HIM INSTEAD. 584 RAN AT 1,648
+                 ONCE AND WAS WRITTEN OUT AGAINST AT 3,022; 603 RAN AT 4,188 AND WAS LEFT
+                 THERE. A SCENE IS NEVER COMPRESSED TO FIT A BAND. The other nine sit between
+                 2,016 and 2,700 and none is padded. ***
+                 *** FINDING I ADDRESSED AND MEASURED, NOT ASSERTED. Quoted spans, either glyph,
+                 body-only, per file: 59 · 60 · 132 · 50 · 47 · 51 · 66 · 48 · 49 · 44 = **606,
+                 mean 60.6 a chapter**. Paragraphs, non-blank lines that are neither a heading
+                 nor an italic footer: 66 · 73 · 131 · 66 · 57 · 55 · 81 · 64 · 54 · 51 = **698,
+                 mean 69.8**. Volume 12's five movements ran 24.7 / 52.3 / 16.1 / 17.4 / 20.7
+                 spans and 54.2 / 66.8 / 28.0 / 39.4 / 32.8 paragraphs; batch 0001 ran 44.7 and
+                 63.9. **THIS BATCH IS ABOVE BOTH ON BOTH MEASURES. The compression that ended
+                 Volume 12 at 571 has not been inherited and this batch has not inherited it
+                 either. The first draft of the batch carried twenty-six paragraphs over ninety
+                 words and three over one hundred and twenty; all twenty-nine were split at a
+                 sentence or tag boundary and every split was read. ***
+PARAGRAPHS      **0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY. 0 UNBALANCED
+                 QUOTATION PARAGRAPHS.** 698 prose paragraphs across the ten files. Each cell
+                 of the table below was counted with `wc -w` on a `sed` cut and again in
+                 whitespace split, and the two agree.
+META            The §7 class grep — `[a-z]+ volumes | this book | this chapter | this volume |
+                 no chapter | the axis | the reader | the novel | the story | the scene |
+                 Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript |
+                 this manuscript | this page | opposition` — returns **0 ACROSS ALL TEN**,
+                 INCLUDING `manuscript` AND `opposition`. The first pass returned three:
+                 `this page` at 615 and at 618 and `this volume` at 620. ALL THREE WERE REWRITTEN
+                 AND NOT ARGUED. The two weekday names that had got in as `on the Tuesday` and
+                 `on the Thursday` at 614, 615 and 617 and a `Tuesday and a Friday` round at 620
+                 were rewritten as *one morning and again on the second* and *twice a week*.
+                 **Zero is better and it was reachable.**
+WEEKNAMES       Seven names, whole word and by stem, across all ten -> **0**. The raw hits are
+                 20 instances of `Sun` in 613, which is the name, and 7 of `sat`, which is the
+                 verb. `sat` and `sun` are excluded as the prompt requires and the exclusion is
+                 correct in every instance.
+AGES            Eleven probe forms, a bare `aged` sweep, spelled-out `[0-9]+ years`, `year [0-9]`
+                 and a phrase probe for `old man/woman/boy/girl` -> **0**. The word `old` occurs
+                 only as *one of the oldest*, *the oldest ink* and *the oldest headings* and in
+                 every case it is a duration or a thing. Sun Meiling, Mavis Rooke and Hanneke Ruis
+                 are given no age at all and Mavis Rooke is given no mark. Agnete Lindqvist is
+                 named at 620 in a sentence that is about her not being there and is not aged.
+ARITHMETIC      SPINE 1,840–1,902 RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO
+                 CONSTANT. METHOD A: a January labelled y is `(y-2)*360 + 330 + (d-1)` and every
+                 other month is `(y-1)*360 + off[m] + (d-1)`. METHOD B: an absolute month index
+                 `i = (y-2)*12 + 11` for a January labelled y and `(y-1)*12 + pos(m)` otherwise,
+                 `day = 30*i + (d-1)`, which contains no 360 at all. **10 OF 10 AGREE. 0 MONOTONIC
+                 VIOLATIONS.** Intervals 6 · 7 · 6 · 7 · 8 · 7 · 7 · 7 · 7 = **62**, against
+                 `1,902 − 1,840 = 62`, and the seam `1,840 − 1,833 = 7` against 610.
+                 **THE JANUARY EXCEPTION WAS APPLIED TO BOTH METHODS AND PRINTED IN BOTH**,
+                 because it is not applied to this batch's own dates and a method that carries
+                 an exception it does not need is still a method that can carry one it does.
+                 Every interval any of the ten footers prints was parsed from the page and
+                 re-added with its operands, and all of them agree with the page; the printed
+                 list is at `state/continuity.md` §0a.
+TRAVELING       THE OFFICE'S AGE, printed ONCE, at 614: `1,859 = 30 × 61 + 29`, sixty-one months
+FIGURES         and twenty-nine days. THE LANE'S MORNINGS, printed ONCE, at 614:
+                 `1,859 − (−118) + 1 = 1,978`. THE SHEET'S ORDINAL appears at 614 as
+                 *twenty-first*. THE WALL'S HEADCOUNT is **not printed anywhere in 611–620** and
+                 at neither 617 nor 620 does the same morning's crowd get a figure. THE
+                 ACCOUNT'S FIGURE does not appear because no chapter of this volume prints it.
+                 *** SEE §0b ITEM 1. THE PHASE PROMPT PRINTED THIS LANE FIGURE AS 1,977. IT IS
+                 1,978, AND THE PROMPT IS WRONG AND THE PAGE IS RIGHT. ***
+ACCOUNT         `8,1xx` 0 · `two hundred and eleven thousand` 0 · `211,840` 0 · `settl` 0 in
+                 every inflection. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+RT / BODIES     `right temple` **0 book-wide**, re-run and not quoted. `cuticle` **4 files
+                 book-wide** (329, 340, 404, 446), unchanged; Volume 13 adds none. `ostho` **0
+                 book-wide**; the name on the page is Otho Pearse. **A HAND FLAT ON A TABLE: 0
+                 ACROSS ALL TEN, AND NOBODY PUTS A HAND FLAT ON ANYTHING.** Sun Meiling has one
+                 new physical fact from 358 and no mark; the line of work across the top of her
+                 spine is used once, at 613, and nothing else on her body is described. Hanneke
+                 Ruis is a table with a book, a strap, a lamp and a nib on a string and is given
+                 no age, no mark and no words.
+HEADINGS        One `# ` per file. `## ` headings total 40 across the ten files, no duplicate
+                 inside any file and none shared across the ten. **No heading names its
+                 chapter's turn:** `## What He Wanted`, `## What He Cannot Do About It` and
+                 `## What He Is Not Going To Be Allowed To Do` were all renamed before the gate
+                 was run, on exactly that ground.
+MARKDOWN        Blockquotes 0. Tables 0. Horizontal rules 0. Fences 0. **Bold 0.** Asterisk
+                 markers even in all ten files (12 · 6 · 8 · 6 · 8 · 8 · 6 · 6 · 8 · 6).
+                 **Straight double quotes 0 and straight apostrophes 0 across the batch**; the
+                 batch's first draft carried 10 straight apostrophes and all 10 were rewritten
+                 curly. **Book-wide, taken by command over 620 files: 56,016 straight and 3,788
+                 curly, the batch contributing 0 and 1,210.** 3,788 − 1,210 = 2,578, which is
+                 batch 0001's recorded book-wide figure at 610 files, and 2,578 − 894 = 1,684,
+                 which is the planning pass's figure at 600. **THE ROW RECONCILES DOWNWARD AND
+                 IT IS THE FIRST TIME A CURLY ROW IN THIS REPOSITORY HAS BEEN CHECKED AGAINST
+                 ITS OWN PREDECESSOR RATHER THAN AGAINST A CARRIED TOTAL.**
+SYSTEM PANELS   **0 IN TEN.** Volume 13's budget is five and **NONE IS SPENT.** Volume 12 spent
+                 one in fifty against the same budget and the standing instruction in this
+                 repository is that one spent is one too many.
+DUPLICATION     12-gram FIRST against all 620 files, body-only (headings and italic footers
+                 stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
+                 **INSIDE 611–620: THE LONGEST CONTIGUOUS RUN BETWEEN ANY TWO OF THE TEN FILES
+                 IS NINE WORDS. 0 RUNS OF TWELVE.** All twenty-one intra-batch 9-grams are house
+                 formulae: the fourth sentence, the invented-figures sentence, the calendar rule,
+                 *about two thousand people a day cannot walk past*, *boxes at the foot of it
+                 and nothing in either*, and the shape of the batch's own date opening.
+                 **AGAINST THE OTHER 610 FILES, SIXTEEN 12-GRAM CLASSES SURVIVE, AND EVERY ONE
+                 OF THE SIXTEEN IS REGISTER OR CANON DESCRIPTION, NOT PROSE.** THE FIRST DRAFT
+                 OF THIS BATCH SCORED **158** AND EVERY ONE OF THE EXTRA CLASSES HAS NOW BEEN
+                 READ AND EITHER REWRITTEN OR CLASSIFIED. The classes, longest first:
+                   (a) 0611 against 0610, six classes, all sliding windows of **the calendar
+                       rule** — *a month is thirty days and has no thirty-first*. The rule, printed
+                       across the book.
+                   (b) 0618 against 0595, 0596 and 0606, three classes: **the invented-figures
+                       sentence, standing verbatim**. It is the PRINTED INSTRUMENT and this is
+                       the ONE verbatim printing licensed for 611–620. 617 and 619 both paraphrase
+                       it in different words and neither quotes it.
+                   (c) 0618 against 0595, one class, sliding window of **the fourth sentence at
+                       the foot**, eleven words, with a different thirteenth.
+                   (d) 0611 against 0604, one class, the same eleven-word rule.
+                   (e) 0614 against 0587, three classes, all sliding windows of **the ninth line
+                       down** — a division was not permitted to ask her for a name and did not
+                       ask her, and there is no column on that page that would take one. This is
+                       canon's own sentence about a thing that cannot be varied without inventing
+                       a fact, and it is carried once, at 614, and not repeated at 617, which was
+                       rewritten in a keeper's plain words.
+                   (f) 0614 and 0619 against 0602, two classes, sliding windows of **about two
+                       thousand people a day cannot walk past the foot of**, a fact about the page.
+                 **AND THE ONES THAT WERE PROSE AND ARE NOW REWRITTEN, WHICH IS THE PART OF THIS
+                 ROW THAT MATTERS:** Sun Meiling's own canon line about not pretending she had
+                 been waiting for the right man, lifted out of 63 into 613; her staging of
+                 coming tight and then loose around him, lifted out of **358, her own previous
+                 scene, into 613**; her instruction that she would narrate while it happens,
+                 lifted out of 147; **the 603 staging of working at him with her hand and then
+                 with her mouth, lifted out of a scene chapter into another scene chapter**;
+                 Runa Sato's corridor and her hat and her bundle, lifted out of **603 into 620**;
+                 Emil Brack putting the chalk down and coming round the stools, lifted out of
+                 **609 into 617**; the 603 corridor at eleven at night with a bucket, lifted out
+                 of **603 into 619**; Solveig Rask's opening three sentences, lifted out of
+                 **607 into 616**; the nine-stools lane at a quarter to seven, lifted out of
+                 **609 into 617**; Adeyemi standing at the end of a table and not sitting down,
+                 lifted out of **221 into 614**; the desk under the window with the address
+                 showing, lifted out of 587 and 610 into 614; the knock, lifted out of 610 into
+                 615; the chest, lifted out of 599 and 605 into 620; Agnete's own words about
+                 her steps, quoted out of 606 into 620; the standing sheet described from 601
+                 into 614; the ninth line described from 610 into 615; the demand described from
+                 601 into 619; the standing-sheet figure from 604 into 611; and **five date
+                 formulas that happened to collide, including *twenty-four less seventeen is
+                 seven* at 604 and 613, which is a coincidence of two different months with the
+                 same day and the same difference, and 613's was reworded anyway.**
+                 **THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE ANY BODY WAS
+                 PLANNED AND NOT AFTER**, which is the reason the order axis carries in 613 and
+                 the reason the four body lifts above were found: two of them are her own previous
+                 scene and one of them is a scene chapter.
+SCENES           ONE IN TEN, AT 613. MEASURED THREE WAYS FROM `##` TO `##` ON DISK, WITH EVERY
+                 LINE SPAN BESIDE EVERY CELL AND THE CLOSING BOUNDARY NAMED. **`chapter-0613.md`
+                 HAS EIGHT `##` HEADINGS, AT LINES 9, 37, 55, 91, 183, 209, 233 AND 253, AND 284
+                 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## Two Floors Under A Sales Floor`
+                 AND THE LAST IS `## One Person And No Standing`, WITH NO `##` AFTER 253. THE
+                 SCENE SECTION ITSELF IS THE FOURTH, `## Four Coats On A Hook`, AT LINE 91, AND
+                 IT CLOSES ON THE FIFTH AT LINE 183 WITH NO `##` INSIDE IT.**
+
+| Definition, as `outline/volume-13.md` §4c names it | Line span in `chapter-0613.md` | 613 Sun Meiling |
+| --- | --- | --- |
+| (1) first `##` to last `##`, **exclusive** of both heading lines | 10–254 | **3,915** |
+| (2) **single scene section, inclusive** — `## Four Coats On A Hook` at line 91, closing on the fifth `##` at 185 | 91–184 | **1,515** |
+| (3) **exclusive** of both heading lines, carried through to end of file | 10–286 | **4,594** |
+| (3b) the same, stopping at the last prose line before the three italic footers | 10–279 | **4,429** |
+| whole file | 1–286 | **4,766** |
+
+**THE COUNTING METHOD, STATED BECAUSE A TABLE THAT DOES NOT STATE IT CANNOT BE RE-RUN.** Each span is cut from the file on disk with `sed -n 'A,Bp'` and counted with `wc -w`, and the same span is counted a second way in whitespace split by Python over the same lines. **THE TWO METHODS AGREE WITH EACH OTHER ON ALL FIVE CELLS** and all five agree with `state/continuity.md` §0a and with `state/chapter-summaries.md`, which carry the same five figures and the same spans.
+
+**Set B, counted at WORD BOUNDARY and not by substring, on the published list** {semen, cunt, cock, tits, pussy, cum, jizz, knob, fanny, arse, licked, sucked}: **611–620 all return 0**, and `chapter-0603.md` returns **1** on the same list, which is the parity check and it is reported here rather than argued. 613 − 603 = **10, in band**. 613 − 63 = **550, reported and NOT certified**, and no file in this repository may say that figure is inside the eight-to-fifteen band. Both adults; he is rank one with a spent chest and no permission of any kind; no compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal is the mechanism; **there is no violence in the chapter and none is turned into one**; saying yes is fast and it is enjoyable to her and it is written as specific and real and not as reluctance.
+
+## 0b. THE TWO THINGS THE PAGE DID TO THE PROMPT AND THE CARDS, AND THE CARDS AND THE OUTLINE ARE CORRECTED IN THE SAME COMMIT
+
+**THE RULE IS ONE WAY AND IT WAS EXERCISED BEFORE A WORD WAS WRITTEN. `outline/batches/volume-13-batch-0002.md` IS CORRECTED WHERE THE PAGE WON, AND `outline/volume-13.md` §7 MOVEMENT TWO IS REWRITTEN AGAINST THE PAGE.**
+
+1. **THE PHASE PROMPT PRINTED THE LANE'S MORNINGS AT 614 AS 1,977 AND THE FIGURE IS 1,978.** The first morning in that lane is the third of October of the year before the first, which is spine day **−118**, and `1,859 − (−118) + 1 = 1,859 + 118 + 1 = 1,978`. The prompt's own figure for 620, `1,902 − (−118) + 1 = 2,021`, re-derives exactly. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS ONE WAS WRONG IN THE FILE THAT EXISTS TO CATCH THAT.** The batch prints 1,978 with both operands and the discrepancy is recorded here rather than argued.
+2. **THE PROMPT FIXED NO DEADLINE FOR THE PARTY'S LINE AND THE PAGE FIXED ONE.** The prompt names the eleventh of March as the day a name goes into a finding and says nothing about when a line comes back. **THE PAGE PUTS THE LINE AT THE TWENTY-SIXTH AND THE FINDING UP ON THE TWENTY-SEVENTH**, because 613 falls on the twenty-fourth and the man is still carrying the bundle of nine returns down two flights under a sales floor. **THE TWENTY-FIRST IS ALSO THE DATE THE NINE DIVISIONS OWE WREN KALLO THEIR OWN RETURNS, WHICH IS A DIFFERENT DEADLINE AND IS STATED AS ONE AT 612.** The cards carry the page.
+
+## 0c. THE FOUR FOUR-HUNDREDS THAT STAND IN 611–620, NAMED AND CLASSIFIED, BECAUSE A BAN WITH NO LIST IS NOT A GATE
+
+`chapter-0545.md:87`'s four hundred a day at the ranks wall and `chapter-0500.md:35`'s four hundred since the first of January are **printed nowhere in 611–620**. **The four bare `four hundred` strings that do stand are these, and every one of them is a different quantity:** 612 · 97, *about four hundred people went away from a division counter believing a blank was an answer*, which is the 419 less the one the woman at the far table holds; 615 · 65, *about four hundred people a year have been pointed down that lane in nine years without being asked*; 616 · 117, *the passage under a window is four hundred yards away and round two corners*, a distance; 620 · 85, *about four hundred of them do not believe a word of what he says*, which is canon from 606. **NONE OF THEM IS THE RATE AT THE WALL AND NONE OF THEM IS THE TOTAL SINCE THE FIRST OF JANUARY.** Four hundred and nineteen and four hundred and eighteen are the standing sheet's own figures and are on the page.
+
+## 0d. THE ONE NEXT PHASE
+
+**`workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** A writing phase. It carries the twenty-second sheet at 626, the scene at 623 (Marguerite Vale, a real book and a carrier), the yard's week at 625, and **the movement's turn at 627, which is not his: at the end of a meeting about eleven thousand people take one line off their own board themselves, nobody asks the man who wrote it, and the chaplain is not there and is not asked.** No volume-close prompt, no batch 0004, and `state/complete.md` is not created.
+
 # THE SIX FINDINGS OF `logs/batch-0001.review.log`, AND WHAT THIS REPAIR DID TO EACH. **THE CHAPTERS WERE NOT RESTARTED. NO PLOT MOVED, NO DATE MOVED, NO CHAPTER WAS ADDED OR REMOVED, AND `outline/ending.md` IS UNTOUCHED. TWO CHAPTERS WERE REWRITTED IN PART — 605 AND 606 — AND SIX LINES ACROSS FOUR CHAPTERS WERE TOUCHED, NINE IN ALL. EVERY FINDING WAS RE-DERIVED INDEPENDENTLY BEFORE ANYTHING WAS CHANGED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0r. THE SIX FINDINGS
