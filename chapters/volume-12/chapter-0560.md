@@ -44,7 +44,7 @@ He could have said nothing and let somebody else answer and there are about elev
 
 Out loud. In his own voice. About nine feet off a shutter, to a woman he had never met, with about eleven thousand people in a yard in daylight.
 
-"I wrote them," he said. "On the thirtieth of March of the fourth year, at about four in the morning, on a piece of a bin-room tally board. They went out on a public page on the thirtieth of September of the third year and they went out again on the thirtieth of December with my name at the head of the second column. I am the man whose name is on that page."
+"I wrote them," he said. "In forty days in the second year, and I read them out at my own kitchen on the nineteenth of July. They went out on a public page on the thirtieth of June of the second year, and the one that went out on the thirtieth of December had my name at the head of the second column. I am the man whose name is on that page."
 
 He stopped there.
 
@@ -74,7 +74,7 @@ She came to about six feet off, the way the other one had, and she stood with he
 
 He had that ready too. He had four things ready and three of them were true and one of them was a sentence.
 
-He looked at about eleven thousand people in a yard at about half past eleven in the morning on the last day of a month in the first month of the fifth year.
+He looked at about eleven thousand people in a yard at about half past eleven in the morning on the thirtieth of January of the fifth year.
 
 There is not one instrument in this city that can put a person back inside a definition. A magistrate's room in about four years will be the only place on earth where his four lines have ever been applied by anybody with the power to make them stick.
 

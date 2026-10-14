@@ -1,8 +1,35 @@
-# VOLUME 12 BATCH 0001 IS WRITTEN AND GATED. CHAPTERS 551–560 ARE ON DISK. **THE GATE BELOW WAS RUN BY COMMAND IN THE COMMIT THAT WROTE THEM AND EVERY ROW IS A MEASUREMENT, NOT A CLAIM. TEN FILES, 21,750 WORDS COUNTED PER FILE AND SUMMED. ONE SCENE, AT 554. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE. THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 12 BATCH 0001 IS WRITTEN, GATED AND REPAIRED. CHAPTERS 551–560 ARE ON DISK. **THE GATE BELOW WAS RUN BY COMMAND IN THE COMMIT THAT WROTE THEM AND RE-RUN BY COMMAND AFTER THE 14 OCTOBER 2026 REVIEW REPAIR, AND EVERY ROW IS A MEASUREMENT, NOT A CLAIM. TEN FILES, 21,947 WORDS COUNTED PER FILE AND SUMMED. ONE SCENE, AT 554. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE. THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > A planning phase. It wrote `outline/volume-12.md` and its first batch's cards and no prose. `outline/ending.md` is untouched. `state/complete.md` is NOT created; the series is planned past 560.
 >
 > **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 561–570, MOVEMENT TWO, *BORROWED*. DO NOT PRE-CREATE A BATCH 0003.**
+
+## THE 14 OCTOBER 2026 REVIEW OF THIS BATCH — EIGHT FINDINGS AND ONE CONFIRMATION, ALL NINE APPLIED
+
+**`logs/batch-0001.review.log`. NO CHAPTER WAS RESTARTED. NO SCENE WAS REPLACED. NO EVENT, DATE, CHARACTER OR TITLE MOVED. NO SPINE DAY AND NO INTERVAL CHANGED. NO PLOT CHANGED. `outline/ending.md` UNTOUCHED AND NO NEW FINAL ENEMY.** The full narrative is at `state/current.md` §0a; the four corrected facts are canon-listed at `state/continuity.md` §0.
+
+**WHAT THE REVIEW NAMED AS ITS OWN PRIORITY WAS RIGHT, AND IT IS THIS ONE: FINDING 4, THE WRONG PUBLICATION DATE. IT WAS WRONG BY MORE THAN A YEAR AND IT WAS BEING SPOKEN ALOUD TO ABOUT ELEVEN THOUSAND PEOPLE AT THE BATCH'S IRREVERSIBLE MOMENT.** Four chapters had said the four conditions were written on a bin-room tally board at four in the morning on the thirtieth of March of the fourth year and had gone out on the thirtieth of September of the third year. **The tally board at that hour carried the request for a round. The definition was drafted in forty days in the second year and went out on the sheet of the thirtieth of June of year two. The thirtieth of September of year three is when the second column went out, which is a different thing, and the batch had merged them.**
+
+### The four facts now fixed, and a later phase may not re-break any of them
+
+| | Was on the page at | Is on the page now | Canon |
+| --- | --- | --- | --- |
+| **Where the four conditions came from** | 552:83 · 556:25 · 559:59 · 560:47 | **drafted in forty days from the ninth of March of year two, read out at the Ferrier Street kitchen on the nineteenth of July** | `0517.md`:3 · `0519.md`:3 and `:35` |
+| **When they first went out** | 552:85 · 560:47 | **the sheet of the thirtieth of June of year two** | `0520.md`:15 · `0524.md`:95, `:107` |
+| **Ruta Mielke's age** | 557:105, :129 · 558:9, :19, :107 — **five places** | **none. She is *a woman who keeps a list* and *the one doing the sums*** | `outline/volume-12.md`:400 |
+| **Where the Register is** | 554:5, *two floors above this room* | **in a room off a third court.** The counting room is two floors *under* a sales floor and is a different building | `0551.md`:3 · `0507.md`:3 · `0517.md`:23 |
+
+**THE FOURTH ROW IS NOT A PLOT CHANGE. IT IS A ROOM.** The 554 interval `1,411 − 1,334 = 77` is untouched and the chapter's event is untouched; only the floor in one clause was wrong.
+
+### The rest, in one line each
+
+- **An announced age for Lin Hao**, `0556.md`:119, *since I was seventeen*, which every numeric probe missed because it is spelled out. **Now the eighteenth of October of the first year**, which is the stall-keeper's own date.
+- **558 contradicted itself on August**, `:17` *the second month of the fourth year* against `:33`. **February is month one. It reads the seventh month of the fourth year.**
+- **The scene at 554 was thin against the book's own explicit bar**, and this was the one finding the review put to a decision. **Decision recorded: not replaced, repaired in three passages inside the act.** `:133` had filtered two whole movements into *she told him what she wanted next in one sentence and he did it*; `:137` said only *worked on him*; `:151` had *told him what she wanted* with no body in it. **All three are written out. Every beat is unchanged: she asks, he asks, she says she wants it before she has it, he finishes inside her, she has the arrhythmia, the two lines on the page stay in the order of the ink.** Probe, scene section **11 → 14**, whole file **18 → 20**. Chapter **3,595 → 3,730**.
+- **Two minor lines**, `0556.md`:43 *in the two hundred and thirty yards* → *for* two hundred and thirty yards, and `0560.md`:77 *on the last day of a month in the first month of the fifth year* → *on the thirtieth of January of the fifth year*.
+- **The confirmation, not a finding.** `0559.md`:59 put his recognition at four in the morning on the eleventh of July while `0541.md`:3 has the satchel on the counter at a quarter to ten the same morning. **Both stand and the page now says so:** *about five hours and three quarters earlier than the counter and not after it*, and the tally board across his knees is **empty**, because the four lines were not his from that morning.
+
+**THE GATE RE-RUN AFTER THE REPAIR, BY COMMAND:** ten files · one `# ` each · trailing byte `0a` on all ten · **0 duplicate titles across all 560** · **0 paragraphs over 90 words and 0 over 120** · **0 odd quotation marks** · 0 blockquotes, tables, rules, code blocks, `**` spans · **0 system panels** · `settle` in any inflection **0** · the account figure **0** · all seven weekday names **0** · `right temple` **0 across all 560** · `cuticle` still exactly **4 files** (329, 340, 404, 446) · `Mavis Rooke` **0** · `Emil Brack` **0** · `nobody was thanked` **0** · the fourth-wall class **0** · the nine age probes plus bare `aged` plus two spelled-out sweeps **0**.
 
 ## THE FIGURE THE BATCH BRIEF GOT WRONG, RECORDED FIRST BECAUSE IT IS THE ONE THIS BATCH FOUND
 
@@ -28,9 +55,10 @@ TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS A
               The ten match `outline/volume-12.md` §10 by whole-line string: **10 OF 10.**
 
 BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
-              551 2,474 · 552 1,983 · 553 1,839 · **554 3,595** · 555 1,800 · 556 1,819 ·
-              557 1,951 · 558 1,881 · 559 2,170 · 560 2,238. **BATCH TOTAL 21,750.**
-              Nine files inside 1,800-2,700. **554 LEAVES THE BAND BY 895 WORDS AND SAYS WHY
+              551 2,474 · 552 1,987 · 553 1,839 · **554 3,730** · 555 1,800 · 556 1,826 ·
+              557 1,947 · 558 1,871 · 559 2,242 · 560 2,231. **BATCH TOTAL 21,947.**
+              COUNTED AGAIN BY COMMAND AFTER THE 14 OCTOBER 2026 REVIEW REPAIR.
+              Nine files inside 1,800-2,700. **554 LEAVES THE BAND BY 1,030 WORDS AND SAYS WHY
               IN `state/continuity.md` §3 AND `state/chapter-summaries.md`:** it is Volume 12's
               first scene, the only one in the batch, the chapter this repository has carried a
               fixed date for since 548, and the chapter in which the woman's own question is spent.
@@ -50,11 +78,35 @@ WEEKNAMES    Monday Tuesday Wednesday Thursday Friday Saturday Sunday, all seven
 AGES         `aged \d+` · `aged of \d+` · `\d+ years old` · `\d+ years of age` ·
               `\d{2}-year-old` · `\d{2} year old` · `in (her|his|their) (early|mid|late)
               (twenties|thirties|forties|fifties|sixties)` · `a (girl|boy|woman|man|child) of
-              TWENTY..NINETY` · bare `aged` -> **0.** **HANNEKE RUIS IS GIVEN NO AGE AND NO MARK
+              TWENTY..NINETY` · bare `aged` · `since (i|he|she|they) (was|were)` ·
+              `\b(sixteen|seventeen|eighteen|nineteen|twenty|twenty-one|twenty-two)\b
+              years old` -> **0.** **THE `since X was Y` FORM IS THE ONE THAT CAUGHT FINDING 1
+              AND IT IS THE ONE TO RUN. A BARE SPAN OF YEARS IS NOT AN AGE AND IS NOT
+              FORBIDDEN: `chapter-0554.md`:71 reads *I asked it of a man who has been dead
+              twenty-two years*, which is a span, and it stands.** **HANNEKE RUIS IS GIVEN NO AGE AND NO MARK
               IN 554. Her only physical claims in the file are the lamp, the chair, the cold room
-              and her hands, and her hands are described once.** Three `a woman of sixty`
-              constructions in the first draft were replaced with `a woman who was somewhere past
-              sixty` and `a woman of about sixty`, which is a different claim and not an age.
+              and her hands, and her hands are described once.**
+              **THE 14 OCTOBER 2026 REVIEW OVERTURNED THE REASONING THAT WROTE THIS ROW, AND THE
+              REASONING WAS WRONG.** An earlier version of this gate recorded that three
+              `a woman of sixty` constructions had been replaced with `a woman who was somewhere
+              past sixty` and `a woman of about sixty` *because that is a different claim and not
+              an age*. **THAT IS NOT TRUE. IT IS THE SAME AGE SOFTENED. `outline/volume-12.md`:400,
+              CARD 558, SAYS *Ruta Mielke, who is given no age and no mark*, AND ALL FIVE PLACES
+              ARE NOW OUT.** Ruta Mielke is aged **zero** times in 551–560 and is described only
+              as *a woman who keeps a list* and as *the one doing the sums*.
+              **EVERY `sixty` IN 551–560 ACCOUNTED FOR, AND NONE OF THEM IS AN AGE:** three hundred
+              and sixty (arithmetic, 551, 553, 559) · *about sixty times* (a count of walks past
+              the form, 552) · *about sixty feet* (a distance, 556) · and **ONE bystander, at
+              `chapter-0558.md`:27, *That one is about sixty-one and he will tell you he is
+              fifty*** — an unnamed man Ruta is counting on her list, **not Ruta, and not a
+              character.** **THAT ONE IS LEFT ON THE PAGE DELIBERATELY: THE JOKE SHE IS MAKING IS
+              THAT PEOPLE LIE ABOUT THEIR AGE, AND THE JOKE IS THE CHARACTER'S WHOLE FUNCTION IN
+              THE SCENE. THE REVIEW READ IT AND DID NOT RAISE IT, AND IT MATCHES NONE OF THE NINE
+              NUMERIC PROBES.** **RUTA MIELKE IS AGED ZERO TIMES AND THAT IS THE FIGURE.**
+              **THE SPELLED-OUT PROBES WERE ADDED BECAUSE FINDING 1 SLIPPED THROUGH ALL NINE
+              NUMERIC ONES:** `0556.md`:119 read *since I was seventeen*, which no numeric probe
+              catches. It now reads the stall-keeper's own canon date, **the eighteenth of October
+              of the first year** (`0552.md`:93, `0553.md`:53, `0556.md`:53).
 
 ARITHMETIC   The spine 551-560 re-derived from two formulas that share no constant, monotonic at
               **0 violations.** 551 1406 · 552 1409 · 553 1410 · 554 1411 · 555 1416 · 556 1419 ·

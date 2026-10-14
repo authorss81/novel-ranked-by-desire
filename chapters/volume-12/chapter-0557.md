@@ -102,7 +102,7 @@ He stood and listened to it swing, and thought about a man who has made himself 
 
 ## The First List Made For Nothing
 
-At about half past three that morning a woman of about sixty came to the office of that building off a third court, which has no sign on the door and is not on any of the pages, and asked for a sheet of paper and a pencil.
+At about half past three that morning a woman came to the office of that building off a third court, which has no sign on the door and is not on any of the pages, and asked for a sheet of paper and a pencil.
 
 She had been keeping a list since the second of January. She had eighty-one names on it and what each person had brought and the evening they brought it, in her own hand, and it was a good hand, and she had ruled it herself with the straight edge off the counter.
 
@@ -126,4 +126,4 @@ And the fourth condition said the thing it describes was not on a page anywhere 
 
 *A board up thirteen days. A yard decided on the second night that it was a rule and not a notice, and the word is asked for, and about a hundred people have carried something to the foot of it and stood back from it.*
 
-*And a woman who was somewhere past sixty came to this office with a sheet she ruled herself and eighty-one names on it in her own good hand and asked me whether she was allowed, and I said yes, and I am not the person who could have said no.*
+*And a woman who keeps a list came to this office with a sheet she ruled herself and eighty-one names on it in her own good hand and asked me whether she was allowed, and I said yes, and I am not the person who could have said no.*

@@ -56,7 +56,11 @@ One hundred and ninety days.
 
 That is one thousand four hundred and thirty less one thousand two hundred and forty, and the eleventh of July of the fourth year is one thousand two hundred and forty, and it is the morning a satchel went on a counter at a quarter to ten and about nine hundred pages came out of it. A hundred and ninety days is six months of thirty days each, which is a hundred and eighty, and ten days, and a hundred and eighty and ten is a hundred and ninety.
 
-On that morning he worked out — standing on the top step of his own branch stair at four in the morning, with a bin-room tally board across his knees — that the fourth of his four lines had killed itself, because the thing it describes had gone onto a page. He wrote it down. He has known it every day since.
+And before any of that, at four in the morning, which is about five hours and three quarters earlier than the counter and not after it, he stood on the top step of his own branch stair with a bin-room tally board across his knees and nothing at all written on it, and worked out there that the fourth of his four lines had killed itself, because the thing it describes had gone onto a page.
+
+The four lines were not his from that morning. They had gone out on a public page on the sheet of the thirtieth of June of the second year, and a woman at a counter off a fourth court had a copy of them in a box. He wrote it down.
+
+He has known it every day since.
 
 And he had not done one thing about it, and he had not told anybody, and he had spent a hundred and ninety days choosing not to.
 

@@ -6,7 +6,7 @@ The woman who keeps the list came and got him out of the corridor at about eleve
 
 She had done it properly. She had come to the branch at about ten with a note in her own hand and given it to Nadia Ferrous at the counter, and Nadia had brought it down the corridor at about a quarter to eleven and stood at the end of it and waited, and she had not read it, and she said afterwards that she had not read it on purpose.
 
-The note said four lines. It said that the Register could not take her list and that everybody in that yard needed to hear it from a man in an office rather than from a woman who was somewhere past sixty with a pencil, and that it would take about four minutes.
+The note said four lines. It said that the Register could not take her list and that everybody in that yard needed to hear it from a man in an office rather than from a woman with a pencil, and that it would take about four minutes.
 
 He had not gone up that hill once in four years and had said out loud on the street that he was not going to.
 
@@ -14,11 +14,11 @@ He went up it at about a quarter to eleven on the sixteenth of January because s
 
 ## About Nine Hundred Of Eleven
 
-There were about nine hundred of them in that yard in daylight, which is a different number from eleven thousand in the evening, and about nine hundred is also the number that had come apart in the same yard in the second month of the fourth year when forty women went out for three days to ninety-one doors and came back with nothing.
+There were about nine hundred of them in that yard in daylight, which is a different number from eleven thousand in the evening, and about nine hundred is also the number that had come apart in the same yard in the seventh month of the fourth year when forty women went out for three days to ninety-one doors and came back with nothing.
 
 He knew that number because a woman had told it to him at a table in a room behind the arcade. He did not know anybody in that yard.
 
-The one doing the sums was about sixty and had been in the yard for nine years and did not work for the Church and had not been to the Vestry door in nine years, and when he came through the arcade she looked at him for about two seconds and then went back to her arithmetic, out loud, at the bottom of the steps, to nobody.
+The one doing the sums had been in the yard for nine years and did not work for the Church and had not been to the Vestry door in nine years, and when he came through the arcade she looked at him for about two seconds and then went back to her arithmetic, out loud, at the bottom of the steps, to nobody.
 
 "You have come up here," she said. "That is new."
 
@@ -104,7 +104,7 @@ She went back to her sums and got to where she had left off.
 
 *Sixteenth of January of year five. Three days from the thirteenth. The yard, about a quarter past eleven in the morning, about nine hundred people.*
 
-*I went up the hill because a woman who was somewhere past sixty wrote me four lines and I have not gone up it once in four years and I have said out loud on a street that I would not.*
+*I went up the hill because a woman who keeps a list wrote me four lines and I have not gone up it once in four years and I have said out loud on a street that I would not.*
 
 *And the two nine hundreds are not the same nine hundred and about half of the difference is one word, and the other half of it is that about nine in ten of what a person walks in with cannot say the day, and that has been true every time anybody ever measured it.*
 

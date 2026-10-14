@@ -80,9 +80,9 @@ Four lines.
 
 He read them at forty feet.
 
-He had written them on a piece of a bin-room tally board at four in the morning on the thirtieth of March of the fourth year, and Alma Quayle had read them at a counter off a fourth court in the same month and put them in a box.
+He had drafted them in forty days from the ninth of March of the second year and read them out at a kitchen off Ferrier Street on the nineteenth of July, and Alma Quayle had read them at a counter off a fourth court and put them in a box.
 
-They had gone out on a public page at four on the thirtieth of September of the third year, and about two hundred people a week in this city had read them since, and not one of them had ever been at the top of a hill.
+They had gone out on a public page at four on the sheet of the thirtieth of June of the second year, and about two hundred people a week in this city had read them since, and not one of them had ever been at the top of a hill.
 
 And they were up there now in four-inch chalk on a shutter, and there was no notice at the top of them. No address at the head. No office. No figure and no quarter and no hand but the yard's own.
 

@@ -2,7 +2,7 @@
 
 One person reads it, and it is him, and he came down the two flights at about ten past four in the afternoon of the second of January with nothing in his coat.
 
-One day from the first of January to this afternoon, and seventy-seven days from the morning he put a name in a column two floors above this room: fifteen days of October after the fifteenth, and thirty of November, and thirty of December, and two of January, and fifteen and thirty and thirty and two is seventy-seven.
+One day from the first of January to this afternoon, and seventy-seven days from the morning he put a name in a column in a room off a third court: fifteen days of October after the fifteenth, and thirty of November, and thirty of December, and two of January, and fifteen and thirty and thirty and two is seventy-seven.
 
 The chain came off the shelf and the book came off the shelf and the strap came off, and she put all three on the table and uncorked the ink and did not turn the page round to face him.
 
@@ -130,11 +130,13 @@ She was better at this than anybody he had ever been with, and she was not fast 
 
 "You are used to people being careful with you," she said. "I can tell. It is in the shoulders and it is in the way you wait to be asked. I am thirty years in rooms that go cold and I have not been careful with anybody since about the year your Ferrier line was cut, and I am not going to start now with the only man who has come down two flights in two years."
 
-She told him what she wanted next in one sentence and he did it, and she told him what she wanted after that in one sentence and he did that too, and there was no part of it in which either of them asked the other whether they were sure.
+She told him what she wanted next in one flat sentence and he did it, with his mouth against her throat where he could feel her pulse going and his hands where she had put them, and she told him what she wanted after that in one sentence and he did that too, and there was no part of it in which either of them asked the other whether they were sure.
+
+She put a hand flat on the back of his head and held him there when she wanted him to stay, and let go of him when she wanted him to move, and neither of them used a word for it. Twice she got him up off the edge of the table and back into her with her own hips. Once she held him still under her palm and took her time getting her breath, and he held still, and he had not been still for anybody in four years.
 
 "Wait," she said. "I have been in this room thirty years and I am going to do this properly and I am not going to be quick about the first part of it."
 
-She put two fingers on his chest and turned him about ninety degrees and sat down on the table and drew him in front of her and worked on him with her hands and her mouth and no hurry at any point in it.
+She put two fingers on his chest and turned him about ninety degrees and sat down on the table and drew him in front of her, took him into her mouth with her hand closed round the base of him, and worked on him with her mouth and her hands and no hurry at any point in it.
 
 The thing that made it different from every other time in four years was that she kept stopping. Not to make a point. To look at him, in a room with no window and one lamp, about four times, for as long as it takes to read a figure.
 
@@ -148,7 +150,7 @@ The thing that made it different from every other time in four years was that sh
 
 "I know you stood. I have watched you stand four times." She got her hand behind his neck and pulled his head down until their foreheads were touching. "You may sit on the table. That is the only new thing I am going to say about furniture."
 
-She held the back of his neck with one hand and took him into her in her own time, all the way in, and told him what she wanted, in short flat sentences, in the order she wanted it. She did not ask him once whether he wanted it and he did not tell her once that he did not have to, and the table went about half an inch across the floor on its old feet and neither of them heard it.
+She held the back of his neck with one hand and took him into her in her own time, all the way in, and told him what she wanted next in short flat sentences in the order she wanted it, with her mouth against his collarbone. She did not ask him once whether he wanted it and he did not tell her once that he did not have to, and the table went about half an inch across the floor on its old feet and neither of them heard it.
 
 "I have thought about this room since about the ninth of July," she said. "Not about you. About the room. There is nowhere in this city a person can go where what is said cannot be used against them, and there are about eleven thousand people who go up a hill every week and are told there is one, and it is not here."
 

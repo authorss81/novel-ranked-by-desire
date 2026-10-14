@@ -1,10 +1,21 @@
-# VOLUME 12 BATCH 0001 IS WRITTEN. CHAPTERS 551–560 ARE ON DISK. **`outline/volume-12.md` §7'S TEN CARDS FOR 551–560 WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, AND ONE DAY NUMBER IN THE BATCH BRIEF WAS FOUND WRONG AND CORRECTED. NO CHAPTER 561 EXISTS. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 12 BATCH 0001 IS WRITTEN AND REPAIRED. CHAPTERS 551–560 ARE ON DISK. **`outline/volume-12.md` §7'S TEN CARDS FOR 551–560 WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, ONE DAY NUMBER IN THE BATCH BRIEF WAS FOUND WRONG AND CORRECTED, AND THE WHOLE BATCH WAS REPAIRED THE SAME DAY AGAINST `logs/batch-0001.review.log`: EIGHT FINDINGS AND ONE CONFIRMATION, ALL NINE APPLIED, NO CHAPTER RESTARTED, NO EVENT MOVED, NO PLOT CHANGED. NO CHAPTER 561 EXISTS. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > **THE SENTENCE:** *In this volume, **Lin Hao must put two words a city has never been able to read where the city already reads every morning**, or **the Register ends as one line in one column in one chained book two floors under a sales floor, and the last person who ever reads it is a keeper who finds his name there on the second of January and puts the book back on the shelf**.*
 >
 > **THE ONE DATE THIS VOLUME OWED IS PAID AT 554.** The keeper read the page on the second of January of year five, asked the question she had carried for eleven years, spent it, and the account is still open. **After 554 this thread is closed and no chapter of 551–600 reopens it.** `outline/volume-12.md` §8 item 1 is discharged.
 >
 > **THE IRREVERSIBLE DECISION IS PAID AT 560 AND IT IS HIS.** He said yes out loud in a yard in front of about eleven thousand people and the true answer to the only question anybody asked him there was nothing.
+
+## 0. THE 14 OCTOBER 2026 REVIEW REPAIR, AND THE FOUR FACTS IT FIXED. **THESE FOUR ARE NOW CANON AND A LATER PHASE THAT RE-USES THEM MUST USE THESE.**
+
+- **WHERE THE FOUR CONDITIONS CAME FROM.** **DRAFTED IN FORTY DAYS FROM THE NINTH OF MARCH OF YEAR TWO, FINISHED ON THE NINETEENTH OF APRIL OF YEAR TWO, AND READ OUT AT THE KITCHEN OFF FERRIER STREET ON THE NINETEENTH OF JULY OF YEAR TWO.** `chapter-0517.md`:3, `chapter-0519.md`:3 and `:35`, `outline/volume-11.md`:240. **THE TALLY BOARD AT FOUR IN THE MORNING ON THE THIRTIETH OF MARCH OF YEAR FOUR CARRIED THE REQUEST FOR A ROUND AND NOT THE DEFINITION** — `chapter-0537.md`:3 and `chapter-0541.md`:29 — **and no chapter may say otherwise again.**
+- **WHEN THE FOUR CONDITIONS FIRST WENT OUT.** **THE SHEET OF THE THIRTIETH OF JUNE OF YEAR TWO.** `chapter-0520.md`:15, `chapter-0524.md`:95 and `:107`. **THE THIRTIETH OF SEPTEMBER OF YEAR THREE IS NOT THE DEFINITION'S DATE — IT IS WHEN THE SECOND COLUMN WENT OUT** (`chapter-0530.md`:119, `chapter-0540.md`:69), and `chapter-0540.md`:57 separately dates the printed sentence to the thirtieth of September of year three. **These two are different things and they were merged four times in 551–560 and are now separated.**
+- **RUTA MIELKE IS GIVEN NO AGE AND NO MARK, EVER.** `outline/volume-12.md`:400, card 558. **SHE WAS AGED FIVE TIMES IN 551–560 AGAINST HER OWN CARD AND IS NOW AGED ZERO TIMES.** She is described only as *a woman who keeps a list* and as *the one doing the sums*. **A SPAN OF YEARS IS PERMITTED AND AN AGE IS NOT** — she has been in that yard for nine years and that is not an age.
+- **WHERE THE REGISTER IS AND WHERE THE COUNTING ROOM IS.** **THE REGISTER IS IN A ROOM OFF A THIRD COURT** (`chapter-0551.md`:3, and the book on the table at `chapter-0548.md`). **THE COUNTING ROOM IS TWO FLOORS UNDER A SALES FLOOR** (`chapter-0507.md`:3, `chapter-0517.md`:23). **THEY ARE NOT IN THE SAME BUILDING AND NO CHAPTER MAY PUT THE REGISTER ABOVE OR BELOW THE COUNTING ROOM.** The 554 clause that did so now reads *in a room off a third court*.
+
+**ALSO FIXED, ONE LINE EACH, AND THE FACTS WERE NEVER IN DOUBT:** `0556.md`:119 no longer announces Lin Hao's age and reads the stall-keeper's own date, the eighteenth of October of the first year · `0558.md`:17 reads the **seventh** month of the fourth year for August, February being month one · `0560.md`:77 reads the thirtieth of January of the fifth year, which is the chapter's own date, and `0556.md`:43 reads *for* two hundred and thirty yards either side of this one, which was reading as a count of yards in a list of counts of yards. **THE SCENE AT 554 WAS REPAIRED IN THREE PASSAGES INSIDE THE ACT AND NOT REPLACED; EVERY BEAT IS UNCHANGED AND THE ACCOUNT IS STILL OPEN.**
+
+**AND THE HOUR AT 559 IS SETTLED RATHER THAN LEFT AMBIGUOUS:** he worked it out **at four in the morning** on the eleventh of July of year four, spine day 1,240, **which is about five hours and three quarters before `chapter-0541.md`:3 puts the satchel on the counter at a quarter to ten on the same morning, and not after it.** Both stand and neither was moved.
 
 ## 1. THE SPINE, 551–560, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE
 
@@ -34,7 +45,7 @@ agrees with 1080 + 330 + (d - 1) at every January in the run. The two methods sh
 | Chapter | Whose | Her own last scene | Gap from the previous scene in the book | Gap from her own last scene | Status |
 | --- | --- | --- | --- | --- | --- |
 | 546 | Agnete Lindqvist. Volume 11's last. | 369 | — | — | written |
-| **554** | **Hanneke Ruis** | **none on record anywhere in the book** | **8** | **there is no gap. This is her first.** | **WRITTEN. 3,595 words.** |
+| **554** | **Hanneke Ruis** | **none on record anywhere in the book** | **8** | **there is no gap. This is her first.** | **WRITTEN. 3,730 words after the 14 October 2026 review repair, which expanded three passages inside the scene and moved no event.** |
 | **564** | **Agnete Lindqvist** | 546 | **10** | **18** | **planned** |
 | **574** | **Beatrix Halm** | 536 | **10** | **38** | **planned** |
 | **584** | **Ines Duarte** | 505 | **10** | **79** | **planned** |
@@ -50,18 +61,18 @@ agrees with 1080 + 330 + (d - 1) at every January in the run. The two methods sh
 
 **THE SCENE IS WRITTEN OUT AND NOT IMPLIED.** The axis broken is **the counted minute**, carried by the room's rule and named by nobody: the book goes on the shelf at a quarter to five, comes off it on the first, and may be read on the second by one person, and a keeper does not stop to be spoken to while a page is open. **No clock is printed inside the scene and no time is counted. Her body is described once, in her hands. No compulsion, no sedation, no exhaustion, no toxin, no restraint, no psychic contact, no trance and no seal. Both adults. Violence and sex stay in separate registers.**
 
-**WORD BANK, COUNTED PER FILE AND SUMMED:** 551 2,474 · 552 1,983 · 553 1,839 · **554 3,595** · 555 1,800 · 556 1,819 · 557 1,951 · 558 1,881 · 559 2,170 · 560 2,238. **BATCH TOTAL 21,750.** **554 LEAVES THE 1,800–2,700 GUIDE BAND BY 895 WORDS AND THE REASON IS: it is Volume 12's first scene, the only scene in the batch, the chapter this repository has had a fixed date for since 548, and the one chapter where the woman's own question is spent; 546, the volume precedent, is 3,570 against a 1,800–2,700 band and does the same thing, and 554 is written to the same length rather than to a word count.**
+**WORD BANK, COUNTED PER FILE AND SUMMED AFTER THE 14 OCTOBER 2026 REPAIR:** 551 2,474 · 552 1,987 · 553 1,839 · **554 3,730** · 555 1,800 · 556 1,826 · 557 1,947 · 558 1,871 · 559 2,242 · 560 2,231. **BATCH TOTAL 21,947.** **554 LEAVES THE 1,800–2,700 GUIDE BAND BY 1,030 WORDS AND THE REASON IS: it is Volume 12's first scene, the only scene in the batch, the chapter this repository has had a fixed date for since 548, and the one chapter where the woman's own question is spent; 546, the volume precedent, is 3,570 against a 1,800–2,700 band and does the same thing, and 554 is written to the same length rather than to a word count.**
 
 **THE SCENE MEASURED THREE WAYS, AS `AGENTS.md` AND `outline/volume-12.md` §9 REQUIRE, TAKEN FROM `##` TO `##` ON DISK IN THIS COMMIT — 554 has four `##` headings and no fifth, so the closing boundary is end of file, which is stated rather than assumed:**
 
 | Definition | 546 Agnete (Volume 11 precedent) | 554 Hanneke Ruis (this batch) |
 | --- | --- | --- |
-| (1) opening `##` to closing `##` | 3,451 | **3,421** |
-| (2) scene section, INCLUSIVE of both heading lines | 2,085 | **2,722** |
-| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | **2,718** |
-| explicit-vocabulary probe, whole file | 21 | **18** |
-| explicit-vocabulary probe, scene section | 17 | **11** |
-| whole file | 3,570 | **3,595** |
+| (1) opening `##` to closing `##` | 3,451 | **3,554** |
+| (2) scene section, INCLUSIVE of both heading lines | 2,085 | **2,855** |
+| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | **2,851** |
+| explicit-vocabulary probe, whole file | 21 | **20** |
+| explicit-vocabulary probe, scene section | 17 | **14** |
+| whole file | 3,570 | **3,730** |
 
 ## 4. WHAT VOLUME 12 PICKS UP AT 561, AND WHAT IT MAY NOT CLOSE
 

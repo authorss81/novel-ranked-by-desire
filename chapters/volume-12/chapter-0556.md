@@ -22,7 +22,7 @@ A shutter, whitewashed at some point in a decade nobody in the yard can name, pr
 
 Four lines in about four-inch chalk.
 
-He read them at forty feet on the thirtieth of December and he read them again now from about ninety, and they were the same four lines in the same order, and they were the four he wrote on a piece of a bin-room tally board at four in the morning on the thirtieth of March of the fourth year and that a woman at a counter off a fourth court put in a box in the same month.
+He read them at forty feet on the thirtieth of December and he read them again now from about ninety, and they were the same four lines in the same order, and they were the four he drafted from the ninth of March to the nineteenth of April of the second year and read out at a kitchen off Ferrier Street on the nineteenth of July, and that a woman at a counter off a fourth court put in a box after.
 
 And above them, in the same chalk, in a smaller hand that was not the yard's and was not his:
 
@@ -40,7 +40,7 @@ He had spent four years wanting a city that could read the office's hand.
 
 The yard is right that those four lines are the rule.
 
-They are not a description. They are not a complaint and they are not a sentence anybody made about anybody. They are a test, and a test is a thing you apply, and about eleven thousand people were applying it on the ground and on the steps and in the two hundred and thirty yards either side of this one.
+They are not a description. They are not a complaint and they are not a sentence anybody made about anybody. They are a test, and a test is a thing you apply, and about eleven thousand people were applying it on the ground and on the steps and for two hundred and thirty yards either side of this one.
 
 And there was a second copy of three of them on a notice board in a corridor off a third court with a drawing pin through it that he reads every night on his way in, and three of them is a rule too, and there are people in this city who are now working from the three.
 
@@ -116,4 +116,4 @@ He went down the hill at about ten to three and went to work at eleven.
 
 *And under the fourth line somebody has written two words off the bottom of a wall that nine thousand people a day cannot read, and carried them up a hill in their mouth without knowing it, and I stood at sixty feet and read it.*
 
-*And I did not go up the hill and I said out loud on the street why I was not going to, to a woman who has known me since I was seventeen.*
+*And I did not go up the hill and I said out loud on the street why I was not going to, to a woman who has known me since the eighteenth of October of the first year.*
