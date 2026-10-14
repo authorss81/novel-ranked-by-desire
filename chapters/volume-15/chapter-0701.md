@@ -22,7 +22,7 @@ The drawer was in the wall on the left of the table and it was shut, and it had 
 
 Nobody was obliged to open one item of it.
 
-## The Fourth Of February
+## What Came In At Half Past Two
 
 The man came in at about half past two and he was not late and he was not early, and he had a piece of pencil paper in his hand with something written on the bottom two inches of it in his own hand.
 
@@ -58,7 +58,7 @@ The man did not say anything for about nine seconds.
 
 Then she turned the book round and put a finger on the third line of the second column and looked at him rather than at it, and he understood that she was going to read him what was on the page because it was on the page and that was a thing she did and not a thing she was doing him a favour with.
 
-“It went in on the twenty-first of October and it is in this office's hand and I entered it exactly as I was given it and I did not improve one word of it,” said Wenna Raut. “Four hundred and nine.”
+“I entered it into that column on the twelfth of September and it went onto the page on the thirtieth of September, and it is in this office's hand and I entered it exactly as I was given it and I did not improve one word of it,” said Wenna Raut. “Four hundred and nine.”
 
 She stopped, because she reads a line the way it is written and not the way it was said to her.
 
@@ -66,13 +66,13 @@ She stopped, because she reads a line the way it is written and not the way it w
 
 The man did not move.
 
-“And under that there is a man's name,” said Wenna Raut, “and under the name a sentence in my hand saying that a drawer is not to be opened. That is the third line of that column. There are three lines in it and the other two are older than this office and neither of them is about you.”
+“And under that there is a man's name,” said Wenna Raut, “and under the name a sentence in my hand, put there in October, saying that a drawer is not to be opened. That is the third line of that column. There are three lines in it and the other two are older than this office and neither of them is about you.”
 
 “They are not about me either.”
 
 “No,” she said. “They are not.”
 
-The four words had been written into a book in this room on the thirtieth of August at about ten past eleven, and they were the only true thing this office has ever published about about four hundred people, and he had given them to her himself with his own hand nine seconds at a time and had spent a whole summer being proud of them.
+The four words had been written into the bound Register in this room on the thirtieth of August at about ten past eleven, and entered a second time into a column on the twelfth of September, and they were the only true thing this office has ever published about about four hundred people, and he had given them to her himself with his own hand nine seconds at a time and had spent a whole summer being proud of them.
 
 He said nothing at all, and it was the worst thing he has ever done in a room where a person was waiting for him to speak.
 
@@ -110,10 +110,12 @@ He went down the stair and out through the arch at about ten past three and stoo
 
 The front door of that building opens onto a court and there is no door onto a street anywhere in the city that comes to it, and about eleven pieces of paper a week come through it and go into two cardboard boxes and are entered as nothing.
 
-One of them had been put through that door on the fourth of February by nobody, because it had never arrived. It was on a rail in a passage off Cordwain, where about nine people a week get down to the foot of it, and about nine people a week argue about what the third line of a second column means and get it right inside four minutes.
+One of them had been put through that door on the fourth of February by nobody, because it had never arrived. It was on a rail in a passage off Cordwain, where the people who get down to the foot of it put the third line of a second column into a sentence of their own and get it right inside four minutes.
 
 He is rank one and on a branch night shift and nothing about him has moved in a year, and the plate he wears is white and carries his name and no number, and he asked for that shift himself.
 
-And the four words were the only true sentence this city had ever printed about about four hundred people, and on the afternoon of the thirtieth of August last year a man with nothing to be proud of had put them in a clerk's book and made them the reason a person digging a street in the cold was told, by a building, in its own hand, that the thing he had done had not been given to him.
+And the four words were the only true sentence this city had ever printed about about four hundred people, and on the afternoon of the thirtieth of August last year a man with nothing to be proud of had put them into the Register, and a month later the same four words had gone onto a page on a rail where a man in the cold could read them.
+
+And they were the reason that man was told, by a building, in its own hand, that the thing he had done had not been given to him.
 
 Eight hundred and fifty-two has stood at the head of that sheet since the thirtieth of March of the fifth year and it is not moving today and it is not moving on the thirtieth of March. There is no permission in this city that would move it, and he has never once gone looking for one.

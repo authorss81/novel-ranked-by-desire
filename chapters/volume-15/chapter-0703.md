@@ -24,7 +24,7 @@ She pulled the second drawer out with the handle and there were eleven cards in 
 
 “Then why are you showing me eleven of them.”
 
-“Because you have been in this building for about six seconds and you have not asked me one question and I would like to show you the whole of what I have before you do,” said Sun Meiling. “That is what happened last time. You asked me about the table.”
+“Because you have been in this building for about six seconds and you have not put one question to me yet and I would like to show you the whole of what I have before you do,” said Sun Meiling. “That is what happened last time. You asked me about the table.”
 
 She turned the row of cards a quarter round so that he could read the tops.
 
@@ -62,7 +62,7 @@ She turned round again.
 
 “I am not asking this floor to do anything.”
 
-“You came down a stair to ask me whether it could,” said Sun Meiling, “and now you know that it cannot, and you have lost about nine minutes, and I have not had to say no to you, which is the part I wanted.”
+“You came down a stair to ask me whether it could,” said Sun Meiling, “and now you know that it cannot, and you have lost the better part of ten minutes, and I have not had to say no to you, which is the part I wanted.”
 
 ## She Stopped Asking Him Anything
 
@@ -102,15 +102,15 @@ He did not tell her about it.
 
 He put his hand where she was wet and she swore and took the hand and held it behind her own back and got up off the boards and turned him against the edge of the table and pushed him back over it.
 
-She sat down on the edge of her own table with her heels hooked over the rail of it and came down on his cock with her hips first and her face open and her mouth going, and she was very wet and very warm and neither of them said a word for about nine seconds.
+She sat down on the edge of her own table with her heels hooked over the rail of it and came down on his cock with her hips first and her face open and her mouth going, and she was very wet and very warm and neither of them said a word for about four seconds.
 
 Then she rode him at the pace she wanted, hard, with her fingers dug into the wood either side of her hips, and watched it arrive on his face and did not comment on it.
 
 He put his palm against the side of her throat, where he could feel her talking, and she let him keep it there about four seconds. Then she moved his hand off, shifted her hips, took most of her weight back off him, went faster, and told him to leave his other hand where it was.
 
-“That is where it has been every time,” she said. “Every time anybody in this city has handled me politely in a room where nothing was ever going to be said out loud. I have had eleven years of it. Come on.”
+“That is where it has been every time,” she said. “Eleven years of a man handling me as though the door might open, and not one word said out loud in any of them. Come on.”
 
-He came on inside her while she was still going, and she felt his cock jump and take hold and her cunt grip round it, and she took every bit of him in one long pull of her hips and came with her mouth open and her fingers locked in the hair at the back of his head.
+He came on inside her while she was still going, and she felt him take hold, and she took every bit of him in one long pull of her hips and came with her chin up and her fists in the cloth of his coat at the shoulders.
 
 The sound of it went up into the boards and the floor above and stopped there. She laughed once with her face against the top of his shoulder while she was still moving, and then she sat back on him and breathed hard for about four seconds and said nothing at all, which for her is a great deal.
 
@@ -120,7 +120,7 @@ The sound of it went up into the boards and the floor above and stopped there. S
 
 “Everybody who comes down this stair writes something down afterward and I have watched nine of them do it standing on that stair with a pencil, and I have never once asked to see it and I am not going to ask to see yours.”
 
-She let him stand there for about nine seconds and did not move away from him and did not make any of it awkward, which was the last thing he had expected and the first thing he would think about afterwards on a stair.
+She let him stand there without moving away from him and without making any of it awkward, which was the last thing he had expected and the first thing he would think about afterwards on a stair.
 
 “Again.”
 
@@ -134,15 +134,15 @@ Then she got the second chair out from under the table with her foot, turned it 
 
 He was slow about it and she took him in her mouth again sitting on that chair with her forearms on the rail, and she worked at him with her lips and her hand and her throat and set the speed at the slowest thing he had done all day.
 
-She came with her mouth open and both hands in the hair at the back of his head about four minutes later, and she made no noise at all doing it, which she told him afterwards she had decided to do about two seconds before it happened and had not expected to manage.
+She came about four minutes later with her cheek against his chest and both hands flat between his shoulder blades, and she made no noise at all doing it, which she told him afterwards she had decided to do about two seconds before it happened and had not expected to manage.
 
 She was right not to. There is a floor directly over that room and about nine people come down that wooden stair between five and six, and the boards carry everything anybody says in it.
 
-“That is a sales floor,” she said, “and there are nine people who come down that stair every afternoon, and not one of them has ever knocked on that door, and I have worked out over four years that the reason is not that the door is shut. It is that nobody in this building wants to be the one who went in.”
+“That is a sales floor,” she said, “and people come down that stair every afternoon, and not one of them has ever knocked on that door, and I have worked out over four years that the reason is not that the door is shut. It is that nobody in this building wants to be the one who went in.”
 
 “And today.”
 
-“Today there were four people at those tables and the sweep was going the whole time and none of them looked up once,” said Sun Meiling. “One of them is the only person in this city who could have made my folder an instrument tomorrow and she has been sitting there for about nine minutes not looking up. If you had not been in this room she would still not have looked up.”
+“Today there were four people at those tables and the sweep was going the whole time and none of them looked up once,” said Sun Meiling. “One of them is the only person in this city who could have made my folder an instrument tomorrow and she has been sitting there not looking up. If you had not been in this room she would still not have looked up.”
 
 “I am saying that to you now, while you are in the room and it cannot be taken back afterwards.”
 
@@ -194,7 +194,7 @@ She opened the drawer and took out the card that said what was asked and put it 
 
 *Two thousand five hundred and thirty-four days. Less two thousand five hundred and twenty-seven, the eighth of February of the eighth year, is seven, and a woman has said a thing out loud once in about four years and it was not to him.*
 
-*Less two thousand four hundred and thirteen, the fourteenth of October of the seventh year, is a hundred and twenty-one days, which is four months and one day after them, and on the first of that month a woman with a pencil off a street two streets wide ruled a fourth column on nine sheets of her own paper under a third table and put nothing at the top of it.*
+*Less two thousand four hundred and thirteen, the fourteenth of October of the seventh year, is a hundred and twenty-one days, which is four months and one day after them, and on that afternoon a woman with a pencil off a street two streets wide ruled a fourth column on nine sheets of her own paper under a third table and put nothing at the top of it.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is a hundred and thirty-five days, which is four months and fifteen days after them.*
 
@@ -202,17 +202,17 @@ She opened the drawer and took out the card that said what was asked and put it 
 
 ## The Three Words On A Sheet Of Her Own
 
-She got a sheet out of the drawer that is not the flat file and put it on the table in the middle, face up, in her own hand, and she wrote nothing else on it.
+She got a sheet out of the drawer that is not the flat file and put it on the table in the middle, face up, and she wrote nothing else on it.
 
-At the top of it, in the same upright printed hand as the eleven cards and not in her own, were three words.
+At the top of it, in her own hand and not in the printed hand the eleven cards are written in, were three words.
 
 TRUE AGAINST
 
 And under them, about two inches of nothing, and then the bottom of the sheet.
 
-She left it lying there for about nine seconds.
+She left it lying there and did not say anything while it was lying there.
 
-He did not touch it. He did not ask where it was going to be filed or whether it was going to be filed at all, and he did not say that he had seen it before, because he had not, and because there is a person in this city who has been putting a version of the same three words on paper of her own since about two o'clock in the afternoon of a day in the seventh month and has told nobody.
+He did not touch it. He did not ask where it was going to be filed or whether it was going to be filed at all, and he did not say that he had seen it before, because he had not, and because there is a person in this city who has been putting a heading of her own at the top of a column of her own paper since about two o'clock one afternoon last autumn and has told nobody.
 
 Sun Meiling took the sheet back, folded it once, put it inside the folder that had been shut on that table since he came down the stair, and did not say where it went.
 
@@ -220,4 +220,4 @@ Sun Meiling took the sheet back, folded it once, put it inside the folder that h
 
 He went up it.
 
-And the heading she could not rule and the heading she had ruled herself were, underneath, the same three words, in two cities, in two rooms, about eleven streets apart, and neither of the women knew it and neither of the men knew it, and there is no form in this city on which either of them could tell the other.
+And the heading she would not rule in that drawer, and the heading a woman with a pencil ruled herself last autumn under a third table in a laundry, were underneath two versions of the same question about what a piece of paper may be filed under. Neither of them knew the other had asked it, and there is no form in this city on which either of them could put it in front of the other.

@@ -32,7 +32,7 @@ He had a piece of pencil paper in his hand and the bottom two inches of it were 
 
 “That is the third time somebody in this city has said no to me about a line on a page, and two of them were in the same room.”
 
-“Then you had a morning,” said the man at the desk, “and I have about four people at this rail and about nine of them a week get to the foot of it, and you are one of the seven this week who does not, and I am going to read it out and you can stand there and hear whether the page agrees with the building.”
+“Then you had a morning,” said the man at the desk, “and I have about four people at this rail and nine a week get to the foot of it, and you are one of the seven this week who does not, and I am going to read it out and you can stand there and hear whether the page agrees with the building.”
 
 He squared the pencil against the counter.
 
@@ -44,7 +44,7 @@ He got to the head first, because he always got to the head first, and he read t
 
 Four people at the rail did not look up and two of them had come in with a bundle and one of the bundles was a bundle of cords.
 
-“Second column,” said the man at the desk. “Carried by. Three lines. One of them is about a bundle and one of them is older than the office and neither of those is anybody's business. The third one is from the twenty-first of October and it is in the office's own hand and there is a man's name under it.”
+“Second column,” said the man at the desk. “Carried by. Three lines. One of them is about a bundle and one of them is older than the office and neither of those is anybody's business. The third one was entered in September and has been on the page since the thirtieth of September, and it is in the office's own hand and there is a man's name under it.”
 
 He read the third line as it was written.
 
@@ -62,7 +62,7 @@ Then he turned round and said it back.
 
 “None of them is a deed,” he said.
 
-That was all he said. He said it in the ordinary way, the way about nine people a week say it, the way a person repeats a line from a page that has been in front of them and that they have read in their own kitchen with a pencil.
+That was all he said. He said it in the ordinary way, the way the people who get that far say it, the way a person repeats a line from a page that has been in front of them and that they have read in their own kitchen with a pencil.
 
 The man at the desk put the pencil down and looked at him for about four seconds and did not ask him why he had said it in that voice, and that was the correct thing to do and both of them knew it.
 
@@ -71,8 +71,6 @@ The man at the desk put the pencil down and looked at him for about four seconds
 “I have.”
 
 “Then you are one of about four hundred people in this city who can read every line of it,” said the man at the desk, “and about nine hundred can read any of it, and about eleven of us know where the other three hundred and ninety-nine copies are and not one of the eleven has been to any of them, including me, and I have been at this counter for nine years.”
-
-Nobody at the rail thanked him for the reading, because nobody at that rail has ever thanked anybody for anything, and he is not paid for it and has never been paid for it and has never once asked to be.
 
 He went back into the passage with the pencil in his hand and put the page face up on the wood, and the four people at the rail drifted off up the passage one at a time over about two minutes, the way they do.
 
@@ -110,12 +108,10 @@ He went as far as the bottom of it and then stood in the middle of a street two 
 
 Four hundred pieces of paper.
 
-Not four hundred claims, because a claim is a thing with a day on it and about nine of those have one, and not four hundred people, because the people who carried them are about nine hundred and a fraction of them live under the same roof as somebody else who carried one.
+Not four hundred claims. A claim is a thing somebody says happened, and there is nobody in this city that these four hundred pieces of paper have been said to as one, and not four hundred people, because the people who carried them are about nine hundred and a fraction of them live under the same roof as somebody else who carried one.
 
 About four hundred kitchens had the foot of a printed sheet written out in pencil on the back of something. He had never been to one. He could have gone to four this month and he was not going to go to one of them, and the reason had been ready since about four o'clock on a wet morning in November and it had got no better since.
 
 He went on up the hill in the rain with nothing in his hands. About two hundred and forty people came past the corner of that wall in the hour and about ninety of them stopped at a board, read a month’s form for an address and went on.
 
 About nine of them went down on a knee at the bottom of the wall and read nothing at all. There is nothing on the board, and there is nothing at the bottom of that wall but four inches of dressed stone.
-
-Nobody thanked anybody anywhere in that hour, and that is not a thing anybody in this city has arranged. It is what the page does.

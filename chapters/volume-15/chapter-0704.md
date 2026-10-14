@@ -1,4 +1,4 @@
-# A Column With No Heading On It
+# A Room With A Door In It
 
 Two thousand five hundred and thirty-four was the fifteenth of February and the twenty-first is day two thousand five hundred and forty, and two thousand five hundred and forty less two thousand five hundred and thirty-four is six, and twenty-one less fifteen is six by the month count.
 
@@ -6,7 +6,7 @@ Two thousand five hundred and thirty-four was the fifteenth of February and the 
 
 The steam came under the door and stopped about two feet up the room and stood there, and the bench along the wall was wet at one end, and there were three tables and a ledger on the middle one and nine sheets of her own paper under the third one.
 
-She was at the third table with a pencil and a ruler and nothing else on it, and she did not look up when the door came, because about nine people a month come through that door and she knows what nine of them are carrying before they are through it.
+She was at the third table with a pencil and a ruler and nothing else on it, and she did not look up when the door came, because people come through that door every week of the year and she knows what each of them is carrying before they are through it.
 
 “You have come down four flights to stand in a wet room,” said Perla Quist.
 
@@ -38,11 +38,11 @@ He did not say anything.
 
 “You have seen it and you have not asked about it in about four minutes, which is new.” She pulled the top sheet out from under the table and turned it a half round so that it faced him. Nine sheets, squared, in her own paper, and about three hundred and forty lines in a margin on nine of them, and four columns.
 
-The fourth was the narrowest thing on the page and there was nothing at the top of it.
+The fourth was narrower than the other three and there was nothing at the top of it.
 
 “I ruled it at about two o’clock on the fourteenth of October and I put nothing over it and I have told nobody and nobody has asked me, and you are the first person who has seen it that I did not put it in front of.”
 
-“Why is it blank at the top.”
+“Why is there nothing over it.”
 
 “Because I did not know what it was yet and I am not going to put a name on a thing until I know what it is,” said Perla Quist. “And because the second time I did know what it was I sat here for about four days and did not do anything.”
 
@@ -76,7 +76,7 @@ She looked at the heading for about four seconds.
 
 He had wanted, since the first of the month, to be the second pair of hands on nine sheets.
 
-He could have ruled a fifth column in about nine minutes and he could have copied three hundred and forty lines in about four hours and he would have got one of them wrong in the first hundred and never have known which one.
+He could have ruled a fifth column in about four minutes and he could have copied three hundred and forty lines in about four hours and he would have got one of them wrong in the first hundred and never have known which one.
 
 There is no form in this city on which a man in a white plate may sit at a third table in a laundry and rule a column on somebody else’s paper, and there is no form on which a woman with a pencil may ask him to, and she would not have asked him either.
 
@@ -106,7 +106,7 @@ She turned the sheet round and squared the bottom edge of it against the table a
 
 She wrote a date in the first column. The fourth of February.
 
-“Eleven days ago I was standing at the rail in Cordwain because about ninety of the two hundred and forty people an hour go past that counter and about nine of them get to the foot, and I go and get to the foot about four times a month and I have never once been there for myself.”
+“Seventeen days ago I was standing at the rail in Cordwain because about ninety of the two hundred and forty people an hour go past that counter and about nine of them get to the foot, and I go and get to the foot about four times a month and I have never once been there for myself.”
 
 “And this man was standing at the rail with a pencil paper in his hand,” said Perla Quist, “and a man behind the counter was reading the foot of the page out to him because that is what that man does, and the man with the paper wrote in the bottom two inches of his own sheet in his own hand, standing up, against the edge of the counter, and he had been digging a street since the twenty-second of January and nobody had asked him one question about it.”
 
@@ -118,7 +118,7 @@ The pencil went into the narrow column.
 
 What the sheet said that day went into it in her own hand, in the order the sheet was in, with the figure and the four hundred and nineteen accounts and the three lines of the second column and the four sentences at the foot and the six lines under them, and it took her about four minutes and she did not improve one word of any of it.
 
-“There,” said Perla Quist. “That is the first one and it is mine and I have never been asked about it, and it is not a claim and it is not a deed and it is a piece of paper a man made in a kitchen and a thing a page said eleven days ago in a passage off Cordwain.”
+“There,” said Perla Quist. “That is the first one and it is mine and I have never been asked about it, and it is not a claim and it is not a deed and it is a piece of paper a man made in a kitchen and a thing a page said seventeen days ago in a passage off Cordwain.”
 
 She squared the sheet against the table.
 

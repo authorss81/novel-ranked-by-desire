@@ -1,3 +1,39 @@
+# VOLUME 15 BATCH 0001 REPAIRED 14 OCTOBER 2026 AGAINST THE REVIEW PASS — 701–710 STILL ON DISK. **§0a-vol15-b1r BELOW IS THE SINGLE LEDGER FOR THE REPAIR PASS AND IT IS THE FILE'S LIVE BLOCK FOR 701–710. NOTHING WAS RESTARTED. THE PLOT, THE MOVEMENT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY EVENT ARE UNCHANGED. IT SUPERSEDES EVERY BLOCK BELOW IT FOR 701–710 AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b1r. FOUR DATES FOR ONE LINE, AND THE THREE SINGLE-CHAPTER INTERVALS THE REPAIR RE-DERIVED
+
+**A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS TIME IT ARRIVED AS A *CORRECTION*.** The pass that wrote 701–710 recorded that it had "corrected the card against the page", and the card's correction asserted that `chapter-0700.md`:15 dates the third line of the second column to the twenty-first of October. **THAT LINE SAYS THE TWELFTH OF SEPTEMBER.** The authority was invented and 701, 702, 709 and 710 followed it. **THE ERROR IS THE THIRD TIME THIS REPOSITORY HAS PRODUCED IT AND THE FIRST TIME IT HAS PRODUCED IT AS A REPAIR.**
+
+| # | What | Date | Spine day | Page authority | Status on 14 Oct 2026 |
+| --- | --- | --- | --- | --- | --- |
+| a | the four words first entered in the **bound Register** | **30 Aug, y7**, about ten past eleven | `2,369` | `chapter-0682.md`:51,:73 · `chapter-0691.md`:97 | was being used in 701 as if it dated the *line* — separated and named |
+| b | the **third line of the second column entered in the column** | **12 Sep, y7** | `2,381` | `chapter-0684.md`:53 · `chapter-0700.md`:15 | **corrected into 701, 702, 709, 710** |
+| c | that line **going onto the page at four** | **30 Sep, y7** | `2,399` | `chapter-0684.md`:17 · `chapter-0684.md`:15 (spoken) | already correct at 705 and 707; now also carried at 701, 702, 709, 710 |
+| d | the **instruction about the drawer** put under his name | **21 Oct, y7** | `2,420` | `chapter-0696.md`:71 · `chapter-0690.md`:73 (spoken) · `chapter-0700.md`:47 | was being used in 701, 702, 709, 710 as if it dated the *line* — restored to the drawer |
+| e | **Perla Quist rules the fourth column** | **14 Oct, y7**, about two o'clock | `2,413` | `chapter-0689.md`:5,:51 · `chapter-0689.md`:73 | 703's footer said *the first of that month* and its closing said *a day in the seventh month*; **both corrected**; 704 was right |
+
+**`2,413 − 2,369 = 44` and `2,420 − 2,413 = 7`, so the three September/October events are 44 days, 7 days and 18 days apart in that order and cannot be one another.** No chapter of 701–750 may merge them, and none of 701–710 does after this repair.
+
+### THE THREE INTERVALS THE REPAIR RE-DERIVED AGAINST AN ANCHOR NAMED IN THE SAME SENTENCE
+
+| Where | What it printed | The arithmetic | What the page prints now |
+| --- | --- | --- | --- |
+| `chapter-0704.md` | *Eleven days ago* at the rail, twice | `2,540 − 2,523 = 17` — the fourth of February is `2,523` and the chapter is the twenty-first | **Seventeen**, twice |
+| `chapter-0706.md` | *the ninth of this month. Six weeks.* | `2,553 − 2,511 = 42` — exactly six weeks, and `2,511` is the **twenty-third of January** | **the twenty-third of January**, at `:31` and `:67` |
+| `chapter-0706.md` | *I have four days left* before the quarter-end | `2,579 − 2,553 = 26` — about four weeks | **about four weeks** |
+| `chapter-0706.md` | *carried up four flights in two cardboard boxes on the twelfth of November* | `chapter-0685.md`:105 puts it on the **sixteenth of August, y7** | **the sixteenth of August last year** |
+| `chapter-0710.md` | *the month before it began on the first of March … nineteen days after the morning the last one sat on* | the month before March is **February**; `2,579 − 2,573 = 6` and the card mandates six | **February**, and **six days**, which are the whole of what is left of the quarter |
+
+### AND THE ROW THAT WAS WRONG WITHOUT A DATE IN IT
+
+**`chapter-0709.md` was headed *The Fourth Field On A Column Of Five* while its own list, `chapter-0684.md`:9 and `chapter-0710.md`:75 all put the person in the FIFTH. The section is now The Fifth Field On A Column Of Five, the list is 684's own — *when, where, the hour, what was done, and a person* — and the 689 gloss that expanded the fifth into three clauses is gone.** The closing paragraph now says the fourth line takes a person **in its fifth field**, which is the only reading that is true of the column and of 710.
+
+### THE FORWARD RISK, CLOSED
+
+`workspace/volume-15/batch-0002/PROMPT.md` did **not** restate the receipt's date and was therefore clean, but it inherited 711–720 from a plan built on the mis-corrected spine fact. **A standing spine block was added to that prompt naming all four dates and forbidding the line from being dated to either the thirtieth of August or the twenty-first of October, with 714 named as the chapter where a copy's age has to run against the thirtieth of September.**
+
+---
+
 # VOLUME 15 BATCH 0001 WRITTEN 14 OCTOBER 2026 — 701–710 ON DISK. THE SPINE RE-RUN WITH ITS OPERANDS PRINTED, THE FOURTH-WALL AND CLASS GREP RESULTS, AND **THE TWELVE-GRAM INVENTORY WITH EVERY PAIR AT SIX OR ABOVE CLASSIFIED BY HAND**. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–710 AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b1. THE SPINE, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT, PROVED BY THE SUM AGAINST THE ENDPOINTS AND NOT BY THE METHODS AGREEING

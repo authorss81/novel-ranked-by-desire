@@ -1,4 +1,4 @@
-# One More Line Before It Squares
+# Nobody Picked It Up
 
 Two thousand five hundred and sixty-six was the seventeenth of March and the twenty-fourth is day two thousand five hundred and seventy-three, and two thousand five hundred and seventy-three less two thousand five hundred and sixty-six is seven, and twenty-four less seventeen is seven by the month count.
 
@@ -46,11 +46,11 @@ Yusuf Adeyemi had not moved from the far end of the table and had not taken his 
 
 “The answer is yes,” he said, from the end, “and I am not going to improve it either, and neither of you is permitted to.”
 
-## The Fourth Field On A Column Of Five
+## The Fifth Field On A Column Of Five
 
 The second column is headed carried by and has five fields in it, and they have been the same five fields since the second year, and Wenna Raut had read them out to him once in February of a year neither of them names.
 
-Five fields, in this order: when, where, the hour, what was done, and who it was done to or who was standing there or who was handed it.
+Five fields, in this order: when, where, the hour, what was done, and a person.
 
 He had the other four and had had them since the twelfth of September.
 
@@ -64,13 +64,13 @@ He stood at the end of the table at about four in the afternoon with the list on
 
 He was not going to give it to her. She would enter it exactly and she would enter it today and it would be on the twenty-ninth sheet at four this afternoon in about two hundred hands by the end of the month.
 
-## One Paragraph About A Room With A Door That Closes
+## The Room Off A Ward With A Door That Closes
 
 There is a ward in this city with a door that closes and a small room off it with a cot in it, and a woman in that room who takes a fortieth off people and does not tell them that she is doing it. He has been in that small room about nine times in six years and has never once been asked anything about it, by her or by anybody.
 
 It is not a thing he is going to put in a column, and there is no form on which it could go in.
 
-That is the whole of what there is to say about it this quarter and it is said in one place and it is not going to be said again in this batch.
+That is the whole of what there is to say about it this quarter, and he said it once, in one place, and he was not going to say it again.
 
 *Two thousand five hundred and seventy-three days. Less two thousand five hundred and sixty-six, the seventeenth of March of the eighth year, is seven, and the twenty-ninth sheet is squared at about half past two on the thirtieth of this month, which is in six days, and after that nothing goes on that page until the thirtieth of June.*
 
@@ -94,7 +94,7 @@ He sat down on the second chair at about half past four, which he does about fou
 
 The pen did not stop and she did not look up and she answered it in the ordinary way, in about two seconds, as a woman tells a clerk what a form is.
 
-“The first one is about a bundle and it is older than the two of us. The second one is a person and a division and a finding and it is older than this office. The third one is from the twenty-first of October and it has your name under it and a sentence under your name saying that a drawer is not to be opened.”
+“The first one is about a bundle and it is older than the two of us. The second one is a person and a division and a finding and it is older than this office. The third one was entered in September and has your name under it, and under your name a sentence saying that a drawer is not to be opened, and that sentence went in on the twenty-first of October.”
 
 “That is what is in it.”
 
@@ -112,9 +112,11 @@ It had cost him the only thing he had been carrying about all day, which was the
 
 ## Six Days And Three Lines
 
-At four minutes past five he was at the corner with his hands in his pockets. Two hundred and ten people came past in the first hour, of whom ninety stood and read a month’s form for an address off a board and nine went down at the foot of the wall, and not one of the ninety and nine was the same person.
+At four minutes past five he was at the corner with his hands in his pockets. Two hundred and forty people came past in the first hour, of whom ninety stood and read a month’s form for an address off a board and nine went down at the foot of the wall.
 
-And in a room off a third court a column on a page that goes out at four on the thirtieth of this month had three lines in it and can take one more, and the fourth one takes a person, and there is no person in this city he may put in it except himself, and he is not going to, and there is no form anywhere on which he could ask anyone about it, and he has six days.
+And in a room off a third court a column on a page that goes out at four on the thirtieth of this month had three lines in it and can take one more, and the fourth line, if it is going in at all, takes a person in its fifth field.
+
+There is no person in this city he may put in it except himself and he is not going to, there is no form anywhere on which he could ask anyone about it, and he has six days.
 
 He had spent none of them. There was nothing in the morning and nothing in the afternoon, and he had gone down four flights twice and up them twice and had asked one woman one question he had already known the answer to.
 

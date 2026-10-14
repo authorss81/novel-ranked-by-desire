@@ -1,3 +1,27 @@
+# VOLUME 15 BATCH 0001 REPAIRED 14 OCTOBER 2026 AGAINST THE REVIEW PASS — 701–710 STILL ON DISK. **THE REVIEW PASS FOUND NINE CLASSES OF CONCRETE DEFECT AND ALL NINE ARE FIXED IN THE CHAPTERS. TWO OF THEM WERE GATE ROWS THAT HAD PRINTED 0 WHILE CARRYING A LIVE DEFECT, AND THAT IS THE THREAD HANDED FORWARD. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE ONE OPEN THREAD THIS PASS CREATES: A GATE ROW THAT REPORTED ZERO AND WAS WRONG
+
+**A ZERO IN A GATE ROW IS NOT EVIDENCE THAT THE PATTERNS CAN SEE. IT IS EVIDENCE THAT THE PATTERNS RAN.** This repository has now produced that failure at least four times and this pass makes the fifth, in the same batch, in two different rows, both of them reported by a review that did not trust them.
+
+1. **`state/current.md` META printed `0 primary, 0 widened, 0 extension` and could not see `in this batch` at `chapter-0709.md` or `a chapter that prints one of them` at `chapter-0710.md`.** The gate's patterns were `[0-9]+ chapters` and the literal strings `this book` / `this chapter`. **A THIRD PATTERN — `this batch|this volume|a chapter that` — IS NOW IN THE ROW, AND THE ROW IS REWRITTEN AS A LIST OF PATTERNS AND NOT AS A NUMBER.**
+2. **`state/current.md` WEEKNAMES printed `0` and `chapter-0708.md`:25 read *at her own front door, on a Saturday*.** Ten weekday names were written in this batch's first edition; nine were cut; the tenth survived both editions and both gates. **THE ROW NOW CARRIES THE COUNT IT ACTUALLY CUT AND THE ONE THAT GOT THROUGH AND WHO FIXED IT.**
+
+**HANDED FORWARD, WITH AN OWNER: EVERY FUTURE PASS THAT WRITES A GATE ROW MUST ADD THE PATTERN THAT WOULD HAVE SEEN THE DEFECT IT JUST FIXED, AND MUST NOT PRINT A BARE ZERO FOR ANY ROW IT HAS NOT PROVED THE PATTERNS AGAINST A KNOWN POSITIVE.** The proofs already in this repository are `chapter-0564.md` for the duplication reader and the Volume 14 batch-0004 note that a repair replacing one wrong numeral with a different wrong numeral looks like work and changes nothing. **A ROW THAT HAS NEVER BEEN PROVED AGAINST A FILE KNOWN TO CARRY THE DEFECT IS A ROW THAT HAS NOT BEEN TESTED.**
+
+## CLOSED IN THIS PASS, WITH NO OWNER LEFT
+
+- **The receipt's date, live in four chapters and in two plan files.** Four dates for four events — Register `2,369`, column `2,381`, page `2,399`, drawer `2,420` — kept apart in 701, 702, 709, 710, in `outline/volume-15.md` §5b and the movement-one table, in `outline/batches/volume-15-batch-0001.md` corrections 1 and card 701, and as a standing spine block in `workspace/volume-15/batch-0002/PROMPT.md`. **Ledger: `state/continuity.md` §0a-vol15-b1r.**
+- **Perla Quist's column date**, which had three readings across two chapters, is the fourteenth of October everywhere.
+- **703's false closing thesis**, which asserted that two different headings were the same three words and required an unexplained third party to have printed one. Rewritten; the convergence survives, the sameness does not.
+- **The forward risk to 711–720**, which inherited a plan built on the mis-corrected spine fact. The prompt never carried the date itself and now carries the prohibition.
+
+## NOT HANDED FORWARD AND NOT OPEN
+
+**NOTHING IN THIS PASS CREATES A NEW PHASE. `workspace/volume-15/batch-0002/PROMPT.md` IS THE ONE NEXT PHASE AND IT WAS NOT REPLACED, ONLY AMENDED IN PLACE. NO VOLUME-CLOSE PROMPT. NO BATCH 0003. `state/complete.md` IS NOT CREATED. `outline/ending.md` IS UNTOUCHED AND NO NEW FINAL ENEMY WAS INTRODUCED.**
+
+---
+
 # VOLUME 15 BATCH 0001 WRITTEN 14 OCTOBER 2026 — 701–710 ON DISK. **THE LIVE GATE, RE-RUN FROM OUTSIDE THE PASS THAT WROTE IT. VOLUME-WIDE AND NOT BATCH-WIDE. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## The hand-forward is PAID, and there is no longer an owner

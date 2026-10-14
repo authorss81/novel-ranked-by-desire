@@ -1,4 +1,4 @@
-# The First Age On A Claim
+# The Position In A Queue
 
 Two thousand five hundred and forty-seven was the twenty-eighth of February and the fourth day of the next month is day two thousand five hundred and fifty-three, and two thousand five hundred and fifty-three less two thousand five hundred and forty-seven is six, and four days is six days when the month before them runs out at its thirtieth.
 
@@ -28,7 +28,7 @@ She squared the stack against the counter.
 
 She opened the book on the counter in front of her and turned it a quarter round so that he could see it, and there was a line in the margin in her own hand with a date beside it and it was about four lines long.
 
-“That line is mine and it went into our book on the ninth of this month. Six weeks. Not one person has come past this counter and asked me what it means, and you are not this division, and that is the only reason I am saying any of this to you at all.”
+“That line is mine and it went into our book on the twenty-third of January. Six weeks. Not one person has come past this counter and asked me what it means, and you are not this division, and that is the only reason I am saying any of this to you at all.”
 
 “And you are right about all of it.”
 
@@ -64,7 +64,7 @@ She said it in the ordinary way, the way a woman says the thing she has been thi
 
 “It is not an age,” said the officer. “It is a position in a queue, and a queue is all any of us have ever had, and I am not going to call it anything else in my own book because in about four years somebody is going to find that word in my writing and go off with it.”
 
-She took the pencil and wrote one more line in the margin under the four she had written on the ninth of this month.
+She took the pencil and wrote one more line in the margin under the four she had written on the twenty-third of January.
 
 “I have entered that in this division’s book today and I entered it as a finding of the division and I am going to sign it,” said the officer, “and I am not going to tell you not to write to me about it, because there is a form on this floor for correspondence and it goes out on a fixed day of the week and arrives whenever it arrives.”
 
@@ -88,7 +88,7 @@ He was in the corridor behind the glazed counter at about ten past eleven with t
 
 She came out of the second counter and stood about four feet off, which was the closest anybody had got to him in six years of being in buildings like this one.
 
-“I am going to ask you one ordinary question in an ordinary corridor,” she said, “because I have four days left in which somebody in this city might tell me that I have got a thing wrong, and there is one person I am permitted to ask and it is you, and you are not going to thank me for it.”
+“I am going to ask you one ordinary question in an ordinary corridor,” she said, “because I have about four weeks left in which somebody in this city might tell me that I have got a thing wrong, and there is one person I am permitted to ask and it is you, and you are not going to thank me for it.”
 
 “Go on.”
 
@@ -96,7 +96,7 @@ She came out of the second counter and stood about four feet off, which was the 
 
 He did not answer for about four seconds and he understood in the middle of those four seconds that he was going to answer it anyway, and that he was not the office, and that nobody in this city could have stopped him and that he was going to do it in a corridor to a woman who was doing her job.
 
-“It is,” he said. “Four hundred and nine. They were carried up four flights in two cardboard boxes on the twelfth of November and they have been on the boards under a window since the thirtieth of August and they are not opened and they are not going to be opened, and there is no form anywhere for undoing an instruction.”
+“It is,” he said. “Four hundred and nine. They went up four flights in two cardboard boxes on the sixteenth of August last year and they have been on the boards under a window since the thirtieth of August, and they are not opened and they are not going to be opened, and there is no form anywhere for undoing an instruction.”
 
 The officer did not write it down and did not look as though she were going to.
 

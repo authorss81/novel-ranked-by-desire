@@ -1,4 +1,4 @@
-# A Check That Says Only When
+# The Second Copy
 
 Two thousand five hundred and forty was the twenty-first of February and the twenty-eighth is day two thousand five hundred and forty-seven, and two thousand five hundred and forty-seven less two thousand five hundred and forty is seven, and twenty-eight less twenty-one is seven by the month count.
 
@@ -26,7 +26,7 @@ She squared the two sheets so that their bottom edges were in a line.
 
 ## The Check
 
-It took about nine minutes and neither of them said anything for the first four of them.
+It took nine minutes and neither of them said anything for the first four of them.
 
 She read down his sheet to the two inches. She read down hers. She put her finger on the third line of the second column in her own copy and read that out, and then she read the four sentences at the foot, and then the six lines under them, and then the striking, and then the name under the striking, and then she stopped.
 
@@ -92,7 +92,7 @@ She had one question and she had had it since about nine, and she spent it at ab
 
 “Yes.”
 
-“That is not what it is,” said Wenna Raut. “What it is, is one paper a man wrote in a kitchen set against a second paper a woman wrote standing up at a rail, off a page a man behind a counter read out loud to him. He gets nothing for that and nobody has ever thanked him, and he is the only witness to either half of it.”
+“That is not what it is,” said Wenna Raut. “What it is, is one paper a man wrote in a kitchen set against a second paper a woman wrote standing up at a rail, off a page a man behind a counter read out loud to him. He gets nothing for it, and he is the only witness to either half of it.”
 
 “If he had read one line of it wrong on that morning, then your four minutes would have been the first thing anybody in this city had ever put true against a day, and it would have been wrong.”
 

@@ -1,16 +1,18 @@
-# The One Place A Claim Can Be Found
+# Nobody Can Tell Him He Is Wrong
 
-Two thousand five hundred and seventy-nine is the thirtieth of this month, and the month before it began on the first of March, so the morning this one sits on is nineteen days after the morning the last one sat on and is six days short of a quarter-end. There is no thirty-first anywhere in this city and no day of the week to shorten a month with.
+Two thousand five hundred and seventy-nine is the thirtieth of this month and two thousand five hundred and seventy-three was the twenty-fourth of it, and the two of them are six days apart, and the six days are the whole of what is left of this quarter.
+
+The month before this one began on the first of February and ran to its thirtieth, and this one has a thirtieth as well, and there is no thirty-first anywhere in this city and no day of the week to shorten a month with.
 
 ## Half Past Two On The Last Working Day Of The Quarter
 
 She took it out of the drawer at half past two and had it trued up to the edge of the wood inside about four seconds, and nobody in that room said anything about the four seconds, and they had not said anything about them about nine times since the thirtieth of December either.
 
-The number at the top of it has not shifted since the thirtieth of March of a year I am not going to name, and it has not shifted across thirteen of these sheets. Thirteen is a count of sheets. The quarters run to a different figure and the house keeps both and is right about both, and a chapter that prints one of them has to say which one it is printing.
+The number at the top of it has not shifted since the thirtieth of March of a year I am not going to name, and it has not shifted across thirteen of these sheets. Thirteen is a count of sheets. The quarters run to a different figure and the house keeps both and is right about both, and anything that prints one of them says which one it is printing.
 
 Under it, four hundred and nineteen accounts and a shade short of four hundred and twenty. Wenna Raut has never counted them twice in the same week. Every one of them is a person’s account of a street dug in the cold. A date against it. An hour against the date. Nothing whatever against the hour and no name anywhere along the line.
 
-Three lines in a column headed carried by. Two of them were standing in that book before there was a clerk’s hand in this city to enter anything. The third went in on the twenty-first of October: the day, a count, four words doing all the work, and a man’s name, and standing under that name one sentence about a drawer that is not to be opened.
+Three lines in a column headed carried by. Two of them were standing in that book before there was a clerk’s hand in this city to enter anything. The third was entered on the twelfth of September and went onto the page on the thirtieth of September: the day, a count, four words doing all the work, and a man’s name, and standing under that name one sentence about a drawer that is not to be opened, put there in October.
 
 Under the column, four sentences. Two of them predate this office. Two of them were set on a November morning by a man whose name is on the page and is not his own.
 
@@ -48,7 +50,7 @@ He put the list on the table face up in front of her and it was the fourth versi
 
 “Enter that. Exactly. You may not improve one word of it and you may not leave any of it out and I am not going to be in the room while you do it.”
 
-She read it where it lay, the way she reads everything, and then she read it a second time, and it took her about nine seconds and he watched every one of them.
+She read it where it lay, the way she reads everything, and then she read it a second time, and it took her nine seconds and he watched every one of them.
 
 *From the thirtieth of March of this year every piece of paper received through the front door of this office is to be entered as received, with a date against it, whether or not it is a copy of the foot of the standing sheet and whether or not anybody is able to check it.*
 
@@ -112,7 +114,7 @@ Nobody can tell him he is wrong. Nobody has been able to since the sixth of Febr
 
 ## Three People And A Rail
 
-At four o’clock it went face up on a rail in a passage off Cordwain, where the reading is done standing up and there is a hand’s width of air under the bottom edge of it, and where about a hundred people a month get past it with a hip and about nine people a week get all the way down to the last two inches and can read every line of them.
+At four o’clock it went face up on a rail in a passage off Cordwain, where the reading is done standing up and there is a hand’s width of air under the bottom edge of it, and where about a hundred people a month get past it with a hip and a handful get all the way down to the last two inches and can read every line of them.
 
 There were six at the rail at four minutes past four, and nobody has ever stood at that rail in larger numbers than that on any afternoon in six years.
 

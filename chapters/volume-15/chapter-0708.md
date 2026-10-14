@@ -1,4 +1,4 @@
-# Four Houses He Is Not Going To
+# He Did Not Ask
 
 Two thousand five hundred and sixty was the eleventh of March and the seventeenth is day two thousand five hundred and sixty-six, and two thousand five hundred and sixty-six less two thousand five hundred and sixty is six, and seventeen less eleven is six by the month count.
 
@@ -8,7 +8,7 @@ He put it in writing on the top landing of his own stair at about a quarter to e
 
 *I want to read about four hundred kitchens.*
 
-Then he took it down with it in his own hand and did not write the reason, because the reason took about nine seconds to find and he had found it in November and it had not improved.
+Then he took it down with it in his own hand and did not write the reason, because the reason was ready in about four seconds and he had found it in November and it had not improved.
 
 Four hundred is a count of pieces of paper and only of pieces of paper. It is not nine hundred people, and it is not nine claims, and there is no figure anywhere in this city that is all three at once and anybody who puts them together has made a fourth thing.
 
@@ -22,7 +22,7 @@ One was two streets off Cordwain and he had stood at the end of it on the eleven
 
 He could get to four of them inside a week by walking.
 
-A house is not a public place. That is the whole of it and no rule in this city says it, because a rule would have had to be written and nobody wrote one. What a man may not do is put a second question to a person about a thing she has already been asked about by somebody else, at her own front door, on a Saturday.
+A house is not a public place. That is the whole of it and no rule in this city says it, because a rule would have had to be written and nobody wrote one. What a man may not do is put a second question to a person about a thing she has already been asked about by somebody else, at her own front door, with his hat in his hand.
 
 His own prediction, which he wrote down and which he was not going to let out of his own hand: if he did it in four houses this month he would be doing it in four hundred in about a year, and there would be a fifth house that knew about the first three before he got to the door of it, and a person who has been refused at nine counters does not need to be refused a tenth time to stop writing.
 
@@ -78,7 +78,7 @@ She squared the ruler.
 
 She put the ruler down beside the pencil. “You wanted four hundred kitchens and I am offering you about two hundred and seventy of them. I cannot tell you which two hundred and seventy and neither can you, and that is the whole of the difference between the two things.”
 
-He had not known that when he came down four flights and he had not known it on the top landing either, and it took him about nine seconds standing at the bottom of them with his coat on and his hands in his pockets, and then he went out into a street that was wet in about nine places and had nobody in it at all.
+He had not known that when he came down four flights and he had not known it on the top landing either, and it took him about four seconds standing at the bottom of them with his coat on and his hands in his pockets, and then he went out into a street that was wet in about four places and had nobody in it at all.
 
 There is no figure in this city for what he wanted. Not the head, which stands at eight hundred and fifty-two and has not moved since the thirtieth of March of the fifth year. Not the second column, which has three lines in it and can take one more before the thirtieth of this month. Not the four hundred, which is a count of pieces of paper and neither of the other two things and does not become either of them by being said more often.
 
