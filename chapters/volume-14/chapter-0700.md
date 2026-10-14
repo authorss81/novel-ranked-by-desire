@@ -54,7 +54,7 @@ He is rank one, on a branch night shift, and not one hour, plate, room or standi
 
 A branch office off a third court. Three floors of washrooms, a stairwell and a bin room. Eleven at night until half past five, four nights and three off, on a rota the size of a folded hand with four names on it, and he asked for that shift.
 
-The head of that page has not moved once in fifty chapters and it did not move this afternoon at half past two. Nobody in this city holds a permission that would move it. About nine people a week get down to the last two inches of it and can read every line.
+The head of that page has not moved across twelve sheets and it did not move this afternoon at half past two. Nobody in this city holds a permission that would move it. About nine people a week get down to the last two inches of it and can read every line.
 
 And the second of the four sentences went out at four this afternoon, in the office’s own hand, saying that where the Register has nothing in it then nobody has been given anything, and it is true of every person in this city who has ever gone to a counter and been refused, and it is false of the only building in Ostara that prints it, and there is no form anywhere between that room and the works department on which a building may say a fact about itself.
 

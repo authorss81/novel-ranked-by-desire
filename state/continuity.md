@@ -1,3 +1,107 @@
+# VOLUME 15 BATCH 0001 WRITTEN 14 OCTOBER 2026 — 701–710 ON DISK. THE SPINE RE-RUN WITH ITS OPERANDS PRINTED, THE FOURTH-WALL AND CLASS GREP RESULTS, AND **THE TWELVE-GRAM INVENTORY WITH EVERY PAIR AT SIX OR ABOVE CLASSIFIED BY HAND**. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–710 AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b1. THE SPINE, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT, PROVED BY THE SUM AGAINST THE ENDPOINTS AND NOT BY THE METHODS AGREEING
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + off[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, pos[Feb]=0
+           *** METHOD B CONTAINS NO 360 AT ALL. THE ONE-INDEXED FORM IN AN OLDER BLOCK IN THIS
+           REPOSITORY PUTS 23 AUGUST OF YEAR SEVEN AT 2,392 INSTEAD OF 2,362. THE VALUES USED
+           IN THIS BLOCK ARE pos[Mar]=1, pos[Apr]=2, pos[Aug]=6, pos[Sep]=7, pos[Oct]=8. ***
+
+701  1 Feb, y8  A=7x360+0+0   = 2520   B=30*(7*12+0)+0   = 2520   agree
+702  8 Feb, y8  A=7x360+0+7   = 2527   B=30*(7*12+0)+7   = 2527   agree
+703 15 Feb, y8  A=7x360+0+14  = 2534   B=30*(7*12+0)+14  = 2534   agree   SCENE
+704 21 Feb, y8  A=7x360+0+20  = 2540   B=30*(7*12+0)+20  = 2540   agree
+705 28 Feb, y8  A=7x360+0+27  = 2547   B=30*(7*12+0)+27  = 2547   agree
+706  4 Mar, y8  A=7x360+30+3  = 2553   B=30*(7*12+1)+3   = 2553   agree
+707 11 Mar, y8  A=7x360+30+10 = 2560   B=30*(7*12+1)+10  = 2560   agree
+708 17 Mar, y8  A=7x360+30+16 = 2566   B=30*(7*12+1)+16  = 2566   agree
+709 24 Mar, y8  A=7x360+30+23 = 2573   B=30*(7*12+1)+23  = 2573   agree
+710 30 Mar, y8  A=7x360+30+29 = 2579   B=30*(7*12+1)+29  = 2579   agree   Q-END, 29th sheet
+
+SEAM   2,520 - 2,489 = 31 days after chapter 700. IN ITS OWN COLUMN. NOT ONE OF THE NINE.
+NINE   7 7 6 7 6 7 6 7 6 = 59   and   2,579 - 2,520 = 59.  THE SUM IS THE PROOF.
+MONOTONIC  0 violations by METHOD A and by METHOD B.
+```
+
+**EVERY ONE OF THE NINE READ AGAINST ITS OWN CHAPTER'S DATE, ONE AT A TIME, BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER AND TWO METHODS THAT SHARE A CONVENTION ARE NOT A CHECK.**
+`701->702` 1 Feb to 8 Feb = **7** · `702->703` 8 to 15 Feb = **7** · `703->704` 15 to 21 Feb = **6** · `704->705` 21 to 28 Feb = **7** · `705->706` 28 Feb to 4 Mar = **six, because the month runs out at its thirtieth and there is no thirty-first** · `706->707` 4 to 11 Mar = **7** · `707->708` 11 to 17 Mar = **6** · `708->709` 17 to 24 Mar = **7** · `709->710` 24 to 30 Mar = **6**. **ALL NINE CORRECT.**
+
+**PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY.**
+`9 Nov year six` = `5 x 360 + 270 + 8 = 2,078` by A and `30 x 60 + 17 = 2,078` by B. `2,579 - 2,078 = 501 = 16 x 30 + 21`, **which is what `chapter-0710.md`'s footer prints, with the anchor named and the other ninth of November named against it.**
+`9 Nov year five` = `4 x 360 + 270 + 8 = 1,718` by A and `30 x 48 + 17 = 1,718` by B. `2,579 - 1,718 = 861 = 28 x 30 + 21`, **which is the other anchor and is NOT printed.** `411` = `2,489 - 2,078` and is printed **ZERO** times in 701–710.
+
+**THE HEAD.** `852`, unmoved since `1,499`, the thirtieth of March of the fifth year. **AT 710 THE SHEETS ARE THIRTEEN (`29 - 16`) AND THE QUARTERS ARE TWELVE (`(2,579 - 1,499) / 90 = 1,080 / 90`). BOTH ARE RIGHT, THEY DIFFER BY ONE, AND `chapter-0710.md` NAMES WHICH ONE IT IS PRINTING IN WORDS.** The hand-forward repair to `chapter-0700.md`:57 printed the sheets at 700, where the correct figures are `28 - 16 = 12` sheets and `(2,489 - 1,499) / 90 = 11` quarters.
+
+**THE OFFICE'S MONTHS** `2,520 = 30 x 84 + 0`, printed ONCE at 701 with operands and nowhere else in 701–710. **THE SHUTTER** `2,579 - 2,078 = 501`, printed ONCE at 710 with its anchor named. **THE LANE'S MORNINGS 0. THE WALL'S RATE 0. THE DOCKET'S DATE 0. THE TWO WORDS ON THE STONE 0.** `771` printed zero times.
+
+## 0c-vol15-b1. THE TWELVE-GRAM INVENTORY, AND EVERY PAIR AT SIX OR ABOVE CLASSIFIED BY HAND
+
+```
+METHOD   body only; heading lines and italic footers stripped; token-normalised; maximal runs.
+SCANNER PROVED FIRST ON A FILE I DID NOT WRITE. chapter-0564.md, which this repository's record
+names as carrying four runs lifted out of itself, returns repeating 12-grams INSIDE that one file
+and is NOT zero. The reader was then re-run after the last repair and returned 0 on 701-710,
+which is the second proof and the one that matters.
+```
+
+**12-GRAM: 0 RUNS TOUCHING 701–710. 11-GRAM: 0. 8-GRAM: 6. EVERY ONE OF THE SIX CLASSIFIED BY HAND BELOW.**
+
+| Pair | Tokens | The run | Class |
+| --- | --- | --- | --- |
+| 701 / 651 | 15 | *nine was the thirtieth of december and the first of february is day two thousand* | **PERMITTED — the fixed arithmetic frame.** 651 opened Volume 13 on the first of February of the third year and 701 opens Volume 15 on the first of February of the eighth year, and the frame's opening clause is identical by design. Documentary register, a standing form, and the numerals after it differ. |
+| 705 / 609 · 622 · 655 · 664 · 691 | 17 | *hundred and forty is seven and twenty eight less twenty one is seven by the month count* | **PERMITTED — the fixed arithmetic frame.** The bare month-count clause of the house's opening paragraph. The spine day, the anchor day and the stated interval all differ in every one of the five files; only the frame is shared, which is what a frame is. |
+
+**THOSE SIX ARE THE WHOLE OF THE INVENTORY. THERE IS NOTHING IN IT AT SEVEN TOKENS OR ABOVE THAT IS NOT A FRAME, A STANDING FACT ABOUT A PIECE OF PAPER, OR A CHARACTER'S OWN REPEATED FORMULA IN HER OWN MOUTH.**
+
+## 0c-bis-vol15-b1. THE FOOTER-TO-FOOTER ROW, WHICH EVERY GRAM READER IS BLIND TO, ACROSS ALL FORTY-FIVE PAIRS INSIDE THE BATCH AND ACROSS 700/701
+
+**55 PAIRS SCANNED. 125 RUNS OF TWELVE TOKENS OR MORE IN THE FINAL ROW. CLASSIFIED BY HAND, EVERY ONE:**
+
+| Class | Count | What it is |
+| --- | --- | --- |
+| **PERMITTED 1 — the fixed arithmetic frame** | **122** | *less two thousand [x], the [date] of the [year], is a hundred and [y] days, which is [n] months with [d] days after them.* The documentary register of the house. Two different anchors producing the same numerals is the ordinary condition of a column of intervals and is not a duplicate of a running fact. |
+| **PERMITTED 1 — coincident numerals, different anchors** | **1** | 701/703, 20 tokens: 701 measures `2,520 − 2,399 = 121` and 703 measures `2,534 − 2,413 = 121`, and both resolve to *four months and one day after them*. **Two different anchors, the same interval, the same frame.** Not a duplicate of a running fact and not cut. |
+| **PERMITTED 3 — the shutter** | **1** | 700/710, 26 tokens: *twenty one days after them and a shutter at the far end of a yard off the Vestry has been bare for every one of them.* **BOTH ANCHORS ARE NAMED ON BOTH PAGES.** 700 names the ninth of November of the sixth year and prints `411` against it; 710 names the same November, prints `501`, and says in words that it is not the ninth of November of the fifth year. This is the collision `outline/volume-15.md` §2c exists for and it is not a defect. |
+| **PERMITTED 2 — the receipt text, in two hands** | **1** | 709/710, 21 tokens on the drawer-instruction clause. The same instrument named in the same office's hand in two chapters six days apart, which is the receipt and not a sentence anybody wrote twice. |
+
+**AND THE ROW THIS PASS FOUND AND CUT. THE FIRST EDITION OF THIS ROW RETURNED 130 RUNS AND FIVE OF THEM WERE A RUNNING FACT RESTATED ACROSS CHAPTERS — *walked in through the front door of an office off a third court*, in 702, 704 and 708, and *face up on a rail in a passage off Cordwain at four*, in 701 and 710. ALL FIVE WERE CUT ONCE, IN THE LATER CHAPTER, AND REPLACED WITH SOMETHING THAT CHAPTER'S OWN AXIS ALREADY OWNS. THE FINAL COUNT IS 125 AND EVERY ONE OF THE FIFTEEN THAT ARE NOT FRAME IS LISTED ABOVE.**
+
+## 0d-vol15-b1. FOURTH WALL, CLASS GREP, AND THE FOUR CLASSES THIS BATCH INHERITS FORWARD
+
+```
+CLASS GREP  [a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis |
+            the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ |
+            [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page |
+            opposition
+            0 primary, 0 widened, 0 extension, ACROSS ALL TEN AND AFTER EVERY REPAIR.
+            *** AND THE GREP IS NOT THE GATE. A FOURTH WALL THAT IS NOT A VOCABULARY ITEM WAS
+            FOUND BY HAND IN THIS BATCH'S FIRST EDITION AND CUT: chapter-0710.md:3 opened with
+            "this chapter sits nineteen days on from the one before it", which is the narrator
+            standing outside the book in a sentence that no class grep on the list can see. It is
+            now "the morning this one sits on is nineteen days after the morning the last one sat
+            on". RUN THE CLASS GREP AND ALSO READ ONE CHAPTER AGAINST THE PARAGRAPH. ***
+THE CLASSES THIS BATCH ADDS, FOR 711-720:
+  ONE · THE HOUSE ARITHMETIC FRAME IS A PERMITTED DUPLICATION CLASS and the word-boundary footnote
+          that comes with it: coincident intervals are not duplicates.
+  TWO · A FOOTER-TO-FOOTER ROW IS A SEPARATE SCAN AT TWELVE TOKENS, NOT AT EIGHT, and the seam row
+          across 700/701 is part of it.
+  THREE · A CHARACTER'S OWN STOCK FORMULA IN HER OWN MOUTH IS NOT A LIFT, BUT FOUR CHAPTERS OF THE
+          SAME FORMULA IN FOUR WEEKS IS, and Wenna Raut's *exactly as given / one word of it / not be
+          asked to hurry* and *permitted to improve it / permitted to leave it out* were each cut
+          once in 701 and once in 705.
+  FOUR · "THERE IS NO FORM" IS THE HOUSE'S OWN NEGATIVE AND IT IS GOOD ONCE. IT APPEARED FIVE TIMES
+          IN 708 AND SIX TIMES IN 703 IN THE FIRST EDITION; THREE OF THEM ARE GONE AND 708 KEEPS ONE
+          IN ITS OWN WORDS AND NO CHAPTER REUSES THE STOCK SENTENCE *there is no form in this city
+          on which a man may knock on a door and ask a person what they* — a twenty-three token run
+          that was on the page in 0654, 0565, 0566, 0570, 0583, 0584, 0630, 0645, 0660, 0664, 0681,
+          0691, 0693 and 0697 before this batch and is now on the page nowhere in it.
+```
+
+---
+
 # VOLUME 15 PLANNING — LIVE CONTINUITY, 14 OCTOBER 2026. **THE SPINE, THE SCENE SCHEDULE, THE FIVE COLLISIONS INHERITED WHOLE, AND THE THREE NEW ROWS THIS VOLUME ADDS. WRITTEN BY A PHASE THAT WROTE NO PROSE AND TOUCHED NO FINISHED FILE. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–750 AND DELETES NONE OF THEM.**
 
 ## 0z-bis. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT

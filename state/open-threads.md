@@ -1,3 +1,58 @@
+# VOLUME 15 BATCH 0001 WRITTEN 14 OCTOBER 2026 — 701–710 ON DISK. **THE LIVE GATE, RE-RUN FROM OUTSIDE THE PASS THAT WROTE IT. VOLUME-WIDE AND NOT BATCH-WIDE. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## The hand-forward is PAID, and there is no longer an owner
+
+**`chapter-0700.md`:57 read *the head of that page has not moved once in fifty chapters*. It now reads *the head of that page has not moved across twelve sheets*. One substitution, one line, in the same commit as chapters 701–710, with `28 − 16 = 12` printed beside it and the counter proved at 2,014 before and 2,013 after by two methods that share nothing. Nothing else in that file was touched and `:13` and `:69`, which were already right, were verified after the edit. THE THREAD IS CLOSED. NO PASS OWNS IT. A LATER PASS MAY NOT REPAIR IT AGAIN.**
+
+---
+
+## THE LIVE GATE, VOLUME-WIDE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES           710 chapter files on disk. Volume 15 holds 701-710 and 710 is the last written page.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 710 FILES.
+BANK            Volume 15 so far is 22,392 words, counted per file and summed from disk:
+                2,135 2,037 3,888 2,093 2,099 1,909 1,812 1,900 2,058 2,461.
+                The counter was proved first on chapter-0700.md, a file this pass did not write.
+VOLUME 14       116,593 words, unchanged by this pass except for the one-line repair at 700,
+                which took 700 from 2,014 to 2,013 and the volume total to 116,592.
+SPINE           Volume 15, 2,520 -> 2,579, both methods agreeing, monotonic at 0 violations,
+                proved by the SUM against the endpoints: 7 7 6 7 6 7 6 7 6 = 59 and 2,579-2,520 = 59.
+                The seam is 31 and is printed in its own column and is not one of the nine.
+THE HEAD        852, unmoved since 1,499. THIRTEEN SHEETS at 710 (29-16) and TWELVE QUARTERS
+                at 710 ((2,579-1,499)/90). Both right, they differ by one, and 710 says which it
+                is printing. No volume has ever moved it and no volume has a permission to.
+THE SECOND COLUMN  THREE LINES at 701 and THREE LINES at the end of 710. The fourth line is 746
+                and it is the volume's irreversible decision and it is not batch 0001's.
+SETTLE          zero in every inflection across all 710 files.
+SPENT FIGURES   the office's months once at 701 (2,520 = 30 x 84 + 0) - the shutter's interval once
+                at 710 (2,579 - 2,078 = 501, anchor named) - the lane's mornings 0 - the wall's
+                rate 0 - the docket's date 0 - the two words on the stone 0 - `411` 0 - `771` 0.
+INVENTED-FIGURES SENTENCE  zero verbatim and zero Tier 3 across 701-710, in any chapter and in any
+                footer. Spent at 658 and it stays spent for the rest of the book.
+SCENES          Volume 15 has spent ONE of its five. 703, Sun Meiling, 3,888 words, seven-way
+                measurement printed in state/current.md with the line span beside every cell,
+                explicit probe at word boundary cock 3 / cunt 1 / sucked 1 / wet 2 / naked 1.
+                713, 723, 733 and 743 remain and are NOT batch 0001's.
+```
+
+## What is open after 710, and what belongs to which movement
+
+| Thread | Where it stands after 710 | Whose |
+| --- | --- | --- |
+| **THE FOURTH COLUMN** | Headed **WHAT THE SHEET SAID THAT DAY** since 704, one word in it, and the check runs backwards as well as forwards since 705. Nobody may cite it and Perla Quist is not an instrument and has said no five times. | movements two and three |
+| **THE THING HE CANNOT GET** | About four hundred kitchens. Named out loud at 708, refused for a structural reason, and offered a worse version of it in about two hundred and seventy kitchens he cannot name. He has not asked for the four hundred and she is not going to suggest it. | 729, 730 |
+| **THE FOURTH LINE IN THE SECOND COLUMN** | The column can take one more line before the thirtieth of March and on the thirtieth of March it took none. The fifth field takes a person and there is no person in this city he may put in it except himself. | **746, and it is not batch 0001's and not batch 0002's** |
+| **THE RECEIPT COMING BACK** | Paid at 701, 702 and 707. The second sentence at the foot has now been read in the worst possible direction at the person it was written for, by a district officer doing her job, and nobody can undo it. | closed for this movement |
+| **THE DOCKET** | Folded once in the inside of his coat. Not read in 701-710 and its date printed nowhere. | **712, and 712 reads it aloud in a laundry and the date is still printed nowhere** |
+| **THE DRAWER** | Shut since the twenty-first of October, closed by him on the thirtieth of December, and it is a drawer and nothing else in all ten chapters. | **739, and it is not batch 0001's** |
+| **THE BOY** | Not in this batch and not asked about anything. | **724 and 725** |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | Not in this batch and neither named nor asked. | 735, and the temptation is placed there on purpose |
+| **THE WOMAN WHO CANNOT READ** | Not in this batch. She is **not** the woman at 707 and the two are nowhere merged, and the sheet with four words on the back of it is not in a drawer in this volume yet. | 742 and 750 |
+| **THE TWO WORDS ON THE STONE** | Not printed in this batch and not printed in this volume and not asserted to be the same words as anything. | 721, 722, 725 |
+
+---
+
 # VOLUME 15 PLANNING — LIVE GATE AND HANDED-FORWARD, 14 OCTOBER 2026. **VOLUME-WIDE AND NOT BATCH-WIDE. WRITTEN BY A PHASE THAT WROTE NO PROSE, EDITED NO FINISHED FILE, AND RAN EVERY ROW BELOW BY COMMAND FROM OUTSIDE ANY PASS THAT WROTE A CHAPTER. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–750 AND DELETES NONE.**
 
 ## The gate that stands on Volume 14, re-run by command in this commit, before anything was planned
