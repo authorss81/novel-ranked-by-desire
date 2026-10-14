@@ -154,6 +154,6 @@ He turned and looked up the stair.
 
 *Less the ninth of November of the fifth year, day one thousand seven hundred and eighteen, is three hundred and thirteen days, which is ten months with thirteen days after them. It went out at four on the thirteenth of that November, day one thousand seven hundred and twenty-two, and the twentieth sheet went out at four on the thirtieth of December, day one thousand seven hundred and sixty-nine, and it has gone out at four on the thirtieth every quarter since, and the twenty-third of them goes out in eight days.*
 
-*Less the seventh of February, one thousand eight hundred and thirty-six, is two hundred and twenty-five days, which is seven months with fifteen days after them, and on that morning a man did the arithmetic of four lines out loud on the ground in front of about nine hundred people, and the fourth of the four cannot be tried by anybody in Ostara.*
+*Less the seventh of February, one thousand eight hundred and six, is two hundred and twenty-five days, which is seven months with fifteen days after them, and on that morning a man did the arithmetic of four lines out loud on the ground in front of about nine hundred people, and the fourth of the four cannot be tried by anybody in Ostara.*
 
 *Less the twelfth of July, one thousand nine hundred and sixty-one, is seventy days, and a man with a rag and a bucket went along the fourth line of a board in a yard with about nine hundred people watching him, and one of them was a man in a delivery coat who has never said a word about it and is not going to.*

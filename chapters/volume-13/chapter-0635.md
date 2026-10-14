@@ -172,6 +172,6 @@ He squared the ledger and shut it.
 
 *Nineteen years is six thousand eight hundred and forty days, two thousand and seventeen less six thousand eight hundred and forty is minus four thousand eight hundred and twenty-three, and a day four thousand eight hundred and twenty-three before the first of February of the first year is a day in a building that was put up before this office existed by thirteen years, and a figure has been copied from one book to the next for all of that by about nineteen pairs of hands.*
 
-*Less the seventh of February, one thousand eight hundred and thirty-six, is one hundred and eighty-one days, which is six months and one day, and on that morning a man did the arithmetic of four lines out loud on the ground in front of about nine hundred people and the fourth of them cannot be tried by anybody in Ostara.*
+*Less the seventh of February, one thousand eight hundred and six, is two hundred and eleven days, which is seven months and one day, and on that morning a man did the arithmetic of four lines out loud on the ground in front of about nine hundred people and the fourth of the four cannot be tried by anybody in Ostara.*
 
 *Less the thirtieth of September, two thousand and thirty-nine, is twenty-two days. It goes out at four with a figure at the head of it that has not moved in seven quarters, and there is a column with two lines in it, and there is a book behind a desk in a division building that has not been opened since the second year.*
