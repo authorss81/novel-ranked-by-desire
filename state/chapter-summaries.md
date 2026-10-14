@@ -1,3 +1,24 @@
+# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, **19,127 WORDS**. MOVEMENT THREE, *THE COINCIDENCE*. THIS BLOCK SUPERSEDES FOR 721–730 AND DELETES NOTHING.
+
+**BANK: 721 1,900 · 722 1,914 · 723 2,689 (scene, inside the band) · 724 1,804 · 725 1,804 · 726 1,806 · 727 1,803 · 728 1,807 · 729 1,800 · 730 1,800 = 19,127.**
+
+| Ch | Title | Day | What changes |
+| --- | --- | --- | --- |
+| 721 | A Claim About Two Words | 17 Jun y8, 2,656 | Pencil under the striking in an unknown hand claims the two words warn about the four sentences; counterman reads past it; Perla will not date what she cannot check. |
+| 722 | Two Words Nobody Has Written Down | 24 Jun y8, 2,663 | The claim stands unanswerable: only copy is a rubbing in a coat, no form asks what is in a coat; thirtieth of June six days off. |
+| 723 | A Broker Needs A Third Party | 30 Jun y8, 2,669 | SCENE, Marguerite Vale: third-party refusal given before, then the room above Cordwain; thirtieth sheet out at four, head unmoved, fourteen sheets/thirteen quarters named. |
+| 724 | The Seventy-Third Form | 7 Jul y8, 2,676 | Seventy-third goes up, squares empty; a water-seller (not Lin Hao, officer or clerk) asks the boy what is in his coat; he does not answer yet. |
+| 725 | He Does Not Read It Out | 13 Jul y8, 2,682 | In a laundry the boy gives the reason in about nine seconds and stops; one paragraph says the claim is unanswerable, the reason is a boy, the boy is right. |
+| 726 | The Corner Fills Up Again | 20 Jul y8, 2,689 | About nine of nine hundred reach the four inches; correction lands inside four minutes; about nine now believe the office keeps a stone; nobody thanked. |
+| 727 | The Older Claim Wins | 26 Jul y8, 2,695 | First age at a counter: dated claim ordered against undated, undated loses, person it is about absent and unknowing. |
+| 728 | A Landlord’s Man And A Public Sheet | 3 Aug y8, 2,702 | The receipt used face-up in a room case by a landlord's man; point correct; person it is about not in the room. |
+| 729 | No Instrument For Correcting A Kitchen | 9 Aug y8, 2,708 | Fourth column finds one copy wrong first; Perla says so; no instrument corrects kitchens and she may not be sent; three counts held apart. |
+| 730 | A Denial In His Own Hand | 16 Aug y8, 2,715 | IRREVERSIBLE, HIS: denial entered on the page with name and date; nine years of saying nothing closed at the cost of an arguable claim. |
+
+**VOLUME 15 SO FAR: 701–710 at 22,377 · 711–720 at 22,788 · 721–730 at 19,127 = 64,292. Scenes spent: 703, 713, 723. Decisions: 710, 720, 730. Next: 731–740, movement four.**
+
+---
+
 # VOLUME 15 BATCH 0001 REPAIRED 14 OCTOBER 2026 AGAINST THE REVIEW PASS — CHAPTERS 701–710 STILL ON DISK, **22,377 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. NOTHING RESTARTED, NO CHAPTER REWRITTEN, THE PLOT AND THE MOVEMENT UNCHANGED. **THE BLOCK BELOW IS SUPERSEDED FOR EVERY FIGURE, TITLE AND DATE AND IS KEPT AS THE RECORD OF WHAT THE WRITING PASS MEASURED.** THE REPAIR IS IN `state/current.md` AT THE HEAD OF THE FILE, THE SPINE LEDGER IS `state/continuity.md` §0a-vol15-b1r, AND THE FORWARD RISK IS CLOSED IN `workspace/volume-15/batch-0002/PROMPT.md`.
 
 **THE BANK, RE-COUNTED PER FILE FROM DISK AFTER THE LAST EDIT: 701 2,183 · 702 1,988 · 703 3,873 · 704 2,092 · 705 2,089 · 706 1,908 · 707 1,809 · 708 1,900 · 709 2,045 · 710 2,490 = 22,377.** It was 22,392. The per-cell deltas against the writing pass are **701 +48 · 702 −49 · 703 −15 · 704 −1 · 705 −10 · 706 −1 · 707 −3 · 708 0 · 709 −13 · 710 +29**, and the sum of the deltas is **−15**.

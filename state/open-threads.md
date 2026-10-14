@@ -1,3 +1,80 @@
+# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, 19,127 WORDS. MOVEMENT THREE, *THE COINCIDENCE*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS THE DENIAL
+
+**AT 730 LIN HAO ENTERED A DENIAL IN THE OFFICE'S HAND WITH HIS NAME AND THE SIXTEENTH OF AUGUST AGAINST IT: NO PAGE OF THIS OFFICE AND NO STONE IN THIS CITY IS CONNECTED TO ANY OTHER, AND A RESEMBLANCE IS NOT A FIGURE.** What it closes is nine years of saying nothing about the two words. What it costs is that a denial is a claim about somebody else's claim on a page about nine people a week read to the bottom, in a city hand and not in pencil, which is the exact sentence the third of the four was written to stop. **OWNER: movement four (731–740), where the denial goes out twice with his name on it.**
+
+## CLOSED IN THIS PASS, WITH NO OWNER LEFT
+
+- **THE PENCIL UNDER THE STRIKING.** On in June with the twenty-ninth, down with it at the quarter. Nobody saw it done.
+- **THE ASKING OF THE BOY.** Asked once at 724 by a woman with a yoke who is not Lin Hao and not an officer and not a clerk; answered once at 725 in about nine seconds; never asked by Lin Hao.
+- **THE FIRST AGE.** Ordered at 727 at a counter: a claim with a day beats one without, loser absent and unknowing.
+- **THE RECEIPT USED CORRECTLY.** At 728 a landlord's man puts it face up in a room case and is right.
+- **THE WRONG COPY FOUND FIRST.** At 729 the fourth column finds one wrong before anybody asks; the three counts held apart.
+
+## NOT HANDED FORWARD AND NOT OPEN
+
+**NOTHING IN THIS PASS CREATES A NEW PHASE BESIDES THE ONE NAMED AT THE HEAD. `workspace/volume-15/batch-0004/PROMPT.md` IS THE ONE NEXT PHASE, FOR CHAPTERS 731–740, MOVEMENT FOUR, *THE NAME*, AND IT IS THE ONLY DIRECTORY THIS PASS WROTE. NO VOLUME-CLOSE PROMPT. NO BATCH 0005. `state/complete.md` IS NOT CREATED AND THE SERIES IS PLANNED PAST 730. `outline/ending.md` IS UNTOUCHED AND NO NEW FINAL ENEMY WAS INTRODUCED.**
+
+---
+
+## THE LIVE GATE, VOLUME-WIDE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES           730 chapter files on disk. Volume 15 holds 701-730 and 730 is the last written page.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 730 FILES.
+                The ten title lines checked separately from their bodies for straight glyphs:
+                0 straight doubles, 0 straight apostrophes, 0 curly, all ten pure ASCII.
+BANK            Volume 15 so far is 19,127 words in this batch, 22,788 in batch 0002 and 22,377
+                in batch 0001, and the three sum to 64,292, counted per file and summed from disk:
+                1,900 1,914 2,689 1,804 1,804 1,806 1,803 1,807 1,800 1,800 = 19,127.
+                The counter was proved first on chapters/volume-14/chapter-0700.md, a file this pass
+                did not write, which returns 2,013 by `wc -w` and by a Python whitespace split.
+SPINE           Volume 15, 2,520 -> 2,715 across three batches, monotonic at 0 violations by METHOD A
+                and METHOD B, proved by the SUM against the endpoints each time: batch 0001's row
+                `7 7 6 7 6 7 6 7 6 = 59`, batch 0002's row `7 7 7 7 7 7 7 7 7 = 63`, this batch's row
+                `7 6 7 6 7 6 7 6 7 = 59`. Each seam (31 at 700/701, 7 at 710/711, 7 at 720/721) is
+                printed in its own column and is not one of the nine of its own row.
+FOOTER ROW      40 intervals in 721-730 parsed off the pages and re-derived from day numbers:
+                40 parsed, 40 re-derived, 0 mismatches, 0 unparsed. 20 printed month breakdowns
+                against n x 30 + m: 20 found, 20 re-derived, 0 wrong. A ROW THAT REPORTS A PASS IS
+                NOT A CHECK: the counts above are the counts actually parsed.
+THE REGISTER    419 before a clerk's hand, 11 since the thirtieth of March (419 + 11 = 430, per batch
+                0002), 409 in the two boxes; the three objects are not merged anywhere in 721-730 and
+                no new totals are printed without scope.
+THE HEAD        852, unmoved since 1,499. FOURTEEN SHEETS at 723 (30-16) and THIRTEEN QUARTERS
+                ((2,669-1,499)/90 = 13 exactly). Both right, they differ by one, and 723 says in words
+                which is which. 723 is a quarter-end and the thirtieth sheet.
+THE SECOND COLUMN  THREE LINES at 721, THREE at 730, AND NOTHING GOES IN IT IN ANY CHAPTER OF
+                721-730.
+SETTLE          zero in every inflection across all 730 files.
+SPENT FIGURES   the office's months once, at 701 — the shutter's interval once, at 710 —
+                the lane's mornings ONCE at 720 — the wall's rate 0, owed at 738 —
+                the docket's date 0, read aloud at 712 and printed nowhere —
+                the two words on the stone 0 — `411` 0 — `771` 0.
+INVENTED-FIGURES SENTENCE  zero verbatim and zero Tier 3 across 701-730, in any chapter and in any
+                footer. Spent at 658 and it stays spent for the rest of the book.
+SCENES          Volume 15 has spent THREE of its five. 703 at 3,873, 713 at 4,692, 723 at 2,689 with
+                line spans beside every cell, all at word boundary. 733 and 743 remain.
+PANELS          0 of Volume 15's five spent, across all three batches.
+```
+
+## What is open after 730, and what belongs to which movement
+
+| Thread | Where it stands after 730 | Whose |
+| --- | --- | --- |
+| **THE DENIAL** | On the page in the office's hand with his name and the sixteenth of August; goes out twice with his name on it | **731, 732, 737** |
+| **THE SCENE CADENCE** | 703, 713, 723 spent. Next is 733, Wren Kallo | 733, 743 |
+| **THE FOURTH COLUMN** | Headed, with dated entries and one wrong copy found first at 729 | 734, 745, 747 |
+| **THE DRAWER** | Shut; 720's instruction does not reach it; untouched in 721–730 | **739** |
+| **THE FOURTH LINE IN THE SECOND COLUMN** | Three lines at 730; three at 721; nothing in between | **746, and it is not batch 0003's** |
+| **THE BOY** | Asked once, answered once, never by Lin Hao | 738 |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | Neither named nor asked in 721–730 | 735 |
+| **THE WOMAN WHO CANNOT READ** | Not named, not traced, nobody sent, nothing asked | 742, 750 |
+| **THE TWO WORDS ON THE STONE** | Not printed; never asserted same as anything; denial now arguable | 731–750 |
+
+---
+
 # VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, 22,788 WORDS AFTER THE `logs/batch-0002.review.log` REPAIR. MOVEMENT TWO, *THE FOURTH COLUMN*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS A GATE ROW THAT WAS WRONG

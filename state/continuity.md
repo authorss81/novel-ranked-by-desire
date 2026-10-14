@@ -1,3 +1,82 @@
+# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK. **§0a-vol15-b3 BELOW IS THE FILE'S LIVE BLOCK FOR 721–730 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b3. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE CLASSES INHERITED FORWARD
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + 30*pos[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, CONTAINS NO 360 AT ALL
+           pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4 pos[Jul]=5 pos[Aug]=6
+           pos[Sep]=7 pos[Oct]=8 pos[Nov]=9 pos[Dec]=10   PRINTED HERE, USED HERE, ZERO INDEXED
+
+721 17 Jun, y8  A=7x360+120+16  = 2656   B=30*(7*12+4)+16  = 2656   agree
+722 24 Jun, y8  A=7x360+120+23  = 2663   B=30*(7*12+4)+23  = 2663   agree
+723 30 Jun, y8  A=7x360+120+29  = 2669   B=30*(7*12+4)+29  = 2669   agree   SCENE, QUARTER-END, 30th sheet
+724  7 Jul, y8  A=7x360+150+6   = 2676   B=30*(7*12+5)+6   = 2676   agree   73rd form
+725 13 Jul, y8  A=7x360+150+12  = 2682   B=30*(7*12+5)+12  = 2682   agree
+726 20 Jul, y8  A=7x360+150+19  = 2689   B=30*(7*12+5)+19  = 2689   agree
+727 26 Jul, y8  A=7x360+150+25  = 2695   B=30*(7*12+5)+25  = 2695   agree
+728  3 Aug, y8  A=7x360+180+2   = 2702   B=30*(7*12+6)+2   = 2702   agree
+729  9 Aug, y8  A=7x360+180+8   = 2708   B=30*(7*12+6)+8   = 2708   agree
+730 16 Aug, y8  A=7x360+180+15  = 2715   B=30*(7*12+6)+15  = 2715   agree   THE DECISION
+
+SEAM   2,656 - 2,649 = 7 days after chapter 720. IN ITS OWN COLUMN. NOT ONE OF THE NINE.
+NINE   7 6 7 6 7 6 7 6 7 = 59   and   2,715 - 2,656 = 59.  THE SUM IS THE PROOF.
+MONOTONIC  0 violations by METHOD A and by METHOD B.
+```
+
+**EVERY ONE OF THE NINE READ AGAINST ITS OWN CHAPTER'S DATE, ONE AT A TIME.** `721->722` 17 to 24 Jun = **7** · `722->723` 24 to 30 Jun = **6, June runs out at its thirtieth** · `723->724` 30 Jun to 7 Jul = **7: thirtieth nothing, first of July one, seventh six more** · `724->725` 7 to 13 Jul = **6** · `725->726` 13 to 20 Jul = **7** · `726->727` 20 to 26 Jul = **6** · `727->728` 26 Jul to 3 Aug = **7: four to the thirtieth, one to the first, two to the third** · `728->729` 3 to 9 Aug = **6** · `729->730` 9 to 16 Aug = **7**. **ALL NINE CORRECT, AND THE ALTERNATION SIXES ARE AT 722->723, 724->725, 726->727, 728->729.**
+
+**PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY.**
+`9 Nov year six` = 2,078 both ways; `2,715 - 2,078 = 637`, NOT printed. `9 Nov year five` = 1,718 both ways; `2,715 - 1,718 = 997`, NOT printed and NOT 771. `771` printed **ZERO** times; `411` printed **ZERO** times. `2,715 - 2,078 = 637` and `2,715 - 1,718 = 997` share no month breakdown with the 700 footer.
+
+**THE FIGURES THE BATCH TOOK OFF AN ANCHOR AND DID NOT PRINT.** `1,499` = thirtieth of March year five, the head. `2,399` = thirtieth of September year seven, the page at four. `2,420` = twenty-first of October year seven, the drawer instruction. `2,579` = thirtieth of March year eight, the twenty-ninth sheet. `2,649` = tenth of June year eight, the decision. **`2,669 - 1,499 = 1,170 = 13 x 90` exactly, so quarters at 723 are thirteen and sheets are fourteen (30 - 16); 723 names both in words.**
+
+## 0a-bis-vol15-b3. EVERY FOOTER INTERVAL IN 721–730, PARSED OFF THE PAGE AND RE-DERIVED FROM DAY NUMBERS BY COMMAND
+
+**40 INTERVALS PARSED (10 opening + 30 footers). 40 RE-DERIVED. 0 MISMATCHES. 0 UNPARSED. 20 PRINTED MONTH BREAKDOWNS CHECKED SEPARATELY AGAINST `n x 30 + m`: 20 FOUND, 20 RE-DERIVED, 0 WRONG.** The `n x 30 + m` rule: 77 = 2x30+17 · 257 = 8x30+17 · 84 = 2x30+24 · 264 = 8x30+24 · 90 = 3x30 · 270 = 9x30 · 97 = 3x30+7 · 277 = 9x30+7 · 103 = 3x30+13 · 283 = 9x30+13 · 110 = 3x30+20 · 290 = 9x30+20 · 116 = 3x30+26 · 296 = 9x30+26 · 123 = 4x30+3 · 303 = 10x30+3 · 129 = 4x30+9 · 309 = 10x30+9 · 136 = 4x30+16 · 316 = 10x30+16. **A ROW THAT REPORTS A PASS IS NOT A CHECK: the count reported is the count actually parsed, and every mismatch found (none) would be named.**
+
+## 0c-vol15-b3. THE TWELVE-GRAM INVENTORY, THE FOOTER-TO-FOOTER ROW, AND EVERY PAIR CLASSIFIED BY HAND
+
+```
+METHOD   body only; heading lines and italic footers stripped; token-normalised; maximal runs.
+READER PROVED FIRST ON chapter-0564.md: 7 repeating 12-grams INSIDE that one file. IT IS NOT ZERO.
+```
+
+**MAXIMAL 12-GRAM RUNS TOUCHING 721–730: 83 RAW, OF WHICH THE ARITHMETIC FRAME IS THE BULK AND SIX LONG NON-FRAME RUNS WERE REWORDED IN THE CHAPTERS.** Repaired before measurement: 724's 70-token board-up lift · 727's 46-token clerk exchange · 730's 35-token instruction formula · 728's 39-token remark formula · 728's 33-token closing · 730's 31-token quarter-past-eleven beat · 725/727/722/726 stock lines at 22–26 tokens. After repair the residue is short maximal runs of 12–17 tokens in six permitted classes, every one classified here:
+
+| Class | Runs | Examples (chapter) |
+| --- | --- | --- |
+| ONE · house arithmetic frame (openings, month-count clause) | ~30 | 721/722/723 date+interval frames; coincident numerals, different anchors |
+| TWO · standing descriptions of furniture/paper the book repeats by design | ~25 | two cardboard boxes + two fingers on the lid (722); stair at the back (722); told-in-front-of-a-counter arrangement (722, reworded); fourth-month bag woman (726, reworded); drawer shut; seventy-third form squares |
+| THREE · the office's own instruments quoted as instruments | ~8 | row-may-be-added (722); receipt/denial text at 730 (permitted class 2); three lines in the column; four sentences at the foot |
+| FOUR · a character's own stock formula in her own mouth | ~8 | Wenna Raut enter-exactly; Perla Quist copies-are-pieces; clerk remark/note (reworded); counterman reads-what-is-on-the-page |
+| FIVE · counts held apart by rule (pieces vs claims vs people) | ~6 | 714/716/729 triad named in 729 with each scope said; eleven-in-eight-days rate |
+| SIX · the guild third-party rule at 723 (16 tokens, in Marguerite Vale's mouth) | 1 | shared with 474/622/659 as the standing rule of the room; named as standing rule, not a lift |
+
+**11-GRAM AND 8-GRAM ADD NOTHING OUTSIDE THOSE SIX CLASSES. THE SIXTH CLASS IS NEW IN THIS BATCH AND IS NAMED HERE SO 733–743 CANNOT RE-IMPORT IT AS A LIFT.**
+
+**THE FOOTER-TO-FOOTER ROW AT TWELVE TOKENS ACROSS ALL FORTY-FIVE PAIRS INSIDE THE BATCH AND ACROSS THE 720/721 SEAM: every run is the fixed arithmetic frame or the denial text at 730.** No running fact shared outside the three permitted classes (frame, receipt/denial text, shutter). The shutter class has zero hits in 721–730 by design.
+
+## 0d-vol15-b3. FOURTH WALL, CLASS GREP, AND THE SIX CLASSES 731–740 INHERITS
+
+```
+CLASS GREP  [a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis |
+            the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ |
+            [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page |
+            opposition | this batch | a chapter that | this pass | in this volume
+            0 primary, 0 widened, 0 extension, ACROSS ALL TEN AND AFTER EVERY REPAIR.
+            *** AND THE GREP IS NOT THE GATE. 727 WAS READ AGAINST THE PARAGRAPH IN THE SAME
+            COMMIT, BECAUSE 710:3 IN BATCH 0001 WAS NOT VOCABULARY. ***
+THE CLASSES 731-740 INHERITS, SIX NOW AND NOT FIVE:
+  ONE · THE HOUSE ARITHMETIC FRAME IS A PERMITTED DUPLICATION CLASS. RUN THE FOOTER-TO-FOOTER ROW SEPARATELY, AT TWELVE TOKENS.
+  TWO · A CHARACTER'S OWN STOCK FORMULA IN HER OWN MOUTH IS NOT A LIFT; FOUR CHAPTERS OF THE SAME FORMULA IN FOUR WEEKS IS.
+  THREE · "THERE IS NO FORM" IS GOOD ONCE PER CHAPTER AT MOST; THE EIGHT-TOKEN FORM IS ONCE IN THIS BATCH, AT 722.
+  FOUR · A WOMAN'S OWN REPEAT OF A SENTENCE SHE HAS SAID IN HER OWN BOOK IS A CLASS OF ITS OWN.
+  FIVE · A CHAPTER MAY NOT PUT A COUNT OF PEOPLE, A COUNT OF CLAIMS AND A COUNT OF PIECES OF PAPER IN ONE BREATH AND THEN USE ONE OF THEM FOR ANOTHER. 729 NAMES ALL THREE IN ORDER AND SAYS WHAT EACH IS NOT.
+  SIX · NEW. THE GUILD THIRD-PARTY RULE IS A STANDING RULE OF THE ROOM. 723 STATES IT IN MARGUERITE VALE'S MOUTH AND NO LATER SCENE RESTATES IT VERBATIM.
+```
+
 # VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK. **§0a-vol15-b2 BELOW IS THE FILE'S LIVE BLOCK FOR 711–720 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b2. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE CLASSES INHERITED FORWARD

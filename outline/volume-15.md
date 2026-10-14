@@ -459,11 +459,13 @@ VOLUME 15      301 inside the five batches, plus a seam of 31 and four seams of 
 
 ---
 
-### Movement three — THE COINCIDENCE (721–730). 17 June – 16 August, year eight. Spine days 2,656 – 2,715.
+### Movement three — THE COINCIDENCE (721–730). 17 June – 16 August, year eight. Spine days 2,656 – 2,715. **WRITTEN AGAINST THE PAGE 14 OCTOBER 2026 BY THE PASS THAT WROTE 721–730, AND THE VERSION BELOW IS THAT VERSION. ROWS FOR 731–750 ARE STILL PLAN.**
 
 **Promise:** a resemblance between two words and a date is put in front of about four hundred people, and the only instrument that could say it means nothing is a woman with a pencil and nine sheets under a table.
 
-| Ch | Day | Spine | What the plan says it will do |
+**DELIVERED, AS PLANNED IN EVERY DECISION AND WITH SIX LONG NON-FRAME RUNS REWORDED ON THE PAGE (724's board-up, 727's clerk exchange, 730's instruction formula, 728's remark formula, 728's closing, 730's quarter-past-eleven beat). THE SPINE ROW `7 6 7 6 7 6 7 6 7 = 59` AND `2,715 − 2,656 = 59` PROVED BY SUM WITH EVERY TERM READ AGAINST ITS DATE; THE SEAM `2,656 − 2,649 = 7` STANDS ALONE. §5c DATES RE-DERIVED FOR 721–730 BY BOTH METHODS: NO CORRECTION NEEDED.**
+
+| Ch | Day | Spine | What the page says happened |
 | --- | --- | --- | --- |
 | **721** | 17 Jun, y8 | 2,656 · +7 | **A CLAIM ABOUT TWO WORDS.** Somebody has written, in the two inches under the striking, in pencil, in a hand that is not anybody's, a claim about the two words at the foot of the wall — **and the two words are not printed in this book and have never been and are not printed here either.** |
 | **722** | 24 Jun, y8 | 2,663 · +7 | **TWO WORDS NOBODY HAS WRITTEN DOWN.** The claim is unanswerable, and the reason it is unanswerable is that the only copy is in the inside of a coat, and there is no form in this city on which the office may ask a person what they have in a coat. |
