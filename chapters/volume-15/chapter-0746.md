@@ -78,7 +78,7 @@ He said, “Yes,” and that was the whole of the exchange, and neither of them 
 
 ## Twenty-Seven Days
 
-He did not go up four flights that afternoon or the next morning or on any day after it, and he did not send anybody, because he may ask this office anything and he may not send anybody and there is no form in this city on which he could send anybody if he wanted to.
+He did not go up four flights that afternoon or the next morning or on any day after it, and he did not send anybody, because he may ask this office anything and he may not send anybody, and nothing on paper in this city would let him if he wanted to.
 
 At about half past five he stood at the table with the drawer shut in the wall on his left and the bundle beside it with twenty-six things on it, and the sheet squared under the window with a date at the top of the second column and a name under the date and a sentence in a clerk’s hand under the name and his own name under that.
 

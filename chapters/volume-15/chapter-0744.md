@@ -6,7 +6,7 @@ Two thousand eight hundred and one was the twelfth of November and the nineteent
 
 The second column has been on the quarterly sheet since before this office existed and it has had a heading on it that nobody in the building has ever been able to explain, and the heading is two words and it says **carried by**.
 
-That is all it has ever said. It is printed on the form once a year along with everything else and it is the same on all four of the sheets that go out, and there is no form anywhere by which a heading can be altered after it has been printed, and nobody has ever asked for it to be.
+That is all it has ever said. It is printed on the form once a year along with everything else and it is the same on all four of the sheets that go out, and a heading cannot be altered after it has been printed, and nobody has ever asked for it to be.
 
 Under it there are three lines.
 
@@ -80,7 +80,7 @@ And that he had arranged it, and that arranging it was the thing he does, and th
 
 He was not going to be forgiven for it and he was not asking to be. He was not going to tell her first either, and he turned that over twice on the morning of the nineteenth and it came out the same way both times, because if he told her first then she would have to agree to be named or refuse, and a refusal in this city is a thing a person carries round for the rest of their life, and he had no business handing her one.
 
-He did not write it down. There is no form in this city on which a man may write down that he intends to do a thing, and there has not been one since the first year, and he was not going to invent one on the nineteenth of November.
+He did not write it down. No paper in this city will take a line saying that a man intends to do a thing, and there has not been one since the first year, and he was not going to invent one on the nineteenth of November.
 
 *Two thousand eight hundred and eight days. Less two thousand eight hundred and one, the twelfth of November of the eighth year, is seven, and a man read the second column from the top for the first time in nine years and found that all three lines in it were names.*
 

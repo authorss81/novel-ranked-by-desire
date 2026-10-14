@@ -19,7 +19,7 @@ Four names on the rota. The page is the size of a folded hand and it is ruled in
 
 A name on that page is a person who works in the same building as him.
 
-She works it on the other three nights, at a market end off the Cordwain side, and she has never once asked him what he does with his three off and he has never once asked her, and there is no form in this city on which either of them is obliged to.
+She works it on the other three nights, at a market end off the Cordwain side, and she has never once asked him what he does with his three off and he has never once asked her, and nothing in this city obliges either of them to.
 
 ## She Stops The Car In The Middle Of The Shaft
 
@@ -35,7 +35,7 @@ He got in.
 
 The gate shut behind him with the noise it makes, which is not a bang, it is more like a coin going into a slot, and the rope came over and the car went down, and after about a second and a half he noticed that the walls were nearer each other than they had been.
 
-It was not the room. It was not the light. The two side walls of that car were about four inches nearer each other with every floor it came down, and the space between them and the two of them went down like water going down a drain, and when it came to a stop in the middle of the shaft the distance in that box was the smallest distance he had ever stood in with another person.
+It was not the room. It was not the light. The two side walls of that car were about four inches nearer each other with every floor it came down, and the space between them and the two of them went down like water going down a drain, and when it came to a stop in the middle of the shaft there was less of it between the two of them than there had ever been in a room he had been handed.
 
 She had not told him about it and he had not asked, and both of those had been going on for six years.
 
@@ -133,7 +133,7 @@ He put his cock back into her and she thanked him for it, out loud, in the voice
 
 “Go on,” she said. “Do it like a man who does the floors of three washrooms and not like a man being careful.”
 
-He stopped being careful. She noticed it inside about two seconds and her heels came off the gate and she got a hand round the back of his neck and held his face against her jaw and told him exactly what she wanted and in what order and in about nine words, and when he did it she shut up completely, which was worse and much better.
+He stopped being careful. She noticed it inside about two seconds and her heels came off the gate and she got a hand round the back of his neck and held his face against her jaw and gave him the whole of it in about nine words, in that order and with no room left in it to be misunderstood, and when he did it she shut up completely, which was worse and much better.
 
 She came with her mouth shut on her own teeth and her cunt going tight around him all at once, and she went on riding it out instead of stopping, and she was laughing before she had finished shaking, and she said his name on the third wave and not on the first two.
 
@@ -143,13 +143,13 @@ He put his mouth on her and she let him, and got a hand into his hair and held h
 
 He said he had got nothing to say that would be worth the door she was about to open.
 
-“That,” said Nadia Ferrous, “is the single best thing anybody has said to me in about four years and I am going to be insufferable about it for a fortnight.”
+“That,” said Nadia Ferrous, “is the best thing anybody has said to me since I took the nights, and you are going to hear about it for a month.”
 
 ## At The Bottom Of The Shaft
 
-She got the gate open with her elbow and the doors came back about six inches and stopped, because the car was in the middle of a shaft and there was nothing on the other side of them and about six inches of it.
+She got the gate open with her elbow and the doors came back about six inches and stopped dead, because there was nothing on the far side of them but shaft.
 
-She came off him slowly, got her cap off the rail and put it under her arm rather than on, and sat down on the little bench in the corner with one palm wet on her own thigh and put her boots up on the opposite wall.
+She came off him slowly, got her cap off the rail and put it under her arm rather than on, and lowered herself onto the little bench in the corner with one palm wet on her own thigh and put her boots up on the opposite wall.
 
 He got his trousers up and found her semen on his own hand and on the front of her trousers, and neither of them wiped it and neither of them said anything about it, because a stopped lift is a stopped lift and there is a cloth on a hook in the corner of it that has been the same cloth since the building was put up.
 
@@ -167,13 +167,13 @@ Then she told him his week.
 
 “I would rather have your three days in my head for the rest of my life than have them on a sheet with my name at the top of it in a building with no door onto a street.”
 
-She stood up and put both hands round the rope and waited, and he could see her deciding to start.
+She got her hands round the rope and stood there a moment with her weight back on her heels, and he watched her decide.
 
-She went up. Not much. One floor. The car came off its stop about two inches, went about four feet, and stopped, and made a noise in the machinery that they both heard and neither of them enjoyed.
+Then the car went. It managed about a foot of rise before it stopped again, and somewhere above them the gear took hold and let go, and neither of them enjoyed the noise it made about it.
 
-She came back down into the middle of the shaft and sat on the bench again with her forehead on her knees for about twenty seconds.
+The car came back down into the middle of the shaft and she stayed where she was with her forehead on her knees until she could lift her head.
 
-“That is one floor,” she said, “and it took me a hundred and twenty seconds and it costs me a day and a half, and I have done it for the sake of three days and a quarter and I would do it again tomorrow, and you are not going to apologise for it and I am not going to let you.”
+“A hundred and twenty seconds,” she said, “and a day and a half back out of a week I am not paid for, and I would buy the same floor again in the morning for the sake of three days and a quarter, and you are not going to apologise for it and I am not going to let you.”
 
 “I was not going to.”
 
