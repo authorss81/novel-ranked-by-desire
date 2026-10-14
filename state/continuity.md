@@ -1,3 +1,100 @@
+# VOLUME 14 BATCH 0002 WRITTEN — 661–670 ON DISK. SPINE 2,226–2,289 RE-RUN FROM DISK, MONOTONIC **0 VIOLATIONS** BY TWO METHODS THAT SHARE NO CONSTANT. **12-GRAM AGAINST ALL 670 FILES: 0 RUNS OF SIX OR MORE.** THIS BLOCK SUPERSEDES THE BATCH-0001 SPINE BLOCK FOR 661–670 AND DELETES NONE.
+
+## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           off[Apr] = 60, off[May] = 90, off[Jun] = 120
+METHOD B   i = (y-1)*12 + pos[m];  day = 30*i + (d-1);  pos[Apr]=2, pos[May]=3, pos[Jun]=4
+           — CONTAINS NO 360 AT ALL
+NO JANUARY FALLS IN THIS BATCH, so the wrong January convention, which has put chapter 601 at
+2,133 twice in this repository, was neither needed nor used.
+
+ch  date        A        B      interval   operand printed on the page
+661  7 Apr y7   2226    2226       7       2226 - 2219 = 7      (seam, its own column)
+662 14 Apr y7   2233    2233       7       2233 - 2226 = 7      fourteen less seven
+663 21 Apr y7   2240    2240       7       2240 - 2233 = 7      twenty-one less fourteen
+664 28 Apr y7   2247    2247       7       2247 - 2240 = 7      twenty-eight less twenty-one
+665  5 May y7   2254    2254       7       2254 - 2247 = 7      thirty less twenty-eight is two,
+                                                                    two added to five is seven
+666 12 May y7   2261    2261       7       2261 - 2254 = 7      twelve less five
+667 19 May y7   2268    2268       7       2268 - 2261 = 7      nineteen less twelve
+668 26 May y7   2275    2275       7       2275 - 2268 = 7      twenty-six less nineteen
+669  3 Jun y7   2282    2282       7       2282 - 2275 = 7      thirty less twenty-six is four,
+                                                                    four added to three is seven
+670 10 Jun y7   2289    2289       7       2289 - 2282 = 7      ten less three
+
+TEN OF TEN AGREE BY METHOD A AND BY METHOD B. MONOTONIC, 0 VIOLATIONS.
+*** THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF THE TWO METHODS. ***
+THE NINE INTERVALS INSIDE THE BATCH: 7 7 7 7 7 7 7 7 7 = 63
+THE ENDPOINTS:                                  2289 - 2226 = 63      MATCH
+THE SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE: 2226 - 2219 = 7
+```
+
+**AND EVERY OTHER INTERVAL THE FOOTERS PRINT WAS PARSED OFF THE PAGE AND RE-DERIVED IN THIS COMMIT. EIGHTEEN ANCHOR LINES, ZERO MISMATCHES.** The shutter is `2,078` and the nine-November is `2,078` against `1,718`, and the two Novembers are a year apart and both anchors are named on the page wherever either is used:
+
+```
+661  2226 - 2126 = 100 = 3m+10d   661  2226 - 2078 = 148 = 4m+28d
+662  2233 - 2078 = 155 = 5m+5d    662  2233 - 1718 = 515 = 17m+5d
+663  2240 - 2078 = 162 = 5m+12d   663  2240 - 1478 = 762 = 25m+12d   (564, her own last)
+664  2247 - 2078 = 169 = 5m+19d   664  2247 - 2126 = 121 = 4m+1d    (the works form, off the spike)
+665  2254 - 2078 = 176 = 5m+26d   665  2254 - 1718 = 536 = 17m+26d
+666  2261 - 2078 = 183 = 6m+3d    666  2261 - 1718 = 543 = 18m+3d
+667  2268 - 2078 = 190 = 6m+10d   667  2268 - 1718 = 550 = 18m+10d
+668  2275 - 2078 = 197 = 6m+17d   668  2275 - 1718 = 557 = 18m+17d
+669  2282 - 2078 = 204 = 6m+24d   669  2282 - 1718 = 564 = 18m+24d
+670  2289 - 2078 = 211 = 7m+1d    670  2289 - 1718 = 571 = 19m+1d
+670  2289 - (-118) = 2407, +1 = 2408 mornings at the wall end. PRINTED ONCE, AT 670, WITH ITS OPERANDS.
+```
+
+**`411` IS PRINTED NOWHERE IN 661–670.** At 670 the two figures are 211 and 571, each printed with the anchor named, and neither is ambiguous. **THE OFFICE'S MONTHS AND THE WALL'S RATE ARE PRINTED NOWHERE IN 661–670** — `seventy-two months` 0, `nine thousand` 0. **THE LANE'S MORNINGS ARE PRINTED ONCE.** **THE YARD'S FIGURE AGAINST THE COURSE OF DRESSED STONE IS DESCRIBED AND NOT PRINTED**, and the chapter says exactly that. **THE DATE ON THE DOCKET IS READ, REFUSED, AND NOT PRINTED.**
+
+## 0b. FOURTH WALL, MARKS, ACCOUNTS, WEEKDAYS, AGES — ALL RE-RUN ACROSS THE TEN FILES
+
+CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`: **0 primary, 0 widened, 0 extension, across all ten.** **THE FIRST DRAFT OF 665 AND 666 SCORED SEVEN AND ALL SEVEN WERE REPAIRED IN THE CHAPTERS AND NOT IN THE ROW: five were the yard ledger described as *this book* and two were the narrator saying *in this volume*. Both words are in-world and survivable and zero is better.** WEEKNAMES seven names whole-word and stem, `sat` and `sun` excluded as verb and name: **0** — and the first draft had **Thursday** and **Friday** in 664 and 670 and both were repaired in the chapters. AGES eleven probe forms plus a bare `aged` sweep plus spelled-out spans: **0 for a person** — and the first draft had *a man behind it who was about sixty* in 665 and *was about thirty* in 669 and both were cut. MARKS: `right temple` **0 book-wide across 670 files** · `cuticle` **4 files book-wide (329, 340, 404, 446), this batch adds none** · `ostho` **0** · **a hand flat on anything: 0 across the ten, including on a hoarding, a scaffold pole, a counter, a bench and a rail** · Agnete Lindqvist carries **no mark and no age and no number**, and forty-five does not appear in 663 or anywhere in this batch · the boy is not aged · Hanneke Ruis, Perrin Sowe, Dagmar Oyelowo, the woman off Cordwain, Lin Wei, B103 and 34-6-118: **0 in all ten**.
+
+## 0c. THE TWELVE-GRAM INVENTORY, EVERY PAIR CLASSIFIED BY HAND, AND THE FOURTH EDITION OF THE SCAN FOUND TWO MORE CLASSES
+
+**12-GRAM FIRST, AGAINST ALL SIX HUNDRED AND SEVENTY FILES INCLUDING THIS BATCH'S OWN, BODY-ONLY, HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED. THE FIRST EDITION OF THIS BATCH SCORED TWENTY-ONE RUNS OF SIX OR MORE. NINETEEN OF THEM WERE FIXED IN THE CHAPTERS AND NOT IN THE ROW. THE FINAL EDITION SCORES ZERO.** What the nineteen were, because a later reviewer will otherwise spend the finding again:
+
+| It was | What it was | What was done |
+| --- | --- | --- |
+| 663 vs **564**, 88 12-grams in four runs | **Agnete Lindqvist's own last scene, lifted.** A thirty-six-gram sentence about what she told him she wanted next; a nineteen-gram line about twenty years of a yard and four years of nobody; an eleven-gram stage direction for the two fingers on his chest; a seven-gram line about taking him out of her mouth. **A twelve-gram scan did not find these. A hand read §4d did.** | all four rewritten. 663 against 564 is now **1 run of six** at 8-gram and **0 at 12-gram**. |
+| 668 vs **657**, 43 12-grams in three runs | **Emil Brack's furniture lifted**: the ten-to-six beat at the wall end, the slate and the twelve books, and the not-thanked line | all three rewritten in 668 |
+| 666 vs **652**, 36 | the counter under the window described a second time in the same words | rewritten in 666; the three fact-lines that came with it also rewritten |
+| 669 vs **651**, 31 | the front door of that building described a second time | rewritten in 669 |
+| 668 vs 659, 15 · 668 vs 670, 16 · 670 vs 664, 8 · 661 vs 662, 9 | repeats **inside this batch** of the corner's headcount, the paint-and-joint clause, and the lane at ten to six | each rewritten in one of the two chapters that shared it |
+| 662 vs 648, 12 · 664 vs 655, 12 · 669 vs 630, 11 · 668 vs 650, 7 · 669 vs 660, 6 · 666 vs 665, 13 | an institutional fact or a load-bearing description stated in the words it already has | six rewritten; the rest kept and classified below |
+
+**THE CLASSES ARE EIGHT AND NOT FIVE, AND THE CLASSIFICATION IS THE ROW.** The five named in `outline/volume-14.md` §5 are the month-count arithmetic device, the conditions at 644, the room off a third court, the standing page's own description, and Wenna Raut's clause at 637. **The sixth was named at the end of batch 0001 and is an observation about a place carried forward from an earlier chapter in order to show it has not moved (655 against 489, seventeen words).**
+
+**THE SEVENTH CLASS IS A CHARACTER'S OWN SENTENCE, IN THAT CHARACTER'S MOUTH, REPEATED BECAUSE THE STANDING HAS NOT MOVED.** One instance survives at 11-gram and is kept:
+
+| Ch | Against | 11-grams | Class |
+| --- | --- | --- | --- |
+| **668** | **657** | **6** | **CLASS SEVEN — Emil Brack's own sentence, in his mouth, saying for the second time in this book that he has never once been able to check whether any of the nine is true. It is not a lifted line; the whole point of 668 is that his position has not moved since 657 and he says so by saying the same words. He is right about every fact, is not thanked, is not diminished and is not defeated.** |
+
+**AND AT 8-GRAM ELEVEN RUNS OF SIX OR MORE SURVIVE, EVERY ONE CLASSIFIED BY HAND AND NONE OF THEM A LIFTED SENTENCE:**
+
+| Ch | Against | 8-grams | Class |
+| --- | --- | --- | --- |
+| 662 / 663 / 664 | 607 / 608 / 622 / 609 / 655 | 7 · 7 · 8 · 8 · 7 | class one, the month-count arithmetic device, in the house form every chapter of this book opens with |
+| 663 | **546** | 7 | **Agnete Lindqvist's own catchphrase about his spent chest, in her mouth, which she says at 546 and at 564 and now at 663. A woman repeating her own sentence to the same man is characterisation and not a lift.** |
+| 663 | 564 | 6 | *on an ordinary evening and about nine hundred of them in daylight* — rewritten |
+| 663 | 564 | 7 | *where I can see you and you are not going to say anything* — rewritten; **574's furniture is in neither** |
+| 663 | 417 | 6 | *she got her hand between his legs and took hold of him* — coincidence of common words, read and kept |
+| 665 / 669 | 651 | 6 | the standing fact about how many people a week get to the bottom of the sheet — rewritten in one of the two |
+| 666 | 652 / 660 | 7 | the counter under the window described a second time — rewritten |
+| 662 / 664 / 667 / 670 | each other | 6–7 | paint will not hold on dressed stone — **rewritten in three of the four and one canonical wording kept** |
+| 668 | 657 | 10 | class seven, above, seen at 8-gram |
+
+**THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE A BODY WAS PLANNED, NOT AFTER.** Agnete Lindqvist's 546 and 564 stagings are referenced and never restaged: **no room with no door on a street, no lamp bracket, no bench that goes across the boards, no hand put on the arm of a chair, no tin cup on a sill in a shut room, no three glasses of water, no question asked afterwards, no chin on a chest.** 574's furniture is **not** used: no proof turned face down, no upright position against cold glass with heels on a table stretcher, no hand that never leaves between his shoulder blades, no name said twice because she cannot hear the first, **no eleven seconds**. **THE AXIS COLUMN HOLDS: 663 breaks the stand, on the side of some steps in daylight with about four hundred people nine feet off, and the other four axes in this volume are at 653, 673, 683 and 693 and are not this chapter's.** THE SEAM IS HAND-CHECKED: **661 and 670 against 597 and 601, no restage.** THE EXPLICIT PROBE AT WORD BOUNDARY, RE-RUN IN THIS COMMIT: **cunt 1 (663) · cock 1 (663) · semen 0 · tits 0 · pussy 0 · cum 0 · jizz 0 · knob 0 · fanny 0 · arse 0 · licked 0 · sucked 0.** The scene is the product and it is written as physical and unhurried in the register of 584 and 594 and not as implication. No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; no violence anywhere in the chapter; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance.
+
+## 0d. MARKDOWN, GLYPHS, HEADINGS, DUPLICATE PARAGRAPHS — BOTH MEASURES
+
+BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after two batches and four remain, and the standing instruction is that one spent is one too many.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: 0 · book-wide straight double quotes unchanged at **56,016** across **670 files**, curly now **4,791**. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against sixteen title lines book-wide on files this batch did not touch. TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all six hundred and seventy files**, and the ten are 3–12 words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. PARAGRAPHS **581, 0 over roughly ninety words, 0 over one hundred and twenty, 0 odd quotation-mark paragraphs**. **ORPHANED-SPEECH SCAN PER FILE: 0.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62 — AND BOTH ARE 0.** **THE FIRST EDITION OF THE IDENTITY GATE RETURNED ZERO ON A FILE SET IN WHICH FOUR ONE-WORD PARAGRAPHS OF DIALOGUE WERE LITERALLY IDENTICAL, WHICH IS THE `chapter-0653.md` FAILURE AGAIN IN A NEW DRESS. All four were reworded; the Jaccard gate returned them first.**
+
 # VOLUME 14 BATCH 0001 WRITTEN — SPINE 651–660 RE-RUN FROM DISK, 14 OCTOBER 2026. MONOTONIC 0 VIOLATIONS BY TWO METHODS SHARING NO CONSTANT. THIS BLOCK SUPERSEDES PLANNING SPINE FOR 651–660 AND DELETES NONE.
 
 ## Spine re-run with operands, from footers parsed off the page
