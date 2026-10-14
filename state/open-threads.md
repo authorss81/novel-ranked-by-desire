@@ -1,3 +1,97 @@
+# VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK, 20,826 WORDS. MOVEMENT FOUR, *THE NAME*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM DISK IN THE COMMIT THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE ONE THREAD THIS PASS CARRIES, WITH AN OWNER, AND IT IS THE BLANK FIELD
+
+**AT 740 A ROW WENT INTO THE BOUND REGISTER WITH THE DESCRIPTION OF THE PERSON LEFT EMPTY.** A piece of rag paper was received through the front door on the sixteenth of August and was entered as nothing, and it bears nothing whatever, and the instruction of the tenth of June requires every paper received to be entered with a description of the person who brought it in that person's own words, and there were no words. It is the first empty field in that book in nine years and there is no form on which a field may be filled in afterwards, because a row may be added to and may not be taken from. **OWNER: movement five (741–750), and the empty field is the shape the volume's last question will take.**
+
+## CLOSED IN THIS PASS, WITH NO OWNER LEFT
+
+- **THE BACKWARD CHECK.** Run at 731 over nine sheets under a third table. About a third of the copies in circulation carrying any hand of the two words were made before the only copy of those words existed, and the chain runs backwards past the day the only version was ever written in this city. It goes nowhere and covers only the copies brought to that laundry and there is no list of the ones that have not.
+- **THE DEMAND TO ASK THE CLEANER.** Refused in nine words at 735 by Perla Quist, unasked, and nobody thanked him for it, and the office entered the sweep itself as a fact about a stone and about nothing else.
+- **THE MAN WHO LOST HIS CLAIM IN JULY.** The clerk's ordering of the twenty-sixth of July stands and was not touched, and the man wrote a day on his own paper at his own table and was told in about four seconds that he had improved the paper and not the claim.
+- **THE HOUR AT THE RAIL.** The thirty-first sheet is gone and does not come back.
+
+## OPEN AND HANDED TO MOVEMENT FIVE
+
+| Thread | Where it stands after 740 | Whose |
+| --- | --- | --- |
+| **THE BLANK FIELD** | In the Register with the date and the hour and nothing whatever against the hour and nothing whatever in the description | 741, 742, 750 |
+| **THE TWO RECORDS** | Nine sheets under a third table and a grey cloth book in a pigeonhole; neither an instrument; he is the only person who knows both; he is not going up that stair again | 744, 745, 747 |
+| **THE DENIAL** | On the page, out, read to the bottom about nine times a week; it has made a corner's belief unassertable and has answered nobody | 749, 750 |
+| **THE FOURTH LINE IN THE SECOND COLUMN** | Three lines at 731, 732, 734, 736 and 737; nothing in it anywhere in this batch | **746, and it is the volume's decision** |
+| **THE DRAWER** | Opened once, for about four hours, on the fourteenth; shut at half past three; can never be opened again by anybody | 742 |
+| **THE EMPTY SHEET** | One of about four hundred and nine, read twice, never explainable, and its holder is not traced and is not asked about | 742, 750 |
+| **THE WOMAN WHO CANNOT READ** | Not named, not traced, nobody sent, nothing asked, in this batch as in the last | 742, 750 |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | Neither named nor asked; the temptation refused at 735; the sweep itself is now a row that describes her by her broom | — |
+| **THE BOY** | Asked once in July by somebody who is not Lin Hao; nobody asked him anything in this batch; the seventy-sixth form went up and came down | 750 |
+| **THE TWO WORDS ON THE STONE** | Not printed anywhere in this batch and never asserted the same as anything | 750 |
+| **THE SCENE CADENCE** | 703, 713, 723, 733 spent. Next is 743, Nadia Ferrous, three hundred and twenty-six chapters after her own | 743 |
+| **THE BUNDLE** | Twenty-five things on the table, the last never opened by anybody, and nobody obliged to open one item | **741 is where it becomes twenty-six** |
+
+---
+
+## THE LIVE GATE, VOLUME-WIDE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES           740 chapter files on disk. Volume 15 holds 701-740 and 740 is the last written page.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 740 FILES.
+                 Title lines checked separately from bodies: 0 non-ASCII, 0 straight double
+                 quotes, all 740 pure ASCII, proved over every file and not over the ten.
+BANK            Volume 15 so far is 20,826 words in this batch, 19,436 in batch 0003, 22,788 in
+                 batch 0002 and 22,377 in batch 0001, and the four sum to 85,427, counted per
+                 file and summed from disk:
+                 1,939 2,044 3,352 1,955 1,970 1,925 1,977 1,914 1,932 1,818 = 20,826.
+                 The counter was proved first on chapters/volume-14/chapter-0700.md, a file this
+                 pass did not write, which returns 2,013 by `wc -w` and by a Python whitespace
+                 split. THE BANK WAS RE-COUNTED AFTER THE LAST EDIT, NOT ONCE AT THE END.
+SPINE           Volume 15, 2,520 -> 2,780 across four batches, monotonic at 0 violations by
+                 METHOD A and METHOD B, proved by the SUM against the endpoints each time:
+                 batch 0001 `7 7 6 7 6 7 6 7 6 = 59`, batch 0002 `7 7 7 7 7 7 7 7 7 = 63`,
+                 batch 0003 `7 6 7 6 7 6 7 6 7 = 59`, this batch `6 6 6 6 6 7 7 7 7 = 58`.
+                 Each seam (31 at 700/701, 7 at 710/711, 7 at 720/721, 7 at 730/731) is printed
+                 in its own column and is not one of the nine of its own row.
+FOOTER ROW      40 intervals in 731-740 parsed off the pages and re-derived from day numbers:
+                 40 parsed, 40 re-derived, 0 mismatches, 0 unparsed, 0 anchor-date mismatches.
+                 THE READER WAS PROVED FIRST ON 721-730, WHERE IT RETURNS 40 PARSED AND 0
+                 MISMATCHES, THE FIGURE THE RECORD ALREADY HOLDS, AFTER BEING WRONG SIX TIMES.
+                 20 printed month breakdowns against n x 30 + m: 20 found, 20 re-derived, 20
+                 correct. A ROW THAT REPORTS A PASS IS NOT A CHECK: run on 711-720 as a control
+                 the same reader returns 44 parsed and 0 mismatches, not the 34 the batch-0002
+                 block records, and the discrepancy is recorded and not repaired.
+THE REGISTER    419 before a clerk's hand, 11 since the thirtieth of March (419 + 11 = 430),
+                 409 in the two boxes, and from 740 one row with an empty description. The
+                 objects are not merged anywhere in 731-740 and no new total is printed without
+                 its scope.
+THE HEAD        852, unmoved since 1,499. FIFTEEN SHEETS at 737 (31-16) and FOURTEEN QUARTERS
+                 ((2,759-1,499)/90 = 14 exactly). Both named in words in 737. 737 is a
+                 quarter-end and the thirty-first sheet.
+THE SECOND COLUMN  THREE LINES at 731, 732, 734, 736 and 737, AND NOTHING GOES IN IT IN ANY
+                 CHAPTER OF 731-740.
+SETTLE          zero in every inflection across all 740 files.
+SPENT FIGURES   the office's months once, at 701 — the shutter's interval once, at 710 — the
+                 lane's mornings ONCE at 720 — the wall's rate ONCE at 738, with its reason —
+                 the docket's date 0, read aloud at 712 and printed nowhere — the two words on
+                 the stone 0 — `411` 0 — `771` 0.
+INVENTED-FIGURES SENTENCE  zero verbatim and zero Tier 3 across 701-740, in any chapter and in
+                 any footer. Spent at 658 and it stays spent for the rest of the book.
+SCENES          Volume 15 has spent FOUR of its five. 703 at 3,873, 713 at 4,692, 723 at 2,689
+                 and 733 at 3,352, with line spans beside every cell, all at word boundary.
+                 743 remains.
+PANELS          0 of Volume 15's five spent, across all four batches.
+```
+
+## THE FOUR FAILURES OF THIS REPOSITORY, AND WHAT THIS BATCH DID ABOUT EACH ONE
+
+1. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.** The rail count in the previous batch's footers re-derives as `day − 2,669` and 729 and 730 each print one more than that. Found by re-deriving my own ten against the same rule, not repaired, recorded, and the next pass owns it.
+2. **A SCANNER THAT RETURNS ZERO ON A BOOK THAT HAS HITS IN IT IS BROKEN, NOT CLEAN.** The interval reader returned zero on files full of intervals on six separate attempts before it worked; the gram reader was proved on chapter-0564 before it was run on anything of mine; the word counter was proved on chapter-0700 before it was run on anything of mine.
+3. **A ROW THAT REPORTS A PASS IS NOT A CHECK.** `settl` was written into 733 and the row caught it. `this book` and `this page` were written seven times and the row caught all seven. "Friday" was written into 735 and the row caught it. A hand flat was written into 733 twice and into 736 once and the row caught all three.
+4. **A CLOSING BEAT USED IN SEVEN OF TEN CHAPTERS IS NOT HOUSE STYLE.** The previous batch closed eight chapters on the end-of-shift beat. This batch's endings are on: a denial that does not reach a kitchen · two hands that cannot be shown to each other · two records and a stair he is not going up again · a broom at seven in the morning · an answer given to a counter · a page that does not come back · about nine people who can no longer assert what they believed · a drawer that can never be opened again · and a blank in the middle of a line in a clerk's hand.
+
+## NOT HANDED FORWARD AND NOT OPEN
+
+**NOTHING IN THIS PASS CREATES A NEW PHASE BESIDES THE ONE NAMED AT THE HEAD. `outline/batches/volume-15-batch-0005.md` IS THE ONE NEXT PHASE, FOR CHAPTERS 741–750, MOVEMENT FIVE, *THE SUBJECT*, AND IT IS THE ONLY DIRECTORY THIS PASS WROTE. NO VOLUME-CLOSE PROMPT. NO BATCH 0006. `state/complete.md` IS NOT CREATED AND THE SERIES IS PLANNED PAST 740. `outline/ending.md` IS UNTOUCHED AND NO NEW FINAL ENEMY WAS INTRODUCED.**
+
+---
 # VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, 19,436 WORDS. MOVEMENT THREE, *THE COINCIDENCE*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS THE DENIAL

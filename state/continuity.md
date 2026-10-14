@@ -1,3 +1,71 @@
+# VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK. **§0a-vol15-b4 BELOW IS THE FILE'S LIVE BLOCK FOR 731–740 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b4. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE SIX CLASSES, RE-DERIVED ON THE PAGE
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + 30*pos[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, CONTAINS NO 360 AT ALL
+           pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4 pos[Jul]=5 pos[Aug]=6
+           pos[Sep]=7 pos[Oct]=8 pos[Nov]=9 pos[Dec]=10   PRINTED HERE, USED HERE, ZERO INDEXED
+
+731 23 Aug, y8  A=7x360+180+22 = 2722   B=30*(7*12+6)+22  = 2722   agree
+732 29 Aug, y8  A=7x360+180+28 = 2728   B=30*(7*12+6)+28  = 2728   agree
+733  5 Sep, y8  A=7x360+210+4  = 2734   B=30*(7*12+7)+4   = 2734   agree
+734 11 Sep, y8  A=7x360+210+10 = 2740   B=30*(7*12+7)+10  = 2740   agree
+735 17 Sep, y8  A=7x360+210+16 = 2746   B=30*(7*12+7)+16  = 2746   agree
+736 23 Sep, y8  A=7x360+210+22 = 2752   B=30*(7*12+7)+22  = 2752   agree
+737 30 Sep, y8  A=7x360+210+29 = 2759   B=30*(7*12+7)+29  = 2759   agree   QUARTER-END, 31st sheet
+738  7 Oct, y8  A=7x360+240+6  = 2766   B=30*(7*12+8)+6   = 2766   agree   the 76th form, WALL RATE
+739 14 Oct, y8  A=7x360+240+13 = 2773   B=30*(7*12+8)+13  = 2773   agree   THE DRAWER OPENS
+740 21 Oct, y8  A=7x360+240+20 = 2780   B=30*(7*12+8)+20  = 2780   agree
+
+MONOTONIC  0 violations over the ten by METHOD A and by METHOD B
+THE PROOF IS THE SUM AND NOT THE AGREEMENT
+  6 6 6 6 6 7 7 7 7 = 58     and  2780 - 2722 = 58
+  THE SEAM  2722 - 2715 = 7   is printed in its own column and is not one of the nine
+EVERY ONE OF THE NINE, READ AGAINST ITS OWN DATE, ONE AT A TIME: all nine correct
+  the first term of this row is a SIX and the ninth is a SEVEN, which is the opposite end
+  of the row from Volume 14's, and it is not a typo and must not be smoothed to seven.
+THE EIGHTH AND THE TENTH OF THIS MONTH ARE 2,767 AND 2,769 AND BOTH FALL BETWEEN 738 AND
+  739. NOT ONE CHAPTER OF 731-740 NAMES EITHER, LANDS ON EITHER OR REACHES ACROSS THE GAP.
+  738 measures forward to the thirtieth of the month and says so. 739 says the fourteenth.
+FOOTER INTERVALS  40 parsed off the pages, 40 re-derived from day numbers, 0 mismatches,
+  0 unparsed, 0 anchor-date mismatches. THE READER WAS PROVED ON 721-730 (40/0) FIRST.
+  RUN AS A CONTROL ON 711-720 IT RETURNS 44 PARSED AND 0 MISMATCHES, NOT THE 34 ON RECORD.
+MONTH BREAKDOWNS  20 printed, 20 re-derived against n x 30 + m, 20 correct, 0 wrong.
+THE RAIL COUNT     `the thirtieth sheet has been face up on that rail for every one of the
+  last N of them` RE-DERIVES AS `chapter day - 2,669`, counting the day after it went up.
+  727 and 728 conform. *** 729 AND 730 EACH PRINT ONE MORE THAN THE RULE AND ARE NOT THIS
+  PHASE'S TO REPAIR; THE REPAIR IS NAMED AND OWNED BY THE NEXT PASS. ***  This batch's
+  feet: 53 · 59 · 65 · 71 · 77 · 83 · 90, and from the thirty-first at 737, 7 · 14 · 21.
+```
+
+## 0b-vol15-b4. THE FOURTH WALL, AND THE STAGING OF THE SCENE AT 733 AGAINST §4d
+
+**THE CLASS GREP CARRIES `manuscript` AND `opposition` AND `[0-9]+ chapters` AND `this batch` AND `a chapter that` AND `this pass` AND `in this volume` AND `this page`, ACROSS ALL TEN AND ACROSS THE WHOLE VOLUME, AND IT IS AT ZERO.** Seven hits were found and cut on the page: five used *this book* for a bound Register and two used *this page* for a quarterly sheet. **A GATE ROW THAT QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE, AND THE SAME SENTENCE APPLIES TO A BOUND LEDGER IN A FICTION.**
+
+**733's STAGING, READ AGAINST §4d AND §0b BEFORE THE BODY WAS WRITTEN AND RE-CHECKED AFTER IT WAS.** A room over a counters hall in a division building. Pigeonholes to the ceiling on both sides with cloth-covered day books and a brass tag punched with the month. A long deal bench with a four-inch scar from a lamp knocked over in the winter before last. Wooden steps on a rail against the left-hand pigeonholes. A pendant lamp on a flex a foot above the bench. A window with a grating across the lower half, painted the colour the frames are painted. A folded dust sheet. An oak stamp case. An enamel basin under a pipe. **A STAIR OF ONE FLIGHT, AND THE TEXT SAYS SO OUT LOUD.**
+
+**NOT 713's returns desk, wire rack, printed day book, satchel, bracket lamp, door-thing or two flights, on the nine pairs the volume already owns — and NOT 633's returns desk, tray, stamp pad, ledger, lamp over the desk or two stools, one of them with a short leg.** Measured on the finished file: `wire rack` 0 · `satchel` 0 · `bracket` 0 · `stamp pad` 0 · `two stools` 0 · `two flights` 0 · `returns desk` 0. **THE AXIS IS THE DAY BOOK AND IT IS CARRIED BY A RULE OF THE ROOM THAT NOBODY NAMES: a desk takes one question of a thing and only one, a question returned into a day book is not a return and goes to no magistrate, and a day book is opened at the first and is not a record. NAME IT AND IT IS A DEFECT.**
+
+**HER MARKS ARE THE TWO NAILS OF HER LEFT HAND AND NOTHING ELSE. THE YELLOW WAS NOT USED AND MAY BE USED ONCE BY SOMEBODY, LATER.**
+
+## 0c-vol15-b4. THE SIX CLASSES OF REPEATED LANGUAGE, AND WHAT THIS BATCH ADDED AND WHAT IT CUT
+
+1. **House arithmetic frame** — the opening line and the `less two thousand` footers. The bulk of every scan. Permitted.
+2. **Standing descriptions of furniture and paper the book repeats by design** — the two cardboard boxes on the boards under the window with about four hundred and nine pieces of rag paper in them (22 tokens at 739), the table under the window with the head at the top of it and three lines in the second column, the drawer in the wall on the left.
+3. **The office's own instruments quoted as instruments** — *there is no form on which this office may put a question to a person about a thing somebody else has written down* (21 tokens), *a row may be added to and may not be taken from*, *a page that goes out four times a year does not come back*, *a denial with a name under it is an entry that has to sit straight*, *with a date against it and an hour against the date and nothing whatever against the hour*.
+4. **A character's own stock formula in her own mouth** — *a thing somebody can ask about is a thing somebody can be asked to stop* (Perla Quist), *a desk takes one question of a thing and only one* (Wren Kallo), *a claim with a day on it beats a claim without one* (the clerk), *she keeps days and a day without its hour is not a day she can hold*.
+5. **Counts held apart by rule: pieces of paper, claims, people.** **740 IS THE TRAP AND IT IS HANDLED ON THE PAGE: about four hundred and nine is a count of pieces of rag paper, 419 is a count of accounts, 11 is a count of papers that came through a door in eight days, 430 is the first of those two added together, and 741's twenty-six is a count of things in a bundle. NONE OF THE FIVE IS A COUNT OF PEOPLE AND NONE IS A COUNT OF CLAIMS, AND 740 SAYS FOUR NUMBERS AND NAMES EVERY ONE.**
+6. **A guild or standing rule carried by the room and named by nobody** — the third-party rule at 723 is shared with 474/622/659; **the day-book rule at 733 is the same shape and is permitted for the same reason.**
+
+**AND A SEVENTH CLASS, WHICH DID NOT EXIST BEFORE THIS BATCH AND WHICH NO LATER PASS MAY RE-IMPORT AS A LIFT: THE RAIL COUNT AS AN OPENING LINE. Seven of the ten chapters of 701–730 ended on *he did the floors and at about half past five he stood at the table and looked at the Register*; that beat appears in none of 701–717. THIS BATCH HAS NINE CLOSING BEATS AND NOT ONE OF THEM IS THAT ONE, AND THE CLOSING BEATS OF 731–740 ARE: a denial that does not reach a kitchen · two hands that cannot be shown to each other · a stair he is not going up again · a broom at seven in the morning and nobody may ask · an answer given to a counter and written down · a sheet that does not come back · about nine people who can no longer assert what they believed · a drawer that can never be opened again · a blank in the middle of a line in a clerk's hand.**
+
+**AND WHAT THIS BATCH CUT ON ITSELF, ON THE RULE THAT A PAIR SHARING A RUNNING FACT OUTSIDE THE THREE PERMITTED CLASSES IS A DEFECT AT ANY LENGTH AND IS CUT ONCE, IN THE LATER CHAPTER:** 735's restatement of 731's third-of-the-copies sentence · the floors of three washrooms, which stood in 732, 734 and 735 and now stand in none · the only-finding-this-office-has-ever-passed clause, which stood in 732 and 735 and now stands in one · 738's opening, which was a near-copy of 711's and 724's board description and was rewritten onto its own material. **346 RAW OVERLAPPING 12-GRAM STARTS FELL TO 220 AND THE LONGEST RUN TOUCHING THE BATCH FELL FROM 23 TOKENS TO 22.**
+
+---
+
 # VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK. **§0a-vol15-b3 BELOW IS THE FILE'S LIVE BLOCK FOR 721–730 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b3. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE CLASSES INHERITED FORWARD
