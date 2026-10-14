@@ -50,7 +50,7 @@ And it would also have been the answer of a man in a uniform coat speaking in th
 
 The clerk wrote nothing and inclined his head about half an inch.
 
-“Ninety pieces of pencil paper came into that building since the thirtieth of March,” said Lin Hao. “Every one of them is a copy of the foot of a printed page with something written under the four sentences in a pencil by whoever made it. Between nine hundred and four hundred people in this city can read them. Nobody made them on the office’s account, nobody sent them, and nobody has ever been asked to make one.”
+“Ninety pieces of pencil paper came into that building since the thirtieth of March,” said Lin Hao. “Every one of them is a copy of the foot of a printed page with something written under the four sentences in a pencil by whoever made it. About nine hundred people in this city can read them. Nobody made them on the office’s account, nobody sent them, and nobody has ever been asked to make one.”
 
 “That is a claim about persons.”
 
@@ -94,7 +94,7 @@ He thought about it on the stair and he got it wrong twice on the way up and rig
 
 Right was this.
 
-A woman who cannot read has carried the same sheet to the same table in a laundry for fourteen weeks, and her own pencil is across the bottom of it, and she paid for that pencil herself out of what she had. She has asked a woman with a pencil whether it is right. The woman with a pencil cannot tell her. And a man in a rank-one plate has told a magistrate’s clerk that this office cannot do one single thing with any of it.
+A woman who cannot read has carried the same sheet to the same table in a laundry for six months and eleven days, and her own pencil is across the bottom of it, and she paid for that pencil herself out of what she had. She has asked a woman with a pencil whether it is right. The woman with a pencil cannot tell her. And a man in a rank-one plate has told a magistrate’s clerk that this office cannot do one single thing with any of it.
 
 That is the cost of the morning, and it was not the cost he had gone in expecting.
 

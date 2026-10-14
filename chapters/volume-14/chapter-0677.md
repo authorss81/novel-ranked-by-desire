@@ -106,7 +106,7 @@ The rain had stopped by two. The lower half of the writing was dry by half past 
 
 *Less the thirtieth of December of the sixth year, two thousand one hundred and twenty-nine, is two hundred and six days, which is six months with twenty-six days after them, and the twenty-fourth sheet went up on a rail at four that afternoon and about nine hundred people could read every word of it, and about four hundred of them have the foot of it in pencil in a pocket.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and seventeen days, which is twenty months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and this afternoon a man about seventy wrote it on a wall in chalk, wrong, and a stranger put a thumb on it, and it is correct, and neither of them can read it twice.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and seventeen days, which is twenty months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and this afternoon a man who was not young wrote it on a wall in chalk, wrong, and a stranger put a thumb on it, and it is correct, and neither of them can read it twice.*
 
 ## The Corner Is Not A Place To Put Anything On
 

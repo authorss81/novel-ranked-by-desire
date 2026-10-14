@@ -16,7 +16,7 @@ It was a demand. A tenancy, a sum, a period of about nine months, and the sum wa
 
 And at the top of it, above the landlord’s own heading, there was a sheet of paper.
 
-The whole of it, nothing cut off and nothing written on. A figure at the top that has not moved in ten quarters. Under it a long column of accounts, every one of them dated and timed and carrying no sum at all. Then a narrow column with two entries in it. Then four lines of sentences at the bottom, and under those six more with the middle one struck clean out, a name written under the stroke, and a band of blank paper about the depth of two fingers.
+The whole of it, nothing cut off and nothing written on. A figure at the top that has not moved in nine quarters. Under it a long column of accounts, every one of them dated and timed and carrying no sum at all. Then a narrow column with two entries in it. Then four lines of sentences at the bottom, and under those six more with the middle one struck clean out, a name written under the stroke, and a band of blank paper about the depth of two fingers.
 
 Nobody had cut a strip off it and pasted it in. Nobody had copied it out in pencil. It was the sheet itself, and it was at the top of a demand in front of a magistrate, and it was there because the address at the head of every line the office prints is a building off a third court.
 

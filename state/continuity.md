@@ -1,3 +1,135 @@
+# VOLUME 14 BATCH 0003 RE-DISPATCHED A FOURTH TIME 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **THE FINDING IS A CLASS AND NOT A CHAPTER: THREE CHAPTERS PRINTED THE HOUSE'S FILLER NUMERAL WHERE A DERIVED INTERVAL BELONGED, AND ONE PRINTED A QUARTER-COUNT THAT WAS A GUESS AT THE ROW ABOVE IT. ALL FOUR ARE REPAIRED IN THE CHAPTERS, ALONG WITH AN INCOHERENT SENTENCE, AN ANNOUNCED AGE IN A FOOTER, AND THE SAME CLAUSE HUNG ON THE SAME ANCHOR IN SIX OF TEN FOOTERS. EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT.** **12-GRAM AGAINST ALL 700 FILES: 6 MAXIMAL RUNS TOUCHING 671–680, THE SAME SIX THE PREVIOUS PASS CLASSIFIED, NONE A LIFTED SENTENCE.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
+
+## 0a. THE SPINE, RE-RUN FROM DISK IN THIS COMMIT, WITH ITS OPERANDS PRINTED
+
+```
+day 0 = 1 February, year one.  A month is thirty days and there is no thirty-first.
+METHOD A   (y-1) x 360 + off[month] + (d-1)      off Jun 120, Jul 150, Aug 180
+METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Jun 4, Jul 5, Aug 6  — contains no 360
+
+  ch  date         METHOD A                  METHOD B
+  671  17 Jun y7    6x360 + 120 + 16  = 2296    30 x 76 + 16  = 2296
+  672  24 Jun y7    6x360 + 120 + 23  = 2303    30 x 76 + 23  = 2303
+  673  30 Jun y7    6x360 + 120 + 29  = 2309    30 x 76 + 29  = 2309   QUARTER-END, twenty-sixth sheet, SCENE
+  674   7 Jul y7    6x360 + 150 +  6  = 2316    30 x 77 +  6  = 2316
+  675  13 Jul y7    6x360 + 150 + 12  = 2322    30 x 77 + 12  = 2322
+  676  20 Jul y7    6x360 + 150 + 19  = 2329    30 x 77 + 19  = 2329
+  677  26 Jul y7    6x360 + 150 + 25  = 2335    30 x 77 + 25  = 2335
+  678   3 Aug y7    6x360 + 180 +  2  = 2342    30 x 78 +  2  = 2342
+  679   9 Aug y7    6x360 + 180 +  8  = 2348    30 x 78 +  8  = 2348
+  680  16 Aug y7    6x360 + 180 + 15  = 2355    30 x 78 + 15  = 2355
+
+  monotonic violations, METHOD A and METHOD B, both .................. 0
+  the NINE inside the batch ....................................... 7 6 7 6 7 6 7 6 7
+  *** THE PROOF IS THE SUM: 7+6+7+6+7+6+7+6+7 = 59  AND  2355 - 2296 = 59.  MATCH. ***
+  the SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE ............... 2296 - 2289 = 7
+```
+
+**EVERY TERM WAS ALSO READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME, BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER, AND THAT IS EXACTLY THE FAILURE BATCH 0004'S PROMPT COMMITTED.** `671→672 2303−2296 = 7 · 672→673 2309−2303 = 6 · 673→674 2316−2309 = 7 · 674→675 2322−2316 = 6 · 675→676 2329−2322 = 7 · 676→677 2335−2329 = 6 · 677→678 2342−2335 = 7 · 678→679 2348−2342 = 6 · 679→680 2355−2348 = 7`. **ALL NINE CORRECT, AND ALL NINE DIFFERENT FROM THE ONE BEFORE.**
+
+**`outline/volume-14.md` §5c's row `7 6 7 6 7 6 7 6 7 = 59` IS CORRECT AGAINST THE PAGE AND NEEDS NO CORRECTION. THE PHASE PROMPT'S OWN ROW WAS NOT, FOR THE THIRD TIME IT HAS BEEN RE-DISPATCHED.** The prompt gives `7 7 6 7 6 7 6 7 6 7 = 65` and `2,355 − 2,296 = 65`. **The list has ten terms for a nine-term batch because the seam was prepended to the nine, it sums to 66, and the endpoints differ by 59.** Its own per-chapter table is correct; its own summary of that table is not. §5c, written before the chapters, is the row that survives.
+
+## 0a-bis. EVERY FOOTER INTERVAL IN 671–680, PARSED OFF THE PAGE AND RE-DERIVED, 17 OF 17
+
+**Every italic line in the ten files was parsed by command, the anchor and the day-count and the month-count were extracted from the prose itself, and each was re-subtracted from the chapter's own spine day and checked against the anchor by both methods. NOT CARRIED FROM ANY EARLIER ROW. 17 INTERVALS PARSED, 17 RECOVERED BY MATCHING THE HOUSE'S SPELLED-OUT FORM, 0 MISMATCHES.**
+
+| Ch | Anchor as printed | A | B | Printed | Computed | Months |
+| --- | --- | --- | --- | --- | --- | --- |
+| 671 | thirtieth September, year six | 2,039 | 2,039 | 257 | 2,296 − 2,039 = **257** | 8 × 30 + 17 = **257** |
+| 671 | ninth November, year five | 1,718 | 1,718 | 578 | 2,296 − 1,718 = **578** | 19 × 30 + 8 = **578** |
+| 672 | first March, year two | 390 | 390 | 1,913 | 2,303 − 390 = **1,913** | 63 × 30 + 23 = **1,913** |
+| 672 | ninth November, year five | 1,718 | 1,718 | 585 | 2,303 − 1,718 = **585** | 19 × 30 + 15 = **585** |
+| 673 | thirtieth March, year seven | 2,219 | 2,219 | 90 | 2,309 − 2,219 = **90** | 3 × 30 = **90**, exactly |
+| 673 | second January, year five | 1,411 | 1,411 | 898 | 2,309 − 1,411 = **898** | 29 × 30 + 28 = **898** |
+| 674 | thirtieth March, year seven | 2,219 | 2,219 | 97 | 2,316 − 2,219 = **97** | 3 × 30 + 7 = **97** |
+| 674 | ninth November, year five | 1,718 | 1,718 | 598 | 2,316 − 1,718 = **598** | 19 × 30 + 28 = **598** |
+| 675 | ninth November, year five | 1,718 | 1,718 | 604 | 2,322 − 1,718 = **604** | 20 × 30 + 4 = **604** |
+| 676 | thirtieth March, year seven | 2,219 | 2,219 | 110 | 2,329 − 2,219 = **110** | 3 × 30 + 20 = **110** |
+| 676 | twenty-seventh December, year six | 2,126 | 2,126 | 203 | 2,329 − 2,126 = **203** | 6 × 30 + 23 = **203** |
+| 677 | thirtieth December, year six | 2,129 | 2,129 | 206 | 2,335 − 2,129 = **206** | 6 × 30 + 26 = **206** |
+| 677 | ninth November, year five | 1,718 | 1,718 | 617 | 2,335 − 1,718 = **617** | 20 × 30 + 17 = **617** |
+| 678 | ninth November, year six | 2,078 | 2,078 | 264 | 2,342 − 2,078 = **264** | 8 × 30 + 24 = **264** |
+| 679 | ninth November, year five | 1,718 | 1,718 | 630 | 2,348 − 1,718 = **630** | 21 × 30 = **630**, exactly |
+| 679 | thirtieth September, year six | 2,039 | 2,039 | 309 | 2,348 − 2,039 = **309** | 10 × 30 + 9 = **309** |
+| 680 | ninth November, year six | 2,078 | 2,078 | 277 | 2,355 − 2,078 = **277** | 9 × 30 + 7 = **277** |
+| 680 | ninth November, year five | 1,718 | 1,718 | 637 | 2,355 − 1,718 = **637** | 21 × 30 + 7 = **637** |
+
+**`2,355 − 2,078 = 277` AND `2,355 − 1,718 = 637` AT 680. NEITHER IS 411, `411` IS PRINTED ZERO TIMES ACROSS ALL TEN FILES, AND 680 NAMES BOTH ANCHORS ON THE PAGE, which is what the rule requires of a chapter that prints the figure.**
+
+## 0a-ter. THE THREE INTERVALS THAT WERE WRONG ON THE PAGE, AND THE ONE QUARTER-COUNT, WITH EVERY OPERAND PRINTED
+
+**A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG. THIS TIME IT WAS NOT A DAY-NUMBER ANCHOR. IT WAS THE HOUSE'S FILLER NUMERAL, AND `ELEVEN` IS ONE IN THIS BOOK THE WAY `NINE` AND `FORTY` ARE.**
+
+```
+THE NINTH OF JANUARY OF YEAR SEVEN
+  METHOD A, the January rule of §5a   (7-2) x 360 + 330 + 8  = 1,800 + 338 = 2,138
+  METHOD B, no 360 anywhere in it     30 x ((7-2)x12 + 11) + 8 = 30 x 47 + 8 = 2,138
+  AGREE.  The only anchor in this batch with no month named in the prose at all.
+
+671, the seventeenth of June, spine day 2,296
+  2,296 - 2,138 = 158 = 5 x 30 + 8   -> five months with eight days
+  five months on from the ninth of January is the ninth of June, and eight days on is
+  THE SEVENTEENTH OF JUNE, WHICH IS THE DAY THE CHAPTER IS SET.   PRINTED: eleven weeks.
+
+676, the twentieth of July, spine day 2,329
+  2,329 - 2,138 = 191 = 6 x 30 + 11  -> six months with eleven days
+  six months on from the ninth of January is the ninth of July, and eleven days on is
+  THE TWENTIETH OF JULY, WHICH IS THE DAY THE CHAPTER IS SET.    PRINTED: fourteen weeks.
+
+680, the sixteenth of August, spine day 2,355
+  2,355 - 2,138 = 217                PRINTED: "in eleven weeks", with NO anchor on it,
+  so there was nothing on the page for a reader to check it against. Anchored in the chapter.
+
+THE HEAD, AND THE QUARTER-COUNT AT 675
+  the head has stood at 852 since the thirtieth of March of the fifth year:
+  (5-1) x 360 + 30 + 29 = 1,440 + 59 = 1,499        (METHOD B: 30 x 47 + 29 = 1,499)
+  660: 2,219 - 1,499 = 720 = 8 x 90  -> EIGHT quarters, and chapter-0660.md:31 prints
+        "The head has not moved in eight quarters" and is the house's own idiom for this row.
+  673: 2,309 - 1,499 = 810 = 9 x 90  -> NINE quarters, exactly.
+  675: 2,322 - 1,499 = 823           -> the quarter-ends passed are 1,589 . 1,679 . 1,769 .
+        1,859 . 1,949 . 2,039 . 2,129 . 2,219 . 2,309 = NINE.  PRINTED: ten quarters.
+  TEN WAS A GUESS AT THE ROW ABOVE IT, AND THE ROW ABOVE IT IS 673's, WHICH IS NINE.
+```
+
+**A GUESS AND A DERIVED FIGURE LOOK IDENTICAL ON THE PAGE UNTIL SOMEBODY SUBTRACTS, AND THE ONLY REASON 660's EIGHT AND 673's NINE WERE RIGHT IS THAT SOMEBODY DID, TWENTY AND THIRTY CHAPTERS AGO RESPECTIVELY.**
+
+## 0b. THE FOURTH WALL, THE CLASS GREPS, THE HOUSE-FORM GLYPHS AND THE MEASUREMENT ROWS — EVERY ROW A MEASUREMENT, EVERY ONE RE-RUN AFTER THE REPAIRS
+
+CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`: **0 PRIMARY, 0 WIDENED, 0 EXTENSION, across all ten, run after every repair.** The two words in that class that have been missed before — *manuscript* and *opposition* — are in the pattern and were run and returned nothing. **No chapter of this batch was rewritten for this row, because nothing in this batch was broken on it.**
+
+WEEKNAMES seven names, whole-word and stem, with `sat` and `sun` excluded as the verb and the name and the three-letter forms not used because `mon` is a prefix of *month*: **0 NAMES.** The probe returns `sat` **8** times — 673:107, 673:113, 673:143, 674:27, 674:85, 675:91, 680:47, 680:89 — and every one of the eight is the verb, in *He sat down*, *took her mouth off him and sat down beside him*, *they sat down on the landing together*, *The counting house sat over a shop*, *He sat down, because he had been on four nights of the rota*, *Then she sat down again, because somebody touched the chair*, *came and sat down at the third one*, and *sat down on the second and the third*. Classified as the verb in all eight. `sun` returns 0. **THE REPAIRS ADDED NO WEEKDAY AND REMOVED NONE; AND NOTE THAT REPAIR 3 ABOVE IS A REPAIR TO A *WEEK-COUNT*, WHICH IS NOT A WEEKDAY, AND THE TWO ROWS MUST NOT BE CONFUSED.**
+
+AGES eleven probe forms plus a bare `aged` sweep plus spelled-out spans: **0 FOR A PERSON.** The sweep returns the house's *about nine* / *about forty* / *about ninety pieces* / *about thirty feet* idiom in sixteen paragraphs and every one of them is a count of people, papers or feet. **THE ONE REAL HIT WAS `a man about seventy` AT `chapter-0677.md`:109, IN AN ITALIC FOOTER, WHERE THE SAME CHAPTER HAD ESTABLISHED HIM FOUR INCHES EARLIER AS `He was not young`, AND IT IS REPAIRED. A FOOTER IS PROSE ON A PAGE.** Hanneke Ruis has no age and is given none. Perla Quist is not that number again in prose. The boy is not aged.
+
+MARKDOWN blockquotes 0 · tables 0 · rules 0 · fences 0 · bold 0 · single-asterisk emphasis markers only on the italic footers · **system panels 0 against Volume 14's budget of five, so three remain and the standing instruction that one spent is one too many holds.** A hand flat on anything: **0 across all ten**, including on a table, a hoarding, a scaffold pole, a kerb, a counter, a shelf and a wall.
+
+RT / BODIES `right temple` **0 across all 700 files** · `cuticle` **4 files book-wide, unchanged, none of them mine** · `ostho` **0**.
+
+ACCOUNT 8,1xx 0 · two hundred and eleven thousand 0 · `settl` **0 in every inflection across all ten**. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+
+HEADINGS one `# ` per file, all ten, duplicate title lines across **all 700 files 0**. **THE TEN TITLE LINES WERE CHECKED FOR STRAIGHT GLYPHS SEPARATELY FROM THEIR BODIES: 0 straight double quotes, 0 straight apostrophes, 0 curly glyphs in any of the ten title lines, and the ten bodies carry 776 curly and 0 straight.** 52 `## ` headings across the ten, none duplicated inside a file, none duplicated across the ten.
+
+PARAGRAPHS **645 paragraphs, 0 over roughly ninety words, 0 over one hundred and twenty, 0 with an odd count of quotation glyphs**, measured after the repairs. Re-measured, not carried.
+
+## 0c. THE TWELVE-GRAM INVENTORY, EVERY RUN CLASSIFIED BY HAND, AND THE CLASS THAT A TWELVE-GRAM SCAN CANNOT SEE AT ALL
+
+**RUN AFTER THE REPAIRS, AGAINST ALL 700 FILES, BODY-ONLY, HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED, MAXIMAL RUNS ONLY: 6 TOUCHING 671–680, AND THEY ARE THE SAME SIX THE PREVIOUS PASS CLASSIFIED. NONE OF THE SEVEN REPAIRS ADDED ONE.**
+
+| Run | Files | Class | Verdict |
+| --- | --- | --- | --- |
+| *a man is going to stand at a counter and ask what* | 671 / 682 | the want, restated because the standing has not moved | not a lift |
+| *is going to stand at a counter and ask what this office* | 672 / 682 | same want, second chapter to carry it | not a lift |
+| *with a day against it and an hour against the day and* | 673 / 700 | the standing page's own description | not a lift |
+| *had a folder and a sheet inside it and the sheet was* | 676 / 695 | one folder and one sheet in one building | one object |
+| *a coat of paint will not stay on stone that has been* | 677 / 688 | the wall's paint law, established at 648 | not a lift |
+| *in a drawer in a building nobody can walk into from a* | 680 / 691 | coined at 680, 691 is downstream of it | not a lift |
+
+**THE CLASS A TWELVE-GRAM SCAN CANNOT SEE AT ALL, AND IT IS THE ONE THIS PASS'S MAIN FINDING BELONGS TO: A SHARED CLAUSE IN AN ITALIC FOOTER. The duplication scan strips italic footers before it indexes, because the footers are the arithmetic ticket and not prose — and so `It is the third of four sentences at the foot of a sheet` stood verbatim in six of the ten footers of this batch, in eight across the volume, and no measure in this file could see it. It is the same failure §0b's month-count arithmetic device represents at one level up: a repetition the gate is not pointed at. It is now in TWO of ten (671 and 677) and the other four were rewritten with the arithmetic untouched.**
+
+**THE OTHER CLASS NO MEASURE IN THIS FILE SEES: A CHARACTER'S OWN SENTENCE REPEATED BECAUSE THE STANDING HAS NOT MOVED (668 against 657). Still live, still not a defect, and not repeated by any of this pass's repairs.**
+
+**AND THE CLASS THAT WAS NAMED BY THE PREVIOUS PASS AND IS STILL LIVE: A STANDING FIGURE THAT ONE CHAPTER RESTATES VERBATIM AND THAT ANOTHER RESTATES DIFFERENTLY, so that the two restatements agree with each other and not with the volume.** Repair 1 of the previous pass closed it at 677. **THIS PASS FOUND THE SAME SHAPE ONE LEVEL UP, IN TIME RATHER THAN IN SPACE: three chapters printing the same filler numeral where a derived duration belonged, so that 671, 676 and 680 agreed with each other — *eleven*, *fourteen*, *eleven* — and none of them agreed with the ninth of January.** The class is the same one and the lesson is the same one: **a repetition between two chapters is not a duplication, but a repetition between two chapters and the calendar is a wrong figure.**
+
 # VOLUME 14 BATCH 0003 RE-DISPATCHED 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **A FIGURE WAS WRONG ON THE PAGE IN MY OWN CHAPTER AND WAS WRONG IN THE DIRECTION THAT COSTS THE READER THE VOLUME'S CENTRAL FACT: `chapter-0677.md`:13 SAID *TWO IN A WEEK* WHERE 677 ITSELF SAYS *NINE* TWICE AND THE WHOLE VOLUME SAYS *ABOUT NINE*. IT IS REPAIRED IN THE CHAPTER. TWO BORROWED STAGINGS AND ONE REPEATED CHARACTER'S OWN SENTENCE WERE ALSO REPAIRED IN THE CHAPTERS. EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT.** **12-GRAM AGAINST ALL 700 FILES: 7 MAXIMAL RUNS TOUCHING 671–680, EVERY ONE CLASSIFIED BY HAND IN §0c AND NONE A LIFTED SENTENCE.** THIS BLOCK SUPERSEDES THE BATCH-0003 VERIFIED BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN FROM DISK IN THIS COMMIT, WITH ITS OPERANDS PRINTED

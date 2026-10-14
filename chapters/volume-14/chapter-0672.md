@@ -126,7 +126,7 @@ She waited.
 
 *Less the first of March of the second year, three hundred and ninety, is one thousand nine hundred and thirteen days, which is sixty-three months with twenty-three days after them, and a sheet has lain face up on a counter under a window in a passage off Cordwain for all of them, and about a hundred people a month put a hand on the corner of it and go round, and not one of them has got to the ninth line.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and eighty-five days, which is nineteen months with fifteen days after them. It is the third of four sentences at the foot of a sheet, and a woman off a street two streets wide has copied it out about a hundred and ninety times in pencil in nine sheets, and ruled a column for a name on every line and written nothing in any of them.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and eighty-five days, which is nineteen months with fifteen days after them. One of two copies went out of a laundry this morning inside a rank-one coat, about a hundred and ninety dates in pencil on nine ruled sheets, and a column ruled for a name that is empty on every single line of every one of them.*
 
 ## Somebody Is Going To Write To Me
 

@@ -108,7 +108,7 @@ She shut the book.
 
 *Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is ninety-seven days, which is three months with seven days after them, and about nine people a week in this city get to the last two inches of a sheet that went up on a rail at four on that morning.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and ninety-eight days, which is nineteen months with twenty-eight days after them. It is the third of four sentences at the foot of a sheet, and about nine hundred people in a yard are at this moment reading out loud, to each other, what a hand wrote, and a keeper one floor above a shop has just told him that this is the single thing that cannot be carried into a book.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and ninety-eight days, which is nineteen months with twenty-eight days after them. About nine hundred people in a yard are at this moment reading out loud, to each other, what a hand wrote, at about forty to the hour, and a keeper of real books one floor above a shop has just told him that this is the single thing that cannot be carried into a book.*
 
 ## The Landing With No Light Under The Door
 

@@ -22,7 +22,7 @@ He counted them himself while she was pressing, and it took him about nine minut
 
 “Of pieces of paper.”
 
-“Of pieces of paper that have come through that door since the ninth of January,” said Perla Quist. “That is not a count of claims. It is not a count of people. Two people have come through this door three times each in eleven weeks and I have counted all three. About nine came in the last fortnight and I have not asked one of them where they were before.”
+“Of pieces of paper that have come through that door since the ninth of January,” said Perla Quist. “That is not a count of claims. It is not a count of people. Two people have come through this door three times each since that morning and I have counted all three. About nine came in the last fortnight and I have not asked one of them where they were before.”
 
 “Where did the other four hundred get to.”
 
@@ -114,7 +114,7 @@ And then he understood the rest of it, and it took him about a minute, sitting d
 
 About nine copies of that index were in this city and every one of them had been made by somebody else out of hers, and about nine hundred people could read every one of them, and one of the copies in a yard off the Vestry was longer than the index by a page and a half.
 
-Not longer because more had been added to it. Longer because nine people had written in the margin of it, in pencil, in public, over seven weeks, every one of them correcting a date or a place or the spelling of a lane, and none of them being wrong about the corrections, and every one of them being a person in this city who had now touched the only index in the city without ever having been asked to.
+Not because more had been added to it, but because nine people had written in the margin of it, in pencil, in public, over seven weeks, every one of them correcting a date or a place or the spelling of a lane, and none of them wrong about the corrections, and every one of them a person who has touched the only index in the city unasked.
 
 His copy was the shortest thing about the index in the whole of Ostara.
 
@@ -124,7 +124,7 @@ His copy was the shortest thing about the index in the whole of Ostara.
 
 *Four hundred and nine pieces of pencil paper are in a room off a third court in two cardboard boxes that nobody in that building is obliged to open.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty-seven days, which is twenty-one months with seven days after them. It is the third of four sentences at the foot of a sheet.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty-seven days, which is twenty-one months with seven days after them. Four sentences, his own hand out of one morning in the fifth year, and about nine hundred people in this city can read every one of them.*
 
 *A woman off a street two streets wide has copied it out four hundred and nine times in her own hand, and has refused, in her own room, with the reason given out loud, to give the book it is all written in to anybody at all.*
 

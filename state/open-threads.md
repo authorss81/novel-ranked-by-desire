@@ -1,3 +1,119 @@
+# VOLUME 14 BATCH 0003 RE-DISPATCHED A FOURTH TIME 14 OCTOBER 2026 — LIVE GATE, **VOLUME-WIDE AND NOT BATCH-WIDE**, RE-RUN BY COMMAND IN THIS COMMIT FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS AND AGAIN AFTER EVERY REPAIR. FIFTY VOLUME-14 FILES ON DISK, **700 FILES BOOK-WIDE**, EVERY FIGURE TAKEN FROM DISK AFTER THE LAST EDIT. **SEVEN CONCRETE DEFECTS WERE FOUND AND ALL SEVEN WERE FIXED IN THE CHAPTERS: THREE INTERVALS THAT PRINTED THE HOUSE'S FILLER NUMERAL INSTEAD OF A DERIVED FIGURE, ONE QUARTER-COUNT THAT WAS A GUESS AT THE ROW ABOVE IT, ONE SENTENCE THAT WAS NOT A SENTENCE, ONE ANNOUNCED AGE IN A FOOTER, AND THE SAME CLAUSE HUNG ON THE SAME ANCHOR IN SIX OF TEN FOOTERS.** **THE HEADLINE OF THIS BLOCK IS THE SIXTH OF THOSE, BECAUSE NO MEASURE IN THIS FILE CAN SEE IT: THE TWELVE-GRAM SCAN STRIPS ITALIC FOOTERS BEFORE IT INDEXES, SO A REPETITION IN THE ONE BLOCK OF PROSE THAT IS MEASURED LEAST IS THE ONE REPETITION NOTHING WATCHES FOR.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
+
+## Gate re-run. Every row below is a measurement, not a claim. A row that failed was fixed in the chapters and not in the row.
+
+```
+FILES           671-680 on disk. One # title line in each. All ten end 0a. 10 of 10.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 700 FILES.
+                Ten title lines checked for straight glyphs SEPARATELY from their bodies:
+                0 straight double quotes, 0 straight apostrophes, 0 curly in any title line.
+                Bodies: 776 curly, 0 straight. Sixteen title lines book-wide carry a straight
+                glyph on files this pass did not touch and none of them is one of these ten.
+BANK            PER FILE AND SUMMED FROM DISK, NEVER cat *.md | wc -w, AND RE-COUNTED AFTER
+                THE LAST EDIT TO ANY OF THE TEN:
+                671 2,363 · 672 2,283 · 673 3,445 · 674 2,103 · 675 2,206 · 676 2,050 ·
+                677 2,079 · 678 2,199 · 679 2,199 · 680 2,700 = 23,627
+                Proven before trusted: chapter-0683.md is known at 4,024 and wc -w and a
+                Python split both return 4,024 for it. Deltas  +3 -8 0 -5 0 0 +2 0 +12 +2.
+BAND            ALL TEN INSIDE 1,800-2,700. NO REASON OWED ON ANY CHAPTER.
+                673 at 3,445 is the one outside, 745 over, and its reason is recorded at
+                state/current.md: a scene, 119 chapters after 554, never compressed to a band.
+                680 went to 2,731 on a repair, was trimmed to 2,697, went to 2,705 on the last rewrite of its footer tail, and was trimmed again to 2,700. Not excused.
+PARAGRAPHS      645 paragraphs. 0 over roughly ninety words. 0 over one hundred and twenty.
+                0 with an odd count of quotation glyphs. Measured after every repair.
+QUOTATION FORM  CURLY. Ten of ten. 776 curly, 0 straight, across my ten files.
+                Across all 700 files: 56,016 straight and 11,766 curly, unchanged by this pass.
+DUP, WITHIN     IDENTITY AND JACCARD 0.62, run separately on every one of the ten.
+                0 exact duplicates. The Jaccard measure returns 9 hits and all 9 are classified:
+                8 are the chapter's own opening arithmetic paragraph against its own footer
+                frame, which is the house form and is in ten of ten, and the ninth is
+                "I know that." / "I know that too." in 673 at lines 53 and 67, which are two
+                one-line exchanges by different speakers ninety lines apart in one scene.
+ORPHAN SPEECH   0. The probe looks for a paragraph of direct speech with NO quotation marks.
+                93 paragraphs open with a curly quote; all 93 carry quotation marks, which is
+                what the gate exempts. chapter-0606.md:113's shape cannot occur in these ten.
+META            class grep incl. manuscript and opposition ....... 0 primary, 0 widened, 0 extension
+WEEKNAMES       seven names, whole-word and stem .................. 0 names
+                sat 8, every one the verb, at 673:107/113/143 674:27/85 675:91 680:47/89.
+                sun 0. A repair in this pass touched a WEEK-COUNT and not a weekday, and the
+                two rows are not the same row and are not to be reported as one.
+AGES            eleven probe forms + bare aged sweep + spans ....... 0 for a person
+                The sweep returns the house's about-nine / about-forty / about-ninety idiom
+                in sixteen paragraphs and every one is a count of people, papers or feet.
+                THE ONE REAL HIT, a man about seventy at 677:109 in a FOOTER, IS REPAIRED.
+                Hanneke Ruis no age. Perla Quist not that number again. The boy not aged.
+ARITHMETIC      spine 2,296-2,355, monotonic 0 violations, by METHOD A and METHOD B which
+                share no constant, and THE PROOF IS THE SUM AGAINST THE ENDPOINTS:
+                7 6 7 6 7 6 7 6 7 = 59 and 2,355 - 2,296 = 59. Seam 2,296 - 2,289 = 7, in its
+                own column and not one of the nine. Every one of the nine read against its own
+                chapter's date one at a time. THE PHASE PROMPT'S OWN SUMMARY LINE IS WRONG:
+                ten terms for a nine-term batch, summing to 66 against endpoints differing by 59.
+                17 FOOTER INTERVALS PARSED OFF THE PAGE AND RE-DERIVED, 0 MISMATCHES.
+                THE THREE THAT WERE WRONG ON THE PAGE ARE NOW RIGHT: five months with eight
+                days at 671, six months with eleven days at 676, anchored at 680, nine quarters
+                at 675. EVERY ONE LANDS ON ITS OWN CHAPTER'S DATE.
+QUARTERLY       852 unmoved. Unmoved across ten sheets at 673. Not called a count of deeds.
+                The twenty-sixth sheet IS written in this batch, at 673, which re-derives 2,309
+                and names the quarter-end. Second column still TWO lines through 680; the entry
+                is owed at 684 and is movement four's. 841 and 419 are two numbers and were not
+                merged anywhere in this pass.
+ACCOUNT         8,1xx 0. two hundred and eleven thousand 0. settl 0 in every inflection.
+                NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+SPENT FIGURES   office's months 0 · wall's rate 0 · lane's mornings 0 · the yard's figure
+                DESCRIBED AND NOT PRINTED · the docket's date not printed and not derived.
+                411 printed ZERO times; at 680 the two ninths of November are 277 and 637 and
+                both anchors are named on the page, which is the rule for printing the figure.
+SENTENCE        invented-figures sentence VERBATIM 0 in this batch and tier 3 0. Spent at 658.
+RT / BODIES     right temple 0 across all 700 files. cuticle 4 files, unchanged, none of them
+                mine. ostho 0. A hand flat on anything: 0 across my ten, including on a table,
+                a hoarding, a scaffold pole, a kerb, a counter, a shelf and a wall.
+HEADINGS        one # per file. 52 ## across the ten, none duplicated inside a file and none
+                duplicated across the ten. 7 headings recur across Volume 13 and all 7 are
+                structural; 4 recur across a volume by design. None of this batch's 52 is a
+                restatement of another of its own.
+DUPLICATION     12-GRAM FIRST against every chapter in the book INCLUDING MY OWN, body-only,
+                headings and italic footers stripped, token-normalised, maximal runs only:
+                6 TOUCHING 671-680, the same six the previous pass classified, every one in
+                state/continuity.md 0c and none a lifted sentence. Then 11 and 8. Every hit at
+                six or above classified by hand and not counted. THEN THE 4d BORROWED-BODY AND
+                BORROWED-STAGING TABLE, READ BEFORE ANY BODY WAS PLANNED AND NOT AFTER:
+                Hanneke Ruis's 554 staging is referenced at 673 and 679 and restaged nowhere;
+                Agnete Lindqvist's 546 and 564 are not restaged; the 564 four-run lift was
+                closed by an earlier pass. THEN THE SCENE-AXIS COLUMN: THE SHELF, carried by
+                her counting room's rule and named by nobody, four volumes of the same axis in
+                a row and this batch's is the one that is refused on the page.
+MARKDOWN        blockquotes 0. tables 0. rules 0. fences 0. bold 0. System panels 0 against a
+                volume budget of five, so three remain.
+SCENE           673, SEVEN CELLS, EVERY LINE SPAN PRINTED BESIDE ITS CELL, taken from disk in
+                this commit by sed -n and by a Python whitespace split, two methods that share
+                nothing, and the two agree on all seven:
+                13-167 = 2,873 · 14-166 = 2,863 · 75-167 = 1,817 · 76-166 = 1,805 ·
+                167-177 = 322 · 168-177 = 316 · 1-177 = 3,445 and it reconciles to the bank.
+                The ## lines are 13, 29, 75, 141 and 167 and were measured, not carried.
+                Explicit probe AT WORD BOUNDARY over all ten files: cock 1 (673:125),
+                cunt 1 (673:133), and semen, tits, pussy, cum, jizz, knob, fanny, arse,
+                licked, sucked all 0. An implication-by-summary passage would score zero on
+                that probe and is still a defect; 673 is not one.
+STAGING         554's furniture and 564's staging checked BY HAND against outline/volume-14.md
+                4d and state/continuity.md 0b. ZERO hits.
+FOOTER FORM     THE FOOTER IS ABOVE THE FINAL ## SECTION IN ALL TEN AND EVERY CHAPTER ENDS ON
+                PROSE, re-measured after the repairs: 671 @107/@113 · 672 @125/@131 · 673 @161/167
+                · 674 @107/@113 · 675 @109/@115 · 676 @109/@115 · 677 @103/@111 · 678 @95/@101
+                · 679 @141/@147 · 680 @121/@131. 10 OF 10.
+```
+
+## THE FINDING OF THIS BLOCK, AND IT IS THE ONE THING NO MEASURE IN THIS FILE WAS POINTED AT
+
+**THE TWELVE-GRAM SCAN STRIPS ITALIC FOOTERS BEFORE IT INDEXES, AND THAT IS CORRECT — THE FOOTER IS THE ARITHMETIC TICKET AND NOT PROSE. THE CONSEQUENCE, WHICH NOBODY HAD WRITTEN DOWN, IS THAT A REPETITION IN THE FOOTER IS THE ONE REPETITION IN THIS MANUSCRIPT THAT NO GATE IN THIS FILE CAN SEE.**
+
+**AND THE BATCH HAD ONE, IN SIX CHAPTERS OUT OF TEN.** `It is the third of four sentences at the foot of a sheet` stood verbatim in 671, 672, 674, 677, 679 and 680, and in 670 and 683 across the volume, and the twelve-gram row reads clean, and the identity row reads clean, and the Jaccard row reads clean, and every one of those rows is telling the truth about the prose it was pointed at. **The phase prompt for this batch named the failure as its own first inherited rule, in the form batch 0002 hit it — the same shutter clause hung on one anchor in seven chapters — and then carried it one level further and gave the batch the same clause six times. The arithmetic frame is fixed and the proposition hung on it is not, and the running fact after the comma was different in all six, which is what the repair was supposed to have produced.**
+
+**It is now TWO of ten — 671 and 677 — and the clause was rewritten in 672, 674, 679 and 680 with the arithmetic untouched. `grep -c` over my ten returns 1, 0, 0, 0, 0, 0, 1, 0, 0, 0.**
+
+**THE GENERALISATION, AND IT IS THE SAME LESSON AS §0c'S LAST TWO CLASSES ONE LEVEL DOWN. A repetition between two chapters is not a duplication. A repetition between two chapters AND THE CALENDAR is a wrong figure — which is what repairs 1, 2 and 3 of this pass were, and they were invisible to every row above for the same reason: the scan strips footers, and the prose in 671 and 676 that held them was the prose, and the figure in it was the figure.**
+
+**AND THE ROW THAT CAUGHT IT WAS NOT A GATE. IT WAS THE PROMPT'S OWN SENTENCE — *ten chapters, ten different propositions; if two of yours share a clause, cut one* — which is the standing instruction behaving exactly as an instruction should, against a batch that had already been through three passes and a bank that had already been counted four times.**
+
 # VOLUME 14 BATCH 0003 RE-DISPATCHED 14 OCTOBER 2026 — LIVE GATE, **VOLUME-WIDE AND NOT BATCH-WIDE**, RE-RUN BY COMMAND IN THIS COMMIT FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS, AND AFTER EVERY REPAIR. FIFTY VOLUME-14 FILES ON DISK, **700 FILES BOOK-WIDE**, EVERY FIGURE TAKEN FROM DISK AFTER THE LAST EDIT. **A FIGURE WAS WRONG ON THE PAGE AT `chapter-0677.md`:13 — *TWO IN A WEEK* WHERE THE SAME CHAPTER SAYS *NINE* TWICE AND THE WHOLE VOLUME SAYS *ABOUT NINE* — AND IT WAS REPAIRED IN THE CHAPTER, AND TWO BORROWED STAGINGS AND ONE REPEATED CHARACTER'S OWN SENTENCE WERE REPAIRED WITH IT.** **THE HEADLINE OF THIS BLOCK IS THE SCANNER, WHICH WAS WRONG TWICE IN THIS REPOSITORY'S HISTORY IN THE SAME WAY AND ANSWERED AT SPEED BOTH TIMES, AND WHICH WAS REBUILT AND PROVED ON A FILE WITH A KNOWN ANSWER BEFORE IT WAS TRUSTED.** THIS BLOCK SUPERSEDES THE BATCH-0005 GATE BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
 
 ## Gate re-run. Every row below is a measurement, not a claim. A row that fails is fixed in the chapters and not in the row.

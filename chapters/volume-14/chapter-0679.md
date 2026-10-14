@@ -140,7 +140,7 @@ He squared the twelve books.
 
 *Two thousand three hundred and forty-eight days. Less two thousand three hundred and forty-two, the third of August of the seventh year, is six, and the month between them says nine less three.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty days, which is twenty-one months exactly. It is the third of four sentences at the foot of a sheet, and it is not the reason a man in a delivery coat is standing at the end of a wall tonight, and he has never once said that it was.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty days, which is twenty-one months exactly. A page goes up on a rail four times a year and about nine people a week get to the bottom of it, and neither of those figures is the reason a man in a delivery coat is standing at the end of a wall tonight, and he has never once said that it was.*
 
 *Less the thirtieth of September of the sixth year, two thousand and thirty-nine, is three hundred and nine days, which is ten months with nine days after them, and a ledger in a back room off a street two streets wide has had about three hundred and ten dates in the margin of it in pencil, and one line of them was rubbed out on the third of this month in front of about nine hundred people.*
 

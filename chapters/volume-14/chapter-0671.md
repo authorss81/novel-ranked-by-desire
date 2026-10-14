@@ -128,7 +128,7 @@ The woman had been coming since the ninth of January. That was the part he had n
 
 He could not answer her. That was the thing he understood in the four seconds it took him to get back across that floor, and he understood it standing at the door of a laundry with the heat coming under it.
 
-He had spent nine years learning how to be the only hand in a room that could put a sentence somewhere official, and he was that hand, and he had a plate with no figure cut into it, and a woman who cannot read had been carrying a piece of paper up and down a street for eleven weeks waiting for somebody to say four words to her.
+He had spent nine years learning how to be the only hand in a room that could put a sentence somewhere official, and he was that hand, and he had a plate with no figure cut into it, and a woman who cannot read had been carrying a piece of paper up and down a street for five months and eight days waiting for somebody to say four words to her.
 
 He had come down that street for a column in a ledger and there was one thing in the room he wanted more than the column.
 
