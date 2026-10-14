@@ -1,57 +1,139 @@
 # The Twenty-Fifth Sheet
 
-Six days had gone since he found out that about ninety copies need about ninety pieces of paper and paper is bought by weight by people who are counted.
+Six days had gone since a broker on the floor above a counting house had told him what ninety sheets of paper cost, which was nothing, and had then told him about a counter in a basement whose figure had not moved in seven years.
 
-Two thousand two hundred and thirteen was the twenty-fourth of March and the thirtieth is day two thousand two hundred and nineteen, and two thousand two hundred and nineteen less two thousand two hundred and thirteen is six, and thirty less twenty-four is six by the month count, because a month is thirty days and has no thirty-first, and the thirtieth is the last working day of the month and of the quarter.
+Two thousand and two hundred and thirteen was the twenty-fourth of March and the thirtieth is day two thousand two hundred and nineteen, and two thousand two hundred and nineteen less two thousand and two hundred and thirteen is six, and thirty less twenty-four is six by the month count.
 
-The room off a third court was busy from about half past two, with the twenty-fifth sheet on the table and the bundle beside it and the stair going up two levels to the corridor, and Wenna Raut at the table with her book open, and Yusuf Adeyemi at the end with his coat on, and Lin Hao moving between them with his hands full of nothing.
+Two thousand two hundred and nineteen less two thousand one hundred and sixty, the first of February, is fifty-nine days. That is the whole of this movement: fifty-nine days, from the first day of the year to the last working day of this quarter.
 
-He wanted to get the sheet squared and out at four with everything on it exactly as it stood, and then to stop asking what should be done about about ninety pieces of pencil paper and do the one thing he could actually do.
+## Half Past Two
 
-## The Sheet At Four
+The sheet came out of the drawer at half past two and was squared to the edge of the table, and he stood in the room off a third court and looked at the whole of it for about four minutes without touching it.
 
-The head stood at eight hundred and fifty-two in the hand of the office, unmoved across nine sheets, and under it were about four hundred and nineteen lines with a date and an hour against every hour and no figure and no name, and under those were two lines in the second column, and under those were four sentences at the foot, and under those were six lines with the fourth struck through from the first letter to the last and a name under it and two inches of nothing.
+Eight hundred and fifty-two at the head.
 
-It did not move the head and was not going to, and no permission was given, because no labor in that building could move it, and he squared it to the edge himself and Wenna Raut entered it exactly as given.
+About four hundred and nineteen lines under it. Every one of them is somebody’s account of a street dug in the cold, and against every line there is a day and against the day there is an hour, and on not one of the four hundred and nineteen is there a sum or a name.
 
-At four it went out, up the stair and along two levels to a counter with a window on it, folded and laid along the rail, and the man behind the counter kept his hands on his own book and did not touch it, because a sheet on a rail is scenery.
+Two lines in the second column, headed carried by, and one of them has been there since the fifteenth of October of an earlier year and is not going anywhere.
 
-The bundle went the other way into a room nobody was obliged to open, with twenty-four things in it, and nobody was required to open any of them, and the last one had never been opened.
+Four sentences at the foot in the hand of the office, two of them older than this office and two of them added on the ninth of November of an earlier year, one of them with a man in a delivery coat’s name under it and not his.
 
-He stood a while at the table after it went, with the empty drawer open at his knee, the drawer that had been open and empty since the fourth of February of the first year, and Adeyemi watched him without speaking, because Adeyemi knew what was coming and would not stop it, since there was nobody to stop him and nobody to tell him he was wrong.
+And under those four, since the twenty-third of November: six lines, the fourth of the six with a stroke through it from the first letter to the last, a name under the striking, and two inches of nothing.
 
-He was the only person that office might ask, which meant there was nobody to forbid him, and he knew both, and knowing both was the whole of his standing and the whole of his danger.
+Nothing goes in the two inches. He is not going to write in it and neither is any clerk in this building and there is no instrument in Ostara that could, and the twenty-fifth sheet is going out at four this afternoon with the space exactly as wide as it has been for four months.
 
-## To Hold Them
+“Twenty-fifth,” said Wenna Raut.
 
-Perla Quist came through the front door at about half past three with a wrapped parcel in her arms, about ninety pieces of pencil paper, each a copy of the foot of the twenty-fourth sheet in a hand not the office’s, each with writing in the two inches, dates and places and numbers of months, gathered over two months from houses that trusted a laundry more than an office.
+“Twenty-fifth.”
 
-She laid it on the table without ceremony, because ceremony would have made it a claim, and looked at him levelly.
+“It is not moving the head and it is not going to,” she said, “and I would like that said out loud in this room once a quarter and I have said it four times this year and I am saying it now because there is a man in this room with a pen who has been in the ninth month of a year he does not name.”
 
-“I do not want them entered,” she said. “I want them kept. There is nowhere else that will keep them without reading them wrong.”
+“The head has not moved in eight quarters.”
 
-Lin Hao looked at Wenna Raut.
+“It has not moved in eight quarters and it is not going to move on this one and there is no permission and there is nobody in this city who can give one,” said Yusuf Adeyemi from the end of the table with his coat on, “and that is the first of the things I am going to say and it is the only one of them that is easy.”
 
-“May the office hold them,” he said. “Not enter them. Hold them. In the drawer.”
+## Everything On It Exactly As It Is
 
-Wenna Raut was quiet a long moment, with her pencil still in her hand, and then she said yes, because holding is not entering and there is no form for a holding and she had been given a drawer and not an instruction, and a clerk who may only enter says yes to what is not entering.
+“The rest of it.”
 
-He put the parcel into the drawer himself, with his own hands, about ninety pieces, and shut nothing, because the drawer did not shut, and stood back with his heart beating hard.
+“There is one thing you are permitted to change on that sheet and I am going to tell you what it is so that you cannot spend the afternoon looking for permission you have not got,” said Yusuf Adeyemi. “You may write at the foot, under the six lines. That is your hand and it has been your hand since the first sheet and no clerk in this building will improve one word of it.”
 
-It was his old habit in a new material. He hoarded paper the way he hoarded advantage eight winters before, and he called it a duty, and it closed the office’s standing as a place where nothing had been given anything.
+“And nothing else.”
 
-Where the Register had nothing it had not been given anything had been at the foot of that sheet since the office opened and it had been the only sentence the building had that nobody could argue with, and after that afternoon it described the building, which held about ninety things in a room with no door onto a street, entered as nothing.
+“Nothing else,” he said. “And a clerk enters what she is given and cannot improve it and cannot be asked to hurry, and that is the whole of the authority of the person who works at that table, and she is better at it than any of us.”
 
-About nine people in a week read it to the bottom on the first of January, and about four hundred people now knew exactly what to bring and to which door.
+At about ten past three the sheet went into a fold and the clerk signed for it and it went down a stair and along a corridor to a counter with a window on it, and at four it went up on a rail in a passage off Cordwain, and about a hundred people a month put a hand on the corner of it going past.
 
-He felt no triumph. He felt cold anger at himself for being right, and grief for the sentence, and tenderness toward the woman who brought the parcel, all together, and none of them helped.
+## What He Is Allowed To Ask
 
-At about four o’clock a sheet went up on a rail at a counter under a window in a passage off Cordwain, and it was the twenty-fifth of them, and about a hundred people in a month put a hand on the corner of it, and about nine people in a week got to the foot of it, and there was now a drawer in another building with about ninety pieces of paper in it and not one entry against them.
+He said it at about half past three, with the room nearly empty, and he said it badly and he said it as an instruction, which is a thing he is permitted to do.
 
-He walked home in the dark knowing it could not be un-given, and that was the cost, and the closing, and the hook past the winter.
+“I want the office to hold them.”
 
-*Two thousand two hundred and nineteen days. Less two thousand two hundred and thirteen, the twenty-fourth of March of year seven, is six. Thirty less twenty-four is six by the month count, because a month is thirty days and has no thirty-first, and the thirtieth is the last working day of the month and of the quarter.*
+“Which of them.”
 
-*Two thousand two hundred and nineteen less two thousand one hundred and sixty, the first of February of year seven, is fifty-nine. Seven and seven and six and seven and six and seven and six and seven and six is fifty-nine.*
+“About ninety pieces of pencil paper. Nine of them are in nine kitchens this city and the rest of them are stacked on a table behind a laundry that runs nineteen years, and they are copies of the foot of the twenty-fourth sheet with something written in the two inches in a hand that is not ours, and they are coming through that front door at a rate of about forty in a month and rising.”
 
-*The head stands at eight hundred and fifty-two unmoved across nine sheets. The second column has two lines at the end of this winter. That drawer now holds about ninety pieces of pencil paper and the bundle holds twenty-four things and nobody is required to open any of them. A figure put together on purpose in a hand not the office’s is a thing no clerk here can enter.*
+“Enter them,” said Yusuf Adeyemi.
+
+“No,” he said. “Not enter them. Hold them.”
+
+He said the word twice because he had known that the whole of it turned on the word.
+
+“Hold them,” he said. “Not enter them. There is no form for a holding and a clerk may only enter what she is given and she has been given about ninety pieces of paper and not one instruction, and I want this office to have them in a drawer and I want nothing whatever to happen to them.”
+
+## A Clerk Says Yes
+
+Wenna Raut did not answer for about four seconds and then she answered in the ordinary way, without looking up from the column she had gone back to.
+
+“Yes,” she said.
+
+“A drawer,” he said. “Open and empty since the fourth of February of the first year.”
+
+“There is a drawer.”
+
+“Not a column. Nothing in a column and nothing on the foot of the twenty-fifth sheet, which has gone to a rail at four.”
+
+“The twenty-fifth sheet went at four,” said Wenna Raut, “and it went with everything on it exactly as it was, and I did not improve one line of it, and that is what you have.”
+
+She turned a page of the column.
+
+“You have asked me to hold about ninety pieces of pencil paper in a drawer,” she said, “and I may enter what I am given, and I have been given a drawer and not an instruction, and there is no form in this city for a holding, and a holding is not an entry, and I cannot be asked to hurry about it and I am not going to try.”
+
+“Can you be asked to try.”
+
+“I cannot be asked to try and I cannot be asked to improve it and I cannot improve it because there is nothing on it to improve,” said Wenna Raut. “You have given me a drawer. Yes.”
+
+## The One Standing This Building Had
+
+He stood in that room for a while with his hand on the edge of the table.
+
+There are four sentences at the foot of that sheet and the second of the four says that where the Register has nothing in it then nobody has been given anything. It has been there since before this office existed and it has been in this building’s hand and it has gone out at four on the thirtieth of every quarter for six years, and it is the one sentence this office has that nobody in this city has ever been able to argue with.
+
+It was about the people it was written for. It was about a person who went to a counter and was refused and went away again.
+
+From this afternoon it is also, and exactly, a fact about the building that prints it.
+
+That is what it closes: the only standing in this city that could say *nothing has been handed to us* and mean it, and he has made it unable to, and nobody made him, and there was not one person in the building who could have stopped him.
+
+He wanted it that way. He wanted a drawer with something in it, and he had wanted one since a room off this court was cleared out on the fourth of February of an earlier year, and he had not known that was what he had wanted until about half past three this afternoon.
+
+It is not a large want. He has had larger ones that cost more.
+
+## Four O’Clock At The Counter Under The Window
+
+He went down and along the street and up the stairs at about four, because the passage is off Cordwain and there is a counter under a window in it with a rail, and the sheet goes up on that rail at four.
+
+The man at the desk had it face up already and had a copy of his own face up on the counter, which he takes up off the rail in the morning and puts back on it before he goes, and which is the reason he is the only man in this city who has read the whole of every one of the twenty-five.
+
+“Twenty-fifth,” he said.
+
+“Twenty-fifth.”
+
+“They come four times a year and I have got a hand on all twenty-five of them,” said the man at the desk, “and about a hundred people a month go round the corner of yours to get past me, and I have been here about nine years and not one of them has ever got to the ninth line, and that is not going to change this year either.”
+
+He put the pencil in the drawer and shut it.
+
+“There is something else,” he said, “and I am going to say it once and you are not going to answer it.”
+
+“All right.”
+
+“There is a drawer in another building with about ninety pieces of pencil paper in it this afternoon,” said the man at the desk, “and there is not one entry against any of them.”
+
+“In about four years somebody is going to come in here and ask me what this office does with paper, and I am going to have to tell them that it holds it,” he said. “And I have got a pencil and a ledger with about thirty names in it, and I cannot write that down anywhere that anybody will ever look at it.”
+
+“That is the whole of it,” said Yusuf Adeyemi, from behind him, who had come down the stairs with him because he comes down the stairs with him about twice a year and does not say so.
+
+“I did not ask you.”
+
+“You did not ask me and I have not been asked,” said Yusuf Adeyemi, “and I came down a stair to tell you that the man at the counter is right about the drawer and that neither of us will ever be asked about it, and that is two people now who know and it is the second of those two who is not permitted to be asked.”
+
+At about a quarter past four he went back up and along two floors and got to the room off a third court, and the drawer under the table was shut, and there was nothing in it that he could see, and about ninety pieces of pencil paper had come in through the front door of that building that morning in a mail bag with nothing on the outside of it, and a clerk had entered them as nothing, in a room with no door onto a street.
+
+*Two thousand two hundred and nineteen days. Less two thousand one hundred and twenty-nine, the thirtieth of December of the sixth year, is ninety days, which is three months exactly, and that is why the head of the standing sheet has stood at eight hundred and fifty-two across eight of them and is not going to move on the ninth.*
+
+*Less two thousand one hundred and sixty, the first of February of the seventh year, is fifty-nine days. The twenty-fifth sheet went up on a rail at four on the last working day of this quarter and the thirtieth is the last working day of the month and of the quarter, and there is no thirty-first in this city.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and forty-one days, which is four months with twenty-one days after them. A shutter at the far end of a yard has been bare for all of them, and about two thousand people a day slow down at nothing.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and one days, which is sixteen months with twenty-one days after them. It is the third of four sentences at the foot of a sheet and it lets any person in this city set down any number they please, and about ninety copies of that foot are in about ninety kitchens, and not one of them is on a page and not one of them has a name against it.*

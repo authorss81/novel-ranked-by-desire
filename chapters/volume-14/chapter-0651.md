@@ -1,105 +1,165 @@
 # The First Exact Figure
 
-Thirty-one days had gone since that sheet went out at four with everything on it exactly as it stood.
+Thirty-one days had gone since a boy had put the sixty-third form up on a board by a kerb and told him that he would be painting that corner in the ninth month of next year with the sixty-fourth of the empty squares in it.
 
-Two thousand one hundred and twenty-nine was the thirtieth of December and the first of February is day two thousand one hundred and sixty, and two thousand one hundred and sixty less two thousand one hundred and twenty-nine is thirty-one, and one less thirty is one by the month count because a month is thirty days and runs out at the thirtieth.
+Two thousand one hundred and twenty-nine was the thirtieth of December and the first of February is day two thousand one hundred and sixty, and two thousand one hundred and sixty less two thousand one hundred and twenty-nine is thirty-one, and a month is thirty days with no thirty-first in it anywhere in this city.
 
-The room off a third court was cold at about ten in the morning in the way a room is cold when nobody has been in it since half past five and the window has been shut all night and the table has held nothing but dust.
+The tray by the door had been empty for a month.
 
-Lin Hao came in with his coat on and the rota in his pocket and nothing in the tray, and that was correct, because the twenty-fourth sheet had gone out thirty-one days before and the twenty-fifth was due on the thirtieth of March, which was fifty-nine days away, and an empty tray between quarter-ends is what a good quarter looks like from inside.
+That is what a good quarter looks like from the inside. Twenty-three bundles went up the stairs and came back signed, and the twenty-fourth sheet went out at four on the last working day of the year, and then the year turned over, and then nothing, which is what the tray is for.
 
-Wenna Raut was at the table with the standing sheet squared to the edge and a pencil beside it, and Yusuf Adeyemi was at the end of the table with his coat on, the way he sits when he has come to look at a room and not to work in it.
+He stood in the room off a third court at about ten in the morning and looked at it for longer than the looking took.
 
-“Nothing has come in,” said Wenna Raut.
+There were two chairs and a table with the drawer in it under the table, and a window that gives on a wall about four feet off and no sky at all above about nine feet of it, and the light in that room at ten in the morning in the first month of a year comes off that wall and goes round the room twice before it gives up.
 
-“Nothing was due to come in,” said Lin Hao.
+## An Empty Tray For A Month
 
-He wanted to be the only person in that building thinking about two inches of nothing, and he was, and that was not a comfort, because the two inches were under his own name at the foot of the most widely read sheet in Ostara and about nine people in the city got to the bottom of it in a week.
+He had been thinking about two inches of nothing since about the second of January and he had not said so to anybody.
 
-## The Drawer Before Eleven
+There are six lines at the foot of the standing sheet and the fourth of them has a stroke through it from the first letter to the last and a name under the striking, and under the fifth there is a space about two inches deep, and it went out at four on the thirtieth of December with that space empty, and it has been on about two thousand counters since, and about nine people a week in this city get to the bottom of it.
 
-The drawer in the side of the table was open.
+He had spent a month deciding that it was a sealed thing. That was the word. He had gone round it nine different ways in his own head and every way came out the same: a rule came off a page, and what it left was a hole, and a hole is not an invitation.
 
-It had been open and empty since the fourth of February of the first year, and it was open and empty now, and he looked at it the way a man looks at a thing he has looked at six hundred times, which is to say without looking, and then he looked again because Adeyemi was looking at it.
+He opened the drawer under the table.
 
-“It is still empty,” said Adeyemi.
+It was open and empty. It has been open and empty since the fourth of February of a year nobody in this room says, and it slides about nine inches and then it stops, and he had put nothing in it since the year it was cleared and he had no reason to and no instrument.
 
-“It is supposed to be empty,” said Lin Hao. “A drawer that has been open six years is a drawer nobody needs.”
+Wenna Raut came in at about ten past ten with a column to finish and did not look up.
 
-Adeyemi did not answer that, because it was true and because there was nothing behind it, and Wenna Raut turned a line in the book she kept and wrote an hour against it without lifting her eyes.
+“You are standing in the doorway.”
 
-The head of that sheet stood at eight hundred and fifty-two in the hand of the office, unmoved across eight sheets, and under it were about four hundred and nineteen lines with a date and an hour against every hour and no figure and no name, and under those were two lines in the second column.
+“I am.”
 
-Under those were four sentences at the foot in his own hand, one of them with a man in a delivery coat’s name under it and not his, and under those were six lines with the fourth struck through from the first letter to the last and a name under the striking and two inches of nothing.
+“You are standing in the doorway looking at a drawer that has been open and empty for six years,” said Wenna Raut, “and you have done it four mornings running, and I have a column and the column does not care.”
 
-He knew it by heart the way a man knows a wall he has walked past six years, and he did not read it.
+She went at the column.
 
-He felt dread, low and plain, the kind that sits behind the ribs and does not move when a man breathes.
+## A Date And A Place
 
-Then the front door opened, and that was wrong, because nobody came through the front door at ten in the morning with anything in a hand.
+There was a knock on the front door of that building at about half past ten in the morning, which does not happen, because the front door of that building is on a court and the court has four other doors on it and about two thousand people go past it in a working day and not one of them has ever knocked.
 
-## What Came Through The Door
+A man came in with a sheet of paper.
 
-A girl from the laundry two streets over stood in the passage with a folded sheet in her fist and steam still on her cuffs.
+He was about forty and he had a delivery coat on and no badge, and he put the sheet on the counter edge nearest the door and squared it with two fingers, and did not go further into the room than the door.
 
-She did not give her name, because nobody had asked her for it, and she put the sheet on the counter by the door and said the woman at the bench had told her to bring it to the address at the head of it, and then she went back out into the cold before Wenna Raut could come round the table.
+“From off Cordwain,” he said. “A man at a desk under a window asked whether you would take it and I said you would.”
 
-Lin Hao unfolded it.
+“Why did he ask you.”
 
-It was not a form. It was not a demand. It was not a return.
+“He did not ask me,” said the man. “He asked the man at the desk and the man at the desk asked the man on the desk before me and it came up the counter to me about nine minutes ago and I have carried it since.”
 
-It was a copy of the foot of the twenty-fourth sheet, made by hand in a hand that was not the office’s hand and not his, four sentences and then six lines with the fourth of the six crossed through and a name under the crossing, his name, set down carefully the way a person copies a thing letter by letter when the letters matter more than the words.
+“Then how does he know I would take it.”
 
-And under the name were two inches of the copy with something written in them in pencil.
+“He does not,” said the man. “He said you would and he was guessing and he was right.”
 
-A date and a place and no figure.
+He went out and shut the door behind him, and there was no sound in the room but the column.
 
-Someone had written down when something had happened to them and where, in a small cramped hand, at a table at home, with a pencil pressed hard enough to dent the paper.
+Wenna Raut finished the line she was on, and then she came over and looked at the sheet, and then she went back to her column and left it.
 
-He stood there a long time.
+It was a single sheet and it was the foot of the twenty-fourth sheet, copied by hand.
 
-Hope came up under the dread, which was worse, because dread is a thing a man can carry and hope is a thing that carries him.
+Four sentences at the top of the copy, in a hand that is not the office’s hand. Six lines under them, the fourth of the six with a stroke through it from the first letter to the last. A name under the striking. And then the two inches.
 
-Somebody had been writing in those two inches since about the second of January and had done it at home and told nobody, and the office had spent four months believing the space under the striking was a sealed thing.
+There was something written in the two inches.
 
-“You may enter what you are given,” said Wenna Raut from the table, without looking up. “You have given me a piece of paper and not a claim.”
+It was in pencil and it was small and it was four words and a comma.
 
-“I have not given you anything yet,” said Lin Hao.
+*The fourth of March. Back lane.*
 
-“Then I have nothing to enter,” she said. “A clerk may only enter, and cannot improve what she is given, and cannot be asked to hurry, and you are the only person that office may ask.”
+No figure on it. No hour. No name. No claim, and no deed, and not one word that could be entered anywhere in this city by a person who is permitted to enter things.
 
-Adeyemi came to stand beside him and read the copy over his shoulder without touching it.
+Lin Hao read it four times.
 
-“Seventy-two months,” said Lin Hao, because he had worked it out on the stair coming down and it had been sitting in his mouth since. “Two thousand one hundred and sixty is thirty times seventy-two with nothing left over. Six years to the day.”
+## Seventy-Two Months
 
-Adeyemi nodded once. “An exact figure,” he said. “The first figure that office has ever had that could not be argued with. It took seventy-two months.”
+“There is a thing I am going to say out loud,” he said, “and I am going to say it in this room because you are the only other person in it.”
 
-Wenna Raut said nothing, because there was nothing to enter about it.
+Wenna Raut did not look up.
 
-Lin Hao turned the copy over. The paper was the kind a laundry keeps for wrapping, thick and soft at the edges, and the pencil was a stub with about an inch of lead left in it, and it was not from any counter in that building, because no counter in that building kept that paper and no clerk in it wrote with that lead.
+“If I am wrong about it you may tell me I am wrong about it and you may do it once.”
 
-A person who cannot read cannot tell you what paper that is, and the girl was already gone, and the steam from her cuffs was still in the passage.
+“All right.”
 
-He folded the copy again and put it in his coat, and his hand shook once, and he hoped nobody had seen it, and Adeyemi had seen it and said nothing, which was the kindest thing anybody did in that room that morning.
+“This office opened on the fourth of February of the first year and today is the first of February,” said Lin Hao. “A month is thirty days. Thirty days times seventy-two months is two thousand one hundred and sixty days. Two thousand one hundred and sixty days is six times three hundred and sixty days, and three hundred and sixty days is one year in this city.”
 
-## Four In The Afternoon At The Laundry
+He said it to the wall opposite.
 
-At about four he went to the laundry with the copy in his coat and stood by the bench where three tables stood in steam and a ledger lay on the middle one.
+“Seventy-two months exactly,” he said. “Nothing over and nothing under, and it is the first day since the building has been standing that the whole calendar comes out even on us.”
 
-The woman at the bench looked at him and did not ask what he wanted, because a laundry is a place where people bring things and do not explain them.
+The clerk’s pencil stopped for about a second and then went on.
 
-“I want to know who wrote in the two inches,” he said, and heard how poor it sounded against the noise of water.
+“That is the first exact figure this office has ever had,” said Yusuf Adeyemi from the end of the table, where he had been standing with his coat on for about nine minutes without either of them noticing. “It took seventy-two months to get one, and there is not a single other figure in this building that comes out even, and I have checked all of them.”
 
-“We do not ask that here,” she said. “A person brings a thing to be written and it is written and taken away, and that is the whole of it.”
+“You were checking them.”
 
-He did not press her, because pressing her would have been a second question and he had no standing for a first, and he stood a while watching the work, and what he wanted, plain and unadorned, was for that copy to be the only one, and he knew before he had finished wanting it that it was not.
+“I check them every quarter,” said Yusuf Adeyemi. “It is a thing I do instead of having an opinion about what goes at the foot of a sheet, and I would rather do that than the other thing, and it has been nine months and it is the whole of what I do in here.”
 
-On the way out he stopped at the door and looked back at the ledger on the middle table, closed, with a pencil across it, and he understood, with a clarity that hurt his chest, that the first instrument in Ostara that could hold what was in those two inches was not in his building at all.
+He came over and looked at the four words in pencil and did not touch the sheet.
 
-He walked home through the cold with the copy against his ribs and the dread back where it belonged, under the hope, holding it down.
+## What A Clerk May Be Given
 
-*Two thousand one hundred and sixty days. Less two thousand one hundred and twenty-nine, the thirtieth of December, is thirty-one. Thirty less twenty-nine is one by the month count, because a month is thirty days and has no thirty-first, and the thirtieth is the last working day of the month and of the quarter.*
+“You may enter this,” he said to Wenna Raut.
 
-*Two thousand one hundred and sixty is thirty times seventy-two with nothing left over, which is seventy-two months exactly, on the first of February of year seven, and it is the first exact figure that office has ever printed.*
+She read it again without touching it.
 
-*Less two thousand one hundred and twenty-six, the twenty-seventh of December, is thirty-four. Less two thousand and ninety-two, the twenty-third of November, is sixty-eight. Less two thousand and seventy-eight, the ninth of November of year six, is eighty-two days the shutter at the far end of the yard off the Vestry has stood bare.*
+“No,” she said.
+
+“Why not.”
+
+“I may enter what I am given,” said Wenna Raut, “and you have given me a piece of paper, and a piece of paper is not a claim. There is no form in this building that takes paper. There is a form that takes what a person says happened to them, and this has no person on it and no thing that was done to anybody and no hour and no place anybody could be sent to check.”
+
+“There is a date.”
+
+“There is a date and a street name and no body,” said Wenna Raut. “A date and a street name is where a person goes to find out what happened. It is not a claim. If I put it in the second column then anybody who reads that column in four years will want to know who wrote it and why, and I will have entered something I cannot improve and cannot take back.”
+
+He knew that.
+
+He had known it at about eleven o’clock the night before, in a room on two floors above this one, and he had come down the stair this morning anyway with the paper in his hand and had put it in front of the only person in this city who is allowed to say yes to something.
+
+“Nobody could tell me who wrote it,” he said.
+
+“Then nobody can enter it,” said Wenna Raut, “and that is not a failure of the form, that is what the form is. I cannot be asked to hurry and I cannot be asked to try and I have not tried.”
+
+Yusuf Adeyemi did not say anything at all, which was the correct thing for a Registrar of Unrecorded Merit to do about a man who has just handed a clerk a sheet of paper and asked for it to be made into a record.
+
+## Dread, And Then Something Worse
+
+The dread went off first and something worse than it came up underneath.
+
+Somebody had sat down at a table with a pencil in the second month of this year and copied the bottom of that sheet out by hand, and had gone to the two inches, and had written a month and a lane in them.
+
+At home. At a kitchen table. In the evening. And had not told one person.
+
+For four months he had believed that those two inches were shut. He had believed it the way a man believes a thing he has not tested, which is to say entirely, and the only thing standing between him and a piece of information was a belief.
+
+He wanted the paper back. He wanted it more than he had wanted anything since the seventh of July, and he wanted it for an hour, and then he found out that what he wanted was not the paper.
+
+He wanted somebody to have put something in them on purpose.
+
+That was the want, and he had no instrument for it whatever, and the tray by the door was empty and would be empty again tomorrow.
+
+## The Pencil
+
+At about eleven he looked at the sheet properly, because he could not stop looking at it.
+
+The paper was a kind of heavy rag that a laundry keeps for folding on, and it had been folded and unfolded about nine times, and the copy was done in an ordinary pencil and it was good and it was quick.
+
+The pencil had been stubbed. It had about an inch of lead in it and the end of it was worn flat on one side the way a pencil gets worn when it is held in one hand by somebody who is not thinking about the pencil.
+
+He turned the sheet over with the edge of a ruler and the back of it was blank.
+
+“There is no address on it,” he said. “Not a house, not a room, not a counter. Nothing but a month and a lane.”
+
+“That is why I cannot enter it,” said Wenna Raut.
+
+“No. It is why I cannot find out who wrote it.”
+
+He put the ruler down and looked at the two inches and understood that a person who cannot read cannot tell you what paper it is.
+
+Not a name, not an address, not a counter where a thing was done, not a division, not a quarter. A month and a back lane, in pencil, by a hand that cannot be traced, on a sheet that cannot be traced, put there by a person who has told nobody at all.
+
+And two inches at the foot of the most widely read sheet in this city cannot be filled by anybody, in any hand, out of any of the rooms in this building, and there is no instrument in Ostara behind that and there never has been one.
+
+*Two thousand one hundred and sixty days. Less two thousand one hundred and twenty-nine, the thirtieth of December of the sixth year, is thirty-one, and a month is thirty days with no thirty-first, and the first of February of the seventh year is the first day of a year and is six times three hundred and sixty exactly.*
+
+*Thirty days multiplied by seventy-two months is two thousand one hundred and sixty days, and that is seventy-two months with nothing left over, and it is the first time in six years that a figure in this building has come out even. The head of the standing sheet stands at eight hundred and fifty-two and has not moved since the thirtieth of March of the fifth year and is unmoved across eight sheets, and the second column has two lines in it.*

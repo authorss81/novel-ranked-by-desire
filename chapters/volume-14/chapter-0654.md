@@ -1,79 +1,147 @@
 # A Clerk May Only Enter
 
-Six days had gone since Beatrix Halm wrote down a number she had carried on her fingers four years.
+Six days had gone since a woman with a bad ear had put a sheet of her own writing at the bottom of a tray in a division building and told him that it was going to be read twice and that one of the two readings was the true one.
 
 Two thousand one hundred and seventy-four was the fifteenth of February and the twenty-first is day two thousand one hundred and eighty, and two thousand one hundred and eighty less two thousand one hundred and seventy-four is six, and twenty-one less fifteen is six by the month count.
 
-The room off a third court was quiet all morning, with light coming thin through the high window and dust in it, and Yusuf Adeyemi sat at the end of the table with his coat on, and Wenna Raut sat at the side with her book open and her pencil ready, and Lin Hao stood by the table with a folded slip in his hand and a sentence on it about nine words long.
+He got there at about ten and he had the sentence written out on a sheet of his own and he had written it four times and the four versions were the same sentence with the commas moved.
 
-He had drafted it the night before at his own table, crossing out and writing again, because he wanted one sentence onto the foot of the next sheet that would make the copies sayable, so that a person who brought a piece of pencil paper to that office would not be told that nothing had been given to her.
+He stood outside the door of the room off a third court for about a minute and a half.
 
-He wanted it badly enough that his hand shook when he unfolded the slip.
+## Paper Brought Here Is Held
 
-## The Sentence That Is Not A Claim
+It said, in his own hand, on a sheet of nothing:
 
-“Read it,” said Wenna Raut.
+*Paper brought here is held and is not refused.*
 
-He read it out, plainly, without improving it in the reading.
+Nine words. It would go at the foot of the sheet under the six lines, in the office’s hand, and it would go out at four on the thirtieth in a month, and about nine people a week in this city would get to the bottom of it and read it.
 
-It said, in his own words, that the office receives paper from houses and holds what it is given.
+It is true, as far as it goes. Paper brought here is held. The bundle takes what it is given. Nothing has ever been refused at that counter because there is no instrument in this city that refuses anything.
 
-Wenna Raut listened to the end without writing.
+He went in.
 
-Then she put her pencil down, the way a woman puts a pencil down when she has finished with it for the moment, not flat, but aside, and looked at him directly.
+## A Sentence Is Not A Claim
 
-“I cannot enter it,” she said.
+He put the sheet on the table in front of Wenna Raut.
 
-“Why.”
+She put her pen down, squared the sheet against the edge of the table, and read what he had given her without touching it.
 
-“Because what I may enter is a claim,” she said. “You have given me a sentence, and a sentence is not a claim. The second column takes an entry and an entry is a thing that is a fact about a person, and what the office receives is not a fact about a person. There is no form on which an office explains itself. There is no column for what an office has been handed. The bundle takes what it is given and nobody is obliged to open it.”
+“That is a sentence,” she said.
 
-Lin Hao stood very still.
+“It is.”
 
-He had known it before she said it, the way a man knows a door is locked before he tries it, and hearing it said out loud was worse than knowing it, because knowing it is a thing a man can argue with and hearing it from a clerk is an entry.
+“I cannot enter a sentence,” said Wenna Raut. “I may enter a claim.”
 
-“Say the four true things,” said Adeyemi from the end of the table, quietly, because he had promised nothing and was there to witness.
+A claim is a thing a person says happened to them. It has to come in with the person or out of the person’s mouth, and every field for one is down the left side of that form.
 
-Wenna Raut counted them on her fingers, without pleasure and without unkindness.
+“There are fields for a date and a place and an hour and a thing that was done and a person who was there or was given it.”
 
-“One, I enter the exchange exactly as given and cannot improve it. Two, I cannot be asked to hurry. Three, the head does not move. Four, you are the only person that office may ask, and asking is a thing you are allowed to do, and nobody has told you that you are not.”
+“There is not one column anywhere between here and the works department with a space in it for a sentence,” said Wenna Raut. “And if there were, what goes in it is a thing about a person, and this is not about a person.”
 
-None of them was comfort, and all of them were true, and Lin Hao felt horror come up in him, cold and clean, while he held the pen, because the sentence he had wanted to print was the one already at the foot of that sheet in the office’s hand since the office opened, saying where the Register has nothing it has not been given anything, and it had just stopped being about the people it was written for.
+“The office is a thing. The office can be handed something. That is a fact and not an opinion.”
 
-It was now a fact about the building that printed it.
+“It is a fact about a building and there is no form in this city on which a building may say a fact about itself,” said Wenna Raut, “and there has not been one in six years and there was not one in the four years before this office existed, and I have looked, and looking is not permitted as a reason for refusing an entry.”
 
-He understood the rule perfectly.
+She put the sheet down and squared it to the edge of the table, which is what she does with everything.
 
-He also understood that about four hundred people now knew precisely where to bring a thing and precisely what would happen when they did, which was that a person would be kind to them at a counter and say no in a room and there would be nothing on the sheet about it.
+“I am going to enter the exchange exactly as given. I have had a sheet given to me by the only person this office may ask and I have read it and I cannot enter it, and that is what the book will say tomorrow, in my hand, because I cannot improve it and I cannot be asked to hurry.”
 
-## Nothing At All, Done Correctly
+## Four True Things
 
-He sat down on the second chair, because his legs would not hold him standing, and put his hands on the table, palms down on the wood but not flat, fingers spread, and breathed.
+Yusuf Adeyemi had been at the end of the table with his coat on since about half past nine and he had read it upside down without moving his head.
 
-“What does the office do instead,” he said at last.
+“I am going to say four things,” he said, “and none of them is whether you were right.”
 
-“Nothing at all,” said Wenna Raut. “And nothing at all is correct.”
+“All right.”
 
-Adeyemi nodded once, slowly, and his face was grave and tired, and Lin Hao saw that the older man had known this all morning and had come to sit at the end of the table so that somebody would be there when it landed.
+“The first is that there is no column for what an office has been handed, on this form, on the return, on the schedule, or on any of the nine hundred lines in a corridor nine streets from here, and I have been the Registrar of this office for about eleven months and there is no column.”
 
-“I wanted somebody to refuse me,” said Lin Hao, and heard his own voice shake. “I wanted you to say no to me so that I would stop. Nobody does.”
+He turned the sheet round so it was the right way up for himself and did not move it afterwards.
 
-“Nobody can,” said Wenna Raut. “Refusal is an entry and an entry is a thing I make about a claim. You brought me a sentence. There is nothing to refuse.”
+“The second is that the bundle takes what it is given and nobody is obliged to open the door of the room it goes into. That is not a rule anybody wrote. It is a thing that has been true for as long as the office has existed,” said Yusuf Adeyemi.
 
-The drawer in the side of the table stood open and empty, the way it had stood since the fourth of February of the first year, and he looked at it and looked away, because looking at it felt like looking at his own want with the cover off.
+“I have looked for a paper that says it and there is not one,” he said, “and it is the reason that sentence of yours is true, and it will go on being the reason it is true whether or not it is printed.”
 
-He thought of the copy in his coat with a date and a place in two inches of nothing, and of the woman in a laundry with a ledger on the middle table, and of Beatrix Halm’s number folded in his pocket with a date against it, and he felt shame and anger together, hot behind his eyes, and did not let either out, because letting them out in that room would have been a claim on two people who had done nothing wrong.
+He held up two fingers.
 
-“I am the only person who knows,” he said quietly. “About nine people in the city read that sheet to the bottom in a week, and on the first of January they will read a sentence that is no longer about them, and I have known it since this morning.”
+“The third is that an entry can be made and an entry cannot be taken back. I told you that in November and it has not changed and it is not going to change, and the reason I say it to you in a room with a sentence on the table is that the only way that sentence ever gets said in this city is by being printed, and printing is a thing that cannot be undone.”
 
-Adeyemi stood and put his hand on Lin Hao’s shoulder a moment, heavy and warm, and took it away.
+“And the fourth.”
 
-“Then you carry it until March,” he said. “That is what asking buys. Not an answer. The carrying.”
+“You are the only person this office may ask,” said Yusuf Adeyemi. “That has been true since I came and it will be true after me. Which means there is nobody in this city who can tell you that you are not allowed to do a thing you have come in here to do, and nobody who can tell you that you are wrong, and I have been waiting about four months for you to work that out.”
 
-Lin Hao folded the slip with the nine words and put it in his pocket beside Beatrix Halm’s figure, two pieces of paper that could not be entered, and went out up the stair into the cold noon with dread in his chest like a stone, and underneath it a want he did not name out loud, to be stopped by somebody, anybody, before March.
+“I worked it out in November.”
 
-Nobody stopped him.
+“Then you have had four months of it and you have used it to write me a nine-word sentence on a sheet of nothing,” said Yusuf Adeyemi, “and I am not going to raise my voice about it, and I would be permitted to, and I would like you to notice that I did not.”
 
-*Two thousand one hundred and eighty days. Less two thousand one hundred and seventy-four, the fifteenth of February of year seven, is six. Twenty-one less fifteen is six by the month count, because a month is thirty days and has no thirty-first.*
+## A Want He Would Not Say Out Loud
 
-*The drawer in the side of the table stands open and empty still. The second line at the foot says in his own words what it has said since the office opened, and no verbatim printing stands here.*
+He stood there for a while with his hand on the edge of the table.
+
+He wanted somebody to refuse him.
+
+That was the whole of it, and it is the sort of want a man in a rank-one coat with a spent chest is not supposed to have, and it is the first one he has had in about three years that is not about a number.
+
+Nobody in that building was going to refuse him. Wenna Raut could not, because refusing is an improvement and improvements are not permitted. Adeyemi had said four true things and was not going to be asked a fifth, and had said so without being asked.
+
+“If I put it in,” he said, “it will be printed, and if it is printed then it is in the office’s hand, and if it is in the office’s hand then in four years somebody will be able to point at it and say the office said so.”
+
+“I will point at it,” said Wenna Raut, “and I will say that you put it there and I entered it exactly as given, and that is the difference between those two sentences and it is the only thing I have got.”
+
+“I know the difference.”
+
+“You know the difference and you came down a stair with it in your hand,” said Wenna Raut, “and I have entered nine hundred and forty of these since I came to this room and I have not improved one of them, and I would like to go back to my column.”
+
+## The Office Does Nothing At All
+
+He picked the nine-word sentence up off the table.
+
+He could have put it in the book. He could have walked out with it and found a clerk in another room and asked her, and he could have asked four people in this building instead of two, and every one of them would have said the same thing, and the one thing they would all have been entitled to say was no.
+
+He put it in his coat instead.
+
+That is the action. On the twenty-first of February of the seventh year the office of the Register of Unrecorded Merit did nothing at all, and doing nothing at all was correct, and he did it with a nine-word sentence in his coat.
+
+And it is also the answer.
+
+There are now, by the reckoning of a man at a desk under a window who spent one question and is not going to spend another, about nine houses in this city where the foot of the twenty-fourth sheet is being copied out by hand.
+
+The first person to bring one to this office came through the front door in a month and was not entered. Forty-one sheets went through that door in that month and at least twelve of them were the foot of the page written out longhand.
+
+So about four hundred people now know exactly where to bring a thing.
+
+And they know exactly what will happen when they do. A person will be kind to them at a counter. A clerk in another room will say that a sheet of paper is not a claim. Nobody will be unkind to them and nobody will be unkind to him either, and there is not one line on the most widely read sheet in this city that says any of it.
+
+The page does not say what this office is.
+
+It says what an unrecorded thing is, and what a Register with nothing in it has not been given, and that any number a person sets down here may be one they made up.
+
+He had spent five years building a page that would survive him and the page could not carry one sentence about the building that printed it.
+
+## On The First Of January
+
+At about half past eleven he stopped at the door and looked back at the two of them.
+
+“About nine people a week get to the bottom of that sheet,” he said.
+
+“About nine,” said Yusuf Adeyemi. “One of them is me.”
+
+“Read the second of the four again.”
+
+“The second of the four says that where the Register has nothing in it then nobody has given it anything,” said Yusuf Adeyemi, “and it has been at the foot of that sheet since before either of us came, and it is the truest sentence on it, and it is about people who have gone to a counter and been refused and gone away again.”
+
+He straightened a pencil that did not need it.
+
+“On the first of January nine people will read it to the bottom,” he said, “and they will be reading it about a building, and not one of them will be able to tell you that is a change, because there is nothing on that sheet to have changed.”
+
+“I know.”
+
+“You have known it since about eleven o’clock this morning,” said Yusuf Adeyemi, “and you are the only person in this city who knows it, and there is no column for knowing.”
+
+*Two thousand one hundred and eighty days. Less two thousand one hundred and seventy-four, the fifteenth of February of the seventh year, is six, and twenty-one less fifteen is six by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and two days, which is three months with twelve days after them, and a shutter at the far end of a yard has had nothing on it for all of them, and about two thousand people a day slow down at nothing.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is four hundred and sixty-two days, which is fifteen months with twelve days after them. It is the third of four sentences at the foot of a sheet, it lets any person in this city set down a number of their own invention, and about nine people a month have used it to make copies that cannot be argued with.*
+
+*The head stands at eight hundred and fifty-two across eight sheets. The second column has two lines in it. The drawer under this table is open and empty and has been since the fourth of February of the first year.*
