@@ -1,3 +1,50 @@
+# VOLUME 12 BATCH 0005 IS WRITTEN. CHAPTERS 591–600 ARE ON DISK. **SPINE 1,695–1,769 MONOTONIC AT ZERO VIOLATIONS. EVERY PRINTED INTERVAL DERIVED FROM DAY NUMBERS WITH OPERANDS AND SUMMED. THE 595 DECISION AND THE 594 SCENE ARE AS CARDED. BOTH BOXES BLANK AT THE END OF 600. `outline/ending.md` UNTOUCHED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Full narrative at the head of `state/current.md`.
+
+## 0a. THE SPINE, 591–600, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE IN THE COMMIT THAT WROTE THEM
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1), where Oct 240, Nov 270, Dec 300.**
+
+```
+591  16 Oct y5   4 x 360 + 240 + 15 = 1695    6 after 590  (1695 - 1689 = 6)
+592  21 Oct y5   4 x 360 + 240 + 20 = 1700    5 after 591  (1700 - 1695 = 5)
+593  27 Oct y5   4 x 360 + 240 + 26 = 1706    6 after 592  (1706 - 1700 = 6)
+594   3 Nov y5   4 x 360 + 270 +  2 = 1712    6 after 593  (1712 - 1706 = 6)   SCENE
+595   9 Nov y5   4 x 360 + 270 +  8 = 1718    6 after 594  (1718 - 1712 = 6)
+596  13 Nov y5   4 x 360 + 270 + 12 = 1722    4 after 595  (1722 - 1718 = 4)
+597  23 Nov y5   4 x 360 + 270 + 22 = 1732   10 after 596  (1732 - 1722 = 10)
+598   3 Dec y5   4 x 360 + 300 +  2 = 1742   10 after 597  (1742 - 1732 = 10)
+599  20 Dec y5   4 x 360 + 300 + 19 = 1759   17 after 598  (1759 - 1742 = 17)
+600  30 Dec y5   4 x 360 + 300 + 29 = 1769   10 after 599  (1769 - 1759 = 10)   QUARTER-END
+MONOTONIC, 0 VIOLATIONS. Cross-checked from 4 x 360 = 1440: Oct 1680-1709 · Nov 1710-1739 · Dec 1740-1769.
+```
+
+**OTHER FIGURES WITH OPERANDS:** 1,769 − 1,679 = **90** (30 + 30 + 30, nineteenth to twentieth) · 1,769 − 1,409 = **360** (one year since the sixteenth) · 1,769 − 1,589 = **180** (half a year since the eighteenth) · 1,769 − 1,695 = **74** · 1,769 − 1,718 = **51** · 1,769 − 1,722 = **47** · 1,769 − 1,742 = **27** · 1,769 − 1,759 = **10** · office 1,769 = 30 × 58 + 29 (fifty-eight months, twenty-nine days) · lane 1,769 − (−118) + 1 = **1,888 mornings, printed once at 600 and nowhere else in 551–600.**
+
+## 0b. THE SCENE AT 594, MEASURED THREE WAYS, WITH THE PROBE BANK AND METHOD
+
+**TESSA OKONKWO. Last scene 515; 594 − 515 = 79 chapters; 594 − 584 = 10 chapters. AXIS BROKEN IS THE VOICE, carried by the ward's rule and named by nobody. No clock inside the scene and no hour counted in it. No compulsion/sedation/exhaustion/toxin/restraint/psychic contact/trance/seal. Both adults. Fast yes, enjoyable to her. Violence and sex in separate registers. §4d read before planning; her stippling kept with no new mark; 515's room/habit reworded to zero twelve-grams shared; Alma/Mavis/Agnete/Beatrix/Ines/Hanneke stagings absent.**
+
+**594 HAS TWO `##` HEADINGS — *The Door Shut* and *The Fraction Taken* — AND THE CLOSING BOUNDARY IS THE SECOND HEADING WITH NO `##` AFTER IT, WHICH IS STATED.**
+
+| Definition | 594 Tessa (this batch) |
+| --- | --- |
+| (1) opening `##` to closing `##`, exclusive of both heading lines | **725** |
+| (2) scene section INCLUSIVE (both headings to footer start) | **1,114** |
+| (3) scene section EXCLUSIVE (no heading lines, to footer start) | **1,106** |
+| whole file | **1,824** |
+
+**PROBE BANK SET B (unambiguous twenty, substring, case-insensitive):** cock · cunt · tits · nipples · areola · penis · vagina · labia · clitoris · semen · ejacul · thrust · erection · orgasm · moan · gasps · panted · spread · undress · mouthful. **591 0 · 592 0 · 593 0 · 594 4 (all inside the scene section) · 595 0 · 596 0 · 597 0 · 598 0 · 599 0 · 600 0.** Two draft hits repaired on the page before commit: 594 *settled* → *lowered*, 595 *spread* → *laid out* and *settle* → *come down*.
+
+**594 IS INSIDE NEITHER GUIDE BAND EDGE AT 1,824 — IT IS IN THE 1,800–2,700 BAND. No length justification owed.** The eight below band are as recorded at `state/current.md` §0a.
+
+## 0c. WHAT 591–600 ADDED AND WHAT MAY NOT BREAK
+
+- **THE STANDING SHEET CARRIES TWO NEW SENTENCES AT ITS FOOT IN THE OFFICE'S HAND:** that a figure may be made up on purpose with Emil Brack's name under it, once a quarter, and the two wall words with their meaning plain beside them.
+- **BRACK IS ANSWERED, NOT DEFEATED:** right about every fact, thanked by nobody, diminished nowhere, eleven books plus a twelfth, about a quarter ringed with reasons.
+- **BOTH BOXES STILL BLANK:** left a figure, right a standing, blank since the eighth of October of the first year; figure refused at 573, standing refused for Berta Skell at 578.
+- **TWENTIETH SHEET:** 30 December, 852 unmoved, two lines in the second column, nothing in since the eleventh of March, ninety days after the nineteenth.
+- **`settle` 0 · account figure 0 · no floor · `right temple` 0 · `cuticle` 4 unchanged (329, 340, 404, 446) · Mavis Rooke 0 in 591–600 (587–588 only) · 0 weekday names · 0 year numerals · 0 announced ages · 0 system panels · 0 bold · asterisks even · 0 over-90 / 0 over-120 · quote parity even · one `#` each · all ten end 0a.**
+
 # VOLUME 12 BATCH 0004 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 581–590 ARE ON DISK. **THE SPINE DID NOT MOVE: 581–590 ARE 30 AUGUST – 10 OCTOBER, SPINE DAYS 1,649 – 1,689, MONOTONIC AT ZERO VIOLATIONS, AND THE FOUR ANCHORS 584 = 1,663 / 586 = 1,679 / 589 = 1,687 / 590 = 1,689 ARE UNCHANGED. THE MOVEMENT PROMISE IS *TWO* DAYS AND NOT FOUR. FOUR BLOCKING AND SEVEN SHOULD-FIX CONTENT DEFECTS FROM `logs/batch-0004.review.log` ARE ALL REPAIRED, PLUS THREE FOUND DURING THE REPAIR. NO CHAPTER WAS RESTARTED, NO EVENT WAS MOVED, NO DATE WAS RENUMBERED, NO CHAPTER OF 571–580 WAS TOUCHED, AND `outline/ending.md` IS UNTOUCHED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Full narrative at the head of `state/current.md`.
 
 ## 0a. THE FOUR RE-DERIVED FIGURES THIS REPAIR CHANGED, EACH WITH ITS OPERANDS

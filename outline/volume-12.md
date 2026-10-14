@@ -685,7 +685,107 @@ SPINE, 551-600, RE-DERIVED 14 OCTOBER 2026 FROM THE TWO FORMULAS ABOVE
 
 **Promise:** a man in a delivery coat has wanted one line in the office's hand once a quarter, saying that he makes the figures up, since the twenty-seventh of April of year three, and the answer is going to be given, and the two words at the foot of a wall are going to be put where a city already reads.
 
-**591 — THE OFFER AGAIN IN OCTOBER.** **592 — EVERY FIGURE HE HAS INVENTED.** **593 — A QUARTER OF THEM ARE HIS.** **594 — THE WARD AND THE FRACTION. 3 November. SCENE.** **595 — THE FIRST LINE IN THE OFFICE'S HAND.** **596 — IT GOES OUT AT FOUR.** **597 — A CITY READING TWO SENTENCES.** **598 — THE NAME OF THE MAN WHO MAKES THEM UP.** **599 — THIRTY DAYS OF DECEMBER.** **600 — A SENTENCE A CITY CAN READ. 30 December, quarter-end. THE LAST CHAPTER.**
+**THE TEN CARDS BELOW WERE WRITTEN AGAINST THE PAGE ON 14 OCTOBER 2026, IN THE COMMIT THAT WROTE 591–600. NOTHING BELOW IS PLAN. EVERY INTERVAL IS RE-DERIVED FROM THE TWO FORMULAS IN §5a AND PRINTED WITH ITS OPERANDS ON THE PAGE ITSELF.**
+
+### CARD 591 — THE OFFER AGAIN IN OCTOBER · 16 October, year five · spine day 1,695 · 1,695 − 1,689 = **6 days after 590**
+
+- **POV AND LOCATION.** Third person, close. The wall end of the lane at a quarter to seven, then the wall end to end, then the branch at night.
+- **IMMEDIATE GOAL.** Hear the offer again before the quarter turns without answering it on the spot.
+- **RESISTANCE.** Brack is right about every fact, profits nowhere a person loses, and has carried the standing since the twenty-seventh of April of the third year. The subtraction he offers is wrong by one and the quarter is right.
+- **MAJOR TURN.** The offer is restated in October with seventy-four days to the quarter: every invented figure and the method and about a quarter off nothing, for one line in the office's hand, once a quarter, with his name under it. He says he will come at a quarter to seven and says it twice.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Anger at relief, then dread. The rota holds him without asking. He walks the wall end to end and sees paint and chalk as one thing.
+- **REQUIRED CONTINUITY FACTS.** 1,695 − 1,689 = 6 · nineteenth sheet 852 with two in the second column, nothing in since the eleventh of March · twentieth sheet the thirtieth of December, 1,769, and 1,769 − 1,695 = 74 · rank one, branch night shift, four names, no band, no figure · no day of the week, no year numeral, no account figure.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: he will come on the twenty-first and the twenty-seventh, and the books will be out.
+
+### CARD 592 — EVERY FIGURE HE HAS INVENTED · 21 October, year five · spine day 1,700 · 1,700 − 1,695 = **5 days after 591**
+
+- **POV AND LOCATION.** Third person, close. The lane at a quarter to seven, then the shop off Cordwain with the press and the stone.
+- **IMMEDIATE GOAL.** Get the method written where he can see it and not said over a line.
+- **RESISTANCE.** Three kinds: read in line, read out of line, and decided off nothing. About nine a morning over three years, about eight thousand kept in eleven books with date, weather and line. No hesitation in the chalk.
+- **MAJOR TURN.** He sees three figures made in front of him, two read and one decided because the line needed a head, all three paid for. The compositor reads the proof upside down and says the door and the list, and tells him to give the line away exactly or not at all.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Cold admiration close to fear. He came to refuse and found about eight thousand reasons to answer.
+- **REQUIRED CONTINUITY FACTS.** 1,700 − 1,695 = 5 · about a quarter ringed, every ringed one with a reason in the margin · Brack right throughout · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: the books come out on the twenty-seventh.
+
+### CARD 593 — A QUARTER OF THEM ARE HIS · 27 October, year five · spine day 1,706 · 1,706 − 1,700 = **6 days after 592**
+
+- **POV AND LOCATION.** Third person, close. Two rooms over the shop, eleven books on the table, then the rota nights.
+- **IMMEDIATE GOAL.** Get a number he can hold: how many decided off nothing.
+- **RESISTANCE.** About two thousand of about eight thousand ringed, running at about a quarter, five leaves forward and five back all the same. Exact, not honest in the office's sense.
+- **MAJOR TURN.** He promises the answer before the quarter goes out, in the office's hand on the standing sheet once a quarter with the name under it, or not at all. Sixty-three days to the quarter: 1,769 − 1,706 = 63.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** The reckless part decides before the ward. The rota holds without asking. He sees paint and chalk as one thing for the first time in five years.
+- **REQUIRED CONTINUITY FACTS.** 1,706 − 1,700 = 6 · 1,706 − 1,695 = 11 · 1,769 − 1,706 = 63 · rank one throughout · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook into 594: the rest of him is waiting for the ward.
+
+### CARD 594 — THE WARD AND THE FRACTION · 3 November, year five · spine day 1,712 · 1,712 − 1,706 = **6 days after 593** · 594 − 515 = **79 chapters** · 594 − 584 = **10 chapters** · **THE BATCH'S SCENE**
+
+- **POV AND LOCATION.** Third person, close. The ward off Cordwain and the small room off it with a cot, a chair, a lamp on a stand, a blanket and a basin.
+- **IMMEDIATE GOAL.** Have her take something off him before he writes.
+- **RESISTANCE.** **THE AXIS BROKEN IS THE VOICE**, carried by the ward's rule and named by nobody: nobody on a rota says out loud what they are carrying, and the woman who takes it off people does not tell them and they do not ask. So the chapter is carried by people not saying one thing in a room where they are saying everything else. No clock inside the scene and no hour counted in it.
+- **MAJOR TURN.** She asks plainly as a woman, not as a doctor. Fast yes. She takes him in her mouth and then takes him inside her, sets the pace and changes it twice, talks of ward and rota and coal alongside it, and takes the fraction without naming it.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Enjoyable to her throughout, unhurried, unhidden. He goes down the flights lighter. Nothing that happened in the room goes on any record.
+- **REQUIRED CONTINUITY FACTS.** **§4d read before a body was planned: her stippling kept, no new mark, no grey, no temple, no ink, no hand-mark, no eye** · 515's room and habit reworded until zero twelve-grams shared · **no compulsion, no sedation, no exhaustion, no toxin, no restraint, no psychic contact, no trance, no seal; both adults; violence and sex in separate registers** · no character names a scene, an axis, a chapter, a volume, a page or her own performance · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A completed beat and a hook: he has what he needs to write, and is told not to thank her and not to ask what was taken.
+
+### CARD 595 — THE FIRST LINE IN THE OFFICE'S HAND · 9 November, year five · spine day 1,718 · 1,718 − 1,712 = **6 days after 594** · **THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS**
+
+- **POV AND LOCATION.** Third person, close. The room off a third court, the standing sheet, Adeyemi, Wenna Raut.
+- **IMMEDIATE GOAL.** Write it before stopping himself.
+- **RESISTANCE.** The space at the foot of the standing sheet has been empty since the first of February of the first year. Adeyemi names the closing and the cost out loud and does not stop him.
+- **MAJOR TURN.** He writes in the office's hand that a figure in Ostara may be a figure somebody made up on purpose, that the standing sheet is printed by the office itself, with the name Emil Brack under it. Then the two words off the wall with their meaning plain beside them, because a notice that says a figure may be invented and does not say what the second line means is lying.
+- **EMOTIONAL AND PRACTICAL CONSEQUENCE — WHAT IT CLOSES.** The option of the office being the only honest instrument in Ostara, never in writing anywhere, true until that morning. **WHAT IT COSTS.** Every party with a real claim now stands beside an admitted inventor in the same hand, with no instrument to tell them apart, and he gave that away. Brack is not in the room, is not thanked, is not diminished, is not wrong about any fact.
+- **REQUIRED CONTINUITY FACTS.** 1,718 − 1,712 = 6 · 1,718 − 1,706 = 12 · 1,769 − 1,718 = 51 · a clerk may only enter what she is given; no form for striking a line entered in one's own hand · both repainting boxes untouched and still blank · no day of the week, no year numeral, no account figure.
+- **ENDING HOOK OR COMPLETED BEAT.** A completed beat: the pen is down and it cannot be undone. He walks the wall to bear it.
+
+### CARD 596 — IT GOES OUT AT FOUR · 13 November, year five · spine day 1,722 · 1,722 − 1,718 = **4 days after 595**
+
+- **POV AND LOCATION.** Third person, close. The room off a third court at half past three, then the public desk in Cordwain, then the branch.
+- **IMMEDIATE GOAL.** Get it out clean at four without correcting anything.
+- **RESISTANCE.** The head stands at eight hundred and fifty-two, unmoved since the thirtieth of March; the second column has two lines; the foot has two sentences it never had. If a sheet can be read, it goes out.
+- **MAJOR TURN.** Wenna carries it at four because the ordinary carrier is down with a cough. About thirty through the passage in the hour, about nine stop, about eleven read to the foot by half past five, about four speak, none agrees with any other.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Relief and nausea side by side. The deadline passes and nothing can be called back. He draws on the ward's reserve.
+- **REQUIRED CONTINUITY FACTS.** 1,722 − 1,718 = 4 · 1,722 − 1,712 = 10 · 1,769 − 1,722 = 47 · about two hundred a week read one somewhere in Cordwain, about four in every thousand reach the bottom · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: the two sentences go round Cordwain without him.
+
+### CARD 597 — A CITY READING TWO SENTENCES · 23 November, year five · spine day 1,732 · 1,732 − 1,722 = **10 days after 596**
+
+- **POV AND LOCATION.** Third person, close, moving. Cordwain, the yard shutter, the lane end, three division corridors.
+- **IMMEDIATE GOAL.** Learn what a city does with a thing it can finally read.
+- **RESISTANCE.** One reader says the office cannot be trusted about four hundred and nineteen accounts; one says the office told the truth at last; one says the office told a lie about everything. All three are right to feel it. He does not go up the hill because he said in January he would not.
+- **MAJOR TURN.** The two sentences are in nine corridors, on the shutter, on the slate beside the paint. Brack: a sentence nobody argues with is a rule nobody chose. He is written down, not diminished.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Anger and affection together. Relief worse than fear. The sentence is used rightly without asking him.
+- **REQUIRED CONTINUITY FACTS.** 1,732 − 1,722 = 10 · 1,732 − 1,718 = 14 · chalk beside paint, neither covering the other · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: four versions by December.
+
+### CARD 598 — THE NAME OF THE MAN WHO MAKES THEM UP · 3 December, year five · spine day 1,742 · 1,742 − 1,732 = **10 days after 597**
+
+- **POV AND LOCATION.** Third person, close. The lane at a quarter to seven with frost, then the rooms with the twelfth book, then the wall.
+- **IMMEDIATE GOAL.** See what the name has done to the man.
+- **RESISTANCE.** About two of nine now look back at Brack, two more than in October. About four who walked away came back and paid. A landlord's man wants a court paper and is sent to the rent board because a slate is not one.
+- **MAJOR TURN.** Brack rules the morning into the twelfth book before the chalk dust leaves his cuffs, rings two of nine, writes the reason in the margin. He will write nine a morning tomorrow. He asked for nothing more and will not.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Envy close to joy: to say what a thing is before anybody asks and be paid anyway. The two empty boxes steady him like cold water.
+- **REQUIRED CONTINUITY FACTS.** 1,742 − 1,732 = 10 · 1,742 − 1,722 = 20 · 1,769 − 1,742 = 27 · both boxes blank since the eighth of October of the first year · Brack right about every fact, not thanked, not defeated · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: the quarter turns in twenty-seven days.
+
+### CARD 599 — THIRTY DAYS OF DECEMBER · 20 December, year five · spine day 1,759 · 1,759 − 1,742 = **17 days after 598**
+
+- **POV AND LOCATION.** Third person, close. Branch nights, the wall, the corridor board, an iced stair in Lamp Street, the public desk.
+- **IMMEDIATE GOAL.** Hold the month: get the twentieth sheet out at four on the thirtieth exactly as it is.
+- **RESISTANCE.** Short light, long lines, iced stair with sacks, a division paper asked and refused rightly, a lease-holder calling him coward without heat. Both boxes blank and holding like a door.
+- **MAJOR TURN.** He carries coal for the woman who reads everything twice and refuses the office twice and is right both times. The sheet with two sentences has been out thirty-seven days and nobody has written on it, because in nine years nobody ever has.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** Superstitious want admitted like a cough. Tessa's taking still in him, unspent. He dreams of ringed figures and wakes wanting the quarter clean.
+- **REQUIRED CONTINUITY FACTS.** 1,759 − 1,742 = 17 · 1,759 − 1,732 = 27 · 1,769 − 1,759 = 10 · about two hundred a week, about four in every thousand · no day of the week, no year numeral.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook: ten days to the twentieth sheet.
+
+### CARD 600 — A SENTENCE A CITY CAN READ · 30 December, year five · spine day 1,769 · **QUARTER-END** · **THE TWENTIETH SHEET** · **THE LAST CHAPTER** · 1,769 − 1,759 = **10 days after 599**
+
+- **POV AND LOCATION.** Third person, close. The room off a third court at ten in the morning, the foot of the ranks wall at ten to five, the lane end, the branch at six.
+- **IMMEDIATE GOAL.** Get the twentieth sheet out at four exactly as it is, without correcting anything.
+- **RESISTANCE.** The tray is empty because nothing has come in since the eleventh of March. The head stands at eight hundred and fifty-two, unmoved since the thirtieth of March. No instrument can move a line up or call a sheet back.
+- **MAJOR TURN.** The twentieth sheet goes out at four with eight hundred and fifty-two lines, about four hundred and nineteen accounts with an hour against each and no figure on any of them, two lines in the second column, and the two sentences at the foot in the office's hand. Ninety days since the nineteenth: 1,769 − 1,679 = 90, and 30 + 30 + 30 = 90. One year since the sixteenth: 1,769 − 1,409 = 360. Half a year since the eighteenth: 1,769 − 1,589 = 180.
+- **EMOTIONAL OR PRACTICAL CONSEQUENCE.** His verdict in his own notebook, standing, bucket at his feet: twenty quarter-ends, a standing sheet with a name under an admission, a wall a city can read, nine districts, eleven thousand with a rule he put there, rank one with no figure on the plate, four names, nights he asked for. Not hoped for and made. January shut like a chained book.
+- **REQUIRED CONTINUITY FACTS.** 552 sixteenth, 566 seventeenth, 576 eighteenth, 586 nineteenth, 600 twentieth · *entered:* eight hundred and fifty-two, unmoved · the phrase *count of deeds* nowhere from anybody right · both boxes blank since the eighth of October of the first year · about two hundred a week, about four in every thousand, about nine thousand under the wall because the trams go under it, about two thousand past the foot · office fifty-eight months and twenty-nine days: 1,769 = 30 × 58 + 29 · lane one thousand eight hundred and eighty-eight mornings: first morning day −118, 1,769 − (−118) + 1 = 1,888, printed once here and nowhere else in 551–600 · no day of the week, no year numeral, no account figure, Brack not defeated, Mavis not resolved, white tile maker unnamed.
+- **ENDING HOOK OR COMPLETED BEAT.** A hook past the volume: what comes off the shelf on the first of January he does not know.
 
 **THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS, AND IT IS NOT DEFEATING EMIL BRACK.** What he writes in the office's hand, on the office's own standing page, once a quarter, is a sentence no document in the history of this city has ever carried: **that a figure in Ostara may be a figure somebody made up on purpose, and that this is printed by the office itself, and here is his name.** **WHAT IT CLOSES: the option of the office being the only honest instrument in the city, which was never in writing anywhere and was true until this page. WHAT IT COSTS: every party with a real claim now stands on a public page beside a man who has admitted in the same hand that he invented his, and the city has no instrument to tell them apart, and he is the one who gave it away.** And the second line at the foot of the ranks wall is repainted on the same page, in a hand two thousand people a day cannot walk past without reading it, **because a notice that says a figure in this city may be invented and does not say what the second line means is a notice that is lying.** *May not:* let Brack be wrong about any fact; let Brack thank him; print the figure of the account; describe the ending as an ending; name a day of the week; resolve anything this volume has deliberately left open.
 

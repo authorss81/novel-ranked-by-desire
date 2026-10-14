@@ -1,5 +1,22 @@
 # Chapter Summaries
 
+## Volume 12, Batch 0005 — Chapters 591–600. THE SIXTEENTH OF OCTOBER TO THE THIRTIETH OF DECEMBER OF YEAR FIVE. **13,481 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT FIVE, *QUOTED*. THE SCENE AT 594 IS TESSA OKONKWO'S, SEVENTY-NINE CHAPTERS AFTER 515. THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS. THE TWENTIETH SHEET GOES OUT AT FOUR ON THE THIRTIETH OF DECEMBER. `outline/volume-12.md` §7'S MOVEMENT-FIVE CARDS WERE WRITTEN AGAINST THE PAGE IN THE SAME COMMIT. THE ONE NEXT PHASE IS `workspace/volume-12/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS. `state/complete.md` IS NOT CREATED.**
+
+| Ch | Day | Title | Words | What it did |
+| --- | --- | --- | --- | --- |
+| **591** | 16 Oct, y5 · 1695 · 1695 − 1689 = **6** after 590 | **The Offer Again In October** | 1,902 | Offer restated in October with seventy-four days to the quarter. He hears without answering, works the rota night, walks the wall end to end. Hook: books out on the twenty-seventh. |
+| **592** | 21 Oct, y5 · 1700 · 1700 − 1695 = **5** | **Every Figure He Has Invented** | 1,512 | Three kinds, eleven books, about eight thousand figures with about a quarter ringed. Compositor reads the proof upside down. He came to refuse and found reasons to answer. |
+| **593** | 27 Oct, y5 · 1706 · 1706 − 1700 = **6** | **A Quarter Of Them Are His** | 1,230 | About two thousand of eight thousand ringed with reasons. He promises the answer in the office's hand once a quarter or not at all. Sixty-three days to the quarter. |
+| **594** | 3 Nov, y5 · 1712 · 1712 − 1706 = **6** · **SCENE** | **The Ward And The Fraction** | 1,824 | **THE SCENE. TESSA OKONKWO, 79 after 515, 10 after 584.** Ward rule carries the voice; nothing said aloud about what is carried; she takes without telling and he does not ask. Fast yes, enjoyable to her. Body 725 exclusive / 1,114 inclusive / 1,106 exclusive-to-footer; Set B 4, all inside. |
+| **595** | 9 Nov, y5 · 1718 · 1718 − 1712 = **6** | **The First Line In The Office's Hand** | 1,461 | **THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS.** He writes that a figure may be made up on purpose with Brack's name under it, plus the second line with its meaning plain. Closes the only-honest-instrument option; costs every real claim standing beside an inventor. Brack absent, unthanked, undefeated. |
+| **596** | 13 Nov, y5 · 1722 · 1722 − 1718 = **4** | **It Goes Out At Four** | 1,039 | Goes out at four from the public desk. About nine stop, eleven read to the foot, four speak, none agrees. Deadline passes; nothing can be called back. |
+| **597** | 23 Nov, y5 · 1732 · 1732 − 1722 = **10** | **A City Reading Two Sentences** | 1,069 | Nine corridors, the shutter, the slate. Three readers, three true disagreements. He does not go up the hill. Written down, not diminished. |
+| **598** | 3 Dec, y5 · 1742 · 1742 − 1732 = **10** | **The Name Of The Man Who Makes Them Up** | 989 | Frost, the twelfth book ruled before the chalk dust dries, a court paper rightly refused. Both boxes blank. Twenty-seven days to the quarter. |
+| **599** | 20 Dec, y5 · 1759 · 1759 − 1742 = **17** | **Thirty Days Of December** | 981 | Nights, the iced stair in Lamp Street, thirty-seven days out with nobody writing on it. Want: the twentieth out clean. Ten days to go. |
+| **600** | 30 Dec, y5 · 1769 · 1769 − 1759 = **10** · **QUARTER-END** | **A Sentence A City Can Read** | 1,474 | **THE TWENTIETH SHEET.** Out at four with 852 unmoved, two lines in the second column, two sentences at the foot. Ninety after the nineteenth; a year after the sixteenth; half a year after the eighteenth. Verdict in his notebook; rank one; four names; nights he chose. Lane 1,888 mornings printed once with operands. Hook past the volume: January shut like a chained book. |
+
+**594 IS IN THE 1,800–2,700 BAND AT 1,824 AND NO JUSTIFICATION IS OWED BEYOND THE MEASUREMENT IN `state/continuity.md` §0b.** The eight below band are single-afternoon or single-street chapters that land clipped; none is padded and no finished scene is split.
+
 ## Volume index
 
 | Volume | Title | Chapters | Goal |

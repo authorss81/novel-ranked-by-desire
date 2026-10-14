@@ -1,3 +1,86 @@
+# VOLUME 12 BATCH 0005 IS WRITTEN. CHAPTERS 591–600 ARE ON DISK. **TEN FINISHED FILES. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED. THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS. THE NEXT AND ONLY PHASE IS `workspace/volume-12/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
+
+## THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE 591–600
+
+```
+FILES            50 files in chapters/volume-12/, 551..600, diff against seq 551 600 EMPTY.
+                 ONE # title line in every file. All ten of 591-600 end 0a.
+                 find chapters -name 'chapter-*.md' | wc -l -> 600.
+TITLES           grep -rh "^# " chapters/ | sort | uniq -d | wc -l -> 0 ACROSS ALL 600.
+                 The ten match outline/volume-12.md §10 by whole-line string: 10 OF 10.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 591 1,902 | 592 1,512 | 593 1,230 | 594 1,824 | 595 1,461
+                 596 1,039 | 597 1,069 | 598 989 | 599 981 | 600 1,474
+                 TOTAL 13,481. 594 IS THE SCENE AND IS IN BAND. Eight below
+                 band, none padded; reasons at state/current.md §0a.
+PARAGRAPHS       0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY.
+                 0 ODD QUOTATION-MARK PARAGRAPHS. Two over-length draft
+                 paragraphs split at sentence boundaries (599, 600 x2).
+META             §8's class PLUS our narrator|the author|the text|the prose|
+                 page [0-9]+|volume [0-9]+|in this (novel|book|story|chapter|
+                 volume|scene) PLUS \bthis (batch|volume|movement|chapter|book|
+                 novel|story|scene)\b PLUS chapter [0-9]+ PLUS the
+                 (reader|narrator|author) -> 0 ACROSS ALL TEN FILES.
+WEEKNAMES        Seven names, whole-word AND substring, across all ten -> 0.
+AGES             Nine probe forms plus bare aged PLUS since (i|he|she|they)
+                 (was|were) PLUS spelled-out and numeric years old -> 0.
+                 Agnete's forty-five not printed in this batch. Ruta Mielke 0/0.
+ARITHMETIC       Spine 1,695-1,769 re-derived by two methods sharing no
+                 constant, monotonic 0 violations. EVERY PRINTED INTERVAL
+                 DERIVED FROM THE SPINE WITH OPERANDS AND SUMMED, never copied
+                 from the prose it checks. Full list in state/continuity.md §0a.
+ANNIVERSARY      Both October anniversaries stay closed. Nothing happens on
+                 either in 591-600. The fuse is not re-lit. No second time.
+QUARTERLY        600 is the TWENTIETH sheet, 30 December, ninety after 586
+                 (1,769-1,679=90; 30+30+30=90). 552 sixteenth, 566
+                 seventeenth, 576 eighteenth, 586 nineteenth. entered: eight
+                 hundred and fifty-two, UNMOVED. count of deeds 0.
+ACCOUNT          8,1xx 0. two hundred and eleven thousand 0. settle 0 in every
+                 inflection (two draft hits repaired: settled->lowered,
+                 spread/settle->laid out/come down). NO FLOOR.
+RT               right temple 0 book-wide. cuticle 4 files unchanged
+                 (329, 340, 404, 446). ostho 0. nobody-thanks family 0 here.
+HEADINGS         One # per file. No turn-naming. No duplicate ##. No
+                 nothing/nobody/there-is-no headings. 594 closes on its
+                 second ## with no ## after it.
+MARKDOWN         Blockquotes 0. Tables 0. Rules 0. Fences 0. Bold 0.
+                 Asterisks even in all ten. SYSTEM PANELS 0 in ten chapters;
+                 volume spent one (0002), so THREE REMAIN, none used here.
+DUPLICATION      12-gram FIRST against every chapter in the book including
+                 the ten, then 11 and 8, every hit classified by hand.
+                 CANONICAL (stays): arithmetic stems, calendar rule, rota
+                 facts, clerk's rule, second-column shape, 419-accounts
+                 formula, office sentence, wall nine thousand with 489
+                 reason, Brack's facts, both-boxes history. BORROWED
+                 (rewritten before commit): 594's ward room + habit sentence
+                 (was 18 shared 12-grams with 515, now 0); 595's spread/
+                 settle verbs. DELIBERATE ECHO (kept): Brack's offer wording,
+                 the two foot sentences, Tessa's stippling as mark.
+                 BODIES/STAGINGS vs §4d: no new mark on any woman; Tessa
+                 stippling only; Alma seating nowhere; Mavis hand-flat
+                 nowhere; 546/554/564/574/584 stagings nowhere in 594.
+SCENES           ONE, at 594. Three definitions + probe bank printed in
+                 state/continuity.md §0b with closing boundary stated.
+                 Set B 0 in all nine non-scene chapters, 4 in 594 all inside
+                 the scene section. No second explicit passage anywhere.
+STILL OPEN       Lin Wei 0. B103 0. settle 0. account figure 0. right temple 0.
+                 Mavis Rooke 0 in 591-600 (587-588 only, 3 occurrences).
+                 Both boxes still blank. White tile maker unnamed. Second
+                 folio of 4,112 unopened. Ines's four questions unanswered.
+                 Sowe unforgiven, undiscussed. Brack answered, not defeated.
+VOLUME           Both boxes blank at end of 600. Figure box blank for the
+                 rest of the book. Lane 1,888 mornings printed once at 600
+                 with operands and nowhere else in 551-600.
+```
+
+## OPEN ITEMS, HEAD OF THE LIST. DEFECTS NONE OF WHICH IS THIS PHASE'S TO FIX
+
+**1 · `chapter-0553.md`:23 prints *multiplied by ten* for thirty years; it is thirty. Carried since batch 0001. One word, not this phase's.**
+**2 · `chapter-0570.md`:169 prints *a year and three months ago* for a yard that cannot be located. Carried since batch 0002. One clause, not this phase's.**
+**3 · *The sixth of March of the first year* against *the sixth of March of the fourth year* is unresolved; 584 asserts no year in its footer. The close owns it. No chapter of 591–600 prints a year against the sixth of March.**
+**4 · `logs/batch-0004.review.log` is a writer transcript, not a review; `logs/batch-0003.review.log` is absent. The close re-derives rather than inherits.**
+**5 · Word-count contraction from 575 stands as a live risk (see `state/current.md` §0a batch-0004 repair and §0a above). The close must judge leanness against completeness, not against a number.**
+
 # VOLUME 12 BATCH 0004 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 581–590 ARE ON DISK. **TEN FINISHED FILES, 17,543 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE REPAIR. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED. FOUR BLOCKING AND SEVEN SHOULD-FIX CONTENT DEFECTS REPAIRED, PLUS THREE FOUND DURING THE REPAIR. THE SEAM REPAIR STOOD. THE NEXT PHASE IS `workspace/volume-12/batch-0005/PROMPT.md`, CHAPTERS 591–600, MOVEMENT FIVE, *QUOTED*, WHICH IS THE LAST TEN CHAPTERS OF THE VOLUME. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
 
 ## THE GATE, RE-RUN BY COMMAND AFTER THE REPAIR, NOT ASSERTED
