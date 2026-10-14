@@ -4,6 +4,12 @@
 
 **THIS PHASE WROTE NO CHAPTER.** It read 550 files, re-derived every figure it could find a derivation for, re-ran every row of the live gate block at the head of `state/open-threads.md`, added the rows that block did not have, and recorded what it found. It applied three one-character markdown repairs and nothing else. `outline/ending.md` is untouched. `state/complete.md` is NOT created; the series is planned past 550.
 
+**CORRECTION OF 14 OCTOBER 2026, AFTER THE REVIEW OF THIS FILE — FIVE OF THIS FILE'S OWN COUNTS WERE LOW, AND NO FINDING CHANGED.**
+
+The review re-ran every mechanical claim in this file and confirmed all five arithmetic findings hold. It then found that **the file was right about the figures and wrong about how far they went**, in the same way four batch gates had already been wrong about the figures themselves. Corrected in place, with the corrections left visible rather than tidied away: **§6b Finding 1 said the 542 figure propagated to *six* places and it propagates to *ten* lines of the chapter, including a section heading the first draft omitted · §6b Finding 5 named one line of *five quarters* and it is *eight* lines in five chapters, including a second section heading, one of which shares a line with Finding 4 · §7's TITLES row printed *0 of 50 disagree with §10* and did not say that this measured agreement with the printed list rather than compliance with §10's rule, which three titles breach · §8 Finding 1 repeated the six-place count · §8 Finding 9's table carried the rounded *one year* / *one year and six months* instead of 381 and 561, which is the defect it was written to prevent.**
+
+**NO FINDING IS ADDED, REMOVED, WITHDRAWN OR REVERSED BY THIS CORRECTION, AND NO CHAPTER WAS TOUCHED TO MAKE ANY OF IT TRUE.** The five repairs remain carried to `workspace/volume-12/plan/PROMPT.md` §1 and remain unapplied. **What this correction establishes is the standing rule's own first case: a gate row that reports one measurement under a heading that promises another is not a pass, and neither is a finding that names a sentence without counting the lines.**
+
 ---
 
 ## 1. THE MANUSCRIPT
@@ -312,7 +318,9 @@ These are the whole of the volume's arithmetic failures. **Each is a figure prin
 
 Chapter 542 is the second of August. **Twenty-ninth of July = spine day 1,258. Second of August = spine day 1,261. The interval is 3.** The printed breakdown cannot be made to work twice over: **there is no thirty-first, so there are no days of July after the thirtieth**, and 1 + 2 + 1 = 4 while `(30 − 29) + 2 = 3`.
 
-**THE FIGURE PROPAGATES TO SIX PLACES IN THE CHAPTER** — the title *Four Days Of Looking*, the derivation at 542:15, the yard at 542:17, Agnete's three speeches at 542:45, :49 and :53, her line at 542:61, and the notebook at 542:103 and :107 — **and it is certified as correct in the live gate block at `state/open-threads.md`**, which repeats the same breakdown: *THE FORTY WENT OUT FOR FOUR DAYS: one day to the thirtieth of July, two more days of July, and one day of August.*
+**THE FIGURE PROPAGATES TO TEN LINES IN THE CHAPTER, AND THE FIRST DRAFT OF THIS FINDING SAID SIX.** Every one of the ten is a place where *four* is printed: the title at 542:1 · the derivation at 542:15 · the yard at 542:17 · **the section heading `## Four Days Of It` at 542:25, which the first draft omitted entirely** · Agnete's speeches at 542:45, :49 and :53 · her line at 542:61 · the notebook at 542:103 and :107. **Ten occurrences, ten lines, one of them a title and one of them a section heading.** It is also certified as correct in the live gate block at `state/open-threads.md:85`, which repeats the same breakdown — *THE FORTY WENT OUT FOR FOUR DAYS: one day to the thirtieth of July, two more days of July, and one day of August* — and which puts the count at six places in the chapter, so **the gate row is wrong twice: once about the figure and once about its own reach.**
+
+**AND IT CARRIES OUT OF THE CHAPTER INTO FOUR STATE FILES AND THE TITLE BANK:** `state/chapter-summaries.md:44` (the title cell, *FORTY PEOPLE OUT FOR FOUR DAYS*, and *it came apart in four days*) · `state/continuity.md:67` (`PC-144`) and `:85` · `state/open-threads.md:17`, which lists it among *THE NINE THINGS THAT WERE PAID FOR, **ALL CONFIRMED ON THE PAGE*** · and `outline/volume-11.md` §10 ROW 542.
 
 **NOT APPLIED HERE. CARRIED TO FINDING 9.**
 
@@ -373,6 +381,10 @@ The second column was ruled on the ninth of March of year three. **That is spine
 
 **That list is seven quarter-ends and it is correct. The sentence under it says five.** There is also a second convention in play: 539:115 and :125 count *four quarters* from the quarter in which Sun Meiling made her prediction (the thirtieth of September of the third year), and 544:85, 545:109, 546:23, 550:78 and :102 all say *five*. **Both conventions are defensible on their own and the volume uses both, and they differ by two.** The true count from the ruling is seven quarter-ends, 9 March y3 → 30 September y4.
 
+**THE FIGURE CARRIES ON EIGHT LINES IN FIVE CHAPTERS, NOT ON THE ONE THIS FINDING NAMED.** `chapter-0544.md:43` and `:85` · `chapter-0545.md:109` · `chapter-0546.md:23` · **`chapter-0548.md:70`, which is the section heading `## Five Quarters Of Nothing` and which the first draft of this finding omitted** · `chapter-0548.md:74` · `chapter-0550.md:78` · `chapter-0550.md:102`.
+
+**AND `chapter-0544.md:43` CARRIES FINDING 4 AND FINDING 5 ON ONE LINE** — *it has been empty for five quarters and it has not done one day's work in the four years it has been on that sheet* — **so a repair that fixes *four years* on that line and leaves *five quarters* produces a clause that says five quarter-ends and one year and six months at once. It is a different sentence from either one of the two sentences it was before, and it is wrong in a way neither was.**
+
 **The 548 sentence contradicts itself by four lines and is certified as correct by the live gate block's QUARTERLY FIGURES row.**
 
 **NOT APPLIED HERE. CARRIED TO FINDING 9.**
@@ -388,13 +400,20 @@ FILES         50 files in chapters/volume-11/, 501..550, diff against `seq 501 5
               550 files book-wide. No chapter 551 anywhere. One `# ` title line each.
 
 TITLES        `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 across 550 files.
-              0 of 50 disagree with outline/volume-11.md §10.
-              RULE EXCEPTIONS, Volume 11 only: 523 *Lamplit Row* (2 words) and 527 *Carried By*
-              (2 words) are under the three-word floor, and 534 *What The Church Did Not Bring*
-              begins with *What*, which §10 forbids for this volume. Book-wide there are 72 such
-              titles and the practice is long-established (*Cordwain*, *Lantern Row*, *Signal*,
-              *Zero*), so the two short ones are consistent with the manuscript. THE *WHAT* IS NOT.
-              RECORDED AT FINDING 7. NOT RENAMED.
+              **TWO SEPARATE ROWS WERE RUN AND THEY DO NOT AGREE WITH EACH OTHER, AND THIS ROW
+              IS THE ONE THAT FAILED.**
+              (a) AGAINST THE PRINTED BANK — 0 of 50 differ from the title printed in
+              `outline/volume-11.md` §10. **THIS IS NOT A CLEAN PASS AND MAY NOT BE READ AS ONE.**
+              (b) AGAINST §10's OWN RULE — 3 of 50 breach it: 534 *What The Church Did Not Bring*
+              (begins with *What*, which §10 forbids) and 523 *Lamplit Row* / 527 *Carried By*
+              (two words against a three-word floor).
+              **THE FIRST ROW MEASURED WHETHER THE CHAPTERS MATCH THE TABLE. THE SECOND MEASURED
+              WHETHER THE TABLE'S RULE HOLDS. THE DRAFT OF THIS FILE PRINTED ONLY (a), WHICH IS WHY
+              A READER OF THE GATE SAW A PASS WITH THREE FAILURES INSIDE IT. A GATE ROW THAT REPORTS
+              ONE MEASUREMENT UNDER A HEADING THAT PROMISES ANOTHER IS NOT A PASS.**
+              On (b): book-wide there are 72 such titles and the practice is long-established
+              (*Cordwain*, *Lantern Row*, *Signal*, *Zero*), so the two short ones are consistent
+              with the manuscript. **THE *WHAT* IS NOT.** RECORDED AT FINDING 7. NOT RENAMED.
 
 BANK          113,615 words across 50 files, counted per file and summed. Mean 2,272.
               OUTSIDE THE 1,800-2,700 BAND, SEVEN OF FIFTY:
@@ -539,7 +558,7 @@ BODIES        §4a READ BEFORE ANY EXAMINATION. NO BORROWED BODY IN 501-550.
 
 ### FINDING 1 — `chapter-0542.md:15`, the forty went out for four days. It is three.
 
-*See §6b.* Carried to the Volume 12 planning phase. Six places in the chapter and two state-file rows carry the figure.
+*See §6b.* Carried to the Volume 12 planning phase. **Ten lines in the chapter, one row of the title bank and six rows of state carry the figure.** (The first draft of this line said six places and two rows.)
 
 ### FINDING 2 — `chapter-0544.md:37`, the sixteenth quarter. It is the fifteenth.
 
@@ -583,15 +602,16 @@ and
 
 Findings 1–5 are five one-word-or-one-figure corrections inside finished chapters that four separate batch gates certified as passing. **They are not applied here, and the reason is the rule this phase is under: an audit that repairs the volume is not an audit, and changing figures inside a closed volume without re-running the four batch gates that certified them would repeat the exact error this audit was run to catch.** They are carried to the Volume 12 planning phase as its first item, with the correct figure and every line that carries it named, so that one commit repairs all five and re-runs the bank.
 
-**THE FIGURES THAT ARE CORRECT, FOR THAT COMMIT:**
+**THE FIGURES THAT ARE CORRECT, FOR THAT COMMIT — EVERY LINE THAT CARRIES THEM, AND THE OPERANDS, BECAUSE A REPAIR INSTRUCTION THAT DROPS THE OPERAND IS THE SAME DEFECT IT IS REPAIRING:**
 
-| Where | Printed | Correct |
+| Where — every line | Printed | Correct, with its operands |
 | --- | --- | --- |
-| 542:15 and five other places, and two state rows | four days | **three days** |
-| 544:37 | Sixteenth quarter | **Fifteenth quarter** |
-| 544:39 | the ninth day of July | **the eleventh day of July** |
-| 537:95, 544:43 | the four years it has been on that sheet | **one year** (537) · **one year and six months** (544) |
-| 548:74 | Five quarters and two years of it | **seven quarter-ends and one year and seven months** |
+| **542:1 (title), :15, :17, :25 (heading), :45, :49, :53, :61, :103, :107 — TEN LINES — plus `outline/volume-11.md` §10 row 542, `state/chapter-summaries.md:44`, `state/continuity.md:67` and `:85`, `state/open-threads.md:17` and `:84`** | four days | **three days** — 29 Jul y4 = 1,258 · 2 Aug y4 = 1,261 · 1,261 − 1,258 = 3. The breakdown must be **rewritten** as `(30 − 29) + 2 = 3`, not substituted. **The title loses *Four*.** |
+| 544:37 | Sixteenth quarter | **Fifteenth quarter** — 30 Sep y4 is the fifteenth; the sixteenth is the sheet of 30 December that has not gone out |
+| 544:39 | the ninth day of July | **the eleventh day of July** — 541:3, :67, :120 · 542:11 · 547:37, :84 |
+| 537:95, 544:43 | the four years it has been on that sheet | **one year and twenty-one days** (537; 1,139 − 758 = **381**) · **one year, six months and twenty-one days** (544; 1,319 − 758 = **561**). The column was ruled 9 Mar y3 = spine day **758** |
+| **544:43, 544:85, 545:109, 546:23, 548:70 (heading), 548:74, 550:78, 550:102 — EIGHT LINES IN FIVE CHAPTERS** | Five quarters | **seven quarter-ends and one year, seven months and six days** — 1,334 − 758 = **576**. Two conventions coexist and differ by two; the count is taken from the ruling |
+| `state/continuity.md:33` · `state/current.md:5` and `:9` · `state/open-threads.md:85` · `state/chapter-summaries.md:39` | the rounded and the wrong restatements of the two figures above | **the same figures, with operands** — `:33` currently prints the rounded *one year and six months* for 561 and is wrong by twenty-one days even though it is the correct side of the finding |
 
 ---
 

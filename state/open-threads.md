@@ -14,7 +14,7 @@
 
 **THE SECOND HALF DID NOT HAPPEN AND IT WAS NOT A FAILURE OF NERVE.** It was the other half of a disjunction and the branch taken was real. The second line at the foot of the ranks wall did not get a threshold under it that a man with a chalk chose. It is still on the stone in the office's own hand at the height of a name on a plate, a city cannot read it, and **Emil Brack is at the wall end of that lane at about a quarter to seven every morning, right about every fact he says, and has not been answered.** 550 says *the second alternative did not happen* in the lead's own notebook rather than pretending otherwise.
 
-**THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE:** nine divisions to about nine hundred doors in ninety days and four hundred and nineteen of the people they found lost the fourth condition of his own definition · forty women out for four days to ninety-one doors, asked nothing, back with nothing · a street four streets off the yard end, counted four times in thirty years, read once · six words written four times a year for thirty years under a keeper's own name with a name now put against them by a man she has never met, read on the second of January · a woman who dug a street for six years and was never paid is the Register's first creditor and came up two flights without a hand on the rail · a chaplain refused a second time and lost the argument instead of the sentence, and has lost her yard · nine women said nine things in a kitchen and not one of them told him he was right · and a Register that has a debtor in it, which is a different object from a Register that has nobody in it.
+**THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE:** nine divisions to about nine hundred doors in ninety days and four hundred and nineteen of the people they found lost the fourth condition of his own definition · forty women out for four days to ninety-one doors, asked nothing, back with nothing **— AND THIS ONE CLAUSE IS NOT CONFIRMED. FINDING 1 PUTS IT AT THREE DAYS: THE FORTY WENT OUT ON THE TWENTY-NINTH OF JULY AND 542 IS THE SECOND OF AUGUST, AND *FOUR DAYS* IS PRINTED ON TEN LINES OF THAT CHAPTER INCLUDING THE TITLE AND A SECTION HEADING. CARRIED UNAPPLIED TO `workspace/volume-12/plan/PROMPT.md` §1, AND EVERY OTHER CLAUSE IN THIS LIST IS CONFIRMED** · a street four streets off the yard end, counted four times in thirty years, read once · six words written four times a year for thirty years under a keeper's own name with a name now put against them by a man she has never met, read on the second of January · a woman who dug a street for six years and was never paid is the Register's first creditor and came up two flights without a hand on the rail · a chaplain refused a second time and lost the argument instead of the sentence, and has lost her yard · nine women said nine things in a kitchen and not one of them told him he was right · and a Register that has a debtor in it, which is a different object from a Register that has nobody in it.
 
 ## THE GATE, RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE IT
 
@@ -84,18 +84,30 @@ ARITHMETIC    **THE SPINE, RE-DERIVED TWICE BY TWO METHODS THAT SHARE NO CONSTAN
                 · **542:15, THE FORTY WENT OUT FOR *FOUR* DAYS. IT IS THREE.** 29 JUL Y4 = 1,258 AND
                   2 AUG Y4 = 1,261. THE BREAKDOWN *ONE DAY TO THE THIRTIETH OF JULY AND TWO MORE DAYS
                   OF JULY AND ONE DAY OF AUGUST* NEEDS DAYS THAT DO NOT EXIST IN A THIRTY-DAY MONTH.
-                  THE FIGURE CARRIES TO SIX PLACES IN THE CHAPTER INCLUDING THE TITLE.
+                  **THE FIGURE CARRIES ON TEN LINES OF THE CHAPTER, NOT SIX: `:1` THE TITLE, `:15`,
+                  `:17`, `:25` THE SECTION HEADING *Four Days Of It*, `:45`, `:49`, `:53`, `:61`, `:103`
+                  AND `:107`. THIS ROW WAS WRONG BY FOUR WHEN IT WAS FIRST WRITTEN, WHICH IS THE SIXTH
+                  FAILURE OF THE SENTENCE AT `outline/volume-11.md` §9 AND THE FIRST ONE MADE BY A GATE
+                  ROW UNDERCOUNTING ITS OWN BLAST RADIUS RATHER THAN MISCOUNTING A FIGURE.**
                 · **544:37, *SIXTEENTH QUARTER*. IT IS THE FIFTEENTH.** 537 HEADS ITSELF *THE THIRTEENTH
                   SHEET*, AND THE SIXTEENTH IS THE SHEET OF THE THIRTIETH OF DECEMBER THAT HAS NOT GONE
                   OUT YET (548:103, 550:78).
                 · **544:39, *THE NINTH DAY OF JULY WHEN THE SATCHEL CAME IN*. IT CAME IN ON THE
                   ELEVENTH** — 541:3, 541:67, 541:120, 542:11, 547:37 AND 547:84 ALL SAY ELEVENTH.
                 · **537:95 AND 544:43, *THE FOUR YEARS IT HAS BEEN ON THAT SHEET*.** THE COLUMN WAS RULED
-                  ON THE NINTH OF MARCH OF YEAR THREE = DAY 758. AT 544 THAT IS **561 DAYS, ONE YEAR AND
-                  SIX MONTHS**; AT 537, 381 DAYS; AT 548, 576 DAYS.
+                  ON THE NINTH OF MARCH OF YEAR THREE = DAY 758. AT 544 THAT IS **561 DAYS = ONE YEAR,
+                  SIX MONTHS AND TWENTY-ONE DAYS**; AT 537, 381 DAYS = ONE YEAR AND TWENTY-ONE DAYS; AT
+                  548, 576 DAYS = ONE YEAR, SEVEN MONTHS AND SIX DAYS. **THIS ROW PRINTED *ONE YEAR
+                  AND SIX MONTHS* AND WAS ROUNDED TWENTY-ONE DAYS SHORT — A ROW THAT RECORDS A
+                  CORRECTION MUST NOT CARRY A ROUNDER FORM OF IT, WHICH IS THE SAME FAILURE IT IS
+                  RECORDING.**
                 · **548:74, *FIVE QUARTERS AND TWO YEARS OF IT*, UNDER A LIST OF SEVEN EMPTY
                   QUARTER-ENDS ENUMERATED FOUR LINES ABOVE IT.** FROM THE RULING TO THE THIRTIETH OF
-                  SEPTEMBER OF YEAR FOUR IS **SEVEN QUARTER-ENDS, 576 DAYS.**
+                  SEPTEMBER OF YEAR FOUR IS **SEVEN QUARTER-ENDS, 576 DAYS.** **THE FIGURE CARRIES ON
+                  EIGHT LINES IN FIVE CHAPTERS AND NOT ON THE ONE NAMED: 544:43, 544:85, 545:109, 546:23,
+                  548:70 (THE SECTION HEADING *Five Quarters Of Nothing*), 548:74, 550:78 AND 550:102.
+                  544:43 CARRIES THIS FINDING AND THE ONE ABOVE IT ON ONE LINE AND MUST BE REPAIRED FOR
+                  BOTH.**
               **ALL FIVE ARE CARRIED, NOT APPLIED — SEE FINDING 9. THE RATE OF FAILURE OF THE SENTENCE
               AT `outline/volume-11.md` §9 IS NOW V8 x5, V9 x2, V10 x1, V11 x5. A GATE ROW THAT
               QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE: 543 FAILED BOTH THE WRITING PASS

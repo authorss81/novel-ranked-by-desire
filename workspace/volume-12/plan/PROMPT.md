@@ -25,13 +25,26 @@
 
 **Apply all five in ONE commit, re-run the bank by command in the same commit, and do not touch a word that is not one of these numbers.**
 
-| Where | Printed | **Correct** |
+**EVERY LINE IN THE SECOND COLUMN BELOW IS THE COMPLETE BLAST RADIUS AND IT WAS COUNTED BY COMMAND, NOT SAMPLED.** Finding 1 carries on **ten lines of one chapter and one row of the title bank and six rows of state**; Finding 5 carries on **eight lines of five chapters, one of them a section heading**. **REPAIRING THE SENTENCE THE AUDIT NAMED AND LEAVING THE OTHER NINE IS NOT HALF A REPAIR. IT IS A CHAPTER THAT NOW CONTRADICTS ITSELF, AND IT IS THE SIXTH FAILURE OF THE SENTENCE AT `outline/volume-11.md` §9 THAT THIS ROW IS SUPPOSED TO BE PREVENTING.**
+
+| Where — every line, counted by command | Printed | **Correct** |
 | --- | --- | --- |
-| `chapter-0542.md:15` and the five other places in 542 that carry it, **including the title** *Four Days Of Looking*, **and the two rows in `state/open-threads.md` and `state/continuity.md` that repeat the breakdown** | four days | **three days** — 29 Jul y4 = spine day 1,258 and 2 Aug y4 = 1,261 |
+| **`chapter-0542.md`, ALL TEN LINES: `:1` the title, `:15`, `:17`, `:25` the section heading *Four Days Of It*, `:45`, `:49`, `:53`, `:61`, `:103`, `:107`** · **`outline/volume-11.md` §10 ROW 542** · **`state/chapter-summaries.md:44`, which carries the title in its own cell and *FORTY PEOPLE OUT FOR FOUR DAYS* and *it came apart in four days*** · **`state/continuity.md:67` (`PC-144`) and `:85`** · **`state/open-threads.md:17` and `:84`** | four days | **three days** — 29 Jul y4 = spine day 1,258 and 2 Aug y4 = 1,261, and 1,261 − 1,258 = 3. **THE BREAKDOWN AT 542:15 CANNOT BE REPAIRED BY SUBSTITUTION AND MUST BE REWRITTEN AS ITS OPERANDS — `(30 − 29) + 2 = 3` — because *one day to the thirtieth of July and two more days of July and one day of August* needs a thirty-first, and this city has no thirty-first.** **THE TITLE LOSES *FOUR*.** *Three Days Of Looking* collides with none of the five hundred and fifty written title lines as of this repair, checked by command — **but the bank is still re-run by command in the same commit, and if your replacement collides you choose another title and do not change a written chapter to make room for it.** |
 | `chapter-0544.md:37` | Sixteenth quarter | **Fifteenth quarter** — 537 heads itself *The Thirteenth Sheet*, and the sixteenth is the sheet of the thirtieth of December that has not gone out yet |
 | `chapter-0544.md:39` | the ninth day of July when the satchel came in | **the eleventh day of July** — 541:3, 541:67, 541:120, 542:11, 547:37 and 547:84 all say eleventh |
-| `chapter-0537.md:95` and `chapter-0544.md:43` | the four years it has been on that sheet | **one year** (537; the column was ruled on the ninth of March of year three = spine day 758, and 537 is 1,139) · **one year and six months** (544; 1,319 − 758 = 561 days) |
-| `chapter-0548.md:74` | Five quarters and two years of it, under a list of seven empty quarter-ends | **seven quarter-ends and one year and seven months** — 1,334 − 758 = 576 days |
+| **`chapter-0537.md:95` and `chapter-0544.md:43`** | the four years it has been on that sheet | **THE COLUMN WAS RULED ON THE NINTH OF MARCH OF YEAR THREE = SPINE DAY 758.** **one year and twenty-one days** (537; 1,139 − 758 = **381**) · **one year, six months and twenty-one days** (544; 1,319 − 758 = **561**). **PRINT THE OPERANDS ON THE PAGE AND DO NOT ROUND THE INTERVAL DOWN TO A CONVENIENT PHRASE — the rounded form is the defect this row exists to catch, and this prompt will not hand you another one.** |
+| **`chapter-0548.md:74`, AND THE SAME FIGURE AT `chapter-0544.md:43`, `chapter-0544.md:85`, `chapter-0545.md:109`, `chapter-0546.md:23`, `chapter-0548.md:70` — THE SECTION HEADING *Five Quarters Of Nothing* — `chapter-0550.md:78` AND `chapter-0550.md:102`. EIGHT LINES IN FIVE CHAPTERS, NOT ONE** | Five quarters | **seven quarter-ends and one year, seven months and six days** — 1,334 − 758 = **576**. **544:43 CARRIES FINDING 4 AND FINDING 5 ON THE SAME LINE AND MUST BE REPAIRED FOR BOTH, OR IT BECOMES A SENTENCE THAT SAYS FIVE QUARTER-ENDS AND ONE YEAR AND SIX MONTHS ON ONE CLAUSE.** The audit concedes that two conventions coexist in the volume — 539:115 and :125 count *four quarters* from the quarter of Sun Meiling's prediction, which is the other origin, and the two differ by two. **TAKE THE COUNT FROM THE RULING, APPLY IT AT ALL EIGHT LINES AND THE STATE ROWS, AND SAY IN THE COMMIT MESSAGE WHICH CONVENTION YOU DROPPED. YOU DO NOT OWN 539 AND YOU MAY NOT EDIT IT.** |
+
+**AND THE STATE ROWS FOR FINDINGS 2, 3, 4 AND 5, WHICH THE TABLE ABOVE DOES NOT CARRY, ALL COUNTED BY COMMAND. THE COLUMN BELOW QUOTES WHAT EACH ROW SAID; TWO OF THE FOUR WERE CORRECTED IN THE 14 OCTOBER 2026 REVIEW REPAIR AND NOW CARRY THE CORRECTION BESIDE THE ERROR, AND THE CHAPTER LINES THEY GOVERN ARE STILL UNREPAIRED:**
+
+| State file | Line | What it asserted |
+| --- | --- | --- |
+| `state/continuity.md` | **33** | *the column's four years on that sheet is one year and six months* — **THE ROUNDED FORM. IT IS 561 DAYS. THE ROW NOW CARRIES *ONE YEAR, SIX MONTHS AND TWENTY-ONE DAYS* AND KEEPS THE ERROR VISIBLE BESIDE IT** |
+| `state/current.md` | **5** and **9** | *the column had nothing in it for five quarters* / *was empty for five quarters and has one line in it* — the Finding 5 figure, in the live block, now marked as carried |
+| `state/open-threads.md` | **84** | *THE FIGURE CARRIES TO SIX PLACES IN THE CHAPTER INCLUDING THE TITLE* — **IT IS TEN LINES. THIS LIVE GATE ROW WAS WRONG BY FOUR AND NOW SAYS SO.** |
+| `state/chapter-summaries.md` | **39** | *the column had nothing in it for five quarters and has one line in it since the fifteenth of October* — **still unmarked, and it is the row a later volume is most likely to quote** |
+
+**THE RULE UNDER ALL OF IT, AND IT IS THE POINT OF THIS SECTION: A CARRIED REPAIR IS NOT APPLIED, BUT A CARRIED REPAIR MUST NOT SIT UNMARKED IN A LIVE GATE ROW EITHER.** Until this commit lands, all ten chapter lines and all eight *five quarters* lines still print the wrong figure, because that is the honest state of a closed volume, and four of the eight state rows still state it as fact with nothing beside it. **What you must never leave behind is a live row that asserts a wrong figure with no correction and no pointer** — the defect the review of this hand-off found in `state/open-threads.md:17`, which reads *THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE* and then, sixty-seven lines below in the same block, records that the same figure is wrong.
 
 **AND TWO FIGURES THAT WERE ALWAYS RIGHT AND MUST NOT BE TOUCHED WHILE YOU ARE IN THERE:**
 
@@ -115,9 +128,20 @@
 ## 6. THE OUTPUT OF THIS PHASE, IN ONE COMMIT
 
 - `outline/volume-12.md`
-- the five repairs from §1 above, in the chapters and state rows named
+- **the five repairs from §1 above, in every line they carry, and in every state row — including `state/current.md` and `state/continuity.md`, which a previous version of this prompt failed to name at all, and including `outline/volume-11.md` §10 ROW 542, because a retitled chapter with no change in the outline is a title bank that has already started lying**
 - `state/current.md`, `state/continuity.md`, `state/open-threads.md` updated with the Volume 12 spine, the scene schedule, and the gate rows carrying operands
-- `state/chapter-summaries.md` touched only if a repair moved a figure
+- `state/chapter-summaries.md` touched if a repair moved a figure **or a title** — line 44 carries both
+- **`reviews/volume-11/volume-close.md` MAY BE TOUCHED ONLY TO RECORD THE COMMIT THAT APPLIED WHAT IT CARRIED. IT MAY NOT BE REWRITTEN AND IT MAY NOT BE DELETED. IT IS THE RECORD OF WHY THESE FIVE FIGURES WERE WRONG AND THAT IS THE ONLY THING A LATER VOLUME NEEDS FROM IT**
 - **`workspace/volume-12/batch-0001/PROMPT.md`, and nothing beyond it**
 
 **AND ONE SENTENCE IN `state/current.md` THAT THE NEXT READER CAN ACT ON: WHAT VOLUME 12 IS FOR, AND WHAT IS LOST IF IT FAILS.**
+
+**AND ONE CHECK BEFORE YOU COMMIT, WHICH THIS PHASE OWES THE ONE THAT COMES AFTER IT. IT IS LINE-ANCHORED, AND THAT IS THE POINT: `grep -ri "four days"` returns ONE HUNDRED AND FORTY-TWO HITS ACROSS VOLUME 11 AND STATE ALONE, AND A CHECK THAT RETURNS A FLOOD IS A CHECK THAT GETS SKIPPED, WHICH IS VERY LARGELY HOW THE LAST FIVE REACHED A CLOSED VOLUME.**
+
+Read these and nothing else, and require the old figure to be gone from every one of them and no new figure in its place:
+
+`sed -n '1p;15p;17p;25p;45p;49p;53p;61p;103p;107p' chapters/volume-11/chapter-0542.md` — **ten lines** ·
+`sed -n '95p' chapters/volume-11/chapter-0537.md` · `sed -n '37p;39p;43p;85p' chapters/volume-11/chapter-0544.md` · `sed -n '109p' chapters/volume-11/chapter-0545.md` · `sed -n '23p' chapters/volume-11/chapter-0546.md` · `sed -n '70p;74p' chapters/volume-11/chapter-0548.md` · `sed -n '78p;102p' chapters/volume-11/chapter-0550.md` — **eight lines** ·
+`outline/volume-11.md` §10 row 542 · `state/chapter-summaries.md:39` and `:44` · `state/continuity.md:33`, `:67` and `:85` · `state/current.md:5` and `:9` · `state/open-threads.md:17` and the 542 and 548 rows of its gate block.
+
+**A REPAIR THAT HAS BEEN CARRIED FOR ONE PHASE AND APPLIED HALFWAY IS WORSE THAN ONE THAT WAS NEVER CARRIED, BECAUSE THEN SIX FILES DISAGREE AND NONE OF THEM SAYS WHICH IS RIGHT.**
