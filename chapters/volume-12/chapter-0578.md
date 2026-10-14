@@ -1,14 +1,12 @@
 # He Decides Who It Is Not For
 
-Ten days from the tenth of July to this morning. The tenth of July was one thousand five hundred and ninety-nine days off the first of February of the first year, and this morning is one thousand six hundred and nine, and one thousand six hundred and nine less one thousand five hundred and ninety-nine is ten.
+It was the third night of ten, at about two in the morning, and he was on the third floor of the washrooms with the mop in the bucket and the bin room open behind him, and the question had been in the coat pocket since the tenth of July.
 
-The twentieth of July is twenty days into the seventh month of that year, and the seventh month has thirty days and no thirty-first, and the thirtieth of July is ten days off, because thirty less twenty is ten.
-
-He spent the ten days the way he spends every ten days, working eleven at night until half past five at the branch off a third court, four nights and three off, cleaning three floors of washrooms and a stairwell and a bin room. The rota page in the corridor carries four names and no band and no figure: his, Nadia Ferrous's, Petra Ilyin's and Isolde Marchetti's.
+The rota page in the corridor carries four names and no band and no figure: his, Nadia Ferrous's, Petra Ilyin's and Isolde Marchetti's. He works eleven at night until half past five, four nights and three off, at the branch off a third court.
 
 ## The Woman He Never Asked
 
-On the third night Petra Ilyin came down the corridor at about two in the morning with a bundle of returns for the day room and stopped at the notice board where three of his four lines are still pinned with a drawing pin through the corner.
+Petra Ilyin came down the corridor with a bundle of returns for the day room and stopped at the notice board where three of his four lines are still pinned with a drawing pin through the corner.
 
 “You are going to put somebody in a box,” she said. It was not a question. Three of the nine sworn never live with him again and all three come in on the rota, and she is one of the three.
 
@@ -38,8 +36,22 @@ Adeyemi nodded once. Wenna Raut squared the division's second sheet and put it f
 
 “What it closes,” Adeyemi said, “is the option of the second column being carried onto the wall by her name. What it costs is that the division will ask again, and the next time it asks it will ask for you.”
 
+Wenna Raut squared the second sheet again instead of putting it down.
+
+“I am going to ask you the one question I am allowed to ask and then enter it exactly as given,” she said. “Are those the words you said.”
+
+“Yes,” Lin Hao said.
+
+She wrote it. It took her about nine seconds and she did not look up while she did it, and she read it back once, which is the most a sheet of that kind is read in that room.
+
+“I cannot put it on the repainting form,” she said. “I can put it in the book in a room off a third court, and I have, and about nine people a week will ever look at it, and that is the whole of the price of having said it out loud in here.”
+
+“I know what the price of it is.”
+
+“You know what the price of it is to this office,” Wenna Raut said. “You have not once asked me what it is to the woman who has to enter it.”
+
 Lin Hao went down two flights into the third court and out into Cordwain with about four hours before his shift, and he understood that he had refused the one name the city would have accepted, and that the refusal would hold through every form this office puts up, the way the June refusal holds.
 
-This is the decision, and it is his: the standing box is not for the woman he entered, and he has said so in a room with two chairs in it, and it cannot be unsaid.
+The words were in the room now, in front of the Registrar and a clerk, and there was no way back into the sentence he had just finished, and there had not been one hour in the ten nights behind him that he could have said it in a different voice. The July form came off the wall that afternoon with both boxes empty and went up again the next morning with both boxes empty, and that is what the sentence bought.
 
-*The twentieth of July, one thousand six hundred and nine days. Ten days from the tenth of July. He has decided who the standing box is not for, and it is not for her, and the July form comes down with both boxes still blank.*
+*The twentieth of July, one thousand six hundred and nine days. One thousand six hundred and nine less one thousand five hundred and ninety-nine, which is the tenth of July, is ten, and the seventh month has thirty days and no thirty-first, and thirty less twenty is ten. He has decided who the standing box is not for, and it is not for her, and the July form comes down with both boxes still blank.*

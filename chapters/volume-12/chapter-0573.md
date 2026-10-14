@@ -26,13 +26,21 @@ There is no form in this city for striking a line a person entered against thems
 
 Lin Hao felt anger for the first time in about a month, and it was anger at himself and not at the division. He wanted the box to have something honest in it, because a blank box on a form a city reads every day is a question nobody has answered, and he was the man whose office owned the form.
 
-He said the four conditions were drafted in forty days from the ninth of March of the second year and read out at the kitchen off Ferrier Street on the nineteenth of July of that year, and went out on the sheet of the thirtieth of June of that year.
+The man from the division asked him what the figure was in words, because a division cannot print a thing it has not been given a name for, and he asked it twice, and the second time he asked it he had a pencil out.
 
-The tally board at four in the morning on the thirtieth of March of the fourth year carried the request for a round and not the definition, and the thirtieth of September of the third year is when the second column went out, which is a different thing.
+Lin Hao told him what was in the room instead of what was in the box. Four hundred and nineteen accounts with an hour against each and no figure on any of them. Four conditions drafted in forty days from the ninth of March of the second year, read out at a kitchen off Ferrier Street on the nineteenth of July of that year, and out on the sheet of the thirtieth of June of that year.
 
-Adeyemi listened all the way through and did not write any of it down.
+He got as far as the second column and the man from the division put his pencil down, because a man who prints forms knows what a column is for.
+
+Lin Hao wanted to finish it anyway, and wanted it badly, because a division that has asked a question in a room is owed the whole of the answer if the whole of it can be got out in one breath.
+
+The tally board at four in the morning on the thirtieth of March of the fourth year had carried a request for a round and not the definition, and the second column went out on the thirtieth of September of the third year, which is a different thing, and he got as far as the word different before Adeyemi stopped him.
+
+Adeyemi had listened to the whole of it and did not write one word of it down.
 
 “The division asked in a room and not on a pavement,” Adeyemi said. “That is why it gets an answer in a room. If the answer were yes, I would have to find a hand to write it, and the only hand in this city that can put a sentence somewhere official is in this room, and it is not a hand that writes figures.”
+
+The man from the division said that a blank box comes back on the next quarter's sheet, and that his division would ask again at the next quarter-end, and he wrote the date on the corner of his own copy in pencil and did not offer it to anybody.
 
 Wenna Raut put her pen down flat, which she does about twice a day. The man from the division shifted his weight but did not sit, because there are two chairs in the room and neither is for a man who carries sheets.
 

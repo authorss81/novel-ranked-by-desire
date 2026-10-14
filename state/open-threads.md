@@ -1,3 +1,77 @@
+# VOLUME 12 BATCH 0003 IS WRITTEN AND REPAIRED AGAINST ITS REVIEW. CHAPTERS 571–580 ARE ON DISK. **TEN FINISHED FILES, 14,076 WORDS COUNTED PER FILE AND SUMMED. MOVEMENT THREE, *COUNTERSIGNED*. ONE SCENE, AT 574, BEATRIX HALM, THIRTY-EIGHT CHAPTERS AFTER 536, AND IT IS A REWRITE. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE (0002 SPENT ONE; FOUR WERE AVAILABLE; NONE USED). THE NEXT PHASE IS `workspace/volume-12/batch-0004/PROMPT.md`, CHAPTERS 581–590, MOVEMENT FOUR, *CROSS-READ*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS TWENTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## OPEN ITEMS, HEAD OF THE LIST. THREE UNREPAIRED DEFECTS, NONE THIS PHASE'S TO FIX
+
+**1 · THE MOVEMENT-FOUR SEAM. `outline/volume-12.md` §7 HEADS MOVEMENT FOUR *30 July – 10 October, year five, spine days 1619–1689*, AND MOVEMENT THREE ENDS AT 8 AUGUST, 1627: 1619 − 1627 = −8, AND A CHAPTER CANNOT GO BACK EIGHT DAYS.** THE CAUSE IS THAT BATCH 0003 SPENT THE THIRTIETH OF JULY AND THE EIGHTH OF AUGUST ON 579 AND 580, WHICH COLLIDE WITH THE OUTLINE'S 581 AND 582. **THE 581–590 RUN IS MONOTONIC INTERNALLY AT 0 VIOLATIONS; THE 580→581 STEP IS THE VIOLATION.** IT WAS FOUND BY THE WRITING PHASE, HANDED FORWARD IN THE PROMPT, AND **IT IS NOW OWNED HERE INSTEAD OF LIVING ONLY IN THE OPENING PARAGRAPH OF A FILE THAT WILL BE REPLACED.** THE NEXT PHASE RESOLVES IT ON THE PAGE, BECAUSE THE PAGE WINS AND THE CARD AND THE OUTLINE TABLE ARE REWRITTEN IN THE SAME COMMIT. **WHAT IT MAY NOT DO: GO BACKWARDS IN TIME. 581 IS DATED AFTER THE EIGHTH OF AUGUST.** NOTHING IN 571–580 MOVED TO FIX IT AND NO CHAPTER WAS RE-DATED.
+
+**2 · `chapter-0553.md`:23 PRINTS *Thirty years is three hundred and sixty days multiplied by ten.* THIRTY YEARS IS THREE HUNDRED AND SIXTY MULTIPLIED BY THIRTY, WHICH IS TEN THOUSAND EIGHT HUNDRED.** First defect of this class found on a page rather than in a planning document. NOT REPAIRED HERE: a closed page is a content change and not this phase's. REPAIR OWES ONE WORD IN ONE LINE OF 553 AND NOTHING ELSE. This batch does not compound it: no chapter of 571–580 prints that multiplication.
+
+**3 · `chapter-0570.md`:169 PRINTS *a year and three months ago* FOR A YARD THAT CANNOT BE LOCATED IN VOLUMES 11 OR 12.** NOT FIXED HERE: the fix is either anchoring the yard to 30 Jan y5 (ninety-one days, 1530 − 1439 = 91) or cutting the interval, and both are content changes. REPAIR OWES ONE CLAUSE AND NOTHING ELSE.
+
+**AND ONE THIS PHASE FOUND AND REPAIRED, WHICH IS THE CLASS THE NEXT PHASE MUST WATCH FOR: `chapter-0574.md` PRINTED 1570 − 1265 = 265 AGAINST CHAPTER 536 AND IT WAS WRONG TWICE.** The arithmetic gives 305 and 1,265 is not 536. **536 = 1,099** (`outline/volume-11.md` §7 movement four) and **1570 − 1099 = 471**. REPAIRED ON THE PAGE AND IN THE CARD. **THE ONLY FIGURE THAT SURVIVED A GATE RUN BY COMMAND IN A FINISHED VOLUME-12 CHAPTER, BECAUSE THE GATE PARSED THE BATCH'S OWN SPINE AND NEVER THE CROSS-VOLUME ANCHOR.**
+
+> A writing phase. It wrote `chapters/volume-12/chapter-0571.md` … `chapter-0580.md` and `outline/volume-12.md` §7 movement three's ten cards against the page, and nothing else. `outline/ending.md` is untouched. **No new enemy. No new `PC`. No scene outside 574. No second explicit vocabulary passage in a chapter that is not the scene.**
+
+## THE GATE, RUN BY COMMAND AFTER THE REVIEW-REPAIR PASS
+
+```
+FILES         30 files in chapters/volume-12/, 551..580. One `# ` title line in every file.
+              `find chapters -name 'chapter-*.md' | wc -l` -> 580.
+
+TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 580 FILES.**
+
+BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
+              571 1,743 · 572 1,463 · 573 1,216 · **574 2,898** · 575 1,116 · 576 1,184 ·
+              577 1,143 · 578 1,203 · 579 1,099 · 580 1,011. **BATCH TOTAL 14,076.**
+
+META         §8's class PLUS `our narrator|the author|the text|the prose|page [0-9]+|volume [0-9]+|
+              in this (novel|book|story|chapter|volume|scene)` PLUS
+              `\bthis (batch|volume|movement|chapter|book|novel|story|scene)\b` PLUS
+              `chapter [0-9]+|page [0-9]+|volume [0-9]+|\bthe (reader|narrator|author)\b`
+              -> **0 ACROSS ALL TEN FILES.** The review found one fourth-wall break
+              (`chapter-0576.md`:55, *in this batch*). **THE WORD `batch` WAS NOT IN THE CLASS
+              AND THAT IS THE SECOND TIME A CLASS HAS BEEN INCOMPLETE; THE CLASS IS NOW PRINTED
+              IN FULL ABOVE AND THE NEXT PHASE MUST COPY IT, NOT EXTEND IT BY MEMORY.**
+
+WEEKNAMES    Monday Tuesday Wednesday Thursday Friday Saturday Sunday, all seven, whole-word AND
+              substring, across all thirty files -> **0.** A first draft of the rewritten 574
+              printed **Thursday five times** and was corrected to *the thirtieth of June*.
+
+AGES         Nine probe forms plus bare `aged` PLUS `since (i|he|she|they) (was|were)`
+              PLUS spelled-out `(sixteen|...|twenty-two) years old` PLUS any
+              `[a-z-]+ years old` -> **0.** A first draft of the rewritten 574 printed
+              *nine years old* and *four years old* and was re-set to *it has been there
+              nine years* and *the cough in you has been in you four years*, because a span
+              is not an age and the probe does not know the difference.
+
+ARITHMETIC   Spine 571-580 re-derived from two formulas sharing no constant, monotonic at
+              **0 violations.** EVERY INTERVAL PRINTED PARSED OUT OF THE PAGE AND ITS OPERANDS
+              SUMMED, never quoted from a card: 0 · 10 · 20 · 10 · 10 · 9 · 10 · 10 · 10 · 8 ·
+              91 · 97 · 90 · 146 · 180 · 111 · 150 · 40 · 41 · 160 · 159 · **471** · 236.
+              **THE 471 IS THE REPAIR: 536 = 1,099 AND 1570 − 1099 = 471.**
+
+DUPLICATION  Ten-gram overlap, 571-580 against every other chapter in the book. **574 against
+              `chapter-0536.md` AND `chapter-0554.md` AT EIGHT WORDS: 0 AND 0.** 574's heaviest
+              overlap anywhere is 6 ten-grams with 571 and 5 with 576 and 580, all of them the
+              account's *hour against each* and no figure on them, or the sheet's *bottom*, both
+              of which are canon printed in five chapters. **A 25-word run lifted out of 536's
+              dialogue was found sitting in WENNA RAUT'S MOUTH AT `chapter-0575.md`:13 and was
+              re-set.** What remains is the batch's arithmetic texture and the office's rule,
+              both of which are canon quotation, and both of which are counted in this file.
+
+FORM         Paragraphs over 90 words across 571-580 -> **0.** Over 120 -> **0.** Odd quote
+              pairs -> **0.** Unbalanced italics -> **0.** Blockquotes, tables, rules, code
+              fences, bold -> **0 ACROSS ALL TEN.**
+
+ACCOUNT      `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-12/` -> **0.**
+              `grep -rio "settle" chapters/volume-12/` -> **0**, inflections -> **0. NO FLOOR.**
+
+FLOORS / RT  `grep -rio "right temple" chapters/` -> **0 ACROSS ALL 580.**
+              `grep -rlio "cuticle" chapters/` -> **4 FILES: 329, 340, 404, 446. UNCHANGED.**
+              `grep -rio "nobody was thanked" chapters/volume-12/` -> **0.**
+              `grep -rio "ostho" chapters/` -> **0.**
+
+```
 # VOLUME 12 BATCH 0003 IS WRITTEN. CHAPTERS 571–580 ARE ON DISK. **TEN FINISHED FILES, 13,552 WORDS COUNTED PER FILE AND SUMMED. MOVEMENT THREE, *COUNTERSIGNED*. ONE SCENE, AT 574, BEATRIX HALM, THIRTY-EIGHT CHAPTERS AFTER 536. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE (0002 SPENT ONE; FOUR WERE AVAILABLE; NONE USED). THE NEXT PHASE IS `workspace/volume-12/batch-0004/PROMPT.md`, CHAPTERS 581–590, MOVEMENT FOUR, *CROSS-READ*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS TWENTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## OPEN ITEMS, HEAD OF THE LIST. TWO UNREPAIRED DEFECTS, NEITHER THIS PHASE'S TO FIX

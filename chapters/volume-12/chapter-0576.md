@@ -1,22 +1,12 @@
 # A Figure That Did Not Move
 
-Nine days from the twenty-first of June to this morning. The twenty-first of June was one thousand five hundred and eighty days off the first of February of the first year, and this morning is one thousand five hundred and eighty-nine, and one thousand five hundred and eighty-nine less one thousand five hundred and eighty is nine, and it is nine because the thirtieth of June is the last day of the month and one thousand five hundred and eighty is the twenty-first, and thirty less twenty-one is nine.
+A bundle was squared off on the table by midday and the eighteenth sheet was the top of it, and it went out at four that afternoon.
 
-And it is ninety days from the thirtieth of March, which is one thousand four hundred and ninety-nine, and one thousand five hundred and eighty-nine less one thousand four hundred and ninety-nine is ninety, and thirty and thirty and thirty is ninety. And one hundred and forty-six from the fourth of February, which is one thousand four hundred and forty-three, and one thousand five hundred and eighty-nine less one thousand four hundred and forty-three is one hundred and forty-six.
+The thirteenth sheet heads itself the thirteenth and the fifteenth quarter is the fifteenth and the sixteenth went out on the thirtieth of December and the seventeenth on the thirtieth of March, and this is the eighteenth, and a quarter is three months of thirty days and a year is three hundred and sixty, and there is no thirty-first in any month of this city.
 
-And it is one hundred and eighty days from the thirtieth of December, which is one thousand four hundred and nine, and one thousand five hundred and eighty-nine less one thousand four hundred and nine is one hundred and eighty, and a year is three hundred and sixty, and one hundred and eighty is half of one.
-
-And one hundred and eleven from the ninth of March, which is one thousand four hundred and seventy-eight, and one thousand five hundred and eighty-nine less one thousand four hundred and seventy-eight is one hundred and eleven.
-
-And it is one hundred and fifty days from the thirtieth of January, which is one thousand four hundred and thirty-nine, and one thousand five hundred and eighty-nine less one thousand four hundred and thirty-nine is one hundred and fifty, and that is five months of thirty days.
-
-The thirtieth of June is the last day of the sixth month of that year, and the sixth month has thirty days and no thirty-first, and the first of July is the day after and not a day of it.
+Wenna Raut had squared eleven sheets, every one of them written out on the back of a printed sheet and sent to the address at the head of a public page. Three of them were the three her division had sent on the twenty-first, entered exactly as given. Eight were other people's words, with an hour against each and no figure on any of them.
 
 ## The Eighteenth Sheet
-
-The eighteenth sheet goes out at four on the thirtieth of June. The thirteenth sheet heads itself the thirteenth, and the fifteenth quarter is the fifteenth, and the sixteenth went out on the thirtieth of December and the seventeenth on the thirtieth of March, and this is the eighteenth.
-
-Wenna Raut had the bundle squared off on the table by midday, eleven sheets in it, each one written out on the back of a printed sheet and sent to the address at the head of a public page. Three of them were the three her division had sent on the twenty-first, entered exactly as given. Eight of them were other people's words, with an hour against each and no figure on any of them.
 
 Yusuf Adeyemi stood at the end of the table and read the figure at the top without touching the sheet.
 
@@ -52,8 +42,12 @@ The office's own sentence is at the foot of the sheet and he did not write it. T
 
 He stood at the foot of the ranks wall at about ten to five while about nine thousand people went under it, because it is an ordinary evening of an ordinary month and the trams go under it, and the repainting form was up beside the last tile with both boxes still blank.
 
-This is the cost of the first of May, and it lands on the page in this batch: his name against hers on the same page under the same heading, where a city that reads every morning can read it.
+This is what the first of May cost, and it went out at four with everything else on the sheet: his name against hers on the same page under the same heading, in a column with no rule in it saying a man may not do that, in a city that reads every morning.
 
-*The thirtieth of June, one thousand five hundred and eighty-nine days. Nine days from the twenty-first, ninety from the thirtieth of March and one hundred and eighty from the thirtieth of December, which is half a year.*
+*The thirtieth of June, one thousand five hundred and eighty-nine days. One thousand five hundred and eighty-nine less one thousand five hundred and eighty, which is the twenty-first, is nine, and thirty less twenty-one is nine.*
 
-*One hundred and fifty from the thirtieth of January and one hundred and eleven from the ninth of March. The eighteenth sheet has gone out at four with eight hundred and fifty-two at the top, which did not move, and two lines in the second column, one of which is his and one of which is a woman he never asked.*
+*Less one thousand four hundred and ninety-nine, the thirtieth of March, is ninety, and thirty and thirty and thirty is ninety. Less one thousand four hundred and forty-three, the fourth of February, is one hundred and forty-six. Less one thousand four hundred and nine, the thirtieth of December, is one hundred and eighty, which is half of a year.*
+
+*Less one thousand four hundred and seventy-eight, the ninth of March, is one hundred and eleven. Less one thousand four hundred and thirty-nine, the thirtieth of January, is one hundred and fifty, which is five months of thirty days.*
+
+*The eighteenth sheet has gone out at four with eight hundred and fifty-two at the top, which did not move, and two lines in the second column, one of which is his and one of which is a woman he never asked.*

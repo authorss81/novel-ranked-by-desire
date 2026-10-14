@@ -1,38 +1,34 @@
 # The Division That Printed It
 
-Ten days from the first of June to this morning. The first of June was one thousand five hundred and sixty days off the first of February of the first year, and this morning is one thousand five hundred and seventy, and one thousand five hundred and seventy less one thousand five hundred and sixty is ten.
-
-And it is forty days from the first of May, which is one thousand five hundred and thirty, and one thousand five hundred and seventy less one thousand five hundred and thirty is forty. And forty-one from the thirtieth of April, which is one thousand five hundred and twenty-nine, and one thousand five hundred and seventy less one thousand five hundred and twenty-nine is forty-one.
-
-And it is one hundred and sixty days from the first of January, which is one thousand four hundred and ten, and one thousand five hundred and seventy less one thousand four hundred and ten is one hundred and sixty, which is how long the fifth book has been chained.
-
-And one hundred and fifty-nine from the second of January, which is one thousand four hundred and eleven, and one thousand five hundred and seventy less one thousand four hundred and eleven is one hundred and fifty-nine, since the keeper spent her question.
-
-And it is two hundred and sixty-five days since Beatrix Halm's last scene, which is one thousand two hundred and sixty-five, and one thousand five hundred and seventy less one thousand two hundred and sixty-five is two hundred and sixty-five. And two hundred and thirty-six since he entered the claim, which is one thousand three hundred and thirty-four, and one thousand five hundred and seventy less one thousand three hundred and thirty-four is two hundred and thirty-six.
-
-The eleventh of June is eleven days into the sixth month of that year, and the sixth month has thirty days and no thirty-first, and the thirtieth of June is nineteen days off, because thirty less eleven is nineteen.
-
 A message reached him at the branch at about eight in the evening, left at the counter in a hand that writes small. Two lines on a scrap of division paper with his name across the top, telling him to come to the room over the chandler's at eleven and to come alone.
+
+He read it twice on the stair and then did the sum on the way up, because the stair was nine minutes and he had them.
+
+One thousand five hundred and seventy is tonight. Less one thousand five hundred and sixty, which is the first of June, is ten days. Less one thousand five hundred and thirty, which is the first of May, is forty. Less one thousand five hundred and twenty-nine, which is the thirtieth of April, is forty-one.
+
+Less one thousand four hundred and ten, which is the first of January, is one hundred and sixty, and that is how long the fifth book has been chained. Less one thousand four hundred and eleven, which is the second, is one hundred and fifty-nine, and that is what is left of a keeper's one question.
+
+Less one thousand and ninety-nine, which is the twentieth of February of the fourth year, is four hundred and seventy-one, and that one is a roof.
+
+Less one thousand three hundred and thirty-four is two hundred and thirty-six, and that one is the claim.
 
 ## Over The Chandler's
 
-The room over the chandler's has one table and nine chairs round it and a window that looks down on Cordwain. Nine people work out of it with four hundred and nineteen accounts behind them, with an hour against each and no figure on any of them.
+The room over the chandler's has one table and nine chairs round it and a window that looks down on Cordwain, and the window is the only thing in the room that is not wood. Nine people work out of it with four hundred and nineteen accounts behind them, with an hour against each and no figure on any of them.
 
-Beatrix Halm was at the head of the table with a notebook shut in front of her and her coat on. She turned her hearing side toward him when he came in and shut the door behind him herself.
+Beatrix Halm was at the head of the table with her coat still on and the notebook shut in front of her and the proof of the eighteenth sheet under her right hand, face up, which is not how a proof is kept. She turned her hearing side toward him when he came in and shut the door behind him herself.
 
-“You put a name in a column without asking her anything,” she said. “I have read the sheet that will go out on the thirtieth. Wenna Raut read it to me yesterday because I asked her to, and she reads everything the way she reads everything.”
+“You put a name in a column without asking her anything,” she said. “I have read the sheet that goes out on the thirtieth of June. Wenna Raut read it to me yesterday because I asked her to, and she reads everything the way she reads everything.”
 
-Lin Hao put his bucket down by the door, because there was nowhere else in a division room to put a thing a man carries on a night shift. He works eleven at night until half past five, four nights and three off, and the rota page at the branch carries four names and no band and no figure.
+Lin Hao put his bucket down by the door, because there was nowhere else in a division room to put a thing a man carries on a night shift.
 
-“I entered the first name on the yard's board,” he said. “I had not asked her a single question and I had never seen her. There was no division in this city that went out for her and there is not one now.”
+“I entered the first name on the yard's board,” he said. “I had not asked her a single question and I had never seen her. There is still no division in this city that goes out for her.”
 
-“That is what your four lines say,” Beatrix Halm said. “I have had those four lines on nine boards in nine corridors since the first of May. My division printed the form those boards came off, because we are the division that does the printing, and every one of my nine has read them about four hundred times.”
+“That is what your four lines say.” She had had those four lines on nine boards in nine corridors since the first of May, printed by her division, read by every one of her nine about four hundred times, and she had not once enjoyed them.
 
-She opened the notebook and did not look down at it. The round went out in the fourth month of the fourth year and finished on the thirtieth of June, nine divisions and about nine hundred doors in ninety days, and her division was the one that kept the district book without ever losing a street.
+She opened the notebook and did not look down at it. Nine years of a division in one sentence: what the round reports is what was felt, in order, and it may not go back and be improved afterwards, because afterwards you are writing about a woman you have decided about.
 
-“You wrote a definition in forty days from the ninth of March of the second year,” she said. “You read it out at the kitchen off Ferrier Street on the nineteenth of July. It went out on the sheet of the thirtieth of June of that year. Your fourth line is enforced by the absence of a form, which is the cheapest enforcement there is. I know all of that because I set type with a man off Cordwain in March and he told me.”
-
-Lin Hao felt the particular heat a man feels when a woman who runs a machine has read him correctly and is not going to stop. He wanted to defend the entry, and he knew there was no defence that was not also an accusation against every division that ever went to a door.
+Her nine write every answer down in the order it arrives. Ilma Reese has never once been late in nine years and Tenna Vole writes the way she writes, which is small, and neither of those two facts has ever been in a column.
 
 “What my nine do with your four lines when nobody asks them to is my business,” she said. “What you do with a name my round found is mine too. You did the thing in a room off a third court that you told eleven thousand people you would do nothing about. Say it out loud so I know you know it.”
 
@@ -40,70 +36,104 @@ Lin Hao felt the particular heat a man feels when a woman who runs a machine has
 
 ## What The Round Reports
 
-She stood up and went to the window and stood with her back to it, the way she had stood on a roof in February with her back to the weather, and she talked into the room so that it went across her face and not past her deaf ear, and nothing was done to her ear on the page.
-
-“My division has a rule,” she said. “What the round reports is what was felt, in order, and it may not go back and be improved afterwards. My nine write every answer down in the order it came out, because improving them is not theirs to do. Ilma Reese has never once been late in nine years. Coen Ardry wanted a line left out of a page in the second year and I did not let him. Tenna Vole writes the way I write and she writes it small.”
-
-She came back to the table and leaned on it with both arms and looked at him.
-
-“I am going to tell you what I want in the order it arrived, and I am not going back over it, and you are going to listen the way my nine listen.”
+“You want to know what I do with anger,” Beatrix Halm said. “I use it while it is fresh. Nine years of it and I have never once written an anger down the next morning, because the next morning it is a better sentence about her than it is about me, and I do not work for that. That is what I am doing with you. Be quick about it.”
 
 He listened.
 
-“I was angry when I read the sheet,” she said. “I am still angry. You used my round's work to find a woman and then you found her without it. I wanted to see you before the quarter ends. I want this now and I have wanted it since February and I am not going to be careful with you about it.”
+“I was angry when I read the sheet,” she said, “and the anger is forty days old tonight, which is one thousand five hundred and seventy less one thousand five hundred and thirty, and I did not spend it on a page and I did not spend it on my nine.”
 
-That was all of it, said once, in order, with nothing improved. She did not explain the anger and she did not soften the want, and she did not go back to the first sentence to make it read better beside the last one.
+“I am going to say what I want in the order it arrived and I am not going back over it, and you are going to listen the way my nine listen, because listening in the order things arrive is the whole of what they are for.”
 
-He said yes fast, because saying yes is fast when a woman has said what she wants out loud and means it, and because he had learned on a roof four years ago that being careful with her for a month is the one thing she will not let him do.
+She said it. Anger first, and she did not dress it up or soften the edge of it. Then what she had wanted since a roof in February and had decided to have anyway. Then the part about not being careful with him about either of those.
 
-## The Shut Door
+He said yes in about four seconds, because saying yes is fast when a woman has said what she wants out loud and means it, and because careful with her for a month is a thing he has never once been allowed to be.
 
-She shut the door of the room, which is a thing a woman can do in a room with nine chairs in it, and she came round the table without hurrying and stood in front of him where he sat.
+## The Sheet Face Down
 
-She got the front of her coat open with one hand and worked her arm out of the sleeve and let the coat fall behind her on the table. Her hands were cold from the room and her mouth was warm when she put it against his jaw where she could feel him, and she held it there while she got her breath in and out twice.
+She turned the proof over before she got out of the chair and put her palm flat on the back of it and did not lift the palm while she said the next of it.
 
-She told him what she wanted next in short flat sentences, in the order she wanted it, and he did it. She put his mouth on her throat and held the back of his head there until her breathing changed under his lips. Then along her collarbone, one side and then the other, and lower, where her dress gave and her skin was hot under his hands.
+“Read me the second column.”
 
-She got her hips up and turned over onto him with all of her weight coming down onto his chest, and she did it without help and without hurrying. She opened him with the heel of her hand and took him inside her slowly, in her own time, with her face pushed down into his collar and her breath going short and hot against his neck.
+“It has two lines in it.”
 
-She sat there on him without moving long enough that the noise of Cordwain came up through the window and went back down again. Her thighs were tight round him and her belly was wet where they met, and when she began to move she moved the way a woman moves who has waited since winter and is not going to be hurried by him either.
+“Read them as they are written. Not as you would say them.”
 
-She took his face in both hands and turned it toward her hearing side so she could hear him breathe. She kissed him hard on the mouth with her tongue in his mouth, and he tasted her and she tasted him, and she licked the sweat off his lip and laughed once, short, without stopping.
+He read them. His four lines came first and then her name under them, carried by Lin Hao, rank one, in a hand nobody in this city can read but his own, and it took him about nine seconds because he had written it, and he could not put it in another voice when he tried, which was the thing she had wanted him to find out in a room with nine chairs in it.
 
-“Slower,” she said. “You are going to want to be quick, and I know exactly how long it takes a man to stop wanting that.”
+“That is what goes out on the thirtieth of June at four,” she said. “About two hundred people a week read one of those. About four in every thousand get as far as the bottom, and the bottom is where you have put her. I am not going to improve that and my nine are not going to improve it, and that is everything I came up here to say before I said anything else.”
 
-He was slower. He stroked her back from her neck to the small of it with his palm flat, and she arched into his hand and spread herself wider over him and took him deeper inside her.
+“Say the rest of it.”
 
-Her breasts were full against his chest and her nipples were hard through her dress where it had ridden up, and she pushed them into him and moaned when he sucked first one and then the other through the cloth. Then she pulled the cloth down and gave him her bare breast with its areola tight and wet from his mouth.
+She got up out of the chair. She did not come round the table. She took his coat off him where he stood, one button and then the other sleeve, and dropped it over the chair back, and then she put his hand flat between her shoulder blades and made him keep it there.
 
-She rode him harder then, thrusting down on him, her butt in his hands and his fingers digging into the flesh of it, her hole clenching round his hard cock as he thrust up into her. She panted and gasped against his throat, her tongue on his skin, her teeth at his ear on the hearing side, and the wet sound of them was loud in the shut room.
+“Talk to me while I get my dress off,” she said. “I can hear myself and you cannot, and if you want to know what is happening to you tonight you will have to say it out loud and feel it arrive.”
 
-When she came she put her mouth against his jaw and held there and breathed, her whole body shaking, her thighs shaking, pleasure going through her in waves she did not hide and did not perform. He held her hips and held still inside her while she had it, the way she wanted it.
+He talked about the branch, and the three floors of washrooms and the stairwell and the bin room, and about the four names on the rota page with no band and no figure cut into it anywhere, and about the notice board in the corridor with three of his four lines pinned to it and the fourth cut off with a blade because the fourth is the one that is about somebody else.
 
-Then she got her hand between them and closed it on his penis and worked him with a patience that was worse than anything else she had done that morning, stroking him from base to tip while she kissed him, her other hand on the back of his neck holding him to her mouth.
+And while he talked she pulled her dress off over her head in one movement, the way a woman undresses in a room she has undressed in before, and dropped it on his coat on the chair back.
 
-He came hard inside her hand, semen over her fingers and over both of them, and she felt all of it and did not pretend not to, and licked her fingers clean with the flat of her tongue while she looked at him.
+Then she stood in front of him with her hands at her sides and said, “Now tell me what you can see. In the order it arrives. Do not improve it.”
 
-Then she got her knee into him and pushed him back against the table, and she was on him again before he had properly got his breath, naked now, her dress up round her waist and her pussy bare and wet and open, and she took him in herself a second time and rode him until he thrust into her and spent himself inside her, deep, with her mouth on his and her tongue in his mouth and her legs locked round his back.
+“Your hair is up and it is coming down on one side,” he said. “There is an old mark on your forearm about the size of a thumb and you have not once tried to keep it out of the light. You are standing on the side of the room where the street is loudest and you have turned your good ear away from it.”
 
-Afterwards she got off him and went three feet on her hands and knees and sat down on the far side of the table and started putting her hair back up with both hands.
+“Your hands are cold and they are not shaking. There is nothing under the open collar that a person would be surprised by, and you have not asked me one question about the thirtieth of June, and I have not told you.”
 
-“Right,” she said.
+“That is a page,” she said. “That is what my nine bring me, in that order, and I enter it exactly as given, and neither am I going to explain one word of it. Now come here and put your mouth on me and I will tell you what I want.”
 
-That is all either of them said about it for four minutes.
+She took him the rest of the way in the same flat voice, three things and then a fourth, and he could not tell whether she was reading a line out or telling him the truth, and he stopped trying to tell.
+
+She got his shirt off him over his head the way she had got her own dress off, without hurry and without being asked, and then she did nothing at all for about four seconds, which was the longest anybody had ever not done anything to him on purpose.
+
+Then she took him in her mouth. She went down onto him sitting on the edge of the table with her knees apart and one hand flat on the top of his head, neither fast nor slow, and the whole time she told him in the same flat voice what nine hundred doors sound like in ninety days, and he came up into her throat while a woman counted nine hundred doors at him through the back of his own ribs.
+
+She lifted her mouth off him, wiped it with the back of her hand, and said, “That is the first thing. There are two of them and the second one has nothing to do with the division.”
+
+She got him turned with a hand on his hip and sat back down on the edge facing him and took him inside her herself, upright, with her back against the cold glass and her heels hooked on the stretcher. She was tight for about two seconds and then she was not, and she watched his face while that happened.
+
+“There,” she said. “You can hear me and I cannot hear you, and that is the whole of the difference between us and it is the reason I can do this and you cannot.”
+
+Her hand stayed between his shoulder blades the whole time. That was the arrangement, and she did not change it, and he did not ask her to.
+
+“Tell me the second one again,” she said, about a third of the way in, with her mouth against his ear. “Say it in the order it arrives.”
+
+He said it. He kept saying it while she moved, and he felt her hand tighten by about the width of a thumb between his shoulders, and her belly was wet against him and the cold of the glass came through the back of her and into both of them.
+
+Then she stopped moving and held him still inside her and said, in the flat voice, “You want to know what this is.”
+
+“Legs, and the inside of one knee that has been cold since the stair. A back, and a mark on the left forearm about the size of a thumb, and it has been there nine years and I have not had anybody look at it since a roof. Hands, cold, and not shaking. And a mouth that has been told no by about nine hundred people in nine years and has not been told yes once, and is being told something now.”
+
+She said it in that order because that is the order it arrived in, and she did not improve one part of it, and nine of the women who work for her write down bodies in exactly those words for a living and have never once had to live inside the sentence.
+
+“I am not being kind to you,” she said. “I am angry and I am using you and both of those are true at once and I am not going to sort them out for you. Get your hand under me.”
+
+He got his hand under her. She rode him harder then, her mouth open and her teeth at his throat on the side she could hear herself on, her cunt closing on him in the middle of each stroke, and she said his name once and heard nothing at all of it.
+
+So she said it again, louder, both hands on his face, and the second time she had it, and he understood that she had needed the second one.
+
+When she came her hand went back between his shoulder blades and closed there, and her thighs locked round him and she shook for about four seconds with her mouth shut and her eyes open. Then she took her hands off him and took him over with one hand in about eleven seconds, the way she does a thing with an hour against it, and she let him feel the whole of it and did not look away from his face while he did it.
+
+Then she pushed him off with a foot and got off the table and stood for a moment with her arms down, breathing, entirely awake, not cold.
 
 ## After
 
-She waited until she could be heard, which took a while, and then she said it without looking at him.
+She turned the proof the right way up and squared it to the edge of the table, which is what Wenna Raut does with everything that comes into that room off a third court, and which he had not once seen Beatrix Halm do in nine years.
 
-“About nine in ten of what nine hundred people tell us at nine hundred doors will not go in your book. I told you that on a roof and it is still true, and your entry yesterday proved it, because you entered a woman your own four lines throw out.”
+“You came up that stair with paint in the split of your nails off a wall you have not put anything on,” she said, “and the cough in you has been in you four years, and your coat is wet through at the shoulder from nine minutes of it. Your hands were cold when you came in and they are cold now. That is the whole of what I can see and I am not going to improve one part of it.”
 
-He buttoned his coat and picked up his bucket. He felt tenderness and anger at once, and the anger was hers and the tenderness was his, and he wanted to keep both without mixing them.
+“It was not a bad stair.”
 
-“The quarter ends on the thirtieth,” she said. “The eighteenth sheet goes out at four with your name against hers on the same page under the same heading. My division printed the form and my division will read the sheet, and about two hundred people a week read one and about four in every thousand get to the bottom. That is what you bought yesterday morning.”
+“No. But you did the sum on it instead of the two cigarettes you were going to smoke on it, and you have been counting since the fourth of February and I have been counting since a roof, and nobody is going to thank either of us for it, least of all me.”
 
-He went down the stair past the chandler's shop and out into Cordwain with his bucket in his hand and the door shut behind him, and he understood that the woman who would have to run anything that goes looking had looked at him and had found him wanting and had wanted him anyway.
+She got her coat off the chair and put it on and did not do up the front of it.
 
-*The eleventh of June, one thousand five hundred and seventy days. Ten days from the first of June, forty from the first of May and forty-one from the thirtieth of April, one hundred and sixty from the first of January and one hundred and fifty-nine from the second.*
+“The thirtieth of June at four it goes out. Two hundred a week read one and about four in a thousand get to the bottom, and the second column will have two lines in it, and the line is yours. It went in in your own hand, and the only person who has ever taken anything out of your hand was you, and you did that at about a quarter past five on the first of May in a room with two chairs in it.”
 
-*Two hundred and sixty-five since her last scene and two hundred and thirty-six since he entered the claim. The division that printed the form is hers, and she has said what the round does with his four lines when nobody asks, and she has spent the morning with him and is still angry.*
+He buttoned his coat and picked up his bucket off the floor. He felt tenderness and anger at once and knew that one of the two was hers and the other was his, and that the division between them was the only thing he had learned in nine minutes on a stair.
+
+He went down past the chandler's shop and out into Cordwain with his bucket in his hand, and the street took the noise of his boots and did not give it back.
+
+*The eleventh of June, one thousand five hundred and seventy days. Less one thousand five hundred and sixty is ten, less one thousand five hundred and thirty is forty, less one thousand five hundred and twenty-nine is forty-one, less one thousand four hundred and ten is one hundred and sixty, less one thousand four hundred and eleven is one hundred and fifty-nine.*
+
+*Less one thousand and ninety-nine, the twentieth of February of the fourth year, is four hundred and seventy-one since the roof.*
+
+*Less one thousand three hundred and thirty-four, the fifteenth of October of the same year, is two hundred and thirty-six since he entered the claim. Her division prints the form, and she came down a stair to say what she wanted in the order it arrived, and she is still angry, and on the thirtieth of June at four the eighteenth sheet goes out with his name against hers on it.*

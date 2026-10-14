@@ -1,8 +1,10 @@
 # The Repainting Form
 
-Zero days from the thirtieth of April to this morning. The thirtieth of April was one thousand five hundred and twenty-nine days off the first of February of the first year, and this morning is one thousand five hundred and thirty, and one thousand five hundred and thirty less one thousand five hundred and twenty-nine is one, and the first of May is the day after the thirtieth of April, and the morning after a last day is the first.
+No days at all since the drawer was shut, and the drawer was shut this afternoon: both of them are the first of May, and the first of May is one thousand five hundred and thirty days off the first of February of the first year. One thousand five hundred and thirty less one thousand five hundred and thirty is nothing at all.
 
-And it is ninety-one days from the thirtieth of January, which is one thousand four hundred and thirty-nine, and one thousand five hundred and thirty less one thousand four hundred and thirty-nine is ninety-one: one day to the first of February, thirty days of February, thirty of March, thirty of April, and no days of May at all, because this is the first, and one and thirty and thirty and thirty is ninety-one.
+One thousand five hundred and thirty less one thousand five hundred and twenty-nine, which is the thirtieth of April, is one, and that one went by in the night before a woman who keeps a list stood in a doorway and said the one thing she was going to say.
+
+And it is ninety-one days from the thirtieth of January, which is one thousand four hundred and thirty-nine, and one thousand five hundred and thirty less one thousand four hundred and thirty-nine is ninety-one: thirty, thirty, thirty and one, counted out of the four months behind today and not forward out of this one.
 
 He had been in the room off a third court at about a quarter past five and a woman who keeps a list had stood in the doorway and said the one thing she was going to say and had gone home. The drawer was shut. The page with about a hundred and thirty-nine names in it was in the drawer. The book was on the table above it with two lines in the second column, and one of them was his.
 
@@ -68,4 +70,6 @@ He went down Cordwain with about six hours before his shift and the drawer shut 
 
 The nine boards had gone up that morning in nine corridors with his four lines on them and no name at the top, and about thirty people a day walk past each.
 
-*The first of May, one thousand five hundred and thirty days. The same morning as the nine boards, one day from the thirtieth of April and ninety-one from the thirtieth of January. The repainting form is up at the foot of the wall with two boxes at the foot of it, both blank, one for a figure and one for a standing. A man who puts the form up has asked what goes in them, and he has not answered yet.*
+*The first of May, one thousand five hundred and thirty days. The same day as the nine boards and the same afternoon as the drawer, nothing at all since the drawer was shut, one day from the thirtieth of April and ninety-one from the thirtieth of January.*
+
+*The repainting form is up at the foot of the wall with two boxes at the foot of it, both blank, one for a figure and one for a standing. A man who puts the form up has asked what goes in them, and he has not answered yet.*

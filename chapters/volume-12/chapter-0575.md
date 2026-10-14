@@ -10,7 +10,7 @@ The sheet came off her division the morning after, carried to the room off a thi
 
 Wenna Raut read the sheet twice at one speed and squared it and put it on the table. A clerk may only enter what she is given and cannot improve it and cannot be asked to hurry, and she said so before anybody could ask her.
 
-“Three of these can be entered,” she said. “Six of them cannot, because six of them have no day a person can name, or no other person a person reading this in four years would know. That is not a fault in them and it is not a fault in the four lines. It is the shape of what a person is when the thing they did happened while they were the only person in the room.”
+“Three of these can be entered,” she said. “Six of them cannot, because six of them have no day a person can name, or no other person a person reading this in four years would know. That is not a fault in them and it is not a fault in the four lines. It is what a person is at the end of a thing they did on their own, and about nine in every ten of what walks into that room is that.”
 
 Yusuf Adeyemi stood at the end of the table and did not sit down. He had stood that way at the end of a table in March when nine boards went up with no name on them, and he had been right then and he was right now.
 

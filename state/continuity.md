@@ -1,3 +1,61 @@
+# VOLUME 12 BATCH 0003 IS WRITTEN AND REPAIRED AGAINST ITS REVIEW. CHAPTERS 571–580 ARE ON DISK. **`outline/volume-12.md` §7'S MOVEMENT-THREE CARDS WERE REWRITTEN AGAINST THE PAGE IN THE SAME PASS. THE FIGURE BOX WAS ANSWERED NO AT 573 AND STAYS BLANK FOR THE REST OF THE BOOK. THE STANDING BOX WAS REFUSED FOR BERTA SKELL AT 578. BOTH BOXES ARE STILL BLANK AT THE END OF 580. THE EIGHTEENTH SHEET WENT OUT 30 JUN WITH 852 UNMOVED AND TWO LINES IN THE SECOND COLUMN. THE 574 SCENE WAS REWRITTEN BECAUSE IT REPLAYED 536 AND IT NOW SHARES ZERO 8-GRAM RUNS WITH IT. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0a. THE SPINE, 571–580, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE AFTER THE REPAIR PASS
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1), where Feb 0, Mar 30, Apr 60, May 90, Jun 120, Jul 150, Aug 180.**
+
+```
+571   1 May y5   4 x 360 + 90  + 0  = 1530     0 after 570  (1530 - 1530 = 0, same day, same afternoon)
+572  11 May y5   4 x 360 + 90  + 10 = 1540    10 after 571  (1540 - 1530 = 10)
+573   1 Jun y5   4 x 360 + 120 + 0  = 1560    20 after 572  (1560 - 1540 = 20)
+574  11 Jun y5   4 x 360 + 120 + 10 = 1570    10 after 573  (1570 - 1560 = 10)   SCENE
+575  21 Jun y5   4 x 360 + 120 + 20 = 1580    10 after 574  (1580 - 1570 = 10)
+576  30 Jun y5   4 x 360 + 120 + 29 = 1589     9 after 575  (1589 - 1580 = 9; thirty less twenty-one)   QUARTER-END
+577  10 Jul y5   4 x 360 + 150 + 9  = 1599    10 after 576  (1599 - 1589 = 10)
+578  20 Jul y5   4 x 360 + 150 + 19 = 1609    10 after 577  (1609 - 1599 = 10)
+579  30 Jul y5   4 x 360 + 150 + 29 = 1619    10 after 578  (1619 - 1609 = 10)
+580   8 Aug y5   4 x 360 + 180 + 7  = 1627     8 after 579  (1627 - 1619 = 8)
+MONOTONIC, 0 VIOLATIONS. Cross-checked month by month from 4 x 360 = 1440:
+May 1530-1559 · June 1560-1589 · July 1590-1619 · August 1620-1649.
+```
+
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1530 − 1439 = **91** (30 + 30 + 30 + 1) · 1627 − 1530 = **97** (30 + 30 + 30 + 7) · 1589 − 1499 = **90** (30 + 30 + 30) · 1589 − 1443 = **146** · 1589 − 1409 = **180** (half of 360) · 1589 − 1478 = **111** · 1589 − 1439 = **150** (five months of thirty) · 1570 − 1530 = **40** · 1570 − 1529 = **41** · 1570 − 1410 = **160** · 1570 − 1411 = **159** · **1570 − 1099 = 471** · 1570 − 1334 = **236**.
+
+**THE 471 IS THE FIGURE THIS PASS CORRECTED AND IT IS THE ONE A LATER PHASE MUST CARRY.** The first draft printed **1570 − 1265 = 265** for the interval since chapter 536, which is wrong twice: the subtraction is 305, and 1,265 is not chapter 536. **Chapter 536 IS 1,099** — `outline/volume-11.md` §7 movement four prints `536 = 1099`, and the twentieth of February of year four is 3 × 360 + 19 = 1,099 — and **1570 − 1099 = 471**. The chapter now prints one thousand and ninety-nine and four hundred and seventy-one on the page in both places, and `outline/volume-12.md` §7's 574 card carries the withdrawal. **A LATER PHASE THAT MEASURES ANYTHING AGAINST 536 OR AGAINST 574 DERIVES IT FROM 1,099 AND NOT FROM A ROUNDED MONTH.**
+
+**WHERE THE ARITHMETIC NOW LIVES, CHAPTER BY CHAPTER.** 572, 573, 575, 577 AND 579 STILL OPEN WITH THE COUNT, AND 571 KEEPS IT BECAUSE IT IS THE DAY THE DRAWER IS SHUT AND THE INTERVAL FROM 570 IS ZERO. **574, 576, 578 AND 580 OPEN ON THE SCENE AND PRINT THE WHOLE SUBTRACTION CHAIN IN THE NOTEBOOK FOOTER INSTEAD.** 574's chain runs down a nine-minute stair as a descending subtraction and is the only one of its kind in 551–600. **EVERY FIGURE ABOVE WAS PARSED OUT OF THE PAGE AND ITS OPERANDS SUMMED, NEVER QUOTED FROM A CARD.**
+
+## 0b. WHAT 571–580 ADDED TO THE CANON, AND WHAT A LATER PHASE MAY NOT BREAK
+
+- **THE TWO BOXES ARE NAMED AND DATED:** left holds a figure, right holds a standing, both blank since 8 Oct y1, when a clerk handed sheet and form and no instruction typed two words into the standing box and a boy painted it. Last in frame at 552; back in frame at 571.
+- **THE FIGURE BOX STAYS BLANK FOR THE REST OF THE BOOK.** Refused 1 Jun at 573; chapter ends on the refusal; nobody expands it. No chapter of 551–600 prints the account figure or a floor.
+- **THE STANDING BOX IS NOT FOR BERTA SKELL.** Refused 20 Jul at 578 after ten nights carrying the question. Both boxes still blank at end of 580; no chapter of 551–600 may fill either.
+- **THE EIGHTEENTH SHEET (30 JUN) CARRIES 852 UNMOVED AND TWO LINES IN THE SECOND COLUMN** (his; Berta Skell carried by Lin Hao rank one). ~200/week read one; ~4/1000 reach the bottom. Cost of 570 landed.
+- **HER DIVISION PRINTS THE REPAINTING FORM** and sent nine lines 21 Jun (three entered exactly as given, six face down for want of day or describable other person), and a man from it promised at 573 that the sheet would come back on the next quarter's sheet. **That promise is paid at 577 and is why 579 finds the division writing instead of asking.**
+- **BRACK CHALKS BESIDE THE OFFICE'S HAND** (30 Jul), chalk beside paint, neither covering the other; right about every fact; not defeated. Lane holds two instruments that disagree; Brack right about the disagreement.
+- **THE 574 SCENE'S THREE BODY DESCRIPTIONS ARE CANON AND ARE NOT RE-USABLE AS A STAGING:** he describes her at her instruction in her order, she describes herself in the same order while he is inside her, and she describes him in the same register afterwards. **A LATER SCENE MAY NOT RE-STAGE 574's furniture** — the proof turned face down, the mouth first, the upright position against cold glass with her heels on the table stretcher, the hand that never leaves between his shoulder blades, the name said twice because she cannot hear the first one, the eleven seconds. **536 IS ALSO UNTOUCHED AND UNREUSABLE.** The bank of bodies the two scenes draw on is now disjoint, verified at eight words.
+
+## 0c. THE SCENE AT 574, MEASURED THREE WAYS, WITH THE PROBE BANK
+
+**BEATRIX HALM. Last scene 536; 574 − 536 = 38 chapters; 1570 − 1099 = 471 days. AXIS BROKEN IS THE BODY DESCRIBED IN WORDS THREE TIMES, carried by the division's rule (what the round reports is what was felt, in order, not improved afterwards), named by nobody: **described three times on the page**, once by him at her instruction, once by her of herself in the same order, once by her of him in the same register. No compulsion/sedation/exhaustion/toxin/restraint/psychic contact/trance/seal. Both adults. Fast yes, enjoyable to her, and she is angry throughout and does not resolve it. No violence in the chapter. Deafness a fact, and the only instruments she uses for it are her hand between his shoulder blades and his mouth at her ear; nothing done to her ear, and she hears her own voice, which is why she says his name twice. No mark given; §4d row says check the page and the page was checked (536 roof, nine names, small hand). 546 staging not restaged; Alma Quayle seating nowhere; Mavis hand-flat nowhere. **NOT 536'S STAGING AND NOT 536'S BEAT ORDER: zero eight-word runs shared with 536, zero with 554.**
+
+**574 HAS FOUR `##` HEADINGS AND THE CLOSING BOUNDARY IS THE `## After` HEADING WITH NO `##` AFTER IT, WHICH IS STATED:**
+
+| Definition | 546 Agnete (V11) | 554 Hanneke (0001) | 564 Agnete (0002) | **574 Beatrix (repaired)** |
+| --- | --- | --- | --- | --- |
+| (1) opening `##` to closing `##` | 3,451 | 3,554 | 4,803 | **2,128** |
+| (2) scene section INCLUSIVE | 2,085 | 2,855 | 2,665 | **1,945** |
+| (3) scene section EXCLUSIVE | 2,079 | 2,851 | 2,662 | **1,940** |
+| probe, scene section | 17 | 14 | 52 | **45** |
+| probe, whole file | 21 | 20 | 76 | **49** |
+| whole file | 3,570 | 3,730 | 5,622 | **2,898** |
+
+**PROBE BANK (substring, case-insensitive), PRINTED IN THE FORM THAT RETURNS THE FIGURES ABOVE:** cock · cunt · pussy · tits · breasts · nipple · nipples · areola · anus · arse · butt · hole · mouth · tongue · lick · suck · penis · vagina · labia · clitoris · cum · semen · ejacul · thrust · stroke · hard · erection · orgasm · moan · gasps · panted · inside · wet · thigh · **took** · naked · undress · spread · breast · kissed · bed · aching · pleasure · came · come · mouthful · wrist · back of his neck · flat of her tongue. **49 ENTRIES. `got him`, `took him` AND `took her` ARE NOT IN THIS BANK AND THE REASON IS PRINTED: THE FIRST DRAFT OF THIS BLOCK PRINTED ALL THREE ALONGSIDE `took` AND THEN PUBLISHED THE FIGURES AS IF ONLY `took` COUNTED, WHICH MADE THE BANK UNREPRODUCIBLE BY THREE.** Dropping the two subsumed entries is the only change, and every figure in this file is the figure this bank returns.
+
+**574: whole 49, scene exclusive 45. Non-scene chapters in this batch score 1–7 — 571 4 · 572 4 · 573 7 · 575 7 · 576 2 · 577 4 · 578 7 · 579 2 · 580 1 — with no explicit passage.** THE 546/554/564 FIGURES ARE RESTATED AND WERE NOT RE-RUN; THE 574 FIGURES WERE RUN HERE, AFTER THE REWRITE. **A PHASE THAT CHANGES THE BANK MUST RE-RUN ALL FOUR.**
+
+**WORD BANK, COUNTED PER FILE AND SUMMED:** 571 1,743 · 572 1,463 · 573 1,216 · **574 2,898** · 575 1,116 · 576 1,184 · 577 1,143 · 578 1,203 · 579 1,099 · 580 1,011. **BATCH TOTAL 14,076 (14,076 − 13,552 = +524 against the first draft, and every one of the 524 is scene or dialogue that was missing).** **574 IS THE ONE CHAPTER ABOVE THE 1,800–2,700 GUIDE BAND AND IT IS THE SCENE; THE SCENE HAD BEEN COMPRESSED TO FIT IT AND THE REPAIR WROTE IT OUT.** THE NINE NON-SCENE CHAPTERS RUN 1,011–1,734, BELOW THE BAND, BECAUSE THIS MOVEMENT'S BEATS ARE A REPAINTING FORM, TWO REFUSALS AND A QUARTER-END, AND EACH LANDS BETTER CLIPPED — 573 ENDS ON THE REFUSAL BY INSTRUCTION AND 578 ENDS ON THE DECISION. NO CHAPTER IS PADDED TO REACH A NUMBER AND NO FINISHED SCENE IS SPLIT TO SHORTEN ONE.
+
 # VOLUME 12 BATCH 0003 IS WRITTEN. CHAPTERS 571–580 ARE ON DISK. **`outline/volume-12.md` §7's movement-three cards WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT. THE FIGURE BOX WAS ANSWERED NO AT 573 AND STAYS BLANK FOR THE REST OF THE BOOK. THE STANDING BOX WAS REFUSED FOR BERTA SKELL AT 578. BOTH BOXES ARE STILL BLANK AT THE END OF 580. THE EIGHTEENTH SHEET WENT OUT 30 JUN WITH 852 UNMOVED AND TWO LINES IN THE SECOND COLUMN. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0a. THE SPINE, 571–580, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE

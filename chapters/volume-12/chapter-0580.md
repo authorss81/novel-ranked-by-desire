@@ -1,16 +1,12 @@
 # A Lane With Two Instruments In It
 
-Eight days from the thirtieth of July to this morning. The thirtieth of July was one thousand six hundred and nineteen days off the first of February of the first year, and this morning is one thousand six hundred and twenty-seven, and one thousand six hundred and twenty-seven less one thousand six hundred and nineteen is eight.
+He went down to the lane off Cordwain at about a quarter to seven in the morning, because a lane with two instruments in it is a thing a man has to see before his shift, and because he works eleven at night until half past five and is awake at seven for the people who read at seven.
 
-The eighth of August is eight days into the eighth month of that year, and the eighth month has thirty days and no thirty-first, and the thirtieth of August is twenty-two days off, because thirty less eight is twenty-two.
+The lane runs about sixty feet between the wall end and the branch, and it has nine stools along it and a line and a slate, and a grain of chalk to a head for a figure about four inches high.
 
-And it is ninety-seven days from the first of May, which is one thousand five hundred and thirty, and one thousand six hundred and twenty-seven less one thousand five hundred and thirty is ninety-seven: thirty days of May after the first, thirty of June, thirty of July, and seven of August, and thirty and thirty and thirty and seven is ninety-seven.
-
-He went down to the lane off Cordwain at about a quarter to seven in the morning, because a lane with two instruments in it is a thing a man has to see before his shift, and because he works eleven at night until half past five and is awake at seven in the evening for the people who read at seven in the evening.
+Emil Brack was at the wall end with the slate against his knee. Nine districts by the third year. The first morning of the lane is not printed here, because it is printed once at the opening of the volume's account and once at its close, and nowhere else.
 
 ## Two Instruments
-
-The lane had nine stools in it and a line and a slate, and a grain a head, and figures in chalk about four inches high. Nine districts by the third year. The first morning of the lane is not printed here, because it is printed once at the opening of the volume's account and once at its close, and nowhere else.
 
 At the wall end of the lane the office's hand is on the stone under the last tile, two words at the height of a name on a plate, in paint that goes over the top every month and has taken nothing with it every time. Beside it, in chalk, is a figure in Brack's hand, about four inches high, made up on purpose, with about nine others behind it he decided off nothing.
 
@@ -42,4 +38,6 @@ She went on down the lane toward the branch with her book under her arm, and he 
 
 The repainting form at the foot of the ranks wall carries two boxes, one of which holds a figure and one of which holds a standing, and they have both been blank since the eighth of October of the first year, and they are both still blank at the end of this morning. No hand in this city has filled either of them, and the figure box stays blank for the rest of the book.
 
-*The eighth of August, one thousand six hundred and twenty-seven days. Eight days from the thirtieth of July and ninety-seven from the first of May. A lane holds two instruments, one of chalk and one of paint, and the city can read one of them, and the two boxes at the foot of the repainting form are both still blank.*
+*The eighth of August, one thousand six hundred and twenty-seven days. One thousand six hundred and twenty-seven less one thousand six hundred and nineteen, which is the thirtieth of July, is eight. One thousand six hundred and twenty-seven less one thousand five hundred and thirty, which is the first of May, is ninety-seven, which is thirty of May after the first, and thirty of June, and thirty of July, and seven of August.*
+
+*A lane holds two instruments, one of chalk and one of paint, and the city can read one of them, and the two boxes at the foot of the repainting form are both still blank.*
