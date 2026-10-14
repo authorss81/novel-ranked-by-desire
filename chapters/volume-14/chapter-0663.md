@@ -6,8 +6,6 @@ Two thousand two hundred and thirty-three was the fourteenth of April and the tw
 
 He went up the hill to a yard off the Vestry at about two in the afternoon because the office has had nothing to say to anybody since the seventh of July and he wanted to hear what it sounded like when a thing was said out loud to people.
 
-## Eleven Thousand People And A Pale Rectangle
-
 About eleven thousand people live in that yard and on a working afternoon about nine hundred of them are standing in it, and on the twenty-first of April between two and four in the afternoon about four hundred came down that path, which is about nine times what goes down an ordinary path on an ordinary afternoon.
 
 At the far end of it, at the height of a man’s chest, there was a shutter with nothing on it.
@@ -38,8 +36,6 @@ And then she said the other thing, which is that she is going to say one of thos
 
 Then she came down the two steps and went into the arcade and she did not answer anybody, and about four hundred people stood in a half-circle in the flat space at the top of that path and let her go.
 
-## The Rule Nobody In That Yard Has Ever Been Given
-
 He had known about the stand since a note with four lines on it in a year he does not name, and he knew it was a rule, and he had never once been in a room where anybody named it, and neither had she.
 
 It is one thing a month on those steps and not a second. She may give back a person and she may say that nothing keeps it, and she may not answer, and she has not missed one in about sixteen months, and about two hundred of those months have been in front of a woman who heard none of them because there has never been anybody at the foot of that path to hear the first.
@@ -54,7 +50,7 @@ Since the ninth of November there has been nothing at the foot of that shutter a
 
 He got that out of the arithmetic on a step and then he went and found her.
 
-## What She Says About Sixteen Months
+## A Rule Nobody In That Yard Has Ever Been Given
 
 She was in the arcade with her back to a pillar and her coat still on, drinking out of a tin cup somebody had left on the sill, and she saw him coming and did not move.
 
@@ -71,6 +67,7 @@ She was in the arcade with her back to a pillar and her coat still on, drinking 
 “Why this month.”
 
 “Because in the sixteenth month there is somebody in the half-circle who can read, and she has a copy of the bottom of a page in her apron, and about four hundred people in this yard have a thing in a pocket that says what a person in a white coat in a building off a court meant by it,” said Agnete Lindqvist.
+
 “I have been saying a name into a yard for sixteen months and this is the first month anybody in it has had the thing I have been saying it near.”
 
 She drank out of the cup.
@@ -88,7 +85,8 @@ She drank out of the cup.
 “The last one of these was two years ago.”
 
 “That room is not here and I am not going to it. I am going to do it on the side of these steps with the yard about nine feet away and four hundred people in it, and I want it where it can be used against me.”
-“The last one of these was the ninth of March of a year before last in a room with a door in it that came off that yard, and you were in it, and about eleven thousand people were on the other side of two doors, and that is the only time in twenty years I have had it where nobody could use it,” said Agnete Lindqvist.
+
+“The last one of these was the ninth of March of a year before last in a room with a door in it that came off that yard, and you were in it, and about eleven thousand people were on the other side of two doors. That is the only time in twenty years I have had it where nobody could use it,” said Agnete Lindqvist.
 
 She said it the way a woman says a thing she has thought about for nine months.
 
@@ -160,7 +158,7 @@ He got his hands into her hair at the back and she pushed his head up and held i
 
 Then she put him back in, got herself off her step and up onto him, and rode him standing in the daylight at the side of the steps with about four hundred people in the yard. Her mouth was open and her face was about four inches from his and nobody nine feet off was talking about water rates any more.
 
-She came with her back arching and her hands closed on the rail on either side of his head, and she said a word into his ear that he is not going to write down because it is hers, and it went on about four seconds after she had finished.
+She came with her back arching and her hands closed on the rail on either side of his head, and she said a word into his ear that he is not going to put on the back of his own hand in pencil, because it is hers, and it went on about four seconds after she had finished.
 
 ## What A Position Costs Her
 
@@ -194,6 +192,14 @@ He got his coat and put it round her, and she let him.
 
 “Two, the next one is in about four weeks and it will not be that man and I will not tell you which one it is. If you are at the top of that path I will look for you, and if you are not there I will still say it, and I have never missed one and I am not going to start.”
 
+*Two thousand two hundred and forty days. Less two thousand two hundred and thirty-three, the fourteenth of April of the seventh year, is seven, and twenty-one less fourteen is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and sixty-two days, which is five months with twelve days after them, and a woman has stood five times on steps in front of a pale rectangle that about two thousand people a day cannot get by, and she has not missed one month in about sixteen.*
+
+*Less the ninth of March of the fifth year, one thousand four hundred and seventy-eight, is seven hundred and sixty-two days, and that is twenty-five months with twelve days after them. It is her own last one, and she has not missed one since, and about nine hundred of them have gone out of a yard into about nine hundred mouths in this city that did not hear the first.*
+
+*The lane off Cordwain keeps nine stools and nine districts and a slate on end and a man in a delivery coat, and about four hundred people in this city have just been told, in a yard, by a woman on a step, that there is a register that this city cannot check — and about four hundred other people in this city did not hear her, because they were somewhere else, and about nine hundred people can read both.*
+
 ## The Corner At Four In The Afternoon
 
 He was at the corner at about four.
@@ -205,11 +211,3 @@ Nobody could tell them what she had said. That was the thing. About four hundred
 Both things were his, in the way that everything in this city is his this month.
 
 About nine hundred people can read what she said this afternoon, because they are the people who read everything, and he was standing at the bottom of a wall with nothing in his hands and he had not said one word out loud in about six years.
-
-*Two thousand two hundred and forty days. Less two thousand two hundred and thirty-three, the fourteenth of April of the seventh year, is seven, and twenty-one less fourteen is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and sixty-two days, which is five months with twelve days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them. Four lines came off that shutter on the seventh of July, in about eleven minutes, and three more came off it on the ninth of November, and she was in a building on neither occasion.*
-
-*Less the ninth of March of the fifth year, one thousand four hundred and seventy-eight, is seven hundred and sixty-two days, and that is twenty-five months with twelve days after them. It is her own last one, and she has not missed one since, and about nine hundred of them have gone out of a yard into about nine hundred mouths in this city that did not hear the first.*
-
-*The lane off Cordwain keeps nine stools and nine districts and a slate on end and a man in a delivery coat, and about four hundred people in this city have just been told, in a yard, by a woman on a step, that there is a register that this city cannot check — and about four hundred other people in this city did not hear her, because they were somewhere else, and about nine hundred people can read both.*

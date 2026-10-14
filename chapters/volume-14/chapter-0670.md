@@ -22,9 +22,9 @@ About four hundred people have got the bottom of it in pencil on about four hund
 
 That was the want. He had it at about half past eight and he was still holding it at about ten.
 
-## Every Reason Not To, And Every One Of Them Is Good
+He is rank one and he is on a branch night shift, four nights and three off, on a rota he wrote his own name against and asked for, and a man on a night shift has the morning to himself, which is the only reason there is a man on a hill at ten.
 
-He is rank one and he is on a branch night shift eleven at night until half past five, four nights and three off, on a rota, and he asked for that shift.
+He had the reasons as well, and every one of them was good.
 
 This is not his corner. The corner belongs to a boy with a paste brush and a board with two empty squares at the foot of it, and the boy has never once been asked what is at the foot of that wall and has said so, twice, and told him to stop looking at the bottom of it.
 
@@ -39,8 +39,6 @@ He stood at the bottom of his own stairs for about four minutes with all of it i
 At 638 he had stood nine feet off that corner and said nothing and let a yard decide for itself whether a sentence was worth anything. It had cost a woman a job and it had cost him the only useful thing he has ever done, which was staying out of it.
 
 This was the same thing done once more. And this time he knew the price in advance, which he had not at 638, and he was going to pay it deliberately, on purpose, in daylight, on a morning he had chosen.
-
-## Ten O’Clock And Nothing In His Hands
 
 He went up the hill at about ten with nothing in his hands.
 
@@ -85,8 +83,6 @@ He said that was right. She said that her brother had been in a list in a differ
 She said she was not asking him to be sorry. She was asking him because she wanted to know if it was the same. It was not the same. She said all right.
 
 Nobody thanked him. He had made sure of that in advance and it worked.
-
-## The Boy At The Board
 
 The boy came over at about one with paste on his hands and asked him one question, and it was not about the two boxes and it was not about the four conditions and it was not about the struck line.
 
@@ -134,6 +130,17 @@ The head of the standing sheet is eight hundred and fifty-two and it did not mov
 
 Two inches of nothing is still exactly two inches of nothing under a name, and about nine hundred people have just heard a man read the top of that page out loud in a street and the bottom of it is still blank.
 
+
+*Two thousand two hundred and eighty-nine days. Less two thousand two hundred and eighty-two, the third of June of the seventh year, is seven, and ten less three is seven by the month count.*
+
+*Add one hundred and eighteen to two thousand two hundred and eighty-nine and it is two thousand four hundred and seven, and put the first morning back on the end of it and it is two thousand four hundred and eight mornings that a man has stood at the end of that wall in this lane with a slate and about nine figures, and he has never once been able to check whether any of the nine is true.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and eleven days, which is seven months with one day after them, and this morning a man stood nine feet off four inches of dressed stone at the bottom of a wall with nothing in his hands and said the foot of a printed sheet out loud in his own words to about two hundred people, and he has not been asked for anything since.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and seventy-one days, which is nineteen months with one day after them. It is the third of four sentences at the foot of a sheet. A man read that foot out loud in a street this morning in other words and did not read the line he struck and will not read it again.*
+
+*About nine hundred people in this city can read every word of what he said and are repeating it. None of what they repeat was in the four sentences, and all of it is his.*
+
 ## The Lane At Ten To Six
 
 By six there were about five times as many at that end of the lane as there had been at ten to six, and Brack was on his feet at the slate with the twelve books squared and the first nine of them done and a reason spoken out loud in front of every one before it went on.
@@ -145,7 +152,10 @@ He put the chalk down when he was told, which he does not do.
 “Yes.”
 
 “Then that is what I asked you for a week ago and I have thought about it for seven days and I have got a name for it now and it is not a good name,” said Emil Brack.
-“It is that you have become the mouth of it. I have been the mouth of nine figures a morning for four years and there is not one person in this city who could tell me what I said, and from this morning there is a man on a hill who everybody can point at, and I have been that man in a lane with about forty people and I could not do it because there was no paper.”
+
+“It is that you have become the mouth of it. I have been the mouth of nine figures a morning for four years and there is not one person in this city who could tell me what I said, and from this morning there is a man on a hill who everybody can point at.”
+
+“I have been that man in a lane with about forty people and I could not do it because there was no paper.”
 
 He squared the books and did not look up.
 
@@ -160,11 +170,3 @@ A woman came up the lane at about a quarter past six with a piece of pencil pape
 She looked at the slate for a while and then she said, to nobody in particular, that a man was standing at a corner on a hill this morning saying things out loud, and that four people on her stair had come back and told her about it, and that she wanted to know whether that man was the one whose name was at the bottom of the board by the kerb where the boy paints the form.
 
 Nobody at the wall end could tell her. Emil Brack, who has said nine out loud about two thousand times, put the chalk down and said he did not know, and the woman said that was a great help, and Emil Brack said it was not a help, it was the opposite of a help, and she said she knew that, and she had it written down.
-
-*Two thousand two hundred and eighty-nine days. Less two thousand two hundred and eighty-two, the third of June of the seventh year, is seven, and ten less three is seven by the month count.*
-
-*Add one hundred and eighteen to two thousand two hundred and eighty-nine and it is two thousand four hundred and seven, and put the first morning back on the end of it and it is two thousand four hundred and eight mornings that a man has stood at the end of that wall in this lane with a slate and about nine figures, and he has never once been able to check whether any of the nine is true.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and eleven days, which is seven months with one day after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and seventy-one days, which is nineteen months with one day after them. It is the third of four sentences at the foot of a sheet, and a man read that foot out loud in a street this morning in other words and did not read the line he struck and will not read it again, and about nine hundred people in this city can read every word of what he said and are repeating it, and none of what they repeat was in the four sentences, and all of it is his.*

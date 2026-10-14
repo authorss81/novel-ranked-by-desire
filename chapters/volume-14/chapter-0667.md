@@ -52,8 +52,6 @@ They were the two words at the foot of the wall.
 
 Lin Hao did not touch the paper.
 
-## Before
-
 “They were cut before it went,” said Sander Vole. “That is what that line is for. A mason who cuts anything into the face of a block writes it on the docket so that whoever gets it knows it is there and does not send it back for it.”
 
 “And that is why they are still there.”
@@ -72,7 +70,12 @@ He put his thumb on the line and did not turn the docket over.
 
 “You know.”
 
-“I know it was not the man who carried it and I know it was not the man who cut it, because if the man who cut it had cut it then the man who carried it would not have had to write it on the docket to stop a wall sending it back, he would have said so to the man who cut it and it would have been in the book,” said Sander Vole.
+“I know it was not the man who carried it and I know it was not the man who cut it,” said Sander Vole. “If the man who cut it had cut it, then the man who carried it would not have had to write it on the docket at all.”
+
+“Then why did he.”
+
+“He did not want to be told again. A man who has sent a block and had it come back does not want to be told again, and he wrote it down, and the writing down is the whole of why it is still there. That is not clever. That is a man on a bench.”
+
 “That is as far as I have got and I have been at it for two hours and I am going to stop now, and you are going to let me stop, and I am telling you that I am going to stop before you ask me the next thing.”
 
 “All right.”
@@ -81,7 +84,10 @@ He put his thumb on the line and did not turn the docket over.
 
 He squared the docket to the edge of the bench.
 
-“And it has taken you two weeks and about nine streets and a man who has been standing in front of that wall since he was small. And the two words are on a piece of paper in a box under a counter in this yard and it has been there the whole time, and it got there because a man wanted a block not to be sent back, and not one person in this city arranged any part of it.”
+“And it has taken you two weeks and about nine streets and a man who has been standing in front of that wall since he was small.”
+
+“The two words are on a piece of paper in a box under a counter in this yard and it has been there the whole time, and it got there because a man wanted a block not to be sent back, and not one person in this city arranged any part of it.”
+
 “You have been standing at that corner reading four inches of stone for six years and you have known who cut them for about two weeks,” he said.
 
 ## The Date He Did Not Take
@@ -112,6 +118,14 @@ Then he stood there for a second.
 
 He wiped the pencil on his coat and put it away.
 
+*Two thousand two hundred and sixty-eight days. Less two thousand two hundred and sixty-one, the twelfth of May of the seventh year, is seven, and nineteen less twelve is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and ninety days, which is six months with ten days after them, and a sheet of paper folded once has been in a box under a counter in a yard nine streets from a works department for thirty years, and nobody has ever asked for it.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifty days, which is eighteen months with ten days after them. It is the third of four sentences at the foot of a sheet. A wall will not hold a sentence and a block of stone will.*
+
+*There is one place in this city where two words cut into the face of a block are written down in ink, and it is a box under a counter that has not been asked for in thirty years.*
+
 ## The Box Under The Counter
 
 He put the docket back in the box himself, because Sander Vole made him, and it went in about nine inches from the top, in a hand that was not his, at a place in about four thousand dockets that had no mark on it.
@@ -125,9 +139,3 @@ And in a box under a counter in this yard there is a piece of paper about the si
 The book on the counter has a figure against that course of dressed stone with no name against it. It has not moved in seven years. Nobody has ever opened that book at that page.
 
 A counter figure can be added to and cannot be taken from.
-
-*Two thousand two hundred and sixty-eight days. Less two thousand two hundred and sixty-one, the twelfth of May of the seventh year, is seven, and nineteen less twelve is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and ninety days, which is six months with ten days after them. A shutter at the far end of a yard has had nothing at the foot of it for all of them.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifty days, which is eighteen months with ten days after them. It is the third of four sentences at the foot of a sheet, and there are about four hundred pieces of pencil paper in this city with the foot of it copied out on the top of them, and a wall will not hold a sentence and a block of stone will, and there is no column anywhere in this city for a word on a stone except one on a piece of paper in a box under a counter nine streets away that has not been asked for in thirty years.*

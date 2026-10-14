@@ -1,4 +1,4 @@
-# VOLUME 14 BATCH 0002 WRITTEN — 661–670 ON DISK. SPINE 2,226–2,289 RE-RUN FROM DISK, MONOTONIC **0 VIOLATIONS** BY TWO METHODS THAT SHARE NO CONSTANT. **12-GRAM AGAINST ALL 670 FILES: 0 RUNS OF SIX OR MORE.** THIS BLOCK SUPERSEDES THE BATCH-0001 SPINE BLOCK FOR 661–670 AND DELETES NONE.
+# VOLUME 14 BATCH 0002 WRITTEN **AND REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0002.review.log`** — 661–670 ON DISK. SPINE 2,226–2,289 RE-RUN FROM DISK AFTER THE REPAIR, MONOTONIC **0 VIOLATIONS** BY TWO METHODS THAT SHARE NO CONSTANT. **12-GRAM AGAINST ALL 670 FILES: 0 RUNS OF SIX OR MORE. 11-GRAM: 0.** **THE PARAGRAPH COUNT IN §0d WAS FALSE AND IS REPAIRED IN §0d.** THIS BLOCK SUPERSEDES THE BATCH-0001 SPINE BLOCK FOR 661–670 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
 
@@ -32,7 +32,7 @@ THE ENDPOINTS:                                  2289 - 2226 = 63      MATCH
 THE SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE: 2226 - 2219 = 7
 ```
 
-**AND EVERY OTHER INTERVAL THE FOOTERS PRINT WAS PARSED OFF THE PAGE AND RE-DERIVED IN THIS COMMIT. EIGHTEEN ANCHOR LINES, ZERO MISMATCHES.** The shutter is `2,078` and the nine-November is `2,078` against `1,718`, and the two Novembers are a year apart and both anchors are named on the page wherever either is used:
+**AND EVERY OTHER INTERVAL THE FOOTERS PRINT WAS PARSED OFF THE PAGE AND RE-DERIVED IN THIS COMMIT, BEFORE AND AFTER THE `logs/batch-0002.review.log` REPAIR. TWENTY-ONE ANCHOR LINES, ZERO MISMATCHES — TWENTY RE-DERIVED FROM THE *Less … , is N days, which is …* FORM AND ONE, THE LANE, FROM THE *Add one hundred and eighteen …* FORM AT 670.** The shutter is `2,078` and the nine-November is `2,078` against `1,718`, and the two Novembers are a year apart and both anchors are named on the page wherever either is used:
 
 ```
 661  2226 - 2126 = 100 = 3m+10d   661  2226 - 2078 = 148 = 4m+28d
@@ -46,6 +46,7 @@ THE SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE: 2226 - 2219 = 7
 669  2282 - 2078 = 204 = 6m+24d   669  2282 - 1718 = 564 = 18m+24d
 670  2289 - 2078 = 211 = 7m+1d    670  2289 - 1718 = 571 = 19m+1d
 670  2289 - (-118) = 2407, +1 = 2408 mornings at the wall end. PRINTED ONCE, AT 670, WITH ITS OPERANDS.
+670  2240 - 1478 = 762 = 25m+12d  (663's line carries no *which is*, and is read by hand: her own last one)
 ```
 
 **`411` IS PRINTED NOWHERE IN 661–670.** At 670 the two figures are 211 and 571, each printed with the anchor named, and neither is ambiguous. **THE OFFICE'S MONTHS AND THE WALL'S RATE ARE PRINTED NOWHERE IN 661–670** — `seventy-two months` 0, `nine thousand` 0. **THE LANE'S MORNINGS ARE PRINTED ONCE.** **THE YARD'S FIGURE AGAINST THE COURSE OF DRESSED STONE IS DESCRIBED AND NOT PRINTED**, and the chapter says exactly that. **THE DATE ON THE DOCKET IS READ, REFUSED, AND NOT PRINTED.**
@@ -93,7 +94,29 @@ CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter
 
 ## 0d. MARKDOWN, GLYPHS, HEADINGS, DUPLICATE PARAGRAPHS — BOTH MEASURES
 
-BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after two batches and four remain, and the standing instruction is that one spent is one too many.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: 0 · book-wide straight double quotes unchanged at **56,016** across **670 files**, curly now **4,791**. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against sixteen title lines book-wide on files this batch did not touch. TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all six hundred and seventy files**, and the ten are 3–12 words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. PARAGRAPHS **581, 0 over roughly ninety words, 0 over one hundred and twenty, 0 odd quotation-mark paragraphs**. **ORPHANED-SPEECH SCAN PER FILE: 0.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62 — AND BOTH ARE 0.** **THE FIRST EDITION OF THE IDENTITY GATE RETURNED ZERO ON A FILE SET IN WHICH FOUR ONE-WORD PARAGRAPHS OF DIALOGUE WERE LITERALLY IDENTICAL, WHICH IS THE `chapter-0653.md` FAILURE AGAIN IN A NEW DRESS. All four were reworded; the Jaccard gate returned them first.**
+BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after two batches and four remain, and the standing instruction is that one spent is one too many.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: 0 · book-wide straight double quotes unchanged at **56,016** across **670 files**, curly now **4,791**. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against sixteen title lines book-wide on files this batch did not touch. TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all six hundred and seventy files**, and the ten are 3–12 words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. PARAGRAPHS **620, 0 over roughly ninety words, 0 over one hundred and twenty, 0 odd quotation-mark paragraphs. THE ROW ABOVE READ *581, 0, 0* AND WAS WRONG IN ALL THREE FIGURES; `logs/batch-0002.review.log` COUNTED 601 / 15 / 2 AGAINST IT. THE CHAPTERS WERE THE FIX: SEVENTEEN PARAGRAPHS RAN OVER NINETY AFTER THE REPAIR AND EVERY ONE WAS SPLIT AT A SENTENCE BOUNDARY, TWO OF THEM IN 667.** **ORPHANED-SPEECH SCAN PER FILE: 0.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62. IDENTITY IS 0. JACCARD IS 1, AND IT IS CLASSIFIED AND IS NOT A DEFECT: THE PAIR IN 669 IS THE SPINE TICKET AGAINST THE SHUTTER TICKET, TWO ANCHOR PARAGRAPHS INSIDE ONE ITALIC BLOCK THAT SHARE THE DEVICE'S ARITHMETIC VOCABULARY — *Less the ninth of November of the … year … is … hundred and … days, which is … months with … days after them* — AND ASSERT DIFFERENT INTERVALS. THE BAG OF WORDS IS MATCHING, NOT A SENTENCE.** **THE FIRST EDITION OF THE IDENTITY GATE RETURNED ZERO ON A FILE SET IN WHICH FOUR ONE-WORD PARAGRAPHS OF DIALOGUE WERE LITERALLY IDENTICAL, WHICH IS THE `chapter-0653.md` FAILURE AGAIN IN A NEW DRESS. All four were reworded; the Jaccard gate returned them first.**
+
+## 0e. THE REPAIR OF 14 OCTOBER 2026, AGAINST `logs/batch-0002.review.log` — WHAT THE SCAN FOUND AND WHAT WAS DONE IN THE CHAPTERS
+
+**THE HEADLINE FINDING WAS A FALSE ROW, NOT FALSE PROSE, AND BOTH HALVES ARE RECORDED: `state/open-threads.md` SAID *581 PARAGRAPHS · 0 OVER NINETY · 0 OVER A HUNDRED AND TWENTY*. THE REVIEW COUNTED 601, 15 AND 2. THE ROW WAS REPLACED AND SEVENTEEN PARAGRAPHS WERE SPLIT AT A SENTENCE BOUNDARY, AND THE COUNT IS NOW 620, 0, 0.**
+
+**THE TWELVE-GRAM ROW WAS ALSO OVERSTATED IN THE FIRST EDITION, IN THE OPPOSITE DIRECTION, AND THE REVIEW DID NOT CATCH IT.** A twelve-word run — *eleven at night until half past five four nights and three off* — stood word for word in **sixteen files across Volumes 10, 11, 12 and 14.** It is Lin Hao's branch rota. The first edition of this block reported 0 runs of six or more against all 670 files and that was false. **670 now states the rota in its own words**, the run is gone, and **the batch scores 0 at twelve, 0 at eleven, 0 exact repeated sentences of eight words or more appearing in two chapters, and 63 eight-gram runs that are every one book-wide dialect with 0 whose occurrences are all inside this batch.**
+
+| Class | What it is | Instances after the repair |
+| --- | --- | --- |
+| **Seven** (named at batch 0002) | **A character's own sentence, in that character's mouth, repeated because the standing has not moved.** Emil Brack at 668 against 657, saying for the second time in this book that he has never once been able to check whether any of the nine is true. Kept. | 1 pair |
+| **Eight** (named here) | **A character's own working pattern restated across volumes to show the rota has not changed.** The branch night shift. It was a true fact stated identically in sixteen files, which is class seven spread over six volumes. **Kept as a fact and reworded at 670**, which removes the batch's copy and costs nothing. | 0 in this batch |
+
+**AND WHAT THE REVIEW FOUND IN THE PROSE WAS ALL ONE THING, WHICH IS REPETITION.**
+
+| What repeated | How often | What was done |
+| --- | --- | --- |
+| **the watch-list — *there is no column / no form* — for a word on a stone** | 3 chapters, once each, by three different speakers | **664 keeps it, in the boy's mouth, because it is the turn of that chapter.** 665's second instance was replaced with the concrete fact of that yard — the last man who might have named the block is dead. **667's footer now states the exception instead of the rule**, which is the chapter's whole subject. Said once, reversed once. |
+| **the shutter sentence hung on the 2,078 anchor** | verbatim in 7 chapters, restated in 3 | **The arithmetic frame was not touched — it is this volume's spine and every anchor re-derives.** The proposition was rewritten in eight chapters. The sentence is now in **2 of 10**, and the ticket block's shared-string mass is **42 of 2,196 words against 495 of 2,402.** |
+| **the italic block sitting after the last dramatic beat** | 10 chapters | **In all ten the block now sits above the final section and the chapter ends on prose.** 670's last line is the woman who cannot read asking whether the man on the hill is the one whose name is at the bottom of the board by the kerb, and Brack putting the chalk down. |
+| **`## ` scene descriptions** | 66 across the ten, six to eight a chapter | **Fifteen removed in the chapters. 51 now. 663 keeps six because it is the scene; nine carry five.** |
+| **asking a man a sixth question about a thing he has already answered** | 666's whole opening | **Cut.** The predecessor chain moved up into 665, where it belongs, and 666 opens with one exchange and a refusal and then goes to a different trade. |
+| **the narrator stepping outside the book** | 1 line, 663 | **Now the back of his own hand in pencil**, which is what he has been writing on since 661. |
 
 # VOLUME 14 BATCH 0001 WRITTEN — SPINE 651–660 RE-RUN FROM DISK, 14 OCTOBER 2026. MONOTONIC 0 VIOLATIONS BY TWO METHODS SHARING NO CONSTANT. THIS BLOCK SUPERSEDES PLANNING SPINE FOR 651–660 AND DELETES NONE.
 

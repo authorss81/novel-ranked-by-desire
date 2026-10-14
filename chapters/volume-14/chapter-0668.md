@@ -18,8 +18,6 @@ What they have instead is about nine hundred people who can read everything that
 
 He got to the flat space at the top of the path at about eleven and about nine hundred people were in it and the thing that had happened there had already finished and was being redone badly about forty times an hour by people who had not been in it when it happened.
 
-## The Version That Went Round
-
 The one that was going round was not his.
 
 It was that a woman on the steps had said out loud that there is a list kept somewhere and that the office will not tell anybody what is on it and that people who were written down on it were not told.
@@ -99,9 +97,19 @@ He put the chalk down and did not pick it up again.
 “The other thing.”
 
 “The thing where nine hundred people correct each other out loud and nobody can check any of it,” said Emil Brack.
-“I have been that man on my own for four years at ten to six and I have got nine figures a morning and I have never once been able to make anybody come. And you have made nine hundred people do it in one morning by writing something at the foot of a sheet and I do not know what to call that and I have not got a slate for it.”
+
+“I have been that man on my own for four years at ten to six and I have got nine figures a morning and I have never once been able to make anybody come. And you have made nine hundred people do it in one morning by writing something at the foot of a sheet, and I do not know what to call that and I have not got a slate for it.”
 
 Nobody says thank you to him. That has been the shape of it for four years and he set it that way himself and would not have it otherwise.
+
+
+*Two thousand two hundred and seventy-five days. Less two thousand two hundred and sixty-eight, the nineteenth of May of the seventh year, is seven, and twenty-six less nineteen is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and ninety-seven days, which is six months with seventeen days after them, and about four hundred pieces of pencil paper in this city have the foot of a printed sheet copied out at the top of them, and this morning about nine hundred people in a yard corrected each other out loud about what it says, forty times inside an hour, and not one of the forty lasted a quarter of an hour.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifty-seven days, which is eighteen months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and a man in a delivery coat has said nine out loud about two thousand times in four years and has never once been able to check whether any of the nine is true.*
+
+*This morning nine hundred people did the thing he does, in a yard, for nothing, and he says that is a bigger version of him and he wants to know what it is called.*
 
 ## What He Is Going To Do About It
 
@@ -116,9 +124,3 @@ And the only person in Ostara who can check any of it is a woman auditing a bran
 There is no instrument for this. There is a drawer with about ninety pieces of pencil paper in it and no entry against any of them and no form for a holding.
 
 There is one thing he could do about it and it would take about four inches of stone and a morning, and he did not do it, and he thought about it on the way down and again at the bottom of his own stairs, and he did not do it that night either.
-
-*Two thousand two hundred and seventy-five days. Less two thousand two hundred and sixty-eight, the nineteenth of May of the seventh year, is seven, and twenty-six less nineteen is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and ninety-seven days, which is six months with seventeen days after them. A shutter at the far end of a yard has had nothing at the foot of it for all of them, and about nine hundred people in that yard this morning corrected each other about a sentence he wrote, correctly, forty times an hour, and not one of the forty lasted a quarter of an hour.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifty-seven days, which is eighteen months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and a man in a delivery coat has said nine out loud about two thousand times in four years and has never once been able to check whether any of the nine is true, and this morning nine hundred people did the thing he does, in a yard, for nothing, and he says that is a bigger version of him and he wants to know what it is called.*

@@ -58,8 +58,6 @@ He gave it to him at about ten past nine and the boy turned it over and looked a
 
 He mixed the paste thinner than a man mixing paste for a hoarding would mix it, because paste for hoarding board is not the same as paste for a form, and he did that without being told.
 
-## Both Boxes
-
 He put it up level and it took about four minutes and he used his own weight against it the way he always does, and the sixty-fourth would go over the top of this one next month and the sixty-fourth would be on the board by the ninth month.
 
 “There are two boxes at the foot of that one as well,” said Lin Hao. “There is a small square at the bottom of it for the day the work was finished.”
@@ -73,7 +71,8 @@ He put it up level and it took about four minutes and he used his own weight aga
 He said it the way he says everything, which is once, and then he stopped, and he went and put the jar of paste on the kerb and came back.
 
 “You asked me in the autumn what I was supposed to put in those two squares and you told me yourself that the left-hand one wants a number and the right-hand one wants whatever the address stands as, and I have gone on thinking about it at about four hundred corners since,” said the boy.
-“And the left one wants a number and there is no number, because it is a wall, and I am not making one up and getting a man in another building in trouble over something I invented on the end of my own brush. And the right one wants a standing, and a wall on a street does not stand for anything, it stands up.”
+
+“And the left one wants a number and there is no number, because it is a wall. I am not making one up and getting a man in another building in trouble over something I invented on the end of my own brush. And the right one wants a standing, and a wall on a street does not stand for anything, it stands up.”
 
 He wiped the brush on his coat.
 
@@ -101,6 +100,16 @@ Nine feet of new render is at the bottom of that wall now and the four inches ar
 
 And a man standing in front of that board is looking at a piece of paper about a wall.
 
+*Two thousand two hundred and forty-seven days. Less two thousand two hundred and forty, the twenty-first of April of the seventh year, is seven, and twenty-eight less twenty-one is seven by the month count.*
+
+*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is one hundred and twenty-one days, which is four months with one day after them, and a form saying take down to course and make good was on a spike nine streets away for all of them, and it came off that spike on the seventh of April along with about nine hundred others and it is on a board by a kerb now and it is not carried forward.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and sixty-nine days, which is five months with nineteen days after them, and a board by a kerb is carrying sixty-four sheets about that wall, sixty-three of them one a month for six years and one of them a job that has been done, and not one of the two squares at the foot of any of them has ever had a word put in it.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and twenty-nine days, which is seventeen months with nineteen days after them. It is the third of four sentences at the foot of a sheet, and it is why there are about four hundred pieces of pencil paper in this city with the foot of it copied out on the top of them.*
+
+*Neither box at the foot of a form by a kerb is ever going to have a word in it.*
+
 ## What Is Four Inches Away
 
 He said it out loud, which he had not planned to do, and he said it to the boy and not to the street.
@@ -115,7 +124,10 @@ He said it out loud, which he had not planned to do, and he said it to the boy a
 
 “All right.”
 
-“And there is nothing on either of those sheets for it and nothing on either of the boxes, and there is no form in this city for a word on a stone. If I wrote them down on a piece of paper at a kerb then somebody in about four years would come along and ask me who told me, and I would have to say a man in a white coat with no figure cut into his plate told me, and then they would go and ask you.”
+“And there is nothing on either of those sheets for it and nothing on either of the boxes, and there is no form in this city for a word on a stone.”
+
+“If I wrote them down on a piece of paper at a kerb then somebody in about four years would come along and ask me who told me, and I would have to say a man in a white coat with no figure cut into his plate told me, and then they would go and ask you.”
+
 “And you want me to write them down,” said the boy.
 
 “That is not what I was going to say.”
@@ -125,11 +137,3 @@ He said it out loud, which he had not planned to do, and he said it to the boy a
 He shouldered the jar of paste.
 
 “The two words are four inches away and underneath nine feet of something new and I am painting around them on the next morning I paint, because paint will not hold there and the form does not tell me to try,” said the boy. “That is the whole of what is going to happen to them and it is not going to happen in a document.”
-
-*Two thousand two hundred and forty-seven days. Less two thousand two hundred and forty, the twenty-first of April of the seventh year, is seven, and twenty-eight less twenty-one is seven by the month count.*
-
-*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is one hundred and twenty-one days, which is four months with one day after them, and a form saying take down to course and make good was on a spike nine streets away for all of them, and it came off that spike on the seventh of April along with about nine hundred others and it is on a board by a kerb now and it is not carried forward.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and sixty-nine days, which is five months with nineteen days after them. A shutter at the far end of a yard has had nothing at the foot of it for all of them, and a chaplain has stood on steps in front of it five times and not once has it made a difference.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and twenty-nine days, which is seventeen months with nineteen days after them. It is the third of four sentences at the foot of a sheet, and it is why there are about four hundred pieces of pencil paper in this city with the foot of it copied out on the top of them, and not one of the boxes at the foot of a form by a kerb has ever had a word in it and neither box is ever going to.*

@@ -1,29 +1,18 @@
 # A Figure With No Name Against It
 
-Seven days had gone since a man who had carried a figure for nineteen years had told him that a figure can be added to and cannot be taken from, and that nobody had ever opened that book at that page, and since then he had not been able to put it down.
+Seven days had gone since a man who had carried a figure for nineteen years had told him that a figure can be added to and cannot be taken from, and that there is a beginning to that figure and nobody alive who saw it, and since then he had not been able to put it down.
 
 Two thousand two hundred and fifty-four was the fifth of May and the twelfth is day two thousand two hundred and sixty-one, and two thousand two hundred and sixty-one less two thousand two hundred and fifty-four is seven, and twelve less five is seven by the month count.
 
-He went back to the yard first, at about ten, because he had left something out of the morning before and wanted it said in front of the man who had said the first one.
+He went back to the yard at about ten and got one more thing out of the man at the counter and then left, because a figure with no name against it and no beginning anybody can name is a thing that cannot be checked and cannot even be dated, and there is exactly one kind of figure in this city that is neither of those, and he wanted to go and look at one.
 
-## Two Of Them In One City
+“So there is no beginning to it.”
 
-“About how long has that figure been on that line.”
+“There is a beginning and nobody alive,” said Sander Vole. “That is worse than having neither, and it is the only thing I have got for you this morning, and I have said it once and I am not going to say it a second time in the same week, and you may write it down or you may not have it.”
 
-“Seven years,” said Sander Vole, without looking up. “It was there when I took the book off the man before me and he told me it had been there when he took it off the man before him, and I have never asked either of them when it started and neither of them is alive to ask now, so it is seven years of me and an unknown amount before me.”
+He did not write it down. A number he could not re-derive would be a number that was wrong inside four years, and he has watched this city turn a thing that was true once into a thing that was true for ever.
 
-“Can it be moved.”
-
-“No.”
-
-“Has anybody ever put a name against it.”
-
-“Never once.”
-
-“Has anybody ever opened the ledger at that page to find out.”
-
-“Not once,” said Sander Vole.
-“Not in nineteen years and not, as far as I know, before that, and I have thought about that more in the last nine days than in the previous nineteen years. A man in a white coat came and asked me the question and I did not have an answer, and a thing I did not have an answer to on the first of April is a thing I thought about every day in between.”
+He did not go back for anything else. He had asked that counter five questions a week ago and got five answers, and asking a man a sixth thing about a thing he has already answered is not an enquiry, it is a habit, and he is not going to spend a morning on a habit when he has somewhere to be at half past three.
 
 ## The Desk Under The Window At Half Past Three
 
@@ -45,7 +34,10 @@ He was not going to get a second question out of that man in a year, and Lin Hao
 
 The man at the desk put the pencil down and turned the ledger round so the top of it showed.
 
-“The second of the second month of a year I do not name. A woman came to this counter with a bundle and wanted a receipt for having left it. There is no receipt in this city for that and there never has been. I told her so and she went away. I wrote down the date and the street she came off and one word against it. I have never found out what the word meant, and she has never come back and nobody has come back about it.”
+“The second of the second month of a year I do not name. A woman came to this counter with a bundle and wanted a receipt for having left it. There is no receipt in this city for that and there never has been. I told her so and she went away.”
+
+“I wrote down the date and the street she came off and one word against it. I have never found out what the word meant, and she has never come back and nobody has come back about it.”
+
 “There,” he said.
 
 He put his thumb on the line.
@@ -90,6 +82,14 @@ And a man at a desk under a window had been doing with a pencil and a book what 
 
 There was no arrangement in this city that put a rank-one plate and a nine-year ledger on the same shelf. He had looked for it for about nine minutes and it was not there.
 
+*Two thousand two hundred and sixty-one days. Less two thousand two hundred and fifty-four, the fifth of May of the seventh year, is seven, and twelve less five is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and eighty-three days, which is six months with three days after them, and a counter in a passage off Cordwain has kept a pencil ledger for nine years and never once been asked what is in it by anybody at all.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and forty-three days, which is eighteen months with three days after them. It is the third of four sentences at the foot of a sheet, and there are two books in this city that hold a figure with nothing against it, and the two men who hold them are about nine streets apart and neither has ever heard of the other.*
+
+*Nine hundred feet of open ground and nine streets and about thirty-one years of a man writing down what he is told to write down. That is the whole of the distance between two figures with nothing against them in this city, and there is no instrument in Ostara that measures it and no clerk who may be given it.*
+
 ## Two Books
 
 He went back down the street at about four and stood across from the gate for a while and watched the barrows go out.
@@ -99,11 +99,3 @@ There are two books in this city that hold a figure with nothing against it. One
 The two of them are about nine streets apart. They are in two trades. Neither of them is the account, and neither of them can be drawn against or allocated or closed, and about nine hundred people in this city could read a figure off either page in about four seconds and not one person alive has ever needed to.
 
 And the yard has never heard of the desk, and the desk has never heard of the yard, and neither of the two men who hold them has ever been asked by anybody about the other, and he was the first, and he wanted them joined together more than he has wanted anything since a broker on a floor above a counting house told him what paper cost.
-
-*Two thousand two hundred and sixty-one days. Less two thousand two hundred and fifty-four, the fifth of May of the seventh year, is seven, and twelve less five is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and eighty-three days, which is six months with three days after them. A shutter at the far end of a yard has had nothing at the foot of it for all of them, and a chaplain has stood on steps in front of it six times and not once has it made a difference.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and forty-three days, which is eighteen months with three days after them. It is the third of four sentences at the foot of a sheet, and two books in this city now hold a figure with nothing against it, and neither of them has ever been opened at its page, and a figure can be added to and cannot be taken from.*
-
-*Nine hundred feet of open ground and nine streets and about thirty-one years of a man writing down what he is told to write down. That is the whole of the distance between two figures with nothing against them in this city, and there is no instrument in Ostara that measures it and no clerk who may be given it.*

@@ -88,7 +88,11 @@ That is the thing about a wall coming down. There is no form for it. There is no
 
 He counted what he could count, which was not people. He counted the sheets of paint coming off, about nine to a foot of wall, and he counted how many men came and went, and he wrote the two numbers on the back of his hand in pencil because he had nothing else to write them on.
 
-## What Six Years Had Been
+*Two thousand two hundred and twenty-six days. Less two thousand two hundred and nineteen, the thirtieth of March of the seventh year, is seven, and thirty less thirty is nothing by the month count and the seventh is the whole of it.*
+
+*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is one hundred days, which is three months with ten days after them, and a form saying take down to course and make good has been on a spike nine streets away for all of them.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and forty-eight days, which is four months with twenty-eight days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*
 
 At about four he walked back down to the corner.
 
@@ -109,9 +113,3 @@ He wiped the brush on his coat and looked up at about nine feet of grey render.
 He has been reading that wall at close range for six years. It survived because a coat of paint will not hold on dressed stone, and he had taken that for a fact about the stone.
 
 It is an accident. It has a schedule and a crew and two forms and a foreman with a folding rule, and it arrived on the seventh of April in the fourth week of the month, and it did not send anybody a paper.
-
-*Two thousand two hundred and twenty-six days. Less two thousand two hundred and nineteen, the thirtieth of March of the seventh year, is seven, and thirty less thirty is nothing by the month count and the seventh is the whole of it.*
-
-*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is one hundred days, which is three months with ten days after them, and a form saying take down to course and make good has been on a spike nine streets away for all of them.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and forty-eight days, which is four months with twenty-eight days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*

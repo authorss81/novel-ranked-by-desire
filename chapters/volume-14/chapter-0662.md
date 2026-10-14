@@ -30,11 +30,9 @@ The boy took them out and stacked them on the pavement in the order they came ou
 
 “No,” said the boy. “There is nothing on the top half of one of those that has ever been about anything, and there has never been a person in this city who could put anything at the bottom of one, and that is why I have never opened one.”
 
-He squared the stack with the side of his boot.
-
 “There is sixty-three of those going up on that board tonight,” he said, “and I am not going to write in either box, and I have not been asked about either box by anybody in six years, and I have stopped.”
 
-## Four Inches
+He squared the stack with the side of his boot twice, which put it back where it had been.
 
 Below the lowest form was the stone.
 
@@ -74,8 +72,6 @@ About four hundred people saw them for the first time that morning, which is not
 
 He wrote neither of them down.
 
-## The Woman With The Broom
-
 She came at about half past eleven and went along the four inches with a short-handled broom and the bristles were about as long as her hand, and she did the whole length of the bare part of it and then came back and did it again, and the reason she does it is that it is under a wall and nobody spits there.
 
 He had about four seconds in which he could have asked her.
@@ -86,9 +82,15 @@ He stood nine feet off and did not ask her, and it was the hardest thing he did 
 
 She did not look at him. She has never once looked at him.
 
-He wants it very much more than he wanted it a fortnight ago. He wanted it badly enough on the seventh of April that he got up in the middle of the night about it, and that wanting is a thing he is not going to put on a form and there is no column for it anywhere in this city.
+He wants it very much more than he wanted it a fortnight ago. He wanted it badly enough on the seventh of April that he got up in the middle of the night about it, and that wanting is a thing he is not going to put on a form and has nowhere to put it.
 
-## No Column Anywhere In This City For It
+*Two thousand two hundred and thirty-three days. Less two thousand two hundred and twenty-six, the seventh of April of the seventh year, is seven, and fourteen less seven is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and fifty-five days, which is five months with five days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifteen days, which is seventeen months with five days after them. It is the third of four sentences at the foot of a sheet, and it is the reason copies of that foot are being written out longhand in pencil at kitchen tables all over this city, and not one person making one could have told you where a block of stone comes from.*
+
+## A Man Who Had Not Been Under It
 
 At about one he went down to the end of the bare forty feet where the scaffolding was still up and there were two men on it with a hawk and a float.
 
@@ -107,9 +109,3 @@ About two hundred a day pass that corner and maybe one in a hundred of them ever
 There is a works schedule nine streets away with about nine hundred lines on it and three columns on every line and none of them is about a word on a stone. There is a month’s form with two boxes at the foot of it and both of them empty. There is a painting contract in another building that says nothing and has said nothing for nine years.
 
 And four hundred people in this city can now read two words cut into the bottom of a wall by somebody they will never find, and there is nowhere to write down the one question that would find them.
-
-*Two thousand two hundred and thirty-three days. Less two thousand two hundred and twenty-six, the seventh of April of the seventh year, is seven, and fourteen less seven is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and fifty-five days, which is five months with five days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and fifteen days, which is seventeen months with five days after them. It is the third of four sentences at the foot of a sheet, and it is the reason copies of that foot are being written out longhand in pencil at kitchen tables all over this city, and not one person making one could have told you where a block of stone comes from.*

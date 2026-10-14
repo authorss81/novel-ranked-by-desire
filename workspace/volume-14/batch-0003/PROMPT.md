@@ -54,6 +54,12 @@ Volume 14 batch 0003 opens on the seventeenth of June of year seven:
 
 **THE INTERVALS THIS BATCH OWES, WITH THEIR OPERANDS. YOU PRINT THE OPERANDS ON THE PAGE, IN THE ITALIC FOOTER, IN PLAIN WORDS:**
 
+**TWO RULES THE `logs/batch-0002.review.log` REPAIR LEFT YOU, AND YOU INHERIT BOTH.**
+
+**1 · THE FOOTER GOES ABOVE THE LAST SECTION, NOT AFTER IT.** Batch 0002 closed ten chapters on three or four italic paragraphs and the strongest image in each batch went underneath them; at 670 the reader scrolled past the woman who cannot read asking whether the man on the hill was the one whose name was at the bottom of the board. **In 661–670 the italic block now sits above the final `## ` section and every chapter ends on prose. Do the same in 671–680 and the coda cannot bury a hook.**
+
+**2 · THE ARITHMETIC FRAME IS FIXED AND THE PROPOSITION HUNG ON IT IS NOT.** *Less the ninth of November of the sixth year, two thousand and seventy-eight, is N days, which is M months with D days after them* is the volume's spine and every anchor re-derives; **do not touch it. What you must vary is the sentence that follows the comma.** Across 661–670 the same shutter clause hung on that anchor verbatim in seven chapters and restated in three, and a reader stopped reading it; after the repair each chapter carries a different running fact — a stand, a board, a book, a ledger, a docket, a pocket, a door — and the shutter sentence is in two of ten. **Ten chapters, ten different propositions. If two of yours share a clause, cut one.**
+
 | Ch | Day | Spine | | From the previous chapter | | From an anchor that is on a page |
 | --- | --- | --- | --- | --- | --- | --- |
 | 671 | 17 Jun, y7 | 2,296 | | **2,296 − 2,289 = 7** | | |

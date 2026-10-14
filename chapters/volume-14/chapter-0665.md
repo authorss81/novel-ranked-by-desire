@@ -18,11 +18,9 @@ A yard that has been cutting stone since before the office existed does not stop
 
 He had walked in out of the glare and nobody looked at him for about four minutes.
 
-## The First Relief He Has Had In Four Months
+That was the first part of it and it went exactly the way he had expected and for exactly as long as he had expected. Nobody in that yard had heard of the Register. Nobody in that yard had ever seen the standing sheet.
 
-That was the first part of it and it went exactly the way he had expected and for exactly as long as he had expected.
-
-Nobody in that yard had heard of the Register. Nobody in that yard had ever seen the standing sheet. Nobody in that yard knew that about nine people a week in this city get to the bottom of a printed page and write something in two inches of nothing under a name, and there is no reason any of them should know it, and about nine hundred feet of open ground is the reason there is no reason.
+Nobody in that yard knew that about nine people a week in this city get to the bottom of a printed page and write something in two inches of nothing under a name, and there is no reason any of them should know it. About nine hundred feet of open ground is the reason there is no reason.
 
 For about a minute he was a man standing in a yard where nobody wanted anything from him.
 
@@ -85,9 +83,14 @@ Sander Vole looked at him for about four seconds and then he did something with 
 “That,” said Sander Vole, “is exactly the question, and you can see now why it has never been answered, and I am not going to pretend I have thought about it for nineteen years, because I have thought about it for about nine minutes and you have just made me do it.”
 
 He squared the book to the edge of the counter.
+
 “That is the rule of the ledger and I have never written it down anywhere and I do not know where I got it. You cannot take a figure off a line. You can only add to it and go on, and if you have made a mistake then the mistake is in there for good and the only thing that happens to it is that it stops meaning anything to anybody and it is still on the page.”
 
 “It has been sitting on that line for seven years and it has not moved and it is not going to, and nobody has ever opened the ledger at that page.”
+
+“Seven years of you.”
+
+“Seven years of me,” said Sander Vole. “It was there when I took the book off the man before me, and he told me it had been there when he took it off the man before him, and I have never asked either of them when it started, and neither of them is alive to ask. So there is a beginning to it and nobody alive who saw it.”
 
 “A figure can be added to and cannot be taken from,” he said.
 
@@ -117,6 +120,12 @@ He closed the book and it shut with the sound that a book in a yard shuts with, 
 
 “A course of dressed stone does not care where it came from,” he said. “It came from a quarry and a mason and a barrow and it is going to a wall and it is going to be a wall for about a hundred years and then it is going to be a wall that comes down and gets made good, and I have written down what I am told to write down for nineteen years and I have not once been asked to be right.”
 
+*Two thousand two hundred and fifty-four days. Less two thousand two hundred and forty-seven, the twenty-eighth of April of the seventh year, is seven, and thirty less twenty-eight is two, and two added to five is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and seventy-six days, which is five months with twenty-six days after them, and a book in that yard has now been open on the counter nineteen years with a figure on a line in it that has not moved once in seven.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and thirty-six days, which is seventeen months with twenty-six days after them. It is the third of four sentences at the foot of a sheet. A yard nine streets from a works department has a figure against a course of dressed stone with no name against it, and a counter figure can be added to and cannot be taken from, and nobody has ever opened that book at that page.*
+
 ## The Last Hour Of It
 
 He stood outside the gate for about a quarter of an hour with about nine hundred feet of open ground going away from him in every direction.
@@ -127,12 +136,6 @@ The office cannot be compelled and holds about ninety pieces of pencil paper in 
 
 A course of dressed stone goes into the bottom of a wall and stays there and holds a line of two words cut into it all the way through the face.
 
-A figure sits on a line in a book in a yard nine streets away with no name against it, and it has not moved in seven years. And the two words were cut by somebody who did not write down which block, and there is no column in this city for a word on a stone and no form for it and no box for it and no clerk who may be given it.
+A figure sits on a line in a book in a yard nine streets away with no name against it, and it has not moved in seven years. And the two words were cut by somebody who did not write down which block, and the last man in this city who might have been able to say which block it was is dead, and the block went into a wall, and the wall was taken down to the course and made good in the fourth week of the fourth month.
 
 The book has never been opened at that page.
-
-*Two thousand two hundred and fifty-four days. Less two thousand two hundred and forty-seven, the twenty-eighth of April of the seventh year, is seven, and thirty less twenty-eight is two, and two added to five is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is one hundred and seventy-six days, which is five months with twenty-six days after them, and a shutter at the far end of a yard has had nothing at the foot of it for all of them.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and thirty-six days, which is seventeen months with twenty-six days after them. It is the third of four sentences at the foot of a sheet, and a yard nine streets from a works department has a figure against a course of dressed stone with no name against it, and a counter figure can be added to and cannot be taken from, and it has not moved in seven years, and nobody has ever opened that book at that page.*

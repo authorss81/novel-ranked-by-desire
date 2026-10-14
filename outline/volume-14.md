@@ -419,6 +419,8 @@ VOLUME 14      301 inside the five batches, plus a seam of 31 and four seams of 
 
 **THE FIGURES THE MOVEMENT OWED, PRINTED ONCE EACH WITH OPERANDS:** the lane's mornings at **670** (`2,289 − (−118) + 1 = 2,408`) · **the office's months and the wall's headcount are printed nowhere in 661–670, and both were spent at 651 and 655.**
 
+**THE BATCH WAS REPAIRED ON 14 OCTOBER 2026 AGAINST `logs/batch-0002.review.log` AND NOTHING IN THIS MOVEMENT'S PLAN MOVED.** Seven findings, all repetition or one unmeasured gate row, and none of them a plot matter: a false paragraph count in the state file, repaired and re-measured to 620 / 0 over ninety / 0 over a hundred and twenty · the watch-list said three times and now once at 664 and once reversed at 667 · the shutter clause rewritten on eight anchors with the arithmetic untouched · the ticket block moved above the final section in all ten so every chapter ends on prose · the re-interrogation at the top of 666 cut and its substance moved up into 665 · `## ` headings 66 to 51 · one narrator-as-author line put back inside the book. **THE ROWS BELOW ARE UNCHANGED AND THE PAGE STILL BEATS THE CARD.**
+
 **§5c NEEDS NO CORRECTION.** All ten dates and the row `7 7 7 7 7 7 7 7 7 = 63` re-derive against the page; `2,289 − 2,226 = 63`; the seam `2,226 − 2,219 = 7` is in its own column and is not one of the nine. **THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF THE TWO METHODS.**
 
 ---

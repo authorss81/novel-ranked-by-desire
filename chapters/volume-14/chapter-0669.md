@@ -8,8 +8,6 @@ Has a copy ever been used on anything.
 
 He had been assuming for four months that about four hundred people were making them and waiting for him. There was another possibility and it had been sitting in the room off a third court in a drawer since the first of February.
 
-## A Demand Is Where You Put What You Cannot Put Anywhere Else
-
 No sheet of paper in Ostara may be put before a magistrate by a landlord except a demand. Not a claim. Not an account. Not a return. A demand says pay, or here is what happens instead, and it is the one thing a landlord is permitted to hand across a counter and point at.
 
 Which means a demand is where a person puts the things they cannot put anywhere else.
@@ -50,7 +48,7 @@ He knew what he was looking at. It was a copy.
 
 It was the foot of the twenty-fourth sheet written out by hand and then written on, and it had been in a pocket in this city since about the ninth of January, and it had come back that morning to the front door of a building with no door onto a street, attached to a landlord’s demand. A person cannot get a receipt for anything, and that was the only paper in the city that said an office had ever heard of her.
 
-## The Second Sentence He Wrote And What It Now Describes
+## What The Four Sentences Now Describe
 
 The second of the four at the foot of that sheet says, in other words, that where the Register is empty then nobody has been handed anything.
 
@@ -59,8 +57,6 @@ He wrote it. It has been in this building’s hand since before this building op
 It was written about the people it was meant for, which is somebody who turned up at a counter, got turned down, and went home without a paper of any kind.
 
 From this morning there is a sheet of paper in a room off a third court that says the office was handed something, on the twenty-first of May, by a woman who cannot read, in a set of rooms off a street where she had been turned off and on eleven times.
-
-## A Person Who Could Not Read It
 
 He read the four sentences on the paste and the six lines and the strike and the name, and he read the nine words underneath, and there was not one figure anywhere on the whole sheet except the sum the landlord wanted.
 
@@ -82,6 +78,13 @@ He was not permitted into the room and no one refused him. The clerk at the door
 
 Nobody asked him anything. That was notable. He had come down a stair with a spent chest expecting to be asked one question, because every man behind a public counter in this city has one and may ask it once, and the man at the door had not asked it and had said nothing at all about having one.
 
+
+*Two thousand two hundred and eighty-two days. Less two thousand two hundred and seventy-five, the twenty-sixth of May of the seventh year, is seven, and thirty less twenty-six is four, and four added to three is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and four days, which is six months with twenty-four days after them, and a piece of paper has been walked back through the front door of a building with no door onto a street, and the address at the top of it is that building, and nobody put the office there.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and sixty-four days, which is eighteen months with twenty-four days after them. It is the third of four sentences at the foot of a sheet, and about four hundred copies of that foot are in about four hundred pockets in this city, and one of them has been pasted into the only piece of paper a landlord is allowed to put in front of a magistrate.*
+
 ## A Thing That Has Been Named And Not Been Told
 
 It is not the hearing. There is no hearing this month and there may not be one, and he does not know and cannot ask, and there is no list anywhere that he is on and no paper has been served on this office by anybody.
@@ -95,9 +98,3 @@ Somebody in this city has used his sentence to make a demand stick.
 And nobody has told the office. A thing that has been named in a demand and has not been told is a thing that will be told, on a morning it did not choose, by a clerk at a counter with one question, in a room with a table in it.
 
 By then there will be about four hundred and nine pieces of pencil paper in a drawer, and a line in a column headed carried by with a date on it and nothing whatever else on it, and a clerk who entered it exactly as given.
-
-*Two thousand two hundred and eighty-two days. Less two thousand two hundred and seventy-five, the twenty-sixth of May of the seventh year, is seven, and thirty less twenty-six is four, and four added to three is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and four days, which is six months with twenty-four days after them. A shutter at the far end of a yard has had nothing at the foot of it for all of them.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and sixty-four days, which is eighteen months with twenty-four days after them. It is the third of four sentences at the foot of a sheet, and about four hundred copies of that foot are in about four hundred pockets in this city, and one of them has been pasted into the only piece of paper a landlord is allowed to put in front of a magistrate, and the office is named at the head of it, and nobody pasted the office there.*
