@@ -1,3 +1,70 @@
+# VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK. **§0a-vol15-b5 BELOW IS THE FILE'S LIVE BLOCK FOR 741–750 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b5. THE SPINE, THE OPERANDS, THE FOOTER ROW AND THE FOURTH WALL, RE-DERIVED FROM DISK
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + 30*pos[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, CONTAINS NO 360 AT ALL
+           pos[Oct]=8 pos[Nov]=9 pos[Dec]=10   PRINTED HERE, USED HERE, ZERO INDEXED
+
+741 28 Oct, y8  A=7x360+240+27 = 2787   B=30*(7*12+8)+27  = 2787   agree   seam 2787-2780 = 7
+742  5 Nov, y8  A=7x360+270+4  = 2794   B=30*(7*12+9)+4   = 2794   agree
+743 12 Nov, y8  A=7x360+270+11 = 2801   B=30*(7*12+9)+11  = 2801   agree   SCENE, Nadia Ferrous
+744 19 Nov, y8  A=7x360+270+18 = 2808   B=30*(7*12+9)+18  = 2808   agree
+745 26 Nov, y8  A=7x360+270+25 = 2815   B=30*(7*12+9)+25  = 2815   agree
+746  3 Dec, y8  A=7x360+300+2  = 2822   B=30*(7*12+10)+2 = 2822   agree   THE VOLUME'S DECISION
+747 10 Dec, y8  A=7x360+300+9  = 2829   B=30*(7*12+10)+9 = 2829   agree
+748 17 Dec, y8  A=7x360+300+16 = 2836   B=30*(7*12+10)+16= 2836   agree   32nd sheet squared
+749 24 Dec, y8  A=7x360+300+23 = 2843   B=30*(7*12+10)+23= 2843   agree
+750 30 Dec, y8  A=7x360+300+29 = 2849   B=30*(7*12+10)+29= 2849   agree   QUARTER-END, 32nd sheet
+
+MONOTONIC  0 violations over the ten by METHOD A and by METHOD B
+THE PROOF IS THE SUM AND NOT THE AGREEMENT
+  7 7 7 7 7 7 7 7 6 = 62     and  2849 - 2787 = 62
+  THE SEAM  2787 - 2780 = 7   is printed in its own column and is not one of the nine
+EVERY ONE OF THE NINE, READ AGAINST ITS OWN DATE, ONE AT A TIME: all nine correct
+  the ninth term is a SIX because December runs to its thirtieth and the thirtieth is the last
+  working day of the quarter, and the first eight are SEVENS across two month turns.
+THE VOLUME  2849 - 2489 = 360 days, and 750 - 700 = 360: EXACTLY ONE YEAR.
+FOOTER INTERVALS  27 parsed off the pages, 27 re-derived from day numbers, 0 mismatches,
+  0 unparsed. THE READER WAS PROVED FIRST ON 721-730 (30 parsed, 0 mismatches, 0 unparsed;
+  the record holds 40 and THAT FIGURE DOES NOT RE-DERIVE — see state/current.md).
+MONTH BREAKDOWNS  18 printed, 18 re-derived against n x 30 + m, 18 correct, 0 wrong.
+THE RAIL COUNT  the feet of 741-750 re-derive as `chapter day - 2,752`: 35 42 49 56 63 70
+  77 84 91, and 750's footer carries the thirty-second sheet from four o'clock that afternoon.
+  *** 729 AND 730 ARE STILL ONE HIGH AGAINST THE OLDER RULE AND ARE STILL NOT THIS PHASE'S. ***
+THE HEAD  852, unmoved since 1,499, printed at 750 ONLY, named there as SIXTEEN SHEETS and
+  FIFTEEN QUARTERS, both in words, both correct, and the chapter says they differ by one.
+THE SECOND COLUMN  three lines at 741-745, a NAME ENTERED at 746, `four lines` at 748, 749, 750.
+THE BUNDLE  twenty-five at 741 before the twenty-sixth went on, twenty-six at 741 and at 750.
+```
+
+**VOLUME 15 HAS NO JANUARY CHAPTER AND NONE OF 741–750 IS ONE, SO THE JANUARY CONVENTION IN §5a IS STILL PRINTED AND STILL NOT APPLIED, WHICH IS THE CONDITION UNDER WHICH IT HAS TWICE PRODUCED 2,133.**
+
+## 0b-vol15-b5. THE FOURTH WALL, AND THE STAGING OF THE SCENE AT 743 AGAINST §4d
+
+**THE CLASS GREP IS AT ZERO ACROSS ALL TEN AFTER EVERY REPAIR, AND THREE HITS WERE FOUND BY COMMAND AND CUT ON THE PAGE: `this pass` matched inside "at the end of this passage" at 743, and `this page` was used for a quarterly sheet at 748 and at 750. THEY NOW SAY THE SHEET. AND 743 AND 750 WERE READ AGAINST THE PARAGRAPH, BECAUSE A GATE ROW THAT QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE, AND A BOUND LEDGER IN A FICTION IS STILL A BOUND LEDGER.**
+
+**THE WEEKDAY ROW AND WHAT IT COST.** Volume 15 names no day of the week at all. The first draft of 743 was built on Tuesday, Wednesday and Thursday, because a rota is a record of a whole person's week and the obvious way to give a person's week back to them is in days. Twenty-two further instances were written across the other nine chapters. **All thirty-one are cut, and the fix is not a substitution but a rule the chapter now states in Nadia Ferrous's mouth: this city has thirty days a month and no thirty-first, and a man in a branch office writes the date and not the day, and that is correct for a wage and it is no use at all for a person.** So the three off are three holes, they are named *the first of the three*, *the second of them* and *the third of them*, and the exchange is worse and truer than it was.
+
+**743's STAGING, ITS OWN FURNITURE.** A branch office off a third court at night: a ground floor, three floors of washrooms, a stairwell, a bin room and a goods lift in a shaft at the back. The landing is lino about eleven feet by nine, with a fire bucket screwed to the wall at the end, a wooden key board on the left with nine numbered hooks and nine keys on string loops and no hook carrying a room because there are no rooms, a table, two chairs, a tin with a lid, a bar of soap in a dish gone white, and a clock four minutes slow a day corrected every seventh day by a man who is not him. A strip light on a flex that has been getting longer for nine years. A scissor gate on a wooden floor worked by a rope over a wheel, and a counterweight on the other side of the shaft that you hear before you see. **Measured on the finished file: `pigeonhole` 0 · `brass tag` 0 · `deal bench` 0 · `steps on a rail` 0 · `pendant lamp` 0 · `grating` 0 · `dust sheet` 0 · `wire rack` 0 · `satchel` 0 · `bracket lamp` 0 · `stamp pad` 0 · `two stools` 0 · `two flights` 0 · `returns desk` 0 · `day book` 0 · `heap` 0.** NOT 733's room over the counters, NOT 723's counting house above Cordwain, NOT 713's returns desk, NOT 703's filing floor, NOT 693's nine heaps, NOT 613's counting room, NOT 594's ward. **Her marks: none. §4d lists no mark for Nadia Ferrous and this volume did not invent one.**
+
+**THE AXIS IS THE ROTA AND IT IS CARRIED BY A RULE OF THE ROOM THAT NOBODY NAMES:** four nights and three off, the page is the size of a folded hand, it hangs in an office at the end of the landing that belongs to the branch and not to him, and a name on it is a person who works in the same building as him and may not be asked what she does with it. **NAME IT AND IT IS A DEFECT.**
+
+## 0c-vol15-b5. THE SIX CLASSES INHERITED, AND WHAT 741–750 ADDED AND WHAT IT CUT
+
+1. **House arithmetic frame** — the opening line and the footers. The bulk of every scan. Permitted. The longest shared run touching the batch and any of the 750 chapters on disk is **twelve tokens**, which is this class and nothing else.
+2. **Standing descriptions of furniture and paper the book repeats by design** — the drawer shut in the wall on the left, the bundle on the table, the table under the window, the two cardboard boxes, the four flights, the two ruled squares at the foot of a form, the boards under the window.
+3. **The office's own instruments quoted as instruments** — *a row may be added to and may not be taken from*, *she may only enter what she is given and cannot improve it*, *with a date against it and an hour against the date and nothing whatever against the hour*, *a page that goes out four times a year does not come back*, *four lines in the second column under two words that say carried by*.
+4. **A character's own stock formula in her own mouth** — Wenna Raut enters exactly what she is given and asks one question a morning and spends it when she chooses; Perla Quist copies are pieces of paper and a woman who keeps a list is a person who can be sent; the counterman reads what is on the page; Nadia Ferrous says figures out loud in the voice she uses over a hundred people at a market end.
+5. **Counts held apart by rule: pieces of paper, claims, people.** **741's twenty-six is a count of things on a table. 740's four numbers stand as batch 0004 left them. 748 names four numbers in a clerk's mouth and names every one: about four hundred and nineteen accounts, a number against a date, four lines in the column of which one head is dead, and one living person named on the sheet who is not the officer.** None of them is a count of people, none is a count of claims, and 750 keeps them apart again in the foot.
+6. **A guild or standing rule carried by the room and named by nobody** — the rota rule at 743, the day-book rule at 733 and the third-party rule at 723 are this shape and are permitted for the same reason.
+
+**AND TWO THINGS THIS BATCH CUT ON ITSELF.** The head figure `eight hundred and fifty-two` was standing in 748 as well as 750 and is now at 750 only, because the allowance is the head with its sheet and quarter counts and 750 is where those live. And the corner's hour at 750 was a copy of 0700's sentence and is now this chapter's own sentence with the same figure in it, because the figure is the count in one hour at five o'clock and not the daily rate that 738 owns.
+
+**AND THE CLOSING BEATS OF 741–750 ARE NINE DIFFERENT ONES AND NOT ONE OF THEM IS THE END-OF-SHIFT BEAT, WHICH APPEARED IN NONE OF 701–717 AND WAS USED SEVEN TIMES IN ONE BATCH OF THE PREVIOUS VOLUME:** a bundle of twenty-six things · a sentence printed to a woman who will not be told she has it · two days of a week held in a woman's head and not on anything · a heading of two words that cannot be taken off a printed form · a week of doing the third floor · a line face up in a room with no door onto a street for twenty-seven days · a woman who will not thank him and will not ask · a printer two streets away who has never been sent a paper in nine years · four minutes after four o'clock at a rail.
+
 # VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK. **§0a-vol15-b4r BELOW IS THE FILE'S LIVE BLOCK FOR 731–740 AFTER THE REPAIR AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM. NOTHING WAS RESTARTED, NO CHAPTER WAS REWRITTEN, NO INTERVAL, FIGURE, EVENT OR REFUSAL MOVED.**
 
 ## 0a-vol15-b4r. WHAT THE REPAIR TOUCHED, MEASURED FROM DISK AFTER THE LAST EDIT

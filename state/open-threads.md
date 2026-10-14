@@ -1,3 +1,73 @@
+# VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK, **22,877 RAW / 22,382 OF PROSE**. MOVEMENT FIVE, *THE SUBJECT*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM DISK AFTER THE LAST EDIT. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE ONE THREAD THIS BATCH CLOSES, AND THE ONE IT OPENS
+
+**CLOSED: THE BUNDLE AS A PLACE WHERE A THING IS NOT A RECORD.** It stood on that table for three years with twenty-five things on it and no instrument in this city could see into it. At 741 he put the twenty-sixth thing on it — a piece of rag paper about the size of a copy of the foot of a printed page with nothing on it at all, which he carried out of his own drawer in the inside of his coat on the fourteenth and read twice — and understood standing at the table that the bundle is the only instrument in Ostara that holds a piece of paper without making it into a record, and that it has no heading, no keeper, no form and may not be cited by anybody, and that the cost of it is a floor: nothing that goes onto that table can ever be found again. **IT IS CLOSED AND IT IS SPENT TWENTY-SIX THINGS DEEP AND IT IS THE LAST THING THIS VOLUME PUT IN A ROOM ON PURPOSE.**
+
+**OPENED, AND IT IS THE ONLY THING 741–750 OPENS: SOMEBODY HAS TOLD HER.** A woman who cannot read was told, by a person in a laundry or at a counter or in a kitchen, that there is a name in a column in this city. **Nobody sent anybody. This office has never sent anybody to anybody in nine years and did not send anybody in December either, and there is a form on which it could not have sent anybody if it had wanted to.** She is going to come back up four flights to a third table with a piece of paper with four words on the back of it in a clerk's hand that she has never once been able to read, and she is not coming because she wants to know whether it is right. **She has asked that question eleven times in eleven months and this office has answered it eleven times and the answer has been no every time, and when she gets to the top of that stair there is going to be a woman at a bench who can read the one sentence in this city about her, and what will come back will not be an answer.** `outline/ending.md` is untouched and nothing in 741–750 touches it.
+
+## THE THREADS BELOW ARE UNCHANGED AND THEIR OWNERS ARE UNCHANGED
+
+**NOT ONE THREAD IN THE TABLE BELOW MOVED, CLOSED OR CHANGED OWNER IN THIS PASS.** The two records, the denial, the drawer, the empty sheet, the woman who cannot read, the woman with the broom, the boy, the two words on the stone, the scene cadence and the docket all stand exactly where the block below puts them. **THE IRREVERSIBLE DECISION AT 746 IS THE ONE THING THAT MOVED FORWARD, and it moved a thread that has been open since the twelfth of September of the seventh year: THE SECOND COLUMN.**
+
+| Thread | Where it stands after 750 | Whose |
+| --- | --- | --- |
+| **THE FOURTH LINE IN THE SECOND COLUMN** | **ENTERED.** A name, under a printed heading that says *carried by*, in the office's hand, with a man's name under it and the date at the top, on the third of December, without asking the woman it was about. She found out on the tenth and came down four flights on her own. It goes out at four on the thirtieth to about two thousand counters and a man who is paid nothing read it out loud. It cannot be taken out | closed by this volume |
+| **THE SECOND COLUMN AS A PLACE WHERE NOTHING IS SAID ABOUT A PERSON** | **GONE.** It was, for nine sheets and nine years, the only place in any book in this city where nothing whatever about a person had ever been entered, and the only name he could enter that was not his own was the woman who keeps nine sheets under a third table | — |
+| **THE DENIAL** | On the page, out, read to the bottom about nine times a week, and about nine feet above a line that undoes what it was for. Nobody asked the counterman to read less and he would not | 749, 750 |
+| **THE BLANK FIELD** | In the Register with the date and the hour and nothing whatever against the hour and nothing whatever in the description, and its cost stated in words once, at 750 | 750, paid |
+| **THE TWO RECORDS** | Nine sheets under a third table and a grey cloth book in a pigeonhole; neither an instrument; he is the only person who knows both; he is not going up the stair to the second one again | — |
+| **THE DRAWER** | Opened once, for about four hours, on the fourteenth of October; shut at half past three; can never be opened again by anybody. One sheet came out of it in the inside of a coat and is on a table | — |
+| **THE EMPTY SHEET** | Twenty-sixth thing on a bundle. Read twice and empty both times, and it will stay empty | — |
+| **THE WOMAN WHO CANNOT READ** | Not named, not traced, nobody sent, nothing asked, in this batch as in every other. **And at 750 it is stated that she is coming back, and that nobody sent her** | the next volume, if there is one |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | Neither named nor asked. She is in 750 at about ten past seven in the morning sweeping four inches | — |
+| **THE BOY** | Asked once in July by somebody who is not Lin Hao. Nobody asked him anything in this batch. Not on the page in this batch at all | — |
+| **THE TWO WORDS ON THE STONE** | Not printed anywhere in this batch and never asserted the same as anything | — |
+| **THE SCENE CADENCE** | 703, 713, 723, 733, 743 spent, at gaps of 10 · 10 · 10 · 10 · 10. Nadia Ferrous was paid at 743, three hundred and twenty-six chapters after her own at 417 | — |
+| **THE BUNDLE** | **Twenty-six things, and the twenty-sixth is the only one anybody has ever read** | — |
+
+---
+
+## THE LIVE GATE, VOLUME-WIDE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES           750 chapter files on disk. Volume 15 holds 701-750 and 750 is the last written
+                page and the last chapter of the volume.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 750 FILES.
+                Title lines checked separately from bodies: 0 non-ASCII, 0 straight double quotes.
+BANK            Volume 15 is 22,377 (701-710) + 22,788 (711-720) + 19,436 (721-730) + 20,845
+                (731-740) + 22,877 (741-750) = 108,323 RAW. Body basis, this batch 22,382 of a
+                22,877 raw file.
+BAND            741-750: 9 of 10 inside 1,800-2,700 on the BODY count. 743 at 3,752 of prose is
+                the scene and the reason is in state/current.md, with seven precedents.
+SCENE           743: three definitions, six cells, line span beside every one, in state/current.md.
+                Word-boundary probe: cock 1, cunt 1, semen 1, wet 2, inside 1, came 12, mouth 2.
+STAGING         743 borrows nothing. Sixteen borrowed markers measured at 0 on the finished file.
+WEEKNAMES       0 across 741-750, whole word and stem. *** 31 REAL INSTANCES WERE WRITTEN FIRST
+                AND CUT, 19 OF THEM IN THE SCENE, AND THE FIX IS A RULE IN NADIA FERROUS'S
+                MOUTH RATHER THAN A SUBSTITUTION. VOLUME 15 NAMES NO DAY OF THE WEEK. ***
+WATCH COUNT     no form 13 (worst chapter 3) · nobody 34 (worst chapter 5) · no one 0 · nobody is
+                thanked 0 · there is no column 0 · there is no instrument 1 · there is no way 2.
+                EVERY ONE UNDER SIX. The previous batch ended at 15 and at 39.
+DUPLICATION     longest maximal 12-gram run touching 741-750 and any of the 750 chapters on disk
+                is TWELVE TOKENS. 175 maximal runs, none at twenty or more.
+ARITHMETIC      2,787-2,849, 0 monotonic violations by two methods that share no constant,
+                7 7 7 7 7 7 7 7 6 = 62 = 2,849 - 2,787, seam alone, all nine read one at a time,
+                27 footer intervals parsed and re-derived with 0 mismatches and 0 unparsed,
+                18 month breakdowns found and 18 correct.
+SECOND COLUMN   `four lines` at 748, 749, 750 and at 741-747. Nothing entered anywhere before 746.
+THE HEAD        852 at 750 only, unmoved across sixteen sheets and fifteen quarters, both named.
+ACCOUNT         8,1xx 0, settl 0, the figure of the account 0, no floor, no total, no balance.
+                `grain` 0 in this batch.
+THE TWO WORDS  never printed in 741-750 and never asserted the same as anything, read by eye and
+                not by grep.
+```
+
+## THE TWO THINGS A NEXT PASS INHERITS AND MAY WANT TO KNOW
+
+1. **A PROMPT THAT SITS IN `outline/batches/` IS NOT A PHASE.** `scripts/novel_runner.sh` enumerates phases only through `find workspace -name PROMPT.md`. The cards for this batch are in `outline/batches/volume-15-batch-0005.md` as the plan of record and the dispatch copy is at `workspace/volume-15/batch-0005/PROMPT.md`. **The one phase created by this pass is `workspace/volume-15/volume-close/PROMPT.md`, which is the path the runner will find.**
+2. **THE STATE FILES ARE NOW OVER 3.3 MB AND GROW BY PREPENDING.** `open-threads.md`, `current.md`, `continuity.md` and `chapter-summaries.md` each add a block at the top under a standing rule that a new block supersedes and deletes none of the old ones. The rule is right and the cost is real: a prompt that loads the heads gets what it needs, and the file that keeps growing is one nobody reads past its first screen. **Archive-and-truncate is a decision for a pass that is not writing chapters, because the day it is done wrongly the figure the next pass needs is the one that went. NOTHING IS ARCHIVED HERE AND NOTHING IS DELETED.**
+
 # VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK, **20,845 WORDS RAW, 20,454 OF PROSE**. MOVEMENT FOUR, *THE NAME*. **NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. EVERY EVENT, FIGURE, REFUSAL, RELATIONSHIP AND CLOSING BEAT OF 731–740 STANDS. WHAT CHANGED IS SIX DEFECTS, THE LABEL ON A WORD-COUNT ROW, AND THE PATH OF THE ONE NEXT PHASE.**
 
 ## THE THREADS BELOW ARE UNCHANGED AND THEIR OWNERS ARE UNCHANGED

@@ -1,3 +1,202 @@
+# VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK, **22,877 WORDS RAW AND 22,382 WORDS OF PROSE, BOTH COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT FIVE, *THE SUBJECT*, THE LAST TEN CHAPTERS OF THE VOLUME. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/volume-close/PROMPT.md`, AND IT IS A VOLUME CLOSE AND NOT A BATCH, BECAUSE 741–750 CLOSE VOLUME 15 IN PROSE AND `AGENTS.md` IS UNAMBIGUOUS. THERE IS NO CHAPTER 751, NO BATCH 0006, NO `outline/volume-16.md`, AND `state/complete.md` IS NOT CREATED BY THIS PASS.** This block supersedes every block below it for 741–750 and deletes none of them.
+
+## WHAT THIS BATCH DID, IN ONE PARAGRAPH
+
+**HE PUT A WOMAN'S NAME IN A COLUMN AND A WOMAN WHO CANNOT READ IS GOING TO WALK UP FOUR FLIGHTS BECAUSE SOMEBODY TOLD HER.** The bundle became twenty-six and he understood that it is the only instrument in this city that keeps a piece of paper without making it into a record, and the twenty-sixth thing in it is the empty sheet he carried out of his own drawer on the fourteenth and read twice. He had the office print a second sheet with four words on the back of it in a clerk's hand and could not give it to the one person it was about and put it on a bench under a third table with eleven other things nobody has been able to use. A woman who runs a lift and has no instrument of any kind told him that she knows more about him than any of them do, and that there is no form on which a person may read their own, and wanted a copy of a rota page the size of a folded hand, and got his three days off out of him instead and would not write them down. He read the second column from the top and found that all three lines in it were names, and that the heading over it says *carried by*, and that the only name he could enter in it that was not his own was the woman who had just said no to him for the fifth time and priced the answer to her own name in about nine seconds. **He entered it on the third of December without asking her, in the office's hand, with his own name under it, and did not go up four flights and did not send anybody.** She came down four flights on her own on the tenth and said the cost to his face and asked him for one sentence and was told why there could not be one, and did not ask him to take it out. The thirty-second sheet went out at four on the thirtieth with four lines in the second column and a name at the head of one of them, and a man who is paid nothing read it out loud in a passage off Cordwain to eleven people, and about four minutes later a man with a cap in his hands told a woman, and that is the whole of what happened.
+
+## THE IRREVERSIBLE THING, AND IT IS AT 746 AND IT IS HIS
+
+Not a claim and not an order: a line. **A name in the second column of a quarterly sheet, in the office's hand, under a heading printed before the office existed, with his own name under it and the date at the top, entered on a Tuesday morning without asking the woman it was about and while a clerk watched and entered it exactly and did not improve a word of it.**
+
+**WHAT IT CLOSES:** the second column was, for nine sheets and nine years, the only place in any book in this city where nothing whatever about a person had ever been entered. That is finished. The place where paper is received and nobody is said anything about is shut by the only man entitled to shut it.
+
+**WHAT IT COSTS:** about four hundred people who brought a sheet to a laundry will find out that the index they trusted has a name at the head of it, in a building with no door onto a street; they will believe the name is the reason they trusted it, because that is what a printed name does and because a man behind a counter reads what is on the page and cannot be asked to read less; and the man who put it there cannot open the drawer that holds what they wrote, and is the only person in Ostara who may ask that office any question in the world. **AND THE SECOND COST, WHICH IS WORSE AND WHICH HE FOUND OUT ABOUT ON THE SEVENTEENTH:** about forty people will say it came from the office off the third court, and about four hundred kitchens will stop writing in the two inches under the striking, and the denial he entered in his own hand in August to keep those two inches open is on the same sheet about nine feet above the line, and nine feet apart is not far enough.
+
+## WHAT THE BATCH DELIVERED
+
+the bundle at twenty-six and what a bundle is · the empty sheet out of the drawer and into the only place in Ostara where a piece of paper can sit and stay a piece of paper · a second four-word sheet the office can print and cannot deliver · **the scene at 743, Nadia Ferrous, three hundred and twenty-six chapters after her own** · **the second column read as a column of carriers for the first time in nine years** · the fifth refusal and the discovery that the reason has never once been about him · **the price quoted to him in advance by the person it was about** · **the decision** · **the cost said out loud by her, not by him, and not thanked** · the heading that cannot be taken off a printed form · the printer two streets away this office has never sent a paper to in nine years · **the counterman's first question in nine years and his right answer** · **Emil Brack, right again, not thanked, not diminished** · the thirty-second sheet out at four · the head unmoved across **sixteen sheets and fifteen quarters, both named in words** · the corner · and somebody told her.
+
+## WHAT IT REFUSED, AND EVERY ONE OF THEM WAS CHECKED BY COMMAND
+
+the figure of the account in any form · any floor, ledger total or running balance in grains · `settl` in every inflection · the invented-figures sentence, verbatim and Tier 3 · the reach of the return argued either way · the fourth condition · who cut the two words · Sander Vole asked a third time · the stone yard entered · either repainting box · the keeper's six words · Hanneke Ruis · Agnete Lindqvist · Ines Duarte · **the woman with the short-handled broom, named nowhere and asked nothing** · **the woman who cannot read, not named, not traced, nobody sent, nothing asked, and nobody is going to be sent after her in the last chapter either** · the boy asked by Lin Hao, who never asks him · Lin Hao on the hill or through the yard gate · a hand flat on anything · any permission, standing, band, promotion, new rank, or anything that moves him off the branch night shift he asked for · a new enemy · a house named · anything about `outline/ending.md`.
+
+**AND THE FIGURES THIS BATCH WAS NOT PERMITTED TO PRINT AND DID NOT PRINT:** the office's months at 701, the shutter's interval at 710, the lane's mornings at 720, **the wall's rate at 738**, the docket's date, and **the two words on the stone**. Measured on the finished files: `two hundred people a day` 0, `ninety read` 0, `nine of them in a week` 0, the office's months 0, `2,078` 0, `2,768` 0, `411` 0, `771` 0.
+
+## THE BANK, ON A STATED BASIS, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT
+
+```
+RAW `wc -w`, WHOLE FILE, `## ` HEADING LINES INCLUDED — the basis every earlier block of this
+volume printed, kept so the batches stay comparable:
+741  2,019   742  2,132   743  3,814   744  2,033   745  1,999
+746  1,923   747  2,023   748  2,285   749  2,190   750  2,459
+BANK RAW = 22,877
+
+BODY, `## ` HEADING LINES STRIPPED — the basis that is about prose, and the one the BAND row uses:
+741  1,979   742  2,091   743  3,752   744  1,983   745  1,961
+746  1,878   747  1,960   748  2,222   749  2,143   750  2,413
+BANK BODY = 22,382
+```
+
+**THE COUNTER WAS PROVED FIRST, ON A FILE THIS PASS DID NOT WRITE. `chapters/volume-14/chapter-0700.md` RETURNS 2,013 BY A PYTHON WHITESPACE SPLIT AND THE RECORD SAYS 2,013. THE TEN CELLS WERE TAKEN PER FILE AND NEVER FROM A CONCATENATION, AND BOTH COLUMNS WERE RE-COUNTED AFTER THE LAST EDIT TO ANY OF THE CHAPTERS, WHICH IS THE ROW THAT FAILED LAST TIME AND TWICE BEFORE THAT.** Volume 15 now stands at 22,377 (701–710) + 22,788 (711–720) + 19,436 (721–730) + 20,845 (731–740) + 22,877 (741–750) = **108,323 raw**. Scenes spent: 703, 713, 723, 733, 743. Decisions: 710, 720, 730, the act at 739, and the volume's own at 746.
+
+## BAND, ON THE BODY COUNT, WHICH IS THE ONE THAT IS ABOUT PROSE
+
+**NINE OF THE TEN ARE INSIDE 1,800–2,700 AND OWE NO REASON.** The nearest floors are 746 at 1,878 and 741 and 744 at 1,979 and 1,983; the nearest ceiling is 750 at 2,413.
+
+## 743 IS THE ONE CHAPTER OUTSIDE THE BAND, AND THE REASON IS RECORDED HERE AS `outline/volume-15.md` §9 REQUIRES
+
+**743 IS 3,752 WORDS OF PROSE AND 3,814 RAW, AND IS ABOVE THE CEILING.** It is the volume's fifth structural debt paid — Nadia Ferrous, three hundred and twenty-six chapters after her own scene at 417, and the first scene in this book between the nine sworn women that is not a household chapter. **THE AXIS IS THE ROTA, AND THE AXIS FORCED A REVISION THAT MADE THE CHAPTER BETTER RATHER THAN MERELY LONGER.** The first draft had her talking in days of the week, and **volume 15 names no day of the week at all, seven names whole-word and stem, zero.** That was a real gate failure caught by command and the fix was not a substitution: **this city has thirty days a month and no thirty-first and a man in a branch office writes the date and not the day, and that is correct for a wage and it is no use at all for a person** — so the three off are three holes in every rota and a person cannot even say which three. The chapter is longer after the fix than before it, and the extra length is the rule, not padding. **ITS PRECEDENTS STAND: 653 at 3,942 · 663 at 3,813 · 673 at 3,445 · 683 at 4,046 · 693 at 3,901 · 703 at 3,873 · 713 at 4,692 · 733 at 3,295.** Nothing in this pass shortened it.
+
+## 743 SCENE MEASUREMENT, SIX CELLS PLUS THE FILE, THE LINE SPAN PRINTED BESIDE EVERY CELL, COUNTED FROM DISK AFTER THE LAST EDIT
+
+| Definition | Line span | Words |
+| --- | --- | --- |
+| first `##` to last `##`, inclusive of both heading lines | **5–186** | **3,297** |
+| first `##` to last `##`, exclusive of both heading lines | **6–185** | **3,274** |
+| scene section heading to the last `##`, inclusive of both | **112–186** | **1,457** |
+| the same, exclusive of both heading lines | **113–185** | **1,442** |
+| scene section alone, inclusive of its heading | **112–147** | **822** |
+| scene section alone, exclusive of its heading | **113–147** | **817** |
+| whole file, 213 lines, ends 0a | **1–213** | **3,814**, which reconciles to the bank |
+
+**THE `## ` HEADING LINES IN 743 ARE 5, 24, 42, 63, 86, 112, 148 AND 186, MEASURED FROM DISK AND NOT CARRIED. THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY OVER THE WHOLE FILE RETURNS `cock` 1, `cunt` 1, `semen` 1, `wet` 2, `inside` 1, `came` 12, `mouth` 2; `pussy`, `cum`, `jizz`, `knob`, `fanny`, `arse`, `tits`, `licked`, `kissed` and `sucked` at 0. WORD BOUNDARY, NOT SUBSTRING**, and the substring controls in that file are `sat` 2 (the verb and the light), `sun` 0 and `mon` 0 at word boundary inside *month*. **A PROBE OF ZERO IS NOT A PASS**, and the first edition of this chapter scored `cock` 0, `cunt` 0 and `semen` 0 and was rewritten as the actual scene before the measurement was accepted.
+
+**NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR SEAL AS THE MECHANISM; BOTH ADULTS; HE IS RANK ONE WITH A CHEST SPENT SINCE THE FOURTH YEAR AND NO PERMISSION OF ANY KIND; NO VIOLENCE ANYWHERE IN THE CHAPTER; SAYING YES IS FAST, IT IS ENJOYABLE TO HER, AND IT IS WRITTEN AS A FACT ABOUT HER BODY AND NOT AS RELUCTANCE.** The lift is a lift and she runs it; nothing else in the room holds anybody.
+
+## THE STAGING AT 743, READ AGAINST `outline/volume-15.md` §4d AND `state/continuity.md` §0b BEFORE THE BODY WAS WRITTEN
+
+A branch office off a third court at night. A ground floor, three floors of washrooms, a stairwell, a bin room and a goods lift in a shaft at the back. The landing is lino about eleven feet by nine with a fire bucket screwed to the wall, a wooden key board with nine numbered hooks and nine keys on string loops and no hook carrying a room because there are no rooms, a table, two chairs, a tin with a lid, a bar of soap in a dish gone white, and a clock four minutes slow a day corrected every seventh day by a man who is not him. A strip light on a flex. A scissor gate on a wooden floor, a rope over a wheel, and a counterweight you hear before you see. **NOT 733's room over the counters (pigeonholes, brass tags, deal bench, steps on a rail, pendant lamp, grating, dust sheet) · NOT 723's counting house above Cordwain · NOT 713's returns desk (wire rack, day book, satchel, bracket lamp, two flights) · NOT 703's filing floor · NOT 693's nine heaps · NOT 613's counting room · NOT 594's ward.** Measured on the finished file: `pigeonhole` 0 · `brass tag` 0 (it was a brass tag and it was cut) · `deal bench` 0 · `steps on a rail` 0 · `pendant lamp` 0 · `grating` 0 · `dust sheet` 0 · `wire rack` 0 · `satchel` 0 · `bracket lamp` 0 · `stamp pad` 0 · `two stools` 0 · `two flights` 0 · `returns desk` 0 · `day book` 0 · `heap` 0. **HER MARKS: NONE. §4d lists no mark for Nadia Ferrous and this volume did not invent one.**
+
+## THE GATE, EVERY ROW A MEASUREMENT, RE-RUN FROM DISK AFTER THE LAST EDIT
+
+```
+FILES           ten files, 741-750, one `# ` title line each, all end 0a, 0 leading spaces,
+                0 paragraphs ending in a comma and a space.
+TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 750 FILES.
+                The ten title lines checked SEPARATELY from their bodies: 0 non-ASCII and 0
+                straight double quotes in any of them.
+BANK            raw 22,877 and body 22,382, both per file and summed from disk after the last
+                edit. Counter proved on chapter-0700 at 2,013 first.
+BAND            measured on the BODY count: 9 of 10 inside 1,800-2,700, no reason owed. 743 at
+                3,752 is the scene and the reason is recorded above.
+PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty. 0 with an odd count
+                of quotation glyphs. *** 34 PARAGRAPHS WERE OVER NINETY ON THE FIRST PASS AND EVERY
+                ONE WAS SPLIT AT A SENTENCE BOUNDARY, AND EVERY SPLIT WAS CLOSED WITH A QUOTATION
+                MARK RATHER THAN LEFT RUNNING. ***
+ORPHAN SPEECH   0, scanned separately because a parity row cannot see an orphan.
+META            0 primary, 0 widened, 0 extension, across all ten and after every repair. The row
+                carries `manuscript` and `opposition` and `[0-9]+ chapters` and `this batch` and
+                `a chapter that` and `this pass` and `in this volume` and `this page`.
+                *** THREE WERE FOUND BY COMMAND AND CUT ON THE PAGE: `this pass` matched inside
+                "at the end of this passage" at 743, and `this page` was used twice for a
+                quarterly sheet, at 748 and at 750. THEY NOW SAY THE SHEET. ***
+                *** AND THE GREP IS NOT THE GATE: 743 AND 750 WERE READ AGAINST THE PARAGRAPH. ***
+WEEKNAMES       0. Seven names, whole word and stem, and not the three-letter forms `sat`/`sun`.
+                *** THIRTY-ONE REAL INSTANCES WERE WRITTEN INTO THIS BATCH FIRST, NINETEEN OF THEM
+                IN THE SCENE AT 743, AND THE CHAPTER'S CENTRAL EXCHANGE WAS BUILT ON THEM. SEE
+                THE PARAGRAPH BELOW. *** The reader was proved first on chapter-0002, which has
+                `Monday` in it. The `mon` stem carries a `(?!th)` lookahead because it matches the
+                word *month*, which is the mistake this repository's own record warns about.
+AGES            0 for a person across eleven probe forms plus a bare `aged` sweep. One hit was a
+                false positive and was cut anyway: "six years old" applied to an instrument at 743.
+RT / BODIES     `right temple` 0 across all 750 files. `cuticle` still four files (329, 340, 404,
+                446), unchanged, none of them mine. `ostho` 0. `hand flat` 0, `hands flat` 0,
+                `palm flat` 0, `palmed flat` 0, `palms down` 0.
+ARITHMETIC      UNTOUCHED BY THIS PASS AND RE-DERIVED ANYWAY. spine 2,787-2,849. Monotonic at 0
+                violations by METHOD A (360) and by METHOD B (months x 30 at ZERO indexing,
+                sharing no constant, pos[Oct]=8 pos[Nov]=9 pos[Dec]=10). A == B on all ten.
+                *** THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT:
+                7 7 7 7 7 7 7 7 6 = 62 and 2,849 - 2,787 = 62. THE SEAM 2,787 - 2,780 = 7 IS
+                PRINTED IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE. ***
+                EVERY ONE OF THE NINE READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME:
+                28 Oct->5 Nov 7 (two to the thirtieth, one to the first, four more) · 5->12 Nov 7
+                · 12->19 Nov 7 · 19->26 Nov 7 · 26 Nov->3 Dec 7 (four to the thirtieth, one to the
+                first, two more) · 3->10 Dec 7 · 10->17 Dec 7 · 17->24 Dec 7 · 24->30 Dec 6
+                (December runs to its thirtieth and the thirtieth is the last working day of the
+                quarter). ALL NINE CORRECT.
+                *** 27 FOOTER INTERVALS PARSED OFF THE PAGES OF 741-750, 27 RE-DERIVED FROM DAY
+                NUMBERS, 0 MISMATCHES, 0 UNPARSED. 18 PRINTED MONTH BREAKDOWNS FOUND, 18
+                RE-DERIVED AGAINST `n x 30 + m`, 0 WRONG. PROVED BY HAND ON AN ANCHOR THAT COULD
+                GO THE WRONG WAY: `2,849 - 2,078 = 771` and `2,849 - 1,718 = 1,131`, NEITHER OF
+                WHICH IS PRINTED; `771` appears 0 times and `411` 0 times. ***
+                THE RAIL COUNT `the thirty-first sheet has been face up on that rail for every
+                one of the last N of them` RE-DERIVES AS `chapter day - 2,752` from the quarter-end
+                of the thirtieth of September, and this batch's feet are 35 · 42 · 49 · 56 · 63 ·
+                70 · 77 · 84 · 91, and 750's footer says the thirty-second has been up since four
+                o'clock that afternoon. ALL NINE RE-DERIVE.
+                *** AND THE INHERITED OFF-BY-ONE IS STILL STANDING: `chapter-0729.md` AND
+                `chapter-0730.md` PRINT THE RAIL COUNT ONE HIGHER THAN THE RULE AGAINST `day -
+                2,669`. 721-730 ARE FINISHED AND GATED AND THIS PASS DID NOT REOPEN THEM AND DID
+                NOT REPAIR IT. IT IS THE THIRD PASS TO NAME IT. ***
+QUARTERLY       852 unmoved at 750 and NOT AT 741-749, and no permission is printed anywhere.
+                750 NAMES BOTH COUNTS IN WORDS AND SAYS THEY DIFFER BY ONE: SIXTEEN SHEETS (the
+                thirty-second is this one, and a sheet counts itself from the seventeenth onward)
+                and FIFTEEN QUARTERS (2,849 - 1,499 = 1,350 = 15 x 90 exactly). The head is never
+                called a count of deeds.
+SECOND COLUMN   `four lines` appears 0 times in 741-747 and 3 at 748, 1 at 749 and 3 at 750.
+                NOTHING IS ENTERED IN THE COLUMN ANYWHERE BEFORE 746, and 746 names it four times.
+                The thirty-second sheet ordinal stands at 748, 749 and 750 and at 741-747.
+THE REGISTER    419 before a clerk's hand and eleven since the thirtieth of March, the 409 in two
+                boxes, the row at 740 with a blank in the middle of it, and the new fact of this
+                batch: **at 742 the Register takes a row about something the office chose to do
+                and then did not finish, which is the first row in nine years about a non-event.**
+                The three counts are not merged anywhere and this batch merged nothing.
+ACCOUNT         `8,1xx` 0 in the ten and 0 across all fifty volume-15 files. `settl` 0 in every
+                inflection in the ten and 0 volume-wide. `two hundred and eleven thousand` 0.
+                `grain`/`grains` 0. No floor, no ledger total, no running balance.
+SPENT FIGURES   office's months 0 · shutter's interval 0 · lane's mornings 0 · the wall's rate 0,
+                and `two hundred and forty` ONCE, at 750, which is a count of one hour at five
+                o'clock taken off 0700 and is not the daily rate that 738 owns · the docket's date
+                0 · THE TWO WORDS ON THE STONE 0, and no chapter of the ten asserts they are the
+                same two words as the second line, as the head of the column, or as anything else,
+                and that was read by eye chapter by chapter and not by grep.
+HEADINGS        one `# ` per file, ten of them. `## ` 62 across the ten: 6 6 8 6 5 6 6 7 6 6,
+                0 duplicated inside a file.
+DUPLICATION     12-gram, body only, headings and italic footers stripped, token-normalised,
+                maximal runs only. **READER PROVED FIRST ON `chapters/volume-12/chapter-0564.md`,
+                WHICH RETURNS 5,214 DISTINCT 12-GRAMS AND 7 REPEATING INSIDE ITSELF AND IS NOT
+                ZERO.** Inside the batch, each unordered pair compared once: **38 maximal runs of
+                twelve or more tokens and the LONGEST IS TWELVE**, i.e. every one of them is the
+                arithmetic frame, the standing furniture, or an instrument of the office quoted as
+                an instrument. Touching the batch and any other of the **750** chapters on disk:
+                **175 maximal runs, longest 12, and NOT ONE at twenty or more.**
+FOOTER-TO-FOOTER 46 pairs compared (45 inside the batch and the 740/741 seam), built by index so
+                that no pair can compare a file with itself. Longest contiguous footer overlap
+                between any pair: 12 tokens, and that is the arithmetic frame.
+APOSTROPHES     26 straight apostrophes converted to curly across the ten, no word changed. 0 left.
+SENTENCE        the invented-figures sentence VERBATIM 0 and TIER 3 0 in any chapter and in any
+                footer. Spent at 658 and it stays spent.
+WATCH COUNT     `no form` 13 across the ten, worst single chapter 3 · `nobody` 34, worst single
+                chapter 5 · `no one` 0 · `nobody is thanked` 0 · `there is no column` 0 · `there is
+                no instrument` 1 · `there is no way` 2. **THE PREVIOUS BATCH ENDED AT FIFTEEN `no
+                form` AND AT THIRTY-NINE `nobody` WITH TEN IN A SINGLE CHAPTER. EVERY ONE OF THE
+                TEN IS UNDER SIX AND THE TIGHTEST NUMBER IN THE BATCH IS FIVE.** An instance is
+                earned once or twice and a construction that has been paid for is a cost paid
+                twice.
+```
+
+## THE THIRTY-ONE WEEKDAY NAMES THIS BATCH WROTE, AND WHY THAT IS THE MOST IMPORTANT FINDING IN IT
+
+**THE FIRST DRAFT OF 743 WAS BUILT ON TUESDAY, WEDNESDAY AND THURSDAY, AND FOURTEEN MORE WEEKDAY NAMES WERE WRITTEN INTO THE OTHER NINE CHAPTERS. `outline/volume-15.md` §5a FIXES THAT VOLUME 15 NAMES NO DAY OF THE WEEK AT ALL, AND THE GATE CAUGHT THIRTY-ONE OF THEM.**
+
+The interesting thing is not the count. It is what fixing them produced. **A rota is four nights and three off, and the three off are what a person is, and the exchange at the centre of that chapter cannot be conducted in days of the week at all — because this city has thirty days a month and no thirty-first and a man in a branch office writes the date and not the day.** So she cannot ask him what he does on a day, because there are no days; she can only ask him what he does with the other three of seven, and he can only answer *the first of the three*, *the second of them*, *the third of them*, and that is a worse and truer answer than Tuesday and it is the chapter's argument in its own mouth. The chapter is 3,752 words of prose after the repair and was 3,682 before it.
+
+## THE INHERITED RAIL-COUNT OFF-BY-ONE, NAMED A THIRD TIME AND STILL NOT REPAIRED
+
+`chapter-0729.md` and `chapter-0730.md` print the rail count one higher than the rule `day - 2,669`. Every foot of 731–740 and every foot of 741–750 conforms. **This is the third pass to name it and the third not to touch it, because 721–730 are finished and gated and a repair pass that reaches outside its own batch is the thing this repository's own inherited failures are made of. IT IS OWNED BY WHOSEVER NEXT PASS IS GIVEN 721–730 OR IS PERMITTED TO REOPEN THEM.**
+
+## AND ONE FIGURE ON THE RECORD THAT DOES NOT RE-DERIVE
+
+**`state/continuity.md` AND `state/current.md` RECORD 40 PARSED FOOTER INTERVALS FOR 721–730. A READER PROVED ON THAT SET RETURNS 30 PARSED, 0 MISMATCHES AND 0 UNPARSED, BECAUSE THOSE TEN FILES CARRY THREE FOOTER BLOCKS IN EACH OF THEM AND THIS READER TAKES ONE PER BLOCK.** All thirty are correct. The forty is not re-derivable by a reader that counts blocks, and it is recorded here as a discrepancy and not adopted. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS ONE WAS WRONG IN THE RECORD BEFORE IT WAS WRONG ANYWHERE ON THE PAGE.**
+
+## AND THE READER, WHICH WAS WRONG NINE TIMES BEFORE IT WAS RIGHT
+
+**A SCANNER THAT RETURNS ZERO ON A BOOK THAT HAS HITS IN IT IS BROKEN, NOT CLEAN, AND IT WAS PROVED ON 741–750 AND ON 721–730 AND ON 0564 AND ON 0700 BEFORE IT WAS TRUSTED.** It could not cross a comma; it read `the D of the M year` for the house's `the D of M of the Y year`; it was case sensitive and `March` did not match; its character class excluded the hyphen and `twenty-first` did not match; it stripped hyphens and then compared against hyphenated keys so every hyphenated number read as absent; it knew no ordinals at all; it hardcoded year eight and so read every anchor of the seventh year a year late; it took only the first token after `hundred` and read *twenty nine* as 20; and its number table stopped at thirty, so *thirty-six* and *fifty* and *seventy* came back as nothing. **And the ninth failure was the worst one and it was mine: it took the batch's last day for every chapter's own day, and so reported sixteen mismatches on a book in which all twenty-seven figures are correct.** Nine failures, and every one of them was a defect in the reader and not one in the prose.
+
+## THE ONE NEXT PHASE
+
+**`workspace/volume-15/volume-close/PROMPT.md`.** It is an audit-then-record phase and it writes no chapters. **741–750 closed Volume 15 in prose, so a batch prompt is not a phase, and there is no `outline/volume-16.md` and no Chapter 751 and none may be drafted by it.** `state/complete.md` is not this pass's to create and not that phase's to create either.
+
 # VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK, **20,845 WORDS RAW AND 20,454 WORDS OF PROSE, BOTH COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT FOUR, *THE NAME*. `outline/ending.md` IS UNTOUCHED. **NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. SIX CONCRETE DEFECTS FOUND BY THE REVIEW WERE FIXED IN THE CHAPTERS, THE WORD-COUNT BASIS WAS LABELLED AND THE BAND ROW RE-STATED ON IT, AND THE ONE NEXT PHASE WAS MOVED TO A PATH THE RUNNER CAN SEE. THE PLOT, THE MOVEMENT, THE SCENE AT 733, THE IRREVERSIBLE DECISION AT 739, THE BLANK FIELD AT 740 AND EVERY REFUSAL ARE UNCHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 731–740 AND DELETES NONE OF THEM.**
 
 ## THE SIX DEFECTS, AND WHAT WAS DONE TO EACH
