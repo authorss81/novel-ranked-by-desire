@@ -1,3 +1,22 @@
+# VOLUME 14 BATCH 0001 WRITTEN — CHAPTERS 651–660 ARE ON DISK, 14 OCTOBER 2026
+
+## Batch 0001 written: 651–660, 12,755 words counted per file and summed. Movement one, COPIED, against the page.
+
+| Ch | Words | What the page did |
+| --- | --- | --- |
+| 651 | 1,679 | The First Exact Figure. Copy with date and place comes through the door. Office exactly 72 months, once, with operands. Drawer open empty. |
+| 652 | 1,184 | A Counter Under A Window. Counterman spends one question on how many, on purpose. Sentence paraphrased, not quoted. |
+| 653 | 2,222 | Two Books Four Feet Apart. SCENE, Beatrix Halm. Two readings, never laid side by side. She writes ninety-one a quarter. Both get what they asked in forty minutes; costs her the number. |
+| 654 | 1,228 | A Clerk May Only Enter. Nine-word sentence refused as not-a-claim. Drawer still empty. Oldest sentence becomes fact about building. |
+| 655 | 1,224 | The Spike With Nine Hundred On It. Form 61 days on spike, shutter 109 bare. Wall rate once with reason. Boxes blank, said once. |
+| 656 | 1,045 | A Woman With A Charcoal. Perla Quist, about fifty, not the corner woman. First writing is number of months. Eleven corrected to nine. |
+| 657 | 961 | About Nine Houses. No instrument for counting. Boy refuses, referenced not restaged. Brack wants a page and does not ask. |
+| 658 | 1,034 | The Sentence She Cites. Ines cites verbatim once in volume, in full, in her mouth. He cannot answer. Not a scene. |
+| 659 | 963 | Paper Costs Money. Ninety copies need ninety pieces. Anger at institution for being right. Figure against counter, no name. |
+| 660 | 1,215 | The Twenty-Fifth Sheet. QUARTER-END. Sheet out at four, head 852 across nine, second column two lines. IRREVERSIBLE: he asks office to hold about ninety pieces in drawer empty since fourth of February year one. Closes standing as place where nothing given. Costs the sentence. |
+
+**BANK 1,679 + 1,184 + 2,222 + 1,228 + 1,224 + 1,045 + 961 + 1,034 + 963 + 1,215 = 12,755. Nine below 1,800 floor with reason recorded in state/current.md; 653 inside on scene rules with measurement below. Spine 2,160–2,219 monotonic 0 violations; 2,219 − 2,160 = 59 and 7+7+6+7+6+7+6+7+6 = 59.**
+
 # VOLUME 14 IS PLANNED AND NONE OF IT IS ON DISK
 
 ## Volume 14 — *THE COPY*, chapters 651–700. THE FIRST OF FEBRUARY TO THE THIRTYTH OF DECEMBER, YEAR SEVEN. **PLAN. WRITTEN 14 OCTOBER 2026 BY A PHASE THAT WROTE NO PROSE. NO CHAPTER OF 651–700 EXISTS. `outline/volume-14.md` CARRIES THE SENTENCE, THE SPINE, THE SCENE SCHEDULE, THE GATES AND THE TITLE BANK; `outline/batches/volume-14-batch-0001.md` CARRIES THE TEN CARDS FOR 651–660. `workspace/volume-14/batch-0001/PROMPT.md` IS THE ONE NEXT PHASE AND IT IS A WRITING PHASE. `outline/ending.md` IS UNTOUCHED AND `state/complete.md` IS NOT CREATED. WHEN A BATCH IS WRITTEN IT ADDS ITS TEN ROWS BELOW THIS ONE AND REWRITES THIS BLOCK AGAINST THE PAGE.**

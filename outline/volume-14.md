@@ -375,7 +375,7 @@ VOLUME 14      301 inside the five batches, plus a seam of 31 and four seams of 
 
 ---
 
-### Movement one — COPIED (651–660). 1 February – 30 March, year seven. Spine days 2,160 – 2,219. **PLAN.**
+### Movement one — COPIED (651–660). 1 February – 30 March, year seven. Spine days 2,160 – 2,219. **WRITTEN 14 OCTOBER 2026, TEN FILES ON DISK, AGAINST THE PAGE.**
 
 **Promise:** a copy of the foot of the most widely read page in Ostara comes through the front door of an office with no door onto a street, with something written in the two inches under his own striking, and nobody can find out who wrote it.
 
@@ -394,7 +394,7 @@ VOLUME 14      301 inside the five batches, plus a seam of 31 and four seams of 
 | **659** | 24 Mar, y7 | 2,213 · +7 | **PAPER COSTS MONEY.** About ninety copies need about ninety pieces of paper and a broker prices paper. **Cold anger at an institution for being right**, which is the last thing he expected from this book, and the entry in the second of her own books that has been open since the sixteenth of September and cannot be closed. |
 | **660** | 30 Mar, y7 | 2,219 · +6 · **QUARTER-END, twenty-fifth sheet** | **THE TWENTY-FIFTH SHEET GOES OUT AT FOUR.** Eight hundred and fifty-two at the head unmoved across nine sheets; about four hundred and nineteen lines; two lines in the second column; four sentences at the foot and six lines under those with the fourth struck, a name under it and two inches of nothing. **THE BATCH'S IRREVERSIBLE DECISION, AND IT IS HIS. HE ASKS THE OFFICE TO HOLD THEM.** Not to enter them. To hold them. **WHAT IT CLOSES: the office's standing as a place where nothing is given.** **WHAT IT COSTS: the second sentence at the foot of the most widely read page in the city — *where the Register has nothing, it has not been given anything* — now describes the office, and about nine people a week read it, and about four hundred people now know exactly what to bring and where.** |
 
-**THE FIGURES THE MOVEMENT OWES, PRINTED ONCE EACH WITH OPERANDS, AND WHERE THEY ARE:** the office's months at **651** (`2,160 = 30 × 72 + 0`) · the wall's headcount at **655** · the lane's mornings are **not** printed in this movement.
+**THE FIGURES THE MOVEMENT OWED, PRINTED ONCE EACH WITH OPERANDS, AND WHERE THEY ARE:** the office's months at **651** (`2,160 = 30 × 72 + 0`) · the wall's headcount at **655**, once, with its reason that it is an ordinary morning of an ordinary month and the trams go under it · the lane's mornings are **not** printed in this movement, owed at 670 as `2,289 − (−118) + 1 = 2,408`. **§5c NEEDS NO CORRECTION: all ten dates and the 7 7 6 7 6 7 6 7 6 = 59 row re-derive against the page; seam 2,160 − 2,129 = 31 holds.**
 
 ---
 
