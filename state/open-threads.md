@@ -81,24 +81,43 @@ SYSTEM PANELS   **0 IN TEN.** Volume 13's budget is five and **none is spent.** 
                  volume 12 either.
 DUPLICATION      12-gram FIRST against all 610 files, body-only (headings and italic footers
                  stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
-                 **INSIDE 601-610: the longest contiguous run between any two of the ten files
+**INSIDE 601-610: the longest contiguous run between any two of the ten files
                  is ELEVEN WORDS. 0 RUNS OF TWELVE.**
-                 **AGAINST THE OTHER 600 FILES, THREE 12-GRAM CLASSES SURVIVE AND ALL THREE ARE
-                 CLASSIFIED.**
-                   (a) 606 vs 552, 556, 597 — *a man who has said that does not get to arrive at
-                       a yard and tell a yard what to do with a board*. A character restating his
-                       own refusal, in the yard where he made it, in the chapter where it binds
-                       him. A man quoting himself is not duplication.
-                   (b) 606 vs 595, 596 — *a figure in Ostara may be a figure somebody made up on
-                       purpose*. THE PRINTED INSTRUMENT. It stands verbatim in 595 as a hand
-                       writing a document, in 596 as a clerk reading it back four days later, and
-                       in 606 as a checker in a yard reading it off a public page because the
-                       whole of his argument is that the two sentences stand four inches apart.
-                       **IT IS THE ONLY VERBATIM PRINTING OF IT IN THIS BATCH** — 602, 604 and
-                       609 refer to it without the words, and that was a repair this pass made
-                       to its own first draft, which had it four times.
-                   (c) 610 vs 0270, 0569 — *a month is thirty days and has no thirty first*. The
-                       calendar rule, printed across the book.
+                 **AGAINST THE OTHER 600 FILES, THIRTY-THREE 12-GRAM CLASSES SURVIVE ACROSS SIX OF
+                 THE TEN FILES — 601 EIGHT, 602 FOUR, 603 FOUR, 604 FOUR, 605 NINE, 606 THREE, 610
+                 ONE, AND NOTHING IN 607, 608 OR 609. THE EARLIER FIGURE OF THREE FOR THIS ROW
+                 WAS WRONG BY AN ORDER OF MAGNITUDE, AND THE EARLIER CLASS (a) ALSO QUOTED TEXT
+                 THAT IS NOT ON THE PAGE. ALL THIRTY-THREE ARE CLASSIFIED IN `state/current.md` §0a.**
+                    (a) 601 vs 588 (29, 21, 17 words, all one sentence) — the address at the head of
+                        every line, and the room it finds. THE ROOM DESCRIBED FROM ITS OWN CANON
+                        DESCRIPTION, with 601's own clause in front of it and its own after.
+                    (b) 602 vs 0540 and 604 vs 0600 — *the register has nothing it has not been
+                        given anything*. THE HOUSE RULE, in the form the volume argues it in.
+                    (c) 605 vs 0549 (51 words) — Nadia Ferrous made to say her own account of the
+                        lift shaft twice. SELF-QUOTATION INSIDE DIALOGUE, QUOTED ON PURPOSE.
+                    (d) 606 vs 597 (27 words) — *would not come up that hill and say one word about
+                        a board*. CANON WORDING, AND CANON ALREADY CARRIES IT THREE TIMES AT 564,
+                        567 AND 597. **THE LIFT CAME WITH A FACT THAT WAS WRONG: 606 PLACED THE
+                        REFUSAL IN A ROOM WITH TWO CHAIRS IN IT AND ALL THREE CANON PLACEMENTS PUT
+                        IT ON A STREET. REPAIRED IN THE PROSE.**
+                    (e) 606 vs 595, 596 — *a figure in Ostara may be a figure somebody made up on
+                        purpose*. THE PRINTED INSTRUMENT. It stands verbatim in 595 as a hand
+                        writing a document, in 596 as a clerk reading it back four days later, and
+                        in 606 as a checker in a yard reading it off a public page because the
+                        whole of his argument is that the two sentences stand four inches apart.
+                        **IT IS THE ONLY VERBATIM PRINTING OF IT IN THIS BATCH** — 602, 604 and
+                        609 refer to it without the words, and that was a repair this pass made
+                        to its own first draft, which had it four times.
+                    (f) 610 vs 0270, 0569 — *a month is thirty days and has no thirty first*. The
+                        calendar rule, printed across the book.
+                    (g) the remaining twenty-one classes, all thirteen words or shorter, across
+                        601 against 0600 and 0545, 603 against 0594, 604 against 0559 and 0456, and
+                        a clerk's-formula class in 602, 603 and 604 that carries no source at all
+                        beyond the twelve-word floor.
+                  **TWO OF THESE WERE PROSE AND WERE REWRITTEN AFTER THE REVIEW: the 41-word lift
+                  of `chapter-0552.md:15` out of `605.md:17`, and the 27-word lift at (d), which
+                  changed a fact. THE 0605 CLASS COUNT FELL FROM TWELVE TO NINE WHEN THE FIRST WAS
+                  REWRITTEN.**
                  **THE 34-WORD LIFT OF THE VANT'S BOOK-HANDLING RULE OUT OF `chapter-0525.md`
                  AND THE 20-WORD LIFT OF THE ENTRY'S DESCRIPTION OUT OF `chapter-0474.md` WERE
                  BOTH FOUND BY THIS SCAN AT 607 AND BOTH WERE REWRITTEN. THE SEVEN 12-GRAM
@@ -108,10 +127,14 @@ DUPLICATION      12-gram FIRST against all 610 files, body-only (headings and it
                  witness axis in 603 carries and why 610's restaging of 587 and 588 is in his
                  own sentences.
 SCENES           ONE IN TEN, AT 603. MEASURED THREE WAYS FROM `##` TO `##` ON DISK WITH EVERY
-                 LINE SPAN BESIDE EVERY CELL: 3,106 exclusive of both `##` lines (32–236) ·
-                 3,118 inclusive (31–237) · 3,752 exclusive through to end of file (32–273) ·
-                 3,643 to the last prose line (32–267) · **4,188 whole (1–273)**. Six `##`
+                 LINE SPAN BESIDE EVERY CELL: 3,093 exclusive of both `##` lines (32–236) ·
+                 3,105 inclusive (31–237) · 3,739 exclusive through to end of file (32–273) ·
+                 3,630 to the last prose line (32–267) · **4,188 whole (1–273)**. Six `##`
                  headings, at 31, 83, 119, 151, 177 and 237, and 273 newline-terminated lines.
+                 **THE FIRST FOUR FIGURES IN THIS ROW WERE WRONG BY A CONSTANT 13 AND ARE
+                 CORRECTED HERE AND IN `state/current.md`; THE SPANS WERE RIGHT AND THE
+                 FIGURES WERE NOT. RE-CUT FROM THE FILE AFTER THE REPAIR, BY `wc -w` AND BY
+                 WHITESPACE SPLIT, WHICH AGREE.**
                  Set B at word boundary: **603 -> 4**, all nine other files -> 0.
                  603 - 594 = 9. 603 - 36 = 567 — REPORTED AND NOT CERTIFIED.
                  NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANCE

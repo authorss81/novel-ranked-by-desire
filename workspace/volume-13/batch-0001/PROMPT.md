@@ -45,7 +45,7 @@ day of month d = (y - 1) x 360 + offset[month] + (d - 1)
 offsets  Feb 0 · Mar 30 · Apr 60 · May 90 · Jun 120 · Jul 150 · Aug 180 ·
          Sep 210 · Oct 240 · Nov 270 · Dec 300
 Volume 13 has no chapter in a January. 601 is 4 January of the January that
-ends year five: 3 x 360 + 330 + 3 = 1,080 + 333 = 1,773.
+ends year five: 4 x 360 + 330 + 3 = 1,440 + 333 = 1,773.
 ```
 
 **THE INTERVALS THIS BATCH OWES, WITH THEIR OPERANDS. YOU PRINT THE OPERANDS ON THE PAGE, IN THE ITALIC FOOTER, IN PLAIN WORDS:**
@@ -68,7 +68,7 @@ ends year five: 3 x 360 + 330 + 3 = 1,080 + 333 = 1,773.
 **THE OTHER FIGURES THIS BATCH MAY TOUCH, AND WHERE EACH ONE IS ALLOWED TO APPEAR:**
 
 - **THE OFFICE'S AGE.** `1,773 = 30 × 59 + 3` — fifty-nine months and three days. Printed **once**, with operands, in 601 or 602 and nowhere else in the batch.
-- **THE LANE.** The first morning was the third of October of the year before the first, which is day −118. `1,773 − (−118) + 1 = 1,892` mornings. Printed **once**, with operands, in 609 and nowhere else in the batch.
+- **THE LANE.** The first morning was the third of October of the year before the first, which is day −118. `1,827 − (−118) + 1 = 1,946` mornings, counted to 609, which is the chapter that prints it. Printed **once**, with operands, in 609 and nowhere else in the batch.
 - **THE WALL.** **About nine thousand people go under it in a day, and the reason is that it is an ordinary morning of an ordinary month and the trams go under it.** That rate is on the page more than once — `chapter-0521.md:27`, `chapter-0526.md:109`, `chapter-0545.md:23`, `chapter-0548.md:47` — and the scene that gives the reason is `chapter-0489.md:21`, at about a quarter past nine on the fourth of October. **TWO FIGURES ARE NOT THAT RATE AND ARE NOT USED AS IT.** `chapter-0545.md:87` is Beatrix Halm's *about four hundred people go under this wall in a day*, said in the same chapter that says nine thousand at `:23`, and no page reconciles the two. `chapter-0500.md:35` is *about four hundred people have gone past him doing it* — **a total since the first of January, not a rate** — and it is reserved by `PC-117` and printed with its anchor at 501 and 505. **Neither four hundred is printed, derived or mentioned in this batch.**
 - **THE SHEET.** Eight hundred and fifty-two, unmoved since the thirtieth of March of the fifth year. About four hundred and nineteen of the lines are accounts with an hour against each and no figure on any of them. **The second column has two lines.** **841 and 419 are two numbers and may not be merged.**
 - **THE FOUR LINES**, quoted at most once in the batch and not re-explained after it.

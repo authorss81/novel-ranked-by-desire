@@ -14,7 +14,7 @@ The boy with the paste brush had the month’s form on a board by the kerb waiti
 
 There were two ruled boxes at the foot of it. The left one is for the figure of the thing at the address and the right one is for the standing of it.
 
-Neither of them has had anything in it since the morning of the eighth of October of year one, when a clerk was handed a sheet and a form and no instruction, and typed two words into one of them because the box was there and the words were there, and a boy painted what was in the box.
+They have both stood empty since the morning of the eighth of October, when a clerk was handed a sheet and a form and told nothing, and typed two words into one of them because there was a box in front of her and two words to go in it, and a boy with a paste brush painted whatever was in it.
 
 He looked at the two boxes for about a minute and a half.
 

@@ -22,7 +22,7 @@ He was not reading. He had a cup of something and a ledger of his own with about
 
 “That is the other half of it,” said the man at the desk, “and you have not said it to me in four years.”
 
-“I have been in a building with no door onto a street since the first of February of year one,” Lin Hao said. “You know that better than anybody in this city. You put it in a book of your own in your second year and you have never shown it to anybody.”
+“I have been in a building with no door onto a street since the first of February,” Lin Hao said. “You know that better than anybody in this city. You put it in a book of your own in your second year and you have never shown it to anybody.”
 
 The man at the desk put his cup down.
 

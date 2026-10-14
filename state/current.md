@@ -1,4 +1,63 @@
-# VOLUME 13 BATCH 0001 IS ON DISK. CHAPTERS 601–610 ARE WRITTEN PROSE. **TEN FINISHED FILES, 23,160 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT ONE, *PROVED*. FOUR DAYS AFTER THE TWENTIETH SHEET A DEMAND WITH FOUR LINES ON IT CAME BACK TO AN OFFICE WITH NO DOOR ONTO A STREET, AND ON THE BACK OF IT THERE ARE TWO WORDS. THE SCENE IS AT 603 AND IT IS RUNA SATO'S, 567 CHAPTERS AFTER HER LAST ONE AND NINE CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 610 AND IT IS HIS: HE GOES UP TWO FLIGHTS HE HAS REFUSED TWICE, AT TEN PAST TEN IN THE MORNING, ALONE, AND THERE IS NOBODY AT THE TOP OF THEM AND HE DOES NOT KNOCK. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0003, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0002/PROMPT.md`, CHAPTERS 611–620, MOVEMENT TWO, *ASKED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# THE SIX FINDINGS OF `logs/batch-0001.review.log`, AND WHAT THIS REPAIR DID TO EACH. **THE CHAPTERS WERE NOT RESTARTED. NO PLOT MOVED, NO DATE MOVED, NO CHAPTER WAS ADDED OR REMOVED, AND `outline/ending.md` IS UNTOUCHED. TWO CHAPTERS WERE REWRITTED IN PART — 605 AND 606 — AND SIX LINES ACROSS FOUR CHAPTERS WERE TOUCHED, NINE IN ALL. EVERY FINDING WAS RE-DERIVED INDEPENDENTLY BEFORE ANYTHING WAS CHANGED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0r. THE SIX FINDINGS
+
+**THE FAILURE WAS NOT THE PROSE. IT WAS THE RECORDING OF THE PROSE.** The chapters passed almost everything the review could throw at them. What came apart was `state/current.md` asserting measurements that the files contradict — which is the exact failure mode this volume installs as its governing rule, and which the review found in the files that write the rule. Three of the six are that shape. **OF THE SIX, TWO ARE REPAIRED IN THE FICTION, THREE IN THE STATE, ONE IN A PHASE PROMPT.**
+
+**F1 — PROSE NAMED A YEAR IN SIX PLACES AND THE STATE SAID IT NAMED NONE. REPAIRED IN THE PROSE, NOT IN THE GATE.** `current.md` claimed *no chapter of 601–610 names a year in its prose at all*, and six lines said **year one**: `0601:7`, `0601:97`, `0602:33`, `0602:79`, `0605:17`, `0610:25`. **THE GATE WAS RIGHT AND THE PROSE WAS WRONG.** PROMPT §6 says *no year numeral — write the date*, and `state/open-threads.md` carries *a year numeral in the prose* as a standing prohibition. Weakening a standing prohibition to match six offending lines would close an option the volume installed, so the six lines were rewritten in the house form of `chapter-0574.md:125` — *you have been counting since the fourth of February* — **with the month and the day left exactly where they were.** `chapter-0602.md:123` and `chapter-0605.md:115` are italic footers and keep their year, because a footer is a date. **NOW: `year (one|two|…|ten)` over the ten files returns six hits and all six are footers. PROSE, ZERO.** The one relative-year phrase left, *in your second year* at `0610:25`, is a duration and not a date, and Volume 12 carries the same form at 566, 576 and 588. **THIS REPAIR MAKES THREE EXISTING STATEMENTS TRUE THAT WERE FALSE — `outline/batches/volume-13-batch-0001.md` §0b item 3, this file's §0b item 3, AND the standing instruction at `workspace/volume-13/batch-0002/PROMPT.md:138` that says *batch 0001 went further and named no year in its prose at all; hold that*. NONE OF THE THREE NEEDED EDITING.**
+
+**F2 — THE 603 SCENE TABLE WAS WRONG BY A CONSTANT THIRTEEN IN FOUR OF FIVE CELLS.** The spans were right; the figures were not. **RECORDED → ACTUAL: 3,106 → 3,093 · 3,118 → 3,105 · 3,752 → 3,739 · 3,643 → 3,630. Whole file 4,188 was and is correct.** The two methods did agree with each other — and both disagreed with the table, which is the second sentence of that row failing: the gate quoted itself instead of re-deriving. **CORRECTED IN `state/current.md` §0a AND IN `state/open-threads.md`, WHICH CARRIED THE SAME FOUR WRONG FIGURES IN ITS SCENES ROW.** Re-cut from disk by `wc -w` and by whitespace split; the two agree.
+
+**F3 — THE DUPLICATION ROW UNDER-REPORTED BY AN ORDER OF MAGNITUDE AND QUOTED TEXT THAT IS NOT ON THE PAGE.** The row claimed *three 12-gram classes survive*. **THIRTY-THREE SURVIVE, ACROSS SIX OF THE TEN FILES: 601 eight · 602 four · 603 four · 604 four · 605 nine · 606 three · 610 one · 607, 608 AND 609 NOTHING AT ALL.** The row also quoted class (a) as *does not get to arrive at a yard and tell a yard what to do with a board*; **the page says *explain his own footnotes*.** All thirty-three are now classified, longest first, and the row no longer claims a count it did not take. Two of the classes were prose rather than register and were rewritten: the 41-word carry of `chapter-0552.md:15` out of `0605.md:17`, and the 27-word lift at `0606.md:7` that is F4. **THE CLAIM THAT WAS RIGHT IS STILL RIGHT AND WAS RE-RUN: the longest run inside the batch is ELEVEN words, `0602` against `0606`, and there are 0 runs of twelve.**
+
+**F4 — `0606.md:7` PUT THE REFUSAL IN THE WRONG PLACE, AND IT IS A CANON BREAK.** The line read *he had said in a room with two chairs in it that he would not come up that hill*. **Canon puts it on a street, three separate times — `0564.md:29`, `0567.md:11`, `0597.md:17`.** The 27-word run lifted from 597 came with its location phrase swapped, which is how the contradiction entered. **REPAIRED TO *he had said it out loud on a street that he would not come up that hill*, and the wording of the refusal itself is left as canon has it three times.** The consequence clause, *does not get to arrive at a yard and explain his own footnotes*, is his own and is correct. `state/current.md` §0z and `state/chapter-summaries.md`'s 606 row both repeated the false placement and are corrected.
+
+**F5 — THE PHASE PROMPT ITSELF CONTAINED TWO FALSE SUMS.** **THE CHAPTERS WERE RIGHT AND THE PROMPT WAS WRONG.** `workspace/volume-13/batch-0001/PROMPT.md:48` read *3 x 360 + 330 + 3 = 1,080 + 333 = 1,773*; 1,080 + 333 is 1,413, and the correct operand is **4 x 360 = 1,440**. Line 71 gave the lane as *1,773 − (−118) + 1 = 1,892* while placing the print at 609, which is day 1,827, where **1,946** is correct — **609 silently corrected the prompt on the page and the prompt was never corrected on disk.** Both are now right. **A WRONG OPERAND IN A PROMPT IS THE WORST KIND OF ERROR IN THIS REPOSITORY, BECAUSE EVERY CHAPTER THAT FOLLOWS IT AND FAILS TO CATCH IT INHERITS IT.**
+
+**F6 — ONE REPETITION-BUDGET FINDING, AND IT WAS ADDRESSED.** `there is no form` ran nine times across the batch, six of them inside 601 — *AGENTS.md* calls that construction dead by the tenth, and Volume 12 carries it at twenty-nine across fifty files, so the density was worse than the house register. **Two were rewritten and the batch now runs seven, with no chapter above three:** the clause at `0601:105` became *there is no instrument on which a person may be named in something* — *instrument* is already Adeyemi's word in that same page at `:117` — and the closing clause at `0601:129` became *and nothing in this city says so either*. **THE THREE THAT REMAIN IN 601 ARE THE CHAPTER'S SPINE: his short line, Adeyemi's expansion of it, and Wenna reading the sentence off the sheet back to him.**
+
+## 0s. THE GATE, RE-RUN IN FULL AFTER THE REPAIR, BY COMMAND
+
+```
+BANK             601 1,925 | 602 2,026 | 603 4,188 | 604 2,279 | 605 2,017 | 606 2,314 |
+                 607 1,934 | 608 1,946 | 609 1,987 | 610 2,529.  TOTAL 23,145. MEAN 2,314.5.
+                 Nine chapters in the 1,800-2,700 band. 603 out at 4,188 with the reason
+                 already recorded, which §5 permits.
+PARAGRAPHS       0 over roughly ninety words. 0 over one hundred and twenty. 639 prose
+                 paragraphs, unchanged, because no paragraph was added or removed.
+SPANS            43 · 51 · 106 · 25 · 27 · 26 · 51 · 38 · 48 · 32 = 447. UNCHANGED.
+ARITHMETIC       SPINE 1,773-1,833 RE-DERIVED AGAIN BY TWO METHODS THAT SHARE NO CONSTANT:
+                 month offsets, and an absolute month index containing no 360 at all.
+                 10 OF 10 AGREE WITH EACH OTHER AND WITH THE PAGE. 0 MONOTONIC VIOLATIONS.
+                 ALL 12 DATE ANCHORS RE-DERIVE, 12 OF 12. The lane is 1,946.
+YEARS IN PROSE   0. Six hits for `year (one|…|ten)`, all six italic footers.
+                 THE WIDER SWEEP IS THE ONE TO RE-RUN, BECAUSE IT CATCHES THE PHRASES THE
+                 NARROW ONE CANNOT: every line in the ten files containing the word *year* was
+                 listed and read. **WHAT SURVIVES IN PROSE IS A DURATION — *about a year*, *four
+                 times a year*, *a year of rent*, *in a year* — OR A RELATIVE YEAR THAT NAMES NO
+                 CALENDAR YEAR: *since the fourth year*, *the ninth year of being short*, *the
+                 third year*, *an earlier year*, *an early year*, *since the second year*, *in
+                 your second year*, and the generic *in any year of its existence*.** Volume 12
+                 carries the same relative form at 566, 576 and 588. **NOT ONE LINE OF PROSE
+                 NAMES A YEAR OF THE CALENDAR. The only two places the batch names one at all
+                 are `0602:123` and `0605:115`, and both are italic footers, which §6 permits
+                 because a footer is a date.** `0607:125` and `0607:127` are footers about a
+                 December in an early year and about a page this city does not print the year
+                 on, and both are on the right side of the rule.
+DUPLICATION      33 cross-book 12-gram classes, all classified. Longest inside the batch 11.
+FILES / TITLES   10 files, one `# ` each, all end 0a, 0 duplicate titles across all 610.
+MARKDOWN         Blockquotes 0 · tables 0 · rules 0 · fences 0 · bold 0 · asterisks even.
+                 Straight double quotes 0 and straight apostrophes 0 across the batch.
+META · WEEKDAYS · AGES · ACCOUNT · RT   all 0, as before. `settl` 0 in every inflection.
+SYSTEM PANELS    0, against a budget of 5.
+SCENE 603        Unchanged by this repair and re-checked: no clock, no kettle, no chart, no arm
+                 turned up; no compulsion, sedation, exhaustion, toxin, restraint, psychic
+                 contact, trance or seal; no violence; both adults.
+```
+
+**THE PLOT IS EXACTLY WHERE IT WAS.** The demand with four lines and *is there* in pencil, the three refusals, the scene at 603, the wall at 608, Brack asking for nothing at 609, and the two flights at 610 with nobody on the landing are all where they were, in the same chapters, on the same days. **THE REPAIR TOOK FIFTEEN WORDS OUT OF THE BATCH AND PUT NO WORD IN ITS PLACE THAT CARRIES A NEW FACT.**
+
+# VOLUME 13 BATCH 0001 IS ON DISK AND HAS BEEN REPAIRED AGAINST ITS REVIEW. CHAPTERS 601–610 ARE WRITTEN PROSE. **TEN FINISHED FILES, 23,145 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT ONE, *PROVED*. FOUR DAYS AFTER THE TWENTIETH SHEET A DEMAND WITH FOUR LINES ON IT CAME BACK TO AN OFFICE WITH NO DOOR ONTO A STREET, AND ON THE BACK OF IT THERE ARE TWO WORDS. THE SCENE IS AT 603 AND IT IS RUNA SATO'S, 567 CHAPTERS AFTER HER LAST ONE AND NINE CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 610 AND IT IS HIS: HE GOES UP TWO FLIGHTS HE HAS REFUSED TWICE, AT TEN PAST TEN IN THE MORNING, ALONE, AND THERE IS NOBODY AT THE TOP OF THEM AND HE DOES NOT KNOCK. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0003, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0002/PROMPT.md`, CHAPTERS 611–620, MOVEMENT TWO, *ASKED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
 
@@ -23,9 +82,10 @@ TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS
                  608 A Form From The Department Of Works · 609 Brack Asks For Nothing ·
                  610 Two Flights And A Landing.
 BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
-                 601 1,932 | 602 2,032 | 603 4,188 | 604 2,279 | 605 2,014 | 606 2,316 |
-                 607 1,934 | 608 1,946 | 609 1,987 | 610 2,532.
-                 TOTAL 23,160. MEAN 2,316.0.
+                 601 1,925 | 602 2,026 | 603 4,188 | 604 2,279 | 605 2,017 | 606 2,314 |
+                 607 1,934 | 608 1,946 | 609 1,987 | 610 2,529.
+                 TOTAL 23,145. MEAN 2,314.5. **RE-COUNTED AFTER THE REPAIR PASS; THE FIGURES
+                 ABOVE THE REPAIR WERE 23,160 AND EVERY CHAPTER IS STILL IN BAND.**
                  *** ONE CHAPTER OUTSIDE THE 1,800-2,700 BAND: 603 AT 4,188. REASON: IT IS THE
                  SCENE, IT CARRIES THE BATCH'S LARGEST STRUCTURAL DEBT (567 CHAPTERS SINCE
                  RUNA SATO'S LAST SCENE, THE LARGEST IN THIS BOOK), AND IT OWES A FULL WITNESS
@@ -110,22 +170,57 @@ MARKDOWN        Blockquotes 0. Tables 0. Horizontal rules 0. Fences 0. Bold 0. A
 DUPLICATION     12-gram FIRST against all 610 files, body-only (headings and italic footers
                  stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
                  **INSIDE 601-610: the longest contiguous run between any two of the ten files
-                 is ELEVEN words. 0 runs of twelve.**
-                 **AGAINST THE OTHER 600 FILES, THREE 12-GRAM CLASSES SURVIVE AND ALL THREE
-                 ARE CLASSIFIED, NOT COUNTED.** (a) `chapter-0606.md` against 552, 556 and 597:
-                 *a man who has said that does not get to arrive at a yard and tell a yard what
-                 to do with a board* — a character restating his own refusal, in the yard where
-                 he made it, in the chapter where it binds him. A man quoting himself is not
-                 duplication. (b) `chapter-0606.md` against 595 and 596: *a figure in Ostara may
-                 be a figure somebody made up on purpose* — **the printed instrument**, standing
-                 verbatim in 595 as a hand writing a document, in 596 as a clerk reading it back
-                 four days later, and in 606 as a checker in a yard reading it off a public page
-                 because the whole of his argument is that the two sentences stand four inches
-                 apart. Three readers of one printed sentence is a printed instrument and not a
-                 borrowed body, and **it is the only verbatim printing of it in this batch** —
-                 602, 604 and 609 refer to it without the words. (c) `chapter-0610.md` against
-                 0270 and 0569: *a month is thirty days and has no thirty first* — the calendar
-                 rule, printed across the book.
+                 is ELEVEN words (`0602` against `0606`, *where the register has nothing it has
+                 not been given anything*). 0 runs of twelve.**
+                 **AGAINST THE OTHER 600 FILES, THIRTY-THREE 12-GRAM CLASSES SURVIVE ACROSS SIX OF
+                 THE TEN FILES — 0601 EIGHT, 0602 FOUR, 0603 FOUR, 0604 FOUR, 0605 NINE, 0606
+                 THREE, 0610 ONE, AND NOTHING AT ALL IN 0607, 0608 OR 0609. AN EARLIER FIGURE OF
+                 THREE FOR THIS ROW WAS WRONG BY AN ORDER OF MAGNITUDE AND IS REPLACED; THE FIRST
+                 TABLE ALSO QUOTED TEXT THAT IS NOT ON THE PAGE.** All thirty-three are classified
+                 below, and the two that were **prose** rather than register were rewritten.
+
+                 **(a) THE PRINTED INSTRUMENT — 0606 against 595, 596, 597 (13 words) and 0610
+                 against 0270 and 0569 (14 words).** *a figure in Ostara may be a figure somebody
+                 made up on purpose* — **the printed instrument**, standing verbatim in 595 as a
+                 hand writing a document, in 596 as a clerk reading it back four days later, and
+                 in 606 as a checker in a yard reading it off a public page because the whole of
+                 his argument is that the two sentences stand four inches apart. Three readers of
+                 one printed sentence is a printed instrument and not a borrowed body, and **it is
+                 the only verbatim printing of it in this batch** — 602, 604 and 609 refer to it
+                 without the words. *a month is thirty days and has no thirty first* — the
+                 calendar rule, printed across the book.
+
+                 **(b) A MAN QUOTING HIMSELF — 0606 against 0597 (27 words), and the remainder of
+                 that chapter's classes.** *that he would not come up that hill and say one word
+                 about a board and a man who has said that does not get to arrive*. **The refusal
+                 is canon wording and canon already carries it three times — 564:29, 567:11 and
+                 597:17 — so a fourth use is a man repeating himself and not a lifted sentence.
+                 THE LIFT ALSO BROUGHT A FACT WITH IT AND THAT WAS A REAL DEFECT: `0606.md:7` HAD
+                 THE REFUSAL MADE *in a room with two chairs in it*, WHICH IS NOT WHERE ANY OF
+                 THE THREE CANON PLACEMENTS PUT IT. REPAIRED IN THE PROSE TO *out loud on a
+                 street*, which is where 564, 567 and 597 all put it.**
+
+                 **(c) A SPEECH A WOMAN IS MADE TO SAY TWICE — 0605 against 0549 (51 words).**
+                 Nadia Ferrous quotes her own account of the lift shaft back at him, and the
+                 scene turns on her asking to hear it twice. Self-quotation inside dialogue, at
+                 the moment it is quoted on purpose.
+
+                 **(d) A ROOM DESCRIBED FROM ITS OWN CANON DESCRIPTION — 0601 against 0588 (29, 21
+                 and 17 words, all from one sentence of `chapter-0588.md:23`).** The address at
+                 the head of every line, and the room it finds. The object of the volume is
+                 described here the way 588 described it, and 0601 adds its own clause in front
+                 of it and its own after.
+
+                 **(e) HOUSE REGISTER — the remaining twenty-one classes, all thirteen words or
+                 shorter.** 0602 and 0604 against 0540 and 0600 on *the register has nothing it
+                 has not been given anything and a blank is not a claim that there was nothing*;
+                 0604 against 0559 and 0456; 0603 against 0594; 0601 against 0600 and 0545; 0606
+                 against 0595; and a first-of-the-month or clerk's-formula class in 0602, 0603
+                 and 0604 that carries no source at all beyond the twelve-word floor.
+
+                 **THE TWO THAT WERE PROSE, NOT REGISTER, AND ARE NOW REWRITTEN: the 41-word lift
+                 of `chapter-0552.md:15` out of `0605.md:17`, a near-whole-sentence carry of a
+                 form's history, and the 27-word lift above, which changed a fact.**
                  **THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE ANY BODY
                  WAS PLANNED AND IS THE REASON 603 PASSES:** the witness axis is carried by her
                  room's rule and named by nobody; there is no clock inside the scene and no hour
@@ -138,17 +233,17 @@ SCENES           ONE IN TEN, AT 603. MEASURED THREE WAYS FROM `##` TO `##` ON DI
                  LINE SPAN BESIDE EVERY CELL AND THE CLOSING BOUNDARY NAMED.
 ```
 
-**THE 603 SCENE TABLE, RE-DERIVED FROM THE FILE IN THIS COMMIT, NOT INHERITED. `chapter-0603.md` HAS SIX `##` HEADINGS, AT LINES 31, 83, 119, 151, 177 AND 237, AND 273 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## What A Tenth Line Is For` AND THE LAST IS `## The Return, In Order`, WITH NO `##` AFTER 237.**
+**THE 603 SCENE TABLE. `chapter-0603.md` HAS SIX `##` HEADINGS, AT LINES 31, 83, 119, 151, 177 AND 237, AND 273 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## What A Tenth Line Is For` AND THE LAST IS `## The Return, In Order`, WITH NO `##` AFTER 237. THE SPANS ARE CORRECT AND THE FIGURES WERE WRONG ONCE; THE FIVE CELLS BELOW WERE RE-CUT FROM THE FILE AFTER THE REPAIR PASS AND NOW RE-DERIVE.**
 
 | Definition, as `outline/volume-13.md` §4c names it | Line span in `chapter-0603.md` | 603 Runa Sato |
 | --- | --- | --- |
-| (1) first `##` to last `##`, **exclusive** of both heading lines | 32–236 | **3,106** |
-| (2) **single scene section, inclusive** — the same span with both heading lines counted | 31–237 | **3,118** |
-| (3) **exclusive** of both heading lines, carried through to end of file | 32–273 | **3,752** |
-| (3b) the same, stopping at the last prose line before the three italic footers | 32–267 | **3,643** |
+| (1) first `##` to last `##`, **exclusive** of both heading lines | 32–236 | **3,093** |
+| (2) **single scene section, inclusive** — the same span with both heading lines counted | 31–237 | **3,105** |
+| (3) **exclusive** of both heading lines, carried through to end of file | 32–273 | **3,739** |
+| (3b) the same, stopping at the last prose line before the three italic footers | 32–267 | **3,630** |
 | whole file | 1–273 | **4,188** |
 
-**THE COUNTING METHOD, STATED BECAUSE A TABLE THAT DOES NOT STATE IT CANNOT BE RE-RUN.** Each span is cut from the file on disk and counted with `wc -w`, and the same span is counted a second way in whitespace split by Python over the same lines; all five cells agree. **Set B, counted at WORD BOUNDARY and not by substring — the published method — returns 4 in `chapter-0603.md` and 0 in the other nine files.** 603 − 594 = 9, in band. 603 − 36 = 567, which is the largest structural debt in this book and which **no file in this repository may certify as in or out of the eight-to-fifteen band.** Both adults; he is rank one with a spent chest and no permission of any kind; no compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal is the mechanism; there is no violence in the chapter and none is turned into one; saying yes is fast and it is enjoyable to her and it is written as specific and real and not as reluctance.
+**THE COUNTING METHOD, STATED BECAUSE A TABLE THAT DOES NOT STATE IT CANNOT BE RE-RUN.** Each span is cut from the file on disk and counted with `wc -w`, and the same span is counted a second way in whitespace split by Python over the same lines. **THE TWO METHODS AGREE WITH EACH OTHER ON ALL FIVE CELLS. THEY BOTH DISAGREEED WITH THE FIRST TABLE BY A CONSTANT 13, AND THE TABLE WAS THE THING THAT WAS WRONG — SEE THE REPAIR BLOCK AT THE HEAD OF THIS FILE.** The five cells above were re-cut from the file after the repair and agree with both methods. **Set B, counted at WORD BOUNDARY and not by substring — the published method — returns 4 in `chapter-0603.md` and 0 in the other nine files.** 603 − 594 = 9, in band. 603 − 36 = 567, which is the largest structural debt in this book and which **no file in this repository may certify as in or out of the eight-to-fifteen band.** Both adults; he is rank one with a spent chest and no permission of any kind; no compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal is the mechanism; there is no violence in the chapter and none is turned into one; saying yes is fast and it is enjoyable to her and it is written as specific and real and not as reluctance.
 
 ## 0b. WHAT THE PAGE DID TO THE CARDS, AND THE CARD FILE AND THE OUTLINE ARE CORRECTED IN THE SAME COMMIT
 
@@ -156,7 +251,7 @@ SCENES           ONE IN TEN, AT 603. MEASURED THREE WAYS FROM `##` TO `##` ON DI
 
 1. **CARD 608 LICENSED A FIGURE THE PROMPT FORBIDS.** The card's required-facts row reads *about four hundred people have gone past it doing that since the first of January of year four — a total and not a rate, and this chapter does not divide it.* **NEITHER FOUR HUNDRED IS PRINTED IN THIS BATCH AT ALL.** `chapter-0500.md:35`'s four hundred is reserved by `PC-117` and `chapter-0545.md:87`'s is Beatrix Halm's four hundred a day in a chapter that says nine thousand at `:23`, and neither is used, derived or mentioned. 608 prints neither and the sentence about the white tile's maker stays shut because nobody looks at the tile.
 2. **THE WALL'S HEADCOUNT IS A TRAVELING FIGURE AND IS PRINTED ONCE.** `outline/volume-13.md` §5's list of figures printed once only includes *the wall's headcount*, and card 608's row read as a mandate. It is not. **It is printed once, at 605, with its reason, and not at 610**, where the same morning's trams are given without the number.
-3. **THE HOUSE DECISION ON YEARS.** The prompt permits *of year six* in an italic footer and forbids *year six* in the prose. **NO CHAPTER OF 601–610 NAMES A YEAR IN ITS PROSE AT ALL** — only a day and a month, or a date-relative phrase such as *since the thirtieth of March, which is two hundred and seventy-four days back*. Every year in this batch is in an italic footer, which is a date. This is stricter than the card, which allowed *of the fifth year* in prose, and it costs nothing.
+3. **THE HOUSE DECISION ON YEARS.** The prompt permits *of year six* in an italic footer and forbids *year six* in the prose. **NO CHAPTER OF 601–610 NAMES A YEAR IN ITS PROSE AT ALL** — only a day and a month, or a date-relative phrase such as *since the thirtieth of March, which is two hundred and seventy-four days back*. Every year in this batch is in an italic footer, which is a date. This is stricter than the card, which allowed *of the fifth year* in prose, and it costs nothing. **THIS ROW WAS FALSE WHEN IT WAS FIRST WRITTEN: SIX LINES OF PROSE NAMED *year one*, at `0601:7`, `0601:97`, `0602:33`, `0602:79`, `0605:17` and `0610:25`, and the row claimed that no prose line did. THE PROSE WAS THE THING THAT BROKE THE RULE, NOT THE ROW, SO THE SIX LINES WERE REWRITTEN IN THE HOUSE FORM OF `chapter-0574.md:125` — *you have been counting since the fourth of February* — with the month and the day left exactly where they were and the year carried by the footer that already carried it. No date moved. **NOW RE-RUN BY COMMAND: `year (one|two|…|ten)` over all ten files returns SIX hits and every one of them is an italic footer, at `0602:123` and `0605:115`. PROSE, ZERO.** The one relative-year phrase left standing, *in your second year* at `0610:25`, is a duration and not a date, and Volume 12 carries the same form at 566, 576 and 588.
 
 **AND TWO FIGURES THE BATCH OWES, PRINTED ONCE, WITH OPERANDS, AS §2 OF THE PHASKED:** the office's age at 601 and the lane's mornings at 609. Neither appears anywhere else in the ten files.
 

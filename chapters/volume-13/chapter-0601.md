@@ -4,7 +4,7 @@ He came into the room off a third court on the fourth of January at about ten in
 
 Four days. One thousand seven hundred and seventy-three less one thousand seven hundred and sixty-nine is four, and four less nought is four by the month count, because the thirtieth is the last working day of a month and the first of the next one is day nought.
 
-The room had a table in it and two chairs and a counter, and a drawer under the table that had stood open and empty since the fourth of February of year one. Yusuf Adeyemi was at the end of the table with his coat on, and Wenna Raut was at the counter with the bundle of the twentieth sheet squared in front of her and her hands off it.
+The room had a table in it and two chairs and a counter, and a drawer under the table that had stood open and empty since the fourth of February. Yusuf Adeyemi was at the end of the table with his coat on, and Wenna Raut was at the counter with the bundle of the twentieth sheet squared in front of her and her hands off it.
 
 “What do you want,” she said.
 
@@ -94,7 +94,7 @@ He felt the dread take a shape for the first time in five years, and the shape w
 
 ## There Is No Form
 
-He turned the sheet over again and looked at the two words and then at the drawer under the table, which was open, and which had been open and empty since the fourth of February of year one.
+He turned the sheet over again and looked at the two words and then at the drawer under the table, which was open, and which had been open and empty since the fourth of February.
 
 The question is not addressed to him.
 
@@ -102,7 +102,7 @@ He understood that in the way a man understands a thing about his own hands.
 
 It is addressed to the office. It is addressed to the thing at the address at the head of every line, which is the only way anybody in this city finds a room off a third court with two chairs in it.
 
-It is addressed to a thing that has never been named in any document, in any finding, in any list, in any proceeding, in any year of its existence. And there is no form on which a person may be named in something, and none on which a thing that is not a person may be made to answer a question, and no clerk in this city may enter an answer she was not given.
+It is addressed to a thing that has never been named in any document, in any finding, in any list, in any proceeding, in any year of its existence. And there is no instrument on which a person may be named in something, and none on which a thing that is not a person may be made to answer a question, and no clerk in this city may enter an answer she was not given.
 
 “There is no form for it,” Lin Hao said.
 
@@ -126,7 +126,7 @@ Then she put the pen down and read the demand again, both times at the same spee
 
 “That is what is on the back of it.”
 
-“Then it is not addressed to you,” she said, “and you have been standing in this room for an hour holding a piece of paper addressed to a counter off a third court that cannot answer it, and you are the only person anybody is permitted to ask at that counter, and there is no form that says so either.”
+“Then it is not addressed to you,” she said, “and you have been standing in this room for an hour holding a piece of paper addressed to a counter off a third court that cannot answer it, and you are the only person anybody is permitted to ask at that counter, and nothing in this city says so either.”
 
 *The fourth of January, one thousand seven hundred and seventy-three days. Less one thousand seven hundred and sixty-nine, the thirtieth of December, is four. Four less nought is four by the month count, and a month is thirty days and the thirtieth is the last working day of it.*
 

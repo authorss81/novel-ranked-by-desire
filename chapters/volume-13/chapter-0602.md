@@ -30,7 +30,7 @@ Then the boy from the department of works shifted his weight in the doorway and 
 
 He wrote the second in his own notebook, standing, with the words he had used and not better ones.
 
-“And the third,” he said, “is that there is nothing behind this office. No fund, no schedule, no hearing and no seal, and not a farthing in it now or at any time since the first of February of year one, and no party on either side of it that can be made to accept anything at all.”
+“And the third,” he said, “is that there is nothing behind this office. No fund, no schedule, no hearing and no seal, and not a farthing in it now or at any time since the first of February, and no party on either side of it that can be made to accept anything at all.”
 
 Adeyemi let him finish.
 
@@ -76,7 +76,7 @@ Lin Hao stood at the table with the tray under his right hand and understood the
 
 He got the twentieth sheet off the shelf and squared it on the table and turned it round so the foot was toward them.
 
-Under the last rank, in the hand of the office itself, after two sentences that had been at the foot of every sheet since the first of February of year one, there were two more. One of them was the sentence about invented figures with a name under it, and the name under that one was Emil Brack.
+Under the last rank, in the hand of the office itself, after two sentences that had been at the foot of every sheet since the first of February, there were two more. One of them was the sentence about invented figures with a name under it, and the name under that one was Emil Brack.
 
 The other one said that where the Register has nothing, it has not been given anything.
 

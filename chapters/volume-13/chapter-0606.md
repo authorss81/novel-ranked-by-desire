@@ -4,7 +4,7 @@ Seven days had gone since a woman on nights read the foot of the standing sheet 
 
 He came off Cordwain on the seventh of February at about ten in the morning and stood forty feet short of the shutter at the yard end, where he had stood in the January of an earlier year, and did not go up the hill.
 
-He had said in a room with two chairs in it that he would not come up that hill and say one word about a board, and a man who has said that does not get to arrive at a yard and explain his own footnotes.
+He had said it out loud on a street that he would not come up that hill and say one word about a board, and a man who has said that does not get to arrive at a yard and explain his own footnotes.
 
 He wanted to know whether the four lines were still doing anything.
 
