@@ -24,7 +24,7 @@ It has been on top of the eleven since the twenty-sixth of November.
 
 He had worked out on the fourth that she was coming, and he had worked it out the same way four times before.
 
-A thing said out loud in a passage in front of eleven people in the first week of December is at four kitchens by the end of the month and at a counter or a queue or a kitchen table by the middle of the next one. There is a woman in Ostara who cannot read and has been carrying a piece of paper with four words on the back of it for about a year.
+A thing said out loud in a passage in front of eleven people in the first week of December is in about four kitchens inside a week and in about nine by the end of the month, and at a counter or a queue or a kitchen table by the middle of the next one. There is a woman in Ostara who cannot read and has been carrying a piece of paper with four words on the back of it for about a year.
 
 He had five weeks of that arithmetic in front of him and every one of the five weeks said the same thing, and the same thing was that he was not going to do anything about it, and he went up four flights anyway.
 

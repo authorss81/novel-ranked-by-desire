@@ -62,7 +62,7 @@ Wenna Raut entered his answer exactly, in about nine seconds, with the date agai
 
 “I believe you.”
 
-“That is the correct answer and it is not the one I want to write down,” said Ines Duarte. “What I want to write down is what it costs, and it costs me the standing of a woman who finds things. In my division a finding of nothing happens about four times in nine years, and after one of those four times a woman does not get asked a second time by anybody in that building. I am making this one because it is true.”
+“That is the correct answer and it is not the one I want to write down,” said Ines Duarte. “What I want to write down is what it costs, and it costs me the standing of a woman who finds things. In my division a finding of nothing happens about four times in eleven years, and after one of those four times a woman does not get asked a second time by anybody in that building. I am making this one because it is true.”
 
 She booked it in her own hand, in order. Date first. The hour with the date. Nothing skipped.
 

@@ -1,4 +1,4 @@
-# VOLUME 16 BATCH 0001 ON DISK — **THE VOLUME-WIDE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT. CHAPTERS 751–760 ARE WRITTEN. THREE THREADS MOVED, ONE CLOSED, ONE OPENED, AND NONE OF THE TEN MUST-NOTS WAS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 16 BATCH 0001 ON DISK, AND REPAIRED — **THE VOLUME-WIDE GATE, RE-RUN BY COMMAND AFTER THE REVIEW-FIX PASS OF 14 OCTOBER 2026. CHAPTERS 751–760 ARE WRITTEN. THREE THREADS MOVED, ONE CLOSED, ONE OPENED, NONE OF THE TEN MUST-NOTS WAS BROKEN, AND NOTHING WAS CLOSED BY THE REPAIR.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. **THE MONTH CLOCK IS NOW A MONTHLY COUNT AND NOT A STOCK, AND THE REPAIR PASS ADDED A SIXTH FAILURE TO THE FIVE BELOW.**
 
 ## THE THREAD VOLUME 15 OPENED IS PAID, AND IT IS PAID THE WRONG WAY
 
@@ -26,7 +26,7 @@ A woman who cannot read came up four flights on the eighth of February, in the f
 
 1. **THE BLANK FIELD.** **NOT CLOSED AND NOT ADVANCED.** It is named at 753 and at 754 and at 759 and it is filled for the first time in nine years at **766**, and completed at **799**. **NO CHAPTER OF 751–760 ENTERS ANYTHING IN IT AND THE CHAPTERS THAT NAME IT SAY OUT LOUD THAT THEY CANNOT.**
 2. **THE SECOND SHEET.** **NOT CLOSED. IT IS ON A BENCH FOUR FLIGHTS UP SINCE THE EIGHTH OF FEBRUARY, PUT THERE BY A PERSON, AND IT GOES TO THE FOOT OF A WALL ON A BOARD BY A KERB AT 798 WITH A PENCIL LINE ACROSS THE BOTTOM OF IT IN HER OWN HAND.** **WHO TOLD HER IS STILL NOT ESTABLISHED AND THIS BATCH DID NOT ESTABLISH IT AND MAY NOT.**
-3. **THE MONTH CLOCK.** **STILL OPEN AND STILL ON ITS OWN CLOCK.** About nine kitchens by the end of the month is printed at 751 and at 756 and the four-year figure is printed at 756 on its own clock and is not discharged. **The month clock is paid at 775.**
+3. **THE MONTH CLOCK. STILL OPEN, STILL ON ITS OWN CLOCK, AND NOW A RULE.** **THE COUNT IS TAKEN AGAIN FROM NOTHING ON THE FIRST OF EVERY MONTH.** *About four kitchens inside a week and about nine by the end of that month* is what a name does in one month, and every month it comes out the same two numbers, because there is only the one afternoon it was said out loud. Emil Brack says this in his own mouth at `chapter-0756.md`:63 and no narrator paragraph says it anywhere. **ABOUT NINE KITCHENS IS PRINTED AT 751, 752, 755 AND 756 ON THAT RULE AND THE FOUR-YEAR FIGURE IS PRINTED AT 756 ON ITS OWN CLOCK AND IS NOT DISCHARGED. THE MONTH CLOCK IS PAID AT 775.** **REPAIRED 14 OCTOBER 2026: four chapters of 751–760 had it running backwards as a stock — `chapter-0752.md`:27 put four on a month horizon and `chapter-0755.md`:85 said nine by now and nine by the end of the month in one breath — and the repair was to name the rule in Brack's mouth rather than to invent a fourth figure. See `state/current.md` §0d and §0i.**
 
 ## THE TEN MUST-NOTS, RE-RUN BY COMMAND ACROSS ALL TEN FILES
 
@@ -49,9 +49,11 @@ A woman who cannot read came up four flights on the eighth of February, in the f
 4. **A CLOSING BEAT USED IN SEVEN OF TEN CHAPTERS IS THE BATCH’S OWN HABIT.** **The ten endings of this batch are: a blocked want and a sixth no · a sheet left on a bench · a question she has never asked him · *that is not an answer* and *I know* · he is watching it stop · nine people coming up a stair · a door coming off its latch behind him · a man in a corridor asking which counter · a clerk coming down four flights with a sheet in her hand · a line read aloud to eleven people. NOT ONE IS THE END OF A SHIFT AND NOT TWO ARE THE SAME SHAPE.**
 5. **A PROBE OF ZERO IS NOT A PASS.** The scene at 753 scored **zero** on the explicit-vocabulary probe after its first repair and was written a third time with the anatomy named. Three is in company with 693’s two and 743’s six.
 
+6. **A GATE THAT REPORTS A COUNT OF WINDOWS HAS NOT MEASURED PROSE.** `state/current.md` §0e claimed *the longest is twelve* and *there is nothing at thirteen*, and the truth was a thirty-one-word prose reprise inside the batch and a fifty-one-word quotation of a printed instrument against two earlier volumes. **A twelve-gram reader reports the length of the shortest window it was asked about. EVERY DUPLICATION FIGURE MUST BE A LONGEST-RUN LENGTH AND NEVER A COUNT OF HITS.** The reprise is cut, the record is corrected, and the rule is written down so that the next batch does not inherit a gate which cannot see a sentence.
+
 ## AND THE ROW VOLUME 15’S CLOSE AUDIT ASKED FOR, WHICH NO VOLUME HAD BEFORE IT
 
-**THE WATCH-CONSTRUCTION ROW AND THE STANDING-FIGURE ROW ARE BOTH IN THIS FILE’S SIBLING BLOCK IN `state/current.md` §0c AND §0d, PER CHAPTER AND PER BATCH, WITH THE FIGURES COUNTED AND NOT REPORTED.** **THE BATCH STANDS AT TWO `no form` AND SIX `nobody` AGAINST CAPS OF SIX AND TWELVE, WITH A WORST SINGLE CHAPTER OF ONE, AND THE HEAD IS PRINTED ONCE.**
+**THE WATCH-CONSTRUCTION ROW AND THE STANDING-FIGURE ROW ARE BOTH IN THIS FILE’S SIBLING BLOCK IN `state/current.md` §0c AND §0d, PER CHAPTER AND PER BATCH, WITH THE FIGURES COUNTED AND NOT REPORTED.** **THE BATCH STANDS AT TWO `no form` AND FIVE `nobody` AGAINST CAPS OF SIX AND TWELVE, WITH A WORST SINGLE CHAPTER OF ONE, AND THE HEAD IS PRINTED ONCE. THE PREVIOUS ENTRY PRINTED SIX `nobody` AND ATTRIBUTED ONE OF THEM TO 754; MEASURED FROM DISK, PROSE ONLY, TITLE LINE EXCLUDED, 754 CARRIES NONE. AND A SIXTH FAILURE IS ADDED BELOW, AND IT IS THE ONE THIS BATCH'S OWN RECORD KEPT GETTING WRONG.**
 
 # VOLUME 16 PLANNED 14 OCTOBER 2026 — **NOTHING IS CLOSED BY A PLAN AND NOTHING WAS CLOSED BY THIS PHASE. NO THREAD BELOW MOVED, NO OWNER CHANGED, AND NO CHAPTER EXISTS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
@@ -67,7 +69,7 @@ A woman who cannot read came up four flights on the eighth of February, in the f
 
 1. **THE BLANK FIELD.** The row entered on the twenty-first of October of year seven with a date and an hour and nothing against the hour and a space in the middle of it. **Completed at 799, out of the mouth of the person it was about, and it cannot be improved afterwards and cannot be taken from.** 754, 766, 799.
 2. **THE SECOND SHEET.** The office sheet with four words on the back of it written on the fifth of November of year eight, entered as a row about a non-event because it has not been sent to anybody and cannot be. **At 798 it is at the foot of a wall on a board by a kerb with a pencil line across the bottom of it in her own hand, and the row is not struck and the sheet has still not been sent by this office.** 742's thread, carried, and paid at 798.
-3. **THE MONTH CLOCK, AND ONLY THE MONTH CLOCK.** About four kitchens by the end of the week of the twenty-eighth of February and about nine by the end of the month. **THE FOUR-HUNDRED-KITCHEN FIGURE IS ON A FOUR-YEAR CLOCK AND IS BRACK'S AND IT IS RESTATED AT 756 AND IT IS NOT DISCHARGED BY THIS VOLUME AND MAY NOT BE.** 756, 775, 791.
+3. **THE MONTH CLOCK, AND ONLY THE MONTH CLOCK.** **The count is taken again from nothing on the first of every month: about four kitchens inside a week and about nine by the end of that month, and the same two figures every month, because there is only the one afternoon it was said out loud.** **THE FOUR-HUNDRED-KITCHEN FIGURE IS ON A FOUR-YEAR CLOCK AND IS BRACK'S AND IT IS RESTATED AT 756 AND IT IS NOT DISCHARGED BY THIS VOLUME AND MAY NOT BE.** 756, 775, 791. **REPAIRED 14 OCTOBER 2026 — see `state/current.md` §0d and §0i.**
 
 ## THE ONE THREAD VOLUME 16 OPENS, AND IT IS ONE
 
@@ -126,7 +128,7 @@ A woman who cannot read came up four flights on the eighth of February, in the f
 
 ## THE ONE THREAD VOLUME 15 OPENS, AND IT IS THE LAST THING THE BOOK PUT ON A PAGE
 
-**SOMEBODY TOLD HER.** At about four minutes past four o'clock on the thirtieth of December of year eight, a man with a cap in his hands told a woman in a passage off Cordwain that a building had put a woman's name on a sheet. `chapter-0750.md`:34`, `:40`. She told somebody else; it is in about four kitchens by the end of the week and will be in about nine by the end of the month. `:42`, `:86`.
+**SOMEBODY TOLD HER.** At about four minutes past four o'clock on the thirtieth of December of year eight, a man with a cap in his hands told a woman in a passage off Cordwain that a building had put a woman's name on a sheet. `chapter-0750.md`:34`, `:40`. She told somebody else; **it is in about four kitchens inside a week and in about nine by the end of the month, and the count is taken again from nothing on the first of every month** — the rule is Emil Brack's, in his own mouth, at `chapter-0756.md`:63. `:42`, `:86`.
 
 **A woman who cannot read is going to walk up four flights to a third table in the first week of the ninth year with a piece of paper that has four words on the back of it in a clerk's hand that she has never once been able to read, and she is not coming because she wants to know whether it is right.** `:92`, `:106`. She has asked that question eleven times in eleven months and this office has answered it eleven times and the answer has been no every time. `:94`.
 

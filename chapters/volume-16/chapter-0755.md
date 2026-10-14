@@ -12,7 +12,9 @@ About a hundred of them stood still at the board long enough to read it. About n
 
 He knows that last one from the same source and has never verified it and cannot verify it, because verifying it means standing at that kerb for six hours at a time, which he has done four times, and counting the people who go down on their hands and knees in a street in the cold at half past five, which no person does and which no instrument in this city provides for.
 
-The month’s form is on the board. Two ruled squares at the foot of it, one for the figure of the thing at the address and one for the standing of it, and neither has held anything on any day since the eighth of October of the first year, when a clerk was given a sheet and a form and nothing to go on.
+The month’s form is on the board, and there are two ruled squares at the foot of it, one for the figure of the thing at the address and one for the standing of it.
+
+Both of them go up empty and both of them come down empty, and they have gone up empty on every occasion since the eighth of October of the first year. On that morning a clerk was handed a sheet and a form with nothing to go on and put two words into one of the boxes because the box was there and the words were there.
 
 That is the standing of a thing. Nine years of a city’s addresses going past a kerb twice a day and not one figure and not one standing entered into two boxes that are there, ruled, four inches deep, waiting.
 
@@ -80,7 +82,7 @@ There is a form in a drawer in a division building two streets from the laundry 
 
 He wants it to be something he did.
 
-He put a woman’s name in a column on the third of December and about four minutes after four o’clock on the thirtieth a man behind a counter read it out in a passage to eleven people, and it is in about nine kitchens by now and by the end of this month it will be in about nine kitchens, and the man who said those figures has been paid nothing for saying them.
+He put a woman’s name in a column on the third of December and about four minutes after four o’clock on the thirtieth a man behind a counter read it out in a passage to eleven people, and it was in about four of those kitchens a fortnight ago, and it is in about nine now, and by the end of this month it will be in about nine again, and the man who said those figures has been paid nothing for saying them.
 
 If it is him, then the two inches have shut because a person said out loud that a building keeps a woman’s name, and a person who has written down what was done to them once is now standing at a kerb holding a piece of pencil paper and thinking about a building, and not writing.
 
@@ -92,7 +94,7 @@ He wrote that on the back of his hand too, on the top landing, at about ten to t
 
 ## The Last Mark In The Two Inches
 
-It is eleven weeks old and it is on a piece of rag paper about the size of the foot of a printed page, and it is nine words long, and it is about a thing that happened to somebody else in a doorway.
+It was eleven weeks old when he found it on the first of this month and it is thirteen weeks old now, and it is on a piece of rag paper about the size of the foot of a printed page, and it is nine words long, and it is about a thing that happened to somebody else in a doorway.
 
 That is the last thing anybody in this city wrote in the bottom two inches of a printed page before the thirtieth of December.
 

@@ -4,13 +4,15 @@ Two thousand nine hundred and twenty-six was the seventeenth of March and the tw
 
 ## Half Past Two, And A Sheet That Was Not Squared Again
 
-The thirty-third sheet came out of the flat file at about half past two and went onto the table under the window, and Wenna Raut brought the edge of it true with the edge of the wood in about three seconds, in the ordinary way.
+The thirty-third sheet has been lying on the table under the window since the morning of the twentieth, when he took it out of the flat file himself and squared it to the edge of the wood, and a sheet that has been squared early goes crooked in the fold over four days, and at about half past two this afternoon Wenna Raut brought the edge of it true with the edge of the wood in about three seconds, in the ordinary way.
 
 And then she did not square it again.
 
-She squared it again on the thirtieth of March and on the thirtieth of June and on the thirtieth of September and on the thirtieth of December, for four quarters running, and it did not happen on any of them, and she did not appear to notice that she had not done it, and it is four o’clock tomorrow and there is a piece of paper going to two thousand counters in about a day and a quarter.
+What she does on a quarter-end is square it, and then square it again about four minutes later. She did that on the thirtieth of March and on the thirtieth of June and on the thirtieth of September and on the thirtieth of December, four quarters running, and she did not do it on any of those four afternoons, and she did not appear to notice that she had not done it.
 
-He noticed. He has noticed it four times and he had said nothing about it on any of them, because it is a sheet that comes down off a rail four times a year and it does not come back, and once a year a woman squares a sheet of paper twice because she is a person who squares sheets of paper twice.
+In six days it is four o’clock, and there is a piece of paper going to two thousand counters.
+
+He noticed. He has noticed it four times and he had said nothing about it on any of them, because it is a sheet that comes down off a rail four times a year and it does not come back, and because a woman who squares a sheet of paper twice at half past two on a quarter-end is a woman who has always done it and is not going to explain herself to a man on a branch shift.
 
 The figure at the head of it is the figure it has carried since the thirtieth of March of the fifth year, and nothing in this city can move it and nothing ever has.
 
@@ -42,15 +44,11 @@ The second was that he did not want the answer to be yes. He had wanted a no bad
 
 There were eleven at it at four minutes past four.
 
-That is what was there at the last quarter-end and it is what was there at the one before that, and the difference between eleven at the end of this quarter and eleven at the end of the last one is nothing at all, and about nine people a week stop at that rail and two thousand counters hold the rest of it.
+That is what was there at the last quarter-end and it is what was there at the one before that, and the difference between eleven then and eleven at the one before is nothing at all, and it will be eleven again in six days, and about nine people a week stop at that rail and two thousand counters hold the rest of it.
 
-The counterman read the whole of the bottom of the page out loud to all eleven of them.
+He had never before stood still for the whole of it. He stood still for the whole of it this time, nine feet back with his hands in his coat pockets.
 
-He read the four sentences. Then he read the six lines under them and he went straight past the striking, because a man behind a counter reads what is on the page, and not one person in this city may tell him where the bottom of it is.
-
-Then he came down to the column and read out the four lines that stand in it, in the voice he reads everything in, at the speed he reads everything at.
-
-He read it as though it were an address, because that is what is under that heading.
+The man read the four sentences and the six lines under them and went straight past the striking, because a man behind a counter reads what is on the page. Then he came down to the column and read the four lines that stand in it, in the voice he reads everything in, at the speed he reads everything at, and he read the last of the four as though it were an address, because that is what is under that heading.
 
 There was a silence in that passage of about two seconds. A woman put a hand on the arm of the man beside her and said something, and the man beside her said something back, and neither of them said anything about a building.
 
@@ -66,7 +64,7 @@ The woman whose name is at the head of the fourth of those four lines carried ab
 
 He stood nine feet back with his hands in his coat pockets and let a man who is paid nothing read a woman’s name out of a column about what she carried, to eleven people, at the speed he reads everything at.
 
-And he understood the thing about tomorrow, standing there, which he had not understood in the eighty-four days he had been carrying the question.
+And he understood the thing about the quarter-end, standing there, which he had not understood in the eighty-four days he had been carrying the question.
 
 He had been asking whether the counterman might read the fourth line in a way that made it about a person.
 

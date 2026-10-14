@@ -60,7 +60,7 @@ He stopped and looked up the lane.
 
 “All right.”
 
-“By the end of this week it will be in about four kitchens, and by the end of the month it will be in about nine.”
+“By the end of this week it will be in about four kitchens, and by the end of the month it will be in about nine. And that is the same four and the same nine you had in February and the month before it, because the count starts again on the first of every month and it comes out the same two numbers, and if it ever comes out different I will tell you before you do.”
 
 “And the other one.”
 

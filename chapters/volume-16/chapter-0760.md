@@ -40,15 +40,15 @@ That is the whole of it. He had written it out four times in about eleven second
 
 ## About Half Past Two, And The Thirty-Third Sheet
 
-The thirty-third sheet went onto the table under the window at about half past two and Wenna Raut squared it against the wood, and then squared it again about four minutes later, which is what she does.
+The thirty-third sheet went onto the table under the window at about half past two and Wenna Raut squared it against the wood, and then squared it again about four minutes later, which is what she does, and which she had not done at half past two on any of the four quarter-ends before it, and he noticed that before he noticed anything else on the page.
 
 Eight hundred and fifty-two at the head of it.
 
 It has held that value since the thirtieth of March of the fifth year and has not shifted once since, and not one person in this city has the standing to shift it and never has, and only one of the two counts under this is being read out this afternoon.
 
-It is unmoved across **seventeen of these sheets**, counting the seventeenth onward as the seventeen sheets that have carried that number since it was put there, and this is the thirty-third.
+It is unmoved across seventeen of these sheets, counting the seventeenth onward as the seventeen sheets that have carried that number since it was put there, and this is the thirty-third.
 
-And it is unmoved across **sixteen quarters**, and that is a different tally and it is also right, because a quarter here means a quarter-end later than that thirtieth of March and there has been one every ninety days since. Sixteen of them is one thousand four hundred and forty days, and this morning is one thousand four hundred and forty days after that March.
+And it is unmoved across sixteen quarters, and that is a different tally and it is also right, because a quarter here means a quarter-end later than that thirtieth of March and there has been one every ninety days since. Sixteen of them is one thousand four hundred and forty days, and this morning is one thousand four hundred and forty days after that March.
 
 The two figures disagree by one, and a reader at a rail is going to be handed both of them, so the page has to say which one it is doing.
 

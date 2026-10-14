@@ -26,7 +26,7 @@ He got it wrong for three days and then he got it right on the eighth, and what 
 
 It is worth reading out again in full, because it has been standing in that book for nine months and not one person in this building has read it since the morning it went in. It says that every piece of paper received through that front door is to be entered as received, with a date against it, and with a description of the person who brought it, written in the words that person used.
 
-It has been standing in that book for nine months and for nine months this office has been producing rows, because the description was never going to go into the fourth field and there is no other box on the form for a person.
+It has been standing in that book for nine months and it has been obeyed every day of those nine months.
 
 And on the eighth day of this month, for the first time in nine years, the instruction was being obeyed in a way that produced a person.
 
