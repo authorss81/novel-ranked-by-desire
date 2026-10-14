@@ -1,3 +1,79 @@
+# VOLUME 12 BATCH 0004 IS WRITTEN. CHAPTERS 581–590 ARE ON DISK. **`outline/volume-12.md` §7'S MOVEMENT-FOUR CARDS WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, AND THE MOVEMENT-FOUR SEAM WAS REPAIRED ON THE PAGE AND IN §5c AND §7. THE MOVEMENT PROMISE SAID FOUR DAYS BETWEEN THE TWO ANNIVERSARIES AND IT IS TWO. THE FIGURE BOX WAS ANSWERED NO AT 573 AND STAYS BLANK FOR THE REST OF THE BOOK. THE STANDING BOX WAS REFUSED FOR BERTA SKELL AT 578. BOTH BOXES ARE STILL BLANK AT THE END OF 590. THE NINETEENTH SHEET WENT OUT 30 SEP WITH 852 UNMOVED AND TWO LINES IN THE SECOND COLUMN. THE 584 SCENE REPLAYED NEITHER 505 NOR 574 NOR 536 NOR 546 NOR 554 NOR 564. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0a. THE SPINE, 581–590, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE IN THE COMMIT THAT WROTE THEM
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1), where Feb 0, Mar 30, Apr 60, May 90, Jun 120, Jul 150, Aug 180, Sep 210, Oct 240.**
+
+```
+581  30 Aug y5   4 x 360 + 180 + 29 = 1649   22 after 580  (1649 - 1627 = 22; thirty less the eighth)
+582   6 Sep y5   4 x 360 + 210 +  5 = 1655    6 after 581  (1655 - 1649 = 6)
+583  13 Sep y5   4 x 360 + 210 + 12 = 1662    7 after 582  (1662 - 1655 = 7)   covers seven mornings
+584  14 Sep y5   4 x 360 + 210 + 13 = 1663    1 after 583  (1663 - 1662 = 1)   SCENE
+585  21 Sep y5   4 x 360 + 210 + 20 = 1670    7 after 584  (1670 - 1663 = 7)
+586  30 Sep y5   4 x 360 + 210 + 29 = 1679    9 after 585  (1679 - 1670 = 9)   QUARTER-END
+587   1 Oct y5   4 x 360 + 240 +  0 = 1680    1 after 586  (1680 - 1679 = 1)
+588   6 Oct y5   4 x 360 + 240 +  5 = 1685    5 after 587  (1685 - 1680 = 5)
+589   8 Oct y5   4 x 360 + 240 +  7 = 1687    2 after 588  (1687 - 1685 = 2)
+590  10 Oct y5   4 x 360 + 240 +  9 = 1689    2 after 589  (1689 - 1687 = 2)
+MONOTONIC, 0 VIOLATIONS. Second method, sharing no constant, 4 x 360 + offset + (d - 1), returned
+the same figure for all ten. Cross-checked from 4 x 360 = 1440: Aug 1620-1649 · Sep 1650-1679 · Oct 1680-1709.
+```
+
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1649 − 1627 = **22** · 1655 − 1649 = **6** · 1655 − 1627 = **28** (22 + 6) · 1655 − 247 = **1,408** (the line is in its fifth year) · 1,408 − 1,080 = **328** (ten months of thirty and twenty-eight) · 360 − 328 = **32 days to go in the fifth year** · 1662 − 1655 = **7** · 1662 − 1649 = **13** · 1662 − 1627 = **35** (22 + 13) · 1663 − 1662 = **1** · 1663 − 1655 = **8** · 1663 − 1,570 = **93** (since the last room) · 1663 − 1,115 = **548** (since the sixth of March) · 1670 − 1663 = **7** · 1670 − 1655 = **15** · 30 − 21 = **9** (to the quarter-end) · 1679 − 1670 = **9** · 1679 − 1,589 = **90** (30 + 30 + 30) · 1679 − 1,409 = **270** (nine months of thirty) · 1680 − 1,679 = **1** · 1680 − 1,409 = **271** · 1685 − 1680 = **5** · 1685 − 1,679 = **6** · 1685 − 1,663 = **22** · 1,687 − 247 = **1,440** (360 × 4) · 1,687 − 1,627 = **60** · 1,689 − 1,687 = **2** (not four) · 10 − 8 = **2** · 1,689 − 1,329 = **360** · 30 − 10 = **20** · 1,695 − 1,689 = **6** (to 591). **THIRTY-FIVE PRINTED INTERVALS CHECKED, ZERO MISMATCHES. EVERY ONE WAS DERIVED FROM THE SPINE AND SUMMED, NEVER COPIED OUT OF THE CHAPTER IT IS CHECKING.**
+
+**ANCHORS, ALL RE-DERIVED IN THE SAME COMMIT:** second line up 8 Oct y1 = `0 × 360 + 240 + 7 = 247` · 505 = `3 × 360 + 30 + 5 = 1,115` · 547 = `3 × 360 + 240 + 9 = 1,329` · 552 = `3 × 360 + 300 + 29 = 1,409` · 574 = `4 × 360 + 120 + 10 = 1,570` · 576 = `4 × 360 + 120 + 29 = 1,589` · 580 = `4 × 360 + 180 + 7 = 1,627`. **AND 247 + 360 × 4 = 1,687 = 589; 1,329 + 360 = 1,689 = 590. THE FIFTH ANNIVERSARY OF THE SECOND LINE IS TWO DAYS BEFORE THE FIFTH ANNIVERSARY OF THE MORNING, AND `1,689 − 1,687 = 2`, NOT FOUR.**
+
+**WHERE THE ARITHMETIC LIVES, CHAPTER BY CHAPTER.** 581, 582, 586, 588 and 589 open on the day's fact or the scene and carry their intervals in the notebook footer. **583 and 587 carry a chain of short dated intervals in the footer because the chapter covers a run of mornings. 584 carries four and names two cross-volume anchors, because it is the scene and its gap is the batch's widest.** NO INTERVAL LOST ITS OPERANDS IN ANY REWRITE.
+
+## 0b. WHAT 581–590 ADDED TO THE CANON, AND WHAT A LATER PHASE MAY NOT BREAK
+
+- **THE WALL HAS TWO ENDS AND THERE IS A CHALK FIGURE AT BOTH.** The tiled end at the north, about four hundred tiles in eleven courses under a rail about nine feet up, with the slot at the top a different colour from every tile under it; the lane end at the south. **There is no painter at the tiled end**, which is why the figure there went unnoticed for three years.
+- **BRACK CHALKS TWO FIGURES THAT DISAGREE AND IS RIGHT ABOUT THE DISAGREEMENT.** One is what a man is worth standing in a line, one is what a man is worth when nobody is waiting for him. He is right that a page gets filed and a slate gets wiped and that he will never put one of his numbers on a page.
+- **THE OFFICE'S TWO WORDS WERE SAID OUT LOUD SIX MORNINGS RUNNING UNDER THE OFFICE'S OWN WALL AND ARE NOW IN A STREET IN THREE VERSIONS.** The true one, *carried by*, is on a corridor board about thirty people a day walk past with a drawing pin through the corner and the fourth condition cut off with a blade. **He stopped saying them on the thirteenth of September and it cannot be put back.** **THE KEEPER'S SECOND WORD, *CARRIED FORWARD*, WAS DELIBERATELY NOT PUT INTO THE STREET**, because §8 closes that thread after 554.
+- **THE OFFICE'S ONE LEGIBLE SENTENCE IS ITS OWN DISCLAIMER.** *Where this Register has nothing, it has not been given anything, and it does not say that there was nothing.* It is typed at a desk off a fourth court, it is at the foot of every sheet since the first of February of the first year, and it is the same sentence the man with the chalk enforces every morning. **About four people in every thousand who read a page reach it. He cannot move a line up and there is no instrument that can.**
+- **THE NINETEENTH SHEET (30 SEP) CARRIES 852 UNMOVED, THIRD QUARTER RUNNING — THE FIRST TIME A FIGURE HAS STOOD STILL THREE QUARTER-ENDS RUNNING — AND TWO LINES IN THE SECOND COLUMN.** Nothing at all has come into the address since the eleventh of March. The second line is his handwriting against himself and has been on a public page since the thirtieth of June.
+- **A PUBLIC DESK IN A PASSAGE OFF CORDWAIN LEAVES SHEETS OUT.** It belongs to the building, not the office; the man at it has not put one in a bundle since the first of March of the second year, and he is right about all three of his reasons. About thirty people come through in an hour; nine stop; one of the nine reads to the bottom.
+- **THE PAGE IN HER BUILDING IS THE NINETEENTH SHEET AND ITS NINTH LINE IS HER LINE** — a street dug for six years in the cold, entered on the eleventh of July in a clerk's hand, no name against it, because the division was not permitted to ask. **SHE IS NAMED IN 587 AND 588 AND SHOWN IN NEITHER, AND NOTHING IS RESOLVED.**
+- **THE TENTH OF OCTOBER IS NOT AN EVENT AND IS NOT A SECOND TIME.** The fuse was lit once and came due once, to a woman with a sheet folded in four in her coat, and a thing with no holder does not come round a second time. **On the morning of the fifth anniversary he checked the corridor, the stair, the bin room door and the yard door, and then went and did his floors.**
+- **HE ANNOUNCED IN ADVANCE, TO A MAN WITH A SLATE, THAT NOTHING WAS GOING TO HAPPEN ON THE TENTH**, and said why out loud: a thing said in advance is a thing you cannot be talked out of in about four years, and he had never in his life told anybody what he was going to not do.
+
+## 0c. THE SCENE AT 584, MEASURED THREE WAYS, WITH THE PROBE BANK AND ITS METHOD PRINTED
+
+**INES DUARTE. Last scene 505; 584 − 505 = 79 chapters; 1,663 − 1,115 = 548 days. AXIS BROKEN IS THE QUIET, carried by the room's own rule — a page is read in order, it has three parts, and the fourth thing is hers and not the rule's: she does not stop to be spoken to while a page is open — named by nobody. No clock is printed inside the scene and no hour is counted in it. No compulsion/sedation/exhaustion/toxin/restraint/psychic contact/trance/seal. Both adults. Fast yes, and the putting down of the page is the whole of the asking. Violence in no register in the chapter. No mark given beyond her own; §4d's row was read before a body was planned and `cuticle` is NOT used, which is what keeps that word at four files book-wide. Wrist scar: absent. Alma Quayle's seated paperwork: absent. Mavis Rooke's hand-flat: absent. Agnete's 546 staging: absent. Beatrix's 574 furniture, the proof turned face down, the mouth first, the eleven seconds: absent. Hanneke's page-chain and kettle: absent.**
+
+**584 HAS TWO `##` HEADINGS — *She Put The Page Face Down* and *The Fourth Question* — AND THE CLOSING BOUNDARY IS THE `## The Fourth Question` HEADING WITH NO `##` AFTER IT, WHICH IS STATED.**
+
+| Definition | 546 Agnete (V11) | 554 Hanneke (0001) | 564 Agnete (0002) | 574 Beatrix (0003) | **584 Ines (0004)** |
+| --- | --- | --- | --- | --- | --- |
+| (1) opening `##` to closing `##`, exclusive | 3,451 | 3,554 | 4,803 | 2,128 | **1,436** |
+| (2) scene section INCLUSIVE | 2,085 | 2,855 | 2,665 | 1,945 | **1,439** |
+| (3) scene section EXCLUSIVE | 2,079 | 2,851 | 2,662 | 1,940 | **1,436** |
+| whole file | 3,570 | 3,730 | 5,622 | 2,898 | **3,010** |
+
+**THE 546 / 554 / 564 / 574 FIGURES ARE RESTATED AND WERE NOT RE-RUN. THE 584 FIGURES WERE RUN ON DISK IN THE COMMIT THAT WROTE THE CHAPTER, UNDER ALL THREE DEFINITIONS, AND THE CLOSING BOUNDARY IS NAMED.**
+
+**PROBE BANK — TWO SETS, BOTH REPRODUCIBLE, AND THE REASON THERE ARE TWO IS PRINTED.** The bank `state/continuity.md` §0c published for batch 0003 does not reproduce that batch's non-scene figures of 1–7, because it contains ordinary English — *took*, *came*, *come*, *hard*, *hole*, *mouth*, *inside*, *wrist* — and ordinary prose scores 130–185 against it by substring. **A gate row that does not state its own method cannot be re-run, so the method is stated here and both sets are given.**
+
+- **SET A — the full bank as §0c prints it (55 entries by the count this commit measured):** cock · cunt · pussy · tits · breasts · nipple · nipples · areola · anus · arse · butt · hole · mouth · tongue · lick · suck · penis · vagina · labia · clitoris · cum · semen · ejacul · thrust · stroke · hard · erection · orgasm · moan · gasps · panted · inside · wet · thigh · **took** · naked · undress · spread · breast · kissed · bed · aching · pleasure · came · come · mouthful · wrist · back of his neck · flat of her tongue. **581 188 · 582 137 · 583 161 · 584 415 (scene section 257) · 585 172 · 586 188 · 587 151 · 588 164 · 589 178 · 590 159.** Counted by substring, case-insensitive, per file.
+- **SET B — the unambiguous twenty, i.e. the terms that are not ordinary English anywhere else in this manuscript:** cock · cunt · tits · nipples · areola · penis · vagina · labia · clitoris · semen · ejacul · thrust · erection · orgasm · moan · gasps · panted · spread · undress · mouthful. **581–583 0 · 584 3 (all three inside the scene section) · 585–590 0.** Counted by substring, case-insensitive, per file.
+
+**WORD BANK, COUNTED PER FILE AND SUMMED:** 581 1,901 · 582 1,584 · 583 1,474 · **584 3,013** · 585 1,692 · 586 1,783 · 587 1,439 · 588 1,478 · 589 1,477 · 590 1,393. **BATCH TOTAL 17,234.**
+
+**584 IS THE ONE CHAPTER ABOVE THE 1,800–2,700 GUIDE BAND AT 3,013, AND THE REASON IS THE ONE `AGENTS.md` ALLOWS: IT IS THE SCENE AND THE SCENE IS WRITTEN OUT.** An earlier pass of this same chapter ran at 1,648 words, and the probe in Set B returned **zero** unambiguous terms in it — the scene had been compressed to fit the band and the compression had taken the physical writing out of it. **The body was written out again and is now 1,436 words between its headings, with the explicit passage restored and the two lines that carry the quiet kept.** The nine non-scene chapters run 1,398–1,908, which is lean and inside or just under the guide band, because this movement's beats are a wall, a street, a stair, a desk and two days in October and each lands better clipped; **no chapter is padded to reach a number and no finished scene is split to shorten one.**
+
+## 0d. THE TEN CHAPTERS, ONE LINE EACH
+
+- **581 — Two Ends Of One Wall.** He walks the wall end to end for the first time in four years and finds Brack chalking at both ends, two figures that disagree, and he is right about the disagreement. He says the two words out loud once, in an empty lane, and nobody hears it.
+- **582 — The Fifth Year Of A Line.** Six mornings of saying them. One man stops and asks for it twice. A boy of about fourteen says the second word before he does and cannot be given the first.
+- **583 — Two Figures And One Street.** Three versions in a street, Brack will not rub the chalk out and is right, and the chapter ends on the fact that he has stopped and cannot put it back.
+- **584 — Three Questions She Never Finished.** THE SCENE. An audit room at half past one in the morning, a clear table, a page put face down for the first time in eleven years, and four questions at the door, none of them answered.
+- **585 — The Woman Who Was Not Told.** Ilva Vask gives him one address and says why. He stands at the foot of a dark stair about four minutes and does not go up, and the address is in his notebook for ever.
+- **586 — The Nineteenth Sheet.** Quarter-end. 852 unmoved, two lines, nothing in since March — and the one sentence the office has ever printed in a hand a city can read is the sentence the man with the chalk says every morning.
+- **587 — A Woman Two Flights Up.** The sheet is lying out on a public desk in the passage of her building because the man at the desk has not put one in a bundle since the second year, and the ninth line down is hers.
+- **588 — The Page In Her Building.** Six days out, nobody has written on it, he holds a pencil for about four minutes and puts it back, and Brack tells him a wall is not a page.
+- **589 — Five Years Of A Second Of October.** Five years to the day, no notice, no ceremony, and relief so strong he has to put a hand flat on the stone. He tells a man with a slate two days early that nothing is going to happen on the tenth, and corrects four days to two.
+- **590 — Five Years Of The Morning.** Nothing happens. He checks the corridor, the stair, the bin room door and the yard door, finishes his floors, and stands about two feet off four inches of stone that are not his.
+
 # VOLUME 12 BATCH 0003 IS WRITTEN AND REPAIRED AGAINST ITS REVIEW. CHAPTERS 571–580 ARE ON DISK. **`outline/volume-12.md` §7'S MOVEMENT-THREE CARDS WERE REWRITTEN AGAINST THE PAGE IN THE SAME PASS. THE FIGURE BOX WAS ANSWERED NO AT 573 AND STAYS BLANK FOR THE REST OF THE BOOK. THE STANDING BOX WAS REFUSED FOR BERTA SKELL AT 578. BOTH BOXES ARE STILL BLANK AT THE END OF 580. THE EIGHTEENTH SHEET WENT OUT 30 JUN WITH 852 UNMOVED AND TWO LINES IN THE SECOND COLUMN. THE 574 SCENE WAS REWRITTEN BECAUSE IT REPLAYED 536 AND IT NOW SHARES ZERO 8-GRAM RUNS WITH IT. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0a. THE SPINE, 571–580, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE AFTER THE REPAIR PASS
