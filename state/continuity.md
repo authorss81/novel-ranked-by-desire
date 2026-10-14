@@ -1,3 +1,165 @@
+# VOLUME 13 CHAPTERS 641–650 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS. `outline/volume-13.md` §7 MOVEMENT FIVE HAS BEEN REWRITTEN AGAINST THE PAGE AND §8 IS UNTOUCHED. `state/complete.md` IS NOT CREATED. THE BATCH IS 32,121 WORDS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE SPINE FOR 641–650, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes a year and is therefore the twelfth month of it:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). THE JANUARY EXCEPTION IS PRINTED AND
+           APPLIED TO BOTH METHODS EVEN THOUGH NO DATE IN 641-650 FALLS IN A JANUARY, BECAUSE
+           A METHOD THAT CARRIES AN EXCEPTION IT DOES NOT NEED IS STILL A METHOD THAT CAN CARRY
+           ONE IT DOES. THE WRONG CONVENTION IS PRINTED BESIDE IT AND PUTS 601 AT 2,133. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) otherwise;  day = 30*i + (d-1)   — contains no 360 at all
+
+640  21 Oct y6 = 2,060  (the movement four close)
+641  30 Oct y6 = 2,069  ( +9)  the seam, and a chart with a line going down
+642   7 Nov y6 = 2,076  ( +7)  three women, a rota page, and eight nights of a page face up
+643  15 Nov y6 = 2,084  ( +8)  SCENE, Ines Duarte, and an hour she declines to give
+644  23 Nov y6 = 2,092  ( +8)  *** THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS ***
+645  30 Nov y6 = 2,099  ( +7)  the cost, and nothing there to take
+646   7 Dec y6 = 2,106  ( +7)  a figure kept nine years on a woman's fingers
+647  15 Dec y6 = 2,114  ( +8)  the twenty-fourth sheet, and a man who asks what a page is for
+648  22 Dec y6 = 2,121  ( +7)  sixty-two blank forms and one rubbing out from under the paint
+649  27 Dec y6 = 2,126  ( +5)  a slip the size of a thumb-nail, and two departments that
+                                 have never sent a paper to each other
+650  30 Dec y6 = 2,129  ( +3)  QUARTER-END, the twenty-fourth sheet, THE LAST CHAPTER
+
+30 ANCHORS RE-DERIVED, 30 AGREE, 0 MONOTONIC VIOLATIONS.
+SEAM 641-640 = 2,069 - 2,060 = 9.
+BATCH SPAN  650-641 = 2,129 - 2,069 = 60, and 7+8+8+7+7+8+7+5+3 = 60.
+QUARTER-END  30 Dec y6 = 2,129 = chapter 650 = the twenty-fourth sheet, the head unmoved for
+             the eighth quarter running, and 2,129 - 1,769 = 360 = 12 x 30 = exactly one year,
+             because the twentieth sheet went out at four on 30 Dec y5 and this is the fourth
+             quarter-end since, at ninety days apiece.
+OFFICE       ITS AGE IS NOT PRINTED IN 641-650. The months figure was spent at 638 and a chapter
+             that needs it says *this building has been open six years*, which is 2,129 - 1,773
+             = 356 days and nothing more.
+THE LANE     ITS MORNINGS ARE NOT PRINTED IN 641-650. The budget was spent at 609, 614 and 626
+             and is not reset by a new batch. The lane is NAMED at 648 and is not measured.
+THE WALL     ITS HEADCOUNT IS NOT PRINTED IN 641-650. 605 is the only printing of it in the
+             volume, with its reason, and no chapter of this batch repeats it.
+ANNIVERSARY  the second line went up 8 October of year one = 247 and its sixth anniversary is
+             2,047. 2,047 IS 13 DAYS BEHIND CHAPTER 640 AND 22 DAYS BEFORE CHAPTER 641, AND IT
+             FELL INSIDE THE TWELVE-DAY GAP BETWEEN 638 AND 639. **NO CHAPTER OF 641-650 NAMES
+             IT, LANDS ON IT OR REACHES ACROSS IT. THE EARLIEST BACKWARD INTERVAL ANY CHAPTER OF
+             THIS BATCH PRINTS IS 2,099 - 2,039 = 60 AT 645.** THE FUSE IS NOT RE-LIT.
+VOLUME 13 SPAN  650 - 601 = 2,129 - 1,773 = 356, unchanged.
+SIXTH OF MARCH  year one, day 35. 1,115 is withdrawn. Used once, at 643, with operands.
+THE MONTH BORROW  GOES ONE WAY ONLY. Going forward past a month’s end borrows nothing, because a
+             month runs thirty days and stops: a day nine after the twenty-first is the thirtieth,
+             and there is no thirty-first to carry it. Going backwards off the end of a month
+             borrows the whole month off the THIRTIETH and not off the first. **Batch 0004 wrote
+             the borrow forwards at 631, 634 and 636, caught all three and repaired them, and
+             this row exists because of that.** 641, 649 and 650 are the three day-openings in
+             this batch that could have got it wrong and all three re-derive.
+```
+
+**AND THE §5c DISCREPANCY, INHERITED AND NOT PROPAGATED.** `outline/volume-13.md` §5c gives 632 as the sixteenth of August, 633 as the twenty-fourth, 635 as the ninth of September, 636 as the sixteenth and 637 as the twenty-fourth; the phase prompt and the finished pages give 15 AUGUST, 23 AUGUST, 8 SEPTEMBER, 15 SEPTEMBER and 22 SEPTEMBER. **Both sets sum to 73, both agree at 631, 638, 639 and 640 and at the seam from 630, and they cannot both be right.** §5c is the plan of record and was not edited. **THIS BATCH DID NOT PROPAGATE EITHER SET AND DID NOT EDIT §5c; §7 MOVEMENT FIVE WAS WRITTEN AGAINST THE PAGE AND THE 641–650 DATES RE-DERIVE INDEPENDENTLY.** The full table is at `outline/batches/volume-13-batch-0004.md` §0 and at the head of §7 movement four.
+
+## 0a. THE INTERVALS THE TEN FOOTERS PRINT, PARSED FROM THE PAGE AND SUMMED WITH THEIR OPERANDS
+
+```
+641  2,069 - 2,060 =   9   21 Oct y6; thirty less twenty-one is nine
+      2,069 - 1,334 = 735   15 Oct y4 = 3 x 360 + 254, and 735 = 24 months + 15 days
+      2,069 - 1,769 = 300   30 Dec y5 = the twentieth sheet, and 300 = 10 months exactly
+      2,069 - 1,799 = 270   30 Jan y6 (January exception) = 9 months exactly
+      2,069 - 2,129 = -60   the twenty-fourth sheet goes out at four on the thirtieth in
+                            sixty days, which is two months, and the footer says so
+642  2,076 - 2,069 =   7   a month runs thirty days and runs out at the thirtieth, so a day
+                            seven after the thirtieth is the seventh of the next month
+      2,076 - 2,039 =  37   30 Sep y6, and 37 = a month with seven days after them
+      2,076 - 1,820 = 256   21 Feb y6 = 1,770 + 50, and 256 = 8 months + 16 days
+      2,076 - 1,718 = 358   9 Nov y5 = 1,410 + 308, and 358 = 11 months + 28 days
+643  2,084 - 2,076 =   8   fifteen less seven is eight by the month count
+      2,084 -   35 = 2,049  *** THE SIXTH OF MARCH. 2,049 - 1,800 = 249, and 249 is eight
+                            months of thirty days with nine after them, and 1,800 is five
+                            years of 360: FIVE YEARS, EIGHT MONTHS AND NINE DAYS. ***
+      2,084 - 1,334 = 750   25 months exactly
+      2,084 - 1,769 = 315   10 months + 15 days
+      2,084 - 1,773 = 311   4 Jan y6, and 311 = 10 months + 11 days
+      2,129 - 2,084 =  45   *** REPAIRED FROM THE FIRST DRAFT. The closing footer said the
+                            twenty-fourth sheet goes out in forty-five days, which is right,
+                            but the sentence it sat in wanted the gap from the chapter in
+                            front of it, which is fifteen. BOTH FIGURES ARE TRUE AND THE
+                            FOOTER NOW SAYS FIFTEEN, WHICH IS THE CHAPTER'S OWN INTERVAL. ***
+644  2,092 - 2,084 =   8   twenty-three less fifteen is eight
+      2,092 - 1,334 = 758   25 months + 8 days, and the day is the fifteenth of October of
+                            the fourth year, the four conditions entered against himself
+      2,092 - 2,129 = -37   the twenty-fourth sheet goes out at four in thirty-seven days
+      2,092 - 1,956 = 136   7 Jul y6, and 136 = 4 months + 16 days
+645  2,099 - 2,092 =   7   and there is no thirty-first to carry the day after a thirtieth
+      2,099 - 2,039 =  60   30 Sep y6, and 60 = two months exactly
+      2,099 - 1,820 = 279   21 Feb y6, and 279 = 9 months + 9 days
+      2,099 - 1,718 = 381   12 months + 21 days
+646  2,106 - 2,099 =   7   seven days less thirty is seven
+      2,106 - 1,769 = 337   11 months + 7 days
+      2,106 - 1,956 = 150   7 Jul y6, and 150 = five months exactly
+647  2,114 - 2,106 =   8   fifteen less seven is eight
+      2,114 - 1,769 = 345   11 months + 15 days, and the twenty-fourth sheet is fifteen
+                            days after this chapter and one year after the twentieth
+      2,114 - 1,820 = 294   21 Feb y6, and 294 = 9 months + 24 days, the form in his coat
+      2,114 - 1,718 = 396   13 months + 6 days
+648  2,121 - 2,114 =   7   twenty-two less fifteen is seven
+      2,121 - 1,334 = 787   26 months + 7 days
+      2,121 - 1,820 = 301   21 Feb y6, and 301 = 10 months + 1 day
+      2,121 - 2,047 =  74   *** NOT PRINTED IN THE PROSE AND NOT PRINTED IN ANY FOOTER. The
+                            arithmetic was run and the answer is in this block and nowhere
+                            else, and the earliest chapter that could have reached back far
+                            enough to touch the anniversary did not. ***
+649  2,126 - 2,121 =   5   twenty-seven less twenty-two is five
+      2,126 - 1,820 = 306   21 Feb y6, and 306 = 10 months + 6 days
+      2,126 - 2,039 =  87   30 Sep y6, and 87 = 2 months + 27 days
+      2,126 - 2,129 =  -3   the twenty-fourth sheet goes out at four in three days
+650  2,129 - 2,126 =   3   thirty less twenty-seven is three
+      2,129 - 1,769 = 360   *** EXACTLY ONE YEAR, 12 x 30, and four quarter-ends at ninety
+                            days apiece since the twentieth sheet went out. ***
+      2,129 - 1,334 = 795   26 months + 15 days
+      2,129 - 2,060 =  69   21 Oct y6, and 69 = 2 months + 9 days
+      2,129 - 1,820 = 309   21 Feb y6, and 309 = 10 months + 9 days
+      2,160 - 2,129 =  31   1 Feb y7 = 6 x 360 exactly, the first exact figure this office
+                            has ever printed, and it is thirty-one days from the last chapter
+                            and it is NOT the first of January
+```
+
+## 0r. THE TWO ARITHMETIC BREAKS THE WRITER'S OWN RE-DERIVATION CAUGHT, AND WHAT WAS DONE ABOUT EACH
+
+**NINETY-TWO INTERVALS ANY OF THE TEN FOOTERS PRINTS WERE RE-DERIVED FROM DAY NUMBERS ONE AT A TIME AFTER THE DUPLICATION REPAIRS. NINETY RE-DERIVE EXACTLY. TWO DID NOT, AND BOTH ARE REPAIRED.**
+
+1. **`chapter-0643.md` PRINTED *FORTY-FIVE DAYS* FOR THE GAP TO THE TWENTY-FOURTH SHEET.** `2,129 − 2,084 = 45` is **arithmetically correct** and the chapter also needed `2,114 − 2,084 = 30`, the gap to the fifteenth of December, because that is the chapter in front of it. **The figure was not wrong and the sentence around it was**, and a figure nobody re-reads in context is a figure that is wrong. **Repaired to thirty days**, with both operands beside it, and the forty-five stays at `state/current.md` §0a because a later reader will want to know it was ever printed.
+2. **`chapter-0650.md` PRINTED *THE NEXT YEAR OPENS IN TWO DAYS*.** The last day of a year is the thirtieth of December and the next one opens on the first of February, which is day **2,160** and is **31 days** away, not two. **Repaired**, with the operand and the reason, and with the observation that **1 February of year seven is exactly six times three hundred and sixty and is the first exact figure this office has ever printed** — which belongs in a volume close and not on the last page of a chapter.
+
+**THE OTHER NINETY RE-DERIVE EXACTLY AND ARE PRINTED WITH THEIR OPERANDS AT §0a. NOTHING ELSE WAS CHANGED.**
+
+## 0q. THE MEASUREMENT CELL FOR 643, TAKEN FROM DISK IN THE COMMIT THAT WROTE IT, WITH THE LINE SPAN BESIDE EVERY CELL
+
+The file has eight `##` headings at lines **15, 49, 73, 99, 123, 135, 153, 217** and **256** newline-terminated lines. The first `##` is `## The Question` and the last is `## Afterwards`, with no `##` after 217.
+
+**(A)** first `##` to last `##`, exclusive of both heading lines, **lines 16–216, 3,215**; the same span **inclusive of both heading lines, lines 15–217, 3,220**.
+**(B)** the single scene section, `## The Empty Table` at line **135** closing on `## Afterwards` at line **217**, with one `##` inside it (`## What She Read On Him` at 153) — **inclusive lines 135–216, 1,491**; **exclusive lines 136–216, 1,487**.
+**(C)** exclusive of both boundaries and carried through to end of file, **lines 16–256, 3,973**; the same cut stopping at the last prose line before the italic footers, **lines 16–249, 3,757** (7 footer lines).
+**Whole file, lines 1–256, 4,304.**
+
+Explicit-vocabulary probe at WORD BOUNDARY across the body of 643: *semen* 0, *cunt* 0, *cock* 0, *tits* 0, *pussy* 0, *cum* 0, *jizz* 0, *knob* 0, *fanny* 0, *arse* 0, *licked* 0, *sucked* 0, *hard* 0, *wet* 1, *inside* 1, *mouth* 4. **PARITY: `chapter-0603.md` returns *cock* 1 on the same list and `chapter-0623.md` and `chapter-0633.md` return 0. Reported, not argued.** Set B at word boundary across all ten files: **0**.
+
+`643 − 633 = 10` and `643 − 584 = 59`, reported and not certified, and **no file may call 59 inside the eight-to-fifteen band.**
+
+## 0r. WHAT 641–650 SETTLE, AND WHAT IS STILL OPEN
+
+**SETTLED BY 641–650 AND NOT TO BE RE-DERIVED BY A LATER CHAPTER:**
+
+- **THE FOURTH OF HIS FOUR CONDITIONS IS OFF THE OFFICE'S OWN STANDING PAGE, IN THE OFFICE'S OWN HAND, WITH HIS NAME AND THE DATE UNDER IT, AND NOTHING IN ITS PLACE.** It cannot be restored. A clerk enters what she is given and cannot improve it; an entry can be made and an entry cannot be taken back; the page goes out at four on the thirtieth and about nine people a week will ever look at it. **THE HEAD OF THE SHEET IS EIGHT HUNDRED AND FIFTY-TWO AND DOES NOT MOVE, AND THE SECOND COLUMN HAS TWO LINES IN IT AT 601 AND TWO IN IT AT 650, BECAUSE WHAT WENT ON AT 644 WENT ON AT THE FOOT.**
+- **WHAT THE FOURTH LINE WAS CARRYING WAS THE CLAIMS OF PEOPLE WHO CANNOT READ**, and killing it means a person who cannot read a lease, a demand, a finding or a sheet can now say almost anything and cannot say that anybody took anything off her.
+- **A FORTIETH IS THE SMALLEST SHARE SHE CAN LIFT AND IT DOES NOT STAY BEHIND IN THE PERSON.** The board has eleven columns and a heavy line across the foot of every one of them and **no line anywhere on it for going up**, and there has not been one since the first of February of the first year.
+- **AN AUDITOR WHO CERTIFIES AN HOUR PUTS AN HOUR IN THE CITY THAT NOBODY CAN TAKE BACK, BECAUSE THE SENTENCE UNDER EVERY HOUR SAYS THAT ANY NUMBER IN THIS CITY MAY BE ONE SOMEBODY INVENTED** — and the only hour she gave him is four o'clock, which is not contested.
+- **INES DUARTE HAS READ THE STANDING PAGE ALOUD TO ONE PERSON, IN A ROOM WITH A SHUT DOOR IN IT, ONCE A YEAR IN THE ELEVENTH MONTH, FOR ABOUT NINE YEARS, AND IT IS NOT AN OFFICE AND IT IS NOT IN ANY BOOK.** She has not said it to anybody and has asked him not to.
+- **THE THREE THAT ARE LEFT OF THE FOUR CONDITIONS ARE STILL THE ONLY CHECKABLE ONES AND THEY STILL END ON THE THIRD**, and what came off the shutter on the ninth of November was not removed by him and was not his to keep.
+- **THE WALL.** Making good is render. The bottom course is dressed stone and does not come off. **There are about sixty-two of the month's forms stacked inside that wall, one a month since the eighth of October of the first year, every one of them with two empty squares at the foot.** The painting is a Bureau contract in a different building and the two offices have not sent a paper to each other in nine years and there is nothing that makes them. **THE FIRST RUBBING EVER MADE THERE IS ON THE BACK OF A MONTH'S FORM AND IT IS IN THE INSIDE OF A COAT.**
+- **A NUMBER ON A SLIP IS NOT A WAY OF GETTING ANYTHING AND IS A WAY OF BEING FOUND**, and he has one, and there is no column on the works schedule about two words and there never has been.
+
+**STILL OPEN AND NOT TOUCHED BY 641–650:** the figure of the account · the reach of the return · whether the fourth condition was ever true of anybody's deed · who put the white tile up · **who cut the two words into the stone, which is a question on a piece of paper in six years and no answer on any page** · the keeper's six words · the year the composition of premises 34-6-118 began · his brother's file · **Ines Duarte's four questions, which stand open, are named as open at 643, and are answered nowhere in this volume and may not be closed by the close** · the anniversary at 2,047 · **and the wall itself, which §8 PERMITS VOLUME 13 TO OPEN AND WHICH 645, 648, 649 AND 650 ALL CARRY AND NONE OF THEM CLOSES: the form for the date the work was done goes in on the twenty-seventh of December under a number, the render comes off in the spring, the bottom course does not, a boy says he will be painting that corner in the ninth month of next year, and there is nothing on any form in this city about four inches of dressed stone.**
+
 # VOLUME 13 CHAPTERS 631–640 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS. `outline/volume-13.md` §7 MOVEMENT FOUR HAS BEEN REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** **REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log`: SIX FINDINGS APPLIED, TWO BLOCKERS AND ONE MAJOR AND THREE MINOR. THE BACKWARD-COMPARISON FOOTERS AT 635:175 AND 637:157 NAMED THE SEVENTH OF FEBRUARY AS DAY 1,836 AND IT IS **1,806**, FIXED BY FOUR EARLIER CHAPTERS; 635'S INTERVAL IS **211 = SEVEN MONTHS AND ONE DAY** AND 637'S 225 WAS RIGHT. **1,836 IS THE SEVENTH OF MARCH AND `chapter-0633.md`:221 USES IT CORRECTLY FOR A DIFFERENT EVENT AND IS UNCHANGED.** THE CHAPTER-554 TABLE BELOW HAD ROW (3) CHANGED FROM 2,851 TO 2,852, WHICH IS 636'S WORD COUNT; IT HAS BEEN RE-MEASURED FROM DISK AND REVERTED TO **2,851**, CONFIRMED AGAINST THE 546 COLUMN. **NO PROSE RESTARTED, NO EVENT MOVED, NO DATE RENUMBERED, NO TITLE CHANGED, NO PLOT CHANGED. THE BATCH IS 28,175 WORDS, NOT 28,174. FULL NARRATIVE AT `state/current.md` §0r.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 631–640, AND EVERY FIGURE IT CARRIES

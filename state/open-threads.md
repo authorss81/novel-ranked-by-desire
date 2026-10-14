@@ -1,3 +1,146 @@
+# VOLUME 13 BATCH 0005 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS. **CHAPTERS 641–650 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **650** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT INHERITS THE RECORDED §5c DISCREPANCY OF BATCH 0004 RATHER THAN PROPAGATING EITHER SET OF DATES. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE AND ZERO IN ITS TITLE LINES. THE ONE NEXT PHASE IS A VOLUME CLOSE FOR VOLUME 13, WHICH IS A SEPARATE PHASE, AND `state/complete.md` IS NOT CREATED HERE.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0. WHAT BATCH 0005 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
+
+**ROW 13 · A SCENE CHAPTER WILL WALK STRAIGHT INTO ITS OWN AUTHOR'S PREVIOUS SCENE IF THE WRITER HAS THE ROOM IN FRONT OF HIM AND NO SCAN RUNNING, AND A TWELVE-GRAM SCAN IS THE ONLY THING THAT FINDS IT AFTER THE FACT.** Chapter 643 is Ines Duarte's, fifty-nine chapters after her own last one at 584, in the same room, and the first draft came back with **174 shared twelve-grams** — the opening sentence, the two tables, the bracket lamp, the bundle of returns, the lamp and the corridor, the page squared to the edge of the table, the private note, the sleeve, the finger finding the line. **Every one of those is a staging, and not one of them is a sentence anybody could recognise as a quotation.** The repair was not a synonym pass. It was a decision: *in 584 she turned the page face down to get to him; in 643 she leaves the page open and moves him, because the rule does not say what may be happening at the other table.* **THE ROW EXISTS BECAUSE §4d IS READ BEFORE A BODY IS PLANNED AND THE SCAN IS STILL NECESSARY, AND THE PAIRING OF THE TWO IS THE ONLY THING THAT WORKED.**
+
+**ROW 14 · A HOUSE FORM CAN BE A GATE ROW, AND CHANGING IT COSTS NOTHING AND BUYS A CHAPTER.** The quotation-parity row reads 0 unbalanced paragraphs across 601–640. That is not a preference; it is a fact about how this book sets speech, and this book never lets a sentence run across a paragraph boundary. **The first draft of this batch returned 41, and every one was closed with a short narrative beat and a varied speech tag between the halves, which also raised the paragraph count by thirty-one and took the batch from 76.2 to 89.4.** One house form, two gate rows, both improved by the same pass. That is worth writing down.
+
+**ROW 15 · FINDING I IS ANSWERED WITH COUNTS AND NOT WITH WORDS, AND THE FIRST DRAFT IS THE THING THAT HAS TO BE RECORDED.** The volume close audit found dramatic density falling at chapter 571 and never recovering. Batch 0005's first draft measured **54.8 quoted spans and 76.2 paragraphs a chapter** against batch 0004's 71.1 and 81.5 — down on both, on the last ten chapters of the volume, where nobody will be watching more carefully. **The repair converted narration into exchanges rather than padding paragraphs, and the final figures are 71.3 and 89.4 — the span row held exactly and the paragraph row is seven and nine tenths up — at a cost of nine chapters above the 2,700 ceiling, every one of which carries its reason.** **THE ROW EXISTS BECAUSE THE NEAREST MISS IS ALWAYS THE FIRST DRAFT AND A GATE THAT ONLY REPORTS THE FINISHED FIGURES HIDES IT.**
+
+**ROW 16 · A SPINE DISCREPANCY IS INHERITED BY NOT BEING PROPAGATED.** `outline/volume-13.md` §5c still carries batch 0004's five middle dates a day later than the page. **This batch reproduced neither set, edited §5c not at all, and re-derived 641–650 independently against thirty anchors.** The lesson is the one §5b already prints about methods that share a convention: a discrepancy that is copied forward stops being a finding and becomes a rule.
+
+## 0a. THE GATE, RE-RUN BY COMMAND
+
+```
+FILES            10 files, 641-650. `find chapters -name 'chapter-*.md' | wc -l` -> 650.
+                 One `# ` title line in every file. All ten end 0a. 62 `## ` headings, 62 unique.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 650.
+                 The ten match `outline/volume-13.md` §10, 10 of 10. No written chapter changed.
+BANK             counted per file and summed: 2,987 · 2,875 · 4,373 · 3,243 · 3,134 · 2,798 ·
+                 3,158 · 3,193 · 3,035 · 3,325. TOTAL 32,121. MEAN 3,212.1.
+                 0 below the 1,800 floor. ALL TEN above the 2,700 ceiling, each with a stated
+                 reason at `state/current.md` §0a: 643 is the scene and is exempt by rule, and
+                 the other nine are 98 to 625 words over because the density repair converted
+                 narration into exchanges. None is padded.
+DENSITY          quoted spans 70 · 66 · 99 · 64 · 69 · 66 · 84 · 66 · 67 · 62 = 713, mean 71.3.
+                 paragraphs 79 · 78 · 116 · 94 · 88 · 82 · 94 · 94 · 82 · 87 = 894, mean 89.4.
+                 Batch 0001 ran 44.7 and 63.9; batch 0002 ran 60.5 and 69.8; batch 0003 ran
+                 71.1 and 76.8; batch 0004 ran 71.1 and 81.5. **Spans held exactly. Paragraphs
+                 are seven and nine tenths up. THE FIRST DRAFT OF THIS BATCH WAS 54.8 AND 76.2,
+                 BOTH DOWN, AND THAT IS THE ROW THIS BLOCK EXISTS TO KEEP.**
+PARAGRAPHS       0 over ninety words. 0 over one hundred and twenty. 0 unbalanced quotation
+                 paragraphs. 46 over-ninety paragraphs in the first draft, all split and read;
+                 41 unbalanced quotation paragraphs in the first draft, all closed with a
+                 narrative beat and a varied tag.
+META             the class grep incl. `manuscript` and `opposition` -> 0 across all ten.
+                 The first draft returned four and all four were rewritten, not argued.
+WEEKNAMES        seven names, whole-word and stem, -> 0. The first draft carried three Tuesdays,
+                 two Mondays and a Thursday and all six became dates or nights of the month.
+AGES             eleven probe forms, `aged`, spelled-out ages, `year [0-9]`, old man/woman/boy/
+                 girl, years-old, he-is-a-number -> 0. The first draft had Yusuf Adeyemi give an
+                 age and it is now a duration.
+ARITHMETIC       30 anchors re-derived by two methods sharing no constant. 30 agree. 0 monotonic
+                 violations. Intervals 7+8+8+7+7+8+7+5+3 = 60 = 2,129 - 2,069. Seam 9.
+                 The January exception printed and applied to both methods, and the wrong
+                 convention printed beside it because it puts 601 at 2,133.
+                 *** NINETY-TWO PRINTED INTERVALS WERE RE-DERIVED ONE AT A TIME. TWO FAILED AND
+                 BOTH ARE REPAIRED; see `state/continuity.md` §0r. ***
+                 *** THE SPINE DISCREPANCY AGAINST §5c IS INHERITED AND NOT PROPAGATED. ***
+                 *** 2,047 IS THIRTEEN DAYS BEHIND 640 AND TWENTY-TWO DAYS BEFORE 641, FELL
+                 INSIDE THE TWELVE-DAY GAP BETWEEN 638 AND 639, AND NO CHAPTER OF 641-650 LANDS
+                 ON IT OR REACHES ACROSS IT. THE FUSE IS NOT RE-LIT. ***
+ACCOUNT          8,1xx 0. two hundred and eleven thousand 0. settl 0 in every inflection.
+RT / BODIES      right temple 0 book-wide. cuticle 4 files book-wide, unchanged. ostho 0.
+                 A hand flat on a table: 0 across all ten.
+REPETITION       there is no form 0 · nobody asked 0 · nobody has 1 · nobody/no one all-case 38 ·
+                 the record remained 0. Batch 0004's closing row was 1 · 0 · 6 · 47 · 0.
+                 **EVERY ONE IS LEVEL OR DOWN AND THE SLOGAN IS AT ZERO FOR THE FIRST TIME IN
+                 THE VOLUME. THE FIRST DRAFT WAS 4 · 1 · 13 · 54.**
+MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk markers even.
+                 Straight double 0 and straight apostrophes 0 in prose AND in the title lines.
+                 Book-wide at 650: 56,016 straight double and 8,050 curly double, the batch
+                 contributing zero straight and 1,426 curly. 8,050 - 1,426 = 6,624, which is
+                 the row recorded at 640 exactly.
+SYSTEM PANELS    0 in ten. Volume budget five, none spent.
+SCENE            643 measured three ways from disk with the line span printed beside every cell:
+                 eight `##` at lines 15, 49, 73, 99, 123, 135, 153, 217; 256 lines.
+                 (A) first ## to last ## exclusive, 16-216, 3,215; inclusive, 15-217, 3,220.
+                 (B) the scene section inclusive, 135-216, 1,491 (exclusive 136-216, 1,487).
+                 (C) exclusive through to end of file, 16-256, 3,973; to the last prose line,
+                 16-249, 3,757. Whole file 4,304.
+                 Set B at word boundary across all ten: 0, and 0 in 643.
+                 Parity: 603 returns cock 1, 623 and 633 return 0.
+DUPLICATION      12-gram FIRST against all 640 other chapters, body-only, headings and italic
+                 footers stripped, token-normalised, THEN 11 and 8. Every hit classified by
+                 hand. **FIRST PASS 67 CROSS-FILE PAIRS; FIFTEEN CLASSES WERE PROSE OR STAGING
+                 AND WERE REWRITTEN; the worst of them is 643 against 584 at 174 grams, now 33,
+                 and all 33 are canon.** Full classification at `state/current.md` §0r.
+```
+
+## 0b. WHAT THIS BATCH CLOSED, AND WHAT IT MAY NOT CLOSE AGAIN
+
+**THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS, AND IT IS AT 644:**
+
+> **HE WROTE THE FOUR OF HIS OWN FOUR CONDITIONS OUT AT THE FOOT OF THE TWENTY-FOURTH SHEET, IN THE HAND OF THE OFFICE, TOOK THE FOURTH OF THEM FROM THE FIRST LETTER TO THE LAST WITH ONE STROKE, WROTE HIS OWN NAME AND THE DATE UNDER IT, AND WROTE NOTHING IN THE TWO INCHES WHERE IT HAD BEEN.**
+>
+> **WHAT IT CLOSES:** the option of the fourth line — *and it is not on a page anywhere in this city* — standing in any yard, on any board, in any hand, for ever. **WHAT IT COSTS:** every claim that rested on it dies at once, and the only one that mattered was always going to be a claim by a person who cannot read, and about nine hundred people who can read a shutter know exactly who took it off. **IT IS NOT A CLIMB, NOT A DEFEAT OF EMIL BRACK, NOT AN ENDING, AND NOT A CLEAN SHEET IN ANY SENSE A COMFORTER WOULD RECOGNISE.**
+
+**AND THE THREE THAT CAME BEFORE IT AND STAY CLOSED:**
+
+> **THE OPTION OF THE FOURTH LINE BEING PUT BACK ON ANY BOARD IN ANY HAND.** Closed at 630, refused again at 632, **and closed for good at 644**, and the yard did the rest on the ninth of November without asking anybody.
+>
+> **THE OPTION OF THE FIGURE AT THE HEAD OF THE SHEET BEING EXPLAINED IN A YARD WITHOUT THE YARD DECIDING FOR ITSELF.** Closed at 638.
+>
+> **THE OPTION OF PUTTING THE OFFICE'S FIGURE ON A WALL.** Refused on purpose at 640 in about four seconds, and at 649 there is still no column on a works schedule for two words.
+
+**AND THE STANDING INSTRUCTIONS CARRIED AND NOT BROKEN:**
+
+> **A CHAPTER OF 601–650 DOES NOT GO UP THOSE TWO FLIGHTS A SECOND TIME.** 641–650 name the fourth of March twice, at 645 and at 650, as something the holding bought. The stair is not climbed.
+>
+> **THE HEAD OF THE STANDING SHEET IS EIGHT HUNDRED AND FIFTY-TWO AND IT DOES NOT MOVE IN 641–650.** It is 852 at 641, at 647 and at 650, and the second column has two lines in it at 601 and two in it at 650, **because what went on at 644 went on at the foot.**
+
+## 0c. MAY NOT HAPPEN AT ALL, CARRIED WHOLE
+
+Either repainting box filled, for ever · the figure of the account printed · `settle` in any inflection · a floor, a ledger total or a running balance · a day of the week · a year numeral in the prose · an announced age · `right temple` · a fifth `cuticle` · `ostho` · **Mavis Rooke's hand-flat on a table, and no hand flat on anything** · a second conversation with the man with the broom · Brack thanked, diminished, defeated or wrong · a new enemy · a partner who dies · **the eighth of October or the tenth of October again, and no chapter of 641–650 lands on 2,047 or reaches across it** · a second time up the two flights off Cordwain · a fifth verbatim printing of the invented-figures sentence · the four lines re-quoted as a standing instruction · **a scene at any chapter other than 643** · a second explicit passage in any chapter that is not the scene · a new figure at the head of the standing sheet · any answer to Ines Duarte's four questions · **any chapter of the volume close that reopens the woman two flights up off Cordwain, who is not in 641–650 and must not be in the close** · **and `outline/ending.md`, which no phase that uses this file may touch.**
+
+## 0d. THE FIGURES AND DATES THE VOLUME CLOSE INHERITS, AND EACH ONE IS SPENT OR UNSPENT
+
+```
+SPENT, MAY NOT BE PRINTED AGAIN IN VOLUME 13
+  the lane's mornings     printed at 609, 614 and 626. 631-640 printed none. 641-650 print none.
+  the office's age        printed at 601, 614, 626 and 638. IT IS SPENT FOR THE VOLUME.
+  the wall's headcount    printed at 605 only, with its reason.
+  the four hundreds       printed nowhere and derivable nowhere in 601-650. The thirty-one bare
+                          `four hundred` strings in 641-650 are ordinary quantities — four
+                          hundred days, four hundred and nineteen lines, four hundred people,
+                          four hundred houses, four hundred walls, four hundred and ninety
+                          times — and not one of them is the rate at the wall or the total since
+                          the first of January.
+ALIVE, AND THE CLOSE MAY USE IT
+  2,160 = 1 February of year seven = 6 x 360 exactly. The first exact figure this office has
+  ever printed. Thirty-one days after the last chapter, and NOT the first of January.
+  852 at the head of the sheet, unmoved across eight quarters, with six lines at the foot of
+  which the fourth is struck through and nothing stands where it was.
+  62 monthly forms stacked inside one wall, two empty squares on every one of them.
+  the thumb-nail slip with a number on it, from the twenty-seventh of December.
+OPEN AND PERMITTED, AND IT IS THE ONE §8 ALLOWS
+  THE WALL. The ranks wall comes down in the spring for making good; the two words are cut into
+  four inches of dressed stone at the foot of the lowest course that making good does not touch;
+  there is no column on any form in this city for two words; the painting is a Bureau contract
+  in a building nine streets from the works department and the two have not sent a paper to each
+  other in nine years; a boy says he will be painting that corner in the ninth month of next
+  year with the sixtieth month of empty squares in it. Opened at 639 and 640, carried at 645,
+  648, 649 and 650, AND NOT CLOSED.
+FUSE NOT RE-LIT
+  2,047 = 8 October = the anniversary. Thirteen days behind 640, twenty-two days before 641,
+  inside the gap between 638 and 639, named by nobody, and no chapter of 641-650 lands on it
+  or reaches across it.
+NOT THE CLOSE'S TO WRITE
+  a volume-close prompt. A close for Volume 13 is a separate phase and this batch did not
+  write one and did not create `state/complete.md`.
+```
+
 # VOLUME 13 BATCH 0004 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS. **CHAPTERS 631–640 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **640** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT CARRIES A RECORDED DISCREPANCY AGAINST §5c RATHER THAN A SILENT ONE. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, CHAPTERS 641–650, WHICH CLOSES THE VOLUME, AND NOTHING ELSE EXISTS.** **REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log`: SIX FINDINGS APPLIED. THE TWO BACKWARD-COMPARISON FOOTERS NAMED THE SEVENTH OF FEBRUARY AS 1,836 AND IT IS **1,806**; 635'S INTERVAL IS **211 = SEVEN MONTHS AND ONE DAY**, NOT 181 = SIX; 637'S 225 STOOD. **1,836 IS THE SEVENTH OF MARCH AND 633 USES IT CORRECTLY FOR A DIFFERENT EVENT AND IS UNCHANGED.** THE AGES ROW IS CORRECTED IN THE CARD AT `outline/batches/volume-13-batch-0004.md`:116: IT IS NOT ZERO. THE BOY ANNOUNCES HIS OWN AGE THREE TIMES AT `chapter-0639.md`:43, :85 AND :87 AND HE IS NOT IN `bible/characters.md`, SO THIS IS THE DISCLOSED EXCEPTION THE SPLIT RULE IN THE AGES ROW BELOW DOES NOT PERMIT, AND IT IS HANDED TO THE NEXT PHASE RATHER THAN CERTIFIED FALSE. THE BANK IS RE-RUN: 635 IS 2,601 AND THE TOTAL IS **28,175**, MEAN 2,817.5. NO PROSE RESTARTED, NO PLOT CHANGED. FULL NARRATIVE AT `state/current.md` §0r.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0. WHAT BATCH 0004 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
