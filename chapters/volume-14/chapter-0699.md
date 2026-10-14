@@ -82,7 +82,7 @@ There is a woman with a pencil off a street two streets wide who has about nine 
 
 And there is a board by a kerb that ninety people a day can read from the other side of a street, and a boy who will not be asked.
 
-*Two thousand four hundred and eighty-three days. Less two thousand four hundred and fifty-five, the twenty-sixth of November of the seventh year, is twenty-eight days, and a man with a folder drew a finding on the fourth of December out of four lines and one word.*
+*Two thousand four hundred and eighty-three days. Less two thousand four hundred and sixty-three, the fourth of December of the seventh year, is twenty days, and a man with a folder drew a finding on that morning out of four lines and one word.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is eighty-four days, which is two months with twenty-four days after them, and the twenty-seventh sheet has been face up on a rail in a passage off Cordwain for all of them with three lines in the second column of it and eight hundred and fifty-two at the head.*
 

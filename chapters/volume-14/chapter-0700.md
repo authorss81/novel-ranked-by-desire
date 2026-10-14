@@ -74,7 +74,7 @@ Nobody thanked anybody. That was the arrangement and it had been the arrangement
 
 *Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is seven hundred and seventy-one days, which is twenty-five months with twenty-one days after them, and it is the morning he wrote four sentences in his own hand and put a man’s name under one of them, and about four hundred kitchens in this city have the foot of that page written out in a hand that is not his.*
 
-*Four hundred and eleven is also the figure that stands in the last footer of the twenty-fourth sheet, where it was measured from that other November and was right then. Two figures, two anchors, and a chapter that prints the numeral names which one it means.*
+*Four hundred and eleven is also the figure that stands in the last footer of the twenty-fourth sheet, where it was measured from that other November and was right then. One figure, two printings, two anchors, and a chapter that names which of them it means.*
 
 ## The Corner
 
@@ -94,4 +94,4 @@ A man on a bench wrote them on a docket the size of a folded sheet, so that a wa
 
 The paper came out of a box under a counter in a yard nine streets from a works department on the seventeenth, and it is in the inside coat of a rank-one officer, and he has not read the date on it and he is not going to.
 
-And there is no column anywhere in this city for a word on a stone.
+About four thousand of them are still under that counter, and one of them is the docket for whoever took the block away, and the man who keeps them told him not to come back for the rest of it.

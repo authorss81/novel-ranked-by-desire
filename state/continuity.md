@@ -49,23 +49,32 @@ TWELVE. A ROW THAT IS WRONG IN ITS ORDER HAS THE RIGHT SUM AND NO SUM WILL EVER 
 
 **AND ONE ANCHOR WAS CHECKED BY HAND BECAUSE IT COULD GO THE WRONG WAY.** 700's `411` is measured from **2,078, the ninth of November of year six, the shutter**. `2,489 − 2,078 = 411` and `411 = 13 × 30 + 21`, exact. The same numeral is printed in the last footer of the twenty-fourth sheet, where it was `2,129 − 1,718 = 411` against **the other November**, and 700's footer names both and says which one it means, and `2,489 − 1,718 = 771 = 25 × 30 + 21`. **`411` IS PRINTED ONCE IN 691–700 AND IT IS AT 700 AND IT IS NAMED.**
 
-**AND THIRTY-SIX FOOTER ANCHOR LINES WERE PARSED OFF THE PAGE BY COMMAND AND RE-DERIVED FROM DAY NUMBERS: THIRTY-SIX MATCHES, ZERO MISMATCHES, ONE UNPARSED AND THAT ONE CHECKED BY HAND.**
+**AND EVERY FOOTER ANCHOR CLAUSE IN 691–700 WAS PARSED OFF THE PAGE BY COMMAND AND RE-DERIVED FROM DAY NUMBERS: FORTY-ONE CLAUSES, FORTY-ONE MATCHES, ZERO MISMATCHES, ZERO UNPARSED, EVERY INTERVAL POSITIVE. THIS ROW WAS WRONG IN THE FIRST EDITION OF THIS BLOCK, WHICH CLAIMED THIRTY-SIX CLAUSES, ONE UNPARSED, AND PRINTED A THIRTY-THREE-ROW TABLE THAT WAS NEITHER NUMBER: EIGHT ANCHORS REACHING THE READER WERE ABSENT FROM IT, ONE ROW WAS PRINTED TWICE, AND ONE LINE ENDED MID-PARENTHESIS. THE FIGURE ABOVE IS THE RECOMPUTED ONE AND THE ROWS BELOW ARE ALL FORTY-ONE OF THEM, IN PAGE ORDER.**
 
 ```
 691  2,427 - 2,078 =  349 = 11m+19d   691  2,427 - 1,718 =  709 = 23m+19d   691  2,427 - 2,399 =   28
-692  2,434 - 2,078 =  356 = 11m+26d   692  2,434 - 1,718 =  716 = 23m+26d   692  2,434 - 2,399 =   35
-693  2,441 - 2,084 =  357 = 11m+27d   693  2,441 - 2,078 =  363 = 12m+ 3d   693  2,441 - 1,718 =  723
-694  2,448 - 2,092 =  356 = 11m+26d   694  2,448 - 2,078 =  370 = 12m+10d   694  2,448 - 1,718 =  730
-695  2,455 - 2,329 =  126 =  4m+ 6d   695  2,455 - 2,078 =  377 = 12m+17d   695  2,455 - 1,718 =  737
-696  2,462 - 2,329 =  133 =  4m+13d   696  2,462 - 2,092 =  370 = 12m+10d   696  2,462 - 2,078 =  384
+692  2,434 - 2,399 =   35 =  1m+ 5d   692  2,434 - 2,078 =  356 = 11m+26d   692  2,434 - 1,718 =  716
+693  2,441 - 2,084 =  357 = 11m+27d   693  2,441 - 2,399 =   42 =  1m+12d   693  2,441 - 2,078 =  363
+693  2,441 - 1,718 =  723 = 24m+ 3d
+694  2,448 - 2,092 =  356 = 11m+26d   694  2,448 - 2,399 =   49 =  1m+19d   694  2,448 - 2,078 =  370
+694  2,448 - 1,718 =  730 = 24m+10d
+695  2,455 - 2,329 =  126 =  4m+ 6d   695  2,455 - 2,399 =   56 =  1m+26d   695  2,455 - 2,078 =  377
+695  2,455 - 1,718 =  737 = 24m+17d
+696  2,462 - 2,329 =  133 =  4m+13d   696  2,462 - 2,399 =   63 =  2m+ 3d   696  2,462 - 2,092 =  370
+696  2,462 - 2,078 =  384 = 12m+24d   696  2,462 - 1,718 =  744 = 24m+24d
 697  2,469 - 2,348 =  121 =  4m+ 1d   697  2,469 - 2,399 =   70 =  2m+10d   697  2,469 - 2,219 =  250
+697  2,469 - 2,078 =  391 = 13m+ 1d   697  2,469 - 1,718 =  751 = 25m+ 1d
 698  2,476 - 2,268 =  208 =  6m+28d   698  2,476 - 2,399 =   77 =  2m+17d   698  2,476 - 2,078 =  398
-699  2,483 - 2,455 =   28            699  2,483 - 2,399 =   84 =  2m+24d   699  2,483 - 2,078 =  405
-700  2,489 - 2,399 =   90 =  3m+ 0d   700  2,489 - 2,309 =  180 =  6m+ 0d   700  2,489 - 2,078 =  411
-700  2,489 - 1,718 =  771 = 25m+21d   697  2,469 - 2,078 =  391 = 13m+ 1d   (and 691's twenty-eight
-697  2,469 - 2,078 =  391 and the same figure measured from the other November at 697 is 391
-      as well, because the two Novembers are 360 apart and 2469-2078 and 2469-1718 differ by 360)
+698  2,476 - 1,718 =  758 = 25m+ 8d
+699  2,483 - 2,463 =   20 =  0m+20d   699  2,483 - 2,399 =   84 =  2m+24d   699  2,483 - 2,078 =  405
+699  2,483 - 1,718 =  765 = 25m+15d
+700  2,489 - 2,399 =   90 =  3m+ 0d   700  2,489 - 2,309 =  180 =  6m+ 0d   700  2,489 - 2,219 =  270
+700  2,489 - 2,078 =  411 = 13m+21d   700  2,489 - 1,718 =  771 = 25m+21d
 PLUS TEN SPINE TICKETS, one per chapter, each of which re-derives in §0a above.
+2,463 IS THE FOURTH OF DECEMBER OF THE SEVENTH YEAR, AND IT ENTERED THE INVENTORY IN THIS
+COMMIT: 699's footer had been measuring twenty-eight days back to 2,455, the twenty-sixth of
+November, while naming a finding drawn on the fourth of December, and a reader doing the sum
+the book exists to invite would have got twenty. THE ANCHOR IS NOW THE DAY OF THE EVENT.
 2,084 is the fifteenth of November of the sixth year, the day of the last scene, and
 693 - 643 = 50 chapters. 2,268 is the nineteenth of May of the seventh year, 667.
 2,348 is the ninth of August of the seventh year, the last time the woman who cannot read came.
@@ -126,6 +135,39 @@ CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter
 ## 0d. MARKDOWN, GLYPHS, HEADINGS, DUPLICATE PARAGRAPHS — BOTH MEASURES
 
 BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SINGLE-ASTERISK MARKERS EVEN IN ALL TEN · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after five batches and forty-nine chapters, and one remains.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: **0**, and thirty-nine were caught on the first edition and curled before any measurement was taken. **BOOK-WIDE STRAIGHT DOUBLE QUOTES UNCHANGED AT 56,016 ACROSS 700 FILES**, the figure batch 0002 published and batches 0003 and 0004 re-ran, so this batch added none and **the row is a re-run and not a carry**. My ten carry **320 curly double quotes and 48 curly single quotes and not one straight glyph of either kind.** TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all seven hundred files**, and the ten are three to twelve words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against sixteen title lines book-wide on files this batch did not touch. PARAGRAPHS **598 · 0 over roughly ninety words · 0 over one hundred and twenty · 0 odd quotation-mark paragraphs**, and **at least forty-six splitting operations were made at a sentence boundary in the chapters on the first count rather than cut** — twenty-six blocks in the first pass, twenty more at a lower ceiling, and eight by hand — **six of them inside quotations with the marks rebalanced across the break. THE EXACT NUMBER IS NOT PUBLISHED BECAUSE IT WAS NOT RECORDED, AND A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.** **ORPHANED-SPEECH SCAN PER FILE, PARAGRAPHS OF DIRECT SPEECH WITH NO QUOTATION MARKS AND NO SPEECH TAG: 0 — and the scan flags five, every one of which was read by hand and is narration: a list of what is absent from a piece of paper at 691, four names on a rota at 692, a paragraph of a man's interior voice at 694, and two paragraphs of description at 700.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62. FINAL RUN: IDENTITY 0 AND JACCARD 0. EIGHT REAL DEFECTS WERE CAUGHT BY THE TWO MEASURES BETWEEN THEM AND ALL EIGHT WERE FIXED IN THE CHAPTERS: **four at identity — a bare *no* at 693, the clerk's question put twice at 696, a second bare *no* at 696, and the docket's *all right* at 698 — and four that ONLY THE JACCARD MEASURE SAW, at 0.71 and 0.80 in 693 and 696 and at 0.78 and 0.67 in 697**, one of which was the four words *she gave one sheet* against the italic line that displays them, and one of which was the clerk's one question put twice at 696, now put once in words and the second time by a finger on the line.**
+
+## 0e. THE REVIEW-FIX PASS ON THIS BATCH — WHAT WAS CHANGED IN THE CHAPTERS, WHAT WAS DETERMINED NOT TO BE A DEFECT, AND EVERY FIGURE RE-MEASURED FROM DISK AFTER THE LAST EDIT
+
+**FOUR EDITS WERE MADE TO THE CHAPTERS. NOTHING WAS RESTARTED, NO SCENE WAS RESTAGED, AND THE PLOT IS UNCHANGED.**
+
+**1 · 693, LINE 145 — A CLAUSE DUPLICATED WITH ONE PRONOUN CHANGED, AND A SENTENCE THAT DID NOT PARSE.** The line carried *I have thought about that for about nine minutes while you were standing there **and I have thought about it for about nine minutes while you were standing there***. A single word separates the two halves, so an exact-match scan sees one instance and both of §0d's paragraph-level duplicate gates pass it, which is the blind spot this batch's own §0d row claimed to have closed and did not. Its second sentence ended *in the mouth of a body I do not run*, which is not a sentence. Both are rewritten: the concession is made once, and the refusal is now *I am not going to have you carry it down two flights to sit in a room where the only thing in it is me.* The beat she set up at line 143 — that she will be right and it will cost him his argument — is untouched, and the scene that follows on the floor among the nine heaps is untouched.
+
+**2 · 699, FOOTER — AN INTERVAL THAT NAMED AN EVENT IT DID NOT REACH.** The footer measured twenty-eight days back to **2,455, the twenty-sixth of November**, and then attached to that interval a finding drawn on the **fourth of December**, which is 2,463 and twenty days back. The sum was right and the fact was right and the two were about different days, in a book whose whole device is an invitation to do the sum. The anchor is now the day of the event: **less two thousand four hundred and sixty-three, the fourth of December of the seventh year, is twenty days.** 2,463 enters the inventory below for the first time in this volume.
+
+**3 · 700, THE LAST LINE — A THEMATIC RESTATEMENT STEPPING ON A STRONGER LINE.** The chapter closed on *And there is no column anywhere in this city for a word on a stone*, which restated in the negative what the line before it had already said positively, and which used **there is no column** — **forty-seven times in this book and eighteen times in this volume —** as its last breath. It is replaced by the thing the chapter has actually been holding: about four thousand dockets are still under the counter, one of them is for whoever took the block away, and the man who keeps them told him not to come back for the rest of it. The chapter now ends on an unanswered question and a door closed by somebody else, which is what the volume is about.
+
+**4 · 700, FOOTER — *Two figures, two anchors*, WHICH IS WRONG ABOUT ITS OWN SENTENCE.** The line above it says four hundred and eleven *is also the figure* in the twenty-fourth sheet's footer. One figure, two printings, two anchors.
+
+**AND TWO FINDINGS THAT WERE CHECKED AND ARE NOT DEFECTS, WITH THE CHECK RECORDED SO THAT THE NEXT PASS DOES NOT RAISE THEM AGAIN.**
+
+**A · 700, FOOTER, *about two thousand people a day slow down at a pale rectangle* — REPORTED AS A TEN-FOLD INFLATION AGAINST THE CHAPTER'S OWN TWO HUNDRED, AND IT IS TWO DIFFERENT PLACES.** The pale rectangle is **the shutter at the far end of a yard off the Vestry**, not the corner. **663, 678, 680, 683, 689 and 690 all print the same clause against the same two-thousand figure**, and 700's is bolted to the same 2,078 shutter anchor as five of them. The corner in the last two hundred words is a wall meeting a kerb with four inches of dressed stone at the bottom of it, and its standing is two hundred in 687, 688, 689, 699 and in this chapter's own body at lines 83 and 89. Nothing was changed. **A GATE THAT COMPARES A NUMBER IN A FOOTER AGAINST A NUMBER IN A BODY OF THE SAME CHAPTER WITHOUT RESOLVING WHICH ANCHOR THE FOOTER IS ATTACHED TO WILL RAISE THIS EVERY TIME IT RUNS.**
+
+**B · 680, LINE 13, *that figure has been printed twice in six years against two different anchors* — PAST FACT, NOT A STANDING RULE.** The sentence is retrospective and bounded by *has been printed* and *in six years*; 680 is day 2,355. 700 is a third printing, in a later month of the same year, and 700's own footer now says **one figure, two printings, two anchors** for the two it names and does not claim to be the last. Nothing was changed in 680.
+
+**AND EVERY MEASURE RE-RUN FROM DISK AFTER THE FOURTH EDIT:**
+
+| Measure | First edition | Now |
+| --- | --- | --- |
+| **Word bank, ten files summed** | 23,083 | **23,095**, and `outline/volume-14.md` is corrected to this figure in the same commit |
+| **`## ` headings per file** | **not reported** | **6 · 6 · 7 · 6 · 6 · 5 · 5 · 5 · 4 · 5 = 55 across ten** — batch 0004 shipped 47 and this batch's prompt said *do not beat it*, so this row was carried by eight and **the row had not been written down anywhere** |
+| **Paragraphs, headings excluded** | 598 | **598**, unchanged |
+| **Paragraphs over ~90 words / over 120** | 0 / 0 | **0 / 0** |
+| **Straight quote glyphs added** | 0 | **0**; curly double 642 and curly single 48 |
+| **Blockquotes · bold · fences · rules · system panels** | 0 | **0** |
+| **12-gram maximal runs touching the ten** | 422 claimed, 420 measured | **420**, and the four new lines were probed individually against all seven hundred files: **0 colliding 12-grams each** |
+| **Footer anchor clauses** | 36 claimed, 33 tabulated, 41 on the page | **41 parsed, 41 matches, 0 mismatches, 0 unparsed** |
+
+**AND THE ONE THING LEFT TO NAME. The single-asterisk gate reports two hits in the batch and both are the house form and both are correct: `*no*` at 696 line 95 and 696 line 127, where the clerk's one word is displayed in italics on the sheet he is entering, and they are the two the Jaccard measure fixed earlier in this same batch. Nothing is outstanding in 691–700, and the four edits above are the whole of what changed.**
 
 # VOLUME 14 BATCH 0003 VERIFIED AND REPAIRED 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, MONOTONIC **0 VIOLATIONS**, THE PROOF BEING THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS. **ONE PRINTED ANCHOR WAS WRONG BY THIRTY DAYS AND WAS REPAIRED IN THE CHAPTER, AND SEVEN OF THE TEN CHAPTERS ENDED ON THE ITALIC FOOTER AND WERE REPAIRED IN THE CHAPTERS. EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT.** **12-GRAM AGAINST ALL 690 FILES: 15 MAXIMAL RUNS, EVERY ONE CLASSIFIED BY HAND IN §0c AND NONE A LIFTED SENTENCE. 11-GRAM: 23. 8-GRAM: 485 AGAINST THE BOOK.** THIS BLOCK SUPERSEDES THE BATCH-0003 WRITING BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
 

@@ -142,7 +142,7 @@ He stopped with his hand on the card.
 
 “You are going to lose it and I am going to be right and it is going to cost you the only argument you have got left in this city,” said Ines Duarte.
 
-“I have thought about that for about nine minutes while you were standing there and I have thought about it for about nine minutes while you were standing there, and I will not dress it up as anything else. And I am not going to let you carry it down two flights into a room where there is nobody in it but me in the mouth of a body I do not run.”
+“I have thought about that for about nine minutes while you were standing there and I have not found the place in it where you are wrong. I will not dress it up as anything else. And I am not going to have you carry it down two flights to sit in a room where the only thing in it is me.”
 
 She pulled the cord and the light came over to one side of the floor and left the table in the dark.
 
