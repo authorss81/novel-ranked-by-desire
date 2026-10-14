@@ -10,9 +10,17 @@
 
 **THE SAME MERGED-PARAGRAPH DEFECT IS IN VOLUME 14 AT THREE SITES: `chapter-0665.md:58`, `chapter-0665.md:79` AND `chapter-0666.md:59`.** Each is a dialogue paragraph beginning on the line directly after a completed sentence with no blank line between. **Volume 14 is closed, audited and five times re-dispatched, and its prose is not this phase's to edit, so nothing was changed.** This is the only place the defect exists outside 741–750 and it is recorded here so that Volume 14's next pass or its own close audit can take it. **Owner: Volume 14, on its own authority. It is not carried by any Volume 15 or Volume 16 chapter and nothing downstream depends on it.**
 
-**AND ONE MEASUREMENT DECLINED.** A book-wide twelve-token scan of 743 finds 17 shared runs across seven chapters — 753 at 6, 693 at 4, 666 and 733 at 2, 696 and 759 at 1 — worst pair six, inside what the volume tolerates. **753 is a downstream Volume 16 chapter whose text this phase does not own, and cutting a closed batch to move that number would be a change made for the instrument rather than for the reader. Declined and recorded.**
+**AND ONE MEASUREMENT DECLINED, WHICH THE BLOCK ABOVE NOW CLOSES FROM THE OTHER SIDE — SEE THE HEAD OF THIS FILE.** A book-wide twelve-token scan of 743 finds 17 shared runs across seven chapters — 753 at 6, 693 at 4, 666 and 733 at 2, 696 and 759 at 1 — worst pair six, inside what the volume tolerates. **753 is a downstream Volume 16 chapter whose text this phase does not own, and cutting a closed batch to move that number would be a change made for the instrument rather than for the reader. Declined and recorded.**
 
 # VOLUME 16 BATCH 0001 ON DISK, AND REPAIRED — **THE VOLUME-WIDE GATE, RE-RUN BY COMMAND AFTER THE REVIEW-FIX PASS OF 14 OCTOBER 2026. CHAPTERS 751–760 ARE WRITTEN. THREE THREADS MOVED, ONE CLOSED, ONE OPENED, NONE OF THE TEN MUST-NOTS WAS BROKEN, AND NOTHING WAS CLOSED BY THE REPAIR.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. **THE MONTH CLOCK IS NOW A MONTHLY COUNT AND NOT A STOCK, AND THE REPAIR PASS ADDED A SIXTH FAILURE TO THE FIVE BELOW.**
+
+## ONE MEASUREMENT DECLINED BY VOLUME 15 IS CLOSED FROM THIS SIDE, 14 OCTOBER 2026, AND NO CLOSED BATCH WAS MOVED TO CLOSE IT
+
+**VOLUME 15'S BATCH-0005 PASS FOUND 743 SHARING TWELVE-TOKEN RUNS WITH SEVEN CHAPTERS, WORST PAIR 753, AND DECLINED TO CUT IT — AT `state/open-threads.md`:13 AND `state/current.md`:408 — BECAUSE 753 IS A DOWNSTREAM VOLUME 16 CHAPTER WHOSE TEXT THAT PHASE DID NOT OWN. THAT REASONING WAS CORRECT AND IT STANDS, AND IT NAMED THE SIDE THAT COULD FIX IT.**
+
+**THIS PHASE OWNS 753 AND HAS NOW FIXED IT FROM HERE.** What 753 shared with 743 was one comic beat, *she said his rank out loud in the middle of it and laughed, because a man of rank one making that noise is a thing a [lift worker / a woman who certifies things] finds funny* — **and the same beat had already run twice, at `chapter-0733.md`:125 and `chapter-0743.md`:129. 753 was the third telling of one joke across three volumes, which is what the axis row catches and not the worst-pair count the earlier pass was reading.** 753 now has its own: she says, in the voice she books a correction in, that she has no jurisdiction over anything taking place on that counter, and goes on with it without waiting to be told. `chapter-0733.md` and `chapter-0743.md` ARE CLOSED AND WERE NOT TOUCHED.
+
+**SO THE DECLINED MEASUREMENT IS NO LONGER CARRIED AND NO LONGER OPEN. THE STANDING ORDER IT IMPLIED IS KEPT AND IS THE ONE THE LATER PASSES OWE: WHEN ONE PHASE FINDS A DEFECT IN ANOTHER'S TEXT, IT RECORDS IT AGAINST THE OWNING PHASE AND DOES NOT EDIT ACROSS THE LINE IN EITHER DIRECTION.**
 
 ## THE THREAD VOLUME 15 OPENED IS PAID, AND IT IS PAID THE WRONG WAY
 

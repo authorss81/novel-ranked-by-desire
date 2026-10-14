@@ -77,7 +77,7 @@ They are in two different books in two different buildings about four hundred ya
 
 And he may not ask her anything. He is the only man in this city who may ask this office any question in the world, and the whole of what he is permitted with that is the office.
 
-“There are four addresses this office does not have. And one of them is a woman who has stood at a counter off a third court eleven times in eleven months and been told no eleven times, and the sentence that would go in the fifth field is hers,” he said.
+“There is a sentence about a woman in a book two streets away and a field about that same woman in a book in this room, and neither one of them can be reached from the other by anything a person is allowed to do. And the sentence that would go in the fifth field is hers,” he said.
 
 “The fifth field is in this room and she is not going to be asked about it by anybody, ever. And I have spent a morning finding out that the one thing in this building that was built for her has been sitting here empty for nine years with me on the wrong side of the room from it.”
 

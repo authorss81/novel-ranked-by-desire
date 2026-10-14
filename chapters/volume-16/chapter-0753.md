@@ -32,7 +32,7 @@ That is how a record gets corrected in a division building in Ostara and it is t
 
 Ines Duarte took the pen out of Wenna Raut’s hand and wrote in about forty seconds.
 
-*I have examined the bound Register of the office off a third court, and its standing quarterly sheet. That is about four hundred and thirty rows in the first and about four hundred and nineteen lines in the second.
+*I have examined the bound Register of the office off a third court, and its standing quarterly sheet. That is about four hundred and thirty rows in the first and about four hundred and nineteen lines in the second.*
 
 *I certify that not one of them is a deed, and that not one of the pieces of paper this office holds is a deed, and that this is correct and is not a defect. One row is incomplete in the middle and cannot be completed, and there is no instrument on which the officer of this office may supply the missing words, because the office may not ask the person it is about anything.*
 
@@ -136,7 +136,7 @@ She rode him with both palms down on the scrubbed deal either side of his hips a
 
 “Again,” she said. “That is the only one I have wanted out of you all afternoon.”
 
-He gave it to her and she took him deeper than the position allowed, her heels up on the edge of the counter, her forehead against the wood, and she said his rank out loud in the middle of it and laughed at herself for saying it, because a man of rank one making that noise is a thing a woman who certifies things finds funny.
+He gave it to her and she took him deeper than the position allowed, with her heels up on the edge of the counter and her forehead against the wood, and about halfway through it she said, in the voice she books a correction in, that she had no jurisdiction over anything taking place on that counter, and then she went on with it without waiting to be told.
 
 She came with her mouth open and let the whole of it go out of her into a room that was built for putting paper on, and the shutter did not take a single thing of it, and the floor gave a little back.
 

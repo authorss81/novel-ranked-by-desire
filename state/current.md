@@ -24,19 +24,19 @@ BANK counted per file from disk and summed, never from a concatenation. **THE BA
 | --- | --- | --- | --- |
 | 751 | 2,181 | 2,119 | 2,125 |
 | 752 | 2,097 | 2,031 | 2,036 |
-| **753** | **3,362** | **3,297** | **3,302** |
-| 754 | 1,916 | 1,862 | 1,869 |
+| **753** | **3,365** | **3,300** | **3,305** |
+| 754 | 1,924 | 1,870 | 1,877 |
 | 755 | 2,237 | 2,177 | 2,182 |
 | 756 | 2,049 | 1,996 | 2,002 |
 | 757 | 1,965 | 1,921 | 1,926 |
 | 758 | 1,868 | 1,831 | 1,837 |
 | 759 | 2,009 | 1,964 | 1,969 |
 | 760 | 2,172 | 2,113 | 2,120 |
-| **BATCH** | **21,856** | **21,311** | **21,368** |
+| **BATCH** | **21,867** | **21,322** | **21,379** |
 
 **RE-COUNTED FROM DISK AFTER THE REVIEW-FIX PASS OF 14 OCTOBER 2026. THE PREVIOUS TABLE WAS STALE ON FIVE ROWS — 752, 755, 756, 758 and 759 — AND THE PRE-FIX BATCH FIGURE OF 21,655 raw IS SUPERSEDED.** The `^##` column is the same basis with the section headings stripped and the title line counted, which is why it differs from `^#` by the heading words alone; 751, 753, 754 and 757 reproduce their pre-fix rows exactly, which is the check that the convention has not moved.
 
-BAND **nine of ten inside 1,800–2,700 on the basis of record. `chapter-0753.md` IS THE ONE CHAPTER OUTSIDE IT, AT 3,297 on the basis of record, AND THE REASON IS RECORDED HERE AS `outline/volume-16.md` §9 REQUIRES: it is the batch’s scene, its axis is the correction, and the rule in `AGENTS.md` is that a scene is never compressed to fit a band.** Volume 15’s one chapter outside the band was 743, the scene, at 3,752 on `^##`, and the reason is the same and is not re-litigated. **NO CHAPTER IS BELOW THE FLOOR AND NONE WAS PADDED TO REACH IT.**
+BAND **nine of ten inside 1,800–2,700 on the basis of record. `chapter-0753.md` IS THE ONE CHAPTER OUTSIDE IT, AT 3,300 on the basis of record, AND THE REASON IS RECORDED HERE AS `outline/volume-16.md` §9 REQUIRES: it is the batch’s scene, its axis is the correction, and the rule in `AGENTS.md` is that a scene is never compressed to fit a band.** Volume 15’s one chapter outside the band was 743, the scene, at 3,752 on `^##`, and the reason is the same and is not re-litigated. **NO CHAPTER IS BELOW THE FLOOR AND NONE WAS PADDED TO REACH IT.**
 
 PARAGRAPHS 0 over roughly ninety words and **0 over roughly one hundred and twenty, across all ten files, by `wc -w` per line**, re-run after the review-fix pass, which put three paragraphs over ninety and broke all three at a sentence. **QUOTATION-MARK PARITY EVEN PER PARAGRAPH: 10 unbalanced paragraphs found on the first sweep and all 10 repaired in the prose** — a speech split across two paragraphs was closing in the later one instead of the earlier, and Volume 15 carries **zero** unbalanced lines in 743, 747, 749, 716 and 693, so the house convention is that each paragraph carries its own pair and the ten were cut in the prose rather than by the gate. **Post-fix sweep returns zero unbalanced and zero orphan speech.**
 
@@ -143,6 +143,13 @@ Every standing figure this batch carries, counted per chapter and printed, with 
 - **Footer-to-footer, the longest contiguous footer overlap between any pair inside the batch is TWENTY-SIX TOKENS**, and it is the drawer clause, on thirty-seven of the forty-five pairs. **The earlier count of seven pairs was a sampling artefact of a reader that stopped at the first hit; the clause is in all ten footers and it is in every pair that shares it.**
 - 11-gram and 8-gram counts are reported as counts and not as a reading.
 
+**AND TWO MORE REPRISES FOUND ON RE-DISPATCH, 14 OCTOBER 2026, BOTH CUT IN THE PROSE. THE FIRST IS THE ONE VOLUME 15 DEFERRED TO THIS SIDE AND BOTH SIDES ARE NOW RIGHT.**
+
+1. **`chapter-0753.md` TOLD `chapter-0743.md`’s JOKE.** Volume 15's batch-0005 pass ran a book-wide twelve-token scan and found 743 against seven other chapters, worst pair 753 at six runs, and **declined to cut 743, correctly, because 753 is a downstream Volume 16 chapter whose text that phase did not own** — `state/current.md`:408, and that reasoning still stands. **This phase owns 753 and the finding is therefore resolved from this side rather than by moving a closed batch.** What the two chapters shared was one comic beat: *she said his rank out loud in the middle of it and laughed, because a man of rank one making that noise is a thing a [lift worker / a woman who certifies things] finds funny.* **AND THE SAME BEAT HAD ALREADY RUN TWICE BEFORE 753** — `chapter-0733.md`:125 and `chapter-0743.md`:129 — so 753 was the third telling of one joke in three volumes, which is the row that catches it and not the worst-pair number the earlier pass was reading. 753 now has its own: she says, in the voice she books a correction in, that she has no jurisdiction over anything taking place on that counter, and goes on with it without waiting to be told. It is funnier, it is hers, and it is her axis. **743 and 733 are closed and were not touched.**
+2. **`chapter-0754.md` AND `chapter-0757.md` SPENT THE SAME SENTENCE.** *There are four addresses this office does not have, and one of them is a woman who has come to a counter off a third court eleven times in eleven months.* The card assigns that beat to 757 and 757 keeps it. 754's line now says what 754's chapter is about — a sentence about a woman in a book two streets away and a field about that same woman in a book in this room, and neither reachable from the other by anything a person is allowed to do — which points at the two books on two floors instead of re-uttering 757's plain human sentence three chapters early.
+
+**AND ONE MALFORMED EMPHASIS SPAN FIXED: `chapter-0753.md`:35 opened an italic paragraph and never closed it on its own line, so the `*` at the head of `:37` was being swallowed as the closer and rendered as literal text.** The house pattern, proved on `chapter-0682.md`:15`–`:17 and `chapter-0690.md`:11`–`:15, is a self-contained italic paragraph with opener and closer on the same line. 753 now matches it, and the file's single-star count is **10, even**, against **9, odd**, before the fix. **A markdown row that reports parity is only worth running because a file can be odd and still look right on the page.**
+
 **AND THE STAGING ROW, WHICH NO GRAM CAN SEE, WAS READ BEFORE ANY BODY WAS PLANNED AND AGAIN AFTER.** 743’s branch office at night with the goods lift, the scissor gate, the rope over the wheel and the counterweight you hear before you see is **not restaged**, and 755’s four branch-office paragraphs give the three floors of washrooms, the stairwell, the bin room and the room at the end of the passage where the rota hangs, and none of 743’s furniture. 733’s hall over the counters, 723’s counting house, 713’s returns desk, 703’s filing floor, 693’s nine heaps on a floor, 683’s sorting room, 574’s division, 536’s car shed and 643’s anything are not restaged. **742’s laundry is on the page at 752 and 757, and the two chapters share no furniture sentence**, which took one rewrite, because 757 had begun with the bench and the ruler and the ledger and the eleven things in the drawer and now begins on a second landing of a different building.
 
 **AND THE ONE RESTAGING THE REVIEW FOUND, 759’s RAIL AGAINST 760’s RAIL, WHICH IS DELIBERATE AND WAS NOT DELETED.** The same eleven people, the same voice, the same two seconds of silence, six days apart, because the instrument of the reading does not change and only the page under it does. **The fix was to stop 759 staging 760’s rather than to lose either reading.** 759 no longer walks the page in order and no longer says *the counterman read the whole of the bottom of the page out loud to all eleven of them*; what it has instead is a man who had watched it nine times standing still for the whole of it for the first time, one paragraph for the reading, one for the silence. 760 keeps the full sequence, four sentences, six lines past the striking, the column read as an address, and then the line that was not on the page the first time. **A beat that repeats is a beat that is being paid; a beat that repeats with nothing added to it is a chapter re-explaining itself.**
@@ -153,13 +160,13 @@ Every standing figure this batch carries, counted per chapter and printed, with 
 
 | Definition | Line span | Words |
 | --- | --- | --- |
-| (1) first `##` to last `##`, **exclusive of both heading lines** | 6–158 | **2,897** |
-| (2) **single scene section, inclusive** — the same span with both heading lines counted | 5–159 | **2,914** |
-| (3) **exclusive of both, carried through to end of file** | 6–181 | **3,301** |
-| (3b) the same, stopping at the last prose line before the three italic footers | 6–175 | **3,141** |
-| whole file | 1–181 | **3,362** |
+| (1) first `##` to last `##`, **exclusive of both heading lines** | 6–158 | **2,900** |
+| (2) **single scene section, inclusive** — the same span with both heading lines counted | 5–159 | **2,917** |
+| (3) **exclusive of both, carried through to end of file** | 6–181 | **3,304** |
+| (3b) the same, stopping at the last prose line before the three italic footers | 6–175 | **3,144** |
+| whole file | 1–181 | **3,365** |
 
-**COUNTED WITH `wc -w` OVER THE LINE SPAN AND COUNTED A SECOND WAY IN WHITESPACE SPLIT BY PYTHON OVER THE SAME LINES. THE TWO METHODS AGREE ON EVERY CELL AND THE FIGURES ABOVE WERE RE-CUT FROM THE FILE AFTER THE LAST EDIT.**
+**COUNTED WITH `wc -w` OVER THE LINE SPAN AND COUNTED A SECOND WAY IN WHITESPACE SPLIT BY PYTHON OVER THE SAME LINES. THE TWO METHODS AGREE ON EVERY CELL AND THE FIGURES ABOVE WERE RE-CUT FROM THE FILE AFTER THE LAST EDIT, WHICH REPLACED 2,897 / 2,914 / 3,301 / 3,141 / 3,362. THE `##` HEADING LINES DID NOT MOVE — THE REPAIRS WERE INSIDE EXISTING PARAGRAPHS AND ONE CLOSING `*` — SO THE SPANS ARE UNCHANGED AND ONLY THE COUNTS ARE.**
 
 **THE AXIS IS THE CORRECTION AND IT IS CARRIED BY A RULE OF THE ROOM AND NAMED BY NOBODY:** a correction is entered by somebody other than the person it corrects, it is read back once to that person, the person may answer it, and the answer goes in under it, and neither the correction nor the answer may be improved afterwards. **IT IS NOT ONE OF VOLUME 12’s FIVE, VOLUME 13’s FIVE, VOLUME 14’s FIVE OR VOLUME 15’s FIVE, AND THE AXIS COLUMN IS THE ROW THAT CATCHES THE REUSE AND NO GRAM CAN.**
 
