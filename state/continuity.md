@@ -1,3 +1,61 @@
+# VOLUME 13 IS PLANNED AND CHAPTERS 601–650 ARE FUTURE. **THIS PHASE WROTE NO PROSE. THE SPINE AT THE HEAD OF THIS FILE IS PLAN, DERIVED IN THE PLANNING COMMIT BY TWO METHODS THAT SHARE NO CONSTANT, AND IT IS RE-DERIVED BY COMMAND AGAIN IN THE COMMIT THAT WRITES CHAPTER 601. `outline/volume-13.md` IS THE PLAN OF RECORD. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE VOLUME 13 SPINE, PLAN, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+METHOD B   absolute month index i = (y-1)*12 + pos(m);  day = 30*i + (d-1)  — contains no 360
+VOLUME 13 HAS NO CHAPTER IN A JANUARY. 601 IS 4 JANUARY OF THE JANUARY THAT ENDS YEAR FIVE.
+
+601   4 Jan y6 = 1773    611  11 Mar y6 = 1840    621  21 May y6 = 1910    631   8 Aug y6 = 1987    641  30 Oct y6 = 2069
+602  10 Jan y6 = 1779    612  17 Mar y6 = 1846    622  28 May y6 = 1917    632  16 Aug y6 = 1995    642   7 Nov y6 = 2076
+603  17 Jan y6 = 1786    613  24 Mar y6 = 1853    623   6 Jun y6 = 1925    633  24 Aug y6 = 2003    643  15 Nov y6 = 2084
+604  24 Jan y6 = 1793    614  30 Mar y6 = 1859    624  13 Jun y6 = 1932    634   1 Sep y6 = 2010    644  23 Nov y6 = 2092
+605  30 Jan y6 = 1799    615   7 Apr y6 = 1866    625  21 Jun y6 = 1940    635   9 Sep y6 = 2018    645  30 Nov y6 = 2099
+606   7 Feb y6 = 1806    616  15 Apr y6 = 1874    626  30 Jun y6 = 1949    636  16 Sep y6 = 2025    646   7 Dec y6 = 2106
+607  14 Feb y6 = 1813    617  22 Apr y6 = 1881    627   7 Jul y6 = 1956    637  24 Sep y6 = 2033    647  15 Dec y6 = 2114
+608  21 Feb y6 = 1820    618  29 Apr y6 = 1888    628  15 Jul y6 = 1964    638  30 Sep y6 = 2039    648  22 Dec y6 = 2121
+609  28 Feb y6 = 1827    619   6 May y6 = 1895    629  23 Jul y6 = 1972    639  12 Oct y6 = 2051    649  27 Dec y6 = 2126
+610   4 Mar y6 = 1833    620  13 May y6 = 1902    630  30 Jul y6 = 1979    640  21 Oct y6 = 2060    650  30 Dec y6 = 2129
+
+MONOTONIC, 0 VIOLATIONS OVER FIFTY CHAPTERS, BY BOTH METHODS.  SPAN 2129 - 1773 = 356 elapsed, 357
+inclusive.  SEAM 601-600 = 1773 - 1769 = 4 days after chapter 600.
+BATCH INTERVALS, EACH SUMMED AGAINST ITS OWN ENDPOINTS:
+  0001 601-610  6 7 7 6 7 7 7 7 6    = 60   and 1833-1773 = 60   seam 601-600 = 4
+  0002 611-620  6 7 6 7 8 7 7 7 7    = 62   and 1902-1840 = 62   seam 611-610 = 7
+  0003 621-630  7 8 7 8 9 7 8 8 7    = 69   and 1979-1910 = 69   seam 621-620 = 8
+  0004 631-640  8 8 7 8 7 8 6 12 9   = 73   and 2060-1987 = 73   seam 631-630 = 8
+  0005 641-650  7 8 8 7 7 8 7 5 3    = 60   and 2129-2069 = 60   seam 641-640 = 9
+  324 across the five batches plus inter-batch steps of 7, 8, 8 and 9 = 356.
+QUARTER-ENDS  30 Mar y6 = 1859 (614) · 30 Jun y6 = 1949 (626) · 30 Sep y6 = 2039 (638) ·
+              30 Dec y6 = 2129 (650).  FOUR, NOT FIVE: Volume 13 opens four days after the
+              twentieth sheet went out and does not include it.  ALL FOUR LAND ON A CHAPTER.
+              1769, 1859, 1949, 2039, 2129 — every interval is 90, and 30 + 30 + 30 = 90.
+SHEETS        614 = TWENTY-FIRST, 626 = twenty-second, 638 = twenty-third, 650 = TWENTY-FOURTH.
+              552 = 16th, 566 = 17th, 576 = 18th, 586 = 19th, 600 = 20th.
+LANE          first morning 3 October of the year before the first = day -118.
+              1773 - (-118) + 1 = 1,892 mornings at 601;  2129 - (-118) + 1 = 2,248 at 650.
+              PRINTED ONCE EACH, WITH OPERANDS, AND NOWHERE ELSE IN 601-650.
+OFFICE        1773 = 30 x 59 + 3 · 2129 = 30 x 70 + 29 · 2160 = 30 x 72 EXACTLY, on the first
+              of February of year seven — the first exact figure this office has ever printed.
+SCENES        603 · 613 · 623 · 633 · 643.  CADENCE 603-594 = 9, then 10, 10, 10, 10. IN BAND.
+              PER-WOMAN 603-36 = 567 · 613-63 = 550 · 623-525 = 98 · 633-118 = 515 ·
+              643-584 = 59.  REPORTED AND NOT CERTIFIED. No file here may say one of the five is
+              inside the eight-to-fifteen band, and the certification was withdrawn once already.
+ANNIVERSARIES the second line went up 8 Oct y1 = 247; its sixth anniversary is 247 + 1800 = 2,047.
+              The tenth of Oct y6 is 2,049.  NO CHAPTER OF 601-650 LANDS ON EITHER: 638 = 2,039 and
+              639 = 2,051, and both dates fall in the gap, and a chapter that brackets a gap may
+              not reach across it.  THE FUSE IS NOT RE-LIT AND NOTHING HAPPENS ON EITHER DATE.
+SIXTH OF MARCH year one, day 35.  1115 IS WITHDRAWN.  At 633, 2003 - 35 = 1,968 days.  At 643,
+              2084 - 35 = 2,049 days, and 2049 - 1800 = 249, which is five years, eight months
+              and nine days.
+```
+
+**AND THE ONE THING THAT WENT WRONG FIRST AND IS RECORDED BECAUSE IT IS THE FAILURE MODE.** The planning pass's first spine used the January convention `(y-1) × 360 + 330 + (d-1)` for chapter 601, which `outline/volume-12.md` §5b proves impossible, and came out four hundred and eighty days out. **It was caught because the check was run against the spine and not against the prose, and because METHOD B contains no 360 at all.** The same mistake was made and caught inside the Volume 12 close audit, in the same repository, four days earlier. *A derivation that produces a violation is not a derivation.*
+
+**AND WHAT IS CARRIED INTO 601–650 FROM 551–600, WHOLE:** the head at eight hundred and fifty-two unmoved since the thirtieth of March of the fifth year · about four hundred and nineteen accounts with an hour against each and no figure on any of them · **the second column has two lines** · the four sentences at the foot in the office's own hand · **both repainting boxes blank since the eighth of October of the first year and blank for ever** · the account figure never printed · `settle` at zero in every inflection · the wall's nine thousand a day with the reason, and the four hundred a day which is contradicted and not to be used · the white tile's maker unnamed · the keeper's six words not reopened after 554 · **the woman two flights up off Cordwain, whose thread Volume 13 pays at 615 and 617 and not anywhere else** · Mavis Rooke's hand-flat not used again, per `outline/volume-13.md` §4d.
+
 # VOLUME 12 CLOSE AUDIT HAS RUN. CHAPTERS 551–600 ARE ON DISK. **SPINE 1,406–1,769 RE-DERIVED TWICE BY METHODS SHARING NO CONSTANT: FIFTY OF FIFTY DATES AGREE, ZERO MONOTONIC VIOLATIONS, AND SEVENTY-THREE DERIVED FIGURES RUN AT ZERO FAILURES. THE 595 DECISION AND THE 594 SCENE ARE AS CARDED. BOTH BOXES BLANK AT THE END OF 600. `outline/ending.md` UNTOUCHED AND BYTE-IDENTICAL.** AUDIT AT `reviews/volume-12/volume-close.md`. NINE FINDINGS; **FIVE CORRECTIONS APPLIED IN THIS FILE AND IN `state/open-threads.md`, NONE OF THEM PROSE — THREE BY THE AUDIT AND TWO BY THE REVIEW PASS THAT FOLLOWED IT, WHICH FOUND SIXTEEN UNRE-DERIVABLE CELLS IN §0b'S OWN TABLE AND A DENSITY TABLE THAT CHANGED VALUE AT A TYPOGRAPHY BOUNDARY.** **`state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE THREE CORRECTIONS THE CLOSE AUDIT APPLIED TO THIS FILE, AND THE TWO A REVIEW PASS ADDED AFTER THEM

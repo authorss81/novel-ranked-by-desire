@@ -1,0 +1,434 @@
+# Volume Thirteen — The Fourth Line (chapters 601–650)
+
+> In this volume, **Lin Hao must put one unrecorded deed into a room that is allowed to ask him a question**, or **the fourth of his four conditions comes off every board in the city, and about nine hundred people who dug something in the cold find out that the man who wrote it cannot prove one word of it**
+
+**§1 TO §10 ARE WRITTEN BY A PHASE THAT WROTE NO PROSE. IT WROTE NO CHAPTER, RE-DATED NONE, RESTARTED NONE, AND IT DID NOT TOUCH `outline/ending.md`. EVERY FIGURE BELOW THAT CARRIES ONE WAS TAKEN OFF A PAGE, OUT OF `outline/ending.md`, OUT OF `reviews/volume-12/volume-close.md`, OR DERIVED HERE BY SUBTRACTION WITH ITS OPERANDS PRINTED. THE SPINE WAS RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT. §7 IS PLAN. A BATCH THAT FINDS A BETTER ANSWER ON THE PAGE TAKES IT AND REWRITES THIS FILE IN THE SAME COMMIT.**
+
+**THE STANDING INSTRUCTION IT IS WRITTEN UNDER, AND BOTH HALVES OF IT WERE EARNED:**
+
+> **A figure nobody re-computes is the figure that is wrong.**
+>
+> **A gate row that quotes the prose it is checking cannot catch the prose. And a gate that measures only its own batch cannot see what happened before it — which is how a house form changed at chapter 571 and four arithmetic gates passed it.**
+
+**`outline/ending.md` IS NOT TOUCHED BY THIS PHASE AND IS NOT TOUCHED BY ANY PHASE THAT USES THIS FILE.** Everything it fixes is canon and is inherited whole: Lin Wei alive and classified and never out of the Classification Wing · the reservoir returned in full at 486 and **never replenished** · Lin Hao at rank one on a branch night shift · the Church of the Quiet Number not dissolved, not vindicated and not converted into an institution · Ferreira lives · Sowe lives · **Adeyemi is Registrar of Unrecorded Merit** · no partner dies · no partner is left behind by a choice she does not explain.
+
+**THE PREVIOUS VOLUME CLOSED ITS OWN PROMISE TWICE, AT 560 IN A YARD AND AT 595 IN THE OFFICE'S OWN HAND, AND THE SECOND ONE IS THE ONE THIS VOLUME IS ABOUT.** `reviews/volume-12/volume-close.md` §11: *a man who makes up figures has his name printed under an admission in the hand of the office that was supposed to be the only honest instrument in Ostara.* **This volume takes that sentence apart in public, on the record, by people who are entitled to, and the man who wrote it does not get to be the one who says so.**
+
+---
+
+## 1. THE SENTENCE, AND THE FOUR THINGS THIS VOLUME IS NOT
+
+**THE ONE QUESTION THIS VOLUME OWES THE READER, STATED ONCE AND NOT RESTATED IN THOSE WORDS AGAIN:**
+
+> **Three of the four lines he wrote in forty days can be proved by the person making the claim. The fourth says a thing is not on a page anywhere in this city — and since the ninth of November of the fifth year the office itself has printed, in its own hand, that a figure in this city may be a figure somebody made up on purpose. Does the fourth line survive its own author?**
+
+**THE SECOND, WHICH VOLUME 12 OWED AND DELIBERATELY DID NOT PAY, AND WHICH IS PAID IN THE MIDDLE OF THIS VOLUME AND NOT AT THE END OF IT:**
+
+> **Does the woman two flights up off Cordwain ever learn what was done for her?** — `reviews/volume-12/volume-close.md` §11, item 1.
+
+**THE THIRD, WHICH HAS A DATE ON IT:**
+
+> **On the fourth of March of year six a man goes up two flights he has refused to go up twice, and there is nobody at the top of them.**
+
+**FOUR THINGS THIS VOLUME IS NOT, AND EACH ONE IS A WAY THIS MANUSCRIPT HAS ALREADY SPENT ITSELF.**
+
+1. **IT DOES NOT REOPEN CHAPTER 500 AND IT DOES NOT RE-ARGUE THE RETURN.** `outline/ending.md`:229–236 fixes the reach of the return as deliberately open to the end of the book, and Volumes 11 and 12 both held it. **No chapter of 601–650 may argue for or against the first of October, and no character may say the question is settled or that it is not.**
+2. **IT IS NOT A CLIMB.** He is rank one and stays there. **No chapter of 601–650 raises his band, buys a permission, offers him a standing, puts him back on a terrace, or moves him off the branch night shift he asked for.** The volume's one structural change in his circumstances is negative: a woman outranks him on paper for the first time in his life and it costs her more than it costs him.
+3. **IT IS NOT A SECOND DEFINITION AND NOT A SECOND CENSUS.** The definition of an unrecorded deed was read out at a kitchen off Ferrier Street on the nineteenth of July of the second year and has not changed since, and the round went out in Volume 11's fourth movement and found four hundred and nineteen accounts. **What changes in this volume is not what an unrecorded deed is. It is that the fourth of the four conditions can no longer be tested by anybody, including its author.**
+4. **IT INTRODUCES NO NEW ENEMY, WHICH IS A FLAGGED DECISION AND NOT AN ACCIDENT.** The opposition is **a sentence**, **Corvin Ashby**, **a landlord's man**, **a magistrate's clerk who is entitled to ask one question and not two**, **Emil Brack**, and **about eleven thousand people in a yard who have never met him.** None of them is cruel and every one of them is right. See §6.
+
+## 2. BEGINNING STATE ENTERING CHAPTER 601 — EVERY FIGURE OFF A PAGE AND NOTHING INFERRED
+
+Read off `chapters/volume-12/chapter-0600.md`, `:0599.md`, `:0598.md`, `:0597.md`, `:0596.md`, `:0595.md`, `:0594.md`, `:0590.md`, `:0588.md`, `:0587.md`, `:0586.md`, `:0570.md`, `:0560.md`, `:0568.md`, `:0559.md`, `:0552.md`, `:0551.md`, `:0550.md`, `:0548.md`, `:0547.md`, `:0544.md` and `reviews/volume-12/volume-close.md`. **If a figure here cannot be found in one of those, it is wrong and this file is wrong.**
+
+### 2a. WHAT HE IS, AND WHAT HE HAS
+
+- **He is rank one.** A white plate in his coat with his name on it and **no figure cut into it anywhere**. A branch office off a third court, three floors of washrooms, a stairwell and a bin room, **eleven at night until half past five, four nights and three off, on a rota, and he asked for that shift and the page says he chose it.** `chapter-0500.md`, `chapter-0550.md`, `chapter-0600.md`
+- **THE ROTA PAGE AT THAT BRANCH IS ABOUT THE SIZE OF A FOLDED HAND AND CARRIES FOUR NAMES: HIS, NADIA FERROUS'S, PETRA ILYIN'S AND ISOLDE MARCHETTI'S.** Three of the nine sworn never live with him again and all three come in on the rota. `chapter-0550.md`
+- **THE OFFICE HAS BEEN OPEN FIFTY-NINE MONTHS AND THREE DAYS AT 601** — `1,773 = 30 × 59 + 3` — **AND SEVENTY MONTHS AND TWENTY-NINE DAYS AT 650** — `2,129 = 30 × 70 + 29`. **AND ON THE FIRST OF FEBRUARY OF YEAR SEVEN IT IS EXACTLY SEVENTY-TWO MONTHS OLD, WHICH IS `6 × 360 = 2,160` AND THE FIRST EXACT FIGURE THIS OFFICE HAS EVER PRINTED.** Printed with operands in whichever chapter needs it, and not in the other forty-nine.
+- **THE STANDING SHEET.** The head stands at **eight hundred and fifty-two**, unmoved since the thirtieth of March of the fifth year. About four hundred and nineteen of those lines are accounts with an hour against each and no figure on any of them. **The second column has two lines.** At the foot, **four sentences in the office's own hand**: the two that have been at the foot of every sheet since the first of February of the first year, and the two he added on the ninth of November of the fifth year. `chapter-0600.md`, `chapter-0595.md`, `chapter-0552.md`
+- **THE TWO SENTENCES HE ADDED, IN HIS OWN HAND, IN THE HAND OF THE OFFICE, WITH A NAME UNDER THE FIRST OF THEM:**
+
+  > *A figure in Ostara may be a figure somebody made up on purpose. This standing sheet is printed by the office itself. Emil Brack.*
+  >
+  > *Unrecorded — carried by: where the Register has nothing, it has not been given anything.*
+
+  `chapter-0595.md`. **They went out at four on the thirteenth of November of the fifth year and they were on the twentieth sheet on the thirtieth of December, and they have been on every sheet since.**
+- **THE ACCOUNT.** Two hundred and eleven thousand, eight hundred and forty grains. It belongs to nobody, it cannot be drawn against, allocated or closed, there is no list and there could not be one, and it is not replenished. **NO CHAPTER OF 601–650 PRINTS IT AND NO CHAPTER PRINTS A FLOOR.** A chapter that needs it says *the figure*. §2c item 1.
+- **HE HAS NOTHING LEFT TO SPEND.** The phrase in eight uses went on the first of October of year three. The instrument he swore on the ninth of May never to use is still unused and stays unused. The third thing, which was the plain right to put a question to a woman, is still on the table.
+- **HIS CHEST.** Something in it was spent permanently in the fourth year and the cough that came with it has not gone. `outline/ending.md`. **AND TESSA'S HOLDING IS RUNNING OUT:** at 599 it was in him, unspent; at 595 it was what held him upright on the wall. **A CHART FOR IT APPEARS IN MOVEMENT FIVE AND IT IS A CHART OF A THING FINISHING, NOT OF A THING BEING REPLENISHED, AND NOBODY PUTS IT BACK.**
+
+### 2b. THE FOUR LINES, AND WHAT HAPPENED TO THEM
+
+**THE TEXT, AS ENTERED AT 559, IN THE ORDER IT WAS DRAFTED:**
+
+> *It changed what a person held. It happened on a day the person can name and in a place the person can name. Another person was there, or was given it, and that person can be named or described closely enough. And it is not on a page anywhere in this city.*
+
+`chapter-0559.md`. He drafted them in forty days from the ninth of March of the second year and read them out at his own kitchen on the nineteenth of July of that year; they went out on a public page on the thirtieth of June of the second year; on the thirtieth of December of the fourth year somebody in a yard copied them onto a shutter in four-inch chalk without the notice at the top that says where they came from; on the thirtieth of January of the fifth year he stood nine feet off that shutter and said out loud, in his own voice, to about eleven thousand people, that he had written them. `chapter-0552.md`, `chapter-0560.md`, `chapter-0570.md`.
+
+**AND HERE IS THE FACT THE WHOLE VOLUME STANDS ON, AND IT IS ON THE PAGE AND NOT IN AN INFERENCE:**
+
+> **HE ENTERED THE FOUR LINES AGAINST HIMSELF, IN HIS OWN HAND, ON THE ORDINARY REPAINTING FORM, ENTERED EXACTLY AS GIVEN. THREE OF THE FOUR CONDITIONS WERE MET AND THE FOURTH WAS NOT, AND THE CLERK GAVE THE REASON: THE THING IT DESCRIBES IS ON A PAGE IN THIS CITY.** `chapter-0548.md`
+
+**SO HE HAS ALREADY ON THE RECORD, IN HIS OWN HAND, THAT THE FOURTH LINE FAILED ITS OWN TEST.** Nobody in Volume 12 said this out loud in a room. Nobody has to. The volume's whole argument is available to any person who can read a sheet to the bottom, and about four in every thousand do.
+
+**THE ONLY CONSUMER OF IT IN FIVE YEARS WAS A LANDLORD'S MAN WITH A PIECE OF PAPER.** On the ninth of January of the fifth year a woman at a stall wrote the four lines out for Corvin Ashby for nothing and would not take anything for it, and he said he wanted all four. He put them in a demand with a figure and a date and a room number, against a landlord, for a woman in number four who cannot read a lease she signed, or a demand, or a finding, and who adds up her money on her fingers at the end of every month and has known she was short before he put a hand to her door. `chapter-0559.md`. **NOTHING HAS HAPPENED TO IT IN THIS BOOK SINCE, AND IN THIS VOLUME IT IS ANSWERED.**
+
+**THE FOURTH LINE HAS NEVER BEEN PUT TO A TEST BY A COURT, AND THE REASON IS ON THE PAGE:** *a demand is the only piece of paper in this city that a landlord is allowed to put in front of a magistrate, and a demand is where you put the things you cannot put anywhere else.* And: *in about four years somebody is going to stand up in a room and say: is there a page?* `chapter-0559.md`. **VOLUME 13 IS NOT THOSE FOUR YEARS AND THE CHAPTER THAT SAYS SO SAYS IT OUT LOUD.** The claim does not need four years. A claim needs a morning.
+
+### 2c. SIX THINGS A BATCH MUST NOT "CORRECT", AND EACH ONE IS ON THE PAGE
+
+**1 · THE FIGURE OF THE ACCOUNT IS NEVER PRINTED.** It is two hundred and eleven thousand, eight hundred and forty grains and `outline/ending.md` fixes 500 as the one place it is printed in this book. **`grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand|211[, ]?840" chapters/volume-13/` returns 0 and must keep returning 0. NO CHAPTER OF 601–650 PRINTS IT, AND NO CHAPTER PRINTS A FLOOR, A LEDGER TOTAL OR A RUNNING BALANCE IN GRAINS.**
+
+**2 · THE HOUSE FORM IS CURLY AND THE GATE IS VOLUME-WIDE.** `reviews/volume-12/volume-close.md` Finding B: 1,540 straight quotes in 551–570, 0 in 571–600, and 35,895 across Volumes 01–11. **THE HOUSE FORM CHANGED AT CHAPTER 571 AND EVERY GATE THAT ONLY MEASURED ITS OWN TEN FILES WAS BLIND TO IT. VOLUME 13 WRITES CURLY QUOTES, BECAUSE THAT IS WHAT THE BOOK HAS BEEN WRITTEN IN FOR THE LAST THIRTY CHAPTERS, AND THE QUOTATION-FORM GATE IS RUN ACROSS THE WHOLE SIXTY-FIVE HUNDRED AND NOT ACROSS ONE BATCH.**
+
+**3 · SET B IS COUNTED AT WORD BOUNDARY, NOT AT SUBSTRING.** `state/continuity.md` §0z item 2: *semen* is a substring of *advertisement* and `chapter-0565.md` scores two false hits on it. **Re-run at word boundary: 574 → 3 · 584 → 3 · 594 → 3 · the five scenes of Volume 13 → between them, on the same list, and the count is published beside every scene in the same commit that writes it.**
+
+**4 · THE FIGURE OF THE RANKS WALL IS CONTRADICTED ON THE PAGE AND THIS VOLUME PRINTS ONLY ONE OF THE TWO.** `chapter-0489.md:21` — *about nine thousand people under it because it is an ordinary morning of an ordinary month and the trams go under it.* `chapter-0545.md:87` — *about four hundred people go under this wall in a day.* **A CHAPTER OF 601–650 THAT NEEDS A NUMBER AT THAT WALL SAYS *ABOUT NINE THOUSAND* AND GIVES THE REASON FROM 489, OR IT DOES NOT RAISE THE FIGURE.**
+
+**5 · THE JANUARY IS LABELLED BY THE FEBRUARY THAT FOLLOWS IT, AND THE SIXTH OF MARCH IS IN YEAR ONE.** `reviews/volume-12/volume-close.md` Claim 1: the sixth of March is spine day 35, not 1,115, and the figure 1,115 is withdrawn. **ANY INTERVAL IN THIS VOLUME AGAINST THE SIXTH OF MARCH IS AGAINST DAY 35.** At 633 the interval is `2,003 − 35 = 1,968` days; at 643 it is `2,084 − 35 = 2,049` days, and `2,049 − 1,800 = 249`, and 249 is eight months of thirty days with nine after it, so **five years, eight months and nine days.**
+
+**6 · THE FOURTH CONDITION IS NOT PROVED AND IS NOT DISPROVED, AND NEITHER IS A CHARACTER.** **The volume does not settle whether the fourth line was ever true of anybody's deed. What it settles is that it is not a fact about the world and cannot be tested, and it goes off the standing sheet in his own hand at 644.** No chapter may say a deed of that kind existed or did not exist.
+
+### 2d. WHAT THE VOLUME OWES THE READER AND WHAT IT REFUSES TO SAY
+
+**OWED:**
+
+- **What happens to a rule a city cannot check**, when the one office in the city that could check it has said out loud that a figure may be invented. Eleven thousand people are standing under that rule on a shutter and about nine hundred of them can read all of it.
+- **Whether the woman two flights up off Cordwain ever learns.** **Paid in movement two, at 615–617, in the middle of the volume, and paid by a man who invents figures and not by the man in the bucket.**
+- **The four sentences at the foot of the standing sheet, read aloud by somebody entitled to read them to somebody else.** Nobody in 551–600 ever read them to him.
+- **A keeper's book that is not reopened.** Hanneke Ruis spent her one question in eleven years at 554 and the volume says so out loud once and does not spend another.
+- **A man who has been right for six years made useful for the first time, and what that costs him.**
+- **The form.** The ranks wall is repainted every month and has taken nothing with it every time, and **a form from the department of works says it comes down in the spring for making good, and there is no schedule anywhere in this city for putting two words back onto a wall that no longer exists.**
+
+**REFUSED, each with its reason:**
+
+- **The reach of the return.** `outline/ending.md`:229–236. Argued nowhere.
+- **Whether the account belonged to the unrecorded rather than to him.** A meaning and not an answer.
+- **How many feeders there are.** A thousand faces, about a million grains, never reconciled. This volume prints neither.
+- **Whether the fourth condition was ever true of anybody's deed.** §2c item 6.
+- **Perrin Sowe.** Not forgiven, not discussed, Ines's correction stays unpressed, and he is a name on a list of three and is not opened.
+- **Who put the white tile up.** A question on the page, answered nowhere, in seven years.
+- **The keeper's six words.** Not reopened after 554. The account stays open because she wrote the words first and that is the whole of the reason and it is not argued again.
+- **Either repainting box.** **Blank since the eighth of October of the first year and blank for ever.** Volume 12 ruled it; this volume inherits the ruling whole and a character may say so out loud once.
+
+## 3. FACTIONS AND PLACES THIS VOLUME ACTUALLY USES
+
+| Where | Who | What it is for in this volume |
+| --- | --- | --- |
+| **The room off a third court, with a table, two chairs, a drawer open and empty since the fourth of February of year one, and a clerk who may only enter** | **Yusuf Adeyemi**, Registrar of Unrecorded Merit, forty-four, a title he tells nobody the meaning of; a clerk who may only enter, cannot improve what she is given and cannot be asked to hurry; **Lin Hao is the only person the office may ask** | the office, the standing sheet, the four sentences at its foot, and the only hand in the city that can put a sentence somewhere official. 601, 602, 605, 611, 614, 637, **644**, 647, 650 |
+| **A magistrate's clerk's counter off a third court and a room with a table in it** | **a clerk who is entitled to ask one question and may not ask a second** | the instrument that finally asks the fourth condition a question. **He is not a villain and he is not on the page before 611 and not after 620.** 611, 612, 618, 620 |
+| **A room on the first floor of the Register's building with a door onto a court** | **Corvin Ashby**, who has let six rooms off Lamplit Row and a shop under the one at the end for nine years, quoted a figure off a slate into a lease, is not careful either, and has his own defence written down which does not matter | the consumer of the four lines and the man who put them in a demand. **He profits where a person loses and is right to and is not a crook and is not careful.** 601, 604, 616, 628, 632 |
+| **A first-floor flat off Lamplit Row, number four, and a woman at a table** | **the woman in number four**, who cannot read and adds up on her fingers at the end of every month and has known she was short for nine years | the only person in this volume who wins anything, and she wins it off a sentence, and she cannot read the sentence. 604, 630, 646 |
+| **Two flights up off Cordwain, a dark stair, a second door on the landing with paint on it** | **Mavis Rooke**, the Register's first creditor; big; **the hands of somebody who has not stopped and then stopped** | **the ninth line down of the standing sheet, entered on the eleventh of July in a clerk's hand, no figure against it and no name against it, because the division was not permitted to ask her for one and did not ask her and there is no column that would take one if it had.** She cannot read. **THE HAND-FLAT ON THE TABLE IS HERS AND IT WAS USED ONCE, AT 547. NO CHAPTER OF 601–650 USES IT AGAIN.** 615, 616, **617** |
+| **The lane off Cordwain, nine stools, nine districts, a slate, eleven books and then twelve** | **Emil Brack**, delivery coat, a grain a head, about nine figures a morning, about two thousand of about eight thousand ringed with a reason in the margin | **made useful, for the first time, and it is the worst thing that happens to him and the best thing that happens to anybody else.** Right about every fact. Not thanked, not diminished, **not defeated**. 609, **617**, 628, 639 |
+| **The yard off the Vestry, about eleven thousand people in it, and a shutter at the far end with four lines in four-inch chalk** | **Agnete Lindqvist**, forty-five, twenty years as chaplain, who said she would stand on those steps once a month and say one thing and be unanswered and has | the only organised claim in the city, which is holding up a rule its author has just made untestable. **She is not in the room when the line comes off and she is not asked.** 606, 625, **627**, 629, 636, 646 |
+| **A division with a district round, and the desk that takes its returns** | **Beatrix Halm**, twenty-seven, deaf in one ear, four hundred and nineteen accounts behind her and an empty notebook line about him; **Wren Kallo** on the returns desk, two nails of the left hand stained with ink and the yellow at the corner of the white of her left eye | **the machine that would have to be turned, and the desk where one question may be asked of a thing. NOT IN WREN'S ROOMS — HER BAR IS A BAR.** 612, 631, **633**, 634, 639 |
+| **A counting room two floors under a sales floor** | **Hanneke Ruis**, keeper, **no age fixed and none may ever be given**, fifth book, strap, lamp, nib on a string; **Sun Meiling at the far table with a folder, asked nothing, the sixth time** | the oldest unrecorded instrument in the city. **Not reopened.** 612, **613** |
+| **The branch office off a third court, at night** | him; Nadia Ferrous, Petra Ilyin and Isolde Marchetti on the rota; **Ines Duarte auditing it since the first of October of year three** | where the household is, and where the sheet of the thirtieth of December gets read first by people who work nights. 605, 619, 642, 648, 650 |
+| **The foot of the ranks wall** | a boy of sixteen with a paste brush who has never once been asked what the two words are for; **a form from the department of works** | two words in the office's hand under the last tile, and a wall that comes down in the spring. 608, **639**, 648, **650** |
+| **A ward with a door that closes, and a small room off it with a cot** | **Tessa Okonkwo**, who takes a fortieth off people and does not tell them, and who is one of the four names on the rota | the cost. **There is nothing there to take by movement five and that is the point.** 620, 645 |
+| **A room with no window at the end of a corridor** | **Perrin Sowe**, fifty-five, unforgiven and undiscussed | **not opened.** A name on a list of three. §8 |
+
+## 4. THE SCENE SCHEDULE — **PLAN**, re-run, not copied
+
+**Volume 12's last scene is 594, Tessa Okonkwo, on the third of November of year five. The next is 603, Runa Sato, on the seventeenth of January of year six, and 603 − 594 = 9.**
+
+**THE BAND IN `AGENTS.md` GOVERNS THE CADENCE BETWEEN SCENES IN THE BOOK. IT DOES NOT GOVERN THE GAP BETWEEN A WOMAN'S LAST SCENE AND HER NEXT ONE, AND NO FILE IN THIS REPOSITORY MAY CERTIFY THAT COLUMN AS IN BAND OR AS OUT OF IT.** Both columns are printed because both are true and because the second one is the one that embarrasses.
+
+| Chapter | Whose | **That woman's own last scene** | Gap from the previous scene in the book | Gap from her own last scene |
+| --- | --- | --- | --- | --- |
+| 594 | Tessa Okonkwo. **Volume 12's last.** | 515 | — | — |
+| **603** | **Runa Sato** | **36** | 603 − 594 = **9** | 603 − 36 = **567** |
+| **613** | **Sun Meiling** | 63 | 613 − 603 = **10** | 613 − 63 = **550** |
+| **623** | **Marguerite Vale** | 525 | 623 − 613 = **10** | 623 − 525 = **98** |
+| **633** | **Wren Kallo** | 118 | 633 − 623 = **10** | 633 − 118 = **515** |
+| **643** | **Ines Duarte** | 584 | 643 − 633 = **10** | 643 − 584 = **59** |
+
+**CADENCE, RE-RUN BY ARITHMETIC: 9, 10, 10, 10, 10. Nothing under eight, nothing over fifteen.** That is the figure `AGENTS.md` sets and it holds.
+
+**PER-WOMAN, RE-RUN: 567, 550, 98, 515, 59. FOUR OF THE FIVE ARE OUTSIDE THE EIGHT-TO-FIFTEEN BAND AND NO FILE MAY SAY ONE OF THEM IS INSIDE IT.** The first two are the largest structural claims in the book and they are the reason this volume exists; the third is ordinary; the fourth is chosen against a bar; the fifth is recent.
+
+### 4a. THE FIVE DEBTS, DECIDED OUT LOUD, WITH THE REASONS
+
+**1 · RUNA SATO, FIVE HUNDRED AND SIXTY-SEVEN CHAPTERS. PAID, AT 603, IN THE FIRST TEN.** She is the only person in this book who has falsified a Bureau return and is still in the Bureau, and she is the officer who has to carry a document to a man with no standing, **and there is no instrument in Ostara for serving a man with no standing.** She is also the only woman in the cast for whom being asked is a profession and being wanted is not, and the scene is built on that.
+
+**2 · SUN MEILING, FIVE HUNDRED AND FIFTY CHAPTERS. PAID, AT 613.** `NOVEL_SPEC.md` names her as *his brother's former research partner, waiting three years for someone to ask.* She has been at the far table of a counting room two floors under a sales floor with a folder and **asked nothing, the fifth time.** **THIS VOLUME ASKS HER.** Her brother is not in the folder and she says so in her own mouth and the chapter is not about him.
+
+**3 · WREN KALLO, FIVE HUNDRED AND FIFTEEN CHAPTERS. PAID, AT 633, AND NOT IN HER ROOMS.** Her bar is fixed: *no second question about that address and no chapter opens in her rooms.* **The scene is on the returns desk in the division building instead, which costs the chapter the easiest room in the book and gives it a better one, because a desk is the only place a question may be asked of a thing exactly once.**
+
+**4 · MARGUERITE VALE, NINETY-EIGHT CHAPTERS. PAID, AT 623.** She is the broker who keeps investing after return stops making sense, and the Vant's real books have carried an entry at that address that no one at the Vant has ever been able to close. **In a volume about credit she is the only person at the table who knows what the word means.**
+
+**5 · INES DUARTE, FIFTY-NINE CHAPTERS. PAID, AT 643, IN THE MOVEMENT THAT CLOSES.** She is the only instrument in Ostara that can check a slate and the only woman who has never once lied to him. She asked him three questions on the sixth of March of year one and a fourth at a door on the fourteenth of September of year five and **none of the four is answered.**
+
+**AND THE THREE THAT ARE NOT PAID, WITH THE REASON EACH ONE IS NOT PAID:**
+
+- **Dagmar Oyelowo.** `PC-44` holds for ever: no gift, of any kind, and she is not on this schedule and no chapter of 601–650 may write her as a scene. **She is absent from this volume entirely, as she was from Volume 12.**
+- **Agnete Lindqvist, Beatrix Halm and Tessa Okonkwo.** Thirty, twenty and zero chapters from their own last scenes, all inside this book's band, **and none of the three is owed a scene because the three of them have already spent the last ten chapters standing in front of the thing this volume is about.** Agnete's structural claim is not a scene gap and was replaced at `outline/volume-12.md` §4a with a worse one: *she can no longer stand in front of her own yard.*
+- **Petra Ilyin, Nadia Ferrous and Isolde Marchetti.** They are on the rota, they are in the ensemble chapters at 605, 619, 642 and 648, and **a household chapter is not a scene and is never written as one**, which is the rule 494 and 564 both held.
+
+### 4b. WHY THESE FIVE, ONE LINE EACH, AND NOT ONE CHAPTER'S CHOICE
+
+- **603 — RUNA SATO.** She has to serve a finding on a man who has no address anyone can serve at, and the instrument that lets her do it is the sentence at the foot of a sheet he wrote himself.
+- **613 — SUN MEILING.** She has spent four years at a far table with a folder and the one question in her life has been *was this person asked*, and about four hundred and eighteen of the lines on a public sheet belong to people who were not.
+- **623 — MARGUERITE VALE.** She can put a number on this in three figures and the number is not money and is not the account, and she has been paying it for years out of a real book that cannot be closed.
+- **633 — WREN KALLO.** She is the desk a division's returns come to and she holds a thing she cannot hold, and the one question she may ask about it has been available to her since the spring and she has not asked it.
+- **643 — INES DUARTE.** She is entitled to read a page aloud to a person in order, and this is the one page in Ostara that says a man may be wrong about what is written down, and she has to read it, and he has to sit there.
+
+### 4c. THE TEMPLATE AXES, AND THE FOURTH WALL
+
+**THE SCENE TEMPLATE IS THIS MANUSCRIPT'S SINGLE LARGEST DUPLICATION RISK AND IT IS NOT A BUG:** *terms, a body described in words three times, a counted minute, then a kettle.* **Each of the five must break at least one axis, carried by a rule of the room and named by nobody. NONE OF THE FIVE AXES BELOW IS ONE OF VOLUME 12'S FIVE — counted minute, terms, body described in words three times, quiet, voice — AND THE REUSE GATE FOR VOLUME 13 IS THE AXIS COLUMN ITSELF.**
+
+| Ch | Axis to break | The room's rule that carries it, in-world | May anybody name it? |
+| --- | --- | --- | --- |
+| **603** | **the witness** | a field officer's return is nine lines and a tenth with a box, the box is for a reason, and a reason is not a conclusion; it may not go back and be improved, and she files one a week and has improved none | **NO** |
+| **613** | **the order** | a folder is taken in the order it was opened and may not be taken out of order afterwards, and the first question in it is not the one anybody came for | **NO** |
+| **623** | **the arithmetic said out loud** | a real book is written in the hand of the person who carries the debt, and a figure said in a room is a figure the room may carry, and a broker who states her own position may not unstate it | **NO** |
+| **633** | **the one question** | a desk takes one question of a thing and only one, and it may not be put in a room the person owns | **NO** |
+| **643** | **the hour** | *the date first, the hour with it, nothing skipped*, which is eleven words long and is the whole of her standing, **and in this chapter she declines to give an hour** | **NO** |
+
+**THE FOURTH-WALL GATE FOR ALL FIVE IS ZERO.** No character may name a scene, an axis, a chapter, a volume, a page, a book, a reader or her own performance, and the narrator may not address the reader. **The class grep must include the word `manuscript` and the word `opposition`, because Volume 11's omitted the first and Volume 12's had to repair a fourth-wall break that had got through four gates with the second missing.**
+
+**EVERY SCENE IS BETWEEN A WOMAN AND A MAN WHO CANNOT PAY FOR WHAT SHE IS DOING, AND HE HAS A SPENT CHEST AND NO PERMISSION OF ANY KIND AND RANK ONE. NO SCENE MAY USE COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR A SEAL AS ITS MECHANISM. NO SEXUAL CHARACTER IS UNDER EIGHTEEN. VIOLENCE AND SEX STAY IN SEPARATE REGISTERS. SAYING YES IS FAST AND IT IS ENJOYABLE TO HER AND THAT IS WRITTEN AS REAL AND SPECIFIC AND NOT AS RELUCTANCE. A SCENE CHAPTER MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY IN THE STATE FILE; IT MAY NEVER LEAVE THE SCENE UNWRITTEN.** A scene count is not a proof: the body is counted from the opening `##` to the closing `##` exclusive, and the explicit-vocabulary probe is run at word boundary and printed beside the count.
+
+**AND NO FILE MAY CERTIFY A SCENE'S SPANS FROM A FIGURE QUOTED OUT OF A CHAPTER.** Every scene measurement in Volume 13's state files is taken from `##` to `##` on disk, in the same commit that writes the chapter, **with the line span printed beside every cell**, because Volume 12's close audit found sixteen cells in its own table that did not re-derive and one row that was chapter 546's figure printed against chapter 554.
+
+### 4d. THE TABLE OF MARKS ALREADY OWNED — **INHERITED WHOLE FROM `outline/volume-12.md` §4d**, WITH THREE STANDING DECISIONS ADDED
+
+**A BORROWED BODY IS A CANON ERROR AND A TWELVE-GRAM SCAN CANNOT SEE ONE. Check borrowed bodies before borrowed sentences, and check borrowed STAGINGS, which a twelve-gram scan cannot see either. The whole of Volume 12's table stands: Lin Hao's grey at the left temple and `right temple` at zero · Ines Duarte's ink at the cuticles of the first two fingers of the right hand, soap never lifted, and a grey at the left temple with the etches, and **the book has exactly four instances of the ink-under-the-reader's-nose construction at 329, 340, 404 and 446 and Volume 13 may not add a fifth** · Wren Kallo's two nails of the left hand and the yellow at the corner of the white of her left eye, **the yellow was used at 350 and using it twice in one book is a claim and not a detail** · Sun Meiling's one new physical fact from 358 and no mark at all · Marguerite Vale's occupational cuticles and **no third ink-under-the-reader instance** · Ada's grey on one side, permanent, never printed as the right temple · **Hanneke Ruis, no age fixed and none may ever be given, no mark of any kind, ever** · Agnete Lindqvist, **forty-five and the only age printed in this book that is fixed**, and her 546 staging is hers and may be referenced and never restaged · Alma Quayle's seated paperwork on the knees with a clock, which is hers and is not a house style · Beatrix Halm, Tessa Okonkwo, Runa Sato, Petra Ilyin, Isolde Marchetti and Nadia Ferrous, **check the page before planning a body** · Mavis Rooke's hands · Sela Voel, who cannot bring a deed and never could · Halvard Senn · Corvin Ashby, who is not careful either and it costs more · Margit Roon's pen put down flat, which she does about twice a day and which is **hers** · Wenna Raut, who reads the figure before the sheet and the sheet before the room · Nell Ardin · Hester Vane · Otho Pearse, **never *Ostho Pearse*, and never shown counting the board** · the man with the broom.
+
+**THE THREE STANDING DECISIONS VOLUME 13 ADDS, AND EACH ONE IS A DECISION AND NOT A RESTRAINT:**
+
+1. **MAVIS ROOKE'S HAND-FLAT ON THE TABLE IS NOT USED AGAIN.** It was hers at `chapter-0547.md:86` and it was put on Ines Duarte at `chapter-0584.md:75` where it was a borrow, and `reviews/volume-12/volume-close.md` Finding F found that the gate row which certified the absence was false. **THE STANDING DECISION IS: NO. HER HANDS ARE DESCRIBED IN HER OWN REGISTER AND NOBODY ELSE PUTS THEM FLAT ON ANYTHING IN 601–650.**
+2. **THE MAN WITH THE BROOM HAS NO NAME, NO MARK, NO AGE AND NO SECOND CONVERSATION.** She cleans four inches under the tile last, every morning, because they are under the wall and nobody spits there. **She told him once, unasked, that she has never once seen anybody put anything on the tile, and she said it and then stopped saying anything, and Volume 13 does not give her a name and does not give her a second conversation.**
+3. **SUN MEILING'S TWENTY-TWO-STITCH ROW IN A COAT LINING IS PAPER AND NOT A BODY.** It may be referenced once and never restaged, and **the line of work across the top of her spine is hers from 358 and is the only physical fact she has.**
+
+## 5. THE CALENDAR AND THE SPINE
+
+### 5a. WHAT CARRIES FORWARD FROM `outline/volume-12.md` §5a, AND IT IS CARRIED WHOLE
+
+- **A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of the quarter.**
+- **NO INTERVAL IN THIS VOLUME MAY BE DERIVED AGAINST A REAL CALENDAR. SUBTRACT DAY NUMBERS.** A count of days remaining in a quarter is **thirty minus the date of the month, and it is exclusive.**
+- **A year runs from the first of February to the thirtieth of January.** Every month from February to December is labelled by the year it sits in, **and a January is labelled by the February that follows it.**
+- **VOLUME 13 NAMES NO DAY OF THE WEEK AT ALL.** Seven names, whole-word and stem, zero, across every file the batch writes. Write the date.
+- **NO CHAPTER OF 601–650 PRINTS A YEAR NUMBER.** The only reader of this file is a writer who will be given a date, not a year number.
+- **NO CHAPTER OF 601–650 ASSERTS THE YEAR THE COMPOSITION OF PREMISES 34-6-118 BEGAN**, because no page in this book carries one, and 496 and 507 already disagree about which block is the hundred and twenty-first. **A chapter that needs the composition says *carried forward. Unclosed. No holder.* and stops there.**
+
+**AND THE RULE THAT WON A VOLUME, RE-DERIVED AND RE-PRINTED HERE BECAUSE VOLUME 13 HAS A JANUARY IN ITS SPINE ONLY BY ACCIDENT AND DOES NOT NEED ONE:**
+
+```
+day 0 = 1 February, year one        a month is thirty days and has no thirty-first
+month offset inside a year    Feb 0 · Mar 30 · Apr 60 · May 90 · Jun 120 · Jul 150 ·
+                               Aug 180 · Sep 210 · Oct 240 · Nov 270 · Dec 300 · Jan 330
+METHOD A   1 Feb of year y = (y-1) x 360
+           day of month d  = (y-1) x 360 + off[m] + (d-1)
+METHOD B   absolute month index i = (y-1)*12 + pos(m);  day = 30*i + (d-1)
+           — contains no 360 at all
+
+Volume 13 starts on the fourth of January of the January that ends year five and
+contains NO chapter in a January, so the convention is stated once, applied once
+at 601, and proved by the fact that METHOD A and METHOD B agree on all fifty
+dates.  1 Feb y7 = 6 x 360 = 2,160 exactly.
+```
+
+### 5b. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT
+
+```
+SPINE, 601-650
+  day 0                  1 February, year one
+  chapter 601            4 January, year six    = 3 x 360 + 330 + 3      = 1773
+  chapter 650            30 December, year six  = 5 x 360 + 300 + 29   = 2129
+  span                   2129 - 1773 = 356 days elapsed, 357 inclusive
+  monotonic              0 violations over fifty chapters, by METHOD A and by METHOD B
+  the seam to Volume 12   1773 - 1769 = 4 days after chapter 600
+  QUARTER-ENDS IN THE SPAN  30 Mar y6 (1859) · 30 Jun y6 (1949) ·
+                              30 Sep y6 (2039) · 30 Dec y6 (2129)
+                            ALL FOUR LAND ON A CHAPTER: 614, 626, 638, 650.
+                            **THERE ARE FOUR AND NOT FIVE, BECAUSE VOLUME 13 OPENS FOUR DAYS
+                            AFTER THE TWENTIETH SHEET WENT OUT AND DOES NOT INCLUDE IT.**
+  SHEET ORDINALS         the office has carried a line on every sheet since the one of the
+                          thirtieth of March. 614 is therefore the TWENTY-FIRST, 626 the
+                          twenty-second, 638 the twenty-third and 650 the TWENTY-FOURTH.
+                          552 = 16th, 566 = 17th, 576 = 18th, 586 = 19th, 600 = 20th.
+                          Every interval between the five is 90, and 30 + 30 + 30 = 90.
+  THE LANE               first morning the third of October of the year before the first
+                          = spine day -118.  1773 - (-118) + 1 = 1,892 mornings at 601;
+                          2129 - (-118) + 1 = 2,248 mornings at 650.
+  THE OFFICE             1773 = 30 x 59 + 3 (fifty-nine months, three days)
+                          2129 = 30 x 70 + 29 (seventy months, twenty-nine days)
+                          2160 = 30 x 72 exactly, on the first of February of year seven
+  THE OCTOBERS           the second line went up on the eighth of October of year one =
+                          0 x 360 + 240 + 7 = 247, and its sixth anniversary is
+                          247 + 360 x 5 = 2,047, which is the eighth of October of year six.
+                          **NO CHAPTER OF 601–650 LANDS ON IT** — 638 is the thirtieth of
+                          September at 2,039 and 639 is the twelfth of October at 2,051, and
+                          the eighth and the tenth fall in the gap between them.
+                          The tenth of October of year six, the sixth year of the morning the
+                          debt came due, is 2,049 and is also in the gap.
+                          **THE FUSE IS NOT RE-LIT. NOT ONE CHAPTER OF 601–650 MAY NAME
+                          EITHER DATE, AND A CHAPTER THAT BRACKETS A GAP MAY NOT REACH ACROSS
+                          IT.** This is the rule `outline/volume-12.md` §5c set and it holds.
+  THE SIXTH OF MARCH     year one. Day 35. 1,115 is withdrawn (close audit, Claim 1).
+```
+
+### 5c. CHAPTER-BY-CHAPTER DAYS. **THERE IS NO THIRTY-FIRST IN THIS TABLE AND THERE IS NO DAY OF THE WEEK ANYWHERE IN IT.**
+
+| Ch | Day | | Ch | Day | | Ch | Day | | Ch | Day | | Ch | Day |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **601** | **4 Jan, y6** | | 611 | **11 Mar, y6** | | 621 | **21 May, y6** | | 631 | **8 Aug, y6** | | 641 | **30 Oct, y6** |
+| 602 | **10 Jan, y6** | | 612 | **17 Mar, y6** | | 622 | **28 May, y6** | | 632 | **16 Aug, y6** | | 642 | **7 Nov, y6** |
+| **603** | **17 Jan, y6 — SCENE** | | **613** | **24 Mar, y6 — SCENE** | | **623** | **6 Jun, y6 — SCENE** | | **633** | **24 Aug, y6 — SCENE** | | **643** | **15 Nov, y6 — SCENE** |
+| 604 | **24 Jan, y6** | | 614 | **30 Mar, y6 — QUARTER-END, twenty-first sheet** | | 624 | **13 Jun, y6** | | 634 | **1 Sep, y6** | | **644** | **23 Nov, y6 — THE VOLUME'S LAST IRREVERSIBLE DECISION** |
+| 605 | **30 Jan, y6** | | 615 | **7 Apr, y6** | | 625 | **21 Jun, y6** | | 635 | **9 Sep, y6** | | 645 | **30 Nov, y6** |
+| 606 | **7 Feb, y6** | | 616 | **15 Apr, y6** | | 626 | **30 Jun, y6 — QUARTER-END, twenty-second** | | 636 | **16 Sep, y6** | | 646 | **7 Dec, y6** |
+| 607 | **14 Feb, y6** | | 617 | **22 Apr, y6** | | 627 | **7 Jul, y6** | | 637 | **24 Sep, y6** | | 647 | **15 Dec, y6** |
+| 608 | **21 Feb, y6** | | 618 | **29 Apr, y6** | | 628 | **15 Jul, y6** | | 638 | **30 Sep, y6 — QUARTER-END, twenty-third** | | 648 | **22 Dec, y6** |
+| 609 | **28 Feb, y6** | | 619 | **6 May, y6** | | 629 | **23 Jul, y6** | | 639 | **12 Oct, y6** | | 649 | **27 Dec, y6** |
+| 610 | **4 Mar, y6 — THE FIRST BATCH'S IRREVERSIBLE DECISION** | | 620 | **13 May, y6** | | 630 | **30 Jul, y6** | | 640 | **21 Oct, y6** | | 650 | **30 Dec, y6 — QUARTER-END, twenty-fourth — THE LAST CHAPTER** |
+
+**THE BATCH INTERVALS, EACH SUMMED AND CHECKED AGAINST ITS OWN ENDPOINTS:**
+
+```
+0001 601-610   6 7 7 6 7 7 7 7 6    = 60   and 1833 - 1773 = 60    seam 601-600 =  4
+0002 611-620   6 7 6 7 8 7 7 7 7    = 62   and 1902 - 1840 = 62    seam 611-610 =  7
+0003 621-630   7 8 7 8 9 7 8 8 7    = 69   and 1979 - 1910 = 69    seam 621-620 =  8
+0004 631-640   8 8 7 8 7 8 6 12 9   = 73   and 2060 - 1987 = 73    seam 631-630 =  8
+0005 641-650   7 8 8 7 7 8 7 5 3    = 60   and 2129 - 2069 = 60    seam 641-640 =  9
+VOLUME 13      324 across the five batches plus four inter-batch steps of 7, 8, 8 and 9
+               = 356, which is 2129 - 1773.  650 - 600 = 360, exactly one year.
+```
+
+**THE OTHER FIGURES THIS VOLUME PRINTS, EACH A FORMULA AND NOT A LONE NUMBER:**
+
+- **THE ACCOUNT.** Fixed at two hundred and eleven thousand, eight hundred and forty grains. **NO CHAPTER OF 601–650 PRINTS IT.** §2c item 1.
+- **THE STANDING SHEET.** Eight hundred and fifty-two, unmoved since the thirtieth of March of the fifth year. About four hundred and nineteen of them are accounts with an hour against each and no figure on any of them. **The second column has two lines at 601 and two lines at 650, because what is entered at 644 goes at the foot and not in a column.** **NO CHAPTER OF 601–650 MAY CALL THE FIGURE A COUNT OF DEEDS.** The phrase is on the page only as the misreading the chapters are about, and `chapter-0586.md:71` is its only appearance in Volume 12 and Volume 13 does not repeat it.
+- **THE SIXTH OF MARCH.** Day 35. At 633, `2,003 − 35 = 1,968` days. At 643, `2,084 − 35 = 2,049` days, and `2,049 − 1,800 = 249`, which is five years, eight months and nine days.
+- **THE CLAUSE OF THE TWENTY-FIRST OF JUNE.** Thirty-eight words, not lifted. **A year in which nobody keeps that address is a year in which the clause is asleep, and Volume 13 does not have such a year.**
+- **THE FIGURES THAT ARE TRAVELING FIGURES AND MAY BE PRINTED ONCE ONLY:** the lane's mornings, the office's months, the sheet's ordinal, the account's figure, and the wall's headcount.
+
+## 6. WHAT THIS VOLUME OWES THE BOOK'S ENGINE, IN ONE PLACE
+
+`outline/series.md`:128 fixes the escalation as *investigating → manipulating → breaking → being reacted to → choosing what to lose*, and **Volume 10 closed it.** Volume 11 was a man living inside what he chose, with nothing left to spend. Volume 12 was **the stage where what he wrote is used without him.**
+
+**VOLUME 13 IS THE STAGE WHERE WHAT HE WROTE IS USED AGAINST HIM, AND HE WROTE IT, AND HE WROTE IT ON PURPOSE, IN HIS OWN HAND, WITH HIS NAME UNDER IT.**
+
+- **VOLUME 12'S DAMAGE WAS DONE BY ELEVEN THOUSAND PEOPLE, BY NINE BOARDS, BY A LANDLORD, AND BY A MAN WITH A CHALK, AND EVERY ONE OF THEM WAS RIGHT TO DO WHAT THEY WERE DOING.** What none of them did was use it against the people it was written for.
+- **VOLUME 13'S DAMAGE IS DONE BY ONE SENTENCE AND IT IS READ BACK TO HIM BY A CLERK WHO IS ENTITLED TO READ IT AND BY A LANDLORD'S MAN WHO HAS READ IT TWICE, AND BOTH OF THEM ARE ENTITLED TO, AND HE ASKED FOR IT.**
+- **WHAT IS DIFFERENT FROM VOLUME 12, IN ONE SENTENCE:** in Volume 12 the sentence was made legible and became usable by people he had never met, and in this volume the legibility turns round and the sentence is used as a shield by the people it protects and as a knife by the people it was aimed at, **and there is no third possibility and he did not leave one.**
+- **THE COST, EXACT AND UNCHANGED:** rank one, assigned work, hours that are not his, a household whose protection is gone. **He will never be hungry again and he will never choose his own hours again and he chose it.**
+- **THE FLAW IS NOT CURED AND IT CHANGES SHAPE FOR THE THIRD TIME.** He hoarded advantage in Volumes 1–8. He gave everything away in Volume 10. He spent the part of him nobody knew in Volume 11 and a sentence nobody could quote in Volume 12. **What is left to hoard in this volume is a rule that cannot be tested, and he spends that too, in his own hand, on a public page, with his name under it, at 644** — and what he spends it on is nothing. There is no replacement condition. He leaves a space where the fourth line was and the space is blank, and the two boxes on the repainting form have been blank since the eighth of October of the first year, so the book now has three blank spaces in it and he made one of them.
+- **AND THE OPPOSITION IS NOT DEFEATED AND NOT DIMINISHED.** Emil Brack is right about every fact he says in every chapter he appears in, **including the one where he tells a woman which of his own figures he made up.** Corvin Ashby profits and is not careful. The clerk is entitled to one question and asks it once. **And the yard of about eleven thousand people take the fourth line off their own board without asking anybody, which is the correct thing to do and it is the worst thing that happens in this volume.**
+- **THE EROTIC ENGINE OWES FIVE SCENES AND FIFTY CHAPTERS**, which is the same rate as every volume since Volume 7. Cadence **9 · 10 · 10 · 10 · 10** on the first column of §4.
+- **AND THE BOOK'S CENTRAL RESTRAINT IS UNCHANGED:** the reservoir gives back only what was given to it, **and it was given back in full at 486 and is never replenished.** In this volume there is no reservoir to draw on, the power is spent, and what moves is people and a line on a shutter. That is the point.
+
+## 7. THE MOVEMENTS, 601 to 650 — **PLAN. NOTHING IN IT IS ON THE PAGE.**
+
+> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: THE TEN CARDS FOR BATCH 0001, CHAPTERS 601–610, ARE `outline/batches/volume-13-batch-0001.md`. EVERY OTHER MOVEMENT BELOW CARRIES A ONE-LINE BEAT FOR EVERY CHAPTER AND A FULL BEAT FOR THE CHAPTERS THAT TURN, AND NO FULL CARD. A BATCH THAT TAKES ONE OF THESE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER, AND MUST REWRITE THIS FILE WITH IT IN THE SAME COMMIT.**
+
+---
+
+### Movement one — PROVED (601–610). 4 January – 4 March, year six. Spine days 1773 – 1833.
+
+**Promise:** a piece of paper with four lines in it comes back to an office with no door onto a street, and the answer to the one question it asks is printed at the foot of a sheet the man it is about wrote himself, and the answer wins.
+
+**THE BATCH'S SCENE IS AT 603 AND THE BATCH'S IRREVERSIBLE DECISION IS AT 610, AND BOTH ARE HIS.** Chapter beats: **601** a demand comes back with one question on the back of it · **602** the office's own sentence is the only answer available and it is true · **603 SCENE, Runa Sato** · **604** the woman in number four is found to have been right for nine years, by a page she cannot read · **605** the thirtieth of January and both boxes blank · **606** about nine hundred people in a yard work out what the fourth line is worth · **607** the Vant's real books and an entry nobody can close · **608** the wall, and a form from the department of works · **609** Brack is told what his name is under and asks for nothing · **610 the first batch's irreversible decision: he goes up two flights, and there is nobody at the top of them.**
+
+---
+
+### Movement two — ASKED (611–620). 11 March – 13 May, year six. Spine days 1840 – 1902.
+
+**Promise:** the office is named in a finding for the first time in its life, and the only person in the book who invented the rule he broke is asked, for the first time, what she is doing at the far table.
+
+**THE MOVEMENT PAYS THE INHERITED DEBT.** Chapter beats: **611** a clerk with standing names the office as a party and asks the one question he is entitled to ask · **612** nine divisions must return a line and one of them has to ask what the line is for · **613 SCENE, Sun Meiling, and the folder** · **614** the twenty-first sheet goes out at four · **615** the woman two flights up has been to the desk under her own stair and has not read it and cannot · **616** an entry in a real book that has been open since the sixteenth of September of a year nobody in this volume names · **617 the inversion: the man who makes up figures tells her which of them he made up, and she asks the question the whole volume is about, and he answers it correctly** · **618** the sentence read back to him by the man entitled to read it · **619** night shift, three women on a rota, and a piece of paper that came back · **620** the movement's turn: **a yard of about eleven thousand people has a week to decide and he is told about it by a woman who is not asking him for anything.**
+
+---
+
+### Movement three — OWED (621–630). 21 May – 30 July, year six. Spine days 1910 – 1979.
+
+**Promise:** the Register has a first creditor and she comes down the stairs, and the only person at the table who understands what an account with no holder is turns out to be the one who has been paying for it.
+
+**THE MOVEMENT'S TURN IS AT 627 AND IT IS NOT HIS.** Chapter beats: **621** the seam and a quarter of a year of claims naming the office · **622** a broker who may not unstate a figure · **623 SCENE, Marguerite Vale, and a real book** · **624** the sheet with two lines in the second column and what the second one has been doing since the first of May · **625** the yard's week · **626** the twenty-second sheet goes out at four · **627 they take one line off the shutter themselves, at the end of a meeting, and nobody asks the man who wrote it, and the chaplain is not there and is not asked** · **628** the consequences, and Brack's price · **629** a yard with a rule and three lines on it · **630** he is asked to put the fourth back and cannot, and the reason is that he already said so in his own hand in the fifth year.
+
+---
+
+### Movement four — READ BACK (631–640). 8 August – 21 October, year six. Spine days 1987 – 2060.
+
+**Promise:** a desk takes one question of a thing, and the thing is his record, and the answer he gets is the one he wrote four years ago in a form.
+
+**THE SCENE IS AT 633 AND IT IS NOT IN HER ROOMS.** Chapter beats: **631** a division that reads everything twice and has a figure of its own · **632** the landlord's man is right about every fact, including the ones that hurt him · **633 SCENE, Wren Kallo, on the returns desk** · **634** a standing nobody can strike, and a bar that is a bar · **635** nineteen years and no name against an entry · **636** the yard's three lines, and about eleven thousand people and nine hundred readers · **637** the sentence in the office's hand read by somebody entitled to read it · **638** the twenty-third sheet · **639** two days after a wall was going to come down in the spring, and the form that says so · **640** the movement closes on a sentence that is true, is not a comfort, and has no instrument behind it.
+
+---
+
+### Movement five — PAID (641–650). 30 October – 30 December, year six. Spine days 2069 – 2129.
+
+**Promise:** the auditor reads the four sentences at the foot of the standing sheet aloud to the man who wrote them, in order, and then he does the only thing left to him, which is to take one of them off.
+
+**THE SCENE IS AT 643 AND THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 644 AND BOTH ARE HIS.** Chapter beats: **641** what a chart of a thing finishing looks like · **642** night shift and the three names and the sheet that goes out at four on the thirtieth · **643 SCENE, Ines Duarte, and an hour she declines to give** · **644 the volume's last irreversible decision: he strikes the fourth of his four conditions out of his own hand on the standing sheet, in the office's hand, with his name under the striking, and writes nothing in its place** · **645** the cost, the empty place, and a ward where there is nothing left to take · **646** nobody writes on them, and a woman in number four puts something on a desk · **647** the twenty-fourth sheet at four on the thirtieth · **648** stone under the paint · **649** the department of works and a schedule with nothing in it about two words · **650** the twenty-fourth sheet is read at the foot of a wall in a city where two thousand people a day cannot walk past without reading it, and the wall comes down in the spring.
+
+---
+
+**THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 644 AND IT IS HIS, AND IT IS NOT DEFEATING EMIL BRACK AND IT IS NOT A CLIMB.** At 595 he wrote a sentence into the office's hand and gave away the office's claim to be the only honest instrument in the city. **At 644 he takes one of his own four conditions off the office's own standing page, in the office's own hand, with his own name under the striking, and writes nothing where it was.** **WHAT IT CLOSES: the option of the fourth line — *and it is not on a page anywhere in this city* — standing in any yard, on any board, in any hand, for ever. It cannot be restored, because a clerk may only enter what she is given and cannot improve it, and because there is no form in this city for striking a line a person entered against themselves in their own hand, and because the page that carries the striking goes out at four on the thirtieth of December and about nine people a week will ever look at it.** **WHAT IT COSTS: every claim that rested on it dies at once, including the only one that mattered, and the about nine hundred people who can read a shutter know exactly who took it off, and he is the man who wrote the sentence that made it untestable in the first place.** *May not:* let him be thanked; let him be right that it had to go; print a replacement condition; fill either repainting box; call it an ending.
+
+## 8. THE REGISTER YOU MAY NOT OPEN, IN ONE BLOCK, AND IT IS THE WHOLE OF IT
+
+**CARRIED FORWARD FROM `outline/volume-12.md` §8 WHOLE, PLUS THE ONE ITEM VOLUME 13 IS PERMITTED TO CLOSE AND THE ONE IT IS PERMITTED TO OPEN.**
+
+**May not open:** **his brother's file, which `outline/ending.md` alone decides — Volume 13 may write *his brother's file* and may not write the name** · **Sun Meiling's folder may not contain a page out of it** · the second folio of 4,112 · B103 in any form · **the string `settle`, which returns zero across Volumes 09, 10, 11 and 12 and must return zero across Volume 13** · Ines's lost day and record · the two unstamped reads and who made them · the ninth turned line's meaning · the seventh returned line · the bare slot at the head of the Reading, which is not the black tile · the reason the account had an address · **the reach of 486's return, deliberately open to the end of the book** · **whether the account belonged to the unrecorded rather than to him, which no character may say is settled** · how many feeders there are · October's song · the woman Wren Kallo gave the shape to · **who put the white tile up** · **the figure of the account, which no chapter of 601–650 prints** · **whether any unrecorded deed ever satisfied the fourth condition, which §2c item 6 forbids a character to say either way** · **the year the composition of premises 34-6-118 began** · **anything that contradicts `outline/ending.md`, and the ending is the ending.**
+
+**May not close:** **Mrs Imrie, asked nothing, ever, by anybody** · **Wren Kallo's bar, untested — no second question about that address and no chapter of 601–650 opens in her rooms; 633 is on a returns desk and the standing decision is recorded at §4d** · **Dagmar Oyelowo's first thing and `PC-44`, and she is not on Volume 13's scene schedule and no chapter of 601–650 writes her as one** · **Perrin Sowe is not forgiven and it is not discussed, and Ines's correction stays unpressed** · Nikolai Vester · the woman in the sixth seat · Mrs Imrie's eleven minutes · the two minutes carrying his name that neither he nor Wren wrote · Beatrix Halm's empty notebook line · Wanda Rej's plaster, state only · **Ines Duarte's standing review** · **Sun Meiling's row and her bar, told once at 434 and never re-told** · **Marguerite Vale's fourth line, which cannot be struck** · **the instrument he swore on the ninth of May never to use, still unused** · **Ada's grey is permanent and is not recovered** · **the words under the fifth line and under the gap** · **Runa Sato's reason box, never read aloud, never figured** · **the words under the tile** · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **the keeper's six words, not reopened, and her one question in eleven years is not spent a second time** · **the three questions Ines Duarte asked on the sixth of March of year one and the fourth she added at a door on the fourteenth of September of year five, and none of the four is answered.**
+
+**PERMITTED TO CLOSE, AND IT IS THE ONLY ONE:**
+
+> **Whether the woman two flights up off Cordwain ever learns what was done for her.** Open and undated through Volume 12 and **closed in Volume 13, in movement two, at 615–617, by a man who invents figures and not by the man in the bucket, and not as a gift and not on a stage.** She learns it from a slate and from a voice and she is not thanked and she is not given anything and there is no scene in it.
+
+**PERMITTED TO OPEN, AND IT IS ONE:**
+
+> **The wall.** A form from the department of works says the ranks wall comes down in the spring for making good. Two words have survived six years of monthly repainting because the paint goes over them and does not take them, and there is no schedule anywhere in this city for putting two words back onto a wall that does not exist, and no instrument that can make anybody do it, and the office that paints it answers to a department and not to the Register.
+
+## 9. MECHANICAL CHECKS AND WHO OWNS THEM
+
+**A gate record is a claim. Re-run it from outside the pass that wrote it and let the re-run outrank the record. Nine findings in the Volume 12 close audit, eight of them figures somebody carried without re-computing.**
+
+**THE TWO SENTENCES THIS FILE IS WRITTEN UNDER, AND THE SECOND ONE IS THREE CLAUSES:**
+
+> **A figure nobody re-computes is the figure that is wrong.**
+>
+> **A gate row that quotes the prose it is checking cannot catch the prose. Every interval is derived from the spine, twice, by methods that share no constant, with the operands printed — never copied out of the chapter it is meant to be checking. And every gate runs across the whole volume, not across its own ten files.**
+
+- **THE CLASS GREP, NOT THE PHRASE GREP**, and it must contain the word `manuscript` and the word `opposition`: `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`.
+- **All seven weekday names**, whole-word and stem, across every file the batch writes, and **not** the three-letter forms `sat` and `sun`, which are the verb and Sun Meiling.
+- **No announced age**, probed in nine forms plus a bare `aged` sweep plus spelled-out spans. **A span of years is permitted and an age is not.** Agnete Lindqvist is forty-five and is the only age printed in this book that is fixed. **Hanneke Ruis has no age fixed and none may ever be given.** **Mavis Rooke has no age and none is given; the only thing fixed about her is the hands.**
+- **`grep -rio 'right temple' chapters/` must stay at zero across all six hundred and fifty.**
+- **`cuticle` is at four chapters in the book — 329, 340, 404, 446 — and this volume may not add a fifth.**
+- **`ostho` must stay at zero.** The name on the page is **Otho Pearse.**
+- **No floor. No figure of the form 8,1xx anywhere in 601–650. No ledger total. No running balance in grains. `grep -rio 'settle' chapters/volume-13/` returns zero in every inflection.**
+- **Paragraphs over roughly ninety words → 0; over roughly one hundred and twenty → 0. Quotation-mark parity per paragraph, 0 odd. Never run an automatic splitter over prose with dialogue.**
+- **Blockquotes, tables, horizontal rules and code blocks at zero. Bold and italic counted as complete pairs. System panels: at most one per chapter, in square brackets on their own line, never bold or italic.** Volume 12 spent one in fifty chapters against a budget of five. **Volume 13's budget is five, and the standing instruction is that one spent is one too many.**
+- **THE CURLED-QUOTE ROW IS RUN ACROSS THE WHOLE SIXTY-FIVE HUNDRED FILES AND NOT ACROSS ONE BATCH.** This is the close audit's headline finding and it is the single row this volume is most likely to repeat.
+- **12-gram scan FIRST against every chapter in the book including the batch's own, then 11 and 8, and every hit classified by hand rather than counted. A count is not a reading. Then borrowed bodies against §4d, read BEFORE a body is written and not after, and including the stagings §4d names. Then the scene-axis column, because four volumes of the same axis in a row is the duplication this book actually suffers from.**
+- **Every scene measurement printed under three definitions — first-`##`-to-last-`##`, single scene section inclusive, and exclusive — with the line span printed beside every cell.**
+- **Count word banks per file and sum. Never record a word count from a concatenation.**
+- **Titles unique across every file in `chapters/`. Re-run the bank by command in the same commit that writes it, and if a title collides choose another and do not change a written chapter to make room.**
+
+**AND THE ONE MEASUREMENT THIS VOLUME OWES THE NEXT ONE, WHICH IS THE CLOSE AUDIT'S FINDING I RESTATED ON CORRECTED FIGURES:** Volume 12's dramatic density fell at chapter 571 and did not recover — **24.7 · 52.3 · 16.1 · 17.4 · 20.7 quoted spans a chapter across its five movements, counted glyph-neutrally, over ten chapters a movement, with paragraphs at 54.2 · 66.8 · 28.0 · 39.4 · 32.8.** **THE VERDICT WAS THAT NOTHING WAS PADDED AND THE VOLUME'S LAST THIRTY CHAPTERS WERE COMPRESSED. TWENTY-FIVE OF FIFTY CHAPTERS SAT BELOW THE 1,800 GUIDE FLOOR, THE WORST COUNT IN THE MANUSCRIPT, AND THE VOLUME'S MEAN OF 1,874 IS THE LOWEST IN THE BOOK.** **A CHAPTER OF 601–650 THAT LEAVES THE 1,800–2,700 BAND — IN EITHER DIRECTION — RECORDS WHY IN `state/current.md` IN THE SAME COMMIT, AND A CHAPTER THAT CANNOT GIVE A REASON IS NOT FINISHED.** The default is longer, not shorter, and a scene is never compressed to fit a band: 584 ran at 1,648 once and was written out again at 3,022.
+
+## 10. THE TITLE BANK, 601–650 — **PLAN**, and every row was checked by command against all six hundred written title lines on 14 October 2026
+
+**Checked by command:** fifty of fifty absent from the written bank, **zero duplicates inside the bank**, two to twelve words, none over ninety characters, none beginning with *What*, none built out of *nothing* / *nobody* / *there is no*. **IF A TITLE COLLIDES, CHOOSE ANOTHER AND DO NOT CHANGE A WRITTEN CHAPTER TO MAKE ROOM FOR IT.**
+
+| Ch | Title | Ch | Title | Ch | Title | Ch | Title | Ch | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 601 | The Paper That Comes Back | 611 | The Office Named In A Finding | 621 | The First Creditor Comes Down | 631 | A Division That Reads Everything Twice | 641 | A Chart With A Line Going Down |
+| 602 | One Question With No Form | 612 | Nine Divisions Return A Line | 622 | A Broker Who Cannot Unstate | 632 | The Landlord's Man Is Right | 642 | Four Names On A Folded Page |
+| **603** | **The Officer Who Cannot Serve Him** | **613** | **The Sixth Time She Is Asked** | **623** | **A Real Book And A Carrier** | **633** | **One Question On A Returns Desk** | **643** | **The Question He Has Carried Since March** |
+| 604 | The Woman In Number Four | 614 | **The Twenty-First Sheet** | 624 | The Sheet With Two Lines In It | 634 | The Standing He Cannot Strike | **644** | **He Strikes His Own Line** |
+| 605 | She Reads The Foot Of It | 615 | A Desk Under Her Own Stair | 625 | The Nine Hundred Who Cannot Read | 635 | Nineteen Years And No Name | 645 | The Cost Of A Clean Sheet |
+| 606 | The Question In The Fourth Line | 616 | An Entry Open Since September | 626 | **The Twenty-Second Sheet** | 636 | Three Lines And A Yard | 646 | A Figure She Kept Nine Years |
+| 607 | The Vant Cannot Close It | 617 | Which Of These Did You Make Up | 627 | They Take One Line Off | 637 | The Sentence In The Office's Hand | 647 | Four Sentences At The Foot |
+| 608 | A Form From The Department Of Works | 618 | The Man Entitled To Read It | 628 | The Price Of A Figure | 638 | **The Twenty-Third Sheet** | 648 | Stone Under The Paint |
+| 609 | Brack Asks For Nothing | 619 | A Piece Of Paper Came Back | 629 | A Yard Without A Rule | 639 | A Form That Says The Spring | 649 | A Department That Answers Elsewhere |
+| **610** | **Two Flights And A Landing** | 620 | The Week The Yard Decides | 630 | He Is Asked To Put It Back | 640 | The Figure Box Is Blank | 650 | The Wall Comes Down In The Spring |
+
+**THE FIVE IN BOLD ARE SCENES: 603, 613, 623, 633, 643. 610 AND 644 ARE THE BATCH AND VOLUME IRREVERSIBLE DECISIONS.**
+
+**AND THE RULE A TITLE OBEYS, WHICH `outline/volume-12.md` §10 SETTLED AND WHICH STANDS:** *A chapter title names a thing and is between two and twelve words. It may not restate the scene, the hour, the weather, the date, the age of anyone present, or the chapter's own best line. It is unique across every file in `chapters/`.* **The three-word floor was struck in Volume 12 and is not replaced by a floor.** `523` *Lamplit Row* and `527` *Carried By* stay; `534` *What The Church Did Not Bring* stays and names an absence; and this bank contains no row beginning *What* as a choice and not as a rule, because the guard was never about the word.

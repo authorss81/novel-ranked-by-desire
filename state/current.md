@@ -1,3 +1,77 @@
+# VOLUME 13 IS PLANNED. CHAPTERS 601–650 ARE FUTURE AND NONE IS ON DISK. **THIS PHASE WROTE NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, AND DID NOT TOUCH `outline/ending.md`, WHICH IS BYTE-IDENTICAL TO ITS LAST COMMIT. IT WROTE `outline/volume-13.md`, `outline/batches/volume-13-batch-0001.md`, AND EXACTLY ONE NEXT PHASE PROMPT, `workspace/volume-13/batch-0001/PROMPT.md`. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. WHAT THIS PHASE DID, IN ONE PLACE
+
+**VOLUME 12 IS COMPLETE AT 600 AND AUDITED. THE SERIES IS PLANNED PAST 600 AND HAS NEVER SAID OTHERWISE, IN EIGHT PHASES. THIS PHASE IS A VOLUME-PLANNING PHASE AND ITS ONE JOB WAS THE NEXT VOLUME.**
+
+- **`outline/volume-13.md` — VOLUME THIRTEEN, *THE FOURTH LINE*, CHAPTERS 601–650.** Written in the house format, ten sections, every figure taken off a page in 551–600 or out of `reviews/volume-12/volume-close.md` or derived here with operands printed.
+- **`outline/batches/volume-13-batch-0001.md` — TEN CARDS, 601–610, IN THE HOUSE FORMAT.** The house rule, inherited and not relaxed: the outline carries full cards for the first batch only, and a later batch writes its own card against the page and rewrites the outline in the same commit.
+- **`workspace/volume-13/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE.** No other directory, no volume-close prompt, no batch 0002, no `state/complete.md`.
+
+## 0a. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT
+
+**DAY 0 = 1 FEBRUARY, YEAR ONE. A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. A YEAR IS THREE HUNDRED AND SIXTY.**
+
+```
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+METHOD B   absolute month index i = (y-1)*12 + pos(m);  day = 30*i + (d-1)
+           — contains no 360 at all
+
+601   4 Jan y6 = 1773    611  11 Mar y6 = 1840    621  21 May y6 = 1910    631   8 Aug y6 = 1987    641  30 Oct y6 = 2069
+602  10 Jan y6 = 1779    612  17 Mar y6 = 1846    622  28 May y6 = 1917    632  16 Aug y6 = 1995    642   7 Nov y6 = 2076
+603  17 Jan y6 = 1786    613  24 Mar y6 = 1853    623   6 Jun y6 = 1925    633  24 Aug y6 = 2003    643  15 Nov y6 = 2084
+604  24 Jan y6 = 1793    614  30 Mar y6 = 1859    624  13 Jun y6 = 1932    634   1 Sep y6 = 2010    644  23 Nov y6 = 2092
+605  30 Jan y6 = 1799    615   7 Apr y6 = 1866    625  21 Jun y6 = 1940    635   9 Sep y6 = 2018    645  30 Nov y6 = 2099
+606   7 Feb y6 = 1806    616  15 Apr y6 = 1874    626  30 Jun y6 = 1949    636  16 Sep y6 = 2025    646   7 Dec y6 = 2106
+607  14 Feb y6 = 1813    617  22 Apr y6 = 1881    627   7 Jul y6 = 1956    637  24 Sep y6 = 2033    647  15 Dec y6 = 2114
+608  21 Feb y6 = 1820    618  29 Apr y6 = 1888    628  15 Jul y6 = 1964    638  30 Sep y6 = 2039    648  22 Dec y6 = 2121
+609  28 Feb y6 = 1827    619   6 May y6 = 1895    629  23 Jul y6 = 1972    639  12 Oct y6 = 2051    649  27 Dec y6 = 2126
+610   4 Mar y6 = 1833    620  13 May y6 = 1902    630  30 Jul y6 = 1979    640  21 Oct y6 = 2060    650  30 Dec y6 = 2129
+
+MONOTONIC, 0 VIOLATIONS OVER FIFTY CHAPTERS, BY BOTH METHODS. SPAN 2129 - 1773 = 356 elapsed,
+357 inclusive. SEAM 601-600 = 1773 - 1769 = 4.
+BATCH INTERVALS, EACH SUMMED AGAINST ITS OWN ENDPOINTS:
+  0001 601-610  6 7 7 6 7 7 7 7 6    = 60   and 1833 - 1773 = 60   seam 601-600 = 4
+  0002 611-620  6 7 6 7 8 7 7 7 7    = 62   and 1902 - 1840 = 62   seam 611-610 = 7
+  0003 621-630  7 8 7 8 9 7 8 8 7    = 69   and 1979 - 1910 = 69   seam 621-620 = 8
+  0004 631-640  8 8 7 8 7 8 6 12 9   = 73   and 2060 - 1987 = 73   seam 631-630 = 8
+  0005 641-650  7 8 8 7 7 8 7 5 3    = 60   and 2129 - 2069 = 60   seam 641-640 = 9
+  324 across the five batches plus four inter-batch steps of 7, 8, 8 and 9 = 356.
+QUARTER-ENDS  30 Mar y6 = 1859 (614) · 30 Jun y6 = 1949 (626) · 30 Sep y6 = 2039 (638) ·
+              30 Dec y6 = 2129 (650). FOUR, NOT FIVE, BECAUSE VOLUME 13 OPENS FOUR DAYS AFTER
+              THE TWENTIETH SHEET WENT OUT AND DOES NOT INCLUDE IT. ALL FOUR LAND ON A CHAPTER.
+              Every interval between 1769, 1859, 1949, 2039 and 2129 is 90, and 30+30+30 = 90.
+SHEET ORDINALS  614 = TWENTY-FIRST, 626 = twenty-second, 638 = twenty-third, 650 = TWENTY-FOURTH.
+              552 = 16th, 566 = 17th, 576 = 18th, 586 = 19th, 600 = 20th.
+LANE           first morning 3 October of the year before the first = day -118.
+              1773 - (-118) + 1 = 1,892 mornings at 601;  2129 - (-118) + 1 = 2,248 at 650.
+OFFICE         1773 = 30 x 59 + 3 (fifty-nine months, three days);  2129 = 30 x 70 + 29;
+              2160 = 30 x 72 EXACTLY, on the first of February of year seven — the first exact
+              figure this office has ever printed.
+SCENES         603 · 613 · 623 · 633 · 643.  CADENCE 9, 10, 10, 10, 10, IN BAND.
+              PER-WOMAN 567, 550, 98, 515, 59 — REPORTED AND NOT CERTIFIED, and no file in
+              this repository may say one of those five is inside the eight-to-fifteen band.
+ANNIVERSARIES  the second line went up 8 October of year one = 247, and its sixth anniversary
+              is 247 + 360 x 5 = 2,047 = the eighth of October of year six.  The tenth of
+              October of year six, the sixth year of the morning the debt came due, is 2,049.
+              ***NO CHAPTER OF 601-650 LANDS ON EITHER. 638 IS 2,039 AND 639 IS 2,051, AND BOTH
+              DATES FALL IN THE GAP BETWEEN THEM, AND A CHAPTER THAT BRACKETS A GAP MAY NOT
+              REACH ACROSS IT. THE FUSE IS NOT RE-LIT. ***
+SIXTH OF MARCH year one. Day 35. 1115 is withdrawn (close audit, Claim 1). At 633,
+              2003 - 35 = 1,968 days. At 643, 2084 - 35 = 2,049 days, and 2049 - 1800 = 249,
+              which is five years, eight months and nine days.
+```
+
+**ONE THING WORTH RECORDING BECAUSE IT IS THE FAILURE MODE AND IT ALMOST HAPPENED AGAIN.** This phase's first draft of the spine used the January convention `(y-1) × 360 + 330 + (d-1)` for chapter 601, which `outline/volume-12.md` §5b proves impossible, and produced a value four hundred and eighty days out. **It was caught because the check was run against the spine rather than against the prose, and because the alternative method contains no 360 at all.** *A derivation that produces a violation is not a derivation.*
+
+## 0b. THE THREE DECISIONS IN `outline/volume-13.md` THAT A LATER PHASE MUST NOT REVERSE
+
+**1 · THE VOLUME'S OBJECT IS THE FOURTH OF HIS FOUR CONDITIONS.** He entered the four lines against himself, in his own hand, on the ordinary repainting form, in the fifth year, **and three of the four conditions were met and the fourth was not** — `chapter-0548.md`, on the page, and nobody has said it out loud in a room in six years. The fourth line is *and it is not on a page anywhere in this city*, and since the ninth of November of year five the office has printed, in its own hand, that a figure in Ostara may be a figure somebody made up on purpose. **The volume's question is whether the fourth line survives its own author, and the volume's last irreversible decision is at 644: he strikes it out of his own hand, in the office's hand, on the office's own standing page, with his own name under the striking, and writes nothing in its place.**
+
+**2 · THREE OF THE FIVE THREADS VOLUME 12 DELIBERATELY LEFT OPEN ARE HANDED ON AND ONE IS PAID.** `reviews/volume-12/volume-close.md` §11 handed two: *whether the woman two flights up ever learns*, and *what comes off the shelf on the first of January*. **The second one is a keeper's book that came off the shelf in Volume 12 at 553 and 554 and is spent. The first one is the Register's first creditor and Volume 13 closes it in movement two, at 615 and 617, made by Emil Brack and not by Lin Hao, and not as a scene and not as a gift.** Volume 13 opens exactly one thread of its own: **a form from the department of works says the ranks wall comes down in the spring for making good, and two words that have survived six years of monthly repainting are on the stone.**
+
+**3 · THE HOUSE FORM IS SETTLED FOR THE FIRST TIME IN A PLANNING FILE.** `reviews/volume-12/volume-close.md` Finding B: 1,540 straight quotes in 551–570, 0 in 571–600, 35,895 across Volumes 01–11. **Volume 13 writes curly, because that is what the book has been written in for thirty chapters, and the quotation-form gate is run across the whole volume and not across one batch.** A gate that measures only its own ten files cannot see what happened before it, and that is how four arithmetic gates passed a house-form change.
+
 # VOLUME 12 CLOSE AUDIT HAS RUN. CHAPTERS 551–600 ARE ON DISK AND THE VOLUME IS CLOSED IN PROSE. **FIFTY FINISHED FILES, 93,730 WORDS COUNTED PER FILE AND SUMMED BY COMMAND (21,947 · 26,625 · 14,076 · 17,543 · 13,539 — ALL FOUR RECORDED FIGURES RE-DERIVE EXACTLY). THE AUDIT IS AT `reviews/volume-12/volume-close.md`. IT WRITES NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, AND DID NOT TOUCH `outline/ending.md`, WHICH IS BYTE-IDENTICAL TO ITS LAST COMMIT. THE SPINE 1,406–1,769 RE-DERIVED TWICE BY METHODS SHARING NO CONSTANT: FIFTY OF FIFTY DATES AGREE, ZERO MONOTONIC VIOLATIONS, AND SEVENTY-THREE DERIVED FIGURES RUN AT ZERO FAILURES. THE 580→581 SEAM (1,649 − 1,627 = 22) AND THE TWO-DAY ANNIVERSARY CORRECTION (1,689 − 1,687 = 2) BOTH HOLD. NINE FINDINGS, ONE CLASS APPLIED AND EIGHT RECORDED — THE ONE APPLIED CLASS IS TWO UNREACHABLE LINE SPANS IN A LIVE STATE BLOCK, NOT ONE WORD OF PROSE. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE NINE FINDINGS, AND THE ONE THAT SETTLES A CARRIED CONFLICT AGAINST A STATE FILE
