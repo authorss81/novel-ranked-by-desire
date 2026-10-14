@@ -1,6 +1,6 @@
 # A Piece Of Paper Came Back
 
-Seven days had gone since a clerk read four sentences at the foot of a page out loud to a man who was not permitted to answer any of them, and then wrote a minute of his own into a file and put it in front of a magistrate. One thousand eight hundred and ninety-five less one thousand eight hundred and eighty-eight is seven, and six less twenty-nine is seven by the month count, because the twenty-ninth is the last day of April and a month has thirty days.
+Seven days had gone since a clerk read four sentences at the foot of a page out loud to a man who was not permitted to answer any of them, and then wrote a minute of his own into a file and put it in front of a magistrate. One thousand eight hundred and ninety-five less one thousand eight hundred and eighty-eight is seven, and six less twenty-nine is seven by the month count, because the thirtieth is the last day of April and a month has thirty days.
 
 He went down to the ground floor of the branch building at about eleven at night on the sixth of May, into a long corridor with a lamp on a stand at the end of it and three floors of washrooms overhead, and there were three women on the rota and the folded page on its nail behind him with four names on it.
 
@@ -120,4 +120,4 @@ She went back to her bundle and Petra Ilyin turned a page and Isolde Marchetti r
 
 *Less the fourth of January, one thousand seven hundred and seventy-three, is one hundred and twenty-two, and one hundred and twenty-two is four months and two days. The first demand came into the room off a third court on the fourth. The second one came onto a branch counter off a third court at about eleven at night on this morning, dated the ninth of April, which is day one thousand eight hundred and sixty-eight, and there was no address at the head of it.*
 
-*Less the fourteenth of November, one thousand seven hundred and twenty-three, is one hundred and seventy-two days, and the line went out at four on that day with his name under it in the office’s own hand.*
+*Less the thirteenth of November, one thousand seven hundred and twenty-two, is one hundred and seventy-three days, and the line went out at four on that day with his name under it in the office’s own hand.*

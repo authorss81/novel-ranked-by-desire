@@ -2,7 +2,7 @@
 
 Eight days had gone since a man at a desk under a window told him that a woman two flights up had asked whether anybody in this city knew what a figure is. One thousand eight hundred and seventy-four less one thousand eight hundred and sixty-six is eight, and fifteen less seven is eight by the month count.
 
-He went up the stair off a street off Cordwain at about half past two in the afternoon on the fifteenth of April, and it is not Cordwain and it is not the passage and the stair is not the one he went up on the fourth of March, and he was aware of all three of those things the entire way up.
+He went up the stair off a street off Cordwain at about half past two in the afternoon on the fifteenth of April, and none of it is Cordwain and none of it is the passage and the stair is not the one he went up on the fourth of March, and he was aware of all three of those things the entire way up.
 
 He wanted to know whether a page can shut a book entry, and he had wanted to know it since about eleven o’clock the night before, and it is the kind of question a man asks at two in the afternoon because he cannot ask it at eleven at night in a building with a drawer open.
 
@@ -22,9 +22,9 @@ She went in and left the door open behind her and he stood by the wall.
 
 ## The Fifth Calling
 
-“It was called at the fifth valuation on the second of April,” she said. “That is nine days ago and I did not write to anybody and I am not writing to you.”
+“It was called at the fifth valuation on the second of April,” she said. “That is thirteen days ago and I did not write to anybody and I am not writing to you.”
 
-“Two letters at the foot of it and no name, and the guild carries every debt it cannot close at a rating of seven, and a rating is not a sum of money and a rating is not a figure anybody can be given, and it has been called five times and answered five times not at all.”
+“Two letters at the foot of it and no name, and it has stood in that book since the sixteenth of September, and the guild carries every debt it cannot close at a rating of seven, and a rating is not a sum of money and a rating is not a figure anybody can be given, and it has been called five times and answered five times not at all.”
 
 “You told me in February that an entry closes two ways. Paid, or proved.”
 
@@ -72,7 +72,7 @@ The room had a low ceiling and the floor of a sales floor was over it and somebo
 
 She took a second book down off a shelf inside that room, which he had not seen in February, and it was not chained, and it was about half the size of the other one.
 
-“This is not the guild’s and it is not in the guild’s room and it is not sealed with anything, and I have kept it myself for nine years for reasons that are my own and are not yours.” She opened it on the table beside the other one and turned it round so that it faced him.
+“This is not the guild’s and it is not in the guild’s room and nothing is sealed with anything, and I have had it in that room since long before there was anything in it, for reasons that are my own and are not yours.” She opened it on the table beside the other one and turned it round so that it faced him.
 
 “An entry that was written off in the fourth year. I put it in here in the fifth so that I would stop thinking about it, and I have never shown it to anybody, and I am showing it to you because of what you have printed, and I would like that written down somewhere that I showed you.”
 
@@ -86,7 +86,7 @@ It was four lines long and it had a rating against it and at the foot of it in a
 
 She shut the second book and put it back on the shelf.
 
-“That was four years ago and I have carried it since,” she said, “and in fourteen years I have not met a second person who could see it and it has been sitting on a shelf in a room off a landing the whole time.”
+“That was two years ago and I have carried it since,” she said, “and in fourteen years I have not met a second person who could see it and it has been sitting on a shelf in a room off a landing the whole time.”
 
 ## The Second Of May
 

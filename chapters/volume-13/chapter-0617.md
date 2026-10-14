@@ -158,7 +158,9 @@ Brack put the rag in his coat.
 
 “You can read it.”
 
-“I can read it and I have not,” said Emil Brack. “Read me the line.”
+“I can read it and I have not,” said Emil Brack.
+
+“Read me the line.”
 
 And the woman who cannot read stood at the wall end of a lane at about ten to seven in the morning and put her thumb on nothing and said, “Say it again,” and Emil Brack said it again.
 
@@ -178,4 +180,4 @@ And it had been there all along, in a clerk’s hand, since the eleventh of July
 
 *Less the twenty-eighth of February, one thousand eight hundred and twenty-seven, is fifty-four, and a man with a chalk went up a stair behind that lane on that morning and said he had never thanked him and was not going to. Less the eleventh of July, which is day one thousand two hundred and forty, and is the day the ninth line down went into a book in a clerk’s hand, is six hundred and forty-one days of it standing on a page with no name against it.*
 
-*Less the fourteenth of November, one thousand seven hundred and twenty-three, is one hundred and fifty-eight, and the line went out at four on that day with his name under it. The twenty-first sheet went out at four on the thirtieth of March, which is twenty-two days back, and the twenty-second goes out at four on the thirtieth of June, which is day one thousand eight hundred and forty-nine, and that is sixty-eight days from this morning.*
+*Less the thirteenth of November, one thousand seven hundred and twenty-two, is one hundred and fifty-nine, and the line went out at four on that day with his name under it. The twenty-first sheet went out at four on the thirtieth of March, which is twenty-two days back, and the twenty-second goes out at four on the thirtieth of June, which is day one thousand nine hundred and forty-nine, and that is sixty-eight days from this morning.*

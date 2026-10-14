@@ -90,7 +90,7 @@ He put his thumb on the ninth return.
 
 “I have known that since the seventh of February. I have had seven weeks to find a way of writing a finding about a rule that nobody can try and I have not found one, and there is not one.”
 
-“Two. A figure in Ostara may be a figure somebody made up on purpose, and it says so in the office’s own hand with a man’s name under it, and that sentence is in this file, and it is at the foot of the same page as the sentence about a blank, four inches away, in the same hand, and about two thousand people a day are obliged to read them as they go past.”
+“Two. The sentence about figures being made up on purpose is in this file in the office’s own hand with a man’s name under it, and it stands at the foot of the same page as the sentence about a blank, four inches away, in the same hand, and about two thousand people a day are obliged to read them as they go past.”
 
 “That is not a question.”
 
@@ -132,7 +132,7 @@ He put the pen down.
 
 Lin Hao read the four sentences back at the same speed, because that is what a man does when he has been told to read four sentences back.
 
-The last of the four was in a hand that was his own and had been in a file since the seventh of March and was going in front of a magistrate in about ten minutes, and there was not one thing in this city he could do about it, and there had not been one thing in this city he could do about it since the eleventh of March.
+The last of the four was about a rule and not about a person at all, and it had taken the clerk seven weeks to think of and about four minutes to write, and it was going in front of a magistrate in about ten minutes, and there had not been one thing in this city Lin Hao could do about it since the eleventh of March.
 
 He put the page down and said it was correct and went out, and the clerk did not look up, which was the correct thing to do and was also, in that room, a kind of accuracy.
 
@@ -140,4 +140,4 @@ He put the page down and said it was correct and went out, and the clerk did not
 
 *Less the fourth of January, one thousand seven hundred and seventy-three, is one hundred and fifteen, and one hundred and fifteen is three months and twenty-five days. The demand came into the room off a third court on the fourth, a name went into a finding on the eleventh, nine divisions returned a line on the seventeenth, the line went to the counter on the twenty-sixth, the finding went up on the twenty-seventh, and the twenty-first sheet went out at four on the thirtieth of March.*
 
-*Less the thirtieth of December, one thousand seven hundred and sixty-nine, is one hundred and nineteen days, and the twentieth sheet went out at four on that day and the ninth of November is day one thousand seven hundred and twenty-two, so the first of the four sentences at the foot of a page has been going out at four for one hundred and sixty-six days with a name under it.*
+*Less the thirtieth of December, one thousand seven hundred and sixty-nine, is one hundred and nineteen days, and the twentieth sheet went out at four on that day and the thirteenth of November is day one thousand seven hundred and twenty-two, so the first of the four sentences at the foot of a page has been going out at four for one hundred and sixty-six days with a name under it.*

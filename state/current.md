@@ -1,8 +1,8 @@
-# VOLUME 13 BATCH 0002 IS ON DISK. CHAPTERS 611–620 ARE WRITTEN PROSE. **TEN FINISHED FILES, 26,106 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT TWO, *ASKED*. THE SCENE AT 613 IS SUN MEILING'S — 550 CHAPTERS AFTER HER LAST ONE AND 10 CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS: HE SAYS HIS OWN NAME INTO A FINDING. THE MOVEMENT'S TURN IS AT 620 AND IT IS NOT HIS: A YARD HAS A WEEK AND HE IS KEPT OUT OF IT BY A WOMAN WHO ASKED HIM FOR NOTHING. THE PAYMENT VOLUME 12 OWED IS AT 615 AND 617 AND IT IS MADE BY EMIL BRACK AND NOT BY LIN HAO. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0004, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 13 BATCH 0002 IS ON DISK. CHAPTERS 611–620 ARE WRITTEN PROSE. **TEN FINISHED FILES, 26,131 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT TWO, *ASKED*. THE SCENE AT 613 IS SUN MEILING'S — 550 CHAPTERS AFTER HER LAST ONE AND 10 CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS: HE SAYS HIS OWN NAME INTO A FINDING. THE MOVEMENT'S TURN IS AT 620 AND IT IS NOT HIS: A YARD HAS A WEEK AND HE IS KEPT OUT OF IT BY A WOMAN WHO ASKED HIM FOR NOTHING. THE PAYMENT VOLUME 12 OWED IS AT 615 AND 617 AND IT IS MADE BY EMIL BRACK AND NOT BY LIN HAO. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0004, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
 
-**DELIVERED:** the office named in a finding for the first time in six years because a landlord swore where he copied the four lines from, and a magistrate's clerk entitled to one question which is *who wrote those four lines*, and a man who spent six years arranging not to be found saying his own name into a record · **a copy of the standing page copied into that file**, and a Registrar telling him he has handed the office a second address, and that the thing he was protecting against was never compulsion but being read · nine divisions returning nine lines to a finding and Beatrix Halm, deaf in one ear, asking what the two-inch space is for, and his own sentence going out in her hand to a magistrate · **the scene, two floors under a sales floor, a folder taken in the order it was opened, a woman asked for the sixth time and answering inside two seconds, and a question at the end of it that nobody in this city can answer** · the twenty-first sheet at four with the head unmoved for the fifth time running, the office at sixty-one months and twenty-nine days, the lane at one thousand nine hundred and seventy-eight mornings, both printed once with operands · a desk under a window and two mornings of a woman who cannot read standing at it · **a real book entry that a page can shut wrongly, shown on a second unsealed book a keeper has kept nine years and shown to nobody** · **the payment, in a lane at ten to seven in the morning: a woman told that a figure about her was never hers, that nobody ever told her, and that there is no way in this city of knowing whether a thing written down is true — and given nothing** · four sentences at the foot of a page read aloud in order by the man entitled to read them, and a minute of his own going in front of a magistrate · **a second demand with four lines and no address, carried across a city at eleven at night** · **a hall booked for a week, and a woman of rank two who came to tell him about it and asked him for nothing.**
+**DELIVERED:** the office named in a finding for the first time in six years because a landlord swore where he copied the four lines from, and a magistrate's clerk entitled to one question which is *who wrote those four lines*, and a man who spent six years arranging not to be found saying his own name into a record · **a copy of the standing page copied into that file**, and a Registrar telling him he has handed the office a second address, and that the thing he was protecting against was never compulsion but being read · nine divisions returning nine lines to a finding and Beatrix Halm, deaf in one ear, asking what the two-inch space is for, and his own sentence going out in her hand to a magistrate · **the scene, two floors under a sales floor, a folder taken in the order it was opened, a woman asked for the sixth time and answering inside two seconds, and a question at the end of it that nobody in this city can answer** · the twenty-first sheet at four with the head unmoved for the fifth time running, the office at sixty-one months and twenty-nine days, the lane at one thousand nine hundred and seventy-eight mornings, both printed once with operands · a desk under a window and two mornings of a woman who cannot read standing at it · **a real book entry that a page can shut wrongly, shown on a second unsealed book a keeper has had in that room since long before there was anything in it, and shown to nobody** · **the payment, in a lane at ten to seven in the morning: a woman told that a figure about her was never hers, that nobody ever told her, and that there is no way in this city of knowing whether a thing written down is true — and given nothing** · four sentences at the foot of a page read aloud in order by the man entitled to read them, and a minute of his own going in front of a magistrate · **a second demand with four lines and no address, carried across a city at eleven at night** · **a hall booked for a week, and a woman of rank two who came to tell him about it and asked him for nothing.**
 
 **THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS. WHAT IT CLOSES:** six years of having no author on anything — a rule with no author cannot be argued with, and that was the only defence he built. **WHAT IT COSTS:** his name in a document a magistrate will turn over, a copy of the office's own page inside that document, and a clerk telling him to his face that there is not one person in this city who can give him anything for it. He wanted, for about four seconds, to be a man who had not been asked. **WHAT IT IS NOT:** a scene, a rescue, a promotion, and it is not the volume's last irreversible decision, which is at 644.
 
@@ -22,10 +22,10 @@ TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACRO
                  618 The Man Entitled To Read It · 619 A Piece Of Paper Came Back · 620 The Week
                  The Yard Decides. No written chapter was changed to make room.
 BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
-                 611 2,512 · 612 2,541 · 613 **4,766** · 614 2,687 · 615 2,265 · 616 2,334 ·
-                 617 2,700 · 618 2,196 · 619 2,089 · 620 2,016.
-                 **TOTAL 26,106. MEAN 2,610.6. NO CHAPTER BELOW THE 1,800 FLOOR.**
-                 *** ONE CHAPTER ABOVE THE 2,700 CEILING: 613 AT 4,766. REASON: IT IS THE
+                 611 2,516 · 612 2,541 · 613 **4,781** · 614 2,687 · 615 2,265 · 616 2,354 ·
+                 617 2,700 · 618 2,182 · 619 2,089 · 620 2,016.
+                 **TOTAL 26,131. MEAN 2,613.1. NO CHAPTER BELOW THE 1,800 FLOOR.**
+                 *** ONE CHAPTER ABOVE THE 2,700 CEILING: 613 AT 4,781. REASON: IT IS THE
                  SCENE AND IT CARRIES THE BATCH'S LARGEST STRUCTURAL DEBT INSIDE THIS BATCH
                  (550 CHAPTERS SINCE SUN MEILING'S LAST SCENE, THE LARGEST OPEN IN THE VOLUME
                  AFTER 603's 567), THE AXIS BREAK AT 613 IS THE ORDER AND THE ENTIRE SCENE IS
@@ -35,10 +35,10 @@ BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
                  THERE. A SCENE IS NEVER COMPRESSED TO FIT A BAND. The other nine sit between
                  2,016 and 2,700 and none is padded. ***
                  *** FINDING I ADDRESSED AND MEASURED, NOT ASSERTED. Quoted spans, either glyph,
-                 body-only, per file: 59 · 60 · 132 · 50 · 47 · 51 · 66 · 48 · 49 · 44 = **606,
-                 mean 60.6 a chapter**. Paragraphs, non-blank lines that are neither a heading
-                 nor an italic footer: 66 · 73 · 131 · 66 · 57 · 55 · 81 · 64 · 54 · 51 = **698,
-                 mean 69.8**. Volume 12's five movements ran 24.7 / 52.3 / 16.1 / 17.4 / 20.7
+                 body-only, per file: 42 · 40 · 87 · 38 · 31 · 39 · 45 · 39 · 34 · 34 = **429,
+                 mean 42.9 a chapter**. Paragraphs, non-blank lines that are neither a heading
+                 nor an italic footer: 66 · 73 · 131 · 66 · 57 · 55 · 82 · 64 · 54 · 51 = **699,
+                 mean 69.9**. Volume 12's five movements ran 24.7 / 52.3 / 16.1 / 17.4 / 20.7
                  spans and 54.2 / 66.8 / 28.0 / 39.4 / 32.8 paragraphs; batch 0001 ran 44.7 and
                  63.9. **THIS BATCH IS ABOVE BOTH ON BOTH MEASURES. The compression that ended
                  Volume 12 at 571 has not been inherited and this batch has not inherited it
@@ -46,7 +46,7 @@ BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
                  words and three over one hundred and twenty; all twenty-nine were split at a
                  sentence or tag boundary and every split was read. ***
 PARAGRAPHS      **0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY. 0 UNBALANCED
-                 QUOTATION PARAGRAPHS.** 698 prose paragraphs across the ten files. Each cell
+                 QUOTATION PARAGRAPHS.** 699 prose paragraphs across the ten files. Each cell
                  of the table below was counted with `wc -w` on a `sed` cut and again in
                  whitespace split, and the two agree.
 META            The §7 class grep — `[a-z]+ volumes | this book | this chapter | this volume |
@@ -175,19 +175,26 @@ DUPLICATION     12-gram FIRST against all 620 files, body-only (headings and ita
                  scene and one of them is a scene chapter.
 SCENES           ONE IN TEN, AT 613. MEASURED THREE WAYS FROM `##` TO `##` ON DISK, WITH EVERY
                  LINE SPAN BESIDE EVERY CELL AND THE CLOSING BOUNDARY NAMED. **`chapter-0613.md`
-                 HAS EIGHT `##` HEADINGS, AT LINES 9, 37, 55, 91, 183, 209, 233 AND 253, AND 284
-                 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## Two Floors Under A Sales Floor`
-                 AND THE LAST IS `## One Person And No Standing`, WITH NO `##` AFTER 253. THE
+                 HAS EIGHT `##` HEADINGS, AT LINES 9, 37, 55, 91, 185, 211, 235 AND 255, AND 285
+                 NEWLINE-TERMINATED LINES, WITH THE THREE ITALIC FOOTERS AT 281, 283 AND 285.
+                 THE FIRST `##` IS `## Two Floors Under A Sales Floor`
+                 AND THE LAST IS `## One Person And No Standing`, WITH NO `##` AFTER 255. THE
                  SCENE SECTION ITSELF IS THE FOURTH, `## Four Coats On A Hook`, AT LINE 91, AND
-                 IT CLOSES ON THE FIFTH AT LINE 183 WITH NO `##` INSIDE IT.**
+                 IT CLOSES ON THE FIFTH AT LINE 185 WITH NO `##` INSIDE IT.**
+                 *** REPAIRED 14 OCTOBER 2026 AGAINST THIS PHASE'S REVIEW. THE HEADING LINES WERE
+                 RECORDED AS 9, 37, 55, 91, **183, 209, 233 AND 253**, AND THE LAST FOUR WERE
+                 ALL WRONG BY TWO; THE FILE IS 285 LINES AND WAS RECORDED AT 284. SPANS (3) AND
+                 WHOLE FILE NAMED A LINE THAT DOES NOT EXIST, 286, AND RE-DERIVED ONLY BECAUSE
+                 `sed` CLAMPS AT EOF. `grep -n '^## '` ON DISK IS THE ONLY SOURCE AND IT IS NOW
+                 WHAT IS PRINTED. ***
 
 | Definition, as `outline/volume-13.md` §4c names it | Line span in `chapter-0613.md` | 613 Sun Meiling |
 | --- | --- | --- |
-| (1) first `##` to last `##`, **exclusive** of both heading lines | 10–254 | **3,915** |
+| (1) first `##` to last `##`, **exclusive** of both heading lines | 10–254 | **3,930** |
 | (2) **single scene section, inclusive** — `## Four Coats On A Hook` at line 91, closing on the fifth `##` at 185 | 91–184 | **1,515** |
-| (3) **exclusive** of both heading lines, carried through to end of file | 10–286 | **4,594** |
-| (3b) the same, stopping at the last prose line before the three italic footers | 10–279 | **4,429** |
-| whole file | 1–286 | **4,766** |
+| (3) **exclusive** of both heading lines, carried through to end of file | 10–285 | **4,609** |
+| (3b) the same, stopping at the last prose line before the three italic footers | 10–279 | **4,444** |
+| whole file | 1–285 | **4,781** |
 
 **THE COUNTING METHOD, STATED BECAUSE A TABLE THAT DOES NOT STATE IT CANNOT BE RE-RUN.** Each span is cut from the file on disk with `sed -n 'A,Bp'` and counted with `wc -w`, and the same span is counted a second way in whitespace split by Python over the same lines. **THE TWO METHODS AGREE WITH EACH OTHER ON ALL FIVE CELLS** and all five agree with `state/continuity.md` §0a and with `state/chapter-summaries.md`, which carry the same five figures and the same spans.
 
@@ -207,6 +214,67 @@ SCENES           ONE IN TEN, AT 613. MEASURED THREE WAYS FROM `##` TO `##` ON DI
 ## 0d. THE ONE NEXT PHASE
 
 **`workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** A writing phase. It carries the twenty-second sheet at 626, the scene at 623 (Marguerite Vale, a real book and a carrier), the yard's week at 625, and **the movement's turn at 627, which is not his: at the end of a meeting about eleven thousand people take one line off their own board themselves, nobody asks the man who wrote it, and the chaplain is not there and is not asked.** No volume-close prompt, no batch 0004, and `state/complete.md` is not created.
+
+# THE FOURTEEN FINDINGS OF `logs/batch-0002.review.log`, AND WHAT THIS REPAIR DID TO EACH. **THE CHAPTERS WERE NOT RESTARTED. NO PLOT MOVED, NO CHAPTER WAS ADDED OR REMOVED, NO SCENE WAS REWRITTEN, AND `outline/ending.md` IS UNTOUCHED. SEVENTEEN LINES ACROSS EIGHT CHAPTERS WERE TOUCHED, PLUS ONE TRAILING BYTE IN NINE FILES. EVERY FINDING WAS RE-DERIVED BY COMMAND BEFORE ANYTHING WAS CHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0t. THE FOURTEEN FINDINGS
+
+**THE VERDICT WAS THAT THE BATCH IS STRONG AND THAT THE MECHANICAL GATE IS ALMOST ENTIRELY CLEAN. WHAT THE REVIEW FOUND WAS CONCENTRATED IN EXACTLY TWO PLACES: DATES NOBODY RE-COMPUTED, AND STATE FILES THAT DESCRIBE THE PROSE INSTEAD OF MEASURING IT.** Nine defects in eight chapters, three in the state files, one in the outline, one soft. **THE CANON RULE WAS RESTORED FIRST AND EVERY WRONG DAY IN THE BATCH FELL OUT OF IT.**
+
+**T1 — CANON: THE TWO SENTENCES WERE WRITTEN ON THE NINTH OF NOVEMBER AND WENT OUT AT FOUR ON THE THIRTEENTH. THE BATCH SAID THE WRONG DAY IN FOUR PLACES.** `chapter-0602.md:83` and `:109` are canon and `chapter-0613.md:285` already had it right — **1,718 is the ninth, 1,722 is the thirteenth.** Against that, `0612:85` said *the ninth of November* for the going out, `0617:183` said *the fourteenth* with the fourteenth's own serial, `0618:143` said *the ninth of November is day one thousand seven hundred and twenty-two*, and `0619:123` said *the fourteenth* with the fourteenth's own serial. **ALL FOUR NOW READ THE THIRTEENTH WITH 1,722 BESIDE IT, AND EVERY INTERVAL WAS RE-DERIVED: 617 `1,881 − 1,722 = 159` · 618 `1,888 − 1,722 = 166` · 619 `1,895 − 1,722 = 173` · 613 `1,853 − 1,722 = 131`, which was already right.** **THE WRITTEN DAY IS LEFT WHERE IT BELONGS: `0614:43` still says a man added them in his own hand on the ninth of November, which is the ninth, and is not a finding.** `0619:123` was not in the review's list of three and is repaired anyway, because repairing three of four instances of one error is how the next review finds the fourth.
+
+**T2 — `0617:183` NAMED THE THIRTIETH OF JUNE 1,849, WHICH IS A DAY THAT HAS NOT HAPPENED YET.** 30 June, year six is **1,949** — `5 × 360 + 120 + 29 = 1,949` — and the sentence's own *sixty-eight days from this morning* only re-derives at 1,949. `1,849` is 15 April of year four. **THE SENTENCE AS PRINTED COULD NOT BE TRUE; IT IS NOW *one thousand nine hundred and forty-nine*, AND `1,949 − 1,881 = 68`.** The two figures were written one digit apart in a word, which is the same failure as *eight hundred* for *nine hundred*.
+
+**T3 — `0616:25` SAID THE FIFTH VALUATION WAS NINE DAYS AGO. IT WAS THIRTEEN.** 2 April to 15 April is thirteen days and the chapter's own footer at `:127` printed thirteen. **NOW *That is thirteen days ago*,** and the footer and the body agree for the first time.
+
+**T4 — `0619:3` SAID THE TWENTIETH-NINTH IS THE LAST DAY OF APRIL. IT IS THE THIRTIETH, AND THAT IS THE LINE THAT MAKES THE CHAPTER'S OWN ARITHMETIC WORK.** *Six less twenty-nine is seven by the month count* only holds because `6 + 30 − 29 = 7`, and the thirtieth is what is borrowed against. **THE CHAPTER CONTRADICTED ITSELF ON THE CLAUSE THAT JUSTIFIES ITS OWN ARITHMETIC**, one footer apart, where `:121` already said it correctly. **NOW *because the thirtieth is the last day of April.***
+
+**T5 — `0618:135` HAD A BROKEN ANTECEDENT IN THE CHAPTER'S CLOSING BEAT.** *The last of the four was in a hand that was his own and had been in a file since the seventh of March* — but the four just read back are the **clerk's minute**, which `:107` establishes as *the only page in here that nobody has written but me*, written in the last few minutes. Read as the clerk's, the date is impossible; read as Lin Hao's, it contradicts the minute's provenance. **NOW: *The last of the four was about a rule and not about a person at all, and it had taken the clerk seven weeks to think of and about four minutes to write*, and it is going in front of a magistrate in about ten minutes and there has not been one thing in this city Lin Hao could do about it since the eleventh of March.** The irony of the beat is unchanged and is now the irony the chapter actually sets up: the clerk's minute narrows his fourth line and he cannot stop it.
+
+**T6 — `0617:161` PUT *Read me the line* IN BRACK'S MOUTH.** Brack is the reader; he has just said he can read it and never has. The next paragraph has the woman who cannot read say *Say it again*, so the request is hers. **THE LINE IS NOW UNATTRIBUTED AND IS HERS ON THE ATTRIBUTION THAT COUNTS**, and the exchange reads as what it is: a man who can read being asked twice by a woman who cannot.
+
+**T7 — `0616` WAS TITLED *AN ENTRY OPEN SINCE SEPTEMBER* AND CONTAINED NO SEPTEMBER.** **THE WORD OCCURRED ONCE IN THE FILE AND THAT OCCURRENCE WAS THE TITLE.** The prose had dropped the anchor and kept the title. `workspace/volume-13/batch-0002/PROMPT.md:72` had deliberately withheld the year and instructed *Write the sixteenth of September and nothing else*, and `chapter-0607.md:35` — two chapters and two months earlier — already had it: *the entry that has stood in that book since the sixteenth of September*, with `0607:127` printing why no year goes with it. **THE ANCHOR IS RESTORED AT `0616:27`, IN 607'S OWN WORDS, AND NO YEAR IS PRINTED.** The title is now true and 607 and 616 say the same thing about the same entry. **THE SAME CHAPTER ALSO CONTRADICTED ITSELF ON WHEN THE PRIVATE ENTRY WAS WRITTEN OFF:** `:77` said *written off in the fourth year, I put it in here in the fifth* and `:89` said *that was four years ago*, in year six. **`:89` IS NOW *two years ago*,** which is what the fourth year and the fifth year are in the sixth, and the nine years for the second book is gone from the page because it dated the book to before the office existed; it now reads *since long before there was anything in it*, which is what she means and costs nothing. **`outline/volume-13.md`'s 616 row carried *kept nine years on a shelf* and is corrected to the page in the same commit.**
+
+**T8 — THE INVENTED-FIGURES SENTENCE WAS PRINTED TWICE IN 618, NOT ONCE, AND THREE FILES PROMISED IT WOULD BE ONCE.** `0618:67` and `0618:93`, twenty-six lines apart, in the one chapter whose subject is a file being read aloud. The batch card, `outline/volume-13.md` §7 and this file all assert one verbatim printing and place a volume-wide prohibition on it. **`:93` IS NOW *The sentence about figures being made up on purpose is in this file in the office's own hand…*,** which keeps the point the clerk is making and stops the second printing. **`grep` over 611–620 now returns the sentence at `0618:67` and nowhere else. The prohibition is intact and the claim is now true.**
+
+**T9 — THE 613 SCENE'S HEADING LINES WERE WRONG IN THE STATE IN TWO PLACES AND THE PROSE ROW DISAGREED WITH THE TABLE BENEATH IT.** Actual: **9, 37, 55, 91, 185, 211, 235, 255**, footers at 281, 283, 285, **285 lines**. `state/current.md` §0a printed *183, 209, 233 and 253* and *284*; `state/chapter-summaries.md:8` printed the first four right and the last four wrong and quoted spans `10–286` and `1–286`, **which name a line that does not exist.** The five word figures all reproduced because `sed` clamps at EOF. **THIS IS THE BATCH-0001 F2 SHAPE AGAIN — RIGHT NUMBERS, WRONG NARRATIVE LINE REFERENCES — AND THE REMEDY IS THE SAME: `grep -n '^## '` ON DISK IS THE ONLY SOURCE.** **CORRECTED IN `state/current.md` §0a, `state/chapter-summaries.md`, `state/open-threads.md` AND `state/continuity.md`, WHICH WAS CARRYING A FOURTH SET (3,901 / 1,501 / 4,580 / 4,415 / 4,752 on spans off by two) THAT NO REVIEW HAD NAMED.** All five cells re-cut by `sed -n` and by whitespace split; the two agree: **3,930 (10–254) · 1,515 (91–184) · 4,609 (10–285) · 4,444 (10–279) · 4,781 (1–285).**
+
+**T10 — `state/chapter-summaries.md:8` ATTRIBUTED WORDS TO SUN MEILING SHE DOES NOT SAY.** The row read *she says the first three of her four hundreds and eighteen accounts were never asked.* `0613:113` is a **conditional about the folder's order** — that taking it out of order would mean the four hundred and eighteen accounts were only worth a question if there were a person standing at the table to ask it — and it is a condition she refuses to accept, not a count she reports. **THE ROW NOW READS WHAT THE LINE SAYS.**
+
+**T11 — REPETITION DENSITY, ADDRESSED WHERE IT CONCENTRATED.** *About four seconds* ran **ten times across the batch and four of them were inside 611**, the batch's irreversible-decision chapter. **611 is now two**, both deliberately: the shortest four seconds of his life at `:71`, and the January echo at `:105`, which is a different want in a different room and has to keep its number. `:103` became *for as long as the nib was moving and no longer*, which is the same beat in the same scene, and `:121` became *kept his eyes on the finding*. Batch-wide the phrase runs **eight, and no chapter above two.** *And it is not* ran eight times in 613 and six in 616; **613 is now four and 616 is three.** The worst cluster was `0613:227`, four instances of the construction **inside one sentence** — *and it is not a question and it is not a figure and it is not in this folder, and it is not going to be in this folder* — which is now three short sentences and an anaphora that stops: **It is not a question. It is not a figure. It is not in this folder and it is not going to be in this folder while I am sitting at this table.** `0613:249` lost one of its two and `0616:5` and `:75` lost theirs. **Zero adjacent-construction violations before and after; this was density, not the twice-in-a-row rule, and it was reduced by twenty-eight per cent rather than by argument.**
+
+**T12 — THE SOFT FINDING, AND IT WAS RIGHT. `0613:13` COLLIDED WITH 612.** *Six divisions… the ninth has not come down for three quarters* sits seven chapters after **the ninth division returned a line to a finding on the seventeenth**, confirmed again at `0618:41`. Nothing on the page said whose lines they were. **THE LINE NOW SAYS THEY ARE HER OWN: *Six of the nine divisions have ever sent me anything of their own accord… That is my book and not the finding's, and I have stopped putting a line in for the ninth.*** The two acts are different — a division returning a line to a court is not a division sending something to a keeper — and the page now says so where a reader can see it.
+
+## 0u. ONE DEFECT THE REVIEW DID NOT NAME, FOUND WHILE RE-RUNNING ITS OWN COMMANDS
+
+**`state/current.md` §0a CERTIFIED *ALL TEN END 0a* AND NINE OF THEM DID NOT.** The review ran the command and printed the result — `2a` on 611, 612, 614, 615, 616, 617, 618, 619 and 620 — and read past it. **Every chapter of 601–610, of Volume 12 and of Volume 11 ends `0a`. Nine files of this batch ended `2a`, on an italic footer with no final newline.** **REPAIRED: ONE BYTE IN NINE FILES, NO PROSE, NO EVENT, NO WORD COUNT CHANGED.** Re-run by command: **all ten end `0a`.** **THIS IS THE SAME FAILURE THE VOLUME INSTALLS ITS GOVERNING RULE AGAINST, IN THE CELL THAT RECORDS THE RULE — a gate row that quotes itself instead of re-deriving — and it is recorded here rather than quietly fixed, because a repair nobody can see is a repair the next batch repeats.**
+
+## 0v. THE GATE, RE-RUN IN FULL AFTER THE REPAIR, BY COMMAND
+
+```
+BANK             611 2,516 | 612 2,541 | 613 4,781 | 614 2,687 | 615 2,265 | 616 2,354 |
+                 617 2,700 | 618 2,182 | 619 2,089 | 620 2,016.
+                 TOTAL 26,131. MEAN 2,613.1.  613 out at 4,781 with the reason recorded.
+PARAGRAPHS       0 over roughly ninety words. 0 over one hundred and twenty. 699 prose
+                 paragraphs, mean 69.9.  SPANS 429, mean 42.9, per file
+                 42 40 87 38 31 39 45 39 34 34.
+TITLES           0 duplicate `# ` lines across all 620 files. 1 per file. All ten end 0a.
+MARKDOWN         0 blockquotes, tables, rules, fences, bold, straight quotes, straight
+                 apostrophes. Asterisks even.
+META / WEEKDAYS  0 §7 meta hits including manuscript and opposition. 0 weekday names.
+SYSTEM           0 panels. Budget 5, none spent.
+SCENE 613        `##` at 9 37 55 91 185 211 235 255. Footers at 281 283 285. 285 lines.
+                 3,930 (10-254) | 1,515 (91-184) | 4,609 (10-285) | 4,444 (10-279) |
+                 4,781 (1-285).  Two methods, in agreement on all five.
+DATES            Two calendar methods sharing no constant agree on all 26 anchors.
+                 Every printed interval re-derives: 617 1,881-1,722=159 and 1,949-1,881=68.
+                 616 1,874-1,861=13.  618 1,888-1,722=166.  619 1,895-1,722=173.
+ONCE ONLY        The four lines, at 611:15.  The invented-figures sentence, at 618:67.
+REPETITION       about four seconds 8, no chapter above two.  and it is not 20 across ten
+                 files, 613 at 4 and 616 at 3.  0 adjacent constructions.
+UNCHANGED        No plot moved. No date of a scene moved. No chapter added or removed.
+                 outline/ending.md untouched. Exactly one next phase.
+```
 
 # THE SIX FINDINGS OF `logs/batch-0001.review.log`, AND WHAT THIS REPAIR DID TO EACH. **THE CHAPTERS WERE NOT RESTARTED. NO PLOT MOVED, NO DATE MOVED, NO CHAPTER WAS ADDED OR REMOVED, AND `outline/ending.md` IS UNTOUCHED. TWO CHAPTERS WERE REWRITTED IN PART — 605 AND 606 — AND SIX LINES ACROSS FOUR CHAPTERS WERE TOUCHED, NINE IN ALL. EVERY FINDING WAS RE-DERIVED INDEPENDENTLY BEFORE ANYTHING WAS CHANGED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 

@@ -20,9 +20,9 @@ TITLES           grep -rh "^# " chapters/ | sort | uniq -d | wc -l -> 0 ACROSS A
                  The ten match `outline/volume-13.md` §10 by whole-line string, 10 of 10.
                  No written chapter was changed to make room.
 BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
-                 2,512 · 2,541 · 4,766 · 2,687 · 2,265 · 2,334 · 2,700 · 2,196 · 2,089 · 2,016.
-                 TOTAL 26,106. MEAN 2,610.6. **NO CHAPTER BELOW THE 1,800 FLOOR.**
-                 1 OVER THE 2,700 CEILING: 613, THE SCENE, AT 4,766. ITS REASON IS AT
+                 2,516 · 2,541 · 4,781 · 2,687 · 2,265 · 2,354 · 2,700 · 2,182 · 2,089 · 2,016.
+                 TOTAL 26,131. MEAN 2,613.1. **NO CHAPTER BELOW THE 1,800 FLOOR.**
+                 1 OVER THE 2,700 CEILING: 613, THE SCENE, AT 4,781. ITS REASON IS AT
                  `state/current.md` §0a AND IT IS RECORDED IN THE COMMIT THAT WROTE IT.
 PARAGRAPHS       698 prose paragraphs across the ten files. **0 OVER NINETY WORDS. 0 OVER ONE
                  HUNDRED AND TWENTY. 0 UNBALANCED QUOTATION PARAGRAPHS.**
@@ -112,11 +112,14 @@ DUPLICATION      12-gram FIRST against all 620 files, body-only (headings and it
                   chalk at 609, and the eleven-at-night corridor at 603 — AND THAT IS THE PART
                   OF THE ROW A TWELVE-GRAM SCAN WAS SUPPOSED TO CATCH AND USUALLY DOES NOT.**
 SCENES           ONE IN TEN, AT 613. MEASURED THREE WAYS FROM `##` TO `##` ON DISK WITH EVERY
-                 LINE SPAN BESIDE EVERY CELL: 3,915 exclusive of both `##` lines (10-254) ·
-                 **1,515 in the single scene section inclusive (91-184)** · 4,594 exclusive
-                 through to end of file (10-286) · 4,429 to the last prose line (10-279) ·
-                 **4,766 whole (1-286)**. Eight `##` headings at 9, 37, 55, 91, 185, 211, 235
-                 and 255, and 286 newline-terminated lines. **EVERY CELL WAS CUT FROM DISK AND
+                 LINE SPAN BESIDE EVERY CELL: 3,930 exclusive of both `##` lines (10-254) ·
+                 **1,515 in the single scene section inclusive (91-184)** · 4,609 exclusive
+                 through to end of file (10-285) · 4,444 to the last prose line (10-279) ·
+                 **4,781 whole (1-285)**. Eight `##` headings at 9, 37, 55, 91, 185, 211, 235
+                 and 255, footers at 281, 283 and 285, and 285 newline-terminated lines.
+                 **RE-CUT AND REPRINTED 14 OCTOBER 2026 AGAINST THIS PHASE'S REVIEW: THE SPANS
+                 10-286 AND 1-286 NAMED A LINE THAT DOES NOT EXIST, THE HEADING LINES AND THE
+                 FILE LENGTH WERE STALE, AND EVERY CELL WAS CUT FROM DISK AND
                  COUNTED BY `wc -w` AND AGAIN IN WHITESPACE SPLIT AND THE TWO AGREE.**
                  Set B at word boundary on the published list: **611-620 all 0**; `chapter-0603.md`
                  returns 1 on the same list, which is the parity check.

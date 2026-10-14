@@ -10,7 +10,7 @@ The corridor had a door at the end that stood open because the room behind it ha
 
 She was at the far table with her back to the door, which is how she sat, and she had a folder open in front of her and her coat still on, and she did not turn round when the door opened, and she knew who it was by the sound his boots made on a concrete floor.
 
-“Six divisions,” said Sun Meiling, without turning round. “The seventh has a counter that closes at eleven and the ninth has not come down for three quarters and I have stopped putting a line in for it.”
+“Six of the nine divisions have ever sent me anything of their own accord,” said Sun Meiling, without turning round. “The seventh has a counter that closes at eleven and the ninth has not come down for three quarters. That is my book and not the finding’s, and I have stopped putting a line in for the ninth.”
 
 “That is not why I am here.”
 
@@ -224,7 +224,7 @@ He took his hand off the paper.
 
 “And you are not going to do what you have come down here to do about that,” she said, “and I want you to hear how little I care about that, because you are about to say something careful. I do not care.”
 
-“He got up in a full hall and told a room of people the number was wrong, and he was right, and you have been carrying the objection about inside your own chest for six years thinking it was a question about a figure, and it is not a question and it is not a figure and it is not in this folder, and it is not going to be in this folder while I am sitting at this table.”
+“He got up in a full hall and told a room of people the number was wrong, and he was right, and you have been carrying the objection about inside your own chest for six years thinking it was a question about a figure. It is not a question. It is not a figure. It is not in this folder and it is not going to be in this folder while I am sitting at this table.”
 
 She squared the folder.
 
@@ -246,7 +246,7 @@ He sat on the stool with his shirt on and nine returns on the floor at his feet 
 
 She got her pen up and squared a column of figures that had nothing to do with any of this and went back to it.
 
-“Twenty-two stitches in a coat lining, initialled by me, on the first of September, in a book in a building with a wing in it,” she said. “That is the only page I have ever made in this city that was entirely mine, and I have not added a thing to it in four years, and it is not a body and it is not a figure and it cannot be checked by anybody including me. You would have taken it for a weapon. It is a row of stitches.”
+“Twenty-two stitches in a coat lining, initialled by me, on the first of September, in a book in a building with a wing in it,” she said. “That is the only page I have ever made in this city that was entirely mine, and I have not added a thing to it in four years, and it is not a body or a figure and it cannot be checked by anybody including me. You would have taken it for a weapon. It is a row of stitches.”
 
 “It is a page.”
 

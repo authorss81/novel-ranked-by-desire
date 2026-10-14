@@ -100,7 +100,7 @@ He put the pencil down and squared the demand with the finding.
 
 ## A Rule With No Author
 
-He wanted, for about four seconds, to be a man who had not been asked.
+He wanted, for as long as the nib was moving and no longer, to be a man who had not been asked.
 
 That was the actual thing and it turned up in him before he had decided on any emotion at all, and it was the identical shape to the want he had in a corridor in January, when a woman with a rank above his had asked him one question and spent it, and he had wanted the whole of that room back for about four seconds and then had not wanted it at all.
 
@@ -118,7 +118,7 @@ He turned the finding round and put it where Lin Hao could read it.
 
 “And the second of them says that where a Register has nothing it has not been given anything, and both of those are in front of a man who is going to decide a landlord’s figure in about four minutes.”
 
-He shut the nib and put it in the tray and did not look up for about four seconds.
+He shut the nib, put it in the tray, and kept his eyes on the finding.
 
 “You did not choose that. You chose a sentence. I am telling you what the sentence is now standing on, because nobody has ever told you and you have been the only person in this city who could be told.”
 

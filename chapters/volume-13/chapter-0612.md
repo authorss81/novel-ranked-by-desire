@@ -82,7 +82,7 @@ She turned her head so that she was looking at him properly and it cost her the 
 
 “So tell me what the line is for. Not what goes in it. What it is for.”
 
-He could have said the fourth sentence of the foot of a page. He had it, and it had been out four times since the ninth of November and it would be out again in thirteen days.
+He could have said the fourth sentence of the foot of a page. He had it, and it had been out four times since the thirteenth of November and it would be out again in thirteen days.
 
 He said it.
 
