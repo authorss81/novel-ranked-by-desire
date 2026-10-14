@@ -1,6 +1,6 @@
-# VOLUME 12 BATCH 0005 IS WRITTEN. CHAPTERS 591–600 ARE ON DISK. **TEN FINISHED FILES. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED. THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS. THE NEXT AND ONLY PHASE IS `workspace/volume-12/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
+# VOLUME 12 BATCH 0005 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 591–600 ARE ON DISK. **TEN FINISHED FILES. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED — AND TWO ROWS IN THE PREVIOUS EDITION OF THIS BLOCK WERE FALSE AGAINST THE FILES ON DISK AND HAVE NOW BEEN RE-DERIVED. THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS. THE NEXT AND ONLY PHASE IS `workspace/volume-12/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
 
-## THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE 591–600
+## THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE 591–600 AND RE-RUN AGAIN IN THE COMMIT THAT REPAIRED THEM AGAINST `logs/batch-0005.review.log`
 
 ```
 FILES            50 files in chapters/volume-12/, 551..600, diff against seq 551 600 EMPTY.
@@ -8,19 +8,30 @@ FILES            50 files in chapters/volume-12/, 551..600, diff against seq 551
                  find chapters -name 'chapter-*.md' | wc -l -> 600.
 TITLES           grep -rh "^# " chapters/ | sort | uniq -d | wc -l -> 0 ACROSS ALL 600.
                  The ten match outline/volume-12.md §10 by whole-line string: 10 OF 10.
+                 NO TITLE CHANGED BY THE 14 OCTOBER 2026 REVIEW REPAIR.
 BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
-                 591 1,902 | 592 1,512 | 593 1,230 | 594 1,824 | 595 1,461
-                 596 1,039 | 597 1,069 | 598 989 | 599 981 | 600 1,474
-                 TOTAL 13,481. 594 IS THE SCENE AND IS IN BAND. Eight below
-                 band, none padded; reasons at state/current.md §0a.
+                 591 1,921 | 592 1,512 | 593 1,230 | 594 1,824 | 595 1,461
+                 596 1,039 | 597 1,069 | 598 1,013 | 599 996 | 600 1,474
+                 TOTAL 13,539 (was 13,481; +58, all of it in the three sentences
+                 the review caused to be rewritten). 594 IS THE SCENE, IS IN
+                 BAND AND WAS NOT TOUCHED. Eight below band, none padded;
+                 reasons at state/current.md §0a and §0z.
 PARAGRAPHS       0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY.
-                 0 ODD QUOTATION-MARK PARAGRAPHS. Two over-length draft
-                 paragraphs split at sentence boundaries (599, 600 x2).
+                 0 UNBALANCED-QUOTE PARAGRAPHS. 0 STRAIGHT QUOTES.
+                 Two over-length draft paragraphs split at sentence boundaries
+                 (599, 600 x2). RE-RUN AFTER THE REPAIR, SAME RESULT.
 META             §8's class PLUS our narrator|the author|the text|the prose|
                  page [0-9]+|volume [0-9]+|in this (novel|book|story|chapter|
                  volume|scene) PLUS \bthis (batch|volume|movement|chapter|book|
                  novel|story|scene)\b PLUS chapter [0-9]+ PLUS the
                  (reader|narrator|author) -> 0 ACROSS ALL TEN FILES.
+                 ***THIS ROW WAS FALSE IN THE PREVIOUS EDITION OF THIS BLOCK.
+                 `chapter-0598.md:45` read *why the opposition in this book is
+                 a rule that works and not a villain*, which hit both the
+                 primary class and the extension. IT IS REWRITTEN IN-WORLD AND
+                 THE ROW IS RE-RUN BY COMMAND, NOT ASSERTED: 0 AND 0. `opposition`
+                 now 0 in 591-600. The previous edition's claim that batch 0004
+                 had already swept this class in its own draft was wrong. ***
 WEEKNAMES        Seven names, whole-word AND substring, across all ten -> 0.
 AGES             Nine probe forms plus bare aged PLUS since (i|he|she|they)
                  (was|were) PLUS spelled-out and numeric years old -> 0.
@@ -54,13 +65,53 @@ DUPLICATION      12-gram FIRST against every chapter in the book including
                  reason, Brack's facts, both-boxes history. BORROWED
                  (rewritten before commit): 594's ward room + habit sentence
                  (was 18 shared 12-grams with 515, now 0); 595's spread/
-                 settle verbs. DELIBERATE ECHO (kept): Brack's offer wording,
-                 the two foot sentences, Tessa's stippling as mark.
+                 settle verbs.
+                 ***THE THREE HITS THE 14 OCTOBER 2026 REVIEW NAMED, WHICH
+                 THE PREVIOUS EDITION OF THIS ROW CLASSIFIED NOWHERE, NOW BY
+                 NAME. (a) 595:65 LIFTED NEAR-VERBATIM INTO 598:15, 49 shared
+                 twelve-grams, THE BATCH'S LARGEST HIT. 595 STAYS (the carded
+                 beat); 598:15 REWRITTEN. 49 -> 0 in the prose of that pair;
+                 what remains is the arithmetic footer stem, which §5a requires.
+                 (b) THE CORRIDOR-BOARD STAGING AT 591:89, 597:9 AND 599:19,
+                 THREE CONDITIONS, ONE DRAWING PIN, ONE BLADE, ONE COUNT OF
+                 THIRTY AND TWO. 591:89 AND 597:9 STAY — two renderings of one
+                 board sixteen days apart, and a twelve-gram scan cannot see a
+                 five-word staging, which is why §8 warns that §4d has to be
+                 read before a body is written. 599:19 REWRITTEN: the board has
+                 lost a second corner to the damp and the three lines are folded
+                 over one another. THE FOURTH CONDITION IS STILL CUT OFF AND
+                 STILL NOT RESTORED; THE LOSS IS NOW WORSE INSTEAD OF RESTATED.
+                 (c) THE PUBLISHED SENTENCE VERBATIM AT 591:37, 595:41 AND
+                 596:15. 591:37 REWRITTEN so Brack proposes it in his own words
+                 and the printed wording at 595 is Lin Hao's tightening of a
+                 proposal rather than a transcription of one. 595:41 AND 596:15
+                 BOTH STAY VERBATIM, AND THE REPEAT IS NOW CLASSIFIED AS
+                 DELIBERATE: one is a hand writing a document, the other is a
+                 clerk reading that same document aloud four days later, and A
+                 PRINTED INSTRUMENT IS NOT DUPLICATION. ***
+                 DELIBERATE ECHO (kept): Brack's offer wording, the two foot
+                 sentences, Tessa's stippling as mark.
+                 RE-RUN AFTER THE REPAIR, BY COMMAND, ACROSS ALL 600 FILES:
+                 BODY-ONLY (italic footers removed) NO PAIR INSIDE 591-600
+                 SHARES A CONTIGUOUS TWELVE-GRAM RUN LONGER THAN ONE WINDOW,
+                 and every surviving single window is a canonical fact — Brack's
+                 eleven books with the date and the weather, the two words at
+                 the height of a name on a plate, the 852 head figure with two
+                 lines in the second column, the both-boxes history. AGAINST
+                 THE OTHER 590 FILES: 0 CONTIGUOUS TWELVE-GRAM RUNS OF 8+
+                 WORDS, 0 AT ELEVEN-GRAM, 0 AT EIGHT-GRAM. 594 vs 515: 0.
                  BODIES/STAGINGS vs §4d: no new mark on any woman; Tessa
                  stippling only; Alma seating nowhere; Mavis hand-flat
                  nowhere; 546/554/564/574/584 stagings nowhere in 594.
-SCENES           ONE, at 594. Three definitions + probe bank printed in
-                 state/continuity.md §0b with closing boundary stated.
+SCENES           ONE, at 594. ***THE THREE FIGURES AT state/continuity.md §0b
+                 WERE WRONG ON TWO OF THREE ROWS AND HAVE BEEN RE-DERIVED:
+                 725 exclusive / 733 inclusive / 1,184 to end of file /
+                 1,110 to the last prose line. THE PREVIOUS EDITION OF THIS
+                 ROW PRINTED 1,114 AND 1,106, NEITHER OF WHICH WAS REACHABLE
+                 FROM ANY DEFINITION. `chapter-0594.md` WAS NOT EDITED AND IS
+                 1,824 WORDS BEFORE AND AFTER. *** Three definitions + probe
+                 bank printed in state/continuity.md §0b with closing boundary
+                 stated and with the line span of each row printed beside it.
                  Set B 0 in all nine non-scene chapters, 4 in 594 all inside
                  the scene section. No second explicit passage anywhere.
 STILL OPEN       Lin Wei 0. B103 0. settle 0. account figure 0. right temple 0.
@@ -79,7 +130,9 @@ VOLUME           Both boxes blank at end of 600. Figure box blank for the
 **2 · `chapter-0570.md`:169 prints *a year and three months ago* for a yard that cannot be located. Carried since batch 0002. One clause, not this phase's.**
 **3 · *The sixth of March of the first year* against *the sixth of March of the fourth year* is unresolved; 584 asserts no year in its footer. The close owns it. No chapter of 591–600 prints a year against the sixth of March.**
 **4 · `logs/batch-0004.review.log` is a writer transcript, not a review; `logs/batch-0003.review.log` is absent. The close re-derives rather than inherits.**
-**5 · Word-count contraction from 575 stands as a live risk (see `state/current.md` §0a batch-0004 repair and §0a above). The close must judge leanness against completeness, not against a number.**
+**5 · Word-count contraction from 575 stands as a live risk (see `state/current.md` §0a batch-0004 repair and §0a above). The close must judge leanness against completeness, not against a number. The 14 October 2026 review of batch 0005 raised it again as its fourth finding: eight of ten chapters are below the 1,800 guide floor and three consecutive batches have breached it. It was NOT repaired, because the chapters are short because they are one afternoon or one street, and padding them would be the worse defect. The close inherits the disclosure and not the excuse.**
+**6 · NEW, CARRIED BY THE 14 OCTOBER 2026 REPAIR. The published wording of the standing sheet's first sentence now exists verbatim at `chapter-0595.md:41` and `chapter-0596.md:15` and nowhere else in 551–600. `chapter-0591.md:37` now carries Brack's *proposal* in his own words and may not be quoted as the printed text by any later phase. If the volume-close reprints the sentence, it reprints it from 595, not from 591.**
+**7 · NEW, CARRIED BY THE 14 OCTOBER 2026 REPAIR. The corridor board is described at `591:89`, `597:9` and `599:19`, and `599` is now the damp, not the pin. A fourth description in the close must be a fourth state of the board, not a fourth rendering of the October one.**
 
 # VOLUME 12 BATCH 0004 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 581–590 ARE ON DISK. **TEN FINISHED FILES, 17,543 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE REPAIR. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED. FOUR BLOCKING AND SEVEN SHOULD-FIX CONTENT DEFECTS REPAIRED, PLUS THREE FOUND DURING THE REPAIR. THE SEAM REPAIR STOOD. THE NEXT PHASE IS `workspace/volume-12/batch-0005/PROMPT.md`, CHAPTERS 591–600, MOVEMENT FIVE, *QUOTED*, WHICH IS THE LAST TEN CHAPTERS OF THE VOLUME. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
 

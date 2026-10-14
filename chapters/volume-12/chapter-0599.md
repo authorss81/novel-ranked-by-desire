@@ -16,7 +16,7 @@ Nobody had filled either. The left box holds a figure and the right holds a stan
 
 That refusal held. He felt it hold the way a door holds, and he was glad of it with a gladness that had grief in it.
 
-Isolde Marchetti came through the corridor at half past two with a bundle of returns and stopped at the board where three of the four conditions hung with a drawing pin through the corner and the fourth cut off with a blade.
+Isolde Marchetti came through the corridor at half past two with a bundle of returns under her arm and stopped at the board, which had lost a second corner to the damp since October, so that the three lines were folded over one another at the top and the blade-cut edge of the fourth had gone brown.
 
 “They are still reading the foot,” she said. “About two hundred people a week read one somewhere in Cordwain and about four in every thousand get to the bottom, and now the bottom is the only part anybody talks about.”
 

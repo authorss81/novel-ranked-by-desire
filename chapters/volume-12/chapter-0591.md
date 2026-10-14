@@ -34,7 +34,7 @@ A tram went under the wall and the sound of it covered the lane for about nine s
 
 “What would the line say,” he said.
 
-“That a figure in Ostara may be a figure somebody made up on purpose,” Brack said. “In the hand of the office itself. With my name under it.”
+“That any figure in Ostara may be a figure a man decided on this morning out of his own head,” Brack said. “Printed by that office and not by me. My name under it, once a quarter, at the foot of the sheet where the ranks end.”
 
 Lin Hao picked the bucket up and put it down again because his hand had gone tight on the handle.
 

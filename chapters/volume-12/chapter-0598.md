@@ -12,7 +12,7 @@ When the line cleared Brack wiped the slate and put the chalk down and faced him
 
 “You want to know whether I am glad,” Brack said.
 
-“I want to know whether you are harmed,” Lin Hao said. “Every party with a real claim now stands on a standing sheet beside a man who has admitted in the same hand that he invents his, and Ostara has no instrument to tell them apart, and I am the one who gave that away.”
+“I want to know whether you are harmed,” Lin Hao said. “I wrote your name under a sentence that says you make your figures up, and now every real claim in this city is printed beside you on the same sheet in the same hand, and nothing of mine can tell the two of you apart. That was my doing and not the office’s.”
 
 Brack nodded slowly.
 
@@ -42,7 +42,7 @@ Brack ruled nine figures into the twelfth with the date and the weather and what
 
 “Before the chalk dust leaves my cuffs,” Brack said. “A man who waits until evening remembers himself kinder than he was.”
 
-A landlord’s man came to the door asking for a paper with a figure on it for a court, and Brack told him a slate is not a paper a court will take and sent him to the rent board, and the man went, and Lin Hao saw the whole exchange and understood again why the opposition in this book is a rule that works and not a villain.
+A landlord’s man came to the door asking for a paper with a figure on it for a court, and Brack told him a slate is not a paper a court will take and sent him to the rent board, and the man went, and Lin Hao watched him go and understood again that the two words in paint on the wall behind the lane are aimed at a rule that works and not at a man who could be reasoned with or frightened.
 
 He walked the wall end to end before work, eleven minutes each way, and the December form was up with both boxes at the foot of it blank, one for a figure and one for a standing, blank since the eighth of October of the first year, and the sight of those two empty boxes steadied him the way cold water steadies a face.
 
