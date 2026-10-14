@@ -41,7 +41,7 @@ He is at rank one on a branch night shift he asked for, eleven at night until ha
 
 > In this volume, **Lin Hao must write the definition of an unrecorded deed for an office that has no instrument, no money and no column**, or **Ostara's second line gets a threshold under it that a man with a chalk chose, and the city's unmeasured half is settled in lanes**
 
-**MOVEMENT FIVE, CALLED, IS WRITTEN AND CLOSED ON THE PAGE AT 550. IT DELIVERED A SATCHEL ON A COUNTER, FORTY PEOPLE GOING OUT FOR FOUR DAYS, A STREET THAT LOST ITS FOURTH CONDITION, SIX WORDS UNDER A KEEPER'S NAME, A BROOM AND FOUR FEET OF STONE, THE SCENE, A CREDITOR WHO CAME UP TWO FLIGHTS, THE FIGURE HE ENTERS HIMSELF, NINE THINGS SAID IN A KITCHEN, AND AN ORDINARY MORNING. IT DELIVERED THE VOLUME'S LAST IRREVERSIBLE DECISION AT 548.**
+**MOVEMENT FIVE, CALLED, IS WRITTEN AND CLOSED ON THE PAGE AT 550. IT DELIVERED A SATCHEL ON A COUNTER, FORTY PEOPLE GOING OUT FOR THREE DAYS, A STREET THAT LOST ITS FOURTH CONDITION, SIX WORDS UNDER A KEEPER'S NAME, A BROOM AND FOUR FEET OF STONE, THE SCENE, A CREDITOR WHO CAME UP TWO FLIGHTS, THE FIGURE HE ENTERS HIMSELF, NINE THINGS SAID IN A KITCHEN, AND AN ORDINARY MORNING. IT DELIVERED THE VOLUME'S LAST IRREVERSIBLE DECISION AT 548.**
 
 **AND THE VOLUME'S SENTENCE IS PAID. IT IS PAID NARROWLY AND THE CHAPTER SAYS SO AT 550 IN HIS OWN NOTEBOOK: he wrote the definition of an unrecorded deed for an office that still has no instrument and no money, and the office has had one line in its second column since the fifteenth of October and the line is him. THE OTHER HALF DID NOT HAPPEN: the second line at the foot of the ranks wall did not get a threshold under it that a man with a chalk chose, it is still on the stone in the office's own hand at the height of a name on a plate, a city cannot read it, and the man with the chalk is at the wall end of that lane at about a quarter to seven and has not been answered.**
 
@@ -1212,9 +1212,17 @@ five scenes at 406, 417, 428, 438 and 446.** `outline/ending.md` fixes **rank ni
 
 ### THE STATE OF THE PIPELINE
 
-**THE ONE LIVE PHASE IS `workspace/volume-09/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 413–422.** This batch
+**THE ONE LIVE PHASE IS `workspace/volume-12/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 551–560.** That phase
 has run and has created no other phase. **The series is planned past 500. Volume 10
-is *Returned* and the ending is Chapter 486. There is no `state/complete.md` and there must not be one.**
+is *Returned* and the ending is Chapter 486 — `NOVEL_SPEC.md`:11 fixes the planned ending in `outline/ending.md`, and
+`outline/volume-12.md` §1 carries a standing instruction that no phase writing Volume 11 or Volume 12 may touch that
+file. VOLUMES 11 AND 12 ARE POST-ENDING VOLUMES AND VOLUME 12 DOES NOT REOPEN CHAPTER 500.** There is no
+`state/complete.md` and there must not be one.
+
+**THE LINE ABOVE WAS WRONG UNTIL 14 OCTOBER 2026 AND NAMED `workspace/volume-09/batch-0002/PROMPT.md` FOR CHAPTERS
+413–422, FOUR VOLUMES STALE. FIXED AGAINST FINDING 4 OF `logs/plan.review.log`. THE *ENDING IS CHAPTER 486* CLAIM
+IN THAT FINDING WAS ALSO CHECKED AND IS **CORRECT** — `outline/ending.md` IS THE AUTHORITATIVE BOOK-ENDING DOCUMENT,
+NOT A STALE VOLUME 10 DRAFT, AND IT WAS DELIBERATELY NOT TOUCHED.**
 
 ---
 

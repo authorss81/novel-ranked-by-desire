@@ -71,7 +71,7 @@ What is there that was not there is people.
 
 Eighty-one of them went to about nine hundred steps in ninety days. Nine divisions. A hundred of the Church came down a hill in eleven days and nine of them brought something.
 
-Forty of them went out for four days at the end of July to ninety-one doors and asked nothing and came back with nothing, and about nine hundred people in a yard worked out on their own that being useful is how you get to be owed nothing, and they were right about that and it was not the Church's doing.
+Forty of them went out for three days at the end of July to ninety-one doors and asked nothing and came back with nothing, and about nine hundred people in a yard worked out on their own that being useful is how you get to be owed nothing, and they were right about that and it was not the Church's doing.
 
 There is a page with nine lines on it and no name against it and a woman two flights up off Cordwain who is the creditor of an account that belongs to nobody.
 

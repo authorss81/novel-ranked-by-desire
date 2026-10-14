@@ -4,6 +4,39 @@
 >
 > **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 551–560. DO NOT PRE-CREATE A BATCH 0002 FOR VOLUME 12. THE SELF-DISPATCH WORKFLOW SELECTS THE BATCH.**
 
+## THE 14 OCTOBER 2026 REVIEW OF THE PLAN PHASE — SIX FIXED, TWO DECLINED, AND WHY
+
+**AGAINST `logs/plan.review.log`. FOUR FINDINGS WERE ACTIONABLE AND WERE APPLIED. NO CHAPTER WAS RESTARTED, NO SCENE REPLACED, NO
+EVENT, DATE, CHARACTER OR TITLE MOVED, NO PROSE TOUCHED AT ALL, AND THE PLOT IS THE PLOT THAT WAS PLANNED.**
+
+| # | Finding | Verdict | What was done |
+| --- | --- | --- | --- |
+| 1 | `outline/volume-12.md:46` printed `1,409` / twenty-nine days at 551 | **APPLIED** | `1,406` and twenty-six days. **1,409 IS CHAPTER 552.** 551 = 1080 + 300 + 26 = 1406; 1406 − 1230 (541) = 176 = 5 × 30 + 26. §5c and `workspace/volume-12/batch-0001/PROMPT.md:66` already had it right. |
+| 2 | Two stale `FOUR DAYS` summaries | **APPLIED, AND FIVE MORE FOUND — ONE IN PROSE** | The review named `chapter-summaries.md:23` and `continuity.md:120`. **It also missed `current.md:44`, `outline/volume-11.md:371`, `chapter-summaries.md:310`, `continuity.md:965`, AND `chapter-0550.md:74`.** All stale *figures* now read three. `continuity.md:965` is inside a block marked superseded and was left whole. |
+| 3 | `PHASE_SYSTEM.md:245` phase-boundary violation | **DECLINED — NOT FIXABLE HERE** | `PHASE_SYSTEM.md` is a controller file owned by GitHub Actions and is out of scope for a fiction fix phase. The *content* outcome is correct and already recorded. |
+| 4 | `outline/ending.md` "sits 100 chapters behind" | **DECLINED — THE FINDING IS WRONG** | See below. |
+
+**THE ONE CHAPTER EDIT, AND WHY IT WAS NOT OPTIONAL.** `chapter-0550.md:74` is Lin Hao's notebook recap of the whole volume and
+it printed *Forty of them went out for **four** days at the end of July to ninety-one doors*. **It is the same event as 542, and the
+close audit's blast radius for 542 stopped at the chapter it named and never reached the volume's own last recap.** The figure is
+not an inclusive count either — the twenty-ninth of July to the second of August is five days inclusive and three elapsed — so
+*four* was true under no reading. `chapter-0542.md:45` already read *three days* after the repair, so leaving 550 would have
+left the volume contradicting itself in the same beat. **ONE WORD CHANGED, FOUR TO THREE. THE SENTENCE, ITS IMAGE, ITS ORDER IN
+THE NOTEBOOK AND EVERYTHING ELSE IN THE CHAPTER ARE UNTOUCHED. NO CHAPTER WAS RESTARTED.** A whole-manuscript sweep for the
+event was run after the edit: `grep -rn "ninety-one" chapters/` returns the Volume 1 draw-down list of ninety-one branch staff
+on sixty-odd lines, which is a different ninety-one entirely and was correctly left alone.
+
+**WHY FINDING 4 WAS DECLINED, AND IT IS THE ONE THAT MATTERS.** The finding assumes that because `outline/volume-12.md` plans to
+600, the book's ending must also move to 600. **It does not.** `NOVEL_SPEC.md`:11 fixes the target at *500 chapters across 10
+volumes* and names `outline/ending.md` as the document the planned ending is held in. `outline/series.md`:244 says *ten volumes,
+fifty chapters each, 500 total*. `outline/volume-12.md` §1 carries an explicit standing instruction that **`outline/ending.md`
+is not to be touched by any phase that uses the file**, and states that Volume 11 opened by naming what happened after a book
+that ended at 500. **VOLUMES 11 AND 12 ARE POST-ENDING VOLUMES AND NEITHER REOPENS CHAPTER 500.** Rewriting `ending.md` to be a
+551–600 finale would change the planned plot, contradict `NOVEL_SPEC.md` and `series.md`, and breach a standing instruction on
+the page. **`outline/ending.md` IS THE AUTHORITATIVE BOOK-ENDING DOCUMENT AND WAS DELIBERATELY NOT TOUCHED.** The *other* half
+of finding 4 — the stale live-phase pointer at the tail of `state/current.md`, which named `volume-09/batch-0002` and chapters
+413–422 — **was** a real defect and has been corrected.
+
 ## WHAT VOLUME 12 IS FOR, AND WHAT IS LOST IF IT FAILS
 
 > In this volume, **Lin Hao must get two words a city has never been able to read onto a surface that two thousand people a day cannot walk past**, or **the only instrument he has left is a chain and a lamp and a keeper, and she reads his name on the second of January and then puts the book back on the shelf**

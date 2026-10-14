@@ -368,7 +368,7 @@ quarter-ends               16 fall in years one to four, and 15 of them land on 
 
 **541 — THE FIRST MORNING OF THE SWEEP. 11 JULY YEAR FOUR.** The round's first returns, and four hundred and nineteen names that are not deeds and are not in anybody's ledger.
 
-**542 — FOUR DAYS OF LOOKING. 2 AUGUST YEAR FOUR.** Agnete's forty, and the Vestry, and eleven thousand people who were right four years ago being asked to be useful.
+**542 — THREE DAYS OF LOOKING. 2 AUGUST YEAR FOUR.** Agnete's forty, and the Vestry, and eleven thousand people who were right four years ago being asked to be useful. **THE TITLE IN THIS ROW WAS *Four Days Of Looking* AND WAS WRONG; IT NOW MATCHES `chapter-0542.md:1`. CORRECTED 14 OCTOBER 2026 AGAINST `logs/plan.review.log`, WHICH NAMED THE STATE FILES AND MISSED THIS ROW — AND WHILE `outline/volume-11.md`:434 CLAIMED THIS ROW WAS ALREADY FIXED.**
 
 **543 — A DIVISION READS A DISTRICT. 25 AUGUST YEAR FOUR.** Beatrix and the nine, and what a round does to a street that has been counted four times in thirty years.
 
