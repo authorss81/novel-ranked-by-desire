@@ -1,0 +1,119 @@
+# VOLUME 13 · BATCH 0004 · CHAPTERS 631–640 · CARDS WRITTEN AGAINST THE PAGE
+
+**THIS FILE WAS WRITTEN AFTER THE CHAPTERS AND AGAINST THEM. EVERY FIGURE IN IT WAS TAKEN OFF A PAGE BY COMMAND AND NOT OUT OF A PLAN. WHERE THE PAGE DISAGREED WITH `outline/volume-13.md` §5c THE PAGE IS RIGHT AND THE DISCREPANCY IS RECORDED AT THE BOTTOM OF THIS FILE IN FULL, WITH ITS OPERANDS, BECAUSE A FILE THAT CHANGED A DATE WITHOUT SAYING SO IS WORSE THAN A FILE THAT GOT IT WRONG.**
+
+**THE HOUSE RULE AT THE HEAD OF §7 REQUIRES THIS FILE AND THE REWRITE OF §7 MOVEMENT FOUR IN THE SAME COMMIT AS THE CHAPTERS. BOTH ARE DONE.**
+
+---
+
+## 0. THE SPINE, AND WHERE THE PAGE AND §5c DISAGREE
+
+```
+A month is thirty days and has no thirty-first. A year is three hundred and sixty.
+A year runs from the first of February to the thirtieth of January.
+*** A JANUARY IS THE TWELFTH MONTH OF THE YEAR IT CLOSES:
+a January labelled y = (y-2) x 360 + 330 + (d-1). NOT OPTIONAL. ***
+METHOD A   1 Feb of year y = (y-1) x 360;  day d = (y-1) x 360 + off[m] + (d-1)
+METHOD B   i = (y-2)*12 + 11 for a January labelled y, else (y-1)*12 + pos(m);
+           day = 30*i + (d-1)   — contains no 360 at all
+
+631   8 Aug y6 = 1,987     1,987 - 1,979 =  8   (seam from 630)
+632  15 Aug y6 = 1,994     1,994 - 1,987 =  7
+633  23 Aug y6 = 2,002     2,002 - 1,994 =  8   SCENE, Wren Kallo
+634   1 Sep y6 = 2,010     2,010 - 2,002 =  8
+635   8 Sep y6 = 2,017     2,017 - 2,010 =  7
+636  15 Sep y6 = 2,024     2,024 - 2,017 =  7   THE YARD'S THREE LINES
+637  22 Sep y6 = 2,031     2,031 - 2,024 =  7   THE SENTENCE IN THE OFFICE'S HAND
+638  30 Sep y6 = 2,039     2,039 - 2,031 =  8   QUARTER-END, the twenty-third sheet
+639  12 Oct y6 = 2,051     2,051 - 2,039 = 12   *** THE TWELVE. NOT A TYPO. ***
+640  21 Oct y6 = 2,060     2,060 - 2,051 =  9
+
+SPAN 2,060 - 1,987 = 73, and 7+8+8+7+7+7+8+12+9 = 73.
+MONOTONIC AT ZERO VIOLATIONS BY BOTH METHODS, AGAINST THIRTY ANCHORS.
+```
+
+**THE JANUARY EXCEPTION IS APPLIED TO BOTH METHODS AND PRINTED HERE EVEN THOUGH NONE OF THIS BATCH'S OWN DATES FALLS IN A JANUARY, BECAUSE A METHOD THAT CARRIES AN EXCEPTION IT DOES NOT NEED IS STILL A METHOD THAT CAN CARRY ONE IT DOES. THE WRONG CONVENTION PUTS 601 AT 2,133, WHICH IS THE FIGURE THAT HAS COST THIS REPOSITORY TWICE, AND IT IS PRINTED HERE SO THAT THE NEXT PASS CAN SEE IT happening rather than inherit it.**
+
+### THE DISCREPANCY, STATED PLAINLY
+
+**`outline/volume-13.md` §5c GIVES 632 AS THE SIXTEENTH OF AUGUST, 633 AS THE TWENTY-FOURTH, 635 AS THE NINTH OF SEPTEMBER, 636 AS THE SIXTEENTH AND 637 AS THE TWENTY-FOURTH. THE PHASE PROMPT AND THE PAGE BOTH GIVE 15 AUGUST, 23 AUGUST, 8 SEPTEMBER, 15 SEPTEMBER AND 22 SEPTEMBER.**
+
+**BOTH SETS SUM TO 73 AND BOTH AGREE AT 631, 638, 639 AND 640 AND AT THE SEAM FROM 630. THEY CANNOT BOTH BE RIGHT AND THE DIFFERENCE IS FIVE WHOLE DAYS.**
+
+| Ch | §5c day | §5c spine | page day | page spine | difference |
+| --- | --- | --- | --- | --- | --- |
+| 631 | 8 Aug | 1,987 | 8 Aug | **1,987** | 0 |
+| 632 | 16 Aug | 1,995 | 15 Aug | **1,994** | 1 |
+| 633 | 24 Aug | 2,003 | 23 Aug | **2,002** | 1 |
+| 634 | 1 Sep | 2,010 | 1 Sep | **2,010** | 0 |
+| 635 | 9 Sep | 2,018 | 8 Sep | **2,017** | 1 |
+| 636 | 16 Sep | 2,025 | 15 Sep | **2,024** | 1 |
+| 637 | 24 Sep | 2,033 | 22 Sep | **2,031** | 2 |
+| 638 | 30 Sep | 2,039 | 30 Sep | **2,039** | 0 |
+| 639 | 12 Oct | 2,051 | 12 Oct | **2,051** | 0 |
+| 640 | 21 Oct | 2,060 | 21 Oct | **2,060** | 0 |
+
+**THE CHAPTERS ARE WRITTEN ON THE SECOND SET AND THE SECOND SET IS WHAT THE PAGE SAYS. §5c IS A PLAN OF RECORD AND IS NOT EDITED BY A PHASE THAT DOES NOT OWN IT; WHAT IS EDITED HERE IS §7 MOVEMENT FOUR, WHICH THE HOUSE RULE REQUIRES A BATCH TO REWRITE AGAINST THE PAGE. A LATER PASS THAT PREFERS §5c HAS MY WORKING AND CAN CHANGE FIVE DAY-OPENINGS, THE FOUR FOOTERS THAT NAME THEM, AND NOT ONE INTERVAL, THE SPAN, THE QUARTER-END OR THE TWELVE.**
+
+**THE TWELVE AT 639 IS THE POINT OF THE CHAPTER AND IT SURVIVES EITHER SET. IT IS THE GAP THE PLAN OF RECORD ALREADY REQUIRES: 2,047 IS THE EIGHTH OF OCTOBER AND IT IS THE ANNIVERSARY OF THE SECOND LINE GOING UP, IT FALLS BETWEEN 2,039 AND 2,051, IT IS NAMED IN NO CHAPTER OF 601–650, AND THIS CHAPTER DOES NOT NAME IT, DOES NOT NAME THE TENTH OF OCTOBER EITHER, AND SAYS IN ITS OWN FOOTER THAT NONE OF THE TWELVE DAYS IS NAMED HERE. THE FUSE IS NOT RE-LIT.**
+
+---
+
+## 1. THE TEN CARDS, EACH AGAINST THE PAGE
+
+### 631 · A Division That Reads Everything Twice · 8 Aug, 1,987 minus 1,979 = 8
+A division reads every paper twice — once by the officer holding it in a district and once at the desk — and puts the two readings into two books four feet apart on two shelves, and has never once laid the books side by side. **The round book says six hundred and ninety-one and the desk book says six hundred and seventy-four and the difference is seventeen**, and thirteen of the seventeen can be named and four cannot, and the reason is not that anybody refused anybody: it is that a return has one column and a person who comes to a counter and is entered at a counter three streets away exists twice and once. **THIS IS THE FIRST NUMBER IN THE VOLUME THAT NOBODY CAN CHECK.** Wren Kallo is at the desk and takes no question, and says so: a desk takes one question of a thing and only one and it does not spend it on a person, and she has had one since the spring. **Beatrix Halm carries ninety-one people a quarter who came to her counters and were entered nowhere, counted on her fingers since the second year, never written down, and refuses to write it down for the same reason he has refused for six years.** Want: a figure somebody would check. Emotion: the first cold recognition that the machine did not start with him. **He is told, for the first time in six years, that the rule he has spent six years blaming himself for is not his.** Ends on a date: the twenty-third of September, fifty-two days off.
+
+### 632 · The Landlord's Man Is Right · 15 Aug, 1,994 minus 1,987 = 7
+**A LANDLORD'S MAN, NOT ASHBY, AND ASHBY IS IN 634.** About fifty, a good coat gone, a satchel, four days standing about nine feet off a desk in a four-foot passage because he has understood that he is not to go in. He has come to ask for **the fourth line put back on a board**, and he is right: it is the only instrument in this city a landlord may put in front of a magistrate that cannot be answered, and it is why he lost a hearing on the eleventh in about thirteen minutes, and he says all of it out loud in a passage four feet wide without lowering his voice. **He is also right about the fact that costs him: about nine demands in the city carry a figure off a slate in a lane and one is his, and a man in a delivery coat has read every reason out loud at a wall end at ten to six since the thirteenth of July, and he has not gone because he is afraid of what he will be told.** He asks Lin Hao to go on the seventeenth and take it to a counter with the office's address at the head of it, and Lin Hao says so, and the answer is that there is no room at the head of a demand. **He came to be refused and he was right about every fact.** Want: somebody to tell him he could not do anything. Ends with the man at the desk's sixth person this month, and the first one who wanted something that is not about the seventh of July.
+
+### 633 · One Question On A Returns Desk · 23 Aug, 2,002 minus 1,994 = 8 · **SCENE, WREN KALLO**
+**THE SCENE IS ON A RETURNS DESK IN THE GROUND FLOOR OF A DIVISION BUILDING AT HALF PAST FIVE, WITH NINE SHUT COUNTERS BEHIND IT, A LAMP LEFT ON BY A CLERK WHO WOULD NOT TURN IT OFF, AND FOUR FEET OF PASSAGE. IT IS NOT IN HER ROOMS AND IT IS NOT A SECOND QUESTION ABOUT THAT ADDRESS.** **THE AXIS BROKEN IS THE ONE QUESTION**, carried by the rule of a desk and named by nobody: a desk takes one question of a thing and only one, and it may not be put in a room the person owns. **The question is *is a question a return*, it has been available to her since the spring, and she spends it here on a piece of paper about a counter** — and the answer she works out herself afterwards is that a question is a return when somebody returns it, nobody has, and she is going to return them into a day book, which is not a return and goes to no magistrate. Three division officers' questions have been sitting on that tray since the spring and a fourth piece of paper with three lines on it and no address came on the tray at a quarter past four with nobody in the building. **He is rank one, spent chest, no permission. She is direct, unhurried about her own want and immodest about it, and says it out loud: she has wanted him since the seventh of March and there is no reason for it and she looked for one for a fortnight.** Two nails of her left hand gone into ink, once, in her own words. The yellow at the corner of her left eye is not used. **No violence, no restraint, no sedation, no exhaustion, no seal.** Set B at word boundary: **0**. Closes on a paper she cannot account for and a date, the fifteenth of September.
+
+### 634 · The Standing He Cannot Strike · 1 Sep, 2,010 minus 2,002 = 8
+The rent board off Cordwain — a table, three chairs, a stove, a window shut and painted years ago. **CORVIN ASHBY, WHO IS NOT CAREFUL, AND WHO IS RIGHT.** The matter is listed for the fifteenth of September; if she comes and does not understand it the case goes on without her, and if she does not come the case goes on without her, and those are not two things. **The bar is that there is nothing in a demand that says a person understood it** — no word of it — and Ashby will go further: if she were given every courtesy in the world and went back to her rooms and it did not help her, **there would be no bar in the world that would touch him**, and that is what a bar is; it does not depend on a fact, it depends on there being a room in which a person can be understood. **The standing he cannot strike is a landlord's proved standing, and there is no instrument in Ostara that strikes one, and the man standing in front of him is the only person in the city who would want to.** He says nothing. The landlord's man tells him in the passage that the figure he went to the wall end for is worth nothing, because every claim in this city now dies on the third line and the somebody in question is a landlord. **He decides to be in the room on the fifteenth with no standing in it, and Ashby tells him exactly what that will look like and that it is the same thing that happened on the seventh of July.** Want: somebody to tell him he could not do anything; it lasts eleven minutes.
+
+### 635 · Nineteen Years And No Name · 8 Sep, 2,017 minus 2,010 = 7
+The bound ledger behind the returns desk, nineteen years old, a list of every counter that has ever stood in that district, a figure against each one and no name against any. **Nine hundred and forty-one against a counter that shut nineteen years ago and has not moved in all of that, because a counter figure can be added to and cannot be taken from, and a return has one column and it adds, and numbers in that building can only grow.** **THE RULE IS NOT ANYBODY'S.** It is older than the Register and it is in no hand and Beatrix Halm says so and Lin Hao says he has spent six years believing every instrument there is for not doing a thing was put there by somebody, mostly by him — **and she tells him that he did not write this one, and it is the first thing anybody has said to him in six years that he did not already know.** **She is going to stop counting the ninety-one, and she gives the reason: on the fifteenth a sentence is going to be said in a room that there is nothing anybody can do about, and after that a counter figure is the only kind of figure this city will accept, and one number in her own head becomes an argument somebody can make against her.** She is not brave and has never been. Nineteen years re-derived in the footer as six thousand eight hundred and forty days and minus four thousand eight hundred and twenty-three.
+
+### 636 · Three Lines And A Yard · 15 Sep, 2,024 minus 2,017 = 7
+The yard first, then the room. About eleven thousand people, about nine hundred who can read all of what is on the shutter, a queue of about four hundred people waiting to have three lines read to them, and a woman of about forty who came up at a quarter to ten to ask which of the three is about a person, and told, and **says she has been having the third one read to her since the twenty-third of July and that it is the one she has been needing**, and warns him in advance that if he says anything in the room she will stand up and say *that is a man who is not a party*. **THE ROOM.** About forty people. He stands at the back against a wall in a rank-one coat and nobody looks at him and he wants somebody to ask him something more than he has wanted anything. **NINE MINUTES.** The third line is asked, the woman brings the true answer with her, dressed for it, and it is the end of it, and it is correct. In the corridor she says the first line out loud twice — the first time in six years a sentence of his has been said by the person it was written for — and starts on the third and he tells her not to. He tells her, in a corridor with nine people in it, the sentence he has told four rooms: the four were entered against himself and a clerk added one sentence saying the fourth was not met because the thing it describes is on a page. **The landlord's man tells him he saw him at the back and is not going to have told his employer.** Ends at four o'clock on the hill with a man on a ladder writing the third of the three lines on a fourth board in four-inch letters, because it is the one that works.
+
+### 637 · The Sentence In The Office's Hand · 22 Sep, 2,031 minus 2,024 = 7
+**Emil Brack comes up the stair behind a lane for the first time in three years, to have the sentence read to him.** He can read. He read the ninth line down off a desk under a window out of his own memory twice. **He needs the man who wrote it to say it out loud in a room with another person in it**, and the reason, which he gives flatly, is that **that sentence was never a warning to him; it is the only piece of paper in this city in which his name appears at all.** Wenna Raut spends her one question of the day — *were these the words you gave me* — and says the rest of it is not hers to do. **There is exactly one person entitled to read it aloud and he is not permitted to and there is no instrument that will let anybody do it again.** He reads it in other words, not as written, and Brack says the true thing: **it is now a sentence two men have heard one other man say out loud, and there is no version of a sentence a person has heard spoken that is still a warning to anybody.** Brack asks for it to be taken off and is refused, correctly, four reasons deep — a clerk may only enter what she is given, nothing in this city will strike a line in the office's hand, it is not his to strike, and if he strikes it in his own hand he puts his handwriting at the end of a sentence he admitted inventing. **Then Brack says the sentence this chapter exists for: *then it stays because it is in your hand and not because it is right*, and Lin Hao has to answer *it stays because it is in your hand*.** Brack is right, thanked, diminished and defeated on nothing. He goes down one flight, not two, and says he will not be at the foot of that board on the twenty-fourth, on purpose.
+
+### 638 · The Twenty-Third Sheet · 30 Sep, 2,039 minus 2,031 = 8 · **QUARTER-END**
+**THE OFFICE'S AGE IS PRINTED HERE AND ONLY HERE: thirty multiplied by sixty-seven is two thousand and ten, and twenty-nine days after that is two thousand and thirty-nine — sixty-seven months and twenty-nine days.** The thirtieth is the last working day of the month and of the quarter and the sheet goes out at four for the twenty-third time with the head unmoved across seven quarters, the second column with two lines in it, and four sentences at the foot. **THE BUNDLE HAS FIVE THINGS IN IT AND THE FIFTH IS A LETTER THAT ASKS THE OFFICE TO CORRECT A NUMBER, WHICH CAME IN THROUGH THE FRONT DOOR BECAUSE A BOARD ON A HILL CARRIES THIS OFFICE'S ADDRESS AT THE TOP OF IT IN A HAND ANYBODY CAN READ.** At half past four the man at the desk says seven, and says the traffic at the rail has changed for the first time in nine years. **THE BATCH'S IRREVERSIBLE DECISION, AND IT IS HIS.** Somebody has chalked eight hundred and fifty-two on a board at the foot of a shutter meaning *how many people are owed something*. He wanted all summer to find one thing on a page that had changed. **He goes up the hill at four and says the figure out loud twice, at the same speed, with nothing improved, and about nine hundred hear it and about two hundred write it on their hands. In about eleven minutes the yard has made it a count of claims and a man with a rag has taken down, correctly, the six-inch sentence about a thing nobody can prove, because a sentence is a thing you can argue with and a figure is a thing you can only count. He stands nine feet off and lets it happen.** What it closes: the option of ever saying on a public ground what the figure means without the yard deciding for itself that it means claims. What it costs: the yard's only true sentence, and about nine hundred people who watched a man do the second wrong thing on purpose in about ninety days.
+
+### 639 · A Form That Says The Spring · 12 Oct, 2,051 minus 2,039 = **12**
+**THE TWELVE-DAY GAP, AND NOT ONE OF THOSE TWELVE DAYS IS NAMED IN THIS CHAPTER.** The ranks wall. A boy of sixteen with a paste brush puts the month's form up on the last working day of the month; **two ruled boxes at the foot, one for the figure of the thing at the address and one for the standing of it**, and about two hundred people a day stop at that corner and about two of them get to the bottom. **THE BOY ASKS, FOR THE FIRST TIME IN SIX YEARS, WHAT THE TWO WORDS ARE FOR.** He is told, and works out in about four seconds that the two words say the same thing as the sentence in his own coat in different words, and that he has known that since he was about eleven, and that he has therefore got nothing to do. **The form from the department of works has been in his coat for two hundred and thirty-one days and he has done nothing with it.** The boy says he is not going to be painting in the spring, because there will be no wall to paint and making good is not painting and nobody has ever given him a form for it. He says his father would have taken the form in and put it on the counter and it would have gone on a shelf with about nine hundred others, **and that is what would have happened, and we would have felt better.** Emil Brack is at the wall end with about nine people because a wall is where people stand. Wren Kallo tells him the twenty-third sheet went out at four on the thirtieth with nine copies and that three questions went out in the same four minutes in a day book in a division building and went to nobody. **He goes back down to the corner and there is a board there with a figure on it and the word CLAIMS under it, and a clean rectangle in the dust where the yard's own sentence stood for six weeks, and he says one word to nobody about any of it.**
+
+### 640 · The Figure Box Is Blank · 21 Oct, 2,060 minus 2,051 = 9
+**THE MOVEMENT CLOSES ON A SENTENCE THAT IS TRUE, IS NOT A COMFORT, AND HAS NO INSTRUMENT BEHIND IT.** The wall. The left box is for the figure of the thing at the address, and the address on the form is the address of this office, and the thing at the address of this office is a page and not a wall. **HE COULD PUT EIGHT HUNDRED AND FIFTY-TWO IN THAT BOX AND ABOUT TWO HUNDRED PEOPLE A DAY WOULD STOP AT IT AND ABOUT TWO WOULD GET TO THE BOTTOM AND IN NINE DAYS THERE WOULD BE A FIGURE IN THE OFFICE'S HAND AT THE BOTTOM OF A WALL. HE MAKES THE DECISION IN ABOUT FOUR SECONDS AND LEAVES IT BLANK**, and the boy says he is going to be asked again by somebody who is not him, and names her. She comes on the twenty-third and asks for a retraction, not a figure, **and then says out loud that she is not going to give it, because in about nine days that figure is the only thing she has to stand in front of nine hundred people with, and she cannot write her own name and the page at the foot of which there are four sentences is the only thing she has ever read to the bottom of.** The desk under a window, at half past four: **a man with a pencil and a ledger of about thirty names has started putting dates in it since the end of September because something changed in the middle of the year, and a woman left a piece of paper about a figure two inches away from him and he picked it up and wrote the date on it in pencil because he has a pencil and a ledger and no form about anything.** That is the whole of what this city has got.
+
+---
+
+## 2. WHAT THE BATCH OWED THE BATCH THAT FOLLOWS, AND THE OPTION IT LEAVES INTACT
+
+**THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 644 AND IT IS HIS AND IT IS NOT THIS ONE.** NOTHING IN 631–640 STRIKES A LINE OFF THE STANDING SHEET, NAMES A MAN WHO COULD, PUTS A PEN IN HIS HAND, ASKS A CLERK TO IMPROVE ANYTHING, LETS WENNA RAUT HOLD A PEN RATHER THAN A BUNDLE, OR MOVES THE FIGURE AT THE HEAD OF THE SHEET. **THE HEAD IS EIGHT HUNDRED AND FIFTY-TWO AT 631 AND IT IS EIGHT HUNDRED AND FIFTY-TWO AT 638 AND IT IS EIGHT HUNDRED AND FIFTY-TWO AT 640, AND THE TWENTY-FOURTH SHEET GOES OUT AT FOUR ON THE THIRTIETH OF DECEMBER, WHICH IS DAY 2,129, WITH THE SAME FIGURE ON IT.**
+
+**AND THE OPTION 644 NEEDS IS ALIVE AND IN ONE PLACE: 637 PUTS A MAN'S ASK ON THE TABLE AND REFUSES IT, FOUR REASONS DEEP, AND THE REASONS ARE ALL STILL TRUE. NOTHING IN 631–640 MAKES THEM LESS TRUE. IN FACT 638 MAKES THE FOURTH LINE WORSE AND 640 MAKES THE OFFICE'S FIGURE WORSE, WHICH IS THE GROUND ON WHICH 644 HAS TO STAND.**
+
+---
+
+## 3. THE TEN THINGS THIS BATCH MAY NOT HAVE DONE, AND WHAT IT DID INSTEAD
+
+| Bar | Where it is answered |
+| --- | --- |
+| No new figure at the head of the standing sheet | 631 · 638 · 640. It does not move, and at 640 a figure is refused a wall on purpose. |
+| The four lines re-quoted as a standing instruction | They are off the board. The three that are left are quoted in a character's mouth at 632 and 636 because 636 is about the third one dying in a counter, and they are never re-explained. |
+| The invented-figures sentence verbatim | It stood at 595, 596, 606 and 618. **It appears in other words at 632 and at 637 and is never quoted as a quote.** |
+| The lane's mornings | Not printed anywhere in 631–640. The lane is named and not measured. |
+| The wall's headcount | Not printed anywhere in 631–640. The wall end of a lane is printed at 637 and 639 without a figure of people. |
+| Neither repainting box filled | 639 shows two empty boxes. 640 is the chapter where the left one is deliberately left empty and the boy is told so. |
+| No fourth-wall class hit | Zero, including `manuscript` and `opposition`. Three first-draft hits were rewritten, not argued. |
+| No weekday name | Zero. Four first-draft hits — a Tuesday, a Wednesday and two Saturdays — were rewritten as dates. |
+| No announced age | Zero. A character in 633 starts to ask and is stopped; the boy's father is his father. |
+| No system panel | Zero in ten, against a budget of five unspent. |
+| No second scene | One, at 633. No other chapter of 631–640 carries an explicit passage and Set B is 0 in all ten. |
+| The two flights off Cordwain | Not climbed. 631 goes **down** them at half past ten on the twenty-first of May and says so, as at 621. |

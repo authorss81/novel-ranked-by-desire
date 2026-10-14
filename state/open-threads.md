@@ -1,3 +1,132 @@
+# VOLUME 13 BATCH 0004 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS. **CHAPTERS 631–640 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **640** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT CARRIES A RECORDED DISCREPANCY AGAINST §5c RATHER THAN A SILENT ONE. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0005/PROMPT.md`, CHAPTERS 641–650, WHICH CLOSES THE VOLUME, AND NOTHING ELSE EXISTS.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0. WHAT BATCH 0004 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
+
+**ROW 9 · A SCENE CHAPTER CAN CARRY A STAGING LIFTED OUT OF ITS OWN AUTHOR'S OWN PREVIOUS SCENE, AND A TWELVE-GRAM SCAN CANNOT SEE IT.** Chapter 633 is Wren Kallo's, five hundred and fifteen chapters after her own last one, and the scan returned `she put her mouth on his and it was not careful and` against **0118** — her own scene. **Twelve common words, the same woman, and no way at all to tell the two apart by string.** It was caught because §4d was read before a body was planned and not after, exactly as `reviews/volume-12/volume-close.md` §5 requires, and because a quarter of that table is about stagings rather than marks. **THE ROW EXISTS BECAUSE THE SCAN IS NECESSARY AND NOT SUFFICIENT, AND A GATE THAT IS NECESSARY AND NOT SUFFICIENT HAS TO BE PAIRED WITH A READING AND THE PAIRING HAS TO BE RECORDED.**
+
+**ROW 10 · A CANON SENTENCE CAN BE QUOTED VERBATIM BY ACCIDENT AND A SCAN IS THE ONLY THING THAT WILL CATCH IT.** The invented-figures sentence stood at 595, 596, 606 and 618 and may not stand again in 601–650, and it stood twice more in this batch in a character's mouth, at 632 and at 637. **Both were rewritten in other words and `grep 'made up on purpose'` across the ten returns 0.** The row exists because a sentence that is printed in the office's own hand with a man's name under it is the one sentence in this book that a writer reaches for without deciding to, and the budget for it was spent three batches ago.
+
+**ROW 11 · THE CURLY ROW RECONCILED DOWNWARD AGAINST ITS OWN PREDECESSOR AGAIN, AND EXACTLY.** Book-wide at 640: **56,016 straight double and 6,624 curly double, the batch contributing zero straight and 1,408 curly.** 6,624 − 1,408 = 5,216, **which is the row recorded at 630 to the digit.** 56,016 straight double is unchanged from 620 because this batch added none. The row takes a count and checks it downward; it does not carry a total.
+
+**ROW 12 · A SPINE DISCREPANCY IS A FINDING AND NOT A FAILURE, AND THE RULE IS TO PRINT IT.** `outline/volume-13.md` §5c gives five middle dates for 632, 633, 635, 636 and 637 a day later than the phase prompt and the finished pages. Both sets sum to 73, both agree at the four quarter-boundary dates and at the seam, and they cannot both be true. **§5c was not edited, the page was followed, the difference is printed as a table in the batch card and at the head of §7 movement four, and a later pass that prefers §5c can change five day-openings and not one interval.**
+
+## 0a. THE GATE, RE-RUN BY COMMAND
+
+```
+FILES            10 files, 631-640. `find chapters -name 'chapter-*.md' | wc -l` -> 640.
+                 One `# ` title line in every file. All ten end 0a. 79 `## ` headings, 79 unique.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 640.
+                 The ten match `outline/volume-13.md` §10, 10 of 10. No written chapter changed.
+BANK             counted per file and summed: 2,662 · 2,827 · 4,152 · 2,421 · 2,600 · 2,852 ·
+                 2,348 · 3,410 · 2,490 · 2,412. TOTAL 28,174. MEAN 2,817.4.
+                 0 below the 1,800 floor. 3 above the 2,700 ceiling, each with a stated reason:
+                 633 is the scene and is exempt by rule; 638 is the quarter-end and the batch's
+                 irreversible decision; 636 is the hearing and the yard in one morning.
+DENSITY          quoted spans 74 · 83 · 95 · 58 · 61 · 65 · 66 · 66 · 66 · 70 = 704, mean 70.4.
+                 paragraphs 83 · 75 · 98 · 66 · 75 · 91 · 69 · 97 · 80 · 76 = 810, mean 81.0.
+                 Batch 0001 ran 44.7 and 63.9; batch 0002 ran 60.5 and 69.8; batch 0003 ran 71.1
+                 and 76.8. Spans held exactly against 0003; paragraphs four and a half above.
+PARAGRAPHS       0 over ninety words. 0 over one hundred and twenty. 0 unbalanced quotation
+                 paragraphs. 61 over-ninety paragraphs in the first draft, all split and read.
+META             the class grep incl. `manuscript` and `opposition` -> 0 across all ten.
+                 The first draft returned three and all three were rewritten, not argued.
+WEEKNAMES        seven names, whole-word and stem, -> 0. The first draft carried a Tuesday, a
+                 Wednesday and two Saturdays and all five became dates.
+AGES             eleven probe forms, `aged`, spelled-out ages, `year [0-9]`, old man/woman/boy/
+                 girl, years-old -> 0. The first draft had an age question cut out of the scene
+                 and two uses of *my old man* changed to *my father*.
+ARITHMETIC       30 anchors re-derived by two methods sharing no constant. 30 agree. 0 monotonic
+                 violations. Intervals 7+8+8+7+7+7+8+12+9 = 73 = 2,060 - 1,987. Seam 8.
+                 The January exception printed and applied to both methods, and the wrong
+                 convention printed beside it because it puts 601 at 2,133.
+                 *** THE SPINE DISCREPANCY AGAINST §5c IS RECORDED AND NOT PAPERED OVER. ***
+ACCOUNT          8,1xx 0. two hundred and eleven thousand 0. settl 0 in every inflection.
+                 The first draft had *the figure is settled* at 634 and it is now *can be
+                 produced*.
+RT / BODIES      right temple 0 book-wide. cuticle 4 files book-wide, unchanged. ostho 0.
+                 A hand flat on a table: 0 across all ten.
+REPETITION       there is no form 1 · nobody asked 0 · nobody has 6 · nobody/no one all-case 47 ·
+                 the record remained 0. Batch 0003's closing row was 2 · 2 · 8 · 57 · 0.
+                 **EVERY ONE IS DOWN OR LEVEL AND THE INSTITUTIONAL FACT CARRIES THE REGISTER.**
+MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk markers even.
+                 Straight double 0 and straight apostrophes 0 in prose. The batch's only two
+                 straight apostrophes are in the title lines of 632 and 637, which `§10` and
+                 `chapter-0595.md` also carry.
+SYSTEM PANELS    0 in ten. Volume budget five, none spent.
+SCENE            633 measured three ways from disk with the line span printed beside every cell:
+                 eight `##` at lines 15, 47, 65, 93, 113, 137, 165, 189; 224 lines.
+                 (A) first ## to last ## exclusive, 16-188, 3,011. (B) the scene section
+                 inclusive, 137-164, 531 (exclusive 138-163, 525), and the whole scene body from
+                 `## Half Past Five` on 111, 112-162, 1,039 (1,043 with both headings, 24 paras).
+                 (C) exclusive through to end of file, 16-224, 3,829; to the last prose line,
+                 16-213, 3,489. Whole file 4,152.
+                 Set B at word boundary across all ten: 0. Parity: 603 returns cock 1, 623
+                 returns 0.
+```
+
+## 0b. WHAT THIS BATCH CLOSED, AND WHAT IT MAY NOT CLOSE AGAIN
+
+**THE BATCH'S IRREVERSIBLE DECISION, AND IT IS HIS, AND IT IS AT 638:**
+
+> **HE WENT UP A HILL AT FOUR ON THE LAST WORKING DAY OF A QUARTER AND SAID WHAT EIGHT HUNDRED AND FIFTY-TWO MEANS, TWICE, AT THE SAME SPEED, WITH NOTHING IMPROVED, AND ABOUT NINE HUNDRED PEOPLE HEARD IT AND ABOUT TWO HUNDRED WROTE IT DOWN, AND IN ABOUT ELEVEN MINUTES A YARD OF ABOUT ELEVEN THOUSAND PEOPLE HAD MADE IT A COUNT OF CLAIMS AND A MAN WITH A RAG HAD TAKEN DOWN THE SIX-INCH SENTENCE ABOUT A THING NOBODY CAN PROVE, CORRECTLY, BECAUSE A SENTENCE IS A THING YOU CAN ARGUE WITH AND A FIGURE IS A THING YOU CAN ONLY COUNT. HE STOOD NINE FEET OFF AND LET IT HAPPEN.**
+>
+> **WHAT IT CLOSES:** the option of ever saying on open ground what that figure means and having the yard hear it as an explanation. **WHAT IT COSTS:** the yard's one true sentence, and the fact that about nine hundred people have now watched him do the second wrong thing in about ninety days on purpose. **IT IS NOT THE VOLUME'S LAST IRREVERSIBLE DECISION. THAT IS AT 644 AND IT IS A PEN.**
+
+**AND THE THREE THAT CAME BEFORE IT AND STAY CLOSED:**
+
+> **THE OPTION OF THE FOURTH LINE BEING PUT BACK ON ANY BOARD IN ANY HAND.** Closed at 630, closed again at 632 when a landlord's man asked for it and was refused for the second time in sixteen days, and it is closed for ever because he wrote it into a book against himself on the fifteenth of October of the fourth year, which is day 1,334.
+>
+> **THE OPTION OF THE FIGURE AT THE HEAD OF THE SHEET BEING EXPLAINED IN A YARD WITHOUT THE YARD DECIDING FOR ITSELF.** Closed at 638.
+>
+> **THE OPTION OF PUTTING THE OFFICE'S FIGURE ON A WALL.** Refused on purpose at 640, in about four seconds, and the boy who paints the form was told.
+
+**AND THE STANDING INSTRUCTIONS CARRIED AND NOT BROKEN:**
+
+> **A CHAPTER OF 601–650 DOES NOT GO UP THOSE TWO FLIGHTS A SECOND TIME.** 631 goes **down** them at half past four on the twenty-first of May, to a desk under a window, and finds the woman who went down the same stair on the eleventh and was told the truth and was given nothing. The stair is not climbed and 631 says so.
+>
+> **THE HEAD OF THE STANDING SHEET IS EIGHT HUNDRED AND FIFTY-TWO FROM THE THIRTIETH OF MARCH OF THE FIFTH YEAR THROUGH THE THIRTIETH OF DECEMBER OF THE SIXTH AND MAY NOT MOVE BEFORE 644.** It is 852 at 631, at 638 and at 640, and it is 852 on the twenty-fourth sheet.
+
+## 0c. MAY NOT HAPPEN AT ALL, CARRIED WHOLE
+
+Either repainting box filled, for ever · the figure of the account printed · `settle` in any inflection · a floor, a ledger total or a running balance · a day of the week · a year numeral in the prose · an announced age · `right temple` · a fifth `cuticle` · `ostho` · **Mavis Rooke's hand-flat on a table, and no hand flat on anything** · a second conversation with the man with the broom · Brack thanked, diminished, defeated or wrong · a new enemy · a partner who dies · **a second time on the eighth of October or the tenth of October, and no chapter of 631–640 lands on either date, and no chapter of 641–650 may land on 2,047** · **a second time up the two flights off Cordwain** · **a fifth verbatim printing of the invented-figures sentence, which may be referred to in other words and never quoted as a quote** · **the four lines re-quoted as a standing instruction** · a scene at any chapter other than 603, 613, 623, 633 and 643 · **a second explicit passage in a chapter that is not the scene** · **a new figure at the head of the standing sheet** · **any chapter that strikes a line off the standing sheet, names a man who could, puts a pen in his hand, or asks a clerk to improve anything** · **any chapter that opens in Wren Kallo's rooms or asks a second question about that address** · **the magistrate's clerk after 620** · the name on his brother's file · **`there is no form` and `nobody asked` rising again.**
+
+## 0d. THE FIGURES AND DATES 641–650 INHERIT, AND EACH ONE IS SPENT OR UNSPENT
+
+```
+SPENT, MAY NOT BE PRINTED AGAIN IN VOLUME 13
+  the lane's mornings          printed at 609, 614 and 626. 631-640 printed none. 641-650 says
+                               *the lane*.
+  the four hundreds            printed nowhere and derivable nowhere in 601-650. The bare
+                               `four hundred` strings that do stand are ordinary quantities and
+                               every one of them is named and classified at `state/current.md`.
+  the wall's headcount         printed at 605 only.
+  the office's age             printed at 601, 614, 626 and NOW AT 638. IT IS SPENT FOR THE
+                               VOLUME AND NO CHAPTER OF 641–650 MAY PRINT IT AGAIN.
+  the four lines as a standing instruction   OFF THE BOARD SINCE 7 JULY AND NOT RESTORABLE
+                                             EXCEPT AT 644, WHICH IS NOT RESTORATION.
+ALIVE, AND 647 MUST USE IT
+  the twenty-fourth sheet   goes out at four on the thirtieth of December, day 2,129, and the
+                            head is unmoved for the eighth quarter running and is 852.
+NEW, AND 641–650 MAY USE IT
+  the seventeen             the difference between a division's round book and its desk book,
+                            the first figure in this volume nobody can check. 631.
+  eight hundred and fifty-two AS A COUNT OF CLAIMS   what a yard made of it in about eleven
+                            minutes on the thirtieth of September. 638. It is a fact about a yard
+                            and not about the page, and 644 may not confuse the two.
+  the figure box           the left box on the month's form, for the figure of the thing at the
+                            address. BLANK, AND LEFT BLANK ON PURPOSE. 640.
+OPEN AND PERMITTED, AND IT IS THE ONE §8 ALLOWS
+  the wall                 the ranks wall comes down in the spring for making good; the two
+                            words under the lowest rank survive every month's paint because the
+                            paint will not hold on four inches of stone; there is no schedule in
+                            this city for who paints a wall; a boy of sixteen is not going to be
+                            painting it. Opened at 639 and 640 and to be paid at 648 and 650.
+FUSE NOT RE-LIT
+  2,047 = 8 October = the anniversary. It fell inside the twelve-day gap between 638 and 639
+  and no chapter named it. It is now TWELVE DAYS BEHIND CHAPTER 640 AND THIRTY-ONE DAYS AHEAD
+  OF THE NEXT CHAPTER, 641, AND NO CHAPTER OF 641–650 MAY LAND ON IT OR REACH ACROSS IT.
+```
+
 # VOLUME 13 BATCH 0003 HAS BEEN WRITTEN, A REVIEW PASS RAN AFTER IT, AND EVERY FINDING IN THAT REVIEW IS CLOSED. **CHAPTERS 621–630 ARE ON DISK. EVERY ROW BELOW WAS RE-RUN BY COMMAND IN THE COMMIT THAT APPLIED THE REVIEW, AND EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **630** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST TWENTY-EIGHT ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS. FOUR ARITHMETIC BREAKS FOUND BY THE REVIEW ARE CLOSED. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0004/PROMPT.md`, CHAPTERS 631–640, AND NOTHING ELSE EXISTS.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0. WHAT BATCH 0003 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
@@ -20,7 +149,7 @@ BANK             counted per file and summed: 2,720 · 2,506 · 3,688 · 2,372 �
                  0 below the 1,800 floor. 3 above the 2,700 ceiling, each with a stated reason:
                  623 is the scene and is exempt by rule; 621 and 630 grew because a wrong date
                  was replaced by the correct one, which is longer, and neither is padded.
-DENSITY          quoted spans 66 · 74 · 126 · 72 · 64 · 64 · 47 · 69 · 58 · 73 = 713, mean 71.3.
+DENSITY          quoted spans 66 · 74 · 126 · 72 · 64 · 64 · 47 · 69 · 58 · 73 = 713, mean 71.3. THAT IS BATCH 0003'S OWN CLOSING ROW AND IT IS RESTORED HERE AFTER A BLANKET REPLACEMENT IN THIS COMMIT ALTERED IT BY ACCIDENT.
                  paragraphs 79 · 73 · 120 · 66 · 77 · 69 · 68 · 68 · 71 · 78 = 769, mean 76.9.
                  Batch 0001 ran 44.7 and 63.9; batch 0002 ran 60.5 and 69.8. The batch is
                  above both predecessors on both measures.
@@ -1223,7 +1352,7 @@ ARITHMETIC   The spine 561–570 re-derived from two formulas that share no cons
               1,529 − 1,516 = 13 · **1,530 − 1,529 = 1** · **1,530 − 1,439 = 91** and
               1 + 30 + 30 + 30 = 91 · **1,478 − 1,439 = 39** · **1,478 − 1,411 = 67** ·
               **1,499 − 1,409 = 90** and 30 + 30 + 30 = 90 · **1,499 − 1,419 = 80** ·
-              **1,499 − 1,439 = 60** · **1,443 − 1,422 = 21** · **1,478 − 960 = 518**
+              **1,499 − 1,439 = 60** · **1,443 − 1,408 = 21** · **1,478 − 960 = 518**
               (three hundred and sixty, and five months of thirty days which is a hundred and fifty,
               and eight days) · **1,516 − 1,156 = 360** and that is a year · **1,529 − 1,409 = 120**
               and that is four months of thirty days.
@@ -1501,9 +1630,9 @@ ARITHMETIC   The spine 551-560 re-derived from two formulas that share no consta
               1,406 = 30 × 46 + 26 (the office, forty-six months and twenty-six days at 551) ·
               1,406 − 758 = 648 = 360 + 270 + 18 (the second column's age) · 1,409 − 1,406 = 3 ·
               1,410 − 1,409 = 1 · 1,411 − 1,410 = 1 · 1,416 − 1,411 = 5 · 1,419 − 1,416 = 3 ·
-              1,422 − 1,419 = 3 · 1,425 − 1,422 = 3 · **1,430 − 1,425 = 5** · **1,439 − 1,430 = 9** ·
+              1,408 − 1,419 = 3 · 1,425 − 1,408 = 3 · **1,430 − 1,425 = 5** · **1,439 − 1,430 = 9** ·
               1,409 − 1,334 = 75 (and 15 + 30 + 30 = 75) · 1,411 − 1,334 = 77 (and 15 + 30 + 30
-              + 2 = 77) · 1,422 − 1,409 = 13 · 1,439 − 1,409 = 30 · 1,439 − 1,411 = 28 ·
+              + 2 = 77) · 1,408 − 1,409 = 13 · 1,439 − 1,409 = 30 · 1,439 − 1,411 = 28 ·
               **1,430 − 1,240 = 190 = 6 × 30 + 10**. **A quarter is 30 + 30 + 30 = 90.**
 
 QUARTERLY    552 is the **sixteenth** sheet and prints *Sixteenth quarter*; 537 heads itself

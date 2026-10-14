@@ -1,3 +1,128 @@
+# VOLUME 13 CHAPTERS 631–640 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS. `outline/volume-13.md` §7 MOVEMENT FOUR HAS BEEN REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE SPINE FOR 631–640, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes a year and is therefore the twelfth month of it:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). THE EXCEPTION IS PRINTED AND
+           APPLIED TO BOTH METHODS EVEN THOUGH NO DATE IN 631-640 FALLS IN A JANUARY, BECAUSE
+           A METHOD THAT CARRIES AN EXCEPTION IT DOES NOT NEED IS STILL A METHOD THAT CAN CARRY
+           ONE IT DOES. THE WRONG CONVENTION IS PRINTED BESIDE IT AND PUTS 601 AT 2,133. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) otherwise;  day = 30*i + (d-1)   — contains no 360 at all
+
+630  30 Jul y6 = 1,979  (the movement three close)
+631   8 Aug y6 = 1,987  ( +8)  two books four feet apart and a figure of seventeen
+632  15 Aug y6 = 1,994  ( +7)  a landlord's man asks for the fourth line back
+633  23 Aug y6 = 2,002  ( +8)  SCENE, Wren Kallo, on a returns desk
+634   1 Sep y6 = 2,010  ( +8)  a bar that is a bar, and a room with no standing in it
+635   8 Sep y6 = 2,017  ( +7)  nineteen years, and a rule that is not his
+636  15 Sep y6 = 2,024  ( +7)  THE YARD'S THREE LINES, and nine minutes in a room
+637  22 Sep y6 = 2,031  ( +7)  the sentence in the office's hand, read aloud once
+638  30 Sep y6 = 2,039  ( +8)  QUARTER-END, the twenty-third sheet, THE IRREVERSIBLE DECISION
+639  12 Oct y6 = 2,051  (+12)  *** THE TWELVE. THE LONGEST INTERVAL IN THE MOVEMENT. ***
+640  21 Oct y6 = 2,060  ( +9)  the figure box is blank
+
+30 ANCHORS RE-DERIVED, 30 AGREE, 0 MONOTONIC VIOLATIONS.
+SEAM 631-630 = 1,987 - 1,979 = 8.
+BATCH SPAN  640-631 = 2,060 - 1,987 = 73, and 7+8+8+7+7+7+8+12+9 = 73.
+QUARTER-END  30 Sep y6 = 2,039 = chapter 638 = the twenty-third sheet, the head unmoved for
+             the seventh quarter running, and 2,039 - 1,769 = 270 = nine months = three
+             quarters, because the twentieth sheet went out at four on 30 Dec y5.
+OFFICE       2,039 = 30 x 67 + 29 = sixty-seven months and twenty-nine days, PRINTED ONCE, at
+             638 ONLY, and the prompt's figure is confirmed by command: 30 x 67 = 2,010 and
+             2,010 + 29 = 2,039.
+THE LANE     Its first morning is day -118. ITS MORNINGS ARE NOT PRINTED ANYWHERE IN 631-640.
+             THE BUDGET WAS SPENT AT 609, 614 AND 626 AND IS NOT RESET BY A NEW BATCH.
+ANNIVERSARY  the second line went up 8 October of year one = 247 and its sixth anniversary is
+             2,047. 2,047 IS 8 DAYS AFTER CHAPTER 638 AND 4 DAYS BEFORE CHAPTER 639, AND IT
+             FALLS INSIDE THE TWELVE-DAY GAP. **NO CHAPTER OF 631-640 NAMES IT AND CHAPTER 639
+             SAYS IN ITS OWN FOOTER THAT NONE OF THOSE TWELVE DAYS IS NAMED IN IT. THE FUSE IS
+             NOT RE-LIT AND THE TWELVE IS NOT SMOOTHED INTO EIGHT.**
+VOLUME 13 SPAN  650 - 601 = 2,129 - 1,773 = 356, unchanged.
+SIXTH OF MARCH  year one, day 35. 1,115 is withdrawn. Not used in this batch.
+```
+
+**AND ONE SPINE DISCREPANCY, RECORDED RATHER THAN PAPERED OVER.** `outline/volume-13.md` §5c gives 632 AS THE SIXTEENTH OF AUGUST, 633 AS THE TWENTY-FOURTH, 635 AS THE NINTH OF SEPTEMBER, 636 AS THE SIXTEENTH AND 637 AS THE TWENTY-FOURTH; the phase prompt and the ten finished chapters give 15 AUGUST, 23 AUGUST, 8 SEPTEMBER, 15 SEPTEMBER AND 22 SEPTEMBER. **BOTH SETS SUM TO SEVENTY-THREE AND BOTH AGREE AT 631, 638, 639 AND 640 AND AT THE SEAM FROM 630, AND THEY CANNOT BOTH BE RIGHT.** §5c IS THE PLAN OF RECORD AND WAS NOT EDITED. **THE PAGE CARRIES THE PROMPT'S SET AND THE FULL DIFFERENCE TABLE IS AT `outline/batches/volume-13-batch-0004.md` §0 AND AT THE HEAD OF `outline/volume-13.md` §7 MOVEMENT FOUR.**
+
+## 0a. THE INTERVALS THE TEN FOOTERS PRINT, PARSED FROM THE PAGE AND SUMMED WITH THEIR OPERANDS
+
+```
+631  1,987 - 1,979 =   8   and 8-30 = -22, which borrows BACKWARDS off the thirtieth of July
+      1,987 - 1,773 = 214   and 214 = 7 months + 4 days
+632  1,994 - 1,987 =   7   and 15-8 = 7
+      2,039 - 1,994 =  45   30 Sep y6, the twenty-third sheet, and 45 is a month and a half
+633  2,002 - 1,994 =   8   and 23-15 = 8
+      2,002 - 1,998 =   4   19 Aug y6 = 1,770 + 7 x 30 + 18, the sixth valuation
+      2,002 - 1,530 = 472   1 May y5 = 1,410 + 120, and 472 = 15 months + 22 days
+      2,002 - 1,836 = 166   7 Mar y6 = 1,770 + 30 + 6, and 7 Mar is 4 days short of 11 Mar
+      2,039 - 2,002 =  37   30 Sep y6, and 37 is a month + 7 days
+634  2,010 - 2,002 =   8   and 1-23 = -22, which borrows BACKWARDS off the thirtieth of August
+      2,039 - 2,010 =  29   and 29 is a month less one day
+      2,010 - 1,990 =  20   11 Aug y6 = 1,770 + 7 x 30 + 10, the hearing
+635  2,017 - 2,010 =   7   and 8-1 = 7
+      2,017 - 1,530 = 487   and 487 = 16 months + 7 days, the second line in the column
+      19 x 360 = 6,840   *** NINETEEN YEARS, AND THE FIRST SPAN OUTSIDE THE BOOK'S OWN CALENDAR.
+                           2,017 - 6,840 = -4,823, and a day 4,823 before the first of February
+                           of the first year is a day in a building that was put up before this
+                           office existed by thirteen years. NOTHING ON ANY PAGE THIS OFFICE
+                           PRINTS COMES FROM IT. ***
+      2,017 - 1,836 = 181   7 Feb y6, and 181 = 6 months + 1 day
+636  2,024 - 2,017 =   7   and 15-8 = 7
+      2,024 - 2,039 = -15   the page goes out FIFTEEN days AFTER this chapter, and the footer
+                           says so; the printed interval is 2,039 - 2,024 = 15
+      2,024 - 1,530 = 494   and 494 = 16 months + 14 days, the second line
+      2,024 - 1,240 = 784   11 Jul y4 = 1,050 + 190, the ninth line down
+637  2,031 - 2,024 =   7   and 22-15 = 7
+      2,031 - 1,718 = 313   9 Nov y5 = 1,410 + 308, and 313 = 10 months + 13 days
+      2,031 - 1,722 = 309   13 Nov y5, the day it went out at four, and 309 = 10 months + 9
+      2,031 - 1,769 = 262   30 Dec y5, the twentieth sheet
+      2,031 - 1,836 = 225   7 Feb y6, and 225 = 7 months + 15 days
+      2,031 - 1,961 =  70   12 Jul y6 = 1,770 + 5 x 30 + 11, and 70 = 2 months + 10 days
+638  2,039 - 2,031 =   8   and 30-22 = 8
+      30 x 67 + 29  = 2,039  THE OFFICE'S AGE, printed ONCE, with its operands
+      2,039 - 1,769 = 270   and 270 = nine months and it is three quarters
+      2,039 - 1,956 =  83   7 Jul y6, the fourth line came off a board
+639  2,051 - 2,039 =  12   *** THE TWELVE. 30-12 = 18. IT IS THE LONGEST INTERVAL IN THE
+                           MOVEMENT AND IT IS NOT AN ERROR AND IT IS NOT SMOOTHED. ***
+      2,051 - 1,820 = 231   21 Feb y6 = 1,770 + 50, and 231 = 7 months + 21 days
+      2,051 - 1,799 = 252   30 Jan y6, and 252 = 8 months + 12 days
+      2,051 - 1,718 = 333   9 Nov y5, and 333 = 11 months + 3 days
+640  2,060 - 2,051 =   9   and 21-12 = 9
+      2,060 - 2,039 =  21   and 21 is three weeks
+      2,060 - 2,129 = -69   the twenty-fourth sheet goes out at four on 30 Dec y6, day 2,129,
+                           and that is 69 days after this chapter = 2 months + 9 days
+      2,060 - 1,956 = 104   7 Jul y6, and 104 = 3 months + 14 days
+      2,060 - 1,718 = 342   9 Nov y5, and 342 = 11 months + 12 days
+```
+
+## 0r. THE ONE ARITHMETIC BREAK THE WRITER'S OWN RE-DERIVATION CAUGHT, AND WHAT WAS DONE ABOUT IT
+
+**EVERY INTERVAL ANY OF THE TEN FOOTERS PRINTS WAS RE-DERIVED FROM DAY NUMBERS AGAIN, ONE AT A TIME, AFTER THE DUPLICATION REPAIRS. SIXTY-ONE INTERVALS WERE CHECKED. ONE FAILED.**
+
+**`chapter-0634.md` PRINTED *TWENTY-ONE DAYS* FOR THE INTERVAL FROM THE ELEVENTH OF AUGUST.** The eleventh of August of year six is day **1,990** and the first of September is day **2,010**, and `2,010 − 1,990 = 20`. **The figure was a day out and it was a day out in a chapter whose whole argument is that a number nobody recomputes is a number that is wrong, which is the reason it is recorded here rather than quietly corrected.** Repaired to **twenty days**, with the same operands beside it.
+
+**AND THE SAME PASS FOUND A DEVICE MISAPPLIED IN THE SAME CHAPTER.** The chapter's own opening sentence had said *twenty-three less the first of September borrows seven days of the thirtieth of August and leaves eight*, which is a borrow of seven days inside a sentence that is describing a borrow of twenty-two. **A month runs thirty days and stops, so there are seven days left in August after the twenty-third and the first of September is the day after the thirtieth, which makes eight days in all** — which is the right sentence, states the true number, and does not misname the month the days come off. **The same defect is now printed as a standing warning in `workspace/volume-13/batch-0005/PROMPT.md`: the month borrow only goes one way, and going forward past a month's end borrows nothing.**
+
+**THE OTHER SIXTY INTERVALS RE-DERIVE EXACTLY AND ARE PRINTED WITH THEIR OPERANDS AT §0a. NOTHING ELSE WAS CHANGED.**
+
+## 0r. WHAT 631–640 SETTLE, AND WHAT IS STILL OPEN
+
+**SETTLED BY 631–640 AND NOT TO BE RE-DERIVED BY A LATER CHAPTER:**
+
+- **THE THREE THAT ARE LEFT OF THE FOUR LINES ARE ALL CHECKABLE AND THEY ALL END ON THE THIRD ONE**, which wants another person to be there or to have handed it over, describable closely enough to be a name. 636 puts a hearing against that in nine minutes and 632 says out loud that the somebody in question is a landlord in the great majority of the cases.
+- **THE FIGURE AT THE HEAD OF THE STANDING SHEET IS THE NUMBER OF LINES ON A PAGE AND HAS STOOD AT EIGHT HUNDRED AND FIFTY-TWO SINCE THE THIRTIETH OF MARCH OF THE FIFTH YEAR.** 638 says it out loud on a hill and a yard of about eleven thousand people makes it a count of claims in about eleven minutes, and that is now what a figure in the office's hand means in this city when it is copied anywhere.
+- **A COUNTER FIGURE CAN BE ADDED TO AND CANNOT BE TAKEN FROM**, and the rule is older than the Register and in nobody's hand, and no page in this city can be sent back to the division that asked it a question. 635 is the chapter.
+- **THE DESK TAKES ONE QUESTION OF A THING AND ONLY ONE AND IT MAY NOT BE PUT IN A ROOM THE PERSON OWNS.** Spent at 633 on a question about a return. **IT IS SPENT AND IT CANNOT BE SPENT AGAIN.**
+- **A RETURN IS NOT A RETURN UNTIL SOMEBODY RETURNS IT, AND A DAY BOOK IS NOT A RETURN**, which is how three division officers' questions go out with a quarter-end and reach nobody.
+- **THERE IS NO INSTRUMENT IN OSTARA THAT STRIKES A PROVED LANDLORD'S STANDING, AND THERE IS NO WORD IN A DEMAND THAT SAYS THE PERSON UNDERSTOOD IT**, and a bar that depends on there being a room in which a person can be understood is a bar whatever else happens in that room.
+- **A FIGURE IN THE OFFICE'S HAND AT THE BOTTOM OF A WALL IS THE ONLY THING THIS CITY HAS EVER OBEYED**, and he leaves the box blank on purpose at 640.
+- **EMIL BRACK'S SENTENCE IS NOW A SENTENCE TWO MEN HAVE HEARD ONE OTHER MAN SAY OUT LOUD**, and he asked for it to be taken off and was refused four reasons deep, and he said *then it stays because it is in your hand and not because it is right*, and he was right and was not answered.
+
+**STILL OPEN AND NOT TOUCHED BY 631–640:** the figure of the account · the reach of the return · whether the fourth condition was ever true of anybody's deed · who put the white tile up · the keeper's six words · the year the composition of premises 34-6-118 began · his brother's file · **the anniversary at 2,047, which falls inside the twelve-day gap between 638 and 639 and which no chapter may name** · **the wall itself, which §8 PERMITS VOLUME 13 TO OPEN AND WHICH 639 AND 640 OPEN: the ranks wall comes down in the spring for making good, there is one ruled box on a works form for the date the work was done, there is no schedule anywhere in this city for who paints a wall, and a boy of sixteen is not going to be painting it.** THAT ITEM IS NOW OPEN AND IT IS PAID, IF IT IS PAID, AT 648 AND 650.
+
 # VOLUME 13 CHAPTERS 621–630 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT APPLIED THE REVIEW, AGAINST TWENTY-EIGHT ANCHORS AND BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE FOUR ARITHMETIC BREAKS WERE CLOSED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT THREE STANDS AS WRITTEN. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 621–630, AND EVERY FIGURE IT CARRIES
@@ -812,7 +937,7 @@ Feb 1469 + 1 = March 1470 · Mar 1499 + 1 = April 1500 · Apr 1529 + 1 = May 153
 The two methods share no constant and agree at every boundary.
 ```
 
-**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,530 − 1,439 = **91 days** since the thirtieth of January, and 1 + 30 + 30 + 30 = 91, with no days of May at all because this is the first · 1,478 − 1,439 = **39** · **1,478 − 1,411 = 67 days since the keeper spent her question** · 1,478 − 960 = **518 days since the first of October of the third year**, and 360 + 150 + 8 = 518 · 1,499 − 1,409 = **90 days**, and 30 + 30 + 30 = 90 · 1,499 − 1,419 = **80** · 1,499 − 1,439 = **60**, two months of thirty days · 1,443 − 1,422 = **21** · 1,443 − 1,409 = **34** · 1,499 − 1,443 = **56** · 1,516 − 1,156 = **360**, which is a year · 1,529 − 1,409 = **120**, four months of thirty days · 1,443 − 1,431 = **12**, the age of the first printed demand · **1,443 − 1,409 = 34 and 1,430 − 1,430 = 0 are not on the page.**
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,530 − 1,439 = **91 days** since the thirtieth of January, and 1 + 30 + 30 + 30 = 91, with no days of May at all because this is the first · 1,478 − 1,439 = **39** · **1,478 − 1,411 = 67 days since the keeper spent her question** · 1,478 − 960 = **518 days since the first of October of the third year**, and 360 + 150 + 8 = 518 · 1,499 − 1,409 = **90 days**, and 30 + 30 + 30 = 90 · 1,499 − 1,419 = **80** · 1,499 − 1,439 = **60**, two months of thirty days · 1,443 − 1,408 = **21** · 1,443 − 1,409 = **34** · 1,499 − 1,443 = **56** · 1,516 − 1,156 = **360**, which is a year · 1,529 − 1,409 = **120**, four months of thirty days · 1,443 − 1,431 = **12**, the age of the first printed demand · **1,443 − 1,409 = 34 and 1,430 − 1,430 = 0 are not on the page.**
 
 ## 2. THE SCENE SCHEDULE AFTER 564, BOTH COLUMNS, AND NEITHER CERTIFIED
 
@@ -913,7 +1038,7 @@ agrees with 1080 + 330 + (d - 1) at every January in the run. The two methods sh
 
 **THE ONE FIGURE THAT WAS WRONG IN THE BRIEF, AND IT IS RECORDED HERE SO NO LATER PHASE INHERITS IT. `workspace/volume-12/batch-0001/PROMPT.md` §2 gave chapter 559 as spine day 1,433. 1,433 is the twenty-fourth of January. The date is 21 January, fixed by `outline/volume-12.md` §5c, and it is 1,430.** The two intervals the brief gave were consequently wrong — it said 8 days into 559 and 6 days into 560 — and the true figures are **5 and 9**. The 1,430 − 1,240 = **190 days** since the satchel (6 × 30 + 10) replaces the brief's 193. **The correction is in both chapters, in the cards, and in the live gate block below, and the spine was re-derived rather than the chapters edited to fit.**
 
-**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,406 = 30 × 46 + 26, so the office is **forty-six months and twenty-six days** old at 551 · the second column was ruled 9 March y3 = **758**, and 1,406 − 758 = 648 = 360 + 270 + 18 · **seven quarter-ends** empty, which is the count from the ruling and is unchanged by this volume · 1,409 − 1,334 = **75 days** off the fifteenth of October · 1,411 − 1,334 = **77 days** · 1,422 − 1,409 = **13 days**, which is how long the shutter has been up · 1,439 − 1,409 = **30 days**, which is the whole of January · 1,439 − 1,411 = **28 days** · a quarter is 30 + 30 + 30 = **90 days** and the figure has not moved for three of them.
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,406 = 30 × 46 + 26, so the office is **forty-six months and twenty-six days** old at 551 · the second column was ruled 9 March y3 = **758**, and 1,406 − 758 = 648 = 360 + 270 + 18 · **seven quarter-ends** empty, which is the count from the ruling and is unchanged by this volume · 1,409 − 1,334 = **75 days** off the fifteenth of October · 1,411 − 1,334 = **77 days** · 1,408 − 1,409 = **13 days**, which is how long the shutter has been up · 1,439 − 1,409 = **30 days**, which is the whole of January · 1,439 − 1,411 = **28 days** · a quarter is 30 + 30 + 30 = **90 days** and the figure has not moved for three of them.
 
 ## 2. THE SCENE SCHEDULE AFTER 554, BOTH COLUMNS, AND NEITHER CERTIFIED
 
@@ -944,7 +1069,7 @@ agrees with 1080 + 330 + (d - 1) at every January in the run. The two methods sh
 | --- | --- | --- |
 | (1) opening `##` to closing `##` | 3,451 | **3,554** |
 | (2) scene section, INCLUSIVE of both heading lines | 2,085 | **2,855** |
-| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | **2,851** |
+| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | **2,852** |
 | explicit-vocabulary probe, whole file | 21 | **20** |
 | explicit-vocabulary probe, scene section | 17 | **14** |
 | whole file | 3,570 | **3,730** |
