@@ -1,3 +1,54 @@
+# VOLUME 16 BATCH 0001 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 2,880 TO 2,939. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                        METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED.
+751   1 Feb y9  2,880  +31 SEAM   756   4 Mar  2,913  +6
+752   8 Feb     2,887  +7          757  11 Mar  2,920  +7
+753  15 Feb     2,894  +7  SCENE   758  17 Mar  2,926  +6
+754  21 Feb     2,900  +6          759  24 Mar  2,933  +7
+755  28 Feb     2,907  +7          760  30 Mar  2,939  +6  QUARTER-END, THIRTY-THIRD SHEET
+METHOD A AND METHOD B AGREE ON TEN OF TEN.  ZERO MONOTONIC VIOLATIONS.
+BATCH ROW  7 7 6 7 6 7 6 7 6 = 59, and 2,939 - 2,880 = 59.  THE SEAM 2,880 - 2,849 = 31 IS IN ITS OWN
+COLUMN AND IS NOT ONE OF THE NINE.  IT IS THE THIRD RUNNING THIRTY-ONE-DAY SEAM, BECAUSE 2,160 = 6 x 360,
+2,520 = 7 x 360 AND 2,880 = 8 x 360 ARE ALL EXACT.
+```
+
+**THIRTY FOOTER INTERVALS WERE PARSED OFF THIRTY PAGES AND RE-DERIVED BY COMMAND: THIRTY PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES.** Three anchors, all printed with their operands in three italic footers in every chapter: the previous chapter’s day · **the quarter-end the current sheet went up on, 2,849** · the drawer instruction, 2,420.
+
+## THE RAIL, WHICH IS THE ROW THAT COST TEN CHAPTERS IN VOLUME 15
+
+**THE RULE: THE CLAUSE IS `CHAPTER DAY - (THE DAY THE CURRENT SHEET WENT UP)`, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END. IT IS NOT A CHAPTER’S OWN DAY.** The thirty-second went up at 2,849 on the thirtieth of December; the thirty-third goes up at 2,939 on the thirtieth of March.
+
+```
+751  31   752  38   753  45   754  51   755  58
+756  64   757  71   758  77   759  84   760  90, AND IT CAME DOWN AT FOUR THAT AFTERNOON
+```
+
+**TEN CLAUSES, TEN RE-DERIVED FROM 2,849, ZERO MISMATCHES.** The rail was not anchored on a chapter’s own day in any of the ten, and 760 says out loud that the thirty-second sheet stood on that rail for ninety days and came off it at four the same afternoon.
+
+## WHAT MOVED ON THE PAGE IN 751–760, AND WHAT IS NOW DIFFERENT
+
+**THE FOUR INSTRUCTIONS ARE FIVE.** The drawer (shut), the thirtieth of March (every paper entered as received with a date), the tenth of June (every paper with a description of the person who brought it, in that person’s own words) and the sixteenth of August (the denial) stood before this afternoon. **A FIFTH WENT IN ON THE THIRTIETH OF MARCH, IN HIS HAND, WITH HIS NAME UNDER IT, AND IT GOES ON THE STANDING SHEET AND NOT IN THE REGISTER:** *From the thirtieth of March of this year, when a person says a thing at that counter, this office is to write down what that person said, in the words that person used, with a date against it and an hour against the date, on the standing sheet, and not in the second column.*
+
+**AND IT IS ALREADY BEING READ.** It went out at four on the thirtieth of March and a man behind a counter read the whole of the bottom of the page out loud to eleven people, because that is what a man behind a counter does with what is on the page and nobody is entitled to tell him where the end is.
+
+**THE FIFTH FIELD HAS A SENTENCE NEAR IT AND STILL NO ENTRY.** A woman said *they said it didn’t happen* at a bench four flights up on the eighth of February, unasked and unsent, and a woman at the bench with a pencil deliberately did not write it down, and a clerk at a counter says the fifth field is about what was done to a person and has never been filled in nine years. **THE SENTENCE IS NOT IN ANY BOOK. NOTHING IS ASKED OF HER. NOBODY IS SENT.**
+
+**THE OFFICE HAS A QUEUE.** Eleven pieces of paper came through the front door in eight working days, about nine people came with them, and there is nowhere in a corridor four feet wide for a person to wait who is not also being looked at. **An office with a queue is a public room and there is no version of this building in which it is not.**
+
+**THE FOUR INCHES HAVE GONE QUIET.** Nothing has been written in the bottom two inches of the wall at the foot of the hill since the thirtieth of December, and about nine people a week get down low enough to read them, and about nine a week is what is expected there, and there is no instrument by which the reason could be established.
+
+**WHAT IS UNMOVED: THE HEAD (852, printed once in this batch, at 760), THE SECOND COLUMN AT FOUR LINES WITH NO FIFTH, THE BUNDLE AT TWENTY-THINGS-AND-NOTHING-TAKEN-OFF-IT, THE DRAWER THAT CAN NEVER BE OPENED, THE TWO RULED SQUARES THAT HAVE BEEN EMPTY SINCE THE EIGHTH OF OCTOBER OF THE FIRST YEAR, THE BOY, THE WOMAN WITH THE SHORT-HANDLED BROOM, THE TWO WORDS ON THE STONE, AND THE FIGURE OF THE ACCOUNT, WHICH IS NOT PRINTED ANYWHERE IN 751–800 AND MAY NOT BE.**
+
+## THE FOUR WORDS, AND WHAT THE ARRIVAL COST
+
+**SHE CAME UP FOUR FLIGHTS ON THE EIGHTH OF FEBRUARY AND NOBODY SENT HER.** Perla Quist read her the four words on the back of the second sheet — *she gave one sheet* — and they are true, and they are about a piece of paper, and they are not what she came for. **What came back was the sentence she has said eleven times in eleven months and been told no eleven times.** Perla Quist did not write it down and gave the reason out loud before anybody asked her.
+
+**AND SHE LEFT THE SHEET ON THE BENCH**, which is the fourth time a piece of paper has been left on that bench and the first time one has been left by a person who came up four flights to put it down. **She is not named, not aged, not traced, and is never going to be asked a question by anybody in this book.**
+
 # VOLUME 16 PLANNED 14 OCTOBER 2026 — **CHAPTERS 751–800, SPINE 2,880 TO 3,209, FIFTY CHAPTERS IN FIVE BATCHES. NO CHAPTER IS ON DISK AND NO PROSE WAS WRITTEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THE CALENDAR, CARRIED FORWARD AND UNCHANGED

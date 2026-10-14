@@ -1,3 +1,58 @@
+# VOLUME 16 BATCH 0001 ON DISK — **THE VOLUME-WIDE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT. CHAPTERS 751–760 ARE WRITTEN. THREE THREADS MOVED, ONE CLOSED, ONE OPENED, AND NONE OF THE TEN MUST-NOTS WAS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE THREAD VOLUME 15 OPENED IS PAID, AND IT IS PAID THE WRONG WAY
+
+**SOMEBODY TOLD HER** is discharged at 752 and the discharge is not an answer.
+
+A woman who cannot read came up four flights on the eighth of February, in the first week of the ninth year, and nobody sent her and nobody told her to come and no reason is given for her coming and none is asked for. Perla Quist read her the four words on the back of the second sheet. The four words are *she gave one sheet*. They are true. They are the only sentence in this city about that woman that can be read out loud. They are about a piece of paper. They are not what she came for.
+
+**What came back was the sentence she has said eleven times in eleven months and been told no eleven times, in about nine seconds, at a bench.** And Perla Quist did not write it down, and gave the reason out loud before anybody asked her: *a woman who keeps a list is a person who can be sent.*
+
+**THE SHEET IS ON THE BENCH AND STAYS ON THE BENCH.** It is the fourth piece of paper left there and the first one left by a person who came up four flights to put it down. **The second sheet has still not been sent to anybody by this office and cannot be, and the row in the Register that records it is still the only true sentence this office has published about that woman, and it is not struck and it is not improved.**
+
+## THE THING THAT MOVED AND IS NOW A DIFFERENT SITUATION
+
+**THE OFFICE HAS A QUEUE, AND A BUILDING WITH NO DOOR ONTO A STREET CANNOT HOLD ONE QUIETLY.** Eleven pieces of paper in eight working days, about nine people, about nine questions, and no form on which a question may be put to this office. A man in a corridor on the ninth day says he was told in November at a counter in this building that nothing had happened to him, and has come back to find out which counter, and the clerk tells him: the counter under a window in a passage off Cordwain, which does not belong to this office and is run by a man who is paid nothing.
+
+**THE DENIAL IS BEING HANDED ABOUT IN A BUILDING IT WAS WRITTEN ABOUT NINE FEET AWAY FROM.** A man in a delivery coat said in June last year and again in December that a claim everybody knows came from somewhere waits to be told, and that it will wait about four years. **At 758 it has been told, and what is standing in that corridor is the telling, and there is nothing to withdraw and not one person to blame.**
+
+## THE THING THIS BATCH OPENS
+
+**A LINE IN THE OFFICE’S HAND AT THE FOOT OF THE STANDING SHEET, FROM THE THIRTIETH OF MARCH, AND IT IS ALREADY BEING READ ALOUD.** Nine years in which this office has entered what it was given and has never once entered what a person said. **It goes out four times a year to about two thousand counters and a man behind a counter reads the bottom of the page to whoever is standing there and cannot be asked to read less of it, and about nine people a week hear it, and the first one to hear it was on the thirtieth of March.**
+
+**AND THE COST IS STATED BY A PERSON AND NOT BY THE NARRATOR:** Wenna Raut, before she is given it — *from this afternoon I am the hand and I am the mouth, and about forty people a quarter will say a thing at that counter and I will write it down, and a clerk who may only enter what she is given has become a person who is given sentences.* He cannot improve it and does not try.
+
+## THE THREE THINGS VOLUME 16 IS PERMITTED TO CLOSE, AND WHERE EACH ONE STANDS AFTER BATCH 0001
+
+1. **THE BLANK FIELD.** **NOT CLOSED AND NOT ADVANCED.** It is named at 753 and at 754 and at 759 and it is filled for the first time in nine years at **766**, and completed at **799**. **NO CHAPTER OF 751–760 ENTERS ANYTHING IN IT AND THE CHAPTERS THAT NAME IT SAY OUT LOUD THAT THEY CANNOT.**
+2. **THE SECOND SHEET.** **NOT CLOSED. IT IS ON A BENCH FOUR FLIGHTS UP SINCE THE EIGHTH OF FEBRUARY, PUT THERE BY A PERSON, AND IT GOES TO THE FOOT OF A WALL ON A BOARD BY A KERB AT 798 WITH A PENCIL LINE ACROSS THE BOTTOM OF IT IN HER OWN HAND.** **WHO TOLD HER IS STILL NOT ESTABLISHED AND THIS BATCH DID NOT ESTABLISH IT AND MAY NOT.**
+3. **THE MONTH CLOCK.** **STILL OPEN AND STILL ON ITS OWN CLOCK.** About nine kitchens by the end of the month is printed at 751 and at 756 and the four-year figure is printed at 756 on its own clock and is not discharged. **The month clock is paid at 775.**
+
+## THE TEN MUST-NOTS, RE-RUN BY COMMAND ACROSS ALL TEN FILES
+
+1. **NOBODY SENT.** 0 instances. The woman who cannot read came up four flights on her own on the eighth of February and nobody sent her and nobody traced her and nobody asked her anything.
+2. **THE WOMAN WITH THE SHORT-HANDLED BROOM NOT NAMED AND NOT ASKED.** She is at 751 and at 755. Third running volume. Not named. Not asked. Not aged.
+3. **THE BOY NOT ASKED ABOUT ANYTHING.** He is at 755. He puts a board up, he does not look at the two empty boxes, he has not looked at them in seven years, and **no character in this batch asks him anything at all.**
+4. **THE TWO WORDS ON THE STONE NOT PRINTED.** 0, and no chapter asserts they are the same as any heading or as anything on the quarterly page.
+5. **NO YARD, NO DOCKET, NO BAND, NO PERMISSION, NO RANK, NO NEW SHIFT.** The drawer’s date is not printed and not read aloud. He is rank one on the branch night shift he asked for and nothing in this batch moves him off it.
+6. **THE HEAD DOES NOT MOVE.** Printed once in this batch, at 760, at eight hundred and fifty-two, unmoved across seventeen sheets and sixteen quarters, both named in words, and `2,939 - 1,499 = 1,440 = 16 x 90` exactly.
+7. **NO ARGUMENT ABOUT THE REACH OF THE RETURN, NO STATEMENT OF THE FOURTH CONDITION EITHER WAY, NO FIGURE OF THE ACCOUNT, NO FLOOR, NO TOTAL, NO BALANCE.** `grep` over the ten files returns 0 for all of them and 0 for `settl` in every inflection.
+8. **NO NEW ENEMY.** The opposition in this batch is a sentence, a column, a clerk who may only enter what she is given, a counterman who cannot be asked to read less of it, a man with a slate who is right, a woman with a pencil who has said no five times, a boy nobody asks, a woman with a broom nobody asks, and about four hundred people in four hundred kitchens who are nobody’s enemy and have stopped writing.
+9. **`outline/ending.md` UNTOUCHED.**
+10. **NO THIRD PARTNER, AND NOTHING SAID OR IMPLIED ABOUT WHETHER PERLA QUIST STANDS ON A ROLL.** She reads the four words aloud, she refuses to write the sentence down, and she says no a sixth time at 757. `PC-44` holds and this volume neither answers it nor is asked to.
+
+## AND THE FIVE FAILURES THIS REPOSITORY CARRIES FORWARD, AND WHAT EACH ONE COST THIS BATCH
+
+1. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.** Thirty footer intervals parsed back off the page and re-derived; the count of unparsed rows printed as a number. **And the one card figure that could not be re-derived — *the longest it has ever been* — was cut rather than printed.**
+2. **A SCANNER THAT RETURNS ZERO ON A BOOK THAT HAS HITS IN IT IS BROKEN, NOT CLEAN.** The gram reader proved on `chapter-0564.md` (7 repeating twelve-grams inside itself, the recorded answer). The word counter proved by counting from disk per file and never from a concatenation. The explicit probe proved against two files whose answers are held.
+3. **A ROW THAT REPORTS A PASS IS NOT A CHECK.** Every row above is a count actually taken, and the mismatches are reported as counts. **THE DUPLICATION ROW REPORTED A BORROWED BODY THAT TWO OF ITS OWN PASSES HAD MISSED, AND THE ROW WAS NOT BELIEVED.**
+4. **A CLOSING BEAT USED IN SEVEN OF TEN CHAPTERS IS THE BATCH’S OWN HABIT.** **The ten endings of this batch are: a blocked want and a sixth no · a sheet left on a bench · a question she has never asked him · *that is not an answer* and *I know* · he is watching it stop · nine people coming up a stair · a door coming off its latch behind him · a man in a corridor asking which counter · a clerk coming down four flights with a sheet in her hand · a line read aloud to eleven people. NOT ONE IS THE END OF A SHIFT AND NOT TWO ARE THE SAME SHAPE.**
+5. **A PROBE OF ZERO IS NOT A PASS.** The scene at 753 scored **zero** on the explicit-vocabulary probe after its first repair and was written a third time with the anatomy named. Three is in company with 693’s two and 743’s six.
+
+## AND THE ROW VOLUME 15’S CLOSE AUDIT ASKED FOR, WHICH NO VOLUME HAD BEFORE IT
+
+**THE WATCH-CONSTRUCTION ROW AND THE STANDING-FIGURE ROW ARE BOTH IN THIS FILE’S SIBLING BLOCK IN `state/current.md` §0c AND §0d, PER CHAPTER AND PER BATCH, WITH THE FIGURES COUNTED AND NOT REPORTED.** **THE BATCH STANDS AT TWO `no form` AND SIX `nobody` AGAINST CAPS OF SIX AND TWELVE, WITH A WORST SINGLE CHAPTER OF ONE, AND THE HEAD IS PRINTED ONCE.**
+
 # VOLUME 16 PLANNED 14 OCTOBER 2026 — **NOTHING IS CLOSED BY A PLAN AND NOTHING WAS CLOSED BY THIS PHASE. NO THREAD BELOW MOVED, NO OWNER CHANGED, AND NO CHAPTER EXISTS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 **`outline/volume-16.md`, `outline/batches/volume-16-batch-0001.md` AND `workspace/volume-16/batch-0001/PROMPT.md` ARE ON DISK. THE PLAN IS NOT THE PAGE: every row below is live at 750 and stays live until a chapter of 751–800 moves it, and this block records only what the plan intends and who owns each thing next.**
