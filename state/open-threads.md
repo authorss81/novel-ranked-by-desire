@@ -134,15 +134,19 @@ VOLUME           BOTH BOXES BLANK AT THE END OF 600. THE FIGURE BOX BLANK FOR TH
 **THE DISCLOSURE STANDS. THE DEFENCE DOES NOT.** Batch 0005 disclosed that eight of ten chapters sit below the 1,800 guide floor, that three consecutive batches have breached it, and argued *nothing was padded, because these chapters are short because they are one afternoon or one street.* **Nothing was padded and nothing should have been. But the reason is not the one given, and the close prompt asked for a judgement rather than a disclosure.**
 
 ```
-movement                     chapters        mean words   mean DIALOGUE EXCHANGES   mean paragraphs
+movement                     chapters        mean words   mean QUOTED SPANS       mean paragraphs
 one,  Published              551-560             2,195                    24.7              54.2
 two,  Borrowed               561-570             2,662                    52.3              66.8
-three,Countersigned          571-580             1,408                     7.9              28.0
-four, Cross-Read             581-590             1,754                     8.5              39.4
-five, Quoted                 591-600             1,354                    10.2              32.8
+three,Countersigned          571-580             1,408                    16.1              28.0
+four, Cross-Read             581-590             1,754                    17.4              39.4
+five, Quoted                 591-600             1,354                    20.7              32.8
 ```
 
-**Dramatic density collapsed by a factor of four to six at chapter 571 and never recovered.** Movement two's quarter-end runs 28 exchanges across 51 paragraphs; movement five's runs 5 across 32. Movement two's scene has 129 exchanges and 150 paragraphs; movement four's has 16 and 68. **And the unit sizes did not change:** `chapter-0562.md` is one court room and one counter at 2,091 words and 48 paragraphs; `chapter-0588.md` is one passage and one pencil at 1,477 words and 31 paragraphs. **A one-room chapter in movement two is twice the size of a one-room chapter in movement four, and the difference is not the room.** What changed at 571 is the form: movements one and two dramatise their beats and movements three, four and five report them.
+**THE EXCHANGE COLUMN WAS RE-DERIVED IN THE REPAIR PASS AGAINST THE REVIEW OF `reviews/volume-12/volume-close.md`, AND THE FIGURES THIS BLOCK PRINTED LAST TIME ARE WITHDRAWN. The exchange column read 24.7 / 52.3 / 7.9 / 8.5 / 10.2; the last three re-derive from nothing and the measure is 24.7 / 52.3 / 16.1 / 17.4 / 20.7.** *Quoted spans* = every double-quoted run of non-newline text, either glyph, per file, summed over the movement and divided by ten, which is ten chapters each time. **The paragraph column and the word column were right and are unchanged: 54.2 / 66.8 / 28.0 / 39.4 / 32.8 over the sums 542 · 668 · 280 · 394 · 328, and 2,195 / 2,662 / 1,408 / 1,754 / 1,354 counted per file and summing 93,730.** The repair pass's own first attempt at the paragraph column returned a different set and was wrong by one chapter in the range; it is written up at §13 of that audit, because a measure is not a method.
+
+**Dramatic density fell at chapter 571 and never recovered — 3.2 times down from movement two and 1.5 times down from movement one, and not the factor of four to six this block first claimed.** Movement two's quarter-end runs 28 quoted spans across 51 paragraphs; movement five's runs 10 across 32. Movement two's scene has 129 spans and 150 paragraphs; movement four's has 32 and 68. **And the unit sizes did not change:** `chapter-0562.md` is one court room and one counter at 2,091 words, 48 paragraphs and 22 spans; `chapter-0588.md` is one passage and one pencil at 1,477 words, 31 paragraphs and 11 spans. **In quoted spans it is exactly two to one, and the difference is not the room.** What changed at 571 is the form: movements one and two dramatise their beats and movements three, four and five report them.
+
+**THE MEASURE CROSSES A TYPOGRAPHY BOUNDARY AT 571 AND THAT IS WHY THE OLD COLUMN WAS WITHDRAWN RATHER THAN ONLY CORRECTED.** 551–570 carry 770 straight-quoted spans and no curly at all; 571–600 carry no straight span and 542 curly, and not one file in the volume carries both glyphs. **A count taken on one side of that line and compared with a count taken on the other measures the quotation mark as well as the dialogue, and this one did exactly that.**
 
 **Every card beat IS present. I checked the last chapter against its card and nothing is missing.** `chapter-0600.md` carries the empty tray, 852 unmoved, the sheet out at four, ninety days and one year and half a year with their operands, the lane's 1,888 mornings printed once, the office at fifty-eight months and twenty-nine days, the verdict in his own hand, Brack not defeated, the tile unnamed, and January shut like a chained book. **Nothing is missing and everything is shorter than it needed to be, because it is told rather than lived.**
 
@@ -397,7 +401,8 @@ TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS A
               checked free against all 580 written title lines before the chapter was written.
 
 BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
-              581 1,901 · 582 1,584 · 583 1,474 · **584 3,013** · 585 1,692 · 586 1,783 ·
+              581 1,901 · 582 1,584 · 583 1,474 · **584 3,013 [WITHDRAWN — THE FILE IS 3,022; THIS
+              IS THE PRE-REPAIR FIGURE]** · 585 1,692 · 586 1,783 ·
               587 1,439 · 588 1,478 · 589 1,477 · 590 1,393. **BATCH TOTAL 17,234.**
               **584 IS ABOVE THE 1,800-2,700 GUIDE BAND AND THE REASON IS RECORDED IN
               `state/continuity.md` §0c: IT IS THE SCENE AND AN EARLIER PASS HAD COMPRESSED IT
@@ -466,6 +471,12 @@ MARKDOWN     Blockquotes 0 · tables 0 · horizontal rules 0 · code fences 0 ·
 
 SCENE        ONE, at 584. Measured on disk under all three definitions and printed in
               `state/continuity.md` §0c: (1) 1,436 · (2) 1,439 · (3) 1,436 · whole file 3,010.
+              **WITHDRAWN BY THE REPAIR PASS AGAINST THE REVIEW OF `reviews/volume-12/volume-close.md`.
+              THE FILE IS 3,022 WORDS AND ITS SCENE SECTION, LINES 36 TO 86, IS 1,430 — `sed -n '36,86p'
+              | wc -w` and `wc -w` on the whole file, counted twice. (1) AND (3) ARE THE SAME SPAN HERE
+              AND BOTH ARE 1,430; (2), THE SAME SPAN WITH BOTH HEADING LINES COUNTED, IS 1,441. WHOLE
+              FILE 3,022. THE 584 = 3,013 IN THE BANK ABOVE IS THE PRE-REPAIR FIGURE FOR THAT SAME
+              FILE AND IS WITHDRAWN WITH THIS ONE; THE REPAIRED BATCH BANK IS AT LINE 313.**
               **NO OTHER CHAPTER OF 581-590 CONTAINS AN EXPLICIT PASSAGE**, and Set B of the
               probe returns 0 in all nine of them and 3 in 584, all three inside the scene section.
 
