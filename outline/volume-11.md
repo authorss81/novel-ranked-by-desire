@@ -193,6 +193,17 @@ SPINE, RE-RUN BY COMMAND AGAINST THIS FILE AFTER IT WAS WRITTEN
                             and is 1440 days (four years at 360) from the
                             tenth of October in the year the sitting was held
   the last chapter           1,347 days elapsed, 1,348 inclusive
+  movement five, re-run      541 = 1240 · 542 = 1261 · 543 = 1284 · 544 = 1319 ·
+                             545 = 1324 · 546 = 1325 · 547 = 1329 · 548 = 1334 ·
+                             549 = 1341 · 550 = 1347.   Intervals 10 · 21 · 23 · 35 ·
+                             5 · 1 · 4 · 5 · 7 · 6, summing 117 from 1,230 at 540.
+                             MONOTONIC, ZERO VIOLATIONS.
+  movement five, corrected   14 OCTOBER 2026. THE FIRST DRAFT OF THIS FILE PUT 541 AT
+                             15 JUL, 542 AT 30 JUL, 543 AT 19 AUG, 545 AT 2 OCT,
+                             548 AT 13 OCT AND 549 AT 14 OCT, AND A CARD PUT 544 FOUR
+                             DAYS BEFORE THE MORNING. NONE OF THOSE SIX FIGURES DERIVED
+                             FROM ANYTHING. 541-550 ARE NOW THE TABLE ABOVE, WHICH IS
+                             THE SPINE THE CHAPTERS 541-550 ACTUALLY USE.
 quarter-ends               16 fall in years one to four, and 15 of them land on a
                              chapter of this volume. The sixteenth is 30 December
                              of year four, day 1,409, which is 62 days after the
@@ -220,18 +231,18 @@ quarter-ends               16 fall in years one to four, and 15 of them land on 
 
 | Ch | Day | Day | Ch | Day | Ch | Day | Ch | Day | Ch | Day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 501 | **1 Feb, y1** | 511 | **8 Oct, y1** | 521 | **8 Oct, y2** | 531 | **1 Oct, y3** | 541 | **15 Jul, y4** |
-| 502 | **9 Feb, y1** | 512 | **30 Oct, y1** | 522 | **27 Oct, y2** | 532 | **30 Oct, y3** | 542 | **30 Jul, y4** |
-| 503 | **18 Feb, y1** | 513 | **29 Nov, y1** | 523 | **30 Nov, y2** | 533 | **29 Nov, y3** | 543 | **19 Aug, y4** |
+| 501 | **1 Feb, y1** | 511 | **8 Oct, y1** | 521 | **8 Oct, y2** | 531 | **1 Oct, y3** | 541 | **11 Jul, y4** |
+| 502 | **9 Feb, y1** | 512 | **30 Oct, y1** | 522 | **27 Oct, y2** | 532 | **30 Oct, y3** | 542 | **2 Aug, y4** |
+| 503 | **18 Feb, y1** | 513 | **29 Nov, y1** | 523 | **30 Nov, y2** | 533 | **29 Nov, y3** | 543 | **25 Aug, y4** |
 | 504 | **28 Feb, y1** | 514 | **30 Dec, y1** | 524 | **30 Dec, y2** | 534 | **30 Dec, y3** | 544 | **30 Sep, y4** |
-| 505 | **6 Mar, y1 — SCENE** | 515 | **21 Jan, y2 — SCENE** | 525 | **24 Jan, y3 — SCENE** | 535 | **28 Jan, y4** | 545 | **2 Oct, y4** |
+| 505 | **6 Mar, y1 — SCENE** | 515 | **21 Jan, y2 — SCENE** | 525 | **24 Jan, y3 — SCENE** | 535 | **28 Jan, y4** | 545 | **5 Oct, y4** |
 | 506 | **15 Mar, y1** | 516 | **30 Mar, y2** | 526 | **28 Feb, y3** | 536 | **20 Feb, y4 — SCENE** | 546 | **6 Oct, y4 — SCENE** |
 | 507 | **30 Mar, y1** | 517 | **19 Apr, y2** | 527 | **30 Mar, y3** | 537 | **30 Mar, y4** | 547 | **10 Oct, y4 — THE MORNING** |
-| 508 | **16 Apr, y1** | 518 | **30 Jun, y2** | 528 | **27 Apr, y3** | 538 | **24 Apr, y4** | 548 | **13 Oct, y4** |
-| 509 | **30 Jun, y1** | 519 | **19 Jul, y2** | 529 | **30 Jun, y3** | 539 | **30 Jun, y4** | 549 | **14 Oct, y4** |
+| 508 | **16 Apr, y1** | 518 | **30 Jun, y2** | 528 | **27 Apr, y3** | 538 | **24 Apr, y4** | 548 | **15 Oct, y4** |
+| 509 | **30 Jun, y1** | 519 | **19 Jul, y2** | 529 | **30 Jun, y3** | 539 | **30 Jun, y4** | 549 | **22 Oct, y4** |
 | 510 | **30 Sep, y1** | 520 | **30 Sep, y2** | 530 | **30 Sep, y3** | 540 | **1 Jul, y4** | 550 | **28 Oct, y4** |
 
-**QUARTER-ENDS, AND EVERY ONE OF THEM IS A CHAPTER:** 507, 509, 510, 514, 516, 518, 520, 524, 527, 529, 530, 534, 537, 539, 544. **THE THIRTIETH OF SEPTEMBER OF YEAR FOUR IS CHAPTER 544 AND IT IS FOUR DAYS BEFORE THE MORNING, AND ON IT A KEEPER WRITES SIX WORDS UNDER HER OWN NAME IN A CHAINED BOOK, WHICH IS WHAT SHE HAS DONE FOUR TIMES A YEAR FOR THIRTY YEARS.**
+**QUARTER-ENDS, AND EVERY ONE OF THEM IS A CHAPTER:** 507, 509, 510, 514, 516, 518, 520, 524, 527, 529, 530, 534, 537, 539, 544. **THE THIRTIETH OF SEPTEMBER OF YEAR FOUR IS CHAPTER 544 AND IT IS TEN DAYS BEFORE THE MORNING, AND ON IT A KEEPER WRITES SIX WORDS UNDER HER OWN NAME IN A CHAINED BOOK, WHICH IS WHAT SHE HAS DONE FOUR TIMES A YEAR FOR THIRTY YEARS.** **A CARD FOR 544 ONCE SAID *FOUR DAYS BEFORE THE MORNING*. THE SPINE DOES NOT SUPPORT IT — `30 Sep y4 = 1319` AND `10 Oct y4 = 1329` — AND THE PAGE IS RIGHT AND THE CARD WAS WRONG. CORRECTED 14 OCTOBER 2026 BY THE BATCH 0005 PHASE, WHICH WROTE 544.**
 
 **THE FIGURES THAT TRAVEL, EACH WITH ITS OPERANDS, AND EACH A FORMULA AND NOT A LONE NUMBER:**
 
@@ -351,27 +362,27 @@ quarter-ends               16 fall in years one to four, and 15 of them land on 
 
 **540 — THE PRICE OF LOOKING.** Tessa's ward, and what nine divisions do to a city that has been looked at four times in twenty years.
 
-### Movement five — CALLED (541–550). 1 July year four – 28 October year four. **PLAN.**
+### Movement five — CALLED (541–550). 11 July year four – 28 October year four. **PLAN, NOW WRITTEN AND CLOSED.** 541–550 are on disk and the cards below are the plan of record for the movement and were rewritten by the batch 0005 phase against the chapters in the same commit. Spine days: 541 = 1240 · 542 = 1261 · 543 = 1284 · 544 = 1319 · 545 = 1324 · 546 = 1325 · 547 = 1329 · 548 = 1334 · 549 = 1341 · 550 = 1347.
 
 **Promise:** the morning arrives on the date it was named four years earlier by a woman nobody thanked, and there is a person in the room.
 
-**541 — THE FIRST MORNING OF THE SWEEP.** The round's first returns, and four hundred and nineteen names that are not deeds and are not in anybody's ledger.
+**541 — THE FIRST MORNING OF THE SWEEP. 11 JULY YEAR FOUR.** The round's first returns, and four hundred and nineteen names that are not deeds and are not in anybody's ledger.
 
-**542 — FOUR DAYS OF LOOKING.** Agnete's forty, and the Vestry, and eleven thousand people who were right four years ago being asked to be useful.
+**542 — FOUR DAYS OF LOOKING. 2 AUGUST YEAR FOUR.** Agnete's forty, and the Vestry, and eleven thousand people who were right four years ago being asked to be useful.
 
-**543 — A DIVISION READS A DISTRICT.** Beatrix and the nine, and what a round does to a street that has been counted four times in thirty years.
+**543 — A DIVISION READS A DISTRICT. 25 AUGUST YEAR FOUR.** Beatrix and the nine, and what a round does to a street that has been counted four times in thirty years.
 
-**544 — THE QUARTER DECIDES A NUMBER. 30 September.** Hanneke Ruis writes six words under her own name in a chained book, four days before the morning, and it says the same thing it has said one hundred and twenty times.
+**544 — THE QUARTER DECIDES A NUMBER. 30 SEPTEMBER YEAR FOUR. QUARTER-END.** Hanneke Ruis writes six words under her own name in a chained book, **ten** days before the morning, and it says the same thing it has said one hundred and twenty times.
 
-**545 — THE NIGHT BEFORE THE MORNING.** He does not sleep and he goes and stands under a white tile with a name on it and nothing under it, and does not ask who put it there.
+**545 — THE NIGHT BEFORE THE MORNING. 5 OCTOBER YEAR FOUR, AND THE NIGHT.** He does not sleep and he goes and stands under a white tile with a name on it and nothing under it, and does not ask who put it there.
 
 **546 — THE CHAPLAN AND THE COLUMN. 6 October, year four. SCENE.** The Church, four years on, and the question of whether the Church will be the one that fills the column. **What changes: she does the thing she did at the wall on the ninth of October and refuses again, and this time it costs her the argument rather than the sentence.** *May not:* claim the wall line; name the axis.
 
 **547 — A DEBT COMES DUE. 10 October, year four. THE MORNING.** One thousand three hundred and twenty-nine days after the first of February and one thousand four hundred and forty after the tenth of October in the year of the sitting. **There is a creditor in the room and it is a person, and it is one of about four hundred and nineteen, and nobody in the building can say whether being found is being owed or being caught.** *May not:* settle it; make it a triumph or a catastrophe; resolve the reach of the return.
 
-**548 — THE FIGURE HE ENTERS HIMSELF.** **The last irreversible decision, and it is his.** He enters a claim against himself in the Register, in his own hand, in the one column nobody has ever been able to fill: that the thing returned on the first of October was taken from about a million people and he decided who received it. **WHAT IT CLOSES: the option of being a man who did a thing, rather than a man who owes a thing.** **WHAT IT COSTS:** the Register's first creditor is a man who cannot pay it, and every person who comes to that counter after him is coming to a register with a debtor in it.
+**548 — THE FIGURE HE ENTERS HIMSELF. 15 OCTOBER YEAR FOUR. THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS.** He enters a claim against himself in the Register, in his own hand, in the one column nobody has ever been able to fill: that the thing returned on the first of October was taken from about a million people and he decided who received it. **WHAT IT CLOSES: the option of being a man who did a thing, rather than a man who owes a thing.** **WHAT IT COSTS:** the Register's first creditor is a man who cannot pay it, and every person who comes to that counter after him is coming to a register with a debtor in it.
 
-**549 — A ROOM WITH NINE IN IT.** The kitchen off Ferrier Street, and the clause of the twenty-first of June, and the address, and six people who keep it, and what the nine of them say about a man having made himself the first entry in a book.
+**549 — A ROOM WITH NINE IN IT. 22 OCTOBER YEAR FOUR.** The kitchen off Ferrier Street, and the clause of the twenty-first of June, and the address, and six people who keep it, and what the nine of them say about a man having made himself the first entry in a book.
 
 **550 — FOUR YEARS AND A MORNING. 28 October, year four. THE LAST CHAPTER.** Eighteen days after the morning. **A branch office, a rota, a wall, and the ordinary course of business.** **What changes: the office still has no instrument, the slates are still there, the wall still cannot be read, the tile still has nothing under it, and something that did not exist four years ago now exists and is made of people.** *May not:* describe the ending as an ending; print a figure of the account; name a day of the week; resolve anything this volume has deliberately left open.
 
