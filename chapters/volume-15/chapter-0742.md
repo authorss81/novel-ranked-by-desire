@@ -38,7 +38,7 @@ She entered it exactly, in about four minutes, with the date against it and the 
 
 *Two thousand seven hundred and ninety-four days. Less two thousand seven hundred and eighty-seven, the twenty-eighth of October of the eighth year, is seven, and a second sheet was written in this office with four words on the back of it in a clerk’s hand and it is not going anywhere.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifteen days, which is seven months and five days after them, and the thirty-first sheet has been face up on that rail for every one of the last forty-two of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifteen days, which is seven months and five days after them, and the thirty-first sheet has been face up on that rail for every one of the last thirty-five of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is three hundred and ninety-five days, which is thirteen months and five days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

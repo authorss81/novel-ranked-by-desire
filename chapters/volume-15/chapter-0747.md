@@ -106,7 +106,7 @@ She did not say anything on the stair.
 
 *Two thousand eight hundred and twenty-nine days. Less two thousand eight hundred and twenty-two, the third of December of the eighth year, is seven, and a woman came down four flights on purpose to say the cost of a name in about nine seconds and did not ask for it to be taken out.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifty days, which is eight months and ten days after them, and the thirty-first sheet has been face up on that rail for every one of the last seventy-seven of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifty days, which is eight months and ten days after them, and the thirty-first sheet has been face up on that rail for every one of the last seventy of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and thirty days, which is fourteen months and ten days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

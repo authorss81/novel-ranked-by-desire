@@ -1,5 +1,7 @@
 # Volume 15 — Close Audit — Chapters 701–750
 
+**§16 IS THE REPAIR PASS THAT FOLLOWED THE REVIEW AT `logs/volume-close.review.log`, AND IT SUPERSEDES §10b, §12 AND §6 ON EVERY POINT THEY LEFT OPEN. EVERYTHING ELSE IN THIS FILE IS THE AUDIT AS IT WAS WRITTEN AND IS LEFT STANDING AS THE RECORD OF WHAT THE CLOSE PHASE FOUND.**
+
 **A CLOSE PHASE. IT WROTE NO CHAPTER AND IT OPENED TWO FOR ONE WORD EACH.** 750 is the last chapter of
 Volume 15 and there is no Chapter 751, no `outline/volume-16.md`, and no `state/complete.md`, and this
 phase created none of them. `outline/ending.md` is untouched and nothing in this file quotes it.
@@ -601,16 +603,19 @@ counter re-proved on `chapter-0700.md` at 2,013.
 
 ### THE FINDINGS RECORDED AND NOT REPAIRED, WITH THE REPAIR READY TO APPLY
 
+**§16 REPAIRED FINDINGS 3 TO 12 ON THE PAGE AFTER THE REVIEW. FINDING 13 IS **UNSETTLED** AND IS **NOT QUEUED** — see §14.1 — AND THE REVIEW AGREED WITH LEAVING IT. EVERYTHING BELOW IS THE AUDIT AS IT WAS WRITTEN AND IS LEFT STANDING AS THE RECORD OF WHY THIS PHASE DID NOT REPAIR IT.**
+
 | # | Finding | File and line | Was → should be | Why not repaired here |
 | --- | --- | --- | --- | --- |
 | 3 | **Rail count +1** | `chapter-0729.md`:47 | forty → **thirty-nine** | see below |
 | 4 | **Rail count +1** | `chapter-0730.md`:53 | forty-seven → **forty-six** | see below |
 | 5–12 | **Rail count +7, eight chapters** | 741:97, 742:41, 744:87, 745:87, 746:89, 747:109, 748:118, 749:110 | 35→28, 42→35, 56→49, 63→56, 70→63, 77→70, 84→77, 91→84 | see below |
-| 13 | **A count of pieces of paper standing in front of the word *people***, against `chapter-0702.md`:111 | `chapter-0720.md`:129 | *Four hundred and nine **people** brought paper* → **pieces of paper** | One word. But it is a word in Volume 15 movement two, which this audit did not write and is not repairing, and the sentence's shape — *four hundred and nine people brought paper to that door* — carries the count of people onward into the next three paragraphs |
+| 13 | **A count of pieces of paper standing in front of the word *people***, against `chapter-0702.md`:111 | `chapter-0720.md`:129 | *Four hundred and nine **people** brought paper* → **pieces of paper** | **UNSETTLED AND NOT QUEUED, AND IT IS NOT PENDING WORK. See §14.1 for the adjudication and §16.5 for the statement of it.** One word. But it is a word in Volume 15 movement two, which this audit did not write and is not repairing, and the sentence's shape — *four hundred and nine people brought paper to that door* — carries the count of people onward into the next three paragraphs |
 | 14 | **`852 at 750 only`** is contradicted by the page: the figure is printed at 704, 708, 722, 723, 726, 737 and 750 | `state/open-threads.md`, batch-0005 gate block | **852 at 737 and 750 only**, where the sheet and quarter counts are named | **A record error, corrected in this phase's block at the head of `state/current.md` and not by editing an older block, which the standing rule forbids.** The outline's `the head at 750 only` means the *ordinal counts* at 750 only, and the page agrees with that reading |
 | 15 | **`four lines` … *and at 741-747*** | `state/open-threads.md`, batch-0005 gate block | **0 times in 741–747**; 2 at 748, 1 at 749, 3 at 750 | as above |
 
-**WHY FINDINGS 3 TO 12 WERE NOT REPAIRED, AND THE ARGUMENT THE OTHER WAY, STATED PLAINLY.** The rail count
+**WHY FINDINGS 3 TO 12 WERE NOT REPAIRED IN THIS PHASE, AND THE ARGUMENT THE OTHER WAY, STATED PLAINLY.**
+**§16 REPAIRED THEM, AND THE REVIEW AT `logs/volume-close.review.log` REJECTED THE ARGUMENT BELOW ON THE GROUND THAT TEN FILES IS NOT A CAMPAIGN, IT IS TEN ONE-TOKEN SWAPS, AND THAT NO PHASE IN THIS FLEET WILL EVER OWN 721–730 AND 731–750 TOGETHER. THE ARGUMENT IS LEFT HERE AS THE RECORD OF WHAT WAS WRONG WITH IT.** The rail count
 is the volume's documentary frame, printed in an italic footer in twenty-six chapters; it is wrong in ten of
 them; the `740 → 741` discontinuity is the most visible arithmetic fault in the volume. **The reader-mis-served
 test can be argued for repairing it, and I have taken the other side, for two reasons.** First, no single
@@ -764,3 +769,71 @@ unchanged, and nothing in 701–750 weakens it.
 **THE DECISION IS NOT THIS PHASE'S.** `PHASE_SYSTEM.md` gives the volume close as an audit and a record, and
 this file is both. **Whether Volume 16 is planned is a decision for whoever reads this, and this phase does
 not make it, does not create a prompt for it, and does not create `state/complete.md`.**
+
+---
+
+## 16. THE REPAIR PASS THAT FOLLOWED THE REVIEW — ELEVEN CHAPTERS OPENED, NOTHING RESTARTED, NOTHING PLANNED MOVED
+
+**THE REVIEW IS `logs/volume-close.review.log`. IT FOUND THE PHASE SCOPE-CLEAN, FOUND BOTH OF ITS OWN REPAIRS CORRECT, CONFIRMED EVERY FINDING IN §10b, §10c AND §12 FROM OUTSIDE RATHER THAN TAKING THIS FILE'S WORD FOR IT, AND FOUND ONE SUBSTANTIVE FAILURE, WHICH WAS TRIAGE.** This section is the repair pass that answers it. **NO CHAPTER WAS RESTARTED, NO EVENT, DIALOGUE LINE, SET PIECE, TITLE OR CLOSING BEAT WAS TOUCHED, AND NO PLOT MOVED.**
+
+### 16.1 THE FIVE FINDINGS, ANSWERED
+
+| The review found | Disposition |
+| --- | --- |
+| **1 ·** The deferral of the rail counts rests on a narrow reading of the prompt, and the fix is ten one-token swaps that move no word count | **ACCEPTED. REPAIRED. See §16.2.** `workspace/volume-15/volume-close/PROMPT.md`:5 says *a chapter*, and this pass repaired eleven |
+| **2 ·** Those ten findings were at risk of never being repaired, because no phase will own 721–730 and 731–750 together again | **ACCEPTED, AND IT IS THE STRONGER OF THE TWO REASONS. The finding was owed to a phase that does not exist, which is the same failure as a figure nobody re-computes: a defect owned by nobody is a defect nobody owns** |
+| **3 ·** The `750`:46 tension is flagged in §6 but given no written repair in §12, and the `:42` repair concentrated the discrepancy into one place | **ACCEPTED. ADJUDICATED AND REPAIRED. See §16.3b.** |
+| **4 ·** The `:42` sentence reports a woman's words the scene says he did not hear | **ACCEPTED. REPAIRED. See §16.3a.** |
+| **5 ·** §14.1 calls the 720:129 sentence unsettled, yet §12's table reads as a queued repair | **ACCEPTED. §12's row 13 is marked UNSETTLED AND NOT QUEUED, and this section states it at §16.5** |
+
+### 16.2 THE TEN RAIL REPAIRS, AND THE FIGURES, AND THE RULE THEY ARE AGAINST
+
+**MECHANICAL. The rule is the volume's own and is proved at `chapter-0737.md`:93.** The clause *the [sheet] has been face up … for every one of the last N of them* counts the days since the **current** sheet went up, and the current sheet goes up on the quarter-end: *the thirtieth sheet has been face up on that rail for ninety days and came down this afternoon at four*, and `2,759 − 2,669 = 90`.
+
+| Ch | Day | Current sheet | Anchor | Was | **Now** | File and line |
+| --- | --- | --- | --- | --- | --- | --- |
+| 729 | 2,708 | thirtieth | 2,669 | forty | **thirty-nine** | `chapter-0729.md`:47 |
+| 730 | 2,715 | thirtieth | 2,669 | forty-seven | **forty-six** | `chapter-0730.md`:53 |
+| 741 | 2,787 | thirty-first | 2,759 | thirty-five | **twenty-eight** | `chapter-0741.md`:97 |
+| 742 | 2,794 | thirty-first | 2,759 | forty-two | **thirty-five** | `chapter-0742.md`:41 |
+| 744 | 2,808 | thirty-first | 2,759 | fifty-six | **forty-nine** | `chapter-0744.md`:87 |
+| 745 | 2,815 | thirty-first | 2,759 | sixty-three | **fifty-six** | `chapter-0745.md`:87 |
+| 746 | 2,822 | thirty-first | 2,759 | seventy | **sixty-three** | `chapter-0746.md`:89 |
+| 747 | 2,829 | thirty-first | 2,759 | seventy-seven | **seventy** | `chapter-0747.md`:109 |
+| 748 | 2,836 | thirty-first | 2,759 | eighty-four | **seventy-seven** | `chapter-0748.md`:118 |
+| 749 | 2,843 | thirty-first | 2,759 | ninety-one | **eighty-four** | `chapter-0749.md`:110 |
+
+**Every one is a single token for a single token. Not one word count in any chapter moved: 729 and 730 stand at 1,915 and 1,844 raw before and after.**
+
+**THE READER-VISIBLE FAULT, WHICH WAS THE WORST ARITHMETIC FAULT IN THE VOLUME, IS GONE.** `chapter-0740.md`:45 printed *the last twenty-one of them* and `chapter-0741.md`:97, seven days later, printed *the last thirty-five* — a sheet that gained fourteen days in seven. The corrected run across 738–749 is **7 · 14 · 21 · 28 · 35 · 49 · 56 · 63 · 70 · 77 · 84**, and 743 prints no footer because it is the scene.
+
+**RE-DERIVED FROM DISK AFTER THE EDITS, NOT CARRIED FROM §10b: TWENTY-FOUR CHAPTERS PRINT THE CLAUSE IN ITS NUMERIC FORM AND 737 AND 750 PRINT IT IN A DIFFERENT SENTENCE, AND ALL TWENTY-SIX RE-DERIVE. 0 MISMATCHES.** The batch-0005 reader's anchor was `2,752`, which is chapter 736's own day and not a quarter-end; **a reader that picks a convenient anchor instead of the one the book supplies will certify anything, and that is worth more than the ten tokens it cost.**
+
+### 16.3 THE TWO REPAIRS IN THE LAST CHAPTER
+
+**a · `chapter-0750.md`:42 — a figure quoted from a woman the scene says he could not hear.** `:34` says *the woman beside him said something back that he did not hear*, and `:42` then gave her words verbatim as the source of the figure. **Was:** *By the end of the month it will be in about nine, **in the words of the woman beside him at the rail**, who has never met the woman whose name it is and is entirely right about what has happened.* **Now:** *By the end of the month it will be in about nine. **He did not hear what the woman beside him at the rail said back about it,** and she has never met the woman whose name it is, and she is entirely right about what has happened.* **The figure is nine, as it was, and as `:86`, `chapter-0749.md`:85 and `chapter-0738.md`:41 all have it. The narrator now carries it, and the narrator says on the page what `:34` already said.**
+
+**b · `chapter-0750.md`:46 — a four-year figure used in a one-month prediction.** **§6 named the risk precisely: the word *kitchens* at `:46` gives four hundred, and two chapters earlier the only character who counts things for a living gives nine.** The adjudication: **THE POPULATION FIGURE IS BRACK'S AND STANDS** — about forty people will say it came from the office off the third court, and about four hundred people will hear it, printed at `chapter-0748.md`:95 and at `:46`, in his mouth and in the narrator's. **THE ONE-MONTH FIGURE IS NINE AND STANDS**, printed at `chapter-0738.md`:41, `chapter-0749.md`:85, `chapter-0750.md`:42`–`:43` and `:86`. **THE FOUR-HUNDRED-KITCHEN FIGURE IS ALSO THE VOLUME'S AND IT IS NOT WRONG — IT IS ON A FOUR-YEAR CLOCK.** `chapter-0747.md`:74 puts both horizons in one mouth and one sentence: *Four of them will say it in a kitchen within a month, and in about four years it will be in about four hundred kitchens in somebody's words.* `chapter-0748.md`:91 is the same figure at the same horizon: *The worst of it was going to be about four hundred kitchens in a city with no form in it.* **WHAT WAS WRONG AT `:46` IS NOT A FIGURE BUT A HORIZON: A PREDICTION SCOPED TO A MONTH WAS STATED WITH A NUMBER THE BOOK PUTS FOUR YEARS OUT.** The repair is therefore to take the count off the kitchens in the one-month prediction and leave the population figure where Brack put it. **Was:** *the bottom two inches under the striking in **four hundred kitchens** will go quiet.* **Now:** *the bottom two inches under the striking **in every one of those kitchens** will go quiet* — **which is `chapter-0748.md`:101's own phrase for the same prediction, so the book now says the thing twice in the narrator's words and no horizon borrows another horizon's number.** **THE FOUR HUNDRED KITCHENS REMAIN FOUR HUNDRED KITCHENS IN THIS VOLUME, at `chapter-0747.md`:74 and `chapter-0748.md`:91 on the four-year clock, and at `chapter-0750.md`:104 and `chapter-0702.md`:111 as the kitchens that wrote pencil paper. IT IS THE FOUR-YEAR NUMBER IN A ONE-MONTH SENTENCE THAT IS GONE.** The prediction is still a prediction, still prospective, and still attributed out loud to Brack at `:44`. **Nothing about the plot or the ending moved.**
+
+### 16.4 THE COUNTS AFTER THE EDITS, AND THE BASIS, NAMED ONCE
+
+| Block | Raw | `^#` | `^##` |
+| --- | --- | --- | --- |
+| 701–710 | 22,377 | 21,876 | 21,935 |
+| 711–720 | 22,788 | 22,335 | 22,407 |
+| 721–730 | 19,436 | 19,173 | 19,237 |
+| 731–740 | 20,845 | 20,454 | 20,513 |
+| **741–750** | **22,886** | **22,332** | **22,391** |
+| **VOLUME 15** | **108,332** | **106,170** | **106,483** |
+
+`chapter-0750.md` is 2,468 raw · 2,418 on `^#` · 2,422 on `^##`. **THE ELEVEN REPAIRS MOVED THE RAW TOTAL BY NINE WORDS AND NOTHING ELSE: the ten rail swaps moved zero, `:42` moved seven, `:46` moved two. NO BAND VERDICT MOVES — 743 is still the only chapter outside 1,800–2,700, at 3,752 on `^##`, and 750 at 2,422 is inside it.**
+
+**THE BASIS OF RECORD IS `^#` — EVERY LINE BEGINNING WITH A `#` STRIPPED — AND THE `^##` FIGURE IS PRINTED BESIDE IT AND NOT UNDER ONE LABEL.** This is the third record finding, and it is a bookkeeping change and not a fiction change. The footer-interval count for 721–730 stays at **30, not 40**, with the command and its output at §10c. The two record claims stay as §12 rows 14 and 15 corrected them.
+
+### 16.5 WHAT IS STILL OPEN, AND IS NOT PENDING WORK
+
+**`chapter-0720.md`:129 IS UNSETTLED AND IS NOT QUEUED.** *Four hundred and nine **people** brought paper to that door* puts a count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 and `chapter-0719.md`:31, which state the distinction in terms. **I read it as a slip, I cannot prove it was one, the review agreed with leaving it, and the repair would change a sentence's shape in a movement this pass did not write.** It is owned by a pass given 711–720 and by nothing else, and **it is not a debt sitting in a queue.** §12's row 13 now says so in the table itself.
+
+### 16.6 THE SCOPE OF THIS PASS, STATED PLAINLY
+
+**Eleven chapters opened: 729, 730, 741, 742, 744, 745, 746, 747, 748, 749 for one token each, and 750 for two clauses. No chapter restarted, no paragraph split or joined for style, no dialogue rewritten, no title changed, no character's age or standing touched, no thread closed and no owner changed.** `outline/ending.md` untouched. **No prompt created, no `state/complete.md`, no controller file touched.** The state record is `state/current.md`, `state/continuity.md`, `state/open-threads.md` and `state/chapter-summaries.md`, each of which carries a new superseding block at its head and loses nothing below it.

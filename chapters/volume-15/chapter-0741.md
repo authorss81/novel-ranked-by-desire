@@ -94,6 +94,6 @@ And the piece of paper she was holding is on a table in a room with no door onto
 
 *Two thousand seven hundred and eighty-seven days. Less two thousand seven hundred and eighty, the twenty-first of October of the eighth year, is seven, and a twenty-sixth thing went onto a bundle that has been on a table three years and has never been opened.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and eight days, which is six months and twenty-eight days after them, and the thirty-first sheet has been face up on that rail for every one of the last thirty-five of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and eight days, which is six months and twenty-eight days after them, and the thirty-first sheet has been face up on that rail for every one of the last twenty-eight of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is three hundred and eighty-eight days, which is twelve months and twenty-eight days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*

@@ -50,7 +50,7 @@ He nodded gravely, because she had said the cost exactly and had not improved on
 
 *Two thousand seven hundred and fifteen days. Less two thousand seven hundred and eight, the ninth of August of the eighth year, is seven, and a denial went onto a page in the office’s hand with a man’s name and a date.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is a hundred and thirty-six days, which is four months and sixteen days after them, and the thirtieth sheet has been face up for every one of the last forty-seven of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is a hundred and thirty-six days, which is four months and sixteen days after them, and the thirtieth sheet has been face up for every one of the last forty-six of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is three hundred and sixteen days, which is ten months and sixteen days after them.*
 

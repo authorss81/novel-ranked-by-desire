@@ -84,7 +84,7 @@ He did not write it down. There is no form in this city on which a man may write
 
 *Two thousand eight hundred and eight days. Less two thousand eight hundred and one, the twelfth of November of the eighth year, is seven, and a man read the second column from the top for the first time in nine years and found that all three lines in it were names.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and twenty-nine days, which is seven months and nineteen days after them, and the thirty-first sheet has been face up on that rail for every one of the last fifty-six of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and twenty-nine days, which is seven months and nineteen days after them, and the thirty-first sheet has been face up on that rail for every one of the last forty-nine of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and nine days, which is thirteen months and nineteen days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

@@ -1,3 +1,71 @@
+# VOLUME 15 REPAIRED AFTER REVIEW — **ELEVEN CHAPTERS OPENED, TEN OF THEM FOR ONE TOKEN EACH AND ONE FOR TWO CLAUSES, AND 108,332 WORDS RAW.** THE RAIL COUNT IS NOW RIGHT IN EVERY CHAPTER THAT PRINTS IT. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+**THE PASS THIS SUPERSEDES IS THE VOLUME CLOSE. THE REVIEW THAT PROMPTED IT IS `logs/volume-close.review.log`, AND ITS VERDICT ON THE CLOSE WAS THAT THE PHASE WAS SCOPE-CLEAN, THAT BOTH OF ITS OWN REPAIRS WERE CORRECT, AND THAT ITS ONE SUBSTANTIVE FAILURE WAS TRIAGE: `reviews/volume-15/volume-close.md` §10b found the rail count wrong in ten chapters and §12 wrote the repair out for all ten and repaired none of them, on a reading of `workspace/volume-15/volume-close/PROMPT.md`:5 that took *a chapter* to mean one chapter while having itself opened two. **A PHASE IN THIS REPOSITORY WILL NEVER AGAIN OWN 721–730 AND 731–750 TOGETHER, SO A DEFECT OWNED BY “THE NEXT PASS GIVEN BOTH” IS OWNED BY NOBODY. THE REPAIRS ARE MADE HERE.** Five review findings, all five answered: four on the page, one in the record.
+
+## 1 · THE RAIL COUNT, REPAIRED IN TEN FILES, AND RE-DERIVED FROM A QUARTER-END AND NOT FROM A CHAPTER
+
+**THE RULE, WHICH IS THE VOLUME'S OWN AND NOT THIS PASS'S:** the italic clause *the [sheet] has been face up … for every one of the last N of them* is a count of days since the **current** sheet went up on the rail, and the current sheet goes up on the quarter-end. `chapter-0737.md`:93 proves it in the book's own words — *the thirtieth sheet has been face up on that rail for ninety days and came down this afternoon at four* — and `2,759 − 2,669 = 90`. Thirtieth sheet up `2,669` · thirty-first up `2,759` · thirty-second up `2,849` at four. **A READER THAT PICKS A CONVENIENT ANCHOR INSTEAD OF THE ONE THE BOOK SUPPLIES WILL CERTIFY ANYTHING, AND THAT IS EXACTLY WHAT THE BATCH-0005 GATE DID: it re-derived nine of these against `2,752`, which is chapter 736's own day and not a quarter-end, and so certified the fault its own anchor contained.**
+
+| Ch | Day | Current sheet | Anchor | Was | **Now** |
+| --- | --- | --- | --- | --- | --- |
+| `chapter-0729.md`:47 | 2,708 | thirtieth | 2,669 | forty | **thirty-nine** |
+| `chapter-0730.md`:53 | 2,715 | thirtieth | 2,669 | forty-seven | **forty-six** |
+| `chapter-0741.md`:97 | 2,787 | thirty-first | 2,759 | thirty-five | **twenty-eight** |
+| `chapter-0742.md`:41 | 2,794 | thirty-first | 2,759 | forty-two | **thirty-five** |
+| `chapter-0744.md`:87 | 2,808 | thirty-first | 2,759 | fifty-six | **forty-nine** |
+| `chapter-0745.md`:87 | 2,815 | thirty-first | 2,759 | sixty-three | **fifty-six** |
+| `chapter-0746.md`:89 | 2,822 | thirty-first | 2,759 | seventy | **sixty-three** |
+| `chapter-0747.md`:109 | 2,829 | thirty-first | 2,759 | seventy-seven | **seventy** |
+| `chapter-0748.md`:118 | 2,836 | thirty-first | 2,759 | eighty-four | **seventy-seven** |
+| `chapter-0749.md`:110 | 2,843 | thirty-first | 2,759 | ninety-one | **eighty-four** |
+
+**EVERY ONE IS A SINGLE TOKEN FOR A SINGLE TOKEN, SO NOT ONE WORD COUNT IN ANY CHAPTER MOVED** — 729 and 730 stand at 1,915 and 1,844 raw after the edits, as before. **THE RUN IS NOW 7 · 14 · 21 · 28 · 35 · 49 · 56 · 63 · 70 · 77 · 84 across 738–749, which is seven days at every step, and 743 prints no footer at all because it is the scene.**
+
+**RE-DERIVED FROM DISK AFTER THE EDITS, NOT CARRIED OVER FROM THE AUDIT: TWENTY-FOUR CHAPTERS PRINT THE CLAUSE IN ITS NUMERIC FORM AND 737 AND 750 PRINT IT IN A DIFFERENT SENTENCE, AND ALL TWENTY-SIX NOW RE-DERIVE, 0 mismatches.** The reader-visible fault is gone, and it was the worst arithmetic fault in the volume: 740 printed twenty-one days and 741, seven days later, printed thirty-five, so a sheet gained fourteen days in seven for any reader reading the footers.
+
+## 2 · `chapter-0750.md`:42 QUOTED A FIGURE FROM A WOMAN HE DID NOT HEAR
+
+`:34` establishes that the woman beside him *said something back that he did not hear*, and `:42` then gave her words verbatim as the source of the figure. **The close phase edited that exact sentence for a different reason and left the contradiction standing under the repair.**
+
+**Was:** *By the end of the month it will be in about nine, in the words of the woman beside him at the rail, who has never met the woman whose name it is and is entirely right about what has happened.*
+**Now:** *By the end of the month it will be in about nine. He did not hear what the woman beside him at the rail said back about it, and she has never met the woman whose name it is, and she is entirely right about what has happened.*
+
+The figure is the narrator's. The woman is still there, still never met the woman whose name it is, and still entirely right about what has happened, and he now says on the page that he did not hear her, which is what `:34` already said.
+
+## 3 · `chapter-0750.md`:46 USED A FOUR-YEAR FIGURE IN A ONE-MONTH PREDICTION, AND IT IS ADJUDICATED AND REPAIRED
+
+**THE TENSION AS THE AUDIT LEFT IT.** `chapter-0749.md`:85 has Emil Brack, the man who is right about every fact and is not thanked for it, say a name will *make about nine kitchens ask her what it means*. `chapter-0738.md`:41 and `chapter-0750.md`:42–43` and `:86` all give nine for a month. `:46` said *the bottom two inches under the striking in **four hundred kitchens** will go quiet*, and the repair at `:42` concentrated the disagreement into that one place instead of distributing it.
+
+**THE ADJUDICATION, AND IT IS NOT THAT FOUR HUNDRED KITCHENS IS A WRONG NUMBER — IT IS THAT IT IS ON A FOUR-YEAR CLOCK AND WAS BEING USED FOR A MONTH.** `chapter-0747.md`:74 puts both horizons in one mouth: *Four of them will say it in a kitchen within a month, and in about four years it will be in about four hundred kitchens in somebody's words.* `chapter-0748.md`:91 is the same figure at the same horizon. **THE VOLUME'S TWO CLOCKS ARE: about four kitchens inside a week and about nine by the end of a month, and about four hundred kitchens in about four years.** `:46` stated a month-scale consequence with the four-year number on it. **THE REPAIR TAKES THE COUNT OFF THE KITCHENS IN THAT ONE SENTENCE AND LEAVES THE POPULATION FIGURE WHERE BRACK PUT IT** — about forty people will say it came from the office off the third court, and about four hundred people will hear it, printed twice, at `chapter-0748.md`:95 and at `:46`.
+
+**Was:** *the bottom two inches under the striking in **four hundred kitchens** will go quiet*
+**Now:** *the bottom two inches under the striking **in every one of those kitchens** will go quiet* — **the phrase `chapter-0748.md`:101 already used for this same prediction**, so the volume now says the thing twice in the narrator's own words and no horizon borrows another horizon's figure.
+
+**THE FOUR HUNDRED KITCHENS ARE STILL FOUR HUNDRED KITCHENS AND ARE STILL ON THE PAGE** at `chapter-0747.md`:74 and `chapter-0748.md`:91 on the four-year clock, and at `:104` and `chapter-0702.md`:111 as the kitchens that wrote pencil paper. **THE PREDICTION IS STILL A PREDICTION, IS STILL PROSPECTIVE, AND IS STILL ATTRIBUTED OUT LOUD TO BRACK AT `:44`.** Nothing about the plot, the ending, or the volume's argument moved.
+
+## 4 · WHAT IS STILL OPEN, AND IT IS STILL ONE WORD
+
+**`chapter-0720.md`:129 reads *Four hundred and nine people brought paper to that door***, putting the count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 and `chapter-0719.md`:31, both of which state the distinction in terms. **IT IS NOT REPAIRED AND IT IS NOT QUEUED, AND THAT IS NOW STATED AS A DECISION RATHER THAN LEFT AMBIGUOUS.** The review agreed with leaving it — it read it as a slip, could not prove it was one, and the repair changes a sentence's shape in a movement this pass did not write. **It is recorded here as unsettled, at `reviews/volume-15/volume-close.md` §14.1, and a reader of the §12 table must not take it for a pending job.** A pass given 711–720 owns it.
+
+## 5 · THE COUNTS AFTER THE EDITS, AND THE BASIS NAMED ONCE
+
+| Block | Raw | `^#` basis | `^##` basis |
+| --- | --- | --- | --- |
+| 701–710 | 22,377 | 21,876 | 21,935 |
+| 711–720 | 22,788 | 22,335 | 22,407 |
+| 721–730 | 19,436 | 19,173 | 19,237 |
+| 731–740 | 20,845 | 20,454 | 20,513 |
+| **741–750** | **22,886** | **22,332** | **22,391** |
+| **VOLUME 15** | **108,332** | **106,170** | **106,483** |
+
+`chapter-0750.md` is 2,468 raw · 2,418 on `^#` · 2,422 on `^##`. **THE ELEVEN REPAIRS MOVED THE RAW TOTAL BY NINE WORDS AND NOTHING ELSE** — the ten rail swaps moved zero, the `:42` repair seven, the `:46` repair two. **NO BAND VERDICT MOVES: 743 is still the only chapter outside the band at 3,752 on `^##`, and 750 at 2,422 is inside it, and the band is 1,800–2,700.**
+
+**THE BASIS IS NAMED ONCE, AS THE REVIEW'S THIRD RECORD FINDING ASKED: `^#` IS THE BASIS OF RECORD FROM THIS BLOCK FORWARD — every line beginning with a `#` stripped, which removes the chapter title and the section headings together — AND THE `^##` FIGURES ARE PRINTED BESIDE IT RATHER THAN UNDER THE SAME LABEL.** The block below this one records 20,454 for 731–740 on `^#` and 22,382 for 741–750 on `^##` under one label; that is the collision and it is not repeated here. Also carried from the block below and still right: the footer-interval count for 721–730 is **30, not 40** (three per file across ten files, 0 mismatches, 0 unparsed); **852** is printed at 704, 708, 722, 723, 726, 737 and 750 and the outline's *the head at 750 only* means the **ordinal counts** at 750 only; **`four lines`** occurs 0 times in 741–747, twice at 748, once at 749 and three times at 750.
+
+## 6 · WHAT THIS PASS DID NOT DO
+
+**NO CHAPTER WAS RESTARTED, NO PLOT MOVED, NO EVENT, DIALOGUE LINE, SET PIECE OR CLOSING BEAT WAS TOUCHED, AND NOT ONE CHARACTER'S AGE OR STANDING CHANGED.** `outline/ending.md` is untouched and nothing repaired here touches it: Lin Wei, the reservoir, rank one, Adeyemi, Ferreira, Sowe and the two repainting boxes are exactly where they were. **No thread was closed by this pass and no owner changed.** `chapter-0750.md` still opens exactly one thread, still says nobody sent her, still does not name the man with the cap, and `state/open-threads.md` §MUST NOT is carried forward word for word — **a Volume 16 may not send anybody to find the woman who cannot read.** **NO PROMPT WAS CREATED, NO `state/complete.md` WAS CREATED, AND NO CONTROLLER FILE WAS TOUCHED** — `scripts/`, `.github/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` are all absent from this pass. Whether Volume 16 is planned remains a decision for whoever reads `reviews/volume-15/volume-close.md` §15, and this pass does not make it.
+
 # VOLUME 15 CLOSED — CHAPTERS 701–750 ON DISK, **108,323 WORDS RAW**, AND 750 IS THE LAST CHAPTER OF THE VOLUME. THE AUDIT IS `reviews/volume-15/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 **THIS BLOCK SUPERSEDES THE HEAD BLOCK OF THIS FILE, WHICH SAID THE ONE NEXT PHASE WAS THE VOLUME CLOSE. THIS PHASE WAS THE VOLUME CLOSE. IT WROTE NO CHAPTER, IT OPENED TWO FOR ONE WORD EACH, IT DID NOT CREATE A NEXT PHASE, AND IT DID NOT CREATE `state/complete.md`.**

@@ -107,7 +107,7 @@ He went up the lane with the slate under his arm.
 
 *Two thousand eight hundred and forty-three days. Less two thousand eight hundred and thirty-six, the seventeenth of December of the eighth year, is seven, and a man who has run a desk under a window for nine years was asked for the first time in nine years whether there was anything he should not read, and said no, and was right.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and sixty-four days, which is eight months and twenty-four days after them, and the thirty-first sheet has been face up on that rail for every one of the last ninety-one of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and sixty-four days, which is eight months and twenty-four days after them, and the thirty-first sheet has been face up on that rail for every one of the last eighty-four of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and forty-four days, which is fourteen months and twenty-four days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

@@ -86,7 +86,7 @@ It does not go anywhere until four o’clock on the thirtieth of December.
 
 *Two thousand eight hundred and twenty-two days. Less two thousand eight hundred and fifteen, the twenty-sixth of November of the eighth year, is seven, and a name went into the second column of a quarterly sheet in the office’s hand with a man’s name under it, and the woman it is about was not asked.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and forty-three days, which is eight months and three days after them, and the thirty-first sheet has been face up on that rail for every one of the last seventy of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and forty-three days, which is eight months and three days after them, and the thirty-first sheet has been face up on that rail for every one of the last sixty-three of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and twenty-three days, which is fourteen months and three days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

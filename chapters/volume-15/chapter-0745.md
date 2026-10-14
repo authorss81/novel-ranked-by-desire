@@ -84,7 +84,7 @@ He stood at the end of that bench for about a minute and a half with his hands i
 
 *Two thousand eight hundred and fifteen days. Less two thousand eight hundred and eight, the nineteenth of November of the eighth year, is seven, and a woman was asked for the fifth time in six years and priced the answer to her own name in about nine seconds and would not give the rest of it away.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and thirty-six days, which is seven months and twenty-six days after them, and the thirty-first sheet has been face up on that rail for every one of the last sixty-three of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and thirty-six days, which is seven months and twenty-six days after them, and the thirty-first sheet has been face up on that rail for every one of the last fifty-six of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and sixteen days, which is thirteen months and twenty-six days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

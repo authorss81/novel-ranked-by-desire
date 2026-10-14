@@ -115,7 +115,7 @@ In thirteen days the same man is going to read a fourth line out loud in that pa
 
 *Two thousand eight hundred and thirty-six days. Less two thousand eight hundred and twenty-nine, the tenth of December of the eighth year, is seven, and the thirty-second sheet was squared at about half past two with four lines in the second column and one living person named on it who is not the officer at the head of it.*
 
-*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifty-seven days, which is eight months and seventeen days after them, and the thirty-first sheet has been face up on that rail for every one of the last eighty-four of them.*
+*Less two thousand five hundred and seventy-nine, the thirtieth of March of the eighth year, is two hundred and fifty-seven days, which is eight months and seventeen days after them, and the thirty-first sheet has been face up on that rail for every one of the last seventy-seven of them.*
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is four hundred and thirty-seven days, which is fourteen months and seventeen days after them, and a copy carrying four sentences and no receipt has been older than that afternoon for every one of them.*
 

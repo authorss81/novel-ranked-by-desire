@@ -1,3 +1,16 @@
+# VOLUME 15 REPAIRED AFTER REVIEW — **ELEVEN CHAPTERS OPENED AND 108,332 WORDS RAW, AND NOT ONE SUMMARY BELOW CHANGES WORD FOR WORD.** THIS BLOCK SUPERSEDES NOTHING ABOVE IT AND DELETES NOTHING.
+
+**NO SUMMARY IN THIS FILE STATES A RAIL COUNT, AND NO SUMMARY STATES THE KITCHEN FIGURE THAT WAS IN DISPUTE, WHICH IS WHY A REPAIR OF ELEVEN CHAPTERS COST NOT ONE SUMMARY.** The full account of the repairs is `reviews/volume-15/volume-close.md` §16 and the figures are `state/current.md`. What a later pass needs to know about the pages is this:
+
+| Ch | Opened for | What moved on the page |
+| --- | --- | --- |
+| **729** | one token | footer rail count forty → **thirty-nine** |
+| **730** | one token | footer rail count forty-seven → **forty-six** |
+| **741 · 742 · 744 · 745 · 746 · 747 · 748 · 749** | one token each | the same clause, each exactly seven high: **35→28 · 42→35 · 56→49 · 63→56 · 70→63 · 77→70 · 84→77 · 91→84** |
+| **750** | two clauses | `:42` no longer attributes the figure for the end of the month to a woman `:34` says he did not hear; `:46` no longer states a month-scale prediction with the volume's four-year kitchen figure, and uses the phrase `chapter-0748.md`:101 already printed for the same prediction |
+
+**NOT ONE EVENT, DIALOGUE LINE, SET PIECE, TITLE OR CLOSING BEAT WAS TOUCHED IN ANY OF THE ELEVEN FILES, AND THE DAY, THE SPINE STEP AND EVERY FIGURE THESE SUMMARIES RECORD ARE UNCHANGED.** Per batch on `^#`: **21,876 · 22,335 · 19,173 · 20,454 · 22,332**; on `^##`: **21,935 · 22,407 · 19,237 · 20,513 · 22,391**; volume **108,332 raw**. `chapter-0743.md` is still the only chapter outside the band and is still recorded at 3,752 on `^##`. **The 742 row's own content — the second sheet with four words on the back of it that goes nowhere — is untouched, and its earlier one-word repair to *three hundred and twenty-seven days* stands.**
+
 # VOLUME 15 CLOSED — CHAPTERS 701–750 ON DISK, **108,323 WORDS RAW**. THIS BLOCK CORRECTS ONLY WHAT THE CLOSE AUDIT FOUND THE PAGE CONTRADICTS. IT SUPERSEDES NOTHING ABOVE IT AND DELETES NOTHING, AND EVERY SUMMARY FOR 701–750 STANDS WORD FOR WORD EXCEPT WHERE NAMED HERE.
 
 **THE AUDIT IS `reviews/volume-15/volume-close.md`. IT READ EVERY CHAPTER OF 701–750 AGAINST ITS SUMMARY HERE. ONE KIND OF SUMMARY ERROR WAS FOUND, TWO CHAPTERS WERE OPENED FOR ONE WORD EACH, AND EVERY EVENT, FIGURE, REFUSAL, RELATIONSHIP AND SCENE SUMMARY IN THE BLOCKS BELOW IS CORRECT AGAINST THE PAGE.**

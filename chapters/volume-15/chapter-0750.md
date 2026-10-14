@@ -39,11 +39,11 @@ That is the whole of what happened in that passage at four o’clock on the last
 
 He stood nine feet back and let it happen and did not go up and read anything himself, because he had wanted for about a week to have one thing in this city that a person could not pass on to anybody, and about four minutes after four o’clock he watched it be passed on to two people.
 
-A man with a cap told a woman. The woman told a man at the mouth of the lane off Cordwain before five. By the end of the week it is in about four kitchens. By the end of the month it will be in about nine, in the words of the woman beside him at the rail, who has never met the woman whose name it is and is entirely right about what has happened.
+A man with a cap told a woman. The woman told a man at the mouth of the lane off Cordwain before five. By the end of the week it is in about four kitchens. By the end of the month it will be in about nine. He did not hear what the woman beside him at the rail said back about it, and she has never met the woman whose name it is, and she is entirely right about what has happened.
 
 And then two things follow from it, both of which were said out loud in advance by a man with a slate under his arm in a lane on the twenty-fourth, and both of which are about four hundred people he has never met and is responsible for.
 
-About forty people will say that the office off the third court printed it. And about four hundred people will hear that in a kitchen, and the bottom two inches under the striking in four hundred kitchens will go quiet, because a claim everybody knows came from a building is a claim that waits to be told, and it will wait about four years, and not one of the four hundred has that left.
+About forty people will say that the office off the third court printed it. And about four hundred people will hear that in a kitchen, and the bottom two inches under the striking in every one of those kitchens will go quiet, because a claim everybody knows came from a building is a claim that waits to be told, and it will wait about four years, and not one of the four hundred has that left.
 
 He entered a denial in his own hand in August to keep those two inches open and he put a line in a column in December, and the denial and the line are on the same sheet about nine feet apart, and about nine feet apart is not far enough.
 

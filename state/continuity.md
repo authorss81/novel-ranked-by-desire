@@ -1,3 +1,57 @@
+# VOLUME 15 REPAIRED AFTER REVIEW — **ELEVEN CHAPTERS OPENED AND 108,332 WORDS RAW.** THE RAIL COUNT IS RIGHT IN ALL TWENTY-SIX CHAPTERS THAT PRINT IT AND THE LAST CHAPTER NO LONGER QUOTES A WOMAN IT DECLARES HE COULD NOT HEAR. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+**THIS IS THE REPAIR PASS THAT FOLLOWS THE REVIEW AT `logs/volume-close.review.log`, AND ITS FINDINGS AND THE FULL REASONING ARE IN `reviews/volume-15/volume-close.md` §16. WHAT BELOW IS THE CONTINUITY THAT CHANGED AND NOTHING ELSE.**
+
+## THE RAIL COUNT, CORRECTED, AND THE RULE THAT CORRECTS IT
+
+**THE RULE: the clause is `chapter day − (the day the current sheet went up on the rail)`, and the current sheet goes up on the quarter-end.** Proved by the volume itself at `chapter-0737.md`:93 — *the thirtieth sheet has been face up on that rail for ninety days and came down this afternoon at four* — with `2,759 − 2,669 = 90`. Thirtieth sheet up `2,669`, thirty-first up `2,759`, thirty-second up `2,849` at four.
+
+**THE CORRECTED RUN, EVERY FIGURE RE-DERIVED FROM DISK AFTER THE EDITS:**
+
+```
+24 CHAPTERS, THE THIRTIETH SHEET ON THE RAIL FROM 2,669      14 CHAPTERS, THE THIRTY-FIRST FROM 2,759
+  724   2,676   7   seven            unchanged        738   2,766   7   seven              unchanged
+  725   2,682  13   thirteen         unchanged        739   2,773  14   fourteen           unchanged
+  726   2,689  20   twenty           unchanged        740   2,780  21   twenty-one         unchanged
+  727   2,695  26   twenty-six       unchanged        741   2,787  28   twenty-eight       WAS thirty-five
+  728   2,702  33   thirty-three     unchanged        742   2,794  35   thirty-five        WAS forty-two
+  729   2,708  39   thirty-nine      WAS forty        743   2,801  --   no footer, the scene
+  730   2,715  46   forty-six        WAS forty-seven  744   2,808  49   forty-nine         WAS fifty-six
+  731   2,722  53   fifty-three      unchanged        745   2,815  56   fifty-six          WAS sixty-three
+  732   2,728  59   fifty-nine       unchanged        746   2,822  63   sixty-three        WAS seventy
+  733   2,734  65   sixty-five       unchanged        747   2,829  70   seventy            WAS seventy-seven
+  734   2,740  71   seventy-one      unchanged        748   2,836  77   seventy-seven      WAS eighty-four
+  735   2,746  77   seventy-seven    unchanged        749   2,843  84   eighty-four        WAS ninety-one
+  736   2,752  83   eighty-three     unchanged        750   2,849  --   since four o'clock this afternoon
+737   2,759  --  ninety days, and it came down that afternoon at four   =  2,759 - 2,669
+**26 CLAUSES, 26 RE-DERIVED, 0 MISMATCHES. EVERY INTERVAL IS SEVEN DAYS AND THE SPINE HAS NO SIX-DAY STEP AFTER 727.**
+```
+
+**AND THIS IS THE THIRD AND LAST TIME THE OFF-BY-ONE AT 729 AND 730 IS NAMED. IT IS NOW REPAIRED AND THE FIGURES ARE 39 AND 46.** No chapter anywhere in the volume prints a rail count that is not on this list.
+
+## THE LAST CHAPTER, TWO CLAUSES, AND WHAT EACH ONE WAS DOING
+
+- **`chapter-0750.md`:42.** The figure for the end of the month is **about nine kitchens**, printed here and at `:86`, at `chapter-0749.md`:85 in Brack's mouth and at `chapter-0738.md`:41. **It is no longer attributed to the woman at the rail, because `:34` says he did not hear what she said back.** The narrator now carries the figure and the narrator says aloud that he did not hear her.
+- **`chapter-0750.md`:46.** **The two clocks are now kept in their own sentences.** *About forty people will say it came from the office off the third court* and *about four hundred people will hear that in a kitchen* — Brack's prediction, printed twice, at `chapter-0748.md`:95 and here — and *the bottom two inches under the striking in every one of those kitchens will go quiet*, which is `chapter-0748.md`:101's own phrase. **`:46` HAD BORROWED A FOUR-YEAR FIGURE FOR A ONE-MONTH PREDICTION.** The volume's month clock is about four kitchens by the end of a week and about nine by the end of a month (`chapter-0750.md`:42`–`:43, `:86`, `chapter-0749.md`:85, `chapter-0738.md`:41); its four-year clock is about four hundred kitchens (`chapter-0747.md`:74, `chapter-0748.md`:91). **BOTH FIGURES ARE STILL ON THE PAGE AND BOTH ARE RIGHT ON THEIR OWN CLOCK.** A third figure also stands and is a different object: **about four hundred kitchens** is the kitchens that wrote pencil paper, `chapter-0702.md`:111` and `:104`, and it is not a measure of how far a name travels.
+- **Everything else in 750 is untouched,** including the eleven at the rail, the four minutes, the four inches, the two words that are not written down, the woman with the short-handled broom, and the last line.
+
+## THE COUNTS, AFTER THE EDITS, AND THE BASIS OF RECORD
+
+| Block | Raw | `^#` | `^##` |
+| --- | --- | --- | --- |
+| 701–710 | 22,377 | 21,876 | 21,935 |
+| 711–720 | 22,788 | 22,335 | 22,407 |
+| 721–730 | 19,436 | 19,173 | 19,237 |
+| 731–740 | 20,845 | 20,454 | 20,513 |
+| 741–750 | 22,886 | 22,332 | 22,391 |
+| **VOLUME 15** | **108,332** | **106,170** | **106,483** |
+
+`chapter-0750.md` 2,468 raw · 2,418 `^#` · 2,422 `^##`. `chapter-0743.md` is still the only chapter outside the 1,800–2,700 band, at 3,752 on `^##`, and the reason is unchanged and is not re-litigated here. **THE BASIS OF RECORD IS `^#` — every line beginning with a `#` stripped — AND THE `^##` FIGURE IS PRINTED BESIDE IT AND NOT UNDER THE SAME LABEL**, which is the third record finding the review confirmed and the label collision the audit recorded.
+
+## STANDING AFTER THIS PASS, UNCHANGED
+
+**`chapter-0720.md`:129 IS STILL UNSETTLED AND IS NOT QUEUED.** *Four hundred and nine people brought paper to that door* — a count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 and `chapter-0719.md`:31. **The review agreed with leaving it and this pass leaves it; what it does not do is leave it looking like pending work.** `outline/ending.md` untouched · the drawer still cannot be opened again by anybody · the bundle still twenty-six things with one opened · 852 still unmoved across sixteen sheets and fifteen quarters · the head of the drawer instruction still the twenty-first of October · nobody sent anybody · **who told her is still not established and may not be**.
+
 # VOLUME 15 CLOSED — CHAPTERS 701–750, THE FIRST OF FEBRUARY TO THE THIRTYTH OF DECEMBER, YEAR EIGHT. **108,323 WORDS RAW.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THE CALENDAR, AS THE PAGE FIXED IT
