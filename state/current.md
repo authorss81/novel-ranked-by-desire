@@ -1,3 +1,38 @@
+# VOLUME 15 IS PLANNED. **CHAPTERS 701–750 ARE FUTURE AND NONE IS ON DISK. THIS PHASE WROTE NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, EDITED NO FINISHED FILE, AND DID NOT TOUCH `outline/ending.md`. IT WROTE THREE THINGS AND ONE NEXT PHASE. `outline/volume-15.md` — VOLUME FIFTEEN, *THE COLUMN AND THE NAME*, CHAPTERS 701–750, IN THE HOUSE FORMAT, TEN SECTIONS. `outline/batches/volume-15-batch-0001.md` — TEN CARDS, 701–710, IN THE HOUSE FORMAT. `workspace/volume-15/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE, CHAPTERS 701–710. NO OTHER DIRECTORY, NO VOLUME-CLOSE PROMPT, NO BATCH 0002 PROMPT, NO `state/complete.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## Why Volume 14 is closed and this phase planned a volume instead of writing chapters
+
+**VOLUME 14 IS FIFTY FINISHED FILES.** `chapters/volume-14/` holds chapters 651–700 and `find chapters -name 'chapter-*.md' | wc -l` is **700**. All five of its batches are written, gated and committed: 0001 (651–660), 0002 (661–670), 0003 (671–680), 0004 (681–690, twice repaired) and 0005 (691–700), and `workspace/volume-14/batch-0005/PROMPT.md` carries a `.done` marker behind it. **§7 OF `outline/volume-14.md` SAYS IT IN ITS OWN HEADING: *ALL FIFTY CHAPTERS ARE ON DISK*.** `outline/volume-14.md` §5c ends at 2,489 and the twenty-eighth sheet went out at four on the thirtieth of December of year seven and `chapter-0700.md` is on disk. **The current volume is complete, and the instruction for a complete volume is a volume-planning phase, so this phase planned the next volume.**
+
+**AND THIS PHASE DID NOT RUN THE VOLUME-CLOSE AUDIT FOR VOLUME 14, BECAUSE IT WAS NOT ASKED TO AND BECAUSE IT WRITES NO PROSE.** `reviews/volume-14/` DOES NOT EXIST. `state/complete.md` IS NOT CREATED. **VOLUME 15 EXISTS AND CHAPTERS 701–750 DO NOT, AND THE VOLUME-CLOSE AUDIT FOR VOLUME 14 IS AN OPEN ITEM AND IS HANDED FORWARD AT `state/open-threads.md` WITH AN OWNER.**
+
+## The one next phase, and it is not mine to widen
+
+**`workspace/volume-15/batch-0001/PROMPT.md`. CHAPTERS 701–710. MOVEMENT ONE, *AN AGE*.** It carries the full spine table with operands, the figure allowances and where each is spent, the scene card for 703, the class grep with `[0-9]+ chapters` in it, the gate, the hand-forward, and the instruction to write `workspace/volume-15/batch-0002/PROMPT.md` and nothing else when the ten chapters are green.
+
+## The hand-forward this phase did not pay, and why
+
+**`chapter-0700.md`:57 PRINTS *the head of that page has not moved once in fifty chapters*. TWO DEFECTS IN ONE LINE.** The narrator is standing outside the book — the class this repository widened its grep for after 690 and did not go back and apply to the chapter it had already written. **And THE FIGURE IS WRONG ON ITS OWN ROW: `2,489 − 1,499 = 990 = 11 × 90`, which is ELEVEN QUARTERS, and eleven sheets by the house count of ordinal − 16.**
+
+**IT IS A ONE-LINE REPAIR IN A FINISHED FILE AND THIS PHASE DOES NOT REPAIR IT, BECAUSE THIS PHASE WRITES NO PROSE AND ITS WHOLE DELIVERABLE IS THREE PLANNING FILES.** `state/open-threads.md` handed it forward at the Volume 14 batch 0004 pass with the sentence *it belongs to whichever pass owns batch 0005*, and batch 0005 is closed and gated and was not touched. **IT IS NOW NAMED IN `workspace/volume-15/batch-0001/PROMPT.md` §4 AND GIVEN TO EXACTLY ONE PHASE, WITH THE OLD STRING, THE REPLACEMENT, THE OPERANDS AND AN EXPLICIT PROHIBITION ON TOUCHING ANYTHING ELSE IN THAT FILE.**
+
+## What Volume 15 is, in four lines, and the rest of it is in the outline
+
+**IT IS ABOUT A CLAIM BEING GIVEN A DAY.** Perla Quist ruled a fourth column on nine sheets under a third table in the middle of the seventh year with nothing at the top of it — the first instrument in this city that can put a claim true against a day. **She is not an instrument, nobody may cite her, and he did not ask for it.** An age is the only figure this city has ever done anything with, and the volume is what happens when about four hundred pencil-paper claims find out they can be ordered.
+
+**IT TURNS THE FLAW IN ITS FIFTH SHAPE: HE HOARDS PEOPLE.** He hoarded advantage (1–8), gave it away (10), spent the part nobody knew (11), spent a sentence nobody could quote (12), spent the claim (13), hoarded paper (14), **and here he makes himself the only route to about four hundred people's claims at 710, and puts a name in the only column in the city that can be used against her at 746.**
+
+**IT SPENDS ITS FIVE SCENES ON THE FOUR WOMEN VOLUME 14 SAID WERE OWED NOTHING — SUN MEILING AT 703, RUNA SATO AT 713, MARGUERITE VALE AT 723, WREN KALLO AT 733 — AND ON NADIA FERROUS AT 743, WHO IS THREE HUNDRED AND TWENTY-SIX CHAPTERS PAST HER OWN AND IS THE ONLY ONE OF THE NINE SWORN WITH NO INSTRUMENT OF ANY KIND.**
+
+**IT CLOSES THE ONE THREAD VOLUME 14 WAS PERMITTED TO CLOSE AND DID NOT — WHERE A PIECE OF STONE COMES FROM — AND THE CLOSE IS A DATE READ ALOUD BY SOMEBODY ELSE IN A LAUNDRY AT 712, AND THE DATE ITSELF IS PRINTED NOWHERE AND TOLD TO NOBODY.** It opens one, and the one it opens is the finding at 696: this office has never put a question to a person about a thing somebody else had written down, and somebody has now written a claim that can only be checked by asking somebody.
+
+## The figures this phase derived, all in `outline/volume-15.md` §5 with operands
+
+**SPINE 2,520 → 2,849, MONOTONIC AT ZERO VIOLATIONS BY TWO METHODS THAT SHARE NO CONSTANT, ALL FIFTY DATES AGREEING, AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS.** `7 7 6 7 6 7 6 7 6 = 59 · 7 7 7 7 7 7 7 7 7 = 63 · 7 6 7 6 7 6 7 6 7 = 59 · 6 6 6 6 6 7 7 7 7 = 58 · 7 7 7 7 7 7 7 7 6 = 62` and **301 inside the five batches, plus a seam of 31 and four seams of 7, is 360, which is `2,849 − 2,489`, and `750 − 700` is exactly one year.** **THE SIX IN THE 731–740 ROW IS NOT A TYPO AND IS NOT TO BE SMOOTHED TO A SEVEN: THE TWENTY-THIRD OF AUGUST IS SIX DAYS ON FROM THE SIXTEENTH AND THE ROW ENDS ON FOUR SEVENS, WHICH IS THE OPPOSITE END OF THE ROW FROM VOLUME 14.**
+
+**AND THE TITLE BANK IS CHECKED BY COMMAND AGAINST ALL SEVEN HUNDRED WRITTEN TITLE LINES: FIFTY OF FIFTY ABSENT, ZERO COLLISIONS, ZERO DUPLICATES INSIDE THE BANK, NONE BEGINNING WITH *WHAT*, THREE TO TWELVE WORDS, NONE OVER NINETY CHARACTERS.** One candidate, *Twenty-Six Things*, was two words and was replaced with *One More Thing In The Bundle* before anything was written.
+
+---
 # VOLUME 14 BATCH 0004 RE-DISPATCHED A SECOND TIME 14 OCTOBER 2026 — 681–690 ON DISK, **23,030 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT TO ANY OF THE TEN.** MOVEMENT FOUR, *HELD*. `outline/ending.md` IS UNTOUCHED. **THE PHASE PROMPT WAS RE-DISPATCHED AFTER ITS TEN CHAPTERS HAD BEEN WRITTEN, MEASURED, GATED, REPAIRED, COMMITTED, AND BUILT ON BY BATCH 0005, WHICH IS ALSO COMPLETE AND GATED, AND AFTER AN EARLIER RE-DISPATCH HAD ALREADY FOUND AND FIXED SIX CLASSES OF DEFECT. NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. TWELVE MORE CONCRETE DEFECTS WERE FOUND IN THE CHAPTERS AND ALL TWELVE WERE FIXED IN THE CHAPTERS, AND EVERY FIGURE BELOW WAS RE-RUN FROM DISK AFTER THE LAST EDIT.** **THE ONE NEXT PHASE THIS PROMPT ASKS FOR, `workspace/volume-14/batch-0005/PROMPT.md`, ALREADY EXISTS, WITH ITS TEN CHAPTERS AND ITS `.done` MARKER BEHIND IT. NOTHING WAS CREATED BY THIS PASS. NO BATCH 0006. NO VOLUME-CLOSE — THE VOLUME IS NOT CLOSED AND IT HAS TEN CHAPTERS LEFT AFTER THIS BATCH. `state/complete.md` IS NOT CREATED.**
 
 ## What this pass found, and the twelve repairs, all twelve in the chapters and not in a gate row

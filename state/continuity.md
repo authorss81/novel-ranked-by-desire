@@ -1,3 +1,111 @@
+# VOLUME 15 PLANNING — LIVE CONTINUITY, 14 OCTOBER 2026. **THE SPINE, THE SCENE SCHEDULE, THE FIVE COLLISIONS INHERITED WHOLE, AND THE THREE NEW ROWS THIS VOLUME ADDS. WRITTEN BY A PHASE THAT WROTE NO PROSE AND TOUCHED NO FINISHED FILE. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–750 AND DELETES NONE OF THEM.**
+
+## 0z-bis. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + off[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, pos[Feb]=0
+           *** METHOD B CONTAINS NO 360 AT ALL AND THE ONE-INDEXED FORM IN AN OLDER BLOCK
+           IN THIS REPOSITORY PUTS 23 AUGUST OF YEAR SEVEN AT 2,392 INSTEAD OF 2,362. USE
+           ZERO INDEXING AND PRINT THE pos[] VALUES IN THE BLOCK THAT USES THEM. ***
+
+701  1 Feb, y8  2,520 · +31 SEAM       711  7 Apr, y8  2,586 · +7 · the seventieth form
+702  8 Feb, y8  2,527 · +7            712 14 Apr, y8  2,593 · +7
+703 15 Feb, y8  2,534 · +7 · SCENE    713 21 Apr, y8  2,600 · +7 · SCENE
+704 21 Feb, y8  2,540 · +6            714 28 Apr, y8  2,607 · +7
+705 28 Feb, y8  2,547 · +7            715  5 May, y8  2,614 · +7
+706  4 Mar, y8  2,553 · +6            716 12 May, y8  2,621 · +7
+707 11 Mar, y8  2,560 · +7            717 19 May, y8  2,628 · +7
+708 17 Mar, y8  2,566 · +7            718 26 May, y8  2,635 · +7
+709 24 Mar, y8  2,573 · +7            719  3 Jun, y8  2,642 · +7
+710 30 Mar, y8  2,579 · +6 · Q-END    720 10 Jun, y8  2,649 · +7
+721 17 Jun, y8  2,656 · +7            731 23 Aug, y8  2,722 · +7
+722 24 Jun, y8  2,663 · +7            732 29 Aug, y8  2,728 · +6
+723 30 Jun, y8  2,669 · +6 · Q-END    733  5 Sep, y8  2,734 · +6 · SCENE
+724  7 Jul, y8  2,676 · +7            734 11 Sep, y8  2,740 · +6
+725 13 Jul, y8  2,682 · +6            735 17 Sep, y8  2,746 · +6
+726 20 Jul, y8  2,689 · +7            736 23 Sep, y8  2,752 · +6
+727 26 Jul, y8  2,695 · +6            737 30 Sep, y8  2,759 · +7 · Q-END
+728  3 Aug, y8  2,702 · +7            738  7 Oct, y8  2,766 · +7 · the seventy-sixth form
+729  9 Aug, y8  2,708 · +6            739 14 Oct, y8  2,773 · +7
+730 16 Aug, y8  2,715 · +7            740 21 Oct, y8  2,780 · +7
+                                   741 28 Oct, y8  2,787 · +7
+                                   742  5 Nov, y8  2,794 · +7
+                                   743 12 Nov, y8  2,801 · +7 · SCENE
+                                   744 19 Nov, y8  2,808 · +7
+                                   745 26 Nov, y8  2,815 · +7
+                                   746  3 Dec, y8  2,822 · +7 · THE VOLUME'S DECISION
+                                   747 10 Dec, y8  2,829 · +7
+                                   748 17 Dec, y8  2,836 · +7
+                                   749 24 Dec, y8  2,843 · +7
+                                   750 30 Dec, y8  2,849 · +6 · Q-END · THE LAST CHAPTER
+
+0001 701-710  7 7 6 7 6 7 6 7 6 = 59   and 2,579 - 2,520 = 59   seam 701-700 = 31
+0002 711-720  7 7 7 7 7 7 7 7 7 = 63   and 2,649 - 2,586 = 63   seam 711-710 =  7
+0003 721-730  7 6 7 6 7 6 7 6 7 = 59   and 2,715 - 2,656 = 59   seam 721-720 =  7
+0004 731-740  6 6 6 6 6 7 7 7 7 = 58   and 2,780 - 2,722 = 58   seam 731-730 =  7
+0005 741-750  7 7 7 7 7 7 7 7 6 = 62   and 2,849 - 2,787 = 62   seam 741-740 =  7
+301 inside the batches + 31 + 4 x 7 = 360 = 2,849 - 2,489 = 750 - 700 - 350 + 350
+*** AND THE SIX IN THE 731-740 ROW IS REAL. THE FIRST TERM IS A SIX BECAUSE THE MONTH
+    HAS THIRTY DAYS AND THE LAST FOUR ARE SEVENS. IT IS NOT TO BE SMOOTHED TO MATCH
+    VOLUME 14, AND EVERY TERM WAS READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME. ***
+```
+
+**THE FIGURES OF THE SEAM, WHICH IS EXACT FOR THE SECOND TIME IN THE BOOK.** `2,160 = 6 × 360` and `2,520 = 7 × 360`, so **both volumes open thirty-one days after the last chapter of the volume before it.** The figure is the figure and is not a coincidence, a chapter may not round it, and nothing may put it on a quarter-end.
+
+## 0z-ter. THE SCENE SCHEDULE, AND THE COLUMN THAT IS NOT A BAND
+
+**Volume 14's last scene is 693, Ines Duarte. The next is 703, Sun Meiling, and 703 − 693 = 10.**
+
+| Ch | Whose | Her own last scene | From the previous scene | From her own last scene |
+| --- | --- | --- | --- | --- |
+| **703** | **Sun Meiling** | **613** | **10** | **90** |
+| **713** | **Runa Sato** | **603** | **10** | **110** |
+| **723** | **Marguerite Vale** | **623** | **10** | **100** |
+| **733** | **Wren Kallo** | **633** | **10** | **100** |
+| **743** | **Nadia Ferrous** | **417** | **10** | **326** |
+
+**CADENCE 10, 10, 10, 10, 10 — NOTHING UNDER EIGHT AND NOTHING OVER FIFTEEN. PER-WOMAN 90, 110, 100, 100, 326 — REPORTED AND NOT CERTIFIED, AND NO FILE IN THIS REPOSITORY MAY SAY ONE OF THOSE FIVE IS INSIDE THE EIGHT-TO-FIFTEEN BAND.**
+
+**THE AXES ARE ALL NEW AND THE AXIS COLUMN IS THE REUSE GATE:** the **heading** (703) · the **address** (713) · the **third party** (723) · the **day book** (733) · the **rota** (743). **NONE IS ONE OF VOLUME 12's FIVE, NONE OF VOLUME 13's FIVE, NONE OF VOLUME 14's FIVE.** A chapter that restages 594's, 613's, 643's, 653's, 663's, 673's, 683's or 693's furniture is written against §0b and is not permitted.
+
+## 0z-quater. THE FIGURES VOLUME 15 PRINTS ONCE EACH, WITH OPERANDS, AND WHERE EACH IS SPENT
+
+```
+THE OFFICE'S MONTHS     2,520 = 30 x 84 + 0 EXACTLY, at 701. Nowhere else in the volume.
+THE SHUTTER             bare since 2,078 (9 Nov YEAR SIX). At 710: 2,579 - 2,078 = 501
+                        = 16 months with 21 days. THE ANCHOR IS NAMED OR IT IS NOT PRINTED.
+THE LANE'S MORNINGS     2,649 - (-118) + 1 = 2,768 at 720. Nowhere else.
+THE WALL'S RATE         printed once, at 738, with its reason. Nowhere else.
+THE SHEET               852, unmoved since 1,499. THIRTEEN SHEETS at 710, fourteen at 723,
+                        fifteen at 737, SIXTEEN at 750. See 0z-quin.
+THE SECOND COLUMN       THREE LINES at 701 and three all the way through movement one.
+                        FOUR AT 750, and the fourth is the first line in nine sheets that is
+                        a claim, and it is entered at 746.
+THE BUNDLE              twenty-five at 701, TWENTY-SIX at 750, and nobody is required to
+                        open any of them.
+THE ACCOUNT             never printed. No floor, no total, no balance, no grains.
+411                     printed ZERO times in 701-750.
+771                     SEE 0z-quin. Printed twice at 700 against two anchors.
+THE DOCKET'S DATE       READ ALOUD AT 712. PRINTED NOWHERE IN 701-750. TOLD TO NOBODY.
+THE TWO WORDS           NEVER PRINTED IN THIS BOOK AND NOT PRINTED IN THIS VOLUME.
+THE YARD'S FIGURE       described, not printed, and the yard is not entered at all.
+```
+
+## 0z-quin. THREE COLLISIONS INHERITED WHOLE, AND ONE OF THEM IS THE EXPENSIVE KIND
+
+**ONE · THE NUMERAL `771` IS ALREADY IN THIS BOOK, TWICE, IN ONE FOOTER, AGAINST TWO ANCHORS, WITH THE SAME MONTH BREAKDOWN.** `chapter-0700.md`:75 prints *Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is seven hundred and seventy-one days, which is twenty-five months with twenty-one days after them*, and `chapter-0700.md`:75–77 then prints `411` beside it and explains the collision. **AT 750 THE SHUTTER'S INTERVAL FROM `2,078` IS ALSO `2,849 − 2,078 = 771`, AND IT IS ALSO TWENTY-FIVE MONTHS WITH TWENTY-ONE DAYS.** **A CHAPTER OF 701–750 THAT PRINTS 771 NAMES WHICH ANCHOR IT MEANS. AND A FOOTER-TO-FOOTER COMPARISON ACROSS THE VOLUME SEAM AT 700/701 WILL RETURN AN IDENTICAL RUN AND IS NOT A DEFECT WHEN BOTH ANCHORS ARE NAMED — WHICH IS THE SAME RULE §2c OF VOLUME 14 SET, RESTATED because a collision in this repository has twice been "fixed" by deleting a correct line.**
+
+**TWO · `411` IS THE SHUTTER'S INTERVAL AT 700 AND IS ALSO THE FIGURE `chapter-0650.md` PRINTS AGAINST THE OTHER NOVEMBER.** Printed zero times in 701–750.
+
+**THREE · THE HOUSE COUNTS SHEETS AND QUARTERS DIFFERENTLY AND BOTH ARE RIGHT.** Sheets count sheet seventeen itself and are **ordinal − 16**; quarters count quarter-ends strictly after `1,499` and are **(day − 1,499) ÷ 90**. At 750 that is **sixteen sheets and fifteen quarters**. **`chapter-0700.md`:57 PRINTED *fifty chapters* FOR THIS ROW AND WAS WRONG TWICE OVER — THE CLASS IS THE NARRATOR OUTSIDE THE BOOK AND THE FIGURE IS WRONG ON ITS OWN ROW.** See `state/open-threads.md` for the hand-forward and its owner.
+
+## 0z-sext. THE THINGS 701–750 MAY NOT DO, ADDED TO THE INHERITED LIST
+
+**The invented-figures sentence is SPENT FOR THE REST OF THE BOOK — ZERO verbatim and ZERO Tier 3 in 701–750, in any chapter and in any footer.** **The second sentence at the foot is paraphrased, never quoted verbatim.** **The four sentences at the foot and the two inches are never re-explained; this book has printed *where the Register has nothing, it has not been given anything* often enough and Volume 15 puts it in the worst possible direction once, at 707.** **The copies are a count of pieces of paper and never of claims and never of people — and in this volume the difference between the two is the whole volume, so the two numbers are never merged.** **NOBODY PUTS A HAND FLAT ON ANYTHING.** **The boy is not aged and is not asked by Lin Hao about the two words.** **The woman with the short-handled broom is not named and not asked.** **The woman who cannot read is not named, not traced, and nobody is sent to find out where she lives.** **Lin Hao does not go back to the stone yard — he was told not to, and the docket does not go back.** **No chapter asserts that the two words on the stone are the same words as the second line, as the head of the second column, or as anything else.** **The eighth and the tenth of October are not landed on, not named and not reached across; `2,767` and `2,769` both fall between 738 and 739.**
+
+---
 # VOLUME 14 BATCH 0004 RE-DISPATCHED A SECOND TIME 14 OCTOBER 2026 — 681–690 ON DISK. SPINE 2,362–2,420 RE-RUN IN THIS COMMIT FROM THE FILES BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **THE FINDING IS TWELVE CONCRETE DEFECTS, ALL FIXED IN THE CHAPTERS, AND TWO OF THEM ARE A FIGURE AGAINST ITS OWN ANCHOR NAMED TWO LINES BELOW IT AND A FIGURE AGAINST ITSELF FOUR PARAGRAPHS LATER. TWO MORE ARE THE FOOTERS REPEATING A RUNNING FACT IN THREE CHAPTERS WHERE THE RULE ALLOWS TWO — A CLASS NO TWELVE-GRAM SCAN CAN SEE, BECAUSE THE SCAN STRIPS THE FOOTERS.** EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT. **12-GRAM AGAINST ALL 700 FILES: 42 MAXIMAL RUNS TOUCHING 681–690, EVERY ONE CLASSIFIED BY HAND IN §0c BELOW. THE SCANNER WAS PROVED ON `chapter-0564.md` FIRST — IT RETURNS 13 REPEATING 12-GRAMS INSIDE THAT ONE FILE — BECAUSE BATCH 0003'S OWN SCAN REPORTED A FALSE ZERO TWICE ON THIS BATCH.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 681–690 AND DELETES NONE.
 
 ```

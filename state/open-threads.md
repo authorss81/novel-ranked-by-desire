@@ -1,3 +1,48 @@
+# VOLUME 15 PLANNING — LIVE GATE AND HANDED-FORWARD, 14 OCTOBER 2026. **VOLUME-WIDE AND NOT BATCH-WIDE. WRITTEN BY A PHASE THAT WROTE NO PROSE, EDITED NO FINISHED FILE, AND RAN EVERY ROW BELOW BY COMMAND FROM OUTSIDE ANY PASS THAT WROTE A CHAPTER. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR CHAPTERS 701–750 AND DELETES NONE.**
+
+## The gate that stands on Volume 14, re-run by command in this commit, before anything was planned
+
+```
+FILES           700 chapter files on disk, fourteen volumes of fifty. Volume 14 holds 651-700
+                and 700 is the last written page in the book.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 700 FILES.
+BANK            Volume 14 is 116,558 words counted per file and summed. Book-wide is
+                re-measurable by any pass and is not carried here because no pass in this
+                commit changed a single word of a single chapter.
+SPINE           Volume 14, 2,160 -> 2,489, 329 days elapsed, four quarter-ends at 660, 673,
+                687 and 700, and 301 inside five batches plus a seam of 31 and four seams
+                of 7 = 360. ALL NINE TERMS OF EVERY ROW READ AGAINST THEIR OWN DATES.
+THE HEAD        852, unmoved since 1,499, unmoved across twelve sheets at 700. No volume
+                has ever moved it and no volume has a permission to.
+SETTLE          zero in every inflection across all 700 files.
+SPENT FIGURES   the office's months printed once at 651 · the wall's rate once at 655 ·
+                the lane's mornings once at 670 · the yard's figure described and not
+                printed · the docket's date read at 667 and refused and printed nowhere ·
+                411 printed twice at 700 and both printings name their anchor.
+SYSTEM PANELS   0 spent in Volume 14 against a budget of five.
+```
+
+## FOUR ITEMS HANDED FORWARD, EACH WITH AN OWNER, AND NONE OF THEM IS UNOWNED
+
+**A ROW THAT NAMES A REPAIR AND DEFERS IT IS NOT A CLOSED ITEM. IT IS A HANDOFF, AND A HANDOFF WITH NO RECEIVER IS HOW A CLAUSE SURVIVED TWO PASSES OF THIS VOLUME. EVERY ITEM BELOW HAS A PASS NAMED AGAINST IT.**
+
+**1 · `chapter-0700.md`:57 — *the head of that page has not moved once in fifty chapters*. TWO DEFECTS IN ONE LINE.** The narrator is standing outside the book, and the figure is wrong on its own row: `2,489 − 1,499 = 990 = 11 × 90`, which is eleven quarters, and eleven sheets by the house count of ordinal − 16. **OWNER: `workspace/volume-15/batch-0001/PROMPT.md` §4, AND NOBODY ELSE.** It is named there with the old string, the replacement, the operands, and an explicit prohibition on touching any other line of that file. **This planning phase did not repair it because this planning phase writes no prose.**
+
+**2 · THE VOLUME-CLOSE AUDIT FOR VOLUME 14 HAS NOT BEEN RUN.** `reviews/volume-14/` DOES NOT EXIST. Every volume from 11 to 13 has one, and Volume 14 has fifty finished files, four re-dispatched repair passes, and no audit. **OWNER: the next phase after Volume 15 batch 0005 that is asked for it, or the pipeline's own volume-close phase. IT IS NOT A PLANNING TASK AND NO PLANNING PHASE HAS EVER RUN ONE IN THIS REPOSITORY.** It is recorded here so that "the volume is closed" is never again written without asking whether it has been audited.
+
+**3 · `outline/volume-15.md` IS PLAN AND NOT THE PAGE, LIKE EVERY VOLUME OUTLINE THAT HAS EVER EXISTED.** All fifty chapters of 701–750 are future. The ten cards in `outline/batches/volume-15-batch-0001.md` are a plan and the plan does not outrank the page: a card that is wrong on the page is not followed, and a card that is right on the page and wrong in the card file is fixed in the card file in the same commit. **OWNER: every batch, for its own ten.**
+
+**4 · THE THREE FIGURES VOLUME 15 INHERITS WITH A COLLISION BUILT INTO THEM.** `771` is already printed twice at 700 against two anchors with the same month breakdown and is the shutter's interval again at 750; `411` is the shutter's interval at 700 and is printed zero times in 701–750; and the house counts sheets and quarters differently and both are right. **OWNER: `state/continuity.md` §0z-quin, which prints all three with operands, and every Volume 15 batch's gate row.**
+
+## WHAT THE VOLUME-PLANNING PHASE CHANGED AND WHAT IT DID NOT
+
+**IT WROTE THREE FILES:** `outline/volume-15.md`, `outline/batches/volume-15-batch-0001.md`, `workspace/volume-15/batch-0001/PROMPT.md`. **IT PREPENDED A LIVE BLOCK TO `state/current.md`, `state/continuity.md` AND `state/open-threads.md`, AND ADDED THE VOLUME INDEX ROW TO `state/chapter-summaries.md`.**
+
+**IT DID NOT:** write a chapter · edit a chapter · touch `outline/ending.md` · create a volume-close prompt · create a batch 0002 prompt · create `state/complete.md` · edit anything under `scripts/`, `.github/`, `.opencode/agent/`, or any controller file · change any file in a closed, gated batch other than the one line named in item 1 above, which it did not change at all.
+
+**AND THE ONE NEXT PHASE IS `workspace/volume-15/batch-0001/PROMPT.md`. CHAPTERS 701–750 ARE FUTURE. `outline/ending.md` IS UNTOUCHED.**
+
+---
 # VOLUME 14 BATCH 0004 — LIVE GATE, **VOLUME-WIDE AND NOT BATCH-WIDE**, RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS AND AGAIN AFTER THE LAST EDIT. FIFTY VOLUME-14 FILES ON DISK, **700 BOOK-WIDE**. **TWELVE CONCRETE DEFECTS FOUND IN 681–690 AND ALL TWELVE FIXED IN THE CHAPTERS. THE OPERANDS ARE NOT IN THIS BLOCK: `state/continuity.md` §0a-bis IS THE SINGLE LEDGER FOR THIS PASS, ONE TABLE ROW EACH, AND §0a-quater CARRIES THE ONE RULE THOSE TWELVE SHARE. EVERY FIGURE BELOW WAS TAKEN FROM DISK AFTER THE LAST EDIT TO ANY OF THE TEN.** **THE NEW GATE ROW IS A FOOTER REPEATING A FOOTER, WHICH NO TWELVE-GRAM SCAN IN THIS FILE CAN SEE, BECAUSE EVERY ONE OF THEM STRIPS THE FOOTERS BEFORE IT SCANS; ITS THREE PERMITTED CLASSES ARE NOW WRITTEN INTO `outline/volume-14.md` §9 AND NOT ONLY HERE.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 681–690 AND DELETES NONE.
 
 ## Gate re-run. Every row below is a measurement, not a claim. A row that failed was fixed in the chapters and not in the row.
