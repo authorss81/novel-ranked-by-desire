@@ -8,9 +8,9 @@ About nine hundred people pass the corner in the hour before noon, going up and 
 
 That is the figure as it stood on the morning of the twentieth, and it had stood that way for about nine years, and not one of the nine who go down low does both that and read the board, because a board by a kerb is a thing people pass and four inches at the foot of a wall is a thing people kneel to.
 
-The counterman was not there. He stays in a passage off Cordwain with a desk under a window and reads the bottom of a page out to whoever stands at a rail, and he has done that for nine years and has never been thanked, and he reads what is on the page and nothing else, and that is why the passage trusts him.
+The counterman was not there. He stays in a passage off Cordwain with a desk under a window and reads the bottom of a page out to whoever stands at a rail, and he reads what is on the page and nothing under the striking, and he has done it the same way since the first year, and that is the whole of why the passage trusts him.
 
-The corner has a boy with a paste brush and a woman with a short-handled broom, and neither of them is thanked either, and neither of them expects to be.
+The corner has a boy with a paste brush and a woman with a short-handled broom, and neither of them has ever asked anybody for anything, and neither of them ever will.
 
 On the twentieth the corner filled up again, the way it fills every month after a form goes up, with people stopping at the board and then going down to the four inches because somebody in a kitchen had told them the two were about the same thing.
 
@@ -48,7 +48,7 @@ He stood about eleven feet well back from that rail with his hands in his pocket
 
 “About nine,” said the counterman. “About nine people now believe there is a thing under that wall that the office has been keeping, and one of them is the woman who believed it hardest in May, and she has told two more since, and what she tells them is not only about the four sentences.”
 
-Lin Hao nodded and felt the anger come up in him again, sharp and plain, and put it down again, because anger at nine people on a hill is a thing that makes a man stupid, and nine people on a hill are not anybody’s enemy and every one of them is right about wanting to be somewhere and having no road.
+Lin Hao nodded, and what came up in him was not the anger he had felt in a passage in June and had put down where he stood. It was the other thing, and it had no name on it. Nine people on a hill that morning believed a thing about this office, and the only reason they could was four sentences he had ordered onto a page at four o'clock on an afternoon in a building with no door onto a street.
 
 He went up four flights at about six and told Perla Quist in the order it had happened, and she wrote the day on the ninth sheet and did not write who said it, because she writes when a thing was said and not who said it, and the entry went under her heading with a day against it and went nowhere.
 
@@ -60,8 +60,8 @@ He lingered at the bench end for a good while after that with his hands pocketed
 
 The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer is shut, and the head stands at eight hundred and fifty-two unmoved, and none of that reaches a hill where about nine hundred people pass in an hour and about nine go down low.
 
-He went back down all four flights with absolutely nothing in his hands and did the floors, and at about half past five he stood in the room off a third court and looked at the bound Register and understood that the hill would go on filling up every month after every form, and that no instruction he could write in a clerk’s hand with his name under it would stop it, and that was the cost of having made one building findable.
+He went back down all four flights with the hill still going round in his head and did the floors, and at about half past five he stood in the room off a third court and looked at the bound Register and understood that the hill would go on filling up every month after every form, and that no instruction he could write in a clerk’s hand with his name under it would stop it, and that was the price of having made one building findable.
 
-Wenna Raut had the standing sheet squared under the window with the thirtieth face up clean and the three lines still in the second column untouched, and she did not ask him what had happened up on the hill that morning, because a clerk who may only enter what she is given does not ask about a thing nobody gave her.
+Wenna Raut had the standing sheet squared under the window with the thirtieth face up clean and the three lines still in the second column untouched, and she did not ask him what had happened up on the hill that morning, and he was glad of the weight of the page in that room, because a column kept four flights down is not a thing this table can be told about.
 
 He stood at the table for a long while afterwards with his hands in his pockets and thought about the pencil that went down with the twenty-ninth and the question that went up with the seventy-third, and about nine people believing a thing nobody can put against, and understood at last that the corner fills because people want to be somewhere and have no road, and that no page going out four times a year will ever give them one.

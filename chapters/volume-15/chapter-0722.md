@@ -88,4 +88,4 @@ The sheet standing face up on that rail is the twenty-ninth, and the thirtieth o
 
 He wrote nothing down that evening. He did the floors of three washrooms and the stairwell and the bin room, and at about half past five he stood at the table in the room off a third court and looked at the bound Register with four hundred and thirty rows in it and understood that not one row in it could hold a rubbing from the inside of a coat.
 
-A claim about two words is unanswerable when the two words have never been written down except once, in chalk, on the back of a form, and the form is in a coat, and there is no paper in this city that asks a person what is in a coat.
+The two closed doors had held all morning, because both of them were about him. The third had not held at all, and nobody had thought about it. A sentence a stranger reads out of a page in a passage is not on the page any longer, and the twenty-ninth comes down at four on the thirtieth, and a page can be taken down at four o’clock and a sentence cannot.

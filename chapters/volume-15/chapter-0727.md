@@ -68,13 +68,13 @@ He laid out for her the two dates and the two papers with the clerk’s exact wo
 
 “A bound first, at the counter in May,” said Lin Hao. “And now an age, at the same counter, because a claim with a day beats one without, and the clerk was entitled to order them, and he did, and the man it is about was not there.”
 
-She squared the ruler against the edge of the bench although she had not taken the pencil up, and he understood that she was afraid, because nine sheets under a third table can put a claim true against a day, and a magistrate’s counter can now put a day true against a person, and the two together are the whole of what she refused to be.
+She pushed the ruler a half inch along the bench and did not square it to anything, and he understood that she was afraid, because nine sheets under a third table can put a claim true against a day, and a magistrate’s counter can now put a day true against a person, and the two together are the whole of what she refused to be.
 
 “What changes,” she said.
 
 “That about four hundred kitchens hold pieces of paper and some of them carry days and most do not, and from today the ones with days beat the ones without, and nobody in any kitchen knows which kind they hold.”
 
-He went back down the four flights with nothing in his hands and did the floors of three washrooms and the stairwell and the bin room, and at about half past five he stood in the room off a third court and looked at the standing sheet with the head unmoved and the second column with three lines in it and understood that the volume’s question had turned.
+He went back down the four flights with the older claim sitting on him and did the floors of three washrooms and the stairwell and the bin room, and at about half past five he stood in the room off a third court and looked at the standing sheet with the head unmoved and the second column with three lines in it and understood that the question in front of him had turned.
 
 He must still find out who is using pieces of pencil paper in kitchens and against whom, or the receipt he entered goes on being the only answer in this city to a person asking whether what happened to her happened.
 

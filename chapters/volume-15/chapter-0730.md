@@ -14,7 +14,9 @@ On the cold morning of the sixteenth he understood at last that the silence was 
 
 The receipt he entered is carried by hand into cases about rooms, and the fourth column can date a copy but cannot correct a kitchen, and every one of those is a door he opened himself with instructions he wrote in a clerk’s hand with his name under them.
 
-He came into the room off a third court at about eleven with nothing in his hands and put his hands in his pockets and told Wenna Raut what he wanted, in the order it stood, because she may only enter what she is given and he wanted her to have it exactly, and because an entry with his own name in it is the one entry in nine years he would not trust himself to write.
+He came into the room off a third court at about eleven with his coat still open from the yard and told Wenna Raut what he wanted, in the order it stood, and he had gone over the whole of it twice at the bench before he came up the stairs.
+
+She may only enter what she is given, and he wanted her to have it exactly, and an entry with his own name in it is the one entry in nine years he would not trust himself to write.
 
 He set out for her the two halves plainly, first what the entry closes and then what the entry costs, because she enters exactly what she is given and cannot improve one word of it, and a denial that does not know its own cost is not an entry but a wish.
 

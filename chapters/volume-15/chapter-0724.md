@@ -80,7 +80,7 @@ She squared the ruler against the edge of the bench although she had not taken t
 
 “If he answers, then the rubbing is a thing said at a corner, and a thing said at a corner goes round a passage in four minutes, and in about four months a woman who cannot read is asked what a heading is and says what a man at a rail said, correctly, and it is wrong. If he does not answer, then the claim about two words stays unanswerable, and unanswerable is the only thing keeping about four hundred kitchens writing what they believe.”
 
-He nodded and went back down the four flights with nothing in his hands, and the seventy-third form stood on a board by a kerb with two empty squares at the foot of it, and a boy with a paste brush had been asked the one question nobody wants answered, and had not answered it yet at all even once.
+He went back down the four flights with the smell of the yoke and the cans still in his nose, and the seventy-third form stood on a board by a kerb with two empty squares at the foot of it, and a boy with a paste brush had been asked the one question nobody in this city wants answered, and had not answered it yet at all even once.
 
 He scrubbed the floors that afternoon with the unanswered question circling alongside the bucket work, counting the stairs as he went to keep his hands steady, and rehearsing nothing to say in case anyone stopped him.
 

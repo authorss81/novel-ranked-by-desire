@@ -26,7 +26,7 @@ The man who does the work stood at the window with his piece of pencil paper in 
 
 A person put out of a room by a public sheet is never in the room when it is done, and the clerk would not have let her speak if she had been, because his one question had gone at eleven about a rail and there was not another coming.
 
-Lin Hao listened from the passage with the folded sheet in his coat against his ribs and understood both halves at once, the way he had understood the instruction in June before he wrote it, and neither half had anywhere to go.
+Lin Hao listened from the passage with the folded sheet in his coat against his ribs, and both halves of it were still true, and one of them was that a correct point had just put a man out of a room.
 
 The landlord’s man was right. The office’s own receipt says none of the pieces of paper received is a deed, and it says it in four words with a man’s name under it, and the receipt has been on a rail in Cordwain since the thirtieth of September of the seventh year, and about nine people a week read it to the bottom.
 
@@ -66,8 +66,10 @@ He recounted the room and the nine pounds with the rent book and the printed she
 
 She put the pencil down across the bench and looked at him for about four seconds, and he saw that she was angry, not at him and not at the landlord’s man, but at the shape of a city where the truest thing any building has published is that nothing happened that can be shown, and where a man who is right about every fact can put a person out of a room with it.
 
-He went back down with nothing in his hands and did the floors of three washrooms and the stairwell and the bin room, and at about half past five he stood in the room off a third court and looked at the standing sheet with eight hundred and fifty-two at the head of it unmoved and three lines in the second column and four sentences at the foot and understood what the movement had delivered, although no instruction he ever wrote could have predicted this shape of it.
+He went back down the four flights with the rent book going out of the lane ahead of him and did the floors of three washrooms and the stairwell and the bin room.
+
+At about half past five he stood in the room off a third court and looked at the standing sheet with eight hundred and fifty-two at the head of it unmoved and three lines in the second column and four sentences at the foot, and understood what the movement had delivered, although no instruction he ever wrote could have predicted this shape of it.
 
 The office set out to be the one place a claim can be found, and then to enter every paper with the person who brought it, and now the receipt it entered is carried by hand into cases about rooms by men who are right to carry it.
 
-About four hundred people keep writing in the bottom two inches of their own paper, and they are right to do it, and none of them can ever prove to anyone that they are right, and that is all any of them holds.
+About four hundred people keep writing in the bottom two inches of their own paper, and they are right to do it, and none of them can ever prove to anybody that they are right, and that is all any one of those pieces of paper holds.

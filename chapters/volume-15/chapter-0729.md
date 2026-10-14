@@ -12,7 +12,7 @@ Wenna Raut looked up from the bound Register with the pen in her hand and put th
 
 “One of them is wrong,” she said.
 
-Wenna Raut looked up from the bound Register with the pen in her hand, and Lin Hao stood at the end of the table with his hands in his pockets, and neither of them spoke, because Perla Quist says a thing is wrong the way other people say a thing is true, and she does not say it unless she has the day.
+Nobody spoke. Perla Quist says a thing is wrong the way other people say a thing is true, and she does not say it unless she has the day, and the day was the fourth of February for one copy and the middle of March for the other, and a man who cannot read had put the second one out of the first one at his own kitchen table and had not known.
 
 “A copy made at the rail on the fourth of February carries the four sentences in the right order,” she said. “A copy made out of that copy in a kitchen in the middle of March has the second and the third the wrong way round.”
 
@@ -32,7 +32,7 @@ She said them all, in order, as three entirely different things, because the cop
 
 “About four hundred pieces of pencil paper in about four hundred kitchens,” said Perla Quist. “Every one copied by hand. And at this counter now a fifth hand’s copies are out there too, and they are not in anybody’s list, because a woman who mends umbrellas writes the foot out for anybody who brings her one, and she keeps no list, and she began in the middle of last year.”
 
-Wenna Raut wrote absolutely nothing down, because a clerk who may only enter what she is given does not enter a column kept four flights down, and nobody may cite it, and she knows it.
+Wenna Raut wrote absolutely nothing down. A column kept four flights down under a third table is not entered anywhere she can reach, and no row on the page behind the window may be cited against it, and she knows that without being told.
 
 “And eleven,” said Lin Hao, after a while. “Eleven pieces through that front door in eight days in April, entered as received with a date, and still eleven on the last leaf in May, and the first row under the new instruction saying off the third court, the one with the stair at the back.”
 
@@ -40,7 +40,7 @@ Wenna Raut wrote absolutely nothing down, because a clerk who may only enter wha
 
 That was the collision, said out loud in a room off a third court on the ninth of August, with all three counts on the table at once and every one of them named for what it is, and nobody merged one into another, because the woman with the pencil would not let them.
 
-The three of them stood close round that narrow wooden office table together in silence afterwards today for a while afterwards without speaking at all, because the wrong copy in a kitchen was the first thing in four years that the fourth column could see and no other paper could reach, and that is a hard thing to hold.
+The three of them stood close round a narrow wooden table and nobody said anything for a while. Perla Quist put two fingers on the wrong line of her own sheet and did not move them, and Wenna Raut put the pen back into her hand and did not open the bound Register, because the wrong copy in a kitchen was the first thing in four years that nine sheets under a third table could see, and no other paper in this city can reach it.
 
 *Two thousand seven hundred and eight days. Less two thousand seven hundred and two, the third of August of the eighth year, is six, and the fourth column found one that is wrong before anybody asked and Perla Quist said so first.*
 
@@ -58,14 +58,16 @@ She picked the ninth sheet up and squared it against the edge of the table, beca
 
 “I am the only thing that can,” she said. “By going down there myself, on a day when the bench is shut, and sitting at his table and writing it out again. And I am not an instrument and may not be sent, the way I said in February before anybody asked me for anything, because a column with a heading on it is a thing somebody can be asked to stop, and I ruled it myself.”
 
-Lin Hao nodded and felt the tiredness come up in him again, underneath the pride, because she had said no five times in four years and this was the sixth, and the reason has never once been about him, and he had heard it four times and was hearing it now for the fifth, and this time he understood it.
+Lin Hao nodded, and the shame of it came up in him hot and clean, because she had said no five times in four years and this was the fifth, and the reason has never once been about him, and he had heard the other four and was hearing the fifth now, and this time he understood it.
 
 He went down four flights with her at about noon and stood in the back room while she put the ninth sheet back under the third table with the other eight, and the heading stood at the top of the fourth column in her own hand with one line under it saying what it is about, and about two hundred empty lines waited under the entries, and the ruler lay squared against the edge of the bench.
 
-He thought about asking her to go to the kitchen on the day the bench is shut, and did not ask, because he has asked her for nothing since February except to read a docket, and she has said no five times about other things, and the sixth is standing in this room with a day against it.
+He thought about asking her to go to the kitchen on the day the bench is shut, and did not ask, because he has asked her for nothing since February except to read a docket, and she has said no five times in four years, and the fifth of them is standing in this room with a day against it.
 
 The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer is shut, and the head stands unmoved, and in about four hundred kitchens there are pieces of paper with four sentences at the foot of them, and one in nine has two of them the wrong way round, and there is nobody in this city who can put that right except a woman with a pencil, and she may not be sent.
 
-He came back up the four flights with nothing in his hands and did the floors of three washrooms and the stairwell and the bin room.
+He came back up the four flights behind her and did the floors of three washrooms and the stairwell and the bin room.
 
-At about half past five he stood in the room off a third court and looked at the bound Register and understood that the fourth column had done the best thing anybody in this city has produced in four years, and it is nine sheets under a table, and it goes nowhere, and that is why it is true, and why nobody may cite it.
+At about half past five he stood in the room off a third court and looked at the bound Register and understood that the fourth column had done the best thing anybody in this city has produced in four years, and that it is nine sheets under a table, and that it goes nowhere, and that this is the whole of why it is true.
+
+There are about four hundred kitchens, and one copy in one of them is now wrong, and the only instrument in this city that can put it right is a woman who may not be sent and would have to sit at his table herself, one kitchen at a time, on a day the bench is shut, of which there are about four left before the rain.

@@ -70,8 +70,10 @@ He had wanted anger and felt only a great tiredness, and underneath the tirednes
 
 “No,” said Lin Hao. “She asked him. She is not an officer and she is not a clerk, and I have never asked him and I never will, and the reason is in your column now with a day against it.”
 
-He went up the four flights with nothing in his hands and did the floors of three washrooms and the stairwell, and at about half past five he stood at the table in the room off a third court and looked at the bound Register with its rows of days and hours and understood that the boy’s nine seconds were not in any book and never would be, and that was why they were true.
+He went up the four flights behind the woman with the yoke and did the floors of three washrooms and the stairwell, and at about half past five he stood at the table in the room off a third court and looked at the bound Register with its rows of days and hours, and a boy’s nine seconds were not in any of them and never would be, and that was the whole of why they were true.
 
 Wenna Raut watched him stand there and did not ask him what had happened four flights down, because a clerk who may only enter what she is given does not ask about a thing nobody gave her, and he was glad of it, because the nine seconds were not an entry and could not be made into one.
 
-The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer in the wall is shut, and a claim about two words stands unanswered in the bottom two inches of nothing no longer, because the twenty-ninth came down and the pencil went down with it, and what stands now is a question asked on a hill and answered in a laundry, and the answer is that a boy is right.
+The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer in the wall is shut, and the pencil went down with the twenty-ninth, and what stands where it stood is a question asked on a hill at half past seven on the seventh of July and answered six days later in a laundry by a boy with a paste brush.
+
+The woman with the yoke had gone down the hill with her brother waiting at the bottom of it, and the reason had gone out of that room in her mouth, and a sentence cannot be put back into a mouth, and by the twentieth of that month it will be in forty kitchens in her words, and not one of them will be the boy’s.
