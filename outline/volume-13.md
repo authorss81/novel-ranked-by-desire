@@ -223,15 +223,27 @@ day 0 = 1 February, year one        a month is thirty days and has no thirty-fir
 month offset inside a year    Feb 0 · Mar 30 · Apr 60 · May 90 · Jun 120 · Jul 150 ·
                                Aug 180 · Sep 210 · Oct 240 · Nov 270 · Dec 300 · Jan 330
 METHOD A   1 Feb of year y = (y-1) x 360
-           day of month d  = (y-1) x 360 + off[m] + (d-1)
-METHOD B   absolute month index i = (y-1)*12 + pos(m);  day = 30*i + (d-1)
+           day of month d  = (y-1) x 360 + off[m] + (d-1)     — for every month BUT January
+           *** A JANUARY IS THE TWELFTH MONTH OF THE YEAR IT CLOSES. A January labelled y is
+           (y-2) x 360 + 330 + (d-1). THE WRONG CONVENTION IS THE ONE THAT PUTS THE FOURTH OF
+           JANUARY NINE MONTHS AFTER THE FIRST OF FEBRUARY OF THE SAME LABELLED YEAR, WHICH
+           `outline/volume-12.md` §5b proves impossible, AND WHICH HAS NOW GIVEN 2,133 FOR
+           CHAPTER 601 TWICE IN THIS REPOSITORY. IT MUST NOT BE USED AGAIN. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) for every other month;  day = 30*i + (d-1)
            — contains no 360 at all
 
 Volume 13 starts on the fourth of January of the January that ends year five and
-contains NO chapter in a January, so the convention is stated once, applied once
-at 601, and proved by the fact that METHOD A and METHOD B agree on all fifty
-dates.  1 Feb y7 = 6 x 360 = 2,160 exactly.
+CONTAINS FIVE CHAPTERS IN THAT JANUARY — 601, 602, 603, 604 and 605 — so the convention
+is applied five times and not once, and METHOD A and METHOD B are proved to agree on all
+fifty dates.  1 Feb y7 = 6 x 360 = 2,160 exactly.
+*** AND THE PROOF IS THE SUM, NOT THE AGREEMENT: on 14 October 2026 the batch 0001 pass put
+the wrong January convention into BOTH methods, the two methods agreed with each other, and
+the run put 601 at 2,133 and 605 three hundred and sixty days AFTER it. TWO METHODS THAT
+SHARE A CONVENTION ARE NOT A CHECK. ***
 ```
+
+**REWRITTEN AGAINST THE PAGE IN THE COMMIT THAT WROTE CHAPTERS 601–610. THREE THINGS IN THIS BLOCK WERE WRONG AND ARE NOW RIGHT: (a) it said Volume 13 *contains no chapter in a January*, and it contains five; (b) METHOD A was printed without the January exception, which is the convention that has now twice produced 2,133 for 601; (c) the proof was described as the two methods agreeing, which is not a proof when both carry the same wrong convention. `3 × 360 + 240 + 14 = 1,334` for chapter 548 re-derives and is untouched.**
 
 ### 5b. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT
 
@@ -323,17 +335,38 @@ VOLUME 13      324 across the five batches plus four inter-batch steps of 7, 8, 
 - **THE EROTIC ENGINE OWES FIVE SCENES AND FIFTY CHAPTERS**, which is the same rate as every volume since Volume 7. Cadence **9 · 10 · 10 · 10 · 10** on the first column of §4.
 - **AND THE BOOK'S CENTRAL RESTRAINT IS UNCHANGED:** the reservoir gives back only what was given to it, **and it was given back in full at 486 and is never replenished.** In this volume there is no reservoir to draw on, the power is spent, and what moves is people and a line on a shutter. That is the point.
 
-## 7. THE MOVEMENTS, 601 to 650 — **PLAN. NOTHING IN IT IS ON THE PAGE.**
+## 7. THE MOVEMENTS, 601 to 650 — **MOVEMENT ONE IS WRITTEN AND THE OTHER FOUR ARE STILL PLAN.**
 
-> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: THE TEN CARDS FOR BATCH 0001, CHAPTERS 601–610, ARE `outline/batches/volume-13-batch-0001.md`. EVERY OTHER MOVEMENT BELOW CARRIES A ONE-LINE BEAT FOR EVERY CHAPTER AND A FULL BEAT FOR THE CHAPTERS THAT TURN, AND NO FULL CARD. A BATCH THAT TAKES ONE OF THESE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER, AND MUST REWRITE THIS FILE WITH IT IN THE SAME COMMIT.**
+> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: THE TEN CARDS FOR BATCH 0001, CHAPTERS 601–610, ARE `outline/batches/volume-13-batch-0001.md` AND THEY HAVE NOW BEEN WRITTEN AGAINST, WITH THREE OF THEIR ROWS CORRECTED IN THE SAME COMMIT THAT WROTE THE CHAPTERS. EVERY OTHER MOVEMENT BELOW CARRIES A ONE-LINE BEAT FOR EVERY CHAPTER AND A FULL BEAT FOR THE CHAPTERS THAT TURN, AND NO FULL CARD. A BATCH THAT TAKES ONE OF THESE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER, AND MUST REWRITE THIS FILE WITH IT IN THE SAME COMMIT.**
+>
+> **AND THE RULE IS ONE WAY. WHERE A CARD LICENSES SOMETHING THE PAGE FORBIDS, THE CARD IS WRONG AND THE CARD IS FIXED HERE — which happened three times in batch 0001, and all three corrections are printed at `state/current.md` §0b.**
 
 ---
 
-### Movement one — PROVED (601–610). 4 January – 4 March, year six. Spine days 1773 – 1833.
+### Movement one — PROVED (601–610). 4 January – 4 March, year six. Spine days 1,773 – 1,833. **WRITTEN. CHAPTERS 601–610 ARE ON DISK AND THIS SECTION IS REWRITTEN AGAINST THE PAGE IN THE COMMIT THAT WROTE THEM, WHICH IS WHAT THE HOUSE RULE AT THE HEAD OF §7 REQUIRES. NOTHING BELOW IS STILL A PLAN.**
 
-**Promise:** a piece of paper with four lines in it comes back to an office with no door onto a street, and the answer to the one question it asks is printed at the foot of a sheet the man it is about wrote himself, and the answer wins.
+**Promise, as delivered:** a piece of paper with four lines in it came back to an office with no door onto a street, and the answer to the one question it asks is printed at the foot of a page it publishes once a quarter, and the answer wins.
 
-**THE BATCH'S SCENE IS AT 603 AND THE BATCH'S IRREVERSIBLE DECISION IS AT 610, AND BOTH ARE HIS.** Chapter beats: **601** a demand comes back with one question on the back of it · **602** the office's own sentence is the only answer available and it is true · **603 SCENE, Runa Sato** · **604** the woman in number four is found to have been right for nine years, by a page she cannot read · **605** the thirtieth of January and both boxes blank · **606** about nine hundred people in a yard work out what the fourth line is worth · **607** the Vant's real books and an entry nobody can close · **608** the wall, and a form from the department of works · **609** Brack is told what his name is under and asks for nothing · **610 the first batch's irreversible decision: he goes up two flights, and there is nobody at the top of them.**
+**THE BATCH'S SCENE IS AT 603 AND IT IS RUNA SATO'S — 567 CHAPTERS AFTER HER LAST ONE AND 9 CHAPTERS AFTER THE LAST SCENE IN THE BOOK, WHICH IS THE LARGEST STRUCTURAL DEBT IN THIS MANUSCRIPT AND THE REASON THIS BATCH EXISTS. THE BATCH'S IRREVERSIBLE DECISION IS AT 610 AND IT IS HIS.**
+
+| Ch | Day | Spine | What the page now says it did |
+| --- | --- | --- | --- |
+| **601** | 4 Jan, y6 | 1,773 · +4 after 600 | The tray has stood empty since the eleventh of March and something on the table is not a form. A demand with four lines, a figure, a date and a room number, left by a clerk and gone. **The four lines are quoted ONCE in this volume and are not explained.** On the back, in pencil, two words: *is there.* He works out it is addressed to the office and not to him, and that the office has never been named in anything. The office's age printed once here, with operands. |
+| **602** | 10 Jan, y6 | 1,779 · +6 | Three refusals in a row, all correct, and Adeyemi corrects one of Lin Hao's five for being two and dressing it in a schedule, a hearing and a seal. A boy from the department of works stands in the doorway and says one thing about the wall and is not asked twice. **The answer exists and it is printed, and nobody in the room writes it down, and the clerk enters the exchange exactly as given.** |
+| **603** | 17 Jan, y6 | 1,786 · +7 | **SCENE, Runa Sato.** The witness axis, carried by a field officer's return of nine lines and a tenth with a box, and named by nobody. **No instrument in Ostara for serving a man with no standing**, so she serves it by hand up two flights and writes down that she did. She outranks him. She asks the one question she is entitled to and gets nine words that are not a defence. Her return names what she saw and not what she concluded. **Measured three ways with the line spans printed at `state/current.md` §0a and `state/chapter-summaries.md`.** |
+| **604** | 24 Jan, y6 | 1,793 · +7 | He watches the woman in number four count her money from the foot of a stair and does not knock, and there is a knock available to him. **She wins about a year of money off a sentence she cannot read**, because a demand is built out of an absence and the office has printed that an absence is not evidence of nothing. Nobody in the room says his name. Ashby is right about everything and his defence goes in a file. |
+| **605** | 30 Jan, y6 | 1,799 · +6 | **The wall's headcount is printed ONCE here, with its reason.** Both repainting boxes blank, and a character says so out loud once. **Nadia Ferrous reads the foot of the standing sheet out for the first time and understands it, and says it is true and not a comfort and decides to say nothing about it.** His unnamed want is that the yard has been wrong. |
+| **606** | 7 Feb, y6 | 1,806 · +7 | **A checker at a counting house does the arithmetic the office did not do, out loud, on the ground, in front of about nine hundred people who can read.** He does not go up the hill. The stall woman says nothing. The chaplain is forty-five and is not here and is not asked and nobody looks at the door. He says yes when asked whether the fourth line is still a rule if nobody can test it, and about four hundred of them do not believe him. |
+| **607** | 14 Feb, y6 | 1,813 · +7 | **A real book in the Vant cannot close an entry, and the reason it cannot is the fourth line.** Cold anger at an institution for being right. **And a sum has been going into a book that is not that book, once a quarter, for years, out of the money of somebody four floors up who has never said so, and who is not named in this chapter and does not know the entry was called this afternoon.** |
+| **608** | 21 Feb, y6 | 1,820 · +7 | **A form from a department of works says the ranks wall comes down in the spring for making good**, with one ruled box on it for the date the work was done. He drafts four lines, gets the fourth into the office's hand, and stops, because there is not one piece of paper in this city on which a question travels to a department of works. He has addressed a sentence to a piece of masonry. **NEITHER FOUR HUNDRED IS PRINTED, DERIVED OR MENTIONED, AND THE WHITE TILE IS NOT IN THIS CHAPTER.** |
+| **609** | 28 Feb, y6 | 1,827 · +7 | **THE OFFICE HAS MADE HIM LEGAL AND HE WANTS NOTHING.** He says that himself, unprompted, and that there is no longer any difference between his figures and anybody else's, and that a slate cannot be checked and never could be and he said so first. **The lane's mornings are printed ONCE here, with operands.** Brack is not thanked, not diminished, not defeated and not wrong about any fact, and he asks for a second name under the first one and is told there is no form for it. |
+| **610** | 4 Mar, y6 | 1,833 · +6 · 153 after the first of October · 394 after the yard | **THE BATCH'S IRREVERSIBLE DECISION, AND IT IS HIS. HE GOES UP TWO FLIGHTS AT TEN PAST TEN IN THE MORNING WITH NOBODY BEHIND HIM. THERE IS NOBODY AT THE TOP OF THEM AND HE DOES NOT KNOCK.** What it closes is the option of being the man who did not go up. What it costs is an hour of the night shift, a morning he had not meant to spend, and the certainty that he could still be careful. He gets nothing. **AND NO CHAPTER OF 611–650 GOES UP THOSE TWO FLIGHTS A SECOND TIME**, which is carried as a standing instruction at the head of `state/open-threads.md`. |
+
+**WHAT THE BATCH OWED AND DID NOT PAY, AND WHERE IT IS PAID:** the woman two flights up off Cordwain. She is not on a stair in this batch. 610 is a landing with nobody on it, and the payment is at 615 and 617, made by a man who invents figures.
+
+**THE TWO FIGURES THE MOVEMENT OWES, PRINTED ONCE EACH WITH OPERANDS, AND WHERE THEY ARE:** the office's months at 601 (`1,773 = 30 × 59 + 3`) · the lane's mornings at 609 (`1,827 − (−118) + 1 = 1,946`). The wall's headcount is at 605 and **only** at 605, and neither of the two four-hundreds is printed anywhere in 601–650.
+
+
 
 ---
 

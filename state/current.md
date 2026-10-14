@@ -1,3 +1,169 @@
+# VOLUME 13 BATCH 0001 IS ON DISK. CHAPTERS 601–610 ARE WRITTEN PROSE. **TEN FINISHED FILES, 23,160 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT ONE, *PROVED*. FOUR DAYS AFTER THE TWENTIETH SHEET A DEMAND WITH FOUR LINES ON IT CAME BACK TO AN OFFICE WITH NO DOOR ONTO A STREET, AND ON THE BACK OF IT THERE ARE TWO WORDS. THE SCENE IS AT 603 AND IT IS RUNA SATO'S, 567 CHAPTERS AFTER HER LAST ONE AND NINE CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 610 AND IT IS HIS: HE GOES UP TWO FLIGHTS HE HAS REFUSED TWICE, AT TEN PAST TEN IN THE MORNING, ALONE, AND THERE IS NOBODY AT THE TOP OF THEM AND HE DOES NOT KNOCK. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0003, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0002/PROMPT.md`, CHAPTERS 611–620, MOVEMENT TWO, *ASKED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
+
+**DELIVERED:** a demand with four lines on it and *is there* written in pencil on the back, put on a table by a clerk and gone again · three correct refusals in a row and an answer that is a sentence the office printed to be true, written four times a year, that nobody in the room wrote down · **the scene, in a corridor and a stairwell of a branch building at eleven at night, with a Bureau field officer of rank two who cannot serve a man who has no standing and serves him by hand up two flights and writes down that she did** · a woman who cannot read being paid nine years of short money off a sentence she will never see, and asking who wrote the four lines · three women on a rota and one of them understanding the sentence at the foot for the first time and saying she is not going to say anything about it · about nine hundred people in a yard working out that the fourth line cannot be tested by anybody · a real book in a building off Cordwain that cannot close an entry for exactly that reason, and a sum going into a book that is not that book once a quarter by a person four floors up who does not know it was called · a department of works, a form, and a wall that comes down in the spring · the man with the chalk told that the office has made him legal and wanting nothing · **and two flights of a dark stair with nobody on the landing at the top of them.**
+
+**THE BATCH'S IRREVERSIBLE DECISION IS AT 610 AND IT IS HIS. WHAT IT CLOSES:** the option of being the man who did not go up, which he said on a street in the fifth year and again to himself at four in the morning with a tally board across his knees, and meant both times, and had been quietly proud of. **WHAT IT COSTS:** an hour of the night shift coming on at eleven, a morning he had not meant to spend, and **the certainty that he could still be careful**, which was the last thing he owned that nobody could take off him by wanting something. **WHAT IT IS NOT:** a scene, a rescue, an opening of anything. He gets nothing, there is nobody at the top of the stairs, and he does not knock, because a knock is a thing a man does when he wants something and he did not want something. **AND NO CHAPTER OF 611–650 GOES UP THOSE TWO FLIGHTS A SECOND TIME.** Carried at `state/open-threads.md`.
+
+**REFUSED:** the figure of the account · any floor, ledger total or running balance in grains · `settle` in every inflection · the reach of the return, argued by nobody in either direction · whether the fourth condition was ever true of anybody's deed · either repainting box · the keeper's six words · who put the white tile up · Perrin Sowe · Dagmar Oyelowo · Hanneke Ruis, who is not in this batch at all · any year numeral · any announced age · any mark for Runa Sato, Mavis Rooke or Hanneke Ruis · **Mavis Rooke's hand-flat** · a second conversation with the man with the broom, who is not in this batch · Brack thanked, diminished, defeated or wrong about any fact · **either four hundred** — `chapter-0545.md:87`'s four hundred a day and `chapter-0500.md:35`'s four hundred since the first of January are not printed, derived or mentioned anywhere in 601–610 · any day of the week · any new enemy · **any second time on the second of January, the eighth of October or the tenth of October, and no chapter of 601–610 lands on any of the three** · a fourth-wall hit · anything in `outline/ending.md`, which this phase did not touch.
+
+## 0a. THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE IT. **VOLUME-WIDE WHERE THE ROW SAYS SO, AND NOT PER BATCH.**
+
+```
+FILES            10 files, chapters/volume-13/chapter-0601.md .. :0610.md.
+                 `find chapters -name 'chapter-*.md' | wc -l` -> 610, taken by command.
+                 diff against `seq 601 610` EMPTY. ONE `# ` title line in every file.
+                 ALL TEN END 0a.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 610.
+                 The ten titles match `outline/volume-13.md` §10 by whole-line string, 10 of 10.
+                 601 The Paper That Comes Back · 602 One Question With No Form · 603 The Officer
+                 Who Cannot Serve Him · 604 The Woman In Number Four · 605 She Reads The Foot
+                 Of It · 606 The Question In The Fourth Line · 607 The Vant Cannot Close It ·
+                 608 A Form From The Department Of Works · 609 Brack Asks For Nothing ·
+                 610 Two Flights And A Landing.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 601 1,932 | 602 2,032 | 603 4,188 | 604 2,279 | 605 2,014 | 606 2,316 |
+                 607 1,934 | 608 1,946 | 609 1,987 | 610 2,532.
+                 TOTAL 23,160. MEAN 2,316.0.
+                 *** ONE CHAPTER OUTSIDE THE 1,800-2,700 BAND: 603 AT 4,188. REASON: IT IS THE
+                 SCENE, IT CARRIES THE BATCH'S LARGEST STRUCTURAL DEBT (567 CHAPTERS SINCE
+                 RUNA SATO'S LAST SCENE, THE LARGEST IN THIS BOOK), AND IT OWES A FULL WITNESS
+                 STAGING BEFORE THE SEX, THE SEX ITSELF, AND A RETURN WRITTEN BY HAND AT THE
+                 END OF IT. 584 RAN AT 1,648 ONCE AND WAS WRITTEN OUT AGAIN AT 3,022; 603 IS
+                 THE SAME CHAPTER LONGER BECAUSE IT IS ALSO CARRYING A WHOLE REVERSAL, WHICH IS
+                 THE FIRST TIME A BUREAU OFFICER HAS OUTRANKED HIM IN THE TEXT. The other nine
+                 sit between 1,934 and 2,532 and none is padded. ***
+                 *** FINDING I ADDRESSED, MEASURED AND NOT ASSERTED. Quoted spans, either glyph,
+                 body-only, per file: 43 · 51 · 106 · 25 · 27 · 26 · 51 · 38 · 48 · 32 = 447,
+                 mean 44.7 a chapter. Paragraphs, non-blank lines that are neither a heading nor
+                 an italic footer: 59 · 54 · 127 · 56 · 50 · 55 · 55 · 56 · 57 · 70 = 639, mean
+                 63.9. Volume 12's five movements were 24.7 / 52.3 / 16.1 / 17.4 / 20.7 spans and
+                 54.2 / 66.8 / 28.0 / 39.4 / 32.8 paragraphs. THIS BATCH IS ABOVE THE VOLUME'S
+                 BEST MOVEMENT ON SPANS AND LEVEL WITH IT ON PARAGRAPHS, AND NO CHAPTER IN IT IS
+                 BELOW THE FLOOR. The compression that ended Volume 12 at 571 has not been
+                 inherited. ***
+PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty. 0 odd
+                 quotation-mark paragraphs. 639 prose paragraphs across the ten files.
+META            The §7 class grep — `[a-z]+ volumes | this book | this chapter | this volume |
+                 no chapter | the axis | the reader | the novel | the story | the scene |
+                 Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript |
+                 this manuscript | this page | opposition` — returns **0 across all ten files**,
+                 INCLUDING `manuscript` AND `opposition`. The first pass returned two hits on
+                 `this book` at `chapter-0607.md:99` and `:107`, both in a chapter about a
+                 chained ledger, and both were rewritten to `this one`, `that one` and `a book of
+                 ours` rather than argued. **Zero is better and it was reachable.**
+WEEKNAMES       Seven names, whole word and by stem, across all ten -> 0 after one repair. The
+                 first pass had `on a Saturday` at `chapter-0606.md:37`, now `on a morning off`.
+                 Three further raw hits were the verb `sat` and are not names.
+AGES            Eleven probe forms, a bare `aged` sweep, `year [0-9]`, and spelled-out
+                 `[0-9]+ years` -> 0. The word `old` returns four hits and every one of them is
+                 paint, a board, or the age of an office, which is a duration and not a person.
+                 Agnete Lindqvist is forty-five, is named as such once at 606 in a sentence that
+                 is about her not being there, and is not aged again. Hanneke Ruis, Mavis Rooke
+                 and the woman in number four are given no age at all.
+ARITHMETIC      SPINE 1,773-1,833 RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO
+                 CONSTANT. METHOD A: a January labelled y is `(y-2)*360 + 330 + (d-1)` and every
+                 other month is `(y-1)*360 + off[m] + (d-1)`. METHOD B: an absolute month index
+                 `i = (y-2)*12 + 11` for a January labelled y and `(y-1)*12 + pos(m)` otherwise,
+                 `day = 30*i + (d-1)`, which contains no 360 at all. **10 OF 10 AGREE. 0
+                 MONOTONIC VIOLATIONS.** Intervals: 4 · 6 · 7 · 7 · 6 · 7 · 7 · 7 · 7 · 6,
+                 summing 60, against `1,833 - 1,773 = 60`, and the seam `1,773 - 1,769 = 4`
+                 against 600. *** ONE THING THIS PASS GOT WRONG FIRST AND IT IS RECORDED BECAUSE
+                 IT IS THE HOUSE FAILURE MODE: the first run put the rejected convention
+                 `(y-1)*360 + 330 + (d-1)` into BOTH methods, which agreed with each other and
+                 gave 2,133 for 601 instead of 1,773. TWO METHODS THAT SHARE A CONVENTION AGREE.
+                 IT WAS CAUGHT BECAUSE 601 CAME OUT THREE HUNDRED AND SIXTY DAYS AFTER 605. ***
+                 Every interval any of the ten footers prints was parsed from the page and
+                 summed, including the month-count and multiplication forms; 100 per cent agree
+                 with the page.
+QUARTERLY      The next quarter-end is the thirtieth of March of year six, 1,859, which is
+                 chapter 614 and the twenty-first sheet. 601-610 contains no quarter-end.
+                 1,859 - 1,769 = 90 and 30 + 30 + 30 = 90.
+TRAVELING       THE OFFICE'S AGE, printed ONCE, at 601: `1,773 = 30 x 59 + 3`, fifty-nine months
+FIGURES         and three days. THE LANE'S MORNINGS, printed ONCE, at 609: `1,827 - (-118) + 1
+                 = 1,946`. THE WALL'S HEADCOUNT, printed ONCE, at 605, with its reason — an
+                 ordinary morning of an ordinary month and the trams go under it, which is
+                 `chapter-0489.md:21`. **NEITHER FOUR HUNDRED IS PRINTED, DERIVED OR MENTIONED
+                 ANYWHERE IN 601-610.** THE SHEET'S ORDINAL does not appear in this batch
+                 because no sheet goes out in it. THE ACCOUNT'S FIGURE does not appear because
+                 no chapter of this volume prints it.
+ACCOUNT         `8,1xx` 0 · `two hundred and eleven thousand` 0 · `211,840` 0 · `settl` 0 in
+                 every inflection, after one repair at `chapter-0602.md:7` and `:9`, where
+                 *settled* and *settling* were changed to *finished* and *finishing*.
+RT / BODIES     `right temple` **0 book-wide**, re-run and not quoted. `cuticle` **4 files
+                 book-wide** (329, 340, 404, 446), unchanged; Volume 13 adds none. `ostho` 0
+                 book-wide; the name on the page is Otho Pearse. Mavis Rooke's hand-flat 0
+                 across the ten files, and nobody else puts a hand flat on a table in them.
+                 **Runa Sato has no mark, no temple, no eye and no ink anywhere in
+                 `chapter-0603.md`, and nothing on her body is lifted off any row of
+                 `outline/volume-13.md` §4d.** Her material is her coat, her hat, her notebook
+                 and the fact that she has been out before six and in after dark for nine
+                 years, all three of which are on the page at 503, 519 and 549.
+HEADINGS        One `# ` per file. 40 `## ` across the ten files. No duplicate inside any file.
+                 No heading names its chapter's turn. `## What That Closed` was changed to
+                 `## What Came Down The Stair` at 610 on exactly that ground.
+MARKDOWN        Blockquotes 0. Tables 0. Horizontal rules 0. Fences 0. Bold 0. Asterisk
+                 markers even in all ten files. Straight double quotes **0 across the batch**
+                 and straight apostrophes **0**. **Book-wide, taken by command over 610 files:
+                 56,016 straight and 2,578 curly glyphs, the batch contributing 0 and 894.**
+DUPLICATION     12-gram FIRST against all 610 files, body-only (headings and italic footers
+                 stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
+                 **INSIDE 601-610: the longest contiguous run between any two of the ten files
+                 is ELEVEN words. 0 runs of twelve.**
+                 **AGAINST THE OTHER 600 FILES, THREE 12-GRAM CLASSES SURVIVE AND ALL THREE
+                 ARE CLASSIFIED, NOT COUNTED.** (a) `chapter-0606.md` against 552, 556 and 597:
+                 *a man who has said that does not get to arrive at a yard and tell a yard what
+                 to do with a board* — a character restating his own refusal, in the yard where
+                 he made it, in the chapter where it binds him. A man quoting himself is not
+                 duplication. (b) `chapter-0606.md` against 595 and 596: *a figure in Ostara may
+                 be a figure somebody made up on purpose* — **the printed instrument**, standing
+                 verbatim in 595 as a hand writing a document, in 596 as a clerk reading it back
+                 four days later, and in 606 as a checker in a yard reading it off a public page
+                 because the whole of his argument is that the two sentences stand four inches
+                 apart. Three readers of one printed sentence is a printed instrument and not a
+                 borrowed body, and **it is the only verbatim printing of it in this batch** —
+                 602, 604 and 609 refer to it without the words. (c) `chapter-0610.md` against
+                 0270 and 0569: *a month is thirty days and has no thirty first* — the calendar
+                 rule, printed across the book.
+                 **THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE ANY BODY
+                 WAS PLANNED AND IS THE REASON 603 PASSES:** the witness axis is carried by her
+                 room's rule and named by nobody; there is no clock inside the scene and no hour
+                 counted in it; no kettle, no chart and no arm turned up; and 610 re-stages the
+                 passage off Cordwain in the furniture of 587 and 588 while writing every one of
+                 those sentences in its own words — the 34-word lift of the Vant's book-handling
+                 rule out of 525 and the 20-word lift of the entry's description out of 474 were
+                 both found by this scan and both were rewritten.
+SCENES           ONE IN TEN, AT 603. MEASURED THREE WAYS FROM `##` TO `##` ON DISK, WITH EVERY
+                 LINE SPAN BESIDE EVERY CELL AND THE CLOSING BOUNDARY NAMED.
+```
+
+**THE 603 SCENE TABLE, RE-DERIVED FROM THE FILE IN THIS COMMIT, NOT INHERITED. `chapter-0603.md` HAS SIX `##` HEADINGS, AT LINES 31, 83, 119, 151, 177 AND 237, AND 273 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## What A Tenth Line Is For` AND THE LAST IS `## The Return, In Order`, WITH NO `##` AFTER 237.**
+
+| Definition, as `outline/volume-13.md` §4c names it | Line span in `chapter-0603.md` | 603 Runa Sato |
+| --- | --- | --- |
+| (1) first `##` to last `##`, **exclusive** of both heading lines | 32–236 | **3,106** |
+| (2) **single scene section, inclusive** — the same span with both heading lines counted | 31–237 | **3,118** |
+| (3) **exclusive** of both heading lines, carried through to end of file | 32–273 | **3,752** |
+| (3b) the same, stopping at the last prose line before the three italic footers | 32–267 | **3,643** |
+| whole file | 1–273 | **4,188** |
+
+**THE COUNTING METHOD, STATED BECAUSE A TABLE THAT DOES NOT STATE IT CANNOT BE RE-RUN.** Each span is cut from the file on disk and counted with `wc -w`, and the same span is counted a second way in whitespace split by Python over the same lines; all five cells agree. **Set B, counted at WORD BOUNDARY and not by substring — the published method — returns 4 in `chapter-0603.md` and 0 in the other nine files.** 603 − 594 = 9, in band. 603 − 36 = 567, which is the largest structural debt in this book and which **no file in this repository may certify as in or out of the eight-to-fifteen band.** Both adults; he is rank one with a spent chest and no permission of any kind; no compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal is the mechanism; there is no violence in the chapter and none is turned into one; saying yes is fast and it is enjoyable to her and it is written as specific and real and not as reluctance.
+
+## 0b. WHAT THE PAGE DID TO THE CARDS, AND THE CARD FILE AND THE OUTLINE ARE CORRECTED IN THE SAME COMMIT
+
+**THE RULE IS ONE WAY AND IT WAS EXERCISED TWICE. `outline/batches/volume-13-batch-0001.md` IS CORRECTED WHERE THE PAGE WON, AND `outline/volume-13.md` §7 MOVEMENT ONE IS REWRITTEN AGAINST THE PAGE.**
+
+1. **CARD 608 LICENSED A FIGURE THE PROMPT FORBIDS.** The card's required-facts row reads *about four hundred people have gone past it doing that since the first of January of year four — a total and not a rate, and this chapter does not divide it.* **NEITHER FOUR HUNDRED IS PRINTED IN THIS BATCH AT ALL.** `chapter-0500.md:35`'s four hundred is reserved by `PC-117` and `chapter-0545.md:87`'s is Beatrix Halm's four hundred a day in a chapter that says nine thousand at `:23`, and neither is used, derived or mentioned. 608 prints neither and the sentence about the white tile's maker stays shut because nobody looks at the tile.
+2. **THE WALL'S HEADCOUNT IS A TRAVELING FIGURE AND IS PRINTED ONCE.** `outline/volume-13.md` §5's list of figures printed once only includes *the wall's headcount*, and card 608's row read as a mandate. It is not. **It is printed once, at 605, with its reason, and not at 610**, where the same morning's trams are given without the number.
+3. **THE HOUSE DECISION ON YEARS.** The prompt permits *of year six* in an italic footer and forbids *year six* in the prose. **NO CHAPTER OF 601–610 NAMES A YEAR IN ITS PROSE AT ALL** — only a day and a month, or a date-relative phrase such as *since the thirtieth of March, which is two hundred and seventy-four days back*. Every year in this batch is in an italic footer, which is a date. This is stricter than the card, which allowed *of the fifth year* in prose, and it costs nothing.
+
+**AND TWO FIGURES THE BATCH OWES, PRINTED ONCE, WITH OPERANDS, AS §2 OF THE PHASKED:** the office's age at 601 and the lane's mornings at 609. Neither appears anywhere else in the ten files.
+
+## 0c. THE ONE NEXT PHASE
+
+**`workspace/volume-13/batch-0002/PROMPT.md`, CHAPTERS 611–620, MOVEMENT TWO, *ASKED*.** A writing phase. It carries the twenty-first sheet at 614, the scene at 613 (Sun Meiling, five hundred and fifty chapters, the folder, asked for the first time in this book), and the payment Volume 12 owed — **whether the woman two flights up off Cordwain ever learns — which happens at 615 and 617 and is made by Emil Brack and not by Lin Hao, is not a scene, and gives her nothing and thanks her for nothing.** No volume-close prompt, no batch 0003, and `state/complete.md` is not created.
+
 # VOLUME 13 IS PLANNED, AND THE PLANNING PASS HAS BEEN REPAIRED AGAINST ITS OWN REVIEW. **CHAPTERS 601–650 ARE FUTURE AND NONE IS ON DISK. THE REVIEW IS AT `logs/next-0004.review.log`. SIX FINDINGS: FIVE BLOCKING AND ONE MINOR, AND ALL SIX ARE APPLIED. **NOT ONE WORD OF PROSE WAS TOUCHED, NO CHAPTER WAS CREATED, NO DATE WAS MOVED, NO CARD WAS ADDED OR REMOVED, THE PLOT IS UNCHANGED, AND `outline/ending.md` IS BYTE-IDENTICAL TO ITS LAST COMMIT.** THE ONE NEXT PHASE IS STILL `workspace/volume-13/batch-0001/PROMPT.md`, CHAPTERS 601–610, AND IT IS THE SAME PROMPT WITH ITS WALL ROW CORRECTED AND NOTHING ELSE IN IT TOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0y. THE SIX FINDINGS, WHAT WAS WRONG, AND WHAT EACH ONE NOW SAYS

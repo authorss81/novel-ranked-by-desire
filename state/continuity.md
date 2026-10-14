@@ -1,3 +1,89 @@
+# VOLUME 13 CHAPTERS 601–610 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE CHAPTER 601, BY TWO METHODS THAT SHARE NO CONSTANT, AND RE-RUN AGAIN IN THE SAME COMMIT AFTER THE LAST FILE LANDED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT ONE IS NOW REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE SPINE FOR 601–610, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes a year and is therefore the twelfth month of it:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). This is the convention
+           `outline/volume-12.md` §5b proves impossible to get wrong. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) otherwise;  day = 30*i + (d-1)   — contains no 360 at all
+
+600  30 Dec y5 = 4*360 + 300 + 29 = 1,769   (the twentieth sheet went out at four)
+601   4 Jan y6 = 4*360  + 330 + 3  = 1,773   ( +4)
+602  10 Jan y6 = 4*360  + 330 + 9  = 1,779   ( +6)
+603  17 Jan y6 = 4*360  + 330 + 16 = 1,786   ( +7)   SCENE, Runa Sato
+604  24 Jan y6 = 4*360  + 330 + 23 = 1,793   ( +7)
+605  30 Jan y6 = 4*360  + 330 + 29 = 1,799   ( +6)
+606   7 Feb y6 = 5*360  + 0   + 6  = 1,806   ( +7)
+607  14 Feb y6 = 5*360  + 0   + 13 = 1,813   ( +7)
+608  21 Feb y6 = 5*360  + 0   + 20 = 1,820   ( +7)
+609  28 Feb y6 = 5*360  + 0   + 27 = 1,827   ( +7)
+610   4 Mar y6 = 5*360  + 30  + 3  = 1,833   ( +6)   THE BATCH'S IRREVERSIBLE DECISION
+
+10 OF 10 DATES AGREE BETWEEN THE TWO METHODS. 0 MONOTONIC VIOLATIONS.
+SEAM 601-600 = 1,773 - 1,769 = 4.
+BATCH SPAN  610-601 = 1,833 - 1,773 = 60, and 4 + 6 + 7 + 7 + 6 + 7 + 7 + 7 + 7 + 6 = 60.
+NEXT QUARTER-END  30 Mar y6 = 1,859 = chapter 614 = the twenty-first sheet.
+                  1,859 - 1,769 = 90, and 30 + 30 + 30 = 90.
+NEXT VOLUME SPAN  650 - 601 = 2,129 - 1,773 = 356, unchanged.
+```
+
+**AND THE FIGURES THE TEN CHAPTERS PRINT, EACH ONCE, WITH ITS OPERANDS, AND WHERE IT IS.**
+
+| Figure | Value | Operands | Printed at | Printed nowhere else in 601–610 |
+| --- | --- | --- | --- | --- |
+| **the office's age** | fifty-nine months and three days | `1,773 = 30 × 59 + 3` | **601**, in the third italic footer | nowhere |
+| **the lane's mornings** | 1,946 | `1,827 − (−118) + 1`, first morning the third of October of the year before the first = day −118 | **609**, third footer | nowhere |
+| **the wall's headcount** | about nine thousand a day, with its reason | an ordinary morning of an ordinary month and the trams go under it, `chapter-0489.md:21` | **605** | nowhere — at 610 the trams go under it without the number |
+| **the standing head** | eight hundred and fifty-two, unmoved since the thirtieth of March | `1,773 − 1,499 = 274` | **601** | 605 refers to the form, not the head |
+| **the second column** | two lines | — | **601** | 610 |
+| **the ninth line down** | a street, six years in the cold, no figure, no name | entered on the eleventh of July in a clerk’s hand | **610** | — |
+| **the account** | — | — | **never printed in this volume** | — |
+
+**NEITHER FOUR HUNDRED IS PRINTED, DERIVED OR MENTIONED IN 601–610.** `chapter-0500.md:35` is a total since the first of January and is reserved by `PC-117`; `chapter-0545.md:87` is Beatrix Halm’s four hundred a day in a chapter that says nine thousand at `:23`. Neither is used, and no chapter of this batch derives a rate from either.
+
+## 0a. THE INTERVALS THE TEN FOOTERS PRINT, PARSED FROM THE PAGE AND SUMMED
+
+```
+601  1,773 - 1,769 = 4   ·  1,773 - 1,499 = 274   ·  1,773 - 1,480 = 293   ·  30 x 59 = 1,770 + 3
+602  1,779 - 1,773 = 6   ·  1,779 - 1,769 = 10   ·  1,779 - 1,722 = 57   ·  1,779 - 1 = 1,778
+603  1,786 - 1,779 = 7   ·  1,786 - 1,781 = 5    ·  1,786 - 1,773 = 13   ·  1,786 - 1,769 = 17
+604  1,793 - 1,786 = 7   ·  1,793 - 1,773 = 20   ·  1,793 - 1,430 = 363  ·  30 x 12 = 360 + 3
+605  1,799 - 1,793 = 6   ·  1,799 - 1,773 = 26   ·  1,799 - 1,769 = 30   ·  1,799 - 247 = 1,552
+606  1,806 - 1,799 = 7   ·  1,806 - 1,799 = 7    ·  1,806 - 1,773 = 33   ·  1,806 - 1,769 = 37
+607  1,813 - 1,806 = 7   ·  1,813 - 1,799 = 14   ·  1,813 - 1,769 = 44
+608  1,820 - 1,813 = 7   ·  1,820 - 1,806 = 14   ·  1,820 - 1,799 = 21   ·  1,820 - 1,773 = 47
+                    ·  1,820 - 1,769 = 51   ·  30 + 21 = 51
+609  1,827 - 1,820 = 7   ·  1,827 - 1,799 = 28   ·  1,827 - 1,723 = 104  ·  1,827 - (-118) + 1 = 1,946
+610  1,833 - 1,827 = 6   ·  1,833 - 1,680 = 153  ·  1,833 - 1,439 = 394  ·  1,859 - 1,833 = 26
+```
+
+**EVERY FIGURE IN THAT BLOCK RE-DERIVES FROM THE TWO FORMULAS AT THE HEAD OF THIS FILE, AND EVERY ONE IS PRINTED WITH BOTH OPERANDS ON THE PAGE. THE ANCHORS IT USES, RE-DERIVED AND NOT CARRIED:** 1,769 = 30 Dec of year five · 1,499 = 30 Mar of year five · 1,480 = 11 Mar of year five · 1,430 = 21 Jan of year five · 1,722 = 13 Nov of year five · 1,723 = 14 Nov of year five · 1,781 = 12 Jan of year six · 1,773 = 4 Jan of year six · 1,680 = 1 Oct of year five · 1,439 = 30 Jan of year five, the yard · 1,859 = 30 Mar of year six · 247 = 8 Oct of year one · −118 = 3 Oct of the year before the first.
+
+**AND THE ONE THAT MUST BE NAMED, BECAUSE IT IS THE THIRD TIME IN THIS REPOSITORY THAT A JANUARY HAS BEEN DERIVED WRONG BY A PHASE THAT MEANT TO DERIVE IT RIGHT.** The first run of this commit put `(y−1) × 360 + 330 + (d−1)` into **both** methods, and the two methods agreed with each other, and the run reported chapter 601 as **2,133** instead of 1,773. **TWO METHODS THAT SHARE A CONVENTION AGREE WITH EACH OTHER AND ARE BOTH WRONG.** It was caught because 605 came out three hundred and sixty days *after* 601, which is impossible inside one month of one year. *A derivation that produces a violation is not a derivation; a derivation whose two methods share a constant is not a check.*
+
+## 0b. THE FIVE SCENES, AND WHAT 601–610 OWES THE NEXT BATCH
+
+**ONE SCENE IN THIS BATCH, AT 603, AND IT IS RUNA SATO'S. 603 − 594 = 9, in band. 603 − 36 = 567, the largest structural debt in this book, REPORTED AND NOT CERTIFIED.** The scene measured three ways from disk, with every line span beside every cell, is at `state/current.md` §0a and at `state/chapter-summaries.md`. **Set B at word boundary: 603 → 4, and the other nine files → 0.**
+
+**THE AXIS BROKEN IS THE WITNESS**, carried by her room's rule and named by nobody: a field officer’s return is nine lines and a tenth with a box, the box is for a reason, and a reason is not a conclusion; the return may not go back and be improved, and she has filed one a week for six years and improved none. **The chapter's structural difference from every other scene in this book: she has the authority and he is the one who cannot be found, and the scene happens because she chose to carry a paper up a stair.** No clock inside the scene and no hour counted in it. No kettle, no chart, no arm turned up. No mark of any kind given to her and nothing lifted off any row of §4d.
+
+**AND THE NEXT FOUR SCENES OF THIS VOLUME ARE NOT IN THIS BATCH.** They are at **613** (Sun Meiling, five hundred and fifty chapters, the folder, asked for the first time in this book), **623** (Marguerite Vale), **633** (Wren Kallo, on a returns desk and not in her rooms) and **643** (Ines Duarte). **No chapter of 601–610 contains a second explicit passage, and no chapter other than 603 contains one at all.**
+
+## 0c. WHAT IS CARRIED OUT OF 601–610 AND INTO 611–620
+
+- **A demand with four lines on it and *is there* on the back of it**, received on the fourth of January, entered exactly in the day book, not answered, and not capable of being answered by anybody.
+- **The office's answer, which is its own fourth sentence, printed since the thirteenth of November, and it is not a recallable thing.** It has now been read by a landlord's man, by a Bureau field officer, by a clerk and by about four hundred people a week, and it has paid a woman nine years of short money.
+- **A finding marked served by hand at about half past three in the morning**, written by a woman of rank two out of a place and not out of an address.
+- **A yard of about eleven thousand people in which about nine hundred have worked out that the fourth line cannot be tested by anybody**, and about four hundred of them do not believe the answer he gave them.
+- **A real book that cannot close an entry for exactly that reason**, and a sum going into a book that is not that book once a quarter by a person four floors up who does not know it was called and who is not named in 607.
+- **A form from a department of works that says the ranks wall comes down in the spring for making good**, and one ruled box on it that will be filled in by a man with a ladder.
+- **A man in a delivery coat who has been made legal and wants nothing, and who asked whether a second name can go under the first one and was told there is no form for it.**
+- **Two flights of a dark stair, a shut door, no knock, and a certainty that could not be had back.**
+
 # VOLUME 13 IS PLANNED AND CHAPTERS 601–650 ARE FUTURE. **THIS PHASE WROTE NO PROSE. THE SPINE AT THE HEAD OF THIS FILE IS PLAN, DERIVED IN THE PLANNING COMMIT BY TWO METHODS THAT SHARE NO CONSTANT, AND IT IS RE-DERIVED BY COMMAND AGAIN IN THE COMMIT THAT WRITES CHAPTER 601. `outline/volume-13.md` IS THE PLAN OF RECORD. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE VOLUME 13 SPINE, PLAN, AND EVERY FIGURE IT CARRIES

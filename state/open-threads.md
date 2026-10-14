@@ -1,3 +1,152 @@
+# VOLUME 13 BATCH 0001 HAS BEEN WRITTEN AND THIS GATE IS A RECORD OF A PASS, NOT A PLAN. **CHAPTERS 601–610 ARE ON DISK. EVERY ROW BELOW WAS RE-RUN BY COMMAND IN THE COMMIT THAT WROTE THE CHAPTERS, AND EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **610** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED TWICE BY METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0002/PROMPT.md`, CHAPTERS 611–620, AND NOTHING ELSE EXISTS.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0. WHAT BATCH 0001 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
+
+**ROW 4 · A GATE THAT MEASURES ONLY ITS OWN BATCH CANNOT SEE WHAT HAPPENED BEFORE IT.** The house form row is taken over 610 files and prints the file count it took its glyph counts over, by command. **BOOK-WIDE ON DISK AFTER THIS BATCH: 56,016 STRAIGHT AND 2,578 CURLY GLYPHS ACROSS 610 FILES. The batch contributed 0 straight and 894 curly.** The row does not carry a total; it takes one.
+
+**ROW 5 · EVERY ARITHMETIC ROW IS DERIVED FROM DAY NUMBERS BY TWO METHODS AND PRINTED WITH ITS OPERANDS, AND THE SPINE IS CHECKED AGAINST ITSELF.** This batch's first spine run put the withdrawn January convention into *both* methods, the two methods agreed with each other, and the run put chapter 601 at 2,133 instead of 1,773. **TWO METHODS THAT SHARE A CONVENTION ARE NOT A CHECK.** It was caught because 605 came out three hundred and sixty days after 601, inside one month of one year. The rule now prints in the row itself.
+
+**ROW 6 · SET B IS COUNTED AT WORD BOUNDARY AND THE METHOD IS PRINTED WITH THE BANK.** *Semen* is a substring of *advertisement* and a substring probe scores two false hits on a chapter in which nothing explicit happens. **Volume 13's five scenes are measured on the same list as Volume 12's five, at word boundary, and the count is published beside every scene in the same commit that writes it.**
+
+**ROW 7 · THE AXIS COLUMN IS ITSELF A DUPLICATION GATE.** Volume 13's five axes are the witness · the order · the arithmetic said out loud · the one question · the hour, and none of them is one of Volume 12's five, which were the counted minute, the terms, the body described in words three times, the quiet, and the voice. A batch that cannot name its axis in one line has not chosen one. **603's axis is the witness and it is named in this file, which is where a gate row belongs and not on the page.**
+
+**ROW 8 · A PRINTED INSTRUMENT IS NOT DUPLICATION, AND A CHARACTER RESTATING HIS OWN SENTENCE IN THE PLACE HE MADE IT IS NOT EITHER.** Both classes survive the 12-gram scan and both are classified by hand every time. See the classification below.
+
+## 0a. THE GATE, RE-RUN BY COMMAND
+
+```
+FILES            10 files, 601..610, diff against `seq 601 610` EMPTY.
+                 find chapters -name 'chapter-*.md' | wc -l -> 610.
+                 ONE `# ` title line in every file. ALL TEN END 0a.
+TITLES           grep -rh "^# " chapters/ | sort | uniq -d | wc -l -> 0 ACROSS ALL 610.
+                 The ten match `outline/volume-13.md` §10 by whole-line string, 10 of 10.
+                 No written chapter was changed to make room.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 1,932 · 2,032 · 4,188 · 2,279 · 2,014 · 2,316 · 1,934 · 1,946 · 1,987 · 2,532.
+                 TOTAL 23,160. MEAN 2,316.0. NO CHAPTER BELOW THE 1,800 FLOOR.
+                 1 OVER THE 2,700 CEILING: 603, THE SCENE, AT 4,188. ITS REASON IS AT
+                 `state/current.md` §0a and it is recorded in the same commit that wrote it.
+PARAGRAPHS       639 prose paragraphs across the ten files. 0 OVER NINETY WORDS. 0 OVER ONE
+                 HUNDRED AND TWENTY. 0 ODD QUOTATION-MARK PARAGRAPHS.
+                 THE FIRST DRAFT OF THIS BATCH HAD 26 PARAGRAPHS OVER NINETY AND FOUR OVER ONE
+                 HUNDRED AND TWENTY AND ALL THIRTY WERE SPLIT AT A SENTENCE BOUNDARY.
+META             THE PRIMARY CLASS 0 ACROSS ALL TEN. THE WIDENED CLASS INCLUDING `manuscript` 0.
+                 THE EXTENSION CLASS 0. `opposition` 0.
+                 THE CLASS GREP MUST CARRY BOTH `manuscript` AND `opposition` AND IT DOES.
+WEEKNAMES        Seven names, whole word and by stem, across all ten -> 0, after one repair:
+                 `on a Saturday` at `chapter-0606.md:37` is now `on a morning off`.
+                 `sat` and `sun` excluded as the verb and the name, correctly; three raw hits on
+                 `sat` were the verb.
+AGES             Eleven probe forms plus a bare `aged` sweep plus spelled-out `[0-9]+ years` plus
+                 `year [0-9]` -> 0. `old` returns four and every one is paint, a board or the age
+                 of an office. Agnete Lindqvist is forty-five and is not aged again.
+                 Hanneke Ruis has none and is not in this batch at all.
+                 Mavis Rooke is given no age and no mark. The woman in number four is not named.
+ARITHMETIC       SPINE 1,773-1,833 RE-DERIVED TWICE BY METHODS THAT SHARE NO CONSTANT.
+                 A January labelled y is `(y-2)*360 + 330 + (d-1)`; every other month is
+                 `(y-1)*360 + off[m] + (d-1)`. METHOD B is a month-index walk containing no 360.
+                 **10 OF 10 DATES AGREE. 0 MONOTONIC VIOLATIONS.** Intervals 4 6 7 7 6 7 7 7
+                 7 6 = 60 and 1,833 - 1,773 = 60. Seam 1,773 - 1,769 = 4.
+                 EVERY INTERVAL ANY FOOTER PRINTS WAS PARSED FROM THE PAGE AND SUMMED WITH ITS
+                 OPERANDS AND ALL OF THEM AGREE WITH THE PAGE. The printed list is at
+                 `state/continuity.md` §0a.
+                 *** THE FIRST RUN IN THIS COMMIT WAS WRONG BY THREE HUNDRED AND SIXTY DAYS AND
+                 BOTH METHODS WERE WRONG TOGETHER. RECORDED BECAUSE IT IS THE FAILURE MODE. ***
+TRAVELING        THE OFFICE'S AGE, printed once, at 601: 1,773 = 30 x 59 + 3.
+FIGURES          THE LANE'S MORNINGS, printed once, at 609: 1,827 - (-118) + 1 = 1,946.
+                 THE WALL'S HEADCOUNT, printed once, at 605, with its reason.
+                 THE SHEET'S ORDINAL does not appear; no sheet goes out in this batch.
+                 THE ACCOUNT'S FIGURE does not appear; no chapter of this volume prints it.
+                 NEITHER FOUR HUNDRED IS PRINTED, DERIVED OR MENTIONED ANYWHERE IN 601-610.
+ACCOUNT          `8,1xx` 0 · `two hundred and eleven thousand` 0 · `211,840` 0 · `settl` 0 in
+                 every inflection across all ten, after one repair at `chapter-0602.md:7` and
+                 `:9`. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+RT / BODIES      `right temple` 0 book-wide, re-run and not quoted. `cuticle` 4 files book-wide
+                 (329, 340, 404, 446), UNCHANGED. `ostho` 0 book-wide; the name on the page is
+                 Otho Pearse. Mavis Rooke's hand-flat 0 across the ten files and nobody else puts
+                 a hand flat on a table in them. **Runa Sato has no mark, no temple, no eye and
+                 no ink in 603 and nothing on her body is lifted off §4d.**
+HEADINGS         One `# ` per file. 40 `## ` across the ten files. No duplicate inside any file.
+                 No heading names its chapter's turn; `## What That Closed` at 610 was changed to
+                 `## What Came Down The Stair` on exactly that ground.
+MARKDOWN         Blockquotes 0. Tables 0. Horizontal rules 0. Fences 0. Bold 0. Asterisk
+                 markers even in all ten files, 0 odd.
+                 STRAIGHT DOUBLE QUOTES **0** ACROSS THE BATCH. STRAIGHT APOSTROPHES **0**.
+                 BOOK-WIDE OVER 610 FILES: 56,016 STRAIGHT AND 2,578 CURLY, THE BATCH ADDING 0
+                 AND 894. **HOUSE FORM IS CURLY AND IT IS THE FORM 571-600 ALREADY USE.**
+SYSTEM PANELS   **0 IN TEN.** Volume 13's budget is five and **none is spent.** Volume 12 spent
+                 one in fifty against the same budget, and the standing instruction in this
+                 repository is that one spent is one too many. Counted volume-wide, not per
+                 batch, because a per-batch count could not have reported the 602–606 run of
+                 volume 12 either.
+DUPLICATION      12-gram FIRST against all 610 files, body-only (headings and italic footers
+                 stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
+                 **INSIDE 601-610: the longest contiguous run between any two of the ten files
+                 is ELEVEN WORDS. 0 RUNS OF TWELVE.**
+                 **AGAINST THE OTHER 600 FILES, THREE 12-GRAM CLASSES SURVIVE AND ALL THREE ARE
+                 CLASSIFIED.**
+                   (a) 606 vs 552, 556, 597 — *a man who has said that does not get to arrive at
+                       a yard and tell a yard what to do with a board*. A character restating his
+                       own refusal, in the yard where he made it, in the chapter where it binds
+                       him. A man quoting himself is not duplication.
+                   (b) 606 vs 595, 596 — *a figure in Ostara may be a figure somebody made up on
+                       purpose*. THE PRINTED INSTRUMENT. It stands verbatim in 595 as a hand
+                       writing a document, in 596 as a clerk reading it back four days later, and
+                       in 606 as a checker in a yard reading it off a public page because the
+                       whole of his argument is that the two sentences stand four inches apart.
+                       **IT IS THE ONLY VERBATIM PRINTING OF IT IN THIS BATCH** — 602, 604 and
+                       609 refer to it without the words, and that was a repair this pass made
+                       to its own first draft, which had it four times.
+                   (c) 610 vs 0270, 0569 — *a month is thirty days and has no thirty first*. The
+                       calendar rule, printed across the book.
+                 **THE 34-WORD LIFT OF THE VANT'S BOOK-HANDLING RULE OUT OF `chapter-0525.md`
+                 AND THE 20-WORD LIFT OF THE ENTRY'S DESCRIPTION OUT OF `chapter-0474.md` WERE
+                 BOTH FOUND BY THIS SCAN AT 607 AND BOTH WERE REWRITTEN. THE SEVEN 12-GRAM
+                 HITS AT 610 AGAINST 587 AND 588 WERE THE SAME FAILURE ON THE SAME STAGING AND
+                 WERE ALSO REWRITTEN.**
+                 **§4d WAS READ BEFORE ANY BODY WAS PLANNED AND NOT AFTER**, which is why the
+                 witness axis in 603 carries and why 610's restaging of 587 and 588 is in his
+                 own sentences.
+SCENES           ONE IN TEN, AT 603. MEASURED THREE WAYS FROM `##` TO `##` ON DISK WITH EVERY
+                 LINE SPAN BESIDE EVERY CELL: 3,106 exclusive of both `##` lines (32–236) ·
+                 3,118 inclusive (31–237) · 3,752 exclusive through to end of file (32–273) ·
+                 3,643 to the last prose line (32–267) · **4,188 whole (1–273)**. Six `##`
+                 headings, at 31, 83, 119, 151, 177 and 237, and 273 newline-terminated lines.
+                 Set B at word boundary: **603 -> 4**, all nine other files -> 0.
+                 603 - 594 = 9. 603 - 36 = 567 — REPORTED AND NOT CERTIFIED.
+                 NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANCE
+                 OR SEAL IS THE MECHANISM. BOTH ADULTS. NO VIOLENCE IN THE CHAPTER AND NONE IS
+                 TURNED INTO ONE. SAYING YES IS FAST AND IT IS ENJOYABLE TO HER.
+STILL OPEN       Lin Wei 0. B103 0. `settl` 0. the account figure 0. `right temple` 0 book-wide.
+                 Nobody argues the reach of the return, in or out. Nobody says whether the fourth
+                 condition was ever true of anybody's deed. Nobody names the white tile's maker,
+                 and 608 does not go near the tile. Both repainting boxes are still blank and 605
+                 is the chapter in which a character says so out loud, once. The keeper's six
+                 words are not reopened. Perrin Sowe is unforgiven and undiscussed.
+                 Dagmar Oyelowo is absent from the batch. Hanneke Ruis is absent from the batch.
+                 Ines's four questions are unanswered. Sowe lives. Ferreira lives.
+                 Adeyemi is Registrar of Unrecorded Merit and is called nothing else.
+                 Mavis Rooke is not on a stair in this batch and no chapter of 601-610 shows her
+                 hand on anything.
+VOLUME           BOTH BOXES BLANK AT THE END OF 610. THE FIGURE BOX BLANK FOR THE REST OF THE
+                 BOOK. BRACK ANSWERED, NOT DEFEATED, RIGHT ABOUT EVERY FACT HE SAYS, AND NOT
+                 THANKED BY ANYBODY INCLUDING LIN HAO, WHO SAYS SO OUT LOUD AT 609.
+```
+
+## 0b. WHAT VOLUME 13 OPENED, WHAT IT PAID, AND WHAT IT MAY NOT CLOSE
+
+**PAID, ONCE, IN MOVEMENT TWO AND NOT IN THIS BATCH: WHETHER THE WOMAN TWO FLIGHTS UP OFF CORDWAIN EVER LEARNS WHAT WAS DONE FOR HER.** Open and undated through Volume 12 and named as owed at `reviews/volume-12/volume-close.md` §11 item 1. It is paid at 615 and 617, by Emil Brack and not by Lin Hao, in a slate and a voice, and it is not a scene, she is not thanked, she is given nothing, and no chapter shows her reading a sheet. **610 does not pay it and does not touch it.**
+
+**OPENED, ONCE, WITH A DATE ON IT: THE WALL.** A form from the department of works, obtained on the twenty-first of February at a counter nine streets away, says the ranks wall comes down in the spring for making good. It has one ruled box at the foot of it for the date the work was done, and there is no instrument that can fill it with a sentence. **The two words have survived six years of monthly repainting because the paint goes over them and does not take them, and a wall that is taken down takes them with it.** This is the only new thread Volume 13 opens and it is flagged here at the moment it is opened.
+
+**AND THE ONE THIS BATCH CLOSED, WHICH IS NOT A REGISTER ITEM BUT IS A STANDING INSTRUCTION:**
+
+> **A CHAPTER OF 611–650 DOES NOT GO UP THOSE TWO FLIGHTS A SECOND TIME.** He went up them once, on the fourth of March, at ten past ten in the morning, alone, and there was nobody at the top, and he did not knock. The option of being the man who did not go up is closed and it cannot be reopened by anybody including him. If a later chapter puts him on that stair it is a second time and it is a defect, and the defect is not the stair — it is that a man who has shown himself what he will do cannot unshow it.
+
+## 0c. MAY NOT HAPPEN AT ALL, CARRIED WHOLE
+
+Either repainting box filled, for ever · the figure of the account printed · `settle` in any inflection · a floor, a ledger total or a running balance · a day of the week · a year numeral in the prose · an announced age · `right temple` · a fifth `cuticle` · `ostho` · **Mavis Rooke's hand-flat on a table, which is a standing decision and not a restraint** · a second conversation with the man with the broom · Brack thanked, diminished, defeated or wrong · a new enemy · a partner who dies · **any second time on the eighth of October or the tenth of October, and no chapter of 601–610 lands on either date** · **a second time up the two flights off Cordwain** · **either four hundred, in any chapter of 601–650** · **a second verbatim printing of the invented-figures sentence in the same batch as another verbatim printing of it** · a fourth-wall hit of any class, including `manuscript` and `opposition`.
+
 # VOLUME 13 IS PLANNED AND CHAPTERS 601–650 ARE FUTURE. **THIS PHASE WROTE NO PROSE AND THE GATE BELOW IS A PLAN, NOT A RECORD OF A PASS. IT IS `outline/volume-13.md` §9 AND §2c RESTATED AS A LIVE BLOCK, AND EVERY ROW IN IT IS OWED BY THE COMMIT THAT WRITES CHAPTER 601. THE SPINE WAS DERIVED TWICE BY METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS OVER FIFTY CHAPTERS. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0001/PROMPT.md`, CHAPTERS 601–610, AND NOTHING ELSE EXISTS.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0. THE THREE NEW ROWS THIS VOLUME ADDS, AND EACH ONE EXISTS BECAUSE A GATE IN A CLOSED VOLUME WAS BLIND
