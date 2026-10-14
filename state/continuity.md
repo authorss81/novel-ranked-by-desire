@@ -1,3 +1,104 @@
+# VOLUME 12 BATCH 0002 IS WRITTEN. CHAPTERS 561–570 ARE ON DISK. **`outline/volume-12.md` §7'S TEN CARDS FOR 561–570 WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT AND NOTHING IN THOSE CARDS WAS PLAN. ONE ARITHMETIC ERROR WAS FOUND ON A FINISHED PAGE OF BATCH 0001 AND IS CARRIED, NOT REPAIRED: `chapter-0553.md`:23 SAYS *Thirty years is three hundred and sixty days multiplied by ten* AND IT IS MULTIPLIED BY THIRTY. NO CHAPTER 561 IS RESTARTED FOR IT AND IT IS A ONE-WORD REPAIR THAT IS NOT THIS PHASE'S. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+> **THE SENTENCE:** *In this volume, **Lin Hao must put two words a city has never been able to read where the city already reads every morning**, or **the Register ends as one line in one column in one chained book two floors under a sales floor, and the last person who ever reads it is a keeper who finds his name there on the second of January and puts the book back on the shelf**.*
+>
+> **THE KEEPER'S ONE QUESTION WAS SPENT AT 554 AND THAT THREAD IS CLOSED. NO CHAPTER OF 551–600 REOPENS IT.** `outline/volume-12.md` §8 item 1 is discharged.
+>
+> **THE IRREVERSIBLE DECISION OF MOVEMENT TWO IS PAID AT 570 AND IT IS HIS, AND IT IS THE OPPOSITE SHAPE TO 560.** At 560 he said nothing out loud in front of eleven thousand people about the people his four lines leave out. At 570 he put one of them on a page without asking her, in his own hand, against himself. **THE BATCH DID NOT WEAKEN 560 AND DID NOT RE-OPEN IT: no chapter of 561–570 has him take it back, soften it, explain it in private, or agree with anybody about it afterwards, and the only two references to it are the sister at 567 quoting it back to him and the second column's cost at 570.**
+
+## 0. WHAT 561–570 ADDED TO THE CANON, AND WHAT A LATER PHASE MAY NOT BREAK
+
+- **THE FIGURE ON THE SEVENTEENTH SHEET IS EIGHT HUNDRED AND FIFTY-TWO** and it was eight hundred and forty-one on the thirtieth of June, the thirtieth of September and the thirtieth of December of the fourth year. **It moved by eleven and the eleven are eleven people who wrote their own accounts on the back of a printed sheet and sent them to the address at the head of a public page. It is still not a count of deeds and no character who is right calls it one.**
+- **THE SECOND COLUMN HAS TWO LINES IN IT AT THE END OF 570 AND ONE OF THEM IS NOT HIS.** The line entered is **Berta Skell, carried by Lin Hao, rank one**, and the four lines against her are in the shape of the four lines he entered against himself on the fifteenth of October of the fourth year. **She cannot read a page, she never gave him anything, she was never asked, and she is going to find out from a stranger at a desk in Cordwain. THE EIGHTEENTH SHEET GOES OUT AT FOUR ON THE THIRTIETH OF JUNE.**
+- **THE DRAWER UNDER THE BOOK IN THE ROOM OFF A THIRD COURT HAS SOMETHING IN IT FOR THE FIRST TIME SINCE THE FOURTH OF FEBRUARY OF THE FIRST YEAR**, and what is in it is a page with four columns and about a hundred and thirty-nine names in one hand, and it is **not an entry** and a clerk said so out loud in the room before she put it in.
+- **THE FOUR CONDITIONS ARE IN ABOUT EIGHT HUNDRED SHEETS IN THIS CITY AND ALL OF THEM HAVE NO NAME ON THEM**, because a compositor struck his own name off his own plate in March of the fifth year. They are also in four-inch chalk on a shutter, in a drawing pin in a corridor off a third court, and in about four hundred printed demands.
+- **THE FOUR CONDITIONS ARE ON NINE BOARDS IN NINE BUREAU DIVISION CORRIDORS**, put up on the first of May, with nothing above them and nothing under them and no mark of this office anywhere on them, because the Registrar of Unrecorded Merit would not allow one and was right.
+- **THE COUNT OF THE KEEPER'S SIX WORDS IS A HUNDRED AND TWENTY** — thirty years, four times a year, thirty multiplied by four — and it had never been said out loud, and **it is not printed in this batch**, because `chapter-0553.md`:23 prints the derivation wrongly and this batch did not compound it. It is carried out of the counting room in a notebook and written on the back of a woman's own list by a woman who works for nobody. **NEITHER COPY IS CERTIFIED.**
+- **THE COUNTING ROOM HAS HAD NO WINDOW AND NO FIRE IN IT FOR TWENTY-SIX YEARS AND HANNEKE RUIS HAS KEPT IT FOR THIRTY.** No age, no mark and no second physical claim is given to her anywhere in this batch, and her hands are the only body described.
+- **A LANDLORD'S PRINTED DEMAND IS A THING A COURT WILL TAKE AND A LEASE IS NOT, AND A FINDING DOES NOT PUT A WOMAN OUT OF A ROOM IN A FORTNIGHT.** A year is three hundred and sixty days and a finding runs one thousand four hundred and forty of them. **THE RENT OF THE WOMAN OF NUMBER FOUR IS NOT RESOLVED AND IS NOT ON THE PAGE AS RESOLVED AND MAY NOT BE.**
+
+## 1. THE SPINE, 561–570, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1), where Feb 0, Mar 30, Apr 60, May 90.**
+
+```
+561   4 Feb y5   4 x 360 + 0  + 3  = 1443     4 after 560  (1443 - 1439 = 4)
+562  17 Feb y5   4 x 360 + 0  + 16 = 1456    13 after 561  (1456 - 1443 = 13)
+563  28 Feb y5   4 x 360 + 0  + 27 = 1467    11 after 562  (1467 - 1456 = 11)
+564   9 Mar y5   4 x 360 + 30 + 8  = 1478    11 after 563  (1478 - 1467 = 11)   SCENE
+565  19 Mar y5   4 x 360 + 30 + 18 = 1488    10 after 564  (1488 - 1478 = 10)
+566  30 Mar y5   4 x 360 + 30 + 29 = 1499    11 after 565  (1499 - 1488 = 11)   QUARTER-END
+567   8 Apr y5   4 x 360 + 60 + 7  = 1507     8 after 566  (1507 - 1499 = 8)
+568  17 Apr y5   4 x 360 + 60 + 16 = 1516     9 after 567  (1516 - 1507 = 9)
+569  30 Apr y5   4 x 360 + 60 + 29 = 1529    13 after 568  (1529 - 1516 = 13)
+570   1 May y5   4 x 360 + 90 + 0  = 1530     1 after 569  (1530 - 1529 = 1)
+MONOTONIC, 0 VIOLATIONS. Cross-checked by counting forward month by month from
+4 x 360 = 1440: February 1440-1469 · March 1470-1499 · April 1500-1529 · May 1530.
+Feb 1469 + 1 = March 1470 · Mar 1499 + 1 = April 1500 · Apr 1529 + 1 = May 1530.
+The two methods share no constant and agree at every boundary.
+```
+
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,530 − 1,439 = **91 days** since the thirtieth of January, and 1 + 30 + 30 + 30 = 91, with no days of May at all because this is the first · 1,478 − 1,439 = **39** · **1,478 − 1,411 = 67 days since the keeper spent her question** · 1,478 − 960 = **518 days since the first of October of the third year**, and 360 + 150 + 8 = 518 · 1,499 − 1,409 = **90 days**, and 30 + 30 + 30 = 90 · 1,499 − 1,419 = **80** · 1,499 − 1,439 = **60**, two months of thirty days · 1,443 − 1,422 = **21** · 1,443 − 1,409 = **34** · 1,499 − 1,443 = **56** · 1,516 − 1,156 = **360**, which is a year · 1,529 − 1,409 = **120**, four months of thirty days · 1,443 − 1,431 = **12**, the age of the first printed demand · **1,443 − 1,409 = 34 and 1,430 − 1,430 = 0 are not on the page.**
+
+## 2. THE SCENE SCHEDULE AFTER 564, BOTH COLUMNS, AND NEITHER CERTIFIED
+
+| Chapter | Whose | Her own last scene | Gap from the previous scene in the book | Gap from her own last scene | Status |
+| --- | --- | --- | --- | --- | --- |
+| 546 | Agnete Lindqvist. Volume 11's last. | 369 | — | — | written |
+| **554** | **Hanneke Ruis** | **none on record anywhere in the book** | **8** | **there is no gap. This is her first.** | written |
+| **564** | **Agnete Lindqvist** | 546 | **10** | **18** | **WRITTEN. 5,619 words, the batch's only scene.** |
+| **574** | **Beatrix Halm** | 536 | **10** | **38** | **planned** |
+| **584** | **Ines Duarte** | 505 | **10** | **79** | **planned** |
+| **594** | **Tessa Okonkwo** | 515 | **10** | **79** | **planned** |
+
+**CADENCE 8 · 10 · 10 · 10 · 10. NOTHING UNDER EIGHT, NOTHING OVER FIFTEEN. THE 177 IS CLOSED AND WAS PAID AT 546 AND IS NOT BEING PAID AGAIN. THE PER-WOMAN COLUMN IS NOT THE BAND AND NO FILE MAY SAY ONE IS.** Mavis Rooke is not on the schedule and is not in this batch and is not in the next one either.
+
+## 3. WHAT 564 CHANGED, AND WHAT IT COST, AND WHY IT IS 5,619 WORDS
+
+**AGNETE LINDQVIST SENT FOR HIM.** Four lines on a piece of paper with his name at the top and a letter at the bottom, delivered to the branch and to him and not to the counter, which it has never been. **It is the first time in four years she has asked him for anything, and what she asks for is that he be in the room while she is outside it**, because he is the only person in this city who has ever told her he heard something she said, and he is the only person who will know whether it comes back through the door.
+
+**THE YARD'S RULE IS BEING USED AGAINST THE WOMAN WHO BROUGHT IT.** One thing each, the last one says hers last, and nobody answers anybody — a rule of a kitchen off Ferrier Street that has been in the Vestry for twenty years and was never named by anybody — **and since the thirtieth of January about nine hundred people on that yard's own steps have learned to use it, and when she went out on the ninth of March and said one thing in front of about eleven thousand people they waited for her the way a room waits for the next thing.** **THE THING SHE LOSES IS NOT THE ARGUMENT.** She loses the room: the only place in this city where what is said in public comes back through a door where it cannot be used. And she says she would build the rule again, and that she is going to stand on those steps once a month and say one thing and be unanswered, and that then they will have to want her to say it twice.
+
+**SHE REFUSES THE COLUMN AND THE TWO WORDS AT THE FOOT OF THE WALL AGAIN, HERSELF, UNASKED,** and says why: she said it in a kitchen in the second year, and to a clerk with a certified copy on the thirtieth of December of that year, and again in October of the fourth year, and she is not going to change her mind because she has lost a yard.
+
+**THE AXIS BROKEN IS THE TERMS.** She states all of them out loud before anything happens, which is the rule in this room, and then **she breaks exactly one of the three, out loud, while she has still got her dress on**, and says she has been not doing anything about it for four months.
+
+**WORD BANK, COUNTED PER FILE AND SUMMED AFTER THE LAST EDIT:** 561 2,193 · 562 2,091 · 563 2,308 · **564 5,619** · 565 2,509 · 566 2,106 · 567 2,461 · 568 2,289 · 569 2,313 · 570 2,679. **BATCH TOTAL 26,568.** **564 LEAVES THE 1,800–2,700 GUIDE BAND BY 2,919 WORDS AND THE REASON IS: it is the batch's only scene, it is Aginete Lindqvist's second and first-in-eighteen-chapters scene, and the act is written out at 2,662 words exclusive of its bounding headings against 2,079 at 546 and 2,851 at 554. 546 IS 3,570 AND 554 IS 3,730 AGAINST THE SAME BAND, AND BOTH ARE THE SAME KIND OF CHAPTER. 564 IS WRITTEN TO THE LENGTH OF THE SCENE AND NOT TO A WORD COUNT.** **THE FIRST DRAFT OF THE ACT WAS 633 WORDS EXCLUSIVE AND WAS REWRITTEN BEFORE THE COMMIT, ON THE SAME GROUND THE 14 OCTOBER 2026 REVIEW RAISED AGAINST 554.**
+
+**THE SCENE MEASURED THREE WAYS, AS `AGENTS.md` AND `outline/volume-12.md` §9 REQUIRE, TAKEN FROM `##` TO `##` ON DISK IN THIS COMMIT — 564 HAS SEVENTEEN `##` HEADINGS AND THE CLOSING BOUNDARY IS THE `## After` HEADING AT LINE 321, WITH NO `##` AFTER IT, WHICH IS STATED RATHER THAN ASSUMED:**
+
+| Definition | 546 Agnete (Volume 11 precedent) | 554 Hanneke Ruis | **564 Agnete (this batch)** |
+| --- | --- | --- | --- |
+| (1) opening `##` to closing `##` | 3,451 | 3,554 | **4,803** |
+| (2) scene section, INCLUSIVE of both heading lines | 2,085 | 2,855 | **2,665** |
+| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | 2,851 | **2,662** |
+| explicit-vocabulary probe, whole file | 21 | 20 | **76** |
+| explicit-vocabulary probe, scene section | 17 | 14 | **52** |
+| whole file | 3,570 | 3,730 | **5,619** |
+
+**THE PROBE BANK, PRINTED SO THAT THE THREE FIGURES ARE COMPARABLE AND SO THAT A LATER PHASE CAN RE-RUN IT:** *cock · cunt · pussy · tits · breasts · nipple · nipples · areola · anus · arse · butt · hole · mouth · tongue · lick · suck · penis · vagina · labia · clitoris · cum · semen · ejacul · thrust · stroke · hard · erection · orgasm · moan · gasps · panted · inside · wet · thigh · took · got him · took her · naked · undress · spread · breast · kissed · bed · aching · pleasure · came · come · mouthful · wrist · back of his neck · flat of her tongue.* **THE 554 AND 546 FIGURES IN THAT TABLE ARE RESTATED FROM THE LIVE GATE BLOCK OF BATCH 0001 AND WERE NOT RE-RUN IN THIS COMMIT; THE 564 FIGURES WERE RUN HERE. A PHASE THAT CHANGES THE BANK MUST RE-RUN ALL THREE.**
+
+**THE SCENE IS WRITTEN OUT AND NOT IMPLIED. NO COMPULSION, NO SEDATION, NO EXHAUSTION, NO TOXIN, NO RESTRAINT, NO PSYCHIC CONTACT, NO TRANSE AND NO SEAL. BOTH ADULTS. SAYING YES IS FAST AND IT IS ENJOYABLE TO HER AND THE READER IS MEANT TO FEEL THAT. VIOLENCE AND SEX STAY IN SEPARATE REGISTERS AND THERE IS NO VIOLENCE IN 564 AT ALL. HER BODY IS DESCRIBED ONLY THROUGH HER §4d MARKS, WHICH ARE CANON AND WHICH THE TABLE NAMES VERBATIM, AND HER 546 STAGING IS NOT RESTAGED.**
+
+## 4. WHAT VOLUME 12 PICKS UP AT 571, AND WHAT IT MAY NOT CLOSE
+
+**PICKS UP, WHICH IS NOT ADOPTING:** the four conditions in about eight hundred printed sheets with no name on them · nine Bureau corridor boards · a figure that moved by eleven for the first time in four quarters · a page of about a hundred and thirty-nine names in a drawer in a building with no sign on the door · a second line in the second column that is not his · a demand in Corvin Ashby's hand that will stand up in about four years · about a hundred and eleven yeses in a book in Lamp Street that its owner will not bring in · a compositor with one plate · a printer who has been told no by a Registrar and was told no by a man with a bucket and was told no by nine hundred people in a yard, all in the same direction, and who says nobody made him.
+
+**MAY NOT CLOSE, INHERITED WHOLE AND UNCHANGED:** the reach of the return · whether the account belonged to the unrecorded rather than to him · how many feeders there were · and whether the reading was justice or showing off. Lin Wei's file and the name · the second folio of 4,112 · B103 · `settle` · the figure of the account, fixed at 211,840 and printed in no chapter of 551–600 · who put the white tile up · the four-hundred-a-day figure at `chapter-0545.md`:87, which this volume does not print · Mrs Imrie, asked nothing, ever · Wren Kallo's bar, untested · Dagmar Oyelowo's first thing and `PC-44`, and 495 is not a scene and may never be written as one · Perrin Sowe, not forgiven and not discussed, Ines's correction unpressed · Sun Meiling's row and her bar, told once at 434 · Marguerite Vale's fourth line, which cannot be struck · the instrument he swore on the ninth of May never to use · Ada's grey, permanent and not recovered · Runa Sato's reason box · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **the four conditions' fourth line is not mending and nobody is trying to mend it** · **the rent of the woman of number four** · **Agnete Lindqvist's refusal of the ninth of October, which she states a third time at 564 and which is resolved nothing** · **the yard's rule is never named and never explained by any character as an axis**.
+
+**MAY NOT CLOSE, OPENED BY THIS BATCH:** **whether the hundred and thirty-nine names in the drawer ever reach a page the office can use, which they cannot, because there is no form and nine in ten of them do not satisfy the four conditions and a clerk may only enter what she is given** · **whether a stranger with a hundred and eleven yeses in a book in Lamp Street ever brings any of them anywhere** · **whether the eleven people who satisfied all four conditions are the same people who will be able to satisfy them in four years in a room with a magistrate in it** · **whether Berta Skell ever finds out that she is on a page and never knows who put her there**.
+
+**MAVIS ROOKE IS UNTOUCHED AND IS NOT IN THIS BATCH.** `grep -ri "mavis rooke" chapters/volume-12/` returns **0 and that is correct.** The mechanism the volume owes her now exists in the world — a public sheet, about two hundred people a week reading one, and the sheet is out and has been for thirty days — **and no chapter of 561–570 shows her reading it, being told about it, or not being told about it, and 587 and 588 must not.**
+
+## 5. TWO THINGS ON THE PAGE THAT A LATER BATCH MUST NOT TREAT AS CANON
+
+- **THE NAME IS OTHO PEARSE, NOT *OSTHO*.** `grep -rio "ostho" chapters/` returns **0** across all five hundred and seventy. He is not in 561–570 and does not count the board.
+- **THE RANKS WALL'S DAILY FIGURE IS STILL CONTRADICTED ON THE PAGE.** `chapter-0489.md`:21 says about nine thousand a day; `chapter-0545.md`:87 says about four hundred. **566 prints the nine thousand, once, with the reason from 489, and prints the four hundred nowhere.** The other figure at that wall — about four hundred people have gone past him since the first of January of year one — is **a total and not a rate and may not be divided.**
+
+## 6. THE NEXT PHASE
+
+**`workspace/volume-12/batch-0003/PROMPT.md`. A WRITING PHASE FOR CHAPTERS 571–580 AGAINST MOVEMENT THREE, *COUNTERSIGNED*, IN `outline/volume-12.md` §7. `state/complete.md` IS NOT CREATED AND VOLUME 12 IS NOT CLOSED.**
+
 # VOLUME 12 BATCH 0001 IS WRITTEN AND REPAIRED. CHAPTERS 551–560 ARE ON DISK. **`outline/volume-12.md` §7'S TEN CARDS FOR 551–560 WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, ONE DAY NUMBER IN THE BATCH BRIEF WAS FOUND WRONG AND CORRECTED, AND THE WHOLE BATCH WAS REPAIRED THE SAME DAY AGAINST `logs/batch-0001.review.log`: EIGHT FINDINGS AND ONE CONFIRMATION, ALL NINE APPLIED, NO CHAPTER RESTARTED, NO EVENT MOVED, NO PLOT CHANGED. NO CHAPTER 561 EXISTS. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > **THE SENTENCE:** *In this volume, **Lin Hao must put two words a city has never been able to read where the city already reads every morning**, or **the Register ends as one line in one column in one chained book two floors under a sales floor, and the last person who ever reads it is a keeper who finds his name there on the second of January and puts the book back on the shelf**.*
