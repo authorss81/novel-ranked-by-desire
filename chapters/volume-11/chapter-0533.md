@@ -28,8 +28,6 @@ Otho Pearse wrote it down, because it was what he had been told.
 
 "She cannot read what it says she is wrong about," said the sister. "That is not the same as not knowing. She knows exactly what she owes. She cannot find out what she is being told she owes."
 
-## What Was Put In Front Of The Room
-
 Ashby put the lease down and opened it at the ninth page and put his finger on the figure.
 
 That is all he did. He did not argue and he did not produce anything else and he did not say that anybody had lied to him, and the room held nothing that said the figure was wrong except a second piece of paper that the sister had brought, which was the old lease, and which said that the room had taken something else entirely nine years before.
@@ -94,8 +92,6 @@ He put the lease back inside his coat.
 
 "That is not eviction. That is worse and it takes four years and she will not know it is happening."
 
-## What The Register Cannot Do About Any Of It
-
 Lin Hao was not in that room and had not asked to be, and he had gone to it at about eleven and been told by the sister on the stair that the board was sitting and would sit for about an hour and that anybody might sit in.
 
 He did not go in.
@@ -103,8 +99,6 @@ He did not go in.
 The office could not stop a finding because it has no instrument and no standing in a room off Cordwain, and the sheet with the address at the head of every line would not have helped him if he had gone in, because the sheet has Corvin Ashby's name on it and not one figure, and because a sheet that goes out at four is a thing about the city and not a thing a landlord can be shown at a table.
 
 He stood in the street outside for about fifty minutes and the door stayed shut.
-
-## The Book On The Table
 
 He asked about it afterwards, in the corridor, of the man who kept it.
 
@@ -116,7 +110,7 @@ He asked about it afterwards, in the corridor, of the man who kept it.
 
 "It is a finding a day," said Otho Pearse. "Some days two. It has been a board for eleven years and a landlord who is refused a room is a landlord who takes the next one, and a landlord who takes the next one brings the book."
 
-## What He Wrote At Four In The Morning
+## After The Board
 
 He wrote it up at the top of the third flight with the bin room open behind him and the bin room door not shut because the bin room is the only room in that building he is allowed to leave things in.
 

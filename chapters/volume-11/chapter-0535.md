@@ -20,8 +20,6 @@ He counted them twice because it seemed like the sort of number a person would w
 
 The oldest had been doing it about nine years. Two of the nine were out on the round that morning. One of them was a man of about forty who had been in the division about four years and who had a way of standing that put his good ear forward and had done it since before she met him.
 
-## What A Division Is, And Is Not
-
 "A division is not an instrument," said Beatrix Halm. "People keep saying it is. It is nine people who walk."
 
 "Can nine people walk to what you walk to."
@@ -57,8 +55,6 @@ He did not take it out. He put the page on the table with the other three and it
 "And she wanted to know what I was going to do about the fact that it was true, and I could not tell her, and she is a tradeswoman and she is still there and she has never spoken to me again and she is entitled not to."
 
 That is what the rule costs when it is applied and it is the reason it is not applied more often than it is about to be.
-
-## What He Asked
 
 He asked it at about half past six with the stove ticking and the nine of them looking at a man in a delivery coat's coat with no chalk on him.
 
@@ -106,7 +102,7 @@ She picked her notebook up off the table.
 
 "You have not asked me for anything. When you do," said Beatrix Halm, "ask me somewhere I can hear you."
 
-## What He Wrote At Four In The Morning
+## The Last Page Of It
 
 He wrote it up at the top of the third flight with the bin room open behind him and the mop still in the bucket where he had left it an hour and a half before.
 

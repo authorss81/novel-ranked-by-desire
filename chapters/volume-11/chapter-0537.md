@@ -4,8 +4,6 @@ He wrote it at the top of the third flight at about four in the morning of the t
 
 Forty days from the twentieth of February. Ten days to the thirtieth of February and thirty more to the thirtieth of March is forty, and he had counted it on the night of the nineteenth without any reason at all and had not written it down.
 
-## What He Wrote
-
 Four lines and a date and his own name at the bottom, in a hand that is not the office's and is not a hand that chalks figures on walls either.
 
 *I ask for a round. One division. Nine hundred doors, once, in a district that is not mine, reading what people did that was never written down and had been read by nobody.*
@@ -54,7 +52,7 @@ A clerk may only enter. She read it twice at the same speed both times and enter
 
 The district is not hers and he did not choose it.
 
-She told him in the room over a chandler's on the twenty-eighth of January and again on a roof on the twentieth of February, and the reason is nine years old and is hers: a street you walk stops being a street you walk after about four years, and a division that goes to nine hundred doors in the district it knows would not be reading anything, it would be going home nine times a day.
+She told him in the room over a chandler's on the twenty-eighth of January and again on a roof on the twentieth of February, and the reason is nine years old and is hers, and it has never once been hers in writing: a division that went to nine hundred doors in the district it knows would not be reading anything, it would be going home nine times a day.
 
 So it is a district neither of them has ever walked. It is four streets off Cordwain on the far side of the yard end, about nine hundred doors, and about nine hundred people who have never been asked anything by anybody.
 
@@ -74,13 +72,11 @@ About one in five of what any division brings back cannot put a day to it.
 
 He had forty days. The ward is two flights up off Cordwain and it takes about eleven minutes to walk there from the counter and he has walked it four times in four years for other reasons and once for this one.
 
-He did not walk it in those forty days, and the reason is not a reason, and he wrote it down at four in the morning on the second of April in nine words: *I had forty days and I did not spend them.*
+He did not walk it in those forty days, and the reason is not a reason, and he wrote it down at four in the morning on the second of April in ten words: *I had forty days and I did not spend them.*
 
-That is the whole of what asking for it was, and he had known the whole of it on the twentieth of February, on a roof, in the wind, from a woman who works in that ward and who told him on the roof precisely what nine hundred doors would turn into and then said that it was not an objection.
+That is the whole of what asking for it was.
 
 He did not ask her.
-
-## What Went Out At Five In The Morning
 
 Nine of them went out at about five on the morning of the thirtieth of March with a sheet of district addresses, a sheet of blank return, a rule they have carried for two years and were not going to explain to a man at rank one, and about nine hours of daylight before the light went.
 
@@ -96,7 +92,7 @@ Thirty-four at the thirtieth of December and five more in ninety days. One of th
 
 Nineteen people in ninety days against a hundred and twenty-nine at the door, and he had written at four in the morning on the second of January, in a column that was not one of his three, that he wanted one person through that door before the thirtieth of March.
 
-And after the figure, two columns. The first with thirty-nine lines against it. The second headed *carried by*, ruled, and empty, and it will be empty on the thirtieth of June, and it is empty now because a person who cannot name a day is kept out by the second condition and not by the column, and the column has not done one day's work in the four years it has been on that sheet.
+And after the figure, two columns. The first with thirty-nine lines against it. The second headed *carried by*, ruled, and empty, and it is empty because a person who cannot name a day is kept out by the second condition and not by the column, and the column has not done one day's work in the four years it has been on that sheet.
 
 And under the whole of it, in the office's own hand, in the one sentence a clerk is permitted to add, four words longer than that sentence is supposed to be:
 
@@ -108,15 +104,15 @@ A round returns about nine hundred accounts of things people did that were never
 
 Those accounts are going to arrive at a counter off a third court, and a clerk at that counter may only enter and cannot improve what she is given and cannot be asked to hurry, and she is going to enter them.
 
-And by the thirtieth of June the sheet of that quarter is going to carry a figure in the office's own hand, under the same heading, in the same column, with the same address at the head of every line, and it is going to be about nine times the one on this sheet, and it is going to mean the opposite thing, and about two hundred people a week in Cordwain will read both.
+And by the thirtieth of June the sheet of that quarter is going to carry a figure in the office's own hand, under the same heading, in the same column, with the same address at the head of every line, and it is going to be about nine times the one on this sheet. He could not work out, on the step, what the two figures would say about each other when both were on the same page, and he wrote down that he could not work it out.
 
-He wrote that down on the step, at about four in the morning, in nine words, and it was the ninth of April before he understood that the sentence he printed on the thirtieth of September says nothing at all about it, because it is about a Register that has nothing, and this Register is about to have nine hundred somethings in it.
-
-## What He Wrote Down At Six In The Evening, And At Four In The Morning
+He wrote that down on the step, at four in the morning. It was the ninth of April before he understood that the sentence he printed on the thirtieth of September says nothing at all about it, because it is about a Register that has nothing, and this Register is about to have nine hundred somethings in it.
 
 He went down to the lane at about six and did not pay a grain and did not go into it and stood against the wall at the side for about an hour.
 
-Three years is thirty-six months of thirty days, which is one thousand and eighty days. From the third of October to the thirtieth of March is twenty-seven days of October after the third, and then five month-ends at thirty days each, which is a hundred and fifty. A hundred and twenty-seven and a hundred and fifty is a hundred and seventy-seven days. One thousand two hundred and fifty-seven days, and counting the first morning as the first, that is one thousand two hundred and fifty-eight mornings behind that wall.
+Three years is thirty-six months of thirty days, which is one thousand and eighty days. From the third of October to the thirtieth of March is twenty-seven days of October after the third, and then five months of thirty days each, which is a hundred and fifty.
+
+Twenty-seven and a hundred and fifty is a hundred and seventy-seven days. One thousand and eighty and a hundred and seventy-seven is one thousand two hundred and fifty-seven days, and counting the first morning as the first, that is one thousand two hundred and fifty-eight mornings behind that wall.
 
 Emil Brack came to the wall end with the chalk at about a quarter to seven and looked at him for a while and went back to the stools.
 

@@ -52,8 +52,6 @@ That is the sentence. He has had it in his head since about nine and he had walk
 
 "No," said Lin Hao. "It is what it looks like. Those are two different things and the second one is what about nine hundred people a week in Cordwain have been reading since the thirtieth of September."
 
-## What The Man Had Come With
-
 He had it in his coat and he took it out and it was not a paper, it was not anything at all, and he had carried it as far as the stair.
 
 "I sat with a man two nights in the fourteenth month of the second year," he said. "He was in a room off Cordwain and there were four of us in it the second night and I was not his family and I was not paid and I was not asked and his people did not know I was there until the morning."
@@ -108,8 +106,6 @@ Agnete Lindqvist did not come to that counter in the whole of the last quarter. 
 
 Nine years, and eleven days.
 
-## What It Closed
-
 He was on the second step at about seven o'clock in the morning of the second of January with the quarter's sheet folded once and the number Adeyemi had chalked on a card that week inside it.
 
 The figure had not gone down. It had gone to nothing, which is worse, because a figure that goes down is a figure about a bad quarter and a figure that stands still while a hundred and twenty-nine people walk past a door is a figure about an office.
@@ -134,7 +130,7 @@ He put the sheet down flat on the step.
 
 "And in exchange I get a counter that nobody comes to," he said. "That is the trade and I made it on the thirtieth of September and I would make it again and it has cost me one man with a deed in his coat and about a hundred and twenty-nine people who walked past a door in ninety days."
 
-## What He Wrote At Four In The Morning
+## Thirty-Four
 
 *Thirtieth of December of the third year. Twelfth sheet. Entered: thirty-four, the same figure as the thirtieth of September, and ninety days of nothing.*
 

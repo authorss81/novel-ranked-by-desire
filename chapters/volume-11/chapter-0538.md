@@ -8,8 +8,6 @@ Not one of the four hundred carries a figure. There is a street and an hour and 
 
 And not one of the four hundred is him.
 
-## What He Did With Them
-
 He read all four hundred straight through without stopping and without going back, and he did not turn one of them round to see what was on the other side of it, and it took him about an hour and a half and she sat at the other end of the table and let him.
 
 "You have never read them."
@@ -28,13 +26,13 @@ He read all four hundred straight through without stopping and without going bac
 
 ## Four Of Them He Asked Her About
 
-He asked her about four of the four hundred while he was still reading, and she answered about two of them.
+He asked her about four of the four hundred while he was still reading, and she answered two of them.
 
 *The twelfth of the second month, four in the morning. On the corner by the chandler's. The lamps in this street go on at about eleven different times and the street is safe because of it, and everybody on it knows that and not one of them could put it in a book.*
 
 *Twenty-second of the third month, half past six. Off the yard end. A man has walked the same eleven hundred paces every morning for nine years and he has started stopping nine paces short of where he used to and he could not tell you why and neither could his wife.*
 
-*Nineteenth of the fourth month, about eight in the morning. Two streets. Two sisters who have not spoken to each other in about two years have both said the same sentence to this street inside a week, word for word, and they have each said it to me and neither of them knows the other one said it.*
+*Nineteenth of the fourth month, about eight in the morning. Two streets. Two sisters who have not spoken to each other in two years have both said the same sentence to this street inside a week, word for word, and they have each said it to me and neither of them knows the other one said it.*
 
 "Sixth of the fourth month, about four in the afternoon. Off the yard end. A baker has not asked any of his customers for anything for four years and about nine of them have tried and he has said no to all of them and the shop has not been late once."
 
@@ -45,8 +43,6 @@ He asked her about four of the four hundred while he was still reading, and she 
 "You wrote it down and then decided nobody else should ever have it."
 
 "I wrote down what I was asked to write down and I went back on my own time and I have not asked them a second question," she said. "There is a line between those two things and I know where it is to the pace and I have known it since about the fourth year."
-
-## What He Wanted
 
 He had come for nineteen.
 
@@ -76,7 +72,7 @@ He asked her for it properly.
 
 "Then it is a failure."
 
-"Then it is a division going to four streets where nobody has ever walked and hearing about four streets it has never heard," she said. "You will get that by about the ninth of June."
+"Then it is a division going to four streets where nobody has ever walked and hearing about four streets it has never heard," she said. "You will get that by the ninth of June."
 
 ## What It Cost To Get Nineteen
 
@@ -94,17 +90,15 @@ She did not move either.
 
 ## The Nineteenth
 
-He read those nineteen on the twenty-eighth of April at about eleven at night at the top of the third flight, on a separate sheet, and the first eighteen were about streets and hours and the ordinary weather of being looked at.
+He read those nineteen on the twenty-eighth of April at eleven at night at the top of the third flight, on a separate sheet, and the first eighteen were streets and hours and the ordinary weather of being looked at.
 
 The nineteenth is this.
 
-*The fourteenth of April, about six in the evening. Off the yard end. A man carries a chair up the outside stair of a building every morning and puts it on a landing outside a door and does not knock, and goes down again, and has done it every morning for about eleven weeks. Four people on that landing have asked him. He says the chair is not for them. Nobody has established what it is for. He does not know what it is for.*
+*The fourteenth of April, six in the evening. Off the yard end. A man carries a chair up the outside stair of a building every morning and puts it on a landing outside a door and does not knock, and goes down again, and has done it every morning for about eleven weeks. Four people on that landing have asked him. He says the chair is not for them. Nobody has established what it is for. He does not know what it is for.*
 
 It is a true line. It is in the correct language. It has a time against it and no figure on it, and nothing whatever sits behind it that anybody could check, and there is a man on a landing in this city carrying a chair up a stair every morning for eleven weeks for a reason he does not have.
 
 And there is not one word on that sheet that anybody reading it in four years could attach to a name.
-
-## Four Hundred And Nineteen
 
 Three pages and one page is four hundred and nineteen, and a hundred of the lines on the third page have a time against them and a street and about nine words.
 
@@ -124,7 +118,7 @@ She wrote the total on the corner of the bottom page in the small level hand she
 
 "I am telling you that I have not stopped noticing," said Beatrix Halm. "There are going to be more of them and I am not going to keep telling you about it."
 
-## What He Wrote At Four In The Morning
+## What He Wrote Down
 
 He wrote it up on the twenty-fifth at the top of the third flight with the bin room open behind him.
 

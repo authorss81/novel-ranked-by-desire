@@ -14,8 +14,6 @@ He is the officer of a Bureau division and he has been for about nineteen years,
 
 "It is not fair, it is a fact, and I want it in the room anyway," said Halvard Senn. "Say nothing back to it."
 
-## What He Said He Was Going To Say
-
 "I have got about nine minutes of it arranged and I am going to say it in order and then I am going to leave, and I am not going to take a question, and if you want to answer me you will have to do it into a room."
 
 He took a hand's width of paper out of the satchel and put it on the table face down.
@@ -24,7 +22,7 @@ He took a hand's width of paper out of the satchel and put it on the table face 
 
 "Nine divisions."
 
-"Nine divisions of nine, which is about eighty-one people, and about nine hundred doors between them, and every division that went out did it because a division handed a line has to go and find out what the line is a line about." He turned his head slightly.
+"Nine divisions of nine, which is eighty-one people, and nine hundred doors between them, and every division that went out did it because a division handed a line has to go and find out what the line is a line about." He turned his head slightly.
 
 "You asked for one. I know what you asked for. I have the paper you wrote on it and it says *one division*, in your hand, on a piece of a tally board, and it is the correct request and it is what happened to me."
 
@@ -46,7 +44,7 @@ He put a finger on the paper and did not turn it over.
 
 ## What Asking For It Was, From Inside The Machine
 
-"On the ninth of April," he said, "a division knocked at a door in a street off the yard end. A woman answered who had lived there about nine years and said that nobody had ever knocked at that door. She asked them to come back. They went back nine days later and there were four people standing on that landing by the second visit, because a street is about four seconds long and a stranger on a step is the only news anybody has had in nine years."
+"On the ninth of April," he said, "a division knocked at a door in a street off the yard end. A woman answered who had lived there nine years and said that nobody had ever knocked at that door. She asked them to come back. They went back nine days later and there were four people standing on that landing by the second visit, because a street is about four seconds long and a stranger on a step is the only news anybody has had in nine years."
 
 He picked the paper up off the table and kept it.
 
@@ -78,8 +76,6 @@ He picked the paper up off the table and kept it.
 
 "That is the part you will not let me answer," he said, "because you would answer it with something about how it was difficult for you to write the request, and it was not, it took nine seconds, and I read it off a satchel to tell you that it took nine seconds."
 
-## The Part Where He Was Not Going To Answer
-
 Lin Hao had three answers in him and he got about nine words into the first one.
 
 "You did not have to—"
@@ -92,7 +88,7 @@ Lin Hao had three answers in him and he got about nine words into the first one.
 
 "That is not what—"
 
-"I told you before I started that I was not going to take a question," said Halvard Senn. "I have been a Bureau officer for about nineteen years and I have watched about nine hundred men explain themselves to a rank-one officer with no instrument in his coat, and every one of them was doing it for himself and not for the person in front of him, and you are not going to be different, and I have known that since you wrote your name on the bottom of it."
+"I told you before I started that I was not going to take a question," said Halvard Senn. "I have been a Bureau officer nineteen years and I have watched nine hundred men explain themselves to a rank-one officer with no instrument in his coat, and every one of them was doing it for himself and not for the person in front of him, and you are not going to be different, and I have known that since you wrote your name on the bottom of it."
 
 He got up and picked the satchel off the floor.
 
@@ -108,7 +104,7 @@ He was at the door.
 
 At four on the thirtieth of June the sheet went out with an address at the head of every line and *Entered: eight hundred and forty-one*.
 
-Thirty-nine on the thirtieth of March. Eight hundred and forty-one on the thirtieth of June. About two hundred people a week in Cordwain read both, and the first is a figure about deeds and the second is a figure about ninety days of about eighty-one people standing on steps, and they are on one page in one hand under one heading.
+Thirty-nine on the thirtieth of March. Eight hundred and forty-one on the thirtieth of June. Two hundred people a week in Cordwain read both, and the first is a figure about deeds and the second is a figure about ninety days of about eighty-one people standing on steps, and they are on one page in one hand under one heading.
 
 And after the figure, two columns. The first with eight hundred and forty-one lines against it. The second headed *carried by*, ruled, and empty.
 
@@ -118,7 +114,7 @@ A woman told a clerk in a counting room two floors under a sales floor, in the q
 
 She has been right about it for four quarters and the column is doing nothing at all.
 
-## What He Wrote At Four In The Morning
+## Eight Hundred And Forty-One
 
 *Thirtieth of June of the fourth year. A man in one of the two chairs, ninety days, nine divisions, about eighty-one people, eight hundred and forty-one doors with something at them.*
 

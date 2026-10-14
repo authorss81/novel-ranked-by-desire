@@ -6,11 +6,11 @@ There were about nine hundred and ten people between him and the top of it and t
 
 He did not pay a grain.
 
-He stood at the head of it, which is where a man stands if he is not going into it, and he stayed from about ten past six until about ten.
+He stood at the head of it, which is where a man stands if he is not going into it, and he stayed from ten past six until ten.
 
 ## What Was On The Slate
 
-The figure was at the top of the column in chalk in letters about the height of a name on a plate, and there had been about two hundred and ten mornings of it, and about a hundred and sixty people went past it every morning whether they read it or not.
+The figure was at the top of the column in chalk in letters about the height of a name on a plate, and there had been two hundred and ten mornings of it, and about a hundred and sixty people went past it every morning whether they read it or not.
 
 He had been in this lane four times in four years and had paid on one of them, on the fourth of April of the first year, and had had a name and a nine written beside it, and he had never come back, and Emil Brack had said out loud in the April of the third year that he had wondered about it every day since.
 
@@ -22,11 +22,11 @@ Brack wrote nine names down. He wrote them the way he writes them, which is fast
 
 ## The Nine She Sent
 
-They came in over about the next half hour, in ones and twos, and every one of them stopped when they got to the stools.
+They came in over the next half hour, in ones and twos, and every one of them stopped when they got to the stools.
 
 Not one of them knew they were going to be counted.
 
-That was the thing he had not been ready for and it took him about nine minutes to be certain of. A person who has come to be counted arrives looking at the chalk. These nine arrived looking at the woman who had sent them, and they stood where she had told them to stand, and when Brack put them in the column at about ten to eight they went into it the way people go into a queue for bread.
+That was the thing he had not been ready for and it took him nine minutes to be certain of. A person who has come to be counted arrives looking at the chalk. These nine arrived looking at the woman who had sent them, and they stood where she had told them to stand, and when Brack put them in the column at about ten to eight they went into it the way people go into a queue for bread.
 
 "She sent you."
 
@@ -42,19 +42,17 @@ That was the thing he had not been ready for and it took him about nine minutes 
 
 The woman at the wall end had a name on her face before he had asked for it. Hester Vane, and she kept four rooms off a street four streets off this one, and she had known exactly what she wanted when she put the grains down at a quarter past seven in the morning.
 
-## What The Figure Did
-
-He watched the column from about eight until about ten and the number went up by nine and the nine were the last nine and nothing else happened.
+He watched the column from eight until ten and the number went up by nine and the nine were the last nine and nothing else happened.
 
 That is the whole of what a slate does and he had argued for two years that this was the city's second instrument and he had been arguing about it as though a figure were a reading of something.
 
 It was not a reading of anything. It was a sum, and it went up by whatever anybody put into it, and whether the person in the line had done anything was not an input.
 
-He had spent two years believing that a figure in a public street was a way of asking a question nobody had asked. What he was watching at about a quarter to nine in the morning was a way of paying for an answer.
+He had spent two years believing that a figure in a public street was a way of asking a question nobody had asked. What he was watching at a quarter to nine in the morning was a way of paying for an answer.
 
 ## What Brack Believed, And What It Cost Her
 
-He asked Brack about her at about half past eight, at the wall end, while the line was still going in.
+He asked Brack about her at half past eight, at the wall end, while the line was still going in.
 
 "You wrote her in at ten to eight."
 
@@ -62,7 +60,7 @@ He asked Brack about her at about half past eight, at the wall end, while the li
 
 "In the column with the figures."
 
-"In the column with the figures, and in the order they came, and she would have gone last if she had not been early. I do not know her name and I did not ask it, because in about two years and three months not one person has asked me for a name and then not asked me for anything else."
+"In the column with the figures, and in the order they came, and she would have gone last if she had not been early. I do not know her name and I did not ask it, because in two years and three months not one person has asked me for a name and then not asked me for anything else."
 
 "What was she, in the column."
 
@@ -78,7 +76,7 @@ He asked Brack about her at about half past eight, at the wall end, while the li
 
 ## What Happens To A Person Who Is On A Figure
 
-He asked it again at about nine, and Brack had the chalk down and was dusting it on his coat, which he did about four times a morning.
+He asked it again at nine, and Brack had the chalk down and was dusting it on his coat, which he did four times a morning.
 
 "What happens to a person who is on that."
 
@@ -86,21 +84,21 @@ He asked it again at about nine, and Brack had the chalk down and was dusting it
 
 "That is not an answer, that is the absence of one."
 
-"It is the correct one, and I have given it to about nine hundred and ten people a morning for about two years and three months." He put the chalk in the delivery coat. "No room, no hearing, no book. A mark of chalk on a wall and a figure with your mark inside it, and that is what a mark is."
+"It is the correct one, and I have given it to nine hundred and ten people a morning for two years and three months." He put the chalk in the delivery coat. "No room, no hearing, no book. A mark of chalk on a wall and a figure with your mark inside it, and that is what a mark is."
 
 "You do not think it is wrong."
 
-"I think it is a figure about a street, and I have said on about a thousand mornings that it is the best figure about that street anybody in Cordwain has got." He turned round. "What I think is that a city with two of these and no rule about which one wins is going to find out what a street is worth from whoever is willing to put people in a line."
+"I think it is a figure of a street, and I have said on a thousand mornings or more that it is the best figure of that street anybody in Cordwain has got." He turned round. "What I think is that a city with two of these and no rule about which one wins is going to find out what a street is worth from whoever is willing to put people in a line."
 
 ## The One He Wanted
 
-He went up the hill with about two hours of it left in his legs and got to the counter off a third court at about eleven and stood in the corridor with the ratchet on the wall four feet up and did not read it, because it was not a working morning for it.
+He went up the hill with two hours of it left in his legs and got to the counter off a third court at eleven and stood in the corridor with the ratchet on the wall four feet up and did not read it, because it was not a working morning for it.
 
 Yusuf Adeyemi was in the room with the two chairs in it and had the sheet of the thirtieth of September rolled up in his hand with the address at the head of every line and the second column ruled and empty.
 
 "How many this morning," said Adeyemi.
 
-"Ten in the morning at about half past five and about a hundred and sixty past the wall and four of the five stools out," said Lin Hao. "Nine of them between a quarter past seven and ten to eight, and every one of the nine put there by a woman with nine grains."
+"Ten in the morning at half past five and a hundred and sixty past the wall and four of the five stools out," said Lin Hao. "Nine of them between a quarter past seven and ten to eight, and every one of the nine put there by a woman with nine grains."
 
 "And the figure."
 
@@ -118,9 +116,9 @@ Adeyemi put the sheet down on the table.
 
 "I wanted a person who could tell me what happens to a name when it is on a figure," said Lin Hao. "That person does not exist. I have spent four hours finding out, and a woman who is owed eleven days is now standing inside a number that says what a street four streets off this one is worth, and the number went up because she was owed."
 
-## What He Wrote At Four In The Morning
+## Four In The Morning
 
-He wrote it up at the top of the third flight with the bin room open behind him and the cough taking about nine seconds to go.
+He wrote it up at the top of the third flight with the bin room open behind him and the cough taking nine seconds to go.
 
 *First of October of the third year. Stool and slate. About two hundred and ten mornings of a figure, about a hundred and sixty past the wall a morning.*
 
@@ -130,8 +128,8 @@ He wrote it up at the top of the third flight with the bin room open behind him 
 
 Then, lower down, after a gap, because the rule was that a count is only a count if it is written at the time it is counted:
 
-*Three years is thirty-six months of thirty days, which is one thousand and eighty days. This morning is two days short of the fifth anniversary of a stool put in a lane, because the first morning was the third of October and this is the first of October, and one thousand and eighty less two is one thousand and seventy-eight, and counting the first morning as the first, that is one thousand and seventy-nine mornings behind that wall.*
+*Three years is thirty-six months of thirty days, which is one thousand and eighty days. This morning is two days short of the third anniversary of a stool put in a lane, because the first morning was the third of October and this is the first of October, and one thousand and eighty less two is one thousand and seventy-eight, and counting the first morning as the first, that is one thousand and seventy-nine mornings behind that wall.*
 
-He did not write the two words that went under the column every morning because they went under it about ten thousand times a year and were never his.
+He did not write the two words that went under the column every morning because they went under it ten thousand times a year and were never his.
 
-At about nine minutes to five the counter on the wall in the corridor turned over to nine hundred and forty, and that was a morning of nothing in particular except that somebody had walked past a door, and nobody in the building read it on the first of October because Adeyemi reads it on the second.
+At nine minutes to five the counter on the wall in the corridor turned over to nine hundred and forty, and that was a morning of nothing in particular except that somebody had walked past a door, and nobody in the building read it on the first of October because Adeyemi reads it on the second.

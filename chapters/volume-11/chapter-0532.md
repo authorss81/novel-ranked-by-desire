@@ -42,8 +42,6 @@ Nell Ardin put both hands flat on the counter, which is what everybody does at t
 
 Margit Roon wrote nothing, which is what the clerk at that counter does when she has been given nothing.
 
-## Why The Rule Is A Good One
-
 "I am going to tell you the reason, and then you are going to go, because people hear the word *no* and stop listening and there are only about four minutes in it."
 
 She turned the book round on the counter so that Nell Ardin could see the page.
@@ -86,8 +84,6 @@ Margit Roon put her pen down flat, which she did about twice a day.
 
 "There is a figure on a wall in this city that went up on the morning you were standing in it, and it cannot be checked, and this counter can check anything and cannot check that, and if either of us acts we are acting on whichever of the two we happen to prefer, and I have not got the standing to prefer and neither have you."
 
-## What She Wrote Instead
-
 A clerk at that counter has one line and she may add it to what goes out at four, and she cannot improve what she is given and cannot go and get it.
 
 "I cannot do one other thing with you today," said Margit Roon. "Come back on the twenty-seventh of the month if you have anybody at all, and if you have not, then come back on the twenty-seventh anyway and I will write that you came back and I had nothing to give you, because a line with a name on it is worth more than a refusal with a face on it."
@@ -95,8 +91,6 @@ A clerk at that counter has one line and she may add it to what goes out at four
 She wrote it the way she writes everything on that counter, which is fast and without lifting the pen, and she turned the page round and read it once and did not read it twice.
 
 "That is a quarter of a page and it is three sentences and I have put a woman's name on a thing that goes up at four with the street written across the top of every line, and it is not the Register's sheet and it has never been the Register's sheet, and this counter was writing pages like this before the Register had a room."
-
-## What He Came To Find Out
 
 He had come in at eleven to find out what his own sentence had done to this counter, and it had done nothing to this counter, and that was the finding and he had to stand by a door with it for about forty minutes.
 

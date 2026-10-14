@@ -1,6 +1,6 @@
 # The Roof And The Division
 
-The car shed off Ferrier Street has a roof about forty feet by nineteen and a ladder up the north end that a woman who has been up it twice can get up in about eleven seconds.
+The car shed off Ferrier Street has a roof about forty feet by nineteen and a ladder up the north end that a woman who has been up it twice gets up in eleven seconds.
 
 He had never been up it.
 
@@ -8,13 +8,11 @@ She was on the north side at about ten to five in the morning of the twentieth o
 
 "Take your left side," she said. "If you talk into that ear I will not hear you and I am not going to pretend to."
 
-He moved round to where the wind was behind her and about eleven inches off her shoulder, and the wind dropped about nine degrees at that distance and the sentence came whole.
+He moved round to where the wind was behind her and eleven inches off her shoulder, and the wind dropped nine degrees at that distance and the sentence came whole.
 
-Below them the shed was doing what it does between four and five. A car came out of the north bay at about a quarter past four and went down the incline on its own weight, and she did not look at it, and there was a noise coming up through the boards that was neither the wind nor the line and was about a hundred people moving steel.
+Below them the shed was doing what it does between four and five. A car came out of the north bay at a quarter past four and went down the incline on its own weight, and she did not look at it, and there was a noise coming up through the boards that was neither the wind nor the line and was about a hundred people moving steel.
 
 He had been on a roof with her once before, at the end of a shift, four years ago, and had been given something for nothing, and he had not spent a day of the four since thinking about how that had been arranged.
-
-## The Nine
 
 "Nine of us," she said, sitting down on the boards with her back against the ventilating housing and her knees up, and he sat down about two feet off with the wind on him.
 
@@ -60,7 +58,7 @@ She got up off the housing.
 
 "So I am going to ask you for it, because nobody in this city is going to and I am not going to wait for a man to find the words."
 
-The wind took the first two words of what she said next and he got them out of her shoulder nine inches from her left ear.
+The wind took the first two words of what she said next and he got them out of her shoulder eleven inches from her left ear.
 
 "I have a division of nine and a district of about nine hundred doors and the only machine in Ostara that can find out what people felt, and I am not going to give it to an office off a third court for a sheet of paper you wrote at a table in a room I was not in."
 
@@ -74,49 +72,59 @@ She came across the boards and got down on the north side of him with her knees 
 
 He asked her for it.
 
-He got a hand behind her and she came down onto him without a sound and the shed boards went cold underneath her back and she took his face in both hands and made him put his mouth where she could hear it, and told him once, in words she had to shout over the line, that if he apologised for anything in the next four minutes she was going to stop.
-
 ## What He Spent Her On
 
-She was colder than he was and warmer than the roof and she got her own coat open and gave him the front of her and then took his hands off it and put them somewhere she had decided on without telling him, which was the whole of the arrangement and not a word of it was said.
+She got the front of her coat open with one hand and worked her right arm out of the sleeve and pushed the coat behind her without a word, and then she came down onto him without a sound and the boards went cold underneath her back through the back of his coat. She took his face in both hands and turned it away from the wind, to her left.
 
-"Slower," she said. "You are going to want to be quick and I am nine years on a round and I know exactly how long it takes a man to stop wanting that."
+She made him put his mouth where she could feel it against her jaw and hold it there while she got her breath in and out twice.
 
-He was slower. She made him put his mouth on her throat and hold it there until her breathing changed under his lips, and then along the line of her collarbone, and then she took hold of the back of his head and moved him, because she had decided where it went and he was not in the room where the decisions were made.
+"If you are sorry about anything in the next four minutes I am going to stop," she said over his ear, into the gap under her cheekbone. "That is not a threat. That is the price."
 
-Her hip came down against the edge of the housing and she laughed about nine seconds before he got there and did not stop laughing for about nine seconds afterwards, which he had not expected and did not ask about.
+The other arm came out of the sleeve and the coat ended up under both of them and stayed there.
 
-They got her coat off one arm and it stayed on the other and the wind came under the boards and up through her and she did not flinch at it. She was colder along her ribs and warmer between them and he learned where that was in about a minute and she let him learn it the whole way rather than telling him.
+She was colder than he was and warmer than the roof. Her ribs under his palm were the coldest part of her and the strip between them was not cold at all, and when his hand went back and found it the second time she let him find it by himself and did not help him, and watched his face while he did it.
 
-The boards went with the line underneath them the whole time. About eleven minutes in she got close enough to his ear that she arrived whole, and what she said was *do not go quiet on me*, and he did not go quiet on her.
+"Slower," she said. "You are going to want to be quick, and I have been on a round for nine years, and I know exactly how long it takes a man to stop wanting that."
 
-When she came she put her mouth against his jaw and held there and breathed and he let her hold, and then she took his hand and put it flat against her thigh and left it there while she came down off him and pushed him back against the housing with her knee, and she was on him again before he had properly got his breath, and she was not careful and she was not loud and she was entirely awake throughout all of it.
+He was slower.
 
-When she came the second time she got her own hand between his legs and held him there and told him to come, and he did, and she felt all of it and did not pretend not to and neither of them said anything about the noise either side of them, which was the entire Ferrier line starting to move under the shed roof about four hundred feet away.
+She put his mouth on her throat and held the back of his head there until her breathing changed under his lips, which he could feel happen because it was the first thing on that roof to go against the line four hundred feet off. Then along the collarbone, one and then the other. Then lower, into the hollow where the cold had got into her two winters back and never entirely left.
 
-She got off him and went back three feet on her hands and knees and sat down on the upwind side out of the wind and started putting her hair back up with both hands as if it had been left alone for four years rather than eleven minutes.
+She took a fistful of his hair and moved his head from one place to the next the way a woman reads a page she has already read, and he was not in the room where any of the decisions were being made.
+
+She got her hips up off the boards once and turned over onto him, all of her weight coming down onto his chest, and she did it without help and without hurrying, and the boards went hard and cold under her back again on the other side. She opened him with the heel of her hand and took him in herself, slowly, in her own time, with her face pushed down into his collar and her breath going short and hot against his neck.
+
+Then she sat there on him without moving for long enough that the wind changed direction on the roof and came back.
+
+Her hip came down against the edge of the ventilating housing and she laughed four seconds before he got anywhere near her, and went on laughing for as long again, and he had not expected either and did not ask about it.
+
+The wind came up under the boards and through her and she did not flinch at it. She lay on a shed roof in the dark in the middle of February with her back off the boards and let him learn where she was the whole way instead of telling him, and the boards went with the line underneath them the entire time.
+
+When she came she put her mouth against his jaw and held there and breathed, and he let her hold. Then she got her hand between them and closed it on him and worked him with a kind of patience that was worse than anything else she had done that night, because she was in no hurry and she was not going to be hurried by him either.
+
+She took him over with her hand and felt all of it and did not pretend not to, and neither of them said anything about the noise either side of them, which was the entire Ferrier line starting to move under the shed roof four hundred feet away.
+
+Then she got her knee into him and pushed him back against the housing, and she was on him again before he had properly got his breath, and she was not careful and she was not loud and she was entirely awake throughout all of it.
+
+She got off him and went back three feet on her hands and knees and sat down on the upwind side out of the wind and started putting her hair back up with both hands as if it had been left alone for four years rather than for the whole of it.
 
 "Right," she said.
 
-That is all either of them said about it for about four minutes.
+That is all either of them said about it for four minutes.
 
-## What She Said Before She Said Yes, And Had Said Anyway
+## The Last Thing She Said On The Roof
 
 She waited until she could be heard, which took a while, and then she said it without looking at him.
 
 "About nine in ten of what nine hundred people tell us at nine hundred doors will not go in your book. A person at a door cannot name the day. That is not a fault in them and it is not a fault in your four lines, and it is the exact shape of what a person is when the thing they did happened while they were the only person in the room."
 
-"I know."
-
-"You know it and you are going to write a sentence that asks me to do it anyway, and when you write it you are going to think about the twenty-seventh of this month and the third of April, and I am telling you now so that you cannot tell yourself afterwards that you did not have it."
+"You know it," she said, before he had, "and you are going to write a sentence that asks me to do it anyway, and when you write it you are going to think about the twenty-seventh of this month and the third of April, and I am telling you now so that you cannot tell yourself afterwards that you did not have it."
 
 She got her coat shut.
 
 "That is not an objection. Ask me anyway."
 
 He asked her anyway.
-
-## What Was Not Said
 
 There was no part of it put into words. There was a date, and there were nine hundred doors, and there was a sheet of paper in her coat with a straight sentence on it that he had written at a table in a room she had not been in, and neither of them described it to the other one and neither of them needed to.
 
@@ -126,21 +134,19 @@ There was no part of it put into words. There was a date, and there were nine hu
 
 "That is your problem and not mine," said Beatrix Halm. "Mine is nine people and a ladder and about nine hundred addresses, and I have been thinking about them since the twenty-eighth of January and I have not slept properly since, and I am going down the ladder now, and the shed puts a car out at five, and the shedman is on the boards at a quarter to."
 
-## The Ladder And Afterwards
-
 He came down after her at about eleven seconds a rung and stood at the bottom of it in the yard with the wind coming off the shed and the whole line starting up somewhere below them.
 
 She was not cold and she was not hurried and she was not grateful and she did not thank him.
 
 "You will write it down," she said, "and you will not be able to write this, and I am not going to help you with that and it is the first thing I have ever wanted off a man in nine years."
 
-"I know."
+He did not produce anything, and she waited for it, and he did not produce it.
 
-"You do not know. You will find out on about the twenty-first of February at four in the morning," said Beatrix Halm, "and then it will be a thing in a notebook with no way to take it out, and that is the only thing I have ever wanted anybody to do."
+"You will find out on about the twenty-first of February at four in the morning," said Beatrix Halm, "and then it will be a thing in a notebook with no way to take it out, and that is the only thing I have ever wanted anybody to do."
 
 She went across the yard to the cabin without looking back and he stood at the bottom of the ladder for about four minutes and then went and did the third floor of washrooms off a third court from eleven at night until half past five.
 
-## What He Wrote At Four In The Morning
+## The Notebook
 
 *Twentieth of February of the fourth year. Roof over the car shed, north side, ten to five, wind from the west and not one gust in it.*
 
