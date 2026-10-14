@@ -8,7 +8,7 @@ Two thousand four hundred and six was the seventh of October and the fourteenth 
 
 About two hundred people a day stop where that wall meets that kerb, and about nine of them in a week get down low enough to make out the two words cut into the bottom of it.
 
-Fourteen days after the sheet went up at four on the thirtieth of September, about two hundred and eighty people came past that kerb between ten and one, and about ninety of them stood and read what was on the board, and nine knelt down at the foot of the wall, and not one of them did both.
+Fourteen days after the sheet went up at four on the thirtieth of September, about two hundred and thirty people came past that kerb in the hour before eleven, and about ninety of them stood and read what was on the board, and nine knelt down at the foot of the wall, and not one of them did both.
 
 The sentence going round the four hundred kitchens that week was not about the wall and it was not about the four inches.
 
@@ -70,7 +70,7 @@ She picked the ruler up and turned the top sheet round so it faced him.
 
 “That column is for what the sheet said on the day the copy was made,” said Perla Quist, “and it is the first thing in this city that has ever been a record of a thing being true against anything.”
 
-*Two thousand four hundred and thirteen days. Less two thousand three hundred and nine, the thirtieth of June of the seventh year, is a hundred and four days, which is three months with fourteen days after them, and the twenty-seventh sheet has been face up on a rail in a passage off Cordwain for all of them.*
+*Two thousand four hundred and thirteen days. Less two thousand three hundred and nine, the thirtieth of June of the seventh year, is a hundred and four days, which is three months with fourteen days after them, and about four hundred people in this city walked past the only copy of the twenty-seventh sheet inside the same fortnight and not one of them came near it.*
 
 *Less the ninth of November of the sixth year, two thousand and seventy-eight, is three hundred and thirty-five days, which is eleven months with five days after them, and a shutter at the far end of a yard off the Vestry has been bare for every one of them, and about two thousand people a day go past a pale rectangle at the end of a yard.*
 
@@ -84,9 +84,9 @@ He had spent nine years being the only hand in a city that could put a sentence 
 
 And there were about four hundred pieces of pencil paper in about four hundred kitchens that were one line out of date, and he could go to about four of them himself because he knew where about four of them were, and he was not going to go to any of them, and there was not one thing in this city that would let him go to four hundred.
 
-That is the shape of it and it had been the shape of it since the second of February and he had made it worse nine times in seven months and better once, in June, by standing nine feet off a wall with nothing in his hands, and about forty people in this city had said out loud that week that a sentence on that wall came from him.
+That is the shape of it and it had been the shape of it since the sixth of February and he had made it worse nine times in seven months and better once, in June, by standing nine feet off a wall with nothing in his hands, and about forty people in this city had said out loud that week that a sentence on that wall came from him.
 
-He went down a street two streets wide at about five with nothing in his hands, which is the way he goes everywhere now, and he stopped at the kerb of the hill because he had not walked past it since the seventh and because he wanted to see whether about two hundred people a day really does come.
+He went down that street at about five with nothing in his hands, and he stopped at the kerb of the hill because he had not walked past it since the seventh and because he wanted to see whether about two hundred people a day really does come.
 
 About two hundred and ten came past between five and six.
 

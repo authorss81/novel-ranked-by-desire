@@ -126,7 +126,7 @@ Tessa Okonkwo did not move.
 
 *Two thousand three hundred and seventy-five days. Less two thousand three hundred and sixty-nine, the thirtieth of August of the seventh year, is six, and six days on from the thirtieth of a month is the sixth day of the next one.*
 
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and ninety-seven days, which is nine months with twenty-seven days after them. A shutter at the far end of a yard off the Vestry has been bare for every one of them and about two thousand people a day slow down at a pale rectangle.*
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and ninety-seven days, which is nine months with twenty-seven days after them, and a board in a drawer at the end of that corridor has had a heavy line ruled across the foot of every one of its eleven columns for all of them, and there is nothing under any of them and there never has been.*
 
 *Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and fifty-seven days, which is twenty-one months with twenty-seven days after them. It is the third of four sentences at the foot of a sheet and it has been the standing rule of this room since before the room was this room.*
 

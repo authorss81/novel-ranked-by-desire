@@ -110,7 +110,7 @@ He looked at the third table and did not say anything for about nine seconds.
 
 “I have never read the two inches on any of the four hundred and nine,” said Perla Quist. “I am not going to.”
 
-“But I know that word, and I know it because about nine of the hundred and forty dates in my margin are dates a woman came to this counter on because somebody had told her to, and about nine people a week in this city are standing in a place they were sent to by somebody who has not been asked to say so.”
+“But I know that word, and I know it because about nine of the three hundred and forty dates in my margin are dates a woman came to this counter on because somebody had told her to, and about nine people a week in this city are standing in a place they were sent to by somebody who has not been asked to say so.”
 
 She closed the book and squared it against the edge of the second table.
 

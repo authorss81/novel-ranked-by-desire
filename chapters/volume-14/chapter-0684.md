@@ -4,9 +4,9 @@ He went in with the list on the back of his hand again, and this time he had bee
 
 Two thousand three hundred and seventy-five was the sixth of September and the twelfth is day two thousand three hundred and eighty-one, and two thousand three hundred and eighty-one less two thousand three hundred and seventy-five is six, and twelve less six is six by the month count.
 
-## Eleven Days
+## Eighteen Days
 
-He had eleven days left and he had thought about it for six of them and had not improved a word.
+He had eighteen days left and he had thought about it for six of them and had not improved a word.
 
 The date was the thirtieth of September at about half past two, and the twenty-seventh sheet would be squared to the edge of the table at that hour and signed for and folded into eight and carried down two floors by the woman who had entered it, and there was no arrangement by which he could do it for her.
 

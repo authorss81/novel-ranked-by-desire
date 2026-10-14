@@ -34,7 +34,7 @@ Every one of them was the foot of a sheet written out longhand by somebody who c
 
 Not one of them had been wrong.
 
-That was the thing. For seven months, from the ninth of January to the thirtieth of September, four hundred copies of the foot of the most widely read page in Ostara had been the foot of it, in nine hundred different hands, and not one of them had been out of date, because the foot of that page had not changed since the ninth of November of the fifth year.
+That was the thing. For seven months, from the ninth of January to the thirtieth of September, four hundred copies of the foot of the most widely read page in Ostara had been the foot of it, and about nine hundred people could read every line of any of them, and not one of them had been out of date, because the foot of that page had not changed since the ninth of November of the fifth year.
 
 On the afternoon of the thirtieth of September, three lines in the second column went up on a rail at four in a passage, and about four hundred copies of that page were one line short.
 

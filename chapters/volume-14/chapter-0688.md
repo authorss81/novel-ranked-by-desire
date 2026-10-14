@@ -2,7 +2,7 @@
 
 He went up the hill at about ten in the morning for the fourth time since the twenty-fourth of July and the thing he went up for had changed on the thirtieth of September without asking him.
 
-*Two thousand three hundred and ninety-nine was the thirtieth of September and the seventh day of October is day two thousand four hundred and six, and two thousand four hundred and six less two thousand three hundred and ninety-nine is seven, and the thirtieth stops the month and seven days on from it is the seventh day of the next one, and there is no thirty-first in this city to stop it earlier.*
+Two thousand three hundred and ninety-nine was the thirtieth of September and the seventh day of October is day two thousand four hundred and six, and two thousand four hundred and six less two thousand three hundred and ninety-nine is seven, and the thirtieth stops the month and seven days on from it is the seventh day of the next one, and there is no thirty-first in this city to stop it earlier.
 
 ## The Boy Was Right About The Month
 

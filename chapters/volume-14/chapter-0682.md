@@ -102,7 +102,7 @@ He held up two fingers.
 
 “The fourth is that an entry with nothing at the foot of it is a receipt, and a receipt is about paper,” said Yusuf Adeyemi. “It is the safest kind of entry there is and it does you no harm at all, and I want you to sit with that for a minute before you go down the stair.”
 
-“In about four years a man is going to stand at a counter and ask what this office ever did with four hundred and nine pieces of paper, and the answer will be on that line in a clerk’s hand, and it will be *we were given them, here is the number, none of them is a deed*, and that will be true.”
+“In about four years somebody will be standing at a counter in this city asking what became of four hundred and nine pieces of paper that a man carried up four flights in two cardboard boxes, and the answer will be on that line in a clerk’s hand, and it will be *we were given them, here is the number, none of them is a deed*, and that will be true.”
 
 “It will be the truest answer anybody in this city has ever been given about anything, and not one person in this city will be able to point at it and say whose idea it was.”
 

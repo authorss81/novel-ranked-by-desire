@@ -1,6 +1,6 @@
 # An Entry Cannot Be Taken Back
 
-There was a thing he had been carrying since the twelfth of September and he had written it out nine times and he had understood the whole of it at about eleven o’clock that morning, which was four hours before he went down the stair with it.
+There was a thing he had been carrying since the twelfth of September and he had written it out nine times and he had understood the whole of it at about eleven o’clock that morning, which was more than four hours before he walked in with it.
 
 Two thousand four hundred and thirteen was the fourteenth of October and the twenty-first is day two thousand four hundred and twenty, and two thousand four hundred and twenty less two thousand four hundred and thirteen is seven, and twenty-one less fourteen is seven by the month count.
 
@@ -102,7 +102,7 @@ He put the pen down.
 
 *Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is seven hundred and two days, which is twenty-three months with twelve days after them. It is the morning he wrote the four sentences in his own hand and put a name under them, and about four hundred kitchens in this city have the foot of that page written out in a hand that is not his.*
 
-*Neither of the two figures above is the one that stands in the last footer of the twenty-fourth sheet, which was measured from that other November and was right then.*
+*Neither of the two ninths of November above is the one that stands in the last footer of the twenty-fourth sheet, and that one was measured from a third November and was right then.*
 
 ## Nine O’Clock Down The Stair
 

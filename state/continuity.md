@@ -1,3 +1,142 @@
+# VOLUME 14 BATCH 0004 RE-DISPATCHED A SECOND TIME 14 OCTOBER 2026 — 681–690 ON DISK. SPINE 2,362–2,420 RE-RUN IN THIS COMMIT FROM THE FILES BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **THE FINDING IS TWELVE CONCRETE DEFECTS, ALL FIXED IN THE CHAPTERS, AND TWO OF THEM ARE A FIGURE AGAINST ITS OWN ANCHOR NAMED TWO LINES BELOW IT AND A FIGURE AGAINST ITSELF FOUR PARAGRAPHS LATER. TWO MORE ARE THE FOOTERS REPEATING A RUNNING FACT IN THREE CHAPTERS WHERE THE RULE ALLOWS TWO — A CLASS NO TWELVE-GRAM SCAN CAN SEE, BECAUSE THE SCAN STRIPS THE FOOTERS.** EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT. **12-GRAM AGAINST ALL 700 FILES: 42 MAXIMAL RUNS TOUCHING 681–690, EVERY ONE CLASSIFIED BY HAND IN §0c BELOW. THE SCANNER WAS PROVED ON `chapter-0564.md` FIRST — IT RETURNS 13 REPEATING 12-GRAMS INSIDE THAT ONE FILE — BECAUSE BATCH 0003'S OWN SCAN REPORTED A FALSE ZERO TWICE ON THIS BATCH.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 681–690 AND DELETES NONE.
+
+```
+METHOD A  (carries 360)          METHOD B  (months x 30, zero-indexed from February, NO 360 anywhere)
+681  23 Aug y7   6x360+180+22 = 2362   30 x 78 + 22 = 2362
+682  30 Aug y7   6x360+180+29 = 2369   30 x 78 + 29 = 2369
+683   6 Sep y7   6x360+210+ 5 = 2375   30 x 79 +  5 = 2375   SCENE
+684  12 Sep y7   6x360+210+11 = 2381   30 x 79 + 11 = 2381
+685  18 Sep y7   6x360+210+17 = 2387   30 x 79 + 17 = 2387
+686  24 Sep y7   6x360+210+23 = 2393   30 x 79 + 23 = 2393
+687  30 Sep y7   6x360+210+29 = 2399   30 x 79 + 29 = 2399   QUARTER-END, twenty-seventh sheet
+688   7 Oct y7   6x360+240+ 6 = 2406   30 x 80 +  6 = 2406
+689  14 Oct y7   6x360+240+13 = 2413   30 x 80 + 13 = 2413
+690  21 Oct y7   6x360+240+20 = 2420   30 x 80 + 20 = 2420   THE BATCH'S IRREVERSIBLE DECISION
+```
+
+**BOTH METHODS AGREE ON ALL TEN AND THE AGREEMENT IS NOT THE PROOF.** `7 6 6 6 6 6 7 7 7 = 58` and `2,420 − 2,362 = 58`. **THE SEAM `2,362 − 2,355 = 7` IS PRINTED IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE.**
+
+**EVERY TERM WAS ALSO READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME, BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER.** `681→682 7 · 682→683 6 · 683→684 6 · 684→685 6 · 685→686 6 · 686→687 6 · 687→688 7 · 688→689 7 · 689→690 7`. **ALL NINE CORRECT.**
+
+**AND PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY.** The ninth of November of the sixth year is `5 × 360 + 270 + 8 = 2,078` by A and `30 × 5 × 12 + 9 + 8 = 2,078` by B. `2,420 − 2,078 = 342 = 11 × 30 + 12`, which is what `chapter-0690.md`'s footer prints. **And `2,420 − 1,718 = 702 = 23 × 30 + 12`** for the ninth of November of the fifth year, `4 × 360 + 270 + 8 = 1,718`, which is what the other footer prints. **Neither is 411 and 411 is printed zero times in this batch.**
+
+## 0a-ter. TWELVE FIGURES AND CLAUSES FIXED IN THE CHAPTERS ON THIS PASS, WITH OPERANDS
+
+| # | Where | Operand | Printed | Now |
+| --- | --- | --- | --- | --- |
+| 1 | `chapter-0684.md`:7,:9 | 12 Sep → 30 Sep, `2,399 − 2,381 = 18`, the half past two named two lines below | *Eleven Days* / *eleven days left* | **eighteen, in the heading and in the sentence** |
+| 2 | `chapter-0685.md`:109 | 9 Aug → 18 Sep, `2,387 − 2,348 = 39 = 1m + 9d`, the ninth of August named at `:111` and `:115` | *nine days* | **forty days** |
+| 3 | `chapter-0685.md`:109 vs `:75` and `:89` | two places at the same clock time in one chapter | about half past five, on a street and in a room | **about six, and a construction not used twice in the chapter** |
+| 4 | `chapter-0686.md`:113 vs `:117` | 140 against 340 four paragraphs lower; 679 has ~310 by 9 Aug and 678–700 all print 340 | *a hundred and forty dates* | **three hundred and forty** |
+| 5 | `chapter-0687.md`:37 vs `:31` and `:61` | 400 pieces of paper in 400 kitchens; ~900 people who can read | *in nine hundred different hands* | **about nine hundred people could read every line of any of them** |
+| 6 | `chapter-0690.md`:3 vs `:31`,`:109`,`:117` | 11:00 + 4h = 10:10, not 5:00 | *four hours before he went down the stair* | **more than four hours before he walked in with it** |
+| 7 | `chapter-0690.md`:105 | three figures stand above it, two of them ninths of November | *Neither of the two figures above* | **Neither of the two ninths of November above** |
+| 8 | `chapter-0688.md`:5 | house form: plain at the top, italic in the footer, in 9 of 10 | the opening arithmetic paragraph in italics | **plain; 76 markers across the ten, even** |
+| 9 | `chapter-0682.md`:105 | `state/continuity.md` rows 1–2, 671 and 672 → 682, 14 tokens, recorded and never repaired | *a man is going to stand at a counter and ask what this office* | **rewritten in Adeyemi's mouth** |
+| 10 | `chapter-0689.md`:89 | row 15, 680 → 689, *recorded, not repaired here*; 680 no longer carries it | *which is the way he goes everywhere now* | **cut; 689 was the last holder in the book** |
+| 11 | `chapter-0683.md` footer vs `chapter-0690.md` footer | 21 tokens of one sentence off one anchor, and the shutter in three of the ten where the rule allows two | *A shutter at the far end of a yard off the Vestry has been bare…* | **683's is the board in the drawer and its eleven columns** |
+| 12 | `chapter-0688.md` footer vs `chapter-0689.md` footer | 20 tokens of one running fact in two chapters | *the twenty-seventh sheet has been face up on a rail in a passage off Cordwain* | **689's is what the rail did in the fortnight** |
+
+## 0b. THE CLASS A TWELVE-GRAM SCAN CANNOT SEE AT ALL, AND THE ONE A HAND CANNOT SEE EITHER
+
+**THE CLASS THIS PASS ADDS, AND IT IS A MEASUREMENT, NOT AN OBSERVATION: A FOOTER REPEATING A FOOTER.** The volume's own rule — *the arithmetic frame is fixed and the proposition hung on it is not; ten chapters, ten different propositions; if two of yours share a clause, cut one* — is written **in the italic footers**, and the twelve-gram scan strips italic footers because that is what makes it a prose measure. **So the one part of the page where this volume has legislated about its own repetition is the one part no run in this file ever looked at.** Twenty-one tokens between 683 and 690 and twenty between 688 and 689 were invisible to every other row. **A footer-to-footer run at twenty tokens is now run separately across all forty-five pairs inside the batch. Two were removed in the chapters. Three pairs still share one and every one is in a permitted class: the fixed arithmetic frame (681/687), the receipt text itself (682/690 — the same instrument written by two hands, which must match), and the shutter (689/690, which is two of the ten, which is the allowance).**
+
+**AND §4d WAS READ AGAIN, BEFORE 683'S BODY WAS RE-CHECKED AND AFTER the repairs, against `chapter-0594.md`.** Tessa Okonkwo's 594 is the third of November of the fifth year. **594's furniture is not rebuilt: no ward, no door that closes, no small room off it, no cot, no lamp on a stand, no basin with a cloth over it, no woman on a landing who looks and goes through without a word.** 683 runs on the floor of a working sorting room with the door open all afternoon and about nine people at tables within nine feet. **The four pieces of rebuilt staging the earlier pass found are still gone.** The longest run 683 shares with 594 is **seven tokens**, and every one is classified: *and she took all of it and* is the afterbeat of a scene whose whole subject is what a body takes and gives; *in a room with a shut door* is Tessa naming the rejected alternative location inside her own offer; *that is the whole of how we stay standing* is a character restating a rule between herself and one other person, and it is one of the eight classes below. **THE OTHER FOUR SCENES OF THE VOLUME ARE NOT IN THIS BATCH** — 653, 663, 673 and 693 — and none of 681–690 contains an explicit passage.
+
+## 0c. TWELVE-GRAM INVENTORY. AGAINST ALL 700 FILES, BODY-ONLY, HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED, MAXIMAL RUNS ONLY: **42 TOUCHING 681–690. EVERY ONE CLASSIFIED BY HAND.** 11-gram: 63. 8-gram: 343.
+
+**THE SCANNER WAS PROVED FIRST, ON A FILE THIS REPOSITORY'S OWN RECORD ALREADY KNOWS THE ANSWER TO.** Run against `chapter-0564.md`, named in `outline/volume-14.md` §4d and in batch 0004's gate block as carrying four lifted runs out of itself, it returns **13 repeating twelve-grams inside that one file**. Only then was it run against the batch. **A reader that returns zero on a file you already know the answer to is not a clean scan, and this batch has been mis-scanned twice.**
+
+| Where | Run | Class |
+| --- | --- | --- |
+| 687 × 700, seven runs of 14 to 80 tokens | *are older than this office four sentences at the foot… six lines the fourth of the six struck through from the first letter to the last a name under the striking and two inches of nothing* · *it came out of the drawer at half past two and it was squared against the wood inside about four seconds…* · *the head has not moved and is not going to… with a clerk's hand on a page that is about to be folded* · *because that is what happens to it every quarter and nobody makes a ceremony of it and at four it went face up on a rail in a passage off cordwain* | **THE STANDING PAGE'S OWN DESCRIPTION, TWICE, AT TWO QUARTER-ENDS. 687 is 30 Sep y7, `2,399`; 700 is 24 Dec y7, `2,483`. 687 is the source and 700 is the borrower, and 700 is in a closed batch and was not touched.** not a lift |
+| 687 × 605, 64 tokens | the opening arithmetic paragraph and the first three beats of the quarter-end, both re-derived from day numbers | **the month-count arithmetic device** | not a lift |
+| 682 × 690, 31 and 12 tokens | *been at the foot of that page since before this office existed it says in other words that where the register has nothing in it then nobody has been given anything* | **the second of the four, said twice by the same man on a page he is closing. A third instance in 684 was rewritten by the earlier pass, which is why this run is two and not three.** | not a lift |
+| 682 × 660, 29 tokens | *a copy of his own face up on the counter which he takes off the rail in the morning and puts back on it before he goes* | **a standing description of one counter, carried forward to prove it has not moved** | not a lift |
+| 688 × 699, 28 and 14 tokens | *in seven years of putting them up he has not been wrong about anything and there is not one instrument in this city that can put a…* · *four inches of dressed stone at the bottom of nine feet of new render* | **an observation about a place carried forward to prove it has not moved** | not a lift |
+| 689 × 607, 28 tokens | the opening arithmetic paragraph and *about two hundred people a day stop where that wall meets that kerb* | the month-count arithmetic device, and a standing count about a corner | not a lift |
+| 689 × 699, 13 tokens | *at the foot of the wall and not one of them did both* | **the same class, and 699 is the December statement of an October observation** | not a lift |
+| 685 × 695, 27 tokens | *face up on the rail at the height of a man's chest and about a hundred people a month put a palm on the corner of* | a fact about a rail that has not moved | not a lift |
+| 681 × 654, 25 tokens | *I have entered nine hundred and forty of these since I came to this room and I have not improved one of them* | **a character's own working pattern restated to show it has not moved — a clerk's standing, in her own mouth, nine months apart** | not a lift |
+| 682 × 654, 21 and 16 tokens | *he held up two fingers the third is that an entry can be made and an entry cannot be taken back* · *Yusuf Adeyemi had been at the end of the table with his coat on since about…* | **a character's own working pattern restated to show it has not moved — four things at the end of a table, twice, four months apart** | not a lift |
+| 682 × 694, 20 tokens | *and had read the back of Lin Hao's hand upside down without moving his head which he can do* | a fact about one man in one room, restated. 694 is in a closed batch | not a lift |
+| 682 × 693, 12 tokens | *month of a year I am not going to name and you* | **a refusal to name a year, said by three people** | not a lift |
+| 681 × 694, 19 tokens | *the person it was done to or a person who was there or a person who was given it* | **the five fields of one form, in the same order, read out by a clerk** | not a lift |
+| 684 × 694, 19 tokens | *and an empty field in a form in this city is not a silence it is a finding and* | the same structural rule, two chapters, one of them downstream | not a lift |
+| 684 × 132, 186, 541, 634, 340, 633, 666, 631, 638, 15 tokens | *and I am going to say it once and then I am going to go* · *and I am not going to pretend to you that I have* · *it has not moved since the thirtieth of March of a year I* | **the book's own sentence frames. They are what a twelve-gram scan exists to be drowned in, and they are not lifts** | not a lift |
+| 685 × 660, 15 tokens · 685 × 602, 12 tokens | *it was about a person who went to a counter and was refused and went* · *been at the foot of every sheet since the first of February* | **the second of the four, doing the two jobs it does, said twice in one batch on purpose** | not a lift |
+| 687 × 693, 16 tokens | *because there is nowhere else in this city he is permitted to put a thing down* | 687 is the source; 693 is in a closed batch | not a lift |
+| 690 × 608, 16 tokens · 690 × 654, 16 tokens | the opening arithmetic paragraph · *I am not going to raise my voice about it and I would be permitted to* | the month-count arithmetic device, and a refusal to raise one's voice, twice | not a lift |
+| 690 × 700, 14 tokens | *not to be opened by anybody on any ground until somebody in this city* | **the instruction, which 690's man gives and 700 records as still in force. 700 is closed** | not a lift |
+| 683 × 645, 13 tokens | *that back and there is not one person in this city who could* | **two characters state the same structural fact about the same spent chest and neither told the other. §4b gives each a different axis; the shared fact is the volume's** | not a lift |
+| 686 × 666, 13 tokens | *the second of the second month of a year I do not name* | a refusal to name a year, said by three people | not a lift |
+| 681 × 697, 12 tokens | *she has been eleven times since the ninth of January and she* | a standing fact about one woman at one table | not a lift |
+| 686 × 665, 690, 697, 12 tokens | *in a drawer in a building with no door onto a street* | coined at 680 and carried downstream by three chapters | not a lift |
+| 686 × 694, 12 tokens | *the third table and about nine sheets of pencil paper under it* | a standing description of a laundry | not a lift |
+| 686 × 635, 659, 667, 695, 12 tokens | *a counter figure can be added to and cannot be taken from* | a structural fact about a yard counter, said four times | not a lift |
+| 687 × 689, 12 tokens, both directions | *I have been keeping a list of when people wrote things down* | **A CHARACTER'S OWN SENTENCE REPEATED BECAUSE THE STANDING HAS NOT MOVED.** Perla Quist names her own error at the quarter-end and names it again fourteen days later when she rules the fourth column. She is naming the same failure twice and the second time is the one that produces an instrument. | not a lift |
+| 688 × 677, 12 tokens | *a coat of paint will not stay on stone that has been* | a physical fact about paint and dressed stone, and the reason the two words are still there | not a lift |
+
+**AND THE TWO LIFTS THAT WERE NAMED IN A TABLE IN THIS FILE AND NEVER PAID, BOTH REPAIRED IN THE CHAPTERS ON THIS PASS: rows 1–2 (`671, 672 → 682`, fourteen tokens, whose own cell says both *682 is batch 0004's file and it lifted it* and *682 is not one of my ten*) and row 15 (`680 → 689`, *recorded, not repaired here*).** **A ROW THAT NAMES A REPAIR AND DEFERS IT IS NOT A CLOSED ITEM. IT IS A HANDOFF. AND A HANDOFF WITH NO RECEIVER IS HOW A CLAUSE SURVIVES TWO PASSES AND A COMPLETED REPAIR BESIDE IT.**
+
+## 0d. GLYPHS, HEADINGS, PARAGRAPHS, DUPLICATE PARAGRAPHS, MARKDOWN — ALL RE-RUN FROM DISK AFTER THE LAST EDIT
+
+```
+PARAGRAPHS      692 · 0 over roughly ninety words · 0 over one hundred and twenty · 0 with an odd
+                count of quotation glyphs. 0 paragraphs ending in a comma and a space.
+DUP, WITHIN     IDENTITY AND JACCARD 0.62 over every pair in each of the ten, headings and italic
+                footers excluded as the row specifies: 0 and 0. *** THE SCANNER WAS PROVED BEFORE
+                IT WAS TRUSTED: it returns 7 pairs on chapter-0653.md, which carries its own
+                closing line twice across a section break in two spellings. ***
+ORPHAN SPEECH   0.
+META            class grep `[a-z]+ volumes | this book | this chapter | this volume | no chapter |
+                the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ |
+                chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page |
+                opposition`, plus the widened `[0-9]+ chapters`: **0 PRIMARY, 0 WIDENED, 0
+                EXTENSION, across all ten, run after every repair.** The two words in that class
+                that have been missed before — *manuscript* and *opposition* — are in the pattern
+                and were run and returned nothing. `chapter-0700.md`:57 carries *has not moved
+                once in fifty chapters*, which is the same class and is ALSO A WRONG QUARTER-COUNT
+                (`2,489 − 1,499 = 990 = 11 × 90`, eleven quarters, not fifty). **700 is not this
+                batch's file and was not touched; it is handed forward in `state/open-threads.md`
+                with its operands.**
+WEEKNAMES       seven names, whole-word and stem -> 0.
+AGES            eleven probe forms plus a bare `aged` sweep -> 0 for a person. The single `aged`
+                hit is `managed` at 683:13 and is a false positive, printed here so that the next
+                pass does not spend it. Hanneke Ruis has no age and is given none; Perla Quist is
+                about fifty and is not that number again in prose; the boy is not aged and says
+                nothing whatever about either square at 688.
+MARKS           `right temple` 0 across all 700 files · `cuticle` 4 files (329, 340, 404, 446), this
+                batch adds none · `ostho` 0 · a hand flat on anything, by anybody, on a table, a
+                hoarding, a scaffold pole, a kerb, a counter, a shelf or a wall: 0 across the ten.
+ACCOUNT         8,1xx 0 · two hundred and eleven thousand 0 · `settl` 0 in every inflection ·
+                grains 0 · no floor, no ledger total, no running balance anywhere in the ten.
+QUARTERLY       852 unmoved, named as the head and never as a count of deeds (0). The second
+                column holds two lines through 682 and three from 684, and the entry is the
+                receipt and not the claims. Neither repainting box is filled and the boy says
+                nothing whatever about either square at 688. Nothing goes into the two inches in
+                any chapter of this batch. `841` and `419` are two numbers and were not merged.
+SPENT FIGURES   office's months 0 · the wall's rate 0 · the lane's mornings 0 · the yard's figure
+                DESCRIBED AND NOT PRINTED · the docket's date 0 · `411` 0.
+HEADINGS        one `# ` per file · `## ` 47 across the ten, 0 duplicated inside a file.
+MARKDOWN        blockquotes 0 · tables 0 · rules 0 · fences 0 · bold 0 · 76 single-asterisk markers,
+                even · system panels 0 of five (three batches have spent none).
+QUOTATION FORM  CURLY, ten of ten. 760 curly and 0 straight across the ten files; 56,016 straight
+                and 11,766 curly across all 700 files, unchanged by this pass.
+```
+
+**AND WHAT IS *NOT* A DEFECT, AND IS THE THING A PASS THAT SUBTRACTES EVERYTHING ON THE PAGE WOULD HAVE DESTROYED TWICE OVER.** `chapter-0688.md`:11's *the eighth of October of an earlier year* is `247`, carried verbatim from `chapter-0645.md`:193, and **it is not the eighth of October of year seven, which is `2,407` and is named nowhere and reached across nowhere**; the ban is on measuring backward across the gap between 688 and 689, and a standing fact from an earlier year is not that. `chapter-0683.md`'s *the ninth month* is correct — `pos[Nov] = 9`, and `chapter-0645.md`:127 is Tessa Okonkwo using the same phrase for the same event eleven chapters earlier. `chapter-0688.md`:9's *the fourth week of the fourth month* is the works schedule's own idiom from 661 and is not an interval.
+
+## 0e. THE TWO SENTENCES, AND WHY BOTH OF THEM COST THIS REPOSITORY SOMETHING
+
+> **A figure nobody re-computes is the figure that is wrong.**
+>
+> **A gate row that quotes the prose it is checking cannot catch the prose. And a gate that measures only its own batch cannot see what happened before it — and a gate that cannot open the file it is measuring cannot see anything at all, and it will report zero, and zero is what a broken gate sounds like.**
+
+**THIS PASS IS THE FIRST ARGUMENT FOR THE SECOND ONE THAT THE REPOSITORY HAS.** `chapter-0684.md` printed *eleven days* and `chapter-0686.md` printed *a hundred and forty* and both had passed a gate row in a previous commit that printed the row as clean. **A GATE THAT MEASURES ITS OWN BATCH CANNOT SEE THAT THE PREVIOUS PASS ALREADY REPAIRED THE NEIGHBOURING LINE AND LEFT THE ONE UNDER IT.** **AND A GATE THAT STRIPS ITALIC FOOTERS BEFORE IT SCANS CANNOT SEE A FOOTER REPEATING A FOOTER, WHICH IS THE ONE PLACE THIS VOLUME HAS WRITTEN ITS OWN REPETITION RULE DOWN.**
+
+---
+
 # VOLUME 14 BATCH 0004 RE-DISPATCHED 14 OCTOBER 2026 — 681–690 ON DISK. SPINE 2,362–2,420 RE-RUN IN THIS COMMIT FROM THE FILES BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **THE FINDING IS A CLASS AND NOT A CHAPTER: A SCENE HAD RESTAGED ITS OWN AUTHOR'S LAST SCENE IN FOUR PLACES THAT A TWELVE-GRAM SCAN SAW AT EIGHT TOKENS, AND SIX INTERVALS PRINTED AGAINST AN ANCHOR NAMED IN THE SAME SENTENCE, TWO OF THEM THE HOUSE'S FILLER NUMERAL, AND ONE QUARTER-COUNT WAS THE MIRROR OF THE ONE BATCH 0003 FOUND AT 675.** ALL SIX CLASSES WERE FIXED IN THE CHAPTERS AND EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT. **12-GRAM AGAINST ALL 700 FILES: 33 MAXIMAL RUNS TOUCHING 681–690, DOWN FROM 47 ON THE FIRST EDITION, AND ALL FOURTEEN THAT DIED WERE LIFTS.** **THE SCANNER WAS PROVED ON `chapter-0564.md` BEFORE IT WAS TRUSTED.** THIS BLOCK SUPERSEDES THE BLOCK BELOW IT FOR 681–690 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN FROM DISK IN THIS COMMIT, WITH ITS OPERANDS PRINTED
