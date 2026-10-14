@@ -1,3 +1,171 @@
+# VOLUME 12 BATCH 0001 IS WRITTEN AND GATED. CHAPTERS 551–560 ARE ON DISK. **THE GATE BELOW WAS RUN BY COMMAND IN THE COMMIT THAT WROTE THEM AND EVERY ROW IS A MEASUREMENT, NOT A CLAIM. TEN FILES, 21,750 WORDS COUNTED PER FILE AND SUMMED. ONE SCENE, AT 554. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE. THE NEXT PHASE IS `workspace/volume-12/batch-0002/PROMPT.md`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+> A planning phase. It wrote `outline/volume-12.md` and its first batch's cards and no prose. `outline/ending.md` is untouched. `state/complete.md` is NOT created; the series is planned past 560.
+>
+> **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/batch-0002/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 561–570, MOVEMENT TWO, *BORROWED*. DO NOT PRE-CREATE A BATCH 0003.**
+
+## THE FIGURE THE BATCH BRIEF GOT WRONG, RECORDED FIRST BECAUSE IT IS THE ONE THIS BATCH FOUND
+
+**`workspace/volume-12/batch-0001/PROMPT.md` §2 PRINTED CHAPTER 559 AS SPINE DAY 1,433. IT IS 1,430. 1,433 IS THE TWENTY-FOURTH OF JANUARY AND THE DATE IS THE TWENTY-FIRST.**
+
+| | Printed in the brief | Correct, with operands, re-derived twice |
+| --- | --- | --- |
+| **559's day number** | 1,433 | **1,430** — `(y-2) × 360 + 330 + (d-1)` = `3 × 360 + 330 + 20` = `1,080 + 330 + 20` = 1,430; and `1 Feb y5 = 4 × 360 = 1,440`, so 30 Jan y5 = 1,439 and `1,439 − (30 − 21)` = `1,439 − 9` = 1,430. The two methods share no constant and agree at every January in 551–560. |
+| **558 → 559** | 8 days, `1,433 − 1,425` | **5 days**, `1,430 − 1,425 = 5` |
+| **559 → 560** | 6 days, `1,439 − 1,433` | **9 days**, `1,439 − 1,430 = 9` |
+| **the satchel to 559** | 193 days, `1,433 − 1,240` | **190 days**, `1,430 − 1,240 = 190 = 6 × 30 + 10` |
+
+**THE CHAPTERS WERE NOT EDITED TO FIT THE BRIEF. THE SPINE WAS RE-DERIVED AND THE FIGURES WENT THE OTHER WAY.** This is the sentence the whole gate block is written under: *a figure nobody re-computes is the figure that is wrong* — and the thing that was wrong was not in a chapter, it was in the brief the chapters were written from.
+
+## THE VOLUME 12 GATE, BATCH 0001, RUN BY COMMAND IN THE COMMIT THAT WROTE 551–560
+
+```
+FILES         10 files in chapters/volume-12/, 551..560, diff against `seq 551 560` EMPTY.
+              ONE `# ` title line in every file. Trailing byte 0a on all ten.
+              `find chapters -name 'chapter-*.md' | wc -l` -> 560.
+
+TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 560 FILES.**
+              The ten match `outline/volume-12.md` §10 by whole-line string: **10 OF 10.**
+
+BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
+              551 2,474 · 552 1,983 · 553 1,839 · **554 3,595** · 555 1,800 · 556 1,819 ·
+              557 1,951 · 558 1,881 · 559 2,170 · 560 2,238. **BATCH TOTAL 21,750.**
+              Nine files inside 1,800-2,700. **554 LEAVES THE BAND BY 895 WORDS AND SAYS WHY
+              IN `state/continuity.md` §3 AND `state/chapter-summaries.md`:** it is Volume 12's
+              first scene, the only one in the batch, the chapter this repository has carried a
+              fixed date for since 548, and the chapter in which the woman's own question is spent.
+              546, the volume precedent, is 3,570 against the same band and does the same thing.
+
+META         The class in §7 of the batch brief PLUS `our narrator|the author|the text|the prose|
+              page [0-9]+|volume [0-9]+|in this (novel|book|story|chapter|volume|scene)` ->
+              **0 ACROSS ALL TEN FILES.**
+
+WEEKNAMES    Monday Tuesday Wednesday Thursday Friday Saturday Sunday, all seven, whole-word AND
+              substring, across all ten files -> **0.** (Eight `Thursday`s and one `Tuesday` were
+              IN THE FIRST DRAFT and every one was replaced with a date, which is what the rule is
+              for: 552 `a fixed morning in every quarter`; 557 four dates inside the ninth of
+              January; 558 `since the ninth of January`; 559 `on the ninth of January`;
+              560 `On the sixteenth of January`.)
+
+AGES         `aged \d+` · `aged of \d+` · `\d+ years old` · `\d+ years of age` ·
+              `\d{2}-year-old` · `\d{2} year old` · `in (her|his|their) (early|mid|late)
+              (twenties|thirties|forties|fifties|sixties)` · `a (girl|boy|woman|man|child) of
+              TWENTY..NINETY` · bare `aged` -> **0.** **HANNEKE RUIS IS GIVEN NO AGE AND NO MARK
+              IN 554. Her only physical claims in the file are the lamp, the chair, the cold room
+              and her hands, and her hands are described once.** Three `a woman of sixty`
+              constructions in the first draft were replaced with `a woman who was somewhere past
+              sixty` and `a woman of about sixty`, which is a different claim and not an age.
+
+ARITHMETIC   The spine 551-560 re-derived from two formulas that share no constant, monotonic at
+              **0 violations.** 551 1406 · 552 1409 · 553 1410 · 554 1411 · 555 1416 · 556 1419 ·
+              557 1422 · 558 1425 · **559 1430** · 560 1439.
+              **EVERY INTERVAL PRINTED IN 551-560 PARSED OUT AND ITS OPERANDS SUMMED, never
+              copied out of a chapter:** 59 · 3 · 1 · 1 · 5 · 3 · 3 · 3 · **5** · **9**.
+              1,406 = 30 × 46 + 26 (the office, forty-six months and twenty-six days at 551) ·
+              1,406 − 758 = 648 = 360 + 270 + 18 (the second column's age) · 1,409 − 1,406 = 3 ·
+              1,410 − 1,409 = 1 · 1,411 − 1,410 = 1 · 1,416 − 1,411 = 5 · 1,419 − 1,416 = 3 ·
+              1,422 − 1,419 = 3 · 1,425 − 1,422 = 3 · **1,430 − 1,425 = 5** · **1,439 − 1,430 = 9** ·
+              1,409 − 1,334 = 75 (and 15 + 30 + 30 = 75) · 1,411 − 1,334 = 77 (and 15 + 30 + 30
+              + 2 = 77) · 1,422 − 1,409 = 13 · 1,439 − 1,409 = 30 · 1,439 − 1,411 = 28 ·
+              **1,430 − 1,240 = 190 = 6 × 30 + 10**. **A quarter is 30 + 30 + 30 = 90.**
+
+QUARTERLY    552 is the **sixteenth** sheet and prints *Sixteenth quarter*; 537 heads itself
+              *The Thirteenth Sheet*; 544 is *Fifteenth quarter*; the sixteenth is the sheet of the
+              thirtieth of December that had not gone out. `entered:` on 552 is **eight hundred and
+              forty-one** and the figure has not moved for three quarters, and the reason is
+              printed with its operands, and the figure is never called a count of deeds.
+
+ACCOUNT      `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-12/` -> **0.**
+              `grep -rio "settle" chapters/volume-12/` -> **0**, and the inflections -> **0. NO FLOOR.**
+
+FLOORS / RT  `grep -rio "right temple" chapters/` -> **0 ACROSS ALL 560.**
+              `grep -rlio "cuticle" chapters/` -> **4 FILES: 329, 340, 404, 446. UNCHANGED.**
+              `grep -rio "nobody was thanked" chapters/volume-12/` -> **0**, and no softer version
+              of it either: the 551 and 560 constructions were rewritten.
+
+PARAGRAPHS   Blank-line split skipping headings, headings' words excluded. **0 OVER NINETY WORDS.
+              0 OVER ONE HUNDRED AND TWENY.** QUOTATION-MARK PARITY PER PARAGRAPH: **0 ODD.**
+              SPEECH RUNNING ACROSS A BREAK: **0.** **Every over-90 paragraph in the first draft
+              was split at a sentence boundary and every one of them is now under, and the
+              first draft carried twenty-five speeches that ran across a blank line; every one
+              was split and each paragraph now opens and closes its own quotation.**
+
+HEADINGS     One `# ` per file. **NO HEADING NAMES THE CHAPTER'S TURN.** No duplicate `##` titles
+              inside one file: **0.** `## A List Nobody Asked For` at 557 was renamed **## The First
+              List Made For Nothing** so that no heading is built out of *nobody*.
+
+MARKDOWN     Blockquote 0 · table 0 · horizontal rule 0 · code block 0 · bold `**` **0** ·
+              single-asterisk markers EVEN in all ten files (26·14·12·12·16·12·22·10·12·14) ·
+              **SYSTEM PANELS: 0 IN TEN CHAPTERS, AND THE VOLUME'S BUDGET IS FIVE.**
+
+DUPLICATION  12-gram scan FIRST against all 550 existing chapters, normalised token method, then
+              11 and 8. **Every hit classified by hand, and a count is not a reading.** The hits
+              fall into two classes. **THE CANONICAL CLASS, WHICH STAYS:** the four conditions,
+              which are on a shutter, on a notice board and in a demand and therefore are the same
+              words; the office's own sentence, which is on every sheet; the six words and the
+              keeper's block; the four conditions as printed at 548; the ward figure and the rota
+              facts. **THE BORROWED CLASS, WHICH WAS REWRITTEN IN THE CHAPTERS:**
+              **559 lifted about sixty words verbatim from 533:75, the sister of number four's
+              prediction, and it was rewritten from the ground up** · **552 lifted the whole
+              repainting-form paragraph and a crowd's two sentences from 491:71, both rewritten** ·
+              **553 lifted the six-words paragraph, the hundred-and-twenty paragraph, the far-table
+              paragraph and the cold-flights sentence from 544, all four rewritten** ·
+              **551 lifted its whole opening beat and Wenna Raut's reading beat from 550 and 548** ·
+              **555 opened with 501's and 550's exact staging, and Isolde's and the rota's facts
+              were re-set** · **557 quoted his own notebook line from 545 almost verbatim and the
+              quotation was rewritten** · **558 quoted 550 and 542 and the quotation was rewritten** ·
+              **560 lifted 549's closing cadence and was rewritten** · **552 and 556 both lifted
+              542's description of the yard and one of them was rewritten** ·
+              **554 lifted 546's staging and 289's cadence and both were rewritten.**
+              **BORROWED BODIES AND STAGINGS CHECKED AGAINST `outline/volume-12.md` §4d BEFORE ANY
+              BODY WAS PLANNED, NOT AFTER:** **Lin Hao's grey is not moved and not named · Ines
+              Duarte does not appear · Wren Kallo does not appear · Sun Meiling is at the far table
+              at 553 and is described as a woman with a folder and nothing else, and the line of
+              work across the top of her spine is not used · Marguerite Vale does not appear ·
+              Dagmar Oyelowo does not appear · Ada does not appear · HANNEKE RUIS IS GIVEN NO AGE
+              AND NO MARK AND HER BODY IS DESCRIBED ONCE · AGNETE LINDQVIST IS NOT IN 556, 557, 558
+              OR 560 AND NONE OF HER MARKS IS USED ANYWHERE IN THIS BATCH · THE ALMA QUAYLE
+              SEATED STAGING IS NOT PUT ON ANYBODY, AND THE PAPERWORK-ON-THE-KNEES CONSTRUCTION
+              WITH A CLOCK ATTACHED IS NOWHERE IN 551–560 · MAVIS ROOKE'S HAND-FLAT-ON-THE-TABLE
+              IS NOWHERE IN 551–560, WHICH IS THE DECISION THE STATE FILE ASKED TO BE RECORDED ·
+              THE WOMAN WITH THE BROOM DOES NOT APPEAR AND HER FOUR FEET OF STONE IS ONLY
+              REFERRED TO TWICE, IN 557, IN A QUOTATION OF HIS OWN NOTEBOOK · SELA VOEL DOES NOT
+              APPEAR · HALVARD SENN DOES NOT APPEAR · CORVIN ASHBY IS A LANDLORD WHO IS RIGHT AND
+              IS NOT A CROOK AND IS NOT CAREFUL, AND THE ROOM IS DESCRIBED DIFFERENTLY FROM 533 ·
+              MARGIT ROON DOES NOT APPEAR · WENNA RAUT READS AT ONE SPEECH AND DOES NOT PUT HER
+              PEN DOWN FLAT · NELL ARDIN AND HESTER VANE DO NOT APPEAR · OTHO PEARSE IS NOT IN
+              559 AND DOES NOT COUNT THE BOARD.**
+
+SCENES       **ONE, AT 554.** Its span is measured under THREE definitions because two different
+              definitions have been used in one block in this repository and one of them was off
+              by one. **554 HAS FOUR `##` HEADINGS AND NO FIFTH, SO THE CLOSING BOUNDARY IS END OF
+              FILE, WHICH IS STATED AND NOT ASSUMED.** Full table, with 546 beside it for
+              comparison, is at `state/continuity.md` §3.
+
+STILL OPEN   `Lin Wei` **0** · `B103` **0** · `settle` **0** · the figure of the account **0** ·
+              `right temple` **0** · `Ostho` **0** across all 560 files ·
+              `mavis rooke` **0** in 551-560, WHICH IS CORRECT FOR THIS BATCH.
+              No character says the reach of the return is settled or is not settled, and no
+              character says whether the account belonged to the unrecorded.
+              **WHO PUT THE WHITE TILE UP IS NOT ANSWERED AND IS NOT ASKED AGAIN**, and the
+              four-hundred-a-day figure at `chapter-0545.md`:87 is printed nowhere in this batch.
+              **AGNETE LINDQVIST HAS NOT CLAIMED THE SECOND LINE ON THE WALL, HAS NOT BEEN ASKED
+              TO STAND IN FRONT OF HER OWN YARD, AND IS IN NONE OF 556, 557, 558 OR 560.**
+
+THE VOLUME   The second line at the foot of the ranks wall **still cannot be read by a city** in
+              these ten chapters, and 552 is where that begins to cost something: a copy of his
+              four conditions goes onto a shutter with no notice at the top of it. The two blank
+              boxes at the foot of the ordinary repainting form are visible at 552 and are still
+              blank. **No chapter of this batch fills either box, and none of 551–600 may.**
+
+NEXT PHASE   **`workspace/volume-12/batch-0002/PROMPT.md`, CHAPTERS 561–570, MOVEMENT TWO,
+              *BORROWED*.** Movement two's spine is 561 = 4 Feb y5 = 1,443 … 570 = 1 May y5 = 1,530,
+              and the scene is at 564, Agnete Lindqvist, eighteen chapters after 546, and 566 is
+              the seventeenth sheet on the thirtieth of March, which is a quarter-end.
+              **VOLUME 12 IS NOT CLOSED. IT HAS FORTY CHAPTERS LEFT. NO VOLUME-CLOSE PROMPT EXISTS
+              AND NONE MAY BE WRITTEN. NO BATCH 0003. NO VOLUME 13. `state/complete.md` IS NOT
+              CREATED; THE SERIES IS PLANNED PAST 600.**
+
 # VOLUME 12 IS PLANNED AND VOLUME 11'S FIVE CARRIED FIGURES ARE REPAIRED. **THE REPAIRS LANDED 14 OCTOBER 2026 IN THE COMMIT THAT WROTE `outline/volume-12.md`: ALL TEN LINES OF `chapter-0542.md`, BOTH CHAPTER-0544 LINES THAT CARRIED TWO FINDINGS AT ONCE, THE `chapter-0537.md` LINE, THE EIGHT LINES OF *FIVE QUARTERS* IN FIVE CHAPTERS, `outline/volume-11.md` §10 ROW 542, AND ALL FOUR STATE ROWS. THE TITLE BANK WAS RE-RUN BY COMMAND IN THE SAME COMMIT. THE CLOSE-AUDIT BLOCK BELOW IS SUPERSEDED AND IS LEFT WHOLE AS THE RECORD OF WHY THE FIVE FIGURES WERE WRONG; NOTHING IN IT IS DELETED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > **A PLANNING PHASE. IT WROTE `outline/volume-12.md` AND ITS FIRST BATCH'S CARDS AND NO PROSE. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 550.**

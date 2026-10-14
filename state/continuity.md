@@ -1,3 +1,87 @@
+# VOLUME 12 BATCH 0001 IS WRITTEN. CHAPTERS 551–560 ARE ON DISK. **`outline/volume-12.md` §7'S TEN CARDS FOR 551–560 WERE REWRITTEN AGAINST THE PAGE IN THE SAME COMMIT, AND ONE DAY NUMBER IN THE BATCH BRIEF WAS FOUND WRONG AND CORRECTED. NO CHAPTER 561 EXISTS. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+> **THE SENTENCE:** *In this volume, **Lin Hao must put two words a city has never been able to read where the city already reads every morning**, or **the Register ends as one line in one column in one chained book two floors under a sales floor, and the last person who ever reads it is a keeper who finds his name there on the second of January and puts the book back on the shelf**.*
+>
+> **THE ONE DATE THIS VOLUME OWED IS PAID AT 554.** The keeper read the page on the second of January of year five, asked the question she had carried for eleven years, spent it, and the account is still open. **After 554 this thread is closed and no chapter of 551–600 reopens it.** `outline/volume-12.md` §8 item 1 is discharged.
+>
+> **THE IRREVERSIBLE DECISION IS PAID AT 560 AND IT IS HIS.** He said yes out loud in a yard in front of about eleven thousand people and the true answer to the only question anybody asked him there was nothing.
+
+## 1. THE SPINE, 551–560, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED TWICE
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1) · **a January is labelled by the February that follows it, so a January labelled y = (y − 2) × 360 + 330 + (d − 1).***
+
+```
+551  27 Dec y4   1080 + 300 + 26       = 1406   59 after 550  (1406 - 1347 = 59)
+552  30 Dec y4   1080 + 300 + 29       = 1409    3 after 551  (1409 - 1406 = 3)   QUARTER-END
+553   1 Jan y5   1080 + 330 +  0       = 1410    1 after 552  (1410 - 1409 = 1)
+554   2 Jan y5   1080 + 330 +  1       = 1411    1 after 553  (1411 - 1410 = 1)   SCENE
+555   7 Jan y5   1080 + 330 +  6       = 1416    5 after 554  (1416 - 1411 = 5)
+556  10 Jan y5   1080 + 330 +  9       = 1419    3 after 555  (1419 - 1416 = 3)
+557  13 Jan y5   1080 + 330 + 12       = 1422    3 after 556  (1422 - 1419 = 3)
+558  16 Jan y5   1080 + 330 + 15       = 1425    3 after 557  (1425 - 1422 = 3)
+559  21 Jan y5   1080 + 330 + 20       = 1430    5 after 558  (1430 - 1425 = 5)
+560  30 Jan y5   1080 + 330 + 29       = 1439    9 after 559  (1439 - 1430 = 9)
+MONOTONIC, 0 VIOLATIONS. Cross-checked by counting back from 1 Feb y5 = 1440: 1439 - (30 - d)
+agrees with 1080 + 330 + (d - 1) at every January in the run. The two methods share no constant.
+```
+
+**THE ONE FIGURE THAT WAS WRONG IN THE BRIEF, AND IT IS RECORDED HERE SO NO LATER PHASE INHERITS IT. `workspace/volume-12/batch-0001/PROMPT.md` §2 gave chapter 559 as spine day 1,433. 1,433 is the twenty-fourth of January. The date is 21 January, fixed by `outline/volume-12.md` §5c, and it is 1,430.** The two intervals the brief gave were consequently wrong — it said 8 days into 559 and 6 days into 560 — and the true figures are **5 and 9**. The 1,430 − 1,240 = **190 days** since the satchel (6 × 30 + 10) replaces the brief's 193. **The correction is in both chapters, in the cards, and in the live gate block below, and the spine was re-derived rather than the chapters edited to fit.**
+
+**THE OTHER FIGURES THIS BATCH OWES AND PRINTS WITH OPERANDS:** 1,406 = 30 × 46 + 26, so the office is **forty-six months and twenty-six days** old at 551 · the second column was ruled 9 March y3 = **758**, and 1,406 − 758 = 648 = 360 + 270 + 18 · **seven quarter-ends** empty, which is the count from the ruling and is unchanged by this volume · 1,409 − 1,334 = **75 days** off the fifteenth of October · 1,411 − 1,334 = **77 days** · 1,422 − 1,409 = **13 days**, which is how long the shutter has been up · 1,439 − 1,409 = **30 days**, which is the whole of January · 1,439 − 1,411 = **28 days** · a quarter is 30 + 30 + 30 = **90 days** and the figure has not moved for three of them.
+
+## 2. THE SCENE SCHEDULE AFTER 554, BOTH COLUMNS, AND NEITHER CERTIFIED
+
+| Chapter | Whose | Her own last scene | Gap from the previous scene in the book | Gap from her own last scene | Status |
+| --- | --- | --- | --- | --- | --- |
+| 546 | Agnete Lindqvist. Volume 11's last. | 369 | — | — | written |
+| **554** | **Hanneke Ruis** | **none on record anywhere in the book** | **8** | **there is no gap. This is her first.** | **WRITTEN. 3,595 words.** |
+| **564** | **Agnete Lindqvist** | 546 | **10** | **18** | **planned** |
+| **574** | **Beatrix Halm** | 536 | **10** | **38** | **planned** |
+| **584** | **Ines Duarte** | 505 | **10** | **79** | **planned** |
+| **594** | **Tessa Okonkwo** | 515 | **10** | **79** | **planned** |
+
+**CADENCE 8 · 10 · 10 · 10 · 10. NOTHING UNDER EIGHT, NOTHING OVER FIFTEEN. THE 177 IS CLOSED AND WAS PAID AT 546. THE PER-WOMAN COLUMN IS NOT THE BAND AND NO FILE MAY SAY ONE IS.** Mavis Rooke is not on the schedule and is not in this batch.
+
+## 3. WHAT 554 CHANGED, AND WHAT IT CLOSED
+
+**THE KEEPER READ THE PAGE.** On the second of January of year five, in a room two floors under a sales floor with no window, Hanneke Ruis shut a chained book on a block that carries a figure, six words and her own name, and under her own name a fifth line in a hand that is not hers: premises thirty-four, six, one-one-eight, charged with a claim against a named person, the fifteenth of October, Lin Hao, rank one. **A premises keeps what the city may read about it, the line arrived with the quarter's returns on the first of January, and a keeper cannot improve what she is given and cannot be asked to hurry. She did not strike it and she did not strike the six words, so the page now carries two lines that disagree with each other, and a page that disagrees with itself is still a page.**
+
+**SHE ASKED HER ONE QUESTION AND IT IS SPENT.** Whether the thing she had been protecting for thirty years was ever the account, or was only the absence of a name, and whether a name that is a debtor's can hold a thing open the way no name held it open. **He could not answer it and did not pretend to and did not give her a worse one. She spent it on a man she has met four times in two years and never once looked at, and said so out loud, and then told him she wanted him before she had him and not afterwards.**
+
+**THE SCENE IS WRITTEN OUT AND NOT IMPLIED.** The axis broken is **the counted minute**, carried by the room's rule and named by nobody: the book goes on the shelf at a quarter to five, comes off it on the first, and may be read on the second by one person, and a keeper does not stop to be spoken to while a page is open. **No clock is printed inside the scene and no time is counted. Her body is described once, in her hands. No compulsion, no sedation, no exhaustion, no toxin, no restraint, no psychic contact, no trance and no seal. Both adults. Violence and sex stay in separate registers.**
+
+**WORD BANK, COUNTED PER FILE AND SUMMED:** 551 2,474 · 552 1,983 · 553 1,839 · **554 3,595** · 555 1,800 · 556 1,819 · 557 1,951 · 558 1,881 · 559 2,170 · 560 2,238. **BATCH TOTAL 21,750.** **554 LEAVES THE 1,800–2,700 GUIDE BAND BY 895 WORDS AND THE REASON IS: it is Volume 12's first scene, the only scene in the batch, the chapter this repository has had a fixed date for since 548, and the one chapter where the woman's own question is spent; 546, the volume precedent, is 3,570 against a 1,800–2,700 band and does the same thing, and 554 is written to the same length rather than to a word count.**
+
+**THE SCENE MEASURED THREE WAYS, AS `AGENTS.md` AND `outline/volume-12.md` §9 REQUIRE, TAKEN FROM `##` TO `##` ON DISK IN THIS COMMIT — 554 has four `##` headings and no fifth, so the closing boundary is end of file, which is stated rather than assumed:**
+
+| Definition | 546 Agnete (Volume 11 precedent) | 554 Hanneke Ruis (this batch) |
+| --- | --- | --- |
+| (1) opening `##` to closing `##` | 3,451 | **3,421** |
+| (2) scene section, INCLUSIVE of both heading lines | 2,085 | **2,722** |
+| (3) scene section, EXCLUSIVE of both heading lines | 2,079 | **2,718** |
+| explicit-vocabulary probe, whole file | 21 | **18** |
+| explicit-vocabulary probe, scene section | 17 | **11** |
+| whole file | 3,570 | **3,595** |
+
+## 4. WHAT VOLUME 12 PICKS UP AT 561, AND WHAT IT MAY NOT CLOSE
+
+**PICKS UP, WHICH IS NOT ADOPTING:** the four conditions as a rule in a yard with a queue at the foot of it · a demand carrying them into a magistrate's room in about four years · a column of about a hundred names under four lines in chalk that none of the four conditions will take · the sheet on the thirtieth of March, which is the **seventeenth** and is a quarter-end · a landlord who is right and is not a crook · the branch corridor copy that has lost its fourth line.
+
+**MAY NOT CLOSE, INHERITED WHOLE AND UNCHANGED:** the reach of the return · whether the account belonged to the unrecorded rather than to him · how many feeders there were · and whether the reading was justice or showing off. Lin Wei's file and the name · the second folio of 4,112 · B103 · `settle` · the figure of the account, fixed at 211,840 and printed in no chapter of 551–600 · who put the white tile up · the four-hundred-a-day figure at `chapter-0545.md`:87, which this volume does not print · Mrs Imrie, asked nothing, ever · Wren Kallo's bar, untested · Dagmar Oyelowo's first thing and `PC-44`, and 495 is not a scene and may never be written as one · Perrin Sowe, not forgiven and not discussed, Ines's correction unpressed · Sun Meiling's row and her bar, told once at 434 · Marguerite Vale's fourth line, which cannot be struck · the instrument he swore on the ninth of May never to use · Ada's grey, permanent and not recovered · Runa Sato's reason box · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **whoever put the name under the six words has now been read and there is nothing left to find out about it.**
+
+**MAY NOT CLOSE, OPENED BY THIS BATCH:** **whether the yard ever uses the four conditions for anything other than a rule on a board** · **whether the demand in Corvin Ashby's hand is answered in about four years** · **whether the about a hundred names in the yard's column ever reach a page in this office, which they cannot, because none of them can satisfy the four conditions and there is no form for entering them.**
+
+**MAVIS ROOKE IS UNTOUCHED AND IS NOT IN THIS BATCH.** `grep -ri "mavis rooke" chapters/volume-12/` returns **0 and that is correct.** The mechanism the volume owes her now exists in the world — a public sheet, about two hundred people a week in Cordwain reading it, and the sheet is out and has been for thirty days — **and no chapter of 551–560 shows her reading it, being told about it, or not being told about it, and 587 and 588 must not.**
+
+## 5. TWO THINGS ON THE PAGE THAT A LATER BATCH MUST NOT TREAT AS CANON
+
+- **THE NAME IS OTHO PEARSE, NOT *OSTHO*.** `grep -rio "ostho" chapters/` returns **0** across all five hundred and sixty. A planning file that carries a name no chapter carries is how a second one gets in.
+- **THE RANKS WALL'S DAILY FIGURE IS STILL CONTRADICTED ON THE PAGE.** `chapter-0489.md`:21 says about nine thousand a day; `chapter-0545.md`:87 says about four hundred. **This volume prints the nine thousand, once, at 552, with the reason from 489, and prints the four hundred nowhere.** The other figure at that wall — about four hundred people have gone past him since the first of January of year one — is **a total and not a rate and may not be divided.**
+
+## 6. THE NEXT PHASE
+
+**`workspace/volume-12/batch-0002/PROMPT.md`. A WRITING PHASE FOR CHAPTERS 561–570 AGAINST MOVEMENT TWO, *BORROWED*, IN `outline/volume-12.md` §7. `state/complete.md` IS NOT CREATED AND VOLUME 12 IS NOT CLOSED.**
+
 # VOLUME 12 IS PLANNED. `outline/volume-12.md` IS ON DISK AND IT OWNS THE SENTENCE, THE SPINE, THE SCENE SCHEDULE AND THE TITLE BANK FOR CHAPTERS 551–600. **NO CHAPTER OF VOLUME 12 IS ON THE PAGE. NO CHAPTER 551 EXISTS. `outline/ending.md` IS UNTOUCHED. `PC-143`–`PC-153` STAY `PROPOSED`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > **THE SENTENCE:** *In this volume, **Lin Hao must put two words a city has never been able to read where the city already reads every morning**, or **the Register ends as one line in one column in one chained book two floors under a sales floor, and the last person who ever reads it is a keeper who finds his name there on the second of January and puts the book back on the shelf**.*
