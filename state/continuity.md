@@ -1,3 +1,96 @@
+# VOLUME 14 BATCH 0003 WRITTEN 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, MONOTONIC **0 VIOLATIONS**, THE PROOF BEING THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS. **12-GRAM AGAINST ALL 680 FILES: 0 RUNS. 11-GRAM: 0. 8-GRAM: 485 RUNS AGAINST THE BOOK, OF WHICH 48 DISTINCT RUNS HAVE ALL THEIR OCCURRENCES INSIDE THIS BATCH AND EVERY ONE OF THOSE 48 IS CLASSIFIED IN §0c BELOW.** THIS BLOCK SUPERSEDES THE BATCH-0002 SPINE BLOCK FOR 671–680 AND DELETES NONE.
+
+## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           off[Jun] = 120, off[Jul] = 150, off[Aug] = 180
+METHOD B   i = (y-1)*12 + pos[m];  day = 30*i + (d-1);  pos[Aug]=7, pos[Sep]=8, pos[Oct]=9
+           — CONTAINS NO 360 AT ALL
+NO JANUARY FALLS IN THIS BATCH, so the wrong January convention, which has put chapter 601 at
+2,133 twice in this repository, was neither needed nor used.
+
+ch  date        A        B      interval   operand printed on the page
+671 17 Jun y7   2296     2296       -       2,296 - 2,289 = 7   (the seam, in its own column)
+672 24 Jun y7   2303     2303       7       2,303 - 2,296 = 7   twenty-four less seventeen
+673 30 Jun y7   2309     2309       6       2,309 - 2,303 = 6   thirty less twenty-four
+674  7 Jul y7   2316     2316       7       2,316 - 2,309 = 7   seven less nothing: a month
+                                                                     stops on its thirtieth
+675 13 Jul y7   2322     2322       6       2,322 - 2,316 = 6   thirteen less seven
+676 20 Jul y7   2329     2329       7       2,329 - 2,322 = 7   twenty less thirteen
+677 26 Jul y7   2335     2335       6       2,335 - 2,329 = 6   twenty-six less twenty
+678  3 Aug y7   2342     2342       7       2,342 - 2,335 = 7   three is seven off the
+                                                                     thirtieth, which stops
+679  9 Aug y7   2348     2348       6       2,348 - 2,342 = 6   nine less three
+680 16 Aug y7   2355     2355       7       2,355 - 2,348 = 7   sixteen less nine
+
+TEN OF TEN AGREE BY METHOD A AND BY METHOD B. MONOTONIC, 0 VIOLATIONS.
+*** THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF THE TWO METHODS. ***
+THE NINE INTERVALS INSIDE THE BATCH: 7 6 7 6 7 6 7 6 7 = 59
+THE ENDPOINTS:                                  2,355 - 2,296 = 59      MATCH
+THE SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE: 2,296 - 2,289 = 7
+```
+
+**AND THE PROMPT'S OWN ROW FOR THIS BATCH WAS WRONG, IN BOTH HALVES, IN THE EXACT WAY ITS SECOND PARAGRAPH NAMES.** It gave `7 7 6 7 6 7 6 7 6 7 = 65` and `2,355 − 2,296 = 65`. **That list has ten terms: it is the seam prepended to the nine, and it sums to 66. The endpoints differ by 59.** `outline/volume-14.md` §5c carries the correct row `7 6 7 6 7 6 7 6 7 = 59` and needs no correction. **The prompt names the fourth variant — a ten-number list whose head is a seam dropped without shifting — as one that has happened twice here, and then commits it. Recorded because a gate that quotes its own instruction does not check it.**
+
+**AND EVERY OTHER INTERVAL THE FOOTERS PRINT WAS PARSED OFF THE PAGE AND RE-DERIVED IN THIS COMMIT BY COMMAND, NOT BY EYE. TWENTY ANCHOR LINES, ZERO MISMATCHES, TWENTY RE-DERIVED FROM THE *Less … , is N days* FORM:**
+
+```
+671  2,296 - 2,039 = 257 = 8m+17d    (a ledger, from the thirtieth of September)
+671  2,296 - 1,718 = 578 = 19m+ 8d   (year five)
+672  2,303 -   390 = 1,913 = 63m+23d (a sheet on a counter under a window)
+672  2,303 - 1,718 = 585 = 19m+15d
+673  2,309 - 2,219 =  90 = 3m+ 0d    (the twenty-fifth sheet, ninety days exactly)
+673  2,309 - 1,441 = 868 = 28m+28d   (her own last one, the second of January of year five)
+674  2,316 - 2,219 =  97 = 3m+ 7d
+674  2,316 - 1,718 = 598 = 19m+28d
+675  2,322 - 2,309 =  13 = 0m+13d    (thirteen days and no month at all)
+675  2,322 - 1,718 = 604 = 20m+ 4d
+676  2,329 - 2,219 = 110 = 3m+20d
+676  2,329 - 2,126 = 203 = 6m+23d    (the works form, in at a counter on the twenty-seventh of December)
+677  2,335 - 2,129 = 206 = 6m+26d    (the twenty-fourth sheet)
+677  2,335 - 1,718 = 617 = 20m+17d
+678  2,342 - 2,309 =  33 = 1m+ 3d
+678  2,342 - 2,078 = 264 = 8m+24d    (the shutter, year six, named on the page)
+679  2,348 - 1,718 = 630 = 21m+ 0d    (twenty-one months exactly)
+679  2,348 - 2,039 = 309 = 10m+ 9d
+680  2,355 - 2,078 = 277 = 9m+ 7d    (the shutter, year six, named on the page)
+680  2,355 - 1,718 = 637 = 21m+ 7d
+```
+
+**`411` IS PRINTED NOWHERE IN 671–680.** At 680 the two intervals from the two ninths of November are 277 and 637, both printed with the anchor named on the page, and neither is 411. 680 says so in its own words: the same numeral has been printed twice in six years against two different anchors and both times the figure was right and only the anchor was in doubt. **THE OFFICE'S MONTHS AND THE WALL'S RATE ARE PRINTED NOWHERE IN 671–680 — `seventy-two months` 0, `nine thousand` 0. THE LANE'S MORNINGS ARE PRINTED NOWHERE IN 671–680. THE YARD'S FIGURE AGAINST THE COURSE OF DRESSED STONE IS DESCRIBED AND NOT PRINTED. THE DATE ON THE DOCKET IS NOT PRINTED AND NOT DERIVED.**
+
+## 0b. FOURTH WALL, MARKS, ACCOUNTS, WEEKDAYS, AGES — ALL RE-RUN ACROSS THE TEN FILES
+
+CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`: **0 primary, 0 widened, 0 extension, across all ten — AND FOUR HITS WERE FOUND AND FIXED IN THE CHAPTERS ON THE FIRST EDITION, NOT IN THE ROW: *this book* for the laundry ledger at 671, *this page* for the sheet at 675, *two volumes* for nine years at 671, and *two hundred a day by one* → *two thousand a day* reworded at 678. Every one was repaired in the prose.** WEEKNAMES seven names whole-word and stem, `sat` and `sun` excluded as verb and name: **0 — and two were cut from the first edition, *Thursday* in 680 and *Tuesday* in 677.** AGES eleven probe forms plus a bare `aged` sweep plus spelled-out spans: **0 for a person — and two announced ages were cut from the first edition, *about forty* for the landlord's man at 675 and *about seventy* for the woman with the chalk at 677.** MARKS: `right temple` **0 book-wide across 680 files** · `cuticle` **4 files book-wide (329, 340, 404, 446), this batch adds none** · `ostho` **0** · **a hand flat on anything: 0 across the ten** · Hanneke Ruis carries **no age and no mark of any kind, ever, and the six words are not quoted, not paraphrased and not mentioned** · Perla Quist carries no mark and no age, and *about fifty* is printed nowhere · the boy is not aged and **does not say anything about the two squares at 677** · Agnete Lindqvist is not in this batch · Lin Wei, B103, 34-6-118, Perrin Sowe, Dagmar Oyelowo and the woman off Cordwain: **0 in all ten**.
+
+## 0c. THE TWELVE-GRAM INVENTORY, EVERY PAIR CLASSIFIED BY HAND, AND THE NINTH CLASS NAMED HERE
+
+**12-GRAM FIRST, AGAINST ALL SIX HUNDRED AND EIGHTY FILES INCLUDING THIS BATCH'S OWN, BODY-ONLY, HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED: THE FIRST HONEST RUN SCORED 95 AND EVERY ONE OF THEM WAS REWRITTEN IN THE CHAPTERS. THE FINAL RUN SCORES 0. 11-GRAM SCORES 0.**
+
+**AND THE FALSE ZERO THAT CAME FIRST IS THE FINDING THIS BLOCK EXISTS TO CARRY.** The scan was first invoked with paths its reader could not open, the reader swallowed the error, and the row came back clean on a batch that had ninety-five runs in it. **It was found because a run that had been fixed three edits earlier came back into the output.** A gate that cannot open the file it is measuring reports zero, and zero is the most convincing thing a broken gate can say. **THE FIRST THING A LATER PASS SHOULD DO WITH THIS BLOCK IS RUN THE TWELVE-GRAM SCAN AGAINST A CHAPTER IT KNOWS CONTAINS A RUN AND CONFIRM THAT IT RETURNS THE RUN.**
+
+**AT 8-GRAM: 485 RUNS AGAINST THE BOOK AND 48 DISTINCT RUNS WHOSE OCCURRENCES ARE ALL INSIDE THIS BATCH. EVERY ONE OF THE 48 IS IN ONE OF SEVEN CLASSES, AND NO CLASS IS A LIFTED SENTENCE:**
+
+| Class | What it is | Runs |
+| --- | --- | --- |
+| **One** | **the month-count arithmetic device** — *is day two thousand three hundred and twenty* (675, 676), *…forty* (678, 679), and *is seven a month stops on its thirtieth* (674, 678), which is the borrowing-off-the-thirtieth rule stated correctly at 674 after `chapter-0627.md` got it wrong. In the house form every chapter of this book opens with. | 6 |
+| **Seven** | **A CHARACTER'S OWN SENTENCE, IN THAT CHARACTER'S MOUTH, REPEATED BECAUSE THE STANDING HAS NOT MOVED.** Perla Quist says *I have run this laundry nineteen years and nobody has ever been able to make me sign anything and I am not going to start* at 671 and, four months later, at 680. It is kept. A woman repeating her own sentence to the same man is characterisation and not a lift, and the refusal at 680 is the refusal at 671 again with a larger reason. | 8 |
+| **Seven** | **and the same for *somebody in it who can be got at*** — her sentence at 671 about what a record has in it, said again at 672, and **carried into his mouth at 673**, which is the chapter where it is proved right. The carry-forward is the point of 673. | 8 |
+| **Three** | **the standing page's own description** and the standing facts of a building — *a back room off a street two streets wide* (671, 673), *off a street two streets wide with a* (673, 680), *a hundred and ninety dates on them* (672, 680), *room off a third court and asked* (672, 680). A batch about one laundry and one room names both several times. | 14 |
+| **Eight** | **A CHARACTER'S OWN WORKING PATTERN RESTATED ACROSS CHAPTERS TO SHOW IT HAS NOT MOVED** — the chapter opening, *had gone since a woman with a pencil had* (672, 673). Named at batch 0002 for the branch rota and now carrying the volume's opening formula. | 4 |
+| **None** | **coincidence of common words** — *in front of about nine hundred people by* (678, 679), *it and in about four years somebody is* (676, 678), *going to stand at a counter and ask what* (671, 672). Read and kept. | 8 |
+| **Two** | **THE SEAMS AND SIGNATURES ADJACENT IN THE SAME CHAPTER ARE NOT 12-GRAM AND ARE NOT A DEFECT.** Nothing in the batch scores a run of twelve words against itself at 12-gram. | 0 |
+
+**THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE A BODY WAS PLANNED, NOT AFTER.** **Hanneke Ruis's 554 staging is referenced and never restaged**: the chained book, the strap, the chain through the keeper's lock, the one lamp, the room with no window and no fire, thirty years, about nine hundred compositions, and the six words, which are not printed and are not discussed. **Nothing of 554's furniture is rebuilt**: no cigarette, no page held over her shoulder, no ink uncorked, no squaring of the book, no hand flat on a margin, no taking of a chain off the table, no lamp moved off its stand, no sitting on the table, no cold room shut for the length of a scene. **THE SCENE AT 673 HAPPENS WITH THE DOOR OF THAT ROOM OPEN FOUR INCHES ONTO A LANDING WITH A SALES FLOOR UNDER IT AND ABOUT NINE PEOPLE GOING UP AND DOWN AN HOUR, AND THAT IS ITSELF THE ARGUMENT: she has certified nine hundred compositions and not one has ever been argued with, and she will not do that again.** Agnete Lindqvist's 546 and 564 stagings are absent; Beatrix Halm's 574 furniture is absent; Wren Kallo, Sun Meiling, Marguerite Vale and Mavis Rooke are not in this batch and **no hand is put flat on anything by anybody.** **THE AXIS COLUMN HOLDS: 673 breaks the shelf, and the other four axes in this volume are at 653, 683 and 693 and are not this chapter's.** THE SEAM IS HAND-CHECKED: 671 and 680 against 597 and 601, no restage.
+
+**THE EXPLICIT PROBE AT WORD BOUNDARY, RE-RUN IN THIS COMMIT: cunt **1** (673) · cock **1** (673) · semen 0 · tits 0 · pussy 0 · cum 0 · jizz 0 · knob 0 · fanny 0 · arse 0 · licked 0 · sucked 0.**
+
+## 0d. MARKDOWN, GLYPHS, HEADINGS, DUPLICATE PARAGRAPHS — BOTH MEASURES
+
+BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after three batches and twenty-nine chapters, and two remain.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: **0** — and two were caught on the first edition, in 673 and in 679, and fixed in the chapters. **BOOK-WIDE STRAIGHT DOUBLE QUOTES UNCHANGED AT 56,016 ACROSS 680 FILES**, which is the figure batch 0002 published, so this batch added none and the row is a re-run and not a carry. Curly now **5,173** closed against **5,183** open across the book. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against **sixteen title lines book-wide** on files this batch did not touch. TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all six hundred and eighty files**, and the ten are three to twelve words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. PARAGRAPHS **707 · 0 over roughly ninety words · 0 over one hundred and twenty · 0 odd quotation-mark paragraphs**, and **forty-one paragraphs were split at a sentence boundary on the first edition** rather than cut. **ORPHANED-SPEECH SCAN PER FILE: 0.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62. IDENTITY IS 0 AND JACCARD IS 0. TWO REAL DEFECTS WERE CAUGHT BY THE SECOND MEASURE AND NOT THE FIRST AND ARE RECORDED SO THE NEXT PASS DOES NOT SPEND THE FINDING AGAIN: a dialogue paragraph in 679 that stood eleven lines from itself in two spellings and passed an identity gate, and two anchor paragraphs in 680 whose shared-string mass was 0.68 — *two thousand three hundred and fifty-five less X is N days, which is M months with D days* — and which asserted different intervals against two different ninths of November, which is the batch-0002 finding in a new dress and is classified there, not here.**
+
 # VOLUME 14 BATCH 0002 WRITTEN **AND REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0002.review.log`** — 661–670 ON DISK. SPINE 2,226–2,289 RE-RUN FROM DISK AFTER THE REPAIR, MONOTONIC **0 VIOLATIONS** BY TWO METHODS THAT SHARE NO CONSTANT. **12-GRAM AGAINST ALL 670 FILES: 0 RUNS OF SIX OR MORE. 11-GRAM: 0.** **THE PARAGRAPH COUNT IN §0d WAS FALSE AND IS REPAIRED IN §0d.** THIS BLOCK SUPERSEDES THE BATCH-0001 SPINE BLOCK FOR 661–670 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
