@@ -1,4 +1,4 @@
-# VOLUME 16 BATCH 0002 WRITTEN — **CHAPTERS 761–770 ARE ON DISK AND FINISHED. MOVEMENT TWO, *THE GOING QUIET*. 20,930 WORDS RAW, 20,357 ON THE BASIS OF RECORD, 20,413 ON `^##`, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT.** TEN TITLES, ZERO COLLISIONS ACROSS 770 WRITTEN TITLE LINES. THE SCENE IS AT 763 AND IT IS TESSA OKONKWO'S. THE MOVEMENT'S IRREVERSIBLE DECISION IS AT 770 AND IT IS HIS. `state/current.md` LIVE BLOCK, `state/continuity.md` SPINE BLOCK, `state/open-threads.md` VOLUME-WIDE GATE, `state/chapter-summaries.md` TEN ROWS, THE CARDS FOR 761–770 WRITTEN AGAINST THE PAGE, AND `workspace/volume-16/batch-0003/PROMPT.md` ARE IN THE SAME COMMIT. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 16 BATCH 0002 WRITTEN — **CHAPTERS 761–770 ARE ON DISK AND FINISHED. MOVEMENT TWO, *THE GOING QUIET*. 20,911 WORDS RAW, 20,338 ON THE BASIS OF RECORD, 20,394 ON `^##`, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE REVIEW-FIX PASS.** TEN TITLES, ZERO COLLISIONS ACROSS 770 WRITTEN TITLE LINES. THE SCENE IS AT 763 AND IT IS TESSA OKONKWO'S. THE MOVEMENT'S IRREVERSIBLE DECISION IS AT 770 AND IT IS HIS. `state/current.md` LIVE BLOCK, `state/continuity.md` SPINE BLOCK, `state/open-threads.md` VOLUME-WIDE GATE, `state/chapter-summaries.md` TEN ROWS, THE CARDS FOR 761–770 WRITTEN AGAINST THE PAGE, AND `workspace/volume-16/batch-0003/PROMPT.md` ARE IN THE SAME COMMIT. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. WHAT THIS BATCH DELIVERED, IN ONE PLACE
 
@@ -34,9 +34,11 @@ BANK counted per file from disk and summed, never from a concatenation. **THE BA
 | 766 | 1,879 | 1,816 | 1,822 |
 | 767 | 1,892 | 1,841 | 1,848 |
 | 768 | 1,910 | 1,856 | 1,862 |
-| 769 | 1,918 | 1,869 | 1,875 |
+| 769 | 1,899 | 1,850 | 1,856 |
 | 770 | 2,274 | 2,212 | 2,218 |
-| **BATCH** | **20,930** | **20,357** | **20,413** |
+| **BATCH** | **20,911** | **20,338** | **20,394** |
+
+**RE-COUNTED FROM DISK AFTER THE REVIEW-FIX PASS. 769 FELL BY NINETEEN WORDS ON EVERY BASIS — ONE WORD ADDED AND TWENTY CUT, THREE OF THEM THE SURPLUS WATCH-CONSTRUCTIONS §0c RECORDS — AND EVERY OTHER ROW REPRODUCES ITS PREVIOUS FIGURE EXACTLY, WHICH IS THE CHECK THAT THE CONVENTION HAS NOT MOVED.**
 
 **The first edition of this batch stood at 16,013 raw and fifteen thousand five hundred and forty on `^#`, and nine of its ten chapters were below the floor of the band. That was a real failure and not a near miss, and it is repaired in the prose: nine chapters were written longer and no chapter was padded to reach a number. 770 carries the largest repair at plus five hundred and forty-one words on `^#` because the cost scene had to be re-written from nothing after it was found to be lifting 760.**
 
@@ -78,23 +80,46 @@ Three anchors, printed with their operands in three italic footers in every chap
 
 ## 0c. THE WATCH-CONSTRUCTION ROW, WHICH VOLUME 15'S CLOSE AUDIT ASKED FOR
 
-Counted per chapter, title line excluded, case-insensitive, and printed. **RE-RUN FROM DISK AFTER THE LAST EDIT.**
+**REWRITTEN IN THIS PASS BECAUSE THE PREVIOUS VERSION OF THIS ROW COULD NOT SEE THE HABIT IT EXISTS TO MEASURE. IT COUNTED SEVEN LITERAL STRINGS AND THIS BATCH ROUTES AROUND EVERY ONE OF THEM.** *There is no form* was 1 across the batch and the same idea was written *there is not one form* twenty-three times, so the literal row printed a batch in good standing that was carrying the construction twice as often as the cap allows. **THE ROW NOW COUNTS THE FAMILY AND IT SEPARATES NARRATION FROM ATTRIBUTED SPEECH, BECAUSE THAT IS THE DISTINCTION THE CAP WAS ALWAYS ABOUT: a rule said once in a clerk's own mouth is this volume's method, and the same rule said by the narrator as emphasis is the tic `AGENTS.md` names.** Both halves are printed and neither is netted against the other.
 
-| Ch | `no form` | `nobody` | `no one` | `nobody is thanked` | `there is no column` | `there is no instrument` | `there is no way` |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 761 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 762 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 763 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 764 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |
-| 765 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 766 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 767 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 768 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 769 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 770 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **BATCH** | **1** | **5** | **0** | **0** | **0** | **1** | **1** |
+**VOCABULARY, IN FULL, SO THAT A LATER PASS MAY NOT NARROW IT AGAIN: `no form` · `not one form` · `there is no instrument` · `not one instrument` · `nobody` · `no one` · `nobody is thanked` · `there is no column` · `there is no way` — literal and `there is/are not one X` paraphrases, case-insensitive, at word boundary, title line excluded.**
 
-**THE CAP IS SIX `no form` AND TWELVE `nobody` ACROSS THE BATCH AND ONE OF EITHER IN ANY SINGLE CHAPTER. THE BATCH STANDS AT ONE AND FIVE, AND THE WORST SINGLE CHAPTER IS ONE. The first edition of this batch stood at four and twenty-eight, with 770 alone carrying five and 769 four, and every excess instance was cut in the prose and not by the gate — 769's *nobody has ever been in a position to* became *no person has ever been in a position to*, 770's *there is nobody else in this city* became *there is not one other person in this city*, and 764's two became one.** *Nobody Is Sent* is 764's title and is not prose; the count above excludes the title line as it did for batch 0001.
+Counted per chapter, title line excluded, case-insensitive, and printed. **RE-RUN FROM DISK AFTER THE REVIEW-FIX PASS. THE FIRST BLOCK BELOW IS NARRATION.**
+
+| Ch | `no form` | `not one form` | `there is no instrument` | `not one instrument` | `nobody` | `no one` | `nobody is thanked` | `there is no column` | `there is no way` |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 761 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 762 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 763 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 764 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 765 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 766 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 767 | 0 | 2 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 768 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 769 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 770 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **NARRATION, TOTAL** | **0** | **6** | **1** | **2** | **4** | **0** | **0** | **0** | **1** |
+
+**ATTRIBUTED SPEECH ONLY — THE CHAPTERS THAT CARRY ANY, AND THE OTHERS CARRY NONE:**
+
+| Ch | `no form` | `not one form` | `there is no instrument` | `not one instrument` | `nobody` | `no one` | `nobody is thanked` | `there is no column` | `there is no way` |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 763 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+| 765 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 768 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| **SPEECH, TOTAL** | **0** | **1** | **0** | **2** | **1** | **0** | **0** | **0** | **0** |
+| **BATCH, BOTH** | **0** | **7** | **1** | **4** | **5** | **0** | **0** | **0** | **1** |
+
+**THE FAMILIES, WHICH IS WHAT THE CAP IS MEASURED AGAINST. no-form family = `no form` + `not one form`: SIX IN NARRATION, ONE IN SPEECH, SEVEN ACROSS THE BATCH. no-instrument family = `there is no instrument` + `not one instrument`: THREE IN NARRATION, TWO IN SPEECH, FIVE ACROSS. `nobody` and `no one` together: FOUR IN NARRATION, ONE IN SPEECH, FIVE ACROSS. `nobody is thanked` and `there is no column` are at zero and have been in every volume.**
+
+**THE CAP IS SIX IN NARRATION AND TWELVE IN SPEECH, ACROSS THE BATCH, AND ONE OF EITHER IN ANY SINGLE CHAPTER. THE BATCH STANDS AT SIX AND ONE IN NARRATION AND ONE AND TWO IN SPEECH, AT THE CAP IN NARRATION AND UNDER IT in speech, and the worst single chapter is 767 at TWO, which is the office-may-not-ask rule said once about asking and once about being shown what a book says, and those are two different rules.** *Nobody Is Sent* is 764's title and is not prose; the count excludes the title line.
+
+**THE REVIEW-FIX PASS OF THIS BATCH FOUND THE WIDENED FAMILY AT EIGHT IN NARRATION AGAINST THE CAP OF SIX AND CUT TWO INSTANCES IN THE PROSE, AND BOTH CUTS WERE RESTATEMENTS INSIDE THE CHAPTER THAT STATED THE SAME CLAIM BETTER ELSEWHERE:**
+
+1. **764:11.** *there is no form involved at any point of that, and no clerk, and no letter, and no record* became **nothing of it is written down anywhere at any point, and no clerk, and no letter, and no record**. The enumeration and its rhythm are untouched and it is fourteen words for fourteen words; what changed is that the four-item list now names the act rather than the container, and the chapter lost one bare instance of the family it had already spent at 764:9.
+2. **769:47.** *and there is not one form anywhere in this city on which this office may ask a person anything* became **and this office may not ask a person anything**. The chapter had already said it three times — at 15, at 47 and at 61 — and 61's version, *And not one person may be sent to do that. And this office may not ask.*, is the one that costs something to read. **769 ALSO CARRIED THREE `not one instrument` IN NARRATION AND NOW CARRIES TWO; THE THIRD, at 769:59, WAS *and not one instrument that will ever put one there*, WHICH RESTATED THE CLAUSE THAT OPENS THE SAME SENTENCE AND WAS CUT.**
+
+**THE FIRST EDITION OF THIS BATCH STOOD AT FOUR AND TWENTY-EIGHT, AND EVERY EXCESS INSTANCE WAS CUT IN THE PROSE AND NOT BY THE GATE — 769's *nobody has ever been in a position to* became *no person has ever been in a position to*, 770's *there is nobody else in this city* became *there is not one other person in this city*, and 764's two became one. THE REVIEW-FIX PASS OF THIS BATCH THEN FOUND THAT THE GATE ITSELF COULD NOT SEE THE SURPLUS, AND THE FIX WAS MADE IN THE ROW AND NOT ONLY IN THE PROSE.**
 
 ## 0d. THE STANDING-FIGURE ROW, THE CLASS THAT COST A REPAIR PASS ITS REPUTATION
 
@@ -146,15 +171,17 @@ Every standing figure this batch carries, counted per chapter and printed, with 
 
 ## 0f. THE 763 SCENE MEASUREMENT, SIX CELLS, THE LINE SPAN PRINTED BESIDE EVERY CELL
 
-**`chapter-0763.md` HAS NINE `##` HEADINGS, AT LINES 5, 21, 35, 55, 71, 93, 125, 165 AND 199, AND 220 NEWLINE-TERMINATED LINES. THE FIRST `##` IS `## Half Past Five, And Four Bays` AND THE LAST IS `## What He Is Left Holding At Ten Past Seven`, WITH NO `##` AFTER 199.**
+**`chapter-0763.md` HAS NINE `##` HEADINGS, AT LINES 5, 21, 35, 55, 71, 93, 125, 165 AND 199, AND 219 NEWLINE-TERMINATED LINES, WHICH IS WHAT `wc -l` RETURNS AND THE FIGURE PREVIOUSLY PRINTED AS 220 WAS WRONG BY ONE AT THE TAIL. THE FIRST `##` IS `## Half Past Five, And Four Bays` AND THE LAST IS `## What He Is Left Holding At Ten Past Seven`, WITH NO `##` AFTER 199.**
 
 | Definition | Line span | Words |
 | --- | --- | --- |
 | (1) first `##` to last `##`, **exclusive of both heading lines** | 6–198 | **3,001** |
 | (2) **single scene section, inclusive** — the same span with both heading lines counted | 5–199 | **3,018** |
-| (3) exclusive of both, carried through to end of file | 6–220 | **3,392** |
-| (3b) the same, stopping at the last prose line before the three italic footers | 6–214 | **3,231** |
-| whole file | 1–220 | **3,453** |
+| (3) exclusive of both, carried through to end of file | 6–219 | **3,392** |
+| (3b) the same, stopping at the last prose line before the three italic footers, which are at 215, 217 and 219 | 6–213 | **3,231** |
+| whole file | 1–219 | **3,453** |
+
+**EVERY SPAN ABOVE NOW ENDS ON A LINE THAT EXISTS. THE THREE TAIL SPANS READ 220 AND 214 PREVIOUSLY AND 220 IS ONE PAST THE LAST LINE AND 214 IS A BLANK LINE; THE WORD FIGURES WERE CORRECT UNDER BOTH LABELS AND THE LABELS WERE NOT, AND A ROW THAT REPRODUCES A NUMBER IS NOT A CHECK ON THE NUMBER IT IS ATTACHED TO.**
 
 **COUNTED WITH `wc -w` OVER THE LINE SPAN IN THE SAME COMMIT THAT WROTE THE CHAPTER AND AGAIN AFTER THE LAST EDIT.**
 
@@ -164,7 +191,7 @@ Every standing figure this batch carries, counted per chapter and printed, with 
 
 **THE SCENE'S OTHER CONDITIONS, each checked:** both adults; he is rank one with a chest spent since the fourth year, on four nights and three off on a rota he asked for, and with no permission of any kind; **no compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal is the mechanism**; there is no violence in the chapter and none is turned into one; **saying yes is fast and it is enjoyable to her and it is written as a fact about her body and not as reluctance**; **her mark is the skin gone from the base of the nails on both hands and the word `cuticle` is not on the page and the four book-wide files are not added to**; her grey is at the **left** temple and `right temple` is **0 book-wide**; **no hand is put flat on anything, and the 762 draft's *put her hand flat on the pencil paper* was cut in this pass**; **the fourth wall is 0 and the word `scene` does not appear in the file at all**; and **her five questions from 753 are not her scene and are untouched, and Ines does not appear.**
 
-**THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY, OVER THE WHOLE FILE AND OVER THE SCENE SPAN ALONE, PUBLISHED IN THIS COMMIT: EIGHT HITS, EIGHT HITS — `cock`, `cunt`, `semen`, `mouth`, `throat`, `tongue`, `wet`. A PROBE OF ZERO IS A DEFECT AND NOT A PASS, AND THE FIRST EDITION OF 753 SCORED ZERO AND WAS WRITTEN A THIRD TIME. This one did not.**
+**THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY, OVER THE WHOLE FILE AND OVER THE SCENE SPAN ALONE, PUBLISHED IN THIS COMMIT: **NINE HITS, NINE HITS — `cock` × 1, `semen` × 1, `mouth` × 2, `throat` × 1, `tongue` × 1, `wet` × 2, `thigh` × 1, AND EVERY ONE OF THE NINE IS INSIDE SPAN (1). `cunt` IS **ZERO** — IT IS NOT IN THE FILE AND THE PREVIOUS ENTRY OF THIS ROW NAMED IT. THE PREVIOUS ENTRY ALSO NAMED SEVEN WORDS AGAINST A FIGURE OF EIGHT, WHICH WAS RIGHT BY COINCIDENCE AND WRONG IN ITS LIST; IT IS CORRECTED HERE AND THE FIGURE IS NOW NINE, WHICH IS WHAT A PER-WORD COUNT AND A SUM AGREE ON. A PROBE OF ZERO IS A DEFECT AND NOT A PASS, AND THE FIRST EDITION OF 753 SCORED ZERO AND WAS WRITTEN A THIRD TIME. This one did not. THE ROW IS PUBLISHED WORD BY WORD BECAUSE A LIST OF SEVEN NAMES BESIDE THE WORD *EIGHT* IS EXACTLY THE FAILURE THIS FILE CARRIES FORWARD: a row that reports a pass is not a check.**
 
 ## 0g. WHAT IT REFUSED, AND EVERY ONE OF THEM CHECKED BY COMMAND
 

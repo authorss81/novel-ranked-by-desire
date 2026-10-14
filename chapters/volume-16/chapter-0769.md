@@ -20,7 +20,7 @@ He had walked it about nine times in four years and it takes about eleven minute
 
 A street that is two streets wide is the reason there has never been a door onto a street at the end of it. A door onto a street is what turns a room with a counter in it into a counter in a street, and a counter in a street is a thing anybody may walk into, and about four hundred people walked into this one between the eighth of October of the first year and the twenty-eighth of May of the ninth.
 
-And the four hundred yards between the two books are the entire reason those two books have never been joined, and there is not one instrument anywhere in Ostara that will carry a thing the four hundred yards, and he has gone over that ground about nine times in four years and has never once worked out a way to do it that would not cost about four hundred people their only reason for trusting anything.
+And the four hundred yards between the two books are the entire reason those two books have never been joined, and there is not one instrument anywhere in Ostara that will carry a thing across the four hundred yards, and he has gone over that ground about nine times in four years and has never once worked out a way to do it that would not cost about four hundred people their only reason for trusting anything.
 
 ## About Four Hundred People
 
@@ -44,7 +44,7 @@ There is a fifth field in one of them and it had nothing in it on the first of F
 
 And there is a woman in this city who has said the only sentence anybody has ever said to that office about herself, and it is on a sheet in a laundry and not in any book, and it was written down by a woman with a pencil on the fifth of May and read back five times and not headed, and she was not sent and she is not going to be.
 
-And the only way those three things ever get joined up is a person standing at a counter being asked something, and there is not one form anywhere in this city on which this office may ask a person anything.
+And the only way those three things ever get joined up is a person standing at a counter being asked something, and this office may not ask a person anything.
 
 ## Four Flights, On The Third Of June
 
@@ -56,7 +56,7 @@ And about four hundred and seventy rows in a book about four hundred yards away 
 
 He stood at the end of that bench for about nine minutes and did the arithmetic he had been not doing for six weeks.
 
-There is not one person in this city who appears in both of those books and not one instrument that will ever put one there, and the only way to find out whether about four hundred and seventy rows and about four hundred people are the same four hundred is to go through about four hundred pieces of pencil paper one at a time and write down who carried each of them and where it went when it came down.
+There is not one person in this city who appears in both of those books, and the only way to find out whether about four hundred and seventy rows and about four hundred people are the same four hundred is to go through about four hundred pieces of pencil paper one at a time and write down who carried each of them and where it went when it came down.
 
 And not one person may be sent to do that. And this office may not ask. And a woman four streets away has said no five times about anything at all and once more on the twenty-sixth of May, and he is not going to make it six.
 

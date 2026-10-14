@@ -8,7 +8,7 @@ On the second landing of his own building on the morning of the twenty-seventh h
 
 There is a woman in a division building who is allowed to ask any person anything at all. She is not this office. This office has never sent anybody anywhere in nine years and would not be able to prove that it had, and she has never been sent anything by anybody, and there is not one form in this city on which she could be shown to have been told what to do by a man who cleans washrooms.
 
-He could have said that name to her once, in a corridor, in about four seconds, and there is no form involved at any point of that, and no clerk, and no letter, and no record, which is exactly why it works and exactly why it cannot be undone.
+He could have said that name to her once, in a corridor, in about four seconds, and nothing of it is written down anywhere at any point, and no clerk, and no letter, and no record, which is exactly why it works and exactly why it cannot be undone.
 
 The mechanics of it were in his head by the evening of the twenty-fourth. A woman who is allowed to ask anybody anything, a corridor about nine feet wide, a sentence of four or five words, and a woman who comes up four flights once a month whether anybody has asked her to or not.
 
