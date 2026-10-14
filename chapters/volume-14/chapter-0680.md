@@ -118,6 +118,16 @@ Not longer because more had been added to it. Longer because nine people had wri
 
 His copy was the shortest thing about the index in the whole of Ostara.
 
+*Two thousand three hundred and fifty-five days. Less two thousand three hundred and forty-eight, the ninth of August of the seventh year, is seven, and sixteen less nine is seven by the month count.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and seventy-seven days, which is nine months with seven days after them. A shutter at the far end of a yard off the Vestry has been bare for all of them and about two thousand people a day walk past a pale rectangle and cannot get by it.*
+
+*Four hundred and nine pieces of pencil paper are in a room off a third court in two cardboard boxes that nobody in that building is obliged to open.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty-seven days, which is twenty-one months with seven days after them. It is the third of four sentences at the foot of a sheet.*
+
+*A woman off a street two streets wide has copied it out four hundred and nine times in her own hand, and has refused, in her own room, with the reason given out loud, to give the book it is all written in to anybody at all.*
+
 ## What It Closes And What It Costs
 
 The option that closed was this.
@@ -147,13 +157,3 @@ In March he had asked an office to keep paper of that kind in a drawer, and he h
 And on the sixteenth of August he asked for a book and was refused by a woman who was right, and what he carried away was four hundred and nine pieces of paper and no index, and the four hundred and nine went into two boxes in a room nobody can walk into from a street, and the index went back out into about nine hands that have already made it longer than it is.
 
 Same drawer. Same man. Second time.
-
-*Two thousand three hundred and fifty-five days. Less two thousand three hundred and forty-eight, the ninth of August of the seventh year, is seven, and sixteen less nine is seven by the month count.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and seventy-seven days, which is nine months with seven days after them. A shutter at the far end of a yard off the Vestry has been bare for all of them and about two thousand people a day walk past a pale rectangle and cannot get by it.*
-
-*Four hundred and nine pieces of pencil paper are in a room off a third court in two cardboard boxes that nobody in that building is obliged to open.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty-seven days, which is twenty-one months with seven days after them. It is the third of four sentences at the foot of a sheet.*
-
-*A woman off a street two streets wide has copied it out four hundred and nine times in her own hand, and has refused, in her own room, with the reason given out loud, to give the book it is all written in to anybody at all.*

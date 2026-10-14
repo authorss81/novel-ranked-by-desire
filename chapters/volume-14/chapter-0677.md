@@ -102,6 +102,12 @@ And the wrong ones did not last.
 
 The rain had stopped by two. The lower half of the writing was dry by half past two and about forty people were at the wall correcting what nine hundred people could not, out loud, in daylight, with a thumb, the whole afternoon, and by the time it was light the sentence was on that wall correct and about a foot long and about nine feet up, and nobody at all knew what would happen to it at the next rain.
 
+*Two thousand three hundred and thirty-five days. Less two thousand three hundred and twenty-nine, the twentieth of July of the seventh year, is six, and twenty-six less twenty is six by the month count.*
+
+*Less the thirtieth of December of the sixth year, two thousand one hundred and twenty-nine, is two hundred and six days, which is six months with twenty-six days after them, and the twenty-fourth sheet went up on a rail at four that afternoon and about nine hundred people could read every word of it, and about four hundred of them have the foot of it in pencil in a pocket.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and seventeen days, which is twenty months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and this afternoon a man about seventy wrote it on a wall in chalk, wrong, and a stranger put a thumb on it, and it is correct, and neither of them can read it twice.*
+
 ## The Corner Is Not A Place To Put Anything On
 
 He stood four feet off it with his hands in his pockets, which is where they go now.
@@ -115,9 +121,3 @@ A place with nothing to put anything on is not an empty place. It is a place whe
 That is the second instrument, and this city did not build it, and nobody is going to be able to write it down afterwards because there is nobody in the transaction.
 
 There is no chalked line in four hundred kitchens. There is a corner, and about two hundred people a day at it, and about nine hundred people in this city who can read anything at all, and the rain coming in off the west.
-
-*Two thousand three hundred and thirty-five days. Less two thousand three hundred and twenty-nine, the twentieth of July of the seventh year, is six, and twenty-six less twenty is six by the month count.*
-
-*Less the thirtieth of December of the sixth year, two thousand one hundred and twenty-nine, is two hundred and six days, which is six months with twenty-six days after them, and the twenty-fourth sheet went up on a rail at four that afternoon and about nine hundred people could read every word of it, and about four hundred of them have the foot of it in pencil in a pocket.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and seventeen days, which is twenty months with seventeen days after them. It is the third of four sentences at the foot of a sheet, and this afternoon a man about seventy wrote it on a wall in chalk, wrong, and a stranger put a thumb on it, and it is correct, and neither of them can read it twice.*

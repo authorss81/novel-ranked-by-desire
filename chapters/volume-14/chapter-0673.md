@@ -162,7 +162,7 @@ She stood up and picked the strap up off the step.
 
 *Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is ninety days, which is three months exactly. The twenty-fifth sheet went up on a rail at four on that morning and the twenty-sixth went up at four this afternoon, eight hundred and fifty-two at the head of it unmoved across ten sheets, and about nine people a week get to the last two inches of either of them.*
 
-*Less the second of January of the fifth year, one thousand four hundred and forty-one, is eight hundred and sixty-eight days, which is twenty-eight months with twenty-eight days after them. It is her own last one, and there have been three since that had no floor under a lamp in them, and this is the second time a man has been in that room with the door shut and the first time one has been in it with the door open.*
+*Less the second of January of the fifth year, one thousand four hundred and eleven, is eight hundred and ninety-eight days, which is twenty-nine months with twenty-eight days after them. It is her own last one, and there have been three since that had no floor under a lamp in them, and this is the second time a man has been in that room with the door shut and the first time one has been in it with the door open.*
 
 ## The Shelf, At Four O’Clock
 

@@ -138,14 +138,14 @@ He squared the twelve books.
 
 “Then be careful with it,” said Emil Brack, “and do not come down here and tell me about it, because I have nine figures to get through before six and none of the nine is yours.”
 
-## Nine And A Reason
-
-He read the ninth one at about twenty past six and said the reason for it out loud before he wrote it, and it was about a street that has no water on it.
-
-He put the chalk in his pocket at six and said nothing else, and there were about fifty people at that end of the lane, and one of them said thank you to him, because about fifty people do not know what he is, and he said he would be obliged if that stopped.
-
 *Two thousand three hundred and forty-eight days. Less two thousand three hundred and forty-two, the third of August of the seventh year, is six, and the month between them says nine less three.*
 
 *Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and thirty days, which is twenty-one months exactly. It is the third of four sentences at the foot of a sheet, and it is not the reason a man in a delivery coat is standing at the end of a wall tonight, and he has never once said that it was.*
 
 *Less the thirtieth of September of the sixth year, two thousand and thirty-nine, is three hundred and nine days, which is ten months with nine days after them, and a ledger in a back room off a street two streets wide has had about three hundred and ten dates in the margin of it in pencil, and one line of them was rubbed out on the third of this month in front of about nine hundred people.*
+
+## Nine And A Reason
+
+He read the ninth one at about twenty past six and said the reason for it out loud before he wrote it, and it was about a street that has no water on it.
+
+He put the chalk in his pocket at six and said nothing else, and there were about fifty people at that end of the lane, and one of them said thank you to him, because about fifty people do not know what he is, and he said he would be obliged if that stopped.

@@ -104,6 +104,12 @@ She shut the book.
 
 “You have built the best correction in this city out of four hundred pieces of pencil paper in four hundred hands,” she said, “and not one of them can be carried into a book, and I am not going to choose between those two facts for you.”
 
+*Two thousand three hundred and sixteen days. Less two thousand three hundred and nine, the thirtieth of June of the seventh year, is seven. A month runs thirty days and stops, so a day seven after the thirtieth of June is the seventh of July, and there is no thirty-first to carry it.*
+
+*Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is ninety-seven days, which is three months with seven days after them, and about nine people a week in this city get to the last two inches of a sheet that went up on a rail at four on that morning.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and ninety-eight days, which is nineteen months with twenty-eight days after them. It is the third of four sentences at the foot of a sheet, and about nine hundred people in a yard are at this moment reading out loud, to each other, what a hand wrote, and a keeper one floor above a shop has just told him that this is the single thing that cannot be carried into a book.*
+
 ## The Landing With No Light Under The Door
 
 He went down at about half past one because he had not been able to stop walking since half past twelve.
@@ -119,9 +125,3 @@ Two instruments.
 One of them came out four times a year, could be met by anybody on the day, and had never in six years been argued with by a soul. The other one ran every day in about four hundred kitchens, in about four hundred different hands, and had nobody in it who could be got at, and was the only thing in this city that had ever been corrected inside four minutes by a person who knew nothing whatever about it.
 
 And the two of them could not be put in the same room.
-
-*Two thousand three hundred and sixteen days. Less two thousand three hundred and nine, the thirtieth of June of the seventh year, is seven. A month runs thirty days and stops, so a day seven after the thirtieth of June is the seventh of July, and there is no thirty-first to carry it.*
-
-*Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is ninety-seven days, which is three months with seven days after them, and about nine people a week in this city get to the last two inches of a sheet that went up on a rail at four on that morning.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is five hundred and ninety-eight days, which is nineteen months with twenty-eight days after them. It is the third of four sentences at the foot of a sheet, and about nine hundred people in a yard are at this moment reading out loud, to each other, what a hand wrote, and a keeper one floor above a shop has just told him that this is the single thing that cannot be carried into a book.*

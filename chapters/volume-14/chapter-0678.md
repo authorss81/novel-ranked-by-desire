@@ -92,6 +92,12 @@ Somebody laughed, which in that yard at that hour is about the loudest thing ava
 
 He stood four feet off at the back of the half-circle for about half an hour and listened to it go round, and it went round wrong about nine times, and every wrong one died inside a quarter of an hour, and about nine hundred people who had never met him and never would were saying out loud, in daylight, for nothing, that a list of dates kept in pencil by a woman with a ruler in a laundry could be wrong.
 
+*Two thousand three hundred and forty-two days. Less two thousand three hundred and thirty-five, the twenty-sixth of July of the seventh year, is seven. A month stops on its thirtieth, and seven days on from the twenty-sixth of July comes out at the third day of August.*
+
+*Less the thirtieth of June of the seventh year, two thousand three hundred and nine, is thirty-three days, which is one month with three days after them, and a list of about three hundred and ten dates in a pencil is being read out loud in a yard to about nine hundred people, and about nine of the versions that went round the space were wrong and not one of them lived a quarter of an hour.*
+
+*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and sixty-four days, which is eight months with twenty-four days after them, and a shutter at the far end of that yard has been bare for all of them, and about two thousand people a day walk past a pale rectangle and cannot get by it.*
+
 ## What It Does To The Office
 
 At half past twelve he got her to the side of the path, where about nine thousand people were not.
@@ -113,9 +119,3 @@ He had heard it before and he had agreed with it in June and he was going to hav
 She said it while she was folding the eleven sheets into eight. She did not look up. She said it in the order she means it, which is the only order she says anything in.
 
 “You will come here in about a fortnight and you will ask me for that book,” said Perla Quist, “and I am going to say no. I am telling you on the third of August so that you cannot stand in my back room on the sixteenth and say that I sprang it on you.”
-
-*Two thousand three hundred and forty-two days. Less two thousand three hundred and thirty-five, the twenty-sixth of July of the seventh year, is seven. A month stops on its thirtieth, and seven days on from the twenty-sixth of July comes out at the third day of August.*
-
-*Less the thirtieth of June of the seventh year, two thousand three hundred and nine, is thirty-three days, which is one month with three days after them, and a list of about three hundred and ten dates in a pencil is being read out loud in a yard to about nine hundred people, and about nine of the versions that went round the space were wrong and not one of them lived a quarter of an hour.*
-
-*Less the ninth of November of the sixth year, two thousand and seventy-eight, is two hundred and sixty-four days, which is eight months with twenty-four days after them, and a shutter at the far end of that yard has been bare for all of them, and about two thousand people a day walk past a pale rectangle and cannot get by it.*

@@ -106,6 +106,12 @@ Before this morning that sentence existed in a drawer in a room with no door ont
 
 He had gone up four months wanting that office to have something. He had gone in this morning wanting it to have something it could answer with.
 
+*Two thousand three hundred and twenty-nine days. Less two thousand three hundred and twenty-two, the thirteenth of July of the seventh year, is seven, and twenty less thirteen is seven by the month count.*
+
+*Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is one hundred and ten days, which is three months with twenty days after them, and a drawer in a room off a third court has had ninety-odd pieces of pencil paper in it for all of them, entered as nothing, and on the twentieth of this month a man with a pen entered the drawer itself.*
+
+*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is two hundred and three days, which is six months with twenty-three days after them, and a form saying take down to course and make good has been on a board by a kerb since the seventh of April, with two ruled squares at the foot of it and nothing in either.*
+
 ## The Thing That Has Closed
 
 He went back up the stair and along two floors and into the room off a third court at about eleven. The drawer under the table was shut and he could not see into it from where he stood, and there was now a finding in a building on another side of this city that said, in a magistrate’s clerk’s own hand, that this office had been asked one question and had not answered it.
@@ -117,9 +123,3 @@ For six years this office had been able to say, four times a year, out loud, in 
 He had been ready to say nothing. He had a rule for saying nothing and it was one of the best rules in this city and Yusuf Adeyemi had printed it in the office’s own hand on the first page of it.
 
 He had not been ready for the nothing to be written down.
-
-*Two thousand three hundred and twenty-nine days. Less two thousand three hundred and twenty-two, the thirteenth of July of the seventh year, is seven, and twenty less thirteen is seven by the month count.*
-
-*Less the thirtieth of March of the seventh year, two thousand two hundred and nineteen, is one hundred and ten days, which is three months with twenty days after them, and a drawer in a room off a third court has had ninety-odd pieces of pencil paper in it for all of them, entered as nothing, and on the twentieth of this month a man with a pen entered the drawer itself.*
-
-*Less the twenty-seventh of December of the sixth year, two thousand one hundred and twenty-six, is two hundred and three days, which is six months with twenty-three days after them, and a form saying take down to course and make good has been on a board by a kerb since the seventh of April, with two ruled squares at the foot of it and nothing in either.*

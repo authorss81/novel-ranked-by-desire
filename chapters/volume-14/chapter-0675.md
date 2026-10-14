@@ -106,6 +106,12 @@ Then the matter went away without anything happening to it, in the way that abou
 
 Nobody thanked anybody. The landlord’s man gathered his paper. Perla Quist put her nine ruled sheets in order and squared them and put the pencil on top of them, and the woman she had come with was holding the landlord’s paper in both hands and had been holding it in both hands for the whole of it without being asked to give it back.
 
+*Two thousand three hundred and twenty-two days. Less two thousand three hundred and sixteen, the seventh of July of the seventh year, is six, and thirteen less seven is six by the month count.*
+
+*Less the thirtieth of June of the seventh year, two thousand three hundred and nine, is thirteen days, which is no month at all with thirteen days after them, and a sheet that went up on a rail at four that afternoon was carried off it at five by a man who is entitled to it, and put at the top of a demand in a room with a table in it.*
+
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and four days, which is twenty months with four days after them. It is the second of four sentences at the foot of that sheet, and a man read it out loud in a room in the wrong words and told a court that it was the reason his landlord had never had to come and look.*
+
 ## The Fact That Is Left In The Room
 
 The landlord’s man came out last and he came out into the corridor and he did not hurry past him.
@@ -125,9 +131,3 @@ There was a corridor and a door at the end of it and about nine people in it goi
 He nodded, once, as though Lin Hao had confirmed something he had already put down.
 
 “Then you are the second person in this city who has written something down about my client’s water and has never come and looked at it,” he said. “The first one is an office with a printer.”
-
-*Two thousand three hundred and twenty-two days. Less two thousand three hundred and sixteen, the seventh of July of the seventh year, is six, and thirteen less seven is six by the month count.*
-
-*Less the thirtieth of June of the seventh year, two thousand three hundred and nine, is thirteen days, which is no month at all with thirteen days after them, and a sheet that went up on a rail at four that afternoon was carried off it at five by a man who is entitled to it, and put at the top of a demand in a room with a table in it.*
-
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is six hundred and four days, which is twenty months with four days after them. It is the second of four sentences at the foot of that sheet, and a man read it out loud in a room in the wrong words and told a court that it was the reason his landlord had never had to come and look.*
