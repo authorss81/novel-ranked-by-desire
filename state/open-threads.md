@@ -1,8 +1,131 @@
-# VOLUME 11 CLOSE AUDIT — CHAPTERS 501–550, FIFTY FILES, 113,615 WORDS. THE VOLUME IS COMPLETE AND IT IS AUDITED. **RUN 14 OCTOBER 2026, FROM OUTSIDE EVERY PASS THAT WROTE IT. A GATE RECORD IS A CLAIM; THIS BLOCK IS THE RE-RUN, AND WHERE THE TWO DIFFER THE RE-RUN STANDS. FULL RECORD AT `reviews/volume-11/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 12 IS PLANNED AND VOLUME 11'S FIVE CARRIED FIGURES ARE REPAIRED. **THE REPAIRS LANDED 14 OCTOBER 2026 IN THE COMMIT THAT WROTE `outline/volume-12.md`: ALL TEN LINES OF `chapter-0542.md`, BOTH CHAPTER-0544 LINES THAT CARRIED TWO FINDINGS AT ONCE, THE `chapter-0537.md` LINE, THE EIGHT LINES OF *FIVE QUARTERS* IN FIVE CHAPTERS, `outline/volume-11.md` §10 ROW 542, AND ALL FOUR STATE ROWS. THE TITLE BANK WAS RE-RUN BY COMMAND IN THE SAME COMMIT. THE CLOSE-AUDIT BLOCK BELOW IS SUPERSEDED AND IS LEFT WHOLE AS THE RECORD OF WHY THE FIVE FIGURES WERE WRONG; NOTHING IN IT IS DELETED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+> **A PLANNING PHASE. IT WROTE `outline/volume-12.md` AND ITS FIRST BATCH'S CARDS AND NO PROSE. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 550.**
+>
+> **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 551–560. DO NOT PRE-CREATE A BATCH 0002 FOR VOLUME 12. THE SELF-DISPATCH WORKFLOW SELECTS THE BATCH.**
+
+## WHAT VOLUME 12 IS FOR, AND WHAT IS LOST IF IT FAILS
+
+> In this volume, **Lin Hao must get two words a city has never been able to read onto a surface that two thousand people a day cannot walk past**, or **the only instrument he has left is a chain and a lamp and a keeper, and she reads his name on the second of January and then puts the book back on the shelf**
+
+**IF IT FAILS, EVERYTHING VOLUME 11 PAID FOR BECOMES BEING.** Four hundred and nineteen accounts in a book, one line in a column, a Register with a debtor in it, and a man at the wall end of a lane at about a quarter to seven who is right about every fact he says — all of it earned by people who cannot be shown to have been paid, because the one sentence that could say it is on the wall and nobody can read it.
+
+## THE REPAIR, AS ONE ITEM, AND WHAT IT MOVED
+
+| | Printed | Correct, with operands | Lines repaired |
+| --- | --- | --- | --- |
+| **`chapter-0542.md`** | four days | **three days** — 29 Jul y4 = 1,258 · 2 Aug y4 = 1,261 · `1,261 − 1,258 = 3`, printed at `:15` as thirty less twenty-nine is the one day left in July and two of August after that | **TEN** — `:1` the title, now *Three Days Of Looking* · `:15` · `:17` · `:25` the section heading, now *Three Days Of It* · `:45` · `:49` · `:53` · `:61` · `:103` · `:107`. Plus `outline/volume-11.md` §10 row 542 and `state/chapter-summaries.md:44`. |
+| **`chapter-0544.md:37`** | Sixteenth quarter | **Fifteenth quarter** — 537 heads itself *The Thirteenth Sheet* and there are two quarter-ends in a year | one |
+| **`chapter-0544.md:39`** | the ninth day of July | **the eleventh day of July** — 541:3, :67, :120 · 542:11 · 547:37, :84 | one |
+| **`chapter-0537.md:95` and `chapter-0544.md:43`** | the four years it has been on that sheet | **one year and twenty-one days** (537; `1,139 − 758 = 381`) · **one year, six months and twenty-one days** (544; `1,319 − 758 = 561`). The column was ruled 9 Mar y3 = **758** | two, and `:43` was repaired for this finding AND the next one **in one line**, or it would have said five quarter-ends and one year and six months on one clause |
+| **`chapter-0544.md:43` `:85` · `chapter-0545.md:109` · `chapter-0546.md:23` · `chapter-0548.md:70` the heading, now *Seven Quarter-Ends Of Nothing* · `chapter-0548.md:74` · `chapter-0550.md:78` · `chapter-0550.md:102`** | Five quarters | **seven quarter-ends** — `1,334 − 758 = 576` = one year, seven months and six days, printed at 548:74 | **EIGHT IN FIVE CHAPTERS** |
+
+**THE CONVENTION THAT WAS DROPPED:** Volume 11 also counted *four quarters* from the quarter in which Sun Meiling made her prediction at `chapter-0539.md:115` and `:125`. The two conventions differ by two. **THE COUNT IS NOW TAKEN FROM THE RULING EVERYWHERE IT IS ABOUT THE COLUMN. CHAPTER 539 IS NOT THIS PHASE'S AND WAS NOT TOUCHED.**
+
+**WORD BANKS, RE-COUNTED PER FILE AND SUMMED AFTER THE REPAIR:** Volume 11 is **113,661** and Batch 0005 is **22,683** — 541 1,991 · 542 1,975 · 543 2,100 · 544 1,980 · 545 1,861 · 546 3,570 · 547 2,132 · 548 2,077 · 549 2,748 · 550 2,249, mean **2,268**. Before the repair, 113,615 and 22,641, mean 2,264. `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all five hundred and fifty.** No written chapter was renamed to make room for *Three Days Of Looking*.
+
+**WHAT THE REPAIR DID NOT TOUCH, AND THE FIGURES THAT WERE ALWAYS RIGHT:** the lane's age at 550 is one thousand four hundred and sixty-six mornings, printed once, operands at 550:58, cross-checked at 550:60, and `PC-153` is not printed twice · the spine 541 = 1240 · 542 = 1261 · 543 = 1284 · 544 = 1319 · 545 = 1324 · 546 = 1325 · 547 = 1329 · 548 = 1334 · 549 = 1341 · 550 = 1347, monotonic, zero violations, summing 117 from 1,230.
+
+## THE VOLUME 12 GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE `outline/volume-12.md`
+
+```
+PLANNING      THIS PHASE WROTE AN OUTLINE AND NO PROSE. `chapters/` IS UNCHANGED AT 550 FILES.
+              `find . -name '*551*'` -> **EMPTY. NO CHAPTER 551 EXISTS.**
+              `find chapters -name 'chapter-*.md' | wc -l` -> 550. `grep -rh "^# " chapters/ | sort
+              | uniq -d | wc -l` -> **0 ACROSS ALL 550 FILES.**
+
+SPINE         551-600, DERIVED TWICE FROM TWO FORMULAS THAT SHARE NO CONSTANT:
+              day 0 = 1 February, year one; month offset Feb 0 Mar 30 Apr 60 May 90 Jun 120
+              Jul 150 Aug 180 Sep 210 Oct 240 Nov 270 Dec 300; 1 Feb of year y = (y-1)x360;
+              day of month d = (y-1)x360 + offset + (d-1).
+              **551 = 27 DEC y4 = 1080 + 300 + 26 = 1406 · 600 = 30 DEC y5 = 1440 + 300 + 29 = 1769.**
+              **MONOTONIC, 0 VIOLATIONS OVER FIFTY CHAPTERS. SPAN 1769 - 1406 = 363 DAYS ELAPSED,
+              364 INCLUSIVE. THE SEAM TO VOLUME 11 IS 1406 - 1347 = 59 DAYS AFTER CHAPTER 550.**
+              **JANUARY CONVENTION, STATED ONCE AND TESTED BOTH WAYS: a January is labelled by
+              the February that follows it, so 1 Jan y5 = 3x360 + 330 = 1410 and 2 Jan y5 = 1411
+              and 1 Feb y5 = 1440. THE OPPOSITE CONVENTION PUTS 1 JAN Y5 AT (5-1)x360 + 330 = 1770,
+              WHICH IS NINE MONTHS AFTER 1 FEB OF YEAR FIVE AND THEREFORE IMPOSSIBLE. THE SPINE IS
+              MONOTONIC UNDER THE FIRST AND IS NOT UNDER THE SECOND.**
+              QUARTER-ENDS IN THE SPAN: 30 Dec y4 (1409) · 30 Mar y5 (1499) · 30 Jun y5 (1589) ·
+              30 Sep y5 (1679) · 30 Dec y5 (1769). **ALL FIVE LAND ON A CHAPTER: 552, 566, 576, 586,
+              600. NONE IS MISSED.**
+              SHEET ORDINALS: 552 = SIXTEENTH (537 heads itself *The Thirteenth Sheet* and 544 is
+              now *Fifteenth quarter*, which agrees) · 566 seventeenth · 576 eighteenth ·
+              586 nineteenth · 600 twentieth.
+              THE LANE: first morning the third of October of year zero = day -118, so
+              **1769 - (-118) + 1 = 1888 MORNINGS AT CHAPTER 600**, printed once, with operands,
+              at 550 and once, at 600, and nowhere else.
+              THE OFFICE: 1769 = 30 x 58 + 29 -> fifty-eight months and twenty-nine days at 600.
+              THE FUSE IS NOT RE-USED: -111 + 1440 = 1329 = 547, and nothing in 551-600 makes the
+              tenth of October an event.
+
+SCENES        **554 · 564 · 574 · 584 · 594. CADENCE 8, 10, 10, 10, 10. NOTHING UNDER EIGHT.**
+              **554 IS EIGHT CHAPTERS AFTER 546, AT THE FLOOR, AND THAT IS WHY IT IS FIRST: THE
+              SECOND OF JANUARY OF YEAR FIVE IS SPINE DAY 1,411 AND `chapter-0544.md:119` FIXES THE
+              DATE.** PER-WOMAN, MEASURED FROM EACH WOMAN'S OWN LAST SCENE AND RUN BY COMMAND
+              AGAINST THE FIFTY-ONE WRITTEN SCENE CHAPTERS: **Hanneke Ruis NONE ON RECORD, SHE HAS
+              NEVER APPEARED IN A SCENE CHAPTER IN THIS BOOK** · Agnete Lindqvist 564-546 = **18** ·
+              Beatrix Halm 574-536 = **38** · Ines Duarte 584-505 = **79** · Tessa Okonkwo 594-515 =
+              **79**. **NONE OF THE FOUR THAT CAN BE MEASURED IS IN THE EIGHT-TO-FIFTEEN BAND AND NO
+              FILE HERE MAY SAY ONE IS.** Mavis Rooke has never appeared in a scene chapter either
+              and **IS NOT ON THIS SCHEDULE**; her thread stays open and undated.
+
+THE 177       **DECIDED OUT LOUD IN `outline/volume-12.md` §4a AND THE DECISION IS: CLOSED. IT WAS
+              PAID AT 546 AND IS NOT PAID AGAIN. AGNETE LINDQVIST'S NEXT SCENE IS 564, EIGHTEEN
+              CHAPTERS AFTER HER LAST ONE.** The reason is that 177 was the price of getting her
+              back into the book and Volume 11 paid it in full, that paying a structural claim twice
+              is a habit and not a structure, and that the arithmetic settles it: the first legal
+              slot after 546 under the eight-chapter floor is 554, and there is no arithmetic
+              anywhere in this repository that produces another hundred and seventy-seven.
+
+BANK          **VOLUME 11 IS 113,661 WORDS ACROSS FIFTY FILES AFTER THE FIGURE REPAIR, COUNTED PER
+              FILE AND SUMMED. NEVER cat *.md | wc -w.** Batch 0005 is 22,683. Mean of the batch
+              2,268. Volume 11 mean 2,273.
+              **VOLUME 12 HAS NO BANK YET. IT IS FIFTY TITLES IN `outline/volume-12.md` §10, ALL
+              FIFTY CHECKED BY COMMAND AGAINST ALL 550 WRITTEN TITLE LINES ON 14 OCTOBER 2026:
+              FIFTY OF FIFTY ABSENT, ZERO DUPLICATES INSIDE THE BANK, TWO TO TWELVE WORDS, NONE
+              BEGINNING WITH *WHAT*, NONE BUILT OUT OF *NOTHING* / *NOBODY* / *THERE IS NO*.**
+
+THE 534 RULE  **`outline/volume-12.md` §10 RULES ON `chapter-0534.md` *What The Church Did Not
+              Bring*: THE TITLE IS RIGHT AND THE RULE WAS WRONG. THE THREE-WORD FLOOR IS STRUCK;
+              THE NO-*WHAT* GUARD IS STRUCK AS A GENERAL RULE, BECAUSE A TITLE BEGINNING *WHAT THE*
+              NAMES AN ABSENCE AND DOES NOT RESTATE A SCENE. 534 STAYS AS IT IS AND NO WRITTEN
+              CHAPTER WAS TOUCHED. 523 *Lamplit Row* AND 527 *Carried By* STAY.**
+              `chapter-0505.md`'s TWO SECTIONS BOTH TITLED *The Hour* REMAIN FINDING 6, RECORDED
+              AND NOT APPLIED.**
+
+A NAME NOT ON THE PAGE  **THE VOLUME 12 PLANNING INSTRUCTION NAMED *OSTHO PEARSE*. `grep -rio
+              "ostho" chapters/` RETURNS 0. THE NAME ON THE PAGE IS OTHO PEARSE, AT
+              `chapter-0533.md:9`, `:23`, `:43`, `:107`, `:111`. NO CHAPTER OF 551-600 MAY PRINT
+              *OSTHO*. A PLANNING FILE THAT CARRIES A NAME NO CHAPTER CARRIES IS HOW A SECOND ONE
+              GETS IN.**
+
+A WALL CONTRA  **`chapter-0489.md:21` SAYS ABOUT NINE THOUSAND PEOPLE GO UNDER THE RANKS WALL IN A
+              DAY. `chapter-0545.md:87` SAYS ABOUT FOUR HUNDRED. SAME WALL, SAME ORDINARY DAY, MORE
+              THAN TWENTY TIMES APART, AND NEITHER DERIVES ITS FIGURE. VOLUME 12 PRINTS NEITHER.
+              A CHAPTER THAT NEEDS ONE SAYS *ABOUT NINE THOUSAND* AND GIVES THE REASON FROM 489,
+              OR DOES NOT RAISE THE FIGURE.** Recorded as `outline/volume-12.md` §2c item 5.
+
+STILL SHUT    **EVERY ITEM ON `outline/ending.md` IS SHUT.** `Lin Wei` 0 · `B103` 0 · `settle` 0 ·
+              the figure of the account 0 · `right temple` 0 across all 550 chapters.
+              `grep -rio "right temple" chapters/` -> **0.**
+              **THE FOUR `outline/ending.md` FIXES A READER MAY BE TEMPTED TO CLOSE ARE NOT CLOSED
+              BY ANYTHING IN `outline/volume-12.md`: the reach of the return · whether the account
+              belonged to the unrecorded rather than to him · how many feeders there are · and
+              whether the reading was justice or showing off.**
+
+NEXT PHASE    **`workspace/volume-12/batch-0001/PROMPT.md`. CHAPTERS 551-560, TEN FINISHED FILES,
+              ONE OF THEM A SCENE. DO NOT PRE-CREATE A BATCH 0002. `state/complete.md` MUST NOT BE
+              CREATED.**
+```
+
+---
+
+# VOLUME 11 CLOSE AUDIT — CHAPTERS 501–550, FIFTY FILES, 113,615 WORDS AS IT STOOD WHEN THE AUDIT RAN. THE VOLUME IS COMPLETE AND IT IS AUDITED. **RUN 14 OCTOBER 2026, FROM OUTSIDE EVERY PASS THAT WROTE IT. A GATE RECORD IS A CLAIM; THIS BLOCK IS THE RE-RUN, AND WHERE THE TWO DIFFER THE RE-RUN STANDS. FULL RECORD AT `reviews/volume-11/volume-close.md`. **FINDINGS 1–5 IN THE BLOCK BELOW WERE APPLIED ON 14 OCTOBER 2026 IN THE COMMIT THAT WROTE `outline/volume-12.md`; THE WORD COUNTS AND THE *FOUR DAYS* / *FIVE QUARTERS* FIGURES PRINTED BELOW ARE THE PRE-REPAIR FIGURES AND ARE SUPERSEDED BY THE TABLE ABOVE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > **A CLOSE-AUDIT PHASE. IT WROTE NO CHAPTER. IT READ 550 FILES, RE-DERIVED EVERY FIGURE IT COULD FIND A DERIVATION FOR, RE-RAN EVERY ROW OF THE BLOCK BELOW, ADDED THE ROWS THAT BLOCK DID NOT HAVE, APPLIED FOUR CHARACTERS OF MARKDOWN REPAIR, AND RECORDED NINE FINDINGS. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 550.**
 >
-> **THE NEXT PHASE IS NOW ON DISK AND IT IS `workspace/volume-12/plan/PROMPT.md`, A PLANNING PHASE THAT WRITES `outline/volume-12.md` AND NO PROSE. DO NOT PRE-CREATE A BATCH 0001 FOR VOLUME 12. THE SELF-DISPATCH WORKFLOW SELECTS THE PLAN.**
+> **SUPERSEDED 14 OCTOBER 2026. THE NEXT PHASE IS `workspace/volume-12/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 551–560.**
 
 ## WHAT THE VOLUME PROMISED AND WHAT IT PAID
 
@@ -14,7 +137,7 @@
 
 **THE SECOND HALF DID NOT HAPPEN AND IT WAS NOT A FAILURE OF NERVE.** It was the other half of a disjunction and the branch taken was real. The second line at the foot of the ranks wall did not get a threshold under it that a man with a chalk chose. It is still on the stone in the office's own hand at the height of a name on a plate, a city cannot read it, and **Emil Brack is at the wall end of that lane at about a quarter to seven every morning, right about every fact he says, and has not been answered.** 550 says *the second alternative did not happen* in the lead's own notebook rather than pretending otherwise.
 
-**THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE:** nine divisions to about nine hundred doors in ninety days and four hundred and nineteen of the people they found lost the fourth condition of his own definition · forty women out for four days to ninety-one doors, asked nothing, back with nothing **— AND THIS ONE CLAUSE IS NOT CONFIRMED. FINDING 1 PUTS IT AT THREE DAYS: THE FORTY WENT OUT ON THE TWENTY-NINTH OF JULY AND 542 IS THE SECOND OF AUGUST, AND *FOUR DAYS* IS PRINTED ON TEN LINES OF THAT CHAPTER INCLUDING THE TITLE AND A SECTION HEADING. CARRIED UNAPPLIED TO `workspace/volume-12/plan/PROMPT.md` §1, AND EVERY OTHER CLAUSE IN THIS LIST IS CONFIRMED** · a street four streets off the yard end, counted four times in thirty years, read once · six words written four times a year for thirty years under a keeper's own name with a name now put against them by a man she has never met, read on the second of January · a woman who dug a street for six years and was never paid is the Register's first creditor and came up two flights without a hand on the rail · a chaplain refused a second time and lost the argument instead of the sentence, and has lost her yard · nine women said nine things in a kitchen and not one of them told him he was right · and a Register that has a debtor in it, which is a different object from a Register that has nobody in it.
+**THE NINE THINGS THAT WERE PAID FOR, ALL CONFIRMED ON THE PAGE — WITH ONE CLAUSE CORRECTED ON 14 OCTOBER 2026 AND THE CORRECTION VISIBLE IN PLACE:** nine divisions to about nine hundred doors in ninety days and four hundred and nineteen of the people they found lost the fourth condition of his own definition · **forty women out for THREE days, not four — FINDING 1 PUT IT AT THREE DAYS, THE FORTY WENT OUT ON THE TWENTY-NINTH OF JULY = DAY 1,258 AND 542 IS THE SECOND OF AUGUST = DAY 1,261, AND 1,261 − 1,258 = 3; IT PRINTED ON TEN LINES OF THAT CHAPTER INCLUDING THE TITLE AND A SECTION HEADING AND ALL TEN ARE REPAIRED** · a street four streets off the yard end, counted four times in thirty years, read once · six words written four times a year for thirty years under a keeper's own name with a name now put against them by a man she has never met, read on the second of January · a woman who dug a street for six years and was never paid is the Register's first creditor and came up two flights without a hand on the rail · a chaplain refused a second time and lost the argument instead of the sentence, and has lost her yard · nine women said nine things in a kitchen and not one of them told him he was right · and a Register that has a debtor in it, which is a different object from a Register that has nobody in it.
 
 ## THE GATE, RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE IT
 
@@ -80,7 +203,9 @@ ARITHMETIC    **THE SPINE, RE-DERIVED TWICE BY TWO METHODS THAT SHARE NO CONSTAN
               1,329 − (−111) = 1,440 = 4 × 360. THE LANE'S FIRST MORNING, THE THIRD OF OCTOBER OF
               YEAR ZERO, IS SPINE DAY −118, SO 1,347 − (−118) + 1 = 1,466 MORNINGS.**
               **EVERY PRINTED INTERVAL IN 541–550 WAS PARSED OUT AND ITS OPERANDS SUMMED. FIVE
-              FIGURES FAIL AND NONE OF THEM PRINTS AN OPERAND AT ALL:**
+              FIGURES FAILED AND NONE OF THEM PRINTED AN OPERAND AT ALL. **THE STATE OF ALL FIVE IS NOW
+              APPLIED — 14 OCTOBER 2026 — AND WHAT FOLLOWS IS THE FINDING AS IT WAS RECORDED, WITH THE
+              OLD FIGURE STILL VISIBLE BESIDE THE CORRECTION:**
                 · **542:15, THE FORTY WENT OUT FOR *FOUR* DAYS. IT IS THREE.** 29 JUL Y4 = 1,258 AND
                   2 AUG Y4 = 1,261. THE BREAKDOWN *ONE DAY TO THE THIRTIETH OF JULY AND TWO MORE DAYS
                   OF JULY AND ONE DAY OF AUGUST* NEEDS DAYS THAT DO NOT EXIST IN A THIRTY-DAY MONTH.
@@ -108,11 +233,13 @@ ARITHMETIC    **THE SPINE, RE-DERIVED TWICE BY TWO METHODS THAT SHARE NO CONSTAN
                   548:70 (THE SECTION HEADING *Five Quarters Of Nothing*), 548:74, 550:78 AND 550:102.
                   544:43 CARRIES THIS FINDING AND THE ONE ABOVE IT ON ONE LINE AND MUST BE REPAIRED FOR
                   BOTH.**
-              **ALL FIVE ARE CARRIED, NOT APPLIED — SEE FINDING 9. THE RATE OF FAILURE OF THE SENTENCE
-              AT `outline/volume-11.md` §9 IS NOW V8 x5, V9 x2, V10 x1, V11 x5. A GATE ROW THAT
-              QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE: 543 FAILED BOTH THE WRITING PASS
-              AND THE BATCH'S OWN ARITHMETIC ROW BECAUSE THAT ROW WAS WRITTEN FROM THE CHAPTER INSTEAD
-              OF FROM THE SPINE.**
+              **ALL FIVE ARE APPLIED — 14 OCTOBER 2026, IN THE COMMIT THAT WROTE `outline/volume-12.md`. THE
+              RE-RUN AFTER THE REPAIR FINDS ZERO OF THE OLD FIGURES ON ANY PAGE AND NO NEW FIGURE IN
+              ITS PLACE. THE RATE OF FAILURE OF THE SENTENCE AT `outline/volume-11.md` §9 WAS V8 x5,
+              V9 x2, V10 x1, V11 x5, AND A REPAIR DOES NOT LOWER THE COUNT, IT ONLY STOPS IT GROWING.
+              A GATE ROW THAT QUOTES THE PROSE IT IS CHECKING CANNOT CATCH THE PROSE: 543 FAILED BOTH
+              THE WRITING PASS AND THE BATCH'S OWN ARITHMETIC ROW BECAUSE THAT ROW WAS WRITTEN FROM
+              THE CHAPTER INSTEAD OF FROM THE SPINE.**
 
 QUARTERLY     **ENTERED, RE-RUN:** one (508, Q1) · two (514, Q4) · five (524, Q8) · nineteen (527, Q9)
 FIGURES       · thirty-one (529, Q10) · thirty-four (530, Q11) · thirty-four (534, Q12) ·
@@ -123,7 +250,7 @@ FIGURES       · thirty-one (529, Q10) · thirty-four (530, Q11) · thirty-four 
               SEPTEMBER. BOTH INTERVALS ARE NINETY DAYS AND THE FIGURE DID NOT MOVE, WITH FOUR HUNDRED
               AND NINETEEN ACCOUNTS BEHIND IT. NO CHAPTER OF 501–550 CALLS IT A COUNT OF DEEDS; THE
               PHRASE IS ON THE PAGE ONLY AS THE MISREADING THE CHAPTERS ARE ABOUT (541:77, 541:87,
-              534:45).** **THE QUARTER ORDINALS ARE WRONG AT 544 — FINDING 2.**
+              534:45).** **THE QUARTER ORDINALS WERE WRONG AT 544 — FINDING 2, AND 544:37 NOW READS *FIFTEENTH QUARTER* ON THE PAGE.**
 
 ACCOUNT       `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-11/` -> **0.**
               **NO LEDGER TOTAL AND NO RUNNING BALANCE IN GRAINS ANYWHERE.**
@@ -252,10 +379,11 @@ STILL OPEN    **THE TWO VOLUME 11 OPENED ITSELF AND MAY NOT CLOSE: (1) THE KEEPE
 
 FINDINGS      **NINE FINDINGS, RECORDED IN FULL AT `reviews/volume-11/volume-close.md` §8.**
              **1A APPLIED** — three unclosed italic spans and one doubled comma, four characters.
-             **1–5 CARRIED, NOT APPLIED** — five arithmetic defects at 542, 544, 537 and 548, each a
+             **1–5 APPLIED 14 OCTOBER 2026** — five arithmetic defects at 542, 544, 537 and 548, each a
              figure printed without operands in a book whose argument is that an unmeasured interval is
-             the danger; the correct figure and every line carrying it are named, for one commit by
-             the phase that owns the batches. **6 RECORDED** — two sections of 505 both titled
+             the danger; every line was repaired in one commit by the phase that owns the volumes, the
+             title bank was re-run in that same commit, and `reviews/volume-11/volume-close.md` was
+             annotated rather than rewritten. **6 RECORDED** — two sections of 505 both titled
              *The Hour*. **7 RECORDED** — 534 begins with *What*, against §10. **8 RECORDED** — 515
              gives Tessa Okonkwo Alma Quayle's seated staging from 486, verbatim, including the *since
              about twenty to* clock. **9** — findings 1–5 as one carried item.
@@ -273,10 +401,11 @@ PIPELINE      **GAP 1, RECORDED:** `workspace/volume-11/batch-0005/PROMPT.md`:14
               **GAP 3, RECORDED:** FOUR BATCH GATES IN VOLUME 11 CERTIFIED FIGURES THAT DID NOT
               REPRODUCE. FIVE, COUNTING THE `chapter-0500.md:65` INTERVAL VOLUME 10 CARRIED FORWARD.
 
-NEXT PHASE    **`workspace/volume-12/plan/PROMPT.md`. A PLANNING PHASE. IT WRITES
-              `outline/volume-12.md` AND ITS FIRST BATCH'S CARDS AND NO PROSE.** THAT PHASE, AND NOT
-              THIS ONE, IS WHERE A DECISION IS MADE ABOUT WHETHER THE WALL GETS A THRESHOLD UNDER IT
-              OR DOES NOT. **`state/complete.md` MUST NOT BE CREATED.**
+NEXT PHASE    **SUPERSEDED 14 OCTOBER 2026. IT WAS `workspace/volume-12/plan/PROMPT.md`, A PLANNING
+              PHASE THAT WROTE `outline/volume-12.md` AND ITS FIRST BATCH'S CARDS. IT HAS RUN. THE NEXT
+              PHASE IS `workspace/volume-12/batch-0001/PROMPT.md`, A WRITING PHASE FOR CHAPTERS 551–560.**
+              `outline/volume-12.md` IS WHERE THE DECISION ABOUT THE WALL WAS MADE. **`state/complete.md`
+              MUST NOT BE CREATED.**
 ```
 
 ---
@@ -292,13 +421,13 @@ NEXT PHASE    **`workspace/volume-12/plan/PROMPT.md`. A PLANNING PHASE. IT WRITE
 ## WHAT THIS BATCH DID, IN TEN LINES
 
 1. **541, THE ELEVENTH OF JULY — A SATCHEL ON A COUNTER AND *ENTERED: NONE*.** **HALVARD SENN** brings up nine hundred pages he carried for ninety days and separates the number of doors from the number of accounts so that nobody can merge them: **eight hundred and forty-one doors and four hundred and nineteen accounts, and those are not the same number.** A clerk reads the four conditions, finds that the first and second are met and the third is met for about four in nine, and the **fourth is not met by a single one of them, because a satchel puts them on a page.** **WHAT CHANGES: the thing the office does with a return is visible for the first time as a thing it is doing and not a thing it intended** — four hundred and nineteen people's own words go into a book under a heading that means deeds, and the day's page carries *entered: none* in a clerk's hand, and about two hundred people a week in Cordwain read it. **THE COST OF THE SWEEP HE ASKED FOR AT 537 IS THE CONDITION HIS OWN DEFINITION STANDS ON.** He has written down that he wants something in an empty drawer that has been open since the fourth of February of the first year.
-2. **542, THE SECOND OF AUGUST — FORTY PEOPLE OUT FOR FOUR DAYS, AND TWO WORDS COME APART.** **AGNETE LINDQVIST** sent forty of her own to ninety-one addresses off the round's list to sit and ask nothing, and they came back with nothing. **THE CHURCH IS ABOUT ELEVEN THOUSAND WHERE IT WAS ABOUT FOUR THOUSAND AT THE END OF THE SECOND YEAR.** **WHAT CHANGES: about nine hundred people in a yard work out on their own that being useful is how you get to be owed nothing**, and that is the thing she spent nine years preventing, and it came apart in four days and not in a conversation. A woman on the steps at a quarter past five on the first of August has told the yard the column is ours, and Agnete did not stop her and is not going to, and gives the reason on the page: **she did not go to a counter for a year.** **She asks him to the Vestry on the sixth, and not to the counter.**
+2. **542, THE SECOND OF AUGUST — FORTY PEOPLE OUT FOR THREE DAYS, AND TWO WORDS COME APART.** **REPAIRED 14 OCTOBER 2026; IT PRINTED FOUR DAYS AND THE BREAKDOWN NEEDED A THIRTY-FIRST THAT DOES NOT EXIST. 29 Jul y4 = 1,258 AND 2 Aug y4 = 1,261 AND 1,261 − 1,258 = 3.** **AGNETE LINDQVIST** sent forty of her own to ninety-one addresses off the round's list to sit and ask nothing, and they came back with nothing. **THE CHURCH IS ABOUT ELEVEN THOUSAND WHERE IT WAS ABOUT FOUR THOUSAND AT THE END OF THE SECOND YEAR.** **WHAT CHANGES: about nine hundred people in a yard work out on their own that being useful is how you get to be owed nothing**, and that is the thing she spent nine years preventing, and it came apart in three days and not in a conversation. A woman on the steps at a quarter past five on the first of August has told the yard the column is ours, and Agnete did not stop her and is not going to, and gives the reason on the page: **she did not go to a counter for a year.** **She asks him to the Vestry on the sixth, and not to the counter.**
 3. **543, THE TWENTY-FIFTH OF AUGUST — A STREET THAT LOST ITS FOURTH CONDITION.** **SELA VOEL**, the first name ever entered in that book, comes to the counter at four minutes past with the day's page turned round to face her, because a division was at her door on the ninth of July. **Her half page cannot be completed: the third condition wanted a second person who has not been found, and the fourth condition — *it is not on a page anywhere in this city* — died the moment a satchel put the street on paper.** She walks eleven minutes to be told what she worked out at six in the morning. **Neither page is wrong and neither can be joined to the other.** Then the nine in a room over a chandler's and a street counted four times in thirty years, and one thing each with no answers.
 4. **544, THE THIRTIETH OF SEPTEMBER, QUARTER-END — SIX WORDS UNDER A KEEPER'S NAME, AND WHAT *NO HOLDER* MEANS.** The fourth block, the composition of premises 34-6-118, six words, her name. **SHE DOES NOT KEEP THE COUNT** and thirty multiplied by four is a hundred and twenty and no ordinal is printed. **WHAT SHE TELLS HIM IS THE WHOLE OF THE BOOK'S OLDEST DEFENCE: the account is held open not because nobody wrote it empty but because nobody's name is on it but hers, and hers is the name of the woman who writes it down and not of anybody who owns it.** She has known since about the ninth of July that he is going to put a name on it. **She asks no question, because she has asked one in this room in about eleven years.** **The quarter enters nothing: *entered: eight hundred and forty-one*, the same figure as the thirtieth of June, and the second column empty for a fifth quarter.** Ten days to the morning.
 5. **545, THE FIFTH OF OCTOBER AND THE NIGHT — A BROOM, FOUR FEET OF STONE, AND A QUESTION HE DOES NOT ASK.** He does not sleep for twenty-eight hours, goes down to a room with two chairs in it at one in the morning to look in an empty drawer, and walks to the ranks wall at half past four. **A woman who has cleaned four inches of pavement under the white tile every morning for about nine years tells him, unasked, that she has never once seen anybody put anything on it, and then stops saying anything.** **THE REASON HE DOES NOT ASK IS THE LAST THING HE OWNS THAT IS HIS: he is the only person the office may ask, nothing in this city takes an answer back out of that book once it is in, and a question on a pavement is now an act of the office.** He leaves, and **the leaving is the decision 548 completes.**
 6. **546, THE SIXTH OF OCTOBER — THE SCENE. AGNETE LINDQVIST. THE FIFTH AND LAST SCENE OF VOLUME 11.** The Vestry, half past nine at night, a yard that has gone home, nine people under an arch saying one thing each and answering nobody. **THE AXIS BROKEN IS THE VOICE**, carried by the yard's rule and by the household's rule of a kitchen arriving in a chapel four years later without anybody having moved it, **and it is named by nobody.** **She breaks it herself: he asks her a question and she answers him, which nobody has done in that room in twenty years.** She refuses again — the column is not the Church's, the words on the wall are nobody's, and she will not ask him to keep it for the Church either — **and what it costs her this time is the argument rather than the sentence: the yard decided on the first of August and she has not been able to stand in front of them since the first of October of the third year, and she says that plainly and does not blame him.**
 7. **547, THE TENTH OF OCTOBER — THE MORNING, AND A CREDITOR UP TWO FLIGHTS.** **ONE THOUSAND THREE HUNDRED AND TWENTY-NINE DAYS** off the first of February of the first year, derived twice on the page by two methods that share no constant, and **one thousand four hundred and forty days** after the tenth of October in the year of the sitting. **MAVIS ROOKE** comes up two flights of a third court at nine minutes past nine, slowly, without a hand on the rail, with the standing sheet folded in four in her hand, and puts her finger on the ninth line down. **She is the Register's first creditor and she cannot be paid and nobody in that building can tell her whether being found is being owed or being caught, and neither can the doctor.** She says the thing the chapter is about in four seconds and goes down the stairs the same way. **THE MORNING SETTLES NOTHING, IS NOT A TRIUMPH AND IS NOT A CATASTROPHE, AND THE REACH OF THE RETURN IS NOT RESOLVED AND IS NOT ARGUED.**
-8. **548, THE FIFTEENTH OF OCTOBER — THE FIGURE HE ENTERS HIMSELF. THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS.** Four lines on the office's foolscap at eleven minutes past ten, in his own hand, in the column headed *carried by*: that the thing returned on the first of October was taken from about a million people, that he decided who received it, that he decided it in one room, and that this office holds no money and cannot pay this. **THREE OF THE FOUR CONDITIONS ARE MET AND THE FOURTH IS NOT, and the clerk says why: the thing it describes is on a page in this city.** She enters it exactly as given and adds one sentence, which is the whole of what a clerk is permitted to add. **The column has one line in it and it is his, after five quarters and about eight hundred and forty-one lines in the column beside it.** He goes down afterwards and does not tell a keeper in the dark, and stands there instead. **WHAT IT CLOSES: the option of being a man who did a thing rather than a man who owes one. WHAT IT COSTS: the Register's first creditor is a man who cannot pay it, and six words that held an account open for thirty years now have a name against them.**
+8. **548, THE FIFTEENTH OF OCTOBER — THE FIGURE HE ENTERS HIMSELF. THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS.** Four lines on the office's foolscap at eleven minutes past ten, in his own hand, in the column headed *carried by*: that the thing returned on the first of October was taken from about a million people, that he decided who received it, that he decided it in one room, and that this office holds no money and cannot pay this. **THREE OF THE FOUR CONDITIONS ARE MET AND THE FOURTH IS NOT, and the clerk says why: the thing it describes is on a page in this city.** She enters it exactly as given and adds one sentence, which is the whole of what a clerk is permitted to add. **The column has one line in it and it is his, after seven quarter-ends and about eight hundred and forty-one lines in the column beside it. REPAIRED 14 OCTOBER 2026; THIS ROW PRINTED *FIVE QUARTERS*.** He goes down afterwards and does not tell a keeper in the dark, and stands there instead. **WHAT IT CLOSES: the option of being a man who did a thing rather than a man who owes one. WHAT IT COSTS: the Register's first creditor is a man who cannot pay it, and six words that held an account open for thirty years now have a name against them.**
 9. **549, THE TWENTY-SECOND OF OCTOBER — NINE THINGS, AND NOT ONE OF THEM TELLS HIM HE IS RIGHT.** The minute of the fifteenth names premises, six of the household keep that address, and the clause of the twenty-first of June puts them in a kitchen whether anybody wanted them there or not. **Nine women, one thing each, nobody answers anybody, the last one says hers last.** Ines on what an entry that cannot be struck does. Beatrix on four hundred and nineteen accounts in a book people can read their own street in. Runa on a column that is going to fill with people who decided. Nadia on the condition that throws her out and is correct. **ISOLDE MARCHETTI ON THE BOX UNDER THE STEP BEING GONE SINCE THE EIGHTH MONTH OF THE SECOND YEAR AND ABOUT FOUR HUNDRED AND EIGHTEEN OF HIS LINES BEING IN A BOOK IN A ROOM WITH A WINDOW, AND THAT HE IS ABOUT THE FOURTH THING THIS CITY HAS MADE PERMANENT WITH A PEN.** Petra on six of them being in that room. Tessa on the creditor and on not saying thank you. Marguerite: **a debt that cannot be paid is not a debt.** Agnete last, and the cost in order since the nineteenth of July of the second year, and she is not going to say this again.
 10. **550, THE TWENTY-EIGHTH OF OCTOBER — THE LAST CHAPTER. FOUR NAMES ON A FOLDED PIECE OF PAPER.** **Eighteen days after the morning**, which is twenty days of October after the tenth, less two. A branch office, a rota, a wall and the ordinary course of business. **WHAT CHANGES, AND IT IS THE POINT OF THE CHAPTER: the office still has no instrument and no money, the slates are still in the lane, the wall still cannot be read by anybody, the tile still has nothing under it, and something that did not exist four years ago now exists and is made of people** — eighty-one, nine divisions, a hundred of the Church and nine, forty of them and nothing, four hundred and nineteen lines in a book, one line in a column, a keeper, a street read once. **THE VOLUME'S VERDICT IS WRITTEN OUT IN HIS OWN HAND AND IT IS PAID, NARROWLY.** He ends the batch on a night shift, a mop in a bucket, a counter four feet up on a corridor wall, and the last two lines of the chapter repeating the only sentence the last morning produced.
 
@@ -378,7 +507,9 @@ ARITHMETIC   **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. EVERY INTERVAL PR
               *THIRTY-THREE MONTHS* IN THE BATCH 0004 STATE BLOCK DOES NOT DERIVE AND IS NOT ON THE PAGE.
               1,240 = 30 x 41 + 10, and at 550, 1,347 = 30 x 44 + 27.**
               542: **twenty-one days** from the eleventh of July (nineteen left in July and two of August), and
-              **four days** for the forty (one to the thirtieth of July, two more of July, one of August).
+              **three days** for the forty (thirty less twenty-nine is the one day to the thirtieth of
+              July, and two of August after that, and one and two is three). **THIS ROW PRINTED FOUR
+              DAYS AND A BREAKDOWN THAT NEEDED DAYS AFTER THE THIRTIETH UNTIL 14 OCTOBER 2026.**
               543: **twenty-three days** from the second of August, and **fifty-four** from the first of July
               (thirty days of July from the first to the first of August, and twenty-four more to the
               twenty-fifth). **THIS ROW PRINTED *TWENTY-FIVE* ON 14 OCTOBER 2026 AND WAS WRONG IN THE
@@ -528,7 +659,7 @@ SCENE 546    **AGNETE LINDQVIST. HER ONLY SCENE IN THIS BATCH. THE FIFTH AND LAS
 THE VOLUME   **THE VOLUME'S SENTENCE IS PAID, AND THE CHAPTER SAYS SO AT 550 IN HIS OWN NOTEBOOK RATHER THAN
              IN A REVIEW.** He wrote the definition of an unrecorded deed for an office that has no instrument,
              no money and no column; the office still has no instrument and no money; the column had nothing in
-             it for five quarters and has one line in it since the fifteenth of October and the line is him.
+             it for seven quarter-ends — **REPAIRED 14 OCTOBER 2026; THIS ROW PRINTED *FIVE QUARTERS* ON EIGHT LINES IN FIVE CHAPTERS AND ALL EIGHT ARE NOW *SEVEN QUARTER-ENDS*, FROM THE RULING OF THE NINTH OF MARCH OF THE THIRD YEAR = DAY 758** — and has one line in it since the fifteenth of October and the line is him.
              **THE SECOND ALTERNATIVE DID NOT HAPPEN AND NO CHARACTER IN THE BATCH SAYS IT DID:** the second
              line at the foot of the ranks wall is still on the stone in the office's own hand at the height of
              a name on a plate, a city cannot read it, and the man with the chalk is at the wall end of a lane

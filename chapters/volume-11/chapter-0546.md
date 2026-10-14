@@ -20,7 +20,7 @@ She had the lamp on the bracket turned down about a finger's width, which she do
 
 He sat down on the end of the bench against the wall, the way a man sits in a room that has a bench.
 
-"On the fifteenth of October I am going to write four lines and a name into that book," he said. "In my own hand, in the column that has been empty for five quarters. That the thing that went out of that account on the first of October was taken from about a million people and that I decided who received it."
+"On the fifteenth of October I am going to write four lines and a name into that book," he said. "In my own hand, in the column that has been empty for seven quarter-ends. That the thing that went out of that account on the first of October was taken from about a million people and that I decided who received it."
 
 "You have said that in a kitchen on the second of August in four lines and I have read four lines once."
 

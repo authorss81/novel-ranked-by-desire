@@ -657,3 +657,30 @@ The next phase is **`workspace/volume-12/plan/PROMPT.md`**, a **planning** phase
 **AND THE STANDING RULE FOR EVERY ARITHMETIC ROW FROM HERE ON, LEARNED AT THE COST OF FIVE FAILURES IN ONE VOLUME:**
 
 > **A gate row that quotes the prose it is checking cannot catch the prose. Every interval is derived from the spine, twice, with the operands printed — never copied out of the chapter it is meant to be checking.**
+---
+
+## 12. THE COMMIT THAT APPLIED WHAT THIS FILE CARRIED
+
+**RECORDED HERE AND NOTHING IN SECTIONS 1 TO 11 HAS BEEN REWRITTEN OR DELETED. THIS IS THE ONLY ADDITION TO THIS FILE AND IT IS A RECORD OF A COMMIT THAT HAS HAPPENED, NOT A REVISION OF THE AUDIT.**
+
+**14 OCTOBER 2026, in the same commit that wrote `outline/volume-12.md`. Findings 1–5 are APPLIED. Every line this file named was repaired, by command, and the title bank was re-run in that same commit.**
+
+| Finding | Every line repaired | Figure now on the page |
+| --- | --- | --- |
+| **1** | `chapter-0542.md:1` (the title), `:15`, `:17`, `:25` (the section heading), `:45`, `:49`, `:53`, `:61`, `:103`, `:107` — **ten lines** — plus `outline/volume-11.md` §10 row 542 and `state/chapter-summaries.md:44` | **three days.** `1,261 − 1,258 = 3`, printed at `:15` as *thirty less twenty-nine is the one day left in July, and there are two of August after that, and one and two is three.* **The title is now *Three Days Of Looking* and the heading is *Three Days Of It*.** No written chapter was renamed to make room. |
+| **2** | `chapter-0544.md:37` | **Fifteenth quarter** |
+| **3** | `chapter-0544.md:39` | **the eleventh day of July** |
+| **4** | `chapter-0537.md:95`, `chapter-0544.md:43` | **one year and twenty-one days** (1,139 − 758 = 381) · **one year, six months and twenty-one days** (1,319 − 758 = 561), with the ruling of the ninth of March of year three now printed on the line at 544 |
+| **5** | `chapter-0544.md:43`, `:85` · `chapter-0545.md:109` · `chapter-0546.md:23` · `chapter-0548.md:70` (the heading, now *Seven Quarter-Ends Of Nothing*), `:74` · `chapter-0550.md:78`, `:102` — **eight lines in five chapters** | **seven quarter-ends**, with `1,334 − 758 = 576` = one year, seven months and six days printed at 548:74 |
+
+**`chapter-0544.md:43` CARRIED FINDING 4 AND FINDING 5 ON ONE LINE AND WAS REPAIRED FOR BOTH IN ONE PASS**, so that no clause in the book says five quarter-ends and one year and six months at once.
+
+**THE CONVENTION DROPPED, as §6b Finding 5 required it to be recorded somewhere: the count is now taken from the ruling of the ninth of March of year three. `chapter-0539.md:115` and `:125`, which count four quarters from the quarter in which Sun Meiling made her prediction, were not touched — they are not this phase's, and the two conventions differed by two.**
+
+**THE RE-RUN AFTER THE REPAIR, by command:** `grep -ri "five quarters" chapters/volume-11/` → **0**; `grep -i "four days" chapters/volume-11/chapter-0542.md` → **0**; `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all five hundred and fifty**; Volume 11 is **113,661** words counted per file and summed, and Batch 0005 is **22,683**, both up from 113,615 and 22,641 because four sentences were rewritten as their operands rather than their intervals.
+
+**WHAT WAS NOT TOUCHED: the lane's age at 550 is one thousand four hundred and sixty-six mornings, printed once, and `PC-153` is not printed twice. The spine is unchanged at 1240 · 1261 · 1284 · 1319 · 1324 · 1325 · 1329 · 1334 · 1341 · 1347, monotonic, zero violations, summing 117 from 1,230. `outline/ending.md` is untouched. No chapter was restarted, no scene was replaced, no event, date, character or plot moved.**
+
+**Findings 6, 7 and 8 remain RECORDED AND NOT APPLIED, and this commit did not apply them.** Finding 6 is a duplicated section title inside a closed volume. **Finding 7 is the *What* in `chapter-0534.md`, and it is `outline/volume-12.md` §10 that now rules on it.** Finding 8 is a borrowed staging at 515, and §4a of the Volume 12 outline now names the Alma Quayle staging so that no Volume 12 body can take it.
+
+**The five sentences this audit was run to protect held.** They are on every arithmetic row in this repository now, including the ones this file could not see.

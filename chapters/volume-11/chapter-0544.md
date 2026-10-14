@@ -34,13 +34,13 @@ He thought about that for about nine seconds and did not do it.
 
 At four on the thirtieth of September the sheet went out with an address at the head of every line.
 
-*Register of Unrecorded Merit. Sixteenth quarter. Entered: eight hundred and forty-one.*
+*Register of Unrecorded Merit. Fifteenth quarter. Entered: eight hundred and forty-one.*
 
-It is the same figure as the thirtieth of June. It is the same figure as the ninth day of July when the satchel came in, and it is the same figure it has been since the first of July, and between the first of July and this afternoon four hundred and nineteen accounts went into that book and not one of them was a deed and not one of them moved the number.
+It is the same figure as the thirtieth of June. It is the same figure as the eleventh day of July when the satchel came in, and it is the same figure it has been since the first of July, and between the first of July and this afternoon four hundred and nineteen accounts went into that book and not one of them was a deed and not one of them moved the number.
 
 Two hundred people a week in Cordwain read a sheet in which a round of nine divisions over ninety days at about nine hundred steps has produced no entries at all.
 
-And under the figure, two columns. The first with eight hundred and forty-one lines against it. The second headed *carried by*, ruled, and empty, and it has been empty for five quarters and it has not done one day's work in the four years it has been on that sheet.
+And under the figure, two columns. The first with eight hundred and forty-one lines against it. The second headed *carried by*, ruled, and empty, and it has been empty for seven quarter-ends, which is one year, six months and twenty-one days off the ninth of March of the third year when it was ruled, and it has not done one day's work in the whole of that time.
 
 Then the office's own sentence, in the one sentence a clerk is permitted to add, four words longer than that sentence is supposed to be, and it is the only sentence on the page:
 
@@ -82,7 +82,7 @@ He did not answer for about four seconds.
 
 "On the fifteenth of October I am going to enter a claim against myself," he said. "In the office's own book, in the office's own hand off my hand, in the column headed *carried by*, because that is what the column says and it is the first time in four years that the column has been able to say anything at all."
 
-"That column has been empty for five quarters."
+"That column has been empty for seven quarter-ends."
 
 "It has."
 

@@ -1,4 +1,4 @@
-# Four Days Of Looking
+# Three Days Of Looking
 
 He went up the arcade at about half past seven in the evening of the second of August, and the arcade was the width of two men and full, and about nine hundred people go up and down it a day past the doors where Nadia Ferrous works, and Nadia Ferrous was on her door and said good evening to him without stopping.
 
@@ -12,9 +12,9 @@ Twenty-one days from the eleventh of July to this evening.
 
 ## The Yard Without Forty In It
 
-Forty of them had gone out on the twenty-ninth of July and they came back at about four this afternoon, and a day is four days: one day to the thirtieth of July and two more days of July and one day of August.
+Forty of them had gone out on the twenty-ninth of July and they came back at about four this afternoon, and it is three days, because thirty less twenty-nine is the one day left in July, and there are two of August after that, and one and two is three.
 
-So the yard was short of forty all day and nobody could have told you which forty, and she had put them out herself, and she had not gone with them, and she had spent four days in a building with about eleven thousand people in it and forty fewer.
+So the yard was short of forty all day and nobody could have told you which forty, and she had put them out herself, and she had not gone with them, and she had spent three days in a building with about eleven thousand people in it and forty fewer.
 
 He had heard about it from a woman who keeps a stall at the yard end who has known him since the eighteenth of October of the first year, and the woman's account of it was that the forty went to look at people.
 
@@ -22,7 +22,7 @@ He had heard about it from a woman who keeps a stall at the yard end who has kno
 
 "The ones your divisions found," she said. "The ones on the street where the women went and stood about a fortnight ago and the women on that street have not been right since and I could not tell you one thing they said and I am not going to try."
 
-## Four Days Of It
+## Three Days Of It
 
 She was in the room behind the arcade with the door shut and her coat on, and she had been in the room since about half past four.
 
@@ -42,15 +42,15 @@ She turned her head about nine degrees, the way she does at a table, and not onc
 
 "And they came back with nothing."
 
-"They came back with nothing," said Agnete Lindqvist. "Forty women went to ninety-one doors for four days and asked nothing and stayed until it got dark, and not one of them came back with a thing that could go in your book, and that is not because they did it wrong. It is because nothing that a stranger can sit with you for two hours for is a deed. It is a thing that happened to you."
+"They came back with nothing," said Agnete Lindqvist. "Forty women went to ninety-one doors for three days and asked nothing and stayed until it got dark, and not one of them came back with a thing that could go in your book, and that is not because they did it wrong. It is because nothing that a stranger can sit with you for two hours for is a deed. It is a thing that happened to you."
 
 ## Being Useful And Being Owed
 
-"So the two words came apart in my yard," she said, "in four days, and not in a conversation. They came apart because about nine hundred people in this yard have watched forty of their own go out and come back with nothing, and about nine hundred of them have worked out the answer themselves, which is that being useful is how you get to be owed nothing."
+"So the two words came apart in my yard," she said, "in three days, and not in a conversation. They came apart because about nine hundred people in this yard have watched forty of their own go out and come back with nothing, and about nine hundred of them have worked out the answer themselves, which is that being useful is how you get to be owed nothing."
 
 She had her hands in her pockets.
 
-"That is what I have prevented for nine years. I made the word *owed* mean a thing you do and not a thing you are, and the whole of this building is that one piece of work, and I have just watched four days of it come undone on a list of ninety-one addresses that I could read for nothing."
+"That is what I have prevented for nine years. I made the word *owed* mean a thing you do and not a thing you are, and the whole of this building is that one piece of work, and I have just watched three days of it come undone on a list of ninety-one addresses that I could read for nothing."
 
 "Tell me it was the wrong thing to do and I will go and stand in the yard and say so myself."
 
@@ -58,7 +58,7 @@ She had her hands in her pockets.
 
 "Then say what it cost."
 
-"That is the whole of what it cost and it is why the yard has got a new word," she said. "They are calling it *looking*. My own. Nine hundred people, in about four days, out of a yard of eleven thousand. And they are saying it the way they say things when they have understood something about themselves, and they are saying it at me."
+"That is the whole of what it cost and it is why the yard has got a new word," she said. "They are calling it *looking*. My own. Nine hundred people, in about three days, out of a yard of eleven thousand. And they are saying it the way they say things when they have understood something about themselves, and they are saying it at me."
 
 ## The Thing She Would Not Say In The Yard
 
@@ -100,11 +100,11 @@ She turned her head.
 
 "Because everything I say in this room cannot be used against anybody anywhere else in this city, and that has been the price of it for twenty years," said Agnete Lindqvist, "and I am not going to pay it twice for the same thing. You will understand what you are being told when I say the rest of it."
 
-*Second of August of the fourth year. The Vestry and the yard, half past seven, and forty of them out since the twenty-ninth of July for four days.*
+*Second of August of the fourth year. The Vestry and the yard, half past seven, and forty of them out since the twenty-ninth of July for three days.*
 
 *About eleven thousand where there were four thousand when I sat at a table in a kitchen and made the nine-year promise that the column would be ours.*
 
-*Ninety-one doors and no questions and nothing came back, and the two words came apart in a yard in four days and not in a conversation.*
+*Ninety-one doors and no questions and nothing came back, and the two words came apart in a yard in three days and not in a conversation.*
 
 *And she has not been to that counter for about a year and did not stop a woman on her own steps and is not going to stand up again, and she says that plainly and she says it as a fact about herself and not as a thing that needs doing.*
 

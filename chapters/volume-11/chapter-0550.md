@@ -75,7 +75,7 @@ Forty of them went out for four days at the end of July to ninety-one doors and 
 
 There is a page with nine lines on it and no name against it and a woman two flights up off Cordwain who is the creditor of an account that belongs to nobody.
 
-There is one line in a column that was ruled on the ninth of March of the third year and was empty for five quarters, and it goes out on a public desk on the thirtieth of December, which is fifteen days of October and thirty of November and thirty of December away.
+There is one line in a column that was ruled on the ninth of March of the third year and was empty for seven quarter-ends, and it goes out on a public desk on the thirtieth of December, which is fifteen days of October and thirty of November and thirty of December away.
 
 There is a keeper two floors under a sales floor with six words in a chained book under her own name that she is going to take off a shelf on the first of January and read, and a name against them that was not there at ten past ten on the fifteenth.
 
@@ -99,7 +99,7 @@ He wrote it up on the top step of the third flight at a quarter to five, with th
 
 *The office has no money and never had any.*
 
-*The office had no column for five quarters, and it has one line in it now, and the line is me.*
+*The office had no column for seven quarter-ends, and it has one line in it now, and the line is me.*
 
 *That is the whole of it and it took four years and it cost one house, one warden, one yard of about eleven thousand people, the fourth condition of about four hundred and nineteen people who never got a deed out of it, and one night under a tile that I did not spend, which was the only thing I had left that was mine.*
 

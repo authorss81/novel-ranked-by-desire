@@ -67,11 +67,11 @@ She wrote it. It took her about eleven seconds and she did not look up while she
 
 *The Register of Unrecorded Merit has entered a claim against a person, in the column headed carried by. Of the four conditions given, the first, second and third were met. The fourth was not met, and the reason is that the thing it describes is on a page in this city.*
 
-## Five Quarters Of Nothing
+## Seven Quarter-Ends Of Nothing
 
 The column had been ruled on the ninth of March of the third year and had been empty on the thirtieth of March, and empty on the thirtieth of June, and empty on the thirtieth of September, and empty on the thirtieth of December, and empty on the thirtieth of March and the thirtieth of June and the thirtieth of September of this year.
 
-Five quarters and two years of it, and about eight hundred and forty-one lines in the column beside it, and a quarter with eight hundred and forty-one doors in it that moved the figure by nothing at all.
+Seven quarter-ends, which is one year, seven months and six days off the ninth of March of the third year when the column was ruled, and about eight hundred and forty-one lines in the column beside it, and a quarter with eight hundred and forty-one doors in it that moved the figure by nothing at all.
 
 And a woman had told a clerk in a counting room on the thirtieth of September of the third year what that column would do when it began, and she had said it would go faster than anything this city has ever watched and that not one particle of it would ever have been earned.
 

@@ -92,7 +92,7 @@ Thirty-four at the thirtieth of December and five more in ninety days. One of th
 
 Nineteen people in ninety days against a hundred and twenty-nine at the door, and he had written at four in the morning on the second of January, in a column that was not one of his three, that he wanted one person through that door before the thirtieth of March.
 
-And after the figure, two columns. The first with thirty-nine lines against it. The second headed *carried by*, ruled, and empty, and it is empty because a person who cannot name a day is kept out by the second condition and not by the column, and the column has not done one day's work in the four years it has been on that sheet.
+And after the figure, two columns. The first with thirty-nine lines against it. The second headed *carried by*, ruled, and empty, and it is empty because a person who cannot name a day is kept out by the second condition and not by the column, and the column has not done one day's work in the one year and twenty-one days it has been ruled on that sheet.
 
 And under the whole of it, in the office's own hand, in the one sentence a clerk is permitted to add, four words longer than that sentence is supposed to be:
 

@@ -106,4 +106,4 @@ The tile was still there. It had not moved and it had not been explained and it 
 
 *In ten days it is the morning. In five days it is the sixth, and there is a room with no door on it off a courtyard in this city where a woman has said she is going to say a thing out loud that has been said in about eleven rooms for four years, and I am going to be in it.*
 
-*And on the fifteenth I am going to put my own name in a column that has been empty for five quarters, and I have known since the second of August that I am going to, and there is no instrument in this city that can stop a man putting his own name in a book about himself.*
+*And on the fifteenth I am going to put my own name in a column that has been empty for seven quarter-ends, and I have known since the second of August that I am going to, and there is no instrument in this city that can stop a man putting his own name in a book about himself.*
