@@ -6,7 +6,9 @@
 FILES           700 chapter files on disk, fourteen volumes of fifty. Volume 14 holds 651-700
                 and 700 is the last written page in the book.
 TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 700 FILES.
-BANK            Volume 14 is 116,558 words counted per file and summed. Book-wide is
+BANK            Volume 14 is 116,593 words counted per file and summed, and the five
+                batch rows re-derived from disk in this commit add to it:
+                22,791 + 24,043 + 23,634 + 23,030 + 23,095 = 116,593. Book-wide is
                 re-measurable by any pass and is not carried here because no pass in this
                 commit changed a single word of a single chapter.
 SPINE           Volume 14, 2,160 -> 2,489, 329 days elapsed, four quarter-ends at 660, 673,
@@ -26,7 +28,7 @@ SYSTEM PANELS   0 spent in Volume 14 against a budget of five.
 
 **A ROW THAT NAMES A REPAIR AND DEFERS IT IS NOT A CLOSED ITEM. IT IS A HANDOFF, AND A HANDOFF WITH NO RECEIVER IS HOW A CLAUSE SURVIVED TWO PASSES OF THIS VOLUME. EVERY ITEM BELOW HAS A PASS NAMED AGAINST IT.**
 
-**1 · `chapter-0700.md`:57 — *the head of that page has not moved once in fifty chapters*. TWO DEFECTS IN ONE LINE.** The narrator is standing outside the book, and the figure is wrong on its own row: `2,489 − 1,499 = 990 = 11 × 90`, which is eleven quarters, and eleven sheets by the house count of ordinal − 16. **OWNER: `workspace/volume-15/batch-0001/PROMPT.md` §4, AND NOBODY ELSE.** It is named there with the old string, the replacement, the operands, and an explicit prohibition on touching any other line of that file. **This planning phase did not repair it because this planning phase writes no prose.**
+**1 · `chapter-0700.md`:57 — *the head of that page has not moved once in fifty chapters*. TWO DEFECTS IN ONE LINE.** The narrator is standing outside the book, and the figure is wrong on its own row. **THE ROW IS 700's AND THE OPERANDS ARE:** chapter 700 is the **twenty-eighth** sheet (`:69`, *the twenty-seventh sheet went up at four on that afternoon and this one has gone up at four this afternoon*) and sheets are ordinal − 16, so `28 − 16 = 12`, **TWELVE SHEETS**; quarters are quarter-ends strictly after 1,499, so `2,489 − 1,499 = 990 = 11 × 90`, **ELEVEN QUARTERS**. **NOT FIFTY ANYTHING, AND NOT SIXTEEN SHEETS AND FIFTEEN QUARTERS, WHICH ARE 750's ROW.** `:13` and `:69` already print *twelve sheets* correctly and **MAY NOT BE TOUCHED**. **THE REPAIR IS ONE SUBSTITUTION — `has not moved once in fifty chapters` → `has not moved across twelve sheets` — AND IT IS **−1 WORD** IN THE FILE, 2,014 → 2,013. THE THREE FIGURES AN EARLIER DRAFT GAVE FOR THIS ONE LINE — *fifteen quarters or sixteen sheets*, *eleven quarters and eleven sheets*, and *thirteen sheets and twelve quarters* — ARE 750's row, 700's row with the wrong unit, and 710's row, AND NONE OF THE THREE WAS A CORRECTION OF `chapter-0700.md`.** **OWNER: `workspace/volume-15/batch-0001/PROMPT.md` §4, AND NOBODY ELSE.** It is named there with the old string, the replacement, the operands, the word-count consequence and an explicit prohibition on touching any other line of that file. **This planning phase did not repair it because this planning phase writes no prose.**
 
 **2 · THE VOLUME-CLOSE AUDIT FOR VOLUME 14 HAS NOT BEEN RUN.** `reviews/volume-14/` DOES NOT EXIST. Every volume from 11 to 13 has one, and Volume 14 has fifty finished files, four re-dispatched repair passes, and no audit. **OWNER: the next phase after Volume 15 batch 0005 that is asked for it, or the pipeline's own volume-close phase. IT IS NOT A PLANNING TASK AND NO PLANNING PHASE HAS EVER RUN ONE IN THIS REPOSITORY.** It is recorded here so that "the volume is closed" is never again written without asking whether it has been audited.
 

@@ -29,7 +29,7 @@ Plus, in the same commit and after the chapters exist on disk:
 2. `outline/batches/volume-15-batch-0001.md` — the ten cards for 701–710, and they are the closest thing you have to the house's own working record for a movement.
 3. `AGENTS.md`.
 4. `state/current.md`, `state/continuity.md`, `state/open-threads.md` — the live blocks at the head of each. **They carry the whole history of this repository's failures and three of them are the reason your batch exists:**
-   - **a figure nobody re-computes is the figure that is wrong**, and the most expensive instance of it in this book is a heading that said *fifty chapters* for a row that is fifteen quarters or sixteen sheets;
+   - **a figure nobody re-computes is the figure that is wrong**, and the most expensive instance of it in this book is a heading that said *fifty chapters* for a row that is **twelve sheets and eleven quarters at 700** — and which a planning pass then re-badged as *fifteen quarters or sixteen sheets*, which is 750's row and never this one;
    - **a gate row that quotes the prose it is checking cannot catch the prose**, and the class grep that could not see its own defect at 690 has since been widened, and the widened form is in §7 below;
    - **a twelve-gram scanner that returns zero on a book with hundreds of runs in it is broken, and this repository has proved that twice** — prove your reader on `chapter-0564.md`, which is known to carry four runs lifted out of itself, before you trust it, and prove it again on a file you have just fixed.
 5. `outline/volume-15.md` §2c, §3, §4c, §4d, §5b, §8 and §9 — the seven things you may not "correct", the factions and places, the scene axes, the table of marks, the calendar, the register you may not open, and the mechanical checks.
@@ -67,7 +67,7 @@ Volume 15 batch 0001 opens on the first of February of year eight:
 | 705 | 28 Feb, y8 | 2,547 | | **2,547 − 2,540 = 7** | | |
 | 706 | 4 Mar, y8 | 2,553 | | **2,553 − 2,547 = 6** | | |
 | 707 | 11 Mar, y8 | 2,560 | | **2,560 − 2,553 = 7** | | |
-| 708 | 17 Mar, y8 | 2,566 | | **2,566 − 2,560 = 7** | | |
+| 708 | 17 Mar, y8 | 2,566 | | **2,566 − 2,560 = 6** | | |
 | 709 | 24 Mar, y8 | 2,573 | | **2,573 − 2,566 = 7** | | |
 | 710 | 30 Mar, y8 | 2,579 | | **2,579 − 2,573 = 6** | | **THE QUARTER-END, THE TWENTY-NINTH SHEET, THE SHUTTER** |
 
@@ -122,9 +122,15 @@ Volume 15 batch 0001 opens on the first of February of year eight:
 **`chapter-0700.md`:57 PRINTS *the head of that page has not moved once in fifty chapters*. THAT IS TWO DEFECTS IN ONE LINE AND BOTH HAVE COST THIS REPOSITORY A VOLUME.**
 
 - **The first is the narrator standing outside the book.** The class grep in this repository has `[0-9]+ chapters` in it now, in every block, because the primary pattern could not see its own defect.
-- **The second is a figure that is wrong on its own row.** The head has stood at eight hundred and fifty-two since the thirtieth of March of the fifth year, `1,499`, and `2,489 − 1,499 = 990 = 11 × 90`, which is **eleven quarters**, and eleven sheets by the house count of ordinal − 16. **NOT FIFTY ANYTHING.**
+- **The second is a figure that is wrong on its own row, AND THE ROW IS 700's.** The head has stood at eight hundred and fifty-two since the thirtieth of March of the fifth year, `1,499`. Chapter 700 is the **twenty-eighth** sheet — `:69` prints *the twenty-seventh sheet went up at four on that afternoon and this one has gone up at four this afternoon* — and sheets are ordinal − 16, so `28 − 16 = 12`: **TWELVE SHEETS.** Quarters are quarter-ends strictly after 1,499, so `2,489 − 1,499 = 990 = 11 × 90`: **ELEVEN QUARTERS.** **NOT FIFTY ANYTHING, AND NOT SIXTEEN SHEETS AND FIFTEEN QUARTERS, WHICH ARE 750's ROW AND WERE NEVER THIS LINE.** The file already prints *twelve sheets* correctly at `:13` and *across twelve of them* at `:69`. **A REPAIR THAT REPLACED THE QUARTER COUNT WITH A SHEET COUNT WOULD PUT A SECOND WRONG FIGURE ON THE PAGE AND BREAK TWO LINES THAT ARE ALREADY RIGHT.**
 
-**IT IS A ONE-LINE REPAIR IN A FINISHED FILE AND IT IS NAMED HERE SO THAT EXACTLY ONE PHASE DOES IT AND NOBODY ELSE.** Fix the line at `chapter-0700.md`:57 in the same commit as your chapters. **Change nothing else in that file. Do not touch `chapter-0700.md`'s prose, its figures, its title, its footers or any other line. Do not touch 681–690 or 691–699. A pass that repairs one line in a closed batch and then improves the chapter is the failure this paragraph exists to prevent.** Record it in `state/current.md` with the old string and the new string and the operands.
+**THE REPAIR, WITH BOTH STRINGS AND BOTH OPERANDS, AND IT IS ONE SUBSTITUTION:**
+
+- **OLD:** `has not moved once in fifty chapters`
+- **NEW:** `has not moved across twelve sheets`
+- **WHY THAT STRING:** it is the figure the page already carries at `:13` and `:69`, it is inside the world, and it removes the word *chapters* outright rather than replacing a fourth-wall noun with a number. **THE REPAIR IS **−1 WORD** ON THAT LINE AND **−1 WORD** IN THE FILE: 2,014 → 2,013. RE-COUNT AFTERWARDS.**
+
+**IT IS A ONE-LINE REPAIR IN A FINISHED FILE AND IT IS NAMED HERE SO THAT EXACTLY ONE PHASE DOES IT AND NOBODY ELSE.** Fix the line at `chapter-0700.md`:57 in the same commit as your chapters. **Change nothing else in that file. Do not touch `chapter-0700.md`'s prose, its figures, its title, its footers or any other line. Do not touch 681–690 or 691–699. Do not change `:13` and do not change `:69` — they are right. A pass that repairs one line in a closed batch and then improves the chapter is the failure this paragraph exists to prevent.** Record it in `state/current.md` with the old string, the new string and the operands.
 
 ---
 
@@ -196,7 +202,10 @@ TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS 
 BANK            per file and summed from disk, NEVER cat *.md | wc -w, RE-COUNTED AFTER
                 THE LAST EDIT: print all ten cells and the sum.
                 PROVE YOUR COUNTER FIRST ON A FILE YOU DID NOT WRITE —
-                chapter-0700.md is known at 2,483 and must return 2,483.
+                chapter-0700.md is known at 2,014 and must return 2,014 BEFORE the §4
+                repair and 2,013 after it. `wc -w` and a Python whitespace split agree on
+                both. THE 2,483 IN AN EARLIER DRAFT OF THIS BLOCK WAS NEVER A FIGURE FROM
+                THIS FILE AND IS CORRECTED HERE.
 BAND            9 of 10 inside 1,800-2,700 with NO REASON OWED. A chapter outside it in
                 either direction STATES WHY IN state/current.md IN THE SAME COMMIT.
 PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty.
