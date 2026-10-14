@@ -1,3 +1,89 @@
+# VOLUME 14 BATCH 0003 RE-DISPATCHED 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK BY TWO METHODS THAT SHARE NO CONSTANT, MONOTONIC **0 VIOLATIONS**, **AND THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS.** **A FIGURE WAS WRONG ON THE PAGE IN MY OWN CHAPTER AND WAS WRONG IN THE DIRECTION THAT COSTS THE READER THE VOLUME'S CENTRAL FACT: `chapter-0677.md`:13 SAID *TWO IN A WEEK* WHERE 677 ITSELF SAYS *NINE* TWICE AND THE WHOLE VOLUME SAYS *ABOUT NINE*. IT IS REPAIRED IN THE CHAPTER. TWO BORROWED STAGINGS AND ONE REPEATED CHARACTER'S OWN SENTENCE WERE ALSO REPAIRED IN THE CHAPTERS. EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT.** **12-GRAM AGAINST ALL 700 FILES: 7 MAXIMAL RUNS TOUCHING 671–680, EVERY ONE CLASSIFIED BY HAND IN §0c AND NONE A LIFTED SENTENCE.** THIS BLOCK SUPERSEDES THE BATCH-0003 VERIFIED BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
+
+## 0a. THE SPINE, RE-RUN FROM DISK IN THIS COMMIT, WITH ITS OPERANDS PRINTED
+
+```
+day 0 = 1 February, year one.  A month is thirty days and there is no thirty-first.
+METHOD A   (y-1) x 360 + off[month] + (d-1)      off Jun 120, Jul 150, Aug 180
+METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Jun 4, Jul 5, Aug 6  — contains no 360
+
+  ch  date         METHOD A   METHOD B
+  671  17 Jun y7    6x360+120+16 = 2296     2296
+  672  24 Jun y7    6x360+120+23 = 2303     2303
+  673  30 Jun y7    6x360+120+29 = 2309     2309   QUARTER-END, twenty-sixth sheet, SCENE
+  674   7 Jul y7    6x360+150+6  = 2316     2316
+  675  13 Jul y7    6x360+150+12 = 2322     2322
+  676  20 Jul y7    6x360+150+19 = 2329     2329
+  677  26 Jul y7    6x360+150+25 = 2335     2335
+  678   3 Aug y7    6x360+180+2  = 2342     2342
+  679   9 Aug y7    6x360+180+8  = 2348     2348
+  680  16 Aug y7    6x360+180+15 = 2355     2355
+
+  monotonic violations, METHOD A and METHOD B, both ............ 0
+  the NINE inside the batch .................................... 7 6 7 6 7 6 7 6 7
+  *** THE PROOF IS THE SUM: 7+6+7+6+7+6+7+6+7 = 59  AND  2355 - 2296 = 59. THE ROW IS CORRECT. ***
+  the SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE .......... 2296 - 2289 = 7
+  673 is the quarter-end: 6x360 + 120 + 29 = 2309 = 2309 ....... True
+```
+
+**`outline/volume-14.md` §5c's row `7 6 7 6 7 6 7 6 7 = 59` IS CORRECT AGAINST THE PAGE AND NEEDS NO CORRECTION. THE PHASE PROMPT'S OWN ROW WAS NOT.** The prompt gave `7 7 6 7 6 7 6 7 6 7 = 65` for this batch and `2,355 - 2,296 = 65`, and **the list has ten terms because the seam was prepended to the nine, it sums to 66, and the endpoints differ by 59. A prompt that names the seam-in-the-head variant as one that has happened twice here commits it on its own arithmetic line.** §5c, which was written before the chapters, is the row that survives, and the volume outline already carries this finding against movement three.
+
+**AND BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER, ALL NINE TERMS WERE ALSO READ AGAINST THEIR OWN CHAPTER'S DATE ONE AT A TIME BY A SECOND PROGRAM THAT KNOWS NOTHING ABOUT DAY NUMBERS. ALL NINE ARE CORRECT.**
+
+**THE TWO NOVEMBERS AT 680, RE-DERIVED IN THIS COMMIT: `2,355 − 2,078 = 277` from the ninth of November of year six, which is the shutter, and `2,355 − 1,718 = 637` from the ninth of November of year five, which is the sentences at the foot of the page. NEITHER IS 411, AND `411` IS PRINTED ZERO TIMES ACROSS ALL TEN FILES. Both anchors are named on the page at 680, which is what the rule requires of a chapter that prints the figure.**
+
+**THE FIGURE THE BATCH OWED AND ITS ROW, UNCHANGED BY THIS PASS: the office's months, printed nowhere in 671–680 · the wall's rate, printed nowhere · the lane's mornings, printed nowhere · the sheet's ordinal, *twenty-sixth* at 673, with the head at eight hundred and fifty-two unmoved across ten sheets · the second column, still two lines at 680, and the entry owed at 684 · the yard's figure against a course of dressed stone, described and not printed, and not in this movement · the docket's date, not printed and not derived.**
+
+## 0b. THE FOURTH WALL, THE CLASS GREPS, AND THE HOUSE-FORM GLYPHS — EVERY ROW A MEASUREMENT
+
+CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`: **0 PRIMARY, 0 WIDENED, 0 EXTENSION, across all ten.** The two words in that class that have been missed before — *manuscript* and *opposition* — are in the pattern and were run. **No chapter of this batch was rewritten for this row, because nothing in this batch was broken on it.**
+
+WEEKNAMES seven names, whole-word and stem, with `sat` and `sun` excluded as the verb and the name and the three-letter forms not used because `mon` is a prefix of *month*: **0 NAMES.** The probe returns `sat` 7 times across 673, 674, 675 and 680 and every one of the seven is the verb — *He sat down*, *The counting house sat over a shop*, *came and sat down at the third table*. Classified as the verb in all seven.
+
+AGES eleven probe forms plus a bare `aged` sweep plus spelled-out spans: **0 FOR A PERSON.** The probe returns 14 hits and **every one of the fourteen is classified here**: *about forty feet*, *about thirty feet*, *about two hundred and forty people*, *about fifty people*, *about nine hundred people* are counts of people or distances; *about eighteen inches wide* is a width; *about ten*, *about half past two*, *about six*, *about twenty past six* are clock times; *about forty years*, *about twenty years*, *about thirty years* are durations. **Not one is an announced age. Hanneke Ruis has no age and none is given anywhere in 673. The boy is not aged and at 677 he is *the boy*. Perla Quist is not that number again in prose. Agnete Lindqvist is forty-five and is not aged.**
+
+MARKS `right temple` **0 book-wide across all 700 files** · `cuticle` **4 files book-wide (329, 340, 404, 446), this batch adds none** · `ostho` **0** · **a hand flat on anything, by anybody: 0 across the ten, and no hand is put on a table, a hoarding, a scaffold pole, a kerb, a counter, a shelf or a wall.** Hanneke Ruis, Perla Quist and the boy have no mark and no age and no stage.
+
+SENTENCE BUDGET the invented-figures sentence, verbatim: **0 in this batch** — it was spent at 658 and 671–680 does not stand it again — and **Tier 3, the near-verbatim form: 0 as well.** No footer's invented-figures clause is quoted verbatim in any other words either, because no footer in this batch carries it.
+
+ACCOUNT `8,1xx` **0** · two hundred and eleven thousand **0** · `settl` **0 in every inflection** · `grains` **0** · **no floor, no ledger total and no running balance anywhere in the ten.**
+
+QUARTERLY 852 unmoved, named as the head and **never as a count of deeds**, and unmoved across ten sheets at 673 · **the twenty-sixth sheet IS written in this batch, at 673, on a chapter that re-derives 2,309 and names the third quarter-end** · the second column holds two lines through 680 and the entry is owed at 684 and is movement four's · **neither repainting box is filled and the boy says nothing whatever about either square at 677, which he said once at 664 and may not say again** · **nothing goes into the two inches in any chapter of this batch, and no chapter calls the head a count of deeds.** `841` and `419` are two numbers and are not merged anywhere in the ten.
+
+MARKDOWN blockquotes 0 · tables 0 · rules 0 · fences 0 · bold 0 · **single-asterisk markers even in all ten** · one `# ` per file · **52 `## ` headings across the ten and not one recurs inside a file or across the ten.** System panels: none.
+
+**THE HOUSE FORM IS CURLY AND THE GLYPH COUNT IS RUN ON EVERY FILE ON DISK AND THE TITLE LINES ARE SEPARATED FROM THE BODIES, BECAUSE A GATE THAT MEASURES THE BODY AND SAYS IT ALSO MEASURED THE TITLE LINE IS MEASURING THE BODY TWICE.** Book-wide: **56,016 straight and 11,766 curly across 700 files.** Across my ten: **776 curly and 0 straight, and 0 straight glyphs on any of the ten title lines** — the sixteen straight title glyphs book-wide are on files this pass did not touch, and the two Volume 13 ones named in §2c item 2 are still where they were.
+
+**PARAGRAPHS 0 over roughly ninety words, 0 over one hundred and twenty, 0 paragraphs with an odd count of quotation marks.** Within-file duplicate paragraphs **0 at identity and 8 at Jaccard 0.62, and all eight are the same named class** — the month-count arithmetic device, where the prose proves an interval with its operands and the italic footer carries the same interval with the same operands: 671, 672, 673, 675, 677, 678, 679 and 680, one pair each. **It is the device, not a defect, and it is classified rather than cut.** Cross-file duplicate paragraphs inside the ten: **0.** Orphan speech, a paragraph of direct speech with no quotation marks and no speech tag: **0.**
+
+## 0c. THE TWELVE-GRAM INVENTORY, EVERY RUN CLASSIFIED BY HAND, AND THE SCANNER PROVED BEFORE IT WAS TRUSTED
+
+**THE SCANNER IN THIS COMMIT IS A DIFFERENT ONE FROM ANY THAT HAS SCORED A NUMBER IN THIS REPOSITORY, AND THE FINDING IS THE HEADLINE OF THIS BLOCK.** The two scanners that stand in this file's history both answered at speed and with total confidence and both were wrong about the same thing: **a gram is not maximal if a later occurrence of the same gram is followed by the same next word.** The version that indexed only 12-grams tested extension at twelve tokens to the right instead of one, and therefore reported every sliding window of a single shared run as a separate maximal run — **49 "maximal runs" touching the ten where there are seven.** A reader that opens every file and asks the wrong question is the exact failure this repository has now paid for three times.
+
+**THE REPLACEMENT IS AN 8-GRAM PREFILTER TO CANDIDATE PAIRS AND THEN `difflib.SequenceMatcher(...).get_matching_blocks()` OVER EVERY CANDIDATE PAIR, WHOSE BLOCKS ARE MAXIMAL BY CONSTRUCTION, AND EVERY DISTINCT RUN IS REPORTED ONCE AT ITS LONGEST LENGTH.** It is proved on a file with a known answer before it is trusted: run against `chapter-0564.md`, which this repository's own record names as carrying four runs lifted out of itself, **it returns 4 maximal runs of twelve tokens or more against every other file in the book, and it is not zero.** Batch 0004's first scanner returned zero across six hundred and ninety files; its second returned zero too; a third returned 694 against a book that has hundreds. **This one returns 1,596 distinct maximal runs of twelve tokens or more across all 700 files, and 7 of them touch 671–680.**
+
+**12-GRAM, AGAINST ALL 700 FILES INCLUDING MY OWN, BODY-ONLY, `## ` HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED: 7 DISTINCT MAXIMAL RUNS TOUCHING 671–680. EVERY ONE CLASSIFIED BY HAND. NONE IS A LIFTED SENTENCE.**
+
+| Run | Files | Class |
+| --- | --- | --- |
+| 15g *it was not about the four lines at the foot it was not about the* | **676**, 695 | **A CHARACTER'S OWN SENTENCE, REPEATED BECAUSE THE STANDING HAS NOT MOVED.** 676 spends the clerk's one question and the chapter's whole argument is that the question is not about the four lines at the foot of the page; 695 is the clerk's second question and it is not about them either. **676 is the source and 695 is the echo, and 695 is in a batch already gated and closed. The row is repaired at the source by leaving the source alone.** |
+| 14g *in a drawer in a building nobody can walk into from a street and* | **680**, 691 | **THE STANDING DESCRIPTION OF AN OFFICE, CARRIED FORWARD.** 680 is where the phrase is coined and 691 is downstream of it eleven chapters later, in a clerk's prediction that is derived from what Perla Quist said at 680. |
+| 12g *a man is going to stand at a counter and ask what* | **671**, 682 | **A CHARACTER'S OWN SENTENCE, REPEATED.** Perla Quist says it at 671 and 682 says it again. 671 is the source. |
+| 12g *is going to stand at a counter and ask what this office* | **672**, 682 | **The same sentence, one chapter along.** 672 and 671 are consecutive and 682 draws on both. |
+| 12g *with a day against it and an hour against the day and* | **673**, 700 | **THE STANDING PAGE'S OWN DESCRIPTION.** Two quarter-ends describing one sheet whose structure has not moved since the ninth of November of the fifth year. Describing it twice at a quarter-end is the chapter's job. |
+| 12g *had a folder and a sheet inside it and the sheet was* | **676**, 695 | **A FACT ABOUT AN OBJECT THAT IS THE SAME OBJECT BECAUSE IT HAS NOT MOVED.** One folder and one sheet, continuous across nineteen chapters. A scan counts the words twice and the object once. |
+| 12g *a coat of paint will not stay on stone that has been* | **677**, 688 | **AN OBSERVATION ABOUT A PLACE CARRIED FORWARD TO PROVE IT HAS NOT MOVED.** Established at 648, restated at 662, 677 and 688. The wall has not moved and the point of saying it again is that it has not moved. |
+
+**AND ONE NEW CLASS IS NAMED BY THIS PASS, AND IT IS THE CLASS THE ONE DEFECT IN THIS BATCH BELONGED TO.**
+
+> **A STANDING FIGURE THAT A CHAPTER RESTATES VERBATIM AND THAT A LATER CHAPTER RESTATES DIFFERENTLY. The word-for-word carry-forward is what let the wrong figure survive two earlier readings of the same page, and the two restatements then agreed with each other and not with the volume.**
+
+**`chapter-0677.md`:13 printed *Two in a week* while `:37` and `:115` of the same chapter printed *nine*, while 688, 689, 699 and 700 all printed *about nine of them a week*, and no gate on this repository had caught it in two passes because the three statements inside 677 are in three different paragraphs in three different sections and a paragraph-identity measure and a twelve-gram measure both look past them.** **The longer run 677↔688↔699 existed only because 699 and 688 agreed with each other and 677 had been made to agree with them word for word; correcting the figure and breaking the wording killed the 14-gram and the 22-gram in one edit.** A figure nobody re-computes is the figure that is wrong, and a figure repeated in the same words in four chapters is the figure that survives the longest without anybody subtracting anything.
+
+**THE THREE REPAIRS THIS PASS MADE IN THE CHAPTERS ARE ALL LIFTS OR A MISCOUNT AND NONE IS A MATTER OF PLOT:** 677:13, the count corrected and the wording broken; 680:89, the landing beat that **693 lifts**, which is a **borrowed staging** and not a shared fact and is the thing `outline/volume-14.md` §4d exists to catch, repaired at the only end this pass is permitted to touch; 680:153, a character's own sentence with a conclusion attached, printed again verbatim at 689:89, where the same clause then appears twice inside one chapter. **The three repairs took the count from eleven maximal runs touching the ten to seven, and the four that died were all lifts.**
+
+---
+
 # VOLUME 14 BATCH 0005 WRITTEN 14 OCTOBER 2026 — 691–700 ON DISK. SPINE 2,427–2,489 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, MONOTONIC **0 VIOLATIONS**, THE PROOF BEING THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS, **AND EVERY ONE OF THE NINE TERMS READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME, WHICH IS THE HALF OF THE INSTRUCTION BATCH 0004'S PROMPT GAVE AND ITS OWN ROW FAILED.** **12-GRAM AGAINST ALL 700 FILES: 422 MAXIMAL RUNS, AND EVERY ONE CLASSIFIED BY HAND IN §0c. 11-GRAM: 100. 8-GRAM: 463.** **FIFTEEN GENUINE PROSE LIFTS WERE FOUND AND ALL FIFTEEN WERE REWRITTEN IN THE CHAPTERS.** THIS BLOCK SUPERSEDES THE BATCH-0004 BLOCK BELOW IT FOR 691–700 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED

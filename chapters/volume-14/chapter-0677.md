@@ -10,7 +10,7 @@ What happens to a place where there is nothing to put anything on.
 
 ## Ten In The Morning At A Kerb
 
-About two hundred people a day halt at that corner. Two in a week get low enough to make out four inches of dressed stone at the bottom of nine feet of new render.
+About two hundred people a day halt at that corner. About nine of them in a week go down far enough to make out the four inches of dressed stone left at the foot of nine feet of new render.
 
 Two sheets are on the board by the kerb. One is a job for a wall that is down to the course and made good, whose hut is going to be knocked down with it. The other is this month’s form for an address.
 

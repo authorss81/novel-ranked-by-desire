@@ -86,7 +86,7 @@ He had them up at about half past one.
 
 It is four hundred and nine sheets of the kind of rag paper a laundry keeps, which is heavier than anything else sold by the sheet in this city, and two boxes of it is about as much as a man can get up four flights who has had a chest spent permanently since the fourth year.
 
-He took them up a flight at a time and stood on every landing, and a woman on the second floor asked if he was all right, and he said yes, and he was also about nine minutes from being able to stop.
+He got them up four floors one at a time and sat down on the second and the third, and he was about nine minutes from being able to stop at either of them.
 
 He had them on a table in the room off a third court at about two when Yusuf Adeyemi came in with his coat on, looked at them, did not ask, and said, “That is a lot of paper.”
 
@@ -150,7 +150,7 @@ And he spent the one thing he is allowed to spend.
 
 Nobody asked him to come to that laundry on the sixteenth of August. Nobody asked the office. He is the only person that office may ask, he went, and he asked a woman who cannot be asked, and she said no, and he is the only man in Ostara who could ever have asked her, and he spent him on that.
 
-At about five he went down and along, and up the stairs, with nothing in his hands, which is the way he goes everywhere now.
+At about five he went down and along and up the stairs with his hands open, having carried two boxes up four floors and come down with nothing he had asked for.
 
 In March he had asked an office to keep paper of that kind in a drawer, and he had got it, and it had been the best thing he had done in two years, and there is a man in this city who has not been able to look inside that drawer since.
 
