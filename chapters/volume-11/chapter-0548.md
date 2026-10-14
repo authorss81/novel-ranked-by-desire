@@ -116,7 +116,7 @@ Before this morning a person could bring four hundred and nineteen lines in a bo
 
 That is the whole of what he has bought and it was bought at a counter at eleven minutes past ten on the fifteenth of October by a man at rank one with no permission and no money and no instrument and no other person in the city who could have stopped him or helped him, which is the argument the whole of this office has been making for four years about itself.
 
-And the woman it was done for is two flights up off Cordwain, and she was in this room five days ago without a hand on the rail, and she is not going to thank him, and he would not want her to, and there is no mechanism in this city by which she ever finds out that he did it.
+And the woman it was done for is two flights up off Cordwain, and she was in this room five days ago without a hand on the rail, and she is not going to thank him, and he would not want her to, and he is never going to tell her, and the page will.
 
 *Fifteenth of October of the fourth year, twenty past ten in the morning. Entered a claim against myself in the column headed carried by, in my own hand, four lines and a name, entered exactly as given by a clerk who may only enter and who added one sentence and it was the right one.*
 

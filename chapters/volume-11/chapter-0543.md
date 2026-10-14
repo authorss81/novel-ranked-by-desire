@@ -12,7 +12,7 @@ He put his coat over the back of the chair.
 
 "I did not say it was yours," said Sela Voel. "I said the street is yours and the number is yours. The clerk read me the number out twice and then she read me the hour out twice and then she told me that I could read the rest of it myself if I wanted to, and I have wanted to."
 
-Twenty-three days from the second of August, and from the first of July to this morning is twenty-five, and the ninth of July is in between them.
+Twenty-three days from the second of August, and from the first of July to this morning is fifty-four, and the ninth of July is in between them.
 
 ## What The Page Says
 

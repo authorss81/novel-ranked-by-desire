@@ -64,7 +64,7 @@ She did not get up and she did not leave the chair.
 "Say it."
 
 
-"I stood in that yard about nine hundred people in front of me in the eleventh month of the third year and told them what you had printed," she said. "And about four hundred of them stopped believing me and about nine hundred of them stopped believing me and I spent the next three weeks writing to every house a woman spoke to in. That is the sentence at the wall and the sentence was right and I have never said so."
+"I stood in that yard about nine hundred people in front of me in the eleventh month of the third year and told them what you had printed," she said. "And about four hundred of them stopped believing me and I spent the next three weeks writing to every house a woman spoke to in that yard. That is the sentence at the wall and the sentence was right and I have never said so."
 
 "They believed you before that."
 

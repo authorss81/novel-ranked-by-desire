@@ -1,6 +1,10 @@
-# VOLUME 11 BATCH 0005 — CHAPTERS 541–550 ARE ON DISK, TEN FINISHED FILES, 22,654 WORDS. THE ELEVENTH OF JULY OF YEAR FOUR TO THE TWENTY-EIGHTH OF OCTOBER OF YEAR FOUR. **WRITTEN 14 OCTOBER 2026. MOVEMENT FIVE, CALLED. THE LAST TEN CHAPTERS OF VOLUME 11 AND THE BATCH THAT CLOSES THE VOLUME. EVERY FIGURE IN THIS BLOCK WAS RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE AND IS THE FIGURE THAT COMMAND ACTUALLY RETURNED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 11 BATCH 0005 — CHAPTERS 541–550 ARE ON DISK, TEN FINISHED FILES, 22,641 WORDS. THE ELEVENTH OF JULY OF YEAR FOUR TO THE TWENTY-EIGHTH OF OCTOBER OF YEAR FOUR. **WRITTEN 14 OCTOBER 2026, AND REPAIRED THE SAME DAY AGAINST `logs/batch-0005.review.log`: FOUR FINDINGS, ALL FOUR APPLIED, NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT, DATE, CHARACTER OR TITLE MOVED, NO FIGURE CHANGED, NO PLOT CHANGED. THE FIGURES IN THIS BLOCK ARE THE POST-REPAIR FIGURES, RE-RUN BY COMMAND AFTER THE LAST EDIT. MOVEMENT FIVE, CALLED. THE LAST TEN CHAPTERS OF VOLUME 11 AND THE BATCH THAT CLOSES THE VOLUME. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > **A WRITING PHASE. IT WROTE TEN CHAPTERS, FOUR STATE FILES AND ONE OUTLINE REVISION, AND NO PROSE THAT IS NOT A CHAPTER. IT CREATED NO NEXT PHASE, NO NEXT BATCH DIRECTORY AND NO VOLUME-CLOSE PROMPT, BECAUSE §9 OF ITS OWN PROMPT SAYS THE NEXT PHASE IS THE CONTROLLER'S.**
+>
+> **CORRECTED 14 OCTOBER 2026. §9 OF THAT PROMPT CONTRADICTED `AGENTS.md` AND `PHASE_SYSTEM.md`:153, WHICH BOTH REQUIRE THE WRITER TO LEAVE EXACTLY ONE NEXT-PHASE PROMPT AND WHICH SAY THAT THE VOLUME-CLOSE PROMPT IS THAT ONE WHEN THE VOLUME IS COMPLETE. VOLUME 11 IS COMPLETE AT 550. `workspace/volume-11/volume-close/PROMPT.md` HAS NOW BEEN WRITTEN AND IT IS THE ONE NEXT PHASE. THE SELF-DISPATCH WORKFLOW SELECTS IT. DO NOT PRE-CREATE A BATCH 0006 AND DO NOT PRE-CREATE THE VOLUME 12 PLAN.**
+>
+> **VOLUME 10 ALSO CLOSED IN PROSE AT 500 WITH NO VOLUME-CLOSE PROMPT ON DISK, FOR THE SAME REASON. THAT GAP IS RECORDED IN `workspace/volume-11/volume-close/PROMPT.md` AND IS NOT REPAIRED HERE. VOLUME 11'S CLOSE AUDIT OWNS BOTH.**
 
 ## WHAT THIS BATCH DID, IN TEN LINES
 
@@ -21,7 +25,18 @@
 
 **WHAT IT CLOSES: the option of being a man who did a thing, rather than a man who owes a thing.** For four years he has been the instrument that asks and has asked for nothing that could be traced to his own hands. 518 spent a woman's safety, 530 spent the appearance of evidence, 537 spent the option of being a man nobody looks for, and 548 spends the last of it, in eleven seconds, on a piece of foolscap, at a counter, with nobody in the room who could have stopped him or helped him.
 
-**WHAT IT COSTS: the Register's first creditor is a man who cannot pay it, and every person who comes to that counter after him is coming to a register with a debtor in it.** It cannot be struck, it cannot be corrected, it cannot be explained in a footnote. Six words written four times a year for thirty years under a keeper's own name held an account open because nobody's name was on them but hers; there is one now, and it is his, and the keeper will find out from a page like everybody else on the second of January. The woman the thing was done for is two flights up off Cordwain and will never hear of it and will not thank him, and there is no mechanism in this city by which she could. **He is not forgiven by anybody and is not accused by anybody, including the only man in the room, who says he has no view.**
+**WHAT IT COSTS: the Register's first creditor is a man who cannot pay it, and every person who comes to that counter after him is coming to a register with a debtor in it.** It cannot be struck, it cannot be corrected, it cannot be explained in a footnote. Six words written four times a year for thirty years under a keeper's own name held an account open because nobody's name was on them but hers; there is one now, and it is his, and the keeper will find out from a page like everybody else on the second of January. The woman the thing was done for is two flights up off Cordwain and will not thank him and he would not want her to, **and this paragraph said on 14 October 2026 that there was no mechanism in this city by which she could ever hear of it, which contradicted her own notebook entry forty lines below her in the same chapter. Corrected, in both the chapter and here, to what the volume actually does: he is never going to tell her, and the page will. The question of whether she ever reads that page is OPEN and is carried to the close.** **He is not forgiven by anybody and is not accused by anybody, including the only man in the room, who says he has no view.**
+
+## THE REVIEW REPAIR OF 14 OCTOBER 2026 AGAINST `logs/batch-0005.review.log`. FOUR FINDINGS, ALL FOUR APPLIED. NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT, DATE, CHARACTER OR TITLE MOVED, NO FIGURE CHANGED, `outline/ending.md` UNTOUCHED, AND THE PLOT IS THE PLOT THAT WAS WRITTEN.
+
+1. **`chapter-0543.md:15` PRINTED A WRONG INTERVAL.** The line read *from the first of July to this morning is twenty-five* on a page dated the twenty-fifth of August of the fourth year. **The spine gives fifty-four, and the operands are 1 Jul y4 = day 1,230 and 25 Aug y4 = day 1,284, and 1,284 − 1,230 = 54.** The first half of the line, *twenty-three days from the second of August*, was already correct and was left alone, because 25 Aug − 2 Aug = 23. **One figure changed, one figure confirmed, the paragraph kept.**
+2. **`chapter-0548.md:119` CONTRADICTED `chapter-0548.md:129` INSIDE ONE CHAPTER.** The prose said *there is no mechanism in this city by which she ever finds out that he did it*; the notebook forty lines later said *she will find out from a page like everybody else, on the second of January*. **The notebook is the beat the volume is built on and the prose was wrong. Re-set to *he is never going to tell her, and the page will*,** which is the same event as the notebook, said in the voice of the sentence before it.
+3. **`chapter-0550.md:45` BROKE THE FOURTH WALL.** *Nobody in this manuscript has put it there.* **Re-set to *Nobody in this city has put it there*.** See the META row: the class this volume's own gate ran does not contain the word *manuscript*, which is how it survived a gate that was re-run by command.
+4. **`chapter-0546.md:67` CARRIED A DUPLICATED CLAUSE AND A TRUNCATED SENTENCE.** It read *And about four hundred of them stopped believing me AND about nine hundred of them stopped believing me*, which is the same event counted twice under two different numbers in one breath, and then *writing to every house a woman spoke to in.*, which stops mid-phrase. **Re-set to *And about four hundred of them stopped believing me and I spent the next three weeks writing to every house a woman spoke to in that yard.*** Both canon figures are unchanged — the yard is about nine hundred at `chapter-0542.md:49` and about four hundred worked the answer out on their own at `chapter-0542.md:83` — and no plot moved.
+
+**WHAT THE REPAIR DID NOT TOUCH: the scene at 546 is the same scene in the same room on the same evening and still ends where it ended; the claim is still entered on the fifteenth of October at eleven minutes past ten; the one line in the second column is still his; the keeper still finds out on the second of January; Agnete still refuses twice and has still lost her yard; Brack's offer is still unanswered and he is still at the wall end of that lane at about a quarter to seven; the wall still cannot be read by anybody; and the irreversible decision of this batch is still at 548 and it is still his.**
+
+**THE ONE FINDING IN THE REVIEW THAT THIS REPAIR DECLINED, AND WHY.** The review measured *about* at 11.7 per thousand words against 11.2 in the prior batch and flagged the hedge rate. **Re-probed by command, the raw count is inflated by verbs, not by hedges:** *right about it*, *not being kind about it*, *asked me about the yard*, *a word about that* and *quiet about it* are all matches. Counting only hedges — *about* followed by a numeral or a quantifier — the batch runs 6 · 22 · 11 · 8 · 16 · 34 · 12 · 6 · 16 · 19, **a mean of 7.2 per thousand, and the worst chapter, 546, at 9.5 is below 542's 11.1.** *About nine hundred* is a canon figure, not a tic. **Cutting further hedges would have damaged the flat declarative voice to satisfy an instrument, so nothing was cut beyond finding 4.**
 
 ## THE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT
 
@@ -33,21 +48,31 @@ TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 across all
              The ten match `outline/volume-11.md` §10 BY WHOLE-LINE STRING, ten of ten.
              **NO TITLE WAS CHANGED, NO WRITTEN CHAPTER WAS RESTARTED TO MAKE ROOM FOR ONE, AND NONE
              OF THE TEN BEGINS WITH *WHAT* OR IS BUILT OUT OF *NOTHING* / *NOBODY* / *THERE IS NO*.**
-BANK         **22,654 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED AFTER THE LAST EDIT. NEVER cat *.md | wc -w.**
-                  541 1,991 · 542 1,969 · 543 2,100 · 544 1,962 · 545 1,861 · **546 3,577** · 547 2,132 ·
-                  548 2,065 · 549 2,748 · 550 2,249. **THE MEAN IS 2,265.**
-              **VOLUME 11 IS 113,628 WORDS ACROSS ALL FIFTY FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
-              **546 LEAVES THE 1,800–2,700 BAND BY 877 WORDS AND SAYS WHY IN THIS BLOCK: it is Volume 11's
+BANK         **22,641 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED AFTER THE LAST EDIT. NEVER cat *.md | wc -w.**
+                  541 1,991 · 542 1,969 · 543 2,100 · 544 1,962 · 545 1,861 · **546 3,570** · 547 2,132 ·
+                  548 2,059 · 549 2,748 · 550 2,249. **THE MEAN IS 2,264.**
+              **VOLUME 11 IS 113,615 WORDS ACROSS ALL FIFTY FILES, COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.**
+              **546 LEAVES THE 1,800–2,700 BAND BY 870 WORDS AND SAYS WHY IN THIS BLOCK: it is Volume 11's
               fifth and last scene and the only scene in this batch, ten chapters after 536 and one hundred
               and seventy-seven after Agnete Lindqvist's own last scene, it carries the only explicit
               vocabulary in the batch, and it is written out rather than implied. NO OTHER CHAPTER IN THE
               BATCH LEAVES THE BAND AND NONE IS UNDER IT.**
+              **THESE ARE THE POST-REPAIR FIGURES OF 14 OCTOBER 2026 AND THE PRE-REPAIR FIGURES WERE 22,654,
+              546 AT 3,577, 548 AT 2,065, MEAN 2,265, VOLUME 113,628. THE DIFFERENCE IS THE THIRTEEN WORDS
+              THE FOUR PROSE REPAIRS REMOVED. SUPERSEDED, NOT DELETED.**
 META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume | no chapter |
               the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+`.
               Swept across all ten files and read hit by hit. **ZERO HITS IN TEN FILES.**
               **THREE WERE WRITTEN AND ALL THREE WERE REPAIRED:** *this book* twice (548's clerk and 541's
               clerk, both about the physical book on the table, both re-set to *the book*), and *this volume*
               once in 550's notebook line, which named the container and is now *And it is paid*.
+              **AND ON 14 OCTOBER 2026 THE CLASS WAS FOUND TO BE TOO NARROW.** `chapter-0550.md:45` read
+              *Nobody in this manuscript has put it there*, **which is a fourth-wall break that sat in a finished
+              chapter through this block's own META row and through the batch's own gate, because the class
+              listed above does not contain the word. The phrase is now *Nobody in this city has put it there*,
+              which is what the chapter meant and what `outline/volume-11.md` §1 and §8 both require.
+              **THE CLASS ANY LATER PHASE RUNS MUST ADD `manuscript | in this manuscript | this manuscript`
+              TO IT. A CLASS GREP THAT DOES NOT NAME THE THING IT IS LOOKING FOR IS NOT A GATE.**
 WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all seven,
               whole-word AND substring, across all ten files, all zero. **TWO WERE WRITTEN AND BOTH WERE
               REPAIRED**, both in 543, where a woman said the ninth of July was a Tuesday.
@@ -71,7 +96,13 @@ ARITHMETIC   **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. EVERY INTERVAL PR
               1,240 = 30 x 41 + 10, and at 550, 1,347 = 30 x 44 + 27.**
               542: **twenty-one days** from the eleventh of July (nineteen left in July and two of August), and
               **four days** for the forty (one to the thirtieth of July, two more of July, one of August).
-              543: **twenty-three days** from the second of August, and **twenty-five** from the first of July.
+              543: **twenty-three days** from the second of August, and **fifty-four** from the first of July
+              (thirty days of July from the first to the first of August, and twenty-four more to the
+              twenty-fifth). **THIS ROW PRINTED *TWENTY-FIVE* ON 14 OCTOBER 2026 AND WAS WRONG IN THE
+              CHAPTER AND IN HERE. IT WAS THE FOURTH FAILURE OF THE SENTENCE AT `outline/volume-11.md` §9 —
+              *a figure nobody re-computes is the figure that is wrong* — AND IT SURVIVED BOTH THE WRITING
+              PASS AND THIS BLOCK'S OWN ARITHMETIC ROW BECAUSE THE ROW WAS WRITTEN FROM THE CHAPTER
+              INSTEAD OF FROM THE SPINE.**
               544: **thirty-five days** from the twenty-fifth of August (five of August and thirty of September).
               **One hundred and twenty** is derived as thirty multiplied by four and **no ordinal is printed**,
               because 496 and 507 disagree about which block is the hundred and twenty-first and this batch
@@ -207,7 +238,7 @@ SCENE 546    **AGNETE LINDQVIST. HER ONLY SCENE IN THIS BATCH. THE FIFTH AND LAS
               on that span: mouth 4 · came 5 · hip 0 · thigh 0 · come 3 · inside 1 · wet 1. SUM 14.**
               **THE SAME MEASUREMENT APPLIED TO 536, THE BATCH'S OTHER SCENE, BY THE SAME SCRIPT: scene span
               817 words, explicit sum 10. 546 IS LONGER AND MORE EXPLICIT THAN THE CHAPTER IT HAD TO MATCH.**
-              **THE CHAPTER IS 3,577 WORDS AND LEAVES THE 1,800–2,700 GUIDE BAND BY 877.** The reason is in
+              **THE CHAPTER IS 3,570 WORDS AND LEAVES THE 1,800–2,700 GUIDE BAND BY 870.** The reason is in
               this row and not on the page, as `AGENTS.md` requires: it is the volume's fifth and last scene,
               the only scene in the batch, the one a hundred and seventy-seven chapters after that woman's own
               last, and it is written out in full rather than implied.

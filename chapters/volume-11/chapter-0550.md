@@ -42,7 +42,7 @@ There are about nine thousand people a day under the ranks wall and not one of t
 
 Under the last tile, on the stone, a white tile with his name on it in chalk and nothing whatever under it.
 
-Nobody has put it there. Nobody in this manuscript has put it there. He has stood under it about two minutes at a time for four years and a woman with a short-handled broom has cleaned four inches of it every morning for about nine years and told him she has never seen anybody do it, and he did not ask her why and he has not asked anybody anything.
+Nobody has put it there. Nobody in this city has put it there. He has stood under it about two minutes at a time for four years and a woman with a short-handled broom has cleaned four inches of it every morning for about nine years and told him she has never seen anybody do it, and he did not ask her why and he has not asked anybody anything.
 
 
 Emil Brack was at the wall end of the lane with the chalk at about a quarter to seven, and there are five stools and about a hundred and sixty people walk past them in a morning.
