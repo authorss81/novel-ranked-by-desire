@@ -1,3 +1,120 @@
+# VOLUME 12 BATCH 0003 IS WRITTEN. CHAPTERS 571–580 ARE ON DISK. **TEN FINISHED FILES, 13,552 WORDS COUNTED PER FILE AND SUMMED. MOVEMENT THREE, *COUNTERSIGNED*. ONE SCENE, AT 574, BEATRIX HALM, THIRTY-EIGHT CHAPTERS AFTER 536. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE (0002 SPENT ONE; FOUR WERE AVAILABLE; NONE USED). THE NEXT PHASE IS `workspace/volume-12/batch-0004/PROMPT.md`, CHAPTERS 581–590, MOVEMENT FOUR, *CROSS-READ*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS TWENTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## OPEN ITEMS, HEAD OF THE LIST. TWO UNREPAIRED DEFECTS, NEITHER THIS PHASE'S TO FIX
+
+**1 · `chapter-0553.md`:23 PRINTS *Thirty years is three hundred and sixty days multiplied by ten.* THIRTY YEARS IS THREE HUNDRED AND SIXTY MULTIPLIED BY THIRTY, WHICH IS TEN THOUSAND EIGHT HUNDRED.** First defect of this class found on a page rather than in a planning document. NOT REPAIRED HERE: a closed page is a content change and not this phase's. REPAIR OWES ONE WORD IN ONE LINE OF 553 AND NOTHING ELSE. This batch does not compound it: no chapter of 571–580 prints that multiplication.
+
+**2 · `chapter-0570.md`:169 PRINTS *a year and three months ago* FOR A YARD THAT CANNOT BE LOCATED IN VOLUMES 11 OR 12.** NOT FIXED HERE: the fix is either anchoring the yard to 30 Jan y5 (ninety-one days, 1530 − 1439 = 91) or cutting the interval, and both are content changes. REPAIR OWES ONE CLAUSE AND NOTHING ELSE.
+
+> A writing phase. It wrote `chapters/volume-12/chapter-0571.md` … `chapter-0580.md` and `outline/volume-12.md` §7 movement three's ten cards against the page, and nothing else. `outline/ending.md` is untouched. **No new enemy. No new `PC`. No scene outside 574. No second explicit vocabulary passage in a chapter that is not the scene.**
+
+## THE GATE, RUN BY COMMAND IN THE COMMIT THAT WROTE 571–580
+
+```
+FILES         30 files in chapters/volume-12/, 551..580, diff against `seq 551 580` EMPTY.
+              ONE `# ` title line in every file. Trailing byte 0a on all thirty.
+              `find chapters -name 'chapter-*.md' | wc -l` -> 580.
+
+TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 580 FILES.**
+              The ten match `outline/volume-12.md` §10 by whole-line string: **10 OF 10.**
+
+BANK         COUNTED PER FILE AND SUMMED. **NEVER `cat *.md | wc -w`.**
+              571 1,714 · 572 1,463 · 573 1,008 · **574 2,480** · 575 1,109 · 576 1,409 ·
+              577 1,143 · 578 1,029 · 579 1,099 · 580 1,098. **BATCH TOTAL 13,552.**
+              574 SITS INSIDE 1,800–2,700 AT 2,480; SEE `state/continuity.md` §0c FOR THE
+              THREE-WAY SCENE MEASUREMENT. THE NINE NON-SCENE CHAPTERS RUN LEAN
+              (1,008–1,714) AND NONE IS PADDED AND NO FINISHED SCENE IS SPLIT.
+
+META         The class in §8 of the batch brief PLUS `our narrator|the author|the text|the prose|
+              page [0-9]+|volume [0-9]+|in this (novel|book|story|chapter|volume|scene)` ->
+              **0 ACROSS ALL TEN FILES.** Two first-draft hits FIXED: 573 `four volumes`
+              and 579 `this page`. Re-set to `everything that happened before this morning`
+              and `in this lane`.
+
+WEEKNAMES    Monday Tuesday Wednesday Thursday Friday Saturday Sunday, all seven, whole-word AND
+              substring, across all thirty files -> **0.**
+
+AGES         Nine probe forms plus bare `aged` PLUS `since (i|he|she|they) (was|were)`
+              PLUS spelled-out `(sixteen|...|twenty-two) years old` -> **0.**
+              BEATRIX HALM'S TWENTY-SEVEN IS NOT PRINTED. AGNETE'S FORTY-FIVE IS NOT
+              PRINTED IN THIS BATCH. RUTA MIELKE AGED 0, MARKED 0.
+
+ARITHMETIC   Spine 571–580 re-derived from two formulas sharing no constant, monotonic at
+              **0 violations.** 571 1530 · 572 1540 · 573 1560 · 574 1570 · 575 1580 ·
+              576 1589 · 577 1599 · 578 1609 · 579 1619 · 580 1627.
+              EVERY INTERVAL PRINTED PARSED OUT AND ITS OPERANDS SUMMED, never quoted:
+              0 · 10 · 20 · 10 · 10 · 9 · 10 · 10 · 10 · 8 · 97 · 90 · 146 · 180 ·
+              111 · 150 · 40 · 41 · 160 · 159 · 265 · 236 · 91.
+              1530 − 1530 = 0 (same morning) · 1540 − 1530 = 10 · 1560 − 1540 = 20 ·
+              1570 − 1560 = 10 · 1580 − 1570 = 10 · 1589 − 1580 = 9 (thirty less
+              twenty-one) · 1599 − 1589 = 10 · 1609 − 1599 = 10 · 1619 − 1609 = 10 ·
+              1627 − 1619 = 8 · 1627 − 1530 = 97 (30+30+30+7) · 1589 − 1499 = 90
+              (30+30+30) · 1589 − 1443 = 146 · 1589 − 1409 = 180 (half of 360) ·
+              1589 − 1478 = 111 · 1589 − 1439 = 150 (five months of thirty) ·
+              1570 − 1530 = 40 · 1570 − 1529 = 41 · 1570 − 1410 = 160 ·
+              1570 − 1411 = 159 · 1570 − 1265 = 265 · 1570 − 1334 = 236 ·
+              1530 − 1439 = 91 (1+30+30+30).
+
+QUARTERLY    576 is the **eighteenth** sheet, the thirtieth of June, **ninety days** after
+              566 (1589 − 1499 = 90; 30+30+30 = 90). 552 sixteenth, 566 seventeenth,
+              537 thirteenth, 544 fifteenth. `entered:` **eight hundred and fifty-two**
+              from 566, UNMOVED at 576. `count of deeds` 0; nobody right says it.
+
+ACCOUNT      `grep -rioE "8,1[0-9][0-9]|two hundred and eleven thousand" chapters/volume-12/` -> **0.**
+              `grep -rio "settle" chapters/volume-12/` -> **0**, inflections -> **0. NO FLOOR.**
+
+FLOORS / RT  `grep -rio "right temple" chapters/` -> **0 ACROSS ALL 580.**
+              `grep -rlio "cuticle" chapters/` -> **4 FILES: 329, 340, 404, 446. UNCHANGED.**
+              `grep -rio "nobody was thanked" chapters/volume-12/` -> **0.**
+              `grep -rio "ostho" chapters/` -> **0.**
+
+PARAGRAPHS   Blank-line split skipping headings, headings' words excluded. **0 OVER NINETY WORDS.
+              0 OVER ONE HUNDRED AND TWENTY.** QUOTATION-MARK PARITY PER PARAGRAPH: **0 ODD.**
+              SPEECH RUNNING ACROSS A BREAK: **0.** Eleven over-length paragraphs in draft,
+              every one split at a sentence boundary.
+
+HEADINGS     One `# ` per file. **NO HEADING NAMES THE CHAPTER'S TURN.** No duplicate `##`
+              inside one file: **0.** No heading built out of *nothing* / *nobody* /
+              *there is no*: **0.**
+
+MARKDOWN     Blockquote 0 · table 0 · horizontal rule 0 · code block 0 · bold `**` **0** ·
+              single-asterisk markers EVEN in all ten files (2·2·2·4·2·4·2·2·2·2) ·
+              **SYSTEM PANELS: 0 IN TEN CHAPTERS. VOLUME BUDGET FIVE, 0002 SPENT ONE,
+              FOUR WERE AVAILABLE, NONE USED.**
+
+DUPLICATION  12-gram FIRST against all 570, then 11 and 8, EVERY HIT CLASSIFIED BY HAND.
+              CANONICAL (stays): arithmetic stems, calendar rule, rota facts, clerk's rule,
+              second-column description, 419-accounts formula, office's sentence, Ferrier
+              Street provenance, wall's nine thousand with 489 reason, Brack's facts.
+              BORROWED (rewritten before commit): 574's branch-note staging (matched 564;
+              re-set to evening message, two lines, no counter reference) · 574's
+              hands-flat (matched Mavis register; re-set to lean) · 575's ink-on-nails
+              (matched Wren Kallo §4d; removed in draft). DELIBERATE ECHO (not rewritten):
+              four-conditions provenance paragraph, Berta entry shape, drawer history.
+              BODIES/STAGINGS vs §4d: no new mark on any woman; Beatrix body once;
+              deafness fact only, nothing done to her ear; 546 staging not restaged;
+              Alma Quayle seating nowhere; Mavis hand-flat nowhere (third straight batch —
+              standing decision); broom nowhere; Otho Pearse nowhere and counting nothing.
+
+SCENES       **ONE, AT 574.** Four `##` headings; closing boundary `## After` with no `##`
+              after it (end of file). Def1 1,764 · scene inclusive 843 · exclusive 837 ·
+              probe scene 66 · whole 74 · whole file 2,480. PROBE BANK PRINTED IN
+              `state/continuity.md` §0c. WRITTEN OUT, NOT IMPLIED. No mechanism; both
+              adults; fast yes, enjoyable to her; no violence in chapter. Non-scene
+              chapters probe 1–7 with no explicit passage.
+
+STILL OPEN   `Lin Wei` **0** · `B103` **0** · `settle` **0** · account figure **0** ·
+              `right temple` **0** · `Ostho` **0** · `mavis rooke` **0** in 571–580 (correct).
+              No character says the return's reach is settled or not; nobody says whether
+              the account belonged to the unrecorded. White tile maker unasked/unanswered;
+              400-a-day nowhere. Agnete not asked to claim wall line (refusal stands at
+              three namings, resolved nothing). Sowe unforgiven, undiscussed.
+
+THE VOLUME   The second line at the foot of the ranks wall **still cannot be read by a city.**
+              **BOTH BLANK BOXES STILL BLANK AT END OF 580. NO CHAPTER OF 551–600 MAY FILL
+              EITHER BOX AND THE FIGURE BOX STAYS BLANK FOR THE REST OF THE BOOK.**
+```
+
 # VOLUME 12 BATCH 0002 IS WRITTEN AND REPAIRED. CHAPTERS 561–570 ARE ON DISK. **TEN FINISHED FILES, 26,625 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE REVIEW-REPAIR PASS. MOVEMENT TWO, *BORROWED*. ONE SCENE, AT 564, AGNETE LINDQVIST, EIGHTEEN CHAPTERS AFTER 546. ONE SYSTEM PANEL, AT 566, AGAINST A VOLUME BUDGET OF FIVE. THE REVIEW OF THIS BATCH IS `logs/batch-0002.review.log` AND ELEVEN FINDINGS WERE APPLIED IN THE PROSE; SEE THE OPEN ITEM BELOW. THE NEXT PHASE IS `workspace/volume-12/batch-0003/PROMPT.md`, CHAPTERS 571–580, MOVEMENT THREE, *COUNTERSIGNED*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS THIRTY CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## OPEN ITEM, HEAD OF THE LIST. ONE UNREPAIRED INTERVAL IN THE PAYOFF CHAPTER, AND IT IS NOT THE REVIEW'S
