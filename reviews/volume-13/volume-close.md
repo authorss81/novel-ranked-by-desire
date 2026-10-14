@@ -54,7 +54,7 @@ METHOD B   (contains NO 360 AT ALL)
 0001 601-610   6 7 7 6 7 7 7 7 6   = 60   and 1,833 - 1,773 = 60   seam 601-600 = 4
 0002 611-620   6 7 6 7 8 7 7 7 7   = 62   and 1,902 - 1,840 = 62   seam 611-610 = 7
 0003 621-630   7 8 7 8 9 7 8 8 7   = 69   and 1,979 - 1,910 = 69   seam 621-620 = 8
-0004 631-640   8 7 8 8 7 7 8 12 9  = 73   and 2,060 - 1,987 = 73   seam 631-630 = 8
+0004 631-640   7 8 8 7 7 7 8 12 9  = 73   and 2,060 - 1,987 = 73   seam 631-630 = 8
 0005 641-650   7 8 8 7 7 8 7 5 3   = 60   and 2,129 - 2,069 = 60   seam 641-640 = 9
 
 324 across the five batches, plus four inter-batch steps of 7, 8, 8 and 9 = 32.
@@ -146,8 +146,12 @@ ch  printed day   the chapter's own footer names the PREVIOUS chapter's DATE as 
 
 ```
 §5c's list   8 8 7 8 7 8 6 12 9 = 73      (which requires 637 -> 638 to be six days, i.e. 24 Sep -> 30 Sep)
-the page's   8 7 8 8 7 7 8 12 9 = 73      (which requires 637 -> 638 to be eight days, i.e. 22 Sep -> 30 Sep)
+the page's   7 8 8 7 7 7 8 12 9 = 73      (which requires 637 -> 638 to be eight days, i.e. 22 Sep -> 30 Sep)
 ```
+
+**THE NINE NUMBERS ARE THE INTERVALS *INSIDE* 631–640 AND THE FIRST OF THEM IS 631 → 632. THE EIGHT IN THE SEAM COLUMN IS 630 → 631 AND IS NOT ONE OF THE NINE.** Re-derive from the day numbers alone and the answer is `1,987 → 1,994 → 2,002 → 2,010 → 2,017 → 2,024 → 2,031 → 2,039 → 2,051 → 2,060`, that is **7, 8, 8, 7, 7, 7, 8, 12, 9 = 73**, which is also what the nine chapters say in their own first lines.
+
+**THE FIRST EDITION OF THIS AUDIT PRINTED `8 7 8 8 7 7 8 12 9 = 74` IN FIVE FILES AND NINE PLACES, AND IT IS REPAIRED HERE.** The cause is worth recording because the gate that printed it had already printed the right answer and did not read its own history: `state/current.md` carried, from the batch-0004 review-fix, a **ten**-entry list `8, 7, 8, 8, 7, 7, 7, 8, 12, 9` described in its own sentence as *"81 from 630 at 1,979 to 640 at 2,060 and 73 inside the movement"* — that is **seam plus movement**. The audit took the ten and dropped the leading eight, which was the seam, without shifting the remaining eight, which was 631 → 632. **A NUMBER THAT IS CORRECT IN A LIST OF TEN CAN BE WRONG IN A LIST OF NINE, AND THE ONLY TEST IS THE SUM AGAINST THE ENDPOINTS.** Both `2,060 − 1,987` and the sum say 73 and the printed list said 74; the reviewer's count of the same list, made a day later, agreed with the arithmetic and not with this file. **THE DATE CORRECTIONS THEMSELVES WERE RIGHT THROUGHOUT AND ARE UNCHANGED.**
 
 **THE DECISION IS RECORDED AND APPLIED TO THE ONE FILE THAT STILL CARRIED THE OLD SET.** `outline/volume-13.md` §5c now reads the page's dates and the page's interval list, and the volume-close block at the head of `state/open-threads.md` records the change and its operands. **NO CHAPTER WAS TOUCHED, NO EVENT WAS MOVED, AND BATCH 0005'S INHERITANCE OF THE DISCREPANCY RATHER THAN PROPAGATION OF IT IS CONFIRMED CORRECT — IT REPRODUCED NEITHER SET AND RE-DERIVED 641–650 INDEPENDENTLY.**
 
@@ -214,7 +218,21 @@ VOLUME 13  135,752      MEAN 2,715.0      BOOK 1,494,735 across 650 files
 
 **THE RECORDED FIGURES FOR BATCHES 0004 (28,175) AND 0005 (32,294) RE-DERIVE EXACTLY. THE RECORDED FIGURES FOR BATCHES 0001, 0002 AND 0003 WERE NOT IN THE LIVE BLOCKS AND ARE PUBLISHED HERE FOR THE FIRST TIME SINCE THE CHAPTERS WERE WRITTEN.**
 
-**THE BAND.** **0 of fifty chapters sit below the 1,800 floor. Nineteen sit above the 2,700 ceiling: 603, 613, 621, 623, 630, 632, 633, 636, 638 and the whole of 641–650.** Five of the nineteen are the five scenes and are exempt by rule. **FOURTEEN ARE NOT, AND THE RECORD IS NOT COMPLETE: `state/current.md` §0a states a reason for each of the ten chapters of 641–650 and for 603, 613, 623 and 633, AND FOR 621, 630, 632, 636 AND 638. THAT IS A GAP IN THE RECORD AND NOT A DEFECT IN THE PROSE — 621 IS TWENTY WORDS OVER — AND IT IS RECORDED BECAUSE A GATE THAT SAYS NOTHING IS INDISTINGUISHABLE FROM A GATE THAT PASSED.**
+**THE BAND. RESOLVED 14 OCTOBER 2026, AND THE RESOLUTION IS A MAP AND NOT A COUNT.**
+
+```
+0 of fifty chapters sit below the 1,800 floor.  Volume 12 had twenty-five.
+19 sit above the 2,700 ceiling:  603 613 621 623 630 632 633 636 638 and the whole of 641–650.
+THE FIVE SCENES ARE 603, 613, 623, 633 AND 643, AND ALL FIVE ARE ABOVE THE CEILING, SO FIVE OF
+THE NINETEEN ARE EXEMPT BY RULE AND FOURTEEN ARE NOT.
+THE FOURTEEN:  621 630 632 636 638 | 641 642 644 645 646 647 648 649 650
+NINE OF THE FOURTEEN SAY WHY IN SECTION 0a OF THIS CLOSE'S OWN BLOCK, IN ONE LINE EACH, AT
+`state/current.md`:213.  FOUR MORE SAY WHY IN THE BATCH BLOCKS THAT WROTE THEM, WHICH ARE FURTHER
+DOWN THE SAME FILE AND STILL LIVE: 621 and 630 at :764, 636 at :582, 638 at :579.
+ONE SAYS WHY NOWHERE, AND IT IS 632.
+```
+
+**SO FINDING L IS NOT *FOURTEEN WITHOUT A REASON* AND IT IS NOT *FOURTEEN WITH ONE*. IT IS ONE CHAPTER, AND IT IS 632.** The five scenes are exempt and need none. Of the fourteen that need one, nine carry it in this block, four carry it in the batch blocks that wrote them, and **`chapter-0632.md`, at 2,827 words, was written above the ceiling with no stated reason anywhere in `state/`.** That is a gap in the record and not a defect in the prose: 632 carries the landlord's man refusing him twice at one speed and the fourth line surviving on a board, and it is 127 words over a band that exists to keep a chapter honest about its own length, which it plainly is. **NOT REPAIRED BY CUTTING 127 WORDS OUT OF A FINISHED CHAPTER; RECORDED WITH ITS OPERANDS.** *(The first edition of this section said §0a carried a reason for 621, 630, 632, 636 and 638, which is false for 632 and misplaces the other four; `state/open-threads.md` said only ten of the fourteen had one, which is false; and Finding L said four of the fourteen and then named five.)*
 
 ### 4e. THE 643 SCENE MEASUREMENTS, RE-DERIVED FROM THE FILE AND NOT FROM ANY STATE FILE
 
@@ -313,7 +331,7 @@ Explicit-vocabulary probe at WORD BOUNDARY across the body of 643: *semen* 0, *c
 
 ## 7. THE FIGURES THAT FAILED
 
-**SEVEN FINDINGS, ALL WITH OPERANDS, NONE WITH ANY. ONE IS APPLIED — IN THE PLANNING FILE, WHICH IS THIS PHASE'S TO SETTLE. THE REST ARE RECORDED AND HANDED ON, BECAUSE AN AUDIT THAT REPAIRS A CLOSED VOLUME IS NOT AN AUDIT.**
+**THIRTEEN FINDINGS, ALL WITH OPERANDS, NONE WITH ANY. ONE IS APPLIED — FINDING K, IN THE PLANNING FILE, WHICH IS THIS PHASE'S TO SETTLE. THE OTHER TWELVE ARE RECORDED AND HANDED ON, BECAUSE AN AUDIT THAT REPAIRS A CLOSED VOLUME IS NOT AN AUDIT.** *(This header printed SEVEN in the first edition while §15 of the same file itemised thirteen, A through M, and §16 then spoke of nine of the ten. Both counts are repaired here and the twelve-and-one is the one that re-derives. The rule is the one this file exists to enforce: a count printed in a heading and a list printed below it are two figures, and a figure nobody adds up is a figure that is wrong.)*
 
 ---
 
@@ -413,7 +431,11 @@ chapter-0632.md:1     # The Landlord's Man Is Right
 chapter-0637.md:1     # The Sentence In The Office's Hand
 ```
 
-**These are the ONLY two straight apostrophes in 3,183 chapters of straight-glyph counting.** The volume carries **0 straight double quotes** in prose and **0 in its title lines**; it carries **3,183 curly double-quote pairs** and 255 curly apostrophes. **A STRAIGHT APOSTROPHE IN A TITLE LINE IS THE SAME HOUSE-FORM DEFECT THE VOLUME 12 CLOSE NAMED AT CHAPTER 571, IN THE SAME FILE, IN A PLACE NO GATE LOOKS AT BECAUSE EVERY GATE MEASURES ITS OWN TEN FILES.**
+**These are the ONLY two straight apostrophes in the 650 chapters of this book, counted as straight glyphs.** The volume carries **0 straight double quotes** in prose and **0 in its title lines**; it carries **3,183 curly double-quote pairs** — 6,366 glyphs, 894 + 1,212 + 1,426 + 1,408 + 1,426 — and 255 curly apostrophes. **A STRAIGHT APOSTROPHE IN A TITLE LINE IS THE SAME HOUSE-FORM DEFECT THE VOLUME 12 CLOSE NAMED AT CHAPTER 571, IN THE SAME FILE, IN A PLACE NO GATE LOOKS AT BECAUSE EVERY GATE MEASURES ITS OWN TEN FILES.**
+
+**THE FIRST EDITION OF THIS FINDING PRINTED *THESE ARE THE ONLY TWO STRAIGHT APOSTROPHES IN 3,183 CHAPTERS*, WHICH IS A UNIT ERROR AND IS REPAIRED HERE AND AT ROW 22 OF `state/open-threads.md`.** 3,183 is the volume's curly double-quote **pair** count — 6,366 glyphs ÷ 2 — and it was carried into the sentence as a chapter count. The finding itself stands: two title lines, two straight apostrophes, no others in the volume.
+
+**AND THE FINDING IS HALF NEW, AND IT SAYS SO. `state/current.md`:567 ALREADY DISCLOSED BOTH TITLE LINES IN THE BATCH-0004 BLOCK — *"THE TWO APOSTROPHES IN 632's AND 637's TITLE LINES ARE STRAIGHT, BECAUSE §10 AND `chapter-0595.md` BOTH HAVE THEM STRAIGHT, AND THE TITLE IS THE TITLE LINE AND NOT PROSE"* — and carried the origin with it.** What is new is only the framing: the disclosure was a note under a title row, and the row it sat under still reported zero. **A DEFECT THAT HAS ALREADY BEEN WRITTEN DOWN AND IS STILL REPORTED AS ABSENT IS A DISCLOSURE THAT WAS PUT IN THE WRONG PLACE, AND MOVING IT INTO THE ROW IS THE FIX.**
 
 **THE BOOK-WIDE RECONCILIATION HOLDS AND IS PUBLISHED, BECAUSE IT IS THE ROW THAT HAS TO HOLD:**
 
@@ -762,9 +784,9 @@ Volume 13 mv 5            71.3                          89.6
 
 **K · APPLIED. `outline/volume-13.md` §5c's FIVE DATES ARE CORRECTED TO THE PAGE, AND THE §5c INTERVAL LIST FOR 631–640 WITH THEM.** This is the one change applied, it is in the planning file rather than in prose, no chapter was touched, no event was moved, and it is flagged as a canon change in the live block at the head of `state/open-threads.md` and in §3 of this file.
 
-**L · RECORDED. FOURTEEN CHAPTERS OF 601–650 SIT ABOVE THE 2,700 CEILING WITHOUT A RECORDED REASON**, of which five are scenes and exempt. Four of the fourteen — 621, 630, 632, 636 and 638 — were written before the current rule was stated and nobody recorded why. A gate that says nothing is indistinguishable from a gate that passed.
+**L · RECORDED, AND IT NARROWS TO ONE CHAPTER. FOURTEEN CHAPTERS OF 601–650 SIT ABOVE THE 2,700 CEILING AND ARE NOT THE FIVE SCENES; NINE OF THE FOURTEEN CARRY A REASON IN THIS CLOSE'S OWN §0a AND FOUR MORE CARRY ONE IN THE BATCH BLOCK THAT WROTE THEM — 621 AND 630 AT `state/current.md`:764, 636 AT `:582`, 638 AT `:579` — AND `chapter-0632.md`, AT 2,827, CARRIES ONE NOWHERE.** It was written 127 words over a band that exists to keep a chapter honest about its own length. **THE CHAPTER IS NOT CUT; THE GAP IN THE RECORD IS NAMED, WHICH IS THE ONLY THING A CLOSE AUDIT IS ALLOWED TO DO TO A FINISHED FILE.** *(The first edition said four of the fourteen and then named five, and §4d of the same file said §0a held reasons for all five of them. Both repaired 14 October 2026 against the lines themselves.)*
 
-**M · RECORDED. FIVE ANNOUNCED-AGE STRINGS SURVIVE AT 639 AND 640.** *I am sixteen* three times at 639 and *a boy of sixteen* twice at 639 and once at 640 — five strings in two chapters, handed forward by batch 0004's review-fix as a disclosed exception and never closed. The batch-0005 repair took the third age out of 649 and left these two chapters alone.
+**M · RECORDED. SIX ANNOUNCED-AGE STRINGS SURVIVE AT 639 AND 640.** At `chapter-0639.md` *I am sixteen* twice (:43, :85), *You are sixteen* once (:87) and *a boy of sixteen* once (:185, footer); at `chapter-0640.md` *a boy of sixteen* twice (:3, :173) — **six strings in two chapters**, handed forward by batch 0004's review-fix as a disclosed exception and never closed. The batch-0005 repair took the third age out of 649 and left these two chapters alone. **The first edition of this entry printed five, and put the third *I am sixteen* at 639 and two *a boy of sixteen* there, which reverses the chapters; `state/current.md` §0r-6 carried the correct breakdown and this entry did not read it. Repaired 14 October 2026 against the files.**
 
 ---
 
@@ -772,10 +794,10 @@ Volume 13 mv 5            71.3                          89.6
 
 **APPLIED IN THIS COMMIT — one planning file, and no word of prose:**
 
-1. `outline/volume-13.md` §5c — the five chapter dates for 631–640 corrected to the page (632 the fifteenth of August, 633 the twenty-third, 635 the eighth of September, 636 the fifteenth, 637 the twenty-second) and the 631–640 interval list corrected to `8 7 8 8 7 7 8 12 9 = 73`, with the page's six independent statements of the previous chapter's date printed beside it and the change flagged as a canon change. **The planning file no longer contradicts itself, and §7's movement-four table, which already carried the page's set, now agrees with §5c.**
+1. `outline/volume-13.md` §5c — the five chapter dates for 631–640 corrected to the page (632 the fifteenth of August, 633 the twenty-third, 635 the eighth of September, 636 the fifteenth, 637 the twenty-second) and the 631–640 interval list corrected to `7 8 8 7 7 7 8 12 9 = 73`, with the page's six independent statements of the previous chapter's date printed beside it and the change flagged as a canon change. **The planning file no longer contradicts itself, and §7's movement-four table, which already carried the page's set, now agrees with §5c.** *(The first edition of this entry printed `8 7 8 8 7 7 8 12 9`, which sums to 74. See §3 for the cause and the test.)*
 2. `state/current.md`, `state/continuity.md` and `state/open-threads.md` — a close block at the head of each, superseding the batch-0005 blocks and deleting none of them, carrying the re-derived spine, the re-derived banks, the re-derived density, the seven re-derived 643 measurements, the re-run gate, the twenty-one-row hand classification of the twelve-gram scan, the within-file duplicate row, the orphan-paragraph row, and Findings A through M.
 
-**NOT APPLIED, AND NOT THIS PHASE'S:** every repair inside a finished chapter of 601–650 — Findings A, B, C, D, E, I, J and M — and every repair inside a closed volume — §12 items 1, 2, 3 and 4. **Nine of the ten findings in §15 are recorded with the correct figure and its operands, so that one commit can repair all of them and re-run the five batch gates that certified the files. A repair instruction that drops the operand is the same defect it is repairing.**
+**NOT APPLIED, AND NOT THIS PHASE'S:** every repair inside a finished chapter of 601–650 — Findings A, B, C, D, E, I, J and M — and every repair inside a closed volume — §12 items 1, 2, 3 and 4. **Of the thirteen findings in §15, ONE is applied here — K, in the planning file — and TWELVE are recorded with the correct figure and its operands, so that one commit can repair them and re-run the five batch gates that certified the files: eight sit inside finished chapters (A, B, C, D, E, I, J, M) and four sit inside state files or gate rows rather than prose (F, G, H, L). A repair instruction that drops the operand is the same defect it is repairing.** *(The first edition of this sentence said nine of the ten. §15 itemises thirteen, A through M; one is applied, so twelve are recorded.)*
 
 ---
 
@@ -807,4 +829,4 @@ Volume 13 mv 5            71.3                          89.6
 
 **AND ONE MORE, ADDED HERE, BECAUSE IT IS THE ONE THIS AUDIT HAD TO WRITE BEFORE IT COULD FIND ANYTHING:**
 
-> **A gate that scans between files cannot see a chapter repeat itself. Two of the seven findings in this file are inside a single chapter, and neither is visible to a cross-file twelve-gram scan, and one of them is the reason a chapter of this volume cannot be read at its climax.**
+> **A gate that scans between files cannot see a chapter repeat itself. Two of the thirteen findings in this file are inside a single chapter, and neither is visible to a cross-file twelve-gram scan, and one of them is the reason a chapter of this volume cannot be read at its climax.**

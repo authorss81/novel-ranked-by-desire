@@ -1,10 +1,12 @@
+# VOLUME 13 CLOSE — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/volume-close.review.log`. **THE 631–640 INTERVAL LIST IS REPAIRED TO `7 8 8 7 7 7 8 12 9`, WHICH SUMS TO SEVENTY-THREE; THE CLOSE PRINTED A NINE-ENTRY LIST THAT SUMMED TO SEVENTY-FOUR BECAUSE IT DROPPED THE SEAM EIGHT FROM A TEN-ENTRY SEAM-PLUS-MOVEMENT LIST WITHOUT SHIFTING. FINDING M'S COUNT IS SIX ANNOUNCED-AGE STRINGS AND NOT FIVE, FINDING G'S UNIT IS 650 CHAPTERS AND NOT 3,183, FINDING G'S PRIOR DISCLOSURE AT `state/current.md`:567 IS CITED, THE FINDING COUNTS AT THIRTEEN WITH ONE APPLIED AND TWELVE RECORDED, AND THE BAND-RESOLVES TO ONE CHAPTER, 632. NO CHAPTER WAS TOUCHED, NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED AND THE PLANNED PLOT IS UNCHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
 # VOLUME 13 IS CLOSED AND THIS IS THE LIVE GATE BLOCK FOR ALL FIFTY CHAPTERS, 601–650. **RUN FROM OUTSIDE THE PASS THAT WROTE IT, AT THE VOLUME'S SCALE AND NOT ONE BATCH'S. THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 650; `outline/ending.md` IS UNTOUCHED.**
 
 ## 0. WHAT THE CLOSE ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
 
 **ROW 18 · A SPINE DISCREPANCY IS SETTLED BY THE PAGE AND NOT BY A PLAN OF RECORD, AND THE SETTLEMENT IS A CANON CHANGE THAT GETS WRITTEN INTO THE PLANNING FILE IN THE SAME COMMIT.**
 
-`outline/volume-13.md` §5c gave 632, 633, 635, 636 and 637 a day later than the finished chapters. Both sets summed to seventy-three across 631–640, which is why it sat for a batch instead of being settled. **The chapters are true: each of 633, 634, 635, 636, 637 and 638 opens by naming the previous chapter's date as well as its day number, and all six statements agree with the page.** **§5c HAS NOW BEEN EDITED TO THE PAGE AND THE 631–640 INTERVAL LIST WITH IT, FROM `8 8 7 8 7 8 6 12 9` TO `8 7 8 8 7 7 8 12 9`. NO CHAPTER WAS TOUCHED, NO EVENT WAS MOVED, AND §7's MOVEMENT-FOUR TABLE, WHICH ALREADY CARRIED THE PAGE'S SET, NOW AGREES WITH §5c.** The full argument, with the six quotations beside it, is at `reviews/volume-13/volume-close.md` §3. **THE ROW EXISTS BECAUSE A DISCREPANCY THAT IS INHERITED RATHER THAN PROPAGATED IS CORRECT PRACTICE AND A DISCREPANCY THAT IS INHERITED FOREVER IS NOT.**
+`outline/volume-13.md` §5c gave 632, 633, 635, 636 and 637 a day later than the finished chapters. Both sets summed to seventy-three across 631–640, which is why it sat for a batch instead of being settled. **The chapters are true: each of 633, 634, 635, 636, 637 and 638 opens by naming the previous chapter's date as well as its day number, and all six statements agree with the page.** **§5c HAS NOW BEEN EDITED TO THE PAGE AND THE 631–640 INTERVAL LIST WITH IT, FROM `8 8 7 8 7 8 6 12 9` TO `7 8 8 7 7 7 8 12 9`. THE NINE NUMBERS ARE THE INTERVALS INSIDE 631–640 AND THE FIRST IS 631 → 632 AND IS SEVEN; THE 8 IN THE SEAM COLUMN IS 630 → 631 AND IS NOT ONE OF THE NINE.** **FIRST EDITION PRINTED `8 7 8 8 7 7 8 12 9`, WHICH SUMS TO SEVENTY-FOUR, BECAUSE A SEAM-PLUS-MOVEMENT LIST OF TEN HAD ITS HEAD EIGHT DROPPED WITHOUT SHIFTING. REPAIRED 14 OCTOBER 2026 AGAINST THE NINE OPENING LINES.** NO CHAPTER WAS TOUCHED, NO EVENT WAS MOVED, AND §7's MOVEMENT-FOUR TABLE, WHICH ALREADY CARRIED THE PAGE'S SET, NOW AGREES WITH §5c. The full argument, with the six quotations beside it, is at `reviews/volume-13/volume-close.md` §3. **THE ROW EXISTS BECAUSE A DISCREPANCY THAT IS INHERITED RATHER THAN PROPAGATED IS CORRECT PRACTICE AND A DISCREPANCY THAT IS INHERITED FOREVER IS NOT — AND BECAUSE A CORRECTION THAT IS WRITTEN ONCE INTO FIVE FILES HAS TO BE RE-DERIVED BY THE NEXT PASS THAT READS IT.**
 
 **ROW 19 · A GATE THAT SCANS BETWEEN FILES CANNOT SEE A CHAPTER REPEAT ITSELF, AND TWO OF THE CLOSE'S FINDINGS ARE INSIDE ONE CHAPTER.**
 
@@ -20,7 +22,9 @@ The last batch's gate recorded that its span row *held exactly, at 71.3 against 
 
 **ROW 22 · A HOUSE FORM IS A GATE ROW EVEN WHEN IT IS IN A TITLE LINE.**
 
-**Two title lines in Volume 13 carry a straight apostrophe — `chapter-0632.md`:1 and `chapter-0637.md`:1 — and they are the only two straight apostrophes in 3,183 chapters of straight-glyph counting.** The volume carries 0 straight double quotes in prose and 0 in its title lines. **A gate that measures the body and says it also measured the title line is measuring the body twice.**
+**Two title lines in Volume 13 carry a straight apostrophe — `chapter-0632.md`:1 and `chapter-0637.md`:1 — and they are the only two straight apostrophes in the 650 chapters of this book, counted as straight glyphs.** The volume carries 0 straight double quotes in prose and 0 in its title lines. **A gate that measures the body and says it also measured the title line is measuring the body twice.**
+
+**HALF OF THIS ROW WAS ALREADY ON DISK AND THE ROW DID NOT SAY SO.** `state/current.md`:567, in the batch-0004 block, already printed: *"THE TWO APOSTROPHES IN 632's AND 637's TITLE LINES ARE STRAIGHT, BECAUSE §10 AND `chapter-0595.md` BOTH HAVE THEM STRAIGHT, AND THE TITLE IS THE TITLE LINE AND NOT PROSE."* **What is new is not the fact but the placement: the defect was written down in a note under a title row, and the title row still reported zero. A disclosure that never reaches the row it is about does not stop the next pass from printing zero again.** *(The first edition of this row said 3,183 chapters. 3,183 is the volume's curly double-quote **pair** count — 6,366 glyphs ÷ 2 — carried into the sentence as a chapter count. Repaired 14 October 2026.)*
 
 ## 0a. THE GATE, RE-RUN BY COMMAND AND BY HAND FROM OUTSIDE THE PASS THAT WROTE IT
 
@@ -36,7 +40,13 @@ BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
                  TOTAL 135,752. MEAN 2,715.0. BOOK 1,494,735 across 650 files.
                  0 BELOW THE 1,800 FLOOR — VOLUME 12 HAD TWENTY-FIVE.
                  19 ABOVE THE 2,700 CEILING: 603 613 621 623 630 632 633 636 638 AND 641–650.
-                 FIVE ARE SCENES AND EXEMPT.  FOURTEEN ARE NOT AND ONLY TEN HAVE A RECORDED REASON.
+                 FIVE ARE SCENES AND EXEMPT (603 613 623 633 643).  FOURTEEN ARE NOT.
+                 *** RESOLVED 14 OCTOBER 2026, AND IT IS ONE CHAPTER. NINE OF THE FOURTEEN
+                 CARRY A REASON IN THIS CLOSE'S OWN §0a AND FOUR MORE CARRY ONE IN THE BATCH
+                 BLOCK THAT WROTE THEM — 621 AND 630 AT `state/current.md`:764, 636 AT `:582`,
+                 638 AT `:579` — AND `chapter-0632.md`, AT 2,827, CARRIES ONE NOWHERE. THE
+                 CHAPTER IS NOT CUT; THE GAP IN THE RECORD IS NAMED. THIS ROW PRINTED
+                 "ONLY TEN HAVE A RECORDED REASON" IN ITS FIRST EDITION AND THAT WAS FALSE. ***
 DENSITY          *** SEE ROW 21. THE FIGURES BELOW ARE THE RE-DERIVED ONES. ***
                  spans 44.7 · 60.6 · 71.3 · 70.4 · 71.3      paragraphs 63.9 · 69.9 · 76.9 · 81.0 · 89.6
                  RECORDED AND WRONG FOR 0002, 0003 AND 0004.  VOLUME 12 RE-DERIVES EXACTLY AT
@@ -181,8 +191,11 @@ CARRIED TO A REPAIR, WITH OPERANDS
   I · chapter-0606.md:113, an orphaned speech paragraph, and 606:89/606:119, a verbatim duplicate.
   J · chapter-0606.md:7 against chapter-0597.md:17, sixteen shared twelve-grams across the volume
       boundary.
-  L · fourteen chapters above the 2,700 ceiling without a recorded reason.
-  M · five announced-age strings at 639 and 640.
+  L · chapter-0632.md, above the 2,700 ceiling at 2,827 with no recorded reason anywhere in
+      `state/`; nine of the other thirteen non-exempt chapters carry one in §0a and four more in
+      the batch blocks that wrote them.
+  M · six announced-age strings at 639 and 640 — `I am sixteen` twice and `You are sixteen` once
+      and `a boy of sixteen` once at 639, and `a boy of sixteen` twice at 640.
   Plus, from the earlier closes and not repaired here: chapter-0553.md:63 AND chapter-0544.md:25,
   both "three hundred and sixty days multiplied by ten" for thirty years; chapter-0570.md:169's
   unlocatable "a year and three months ago"; and chapter-0584.md's self-contradiction, where the

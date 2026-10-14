@@ -1,3 +1,21 @@
+# VOLUME 13 CLOSE — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/volume-close.review.log`. **ONE BLOCKER AND FIVE SECONDARY DEFECTS IN THE AUDIT'S OWN TEXT. NO CHAPTER WAS TOUCHED, NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED AND THE PLANNED PLOT IS UNCHANGED. FIVE FILES EDITED: `outline/volume-13.md`, `reviews/volume-13/volume-close.md`, AND THE THREE LIVE STATE FILES. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0k. WHAT WAS WRONG AND WHAT IT IS NOW
+
+**THE BLOCKER · THE 631–640 INTERVAL LIST WAS WRONG IN FOUR OF NINE AND SUMMED TO SEVENTY-FOUR.** The close printed `8 7 8 8 7 7 8 12 9` in five files at nine places beside a row that said `= 73`. **THE NINE NUMBERS ARE THE INTERVALS *INSIDE* 631–640 AND THE FIRST OF THEM IS 631 → 632 AND IS SEVEN.** The 8 in the seam column is 630 → 631 and is not one of the nine. The cause: the gate had already printed the correct **ten**-entry list at §0r-4 of this file — *"8, 7, 8, 8, 7, 7, 7, 8, 12, 9 … 81 from 630 at 1,979 to 640 at 2,060 and 73 inside the movement"*, which is **seam plus movement** — took the ten and dropped the leading eight without shifting the remaining eight. **NOW `7 8 8 7 7 7 8 12 9` IN ALL FIVE FILES, WHICH SUMS TO SEVENTY-THREE AND IS WHAT THE NINE CHAPTERS SAY IN THEIR OWN FIRST LINES.** The §5c **date** corrections were right throughout and are unchanged.
+
+**THE SECONDARY DEFECTS, ALL IN THE AUDIT'S OWN TEXT, ALL NOW TRUE AGAINST THE PAGE:**
+
+| | Was | Is |
+| --- | --- | --- |
+| Finding M's count | five announced-age strings; *I am sixteen* three times at 639, *a boy of sixteen* twice at 639 and once at 640 | **six** — 639 *I am sixteen* twice (:43, :85), *You are sixteen* once (:87), *a boy of sixteen* once (:185); 640 *a boy of sixteen* twice (:3, :173) |
+| Finding G's unit | "the only two straight apostrophes in 3,183 chapters" | **650 chapters.** 3,183 is the volume's curly double-quote *pair* count — 6,366 glyphs ÷ 2 |
+| Finding G's novelty | raised as new | **half new, and now says so** — `state/current.md`:567 already disclosed both title lines, with the origin; the defect was disclosed *under* a row that still printed zero |
+| §7 against §15 against §16 | seven findings; then thirteen itemised; then "nine of the ten" | **thirteen**, one applied (K) and twelve recorded |
+| The band and Finding L | "19 above · 14 not exempt · only ten have a reason"; L said "four of the fourteen" and then named five | **resolved to a map, and it is ONE chapter** — nine of the fourteen carry a reason in §0a, four in the batch blocks that wrote them, and **632 carries one nowhere** |
+
+**THE LESSON, RECORDED BECAUSE THE BLOCKER IS THE THIRD VARIANT OF IT: a number that is correct in a list of ten can be wrong in a list of nine, and the only test is the sum against the endpoints.**
+
 # VOLUME 13 IS CLOSED. CHAPTERS 601–650 ARE ALL FIFTY ON DISK AND THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. **THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. IT WROTE NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, AND DID NOT TOUCH `outline/ending.md`. IT CHANGED ONE PLANNING FILE — `outline/volume-13.md` §5c — AND THAT IS FLAGGED AS A CANON CHANGE BELOW. `state/complete.md` IS NOT CREATED: THE SERIES IS PLANNED PAST 650.**
 
 **EVERY FIGURE IN THIS BLOCK WAS RE-DERIVED FROM OUTSIDE THE PASS THAT WROTE IT, WITH ITS OPERANDS PRINTED, AND WHERE THE RE-RUN DISAGREED WITH THE RECORD THE RE-RUN WINS.**
@@ -29,7 +47,7 @@ METHOD B   i = (y-2)*12 + 11 for a January labelled y, (y-1)*12 + pos[m] otherwi
 0001 601-610   6 7 7 6 7 7 7 7 6  = 60   and 1,833-1,773 = 60   seam 601-600 = 4
 0002 611-620   6 7 6 7 8 7 7 7 7  = 62   and 1,902-1,840 = 62   seam 611-610 = 7
 0003 621-630   7 8 7 8 9 7 8 8 7  = 69   and 1,979-1,910 = 69   seam 621-620 = 8
-0004 631-640   8 7 8 8 7 7 8 12 9 = 73   and 2,060-1,987 = 73   seam 631-630 = 8
+0004 631-640   7 8 8 7 7 7 8 12 9 = 73   and 2,060-1,987 = 73   seam 631-630 = 8
 0005 641-650   7 8 8 7 7 8 7 5 3  = 60   and 2,129-2,069 = 60   seam 641-640 = 9
 324 + four inter-batch steps of 7, 8, 8 and 9 = 356 = 2,129 - 1,773.
 650 - 600 = 2,129 - 1,769 = 360 = EXACTLY ONE YEAR.
@@ -47,7 +65,7 @@ METHOD B   i = (y-2)*12 + 11 for a January labelled y, (y-1)*12 + pos[m] otherwi
 | 636 | 16 Sep | **15 Sep** | **2,024** |
 | 637 | 24 Sep | **22 Sep** | **2,031** |
 
-**THE 631–640 INTERVAL LIST IS CORRECTED WITH THEM, FROM `8 8 7 8 7 8 6 12 9` TO `8 7 8 8 7 7 8 12 9`. BOTH SUM TO SEVENTY-THREE; THE OLD ONE REQUIRED 637→638 TO BE SIX DAYS AND THE PAGE'S IS EIGHT. §5c HAS BEEN EDITED AND §7's MOVEMENT-FOUR TABLE, WHICH ALREADY CARRIED THE PAGE'S SET, NOW AGREES WITH IT. NO CHAPTER WAS TOUCHED AND NO EVENT WAS MOVED. THE FULL ARGUMENT IS AT `reviews/volume-13/volume-close.md` §3.**
+**THE 631–640 INTERVAL LIST IS CORRECTED WITH THEM, FROM `8 8 7 8 7 8 6 12 9` TO `7 8 8 7 7 7 8 12 9`. BOTH SUM TO SEVENTY-THREE; THE OLD ONE REQUIRED 637→638 TO BE SIX DAYS AND THE PAGE'S IS EIGHT. THE NINE NUMBERS ARE THE INTERVALS INSIDE 631–640, SO THE FIRST IS 631→632 AND IS SEVEN; THE 8 IN THE SEAM COLUMN IS 630→631 AND IS NOT ONE OF THE NINE. **FIRST EDITION OF THIS LINE PRINTED `8 7 8 8 7 7 8 12 9`, WHICH SUMS TO SEVENTY-FOUR, BECAUSE IT TOOK A TEN-ENTRY LIST OF SEAM-PLUS-MOVEMENT AND DROPPED THE HEAD EIGHT WITHOUT SHIFTING — §0r-4 OF THIS FILE ALREADY PRINTED THE CORRECT TEN AT LINE 465. REPAIRED 14 OCTOBER 2026 AGAINST THE NINE OPENING LINES.** §5c HAS BEEN EDITED AND §7's MOVEMENT-FOUR TABLE, WHICH ALREADY CARRIED THE PAGE'S SET, NOW AGREES WITH IT. NO CHAPTER WAS TOUCHED AND NO EVENT WAS MOVED. THE FULL ARGUMENT IS AT `reviews/volume-13/volume-close.md` §3.**
 
 ## 0c-3. THE QUARTER-ENDS, THE ORDINALS, THE THREE TRAVELLING FIGURES, THE SIXTH OF MARCH
 
