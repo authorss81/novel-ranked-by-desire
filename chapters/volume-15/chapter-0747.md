@@ -59,6 +59,7 @@ He waited.
 “Because of the hearing.”
 
 “Because of the hearing,” she said.
+
 “Anybody may read the bottom of that sheet out loud in a passage, in a kitchen, at a counter, in about nine years. A name with nothing against it can be said by anybody at all.”
 
 “A name with a sentence against it can only be said by somebody prepared to say the sentence as well. There are about nine people in this city who would be prepared, and one of them is a man behind a counter in Cordwain who is paid nothing, and that is the whole of the market.”
@@ -88,6 +89,7 @@ Perla Quist stood very still in the middle of that room.
 He looked up.
 
 “It is because this is what happens,” said Perla Quist.
+
 “You did a thing and I did not ask you to do it and you did it anyway, and I have come down here and said the price to your face, and if I thank you for that then I have thanked a man for letting me be damaged and told him it was all right.”
 
 “About nine years ago a woman in a house off Ferrier Street read a definition of an unrecorded deed out loud to about four people and thanked a man for it, and it turned out she had been thanking him for the wrong thing for six years.”

@@ -33,6 +33,7 @@ She had the ninth sheet squared under the ruler and the pencil lying across the 
 “You are not going to tell me why.”
 
 “I am going to tell you why, and I have never told you, and you have never asked me the right question, and the question you have been asking me since the seventh year has been *will you do this for me*, and that is not a question about me.” She put two fingers on the heading.
+
 “A woman who keeps a list is a person who can be sent. And a person who can be sent stops. And the day somebody in this city decides that about four hundred claims need to be taken off nine sheets under a third table, the thing that stops me is that I am not on a list anywhere and my name is not at the head of anything and there is nothing to seize and nobody to seize it from.”
 
 “And if your name were at the head of something.”
@@ -56,6 +57,7 @@ He did not say anything for about four seconds and then he said, “Yes.”
 “I know.”
 
 “Every one of them is going to believe the name is the reason they trusted it,” said Perla Quist.
+
 “Not one of them is going to hear the heading. They are going to hear *carried by* and they are going to hear my name and they are going to say, out loud, in about nine kitchens, that it is somebody’s name in a building, and they will be right, and it will be the reason, and I will never be able to say to one of them that it was an accident made by a man who could not think of anything else to put there.”
 
 She did not stop.

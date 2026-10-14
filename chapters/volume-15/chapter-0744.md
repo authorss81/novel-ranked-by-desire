@@ -43,6 +43,7 @@ He said the next part.
 “You have come back about it now.”
 
 “I have come back about it because I have been asked a question in a lift four days ago that I could not answer, and the answer is on that page and has been on it since before the building was put up,” he said.
+
 “A rota is a record of a whole person’s week. It is the only record I know of that has the off days in it, and the off days are the whole of what a person does that nobody is looking at, and this column has been holding names of people who carried things for about nine years and it has never once held anything about what they did with the time.”
 
 Nobody said anything for about four seconds.
@@ -56,6 +57,7 @@ Nobody said anything for about four seconds.
 “The fifth field is about what was done to a person.”
 
 “The fifth field is about what was done to a person, and it is filled out of the mouth of the person it is about, and it has been empty for six months and it is not going to be filled in by me,” said Wenna Raut.
+
 “That is the Register. The second column is not the Register. The second column does not take a person described. The second column takes a name, under a heading that says carried by, and that has been its shape since before I came here, and if a name goes into it, it goes in as the name of the person who carried something, and nothing else about that person goes in with it.”
 
 “So there is one field in this building that will take a person and it is not the one we built.”

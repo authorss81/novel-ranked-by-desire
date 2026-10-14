@@ -37,6 +37,7 @@ The counterman put his cloth down on the wood.
 “Go on.”
 
 “There is going to be a name on that page on the thirtieth.” He did not take the sheet off the desk and he did not look at it.
+
 “I have not seen it and I am not asking to see it and I do not need to, because a woman came and stood at that rail on the twenty-first of this month and told a man in front of me that a building was going to print a name, and she said it the way people say a thing they have heard from somebody who has seen it.”
 
 “Who was she.”
@@ -54,6 +55,7 @@ He put the cloth over his shoulder.
 ## Why The Answer Is No
 
 “A man behind a counter does not decide what is on the page,” he said.
+
 “That is the whole of what I have been for nine years. I read what is on the page. I have never once been asked what it means and I have never once been told to stop reading before the end, and there is nobody in this city entitled to tell me where the end is, and now there is a man in a white plate standing nine feet off my desk telling me there is.”
 
 “That is not what I—”
@@ -87,6 +89,7 @@ He put the slate against his ribs.
 “You have been counting people at a market end for nine years.”
 
 “I have been counting heads at a stall for nine years and I take a toll at it, one for every head that stops, and nobody has ever thanked me for it and I have not asked,” said Emil Brack.
+
 “And in nine years I have watched what a face does to a street when a face gets said out loud. Not the rule. The face. A rule you can believe or not believe. A face you can ask a question, and the question does not have to be a fair one, and it will be put to her by somebody with a grievance about nine pounds.”
 
 He took the slate off his ribs.

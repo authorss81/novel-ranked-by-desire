@@ -91,6 +91,7 @@ He stood in the back room off a street two streets wide with a piece of office p
 Nine years of this office have been built on not making anybody do anything.
 
 No clerk asks a person a question about a thing somebody else has written down. No clerk sends anybody to anybody. No drawer is opened. No bundle is opened. No coat is opened.
+
 No form in this city compels a woman to come back to a table, or a man to show what is in his pocket, or a boy to say what he has heard, or a cleaner to say what she has seen, or a counterman to stop reading the bottom of a page out loud because it costs him nothing and he has never been paid for it.
 
 Every one of those has been correct. Every one of them has been correct on its own facts and each one of them has been the right decision on the day it was made, and he has made most of them himself.

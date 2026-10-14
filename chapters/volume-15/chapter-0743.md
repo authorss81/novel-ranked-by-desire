@@ -9,6 +9,7 @@ The branch office off a third court has a ground floor, three floors of washroom
 He comes in at eleven. He goes out at half past five. Four nights and three off. He asked for that shift and there is no form anywhere in this city on which a man of rank one may ask for a shift, and he asked anyway, and it was granted by a man who found the arrangement convenient and has not once thought about it since.
 
 The landing at the top of the stair is lino, about eleven feet by nine, with a fire bucket screwed to the wall at the end and a wooden key board on the left with about nine numbered hooks and nine keys on string loops, and every hook carries a number and none of them is a room, because there are no rooms.
+
 On the right there is a table, two chairs, a tin with a lid on it, a bar of soap in a dish with the dish gone white, and a clock that runs about four minutes slow a day and is corrected every seventh day by a man who is not him.
 
 A strip light hangs on a flex above the table and has been getting longer for nine years and nobody has been up a ladder.
@@ -46,6 +47,7 @@ She had not told him about it and he had not asked, and both of those had been g
 “Go on.”
 
 “I know more about you than anything in this city does.” She said it the way she says a figure to a crowd, level and without any weight on it.
+
 “The woman with the pencil has nine sheets and not one day of yours in them. The woman with the cloth book has two hundred pages and not one hour of yours. The book with a date and an hour in it that goes up a stair has your name at the head of two instructions and about nine lines, and there is not one of them about when you get up or what you do with the other three days of a week.”
 
 “That is true.”
@@ -75,6 +77,7 @@ She turned round. She had her coat off over the rail and a cap under the rail an
 “I have been on nine rotas and I have been handed nine pieces of paper saying what somebody else wants of me, and I have never once been handed a piece of paper saying what the other three days are for.”
 
 “This city has not got days of the week,” said Nadia Ferrous.
+
 “It has got thirty days a month and a month has no thirty-first, and a man in a branch office writes the date and not the day. That is correct for a wage and it is no use at all for a person.”
 
 “So the three off are three holes in every rota I have ever stood behind, and I am the only one who knows what is in them, and I have never once been able to say so out loud in a room where it might be written down.”

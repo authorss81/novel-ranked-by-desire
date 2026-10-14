@@ -7,7 +7,9 @@ Two thousand seven hundred and eighty was the twenty-first of October and the tw
 The bundle came off a table on the twenty-eighth of October of the fifth year and has been on that table ever since, apart from about nine days in the sixth year when it was put down a stair and forgotten, and it has been three years to the day this morning and nobody in that building thought of the date.
 
 Twenty-five things were on it when he came in at about ten. A receipt for a coat. A folded public sheet with a corner torn. An envelope that had been opened and had nothing in it. A pencil. A tin that had held something and had rusted through at one corner.
-Two keys that fit nothing in that building. And twenty more of the same kind, brought up the stair or handed in at the counter or picked up off a floor, and every one of them had gone onto that table within about nine seconds of arriving and had stayed there.
+Two keys that fit nothing in that building.
+
+And twenty more of the same kind, brought up the stair or handed in at the counter or picked up off a floor, and every one of them had gone onto that table within about nine seconds of arriving and had stayed there.
 
 Not one of them has been opened in nine years.
 
@@ -70,6 +72,7 @@ And standing there with it in his hand he understood something about that table 
 The bundle is an instrument.
 
 It is the only instrument in this city that will hold a piece of paper without making it into a record of anything. Not the bound Register, which turns a sheet into a row the same minute it arrives. Not nine sheets under a third table, which turn a sheet into a claim true against a day.
+
 Not a grey cloth book in a pigeonhole, which turns a sheet into a second claim and is worse than the first. Not the drawer, which turns a piece of paper into a thing a man has instructed about and therefore a thing a book has an opinion on.
 
 The bundle turns it into nothing. It is the only place a piece of paper can sit in Ostara and stay a piece of paper.

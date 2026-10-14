@@ -51,6 +51,7 @@ The second column is a column of carriers and it had been a column of carriers s
 That is now over.
 
 He could not put a piece of paper in it, because the heading says carried by and paper is not carried by anybody in the shape the column takes. He could not put a claim in it, for the same reason. He could not put a street, a date or an account in it.
+
 There were exactly two things in nine sheets and nine years that had ever fitted under that heading, and both of them were a person, and until this morning one of them was dead and the other one was himself.
 
 The place in this office where paper is received and nothing is said about anybody has just been closed by the only man in Ostara entitled to close it, and it was closed by him in the direction he has spent four years insisting he would never move in.
@@ -72,6 +73,7 @@ He said it to the table, at about twenty past eleven, with Wenna Raut at the far
 He had not thought about that part and she had, and she said it in the level voice she uses at a counter.
 
 “And there is one more thing and then I am going to stop saying it,” she said.
+
 “This office has never in nine years put a person in a book it does not have to. She worked that out about four years before I did and she has never mentioned it. And a line went into that column this morning with a name on it and nothing else, and it is the first time, and the man who put it there is the same man in both sentences, and one of those two sentences is going to cost him.”
 
 He said, “Yes,” and that was the whole of the exchange, and neither of them thanked the other for anything and neither of them expected to and neither of them has ever done.

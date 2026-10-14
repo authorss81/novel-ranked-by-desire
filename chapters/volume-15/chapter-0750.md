@@ -11,7 +11,9 @@ Eight hundred and fifty-two at the head of it.
 It has stood at that since the thirtieth of March of the fifth year and it has not been moved once since, and it is not a figure of deeds and it is not a figure of anything, and no permission for moving it exists in this city or has ever existed.
 
 It has now been unmoved across **sixteen of these sheets**. That is sixteen sheets, because a sheet counts itself from the seventeenth onward and this is the thirty-second.
-And it has been unmoved across **fifteen quarters**, and that is a different count and it is also correct, because quarters run to a quarter-end strictly after the thirtieth of March of the fifth year and this is one of them. Both numbers are on the sheet in front of her and they differ by one, and anybody reading them out loud has to say which one is being printed.
+And it has been unmoved across **fifteen quarters**, and that is a different count and it is also correct, because quarters run to a quarter-end strictly after the thirtieth of March of the fifth year and this is one of them.
+
+Both numbers are on the sheet in front of her and they differ by one, and anybody reading them out loud has to say which one is being printed.
 
 Below the head, about four hundred and nineteen lines with a date against every one of them and an hour against the date and no figure against the hour and no name along the line.
 

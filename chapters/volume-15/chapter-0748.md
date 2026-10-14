@@ -101,6 +101,7 @@ A name at the head of a line in a column headed *carried by*, printed by a works
 That is a printed fact with a printer’s name on the form, and about forty people will say it came from Lin Hao inside a week of the thirtieth, and about four hundred people will read about it in a kitchen in about a month, and every one of the two inches under the striking in every one of those kitchens will go quiet, and not one of them will ever be told why.
 
 He had been guarding that two inches since the ninth of August.
+
 He had entered a denial in his own hand on the sixteenth of August to keep the door open for anybody to claim anything, and this morning he had put a line in a column that shuts it, and the two things were in one sheet about nine feet apart and he could not show them to each other, and a man who runs a desk under a window was going to read both of them out loud on the same afternoon.
 
 ## At Four O’Clock On The Thirtieth
