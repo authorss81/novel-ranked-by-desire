@@ -48,7 +48,9 @@ ARITHMETIC      spine 2,296-2,355, monotonic 0 violations, by METHOD A and METHO
                 own column and not one of the nine. Every one of the nine read against its own
                 chapter's date one at a time. THE PHASE PROMPT'S OWN SUMMARY LINE IS WRONG:
                 ten terms for a nine-term batch, summing to 66 against endpoints differing by 59.
-                17 FOOTER INTERVALS PARSED OFF THE PAGE AND RE-DERIVED, 0 MISMATCHES.
+                20 FOOTER INTERVALS PARSED OFF THE PAGE AND RE-DERIVED, 0 MISMATCHES. THE
+                COUNT WAS PRINTED AS 17 FOR FOUR PASSES; THE TABLE CARRIED 18 AND THE PAGE 20,
+                AND 675:111 AND 678:97 WERE NEVER TABULATED. BOTH NOW IN, 20 OF 20 AGREE.
                 THE THREE THAT WERE WRONG ON THE PAGE ARE NOW RIGHT: five months with eight
                 days at 671, six months with eleven days at 676, anchored at 680, nine quarters
                 at 675. EVERY ONE LANDS ON ITS OWN CHAPTER'S DATE.

@@ -18,7 +18,7 @@ There was nothing in front of him this morning at all.
 
 About eleven thousand people live in that yard off the Vestry and on a working morning about nine hundred of them are standing in it.
 
-He went up the hill at about eleven to hear his own sentences read by about nine hundred people who had never met him and never would, and he got about half way up before he understood that this was the fifth time he had done that in seven weeks and that doing it five times was a habit.
+He went up the hill at about eleven to hear his own sentences read by about nine hundred people who had never met him and never would, and he got about half way up before he understood that this was the fifth time he had done that since the fourteenth of April and that doing it five times was a habit.
 
 Perla Quist was in the flat space at the top of the path with nine ruled sheets of her own paper in her hand, and about forty people round her, and she had come on purpose and had told nobody she was coming except a woman in a yard who had asked her to come.
 

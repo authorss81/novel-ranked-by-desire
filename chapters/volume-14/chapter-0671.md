@@ -138,4 +138,4 @@ He went up the street with nothing in his hands.
 
 Under the floor of a building off a court there was a drawer with ninety-odd sheets of pencil paper in it and nothing entered against one of them. In a back room off a street two streets wide there was a margin with a hundred and forty dates in it in a pencil that cost money.
 
-And in this city there was a woman who had been carrying the same piece of paper to the same table for eleven weeks to find out whether four words were true.
+And in this city there was a woman who had been carrying the same piece of paper to the same table on eleven mornings since the ninth of January, to find out whether four words were true.

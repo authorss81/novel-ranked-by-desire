@@ -29,9 +29,13 @@ METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Jun 4, Jul 5, Aug 6  — 
 
 **`outline/volume-14.md` §5c's row `7 6 7 6 7 6 7 6 7 = 59` IS CORRECT AGAINST THE PAGE AND NEEDS NO CORRECTION. THE PHASE PROMPT'S OWN ROW WAS NOT, FOR THE THIRD TIME IT HAS BEEN RE-DISPATCHED.** The prompt gives `7 7 6 7 6 7 6 7 6 7 = 65` and `2,355 − 2,296 = 65`. **The list has ten terms for a nine-term batch because the seam was prepended to the nine, it sums to 66, and the endpoints differ by 59.** Its own per-chapter table is correct; its own summary of that table is not. §5c, written before the chapters, is the row that survives.
 
-## 0a-bis. EVERY FOOTER INTERVAL IN 671–680, PARSED OFF THE PAGE AND RE-DERIVED, 17 OF 17
+## 0a-bis. EVERY FOOTER INTERVAL IN 671–680, PARSED OFF THE PAGE AND RE-DERIVED, 20 OF 20
 
-**Every italic line in the ten files was parsed by command, the anchor and the day-count and the month-count were extracted from the prose itself, and each was re-subtracted from the chapter's own spine day and checked against the anchor by both methods. NOT CARRIED FROM ANY EARLIER ROW. 17 INTERVALS PARSED, 17 RECOVERED BY MATCHING THE HOUSE'S SPELLED-OUT FORM, 0 MISMATCHES.**
+**Every italic line in the ten files was parsed by command, the anchor and the day-count and the month-count were extracted from the prose itself, and each was re-subtracted from the chapter's own spine day and checked against the anchor by both methods. NOT CARRIED FROM ANY EARLIER ROW. 20 INTERVALS PARSED, 20 RECOVERED BY MATCHING THE HOUSE'S SPELLED-OUT FORM, 0 MISMATCHES.**
+
+**AND THE COUNT ABOVE WAS WRONG FOR FOUR PASSES AND IT IS NOW CORRECTED, AND THE WRONG NUMBER WAS NOT A MISSING INTERVAL, IT WAS A COUNT ASSERTED OVER A TABLE IT DID NOT DESCRIBE.** The heading read **17 OF 17** and the prose read **17 INTERVALS PARSED**, and the table printed beneath them carried **18** data rows, and the page carries **20**. **THE PAGE IS THE COUNT.** All italic lines in 671–680 were re-parsed by command in this pass and they come to **33**, which is **20 day-interval footers**, **10 spine-day footers** in the house's opening form, and **3 other italic lines** — `chapter-0677.md`:31, which is a sign inside a scene and not a footer, and `chapter-0680.md`:125 and `:129`, which carry no interval. **THE TWO INTERVALS THAT WERE NOT IN THE TABLE ARE `chapter-0675.md`:111 AND `chapter-0678.md`:97, BOTH ANCHORED ON THE THIRTIETH OF JUNE OF THE SEVENTH YEAR, AND BOTH ARE CORRECT ON THE PAGE: `2,322 − 2,309 = 13`, printed *thirteen days, which is no month at all*, and `2,342 − 2,309 = 33`, printed *thirty-three days, which is one month with three days*. THE TWO OMITTED ROWS COST NOTHING ON THE PAGE AND THE HEADING COST EVERYTHING BELOW IT.**
+
+**THE CLASS IS NAMED HERE BECAUSE §0a ALREADY NAMES ITS INVERSE: A ROW THAT IS WRONG IN ITS ORDER IS INVISIBLE TO A SUM. THIS IS THE SAME THROW FROM THE OTHER SIDE — A COUNT THAT IS WRONG IN ITS SIZE IS INVISIBLE TO A ROW THAT CHECKS OUT. EVERY ONE OF THE EIGHTEEN ROWS THAT WERE PRINTED CHECKS OUT, AND THAT IS PRECISELY WHY A READER COUNTING THE PAGE FOUND TWENTY AND THE TABLE COULD NOT ARGUE WITH HIM.** A figure somebody re-subtracted is evidence. A figure somebody re-subtracted *and then counted the rows printed underneath it* is the whole audit. **FROM HERE ON, A TABLE THAT ASSERTS ITS OWN ROW COUNT IN THE HEADING IS CHECKED AGAINST THE PAGE BY A COMMAND THAT COUNTS THE PAGE AND NOT BY A HUMAN READING THE TABLE.**
 
 | Ch | Anchor as printed | A | B | Printed | Computed | Months |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,11 +47,13 @@ METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Jun 4, Jul 5, Aug 6  — 
 | 673 | second January, year five | 1,411 | 1,411 | 898 | 2,309 − 1,411 = **898** | 29 × 30 + 28 = **898** |
 | 674 | thirtieth March, year seven | 2,219 | 2,219 | 97 | 2,316 − 2,219 = **97** | 3 × 30 + 7 = **97** |
 | 674 | ninth November, year five | 1,718 | 1,718 | 598 | 2,316 − 1,718 = **598** | 19 × 30 + 28 = **598** |
+| 675 | thirtieth June, year seven | 2,309 | 2,309 | 13 | 2,322 − 2,309 = **13** | no month at all + 13 = **13** |
 | 675 | ninth November, year five | 1,718 | 1,718 | 604 | 2,322 − 1,718 = **604** | 20 × 30 + 4 = **604** |
 | 676 | thirtieth March, year seven | 2,219 | 2,219 | 110 | 2,329 − 2,219 = **110** | 3 × 30 + 20 = **110** |
 | 676 | twenty-seventh December, year six | 2,126 | 2,126 | 203 | 2,329 − 2,126 = **203** | 6 × 30 + 23 = **203** |
 | 677 | thirtieth December, year six | 2,129 | 2,129 | 206 | 2,335 − 2,129 = **206** | 6 × 30 + 26 = **206** |
 | 677 | ninth November, year five | 1,718 | 1,718 | 617 | 2,335 − 1,718 = **617** | 20 × 30 + 17 = **617** |
+| 678 | thirtieth June, year seven | 2,309 | 2,309 | 33 | 2,342 − 2,309 = **33** | 1 × 30 + 3 = **33** |
 | 678 | ninth November, year six | 2,078 | 2,078 | 264 | 2,342 − 2,078 = **264** | 8 × 30 + 24 = **264** |
 | 679 | ninth November, year five | 1,718 | 1,718 | 630 | 2,348 − 1,718 = **630** | 21 × 30 = **630**, exactly |
 | 679 | thirtieth September, year six | 2,039 | 2,039 | 309 | 2,348 − 2,039 = **309** | 10 × 30 + 9 = **309** |
