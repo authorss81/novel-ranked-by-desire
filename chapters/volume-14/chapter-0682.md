@@ -6,11 +6,11 @@ Two thousand three hundred and sixty-two was the twenty-third of August and the 
 
 ## Three Things With Commas In Them
 
-He had thought about it for five weeks and he had not once come to the end of a sentence.
+He had thought about it for seven days and he had not once come to the end of a sentence.
 
 What he had come to instead was a list, and he had written it out on the back of his own hand in pencil, which is what he has been writing on since the seventh of April, and it had come out of him in about four minutes in the first week and he had not been able to improve it since.
 
-It was not a sentence. That was the whole of his cleverness and he had known that it was the whole of it on the first day and had spent five weeks hoping it was enough.
+It was not a sentence. That was the whole of his cleverness and he had known that it was the whole of it on the first day and had spent a week hoping it was enough.
 
 *Between the ninth of January and the sixteenth of August, four hundred and nine pieces of paper. Each a copy of the foot of the twenty-fourth sheet, each with writing in the two inches. None of them is a deed.*
 
@@ -52,7 +52,7 @@ She wrote the last four words in the same pen and at the same speed as everythin
 
 “That is in the Register,” she said.
 
- “That is in the Register of this office and it is in my hand and it is dated to day and it has a number against it and a sentence against the number.”
+“That is in the Register of this office and it is in my hand and it is dated to day and it has a number against it and a sentence against the number.”
 
 “It is the first thing that has gone into that column in this building since before I came to it, and I have entered it exactly as you gave it to me and I have not improved one word of it and nobody is going to be able to say in four years that anybody in this room added anything.”
 
@@ -92,7 +92,7 @@ Yusuf Adeyemi had been at the end of the table with his coat on since about a qu
 
 “The first is that the Register is not empty and there has not been a day since this office opened that the Register was not empty, and you have put three lines in a column that had two, and one of the three is yours,” said Yusuf Adeyemi.
 
- “The second is that there is no form anywhere between this room and the works department on which an office may say a fact about itself, and there has not been one in six years, and you have not asked for one and you are not going to get one.”
+“The second is that there is no form anywhere between this room and the works department on which an office may say a fact about itself, and there has not been one in six years, and you have not asked for one and you are not going to get one.”
 
 He held up two fingers.
 

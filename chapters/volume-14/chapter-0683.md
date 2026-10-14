@@ -1,6 +1,6 @@
 # A Heavy Line At The Foot
 
-He had been thinking about eleven columns and a heavy line across the foot of every one of them for four months, since the twenty-third of November, and he had got no further with them in four months than he got in a kitchen off Ferrier Street.
+He had been thinking about eleven columns and a heavy line across the foot of every one of them for nine months and thirteen days, since the twenty-third of November, and he had got no further with them in all that than he got in a kitchen off Ferrier Street.
 
 Two thousand three hundred and sixty-nine was the thirtieth of August and the sixth of September is day two thousand three hundred and seventy-five, and two thousand three hundred and seventy-five less two thousand three hundred and sixty-nine is six, and the thirtieth stops the month and six comes out of September.
 
@@ -102,7 +102,7 @@ He took his time about it. About nine minutes of the room went past with somebod
 
 “There is something about your person in this,” said Tessa Okonkwo. “You wrote it.”
 
-“You stood up in front of a yard of about eleven thousand people and you read out a sentence and then you struck the fourth one out from the first letter to the last in a single movement, and that sentence is about you, and it has been on the foot of that page for about ten months, and a man in a delivery coat has read it out loud every morning since.”
+“You stood up in front of a yard of about eleven thousand people and you read out a sentence and then you struck the fourth one out from the first letter to the last in a single movement, and that sentence is about you, and it has been on the foot of that page for nine months and thirteen days, and a man in a delivery coat has read it out loud every morning since.”
 
 “That sentence is about what counts as an unrecorded thing. I struck it because it was not true of anybody I could name.”
 
@@ -118,7 +118,7 @@ He said it in the end, and it took him about nine seconds, and it was not the re
 
 “If my name goes in that column, then in about four years somebody opens that drawer and sees a name in it, and there is no form anywhere in this city that says whether the person in a column was a person something was done to or a person who came to a counter and was refused,” he said.
 
- “And I know that, because a woman with a pencil said the identical thing to me in a back room in August and I have not been able to put it down since, and you have just said it to me in the wrong building and it is the same fact and you got there first.”
+“And I know that, because a woman with a pencil said the identical thing to me in a back room in August and I have not been able to put it down since, and you have just said it to me in the wrong building and it is the same fact and you got there first.”
 
 Tessa Okonkwo did not move.
 
@@ -164,7 +164,7 @@ He looked at the door, which was open, and at the nine people at the tables with
 
 She came down onto the boards and got her knee between his and went at him with her mouth on his throat, the way she had gone at the knot under his jaw in the ninth month of a year she is not going to name, and he put both hands into her hair and let her, and she bit down once on the muscle of his shoulder hard enough that he heard himself make a noise about it.
 
-The coat went off his shoulder onto the boards and she got his shirt open with both hands at once, the way she does things, and had it back off his shoulders and down his arms before he had decided to let her.
+The coat went off his shoulder onto the boards, and she opened his shirt at the collar with two fingers and then with both fists, and hauled the sleeves down over his arms in one go, the way she does things, and had him bare to the waist before he had decided to let her.
 
 Then she got her hand inside his trousers and took his cock out in her fist and weighed it the way she weighs a thing she already knows the answer to.
 
@@ -186,7 +186,7 @@ She set the head of him against her and pushed down onto him in one slow movemen
 
 “I have never told her or you what I took, and I am not going to tell you now either, and you are not going to ask me, because that is the whole of how the two of us stay standing.”
 
-She rode him with one hand on his chest and the other braced on the boards beside his hip, and she decided the speed twice and looked at him both times to see what it did to his face, and when his hand went up onto her spine she put hers over it and held it there.
+She rode him with one hand splayed on his chest and the other braced on the boards beside his hip, and she gave him nothing to hold onto, she worked him up off the boards and put him down and did it again, and every time she changed it she looked at his face first to see whether he had noticed.
 
 “There,” she said. “That is what you came up two flights for.”
 
@@ -194,15 +194,15 @@ She rode him with one hand on his chest and the other braced on the boards besid
 
 “You came up for a column and I have offered you a column and you have refused it, and you came up anyway.”
 
-She put her face down into his neck and took him deeper than the position allowed and ground the heel of her hand against herself where the two of them were joined, and he got both hands under her and held her there and let her do it.
+She put her forehead against his jaw and rode him harder, grinding down on him with her hips and her teeth set in her own lip, and he got both hands under her and held on and let her do it.
 
-She came with her mouth open and made no effort whatever to be quiet about it, and the sound went about nine feet and hit the wall and came back and did not go any further than that room, and she shook through all of it with her fingers dug into the boards on either side of him.
+She let go without putting a hand over her own mouth, and the noise she made went the length of a thirty-foot room and came back off the glass and did not get past the door, which was open the whole afternoon.
 
-He held her through it and loved the weight of her and could not have told anybody what the weight of it was.
+He got a hand into her hair and held the back of her head against his and let her shake, and afterwards he could not have put a size on any of it, and he did not try.
 
 Then she slowed, and stopped, and rode him to the end with her hand still on his chest, and he spent in her with her name in his ear and she took all of it and stayed on him, breathing hard, counting the whole of it out loud the way she counts everything.
 
-“Four hundred and thirty-one days,” she said. “That is since the twenty-third of November. I have not told you that before and I am not going to tell you what it means. I count what comes down my own stair and I do not get to decide about it.”
+“Two hundred and eighty-three days,” she said. “That is since the twenty-third of November. I have not told you that before and I am not going to tell you what it means. I count what comes down my own stair and I do not get to decide about it.”
 
 Nobody in that room shut anything at any point between the moment she knelt down and the moment she got up.
 
@@ -238,7 +238,7 @@ He looked at the bottom of it. Eleven columns, a heavy line across the foot of e
 
 She put the ribbon round the board and tied it.
 
-“You have three weeks and six days to decide about a line in a column on the last working day of a quarter,” she said. “I know because you looked at a window when I told you the date and I have watched you look at a window like that for eleven years.”
+“You have twenty-four days to decide about a line in a column on the last working day of a quarter,” she said. “I know because you looked at a window when I told you the date and I have watched you look at a window like that for eleven years.”
 
 He got the bucket up off the boards. He did it in two movements and he put his weight on the arm of a table to do it, and nobody at that table moved anything for him.
 

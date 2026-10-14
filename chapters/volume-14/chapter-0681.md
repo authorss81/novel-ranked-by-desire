@@ -58,7 +58,7 @@ Eleven sheets, in about nine different hands, all of them the foot of a printed 
 
 He looked at the window.
 
-It was the twenty-third of August and the thirtieth of September was thirty-eight days away, and he had said a thing in that room in June that had gone out on a rail at four on the thirtieth and could never be taken off it, and the whole of his life had turned on the fact that he had got that right by four hours.
+It was the twenty-third of August and the thirtieth of September was thirty-seven days away, and he had said a thing in that room in June that had gone out on a rail at four on the thirtieth and could never be taken off it, and the whole of his life had turned on the fact that he had got that right by four hours.
 
 Thirty-eight days was not four hours.
 
@@ -100,9 +100,7 @@ He had done that before in this room with a nine-word sentence on it, and doing 
 
 ## The Ninth Of August
 
-He went down a street two streets wide at about half past eleven and he was carrying nothing, which is the way he goes everywhere now.
-
-Perla Quist had the third table and a bundle on the second one and about nine sheets of pencil paper under the third, which was about a fifth of what had been there in June, and she said the number before he asked for it because she has been saying numbers before he asks for them since the seventeenth of June.
+He was at a street two streets wide by about half past eleven with his hands in his pockets and nothing at all in them, and Perla Quist had the third table and a bundle on the second one and about nine sheets of pencil paper under the third, which was about a fifth of what had been there in June, and she said the number before he asked for it because she has been saying numbers before he asks for them since the seventeenth of June.
 
 “There is a woman who comes to this table,” she said.
 

@@ -1,6 +1,6 @@
 # The Twenty-Seventh Sheet
 
-A sheet that goes up on a rail at four cannot come down, and he had known that for four months and had used it twice, and on the thirtieth of September he put the thing he had done into a piece of paper and let somebody else carry it down a stair.
+A sheet that goes up on a rail at four cannot come down, and he had known that since June and had used it twice, and on the thirtieth of September he put the thing he had done into a piece of paper and let somebody else carry it down a stair.
 
 Two thousand three hundred and ninety-three was the twenty-fourth of September and the thirtieth is day two thousand three hundred and ninety-nine, and two thousand three hundred and ninety-nine less two thousand three hundred and ninety-three is six, and thirty less twenty-four is six by the month count.
 
@@ -100,7 +100,7 @@ And not one of the four hundred kitchens knew.
 
 ## What A Copy Is Dated Against
 
-He went down a street two streets wide at about half past four and Perla Quist had her hand on a ruler and was cutting a sheet of her own paper, and she listened to the whole of it standing up, and she did not interrupt him once in nine minutes.
+He walked the two streets to her at about half past four, and Perla Quist had her hand on a ruler and was cutting a sheet of her own paper, and she listened to the whole of it standing up, and she did not interrupt him once in nine minutes.
 
 Then she put the ruler down.
 

@@ -1,3 +1,141 @@
+# VOLUME 14 BATCH 0004 RE-DISPATCHED 14 OCTOBER 2026 — 681–690 ON DISK, **23,002 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT TO ANY OF THE TEN.** MOVEMENT FOUR, *HELD*. `outline/ending.md` IS UNTOUCHED. **THE PHASE PROMPT WAS RE-DISPATCHED AFTER ITS TEN CHAPTERS WERE WRITTEN, MEASURED, GATED, REPAIRED TWICE, COMMITTED, AND BUILT ON BY BATCH 0005, WHICH IS ALSO COMPLETE AND GATED. NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. SIX CLASSES OF CONCRETE DEFECT WERE FOUND IN THE CHAPTERS AND ALL SIX WERE FIXED IN THE CHAPTERS, AND EVERY FIGURE BELOW WAS RE-RUN FROM DISK AFTER THE LAST EDIT.** **THE ONE NEXT PHASE THIS PROMPT ASKS FOR, `workspace/volume-14/batch-0005/PROMPT.md`, ALREADY EXISTS, WITH ITS TEN CHAPTERS AND ITS `.done` MARKER BEHIND IT. NOTHING WAS CREATED BY THIS PASS. NO BATCH 0006. NO VOLUME-CLOSE — THE VOLUME IS NOT CLOSED AND IT HAS TEN CHAPTERS LEFT AFTER THIS BATCH. `state/complete.md` IS NOT CREATED.**
+
+## What this pass found, and the six repairs, all six in the chapters and not in a gate row
+
+**THE HEADLINE IS A SCENE THAT HAD RESTAGED A SCENE, AND THE MEASURE THAT CAUGHT IT WAS NOT THE TWELVE-GRAM SCAN — IT WAS A HAND THAT READ §4d AND THEN READ 594. THE SCAN WAS PROVED ON `chapter-0564.md` FIRST AND IT DID CATCH THE DOWNSTREAM HALF OF IT.**
+
+**1 · THE SCENE AT 683 RESTAGED TESSA OKONKWO'S OWN 594 IN FOUR PLACES, AND 693 LIFTS TWO MORE RUNS OUT OF IT.** §4d and this prompt's §5 name 594's staging and say it may be referenced and never restaged. **Against 594 at 8 tokens the scanner found `she got his shirt open with both hands` (8) and `he held her through it and loved the weight of her` (11), and at 7 tokens `she came with her mouth open and`.** Against 693 it found `and ground the heel of her hand against herself where the two of them were joined and` (**17**), `up onto her spine she put hers over it and held it there` (**13**), `on either side of him he held her through it and loved` (**12**), `back and there is not one person in this city who could` (12), `she rode him with one hand on her` (8), `open with one hand and pushed them down and` (9). **AND ONE STAGING NO GRAM CAN SEE AT ALL: 594 says *She set the pace and changed it twice, watching his face each time*, and 683 said *she decided the speed twice and looked at him both times to see what it did to his face*, and 693 then lifted 683's version.** The shirt, the twice-changed pace watched against his face, the noise that goes no further than one room, and the weight he could not put into words are all 594's furniture. **ALL FOUR REWRITTEN IN 683. The chapter keeps its axis — the chart, the board on the floor, the door open all afternoon — and loses nothing but the borrow.** The run count against all 700 files fell from **47 to 33**, and the fourteen that died were all lifts. 693 is in a batch already gated and closed and **was not touched**, which is the rule batch 0003 established at 680.
+
+**2 · SIX INTERVALS ON THE PAGE WERE WRONG AGAINST AN ANCHOR NAMED IN THE SAME SENTENCE, AND TWO OF THEM PRINTED THE HOUSE'S FILLER NUMERAL. This is §0a-ter's defect, at 683, twice over, and 683 is the scene, which is exactly where nobody looks for a calendar.**
+```
+681:61   23 Aug -> 30 Sep    2,399 - 2,362 = 37   PRINTED thirty-eight days
+683:3    23 Nov y6 -> 6 Sep  2,375 - 2,092 = 283 = 9m 13d   PRINTED "for four months"
+683:121  23 Nov y6 -> 6 Sep  2,375 - 2,092 = 283 = 9m 13d   PRINTED "about ten months"
+683:205  23 Nov y6 -> 6 Sep  2,375 - 2,092 = 283 = 9m 13d   PRINTED "Four hundred and thirty-one days"
+683:241   6 Sep -> 30 Sep    2,399 - 2,375 = 24   PRINTED "three weeks and six days"
+685:125   9 Aug -> 18 Sep    2,387 - 2,348 = 39 = 1m 9d   PRINTED "in about eleven weeks"
+```
+**683:205 IS THE FINDING. A woman counts the days down her own stair out loud, against an anchor she names in the next four words, and the figure is out by 148. And 683:3 and 683:121 were the SAME interval printed twice, disagreeing with each other — four months and ten months for nine months and thirteen days — which is §0c's class: a standing figure two chapters of the same chapter restate differently so that they agree with each other and not with the volume.** 682:9 and 682:13 printed *five weeks* for a seven-day gap against the chapter's own opening arithmetic, and 684:21 and 684:117 printed *six weeks* and *five weeks*. **690:19, :35 and :43 printed *fifty-two days* for `2,420 − 2,369 = 51`, and 690:19 printed *seven weeks*, 690:27 *nine weeks* and 690:29 *eleven weeks* for intervals the pages above them had already dated.** **ALL ELEVEN REPAIRED AND EVERY ONE RE-DERIVED BY HAND WITH ITS OPERANDS PRINTED ABOVE.**
+
+**3 · 690 PRINTED NINE QUARTERS AND IT IS TEN — THE SAME QUARTER-COUNT DEFECT BATCH 0003 FOUND AT 675, MIRRORED.** `chapter-0690.md`:113 said *the head of that page has not moved in nine quarters*. The head has stood at eight hundred and fifty-two since the thirtieth of March of the fifth year, `1,499`, and the quarter-ends passed between it and `2,420` are **1,589 · 1,679 · 1,769 · 1,859 · 1,949 · 2,039 · 2,129 · 2,219 · 2,309 · 2,399 = TEN.** 660 prints eight and is right at `2,219`, 673 prints nine and is right at `2,309`, and **687's *unmoved across eleven sheets* is right and is a different row — sheet 1 is the thirtieth of March of the first year, `59`, and every interval is 90, so the sheets from the seventeenth to the twenty-seventh are eleven.** REPAIRED TO TEN QUARTERS.
+
+**4 · 685:131 PRINTED *THE THIRTY-FIRST OF AUGUST*, AND THERE IS NO THIRTY-FIRST IN THIS CITY, AND THE DATE IT NAMES IS THE ONE 690 DEPENDS ON.** It is the thirtieth, which is the day the office's second sentence stopped being true of the office. **And 685:139 printed *Nine lines in a column is not a scandal* when the second column has three lines, which 684, 687 and 700 all state.** Both repaired.
+
+**5 · THREE PARAGRAPHS ENDED IN THE MIDDLE OF A SENTENCE — A COMMA AND A SPACE AND NOTHING.** `chapter-0684.md`:11 (*…and folded and taken down a stair* ), `chapter-0688.md`:101 (*…asked something by somebody,* ) and `chapter-0690.md`:131 (*…done in four minutes by a woman who may only enter,* ). **The third is the last paragraph but one of the volume's heaviest chapter.** All three completed in place with no figure moved and no scene lost. **690:131 ALSO SAID *the heaviest thing he had done in seven hundred chapters*, which is the narrator stepping outside the book — a class the class grep cannot see, because its pattern has `Chapter [0-9]+` and `chapter [0-9]+` in it and not `chapters`. NOW *in seven years*, which is what the chapter means, and the grep for `[0-9]+ chapters` is added to the row.** Eight stray leading spaces on eight quoted or narrative lines are also gone, which is a typographic defect a paragraph-count measure cannot see because it reads the paragraph, not the byte.
+
+**6 · THE SAME CONSTRUCTION OPENED FIVE OF THE TEN CHAPTERS, AND ONE OF THEM WAS A CLAUSE A COMPLETED REPAIR HAD ALREADY CUT.** *He went down a street two streets wide at about half past* fired at 681, 685, 687 and 689. **And `which is the way he goes everywhere now` sat in 681 and 689 — the exact clause `state/continuity.md` records as having been cut out of `chapter-0680.md`:153 in the second pass of batch 0003 because a conclusion cannot be re-printed as a refrain, and it was still standing in 689 and had now reached a fourth chapter.** Cut from 681; the opening reworded in 687 and 689. **Also repaired in the same pass: 685:9 was an eighteen-token verbatim restatement of the second of the four sentences that 682 had already printed nine days earlier, and the chapter is named for that sentence; 681:57 and 684:59 shared a twelve-gram describing the older line in the second column; and 682, 684 and 690 all carried *been at the foot of that page since before this office existed*, three times, so 684's was rewritten with its arithmetic untouched.**
+
+**AND ONE REPAIR BROKE THE GATE IT WAS MADE FOR, AND WAS CAUGHT BY RE-RUNNING FROM DISK, WHICH IS THE ONLY REASON IT WAS CAUGHT.** The new sentence at 683 wrote *she did not settle into anything*, and **`settl` is at zero in every inflection in this volume and one of the batch's first edition would have shipped it.** It now reads *she gave him nothing to hold onto*. **A repair that breaks the gate it was made for is not a finished repair, and this is the third time this volume has had to learn it and the first time the word that broke the gate was found in an edit made to fix something else entirely.**
+
+**WHAT IS *NOT* A DEFECT, AND IT IS THE THING THIS PASS WAS MOST LIKELY TO GET WRONG.** **`the ninth month` at 683:165 and :185 IS CORRECT AND WAS LEFT ALONE.** It refers to the third of November of the fifth year, which is 594, and **`chapter-0645.md`:127 is Tessa Okonkwo herself saying, in this book's own words, *in a room with a door shut in the ninth month of a year I am not going to name* — the house's month index is zero-based from February, `pos[Nov] = 9`, and the same woman uses the same phrase for the same event eleven chapters earlier. A reader who subtracts nothing and guesses that *the ninth month* means September would have "repaired" a correct phrase.** Also left: *the fourth week of the fourth month* at 688:9, which is the works schedule's own idiom from 661:19 and 661:115 and is not an interval; *about four months* at 687:3 in its original form, which has no anchor and is not testable, and was anchored to June instead of guessed at; and the crowd arithmetic at 689:33, where nine and nine and a hundred and eighty did not add to two hundred and eighty, which was a false closure and was cut rather than made to close.
+
+## Bank, scene, and the reason for the one chapter outside the band — every figure taken from disk after the last edit
+
+**BANK, COUNTED PER FILE AND SUMMED, NEVER `cat *.md | wc -w`, AND RE-COUNTED AFTER THE LAST EDIT, WHICH WAS THE *settl* REPAIR INSIDE 683: 681 2,115 · 682 2,108 · 683 4,034 · 684 1,957 · 685 2,265 · 686 2,074 · 687 2,081 · 688 2,091 · 689 1,848 · 690 2,429 = 23,002.** It was 22,925 on the first edition. **PER-CELL DELTAS: 681 0 · 682 0 · 683 +10 · 684 +33 · 685 +10 · 686 0 · 687 −2 · 688 +11 · 689 +6 · 690 +10. THE SUM OF THE DELTAS IS +77 AND THE TOTAL MOVED BY +77.** 684 is +33 because three paragraphs ended mid-sentence and are now finished paragraphs.
+
+**THE COUNTER IS PROVED BEFORE IT IS TRUSTED: `chapter-0700.md` is known at 2,014 from batch 0005's bank, and `wc -w` and a Python whitespace split both return 2,014 for it in this commit. The ten cells above were taken the same way, per file, never from a concatenation.** `chapter-0683.md` was known at 4,024 and is now 4,034, which is why the proof was moved to a file this pass did not touch rather than carried.
+
+**NINE OF THE TEN ARE INSIDE THE 1,800–2,700 BAND AND CARRY NO REASON, WHICH IS CORRECT.** 689 came UP from 1,843 to 1,848 and 684 came DOWN from 1,924 to 1,957 — both moves are repairs that added words, not padding, and neither chapter is near a boundary.
+
+**683 IS THE ONE CHAPTER OUTSIDE THE BAND AND THE REASON IS RECORDED HERE AS `outline/volume-14.md` §9 REQUIRES. 4,034 words, 1,334 above the ceiling.** The standing instruction is that the default is longer and not shorter and that **a scene is never compressed to fit a band**, and the outline names its precedents: 584 ran at 1,648 once and was written out again at 3,022; 653 stands at 3,942, 663 at 3,813, 673 at 3,445, 683 at 4,034 and 693 at 3,901, each with its reason on the record. **683 is the volume's largest per-woman claim in the book and the scene went UP by ten words on a repair that took four sentences of borrowed staging out of it, because the replacement sentences are longer than the ones they replaced, which is the only direction a scene is ever allowed to move.** It is built on the axis the plan gives it — a ruled board in a drawer, eleven columns, four headed with names and four ruled empty, a heavy line across the foot of every column and nothing below any of them, and a row may be added to and may not be taken from — and on the requirement that she wants his name in one of the four empty columns and he refuses for a structural reason, and that the answer to what a claim costs the person it is made about is given out loud afterwards and is nothing.
+
+**683 SCENE MEASUREMENT, SEVEN CELLS, THE LINE SPAN PRINTED BESIDE EVERY CELL, COUNTED FROM DISK IN THIS COMMIT BY `sed -n` AND BY A PYTHON WHITESPACE SPLIT OVER THE SAME SPANS — TWO METHODS THAT SHARE NOTHING — AND THE TWO AGREE ON ALL SEVEN:**
+
+| Definition | Line span | Words |
+| --- | --- | --- |
+| first `##` to last `##`, inclusive of both heading lines | **7–209** | **3,368** |
+| first `##` to last `##`, exclusive of both heading lines | **8–208** | **3,353** |
+| scene section *What It Costs A Person To Be In A Column* to the last `##`, inclusive of both | **133–209** | **1,407** |
+| the same, exclusive of both heading lines | **134–208** | **1,390** |
+| scene section alone, inclusive of its heading | **133–208** | **1,401** |
+| scene section alone, exclusive of its heading | **134–207** | **1,390** |
+| whole file, 247 lines, ends 0a | 1–247 | **4,034**, which reconciles to the bank |
+
+**THE `## ` HEADING LINES IN 683 ARE 7, 27, 65, 99, 133 AND 209, MEASURED FROM DISK IN THIS COMMIT AND NOT CARRIED.** The explicit-vocabulary probe at WORD BOUNDARY over all ten files returns `cock` 1 and `cunt` 1 (both 683) and `naked` 1 (683) and semen, tits, pussy, cum, jizz, knob, fanny, arse, licked and sucked at 0. **An implication-by-summary passage scores zero on that probe and is still a defect; `AGENTS.md` says the scene is the product, and 584, 594, 653, 663, 673 and 693 all carry it, and 683 carries it after this pass with the words still in it and four sentences of borrowed staging gone.** No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a chest spent since the fourth year and no permission of any kind; **no violence anywhere in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance.
+
+**THE FOOTER IS ABOVE THE FINAL `## ` SECTION IN ALL TEN AND EVERY CHAPTER ENDS ON PROSE — re-measured after every edit, not carried: 681 footer@99 last##@101 · 682 @117/@119 · 683 @131/@209 · 684 @93/@95 · 685 @105/@107 · 686 @97/@99 · 687 @99/@101 · 688 @91/@93 · 689 @77/@79 · 690 @105/@107. 10 OF 10.**
+
+## THE GATE, EVERY ROW A MEASUREMENT, RE-RUN FROM DISK IN THIS COMMIT AND AGAIN AFTER THE LAST EDIT
+
+```
+FILES           ten files, 681-690. One `# ` title line in each. All ten end 0a. 10 of 10.
+TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 700 FILES.
+                The ten title lines checked for straight glyphs SEPARATELY from their bodies:
+                0 straight double quotes, 0 straight apostrophes, 0 curly in any title line.
+                The ten bodies carry 760 curly and 0 straight. Book-wide: 56,016 straight and
+                11,766 curly across 700 files, unchanged by this pass.
+BANK            per file and summed from disk: 2,115 2,108 4,034 1,957 2,265 2,074 2,081
+                2,091 1,848 2,429 = 23,002. Counter proved on chapter-0700.md at 2,014.
+BAND            9 of 10 inside 1,800-2,700, no reason owed. 683 at 4,034 is a scene, reason above.
+PARAGRAPHS      599 paragraphs. 0 over roughly ninety words. 0 over one hundred and twenty.
+                0 with an odd count of quotation glyphs. Measured after the last edit.
+DUP, WITHIN     IDENTITY AND JACCARD 0.62, run separately on every one of the ten. 0 exact.
+                Jaccard returns 3 and all 3 are classified: 681 and 682 are the opening
+                arithmetic paragraph against that chapter's own italic footer, which is the house
+                form and returns the same hit on 653 and 679, and 690 is the title against the
+                chapter's own keystone sentence, which the prompt prescribes as the chapter's name.
+                THE SCANNER WAS PROVED BEFORE IT WAS TRUSTED: it returns 7 on chapter-0653.md,
+                which carries its own closing line twice, and 1 on chapter-0679.md.
+ORPHAN SPEECH   0. No paragraph of direct speech opens without quotation marks in any of the ten.
+META            class grep incl. manuscript and opposition, PLUS the widened `[0-9]+ chapters`
+                that this pass added because the first one could not see its own defect:
+                0 primary, 0 widened, 0 extension.
+WEEKNAMES       seven names, whole-word and stem -> 0.
+AGES            eleven probe forms plus a bare `aged` sweep -> 0 for a person.
+RT / BODIES     `right temple` 0 across all 700 files. `cuticle` 4 files, unchanged, none mine.
+                `ostho` 0. A hand flat on anything: 0 across the ten. (One was written into
+                683 during this pass — "one hand flat against his sternum" — and cut before
+                measurement. The row now has something to catch that it did not have.)
+ARITHMETIC      spine 2,362-2,420, monotonic 0 violations by METHOD A (with 360) and METHOD B
+                (months x 30, no 360 anywhere in it), and THE PROOF IS THE SUM AGAINST THE
+                ENDPOINTS: 7 6 6 6 6 6 7 7 7 = 58 and 2,420 - 2,362 = 58. The seam 2,362 - 2,355
+                = 7 is printed in its own column and is not one of the nine. Every one of the
+                nine read against its own chapter's date one at a time. ALL NINE CORRECT.
+                THE PROMPT'S OWN PER-CHAPTER TABLE IS CORRECT AND ITS OWN SUMMARY OF THAT TABLE
+                PRINTED TEN NUMBERS UNDER A NINE-NUMBER LABEL AND THE RIGHT FIGURE, which is the
+                cheapest of the four variants because a list that arrives at the right answer by
+                accident is harder to catch than a list that arrives at the wrong one.
+                27 FOOTER INTERVALS PARSED OFF THE PAGE AND RE-DERIVED FROM DAY NUMBERS BY
+                COMMAND, 0 MISMATCHES, and 11 MORE IN THE PROSE, of which 6 were wrong and all 6
+                are repaired. Operands for every one are printed in this file.
+QUARTERLY       852 unmoved. Not moved in this pass. Never called a count of deeds (0).
+                The twenty-seventh sheet IS written in this batch, at 687, on a chapter that
+                re-derives 2,399 and names the third quarter-end and the eleventh sheet, and
+                687's "unmoved across eleven" is RIGHT: sheet 1 is 59 and every interval is 90,
+                so the seventeenth through the twenty-seventh are eleven sheets.
+                THE SECOND COLUMN GOES FROM TWO LINES TO THREE AT 684 AND NOT BEFORE, AND THE
+                ENTRY IS THE RECEIPT AND NOT THE CLAIMS. 841 and 419 are two numbers and were
+                not merged anywhere in this pass.
+ACCOUNT         8,1xx 0. two hundred and eleven thousand 0. `settl` 0 in every inflection. grains 0.
+SPENT FIGURES   office's months 0 - the wall's rate 0 - the lane's mornings 0 - the yard's figure
+                DESCRIBED AT 686 AND NOT PRINTED - the docket's date 0. `411` printed ZERO times.
+RT / MARKS       as above.
+HEADINGS        one `# ` per file. `## ` 47 across the ten, 47 unique, 0 duplicated inside a file.
+DUPLICATION     12-GRAM FIRST against every chapter in the book including these ten, body-only,
+                headings and italic footers stripped, token-normalised, maximal runs only:
+                33 RUNS TOUCHING 681-690, EVERY ONE CLASSIFIED BY HAND IN continuity.md 0c.
+                11-gram: 41. 8-gram: 152.
+                *** PROVEN FIRST: run against `chapter-0564.md`, which this repository's record
+                names as carrying four runs lifted out of itself, it returns 8 maximal runs of
+                twelve tokens or more and it is NOT zero. Batch 0003's own scan reported a false
+                zero twice on this batch; this pass proves the reader before trusting it. ***
+SCENE           683 measured three ways with the line span printed beside every cell, above.
+                Explicit-vocabulary probe at WORD BOUNDARY: cock 1, cunt 1, naked 1, all in 683.
+SENTENCE        the invented-figures sentence VERBATIM 0 in this batch and TIER 3 0. Spent at 658.
+STAGING         594's furniture checked BY HAND against §4d and continuity.md §0b BEFORE the
+                staging was planned. Four instances found and repaired. Zero remaining.
+MARKDOWN        blockquotes 0. tables 0. rules 0. fences 0. bold 0. 78 single-asterisk markers,
+                even, on the italic footers and one in-column line. System panels 0 of five.
+```
+
+## What the batch delivered, refused and decided — unchanged, because no chapter was restarted
+
+**DELIVERED:** four hundred and nine pieces of paper received and held and not entered, and the rate nobody in that building had counted (681) · **a receipt entered exactly and the second of the four sentences stops being true of the only building that prints it, at ten past eleven on the thirtieth of August, and there is no form on which a building may correct itself** (682) · **THE SCENE at 683, on the floor of a working sorting room with the door open all afternoon and about nine people at tables within nine feet** · one line in the second column, dated, the receipt and not the claims, and two people on a step who have worked out the date (684) · **the second sentence, and the finding that the correction was not refused but absent, and Perla Quist's eleven people** (685) · **the counterman's book, all nine years of it, and two people who do not say thank you** (686) · **the twenty-seventh sheet at four, and about four hundred copies one line out of date with no instrument in the city that can go into a kitchen** (687) · **the sixty-fourth form, and in seven years somebody at that corner asks Lin Hao a question, and he can ask the thing she wants and does not ask it** (688) · **about two hundred at a corner, a correction that works and is useless, and a fourth column with no heading on it** (689) · **THE VOLUME'S LAST IRREVERSIBLE DECISION AT 690, AND IT IS HIS.** REFUSED: the figure of the account · any floor, ledger total or running balance in grains · `settl` · the office's months, the wall's rate and the lane's mornings, printed nowhere in 681–690 · the yard's figure against a course of dressed stone, described and not printed · the docket's date · `411`, printed zero times, and at 690 the two ninths of November are 342 and 702 with both anchors named on the page and the footer saying which is not the figure in the last footer of the twenty-fourth sheet · either repainting box · anything this office can reach put in the two inches · a hand flat on anything · a house count asserted as a fact in the narrator's voice · the keeper's six words · the counterman's one question, not spent twice · **who cut the two words, which 698 answers as a docket and never as a person** · any day of the week · the eighth and the tenth of October, named nowhere and reached across nowhere after the repair at 689:17 · any new enemy · the invented-figures sentence, verbatim 0 and tier 3 0.
+
+**THE IRREVERSIBLE DECISION, 690, IS ON THE PAGE AND IS UNCHANGED BY THIS PASS, WITH ONE WORD OUT OF IT: *the heaviest thing he had done in seven hundred chapters* became *in seven years*, because the first was the narrator standing outside the book and the second is what the chapter means.** What it closes, what it costs and what it may not be are printed in `outline/volume-14.md` §7 movement four and none of them moved.
+
+---
+
 # VOLUME 14 BATCH 0003 RE-DISPATCHED A FOURTH TIME 14 OCTOBER 2026 — 671–680 ON DISK, **23,627 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT TO ANY OF THE TEN.** MOVEMENT THREE, *THE REGISTER*. `outline/ending.md` IS UNTOUCHED. **THE PHASE PROMPT WAS RE-DISPATCHED AFTER ITS CHAPTERS WERE WRITTEN, MEASURED, GATED, REPAIRED TWICE, COMMITTED, AND BUILT ON BY BATCHES 0004 AND 0005, WHICH ARE ALSO COMPLETE. NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. SEVEN CONCRETE DEFECTS WERE FOUND IN THE CHAPTERS AND ALL SEVEN WERE FIXED IN THE CHAPTERS, AND EVERY FIGURE BELOW WAS RE-RUN FROM DISK AFTER THE LAST EDIT.** **THE ONE NEXT PHASE THIS PROMPT ASKS FOR, `workspace/volume-14/batch-0004/PROMPT.md`, ALREADY EXISTS, ALONG WITH ITS TEN CHAPTERS AND WITH `batch-0005/PROMPT.md` BEHIND IT AND WITH BOTH BATCHES GATED. NOTHING WAS CREATED BY THIS PASS. NO BATCH 0006. NO VOLUME-CLOSE. `state/complete.md` IS NOT CREATED.**
 
 ## What this pass found, and the seven repairs, all seven in the chapters and not in a gate row

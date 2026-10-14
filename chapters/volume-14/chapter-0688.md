@@ -68,13 +68,13 @@ He put his hands in his pockets.
 
 That was the moment.
 
- It was the first time in seven years that a person had stopped at that corner and put a question to him, and it was not the question he had spent four months waiting for, and it was a question he had no standing to answer, because the only thing he was permitted in that city was to ask, and there was nothing in the world he could ask for on behalf of a woman with eleven sheets that would be any use to her.
+It was the first time in seven years that a person had stopped at that corner and put a question to him, and it was not the question he had spent four months waiting for, and it was a question he had no standing to answer, because the only thing he was permitted in that city was to ask, and there was nothing in the world he could ask for on behalf of a woman with eleven sheets that would be any use to her.
 
 And he could.
 
 That was the other half and it went through him at about the same speed as the first one. He could ask.
 
- He was the only person that office may ask and there was no second person in Ostara who could ask, and nobody in that building was going to stop him, and Yusuf Adeyemi had told him in the seventh month of a year neither of them names that there was nobody in this city who could tell him that he was not allowed to do a thing he had come in there to do.
+He was the only person that office may ask and there was no second person in Ostara who could ask, and nobody in that building was going to stop him, and Yusuf Adeyemi had told him in the seventh month of a year neither of them names that there was nobody in this city who could tell him that he was not allowed to do a thing he had come in there to do.
 
 He could ask it to hold eleven sheets from a woman off a hill. He could not do it on the back of an envelope to her.
 
@@ -98,7 +98,7 @@ About nine of them got low enough to make out the two words at the bottom of the
 
 Two hundred and forty people came past and about ninety read the board, and about nine read the form under it, and nine knelt at the foot of a wall that has been standing for more than thirty years, and not one person did both.
 
-He had come up that hill for four months waiting to be asked something by somebody and he had been asked something by somebody, 
+He had come up that hill for four months waiting to be asked something by somebody, and on the morning of the seventh he was asked something by somebody, and it had taken nine seconds.
 
 The question had been a good one and completely fair and he had answered it correctly, and the answer was that the only thing he could do was to go and ask a room to hold eleven sheets.
 

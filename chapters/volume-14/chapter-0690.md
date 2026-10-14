@@ -16,7 +16,7 @@ And under it, in his own hand, because a clerk takes what she is handed word for
 
 The first eight versions had the name in and he took it out four times. The reason he put it in the ninth was not courage.
 
- It was that a name in an office hand and a man’s name in his own hand are two different instruments, and a receipt with nobody against it is a receipt about paper, and he had known that on the thirtieth of August and had heard it said out loud at the end of that table and had gone away and thought about it for seven weeks.
+It was that a name in an office hand and a man’s name in his own hand are two different instruments, and a receipt with nobody against it is a receipt about paper, and he had known that on the thirtieth of August and had heard it said out loud at the end of that table and had gone away and thought about it for fifty-one days.
 
 There was a last line under that and he had been carrying it for three days and he had not shown it to anybody.
 
@@ -24,15 +24,15 @@ There was a last line under that and he had been carrying it for three days and 
 
 ## What He Asks For
 
-He asked for nothing. That is the whole of it and it is the only part of the nine weeks that is true in a way he can live with.
+He asked for nothing. That is the whole of it and it is the only part of it that is true in a way he can live with.
 
-He did not ask the office to read them. He did not ask for a column and he did not ask for a book and he did not ask for a woman to come to a laundry and be told anything, and he did not ask for the nine people who have stopped coming through a door in eleven weeks to be given back.
+He did not ask the office to read them. He did not ask for a column and he did not ask for a book and he did not ask for a woman to come to a laundry and be told anything, and he did not ask for the nine people who have stopped coming through a door since the middle of August to be given back.
 
 He went in at about ten past three with the back of his hand out and he put it on the table face up in front of Wenna Raut and said, “Enter that,” and she said, “Say the date first,” and he said, “The twenty-first of October,” and then he read the rest of it out at the speed of a man reading a docket.
 
 “Four hundred and nine pieces of paper and none of them is a deed.”
 
-“That is in the Register already,” said Wenna Raut. “I entered it on the thirtieth of August at about ten past eleven and it is in my hand and it has a number against it and it is in a column and it has been in there for fifty-two days. I am not permitted to enter it a second time and you are not permitted to make me.”
+“That is in the Register already,” said Wenna Raut. “I entered it on the thirtieth of August at about ten past eleven and it is in my hand and it has a number against it and it is in the Register in front of me and it has been in there for fifty-one days. I am not permitted to enter it a second time and you are not permitted to make me.”
 
 “I am not asking you to enter it again. I am asking you to enter what I have given you, and it is a different thing, and it has a name at the foot of it, and it has one sentence in it that is not on a form.”
 
@@ -40,7 +40,7 @@ He went in at about ten past three with the back of his hand out and he put it o
 
 Wenna Raut put her pen down.
 
-She had one question a morning and she had had it since about nine, and in fifty-two days she had spent two of them, and this was the third and it was the last one she would have today.
+She had one question a morning and she had had it since about nine, and in fifty-one days she had spent two of them, and this was the third and it was the last one she would have today.
 
 She looked at the back of his hand for about nine seconds.
 
@@ -110,7 +110,7 @@ He went down and along at about five because that is what he does.
 
 Nobody in that building thanked him. Nobody in that building said his name except the one clerk, and she said it because the name was in the entry and not because of anything else, and she had entered nine hundred and forty of those since she came to that room and had not improved one of them and had been thanked about nine times and every one of those nine was about a bundle that arrived early.
 
-He had not moved his rank and he was not going to and he had not bought anything and nobody had offered him anything. He is rank one on a branch night shift, four nights and three off, eleven at night until half past five, and the head of that page has not moved in nine quarters and did not move this afternoon.
+He had not moved his rank and he was not going to and he had not bought anything and nobody had offered him anything. He is rank one on a branch night shift, four nights and three off, eleven at night until half past five, and the head of that page has not moved in ten quarters and did not move this afternoon.
 
 The twenty-eighth sheet goes up at four on the thirtieth of December.
 
@@ -128,8 +128,8 @@ He had used up the single resource this office is allowed to spend, and the reso
 
 He walked the length of a street and got nothing for dinner and did not want anything, and it was not the worst morning of his working life, because the worst one had been about nine years and it was in a cold store in a room with a rack on it and it belongs to a woman who took something out of him in nine minutes and has never once said so and never will.
 
-It was the heaviest thing he had done in seven hundred chapters and it was a piece of paper with a name at the bottom of it, and it was done in four minutes by a woman who may only enter, 
+It was the heaviest thing he had done in seven years and it was a piece of paper with a name at the bottom of it, and it was done in four minutes by a woman who may only enter, and it cannot be taken back by anybody, including him.
 
-Nobody was thanked, and no door in that city is on a street, and the fourth line he struck off his own page seven months ago is written out four hundred and nine times in the handwriting of people who have never met him and cannot read.
+Nobody was thanked, and no door in that city is on a street, and the fourth line he struck off his own page is written out four hundred and nine times in the handwriting of people who have never met him and cannot read.
 
 There is nothing in Ostara that can open that drawer except him, and he has instructed in writing that it is not to be opened.

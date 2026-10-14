@@ -6,7 +6,7 @@ Two thousand three hundred and eighty-one was the twelfth of September and the e
 
 ## The One That Was True
 
-The second of the four sentences says, in other words, that where the Register has nothing in it then nobody has been given anything.
+The second of the four sentences is a statement about an absence, and it says that a Register with nothing in it is a Register nobody has been given anything into.
 
 It has been at the foot of every sheet since the first of February of the first year. It was there before this office had a room, before it had a clerk, before it had a Registrar, and it was written in an office hand and it was not his and two of the others were not his either.
 
@@ -122,13 +122,13 @@ He stood in the steam for a while.
 
 “That is the eleventh person.”
 
-“That is the eleventh person in about eleven weeks,” said Perla Quist. “Nine of them told me nothing and one of them was kind about it and one of them cannot read.”
+“That is the eleventh person since the ninth of August,” said Perla Quist. “Nine of them told me nothing and one of them was kind about it and one of them cannot read.”
 
 She picked the pencil up off the ledger and set it down again flush against the wood.
 
 “There is a thing I have not said to you since the third of August and I am going to say it now because you have come down here twice this week for nothing and you are going to keep doing it,” she said. “Every one of those eleven carried a sheet of paper to a counter because of four sentences at the foot of a page. Not because of me and not because of a drawer.”
 
-“Because a sentence told them the office had never been given anything, and they decided that a place which is given nothing is a place where a thing can be put down, and they were right, and they were right about it for seven months and they were right about it on the thirty-first of August as well.”
+“Because a sentence told them the office had never been given anything, and they decided that a place which is given nothing is a place where a thing can be put down, and they were right, and they were right about it for seven months and they were right about it on the thirtieth of August as well.”
 
 She turned the ledger round so the margin faced him.
 
@@ -136,4 +136,4 @@ She turned the ledger round so the margin faced him.
 
 Perla Quist took her hand off the page.
 
-“You did the right thing on the twelfth,” she said. “I want that said in this room and I am saying it once. Nine lines in a column is not a scandal. Nine people not coming through my door in eleven weeks is a scandal, and it was done by a third line that says a true thing, and the true thing is the whole problem, and you knew it in February and I did not know it until the fifteenth.”
+“You did the right thing on the twelfth,” she said. “I want that said in this room and I am saying it once. Three lines in a column is not a scandal. Nine people not coming through my door since the ninth of August is a scandal, and it was done by a third line that says a true thing, and the true thing is the whole problem, and you knew it in February and I did not know it until the fifteenth.”

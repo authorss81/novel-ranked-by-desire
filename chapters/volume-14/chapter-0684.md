@@ -8,7 +8,7 @@ Two thousand three hundred and seventy-five was the sixth of September and the t
 
 He had eleven days left and he had thought about it for six of them and had not improved a word.
 
-The date was the thirtieth of September at about half past two, and the twenty-seventh sheet would be squared to the edge of the table at that hour and signed for and folded and taken down a stair 
+The date was the thirtieth of September at about half past two, and the twenty-seventh sheet would be squared to the edge of the table at that hour and signed for and folded into eight and carried down two floors by the woman who had entered it, and there was no arrangement by which he could do it for her.
 
 It would go up on a rail in a passage off Cordwain at four, and there was no form in this city for going back to a sheet once it has gone on a rail, and he had made that sentence himself in June and it was the truest thing anybody had ever said about a piece of paper.
 
@@ -18,7 +18,7 @@ It would go up on a rail in a passage off Cordwain at four, and there was no for
 
 “It goes on the page on the thirtieth of September and every quarter after that for as long as this office exists,” he said, “and about nine people a week read down to that part of it.”
 
-“Yes,” said Wenna Raut. “That is the part of it I have thought about for six weeks and I am not going to pretend to you that I have not. Enter the line. I will read it back and you will tell me if I have improved one word of it, and if you do not tell me then I have not.”
+“Yes,” said Wenna Raut. “That is the part of it I have thought about for twelve days and I am not going to pretend to you that I have not. Enter the line. I will read it back and you will tell me if I have improved one word of it, and if you do not tell me then I have not.”
 
 ## What A Column Takes
 
@@ -56,7 +56,7 @@ The new line said that between given dates four hundred and nine pieces of paper
 
 That is what is in it.
 
-The first of the two lines that were already there is about a bundle. The second of the two has been in that column since before this office was opened and is not going anywhere.
+The first of the two lines that were already there is about a bundle. The second of the two is older than the room she is sitting in and is not going anywhere.
 
 She squared the book and read all three back in the order they stood, and he heard his own handwriting come out of another woman’s mouth in a room he was standing in, and the only word he was listening for was the fourth one in the second field, and it was not there.
 
@@ -72,13 +72,13 @@ Yusuf Adeyemi had not moved from the end of the table.
 
 “I want to say the part nobody is going to enjoy,” he said, “and I am going to say it once and then I am going to go back to the two rooms I have.”
 
-“The second of the four is the one about the Register, and it is the truest sentence on the sheet, and it has been at the foot of that page since before this office existed and about nine people a week read down to it.”
+“The second of the four is the one about the Register, and it is the truest sentence on the sheet, and it was on the foot of that page before there was an office to put it on, and about nine people a week read down to it.”
 
 “Yes,” he said.
 
 “It is now going out at four on the thirtieth of this month saying that, in the same hand, on the same page, under a line that says this office has been given four hundred and nine pieces of paper.” He turned his pen over once.
 
- “The sentence is true about every person in this city who has ever been refused at a counter and it is false about this office, and there is nobody in this city entitled to say which of those a person reading it is supposed to take it to mean, and that includes you and it includes the woman at the table.”
+“The sentence is true about every person in this city who has ever been refused at a counter and it is false about this office, and there is nobody in this city entitled to say which of those a person reading it is supposed to take it to mean, and that includes you and it includes the woman at the table.”
 
 “You cannot print a correction.”
 
@@ -114,7 +114,7 @@ They had worked out the date.
 
 Not the date the sheet goes out at four, which is printed in no form anywhere in this city and has never been printed anywhere in this city. The date the column closes. Some woman with a pencil in a laundry had told them, or they had counted, or they had been in that room before him in a year neither of them would name and had heard the same thing said.
 
-Two people at a door with sheets in their hands, waiting for a day that had not come, because a man they had never spoken to had spent five weeks thinking about what a third line in a column costs.
+Two people at a door with sheets in their hands, waiting for a day that had not come, because the man who put that line in had been carrying it in his coat since a woman with a pen told him it was the safest kind of entry there is.
 
 He could have said the line was entered. He could have said it was in the column and it would be on the page on the thirtieth, and there was nothing anybody could do with it before then.
 
