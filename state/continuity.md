@@ -1,3 +1,56 @@
+# VOLUME 16 BATCH 0003 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,016 TO 3,075. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                        METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED,
+                                        pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4 pos[Jul]=5 pos[Aug]=6.
+771  17 Jun y9  3,016  +7 SEAM   776  19 Jul 3,048  +6
+772  23 Jun     3,022  +6        777  26 Jul 3,055  +7
+773  30 Jun     3,029  +7  Q-E   778   2 Aug 3,061  +6
+774   6 Jul     3,035  +6        779   9 Aug 3,068  +7
+775  13 Jul     3,042  +7        780  16 Aug 3,075  +7  IRREVERSIBLE DECISION
+773 IS THE SCENE AND IT IS A QUARTER-END AND THE THIRTY-FOURTH SHEET.
+METHOD A AND METHOD B AGREE ON TEN OF TEN.  ZERO MONOTONIC VIOLATIONS.
+```
+
+**THIRTY FOOTER INTERVALS WERE PARSED OFF THIRTY PAGES AND RE-DERIVED BY COMMAND: THIRTY PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, AND THE COUNT OF UNPARSED ROWS IS PRINTED AS A NUMBER.** Ten month breakdowns against `n × 30 + m`: ten parsed, ten derived, zero unparsed, zero mismatches. Three anchors, all printed with their operands in three italic footers in every chapter: the previous chapter's day · **the quarter-end the current sheet went up on** · the drawer instruction, 2,420.
+
+**THE SEAM IS SEVEN AND IT IS IN ITS OWN COLUMN AND IT IS NOT ONE OF THE NINE.** `3,016 − 3,009 = 7`. The nine interior intervals are `6 7 6 7 6 7 6 7 7 = 59` and `3,075 − 3,016 = 59`. **THE LAST ONE IS SEVEN AND NOT SIX, BECAUSE `3,075 − 3,068 = 7`.** This is the row that cost ten chapters in Volume 15 and a previous edition of the batch prompt printed six in that cell, which made its own row sum to 65 against a span of 59.
+
+## THE RAIL, WHICH IS THE ROW THAT COST TEN CHAPTERS IN VOLUME 15, AND THE ANCHOR CHANGED IN THE MIDDLE OF THIS BATCH
+
+**THE RULE: THE CLAUSE IS `CHAPTER DAY − (THE DAY THE CURRENT SHEET WENT UP)`, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END. IT IS NOT A CHAPTER'S OWN DAY.** The thirty-third went up at `2,939` on the thirtieth of March and came down off the rail at four on the thirtieth of June. **The thirty-fourth went up at `3,029` on the thirtieth of June.**
+
+```
+771  77 (33rd)   772  83 (33rd)   773  90 (33rd), and it came down at four that afternoon
+774   6 (34th)   775  13 (34th)   776  19 (34th)   777  26 (34th)
+778  32 (34th)   779  39 (34th)   780  46 (34th)
+```
+
+**TEN CLAUSES, TEN RE-DERIVED, ZERO MISMATCHES. THE FIRST THREE RE-DERIVE FROM 2,939 AND THE LAST SEVEN FROM 3,029, AND NOT ONE CHAPTER IN THIS BATCH ANCHORED ON ITS OWN DAY.**
+
+## WHAT MOVED ON THE PAGE IN 771–780, AND WHAT IS NOW A DIFFERENT SITUATION
+
+**THE PAGE NOW CARRIES THREE LINES IN THIS OFFICE'S HAND AT ITS FOOT.** The first (the thirtieth of March) and the second (the tenth of June) went out on the thirtieth of June and a man who is paid nothing read the whole of the bottom of it to eleven people. **The third, of the sixteenth of August, goes out on the thirtieth of September to about two thousand counters.**
+
+*From the sixteenth of August of this year, whatever a person says in answer to what this office has told them is to be entered in the same row, under what they were told, in the words that person used, with a date and an hour against it, and a row may not be taken from. Lin Hao.*
+
+**WHAT IT CLOSES, IN ONE SENTENCE: there is not one instrument in this city that will now let anybody say a sentence and have it not heard.** What it costs is stated by Wenna Raut and not by the narrator — about four hundred people are answerable, in public and in their own words, for what they said out loud in a room — and by the first answer entered, which is a man's own sentence disputing his own row: *I said a building off a third court keeps a sheet. I never said a wall.* **It cannot be improved and it cannot be taken from, and a clerk may only enter what she is given, and she says so out loud before a word goes in.**
+
+**THE DENIAL HAS BEEN ENTERED AGAIN INVERTED, IN THIS OFFICE'S HAND, BY A CLERK WHO WAS RIGHT.** A man said out loud at that counter on the nineteenth of July that a building off a third court keeps the stone at the foot of a wall, and the instruction of the thirtieth of March says this office writes down what a person says at that counter in the words that person used. **The only answer available to her was to read him the denial of the sixteenth of August, which is about nine feet higher up the same sheet, and she refused it out loud before he asked, because that would have been her putting a sentence into the mouth of a person who had not said it.** It goes out on the thirtieth of September.
+
+**AND A MAGISTRATE'S CLERK ESTABLISHED THAT THE BUILDING HAS NO STONE ON IT AND THAT ITS ENTRY IN HIS BOOK CARRIES THE DATE OF THE EIGHTH OF OCTOBER OF THE FIRST YEAR, WHICH IS THE DAY THE TWO RULED SQUARES WERE FIRST LEFT EMPTY — and said, correctly, that a date is a date and he is not going to be asked to make it mean something else. A question with a day on it is the only thing anybody in this city has ever been able to act on. A building is not a person. Neither of those sentences helps anybody at all.**
+
+**AND THE MONTH CLOCK IS PAID, IN BRACK'S OWN MOUTH, ON THE THIRTEENTH OF JULY: about four kitchens in the last eight days and about nine by the thirtieth, and the cost of it is nine people a month who had one place to put down what had been done to them and have stopped, and the reading did not stop with the writing, because about nine people a week are still going down to read four inches that are a hundred and twenty-two days old.** The four-year clock was given in its own sentence and is **not discharged**.
+
+**AND THE FAVOUR HAS BEEN PRICED, AT 773, BY THE ONLY PERSON IN THIS CITY WHO CAN PRICE ONE.** A thing done for a person with nothing written behind it is worth nothing, cannot be given, cannot be entered, and cannot be called in, and the reason it is worth nothing is the reason it keeps the people who do it safe, and she has been doing it that way for twenty-nine years and has never once been able to write one down. **And she said, standing up, that somebody has put a form on the desk of a man who cleans washrooms, and would not tell him which of the two things is worth more.**
+
+**AND THE COPIES ARE DISAGREEING WITH EACH OTHER AND WITH THE PAGE, AND THERE IS NO INSTRUMENT IN THIS CITY THAT CAN STAND IN NINE KITCHENS AT ONCE.** The foot of the page is copied by ear off a rail, and a copy made by ear is a second account given by a person who was not there when the thing was printed. About four people in this city cannot read it and a woman who mends umbrellas writes the bottom of it out for any of them, for nothing, and keeps none of them, and she knew on the twenty-third of June that there would be four more versions and that every one would be wrong in a different direction.
+
+**WHAT IS UNMOVED: THE HEAD (852, printed once in this batch, at 773, unmoved across eighteen sheets and seventeen quarters), THE SECOND COLUMN AT FOUR LINES WITH NO FIFTH AND NOTHING GOING INTO IT IN ANY CHAPTER OF THIS BATCH, THE BUNDLE AT TWENTY-SIX THINGS AND NOTHING TAKEN OFF IT, THE DRAWER THAT CAN NEVER BE OPENED, THE TWO RULED SQUARES, THE BOY, THE WOMAN WITH THE SHORT-HANDED BROOM, THE WOMAN WHO CANNOT READ, THE TWO WORDS ON THE STONE, AND THE FIGURE OF THE ACCOUNT, WHICH IS NOT PRINTED ANYWHERE IN 751–800 AND MAY NOT BE.**
+
 # VOLUME 16 BATCH 0002 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 2,946 TO 3,009. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
