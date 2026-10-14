@@ -1,3 +1,80 @@
+# VOLUME 16 PLANNED 14 OCTOBER 2026 — **CHAPTERS 751–800, SPINE 2,880 TO 3,209, FIFTY CHAPTERS IN FIVE BATCHES. NO CHAPTER IS ON DISK AND NO PROSE WAS WRITTEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE CALENDAR, CARRIED FORWARD AND UNCHANGED
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of the quarter. A year runs from the first of February to the thirtieth of January, and a January is labelled by the February that follows it.** No interval anywhere in this volume is derived against a real calendar; subtract day numbers. **Volume 16 contains no January chapter**, which is the condition under which the wrong convention has twice produced 2,133 in this repository. **No chapter of 751–800 names a day of the week.** **No chapter of 751–800 prints a year number in its prose.** **A branch office writes the date and not the day**, so the three off a four-night rota are *the first of the three*, *the second of them* and *the third of them*, and 743 owns that and any chapter of this volume may rely on it.
+
+## THE SPINE, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                       METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED.
+751  1 Feb y9  2,880  +31 seam      771  17 Jun     3,016  +7 seam      791  27 Oct     3,146  +7 seam
+752  8 Feb     2,887  +7            772  23 Jun     3,022  +6           792   4 Nov     3,153  +7
+753 15 Feb     2,894  +7 SCENE      773  30 Jun     3,029  +7 Q-E SCENE 793  11 Nov     3,160  +7 SCENE
+754 21 Feb     2,900  +6            774   6 Jul     3,035  +6           794  18 Nov     3,167  +7
+755 28 Feb     2,907  +7            775  13 Jul     3,042  +7           795  25 Nov     3,174  +7
+756   4 Mar    2,913  +6            776  19 Jul     3,048  +6           796   2 Dec     3,181  +7 DECISION
+757  11 Mar    2,920  +7            777  26 Jul     3,055  +7           797   9 Dec     3,188  +7
+758  17 Mar    2,926  +6            778   2 Aug     3,061  +6           798  16 Dec     3,195  +7
+759  24 Mar    2,933  +7            779   9 Aug     3,068  +7           799  23 Dec     3,202  +7
+760  30 Mar    2,939  +6 Q-E DECISION  780  16 Aug  3,075  +7 DECISION   800  30 Dec     3,209  +7 Q-E
+761   7 Apr    2,946  +7 seam FORM  781  23 Aug     3,082  +7 seam      span 3,209 - 2,880 = 329
+762  14 Apr    2,953  +7            782  29 Aug     3,088  +6           batch rows sum to their endpoints
+763  21 Apr    2,960  +7 SCENE      783   5 Sep     3,094  +6 SCENE     the seam to Volume 15 is 31, in its
+764  28 Apr    2,967  +7            784  12 Sep     3,101  +7           own column and not one of the nine
+765   5 May    2,974  +7            785  18 Sep     3,107  +6
+766  12 May    2,981  +7            786  24 Sep     3,113  +6
+767  19 May    2,988  +7            787  30 Sep     3,119  +6 Q-E
+768  26 May    2,995  +7            788   7 Oct     3,126  +7 FORM
+769   3 Jun    3,002  +7            789  14 Oct     3,133  +7
+770  10 Jun    3,009  +7 DECISION   790  20 Oct     3,139  +6 DECISION
+
+QUARTER-ENDS 30 Mar (2,939) · 30 Jun (3,029) · 30 Sep (3,119) · 30 Dec (3,209) = FOUR, not
+five, because the thirty-first of January is not a day in this city and Volume 16 opens on the
+first of February. ALL FOUR LAND ON A CHAPTER: 760, 773, 787, 800.
+SHEET ORDINALS  750 = 32nd · 760 = 33rd · 773 = 34th · 787 = 35th · 800 = THE THIRTY-SIXTH.
+THE HEAD  852, unmoved since 1,499. At 800 that is TWENTY SHEETS and NINETEEN QUARTERS and both
+are named in words and both are right: sheets are ordinal - 16 = 36 - 16 = 20, and quarters
+strictly after 1,499 are (3,209 - 1,499) / 90 = 1,710 / 90 = 19 exactly. THEY DIFFER BY ONE.
+THE OFFICE  2,880 = 30 x 96 + 0 exactly at 751, the THIRD exact figure this office has ever
+printed after 2,160 and 2,520; 3,209 = 30 x 106 + 29 at 800.
+THE REGISTER  four hundred and thirty rows at 751 and the count grows; ONE of the rows has an
+empty field in the middle of it and it is the first empty field in nine years.
+THE SECOND COLUMN  four lines at 751 and four at 800; NO FIFTH LINE GOES IN ANY CHAPTER.
+THE BUNDLE  twenty-six things at 751 and twenty-six at 800; nothing is taken off and nothing put on.
+THE FORMS ON THE WALL  one a month on the seventh; the eighty-second on 2,946 = 761 and the
+eighty-eighth on 3,126 = 788, and those two are the only ones in this volume that land on a chapter.
+THE WORKS FORM  27 December of year six = 2,126. The two offices still have not sent a paper to each
+other in nine years, and in THIS volume that fact acquires a second half.
+```
+
+**THE RAIL COUNT IS A COUNT OF DAYS SINCE THE CURRENT SHEET WENT UP ON THE RAIL, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END.** This is the volume's own rule and it was paid for in Volume 15 with ten one-token repairs across ten files. **A CHAPTER OF 751–800 THAT PRINTS THE CLAUSE COUNTS `chapter day - (the day the current sheet went up)` AND NEVER ANCHORS ON A CHAPTER'S OWN DAY.** The thirty-second went up at `2,849`, the thirty-third at `2,939`, the thirty-fourth at `3,029`, the thirty-fifth at `3,119`, and `3,119 - 2,939 = 180 = 2 x 90`. **All fifty rail figures are printed in `outline/volume-16.md` §5b, so no batch has to derive one from an anchor of its own choosing.**
+
+## THE MECHANICS THAT ARE CANON AND ARE INHERITED WHOLE
+
+**HE IS RANK ONE AND STAYS THERE.** A branch night shift he asked for, eleven at night until half past five, four nights and three off, on a rota page the size of a folded hand carrying four names: his, Nadia Ferrous's, Petra Ilyin's and Isolde Marchetti's. **No chapter of 751–800 raises his band, buys a permission, offers him a standing, or moves him off that shift.** His chest was spent permanently in the fourth year and nothing in this volume puts anything back.
+
+**THE STANDING SHEET.** Eight hundred and fifty-two at the head, unmoved since the thirtieth of March of the fifth year. About four hundred and nineteen lines with a date and an hour against every one and no figure and no name. **The second column has four lines under two printed words that say *carried by*, and the fourth was entered on the third of December of year eight and is the first line in nine sheets and nine years that is a claim, and it carries no figure of any kind.** Four sentences at the foot. Six lines under those with the fourth struck and a name under the striking. **Two inches of nothing at the bottom, where a person at a rail can get down low enough to read.**
+
+**THE DENIAL, ENTERED ON THE SIXTEENTH OF AUGUST OF YEAR EIGHT IN THE OFFICE'S HAND WITH HIS NAME AGAINST IT:** no page of this office and no stone in this city is connected to any other, and a resemblance is not a figure. **It sits about nine feet above the line in the second column on the same sheet, and about two thousand counters hold both, and in this volume it is taken off the page and put into a man's mouth at a rail.**
+
+**THE FIVE FIELDS.** The fifth is about what was done **to** a person and is filled out of the mouth of the person it is about. **IT HAS NEVER BEEN FILLED IN NINE YEARS.** At 754 a chapter establishes that there is a sentence and no form on which to enter it; at 766 the field is filled for the first time, out of somebody's own mouth; **and at 799 the row that has carried an empty space in the middle of it since the twenty-first of October of year seven is completed, out of the mouth of the person it was about, and cannot be improved afterwards and cannot be taken from.**
+
+**THE FOUR INSTRUCTIONS, AND THE FIFTH.** Standing in the bound Register in his hand: the thirtieth of March (every paper received is to be entered as received, with a date) · the tenth of June (every paper, with a description of the person who brought it, in that person's own words) · the sixteenth of August (the denial). **None of them can be undone, because there is no form anywhere for undoing an instruction.** In this volume he enters two more — at 760, that what a person says at that counter is to be written down in their own words on the standing sheet; and at 796, that any person may put one question to this office and the question and the answer go in the Register. **There is no form for undoing either of them either.**
+
+**THE WOMAN WHO CANNOT READ.** Brought a sheet up a stair to a counter off a third court in the fourth month of year seven; a clerk entered what she was given and what she was given was nothing; the only record is a line in the bound Register with a date and an hour and nothing against the hour and a space in the middle of it. **She has been eleven times in eleven months, asked each time whether what happened to her happened, and been told no each time, and she asked it in a hand of her own on a piece of pencil paper with a pencil across the bottom of it, and nobody in this city has ever written down what she asked.** She carries an office sheet with four words on the back of it in a clerk's hand and has been carrying it for about a year. **She is not named, not aged, not traced, and is never going to be asked a question by anybody. Nobody is sent to find her, in this volume or in any other. She comes, three times, and nobody tells her to.**
+
+**THE FOUR WORDS ARE `she gave one sheet`.** They are true, they are about a piece of paper, they are not what she came for, and they are the only sentence in this city about that woman that can be read out loud. **A second sheet carrying them was written on the fifth of November of year eight and has not been sent to anybody and cannot be, and the row that records it is the first row in nine years in that book about a non-event.**
+
+**THE TWO RECORDS.** Nine sheets under a third table with a heading on the fourth column since the twenty-first of February of year eight, and a grey cloth day book in a pigeonhole. **Neither is an instrument. Neither may be cited. He is the only person who knows both.**
+
+**THE TWO RULED SQUARES AT THE FOOT OF THE MONTH'S FORM.** One for the figure of the thing at the address and one for the standing of it. **Both have been empty since the morning of the eighth of October of the first year**, when a clerk was handed a sheet, a form and no instruction and typed two words into one of them because the box was there and the words were there. **There is no form anywhere in this city for asking what a box is for.** At 798 a piece of office paper goes under them with a pencil line across the bottom of it in a hand of her own.
+
+**THE BOY IS NOT AGED AND IS NOT ASKED ABOUT ANYTHING BY ANYBODY IN THIS VOLUME.** **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NEITHER NAMED NOR ASKED, THIRD RUNNING VOLUME.** **THE TWO WORDS ON THE STONE ARE NOT PRINTED AND ARE NOT ASSERTED TO BE THE SAME AS ANYTHING.**
+
+**THE ACCOUNT IS NEVER PRINTED AND NO FLOOR, LEDGER TOTAL OR RUNNING BALANCE IN GRAINS IS PRINTED ANYWHERE IN 751–800.**
+
 # VOLUME 15 REPAIRED AFTER REVIEW — **ELEVEN CHAPTERS OPENED AND 108,332 WORDS RAW.** THE RAIL COUNT IS RIGHT IN ALL TWENTY-SIX CHAPTERS THAT PRINT IT AND THE LAST CHAPTER NO LONGER QUOTES A WOMAN IT DECLARES HE COULD NOT HEAR. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 **THIS IS THE REPAIR PASS THAT FOLLOWS THE REVIEW AT `logs/volume-close.review.log`, AND ITS FINDINGS AND THE FULL REASONING ARE IN `reviews/volume-15/volume-close.md` §16. WHAT BELOW IS THE CONTINUITY THAT CHANGED AND NOTHING ELSE.**
