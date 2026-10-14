@@ -1,3 +1,88 @@
+# VOLUME 14 IS PLANNED AND NOTHING IN IT IS ON DISK. **CHAPTERS 651–700 ARE FUTURE. `outline/volume-14.md` AND `outline/batches/volume-14-batch-0001.md` WERE WRITTEN 14 OCTOBER 2026 BY A PHASE THAT WROTE NO PROSE. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 660. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0c. THE SPINE FOR 651–700, RE-DERIVED TWICE BY METHODS THAT SHARE NO CONSTANT, WITH EVERY OPERAND PRINTED
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes its year: a January labelled y = (y-2) x 360 + 330
+           + (d-1). THE EXCEPTION IS PRINTED AND APPLIED TO BOTH METHODS EVEN THOUGH VOLUME 14
+           CONTAINS NO CHAPTER IN A JANUARY, BECAUSE A VOLUME WITH NO JANUARY IN IT IS EXACTLY
+           WHERE THE WRONG CONVENTION GETS USED. THE WRONG CONVENTION IS PRINTED BESIDE IT AND
+           PUTS 601 AT 2,133, WHICH HAS COST THIS REPOSITORY THE FIGURE TWICE. ***
+METHOD B   i = (y-2)*12 + 11 for a January labelled y, (y-1)*12 + pos[m] otherwise, pos[Feb] = 0;
+           day = 30*i + (d-1)   — contains no 360 at all
+
+651  2,160  (+31 after 650)   661  2,226  (+7)    671  2,296  (+7)    681  2,362  (+7)    691  2,427  (+7)
+652  2,167  (+7)               662  2,233  (+7)    672  2,303  (+7)    682  2,369  (+7)    692  2,434  (+7)
+653  2,174  (+7)  ** SCENE **  663  2,240  (+7)  **  673  2,309  (+6)  **  683  2,375  (+6)  **  693  2,441  (+7)  **
+654  2,180  (+6)               664  2,247  (+7)    674  2,316  (+7)    684  2,381  (+6)    694  2,448  (+7)
+655  2,187  (+7)               665  2,254  (+7)    675  2,322  (+6)    685  2,387  (+6)    695  2,455  (+7)
+656  2,193  (+6)               666  2,261  (+7)    676  2,329  (+7)    686  2,393  (+6)    696  2,462  (+7)
+657  2,200  (+7)               667  2,268  (+7)    677  2,335  (+6)    687  2,399  (+6)  QUARTER-END  697  2,469  (+7)
+658  2,206  (+6)               668  2,275  (+7)    678  2,342  (+7)    688  2,406  (+7)    698  2,476  (+7)
+659  2,213  (+7)               669  2,282  (+7)    679  2,348  (+6)    689  2,413  (+7)    699  2,483  (+7)
+660  2,219  (+6)  QUARTER-END  670  2,289  (+7)    680  2,355  (+7)    690  2,420  (+7)    700  2,489  (+6)  QUARTER-END
+
+50 OF 50 AGREE. MONOTONIC, 0 VIOLATIONS. SPAN 329 elapsed, 330 inclusive.
+SEAM 2160 - 2129 = 31, AND 2160 = 6 x 360 EXACTLY — THE FIRST EXACT FIGURE IN THE BOOK'S SPINE.
+QUARTER-ENDS 2219 / 2309 / 2399 / 2489 at 660 / 673 / 687 / 700. FOUR, NOT FIVE.
+ORDINALS     660 = twenty-fifth, 673 = twenty-sixth, 687 = twenty-seventh, 700 = twenty-eighth.
+```
+
+**THE BATCH ROWS, EACH SUMMED AGAINST ITS OWN ENDPOINTS, WITH THE SEAM IN ITS OWN COLUMN:**
+
+```
+0001 651-660  7 7 6 7 6 7 6 7 6  = 59   and 2219 - 2160 = 59   seam 651-650 = 31
+0002 661-670  7 7 7 7 7 7 7 7 7  = 63   and 2289 - 2226 = 63   seam 661-660 =  7
+0003 671-680  7 6 7 6 7 6 7 6 7  = 59   and 2355 - 2296 = 59   seam 671-670 =  7
+0004 681-690  7 6 6 6 6 6 7 7 7  = 58   and 2420 - 2362 = 58   seam 681-680 =  7
+0005 691-700  7 7 7 7 7 7 7 7 6  = 62   and 2489 - 2427 = 62   seam 691-690 =  7
+301 inside + 31 + four seams of 7 = 360 = 2489 - 2129.  700 - 650 = 360 = ONE YEAR.
+*** A NINE-NUMBER ROW IS WRONG WHEN THE HEAD OF A TEN-ENTRY SEAM-PLUS-MOVEMENT LIST IS DROPPED
+    WITHOUT SHIFTING THE REST, AND IT STILL SUMS CORRECTLY WHEN THAT HAPPENS. THE 0003 ROW WAS
+    WRONG IN THAT EXACT WAY IN ITS FIRST EDITION — `7 7 6 7 6 7 6 7 6` FOR `7 6 7 6 7 6 7 6 7` — AND
+    THE SUM DID NOT CATCH IT AND THE PAGE DID. IT IS THE THIRD VARIANT IN THIS REPOSITORY AFTER
+    THE 631-640 ROW AND THE BATCH-0005 631-640 ROW. THE TEST IS THE ROW AGAINST THE PAGE. ***
+```
+
+## 0b. THE ANCHORS VOLUME 14 INHERITS, EACH WITH ITS OPERAND, AND NOTHING IN IT IS A LONE NUMBER
+
+| Anchor | Day | 2160 − it | 2489 − it | Where it may be printed in 651–700 |
+| --- | --- | --- | --- | --- |
+| the twenty-fourth sheet went out at four | 2,129 | **31** | 360 | 651 and nowhere else |
+| the shutter has been bare since the ninth of November of year five | 2,078 | **82** | **411** | 651 and 655 |
+| the striking | 23 Nov y6 = 2,092 | **68** | **397** | 651 |
+| the works form went in at a counter nine streets away | 27 Dec y6 = 2,126 | **34** | **363** | 655 |
+| the sixth of March, year one — **day 35, and 1,115 is withdrawn** | 35 | **2,125** | **2,454** | wherever a chapter wants the whole distance |
+| the lane's first morning | −118 | **2,279** | **2,608** | 670 and nowhere else in batch 0001 |
+| the office | — | `2,160 = 30 × 72 + 0` **exactly** | `2,489 = 30 × 82 + 29` | 651 or 652, once, with operands |
+
+**THE ANNUIVERSARY FUSE, PRINTED BESIDE THE ROW AND NOT INSTEAD OF IT.** The second line went up on the eighth of October of year one at `247`; its seventh anniversary is `247 + 360 × 6 = 2,407`, and the tenth of October of year seven is `2,409`. **688 IS 2,406 AND 689 IS 2,413 AND BOTH DATES FALL IN THE GAP BETWEEN THEM. NO CHAPTER OF 651–700 LANDS ON EITHER, NAMES EITHER, OR REACHES ACROSS THE GAP — AND 688 MAY NOT MEASURE BACKWARD ACROSS IT.** This is the rule `outline/volume-13.md` §5c set and it holds.
+
+## 0a. THE SEVEN THINGS A BATCH OF 651–700 MUST NOT "CORRECT", AND EACH ONE IS ON THE PAGE
+
+**1 · THE FIGURE OF THE ACCOUNT IS NEVER PRINTED.** Two hundred and eleven thousand, eight hundred and forty grains, and `outline/ending.md` fixes 500 as the only place it appears in this book. No floor, no ledger total, no running balance in grains. `grep -rio 'settl' chapters/volume-14/` returns zero in every inflection.
+
+**2 · THE HOUSE FORM IS CURLY AND THE GATE IS RUN ACROSS EVERY FILE ON DISK AND NOT ACROSS ONE BATCH, AND TITLE LINES ARE CHECKED SEPARATELY FROM BODIES.** Six hundred and fifty files on 14 October 2026 hold **56,016 straight double-quote glyphs and 8,050 curly**, and `find chapters -name 'chapter-*.md' | wc -l` is 650. **Two title lines in Volume 13 carry a straight apostrophe — `chapter-0632.md`:1 and `chapter-0637.md`:1 — while a gate row reported zero for title lines by name, and those two are the only straight apostrophes in six hundred and fifty chapters.**
+
+**3 · SET B IS COUNTED AT WORD BOUNDARY, NOT AT SUBSTRING.** *semen* is a substring of *advertisement* and `chapter-0565.md` scores two false hits on a substring probe. Re-run at word boundary beside every scene, in the same commit that writes it.
+
+**4 · THE COPIES ARE A COUNT OF PIECES OF PAPER AND NOT A COUNT OF CLAIMS AND NOT A COUNT OF PEOPLE.** Inherited from `chapter-0631.md`, where a division reads every paper twice into two books four feet apart and the two readings differ by seventeen, thirteen of which can be named. **A CHAPTER THAT COUNTS THE COPIES COUNTS SHEETS OF PAPER, SAYS SO, AND NEVER CALLS THE TOTAL A NUMBER OF CLAIMS OR A NUMBER OF PEOPLE. THIS IS THE WHOLE MECHANISM OF THE VOLUME AND THE ROW EXISTS BECAUSE THE ERROR WOULD MAKE THE VOLUME SAY THE OPPOSITE OF WHAT IT MEANS.**
+
+**5 · THE SIXTH OF MARCH IS IN YEAR ONE AND DAY 35.** `1,115` is withdrawn (`reviews/volume-12/volume-close.md` Claim 1). Any interval against it is against 35.
+
+**6 · THE FOURTH CONDITION IS NOT REPROVED BY ANYBODY.** It was struck at 644. No chapter of 651–700 may say that any unrecorded deed ever satisfied it or that none ever did.
+
+**7 · THE INVENTED-FIGURES SENTENCE IS QUOTED VERBATIM EXACTLY ONCE IN 651–700, AT 658, IN INES DUARTE'S MOUTH, IN FULL.** `chapter-0595.md`. Volume 13's batch-0005 review found it printed verbatim twice in ten chapters against a gate that reported one; the Volume 13 close found a state row naming `chapter-0637.md`:75 as the remaining verbatim printing when the only one in 601–650 is `chapter-0618.md`:67, **and both halves of that row were false and neither was repaired.** The budget for Volume 14 is one, it is spent at 658, and every other mention — 652, 660, and every italic footer in the volume — is in other words.
+
+## 0z. THE FOUR STANDING BODY DECISIONS, AND EACH ONE EXISTS BECAUSE SOMEBODY BORROWED SOMEBODY ELSE
+
+**1 · NOBODY PUTS A HAND FLAT ON ANYTHING IN 651–700.** Mavis Rooke's hand-flat was hers at `chapter-0547.md`:86 and was put on Ines Duarte at `chapter-0584.md`:75 where it was a borrow, and the gate row that certified the absence was false. **PERLA QUIST'S HANDS ARE HER OWN AND HER PROXIMITY TO A LIST IS THE WHOLE OF HER, AND NOBODY ELSE PUTS THEM FLAT ON A TABLE.**
+**2 · PERLA QUIST HAS NO MARK AND NO AGE.** A woman of about fifty, because a woman of about fifty is what the page already has in that shape — **AND SHE IS NOT THE WOMAN OF ABOUT FIFTY AT THE CORNER, WHO CANNOT WRITE HER OWN NAME AND IS A SEPARATE PERSON ON THE PAGE AT 648 AND 650. A BATCH THAT MERGES THE TWO IS WRONG AND THE CLOSE AUDIT ALREADY REPAIRED THIS EXACT COLLISION ONCE.**
+**3 · THE BOY IS NOT AGED.** Six announced-age strings survive at 639 and 640 — *I am sixteen* twice and *You are sixteen* once and *a boy of sixteen* once at 639, and *a boy of sixteen* twice at 640 — handed forward as a disclosed exception and never closed. A chapter that needs one says *the boy* and stops.
+**4 · THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND NOT ASKED.** She cleans the four inches every morning because they are under the wall and nobody spits there, and she said once, unasked, that she has never once seen anybody put anything on them. **Volume 14 is the volume in which the temptation to ask her is strongest, and it is refused.**
+
 # VOLUME 13 CLOSE — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/volume-close.review.log`. **THE 631–640 INTERVAL LIST IS REPAIRED TO `7 8 8 7 7 7 8 12 9`, WHICH SUMS TO SEVENTY-THREE; THE CLOSE PRINTED A NINE-ENTRY LIST THAT SUMMED TO SEVENTY-FOUR BECAUSE IT DROPPED THE SEAM EIGHT FROM A TEN-ENTRY SEAM-PLUS-MOVEMENT LIST WITHOUT SHIFTING. FINDING M'S COUNT IS SIX ANNOUNCED-AGE STRINGS AND NOT FIVE, FINDING G'S UNIT IS 650 CHAPTERS AND NOT 3,183, FINDING G'S PRIOR DISCLOSURE AT `state/current.md`:567 IS CITED, THE FINDING COUNTS AT THIRTEEN WITH ONE APPLIED AND TWELVE RECORDED, AND THE BAND-RESOLVES TO ONE CHAPTER, 632. NO CHAPTER WAS TOUCHED, NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED AND THE PLANNED PLOT IS UNCHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 # VOLUME 13 IS CLOSED, 601–650, AND EVERY FIGURE BELOW WAS RE-DERIVED FROM OUTSIDE THE PASS THAT WROTE IT. **THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 650; `outline/ending.md` IS UNTOUCHED.**

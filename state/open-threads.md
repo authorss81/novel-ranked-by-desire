@@ -1,3 +1,96 @@
+# VOLUME 14 IS PLANNED, CHAPTERS 651–700, AND NOTHING IN IT IS ON DISK. **THIS IS THE LIVE GATE BLOCK FOR THE FIFTY CHAPTERS THAT DO NOT EXIST YET AND IT IS WRITTEN BEFORE THE FIRST OF THEM IS, WHICH IS THE ONLY TIME A GATE BLOCK IS ANY USE. `outline/volume-14.md` AND `outline/batches/volume-14-batch-0001.md` WERE WRITTEN 14 OCTOBER 2026 BY A PHASE THAT WROTE NO PROSE. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 660. THE ONE NEXT PHASE IS `workspace/volume-14/batch-0001/PROMPT.md`, CHAPTERS 651–660. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0. THE THIRTEEN FINDINGS OF `reviews/volume-13/volume-close.md`, CARRIED FORWARD AS ROWS AND NOT AS CLOSED ITEMS
+
+**THE CLOSE APPLIED ONE OF THIRTEEN AND RECORDED TWELVE. EIGHT OF THE TWELVE SIT INSIDE FINISHED CHAPTERS OF VOLUME 13 AND FOUR INSIDE GATE ROWS. NONE IS VOLUME 14'S TO REPAIR AND EVERY ONE IS VOLUME 14'S TO NOT REPEAT. A CLOSE AUDIT'S *NOT APPLIED* IS NOT A CLOSED ITEM, AND A PASS THAT TREATS IT AS ONE HAS ALREADY MADE THE MISTAKE THE AUDIT WAS WRITTEN TO CATCH.**
+
+| | Finding | What Volume 14 must do about it |
+| --- | --- | --- |
+| **A** | `chapter-0643.md`:257 prints *fifteen days* for forty-five | every footer interval is parsed from the page and re-added with its operands before the batch is called done |
+| **B** | 646 and 647 both print *eleven times* for a sheet gone out five times | **the twenty-fifth sheet has gone out five times since the sentence was printed and the twenty-eighth has gone out nine — the count is a figure, it is derived, and no chapter states it without the operands** |
+| **C** | the ordinal of the invented-figures sentence is both *first* and *third* | §2c item 7 fixes its position at 658 and its budget at one |
+| **D** | the wall's headcount printed at 603 and not only at 605 | **the headcount is a traveling figure and is printed ONCE in 651–700, at 655, with its reason** |
+| **E** | the four conditions are written out in full four times in 601–650 and two files say once | **the fourth is struck and the volume does not put it back; the four conditions are not written out in full anywhere in 651–700** |
+| **F** | the gate row naming `chapter-0637.md`:75 as the remaining verbatim printing is false in both halves | §2c item 7 |
+| **G** | two title lines carry a straight apostrophe against a row that reported zero for title lines by name | **title lines are checked separately from bodies, on both glyphs** |
+| **H** | three of five batch density rows do not re-derive and one was reported as having held exactly | **a density row is measured from disk in the commit that writes the batch and is never compared against a carried figure** |
+| **I** | `chapter-0606.md`:113 is a paragraph of direct speech with no quotation marks and no speech tag, and `:119` repeats `:89` verbatim | **A WITHIN-FILE ORPHAN-SPEECH ROW AND A WITHIN-FILE DUPLICATE-PARAGRAPH ROW, BOTH RUN PER FILE. A PARAGRAPH WITH ZERO QUOTES HAS AN EVEN COUNT AND A PARITY ROW CANNOT SEE IT** |
+| **J** | `chapter-0606.md`:7 is `chapter-0597.md`:17 with four words changed, across a volume seam | **THE SEAM IS SCANNED BY HAND: 651 AND 660 AGAINST 597 AND 601** |
+| **K** | the one applied finding, a planning-file correction | inherited |
+| **L** | fourteen chapters above the ceiling and one of them carried no recorded reason at all | **any chapter of 651–700 outside the band records why in `state/current.md` in the same commit, and a chapter that cannot give a reason is not finished** |
+| **M** | six announced-age strings survive at 639 and 640 | **the boy is not aged anywhere in 651–700; Agnete is not aged again; Perla Quist is *about fifty* once** |
+
+## 0a. THE GATE AS IT WILL BE RUN, AT THE VOLUME'S SCALE AND NOT ONE BATCH'S
+
+```
+FILES            50 files, 651..700, diff against `seq 651 700` EMPTY. 650 files book-wide at the
+                 time this block was written and 660 after batch 0001. ONE `# ` title line in
+                 every file and no file with two. ALL END 0a.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL FILES ON DISK.
+                 The fifty of Volume 14 match `outline/volume-14.md` §10, 50 of 50.
+                 *** AND TITLE LINES ARE SCANNED FOR BOTH GLYPHS SEPARATELY FROM BODIES. ***
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 *** AND EVERY CHAPTER OUTSIDE 1,800-2,700 RECORDS WHY, IN EITHER DIRECTION. ***
+DENSITY          spans and paragraphs, per file, over ten chapters a movement, glyph-neutrally,
+                 body-only. *** MEASURED FROM DISK IN THE COMMIT THAT WRITES THE BATCH AND NEVER
+                 COMPARED AGAINST A CARRIED FIGURE. Volume 13's three stale rows are the reason. ***
+PARAGRAPHS       0 over ninety words. 0 over one hundred and twenty. 0 odd quotation paragraphs.
+*** ROW ADDED ***  WITHIN-FILE DUPLICATE PARAGRAPHS, per file.
+*** ROW ADDED ***  ORPHANED SPEECH PARAGRAPHS, per file. A paragraph with zero quotation marks has
+                 an even count and passes a parity row.
+*** ROW ADDED ***  SEAM CHECK: 651 AND 660 BY HAND AGAINST 597 AND 601.
+META             the class grep INCLUDING `manuscript` AND `opposition` -> 0.
+WEEKNAMES        seven names, whole word -> 0. THE RULE IS VOLUME-SCOPED AND THE ROW MUST SAY SO,
+                 because book-wide whole-word weekday names are NOT zero and never have been.
+AGES             eleven probe forms, `aged`, `years old`, `[0-9]+ years`, old man/woman/boy/girl,
+                 he-is-a-number -> 0 FOR A PERSON'S AGE, with `years old` classified by hand.
+                 *** THE BOY IS NOT AGED. SIX STRINGS SURVIVE AT 639 AND 640. ***
+ARITHMETIC       SPINE 2,160-2,489 RE-DERIVED BY TWO METHODS SHARING NO CONSTANT. 50 of 50.
+                 0 monotonic violations. Every batch row summed against its own endpoints AND
+                 read against the page, because a row can sum correctly and still be wrong.
+QUARTERLY        852 unmoved. NINE sheets at 660, TEN at 700. NO VOLUME IS PERMITTED TO MOVE IT.
+ACCOUNT          8,1xx 0 · two hundred and eleven thousand 0 · 211,840 0 · settl 0 in every
+                 inflection. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+RT / BODIES      right temple 0 book-wide. cuticle 4 files book-wide (329, 340, 404, 446).
+                 ostho 0. A hand flat on a table: 0 — AND NOBODY PUTS ONE ON ANYTHING.
+HEADINGS         One `# ` per file. `## ` headings counted, checked for duplicates inside a file
+                 and across the volume, and any recurrence classified by hand.
+MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk markers even.
+SYSTEM PANELS    budget five. Volume 13 spent none in fifty chapters.
+DUPLICATION      12-gram FIRST against ALL files including the batch's own, body-only, headings and
+                 italic footers stripped, token-normalised, THEN 11 AND 8. EVERY HIT CLASSIFIED BY
+                 HAND, NOT COUNTED. *** THEN THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE,
+                 READ BEFORE A BODY IS WRITTEN. *** THEN THE SCENE-AXIS COLUMN. *** THEN THE SEAM.
+SCENES           ONE PER BATCH, FIVE IN THE VOLUME: 653, 663, 673, 683, 693.
+                 All five measured under three definitions with the line span printed beside every
+                 cell, counted from disk by two methods that share nothing.
+                 Set B at word boundary. THE PER-WOMAN COLUMN IS REPORTED AND NEVER CERTIFIED.
+SENTENCE BUDGET  the invented-figures sentence verbatim: 1, at 658, in full, in her mouth.
+THE TWO INCHES   NOTHING GOES IN THEM IN 651–700 THAT THE OFFICE CAN REACH, and no chapter fills
+                 either repainting box, and neither box is the thing the volume is about.
+ANNIVERSARY      2,407 and 2,409 fall in the gap between 688 and 2,413. NOT LIT. 688 MAY NOT
+                 REACH ACROSS IT.
+STILL OPEN       Lin Wei 0 · B103 0 · settle 0 · the account figure 0 · right temple 0 ·
+                 the reach of the return argued by nobody in either direction ·
+                 whether the account belonged to the unrecorded settled by no character ·
+                 who put the white tile up · who cut the two words before 698 ·
+                 Hanneke Ruis's certificate does not exist and will not · the keeper's six words
+                 not reopened · Perrin Sowe unforgiven and undiscussed and Ines's correction
+                 unpressed · Dagmar Oyelowo absent from the volume entirely · Mrs Imrie asked
+                 nothing by anybody · Ines Duarte's four questions open at 693 and answered nowhere ·
+                 Marguerite Vale's fourth line not struck · Ada's grey permanent ·
+                 the instrument he swore never to use still unused ·
+                 **AND THE ONE ITEM VOLUME 13 CLOSED STAYS CLOSED: the woman two flights up off
+                 Cordwain, closed at 615 and 617 by a man who invents figures, is not in 651–700
+                 and no chapter of this volume names her.**
+```
+
+## 0b. THE PERMITTED CLOSE AND THE PERMITTED OPEN, AND THEY ARE THE ONLY TWO
+
+**PERMITTED TO CLOSE:** *whether the two inches at the foot of the standing page ever held anything.* Opened by 644 and not answered; answered in Volume 14 by being filled in about four hundred times in about four hundred houses by about four hundred people who were not asked, none of whose entries is a deed, and by one line entered in the office's own hand at 684 that says so.
+
+**PERMITTED TO OPEN:** *where a piece of stone comes from.* Opened at 665, carried at 666 and 667, **paid at 698 by a docket and not by a person, and NOT CLOSED** — because a counter figure can be added to and cannot be taken from, and the yard's book has a figure against a course of dressed stone and no name against it and nobody has ever opened it.
+
 # VOLUME 13 CLOSE — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/volume-close.review.log`. **THE 631–640 INTERVAL LIST IS REPAIRED TO `7 8 8 7 7 7 8 12 9`, WHICH SUMS TO SEVENTY-THREE; THE CLOSE PRINTED A NINE-ENTRY LIST THAT SUMMED TO SEVENTY-FOUR BECAUSE IT DROPPED THE SEAM EIGHT FROM A TEN-ENTRY SEAM-PLUS-MOVEMENT LIST WITHOUT SHIFTING. FINDING M'S COUNT IS SIX ANNOUNCED-AGE STRINGS AND NOT FIVE, FINDING G'S UNIT IS 650 CHAPTERS AND NOT 3,183, FINDING G'S PRIOR DISCLOSURE AT `state/current.md`:567 IS CITED, THE FINDING COUNTS AT THIRTEEN WITH ONE APPLIED AND TWELVE RECORDED, AND THE BAND-RESOLVES TO ONE CHAPTER, 632. NO CHAPTER WAS TOUCHED, NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED AND THE PLANNED PLOT IS UNCHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 # VOLUME 13 IS CLOSED AND THIS IS THE LIVE GATE BLOCK FOR ALL FIFTY CHAPTERS, 601–650. **RUN FROM OUTSIDE THE PASS THAT WROTE IT, AT THE VOLUME'S SCALE AND NOT ONE BATCH'S. THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 650; `outline/ending.md` IS UNTOUCHED.**

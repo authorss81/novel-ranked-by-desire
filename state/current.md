@@ -1,3 +1,91 @@
+# VOLUME 14 IS PLANNED. **CHAPTERS 651–700 ARE FUTURE AND NONE IS ON DISK. THIS PHASE WROTE NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, TOUCHED NO FINISHED FILE, AND DID NOT TOUCH `outline/ending.md`. IT WROTE THREE THINGS AND ONE NEXT PHASE. `outline/volume-14.md` — VOLUME FOURTEEN, *THE COPY*, CHAPTERS 651–700, IN THE HOUSE FORMAT, TEN SECTIONS. `outline/batches/volume-14-batch-0001.md` — TEN CARDS, 651–660, IN THE HOUSE FORMAT. `workspace/volume-14/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE, CHAPTERS 651–660. NO OTHER DIRECTORY, NO VOLUME-CLOSE PROMPT, NO BATCH 0002, NO `state/complete.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0z. THE THREE DECISIONS IN `outline/volume-14.md` THAT A LATER PHASE MUST NOT REVERSE
+
+**1 · THE VOLUME'S OBJECT IS THE SPACE HE LEFT AT THE FOOT OF HIS OWN PAGE.** At 644 he wrote four conditions out at the foot of the standing sheet in the office's own hand, took the fourth from the first letter to the last with one stroke, put his own name and the date under the striking, and wrote nothing in the two inches where it had been. **About nine people a week read that page to the bottom and on the first of January they read two inches of nothing under his own name.** In this volume about four hundred houses make a copy of the foot of the page and about four hundred people start writing in the two inches at their own tables in pencil, and the office cannot enter a claim, cannot check a piece of paper, cannot take one back, and cannot after 660 say it has not been given anything. **The volume's last irreversible decision is at 690 and it is his: he gives the office about four hundred and nine pieces of paper, and what a clerk may only enter is entered, and an entry can be made and an entry cannot be taken back.**
+
+**2 · THE ENGINE IS HIS OWN SENTENCE TURNED AROUND, AND IT IS SPENT ONCE.** *A figure in Ostara may be a figure somebody made up on purpose. This standing sheet is printed by the office itself. Emil Brack.* `chapter-0595.md`. He wrote it to stop a city believing a claim it could not check. **In this volume it is the reason about four hundred people can keep a register no instrument can check, destroy or contradict, and the one woman in the book entitled to say so says it to him in her own mouth at 658.** §2c item 7 fixes the budget: **verbatim once, at 658, in full; every other mention in other words, including every italic footer.** Volume 13's batch-0005 review found that sentence printed verbatim twice in ten chapters against a gate that reported one, and the Volume 13 close found a state row naming `chapter-0637.md`:75 as the remaining verbatim printing when the only one in 601–650 is `chapter-0618.md`:67 — **both halves false, and neither repaired, and both now inherited as rows.**
+
+**3 · THE ONE THREAD VOLUME 14 OPENS IS THE STONE.** Volume 13 opened exactly one, the wall, and left it open at 650 with a form on a spike and a wall that comes down in the spring. **Volume 14 takes the wall down to the course, and four inches of dressed stone survives, and two words have been cut into it that go all the way through the face of it and that nobody in seven years has asked about.** A stone is sold by the piece, a mason is paid by the piece, and a yard nine streets from the works department has a book with a figure against a course of dressed stone and no name against it and a delivery docket with two words cut into the block before it was delivered. **OPENED AT 665, CARRIED AT 666 AND 667, PAID AT 698 BY A DOCKET AND NOT BY A PERSON, AND NOT CLOSED** — because a counter figure can be added to and cannot be taken from, and a docket is not a man.
+
+## 0a. THE SPINE, RE-DERIVED IN THIS COMMIT BY TWO METHODS THAT SHARE NO CONSTANT
+
+**DAY 0 = 1 FEBRUARY, YEAR ONE. A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. A YEAR IS THREE HUNDRED AND SIXTY.**
+
+```
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1),
+           EXCEPT a January, which closes its year: a January labelled y = (y-2) x 360 + 330 + (d-1)
+METHOD B   i = (y-2)*12 + 11 for a January labelled y, (y-1)*12 + pos[m] otherwise, pos[Feb] = 0;
+           day = 30*i + (d-1)   — contains no 360 at all
+
+651 = 6 x 360 +   0 +  0 = 2160      1 February, year seven   661 = 2226 · 671 = 2296 · 681 = 2362 · 691 = 2427
+652 = 2167   8 February, year seven  662 = 2233 · 672 = 2303 · 682 = 2369 · 692 = 2434
+653 = 2174  15 February, year seven  663 = 2240 · 673 = 2309 · 683 = 2375 · 693 = 2441
+654 = 2180  21 February, year seven  664 = 2247 · 674 = 2316 · 684 = 2381 · 694 = 2448
+655 = 2187  28 February, year seven  665 = 2254 · 675 = 2322 · 685 = 2387 · 695 = 2455
+656 = 2193   4 March, year seven    666 = 2261 · 676 = 2329 · 686 = 2393 · 696 = 2462
+657 = 2200  11 March, year seven    667 = 2268 · 677 = 2335 · 687 = 2399 · 697 = 2469
+658 = 2206  17 March, year seven    668 = 2275 · 678 = 2342 · 688 = 2406 · 698 = 2476
+659 = 2213  24 March, year seven    669 = 2282 · 679 = 2348 · 689 = 2413 · 699 = 2483
+660 = 2219  30 March, year seven    670 = 2289 · 680 = 2355 · 690 = 2420 · 700 = 2489
+
+FIFTY OF FIFTY DATES AGREE BY METHOD A AND BY METHOD B. MONOTONIC, 0 VIOLATIONS.
+SPAN 2489 - 2160 = 329 days elapsed, 330 inclusive.  SEAM 2160 - 2129 = 31 days after chapter 650.
+*** AND THE SEAM IS THIRTY-ONE DAYS BECAUSE 2160 = 6 x 360 EXACTLY, THE FIRST DAY THE WHOLE
+    CALENDAR DIVIDES BY. IT IS THE FIRST EXACT FIGURE IN THE BOOK'S SPINE AND NO CHAPTER MAY ROUND
+    IT OR PUT IT ON A QUARTER-END. ***
+
+BATCH INTERVALS, EACH SUMMED AGAINST ITS OWN ENDPOINTS, WITH THE SEAM IN ITS OWN COLUMN AND NOT
+AS ONE OF THE NINE:
+  0001 651-660  7 7 6 7 6 7 6 7 6  = 59   and 2219 - 2160 = 59   seam 651-650 = 31
+  0002 661-670  7 7 7 7 7 7 7 7 7  = 63   and 2289 - 2226 = 63   seam 661-660 =  7
+  0003 671-680  7 6 7 6 7 6 7 6 7  = 59   and 2355 - 2296 = 59   seam 671-670 =  7
+  0004 681-690  7 6 6 6 6 6 7 7 7  = 58   and 2420 - 2362 = 58   seam 681-680 =  7
+  0005 691-700  7 7 7 7 7 7 7 7 6  = 62   and 2489 - 2427 = 62   seam 691-690 =  7
+  301 inside the five batches, plus a seam of 31 and four seams of 7 = 360 = 2489 - 2129.
+  *** 700 - 650 = 360 = EXACTLY ONE YEAR, THE SAME SPAN 650 TO 600 AND 600 TO 550. ***
+  *** THE FIRST DRAFT OF THE 0003 ROW PRINTED `7 7 6 7 6 7 6 7 6`, WHICH SUMS TO THE RIGHT FIGURE
+      AND IS NOT THE FIGURE. IT WAS A NINE-NUMBER LIST WITH THE HEAD OF A SEAM-PLUS-MOVEMENT LIST
+      DROPPED WITHOUT SHIFTING — THE THIRD VARIANT OF THAT DEFECT IN THIS REPOSITORY, AND THE
+      TEST IS THE ROW AGAINST THE PAGE, NOT THE SUM. CAUGHT BY RUNNING THE PAGE, NOT THE SUM. ***
+
+QUARTER-ENDS  2,219 (660, thirtieth of March) · 2,309 (673, thirtieth of June) ·
+              2,399 (687, thirtieth of September) · 2,489 (700, thirtieth of December).
+              FOUR, NOT FIVE, BECAUSE VOLUME 14 OPENS ON THE FIRST OF FEBRUARY AND THE THIRTY-FIRST
+              OF JANUARY IS NOT A DAY IN THIS CITY. Every interval between them is 90. All four land
+              on a chapter.
+SHEET ORDINALS 660 = TWENTY-FIFTH, 673 = twenty-sixth, 687 = twenty-seventh, 700 = TWENTY-EIGHTH.
+              614 = 21st · 626 = 22nd · 638 = 23rd · 650 = 24th. Every interval is 90.
+THE HEAD      852, unmoved since the thirtieth of March of the fifth year and unmoved across eight
+              sheets at 650. UNMOVED ACROSS NINE SHEETS AT 660 AND TEN AT 700. NO VOLUME IS
+              PERMITTED TO MOVE IT AND THIS ONE IS NOT.
+THE SECOND COLUMN   two lines at 651. THREE LINES AT 700, and the entry is owed at 684.
+THE BUNDLE    twenty-four things at 650, and the last one has never been opened. TWENTY-FIVE AT 700.
+THE LANE      first morning the third of October of the year before the first = spine day -118.
+              2160 - (-118) + 1 = 2,279 mornings at 651; 2489 - (-118) + 1 = 2,608 at 700.
+THE OFFICE    2160 = 30 x 72 + 0 EXACTLY — seventy-two months, the first exact figure this office
+              has ever printed; 2489 = 30 x 82 + 29; 2520 = 30 x 84 EXACTLY on 1 February y8.
+THE OCTOBERS  the second line went up 8 October of year one = 247; its seventh anniversary is
+              247 + 360 x 6 = 2,407, the eighth of October of year seven. The tenth is 2,409.
+              ***NO CHAPTER OF 651-700 LANDS ON EITHER. 688 IS 2,406 AND 689 IS 2,413, AND BOTH
+              DATES FALL IN THE GAP BETWEEN THEM. THE FUSE IS NOT RE-LIT, AND 688 MAY NOT MEASURE
+              BACKWARD ACROSS THE EIGHTH OR THE TENTH. ***
+THE SIXTH OF MARCH    year one. Day 35. 1,115 is withdrawn. 2160 - 35 = 2,125 at 651; 2489 - 35 = 2,454.
+THE SHUTTER   bare since the ninth of November of year five = 2,078. 2160 - 2078 = 82 days at 651.
+THE STRIKING  23 November of year six = 2,092. 2160 - 2092 = 68 days at 651.
+THE WORKS FORM in at a counter nine streets away on 27 December of year six = 2,126.
+              2160 - 2126 = 34 days at 651.
+SCENES        653 · 663 · 673 · 683 · 693. CADENCE 653-643 = 10, then 10, 10, 10, 10. IN BAND.
+              PER-WOMAN 79, 99, 119, 89, 50 — REPORTED AND NOT CERTIFIED, and no file in this
+              repository may say one of those five is inside the eight-to-fifteen band.
+```
+
+**ONE THING WORTH RECORDING BECAUSE IT IS THE FAILURE MODE AND IT IS THE THIRD VARIANT OF IT.** A nine-number batch row is wrong when the head of a ten-entry seam-plus-movement list is dropped without shifting the rest, **and the row still sums to the right total**, which is why the sum did not catch it and the page did. The first edition of row 0003 read `7 7 6 7 6 7 6 7 6` where the page reads `7 6 7 6 7 6 7 6 7`. **Both add to fifty-nine. Only one is what the nine chapters say in their own opening lines.** *A row that agrees with a total has still not been checked against the page it is a row about.*
+
+## 0b. WHAT THE NEXT BATCH OWES, IN ONE BLOCK, AND IT IS A WRITING PHASE
+
+**`workspace/volume-14/batch-0001/PROMPT.md`, CHAPTERS 651–660, MOVEMENT ONE, *COPIED*.** Ten finished files in `chapters/volume-14/`, the scene at 653 (Beatrix Halm, seventy-nine chapters, a division that reads everything twice into two books four feet apart), **the batch's irreversible decision at 660 (he asks the office to hold about ninety pieces of pencil paper and the second sentence at the foot of the office's own page becomes a fact about the office)**, the wall's rate printed once with its reason at 655, and the invented-figures sentence quoted verbatim exactly once in 651–700, in Ines Duarte's mouth at 658.
+
 # VOLUME 13 CLOSE — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/volume-close.review.log`. **ONE BLOCKER AND FIVE SECONDARY DEFECTS IN THE AUDIT'S OWN TEXT. NO CHAPTER WAS TOUCHED, NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED AND THE PLANNED PLOT IS UNCHANGED. FIVE FILES EDITED: `outline/volume-13.md`, `reviews/volume-13/volume-close.md`, AND THE THREE LIVE STATE FILES. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## 0k. WHAT WAS WRONG AND WHAT IT IS NOW
