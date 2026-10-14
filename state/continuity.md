@@ -1,3 +1,109 @@
+# VOLUME 13 IS CLOSED, 601–650, AND EVERY FIGURE BELOW WAS RE-DERIVED FROM OUTSIDE THE PASS THAT WROTE IT. **THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 650; `outline/ending.md` IS UNTOUCHED.**
+
+## 0c. THE SPINE FOR 601–650, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes its year:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). THE EXCEPTION IS PRINTED AND APPLIED TO
+           BOTH METHODS EVEN THOUGH ONLY FIVE DATES IN 601–650 FALL IN A JANUARY, BECAUSE A METHOD
+           THAT CARRIES AN EXCEPTION IT DOES NOT NEED IS STILL A METHOD THAT CAN CARRY ONE IT DOES.
+           THE WRONG CONVENTION IS PRINTED BESIDE IT AND PUTS 601 AT 2,133 AND 605 AT 2,159, WHICH
+           IS THREE HUNDRED AND SIXTY DAYS APART — THE FIGURE THIS BLOCK HAS WARNED ABOUT SINCE IT
+           WAS WRITTEN, RE-DERIVED HERE AND FOUND ABSENT. ***
+METHOD B   i = (y-2)*12 + 11 for a January labelled y, and (y-1)*12 + pos[m] otherwise, pos[Feb]=0;
+           day = 30*i + (d-1)   — contains no 360 at all
+
+601  1,773  (+6)   611  1,840  (+6)   621  1,910  (+8)   631  1,987  (+8)   641  2,069  (+9)
+602  1,779  (+7)   612  1,846  (+7)   622  1,917  (+7)   632  1,994  (+7)   642  2,076  (+7)
+603  1,786  (+7)   613  1,853  (+6)   623  1,925  (+7)   633  2,002  (+8)   643  2,084  (+8)
+604  1,793  (+7)   614  1,859  (+7)   624  1,932  (+8)   634  2,010  (+7)   644  2,092  (+8)
+605  1,799  (+6)   615  1,866  (+7)   625  1,940  (+7)   635  2,017  (+8)   645  2,099  (+7)
+606  1,806  (+7)   616  1,874  (+7)   626  1,949  (+7)   636  2,024  (+7)   646  2,106  (+7)
+607  1,813  (+7)   617  1,881  (+8)   627  1,956  (+8)   637  2,031  (+8)   647  2,114  (+8)
+608  1,820  (+7)   618  1,888  (+7)   628  1,964  (+7)   638  2,039  (+7)   648  2,121  (+7)
+609  1,827  (+7)   619  1,895  (+7)   629  1,972  (+8)   639  2,051  (+12)  649  2,126  (+5)
+610  1,833  (+6)   620  1,902  (+7)   630  1,979  (+8)   640  2,060  (+9)   650  2,129  (+3)
+
+50 OF 50 AGREE BETWEEN THE TWO METHODS.  0 MONOTONIC VIOLATIONS.  EVERY INTERVAL RE-DERIVED FROM
+DAY NUMBERS AND NOT FROM A DATE WORD.
+BATCH SPANS  60 · 62 · 69 · 73 · 60  = 324, plus seams 4 · 7 · 8 · 8 · 9 = 36, total 360 from 600.
+VOLUME SPAN  650-601 = 2,129-1,773 = 356 days elapsed, 357 inclusive.  650-600 = 2,129-1,769 = 360,
+             EXACTLY ONE YEAR, because four quarter-ends at ninety days each sit between them.
+QUARTER-ENDS 1,859 (614, twenty-first) · 1,949 (626, twenty-second) · 2,039 (638, twenty-third)
+             · 2,129 (650, twenty-fourth).  FOUR AND NOT FIVE.  EVERY INTERVAL NINETY.
+THE HEAD    852, UNMOVED ACROSS EIGHT SHEETS: 566, 576, 586, 600, 614, 626, 638, 650.  NOT NINE.
+OFFICE      1,773 = 30x59+3 · 1,859 = 30x61+29 · 1,949 = 30x64+29 · 2,039 = 30x67+29 · 2,129 = 30x70+29
+             2,160 = 30x72 = 6 x 360, the first exact figure this office has ever printed, 31 days from
+             the last chapter and NOT the first of January.
+LANE        first morning = the third of October of the year before the first = day -118.
+             1,892 at 601 · 1,946 at 609 · 1,978 at 614 · 2,068 at 626 · 2,248 at 650.
+             PRINTED ONCE EACH AT 609, 614 AND 626 AND NOWHERE ELSE IN 601–650.
+WALL        ITS HEADCOUNT IS PRINTED AT 605 WITH ITS REASON **AND AT 603:25**, AND THE ROW THAT
+             SAID IT WAS PRINTED AT 605 ONLY WAS FALSE.  FINDING D.
+ACCOUNT     8,1xx 0 · two hundred and eleven thousand 0 · 211,840 0 · settl 0 in every inflection.
+SIXTH OF MARCH  year one, day 35.  1,115 IS WITHDRAWN.  At 643: 2,084 - 35 = 2,049, and 2,049-1,800
+             = 249, eight months with nine days after them: FIVE YEARS, EIGHT MONTHS AND NINE DAYS.
+ANNIVERSARY 2,047 = the eighth of October of year six.  Thirteen days behind 640, twenty-two before
+             641, inside the twelve-day gap between 638 and 639, named by nobody, reached across by
+             no chapter.  THE FUSE IS NOT RE-LIT.
+THE MONTH BORROW  GOES ONE WAY ONLY AND ALL TEN DAY-OPENINGS IN 601–650 THAT COULD HAVE GOT IT
+             WRONG RE-DERIVE.
+```
+
+## 0c. THE §5c DISCREPANCY — **SETTLED, AND THE CANON CHANGE IS RECORDED HERE**
+
+**`outline/volume-13.md` §5c GAVE 632, 633, 635, 636 AND 637 A DAY LATER THAN THE CHAPTERS. THE CHAPTERS ARE TRUE.** Each of 633, 634, 635, 636, 637 and 638 opens by naming the PREVIOUS chapter's date as well as its day number, and all six statements agree with the page's set and not with §5c's. **§5c HAS NOW BEEN EDITED TO THE PAGE — 632 the fifteenth of August, 633 the twenty-third, 635 the eighth of September, 636 the fifteenth, 637 the twenty-second — AND THE 631–640 INTERVAL LIST WITH IT, FROM `8 8 7 8 7 8 6 12 9` TO `8 7 8 8 7 7 8 12 9`. NO CHAPTER WAS TOUCHED AND NO EVENT WAS MOVED. THIS IS A CANON CHANGE AND IT IS FLAGGED AT THE HEAD OF `state/open-threads.md` AND ARGUED AT `reviews/volume-13/volume-close.md` §3.**
+
+## 0c. EVERY FOOTER INTERVAL IN 601–650, PARSED FROM THE PAGE AND RE-ADDED FROM DAY NUMBERS
+
+**Method, declared because Volume 12's close found a table whose figures could not be reproduced as described: every italic footer line in all fifty files, tokenised; three families of claim extracted mechanically; every figure re-computed from day numbers obtained by both spine methods and not from the words in the claim.**
+
+```
+"Less <A>, <date>, is <B>" anchored to the chapter's own day     42 extracted, 42 re-derive
+"<A> less <B> is <C>" month-count                                 35 extracted, 35 re-derive
+"<A> multiplied by <B> is <C>" and "<A> with <B> is <C>"           4 extracted,  4 re-derive
+Five of the thirty-five are the house month-borrow — "Four less twenty-eight is six by the month
+count, because a month is thirty days and has no thirty-first" — and each prints its reason in the
+next clause.  THEY ARE NOT FAILURES AND THEY ARE NOT LET GO.
+81 CLAIMS IN THE FOOTERS OF 601–650.  80 RE-DERIVE.  ONE DOES NOT.
+*** chapter-0643.md:257 SAYS THE TWENTY-FOURTH SHEET GOES OUT "IN FIFTEEN DAYS".  2,129 - 2,084 = 45.
+    FIFTEEN DAYS FROM THE FIFTEENTH OF NOVEMBER IS THE THIRTIETH OF NOVEMBER.  FINDING A. THE STATE
+    FILE THAT REPAIRED IT SAYS THIRTY, AND THE REASON IT GIVES — "the gap from the chapter in front
+    of it, which is fifteen" — IS ALSO FALSE, BECAUSE 2,084 - 2,076 = 8. ***
+```
+
+## 0c. THE MEASUREMENT CELLS FOR THE FIVE SCENES, FROM DISK, WITH THE LINE SPAN BESIDE EVERY CELL
+
+**643 has eight `##` at 15, 49, 73, 99, 123, 135, 153, 217 and 257 newline-terminated lines. 16–216 = 3,222 · 15–217 = 3,227 · 135–216 = 1,491 · 136–216 = 1,487 · 16–257 = 4,052 · 16–250 = 3,767 · 1–257 = 4,383. ALL SEVEN RE-DERIVE EXACTLY AND RECONCILE WITH THE BANK ROW OF 4,383.**
+
+```
+603  273 lines · 6 `##`  (A) 32–236 = 3,093 · incl 31–237 = 3,105 · (C) 32–273 = 3,739 · file 4,188
+613  285 lines · 8 `##`  (A) 10–254 = 3,930 · incl 9–255 = 3,943 · (C) 10–285 = 4,609 · file 4,781
+623  265 lines · 8 `##`  (A) 10–220 = 2,826 · incl 9–221 = 2,840 · (C) 10–265 = 3,504 · file 3,688
+633  223 lines · 8 `##`  (A) 16–188 = 3,011 · incl 15–189 = 3,021 · (C) 16–223 = 3,829 · file 4,152
+643  257 lines · 8 `##`  (A) 16–216 = 3,222 · incl 15–217 = 3,227 · (C) 16–257 = 4,052 · file 4,383
+```
+
+**SET B AT WORD BOUNDARY ACROSS ALL FIFTY FILES: cock 1, at 603, in the scene. 623 and 633 return 0. Reported, not argued.**
+
+**CADENCE AND THE PER-WOMAN COLUMN, RE-RUN AND REPORTED, NEVER CERTIFIED.** 603 − 594 = 9 · 613 − 603 = 10 · 623 − 613 = 10 · 633 − 623 = 10 · 643 − 633 = 10. **Per woman: 567 (from 36) · 550 (from 63) · 98 (from 525) · 515 (from 118) · 59 (from 584). FOUR OF THE FIVE ARE OUTSIDE THE EIGHT-TO-FIFTEEN BAND AND NO FILE MAY CALL 59 INSIDE IT.**
+
+## 0c. WHAT 601–650 SETTLE, AND WHAT IS STILL OPEN
+
+**SETTLED AND NOT TO BE RE-DERIVED BY A LATER CHAPTER:**
+
+- **The fourth of his four conditions is off the office's own standing page, in the office's own hand, with his name and the date under the striking, and nothing in the two inches where it was.** It cannot be restored.
+- **What the fourth line was carrying was the claims of people who cannot read.**
+- **The yard took it off its own board on the seventh of July with a rag and a bucket in about eleven minutes, and came back for the other three on the ninth of November and did it in about nine hours, and nobody asked him.**
+- **The woman two flights up off Cordwain learned, at 617, from a slate and from a voice, and was not thanked and was given nothing. §8's one permitted close is closed and stays closed.**
+- **An auditor who certifies an hour puts an hour in the city that nobody can take back, because the sentence under every hour says any number in this city may be one somebody invented. The only hour she gave him is four o'clock.**
+- **A fortieth is the smallest share she can lift and it does not stay behind in the person. The board has eleven columns, a heavy line across the foot of every one, and nothing under any of them, and no line anywhere on it for going up.**
+- **Making good is render. The bottom course is dressed stone and does not come off. About sixty-two of the month's forms are stacked inside that wall, two empty squares on every one.**
+
+**STILL OPEN, AND NOT THE CLOSE'S TO SHUT:** the figure of the account · the reach of the return · whether the fourth condition was ever true of anybody's deed · who put the white tile up · **who cut the two words, which is a question on a piece of paper in six years and no answer on any page** · the keeper's six words · the year the composition of premises 34-6-118 began · his brother's file · **Ines Duarte's four questions, which stand open, are named as open at 643, and are answered nowhere in this volume and may not be closed by the close** · the anniversary at 2,047 · **and the wall, which §8 PERMITS VOLUME 13 TO OPEN AND WHICH 608, 639, 640, 645, 648, 649 AND 650 ALL CARRY AND NONE OF THEM CLOSES.**
+
 # VOLUME 13 CHAPTERS 641–650 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS, **AND RUN A THIRD TIME BY THE 14 OCTOBER 2026 REVIEW-FIX, WHICH FOUND THIRTEEN ARITHMETIC AND CONTINUITY DEFECTS INSIDE THE TEN FILES THAT EVERY ROW BELOW HAD CERTIFIED.** `outline/volume-13.md` §7 MOVEMENT FIVE HAS BEEN REWRITTEN AGAINST THE PAGE AND §8 IS UNTOUCHED. `state/complete.md` IS NOT CREATED. THE BATCH IS 32,121 WORDS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 641–650, AND EVERY FIGURE IT CARRIES

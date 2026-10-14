@@ -287,15 +287,30 @@ SPINE, 601-650
 
 ### 5c. CHAPTER-BY-CHAPTER DAYS. **THERE IS NO THIRTY-FIRST IN THIS TABLE AND THERE IS NO DAY OF THE WEEK ANYWHERE IN IT.**
 
+> **SETTLED BY THE VOLUME 13 CLOSE AUDIT, 14 OCTOBER 2026 — A CANON CHANGE TO THIS FILE AND NOT ONE WORD OF PROSE. THE FIVE MIDDLE DATES OF MOVEMENT FOUR WERE CORRECTED TO THE PAGE.**
+>
+> **§5c GAVE 632 AS THE SIXTEENTH OF AUGUST, 633 AS THE TWENTY-FOURTH, 635 AS THE NINTH OF SEPTEMBER, 636 AS THE SIXTEENTH AND 637 AS THE TWENTY-FOURTH. THE FINISHED CHAPTERS GIVE THE FIFTEENTH OF AUGUST, THE TWENTY-THIRD, THE EIGHTH OF SEPTEMBER, THE FIFTEENTH AND THE TWENTY-SECOND. BOTH SETS SUMMED TO SEVENTY-THREE ACROSS THE BATCH, WHICH IS WHY THE DISCREPANCY WAS PAPERED OVER INSTEAD OF SETTLED. THE PAGE IS TRUE, ON SIX INDEPENDENT STATEMENTS, EACH OF WHICH NAMES THE PREVIOUS CHAPTER'S DATE AS WELL AS ITS DAY NUMBER:**
+>
+> | The chapter that says it | What it says |
+> | --- | --- |
+> | `chapter-0633.md`:3 | *The fifteenth of August is day one thousand nine hundred and ninety-four and the twenty-three is day two thousand and two* |
+> | `chapter-0634.md`:3 | *Less two thousand and two, the twenty-third of August, is eight* |
+> | `chapter-0635.md`:3 | *Less two thousand and ten, the first of September, is seven* |
+> | `chapter-0636.md`:3 | *Less two thousand and seventeen, the eighth of September, is seven* |
+> | `chapter-0637.md`:3 | *Less two thousand and twenty-four, the fifteenth of September, is seven* |
+> | `chapter-0638.md`:3 | *Less two thousand and thirty-one, the twenty-second of September, is eight* |
+>
+> **RE-DERIVED BY METHOD A AND BY METHOD B, WHICH SHARE NO CONSTANT: 632 = 1,994 · 633 = 2,002 · 635 = 2,017 · 636 = 2,024 · 637 = 2,031. THE 631–640 INTERVAL LIST BELOW IS CORRECTED WITH THEM, FROM `8 8 7 8 7 8 6 12 9` TO `8 7 8 8 7 7 8 12 9`; BOTH SUM TO SEVENTY-THREE AND THE OLD ONE REQUIRED 637 → 638 TO BE SIX DAYS. §7's MOVEMENT-FOUR TABLE ALREADY CARRIED THE PAGE'S SET AND NOW AGREES WITH §5c. NO CHAPTER WAS TOUCHED, NO EVENT WAS MOVED, AND BATCH 0005'S INHERITANCE OF THE DISCREPANCY RATHER THAN PROPAGATION OF EITHER SET IS CONFIRMED CORRECT. THE FULL ARGUMENT IS AT `reviews/volume-13/volume-close.md` §3.**
+
 | Ch | Day | | Ch | Day | | Ch | Day | | Ch | Day | | Ch | Day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **601** | **4 Jan, y6** | | 611 | **11 Mar, y6** | | 621 | **21 May, y6** | | 631 | **8 Aug, y6** | | 641 | **30 Oct, y6** |
-| 602 | **10 Jan, y6** | | 612 | **17 Mar, y6** | | 622 | **28 May, y6** | | 632 | **16 Aug, y6** | | 642 | **7 Nov, y6** |
-| **603** | **17 Jan, y6 — SCENE** | | **613** | **24 Mar, y6 — SCENE** | | **623** | **6 Jun, y6 — SCENE** | | **633** | **24 Aug, y6 — SCENE** | | **643** | **15 Nov, y6 — SCENE** |
+| 602 | **10 Jan, y6** | | 612 | **17 Mar, y6** | | 622 | **28 May, y6** | | 632 | **15 Aug, y6** | | 642 | **7 Nov, y6** |
+| **603** | **17 Jan, y6 — SCENE** | | **613** | **24 Mar, y6 — SCENE** | | **623** | **6 Jun, y6 — SCENE** | | **633** | **23 Aug, y6 — SCENE** | | **643** | **15 Nov, y6 — SCENE** |
 | 604 | **24 Jan, y6** | | 614 | **30 Mar, y6 — QUARTER-END, twenty-first sheet** | | 624 | **13 Jun, y6** | | 634 | **1 Sep, y6** | | **644** | **23 Nov, y6 — THE VOLUME'S LAST IRREVERSIBLE DECISION** |
-| 605 | **30 Jan, y6** | | 615 | **7 Apr, y6** | | 625 | **21 Jun, y6** | | 635 | **9 Sep, y6** | | 645 | **30 Nov, y6** |
-| 606 | **7 Feb, y6** | | 616 | **15 Apr, y6** | | 626 | **30 Jun, y6 — QUARTER-END, twenty-second** | | 636 | **16 Sep, y6** | | 646 | **7 Dec, y6** |
-| 607 | **14 Feb, y6** | | 617 | **22 Apr, y6** | | 627 | **7 Jul, y6** | | 637 | **24 Sep, y6** | | 647 | **15 Dec, y6** |
+| 605 | **30 Jan, y6** | | 615 | **7 Apr, y6** | | 625 | **21 Jun, y6** | | 635 | **8 Sep, y6** | | 645 | **30 Nov, y6** |
+| 606 | **7 Feb, y6** | | 616 | **15 Apr, y6** | | 626 | **30 Jun, y6 — QUARTER-END, twenty-second** | | 636 | **15 Sep, y6** | | 646 | **7 Dec, y6** |
+| 607 | **14 Feb, y6** | | 617 | **22 Apr, y6** | | 627 | **7 Jul, y6** | | 637 | **22 Sep, y6** | | 647 | **15 Dec, y6** |
 | 608 | **21 Feb, y6** | | 618 | **29 Apr, y6** | | 628 | **15 Jul, y6** | | 638 | **30 Sep, y6 — QUARTER-END, twenty-third** | | 648 | **22 Dec, y6** |
 | 609 | **28 Feb, y6** | | 619 | **6 May, y6** | | 629 | **23 Jul, y6** | | 639 | **12 Oct, y6** | | 649 | **27 Dec, y6** |
 | 610 | **4 Mar, y6 — THE FIRST BATCH'S IRREVERSIBLE DECISION** | | 620 | **13 May, y6** | | 630 | **30 Jul, y6** | | 640 | **21 Oct, y6** | | 650 | **30 Dec, y6 — QUARTER-END, twenty-fourth — THE LAST CHAPTER** |
@@ -306,7 +321,7 @@ SPINE, 601-650
 0001 601-610   6 7 7 6 7 7 7 7 6    = 60   and 1833 - 1773 = 60    seam 601-600 =  4
 0002 611-620   6 7 6 7 8 7 7 7 7    = 62   and 1902 - 1840 = 62    seam 611-610 =  7
 0003 621-630   7 8 7 8 9 7 8 8 7    = 69   and 1979 - 1910 = 69    seam 621-620 =  8
-0004 631-640   8 8 7 8 7 8 6 12 9   = 73   and 2060 - 1987 = 73    seam 631-630 =  8
+0004 631-640   8 7 8 8 7 7 8 12 9   = 73   and 2060 - 1987 = 73    seam 631-630 =  8
 0005 641-650   7 8 8 7 7 8 7 5 3    = 60   and 2129 - 2069 = 60    seam 641-640 =  9
 VOLUME 13      324 across the five batches plus four inter-batch steps of 7, 8, 8 and 9
                = 356, which is 2129 - 1773.  650 - 600 = 360, exactly one year.
@@ -405,7 +420,7 @@ VOLUME 13      324 across the five batches plus four inter-batch steps of 7, 8, 
 
 ### Movement four — READ BACK (631–640). 8 August – 21 October, year six. Spine days 1,987 – 2,060. **WRITTEN. CHAPTERS 631–640 ARE ON DISK AND THIS SECTION IS REWRITTEN AGAINST THE PAGE IN THE COMMIT THAT WROTE THEM, WHICH IS WHAT THE HOUSE RULE AT THE HEAD OF §7 REQUIRES. THE CARDS ARE `outline/batches/volume-13-batch-0004.md` AND THEY WERE WRITTEN AGAINST AND NOT BEFORE THE CHAPTERS. NOTHING BELOW IS STILL A PLAN.**
 
-> **AND ONE THING A LATER PASS MUST SETTLE, RECORDED HERE BECAUSE A BATCH THAT CHANGED A DATE WITHOUT SAYING SO WOULD BE WORSE THAN A BATCH THAT GOT IT WRONG: §5c's chapter-by-chapter table gives 632 AS THE SIXTEENTH OF AUGUST, 633 AS THE TWENTY-FOURTH, 635 AS THE NINTH OF SEPTEMBER, 636 AS THE SIXTEENTH AND 637 AS THE TWENTY-FOURTH. THE CHAPTERS ARE WRITTEN ON 15 AUGUST, 23 AUGUST, 8 SEPTEMBER, 15 SEPTEMBER AND 22 SEPTEMBER. BOTH SETS SUM TO SEVENTY-THREE AND BOTH AGREE AT 631, 638, 639 AND 640 AND AT THE SEAM FROM 630. §5c IS THE PLAN OF RECORD AND WAS NOT EDITED BY THE PHASE THAT WROTE THE CHAPTERS. THE FULL TABLE, WITH EVERY DIFFERENCE PRINTED, IS AT `outline/batches/volume-13-batch-0004.md` §0.**
+> **SETTLED, 14 OCTOBER 2026, BY THE VOLUME 13 CLOSE AUDIT — AND SETTLED IN FAVOUR OF THE CHAPTERS. §5c's chapter-by-chapter table gave 632 as the sixteenth of August, 633 as the twenty-fourth, 635 as the ninth of September, 636 as the sixteenth and 637 as the twenty-fourth. THE CHAPTERS ARE WRITTEN ON 15 AUGUST, 23 AUGUST, 8 SEPTEMBER, 15 SEPTEMBER AND 22 SEPTEMBER. BOTH SETS SUMMED TO SEVENTY-THREE ACROSS 631–640 AND BOTH AGREED AT 631, 634, 638, 639 AND 640 AND AT THE SEAM FROM 630, WHICH IS WHY THE DISCREPANCY SAT IN THE PLAN OF RECORD FOR A BATCH INSTEAD OF BEING SETTLED. IT IS NOW SETTLED AGAINST §5c AND IN FAVOUR OF THE PAGE, ON SIX INDEPENDENT STATEMENTS IN SIX CHAPTERS' OWN OPENING LINES, EACH OF WHICH NAMES THE PREVIOUS CHAPTER'S DATE AS WELL AS ITS DAY NUMBER, AND ON A RE-DERIVATION BY TWO METHODS THAT SHARE NO CONSTANT. §5c HAS BEEN CORRECTED TO THE PAGE AND NO CHAPTER WAS TOUCHED. THE FULL ARGUMENT, WITH THE SIX QUOTATIONS BESIDE IT, IS AT `reviews/volume-13/volume-close.md` §3 AND AT THE HEAD OF `state/open-threads.md`. THE FULL TABLE, WITH EVERY DIFFERENCE, REMAINS AT `outline/batches/volume-13-batch-0004.md` §0.**
 
 **Promise, as delivered:** a division reads everything twice and never compares the two readings, so the first number in the volume that nobody can check is the difference between two books four feet apart; and a desk takes one question of a thing, and the thing is a return, and she spends the only question she will ever be allowed to spend on a man.
 

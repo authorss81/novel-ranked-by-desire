@@ -1,3 +1,213 @@
+# VOLUME 13 IS CLOSED AND THIS IS THE LIVE GATE BLOCK FOR ALL FIFTY CHAPTERS, 601–650. **RUN FROM OUTSIDE THE PASS THAT WROTE IT, AT THE VOLUME'S SCALE AND NOT ONE BATCH'S. THE CLOSE AUDIT IS AT `reviews/volume-13/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 650; `outline/ending.md` IS UNTOUCHED.**
+
+## 0. WHAT THE CLOSE ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
+
+**ROW 18 · A SPINE DISCREPANCY IS SETTLED BY THE PAGE AND NOT BY A PLAN OF RECORD, AND THE SETTLEMENT IS A CANON CHANGE THAT GETS WRITTEN INTO THE PLANNING FILE IN THE SAME COMMIT.**
+
+`outline/volume-13.md` §5c gave 632, 633, 635, 636 and 637 a day later than the finished chapters. Both sets summed to seventy-three across 631–640, which is why it sat for a batch instead of being settled. **The chapters are true: each of 633, 634, 635, 636, 637 and 638 opens by naming the previous chapter's date as well as its day number, and all six statements agree with the page.** **§5c HAS NOW BEEN EDITED TO THE PAGE AND THE 631–640 INTERVAL LIST WITH IT, FROM `8 8 7 8 7 8 6 12 9` TO `8 7 8 8 7 7 8 12 9`. NO CHAPTER WAS TOUCHED, NO EVENT WAS MOVED, AND §7's MOVEMENT-FOUR TABLE, WHICH ALREADY CARRIED THE PAGE'S SET, NOW AGREES WITH §5c.** The full argument, with the six quotations beside it, is at `reviews/volume-13/volume-close.md` §3. **THE ROW EXISTS BECAUSE A DISCREPANCY THAT IS INHERITED RATHER THAN PROPAGATED IS CORRECT PRACTICE AND A DISCREPANCY THAT IS INHERITED FOREVER IS NOT.**
+
+**ROW 19 · A GATE THAT SCANS BETWEEN FILES CANNOT SEE A CHAPTER REPEAT ITSELF, AND TWO OF THE CLOSE'S FINDINGS ARE INSIDE ONE CHAPTER.**
+
+`chapter-0606.md`:113 is the chapter's climax: a paragraph of direct speech with no quotation marks and no speech tag, beginning mid-sentence, immediately after *"'Yes,' said Lin Hao."* **The quotation-parity row cannot see it, because a paragraph with zero quotation marks has an even count.** `chapter-0606.md`:119 repeats `:89` verbatim, twenty words, thirty lines apart. **A twelve-gram scan run against other files cannot see either.** **THE ROW EXISTS BECAUSE §0r's own complaint — a gate row that quotes the prose it is checking cannot catch the prose — has a second half nobody had written down: a gate that only compares chapters to each other cannot check whether either chapter agrees with itself.**
+
+**ROW 20 · A CARRYING FIGURE IS A ROW, AND IT IS THE ROW THAT FAILS.**
+
+`chapter-0646.md`:189 and `chapter-0647.md`:211 both print that the invented-figures sentence *has gone out at four on the thirtieth eleven times since*. It went out at four on the thirteenth of November of the fifth year, day 1,722. **The quarter-ends from then to the thirtieth of December of the sixth are 1,769, 1,859, 1,949, 2,039 and 2,129 — FIVE.** Eleven is the count from the thirteenth sheet to the twenty-fourth, which answers a different question. **The row exists because this is the first time in this repository that a figure printed twice in two footers has been checked against the sheet count at all, and it was wrong in both.**
+
+**ROW 21 · A DENSITY ROW COMPARED AGAINST A CARRIED FIGURE IS NOT A COMPARISON.**
+
+The last batch's gate recorded that its span row *held exactly, at 71.3 against 71.1*. **Re-run from disk, batch 0004 is 70.4, not 71.1 — it was measured before its own review-fix rewrote prose and never run again.** Batches 0002 and 0003 are stale by one and two units in the same way. Batches 0001 and 0005 re-derive exactly. **THE ROW EXISTS BECAUSE VOLUME 12's close recorded that dramatic density fell at chapter 571 and never came back, and the row that was built to watch it was itself carrying three stale numbers, so the watch was reading its own memory instead of the page.**
+
+**ROW 22 · A HOUSE FORM IS A GATE ROW EVEN WHEN IT IS IN A TITLE LINE.**
+
+**Two title lines in Volume 13 carry a straight apostrophe — `chapter-0632.md`:1 and `chapter-0637.md`:1 — and they are the only two straight apostrophes in 3,183 chapters of straight-glyph counting.** The volume carries 0 straight double quotes in prose and 0 in its title lines. **A gate that measures the body and says it also measured the title line is measuring the body twice.**
+
+## 0a. THE GATE, RE-RUN BY COMMAND AND BY HAND FROM OUTSIDE THE PASS THAT WROTE IT
+
+```
+FILES            50 files, 601..650, diff against `seq 601 650` EMPTY. 650 files book-wide.
+                 ONE `# ` title line in every file and no file with two. ALL FIFTY END 0a.
+                 (194 files book-wide do not, all in Volumes 01–07 and 11. Volume 13 is clean.)
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 650.
+                 The fifty of Volume 13 match `outline/volume-13.md` §10, 50 of 50.
+                 *** TWO CARRY A STRAIGHT APOSTROPHE: 632 AND 637. FINDING G. ***
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 0001 23,145 | 0002 26,131 | 0003 26,007 | 0004 28,175 | 0005 32,294
+                 TOTAL 135,752. MEAN 2,715.0. BOOK 1,494,735 across 650 files.
+                 0 BELOW THE 1,800 FLOOR — VOLUME 12 HAD TWENTY-FIVE.
+                 19 ABOVE THE 2,700 CEILING: 603 613 621 623 630 632 633 636 638 AND 641–650.
+                 FIVE ARE SCENES AND EXEMPT.  FOURTEEN ARE NOT AND ONLY TEN HAVE A RECORDED REASON.
+DENSITY          *** SEE ROW 21. THE FIGURES BELOW ARE THE RE-DERIVED ONES. ***
+                 spans 44.7 · 60.6 · 71.3 · 70.4 · 71.3      paragraphs 63.9 · 69.9 · 76.9 · 81.0 · 89.6
+                 RECORDED AND WRONG FOR 0002, 0003 AND 0004.  VOLUME 12 RE-DERIVES EXACTLY AT
+                 24.7 · 52.3 · 16.1 · 17.4 · 20.7 and 54.2 · 66.8 · 28.0 · 39.4 · 32.8.
+                 *** VOLUME 13 ENDS THE FALL AT 571 RATHER THAN MERELY STOPPING IT. ***
+PARAGRAPHS       0 over ninety words. 0 over one hundred and twenty. 0 unbalanced quotation
+                 paragraphs. 3,813 prose paragraphs across the fifty files.
+*** ROW ADDED ***  WITHIN-FILE DUPLICATE PARAGRAPHS: 5 IN FIFTY FILES.  606:89 AND 606:119 ARE
+                 VERBATIM AND THIRTY LINES APART AND ARE A DEFECT.  613, 623, 629 AND 644 ARE
+                 DELIBERATE, AND 644 IS A CLERK MAKING HIM SAY A SENTENCE TWICE TO HEAR IT.
+*** ROW ADDED ***  ORPHANED SPEECH PARAGRAPHS: 1.  606:113, THE CHAPTER'S CLIMAX.
+META             the class grep incl. `manuscript` and `opposition` -> 0 ACROSS ALL FIFTY.
+WEEKNAMES        seven names, whole word -> 0 across all fifty.
+                 *** ROW WIDENED: WHOLE-WORD WEEKDAY NAMES ARE NOT ZERO BOOK-WIDE — Monday 8,
+                 Tuesday 12, Wednesday 26, Thursday 327, Friday 35, Saturday 12, Sunday 7 across
+                 650 files — AND NOT ONE OF THEM IS IN 601–650.  THE RULE IS VOLUME-SCOPED. ***
+AGES             eleven probe forms, `aged`, `years old`, `[0-9]+ years`, old man/woman/boy/girl,
+                 he-is-a-number -> 0 for A PERSON'S AGE in 601–650, with two disclosed exceptions.
+                 `years old` returns 3 and ALL THREE ARE DURATIONS: a chained book (623), a want
+                 (627) and a rule (641).
+                 *** FIVE ANNOUNCED-AGE STRINGS SURVIVE AT 639 AND 640: "I am sixteen" THREE TIMES
+                 AT 639 AND "A BOY OF SIXTEEN" TWICE AT 639 AND ONCE AT 640.  FINDING M. ***
+ARITHMETIC       SPINE 601–650 RE-DERIVED BY TWO METHODS SHARING NO CONSTANT. 50 of 50 agree.
+                 0 monotonic violations. Every batch interval re-summed against its endpoints.
+                 *** 81 FOOTER FIGURES EXTRACTED AND 80 RE-DERIVE. THE ONE THAT DOES NOT IS
+                 chapter-0643.md:257 — "in fifteen days" FOR 2,129-2,084 = 45.  FINDING A. ***
+                 THE JANUARY EXCEPTION PRINTED AND APPLIED TO BOTH METHODS; THE WRONG CONVENTION
+                 PRINTED BESIDE IT, BECAUSE IT PUTS 601 AT 2,133.
+QUARTERLY        852 at 566 and unmoved at 576, 586, 600, 614, 626, 638 and 650.
+                 *** UNMOVED ACROSS EIGHT SHEETS, NOT NINE.  1,769 -> 2,129 = 360 = ONE YEAR. ***
+ACCOUNT          8,1xx 0 · two hundred and eleven thousand 0 · 211,840 0 · settl 0 in every
+                 inflection. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+RT / BODIES      right temple 0 book-wide. cuticle 4 files book-wide (329, 340, 404, 446), unchanged.
+                 ostho 0. A hand flat on a table: 0 across all fifty; nobody puts a hand flat on
+                 anything. Ines Duarte's marks are her own under §4d and the eleven-word rule she
+                 gives at 643 is the axis carrier and repeats at 584 by design.
+HEADINGS         One `# ` per file. 300 `## ` headings, 291 unique, none duplicated inside a file.
+                 Seven appear in more than one file and all seven are structural.
+MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk markers even.
+                 Straight double 0 in Volume 13. Curly 6,366 glyphs in 601–650; book-wide 8,050 =
+                 1,684 (Volumes 01–12) + 6,366. AND 4,940 + 1,684 = 6,624, the row recorded at 640,
+                 AND 3,532 + 1,684 = 5,216, the row recorded at 630.  BOTH TO THE DIGIT.
+SYSTEM PANELS    0 in fifty. Volume budget five, none spent.
+DUPLICATION      12-GRAM FIRST AGAINST ALL 650 FILES, BODY-ONLY, HEADINGS AND ITALIC FOOTERS
+                 STRIPPED, TOKEN-NORMALISED, THEN 11 AND 8.
+                 N=12: 2,254 cross-file pairs book-wide, 213 touching Volume 13, 42 involving 641–650.
+                 N=11: 3,349 / 423 / 113.   N=8: 30,464 / 5,386 / 1,625.
+*** ROWS ADDED ***  EVERY PAIR OF TWELVE OR MORE SHARED GRAMS TOUCHING VOLUME 13 IS CLASSIFIED BY
+                 HAND IN A TABLE AT `reviews/volume-13/volume-close.md` §9a.  THE SIX THAT MATTER:
+                 626 vs 638 = 71, THE TWO QUARTER-ENDS, CANON AND THE LOUDEST STAGING ECHO IN THE
+                 VOLUME.  549 vs 605 = 40, NADIA FERROUS QUOTING HERSELF FOUR YEARS APART, CARRIED
+                 BY "READ IT AGAIN" AT 605.  584 vs 643 = 33, THE AXIS CARRIER AND §4d's own marks.
+                 632 vs 634 = 30, ASHBY REPEATING HIS OWN ARGUMENT AND FLAGGED IN THE TEXT AT
+                 634:129.  642 vs 646 = 13, THE MONTH-COUNT CLAUSE PUT INTO BOTH BY THE SAME REPAIR.
+                 597 vs 606 = 16, **FINDING J: chapter 606's opening paragraph is chapter 597's
+                 sentence with four words changed, across the volume boundary.**
+*** ROW ADDED ***  THE 45-PAIR FIGURE IN THE LAST BATCH'S BLOCK RE-RUNS AT 42 UNDER THE METHOD THAT
+                 BLOCK DECLARES, SO THE ROW IS NOT RE-RUNNABLE TO THE DIGIT AND IS NOT A GATE.
+SCENES           ONE PER BATCH, FIVE IN THE VOLUME: 603, 613, 623, 633, 643.
+                 All five measured under §9's three definitions with the line span printed beside
+                 every cell, at `state/continuity.md` §0c and at the close audit §4e and §4f.
+                 Set B at word boundary: cock 1 at 603, 0 elsewhere.
+STILL OPEN       Lin Wei 0 · B103 0 · settle 0 · the account figure 0 · right temple 0 ·
+                 the reach of the return argued by nobody in either direction ·
+                 whether the account belonged to the unrecorded settled by no character ·
+                 who put the white tile up unnamed in five years and on the last page ·
+                 who cut the two words unnamed in six years and on the last page ·
+                 Hanneke Ruis's certificate does not exist and will not · the keeper's six words
+                 not reopened · Perrin Sowe unforgiven and undiscussed and Ines's correction
+                 unpressed · Dagmar Oyelowo absent from the volume entirely · Mrs Imrie asked
+                 nothing by anybody · Sun Meiling's row not re-told · Marguerite Vale's fourth
+                 line not struck · Ada's grey permanent and not recovered · the instrument he
+                 swore never to use still unused · BOTH REPAINTING BOXES STILL BLANK AT 650.
+VOLUME           RANK ONE THROUGHOUT. NO CHAPTER RAISES HIS BAND, BUYS A PERMISSION, OFFERS A
+                 STANDING, PUTS HIM BACK ON A TERRACE OR MOVES HIM OFF THE NIGHT SHIFT HE ASKED
+                 FOR. THE FIGURE BOX BLANK AT 640 AND STILL BLANK AT 650. BRACK ANSWERED, NOT
+                 DEFEATED, NOT THANKED, NOT DIMINISHED, AND RIGHT IN EVERY CHAPTER HE IS IN
+                 INCLUDING 617. THE WOMAN TWO FLIGHTS UP OFF CORDWAIN LEARNED AT 617 AND IS NOT IN
+                 641–650.
+```
+
+## 0b. WHAT VOLUME 13 CLOSED, AND WHAT IT MAY NOT CLOSE AGAIN
+
+> **THE VOLUME'S LAST IRREVERSIBLE DECISION, AND IT IS HIS, AND IT IS AT 644:**
+>
+> **HE WROTE THE FOUR OF HIS OWN FOUR CONDITIONS OUT AT THE FOOT OF THE TWENTY-FOURTH SHEET, IN THE HAND OF THE OFFICE, TOOK THE FOURTH OF THEM FROM THE FIRST LETTER TO THE LAST WITH ONE STROKE, WROTE HIS OWN NAME AND THE DATE UNDER IT, AND WROTE NOTHING IN THE TWO INCHES WHERE IT HAD BEEN.**
+>
+> **WHAT IT CLOSES:** the option of the fourth line — *and it is not on a page anywhere in this city* — standing in any yard, on any board, in any hand, for ever. **WHAT IT COSTS:** every claim that rested on it dies at once, and the only one that mattered was always going to be a claim by a person who cannot read, and about nine hundred people who can read a shutter know exactly who took it off. **IT IS NOT A CLIMB, NOT A DEFEAT OF EMIL BRACK, NOT AN ENDING, AND NOT A CLEAN SHEET IN ANY SENSE A COMFORTER WOULD RECOGNISE.**
+
+**AND §8's ONE PERMITTED CLOSE, DONE IN MOVEMENT TWO AT 615–617 AND NOT REOPENED:** the woman two flights up off Cordwain learned what was done for her, from a slate and from a voice, and was not thanked and was given nothing and there is no scene in it.
+
+**AND THE STANDING INSTRUCTIONS CARRIED AND NOT BROKEN:**
+
+> **NO CHAPTER OF 601–650 GOES UP THOSE TWO FLIGHTS A SECOND TIME.** The stair is climbed at 610, alone, and never again, and 615, 621 and 631 each name the refusal and each say so out loud.
+>
+> **THE HEAD OF THE STANDING SHEET IS EIGHT HUNDRED AND FIFTY-TWO AND IT DOES NOT MOVE IN 601–650.** It is 852 at 641, at 647 and at 650, unmoved across eight sheets, and the second column has two lines in it at 601 and two in it at 650, because what went on at 644 went on at the foot.
+
+## 0c. MAY NOT HAPPEN AT ALL, CARRIED WHOLE
+
+Either repainting box filled, for ever · the figure of the account printed · `settle` in any inflection · a floor, a ledger total or a running balance · a day of the week · a year numeral in the prose · an announced age other than the five disclosed at 639 and 640 · `right temple` · a fifth `cuticle` · `ostho` · **Mavis Rooke's hand-flat on a table, and no hand flat on anything** · a second conversation with the man with the broom · Brack thanked, diminished, defeated or wrong · a new enemy · a partner who dies · **the eighth of October or the tenth of October again, and no chapter of 601–650 lands on 2,047 or reaches across it** · a second time up the two flights off Cordwain · a sixth verbatim printing of the invented-figures sentence, **which now stands once in 601–650, at 618:67** · the four lines re-quoted as a standing instruction · a scene at any chapter other than 643 in the last batch · a second explicit passage in any chapter that is not the scene · a new figure at the head of the standing sheet · **any answer to Ines Duarte's four questions** · **and `outline/ending.md`, which no phase that uses this file may touch.**
+
+## 0d. THE FIGURES AND DATES THE NEXT PHASE INHERITS, AND EACH ONE IS SPENT OR UNSPENT
+
+```
+SPENT, MAY NOT BE PRINTED AGAIN IN VOLUME 13
+  the lane's mornings   printed at 609, 614 and 626. nowhere else in 601–650.
+  the office's age      printed at 601, 614, 626 and 638, each with operands. SPENT.
+  the wall's headcount  printed at 605 WITH ITS REASON **AND AT 603:25**. The row that said 605
+                        only was false and is corrected. The reprint at 645 is gone and that holds.
+  the four hundreds     printed nowhere and derivable nowhere. NOT ONE OF THE 117 `four hundred`
+                        STRINGS IN 601–650 IS THE RATE AT THE WALL OR THE TOTAL SINCE THE FIRST
+                        OF JANUARY.
+ALIVE, AND A LATER PHASE MAY USE IT
+  2,160 = 1 February of year seven = 6 x 360 exactly, 31 days after the last chapter.
+  852 at the head of the sheet, unmoved across EIGHT sheets, with six lines at the foot of which
+  the fourth is struck through and nothing stands where it was.
+  62 monthly forms stacked inside one wall, two empty squares on every one of them.
+  the thumb-nail slip with a number on it, from the twenty-seventh of December.
+OPEN AND PERMITTED, AND IT IS THE ONE §8 ALLOWS
+  THE WALL. The ranks wall comes down in the spring for making good; the two words are cut into
+  four inches of dressed stone at the foot of the lowest course that making good does not touch;
+  there is no column on any form in this city for two words; the painting is a Bureau contract in
+  a building nine streets from the works department and the two have not sent a paper to each other
+  in nine years; a boy says he will be painting that corner in the ninth month of next year with
+  the sixty-fourth of the empty squares in it. Opened at 608, carried at 639, 640, 645, 648, 649
+  and 650, AND NOT CLOSED.
+FUSE NOT RE-LIT
+  2,047 = 8 October = the anniversary. Thirteen days behind 640, twenty-two days before 641,
+  inside the gap between 638 and 639, named by nobody, and no chapter of 601–650 lands on it or
+  reaches across it.
+CARRIED TO A REPAIR, WITH OPERANDS
+  A · chapter-0643.md:257 — "in fifteen days" for 2,129 - 2,084 = 45.
+  B · chapter-0646.md:189 and chapter-0647.md:211 — "eleven times" for FIVE.
+  C · the ordinal of the invented-figures sentence among the four at the foot: FIRST at 611:117 and
+      in 618's footer, THIRD at 618's body, 643, 646, 647 and 648.  643 IS THE AUTHORITY.
+  D · the wall's headcount at 603:25, not 605 only.
+  E · the four conditions written out in full at 601:43, 611:15, 630:75 and 644:57–61.
+  F · the row naming chapter-0637.md:75 as a verbatim printing of the invented-figures sentence.
+      637:75 IS A PARAPHRASE. THE ONLY VERBATIM PRINTING IN 601–650 IS 618:67, AND THE FIRST
+      PRINTING IN THE BOOK IS 595 IN VOLUME 12.
+  G · straight apostrophes in the title lines of chapter-0632.md and chapter-0637.md.
+  I · chapter-0606.md:113, an orphaned speech paragraph, and 606:89/606:119, a verbatim duplicate.
+  J · chapter-0606.md:7 against chapter-0597.md:17, sixteen shared twelve-grams across the volume
+      boundary.
+  L · fourteen chapters above the 2,700 ceiling without a recorded reason.
+  M · five announced-age strings at 639 and 640.
+  Plus, from the earlier closes and not repaired here: chapter-0553.md:63 AND chapter-0544.md:25,
+  both "three hundred and sixty days multiplied by ten" for thirty years; chapter-0570.md:169's
+  unlocatable "a year and three months ago"; and chapter-0584.md's self-contradiction, where the
+  correct interval from the sixth of March is 1,663 - 35 = 1,628 days and not 548.
+CANON CHANGE APPLIED BY THIS PHASE
+  outline/volume-13.md §5c's five middle dates, corrected to the page, with the 631–640 interval
+  list corrected with them. NO CHAPTER TOUCHED. ARGUED AT `reviews/volume-13/volume-close.md` §3.
+NOT THE CLOSE'S TO WRITE
+  a volume-close prompt. A close for Volume 13 IS this phase. No sixth batch was written and no
+  Volume 14 outline was created.
+```
+
+## 0e. THE TEN THINGS THAT ARE STILL OPEN ON THE PAGE AT 650, BY NAME, SO THAT A LATER PHASE INHERITS THEM
+
+1. **Ines Duarte's four questions** — three put in a corridor on the sixth of March of year one, the fourth at a door on the fourteenth of September of the fifth year. **All four stand open, are named as open at 643:127, and are answered nowhere in 601–650.**
+2. **The figure at the head of the standing sheet, unmoved across eight quarters** — 852 at 566 and at 650.
+3. **Whether any unrecorded deed ever satisfied the fourth condition**, which §2c item 6 forbids a character to say either way, and which no character says either way.
+4. **The two inches of nothing under the striking**, which no instrument in Ostara can fill and which about nine people a week will read on the first of January and not one of them will be able to answer.
+5. **Who cut the two words** — a question on a piece of paper in six years and no answer on any page.
+6. **The reach of 486's return**, which `outline/ending.md`:229–236 fixes as deliberately open to the end of the book and which no chapter of 601–650 argues for or against in either direction.
+7. **His brother's file, which `outline/ending.md` alone decides.** `Lin Wei` returns 0 across all fifty chapters.
+8. **The two repainting boxes**, blank since the eighth of October of the first year, and a boy at a wall who says in the last chapter that there is not one instrument in this city that will put a figure in that box and that he is the man who paints it and will not be able to put one in it either.
+9. **The eighth of October of year six**, day 2,047, which fell inside a twelve-day gap and which no chapter names or reaches across.
+10. **Whether the account belonged to the unrecorded rather than to him**, which no character has ever settled and which Volume 13 did not open.
+
 # VOLUME 13 BATCH 0005 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS, **AND RUN A THIRD TIME BY THE 14 OCTOBER 2026 REVIEW-FIX, WHICH FOUND THREE ROWS OF IT FALSE AGAINST THE PAGE AND REPAIRED THEM.** **CHAPTERS 641–650 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **650** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT INHERITS THE RECORDED §5c DISCREPANCY OF BATCH 0004 RATHER THAN PROPAGATING EITHER SET OF DATES. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE AND ZERO IN ITS TITLE LINES. THE ONE NEXT PHASE IS A VOLUME CLOSE FOR VOLUME 13, WHICH IS A SEPARATE PHASE, AND IT NOW EXISTS: `workspace/volume-13/volume-close/PROMPT.md`, WRITTEN BY THE 14 OCTOBER 2026 REVIEW-FIX. `state/complete.md` IS NOT CREATED HERE.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0. WHAT BATCH 0005 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
