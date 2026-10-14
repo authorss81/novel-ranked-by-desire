@@ -1,3 +1,23 @@
+# VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK, **20,845 WORDS RAW, 20,454 OF PROSE**. MOVEMENT FOUR, *THE NAME*. **NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. EVERY EVENT, FIGURE, REFUSAL, RELATIONSHIP AND CLOSING BEAT OF 731–740 STANDS. WHAT CHANGED IS SIX DEFECTS, THE LABEL ON A WORD-COUNT ROW, AND THE PATH OF THE ONE NEXT PHASE.**
+
+## THE THREADS BELOW ARE UNCHANGED AND THEIR OWNERS ARE UNCHANGED
+
+**NOT ONE THREAD IN THE TABLE MOVED, CLOSED OR CHANGED OWNER IN THIS PASS.** The blank field is still the shape the volume's last question takes and it is still owned by 741, 742 and 750. The two records, the denial, the fourth line in the second column, the drawer, the empty sheet, the woman who cannot read, the woman with the broom, the boy, the two words on the stone, the scene cadence and the bundle all stand exactly where the block below puts them. **THE REPAIRS TOOK SIX PARAGRAPHS AND ONE LABEL AND NO STORY OUT OF ANY OF THEM, WHICH IS THE TEST A REPAIR PASS HAS TO PASS.**
+
+## THE THREE THINGS THIS PASS ADDS TO THE GATE, AND THEY ARE FOR 741–750
+
+1. **THE NEXT PHASE HAS A PATH, AND THE PATH IS `workspace/`.** The pass that wrote 731–740 created `outline/batches/volume-15-batch-0005.md` and the runner never saw it: `scripts/novel_runner.sh`:188 enumerates phases only through `find workspace -name PROMPT.md`. **The batch-0005 prompt now exists at `workspace/volume-15/batch-0005/PROMPT.md`, where every phase of this volume has lived since batch 0001, and that is the only thing that will dispatch it.** The cards stay in `outline/batches/` as the plan of record with a note at the head pointing at the dispatch copy.
+2. **A WORD-COUNT BASIS IS NAMED OR A COUNT IS NOT A COUNT.** Every earlier block of this volume printed raw `wc -w` and called it prose, and 740 passed the band at 1,818 on that basis when its prose was 1,780. **From this block forward the raw figure and the body figure are both printed, per file, and the BAND row is measured on the body.** The band is a claim about prose and a row measured on headings is not.
+3. **A WATCH-CONSTRUCTION COUNT IS A GATE ROW.** *There is no form* sat at fifteen occurrences across ten chapters and *nobody* / *no one* at fifty-five, with ten in a single chapter. `AGENTS.md` calls these dead by the tenth. **Print the count per chapter and hold each under about six.** An instance is earned once or twice, and a construction that has been paid for is a cost paid twice.
+
+## AND THE ONE THING HANDED FORWARD THAT IS STILL NOT REPAIRED
+
+**`chapter-0729.md` AND `chapter-0730.md` PRINT THE RAIL COUNT ONE HIGHER THAN THE RULE** (`day − 2,669`). This is the second pass to name it and the second pass not to touch it, because 721–730 are finished and gated and a repair pass that reaches outside its own batch is the thing this repository's own inherited failures are made of. **IT IS TWO WORDS IN TWO FILES AND IT IS OWNED BY WHOSEVER NEXT PASS IS GIVEN 721–730 OR IS PERMITTED TO REOPEN THEM.**
+
+**AND THE STATE FILES ARE 3.27 MB AND GROW BY PREPENDING.** `open-threads.md` 1.01 MB, `current.md` 889 KB, `continuity.md` 749 KB, `chapter-summaries.md` 627 KB, measured after this block was written. A prompt reads the heads and gets what it needs, and the files keep growing anyway, and the day the heads stop being read is the day the growth costs something real. **Archive-and-truncate is a decision for a pass that is not repairing chapters. Nothing is archived here and nothing is deleted.**
+
+---
+
 # VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK, 20,826 WORDS. MOVEMENT FOUR, *THE NAME*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM DISK IN THE COMMIT THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS PASS CARRIES, WITH AN OWNER, AND IT IS THE BLANK FIELD

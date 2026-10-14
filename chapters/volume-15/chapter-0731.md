@@ -4,7 +4,7 @@ Two thousand seven hundred and fifteen was the sixteenth of August and the twent
 
 ## The Lane Off Cordwain
 
-Emil Brack had nine stools in a lane off Cordwain with the nine districts behind them and a slate on a nail and twelve books that were not the district's, and he was paid a grain a head for every head that stopped, and nobody had ever said thank you to him for it, and he had never once asked.
+Emil Brack had nine stools in a lane off Cordwain with the nine districts behind them and a slate on a nail and twelve books that were not the district’s, and he was paid a grain a head for every head that stopped, and nobody had ever said thank you to him for it, and he had never once asked.
 
 The morning was ordinary in the way that mornings in that lane are ordinary, with carts going through at the pace carts go through and a man selling nothing at all from a barrow at the top end.
 
@@ -16,9 +16,9 @@ The morning was ordinary in the way that mornings in that lane are ordinary, wit
 
 ## What He Counts And Why He Counts
 
-He did not take the sheet out of anybody's hand. He never does, because a toll is taken for stopping and not for showing, and the twelve books on the shelf behind him hold about nine figures a morning and not one of them is anybody's business.
+He did not take the sheet out of anybody’s hand. He never does, because a toll is taken for stopping and not for showing, and the twelve books on the shelf behind him hold about nine figures a morning and not one of them is anybody’s business.
 
-“In the first three weeks of this month,” he said, “about eleven people stopped at these stools with a copy in their hand, and I did not ask to see it and did not look twice. About four of the eleven had two words on them in somebody's writing, and about four of those eleven had the two of them the other way round from each other.”
+“In the first three weeks of this month,” he said, “about eleven people stopped at these stools with a copy in their hand, and I did not ask to see it and did not look twice. About four of the eleven had two words on them in somebody’s writing, and about four of those eleven had the two of them the other way round from each other.”
 
 “They cannot both be the order in the stone.”
 
@@ -30,7 +30,7 @@ He picked his slate off the nail and wiped it with his sleeve, which he did abou
 
 ## Running It Backwards
 
-He was in the back room of the laundry four flights up at about half past eleven, and the ninth sheet was out on the bench with its heading standing at the top of the fourth column in Perla Quist's own hand, and about two hundred empty lines waited underneath it.
+He was in the back room of the laundry four flights up at about half past eleven, and the ninth sheet was out on the bench with its heading standing at the top of the fourth column in Perla Quist’s own hand, and about two hundred empty lines waited underneath it.
 
 She had a copy on the bench beside the sheet, made in pencil at a rail, with the day the man wrote at the foot of it.
 
@@ -38,7 +38,7 @@ She had a copy on the bench beside the sheet, made in pencil at a rail, with the
 
 “What thing.”
 
-“The check backwards,” said Perla Quist. “Every copy anybody has brought me has the day it was made at the foot of it in that person's own hand, because they all date them, because that is what a copy is for. For a year I have been asking one question of each of them. Was it made after the fourth of February.”
+“The check backwards,” said Perla Quist. “Every copy anybody has brought me has the day it was made at the foot of it in that person’s own hand, because they all date them, because that is what a copy is for. For a year I have been asking one question of each of them. Was it made after the fourth of February.”
 
 She put a finger on the sheet, not on his copy.
 
@@ -46,7 +46,7 @@ She put a finger on the sheet, not on his copy.
 
 She said the day and not the year, and he did not supply it.
 
-“There is one copy of the two words in this city and it was made on the twenty-second of December, out of a lump of chalk, on the back of a month's form, and it is in the inside of a coat in a place you have not been and I am not going to guess at.”
+“There is one copy of the two words in this city and it was made on the twenty-second of December, out of a lump of chalk, on the back of a month’s form, and it is in the inside of a coat in a place you have not been and I am not going to guess at.”
 
 “I have the day of it because you gave me the particulars of a thing in April and the day was part of the particulars. I have never been given the words themselves and I would not know them if I had.”
 
@@ -58,7 +58,7 @@ She went down the fourth column with the flat of the pencil held above the bench
 
 “A piece of paper made before the only copy of a thing cannot be a copy of it,” said Lin Hao.
 
-“It cannot,” said Perla Quist. “So it was written out of somebody's mouth, or out of another piece of paper, and the chain runs backwards past the day the only version of those words was ever made in this city, and the links in the chain are in about four hundred kitchens and not one of the links has a name on it.”
+“It cannot,” said Perla Quist. “So it was written out of somebody’s mouth, or out of another piece of paper, and the chain runs backwards past the day the only version of those words was ever made in this city, and the links in the chain are in about four hundred kitchens and not one of the links has a name on it.”
 
 He looked at the figure she had put at the foot of the column and did not say it, and she saw him not saying it and pushed the pencil half an inch along the bench.
 
@@ -80,7 +80,7 @@ She squared the ninth sheet against the edge of the bench and did not say the re
 
 ## A Denial Goes Out On A Rail
 
-He came up four flights behind her and stood at the table in the room off a third court for a long while with the page squared under the window in front of him, and the head at the top of it unmoved, and three lines in the second column, and the four sentences at the foot with his own denial under them in the office's hand and his name and a date under that.
+He came up four flights behind her and stood at the table in the room off a third court for a long while with the page squared under the window in front of him, and the head at the top of it unmoved, and three lines in the second column, and the four sentences at the foot with his own denial under them in the office’s hand and his name and a date under that.
 
 Seven days ago he had given nine years of saying nothing up in exchange for one arguable sentence, and the sentence had been the right one, and a resemblance is not a figure, and every counter in this city will read it four times a year and about nine people a week will be told it out loud by a man who runs a desk under a window and is paid nothing.
 
@@ -100,6 +100,6 @@ The counterman said that was what it said.
 
 He read the rest of the page to her and stopped at the striking, and she put the copy back in her pocket and went, and he never found out whether she was one of the four or one of the seven, and the counterman never asked her either, because a counter reads the page.
 
-His name was at the foot of that sheet in the office's hand. His name was on about four hundred pieces of paper in a kitchen in pencil, under a line four words long and a sentence about a drawer. Both were his. Neither could be read by anybody who was entitled to read the other, and there was one person in Ostara entitled to ask about either of them, and he was standing in a room with no door onto a street wishing he had never been.
+His name was at the foot of that sheet in the office’s hand. His name was on about four hundred pieces of paper in a kitchen in pencil, under a line four words long and a sentence about a drawer. Both were his. Neither could be read by anybody who was entitled to read the other, and there was one person in Ostara entitled to ask about either of them, and he was standing in a room with no door onto a street wishing he had never been.
 
 Two hands. He had put his name in both of them himself, and he had never once looked at them side by side until the twenty-third of August, which is the day a check ran backwards and found that about a third of the copies were older than the only copy there is.

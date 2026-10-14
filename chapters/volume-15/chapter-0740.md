@@ -6,7 +6,7 @@ Two thousand seven hundred and seventy-three was the fourteenth of October and t
 
 There are two things about the drawer and only one of them is in a book.
 
-The opening of it is entered, in Wenna Raut's hand, on the fourteenth of October, with the hour against the date and nothing whatever against the hour, and it is a true entry and a complete one.
+The opening of it is entered, in Wenna Raut’s hand, on the fourteenth of October, with the hour against the date and nothing whatever against the hour, and it is a true entry and a complete one.
 
 The sheet is not.
 
@@ -15,6 +15,8 @@ About four hundred and nine pieces of rag paper went through that front door bet
 None of them is in the bound Register. Not one of them has a row, a date, an hour, a description, or a line of any kind anywhere in this office.
 
 Four hundred and nine is a count of pieces of rag paper. It is not a count of claims and it is not a count of people, and he said both of those out loud at a bench four flights below a laundry in August and wrote them down, and the drawer being open did not change either of them.
+
+He had wanted, for about a week, to be able to say that all of them had been looked at. He cannot say that. Looking at paper is not a thing an office does, and the only record that it was done is a sentence in a clerk’s hand saying a drawer in the wall on the left was opened at about eleven and shut again at half past three, and that sentence does not have one of them in it.
 
 ## The One Thing He Does
 
@@ -52,7 +54,7 @@ She put the pen across the book and looked at him for about four seconds.
 
 “She came to that door on the sixteenth of August and handed a clerk a piece of paper and said whatever it is a person says when they have nothing written on it and no reason written on it. The clerk entered what she was given, and what she was given was nothing.”
 
-“There is no form anywhere in this city on which this office may put a question to that person about what she brought in, and there is no form anywhere on which any office may ask her why. She is not traced and is not asked and will not be, and the only description available to me is that she brought nothing to describe.”
+“There is no form anywhere in this city on which this office may put a question to that person about what she brought in, and no office in this city may ask her why. She is not traced and is not asked and will not be, and the only description available to me is that she brought nothing to describe.”
 
 Wenna Raut wrote it in about four minutes and read it all back in the order it stood, and she did not improve one word, and then she sat with the pen above the page for a while.
 
@@ -100,6 +102,6 @@ The bundle was on the table where it has been since the twenty-eighth of October
 
 He did not, and neither did she, and the drawer in the wall on the left was shut and had been shut since half past three on the fourteenth and could not be opened again by anybody at all.
 
-At about half past five he stood at the table and looked at the row with the blank in the middle of it, and understood that the whole of what he had done in seven years of making this office findable came down to one line in a clerk's hand that could never be filled in.
+At about half past five he stood at the table and looked at the row with the blank in the middle of it, and understood that the whole of what he had done in seven years of making this office findable came down to one line in a clerk’s hand that could never be filled in.
 
 A man who is allowed to ask this office any question in the world cannot ask it about her. The one thing he is allowed to do is ask about the office. The one thing he is not allowed to do is ask a person.

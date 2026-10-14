@@ -10,7 +10,7 @@ A man who makes a copy writes the day he made it at the foot of it, and the day 
 
 And there is one person in this city who has read the two words every working morning of her adult life at the distance of a broom handle.
 
-Four inches of dressed stone at the foot of nine feet of new render, at a corner about two hundred people a day stop at, and the woman who sweeps them has a short-handled broom and has never once said she has seen a person put anything on them, and there is nobody in this city who has ever asked her anything, including him, including after he had been told out loud in front of a counter not to come back.
+Four inches of dressed stone at the foot of nine feet of new render, at a corner this office has never once been told how many people stop at, and the woman who sweeps them has a short-handled broom and has never once said she has seen a person put anything on them, and not one person in this city has ever asked her anything, including him, including after he had been told out loud in front of a counter not to come back.
 
 If a copy can be dated by asking the man who made it, then a rubbing can be checked by asking the woman who sweeps the foot of the wall. She is not the only person who could read them. She is the only person who reads them every morning without being asked to.
 
@@ -28,7 +28,7 @@ He went down four flights at about eleven and had it in his hand before he got t
 
 He stood in the middle of that back room for a while with his hands in his pockets and felt the whole thing go out of him, and understood afterwards that it was not shame and it was not disappointment, it was the specific relief of a man who has just been told by somebody who is right that he was about to do the worst thing available to him.
 
-“There is no form in this city on which this office may put a question to a person about a thing somebody else has written down,” he said, “and there is a hole exactly the shape of that question and you are looking straight down it.”
+“This office may not put a question to a person about a thing somebody else has written down, and you have known that since February,” he said, “and there is a hole exactly the shape of that question and you are looking straight down it.”
 
 “I know where it is. I have been looking down it since February,” said Perla Quist, “and so have you, and it is a finding about this office and not about her, and it has been in every book this building has ever opened.”
 
@@ -86,7 +86,7 @@ She considered that for about nine seconds and then wrote it exactly, and the da
 
 He got as far as the rail at about four in the afternoon and stood nine feet back from it and worked out, in about nine seconds and in the ordinary way, what he would say to a man who runs a desk under a window if he asked for one.
 
-He would say: a woman with a short-handled broom sweeps four inches of dressed stone at a corner every morning of the working year and nobody has ever asked her what she sweeps. And the counterman would read the bottom of the page out to him the way he reads it, and it would say nothing about a corner or a broom, and the question would be answered with the page and the page would be right and the answer would be nothing.
+He would say: a woman with a short-handled broom sweeps four inches of dressed stone at a corner every morning of the working year and not one person has ever asked her what she sweeps. And the counterman would read the bottom of the page out to him the way he reads it, and it would say nothing about a corner or a broom, and the question would be answered with the page and the page would be right and the answer would be nothing.
 
 He did not say it. A question like that is not a question anybody asks at a rail, and a man who runs a desk under a window is not an instrument and is not sent.
 
@@ -94,7 +94,7 @@ He did not say it. A question like that is not a question anybody asks at a rail
 
 He thought about it for the rest of the shift, up the stair and down it and up it again, and what he came back with at half past five was the thing he had known since half past ten and had not wanted.
 
-He has spent nine years building a place out of paper. Nine years of pages and columns and a drawer ordered shut in his own hand, and every single thing he has ever wanted done in this city has been done with a piece of paper and a clerk's entry and a date.
+He has spent nine years building a place out of paper. Nine years of pages and columns and a drawer ordered shut in his own hand, and every single thing he has ever wanted done in this city has been done with a piece of paper and a clerk’s entry and a date.
 
 And this morning, for about four minutes, what he wanted was a person standing still on a corner for one question so that a claim of nine pounds could be put next to another claim of nine pounds, and it was the first want in nine years that could not be done with paper at all.
 
@@ -104,4 +104,4 @@ A denial went onto a page on the sixteenth of August and it will go out four tim
 
 And every working morning of the year, at about seven, a woman with a short-handled broom stands under nine feet of new render and reads four inches of dressed stone at the distance her own arm reaches.
 
-That is the only uncontradicted account of those two words that exists in this city and it cannot be asked for, cannot be entered, cannot be cited, and cannot be checked, and it will happen again tomorrow morning at about seven exactly as it has happened every morning, and about nine people a week go down low enough to see it, and nobody has ever stopped any of them and nobody ever will.
+That is the only uncontradicted account of those two words that exists in this city and it cannot be asked for, cannot be entered, cannot be cited, and cannot be checked, and it will happen again tomorrow morning at about seven exactly as it has happened every morning, and people get down low enough to read it at a rate this office has never counted, and it has never once been stopped by anybody and it is not going to be.

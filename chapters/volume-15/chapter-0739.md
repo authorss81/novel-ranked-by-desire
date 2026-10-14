@@ -6,7 +6,7 @@ Two thousand seven hundred and sixty-six was the seventh of October and the four
 
 He came in at about ten and told Wenna Raut what he wanted before she had the sheet squared, and he told it in the order it stood, because she may only enter what she is given and cannot improve one word of it, and a second instruction is not a thing a clerk should be handed in a hurry.
 
-The first instruction was entered on the twenty-first of October of the seventh year in a clerk's hand with his name under it, and it said that a drawer in the wall on the left of that table was not to be opened, and he shut it himself at about eleven minutes to three on the thirtieth of December and put the key on the table and did not keep it.
+The first instruction was entered on the twenty-first of October of the seventh year in a clerk’s hand with his name under it, and it said that a drawer in the wall on the left of that table was not to be opened, and he shut it himself at about eleven minutes to three on the thirtieth of December and put the key on the table and did not keep it.
 
 The second instruction said that on the fourteenth of October of the eighth year that drawer is to be opened by the officer named at the head of this sheet and by no other person, and shut again by him at half past three, and that the fact of the opening is to be entered in the bound Register with the date against it and the hour against the date.
 
@@ -22,7 +22,7 @@ He stood at the end of the table for a while.
 
 She nodded and put the pen across the book.
 
-“There is no form in this city on which this office may put a question to a person about a thing somebody else has written down,” she said, “and it has not stopped you opening that drawer. You are not asking anybody anything. You are asking paper. Enter it.”
+“That rule has not stopped you opening that drawer,” she said. “You are not asking anybody anything. You are asking paper. Enter it.”
 
 ## Four Hours
 
@@ -50,7 +50,7 @@ Somebody carried this through a front door off a third court on the sixteenth of
 
 And he will never know which of the two things was true. That the woman who handed it in had nothing to write about. Or that she wrote what she had on another piece and kept this one, and kept it because of what she thought was on it.
 
-There is no paper anywhere in this city on which this office may put a question to a person about a thing somebody else has written down, and there is no paper anywhere in this city on which any office may ask a person why they brought in a sheet with nothing on it.
+This office may not put a question to that person about a thing somebody else has written down, and no office in this city may ask her why she brought in a sheet with nothing on it, and there is no page anywhere that either of them could be put on.
 
 She is not traced and is not asked and will not be, and nobody in this city will ever know whether she came back to that door after the sixteenth of August or whether she went out into the street and did not, and this sheet will go on being empty in a drawer that cannot be opened again whatever the answer turns out to be.
 
@@ -68,7 +68,7 @@ At half past three he shut it himself and turned the key and put the key on the 
 
 What it closed is real. There is not a second way to open that drawer in this city or in any other, because the only way is an instruction, and he has just entered the second of them, and the second one says it is opened by him and by nobody else, and the first one says it is not to be opened at all.
 
-The two of them have been in that book since this morning and there is no form that takes an instruction out of a book.
+The two of them have been in that book since this morning and nothing in this city takes an instruction out of a book.
 
 What it costs is the ordinary cost, which is that he now knows what is in there and cannot have it out of his head, and that about four hundred pieces of paper are a count of pieces of paper and not a count of claims and not a count of people, and that one of them is empty and cannot be explained and never will be.
 

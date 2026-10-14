@@ -32,7 +32,7 @@ It took her about forty minutes and she did it without speaking except twice, on
 
 ## The Line They Do Not Agree About
 
-Thirty-nine of the forty hold together. The man wrote the day he made the copy at the foot of it. She was handed it on a day, or a day or two after, and the day she wrote in the column is the day she took it off the counter.
+Thirty-nine of the forty hold together. The man wrote the day he made the copy at the foot of it. She was handed it on the day it came off the counter, or a day or two after that, and the day she wrote in the column is the day it came off.
 
 On the one that does not hold together, both of them have the same date and they have two different things.
 
@@ -100,12 +100,12 @@ She squared the second sheet against the edge of the bench.
 
 He took the lift of her refusal at once because it was right, and because she had given him the reason and the structural reason together, in that order, which is her way and had been her way since the seventh year.
 
-He went down the four flights after that and came back up at about half past five and stood at the table in the room off a third court with the thirty-first sheet squared under the window, the head unmoved at the top of it, three lines in the second column, and his own denial at the foot under the four words about about four hundred pieces of paper.
+He went down the four flights after that and came back up at about half past five and stood at the table in the room off a third court with the thirty-first sheet squared under the window, the head unmoved at the top of it, three lines in the second column, and his own denial at the foot under four words, and the four words are about four hundred pieces of paper.
 
 There are two records of a thing being true against a day in this city. Nine sheets under a third table with a heading a woman ruled on her own paper, and a grey cloth book in a pigeonhole over a counters hall, opened at the first page.
 
-Neither of them is an instrument. Neither of them may be cited. Neither of them has a keeper who may be sent or a keeper who may be named, and he is the only person in Ostara who knows both of them are there, and there is no form on which that can be entered anywhere, and there is no person in this city entitled to be shown either of them.
+Neither of them is an instrument. Neither of them may be cited. Neither of them has a keeper who may be sent or a keeper who may be named, and he is the only person in Ostara who knows both of them are there, and it cannot be entered anywhere in this city, and no person here is entitled to be shown either of them.
 
 And there is a man alive tonight in a kitchen a long way from Cordwain who wrote a day at the foot of his own copy with his own hand, and two books in this city hold that number, and in one of them it is the day he made a piece of paper and in the other it is the day a clerk at a window did something to it.
 
-Nobody may go and ask him which one he meant, and nobody may tell him that the question exists.
+Nobody may go and ask him which one he meant, and nothing may be put in front of him that says the question exists.

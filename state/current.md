@@ -1,3 +1,122 @@
+# VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK, **20,845 WORDS RAW AND 20,454 WORDS OF PROSE, BOTH COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT FOUR, *THE NAME*. `outline/ending.md` IS UNTOUCHED. **NOTHING WAS RESTARTED AND NO CHAPTER WAS REWRITTEN. SIX CONCRETE DEFECTS FOUND BY THE REVIEW WERE FIXED IN THE CHAPTERS, THE WORD-COUNT BASIS WAS LABELLED AND THE BAND ROW RE-STATED ON IT, AND THE ONE NEXT PHASE WAS MOVED TO A PATH THE RUNNER CAN SEE. THE PLOT, THE MOVEMENT, THE SCENE AT 733, THE IRREVERSIBLE DECISION AT 739, THE BLANK FIELD AT 740 AND EVERY REFUSAL ARE UNCHANGED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 731–740 AND DELETES NONE OF THEM.**
+
+## THE SIX DEFECTS, AND WHAT WAS DONE TO EACH
+
+| # | The finding | The repair | Re-measured from disk |
+| --- | --- | --- | --- |
+| 1 | `chapter-0733.md`:77 read *The moment a second one exists The moment a second one exists,* — a duplicated clause, and the only genuine artifact a 3–10-gram immediate-repeat scan found in the ten | the second copy is cut; the sentence is otherwise untouched | **ZERO immediate repeats of three tokens or more in 731–740 that are not deliberate.** The four survivors are a heading echoed by its own opening line at 733 and 740, and two dialogue beats at 732 and 736 that repeat a phrase deliberately across a line |
+| 2 | **The wall's rate was printed before the chapter that owns it.** `chapter-0735.md`:13 carried *about two hundred people a day stop at*, one third of the rate, thirteen days and three chapters before 738, where the rate and its reason live and live once. 738 also re-stated it twice more at `:73` and `:89` | the figure is out of 735 in both places where it stood (`:13` and `:107`) and 735 now says the corner is one this office has never been told about, and that the readers of the four inches come at a rate it has never counted. 738's two echoes are cut and `:73` now begins *And in all of that*. **The rate is printed once, at 738, with its reason, and nowhere else in 731–740** | `two hundred people a day` 1 file (738) · `ninety read` 1 file (738) · `nine of them in a week` 0 files. **The denial's own audience — about nine people a week at the passage — is a different count and stays, because the plan for 738 is built on it** |
+| 3 | **The word-count basis was unlabelled and it moved a gate row.** The head claimed *20,826 WORDS COUNTED PER FILE*, which is raw `wc -w` and includes the `## ` heading lines; prose alone is lower. The BAND row was measured on the raw basis, which is the only reason `chapter-0740.md` passed at 1,818 when its prose was **1,780**, twenty under the floor AGENTS.md wants a reason for | **both figures are now printed, per file, with the basis named.** 740 was brought up over the floor on **both** bases by one added paragraph — the thing he wanted for a week and cannot have, which is to say that four hundred and nine pieces of paper have been looked at, and that the only record of the looking is a sentence about a drawer that has none of them in it. **It is consequence, not padding, and it is 740's own irony, and it is in a section about what is and is not in a book** | RAW 20,845 · BODY 20,454. 740 is 1,895 raw and **1,857 of prose** |
+| 4 | Two watch constructions at or past the ceiling: *there is no form* twelve times across the ten, and *nobody* / *no one* ten times in 733, ten in 738, eight in 735 | four of the *no form* instances were restated rather than removed, which also cut the two other copies of the office's rule sentence — in 735 to within two words, a nineteen-token run against 732's, and in 737 as a *no paper* variant carrying a thirteen-token run against 739 — **so that the sentence now stands in one file in the whole book, 732. What 735 shares with it is a fifteen-token tail, and a man who has been arguing for the rule for six years may say the rule.** The *nobody* instances that were carrying weight stayed and the ones that were carrying rhythm went | **no form, counted as occurrences and not as lines: 15 → 8**, the review's twelve taking 733:167 once when that line carries it twice and not seeing 738:59 at all, where it sits inside a clause about how a thing travels in a city. **nobody / no one per chapter: 3 · 1 · 6 · 3 · 4 · 6 · 5 · 3 · 3 · 5 = 39, against 55 on disk before this pass.** 735 keeps the *Nobody thanks me / Nobody knows you did it* exchange, because that is the exchange the chapter is built on |
+| 5 | `chapter-0734.md`:35 read *She was handed it on a day, or a day or two after* | rewritten to *She was handed it on the day it came off the counter, or a day or two after that, and the day she wrote in the column is the day it came off* | — |
+| 6 | The review's scan also surfaced `chapter-0734.md`:103 reading *the four words about about four hundred pieces of paper*, a garden-path of two adjacent *about*s, and `chapter-0736.md`:79 doing the same | 734's line now reads *under four words, and the four words are about four hundred pieces of paper.* 736's is the same rule in a clerk's mouth and was left: **it is a woman saying *the sentence this office has entered about about four hundred pieces of paper*, and the two words are the sentence's own subject and verb. Cut, it would stop being her mouth and become the narrator's** | — |
+
+**AND ONE THING THAT WAS NOT A FINDING AND WAS REPAIRED ANYWAY, BECAUSE IT WAS IN THE SAME SCAN OUTPUT AND IT IS THE HOUSE'S OWN STANDARD:** the ten chapters mixed straight and curly apostrophes, thirty-nine of one and twelve of the other, and volume 14 is entirely curly. **All straight apostrophes in 731–740 are now curly — thirty-nine conversions, no word changed.** A file that carries both glyphs inside one paragraph is a typesetting fault whatever a reader notices or does not.
+
+## THE TWO DECISIONS THE REVIEW ASKED FOR, AND WHAT WAS DECIDED
+
+**1. THE NEXT-PHASE FILE WAS AT A PATH THE RUNNER CANNOT SEE, AND IT IS NOW AT ONE IT CAN.** The pass that wrote 731–740 created `outline/batches/volume-15-batch-0005.md` and nothing else. No script in `scripts/` or `.github/` reads `outline/batches`; `scripts/novel_runner.sh`:188 enumerates phases solely through `find workspace -name PROMPT.md`, and `workspace/volume-15/` held batch-0001 through batch-0004. **The batch-0005 prompt now exists at `workspace/volume-15/batch-0005/PROMPT.md`, which is the path every phase of this volume has used since batch 0001, and it is the only thing that will dispatch it. The cards stay in `outline/batches/` as the plan of record, the way the cards for 0001, 0002 and 0003 do, and a note at the head of the cards points at the dispatch copy.** The dispatch copy carries three corrections to the cards and marks them: the next phase after 741–750 is a volume close and not "nothing else", because `AGENTS.md` says that when a batch completes a volume the writer creates exactly one volume-close prompt, and 741–750 completes this one; §7 movement five is updated against the page **in the table that is already there and in plain words, and not turned into a third all-caps changelog**; and the gate gains a stated word-count basis and a watch-construction count. `AGENTS.md` won both times and it was right to.
+
+**2. THE STATE FILES ARE 3.27 MB AND GROW BY PREPENDING. NOT REPAIRED IN THIS PASS, AND THE REASON IS WORTH WRITING DOWN.** The four live files are `open-threads.md` 1.01 MB, `current.md` 889 KB, `continuity.md` 749 KB, `chapter-summaries.md` 627 KB, measured after this block was written, and each batch adds a block at the top under a standing rule that a new block supersedes and deletes none of the old ones. **The rule is right and the cost is real: a prompt that loads the heads gets what it needs, and the file that keeps growing is one nobody reads past its first screen.** Archive-and-truncate is a decision for a pass that is not repairing chapters, because the day it is done wrongly, the figure the next pass needs is the one that went. **Nothing is archived here and nothing is deleted.**
+
+## THE BANK, ON A STATED BASIS, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT
+
+```
+RAW `wc -w`, WHOLE FILE, `## ` HEADING LINES INCLUDED — the basis every earlier block of this
+volume printed, kept so the batches stay comparable:
+731  1,939      732  2,044      733  3,340      734  1,960      735  1,982
+736  1,925      737  1,977      738  1,881      739  1,902      740  1,895
+BANK RAW = 20,845
+
+BODY, `## ` HEADING LINES STRIPPED — the basis that is about prose, and the one the BAND row uses:
+731  1,904      732  2,007      733  3,295      734  1,916      735  1,943
+736  1,878      737  1,930      738  1,848      739  1,876      740  1,857
+BANK BODY = 20,454
+```
+
+**THE COUNTER WAS PROVED FIRST, ON A FILE THIS PASS DID NOT WRITE. `chapters/volume-14/chapter-0700.md` returns 2,013 by `wc -w` and 2,013 by a Python whitespace split. THE TEN CELLS WERE TAKEN PER FILE AND NEVER FROM A CONCATENATION, AND BOTH COLUMNS WERE RE-COUNTED AFTER THE LAST EDIT TO ANY OF THE CHAPTERS, WHICH IS THE ROW THAT FAILED LAST TIME.** The previous block printed 20,826 raw, and the review measured 20,826 on disk before this pass touched anything, so the writer's figure was right; this pass then edited eight of the ten files and the row would have been stale by nineteen words if it had not been re-counted. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THE REPAIR PASS IS WHERE IT BITES, BECAUSE THE REPAIR PASS IS THE PASS THAT EDITS.**
+
+## BAND, ON THE BODY COUNT, WHICH IS THE ONE THAT IS ABOUT PROSE
+
+**NINE OF THE TEN ARE INSIDE 1,800–2,700 AND OWE NO REASON.** The nearest floors are 740 at 1,857 and 738 at 1,848. **THE PREVIOUS BLOCK SAID 740 PASSED AT 1,818; IT PASSED AT 1,818 ONLY BECAUSE THAT WAS THE RAW FIGURE. ITS PROSE WAS 1,780, TWENTY UNDER THE FLOOR, AND IT NOW CARRIES AN ADDED PARAGRAPH AND PASSES ON BOTH.** On the raw basis the same nine pass and 733 is 3,340.
+
+## THE GATE, RE-RUN FROM DISK AFTER THE LAST REPAIR, EVERY ROW A MEASUREMENT
+
+```
+FILES           ten files, 731-740, all ending 0a, one `# ` title line each.
+TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 740 FILES.
+                The ten title lines carry 0 non-ASCII glyphs and 0 straight double quotes.
+BANK            raw 20,845 and body 20,454, both per file and summed from disk after the last
+                edit. Counter proved first on chapter-0700 at 2,013 by `wc -w` and by a Python
+                whitespace split. *** THE PREVIOUS BLOCK PRINTED 20,826 AND WAS RIGHT ON THE
+                DAY IT WAS WRITTEN; THIS PASS THEN EDITED EIGHT OF THE TEN FILES. THE ROW THAT
+                FAILS IS ALWAYS THE ROW NOBODY RE-COUNTS, AND IT FAILS ON THE REPAIR. ***
+BAND            measured on the BODY count: 9 of 10 inside 1,800-2,700, no reason owed. Nearest
+                floors 740 at 1,857 and 738 at 1,848. 733 at 3,295 of prose is the scene, reason
+                below, unchanged in kind from the 3,307 of prose the writer commit carried.
+PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty. 0 with an odd count
+                of quotation glyphs. 0 blockquotes, 0 fences, 0 rules, 0 tables in any chapter.
+ORPHAN SPEECH   0, scanned separately because a parity row cannot see an orphan. No paragraph of
+                the ten opens a speech and leaves it running: 0 paragraphs begin with a closing
+                glyph, every paragraph carries its quotation parity even, and the paragraphs
+                carrying two pairs are two closed speeches and not one speech broken in two.
+                THIS PASS SPLIT NO PARAGRAPH AND CLOSED NO SPLIT, BECAUSE IT MADE NONE.
+META            0 primary, 0 widened, 0 extension, across all ten and after every repair. The
+                row carries `manuscript` and `opposition` and `[0-9]+ chapters` and `this batch`
+                and `a chapter that` and `this pass` and `in this volume` and `this page`.
+                *** AND THE GREP IS NOT THE GATE: 734 AND 735 WERE READ AGAINST THE PARAGRAPH. ***
+WEEKNAMES       0, seven names whole-word and stem, and not the three-letter forms `sat`/`sun`.
+AGES            0 for a person across eleven probe forms plus a bare `aged` sweep. The boy is
+                not aged, Perla Quist is not about fifty, Wren Kallo is not aged.
+ARITHMETIC      UNTOUCHED BY THIS PASS AND RE-DERIVED ANYWAY: spine 2,722-2,780, monotonic at 0
+                violations by METHOD A and METHOD B, `6 6 6 6 6 7 7 7 7 = 58` against
+                `2,780 - 2,722 = 58`, seam in its own column, all nine read against their own
+                dates, forty footer intervals parsed and re-derived with 0 unparsed. No date
+                and no footer was edited by this pass because no date and no footer was wrong.
+QUARTERLY       852 unmoved at 737, fifteen sheets and fourteen quarters both named in words.
+SECOND COLUMN   three lines at 731, 732, 734, 736 and 737, and nothing goes in it anywhere.
+THE REGISTER    419 before a clerk's hand and 11 since the thirtieth of March, 409 in the two
+                boxes, and from 740 one row with the description of the person left empty. Not
+                merged anywhere, and this pass merged nothing.
+ACCOUNT         8,1xx 0 · `settl` 0 in every inflection across `chapters/volume-15/` · no floor
+                · no ledger total · no running balance.
+SPENT FIGURES   office's months 0 (spent at 701) · shutter's interval 0 (710) · lane's mornings
+                0 (720) · wall's rate ONCE, at 738, with its reason, and 735 no longer spends a
+                third of it in an aside · docket's date 0 · the two words on the stone 0 ·
+                `411` 0 · `771` 0.
+WATCH COUNT     `no form` 15 -> 8 occurrences · `nobody`/`no one` 55 -> 39, by chapter
+                3 1 6 3 4 6 5 3 3 5 · `nobody is thanked` 1, and it is the corner's, not the
+                office's. A NEW ROW, CARRIED TO 741-750 IN THE NEXT PROMPT.
+HEADINGS        `## ` 54 across the ten: 5 5 7 5 6 6 6 5 4 5, 0 duplicated inside a file.
+                *** THE PREVIOUS BLOCK PRINTED 53 AND LISTED 735 AS 5. IT IS 6, IT WAS 6 ON THE
+                WRITER COMMIT, AND A ROW THAT REPORTS A COUNT MUST BE COUNTED AGAIN. ***
+DUPLICATION     12-gram against every chapter in the book, body-only, headings and italic
+                footers stripped, token-normalised, maximal runs only, READER PROVED FIRST ON
+                chapter-0564 (5,496 distinct 12-grams inside itself, not zero). **99 twelve-grams
+                are shared by two chapters of the ten and appear NOWHERE ELSE IN THE BOOK, and
+                at the writer commit that figure was 114. THE DIFFERENCE OF FIFTEEN IS THIS
+                REPAIR AND ZERO RUNS WERE ADDED: EVERY CUT WAS A CUT, NOT A REWRITE INTO
+                ANOTHER REPEAT.** Every one of the 99 is the arithmetic frame, standing
+                furniture, or an instrument of the office quoted as an instrument. The
+                twenty-one-token instrument sentence now stands in ONE FILE IN THE WHOLE BOOK,
+                WHICH IS 732, and its longest shared run inside the batch is a fifteen-token
+                tail of itself; the 737/739 *no paper* pair fell from thirteen tokens to seven.
+                The immediate-repeat scan at 3-10 tokens returns four survivors, all deliberate: a section heading echoed by its own
+                opening line at 733 and at 740, and a phrase repeated across a dialogue beat at
+                732 and at 736. *** A COUNT THAT IMPROVED BY WRITING MORE IS NOT AN IMPROVEMENT;
+                THIS ONE IMPROVED BY CUTTING FOUR THINGS. ***
+APOSTROPHES     39 straight converted to curly across the ten. 0 of either glyph left wrong.
+SPELLING        0 paragraphs ending in a comma and a space. 0 stray leading spaces.
+```
+
+## 733 IS THE ONE CHAPTER OUTSIDE THE BAND, AND THE REASON IS RECORDED HERE AS `outline/volume-15.md` §9 REQUIRES
+
+**733 IS 3,295 WORDS OF PROSE AND 3,340 RAW, AND IS OVER THE CEILING.** It is the volume's fourth structural debt paid — Wren Kallo, one hundred chapters after her own last scene at 633 — and the standing instruction is that the default is longer, not shorter, and that a scene is never compressed to fit a band. Its precedents stand on the record: 653 at 3,942, 663 at 3,813, 673 at 3,445, 683 at 4,046, 693 at 3,901, 703 at 3,873 and 713 at 4,692. **THE BATCH IS NOT PADDED TO REACH IT: the scene section alone is 1,254 words and the other four sections are the axis, the refusal, the reason for it and the change, all of which the card requires.** Nothing in this pass shortened it, and the six paragraphs this pass touched inside it were four *nobody* instances, one *no form* restatement and one duplicated clause — **all of them deductions, and two of them inside the scene section, which now stands at 1,254 words over lines 95–144 against 1,253 before, the one-word rise being the shorter clause that replaced the longer one.** The `## ` heading lines are still 5, 15, 27, 45, 67, 95 and 145, measured from disk in this commit and not carried, and the six measurement cells in the block below re-derive as 2,804 / 2,792 / 1,254 / 1,248 / 3,340.
+
+## WHAT THIS REPAIR DID NOT TOUCH, AND THE REASON IN ONE PARAGRAPH
+
+**THE PROSE THAT WAS RIGHT STAYED RIGHT.** The scene at 733 — the fastest, mutual, enjoyable thing in the volume, with no impairment as a mechanism and no reluctance as its spine — is byte-for-byte as it was, and so are the quarter-end at 737, the corner at 738, the four hours at 739 and the blank field at 740. **The denial, the backward check, the twenty-one-token instrument sentence's home in 732, the nine words from Perla Quist, the entitled question at 736 and the sentence about one person at the end of 740 are all where they were.** Not one event, figure, refusal or relationship moved. What moved was a duplicated clause, two figures printed in the wrong chapter, a stumble, a garden-path, a set of constructions that had become rhythm, thirty-nine apostrophes and the label on a gate row — **and that is the whole trade of a repair pass, which is to leave the good sentence alone and be able to say afterwards that the good sentence is the same one.**
+
 # VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK, **20,826 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT FOUR, *THE NAME*. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `outline/batches/volume-15-batch-0005.md`, CHAPTERS 741–750, AND IT IS THE ONLY ONE THIS PASS CREATED. NO VOLUME-CLOSE PROMPT. NO BATCH 0006. `state/complete.md` IS NOT CREATED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 731–740 AND DELETES NONE OF THEM.**
 
 ## WHAT THIS BATCH DID, IN ONE PARAGRAPH

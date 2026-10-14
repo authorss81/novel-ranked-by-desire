@@ -4,11 +4,11 @@ Two thousand seven hundred and twenty-two was the twenty-third of August and the
 
 ## The Question She Does Not Normally Ask
 
-Wenna Raut had the thirty-first sheet squared on the table under the window with the head at the top of it and three lines in the second column and the four sentences at the foot, and she had a sheet of her own beside her with the day's entries on it, and Lin Hao stood at the end of the table with the folded docket he no longer carried in his coat against his ribs out of habit.
+Wenna Raut had the thirty-first sheet squared on the table under the window with the head at the top of it and three lines in the second column and the four sentences at the foot, and she had a sheet of her own beside her with the day’s entries on it, and Lin Hao stood at the end of the table with the folded docket he no longer carried in his coat against his ribs out of habit.
 
 She did the ordinary things first. She told him what the day had been.
 
-Nothing had come through the front door since the twenty-second of July and the door had gone quiet, and about four hundred and thirty rows stood in the bound Register behind her, of which eleven had come in under the instruction of the tenth of June and the rest had been there before this office had a clerk's hand in it.
+Nothing had come through the front door since the twenty-second of July and the door had gone quiet, and about four hundred and thirty rows stood in the bound Register behind her, of which eleven had come in under the instruction of the tenth of June and the rest had been there before this office had a clerk’s hand in it.
 
 The four hundred and nine pieces of rag paper in the two boxes on the boards under the window were a different thing and had never once been a row.
 
@@ -32,7 +32,7 @@ There was nothing in the room to put down.
 
 ## What A Name Does
 
-She wrote nothing down, and he understood that she had not asked it as a clerk, because a clerk's question goes into the book and hers had not and would not.
+She wrote nothing down, and he understood that she had not asked it as a clerk, because a clerk’s question goes into the book and hers had not and would not.
 
 “Write out both of them for me,” she said. “Not the words. Just what each of them says.”
 
@@ -120,6 +120,6 @@ He could not have it both ways. If the copies were right, then the office had ce
 
 And the only instrument in this city that could say which was which is nine sheets under a third table four flights up, and it has no heading anybody may cite and no keeper who may be sent, and it has just told him that about a third of the papers in circulation cannot descend from the only copy in existence.
 
-There is no form anywhere in this city for correcting a kitchen, and no form for adding a line to a quarterly page, and he had known the first of those since the ninth of August and had learned the second one at about four o'clock that afternoon, standing at a table with a ruler against it and his own name nine feet under a sentence he had written seven days before.
+There is no form anywhere in this city for correcting a kitchen, and no form for adding a line to a quarterly page, and he had known the first of those since the ninth of August and had learned the second one at about four o’clock that afternoon, standing at a table with a ruler against it and his own name nine feet under a sentence he had written seven days before.
 
 A page that goes out four times a year does not come back, and about four hundred people are holding his name in pencil, and he has just put the same name in a second hand on a page none of them will ever hold, and the two hands cannot be shown to each other by anybody at all.

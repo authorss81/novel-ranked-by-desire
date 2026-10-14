@@ -10,7 +10,7 @@ It is a long narrow room with pigeonholes to the ceiling on both sides, each one
 
 A long deal bench runs down the middle of it with a scar about four inches long in the top where somebody knocked a lamp over in the winter before last. Wooden steps stand on a rail against the left-hand pigeonholes, and a pendant lamp hangs on a flex about a foot above the bench. The window has a grating across the lower half of it and the grating is painted the colour the frames are painted.
 
-Wenna Raut's lamp is on. It has been on since before eleven.
+Wenna Raut’s lamp is on. It has been on since before eleven.
 
 ## Why She Was Up There
 
@@ -26,11 +26,11 @@ A copying clerk at the second counter wanted an hour out of a day book for a ret
 
 ## The Second One
 
-It was not a return book. The division's own books are printed with three columns and an hour in the third and a rule down each side, and they are the same in every counter in the building.
+It was not a return book. The division’s own books are printed with three columns and an hour in the third and a rule down each side, and they are the same in every counter in the building.
 
 This one was unruled. It was bound in grey cloth with the corners gone soft, and a pencil margin had been drawn down the inside of the front cover by a person going along it, and it was opened at the first page.
 
-“A desk takes one question of a thing and only one,” said Wren Kallo. “That has never been printed and it has never needed to be. And when a question goes back into a day book it is not a return any more, it is a thing a person wrote in a book, and it goes to no magistrate, because a magistrate's counter takes a return and a book with three printed columns in it, and it would look at nine sheets of pencil and put it in a drawer.”
+“A desk takes one question of a thing and only one,” said Wren Kallo. “That has never been printed and it has never needed to be. And when a question goes back into a day book it is not a return any more, it is a thing a person wrote in a book, and it goes to no magistrate, because a magistrate’s counter takes a return and a book with three printed columns in it, and it would look at nine sheets of pencil and put it in a drawer.”
 
 She put two fingers on the first page and did not turn it.
 
@@ -48,7 +48,7 @@ He looked at the page she had not turned. There were three lines on it in pencil
 
 “That is a record of a thing being true against a day.”
 
-“That is a record of a thing being true against a day,” said Wren Kallo, “and I have known that since the sixth year and there was nobody in this building to tell, because telling is the whole of what an office does and I am a desk and not an office.”
+“That is a record of a thing being true against a day,” said Wren Kallo, “and I have known that since the sixth year and there was not one officer in this building to tell, because telling is the whole of what an office does and I am a desk and not an office.”
 
 Two nails of her left hand had been in ink so long that the ink was no longer a thing on a nail. She turned the book a quarter turn on the bench without opening it further and looked at him.
 
@@ -74,7 +74,7 @@ He asked her for it in the ordinary way, the way a man asks a woman for a thing 
 
 “If it goes anywhere, then every entry I have made at that counter for eleven years is a thing a person might go and look at twice,” she said. “Right now there is one book about what that counter did, printed, three columns, an hour in the third, and every officer in this building works out of it and would be within their rights to say so.”
 
-“The moment a second one exists The moment a second one exists, a person standing at the second counter can hold up two books and ask which one is the building’s, and then somebody has to answer. Whoever answers has to be me.”
+“The moment a second one exists, a person standing at the second counter can hold up two books and ask which one is the building’s, and then somebody has to answer. Whoever answers has to be me.”
 
 She put her hands down at her sides.
 
@@ -94,7 +94,7 @@ She put her hands down at her sides.
 
 ## The Bench Under The Window
 
-She pulled the dust sheet off the far end of the bench and dropped it on the boards, and the boards creaked the way they creak in a room over a hall where nobody can hear anything at all.
+She pulled the dust sheet off the far end of the bench and dropped it on the boards, and the boards creaked the way they creak in a room over a hall on the quiet side of a building.
 
 “Sit down,” she said. “You have been standing at the end of that bench for a quarter of an hour and your chest has been spent since the fourth year and you are going to fall over onto a book of returns from the nineteenth month of a year neither of us is going to name.”
 
@@ -106,7 +106,7 @@ She was quicker than him, and that was the thing about it afterwards he could no
 
 “Two nails of this hand have been in ink for eleven years,” she said, and set them against the open collar of his shirt, and the ink went onto the linen in two grey streaks, and she looked at what she had done and said, “that is going to cost you a shirt,” and laughed once, and did not apologise for it.
 
-She got her blouse over her head and hung it over the lamp’s flex and stood there naked to the waist in the lamplight, with the arms of the division behind her and about nine counters with nobody sitting at any of them after three in the afternoon.
+She got her blouse over her head and hung it over the lamp’s flex and stood there naked to the waist in the lamplight, with the arms of the division behind her and about nine counters and not one clerk at any of them after three in the afternoon.
 
 “Eleven years of men reading at me over a tray,” she said. “You have the same look on you and I want you to know that I can see it. You do not want anything off me. You want a day.”
 
@@ -152,7 +152,7 @@ He did not ask to see the book again. He had been in the room about four hours a
 
 “No.”
 
-“You could come up here again. You could come up here any afternoon and there is nobody on this stair.”
+“You could come up here again. You could come up here any afternoon and this stair is empty on every one of them.”
 
 “No,” he said.
 
@@ -164,6 +164,6 @@ She nodded and pulled the grey cloth back over the book and put it into its pige
 
 “And?”
 
-“And I am the only person in Ostara who knows that both of them exist, and there is no form anywhere in this city on which I may enter that, and no form on which you may enter it either, and I am not going to come up this stair again.”
+“And I am the only person in Ostara who knows that both of them exist, and I may enter that nowhere in this city and neither may you, and I am not going to come up this stair again.”
 
 Wren Kallo pulled the door to at the top of the one flight and turned the key, and the key went into a lock that had been there since the building was put up, and neither of them said anything about it, because a key is not a rule and a door is not a form and a person is not an instrument, and the three of those are the reason the room above the counters is the safest place in this city for a thing nobody may cite.

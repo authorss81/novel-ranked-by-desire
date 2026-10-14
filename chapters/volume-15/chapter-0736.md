@@ -26,7 +26,7 @@ He wanted somebody entitled to look at two claims and say that the older one was
 
 That is the only place in this city where a day has ever been made to mean something about a person. The thirtieth sheet is a rail and the standing sheet is a building with no door onto a street, and the fourth column in a laundry goes nowhere and cannot be cited.
 
-If a bound could be refused at a counter, then the office's own bound of the thirtieth of September of the seventh year could be put beside it, and both of them would be tested by the same man in the same chair, and about four hundred people would have an instrument.
+If a bound could be refused at a counter, then the office’s own bound of the thirtieth of September of the seventh year could be put beside it, and both of them would be tested by the same man in the same chair, and about four hundred people would have an instrument.
 
 He said it to the clerk at about eleven, standing about nine feet off, and he said it as a person and not as an officer, and it was the longest thing he had ever asked for at that window and it was four sentences long.
 
@@ -80,7 +80,7 @@ He heard himself say it and he heard how flat it was, and it was the flattest se
 
 The clerk wrote it in the day book in about nine seconds, in his own hand, in the level one he uses at a counter, and put the hour against it and the place against the hour.
 
-“Thank you,” he said. “That is the first time that day book has ever held that and it will be in here in about two hundred years with nobody else's handwriting anywhere near it.”
+“Thank you,” he said. “That is the first time that day book has ever held that and it will be in here in about two hundred years with nobody else’s handwriting anywhere near it.”
 
 “There is a qualification and you are entitled to have it,” said Lin Hao, and he gave it in one sentence because he could not do it in any other. “Every piece of paper received through the front door of my office since the tenth of June is entered with a date and with a description of the person who brought it. None of those is in the place you have asked me about, and all of them are somewhere, and I cannot tell you where they are either.”
 

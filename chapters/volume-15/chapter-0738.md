@@ -20,7 +20,7 @@ About two hundred people a day stop at that corner. About ninety of them read th
 
 That is the rate, and it is an ordinary rate, and the reason it is that this is an ordinary morning of an ordinary month and the trams go under the corner and nothing is happening here.
 
-Nobody has come up this hill with a notice or a man with a case or a magistrate's clerk, and on an ordinary morning at an ordinary corner with four inches of stone at the bottom of nine feet of render, those are the figures. They are the same on the seventh of the month as on the thirtieth.
+No notice and no man with a case and no magistrate’s clerk has come up this hill, and on an ordinary morning at an ordinary corner with four inches of stone at the bottom of nine feet of render, those are the figures. They are the same on the seventh of the month as on the thirtieth.
 
 ## What The Corner Heard
 
@@ -36,17 +36,17 @@ A denial goes on a page that about nine people a week read to the bottom, and th
 
 What cannot be said any more is the other thing.
 
-Nobody can say out loud at that corner that a building keeps a stone. If they do, four people can now say back that a man in a white plate has denied it in the office's hand with his name at the bottom of it, and there is no answer to that which does not make the speaker sound like a person repeating something.
+Nobody can say out loud at that corner that a building keeps a stone. If they do, four people can now say back that a man in a white plate has denied it in the office’s hand with his name at the bottom of it, and there is no answer to that which does not make the speaker sound like a person repeating something.
 
 So the belief goes quiet. It does not go away. It goes into about nine kitchens tonight in the exact words somebody used at the corner, and in four years it will come out again at a counter in a room case about a sum of nine pounds, in the mouth of a man who is right about every fact, and by then there will be a denial on a page that somebody can point at.
 
-And nobody at that corner is thanked for anything, because nobody at that corner has done anything.
+And not one person at that corner is thanked for any of it, because not one person at that corner has done anything.
 
 He watched it happen from the bottom of the hill at about half past ten without going up, and it took about nine minutes.
 
 A man had come down low, on his knees the way they do it, and read the four inches, and said out loud to nobody in particular what everybody says after he has read them, which is that the building off the third court has kept that stone for years.
 
-A woman who had said it herself in the summer came past with a bag and stopped, and told him that it could not be true any more, because a man in a white plate had denied it in the office's hand with his name at the foot of it and his name was on the bottom of the page in Cordwain in the same hand as everything else.
+A woman who had said it herself in the summer came past with a bag and stopped, and told him that it could not be true any more, because a man in a white plate had denied it in the office’s hand with his name at the foot of it and his name was on the bottom of the page in Cordwain in the same hand as everything else.
 
 The man on his knees said where had she heard that.
 
@@ -58,7 +58,7 @@ She stood in the street for about four seconds trying to work it out and could n
 
 There was no name anywhere in that chain of about eleven people and four kitchens and three months, and every link in it was somebody repeating something they had been told, and every one of them was right to repeat it, because it is the only way a thing travels in a city with no form on it.
 
-## Nobody Asks Him
+## A Man Reads The Whole Board
 
 A man came up at about nine, stopped, and read the whole of the board from the top to the bottom, including the two empty squares, which he looked at for about four seconds the way people look at a pair of empty squares.
 
@@ -70,7 +70,7 @@ Nobody came up.
 
 That is the arrangement at a corner with a board on it and it has been for seven years.
 
-About two hundred people a day stop at it, about ninety read it, about nine a week get down low enough to see the four inches, and nobody has ever asked the boy who puts it up what the two squares at the foot of a form are for.
+And in all of that, not one person has ever asked the boy who puts it up what the two squares at the foot of a form are for.
 
 That includes this office, which has put a form on that board every month for nine years and has never asked him anything about either square.
 
@@ -86,7 +86,7 @@ It came down the hill to the passage off Cordwain by about eleven and the counte
 
 A man at the corner heard the denial read out and told two people, and a woman at the corner heard about the denial and told a third, and about nine people a week can now say that a building in this city says the words are not a figure.
 
-And about nine hundred people went up and down that hill in the hour and not one of them stopped, which is what a kerb is for, and nine of them in a week got as far as the dressed stone and read it and went on up.
+And about nine hundred people went up and down that hill in the hour and not one of them stopped, which is what a kerb is for.
 
 The two squares at the foot of the seventy-sixth form stood empty all day and were empty at four that afternoon and will be empty at four on every afternoon after it for as long as that boy is willing to carry a jar up a hill, and on the thirtieth of this month the seventy-sixth will come down off the board and the seventy-seventh will go over the top of it.
 
@@ -94,4 +94,4 @@ The two of them will be exactly as empty as every form that has gone up on that 
 
 He stood about nine feet back from that rail for a long time after the counterman had finished, with the denial on the page above him and about four hundred kitchens under him that will never have read a word of it.
 
-A boy about four miles away is putting a board up a hill that nobody asks him the meaning of, and a woman about four miles from him is doing the only thing in this city that anybody has ever needed doing, every morning, at seven, with a short-handled broom, that nobody may ask about.
+A boy about four miles away is putting a board up a hill whose meaning is never once asked for, and a woman about four miles from him is doing the only thing in this city that anybody has ever needed doing, every morning, at seven, with a short-handled broom, that may not be asked about.

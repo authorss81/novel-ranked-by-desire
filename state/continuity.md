@@ -1,3 +1,35 @@
+# VOLUME 15 BATCH 0004 REPAIRED 14 OCTOBER 2026 AGAINST `logs/batch-0004.review.log` — CHAPTERS 731–740 STILL ON DISK. **§0a-vol15-b4r BELOW IS THE FILE'S LIVE BLOCK FOR 731–740 AFTER THE REPAIR AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM. NOTHING WAS RESTARTED, NO CHAPTER WAS REWRITTEN, NO INTERVAL, FIGURE, EVENT OR REFUSAL MOVED.**
+
+## 0a-vol15-b4r. WHAT THE REPAIR TOUCHED, MEASURED FROM DISK AFTER THE LAST EDIT
+
+**THE SPINE IS UNTOUCHED AND RE-DERIVES AS IT DID.** 2,722 → 2,780, monotonic at 0 violations by METHOD A (360) and by METHOD B (months × 30 at zero indexing, `pos[Aug]=6 pos[Sep]=7 pos[Oct]=8`); `6 6 6 6 6 7 7 7 7 = 58` against `2,780 − 2,722 = 58`; seam `2,722 − 2,715 = 7` in its own column and not one of the nine. The eight and the tenth of October are 2,767 and 2,769 and still fall between 738 and 739, and no chapter of 731–740 names either. **NOT ONE DATE, FOOTER OR INTERVAL WAS TOUCHED BY THIS PASS, BECAUSE NOT ONE OF THEM WAS DEFECTIVE. THE RAIL COUNT STILL RE-DERIVES AS `day − 2,669` IN EVERY FOOT OF THE TEN — 53 · 59 · 65 · 71 · 77 · 83 · 90, and from the thirty-first at 737, 7 · 14 · 21 — AND 729 AND 730 ARE STILL ONE HIGH AND ARE STILL NOT THIS PHASE'S.**
+
+**THE DUPLICATION ROW, RE-RUN AFTER THE REPAIRS, WITH THE READER PROVED FIRST ON `chapter-0564.md` (5,496 DISTINCT 12-GRAMS INSIDE ITSELF, NOT ZERO) AND THE 740/741 SEAM HELD FOR THE NEXT PASS:**
+
+- **the twenty-one-token instrument sentence** — *there is no form on which this office may put a question to a person about a thing somebody else has written down* — **stood word for word in 732 and, to within two words, in 735, a NINETEEN-token run between them, and 737 carried it again as a *no paper* variant. IT NOW STANDS IN ONE FILE IN THE WHOLE BOOK, WHICH IS 732.** 735 keeps the rule in his mouth because he has been arguing for it for six years and a man who has been arguing for a rule may still say it, and what the two chapters share now is a fifteen-token tail and nothing else. **THE CUT IS IN THE LATER CHAPTER AND THE SOURCE IS UNTOUCHED, WHICH IS THE RULE.**
+- **the "no paper" variant** — *there is no paper anywhere in this city on which this office may put a question to a person* — stood in 737 and in 739, a thirteen-token run. **739's is restated in the narrator's own sentence instead of the form's, and the pair now shares seven tokens, which is the frame and not the rule; 737 is the earlier chapter and was not touched.**
+- **the drawer's furniture** — *two cardboard boxes on the boards under the window with about four hundred and nine* — stands in 701 and 739 and is class 2, permitted, repeated by design since 701.
+- **the rail sentence** — *the thirtieth sheet has been face up on that rail for every one of the last* — stands across 725, 726, 727 and six chapters of this batch and is class 1, the arithmetic frame, permitted.
+- **the batch against itself, both before and after, by one reader and one definition: 99 twelve-grams are shared by two chapters of 731–740 and appear nowhere else in the book, and at the writer commit that figure was 114. THE FIFTEEN THAT FELL ARE THIS REPAIR, AND NOT ONE RUN WAS ADDED.** Every one of the 99 is the frame, standing furniture, or an instrument quoted as an instrument, and none is a lifted sentence. The immediate-repeat scan (3 to 10 tokens, back to back) returns four survivors in 731–740 and all four are deliberate: a section heading echoed by its own opening line at 733 and at 740, and a phrase repeated across a dialogue beat at 732 and at 736. **THE DUPLICATED CLAUSE THE REVIEW FOUND AT 733 IS GONE AND NO OTHER ONE EXISTS.**
+
+**THE TWO ROWS THAT WERE MISSING AND NOW RUN:**
+
+```
+WORD BASIS    RAW `wc -w`, whole file, `## ` lines included:  20,845
+              BODY, `## ` lines stripped:                    20,454
+              740 is 1,895 raw and 1,857 of prose. THE PREVIOUS BLOCK PRINTED 20,826 RAW AND
+              CALLED IT PROSE, AND 740 PASSED THE BAND AT 1,818 ON THAT BASIS WHEN ITS PROSE
+              WAS 1,780. THE BASIS IS NOW NAMED AND BOTH FIGURES ARE PRINTED, PER FILE.
+WATCH COUNT   `no form` 15 -> 8 occurrences.  `nobody`/`no one` 55 -> 39, and 39 by chapter is
+              3 1 6 3 4 6 5 3 3 5. `AGENTS.md` calls these dead by the tenth. THE CLASS IS NOT
+              DELETED, IT IS SPENT: AN INSTANCE IS EARNED ONCE OR TWICE AND A CONSTRUCTION
+              THAT HAS BEEN PAID FOR IS A COST PAID TWICE.
+```
+
+**AND THE FIGURE-OWNERSHIP ROW, WHICH IS THE ONE THAT CAUGHT THE WORST OF THE SIX.** The wall's rate is about two hundred people a day at the corner, about ninety reading the board, about nine of them a week down at the four inches, and not one doing both, **and it belongs to 738 with its reason, which is that it is an ordinary morning of an ordinary month and the trams go under the corner.** 735 printed one third of it thirteen days early, in an aside, and 738 then restated it twice more inside itself. **AFTER THIS PASS: `two hundred people a day` appears in 738 and nowhere else in 731–740, `ninety read` in 738 and nowhere else, and the phrase `nine of them in a week` in none. The denial's own audience — about nine people a week at the passage off Cordwain — is a different count of different people and stays, because the plan for 738 is built on it and cutting it would cut the chapter's change. A FIGURE SPENT THREE CHAPTERS EARLY IN AN ASIDE IS STILL SPENT, AND AN ASIDE IS NOT A PLACE.**
+
+---
+
 # VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK. **§0a-vol15-b4 BELOW IS THE FILE'S LIVE BLOCK FOR 731–740 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b4. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE SIX CLASSES, RE-DERIVED ON THE PAGE

@@ -1,6 +1,6 @@
-# VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK, **20,826 WORDS**. MOVEMENT FOUR, *THE NAME*. THIS BLOCK SUPERSEDES FOR 731–740 AND DELETES NOTHING.
+# VOLUME 15 BATCH 0004 WRITTEN 14 OCTOBER 2026 — CHAPTERS 731–740 ON DISK, **20,845 WORDS RAW / 20,454 OF PROSE**. MOVEMENT FOUR, *THE NAME*. THIS BLOCK SUPERSEDES FOR 731–740 AND DELETES NOTHING. **REPAIRED THE SAME DAY AGAINST `logs/batch-0004.review.log`: SIX DEFECTS WERE FIXED IN THE CHAPTERS AND NOTHING ELSE MOVED. THE TEN ROWS BELOW STAND WORD FOR WORD — NO EVENT, FIGURE, REFUSAL OR RELATIONSHIP CHANGED — AND ONLY THE FIGURES IN THIS BLOCK WERE RE-COUNTED FROM DISK.**
 
-**BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT: 731 1,939 · 732 2,044 · 733 3,352 (scene, OUTSIDE the band and the reason is in `state/current.md`) · 734 1,955 · 735 1,970 · 736 1,925 · 737 1,977 · 738 1,914 · 739 1,932 · 740 1,818 = 20,826. THE COUNTER WAS PROVED ON chapter-0700 AT 2,013 BY BOTH METHODS BEFORE IT WAS RUN, AND THE BANK WAS RE-COUNTED AFTER THE LAST EDIT.**
+**BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT TO ANY OF THE CHAPTERS. RAW `wc -w`, WHOLE FILE, `## ` HEADING LINES INCLUDED: 731 1,939 · 732 2,044 · 733 3,340 (scene, OUTSIDE the band and the reason is in `state/current.md`) · 734 1,960 · 735 1,982 · 736 1,925 · 737 1,977 · 738 1,881 · 739 1,902 · 740 1,895 = 20,845. PROSE, HEADING LINES STRIPPED, WHICH IS THE BASIS THE BAND IS MEASURED ON: 1,904 · 2,007 · 3,295 · 1,916 · 1,943 · 1,878 · 1,930 · 1,848 · 1,876 · 1,857 = 20,454. THE COUNTER WAS PROVED ON chapter-0700 AT 2,013 BY BOTH METHODS BEFORE IT WAS RUN. 740 WAS 1,780 OF PROSE ON THE WRITER COMMIT, TWENTY UNDER THE FLOOR, PASSED ONLY ON THE RAW BASIS, AND NOW CARRIES AN ADDED PARAGRAPH AND PASSES ON BOTH.**
 
 | Ch | Title | Day | What changes |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | 739 | He Opens The Drawer | 14 Oct y8, 2,773 | **HE OPENS THE DRAWER.** Four hundred and nine read in about four hours, one of them empty and read twice; the instruction of the twenty-first of October is closed and cannot be reopened, because undoing it would need a third instruction and there is no form for that either. |
 | 740 | Four Hundred And Nine In Four Hours | 21 Oct y8, 2,780 | One row entered with the description of the person left empty — the first empty field in that book in nine years, which cannot be filled in afterwards — and one sentence about the woman who brought in nothing, who is not named, not traced and not going to be asked about. |
 
-**VOLUME 15 SO FAR: 701–710 at 22,377 · 711–720 at 22,788 · 721–730 at 19,436 · 731–740 at 20,826 = 85,427. Scenes spent: 703, 713, 723, 733. Decisions: 710, 720, 730, and the act at 739. Next: 741–750, movement five, `outline/batches/volume-15-batch-0005.md`, WHICH THIS PASS CREATED AND WHICH IS THE LAST TEN CHAPTERS OF THE VOLUME.**
+**VOLUME 15 SO FAR: 701–710 at 22,377 · 711–720 at 22,788 · 721–730 at 19,436 · 731–740 at 20,845 = 85,446, all on the raw basis. Scenes spent: 703, 713, 723, 733. Decisions: 710, 720, 730, and the act at 739. Next: 741–750, movement five, dispatched by `workspace/volume-15/batch-0005/PROMPT.md`, WHICH THIS PASS CREATED, WITH ITS CARDS AT `outline/batches/volume-15-batch-0005.md`. IT IS THE LAST TEN CHAPTERS OF THE VOLUME, AND THE ONE PHASE AFTER IT IS A VOLUME CLOSE.**
 
 ---
 

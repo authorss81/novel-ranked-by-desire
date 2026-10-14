@@ -12,21 +12,21 @@ It has now been unmoved across fifteen of these sheets. That is fifteen sheets, 
 
 Below the head there are about four hundred and nineteen lines with a date against every one of them and an hour against the date and no figure against the hour and no name anywhere along the line.
 
-Below that the second column has three lines in it, and it has had three lines in it since the twelfth of September of the seventh year and will have three lines in it at four o'clock this afternoon.
+Below that the second column has three lines in it, and it has had three lines in it since the twelfth of September of the seventh year and will have three lines in it at four o’clock this afternoon.
 
-Below that are the four sentences, which have stood there since before this office had a clerk's hand in it, and under them, in the office's hand, with his name and the sixteenth of August under that, seven lines in all.
+Below that are the four sentences, which have stood there since before this office had a clerk’s hand in it, and under them, in the office’s hand, with his name and the sixteenth of August under that, seven lines in all.
 
 ## Reading The Foot Of His Own Sheet
 
 He came in at about twenty past two and stood at the table end and read the bottom of it, which he had done four times in nine years, and this time he read the whole of the foot from the striking down.
 
-Four words and a sentence about a drawer, in the office's hand, with a name.
+Four words and a sentence about a drawer, in the office’s hand, with a name.
 
 Then about nine feet of nothing.
 
 Then the four sentences he had written himself in the ninth month of the fifth year, and the name under one of them, and two inches of nothing.
 
-Then the denial, in the office's hand, with his name and a date.
+Then the denial, in the office’s hand, with his name and a date.
 
 He had been looking at that page every day since the sixteenth of August and he had not once read it as one document, and it took him about four seconds at half past two on the thirtieth of September to read it as one document and understand what he had done.
 
@@ -34,7 +34,7 @@ No page of this office and no stone in this city is connected to any other, and 
 
 That sentence is nine feet underneath four hundred and nine pieces of paper.
 
-It is a claim and it is not true of that sheet, and the sheet proves it, in this office's hand, going out at four this afternoon to about two thousand counters, and every one of those counters will read the bottom of it in the ordinary way, because that is what a counter is for.
+It is a claim and it is not true of that sheet, and the sheet proves it, in this office’s hand, going out at four this afternoon to about two thousand counters, and every one of those counters will read the bottom of it in the ordinary way, because that is what a counter is for.
 
 ## About Four Hundred Kitchens
 
@@ -46,7 +46,7 @@ It is a claim and it is not true of that sheet, and the sheet proves it, in this
 
 “The copies do not carry the denial.”
 
-“The copies carry the half that says he took the paper and certified it was nothing,” she said. “And the half that answers that is going to two thousand counters at four o'clock this afternoon, and there is no counter in this city that a kitchen has to come to.”
+“The copies carry the half that says he took the paper and certified it was nothing,” she said. “And the half that answers that is going to two thousand counters at four o’clock this afternoon, and there is no counter in this city that a kitchen has to come to.”
 
 He put both hands on the edge of the table and left them there because there was nothing else in the room to hold.
 
@@ -56,7 +56,7 @@ He put both hands on the edge of the table and left them there because there was
 
 ## A Woman At The Door At Half Past Three
 
-She came through the front door of the office off a third court at about half past three on the quarter-end afternoon, which nobody does, and she had a piece of pencil paper in her hand with four sentences written out at the foot of it and two words above them in somebody's writing.
+She came through the front door of the office off a third court at about half past three on the quarter-end afternoon, which nobody does, and she had a piece of pencil paper in her hand with four sentences written out at the foot of it and two words above them in somebody’s writing.
 
 “My sister has one with them the other way round,” she said. “I want to know which of us has it right.”
 
@@ -66,7 +66,7 @@ She came through the front door of the office off a third court at about half pa
 
 Lin Hao stood about nine feet back with his hands in his pockets.
 
-“A copy gives you what the page carried on the day it was made,” he said. “It cannot give you what the stone says, because this office has never certified a stone and is not going to, and the only copy of anything about that wall is in the inside of somebody's coat, and there is no paper anywhere in this city on which this office may ask a person what they are carrying.”
+“A copy gives you what the page carried on the day it was made,” he said. “It cannot give you what the stone says, because this office has never certified a stone and is not going to, and the only copy of anything about that wall is in the inside of somebody’s coat, and there is no paper anywhere in this city on which this office may ask a person what they are carrying.”
 
 The woman looked at him for about four seconds and then at the table with the sheet squared on it and the head at the top of it.
 
@@ -82,9 +82,9 @@ Wenna Raut had her hand on the pen the whole time and had not written one word, 
 
 “She brought me a question and there is no field in nine years of this Register that a question goes into,” said Wenna Raut. “And I would have put it in if there were, and I want you to understand that about me, because in about four years somebody is going to find out that this office cannot take a question from a person and it is going to be put about that we were hiding.”
 
-## Four O'Clock
+## Four O’Clock
 
-The thirtieth came down off the rail in a passage off Cordwain at about four and the thirty-first went up in its place, and the head of it stood at eight hundred and fifty-two, unmoved across fifteen sheets, with about four hundred and nineteen accounts under it and three lines in the second column and four sentences at the foot and a denial under them in this office's hand with a man's name against it.
+The thirtieth came down off the rail in a passage off Cordwain at about four and the thirty-first went up in its place, and the head of it stood at eight hundred and fifty-two, unmoved across fifteen sheets, with about four hundred and nineteen accounts under it and three lines in the second column and four sentences at the foot and a denial under them in this office’s hand with a man’s name against it.
 
 The counterman read the whole of the bottom of it out to four people before the woman left, the way he reads it, and he read the denial, and one of the four said out loud that a building had now said on paper that the words were not a figure, and the counterman said that was what it said, and then he read the rest of it and stopped at the striking.
 
@@ -98,9 +98,9 @@ The counterman read the whole of the bottom of it out to four people before the 
 
 At about half past five he stood in the room off a third court with the drawer shut in the wall on the left and the bundle of twenty-five things on the table where it had been since the twenty-eighth of October and nobody was obliged to open one item of it.
 
-In about four hundred kitchens tonight there is a piece of pencil paper with four sentences at the foot of it, and a name, and a sentence about a drawer, and two words written in somebody's hand in one order or the other, and a day at the foot of the copy that the man wrote himself.
+In about four hundred kitchens tonight there is a piece of pencil paper with four sentences at the foot of it, and a name, and a sentence about a drawer, and two words written in somebody’s hand in one order or the other, and a day at the foot of the copy that the man wrote himself.
 
-And every one of those kitchens is holding a document that has been proved wrong about a thing this afternoon, in a hand of this city, by the man whose name is on it, on a sheet that went to about two thousand counters at four o'clock and is not in any of them.
+And every one of those kitchens is holding a document that has been proved wrong about a thing this afternoon, in a hand of this city, by the man whose name is on it, on a sheet that went to about two thousand counters at four o’clock and is not in any of them.
 
 There is no instrument in Ostara that can put that into a house. There is no instrument in Ostara that can put anything into a house. A woman who mends umbrellas will write the foot out for anybody who brings her a copy and charges nothing and keeps no list.
 
