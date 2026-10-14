@@ -1,3 +1,83 @@
+# VOLUME 12 BATCH 0004 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 581–590 ARE ON DISK. **TEN FINISHED FILES, 17,543 WORDS COUNTED PER FILE AND SUMMED BY COMMAND AFTER THE REPAIR. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED. FOUR BLOCKING AND SEVEN SHOULD-FIX CONTENT DEFECTS REPAIRED, PLUS THREE FOUND DURING THE REPAIR. THE SEAM REPAIR STOOD. THE NEXT PHASE IS `workspace/volume-12/batch-0005/PROMPT.md`, CHAPTERS 591–600, MOVEMENT FIVE, *QUOTED*, WHICH IS THE LAST TEN CHAPTERS OF THE VOLUME. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
+
+## THE GATE, RE-RUN BY COMMAND AFTER THE REPAIR, NOT ASSERTED
+
+```
+FILES            10, chapter-0581..0590, one `# ` each, all ten end 0a
+                 chapter-0574.md NOW ENDS 0a AND WAS 2a. The gate row that
+                 certified trailing-byte 0a was WRONG BY ONE FILE and is corrected
+                 here. All 40 written files of volume 12 re-verified at 0a.
+WORD COUNTS      0581 1,901 | 0582 1,584 | 0583 1,474 | 0584 3,022 | 0585 1,692
+                 0586 1,783 | 0587 1,439 | 0588 1,477 | 0589 1,489 | 0590 1,682
+                 TOTAL 17,543 (was 17,234). Summanded per file, never concatenated.
+                 584 IS THE SCENE AND IS ABOVE THE 2,700 CEILING. EIGHT ARE BELOW
+                 THE 1,800 FLOOR AND NONE IS PADDED. Every reason at
+                 state/current.md §0c. THE TREND FROM 575 IS CARRIED AS A LIVE
+                 RISK INTO BATCH 0005, WHICH MAY NOT INHERIT THE CONTRACTION.
+PARAGRAPHS       0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY.
+                 0 ODD QUOTATION-MARK PARAGRAPHS. 0 STRAIGHT-QUOTE PARAGRAPHS.
+                 The previous block said 0 OVER NINETY and was FALSE BY TWO
+                 (584's footer, 101 words; 588's footer, 94). Both are split at a
+                 sentence boundary and the row is now re-run at zero.
+DIALOGUE VOICE   chapter-0584.md HAD A STRAIGHT-QUOTE LINE AND AN UNQUOTED SPEECH
+                 INSIDE A QUOTED PARAGRAPH. Both are now in the house voice.
+                 590 HAD NO DIALOGUE IN THE FILE AND NOW HAS ELEVEN EXCHANGES
+                 WITH THE NIGHT MAN, WHO IS CANON FROM 584.
+ARITHMETIC       spine monotonic, 0 violations, 1,649 to 1,689
+                 RE-RUN AND CHANGED THIS PASS:
+                   1,663 - 960 = 703  and 2 x 360 = 720  so 720 - 703 = 17
+                   -> the audit tenure is TWO YEARS LESS SEVENTEEN DAYS (584)
+                   1,689 - 1,663 = 26  and 10 - 4 = 26
+                   -> the interval from 584 to 590 is TWENTY-SIX DAYS (590)
+                 RE-RUN AND UNCHANGED:
+                   1,663-1,662=1  1,663-1,655=8  1,663-1,570=93  1,663-1,115=548
+                   1,649-1,627=22  1,689-1,687=2  1,689-1,329=360  30-10=20
+MEASURE          590 said FOUR FEET of stone where canon, 545:52 and 584:113, both
+                 say FOUR INCHES and where 590 itself says four inches two
+                 paragraphs later. -> FOUR INCHES.
+                 590 said "at ten past five yesterday morning" for the eighth.
+                   1,689-1,687=2 and 10-8=2 -> "at a quarter to seven two
+                   mornings ago", which is 589's own card beat.
+ANNIVERSARY      the fifth anniversary of the second line is TWO days before the
+                 fifth anniversary of the morning. Closed at 589 and 590. Neither
+                 is an event. The fuse is not re-lit. No second time.
+                 590's new night-man scene may NOT become a re-lighting: he asks
+                 what day it is and is given nothing, and that is the whole of it.
+YEAR LABEL       584 used to make TWO claims about one date, 143 and 145. The
+                 footer's competing "fourth year" is cut. The cross-volume
+                 conflict behind it is NOT settled here and is owned below.
+REPETITION       nobody/never-thanks family = 0 in 581-590 (was 2), 6 book-wide,
+                 all in closed batches. "there is no form" family = 5 in the
+                 batch, down from 6, all in different chapters and none load-bearing.
+YEAR NAMES       0 weekday names. No year printed as a numeral anywhere.
+STILL OPEN       Lin Wei out of the city 0 · B103 0 · settle 0 · the account
+                 figure 0 and no floor · right temple 0 · Mavis Rooke confined to
+                 587 and 588, 3 occurrences, NONE of them in 590, which no longer
+                 carries the beat even in description · the white tile's maker ·
+                 Mavis's address above her door · the pencil in the desk ·
+                 Ines Duarte's standing review · Perrin Sowe not forgiven ·
+                 Mavis Rooke's page is in a building she cannot read · the
+                 fourth question and its three predecessors, none answered and
+                 none to be asked again.
+VOLUME           both boxes still blank at the end of 590 and may not be filled
+                 by any chapter of 591-600.
+SYSTEM PANELS    0 in this batch against a volume budget of five; 0002 spent one,
+                 so three remain.
+DUPLICATION      no shared staging added. 584's footer clause that imported 574's
+                 staging is GONE. 590's new night-man scene shares no furniture
+                 with 505, 546, 554, 564, 574 or 584: no counter that shuts at
+                 four, no shutter, no coat on a shutter, no seated paperwork, no
+                 hand flat, no page turned face down. It is a stair and a lamp.
+```
+
+## THE THREE THINGS THE NEXT PHASE INHERITS THAT IT MAY NOT UNDO
+
+**1 · THE `logs/batch-0004.review.log` IS A WRITER TRANSCRIPT AND NOT A REVIEW.** Its line 1 is `! agent "novel-reviewer" is a subagent, not a primary agent. Falling back to default agent` and line 3 is `> novel-writer · space-bunny-free`. The review phase fell back to the writer and re-ran it against its own output; `reviews/volume-12/` does not exist and `logs/batch-0004.log` and `logs/batch-0004.review.log` are the same phase run twice. **THE FINDINGS ABOVE WERE PRODUCED BY RE-DERIVING, WHICH IS THE ONLY REASON THEY EXIST. NO LATER PHASE MAY DESCRIBE A BATCH AS REVIEWED WHEN ITS REVIEW LOG IS A TRANSCRIPT, AND THE FIX BELONGS TO THE WORKFLOW, WHICH IS NOT THIS PROJECT'S TO EDIT.** See `state/current.md` §0d.1.
+
+**2 · `logs/batch-0003.review.log` IS CITED BY FIVE STATE FILES AND THREE ARCHIVED ONES AND DOES NOT EXIST.** The citations stand and the historic blocks are not deleted, because the repairs they describe are visible on the page. **The correction is this line: the log is absent as of 14 October 2026, so the batch-0003 repair rests on those state blocks and on the method at `reviews/volume-11/volume-close.md` §6b, and no later phase may treat that log as verified.** `reviews/volume-10/` is also absent. The volume-close must re-derive batch 0003 from the chapters rather than inherit its verdict.
+
+**3 · *THE SIXTH OF MARCH OF THE FIRST YEAR* AGAINST *THE SIXTH OF MARCH OF THE FOURTH YEAR* IS UNRESOLVED AND IS NOT MINE TO SETTLE.** The spine is `505 = 3 × 360 + 30 + 5 = 1,115` = the sixth of March of **year four**. The prose at `chapter-0545.md:66`, `chapter-0546.md:96`, `chapter-0553.md:79`, `chapter-0584.md:143` and `chapter-0590.md:73` says **the first year**, `chapter-0546.md:96` supports it with *stood under it anyway for four years*, and `outline/volume-12.md` §4d and §8 both say *year one*. Volume 11's own rule is that the spine is right and the prose around it is what gets repaired. **NO CHAPTER OF 591–600 MAY PRINT A YEAR AGAINST THE SIXTH OF MARCH, OR AGAINST ANY DATE THAT 545, 546, 553, 554 OR 505 DATES IN WORDS, UNTIL THE VOLUME-CLOSE SETTLES WHICH IS TRUE.** This pass's contribution is that 584 no longer makes both claims inside one chapter.
+
 # VOLUME 12 BATCH 0004 IS WRITTEN. CHAPTERS 581–590 ARE ON DISK. **TEN FINISHED FILES, 17,234 WORDS COUNTED PER FILE AND SUMMED. MOVEMENT FOUR, *CROSS-READ*. THE SEAM IS REPAIRED ON THE PAGE AND IN `outline/volume-12.md`. ONE SCENE, AT 584, INES DUARTE, SEVENTY-NINE CHAPTERS AFTER 505. ZERO SYSTEM PANELS IN TEN CHAPTERS AGAINST A VOLUME BUDGET OF FIVE. THE NEXT PHASE IS `workspace/volume-12/batch-0005/PROMPT.md`, CHAPTERS 591–600, MOVEMENT FIVE, *QUOTED*. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 600 AND VOLUME 12 IS NOT CLOSED — IT HAS TEN CHAPTERS LEFT AFTER THIS BATCH.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 > A writing phase. It wrote `chapters/volume-12/chapter-0581.md` … `chapter-0590.md` and `outline/volume-12.md` §7 movement four's ten cards against the page, plus the seam repair in §5c and §7, and nothing else. `outline/ending.md` is untouched. **No new enemy. No new `PC`. No scene outside 584. No second explicit vocabulary passage in a chapter that is not the scene.**

@@ -50,7 +50,9 @@ He had not expected relief and he had not expected to be glad of it, and he foun
 
 Every day since the eighth of October of the first year he had got up somewhere inside himself and checked the wall, and the check had cost him about four seconds and he had never once counted it, and it has been running in the background of a man cleaning three floors and a stairwell and a bin room for four nights in seven for five years.
 
-Nothing came. It is the plainest fact of the morning and it is the only fact in it: nothing came, and it has stopped coming, and the reason it stopped is not virtue and not a decision. The fuse was lit once and it was lit by a woman nobody thanked and it came due once and it came due to a woman with a sheet in her coat, and a thing with no holder does not come round a second time.
+Nothing came. It is the plainest fact of the morning and it is the only fact in it: nothing came, and it has stopped coming, and the reason it stopped is not virtue and not a decision.
+
+The fuse was lit once, in a called sitting with nine people in it, by a woman who has not been asked about it once in five years. It came due once, and it came due to a woman with a sheet in her coat. A thing with no holder does not come round a second time.
 
 Brack finished the figure and stepped back and wiped the chalk on his coat.
 

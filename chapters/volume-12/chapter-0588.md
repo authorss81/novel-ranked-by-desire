@@ -70,4 +70,6 @@ He came down the ladder.
 
 *The sixth of October, one thousand six hundred and eighty-five days. Less one thousand six hundred and eighty, the first of October, is five. Less one thousand six hundred and seventy-nine, the thirtieth of September, is six. Less one thousand six hundred and sixty-three, the fourteenth, is twenty-two.*
 
-*A page of this office has been lying out on a public desk in the passage of a building in Cordwain for six days, and it is the page that carries the name of Mavis Rooke in the ninth line down, and she is two flights up that same passage, and he had a pencil in his hand for about four minutes and did not use it, and there is nothing in this city that will now take the page back in, and in two days the line will have been up five years.*
+*A page of this office has been lying out on a public desk in the passage of a building in Cordwain for six days, and it is the page that carries the name of Mavis Rooke in the ninth line down, and she is two flights up that same passage.*
+
+*He had a pencil in his hand for about four minutes and did not use it, and there is nothing in this city that will now take the page back in, and in two days the line will have been up five years.*

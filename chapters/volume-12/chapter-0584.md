@@ -8,7 +8,7 @@ He had been in the building since eleven. Three floors and a stairwell and a bin
 
 He put the bucket down outside the door where it would not stand up in the night man’s way and came in and sat on the clear table with his hands on his knees, and the lamp was over the far side of the room and he could see her and she could see the paper.
 
-She audits this building. She has audited it since the first of October of the third year, four years, and she is not paid to stand in this room at half past one in the morning and she is there four nights in seven.
+She audits this building. She has audited it since the first of October of the third year, and that is two years less seventeen days, because two years in this city is seven hundred and twenty days, and she is not paid to stand in this room at half past one in the morning and she is there four nights in seven.
 
 She has read the same ground-floor corridor off the same sheet every working night of that time without once saying anything about it to anybody, including him, including the night man at the far end who carries a lamp and has never once asked her why she is here.
 
@@ -50,7 +50,7 @@ She put her palm flat on his chest once, the way a woman checks a thing she alre
 
 He got his shirt open and she got it off him over his head, because his arms had been up a hill of stairs since eleven o'clock, and she did it in one movement without stopping to look.
 
-She got her own dress up over her hips with one hand and took none of it off, because there is a corridor ninety feet long on the other side of a shut door and a bucket standing outside it, and a woman who has been auditing a building for four years does not undress in a room with a door on it.
+She got her own dress up over her hips with one hand and took none of it off, because there is a corridor ninety feet long on the other side of a shut door and a bucket standing outside it, and a woman who has been auditing a building for two years does not undress in a room with a door on it.
 
 Her mouth went onto his throat and then onto the knot under his jaw that three floors of carrying water puts there by about one in the morning, and she got her fingers on it in about two seconds and pressed, and neither of them said one word.
 
@@ -66,13 +66,13 @@ He came into her throat and the sound he made went up the corridor about ninety 
 
 She took all of it and swallowed it and wiped her mouth with the back of her hand and did not comment on any part of it.
 
-"Now me," she said, and pulled him off the table by the hip and turned him and put him into her herself, standing, with her back against the clear table and her hands on the edge of it behind her.
+“Now me,” she said, and pulled him off the table by the hip and turned him and put him into her herself, standing, with her back against the clear table and her hands on the edge of it behind her.
 
 She was wet already and she was tight for about a second and then she was not, and she watched his face while that happened and did not look away from it while the rest of it happened either.
 
 He went into her slowly, the way he does everything that nobody is timing him on.
 
-At about half past one she put both her hands flat on the table behind her and said his whole name and then said, do that again slower, which is the opposite of what she had said the first time, and he stopped.
+At about half past one she put both her hands flat on the table behind her and said his whole name and then said, “Do that again slower,” which is the opposite of what she had said the first time, and he stopped.
 
 Her cunt closed on him in the middle of each stroke and she rode him up against the edge of a table in a room with a lamp on it, and her knees came apart until she had to shift her feet to get the second of them, and she did that without a sound and without hurrying and without once asking him for anything.
 
@@ -92,7 +92,7 @@ He was at the door with the bucket when she spoke.
 
 He stopped.
 
-“You asked nobody why I have been auditing this building for four years.” She did not look up.
+“You asked nobody why I have been auditing this building for two years.” She did not look up.
 
 “I have read the same corridor every working night since the first of October of the third year and I have never once said anything about it out loud, and that is a rule of this room and not a rule of me. The job says a page is read in order, the date first, the hour with it, nothing skipped, and an auditor does not stop to be spoken to while a page is open.”
 
@@ -142,4 +142,6 @@ He took the bucket and went out along the corridor with the lamp still burning a
 
 *Three questions asked on the sixth of March of the first year, and a fourth asked on the fourteenth of September of the fifth, and four unanswered, and a page put face down about nine minutes on a clear table in an audit room off a third court, which goes in a private note and in no page at all.*
 
-*The fourteenth of September, one thousand six hundred and sixty-three days. Less one thousand six hundred and sixty-two, the thirteenth, is one. Less one thousand six hundred and fifty-five, the sixth, is eight. Less one thousand five hundred and seventy, the eleventh of June, is ninety-three days, and there has been nothing between those two rooms since a woman read a second column aloud off a proof she keeps face up. Less one thousand one hundred and fifteen, which is the sixth of March of the fourth year and the last time she asked him anything, is five hundred and forty-eight.*
+*The fourteenth of September, one thousand six hundred and sixty-three days. Less one thousand six hundred and sixty-two, the thirteenth, is one. Less one thousand six hundred and fifty-five, the sixth of September, is eight. Less one thousand five hundred and seventy, the eleventh of June, is ninety-three days, and she has not asked him one thing in that time and has not stopped auditing.*
+
+*Less one thousand one hundred and fifteen, which is a sixth of March and the last time she asked him anything, is five hundred and forty-eight days.*
