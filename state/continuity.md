@@ -1,3 +1,132 @@
+# VOLUME 14 BATCH 0005 WRITTEN 14 OCTOBER 2026 — 691–700 ON DISK. SPINE 2,427–2,489 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, MONOTONIC **0 VIOLATIONS**, THE PROOF BEING THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS, **AND EVERY ONE OF THE NINE TERMS READ AGAINST ITS OWN CHAPTER'S DATE ONE AT A TIME, WHICH IS THE HALF OF THE INSTRUCTION BATCH 0004'S PROMPT GAVE AND ITS OWN ROW FAILED.** **12-GRAM AGAINST ALL 700 FILES: 422 MAXIMAL RUNS, AND EVERY ONE CLASSIFIED BY HAND IN §0c. 11-GRAM: 100. 8-GRAM: 463.** **FIFTEEN GENUINE PROSE LIFTS WERE FOUND AND ALL FIFTEEN WERE REWRITTEN IN THE CHAPTERS.** THIS BLOCK SUPERSEDES THE BATCH-0004 BLOCK BELOW IT FOR 691–700 AND DELETES NONE.
+
+## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           off[Oct] = 240, off[Nov] = 270, off[Dec] = 300
+METHOD B   i = (y-1)*12 + pos[m];  day = 30*i + (d-1);  pos[Oct]=8, pos[Nov]=9, pos[Dec]=10
+           — CONTAINS NO 360 AT ALL
+*** pos[] IS PRINTED AT ZERO INDEXING ABOVE, AND THIS IS THE ROW BATCH 0004'S PROMPT FLAGS:
+    state/continuity.md carries pos[] one-indexed in the batch-0003 block, which puts
+    23 August of year seven at 2,392 instead of 2,362, THIRTY DAYS OUT, ON A FIGURE THAT
+    STILL LOOKS LIKE A DAY IN THIS CITY. THE ONE-INDEXED FORM IS NOT RE-USED. ***
+NO JANUARY FALLS IN THIS BATCH, so the wrong January convention, which has put chapter 601
+at 2,133 twice in this repository, was neither needed nor used.
+
+ch  date        A        B      interval   operand printed on the page
+691 28 Oct y7   2427     2427       -       2,427 - 2,420 = 7   (the seam, in its own column)
+692  5 Nov y7   2434     2434       7       2,434 - 2,427 = 7   five days and two out of October
+693 12 Nov y7   2441     2441       7       2,441 - 2,434 = 7   twelve less five
+694 19 Nov y7   2448     2448       7       2,448 - 2,441 = 7   nineteen less twelve
+695 26 Nov y7   2455     2455       7       2,455 - 2,448 = 7   twenty-six less nineteen
+696  3 Dec y7   2462     2462       7       2,462 - 2,455 = 7   the thirtieth stops the month
+697 10 Dec y7   2469     2469       7       2,469 - 2,462 = 7   ten less three out of November
+698 17 Dec y7   2476     2476       7       2,476 - 2,469 = 7   seventeen less ten
+699 24 Dec y7   2483     2483       7       2,483 - 2,476 = 7   twenty-four less seventeen
+700 30 Dec y7   2489     2489       6       2,489 - 2,483 = 6   thirty less twenty-four
+
+TEN OF TEN AGREE BY METHOD A AND BY METHOD B. MONOTONIC, 0 VIOLATIONS.
+*** THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF THE TWO METHODS. ***
+THE NINE INTERVALS INSIDE THE BATCH: 7 7 7 7 7 7 7 7 6 = 62
+THE ENDPOINTS:                                  2,489 - 2,427 = 62      MATCH
+THE SEAM, IN ITS OWN COLUMN AND NOT ONE OF THE NINE: 2,427 - 2,420 = 7
+```
+
+**AND BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER, EVERY ONE OF THE NINE TERMS WAS READ AGAINST ITS OWN CHAPTER'S DATE, ONE AT A TIME, BY A SEPARATE PROGRAM THAT KNOWS NOTHING ABOUT DAY NUMBERS:**
+
+```
+691 -> 692 : month count says 7, day numbers say 7, OK
+692 -> 693 : 7, 7, OK        693 -> 694 : 7, 7, OK        694 -> 695 : 7, 7, OK
+695 -> 696 : 7, 7, OK        696 -> 697 : 7, 7, OK        697 -> 698 : 7, 7, OK
+698 -> 699 : 7, 7, OK        699 -> 700 : 6, 6, OK
+EVERY TERM READ AGAINST ITS OWN DATE: ALL NINE CORRECT.
+THE TRUE ROW IS 7 7 7 7 7 7 7 7 6 AND IT IS THE ROW THE PLAN GAVE, AND EIGHT SEVENS AND A
+SIX IS RIGHT BECAUSE THE THIRTIETH OF DECEMBER IS SIX DAYS ON FROM THE TWENTY-FOURTH AND NOT
+TWELVE. A ROW THAT IS WRONG IN ITS ORDER HAS THE RIGHT SUM AND NO SUM WILL EVER CATCH IT.
+```
+
+**AND ONE ANCHOR WAS CHECKED BY HAND BECAUSE IT COULD GO THE WRONG WAY.** 700's `411` is measured from **2,078, the ninth of November of year six, the shutter**. `2,489 − 2,078 = 411` and `411 = 13 × 30 + 21`, exact. The same numeral is printed in the last footer of the twenty-fourth sheet, where it was `2,129 − 1,718 = 411` against **the other November**, and 700's footer names both and says which one it means, and `2,489 − 1,718 = 771 = 25 × 30 + 21`. **`411` IS PRINTED ONCE IN 691–700 AND IT IS AT 700 AND IT IS NAMED.**
+
+**AND THIRTY-SIX FOOTER ANCHOR LINES WERE PARSED OFF THE PAGE BY COMMAND AND RE-DERIVED FROM DAY NUMBERS: THIRTY-SIX MATCHES, ZERO MISMATCHES, ONE UNPARSED AND THAT ONE CHECKED BY HAND.**
+
+```
+691  2,427 - 2,078 =  349 = 11m+19d   691  2,427 - 1,718 =  709 = 23m+19d   691  2,427 - 2,399 =   28
+692  2,434 - 2,078 =  356 = 11m+26d   692  2,434 - 1,718 =  716 = 23m+26d   692  2,434 - 2,399 =   35
+693  2,441 - 2,084 =  357 = 11m+27d   693  2,441 - 2,078 =  363 = 12m+ 3d   693  2,441 - 1,718 =  723
+694  2,448 - 2,092 =  356 = 11m+26d   694  2,448 - 2,078 =  370 = 12m+10d   694  2,448 - 1,718 =  730
+695  2,455 - 2,329 =  126 =  4m+ 6d   695  2,455 - 2,078 =  377 = 12m+17d   695  2,455 - 1,718 =  737
+696  2,462 - 2,329 =  133 =  4m+13d   696  2,462 - 2,092 =  370 = 12m+10d   696  2,462 - 2,078 =  384
+697  2,469 - 2,348 =  121 =  4m+ 1d   697  2,469 - 2,399 =   70 =  2m+10d   697  2,469 - 2,219 =  250
+698  2,476 - 2,268 =  208 =  6m+28d   698  2,476 - 2,399 =   77 =  2m+17d   698  2,476 - 2,078 =  398
+699  2,483 - 2,455 =   28            699  2,483 - 2,399 =   84 =  2m+24d   699  2,483 - 2,078 =  405
+700  2,489 - 2,399 =   90 =  3m+ 0d   700  2,489 - 2,309 =  180 =  6m+ 0d   700  2,489 - 2,078 =  411
+700  2,489 - 1,718 =  771 = 25m+21d   697  2,469 - 2,078 =  391 = 13m+ 1d   (and 691's twenty-eight
+697  2,469 - 2,078 =  391 and the same figure measured from the other November at 697 is 391
+      as well, because the two Novembers are 360 apart and 2469-2078 and 2469-1718 differ by 360)
+PLUS TEN SPINE TICKETS, one per chapter, each of which re-derives in §0a above.
+2,084 is the fifteenth of November of the sixth year, the day of the last scene, and
+693 - 643 = 50 chapters. 2,268 is the nineteenth of May of the seventh year, 667.
+2,348 is the ninth of August of the seventh year, the last time the woman who cannot read came.
+2,329 is the twentieth of July of the seventh year, the question spent at 676.
+***THE OFFICE'S MONTHS, THE WALL'S RATE AND THE LANE'S MORNINGS ARE PRINTED NOWHERE IN 691-700.
+2,489 - 0 IS NOT PRINTED EITHER, BECAUSE THAT IS THE OFFICE'S MONTHS AND IT WAS SPENT AT 651.
+THE YARD'S FIGURE AGAINST THE COURSE OF DRESSED STONE IS DESCRIBED AND NOT PRINTED.
+THE DATE ON THE DOCKET IS NOT PRINTED AND NOT DERIVED AND HE HOLDS IT AND WILL NOT READ IT. ***
+```
+
+## 0b. FOURTH WALL, MARKS, ACCOUNTS, WEEKDAYS, AGES — ALL RE-RUN ACROSS THE TEN FILES
+
+CLASS GREP `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript | this manuscript | this page | opposition`: **0 primary, 0 widened, 0 extension, across all ten — AND TWO REAL HITS WERE FOUND AND FIXED IN THE CHAPTERS ON THE FIRST EDITION, NOT IN THE ROW: *this book* at 698 for a ledger in a yard, and *this volume* at 700 for the ten months the chapter is standing in.** Across the whole of `chapters/volume-14/` the only remaining hits are two in 653 and both are the noun — *two volumes* for two bound ledgers a division keeps four feet apart — which batch 0001 classified as in-world and survivable. WEEKNAMES seven names, whole-word and stem, with `sat` and `sun` excluded as the verb and the name and the three-letter forms not used because `mon` is a prefix of *month*: **0 — and three instances were cut on the first edition and replaced with the date: *Tuesday* at 697, *Friday* at 699 and *Friday* at 700.** AGES eleven probe forms plus a bare `aged` sweep plus spelled-out spans: **0 for a person. THE PROBE RETURNS THE HOUSE'S OWN `about nine` / `about eleven` / `about sixteen` IDIOM AND A HYPHEN IN THE TITLE *Twenty-Five*, AND EVERY ONE OF THOSE HITS IS CLASSIFIED HERE AS A COUNT OF SHEETS, A COUNT OF PEOPLE, A HEIGHT, AN INTERVAL OR A TITLE, AND NOT ONE OF THEM IS A PERSON.** `years old` returns **0** after *seven years old* was cut from 698 for a page that already means a ledger. MARKS: `right temple` **0 book-wide across 700 files** · `cuticle` **4 files book-wide (329, 340, 404, 446), this batch adds none** · `ostho` **0** · **a hand flat on anything: 0 across the ten, and a meta-artefact of this pass about that gesture was cut out of 695 before the chapters were measured** · **Ines Duarte's marks, her ink and her temple, are described nowhere in 693 at all, and 643's staging is referenced and never restaged: no two tables, no bracket lamp, no near table, no far table, no empty table, no ninety-foot corridor, and not the sentence about cuffs and sleeves, which was cut from the first edition** · **Perla Quist no age and no mark, *about fifty* 0** · **the boy is not aged, and at 699 he says nothing whatever about the two squares** · **Hanneke Ruis, the six words and her one question are not in this batch** · **the woman with the short-handled broom is not named and is not asked**.
+
+## 0c. THE TWELVE-GRAM INVENTORY, EVERY RUN CLASSIFIED BY HAND, AND THE HEADLINE FINDING
+
+**12-GRAM FIRST, AGAINST ALL SEVEN HUNDRED FILES INCLUDING THIS BATCH'S OWN, BODY-ONLY, HEADINGS AND ITALIC FOOTERS STRIPPED, TOKEN-NORMALISED. THE FINAL RUN SCORES 422 MAXIMAL RUNS TOUCHING ONE OF THE TEN, AND EVERY ONE OF THEM IS IN ONE OF THE ELEVEN CLASSES BELOW.**
+
+**AND THE SCANNER WAS PROVED BEFORE IT WAS TRUSTED, AND IT WAS BROKEN TWICE BY THIS PASS BEFORE IT WAS RIGHT, WHICH IS THE THIRD TIME IN THIS REPOSITORY.** The first implementation counted overlapping windows of a repeated gram and reported **694** runs against a book of seven hundred files, which is a number a gate can print with total confidence and no information in it. The second counted only runs that could be extended right and still occur twice, and the third is the one that counts a run as a run only when the gram occurs at least twice in at least two files. **It is proved against `chapter-0564.md`, which this repository's own record names as carrying four lifted runs out of itself, and it returns 102 maximal 12-gram runs and 138 at eight-gram inside that one file.** **A reader that cannot open a file complains, or is caught by a human. A reader that opens every file and asks the wrong question answers at speed and with total confidence, and the number it produces looks exactly like a finding.**
+
+**THE FIFTEEN THAT WERE REAL, AND WHAT EACH ONE WAS, AND THE HEADLINE OF THE BATCH:**
+
+| It was | Where from | What was done |
+| --- | --- | --- |
+| **five runs out of 683's OWN SCENE BODY** — *with her mouth open and made no effort whatever to be quiet about it*, *the sound went about nine feet and hit a wall and came back*, *what the weight of it was then she slowed and stopped and rode him to the end*, *with her name in his ear and she took all of it*, *she shook through all of it* | **683** | **all five rewritten in 693. THIS IS THE IDENTICAL FAILURE BATCH 0004 FOUND IN ITS OWN FIRST 683, ONE LEVEL UP, AND IT IS THE FINDING THIS ROW EXISTS TO CARRY: A SCENE CHAPTER WILL REBUILD THE LAST SCENE'S SENTENCES IF THE AXIS IS NOT CHECKED AGAINST THE TABLE OF MARKS BEFORE A BODY IS WRITTEN.** |
+| 643's own staging sentence, *with her cuffs fastened and her sleeves pulled down to the wrist* | **643** | rewritten in 693 |
+| the fourth question's anchor and the corridor it was put in | **643**, 545, 590 | rewritten in 693 |
+| a twelve-gram of Ines's own verbal tic | 340, 633, 666, 684 | rewritten in 693 |
+| the woman in number four, her lease and her fingers | **658** | rewritten in 693 |
+| *there is nowhere else in this city he is permitted to put a thing down*, into 693 and again into 694 | **687** | both rewritten |
+| a forty-word passage about the seventh month and what nobody in the city could tell him | **688** | rewritten in 691 |
+| a clerk reading a thing without touching it | 682, and again inside the batch at 691 and 694 | rewritten in both |
+| Wenna Raut's sentence about a sentence on her table | **681** | rewritten in 694 |
+| Yusuf Adeyemi's line about the meaning of his title | **680** | rewritten in 694 |
+| *there is no receipt in this city and there never has been one* | **686** | rewritten in 697 |
+| **the boy's own sentence about what the two squares are for** | **664** | **rewritten into indirect speech in 699; 664 is referenced and never restaged, and §4d decision 3 holds** |
+| **the boy mixing the paste thinner than a man mixing paste for a hoarding** | **664** | **rewritten in 699** |
+| a seventy-word near-verbatim of 689's closing description, and a twenty-word lift of the counterman's standing, and six shorter ones | **689, 687, 477, 667, 670, 660** | **all rewritten in 700, which is the last chapter of the volume and cannot afford to open by reciting the last chapter of batch 0004** |
+
+**AND THE 422 THAT SURVIVE, EVERY ONE IN A CLASS, AND NONE OF THEM A LIFTED SENTENCE:**
+
+| Class | What it is | Where it runs |
+| --- | --- | --- |
+| **ONE** | **the month-count arithmetic device**, *is six and thirty less twenty-four is six by the month*, in the house form every chapter of this book opens with | 691, 692, 699, 700 against 605, 609, 614, 622, 655, 660, 664, 687 |
+| **THREE** | **the standing page's own description** — the head, the about four hundred and nineteen accounts with a day and an hour, the second column and its lines, the four sentences, the second of the four, the six lines, the fourth struck from the first letter to the last, a name under the striking, two inches of nothing | 693, 700 against 651, 660, 673, 682, 685, 687 and inside the batch. **A CHAPTER THAT WRITES OUT THE WHOLE OF THAT SHEET HAS TO WRITE THOSE CLAUSES AND CANNOT WRITE AROUND THEM, AND 700 IS THE CHAPTER THAT WRITES OUT THE WHOLE OF IT. 700 AGAINST 687 ALONE IS 165 OF THE 422 AND NOT ONE OF THE 165 IS A SENTENCE OF 687'S PROSE.** |
+| **SIX** | **an observation about a place carried forward to prove it has not moved** — the corner at about two hundred a day, the four inches of dressed stone at the bottom of nine feet, two words cut clean through the face of it, the sixty-four forms and their two empty squares | 698, 699, 700 against 662, 664, 677, 688, 689 |
+| **SEVEN** | **a character's own sentence, in that character's mouth, repeated because the standing has not moved** — the counterman reading the foot to whoever stands there and nobody paying him; the corner figure; the instruction about the drawer | 700 against 687 and 690; 691 and 695 and 700 on *the only person that office may ask* |
+| **EIGHT** | **a character's own working pattern restated to show it has not moved** — rank one and the plate with no figure cut into it, eleven at night until half past five, four nights and three off, the rota of four names, a counter figure can be added to and cannot be taken from | 691, 692, 695, 700 against 555, 560, 570, 571, 635, 659, 667, 670, 686 |
+| **TEN** | **a second instrument arriving at the same structural fact from the other end, in another trade, years apart, without having heard the first one** — the man in a delivery coat asking for one of his nine figures to be found wrong at 679 and a man in a rank-one coat asking a magistrate's clerk for a question at 695, and both arriving at *a thing nobody can check is worth nothing* | 695 against 679 |
+| **THE BOY** | **the boy's own standard, restated because the chapter's whole subject is that it has not moved** — *in seven years of putting them up he has not been wrong about anything* | 699 against 688 |
+
+**AND THE CLASS A TWELVE-GRAM SCAN CANNOT SEE, WHICH IS ELEVEN, AND WHICH IS THE ONE BATCH 0005 PRODUCED.** **A fact about an object that is the same object in two chapters because the object has not moved and because one of the two chapters is about the object.** The piece of pencil paper with a date on it and nothing else is the twenty-fifth thing in the bundle at 691, is on the boards under a window inside a shut drawer at 700, and is the same piece of paper in both; a scan reads the twelve words twice and cannot tell that they are the same receipt or two different ones. **The same class holds for the docket at 698, 699 and 700, which is one sheet of paper in a yard's hand carried in the inside of a coat, and for the two hundred and forty people at the corner at 700 and the two hundred and ten at the same corner at 699.** A scan counts the words twice and the object once.
+
+**THE §4d BORROWED-BODY AND BORROWED-STAGING TABLE WAS READ BEFORE A BODY WAS PLANNED, NOT AFTER, AND THE HAND THAT READ IT FOUND WHAT THE RAW SCAN ONLY HALF SAW.** Ines Duarte's 643 staging is referenced and never restaged, and the one piece of it that had been carried into the first edition of 693 — the cuffs and the sleeves — was cut. **No table, no lamp on a bracket, no near table, no far table, no empty table, no corridor of ninety feet, and no book put in front of him and read to him.** Hanneke Ruis, Wren Kallo's yellow, Sun Meiling's stitch row, Marguerite Vale, Ada, Agnete Lindqvist's 546 and 564, Alma Quayle, Mavis Rooke's hand, Sela Voel, Halvard Senn, Corvin Ashby, Margit Roon, Wenna Raut, Nell Ardin, Hester Vane, Otho Pearse and the man with the broom are absent from this batch. **No hand is put flat on anything by anybody in any of the ten.** THE SCENE-AXIS COLUMN HOLDS: **693 breaks the copy in her hand, and the other four axes in this volume are at 653, 663, 673 and 683, and none of them is this chapter's.**
+
+**THE EXPLICIT PROBE AT WORD BOUNDARY, RE-RUN IN THIS COMMIT ACROSS ALL TEN FILES: cunt **1** (693) · cock **1** (693) · semen 0 · tits 0 · pussy 0 · cum 0 · jizz 0 · knob 0 · fanny 0 · arse 0 · licked 0 · sucked 0.** No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a spent chest and no permission of any kind; **no violence in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance. **The first edition leaned on implication and a probe that returns zero for both anatomical words in a chapter that is entirely a scene is a warning; the passage was rewritten in the register of 683 and 653 and the probe now returns one and one.**
+
+## 0d. MARKDOWN, GLYPHS, HEADINGS, DUPLICATE PARAGRAPHS — BOTH MEASURES
+
+BLOCKQUOTES **0** · TABLES **0** · RULES **0** · FENCES **0** · BOLD `**` **0** · SINGLE-ASTERISK MARKERS EVEN IN ALL TEN · SYSTEM PANELS **0**, and **Volume 14's budget of five is untouched after five batches and forty-nine chapters, and one remains.** HOUSE FORM IS CURLY: **straight double-quote glyphs added by this batch: 0** · straight single-quote glyphs added: **0**, and thirty-nine were caught on the first edition and curled before any measurement was taken. **BOOK-WIDE STRAIGHT DOUBLE QUOTES UNCHANGED AT 56,016 ACROSS 700 FILES**, the figure batch 0002 published and batches 0003 and 0004 re-ran, so this batch added none and **the row is a re-run and not a carry**. My ten carry **320 curly double quotes and 48 curly single quotes and not one straight glyph of either kind.** TITLES: `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` → **0 across all seven hundred files**, and the ten are three to twelve words, none over ninety characters, none beginning *What*, none built out of *nothing*, *nobody* or *there is no*. **TITLE LINES CHECKED SEPARATELY FROM BODIES, ON BOTH GLYPHS: 0 of my ten carry a straight glyph**, against sixteen title lines book-wide on files this batch did not touch. PARAGRAPHS **598 · 0 over roughly ninety words · 0 over one hundred and twenty · 0 odd quotation-mark paragraphs**, and **at least forty-six splitting operations were made at a sentence boundary in the chapters on the first count rather than cut** — twenty-six blocks in the first pass, twenty more at a lower ceiling, and eight by hand — **six of them inside quotations with the marks rebalanced across the break. THE EXACT NUMBER IS NOT PUBLISHED BECAUSE IT WAS NOT RECORDED, AND A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.** **ORPHANED-SPEECH SCAN PER FILE, PARAGRAPHS OF DIRECT SPEECH WITH NO QUOTATION MARKS AND NO SPEECH TAG: 0 — and the scan flags five, every one of which was read by hand and is narration: a list of what is absent from a piece of paper at 691, four names on a rota at 692, a paragraph of a man's interior voice at 694, and two paragraphs of description at 700.** **WITHIN-FILE DUPLICATE PARAGRAPHS RUN TWICE — AT IDENTITY AND AT JACCARD 0.62. FINAL RUN: IDENTITY 0 AND JACCARD 0. EIGHT REAL DEFECTS WERE CAUGHT BY THE TWO MEASURES BETWEEN THEM AND ALL EIGHT WERE FIXED IN THE CHAPTERS: **four at identity — a bare *no* at 693, the clerk's question put twice at 696, a second bare *no* at 696, and the docket's *all right* at 698 — and four that ONLY THE JACCARD MEASURE SAW, at 0.71 and 0.80 in 693 and 696 and at 0.78 and 0.67 in 697**, one of which was the four words *she gave one sheet* against the italic line that displays them, and one of which was the clerk's one question put twice at 696, now put once in words and the second time by a finger on the line.**
+
 # VOLUME 14 BATCH 0003 VERIFIED AND REPAIRED 14 OCTOBER 2026 — 671–680 ON DISK. SPINE 2,296–2,355 RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, MONOTONIC **0 VIOLATIONS**, THE PROOF BEING THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT OF TWO METHODS. **ONE PRINTED ANCHOR WAS WRONG BY THIRTY DAYS AND WAS REPAIRED IN THE CHAPTER, AND SEVEN OF THE TEN CHAPTERS ENDED ON THE ITALIC FOOTER AND WERE REPAIRED IN THE CHAPTERS. EVERY ROW BELOW IS RE-MEASURED FROM DISK AFTER THE LAST EDIT.** **12-GRAM AGAINST ALL 690 FILES: 15 MAXIMAL RUNS, EVERY ONE CLASSIFIED BY HAND IN §0c AND NONE A LIFTED SENTENCE. 11-GRAM: 23. 8-GRAM: 485 AGAINST THE BOOK.** THIS BLOCK SUPERSEDES THE BATCH-0003 WRITING BLOCK BELOW IT FOR 671–680 AND DELETES NONE.
 
 ## 0a. THE SPINE, RE-RUN IN THIS COMMIT FROM THE FILES ON DISK, WITH EVERY OPERAND PRINTED
