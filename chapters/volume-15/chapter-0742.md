@@ -80,7 +80,7 @@ He stood at the end of the bench with the sheet in his hand and understood that 
 
 ## She Has Not Come Back
 
-She came back on the eighth of December, which is three hundred and twenty-five days ago now, and she did not come back for a second reason and she did not send anything and she did not say she was coming.
+She came back on the eighth of December, which is three hundred and twenty-seven days ago now, and she did not come back for a second reason and she did not send anything and she did not say she was coming.
 
 She has not been to that table since, and she is not going to be told by anybody in this city that there is a second sheet, because this office has sent nobody and will send nobody, and because she has been asked nothing in about a year and is not going to be asked anything now.
 

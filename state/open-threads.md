@@ -1,3 +1,72 @@
+# VOLUME 15 CLOSED — CHAPTERS 701–750. **NOTHING IS CLOSED BY A VOLUME ENDING.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM, AND EVERY THREAD BELOW IT IS RETAINED IN FULL AS THE RECORD OF WHERE IT WAS AT THE END OF EACH BATCH.
+
+**A CLOSE AUDIT IS NOT A CLEAN-UP. EVERY LINE IN THE TABLE BELOW IS LIVE AT 750 AND EVERY OWNER COLUMN IS UNCHANGED.**
+
+## THE ONE THREAD VOLUME 15 OPENS, AND IT IS THE LAST THING THE BOOK PUT ON A PAGE
+
+**SOMEBODY TOLD HER.** At about four minutes past four o'clock on the thirtieth of December of year eight, a man with a cap in his hands told a woman in a passage off Cordwain that a building had put a woman's name on a sheet. `chapter-0750.md`:34`, `:40`. She told somebody else; it is in about four kitchens by the end of the week and will be in about nine by the end of the month. `:42`, `:86`.
+
+**A woman who cannot read is going to walk up four flights to a third table in the first week of the ninth year with a piece of paper that has four words on the back of it in a clerk's hand that she has never once been able to read, and she is not coming because she wants to know whether it is right.** `:92`, `:106`. She has asked that question eleven times in eleven months and this office has answered it eleven times and the answer has been no every time. `:94`.
+
+**WHEN SHE GETS TO THE TOP OF THAT STAIR A WOMAN AT A BENCH IS GOING TO READ HER THE ONLY SENTENCE IN THIS CITY ABOUT HER, AND WHAT WILL COME BACK WILL NOT BE AN ANSWER.** `:100`, `:102`.
+
+**NOBODY SENT HER. NOT THIS OFFICE, NOT A CLERK, NOT THE COUNTERMAN, NOT BRACK, NOT PERLA QUIST. THIS OFFICE HAS NEVER SENT ANYBODY TO ANYBODY IN NINE YEARS AND DID NOT SEND ANYBODY IN DECEMBER EITHER, AND THERE IS A FORM ON WHICH IT COULD NOT HAVE SENT ANYBODY IF IT HAD WANTED TO.** `:84`, `:106`.
+
+**WHO TOLD HER IS NOT ESTABLISHED AND MAY NOT BE ESTABLISHED.** The counterman is asked, at `chapter-0749.md`:42, *Who was she*, about the woman who told **him**, and refuses at `:44`. **No chapter of 701–750 names the man with the cap and no chapter says who told her, and a Volume 16 may not name him either.** The thread is about a thing nobody owns.
+
+## EVERY THREAD, AT THE CLOSE OF VOLUME 15, WITH ITS OWNER
+
+| Thread | Where it stands at 750 | Whose |
+| --- | --- | --- |
+| **THE WOMAN WHO CANNOT READ** | not named, not traced, nobody sent, nothing asked; and **she is coming back** | the next volume, if there is one |
+| **THE NAME IN THE SECOND COLUMN** | entered 3 December, four lines in the column, cannot be taken out, out on the rail since four o'clock on the thirtieth and read to eleven people by a man who is paid nothing and cannot be asked to read less | paid. Carried forward as a fact, not as a debt |
+| **THE DENIAL** | on the page, out, read to the bottom about nine times a week, **about nine feet above the line it undoes** | — |
+| **THE BLANK FIELD** | in the Register, the first empty field in nine years, cannot be filled in afterwards; its cost stated once, in words, for one person, at 750:68`–`:78 | paid |
+| **THE DRAWER** | opened once, for about four hours, on the fourteenth of October; shut at half past three; **can never be opened again by anybody, including him** | — |
+| **THE EMPTY SHEET** | the twenty-sixth thing on a bundle; read twice; empty both times; on a table where nothing can ever be found again | — |
+| **THE BUNDLE** | **twenty-six things, and the twenty-sixth is the only one anybody has ever read.** The bundle is now understood on the page to be the only instrument in Ostara that holds a piece of paper without making it into a record, and its price is a floor | closed as a question; the table stands |
+| **THE TWO RECORDS** | nine sheets under a third table and a grey cloth book in a pigeonhole; neither an instrument; neither citable; he is the only person who knows both and is not going up that stair again | — |
+| **THE FOUR HUNDRED KITCHENS GOING QUIET** | **predicted, in four mouths, and NOT SHOWN HAPPENING.** 719:47`–`:73 · 748:93`–`:101 · 749:81 · 750:44`–`:48. Not one of the four hundred is ever told why | the next volume, if there is one |
+| **THE CLAIM WITH AN AGE ON IT** | standing since 727, by a clerk's ordering, in a book behind a counter that goes out to nobody; **nobody in any kitchen knows which kind of paper they hold** | — |
+| **THE BOUND** | older than the thirtieth of September of year seven and not a day more, entered 715, never acted on | — |
+| **THE HEADING `CARRIED BY`** | printed by a works department two streets away that this office has not written to in nine years, and cannot be taken off a form | — |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | neither named nor asked, second running volume; in 750 at about ten past seven sweeping four inches | — |
+| **THE BOY** | asked once, at 724, by somebody who is not Lin Hao; did not answer; the reason given in about nine seconds and not argued with; **not on the page at all after 738** | — |
+| **THE TWO WORDS ON THE STONE** | not printed anywhere in 701–750; the claim about them is still unanswerable, and unanswerable is what is keeping about four hundred kitchens writing what they believe; the backward check at 731 covers only the copies brought to one laundry and there is no list of the others | — |
+| **THE DOCKET** | **its thread closed at 712** on an answer that is a fact about a building and not about a man. Who cut them is still not said, Sander Vole is still not asked a third time, and Lin Hao does not go back to that yard | closed |
+| **THE SCENE CADENCE** | 703 · 713 · 723 · 733 · 743 spent, at gaps of 10 · 10 · 10 · 10 · 10. Per-woman 90 · 110 · 100 · 100 · 326, **reported and not certified**, and no file in this repository may certify that column | — |
+| **THE FIVE INHERITED REFUSALS** | Dagmar Oyelowo absent, `PC-44` holding · Perrin Sowe not forgiven and not discussed · Hanneke Ruis not reopened · Ines Duarte's five questions all still open and none answered · the keeper's six words not reopened · the instrument sworn on the ninth of May never to use, still unused · Mrs Imrie asked nothing, ever | — |
+| **THE ELEVEN OBJECTS IN THE DRAWER UNDER PERLA QUIST'S BENCH** | about eleven things nobody has ever been able to use, and since 742 a twelfth: an office sheet with four words on the back in a clerk's hand that says *she gave one sheet*, which is the only sentence about that woman in this city that can be read out loud | — |
+
+## WHAT A VOLUME 16 MAY OPEN, AND WHAT IT MUST NOT
+
+**MAY OPEN, AND THE AUDIT SETS OUT THE RAW MATERIAL AT `reviews/volume-15/volume-close.md` §15:** the woman who cannot read, arriving at the top of that stair; the four hundred kitchens going quiet; the second column with a living person's name on it going out four times a year to about two thousand counters; the denial nine feet from the line it undoes; the counterman's standing, which nothing in this city can remove; Emil Brack's price, unpaid and unthanked; the drawer that can never be opened again; and the twenty-sixth thing on a table where nothing can ever be found again.
+
+**MUST NOT, AND EACH ONE IS A STANDING DECISION AND NOT A RESTRAINT:**
+
+1. **MUST NOT SEND ANYBODY TO FIND THE WOMAN WHO CANNOT READ.** §4d decision 4 is standing, is not spent, and was not weakened by anything in 701–750. Nobody is sent in the last chapter either.
+2. **MUST NOT NAME THE WOMAN WITH THE SHORT-HANDLED BROOM AND MUST NOT ASK HER.** Second running volume.
+3. **MUST NOT ASK THE BOY ABOUT THE TWO WORDS**, and must not age him.
+4. **MUST NOT PRINT THE TWO WORDS ON THE STONE, and must not assert they are the same as any heading or as anything on the quarterly page.**
+5. **MUST NOT TAKE LIN HAO BACK TO THE STONE YARD, raise his band, buy a permission, offer him a standing, or move him off the branch night shift he asked for.**
+6. **MUST NOT MOVE THE HEAD.** 852, and no permission exists.
+7. **MUST NOT ARGUE THE REACH OF THE RETURN IN EITHER DIRECTION**, state the fourth condition either way, or print the figure of the account or any floor, total or balance in grains.
+8. **MUST NOT PRINT THE DOCKET'S DATE.**
+9. **MUST NOT INTRODUCE A NEW ENEMY.**
+10. **MUST NOT LET ANYTHING TOUCH `outline/ending.md`** — Lin Wei alive and classified, the reservoir returned in full and never replenished, rank one, Ferreira and Sowe alive, Adeyemi Registrar of Unrecorded Merit, no partner dead, no partner left behind unexplained.
+
+## THE THREE FINDINGS THIS CLOSE PASS ADDS TO THE THREAD TABLE, NONE OF THEM A STORY THREAD
+
+1. **THE RAIL COUNT IS WRONG IN TEN CHAPTERS.** 729 and 730 by +1; 741, 742, 744, 745, 746, 747, 748 and 749 by **+7**. The rule is `chapter day − (day the current sheet went up)` and the current sheet goes up on the quarter-end, proved by the volume itself at `chapter-0737.md`:93. **Ten one-token corrections, no word count moves. OWNED BY THE NEXT PASS GIVEN 721–730 AND 731–750 TOGETHER. NOT REPAIRED BY THIS PHASE.**
+2. **`chapter-0720.md`:129 reads *Four hundred and nine people brought paper to that door*,** putting the count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 and against the volume's own separation at 716 and 729. **One word. OWNED BY A PASS GIVEN 711–720.**
+3. **THE RECORDED BODY-COUNT BASIS IS NOT ONE BASIS.** The column labelled `## ` heading lines stripped is on the `^#` basis for 731–740 and the `^##` basis for 741–750. **Per batch on `^#`: 21,876 · 22,335 · 19,173 · 20,454 · 22,323. On `^##`: 21,935 · 22,407 · 19,237 · 20,513 · 22,382. Volume 108,323 raw. One basis must be chosen and named, and this is not a fiction change.**
+
+**AND TWO RECORD CLAIMS CORRECTED HERE RATHER THAN BY EDITING AN OLDER BLOCK:** the head of the quarter-end sheet's figure **852 is printed at 704, 708, 722, 723, 726, 737 and 750**, not at 750 only; and **`four lines` occurs 0 times in 741–747**, twice at 748, once at 749 and three times at 750.
+
+## AND THE ONE THING THAT IS NOT A THREAD
+
+**A PROMPT THAT SITS IN `outline/batches/` IS NOT A PHASE.** `scripts/novel_runner.sh` enumerates phases only through `find workspace -name PROMPT.md`. The cards for batch 0005 are at `outline/batches/volume-15-batch-0005.md` as the plan of record and the dispatch copy was at `workspace/volume-15/batch-0005/PROMPT.md`. **This close phase was dispatched from `workspace/volume-15/volume-close/PROMPT.md`, and it created no prompt after itself.** Whether Volume 16 is planned is a decision for whoever reads `reviews/volume-15/volume-close.md`, and this phase did not make it, did not draft it, and did not create `state/complete.md`.
+
 # VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK, **22,877 RAW / 22,382 OF PROSE**. MOVEMENT FIVE, *THE SUBJECT*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM DISK AFTER THE LAST EDIT. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS BATCH CLOSES, AND THE ONE IT OPENS

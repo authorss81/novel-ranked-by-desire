@@ -39,7 +39,7 @@ That is the whole of what happened in that passage at four o’clock on the last
 
 He stood nine feet back and let it happen and did not go up and read anything himself, because he had wanted for about a week to have one thing in this city that a person could not pass on to anybody, and about four minutes after four o’clock he watched it be passed on to two people.
 
-A man with a cap told a woman. The woman told a man at the mouth of the lane off Cordwain before five. By the end of the week it is in about four kitchens. By the end of the month it will be in about forty, in the words of the woman beside him at the rail, who has never met the woman whose name it is and is entirely right about what has happened.
+A man with a cap told a woman. The woman told a man at the mouth of the lane off Cordwain before five. By the end of the week it is in about four kitchens. By the end of the month it will be in about nine, in the words of the woman beside him at the rail, who has never met the woman whose name it is and is entirely right about what has happened.
 
 And then two things follow from it, both of which were said out loud in advance by a man with a slate under his arm in a lane on the twenty-fourth, and both of which are about four hundred people he has never met and is responsible for.
 

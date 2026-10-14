@@ -1,3 +1,40 @@
+# VOLUME 15 CLOSED — CHAPTERS 701–750 ON DISK, **108,323 WORDS RAW**. THIS BLOCK CORRECTS ONLY WHAT THE CLOSE AUDIT FOUND THE PAGE CONTRADICTS. IT SUPERSEDES NOTHING ABOVE IT AND DELETES NOTHING, AND EVERY SUMMARY FOR 701–750 STANDS WORD FOR WORD EXCEPT WHERE NAMED HERE.
+
+**THE AUDIT IS `reviews/volume-15/volume-close.md`. IT READ EVERY CHAPTER OF 701–750 AGAINST ITS SUMMARY HERE. ONE KIND OF SUMMARY ERROR WAS FOUND, TWO CHAPTERS WERE OPENED FOR ONE WORD EACH, AND EVERY EVENT, FIGURE, REFUSAL, RELATIONSHIP AND SCENE SUMMARY IN THE BLOCKS BELOW IS CORRECT AGAINST THE PAGE.**
+
+## THE ONE SUMMARY ERROR THE PAGE CONTRADICTS: THE PROSE BASIS IS NOT ONE BASIS
+
+**TWO BLOCKS IN THIS FILE PRINT THE SAME LABEL OVER TWO DIFFERENT MEASUREMENTS, AND THE LABEL IS WRONG FOR ONE OF THEM.**
+
+| Block | Its label | Its figure | The basis that figure is actually on |
+| --- | --- | --- | --- |
+| **BATCH 0004, 731–740** | *PROSE, HEADING LINES STRIPPED* | 20,454 | **`^#`** — it strips the `# ` title line as well as the `## ` lines |
+| **BATCH 0005, 741–750** | *PROSE, HEADING LINES STRIPPED* | 22,382 | **`^##`** — it strips the `## ` lines only |
+
+Measured from disk, per batch: on `^#`, **21,876 · 22,335 · 19,173 · 20,454 · 22,323**; on `^##`, **21,935 ·
+22,407 · 19,237 · 20,513 · 22,382**. Volume total **108,323 raw · 106,161 on `^#` · 106,474 on `^##`**.
+
+**This is why `chapter-0733.md` is recorded at 3,295 and `chapter-0743.md` at 3,752 in their own blocks: they are on opposite bases.** Both figures are correct on the basis each block actually used. **NO BAND VERDICT FLIPS** — 723 is the only scene inside 1,800–2,700, at 2,650 on `^#` and 2,657 on `^##`, and 733 and 743 are above the ceiling on both. **The label must name its basis in every future block and one basis must be adopted; this close audit adopts `^#`, because that is the basis that reproduces 733 at 3,295 and 740 at 1,857, the two cells this repository has already had to fight over.**
+
+## THE TWO CHAPTERS OPENED FOR ONE WORD EACH, AND NEITHER SUMMARY NEEDS CHANGING
+
+| Ch | What was wrong on the page | What was done | Effect on the summary |
+| --- | --- | --- | --- |
+| **742** | `:83` read *three hundred and twenty-five days ago*, against the chapter's own date of the eighth of December. `2,794 − (6×360 + 300 + 7) = 2,794 − 2,467 = 327` | **now three hundred and twenty-seven** | **none.** The summary says she has not been to that table since the eighth of December, which is what the page says and still says. Word count unchanged at 2,132 raw |
+| **750** | `:42` read *by the end of the month it will be in about forty kitchens*, against `:86` (*about nine*), `chapter-0749.md`:85 (*about nine kitchens*) and `chapter-0738.md`:41 (*about nine kitchens*) | **now about nine** | **none.** The summary says a man with a cap told a woman and that nobody sent her, which is what the page says. Word count unchanged at 2,459 raw |
+
+**THE CHAPTERS OPENED FOR EXACTLY THAT AND FOR NOTHING ELSE. NOT ONE EVENT, DIALOGUE LINE, SET PIECE OR CLOSING BEAT WAS TOUCHED IN EITHER FILE.**
+
+## THE ONE CHAPTER SUMMARY THE AUDIT WOULD HAVE CORRECTED AND DID NOT, BECAUSE THE PAGE IS THE RECORD
+
+**`chapter-0720.md`:129 reads *Four hundred and nine people brought paper to that door***, putting the count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 and against the separation the volume itself makes in dialogue at 716:13 and 729:39. **It is recorded in `reviews/volume-15/volume-close.md` §5 and §12 with the repair written out, and it was not repaired here, because this is a close and not a repair pass.** The summary for 720 is otherwise correct.
+
+## AND ONE THING THIS BLOCK CORRECTS IN THE GATE ROWS PRINTED ABOVE IT
+
+**The recorded count of parsed footer intervals for 721–730 is **40**, and it is wrong. `grep -c 'Less two thousand'` returns **3 in each of the ten files — thirty.** All thirty re-derive against two anchors and all thirty month breakdowns are correct: 0 mismatches, 0 unparsed. **Thirty is the figure and the record is corrected here.** The batch-0005 rationale — that the files carry three footer blocks and the reader takes one per block — is also wrong; the files carry three and the reader takes all three.
+
+**AND THE RAIL COUNT, WHICH NO SUMMARY IN THIS FILE STATES, IS WRONG IN TEN CHAPTERS:** 729 and 730 by +1, and 741, 742, 744, 745, 746, 747, 748 and 749 by **+7**. The rule is `chapter day − (day the current sheet went up)` and the current sheet goes up on the quarter-end. **Ten one-token corrections, no word count moves, owned by the next pass given 721–730 and 731–740 together.**
+
 # VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK, **22,877 WORDS RAW / 22,382 OF PROSE**. MOVEMENT FIVE, *THE SUBJECT*. **THE LAST TEN CHAPTERS OF VOLUME 15.** THIS BLOCK SUPERSEDES FOR 741–750 AND DELETES NOTHING.
 
 **BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT TO ANY OF THE CHAPTERS. RAW `wc -w`, WHOLE FILE, `## ` HEADING LINES INCLUDED: 741 2,019 · 742 2,132 · 743 3,814 (scene, OUTSIDE the band and the reason is in `state/current.md`) · 744 2,033 · 745 1,999 · 746 1,923 · 747 2,023 · 748 2,285 · 749 2,190 · 750 2,459 = 22,877. PROSE, HEADING LINES STRIPPED, WHICH IS THE BASIS THE BAND IS MEASURED ON: 1,979 · 2,091 · 3,752 · 1,983 · 1,961 · 1,878 · 1,960 · 2,222 · 2,143 · 2,413 = 22,382. THE COUNTER WAS PROVED ON chapter-0700 AT 2,013 BEFORE IT WAS RUN AND BOTH COLUMNS WERE RE-COUNTED AFTER THE LAST EDIT.**

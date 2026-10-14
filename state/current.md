@@ -1,3 +1,71 @@
+# VOLUME 15 CLOSED — CHAPTERS 701–750 ON DISK, **108,323 WORDS RAW**, AND 750 IS THE LAST CHAPTER OF THE VOLUME. THE AUDIT IS `reviews/volume-15/volume-close.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+**THIS BLOCK SUPERSEDES THE HEAD BLOCK OF THIS FILE, WHICH SAID THE ONE NEXT PHASE WAS THE VOLUME CLOSE. THIS PHASE WAS THE VOLUME CLOSE. IT WROTE NO CHAPTER, IT OPENED TWO FOR ONE WORD EACH, IT DID NOT CREATE A NEXT PHASE, AND IT DID NOT CREATE `state/complete.md`.**
+
+## WHAT THE VOLUME PROMISED, AND WHETHER IT LANDED
+
+**`outline/volume-15.md` §3, one sentence: Lin Hao must find out who is using about four hundred pieces of pencil paper and against whom.** It landed, at **719**, by the mechanism planned and by no other: a man who counts heads at a stall for a living, who is right about every fact, who is not thanked and is not diminished, and who says the answer **first** — four pieces of paper, every one against one of four men, the four men work for one house, nine pounds each and the same nine pounds since the ninth month of last year — and then says what he wants, which is that it not be printed, and gives the cost of printing it in his own mouth: about forty people will say it came from Lin Hao, and about four hundred people will stop writing, because a claim everybody knows came from a building is a claim that waits to be told.
+
+**AND THE RECORD IS WRONG ABOUT WHAT THE VOLUME WAS ABOUT.** The head block above calls it *the stage where what he wrote is used to date a person*. The page says something harder. At 719 he learns who the paper is against and is told the answer in the same breath; at 727 a claim with a day beats a claim without one and the man it is about is not in the room and does not know there was a day; at 736 a clerk entitled to one question a day spends it on the rail and Lin Hao answers **no** to his own receipt about himself. **THE DATING IS NOT THE POINT. THE POINT IS THAT A MAN BUILT AN OFFICE NOBODY COULD REACH AND THE OFFICE IS NOW REACHABLE, AND BEING REACHABLE IS WHAT IT COSTS.**
+
+## THE VOLUME'S OWN QUESTION, AND THE ANSWER ON THE PAGE
+
+> **A day is the only figure this city has ever done anything with.** — `chapter-0715.md`:103, in a clerk's mouth, at a magistrate's window, in the chapter that also says *A copy will tell you when it was copied. A person will tell you when it was done.* `:99`
+
+**AND THE MOVE THE AUDIT WAS ASKED ABOUT — A CLAIM THAT CAN BE ARGUED WITH AND A NAME THAT CAN BE ASKED ABOUT — IS THE SAME MOVE, AND THE PAGE SAYS SO IN THREE HANDS:** `chapter-0734.md`:93 (a thing somebody can ask about is a thing somebody can be asked to stop) · `chapter-0747.md`:78, in dialogue (*arguable is the same word as useful*) · `chapter-0749.md`:85, Emil Brack, arriving at it independently (*a place where a person used to be a rule becomes a place where a person is a thing people can ask about*).
+
+## THE FIVE IRREVERSIBLE DECISIONS, ALL HIS, AND WHO STATES THE COST
+
+| Ch | It closes | It costs | **The cost is stated on the page by a person** |
+| --- | --- | --- | --- |
+| **710** | the only thing that has ever corrected a claim in this city is a person who was there, out loud, in a room, and about four hundred people have never been in the same room | one place in Ostara where those claims can be found, and one person who may ask it any question | **YES** — Wenna Raut names it in dialogue three times before entering it, `chapter-0710.md`:68`, `:76`, `:80`; the full paragraph is narrator, `:97`–`:101` |
+| **720** | any possibility that a sheet can stand in a book in this city as a fact about paper only | about four hundred people are now in a book described in somebody else's words | **YES** — Wenna Raut, before entering, `chapter-0720.md`:50` and `:57`; the closing is narrator, `:75` |
+| **730** | nine years of the office's ability to say nothing at all about the two words | a denial is a claim, and it carries his name in a hand of this city | **YES, IN FULL AND BEFORE THE ACT** — `chapter-0730.md`:23 |
+| **739** | the instruction of the twenty-first of October | no form anywhere for undoing an instruction, so that drawer can never be opened again by anybody, including him | **YES** — *You are not asking anybody anything. You are asking paper. Enter it.* `chapter-0739.md`:25` |
+| **746** | the second column was the only place in nine sheets and nine years where nothing whatever about a person had ever been entered | about four hundred people will learn that the index they trusted has a name on it, and the name is the reason they trusted it, and the man who put it there cannot open the drawer | **YES, TWICE, SEVEN DAYS APART IN TWO ROOMS** — Wenna Raut `chapter-0746.md`:75`, and Perla Quist to his face in about nine seconds `chapter-0747.md`:25`–`:29`, and the refusal to be thanked at `:86`–`:103` |
+
+**ALL FIVE PASS THE HOUSE TEST THAT A COST IS STATED BY A PERSON AND NOT ONLY BY THE NARRATOR. That is a real finding and it is not the one the block above claimed to have made.**
+
+## THE SPINE, AS THE PAGE FIXED IT
+
+Forty-nine of the fifty chapters print their own day in the first footer and all forty-nine match `outline/volume-15.md` §5c; **743, the scene, prints none.** All fifty dates re-derived by METHOD A `(y−1)×360 + off[m] + (d−1)` and METHOD B `30×((y−1)×12 + pos[m]) + (d−1)` at zero indexing — **methods sharing no constant, all fifty agree.** Forty-nine intervals, `329`, against `2,849 − 2,520 = 329`, every batch row summing to its own endpoints, every printed seam re-deriving, and the Volume 14 seam `2,520 − 2,489 = 31` standing in its own column for the second time running.
+
+## THE REGISTER, AND THE FOUR COUNTS THAT ARE NEVER MERGED
+
+**about four hundred and nineteen** accounts on the quarterly sheet · **eleven** pieces of paper through the front door since the thirtieth of March and **four hundred and thirty** rows in the bound Register · **four hundred and nine** pieces of rag paper in two cardboard boxes, entered as nothing · **one row with an empty field** at 740 · **one row about a non-event** at 742, the first in nine years. **No chapter of 701–750 merges a count of pieces of paper with a count of claims or a count of people, and the volume separates them itself twice in dialogue** — `chapter-0716.md`:13, *Not one of the eleven has a person in it*, and `chapter-0729.md`:39, *Not eleven people. Not eleven claims.*
+
+**THE PLACES A CHAPTER COMES CLOSE, NAMED ONE BY ONE: `chapter-0720.md`:129, `chapter-0710.md`:101, `chapter-0741.md`:79, `chapter-0745.md`:36, `chapter-0744.md`:75, `chapter-0729.md`:71.** The first is the closest and is the one finding this audit did not repair: **it reads *Four hundred and nine people brought paper to that door*, putting the count of pieces of paper in front of the word *people*, against `chapter-0702.md`:111 which says in terms that about four hundred pieces is not about four hundred people because the people who carried them are about nine hundred.** Repair is one word and is written out in the audit.
+
+## WHAT THE BATCH GATE MEASURED, AND WHAT THIS AUDIT FOUND IT HAD NOT MEASURED
+
+**THE GATE FOR 741–750 RAN ABOUT FORTY ROWS AND EVERY ROW PASSED.** It could not see thirty-one weekday names written into the batch first and cut, **nineteen of them inside the scene at 743**; three fourth-wall hits written and cut; thirty-two paragraphs over ninety words written and split. **THE AUDIT RE-RAN EVERY CLAIM FROM OUTSIDE AND FOUND FOUR THINGS THE GATE DID NOT CARRY.**
+
+**1 · THE RAIL COUNT IS WRONG IN TEN CHAPTERS, NOT TWO, AND EIGHT OF THEM WERE CERTIFIED AS CORRECT.** The clause *the [sheet] has been face up … for every one of the last N of them* states in days how long the current sheet has been on that rail, and the current sheet goes up on the quarter-end. `chapter-0737.md`:93 proves the rule in the book's own words — *the thirtieth sheet has been face up on that rail for ninety days*, and `2,759 − 2,669 = 90`. **729 prints forty where the difference is thirty-nine; 730 prints forty-seven where the difference is forty-six; and 741, 742, 744, 745, 746, 747, 748 and 749 each print exactly SEVEN too high.** The batch-0005 reader re-derived all nine against the anchor `2,752`, **which is chapter 736's own day and not a quarter-end**, and so certified a fault its own anchor contained. **Twenty-six chapters print the clause; sixteen are right.**
+
+**2 · THE RECORDED FOOTER-INTERVAL COUNT FOR 721–730 IS WRONG AND THE READER WAS RIGHT.** `for n in $(seq 721 730); do grep -c 'Less two thousand' chapters/volume-15/chapter-0$n.md; done` returns **3 in every one of ten files — thirty.** The record's **40** is four per file and is not derivable. **All thirty are correct, all thirty month breakdowns are correct, 0 mismatches, 0 unparsed.** The rationalisation the batch-0005 record gave — that the files carry three footer blocks and the reader takes one per block — is also wrong; the files carry three and the reader takes all three. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS ONE WAS WRONG IN THE RECORD BEFORE IT WAS WRONG ANYWHERE ON THE PAGE.**
+
+**3 · THE RECORDED BODY-COUNT BASIS IS NOT ONE BASIS.** The column labelled **BODY, `## ` HEADING LINES STRIPPED** is 20,454 for 731–740, which is the **`^#`** basis (title line stripped as well as section headings), and 22,382 for 741–750, which is the **`^##`** basis. The same label sits over two different measurements. Per batch on `^#`: **21,876 · 22,335 · 19,173 · 20,454 · 22,323**; on `^##`: **21,935 · 22,407 · 19,237 · 20,513 · 22,382**; volume totals **106,161** and **106,474** against **108,323 raw**. **No band verdict flips on either basis** — 723 is the only scene inside the band at 2,650 — **but the row that carries the band must print one basis and name it.**
+
+**4 · TWO RECORD CLAIMS ARE CONTRADICTED BY THE PAGE.** `852 at 750 only` is wrong: the figure is printed at **704, 708, 722, 723, 726, 737 and 750**, and the outline's *the head at 750 only* means the **ordinal** counts at 750 only, which the page agrees with. And `four lines … and at 741–747` is wrong: **`four lines` occurs 0 times in 741–747**, twice at 748, once at 749, three times at 750.
+
+## THE TWO REPAIRS THIS PHASE APPLIED, AND WHY ONLY TWO
+
+Both are one-for-one token swaps, so **every word count in every gate row is unchanged.**
+
+| File and line | Was | Now | Why a reader is actively mis-served |
+| --- | --- | --- | --- |
+| `chapter-0742.md`:83 | *three hundred and twenty-five days ago* | **three hundred and twenty-seven** | The chapter gives the date and the count and they disagree by two. The eighth of December of year seven is `6×360 + 300 + 7 = 2,467`; `2,794 − 2,467 = 327`. The date stands, the count was wrong |
+| `chapter-0750.md`:42 | *By the end of the month it will be in about forty* | **about nine** | **The volume's last chapter predicts the same number twice with two values about forty lines apart.** `:42` said forty, `:86` said nine, `chapter-0749.md`:85 has Brack say *about nine kitchens*, `chapter-0738.md`:41 says the belief goes into *about nine kitchens*. Nine is the figure the other three give |
+
+**TEN MORE FINDINGS ARE RECORDED AND NOT REPAIRED**, with the file, the line, the printed token and the corrected token written out in `reviews/volume-15/volume-close.md` §12: the ten rail counts, and `chapter-0720.md`:129. **An audit that repairs the volume is not an audit**, the rail count's fault is only visible by carrying an anchor across chapters rather than inside one, and ten files is a repair campaign rather than *a chapter opened for exactly that and for nothing else*. **The rail counts are owned by the next pass given 721–730 and 731–750 together, and the correction moves no word count at all.**
+
+## WHAT THIS AUDIT COULD NOT SETTLE
+
+1. Whether `chapter-0720.md`:129 is an error or a deliberate second figure. Read as a slip, not provable as one, repair written out.
+2. Whether `outline/volume-15.md` §8's blanket prohibition on identifying the two words should be narrowed to match §2d, which requires the identification at 712. **That file is not this phase's to edit.**
+3. Whether the volume's watch-construction counts are healthy. Volume-wide: **`no form` 66** across fifty chapters, worst 6 · **`nobody` 253**, worst 9 · `no one` 2 · `nobody is thanked` 0. Inside tolerance at 1.3 and 5.1 per chapter, and a volume that prints four hundred more should be told before it starts.
+4. **THE READING, AND IT IS NOT A DECISION THIS PHASE MAKES.** `outline/series.md` planned ten volumes and `outline/ending.md` was written for Volume 10; the manuscript is at 750 across fifteen and nothing in 741–750 contradicts the ending. `reviews/volume-15/volume-close.md` §15 sets out what a Volume 16 would have to be built out of. **No prompt for it was created, nothing was drafted that presupposes it, and `state/complete.md` was not created.**
+
 # VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK, **22,877 WORDS RAW AND 22,382 WORDS OF PROSE, BOTH COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT FIVE, *THE SUBJECT*, THE LAST TEN CHAPTERS OF THE VOLUME. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/volume-close/PROMPT.md`, AND IT IS A VOLUME CLOSE AND NOT A BATCH, BECAUSE 741–750 CLOSE VOLUME 15 IN PROSE AND `AGENTS.md` IS UNAMBIGUOUS. THERE IS NO CHAPTER 751, NO BATCH 0006, NO `outline/volume-16.md`, AND `state/complete.md` IS NOT CREATED BY THIS PASS.** This block supersedes every block below it for 741–750 and deletes none of them.
 
 ## WHAT THIS BATCH DID, IN ONE PARAGRAPH

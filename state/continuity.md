@@ -1,3 +1,90 @@
+# VOLUME 15 CLOSED — CHAPTERS 701–750, THE FIRST OF FEBRUARY TO THE THIRTYTH OF DECEMBER, YEAR EIGHT. **108,323 WORDS RAW.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE CALENDAR, AS THE PAGE FIXED IT
+
+**A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of the quarter. A year runs from the first of February to the thirtieth of January, and a January is labelled by the February that follows it.**
+
+- **Volume 15 contains no January chapter**, which is the condition under which the wrong convention has twice produced 2,133 in this repository. **Verified: `January` appears twice in 701–750 and both times it is *the twenty-second of January*, the day a street was dug, at `chapter-0705.md`:47 and `chapter-0703.md`:43 — never as a spine value and never as an interval anchor.** The interval at 705:47 re-derives by hand on a thirty-day month: 22 January to 4 February is thirteen days.
+- **No chapter names a day of the week.** `grep -rioP '\b(mon(?!th)(day)?|tues?day|wed(nesday)?|thur?s?day|friday|sat(urday)?|sun(day)?)\b'` returns 34 raw hits across the volume and **zero real ones**: twenty-three are `sat` the verb and eleven are **Sun Meiling's surname** in 703.
+- **No thirty-first is used as a date.** Twenty-one occurrences of `thirty-first` and every one is either *there is no thirty-first* or *the thirty-first sheet*.
+- **No interval anywhere in 701–750 is derived against a real calendar.** Subtract day numbers. A count of days remaining in a quarter is **thirty minus the date of the month, and it is exclusive.**
+- **No chapter of 701–750 prints a year number in its prose.**
+
+## THE SPINE, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                       METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED.
+701  1 Feb y8  2,520  +31 seam      736  23 Sep  2,752  +6      748  17 Dec  2,836  +7
+702  8 Feb     2,527  +7            737  30 Sep  2,759  +7 Q-E  749  24 Dec  2,843  +7
+703 15 Feb     2,534  +7 SCENE      738   7 Oct  2,766  +7      750  30 Dec  2,849  +6 Q-E
+704 21 Feb     2,540  +6            739  14 Oct  2,773  +7      span 2,849 - 2,520 = 329 days
+705 28 Feb     2,547  +7            740  21 Oct  2,780  +7      batch rows sum to their own endpoints
+706   4 Mar    2,553  +6            741  28 Oct  2,787  +7      the seam to Volume 14 is 31, in its
+707  11 Mar    2,560  +7            742   5 Nov  2,794  +7      own column and not one of the 49
+708  17 Mar    2,566  +6            743  12 Nov  2,801  +7 SCENE
+709  24 Mar    2,573  +7            744  19 Nov  2,808  +7      750 - 700 = 360 = EXACTLY ONE YEAR
+710  30 Mar    2,579  +6 Q-E        745  26 Nov  2,815  +7
+711   7 Apr    2,586  +7            746   3 Dec  2,822  +7
+712  14 Apr    2,593  +7            747  10 Dec  2,829  +7
+713  21 Apr    2,600  +7 SCENE      QUARTER-ENDS 30 Mar (2,579) · 30 Jun (2,669) · 30 Sep (2,759)
+714  28 Apr    2,607  +7                          · 30 Dec (2,849) = FOUR, not five, because
+715   5 May    2,614  +7            the thirty-first of January is not a day in this city and
+716  12 May    2,621  +7            Volume 15 opens on the first of February.
+717  19 May    2,628  +7            ALL FOUR LAND ON A CHAPTER: 710, 723, 737, 750.
+718  26 May    2,635  +7
+719   3 Jun    2,642  +7            SHEET ORDINALS  29th at 710 · 30th at 723 · 31st at 737
+720  10 Jun    2,649  +7                      · 32nd at 748, 749 and 750
+721  17 Jun    2,656  +7            THE HEAD  852, unmoved since 1,499. At 750 that is SIXTEEN SHEETS
+722  24 Jun    2,663  +7            and FIFTEEN QUARTERS and both are named in words on the page and
+723  30 Jun    2,669  +6 Q-E        750 says they differ by one.
+724   7 Jul    2,676  +7            THE OFFICE  2,520 = 30 x 84 + 0 exactly at 701; 2,849 = 30 x 94 + 29 at 750.
+725  13 Jul    2,682  +6
+726  20 Jul    2,689  +7            THE SHUTTER  bare since the ninth of November of YEAR SIX = 2,078.
+727  26 Jul    2,695  +6            442 days at 701, 771 at 750. **771 AND 411 ARE PRINTED ZERO
+728   3 Aug    2,702  +7            TIMES IN 701-750**, because 771 collides with a figure chapter-0700
+729   9 Aug    2,708  +6            already prints against the other anchor and a chapter that prints it
+730  16 Aug    2,715  +7            names which anchor it means.
+731  23 Aug    2,722  +7            THE STRIKING  23 November of year six = 2,092.
+732  29 Aug    2,728  +6            THE WORKS FORM 27 December of year six = 2,126. THE TWO OFFICES STILL
+733   5 Sep    2,734  +6 SCENE      HAVE NOT SENT A PAPER TO EACH OTHER IN NINE YEARS, and at 748 this
+734  11 Sep    2,740  +6            is found to be the whole of why the heading cannot be taken off.
+735  17 Sep    2,746  +6            THE FORMS ON THE WALL  one a month by a kerb; the seventieth on
+                                    2,586, the seventy-third on 2,676, the seventy-sixth on 2,766,
+                                    which ARE 711, 724 and 738. EVERY INTERVAL IS THIRTY.
+```
+
+**THE RAIL COUNT IS A COUNT OF DAYS SINCE THE CURRENT SHEET WENT UP ON THE RAIL, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END.** This is proved by the volume itself at `chapter-0737.md`:93 — *the thirtieth sheet has been face up on that rail for ninety days and came down this afternoon at four* — and `2,759 − 2,669 = 90`. Thirtieth sheet up 2,669 · thirty-first up 2,759 · thirty-second up 2,849 at four. **A next volume that prints this clause must count `chapter day − (day the current sheet went up)` and must not anchor on a chapter's own day.**
+
+## THE MECHANICS THAT ARE NOW CANON
+
+**THE RULE OF THE ROOM AT 743 IS STANDING AND ANY CHAPTER MAY RELY ON IT.** A branch office in a city whose months run to thirty **writes the date and not the day.** That is correct for a wage and it is no use at all for a person: **the three days off a four-night rota are *the first of the three*, *the second of them* and *the third of them*.** There are no days of the week in this city and there is no thirty-first, so there is no better answer than that, and the answer is worse and truer than a weekday. **The same rule governs a name on a rota page: a name on it is a person who works in the same building as him and may not be asked what she does with it.** 743 is 3,745 of prose on the `^#` basis and is outside the band on purpose; the reason is recorded in `state/current.md`.
+
+**THE SECOND COLUMN, AND WHAT IS IN IT.** The heading is **two words printed on a form, and it says `carried by`.** The form is printed by a works department two streets away that prints for every division in the city once a year in the autumn and **this office has not sent that department a piece of paper in nine years** — which at 748 is found to be the whole of why this office believed it was outside the reach of anybody. **The heading cannot be taken off the form.**
+
+**Three lines at 701. FOUR LINES AT 748, 749 AND 750, AND THE FOURTH IS THE FIRST LINE IN NINE SHEETS THAT IS A CLAIM.** The four: a date, a number, four words and a man's name, with a sentence in a clerk's hand under the name saying a drawer is not to be opened, entered on the **twelfth of September** of year seven and onto the page on the **thirtieth of September**, and not the thirtieth of August, which is the bound Register, and not the twenty-first of October, which is the drawer; a line naming a place; a line naming a person who is not alive; and the fourth, entered on the **third of December of year eight** — **a date at the top, a name, a sentence in a clerk's hand saying a woman carried every sheet of pencil paper brought to the third table in a laundry off a street two streets wide, up four flights, to this counter, and carried them on, that the papers are not in that building and not in hers, and that the index of what those sheets carried on the day each was made is nine sheets under a third table and may not be cited — and a man's name, and NO FIGURE OF ANY KIND ON THE LINE.**
+
+**IT CANNOT COME OUT.** A row may be added to and may not be taken from, and a line under a printed heading on a quarterly sheet is the same instrument as a row in a bound Register. **A sentence cannot be put under the man's name either, and the reason is now canon: a sentence converts a name into a thing somebody can argue with, and arguable is the same word as useful, and a thing that can be argued with is a thing somebody can be asked to stop** — `chapter-0747.md`:78.
+
+**THE REGISTER, AND THE FIELD THAT IS EMPTY IN IT.** Every piece of paper received through that front door is entered as received with a date against it (from the thirtieth of March of year eight) and with a description of the person who brought it, **written in the words that person used** (from the tenth of June), whether or not it is true, complete or checkable. **The description is about the person who BROUGHT the paper. The fifth field that does not exist is about what was DONE TO a person, and the two are kept apart in a clerk's mouth at 716 so that nobody can afterwards say a clerk put a description in the wrong place.** **ONE ROW HAS THE DESCRIPTION FIELD LEFT EMPTY** — `chapter-0740.md`:25`–`:29` — **and it is the first empty field in that book in nine years and there is no form anywhere in this city on which a field may be completed after the fact.**
+
+**THE CORNER, AND ITS TWO FIGURES, WHICH ARE NOT ONE FIGURE.** About two hundred people a day **stop** at the corner and about ninety read the board, at 738, once, with its reason. **About two hundred and forty people go PAST it in an hour** at 702, 704, 709 and 750. These are different counts and the volume keeps them apart; the first is a daily rate owned by 738 and the second an hourly footfall.
+
+## WHAT A VOLUME 16 WRITER MAY NOT CONTRADICT
+
+- **Lin Wei is alive, classified, in the Classification Wing, and never out of it.** · **The reservoir was returned in full at 486 and is never replenished.** · **Lin Hao is rank one on a branch night shift and nothing in 701–750 moved him.** · **The Church of the Quiet Number is not dissolved, not vindicated and not converted.** · **Ferreira lives, Sowe lives, and Adeyemi is Registrar of Unrecorded Merit** — at the far end of the table at 701, in his own office, with his coat still on. · **No partner dies and no partner is left behind by a choice she does not explain.** `outline/ending.md` is untouched by this phase and nothing in 701–750 contradicts it.
+- **THE REACH OF THE RETURN STAYS OPEN.** Argued in neither direction in 701–750 and may not be argued in either direction.
+- **The figure of the account, its floor, any ledger total and any running balance in grains are printed nowhere and nowhere again.** `settl` returns zero in every inflection across the volume.
+- **THE DOCKET'S DATE IS READ ALOUD TWICE AT 712 AND PRINTED NOWHERE AND TOLD TO NOBODY**, and Lin Hao does not go back to the yard in any chapter.
+- **THE TWO WORDS ON THE STONE ARE PRINTED NOWHERE IN 701–750 AND WERE NOT PRINTED IN THIS AUDIT.** No chapter of 701–750 asserts they are the same two words as the second line, as the head of the second column or as any heading. **The one affirmative identification, at `chapter-0712.md`:53, is the volume's designed close of its one permitted thread — a docket line and a yard — and is about a building and not about a man.**
+- **The fourth condition is not reproved and is not disproved.** · **Whether the account belonged to the unrecorded is a meaning and not an answer.** · **How many feeders there are is printed nowhere and has no instrument that could.**
+- **The head of the sheet is 852 and no volume may move it and no permission exists.** · **Either repainting box is blank since the eighth of October of year one and blank for ever.** · **Perrin Sowe is not forgiven and is not discussed.** · **Hanneke Ruis's six words are not reopened and her one question in eleven years is not spent a second time.**
+- **THE BOY IS NOT AGED AND IS NOT ASKED BY LIN HAO.** Somebody else asked him once, at 724, and he did not answer, and the chapter says in one paragraph that the boy is right.
+- **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND IS NOT ASKED, for the second running volume.** The temptation was strongest at 735 and was refused in nine words, unasked, by Perla Quist, and nobody thanked him for it.
+- **THE WOMAN WHO CANNOT READ IS NOT NAMED, NOT TRACED, AND IS NOT ASKED ANYTHING — AND NOBODY IS SENT TO FIND OUT WHERE SHE LIVES, INCLUDING IN THE LAST CHAPTER.** `outline/volume-15.md` §4d decision 4 is standing and is not spent.
+- **NOBODY PUTS A HAND FLAT ON ANYTHING.** Second volume this binds, and it binds hardest on Perla Quist, whose whole proximity to a list is her hands.
+- **NO NEW ENEMY.** The opposition is a sentence, a counterman paid nothing, a landlord's house of four men working for one employer, a district officer doing her job, a magistrate's clerk entitled to one question, a woman with a pencil and a boy with a paste brush. None of them is cruel and every one of them is right.
+
 # VOLUME 15 BATCH 0005 WRITTEN 14 OCTOBER 2026 — CHAPTERS 741–750 ON DISK. **§0a-vol15-b5 BELOW IS THE FILE'S LIVE BLOCK FOR 741–750 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b5. THE SPINE, THE OPERANDS, THE FOOTER ROW AND THE FOURTH WALL, RE-DERIVED FROM DISK
