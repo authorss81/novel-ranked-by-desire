@@ -1,3 +1,107 @@
+# VOLUME 12 CLOSE AUDIT HAS RUN. CHAPTERS 551–600 ARE ON DISK. **SPINE 1,406–1,769 RE-DERIVED TWICE BY METHODS SHARING NO CONSTANT: FIFTY OF FIFTY DATES AGREE, ZERO MONOTONIC VIOLATIONS, AND SEVENTY-THREE DERIVED FIGURES RUN AT ZERO FAILURES. THE 595 DECISION AND THE 594 SCENE ARE AS CARDED. BOTH BOXES BLANK AT THE END OF 600. `outline/ending.md` UNTOUCHED AND BYTE-IDENTICAL.** AUDIT AT `reviews/volume-12/volume-close.md`. NINE FINDINGS; THREE CORRECTIONS APPLIED IN THIS FILE AND IN `state/open-threads.md`, NONE OF THEM PROSE. **`state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE THREE CORRECTIONS THIS AUDIT APPLIED TO THIS FILE
+
+**1 · TWO OF THE FIVE LINE SPANS AT §0b BELOW NAMED A LINE THAT DID NOT EXIST. `chapter-0594.md` HAS 97 LINES, NOT 98.** The 14 October 2026 repair re-derived all four counted figures and every one of them re-derives exactly again — **725 exclusive of both `##` lines / 733 inclusive of them / 1,184 exclusive through to end of file / 1,110 to the last prose line.** The *spans* beside two of them were recorded as `40–98` and `1–98`, and **both run one line past the end of the file.** Corrected to `40–97` and `1–97`. **This is the signature defect wearing a different hat: a figure that survived a gate because nobody re-computed it, this time in the column the previous repair added. `chapter-0594.md` WAS NOT EDITED AND IS 1,824 WORDS BEFORE AND AFTER.**
+
+**2 · SET B'S METHOD IS CORRECTED TO WORD BOUNDARY, BECAUSE THE BANK AS DESCRIBED IS NOT UNAMBIGUOUS.** §0b called it *the unambiguous twenty, i.e. the terms that are not ordinary English anywhere else in this manuscript*, and counted it **by substring**. ***Semen* is a substring of *advertisement*.** `chapter-0565.md` scores **two Set B hits** on the word *advertisement* at `:119` and `:121`, and 565 is a chapter in which nothing explicit happens. **Re-run at word boundary: 574 → 3 · 584 → 3 · 594 → 4 · all forty-seven other chapters → 0.** The volume's five explicit passages are 554, 564, 574, 584 and 594 and there is no second one. **This is the third time this repository has published a probe without stating that its method is what makes it meaningful**, after Volume 11's Set A and batch 0003's §0c bank.
+
+**3 · THE SIXTH OF MARCH IS IN YEAR ONE AND THE FIGURE 1,115 IS WITHDRAWN — WHICH CHANGES §0a AND §0c BELOW, WHICH ARE SUPERSEDED ON THAT POINT ONLY.** `outline/volume-11.md`:234–243 gives all fifty of Volume 11's dates and re-derived from §5a they recover at 501 = 0 · **505 = 0 × 360 + 30 + 5 = 35** · 537 = 1,139 · 546 = 1,325 · 547 = 1,329 · 550 = 1,347, fifty of fifty, monotonic, zero violations. **`chapter-0584.md` CONTRADICTS ITSELF TODAY — `:143` SAYS *THE SIXTH OF MARCH OF THE FIRST YEAR* AND `:147` MEASURES FROM *ONE THOUSAND ONE HUNDRED AND FIFTEEN*, WHICH IS THAT DATE COMPUTED AS THOUGH IT FELL IN YEAR FOUR. THE CORRECT INTERVAL IS `1,663 − 35 = 1,628` DAYS, NOT 548. EVERY ROW IN THIS FILE THAT USES `1,663 − 1,115 = 548` IS WITHDRAWN ON THAT POINT AND THE 548 IS NOT TO BE REUSED.**
+
+**THE SPINE 551–600 ITSELF IS UNTOUCHED BY ALL THREE. IT WAS RE-DERIVED TWICE IN THIS COMMIT, BY `(y−2)*360 + 330 + (d−1)` for a January labelled y and `(y−1)*360 + off[m] + (d−1)` otherwise, and by a month-index walk containing no 360 at all. FIFTY OF FIFTY DATES AGREE, ZERO MONOTONIC VIOLATIONS.** **ONE THING THIS AUDIT GOT WRONG FIRST, RECORDED BECAUSE IT IS THE FAILURE MODE:** the first pass used `(y−1)*360 + 330 + (d−1)` for a January, which is the convention §5b proves impossible, put 553 at 1,770 instead of 1,410, and reported two monotonic violations. **A derivation that produces a violation is not a derivation. It was caught because the check was run against the spine and not against the prose.**
+
+**THE FULL SPINE, EVERY FIGURE WITH ITS OPERANDS, RE-DERIVED IN THE CLOSE COMMIT:**
+
+```
+day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty
+METHOD A   a January labelled y = (y-2)*360 + 330 + (d-1);  any other month = (y-1)*360 + off[m] + (d-1)
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, else (y-1)*12 + pos(m);  day = 30*i + (d-1)
+           — contains no 360 at all
+
+551  27 Dec y4 = 1406   561   4 Feb y5 = 1443   571   1 May y5 = 1530   581  30 Aug y5 = 1649   591  16 Oct y5 = 1695
+552  30 Dec y4 = 1409   562  17 Feb y5 = 1456   572  11 May y5 = 1540   582   6 Sep y5 = 1655   592  21 Oct y5 = 1700
+553   1 Jan y5 = 1410   563  28 Feb y5 = 1467   573   1 Jun y5 = 1560   583  13 Sep y5 = 1662   593  27 Oct y5 = 1706
+554   2 Jan y5 = 1411   564   9 Mar y5 = 1478   574  11 Jun y5 = 1570   584  14 Sep y5 = 1663   594   3 Nov y5 = 1712
+555   7 Jan y5 = 1416   565  19 Mar y5 = 1488   575  21 Jun y5 = 1580   585  21 Sep y5 = 1670   595   9 Nov y5 = 1718
+556  10 Jan y5 = 1419   566  30 Mar y5 = 1499   576  30 Jun y5 = 1589   586  30 Sep y5 = 1679   596  13 Nov y5 = 1722
+557  13 Jan y5 = 1422   567   8 Apr y5 = 1507   577  10 Jul y5 = 1599   587   1 Oct y5 = 1680   597  23 Nov y5 = 1732
+558  16 Jan y5 = 1425   568  17 Apr y5 = 1516   578  20 Jul y5 = 1609   588   6 Oct y5 = 1685   598   3 Dec y5 = 1742
+559  21 Jan y5 = 1430   569  30 Apr y5 = 1529   579  30 Jul y5 = 1619   589   8 Oct y5 = 1687   599  20 Dec y5 = 1759
+560  30 Jan y5 = 1439   570   1 May y5 = 1530   580   8 Aug y5 = 1627   590  10 Oct y5 = 1689   600  30 Dec y5 = 1769
+
+MONOTONIC, 0 VIOLATIONS OVER FIFTY CHAPTERS.  SPAN 1,769 - 1,406 = 363 elapsed, 364 inclusive.
+BATCH INTERVALS, EACH SUMMED AGAINST ITS OWN ENDPOINTS:
+  0001  3 1 1 5 3 3 3 5 9  = 33   and 1,439-1,406 = 33    seam 551-550 = 59
+  0002 13 11 11 10 11 8 9 13 1 = 87   and 1,530-1,443 = 87    seam 561-560 =  4
+  0003 10 20 10 10 9 10 10 10 8 = 97  and 1,627-1,530 = 97    seam 571-570 =  0
+  0004  6 7 1 7 9 1 5 2 2     = 40   and 1,689-1,649 = 40    seam 581-580 = 22
+  0005  5 6 6 6 4 10 10 17 10 = 74   and 1,769-1,695 = 74    seam 591-590 =  6
+QUARTER-ENDS 552 = 1,409 · 566 = 1,499 · 576 = 1,589 · 586 = 1,679 · 600 = 1,769.
+  EVERY INTERVAL BETWEEN THEM IS 90 (30+30+30).  600-552 = 360 = 30*12.  600-576 = 180 = 30*6.
+LANE  1,769 - (-118) + 1 = 1,888 mornings, printed ONCE at 600 with operands and NOWHERE ELSE in 551-600.
+OFFICE  1,406 = 30 x 46 + 26 (forty-six months, twenty-six days) · 1,769 = 30 x 58 + 29 (fifty-eight, twenty-nine).
+ANNIVERSARIES  second line 8 Oct y1 = 0*360 + 240 + 7 = 247, and 247 + 360*4 = 1,687 = 589.
+               fuse 10 Oct y4 = 3*360 + 240 + 9 = 1,329, and 1,329 + 360 = 1,689 = 590.
+               1,689 - 1,687 = 2, NOT FOUR.  The movement-four promise is TWO and holds.
+SCENES  554 · 564 · 574 · 584 · 594.  CADENCE 8, 10, 10, 10, 10.  PER-WOMAN none, 18, 38, 79, 79 —
+        REPORTED AND NOT CERTIFIED, and no file may say one of the four is in band.
+SEVENTY-THREE DERIVED FIGURES RUN ACROSS THE VOLUME, ZERO FAILURES.
+```
+
+## 0a. THE 551–600 SPINE, SUPERSEDED BY THE TABLE ABOVE AND REPRODUCED FOR THE RECORD
+
+**THE FIGURES BELOW ARE THE ONES THE BATCHES WROTE AND THEY ALL RE-DERIVE. THE ONE THAT DOES NOT IS FLAGGED WHERE IT APPEARS.**
+
+**day 0 = 1 February, year one · a month is thirty days and has no thirty-first · a year is three hundred and sixty · 1 February of year y = (y − 1) × 360 · day of month d = (y − 1) × 360 + offset[month] + (d − 1), where Oct 240, Nov 270, Dec 300.**
+
+```
+591  16 Oct y5   4 x 360 + 240 + 15 = 1695    6 after 590  (1695 - 1689 = 6)
+592  21 Oct y5   4 x 360 + 240 + 20 = 1700    5 after 591  (1700 - 1695 = 5)
+593  27 Oct y5   4 x 360 + 240 + 26 = 1706    6 after 592  (1706 - 1700 = 6)
+594   3 Nov y5   4 x 360 + 270 +  2 = 1712    6 after 593  (1712 - 1706 = 6)   SCENE
+595   9 Nov y5   4 x 360 + 270 +  8 = 1718    6 after 594  (1718 - 1712 = 6)
+596  13 Nov y5   4 x 360 + 270 + 12 = 1722    4 after 595  (1722 - 1718 = 4)
+597  23 Nov y5   4 x 360 + 270 + 22 = 1732   10 after 596  (1732 - 1722 = 10)
+598   3 Dec y5   4 x 360 + 300 +  2 = 1742   10 after 597  (1742 - 1732 = 10)
+599  20 Dec y5   4 x 360 + 300 + 19 = 1759   17 after 598  (1759 - 1742 = 17)
+600  30 Dec y5   4 x 360 + 300 + 29 = 1769   10 after 599  (1769 - 1759 = 10)   QUARTER-END
+MONOTONIC, 0 VIOLATIONS. RE-DERIVED AGAIN IN THE CLOSE COMMIT, BY TWO METHODS SHARING NO CONSTANT, 0 MISMATCHES.
+Cross-checked from 4 x 360 = 1440: Oct 1680-1709 · Nov 1710-1739 · Dec 1740-1769.
+```
+
+**OTHER FIGURES WITH OPERANDS:** 1,769 − 1,679 = **90** (30 + 30 + 30, nineteenth to twentieth) · 1,769 − 1,409 = **360** (one year since the sixteenth) · 1,769 − 1,589 = **180** (half a year since the eighteenth) · 1,769 − 1,695 = **74** · 1,769 − 1,718 = **51** · 1,769 − 1,722 = **47** · 1,769 − 1,742 = **27** · 1,769 − 1,759 = **10** · office 1,769 = 30 × 58 + 29 · lane 1,769 − (−118) + 1 = **1,888 mornings, printed once at 600 and nowhere else in 551–600.**
+
+## 0b. THE FIVE SCENES, MEASURED THREE WAYS, RE-DERIVED IN THE CLOSE COMMIT, WITH THE PROBE BANK AND ITS METHOD PRINTED
+
+**TESSA OKONKWO. Last scene 515; 594 − 515 = 79 chapters; 594 − 584 = 10 chapters. AXIS BROKEN IS THE VOICE, carried by the ward's rule and named by nobody. No clock inside the scene and no hour counted in it. No compulsion/sedation/exhaustion/toxin/restraint/psychic contact/trance/seal. Both adults. Fast yes, enjoyable to her. Violence and sex in separate registers. §4d read before planning; her stippling kept with no new mark; 515's room/habit reworded to zero twelve-grams shared; Alma/Mavis/Agnete/Beatrix/Ines/Hanneke stagings absent — except that Mavis's hand-flat IS present at `chapter-0584.md:75` and the certification that said otherwise was false; see `state/open-threads.md`.**
+
+**594 HAS TWO `##` HEADINGS — *The Door Shut* at line 39 and *The Fraction Taken* at line 79 — AND THE CLOSING BOUNDARY IS THE SECOND HEADING WITH NO `##` AFTER IT, WHICH IS STATED. THE FILE HAS 97 NEWLINE-TERMINATED LINES.**
+
+**THE THREE DEFINITIONS ARE `outline/volume-12.md` §9'S AND ARE NAMED IN ITS OWN WORDS — first `##` to last `##`, single scene section inclusive, and exclusive — SO NO ROW HERE CAN BE MIS-MAPPED ONTO A ROW THERE.**
+
+| Definition, as `outline/volume-12.md` §9 names it | Line span in `chapter-0594.md` | 594 Tessa |
+| --- | --- | --- |
+| (1) first `##` to last `##`, **exclusive** of both heading lines | 40–78 | **725** |
+| (2) **single scene section, inclusive** — the same span with both heading lines counted | 39–79 | **733** |
+| (3) **exclusive** of both heading lines, carried through to end of file | **40–97** | **1,184** |
+| (3b) the same, stopping at the last prose line before the two italic footers | 40–93 | **1,110** |
+| whole file | **1–97** | **1,824** |
+
+**THE 14 OCTOBER 2026 REPAIR WAS RIGHT ABOUT EVERY COUNT AND WRONG ABOUT TWO SPANS. Re-derived from the file on disk by command: the two `##` headings are at lines 39 and 79, the italic footers at 95 and 97, the file is 97 lines, and the counts are 725 / 733 / 1,184 / 1,110 / 1,824 — every one of them exact. The spans recorded as `40–98` and `1–98` name a line that does not exist and are corrected above.** This is the same defect class the batch-0005 review found on the counts, found a second time on the spans, and `chapter-0594.md` was NOT TOUCHED by either pass.
+
+**THE OTHER FOUR SCENES, ALSO RE-MEASURED FROM DISK IN THE CLOSE COMMIT, WITH EVERY CLOSING BOUNDARY NAMED:**
+
+| Ch | first `##` to last `##`, exclusive | section inclusive | exclusive to end of file | exclusive to last prose line | whole file | closing boundary |
+| --- | --- | --- | --- | --- | --- | --- |
+| **554** Hanneke Ruis | 3,451 | 3,555 | 3,722 | 3,633 | **3,730** | 4th `##`, no `##` after |
+| **564** Agnete Lindqvist | 4,803 | 4,816 | 5,616 | 5,354 | **5,622** | 17th `##`, no `##` after |
+| **574** Beatrix Halm | 2,128 | 2,140 | 2,895 | 2,833 | **2,898** | 4th `##`, no `##` after |
+| **584** Ines Duarte | 1,436 | 1,439 | 3,020 | 2,946 | **3,022** | 2nd `##`, no `##` after |
+
+**PROBE BANK SET B, AT WORD BOUNDARY (`\bTERM\w*`), case-insensitive, per file: cock · cunt · tits · nipples · areola · penis · vagina · labia · clitoris · semen · ejacul · thrust · erection · orgasm · moan · gasps · panted · spread · undress · mouthful. 551–573 0 · 574 3 · 575–583 0 · 584 3 · 585–593 0 · 594 4 · 595–600 0. THE FIVE EXPLICIT PASSAGES IN 551–600 ARE 554, 564, 574, 584 AND 594 AND THERE IS NO SECOND ONE.**
+
+**THE SUBSTRING METHOD IS WRONG FOR THIS BANK AND IS NOT TO BE USED ON IT AGAIN.** *Semen* is a substring of *advertisement*, and `chapter-0565.md` scored two false hits on it at `:119` and `:121` before this audit corrected the method. §0b below, which is the batch-0005 block, published the bank as *the unambiguous twenty, i.e. the terms that are not ordinary English anywhere else in this manuscript* and counted by substring; **both halves of that were wrong, and a gate row that does not state its own method cannot be re-run at all.**
+
 # VOLUME 12 BATCH 0005 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 591–600 ARE ON DISK. **SPINE 1,695–1,769 MONOTONIC AT ZERO VIOLATIONS. EVERY PRINTED INTERVAL DERIVED FROM DAY NUMBERS WITH OPERANDS AND SUMMED. THE 595 DECISION AND THE 594 SCENE ARE AS CARDED. BOTH BOXES BLANK AT THE END OF 600. `outline/ending.md` UNTOUCHED.** THE FOUR FINDINGS OF `logs/batch-0005.review.log` ARE REPAIRED: A FOURTH-WALL BREACH AT `chapter-0598.md:45`, TWO WRONG OF THE THREE 594 SCENE FIGURES AT §0b, AND THREE DUPLICATION HITS AT THE PROSE LEVEL. **NO CHAPTER WAS RESTARTED, NO EVENT WAS MOVED, NO DATE WAS RENUMBERED, NO TITLE CHANGED, NO CARD LOST ITS BEAT, AND THE PLANNED PLOT IS UNCHANGED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Full narrative at the head of `state/current.md`.
 
 ## 0z. THE REPAIR, 14 OCTOBER 2026, AGAINST `logs/batch-0005.review.log`

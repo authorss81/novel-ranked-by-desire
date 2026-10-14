@@ -1,3 +1,169 @@
+# VOLUME 12 CLOSE AUDIT HAS RUN. CHAPTERS 551–600 ARE ON DISK AND THE VOLUME IS CLOSED IN PROSE. **EVERY ROW OF THE GATE BELOW IS RE-RUN VOLUME-WIDE, NOT PER BATCH, FROM OUTSIDE THE PASS THAT WROTE IT — AND THAT CHANGE OF SCOPE IS THE AUDIT'S HEADLINE FINDING, BECAUSE A GATE THAT MEASURES ONLY ITS OWN TEN FILES CANNOT SEE WHAT HAPPENED BEFORE IT. THE SPINE RE-DERIVED TWICE BY METHODS SHARING NO CONSTANT: FIFTY OF FIFTY DATES AGREE, ZERO MONOTONIC VIOLATIONS, SEVENTY-THREE DERIVED FIGURES AT ZERO FAILURES. NINE FINDINGS; THREE CORRECTIONS APPLIED IN THIS FILE AND IN `state/continuity.md`; NOT ONE WORD OF PROSE TOUCHED. AUDIT AT `reviews/volume-12/volume-close.md`. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
+
+## 0. WHAT THIS AUDIT FOUND IN THE BLOCK BELOW, AND WHAT IT CORRECTED
+
+**THE TWO ROWS THAT WERE FALSE WHEN THIS BLOCK WAS LAST WRITTEN WERE BOTH *CERTIFICATIONS OF ABSENCE*, AND BOTH ARE STILL FALSE IN THE BLOCKS BELOW. THEY ARE RECORDED HERE RATHER THAN EDITED IN PLACE, BECAUSE THOSE BLOCKS ARE SUPERSEDED AND THE HOUSE CONVENTION IS THAT A SUPERSEDED BLOCK IS NOT REWRITTEN.**
+
+- **THE `DUPLICATION` ROW CLASSIFIED ITS OWN EVIDENCE WRONG.** It says *591:89 and 597:9 stay — they are two renderings of one physical object sixteen days apart.* **BOTH HALVES ARE WRONG.** `591:89` is the board in the **branch** corridor off a third court — he is at the branch and Petra Ilyin stops him there, three conditions and a drawing pin and the fourth cut off with a blade. `597:9` is a board in the **first division corridor off Cordwain**, one of the nine boards put up at 569–570, carrying all four conditions with no name on top. **They are two objects in two buildings sharing a staging, not one object seen twice.** And the interval is **`1,732 − 1,695 = 37` days, not sixteen.** The duplication finding itself stands — `599:19` is a fourth *state* of the branch board and not a fourth rendering, the fourth condition is still cut off and still unrestored — **but the classification of the first two was wrong and no twelve-gram scan could have caught it, because the error is in what the two passages are, not in what they say.**
+- **THE `BODIES/STAGINGS` ROWS CERTIFY *MAVIS HAND-FLAT NOWHERE* AND THE FILE HAS IT.** The batch-0004 block says *Mavis Rooke's hand-flat are absent from all ten files.* The batch-0003 block says *Mavis hand-flat nowhere (third straight batch — standing decision).* **`chapter-0584.md:75` reads: *At about half past one she put both her hands flat on the table behind her*** — inside the volume's second-to-last scene, whose own card in `outline/volume-12.md` §7 **lists "Mavis Rooke's hand-flat" among the stagings that must be absent from the chapter.** §4d's Mavis row adds that a second use in 551–600 *is a decision that must be recorded in the state file, not a gesture.* **It was recorded as a prohibition and never as a decision.** The distinction is also drawn and should be kept: Mavis's at `chapter-0547.md:86` is a *single* hand carried by her attributive signature — *the hand of somebody who had not stopped and had stopped* — and 584's is *both* hands bracing mid-scene, which is the manuscript's long register. **The construction is the same and the certification was unqualified, so the certification is false.**
+
+## THE GATE, RE-RUN BY COMMAND IN THE CLOSE COMMIT. **VOLUME-WIDE: ALL FIFTY FILES, NOT ONE BATCH.**
+
+```
+FILES            50 files in chapters/volume-12/, 551..600. diff against `seq 551 600` EMPTY.
+                 find chapters -name 'chapter-*.md' | wc -l -> 600.
+                 ONE `# ` title line in every file. ALL FIFTY END 0a.
+TITLES           grep -rh "^# " chapters/ | sort | uniq -d | wc -l -> 0 ACROSS ALL 600.
+                 ***ROW ADDED: THE CHECK WAS RUN AGAINST ALL FIFTY ROWS OF outline/volume-12.md
+                 §10, WHICH THE BLOCK BELOW DID ONLY FOR ITS OWN TEN. -> 50 OF 50 MATCH,
+                 0 MISMATCHES. Word lengths 3 to 9, char lengths 19 to 37, none begins *What*,
+                 none built out of *nothing* / *nobody* / *there is no*, zero duplicates. ***
+                 No title changed by any pass.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 0001 21,947 | 0002 26,625 | 0003 14,076 | 0004 17,543 | 0005 13,539
+                 VOLUME 12 TOTAL 93,730.  ALL FOUR RECORDED FIGURES RE-DERIVE EXACTLY.
+                 ***25 OF 50 BELOW THE 1,800 FLOOR — THE WORST COUNT IN THE BOOK. Volume 12's
+                 mean is 1,874, the lowest of any volume. See the JUDGEMENT below, which
+                 REPLACES the block's defence rather than repeating its disclosure. ***
+                 5 ABOVE THE 2,700 CEILING: 554 (scene) 564 (scene) **570** 574 (scene) 584 (scene).
+                 ***NEW: 570 IS 2,712, IS NOT A SCENE, IS TWELVE WORDS OVER, AND NO STATE FILE
+                 RECORDS WHY. 554, 564, 574 AND 584 ALL HAVE A REASON. §4c REQUIRES ONE. ***
+PARAGRAPHS       2,411 prose paragraphs across the 50 files, headings and italic footers skipped.
+                 **0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY. 0 ODD QUOTATION-MARK
+                 PARAGRAPHS.**
+                 ***ROW ADDED, AND IT IS THE AUDIT'S HEADLINE: THE HOUSE FORM CHANGED AT 571.
+                 BATCHES 0001 AND 0002 WROTE STRAIGHT ASCII DOUBLE QUOTES; BATCHES 0003, 0004
+                 AND 0005 WROTE CURLY ONES. 1,540 STRAIGHT QUOTES IN 551-570, 0 IN 571-600,
+                 AND 35,895 ACROSS VOLUMES 01-11. EVERY ONE OF THE LAST THREE GATE ROWS SAYING
+                 `0 STRAIGHT QUOTES` WAS TRUE OF ITS OWN TEN FILES AND SAID NOTHING ABOUT THE
+                 ONE BEFORE IT. A GATE THAT MEASURES ONLY ITS OWN BATCH CANNOT SEE A CHANGE
+                 MADE BETWEEN BATCHES. RECORDED, NOT APPLIED. ***
+META             PRIMARY CLASS 0 ACROSS ALL FIFTY. WIDENED INCLUDING `manuscript` 0.
+                 EXTENSION CLASS 0. `opposition` 0. The 598 repair holds.
+WEEKNAMES        Seven names, whole-word AND by stem, across all fifty -> 0.
+                 `sat` and `sun` excluded as the verb and the name, correctly.
+AGES             Eleven probe forms plus a bare `aged` sweep plus spelled-out spans plus
+                 `year [1-9]\d\d` -> 0. Nine printed years, ALL SPELLED OUT AND ALL IN THE FORM
+                 *OF YEAR FIVE* in italic footers, which is a date and not a year number.
+                 ***ROW ADDED: THE METHOD IS NOW STATED, BECAUSE A GATE ROW THAT DOES NOT
+                 STATE ITS OWN METHOD CANNOT BE RE-RUN AT ALL. *** Agnete's forty-five is the
+                 one fixed age in the book. Hanneke Ruis has none and none may ever be given.
+ARITHMETIC       SPINE 1,406-1,769 RE-DERIVED TWICE BY METHODS SHARING NO CONSTANT.
+                 METHOD A (y-2)*360 + 330 + (d-1) for a January labelled y, (y-1)*360 + off[m] + (d-1)
+                 otherwise. METHOD B a month-index walk containing no 360 at all.
+                 **50 OF 50 DATES AGREE. 0 MONOTONIC VIOLATIONS. 73 DERIVED FIGURES, 0 FAILURES.**
+                 The 580->581 seam holds at 1,649 - 1,627 = 22. The two-day correction holds at
+                 1,689 - 1,687 = 2. Every batch interval summed against its own endpoints.
+                 ***ONE THING THIS AUDIT GOT WRONG FIRST AND RECORDS: the first pass used the
+                 January convention 5b PROVES IMPOSSIBLE, put 553 at 1,770, and reported two
+                 monotonic violations. A derivation that produces a violation is not a
+                 derivation. It was caught because the check ran against the SPINE. ***
+ANNIVERSARY      Both October anniversaries stay closed. 247 + 360*4 = 1,687 = 589.
+                 1,329 + 360 = 1,689 = 590. 1,689 - 1,687 = 2. Nothing happens on either in
+                 551-600. The fuse is not re-lit. No second time.
+QUARTERLY        552 sixteenth (841) / 566 seventeenth (852) / 576 eighteenth (852) /
+                 586 nineteenth (852) / 600 twentieth (852 unmoved). Every interval 90.
+                 *count of deeds* appears ONCE in fifty chapters, at chapter-0586.md:71,
+                 and it is the misreading: the figure at the top of the page is not a count of
+                 deeds and nobody who is right about anything has ever said it is.
+ACCOUNT          8,1xx 0. two hundred and eleven thousand 0. 211,840 0. settl 0 in every
+                 inflection across all fifty. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE.
+                 ***ROW ADDED: the bare word `floor` returns 35 across the volume and EVERY ONE
+                 IS A WASHROOM FLOOR, A GROUND-FLOOR CORRIDOR OR A SALES FLOOR. NO NUMERIC
+                 FLOOR ANYWHERE. Classified, not reported as a count. ***
+RT               right temple 0 book-wide. cuticle 4 files book-wide, unchanged
+                 (329, 340, 404, 446). ostho 0. Nobody-thanks family 5 files book-wide,
+                 NONE in Volume 12. Mavis Rooke 3 occurrences, all in 587 and 588.
+HEADINGS         One `# ` per file. 208 `## ` across the volume. NO duplicate `##` inside any
+                 file. No heading names the chapter's turn. None built on nothing/nobody.
+                 ***ROW ADDED: `## What Is On It` occurs in THREE chapters (554, 556, 569).
+                 Recorded as an observation, not a breach — the rule is within a file. ***
+MARKDOWN         Blockquotes 0. Tables 0. Rules 0. Fences 0. Bold 0. Single-asterisk markers
+                 EVEN in all fifty files, 0 odd.
+                 ***SYSTEM PANELS RE-RUN VOLUME-WIDE, NOT PER BATCH: ONE IN FIFTY, at
+                 chapter-0566.md:21, in square brackets on its own line, not bold, not italic.
+                 Volume budget five, ONE SPENT, FOUR UNSPENT. *** A per-batch count could not
+                 have reported this, and that is the point of the scope change.
+DUPLICATION      12-GRAM FIRST against all 600 files, body-only (headings and italic footers
+                 stripped), token-normalised. THEN 11 AND 8. EVERY HIT CLASSIFIED BY HAND.
+                 **INSIDE 591-600: NO PAIR SHARES A CONTIGUOUS TWELVE-GRAM RUN LONGER THAN A
+                 SINGLE WINDOW, AND THE LARGEST RESIDUAL RUN ANYWHERE TOUCHING VOLUME 12 IS ONE
+                 TWELVE-GRAM.** Sixteen such windows survive inside 591-600 and all sixteen are
+                 canonical facts: the two words at the height of a name on a plate; the
+                 arithmetic footer stems 5a requires; Brack's offer and his eleven books with
+                 the date and the weather; the rota's four names and its hours; the rule that
+                 nobody on a rota says out loud what they are carrying; 852 unmoved; and the
+                 printed instrument at 595/596, which is a hand writing a document and a clerk
+                 reading it back four days later, and a printed instrument is not duplication.
+                 **AGAINST THE OTHER 590 FILES: 0 RUNS OF 8+ GRAMS AT TWELVE-GRAM, 0 AT
+                 ELEVEN-GRAM, 0 RUNS OF 5+ GRAMS AT EIGHT-GRAM.** chapter-0594.md against
+                 chapter-0515.md: 0.
+                 ***THE THREE CLASSIFICATIONS THE CLOSE PROMPT NAMED, RE-VERIFIED AND NOT
+                 INHERITED. (a) THE PRINTED WORDING STANDS VERBATIM AT 595:41 AND 596:15 AND
+                 NOWHERE ELSE IN 551-600; 591:37 IS BRACK'S PROPOSAL IN HIS OWN WORDS AND MAY
+                 NOT BE QUOTED AS THE PRINTED TEXT. (b) THE CORRIDOR BOARD IS AT 591:89, 597:9
+                 AND 599:19, 599 IS THE DAMP AND NOT THE PIN, AND THE CLASSIFICATION OF THE
+                 FIRST TWO IS WRONG — SEE §0 ABOVE. (c) 599:19 IS A FOURTH STATE OF THE BRANCH
+                 BOARD AND NOT A FOURTH RENDERING; THE FOURTH CONDITION IS STILL CUT OFF AND
+                 STILL UNRESTORED. *** The office's own standing footer sentence is a DIFFERENT
+                 sentence and stands at 551:131, 552:41, 566:113 and 586:27 as canon boilerplate.
+SCENES           FIVE IN FIFTY: 554, 564, 574, 584, 594.
+                 ***THE THREE COUNTED FIGURES AT state/continuity.md §0b RE-DERIVE EXACTLY —
+                 725 / 733 / 1,184 / 1,110 — AND TWO OF THE FIVE LINE SPANS NAMED A LINE THAT
+                 DOES NOT EXIST. chapter-0594.md HAS 97 LINES AND THE SPANS READ 40-98 AND
+                 1-98. CORRECTED IN state/continuity.md §0b. The chapter was NOT edited. ***
+                 Set B AT WORD BOUNDARY: 574 3 · 584 3 · 594 4 · all forty-seven others 0.
+                 ***THE SUBSTRING METHOD IS WRONG FOR THAT BANK: `semen` IS A SUBSTRING OF
+                 `advertisement`, AND chapter-0565.md SCORED TWO FALSE HITS AT :119 AND :121.
+                 THE BLOCK BELOW PUBLISHED THE BANK AS UNAMBIGUOUS AND COUNTED BY SUBSTRING;
+                 BOTH HALVES WERE WRONG. Corrected in state/continuity.md §0b. ***
+STILL OPEN       Lin Wei 0. B103 0. the second folio of 4,112 0. settle 0. the account figure 0.
+                 right temple 0. Nobody argues the reach of the return in either direction.
+                 Nobody says whether the account belonged to the unrecorded. Nobody names the
+                 white tile's maker, in five years or on the last page. Both boxes still blank.
+                 Mavis Rooke 0 in 591-600 and 3 book-wide in 587-588 only. Sowe unforgiven and
+                 undiscussed. Dagmar Oyelowo absent from the volume entirely. Mrs Imrie asked
+                 nothing. Ines's four questions unanswered. Brack answered, not defeated.
+VOLUME           BOTH BOXES BLANK AT THE END OF 600. THE FIGURE BOX BLANK FOR THE REST OF THE
+                 BOOK. THE LANE'S 1,888 MORNINGS PRINTED ONCE AT 600 WITH OPERANDS AND NOWHERE
+                 ELSE IN 551-600. `outline/ending.md` BYTE-IDENTICAL, git status CLEAN.
+```
+
+## THE JUDGEMENT ON OPEN ITEM 5, WHICH REPLACES THE BLOCK'S DEFENCE
+
+**THE DISCLOSURE STANDS. THE DEFENCE DOES NOT.** Batch 0005 disclosed that eight of ten chapters sit below the 1,800 guide floor, that three consecutive batches have breached it, and argued *nothing was padded, because these chapters are short because they are one afternoon or one street.* **Nothing was padded and nothing should have been. But the reason is not the one given, and the close prompt asked for a judgement rather than a disclosure.**
+
+```
+movement                     chapters        mean words   mean DIALOGUE EXCHANGES   mean paragraphs
+one,  Published              551-560             2,195                    24.7              54.2
+two,  Borrowed               561-570             2,662                    52.3              66.8
+three,Countersigned          571-580             1,408                     7.9              28.0
+four, Cross-Read             581-590             1,754                     8.5              39.4
+five, Quoted                 591-600             1,354                    10.2              32.8
+```
+
+**Dramatic density collapsed by a factor of four to six at chapter 571 and never recovered.** Movement two's quarter-end runs 28 exchanges across 51 paragraphs; movement five's runs 5 across 32. Movement two's scene has 129 exchanges and 150 paragraphs; movement four's has 16 and 68. **And the unit sizes did not change:** `chapter-0562.md` is one court room and one counter at 2,091 words and 48 paragraphs; `chapter-0588.md` is one passage and one pencil at 1,477 words and 31 paragraphs. **A one-room chapter in movement two is twice the size of a one-room chapter in movement four, and the difference is not the room.** What changed at 571 is the form: movements one and two dramatise their beats and movements three, four and five report them.
+
+**Every card beat IS present. I checked the last chapter against its card and nothing is missing.** `chapter-0600.md` carries the empty tray, 852 unmoved, the sheet out at four, ninety days and one year and half a year with their operands, the lane's 1,888 mornings printed once, the office at fifty-eight months and twenty-nine days, the verdict in his own hand, Brack not defeated, the tile unnamed, and January shut like a chained book. **Nothing is missing and everything is shorter than it needed to be, because it is told rather than lived.**
+
+**LEANNESS IS NOT COMPRESSION. THE VOLUME'S LAST THIRTY CHAPTERS ARE COMPRESSED.** That is a judgement about a closed volume, recorded with the numbers so that a later planner inherits it as a fact and not as a mood.
+
+## OPEN ITEMS AT THE HEAD OF THE LIST AFTER THIS AUDIT
+
+**THE AUDIT SETTLED ONE, CORRECTED THE FIGURES IN TWO, AND RE-DERIVED RATHER THAN INHERITED A THIRD. NONE OF THE REMAINING EIGHT IS REPAIRED, AND NONE IS THIS PHASE'S TO REPAIR.**
+
+**1 · SETTLED, NOT REPAIRED, AND IT SETTLES AGAINST A STATE FILE: THE SIXTH OF MARCH IS IN YEAR ONE.** `state/current.md` §0d.3 below handed this forward as *five written chapters and two outline rows say year one, the spine says year four*. **That framing was wrong in its premise.** `outline/volume-11.md`:234–243 gives all fifty of Volume 11's dates; re-derived from §5a they recover at 501 = 0 · **505 = 0 × 360 + 30 + 5 = 35** · 537 = 1,139 · 546 = 1,325 · 547 = 1,329 · 550 = 1,347, **fifty of fifty, monotonic, zero violations.** **Volume 11's spine puts the sixth of March in YEAR ONE, and `chapter-0545.md:66`, `chapter-0553.md:79`, `chapter-0584.md:143`, `chapter-0590.md:73` and `outline/volume-12.md` §4b:145 are all RIGHT.** **THE ERROR IS 1,115, WHICH IS `3 × 360 + 30 + 5` — THE SIXTH OF MARCH COMPUTED AS THOUGH IT FELL IN YEAR FOUR. IT ENTERED IN THE BATCH-0004 PASS, WHICH RECORDED IT AS *THE SPINE SAYS FOUR* AND THEN CUT THE WORD *FOUR* OUT OF 584'S FOOTER INSTEAD OF CHECKING THE ANCHOR. `chapter-0584.md` CONTRADICTS ITSELF TODAY: `:143` SAYS YEAR ONE AND `:147` MEASURES FROM 1,115. THE CORRECT SUBTRACTION IS `1,663 − 35 = 1,628` DAYS, NOT 548.** **CANON CHANGE, FLAGGED AS §0d.3 BELOW ASKED: 1,115 IS WITHDRAWN AND NO ROW IN `state/continuity.md` MAY REUSE 548.** One clause in one finished chapter; not applied here.
+**2 · `chapter-0553.md:23` IS THE WRONG LINE AND THE DEFECT OCCURS TWICE. IT IS AT `:63`, AND THE IDENTICAL SENTENCE STANDS AT `chapter-0544.md:25` IN VOLUME 11.** *Thirty years is three hundred and sixty days multiplied by ten* — thirty years is 360 × 30. **Volume 11's close ran five checks and found five failures, and this is a sixth it did not find, because every one of its checks was a subtraction and this is a multiplication. No open item in this repository names the Volume 11 instance.**
+**3 · `chapter-0570.md:169` PRINTS *A YEAR AND THREE MONTHS AGO* FOR AN EVENT THAT CANNOT BE LOCATED. DELIBERATE OPEN.** The yard scene in this volume is `chapter-0560.md` at spine day 1,439 and 570 is 1,530, so **`1,530 − 1,439 = 91` days**, which is three months and one day, and `chapter-0560.md:91` prints that *nobody in that yard said anything about his sentence being narrow*, the opposite of what 570 attributes to it. **NOT GUESSED AT: guessing would be a second invented date on a page that already carries one.**
+**4 · THE HOUSE FORM CHANGED AT 571 AND EVERY GATE WAS BLIND TO IT.** 1,540 straight quotes in 551–570, curly from 571, 35,895 straight across Volumes 01–11. **A gate that measures only its own batch cannot see a change made between batches.** Correct form: the curly one 571–600 already uses.
+**5 · TWO LINE SPANS AT `state/continuity.md` §0b NAMED A LINE THAT DOES NOT EXIST. APPLIED — see the gate row above.** No longer open.
+**6 · THE `DUPLICATION` CLASSIFICATION MIS-DESCRIBED ITS OWN EVIDENCE. APPLIED — see §0 above.** The duplication finding itself is not open; `599:19` is a fourth state and not a fourth rendering.
+**7 · THE `BODIES/STAGINGS` ROWS CERTIFIED *MAVIS HAND-FLAT NOWHERE* AND `chapter-0584.md:75` HAS IT. APPLIED to the rows; THE PAGE IS NOT REPAIRED.** Whether the long-register two-hands version is a distinct staging from Mavis's single attributive hand is a judgement, and it is left to the phase that owns the page.
+**8 · SET B IS DESCRIBED AS UNAMBIGUOUS AND IS NOT, UNDER ITS OWN METHOD. APPLIED — see the gate row above.**
+**9 · WORD-COUNT CONTRACTION FROM 575. DISCLOSED FOR THREE BATCHES AND NOW JUDGED ABOVE. THE JUDGEMENT DISAGREES WITH THE DEFENCE.**
+**10 · `chapter-0570.md` IS TWELVE WORDS OVER THE 2,700 CEILING, IS NOT A SCENE, AND HAS NO REASON RECORDED. §4c REQUIRES ONE.** A gap in the record, not a defect in the prose.
+**11 · `logs/batch-0004.review.log` IS A WRITER TRANSCRIPT AND `logs/batch-0003.review.log` IS ABSENT. BOTH RE-DERIVED INSTEAD OF INHERITED AND BOTH HOLD — THE REPAIRS ARE VISIBLE ON THE PAGE. WHAT IS WITHDRAWN IS THE WORD *REVIEWED*.** `logs/` holds three files and none is a batch review. `AGENTS.md`'s gate line *a reviewer has checked the result* has been satisfied for at least three batches in this volume by the writer re-deriving its own figures. **The fix belongs to the workflow. `scripts/`, `.github/` and `opencode.json` are controller files and this phase did not touch them.**
+
 # VOLUME 12 BATCH 0005 IS REPAIRED AGAINST ITS REVIEW. CHAPTERS 591–600 ARE ON DISK. **TEN FINISHED FILES. EVERY ROW OF THE GATE BELOW IS RE-RUN, NOT ASSERTED — AND TWO ROWS IN THE PREVIOUS EDITION OF THIS BLOCK WERE FALSE AGAINST THE FILES ON DISK AND HAVE NOW BEEN RE-DERIVED. THE VOLUME'S LAST IRREVERSIBLE DECISION IS AT 595 AND IT IS HIS. THE NEXT AND ONLY PHASE IS `workspace/volume-12/volume-close/PROMPT.md`, A CLOSE PHASE THAT WRITES NO CHAPTERS. `state/complete.md` IS NOT CREATED.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM. Narrative at the head of `state/current.md`.
 
 ## THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT WROTE 591–600 AND RE-RUN AGAIN IN THE COMMIT THAT REPAIRED THEM AGAINST `logs/batch-0005.review.log`
