@@ -1,3 +1,58 @@
+# VOLUME 16 BATCH 0002 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 2,946 TO 3,009. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                        METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED,
+                                        pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4.
+761   7 Apr y9  2,946  +7 SEAM   766  12 May 2,981  +7
+762  14 Apr     2,953  +7        767  19 May 2,988  +7
+763  21 Apr     2,960  +7  SCENE 768  26 May 2,995  +7
+764  28 Apr     2,967  +7        769   3 Jun 3,002  +7
+765   5 May     2,974  +7        770  10 Jun 3,009  +7  QUARTER-FOOT, NOT A QUARTER-END
+METHOD A AND METHOD B AGREE ON TEN OF TEN.  ZERO MONOTONIC VIOLATIONS.
+```
+
+**THIRTY FOOTER INTERVALS WERE PARSED OFF THIRTY PAGES AND RE-DERIVED BY COMMAND: THIRTY PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, AND THE COUNT OF UNPARSED ROWS IS PRINTED AS A NUMBER.** Ten month breakdowns against `n × 30 + m`: ten parsed, ten derived, zero unparsed, zero mismatches. Three anchors, all printed with their operands in three italic footers in every chapter: the previous chapter's day · **the quarter-end the current sheet went up on, 2,939** · the drawer instruction, 2,420.
+
+**THE SEAM IS SEVEN AND IT IS IN ITS OWN COLUMN AND IT IS NOT ONE OF THE NINE.** `2,946 − 2,939 = 7`. The nine interior intervals are `7 7 7 7 7 7 7 7 7 = 63` and `3,009 − 2,946 = 63`. **Every interval in this batch is seven and that is correct and is not a typo. The sixth of September is the seventh and the twenty-ninth of August is the sixth, but that is 779 and 785 and they are not in this batch; 0004 is where the sixes are and one of them is deliberate.**
+
+## THE RAIL, WHICH IS THE ROW THAT COST TEN CHAPTERS IN VOLUME 15
+
+**THE RULE: THE CLAUSE IS `CHAPTER DAY − (THE DAY THE CURRENT SHEET WENT UP)`, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END. IT IS NOT A CHAPTER'S OWN DAY.** The thirty-third went up at `2,939` on the thirtieth of March. The thirty-fourth goes up at `3,029` on the thirtieth of June.
+
+```
+761   7   762  14   763  21   764  28   765  35
+766  42   767  49   768  56   769  63   770  70
+```
+
+**TEN CLAUSES, TEN RE-DERIVED FROM 2,939, ZERO MISMATCHES. At 770 the thirty-third sheet has been face up on that rail for seventy days and does not come down until the thirtieth of June at `3,029`.** At 761 the previous-chapter interval and the rail are both seven, because 760 was a quarter-end and the sheet changed on it, and the two footers are told apart by their clause and not by their number.
+
+**NO QUARTER-END IS STAGED IN 761–770. THE TENTH OF JUNE IS NOT ONE. 773 IS.**
+
+**THE HEAD IS NOT PRINTED IN THIS BATCH AND IS 0 ACROSS ALL TEN FILES.** `2,939 − 1,499 = 1,440 = 16 × 90` at the quarter-end 760 stood on; `3,009 − 1,499 = 1,510`, which is sixteen quarters and forty days. **The ordinal counts belong to 773 and 800 and are not printed here.**
+
+## WHAT MOVED ON THE PAGE IN 761–770, AND WHAT IS NOW A DIFFERENT SITUATION
+
+**THE FIFTH FIELD IS FILLED, FOR THE FIRST TIME IN NINE YEARS, ON THE TWELFTH OF MAY.** Out of the mouth of the person it is about, in that person's own words, on the instruction of the tenth of June, which had been obeyed every day for nine months and had produced a receipt every morning of them. **It is entered for ever and cannot be improved and cannot be taken from.** The clerk says out loud what the field is and what it is not, before a word goes in, so that no clerk can afterwards be said to have put a description in the wrong place.
+
+**A QUESTION IS NOW A THING THAT CAN BE WRITTEN DOWN AND IT CANNOT BE ANSWED.** A woman said *then what do I do* at that counter on the fourteenth of April and a clerk entered six words on the standing sheet with a date and an hour, and there is nowhere in this city to be told. The woman who said it came back on the ninth of May with her piece of pencil paper and on the twelfth with the sentence that filled the field.
+
+**AND THE INSTRUCTION HAS ALREADY DONE HARM.** On the nineteenth of May a second woman, standing third in a line, said out loud in front of about nine people what the first woman had done, and it was wrong, and a clerk entered it in the second woman's own words with a date and an hour, because it was said at that counter, and she would not write a correction in a row nine minutes old.
+
+**AND THE OFFICE IS NOW A PLACE SENTENCES ARE CARRIED TO.** Four people in seven days, and the fourth was given her sentence at a kitchen table before she came up the stair.
+
+**AND THE WOMAN WHO CANNOT READ CAME UP FOUR FLIGHTS A SECOND TIME, ON HER OWN, ON THE FIFTH OF MAY, AND SAID THE SAME ELEVEN WORDS IN NINE SECONDS, AND A WOMAN WITH A PENCIL WROTE THEM ON A SHEET AND READ THEM BACK FIVE TIMES AND DID NOT HEAD THEM, AND HE WAS IN THE ROOM AND DID NOT SAY THE THING THAT WOULD HAVE GOT THEM INTO A BOOK.** Nobody sent her. Nobody is going to be sent. She is not named, not aged, not traced.
+
+**AND THE ANSWER HE WENT TWO FLIGHTS AND FOUR HOURS DOWN A STAIRCELL TO GET IS A NO HE ASKED FOR.** What is taken out of a body goes into another body, and telling somebody does not end it, it moves it, and the only two people alive who could put that right are two people who will not, and neither of them is doing it for a reason anybody could defend at a hearing.
+
+**AND THE DECISION, AT 770, IN THE OFFICE'S HAND, WITH THE DATE AT THE TOP AND HIS NAME UNDER IT, UNDER THE FOUR SENTENCES AND ABOVE THE STRIKING AND IN NO COLUMN:** *From the tenth of June of this year, when a person brings a paper to that counter, this office is to tell that person, in that room, what this office holds about them, and nothing else, and not to improve it.* **It goes out at four on the thirtieth of June.**
+
+**WHAT IT CLOSES, IN ONE SENTENCE: for the first time in the history of this city, there is no such thing as a record a person may never hear.** What it costs is stated by the counterman, who will read one more line at the bottom and cannot be asked to read less of it and is not going to be told what it means, and by Wenna Raut, who from today is a person who says things about people out loud and does not know whether they are true, and who has spent nine years being a person who writes down what she is given and cannot be wrong. **And by him, in the only way the batch gives him anything: he did not price it first.**
+
+**WHAT IS UNMOVED: THE HEAD (printed at 760 and not again), THE SECOND COLUMN AT FOUR LINES WITH NO FIFTH, THE BUNDLE AT TWENTY-SIX THINGS AND NOTHING TAKEN OFF IT, THE DRAWER THAT CAN NEVER BE OPENED, THE TWO RULED SQUARES THAT HAVE BEEN EMPTY SINCE THE EIGHTH OF OCTOBER OF THE FIRST YEAR AND ARE SEEN EMPTY AT 761, THE BOY, THE WOMAN WITH THE SHORT-HANDED BROOM, THE TWO WORDS ON THE STONE, AND THE FIGURE OF THE ACCOUNT, WHICH IS NOT PRINTED ANYWHERE IN 751–800 AND MAY NOT BE.**
+
 # VOLUME 16 BATCH 0001 ON DISK, AND REPAIRED — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 2,880 TO 2,939. THE REVIEW-FIX PASS OF 14 OCTOBER 2026 TOUCHED NO SPINE FIGURE AND MOVED NO DATE. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
