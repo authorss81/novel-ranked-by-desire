@@ -60,7 +60,7 @@ She stood at the bottom of it for about four minutes.
 
 There is no instrument in this city for serving a person at a place a person can be found at, and there is no form for writing down a service effected at a place, and the day book has two columns and neither of them is *found at*.
 
-So she wrote it the way a field officer writes anything, in her own hand, with her rank and the hour and the place: that she had gone to the last address at which the person named was known to have been, and that the last address is a passage, and that there is no door onto a street at it, and that she had carried the document up two flights.
+So she wrote it the way a field officer writes anything, in her own hand and in the flat one she uses at a counter, and she put her rank against the hour and against the place, and then she wrote that she had gone to the last address at which the person named was known to have been, and that the last address is a passage, and that there is no door onto a street at it, and that she had carried the document up two flights.
 
 That is a reason and not a conclusion, and the box at the foot of the tenth line is for a reason.
 
@@ -122,7 +122,7 @@ He got his own coat off over his shoulders and she reached across him and got hi
 
 Then she took hold of his cock in her fingers and turned it a little without any particular ceremony, the way a woman handles a thing she is not going to hurry over.
 
-“Six years,” she said. “Six years of writing down what I saw in nine lines and a ruled box at the end of them, and not one night of it has ever been about me, and tonight there is going in that box a reason and it is not going to be a fact about a building.”
+“Six years,” she said. “Six years of writing down what other people did, nine lines and a ruled box at the end of them, and not one night of it has ever been about me, and tonight there is going in that box a reason and it is not going to be a fact about a building.”
 
 “That is the first thing about you tonight that I believe,” said Lin Hao.
 
@@ -142,7 +142,7 @@ She took him into her mouth at the top of his cock and then all the way down, an
 
 She sucked him slowly and she was very good at it and she was enjoying herself, and that was a fact about her body and not a thing she said, because she was not saying anything for about four seconds and the only sounds in the room were hers and the stair and the bracket lamp going with the draught off the boards.
 
-He put his hand on the back of her head and she let him have it there for about nine seconds and then shook it off and pushed his hand down onto the table where she could not reach it, which she did with her chin.
+He got his hand into her hair above the grip she had set with her palm and she let him have it there for about nine seconds and then shook it off and pushed his hand down onto the table where she could not reach it, which she did with her chin.
 
 “Right. In order.”
 
@@ -160,7 +160,7 @@ She was already wet enough that she had to use two fingers to get into herself a
 
 She had him inside her in about two seconds and she took all of it and made a noise that was not small and she did not try to hold it back, and she stayed there for about four seconds without moving at all, her hands braced on the top of the table on either side of him and her head tipped back.
 
-“There,” she said. “That. That is the thing I have wanted since about the eleventh of February and I have not had it since before you were on that rota, and I have been in about nine hundred rooms in six years and I have not had it in one of them.”
+“There,” she said. “That is the one. I have wanted it since about the eleventh of February and have not had it in the whole time since, and I have been in about nine hundred rooms in six years and I have not had it in one of them.”
 
 He got a fist in the cloth at the back of her shirt and she let him hold it there and then went faster without telling him to.
 
@@ -184,13 +184,17 @@ They went again after that, on their feet, with her back against the edge of the
 
 She had him in her cunt and she was loud enough that the bracket lamp shook on its bracket, and she got her own hand between her legs and worked two fingers against herself while he was in her and told him exactly what she wanted, and she said it in the words she uses at a counter and not in the words she would have used at one.
 
-He came on inside her and she pushed back against him and took the whole of it and came again with her forehead against his collar and her nails in his shoulder hard enough that he felt them there a week afterwards.
+She stopped him with two fingers flat on him and the flat voice and about a second before the end of it, and said that she had been in a coat since before the light came up and she was not going to spend the end of it on that.
 
-Then she stood still for about four seconds with her arms round his neck and her breathing ragged enough to hear, and neither of them said one word, and in six years she has not been silent for less than four seconds after anything.
+Then she came off him and sat down on the boards with her back against the leg of the table and moved the satchel out from under the bracket lamp with the side of her boot, and she counted the nine documents out loud on the fingers of one hand, twice, the way a clerk does at the end of a day, and got the same nine both times.
 
-He understood, some time after that, what it had been.
+She had served nine documents on nine people at nine doors in an order nobody has ever written down and had got it right eight times out of nine. In nine years the tenth line was going to be the only one of the ten she had ever put anything of her own into.
 
-She had spent the whole of a day serving a rule that nobody names out loud, on nine people at nine doors, and the last one of them had put her in a room with the only man in this city she was not frightened of, and she had wanted it before the first of the nine and she had not asked and she was not going to be thanked.
+It was going to be four words in a box at the foot of a page, and it was going to have to be written standing up at the end of a corridor with a piece of chalk.
+
+He had spent the evening being a room with a stair at the back of it.
+
+She had spent the whole of the day being a rule that nobody names out loud, and she was the only person in this city who could write it down, and she was going to have to do that in the morning with nobody in the corridor to see her do it, and she was not going to be thanked for either of them.
 
 “Your tenth line,” she said.
 
@@ -200,7 +204,7 @@ She had spent the whole of a day serving a rule that nobody names out loud, on n
 
 ## The Tenth Line
 
-She did it at the counter end of the corridor with the day book flat open on the stone and the chalk in her hand, because a field officer writes her own day standing up and has done for nine years.
+She did it at about half past nine at the counter end of the corridor with the day book flat open on the stone and the chalk in her hand, because a field officer writes her own day standing up and has done for nine years.
 
 The two columns at the end of the page she filled in first, because they are the two columns anybody looks at. Person, or address. And under each one the hour, because the rule is that the hour goes against whichever of the two it was.
 
@@ -208,7 +212,7 @@ Eight of them said person. One of them said address, and the address is a passag
 
 Under both columns there was a space about two inches deep and a printed box at the end of it, and she filled that in last, and she put four words in it, and she did not read them out to anybody then or afterwards.
 
-He was in the room with the door shut and his shirt buttoned and he did not ask her about it and she did not offer it, and that was the whole of what passed between them about the box and it was the whole of what was ever going to pass between them about the box.
+He was in the room with the door shut and had been since before the light came up, and his shirt was buttoned, and he did not ask her about it and she did not offer it, and that was the whole of what passed between them about the box and it was the whole of what was ever going to pass between them about the box.
 
 “Two columns and a box,” he said, when she had the cover on. “And I have read most of them.”
 

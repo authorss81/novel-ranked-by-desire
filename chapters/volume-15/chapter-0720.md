@@ -20,7 +20,7 @@ Wenna Raut had the book open and she did not look up.
 
 “All right.”
 
-“It goes in the Register and it goes in from today and it is not going to wait for the quarter-end, because the whole point of it is that it starts now and there are already about four hundred and twenty rows in that book with nothing in them but a day and an hour.”
+“It goes in the Register and it goes in from today and it is not going to wait for the quarter-end, because the whole point of it is that it starts now, and there are four hundred and thirty rows in that book and every one of them has nothing in it but a day and an hour, and the eleven newest of them are seventy days old.”
 
 ## The Instruction
 
@@ -66,7 +66,7 @@ She picked the pen up.
 
 It took her about four minutes and she read it all back in the order it stood and his name was in it, and it went into the bound Register and not one stroke of it went into the column.
 
-Before this morning there was nothing in this city that could say anything at all about a person who had brought a piece of paper to a building with no door onto a street. Not their name, which they may not give. Not their trade. Not whether they have been before. There was a day and an hour and about four hundred and twenty rows and nothing whatever else in any of them.
+Before this morning there was nothing in this city that could say anything at all about a person who had brought a piece of paper to a building with no door onto a street. Not their name, which they may not give. Not their trade. Not whether they have been before. There was a day and an hour and four hundred and thirty rows and nothing whatever else in any of them.
 
 From today there is a description.
 
@@ -88,7 +88,7 @@ This is not a sheet day and it is not a quarter-end. The thirtieth does not go o
 
 She had the pen down and the book open and she said, “Then stand there, because the first one under it has been at the door since half past ten and I am not going to put a person into that row in front of the person who wrote the instruction if he is in the room.”
 
-A woman came in and put a piece of pencil paper on the counter, which is what about eleven people a week do now, and it was about the size of a receipt.
+A woman came in and put a piece of pencil paper on the counter, which is what that door has been for seventy days now, and it was about the size of a receipt.
 
 “Where do you live.”
 

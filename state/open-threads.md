@@ -1,4 +1,4 @@
-# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, 22,530 WORDS. MOVEMENT TWO, *THE FOURTH COLUMN*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, 22,788 WORDS AFTER THE `logs/batch-0002.review.log` REPAIR. MOVEMENT TWO, *THE FOURTH COLUMN*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS A GATE ROW THAT WAS WRONG
 
@@ -31,9 +31,9 @@ FILES           720 chapter files on disk. Volume 15 holds 701-720 and 720 is th
 TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 720 FILES.
                 The ten title lines checked separately from their bodies for straight glyphs:
                 0 straight doubles, 0 straight apostrophes, 0 curly, all ten pure ASCII.
-BANK            Volume 15 so far is 22,530 words in this batch and 22,377 in batch 0001, and the
-                two sum to 44,907, counted per file and summed from disk:
-                1,863 2,122 4,532 2,092 1,942 1,819 1,967 2,182 1,937 2,074 = 22,530.
+BANK            Volume 15 so far is 22,788 words in this batch and 22,377 in batch 0001, and the
+                two sum to 45,165, counted per file and summed from disk:
+                1,863 2,122 4,692 2,092 1,944 1,902 1,967 2,182 1,937 2,087 = 22,788.
                 The counter was proved first on chapter-0700.md, a file this pass did not write,
                 which returns 2,013 by `wc -w` and by a Python whitespace split.
 SPINE           Volume 15, 2,520 -> 2,649 across two batches, monotonic at 0 violations by METHOD A
@@ -42,8 +42,28 @@ SPINE           Volume 15, 2,520 -> 2,649 across two batches, monotonic at 0 vio
                 is 31 at 700/701 and 7 at 710/711 and each is printed in its own column and is
                 not one of the nine of its own row.
 FOOTER ROW      34 intervals in 711-720 parsed off the pages and re-derived from day numbers:
-                34 parsed, 34 re-derived, 0 mismatches, 0 unparsed. One real error found and
-                fixed, at 713:227. 19 printed month breakdowns checked against n x 30 + m: 0 wrong.
+                34 parsed, 34 re-derived, 0 mismatches, 0 unparsed. Two real errors found and
+                fixed, at 713:227 and 715:93. **THIS ROW PREVIOUSLY SAID `19 printed month
+                breakdowns checked against n x 30 + m: 0 wrong`, AND BOTH NUMBERS WERE WRONG.
+                RE-DERIVED FROM DISK THERE ARE 23 AND ONE WAS FALSE. 715:93 PRINTED `208 days,
+                which is six intervals of thirty exactly`; 6 x 30 = 180. It now prints `six
+                months and twenty-eight days after them`, as 714:95 and 716:67 already printed
+                for the same 208 against the same anchor. 23 FOUND, 23 RIGHT AFTER THE FIX. A
+                ROW THAT REPORTS A PASS IS NOT A CHECK.**
+THE REGISTER    **THE ROW-COUNT BREAK BETWEEN 716 AND 720 IS CLOSED. THE REGISTER HAS HELD FOUR
+                HUNDRED AND NINETEEN ROWS SINCE BEFORE THIS OFFICE HAD A CLERK'S HAND IN IT
+                (`chapter-0695.md`:101, `chapter-0710.md`:13 — *a date against it, an hour
+                against the date, and nothing whatever against the hour*), AND ELEVEN MORE WENT IN
+                AFTER THE INSTRUCTION OF THE THIRTIETH OF MARCH: eleven by the seventh of April
+                (711:27,37,99), eleven on the last leaf on the twelfth of May (716, now scoped
+                *since the thirtieth of March* and printed above the four hundred and nineteen),
+                AND STILL ELEVEN ON THE TENTH OF JUNE, so `419 + 11 = 430`, which is what 720:23
+                and 720:69 now print, the newest of them seventy days old (`2,649 - 2,579 = 70`).
+                **THE BURST WAS EIGHT DAYS AND THE DOOR WENT QUIET, AND 720:91 NO LONGER CLAIMS
+                `about eleven people a week`, WHICH COULD NOT CARRY ELEVEN OVER SEVENTY DAYS.**
+                The 409 in the two boxes and the 419 in the Register are different objects and
+                are not merged anywhere in 701-750. The first entry under the instruction at 720
+                is the four hundred and thirty-first.**
 THE HEAD        852, unmoved since 1,499, and NOT moved. THIRTEEN SHEETS at 720 (29-16) and TWELVE
                 QUARTERS ((2,649-1,499)/90 = 12 rem 70). Both right, they differ by one, and 720
                 says in words which is which. 720 is not a sheet day and not a quarter-end.
@@ -57,7 +77,7 @@ SPENT FIGURES   the office's months once, at 701 (2,520 = 30 x 84 + 0) — the s
 INVENTED-FIGURES SENTENCE  zero verbatim and zero Tier 3 across 701-720, in any chapter and in any
                 footer. Spent at 658 and it stays spent for the rest of the book.
 SCENES          Volume 15 has spent TWO of its five. 703 Sun Meiling at 3,873 and 713 Runa Sato at
-                4,532, both seven-way measured in `state/current.md` with the line span beside every
+                4,692, both seven-way measured in `state/current.md` with the line span beside every
                 cell, both at word boundary. 723, 733 and 743 remain.
 PANELS          0 of Volume 15's five spent, across both batches.
 ```

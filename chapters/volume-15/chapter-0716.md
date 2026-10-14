@@ -10,7 +10,7 @@ She had had it since about nine and she spent it at twenty past ten, and it was 
 
 “All right.”
 
-“There are eleven pieces of paper entered as received in that book and there is a row against every one of them with a day and an hour and nothing else on it. Not one of the eleven has a person in it. Not one of the eleven has anything at all that a person said.”
+“There are eleven pieces of paper entered as received in that book since the thirtieth of March and there is a row against every one of them with a day and an hour and nothing else on it. Not one of the eleven has a person in it. Not one of the eleven has anything at all that a person said.”
 
 She turned the book round a quarter so the rows were the right way up for him, which she does about four times a year.
 
@@ -82,7 +82,9 @@ That is not the field she has asked about and she knew it before she asked and s
 
 She had the book open at the eighth of April and she put her thumb on the row.
 
-“There are eleven rows and every one of them has a day and an hour and nothing else, and eleven is a figure I have now got that I did not have on the first of April.”
+“There are eleven rows on the last leaf and they are the eleven that have gone in since the thirtieth of March, and every one of them has a day and an hour and nothing else, and eleven is a figure I have now got that I did not have on the first of April.”
+
+Under the eleven of them there are four hundred and nineteen, which she has never counted twice in the same week, and every one of those four hundred and nineteen has a date against it and an hour against the date and nothing whatever against the hour, and has had since before there was a clerk's hand in this city.
 
 “Eleven is not a count of claims and it is not a count of people. It is a count of pieces of paper that came through a door, and it will be about four hundred by the end of next year if this goes on at the rate it has gone on for eight days.”
 

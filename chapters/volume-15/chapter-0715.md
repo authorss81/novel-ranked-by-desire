@@ -90,7 +90,7 @@ He said: “A copy will tell you when it was copied. A person will tell you when
 
 *Less two thousand three hundred and ninety-nine, the thirtieth of September of the seventh year, is two hundred and fifteen days, which is seven months and five days after them, and every copy with four sentences at the foot of it and no receipt has been older than that afternoon for every one of them.*
 
-*Less two thousand four hundred and six, the seventh of October of the seventh year, is two hundred and eight days, which is six intervals of thirty exactly, and the seventy-first form goes up on that date and there is no part of this room that touches it.*
+*Less two thousand four hundred and six, the seventh of October of the seventh year, is two hundred and eight days, which is six months and twenty-eight days after them, and the seventy-first form goes up on that date and there is no part of this room that touches it.*
 
 ## The Man Left With It In His Pocket
 

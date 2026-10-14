@@ -88,7 +88,7 @@ She put the pencil down and squared it against the edge of the bench.
 
 She wrote it in one line at the top of the column, underneath the six words, in her own hand and not in any printed hand, and it took her about eleven seconds and she did not improve it and she did not read it back.
 
-WHAT THE SHEET SAID THAT DAY IS WHAT A COPY OF A PUBLIC PAGE CARRIED ON THE DAY IT WAS MADE. IT IS ABOUT NO STONE. IT IS ABOUT NO WALL. IT IS ABOUT NO COLUMN BUT THIS ONE AND THE COLUMN BELOW IT. A WOMAN RULED IT IN THIS ROOM ON THE AFTERNOON OF THE FOURTEENTH OF OCTOBER OF THE SEVENTH YEAR AND TOLD NOBODY.
+*WHAT THE SHEET SAID THAT DAY IS WHAT A COPY OF A PUBLIC PAGE CARRIED ON THE DAY IT WAS MADE. IT IS ABOUT NO STONE. IT IS ABOUT NO WALL. IT IS ABOUT NO COLUMN BUT THIS ONE AND THE COLUMN BELOW IT. A WOMAN RULED IT IN THIS ROOM ON THE AFTERNOON OF THE FOURTEENTH OF OCTOBER OF THE SEVENTH YEAR AND TOLD NOBODY.*
 
 She put the pencil down across the bench.
 

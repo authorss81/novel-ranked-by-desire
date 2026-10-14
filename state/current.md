@@ -1,4 +1,4 @@
-# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, **22,530 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT TWO, *THE FOURTH COLUMN*. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/batch-0003/PROMPT.md`, CHAPTERS 721–730, AND IT IS THE ONLY ONE THIS PASS CREATED. NO VOLUME-CLOSE PROMPT. NO BATCH 0004. `state/complete.md` IS NOT CREATED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 711–720 AND DELETES NONE OF THEM.**
+# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, **22,788 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT, WHICH WAS THE `logs/batch-0002.review.log` REPAIR**. MOVEMENT TWO, *THE FOURTH COLUMN*. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/batch-0003/PROMPT.md`, CHAPTERS 721–730, AND IT IS THE ONLY ONE THIS PASS CREATED. NO VOLUME-CLOSE PROMPT. NO BATCH 0004. `state/complete.md` IS NOT CREATED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 711–720 AND DELETES NONE OF THEM.**
 
 ## THE HEADLINE OF THIS BATCH, AND IT IS THE THING THE PLAN DID NOT SEE COMING
 
@@ -17,18 +17,18 @@
 ## THE BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT
 
 ```
-711  1,863      712  2,122      713  4,532      714  2,092      715  1,942
-716  1,819      717  1,967      718  2,182      719  1,937      720  2,074
-BANK = 22,530
+711  1,863      712  2,122      713  4,692      714  2,092      715  1,944
+716  1,902      717  1,967      718  2,182      719  1,937      720  2,087
+BANK = 22,788
 ```
 
 **THE COUNTER WAS PROVED BEFORE IT WAS TRUSTED. `chapter-0700.md`, a file this pass did not write, returned 2,013 by `wc -w` and 2,013 by a Python whitespace split, and the ten cells above were taken per file and never from a concatenation.**
 
-**NINE OF THE TEN ARE INSIDE 1,800–2,700 AND OWE NO REASON.** 716 closed at 1,819 and 711 at 1,863; neither is near a boundary and neither was padded.
+**NINE OF THE TEN ARE INSIDE 1,800–2,700 AND OWE NO REASON.** 711 closed at 1,863 and 716 at 1,902; neither is near a boundary and neither was padded.
 
 ## 713 IS THE ONE CHAPTER OUTSIDE THE BAND, AND THE REASON IS RECORDED HERE AS `outline/volume-15.md` §9 REQUIRES
 
-**713 IS 4,532 WORDS AND IS 1,832 ABOVE THE CEILING.** The standing instruction is that **the default is longer and not shorter and that a scene is never compressed to fit a band**, and the outline names its own precedents: 653 at 3,942, 663 at 3,813, 673 at 3,445, 683 at 4,046, 693 at 3,901 and 703 at 3,873, each with its reason on the record. 713 is the volume's second structural debt paid, one hundred and ten chapters after Runa Sato's own last scene, and it is built on the axis the plan gives it — a return is served on the person it names or at the last address he is known to have, and the officer writes down which one she did and in which order — and not on a counted minute, on terms, on a body described three times, on quiet, on voice, on witness, on order, on arithmetic said out loud, on the one question, on the hour, on two readings, on a stand, on a shelf, on a chart, on a copy in her hand, or on the heading.
+**713 IS 4,692 WORDS AND IS 1,992 ABOVE THE CEILING.** The standing instruction is that **the default is longer and not shorter and that a scene is never compressed to fit a band**, and the outline names its own precedents: 653 at 3,942, 663 at 3,813, 673 at 3,445, 683 at 4,046, 693 at 3,901 and 703 at 3,873, each with its reason on the record. 713 is the volume's second structural debt paid, one hundred and ten chapters after Runa Sato's own last scene, and it is built on the axis the plan gives it — a return is served on the person it names or at the last address he is known to have, and the officer writes down which one she did and in which order — and not on a counted minute, on terms, on a body described three times, on quiet, on voice, on witness, on order, on arithmetic said out loud, on the one question, on the hour, on two readings, on a stand, on a shelf, on a chart, on a copy in her hand, or on the heading. **THE REVIEW PASS ADDED 160 WORDS TO IT AND CUT 125 BACK OUT OF THE PARTS THAT RESTAGED 603: the net is a closing that turns on the tenth line, the chalk and a woman counting nine documents on her fingers twice, and not on a man understanding afterwards what it had been. Two further clause-level lifts out of 603 are gone — her `nine lines and a tenth with a box` speech, her `There. That. That is the thing.` and the rota clause — and the longest shared contiguous run between 713 and 603 is now NINE TOKENS, which is the volume's house negative and not a scene.**
 
 **AND THE FIRST EDITION OF THE SCENE, IN THE SAME COMMIT, MEASURED AT 1,183 WORDS OVER ITS OWN SECTION, SCORED `cock` 0 AND `cunt` 0 AND WAS IMPLICATION BY SUMMARY. IT WAS WRITTEN OUT AS THE ACTUAL SCENE BEFORE THE MEASUREMENT WAS ACCEPTED, AND THAT IS THE +2,349.** The record exists because 703's first edition scored zero on the same probe and was rewritten for the same reason, and because **a probe of zero is not a pass.**
 
@@ -36,28 +36,28 @@ BANK = 22,530
 
 | Definition | Line span | Words |
 | --- | --- | --- |
-| first `##` to last `##`, inclusive of both heading lines | **5–231** | **4,230** |
-| first `##` to last `##`, exclusive of both heading lines | **6–230** | **4,216** |
-| scene section *The Room At The Top Of Two Flights* to the last `##`, inclusive of both | **69–231** | **3,078** |
-| the same, exclusive of both heading lines | **70–230** | **3,061** |
-| scene section alone, inclusive of its heading | **69–200** | **2,457** |
-| scene section alone, exclusive of its heading | **70–200** | **2,448** |
-| whole file, 241 lines, ends 0a | **1–241** | **4,532**, which reconciles to the bank |
+| first `##` to last `##`, inclusive of both heading lines | **5–235** | **4,390** |
+| first `##` to last `##`, exclusive of both heading lines | **6–234** | **4,376** |
+| scene section *The Room At The Top Of Two Flights* to the last `##`, inclusive of both | **69–235** | **3,221** |
+| the same, exclusive of both heading lines | **70–234** | **3,204** |
+| scene section alone, inclusive of its heading | **69–204** | **2,585** |
+| scene section alone, exclusive of its heading | **70–204** | **2,576** |
+| whole file, 245 lines, ends 0a | **1–245** | **4,692**, which reconciles to the bank |
 
-**THE `## ` HEADING LINES IN 713 ARE 5, 19, 47, 69, 201 AND 231, MEASURED FROM DISK IN THIS COMMIT AND NOT CARRIED. THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY OVER LINES 69–200 RETURNS `cock` 2, `cunt` 1, `sucked` 1, `wet` 2, `naked` 1, `came` 10, `come` 1, `coming` 2, `inside` 3, `tits` 1; semen, pussy, cum, jizz, knob, fanny, arse and licked at 0. WORD BOUNDARY, NOT SUBSTRING: `semen` is a substring of `advertisement`. THE SUBSTRING CONTROLS IN THAT SPAN ARE `semen` 0, `cum` 4 (all inside *document* and *documents*), `sat` 10 (all inside *satchel* and *Sato*) and `sun` 0.** No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a chest spent since the fourth year and no permission of any kind; **no violence anywhere in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance.
+**THE `## ` HEADING LINES IN 713 ARE 5, 19, 47, 69, 205 AND 235, MEASURED FROM DISK IN THIS COMMIT AND NOT CARRIED. THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY OVER LINES 69–204 RETURNS `cock` 2, `cunt` 1, `sucked` 1, `wet` 2, `naked` 1, `came` 10, `come` 1, `coming` 2, `inside` 2, `tits` 1; semen, pussy, cum, jizz, knob, fanny, arse and licked at 0. WORD BOUNDARY, NOT SUBSTRING: `semen` is a substring of `advertisement`. THE SUBSTRING CONTROLS IN THAT SPAN ARE `semen` 0, `cum` 6 (all inside *document* and *documents*), `sat` 12 (all inside *satchel* and *Sato*) and `sun` 0.** No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a chest spent since the fourth year and no permission of any kind; **no violence anywhere in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance. **AND THE REVIEW PASS FOUND THAT 713's CLOSING RESTAGED 603's CLOSING — a verbatim ten-word sentence, *He understood, some time after that, what it had been*, at 603:199 and at 713:191, with the same nails-and-a-week and forehead-and-shared-silence beats around it. ALL FOUR BEATS ARE GONE. The closing now turns on the tenth line and the chalk and on a woman counting nine documents out loud on her fingers twice, and it ends *He had spent the evening being a room with a stair at the back of it.* The longest shared contiguous run between 713 and 603 is now measured below.**
 
 ## THE GATE, EVERY ROW A MEASUREMENT, RE-RUN FROM DISK IN THIS COMMIT AND AGAIN AFTER THE LAST EDIT
 
 ```
 FILES           ten files, 711-720. One `# ` title line in each. All ten end 0a. 10 of 10.
-                Line counts from disk: 103 129 241 125 105 99 121 113 123 129.
+                Line counts from disk: 103 129 245 125 105 101 121 113 123 129.
 TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 720 FILES.
                 The ten title lines checked SEPARATELY from their bodies for straight glyphs:
                 0 straight double quotes, 0 straight apostrophes, 0 curly in any title line,
                 and all ten are pure ASCII. Three to eight words, none over ninety characters.
-BANK            per file and summed from disk: 1,863 2,122 4,532 2,092 1,942 1,819 1,967
-                2,182 1,937 2,074 = 22,530. Counter proved on chapter-0700.md at 2,013 by both.
-BAND            9 of 10 inside 1,800-2,700, no reason owed. 713 at 4,532 is the scene, reason above.
+BANK            per file and summed from disk: 1,863 2,122 4,692 2,092 1,944 1,902 1,967
+                2,182 1,937 2,087 = 22,788. Counter proved on chapter-0700.md at 2,013 by both.
+BAND            9 of 10 inside 1,800-2,700, no reason owed. 713 at 4,692 is the scene, reason above.
 PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty. 0 with an odd count
                 of quotation glyphs. 0 stray leading spaces. 0 ending in a comma and a space.
                 **Fourteen paragraphs were over ninety on an earlier pass, all of them opened
@@ -101,12 +101,20 @@ ARITHMETIC      spine 2,586-2,649. Monotonic at 0 violations by METHOD A (360) a
                 26 May->3 Jun 7 · 3->10 Jun 7. ALL NINE CORRECT.
                 *** 34 FOOTER INTERVALS WERE PARSED OFF THE PAGES OF 711-720 AND RE-DERIVED FROM
                 DAY NUMBERS BY COMMAND: 34 PARSED, 34 RE-DERIVED, 0 MISMATCHES, 0 UNPARSED.
-                19 PRINTED MONTH BREAKDOWNS WERE SEPARATELY CHECKED AGAINST `n x 30 + m`:
-                0 MISMATCHES. ONE REAL ERROR WAS FOUND BY THAT ROW AND FIXED IN THE CHAPTER:
-                713's footer printed `2,600 - 2,381 = 119, which is three months and twenty-nine
-                days`. It is 219, which is seven months and nine days. *** A FIGURE NOBODY
-                RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS IS THE SECOND TIME IN TWO
-                DAYS THAT A HAND-FORWARD FIGURE WAS WRONG ON ITS OWN ROW.
+*** THE COUNT "19" WAS WRONG AND THE RESULT "0 MISMATCHES" WAS WRONG WITH
+                 IT. RE-DERIVED FROM DISK AFTER THE REVIEW: THERE ARE **23** PRINTED MONTH
+                 BREAKDOWNS IN THE FOOTERS OF 711-720. *** 22 OF THEM WERE RIGHT AND ONE WAS
+                 NOT. *** ONE REAL ERROR HAD BEEN FOUND BY THAT ROW AND FIXED IN THE CHAPTER:
+                 713's footer printed `2,600 - 2,381 = 119, which is three months and twenty-nine
+                 days'. It is 219, which is seven months and nine days. **AND A SECOND ONE THE
+                 ROW MISSED AND THE REVIEW FOUND, 715:93, WHICH PRINTED `2,614 - 2,406 = two
+                 hundred and eight days, which is six intervals of thirty exactly'. 6 x 30 = 180.
+                 It now prints `six months and twenty-eight days after them', which is what
+                 714:95 and 716:67 already printed for the same 208 against the same anchor,
+                 and the phrase survives legitimately at 711:65 where the figure really is 180.
+                 23 FOUND, 23 RE-DERIVED, 23 RIGHT AFTER THE FIX, 0 WRONG. *** A FIGURE NOBODY
+                 RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THIS IS THE THIRD TIME THAT A
+                 HAND-FORWARD FIGURE WAS WRONG ON ITS OWN ROW.
                 PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY: `9 Nov year six` is
                 2,078 both ways and `2,649 - 2,078 = 571 = nineteen months with one day after
                 them`, and `9 Nov year five` is 1,718 and `2,649 - 1,718 = 931`, WHICH IS NOT
@@ -116,14 +124,37 @@ QUARTERLY       852 unmoved and NOT moved and no permission printed. 720 IS NOT 
                 NOT A QUARTER-END: the twenty-ninth sheet is the one on the rail through the whole
                 of this batch and the thirtieth does not go out until 723. 720 NAMES BOTH COUNTS
                 IN WORDS: **THIRTEEN SHEETS** (ordinal 29 - 16) and **TWELVE QUARTERS**, with
-                1,499 + 90k <= 2,649 -> k <= 12, and 2,649 - 1,499 = 1,150 = 12 x 90 + 70,
-                seventy days to the thirtieth of June. Fourteen sheets and thirteen quarters are
-                723's row and are not this one. 841 and 419 were not merged anywhere and the head
-                is never called a count of deeds.
+1,499 + 90k <= 2,649 -> k <= 12, and 2,649 - 1,499 = 1,150 = 12 x 90 + 70,
+                 **WHERE THE 70 IS THE SEVENTY DAYS FROM THE THIRTIETH OF MARCH TO THE TENTH
+                 OF JUNE AND IS NOT A DISTANCE TO THE THIRTIETH OF JUNE, WHICH IS TWENTY DAYS
+                 AWAY. THIS ROW PREVIOUSLY READ "seventy days to the thirtieth of June" AND THAT
+                 WAS FALSE. No chapter of 711-720 prints either figure and no chapter claims
+                 the thirtieth is seventy days away.** Fourteen sheets and thirteen quarters are
+                 723's row and are not this one. 841 and 419 were not merged anywhere and the head
+                 is never called a count of deeds.
 SECOND COLUMN   THREE LINES at 711, THREE at 720, AND NOTHING GOES IN IT IN ANY CHAPTER OF
                 711-720. **716 puts the question of a description of the person WHO BROUGHT the
                 paper beside the fifth field and says in words that the fifth field is about what
                 was done TO a person and is not it, and 720's instruction goes into the Register.**
+THE REGISTER    **THE ROW-COUNT BREAK BETWEEN 716 AND 720 IS CLOSED AND THE TWO FIGURES WERE
+                ALWAYS ABOUT DIFFERENT THINGS, WHICH NO CHAPTER SAID.** The bound Register has
+                held **four hundred and nineteen** rows since before this office had a clerk's
+                hand in it — `chapter-0695.md`:101 and `chapter-0710.md`:13, the second of them
+                dated the thirtieth of March and reading *a hundred and nineteen accounts and a
+                shade short of four hundred and twenty*, with *a date against it, an hour against
+                the date, nothing whatever against the hour and no name anywhere along the line*.
+                **ELEVEN MORE WENT IN AFTER THE INSTRUCTION OF THE THIRTIETH OF MARCH** — eleven
+                papers through that front door by the seventh of April (`chapter-0711.md`:27,37,
+                99), **eleven on the last leaf on the twelfth of May** (`chapter-0716.md`, now
+                scoped *since the thirtieth of March* and now standing on the page above the four
+                hundred and nineteen), **and still eleven on the tenth of June**, so
+                `419 + 11 = 430`, which is what `chapter-0720.md`:23 and :69 now print. The
+                eleventh of them is seventy days old: `2,649 - 2,579 = 70`. **THE BURST WAS EIGHT
+                DAYS LONG AND THEN THE DOOR WENT QUIET, AND `chapter-0720.md`:91 NO LONGER
+                CLAIMS *about eleven people a week*, WHICH WAS THE ONE SENTENCE THAT WOULD NOT
+                CARRY ELEVEN OVER SEVENTY DAYS.** The 409 in the two boxes and the 419 in the
+                Register are different objects and are not merged anywhere; the first one under
+                the instruction is the four hundred and thirty-first.
 ACCOUNT         8,1xx 0. two hundred and eleven thousand 0. `settl` 0 in every inflection across
                 `chapters/volume-15/`. No floor, no ledger total, no running balance. `grains` 0
                 — the one `grain` in the ten is Emil Brack's toll at his own lane and is not a
@@ -164,17 +195,25 @@ DUPLICATION     12-gram FIRST against every chapter in the book including the te
 STAGING         CHECKED BY HAND AGAINST `outline/volume-15.md` §4d AND `state/continuity.md` §0b
                 BEFORE THE SCENE BODY WAS WRITTEN, AND RE-CHECKED AGAINST THE PAGE AFTER IT WAS,
                 with the longest shared contiguous token run printed per pair by hand and not by
-                any gram: 713 v 594 = 7 · 713 v 603 = 14 · 713 v 613 = 7 · 713 v 643 = 7 ·
+                any gram: 713 v 594 = 7 · 713 v 603 = **9** · 713 v 613 = 7 · 713 v 643 = 7 ·
                 713 v 653 = 7 · 713 v 663 = 14 · 713 v 673 = 7 · 713 v 683 = 9 · 713 v 693 = 7 ·
-                713 v 703 = 7.
+                713 v 703 = 8.
                 **THE FIRST EDITION OF 713 SHARED THIRTY-TWO TOKENS WITH 603 AND TEN WITH 703 AND
                 NINETEEN AND FOURTEEN ON TWO FURTHER PAIRS. FIVE LIFTS WERE FOUND AND CUT: the
                 whole closing beat of 603 (a corridor counter, the officer at the end of it
                 writing the tenth line while he stands nine feet off not reading over her
                 shoulder), the collar-and-buttons beat, the fist in the hair at the back of the
                 head, "the way a woman looks at a figure she already has", and "in one long pull
-                of her hips and came". THE THIRTY-TWO IS FOURTEEN AND THE FOURTEEN IS A GENERIC
-                BODY BEAT AND NOT A REBUILD OF 603's STAGING.**
+                of her hips and came".**
+                **AND THE REVIEW PASS FOUND THAT THE PASS WHICH CUT THOSE FIVE HAD MISSED FOUR
+                MORE OUT OF THE SAME CHAPTER, ALL OF THEM FROM 603, ALL OF THEM NOW GONE: the
+                verbatim ten-word sentence *He understood, some time after that, what it had
+                been* (603:199, 713:191); the nails-and-a-week- afterwards beat (603:193);
+                the forehead-and-ragged-breathing-and-shared-silence beat (603:197); her *nine
+                lines and a tenth with a box* speech (603:187); her *There. That. That is the
+                thing.* (603:183); the rota clause (603:157); and *in her own hand, with her rank
+                and the hour and the place* (603:77). THE 603 RUN WENT FOURTEEN AND IS NINE, AND
+                THE NINE IS THE VOLUME'S HOUSE NEGATIVE. THE THIRTY-TWO IS NINE.**
                 **703's FURNITURE IS NOT REUSED: 713 HAS A RETURNS DESK WITH A WIRE RACK AND A
                 DAY BOOK WITH THREE COLUMNS, A SATCHEL, A BRACKET SHELF, A BRACKET LAMP AND NOT A
                 LAMP ON A STAND, A DOOR WITH A THING ON THE INSIDE OF IT, NO BUNDLE, NO COAT ON A
@@ -186,14 +225,35 @@ MARKDOWN        blockquotes 0. tables 0. rules 0. fences 0. bold 0 across the te
                 markers 6 10 16 6 6 8 6 6 6 26, every file even, all on italic footers, on the
                 instruction and on in-column entries. **System panels: 0 OF 5 SPENT.**
 FOOTER/ENDING   the footer is above the final `## ` in all ten and every chapter ends on PROSE:
-                711 footer@63,65,67 last##@69 · 712 @95,97,99,101 /@103 · 713 @223,225,227,229
-                /@231 · 714 @93,95,97 /@99 · 715 @89,91,93 /@95 · 716 @65,67,69 /@71 ·
+                711 footer@63,65,67 last##@69 · 712 @95,97,99,101 /@103 · 713 @227,229,231,233
+                /@235 · 714 @93,95,97 /@99 · 715 @89,91,93 /@95 · 716 @65,67,69 /@71 ·
                 717 @57,59,61 /@101 · 718 @61,63,65 /@99 · 719 @95,97,99 /@101 ·
                 720 @59,61,63 and @113,115,117,119 /@121. 10 OF 10. 720 carries two footer
                 blocks because it carries two sheets' worth of arithmetic, and both are above
                 the final `## `.
 ```
 
+## THE NINE FINDINGS OF `logs/batch-0002.review.log`, AND WHAT WAS DONE TO EACH
+
+**1 · `chapter-0715.md`:93 PRINTED A FALSE MONTH BREAKDOWN. FIXED ON THE PAGE.** It printed *two hundred and eight days, which is six intervals of thirty exactly*. `6 x 30 = 180`. It now prints **six months and twenty-eight days after them**, which is what 714:95 and 716:67 already printed for the same 208 against the same anchor. The phrase survives legitimately at 711:65, where the figure really is 180, and is not a house style to be banned.
+
+**2 · THE GATE THAT SHOULD HAVE CAUGHT IT REPORTED A PASS, AND BOTH THE COUNT AND THE RESULT WERE WRONG. CORRECTED IN THREE FILES.** `outline/volume-15.md` §5c, this file's ARITHMETIC row, and `state/open-threads.md` FOOTER ROW all said *19 printed month breakdowns, 0 mismatches*. Re-derived from disk there are **23** and **one was false**, which was finding 1. All three now say 23, name the error, name the fix, and close with **a row that reports a pass is not a check.**
+
+**3 · AN UNRECONCILED ROW-COUNT BREAK BETWEEN 716 AND 720. CLOSED, AND IT WAS ALWAYS A SCOPE ERROR.** 716 said *eleven rows* as though that were the book; 720 said *about four hundred and twenty rows*. The Register has held **four hundred and nineteen** rows since before this office had a clerk's hand in it (695:101, 710:13), and **eleven** went in after the instruction of the thirtieth of March, so `419 + 11 = 430`. **716 now says *eleven rows on the last leaf and they are the eleven that have gone in since the thirtieth of March*, and stands them on the page above the four hundred and nineteen it now names, and 720:23 and 720:69 print four hundred and thirty.** 720:91 no longer claims *about eleven people a week*, which could not carry eleven over seventy days; it says the door has been doing this for seventy days. The first row under the instruction is the four hundred and thirty-first.
+
+**4 · THE QUARTERLY ROW SAID *seventy days to the thirtieth of June*. CORRECTED IN THIS FILE.** `2,649 - 1,499 = 1,150 = 12 x 90 + 70`, and the 70 is the seventy days **from the thirtieth of March to the tenth of June**. The thirtieth of June is **twenty** days away. No chapter printed either figure and none claims the thirtieth is seventy days off.
+
+**5 · 713 RESTAGED 603's CLOSING. FOUR LIFTS CUT, NOT ONE.** The verbatim ten-word sentence *He understood, some time after that, what it had been* (603:199, 713:191) is gone, and so are the nails-and-a-week beat, the forehead-and-ragged-breathing-and-shared-silence beat, and the interpretive gloss that followed. The closing now turns on the tenth line, the chalk and a woman counting nine documents on her fingers twice, and it ends **He had spent the evening being a room with a stair at the back of it.** Four clause-level lifts the writing pass had missed are cut as well: her *nine lines and a tenth with a box*, her *There. That. That is the thing.*, the rota clause, and *in her own hand, with her rank and the hour and the place*. **The longest shared contiguous run between 713 and 603 is now NINE tokens and is the volume's house negative.**
+
+**6 · A CHRONOLOGICAL WOBBLE INSIDE 713. FIXED.** She says at the end of the evening that she will write the tenth line *at about half past nine*, and the section that writes it read as immediate aftermath because it opened with him *in the room with the door shut and his shirt buttoned*. **:207 now opens *She did it at about half past nine*, and :215 now says he *had been* in the room with the door shut *since before the light came up*.** The chapter no longer puts the reader at night inside a morning scene.
+
+**7 · 719 CARRIED *about four hundred* ELEVEN TIMES IN 1,937 WORDS. CUT TO FOUR.** The triad *four hundred pieces of paper and not four hundred people and not four hundred claims* stays, because that is the chapter's whole distinction. **Seven instances were rewritten** — :31, :39, :59, :73 (twice), :111, :117, :121 — into *all of them*, *every one of them can add*, *the rest of them*, *those pieces of paper*, *four hundred people a week watch it go up*. The remaining four are at :9, :27, :31 and :63.
+
+**8 · 719 RESTATED ITS OWN CONCLUSION FORTY WORDS APART. THE REPETITION IS NOW SOMEBODY DOING IT ON PURPOSE.** :73 had repeated both halves of :63 with nothing added. **:73 now reads *So that is what I want, and I have said it once and I am not going to say it again. If it is printed, they stop writing. If it is not printed, they go on writing what they believe, and they are right to, and not one of them will ever be able to show anybody that they are right, and that is the whole of what any of them has got.*** He is still Brack and he is still saying it twice — the second time is a man who knows he has just said it and is saying it anyway because the slate does not take a correction, which is this volume's rule about a figure said out loud. **What is gone is the redundancy, not the second statement.**
+
+**9 · 718's ALL-CAPS TRANSCRIPTION WAS A BARE PARAGRAPH. SET IN ITALICS.** The two book-wide precedents (`chapter-0629.md`:17 and `chapter-0677.md`:31) both render the device in asterisks, and 718's own footers are italic. **:91 is now `*WHAT THE SHEET SAID THAT DAY...*` and there are ZERO bare all-caps paragraphs left in 701–720.**
+
+**NOT CHANGED, DELIBERATELY:** the plot, the cards' decisions, the refusals, 715's bound-not-an-age, 713's axis of the address, the bracket lamp against 603's stand, the eleven-in-eight-days burst at 711, the projection in 716 that the clerk builds out of a rate that had already stopped, and every gate row the review verified as clean.
 ## THE ONE NEW CLASS THIS BATCH ADDS, FOR 721–730
 
 **FIVE · A CHAPTER MAY NOT PRINT A COUNT OF PEOPLE, A COUNT OF CLAIMS AND A COUNT OF PIECES OF PAPER IN THE SAME BREATH AND THEN USE ONE OF THEM.** 714 puts the three counts in a woman's mouth, in order, as three different things, and 716's clerk puts eleven on the page and says what it is not twice. **The class is: a figure this batch has produced is the address rate, and it is eleven in eight days, and it is a count of pieces of paper that came through a door, and by the end of next year on the same rate it is about four hundred, WHICH IS THE SAME FIGURE AS THE FOUR HUNDRED AND IS NOT THE SAME THING. 729 is where that collision will try to happen and this batch's row must be in front of it.**

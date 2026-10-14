@@ -28,7 +28,7 @@ He turned the slate round and did not write on it, which he does not do.
 
 “Four hundred.”
 
-“Four hundred pieces of paper and not four hundred people and not four hundred claims, and I have said that distinction to about four hundred people this month and only one of them heard it.”
+“Four hundred pieces of paper and not four hundred people and not four hundred claims, and I have said that distinction to all of them this month and only one of them heard it.”
 
 He put his thumb on the edge of the slate. “The four men are easy. One signs for the works and stands at a yard gate for about four days in every month. One takes a cart and does not give a name and has not given a name in about nine years.”
 
@@ -36,7 +36,7 @@ He put his thumb on the edge of the slate. “The four men are easy. One signs f
 
 “And what is on the paper.”
 
-“Nine pounds,” said Brack. “Nine pounds on every one of them, and the same nine pounds, and it has been the same nine pounds since the ninth month of last year, and I have had nine figures a morning for about four months in front of about four hundred people who can add.”
+“Nine pounds,” said Brack. “Nine pounds on every one of them, and the same nine pounds, and it has been the same nine pounds since the ninth month of last year, and I have had nine figures a morning for about four months in front of all of them, and every one of them can add.”
 
 He squared the book again.
 
@@ -56,7 +56,7 @@ He put the chalk down, turned round, and took the end of the wall with his coat 
 
 “Because you are the only person in this city anybody has heard of who finds things out and does not get paid for finding them out, and because a man in a white plate with no figure cut into it is a thing that about nine hundred people can read all the way down and one of them will say it to about nine others before the week is out,” said Brack.
 
-“And then the other about four hundred will hear inside about a month, because they all go to the same counters.”
+“And then the rest of them will hear inside about a month, because they all go to the same counters.”
 
 “And then.”
 
@@ -70,7 +70,7 @@ He said it without any weight at all, the way a man reads a figure off a slate.
 
 He picked the chalk up and turned it over twice.
 
-“So that is what I want. If it is printed, about forty people will say it came from you, and about four hundred people will stop writing. If it is not printed, about four hundred people go on going on writing what they believe, and they are right to, and none of the four hundred can ever show anybody they are right, and that is the whole of what they have got.”
+“So that is what I want, and I have said it once and I am not going to say it again. If it is printed, they stop writing. If it is not printed, they go on writing what they believe, and they are right to, and not one of them will ever be able to show anybody that they are right, and that is the whole of what any of them has got.”
 
 ## Nobody Says It Came From Him
 
@@ -108,16 +108,16 @@ Not the second column. Three lines in it and three lines in it at the thirtieth 
 
 Not the Register. He could have entered it in a clerk's hand with his name under it, and a clerk who may only enter what she is given would have entered it exactly and could not have improved one word of it, and it would have gone onto a page at four o'clock on the thirtieth of June and out to about two thousand counters.
 
-And it would have said that four men who work for one house are the men in the bottom two inches of about four hundred pieces of pencil paper in this city, in his own hand, with his name at the foot of it.
+And it would have said that four men who work for one house are the men in the bottom two inches of every one of those pieces of pencil paper in this city, in his own hand, with his name at the foot of it.
 
 Not a note down four flights. She had refused him five times in four years and the sixth was at about a quarter to five on the twelfth of May, and what she would say to four names is that a list of people is not an index and that a column is not a list.
 
 And not the woman who cannot read, who has not been near that table since the eighth of December and did not say she was coming, and about whom nobody in this city may ask a single question.
 
-So he stood on a landing at about half past two in the afternoon with the whole of what he had come down the lane for, and there was not one place in this city it could be put where about four hundred people could get at it and no person in it could be got at.
+So he stood on a landing at about half past two in the afternoon with the whole of what he had come down the lane for, and there was not one place in this city it could be put where all of them could get at it and no person in it could be got at.
 
 Nobody in Ostara is going to say it came from a lane. He had been about to spend four years making it impossible for anybody to say where anything came from, and a man on a wall off Cordwain had just made sure that the one thing he was about to do could not be traced to him either.
 
-That was not a defeat. Emil Brack had been right about every fact for nine years and had asked for nothing and was not going to be thanked and had put a stone on a slate in a lane where about four hundred people a week can see it go up.
+That was not a defeat. Emil Brack had been right about every fact for nine years and had asked for nothing and was not going to be thanked and had put a stone on a slate in a lane where four hundred people a week watch it go up.
 
 And a claim that everybody knows came from a building stops being a claim and becomes a request, and there is no form anywhere in this city that answers a request.
