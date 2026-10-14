@@ -1,4 +1,31 @@
-# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, **19,127 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT THREE, *THE COINCIDENCE*. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/batch-0004/PROMPT.md`, CHAPTERS 731–740, AND IT IS THE ONLY ONE THIS PASS CREATED. NO VOLUME-CLOSE PROMPT. NO BATCH 0005. `state/complete.md` IS NOT CREATED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 721–730 AND DELETES NONE OF THEM.**
+# VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, **19,436 WORDS COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT**. MOVEMENT THREE, *THE COINCIDENCE*. `outline/ending.md` IS UNTOUCHED. **THE ONE NEXT PHASE IS `workspace/volume-15/batch-0004/PROMPT.md`, CHAPTERS 731–740, AND IT IS THE ONLY ONE THIS PASS TOUCHED. NO VOLUME-CLOSE PROMPT. NO BATCH 0005. `state/complete.md` IS NOT CREATED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT FOR 721–730 AND DELETES NONE OF THEM.**
+
+## WHAT THIS PASS DID, AND WHY IT REWROTE NO CHAPTER
+
+**THE TEN CHAPTERS WERE ALREADY ON DISK AND FINISHED. THIS PASS VERIFIED THEM FROM OUTSIDE THE PASS THAT WROTE THEM, FOUND THREE FALSE PASSES IN THAT PASS'S OWN GATE RECORD, AND REPAIRED TWO DEFECTS. NO CHAPTER WAS REPLACED. THE PROSE, THE PLOT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY REFUSAL STAND.**
+
+**A GATE RECORD IS A CLAIM. RE-RUN IT AND LET THE RE-RUN OUTRANK IT.** Every row below was re-derived from disk by a reader that was itself proved first, and three of the three failures below are of the kind this repository has recorded before.
+
+## THE THREE FALSE PASSES, AND WHAT EACH ONE WAS
+
+**1 · THE BANK WAS NEVER RE-COUNTED AFTER THE REVIEW REPAIR, AND IT WAS WRONG BY 270 WORDS.** The block written by the writer pass recorded `19,127`, and that figure **was correct at commit `0e78435`**. The review commit `b7cdfc4` then edited eight files of the ten (`git show --stat b7cdfc4`: 722, 724, 725, 726, 727, 728, 729, 730) and `state/current.md` was never re-counted. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG**, and the nine cells that changed are the nine that moved: 722 went 1,914 → 1,935 and 730 went 1,800 → 1,844. **THE TRUE BANK IS 19,436 AND THE RECORD SAID 19,127.**
+
+**2 · "ALL TEN TITLE LINES ARE PURE ASCII" WAS FALSE, AND IT WAS FALSE FOR ONE FILE.** `chapter-0728.md` carried a **curly apostrophe** in its title — `A Landlord’s Man And A Public Sheet` — and it was **the only non-ASCII title line in all seven hundred and thirty files on disk.** Sixteen other titles in this book carry an apostrophe (`The Vant's Price`, `The Sister's Stair`, `The Landlord's Man Is Right`) and **every one of the sixteen uses a straight ASCII apostrophe**, so the house form was never in doubt. **REPAIRED.** All 730 title lines are now pure ASCII and curly apostrophes in title lines are at zero across the book.
+
+**3 · "WHAT REMAINS IS HOUSE LANGUAGE IN SHORT MAXIMAL RUNS (12–17 TOKENS)" WAS FALSE.** Re-measured with a proved reader, the residue at the time of this pass carried runs of **19, 20, 21, 22, 23, 25, 26, 29, 31, 36 and 38 tokens**, not 12–17, and the record's own count of "83 raw maximal runs" did not re-derive. **REPAIRED — SEE BELOW. The longest run touching 721–730 is now 23 tokens and every run at twenty or more is shared by at most two chapters.**
+
+## THE REPAIRS, AND THE RULE EACH ONE OBEYED
+
+**A PAIR THAT SHARES A RUNNING FACT OUTSIDE THE THREE PERMITTED CLASSES IS A DEFECT AT ANY LENGTH AND IS CUT ONCE, IN THE LATER CHAPTER, AND REPLACED WITH SOMETHING THAT CHAPTER'S OWN AXIS ALREADY OWNS.**
+
+1. **THE SHIFT CLOSING WAS USED SEVEN TIMES IN TEN CHAPTERS, AND IT WAS THIS BATCH'S HABIT AND NOT THE HOUSE'S.** `he went up or down the four flights and did the floors of three washrooms and the stairwell and at about half past five he stood at the table in the room off a third court and looked at the Register, the standing sheet, or the denial` stood as the closing beat of **722, 723, 725, 726, 727, 728, 729 and 730**. Measured across the whole of Volume 15's first twenty chapters it appears **ZERO times in 701–717**, once in 718 and once in 724 — **so it was introduced by this batch and then used seven times inside it**, which is the construction-repetition rule in `AGENTS.md` and a chapter ending on a neutral action. **CUT ONCE IN EACH LATER CHAPTER AND REPLACED ON EACH CHAPTER'S OWN AXIS**: 725 on the boy's nine seconds and why a reason spoken aloud has nowhere to be written · 726 on the hill filling after every form · 727 on the counter that turned the question turning without him · 728 on the room and the woman not in it · 729 on the one kitchen and the woman who may not be sent · 730 on a denial being a claim and a silence being only an absence. **722 AND 723 KEEP IT; 723's is already a different hour and a different shape.** The 25-, 26-, 29-, 36- and 38-token runs are gone from the batch.
+2. **THE BOY'S REASON WAS VERBATIM RESTATED 31 TOKENS APART IN 724 AND 725.** The boy at 725 repeated Perla Quist's sentence of 724 word for word, which also made him sound like a person quoting a person rather than a boy saying a thing in nine seconds. **CUT IN THE LATER CHAPTER** and given to him in his own words and his own register: chalk, a board, nine people a week, and a thing somebody heard.
+3. **THE STANDING-STATE RECITAL APPEARED FOUR TIMES AND WAS CUT TWICE.** `the sheet on the rail is the thirtieth and the second column has three lines in it and the drawer is shut` stood in **725, 726, 729 and 730**. **Cut in 729** (replaced by the four sentences at the foot and the one copy in nine that is wrong) and **cut again in 730** (replaced by the bundle and the seven new lines under the four sentences). **It now stands in two chapters and no more.**
+4. **728 RESTATED EMIL BRACK'S FOUR MEN FROM 719 TWICE INSIDE ITS OWN CHAPTER**, at 26 tokens, and **730 REPLAYED 728'S `she put the pencil down across the bench and looked at him for about four seconds`** at 22 tokens. Both cut in the later chapter. 728's landlord's man now speaks from his own nine years of stairs; 730's Perla Quist draws the pencil along the edge of the bench instead.
+
+**AND THE REPAIRS BROKE TWO THINGS THEY WERE NOT MADE TO BREAK, WHICH IS WHAT THE RULE PREDICTS.** The first pass at 727 dropped it to **1,792 words, under the floor**, and merged paragraphs in 728 and 729 past ninety words. **BOTH WERE RE-MEASURED AND REPAIRED IN THE SAME COMMIT:** 727 carries its interval back up with the turn on the stair expanded, and the two long paragraphs were split at a natural beat. **A REPAIR THAT BREAKS A GATE IT WAS MADE FOR IS NOT FINISHED, AND THE BANK WAS RE-COUNTED AFTER THE LAST EDIT AND NOT ONCE AT THE END.**
+
+**THE OVERLAPPING 12-GRAM STARTS FELL FROM 762 TO 487 AND THE MAXIMAL RUNS FROM 129 TO 110 ACROSS THE REPAIR.** The 723 scene was not touched.
 
 ## THE HEADLINE OF THIS BATCH, AND IT IS THE THING THE PLAN DID NOT SEE COMING
 
@@ -8,7 +35,7 @@
 
 ## WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
 
-**DELIVERED:** pencil under the striking in an unknown hand · the reason a claim about two words is unanswerable · **the scene at 723, Marguerite Vale, on the third-party rule, written out and not implied** · the seventieth-third form with two empty squares and the first asking of the boy in seven years by somebody who is not Lin Hao and not an officer and not a clerk · his nine-second reason and the one-paragraph sentence nobody wants heard · the corner filling with about nine believing · the first age ordered at a counter, older claim winning, loser absent · the receipt used correctly in a room case, person absent · the fourth column finding one wrong first, with the three counts kept apart as pieces, claims and people · **and the movement's irreversible decision at 730, in the office's hand, with his name and the date, three lines still in the column.**
+**DELIVERED:** pencil under the striking in an unknown hand · the reason a claim about two words is unanswerable · **the scene at 723, Marguerite Vale, on the third-party rule, written out and not implied** · the seventy-third form with two empty squares and the first asking of the boy in seven years by somebody who is not Lin Hao and not an officer and not a clerk · his nine-second reason and the one-paragraph sentence nobody wants heard · the corner filling with about nine believing · the first age ordered at a counter, older claim winning, loser absent · the receipt used correctly in a room case, person absent · the fourth column finding one wrong first, with the three counts kept apart as pieces, claims and people · **and the movement's irreversible decision at 730, in the office's hand, with his name and the date, three lines still in the column.**
 
 **THE IRREVERSIBLE DECISION IS AT 730 AND IT IS HIS AND IT GOES ON THE PAGE AND NOT ONE STROKE OF IT GOES INTO THE COLUMN, WHICH HAS THREE LINES AT 721 AND THREE AT 730.**
 
@@ -17,14 +44,14 @@
 ## THE BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT
 
 ```
-721  1,900      722  1,914      723  2,689      724  1,804      725  1,804
-726  1,806      727  1,803      728  1,807      729  1,800      730  1,800
-BANK = 19,127
+721  1,900      722  1,935      723  2,689      724  1,813      725  1,871
+726  1,841      727  1,815      728  1,813      729  1,915      730  1,844
+BANK = 19,436
 ```
 
-**THE COUNTER WAS PROVED BEFORE IT WAS TRUSTED. `chapters/volume-14/chapter-0700.md`, a file this pass did not write, returned 2,013 by `wc -w` and 2,013 by a Python whitespace split, and the ten cells above were taken per file and never from a concatenation. RE-COUNTED AFTER THE LAST EDIT, NOT ONCE AT THE END.**
+**THE COUNTER WAS PROVED BEFORE IT WAS TRUSTED, IN THIS PASS. `chapters/volume-14/chapter-0700.md`, a file this pass did not write, returned 2,013 by `wc -w` and 2,013 by a Python whitespace split, and the ten cells above were taken per file and never from a concatenation. RE-COUNTED AFTER THE LAST EDIT, NOT ONCE AT THE END — WHICH IS THE ROW THAT FAILED LAST TIME AND THE ONE THIS BLOCK EXISTS TO CORRECT.**
 
-**TEN OF TEN INSIDE 1,800–2,700 AND NO REASON OWED.** 723 at 2,689 is the scene and sits inside the band; no chapter leaves it in either direction, so `outline/volume-15.md` §9 records no exception for this batch.
+**TEN OF TEN INSIDE 1,800–2,700 AND NO REASON OWED.** 723 at 2,689 is the scene and sits inside the band; the nearest floor is 727 at 1,815; no chapter leaves the band in either direction, so `outline/volume-15.md` §9 records no exception for this batch.
 
 ## 723 SCENE MEASUREMENT, WITH THE LINE SPAN PRINTED BESIDE EVERY CELL, COUNTED FROM DISK IN THIS COMMIT
 
@@ -34,11 +61,11 @@ BANK = 19,127
 | first `##` to last `##`, exclusive of both heading lines | **6–124** | **2,329** |
 | scene section *The Window Over The Street* to the last `##`, inclusive of both | **63–125** | **1,164** |
 | the same, exclusive of both heading lines | **64–124** | **1,151** |
-| scene section alone, inclusive of its heading | **63–116** | **1,020** |
+| scene section alone, inclusive of its heading | **63–117** | **1,024** |
 | scene section alone, exclusive of its heading | **64–116** | **1,014** |
-| whole file, ends 0a | **1–139** | **2,689**, which reconciles to the bank |
+| whole file, ends 0a | **1–140** | **2,689**, which reconciles to the bank |
 
-**THE `## ` HEADING LINES IN 723 ARE 5, 41, 63, 117 AND 125, MEASURED FROM DISK IN THIS COMMIT AND NOT CARRIED. THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY OVER LINES 64–116 RETURNS `cock` 6, `cunt` 3, `semen` 1, `wet` 5, `naked` 1, `inside` 6, `came` 6, `coming` 1; pussy, cum, jizz, knob, fanny, arse, licked, sucked and tits at 0. WORD BOUNDARY, NOT SUBSTRING.** No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a chest spent since the fourth year and no permission of any kind; **no violence anywhere in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance. **THE SCENE IS WRITTEN ONCE, IN FULL, AND NOT BY SUMMARY: a zero on this probe would have been implication and a defect, per the 703 and 713 rewrites.**
+**THE `## ` HEADING LINES IN 723 ARE 5, 41, 63, 117 AND 125, MEASURED FROM DISK IN THIS COMMIT AND NOT CARRIED. THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY OVER LINES 64–116 RETURNS `cock` 6, `cunt` 3, `semen` 1, `wet` 5, `naked` 1, `inside` 6, `came` 6, `coming` 1; pussy, cum, jizz, knob, fanny, arse, licked, sucked and tits at 0. WORD BOUNDARY, NOT SUBSTRING**, and the substring controls in that span are `sat` 0 and `sun` 0. No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal as the mechanism; both adults; he is rank one with a chest spent since the fourth year and no permission of any kind; **no violence anywhere in the chapter**; saying yes is fast, it is enjoyable to her, and it is written as a fact about her body and not as reluctance. **THE SCENE IS WRITTEN ONCE, IN FULL, AND NOT BY SUMMARY: a zero on this probe would have been implication and a defect, per the 703 and 713 rewrites. THE CHAPTER WAS NOT TOUCHED BY THIS PASS AND THE PROBE WAS RUN AGAIN ANYWAY.**
 
 ## THE GATE, EVERY ROW A MEASUREMENT, RE-RUN FROM DISK IN THIS COMMIT AND AGAIN AFTER THE LAST EDIT
 
@@ -47,29 +74,35 @@ FILES           ten files, 721-730. One `# ` title line in each. All ten end 0a.
 TITLES          `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 730 FILES.
                 The ten title lines checked SEPARATELY from bodies: 0 straight doubles,
                 0 straight apostrophes, 0 curly in any title line, all ten pure ASCII.
-                Three to eight words, none over ninety characters.
-BANK            per file and summed from disk: 1,900 1,914 2,689 1,804 1,804
-                1,806 1,803 1,807 1,800 1,800 = 19,127. Counter proved on chapter-0700 at 2,013 by both.
+                *** AND THIS ROW WAS A FALSE PASS AT 728 AND IS NOW RE-MEASURED, NOT CARRIED.
+                ALL 730 TITLE LINES ON DISK ARE PURE ASCII, PROVED BY COMMAND OVER EVERY FILE. ***
+BANK            per file and summed from disk: 1,900 1,935 2,689 1,813 1,871
+                1,841 1,815 1,813 1,915 1,844 = 19,436. Counter proved on chapter-0700 at 2,013 by both.
+                *** THE PREVIOUS BLOCK SAID 19,127. IT WAS WRONG BY 270 AND WAS NEVER RE-COUNTED
+                AFTER THE REVIEW REPAIR. A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG. ***
 BAND            10 of 10 inside 1,800-2,700, no reason owed. 723 at 2,689 is the scene and inside.
 PARAGRAPHS      0 over roughly ninety words. 0 over one hundred and twenty. 0 with an odd count
                 of quotation glyphs. 0 stray leading spaces. 0 ending in a comma and a space.
-                Every opened split closed with a quotation mark. Re-measured after the last edit.
-ORPHAN SPEECH   0. Scanned separately, because a parity row cannot see an orphan.
+                *** TWO PARAGRAPHS WENT PAST NINETY ON THE FIRST PASS AT THE REPAIR AND WERE
+                SPLIT AT A NATURAL BEAT IN THE SAME COMMIT. RE-MEASURED AFTER THE LAST EDIT. ***
+ORPHAN SPEECH   0. Scanned separately, because a parity row cannot see an orphan. Two paragraphs
+                carry a mid-paragraph curly pair and both are attributed speech, not orphans.
 META            0 primary, 0 widened, 0 extension, ACROSS ALL TEN AND AFTER EVERY REPAIR.
                 *** AND THE GREP IS NOT THE GATE. ONE CHAPTER, 727, WAS READ AGAINST THE
                 PARAGRAPH IN THIS COMMIT AND NOTHING ELSE WAS FOUND. ***
 WEEKNAMES       seven names, whole-word and stem -> 0 across the ten, and NOT the three-letter
-                forms `sat` and `sun`. The verb `sat` and passing `passage`/`satchel` substrings
-                are not hits and were not counted as hits.
+                forms `sat` and `sun`. Seven whole-word `sat` hits were opened one at a time and
+                every one is the verb. Passing `passage`/`satchel` substrings are not hits.
 AGES            eleven probe forms plus a bare `aged` sweep -> 0 for a person. `about forty people`
                 (721, 722) is a count of people and not an age; every `age` in 727 is a claim's
-                age and not a person's, classified here and not counted.
+                age and not a person's, classified here and not counted. The boy is not aged.
 RT / BODIES     `right temple` 0 across all 730 files. `cuticle` still four files (329, 340, 404,
                 446), unchanged, none of them mine; 723 carries Marguerite Vale's occupational
                 cuticles by rule and adds no third ink-under-the-reader instance. `ostho` 0.
-                A hand flat on anything: 0 across the ten.
+                A hand flat on anything: 0 across the ten. *** ONE WAS WRITTEN INTO 730 BY THIS
+                PASS DURING THE REPAIR AND WAS CAUGHT AND CUT BEFORE THE FILE WAS MEASURED. ***
 ARITHMETIC      spine 2,656-2,715. Monotonic at 0 violations by METHOD A (360) and by METHOD B
-                (months x 30 at ZERO indexing, sharing no constant).
+                (months x 30 at ZERO indexing, sharing no constant, pos[Jun]=4 pos[Jul]=5 pos[Aug]=6).
                 *** THE PROOF IS THE SUM AGAINST THE ENDPOINTS AND NOT THE AGREEMENT:
                 7 6 7 6 7 6 7 6 7 = 59 and 2,715 - 2,656 = 59. THE SEAM 2,656 - 2,649 = 7 IS
                 PRINTED IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE. ***
@@ -80,6 +113,13 @@ ARITHMETIC      spine 2,656-2,715. Monotonic at 0 violations by METHOD A (360) a
                 ALL NINE CORRECT.
                 40 intervals (10 opening + 30 footers) parsed off the pages and re-derived from
                 day numbers by command: 40 parsed, 40 re-derived, 0 mismatches, 0 unparsed.
+                *** AND THE READER THAT DID IT WAS BROKEN FOUR TIMES BEFORE IT WAS RIGHT: it
+                returned zero on a file full of intervals because its number-word parser had no
+                scale words, then because its date slot could not cross a comma, then because it
+                stripped footers with a greedy dotall regex that ate the file, and finally because
+                its character class was [0-9a-z] and the first word of every footer is capitalised.
+                IT WAS PROVED ON 711-720, WHERE IT RETURNS 34 PARSED AND 0 MISMATCHES, THE FIGURE
+                §5c ALREADY RECORDS, BEFORE IT WAS RUN ON THE TEN. ***
                 20 printed month breakdowns against `n x 30 + m`: 20 found, 20 re-derived, 0 wrong.
                 PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY: `9 Nov year six` is
                 2,078 both ways and `2,715 - 2,078 = 637`, and `9 Nov year five` is 1,718 and
@@ -102,33 +142,31 @@ SPENT FIGURES   office's months 0 (spent at 701). shutter's interval 0 (spent at
                 here, including at the corner in 724). docket's date 0, read aloud at 712 and
                 printed nowhere. `411` 0. `771` 0. THE TWO WORDS ON THE STONE 0, and no chapter
                 asserts them same as anything, checked by hand chapter by chapter.
-HEADINGS        one `# ` per file. `## ` 34 across the ten: 4 3 5 3 3 3 3 3 3 3, 0 duplicated
-                inside a file.
+HEADINGS        one `# ` per file, ten of them. `## ` 33 across the ten: 4 3 5 3 3 3 3 3 3 3,
+                0 duplicated inside a file.
 DUPLICATION     12-gram FIRST against every chapter in the book including the ten, body-only,
                 headings and italic footers stripped, token-normalised, maximal runs only.
                 READER PROVED FIRST ON chapter-0564.md: 7 repeating 12-grams INSIDE that one file.
-                Raw maximal runs touching 721-730: 83, of which the frame class (arithmetic openings
-                and `less two thousand` footers) is the bulk. The six longest non-frame runs were
-                REWORDED IN THE CHAPTERS (724's board-up 70-token lift, 727's 46-token clerk exchange,
-                730's 35-token instruction formula, 728's 39-token remark formula, 728's 33-token
-                Brack closing, 730's 31-token quarter-past-eleven beat, plus 725/727/722/726 stock
-                lines at 22-26). What remains is house language in short maximal runs (12-17 tokens):
-                standing descriptions (two boxes, stair at the back, told-in-front-of-a-counter,
-                fourth-month bag woman, row-may-be-added), the guild third-party rule at 723, and
-                character stock formulas in their own mouths — every one classified in continuity.md.
+                *** AND THAT PROOF CAUGHT THE READER, WHICH HAD BEEN RETURNING ZERO ON 0564 BECAUSE
+                ITS FOOTER STRIP WAS GREEDY AND DOTALL AND WAS EATING THE WHOLE FILE. ***
+                BEFORE REPAIR: 762 overlapping 12-gram starts, 129 maximal runs, longest 38.
+                AFTER REPAIR: 487 overlapping starts, 110 maximal runs, longest 23.
+                The bulk is the arithmetic frame (permitted class one). Everything at twenty tokens
+                or above is now listed and hand-classified in continuity.md, and every one of them
+                is either the rubbing in a coat, the reporting beat to Perla Quist, the standing
+                sheet's state, or a character's own stock formula in her own mouth. No run at twenty
+                or above is shared by three chapters of the batch.
                 11-gram and 8-gram add nothing outside those classes.
                 FOOTER-TO-FOOTER ROW at twelve tokens across all forty-five pairs inside the batch
-                and across the 720/721 seam: every run is the fixed arithmetic frame or the denial
-                text at 730 (permitted class 2, the office's hand in two decisions). No running fact
-                shared outside the three permitted classes (frame, receipt/denial text, shutter).
-STAGING         CHECKED BY HAND AGAINST `outline/volume-15.md` §4d AND `state/continuity.md` §0b
-                BEFORE THE 723 BODY WAS WRITTEN: 723 v 594 = 6 · v 603 = 7 · v 613 = 8 · v 643 = 6 ·
-                v 653 = 7 · v 663 = 6 · v 673 = 7 · v 683 = 8 · v 693 = 7 · v 703 = 7 · v 713 = 7.
+                and across the 720/721 seam: 175 distinct shared body runs, every one a running
+                fact this volume repeats by design, the arithmetic frame, or the denial text.
+                No running fact shared outside the three permitted classes.
+STAGING         CHECKED AGAINST `outline/volume-15.md` §4d AND `state/continuity.md` §0b.
                 723 STAGING: a Vant's counting house above a street off Cordwain, a long table under
                 a window over the street, real books squared along it, Solveig Rask at the end, a key
                 in a door, a cloth on wood. NOT 713's returns desk/wire rack/day book/satchel/bracket
                 lamp/door-thing/two flights; NOT 703's floor/sweep; NOT 693's nine heaps; NOT 613's
-                counting room; NOT 594's ward. Longest shared run seven tokens of generic connective.
+                counting room; NOT 594's ward.
 SENTENCE        the invented-figures sentence VERBATIM 0 and TIER 3 0 in any chapter and in any
                 footer. Spent at 658.
 MARKDOWN        blockquotes 0. tables 0. rules 0. fences 0. bold 0 across the ten. Single-asterisk

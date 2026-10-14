@@ -1,6 +1,6 @@
-# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, **19,127 WORDS**. MOVEMENT THREE, *THE COINCIDENCE*. THIS BLOCK SUPERSEDES FOR 721–730 AND DELETES NOTHING.
+# VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, **19,436 WORDS**. MOVEMENT THREE, *THE COINCIDENCE*. THIS BLOCK SUPERSEDES FOR 721–730 AND DELETES NOTHING. **THE PLOT, THE MOVEMENT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY REFUSAL ARE UNCHANGED AND NO CHAPTER WAS REPLACED; THE REPAIRS WERE FIVE PASSAGES OF REPEATED CONSTRUCTION AND ONE TITLE GLYPH.**
 
-**BANK: 721 1,900 · 722 1,914 · 723 2,689 (scene, inside the band) · 724 1,804 · 725 1,804 · 726 1,806 · 727 1,803 · 728 1,807 · 729 1,800 · 730 1,800 = 19,127.**
+**BANK, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT: 721 1,900 · 722 1,935 · 723 2,689 (scene, inside the band) · 724 1,813 · 725 1,871 · 726 1,841 · 727 1,815 · 728 1,813 · 729 1,915 · 730 1,844 = 19,436.** **THE PREVIOUS BLOCK PRINTED 19,127. THAT WAS CORRECT AT THE WRITER COMMIT AND THE REVIEW COMMIT THEN EDITED EIGHT OF THE TEN FILES AND THE BANK WAS NEVER RE-COUNTED. A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.**
 
 | Ch | Title | Day | What changes |
 | --- | --- | --- | --- |
@@ -8,14 +8,14 @@
 | 722 | Two Words Nobody Has Written Down | 24 Jun y8, 2,663 | The claim stands unanswerable: only copy is a rubbing in a coat, no form asks what is in a coat; thirtieth of June six days off. |
 | 723 | A Broker Needs A Third Party | 30 Jun y8, 2,669 | SCENE, Marguerite Vale: third-party refusal given before, then the room above Cordwain; thirtieth sheet out at four, head unmoved, fourteen sheets/thirteen quarters named. |
 | 724 | The Seventy-Third Form | 7 Jul y8, 2,676 | Seventy-third goes up, squares empty; a water-seller (not Lin Hao, officer or clerk) asks the boy what is in his coat; he does not answer yet. |
-| 725 | He Does Not Read It Out | 13 Jul y8, 2,682 | In a laundry the boy gives the reason in about nine seconds and stops; one paragraph says the claim is unanswerable, the reason is a boy, the boy is right. |
+| 725 | He Does Not Read It Out | 13 Jul y8, 2,682 | In a laundry the boy gives the reason in about nine seconds and stops — **in his own words, reworded in repair because he had been repeating Perla Quist's sentence of 724 verbatim at 31 tokens**; one paragraph says the claim is unanswerable, the reason is a boy, the boy is right. |
 | 726 | The Corner Fills Up Again | 20 Jul y8, 2,689 | About nine of nine hundred reach the four inches; correction lands inside four minutes; about nine now believe the office keeps a stone; nobody thanked. |
-| 727 | The Older Claim Wins | 26 Jul y8, 2,695 | First age at a counter: dated claim ordered against undated, undated loses, person it is about absent and unknowing. |
-| 728 | A Landlord’s Man And A Public Sheet | 3 Aug y8, 2,702 | The receipt used face-up in a room case by a landlord's man; point correct; person it is about not in the room. |
+| 727 | The Older Claim Wins | 26 Jul y8, 2,695 | First age at a counter: dated claim ordered against undated, undated loses, person it is about absent and unknowing. **The turn is on the stair: the counter that moved the question is behind a different door and does not telephone anybody.** |
+| 728 | A Landlord's Man And A Public Sheet | 3 Aug y8, 2,702 | The receipt used face-up in a room case by a landlord's man; point correct; person it is about not in the room. |
 | 729 | No Instrument For Correcting A Kitchen | 9 Aug y8, 2,708 | Fourth column finds one copy wrong first; Perla says so; no instrument corrects kitchens and she may not be sent; three counts held apart. |
-| 730 | A Denial In His Own Hand | 16 Aug y8, 2,715 | IRREVERSIBLE, HIS: denial entered on the page with name and date; nine years of saying nothing closed at the cost of an arguable claim. |
+| 730 | A Denial In His Own Hand | 16 Aug y8, 2,715 | IRREVERSIBLE, HIS: denial entered on the page with name and date; nine years of saying nothing closed at the cost of an arguable claim. **He sits down at the table without touching anything, because a denial is a claim and nine years of silence is only an absence.** |
 
-**VOLUME 15 SO FAR: 701–710 at 22,377 · 711–720 at 22,788 · 721–730 at 19,127 = 64,292. Scenes spent: 703, 713, 723. Decisions: 710, 720, 730. Next: 731–740, movement four.**
+**VOLUME 15 SO FAR: 701–710 at 22,377 · 711–720 at 22,788 · 721–730 at 19,436 = 64,601. Scenes spent: 703, 713, 723. Decisions: 710, 720, 730. Next: 731–740, movement four, `workspace/volume-15/batch-0004/PROMPT.md`, WHICH EXISTS AND HAD ITS SPINE RE-DERIVED BY TWO METHODS IN THIS PASS: the row `6 6 6 6 6 7 7 7 7 = 58` against `2,780 − 2,722 = 58`, seam `2,722 − 2,715 = 7` alone, ten of ten dates agreeing, and 2,767 and 2,769 falling between 738 and 739 as the prompt says.**
 
 ---
 

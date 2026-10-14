@@ -1,4 +1,4 @@
-# A Landlord’s Man And A Public Sheet
+# A Landlord's Man And A Public Sheet
 
 Two thousand six hundred and ninety-five was the twenty-sixth of July and the third of August is day two thousand seven hundred and two, and two thousand seven hundred and two less two thousand six hundred and ninety-five is seven.
 
@@ -38,7 +38,7 @@ He wrote that the office’s receipt was put in front of him in a case about a r
 
 “The receipt stands,” he said. “This office entered it and this office keeps it, and it says what it says. Whether what happened to you happened is not a thing this counter decides on paper, and a copy gives you when it was copied and only a person can give you when it was done.”
 
-The landlord’s man nodded slowly as though he had long expected nothing else at all, because he goes round about six sets of stairs with a rent book and has never once been in a court that had a stair to it, and he knows what a counter can do and what it cannot, and he had put the point correctly and left it there.
+The landlord’s man nodded slowly, as though he had long expected nothing else at all, and did not press it, because he has spent nine years going up stairs nobody has thanked him for and has never once been inside this building, and he knows what a counter can do and what it cannot, and he had put the point correctly and left it there.
 
 *Two thousand seven hundred and two days. Less two thousand six hundred and ninety-five, the twenty-sixth of July of the eighth year, is seven, and the office’s own receipt was put in front of a magistrate in a case about a room and the point made with it was correct.*
 
@@ -66,9 +66,7 @@ He recounted the room and the nine pounds with the rent book and the printed she
 
 She put the pencil down across the bench and looked at him for about four seconds, and he saw that she was angry, not at him and not at the landlord’s man, but at the shape of a city where the truest thing any building has published is that nothing happened that can be shown, and where a man who is right about every fact can put a person out of a room with it.
 
-He went back down the four flights with the rent book going out of the lane ahead of him and did the floors of three washrooms and the stairwell and the bin room.
-
-At about half past five he stood in the room off a third court and looked at the standing sheet with eight hundred and fifty-two at the head of it unmoved and three lines in the second column and four sentences at the foot, and understood what the movement had delivered, although no instruction he ever wrote could have predicted this shape of it.
+He went back down the four flights with the rent book going out of the lane ahead of him and did the floors of three washrooms and the stairwell and the bin room, and went on thinking about a room off a stair off a lane that he has never been inside of, and about the woman who was not in it. A paper saying that none of these is a deed can empty a house without a single person in the room ever knowing that it is being emptied.
 
 The office set out to be the one place a claim can be found, and then to enter every paper with the person who brought it, and now the receipt it entered is carried by hand into cases about rooms by men who are right to carry it.
 

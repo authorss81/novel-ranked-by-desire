@@ -2,7 +2,11 @@
 
 ## WRITTEN 14 OCTOBER 2026 BY THE PASS THAT WROTE `chapters/volume-15/chapter-0721.md` THROUGH `:0730.md`, IN THE SAME COMMIT. THESE CARDS WERE A PLAN AND THE PLAN DOES NOT OUTRANK THE PAGE. SIX LONG NON-FRAME RUNS WERE REWORDED IN THE CHAPTERS (724 board-up, 727 clerk exchange, 730 instruction formula, 728 remark formula, 728 closing, 730 quarter-past-eleven beat). THE PLOT, THE MOVEMENT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY REFUSAL ARE UNCHANGED.
 
-**BANK 19,127. 10 of 10 inside 1,800–2,700; no reason owed. Spine `7 6 7 6 7 6 7 6 7 = 59` and `2,715 − 2,656 = 59`; seam `2,656 − 2,649 = 7` alone. Counter proved on chapter-0700 at 2,013 by both.**
+## RE-MEASURED AND REPAIRED 14 OCTOBER 2026 BY A PASS THAT WROTE NO CHAPTER. THE PLOT, THE MOVEMENT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY REFUSAL ARE UNCHANGED AND NO CARD BELOW NEEDS ALTERING.
+
+**THE REPAIRS WERE FIVE PASSAGES OF REPEATED CONSTRUCTION AND ONE TITLE GLYPH, AND THEY ARE LISTED HERE SO THE NEXT PASS DOES NOT RE-INTRODUCE THEM.** The end-of-shift closing — *he went up or down the four flights and did the floors and at about half past five he stood at the table in the room off a third court and looked at the Register* — stood as the closing beat of 722, 723, 725, 726, 727, 728, 729 and 730, and appeared **zero** times in 701–717; cut once in each later chapter and replaced on that chapter's own axis. The boy's reason at 725 repeated Perla Quist's sentence of 724 at 31 tokens; given to him in his own words. The standing-state recital stood in four chapters; cut in 729 and again in 730. 728 restated Emil Brack's four men twice inside itself and 730 replayed 728's pencil-down beat; both cut. **AFTER THE REPAIR THE LONGEST 12-GRAM RUN TOUCHING 721–730 IS 23 TOKENS AND EVERY RUN AT TWENTY OR ABOVE IS SHARED BY AT MOST TWO CHAPTERS.**
+
+**BANK 19,436, counted per file and summed from disk after the last edit: 721 1,900 · 722 1,935 · 723 2,689 · 724 1,813 · 725 1,871 · 726 1,841 · 727 1,815 · 728 1,813 · 729 1,915 · 730 1,844.** (It was recorded as 19,127, which was correct at the writer commit and wrong after the review commit edited eight of the ten files; a figure nobody re-computes is the figure that is wrong.) 10 of 10 inside 1,800–2,700; no reason owed. Spine `7 6 7 6 7 6 7 6 7 = 59` and `2,715 − 2,656 = 59`; seam `2,656 − 2,649 = 7` alone, and every one of the nine read against its own date one at a time. Counter proved on chapter-0700 at 2,013 by both.
 
 ## Batch goal
 

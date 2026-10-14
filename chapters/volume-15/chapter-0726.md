@@ -60,7 +60,7 @@ He lingered at the bench end for a good while after that with his hands pocketed
 
 The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer is shut, and the head stands at eight hundred and fifty-two unmoved, and none of that reaches a hill where about nine hundred people pass in an hour and about nine go down low.
 
-He went back down all four flights with the hill still going round in his head and did the floors, and at about half past five he stood in the room off a third court and looked at the bound Register and understood that the hill would go on filling up every month after every form, and that no instruction he could write in a clerk’s hand with his name under it would stop it, and that was the price of having made one building findable.
+He went back down all four flights with the hill still going round in his head, and understood somewhere between the third landing and the bottom that the hill would go on filling up after every form for as long as there were forms to put up, and that no instruction he could write in a clerk’s hand with his name under it would put a stop to it, and that this was the price of having made one building findable.
 
 Wenna Raut had the standing sheet squared under the window with the thirtieth face up clean and the three lines still in the second column untouched, and she did not ask him what had happened up on the hill that morning, and he was glad of the weight of the page in that room, because a column kept four flights down is not a thing this table can be told about.
 

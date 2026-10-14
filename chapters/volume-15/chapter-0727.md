@@ -74,7 +74,7 @@ She pushed the ruler a half inch along the bench and did not square it to anythi
 
 “That about four hundred kitchens hold pieces of paper and some of them carry days and most do not, and from today the ones with days beat the ones without, and nobody in any kitchen knows which kind they hold.”
 
-He went back down the four flights with the older claim sitting on him and did the floors of three washrooms and the stairwell and the bin room, and at about half past five he stood in the room off a third court and looked at the standing sheet with the head unmoved and the second column with three lines in it and understood that the question in front of him had turned.
+He went back down the four flights with the older claim sitting on him the whole way, and understood somewhere between the third landing and the bottom that the question in front of him had turned over, and that nothing in his own office had turned with it, because the counter that turned it is behind a different door, in a building with a name over the door, and it does not telephone anybody, and it has never once needed to.
 
 He must still find out who is using pieces of pencil paper in kitchens and against whom, or the receipt he entered goes on being the only answer in this city to a person asking whether what happened to her happened.
 

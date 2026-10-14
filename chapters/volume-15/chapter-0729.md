@@ -64,10 +64,10 @@ He went down four flights with her at about noon and stood in the back room whil
 
 He thought about asking her to go to the kitchen on the day the bench is shut, and did not ask, because he has asked her for nothing since February except to read a docket, and she has said no five times in four years, and the fifth of them is standing in this room with a day against it.
 
-The sheet on the rail is the thirtieth, and the second column has three lines in it, and the drawer is shut, and the head stands unmoved, and in about four hundred kitchens there are pieces of paper with four sentences at the foot of them, and one in nine has two of them the wrong way round, and there is nobody in this city who can put that right except a woman with a pencil, and she may not be sent.
+There are four sentences at the foot of that page and they have stood there since before any clerk’s hand in this city, and in about four hundred kitchens there are pieces of paper with those four sentences copied out at the foot of them, and one in nine has two of them the wrong way round, and there is nobody in this city who can put that right except a woman with a pencil, and she may not be sent.
 
-He came back up the four flights behind her and did the floors of three washrooms and the stairwell and the bin room.
+He came back up the four flights behind her and did the floors of three washrooms and the stairwell and the bin room, and thought about one kitchen and which two of the four sentences it had got the wrong way round.
 
-At about half past five he stood in the room off a third court and looked at the bound Register and understood that the fourth column had done the best thing anybody in this city has produced in four years, and that it is nine sheets under a table, and that it goes nowhere, and that this is the whole of why it is true.
+The only person alive in this city who can put that right is four flights up, and she is not an instrument and may not be sent, and a thing that is true and cannot be corrected is the exact shape of about four hundred claims he has spent nine years on.
 
 There are about four hundred kitchens, and one copy in one of them is now wrong, and the only instrument in this city that can put it right is a woman who may not be sent and would have to sit at his table herself, one kitchen at a time, on a day the bench is shut, of which there are about four left before the rain.

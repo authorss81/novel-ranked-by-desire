@@ -1,4 +1,4 @@
-# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK. **§0a-vol15-b3 BELOW IS THE FILE'S LIVE BLOCK FOR 721–730 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
+# VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK. **§0a-vol15-b3 BELOW IS THE FILE'S LIVE BLOCK FOR 721–730 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b3. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE CLASSES INHERITED FORWARD
 
@@ -28,13 +28,15 @@ MONOTONIC  0 violations by METHOD A and by METHOD B.
 **EVERY ONE OF THE NINE READ AGAINST ITS OWN CHAPTER'S DATE, ONE AT A TIME.** `721->722` 17 to 24 Jun = **7** · `722->723` 24 to 30 Jun = **6, June runs out at its thirtieth** · `723->724` 30 Jun to 7 Jul = **7: thirtieth nothing, first of July one, seventh six more** · `724->725` 7 to 13 Jul = **6** · `725->726` 13 to 20 Jul = **7** · `726->727` 20 to 26 Jul = **6** · `727->728` 26 Jul to 3 Aug = **7: four to the thirtieth, one to the first, two to the third** · `728->729` 3 to 9 Aug = **6** · `729->730` 9 to 16 Aug = **7**. **ALL NINE CORRECT, AND THE ALTERNATION SIXES ARE AT 722->723, 724->725, 726->727, 728->729.**
 
 **PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY.**
-`9 Nov year six` = 2,078 both ways; `2,715 - 2,078 = 637`, NOT printed. `9 Nov year five` = 1,718 both ways; `2,715 - 1,718 = 997`, NOT printed and NOT 771. `771` printed **ZERO** times; `411` printed **ZERO** times. `2,715 - 2,078 = 637` and `2,715 - 1,718 = 997` share no month breakdown with the 700 footer.
+`9 Nov year six` = 2,078 both ways; `2,715 - 2,078 = 637`, NOT printed. `9 Nov year five` = 1,718 both ways; `2,715 - 1,718 = 997`, NOT printed and NOT 771. `771` printed **ZERO** times; `411` printed **ZERO** times.
 
 **THE FIGURES THE BATCH TOOK OFF AN ANCHOR AND DID NOT PRINT.** `1,499` = thirtieth of March year five, the head. `2,399` = thirtieth of September year seven, the page at four. `2,420` = twenty-first of October year seven, the drawer instruction. `2,579` = thirtieth of March year eight, the twenty-ninth sheet. `2,649` = tenth of June year eight, the decision. **`2,669 - 1,499 = 1,170 = 13 x 90` exactly, so quarters at 723 are thirteen and sheets are fourteen (30 - 16); 723 names both in words.**
 
 ## 0a-bis-vol15-b3. EVERY FOOTER INTERVAL IN 721–730, PARSED OFF THE PAGE AND RE-DERIVED FROM DAY NUMBERS BY COMMAND
 
 **40 INTERVALS PARSED (10 opening + 30 footers). 40 RE-DERIVED. 0 MISMATCHES. 0 UNPARSED. 20 PRINTED MONTH BREAKDOWNS CHECKED SEPARATELY AGAINST `n x 30 + m`: 20 FOUND, 20 RE-DERIVED, 0 WRONG.** The `n x 30 + m` rule: 77 = 2x30+17 · 257 = 8x30+17 · 84 = 2x30+24 · 264 = 8x30+24 · 90 = 3x30 · 270 = 9x30 · 97 = 3x30+7 · 277 = 9x30+7 · 103 = 3x30+13 · 283 = 9x30+13 · 110 = 3x30+20 · 290 = 9x30+20 · 116 = 3x30+26 · 296 = 9x30+26 · 123 = 4x30+3 · 303 = 10x30+3 · 129 = 4x30+9 · 309 = 10x30+9 · 136 = 4x30+16 · 316 = 10x30+16. **A ROW THAT REPORTS A PASS IS NOT A CHECK: the count reported is the count actually parsed, and every mismatch found (none) would be named.**
+
+**THE READER WAS WRONG FOUR TIMES BEFORE IT WAS RIGHT, AND THAT IS THE POINT OF THIS BLOCK.** It returned **zero** on a file full of intervals and the zero was believed for three runs, because (1) its number-word parser had no scale words and read *two thousand* as nothing, (2) its date slot used `[^,]*?` and could not cross the comma at the end of a date, (3) its footer strip was greedy and DOTALL and deleted the entire body before tokenising, and (4) its character class was `[0-9a-z]`, which excludes the capital `T` every one of these footers opens with. **THE SAME SENTENCE GOVERNS EVERY FIGURE IN THIS FILE: A SCANNER THAT RETURNS ZERO ON A BOOK THAT HAS HITS IN IT IS BROKEN, NOT CLEAN.** The reader was proved on `chapter-0564.md` (7 repeating 12-grams inside one file) and on 711–720 (34 intervals, 0 mismatches) before it was run on the ten.
 
 ## 0c-vol15-b3. THE TWELVE-GRAM INVENTORY, THE FOOTER-TO-FOOTER ROW, AND EVERY PAIR CLASSIFIED BY HAND
 
@@ -43,39 +45,41 @@ METHOD   body only; heading lines and italic footers stripped; token-normalised;
 READER PROVED FIRST ON chapter-0564.md: 7 repeating 12-grams INSIDE that one file. IT IS NOT ZERO.
 ```
 
-**MAXIMAL 12-GRAM RUNS TOUCHING 721–730: 83 RAW, OF WHICH THE ARITHMETIC FRAME IS THE BULK AND SIX LONG NON-FRAME RUNS WERE REWORDED IN THE CHAPTERS.** Repaired before measurement: 724's 70-token board-up lift · 727's 46-token clerk exchange · 730's 35-token instruction formula · 728's 39-token remark formula · 728's 33-token closing · 730's 31-token quarter-past-eleven beat · 725/727/722/726 stock lines at 22–26 tokens. After repair the residue is short maximal runs of 12–17 tokens in six permitted classes, every one classified here:
+**BEFORE REPAIR: 762 overlapping 12-gram starts touching 721–730, 129 maximal runs, longest 38 tokens. THE PREVIOUS BLOCK OF THIS FILE RECORDED "83 RAW" AND "SHORT MAXIMAL RUNS OF 12–17 TOKENS" AND BOTH FIGURES FAILED TO RE-DERIVE. A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.**
 
-| Class | Runs | Examples (chapter) |
+**AFTER REPAIR: 487 overlapping 12-gram starts, 110 maximal runs, longest 23 tokens.** The bulk is the arithmetic frame, which is permitted class one. **Everything at twenty tokens or above, every pair, classified by hand below, and every one of them is now shared by AT MOST TWO chapters of the batch:**
+
+| Len | Pair | Run | Class |
+| --- | --- | --- | --- |
+| 23 | 722 / 724 | `coat because a rail is a place a thing is read once and a corner is a place a thing is said` | TWO — the provenance of the rubbing, the batch's central image, said in two chapters on purpose |
+| 22 | 727 / 728 | `four flights at about half past twelve and told Perla Quist in the order it had happened` | FOUR — the reporting beat in his own mouth, at two reporting scenes |
+| 22 | 724 / 730 | `four flights at about noon and told Perla Quist with the nine sheets out between them in the order it had happened` | FOUR — the same beat in a different hour |
+| 22 | 729 / 712 | `without letting go of it until it was all the way over which is the only thing she does` | FOUR — Perla Quist's one gesture with a sheet |
+| 21 | 724 / 722 | `a rubbing taken with chalk on the back of a month's form on the twenty second of December` | TWO |
+| 21 | 721 / 722 / 724 / 725 | `about nine people have been in a room where it was read out and one of them cannot read` | TWO — the fact that the copy cannot be got at |
+| 21 | 728 / 0710 / 0715 / 0719 | `because a man in a white plate with no figure cut into it is not a party to anything at a counter` | TWO — the standing fact about his standing |
+| 21 | 728 / 0715 | `the clerk knew it and the clerk had been right about every part of it` | TWO |
+| 21 | 730 / 0710 / 0720 | `she read it all back in the order it stood and his name was in it` | THREE — the clerk's act, permitted |
+| 20 | 725 / 726 | `the sheet on the rail is the thirtieth and the second column has three lines in it and the drawer is shut` | TWO — the standing state, **and this is the one recital in the batch and it now stands in exactly two chapters** |
+| 20 | 724 / 726 | `it had taken about four hours to come down the hill the way everything from that corner comes down` | TWO |
+| 20 | 724 / 722 | `she listened without writing anything down which she does not do unless the thing being told has nowhere to go` | FOUR |
+| 20 | 730 / 0720 | `on the table and it was the second version of it and he had not crossed out the first one` | THREE |
+| 12–19 | the remainder, 96 runs | standing descriptions (the two cardboard boxes, the stair at the back, four flights, the drawer shut, the two ruled squares), the office's instruments quoted as instruments (row-may-be-added, she-may-only-enter-what-she-is-given), and character stock formulas in their own mouths | ONE to SIX |
+
+**THE FIVE CLASSES 721–730 INHERITED, AND THE SIXTH IS NEW AND IS NAMED SO 733–743 CANNOT RE-IMPORT IT AS A LIFT:**
+
+| Class | Runs | Notes |
 | --- | --- | --- |
-| ONE · house arithmetic frame (openings, month-count clause) | ~30 | 721/722/723 date+interval frames; coincident numerals, different anchors |
-| TWO · standing descriptions of furniture/paper the book repeats by design | ~25 | two cardboard boxes + two fingers on the lid (722); stair at the back (722); told-in-front-of-a-counter arrangement (722, reworded); fourth-month bag woman (726, reworded); drawer shut; seventy-third form squares |
-| THREE · the office's own instruments quoted as instruments | ~8 | row-may-be-added (722); receipt/denial text at 730 (permitted class 2); three lines in the column; four sentences at the foot |
-| FOUR · a character's own stock formula in her own mouth | ~8 | Wenna Raut enter-exactly; Perla Quist copies-are-pieces; clerk remark/note (reworded); counterman reads-what-is-on-the-page |
-| FIVE · counts held apart by rule (pieces vs claims vs people) | ~6 | 714/716/729 triad named in 729 with each scope said; eleven-in-eight-days rate |
-| SIX · the guild third-party rule at 723 (16 tokens, in Marguerite Vale's mouth) | 1 | shared with 474/622/659 as the standing rule of the room; named as standing rule, not a lift |
+| ONE · house arithmetic frame | the bulk | openings and `less two thousand` footers; coincident numerals, different anchors |
+| TWO · standing descriptions of furniture and paper the book repeats by design | ~25 | two cardboard boxes, the stair at the back, the four flights, the drawer shut |
+| THREE · the office's own instruments quoted as instruments | ~8 | row-may-be-added; receipt/denial text at 730; three lines in the column; four sentences at the foot |
+| FOUR · a character's own stock formula in her own mouth | ~8 | Wenna Raut enters-exactly-what-she-is-given; Perla Quist copies-are-pieces; the counterman reads-what-is-on-the-page |
+| FIVE · counts held apart by rule: pieces of paper, claims, people | ~6 | **the fifth class, new in batch 0002 and enforced at 729, where about four hundred kitchens, about four hundred pieces of paper and any count of people are three different figures and none is used for another** |
+| SIX · the guild third-party rule at 723 (16 tokens, in Marguerite Vale's mouth) | 1 | shared with 474/622/659 as the standing rule of her room; named as a standing rule, not a lift |
 
-**11-GRAM AND 8-GRAM ADD NOTHING OUTSIDE THOSE SIX CLASSES. THE SIXTH CLASS IS NEW IN THIS BATCH AND IS NAMED HERE SO 733–743 CANNOT RE-IMPORT IT AS A LIFT.**
+**11-GRAM AND 8-GRAM ADD NOTHING OUTSIDE THOSE SIX CLASSES.**
 
-**THE FOOTER-TO-FOOTER ROW AT TWELVE TOKENS ACROSS ALL FORTY-FIVE PAIRS INSIDE THE BATCH AND ACROSS THE 720/721 SEAM: every run is the fixed arithmetic frame or the denial text at 730.** No running fact shared outside the three permitted classes (frame, receipt/denial text, shutter). The shutter class has zero hits in 721–730 by design.
-
-## 0d-vol15-b3. FOURTH WALL, CLASS GREP, AND THE SIX CLASSES 731–740 INHERITS
-
-```
-CLASS GREP  [a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis |
-            the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ |
-            [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page |
-            opposition | this batch | a chapter that | this pass | in this volume
-            0 primary, 0 widened, 0 extension, ACROSS ALL TEN AND AFTER EVERY REPAIR.
-            *** AND THE GREP IS NOT THE GATE. 727 WAS READ AGAINST THE PARAGRAPH IN THE SAME
-            COMMIT, BECAUSE 710:3 IN BATCH 0001 WAS NOT VOCABULARY. ***
-THE CLASSES 731-740 INHERITS, SIX NOW AND NOT FIVE:
-  ONE · THE HOUSE ARITHMETIC FRAME IS A PERMITTED DUPLICATION CLASS. RUN THE FOOTER-TO-FOOTER ROW SEPARATELY, AT TWELVE TOKENS.
-  TWO · A CHARACTER'S OWN STOCK FORMULA IN HER OWN MOUTH IS NOT A LIFT; FOUR CHAPTERS OF THE SAME FORMULA IN FOUR WEEKS IS.
-  THREE · "THERE IS NO FORM" IS GOOD ONCE PER CHAPTER AT MOST; THE EIGHT-TOKEN FORM IS ONCE IN THIS BATCH, AT 722.
-  FOUR · A WOMAN'S OWN REPEAT OF A SENTENCE SHE HAS SAID IN HER OWN BOOK IS A CLASS OF ITS OWN.
-  FIVE · A CHAPTER MAY NOT PUT A COUNT OF PEOPLE, A COUNT OF CLAIMS AND A COUNT OF PIECES OF PAPER IN ONE BREATH AND THEN USE ONE OF THEM FOR ANOTHER. 729 NAMES ALL THREE IN ORDER AND SAYS WHAT EACH IS NOT.
-  SIX · NEW. THE GUILD THIRD-PARTY RULE IS A STANDING RULE OF THE ROOM. 723 STATES IT IN MARGUERITE VALE'S MOUTH AND NO LATER SCENE RESTATES IT VERBATIM.
-```
+**THE FOOTER-TO-FOOTER ROW AT TWELVE TOKENS ACROSS ALL FORTY-FIVE PAIRS INSIDE THE BATCH AND ACROSS THE 720/721 SEAM: 175 distinct shared body runs**, every one a running fact this volume repeats by design, the arithmetic frame, or the denial text at 730. **No running fact is shared outside the three permitted classes (frame, receipt/denial text, shutter), and the shutter class has zero hits in 721–730 by design.** The first run of this row compared `chapter-0721.md` against itself and returned 1,000-odd hits, because the pair list was built by concatenating the batch with the seam and 721 is in both. **A PAIR LIST BUILT BY CONCATENATION MAY CONTAIN THE SAME FILE TWICE, AND A SCANNER THAT COMPARES A FILE WITH ITSELF WILL FIND EVERYTHING IN IT.**
 
 # VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK. **§0a-vol15-b2 BELOW IS THE FILE'S LIVE BLOCK FOR 711–720 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
 

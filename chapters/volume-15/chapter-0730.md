@@ -64,17 +64,17 @@ And about nine people a week read that page to the bottom, and from the thirty-f
 
 He saw it standing at the table end at about a quarter past eleven, taking some four seconds, having seen it before the denial was written and carried it for some four days, with nobody in that room able to say he was wrong.
 
-The head stands at eight hundred and fifty-two, unmoved since the thirtieth of March of the fifth year, and the second column has three lines in it, and the drawer is shut, and the bundle on the table holds twenty-five things of which the last has never been opened by anybody.
+The bundle on the table holds twenty-five things of which the last has never been opened by anybody, and the sheet that goes out four times a year is the sheet it was in March with seven lines under the four sentences, and every person who reads to the bottom of it from today will find his name standing at the end of it.
 
 None of that is touched by what he did today, although all of it will be read differently from today, because a page with a denial on it is a different page from one without, even when every figure on it stands where it stood.
 
 He went down four flights at about noon and told Perla Quist with the nine sheets out between them, in the order it had happened, because she keeps days and a denial with a day is a day she can hold even when she cannot cite it, and because she ruled nine sheets under a third table in October and headed them in February and wrote a line under the heading in May that went nowhere, and every one of those was a denial in its own shape.
 
-She listened without writing anything down, and when he had finished she put the pencil down across the bench and looked at him for about four seconds, and he saw that she was not angry and not glad, but tired in the way people are tired who have kept nine sheets under a table for a year, and who have said no five times and are about to be asked a sixth.
+She listened without writing anything down, and when he had finished she drew the pencil slowly along the edge of the bench and looked at him for a while, and he saw that she was not angry and not glad, but tired in the way people are tired who have kept nine sheets under a table for a year, and who have said no five times and are about to be asked a sixth.
 
 “You have put yourself twice on paper now,” she said. “Once in pencil, under a striking, where a clerk entered your name because you wrote four words in September, and once in the office’s hand, under four sentences, where you wrote your own name yourself. And the two are not the same instrument and you know the difference because you were the one who said so.”
 
-He nodded and went back up the four flights with nothing in his hands and did the floors, and at about half past five he stood in the room off a third court and looked at the denial where it lay at the foot of the sheet, in the office’s hand, with his name and the date, and understood that he had closed the one option he had kept open for nine years.
+He nodded and went back up the four flights and sat down at the table without touching anything, because a denial is a claim about somebody else’s claim, and he had known that when he wrote it, and had written it anyway, because nine years of a silence kept by a building with no door onto a street is not a denial at all, it is only an absence, and from today anybody at all may put a name to that absence and argue with it in the open.
 
 Wenna Raut squared the sheet carefully against the edge of the table although nobody had asked her to at all, because a denial with a name under it is an entry that has to sit straight.
 

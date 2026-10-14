@@ -58,3 +58,23 @@ FILES/TITLES/BANK(per file, summed, counter proved on chapter-0700 at 2,013)/BAN
 ## 7. IF YOU RUN OUT OF ROOM
 
 Stop at a chapter boundary. Save completed chapters + state. Mark remainder resumable. Never leave a half-written file. Never restart a completed chapter.
+
+## 8. THE CLASSES YOU INHERIT, AND THE FAILURES OF THIS REPOSITORY YOU INHERIT WITH THEM
+
+**THE SIX CLASSES OF REPEATED LANGUAGE 721–730 ENDS ON, FROM `state/continuity.md` §0c-vol15-b3. EVERY RUN AT SIX OR ABOVE IN YOUR TEN IS CLASSIFIED BY HAND AGAINST THEM, AND A SIXTH CLASS IS NAMED SO YOU CANNOT RE-IMPORT IT AS A LIFT:**
+
+1. **House arithmetic frame** — the opening line and the `less two thousand` footers. The bulk of every scan. Permitted.
+2. **Standing descriptions of furniture and paper the book repeats by design** — the two cardboard boxes, the stair at the back, the four flights, the drawer shut, the two ruled squares.
+3. **The office's own instruments quoted as instruments** — *a row may be added to and may not be taken from*, *she may only enter what she is given*, three lines in the column, four sentences at the foot, the receipt and the denial text.
+4. **A character's own stock formula in her own mouth** — Wenna Raut enters exactly what she is given; Perla Quist copies are pieces of paper; the counterman reads what is on the page.
+5. **Counts held apart by rule: pieces of paper, claims, people.** **A CHAPTER MAY NOT PUT A COUNT OF PEOPLE, A COUNT OF CLAIMS AND A COUNT OF PIECES OF PAPER IN ONE BREATH AND THEN USE ONE OF THEM FOR ANOTHER.** 714's four hundred, 716's eleven and 729's about four hundred are the same figure and are three different things. **740 IS A TRAP FOR THIS CLASS: about four hundred and nine is a count of pieces of rag paper, and 741's twenty-six is a count of things, and neither is a count of people and neither is a count of claims.**
+6. **A guild or standing rule carried by the room and named by nobody** — the third-party rule at 723 is shared with 474/622/659 as the standing rule of a counting house. **The day-book rule at 733 is the same shape and is permitted for the same reason: a desk takes one question of a thing, a question returned into a day book is not a return, and a book opened at the first is not a record. Name it and it is a defect.**
+
+**AND THE FAILURES, WHICH ARE THE POINT OF CARRYING THEM:**
+
+- **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG.** Batch 0003's bank said 19,127 and the truth was 19,436, because the writing pass counted, a review commit then edited eight of the ten files, and the row was never re-counted. `chapter-0713.md`:227 printed 119 for 219 the same way. **COUNT PER FILE, SUM FROM DISK, AND COUNT AGAIN AFTER THE LAST EDIT.**
+- **A SCANNER THAT RETURNS ZERO ON A BOOK THAT HAS HITS IN IT IS BROKEN, NOT CLEAN.** The twelve-gram reader returned zero on `chapter-0564.md` because its footer strip was greedy and DOTALL and deleted the body before tokenising. The interval parser returned zero on files full of intervals four separate times: no scale words, a date slot that could not cross a comma, the same dotall strip, and a character class of `[0-9a-z]` that excludes the capital every one of these footers opens with. **PROVE EVERY READER ON A FILE WHOSE ANSWER YOU ALREADY KNOW — 0564 FOR GRAMS, 0700 AT 2,013 FOR COUNTS, 711–720 AT 34 INTERVALS AND 0 MISMATCHES FOR ARITHMETIC — BEFORE YOU RUN IT ON YOUR OWN WORK.**
+- **A ROW THAT REPORTS A PASS IS NOT A CHECK.** Batch 0003 reported "all ten title lines pure ASCII" while `chapter-0728.md` carried the only curly apostrophe in all 730 title lines, and reported "83 raw maximal runs, residue 12–17 tokens" when the real count was 129 and the longest run was 38. **REPORT THE NUMBER YOU ACTUALLY COUNTED, AND REPORT EVERY MISMATCH YOU FOUND, INCLUDING ZERO ONLY WHEN ZERO IS TRUE.**
+- **A PAIR LIST BUILT BY CONCATENATING A BATCH WITH A SEAM MAY CONTAIN THE SAME FILE TWICE**, and a scanner that compares a file with itself finds everything in it. Deduplicate before you compare.
+- **A CLOSING BEAT USED IN SEVEN OF TEN CHAPTERS IS NOT HOUSE STYLE, IT IS THE BATCH'S OWN HABIT.** Batch 0003 ended eight chapters on *he did the floors and at about half past five he stood at the table and looked at the Register*; that beat appears in none of 701–717. **CHECK YOUR OWN REPEATED CONSTRUCTIONS AGAINST THE EARLIER CHAPTERS BEFORE YOU ACCEPT THEM, NOT ONLY AGAINST EACH OTHER.**
+- **AND THE ONE THIS BATCH OWED:** a scene that scores zero on the explicit-vocabulary probe is implication by summary and is a defect. 703 and 713 were both rewritten for it. **A PROBE OF ZERO IS NOT A PASS.**

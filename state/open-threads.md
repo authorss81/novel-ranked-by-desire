@@ -1,4 +1,4 @@
-# VOLUME 15 BATCH 0003 WRITTEN 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, 19,127 WORDS. MOVEMENT THREE, *THE COINCIDENCE*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 15 BATCH 0003 RE-MEASURED AND REPAIRED 14 OCTOBER 2026 — CHAPTERS 721–730 ON DISK, 19,436 WORDS. MOVEMENT THREE, *THE COINCIDENCE*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS THE DENIAL
 
@@ -25,11 +25,19 @@ FILES           730 chapter files on disk. Volume 15 holds 701-730 and 730 is th
 TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 730 FILES.
                 The ten title lines checked separately from their bodies for straight glyphs:
                 0 straight doubles, 0 straight apostrophes, 0 curly, all ten pure ASCII.
-BANK            Volume 15 so far is 19,127 words in this batch, 22,788 in batch 0002 and 22,377
-                in batch 0001, and the three sum to 64,292, counted per file and summed from disk:
-                1,900 1,914 2,689 1,804 1,804 1,806 1,803 1,807 1,800 1,800 = 19,127.
+                *** THIS ROW WAS A FALSE PASS AND 728 CARRIED THE ONLY CURLY APOSTROPHE IN ALL 730
+                TITLE LINES ON DISK. IT IS REPAIRED AND ALL 730 ARE NOW PURE ASCII, PROVED BY
+                COMMAND OVER EVERY FILE AND NOT BY THE TEN. SIXTEEN OTHER TITLES CARRY AN
+                APOSTROPHE AND ALL SIXTEEN HAVE ALWAYS USED A STRAIGHT ASCII ONE. ***
+BANK            Volume 15 so far is 19,436 words in this batch, 22,788 in batch 0002 and 22,377
+                in batch 0001, and the three sum to 64,601, counted per file and summed from disk:
+                1,900 1,935 2,689 1,813 1,871 1,841 1,815 1,813 1,915 1,844 = 19,436.
                 The counter was proved first on chapters/volume-14/chapter-0700.md, a file this pass
                 did not write, which returns 2,013 by `wc -w` and by a Python whitespace split.
+                *** THIS ROW WAS A FALSE PASS AND IT IS THE HAND-FORWARD THREAD OF THIS BATCH:
+                THE BLOCK PRINTED 19,127, WHICH WAS CORRECT AT THE WRITER COMMIT, AND THE REVIEW
+                COMMIT b7cdfc4 THEN EDITED EIGHT OF THE TEN FILES AND THE BANK WAS NEVER RE-COUNTED.
+                A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND IT WAS WRONG BY 270. ***
 SPINE           Volume 15, 2,520 -> 2,715 across three batches, monotonic at 0 violations by METHOD A
                 and METHOD B, proved by the SUM against the endpoints each time: batch 0001's row
                 `7 7 6 7 6 7 6 7 6 = 59`, batch 0002's row `7 7 7 7 7 7 7 7 7 = 63`, this batch's row

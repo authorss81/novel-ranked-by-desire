@@ -26,7 +26,7 @@ The boy stood by the bench with his eyes on the nine sheets and did not look at 
 
 He was quiet for about four seconds and then he spoke, and he spoke to the bench and not to any person, and it took him about nine seconds and then he stopped.
 
-“A man in a rank-one coat has a piece of paper in the inside of his coat that four hundred people could read and has not read it to anybody. A thing that is not said out loud is the only thing in this city that cannot be copied.”
+“You have something in your coat,” he said, “and everybody in this city can see your face while you do not take it out. I have a piece of chalk and a board and nine people a week, and if I say it out loud it is only a thing somebody heard.”
 
 Then he stopped, the way she had told him, with his hands at his sides and chalk on his fingers, and nobody in that room said anything for about four seconds afterwards.
 
@@ -70,7 +70,7 @@ He had wanted anger and felt only a great tiredness, and underneath the tirednes
 
 “No,” said Lin Hao. “She asked him. She is not an officer and she is not a clerk, and I have never asked him and I never will, and the reason is in your column now with a day against it.”
 
-He went up the four flights behind the woman with the yoke and did the floors of three washrooms and the stairwell, and at about half past five he stood at the table in the room off a third court and looked at the bound Register with its rows of days and hours, and a boy’s nine seconds were not in any of them and never would be, and that was the whole of why they were true.
+He went up behind the woman with the yoke, the boy’s nine seconds going round in his head, and left the bound Register shut where it stood on the table under the window, because a reason given out loud in a back room is the one piece of paper in this city with nowhere to be written on, and that was the whole of why the boy was right, and he had been carrying it since April without knowing what it was.
 
 Wenna Raut watched him stand there and did not ask him what had happened four flights down, because a clerk who may only enter what she is given does not ask about a thing nobody gave her, and he was glad of it, because the nine seconds were not an entry and could not be made into one.
 
