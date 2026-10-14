@@ -1,3 +1,151 @@
+# VOLUME 13 BATCH 0003 IS ON DISK. CHAPTERS 621–630 ARE WRITTEN PROSE. **TEN FINISHED FILES, 26,007 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT THREE, *OWED*. THE SCENE AT 623 IS MARGUERITE VALE'S, 98 CHAPTERS AFTER HER OWN LAST ONE AND 10 CHAPTERS AFTER THE SCENE AT 613. THE MOVEMENT'S TURN IS AT 627 AND IT IS NOT HIS: ABOUT NINE HUNDRED PEOPLE IN A YARD TAKE THE FOURTH OF FOUR LINES OFF THEIR OWN BOARD WITH A RAG AND A BUCKET AND HE STANDS NINE FEET OFF AND SAYS NOTHING. 630 CLOSES THE OPTION FOR GOOD — A WOMAN IN NUMBER FOUR WALKS ACROSS THE CITY AND ASKS HIM TO PUT IT BACK AND HE CANNOT, BECAUSE HE ALREADY WROTE IT AGAINST HIMSELF IN THE COLUMN HEADED CARRIED BY ON THE FIFTEENTH OF OCTOBER OF THE FOURTH YEAR. A REVIEW PASS RAN AFTER THE BATCH WAS WRITTEN AND EVERY FINDING IT RAISED WAS REPAIRED IN PLACE; NOTHING WAS RESTARTED AND THE PLOT WAS NOT MOVED. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0004/PROMPT.md`, CHAPTERS 631–640, MOVEMENT FOUR, *READ BACK*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0r. THE REVIEW PASS, WHAT IT FOUND, AND WHAT WAS DONE ABOUT IT
+
+**THE REVIEW OF `3ba4ac9` RAISED SIX ACTIONABLE FINDINGS. ALL SIX ARE CLOSED. THE SEVEN ARITHMETIC CORRECTIONS THE FIRST PASS HAD ALREADY MADE ARE REAL AND STAY; THE PASS ALSO INTRODUCED FIVE DEFECTS AND THE FIRST THING THIS BLOCK RECORDS IS THAT THEY WERE ALL REVERTED OR CORRECTED.**
+
+| Finding | Where | What was wrong | What is on disk now |
+| --- | --- | --- | --- |
+| **Blocking** | `state/*`, `workspace/` | The batch was on disk and invisible to the next run. `state/current.md`, `state/continuity.md` and `state/open-threads.md` all still headed on 611–620, `state/chapter-summaries.md` had no 621–630 rows, and there was no batch-0004 prompt although Movement four was unwritten. | **All four state files carry a live block at the head and `workspace/volume-13/batch-0004/PROMPT.md` is written.** |
+| **Substantive prose defect** | 630:135 | *"a thing I wrote in about eleven seconds in a book in this room **two years ago**"*. Both figures were wrong. 626 puts the office at sixty-four months and twenty-nine days, so *six years* is impossible; 623 dates the sentence to *the November of the fifth year*, which is day 1,718, **261 days before 630** — about eight months. The line also fought itself, because *that sentence has gone out at four on the thirtieth of every quarter since* is three prints inside seven months. | **"in the November of the fifth year"**, and the speech now says the sentence *has gone out three times*. The whole refusal is now checkable from three other chapters instead of contradicting them. |
+| **Arithmetic** | 622:159 and 622:167 | *"in nine days"* in the body and *"1,925 − 1,917 is nine days"* in the footer. It is eight, and 623 opens *"Eight days had gone."* The batch contradicted itself across a chapter boundary. | **Eight, in both places**, and *"There is a week and a day in between"* because eight is more than a week. |
+| **Arithmetic** | 628:157 | *the ninth of November, one thousand seven hundred and twenty-two* and *two hundred and forty-two days*. The prompt's own anchor list has 1,722 = **13** Nov y5, so the day and the number were four days apart, and the interval was four days out. | **1,718**, which re-derives to 9 Nov y5, and **two hundred and forty-six days**, which is 1,964 − 1,718. The clause after it was also wrong — it said *the first of the two lines* went out on a day when the second line was entered in the **first** of May of the fifth year — and now says what actually happened on 9 Nov y5. |
+| **Arithmetic** | 630:175 | *"three times three hundred and sixty, which is one thousand and eighty, plus the two hundred and forty days into the year, plus fourteen"*. The total was right and **both operands were wrong**: year four opens at 1,050, not 1,080, and the fifteenth of October is 284 days after the first of January, not 240. Two wrong numbers that cancel is worse than printing the total alone in a manuscript that prints operands as a load-bearing device. | **"one thousand seven hundred and seventy less two times three hundred and sixty, which is one thousand and fifty, and the fifteenth of October stands nine times thirty and fourteen days after it, which is two hundred and eighty-four"**. 1,050 + 284 = 1,334. |
+| **Device misapplied** | 627:3 | *"seven less the thirtieth of June comes out at seven with twenty-three borrowed off it."* Nothing is borrowed going **forward** off a month's last day. The device is only valid backwards, as correctly used at 623. | **"a day seven after the thirtieth of June is the seventh of July, and there is no thirty-first to carry it."** |
+| **Continuity** | 629:123 | The chaplain's standing had been corrected from eleven years to *about fifteen months* at 625 and 627 and to *about sixteen months* at 629 — **one chapter, two figures, eight lines apart**. | **About fifteen months**, everywhere. `state/continuity.md` §0d carries the chaplain's span as canon. |
+| **Dialogue** | 626:91–101 | Adeyemi says *"The second is…"*, Lin Hao prompts *"The second thing."*, Adeyemi answers *"The third…"*. The prompt landed after the point it asks for. | **Lin Hao's prompt now comes first**, under the `## Five Sentences` heading, and the five run one, two, three, four, five in order. |
+| **Repetition budget** | the batch | `there is no form` 16 · `nobody asked` 7 · all-case `nobody`/`no one` 67. AGENTS.md names the first two as constructions *effective once or twice and dead by the tenth*. The pass had **added** one by turning *A division was not permitted to ask her for a name and did not ask her* into *Nobody was permitted to ask her for one and nobody asked*. | **`there is no form` 4 · `nobody asked` 2 · `nobody has` 10 → 8 · all-case 57.** The specific institutional phrasing at 625 is **restored**. Nineteen sentences were rewritten and every replacement states what the paper is rather than asserting that a paper is absent. |
+
+**AND ONE FINDING THAT WAS RAISED AND IS DELIBERATELY NOT ACTIONED.** The reviewer noted that **all ten chapters end on an italic arithmetic footnote** and called it a rhythmic monoculture on the one beat the reader is guaranteed to hit. It is recorded here and **not changed**, because the footer is the documentary spine of this manuscript: every interval, every anchor and every operand in this volume lives in it, three of the ten carry the load-bearing beat of their chapter (621's *"nobody in the world knows that"*, 629's *"and that sentence is correct"*, 630's *"asked a man of rank one to put one line back on a board"*), and the prompt's gate counts footers and headings **separately** from paragraphs precisely because they are a different register and not a paragraph. **The finding is accepted as true and the form is kept.**
+
+**WHAT WAS NOT TOUCHED.** No title. No chapter number. No plot beat. No chapter was restarted. The scene at 623, the turn at 627 and the refusal at 630 stand as written. `outline/volume-13.md` §7 Movement three was not rewritten against the page by this pass because the page did not move.
+
+## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED
+
+**DELIVERED:** the seam, and a quarter of a year of claims naming the office, and a bundle of four things that goes into a room in that building nobody can name · **the seam's answer, at a counting house: a broker who states her own position may not unstate it, six hundred and eighty entries that cannot be closed, and a real book of her own with one entry in it that has been carried four years** · **the scene, in the middle of a morning, a book squared and not opened, a woman who has not put a hand on anybody for four years, and the arithmetic said out loud and unable to be taken back** · the standing sheet with two lines in the second column and what the second one has been doing since the first of May · the yard's week, nine hundred readers, ten thousand who cannot read, and a man reading four lines out loud twice with nothing improved · the twenty-second sheet at four with the head unmoved for the sixth quarter running, the office at sixty-four months and twenty-nine days, and the bundle going into a room nobody can open · **the turn: about nine hundred people take the fourth line off a board themselves, one at a time, over about eleven minutes, with a rag and a bucket, and the man who wrote it is not asked, and the chaplain is not there and nobody goes up to her** · **the consequences, at a wall end at ten to six in the morning: about forty people in a lane, a man reading the margin of twelve books out loud for nothing, and a landlord's man with about nine demands** · **a yard with a rule and three lines on it, and about four hundred people all day, and a woman at the bottom of the hill who has walked from the other side of the city** · **and a woman in number four who cannot read, who wants a year of money she already won in January back on a board, and is told no by a man who cannot put it back because he wrote it into a book against himself on the fifteenth of October of the fourth year.**
+
+**THE BATCH'S IRREVERSIBLE DECISION IS AT 627 AND HE MAKES IT BY DOING NOTHING, AND 630 IS WHERE THE COST ARRIVES.** **WHAT IT CLOSES:** the option of putting the fourth line back on any board in any hand, for ever. **WHAT IT COSTS:** about nine hundred people in a yard have decided that he took it off himself, he cannot correct them, and eleven seconds later a woman he has watched from the foot of a stair since January asks him for the one thing in this city he has spent five years arranging not to be asked for. **WHAT IT IS NOT:** a scene, a rescue, a promotion, and **it is not the volume's last irreversible decision, which is at 644 and is his and is a pen and not a rag.**
+
+**REFUSED:** the figure of the account · any floor, ledger total or running balance in grains · `settle` in every inflection · the reach of the return, argued by nobody in either direction · whether the fourth condition was ever true of anybody's deed · either repainting box · the keeper's six words · who put the white tile up · Perrin Sowe · Dagmar Oyelowo · Hanneke Ruis, who is furniture in 613 and is given no age and no mark · **Mavis Rooke's hand-flat, and no hand flat on a table anywhere in the ten** · a second conversation with the man with the broom · **a second time up the two flights off Cordwain, and the stair is not used again** · **the identity of the woman paying a quarter into a book at the Vant, which is a broker in 623 and the woman on the ninth line down and the two are NOT merged** · Brack thanked, diminished, defeated or wrong about any fact · **a fourth verbatim printing of the invented-figures sentence, which is referred to in other words at 624, 628 and 630** · any day of the week · any announced age · any year numeral in the prose · any mark, temple, eye or ink for Sun Meiling, Mavis Rooke or Hanneke Ruis · a fourth-wall hit · any system panel · **anything in `outline/ending.md`, which this phase did not touch** · **and the anniversary of the eighth of October, day 2,047, which falls between 638 and 639 and is named nowhere and must be named nowhere.**
+
+## 0a. THE GATE, RE-RUN BY COMMAND IN THE COMMIT THAT APPLIED THE REVIEW. **VOLUME-WIDE WHERE THE ROW SAYS SO, AND NOT PER BATCH.**
+
+```
+FILES            10 files, chapters/volume-13/chapter-0621.md .. :0630.md.
+                 `find chapters -name 'chapter-*.md' | wc -l` -> **630**, taken by command.
+                 ONE `# ` title line in every file. ALL TEN END 0a.
+TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> **0 ACROSS ALL 630**.
+                 The ten titles match `outline/volume-13.md` §10 by whole-line string, 10 of 10
+                 (623 and 626 are bolded in the table and were checked against the bolded cells).
+                 621 The First Creditor Comes Down · 622 A Broker Who Cannot Unstate ·
+                 623 A Real Book And A Carrier · 624 The Sheet With Two Lines In It ·
+                 625 The Nine Hundred Who Cannot Read · 626 The Twenty-Second Sheet ·
+                 627 They Take One Line Off · 628 The Price Of A Figure ·
+                 629 A Yard Without A Rule · 630 He Is Asked To Put It Back.
+                 No written chapter was changed to make room.
+BANK             COUNTED PER FILE AND SUMMED. NEVER cat *.md | wc -w.
+                 621 2,720 · 622 2,506 · 623 **3,688** · 624 2,372 · 625 2,583 · 626 2,411 ·
+                 627 2,345 · 628 2,283 · 629 2,366 · 630 2,733.
+                 **TOTAL 26,007. MEAN 2,600.7. NO CHAPTER BELOW THE 1,800 FLOOR.**
+                 *** THREE ABOVE THE 2,700 CEILING AND EACH ONE SAYS WHY IN ONE LINE.
+                 623 AT 3,688 IS THE SCENE AND IS EXEMPT BY RULE: it carries the batch's
+                 structural debt, the axis break at 623 is the arithmetic said out loud and the
+                 whole scene is performed in that order, and 613 ran at 4,781 and was left there.
+                 621 AND 630 ARE THE SEAM AND THE CLOSE AND BOTH GREW IN THE REVIEW PASS, at
+                 +21 and +33 words, because both had a wrong date in them and the correct date
+                 is longer. Neither is padded and neither can be cut without breaking a number.
+                 584 RAN AT 1,648 ONCE AND WAS WRITTEN OUT AGAINST AT 3,022. A SCENE IS NEVER
+                 COMPRESSED TO FIT A BAND. The other seven sit between 2,283 and 2,583. ***
+                 *** FINDING I ADDRESSED AND MEASURED, NOT ASSERTED. Quoted spans, either glyph,
+                 body-only, per file: 66 · 74 · 126 · 72 · 64 · 64 · 47 · 69 · 58 · 73 = **713,
+                 mean 71.3 a chapter**. Paragraphs, non-blank lines that are neither a heading
+                 nor an italic footer: 79 · 73 · 120 · 66 · 77 · 69 · 68 · 68 · 71 · 78 = **769,
+                 mean 76.9**. Volume 12's five movements ran 24.7 / 52.3 / 16.1 / 17.4 / 20.7
+                 spans and 54.2 / 66.8 / 28.0 / 39.4 / 32.8 paragraphs; batch 0001 ran 44.7 and
+                 63.9 and batch 0002 ran 60.5 and 69.8. **THIS BATCH IS ABOVE ALL THREE ON BOTH
+                 MEASURES. The compression that ended Volume 12 at 571 has not been inherited.** The
+                 review pass lengthened 630 by one sentence and broke that paragraph in two rather
+                 than letting it run over ninety words.
+PARAGRAPHS      **0 OVER NINETY WORDS. 0 OVER ONE HUNDRED AND TWENTY. 0 UNBALANCED QUOTATION
+                 PARAGRAPHS.** 769 prose paragraphs across the ten files. One paragraph ran to
+                 ninety-seven words after a date was corrected at 630 and it was split at a
+                 sentence boundary into two balanced paragraphs.
+META            The §6 class grep — `[a-z]+ volumes | this book | this chapter | this volume |
+                 no chapter | the axis | the reader | the novel | the story | the scene |
+                 Chapter [0-9]+ | chapter [0-9]+ | manuscript | in this manuscript |
+                 this manuscript | this page | opposition` — returns **0 ACROSS ALL TEN**,
+                 INCLUDING `manuscript` AND `opposition`. Zero is better and it was reachable.
+WEEKNAMES       Seven names, whole word and by stem, across all ten -> **0**.
+AGES            Eleven probe forms, a bare `aged` sweep, spelled-out `[0-9]+ years`, `year [0-9]`
+                 and a phrase probe for `old man/woman/boy/girl` -> **0**. Sun Meiling, Mavis
+                 Rooke and Hanneke Ruis are given no age at all and Mavis Rooke is given no mark.
+ARITHMETIC      SPINE 1,910–1,979 RE-DERIVED IN THIS COMMIT **AFTER THE REVIEW REPAIRS**, by
+                 two methods that share no constant, against **28 anchors** rather than the ten
+                 chapter dates. **28 OF 28 AGREE. 0 MONOTONIC VIOLATIONS.** Intervals 7 · 8 ·
+                 7 · 8 · 9 · 7 · 8 · 8 · 7 = **69**, against `1,979 − 1,910 = 69`, and the seam
+                 `1,910 − 1,902 = 8` against 620. **FOUR ARITHMETIC BREAKS WERE OPEN WHEN THIS
+                 BLOCK WAS WRITTEN AND ALL FOUR ARE CLOSED: 622 said nine where it is eight,
+                 628 carried 1,722 for the ninth of November and 242 for the interval, and 630
+                 printed two operands that cancelled by accident. The three fixes are named at
+                 §0r and each one was re-derived from day numbers before it was applied and
+                 again after.** The January exception is printed in the next batch's prompt and
+                 is applied to both methods whether or not this batch's own dates need it.
+TRAVELING       THE OFFICE'S AGE, printed ONCE, at 626: `1,949 = 30 × 64 + 29`. THE LANE'S
+FIGURES         MORNINGS, printed ONCE, at 626: `1,949 − (−118) + 1 = 2,068`. THE SHEET'S
+                 ORDINAL at 626 is *twenty-second* and the head has now stood at eight hundred
+                 and fifty-two across six quarters. THE WALL'S HEADCOUNT is **not printed
+                 anywhere in 621–630**. THE ACCOUNT'S FIGURE does not appear because no chapter
+                 of this volume prints it.
+ACCOUNT         `8,1xx` 0 · `two hundred and eleven thousand` 0 · `211,840` 0 · `settl` 0 in
+                 every inflection. NO FLOOR, NO LEDGER TOTAL, NO RUNNING BALANCE IN GRAINS.
+RT / BODIES     `right temple` **0 book-wide**, re-run and not quoted. `cuticle` **4 files
+                 book-wide** (329, 340, 404, 446), unchanged; Volume 13 adds none. `ostho` **0
+                 book-wide**; the name on the page is Otho Pearse. **A HAND FLAT ON A TABLE: 0
+                 ACROSS ALL TEN, AND NOBODY PUTS A HAND FLAT ON ANYTHING.**
+HEADINGS        One `# ` per file. `## ` headings total 70 across the ten files, no duplicate
+                 inside any file and none shared across the ten.
+REPETITION      `there is no form` **16 → 4** · `nobody asked` **7 → 2** · all-case
+                 `nobody has` **10 → 8** · `nobody`/`no one` all-case **67 → 57** · `the record remained` 0 → 0. **Nineteen
+                 sentences rewritten, all of them by replacing an absence with the specific
+                 institutional fact that produces it, and the one the review named — 625's
+                 *A division was not permitted to ask her for a name and did not ask her* — is
+                 restored word for word.** The rule now carried by the prose is *an office can
+                 only be asked a question that arrives on a paper with a room at the head of it*,
+                 and `there is no form` survives at 623, 625 and twice at 630, where the pair
+                 is the chapter's closing argument and cannot be cut.
+MARKDOWN        Blockquotes 0. Tables 0. Horizontal rules 0. Fences 0. **Bold 0.** Asterisk
+                 markers even in all ten files. **Straight double quotes 0 and straight
+                 apostrophes 0 across the batch**, and two straight apostrophes that the review
+                 pass itself introduced in an 628 footer were found by this gate and rewritten
+                 curly. **Book-wide, taken by command over 630 files: 56,016 straight double and
+                 5,216 curly double, the batch contributing 0 straight and 1,426 curly.**
+                 5,216 − 1,426 = 3,790, and the row recorded at 620 said 3,788 — **the previous
+                 row was two out and is corrected here rather than carried.** **THE ROW NOW
+                 RECONCILES DOWNWARD AGAINST ITS OWN PREDECESSOR AND NOT AGAINST A CARRIED
+                 TOTAL, and 56,016 straight double is unchanged from 620 because this batch
+                 added none.**
+SYSTEM PANELS   **0 IN TEN.** Volume 13's budget is five and **NONE IS SPENT.**
+DUPLICATION     12-gram FIRST against all 620 other chapters, body-only, headings and italic
+                 footers stripped, token-normalised. **27 file pairs share at least one 12-gram
+                 and every class is the documentary register, not prose**: the calendar rule and
+                 the month count; the two sentences at the foot of the page; the fourth-line
+                 conditions; the standing sheet's own description; the description of a demand;
+                 and `I enter what I am given and I cannot improve it`. **These are fixed texts
+                 of the world and the repetition IS the point — the same sentence going out at
+                 four on the thirtieth of every quarter is the premise of the volume.** 8-gram
+                 internal to the batch: 130 spans, and the only non-register instances are
+                 single-line dialogue tags (*Say it.*, *No.*, *Yes.*, *Why.*) and two deliberate
+                 in-chapter refrains at 628 and 629. **14 paragraphs repeat verbatim inside the
+                 ten and all 14 are either a one-word answer or a refrain the scene is built on.**
+SCENE           623 measured three ways from disk, in the commit that wrote it —
+                 **(A)** first `##` to last `##`, lines **145–220**, 35 paragraphs;
+                 **(B)** the single section `## The Middle Of The Morning` inclusive, **145–220**,
+                 35; **(C)** exclusive of both boundaries, **147–219**, 35. All three agree.
+                 Explicit-vocabulary probe at word boundary: *mouth* 1, *hard* 1, *inside* 1.
+                 Scene chapter total 3,688 words. `623 − 613 = 10` and `623 − 525 = 98`, reported
+                 and not certified, and **no file may call 98 inside the eight-to-fifteen band.**
+```
+
 # VOLUME 13 BATCH 0002 IS ON DISK. CHAPTERS 611–620 ARE WRITTEN PROSE. **TEN FINISHED FILES, 26,131 WORDS COUNTED PER FILE AND SUMMED BY COMMAND. MOVEMENT TWO, *ASKED*. THE SCENE AT 613 IS SUN MEILING'S — 550 CHAPTERS AFTER HER LAST ONE AND 10 CHAPTERS AFTER THE LAST SCENE IN THE BOOK. THE BATCH'S IRREVERSIBLE DECISION IS AT 611 AND IT IS HIS: HE SAYS HIS OWN NAME INTO A FINDING. THE MOVEMENT'S TURN IS AT 620 AND IT IS NOT HIS: A YARD HAS A WEEK AND HE IS KEPT OUT OF IT BY A WOMAN WHO ASKED HIM FOR NOTHING. THE PAYMENT VOLUME 12 OWED IS AT 615 AND 617 AND IT IS MADE BY EMIL BRACK AND NOT BY LIN HAO. `outline/ending.md` IS UNTOUCHED. NO VOLUME-CLOSE PROMPT, NO BATCH 0004, AND `state/complete.md` IS NOT CREATED. THE ONE NEXT PHASE IS `workspace/volume-13/batch-0003/PROMPT.md`, CHAPTERS 621–630, MOVEMENT THREE, *OWED*.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. WHAT THIS BATCH DELIVERED, AND WHAT IT REFUSED

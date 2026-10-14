@@ -1,10 +1,10 @@
 # They Take One Line Off
 
-Seven days had gone since a page had gone out at four from a room with two chairs in it and been pinned over another page on a desk in a passage off Cordwain. One thousand nine hundred and fifty-six less one thousand nine hundred and forty-nine is seven, and seven less thirty is minus twenty-three. A month runs thirty days and stops, so seven less the thirtieth of June comes out at seven with twenty-three borrowed off it.
+Seven days had gone since a page had gone out at four from a room with two chairs in it and been pinned over another page on a desk in a passage off Cordwain. One thousand nine hundred and fifty-six less one thousand nine hundred and forty-nine is seven, and seven less thirty is minus twenty-three. A month runs thirty days and stops, so a day seven after the thirtieth of June is the seventh of July, and there is no thirty-first to carry it.
 
 He climbed the hill on the seventh of July a little after ten in the morning and took up the nine feet in front of the board again. He had stood in that nine feet on the first morning of the yard’s week and on three mornings after it, and nobody had asked him to.
 
-Nobody had asked him to be there. That had been the condition, and he had accepted it, and it had been nine days.
+Not one person in that yard had asked him to be there. That had been the condition, and he had accepted it, and it had been nine days.
 
 He wanted somebody to ask him.
 
@@ -104,7 +104,7 @@ That was the correct thing. It was also the worst thing that had happened to him
 
 The chaplain was not there.
 
-The Vestry door was shut all morning. It was shut when the meeting came out and it was shut when the line came off, and nobody knocked on it, and nobody asked whether the chaplain had anything to say about it, and there has not once in five years been a form in this city on which a person may be asked whether the chaplain has anything to say.
+The Vestry door was shut all morning. It was shut when the meeting came out and it was shut when the line came off, and nobody knocked on it, and no one went up the steps to ask the chaplain whether she had anything to say about it, and in five years beside that door not one person has ever had the standing to put the question.
 
 “Is she not here.”
 
@@ -112,7 +112,7 @@ The Vestry door was shut all morning. It was shut when the meeting came out and 
 
 “Did anybody ask her.”
 
-“Nobody asked her,” said the man beside the door, “and nobody has ever asked her. She has said one thing a month off those steps for about fifteen months and been left unanswered every time, and this morning there were about eleven thousand people standing in front of them and not one of them went up.”
+“She has never been asked,” said the man beside the door. “Not this morning, and not in about fifteen months of those steps. She has said one thing a month off them and been left unanswered every single time, and this morning there were about eleven thousand people standing in front of them and not one of them went up.”
 
 ## What He Understood While It Was Coming Off
 
@@ -150,8 +150,8 @@ He stood nine feet off a board with three lines on it and one sentence under it,
 
 *One thousand nine hundred and fifty-six days. Less one thousand nine hundred and forty-nine, the thirtieth of June, is seven. Seven less thirty is minus twenty-three, and a month is thirty days and has no thirty-first.*
 
-*Less the twenty-eighth of June, day one thousand nine hundred and forty-seven, which is the day the yard’s week ended, is nine days. A notice went inside the Vestry door on the twenty-ninth and it asked anybody who wanted to object to the fourth line to write to the address at the head of the board, and nobody wrote, and there is no form in this city on which the office at that address may be asked a question.*
+*Less the twenty-eighth of June, day one thousand nine hundred and forty-seven, which is the day the yard’s week ended, is nine days. A notice went inside the Vestry door on the twenty-ninth and it asked anybody who wanted to object to the fourth line to write to the address at the head of the board, and nobody wrote, and a question cannot reach an office at an address unless it arrives on paper.*
 
 *Less the eleventh of July, which is day one thousand two hundred and forty and is the day the ninth line down was entered in a clerk’s hand, is seven hundred and sixteen days. The line it is on is the fourth line down of a list of about eight hundred and fifty-two and there are about four hundred and nineteen of them and no figure and no name against any of them.*
 
-*Less the fourth of January, one thousand seven hundred and seventy-three, is one hundred and eighty-three days, and one hundred and eighty-three is six months and three days. The fourth line was taken off a board in a yard this morning by about nine hundred people, one at a time, over about eleven minutes, with a rag and a bucket, and nobody asked the man who wrote it, and the chaplain was not there and was not asked.*
+*Less the fourth of January, one thousand seven hundred and seventy-three, is one hundred and eighty-three days, and one hundred and eighty-three is six months and three days. The fourth line was taken off a board in a yard this morning by about nine hundred people, one at a time, over about eleven minutes, with a rag and a bucket, and the man who wrote it was not asked first, and the chaplain was not there and nobody went up to her.*

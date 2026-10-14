@@ -120,7 +120,7 @@ He did not answer that, because the man was right, and because he had worked it 
 
 The Vestry steps were full from about eleven o’clock.
 
-There was a queue on them. A woman of about forty was at the top of them reading three lines out loud to about twenty people sitting down, and there was another queue behind her going back into the hall, and the steps of a church off the Vestry were where a woman had stood once a month for about sixteen months and said one thing and been left unanswered.
+There was a queue on them. A woman of about forty was at the top of them reading three lines out loud to about twenty people sitting down, and there was another queue behind her going back into the hall, and the steps of a church off the Vestry were where a woman had stood once a month for about fifteen months and said one thing and been left unanswered.
 
 There was no room on the steps for anybody who was not reading.
 

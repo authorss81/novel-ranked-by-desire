@@ -24,7 +24,7 @@ There was a bundle on the table with string round it, and it had not been there 
 
 “Then say the fifth thing.”
 
-“The fifth thing is that nobody has to open it,” said Wenna Raut. “A bundle that goes into another room in a building with no door onto a street does not have to be opened by anybody, ever, for any reason, and there is no form on which a person can require it to be opened, and I have checked, because I looked for one in the April and there is not one.”
+“The fifth thing is that nobody has to open it,” said Wenna Raut. “A bundle that goes into another room in a building with no door onto a street is not opened by anybody, ever, for any reason, and I know that because I went looking in the April for the paper that requires it, and there is not one in this building or in any other I have been inside.”
 
 “You looked for one.”
 
@@ -44,11 +44,11 @@ He stood at the table.
 
 “The fourth is a question.”
 
-“The fourth is a question this office cannot be asked,” said Wenna Raut, “and it has been in a bundle for nine days, and this afternoon it goes into a room with a bundle of six years of other papers in it, and there is no form on which anybody may ask for it.”
+“The fourth is a question this office cannot be asked,” said Wenna Raut, “and it has been in a bundle for nine days, and this afternoon it goes into a room with a bundle of six years of other papers in it, and nothing in this city can be filled in to ask for it.”
 
-“Nobody has asked for it.”
+“It has not been asked for.”
 
-“Nobody has asked for it,” she said, “and that is not the reason it is in there. It is in there because I entered it. Everything in that bundle is in there because a clerk entered it.”
+“It has not been asked for,” she said, “and that is not the reason it is in there. It is in there because I entered it. Everything in that bundle is in there because a clerk entered it.”
 
 ## Sixty-Four Months And Twenty-Nine Days
 
@@ -66,7 +66,7 @@ That figure has not moved since the thirtieth of March of the fifth year and thi
 
 “You said nothing about the second line.”
 
-“I said nothing about the second line,” said Wenna Raut, “because the second line is not mine and not yours and I am a clerk who enters what she is given, and there is no form on which a clerk may be asked whether a line is the right shape for the column it is in.”
+“I said nothing about the second line,” said Wenna Raut, “because the second line is not mine and not yours and I am a clerk who enters what she is given, and a clerk is not permitted to be asked whether a line is the right shape for the column it stands in.”
 
 ## What A Registrar Says Standing Up
 
@@ -90,13 +90,13 @@ He read the figure at the top, and then he read the four sentences underneath it
 
 ## Five Sentences
 
-“The second is that the bundle goes into another room at four and nobody has to open it.”
+“The second thing,” said Lin Hao.
+
+“The second is that the bundle goes into another room at four and nobody has to open it,” said Adeyemi.
 
 “I know.”
 
 “You do not know it,” said Adeyemi. “You know it the way a man knows a thing he has been told. Nothing in this city can make this office do anything, and it has not a coin to its name, and the one thing it ever had that other things do not have is that you could not get at it. A bundle takes that away, and it takes it away the way a locked drawer takes it away from the man who owns the room.”
-
-“The second thing.”
 
 “The third,” said Adeyemi, “is that you have two lines in the second column and one of them you put in yourself against yourself with your own hand and the other one a woman put in through a counter, and you have never once asked me about either of them in six years.”
 

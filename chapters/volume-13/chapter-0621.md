@@ -36,7 +36,7 @@ It was four lines long, dated the fifteenth of May, and it came from a counter o
 
 “The fifteenth,” said Lin Hao.
 
-“Four days after a quarter went out,” said Wenna Raut. “That is the whole of it, and I entered all of it and improved nothing, and there is no form in this city on which this office is asked whether it would put something back on a board.”
+“Four days after a quarter went out,” said Wenna Raut. “That is the whole of it, and I entered all of it and improved nothing, and an office can only be asked a question that arrives on a paper with a room at the head of it, and there is no room at the head of this one.”
 
 “Did you tell the person anything.”
 
@@ -44,7 +44,7 @@ It was four lines long, dated the fifteenth of May, and it came from a counter o
 
 Six days earlier a person had walked into a building off a fourth court and asked this office whether it would put something back on a board. The office had sent her nowhere, and there was no instrument on which it could have sent her anywhere.
 
-“The fourth of January to the twenty-first of May is a hundred and thirty-seven days,” he said. “Three of these went in front of a magistrate or came off one. One is a question, and there is no form for the question, and it is the only one anybody asked us for.”
+“The fourth of January to the twenty-first of May is a hundred and thirty-seven days,” he said. “Three of these went in front of a magistrate or came off one. One is a question, and a question does not come on a paper, and it is the only one anybody has ever wanted off us.”
 
 “Put it back in the tray.”
 
@@ -150,7 +150,7 @@ And the thing he understood, standing there, was the thing he had understood on 
 
 She had come down a stair she had refused to come down for about two years, in the cold, on the eleventh of May, on the strength of a sentence a man printed at the bottom of a page in a November. She had got an answer. The answer was correct. It did not change one hour of her six years.
 
-Nobody thanked her and nothing came out of the two flights for her, and the Register stood on exactly the footing it had stood on that morning, and there is no form in Ostara on which any of that could be entered.
+She came down two flights and went back up two flights, and not one hour of her six years was altered by the answer, and the Register stood on exactly the footing it had stood on that morning, and there is nowhere in Ostara to put any of it.
 
 ## The Note Of The Fifteenth
 
@@ -158,7 +158,7 @@ He came back up Cordwain at about ten to twelve with the counter clerk’s note 
 
 *A person came to the counter at about eleven and asked whether this office would put something back on a board.*
 
-Six days before this morning, and six days after the quarter went out. The person had gone into a building off a fourth court on the word of a man at a board and asked the only question anybody has ever wanted to ask of this office, and there was no form on which it could be answered, and no clerk who could be hurried, and no counter in the city where the asking of it would arrive.
+Six days before this morning, and six days after the quarter went out. The person had gone into a building off a fourth court on the word of a man at a board and asked the only question anybody has ever wanted to ask of this office, and the asking of a thing has to arrive on a counter, and that counter had gone home for the day, and no clerk in this city can be hurried about it.
 
 He put it on the table in front of Wenna Raut. She read it twice at the same speed, which is what she does, and put it in the bundle on top of the other three, and said nothing about it.
 

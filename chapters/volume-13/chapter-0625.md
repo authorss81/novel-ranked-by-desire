@@ -70,7 +70,7 @@ He said it because he had spent six years arranging for there to be exactly one 
 
 “There is no form.”
 
-“There is no form,” said the woman. “That is the first true thing anybody has said on this ground since the seventh of February and it has taken you about two minutes to say it.”
+“That is right,” said the woman. “That is the first true thing anybody has said on this ground since the seventh of February and it has taken you about two minutes to say it.”
 
 “What is the second thing.”
 
@@ -98,7 +98,7 @@ He had not thought of that. In six years he had not once thought of that.
 
 “Has anybody asked her for it.”
 
-“No. Nobody was permitted to ask her for one and nobody asked, and that page has not got a place to put a name in if one had been offered.”
+“No. A division was not permitted to ask her for a name and did not ask her, and that page has not got a place to put a name in if one had been offered.”
 
 “Then how does she get it.”
 
@@ -138,7 +138,7 @@ This morning she had asked a question instead.
 
 “Has anybody here been told what is on that board,” she had said, “by anybody but each other.”
 
-Nobody had answered it, because about eleven thousand people were on the ground reading four lines to each other and nine hundred of them had just stopped.
+It went unanswered, because about eleven thousand people were on the ground reading four lines to each other and nine hundred of them had just stopped.
 
 “Go and tell her,” said the man beside the door, seeing where he was looking. “No. Do not. She has said one thing a month for about fifteen months and she has never once wanted it carried. If you carry it up there it stops being hers.”
 
@@ -156,7 +156,7 @@ He had spent five years on the second one, and had gone up those stairs once on 
 
 On the twenty-first of June he made himself findable, in a yard of about eleven thousand people, in the open, at nine feet off a board, in his own voice.
 
-There was no form for it. There was no counter to take it at and no clerk who might enter it and no magistrate who would hear it, and it could not be undone, because there is no instrument in Ostara by which a man takes back a sentence he has said out loud to eleven thousand people.
+There was no counter to take it at and no clerk who might enter it and no magistrate who would hear it, and it could not be undone, because a man cannot take back a sentence he has said out loud to eleven thousand people.
 
 “You have made yourself findable,” said the man beside the door. “I want you to understand that I have watched you do about six things in six years in this city and five of them were not being found. This is the first one you did on purpose and you did it in a place with eleven thousand people in it.”
 

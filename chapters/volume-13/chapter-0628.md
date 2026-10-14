@@ -58,7 +58,7 @@ He turned round.
 
 “Nobody asked you to.”
 
-“Nobody asked me to and nobody has told me not to and there is no form,” said Brack, “and that is the entire reason it is happening, and I would like you to sit with how cheap that is.”
+“I was not asked and I was not told not to and there is not a paper in this city that either of those would have to be written on,” said Brack, “and that is the entire reason it is happening, and I would like you to sit with how cheap that is.”
 
 ## The Question He Came Down With
 
@@ -104,7 +104,7 @@ He turned the slate round.
 
 “And they are going into demands.”
 
-“About nine of them are in demands and there will be more by the thirtieth of September and I cannot stop a single one of them,” said Brack, “and there is no form on which a man with a slate can be asked to put a figure out of a piece of paper that somebody has copied down with a pencil.”
+“About nine of them are in demands and there will be more by the thirtieth of September and I cannot stop a single one of them,” said Brack, “and once a figure is copied off a slate onto a piece of paper with a pencil it is a fact about the world, and nothing in this city can ask a man to unmake that with a rag.”
 
 ## What It Cost Him
 
@@ -154,6 +154,6 @@ He turned back to the wall and put the first figure of the day on the slate, and
 
 *Less the seventh of February, one thousand eight hundred and six, is one hundred and fifty-eight days, and on that morning a checker at a counting house off Ferrier Street did the whole of the arithmetic of the four lines out loud, on the ground, in front of about nine hundred people. Afterwards a man in a delivery coat came and told a man with no instrument that the office had taken the one checkable thing in Ostara off the wall and given it away deliberately.*
 
-*Less the ninth of November, one thousand seven hundred and twenty-two, is two hundred and forty-two days, and the first of the two lines went out at four on that day with a name under it. The next page goes out at four on the thirtieth of September, and there is no page in this city between this morning and then.*
+*Less the ninth of November, one thousand seven hundred and eighteen, is two hundred and forty-six days, and on that morning he wrote at the foot of the page a sentence with his name under it, and it has gone out at four on every thirtieth since. The next page goes out at four on the thirtieth of September, and nothing is printed between this morning and then.*
 
-*Nine stools, a slate, a grain a head, twelve books, and about two thousand of about eight thousand ringed with a reason in the margin in plain words. On the thirteenth of July a man began reading that margin out loud at ten to six in the morning to anybody standing at the wall end, and nobody asked him to and nobody told him not to, and there is no form.*
+*Nine stools, a slate, a grain a head, twelve books, and about two thousand of about eight thousand ringed with a reason in the margin in plain words. On the thirteenth of July a man began reading that margin out loud at ten to six in the morning to anybody standing at the wall end, and it was nobody’s decision and nobody’s order, and there is not a paper anywhere in this city for it.*

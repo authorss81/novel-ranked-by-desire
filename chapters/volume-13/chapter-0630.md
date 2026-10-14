@@ -132,7 +132,9 @@ The woman in number four stood at a counter in a room with two chairs in it and 
 
 “So will you put it back.”
 
-“No,” said Lin Hao, “and I have said the reason and the reason is a thing I wrote in about eleven seconds in a book in this room two years ago, and a clerk who may only enter what she is given wrote a sentence under it, and that sentence has gone out at four on the thirtieth of every quarter since, and there are about two thousand people a day who cannot get past it, and about four in every thousand read it to the bottom.”
+“No,” said Lin Hao. “I have said the reason, and the reason is a thing I wrote in about eleven seconds in a book in this room in the November of the fifth year, and a clerk who may only enter what she is given put one sentence under it, and it has gone out at four on the thirtieth of every quarter since.”
+
+“And it has gone out three times,” he said, “and there are about two thousand people a day who cannot get past it, and about four in every thousand read it to the bottom.”
 
 She nodded slowly.
 
@@ -172,7 +174,7 @@ A woman in number four came from the other side of the city this morning with a 
 
 *One thousand nine hundred and seventy-nine days. Less one thousand nine hundred and seventy-two, the twenty-third of July, is seven. Thirty less twenty-three is seven by the month count.*
 
-*The fifteenth of October of the fourth year is three times three hundred and sixty, which is one thousand and eighty, plus the two hundred and forty days into the year, plus fourteen, which is one thousand three hundred and thirty-four. One thousand nine hundred and seventy-nine less one thousand three hundred and thirty-four is six hundred and forty-five days, and six hundred and forty-five is twenty-one months with fifteen days after them.*
+*The first of the fourth year is one thousand seven hundred and seventy less two times three hundred and sixty, which is one thousand and fifty, and the fifteenth of October stands nine times thirty and fourteen days after it, which is two hundred and eighty-four, and one thousand and fifty plus two hundred and eighty-four is one thousand three hundred and thirty-four. One thousand nine hundred and seventy-nine less one thousand three hundred and thirty-four is six hundred and forty-five days, and six hundred and forty-five is twenty-one months with fifteen days after them.*
 
 *The fourth line was taken off a board in a yard on the seventh of July, day one thousand nine hundred and fifty-six, which is twenty-three days ago. The twenty-third sheet goes out at four on the thirtieth of September, day two thousand and thirty-nine, which is sixty days from this morning, and there are four lines at the foot of it in the hand of this office and there has not been one form in six years on which any of them can be taken off a page by the man who wrote them.*
 

@@ -140,7 +140,7 @@ He looked at the window.
 
 “Then where does the second line go.”
 
-“It does not go anywhere,” said Marguerite Vale. “It has never gone anywhere. It stands in a column on a page four times a year and nobody has ever read it, and that is what it has been doing for four hundred and two days, and that is what it will go on doing whether eleven thousand people decide something in a room or not.”
+“It does not go anywhere,” said Marguerite Vale. “It has never gone anywhere. It stands in a column on a page four times a year and not one pair of eyes has ever gone down it, and that is what it has been doing for four hundred and two days, and that is what it will go on doing whether eleven thousand people decide something in a room or not.”
 
 She put the book under her arm and looked at him at the door.
 

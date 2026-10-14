@@ -1,3 +1,118 @@
+# VOLUME 13 CHAPTERS 621–630 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT APPLIED THE REVIEW, AGAINST TWENTY-EIGHT ANCHORS AND BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE FOUR ARITHMETIC BREAKS WERE CLOSED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT THREE STANDS AS WRITTEN. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## 0z. THE SPINE FOR 621–630, AND EVERY FIGURE IT CARRIES
+
+```
+DAY 0 = 1 FEBRUARY, YEAR ONE · a month is thirty days and has no thirty-first · a year is 360
+METHOD A   1 Feb of year y = (y-1) x 360;  day of month d = (y-1) x 360 + off[m] + (d-1)
+           *** EXCEPT a January, which closes a year and is therefore the twelfth month of it:
+           a January labelled y = (y-2) x 360 + 330 + (d-1). THE JANUARY EXCEPTION IS PRINTED
+           AND APPLIED TO BOTH METHODS EVEN WHERE THE BATCH'S OWN DATES DO NOT NEED IT, BECAUSE
+           A METHOD THAT CARRIES AN EXCEPTION IT DOES NOT NEED IS STILL A METHOD THAT CAN CARRY
+           ONE IT DOES. ***
+METHOD B   absolute month index i = (y-2)*12 + 11 for a January labelled y, and
+           (y-1)*12 + pos(m) otherwise;  day = 30*i + (d-1)   — contains no 360 at all
+
+620  13 May y6 = 1,902  (the movement two close)
+621  21 May y6 = 1,910  ( +8)  the seam, a bundle of four things
+622  28 May y6 = 1,917  ( +7)  a broker who may not unstate
+623   6 Jun y6 = 1,925  ( +8)  SCENE, Marguerite Vale
+624  13 Jun y6 = 1,932  ( +7)  two lines in the second column
+625  21 Jun y6 = 1,940  ( +8)  the yard's week begins
+626  30 Jun y6 = 1,949  ( +9)  QUARTER-END, the twenty-second sheet
+627   7 Jul y6 = 1,956  ( +7)  THE MOVEMENT'S TURN, and it is not his
+628  15 Jul y6 = 1,964  ( +8)  a lane at ten to six in the morning
+629  23 Jul y6 = 1,972  ( +8)  a yard without a rule
+630  30 Jul y6 = 1,979  ( +7)  HE IS ASKED TO PUT IT BACK
+
+28 ANCHORS RE-DERIVED, 28 AGREE, 0 MONOTONIC VIOLATIONS.
+SEAM 621-620 = 1,910 - 1,902 = 8.
+BATCH SPAN  630-621 = 1,979 - 1,910 = 69, and 7+8+7+8+9+7+8+8+7 = 69.
+QUARTER-END  30 Jun y6 = 1,949 = chapter 626 = the twenty-second sheet, the head unmoved for
+             the sixth quarter running, and 1,949 - 1,769 = 180 = 30+30+30+30+30+30 = two
+             quarters since the twentieth sheet went out on 30 Dec y5.
+NEXT QUARTER-END  30 Sep y6 = 2,039 = chapter 638, and NO CHAPTER OF 631-640 MAY NAME THE
+             EIGHTH OF OCTOBER, which is 2,047 and which is the anniversary. THE FUSE IS NOT
+             RE-LIT AND THE GAP 638 TO 639 IS TWELVE DAYS, NOT EIGHT.
+VOLUME 13 SPAN  650 - 601 = 2,129 - 1,773 = 356, unchanged.
+ANNIVERSARIES  the second line went up 8 October of year one = 247 and its sixth anniversary is
+             2,047. **NO CHAPTER OF 601–650 LANDS ON IT: 638 is 2,039 and 639 is 2,051 and both
+             dates fall on either side of it. 621–630 DO NOT REACH ACROSS THAT GAP AT ALL AND NEITHER
+             DATE IS NAMED IN ANY OF THE TEN. THE FUSE IS NOT RE-LIT.**
+SIXTH OF MARCH  year one, day 35. 1,115 is withdrawn. Not used in this batch.
+```
+
+## 0r. THE FOUR ARITHMETIC BREAKS THE REVIEW FOUND, AND WHAT EACH ONE NOW READS
+
+**EVERY ONE OF THESE WAS RE-DERIVED FROM DAY NUMBERS BEFORE IT WAS REPAIRED AND AGAIN AFTER, AND NO REPAIR WAS MADE BY ADJUSTING A RESULT UNTIL IT AGREED WITH A PRINTED OPERAND.**
+
+1. **`chapter-0622.md` SAID NINE DAYS WHERE IT IS EIGHT.** `1,925 − 1,917 = 8`, and 623 opens *"Eight days had gone since…"*. **Repaired in two places**, because the body carried the error as well as the footer: *in nine days he was going to be in a room* → **eight**, and *is nine days* → **eight days**, with *There is a week in between* corrected to **a week and a day** because eight is more than seven and the sentence was false in the only direction it could be.
+2. **`chapter-0628.md` PRINTED 1,722 FOR THE NINTH OF NOVEMBER.** The prompt's anchor list has `1,722 = 13 Nov y5`, so the numeral and the date were four days apart and the interval was four days out. **1,718** re-derives: year five opens at 1,410 and the ninth of November stands `10 × 30 + 8 = 308` days after it, and `1,410 + 308 = 1,718`. The interval is then `1,964 − 1,718 = 246`, so **two hundred and forty-two became two hundred and forty-six.** **The clause after it was separately wrong**: it said *the first of the two lines went out at four on that day with a name under it*, which cannot be true, because the first of the two lines in the second column is his own and was entered on the fifteenth of October of the fourth year, and the second came in on the first of May of the fifth year. **It now says what happened on the ninth of November of the fifth year**, which is what 623, 626 and 628 all say it is.
+3. **`chapter-0630.md` PRINTED TWO OPERANDS THAT CANCELLED BY ACCIDENT.** *Three times three hundred and sixty, which is one thousand and eighty* — year four opens at **1,050**, which is `1,770 − 2 × 360`. *Plus the two hundred and forty days into the year, plus fourteen* — the fifteenth of October stands `9 × 30 + 14 = 284` days after the first of January, which is **284** and not 240. `1,050 + 284 = 1,334`, and the total was right and the two terms were not. **Both are now printed with their derivation, which is the whole point of the device.**
+4. **`chapter-0627.md` MISAPPLIED THE MONTH BORROW.** *Seven less the thirtieth of June comes out at seven with twenty-three borrowed off it* — nothing is borrowed going forward off a month's last day; the device is only valid backwards, as 623 uses it correctly. **It now reads: a month runs thirty days and stops, so a day seven after the thirtieth of June is the seventh of July, and there is no thirty-first to carry it.**
+
+## 0a. THE INTERVALS THE TEN FOOTERS PRINT, PARSED FROM THE PAGE AND SUMMED WITH THEIR OPERANDS
+
+```
+621  1,910 - 1,902 =   8   and 21-13 =  8 by the month count
+622  1,917 - 1,910 =   7   and 28-21 =  7
+     1,917 - 1,874 =  43   15 Apr y6 = 1,770 + 90 + 14
+     1,917 - 1,891 =  26   2 May y6  = 1,770 + 90 + 1
+     1,925 - 1,917 =   8   *** REPAIRED FROM 9. The sixth of June is day 1,925. ***
+623  1,925 - 1,917 =   8   and 6-28 borrows 22 days of the thirtieth of May
+     1,925 - 1,891 =  34   2 May y6, the entry written off in a real book
+     1,925 -   35   = 1,890   the sixth of March of year one, and 1,890 = 5 x 360 + 90
+     1,998 - 1,770 = 228   19 Aug y6 = 1,770 + 7 x 30 + 18, and the sixth valuation
+     1,998 - 1,925 =  73   and 30 + 30 + 13 = 73, which is what the page prints
+     1,998 - 1,830 = 168   1 Mar y6 = 1,770 + 60, and 180 - 12 = 168 inside the year
+624  1,932 - 1,925 =   7   and 13-6 = 7
+     1,932 - 1,530 = 402   1 May y5 = 1,410 + 120
+     1,932 -   758 = 1,174   9 Mar y3 = 690 + 68, the day the column was ruled
+     1,932 - 1,499 = 433   30 Mar y5 = 1,410 + 89, and the head has stood across all 433
+625  1,940 - 1,932 =   8   and 21-13 = 8
+     1,940 - 1,902 =  38   13 May y6, the corridor
+     1,947 - 1,940 =   7   28 Jun y6, the week ends; and 1,949 - 1,947 = 2
+     1,940 - 1,773 = 167   4 Jan y6, and 167 = 5 months and 17 days
+626  1,949 - 1,940 =   9   and 30-21 = 9, the last working day of month and quarter
+     30 x 64 + 29  = 1,949   THE OFFICE'S AGE, printed ONCE, with its operands
+     1,949 - 1,769 = 180   30 Dec y5, the twentieth sheet, and 180 is two quarters
+     1,949 + 118 + 1 = 2,068   THE LANE'S MORNINGS, printed ONCE, with its operands
+627  1,956 - 1,949 =   7   and 7-30 = -23, which borrows BACKWARDS off the month, correctly
+     1,956 - 1,947 =   9   28 Jun y6, the day the yard's week ended
+     1,956 - 1,240 = 716   11 Jul of year four = 1,050 + 190, the ninth line down
+     1,956 - 1,773 = 183   4 Jan y6, and 183 = 6 months and 3 days
+628  1,964 - 1,956 =   8   and 15-7 = 8
+     1,964 - 1,806 = 158   7 Feb y6 = 1,770 + 30 + 6
+     1,964 - 1,718 = 246   *** REPAIRED FROM 242. 9 Nov y5 = 1,410 + 308 = 1,718. ***
+629  1,972 - 1,964 =   8   and 23-15 = 8
+     1,972 - 1,956 =  16   7 Jul y6, the day the fourth line came off the board
+     1,972 - 1,949 =  23   30 Jun y6, the twenty-second sheet
+     2,039 - 1,949 =  90   30 Sep y6 = 1,770 + 8 x 30 + 29, and the next page goes out then
+     1,972 - 1,773 = 199   4 Jan y6, and 199 = 6 months and 19 days
+630  1,979 - 1,972 =   7   and 30-23 = 7
+     1,770 - 2 x 360 = 1,050   the first of the fourth year   *** REPAIRED FROM 1,080 ***
+     9 x 30 + 14   =  284   the fifteenth of October        *** REPAIRED FROM 240 + 14 ***
+     1,050 + 284   = 1,334   the four conditions entered against himself in the column headed
+                          carried by, which is what 621, 623, 624, 625 and 629 all call the
+                          fifteenth of October of the fourth year
+     1,979 - 1,334 = 645   and 645 = 21 x 30 + 15
+     1,979 - 1,956 =  23   7 Jul y6, the fourth line
+     2,039 - 1,979 =  60   30 Sep y6, the twenty-third sheet, and 60 is two months
+     1,979 - 1,773 = 206   4 Jan y6, and 206 = 6 months and 26 days
+```
+
+## 0b. WHAT THE BATCH'S DATES NOW SETTLE, AND WHAT IS STILL OPEN
+
+**SETTLED BY 621–630 AND NOT TO BE RE-DERIVED BY A LATER CHAPTER:**
+
+- **THE INVENTED-FIGURES SENTENCE WAS ENTERED ON THE NINTH OF NOVEMBER OF THE FIFTH YEAR, WHICH IS DAY 1,718.** 623 dates it to *the November of the fifth year*; 626 dates the first print carrying it to the thirtieth of December of the fifth year; 628 and 630 now carry 1,718. **IT HAS GONE OUT AT FOUR ON THE THIRTIETH EVERY QUARTER SINCE AND HAS GONE OUT THREE TIMES — the thirtieth of December of the fifth year, the thirtieth of March of the sixth, and the thirtieth of June of the sixth. IT WILL GO OUT A FOURTH TIME AT 2,039.**
+- **THE COLUMN HEADED CARRIED BY WAS RULED ON THE NINTH OF MARCH OF THE THIRD YEAR, WHICH IS DAY 758, AND LIN HAO'S OWN LINE WENT INTO IT ON THE FIFTEENTH OF OCTOBER OF THE FOURTH YEAR, WHICH IS DAY 1,334.** The second line came in through a counter on the first of May of the fifth year. **NO YEAR IS PRINTED FOR ANY OF THE THREE IN 601–650 AND NONE MAY BE.**
+- **THE OFFICE'S AGE AT THE TWENTY-SECOND SHEET IS SIXTY-FOUR MONTHS AND TWENTY-NINE DAYS. THE LANE'S FIRST MORNING IS DAY −118 AND ITS MORNINGS AT 1,949 ARE 2,068. BOTH ARE SPENT FOR THE VOLUME AND 631–640 MAY NOT PRINT EITHER AGAIN.**
+- **THE CHAPLAIN'S STANDING IS ABOUT FIFTEEN MONTHS AS AT 629, NOT ELEVEN YEARS AND NOT SIXTEEN MONTHS.** 620 says only *for years*. The correction is canon and the phrase is *since the spring of last year*. **NO CHAPTER OF 601–650 MAY GIVE HER A SPAN IN YEARS.**
+- **ABOUT ELEVEN HUNDRED PEOPLE IN THE YARD HEARD LIN HAO SAY OUT LOUD TWICE THAT HE WAS THE ONLY PERSON ANYBODY COULD BE ASKED ABOUT. THAT NUMBER IS A COUNT OF HEARERS AND NOT A FIGURE ON THE SHEET AND IT IS NOT ONE OF THE FOUR FOUR-HUNDREDS.**
+
+**STILL OPEN AND NOT TOUCHED BY 621–630:** the figure of the account · the reach of the return · whether the fourth condition was ever true of anybody's deed · who put the white tile up · the keeper's six words · the year the composition of premises 34-6-118 began · his brother's file · **and the anniversary at 2,047, which falls between 638 and 639 and which no chapter may name.**
+
 # VOLUME 13 CHAPTERS 611–620 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE CHAPTER 611, BY TWO METHODS THAT SHARE NO CONSTANT, AND RE-RUN AGAIN IN THE SAME COMMIT AFTER THE LAST FILE LANDED. `outline/volume-13.md` §5b REMAINS THE PLAN OF RECORD AND §7 MOVEMENT TWO IS NOW REWRITTEN AGAINST THE PAGE. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 611–620, AND EVERY FIGURE IT CARRIES

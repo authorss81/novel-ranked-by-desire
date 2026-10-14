@@ -38,7 +38,7 @@ She put the ledger on the counter and uncapped the pen and wrote one line on the
 
 “Why not.”
 
-“Because a broker who states her own position may not unstate it,” said Marguerite Vale. “That is not a law and there is no form for it and it is older than this building and older than the quarter you print. We sign for other people all day. The one thing a broker never does is say a thing in a room and then go and say the other thing in a different room.”
+“Because a broker who states her own position may not unstate it,” said Marguerite Vale. “That is not a law and no paper in this city carries it and it is older than this building and older than the quarter you print. We sign for other people all day. The one thing a broker never does is say a thing in a room and then go and say the other thing in a different room.”
 
 Nine people in a ground-floor counting house, and about four of them listening without appearing to.
 
@@ -146,7 +146,7 @@ She put her hand on the counter.
 
 She went toward the stair and then stopped, and did not turn round.
 
-“You are going to want to see the book,” she said. “You are not going to be able to. It is a real book and it is mine and it is not chained and it is not in this building, and a real book is written in the hand of the person who carries the debt, and there is nobody in Ostara who can put a sentence into a book of mine and no form on which anybody could ask me to open it.”
+“You are going to want to see the book,” she said. “You are not going to be able to. It is a real book and it is mine and it is not chained and it is not in this building, and a real book is written in the hand of the person who carries the debt, and there is nobody in Ostara who can put a sentence into a book of mine, and no paper in the city that anybody could hand me which asks me to open it.”
 
 “Then I cannot.”
 
@@ -156,7 +156,7 @@ She put her hand on the rail.
 
 “The sixth of June,” she said. “Ten in the morning. Ferrier Street, and not this building, and the whole morning and not an hour of it. Bring nothing.”
 
-He stood in the ground floor of a counting house with a number in his head and a date in his hand and understood that in nine days he was going to be in a room with a woman who could not take anything back, and that the whole of what she could not take back had been put into a room with nine people in it twenty minutes ago because he had asked a keeper the wrong question on a landing.
+He stood in the ground floor of a counting house with a number in his head and a date in his hand and understood that in eight days he was going to be in a room with a woman who could not take anything back, and that the whole of what she could not take back had been put into a room with nine people in it twenty minutes ago because he had asked a keeper the wrong question on a landing.
 
 *One thousand nine hundred and seventeen days. Less one thousand nine hundred and ten, the twenty-first of May, is seven. Twenty-eight less twenty-one is seven by the month count.*
 
@@ -164,4 +164,4 @@ He stood in the ground floor of a counting house with a number in his head and a
 
 *The second of May is day one thousand eight hundred and ninety-one, and one thousand nine hundred and seventeen less one thousand eight hundred and ninety-one is twenty-six days, and on the second of May the entry was written off and the woman carrying it stopped paying for it, and neither of them told the other.*
 
-*The sixth of June, which is the morning he has been given, is day one thousand nine hundred and twenty-five, and one thousand nine hundred and twenty-five less one thousand nine hundred and seventeen is nine days. There is a week in between and about eleven thousand people are in it and he is not.*
+*The sixth of June, which is the morning he has been given, is day one thousand nine hundred and twenty-five, and one thousand nine hundred and twenty-five less one thousand nine hundred and seventeen is eight days. There is a week and a day in between and about eleven thousand people are in it and he is not.*
