@@ -4,39 +4,28 @@
 
 **THE HEADLINE IS THE CLASS THE PROMPT ITSELF OPENS WITH — a figure nobody re-computes is the figure that is wrong — AND THE TWO WORST OF THE TWELVE HAD BEEN STANDING IN THIS BATCH'S OWN GATE ROWS AS *VERIFIED*, AGAINST AN ANCHOR NAMED TWO LINES BELOW THEM.**
 
-**1 · `chapter-0684.md`:7 AND :9 PRINTED *ELEVEN DAYS*, IN THE SECTION HEADING AND IN THE SENTENCE, AND IT IS EIGHTEEN.** The deadline is *the thirtieth of September at about half past two*, named in the very next paragraph, `2,399`. `2,399 − 2,381 = 18`. **The previous pass removed *five weeks* from `684:117` and put nothing in its place, and this is what was under it.** Repaired in the heading and in the sentence.
+**THE OPERANDS FOR ALL TWELVE ARE IN `state/continuity.md` §0a-bis, ONE TABLE ROW EACH, AND THAT TABLE IS THE SINGLE LEDGER FOR THIS PASS — NOT THIS BLOCK, NOT `state/open-threads.md`, AND NOT THE MOVEMENT-FOUR LEDGER IN `outline/volume-14.md`, WHICH POINTS AT IT. THIS BLOCK NAMES THEM SO A LATER PASS KNOWS THEY ARE PAID.**
 
-**2 · `chapter-0685.md`:109 PRINTED *HE HAD BEEN NOT ASKING IT FOR NINE DAYS* AGAINST A SISTER SENTENCE FOUR LINES BELOW IT.** *She has not been since the ninth of August* stands at `:111` and again at `:115`, `2,348`, and `2,387 − 2,348 = 39 = 1m + 9d`. **Nine is the house filler numeral and it happened to look like a figure.** Repaired to *forty days*.
+| # | Where | What it printed | What the page prints now |
+| --- | --- | --- | --- |
+| 1 | `chapter-0684.md`:7,:9 | *Eleven Days* | **Eighteen Days** · `2,399 − 2,381`, the half past two named two lines below |
+| 2 | `chapter-0685.md`:109 | *nine days*, then **forty days** on the first repair | **thirty-nine days** · `2,387 − 2,348`. §0a-quater |
+| 3 | `chapter-0685.md`:109 | half past five, on a street and in a room | **about six**, and a construction not used twice |
+| 4 | `chapter-0686.md`:113 | *a hundred and forty dates* | **three hundred and forty**, against `:117` and 678–700 |
+| 5 | `chapter-0687.md`:37 | *four hundred copies … in nine hundred different hands* | **about nine hundred people could read any of them** |
+| 6 | `chapter-0690.md`:3 | *four hours before he went down the stair* | **more than four hours before he walked in** · 11:00 + 4h is 10:10, not 5:00 |
+| 7 | `chapter-0690.md`:105 | *neither of the two figures above* | **neither of the two ninths of November above** |
+| 8 | `chapter-0688.md`:5 | the opening arithmetic paragraph in italics | **plain**; 76 markers across the ten, even |
+| 9 | `chapter-0682.md`:105 | 14-token lift of 671/672, owed and never paid | **rewritten in Adeyemi's mouth** · continuity rows 1–2 |
+| 10 | `chapter-0689.md`:89 | *which is the way he goes everywhere now* | **cut** · continuity row 15, a handoff with no receiver |
+| 11 | `chapter-0683.md` footer | the shutter, 21 tokens shared with 690, in three of the ten | **the board in the drawer and its eleven columns** |
+| 12 | `chapter-0689.md` footer | the rail, 20 tokens shared with 688 | **what the rail did in the fortnight** |
 
-**3 · THE SAME SENTENCE PUT HIM ON THAT STREET AT ABOUT HALF PAST FIVE.** `:89` has him in the room off the third court at about half past five, and `:75` has him on the same street at about four. **Two places at the same clock time inside one chapter, and the same construction — *He went down a street two streets wide at about …* — opening two of its four sections.** Now *He went back down that street at about six*.
-
-**4 · `chapter-0686.md`:113 PRINTED *ABOUT NINE OF THE HUNDRED AND FORTY DATES IN MY MARGIN*, AND `:117`, FOUR PARAGRAPHS BELOW IT, PRINTS *ABOUT THREE HUNDRED AND FORTY*.** 671 establishes a hundred and forty on the ninth of January, 679 has about three hundred and ten by the ninth of August, and 678, 679, 680, 689, 690, 691, 697 and 699 all print three hundred and forty. **A figure that disagrees with itself four paragraphs later is not a figure, it is a stale one.** Repaired.
-
-**5 · `chapter-0687.md`:37 SAID *FOUR HUNDRED COPIES … HAD BEEN THE FOOT OF IT, IN NINE HUNDRED DIFFERENT HANDS*,** against `:31` (*about four hundred pieces of paper in four hundred kitchens*) and `:61` (*about nine hundred people who could read what was on that sheet*). **Four hundred copies cannot be in nine hundred hands and about nine hundred is a count of readers and not of copies.** Repaired.
-
-**6 · `chapter-0690.md`:3 SAID HE UNDERSTOOD IT AT ELEVEN O'CLOCK *WHICH WAS FOUR HOURS BEFORE HE WENT DOWN THE STAIR WITH IT*,** and the chapter has him walking in at ten past three (`:31`), going down at about five (`:109`) and standing at the bottom of the stair at five past five (`:117`). **Eleven plus four is ten past three and is not five.** Now *more than four hours before he walked in with it*.
-
-**7 · `chapter-0690.md`:105 SAID *NEITHER OF THE TWO FIGURES ABOVE* WHERE THREE FIGURES STAND ABOVE IT.** Now *Neither of the two ninths of November above*, and the reason it names the anchor rather than the figure is unchanged: `411` is printed zero times in this batch.
-
-**8 · `chapter-0688.md`:5 PRINTED THE OPENING ARITHMETIC PARAGRAPH IN *ITALICS* WHERE ALL NINE SIBLINGS PRINT IT PLAIN.** House form: plain at the top, italic in the footer. Two markers removed; the ten now carry **76** single-asterisk markers and the count is even.
-
-**9–10 · TWO LIFTS THIS BATCH OWED AND DID NOT PAY, BOTH ALREADY NAMED IN `state/continuity.md`'S OWN DUPLICATION TABLE.**
-```
-rows 1-2  "a man is going to stand at a counter and ask what this office does"  671,672 -> 682
-          the cell says "682 is batch 0004's file and it lifted it" and then, in the
-          same cell, "because 682 is not one of my ten"  -- self-contradictory, 682 IS one of mine.
-          Fourteen tokens, against BOTH sources.  Rewritten in Yusuf Adeyemi's mouth, sense intact.
-row 15    "with nothing in his hands which is the way he goes everywhere now in"   680 -> 689
-          marked "recorded, not repaired here" -- a HANDOFF with no receiver.  680 no longer carries
-          it, so 689 was the last holder in the book and it was still standing at 689:89.  Cut.
-```
-**A ROW THAT NAMES A REPAIR AND DEFERS IT IS NOT A CLOSED ITEM. IT IS A HANDOFF, AND A HANDOFF WITH NO RECEIVER IS HOW A CLAUSE SURVIVES TWO PASSES.**
-
-**11–12 · THE FOOTERS SHARED A RUNNING FACT IN THREE CHAPTERS WHERE THE RULE ALLOWS TWO, AND THE SCAN THAT SHOULD HAVE CAUGHT IT IS BLIND TO IT BY CONSTRUCTION.** `chapter-0683.md`, `chapter-0689.md` and `chapter-0690.md` all hung *A shutter at the far end of a yard off the Vestry has been bare for every one of them and about two thousand people a day* off the same anchor, and **683 and 690 shared twenty-one tokens of it verbatim.** §2 rule 2: *the shutter sentence is in two of the ten and not in the rest. Ten chapters, ten different propositions. If two of yours share a clause, cut one.* **683's was cut** and replaced with the board in the drawer and the heavy line across the foot of every one of its eleven columns, which is that chapter's own axis and is printed nowhere else in the batch. **A second pair, 688 and 689, shared *the twenty-seventh sheet has been face up on a rail in a passage off Cordwain* at twenty tokens; 689's was cut** and replaced with what the rail actually did in the fortnight. **THE CLASS IS NAMED AND ADDED TO THE ROW THAT LISTS WHAT A TWELVE-GRAM SCAN CANNOT SEE: A FOOTER REPEATING A FOOTER. The scan runs body-only with headings and italic footers stripped, so the one part of the page where the volume's own repetition rule is written down is the one part it never looks at.**
+**WHAT THE REVIEW OF THIS BLOCK FOUND, AND IT WAS ONE THING AND IT WAS IN A CHAPTER: repair 2 had been made twice and was wrong the second time, because forty is not `2,387 − 2,348`. A repair that replaces a wrong numeral with a different wrong numeral has changed nothing and looks like work. §0a-quater.**
 
 **WHAT IS *NOT* A DEFECT, AND IT IS THE THING A PASS THAT SUBTRACTS EVERYTHING WOULD HAVE DESTROYED TWICE OVER.** `chapter-0688.md`:11 names *the eighth of October of an earlier year* as the standing date from which both ruled squares have been empty. **That is `247`, carried verbatim from `chapter-0645.md`:193, and it is not the eighth of October of year seven, which is `2,407` and is named nowhere and reached across nowhere.** The ban is on measuring backward across the gap between 688 and 689, and a standing fact from an earlier year is not that. Also left: `chapter-0683.md`'s *the ninth month* (correct — `chapter-0645.md`:127 is Tessa Okonkwo using the same phrase for the same event, and `pos[Nov] = 9`); `chapter-0688.md`:9's *the fourth week of the fourth month*, which is the works schedule's own idiom from 661 and is not an interval; and `chapter-0683.md`:157's *four women asleep*, which is Tessa naming the rejected alternative location inside her own offer and not a rebuild of 594's ward.
 
-**AND THE §4d HAND CHECK WAS RUN AGAIN ON 683 AGAINST 594 AFTER THE REPAIRS, AND IT IS CLEAN AT SEVEN TOKENS, WHICH IS THE CEILING AND NOT A DEFECT.** The longest shared run is *and she took all of it and*; *in a room with a shut door* is a reference in her own mouth naming the ninth month; *that is the whole of how we stay standing* is a character restating a rule between herself and one other person, which is one of the eight classes. **The four pieces of rebuilt staging the earlier pass named are still gone. 683 is still on the floor of a working sorting room with the door open all afternoon and about nine people at tables within nine feet.**
+**AND THE §4d HAND CHECK WAS RUN AGAIN ON 683 AGAINST 594 AFTER THE REPAIRS, AND IT IS CLEAN AT SEVEN TOKENS, WHICH IS THE CEILING AND NOT A DEFECT.** The longest shared run is *and she took all of it and*; *in a room with a shut door* is a reference in her own mouth naming the ninth month. **The four pieces of rebuilt staging the earlier pass named are still gone. 683 is still on the floor of a working sorting room with the door open all afternoon and about nine people at tables within nine feet.**
 
 ## Bank, scene, and the reason for the one chapter outside the band — every figure taken from disk after the last edit
 

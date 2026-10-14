@@ -25,7 +25,7 @@ METHOD A  (carries 360)          METHOD B  (months x 30, zero-indexed from Febru
 | # | Where | Operand | Printed | Now |
 | --- | --- | --- | --- | --- |
 | 1 | `chapter-0684.md`:7,:9 | 12 Sep → 30 Sep, `2,399 − 2,381 = 18`, the half past two named two lines below | *Eleven Days* / *eleven days left* | **eighteen, in the heading and in the sentence** |
-| 2 | `chapter-0685.md`:109 | 9 Aug → 18 Sep, `2,387 − 2,348 = 39 = 1m + 9d`, the ninth of August named at `:111` and `:115` | *nine days* | **forty days** |
+| 2 | `chapter-0685.md`:109 | 9 Aug → 18 Sep, `2,387 − 2,348 = 39 = 1m + 9d`, the ninth of August named at `:111` and `:115` | *nine days* → then, on review, *forty days* | **thirty-nine days**, and the house bare-count form 690/684/683 all use |
 | 3 | `chapter-0685.md`:109 vs `:75` and `:89` | two places at the same clock time in one chapter | about half past five, on a street and in a room | **about six, and a construction not used twice in the chapter** |
 | 4 | `chapter-0686.md`:113 vs `:117` | 140 against 340 four paragraphs lower; 679 has ~310 by 9 Aug and 678–700 all print 340 | *a hundred and forty dates* | **three hundred and forty** |
 | 5 | `chapter-0687.md`:37 vs `:31` and `:61` | 400 pieces of paper in 400 kitchens; ~900 people who can read | *in nine hundred different hands* | **about nine hundred people could read every line of any of them** |
@@ -185,7 +185,7 @@ METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Aug 6, Sep 7, Oct 8 — c
 | 683:241 | 6 Sep → 30 Sep | 2,399 − 2,375 = **24** | three weeks and six days | **WRONG · twenty-four days** |
 | 684:21 | 30 Aug → 12 Sep | 2,381 − 2,369 = **12** | six weeks | **WRONG · twelve days** |
 | 684:117 | unanchored | — | five weeks | **unanchored · removed** |
-| 685:125 | 9 Aug → 18 Sep | 2,387 − 2,348 = **39** = 1m + 9d | about eleven weeks | **WRONG · since the ninth of August** |
+| 685:125 | 9 Aug → 18 Sep, the same interval as `685:109` | 2,387 − 2,348 = **39** = 1m + 9d | about eleven weeks | **WRONG · the anchor, *since the ninth of August*, and the reason it is the anchor is at `685:109`** |
 | 690:19 | 30 Aug → 21 Oct | 2,420 − 2,369 = **51** = 1m + 21d | seven weeks | **WRONG · fifty-one days** |
 | 690:27 / 690:29 | 30 Aug → 21 Oct | **51** | nine weeks · eleven weeks | **WRONG · removed · since the middle of August** |
 | 690:35 / 690:43 | 30 Aug → 21 Oct | **51** | fifty-two days (twice) | **WRONG · fifty-one days** |
@@ -197,6 +197,17 @@ METHOD B   30 x ((y-1) x 12 + pos[month]) + (d-1)  pos Aug 6, Sep 7, Oct 8 — c
 | 690:35 | where the receipt is | 682 puts it **in the book**, not in the column | it is in a column | **WRONG · it is in the Register in front of me** |
 
 **AND ONE THAT WAS CONSIDERED AND LEFT, AND IT IS THE ONE A PASS THAT SUBTRACTS NOTHING WOULD HAVE "FIXED".** `chapter-0683.md`:165 and :185 say *the ninth month* for the shut-door room, which is the third of November of the fifth year. **The house's month index is zero-based from February — `pos[Nov] = 9`, printed in this file and in `outline/volume-14.md` §5a METHOD B — and `chapter-0645.md`:127 is Tessa Okonkwo saying, in this book's own words, *in a room with a door shut in the ninth month of a year I am not going to name*, about the same event.** **THE PHRASE IS CORRECT AND IT IS NOT A FIGURE, AND A READER WHO ASSUMES IT MEANS SEPTEMBER WOULD DESTROY A CORRECT SENTENCE. THE CLASS IS NAMED: A HOUSE CALENDAR IDIOM THAT IS NOT AN INTERVAL AND LOOKS LIKE ONE.**
+
+
+## 0a-quater. ONE INTERVAL, ONE TREATMENT, PER CHAPTER — THE RULE THAT SETTLES `685:109` AGAINST `685:125`, AND IT IS THE ANSWER TO A FINDING THAT SAID THE PASS CONTRADICTED ITSELF
+
+**The ninth of August of year seven is `2,348` and the eighteenth of September is `2,387`, so the interval is thirty-nine days, and this chapter prints it twice. A pass that repaired one site and not the other left two rows in this file that read as a contradiction, which is what the review called: *either the interval is worth printing, in which case it must be 39, or it is redundant and should not be there.* The interval is worth printing. Both.**
+
+**THE RULE: a chapter prints an interval as a COUNT where the count is what the sentence is about, and as an ANCHOR — *since the ninth of August* — where what the sentence is about is the date itself.** At `685:109` he has not asked one question for the whole run, and the number of days is the measure of the not-asking, so it prints **thirty-nine days**. At `685:125` Perla Quist is naming the start of a wound and the eleventh person inside it, and the date is the thing she is pointing at, so it prints the anchor and no numeral. **THE TWO ARE NOT THE SAME CLAIM AND THE COUNTRY OF EACH IS CHECKABLE: `:109` is wrong if `2,387 − 2,348` is not thirty-nine, and `:125` is wrong if the ninth of August is not `2,348`.**
+
+**THE HOUSE FORM FOR A COUNT UNDER SIXTY DAYS IS A BARE NUMERAL AND THE FOOTER CARRIES THE DECOMPOSITION, NOT THE OTHER WAY ROUND** — *fifty-one days* three times at 690, *twelve days* at 684, *twenty-four days* at 683, *thirty-nine days* at 685, and `:105` above already prints `2,387 − 2,355 = 32` as *thirty-two days, which is one month with two days after them*. **`chapter-0685.md`'s own footer is what proves the ninth of August independently, because 2,355 is the sixteenth of August and 2,355 − 7 = 2,348. The figure was not re-derived from the sentence that reports it.**
+
+**AND THE ERROR THIS ROW EXISTS TO KILL IS NAMED, BECAUSE IT SURVIVED TWO PASSES: A REPAIR THAT REPLACES A WRONG NUMERAL WITH A DIFFERENT WRONG NUMERAL, AND LEAVES THE STATE ROWS THAT DESCRIBE IT STILL PRINTING THE ARITHMETIC THAT CONTRADICTS THE REPAIR.** Nine days became forty days, and three state rows said `= 39` and *repaired to forty days* in the same cell. **A ROW THAT GIVES ITS OWN OPERANDS AND ITS OWN RESULT IN ONE LINE IS AUDITED BY A READER AND NOT BY A TOOL, AND THE PASS THAT WROTE IT CHECKED THE ROW AND NOT THE CELL.**
 
 ## 0b. THE FOURTH WALL, THE CLASS GREPS, THE HOUSE-FORM GLYPHS AND THE MEASUREMENT ROWS — EVERY ROW A MEASUREMENT, EVERY ONE RE-RUN AFTER THE REPAIRS
 

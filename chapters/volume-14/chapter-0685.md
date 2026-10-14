@@ -106,7 +106,7 @@ He turned the pen over.
 
 ## The Woman Who Comes To The Table
 
-He went back down that street at about six and there was one thing he had to ask, and he had been not asking it for forty days.
+He went back down that street at about six and there was one thing he had to ask, and he had been not asking it for thirty-nine days.
 
 “She has not been,” said Perla Quist.
 
