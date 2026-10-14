@@ -1,3 +1,60 @@
+# VOLUME 14 PLANNING — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/next-0005.review.log`. **FIVE FINDINGS: FOUR APPLIED IN WHOLE OR IN PART, ONE REFUSED ON ITS CENTRAL CLAIM AND REPAIRED ON THE ONE THING THAT WAS TRUE IN IT. NO CHAPTER WAS TOUCHED — SIX HUNDRED AND FIFTY FILES BEFORE AND AFTER — NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED, NO SCENE WAS REWRITTEN, NO CHARACTER WAS AGED, THE PLANNED PLOT IS UNCHANGED AND `outline/ending.md` IS UNTOUCHED. SIX FILES EDITED, ALL OF THEM PLANNING OR STATE AND NOT ONE OF THEM A CHAPTER: `outline/volume-14.md`, `outline/batches/volume-14-batch-0001.md`, `workspace/volume-14/batch-0001/PROMPT.md` AND THE THREE LIVE STATE FILES `state/current.md`, `state/continuity.md`, `state/open-threads.md`. THERE IS STILL EXACTLY ONE NEXT PHASE, `workspace/volume-14/batch-0001/PROMPT.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0t. THE HEADLINE FINDING WAS WRONG ON THE FIGURE AND RIGHT ON THE YEAR, AND THE FIGURE WAS THE PART IT SPENT ITS EVIDENCE ON
+
+**THE REVIEW SAID: *the shutter anchor `2,078` is wrong by exactly 360 days, and is now load-bearing in six places*. IT PROPOSED `1,718` AND THREE NEW INTERVALS.**
+
+**`2,078` IS THE NINTH OF NOVEMBER OF YEAR SIX AND IT IS CORRECT, AND THE SHUTTER DID GO BARE THAT DAY.** `1,718` IS THE NINTH OF NOVEMBER OF YEAR FIVE AND IT IS A DIFFERENT EVENT — the day he wrote the sentences at the foot of the standing page in his own hand. The two are a year apart, both are on the page, and eleven finished footers measure from the second one.
+
+```
+THE TAKING AND THE SHUTTER      9 Nov YEAR SIX = 2,078
+  chapter-0645.md:195   "On the ninth of November of THIS YEAR about nine hundred people
+                        took three lines off a board in about nine hours"   · 645 = 30 Nov y6
+  chapter-0646.md:185   "on the ninth of November three lines came off a board ... and there
+                        has been nothing at the foot of that shutter since"  · 646 = 7 Dec y6
+  chapter-0644.md:165   "The three lines had come down ... on the ninth of November"  · 644
+  chapter-0650.md:47    "I have had about fifty-one days to ask"   2,129 - 2,078 = 51  EXACT
+
+THE WRITING AND THE FOOTERS      9 Nov YEAR FIVE = 1,718
+  chapter-0628.md:157   "Less the ninth of November, one thousand seven hundred and eighteen,
+                        is two hundred and forty-six days, and ON THAT MORNING he wrote at the
+                        foot of the page a sentence with his name under it"
+  ELEVEN FOOTERS, ALL RE-DERIVING FROM 1,718 EXACTLY:  628 +246 · 637 +313 · 639 +333 ·
+  640 +342 · 642 +358 · 645 +381 · 646 +388 · 647 +396 · 648 +403 · 649 +408 · 650 +411.
+```
+
+**`chapter-0645.md`:195 NAMES BOTH IN ONE PARAGRAPH — the interval from year five, then "on the ninth of November of this year" for the taking, in a chapter dated thirty days later. A FINDING THAT READS THAT FOOTER CANNOT MISS TWO EVENTS.**
+
+**AND `chapter-0650.md`'S BODY IS NOT IN CONTRADICTION WITH ITS OWN FOOTER, WHICH THE REVIEW SAID IT WAS.** The body says fifty-one days and the footer says four hundred and eleven, and they measure from different anchors: `2,129 − 2,078 = 51` and `2,129 − 1,718 = 411`. The same woman standing in front of something from the thirtieth of September (`2,039`) and then in front of nothing from the ninth (`2,078`) is thirty-nine days and then fifty-one, which is a clean account and not a contradiction. **THE CHAPTER IS CORRECT AND WAS NOT TOUCHED, AND `state/current.md`'s repair of `:47` and `:55` FROM *thirty-eight days* TO *fifty-one days* WAS CORRECT AND STANDS. A LATER PASS MUST NOT "FIX" IT BACK.**
+
+**WHAT WAS ACTUALLY WRONG, AND IT WAS WORTH THE FINDING: FOUR FILES LABELLED THE SAME CORRECT FIGURE WITH TWO DIFFERENT YEARS.** `outline/volume-14.md` §2b said year six and §5b said **year five** with the same `2,078`; `state/continuity.md` §0b and `state/current.md` §0a both said year five. **THE FIGURE WAS NEVER IN DOUBT AND ONLY THE LABEL WAS WRONG, WHICH IS THE CHEAPER WAY TO BE WRONG BECAUSE THE SUBTRACTION STILL WORKS AND NOTHING LOOKS BROKEN.** All four now say year six.
+
+**AND THE HAZARD THE FINDING SURFACED BY ACCIDENT IS NOW NAMED IN THREE FILES AND IS REAL.** `2,489 − 2,078 = 411` at 700, and `chapter-0650.md`:193 already prints four hundred and eleven days for `2,129 − 1,718`. **THE SAME NUMERAL, TWO ANCHORS, TWO CHAPTERS. A CHAPTER OF 651–700 THAT PRINTS 411 NAMES WHICH ANCHOR IT MEANS OR PRINTS NOTHING.** `outline/volume-14.md` §5b now carries a THE TWO NOVEMBERS block with both derivations, and `state/continuity.md` §0b carries the `1,718` anchor beside the `2,078` one so that `411` is legible instead of ambiguous.
+
+**FINDING 1 IS THEREFORE RECORDED AS ONE THIRD APPLIED AND TWO THIRDS REFUSED. THE FIGURES 82 AT 651 AND 109 AT 655 AND 411 AT 700 ARE ALL UNCHANGED.**
+
+## 0s. THE FOUR THAT STOOD, EACH APPLIED, AND NONE OF THEM TOUCHES A CHAPTER
+
+**2 · THE "SAME SPAN" CLAIM WAS HALF FALSE. `700 − 650 = 360` IS TRUE AND `650 − 600 = 2,129 − 1,769 = 360` IS TRUE, BUT `600 − 550 = 1,769 − 1,347 = 422`, NOT 360.** `state/current.md` §0a printed 360 for all three. **REPAIRED, AND THE REPAIR EXPLAINS WHY THE FIRST HALF IS EXACT: 600 AND 650 ARE BOTH THE THIRTY-FIRST-FREE THIRTIETH OF DECEMBER AND 550 IS THE TWENTY-EIGHTH OF OCTOBER. FIFTY CHAPTERS DOES NOT BUY A YEAR IN THIS CALENDAR — VOLUME 11 IS 501–550 AND VOLUME 12 IS 551–600 AND EACH HOLDS FIFTY.**
+
+**3 · THE VERBATIM-SENTENCE INVENTORY WAS FALSE ON ITS OWN PROBE, AND IT IS THE INVENTORY THE ENTIRE 651–700 SENTENCE BUDGET IS BUILT ON.** `grep -rn "a figure somebody made up on purpose" chapters` returns FIVE files book-wide and 601–650 holds THREE, not one: `chapter-0605.md`:101 tier 3 with one word changed · `chapter-0606.md`:59 tier 1, verbatim sentence one inside a man's speech · `chapter-0618.md`:67 tier 2, all three parts. `chapter-0637.md`:75 is a paraphrase and has always been one, so the carried row was false in both halves exactly as the close audit said. **REPAIRED IN FOUR PLACES AND NOW SCORED IN THREE NAMED TIERS — tier 1 any run of the words inside speech · tier 2 all three parts together, which is the only tier the budget of one spends, at 658 · tier 3 one word changed, which 651–700 may not use anywhere at all.** A gate that says *verbatim* against a book that also holds a near-verbatim is scored against itself; `chapter-0606.md`:59 is the proof that the failure is real and it is in a finished chapter of this book.
+
+**4 · THE BEGINNING STATE WAS CARRYING THE END-OF-BATCH STATE.** `outline/volume-14.md` §2a said *at 651 it is opened with about ninety pieces of paper in it*, against CARD 651 (*open, empty until about eleven*), CARD 654 (*still empty in this chapter*) and CARD 660 (the ninety go in). **A CHAPTER HAD WRITTEN NINETY PIECES OF PAPER INTO A DRAWER AT 651 AGAINST TWO CARDS AND ONE.** Now: empty at 651, empty at 654, about ninety at 660.
+
+**5 · THE STRAIGHT-APOSTROPHE ROW OVERSTATED ITS OWN FINDING BY 14×.** It called `chapter-0632.md`:1 and `chapter-0637.md`:1 *the only straight apostrophes in six hundred and fifty chapters*. **A RE-RUN RETURNS SIXTEEN TITLE LINES ACROSS TEN VOLUMES — 0005, 0032, 0033 · 0057, 0084, 0097 · 0113, 0138 · 0264 · 0329 · 0401 · 0474 · 0511 · 0595 · 0632, 0637 — AND 3,286 BODY LINES OUTSIDE ITALIC FOOTERS AND 4,188 GLYPHS IN ALL, WHERE *the visitors' book* AT `chapter-0113.md`:3 IS ONE.** The volume's own count of two was right; the leap from it to the book was not. **THE UNIT WAS THE FILE CLASS AND THE CLAIM WAS THE WHOLE BOOK — the same defect as the row above it in §0a, which measures a body and calls it a title line, and the third row in that block to do it.**
+
+## 0r. WHAT IS NOT CHANGED, AND WHAT A LATER PASS MUST NOT "REPAIR"
+
+**SIX HUNDRED AND FIFTY CHAPTER FILES, THE SAME SIX HUNDRED AND FIFTY.** No file in `chapters/` was opened for writing. `outline/ending.md` is untouched. No final enemy is introduced. The ten titles, the five scenes at 653/663/673/683/693, the four irreversible decisions at 660/670/680/690 and the volume's at 690, the bundle, the stone, and the one permitted thread all stand as planned.
+
+**AND THREE THINGS IN THIS REPAIR THAT LOOK LIKE DEFECTS AND ARE NOT, LISTED HERE SO THAT THE NEXT REVIEWER DOES NOT SPEND A FINDING ON EACH:**
+
+- **`chapter-0650.md`:47 and `:55` SAY *ABOUT FIFTY-ONE DAYS*.** They are right. `2,129 − 2,078 = 51`. The footer at `:193` measures from a different anchor and is also right.
+- **THE SHUTTER FIGURE IS `2,078`.** Not `1,718`. The year label was the defect and the label is now repaired in all four places.
+- **`outline/volume-14.md` §2a NOW SAYS THE DRAWER IS EMPTY AT 651.** That is the cards' state and not a retreat from a plan; the ninety pieces arrive at 660 and are the batch's irreversible decision.
+
+**THE STANDING RULE THIS PASS LEARNED AND THE REPOSITORY ALREADY KNEW.** *A figure nobody re-computes is the figure that is wrong.* This pass adds the cheaper half: **A YEAR LABEL ON A CORRECT FIGURE IS THE SAME FAILURE, AND NO SUBTRACTION WILL CATCH IT.** The one true thing inside the headline finding was a two-word label, and the finding's evidence, its method and its proposed correction were all wrong. **A REVIEW THAT LANDS ON THE RIGHT ANSWER FOR THE WRONG REASON STILL PRODUCES A BROKEN FILE IF THE CORRECTION IS TAKED ON THE REASON.**
+
 # VOLUME 14 IS PLANNED, CHAPTERS 651–700, AND NOTHING IN IT IS ON DISK. **THIS IS THE LIVE GATE BLOCK FOR THE FIFTY CHAPTERS THAT DO NOT EXIST YET AND IT IS WRITTEN BEFORE THE FIRST OF THEM IS, WHICH IS THE ONLY TIME A GATE BLOCK IS ANY USE. `outline/volume-14.md` AND `outline/batches/volume-14-batch-0001.md` WERE WRITTEN 14 OCTOBER 2026 BY A PHASE THAT WROTE NO PROSE. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED; THE SERIES IS PLANNED PAST 660. THE ONE NEXT PHASE IS `workspace/volume-14/batch-0001/PROMPT.md`, CHAPTERS 651–660. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## 0. THE THIRTEEN FINDINGS OF `reviews/volume-13/volume-close.md`, CARRIED FORWARD AS ROWS AND NOT AS CLOSED ITEMS
@@ -11,8 +68,8 @@
 | **C** | the ordinal of the invented-figures sentence is both *first* and *third* | §2c item 7 fixes its position at 658 and its budget at one |
 | **D** | the wall's headcount printed at 603 and not only at 605 | **the headcount is a traveling figure and is printed ONCE in 651–700, at 655, with its reason** |
 | **E** | the four conditions are written out in full four times in 601–650 and two files say once | **the fourth is struck and the volume does not put it back; the four conditions are not written out in full anywhere in 651–700** |
-| **F** | the gate row naming `chapter-0637.md`:75 as the remaining verbatim printing is false in both halves | §2c item 7 |
-| **G** | two title lines carry a straight apostrophe against a row that reported zero for title lines by name | **title lines are checked separately from bodies, on both glyphs** |
+| **F** | the gate row naming `chapter-0637.md`:75 as the remaining verbatim printing is false in both halves | §2c item 7. **RE-DERIVED 14 OCTOBER 2026 AND THE INVENTORY IS THREE LINES, NOT ONE: `chapter-0605.md`:101 tier 3, one word changed · `chapter-0606.md`:59 tier 1, verbatim inside speech · `chapter-0618.md`:67 tier 2, the whole sentence. `:75` is a paraphrase and has always been one. Run `grep -rn "a figure somebody made up on purpose" chapters` and score in three named tiers** |
+| **G** | two title lines carry a straight apostrophe against a row that reported zero for title lines by name | **title lines are checked separately from bodies, on both glyphs.** **AND THE CARRYING ROW OVERSTATED ITS OWN FINDING BY 14×: it called the two Volume 13 title lines the only straight apostrophes in six hundred and fifty chapters, and a re-run returned SIXTEEN title lines book-wide across ten volumes, and 3,286 body lines. The unit was the file class and the claim was the book.** |
 | **H** | three of five batch density rows do not re-derive and one was reported as having held exactly | **a density row is measured from disk in the commit that writes the batch and is never compared against a carried figure** |
 | **I** | `chapter-0606.md`:113 is a paragraph of direct speech with no quotation marks and no speech tag, and `:119` repeats `:89` verbatim | **A WITHIN-FILE ORPHAN-SPEECH ROW AND A WITHIN-FILE DUPLICATE-PARAGRAPH ROW, BOTH RUN PER FILE. A PARAGRAPH WITH ZERO QUOTES HAS AN EVEN COUNT AND A PARITY ROW CANNOT SEE IT** |
 | **J** | `chapter-0606.md`:7 is `chapter-0597.md`:17 with four words changed, across a volume seam | **THE SEAM IS SCANNED BY HAND: 651 AND 660 AGAINST 597 AND 601** |

@@ -1,10 +1,67 @@
+# VOLUME 14 PLANNING — REPAIR PASS, 14 OCTOBER 2026, AGAINST `logs/next-0005.review.log`. **FIVE FINDINGS: FOUR APPLIED IN WHOLE OR IN PART, ONE REFUSED ON ITS CENTRAL CLAIM AND REPAIRED ON THE ONE THING THAT WAS TRUE IN IT. NO CHAPTER WAS TOUCHED — SIX HUNDRED AND FIFTY FILES BEFORE AND AFTER — NOTHING WAS RESTARTED, NO EVENT WAS MOVED, NO TITLE WAS CHANGED, NO SCENE WAS REWRITTEN, NO CHARACTER WAS AGED, THE PLANNED PLOT IS UNCHANGED AND `outline/ending.md` IS UNTOUCHED. SIX FILES EDITED, ALL OF THEM PLANNING OR STATE AND NOT ONE OF THEM A CHAPTER: `outline/volume-14.md`, `outline/batches/volume-14-batch-0001.md`, `workspace/volume-14/batch-0001/PROMPT.md` AND THE THREE LIVE STATE FILES `state/current.md`, `state/continuity.md`, `state/open-threads.md`. THERE IS STILL EXACTLY ONE NEXT PHASE, `workspace/volume-14/batch-0001/PROMPT.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## 0t. THE HEADLINE FINDING WAS WRONG ON THE FIGURE AND RIGHT ON THE YEAR, AND THE FIGURE WAS THE PART IT SPENT ITS EVIDENCE ON
+
+**THE REVIEW SAID: *the shutter anchor `2,078` is wrong by exactly 360 days, and is now load-bearing in six places*. IT PROPOSED `1,718` AND THREE NEW INTERVALS.**
+
+**`2,078` IS THE NINTH OF NOVEMBER OF YEAR SIX AND IT IS CORRECT, AND THE SHUTTER DID GO BARE THAT DAY.** `1,718` IS THE NINTH OF NOVEMBER OF YEAR FIVE AND IT IS A DIFFERENT EVENT — the day he wrote the sentences at the foot of the standing page in his own hand. The two are a year apart, both are on the page, and eleven finished footers measure from the second one.
+
+```
+THE TAKING AND THE SHUTTER      9 Nov YEAR SIX = 2,078
+  chapter-0645.md:195   "On the ninth of November of THIS YEAR about nine hundred people
+                        took three lines off a board in about nine hours"   · 645 = 30 Nov y6
+  chapter-0646.md:185   "on the ninth of November three lines came off a board ... and there
+                        has been nothing at the foot of that shutter since"  · 646 = 7 Dec y6
+  chapter-0644.md:165   "The three lines had come down ... on the ninth of November"  · 644
+  chapter-0650.md:47    "I have had about fifty-one days to ask"   2,129 - 2,078 = 51  EXACT
+
+THE WRITING AND THE FOOTERS      9 Nov YEAR FIVE = 1,718
+  chapter-0628.md:157   "Less the ninth of November, one thousand seven hundred and eighteen,
+                        is two hundred and forty-six days, and ON THAT MORNING he wrote at the
+                        foot of the page a sentence with his name under it"
+  ELEVEN FOOTERS, ALL RE-DERIVING FROM 1,718 EXACTLY:  628 +246 · 637 +313 · 639 +333 ·
+  640 +342 · 642 +358 · 645 +381 · 646 +388 · 647 +396 · 648 +403 · 649 +408 · 650 +411.
+```
+
+**`chapter-0645.md`:195 NAMES BOTH IN ONE PARAGRAPH — the interval from year five, then "on the ninth of November of this year" for the taking, in a chapter dated thirty days later. A FINDING THAT READS THAT FOOTER CANNOT MISS TWO EVENTS.**
+
+**AND `chapter-0650.md`'S BODY IS NOT IN CONTRADICTION WITH ITS OWN FOOTER, WHICH THE REVIEW SAID IT WAS.** The body says fifty-one days and the footer says four hundred and eleven, and they measure from different anchors: `2,129 − 2,078 = 51` and `2,129 − 1,718 = 411`. The same woman standing in front of something from the thirtieth of September (`2,039`) and then in front of nothing from the ninth (`2,078`) is thirty-nine days and then fifty-one, which is a clean account and not a contradiction. **THE CHAPTER IS CORRECT AND WAS NOT TOUCHED, AND `state/current.md`'s repair of `:47` and `:55` FROM *thirty-eight days* TO *fifty-one days* WAS CORRECT AND STANDS. A LATER PASS MUST NOT "FIX" IT BACK.**
+
+**WHAT WAS ACTUALLY WRONG, AND IT WAS WORTH THE FINDING: FOUR FILES LABELLED THE SAME CORRECT FIGURE WITH TWO DIFFERENT YEARS.** `outline/volume-14.md` §2b said year six and §5b said **year five** with the same `2,078`; `state/continuity.md` §0b and `state/current.md` §0a both said year five. **THE FIGURE WAS NEVER IN DOUBT AND ONLY THE LABEL WAS WRONG, WHICH IS THE CHEAPER WAY TO BE WRONG BECAUSE THE SUBTRACTION STILL WORKS AND NOTHING LOOKS BROKEN.** All four now say year six.
+
+**AND THE HAZARD THE FINDING SURFACED BY ACCIDENT IS NOW NAMED IN THREE FILES AND IS REAL.** `2,489 − 2,078 = 411` at 700, and `chapter-0650.md`:193 already prints four hundred and eleven days for `2,129 − 1,718`. **THE SAME NUMERAL, TWO ANCHORS, TWO CHAPTERS. A CHAPTER OF 651–700 THAT PRINTS 411 NAMES WHICH ANCHOR IT MEANS OR PRINTS NOTHING.** `outline/volume-14.md` §5b now carries a THE TWO NOVEMBERS block with both derivations, and `state/continuity.md` §0b carries the `1,718` anchor beside the `2,078` one so that `411` is legible instead of ambiguous.
+
+**FINDING 1 IS THEREFORE RECORDED AS ONE THIRD APPLIED AND TWO THIRDS REFUSED. THE FIGURES 82 AT 651 AND 109 AT 655 AND 411 AT 700 ARE ALL UNCHANGED.**
+
+## 0s. THE FOUR THAT STOOD, EACH APPLIED, AND NONE OF THEM TOUCHES A CHAPTER
+
+**2 · THE "SAME SPAN" CLAIM WAS HALF FALSE. `700 − 650 = 360` IS TRUE AND `650 − 600 = 2,129 − 1,769 = 360` IS TRUE, BUT `600 − 550 = 1,769 − 1,347 = 422`, NOT 360.** `state/current.md` §0a printed 360 for all three. **REPAIRED, AND THE REPAIR EXPLAINS WHY THE FIRST HALF IS EXACT: 600 AND 650 ARE BOTH THE THIRTY-FIRST-FREE THIRTIETH OF DECEMBER AND 550 IS THE TWENTY-EIGHTH OF OCTOBER. FIFTY CHAPTERS DOES NOT BUY A YEAR IN THIS CALENDAR — VOLUME 11 IS 501–550 AND VOLUME 12 IS 551–600 AND EACH HOLDS FIFTY.**
+
+**3 · THE VERBATIM-SENTENCE INVENTORY WAS FALSE ON ITS OWN PROBE, AND IT IS THE INVENTORY THE ENTIRE 651–700 SENTENCE BUDGET IS BUILT ON.** `grep -rn "a figure somebody made up on purpose" chapters` returns FIVE files book-wide and 601–650 holds THREE, not one: `chapter-0605.md`:101 tier 3 with one word changed · `chapter-0606.md`:59 tier 1, verbatim sentence one inside a man's speech · `chapter-0618.md`:67 tier 2, all three parts. `chapter-0637.md`:75 is a paraphrase and has always been one, so the carried row was false in both halves exactly as the close audit said. **REPAIRED IN FOUR PLACES AND NOW SCORED IN THREE NAMED TIERS — tier 1 any run of the words inside speech · tier 2 all three parts together, which is the only tier the budget of one spends, at 658 · tier 3 one word changed, which 651–700 may not use anywhere at all.** A gate that says *verbatim* against a book that also holds a near-verbatim is scored against itself; `chapter-0606.md`:59 is the proof that the failure is real and it is in a finished chapter of this book.
+
+**4 · THE BEGINNING STATE WAS CARRYING THE END-OF-BATCH STATE.** `outline/volume-14.md` §2a said *at 651 it is opened with about ninety pieces of paper in it*, against CARD 651 (*open, empty until about eleven*), CARD 654 (*still empty in this chapter*) and CARD 660 (the ninety go in). **A CHAPTER HAD WRITTEN NINETY PIECES OF PAPER INTO A DRAWER AT 651 AGAINST TWO CARDS AND ONE.** Now: empty at 651, empty at 654, about ninety at 660.
+
+**5 · THE STRAIGHT-APOSTROPHE ROW OVERSTATED ITS OWN FINDING BY 14×.** It called `chapter-0632.md`:1 and `chapter-0637.md`:1 *the only straight apostrophes in six hundred and fifty chapters*. **A RE-RUN RETURNS SIXTEEN TITLE LINES ACROSS TEN VOLUMES — 0005, 0032, 0033 · 0057, 0084, 0097 · 0113, 0138 · 0264 · 0329 · 0401 · 0474 · 0511 · 0595 · 0632, 0637 — AND 3,286 BODY LINES OUTSIDE ITALIC FOOTERS AND 4,188 GLYPHS IN ALL, WHERE *the visitors' book* AT `chapter-0113.md`:3 IS ONE.** The volume's own count of two was right; the leap from it to the book was not. **THE UNIT WAS THE FILE CLASS AND THE CLAIM WAS THE WHOLE BOOK — the same defect as the row above it in §0a, which measures a body and calls it a title line, and the third row in that block to do it.**
+
+## 0r. WHAT IS NOT CHANGED, AND WHAT A LATER PASS MUST NOT "REPAIR"
+
+**SIX HUNDRED AND FIFTY CHAPTER FILES, THE SAME SIX HUNDRED AND FIFTY.** No file in `chapters/` was opened for writing. `outline/ending.md` is untouched. No final enemy is introduced. The ten titles, the five scenes at 653/663/673/683/693, the four irreversible decisions at 660/670/680/690 and the volume's at 690, the bundle, the stone, and the one permitted thread all stand as planned.
+
+**AND THREE THINGS IN THIS REPAIR THAT LOOK LIKE DEFECTS AND ARE NOT, LISTED HERE SO THAT THE NEXT REVIEWER DOES NOT SPEND A FINDING ON EACH:**
+
+- **`chapter-0650.md`:47 and `:55` SAY *ABOUT FIFTY-ONE DAYS*.** They are right. `2,129 − 2,078 = 51`. The footer at `:193` measures from a different anchor and is also right.
+- **THE SHUTTER FIGURE IS `2,078`.** Not `1,718`. The year label was the defect and the label is now repaired in all four places.
+- **`outline/volume-14.md` §2a NOW SAYS THE DRAWER IS EMPTY AT 651.** That is the cards' state and not a retreat from a plan; the ninety pieces arrive at 660 and are the batch's irreversible decision.
+
+**THE STANDING RULE THIS PASS LEARNED AND THE REPOSITORY ALREADY KNEW.** *A figure nobody re-computes is the figure that is wrong.* This pass adds the cheaper half: **A YEAR LABEL ON A CORRECT FIGURE IS THE SAME FAILURE, AND NO SUBTRACTION WILL CATCH IT.** The one true thing inside the headline finding was a two-word label, and the finding's evidence, its method and its proposed correction were all wrong. **A REVIEW THAT LANDS ON THE RIGHT ANSWER FOR THE WRONG REASON STILL PRODUCES A BROKEN FILE IF THE CORRECTION IS TAKED ON THE REASON.**
+
 # VOLUME 14 IS PLANNED. **CHAPTERS 651–700 ARE FUTURE AND NONE IS ON DISK. THIS PHASE WROTE NO PROSE, CREATED NO CHAPTER, RE-DATED NONE, RESTARTED NONE, TOUCHED NO FINISHED FILE, AND DID NOT TOUCH `outline/ending.md`. IT WROTE THREE THINGS AND ONE NEXT PHASE. `outline/volume-14.md` — VOLUME FOURTEEN, *THE COPY*, CHAPTERS 651–700, IN THE HOUSE FORMAT, TEN SECTIONS. `outline/batches/volume-14-batch-0001.md` — TEN CARDS, 651–660, IN THE HOUSE FORMAT. `workspace/volume-14/batch-0001/PROMPT.md` — EXACTLY ONE NEXT PHASE, CHAPTERS 651–660. NO OTHER DIRECTORY, NO VOLUME-CLOSE PROMPT, NO BATCH 0002, NO `state/complete.md`. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## 0z. THE THREE DECISIONS IN `outline/volume-14.md` THAT A LATER PHASE MUST NOT REVERSE
 
 **1 · THE VOLUME'S OBJECT IS THE SPACE HE LEFT AT THE FOOT OF HIS OWN PAGE.** At 644 he wrote four conditions out at the foot of the standing sheet in the office's own hand, took the fourth from the first letter to the last with one stroke, put his own name and the date under the striking, and wrote nothing in the two inches where it had been. **About nine people a week read that page to the bottom and on the first of January they read two inches of nothing under his own name.** In this volume about four hundred houses make a copy of the foot of the page and about four hundred people start writing in the two inches at their own tables in pencil, and the office cannot enter a claim, cannot check a piece of paper, cannot take one back, and cannot after 660 say it has not been given anything. **The volume's last irreversible decision is at 690 and it is his: he gives the office about four hundred and nine pieces of paper, and what a clerk may only enter is entered, and an entry can be made and an entry cannot be taken back.**
 
-**2 · THE ENGINE IS HIS OWN SENTENCE TURNED AROUND, AND IT IS SPENT ONCE.** *A figure in Ostara may be a figure somebody made up on purpose. This standing sheet is printed by the office itself. Emil Brack.* `chapter-0595.md`. He wrote it to stop a city believing a claim it could not check. **In this volume it is the reason about four hundred people can keep a register no instrument can check, destroy or contradict, and the one woman in the book entitled to say so says it to him in her own mouth at 658.** §2c item 7 fixes the budget: **verbatim once, at 658, in full; every other mention in other words, including every italic footer.** Volume 13's batch-0005 review found that sentence printed verbatim twice in ten chapters against a gate that reported one, and the Volume 13 close found a state row naming `chapter-0637.md`:75 as the remaining verbatim printing when the only one in 601–650 is `chapter-0618.md`:67 — **both halves false, and neither repaired, and both now inherited as rows.**
+**2 · THE ENGINE IS HIS OWN SENTENCE TURNED AROUND, AND IT IS SPENT ONCE.** *A figure in Ostara may be a figure somebody made up on purpose. This standing sheet is printed by the office itself. Emil Brack.* `chapter-0595.md`. He wrote it to stop a city believing a claim it could not check. **In this volume it is the reason about four hundred people can keep a register no instrument can check, destroy or contradict, and the one woman in the book entitled to say so says it to him in her own mouth at 658.** §2c item 7 fixes the budget: **verbatim once, at 658, in full; every other mention in other words, including every italic footer.** Volume 13's batch-0005 review found that sentence printed verbatim twice in ten chapters against a gate that reported one, and the Volume 13 close found a state row naming `chapter-0637.md`:75 as the remaining verbatim printing — **that line is a paraphrase and has always been one — and then named `chapter-0618.md`:67 as the only verbatim printing in 601–650, which was ALSO false: `chapter-0606.md`:59 carries sentence one verbatim inside a man's speech and `chapter-0605.md`:101 carries it with one word changed. THREE PRINTINGS IN 601–650, NOT ONE. Both halves of that row are now repaired against `grep`, the inventory is three lines long, and the budget is scored in three tiers.** `outline/volume-14.md` §2c item 7.
 
 **3 · THE ONE THREAD VOLUME 14 OPENS IS THE STONE.** Volume 13 opened exactly one, the wall, and left it open at 650 with a form on a spike and a wall that comes down in the spring. **Volume 14 takes the wall down to the course, and four inches of dressed stone survives, and two words have been cut into it that go all the way through the face of it and that nobody in seven years has asked about.** A stone is sold by the piece, a mason is paid by the piece, and a yard nine streets from the works department has a book with a figure against a course of dressed stone and no name against it and a delivery docket with two words cut into the block before it was delivered. **OPENED AT 665, CARRIED AT 666 AND 667, PAID AT 698 BY A DOCKET AND NOT BY A PERSON, AND NOT CLOSED** — because a counter figure can be added to and cannot be taken from, and a docket is not a man.
 
@@ -43,7 +100,13 @@ AS ONE OF THE NINE:
   0004 681-690  7 6 6 6 6 6 7 7 7  = 58   and 2420 - 2362 = 58   seam 681-680 =  7
   0005 691-700  7 7 7 7 7 7 7 7 6  = 62   and 2489 - 2427 = 62   seam 691-690 =  7
   301 inside the five batches, plus a seam of 31 and four seams of 7 = 360 = 2489 - 2129.
-  *** 700 - 650 = 360 = EXACTLY ONE YEAR, THE SAME SPAN 650 TO 600 AND 600 TO 550. ***
+  *** 700 - 650 = 360 = EXACTLY ONE YEAR. THE SAME SPAN AS 650 TO 600, WHICH IS 2,129 - 1,769
+      = 360, AND THAT HALF IS TRUE. THE OTHER HALF IS NOT: 600 TO 550 IS 1,769 - 1,347 = 422,
+      AND THIS ROW PRINTED 360 FOR IT AS WELL, SO THE CLAIM WAS HALF FALSE. THE REASON THE
+      FIRST HALF IS EXACTLY 360 AND THE SECOND IS NOT IS THE DATE AND NOT THE VOLUME: 600
+      AND 650 ARE BOTH THE THIRTIETH OF DECEMBER, AND 550 IS THE TWENTY-EIGHTH OF OCTOBER.
+      VOLUME 11 IS 501-550 AND VOLUME 12 IS 551-600 AND EACH HOLDS FIFTY CHAPTERS, SO
+      FIFTY CHAPTERS DOES NOT BUY A YEAR IN THIS CALENDAR. ***
   *** THE FIRST DRAFT OF THE 0003 ROW PRINTED `7 7 6 7 6 7 6 7 6`, WHICH SUMS TO THE RIGHT FIGURE
       AND IS NOT THE FIGURE. IT WAS A NINE-NUMBER LIST WITH THE HEAD OF A SEAM-PLUS-MOVEMENT LIST
       DROPPED WITHOUT SHIFTING — THE THIRD VARIANT OF THAT DEFECT IN THIS REPOSITORY, AND THE
@@ -71,7 +134,7 @@ THE OCTOBERS  the second line went up 8 October of year one = 247; its seventh a
               DATES FALL IN THE GAP BETWEEN THEM. THE FUSE IS NOT RE-LIT, AND 688 MAY NOT MEASURE
               BACKWARD ACROSS THE EIGHTH OR THE TENTH. ***
 THE SIXTH OF MARCH    year one. Day 35. 1,115 is withdrawn. 2160 - 35 = 2,125 at 651; 2489 - 35 = 2,454.
-THE SHUTTER   bare since the ninth of November of year five = 2,078. 2160 - 2078 = 82 days at 651.
+THE SHUTTER   bare since the ninth of November of YEAR SIX = 2,078. 2160 - 2078 = 82 days at 651.
 THE STRIKING  23 November of year six = 2,092. 2160 - 2092 = 68 days at 651.
 THE WORKS FORM in at a counter nine streets away on 27 December of year six = 2,126.
               2160 - 2126 = 34 days at 651.

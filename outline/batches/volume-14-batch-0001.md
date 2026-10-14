@@ -28,7 +28,8 @@ Read `outline/volume-14.md` §2 and §3 first. **Every figure in this file is ta
 - **The twenty-fourth sheet is on about two thousand counters and about nine people a week read it to the bottom.** About nine hundred people in the yard can read everything that has ever been on a board there.
 - **The two inches under the striking have been read by about nine people a week since the first of January, and not one instrument in Ostara can fill them.**
 - **Tessa's holding is running out and she told him at 645 that he will be slower than he was in the spring for the rest of his working life and that she has looked.**
-- **The drawer in the room off a third court has been open and empty since the fourth of February of year one.** It is not empty in this batch.
+- **The drawer in the room off a third court has been open and empty since the fourth of February of year one.** It is not empty in this batch — **but it is empty until 660.** CARD 651 has it open and empty until about eleven, CARD 654 has it still empty, and CARD 660 is where about ninety pieces of pencil paper go in. **`outline/volume-14.md` §2a carried the end-of-batch state in its first edition and was corrected against these three cards on 14 October 2026.**
+- **The shutter at the far end of the yard off the Vestry has been bare since the ninth of November of YEAR SIX — `2,078`.** It is not the ninth of November of year five, which is `1,718`, which is the day he wrote the sentences at the foot of the page and which eleven chapter footers measure from. `outline/volume-14.md` §5b, THE TWO NOVEMBERS.
 
 ---
 

@@ -53,11 +53,11 @@ Read off `chapters/volume-13/chapter-0650.md`, `:0649.md`, `:0648.md`, `:0647.md
 - **THE TWO INCHES.** They have been read by about nine people a week since the first of January, because the twenty-fourth sheet went out at four on the thirtieth of December and about nine hundred people in a yard can read everything there has ever been on a board. **NOT ONE INSTRUMENT IN OSTARA CAN FILL THEM, AND NO CHAPTER OF 651–700 FILLS THEM.**
 - **THE ACCOUNT.** Two hundred and eleven thousand, eight hundred and forty grains. It belongs to nobody, it cannot be drawn against, allocated or closed, and it is not replenished. **NO CHAPTER OF 651–700 PRINTS IT AND NO CHAPTER PRINTS A FLOOR.** §2c item 1.
 - **HE HAS NOTHING LEFT TO SPEND.** The phrase in eight uses went on the first of October of year three. The instrument he swore on the ninth of May never to use is still unused. **The chest he spent permanently in the fourth year is still spent, and Tessa told him at 645 that he will be slower than he was in the spring for the rest of his working life, that nobody in this city can put it back, that she has looked, and that looking is the whole of what she is for.**
-- **THE DRAWER IN THE ROOM OFF A THIRD COURT HAS BEEN OPEN AND EMPTY SINCE THE FOURTH OF FEBRUARY OF YEAR ONE.** At 651 it is opened with about ninety pieces of paper in it. `chapter-0650.md`, `outline/volume-13.md` §3
+- **THE DRAWER IN THE ROOM OFF A THIRD COURT HAS BEEN OPEN AND EMPTY SINCE THE FOURTH OF FEBRUARY OF YEAR ONE. AT 651 IT IS OPENED *EMPTY* AND IT IS STILL EMPTY AT 654, AND THE ABOUT NINETY PIECES GO IN AT 660 AND NOT BEFORE.** This row carried the end-of-batch state in its first edition and contradicted CARD 651, CARD 654 and CARD 660 at once. `chapter-0650.md`, `outline/volume-13.md` §3, `outline/batches/volume-14-batch-0001.md` §3 and CARD 651 / CARD 654 / CARD 660
 
 ### 2b. THE WALL, THE STONE, AND WHAT IS KNOWN ABOUT THE TWO WORDS
 
-- **THE CORNER.** About two hundred people a day stop at it. About nine of them a week get to the foot. The shutter at the far end of the yard off the Vestry **has had nothing on it since the ninth of November of year six** — `2,078`, and `2,160 − 2,078 = 82 days` at 651 — and **about two thousand people a day slow down at nothing.** `chapter-0646.md`
+- **THE CORNER.** About two hundred people a day stop at it. About nine of them a week get to the foot. The shutter at the far end of the yard off the Vestry **has had nothing on it since the ninth of November of year six** — `2,078`, and `2,160 − 2,078 = 82 days` at 651 — and **about two thousand people a day slow down at nothing.** `chapter-0646.md` **THE YEAR IS SIX. It is not the ninth of November of year five, which is `1,718`, which is the day he wrote the sentences at the foot of the page and which eleven chapter footers measure from. Two Novembers, a year apart, both on the page. §5b, THE TWO NOVEMBERS.**
 - **WHAT IS UNDER THE PAINT.** Six years of monthly paint over **sixty-two of the month's forms, stacked inside the wall, one a month since the eighth of October of year one, every one of them with two empty squares at the foot.** Below the lowest form is **four inches of dressed stone** and **two words cut into it that go all the way through the face of it**, the left-hand one deeper than the right because of the way a man works when he is cutting and not when he is writing. **A coat of paint will not hold on dressed stone, which is the whole reason they are still there.** `chapter-0648.md`
 - **THE FIRST RUBBING EVER MADE** was taken by the boy with a lump of chalk on the twenty-second of December, on the back of a month's form, and **he refused a rail**, because a rail is a place a thing is read once by about nine people a week and a corner is a place a thing is said. It went into the inside of a coat. `chapter-0648.md`
 - **ABOUT NINE HOUSES** were making copies of the two words on the night of the twenty-seventh of December. **Four hundred houses is what he said it would be in about a month, and he has never once in six years been any judge of anything.** `chapter-0650.md`. **Volume 14 does not print a house count that is not derived on the page, and his prediction is never repeated as a fact in the narrator's voice — finding 26 of batch 0005 and the rule it established.**
@@ -79,6 +79,21 @@ Read off `chapters/volume-13/chapter-0650.md`, `:0649.md`, `:0648.md`, `:0647.md
 **6 · THE FOURTH CONDITION IS NOT REPROVED AND IS NOT REPROVED BY ANYONE.** It was struck at 644 and **no chapter of 651–700 may say that any unrecorded deed ever satisfied it, or that none ever did.** §8.
 
 **7 · THE INVENTED-FIGURES SENTENCE IS QUOTED VERBATIM EXACTLY ONCE IN 651–700, AT 658, IN INES DUARTE'S MOUTH, AND NOT ONCE ELSEWHERE.** *A figure in Ostara may be a figure somebody made up on purpose. This standing sheet is printed by the office itself. Emil Brack.* `chapter-0595.md`. **The review of batch 0005 found this sentence printed verbatim twice in ten chapters against a gate that reported one, and the close audit found the only verbatim printing in 601–650 is at `chapter-0618.md`:67 and that a state row naming `chapter-0637.md`:75 as the remaining verbatim printing was false in both halves.** **THE BUDGET FOR VOLUME 14 IS ONE AND IT IS SPENT AT 658. 652 paraphrases it in his own mouth and in other words, 660 paraphrases it in other words, every footer that mentions it does so in other words, and the phrase *a figure somebody made up on purpose* may appear as a paraphrase and not as a quotation anywhere else in the volume.**
+
+**AND THE INVENTORY THAT SENTENCE BUDGET IS BUILT ON WAS ITSELF WRONG, AND IT IS RE-DERIVED HERE BY COMMAND INSTEAD OF BEING CARRIED. `grep -rn "a figure somebody made up on purpose" chapters` returns five files in the whole book and 601–650 holds THREE OF THEM, not one:**
+
+```
+chapter-0605.md:101  TIER 3, near-verbatim.  "a figure in this city may be a figure
+  somebody made up on purpose" — one word swapped, Ostara for this city.
+chapter-0606.md:59   TIER 1, VERBATIM SENTENCE ONE, inside a man's speech.
+chapter-0618.md:67   TIER 2, THE WHOLE SENTENCE, all three parts, once.
+(outside 601-650, and not Volume 14's business: chapter-0595.md:41 introduces it;
+ chapter-0596.md:15 carries sentence one verbatim and sentence two in other words.)
+```
+
+**SO THE CLOSE AUDIT'S CLAIM THAT "the only verbatim printing in 601–650 is `chapter-0618.md`:67" WAS FALSE, AND SO WAS THE STATE ROW THAT NAMED `chapter-0637.md`:75 AS THE REMAINING ONE — that line is a paraphrase and has always been one.** The inventory this item now prints is the one the gate must run against, and it is three lines long and can be checked in one command.
+
+**AND THREE TIERS, BECAUSE A GATE THAT SAYS "verbatim" AGAINST A BOOK THAT ALSO HOLDS A NEAR-VERBATIM WILL BE SCORED INCONSISTENTLY AGAINST ITSELF. TIER 1 is any run of the sentence's words inside quotation marks or inside reported speech. TIER 2 is all three parts together. TIER 3 is the phrase with a word changed.** **THE VOLUME'S BUDGET OF ONE IS TIER 2 ONLY, SPENT AT 658. A TIER 3 IS A PARAPHRASE IN THE BOOK'S OWN TERMS AND IS NOT SPENT — BUT 651–700 MAY NOT USE ONE ANYWHERE AFTER 658, BECAUSE A NEAR-VERBATIM IS THE THING THAT GOT VOLUME 13 INTO TWO PRINTINGS AGAINST A GATE THAT REPORTED ONE.** `chapter-0606.md`:59 is the proof that the failure is real and it is in a finished chapter of this book.
 
 ### 2d. WHAT THE VOLUME OWES THE READER AND WHAT IT REFUSES TO SAY
 
@@ -266,14 +281,38 @@ SPINE, 651-700
                           BRACKETS A GAP MAY NOT REACH ACROSS IT — WHICH MEANS 688 MAY NOT
                           MEASURE BACKWARD ACROSS THE EIGHTH AND THE TENTH. ***
   THE SIXTH OF MARCH     year one. Day 35. 1,115 is withdrawn (close audit, Claim 1).
-  THE SHUTTER            bare since the ninth of November of year five = 2,078.
+  THE SHUTTER            bare since the ninth of November of YEAR SIX = 2,078.
                           2160 - 2078 = 82 days at 651; 2489 - 2078 = 411 days at 700.
+                          ***THE YEAR IS SIX AND NOT FIVE, AND THIS ROW PRINTED FIVE. SEE
+                          THE TWO NOVEMBERS BELOW. THE FIGURE 2,078 IS RIGHT. ***
   THE STRIKING           23 November of year six = 2,092. 2160 - 2092 = 68 days at 651.
   THE WORKS FORM         in at a counter nine streets away on 27 December of year six = 2,126.
                           2160 - 2126 = 34 days at 651.
   THE TWENTY-FOURTH      out at four on 30 December of year six = 2,129.
                           2160 - 2129 = 31 days at 651.
 ```
+
+**THE TWO NOVEMBERS, WHICH ARE A YEAR APART AND WHICH BOTH SIT ON THE PAGE, AND THE ONE PLACE A CHAPTER OF 651–700 CAN GO WRONG ON A FIGURE THAT IS CORRECT IN BOTH PLACES.**
+
+```
+THE NINTH OF NOVEMBER, YEAR FIVE = 1,718.  He wrote the sentences at the foot of the
+  standing page in his own hand that morning and put a name under them.
+  ELEVEN CHAPTER FOOTERS MEASURE FROM THIS FIGURE AND ALL ELEVEN RE-DERIVE:
+  628 +246 · 637 +313 · 639 +333 · 640 +342 · 642 +358 · 645 +381 · 646 +388 ·
+  647 +396 · 648 +403 · 649 +408 · 650 +411.  chapter-0645.md:195 NAMES BOTH IN ONE
+  PARAGRAPH — the interval from year five, then "on the ninth of November of this year"
+  for the taking, and chapter 645 is a year six chapter.
+
+THE NINTH OF NOVEMBER, YEAR SIX = 2,078.  About nine hundred people took three lines off
+  a board in about nine hours and there has been nothing at the foot of that shutter
+  since.  chapter-0645.md:195 · chapter-0646.md:185 · chapter-0650.md:47 and :55.
+
+CONSEQUENCE FOR THE GATE: 2,489 - 2,078 = 411 AT 700, AND 650 ALREADY PRINTS "FOUR
+  HUNDRED AND ELEVEN DAYS" AT :193 FOR 2,129 - 1,718.  **THE SAME NUMERAL, TWO ANCHORS,
+  TWO CHAPTERS. A CHAPTER THAT PRINTS 411 NAMES WHICH ONE IT MEANS OR IT PRINTS NOTHING.**
+```
+
+**AND THE RULE THE FIRST EDITION OF THIS FILE BROKE BY PRINTING THE WRONG YEAR ON THE RIGHT FIGURE.** A figure nobody re-computes is the figure that is wrong, and a *year label* on a correct figure is the cheaper way to be wrong, because the subtraction still works and nothing looks broken. **`2,078` was right and was labelled year five in three files and year six in a fourth; the figure was never in doubt and the label was.** §2b names the shutter once and names the year. The 14 October 2026 review read the eleven footers, took `1,718` for the shutter, and declared `2,078` wrong by exactly 360 — **it was wrong by exactly 360 about a different anchor.** The finding was refused and the label was repaired, because the one true thing inside it was the year.
 
 ### 5c. CHAPTER-BY-CHAPTER DAYS. **THERE IS NO THIRTY-FIRST IN THIS TABLE AND THERE IS NO DAY OF THE WEEK ANYWHERE IN IT.**
 
