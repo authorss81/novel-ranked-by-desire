@@ -136,9 +136,11 @@ She turned round.
 
 The first time she did it standing up, in the corridor, with her bag still on her shoulder.
 
-It was over before he had got the first word out of his mouth, and she did not enjoy it and neither did he, and it was plainly the thing two people do at the end of a counter on a day when neither of them has said the other thing yet.
+She did it with her coat still on, with one hand on the back of his neck and the other one working, and she was quick and she was not gentle about it, and it was over before he had got the first word out of his mouth.
 
-Afterwards she leaned on the shelf with the green cloth back and got her breath and pushed herself off it.
+She did not enjoy it and neither did he, and that was the first reading, and then she wiped her palm down her own skirt and said the number out loud to check that the room had not changed while she was in it, and it had not.
+
+She leaned on the shelf with the green cloth back, got her breath, and pushed herself off it.
 
 “You have got a spent chest,” she said.
 
@@ -164,7 +166,9 @@ She had him against the shelf with the green cloth back, which took his weight, 
 
 He turned round. Two ledgers, one on each shelf, four feet apart in an eleven-foot corridor, both open at the same page.
 
-She got up behind him and got into him slowly and she made him watch the two books while she did it, and neither book ever went anywhere and neither of them moved at all.
+She got up behind him and got into him slowly, and she made him watch the two books while she did it, and neither book ever went anywhere and neither of them moved at all.
+
+She took him in the way a woman reads a paper the second time, which is that nothing is rushed and nothing is left out, and her cunt closed on him a quarter of an inch at a time and she counted that too, and she hooked a hand over the edge of the shelf beside his head to hold herself on it.
 
 There was nowhere in that corridor to put a hand. She tried the shelf and found the ledger on it and took her hand back, and put it on the edge of the table instead, and then came back to him when she had finished deciding.
 
@@ -172,7 +176,7 @@ There was nowhere in that corridor to put a hand. She tried the shelf and found 
 
 She was not quiet about it. That was the thing he had not been ready for, because a woman who counts rounds in lanes and argues about a difference of seventeen at ten in the morning is a person he had built a version of in his head, and the version was wrong. She was loud in the way of somebody enjoying an argument she is winning, and she enjoyed this one, and she told him so twice.
 
-She got a hand round the front of him and held him at the pace she wanted and not one beat faster, and she put her good ear against his jaw so that she could hear what he was doing without turning her head.
+She got her hand round the front of him and closed it on his cock and held him at the pace she wanted and not one beat faster, and she put her good ear against his jaw so that she could hear what he was doing without turning her head.
 
 After a while she began counting under her breath. She did not notice herself doing it and he noticed, and he did not stop her, and it went on for a while and then it turned into something else that was not a number.
 
@@ -190,11 +194,11 @@ After a while she began counting under her breath. She did not notice herself do
 
 He did not count out loud.
 
-He had it in about four seconds and she took him over afterwards with a hand and did not let him do any of it, and she said his name once and did not say it again because she had heard it.
+He had it in about four seconds and she took him over afterwards with a hand and did not let him do any of it, and she told him in his own ear what she was going to do next and then did that, and she said his name once and did not say it again because she had heard it.
 
 He put his hands on her hips and held her there while she worked and she let him, and at one point she said *right* in the way a person says it when a line in a book has come out the way it was read.
 
-She got there first and then made him finish, which she had not been asked to do and which he understood about a minute afterwards.
+She got there first with her hand still on him and her mouth against his jaw, and then she made him finish, which she had not been asked to do and which he understood about a minute afterwards.
 
 She put her forehead against his collarbone when it was done and kept her hands on him, and her hair was damp at the temple on the side that works and cold on the side that does not, and neither of them said anything for about as long as it takes to count a round in a lane.
 
@@ -205,8 +209,6 @@ He had a spent chest and four landings in him and he had gone up a stair in thre
 “That,” said Beatrix Halm, “is both readings, and they are not the same, and both of them are correct, and nobody in this city is ever going to be able to tell you which of them was the paper.”
 
 ## What It Costs A Number
-
-“There,” said Beatrix Halm. “That is both readings, and they are not the same, and both of them are correct, and nobody in this city is ever going to be able to tell you which of them was the paper.”
 
 She got her bag off the floor and sat down on the end of the table in the corridor with her coat over her knees.
 
