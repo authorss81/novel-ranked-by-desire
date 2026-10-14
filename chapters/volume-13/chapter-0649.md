@@ -4,7 +4,7 @@ Five days had gone since a boy with a scraper had taken a hand’s width of six 
 
 Two thousand one hundred and twenty-one was the twenty-second of December and the twenty-seventh is day two thousand one hundred and twenty-six, and two thousand one hundred and twenty-six less two thousand one hundred and twenty-one is five, and twenty-seven less twenty-two is five by the month count.
 
-The department of works is nine streets from the foot of that wall and it is the building he queued for about two hours behind a barrow of broken paving in on the twenty-first of February, and there was a barrow of broken paving in the queue again, because it is the twenty-seventh of December and they are putting a hole in a street somewhere else in this city and the stone comes out in the winter.
+The department of works is nine streets from the foot of that wall and it is the building he queued for about two hours behind a barrow of broken paving on the twenty-first of February, and there was a barrow of broken paving in the queue again, because it is the twenty-seventh of December and they are putting a hole in a street somewhere else in this city and the stone comes out in the winter.
 
 He stood in it for about an hour and fifty minutes.
 
@@ -24,11 +24,11 @@ He turned it about ninety degrees and read the address again to be sure.
 
 “Yes.”
 
-“Nine months.”
+“Ten months.”
 
 “Three hundred and six days.”
 
-“Nine months and about six days,” said the man at the counter, “and I have had about nine hundred and forty of these and every one of them is a wall and every one of them says what is to be done to the wall in a line at the bottom and not one of them has ever said anything about what is on the wall. Not one. Not in thirty years.”
+“Ten months and about six days,” said the man at the counter, “and I have had about nine hundred and forty of these and every one of them is a wall and every one of them says what is to be done to the wall in a line at the bottom and not one of them has ever said anything about what is on the wall. Not one. Not in thirty years.”
 
 “There are two words on it.”
 
@@ -40,7 +40,7 @@ He said, “What are they?”
 
 It was out before he had decided to ask it and the man at the counter stopped with his hand on the spike and looked at him.
 
-“Mine,” said Lin Hao. “The two words at the foot of that wall are in the hand of an office and the office’s address is on the form the boy paints every month, and there is nobody in this city who has ever asked me what they are, and you are the first person I have said that to in nine months and I have said it at a counter in a queue.”
+“Mine,” said Lin Hao. “The two words at the foot of that wall are in the hand of an office and the office’s address is on the form the boy paints every month, and there is nobody in this city who has ever asked me what they are, and you are the first person I have said that to in ten months and I have said it at a counter in a queue.”
 
 The man at the counter came round the front of the counter.
 
@@ -58,7 +58,7 @@ The man at the counter came round the front of the counter.
 
 “You think they are worth saying.”
 
-“I think they are the only true sentence anybody has stood on in six years and I think nine people a week read them and about four in every thousand in this city have ever got to them, and those two figures have been the same every quarter and they are going to be the same on the twenty-fourth sheet, which is in three days.”
+“I think they are the only true sentence anybody has stood on in six years and I think nine people in this city read them in a week and about four in every thousand in this city have ever got to them, and those two figures have been the same every quarter and they are going to be the same on the twenty-fourth sheet, which is in three days.”
 
 “And you think that is a good state for a city to be in.”
 
@@ -82,7 +82,7 @@ He went back behind the counter.
 
 “And the other half.”
 
-“The other half is that you have been carrying that sheet in your coat for nine months,” said the man at the counter, “and you have not once read the bottom of it, and I have watched you take it out of your coat about four times since you came in and put it back every time. The bottom of it is the only part of it that has ever had anything on it for anybody.”
+“The other half is that you have been carrying that sheet in your coat for ten months,” said the man at the counter, “and you have not once read the bottom of it, and I have watched you take it out of your coat about four times since you came in and put it back every time. The bottom of it is the only part of it that has ever had anything on it for anybody.”
 
 “That is the box for the date the work was done.”
 
@@ -116,7 +116,7 @@ The box for the date was empty, and every box on the nine hundred lines was empt
 
 ## Nine Streets The Other Way
 
-The painting office is one room above a store and it has a counter in it and a boy of sixteen standing at a bench at the back of it, and the boy had been told that the works department had been.
+The painting office is one room above a store and it has a counter in it and a bench at the back of it with nobody sitting at the bench, and nobody in that room had been told that the works department had been.
 
 “He has not been here since the twenty-second of December and he is not going to be here again until the spring,” said the man at the counter, who had come with him because a man cannot send a piece of paper nine streets on its own. “What do you want.”
 
@@ -146,7 +146,7 @@ Three hundred and six days.
 
 He had carried a piece of paper in his coat for three hundred and six days because a clerk gave it to him in a queue in February.
 
-There is a box on it for the day the wall comes down, and there is no way on earth to write a date that has not happened yet, and he had not seen that for nine months, because a man who is looking for a question to ask a department does not read the bottom of a form in his own coat.
+There is a box on it for the day the wall comes down, and there is no way on earth to write a date that has not happened yet, and he had not seen that for ten months, because a man who is looking for a question to ask a department does not read the bottom of a form in his own coat.
 
 He had been carrying the answer.
 
@@ -162,7 +162,7 @@ The slip was about the size of a thumb-nail and it had a number on it and it was
 
 “That is not what it is for.”
 
-“No,” said the man at the counter. “It is for us. You keep the slip and in thirty years somebody in a room that has never been opened will want to know what came in on the twenty-seventh of December in the ninth month and it will be in the book, and that is what a number is. It is not a way of getting anything. It is a way of being found.”
+“No,” said the man at the counter. “It is for us. You keep the slip and in thirty years somebody in a room that has never been opened will want to know what came in on the twenty-seventh of December in the twelfth month and it will be in the book, and that is what a number is. It is not a way of getting anything. It is a way of being found.”
 
 He turned and went back the nine streets without saying anything else about it, because he had a counter and it was nearly four.
 
@@ -170,17 +170,17 @@ He turned and went back the nine streets without saying anything else about it, 
 
 At about four on the twenty-seventh of December he was at the foot of the wall again with about nine people at the corner and about four of them holding a sheet of paper.
 
-The boy was not there and the board by the kerb had no form on it, because the form for a month goes up on the last working day of the month and the last working day of this month is in three days. The paint was about a week old on the render above the place where the paint had come off on the twenty-second, and the four inches of stone had about a week of weather on them and nothing else on them.
+The boy was not there and the board by the kerb had no form on it, because a month’s form goes up on its last working day and this month’s last working day is in three days. The paint was about a week old on the render above the place where the paint had come off on the twenty-second, and the four inches of stone had about a week of weather on them and nothing else on them.
 
 He stood about nine feet off with a slip the size of a thumb-nail in his hand and a form in his coat and did not know what either of them was for.
 
-In three days a page would go out at four with a figure at the head of it that had stood for eight quarters and six lines at the foot of it with a hole in the middle of the five, and about nine people a week would get to the bottom of it.
+In three days a page would go out at four with a figure at the head of it standing where it has stood for eight quarters and six lines at the foot of it with a hole in the middle of the six, and nine people in this city would get to the bottom of it in a week.
 
 And in the spring a man from a department would come to a wall nine streets from here with a form that says an address and a line of work and a box for the date the work was done, and there is not one field on it about the four inches of dressed stone at the foot of that wall, and the man with the form would not ask about it, because a question is a question and not a return, and he has raised it twice.
 
 *Two thousand one hundred and twenty-six days. Less two thousand one hundred and twenty-one, the twenty-second of December, is five. Twenty-seven less twenty-two is five by the month count.*
 
-*Less the twenty-first of February, one thousand eight hundred and twenty, is three hundred and six days, which is ten months with six days after them. A man queued for about two hours behind a barrow of broken paving in the eighth month of a year nobody here says and was handed a sheet about the size of a leases, with one ruled box at the foot of it for the date the work was done, and he carried it for all three hundred and six days and never once turned it over.*
+*Less the twenty-first of February, one thousand eight hundred and twenty, is three hundred and six days, which is ten months with six days after them. A man queued for about two hours behind a barrow of broken paving in the eighth month of a year nobody here says and was handed a sheet about the size of a lease, with one ruled box at the foot of it for the date the work was done, and he carried it for all three hundred and six days and never once turned it over.*
 
 *Less the thirtieth of September, two thousand and thirty-nine, is eighty-seven days, which is two months with twenty-seven days after them, and the schedule of the department of works has about nine hundred lines on it and eleven dates in boxes and the line for this wall says take down to course and make good, and the schedule is up on the last working day of every month, which is the thirtieth, which is in three days.*
 

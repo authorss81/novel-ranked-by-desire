@@ -4,7 +4,7 @@ Eight days had gone since a woman who cannot read had said a figure out loud for
 
 Fifteen days to the thirtieth, and a page that goes out at four, and a hole in the foot of it with a name under it.
 
-The sheet was brought out and squared at about half past two because there had not been one in this room since the twenty-third and Wenna Raut wanted it out of the drawer and looked at, in the ordinary way, on a day that was not the thirtieth.
+The sheet came out of the drawer and was squared to the edge of the table at about half past two, because there had not been one in this room since the twenty-third and Wenna Raut wanted it out of the drawer and looked at, in the ordinary way, on a day that was not the thirtieth.
 
 ## What Was On It
 
@@ -12,7 +12,7 @@ Eight hundred and fifty-two at the head, in the office’s hand.
 
 That has not moved since the thirtieth of March of a year nobody in this room says, and this is the eighth quarter it has stood, and Yusuf Adeyemi said at ten past four on the thirtieth of September that he had watched every one of them come off this table and he was not going to let the twenty-fourth be the first.
 
-Under it, about four hundred and nineteen lines, each one an account of six years of a street dug in the cold with a date against it and an hour against the date and no figure and no name.
+Under it, about four hundred and nineteen lines, each one somebody’s account of six years of a street dug in the winter, with a date against it and an hour against the date and no figure and no name.
 
 The second column had two lines in it. The first of them had been in the book since the fifteenth of October of the fourth year and was his, and the clerk’s sentence under it was still there exactly as she entered it, and he had not asked for it to be taken off and was not going to.
 
@@ -32,7 +32,7 @@ And under those four, since the twenty-third, six lines.
 
 “All right.”
 
-“The sixth line says your name and a date and that it was struck by you against yourself,” she said. “The third of the six says *another person was there, or was given it, and that person can be named or described closely enough*, and that is a line a person can hold.”
+“The sixth line says your name and a date and that it was struck by you against yourself,” she said. “The third of the six is the one that asks for somebody else — that there was a person, or that one was given it, and that he can be named or described closely enough — and that is a line a person can hold.”
 
 She turned the sheet about ninety degrees. “The fourth of the six has a strike through it from the first letter to the last, and there is a space underneath the fourth that is about two inches deep, and there is nothing in it.”
 
@@ -40,7 +40,7 @@ She turned the sheet about ninety degrees. “The fourth of the six has a strike
 
 “I know there is nothing in it, I have had the sheet on the desk in front of me since half past two,” said Wenna Raut. “My question is whether the sixth line is a line or whether it is a second paragraph.”
 
-“A clerk enters a line and enters a paragraph differently on this desk and I enter both, and I cannot tell you which of them you have given me. And if you have given me a paragraph then it prints differently, and about nine people a week will be able to tell that on the first of January and not before.”
+“A clerk enters a line and enters a paragraph differently on this desk and I enter both, and I cannot tell you which of them you have given me. And if you have given me a paragraph then it prints differently, and the nine who get to the bottom of it will be able to tell that as soon as it is on the rail and not before.”
 
 Lin Hao looked at it for about four seconds.
 
@@ -60,7 +60,7 @@ Lin Hao looked at it for about four seconds.
 
 “Nothing written on it, and no name, and no address, and it came in through the front door on the ninth of December at about half past three in the afternoon,” said Wenna Raut.
 
-“It came in because the shutter is bare and there is about eleven thousand people in that yard every day, and somebody in that yard came the nine miles to this door and put an empty sheet on a counter and walked out again. It is in the bundle because it came through the front door, and I am not permitted to leave it out of the bundle because it was empty, because leaving a thing out of a bundle is an improvement.”
+“It came in because the shutter is bare and it is the emptiest that yard has been since the wall went up, and somebody in that yard came the nine miles to this door and put an empty sheet on a counter and walked out again. It is in the bundle because it came through the front door, and I am not permitted to leave it out of the bundle because it was empty, because leaving a thing out of a bundle is an improvement.”
 
 He looked at the empty sheet for about nine seconds.
 
@@ -96,11 +96,11 @@ He read the foot from the first of the six lines to the last of them and then re
 
 “The head stands.”
 
-“I am going to say four things and none of them is about whether you were right, and I am not going to be asked whether you were right, because that is the one question in this city I have spent forty-four years declining to answer.”
+“I am going to say four things and none of them is about whether you were right, and I am not going to be asked whether you were right, because that is the one question in this city I have declined for the whole of my working life.”
 
 He put his hand on the edge of the table.
 
-“The first is that about nine people a week will get to the bottom of that page, and on the first of January there will be six lines at the foot of it instead of four. About nine people a week will read two sentences that are not instructions in a place where for six years there have been none.”
+“The first is that nine people in this city get to the bottom of that page in a week, and when it goes out on the thirtieth there will be six lines at the foot of it instead of four. Nine of them will be reading two sentences that are not instructions in a place where for six years there have been none.”
 
 “The second.”
 
@@ -158,7 +158,7 @@ And the sixth, which is nothing.
 
 “There is no seventh.”
 
-“There is no seventh and there will not be a seventh and there is not one instrument in this city that can add one, and the page goes out at four on the thirtieth in fifteen days and about nine people a week will read all six and there is nothing whatever on the sheet that says what any of them is for.”
+“There is no seventh and there will not be a seventh and there is not one instrument in this city that can add one, and the page goes out at four on the thirtieth in fifteen days and the nine who get to it will read all six and there is nothing whatever on the sheet that says what any of them is for.”
 
 The man at the desk got the pencil out of the drawer and turned the ledger round so the top of it showed and wrote four lines in it against a date, and it took him about nine seconds and he did not ask Lin Hao to slow down or to repeat himself.
 
@@ -192,7 +192,7 @@ Lin Hao stood at the counter for about a minute.
 
 “Then it is not a question I have answered and it is a question I have asked,” said the man at the desk, “and I have got nine years of not asking and about nine minutes of asking.”
 
-“I am forty-one and I have a ledger, and I would like you to understand that I am not going to be able to help you with anything. I have no standing, no office, no form and no way of taking anything back. I can write a thing down. That is the whole of what I have.”
+“I have been behind this counter longer than you have been on nights and I have a ledger, and I would like you to understand that I am not going to be able to help you with anything. I have no standing, no office, no form and no way of taking anything back. I can write a thing down. That is the whole of what I have.”
 
 “You have written a thing down.”
 
@@ -200,7 +200,7 @@ Lin Hao stood at the counter for about a minute.
 
 He turned the copy back the right way up and put it back on the rail where the rail keeps a sheet.
 
-“Twenty-three bundles,” he said, “and one empty sheet in the twenty-third, and a page with a hole in the foot of it going out at four on the thirtieth. That is the whole of what this city has got at the end of a year, and it is not nothing, and you have been in it for six years and you have never once come down here and asked me how many of them I had.”
+“Twenty-three bundles,” he said, “and one empty sheet in the twenty-third, and a page with a hole in the foot of it going out at four on the thirtieth. That is what this city has got at the end of a year, and it is not nothing, and you have been in it for six years and you have never once come down here and asked me how many of them I had.”
 
 *Two thousand one hundred and fourteen days. Less two thousand one hundred and six, the seventh of December, is eight. Fifteen less seven is eight by the month count.*
 

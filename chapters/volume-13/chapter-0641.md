@@ -140,7 +140,7 @@ She did not answer for about four seconds, and in those four seconds she went do
 
 She put two fingers on the eleventh entry.
 
-“This is what I took off you in November of the fifth year,” she said. “It was the last big one. There has been nothing of that kind in you since and there is not going to be, because you have not had it since and there is nothing in you for me to lift.”
+“This is what I took off you on the twenty-first of October,” she said. “It was the last big one. There has been nothing of that kind in you since and there is not going to be, because you have not had it since and there is nothing in you for me to lift.”
 
 She put a finger on the eleventh entry. “What I do take off you from one visit to the next is ordinary, and it comes out of you, and I could put that back in you in about nine minutes if you asked me to and you would be better for it, and I will not.”
 
@@ -164,7 +164,7 @@ Tessa Okonkwo was at the desk at the far end with a page of dates in front of he
 
 He said, “How many times have you taken one off me since November.”
 
-“Eleven,” she said, without looking up. “The eleventh was a fortnight ago and I took it because you were on that hill and not because you asked. There is a column on that board with your plate on it and I have never once had to open a drawer for anybody in this city the way I have had to open it for you.”
+“Eleven,” she said, without looking up. “The eleventh was the day you came off that hill and it was not the hill that took it, and I took it because you were on it and not because you asked. There is a column on that board with your plate on it and I have never once had to open a drawer for anybody in this city the way I have had to open it for you.”
 
 She wrote an hour against a line.
 

@@ -2,7 +2,7 @@
 
 Eight days had gone since an auditor had read him four hundred and nineteen lines and had then declined to give him an hour. Two thousand and eighty-four was the fifteenth of November and the twenty-third is day two thousand and ninety-two, and two thousand and ninety-two less two thousand and eighty-four is eight, and twenty-three less fifteen is eight by the month count.
 
-There are seven days in a month of thirty days between the twenty-third and the thirtieth, and the twenty-third is the last working day of the month before the one the sheet goes out on, and the sheet was on the table in the room off a third court at about ten in the morning with the foot of it not yet written.
+There are seven days in a month of thirty days between the twenty-third and the thirtieth, and the thirtieth is the last working day of the month and the day the sheet goes out, and the twenty-third is a week in front of it, and the sheet was on the table in the room off a third court at about ten in the morning with the foot of it not yet written.
 
 He had been in that room at four every quarter for six years and he had never once written anything on it. He had written a sentence at the foot of it on the ninth of November of the fifth year because a man in a delivery coat asked him to on a stair in the third year, and the two sentences that had been there since the first of February of the first year had been in an office’s hand and not his, and were the office’s.
 
@@ -10,7 +10,7 @@ He had been in that room at four every quarter for six years and he had never on
 
 Wenna Raut did not ask what for. She put her pencil down, squared the sheet to the edge of the table, and turned it so that the four inches at the bottom of it were nearest him and the rest of it was out of his way, and she went back to the column she was in.
 
-“That is the foot,” said Wenna Raut. “I am permitted one question a day and I am going to spend it now and then I am going to go back to the column.”
+“That is the foot,” said Wenna Raut. “I have one question a morning and I have not spent this one, and then I am going to go back to the column.”
 
 “Ask it.”
 
@@ -32,7 +32,7 @@ He took the office’s pen off the counter and uncapped it in front of her.
 
 “Because what goes in the column goes in the column and what goes at the foot goes at the foot, and a page has one of each and not one of either in between.” She went back to her column. “Say that again so that I know you know it.”
 
-“Because a line in a column is an entry, and an entry goes in, and a thing at the foot of a sheet is the only thing on a sheet anybody in this city reads to the bottom for, and there are about nine people a week and I want the nine to be able to read this one.”
+“Because a line in a column is an entry, and an entry goes in, and a thing at the foot of a sheet is the only thing on a sheet anybody in this city reads to the bottom for, and there are nine of them in this city in a week and I want the nine to be able to read this one.”
 
 “That is a reason,” said Wenna Raut. “I did not have one of those before eleven this morning and I have one now, and I am going to be permitted to enter it and I am not going to be permitted to have an opinion about it.”
 
@@ -78,7 +78,7 @@ That space was about two inches deep and stayed two inches deep.
 
 “That is not how a line is taken off a page.”
 
-“There is not one instrument in this city that takes a line off a page in the office’s hand, and that includes the person who wrote it,” said Lin Hao, “and it includes me, and that is why I have done it in the place where about nine people a week will see it instead of in the place where the other sentence is.”
+“There is not one instrument in this city that takes a line off a page in the office’s hand, and that includes the person who wrote it,” said Lin Hao, “and it includes me, and that is why I have done it in the place where the nine will see it instead of in the place where the other sentence is.”
 
 ## What The Registrar Said
 
@@ -142,7 +142,7 @@ She won about a year of money in January of this year, off a sentence she cannot
 
 The fourth one did nothing for her. She never used it, because she could not put it in a document, and a document is the only place a claim of hers has ever been able to live.
 
-What the fourth line has done, in six years, in a city with nine divisions and about eleven thousand people in a yard, is this.
+What the fourth line has done, in six years, in this city, is this.
 
 It has let a person who cannot read stand in a room and say: this happened to me, and there is nothing written down, and the nothing is the proof.
 
@@ -154,7 +154,7 @@ She cannot say that anybody took anything off her.
 
 ## Four O’Clock And A Barer Corner
 
-He went down the hill at about half past four and the Vestry door was shut and the man beside it was beside it, and he did not look towards it, and neither did about eleven thousand other people in that yard.
+He went down the hill at about half past four and the Vestry door was shut and the man beside it was beside it, and he did not look towards it, and neither did anybody else in that yard.
 
 The shutter at the far end of it was bare.
 

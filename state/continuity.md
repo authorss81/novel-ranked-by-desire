@@ -1,4 +1,4 @@
-# VOLUME 13 CHAPTERS 641–650 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS. `outline/volume-13.md` §7 MOVEMENT FIVE HAS BEEN REWRITTEN AGAINST THE PAGE AND §8 IS UNTOUCHED. `state/complete.md` IS NOT CREATED. THE BATCH IS 32,121 WORDS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 13 CHAPTERS 641–650 ARE ON DISK AND THE SPINE BELOW IS THE TEXT, NOT A PLAN. **RE-DERIVED BY COMMAND IN THE COMMIT THAT WROTE THEM AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT, AND RUN AGAIN IN THE SAME COMMIT AFTER THE DUPLICATION REPAIRS, **AND RUN A THIRD TIME BY THE 14 OCTOBER 2026 REVIEW-FIX, WHICH FOUND THIRTEEN ARITHMETIC AND CONTINUITY DEFECTS INSIDE THE TEN FILES THAT EVERY ROW BELOW HAD CERTIFIED.** `outline/volume-13.md` §7 MOVEMENT FIVE HAS BEEN REWRITTEN AGAINST THE PAGE AND §8 IS UNTOUCHED. `state/complete.md` IS NOT CREATED. THE BATCH IS 32,121 WORDS.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. THE SPINE FOR 641–650, AND EVERY FIGURE IT CARRIES
 
@@ -38,8 +38,10 @@ OFFICE       ITS AGE IS NOT PRINTED IN 641-650. The months figure was spent at 6
              = 356 days and nothing more.
 THE LANE     ITS MORNINGS ARE NOT PRINTED IN 641-650. The budget was spent at 609, 614 and 626
              and is not reset by a new batch. The lane is NAMED at 648 and is not measured.
-THE WALL     ITS HEADCOUNT IS NOT PRINTED IN 641-650. 605 is the only printing of it in the
-             volume, with its reason, and no chapter of this batch repeats it.
+THE WALL     ITS HEADCOUNT IS NOT PRINTED IN 641-650 NOW, **AND IT WAS NOT WHEN THIS ROW WAS
+             WRITTEN**: `chapter-0645.md`:181 printed *a wall about nine thousand people went under
+             on an ordinary morning*, which is 605's figure in 605's sentence. **THE 14 OCTOBER 2026
+             REVIEW-FIX DELETED IT.** 605 is the only printing of it in the volume, with its reason.
 ANNIVERSARY  the second line went up 8 October of year one = 247 and its sixth anniversary is
              2,047. 2,047 IS 13 DAYS BEHIND CHAPTER 640 AND 22 DAYS BEFORE CHAPTER 641, AND IT
              FELL INSIDE THE TWELVE-DAY GAP BETWEEN 638 AND 639. **NO CHAPTER OF 641-650 NAMES
@@ -134,12 +136,12 @@ THE MONTH BORROW  GOES ONE WAY ONLY. Going forward past a month’s end borrows 
 
 ## 0q. THE MEASUREMENT CELL FOR 643, TAKEN FROM DISK IN THE COMMIT THAT WROTE IT, WITH THE LINE SPAN BESIDE EVERY CELL
 
-The file has eight `##` headings at lines **15, 49, 73, 99, 123, 135, 153, 217** and **256** newline-terminated lines. The first `##` is `## The Question` and the last is `## Afterwards`, with no `##` after 217.
+The file has eight `##` headings at lines **15, 49, 73, 99, 123, 135, 153, 217** and **257** newline-terminated lines. **RE-MEASURED BY THE 14 OCTOBER 2026 REVIEW-FIX; THE FIGURES THIS BLOCK PREVIOUSLY CARRIED WERE 3,215 / 3,220 / 1,491 / 1,487 / 3,973 / 3,757 / 4,304 AND FOUR OF THE SIX WERE STALE.** The first `##` is `## The Question` and the last is `## Afterwards`, with no `##` after 217.
 
-**(A)** first `##` to last `##`, exclusive of both heading lines, **lines 16–216, 3,215**; the same span **inclusive of both heading lines, lines 15–217, 3,220**.
+**(A)** first `##` to last `##`, exclusive of both heading lines, **lines 16–216, 3,222**; the same span **inclusive of both heading lines, lines 15–217, 3,227**.
 **(B)** the single scene section, `## The Empty Table` at line **135** closing on `## Afterwards` at line **217**, with one `##` inside it (`## What She Read On Him` at 153) — **inclusive lines 135–216, 1,491**; **exclusive lines 136–216, 1,487**.
-**(C)** exclusive of both boundaries and carried through to end of file, **lines 16–256, 3,973**; the same cut stopping at the last prose line before the italic footers, **lines 16–249, 3,757** (7 footer lines).
-**Whole file, lines 1–256, 4,304.**
+**(C)** exclusive of both boundaries and carried through to end of file, **lines 16–257, 4,052**; the same cut stopping at the last prose line before the italic footers, **lines 16–250, 3,767** (7 footer lines).
+**Whole file, lines 1–257, 4,383.** **THE PREVIOUS WHOLE-FILE CELL READ 4,304 AGAINST A BANK ROW THAT SAID 4,373 FOR THE SAME FILE. A MEASUREMENT AND A WORD COUNT OF ONE FILE THAT DO NOT RECONCILE ARE NOT MEASUREMENTS.**
 
 Explicit-vocabulary probe at WORD BOUNDARY across the body of 643: *semen* 0, *cunt* 0, *cock* 0, *tits* 0, *pussy* 0, *cum* 0, *jizz* 0, *knob* 0, *fanny* 0, *arse* 0, *licked* 0, *sucked* 0, *hard* 0, *wet* 1, *inside* 1, *mouth* 4. **PARITY: `chapter-0603.md` returns *cock* 1 on the same list and `chapter-0623.md` and `chapter-0633.md` return 0. Reported, not argued.** Set B at word boundary across all ten files: **0**.
 

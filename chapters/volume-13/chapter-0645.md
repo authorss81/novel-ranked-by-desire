@@ -32,7 +32,7 @@ She came out and she had her cuffs down and she looked at him and did not ask hi
 
 “I count everything,” she said. “It is not a gift and nobody has ever thanked me for it and it is the only thing about me that has never once been wrong.”
 
-“You did it in two every night until the twenty-third and then you started doing it in three, and you have been getting worse at about the rate of one landing a fortnight,” said Tessa Okonkwo, “and I have been counting the landings the same way I count everything.”
+“You have been doing it in two since the middle of October and you are wrong about it,” said Tessa Okonkwo. “You did it in two every night until the twenty-third and you started doing it in three on the twenty-fourth, and you have been two landings worse in seven days, and I have been counting the landings the same way I count everything.”
 
 She went down the ward and came back. “I did not tell you, because if I had told you in October you would have come up here on the twenty-eighth and asked me to put something back, and there is nothing to put back. I would rather you arrive at it slowly than be handed it.”
 
@@ -114,7 +114,7 @@ She sat down on the chair and put her hands in her lap and looked at him for abo
 
 “It is not a kindness and it is not a way of letting you down,” she said. “I will put a hand on your chest and I will tell you the date you started going slower, which is about the twenty-first of June.”
 
-She put her hand where she said she would put it. “And I will tell you that a yard of about eleven thousand people took a line off a board on the seventh of July and that you have been on a hill every day since, and that the twenty-fourth of September and the twelfth of October and the twenty-first of October were the three worst days you have had, and you went up a hill on all three.”
+She put her hand where she said she would put it. “And I will tell you that about nine hundred people took the fourth of four off a board in that yard on the seventh of July and that you have been on a hill every day since, and that the twenty-fourth of September and the twelfth of October and the twenty-first of October were the three worst days you have had, and you went up a hill on all three.”
 
 She put her palm on his chest, the way a woman checks a thing she already has the answer to.
 
@@ -162,7 +162,7 @@ Four hundred days, on a board in a drawer in a ward, in eleven columns with a he
 
 Three floors of washrooms, four nights a week, a bin room at eleven and not at half past, a stair at one in the morning, a woman on a landing with a bundle of returns under her arm, and a page going out at four on the thirtieth of every month of the year.
 
-One morning in the ninth month of the year on a hill at four in the afternoon in front of about eleven thousand people, with a figure on a board that was not what they thought it was.
+One morning in the ninth month of the year on a hill at four in the afternoon in front of a yard that held more people than anybody standing in it could count, with a figure on a board that was not what they thought it was.
 
 Two floors of stairs on the fourth of March at ten past ten in the morning, alone, and nobody at the top of them.
 
@@ -172,13 +172,11 @@ That is what it bought and it is a real list and every item on it was worth more
 
 At about half past five he walked the length of the city and stood at the foot of the ranks wall.
 
-The paint at the north end was about three weeks old and had gone over the two words again, and they were there.
+The corner was empty. The board by the kerb was not there and the month’s form was not up yet, and about nine people went past in the time it took him to get his coat open.
 
-It has gone over them every month for six years and it does not take on four inches of dressed stone at the foot of the lowest course. A woman cleans those four inches every morning with a broom with a short handle, and in six years she has said one sentence about them to one person and she has not said another.
+Four inches of dressed stone at the foot of the lowest course, and the paint has gone over them every month for six years and does not take on them. A woman cleans those four inches every morning with a broom with a short handle, and in six years she has said one sentence about them to one person and she has not said another.
 
-There was nobody at the corner. The form for the month was not up and the board by the kerb was not there and the corner had about nine people in it going past.
-
-He stood about nine feet off and looked at four inches of stone under a wall about nine thousand people went under on an ordinary morning, because it is an ordinary morning and the trams go under it.
+He stood about nine feet off and looked at them, and the cold came through the coat and he could feel it in the four inches as if it were his.
 
 And he understood the whole of what was coming in the spring in about nine seconds, standing in the cold, on the last working day of a month, with nothing in him that would carry him up a hill.
 

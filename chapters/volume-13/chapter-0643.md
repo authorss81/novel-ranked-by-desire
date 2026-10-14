@@ -24,7 +24,7 @@ She finished the line she was on, wrote the hour against it, drew the sheet up s
 
 “Tell me the question and not the history.”
 
-He had it ready and it had been ready for two hundred and fifty-two days and it had been in four rooms and in a corridor with nine people in it and on a hill at four in the afternoon and in nobody’s mouth but his own.
+He had it ready and it had been ready for two thousand and forty-eight days and it had been in four rooms and in a corridor with nine people in it and on a hill at four in the afternoon and in nobody’s mouth but his own.
 
 He said, “Is a sentence in the office’s hand still true after the man who wrote it cannot stand behind it any more.”
 
@@ -112,7 +112,7 @@ She did not move her finger.
 
 She put her finger on the third sentence at the foot.
 
-“It says that any number a person sets down in this city may be one they invented on purpose,” she said. “I read it out loud nine minutes ago. Every hour I have ever certified in eleven years sits underneath that sentence, and the sentence was printed by an office that cannot be compelled and cannot sue and cannot be sued, and it went out at four on the thirtieth, and about nine people a week get to the bottom of it.”
+“It is the third of the four, and what it does is take the value out of a figure until somebody checks it,” she said. “I read it out loud nine minutes ago. Every hour I have ever certified in eleven years sits underneath that sentence, and the sentence was printed by an office that cannot be compelled and cannot sue and cannot be sued, and it went out at four on the thirtieth, and nine people in this city get to the bottom of it in a week.”
 
 She kept her finger where it was. “If I stand in a room and say a number out loud and put my name to it, then this city has an hour in it that an auditor has vouched for, and in about four years somebody will take that number off a wall and it will mean something else, and they will be right to, and I will be the last person standing next to it.”
 
@@ -136,7 +136,7 @@ She turned the pencil over and did not pick it up.
 
 He looked at the table he was sitting on.
 
-It was the same height as the other one and the same width and it had nothing on it, and it had had nothing on it since the first of October of the third year, which is the day she came to audit this building and which is about eleven hundred and sixty days ago.
+It was the same height as the other one and the same width and it had nothing on it, and it had had nothing on it since the first of October of the third year, which is the day she came to audit this building and which is about eleven hundred and twenty-four days ago.
 
 “Why that one.”
 
@@ -236,7 +236,7 @@ He stood up off the empty table and got his coat off it and he was slower gettin
 
 “The twenty-fourth sheet goes out at four on the thirtieth of December,” she said. “It is day two thousand one hundred and twenty-nine.”
 
-“It has a figure at the head of it that has stood for eight quarters, and about four hundred and nineteen lines, and two in a column, and four sentences at the foot in a hand that is yours. About nine people a week will get to the bottom of it, and every one of them will have read the foot and not the rest.”
+“It has a figure at the head of it that has stood for eight quarters, and about four hundred and nineteen lines, and two in a column, and four sentences at the foot in a hand that is yours. Nine people in this city will get to the bottom of it in a week, and every one of them will have read the foot and not the rest.”
 
 She turned the pencil over and picked it up.
 

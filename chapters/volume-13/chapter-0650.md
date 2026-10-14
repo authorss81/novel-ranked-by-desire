@@ -24,7 +24,9 @@ Then the bundle went the other way into a room in that building that nobody in t
 
 ## Half Past Four At The Corner
 
-About two hundred people a day cannot walk past the foot of that wall without reading what is on it, and about nine hundred in this city can read everything there has ever been there, and there are four sheets of paper in about four hundred houses that are copies of two words on four inches of stone, made on the twenty-second of December by a boy with a scraper and a lump of chalk.
+About two hundred people a day stop at the foot of that wall, and about nine hundred in this city can read everything there has ever been there, and there are copies of two words on four inches of stone being made tonight in about nine houses in this city, out of a rubbing a boy took off the front of the wall on the twenty-second of December with a lump of chalk.
+
+Four hundred houses is what he said it would be in about a month, and he has never once in six years been any judge of anything.
 
 The boy put the sixty-third form up at about ten past four with a paste brush and his own weight against it and it went up level, and the two ruled squares at the foot of it were empty, and about nine people at the corner had been standing there waiting for it.
 
@@ -44,7 +46,7 @@ A man at the front said the words did not come from a form.
 
 “You cut them.”
 
-“I did not cut them. I have never once touched that stone and there is a woman comes past every morning with a short-handled broom who would tell you the same and she will not tell you anything at all, and I am not going to pretend to know who did it because I have never once asked and I have had about thirty-eight days to ask.”
+“I did not cut them. I have never once touched that stone and there is a woman comes past every morning with a short-handled broom who would tell you the same and she will not tell you anything at all, and I am not going to pretend to know who did it because I have never once asked and I have had about fifty-one days to ask.”
 
 “You could ask.”
 
@@ -52,7 +54,7 @@ A man at the front said the words did not come from a form.
 
 “Why.”
 
-“Because I have been standing in front of something for six weeks and then in front of nothing for thirty-eight days,” she said, “and a person who has been standing in front of nothing is not going to get a wall back by asking a stranger a question at half past four in the afternoon.”
+“Because I have been standing in front of something since the thirtieth of September and then in front of nothing for fifty-one days,” she said, “and a person who has been standing in front of nothing is not going to get a wall back by asking a stranger a question at half past four in the afternoon.”
 
 He said, “I have told about four hundred and ninety of them that a number meant one thing.”
 
@@ -70,7 +72,7 @@ A woman asked him whether the second one had always said that.
 
 He was correct about every part of it.
 
-“You have had that sentence said out loud to you by two men in two rooms since the ninth of November,” he said, “and it has been in the office’s hand for three years and it goes out four times a year, and about nine people a week get to the bottom of it.”
+“You have had that sentence said out loud to you by two men in two rooms since the ninth of November,” he said, “and it has been in the office’s hand for three years and it goes out four times a year, and nine people in this city get to the bottom of it in a week.”
 
 He put the rag in his coat and took it out again. “And there are about four hundred people standing at this corner tonight who have never read a page of anything in their lives, and who have got it out of a rubbing of two words that a boy did off a wall with a piece of chalk.”
 
@@ -86,9 +88,7 @@ A man at the wall end asked him what a warning was for.
 
 “The fourth of the four is the one that gets you the two words at the bottom of this wall,” said Emil Brack, “and it is the only one of the four that has ever got anybody anywhere.”
 
-“And the man who wrote it took it off a board himself, in a yard of about eleven thousand people, and did not tell anybody he had done it. I have been right about that for six weeks and I am right about it now, and he is standing nine feet off me with a rag in his hand that is not his.”
-
-Nobody thanked him.
+“And the man who wrote it took it off a board himself, in front of everybody in that yard who could read it, and did not tell anybody he had done it. I have been right about that for six weeks and I am right about it now, and he is standing nine feet off me with his hands in his pockets and he has not come up the hill to do anything at all.”
 
 “I have not been thanked for three years and I am not going to be tonight,” said Emil Brack, “and I have never once been right about a figure that was not mine.”
 
@@ -120,7 +120,9 @@ A sentence is a thing you can argue with.
 
 A figure is a thing you can only count, and about two hundred people a day in this city have been slowing down at this corner for six years with nothing at the bottom of it.
 
-What was put there in the eighth month of this year was a figure, and it took about eleven minutes for a yard of about eleven thousand people to turn it into a count of claims, and a man with a rag took down a correct sentence to make room for it. About nine hundred people watched him do it, and about four hundred people took the rest off nine weeks later without asking anybody.
+What was put there in the eighth month of this year was a figure, and it took about eleven minutes for a yard of about eleven thousand people to turn it into a count of claims, and a man with a rag and a bucket took down a correct sentence to make room for it.
+
+About nine hundred people watched him do it, and about nine hundred of them came back seven weeks and two days later for the other three and took them off in about nine hours without asking anybody.
 
 Tonight there is a sentence at that corner and about nine hundred people in the yard who can read all of it, and it has been wrong about two hundred times inside an hour and it will be a different sentence by the spring, and there is not one instrument in Ostara that will take any of it back down.
 
@@ -130,7 +132,7 @@ He stood nine feet off and let it happen, for the second time in about ninety da
 
 At about ten past six the corner had about two hundred people on it in the dark, and the boy was putting his brush down on the kerb.
 
-He came down the path with the rag in his hand and about nine people and stopped at about nine feet, because that is where you stop at that corner, everybody stops at about nine feet, and not one of them has ever worked out why and all of them do it.
+He came down the path with his hands in his pockets and about nine people and stopped at about nine feet, because that is where you stop at that corner, everybody stops at about nine feet, and not one of them has ever worked out why and all of them do it.
 
 He did not ask for anything.
 
@@ -142,7 +144,7 @@ The boy said, “You are going to ask me about the boxes.”
 
 “No.”
 
-“You are not going to ask me anything at all and that is the third time,” said the boy. “I want to tell you the thing I have worked out, and then I am going to go and wash this brush, because there is no water in this city after the fourth and I have been using a bucket since the middle of the month.”
+“You are not going to ask me anything at all and that is the third time,” said the boy. “I am going to tell you the thing I have worked out, and then I am going to take this brush and wash it, because there is no water in this city after the fourth and I have been using a bucket since the middle of the month.”
 
 “Say it.”
 
@@ -174,9 +176,9 @@ He turned back.
 
 He picked the brush up.
 
-“And in the ninth month of next year I am going to put sixty-fourth up on that corner,” said the boy, “and the left box is going to be empty and the right box is going to be empty.”
+“And in the ninth month of next year I am going to put the sixty-fourth up on that corner,” said the boy, “and the left box is going to be empty and the right box is going to be empty.”
 
-He stood with the brush against his knee. “That is going to be the sixtieth month that anybody in this city has stood at a corner and read two squares with nothing in them, and there is not one instrument in this city that will put a figure in that box. I am the man who paints it and I am not going to be able to put one in it either, and that is the whole of what I have.”
+He stood with the brush against his knee. “That is going to be the sixty-fourth month that anybody in this city has stood at a corner and read two squares with nothing in them, and there is not one instrument in this city that will put a figure in that box. I am the man who paints it and I am not going to be able to put one in it either, and that is the whole of what I have.”
 
 He went off down the path with the brush and the bucket and about four people who were not going to stop.
 
@@ -188,4 +190,4 @@ Nobody said anything about that either.
 
 *Less the twenty-first of February, one thousand eight hundred and twenty, is three hundred and nine days, which is ten months with nine days after them, and a form saying that the ranks wall comes down in the spring for making good, with one ruled box at the foot of it for the date the work was done, went in at a counter nine streets from that wall on the twenty-seventh of December under a number the size of a thumb-nail, on a spike with about nine hundred others, and there is not one field on it about four inches of dressed stone, and the man who carries it round has raised that twice and has been told that a question is a question and not a return.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is four hundred and eleven days, which is thirteen months with twenty-one days after them. It is the third of four sentences at the foot of a page and it goes out at four on the thirtieth, and a man in a delivery coat has stood at a wall end every morning since the thirteenth of July and read the reason for every figure he has out loud before he writes the first one, and has never been thanked and is not going to be, and about nine people a week get to the bottom of the page and about two thousand in a yard are getting to the bottom of something else.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is four hundred and eleven days, which is thirteen months with twenty-one days after them. It is the third of four sentences at the foot of a page and it goes out at four on the thirtieth, and a man in a delivery coat has stood at a wall end every morning since the thirteenth of July and read the reason for every figure he has out loud before he writes the first one, and has never been thanked and is not going to be, and nine people in this city get to the bottom of the page in a week and about two thousand in a yard are getting to the bottom of something else.*

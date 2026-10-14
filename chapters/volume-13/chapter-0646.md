@@ -1,6 +1,8 @@
 # A Figure She Kept Nine Years
 
-Seven days had gone since a man had stood about nine feet off a wall and understood that four inches of dressed stone at the foot of it were going to outlast everything else in his working life. Two thousand and ninety-nine was the thirtieth of November and the seventh of December is day two thousand one hundred and six, and two thousand one hundred and six less two thousand and ninety-nine is seven, and seven days less thirty is seven.
+Seven days had gone since a man had stood about nine feet off a wall and understood that four inches of dressed stone at the foot of it were going to outlast everything else in his working life.
+
+Two thousand and ninety-nine was the thirtieth of November and the seventh of December is day two thousand one hundred and six, and two thousand one hundred and six less two thousand and ninety-nine is seven, and a month runs out at the thirtieth, so a day seven after it is the seventh of the next month.
 
 There are two places in this city where a person who has been keeping something gets found out.
 
@@ -10,11 +12,11 @@ There was nothing on the shutter.
 
 ## The Yard With Nothing On It
 
-About two thousand people a day cannot walk past the foot of that wall without reading what is on it, and they have not been able to for about twenty-eight days, and they still slow down.
+About two thousand people a day go past the foot of that wall and every one of them has to slow down for it, and they have not been able to slow down for it for about twenty-eight days, and they still do.
 
 They slow down and there is nothing there and they go on. That is what about two thousand people a day have been doing since the ninth of November and not one of them has walked into a counter about it.
 
-The woman of about sixty was standing where the board with the figure on it had hung, with no rag in her hand and no chalk on her coat, because it had not been eleven days since there was anything on the wall for a rag or a piece of chalk to be any use on.
+The woman of about sixty was standing where the board with the figure on it had hung, with no rag in her hand and no chalk on her coat, because there had not been twenty-eight days since there was anything on that wall for a rag or a piece of chalk to be any use on.
 
 “You have not been up here,” she said.
 
@@ -180,8 +182,8 @@ She said it badly. She said it the way a person says a thing they have had in th
 
 *Two thousand one hundred and six days. Less two thousand and ninety-nine, the thirtieth of November, is seven. A month is thirty days and there is no thirty-first, and the last working day of it is the thirtieth.*
 
-*Less the thirtieth of September, two thousand and thirty-nine, is sixty-seven days, which is two months with seven days after them. The twenty-third sheet went out at four on that morning with eight hundred and fifty-two at the head of it and about four hundred and nineteen lines under it, and on the ninth of November three lines came off a board in about nine hours and on the tenth of December there is nothing at the foot of that shutter for two thousand people a day to slow down for, and they still slow down.*
+*Less the thirtieth of September, two thousand and thirty-nine, is sixty-seven days, which is two months with seven days after them. The twenty-third sheet went out at four on that morning with eight hundred and fifty-two at the head of it and about four hundred and nineteen lines under it, and on the ninth of November three lines came off a board in about nine hours, and there has been nothing at the foot of that shutter since for two thousand people a day to slow down for, and they still slow down.*
 
-*Less the thirtieth of December of the fifth year, one thousand seven hundred and sixty-nine, is three hundred and thirty-seven days, which is eleven months with seven days after them. A sheet goes out at four on that day and the twenty-fourth of them goes out in twenty-three days, and it has a hole in the foot of it with a name under it, and about nine people a week get to the bottom of it.*
+*Less the thirtieth of December of the fifth year, one thousand seven hundred and sixty-nine, is three hundred and thirty-seven days, which is eleven months with seven days after them. A sheet goes out at four on that day and the twenty-fourth of them goes out in twenty-three days, and it has a hole in the foot of it with a name under it, and nine people in this city get to the bottom of it in a week.*
 
-*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is three hundred and eighty-eight days, which is twelve months with twenty-eight days after them. The third of four sentences at the foot of that page says that any number a person sets down in this city may be one they invented on purpose, and it is signed with a name that is not his and has gone out at four on the thirtieth eleven times since.*
+*Less the ninth of November of the fifth year, one thousand seven hundred and eighteen, is three hundred and eighty-eight days, which is twelve months with twenty-eight days after them. The third of four sentences at the foot of that page is the one that takes the value out of a figure in this city until somebody checks it, and it is signed with a name that is not his and has gone out at four on the thirtieth eleven times since.*

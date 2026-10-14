@@ -6,7 +6,7 @@ Two thousand one hundred and fourteen was the fifteenth of December and the twen
 
 Eight days to the last working day of the month and a form to go up on it, and the corner was empty at ten in the morning of the twenty-second because the boy does not come until about eleven and does not paint in rain.
 
-It was not raining. It had been raining very fine and straight through since the seventh and it had stopped on the nineteenth and the air had gone hard and clear the way it does in this city for about four days in the eleventh month and is cold enough to feel on the back of the hand.
+It was not raining. It had been raining very fine and straight through since the seventh and it had stopped on the nineteenth and the air had gone hard and clear the way it does in this city for about four days in the twelfth month and is cold enough to feel on the back of the hand.
 
 ## The Boy And The Corner
 
@@ -116,7 +116,7 @@ He gave it to him.
 
 “Your father would have been right about the sheet and wrong about the wall,” said Lin Hao. “Give me that one.”
 
-He held the sheet out and did not take it back. “I am going to put a copy on the rail at the counter off a third court this afternoon and about nine people a week will see it, and there are about nine hundred people in that yard who can read what is on a shutter. The four-inch stone is going to be under a wall of new render in the spring, and this is the only copy of those two words that will not be under anything.”
+He held the sheet out and did not take it back. “I am going to put a copy on the rail at the counter off a third court this afternoon and about nine of them a week will see it, and there are about nine hundred people in that yard who can read what is on a shutter. The four-inch stone is going to be under a wall of new render in the spring, and this is the only copy of those two words that will not be under anything.”
 
 He handed the sheet back.
 
@@ -160,7 +160,7 @@ It was a quarter past four and the light had gone and there were about nine peop
 
 There were about nine sheets of paper at that corner by the time the light went, and nobody had told anybody to copy it.
 
-One of the four was a woman of about sixty who could not write her own name, and who had had it copied for her by a man she had known for forty years. She said out loud, to about nine people, that it was a rubbing, and that it had been made that afternoon by a boy with a scraper, and that the words on it had been under the paint since before she was married.
+One of the four was a woman of about fifty who could not write her own name, and who had had it copied for her by a man she had known for forty years. She said out loud, to about nine people, that it was a rubbing, and that it had been made that afternoon by a boy with a scraper, and that the words on it had been under the paint since before she was married.
 
 She said that to about nine people, in the wrong order, and about two of them wrote it down.
 

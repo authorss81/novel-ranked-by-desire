@@ -1,14 +1,16 @@
 # Four Names On A Folded Page
 
-Seven days had gone since a woman in a ward had opened a drawer and shown him a ruled board with eleven columns on it and eleven marks going down the one with his plate against the head of it. Two thousand and sixty-nine was the thirtieth of October and the seventh of November is day two thousand and seventy-six, and two thousand and seventy-six less two thousand and sixty-nine is seven, and seven days less thirty days is seven.
+Seven days had gone since a woman in a ward had opened a drawer and shown him a ruled board with eleven columns on it and eleven marks going down the one with his plate against the head of it.
 
-At eleven at night on the seventh of November the corridor off the branch had three women on it and a rota page on a nail.
+Two thousand and sixty-nine was the thirtieth of October and the seventh of November is day two thousand and seventy-six, and two thousand and seventy-six less two thousand and sixty-nine is seven, and a month runs out at the thirtieth, so a day seven after it is the seventh of the next month.
+
+At eleven at night on the seventh of November the corridor off the branch had three women on it and a page of hours gone up on a nail by the counter.
 
 The page was about the size of a folded hand. Four names on it, and the same four for six years, and the fifth line has never been filled, because a page about hours is a page about hours and not about anybody, and the only reason anybody ever read it out is that a man at rank one stood in front of a witness once and asked to be asked about when he was here.
 
-Petra Ilyin was at the counter with her book open and her pencil still in her hand, doing the thing she does between one and two, which is to rule a column for the morning’s sheets before she knows what is in them.
+Petra Ilyin had her book open at the counter with the pencil still in her hand, ruling a column for the morning’s sheets before she knows what is going to be in them, and she does that between one and two and had come up to it early because the stair was empty and the corridor was not.
 
-Isolde Marchetti was at the far end of the corridor, facing the wall, at the one counter nobody in this building looks at, and she has never once said what she is reading there and is not going to be asked.
+Isolde Marchetti was at the far end with her back to the corridor, at the one counter nobody in this building looks at, and she has never once told anybody what she reads there.
 
 Nadia Ferrous came down off the washroom stair with a bundle of sheets under her arm and stopped in the middle of the corridor with her weight on one foot, because a copy of that quarter’s page was lying open-side-up on the counter by the nail where it had been left.
 
@@ -106,7 +108,7 @@ She put the bundle down on the clear end of the counter and did not look at the 
 
 Nadia Ferrous spoke to her without turning round.
 
-“The page is face up for the ninth night and there is going to be a tenth, and I am not going to be the one who turns it over, and I have been waiting eleven days to ask somebody in this building a question about it and I have been waiting for you because you are the only person who reads all the way down.”
+“The page is face up for the ninth night and there is going to be a tenth, and I am not going to be the one who turns it over, and I have been waiting eight days to ask somebody in this building a question about it and I have been waiting for you because you are the only person who reads all the way down.”
 
 “What question.”
 
@@ -150,7 +152,7 @@ He said it.
 
 “Again,” she said.
 
-He said it again, at the same speed, with nothing improved, because that is the only way he has ever read anything, and a woman at the far end of the corridor put her book down for about four seconds and then picked it up.
+He said it again, at the same speed, with nothing improved, and that is the only way he has ever read anything, and a woman at the far end of the corridor put her book down for about four seconds and then picked it up.
 
 “You did that for me,” said Isolde Marchetti, still not turning round.
 

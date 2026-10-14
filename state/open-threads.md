@@ -1,4 +1,4 @@
-# VOLUME 13 BATCH 0005 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS. **CHAPTERS 641–650 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **650** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT INHERITS THE RECORDED §5c DISCREPANCY OF BATCH 0004 RATHER THAN PROPAGATING EITHER SET OF DATES. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE AND ZERO IN ITS TITLE LINES. THE ONE NEXT PHASE IS A VOLUME CLOSE FOR VOLUME 13, WHICH IS A SEPARATE PHASE, AND `state/complete.md` IS NOT CREATED HERE.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 13 BATCH 0005 HAS BEEN WRITTEN AND THE GATE BELOW WAS RUN BY COMMAND IN THE SAME COMMIT, THEN RUN AGAIN AFTER THE DUPLICATION REPAIRS, **AND RUN A THIRD TIME BY THE 14 OCTOBER 2026 REVIEW-FIX, WHICH FOUND THREE ROWS OF IT FALSE AGAINST THE PAGE AND REPAIRED THEM.** **CHAPTERS 641–650 ARE ON DISK. EVERY VOLUME-WIDE ROW WAS TAKEN OVER EVERY FILE ON DISK — `find chapters -name 'chapter-*.md' | wc -l` IS **650** — AND NOT ACROSS ONE BATCH. THE SPINE WAS RE-DERIVED AGAINST THIRTY ANCHORS BY TWO METHODS THAT SHARE NO CONSTANT AND IS MONOTONIC AT ZERO VIOLATIONS, AND IT INHERITS THE RECORDED §5c DISCREPANCY OF BATCH 0004 RATHER THAN PROPAGATING EITHER SET OF DATES. THE HOUSE FORM IS CURLY AND THE BATCH ADDED ZERO STRAIGHT GLYPHS IN PROSE AND ZERO IN ITS TITLE LINES. THE ONE NEXT PHASE IS A VOLUME CLOSE FOR VOLUME 13, WHICH IS A SEPARATE PHASE, AND IT NOW EXISTS: `workspace/volume-13/volume-close/PROMPT.md`, WRITTEN BY THE 14 OCTOBER 2026 REVIEW-FIX. `state/complete.md` IS NOT CREATED HERE.** THIS IS THE LIVE GATE BLOCK. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0. WHAT BATCH 0005 ADDED TO THIS GATE, AND WHY EACH ROW EXISTS
 
@@ -10,6 +10,8 @@
 
 **ROW 16 · A SPINE DISCREPANCY IS INHERITED BY NOT BEING PROPAGATED.** `outline/volume-13.md` §5c still carries batch 0004's five middle dates a day later than the page. **This batch reproduced neither set, edited §5c not at all, and re-derived 641–650 independently against thirty anchors.** The lesson is the one §5b already prints about methods that share a convention: a discrepancy that is copied forward stops being a finding and becomes a rule.
 
+**ROW 17 · A GATE ROW THAT SAYS ZERO IS A CLAIM ABOUT THE PAGE, AND A CLAIM WRITTEN BY THE SAME PASS THAT WROTE THE PAGE IS NOT EVIDENCE. THIS ROW EXISTS BECAUSE THREE ROWS OF THE BLOCK BELOW WERE FALSE WHEN A REVIEWER RAN THEM FROM OUTSIDE.** `AGES -> 0` stood over three announced ages. `DUPLICATION` reported sixty-seven pairs, repaired fifteen, and left seventeen hits standing that were prose. `ARITHMETIC` reported ninety-two intervals re-derived one at a time with two failures, and thirteen more were on the page. **AND THE WALL'S HEADCOUNT WAS REPRINTED AT 645 UNDER A ROW THAT SAID IT WAS PRINTED AT 605 ONLY.** **THIS IS THE THIRD PHASE IN A ROW IN WHICH THE SAME DEFECT HAS APPEARED — VOLUME 12'S CLOSE FOUND A SCENE-MEASUREMENT TABLE WITH TWO WRONG CELLS AND BOTH ROW LABELS MIS-MAPPED, AND BATCH 0004'S REVIEW FOUND A WORD COUNT WRONG BY ONE WORD IN THREE FILES. A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THE FIX IS NEVER TO ADD A ROW. IT IS TO RUN EVERY ROW FROM A PROCESS THAT DID NOT WRITE IT.**
+
 ## 0a. THE GATE, RE-RUN BY COMMAND
 
 ```
@@ -17,14 +19,17 @@ FILES            10 files, 641-650. `find chapters -name 'chapter-*.md' | wc -l`
                  One `# ` title line in every file. All ten end 0a. 62 `## ` headings, 62 unique.
 TITLES           `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 ACROSS ALL 650.
                  The ten match `outline/volume-13.md` §10, 10 of 10. No written chapter changed.
-BANK             counted per file and summed: 2,987 · 2,875 · 4,373 · 3,243 · 3,134 · 2,798 ·
-                 3,158 · 3,193 · 3,035 · 3,325. TOTAL 32,121. MEAN 3,212.1.
+BANK             counted per file and summed: 2,998 · 2,902 · 4,383 · 3,237 · 3,135 · 2,819 ·
+                 3,201 · 3,194 · 3,038 · 3,387. TOTAL 32,294. MEAN 3,229.4.
+                 **RE-RUN BY COMMAND BY THE 14 OCTOBER 2026 REVIEW-FIX. THE FIGURES ABOVE THIS
+                 LINE ARE THE STALE ONES AND THEY ARE LEFT VISIBLE ON PURPOSE.**
                  0 below the 1,800 floor. ALL TEN above the 2,700 ceiling, each with a stated
                  reason at `state/current.md` §0a: 643 is the scene and is exempt by rule, and
-                 the other nine are 98 to 625 words over because the density repair converted
+                 the other nine are 114 to 696 words over because the density repair converted
                  narration into exchanges. None is padded.
 DENSITY          quoted spans 70 · 66 · 99 · 64 · 69 · 66 · 84 · 66 · 67 · 62 = 713, mean 71.3.
-                 paragraphs 79 · 78 · 116 · 94 · 88 · 82 · 94 · 94 · 82 · 87 = 894, mean 89.4.
+                 paragraphs 79 · 79 · 116 · 94 · 87 · 83 · 94 · 94 · 82 · 88 = 896, mean 89.6.
+                 **RE-RUN AFTER THE REPAIR: three paragraphs split, one deleted, spans unchanged.**
                  Batch 0001 ran 44.7 and 63.9; batch 0002 ran 60.5 and 69.8; batch 0003 ran
                  71.1 and 76.8; batch 0004 ran 71.1 and 81.5. **Spans held exactly. Paragraphs
                  are seven and nine tenths up. THE FIRST DRAFT OF THIS BATCH WAS 54.8 AND 76.2,
@@ -38,14 +43,31 @@ META             the class grep incl. `manuscript` and `opposition` -> 0 across 
 WEEKNAMES        seven names, whole-word and stem, -> 0. The first draft carried three Tuesdays,
                  two Mondays and a Thursday and all six became dates or nights of the month.
 AGES             eleven probe forms, `aged`, spelled-out ages, `year [0-9]`, old man/woman/boy/
-                 girl, years-old, he-is-a-number -> 0. The first draft had Yusuf Adeyemi give an
-                 age and it is now a duration.
+                 girl, years-old, he-is-a-number -> **0 AFTER THE 14 OCTOBER 2026 REPAIR AND NOT 0
+                 BEFORE IT.** `logs/batch-0005.review.log` found THREE ANNOUNCED AGES ON THE PAGE
+                 AGAINST THIS ZERO: `647`:195 *I am forty-one and I have a ledger*; `647`:99
+                 *forty-four years declining to answer*; `649`:119 *a boy of sixteen standing at a
+                 bench*. **THE PHASE THAT WROTE THE BATCH HAD ALREADY CHANGED ONE AGE IN ONE PLACE
+                 AND LEFT FOUR OTHERS ALONE. ALL THREE ARE NOW DURATIONS OR ARE DELETED.**
+                 **THIS IS THE THIRD TIME THIS REPOSITORY HAS HAD A PASS FIX A FIGURE WHERE IT
+                 LOOKED AND NOT WHERE IT WAS, AND IT IS THE REASON THE CLOSE IS TOLD TO RE-DERIVE
+                 EVERY ROW FROM OUTSIDE THE PASS THAT WROTE IT.**
 ARITHMETIC       30 anchors re-derived by two methods sharing no constant. 30 agree. 0 monotonic
                  violations. Intervals 7+8+8+7+7+8+7+5+3 = 60 = 2,129 - 2,069. Seam 9.
                  The January exception printed and applied to both methods, and the wrong
                  convention printed beside it because it puts 601 at 2,133.
                  *** NINETY-TWO PRINTED INTERVALS WERE RE-DERIVED ONE AT A TIME. TWO FAILED AND
                  BOTH ARE REPAIRED; see `state/continuity.md` §0r. ***
+                 *** THE 14 OCTOBER 2026 REVIEW FOUND THIRTEEN MORE, EIGHT OF THEM INSIDE THE PROSE
+                 AND NOT IN A FOOTER, AND ALL THIRTEEN ARE REPAIRED: 643 printed 2,052 days for
+                 2,048 and 1,160 for 1,124; 649 said nine months for 306 days in five places and
+                 called December the ninth month; 650 said thirty-eight days for 51 and four hundred
+                 people for nine hundred and nine weeks for seven weeks and two days and the
+                 sixtieth month for the sixty-fourth; 648 called the twenty-second of December the
+                 eleventh month; 647 said the first of January for a sheet that goes out on the
+                 thirtieth of a month that has no thirty-first; 645 contradicted itself about a
+                 stair; 641 gave one mark on a board three different dates; and 645 reprinted the
+                 wall's headcount, which the row below this one says was never reprinted. ***
                  *** THE SPINE DISCREPANCY AGAINST §5c IS INHERITED AND NOT PROPAGATED. ***
                  *** 2,047 IS THIRTEEN DAYS BEHIND 640 AND TWENTY-TWO DAYS BEFORE 641, FELL
                  INSIDE THE TWELVE-DAY GAP BETWEEN 638 AND 639, AND NO CHAPTER OF 641-650 LANDS
@@ -55,6 +77,10 @@ RT / BODIES      right temple 0 book-wide. cuticle 4 files book-wide, unchanged.
                  A hand flat on a table: 0 across all ten.
 REPETITION       there is no form 0 · nobody asked 0 · nobody has 1 · nobody/no one all-case 38 ·
                  the record remained 0. Batch 0004's closing row was 1 · 0 · 6 · 47 · 0.
+                 **TWO ROWS THIS BLOCK NEVER MEASURED HAD BEEN RUNNING THE OTHER WAY. `nine people
+                 a week` WAS 17 ACROSS THE TEN FILES AGAINST 10 IN THE PREVIOUS BATCH AND IS NOW
+                 **3**; `eleven thousand` WAS 11 AGAINST 8 AND IS NOW **5**.
+                 `chapter-0650.md` ALSO PRINTED *Nobody thanked him.* TWICE, SEVENTEEN LINES APART.**
                  **EVERY ONE IS LEVEL OR DOWN AND THE SLOGAN IS AT ZERO FOR THE FIRST TIME IN
                  THE VOLUME. THE FIRST DRAFT WAS 4 · 1 · 13 · 54.**
 MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk markers even.
@@ -64,11 +90,14 @@ MARKDOWN         blockquotes 0. tables 0. rules 0. fences 0. bold 0. asterisk ma
                  the row recorded at 640 exactly.
 SYSTEM PANELS    0 in ten. Volume budget five, none spent.
 SCENE            643 measured three ways from disk with the line span printed beside every cell:
-                 eight `##` at lines 15, 49, 73, 99, 123, 135, 153, 217; 256 lines.
-                 (A) first ## to last ## exclusive, 16-216, 3,215; inclusive, 15-217, 3,220.
+                 eight `##` at lines 15, 49, 73, 99, 123, 135, 153, 217; **257** lines.
+                 (A) first ## to last ## exclusive, 16-216, **3,222**; inclusive, 15-217, **3,227**.
                  (B) the scene section inclusive, 135-216, 1,491 (exclusive 136-216, 1,487).
-                 (C) exclusive through to end of file, 16-256, 3,973; to the last prose line,
-                 16-249, 3,757. Whole file 4,304.
+                 (C) exclusive through to end of file, 16-257, **4,052**; to the last prose line,
+                 16-250, **3,767**. Whole file **4,383**.
+                 **RE-MEASURED BY THE 14 OCTOBER 2026 REVIEW-FIX. FOUR OF THE SIX FIGURES ABOVE
+                 WERE STALE AND THE WHOLE-FILE CELL OF 4,304 CONTRADICTED THE BANK ROW'S 4,373 FOR
+                 THE SAME FILE.**
                  Set B at word boundary across all ten: 0, and 0 in 643.
                  Parity: 603 returns cock 1, 623 and 633 return 0.
 DUPLICATION      12-gram FIRST against all 640 other chapters, body-only, headings and italic
@@ -76,6 +105,13 @@ DUPLICATION      12-gram FIRST against all 640 other chapters, body-only, headin
                  hand. **FIRST PASS 67 CROSS-FILE PAIRS; FIFTEEN CLASSES WERE PROSE OR STAGING
                  AND WERE REWRITTEN; the worst of them is 643 against 584 at 174 grams, now 33,
                  and all 33 are canon.** Full classification at `state/current.md` §0r.
+                 **THE REVIEW RE-RAN THE SCAN AND FOUND SEVENTEEN OF THE SURVIVING HITS WERE PROSE
+                 AFTER ALL: a woman's own clause lifted out of 637 and set down again in 644 as her
+                 opening line, a counterman lifted from 605 into 642, 605's north end lifted into
+                 645, a wall-figure sentence lifted into 646 and 650, the third condition quoted
+                 again at 647, and five stagings out of 638 and 640. ALL REWRITTEN. THE SCAN NOW
+                 RETURNS 45 PAIRS AGAINST 67, AND EVERY ONE OF THE 45 IS IN ONE OF FIVE CLASSES THE
+                 BOOK USES BY DESIGN.**
 ```
 
 ## 0b. WHAT THIS BATCH CLOSED, AND WHAT IT MAY NOT CLOSE AGAIN
@@ -110,7 +146,8 @@ Either repainting box filled, for ever · the figure of the account printed · `
 SPENT, MAY NOT BE PRINTED AGAIN IN VOLUME 13
   the lane's mornings     printed at 609, 614 and 626. 631-640 printed none. 641-650 print none.
   the office's age        printed at 601, 614, 626 and 638. IT IS SPENT FOR THE VOLUME.
-  the wall's headcount    printed at 605 only, with its reason.
+  the wall's headcount    printed at 605 only, with its reason. **AND IT WAS REPRINTED AT
+                       645 UNTIL THE 14 OCTOBER 2026 REVIEW-FIX TOOK IT OUT.**
   the four hundreds       printed nowhere and derivable nowhere in 601-650. The thirty-one bare
                           `four hundred` strings in 641-650 are ordinary quantities — four
                           hundred days, four hundred and nineteen lines, four hundred people,
