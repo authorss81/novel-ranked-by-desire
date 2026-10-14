@@ -1,3 +1,208 @@
+# VOLUME 11 BATCH 0004 — CHAPTERS 531–540 ARE ON DISK, TEN FINISHED FILES, 21,482 WORDS. THE FIRST OF OCTOBER OF YEAR THREE TO THE FIRST OF JULY OF YEAR FOUR. **WRITTEN 14 OCTOBER 2026. MOVEMENT FOUR, SWEPT. EVERY FIGURE IN THIS BLOCK WAS RE-RUN BY COMMAND AFTER THE LAST EDIT TO THE PROSE AND IS THE FIGURE THAT COMMAND ACTUALLY RETURNED. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+> **A WRITING PHASE. IT WROTE TEN CHAPTERS, FOUR STATE FILES AND NO PROSE THAT IS NOT A CHAPTER. IT CREATED NO NEXT PHASE, NO NEW OUTLINE FILE AND NO NEW BATCH DIRECTORY, BECAUSE §9 OF ITS OWN PROMPT SAYS THE NEXT PHASE IS THE CONTROLLER'S.**
+
+## WHAT THIS BATCH DID, IN TEN LINES
+
+1. **531, THE FIRST OF OCTOBER — FOUR HOURS AT THE HEAD OF A LANE AND NO GRAIN PAID.** The slate has about two hundred and ten mornings of a figure on it and about a hundred and sixty people walk past it. At about a quarter past seven a woman called Hester Vane, who keeps four rooms four streets off, put nine grains on a stool and gave nine names, and Brack wrote them in and asked her no question about any of the nine. **NOT ONE OF THE NINE KNEW THEY WERE GOING TO BE COUNTED, and that is the cost of being counted by somebody who believes in it.** One of them is **Nell Ardin**, who mends for that house and is owed about eleven days for the month that ended on the thirtieth of September and has asked once. **WHAT CHANGES: the figure is not a reading, it is a sum, and a sum goes up by whatever anybody puts into it, and whether the person in the line has done anything is not an input.** Brack's answer to what happens to a person who is on a figure is that for four hours the only instrument in this city that believes in anything had a woman in it who had been owed eleven days, and being in it and having done a thing looked exactly the same. The lane is **one thousand and seventy-nine mornings** old, two days short of a fifth anniversary, printed with its operands, and it is the **first of two** lane ages in this batch.
+2. **532, THE THIRTIETH OF OCTOBER — COME BACK WITH A WITNESS, AND THE FINDING THAT HIS COUNTER IS THE LAW.** **MARGIT ROON** at a town-hall counter off Cordwain, who wrote *there is a second instrument in Ostara* in her own hand at a counter in the first year. Nell Ardin is refused eleven days of mending because a counter that pays a claim on one person's word is a counter any person in this city can use against any householder, and **the rule is a good one and is older than the building.** **WHAT CHANGES, AND IT IS THE FIRST TIME IN THIS BATCH THAT THE SECOND INSTRUMENT AND THE FIRST ONE ARE PUT IN ONE SENTENCE BY A PERSON WHO IS NOT HIM**, and he is not in the room when it is said. He came to find out what his own sentence had done to that counter and it had done nothing, because **the third condition he wrote in a kitchen is this counter's rule, and his Register is the same counter with a narrower door and no money in it.** Twenty-nine days from the first of October.
+3. **533, THE TWENTY-NINTH OF NOVEMBER — A ROOM TAKES ANYTHING, AND THE WOMAN OF NUMBER FOUR IS NOT THERE.** **CORVIN ASHBY** comes back with the lease of number four and a rent board with a table, three chairs, a stove and no power at all except to make a finding, and **a finding is what a landlord shows when he refuses rooms.** The woman was in number four for nine years and **cannot read**, and she can count money better than anybody and did the sum on her fingers at the end of every month and knew she was short before the demand came. **ASHBY OFFERS HIS OWN DEFENCE AND IT IS WRITTEN DOWN AND IT DOES NOT MATTER:** a man in a delivery coat chalks those figures and says he makes them up, and the board writes it down, because the lease is signed and nobody has asked the board whether the figure is right. **WHAT CHANGES: a figure that cannot be checked is used where it does harm, which is what figures are for — and the harm is not eviction, it is that her name is now in a book every landlord in that district uses.** A book with a finding a day in it, and some days two, for eleven years, and the man who keeps it refuses to count it and is right to. **Emil Brack is not the villain, is not diminished, is not a criminal, and is right about every fact in this chapter.**
+4. **534, THE THIRTIETH OF DECEMBER, QUARTER-END — ENTERED: THIRTY-FOUR, THE SAME FIGURE AS THE THIRTIETH OF SEPTEMBER.** **Twelfth sheet. Ninety days, three months of thirty, and nothing at all entered in any of them, which is the first time in three years a whole quarter has gone by with the figure standing exactly where it stood.** The ratchet went from nine hundred and forty to **one thousand and sixty-nine**, which is a hundred and twenty-nine at forty-three a month, and a hundred and twenty-nine people came past a door and not one thing came in. **THE REASON IS THE SENTENCE OF THE THIRTIETH OF SEPTEMBER:** a man with a deed in his coat walks to the end of the corridor, reads *entered: thirty-four*, concludes the page is a list of people who did something, will not be the thirty-fifth, and goes home. **THE OFFICE'S OWN LIMIT HAS BECOME A THING PEOPLE CAN SEE THEMSELVES INSIDE OF.** The clerk says out loud, once, in a corridor, that a clerk would not have made it shorter either, and four people in that building may tell you a clerk refused it and that is not what happened. **Agnete Lindqvist did not come, did not write and did not speak about it in the yard. The third column of the notebook, *came and said nothing at all*, is the largest of the three and it is used here and it was used at 528.** He writes down the first want he has written in four years and says it is the wrong thing to have written and leaves it.
+5. **535, THE TWENTY-EIGHTH OF JANUARY — THE NINE, AND THE RULE CARRIED AND NAMED BY NOBODY.** A division of nine in a room over a chandler's off Ferrier Street, the first round out at five. **NINE NAMES, GIVEN ONCE AND USED AGAIN AT 536 AND 537: Ilma Reese, Coen Ardry, Tenna Vole, Sef Ossick, Marget Halle, Duri Peck, Annis Cray, Toller Vine, and Beatrix Halm.** The rule is shown and not stated: a man wants a line left out of a page, is refused, puts it in in the position it happened, and the woman he wrote it about comes to the room nine days afterwards and never speaks to her again. **ABOUT NINE HUNDRED DOORS**, in a district that is neither of theirs, because a street you walk stops being a street you walk after about four years. **WHAT SHE ASKS FOR IS A STRAIGHT SENTENCE ABOUT WHAT THE OFFICE DOES WITH A RETURN, and he gives it to her before she has asked, and she calls that cheap.** What she does not give him is anything else, and she says: *ask me somewhere I can hear you.*
+6. **536, THE TWENTIETH OF FEBRUARY — THE ROOF OVER THE CAR SHED OFF FERRIER STREET. THE SCENE, AND IT IS BEATRIX HALM'S, AND IT IS THE FOURTH OF THE VOLUME'S FIVE.** **THE AXIS BROKEN IS THE TERMS, CARRIED BY A DIVISION'S RULE AND NAMED BY NOBODY, AND THE TERMS ARE NEVER STATED ON THE PAGE.** What is staged instead: the wind that comes over a shed roof in one push rather than in gusts, the deaf ear kept to the weather, the nine names off the top of her head, and **one line off a return read out loud**, which is about this roof and about a woman crying on it and about a division that could not hear her over the line and did not go over. **SHE ASKS HIM FOR IT AND IT IS THE FIRST TIME IN THIS BOOK THAT ANYBODY HAS ASKED HIM FOR ANYTHING, and he asks her anyway after she has told him what nine hundred doors will turn into.** There is no counted minute, no chart, no arm turned up, no kettle, no list, no cot and no screen on wheels. **HE SPENDS HER, and she says so afterwards, and he cannot write any of it down and she tells him he will not be able to and she is right.** The arrangement is never described to either of them.
+7. **537, THE THIRTIETH OF MARCH, QUARTER-END — THE SWEEP GOES OUT. THE BATCH'S IRREVERSIBLE DECISION, AND IT IS HIS.** **Four lines, a date and his own name, in a hand that is not the office's, on the bottom of a piece of a bin-room tally board, at four in the morning.** *I ask for a round. One division. Nine hundred doors, once, in a district that is not mine, reading what people did that was never written down and had been read by nobody.* **The second line of it is the sentence a doctor asked a clerk to say in a room off a ward, and he had it in a drawer for a year and a half, and he had printed it on a sheet on the thirtieth of September and it had cost him a quarter of a counter, and he put it in anyway.** Adeyemi's finding is the mechanism of the irreversibility: **there is nobody in that building who can turn it down, because the man who wrote it is the whole instrument of the office, and the office has no instrument.** Nine people go out at five. **THE FORTY DAYS FROM THE TWENTIETH OF FEBRUARY ARE ON THE PAGE WITH THEIR OPERANDS AND HE DID NOT SPEND ONE OF THEM: he did not walk the two flights to that ward, and he writes *I had forty days and I did not spend them* in nine words.** **WHAT IT CLOSES: the option of being a man nobody looks for. WHAT IT COSTS: the knocker, and the fact that nine hundred doors produce about nine hundred people somebody has decided was owed something, and finding them is not the same as owing them.** Thirteenth sheet, *entered: thirty-nine*, five more than the thirtieth of December, nineteen people in ninety days against a hundred and twenty-nine at the door. The lane is **one thousand two hundred and fifty-eight mornings** old, printed with its operands — the second and last lane age in this batch. He ends the notebook on nine divisions, because a division that has to carry a line goes and finds out what the line is about, and he asked for one.
+8. **538, THE TWENTY-FOURTH OF APRIL — FOUR HUNDRED ON THREE PAGES, READ STRAIGHT THROUGH, AND NINETEEN HE ASKED HER TO GO AND FETCH.** Not one figure on the four hundred, not one of them his, a time beside every one, and **he did not turn one of them round to see what was on the other side of it.** He asks for nineteen off another district because he wants to know whether a round says the same thing in a street it has never walked, and she tells him the answer in advance and fetches them anyway, and **the name that goes with the asking is his.** **THE NINETEENTH IS A MAN CARRYING A CHAIR UP AN OUTSIDE STAIR EVERY MORNING FOR ABOUT ELEVEN WEEKS AND NOT KNOCKING, and nobody — including the round and including him — knows what it is for, and no word on that sheet can be attached to a name.** **WHAT CHANGES: he has begun, without noticing, to go and get people, which is the one thing he stood at a counter for four years not doing.** Four hundred and nineteen in one small level hand.
+9. **539, THE THIRTIETH OF JUNE, QUARTER-END — ONE ROOM, ONE MAN WHO CANNOT REFUSE HIM AND DOES NOT.** **HALVARD SENN**, officer of a Bureau division, nineteen years in it, **could not refuse the office and did not refuse it, and asks for both halves of that to be on Lin Hao's side of the table before anything else is said.** Ninety days, nine divisions of nine, about eighty-one people, about nine hundred doors. **WHAT ASKING FOR IT WAS, FROM INSIDE THE MACHINE, AND IT IS NOT THE FINDING: IT IS THE KNOCK — on the ninth of April a division knocked at a door and a woman who had lived there about nine years said nobody had ever knocked at that door, and nine days later there were four people on the landing, because a street is about four seconds long and a stranger on a step is the only news anybody has had in nine years.** A return no classification in this city covers has to be carried by the officer of the division, in a satchel, for ninety days, about nine hundred pages, and he can give none of it to a clerk or a shelf. **LIN HAO GETS THREE ANSWERS AND IS REFUSED ALL THREE, and is not forgiven, is not accused, and cannot parry, because Senn came not to be answered.** **THE SHEET: *entered: eight hundred and forty-one*, thirty-nine on the thirtieth of March, on one page in one hand under one heading, meaning two opposite things, and the second column headed *carried by* is empty for the fourth consecutive quarter and has not done one day's work in the four years it has been on that sheet.**
+10. **540, THE FIRST OF JULY — THE WARD, AND A BODY IN A BED, AND THE SENTENCE READ OUT BY A DOCTOR WHO IS NOT GRATEFUL FOR IT.** The arithmetic done on the stair and done twice: **a third of eight hundred and forty-one is two hundred and eighty, which is how many of them are on tables in this city tonight, and a fifth is a hundred and sixty-eight, which is how many cannot place a day at all.** **MAVIS ROOKE**, a woman of nine days in the room off the ward who dug a street for six years in the cold, was never paid, and thought for about two years that a figure off a slate was about her; a division came to her door on the fourteenth of April and came back three more times because she asked them to, and **a thing she said out loud to four strangers went about half an inch further down each time, and she is now past where a doctor can hold her at a fortieth.** He says the sentence is the truest thing the office has ever printed. **She says there is nothing written down about me. The doctor says there is nothing written down about you. The woman says then I have nothing, and he does not correct her, and the doctor does not correct her either, and that is about four seconds long and it is the whole of the price.** The doctor is not grateful for it and says so to him and not to the bed. **Nothing is cured and nothing is paid back**, and the chapter ends on a want he cannot satisfy and a date ninety-nine days out.
+
+## THE IRREVERSIBLE DECISION THIS BATCH OWES, AND IT IS 537, AND IT IS HIS
+
+**HE ASKS FOR THE SWEEP, IN WRITING, IN HIS OWN NAME, AT FOUR IN THE MORNING, ON THE BOTTOM OF A PIECE OF A BIN-ROOM TALLY BOARD, AND A CLERK ENTERS IT EXACTLY AS GIVEN.**
+
+**WHAT IT CLOSES:** the option of being a man nobody looks for. He has been unmeasured for four years and a man who is unmeasured is a man nobody comes for, and he cannot have both. He prints it on the page in his own notebook in the same entry: *A man that nobody looks for is a man nobody comes for, and I have been that man for four years.*
+
+**WHAT IT COSTS:** every person it finds is a person somebody has decided was owed something, and finding them is not the same as owing them; and a doctor in a ward off Cordwain told him those two figures in January of the second year; and he had forty days between the roof and the thirtieth of March and did not spend one of them; and the knock makes about nine hundred people visible to about four neighbours each; and there is not one instrument in this city that can stop it and not one that will stop him. **He cannot afterwards be a person who put a sentence under a wall and then counted the city from behind a door, and 537 says so.**
+
+## THE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES        `ls chapters/*/chapter-*.md | wc -l` -> 540. `ls chapters/volume-11/*.md | wc -l` -> 40,
+             numbered 501..540 with no gap. Every one of the ten carries exactly one `# ` title line
+             and ends 0a (`tail -c1 FILE | xxd -p`).
+TITLES       `grep -rh "^# " chapters/ | sort | uniq -d | wc -l` -> 0 across all 540 files.
+             The ten match `outline/volume-11.md` §10 BY WHOLE-LINE STRING, ten of ten, re-run after
+             the last edit. `What The Church Did Not Bring` breaks §10's own no-*What* convention on
+             purpose and for a stated reason: the chapter's argument is that the one organised body in
+             this city failed to bring anything, and a title that names the party that failed is the
+             only one of the ten that is not a summary of a scene.
+BANK         **21,482 WORDS ACROSS TEN FILES, COUNTED PER FILE AND SUMMED AFTER THE LAST EDIT. NEVER cat *.md | wc -w.**
+                 531 2,062 · 532 1,964 · 533 2,019 · 534 2,089 · **536 2,782** · 535 1,877 · 537 2,204 ·
+                 538 2,111 · 539 2,167 · 540 2,207. **THE MEAN IS 2,148.**
+             **536 LEAVES THE 1,800–2,700 BAND BY 82 WORDS AND SAYS WHY: it is Volume 11's fourth scene,
+             the only scene in this batch, eleven chapters after 525 and seventy-one after Beatrix Halm's
+             own last scene, it carries the only explicit vocabulary in the batch, and it is written out
+             rather than implied because the axis it has to break is the terms and the only instrument
+             available for breaking them is the scene itself. NO OTHER CHAPTER IN THE BATCH LEAVES THE BAND.**
+META         **THE CLASS, NOT A PHRASE:** `[a-z]+ volumes | this book | this chapter | this volume | no chapter |
+             the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+`.
+             Swept across all ten files and read hit by hit. **ZERO HITS IN TEN FILES.**
+             **FOUR WERE WRITTEN AND ALL FOUR WERE REPAIRED:** *nine volumes* at 538's notebook line,
+             which named the containers; *this book* at 534's notebook line; *the second instrument and
+             first* at 532 is the instrument, not the container, and was kept; and 537's *nine divisions
+             turned into nine divisions of nine* is the Bureau's. `this book` never appears as a physical
+             book in Volume 11 and none was added.
+WEEKNAMES    Monday 0 · Tuesday 0 · Wednesday 0 · Thursday 0 · Friday 0 · Saturday 0 · Sunday 0 — all seven,
+             whole-word AND substring, across all ten files, all zero. **FOUR WERE WRITTEN AND ALL FOUR
+             WERE REPAIRED**, including a *Saturday* in 531's closing line and a *Monday* in 534's man's
+             two trips up a stair, and the same class was caught again inside 535's return line.
+AGES         **PART ONE — CHARACTERS WITH NO FIXED AGE: 0**, probed in six forms plus a bare `aged` sweep,
+             all zero. **HANNEKE RUIS IS NOT IN THIS BATCH AND IS GIVEN NOTHING. CORVIN ASHBY, ROSALIND
+             KECK, WENNA RAUT, MAVIS ROOKE, NELL ARDIN, SELMA — NOBODY — IS GIVEN NO AGE.** **PART TWO —
+             CHARACTERS WHOSE AGE IS FIXED: NONE IS PRINTED IN THESE TEN CHAPTERS.** **TWO FIXES WERE MADE
+             ON THE FIRST SWEEP AND BOTH ARE THE SAME ERROR:** Mavis Rooke at 540 was cut from *she is
+             forty-one* to what her hands look like, and Tenna Vole at 536 was cut from *she is twenty-two*
+             to *she writes it small*, because a named division member is a character `bible/characters.md`
+             does not fix. **A WOMAN OF ABOUT SIXTY AND MEN OF ABOUT THIRTY AND ABOUT FORTY ARE DESCRIBED BY
+             WHAT THEY LOOK LIKE, WHICH IS NOT AN ANNOUNCED AGE.** ONE *nine years old* survives in 535 and
+             it is the age of a **street**, not of a person.
+YEAR NUMBERS `grep -rioE "year (one|two|three|four|five|six|seven|eight|nine|ten)\b"` across the ten -> **0.**
+             One was written at 539 (*the fourth quarter of year three*) and is now *the quarter that ended
+             on the thirtieth of September of the third year*.
+ARITHMETIC   **A MONTH IS THIRTY DAYS AND HAS NO THIRTY-FIRST. EVERY INTERVAL PRINTED IN 531–540 IS DERIVED
+             IN ITS OWN CHAPTER FROM DAY NUMBERS WITH ITS OPERANDS ON THE PAGE, AND NONE IS QUOTED ACROSS.**
+             **THE SPINE, DERIVED TWICE AND THE TWO METHODS AGREE AT ALL ELEVEN DATES:**
+             530 959 · **531 960** · 532 989 · 533 1018 · 534 1049 · 535 1077 · **536 1099** · 537 1139 ·
+             538 1163 · 539 1229 · 540 1230. **MONOTONIC, ZERO VIOLATIONS.** Intervals 1 · 29 · 29 · 31 ·
+             28 · 22 · **40** · 24 · 66 · 1.
+             531: **the office is thirty-two months old to the day**, and 960 = 30 x 32 off the letter of
+             the first of February of the first year. **THE LANE IS ONE THOUSAND AND SEVENTY-NINE MORNINGS**,
+             operands on the page: three years is 36 x 30 = 1,080, less two days because this is the first
+             of October and the first morning was the third, which is 1,078, and counting the first morning
+             as the first is 1,079. **TWO DAYS SHORT OF THE FIFTH ANNIVERSARY.** Cross-checked against the
+             spine: 960 + 119 = 1,079, and 960 − 119 = 841 = the eighth of October of year three.
+             532: **twenty-nine days**, a month of thirty less one.
+             533: no interval printed.
+             534: **ninety days is three months of thirty**, and the quarter is the **twelfth sheet** (30 Mar,
+             30 Jun, 30 Sep, 30 Dec of year one; 30 Mar, 30 Jun, 30 Sep, 30 Dec of year two; 30 Mar, 30 Jun,
+             30 Sep and 30 Dec of year three is the twelfth at 534). **The ratchet: 940 + 129 = 1,069**,
+             and 129 is 43 a month for three months, 43 being what 521 printed over twenty-one months.
+             535: **twenty-two days** to the twentieth of February, two to the thirtieth of January and twenty
+             of February.
+             536: **twenty-two days** again, derived on the page again with the same operands.
+             537: **forty days** from the twentieth of February, ten to the thirtieth of February and thirty
+             more to the thirtieth of March. **THE LANE IS ONE THOUSAND TWO HUNDRED AND FIFTY-EIGHT MORNINGS**,
+             operands on the page: 3 x 360 = 1,080, then twenty-seven days of October after the third and
+             then five month-ends at thirty days each, which is a hundred and fifty, so 1,080 + 127 + 150 =
+             1,257 days, and counting the first morning as the first is 1,258. Cross-checked on the spine:
+             1,139 + 119 = 1,258. **THIS IS THE SECOND AND LAST LANE AGE IN THE BATCH AND IT IS NEVER FOUR
+             HUNDRED; `grep -rio 'four hundred mornings' ` over the ten returns 0.**
+             538: **twenty-five days** from the thirtieth of March to the twenty-fourth of April, which is
+             twenty-four days by subtraction and twenty-five by counting both ends, and the chapter says
+             twenty-five and gets it right. **219 doors / 9 people / 25 days is about one a day each across
+             the nine**, which 539 carries to nine hundred and 841.
+             539: **ninety days** from the morning of the thirtieth of March to the morning of the thirtieth
+             of June, three months of thirty days each. **SIXTY-SIX DAYS** from the twenty-fourth of April:
+             six days of April after the twenty-fourth, and thirty of May, and thirty of June.
+             540: **a third of 841 is 280 and a fifth of 841 is 168**, both printed on the page. **NINETY-NINE
+             DAYS** to the tenth of October: 29 + 30 + 30 + 10 = 99, and 1,329 − 1,230 = 99 on the spine.
+             **THE DISCREPANCY AT `chapter-0500.md:65` IS NOT PRINTED IN ANY OF THESE TEN CHAPTERS AND IS NOT
+             DERIVED FROM IN ANY OF THEM. IT IS CARRIED, RECORDED AND NOT REPAIRED.**
+QUARTERLY   **THE REGISTER'S OWN QUARTERLY NUMBER IS THE FIGURE WITH THE MOST REFERENTS IN THIS BATCH, AND
+FIGURES      IT IS PRINTED FOUR TIMES, EACH IN ITS OWN CHAPTER'S WORDING AND ITS OWN SCALE:**
+             **534 · *entered: thirty-four*, the identical figure to the thirtieth of September, ninety days of
+             nothing.** **537 · *entered: thirty-nine***, five more, nineteen people in ninety days.
+             **539 · *entered: eight hundred and forty-one***, which is not the same kind of thing as either
+             of the others and is on the same page under the same heading. **540 references it.** And 531 and
+             532 reference thirty-four as a thing people are reading. **THE SECOND COLUMN IS RULED AND EMPTY
+             AT 534, 537 AND 539, IS NOT FILLED BY ARRANGEMENT AT ANY POINT IN 531–540, AND AT 539 IT IS
+             EMPTY FOR THE FOURTH CONSECUTIVE QUARTER WHILE EIGHT HUNDRED AND FORTY-ONE THINGS GO PAST IT.**
+ACCOUNT      **NO FIGURE OF THE ACCOUNT IN GRAINS APPEARS IN ANY CHAPTER OF 501–540 AND NO LEDGER TOTAL
+             APPEARS ANYWHERE.** `grep -rioE "two hundred and eleven thousand|8,1[0-9][0-9]"` over the ten -> 0.
+             **NO CHAPTER OF 531–540 PRINTS A FLOOR.** `grep -rio 'settle'` over `chapters/volume-11/` -> 0.
+             **NO CHAPTER OF 531–540 ARGUES THE RETURN AND NO CHARACTER IN THEM SETTLES IT OR SAYS IT IS
+             SETTLED; 537's sentence is about owing, 539's is about a knock, and 540's is about a page.**
+FLOORS/RT    `grep -rio 'right temple' chapters/` -> **0 across all 540 chapters.** `grep -rlio 'ink at the
+             cuticles' chapters/` -> **2 files book-wide, unchanged at 329 and 340; this batch adds none and
+             spends the construction nowhere.**
+PARAGRAPHS   **602 prose paragraphs across the ten, counted by a blank-line split that skips headings,
+             re-run by command after the last edit. 0 OVER NINETY. 0 OVER ONE HUNDRED AND TWENTY.
+             QUOTATION-MARK PARITY PER PARAGRAPH: 0 ODD. EVERY PARAGRAPH OPENS ON A CAPITAL: 0 LOWER-CASE
+             STARTS.** **TWENTY-TWO PARAGRAPHS WERE OVER NINETY ON THE FIRST SWEEP AND EVERY ONE WAS SPLIT BY
+             HAND AT A NAMED SENTENCE BOUNDARY, WITH THE QUOTATION CLOSED AND REOPENED AT EVERY SPLIT THAT
+             FELL INSIDE A SPEECH.** A blank-line-closing-quote artefact at 540 was caught on the parity pass
+             and repaired by hand. **NO AUTOMATIC SPLITTER WAS RUN OVER PROSE WITH DIALOGUE.**
+MARKDOWN     blockquote 0 · table 0 · horizontal rule 0 · code block 0 · **bold spans 0** · **italic pairs 74**,
+             every one a notebook line, a sheet's line, a line read off a return, or a figure or a rule in a
+             stranger's hand, and the count is inside the 60–70 / 20–30 / 5–10 mix because the documentary
+             register in this batch is the two counters, the three quarterly sheets, the notebook and the
+             division's return. **SYSTEM PANELS: ZERO IN TEN CHAPTERS.** Volume 10's panels stand at two in
+             fifty, this volume's budget is five, and batches 0001, 0002, 0003 and 0004 have now spent none.
+DUPLICATION  12-gram scan FIRST against every chapter in the book INCLUDING these ten, on the normalised token
+             method WITH A PARAGRAPH-BREAK SENTINEL, then 11 and 8, and every hit classified by hand.
+             **RE-RUN BY COMMAND AFTER THE LAST EDIT AGAINST ALL 540 WRITTEN CHAPTERS.**
+             **12-gram cross-chapter hits: 112 across the ten.** **BY FILE: 531 15 · 532 20 · 533 0 · 534 2 ·
+             535 3 · 536 1 · 537 38 · 538 0 · 539 10 · 540 23.** **11-gram: 140. 8-gram: 554.**
+             **THE FIRST PASS OF THIS SCAN RETURNED 187 HITS AND EVERY ONE WAS READ. TEN GENUINE RE-USES
+             WERE FOUND AND ALL TEN WERE RE-SET BY NAME, NOT BY A SWEEP:**
+                 · 534 re-set the *bottom step of the branch stair at about seven in the morning* passage
+                   lifted from 529 — 10 hits to 0 — and the *Adeyemi's weekly reading of the counter on the
+                   back of a piece of foolscap* with it.
+                 · 534 re-set *about nine of them came once each in the way people come once to look at*,
+                   which 530 wrote four days earlier.
+                 · 534 re-set *the thirtieth of December is the last working day of the quarter and…*.
+                 · 534 re-set the *a count is only a count if it is written at the time it is counted* rule
+                   in full, having used it at 531; 538 did the same a second time. **The rule is now printed
+                   verbatim in ONE chapter of this batch and paraphrased in the other two.**
+                 · 532 re-set *she wrote it in about forty seconds in her own hand*, lifted from 506's clerk.
+                 · 540 re-set *did not say anything for about a minute and a half*.
+                 · 532 and 535 re-set the standing sheet's boilerplate in dialogue, leaving the canonical
+                   wording in the notebook at 535 and on the sheet at 537, 539 and 540.
+                 · 539 re-set Tessa's line about a division that has to carry a line, having used it at 537.
+                 · 537 and 540 each had Tessa's two figures and the date of her room re-set after the first pass.
+             **EVERY SURVIVING TWELVE-GRAM FAMILY WAS CLASSIFIED BY HAND AND IS CANON TEXT, A FIGURE THAT MUST
+             RECUR, OR A DELIBERATE QUOTATION BY A CHARACTER OF SOMETHING ELSEWHERE ON THE PAGE:**
+                 · **his own rule** — a count is only a count if it is written at the time it is counted —
+                   **at 531 only**, and it is the rule, printed once.
+                 · **the third condition of the definition**, quoted verbatim at 532 because a character is
+                   reading his own sentence off his own coat.
+                 · **the sentence of the thirtieth of September of year three**, at 534, 537 and 540, which
+                   are a recollection, a reproduction of the sheet and a doctor reading it out of a folder.
+                 · **the standing sheet's own boilerplate** — goes out at four, an address at the head of every
+                   line, about two hundred people a week in Cordwain read it — which is what the object IS and
+                   which the batch-0002 and batch-0003 gates already classified.
+                 · **a clerk may only enter and cannot improve what she is given and cannot be asked to hurry**,
+                   and **in the office's own hand in the one sentence a clerk is permitted to add**, at 537
+                   only.
+                 · **Tessa Okonkwo's line and her two figures and the date of her room**, at 537 and 540.
+                 · **the branch shift hours** and **the chalk at the height of a name on a plate**, at 536
+                   and 531 respectively, one chapter each.
+                 · **THE FIRST PASS OF THE 12-GRAM SCAN CANNOT SEE A BORROWED BODY AND NEITHER COULD THE
+                   SECOND. BODIES WERE CHECKED AGAINST `outline/volume-11.md` §4a BEFORE ANY SCENE WAS
+                   PLANNED AND ARE RECORDED IN THE SCENE BLOCK BELOW.**
+SCENE 536    **BEATRIX HALM. HER ONLY SCENE IN THIS BATCH. THE FOURTH OF VOLUME 11'S FIVE. THE GAP FROM THE
+             PREVIOUS SCENE IN THE BOOK IS ELEVEN AND THE GAP FROM HER OWN LAST SCENE IS SEVENTY-ONE;
+             ONLY THE ELEVEN IS IN THE EIGHT-TO-FIFTEEN BAND `AGENTS.md` GOVERNS, AND NO FILE HERE CALLS THE
+             SEVENTY-ONE IN BAND.** **HER MARKS ON THE PAGE, CHECKED AGAINST §4a BEFORE ANYTHING WAS
+             WRITTEN:** deaf in one ear since the Veil, kept to the weather on the roof, and he has to get
+             within about eleven inches of her good ear to be heard over the line. **SHE IS GIVEN NO TEMPLE, NO
+             HAND, NO EYE AND NO INK. HER SMALL LEVEL HAND IS HERS FROM CHAPTER SEVENTEEN AND IS USED, NOT
+             DESCRIBED.** **NO COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR
+             SEAL IS THE MECHANISM; EVERY SEXUAL CHARACTER IS AN ADULT; HE IS AT RANK ONE WITH A SPENT CHEST
+             AND NO PERMISSION OF ANY KIND; SHE HAS A DIVISION OF NINE, A SHEET ON HER SIDE AND A LADDER SHE
+             CAN WALK DOWN.**
+             **RECORDED SPAN, THE BODY COUNTED FROM THE OPENING `##` TO THE CLOSING `##` EXCLUSIVE OF BOTH:
+             2,098 WORDS. LITERAL SPAN, FIRST-`##`-TO-LAST-`##` INCLUSIVE OF BOTH BOUNDING HEADINGS:
+             2,110 WORDS. EIGHT HEADINGS.**
+             **EXPLICIT-VOCABULARY PROBE, whole-word, on the whole file: mouth 4 · came 11 · hip 1 · thigh 2 ·
+             come 2 · inside 2 · wet 0. SUM 22.** This is a gate row and not an argument.
+             **THE AXIS IS THE TERMS AND IT IS NOT NAMED BY ANYBODY.** There is no counted minute, no kettle,
+             no chart, no arm turned up, no screen on wheels, no list and no cot. The template's furniture is
+             replaced by a wind that arrives in one push, a hearing ear, nine names, one line read out of a
+             return, and a ladder that a shedman will be standing at in nine minutes.
+```
+
+---
+
 # VOLUME 11 BATCH 0003 — CHAPTERS 521–530 ARE ON DISK, TEN FINISHED FILES, 22,604 WORDS. THE EIGHTH OF OCTOBER OF YEAR TWO TO THE THIRTIETH OF SEPTEMBER OF YEAR THREE. **WRITTEN 13 OCTOBER 2026. MOVEMENT THREE, ENTERED. REVIEWED AND REPAIRED 13 OCTOBER 2026 AGAINST `logs/next-0003.review.log`: TEN FINDINGS PLUS TWO RESIDUALS, ALL APPLIED, NO CHAPTER RESTARTED, NO SCENE REPLACED, NO EVENT MOVED, ONE TITLE CHANGED. THE FIGURES IN THIS BLOCK ARE THE POST-REPAIR FIGURES, RE-RUN BY COMMAND AFTER THE LAST EDIT. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 > **A WRITING PHASE. IT WROTE TEN CHAPTERS, THREE STATE FILES, ONE OUTLINE REVISION AND ONE NEXT PHASE PROMPT, AND NO PROSE THAT IS NOT A CHAPTER. THE FOURTH STATE FILE, `state/chapter-summaries.md`, WAS EMPTIED INSTEAD OF UPDATED IN THAT PHASE AND WAS RESTORED FROM `0a666b3^` BY THE REVIEW REPAIR; THE SELF-REPORT THAT CLAIMED FOUR IS CORRECTED HERE.**
