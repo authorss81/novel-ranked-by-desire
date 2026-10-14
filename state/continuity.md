@@ -1,3 +1,148 @@
+# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK. **§0a-vol15-b2 BELOW IS THE FILE'S LIVE BLOCK FOR 711–720 AND IT SUPERSEDES EVERY BLOCK BELOW IT FOR THOSE CHAPTERS AND DELETES NONE OF THEM.**
+
+## 0a-vol15-b2. THE SPINE, THE OPERANDS, THE FOOTER ROW, THE FOURTH WALL AND THE CLASSES INHERITED FORWARD
+
+```
+day 0 = 1 February, year one      a month is thirty days and has no thirty-first
+METHOD A   1 Feb of year y = (y-1) x 360        day of month d = (y-1) x 360 + 30*pos[m] + (d-1)
+METHOD B   day = 30*((y-1)*12 + pos[m]) + (d-1)   ZERO INDEXING, CONTAINS NO 360 AT ALL
+           pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4 pos[Jul]=5 pos[Aug]=6
+           pos[Sep]=7 pos[Oct]=8 pos[Nov]=9 pos[Dec]=10   PRINTED HERE, USED HERE, ZERO INDEXED
+
+711  7 Apr, y8  A=7x360+60+6   = 2586   B=30*(7*12+2)+6   = 2586   agree   the seventieth form
+712 14 Apr, y8  A=7x360+60+13  = 2593   B=30*(7*12+2)+13  = 2593   agree
+713 21 Apr, y8  A=7x360+60+20  = 2600   B=30*(7*12+2)+20  = 2600   agree   SCENE, Runa Sato
+714 28 Apr, y8  A=7x360+60+27  = 2607   B=30*(7*12+2)+27  = 2607   agree
+715  5 May, y8  A=7x360+90+4   = 2614   B=30*(7*12+3)+4   = 2614   agree
+716 12 May, y8  A=7x360+90+11  = 2621   B=30*(7*12+3)+11  = 2621   agree
+717 19 May, y8  A=7x360+90+18  = 2628   B=30*(7*12+3)+18  = 2628   agree
+718 26 May, y8  A=7x360+90+25  = 2635   B=30*(7*12+3)+25  = 2635   agree
+719  3 Jun, y8  A=7x360+120+2  = 2642   B=30*(7*12+4)+2   = 2642   agree
+720 10 Jun, y8  A=7x360+120+9  = 2649   B=30*(7*12+4)+9   = 2649   agree   THE DECISION
+
+SEAM   2,586 - 2,579 = 7 days after chapter 710. IN ITS OWN COLUMN. NOT ONE OF THE NINE.
+NINE   7 7 7 7 7 7 7 7 7 = 63   and   2,649 - 2,586 = 63.  THE SUM IS THE PROOF.
+MONOTONIC  0 violations by METHOD A and by METHOD B.
+*** THE ROW IS NOT A ROW OF SEVENS BY ACCIDENT. 711 TO 720 IS SEVEN DAYS A WEEK ALL THE WAY
+    ACROSS TWO MONTH TURNS, AND THE MONTH TURNS AT 715 AND AT 719 ARE BOTH SHOWN IN THE OPENING
+    PARAGRAPH OF THE CHAPTER THAT CROSSES THEM, IN PLAIN WORDS. 714->715 IS TWO, ONE AND FOUR
+    AND NOT SEVEN, AND 718->719 IS FIVE, TWENTY-SIXTH TO THIRTIETH, PLUS THREE. ***
+```
+
+**EVERY ONE OF THE NINE READ AGAINST ITS OWN CHAPTER'S DATE, ONE AT A TIME, BECAUSE A SUM CANNOT CATCH A ROW THAT IS WRONG IN ITS ORDER AND TWO METHODS THAT SHARE A CONVENTION ARE NOT A CHECK.** `711->712` 7 Apr to 14 Apr = **7** · `712->713` 14 to 21 Apr = **7** · `713->714` 21 to 28 Apr = **7** · `714->715` 28 Apr to 5 May = **seven, because April runs to its thirtieth and there is no thirty-first: two to the thirtieth, one to the first of May, four to the fifth** · `715->716` 5 to 12 May = **7** · `716->717` 12 to 19 May = **7** · `717->718` 19 to 26 May = **7** · `718->719` 26 May to 3 Jun = **seven, and again by the same arithmetic: five to the thirtieth, three to the third** · `719->720` 3 to 10 Jun = **7**. **ALL NINE CORRECT.**
+
+**PROVED BY HAND ON AN ANCHOR THAT COULD GO THE WRONG WAY.**
+`9 Nov year six` = `5 x 360 + 30*9 + 8` = **2,078** by A and `30 * 60 + 17` = **2,078** by B. `2,649 - 2,078 = 571 = 19 x 30 + 1`, **nineteen months with one day after them**, and that figure is NOT printed in 711–720.
+`9 Nov year five` = `4 x 360 + 270 + 8` = **1,718** by A and `30 * 48 + 17` = **1,718** by B. `2,649 - 1,718 = 931`, **which is not 771 and is not printed either**. `771` is printed **ZERO** times in 711–720 and `411` is printed **ZERO** times.
+
+**THE FIGURES THE BATCH TOOK OFF AN ANCHOR AND DID NOT PRINT.** `2,406` = the seventh of October of year seven, the sixty-fourth form, and `2,586 - 2,406 = 180` = six intervals of thirty exactly. `2,418` = the nineteenth of October of year seven. `2,381` = the twelfth of September of year seven, the column. `2,399` = the thirtieth of September of year seven, the page. `2,420` = the twenty-first of October of year seven, the drawer instruction. `2,476` = the seventeenth of December of year seven, the docket out of the box. **`2,649 - 1,499 = 1,150 = 12 x 90 + 70`** and `2,669 - 1,499 = 1,170 = 13 x 90` exactly, so the quarters at 720 are **twelve** and at 723 are **thirteen**, and the sheets at 720 are **thirteen** and at 723 are **fourteen**. 720 NAMES BOTH COUNTS IN WORDS AND IS NOT A SHEET DAY AND NOT A QUARTER-END.
+
+## 0a-bis-vol15-b2. EVERY FOOTER INTERVAL IN 711–720, PARSED OFF THE PAGE AND RE-DERIVED FROM DAY NUMBERS BY COMMAND
+
+**34 INTERVALS PARSED. 34 RE-DERIVED. 0 MISMATCHES. 0 UNPARSED. 19 PRINTED MONTH BREAKDOWNS CHECKED SEPARATELY AGAINST `n x 30 + m`: 0 MISMATCHES.**
+
+| Ch | printed | re-derived | Ch | printed | re-derived | Ch | printed | re-derived |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 711 | 7 | 2,586-2,579 | 716 | 7 | 2,621-2,614 | 721 | — | — |
+| 711 | 180 | 2,586-2,406 | 716 | 208 | 2,621-2,413 | | | |
+| 711 | 187 | 2,586-2,399 | 716 | 201 | 2,621-2,420 | | | |
+| 712 | 7 | 2,593-2,586 | 717 | 7 | 2,628-2,621 | | | |
+| 712 | 180 | 2,593-2,413 | 717 | 210 | 2,628-2,418 | | | |
+| 712 | 117 | 2,593-2,476 | 717 | 49 | 2,628-2,579 | | | |
+| 712 | 194 | 2,593-2,399 | 718 | 7 | 2,635-2,628 | | | |
+| 713 | 7 | 2,600-2,593 | 718 | 56 | 2,635-2,579 | | | |
+| 713 | 21 | 2,600-2,579 | 718 | 215 | 2,635-2,420 | | | |
+| 713 | **219** | 2,600-2,381 | 719 | 7 | 2,642-2,635 | | | |
+| 713 | 201 | 2,600-2,399 | 719 | 63 | 2,642-2,579 | | | |
+| 714 | 7 | 2,607-2,600 | 719 | 243 | 2,642-2,399 | | | |
+| 714 | 208 | 2,607-2,399 | 720 | 7 | 2,649-2,642 | | | |
+| 714 | 194 | 2,607-2,413 | 720 | 70 | 2,649-2,579 | | | |
+| 715 | 7 | 2,614-2,607 | 720 | 229 | 2,649-2,420 | | | |
+| 715 | 215 | 2,614-2,399 | 720 | 2,768 | 2,649-(-118)+1 | | | |
+| 715 | 208 | 2,614-2,406 | 720 | 250 | 2,649-2,399 | | | |
+| | | | 720 | 268 | 2,649-2,381 | | | |
+
+**AND THE ONE ERROR THAT ROW FOUND, WHICH IS THE FOURTH TIME IN THIS REPOSITORY THAT A HAND-FORWARDED FIGURE WAS WRONG ON ITS OWN ROW.** `chapter-0713.md`:227 read *is a hundred and nineteen days, which is three months and twenty-nine days after them*. **`2,600 - 2,381 = 219`, which is seven months and nine days.** Corrected in the chapter in the same commit. 715's opening paragraph had already caught a second one by hand: it printed the twenty-eighth of April against the fifth of May and showed the month turn in words.
+
+## 0c-vol15-b2. THE TWELVE-GRAM INVENTORY, THE FOOTER-TO-FOOTER ROW, AND EVERY PAIR CLASSIFIED BY HAND
+
+```
+METHOD   body only; heading lines and italic footers stripped; token-normalised; maximal runs.
+READER PROVED FIRST ON A FILE THIS REPOSITORY'S RECORD NAMES. chapter-0564.md, which carries
+runs lifted out of itself, returns 7 repeating 12-grams INSIDE that one file. IT IS NOT ZERO.
+```
+
+**12-GRAM: 0 RUNS TOUCHING 711–720. 11-GRAM: 0. 8-GRAM: 6, EVERY ONE CLASSIFIED BY HAND:**
+
+| Pair | Tokens | The run | Class |
+| --- | --- | --- | --- |
+| 714 / 691 · 696 | 8 | *and there is no form anywhere in this city* | **PERMITTED — the house negative.** `0d-vol15-b1` class four: good once. 714's is in Perla Quist's mouth, about correcting a man who cannot read, and it is not the sentence 713's or 720's. |
+| 714 / 715 | 8 | *the thirtieth of September of the seventh year* | **PERMITTED — a standing date on a page, named in words in both chapters on purpose.** 714's card requires a copy's age to run against that afternoon; 715's clerk needs the bound. A noun phrase that is the same because the afternoon is the same. |
+
+**THE FOOTER-TO-FOOTER ROW, WHICH EVERY GRAM READER IS BLIND TO, AT TWELVE TOKENS, ACROSS ALL FORTY-FIVE PAIRS INSIDE THE BATCH AND ACROSS THE 710/711 SEAM: 37 RUNS.**
+
+| Class | Count | What it is |
+| --- | --- | --- |
+| **PERMITTED 1 — the fixed arithmetic frame** | **35** | *less two thousand [x], the [date] of the [year], is [n] days, which is [m] months with [d] days after them.* Two different anchors producing the same numerals is the ordinary condition of a column of intervals and is not a duplicate of a running fact. 711 against 712 is the clearest case: 2,586 − 2,406 = 180 and 2,593 − 2,413 = 180, two anchors, one interval. |
+| **PERMITTED 2 — the receipt text, in two hands** | **2** | 710/720 on *every piece of paper received through the front door of this office is to be entered as received with a date against it*, which is the movement-one instruction and the movement-two instruction and the same instrument in the same office's hand. |
+
+**AND THE ROW THIS PASS FOUND AND CUT. THE FIRST EDITION OF THIS ROW RETURNED 40 RUNS AND THREE OF THE THIRTY-NINE THAT ARE NOT FRAME WERE A RUNNING FACT RESTATED ACROSS CHAPTERS — *about four hundred pieces of pencil paper were in about four hundred kitchens*, in 710, 714 and 719, and *a drawer in a room off a third court has been shut for every one of them*, in 710 and 718. ALL THREE WERE CUT ONCE, IN THE LATER CHAPTER, AND REPLACED WITH SOMETHING THAT CHAPTER'S OWN AXIS ALREADY OWNS: 714's footer now says there is no list of them in any book and no form anywhere that there could be one; 718's now says nothing that happened in that passage had anything to do with any of it; 719's now says there has not been one person able to check any of them. THE FINAL COUNT IS 37 AND EVERY ONE OF THEM IS FRAME OR RECEIPT.**
+
+## 0d-vol15-b2. FOURTH WALL, CLASS GREP, AND THE FIVE CLASSES 721–730 INHERITS
+
+```
+CLASS GREP  [a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis |
+            the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ |
+            [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page |
+            opposition | this batch | a chapter that | this pass | in this volume
+            0 primary, 0 widened, 0 extension, ACROSS ALL TEN AND AFTER EVERY REPAIR.
+            TWO HITS WERE FOUND AND CUT: `this chapter` at 718:63 and `this book` at 720:85.
+            *** AND THE GREP IS NOT THE GATE. 715 WAS READ AGAINST THE PARAGRAPH IN THE SAME
+            COMMIT, BECAUSE 710:3 IN THE FIRST EDITION OF BATCH 0001 WAS NOT VOCABULARY. ***
+THE CLASSES 721-730 INHERITS, FIVE NOW AND NOT FOUR:
+  ONE · THE HOUSE ARITHMETIC FRAME IS A PERMITTED DUPLICATION CLASS and coincident intervals are
+          not duplicates. RUN THE FOOTER-TO-FOOTER ROW SEPARATELY, AT TWELVE TOKENS, NOT AT EIGHT.
+  TWO · A CHARACTER'S OWN STOCK FORMULA IN HER OWN MOUTH IS NOT A LIFT; FOUR CHAPTERS OF THE SAME
+          FORMULA IN FOUR WEEKS IS. **Wenna Raut's *exactly as given / one word of it / not be
+          asked to hurry* WAS CUT ONCE AT 701 AND ONCE AT 705 AND WAS WRITTEN A THIRD TIME INSIDE
+          720's INSTRUCTION AND CUT AGAIN INSIDE 720, WHICH IS WHY 720'S CLERK SAYS THE THING ONCE
+          AND NOT THREE TIMES.**
+  THREE · "THERE IS NO FORM" IS GOOD ONCE. IT IS AT MOST ONE PER CHAPTER ACROSS 711-720 AND THE
+          EIGHT-TOKEN FORM *there is no form anywhere in this city* IS ONCE, AT 714.
+  FOUR · A WOMAN'S OWN REPEAT OF A SENTENCE SHE HAS SAID IN HER OWN BOOK IS A CLASS OF ITS OWN.
+  FIVE · **NEW. A CHAPTER MAY NOT PUT A COUNT OF PEOPLE, A COUNT OF CLAIMS AND A COUNT OF PIECES OF
+          PAPER IN ONE BREATH AND THEN USE ONE OF THEM FOR ANOTHER. 714 NAMES ALL THREE IN ORDER
+          IN PERLA QUIST'S MOUTH AND 716 NAMES ELEVEN AND SAYS WHAT IT IS NOT TWICE. THE ELEVEN IN
+          EIGHT DAYS AT 711 AND 720 IS ABOUT FOUR HUNDRED BY THE END OF NEXT YEAR ON THE SAME RATE,
+          AND THAT IS THE SAME FIGURE AS THE FOUR HUNDRED AND IS NOT THE SAME THING, AND 729 IS
+          WHERE THAT COLLISION WILL TRY TO HAPPEN.**
+```
+
+## 0b-vol15-b2. THE STAGING ROW, BY HAND, AND THE FIVE LIFTS THE FIRST EDITION OF 713 CARRIED
+
+**§4d WAS READ BEFORE THE 713 BODY WAS PLANNED AND THE ROW BELOW WAS TAKEN BY HAND, NOT BY ANY GRAM, BECAUSE A TWELVE-GRAM SCAN CANNOT SEE A BORROWED STAGING AND THIS REPOSITORY HAS BEEN BITEN BY THAT FOUR TIMES IN FOUR VOLUMES.**
+
+| Pair | Longest shared contiguous run | What it is |
+| --- | --- | --- |
+| 713 v 594 | **7** | *her mouth with the back of her* — a generic afterbeat about a body |
+| 713 v 603 | **14** | *he put his hand on the back of her head and she let him* — a generic body beat. **The FIRST EDITION OF 713 SHARED THIRTY-TWO TOKENS WITH 603 AND THAT WAS THE WHOLE CLOSING BEAT OF 603 RESTAGED: a corridor counter, the officer at the end of it, the nine lines and then the tenth, and him nine feet off not reading over her shoulder. It was cut and 713's closing now uses the two columns of the day book and a box that is filled in last and is not read aloud.** |
+| 713 v 613 | 7 | *and that is the whole of what* — the house connective |
+| 713 v 643 | 7 | *and i am not going to start* — a character's own refusal in her own mouth |
+| 713 v 653 | 7 | *and i am going to do it* — the same |
+| 713 v 663 | **14** | **PERMITTED — the fixed arithmetic frame.** *three was the fourteenth of april and the twenty first is day two thousand.* Two methods may share a frame. |
+| 713 v 673 | 7 | *that is the whole of what a* — Hanneke Ruis's connectives are not Hanneke Ruis's instruments |
+| 713 v 683 | 9 | *there are about four hundred people in this city* — the standing figure in the standing sentence shape |
+| 713 v 693 | 7 | *at about half past two in the* — an hour in the house form |
+| 713 v 703 | 7 | *is seven by the month count the* — the arithmetic frame |
+
+**FOUR MORE LIFTS WERE FOUND BY THE SAME HAND AND CUT: the collar-and-buttons beat, which is 603's word for word; the fist in the hair at the back of the head, which is 703's and 603's; *the way a woman looks at a figure she already has*, which is 703's; and *in one long pull of her hips and came*, which is 703's.**
+
+**703's FURNITURE IS ON THE PAGE AND IS NOT REUSED. 713's FURNITURE, LISTED SO A LATER PASS CAN CHECK IT WITHOUT THE SCENE: a returns desk in a division building, a wire rack behind it with about four hundred returns in it that have gone out and not come back, a day book with three columns and an hour in the third, a satchel and its strap, nine folded documents, a room at the top of two flights with a table and twenty-five things at the far end of it and a drawer shut in the wall on the left, one lamp on a bracket and not on a stand, a corridor at the counter end with a stone shelf, a door with a thing on the inside of it, and the boards.**
+
+**AND WHAT 713 DOES NOT HAVE, AGAINST EACH OF THE NINE IT WAS CHECKED AGAINST:** no ward, no door that closes in a small room off it, no cot, no basin, no woman on a landing · no counting room, no keeper's end, no strap, no stool, no coats on hooks, no concrete floor, no nib on a string · no hour axis · no two readings and no books two feet apart · no shelf · no chart · no copy in her hand · no four tables, no wooden stair with a sweep coming through the boards, no folder that stayed shut, no flat file with eleven drawers.
+
+---
+
 # VOLUME 15 BATCH 0001 REPAIRED 14 OCTOBER 2026 AGAINST THE REVIEW PASS — 701–710 STILL ON DISK. **§0a-vol15-b1r BELOW IS THE SINGLE LEDGER FOR THE REPAIR PASS AND IT IS THE FILE'S LIVE BLOCK FOR 701–710. NOTHING WAS RESTARTED. THE PLOT, THE MOVEMENT, THE SCENE, THE IRREVERSIBLE DECISION AND EVERY EVENT ARE UNCHANGED. IT SUPERSEDES EVERY BLOCK BELOW IT FOR 701–710 AND DELETES NONE OF THEM.**
 
 ## 0a-vol15-b1r. FOUR DATES FOR ONE LINE, AND THE THREE SINGLE-CHAPTER INTERVALS THE REPAIR RE-DERIVED

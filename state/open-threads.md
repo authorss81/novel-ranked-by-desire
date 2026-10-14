@@ -1,3 +1,84 @@
+# VOLUME 15 BATCH 0002 WRITTEN 14 OCTOBER 2026 — CHAPTERS 711–720 ON DISK, 22,530 WORDS. MOVEMENT TWO, *THE FOURTH COLUMN*. **THE LIVE GATE BELOW IS VOLUME-WIDE AND NOT BATCH-WIDE AND WAS RE-RUN BY COMMAND FROM OUTSIDE THE PASS THAT WROTE THE CHAPTERS. IT SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE ONE THREAD THIS PASS CREATES, WITH AN OWNER, AND IT IS A GATE ROW THAT WAS WRONG
+
+**`chapter-0713.md`:227 PRINTED `2,600 − 2,381 = 119, WHICH IS THREE MONTHS AND TWENTY-NINE DAYS`. IT IS 219, WHICH IS SEVEN MONTHS AND NINE DAYS.** The command that parses a footer interval off the page and re-derives it from day numbers found it on the first run. **A FIGURE NOBODY RE-COMPUTES IS THE FIGURE THAT IS WRONG, AND THAT IS NOW THE FOURTH TIME IN THIS REPOSITORY THAT THE ERROR ARRIVED AS A HAND-FORWARD RATHER THAN AS A PLAN.** Four days before this, the batch-0001 review found the same class in the *dates*: a card that asserted an authority and four chapters that followed it. The standing rule for 721–730 is the one below.
+
+**THE HANDED-FORWARD RULE, FOR EVERY FUTURE PASS THAT WRITES A GATE ROW:**
+1. **THE RULE** — Every interval is derived from the spine, twice, by methods that share no constant, with the operands printed — never copied out of the chapter it is meant to be checking. **And every interval printed ON a page is parsed back OFF that page and re-derived, and the count of unparsed ones is printed and is not allowed to be zero by being reported as zero.**
+2. **THE CLASS GREP** — Every gate row must contain the pattern that would have seen the defect it has just fixed. Batch 0001 handed forward `this batch` and `a chapter that`; **this pass hands forward four more that it needed and did not have: `manuscript` was already required; add `this chapter` in narration, `this book` in narration, a bare `the scene`, and a bare `Chapter [0-9]+` with a capital.** Two hits were cut on this pass, one at 718 and one at 720, and neither of them is a word the primary pattern could see.
+3. **THE READER** — A reader that returns zero on a file you already know the answer to is not a clean scan. **`chapter-0564.md` returns seven repeating twelve-grams inside itself and was proved before the batch was scanned and again after the last repair.**
+4. **THE STAGING** — A twelve-gram scan cannot see a borrowed staging. 713's first edition shared thirty-two tokens with 603 and the first edition of 703 shared ten. **A scene's staging is to be read against §4d and §0b before the body is planned, and the longest shared run against each of the nine prior scenes is to be printed by hand.**
+5. **THE SCENE PROBE** — **A PROBE OF ZERO IS NOT A PASS.** 713's first edition measured 1,183 words over its own section and scored `cock` 0 and `cunt` 0. It was written out as the actual scene before the measurement was accepted. 703's first edition scored zero on the same probe and was rewritten for the same reason, and that is now two, and the class is real.
+
+## CLOSED IN THIS PASS, WITH NO OWNER LEFT
+
+- **THE DOCKET.** Read aloud twice at 712 by a woman who is not him, and the answer is a fact about a building and not about a man: the two words on the wall were cut at a bench in a yard before that stone was in a wall anywhere, by a man who wanted the block not to go back and be worked again. He put it in the inside of his coat again. **Sander Vole is not asked a third time and the stone yard is not entered in any chapter of 711–720.**
+- **THE FIVE AGES.** Four approximate ages were written and cut because the rule is a rule and not a taste.
+- **THE FIVE LIFTS** in 713's staging and body, and **the three running-fact restatements** in the footer row.
+- **THE MANNER OF 720's FOOTER**, which was landing after its final `## ` and left the chapter ending on an italic footer. Both blocks are now above it and the chapter ends on prose.
+
+## NOT HANDED FORWARD AND NOT OPEN
+
+**NOTHING IN THIS PASS CREATES A NEW PHASE BESIDES THE ONE NAMED AT THE HEAD. `workspace/volume-15/batch-0003/PROMPT.md` IS THE ONE NEXT PHASE, FOR CHAPTERS 721–730, MOVEMENT THREE, *THE COINCIDENCE*, AND IT IS THE ONLY DIRECTORY THIS PASS WROTE. NO VOLUME-CLOSE PROMPT. NO BATCH 0004. `state/complete.md` IS NOT CREATED AND THE SERIES IS PLANNED PAST 720. `outline/ending.md` IS UNTOUCHED AND NO NEW FINAL ENEMY WAS INTRODUCED.**
+
+---
+
+## THE LIVE GATE, VOLUME-WIDE, RE-RUN BY COMMAND AFTER THE LAST EDIT
+
+```
+FILES           720 chapter files on disk. Volume 15 holds 701-720 and 720 is the last written page.
+TITLES          grep -rh "^# " chapters/ | sort | uniq -d | wc -l  ->  0 ACROSS ALL 720 FILES.
+                The ten title lines checked separately from their bodies for straight glyphs:
+                0 straight doubles, 0 straight apostrophes, 0 curly, all ten pure ASCII.
+BANK            Volume 15 so far is 22,530 words in this batch and 22,377 in batch 0001, and the
+                two sum to 44,907, counted per file and summed from disk:
+                1,863 2,122 4,532 2,092 1,942 1,819 1,967 2,182 1,937 2,074 = 22,530.
+                The counter was proved first on chapter-0700.md, a file this pass did not write,
+                which returns 2,013 by `wc -w` and by a Python whitespace split.
+SPINE           Volume 15, 2,520 -> 2,649 across two batches, monotonic at 0 violations by METHOD A
+                and METHOD B, proved by the SUM against the endpoints each time: batch 0001's row
+                `7 7 6 7 6 7 6 7 6 = 59` and this batch's row `7 7 7 7 7 7 7 7 7 = 63`. The seam
+                is 31 at 700/701 and 7 at 710/711 and each is printed in its own column and is
+                not one of the nine of its own row.
+FOOTER ROW      34 intervals in 711-720 parsed off the pages and re-derived from day numbers:
+                34 parsed, 34 re-derived, 0 mismatches, 0 unparsed. One real error found and
+                fixed, at 713:227. 19 printed month breakdowns checked against n x 30 + m: 0 wrong.
+THE HEAD        852, unmoved since 1,499, and NOT moved. THIRTEEN SHEETS at 720 (29-16) and TWELVE
+                QUARTERS ((2,649-1,499)/90 = 12 rem 70). Both right, they differ by one, and 720
+                says in words which is which. 720 is not a sheet day and not a quarter-end.
+THE SECOND COLUMN  THREE LINES at 711, THREE at 720, AND NOTHING GOES IN IT IN EITHER BATCH.
+SETTLE          zero in every inflection across all 720 files.
+SPENT FIGURES   the office's months once, at 701 (2,520 = 30 x 84 + 0) — the shutter's interval
+                once, at 710 (2,579 - 2,078 = 501, anchor named) — **the lane's mornings ONCE at
+                720, with its reason and its operands, 2,649 - (-118) + 1 = 2,768** — the wall's
+                rate 0, owed at 738 — **the docket's date 0, read aloud at 712 and printed nowhere**
+                — the two words on the stone 0 — `411` 0 — `771` 0.
+INVENTED-FIGURES SENTENCE  zero verbatim and zero Tier 3 across 701-720, in any chapter and in any
+                footer. Spent at 658 and it stays spent for the rest of the book.
+SCENES          Volume 15 has spent TWO of its five. 703 Sun Meiling at 3,873 and 713 Runa Sato at
+                4,532, both seven-way measured in `state/current.md` with the line span beside every
+                cell, both at word boundary. 723, 733 and 743 remain.
+PANELS          0 of Volume 15's five spent, across both batches.
+```
+
+## What is open after 720, and what belongs to which movement
+
+| Thread | Where it stands after 720 | Whose |
+| --- | --- | --- |
+| **THE CLAIM ABOUT TWO WORDS** | Said once at a rail on the twenty-sixth of May, wrong, and about nine people believed it inside four minutes. **The two words are still not printed and are still not printable, and the only copy is in the inside of a boy's coat.** | **721, 722, 725, 726, 730** |
+| **THE SCENE CADENCE** | 703 and 713 spent. Next is 723, Marguerite Vale, and it is not this batch's. | 723, 733, 743 |
+| **THE FOURTH COLUMN** | Headed since 704, four entries in it at 712, one line under the heading at 718 saying what the heading is about, and **the line goes nowhere and was written anyway.** Nobody may cite it. | 729, 734, 745, 747 |
+| **THE THING HE CANNOT GET** | About four hundred kitchens. Still not asked. And he now knows, from a lane, who the four hundred are against, and cannot print it, and nobody is going to say it came from him. | 729, 730 |
+| **THE FOURTH LINE IN THE SECOND COLUMN** | Three lines at 711 and three at 720. The fifth field takes a person out of the mouth of the person it is about, and 716 says in words that it is not the field for a person who brought a paper in. | **746, and it is not batch 0002's** |
+| **THE DRAWER** | Shut, and 720's new instruction does not reach backwards into two boxes under a window, and he wrote it that way on purpose and did not write the words *from now on*. | **739, and it is not batch 0002's** |
+| **THE BOY** | Puts the seventieth form up at 711 and is asked nothing by anybody, including Lin Hao. | 724, 725, 738 |
+| **THE WOMAN WITH THE SHORT-HANDLED BROOM** | Not in this batch and neither named nor asked. | 735 |
+| **THE WOMAN WHO CANNOT READ** | Not in this batch. Not the woman at 707 and the two are nowhere merged. Not named, not traced, nobody sent, nobody asked. | 742, 750 |
+| **THE TWO WORDS ON THE STONE** | Not printed in this batch and not in this volume, and no chapter of 711–720 asserts that they are the same words as the second line or as the head of any column. | 721, 722, 725 |
+
+---
+
 # VOLUME 15 BATCH 0001 REPAIRED 14 OCTOBER 2026 AGAINST THE REVIEW PASS — 701–710 STILL ON DISK. **THE REVIEW PASS FOUND NINE CLASSES OF CONCRETE DEFECT AND ALL NINE ARE FIXED IN THE CHAPTERS. TWO OF THEM WERE GATE ROWS THAT HAD PRINTED 0 WHILE CARRYING A LIVE DEFECT, AND THAT IS THE THREAD HANDED FORWARD. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE ONE OPEN THREAD THIS PASS CREATES: A GATE ROW THAT REPORTED ZERO AND WAS WRONG
