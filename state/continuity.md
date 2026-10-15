@@ -1,3 +1,73 @@
+# VOLUME 19 BATCH 0001 ON DISK — **THE SPINE AS THE PAGE FIXED IT. 3,949 TO 4,012. SEAM 20 IN ITS OWN COLUMN, INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE HEAD IS PRINTED NOWHERE IN 901–910 AND IS DUE AT 911. THE RAIL DOES NOT MOVE AT 901 THROUGH 910 AND CHANGES AT 911. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. THE DRAWER IS SHUT THROUGHOUT AND ITS AGE IS IN THE FOOTER CLAUSE ONLY.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Feb 0 Mar 30 Apr 60 May 90 Jun 120 Jul 150 Aug 180 Sep 210 Oct 240 Nov 270 Dec 300.
+          A JANUARY IS (y-1)x360-30+(d-1), because a January is labelled by the February that follows it and
+          therefore sits one month BEFORE 1 February of the year it is labelled by.
+METHOD B 30x((y-1)*12+pos[m])+(d-1) for February to December; 30x((y-1)*12-1)+(d-1) for a January.
+THE TWO METHODS SHARE NO CONSTANT AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+1 Feb y12 = 3,960   ·   1 Jan y12 = 3,930   ·   30 Dec y11 = 3,929
+901 20 Jan y12 3,949 +20 SEAM, THE CARD'S FIRST WINTER, SAID ONCE AND NOT ARGUED, the card weathered at the
+    second line and not at the street, the hours true, and the decision that it will be done again in the
+    same three lines with not one name on it
+902 27 Jan 3,956 +7 THE CARRY IN FROST, twelve minutes up where it takes nine, the tongue of the buckle goes
+    on the second flight without a sound, seventeen minutes down, a mark on the back of that book, a woman
+    selling bread saying decide in the spring and not after the thaw
+903 4 Feb 3,963 +7 SCENE, Petra Ilyin, 110 after 793, REPORTED AND NOT CERTIFIED, THE THRESHOLD, and the
+    promise eleven years old put on a table and not produced, and she asks him to hold the week with her
+904 11 Feb 3,970 +7 THE FIRST STRANGER BY CARD, AT THE RAIL, AND THE TELLING IS NOW A SERVICE: nine words
+    the same every time, four of the nine with no card in their hands, and he forbids nothing and asks for
+    nothing and writes nothing down
+905 18 Feb 3,977 +7 A WOMAN SAYS IT IN A PASSAGE AND WALKS OUT, AND HE STOPS COUNTING THE HOUR AT THE TOP
+    OF THE PAGE, and the cost of not making it a practice is named in nine words
+906 25 Feb 3,984 +7 BRACK'S LANE, nine a week unmoved, the character changed, A THIRD FIGURE THAT WILL NOT
+    BE CHALKED, and the cost of carrying it a month and being wrong by a month when it is written
+907 2 Mar 3,991 +7 A SLIP FROM A RETURNS DESK THAT A CLERK SENT BACK WITHOUT A QUESTION, and a copy wrong
+    by an hour at one end, and the refusal to correct any copy, AND THE REFUSAL MOVES FROM HIM TO THE CLERK
+908 9 Mar 3,998 +7 THE CORNER, THE BOY AT THE BOARD AND NOT ONE THING ASKED OF HIM, no lamp, seven hands and
+    not one more, her sheet unmoved, and HE STOPS ASKING THAT HILL FOR ANYTHING
+909 16 Mar 4,005 +7 THE CLERK PRICES THE WINTER: nine a month, every one knocks wrong once, none twice, the
+    price is PATIENCE AND NOT HOURS, and she asks for one day a year and is given a quarter of it
+910 23 Mar 4,012 +7 MOVEMENT ONE'S IRREVERSIBLE DECISION, HIS, A PRACTICE AND NOT INK: FROM THE WORST WEEKS
+    THAT BOOK COMES UP. What it closes: shutting the door for the winter. What it costs: his own hands.
+SEAM 3,949-3,929 = 20 in its own column and not one of the nine. NINE 7 7 7 7 7 7 7 7 7 = 63 and
+3,949+63 = 4,012. THE §5b FENCE ROW WAS LEFT EXACTLY WHERE IT IS AND WAS VERIFIED TERM BY TERM AGAINST §5c.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+ANCHOR 3,929, the thirty-first... THE FORTY-FOURTH SHEET WENT UP AT 3,929 AND IS STILL ON THE RAIL.
+901 3,949-3,929 = 20      906 3,984-3,929 = 55
+902 3,956-3,929 = 27      907 3,991-3,929 = 62
+903 3,963-3,929 = 34      908 3,998-3,929 = 69
+904 3,970-3,929 = 41      909 4,005-3,929 = 76
+905 3,977-3,929 = 48      910 4,012-3,929 = 83
+IT DOES NOT BREAK IN TEN CHAPTERS. IT BREAKS AT 911, ON THE THIRTIETH OF MARCH, AT FOUR IN THE AFTERNOON.
+```
+
+## THE DRAWER, 2,420, THE TWENTY-FIRST OF OCTOBER OF THE SEVENTH YEAR
+
+```
+901 1,529 = 50 x 30 + 29   · 906 1,564 = 52 x 30 + 4
+902 1,536 = 51 x 30 + 6    · 907 1,571 = 52 x 30 + 11
+903 1,543 = 51 x 30 + 13   · 908 1,578 = 52 x 30 + 18
+904 1,550 = 51 x 30 + 20   · 909 1,585 = 52 x 30 + 25
+905 1,557 = 51 x 30 + 27   · 910 1,592 = 53 x 30 + 2
+IT APPEARS IN THE FOOTER CLAUSE OF EACH FILE AND NOWHERE ELSE. NO AGE OF THAT DRAWER IS SPOKEN IN PROSE
+IN 901-910. 910 NAMES ITS ANCHOR DATE ONLY, AS PART OF A COST, AND THAT IS NOT AN EVENT.
+```
+
+## WHAT DID NOT MOVE IN 901–910, AND WHAT IS NOW ON THE PAGE THAT WAS NOT
+
+**THE HEAD STANDS AT EIGHT HUNDRED AND FIFTY-TWO** and is printed in no file of this batch. **SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT.** The second column four lines. The bundle twenty-six things. The coat-left empty. His own blank row eight hundred and sixty-seven days old at 901, untouched and undescribed. The stone seven hands and not one more. The two scratched words not printed and not asserted. The four-year clock and Brack's sooner figure both standing, undischarged and unargued.
+
+## ONE THING A LATER PASS MUST NOT "FIX", BECAUSE IT IS DELIBERATE
+
+**901 HAS STRANGERS AT THAT DOOR BEFORE 904, AND 904 IS NOT CONTRADICTED BY IT.** At 901 the clerk tells him she has come up that stair twice in the week and both times there was a person at the door who did not knock, and she asked neither of them anything. **THE OFFICE KEEPS NO LIST OF WHO COMES, WHICH IS WHY A CHAPTER MAY SHOW STRANGERS AT THE DOOR WITHOUT THE MANUSCRIPT EVER KNOWING THEIR NUMBER.** The card went up on the thirtieth of December and the office is open five days in seven, and a door with hours on it is walked up by strangers whether or not anybody in the building is keeping score, and nobody is. **904 IS THE FIRST STRANGER *BY CARD* WE LEARN OF *AT THE RAIL*, not the first stranger the door has had, and a later pass must not move 901's people to make the two chapters tidy.** It is also not a contradiction of 900, where a stranger came up four flights on the last working day of the year.
+
+**AND THE FOUR THINGS THE PAGE NOW CARRIES THAT IT DID NOT CARRY AT 900.** **1 · THE CARD HAS A LIFE OF ITS OWN AND IT IS SHORTER THAN THE INK SUGGESTS: the second line goes soft at the corners first and the card will have to be done again in the same three lines with not one name, and that is now said out loud in that room so that neither of the two women has to ask.** **2 · THE TELLING IS A SERVICE AND IT CANNOT BE STOPPED, ONLY REFUSED BY A CARD ON A DOOR AND BY NOT HAVING ANY CORRECTION TO OFFER; the man at the rail says the stair and the third door off the landing in nine words and will not stop, and the reason he gives for not stopping is the best reason anybody in this city has given for anything.** **3 · AN ADDRESS ANYBODY CAN READ WILL BE COPIED WRONG, AND THE OFFICE'S ONLY PROTECTION IS THAT THERE IS ONE COPY OF IT, WHICH MEANS EVERY WRONG COPY IN THIS CITY STAYS WRONG AND THE BLAME FOR THE WRONGNESS ATTACHES TO THE DOOR.** **4 · HE HAS GIVEN UP THE ONLY INSTRUMENT THAT OFFICE EVER HAD FOR FINDING OUT WHAT IS SAID ABOUT ITS ADDRESS IN A PASSAGE, AND HE HAS GIVEN IT UP ON PURPOSE, AND HE NAMES THE REASON: the whole city would be owed for a thing nobody had done.**
+
 # Volume 19 planned — **CALENDAR AS PLANNED: 3,949 (20 JAN Y12) TO 4,289 (30 DEC Y12); SEAM 900/901 IS 20 (CARD'S FIRST WINTER, SAID ONCE AT 901); INTERIORS 63/63/62/62/62, TOTAL WITH SEAMS 360 EXACTLY ONE YEAR. RAIL BREAKS AT 911/924/937/950 ONLY (ANCHORS 3,929/4,019/4,109/4,199). HEAD 852 UNMOVED: 29/28 AT 911 (`4,019 − 1,499 = 2,520 = 28 × 90`), 30/29 AT 924, 31/30 AT 937, 32/31 AT 950 (`4,289 − 1,499 = 2,790 = 31 × 90`). SIX OFFICE-HAND LINES WHOLE, SECOND COLUMN FOUR, BUNDLE TWENTY-SIX, DRAWER SHUT (50M 29D AT 901 TO 62M 9D AT 950), COAT-LEFT EMPTY, BLANK ROW 867 DAYS AT 901 UNCOMPLETED. STANDING MECHANICS: READING-ONCE (10 JUN Y11), NO-EXCEPTION-FOR-THE-DEAD (18 AUG Y11), BOOK DOWN AT HALF PAST FIVE BY HIS HANDS (25 OCT Y11), CARD ON DOOR (30 DEC Y11) ALL STANDING; NEW IN VOL 19 ONLY BY PLAN: WINTER MORNINGS (910), SLATE STANDS (920), SECOND WRITTEN REFUSAL WITHOUT A THIRD PROMISED (930), NO LIST OF COMERS (940), CARD RENEWED IN SAME THREE LINES (950, INK). A VOLUME 19 WRITER MAY NOT CONTRADICT: NO SECOND CARD/COPY/TRANSCRIPT/LIST; NO NAME ON CARD; NO EIGHTH HAND; NOTHING IN `outline/ending.md`.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
 
 # Volume 18 closed — **CALENDAR AS THE PAGE FIXED IT: 3,600 (1 FEB Y11) TO 3,929 (30 DEC Y11); SEAM 850/851 IS 31, INTERIORS 59/63/61/60/58, TOTAL WITH SEAMS 360 EXACTLY ONE YEAR. RAIL BREAKS AT 860/873/886/900 ONLY. HEAD 852 UNMOVED: 25/24, 26/25, 27/26, 28/27. SIX OFFICE-HAND LINES WHOLE, SECOND COLUMN FOUR, BUNDLE TWENTY-SIX, DRAWER SHUT THROUGH 50M 9D, COAT-LEFT EMPTY. STANDING MECHANICS: READING-ONCE PRACTICE FROM THE TENTH OF JUNE (870) AND NO-EXCEPTION-FOR-THE-DEAD PRACTICE FROM THE EIGHTEENTH OF AUGUST (880) BOTH STANDING, ANY CHAPTER MAY RELY ON THEM; THE SECOND WAS MADE BY A MAN WHO HAD BROKEN THE FIRST FOUR MONTHS EARLIER (881/896 OWNED), AND IT MAY NOT BE TIDIED AWAY. A VOLUME 19 WRITER MAY NOT CONTRADICT: THE CARD ON THE DOOR (ADDRESS, DOOR, HOURS, NOTHING ELSE, NOT ONE NAME); THE BOOK UP TWO AND DOWN ONE WITH OVERNIGHT PROHIBITION; THE WRITTEN REFUSAL PRECEDENT; THE UNRESOLVED CLOCK AND SENTENCE; NOTHING IN outline/ending.md. FULL RECORD IN reviews/volume-18/volume-close.md.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
