@@ -84,6 +84,14 @@ Mrs Imrie, asked nothing, ever, by anybody · Wren Kallo's bar, untested and not
 
 **AND TWO THINGS A LATER WRITER MUST CARRY AS NEW NAMES, MADE BY THE CARDS OF THIS BATCH:** **Sanna Ruhl**, who works a floor at the end of a market and says the three lines out loud to people who cannot read a clock, and **Ilva Tern**, who stands at a stop where the last service has stopped calling. **Neither is Nadia Ferrous, neither is aged, and neither is on a roll, an index or a count.** 943:175 already describes a woman at a market end and a woman at a stopped stop as two people and this batch makes them two people.
 
+## 7b · WHAT VOLUME 20 BATCH 0002 OPENED ON THE PAGE, 961–970, AND WHAT IT CLOSED. MEASURED FROM DISK IN THE SAME PASS THAT WROTE THE CHAPTERS.
+
+**THE ONE THING THIS MOVEMENT OPENED, NOW ON THE PAGE:** *that a free place to stand grows where a price stood, and that giving the saying away ends being the only true mouth.* **What is on the page by 970:** seventh morning same as quarter-end, body cannot be two courts, last link kills price by confirming true, nothing happens without him, four feet pavement free badly useful, washrooms same job free, lane finds nothing to price and writes nothing, spoken no unwritten, and thirteenth practice dated twenty-third May on practice sheet not standing: anybody may stand foot of stair say three lines working mornings quarter to ten to half past five, no person charged, he will not stop anybody.
+
+**WHAT IT CLOSED:** being the only person who can say three lines true. **What replaced it is anybody.** Card untouched no fourth line. No list/count of comes/told/said/paid/wrong. Forty-ninth sheet named, fiftieth not. No form ordinal. Fifth `cuticle` not printed, flag §8a still open.
+
+**AND ONE THING A LATER WRITER MUST CARRY AS NEW NAME, MADE BY 963:** **Beatrix Halm**, back platform end of Ferrier line, deaf in one ear since the Veil, twenty years on line, two years hearing wrong lines second late, never second mouth. Not on a roll. Finding handed on: far-end woman four months free cannot afford coin.
+
 ## 8 · TWO MORE FLAGS, RAISED BY THE REVIEW OF THE VOLUME 20 PLANNING PHASE ON THE FIFTEENTH OF OCTOBER 2026. NEITHER IS CLOSED. NEITHER IS OURS TO CLOSE.
 
 ### 8a · THE FIFTH `cuticle`, WHICH IS A FLAGGED PROPOSED CANON CHANGE AND REMAINS FLAGGED AND NOT ADOPTED

@@ -1,8 +1,24 @@
-# CURRENT — Ranked by Desire · 960 chapters on disk, **Volume 20 movement one WRITTEN (951–960), movement two is the live phase**
+# CURRENT — Ranked by Desire · 970 chapters on disk, **Volume 20 movements one and two WRITTEN (951–970), movement three is the live phase**
 
-**LIVE HEAD BLOCK, 2026-10-15, VOLUME 20 BATCH 0001 WRITING PHASE. `outline/volume-20.md` IS A PLAN AND IS STILL A PLAN FOR 961–1000. THE CHAPTERS 951–960 ARE ON DISK AND ARE CANON. THE ONE NEXT PHASE IS `workspace/volume-20/batch-0002/PROMPT.md`.**
+**LIVE HEAD BLOCK, 2026-10-15, VOLUME 20 BATCH 0002 WRITING PHASE. `outline/volume-20.md` IS A PLAN AND IS STILL A PLAN FOR 971–1000. THE CHAPTERS 961–970 ARE ON DISK AND ARE CANON. THE ONE NEXT PHASE IS `workspace/volume-20/batch-0003/PROMPT.md`.**
 
 ## 0 · WHAT THIS PHASE DID, IN ONE BLOCK
+
+**Ten chapters, 961 to 970, movement two of Volume 20, *The Stair*, the thirtieth of March to the third of June of year thirteen.** Full prose, ten of ten inside 1,800–2,700 on the basis of record `^#` stripped, **19,451 words measured per file from disk with the house instrument, `sed 's/^#.*//' <file> | wc -w`**, minimum 1,802 at 965 and 967 and maximum 2,602 at 963. No chapter leaves the band, so no chapter owes a reason for leaving it. One scene, at 963, Beatrix Halm, explicit, saying yes fast and enjoyed, counted over whole file and scene alone with span printed in commit. No system message in any of the ten.
+
+**THE IRREVERSIBLE DECISION, AT 970, IS HIS AND IT IS ON THE PRACTICE SHEET DATED THE TWENTY-THIRD OF MAY, IN HIS OWN WORDS, THE ONLY LINE IN THE BOOK ABOUT SOMEBODY ELSE'S MOUTH: from the twenty-third of May anybody may stand at the foot of that stair and say the three lines out loud on working mornings from a quarter to ten to half past five, and no person may be charged for it, and he will not stop anybody.** Standing sheet keeps six, sixth second December ninth year last. Rank one throughout, branch nights not moved, mornings unbought unasked, bought with nothing.
+
+**WHAT THE MOVEMENT CHANGED, IN ONE SENTENCE: a body ended a price and proved it cannot be two courts, a free floor grew unbuilt at the bottom, and the only true mouth gave the saying away so anybody may say it free and it cannot be taken back.**
+
+**THE PAGE GAINS THREE THINGS A NEXT WRITER INHERITS AS CANON: the quarter-end head at 961 by counterman hands with about nine strangers present; Beatrix Halm's finding of a far-end woman four months free who cannot afford the coin; and the thirteenth practice on the practice sheet not the standing sheet.** The card is not touched. No list, count, bracket, figure or total of who comes, told, said, paid, or wrong versions, in any chapter, in any form.
+
+**THE FIFTH `cuticle` WAS NOT PRINTED.** `grep -rio cuticle chapters/` still returns exactly four files — 329, 340, 404 and 446 — and `outline/volume-20.md` §9's row still reads four. Do not print it and do not raise it. Full record: `state/open-threads.md` §7b and §8a, `state/continuity.md` §0b.
+
+**NO CARD WAS ADJUDICATED IN THIS COMMIT BECAUSE NO CARD NEEDED IT: movement two's cards at `outline/batches/volume-20-batch-0002.md` already describe the page of 951–960 as written, and the ten chapters follow them. Where prose landed differently (watch phrasing for nobody/there-is-no, quote parity splits, added inventory sentences to hold the band) the card stands and the prose stands with it.**
+
+**THE FLAG IS NOT CLOSED BY THIS PHASE.** The overrun flag at the head of `state/open-threads.md` stands exactly as it stood. **The manuscript is now nine hundred and seventy chapters and the plan says five hundred, and writing ten of them did not decide that.**
+
+---
 
 **Ten chapters, 951 to 960, movement one of Volume 20, *The Price*, the twentieth of January to the twenty-third of March of year thirteen.** Full prose, ten of ten inside 1,800–2,700 on the basis of record `^#` stripped, **21,360 words measured per file from disk with the house instrument, `sed 's/^#.*//' <file> | wc -w`, and re-measured after the last edit to any of the ten in an independent review pass on the fifteenth of October 2026**, minimum 2,011 at 959 and maximum 2,683 at 953. No chapter leaves the band, so no chapter owes a reason for leaving it. One scene, at 953, Ines Duarte, explicit and measured under three definitions with the line span beside every cell. **This line first said 21,359, minimum 1,998 and a 960 cell of 2,083; all three were stale and are corrected here. No chapter was edited to make a figure fit.**
 
