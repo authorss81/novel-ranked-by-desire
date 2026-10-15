@@ -18,7 +18,7 @@ The board had been wiped and re-chalked that week, which it is not every week. T
 
 "No."
 
-"No, and I am going to tell you why in about four sentences and then you can go up that hill." He set the chalk down on the ledge. "A price goes into a rent. That is not a figure of speech, that is a thing that has happened in this city about nine hundred times, and every time it happened it was a man in my position who put a figure next to a door and somebody else with more need than me read the two things together."
+"No, and I am going to tell you why in four sentences and then you can go up that hill." He set the chalk down on the ledge. "A price goes into a rent. That is not a figure of speech, that is a thing that has happened in this city about nine hundred times, and every time it happened it was a man in my position who put a figure next to a door and somebody else with more need than me read the two things together."
 
 "I know that."
 
@@ -30,7 +30,7 @@ The board had been wiped and re-chalked that week, which it is not every week. T
 
 Brack looked at him.
 
-"Nine a week," he said. "Nine in my line, in this quarter, the same as it was in the last quarter, unmoved. About nine in nine of them are strangers and about nine in nine of them are asking where something is, and they ask it well, and they go away."
+"Nine a week," he said. "Nine in my line, in this quarter, the same as it was in the last quarter, unmoved. Every one of them is a stranger and every one of them is asking where something is, and they ask it well, and they go away."
 
 "And that is the price."
 
@@ -38,21 +38,21 @@ Brack looked at him.
 
 He turned round and looked at his own nine, going down the lane from the mouth to the wall.
 
-A lane is a working arrangement between about nine hundred people and nine stools, and Emil Brack has kept every part of it for nine years without ever once being asked to.
+A lane is a working arrangement between nine hundred people and nine stools, and Emil Brack has kept every part of it for nine years without ever once being asked to.
 
 That is the whole of what he is and it is a larger thing than most things. It is also the reason he can price anything at all: he has no wage, so nothing he says in that lane can be traced back to anybody paying him for it, and in a city where nine figures out of every ten reach a rent through a person, a man with no wage is a man whose numbers go where he puts them.
 
-He is the last honest instrument in this city and he has never once been thanked for it by anybody who matters to him, and on the thirtieth of December of last year he took four years off a board and wrote four years less in his own hand in front of about nine people, and got nothing for it except a man in a white plate being frightened of him for a month.
+He is the last honest instrument in this city, and on the thirtieth of December of last year he took four years off a board and wrote four years less in his own hand in front of about nine people, and what he got back for it was a month of a man in a white plate being frightened of him.
 
 "Before the card, a stool was for stopping on. A man comes up that lane because he lives in the ninth district or he has business in the fourth, and a stool is for a man who is staying."
 
-"Now about nine times a week a stool is for a man who is passing through on his way to a third court off a hill. A man who is passing through sits down for the length of about nine words and then he is gone for good, and he is never in this lane again."
+"Now nine times a week a stool is for a man who is passing through on his way to a third court off a hill. A man who is passing through sits down for the length of nine words and then he is gone for good, and he is never in this lane again."
 
 ## The Price Said Out Loud
 
 "So nine men a week turn a lane into a place people go through on the way to somewhere," said Lin Hao.
 
-"That is the whole of it and you may write it on that slate if you have a pencil."
+"That is it, and you may write it on that slate if you have a pencil."
 
 He put his hands in his coat.
 
@@ -64,7 +64,7 @@ He put his hands in his coat.
 
 "And the telling."
 
-"And the telling is the only good thing that has happened to that lane in nine years," said Brack. "About nine strangers a week, and every one of them polite, and about four of them have said thank you to me, and I have not been thanked for anything since I was thirty."
+"And the telling is the only good thing that has happened to that lane in nine years," said Brack. "Nine strangers a week, every one of them polite, and four of them have said thank you to me, and I have not been thanked for anything since I was thirty."
 
 He set the chalk down on the ledge.
 
@@ -74,13 +74,13 @@ He set the chalk down on the ledge.
 
 "Before the card this was a lane people walked through on their way to the ninth district. I could have kept three stools and done it on about half of what I spend on the pot," said Brack.
 
-"A man comes down that lane now and stops, because about nine times a week there is a stranger at that rail who wants to know where a door is. A stranger who is asking is the most interesting thing that has happened in this lane since I was young."
+"A man comes down that lane now and stops, because nine times a week there is a stranger at that rail who wants to know where a door is. A stranger who is asking is the most interesting thing that has happened in this lane since I was young."
 
 "And when the stranger comes back a second time about a month later, and he has, and he has not come back a third time, that is a person in my lane who now knows a thing."
 
 "That is a business."
 
-"That is not a business," said Brack. "It is about nine more strangers a week coming through that mouth of the lane, and every one of them takes about nine seconds, and nine seconds times nine is about a minute and a quarter, and I have got that minute and a quarter for nothing and I am not going to be able to keep it."
+"That is not a business," said Brack. "It is nine more strangers a week coming through that mouth of the lane, and every one of them takes nine seconds, and nine seconds times nine is about a minute and a quarter, and I have got that minute and a quarter for nothing and I am not going to be able to keep it."
 
 ## What Brack Would Not Let Him Do
 
@@ -88,7 +88,7 @@ Lin Hao stood in that lane and let it be what it was for about nine seconds.
 
 "It is the right price," he said.
 
-"It is a price and it is mine and I have said it out loud in a public lane at about eleven in the morning, and about four people heard it, and I am not going back to it in a week with a better number because I am the sort of man who has one."
+"It is a price and it is mine and I have said it out loud in a public lane at eleven in the morning, and four people heard it, and I am not going back to it in a week with a better number because I am the sort of man who has one."
 
 "I was not going to argue it."
 
@@ -140,7 +140,7 @@ Then Brack picked the rag out of his apron and folded it once, and stood with it
 
 "I have not decided that."
 
-"You decided it about four steps down that hill and you have been carrying it since the fourth," said Brack. "Come and look at it when you like. And when you do, do not touch the board, because a man who touches a slate to read it leaves a smear on it, and the smear says he was here, and I have got nine stools of people who can read a smear."
+"You decided it four steps down that hill and you have been carrying it since the fourth," said Brack. "Come and look at it when you like. And when you do, do not touch the board, because a man who touches a slate to read it leaves a smear on it, and the smear says he was here, and I have got nine stools of people who can read a smear."
 
 Four thousand and sixty-eight days. Less four thousand and sixty-one, the twelfth of this one, is seven, and a man with nine stools priced the telling rather than the door, out loud in a lane, at about eleven, and said the number of stools a lane has left for people who are staying is two.
 

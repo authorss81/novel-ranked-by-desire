@@ -26,7 +26,7 @@ Brack put the rag in his apron.
 
 "I am going to say it slower."
 
-"Because I have watched about nine hundred people a week go past that board since the first year of this lane, and you are about to stand at the end of my nine stools and put a name on it in front of nine of them, and once that happens I am the man with a slate that says whose slate it is."
+"Because I have watched nine hundred people a week go past that board since the first year of this lane, and you are about to stand at the end of my nine stools and put a name on it in front of nine of them, and once that happens I am the man with a slate that says whose slate it is."
 
 "That is what I am about to do."
 
@@ -48,11 +48,11 @@ Brack did not interrupt him and did not look at the board once, and that took mo
 
 "It would have cost you nothing," said Brack.
 
-"It would have cost you about nine weeks of a lane that has carried a thing about me and made me stand in it."
+"It would have cost you nine weeks of a lane that has carried a thing about me and made me stand in it."
 
 "Which is what I am offering."
 
-"You offered it and I said yes in about four seconds on the second of last month, and then I spent three weeks deciding whether I had meant it, and I had, and I was wrong the first time and I knew I was wrong the whole time." He put his hands back in his coat.
+"You offered it and I said yes in four seconds on the second of last month, and then I spent three weeks deciding whether I had meant it, and I had, and I was wrong the first time and I knew I was wrong the whole time." He put his hands back in his coat.
 
 "That is not a man asking for a kindness. That is a man who wanted to be told that the figure did not matter, and you were the wrong person to ask because you would have done it."
 
@@ -64,7 +64,7 @@ Brack took the chalk off the ledge and put it in his pocket.
 
 "Yes."
 
-"A figure rubbed out in a lane is a figure the lane knows was rubbed out." Brack said it the way he says the six lines, standing up, in the ordinary voice, and about four people in that lane heard it.
+"A figure rubbed out in a lane is a figure the lane knows was rubbed out." Brack said it the way he says the six lines, standing up, in the ordinary voice, and four people in that lane heard it.
 
 "Nine districts. Nine stools. Everybody who comes down that lane can see whether a thing is on that board or off it. Every erased figure in this city is a figure this city knows was there, and a lane like mine can count."
 
@@ -74,7 +74,7 @@ Brack took the chalk off the ledge and put it in his pocket.
 
 He took the rag and wiped the end of the slate and put nothing on it, and that is what the rag is for.
 
-"You have just taken the only thing this lane keeps, which is that nine districts did not know what a slate in it was for, and you have put it in about nine heads in about eleven seconds."
+"You have just taken the only thing this lane keeps, which is that nine districts did not know what a slate in it was for, and you have put it in nine heads in eleven seconds."
 
 "In four days one of them will be in another lane. In a month the fourth one will be a division building and somebody there will know that there is a number about that office in public, and they will want it for a wall, and they will come up four flights and ask a clerk."
 
@@ -124,11 +124,13 @@ He said so out loud in that room, because it was owed and because he was in the 
 
 "I do not get to walk down a hill and tell a street that this office cost anybody anything. What I get is that a man with a board will say that figure is his, out loud, about four hundred times a week, for as long as that board is up in that lane."
 
-At half past five he took that book down the four flights and the four hundred yards himself, with a twist of wire round the tongue of the buckle, and it was in the flat file by ten past and it was not in that room at any hour of that night.
+He went down with the book under his arm at half past five and the wire round the buckle twisted twice in his own pocket on the way, and it was in the flat file by ten past and it was not in that room at any hour of that night.
 
-And at the top of that hill he stood in the dark for about nine seconds and worked out what he had done, which was that he had said out loud, in a public lane, in front of nine people, that the only figure in this city that stood up about him belonged to him, and that the price of that had been the quiet of nine other people's mouths, which he had gone down that hill on purpose to give away.
+And at the top of that hill he stood in the dark for nine seconds and worked out what he had done, which was that he had said out loud, in a public lane, in front of nine people, that the only figure in this city that stood up about him belonged to him, and that the price of that had been the quiet of nine other people's mouths, which he had gone down that hill on purpose to give away.
 
-The sheet comes off that rail again on the thirtieth of this month.
+He had come down it to stop owing a man nine weeks. He had gone back up it owing a man nine weeks and something else, and the something else had nine heads in it, and one of those heads was standing in a division building.
+
+There was no date on it. That was the shape of the thing he had bought, and he had not known it was in the price until a man who keeps nine stools stood in front of nine of them and said it out loud at eleven in the morning.
 
 Four thousand and eighty-two days. Less four thousand and seventy-five, the twenty-sixth of last month, is seven, and a figure in small chalk stood in a public lane and was not rubbed out, and about nine people in a lane now know whose it is, and that is what it cost.
 

@@ -1,6 +1,6 @@
 # The Figure Without A Holder
 
-Four thousand and forty-seven was the twenty-eighth of this one and the fifth of the next is day four thousand and fifty-four, and four thousand and fifty-four less four thousand and forty-seven is seven, and thirty less twenty-eight with five taken out of the next month is seven by the month count with the crossing named as itself.
+Four thousand and forty-seven was the twenty-eighth of this one and the fifth of the next is day four thousand and fifty-four, and four thousand and fifty-four less four thousand and forty-seven is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven by the month count with the crossing named as itself.
 
 ## Three Things On A Piece Of Paper
 
@@ -32,7 +32,7 @@ She put her finger on the bottom of it.
 
 She turned the bill round on that table so that all three of them were the right way up for him.
 
-"I have carried it up four flights twice. That is two mornings of work and I am not a woman with a morning to give away, and I have already worked out what I am going to do with it if you tell me it is all three true, which is that I am going to put it up on my own door and let about nine people in my street read it and see whether any of them can do better than a piece of paper."
+"I have carried it up four flights twice. That is two mornings of work and I am not a woman with a morning to give away, and I have already worked out what I am going to do with it if you tell me it is all three true, which is that I am going to put it up on my own door and let nine people in my street read it and see whether any of them can do better than a piece of paper."
 
 "Why would you do that."
 
@@ -42,7 +42,7 @@ She turned the bill round on that table so that all three of them were the right
 
 The figure was not answerable. Nothing in this city lets a man at a rail be found afterwards by anybody, including us, and the only thing that ever worked was a person standing in that passage on an ordinary afternoon.
 
-And that last thing is the part he had to say slowly, because it was four months old and it was the bill he was being handed.
+And that last thing is the part he had to say slowly, because it was four months old, and because the trade bill with his door written on it was lying on that table three feet from his own hand.
 
 There was one instrument that office ever had for finding out what is said about its address in a public street, and it was a man standing in that street on an ordinary afternoon, and the instrument was a man of about forty who is paid nothing and who says the six lines to whoever stands at the rail.
 
@@ -50,13 +50,13 @@ He had taken that instrument away in the last month of that winter. He had stood
 
 That was the eighteenth of the last month of that winter. It was four months old and it was on a piece of paper in a woman's hand, three feet from his own.
 
-"The standing is not answerable either," he said. "It is true and it is not about you and it is not answerable, because we have never had to show anybody a page, and there is a great many people in this city who have decided what that means and about nine of them are right."
+"The standing is not answerable either," he said. "It is true and it is not about you and it is not answerable, because we have never had to show anybody a page, and there is a great many people in this city who have decided what that means and nine of them are right."
 
 "And the place."
 
 "The place is true and it is the reason you are standing in this room."
 
-"It is on your bill because somebody in a lane said it out loud in front of a woman standing at a rail. That is where a door comes from now. Before the card went up this room was the only place that street existed, and since the card went up it has been said in about four hundred places a week by people who have never set eyes on it."
+"It is on your bill because somebody in a lane said it out loud in front of a woman standing at a rail. That is where a door comes from now. Before the card went up this room was the only place that street existed, and since the card went up it has been said in four hundred places a week by people who have never set eyes on it."
 
 "That is true, and I have not got an answer for it."
 
@@ -94,11 +94,11 @@ He turned round and put the door wide against the wall, which it was not by nine
 
 "You may write the date and the hour and the words I used, and the words I used are that this office keeps no roll of who comes through that door, has never kept one, and is not going to. And you may write that I said it with the door wide and both carriers standing within about nine feet of it, because that is true, and because a rule made quietly in a room has a way of being a different rule by the end of the week."
 
-She wrote for about two minutes and neither of them said one word while she did it, and about nine people went past that doorway in those two minutes.
+She wrote for two minutes and neither of them said one word while she did it, and nine people went past that doorway in those two minutes.
 
 She wrote it, and the date against it and the hour against that, and then she stopped, and then she added a second line underneath.
 
-"And this is yours and not mine," she said, "and you will have to account for it. From this morning it is on a page that says we said it, which means that in about four years a stranger can come up those four flights and ask why a room with no roll in it nailed its address to a door."
+"And this is yours and not mine," she said, "and you will have to account for it. From this morning it is on a page that says we said it, which means that in four years a stranger can come up those four flights and ask why a room with no roll in it nailed its address to a door."
 
 ## What Took Her Down That Stair
 
@@ -120,17 +120,17 @@ She had not moved off the step and she had the paper in her hand again with her 
 
 "Which is why the figure is the only one of the three I can put a finger on," she said. "The place is true. The standing is true and it is flattering. The figure is a lie built out of a true thing, and it is being carried by people who believe every word of it, and in a year there is going to be a family in this city that believes that office takes four hundred a year out of them."
 
-"Yes," he said, "and in about four months about nine of them will believe all three, and two of the three will be about a place that exists, and the figure will be the one that travels, because a figure is the easiest thing a person can carry away without being proved wrong."
+"Yes," he said, "and in four months nine of them will believe all three, and two of the three will be about a place that exists, and the figure will be the one that travels, because a figure is the easiest thing a person can carry away without being proved wrong."
 
 ## Nine Ways To Find A Place
 
-She stood in that doorway for about nine seconds with the trade bill in her hand.
+She stood in that doorway for nine seconds with the trade bill in her hand.
 
 "You have told me that you cannot find out who is saying this, and that you will not write down who comes to see you, and that the only true way to check anything is to climb four flights on a working morning," she said. "And you have not told me the one thing I came up here for, which is whether there is another way to get at you, and there is, and I have seen it."
 
 "Then tell me what it is."
 
-"I will not, because you have had a morning of somebody else's writing already and you have had about nine of those in a year." She put the paper back in her pocket. "You will find out about it from somebody else, in about a fortnight, and by then there will be a second piece of paper, and the second one will be the one that gets copied."
+"I will not, because you have had a morning of somebody else's writing already and you have had nine of those in a year." She put the paper back in her pocket. "You will find out about it from somebody else, in about a fortnight, and by then there will be a second piece of paper, and the second one will be the one that gets copied."
 
 Then she went down four flights with her own three things in her pocket and did not look back at the door.
 

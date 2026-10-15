@@ -10,25 +10,25 @@ The figure was in the same small chalk in the same hand. The four days of the mo
 
 In the eight days since he had last been in that lane, a man had come to the third stool and asked Brack whether that number was still right, and Brack had said that it was on the slate and that it was his, and the man had gone away.
 
-That is what he had come down for and he had it in about four minutes.
+That is what he had come down for and he had it in four minutes.
 
 The man had been about forty and he had wanted to be told whether the figure was still the case, and Brack had told him, and the man had believed it, and he had gone on down the lane to wherever he was going.
 
-That is a service. A man at a counter reading the foot of a quarterly sheet four times a year is a service with about nine people a week in front of it now, and this one is a man in a lane with a board behind a door, and it costs nothing, and it has never been wrong.
+That is a service. A man at a counter reading the foot of a quarterly sheet four times a year is a service with nine people a week in front of it now, and this one is a man in a lane with a board behind a door, and it costs nothing, and it has never been wrong.
 
-The office upstairs can be exact about four things and has no instrument for the fifth, which is what gets said about it while that lane is empty of anybody with a question in it.
+The office upstairs is exact about four things and has no instrument for the fifth, which is what gets said about it while that lane is empty of anybody with a question in it.
 
 ## What A Figure Untended Is Worth
 
 He worked it out on the way back up the hill and it took him until the second landing.
 
-A figure somebody maintains is a claim. It has a man behind it and a reason and it can be argued with, and in about four months somebody in that lane will be able to ask him when he last checked it and he will have to have a date.
+A figure somebody maintains is a claim. It has a man behind it and a reason and it can be argued with, and in four months somebody in that lane will be able to ask him when he last checked it and he will have to have a date.
 
-A figure untended is a fact. It stands there in his own chalk and it has been stood in the same place since the last working day of the year, and every person who reads it is reading something that about four hundred people a week pass without stopping to examine.
+A figure untended is a fact. It stands there in his own chalk and it has been stood in the same place since the last working day of the year, and every person who reads it is reading something that four hundred people a week pass without stopping to examine.
 
 The lane was one of the four places in this city where something about this office was true and could not be improved by anybody.
 
-He had wanted the eight of the ninth month of last year to answer a question he had actually asked out loud in a corridor, and about four hundred people a week had not asked it out loud in a corridor, and had asked it in the only way anybody has ever really asked anything, which is by repeating a thing they were told to somebody who is not in a position to check.
+He had wanted the eight of the ninth month of last year to answer a question he had actually asked out loud in a corridor, and four hundred people a week had not asked it out loud in a corridor, and had asked it in the only way anybody has ever really asked anything, which is by repeating a thing they were told to somebody who is not in a position to check.
 
 That office has three ways of being checked in this city and two of them cost money. The third is a lane off Cordwain with nine stools and a board in it, and it is the cheapest and the only one that pays.
 
@@ -40,7 +40,7 @@ Brack had not let him get to the bottom of the yard.
 
 "I came to say I am not going to chalk it."
 
-"You came to say you were sorry about something you cannot fix, which is the whole of what a man comes down a hill for." He took the rag out. "And I am going to save you the walk and say the thing you have not said yet."
+"You came to say you were sorry about something you cannot fix, which is what a man comes down a hill for." He took the rag out. "And I am going to save you the walk and say the thing you have not said yet."
 
 He wiped nothing.
 
@@ -60,7 +60,7 @@ Lin Hao stood in that lane.
 
 "Yes."
 
-"And in about four months, every person in this city who finds that door is going to tell somebody, and the somebody is going to say, I heard it from a man with a slate, and there is not going to be a figure on the slate any more, and then it is a thing that happened to a delivery man, which is worth about half of what it is worth while it can be checked on a board."
+"And in four months, every person in this city who finds that door is going to tell somebody, and the somebody is going to say, I heard it from a man with a slate, and there is not going to be a figure on the slate any more, and then it is a thing that happened to a delivery man, which is worth about half of what it is worth while it can be checked on a board."
 
 ## Three Weeks
 
@@ -70,7 +70,7 @@ Lin Hao stood in that lane.
 
 He went back up the hill and walked up it at the pace of a man who has just bought himself three weeks.
 
-Three weeks is nothing. He had decided larger things about that room in smaller times, and the only thing about three weeks was that they were going to have to be spent on something.
+Three weeks is nothing. He had decided larger things about that room in smaller times, and all three of these weeks were going to have to be spent on something.
 
 The options at the top of that hill on the second were two, and he had held both of them, and he had not said one word about either to a living soul: say it here in the lane to a man in a public lane and have it done in about four seconds, or say it in that room at the end of a quarter when the door was open and the two carriers were on the stair.
 
@@ -84,7 +84,7 @@ The third figure was still in Brack's head. It has no unit he can write after it
 
 Every day it was not written it lost about a piece in fifty.
 
-It had been carried about three months by the second of this one and by the twenty-sixth of this one it was out by about the length of a quarter. When it went on that board it would be wrong, and there would be nothing standing behind it, because the only account of what had been said in that passage in that quarter lives in about nine heads in a lane and every one of those nine was standing there when it was said.
+It had been carried three months by the second of this one and by the twenty-sixth of this one it was out by about the length of a quarter. When it went on that board it would be wrong, and there would be nothing standing behind it, because the only account of what had been said in that passage in that quarter lives in about nine heads in a lane and every one of those nine was standing there when it was said.
 
 That debt was a quarter old now and it was his to carry and not Brack's, and he had not spent one word of it in four months.
 
@@ -98,11 +98,11 @@ At about two he said it out loud in that room with the door open and both carrie
 
 "I am not going down that hill again before the quarter turns."
 
-Wenna Raut put the pen down and looked at him for about four seconds.
+Wenna Raut put the pen down and looked at him for four seconds.
 
 "Say the reason and not the decision," she said.
 
-"Because the only thing that makes a figure on that board worth anything is that a man does not touch it," he said, "and I am the only person in this city who cannot go nine weeks without checking a thing, and if I go down there in the last week of this quarter then in about four months there is a smear on that slate and a man in a lane can read the smear."
+"Because the only thing that makes a figure on that board worth anything is that a man does not touch it," he said, "and I am the one person in this city who cannot go nine weeks without checking a thing, and if I go down there in the last week of this quarter then in about four months there is a smear on that slate and a man in a lane can read the smear."
 
 "That is the reason and it is a good one and you have had it ready since about the fourth."
 
@@ -116,11 +116,13 @@ He had to stand there and take that, because it was correct, and because she had
 
 That was the whole of the twenty-sixth.
 
-At half past five he carried that book down four flights and about four hundred yards with the wire twisted twice about the tongue of the buckle, and at the bottom of the yard he stood still for about nine seconds, and he did not go down the hill, and that was the whole of it.
+The book came down at half past five and the wire went round the buckle twice and the yard was dark by the time he was standing at the bottom of it, and he stood there nine seconds and did not go down the hill.
 
-There were three weeks between that day and the last working day of the next month, and he had told a man in a public lane that he would come and ask him on the first morning of them, and he had already decided not to, and he had decided it in about four seconds on the second and had spent twenty-four days letting the decision stand up in the open where he could not see it himself.
+There were three weeks between that day and the last working day of the next month, and he had told a man in a public lane that he would come and ask him on the first morning of them, and he had already decided not to, and he had decided it in four seconds on the second and had spent twenty-four days letting the decision stand up in the open where he could not see it himself.
 
-That was new. A month ago he would have made it on the spot and been certain of it by the time he was halfway up the hill.
+He used to be certain of a thing by the time he was halfway up the hill. This was the first decision in nine years that had taken longer to hold than it took to make, and it had made it in a lane on the second and had not been argued with since.
+
+And a promise made out loud in a public lane has a date on it. The date was the first of this month, and on that date a man who had waited a quarter for a sentence was going to stand at the end of nine stools and be handed nothing, and there was nobody upstairs who was allowed to enter that.
 
 Four thousand and seventy-five days. Less four thousand and sixty-eight, the nineteenth of this one, is seven, and a figure in small chalk stood for a whole quarter in a public lane without being touched or corrected by anybody, and he did not go down and look at it again.
 

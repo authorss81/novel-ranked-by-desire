@@ -34,7 +34,7 @@ He did not open the door. He opened it onto the landing and stepped out and pull
 
 He said it there, on the landing, in the ordinary voice, to one man in the dark at two in the morning, and the room door stayed shut behind him, which was the arrangement he had chosen in about two seconds and had not decided on.
 
-He had worked out that sentence in about nine seconds with his hand on a bolt, and the nine seconds were the whole of the time it took to establish that there was not one version of it that was kinder and one version of it that was softer, and that softening it was the same thing as apologising for the card being true.
+He had worked out that sentence in nine seconds with his hand on a bolt, and the nine seconds were the time it took to establish that there was not one version of it that was kinder and one version of it that was softer, and that softening it was the same thing as apologising for the card being true.
 
 The man did not answer that. Somewhere below them a gate went along a yard and the sound went away down the hill, and that stair holds everybody at that hour in the same way.
 
@@ -42,7 +42,7 @@ The man did not answer that. Somewhere below them a gate went along a yard and t
 
 ## Everything The Card Told Him To Do
 
-The man was about four minutes getting it out, and he was not angry and he was not drunk, and he had come off a shift at one that morning and walked from there.
+The man took four minutes getting it out, and he was not angry and he was not drunk, and he had come off a shift at one that morning and walked from there.
 
 "I finish at one," he said. "I have finished at one for eleven years. I saw your card in a fortnight, in a bookbinder's, off a man who had it in his pocket and I read the hours and I thought, a quarter to ten, and I have had a morning at a quarter to ten every day of my life and I never once thought about the other end of it."
 
@@ -78,7 +78,7 @@ He got up.
 
 "I have got a boy who does not sleep till four," said the man, "and I have walked past this court at about half one every night for eleven years, and since the turn of the year I have looked up at this stair about nine times and worked out which of those four doors it is, and tonight I looked up at it and came up."
 
-He said it with no weight on it at all, and it was the sentence that Lin Hao was going to be carrying for about nine years.
+He said it with no weight on it at all, and it was the sentence that Lin Hao was going to be carrying for nine years.
 
 "You looked up at it nine times."
 
@@ -102,7 +102,7 @@ He stayed with it until about a quarter to four and then got up and did not writ
 
 A row in that book takes the date and the hour and the words a person used, and a row about a man who comes at the wrong end of an hour has nowhere to go, because the words he used were about a door and the thing that happened was to a man, and those are two subjects and the book takes one of them at a time.
 
-He had learned one thing in three hours and it was not about the hours. A door with a time on it cannot be stopped at the wrong end of that time by anything the office does, and every one of about nine people a fortnight arrives at the wrong end of it once, and about one of them arrives twice, and the second one does not come a third time.
+He had learned one thing in three hours and it was not about the hours. A door with a time on it cannot be stopped at the wrong end of that time by anything the office does, and every one of nine people a fortnight arrives at the wrong end of it once, and about one of them arrives twice, and the second one does not come a third time.
 
 And a man who has told nine people in a week will tell nine more inside a month, and what he will tell them will be whatever a woman in a lane or a man at a counter gave him for nothing, and there is a kind of person in this city who has a figure and a standing and a place and cannot put any of the three down anywhere, and she has been writing them on the backs of things for about a month.
 

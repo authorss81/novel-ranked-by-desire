@@ -8,7 +8,7 @@ On the morning of the twelfth he took the length of that table, from the drawer 
 
 There were nine.
 
-He had known there were about four since the thirtieth of December, and eight of them had come out of that room in the three months since, and the ninth came last and it had taken him until about eleven.
+He had known four of them since the thirtieth of December, and four more had come out of that room in the three months since, and the ninth came last, and it had taken him until about eleven.
 
 He said each of them out loud as he got to it, because he was not going to hold nine of them in his head past lunch.
 
@@ -30,7 +30,7 @@ He stopped on that one, because it is the one he had never thought about, and th
 
 It is an act of procedure. A man goes to a division building and asks a question, and a clerk looks the address up in a book that every counter in that division keeps, and writes it on a slip, and hands it over, and goes back to work.
 
-That clerk breaks about nine rules a day and is not breaking any of them, because the book is the book and the slip is the slip, and every address in it sits in a book that is never opened out loud in a waiting room.
+That clerk breaks nine rules a day and is not breaking any of them, because the book is the book and the slip is the slip, and every address in it sits in a book that is never opened out loud in a waiting room.
 
 In four months this office is going to be asked for those hours for a wall, and the asker will come up four flights, and the sixth of these nine is the one that will do it.
 
@@ -40,7 +40,7 @@ The eighth is a man who was going that way anyway, who writes it on a delivery d
 
 The fourth, the seventh and the eighth are the three that took nine years of his life each, and he had spent an entire winter being wrong about the fourth.
 
-He had assumed, for about four months, that the way this city would find his door was a copy. Somebody would write it out, and the copy would spread, and one day about four hundred people a week would walk past a door that had never existed, built entirely out of paper.
+He had assumed, for four months, that the way this city would find his door was a copy. Somebody would write it out, and the copy would spread, and one day about four hundred people a week would walk past a door that had never existed, built entirely out of paper.
 
 What had actually happened is the reverse of that. Eight ways had come up, and every one of them was a person being useful to another person for nothing, and none of the eight had been in a hurry, and none of the eight had ever set eyes on the door.
 
@@ -54,9 +54,9 @@ Wenna Raut had her pen in her hand.
 
 "The ninth is the door," said Lin Hao. "It is free, it is exact, it takes about four flights, and it has an address and a set of hours on it and it cannot be written to, because a door is not a counter and there is a person standing in front of it."
 
-"It is the only one of the nine that cannot be copied wrong."
+"It cannot be copied wrong."
 
-"It is the only one of the nine that has to be walked to," he said. "And that is the whole of what this office has got, and eight other ways are going round it in the city while we are standing here."
+"It is the only one of the nine that has to be walked to," he said. "And that is all this office has got, and eight other ways are going round it in the city while we are standing here."
 
 ## What Every One Of Them Ends In
 
@@ -84,9 +84,13 @@ Eight of them ended with three lines on something in somebody's possession, and 
 
 "Yes."
 
-"It is the first list of this office anybody has ever made."
+"Then it exists somewhere, and the somebody it exists for is a woman who has to hand it on."
 
-"It is the first one I have made," said Lin Hao, "and I made it in my head on the length of a table and I said it out loud in a room with the door shut, and that is the entire difference between this and the thing we have spent nine years not doing."
+"It exists here," said Lin Hao. "Two of us, on the length of a table, and neither of us is going to have it in the same order by the autumn, and that is the arrangement and I would rather have that arrangement than the other one."
+
+"You would rather be the only man in this city who cannot check his own list."
+
+"Yes. And I would rather that than the other arrangement."
 
 ## Why He Wrote None Of It Down
 
@@ -94,7 +98,7 @@ Eight of them ended with three lines on something in somebody's possession, and 
 
 "I am not going to write down one word of it."
 
-"I am not going to either," said Wenna Raut, "and I want it on the record that you said that at about eleven in the morning of a day when you had already decided it at about eight, and that you were pleased with yourself for about nine seconds and then went and took the strap out of the drawer and wanted to write the first line anyway."
+"I am not going to either," said Wenna Raut, "and I want it on the record that you said that at about eleven in the morning of a day when you had already decided it at eight, and that you were pleased with yourself for nine seconds and then went and took the strap out of the drawer and wanted to write the first line anyway."
 
 He did not deny it.
 
@@ -106,7 +110,7 @@ He did not deny it.
 
 ## The Man In The Passage
 
-He said the whole of it out loud in that room at about four in the afternoon with the door open, because a thing worked out in a room with the door shut on the twelfth of a month is a thing somebody else has changed by the end of the week.
+He said all of it out loud in that room at four in the afternoon with the door open, because a thing worked out in a room with the door shut on the twelfth of a month is a thing somebody else has changed by the end of the week.
 
 He had got as far as the fifth when a man came up those four flights and stopped in that doorway and listened to the rest of it, and when he had finished, the man came about two steps into the room.
 
@@ -118,7 +122,7 @@ He had got as far as the fifth when a man came up those four flights and stopped
 
 "It has to be walked to."
 
-"That is nine ways a person can get hold of you," said the man, "and you have eight of them in your head, and if you ever want to tell anybody else in this city how to find you, you will have to start by fixing the eight."
+"That is nine ways a person can get hold of you," said the man, "and eight of them are on other people's hands, and if you ever want to tell anybody else in this city how to find you, you will have to start by fixing the eight."
 
 "And I could fix them," said Lin Hao.
 
@@ -126,15 +130,15 @@ He had got as far as the fifth when a man came up those four flights and stopped
 
 "About nine copies a month."
 
-"About nine copies a month, and about four hundred people a week going past a kerb with the whole of it in their heads."
+"Nine copies a month, and four hundred people a week going past a kerb with all of it in their heads."
 
 He went back down four flights and did not give his name and was not asked, and neither of those two facts was entered, because neither of them is a question anybody said out loud.
 
 ## What He Took Away From It
 
-At half past five he carried that book down with the wire twisted twice, and at the bottom of that yard he stood still for about nine seconds, and then he went down the hill.
+The book went down the four flights at half past five, wired round the buckle twice, and at the bottom of that yard he stood still for nine seconds before he went down the hill.
 
-Because the man at the counter was right, and because the man at the counter had been right in a lane for nine years without anybody asking him for a single fact, and because somewhere between here and Cordwain there was a man who kept nine stools in a lane and had been right about every fact since the first year of it.
+Because the man at the counter was right. He had been right in a lane for nine years without anybody asking him for a single fact, and somewhere between here and Cordwain there was a man who kept nine stools in a lane and had been right about every fact since the first year of it.
 
 If eight ways were walking round his door in this city, then they were walking round that lane first.
 

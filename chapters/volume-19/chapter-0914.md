@@ -16,21 +16,21 @@ Lin Hao went out at about half past two on the twenty-first with an answer in a 
 
 It was four miles. He had walked it once before, in the autumn, in daylight, and it had seemed like a walk.
 
-At about ten minutes to five the light went off the tops of the yards the way it does in that month, and by twenty past it there was about four usable minutes of a day left and then the lamps came on in the streets and not in the yards.
+At about ten minutes to five the light went off the tops of the yards the way it does in that month, and by twenty past it there were four usable minutes of a day left and then the lamps came on in the streets and not in the yards.
 
 He went through the middle of it at about half past four, when the yards are the colour of the sky and every window in them is a different grey, and he went through it slowly because the alternative was standing still in a street in that month with a fold of somebody's answer in his coat.
 
-There is about four miles of that city between the room and that door and none of it is difficult. What is difficult is four miles of it at the wrong end of the afternoon, once, on a day when the office is closing at half past five and has been closing at half past five for nine years.
+There are four miles of that city between the room and that door and none of it is difficult. What is difficult is four miles of it at the wrong end of the afternoon, once, on a day when the office is closing at half past five and has been closing at half past five for nine years.
 
 The wire had been twisted twice about the tongue of the buckle since the middle of the morning, because the strap is nine years heavy and the tongue has gone.
 
-Somewhere in the fourth mile his back went, the way it goes, at the bottom of a step it had no business being at the bottom of. He got up in about nine seconds without putting a hand anywhere, because a man who puts a hand on a step on an empty street in that month is a man who explains his back to whoever finds him.
+Somewhere in the fourth mile his back went, the way it goes, at the bottom of a step it had no business being at the bottom of. He got up in nine seconds without putting a hand anywhere, because a man who puts a hand on a step on an empty street in that month is a man who explains his back to whoever finds him.
 
 ## The First Door
 
-The first door was a door he had never seen and he was about four minutes past five when he got to it.
+The first door was a door he had never seen and he was four minutes past five when he got to it.
 
-A woman came to it with a cloth in her hands and he gave her the fold and told her the date and the hour on the outside and nothing else, and she took it and read it standing in the doorway in about nine seconds.
+A woman came to it with a cloth in her hands and he gave her the fold and told her the date and the hour on the outside and nothing else, and she took it and read it standing in the doorway in nine seconds.
 
 "It is about your mother's ceiling," she said, to somebody behind her.
 
@@ -48,7 +48,7 @@ Then he had to get it forty yards and he did not want to walk forty yards, and h
 
 That was three hands and he had been the fourth.
 
-She had run it to the right door. That was the whole of the risk in the two hundred yards between the man's door and the child's and it came out right, and the child came back along the yard at a run and went past him without stopping, because a child who has been sent to do a thing and has done it does not stop on the way back.
+She had run it to the right door. That was all the risk in the two hundred yards between the man's door and the child's and it came out right, and the child came back along the yard at a run and went past him without stopping, because a child who has been sent to do a thing and has done it does not stop on the way back.
 
 Three of those hands were strangers to each other, and the child knew the man she was running for, and had said good morning to him about nine days ago, and the woman in the first doorway had never seen any of the other three.
 
@@ -90,7 +90,7 @@ She read the four lines.
 
 "And it is the first entry in nine years that anybody could get hold of."
 
-"Yes," he said. "That is the whole of what I want from you to say about it."
+"Yes," he said. "That is all I want from you to say about it."
 
 "I know it is. I said it because somebody has to have said it in this room tonight, and you were not going to, because you have never once in nine years come up that stair and told me the cost of a thing at the same moment as you did it."
 
@@ -122,7 +122,7 @@ There is one, and there is a very short distance between one and four, and the d
 
 Four names would go in beside four numbers and then it would be a record of a man, a woman, a child and a stranger in four streets in one afternoon, and then in about two years there would be a second afternoon, and then it would be a column, and a column is a thing a person can be asked about, and a person asked about twice begins to be a person somebody is keeping.
 
-He had spent about nine years refusing to build one thing, and he had built it this afternoon and taken four names out of it and let that stand as the whole of what happened.
+He had spent nine years refusing to build one thing, and he had built it this afternoon and taken four names out of it and let that stand as all of what happened.
 
 At the bottom of the yard a delivery man was going out and said good evening to him on the step, in the ordinary way, and neither of them mentioned a door.
 

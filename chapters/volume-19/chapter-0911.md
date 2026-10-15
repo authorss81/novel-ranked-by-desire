@@ -4,7 +4,7 @@ Four thousand and twelve was the twenty-third of this one and the thirtieth of t
 
 ## What A Quarter-End Brings In
 
-A quarter-end brings people who have been sitting on something since the last one. About nine of them came up those four flights before midday on the strength of the day and about four of the nine were asking about a person, which is the proportion that room has been running at since the spring before last.
+A quarter-end brings people who have been sitting on something since the last one. Nine of them came up those four flights before midday on the strength of the day and four of the nine were asking about a person, which is the proportion that room has been running at since the spring before last.
 
 Two of the nine had a piece of paper in their hand. One of those was the door and the street and the hours, in his own writing, folded twice and opened out again. The other was the door and the stair and the third door off the landing, and that fourth line exists in about nine heads a fortnight and is not on anything.
 
@@ -34,7 +34,7 @@ The passage off Cordwain is four feet wide and about four hundred people a week 
 
 "I know you were. Read me the six first, and then I am going to say the top of it out loud in that passage, and I would rather you had done the six before we had the argument about which of us got to the number."
 
-The man read the six. It took him about eleven seconds and it is the thing he does four times a year, and he did it standing up, in the ordinary voice, with about four people going past and none of them stopping.
+The man read the six. It took him eleven seconds and it is the thing he does four times a year, and he did it standing up, in the ordinary voice, with four people going past and none of them stopping.
 
 ## The Head, In A Street
 
@@ -66,7 +66,7 @@ Then he said the part that was going to travel, and he said it to the passage on
 
 "He will say it is a figure somebody owes."
 
-"He will say something nearer that than what I said," said Lin Hao, "and he will say it in about nine days and I will not be standing next to him when he does."
+"He will say something nearer that than what I said," said Lin Hao, "and he will say it in nine days and I will not be standing next to him when he does."
 
 The man turned the old sheet a quarter turn with a knuckle and left it square again.
 
@@ -76,7 +76,7 @@ The man turned the old sheet a quarter turn with a knuckle and left it square ag
 
 There were nine people standing in that passage by the time he had finished, which was more than he had expected. Two of them were waiting on a delivery and one of them was a woman with a bag of string and one of them was a child going through to the yard gate with a signature to be met.
 
-One of them was a woman who had come in to buy a quarter of something and had stopped about six feet short of him when he started, and she stayed about six feet short of him for the whole of it.
+One of them was a woman who had come in to buy a quarter of something and had stopped six feet short of him when he started, and she stayed six feet short of him for the whole of it.
 
 She did not come nearer and she did not go away. When he had finished she said it to the man behind the counter and not to him, that her brother had had a number on a piece of paper in the spring and had never once been told what the number was.
 
@@ -96,7 +96,7 @@ Six lines in the office hand went up above the striking. Five instructions and o
 
 The two nails were the same two nails that the sheet went in on nine years ago.
 
-That is worth about four seconds of a man's attention on a quarter-end and about the whole of that room's history after it, because a rail that takes a fresh nail every ninety days becomes a rail that cannot be trued, and a rail that cannot be trued turns a sheet about a degree further out of true every year of it.
+That is worth four seconds of a man's attention on a quarter-end and the whole of that room's history after it, because a rail that takes a fresh nail every ninety days becomes a rail that cannot be trued, and a rail that cannot be trued turns a sheet about a degree further out of true every year of it.
 
 He took the forty-fourth under his arm. It weighed less than the roll did and it was warmer, because it had been up on a rail for ninety days of this quarter and had taken the light off that wall for all of them.
 
@@ -104,11 +104,11 @@ He took the forty-fourth under his arm. It weighed less than the roll did and it
 
 At half past five he carried that book down four flights and about four hundred yards in the dark, with the wire twisted twice about the tongue of the buckle, and the quarter-end sheet went into the flat file under the strap with it, where a bound Register has been kept for nine years and where a page that has been in a street that morning was never going to be.
 
-Then he stood at the bottom of that yard and worked out the whole of what he had done, standing still, in the cold, longer than a man usually stands at the bottom of a yard.
+Then he stood at the bottom of that yard and worked out what he had done, standing still, in the cold, longer than a man usually stands at the bottom of a yard.
 
 He had carried a number down a hill and said it out loud to about four hundred people a week go past a kerb, and the number was a count of paper.
 
-He had said it out loud in a street because he had wanted to. That is the honest shape of it and it took him about eleven seconds at the bottom of a yard in the cold to arrive at it, and what he had wanted was not the telling at all.
+He had said it out loud in a street because he had wanted to. That is the honest shape of it and it took him eleven seconds at the bottom of a yard in the cold to arrive at it, and what he had wanted was not the telling at all.
 
 What he had wanted was to be a man whose figure other people were guessing at, instead of a man with a figure he has to keep himself from guessing at.
 

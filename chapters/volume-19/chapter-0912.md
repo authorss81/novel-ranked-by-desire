@@ -8,13 +8,13 @@ A form goes up on the seventh of a month at the board by the kerb at the foot of
 
 It came down and it went up again on the same morning, which is what a form does, and nothing else happened on that kerb, and Lin Hao was two hundred yards up the hill at about eight and knew all of it from the window.
 
-It was the same size and the same weight as the one it had replaced, and both of them were sheets about the hill and not about the door. That is the whole of what the seventh of a month is: a thing that happens on a day, in a place, whether or not anybody walks up a hill to see it.
+It was the same size and the same weight as the one it had replaced, and both of them were sheets about the hill and not about the door. That is all the seventh of a month is: a thing that happens on a day, in a place, whether or not anybody walks up a hill to see it.
 
 He had not gone down. There was nothing at that corner that could be got at from a window two hundred yards away, and he had been careful about that corner since the ninth of the last month of the winter, and this morning he was going to stay careful about it.
 
 ## Two Questions
 
-He wanted, on the morning of the seventh, to know one thing, and it took him until about eleven to get it, and getting it was the whole of the trouble.
+He wanted, on the morning of the seventh, to know one thing, and it took him until about eleven to get it, and getting it was the whole trouble.
 
 He went down to the counter under the window and asked the man one question, and it was how many people had stood at that rail in the week.
 
@@ -44,7 +44,7 @@ He asked her one more thing before he stopped, and it was whether she had heard 
 
 "Then somebody has added a line to that card in about nine districts."
 
-"Somebody has added a line to that card in about nine districts, and they have all added the same one, and not one of them knows that the other eight are carrying it."
+"Somebody has added a line to that card in nine districts, and they have all added the same one, and not one of them knows that the other eight are carrying it."
 
 ## What He Was Not Allowed To Do
 
@@ -52,15 +52,15 @@ He had a pencil. He did not take it out, and he stood at the end of that table f
 
 It was that a sentence with two nouns in it is a sentence somebody can carry down a hill.
 
-Eleven at a rail and nine up a stair, if they went on one page, would be one number by the end of the week. By the end of the month two people would be able to say that about nine strangers a fortnight come to a door, and the office would have published it, and it would be wrong, because those were not the same nine and it was not nine of anything.
+Eleven at a rail and nine up a stair, if they went on one page, would be one number by the end of the week. By the end of the month two people would be able to say that nine strangers a fortnight come to a door, and the office would have published it, and it would be wrong, because those were not the same nine and it was not nine of anything.
 
-A count and a row are never the same thing, and an address and a crowd are never the same thing, and the whole of the difference between them fits inside the width of a line.
+A count and a row are never the same thing, and an address and a crowd are never the same thing, and the whole difference between them fits inside the width of a line.
 
 He said the sentence out loud once, with the door open, to find out what it sounded like.
 
 "About eleven people a week find that door at a counter off Cordwain, and about nine people a week walk up four flights to it."
 
-It sounded exactly like a sentence. It sounded like a line in a report with a heading over it, and it would have gone on to that table in about four seconds if the standing sheet had anywhere for it, and the standing sheet has four columns that have all been in use for nine years and one of them is the second column, and the second column is four lines deep and is not going to be five lines deep this year.
+It sounded exactly like a sentence. It sounded like a line in a report with a heading over it, and it would have gone on to that table in four seconds if the standing sheet had anywhere for it, and the standing sheet has four columns that have all been in use for nine years and one of them is the second column, and the second column is four lines deep and is not going to be five lines deep this year.
 
 He did not write it down and he did not say it out loud, and that was the first day this year he had wanted to say a thing and had found nothing to say it with.
 
@@ -72,7 +72,7 @@ He did not write it down and he did not say it out loud, and that was the first 
 
 "You have been standing at that table with a pencil in your pocket and a face on you, and it is the second time this month, and the first time you went away and did not tell me why. Say what you want and I will tell you the answer I have."
 
-He wanted her to tell him in which order the nine had come up, not who they were, and he had about four seconds to work out why he wanted it before he said it out loud.
+He wanted her to tell him in which order the nine had come up, not who they were, and he had four seconds to work out why he wanted it before he said it out loud.
 
 "The order," he said. "Not who. In which order the nine came up the stair this week."
 
@@ -122,7 +122,9 @@ Runa Sato was the only thing he had ever found that carries from the room to the
 
 The reason he had not was that the first thing he would have asked her for, in the ninth year, would have been a list.
 
-Four thousand and twenty-six days. Less four thousand and nineteen, the thirtieth of this one, is seven, and eleven people stood at a rail in a week and nine people came up four flights in a week, and the two numbers are about two different crowds and this office has no instrument that could put them in one sentence.
+He had the order of nine off a clerk this morning who will not write it down. A woman four hundred yards off has been keeping that order in a book of her own since the ninth year, on her own two feet, and at that moment she was under a window two hundred yards below him, eating, and this office had never once asked her for a thing.
+
+Four thousand and twenty-six days. Less four thousand and nineteen, the thirtieth of this one, is seven, and eleven people stood at a rail in a week and nine people came up four flights in a week, and the two numbers are about two different crowds, and he was two hundred yards above the only person in this city who could have carried an answer to either of them.
 
 *Less four thousand and nineteen, the thirtieth of March, is seven, and the forty-fifth sheet has been face up on that rail for every one of the last seven of them, and it does not move until the thirtieth of June.*
 
