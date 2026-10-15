@@ -72,7 +72,7 @@ Whose hand took it: one line. In what order: one line.
 
 “Runa.”
 
-“Do not use my name to get a better entry out of me,” she said, and turned her head about nine degrees. “This is the first time in nine years my name has gone against a thing I have read.”
+“Do not use my name to get a better entry out of me,” she said, and turned her head the same nine degrees. “This is the first time in nine years my name has gone against a thing I have read.”
 
 ## One Street And One Door
 
@@ -146,7 +146,7 @@ She took him in in one push and went all the way down onto his hips and held the
 
 “That,” she said. “Thirty-nine doors this morning and nine returns and two streets, and this is what I was carrying at four o’clock.”
 
-Then she rode him properly, both palms spread on his chest and her hips grinding in a slow circle at the bottom of every stroke, and she talked the entire time in the flat voice she uses at a counter.
+Then she rode him properly, her heels hooked in the boards either side of him and her hips grinding in a slow circle at the bottom of every stroke, and she talked the entire time in the flat voice she uses at a counter.
 
 “Six of the nine were about the asker’s own paper. Two were about somebody else’s paper. One of those two came in a cap on the second of this month and he will not say whose.”
 
@@ -156,7 +156,7 @@ Then she rode him properly, both palms spread on his chest and her hips grinding
 
 “Then that is what I know,” said Runa Sato, “and I know it because a man I have not asked anything about for nine years put it into my hand at a rack on the second floor of a division building and said the word read it. I read it. I carried it down a street. And a woman told me at her door that she had already been asked about it once and had not answered either.”
 
-She came like that, sitting on him with her hand round the back of his neck and her mouth shut, which he had been told exactly once before in her life by her, and it made a noise against his collarbone that she afterwards denied making.
+She came like that, sitting on him with her fingers hooked round the back of his neck and her mouth shut, which she had told him once in six years and had not believed when she said it, and it made a noise against his collarbone that she afterwards denied making.
 
 She stayed on him about nine seconds and then got him up with her and set him against the wall by the door, her boots hooked behind his thighs, and took him again that way, and the lamp on its hook knocked against the wall with it.
 

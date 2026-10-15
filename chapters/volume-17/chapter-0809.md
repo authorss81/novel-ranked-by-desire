@@ -74,13 +74,13 @@ For that one he had to say the four words he says when a thing cannot be read ou
 
 That was new. That was not on the sheet and it was not on a slip, and it was happening in a room, out loud, at a counter, to his face.
 
-Six lines in the office hand, and the fourth of them about any person, and he gave that one the same weight as the other five.
+Six lines in the office hand, and the last of them the one about any person, and he gave that one the same weight as the other five.
 
 Then an old woman at the end of the rail asked him to read the line about any person once more, because her husband was hard of hearing on the side the rail was on and she wanted him to hear it from her and not from the counter.
 
-He read it again in the same voice at the same speed, and about four of the eleven went on arguing about the slips while he did it, and then he squared the sheet against the edge of the rail with his thumb, which he does every time.
+He did not do it twice. He came out from behind the rail, put his head down by her ear and said the line to her alone, once, and about four of the eleven stopped arguing about the slips to watch a man who reads a page lean out over the wood for one woman. Then he went back behind it and squared the sheet against the edge with his thumb, which he does every time.
 
-“Twenty-eight days since the eighteenth of December,” he said. “I have read four lines and I could not tell you one thing about any of them, and in twenty-eight days I have read eleven answers and eleven questions to about nine people a week who did not ask for any of it, and there is not one thing in this city that will let a man behind this counter say a word of it that is not written on the paper he is holding.”
+“One hundred and twelve days since the second of December,” he said. “I have read four lines and I could not tell you one thing about any of them, and in one hundred and twelve days I have read eleven answers and eleven questions to about nine people a week who did not ask for any of it, and there is not one thing in this city that will let a man behind this counter say a word of it that is not written on the paper he is holding.”
 
 “That is what I came to tell you,” said Lin Hao.
 

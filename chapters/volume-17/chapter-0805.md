@@ -54,7 +54,7 @@ He counted hands and not words, because hands were the only thing on that stone 
 
 Five hands. Two of them were old and three of them were not. The three new ones ran about nine days apart by the weather on them, which is worse than a date, because weather is not a thing a clerk can enter.
 
-Thirty-one days this month. Sixteen days since the office was told that any person might ask.
+Twenty-eight days of this month. Eighty-six days since the office was told that any person might ask.
 
 He put those two numbers beside each other in his own head about four times and both times they would not sit down next to one another. The third time he gave up. The fourth time he understood that there was nothing in the city that could make them sit down next to one another, and that if he tried to make them he would be building a list of about four hundred people who had gone low to that stone, and he does not build lists.
 

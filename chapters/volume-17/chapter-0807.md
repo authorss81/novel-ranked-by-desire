@@ -68,7 +68,7 @@ He had it ready and it was four sentences long and it went: somebody in your roo
 
 He did not say any of it.
 
-He had worked out in about four seconds, with his hand on the back of the second chair, that he was about to apologise to a man for the working of an office he had opened on purpose nine weeks earlier, with everybody's name on the instruction except the man's, and that every word of the four sentences would be true and every one of them would be an improvement.
+He had worked out in about four seconds, with his hand on the back of the second chair, that he was about to apologise to a man for the working of an office he had opened on purpose fourteen weeks earlier, with everybody's name on the instruction except the man's, and that every word of the four sentences would be true and every one of them would be an improvement.
 
 ## The Sentence He Said Instead
 

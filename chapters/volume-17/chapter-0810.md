@@ -6,7 +6,7 @@ Three thousand two hundred and ninety-three was the twenty-fourth of this month 
 
 The office had been asked anything since the second of December. It had answered in writing. It had carried its answers down four flights and along about four hundred yards to one hand.
 
-And for twenty-eight days it had also been cutting those answers into slips about the size of a hand and sending them down to a counter in a passage off Cordwain, and a man who is paid nothing had read them out at a rail to about nine people a week who had not asked for any of them.
+And for a hundred and eighteen days it had also been cutting those answers into slips about the size of a hand and sending them down to a counter in a passage off Cordwain, and a man who is paid nothing had read them out at a rail to about nine people a week who had not asked for any of them.
 
 Not one person had decided that. That was what he had learned on the previous afternoon and had not been able to put down since.
 
@@ -22,7 +22,7 @@ An office with an answer in it will find a way to put the answer where an answer
 
 ## The Number At The Top Of It, And Whose Count It Is
 
-She took the thirty-seventh out of the flat file at about ten past nine and carried it herself, because that is a thing a man who was here for the quarter-end does, and she squared it against the wood at about half past two and squared it again about four minutes later.
+She took the thirty-seventh out of the flat file at about ten past nine and carried it herself, because that is a thing a person who is here for the quarter-end does, and she squared it against the wood at about half past two and squared it again about four minutes later.
 
 Eight hundred and fifty-two.
 
@@ -148,7 +148,7 @@ He went back up four flights and stood in the corridor at about half past five w
 
 Then Wenna Raut entered the twelfth answer of the quarter with its date and its hour, and under it she entered that it had been carried by hand to the person who asked and delivered into that person’s hand at about ten minutes to five, and that the carrier had written the hand and the order in her own book in her own hand, and the asker had taken it shut.
 
-Neither of those two lines is in the office’s hand. They are in a clerk’s hand, at the date and the hour, in the words of the woman who wrote them, and they are the seventh thing that has ever happened to the foot of that page and none of them are ink.
+Neither of those two lines is in the office’s hand. They are in a clerk’s hand, at the date and the hour, in the words of the woman who wrote them, and nothing goes under the foot of that page today and nothing ever will, because there is no line there for a person’s hands.
 
 *Three thousand two hundred and ninety-nine days. Less three thousand two hundred and ninety-three, the twenty-fourth of this month, is six, and the thirty-sixth sheet had been face up on that rail for ninety days and came down at four and the thirty-seventh went up in its place carrying no new line in the office hand, and at about ten minutes to five a man carried the twelfth answer of the quarter down four flights in the rain and put it into the one hand it was for.*
 
