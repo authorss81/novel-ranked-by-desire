@@ -108,7 +108,7 @@ It is a blank sheet. It came out of his own drawer about three years ago and it 
 
 The thing on the table four floors up is not this and it is not going anywhere and the count at the end of this month will be twenty-five and one sheet again.
 
-He stood at the door of that laundry about four minutes with both hands empty while about nine people walked past on the way to work, and the smoke came out of that flue straight up into the cold of the eleventh of December and did not bend, and about four of them looked up at it.
+He stood at the door of that laundry about four minutes with both hands empty while about nine people walked past on the way to work, and the smoke came out of that flue straight up into the cold of the third of December and did not bend, and about four of them looked up at it.
 
 *Three thousand five hundred and forty-one days. Less three thousand five hundred and thirty-four, the twenty-fifth of this month, is seven, and a decision was made in a room off a third court which is a refusal and not ink, and a piece of paper with nothing on it went into a stove at half past six in the morning and the inside of a coat on the left is empty.*
 

@@ -86,7 +86,7 @@ The newest of the six is not about a building. It is not about an address. It is
 
 It is about a woman.
 
-It says that on the nineteenth of the month before last a woman came up four flights in the cold and stood in a corridor and went back down again without saying anything to anybody, and that not one person in that building asked her anything and that it was a cold morning and the stair turns twice.
+It says that on the nineteenth of last month a woman came up four flights in the cold and stood in a corridor and went back down again without saying anything to anybody, and that not one person in that building asked her anything and that it was a cold morning and the stair turns twice.
 
 ## And Then It Stops
 

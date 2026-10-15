@@ -86,13 +86,13 @@ He took a chair at the end of that table afterwards and did not go near the book
 
 It is his own, put in a year ago this month, with a date at the head and an hour under the date and then nothing whatever, and it has stood that way ever since, and three thousand five hundred and sixty-two less three thousand and eighty-two is four hundred and eighty days.
 
-Four hundred and eighty days is sixteen months, and sixteen months is sixteen quarters, and nothing in this city has ever seen the inside of that space and nothing ever will.
+Four hundred and eighty days is sixteen months, and nothing in this city has ever seen the inside of that space and nothing ever will.
 
 He did not go near it and he did not say a word about it, and Wenna Raut did not look at him while he did not say a word about it.
 
 ## The Part Neither Of Them Said Out Loud
 
-About nine answers went out of that room by hand between the second and the twenty-third of this month and nothing in this city could have checked a single one of them, because a man in a white plate burned the only copy of the foot of that page on the eighteenth of the month before last and forbade the fact of it being entered on a page of his own.
+About nine answers went out of that room by hand between the second and the twenty-third of this month and nothing in this city could have checked a single one of them, because a man in a white plate burned the only copy of the foot of that page on the eighteenth of last month and forbade the fact of it being entered on a page of his own.
 
 At about half past ten he said, “That is the twelfth stranger this year and there are eleven sentences in that book and you will put the twelfth on the page and it will say eleven.”
 

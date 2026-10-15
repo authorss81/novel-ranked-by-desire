@@ -62,7 +62,7 @@ The two words scratched into that stone are not among those six hands and are ne
 
 ## One Wrong, And An Answer Under
 
-One answer given out of this office in the last four months is wrong, and it is a wrong hour in the hour against a morning in October, and the right hour went in underneath it nine minutes later in a clerk's hand in the words the woman used, and the wrong hour is still above it and nothing in this city can take it out.
+One answer given out of this office in the last three months is wrong, and it is a wrong hour in the hour against a morning in October, and the right hour went in underneath it nine minutes later in a clerk's hand in the words the woman used, and the wrong hour is still above it and nothing in this city can take it out.
 
 Eleven sentences went into the Register this year in the words of the people who used them, from twelve strangers, because one of them asked twice.
 

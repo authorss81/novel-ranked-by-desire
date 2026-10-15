@@ -34,7 +34,7 @@ She put her pen down, which she does about twice a day and both times when somet
 
 “The second thing, and this is the one I have been holding since the second of this month,” said Wenna Raut, “is that you have taken away the only instrument that could have proved that this office is careful. You were careful about that paper for about fourteen months. There were four lines in it that another person’s hand could have been checked against and there is now nothing anywhere in this city that can say so.”
 
-“And in about four years somebody is going to write write down that this office did not care about anything, and they will be writing down a true thing.”
+“And in about four years somebody is going to write down that this office did not care about anything, and they will be writing down a true thing.”
 
 “They will be writing down a true thing about a decision and not about a person.”
 
@@ -84,7 +84,7 @@ The counterman did not move.
 
 “When.”
 
-“The eighteenth of the month before last. At about nine in the morning, at the back of a laundry, in a stove under a copper, in about nine seconds.”
+“The eighteenth of last month. At about nine in the morning, at the back of a laundry, in a stove under a copper, in about nine seconds.”
 
 “Was she there.”
 

@@ -108,7 +108,7 @@ She picked it up, turned it over once so that she could see her own handwriting 
 
 “Thank you.”
 
-“Do not thank me, I did it because a clerk may only enter what she is given and I had nothing given to me but a scrap,” said Wenna Raut. “The column has four lines and it will have four lines at the end of this quarter, and the woman in the fourth of them was paid on the second and she will be paid again on the twenty-ninth and that is the whole of what anybody in this city knows about her.”
+“Do not thank me, I did it because a clerk may only enter what she is given and I had nothing given to me but a scrap,” said Wenna Raut. “The column has four lines and it will have four lines at the end of this quarter, and the woman in the fourth of them was paid on the thirtieth of September and she will be paid again on the thirtieth and that is the whole of what anybody in this city knows about her.”
 
 She squared the standing sheet back on the shelf behind the door and did not mention the slip again.
 
