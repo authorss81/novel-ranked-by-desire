@@ -1,3 +1,29 @@
+# VOLUME 18 BATCH 0005 ON DISK — **THE VOLUME-WIDE GATE AFTER CHAPTERS 891–900, REBUILT FROM THE CHAPTERS. MOVEMENT FIVE, *THE SPACE*, IS CLOSED. THE VOLUME IS CLOSED. ONE THREAD CLOSED BY INK (NINE YEARS OF AN OFFICE THAT COULD NOT BE SENT TO, BY 900), THREE ADVANCED (THE TWO ROWS, THE SPACE, THE STONE SENTENCE), ONE CARRIED AS DEBT (THE BOOK ON THE TABLE, STILL GOING UP TWO AND COMING DOWN ONE), AND NONE OF THE TWENTY-TWO MUST-NOTS BROKEN. THE HEAD IS PRINTED AT 900 ONLY. THE RAIL BREAKS ONCE, AT 900.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## WHAT 891–900 DID TO THE THREADS
+
+**CLOSED BY INK, AND IT IS THE ONE PERMITTED CLOSURE OF THIS MOVEMENT: NINE YEARS OF AN OFFICE THAT COULD NOT BE SENT TO.** Nailed to that door on the thirtieth of December with three nails, straight: the street, the door at the head of four flights off a third court, and the hours between a quarter to ten and half past five on working mornings, five days in seven. Nothing else on it. Not one name. **WHAT THAT CLOSES: an office nobody could name ends on a piece of card a stranger can walk up to. WHAT IT COSTS: about forty people, the second quiet four years sooner, and his own hands.**
+
+**ADVANCED: THE TWO ROWS THE SAME SHAPE.** Dated nine days apart, entered by two people in the same words, about one drain and two houses, and the only thing that tells them apart is the day, and a day is not a person. Laid side by side in forbidden traces at 893 by Sun Meiling, who says which is about which person and cannot tell.
+
+**ADVANCED: HIS OWN AUGUST BLANK AND THE STRANGER'S QUESTION.** About eight hundred days old at 894, and nobody in that room can say what the space is for, and the chapter says so out loud in the ordinary voice.
+
+**ADVANCED: THE HALF-FINISHED SENTENCE IN THE STONE.** The seventh hand is in at 895, hurried and small near the right-hand end, stopping in the middle with the cutting clean behind it; about sixty words in seven hands; the two words scratched apart from the seven, not among them and never going to be, not printed and not asserted.
+
+**ADVANCED: BRACK'S FOUR-YEAR SENTENCE.** Advanced once at 900 and not discharged: told at his own lane that the second quiet comes about four years sooner than he says, and he says one sentence and does not say another, and rubs it out and writes it sooner.
+
+**STILL CARRIED AS DEBT AND NOT CLOSED: THE BOOK ON THE TABLE.** From the seventh of April in that room on working mornings, down at half past five by his own hands in the dark five days in seven since the twenty-fifth of October, up at a quarter to ten by two. The register is never upstairs overnight in any chapter of 891–900.
+
+## THE TWENTY-TWO MUST-NOTS, RE-RUN ACROSS TEN FILES
+
+1–14. **THE FOURTEEN INHERITED, ALL HELD.** No reach of 486 argued either way; no figure of the account, floor, total or balance; `settl` zero; the two words on the stone not printed and not asserted; nobody sent, traced or asked (the woman who cannot read absent and her sheet not moved; the broom woman unnamed and unasked; the boy not on the page at all); no stone yard and no docket date; the head at the quarter-end only, at 900; second column four lines; no seventh line in the office hand; his August blank never completed and never described; no rank, band, permission, standing or shift change; no new enemy; the blank sheet never handed, written on or filled in; **nothing into the inside of that coat on the left**; no burn, stove, smoke or record of one; no hand flat on anything; no third pair of hands as an arrangement.
+15. **THE PAGE IS NOT TURNED TOWARDS ANYBODY FROM THE TENTH OF JUNE.** Held ten of ten.
+16. **THE HOUR IS KEPT ON THE BACK OF HIS HAND AND NOWHERE ELSE.** Still no list, still nowhere a second person could pick it up; 891 names two figures there and writes none of it down.
+17–19. **THE THREE FROM 0002'S REVIEW.** No footer operand carried across the quarter-end at 900: **891–899 read three thousand eight hundred and thirty-nine, the thirtieth of September; 900 restarts from its own changeover and names it.** No assertion about any finished chapter's page beyond what that chapter says. No age of any person.
+20. **A DATE INSIDE A CHAPTER IS ARITHMETIC AND NOT DECORATION.** Held: every interval spoken in 891–900 is subtracted from that chapter's own day and from its neighbours', and no chapter runs past midnight save 899's naming of the twenty-first, which is named as itself and not an event.
+21. **ONE PERSON MAY NOT BE TWO.** Held. The two women at 891 are two houses and never merged. The widow at 896 is one person with one refusal.
+22. **THE WIDOWER OF THE TWENTY-THIRD OF JUNE IS NOT USED, THE CERTIFICATE IS NOT USED, THE SISTER DOES NOT COME A THIRD TIME, AND THE FOUR-YEAR CLAUSE AND THE SIXTH LINE ARE NEVER MERGED.** Held ten of ten.
+
 # VOLUME 18 BATCH 0004 ON DISK — **THE VOLUME-WIDE GATE AFTER CHAPTERS 881–890, REBUILT FROM THE CHAPTERS AND AGAIN AFTER THE REVIEW-FIX PASS AGAINST COMMIT `786a45d`, WHICH FOUND SIX DEFECTS AND REPAIRED ALL SIX IN PLACE WITHOUT RESTARTING A CHAPTER AND WITHOUT MOVING THE MOVEMENT'S PROMISE OR ITS IRREVERSIBLE DECISION.** MOVEMENT FOUR, *THE STAIR*, IS CLOSED. ONE THREAD ADVANCED AND DAMAGED (THE BOOK ON THE TABLE, AND THE ARRANGEMENT IT WAS KEPT UNDER), ONE CARRIED UNPAID AND NOW UNRESOLVABLE CHEAPLY (THE MAN ON THE HALF LANDING), THREE ADVANCED, TWO OPENED, AND NONE OF THE TWENTY-ONE MUST-NOTS BROKEN. THE HEAD IS PRINTED AT 886 ONLY. THE RAIL BREAKS ONCE, AT 886.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## WHAT 881–890 DID TO THE THREADS
