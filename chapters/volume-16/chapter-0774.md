@@ -118,6 +118,6 @@ She put the pen across the book.
 
 *Three thousand and thirty-five days. Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and a man opened a sheet he had carried for about a year at a counter and found that the fourth of four sentences was not about him, and that the page now carries two more lines at the bottom of it than it carried when he made his copy at a rail.*
 
-*Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and it is the same six as the line above, because the day a sheet goes face up on a rail and the day a thing happens to a person are two different days, and nothing in this city says which of the two a man has written.*
+*Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and the thirty-fourth sheet has been face up on that rail for every one of the last six of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is six hundred and fifteen days, which is twenty months and fifteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

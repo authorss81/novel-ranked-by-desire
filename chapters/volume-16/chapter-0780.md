@@ -144,17 +144,51 @@ She looked at him.
 
 “I want that written down somewhere that it was the nineteenth of July, and not the second of December, and not the fourth of April, and not this morning because you had nine minutes.”
 
-## About Four O’Clock, And A Rail In A Passage
+## Outside The Door On The Third Court
 
-He went down to the passage off Cordwain at about ten minutes to five and stood nine feet back and watched a man who is paid nothing read the bottom of a page to four people.
+Lin Hao came out of the stair door at about twenty past twelve and the man from the nineteenth of July was on the step below it with his hat still on.
 
-The page in front of that man has a figure at the head of it that has not moved since the fifth year, and about four hundred and nineteen lines under the head with a date and an hour against every one, and a second column with four lines in it under two printed words that say **carried by**, and four sentences at the foot, and six lines under those with the fourth struck from the first letter to the last.
+He had not gone out of the yard.
 
-It has two lines at the bottom of it now that it did not have in the year eight. In about six weeks the next one will have four.
+“So what do I do now.”
 
-And a man behind a counter will read all of them, in the order they stand, at the pace he reads everything at, to whoever is standing there, and there is no instruction in nine years that could shorten him by a single word.
+“Come back up four flights on the thirtieth of September,” said Lin Hao. “Any morning before four. She will read it back to you at that counter in the order it stands — your nine words first, then the eleven underneath them — and she will not improve one word of either.”
 
-*Three thousand and seventy-five days. Less three thousand and sixty-eight, the ninth of August of this year, is seven, and a clerk entered the first answer ever entered in this city under a row in her own hand with a date and an hour against it, and a third instruction went into the foot of the page, which is the fourth line in it, and about four hundred people are now answerable in public and in their own words for what they said in a room.*
+“And then.”
+
+“Then a man who is paid nothing reads the whole of the bottom of that page out loud in a passage to whoever is standing there. Both of yours are on it and he reads them in that order, and he cannot be told to read less of it.”
+
+The man turned the paper over in his hand.
+
+“I can read it myself.”
+
+“You can. You have never once read the bottom of that page out loud to anybody in your life.”
+
+“That is not a thing I would do.”
+
+“Then that is the whole of what you have been left,” said Lin Hao.
+
+The man put the paper back inside his coat and took a while over it.
+
+“So I came up four flights and said it was wrong and she wrote it down, and nothing has changed.”
+
+“Nothing has changed for you,” said Lin Hao. “That is not what it was for.”
+
+He waited.
+
+“It is for the next one,” said Lin Hao. “There is nowhere in this city to stand at a counter and say *you have got it wrong* and have it written down in the words you used. In about four years a man will be able to say that about a thing of his own and not about one word of what anybody has written down about him.”
+
+“You have cost me something and I do not know what it is yet.”
+
+“You have not been charged anything,” said Lin Hao, “and I am not going to let you go out of this door thinking otherwise. From the thirtieth of September about nine people a week will stand at that counter and be told a thing about themselves that they did not come in to ask about, in this office’s hand, in public, off the bottom of a page. It costs a person nothing. It is going to cost a person nothing for as long as that page is on that rail.”
+
+The man went down the step and out through the archway and did not look back.
+
+Lin Hao stood in the door and listened until he could not hear him, and then went back up the four flights. There were about nine people in that corridor and Wenna Raut was writing down what somebody else had said at that counter.
+
+Two lines at the foot of that page have never yet been on a page that went out. In about six weeks there will be four, and they go out two by two — a man’s nine words, then a sentence answering them — and this city has nothing that will take either of them off it.
+
+*Three thousand and seventy-five days. Less three thousand and sixty-eight, the ninth of August of this year, is seven, and a clerk entered the first answer ever entered in this city under a row in her own hand with a date and an hour against it, and a third instruction went into the foot of the page as its fourth line, and about four hundred people written down in public since the thirtieth of March are now answerable in their own words for what they said in a room.*
 
 *Less three thousand and twenty-nine, the thirtieth of June of this year, is forty-six, and the thirty-fourth sheet has been face up on that rail for every one of the last forty-six of them.*
 
