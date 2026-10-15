@@ -4,7 +4,7 @@ Four thousand four hundred and seven was the twenty-eighth of last month and the
 
 ## Four Feet Of Pavement
 
-He was at the bottom of that stair by a quarter to ten with his shoulder to the wall and the morning bright. Four flights rose above a third court to a door with a card on it, and the card carried the street and the door and the hours and not one name. He had stood there six weeks and today opened the seventh, and his body knew the wall the way his hands knew the table upstairs.
+He was at the bottom of that stair by a quarter to ten with his shoulder to the wall and the morning bright. Four flights rose above a third court, and somebody had nailed a card to the door at the top of them with the street and the hours on it and nothing else, and no name was among the things on it. He had stood there six weeks and today opened the seventh, and his body knew the wall the way his hands knew the table upstairs.
 
 He wanted to find out whether any person had been using the bottom of that stair as a place to stand, and who, and what it had cost them to stand there. What he felt, with the court still empty in front of him, was a watchful tenderness he did not trust, because tenderness in him had always been the herald of a mistake.
 
@@ -20,7 +20,7 @@ They were the people who had nowhere free to go. The ones who could not pay the 
 
 He found out what it actually was by standing in it for a morning and listening. At about eleven a stranger came into the court with his coat buttoned wrong and looked up, lost, and before Lin Hao could speak one of the standing women spoke, giving him the street and the door and the hours in a rush, out loud, in daylight, to somebody who was about to go up them.
 
-She got the hours half wrong and the door half right, and the stranger thanked her and went up anyway. Another of them corrected her after he was gone, and they argued quietly about the hours without heat, and then they laughed. About four of them were doing it badly all week, getting a word wrong here and a turn wrong there, and the badness did not matter because the address had been free before it was any person's job.
+She got the hours half wrong and the door half right, and the stranger thanked her and went up anyway. Another of them corrected her after he was gone, and they argued quietly about the hours without heat, and then they laughed. Every one of them was getting it badly, a word wrong here and a turn wrong there, and the badness did not matter because the address had been free before it was any person's job.
 
 He stood with his shoulder to the wall and listened, and he felt the floor shift under his understanding. He had thought he was an obstacle, a man in the way of a door, and he was a floor.
 
@@ -30,7 +30,7 @@ He watched the man with the limp give the hours to a carter, getting the quarter
 
 At midday he climbed to drink water and stood in the room with the door open, with the book on the table and Wenna Raut at her place. He told her what he had seen, in the ordinary voice, because it had to be said where it was spent.
 
-"They have been standing there inside a fortnight," said Lin Hao. "About four of them, and not one has come up, and not one has been told they were welcome. They say the three lines to strangers badly, and the strangers go up all the same."
+"They have been standing there inside a fortnight," said Lin Hao. "Not one of them has come up, and not one of them has been told they were welcome. They say the three lines to strangers badly, and the strangers go up all the same."
 
 Wenna Raut put her pen down.
 
@@ -60,11 +60,11 @@ The light went off that street at about ten past four and the card up four fligh
 
 At half past five he went up and got the book down with his own hands and carried it the four hundred yards in the dark. The back board ticked under his arm about every four seconds, and he walked slowly because his chest was tight and because he was in no hurry to leave the court behind. He felt tired and glad together, the way a man feels when he has found something he was not looking for.
 
-What the place needed would come in a fortnight, on the practice sheet and not on the standing sheet, and he did not know it yet.
+What the place needed would come in a fortnight, on the practice sheet and not on the standing sheet, and he had no reason on earth to expect it.
 
 He knew only that a free place to stand had grown at his feet without his planting it, and that he was its floor and not its wall. That was the thing the decision at the end of the month needed, discovered a fortnight before it was needed, and it waited for him the way the fifth of May waited for the twenty-third.
 
-A counter under a window was waiting too, and a man who was paid nothing, and a branch office at night that no person had asked him to look at. He thought of it on the way back, with the book off his hands, and he was glad to have somewhere to go that was not a step.
+A counter under a window was waiting too, and a man who was paid nothing, and a branch office at night that no person had asked him to look at. He thought of it on the way back with the book off his hands, and the thought of a man coming to look at something on his own account warmed him in a way he had not been warmed in weeks.
 
 Four thousand four hundred and fourteen days. Less four thousand four hundred and seven, the twenty-eighth of last month, is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven, and a man who thought he was an obstacle found out he was a floor and wrote nothing down.
 
