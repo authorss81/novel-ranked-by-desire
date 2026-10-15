@@ -12,7 +12,7 @@ Sun Meiling was at that table with her sleeves rolled to the elbow and a line of
 
 "I have come because you asked me to come," said Lin Hao.
 
-"Seventy days since I last saw you in a room with a lamp on a stem and glass behind you." She squared a sheet with the edge of that table. "I have been thinking about shapes since then, and I have got two of them that will not leave me alone."
+"Seventy days since you last stood in a room with me and said a word about shapes." She squared a sheet with the edge of that table. "I have been thinking about shapes since that afternoon, and I have got two of them that will not leave me alone."
 
 The line ran the length of that room, sheet after sheet, thin as breath, and the light came through them all and laid their shadows on the floor.
 

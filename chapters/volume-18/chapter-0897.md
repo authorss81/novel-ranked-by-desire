@@ -28,7 +28,7 @@ At the end of the eleven minutes he said a name, quietly, in the ordinary voice,
 
 "That is the one I have on the back of my hand," said Lin Hao, "under the hours. I have carried it there for months without knowing I was carrying it. And I am still not certain it is right."
 
-## Refused By A Man With A Cart
+## The Man Who Will Not Say It First
 
 He went down that hill at about four with the blank card in his breast pocket and found the man with the cart where he always is in the afternoon, with a coat and a pair of gloves in a cloth, and asked him outright, because in the fifth month that man had asked about the man who works nights and had been refused the naming of it, and a debt stands there.
 
@@ -36,7 +36,11 @@ He went down that hill at about four with the blank card in his breast pocket an
 
 The man looked at him for a long moment, and then shook his head, not unkindly.
 
-"You asked me in the autumn for the street and I would not give it," he said. "A man with a cart was asked in the autumn and refused by a man with a cart. I have brought loads down about four hundred yards twice a month for six years and I could walk it blind, and I have never once said it, and I am not going to be the first mouth it comes out of."
+"You have not asked me for it," he said. "You have not, and the man with the slate asked you for it in the autumn and you told him you could not say it either, and he sent you to a man at a counter off Cordwain, which is not me."
+
+The man turned the cloth over in his hands while he said it, the way a man turns a thing he has decided to go on holding.
+
+"I have brought loads down about four hundred yards twice a month for six years and I could walk it blind, and I have never once said it out loud, and I am not going to be the first mouth in this city it comes out of."
 
 "Then tell me whether I have it right."
 

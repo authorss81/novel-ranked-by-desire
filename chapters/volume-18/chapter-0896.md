@@ -6,7 +6,7 @@ Three thousand eight hundred and ninety-six was the twenty-seventh of the month 
 
 She came up at about ten with a shawl round her shoulders and a paper of her own folded in her fist, and stood at that bench with the door open and about three people in that passage, and said it plainly, the way people say things they have rehearsed on the way up four flights.
 
-"My husband died in the sixth month," she said. "A woman in my lane has a stamped paper that says her husband's rent was paid. I do not want a paper about rent. I want this office to say in writing that my husband was a good man."
+"My husband died in the tenth month," she said. "A woman in my lane has a stamped paper that says her husband's rent was paid. I do not want a paper about rent. I want this office to say in writing that my husband was a good man."
 
 Wenna Raut stopped with the pen half up, and Lin Hao came to the end of that table, and the room went quiet in the way it does when a person has asked for the one thing that room cannot give.
 
@@ -16,7 +16,7 @@ She said it again. The clerk entered the date and the hour at the head of a row,
 
 ## The Worst Thing
 
-He stood there with both sentences available to him and felt the whole of nine years narrow to the width of that table, because from the middle of the year before last every answer about a person is read out in that room once, with the person it is about in the room and the person who asked in the room, and if the person it is about will not come then there is no answer and the row stands as it is.
+He stood there with both sentences available to him and felt the whole of nine years narrow to the width of that table, because from the middle of last year every answer about a person is read out in that room once, with the person it is about in the room and the person who asked in the room, and if the person it is about will not come then there is no answer and the row stands as it is.
 
 Her husband will not come. Her husband is dead. And from the middle of August an answer about a person is given only with that person in the room, with no exception for the dead, and none for anybody.
 
@@ -40,7 +40,7 @@ She took it, and folded it once, and put it in her shawl, and went down four fli
 
 Wenna Raut entered the hour the woman went down, in the clerk's hand, under the row, with the date against it, and left the space under the refusal empty, because there is nothing further that room can put to a question that is not about a paper.
 
-"She will show it in the lane," said Wenna Raut. "To strangers. To neighbours. To the woman with the stamped paper about rent. And four strangers will understand it the way four strangers understood a certificate in the autumn, and not one of them will learn whether her husband was a good man, because that is the thing a piece of paper cannot do."
+"She will show it in the lane," said Wenna Raut. "To strangers. To neighbours. To the woman with the stamped paper about rent. And not one of them will learn whether her husband was a good man, because that is the thing a piece of paper cannot do, and we have just handed her the paper to find out."
 
 "And what will she say about us."
 

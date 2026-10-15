@@ -12,7 +12,7 @@ Wenna Raut found the row in about nine minutes, with the card moving down that p
 
 ## The First Of The Two
 
-The row was dated the middle of the month before this one, at about eleven in the morning, in the words a woman uses when she has carried a paper up four flights and is afraid of being told she has wasted a morning.
+The row was dated the twenty-fourth of the month before this one, at about eleven in the morning, in the words a woman uses when she has carried a paper up four flights and is afraid of being told she has wasted a morning.
 
 Under it, in the clerk's hand, an answer of about four lines, saying the paper said both sides together and that the clearing belonged to both houses and not to one.
 
@@ -48,11 +48,11 @@ He asked the second woman for the paper, and she gave it, and he looked at it wi
 
 Wenna Raut did not lift her forearm off that page. The strip of card covered everything but the one row, and the row under the card was the second one, and above the card, covered, was the first.
 
-"If I read you your answer," said Lin Hao, "I will be reading you words that were written down nine days ago for a woman who is not in this room. And from the middle of the month before last this office reads an answer about a person only with that person in the room."
+"If I read you your answer," said Lin Hao, "I will be reading you words that were written down nine days ago for a woman who is not in this room. And since the eighteenth of August this office gives an answer about a person only with that person in the room."
 
 "This is about a drain."
 
-"It is about a drain that belongs to two houses. And the row above yours is somebody else's, and she is not here, and I cannot turn that page towards you to show you where yours begins and hers ends, because the page has not been turned towards anybody since the early part of the year."
+"It is about a drain that belongs to two houses. And the row above yours is somebody else's, and she is not here, and I cannot turn that page towards you to show you where yours begins and hers ends, because no page in that room has been turned towards anybody since the tenth of June."
 
 The woman looked at the covered page and then at him, and he saw her decide, the way people decide in that room, that he was refusing her something she had walked up four flights for.
 

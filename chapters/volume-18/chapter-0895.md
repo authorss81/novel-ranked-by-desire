@@ -64,7 +64,7 @@ Wenna Raut listened the way she listens when a thing cannot be entered, with her
 
 ## Why He Goes Down There
 
-He felt tenderness then, sudden and aching, for the people who cut words into stone at the foot of a hill because paper would not keep them, and for the clerk across from him who enters what she is given and cannot leave that room while that book is in it, and the tenderness shamed him a little, and he carried it with him.
+He thought about the people who cut words into stone at the foot of a hill because paper would not keep them, and about the clerk across from him who enters what she is given and cannot leave that room while that book is in it, and the thinking went on him the way cold goes through a boot, and he was not proud of it and did not stop.
 
 ## The Hour He Keeps
 

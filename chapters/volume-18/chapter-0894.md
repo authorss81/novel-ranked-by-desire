@@ -30,8 +30,6 @@ Lin Hao thought about the night that row was entered, which he remembers the way
 
 The stranger waited, patiently, the way men who carry loads wait, and Wenna Raut turned that page a little towards the light so the space showed plain, an empty length in the middle of writing, with the pen's track clean on either side of it.
 
-The stranger waited, patiently, the way men who carry loads wait, and Wenna Raut turned that page a little towards the light so the space showed plain, an empty length in the middle of writing, with the pen's track clean on either side of it.
-
 ## The Manifest In His Fist
 
 He opened the manifest in his fist to show them he had come honestly, with paper of his own and not empty-handed, and the columns stood in it the way columns stand on manifests, neat and narrow, with weights and houses and names of yards.
@@ -54,7 +52,7 @@ Lin Hao felt affection then, sudden and unwelcome, for a man who carries loads a
 
 And there was nothing in that room that could answer him. Wenna Raut could not answer, because she may only enter what she is given and she was given nothing. Lin Hao could not answer, because the only honest answer is that the space is where a man who came up four flights left nothing, and nothing is not a thing an office can keep for him.
 
-## The Answer Nobody Can Give
+## The Answer Said Out Loud
 
 "I do not know," said Lin Hao, at last, out loud, in the ordinary voice, because a thing said in that voice in that room is a fact. "The knowing of it is not in that room. The three of us looked at one another in the fifth month and the row answered nothing, and it answers nothing now."
 
@@ -63,6 +61,20 @@ The stranger nodded, slowly, as if he had expected that and had come up four fli
 "Then I will tell the man on my street that I asked," he said. "And that the office said it did not know. And he will have to decide whether that is an answer."
 
 "It is the only one we have," said Wenna Raut, quietly.
+
+"And it costs you nothing to give him," said the stranger, folding his manifest into his fist again. "He has been carrying a maybe about that row since the month you say it was put in, and now he can carry a fact instead, and a fact is lighter, and it is the wrong shape for the thing he wanted."
+
+Then he asked the question that had been sitting behind the other one all morning, which was whether the man who left the space had ever been told that there was one.
+
+"He was in the room," said Lin Hao. "He put the paper on that table and said no word at a counter, and Wenna Raut entered the date and the hour, and neither of us has been able to find him since and neither of us is going to go and look."
+
+"Then he does not know," said the stranger.
+
+"He does not know," said Lin Hao.
+
+The stranger put the manifest into his coat and stood there a moment longer than a man waiting for a room to get on with it would stand.
+
+"That is the worst of the three," he said. "Not the space. That he never found out you made one."
 
 After he had gone down, with the date and the hour of his own asking in his own hand on a scrap, witnessed, Lin Hao stood at that table and looked at the space in the middle of that row for longer than the work required, and thought about how many empty places a man can carry in a book before the book is mostly empty places.
 
@@ -77,10 +89,6 @@ Wenna Raut found the place in the morning's work where the day's askings had sto
 "That the row is there and the words are not, and that nothing is taken from, so the space stays. And that a space is not an answer, and that an office that keeps one for eight hundred days has made a promise it cannot explain to the person it made it for."
 
 He stood with his hands behind his back and felt anger again, cleaner this time, at the rule and not at the man, and the anger made him want to put a hand on that page and close the space with a line, and he did not, because the rule is the reason that book can come upstairs at all.
-
-## What He Carries Down
-
-He felt anger then, sudden and unwelcome, at the man who had left it, and at himself for keeping it, and at the rule that nothing is taken from, which meant the space could never be closed, and the anger steadied him more than any finding had in weeks.
 
 ## The Carriers Going Down
 
@@ -98,8 +106,8 @@ He got the strap round that book with the buckle on the wrong side, the way he d
 
 That evening, going down four flights in the dark with the strap round that book, he found himself counting his own steps to keep his mind off his hands, and at the half landing with no window in it he stopped and said nothing out loud at all, because there was nothing that belonged there and he knew it.
 
-Three thousand eight hundred and ninety days. Less three thousand eight hundred and eighty-four, the fifteenth of this one, is six, and a row with a space in the middle of it is about eight hundred days old and nobody in that room can say what the space is for.
+Three thousand eight hundred and ninety days. Less three thousand eight hundred and eighty-four, the fifteenth of this one, is six, and a row with a space in the middle of it is about eight hundred days old, and that room could not answer a stranger who asked what it was for.
 
 *Less three thousand eight hundred and thirty-nine, the thirtieth of September, is fifty-one, and the forty-third sheet has been face up on that rail for every one of the last fifty-one of them, and it does not move until the last working day of the year.*
 
-*Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand four hundred and seventy days, which is forty-nine months and no days over after them, and a drawer in that room has been shut for every one of them under an instruction with a man's name under it.*
+*Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand four hundred and seventy days, which is forty-nine months and no days after them, and a drawer in that room has been shut for every one of them under an instruction with a man's name under it.*

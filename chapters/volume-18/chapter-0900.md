@@ -8,7 +8,7 @@ The last working day of the year came up grey and cold, with the yard stones whi
 
 Wenna Raut found every row in about nine minutes each, with the strip moving down each page and her forearm across the lower half, and Lin Hao stood at the end of that table with his hands behind his back and read out every answer in the voice that office reads everything in, with the person it was about in the room, and the page never turned towards anybody.
 
-At about one the room emptied, and the carriers waited on the stair below with the strap coiled between them for four, and Wenna Raut shut that book for the middle of the day and put the pen in the tray, and neither of them spoke about what was coming, because both knew.
+At about one the room emptied, and the carriers waited on the stair below with the strap coiled between them, counting the afternoon out for four, and Wenna Raut shut that book for the middle of the day and put the pen in the tray, and neither of them spoke about what was coming, because both knew.
 
 In his breast pocket the card waited, three lines in his own hand, witnessed as to date and hour and nothing else. The street. The door at the head of four flights, off a third court. The hours between a quarter to ten and half past five on working mornings, five days in seven, and at no other hour.
 
@@ -42,7 +42,7 @@ He picked up the chalk and did it, in his own small hand where a person can chec
 
 He went back up those four flights for the last time that year with the card in his fist and the two carriers behind him and Wenna Raut at that table with the door open, and stood in front of that door that has never had a name over it, and has no name on the yard gate, and has only a card about washing on it.
 
-"This is the volume's decision," said Lin Hao, "and it is mine, and it is in ink, and it is the first time in nine years that anything I have done in this city has had a place on it that a stranger can walk up to."
+"This is mine and it is in ink," said Lin Hao, "and it is the first time in nine years that anything I have done in this city has had a place on it that a stranger can walk up to."
 
 He said what it closes, in his own voice, because a thing said in that voice at that end of that table is a decision. Nine years of an office that could not be sent to. From this evening a person can be sent to that door, with hours on it, and be right to come.
 
@@ -56,7 +56,7 @@ And with the card still warm from his hand he turned in that doorway, with the c
 
 "The head is unmoved," said Lin Hao. "Eight hundred and fifty-two, and it has not been touched since the thirtieth of March of the fifth year. Twenty-eight sheets behind that number and twenty-seven quarters, both of those correct and differing by one, and the arithmetic behind them is three thousand nine hundred and twenty-nine less one thousand four hundred and ninety-nine, which is two thousand four hundred and thirty, which is twenty-seven times ninety."
 
-He said it at a door, to whoever stood at it, which is what the whole movement has been walking towards, and it is not a corridor to two people holding a book, and not a day room about sheets, and not a yard to whoever stands in it, and the chapter says so by standing where it stands.
+He said it at a door, to whoever stood at it, which is the only place any of it has ever been said from that a stranger could be standing in. It is not a corridor with two people holding a book in it. It is not a day room. It is not a yard with the changeover going on round him. It is a doorway, and it says itself by where a man is standing when he says it.
 
 The carriers looked at the new card going up on that door the way they had looked at the new sheet going up on the rail, for about four seconds, and then the woman with the back said the thing that door was not going to say.
 
@@ -66,13 +66,15 @@ The carriers looked at the new card going up on that door the way they had looke
 
 ## A Thing On A Page
 
-Afterwards, in that room, with the door addressed and the hours on it, Wenna Raut opened that book to the day's last asking and entered it, a question with nothing under it about a woman who cannot come up four flights, held until she comes or until it is about four years old, whichever is first, and the row stood as it is.
+Afterwards, in that room, with the door addressed and the hours on it, Wenna Raut opened that book to the day's last asking and entered it in the words the woman used, and left the space under it empty, because the question was about a person and that person was not in the room and could not be made to come, and keeping it does not make that better.
 
-And on the table beside it lay the card's twin, a thing on a page, kept in that room and not nailed to anything, with the same three lines in the same hand, and it is not in that book and will never be, because a door is not a row and an address is not an answer, and the page that is not in that book is the only page that office will ever keep about itself.
+And beside it on the table lay the scrap the woman had written for herself, with the date and the hour of her own asking on it in her own writing, and the clerk's witness that she wrote it and not that it came from here.
 
-He looked at the thing on that page and then at the door with the card on it, and felt fear and relief together, and the two did not cancel, and he carried both down with him that evening along with the strap.
+That scrap is going down four floors tonight in a coat pocket and the row is going down in the strap, and not one word of the answer exists anywhere in this city in any hand but those two, and that is the first time in nine years one of these can be said.
 
-He nailed nothing else. He wrote nothing else. The drawer in that room has been shut for fifty months and nine days and cannot be opened by anybody. There has been nothing in the inside left of his coat since the turn of last year, and there is going to be nothing in it.
+He looked at the page with that row on it and then at the door with the card on it, and felt fear and relief together, and the two did not cancel, and he carried both down with him that evening along with the strap.
+
+He nailed nothing else. He wrote nothing else. The drawer in that room has been shut for fifty months and nine days and cannot be opened by anybody. There has been nothing in the inside left of his coat since the third of December of last year, and there is going to be nothing in it.
 
 At half past five he carried that book down four flights and about four hundred yards himself, in the dark, by his own hands, five days in seven, and at the bottom he stood in the yard and looked back once, for the first time in nine years, at four flights of windows with a card on the door below them, and then he went home up the hill with the street name sounding under his boots like any other name.
 

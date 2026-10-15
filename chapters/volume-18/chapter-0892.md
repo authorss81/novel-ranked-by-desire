@@ -68,8 +68,6 @@ At the bottom they got that book into the flat file four floors down and about f
 
 "You have taken a month off your own book," she said, at the door. "That is a finding against yourself, and you took it without being asked, and that is the only reason I came up four flights to hear it."
 
-"You have taken a month off your own book," she said, at the door. "That is a finding against yourself, and you took it without being asked, and that is the only reason I came up four flights to hear it."
-
 After she had gone Wenna Raut opened that book to the day's first asking, and Lin Hao took the pencil from behind his ear and corrected nothing on any page, because there was nothing on any page to correct, and the correction stood in the air of that room where corrections stand when they are about a man and not about a row.
 
 ## The Flat File In The Morning
@@ -83,6 +81,14 @@ Two people did it in about nine minutes, one under the bottom edge with both for
 He walked behind them with his hands empty and felt useless, and then felt grateful for the uselessness, because it told him what his evenings are: fourteen minutes alone where two people take nine together, and fingers that do not open at the bottom, and a yard with nobody in it.
 
 ## What He Wants
+
+"Tell me one thing you want," said Wenna Raut, while the last of the morning was still on that table. "Not out of that book. Out of you. In nine years I have not known you to ask me for a thing that was not about a row, and you are not starting with one."
+
+"That is a rule with a hole in it."
+
+"It is what I have got," said Lin Hao. "I want things that will not go on three lines of stiff grey card. And one of them is that somebody in this room will tell me the truth about me once a year without being asked for it, and will do it whether or not I have been right that day."
+
+She looked at him for longer than she usually looks at anybody in that room, and did not answer him, and he understood that the not-answering was the whole of what she had, and that she had given it to him entire.
 
 ## What She Leaves Behind
 

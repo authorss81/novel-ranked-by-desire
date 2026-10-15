@@ -1,3 +1,73 @@
+# VOLUME 18 BATCH 0005 ON DISK AND REPAIRED — **THE SPINE BLOCK FOR 891–900, REBUILT FROM THE CHAPTERS AFTER THE REPAIR PASS AGAINST THEM. 3,871 TO 3,929. SEAM 7 IN ITS OWN COLUMN, INTERIOR 58 (`7 6 6 6 6 7 7 7 6`), AND THE §5b FENCE ROW WAS LEFT EXACTLY WHERE IT WAS AND VERIFIED TERM BY TERM AGAINST §5c. RAIL OFF 3,839: 32 · 39 · 45 · 51 · 57 · 63 · 70 · 77 · 84 · 90, THE FORTY-THIRD COMING DOWN AT FOUR ON THE THIRTIETH OF DECEMBER AND THE FORTY-FOURTH GOING UP CARRYING NO NEW LINE IN THE OFFICE HAND. HEAD PRINTED ONCE, AT 900, IN A DOORWAY. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+
+## THE SPINE AS THE PAGE FIXED IT
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Nov 270 Dec 300.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Nov 9 Dec 10. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+891 2 Nov y11 3,871 +7 SEAM, TWO ROWS THE SAME SHAPE NINE DAYS APART, the first of them dated
+    the twenty-fourth of the month before this one, and a day is not a person
+892 9 Nov 3,878 +7 ABOUT NINE YEARS AND NOT A MONTH MORE, said by a woman who can read a record
+893 15 Nov 3,884 +6 SCENE, Sun Meiling, 70 after 823, two traces side by side where no two may lie
+894 21 Nov 3,890 +6 A ROW WITH A SPACE ABOUT EIGHT HUNDRED DAYS OLD, and the answer given aloud
+    is I do not know, and the man who left it does not know there is one either
+895 27 Nov 3,896 +6 ABOUT SIXTY WORDS IN SEVEN HANDS, stopping in the middle with the cutting clean behind it
+896 3 Dec 3,902 +6 THE FIRST REFUSAL IN NINE YEARS GIVEN IN WRITING, correct and the worst thing,
+    and the husband's death is the TENTH MONTH, which is after the twenty-fifth of August
+897 10 Dec 3,909 +7 THE STREET IN NINE YEARS, learned in about eleven minutes and wrong by one turning
+898 17 Dec 3,916 +7 ONE CARD AND TWO YESES, and the one no is right
+899 24 Dec 3,923 +7 FIFTY MONTHS EXACTLY ON THE TWENTY-FIRST, named once and not an event, and he writes the card
+900 30 Dec 3,929 +6 QUARTER-END, forty-fourth sheet, THE VOLUME DECISION IN INK, THE HEAD PRINTED IN A DOORWAY
+SEAM 3,871-3,864=7 in its own column. NINE 7 6 6 6 6 7 7 7 6 = 58 and 3,929-3,871 = 58.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+891 3,871-3,839 = 32      896 3,902-3,839 = 63
+892 3,878-3,839 = 39      897 3,909-3,839 = 70
+893 3,884-3,839 = 45      898 3,916-3,839 = 77
+894 3,890-3,839 = 51      899 3,923-3,839 = 84
+895 3,896-3,839 = 57      900 3,929-3,839 = 90
+    THE FORTY-THIRD CAME DOWN AT FOUR ON THE THIRTIETH OF DECEMBER AND THE
+    FORTY-FOURTH WENT UP IN ITS PLACE CARRYING NO NEW LINE IN THE OFFICE HAND.
+    THE RAIL BREAKS ONCE ONLY, AT 900, AND IT BREAKS BECAUSE 900 IS A QUARTER-END.
+```
+
+## EVERY INTERVAL THAT ANYBODY SAYS ALOUD, RE-DERIVED WITH BOTH OPERANDS
+
+```
+ANCHOR RAIL SHEET 3,839 = 30 Sep y11. ANCHOR DRAWER 2,420 = 21 Oct y7. ANCHOR HEAD 1,499 = 30 Mar y5.
+891 3871-3864 = 7 seam, in its footer only, because 891 breaks the house opening paragraph
+892 3878-3871 = 7 · 893 3884-3878 = 6 · 894 3890-3884 = 6 · 895 3896-3890 = 6
+896 3902-3896 = 6, month crossing named as itself · 897 3909-3902 = 7 · 898 3916-3909 = 7
+899 3923-3916 = 7 · 900 3929-3923 = 6, month crossing 30-24 = 6
+HEAD 3,929-1,499 = 2,430 = 27 x 90, printed once at 900, twenty-eight sheets and twenty-seven quarters.
+DRAWER 1,451 = 48m 11d · 1,458 = 48m 18d · 1,464 = 48m 24d · 1,470 = 49m 0d · 1,476 = 49m 6d ·
+      1,482 = 49m 12d · 1,489 = 49m 19d · 1,496 = 49m 26d · 1,503 = 50m 3d · 1,509 = 50m 9d.
+899 NAMES 3,920, the twenty-first, fifty months exactly, ONCE, and it is not an event.
+NO OTHER INTERVAL IS SPOKEN ALOUD IN 891-900, AND NO FIGURE OF ANY KIND IS PRINTED OUTSIDE
+900 AND THE THREE FOOTER CLAUSES, SAVE THE FIFTY MONTHS AT 899 AND THE NINE-YEAR
+CORRECTION AT 892, BOTH REQUIRED BY THE PLAN.
+```
+
+## AND THE FOUR DATES THE REPAIR PASS PUT BACK ON THE SPINE
+
+**THREE OF THEM WERE IN 891 AND ONE OF THEM WAS A DEAD MAN ALIVE, AND NONE OF THEM WAS A FIGURE FAULT.** The first of 891's two rows was dated *the middle of the month before this one* when the page itself puts it nine days back from the second of November: **it is the twenty-fourth.** The eighteenth-of-August practice was tied to *the middle of the month before last*, which in November is September: **it is the eighteenth of August.** The page has not been turned towards anybody *since the early part of the year*: **it has not been since the tenth of June.** And at 896 the widow's husband was dead in the sixth month, which is **before** the twenty-fifth of August, on which he is alive at the bottom of that stair and says he will not come up it: **he died in the tenth month.** 894's carrier asks what the space is for and is told, in the ordinary voice, that the room does not know, and then asks the worse question, which is whether the man who left it was ever told there was one, and he was in the room, and he does not know.
+
+## WHAT MOVED IN 891–900, AND WHAT DID NOT
+
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT, NAMED AT 900, AND THE SIXTH OF THE SECOND OF DECEMBER OF THE NINTH YEAR IS STILL THE LAST.** The second column **FOUR LINES**, and nothing went in it. The head unmoved, printed once in a doorway. **THE BUNDLE TWENTY-SIX, untouched. DRAWER SHUT, NEVER OPENED. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND NOTHING WENT INTO IT, AND 900 NAMES THE THIRD OF DECEMBER.** About four hundred and seventy rows, and nobody counted them. His own August blank: untouched, uncompleted, and described nowhere.
+
+**WHAT IT CLOSES, said out loud at that door with witnesses, in his own voice and then in the ordinary one: nine years of an office that could not be sent to.** From this evening a person can be sent to that door, with hours on it, and be right to come. **The card carries the address, the door, and the hours, and nothing else on it, and not one name.**
+
+**WHAT IT COSTS: about forty people who will not have to be told where it came from, and the second quiet about four years sooner than the man with the slate says, and he rubs it out and writes it sooner at his own lane; and his own hands, five days in seven, in the dark, for as long as he stands at that table.**
+
+**AND IT WAS TOLD AT THE RAIL FIRST, IN ABOUT FOUR SENTENCES, BY A MAN WHO IS NOT THANKED AND WHO SAYS SO HIMSELF.**
+
+**AND THE MORNING HALF STANDS: the two women still bring the book up at a quarter to ten, five days a week, with the strap between them. A book goes up two and comes down one. THE REGISTER IS NEVER UPSTAIRS OVERNIGHT AND NEVER ALREADY UPSTAIRS BEFORE THE CARRIERS BRING IT IN ANY CHAPTER OF 891–900.**
+
 # VOLUME 18 BATCH 0005 ON DISK — **THE SPINE BLOCK FOR 891–900, REBUILT FROM THE CHAPTERS. 3,871 TO 3,929. SEAM 7 IN ITS OWN COLUMN, INTERIOR 58 (`7 6 6 6 6 7 7 7 6`), AND THE FENCE ROW WAS LEFT EXACTLY WHERE IT WAS. RAIL OFF 3,839: 32 · 39 · 45 · 51 · 57 · 63 · 70 · 77 · 84 · 90, THE FORTY-THIRD COMING DOWN AT FOUR ON THE THIRTIETH OF DECEMBER AND THE FORTY-FOURTH GOING UP CARRYING NO NEW LINE IN THE OFFICE HAND. HEAD PRINTED ONCE, AT 900, AT A DOOR. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THE SPINE AS THE PAGE FIXED IT
