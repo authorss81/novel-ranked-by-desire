@@ -4,11 +4,11 @@ Three thousand five hundred and sixty-nine was the thirtieth of the month before
 
 ## What Came Of The Thirtieth Of December
 
-On the thirtieth of December, at about four in the afternoon, at a counter under a window in a passage off Cordwain, a man who is paid nothing and a man with four words of pencil paper in his coat stood about four feet apart for about eleven minutes while about nine people watched, and nothing in this city ended it.
+On the thirtieth of December, at about four in the afternoon, at a counter under a window in a passage off Cordwain, a man who is paid nothing and a man with four words of pencil paper in his coat stood about four feet apart for about eleven minutes while about eleven people watched, and nothing in this city ended it.
 
-Not one of those nine could have told you afterwards which of the two had read that page right. Two of them said afterwards that the man behind the counter was right, and two said afterwards that the man in the coat was, and it is the same four people in both halves, and in about four months none of the four will remember which half they were in.
+Not one of those eleven could have told you afterwards which of the two had read that page right. Two of them said afterwards that the man behind the counter was right, and two said afterwards that the man in the coat was, and it is the same four people in both halves, and in about four months none of the four will remember which half they were in.
 
-One of the nine said one thing out loud that afternoon, and it is in the city, and it cannot be got back in, and it is not going on a page and no person who was in that passage is going to say what it was.
+One of the eleven said one thing out loud that afternoon, and it is in the city, and it cannot be got back in, and it is not going on a page and no person who was in that passage is going to say what it was.
 
 Whether either of the two has been back to that rail since is not a thing anybody in that room knows, and it was not said out loud this morning either, because a man who says that at the end of his own table at nine in the morning is buying himself about four minutes and will pay for them somewhere else.
 
@@ -22,7 +22,7 @@ He had wanted it ended. He had wanted it ended since the following morning and h
 
 ## One Hundred And Twenty Months
 
-He said the next of it out loud because Wenna Raut was in the room and the door was open and about four people heard all of it, which is where he says the things he has decided.
+He said the next of it out loud because Wenna Raut was in the room and the door was open and about four people heard all of it, and a thing said like that cannot be walked back into a smaller room afterwards.
 
 “This office was a room on the second of December of the second year and this morning it is one hundred and twenty months old. Three thousand six hundred days is thirty times one hundred and twenty with nothing over, and that is exact.”
 

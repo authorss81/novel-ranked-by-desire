@@ -32,7 +32,7 @@ Wenna Raut squared the book to the edge of the table.
 
 “Because the day there is a column in that book for a person, that book is a list of people,” said Wenna Raut. “And it was a list about nine years ago and it was the best list in this city, and it could not be got back. Not slowly. There was no month in which anybody could have got it back.”
 
-He took the chair at the end of the table, which he does about four times a year.
+He took the seat at the end of that table, and it is the only chair in the room he has ever been allowed to take.
 
 “I know what it was.”
 
@@ -56,7 +56,7 @@ She pulled the book round to her own side of the wood, squared the head of the p
 
 “So this morning is not going to be anywhere.”
 
-“This morning is going to be in a room with the door open and about four people hearing all of it, and it is not going to be anywhere at all,” said Wenna Raut. “That is the second time you have asked me for something and got the true answer and I would like you to notice that both of them were given to you in the same voice.”
+“This morning is going to happen in front of about four people going past a door that is open anyway, and it is not going to be anywhere at all,” said Wenna Raut. “That is the second time you have asked me for something and got the true answer and I would like you to notice that both of them were given to you in the same voice.”
 
 “You have been doing that since the twentieth of October.”
 
@@ -68,7 +68,7 @@ She pulled the book round to her own side of the wood, squared the head of the p
 
 “Stop not counting.”
 
-Wenna Raut put the pen into the tray and squared it.
+Wenna Raut put the pen into the tray and squared the tray to the edge of the wood.
 
 “I have not been able to,” she said. “That is the honest answer and it took me about four seconds. The moment I count them they become a queue and a queue is a place where things get added up, and I have watched that happen to two other rooms in this city and neither of them has got it back.”
 

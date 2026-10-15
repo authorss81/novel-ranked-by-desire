@@ -4,9 +4,9 @@ Three thousand six hundred and seven was the eighth of this month and the fiftee
 
 ## How The Book Got There
 
-He carried it down four floors and about four hundred yards at about nine in the morning and then back up again with it, about nine minutes each way, on the fifth working morning of a week, because not one other person in that building at nine on that morning is allowed to touch it.
+He carried it down four floors and about four hundred yards at about nine in the morning and then back up again with it, about nine minutes each way, on the fifth working morning of a week, because no other person in that building at nine on that morning is allowed to touch it.
 
-It went on a long table of oiled wood in a reading room with a lamp on a stem at each place and shelves of ledgers behind glass along both walls, and about four people were at that table and not one of them looked up.
+It went on a long table of oiled wood in a reading room with a lamp on a stem at each place and shelves of ledgers behind glass along both walls, and about four people were at that table and none of them looked up.
 
 ## The Weight On Every Page
 
@@ -14,7 +14,7 @@ Every page of it was flat and held flat, and the reason is on the table: about n
 
 Nobody turns a corner there. That is all it is, and it is on no page, and it is because a corner is where a page is lost, and a page that turns up flat and open one day is a page somebody thinks is a whole thing.
 
-The second thing about that room is the same size and less visible. A record read once in there is not read again in there with different people in it, and about four people sit at that table and not one of them has ever watched another of them read.
+The second thing about that room is the same size and less visible. A record read once in there is not read again in there with different people in it, and about four people sit at that table and no two of them have ever watched each other read.
 
 ## Nine Minutes
 
@@ -58,7 +58,7 @@ She put the heel of her right hand on the oiled wood and left it there and looke
 
 “Every record I hold etches. That is what my division is for. I cannot put a record down, and I looked at about four hundred and seventy rows of it nine minutes ago and it is in me and it will not come out.”
 
-“Here is the arithmetic, because you have not asked and not one person in this building ever does.”
+“Here is the arithmetic, because you have not asked and no one in this building ever does.”
 
 “I am holding one more record today than I was holding on the day before and I will hold about nine more by the end of this quarter, and the years do not come back. That is the whole of the price and there is no money in it and no office in this city that will pay it for me.”
 
@@ -102,7 +102,7 @@ He had been waiting nine days for somebody to ask him that.
 
 “It is the answer I have. It is not a good one.”
 
-“It is the true one, which is worse,” she said, “and I audit the records of people who have died, and I have about nine hundred of them, and not one of them is in that Register, because not one of them was ever a piece of paper.”
+“It is the true one, which is worse,” she said, “and I audit the records of people who have died, and I have about nine hundred of them, and not one of them is in that Register, because none of them was ever a piece of paper.”
 
 ## The Lamp At Her Own Place
 
@@ -114,7 +114,7 @@ She pulled the cord at her own place about two inches and the lamp at that end o
 
 “I have nothing.”
 
-“I know exactly what you have and that is why you are the only person in this city I am going to do this with tonight,” said Ines Duarte. “I am not careful with you. I am not going to be careful with you. There is not one instruction in my division that would let me be careful with you and I have looked, and it took me about four seconds to decide and four more to stop wanting to look further.”
+“I know exactly what you have and that is why you are the only person in this city I am going to do this with tonight,” said Ines Duarte. “I am not careful with you. I am not going to be careful with you. There is no instruction in my division that would let me be careful with you and I have looked, and it took me about four seconds to decide and four more to stop wanting to look further.”
 
 “You decided that before I had the sentence out.”
 
@@ -140,7 +140,7 @@ She got him up inside her wet cunt standing up, with her fingers at the top and 
 
 Somewhere in the middle of it she started talking, and not to him.
 
-“Your breathing went at a quarter past four,” said Ines Duarte, working down and coming back up, “and it has gone twice more since, and you have not once tried to hide it, which means either you have stopped being able to or you decided about nine years ago that not one person gets to be told and you have been wrong about that ever since.”
+“Your breathing went at a quarter past four,” said Ines Duarte, working down and coming back up, “and it has gone twice more since, and you have not once tried to hide it, which means either you have stopped being able to or you decided about nine years ago that not a person in this city gets to be told and you have been wrong about that ever since.”
 
 He said nothing.
 

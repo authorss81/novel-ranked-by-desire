@@ -1,10 +1,10 @@
-# Nine Hours With A Book
+# A Woman Who Keeps An Index
 
 Three thousand six hundred and twenty was the twenty-first of this month and the twenty-eighth is day three thousand six hundred and twenty-seven, and three thousand six hundred and twenty-seven less three thousand six hundred and twenty is seven, and twenty-eight less twenty-one is seven by the month count.
 
 ## Nine Hours, And The Same Wage
 
-He put it to her on the morning of the twenty-eighth at the end of that table with the door open, and he gave it to her as a want and not as a decision, because it was a want.
+He put it to her on the morning of the twenty-eighth, standing in the doorway where anybody coming up that stair could hear it, and he gave it to her as a want and not as a decision, because it was a want.
 
 “I want that book on this table on a working morning.”
 
@@ -102,7 +102,7 @@ She went back to her end of the table and picked the hand-truck up off the floor
 
 He stood at the near end of about nine long tables in the wet and worked it out in the ordinary way, the way he would have worked out a drain.
 
-It is a flat file on a filing floor about four hundred yards off, and there is a steel drawer and about forty quarterly sheets lying on top of it, and there is no card on the drawer with anything written on it, and there is no list of what is in that drawer anywhere in this city.
+It is a flat file on a filing floor the far side of the hill and about four hundred yards round by the street, and there is a steel drawer and about forty quarterly sheets lying on top of it, and there is no card on the drawer with anything written on it, and there is no list of what is in that drawer anywhere in this city.
 
 Finding one page out of about four hundred and seventy rows is about nine minutes if the person who knows the book is standing in front of it, and considerably longer if she is not.
 

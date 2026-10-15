@@ -1,10 +1,10 @@
-# A Page May Be Turned
+# The Wrong Page
 
 Three thousand six hundred and forty was the eleventh of this month and the seventeenth is day three thousand six hundred and forty-six, and three thousand six hundred and forty-six less three thousand six hundred and forty is six, and seventeen less eleven is six by the month count.
 
 ## What He Says And What She Says
 
-He had been carrying it since the twenty-fourth of February and he said it at the end of that table on the seventeenth with the door open and about four people hearing every word of it, which is where he says the things he has decided.
+He had been carrying it since the twenty-fourth of February and he said it on the seventeenth where about four people could hear every word of it, and he had not once in nine years said anything in that room with the door shut.
 
 “I want to say what that book is for and I am going to get it wrong, and I would like somebody to say it after me so that this room has heard the right one.”
 
@@ -22,7 +22,7 @@ Wenna Raut shut the book.
 
 “Then say the reason.”
 
-“Because about four rows in every nine are about a person, and every one of those rows was written by a person who was frightened, and not one row of them has ever been looked at again by anybody but you.”
+“Because about four rows in every nine are about a person, and every one of those rows was written by a person who was frightened, and no row of them has ever been looked at again by anybody but you.”
 
 Wenna Raut took the pen off the tray and held it and did not put it in the book.
 
@@ -56,7 +56,7 @@ He has been not saying things about that since the second year, and it is the ol
 
 “She will not.”
 
-“She will not if she says so,” said Wenna Raut, “and if she does not say so then she takes it away and not one person in this room ever finds out, and about four times a year that is what will happen, and it will not be entered, because the second I put it in that book I have built the thing this office has spent nine years refusing to build.”
+“She will not if she says so,” said Wenna Raut, “and if she does not say so then she takes it away and it never comes back to this room, and about four times a year that is what will happen, and it will not be entered, because the second I put it in that book I have built the thing this office has spent nine years refusing to build.”
 
 “And the second.”
 
@@ -80,7 +80,7 @@ He had not thought of that one and it took him about nine seconds to get to it.
 
 “Go on.”
 
-“If a page may be turned for a person then somebody in this room has to find it,” said Lin Hao. “There are about four hundred and seventy rows in that book with a date and an hour on every one and not one name, and to find one page I have to decide which rows are about you, and that decision is made by one person, standing up, with a finger, in about nine minutes, and about four people hear how long it is taking.”
+“If a page may be turned for a person then somebody in this room has to find it,” said Lin Hao. “There are about four hundred and seventy rows in that book with a date and an hour on every one and not one name in it, and to find one page I have to decide which rows are about you, and that decision is made by one person, standing up, with a finger, in about nine minutes, and about four people hear how long it is taking.”
 
 He put his hands where he could see them.
 
@@ -94,7 +94,7 @@ He put his hands where he could see them.
 
 “No.”
 
-“So the second time somebody asks will be the first time as far as this office is concerned,” she said, “and the ninth time will be the first time, and the hundredth time, and every one of them will get the same eleven minutes of a clerk standing at a table with a finger on a date, and not one of them will ever know that anybody came before them and got the same.”
+“So the second time somebody asks will be the first time as far as this office is concerned,” she said, “and the ninth time will be the first time, and the hundredth time, and every one of them will get the same eleven minutes of a clerk standing at a table with a finger on a date, and every one of them will get to the end of their own without ever knowing that anybody came before them and got the same.”
 
 “That is the arrangement.”
 
@@ -102,7 +102,7 @@ He put his hands where he could see them.
 
 ## Not Today
 
-A man who had come up at about two in the afternoon had been standing at the end of that table for about nine minutes and had been waiting, and he put his hand up about halfway through the last of it, the way people do in a room where not one of them has ever been spoken to.
+A man who had come up at about two in the afternoon had been standing at the end of that table for about nine minutes and had been waiting, and he put his hand up about halfway through the last of it, the way people do in a room where none of them has ever been spoken to.
 
 “Is my page one of them.”
 
@@ -116,7 +116,7 @@ Wenna Raut looked at him.
 
 He did not move.
 
-“Not today,” said Wenna Raut. “That book is four floors down and about four hundred yards off and there is not one person in this city who is allowed to fetch it, and I am not going to do it with a person standing in the room.”
+“Not today,” said Wenna Raut. “That book is four floors down and round two streets and there is nobody in this city who is allowed to fetch it, and I am not going to do it with a person standing in the room.”
 
 “Why not today.”
 

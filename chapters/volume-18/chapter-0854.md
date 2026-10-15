@@ -1,4 +1,4 @@
-# Down And Up In One Morning
+# The Flat File
 
 Three thousand six hundred and fourteen was the fifteenth of this month and the twenty-first is day three thousand six hundred and twenty, and three thousand six hundred and twenty less three thousand six hundred and fourteen is six, and twenty-one less fifteen is six by the month count.
 
@@ -48,11 +48,11 @@ Wenna Raut put the pen down, which she does about twice a day and both times whe
 
 “Why on the last morning of a week.”
 
-“Because there is not one other person in that building on the last morning of a week who is allowed to touch it,” said Lin Hao, “and because on the first morning back there would be nine people on the second floor who would see a man in a white plate going down with a bundle and would remember it in about four years.”
+“Because there is no other person in that building on the last morning of a week who is allowed to touch it,” said Lin Hao, “and because on the first morning back there would be nine people on the second floor who would see a man in a white plate going down with a bundle and would remember it in about four years.”
 
 ## The First Failure
 
-They had it on the table with the door open and about four people in the corridor, and they had the fold on the table beside it with the flap gummed shut and the date and the hour on the outside of it and nothing else anywhere on it, exactly as it had gone down four flights on the fourth.
+They had it on the table with the door open, and about four people were going up and down the corridor outside it, and they had the fold on the table beside it with the flap gummed shut and the date and the hour on the outside of it and nothing else anywhere on it, exactly as it had gone down four flights on the first.
 
 “Read it out,” he said.
 
@@ -68,7 +68,7 @@ Wenna Raut did not move.
 
 “So what we have is a folded sheet with four lines on it.”
 
-“What we have is four lines we know were given to a woman, and not one thing in this city that ties them to a row in that book.”
+“What we have is four lines we know were given to a woman, and nothing in this city that ties them to a row in that book.”
 
 ## The Second Failure
 
@@ -86,7 +86,7 @@ It had the date at the head and the hour against the date and then the words she
 
 “I cannot.”
 
-“You cannot,” she said, “and I cannot, and neither of us has said that sentence out loud to anybody since the first of this month, and about four people in that corridor heard it, and not one of them can be asked because we do not know which four.”
+“You cannot,” she said, “and I cannot, and neither of us has said that sentence out loud to anybody since the first of this month, and about four people in that corridor heard it, and none of them can be asked because we do not know which four.”
 
 She turned the row a quarter so the words faced him.
 
@@ -108,7 +108,7 @@ She put two fingers on the row and did not turn it.
 
 He put it on the table at the end of the room at about half past ten and stood looking at it.
 
-That book had never been in that office at all until six days ago, when it went down four flights and about four hundred yards off to a reading room, was read for nine minutes by a woman who is not a clerk, and came back up again the same afternoon, and this was the first time it had ever been on a table with a door open and the whole of that stair behind it.
+That book had never been in that office at all until six days ago, when it went down four flights and across to a reading room, was read for nine minutes by a woman who is not a clerk, and came back up again the same afternoon, and this was the first time it had ever been on a table with a door open and the whole of that stair behind it.
 
 He did not open it.
 
@@ -118,7 +118,13 @@ He did not open it.
 
 “You are standing next to it with your hands down and it is face up on that table and anybody who comes up that stair can see the edge of it,” she said, “and in about four years this room is going to have a thing in it that has been open on a table in front of strangers, and I am not going to have that be how it starts.”
 
-He carried it back down himself at about a quarter to twelve and put it into a steel drawer with a handle on a filing floor about four hundred yards off, under about forty sheets lying flat, and the card holder on the front of that drawer has never had anything written on it in nine years, and not one person in that building saw him do any part of it, and he is not paid for it.
+He carried it back down himself at about a quarter to twelve and put it back in the steel drawer on that filing floor, under about forty sheets lying flat, and the card holder on the front of that drawer has never had anything written on it in nine years, and nobody in that building saw him do any part of it, and he is not paid for it.
+
+Going back up the four flights he worked out what the morning had actually cost, and it was not nine minutes and two pairs of arms. It was that the question a woman asks when she comes up those stairs has never been *what did you write down*, and this office has been answering the other one for nine years in the best handwriting in the city.
+
+He had known that since the second year and had never paid to be told it. He had paid for it this morning.
+
+And what a person does with a thing they already knew is a different question from whether it is true, and he had gone four hundred yards down a hill and come back up with only the first half of it answered.
 
 *Three thousand six hundred and twenty days. Less three thousand six hundred and fourteen, the fifteenth of this month, is six, and a book went four floors down and about four hundred yards off and came back up in one morning, and two people found that a row and a fold can both be true and cannot be laid against each other.*
 

@@ -30,7 +30,7 @@ He stood about four feet off that wall in the dark and read out of his own head 
 
 About fifty words stand in that stone in about six hands. Five of the six are hands he could name a year for and the sixth is the newest, and the newest one is about a woman.
 
-It says that on the nineteenth of November a woman came up four flights in the cold, stood in a corridor about four feet wide, and went back down again without saying one word to anybody, and that not one person in that building asked her anything.
+It says that on the nineteenth of November a woman came up four flights in the cold, stood in a corridor about four feet wide, and went back down again without saying one word to anybody, and that no person in that building asked her anything.
 
 That is the whole of the sentence.
 
@@ -50,13 +50,13 @@ He could not see one of those things. He was reciting it in the dark off about t
 
 He had been down there twice this month without wanting anything from it, and it was on the second of the two that he worked out what he was doing, and he arrived at it standing still on a wet kerb in the dark.
 
-He was checking that not one person had gone looking for her.
+He was checking that nobody had gone looking for her.
 
 In December, four flights up, he had wanted to find that woman so badly that he got to the bottom of that hill before he stopped himself, and he stopped himself because a man who goes looking for the person who was put off is the man who fetches people.
 
 There is no seventh hand on that stone, and there is not going to be one this year, and the counting of hands is not a thing this office has ever done before and he did it twice in the dark.
 
-Not one person in this city has gone looking for her either. Not one has come up that hill to ask after a woman who stood in a corridor for four minutes in the cold and went back down. She is not in that stone as an explanation. She is in that stone because somebody who did not know her wrote down that she was there, and that is a different thing.
+Nobody in this city has gone looking for her either. Nobody has come up that hill to ask after a woman who stood in a corridor for four minutes in the cold and went back down. She is not in that stone as an explanation. She is in that stone because somebody who did not know her wrote down that she was there, and that is a different thing.
 
 It is four inches of dressed stone nine feet behind a board at the foot of a hill, with fresh paste on the batten above it. About four hundred people go past that kerb in a week and nine or so of them crouch. It is the only account of that morning that exists in this city, and the weather is the only thing keeping it, and one man keeps the glue above it for reasons he has never been asked for.
 
@@ -64,7 +64,7 @@ He went up the hill about four hundred yards and up four flights with nothing in
 
 ## The Question He Took Up The Stair
 
-He carried it to the end of that table and put it there with the door open, which is where he puts things.
+He carried it to that table and put it down in the open, which is where he puts things.
 
 “Does anybody know who puts paste on that board.”
 
@@ -78,7 +78,7 @@ Wenna Raut did not look up from the page she was on.
 
 “So there is nobody.”
 
-“There is somebody, because paste does not keep and his did,” said Wenna Raut, “and that person comes up that hill about once a month to do a piece of work that another person arranged, and about four people a week walk past him on the way and not one of them has ever stopped.”
+“There is somebody, because paste does not keep and his did,” said Wenna Raut, “and that person comes up that hill about once a month to do a piece of work that another person arranged, and about four people a week walk past him on the way and none of them has ever stopped.”
 
 “Then it is a person.”
 

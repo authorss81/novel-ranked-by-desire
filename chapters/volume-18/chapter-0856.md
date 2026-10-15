@@ -30,7 +30,7 @@ Emil Brack put the slate against his ribs, which is what he does when he is abou
 
 “Then a lane that feels a thing is a lane that will be told about it,” said Brack. “Not by me. I have not got a book coming up a stair and I would not know what to do with one. Told by somebody in about four days, for nothing, the way a thing goes along a row of beds in a fever ward.”
 
-“And about four hundred people in this city already know there is an office in that building and not one of them has ever been able to be sent to it, and you are about to make the walking louder.”
+“And about four hundred people in this city already know there is an office in that building and nobody has ever been able to be sent to it, and you are about to make the walking louder.”
 
 ## Nine Figures Before Eleven
 
@@ -88,7 +88,7 @@ He wiped his hands down the front of his coat.
 
 “That is not a thing a man in a white plate can do.”
 
-“No it is not,” said Brack. “That is the second half and I have got it right. It is not a door. It has no door, there is nothing on the wood, and not one of them could shut it, and if you all die it goes on answering about four hundred and seventy rows, and you cannot close it and I cannot close it and nobody can close it.”
+“No it is not,” said Brack. “That is the second half and I have got it right. It is not a door. It has no door, there is nothing on the wood, and none of them could shut it, and if you all die it goes on answering about four hundred and seventy rows, and you cannot close it and I cannot close it and nobody can close it.”
 
 “Then what am I being asked for.”
 

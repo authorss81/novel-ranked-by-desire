@@ -62,7 +62,7 @@ That sentence is a thing he has heard before this year, in a room four flights u
 
 “You could have come inside.”
 
-“I could have,” he said, “and I have not come inside a doorway in about nine years and I am not going to start on a working afternoon with a woman whose husband died in the first month of the year.”
+“I could have,” he said, “and I have not come inside a doorway in about nine years and I am not going to start on a working afternoon with a woman whose husband died in the last month of the year before last.”
 
 “That is a rule you have made up.”
 
@@ -96,7 +96,7 @@ Not one person heard it.
 
 ## Six Days
 
-He went up the four flights with nothing in either hand and stood at the end of that table with the door open and did not say anything about any of it for about nine minutes, and then he told Wenna Raut the whole of it in about eleven sentences in the order it had happened, including the part at the bottom of the stair, and she wrote down the date and the hour and the words he used and read it back once.
+He went up the four flights with nothing in either hand and stood in that room with the door open and did not say anything about any of it for about nine minutes, and then he told Wenna Raut the whole of it in about eleven sentences in the order it had happened, including the part at the bottom of the stair, and she wrote down the date and the hour and the words he used and read it back once.
 
 “That is not going to be a row about a delivery refused at a door.”
 
@@ -106,7 +106,7 @@ He went up the four flights with nothing in either hand and stood at the end of 
 
 “Yes.”
 
-He stood there for a while with the door open and about four people hearing him say nothing at all.
+He stood there for a while while about four people went past in the corridor and heard him say nothing at all.
 
 “In six days it is the thirtieth,” he said, “and I am going to stand at the end of this table and say the thing I have been carrying since a woman said four words at a gate, and I have not worked out what it is yet, and that is the second time in nine years I have said something in this room before I have worked out what it is.”
 
