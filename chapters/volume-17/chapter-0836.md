@@ -46,7 +46,7 @@ About three years ago somebody in that corridor asked what was on the table and 
 
 ## What He Said, And The Fact That He Said It
 
-He said it at the end of that table with the door open, because there is one person in this city who can tell a record from a decision and she was on the other side of the wood.
+He said it at the end of that table with the door open, and he said it to her rather than to the room, because she was the only one standing on the other side of that wood who could tell a record from a decision.
 
 He said that a blank sheet of office paper, unfolded and undated and with nothing on it, is what you put in front of a person who cannot write down the question they came up four flights with.
 
@@ -110,7 +110,7 @@ He took his hand out again with the paper still where it was.
 
 He let it stand where she had put it, because a thing said at the end of a working morning in that voice is not said for a reply.
 
-“Put it back at the near end,” she said. “And in about four years one of us will not be here, and whichever of the two of us it is will go to a market end about four hundred yards off and stand in a doorway and not go past the sill, and that will be that.”
+“Put it back at the near end,” she said. “And in about four years one of us will not be here, and whichever of the two of us it is will go to a market end about six hundred yards off and stand in a doorway and not go past the sill, and that will be that.”
 
 “And if it is me who is not here.”
 

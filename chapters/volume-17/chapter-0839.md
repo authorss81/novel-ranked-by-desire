@@ -44,7 +44,7 @@ She entered it with the date of the morning and the hour against the date, in he
 
 And then she put the pen down and looked at him, which she does not do.
 
-“Now the other thing,” she said. “You have come up six flights twice this year and you have not asked for one thing. I am going to offer you one thing and you may say no.”
+“Now the other thing,” she said. “You have come up four flights twice this year and you have not asked for one thing. I am going to offer you one thing and you may say no.”
 
 ## The Permission, Which Is In His Own Mouth And Not In The Book
 
@@ -82,7 +82,7 @@ At about twenty past twelve he asked whether the four lines that were refused at
 
 “So there are two answers and not one person knows which of them the office’s.”
 
-“There is one answer in the book and there is one in the head of a man who is not paid to keep it, and he carried that one up his own stairs about six months ago and put it in a drawer with about nine other things in it. There is not one thing in this city that will go and look.”
+“There is one answer in the book and there is one in the head of a man who is not paid to keep it, and he carried that one up his own stairs about six months ago and put it in a drawer with about nine other things in it. Nothing in this city is going to go and look.”
 
 “That is the first time anybody has told me that to my face.”
 

@@ -56,7 +56,7 @@ He put two fingers on the wood.
 
 About four of the nine worked it out and about two of the four said the word quarter out loud, and one man at the front asked whether a number that goes out four times a year could change between the times it went out, and Lin Hao said that it could not, and that if it ever did the whole of what the sheet was for would be over.
 
-He had decided that on the previous morning in a room four floors up with the door open, and about four people in a corridor about four feet wide had heard him say that he was going to do it, and the clerk had entered the decision as a practice with a date on it and an hour against it in her own hand and not in the office's.
+He had decided that on the previous morning in a room four floors up with the door open. About four people had been in that corridor, which is about four feet wide, and heard him say that he was going to do it, and the clerk had entered the decision as a practice with a date on it and an hour against it in her own hand and not in the office's.
 
 She had also told him what it would cost, and the cost was that a number said at a rail goes home in about nine heads instead of staying in one, and that in about four years somebody would have the two counts and not the difference.
 

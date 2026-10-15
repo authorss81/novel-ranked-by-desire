@@ -12,7 +12,7 @@ On the first of them he was on the night shift and got up at ten and went down t
 
 On the fourth of them he got out a sheet and wrote four lines on it at the table in the branch office, and then read them back, and they were wrong, and he knew they were wrong before he had finished the second one, because four lines on a dated sheet is a row, and a row says what this office holds, and what this office holds about that twenty-sixth thing is nothing at all.
 
-On the sixth of them he wrote them out again on the back of his own right hand, which is a thing he did once in August and has not done since, and he got the whole of it back off his own skin in under nine seconds and then washed it off at the sink on the half landing because the water is hot on that landing and the paper dries too slowly to fold.
+On the sixth of them he wrote them out again on the back of his own right hand, which had not carried a line since the second of August, and he got the whole of it back off his own skin in under nine seconds and then washed it off at the sink on the half landing because the water is hot on that landing and the paper dries too slowly to fold.
 
 ## The Fifth Of The Seven, And A Door About Four Hundred Yards Off
 
@@ -50,7 +50,7 @@ Wenna Raut had the book on the sill and there were about four people in that cor
 
 He said it standing at the end of the table, in the room, with the door open, which is where he says the things he has decided.
 
-“A woman who works a lift at a market end told me on the fifth of this month that a thing said on a platform with no lamp on the run and no clock in the building and the day chalked on a slate sixty feet away has not got a day on it and has not got an hour on it, and that there is not one line in that book which will take a thing without both of them.”
+“A woman who works a lift at a market end told me on the fifth of this month that a thing said on a platform with no lamp on the run and no clock in the building and the day chalked on a slate sixty feet away has not got a day on it and has not got an hour on it, and that not one line in that book will take a thing without both of them.”
 
 “You are repeating her.”
 
@@ -94,7 +94,7 @@ He said it.
 
 He said all of it, in her words, in the order she had said it in, standing up at the end of the table with the door open, and he did not improve one word of it and he did not say what it was about.
 
-About four people in a corridor about four feet wide heard a man in a white plate explain, at eleven in the morning, that a sentence with no day on it and no hour on it cannot go into a bound book, and not one of them knows what it is about.
+About four people were in the corridor outside that room, which is about four feet wide, and they heard a man in a white plate explain, at eleven in the morning, that a sentence with no day on it and no hour on it cannot go into a bound book, and not one of them knows what it is about.
 
 Two of them will remember the middle of it for about a week. One of them has a child at that school and will say it at a table in about nine days because it sounds like something worth saying, and it will arrive in about four years in a kitchen in this city with the whole of what it is about missing out of the middle of it.
 

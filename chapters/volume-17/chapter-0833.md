@@ -102,7 +102,7 @@ He was not gentle.
 
 She put one arm up behind his head and one hand on the rail behind his own neck and took neither away for about a minute, and the chain swung about four inches in the corner every time either of them put weight on it, and nothing about the two of them was in a hurry.
 
-He put his cock back into her and she thanked him for it out loud, in the flat voice, the way a woman says a crate is in the right place.
+He went back into her and she thanked him for it out loud, in the flat voice, the way a woman says a crate is in the right place.
 
 “Again.”
 
@@ -114,7 +114,7 @@ She came with her mouth open and her eyes shut and both her hands off the rail a
 
 She got herself off him and got her belt done up in one movement and took her place on the edge of the plate with her feet swinging over a store floor a yard and a half below.
 
-He got his trousers up, and the cloth on the hook in that corner has been the same cloth since the building was put up and has not been touched tonight either.
+He got his trousers up, and the plate under him was colder than the air standing on it, and the timber guide had been taking the weight of that store floor since before either of them was born.
 
 Then he asked her why there. He had been holding it since the second street.
 
@@ -134,7 +134,7 @@ She turned round again.
 
 “You could have written it on something.”
 
-“I could have written it on my own hand and been in a kitchen with it in about four days,” she said, “which is what you did with your own on the second of this month, and you could not get it back, and I read about that in a corridor four days afterwards because four people in four feet of air had heard you say so.”
+“I could have written it on my own hand and been in a kitchen with it in about four days,” she said, “which is what you did with your own on the second of August, and you could not get it back, and I read about that in a corridor four days afterwards because four people in four feet of air had heard you say so.”
 
 ## Then She Went On, Which Is The Part He Was Not Ready For
 

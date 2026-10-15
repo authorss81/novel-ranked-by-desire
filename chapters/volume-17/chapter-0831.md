@@ -50,7 +50,7 @@ She had a piece of work she had not had before, which is why he was in that corr
 
 “It says what you are about to say. I want it in a hand before I have it in a voice.”
 
-He said it standing at the end of the table with the door open, because there is one person in this city who can tell a record from a decision and she was on the other side of that wood.
+He said it standing at the end of the table with the door open, because the only person in this city who can tell a record from a decision was on the other side of that wood.
 
 “About four hundred and thirty rows on the first of February of the year before, with rows added since and not counted.”
 
@@ -128,7 +128,7 @@ Then he did the thing he had already decided he would do, about four seconds bef
 
 He said the four he could remember out loud in that room with the door open, at the end of the table, in the order he had written them, with the hours, and he did not write one of them down and she did not write one of them down.
 
-About four people in a corridor about four feet wide heard four sentences that do not belong to anything, and two of them will remember the second of them for about a week and neither of them will ever know it was a refusal.
+There were about four people in that corridor, which is about four feet wide, and they heard four sentences that do not belong to anything, and two of them will remember the second of them for about a week and neither of them will ever know it was a refusal.
 
 *Three thousand four hundred and forty-two days. Less three thousand four hundred and thirty-five, the sixteenth of this month, is seven, and six short lines a man put on the back of his own right hand on the morning of the second of this month came off that skin inside twenty-one days, and four of them could be said out loud and two of them could not.*
 

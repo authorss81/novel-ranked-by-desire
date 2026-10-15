@@ -34,7 +34,7 @@ Then she shut the book and stood with her hand on the cover and said, “Do you 
 
 ## What He Decided, At Eleven, With The Door Open
 
-He said it standing up at the end of the table, in the room, with the door open, because that is where he says the things he has decided, and about four people were in that corridor and heard all of it.
+He said it standing up at the end of the table, in the room, with the door open, because that is where he says the things he has decided, and the corridor outside the door held about four people and all of them heard it.
 
 “From this morning, a question about a question is not entered.”
 
@@ -104,7 +104,7 @@ There has been about nine questions a month through that door for about nine mon
 
 “Then say the true version, because you have said everything else in that corridor and I am owed it.”
 
-“The true version is that about eighty mouths have gone into that book since the second of December, and about four rows in every nine are about a person, and I am not going to spend the next four years wondering whether the same people keep turning up on each other's paper.” He put his hands in his pockets. “And I would rather not know than hold it.”
+“The true version is that about eighty mouths have gone into that book since the middle of January, and about four rows in every nine are about a person, and I am not going to spend the next four years wondering whether the same people keep turning up on each other's paper.” He put his hands in his pockets. “And I would rather not know than hold it.”
 
 She did not write it down and neither of them expected her to.
 
@@ -124,7 +124,7 @@ He told him standing behind the rail with his hands in his pockets, once, in abo
 
 “Am I allowed to know what I am refusing.”
 
-There were about four people in that passage and all four of them heard a man who is paid nothing put a question to a man in a white plate.
+The passage held about four people and every one of them heard a man who is paid nothing put a question to a man in a white plate.
 
 “No,” said Lin Hao. “You are not allowed to know, and I would like somebody to write down that you asked and that I could not answer, and not one person in this city is going to do that.”
 
