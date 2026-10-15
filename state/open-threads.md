@@ -1,14 +1,14 @@
-# OPEN THREADS — every thread with its status at the close of Volume 19, chapter 950
+# OPEN THREADS — every thread with its status at Volume 20 movement one, chapter 960
 
 **Compacted 2026-10-15.** This file had twenty-two stacked blocks, 149 KB, each opening by announcing that it superseded the ones beneath it and none of them ever being deleted. What follows is the live block — the threads as the close audit left them — and nothing else. The full pre-compaction text is byte-for-byte in `state/archive/open-threads-v17-v19-superseded.md` and in the commit before this one; Volumes 1 to 16 are in `state/archive/open-threads-v9-v16-superseded.md` and the earlier generations beside it.
 
 ## 0 · THE FLAG, AT THE HEAD OF THIS FILE, BECAUSE SECTION 7 REFERS TO IT
 
-**THE MANUSCRIPT IS NINE HUNDRED AND FIFTY CHAPTERS AND THE PLAN SAYS FIVE HUNDRED, AND NOBODY HAS DECIDED WHICH IS TRUE.**
+**THE MANUSCRIPT IS NINE HUNDRED AND SIXTY CHAPTERS AND THE PLAN SAYS FIVE HUNDRED, AND NOBODY HAS DECIDED WHICH IS TRUE.**
 
-`outline/ending.md` heads itself *Ending — Volume 10, "Returned" (chapters 451–500)* and reads *Ch 498: the last chapter*. `outline/series.md` says ten volumes, fifty chapters each, five hundred total. `NOVEL_SPEC.md` says the same. The manuscript is nine hundred and fifty chapters in nineteen closed volumes. Chapters 501 to 950 — nine whole volumes — have no series outline, no ending outline and no planned destination.
+`outline/ending.md` heads itself *Ending — Volume 10, "Returned" (chapters 451–500)* and reads *Ch 498: the last chapter*. `outline/series.md` says ten volumes, fifty chapters each, five hundred total. `NOVEL_SPEC.md` says the same. The manuscript is nine hundred and sixty chapters, nineteen volumes closed and one part-written. Chapters 501 to 960 — nine whole volumes and the first ten chapters of a tenth — have no series outline, no ending outline and no planned destination.
 
-**The flag has been open since Volume 19's planning pass and no phase has closed it, because closing it means rewriting a file that every writing phase is forbidden to rewrite, and `scripts/completion_guard.py` only tests for a manuscript short of the plan.** It currently prints *ok, 950 chapters reaches planned 500* and exits zero, which is a fact about the guard's one-sided test and not a verdict on the book.
+**The flag has been open since Volume 19's planning pass and no phase has closed it, because closing it means rewriting a file that every writing phase is forbidden to rewrite, and `scripts/completion_guard.py` only tests for a manuscript short of the plan.** It prints *ok* and exits zero, which is a fact about the guard's one-sided test and not a verdict on the book. **The guard's own line still reads 950, because the guard counts closed volumes and Volume 20 is not closed; the number it prints is not the number of chapter files on disk and must not be quoted as one.**
 
 **THE FLAGGED PROPOSED CANON CHANGE — that the chapter numbers in `outline/ending.md` are read as the destinations of the book's beats and not as the last chapter of the book — REMAINS FLAGGED AND NOT ADOPTED. Nothing in Volume 19 contradicts it and nothing below may be read as closing it.**
 
@@ -17,6 +17,8 @@
 **THE RELATED QUESTION IS WHETHER A VOLUME 20 IS WANTED, AND IT IS THE SAME DECISION AND NOT A SEPARATE ONE. THE CLOSE AUDIT'S READING IS THAT ONE IS WANTED, SAYS SO, AND CREATES NOTHING.**
 
 **AND ON THE TWELFTH OF OCTOBER 2026 A VOLUME-PLANNING PHASE ACTED ON THAT READING AND WROTE ONE: `outline/volume-20.md`, *The Voice*, 951–1000, with cards for its first batch at `outline/batches/volume-20-batch-0001.md` and one next phase at `workspace/volume-20/batch-0001/PROMPT.md`. IT WROTE NO PROSE, OPENED NO CHAPTER, EDITED NO FINISHED FILE AND INTRODUCED NO ENEMY. IT DID NOT CLOSE THIS FLAG AND IT MAY NOT BE READ AS CLOSING IT. A plan is not a decision, a planned volume is not a written chapter, and the manuscript is still nine hundred and fifty chapters on disk.**
+
+**AND ON THE FIFTEENTH OF OCTOBER 2026 A WRITING PHASE WROTE THE FIRST TEN OF THEM, 951–960, WHICH MAKES THE MANUSCRIPT NINE HUNDRED AND SIXTY AND MAKES THE FLAG LARGER, NOT CLOSER.** **Writing ten chapters did not decide anything this flag is about, and the sentence above it is retained as written because it was true when written; the true count now is nine hundred and sixty.** What the writing phase did do to this file is add §7a, which records the threads 951–960 opened and closed on the page, and §8c, which flags one plan row at `outline/volume-20.md` §7 that no chapter can execute because it names a day of the week and §5a forbids one. **Neither is a decision about the ending and neither may be read as closing this flag.**
 ## 1 · THE TWO CLOSURES, SPENT
 
 **ONE — THE WINTER CARRY, closed at 910 by keeping the winter mornings and not by shutting the door.** **TWO — THE WORN CARD, closed at 950 by renewing it in the same three lines on the same three nails and not by adding a name or an hour.** **THE PERMITTED-TO-CLOSE COUNT IS ZERO. NOTHING ELSE WAS CLOSED AND NOTHING ELSE MAY BE.**

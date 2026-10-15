@@ -21,16 +21,34 @@ A month is thirty days, no thirty-first, no day of the week. A year runs first o
 ```
 METHOD A: 1 Feb y = (y-1) x 360; day d = (y-1) x 360 + off[m] + (d-1)
           off Oct 240 Nov 270 Dec 300, February at 0, and a January at 330
+          *** AND A JANUARY IS NOT (y-1). A JANUARY IS (y-2) x 360 + 330 + (d-1). ***
 METHOD B: day = 30*i + (d-1), i = (y-1)*12 + pos[m] ZERO INDEXED. NO 360.
           pos Feb 0 ... Dec 10, AND pos Jan = 11, BECAUSE A JANUARY IS THE
           TWELFTH MONTH OF THE YEAR THAT BEGAN IN FEBRUARY.
-THE TWO METHODS SHARE NO CONSTANT AND AGREE ON ALL TEN DATES. CHECK THEM YOURSELF.
-Batch 0002 opens 30 Mar y13: 4,379, seam 4,379 - 4,372 = 7.
+          *** AND A JANUARY'S i IS (y-2)*12 + 11. A JANUARY LABELLED y IS THE LAST
+          MONTH OF THE YEAR THAT BEGAN IN FEBRUARY OF y-1, SO IT BELONGS TO THE
+          YEAR BEFORE THE ONE ITS LABEL NAMES. pos[m] = 11 IS RIGHT; y-1 IS NOT. ***
+THE TWO METHODS SHARE NO CONSTANT AND AGREE ON ALL TEN DATES.
+CHECK THEM YOURSELF, AND CHECK THE ONE DATE THEY BOTH GOT WRONG UNTIL THIS BLOCK
+WAS CORRECTED ON THE FIFTEENTH OF OCTOBER 2026 BY AN INDEPENDENT REVIEW PASS:
+
+  AS PUBLISHED UNTIL THAT PASS, BOTH METHODS GAVE 20 Jan y13 = 4,669.
+  THE PAGE HAS PRINTED 4,309 EVERYWHERE SINCE 951 AND 4,309 IS CORRECT.
+  UNDER THE CORRECTED RULE: A = 11 x 360 + 330 + 19 = 4,309, B = 30 x 143 + 19
+  = 4,309. THE PAGE WAS RIGHT AND THE INSTRUMENT WAS WRONG. THE SPINE ITSELF IS
+  COHERENT AND WAS NEVER IN DOUBT: 4,289 + 20 = 4,309 and 4,309 + 63 = 4,372.
+  *** THERE IS NO JANUARY IN ANY OF THIS BATCH'S TEN DATES, SO YOU CANNOT CATCH
+  THIS BY WORKING AND YOU MUST CARRY IT. IT WILL BITE THE FIRST WRITER WHO
+  DERIVES ONE. ***
+
+Batch 0002 opens 30 Mar y13: 4,379, quarter-end crossing 4,379 - 4,372 = 7.
 ```
+
+**ON THE WORD *SEAM*, WHICH THIS BATCH MUST NOT USE FOR 961.** **In 951–960 *the seam* is canon and it means one thing only: the twenty days between the renewal at 4,289 and 951 at 4,309, printed in 951's own spine clause and inherited whole by `state/continuity.md` §0a.** **961 is not a renewal and its crossing is a quarter-end, so it is called the quarter-end crossing here and it is a different thing from the seam and must never be described as one.** An independent review pass on the fifteenth of October 2026 found this prompt using *the seam* for 961's seven days and that collision is now repaired.
 
 | Ch | Day | Spine | Interval |
 | --- | --- | --- | --- |
-| **961** | **30 Mar y13** | 4,379 | 4,379 − 4,372 = **7**, the seam, alone in its own column |
+| **961** | **30 Mar y13** | 4,379 | 4,379 − 4,372 = **7**, the quarter-end crossing, alone in its own column |
 | 962 | 7 Apr y13 | 4,386 | **7** |
 | **963** | 14 Apr y13 | 4,393 · **SCENE, Beatrix Halm**, 80 after 883 | **7** |
 | 964 | 21 Apr y13 | 4,400 | **7** |
@@ -41,7 +59,7 @@ Batch 0002 opens 30 Mar y13: 4,379, seam 4,379 - 4,372 = 7.
 | 969 | 26 May y13 | 4,435 | **7** |
 | **970** | 3 Jun y13 | 4,442 · **MOVEMENT TWO'S IRREVERSIBLE DECISION** | **7** |
 
-**THE INTERIOR NINE OF THIS BATCH ARE ALL SEVEN AND SUM TO 63, AND `4,442 − 4,379 = 63`. THE SEAM `4,379 − 4,372 = 7` STANDS ALONE IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE.**
+**THE INTERIOR NINE OF THIS BATCH ARE ALL SEVEN AND SUM TO 63, AND `4,442 − 4,379 = 63`. THE QUARTER-END CROSSING `4,379 − 4,372 = 7` STANDS ALONE IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE, AND IT IS NOT THE SEAM.**
 
 **HOW TO NAME THE PREDECESSOR'S DAY, AND WHY IT IS WRITTEN DOWN. SIXTEEN DATE GLOSSES WERE WRONG IN 921–930 AND EVERY ONE OF THEM SAID *of last month* ON A PAIR THAT STAYS INSIDE ONE MONTH. A GATE ROW THAT SAYS A THING IS CHECKED IS NOT A CHECK. DERIVE THE PREDECESSOR'S MONTH BEFORE YOU WRITE THE GLOSS, AND WRITE THE GLOSS LAST, AFTER THE ARITHMETIC.**
 
@@ -98,7 +116,7 @@ CROSSING AT A MONTH END      ->  **961 -> 962 ONLY IN THIS BATCH**, THE THIRD FO
 
 Every chapter 1,800–2,700 words on the basis of record (`^#` stripped), paragraphs of two to four sentences, none over roughly 90 words and none over roughly 120, quotation-mark parity per paragraph, at most one system message per chapter in square brackets on its own line and only if the scene turns on it (this batch should need none). Every chapter ends on a new question, danger, revelation, decision, reversal, emotional consequence or unanswered mystery — never on a neutral action. **963 IS THE NEXT SCENE AND IT IS TEN CHAPTERS AFTER 953, WHICH IS INSIDE THE EIGHT-TO-FIFTEEN BUDGET.**
 
-Run the class grep with `manuscript` and `opposition` **and `this passage` and `the story`**, the weekday and age sweeps, the `settl`/`right temple`/`cuticle`/`ostho` gates, the within-file duplicate-paragraph scan, the 12/11/8-gram scans **proved on `chapters/volume-12/chapter-0564.md` before they are trusted**, the footer-to-footer row across the batch and the seam at 960/961, **the three-definition scene measurement for 963 with spans printed**, the explicit-vocabulary probe whole-file and scene-alone, the watch-construction row (cap six in narration and twelve in speech across ten chapters, and one of either in any single chapter), the closing-beat row against this batch's own nine and against 901–960, and the standing-figure row. **Record word counts from disk per file, never from concatenation, and make the per-file row add to the total — the last batch's row did not and that is how five figures went wrong unnoticed.**
+Run the class grep with `manuscript` and `opposition` **and `this passage` and `the story`**, the weekday and age sweeps, the `settl`/`right temple`/`cuticle`/`ostho` gates, the within-file duplicate-paragraph scan, the 12/11/8-gram scans **proved on `chapters/volume-12/chapter-0564.md` before they are trusted**, the footer-to-footer row across the batch and the quarter-end crossing at 960/961, **the three-definition scene measurement for 963 with spans printed**, the explicit-vocabulary probe whole-file and scene-alone, the watch-construction row (cap six in narration and twelve in speech across ten chapters, and one of either in any single chapter), the closing-beat row against this batch's own nine and against 901–960, and the standing-figure row. **Record word counts from disk per file, never from concatenation, and make the per-file row add to the total — the last batch's row did not and that is how five figures went wrong unnoticed.**
 
 **AND THE HAZARDS THAT ARE LIVE ON THIS PAGE RIGHT NOW.**
 

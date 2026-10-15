@@ -24,9 +24,11 @@
 SPINE, 961-970   961 4,379 · 962 4,386 · 963 4,393 · 964 4,400 · 965 4,407 ·
                  966 4,414 · 967 4,421 · 968 4,428 · 969 4,435 · 970 4,442
 Fence            interior nine 7 7 7 7 7 7 7 7 7 = 63, and 4,442 - 4,379 = 63
-                 seam 961-960 = 7
-                 both methods of §5a agree on all ten dates; a January is the twelfth month
-                 of the year that began in February
+                 quarter-end crossing 961-960 = 7. NOT "the seam": in 951-960 the
+                 seam is the 20-day renewal crossing 4,289->4,309 and means that
+                 and nothing else
+                 both methods of §5a agree on all ten dates; a January is the twelfth
+                 month of the year that began in February, and i = (y-2)*12 + 11
 CROSSINGS        961->962 AT A MONTH END, THE THIRD FORM, WORD FOR WORD:
                  "the thirtieth of this one and the seventh of the next one is day <D>, and
                   <D> less <M> is seven, and the month ended in between and there is nothing

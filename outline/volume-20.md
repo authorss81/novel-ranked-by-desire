@@ -209,13 +209,26 @@ month offset inside a year    Feb 0 · Mar 30 · Apr 60 · May 90 · Jun 120 · 
                                Aug 180 · Sep 210 · Oct 240 · Nov 270 · Dec 300 · Jan 330
 METHOD A   1 Feb of year y = (y-1) x 360
            day of month d  = (y-1) x 360 + off[m] + (d-1)
+           ** EXCEPT A JANUARY, WHICH IS (y-2) x 360 + 330 + (d-1) **
 METHOD B   absolute month index i = (y-1)*12 + pos[m] for Feb-Dec; day = 30*i + (d-1)
            ZERO INDEXING, WITH pos[Feb]=0, pos[Mar]=1, pos[Apr]=2, pos[May]=3, pos[Jun]=4,
            pos[Jul]=5, pos[Aug]=6, pos[Sep]=7, pos[Oct]=8, pos[Nov]=9, pos[Dec]=10
            ** A JANUARY IS THE TWELFTH MONTH OF THE YEAR THAT BEGAN IN FEBRUARY, so
-           METHOD A APPLIES TO IT UNCHANGED AND METHOD B NEEDS pos[Jan]=11. **
+           IT IS THE LAST MONTH OF THE YEAR BEFORE THE ONE ITS LABEL NAMES:
+           pos[Jan]=11 WITH i = (y-2)*12 + 11. pos[m] = 11 IS RIGHT AND y-1 IS NOT. **
            PRINTED IN EVERY BLOCK THAT USES IT.
 BOTH METHODS SHARE NO CONSTANT AND AGREE ON ALL FIFTY DATES BELOW. CHECK THEM YOURSELF.
+
+*** CORRECTED 2026-10-15 BY AN INDEPENDENT REVIEW PASS. AS FIRST PRINTED, THE BLOCK
+ABOVE SAID OF A JANUARY ONLY "METHOD A APPLIES TO IT UNCHANGED AND METHOD B NEEDS
+pos[Jan]=11", AND THAT IS WRONG FOR BOTH. AS PUBLISHED IT GAVE 20 Jan y13 = 4,669
+AND 27 Jan y13 = 4,676, WHEREAS THE TABLE AT §7 AND EVERY CHAPTER FROM 951 PRINT
+4,309 AND 4,316. UNDER THE CORRECTED RULE BOTH METHODS GIVE 4,309 AND 4,316, AND
+THE PAGE WAS RIGHT AND THE INSTRUMENT WAS WRONG; 4,289 + 20 = 4,309 AND
+4,309 + 63 = 4,372, SO THE SPINE WAS NEVER IN DOUBT. THE CLAIM THAT THE TWO
+METHODS "AGREE ON ALL FIFTY DATES" IS NOW TRUE OF ALL FIFTY AND WAS FALSE OF THE
+TWO JANUARY DATES WHEN MADE. THE CHAPTERS WERE NOT EDITED TO MEET THE INSTRUMENT
+AND MUST NOT BE. ***
 ```
 
 ### 5b. THE SPINE, RE-DERIVED IN THIS PASS BY TWO METHODS THAT SHARE NO CONSTANT
@@ -227,6 +240,15 @@ SPINE, 951-1000
   chapter 951            20 January, year thirteen = 4,309
   the seam               4,309 - 4,289 = 20 days after chapter 950, and it is the card's
                          second winter, said once at 951 and not argued
+                         *** ONE WORD, TWO MEANINGS, SETTLED 2026-10-15 BY THE INDEPENDENT
+                         REVIEW OF BATCH 0001. ABOVE AND IN THE FENCE TABLE BELOW, THE WORD
+                         *seam* IS THE VOLUME'S GENERAL NAME FOR A BOUNDARY CROSSING AND
+                         NAMES ALL FIVE. BUT 951 PUT *THE SEAM* ON THE PAGE AS THE TWENTY-DAY
+                         RENEWAL AND NOTHING ELSE, state/continuity.md §0a CARRIES IT AS CANON,
+                         AND NO CHAPTER OF 961-970 MAY CALL 961's SEVEN DAYS *THE SEAM*.
+                         961's IS THE QUARTER-END CROSSING. THE COLUMN NAMES BELOW ARE LEFT AS
+                         THEY ARE BECAUSE THEY ARE THIS SECTION'S OWN VOCABULARY AND ARE NOT
+                         RESTAGED; A CHAPTER WRITING PROSE USES *QUARTER-END CROSSING*. ***
   chapter 1000           30 December, year thirteen = 4,649
   span                   4,649 - 4,309 = 340 inside, plus seam 951-950 = 20,
                          340 + 20 = 360 = 4,649 - 4,289, EXACTLY ONE YEAR, THE SIXTH TIME RUNNING
