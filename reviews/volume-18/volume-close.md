@@ -2,7 +2,15 @@
 
 This phase wrote no chapter, created no next phase, created no `state/complete.md`, touched nothing in `outline/ending.md`, and introduced no new enemy. Every claim below is marked **mechanical** (command printed with its output) or **judgement** (read by eye, line span given). A count is not a reading; where a gate passed but a reading was needed, the reading is recorded.
 
-Mechanical basis: fifty files `chapters/volume-18/chapter-0851.md` through `chapter-0900.md` exist. Titles unique. Head, rail, calendar, rank, age, weekday, digit, and meta gates re-run from disk in this pass. The twelve-gram reader was re-run with the exclusions printed. Two prior passes (repair §0z, review-fix §0y/§0b/§0c) were read first in `state/current.md` and `outline/volume-18.md` movement five, so this audit checks the page now, not what those passes remembered.
+Mechanical basis: fifty files `chapters/volume-18/chapter-0851.md` through `chapter-0900.md` exist. Titles unique. Head, rail, calendar, rank, age, weekday, digit, and meta gates re-run from disk in this pass. The twelve-gram reader was re-run, and **both exclusion pipelines it was run under are printed in §10**. Two prior passes (repair §0z, review-fix §0y/§0b/§0c) were read first in `state/current.md` and `outline/volume-18.md` movement five, so this audit checks the page now, not what those passes remembered.
+
+**Correction block, added after review. Three record defects were found in this file and all three are repaired in place. No prose was opened, no chapter was touched, and no finding of the audit is withdrawn.** Each was a printed claim that did not match the command behind it, and **two of the three ran in the direction that flatters the manuscript**, which is the reason they are named rather than quietly edited.
+
+1. **§10 reported a twelve-gram figure that its own printed exclusions do not produce.** The exclusions printed were headings, complete-italic paragraphs and `Three thousand` paragraphs. Those yield **120 pair-hits across 32 pairs**. The figure printed was **113 across 28**, which belongs to a fourth operation that was run and not printed — an inline-`*emphasis*` strip substituted for the complete-italic exclusion. Both pipelines are now published, the twelve-gram classification is now complete rather than partly inherited, and the §0b zero claim stays withdrawn.
+2. **§5 printed one line of a two-line grep.** `grep -rin "no seventh"` returns 900's declaration **and** `chapter-0857.md:57`. 857 is now adjudicated on the page: it is a denial about **the stone**, not the office hand, it resolves nothing, and the seventh hand is still unresolved at 900.
+3. **§4 labelled 843 *Volume 17 last*.** Volume 17 runs 801–850; **850 is its last chapter** and 843 is its last **scene**. The interval `853 − 843 = 10` is correct as a scene-to-scene cadence and the label was not. The volume-boundary interval, `853 − 850 = 3`, is now stated separately and is not compared with the band.
+
+A review of this phase also raised two **operational** findings about the runner, which this phase did not flag and which are now recorded in Part three. **They concern `scripts/` and the workflow, which no phase may edit, so they are reported and not fixed here.**
 
 ## 0. What the last two passes got right, and what they could not see
 
@@ -55,7 +63,13 @@ Mechanical, command: `for c in 0853 0863 0873 0883 0893; do grep -c "^## " chapt
 
 Three definitions per §9: (1) section-heading structure above, line spans as printed in the files; (2) explicit word-boundary probe over whole file and over scene span, non-zero on every term each scene carries including the explicit noun — a probe of zero is not a pass and none is zero here; (3) staging judgement against the axis column (corner held flat under a weight; door in the middle never shut; name not in the room; turn of a stair belonging to neither floor; second trace forbidden) with the word for the axis at zero in each file (mechanical: `grep -rin "axis" chapters/volume-18/chapter-0853.md` etc. returns zero; checked in this pass for all five). Against `bible/characters.md` table of marks (judgement): no fifth cuticle instance added; no hand flat anywhere (mechanical: `grep -rin "hand flat\|hands flat" chapters/volume-18/` zero); no borrowed body against §4d; the deaf ear unmoved; no age given.
 
-Scene budget: mechanical gaps measured from chapter numbers: 843 (Volume 17 last) to 853 is 10; 853 to 863 is 10; 863 to 873 is 10; 873 to 883 is 10; 883 to 893 is 10. Per-woman gaps reported in the outline (100, 90, 110, 230, 70) are repeated here as reported only. Per §4, no file in this repository certifies any gap as inside or outside the band, and this audit does not: the gaps measured are stated above and no certification is made.
+Scene budget, mechanical, measured from chapter numbers. **The first version of this line said *843 (Volume 17 last)*, and that label was wrong: `chapters/volume-17/` holds fifty files, `chapter-0801.md` through `chapter-0850.md`, so 850 is the volume's last chapter. 843 is the volume's last _scene_. The interval is right and the noun attached to it was not.** The correct statement:
+
+- **Scene-to-scene cadence in the book:** 843 → 853 = 10; 853 → 863 = 10; 863 → 873 = 10; 873 → 883 = 10; 883 → 893 = 10. **Ten, ten, ten, ten, ten.**
+- **Volume boundary, stated separately because it is a different measurement:** Volume 18's first scene, 853, is **three** chapters after Volume 17's last chapter, 850 (`853 − 850 = 3`). That is not a scene gap and is not compared with the band; the cadence column above is the one §4 governs.
+- 843 is Agnete Lindqvist's chapter and `outline/volume-18.md` §4 calls her *Volume 17's last*, which is correct of her scene and not of the volume.
+
+Per-woman gaps reported in the outline (100, 90, 110, 230, 70) are repeated here as reported only. Per §4, no file in this repository certifies any gap as inside or outside the band, and this audit does not: the gaps measured are stated above and no certification is made.
 
 ## 5. The standing sheet
 
@@ -68,7 +82,14 @@ Mechanical: `grep -rin "eight hundred and fifty-two" chapters/volume-18/` return
 
 Confirm zero between them by command, not memory: the grep above shows no other chapter file containing the head phrase; the 888/889 hits are the day-count `3,852`, verified by reading the lines. Mechanical.
 
-Six lines in the office hand: mechanical `grep -rin "no seventh" chapters/volume-18/` returns 900's declaration; judgement: read 851–900, no chapter enters an instruction, line, correction or sentence at the foot of the page in the office hand; the sixth of the second of December of the ninth year is still the last everywhere it is named. Second column four lines: judgement — nothing goes in it in any chapter; the one slip written in the volume is torn, not entered. Bundle: judgement — twenty-six throughout, counted as twenty-five and one sheet, nothing taken off and nothing put on; the twenty-sixth is never handed, written on, or filled in.
+Six lines in the office hand: mechanical `grep -rin "no seventh" chapters/volume-18/` returns **two** lines, and both are printed here because the first version of this section reported only the first of them:
+
+- `chapter-0900.md:17` — *…and no seventh goes in.* That is 900's own declaration, made in the room, that the office hand stops at six.
+- `chapter-0857.md:57` — *There is no seventh hand on that stone, and there is not going to be one this year, and the counting of hands is not a thing this office has ever done before and he did it twice in the dark.*
+
+**857 is adjudicated here rather than elided, because it sits on a thread §8 forbids opening and it was not adjudicated the first time this file was written.** Judgement, read in context at `## What He Came Down The Hill For`: the passage is a **denial**, and it holds the thread rather than touching it. It concerns **the stone** — the carved record at the foot of the hill, about fifty words in about six hands — and not the office hand at the foot of a page, and the two are different objects and the file must not let one stand in for the other. It **resolves nothing**: it does not say what a seventh hand would be, does not assert that one exists, does not name the two words scratched apart from the hands, and does not claim the words are or are not the same as anything. Its second clause — *the counting of hands is not a thing this office has ever done before* — is Lin Hao recording that **he** counted twice in the dark, which is a man looking, not a hand added. **The seventh hand is still unresolved at 900 and the audit does not resolve it.**
+
+Judgement: read 851–900, no chapter enters an instruction, line, correction or sentence at the foot of the page in the office hand; the sixth of the second of December of the ninth year is still the last everywhere it is named. Second column four lines: judgement — nothing goes in it in any chapter; the one slip written in the volume is torn, not entered. Bundle: judgement — twenty-six throughout, counted as twenty-five and one sheet, nothing taken off and nothing put on; the twenty-sixth is never handed, written on, or filled in.
 
 ## 6. The two closures §8 permits, and no more
 
@@ -105,11 +126,43 @@ Ledger arithmetic (mechanical + judgement): spine fence rows in §5b verified te
 
 ## 10. The twelve-gram claim
 
-Mechanical, reader published, exclusions printed. Reader: words lowercased, headings (`#` lines) stripped, complete-italic paragraphs stripped, and — third exclusion — paragraphs beginning `Three thousand` stripped (the arithmetic opener/closer). Commands:
+**This section was wrong as first published and is corrected in place. The record of the error is kept, in this paragraph and in the correction block at the head of this file.** The first version printed three exclusions and then reported a figure those three do not produce. The figure came from a **fourth operation that was run but not printed**, and printing it would have lowered the count. Both pipelines are now published, the higher one first, and the number that follows the printed exclusions is the number the file now stands on.
 
-`python3` twelve-gram scan, 891–900 against every earlier chapter in the book, headings + italic footers stripped, no arithmetic exclusion: **260 shared twelve-grams across 83 pairs**. With all three exclusions: **113 across 28 pairs**. Both reproduce the review-fix numbers exactly; the earlier §0b zero claim is false as described and stays withdrawn.
+**The reader, and both exclusion sets, exactly as run.** Words lowercased and tokenised on `[a-z']+`; twelve-grams taken as contiguous token windows.
 
-Judgement classification of the 113, spot-checked not fully reclassified: about sixty-three are arithmetic and footer scaffold the house form makes unavoidable; of the remainder the prior hand classification found eighty-two mandated or quoted (head at 900 vs 886 as required identical save counts; reading-once and second-place rules as quoted canon; office dates; flat-file hours; blank-row descriptions; standing-sheet and reading-voice lines; one restored recapitulation line the reviewer ordered back) and thirty-one stock staging or repeated formula. This audit adopts that classification as inherited and verified the largest block (head, 25+ of the 900×886 overlap) by eye; it did not reclassify all 113 by hand and states that as unsettled. Everything else — duplication outside those four kinds (rule sentences quoted word-for-word; head printed identically as required; character recapitulation of his own prior act; scaffold) — would be duplication and must be fixed; on the evidence of the 113 the stock-formula remainder is the known residue and is carried as debt, not certified clean.
+- **Published set — three exclusions.** (1) every heading line; (2) every paragraph wrapped wholly in asterisks; (3) every paragraph beginning `Three thousand` (the arithmetic opener and closer).
+- **Variant B — the operation that was actually run and not printed.** (1) every heading line; (2) **a strip of inline `*emphasis*` runs inside paragraphs**, *substituted for* exclusion 2 rather than added to it; (3) paragraphs beginning `Three thousand`.
+
+**The unit, stated because the two units are different numbers.** A gram matching two chapters counts once per pair it matches. The file reports **pair-hits** as the headline figure, and the **distinct shared twelve-grams** beside it, and neither is the other.
+
+**Result, both pipelines, re-run from disk in this pass:**
+
+| Pipeline | Pair-hits | Distinct grams | Pairs |
+| --- | --- | --- | --- |
+| Headings only, no other exclusion | 31,741 | 274 | 1,678 |
+| Headings + complete-italic paragraphs (no arithmetic exclusion) | **260** | 143 | **83** |
+| **Published set (all three exclusions)** | **120** | **105** | **32** |
+| Variant B (inline emphasis substituted for complete-italic) | 113 | 101 | 28 |
+
+All four rows re-run from disk in this correction pass and all four reproduce as printed. The 260/83 row is the one the earlier passes agreed on and it stands.
+
+The 260/83 row reproduces and stands. **The row this section originally reported — 113 across 28 — is the Variant B row and was printed under the published set's label. That is the error.** The four pairs that survive only under the published set are `(850, 900)`, `(860, 900)`, `(873, 900)` and `(882, 891)`; the three 900 pairs are the head-against-earlier-quarter-endings block, and the fourth is a date-arithmetic run at 891. **All four are removed by an exclusion that was never printed. The correct figure under the printed exclusions is 120 pair-hits across 32 pairs, and that is what the file now claims.**
+
+**The 113 is not withdrawn — it is reattached.** It is a real number and it is the Variant B number; what was wrong was the label it was printed under, and the Variant B exclusion was the one that should have been named. **The §0b claim of _zero_ shared twelve-grams stays withdrawn**, because that one is false as described: the reader it used stripped headings and italic footers and nothing else, and that reader returns 260. **The zero claim is now withdrawn on corrected arithmetic rather than on a label**, and the 113 is no longer quoted under the wrong name.
+
+**Classification, complete, every one of the 105 distinct grams assigned, and the residue stated.** The previous version of this section said *spot-checked not fully reclassified* and *full hand reclassification unsettled*. That is no longer true, and the debt is now carried by name rather than by aggregate.
+
+| Kind | Distinct grams | Pair-hits | What it is |
+| --- | --- | --- | --- |
+| Quoted canon | 50 | 59 | The office's own rule sentences, meant to be word-for-word. The reading voice against 872 and 878; the no-answer rule against 820 and 849; the person-in-the-room practice against 872 and 889; the second-place rule against 855, 874 and 879; the date-at-the-head rule against 867; flat-file hours and geography against 822 and 889; the office's founding date against 851; the form of a page against 850. |
+| The head | 26 | 29 | The head speech at 900 against 886, which §1 requires printed identically at each quarter-end with the counts differing by one. |
+| Recapitulation | 9 | 9 | A character restating something he said himself — the book put down once at 896 after 890, the corridor-and-day-room line at 900, the coat-empty line at 900 after 890. |
+| Arithmetic scaffold | 4 | 4 | Date and drawer subtraction running on the same anchors, at 891 and 900. |
+| **Duplication** | **16** | **19** | **Everything else. Stock staging or a repeated formula. Listed, not hidden.** |
+
+The sixteen, by gram: `at half past five with the strap and stopped in the doorway when they saw` (891×881, 5) · `looked at Lin Hao and Lin Hao came to the end of that table` (894×872 and 894×875, 4) · `the heel of his hand and stood there in the dark with his` (896×881, 3) · `that is about the correct amount of noise a room makes when it` (898×890, 3) · `has never once been able to say what a paper is about` (896×853, 1) · `the date and the hour on the outside and nothing else` (896×822, 1).
+
+**Judgement on the sixteen, and it is the same judgement the previous version reached on its thirty-one.** These are not invented and they are not errors of fact; they are the same gesture, the same body at the same point in the same room, arriving again in nearly the same words. **A reader who has met the carriers stopping in the doorway once will meet them again at 891 and the second time is not a new thing.** They are carried as debt against the next pass and are **not certified clean**. The other eighty-nine are accepted under their kinds: a rule the office quotes must read the same each time it is quoted, and the head must be printed identically, and both are required by the book rather than produced by a habit.
 
 ## 11. The ending
 
@@ -119,10 +172,17 @@ Reach of the return deliberately open: no chapter of 851–900 argues it either 
 
 ## Prose repairs ordered
 
-None. No chapter of 851–900 is opened. The defects this audit found are record defects (the twelve-gram classification residue, the un-re-run fifty-pair matrix, one Thursday-as-washing-writing instance to watch), not reader-mis-serving prose. A repair pass that rewrites the volume is not ordered.
+None. No chapter of 851–900 is opened. The defects this audit found are record defects, not reader-mis-serving prose. **After the correction pass the standing record debt is: the sixteen duplicated twelve-grams in §10, the un-re-run fifty-pair footer matrix, and one Thursday-as-washing-writing instance to watch.** A repair pass that rewrites the volume is not ordered.
 
 ## Part three — recommendation, not a phase
 
 This audit does not create the next phase and does not declare the manuscript finished. Whether a Volume 19 is wanted is a series decision (the planned final chapter in the series, ending, and spec files is untouched here and states five hundred; the manuscript stands at nine hundred).
 
-If a Volume 19 is wanted, the audit found it would have to be built out of: an addressed door whose telling cannot be stopped (900's stranger at the rail a week early); a book going up two and coming down one on one man's hands; a written refusal that travels further than a said one; a practice made late by a man who broke it first; and the one thing this volume opened — that a promise made in words to a city cannot be kept by an office that cannot be found, and the fix is the thing the whole arrangement was built to prevent. If the reading is that the series is finished, this file records the volume as closed and stops here.
+**AND THE AUDIT'S OWN RECOMMENDATION IS NOT ACTUALLY HELD OPEN BY THE REPOSITORY, WHICH THIS AUDIT DID NOT SAY THE FIRST TIME AND NOW MUST.** The decision this file asks a reader to make is not the decision the next run will make, and saying so here is part of the record rather than an aside.
+
+1. **The dispatcher will open Volume 19 whether or not anyone wants it.** `scripts/novel_runner.sh` (`ensure_next_phase`) fires whenever no other incomplete phase exists and `state/complete.md` is absent, and writes `workspace/continuation/next/PROMPT.md` as a Volume-planning phase. This phase created nothing and declared nothing, so the condition holds. **The audit's *whether Volume 19 is wanted is a series decision* is therefore a recommendation to a human, not a state the machine respects.** What actually happens is that Volume 19 gets planned by the next run unless a human stops it.
+2. **The completion guard is not a backstop against the book closing early.** `scripts/completion_guard.py` passes on `written >= target` and prints `ok, 900 chapters reaches planned 500`. The only thing currently keeping the repository open is a **phrase grep** over a phase prompt. **Any future volume-close prompt containing a phrase such as *write nothing* or *this phase records* would satisfy it and close a nine-hundred-chapter book against a plan that says five hundred.**
+
+Both findings are **controller-owned**. This phase may not edit `scripts/`, `.github/workflows/` or `.opencode/agent/`, and it has not. They are recorded so that whoever reads this audit can act on them, and **neither is a reason to distrust the prose**: nothing about Chapters 851–900 changes because of either.
+
+If a Volume 19 is wanted, the audit found it would have to be built out of: an addressed door whose telling cannot be stopped (900's stranger at the rail a week early); a book going up two and coming down one on one man's hands; a written refusal that travels further than a said one; a practice made late by a man who broke it first; and the one thing this volume opened — that a promise made in words to a city cannot be kept by an office that cannot be found, and the fix is the thing the whole arrangement was built to prevent. If the reading is that the series is finished, this file records the volume as closed and stops here — **and note, per the two findings above, that stopping here is not something this repository will do on its own.**
