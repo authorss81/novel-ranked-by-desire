@@ -58,3 +58,26 @@ Write into the state files.
 ## What not to do
 
 Do not draft a chapter. Do not create a second next-phase prompt. Do not create `state/complete.md`. Do not modify `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. Do not change anything in `outline/ending.md`, `outline/series.md` or `NOVEL_SPEC.md`. Do not introduce a new enemy. **Do not print the figure of the account, the docket's date, or the two words on the stone, anywhere, including in this phase's own findings. Do not print the four-year clock's discharge, because it is not discharged. Do not send anybody to find the woman who cannot read. Do not resolve the seventh hand in the stone or assert anything about the two words scratched beside the seven. Do not restore a count of who comes up that stair without a second decision taken out loud in that room. Do not rub out Brack's sooner figure or chalk the third one.**
+
+## Adjudication, added after the phase ran — question 10's arithmetic is wrong in the text above
+
+**The paragraph above is left exactly as it was written, because it is this phase's specification of record and the phase is closed. This note corrects the one figure in it that does not add up to its own total, so that nobody who reads the prompt afterwards inherits it.**
+
+Question 10 asks for this total: *340 inside the five batches plus seams of 20 + 7 + 7 + 7 + 7 = 48, which is 360, which is exactly one year.* **340 + 48 is 388, not 360, and 340 is not the inside-the-five-batches figure.** The prompt's row is its own worst failure, because a gate that does not add up to its own total cannot be used to check a total.
+
+**The row that is right is the one `outline/volume-19.md` §5c already prints, and it was re-derived from the fifty spine paragraphs on the page:**
+
+```
+0001 901-910   7 7 7 7 7 7 7 7 7  = 63   and 4,012 - 3,949 = 63   seam 901-900 = 20
+0002 911-920   7 7 7 7 7 7 7 7 7  = 63   and 4,082 - 4,019 = 63   seam 911-910 =  7
+0003 921-930   7 7 6 7 7 7 7 7 7  = 62   and 4,151 - 4,089 = 62   seam 921-920 =  7
+0004 931-940   7 7 7 7 7 6 7 7 7  = 62   and 4,220 - 4,158 = 62   seam 931-930 =  7
+0005 941-950   7 7 7 7 7 7 7 7 6  = 62   and 4,289 - 4,227 = 62   seam 941-940 =  7
+
+312 inside the five batches
++ 28 of the four internal batch seams of 7   = 340 inside the volume, 901 to 950
++ 20 of the volume seam at 900/901
+= 360 = 4,289 - 3,929 = exactly one year, the fifth time running
+```
+
+**So: 312 is the inside-the-five-batches figure and 340 is the whole span from 901 to 950. Both sentences above in `reviews/volume-19/volume-close.md` §12 and in `state/current.md` §1 are already corrected to this row, and the outline was right all along.** The audit ran to completion on the corrected figure and the finding is recorded in the review as the third defect found in one file, the other two being in gate rows rather than in the prose.
