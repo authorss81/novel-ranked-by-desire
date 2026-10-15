@@ -90,7 +90,7 @@ He worked it out at about four in the afternoon, on a piece of nothing, in his h
 
 The binder had said nine days. The book had gone down on the twelfth of this month in August. Nine days from the twelfth is the twenty-first, and the twenty-second is the day it should have been back on that table, and today is the twenty-fourth of September.
 
-That is thirty-two days.
+That is forty-two days out of this building.
 
 He sat on the end of that table for about four minutes with the whole of it standing where he could see it, and then he went and found Wenna Raut and asked her the only question he had left.
 
