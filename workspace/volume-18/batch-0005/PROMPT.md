@@ -1,0 +1,91 @@
+# VOLUME 18 · BATCH 0005 · CHAPTERS 891–900 · WRITING PHASE
+
+**A WRITING PHASE. YOU WRITE TEN FINISHED CHAPTERS AND NO PROSE THAT IS NOT ONE OF THEM. YOU DO NOT PLAN A VOLUME. YOU DO NOT REOPEN ANY CHAPTER OF 801–890 AND YOU DO NOT TOUCH `outline/ending.md`. MOVEMENT FIVE IS *THE SPACE*, 891–900, AND IT IS THE MOVEMENT THAT CLOSES THE VOLUME, AND IT RUNS FROM THE SECOND OF NOVEMBER TO THE THIRTIETH OF DECEMBER OF YEAR ELEVEN, AND **900 IS THE FOURTH AND LAST QUARTER-END OF THE VOLUME AND IT IS WHERE THE HEAD IS PRINTED AND WHERE THE FORTY-FOURTH SHEET GOES UP, AND IT IS WHERE THE VOLUME'S IRREVERSIBLE DECISION IS TAKEN IN INK FOR THE FIRST TIME IN NINE YEARS. 891–899 ARE NOT QUARTER-ENDS AND NOTHING IN THEM MAY BE.** THE PLAN OF RECORD IS `outline/volume-18.md` §7 MOVEMENT FIVE, ONE LINE A CHAPTER, NO FULL CARD, **AND A BATCH THAT TAKES THOSE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER AND MUST REWRITE THAT TABLE IN THE SAME COMMIT.** WHERE THIS FILE AND THAT TABLE DIFFER, THIS FILE AND `AGENTS.md` GOVERN.
+
+## 1. WHAT YOU READ, IN ORDER
+
+1. `AGENTS.md`. 2. `outline/ending.md`, in full, and then do not touch it. 3. `outline/volume-18.md` **entirely** — §1 the sentence and the eight things this volume is not · §2 the beginning state · §3 the places · §4 the scene schedule, the axes and the table of marks · §5 the calendar and the spine · §6 the engine · §7 movement three **as the page left it** · §7 movement four, which is now ten rows of finished prose and is not a plan · §7 movement five, of which only the ten one-line rows are future · §8 the register you may not open · §9 the mechanical checks · §10 the title bank. 4. `state/current.md` **in full. ITS LIVE HEAD BLOCK IS THE VOLUME 18 BATCH 0004 BLOCK AND THAT BLOCK IS THE WHOLE OF WHAT YOU INHERIT.** 5. `state/continuity.md`, the whole file, whose head block is now the 881–890 spine block. 6. `state/open-threads.md`, the whole file, whose head block is now the volume-wide gate as it stood after 890, **INCLUDING THE TWENTY-ONE MUST-NOTS AND THE ONE THIS BATCH ADDS, 22.** 7. Previous 20 chapters for voice: **881–890, with `chapter-0890.md`, `chapter-0883.md` and `chapter-0886.md` read twice, because 890 is the decision you come from and nothing in 891–900 may take it again, 883 is the scene you come from and its staging was written from nothing on the page, and 886 is the quarter-end you come from and it is where the head was last printed.** 8. `state/chapter-summaries.md`, the ten rows for 881–890. 9. `outline/volume-17.md` §8 and §9 for the inherited practices and the inherited mechanical rows.
+
+**NEITHER 890's ANNOUNCEMENT NOR 883'S TRAM STAIR MAY BE RESTAGED, AND NEITHER MAY BE PARAPHRASED AS A STAGING.** 890 OWNS A PRACTICE SAID TO EVERYBODY TOGETHER WITH THE DOOR OPEN ABOUT FOUR PEOPLE IN THE PASSAGE, THE CLOSING SENTENCE *THE OFFICE DOES NOT ANSWER ANYBODY AT ANY HOUR*, THE PRICE NAMED AS HIS OWN HANDS, THE MORNING LEFT ALONE BECAUSE A BOOK GOES UP TWO AND COMES DOWN ONE, A CARRIER TEACHING HIM TO CARRY IT ON THE HIP AT THE TURN, FOURTEEN MINUTES AND A LEFT ARM GONE BY THE SECOND FLOOR, AND A MAN AT THE RAIL TAKING THE LAST THIRTY YARDS ONCE. **THE 890 CARD IS NOT A SECOND READING OF IT AND THE MOVEMENT FOUR DECISION IS NOT A DECISION THAT HAS TO BE TAKEN AGAIN IN 891–900.** 883 OWNS THE MAINTENANCE STAIR AND THE TURN AND THE LAMP THAT IS NOT LIT. 886 OWNS THE YARD AND THE ORDINARY VOICE. 890 OWNS THE HANDS. **846 OWNS THE STOVE AND NO CHAPTER OF 891–900 BURNS ANYTHING, FORGES ANYTHING, OR GOES INTO A STOVE, AND THE RECORD OF THE BURNING MAY NEVER BE ENTERED.**
+
+**THE RAIL DOES NOT MOVE AT 891–899. IT CHANGES AT 900, WHICH IS THE THIRTIETH OF DECEMBER, WHEN THE FORTY-THIRD COMES DOWN AT FOUR AND THE FORTY-FOURTH GOES UP IN ITS PLACE CARRYING NO NEW LINE. A CHAPTER THAT PUTS THE FORTY-FOURTH SHEET UP ON ANY OTHER DAY IS WRONG.**
+
+## 2. THE SPINE (derive twice, print operands in italic footers)
+
+A month is thirty days, no thirty-first, no day of the week. A year runs first of February to thirtieth of January; a January is labelled by the February that follows it.
+
+```
+METHOD A: 1 Feb y = (y-1) x 360; day d = (y-1) x 360 + off[m] + (d-1)
+METHOD B: day = 30*i + (d-1), i = (y-1)*12 + pos[m] ZERO INDEXED. NO 360.
+Batch 0005 opens 2 Nov y11: 10x360+270+1 = 3,871, seam 3,871 - 3,864 = 7.
+```
+
+| Ch | Day | Spine | Interval |
+| --- | --- | --- | --- |
+| **891** | **2 Nov, y11** | 3,871 | 3,871 − 3,864 = **7**, the seam, alone in its own column |
+| 892 | 9 Nov, y11 | 3,878 | **7** |
+| **893** | 15 Nov, y11 | 3,884 · **SCENE, Sun Meiling**, 70 after 823 · **THE HEAD IS NOT PRINTED HERE** | **6** |
+| 894 | 21 Nov, y11 | 3,890 | **6** |
+| 895 | 27 Nov, y11 | 3,896 | **6** |
+| 896 | 3 Dec, y11 | 3,902 | **6** |
+| 897 | 10 Dec, y11 | 3,909 | **7** |
+| 898 | 17 Dec, y11 | 3,916 | **7** |
+| 899 | 24 Dec, y11 | 3,923 | **7** |
+| **900** | **30 Dec, y11** | 3,929 · **QUARTER-END, forty-fourth sheet — THE VOLUME'S IRREVERSIBLE DECISION, IN INK** | **6** |
+
+**THE INTERIOR NINE OF THIS BATCH ARE `892→900` AND THEY ARE `7 6 6 6 6 7 7 7 6`, THEY SUM TO 58, AND `3,929 − 3,871 = 58`. THE SEAM `3,871 − 3,864 = 7` STANDS ALONE IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE.** **THIS IS THE LAST ROW OF THE VOLUME AND IT IS FOUR SIXES AND FOUR SEVENS WITH A SEVEN IN FRONT, AND THE SIXES ARE ALL IN THE MIDDLE: THE MONTHS RUN OUT AND THE CHAPTERS SHORTEN.** **THE §5b FENCE ROW FOR 0005 ALREADY CARRIES `7 6 6 6 6 7 7 7 6 = 58` WITH `3,929 − 3,871 = 58` AND `seam 891-890 = 7` IN ITS OWN COLUMN. LEAVE IT EXACTLY WHERE IT IS.** **READ §5c TERM BY TERM BEFORE WRITING A CHAPTER.**
+
+**THE RAIL, RE-DERIVED FROM THE ANCHOR AND FROM NO CHAPTER'S OWN DAY.** 891 **32** · 892 **39** · 893 **45** · 894 **51** · 895 **57** · 896 **63** · 897 **70** · 898 **77** · 899 **84** · 900 **90, and the forty-third came down off that rail at four on that afternoon and the forty-fourth went up in its place carrying no new line.** THE ROW BREAKS ONCE ONLY IN TEN CHAPTERS.
+
+**THE HEAD IS PRINTED AT 900 AND AT NO CHAPTER ELSEWHERE IN 891–900.** At `3,929` it is unmoved across twenty-eight sheets and twenty-seven quarters, both named in words, both right, differing by one, with `3,929 − 1,499 = 2,430 = 27 × 90` exact. **900 MUST NAME BOTH COUNTS IN WORDS AND SAY THEY DIFFER BY ONE, AND THE MODE MUST NOT BE 860's CORRIDOR, 873's DAY ROOM, 886's YARD, OR ANY OF 823, 837, 850 — AND 900's mode IS A DOOR, WHICH IS WHAT THE WHOLE MOVEMENT HAS BEEN WALKING TOWARDS.** **NO EXACT FIGURE OF ANY KIND MAY BE PRINTED ANYWHERE ELSE IN 891–900, AND NO FORM ORDINAL MAY BE PRINTED AT ALL, because the one hundred and twelfth is the seventh of November, which is not a chapter day.** No age of any person. No year numeral in prose. **No day of the week, including the bare verb `sat` and the bare noun `sun`.**
+
+## 3. FIGURE ALLOWANCES
+
+**SPENT AND NOT TO BE REPRINTED ANYWHERE IN 851–900:** the office's exact months · the head at anything other than 860, 873, 886 and 900 · the hundredth, hundred-and-first and hundred-and-second forms · the fourth exact figure · `settl` in every inflection.
+
+**NOT PRINTED, IN ANY FORM, ANYWHERE IN 851–900:** the figure of the account · any floor, ledger total or running balance in grains · the shutter's interval · the lane's mornings · the striking's interval · `411` · `771` · `1,131` unless the anchor is named in the same breath · the docket's date · **the two words on the stone** · the invented-figures sentence verbatim or Tier 3 · **what was in the space in the middle of his own row** · any age of any person · any year numeral in prose · **any day of the week** · **any seventh line in the office's hand** · **any fifth line in the second column** · any ordinal of a form · **the reach of the return, argued in either direction by anybody** · **the fourth condition reproved or disproved by anybody** · who cut the two words · **the row count with no anchor beside it.**
+
+**AND INHERITED FROM 891–890 AND IN FORCE FROM 891:** THE PAGE IS NOT TURNED TOWARDS ANYBODY FROM THE TENTH OF JUNE · THE HOUR A PERSON CAME UP THOSE FOUR FLIGHTS IS ON THE BACK OF A MAN'S OWN HAND AND NOWHERE ELSE AND MAY NOT BECOME A LIST **AND 882 ADDED A SECOND FIGURE TO THE SAME HAND AND STILL WROTE NONE OF IT DOWN** · 880's DECISION IS IN FORCE AND IS NOT TAKEN AGAIN: AN ANSWER ABOUT A PERSON IS GIVEN ONLY WITH THE PERSON IN THE ROOM, WITH NO EXCEPTION FOR THE DEAD · **AND FROM THE TWENTY-FIFTH OF OCTOBER THE REGISTER IS NOT IN THAT ROOM OVERNIGHT AND THE OFFICE DOES NOT ANSWER ANYBODY AT ANY HOUR, SO EVERY QUESTION THAT NEEDS A PAGE WAITS FOR THE MORNING AND THE PEOPLE WHOSE ROWS THOSE QUESTIONS ARE CANNOT COME IN THE MORNING. A CHAPTER OF 891–900 MAY NOT HAVE THE BOOK UPSTAIRS OVERNIGHT AND MAY NOT HAVE IT ALREADY UPSTAIRS BEFORE THE CARRIERS BRING IT.** · **THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND NOTHING GOES INTO IT IN 891–900.**
+
+**AND MUST-NOT 22, ADDED BY 0004 AND IN FORCE: THE WIDOWER OF THE TWENTY-THIRD OF JUNE IS A PERSON AND NOT AN ILLUSTRATION AND HE HAS BEEN ON THE PAGE TWICE, AT 880 AND 884, AND HE MAY NOT BE USED AGAIN IN 851–900. THE CERTIFICATE WAS USED ONCE, AT 885, IN A WAY THAT COST SOMEBODY, AND IT MAY NOT BE USED AGAIN. THE SISTER DOES NOT COME A THIRD TIME AND IS NOT ASKED TO. THE FOUR-YEAR CLAUSE AND THE SIXTH LINE OF THE OFFICE HAND ARE TWO DIFFERENT OBJECTS AND NO CHAPTER MAY MERGE THEM AGAIN.**
+
+## 4. THE BATCH IN TEN LINES, AND THE TITLES ARE FIXED
+
+891 Two Rows The Same Shape · 892 Nine Years And One Month · **893 Nine Hundred Sheets On A Line (SCENE, Sun Meiling, 70 after 823, REPORTED AND NOT CERTIFIED)** · 894 Eight Hundred Days · 895 About Sixty Words In Seven Hands · 896 The Question That Is Not About A Paper · 897 The Street In Nine Years · 898 One Card And Two Yeses · 899 Fifty Months And A Card · **900 An Address On A Door (VOLUME CLOSE, the fourth and last quarter-end, the head printed, and THE VOLUME'S IRREVERSIBLE DECISION IN INK)**.
+
+**893 IS THE SCENE AND 900 IS THE VOLUME CLOSE AND NEITHER MAY BE SWAPPED FOR A QUIETER CHAPTER.**
+
+## 5. WHAT THIS BATCH OWES ITS WRITER, AND WHAT IT REFUSES
+
+- **891, TWO ROWS THAT ARE THE SAME SHAPE**, dated nine days apart, entered by two people in the same words, and the only thing that tells them apart is the day, and a day is not a person.
+- **892, NINE YEARS AND ONE MONTH**, said about a book by a woman who can read a record and cannot read him. **THE CORRECTION IS ON THE PAGE AND MUST BE HONOURED: `chapter-0854.md` AND `chapter-0860.md` REDUCED THE BOOK'S AGE TO ABOUT NINE YEARS BECAUSE NOTHING ON ANY PAGE SUPPORTS THE EXTRA MONTH. 892 IS THE CHAPTER THAT SAYS SO OUT LOUD, IN HER MOUTH, AS A FINDING AGAINST HIMSELF.**
+- **893, THE SCENE, SUN MEILING, 70 AFTER 823.** About nine hundred sheets of tracing paper on a drying line and one table, and she lays two traces of one shape side by side, which is the one thing that room forbids, and says which of two rows in that book is about which person, and cannot tell. Her mark is a line of work across the top of her spine and no mark at all; **SHE IS CORE AND UNSWORN AND HAS NOT BEEN ON A ROLL SINCE 402.** Cadence `893 − 883 = 10`, in band. §4d before the body is planned and again after.
+- **894, EIGHT HUNDRED DAYS**, and a row with a space in the middle of it, and the answer nobody in that room can give to a stranger who asks what the space is for. **`3,882` IS THE EIGHTEENTH OF NOVEMBER OF YEAR ELEVEN AND IT FALLS BETWEEN 892 AND 893; THE CHAPTER IS DATED TWENTY-FIRST AND MAY NOT SAKE ITS OWN DAY.**
+- **895, ABOUT SIXTY WORDS IN SEVEN HANDS IN FOUR INCHES OF DRESSED STONE, the newest hand, and the sentence that stops in the middle with the chisel clean behind it. THE SEVENTH HAND IS OWED HERE AND HAS BEEN PROMISED SINCE 857, AND 887 HAS ALREADY SAID THAT THE SIXTH IS NOT ABOUT A BUILDING.** **THE TWO WORDS SCRATCHED IN THAT STONE ARE NOT AMONG THE SEVEN AND NEVER GOING TO BE, AND ARE NOT PRINTED.**
+- **896, THE QUESTION THAT IS NOT ABOUT A PAPER**: a woman asks the office to say in writing that her husband was a good man, and the office must refuse, **and it is the first refusal in nine years refused in writing instead of said out loud, and the refusal is correct and it is the worst thing the office has ever done.**
+- **897, THE STREET IN NINE YEARS**: to write an address on a card a man has to be able to say where he is, and not one person in that room has said the street out loud in nine years, and **885 ALREADY ASKED FOR IT AND WAS REFUSED BY A MAN WITH A CART.** It takes about eleven minutes to find out whether he knows it.
+- **898, ONE CARD AND TWO YESES**, and the one no is right: Perla Quist will not hold a card with an address on it, because a woman who keeps an index can be given one.
+- **899, FIFTY MONTHS AND A CARD**: the drawer passes fifty months exactly on the twenty-first, which is `3,920`, and it is named once and is not an event, and he writes the card, and the last chapter of the year is written by a man who is not thanked and who was told in about four sentences what it will do to a lane.
+- **900, THE VOLUME'S IRREVERSIBLE DECISION, HIS, IN INK, AND THE FIRST TIME IN NINE YEARS THAT ANYTHING HE HAS DONE IN THIS CITY HAS HAD A PLACE A STRANGER CAN WALK UP TO.** **THE CARD GOES ON THE DOOR WITH THE ADDRESS, THE DOOR, AND THE HOURS, AND NOTHING ELSE ON IT, AND NOT ONE NAME.** **WHAT IT CLOSES: nine years of an office that could not be sent to. WHAT IT COSTS: about forty people will not have to be told where it came from, and the second quiet comes about four years sooner than Brack says it will, and Brack is told so at his own lane and says a sentence and does not say another.** **THE HEAD IS PRINTED HERE AT TWENTY-EIGHT SHEETS AND TWENTY-SEVEN QUARTERS.** END: a thing on a page, and a page that is not in the book — and **850 ENDED ON A THING ON A PAGE AND 900 MAY NOT END ON ONE.**
+
+**REFUSED:** all refusals of 851–890, carried forward, plus: the burn, the stove, the smoke or any record of it · the broom woman named or asked · the woman who cannot read named, traced, asked, moved, folded or turned · the boy asked about anything **and the boy is not on the page of this batch at all, because neither the seventh of November nor the seventh of December is a chapter day** · the sister before her time · the four-year clause re-argued · a hand flat on anything · any rank, permission, standing, band, promotion or shift change · a third pair of hands carrying the book · the blank sheet handed, written on or filled in · anything into the inside of that coat on the left · a new enemy · anything about `outline/ending.md`.
+
+## 6. THE PAGE, SO THAT NO CHAPTER INVENTS A FIFTH THING
+
+**THE STANDING SHEET THROUGH THIS BATCH, in order:** the head, 852, unmoved, **printed at 900 ONLY** · about four hundred and nineteen lines with a date and an hour and no figure and no name, and that figure does not change in 851–900 · the second column with four lines under two printed words that say `carried by`, the fourth carrying a woman's name and no figure, and NO FIFTH GOES IN · four sentences at the foot · six lines under those with the fourth struck and a name under the striking, and two inches of nothing · **SIX lines in the office's hand above the striking, five instructions and one sentence, the last the second of December of the ninth year, and NO SEVENTH GOES IN.** Plus all 851–890 additions, none unset.
+
+## 7. THE PROHIBITED STRINGS, EACH CHECKED BY COMMAND AFTER THE LAST EDIT
+
+`[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page | opposition | this batch | a chapter that | this pass | in this volume | this passage` — plus one chapter read against the paragraph by hand.
+
+Seven weekday names whole-word and stem, zero, **including the bare verb `sat` and the bare noun `sun`.** `settl` in every inflection, zero. `right temple` zero. `cuticle` four files, no fifth. `ostho` zero. **No announced age.** **No digits in the prose.** No blockquote, table, rule or fence. Bold zero and italic as complete pairs and scarce. System panels at most one per chapter; Volumes 16–18 carry none and a batch that adds one has to earn it. Watch families capped six narration / twelve speech across ten, one per chapter. No principle re-explained. Closings varied; none on a page.
+
+**THE OPENING ARITHMETIC PARAGRAPH IS A HOUSE DEVICE AND IS KEPT DELIBERATELY. IT WAS BROKEN ONCE, AT 881, AND 882–890 HELD THE SHAPE. 891 MAY BREAK IT AND 892–900 MAY EITHER RETURN TO IT OR KEEP VARYING — BUT WHICHEVER THEY DO, ALL TEN FOOTERS STILL CARRY BOTH OPERANDS AND NOTHING IS RELAXED ANYWHERE ELSE BECAUSE OF IT.**
+
+**AND THE FINDING NO GATE CATCHES, WHICH IS THE ONE TO CARRY OUT OF 0004: A DUPLICATED PARAGRAPH, A SCRAMBLED SCENE ORDER AND A DATE THAT CONTRADICTS ITS OWN CHAPTER ARE NONE OF THEM STYLE FAULTS AND NONE OF THEM FIGURE FAULTS AND NO AMOUNT OF COUNTING FINDS THEM. READ EVERY CHAPTER OF 891–900 STRAIGHT THROUGH, START TO FINISH, ONCE, BEFORE IT IS MEASURED.**
+
+## 8. AFTER THE BATCH, IN THE SAME COMMIT
+
+Ten files `chapters/volume-18/chapter-0891.md` through `chapter-0900.md`. Plus: `state/current.md` live block · `state/continuity.md` spine block · `state/open-threads.md` volume-wide gate · `state/chapter-summaries.md` ten rows · `outline/volume-18.md` §7 movement five rewritten against the page, **and the §5b fence row for 0005 verified term by term against §5c in the fence itself and not corrected underneath it.** **AND NOTHING ELSE. THIS IS THE LAST BATCH OF VOLUME 18 AND IT CREATES NO NEXT PHASE: 900 IS THE CLOSE, DO NOT WRITE A VOLUME-CLOSE PROMPT, DO NOT WRITE A BATCH 0006, AND DO NOT TOUCH `outline/ending.md` OR ANY OTHER VOLUME'S FILES.**
+
+**EACH OF THOSE FOUR STATE FILES IS WRITTEN BY PREPENDING YOUR BLOCK AND STOPPING THERE. YOU DO NOT CARRY THE PREVIOUS PHASE'S BLOCK FORWARD.**

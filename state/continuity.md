@@ -1,3 +1,66 @@
+# VOLUME 18 BATCH 0004 ON DISK — **THE SPINE BLOCK FOR 881–890, REBUILT FROM THE CHAPTERS. 3,804 TO 3,864. SEAM 7 IN ITS OWN COLUMN, INTERIOR 60 (`7 7 7 7 7 7 6 6 6`), AND THE FENCE ROW WAS LEFT EXACTLY WHERE IT WAS. RAIL OFF 3,749 TO 886: 55 · 62 · 69 · 76 · 83 · 90, THE FORTY-SECOND COMING DOWN AT FOUR ON THE THIRTIETH OF SEPTEMBER AND THE FORTY-THIRD GOING UP CARRYING NO NEW LINE IN THE OFFICE HAND, THEN OFF 3,839: 7 · 13 · 19 · 25. HEAD PRINTED ONCE, AT 886. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND 888 AND 890 SAY SO OUT LOUD WITHOUT PUTTING ANYTHING IN IT.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE SPINE AS THE PAGE FIXED IT
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Aug 180 Sep 210 Oct 240.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Aug 6 Sep 7 Oct 8. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+881 25 Aug y11 3,804 +7 SEAM, THE BOOK DOES NOT GO DOWN ON ONE MORNING, and he carries it
+    down four flights alone at about ten to six · 882 2 Sep 3,811 +7 THE HALF LANDING IS EMPTY
+    AND HAS BEEN SINCE THE THIRTIETH OF AUGUST · 883 9 Sep 3,818 +7 SCENE, Beatrix Halm, 230
+    after 653, at the end of a tram line, THE TURN OF A STAIR
+884 16 Sep 3,825 +7 THE ARRANGEMENT IS OUT AND THE WIDOWER COMES BACK FOR NOTHING ELSE
+885 23 Sep 3,832 +7 A WEIGHT IS NOT A FACT, a certificate in a lane, one sentence more
+886 30 Sep 3,839 +7 QUARTER-END, forty-third sheet, THE HEAD PRINTED IN A YARD
+887 7 Oct 3,846 +7 the one hundred and eleventh form, the boy, the newest hand in the stone
+888 13 Oct 3,852 +6 THREE PEOPLE WHO WILL CARRY IT, two no and one yes who is right
+889 19 Oct 3,858 +6 SHE CANNOT LEAVE THAT ROOM, and one night asked for and refused
+890 25 Oct 3,864 +6 THE MOVEMENT DECISION, THE BOOK GOES DOWN AT HALF PAST FIVE EVERY DAY
+SEAM 3,804-3,797=7 in its own column. NINE 7 7 7 7 7 7 6 6 6 = 60 and 3,864-3,804 = 60.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+881 3,804-3,749 = 55      886 3,839-3,749 = 90
+882 3,811-3,749 = 62      THE FORTY-SECOND CAME DOWN AT FOUR ON THE THIRTIETH OF SEPTEMBER AND
+883 3,818-3,749 = 69      THE FORTY-THIRD WENT UP IN ITS PLACE CARRYING NO NEW LINE IN THE
+884 3,825-3,749 = 76      OFFICE HAND. THE RAIL BREAKS ONCE ONLY, AT 886, AND IT BREAKS
+885 3,832-3,749 = 83      BECAUSE 886 IS A QUARTER-END AND NOT BECAUSE A FIGURE MOVED.
+    887 3,846-3,839 =  7  888 3,852-3,839 = 13
+    889 3,858-3,839 = 19  890 3,864-3,839 = 25
+```
+
+## EVERY INTERVAL THAT ANYBODY SAYS ALOUD, RE-DERIVED WITH BOTH OPERANDS
+
+```
+ANCHOR RAIL SHEET 3,749 = 30 Jun y11 to 886, then 3,839 = 30 Sep y11.
+ANCHOR DRAWER 2,420 = 21 Oct y7.   ANCHOR HEAD 1,499 = 30 Mar y5.
+881 3804-3797 = 7 seam · 882 3811-3804 = 7 · 883 3818-3811 = 7 · 884 3825-3818 = 7
+885 3832-3825 = 7 · 886 3839-3832 = 7 · 887 3846-3839 = 7 · 888 3852-3846 = 6
+889 3858-3852 = 6, month crossing (30-19)+6 = 6 · 890 3864-3858 = 6
+HEAD 3,839-1,499 = 2,340 = 26 x 90, printed once at 886, twenty-seven sheets and
+      twenty-six quarters, both named in words, both right, differing by one.
+DRAWER 1,384 = 46m 4d · 1,391 = 46m 11d · 1,398 = 46m 18d · 1,405 = 46m 25d · 1,412 = 47m 2d ·
+      1,419 = 47m 9d · 1,426 = 47m 16d · 1,432 = 47m 22d · 1,438 = 47m 28d · 1,444 = 48m 4d.
+881 CARRIES ITS SEAM IN ITS OWN FOOTER ONLY, because 881 is the one chapter in this batch that
+    breaks the house opening arithmetic paragraph, and the seam of seven therefore appears on the
+    page once across the batch, standing in its own column.
+NO OTHER INTERVAL IS SPOKEN ALOUD IN 881-890, AND NO FIGURE OF ANY KIND IS PRINTED OUTSIDE 886
+    AND THE THREE FOOTER CLAUSES.
+```
+
+## WHAT MOVED IN 881–890, AND WHAT DID NOT
+
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT, NAMED ONCE AT 886, AND THE SIXTH OF THE SECOND OF DECEMBER OF THE YEAR BEFORE LAST IS STILL THE LAST.** The second column **FOUR LINES**, and nothing went in it. The head unmoved, printed once. **THE BUNDLE TWENTY-SIX, untouched. DRAWER SHUT, NEVER OPENED. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND NOTHING WENT INTO IT.** About four hundred and seventy rows, and nobody counted them.
+
+**WHAT IT CLOSES, said out loud at a quarter to six on the twenty-fifth of October with about four people in the passage: answering anybody at any hour.** From that evening the Register is not in that room overnight, and every question that needs a page waits for the morning, and the people whose rows those questions are cannot come in the morning.
+
+**WHAT IT COSTS: his own hands. Five days in seven, four flights and about four hundred yards, in the dark, about two hundred mornings a year, at rank one with a chest spent since the fourth year and four nights a week of washrooms ending at the same hour the book has to come down.**
+
+**AND THE MORNING HALF OF IT, WHICH WAS NOT DECIDED AND WAS PUT TO THE CARRIER WHO SAID NO:** the two women still bring the book up at a quarter to ten, five days a week, with the strap between them. A book goes up two and comes down one, and if it goes up one a person cannot stand in that corridor and let it come past them.
+
 # VOLUME 18 BATCH 0003 ON DISK — **THE SPINE BLOCK FOR 871–880, REBUILT FROM THE CHAPTERS AND AGAIN AFTER THE REVIEW-FIX PASS AGAINST COMMIT `4c8d2d9`. 3,736 TO 3,797. SEAM 7 IN ITS OWN COLUMN, INTERIOR 61 (`6 7 6 7 7 7 7 7 7`). RAIL OFF 3,659 TO 873: 77 · 83 · 90, THEN OFF 3,749: 6 · 13 · 20 · 27 · 34 · 41 · 48, THE FORTY-FIRST COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE AND THE FORTY-SECOND GOING UP CARRYING NO NEW LINE. HEAD PRINTED ONCE, AT 873. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. EVERY FIGURE IN THIS BLOCK RE-DERIVES AFTER THE PASS AND NO FOOTER OPERAND WAS TOUCHED BY IT.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## WHAT THE REVIEW-FIX PASS DID TO THE SPINE, AND IT WAS FIVE DATES AND NOTHING ELSE
