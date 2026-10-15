@@ -78,7 +78,7 @@ A man in a street had worked out that four flights is worth a small amount to a 
 
 "It was out by more than half a quarter in June and it is further out now and I am not going to tell you what it counts, and if I did you would not be able to do anything with it, and you would do something with it."
 
-"That is the first sensible thing anybody in this city has said to me in four months."
+"That is the first sensible thing anybody in this city has said to me in seven months."
 
 "It is the second," said Brack. "You said the first one yourself on the twenty-fourth of March and you said it to a court and it cost you three days off a week you did not have."
 

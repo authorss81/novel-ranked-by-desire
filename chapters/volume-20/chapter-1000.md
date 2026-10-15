@@ -60,7 +60,7 @@ He looked at the woman at the back.
 
 He said it in the ordinary voice, at the bottom of his own stair, in the dark, at about nine minutes to five on the last working evening of the year, to about nine people who were standing there and to the three who were four flights above him with a door open between.
 
-"He is not going to say them again."
+"He is not going to say them again," said the woman at the back, to the man beside her.
 
 He put his hands down by his sides.
 

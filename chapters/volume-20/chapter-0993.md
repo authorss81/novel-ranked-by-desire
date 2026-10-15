@@ -14,7 +14,7 @@ There was a piano in that room at the far end under a cloth that had been moved,
 
 ## She Starts At The Piano Without A Word
 
-She went across the room and lifted the lid off the piano without looking at him, and she sat down on the bench in front of it without a word, and she played.
+She went across the room and lifted the lid off the piano without looking at him, and she took her place on the bench in front of it without a word, and she played.
 
 The strings have been dead for about four years and the tuning had gone flat enough that everything she played was a little under itself, and she played about nine bars of something that was not a tune she had come in here to play.
 
@@ -36,7 +36,7 @@ She stopped with her hand still on the keys and did not turn round.
 
 "It is the difference between saying a thing and being understood to say it." She put her forearm along the top of the closed part of the lid.
 
-"I can sing a flat note in this room and I have never once heard it flat. I have gone in there and been wrong on purpose for four years and the room has agreed with every wrong note I put into it, and then I have sat here afterwards with my hands in my lap like a woman who has been praised."
+"I can sing a flat note in this room and I have never once heard it flat. I have gone in there and been wrong on purpose for four years and the room has agreed with every wrong note I put into it, and then I have stayed here afterwards with my hands in my lap like a woman who has been praised."
 
 "You have not sung in here in about four years."
 
@@ -52,7 +52,7 @@ She stopped with her hand still on the keys and did not turn round.
 
 "I am not doing that."
 
-"You are going to do it, because you have spent four months going round this city telling it that a mouth is all anybody has, and you have not the least idea whether a mouth can be checked," said Isolde Marchetti, "and I am the only person I know of who can put your own sentence back in front of you and have it be wrong."
+"You are going to do it, because you have spent ten months going round this city telling it that a mouth is all anybody has, and you have not the least idea whether a mouth can be checked," said Isolde Marchetti, "and I am the only person I know of who can put your own sentence back in front of you and have it be wrong."
 
 So he said it. It was about his own office and it was not true, and the room gave it back at him about a third of a second late and it sounded like a man who had been in charge of it for nine years.
 
@@ -68,7 +68,7 @@ He said: tell me about the four years.
 
 She got up off the bench. "Do not make it into a bargain. I have had a bargain this year from somebody who wanted twenty in it."
 
-She did not take anything off. There was one chair by the window and a long low seat along the wall under it that had a blanket folded over the arm, and she took the blanket off the arm and dropped it on the floor and sat down on the end of that seat and put her boots up, and waited for him with her hands in her lap.
+She did not take anything off. There was one chair by the window and a long low seat along the wall under it that had a blanket folded over the arm, and she took the blanket off the arm and dropped it on the floor and took her place on the end of that seat and put her boots up, and waited for him with her hands in her lap.
 
 "I have not undressed for a man in four years and I am not doing it now," she said. "You are going to sit on the end of this and I am going to do what I like with you, and you are not going to be told the order, and the reason I am not telling you the order is that I do not owe this room one more thing about itself."
 
@@ -118,7 +118,7 @@ He could not get a sentence out of it and he was held there while he tried, and 
 
 ## One Finish
 
-Then she let him go, all the way, and took all of it in her mouth, and held him there with a hand at the back of his head until it had finished going, and swallowed it and sat back down on the seat beside him and put her boots on the floor again and let about nine seconds go by.
+Then she let him go, all the way, and took all of it in her mouth, and held him there with a hand at the back of his head until it had finished going, and swallowed it and lay back down on the seat beside him and put her boots on the floor again and let about nine seconds go by.
 
 The room gave them back about nine seconds later, better than they were.
 
