@@ -1,3 +1,82 @@
+# VOLUME 19 BATCH 0004 ON DISK — **NOTHING MOVED OUT OF ITS PLACE. THE SPINE IS 4,158 TO 4,220, THE SEAM IS 4,158 − 4,151 = 7 IN ITS OWN COLUMN, THE INTERIOR NINE ARE `7 7 7 7 7 6 7 7 7 = 62`, THE HEAD IS PRINTED ONCE AND STILL AT 937, THE RAIL STILL BREAKS ONCE AND STILL AT 937, THE DRAWER IS STILL SHUT AND IS SIXTY MONTHS SHUT, THE COAT-LEFT IS STILL EMPTY, NOTHING ENTERED THE OFFICE HAND, THE SECOND COLUMN STILL HAS FOUR LINES, THE BUNDLE IS STILL TWENTY-SIX THINGS, AND `outline/ending.md` IS UNTOUCHED. TWO THINGS ARE NEW AND BOTH ARE THE POINT OF THE MOVEMENT: A ROW WITH A DATE, AN HOUR AND NOTHING UNDER IT, AND THE END OF COUNTING.** THIS BLOCK IS LIVE, IT SUPERSEDES THE MEASUREMENT ROWS OF EVERY BLOCK BELOW IT, AND IT DELETES NONE OF IT.
+
+**THE FULL RECORD IS `reviews/volume-19/batch-0004.md`. THE CARDS OF RECORD ARE `outline/batches/volume-19-batch-0004.md`, IN FULL, AND MOVEMENT FOUR'S ONE-LINE TABLE IN `outline/volume-19.md` §7 HAS BEEN REPLACED IN PLACE WITH WHAT THEY PUT ON THE PAGE.**
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Aug 180 Sep 210 Oct 240.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Aug 6 Sep 7 Oct 8. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+931 19 Aug 4,158 +7 SEAM  · 932 26 Aug 4,165 +7 · 933 3 Sep 4,172 +7 SCENE, MONTH CROSSING
+934 10 Sep 4,179 +7       · 935 17 Sep 4,186 +7 · 936 24 Sep 4,193 +7
+937 30 Sep 4,199 +6 QUARTER-END, the forty-seventh sheet, THE HEAD PRINTED IN A LANE
+938 7 Oct 4,206 +7 MONTH CROSSING, a form on the seventh · 939 14 Oct 4,213 +7
+940 21 Oct 4,220 +7 DECISION
+SEAM 4,158-4,151 = 7 in its own column and not one of the nine.
+NINE 7 7 7 7 7 6 7 7 7 = 62 and 4,158+62 = 4,220.
+```
+
+## THE TWO CROSSINGS AND THE EIGHT SAME-MONTH PAIRS, WHICH ARE A HOUSE RULE AND NOT A STYLE
+
+**933 PRINTS *THE TWENTY-SIXTH OF LAST MONTH* AND DERIVES THE CROSSING ON THE PAGE: thirty less twenty-six is four, and four with three taken out of the next month is seven, with the crossing named as itself. 938 PRINTS *THE THIRTIETH OF LAST MONTH* AND DERIVES IT: thirty less thirty is no days, and no days with seven taken out of the next month is seven.** The other eight print *the `<N>` of this one* with plain subtraction, and 937 prints *the thirtieth of this one* with thirty less twenty-four is six. **THE GLOSS WAS WRITTEN LAST, AFTER THE ARITHMETIC, IN EVERY ONE OF THE TEN FILES.** **AND THE RAIL FOOTERS AT 938, 939 AND 940 NAME THEIR ANCHOR AS *THE THIRTIETH OF SEPTEMBER*, AN ABSOLUTE DATE, BECAUSE A RELATIVE PHRASE IN AN OCTOBER FOOTER NAMES THE WRONG DAY.**
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+ANCHOR 4,109, the thirtieth of June. THE FORTY-SIXTH SHEET CAME DOWN AT FOUR ON 937.
+931 4,158-4,109 = 49      936 4,193-4,109 = 84
+932 4,165-4,109 = 56      937 4,199-4,109 = 90, THE BREAK, and it came down at four that
+933 4,172-4,109 = 63                             afternoon
+934 4,179-4,109 = 70      938 4,206-4,199 =  7
+935 4,186-4,109 = 77      939 4,213-4,199 = 14
+                           940 4,220-4,199 = 21
+IT BREAKS ONCE IN TEN CHAPTERS. EVERY FIGURE FROM 938 ONWARD IS DERIVED AGAINST 4,199 AND NOT
+AGAINST 4,109, BECAUSE 84 TO SEVEN LOOKS LIKE A FALL AND IT IS THE SAME RAIL STARTING AGAIN.
+```
+
+## THE DRAWER, 2,420, THE TWENTY-FIRST OF OCTOBER OF THE SEVENTH YEAR
+
+```
+931 1,738 = 57 x 30 + 28  · 936 1,773 = 59 x 30 +  3
+932 1,745 = 58 x 30 +  5  · 937 1,779 = 59 x 30 +  9
+933 1,752 = 58 x 30 + 12  · 938 1,786 = 59 x 30 + 16
+934 1,759 = 58 x 30 + 19  · 939 1,793 = 59 x 30 + 23
+935 1,766 = 58 x 30 + 26  · 940 1,800 = 60 x 30 +  0, PRINTED `no days` IN THE HOUSE FORM
+EVERY BREAKDOWN RE-DERIVED AS MONTHS x 30 + DAYS AND VERIFIED IN THE FOOTER TEXT OF EVERY FILE.
+THE SIXTY-MONTH MARK IS NAMED ONCE, IN 940's FOOTER, AND IS NOT AN EVENT.
+```
+
+## WHAT THIS BATCH TOOK OUT, AND WHERE IT CAME FROM
+
+**THE HEAD AT 937, ONCE, IN A LANE: `4,199 − 1,499 = 2,700 = 30 × 90`, THIRTY-ONE SHEETS AND THIRTY QUARTERS, DIFFERING BY ONE, SAID OUT LOUD IN A LANE OFF CORDWAIN AND WRITTEN IN ANOTHER MAN'S SMALL CHALK WHERE A PERSON CAN CHECK IT, BESIDE THE SOONER FIGURE.** That is the first time any part of that office's standing sheet has been in a lane. It is not moved, not raised, not confirmed and not corrected anywhere in 931–940. **THE SOONER FIGURE STANDS AND IS NOT ARGUED, AND THE THIRD FIGURE IS NOT CHALKED AND IS OUT BY MORE THAN HALF A QUARTER.**
+
+**HIS OWN BLANK ROW, `3,082`: 1,076 DAYS OLD AT 931 AND ONE THOUSAND ONE HUNDRED AND THIRTY-EIGHT AT 940. DERIVED, NEVER PRINTED AS A FIGURE IN THE PROSE, NEVER COMPLETED, AND NEVER DESCRIBED AS A THING IN TEN CHAPTERS.**
+
+## WHAT THIS BATCH ADDED TO THE PAGE AND WHAT A LATER PASS MUST NOT REINTRODUCE
+
+**1 · THE HOURS ON THE CARD BOUND THE ANSWERING AND NOT THE ASKING, AND A BUILDING WITH PEOPLE IN IT ALL NIGHT ASKS AT TWO IN THE MORNING.** At 932 a door that had been shut in the dark for nine years was opened at about two, and **the door's silence at night was a protection and it cannot be got back**, and about nine people in that building are awake at two in the morning.
+
+**2 · THE FIRST GAP IN THAT BOOK SINCE THE SECOND OF DECEMBER OF THE NINTH YEAR.** A row entered at 932 with a date, an hour and nothing under it, because a question asked about a person by a person who was not in the room cannot be entered in the words used and the clerk entered the asking only. **A LATER CHAPTER MAY NOT FILL IT, AND MAY NOT RESTATE 932's DECISION TO LEAVE IT EMPTY.**
+
+**3 · THE FIRST ENTRY IN NINE YEARS THAT IS ABOUT THE MAN WHO OWNS THE ROOM**, entered at 934 in his own words with the door open: that a person came up four flights who cannot write her own question down and that this office did not ask her the question.
+
+**4 · THE OFFICE KEEPS NO ROLL AND NOW KEEPS NO COUNT EITHER.** Said out loud at 940 with the door open and both carriers in the passage and the asker still in the room. **What it closes: keeping hours by keeping people, and the last instrument that office had for telling itself whether its own door was working. What it costs: about nine people a fortnight knocking at the wrong end of the hours for the rest of the year, and two places in this city going on with nothing to show for it.** A later chapter may not put a count, a total or a figure of comers back into that office without a second decision taken out loud in that room.
+
+**5 · THE NO-ROLL RULE NOW STANDS IN THREE PLACES AND A FOURTH THING SITS BESIDE IT**: said in that room in the sixth month, printed in about seventy words on a wall four hundred yards off in July, and said on a landing at two in the morning in August. A later chapter may not add a fifth.
+
+**6 · FOUR PEOPLE IN THIS CITY ARE KEEPING SOMETHING FOR THAT OFFICE AND NONE OF IT IS WRITTEN DOWN**: a woman at a market end who has read those hours aloud eleven times, a woman two streets off dating strangers' slips in her own hand, a woman at a platform who has about nine people stranded on it every morning, and a clerk in a division building putting paper in a wrong bin without telling anybody. **NO CHAPTER OF 901–950 MAY PUT ANY OF THEM ON ANYTHING, AND THE FOURTH HAS SAID OUT LOUD THAT SHE IS NOT GOING TO STOP.**
+
+**7 · A THING SAID IN A PASSAGE WITH PEOPLE GOING PAST IT BELONGS TO EVERYBODY GOING PAST AND TO NOBODY STANDING STILL, AND THAT IS WHY THE PASSAGE IS THE ONLY SAFE PLACE LEFT FOR AN ANSWER ABOUT A PERSON AND CANNOT BE USED, because that book wants a date and an hour at the head of every line and a passage has not got either.** The word `axis` is zero in all ten files and nobody names it.
+
+**8 · CORRECTING A COPY MAKES A SECOND COPY, AND THE SECOND COPY IS WORSE BECAUSE IT HAS BEEN CORRECTED BY SOMEBODY WHO BELIEVED THE FIRST ONE.** A paper exists in this city in a frame with three inks on it; a second exists with four hands on it that do not agree about either end; a third has the head figure at the top of a division return with about nine lines under it. **THE OFFICE CORRECTS NONE OF THEM AND HAS SAID SO OUT LOUD AT 939.**
+
+**9 · A SHEET OF PAPER IS ON THE RAIL OF A BOARD AT THE FOOT OF A HILL**, in two pins that are not the pins that came with it, with writing on the outside of it, and it is about this office. **HE HAS NOT READ IT, WILL NOT READ IT, HAS NOT TAKEN A LAMP TO THAT KERB SINCE THE NINTH OF MARCH, HAS TAKEN NOTHING OFF IT, HAS SENT NOBODY, HAS CUT NOTHING INTO THAT STONE, AND HAS TOLD A ROOM ALL OF THAT WITH THE DOOR OPEN.** A later chapter may not send anybody to read it and may not name what it says.
+
+**10 · THE TWO WRITTEN REFUSALS STAND, NO THIRD WAS GIVEN IN TEN CHAPTERS, AND NONE MAY BE GIVEN.** Every refusal from the twelfth of August is in person on four flights, five days in seven, between a quarter to ten and half past five, and there is no version of it that goes in an envelope.
+
+## THE FIGURES A LATER PASS MUST NOT "CORRECT", AND EACH ONE IS ON THE PAGE
+
+**1 · THE HEAD IS EIGHT HUNDRED AND FIFTY-TWO AND IT HAS NOT MOVED SINCE THE THIRTIETH OF MARCH OF THE FIFTH YEAR. 2 · THE RAIL COUNTS DAYS SINCE THE CURRENT SHEET WENT UP, AND SINCE THE THIRTIETH OF SEPTEMBER THE ANCHOR IS `4,199`. 3 · THE CARD CARRIES THE STREET, THE DOOR AND THE HOURS, FIVE DAYS IN SEVEN, AND NOT ONE NAME, AND THE HOURS ARE A QUARTER TO TEN TO HALF PAST FIVE, AND THE CARD IS NOT RE-NAILED AND NOT RE-WORN. 4 · A COUNT OF PIECES OF PAPER IS NEVER A COUNT OF CLAIMS AND NEVER A COUNT OF PEOPLE. 5 · THE SECOND COLUMN HAS FOUR LINES AND NO FIFTH GOES IN ANY CHAPTER OF THIS VOLUME. 6 · THE SIX LINES IN THE OFFICE'S HAND STAND AND A SEVENTH GOES IN NOWHERE IN 901–950. 7 · THE DRAWER IS SHUT UNDER AN INSTRUCTION WITH A MAN'S NAME UNDER IT AND IS NEVER OPENED. 8 · THE BUNDLE IS TWENTY-SIX THINGS AND NOTHING IS TAKEN OFF THAT TABLE AND NOTHING PUT ON IT, AND THE BLANK SHEET IS STILL THE TWENTY-SIXTH. 9 · THE REGISTER IS NEVER UPSTAIRS OVERNIGHT, AND NO CHAPTER OF 931–940 HAD IT UPSTAIRS BEFORE THE CARRIERS BROUGHT IT. 10 · THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND NOTHING WENT INTO IT IN TEN CHAPTERS.**
+
 # VOLUME 19 BATCH 0003 REVIEW-FIXED — **NOTHING MOVED OUT OF ITS PLACE BY THE REPAIR. THE SPINE IS STILL 4,089 TO 4,151, THE SEAM IS STILL 4,089 − 4,082 = 7 IN ITS OWN COLUMN, THE INTERIOR NINE ARE STILL `7 7 7 6 7 7 7 7 7 = 62`, THE HEAD IS PRINTED ONCE AND STILL AT 924, THE RAIL STILL BREAKS ONCE AND STILL AT 924, THE DRAWER IS STILL SHUT, THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY, NOTHING ENTERED THE OFFICE HAND, THE BOY IS NOT ON THE PAGE, AND 930 STILL CLOSES THE INSTRUMENT. NINETEEN LINES CHANGED ACROSS EIGHT CHAPTERS AND NOT ONE FIGURE. NO MUST-NOT BROKEN. NO NEW ENEMY. `outline/ending.md` UNTOUCHED.** THIS BLOCK IS LIVE, IT SUPERSEDES THE MEASUREMENT ROWS OF EVERY BLOCK BELOW IT, AND IT DELETES NONE OF IT.
 
 **THE FULL RECORD IS `reviews/volume-19/batch-0003-review-fix.md`.**
