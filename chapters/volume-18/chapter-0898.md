@@ -68,7 +68,7 @@ He stood a while in that back room off a street two streets wide, with the smell
 
 "I will put it on the door. Two yeses carry it. Your no keeps it honest. That is the whole of the arithmetic, and there is no other figure in it."
 
-She looked at him then with something like kindness, which she shows rarely and never names, and he felt the want to be thanked rise in him and fall again, because thanking has no place between two people who have both refused to make a second place.
+She looked at him then with something like kindness, which she shows rarely and never names, and he felt the want to have got something off her rise in him and fall again, because there was nothing to get, and because a woman who has just refused him on the right grounds is not owed a warmer face for having done it.
 
 "Go back up your four flights," said Perla Quist. "And when strangers come with the card in their hands, send none of them to me. I am not on it. I am not behind it. I am a woman with nine sheets under a table, and that is all I am going to be."
 

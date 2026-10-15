@@ -62,23 +62,25 @@ That evening the carriers went down at half past five with that book between the
 
 The stair turns twice at the half landing with no window in it, and the strap groaned at the second turn the way leather groans when it is at its limit, and the woman under the bottom edge took the weight on her forearms without putting a hand out, and the other kept the strap from slipping with her shoulder.
 
-He stood against the wall of that landing to let them past, with his back to the cold brick, and felt the draught from below come up round his ankles, and thought about how many mornings that stair has carried nine years of other people's words without ever being thanked for it.
+He stood against the wall of that landing to let them past, with his back to the cold brick, and felt the draught from below come up round his ankles, and thought about how many mornings that stair has carried nine years of other people's words without a wage on it, and about how a stair is only ever noticed by the people standing on it.
 
 At the bottom they got that book into the flat file four floors down and about four hundred yards off, and shut the drawer, and wiped their hands on their coats, and neither of them said anything about the extra month, because the extra month was never theirs.
 
 "You have taken a month off your own book," she said, at the door. "That is a finding against yourself, and you took it without being asked, and that is the only reason I came up four flights to hear it."
 
-After she had gone Wenna Raut opened that book to the day's first asking, and Lin Hao took the pencil from behind his ear and corrected nothing on any page, because there was nothing on any page to correct, and the correction stood in the air of that room where corrections stand when they are about a man and not about a row.
+## The Book Comes Up In The Morning
 
-## The Flat File In The Morning
+It was in that flat file all night, and it came out of it at a quarter to ten in the grey before the light, with the strap going round it twice because the strap is the wrong length and was drawn out of a drawer of about nine in the third month, and there is not one line anywhere saying which book goes in which strap.
 
-He went down with the carriers the next morning at half past five, not to carry but to watch, because she had asked him what it costs to move that book and he wanted the answer in his legs and not only in his head.
-
-Four floors down and about four hundred yards, in the grey before the light, with the strap going round that book twice because it is the wrong length and was drawn out of a drawer of about nine straps in the third month, and there is not one line anywhere saying which book goes in which strap.
-
-Two people did it in about nine minutes, one under the bottom edge with both forearms and one at the strap, and the stair turned twice at the half landing between the second and third floors, which has no window in it, and the weight rode the turn the way a boat rides a bend, slow and heavy.
+Two women took it up. One under the bottom edge with both forearms and one at the strap, and the stair turned twice at the half landing between the second and third floors, which has no window in it, and the weight rode the turn the way a boat rides a bend, slow and heavy.
 
 He walked behind them with his hands empty and felt useless, and then felt grateful for the uselessness, because it told him what his evenings are: fourteen minutes alone where two people take nine together, and fingers that do not open at the bottom, and a yard with nobody in it.
+
+## Nothing On Any Page To Correct
+
+At that table with the book open and the day's first asking on it, Wenna Raut put the pen down and pushed it a finger's width towards him without a word about it, which is the way she hands over a morning that is going to be ordinary.
+
+Lin Hao took the pencil from behind his ear and corrected nothing on any page, because there was nothing on any page to correct, and the correction stood in the air of that room where corrections stand when they are about a man and not about a row.
 
 ## What He Wants
 

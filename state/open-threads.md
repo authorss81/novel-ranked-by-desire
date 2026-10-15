@@ -1,3 +1,27 @@
+# VOLUME 18 BATCH 0005 REVIEW-FIX — **MOVEMENT FIVE, *THE SPACE*, IS STILL CLOSED AND THE VOLUME IS STILL CLOSED. ONE THREAD CLOSED BY INK (NINE YEARS OF AN OFFICE THAT COULD NOT BE SENT TO, BY 900), THREE ADVANCED (THE TWO ROWS, THE SPACE, THE STONE SENTENCE), ONE CARRIED AS DEBT (THE BOOK ON THE TABLE, STILL GOING UP TWO AND COMING DOWN ONE), NONE OF THE TWENTY-TWO MUST-NOTS BROKEN. WHAT THE REVIEW PASS CHANGED: THE VOLUME-CLOSE PHASE NOW EXISTS, AND ONE THREAD THAT WAS CLOSED BY A GATE IS NOW CARRIED AS AN OPEN DEBT BECAUSE THE GATE COULD NOT SEE IT.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE NEXT PHASE, WHICH WAS MISSING AND NOW IS NOT
+
+**`workspace/volume-18/volume-close/PROMPT.md` EXISTS.** 891–900 complete Volume 18 — `outline/volume-18.md` §5b fixes the forty-fourth sheet at 900 and the twenty-eight/27 counts at 900, and there is no Chapter 901 — and `AGENTS.md` and `PHASE_SYSTEM.md` both require exactly one volume-close prompt when a batch completes a volume. **THE PREVIOUS BLOCK'S `THIS BATCH CREATES NO NEXT PHASE` IS WITHDRAWN AS A PROCESS CLAIM.**
+
+**THE CLOSE WRITES NO CHAPTERS, DECLARES NOTHING FINISHED, AND CREATES NO FURTHER PHASE.** It audits 851–900, records the result, and says whether a Volume 19 is wanted as a recommendation only. **It may not create `state/complete.md`, may not touch `outline/ending.md`, and may not reconcile the manuscript's length against the planned final chapter in `NOVEL_SPEC.md`, `outline/series.md` or `outline/ending.md` — that is a series decision and not a volume close.**
+
+## ONE THREAD CARRIED FORWARD THAT THE GATE HAD CALLED CLOSED
+
+**THE PRACTICE IS NOT CLEAN AND NOW NOBODY MAY SAY IT IS.** On the twenty-fifth of August that office read a row to Mrs Agger three times when the practice of the tenth of June forbade it, seven days after the practice of the eighteenth of August was made to forbid it harder. **A GATE THAT CHECKS *WHICH PRACTICES EXIST* CANNOT SEE THAT ONE OF THEM WAS BROKEN FIRST, AND 896 NOW SAYS SO IN HIS OWN MOUTH.** Carried as an open debt: **the cost of a practice to the man who makes it late.** See `state/continuity.md` for the full statement. It may not be resolved, apologised for, or tidied.
+
+**AND THE THREAD THAT ADVANCED AT 900 AND IS NEW: BEING FOUND IS SOMETHING OTHER PEOPLE DO FOR YOU.** The volume's promise was that about forty people will no longer have to be told where the office is. **At four o'clock on the last working day of the year a man at a counter told a stranger where the door is, out loud, in a passage, in about four seconds, with about nine people standing in it, and no card on a door could stop it and Lin Hao knew that when he wrote the card.** Carried forward as a live consequence, not a closed question: **the address is on the door and the telling was never going to stop.**
+
+## WHAT 891–900 STILL DOES TO THE THREADS
+
+**CLOSED BY INK:** nine years of an office that could not be sent to. It closed on a card with three lines on it and not one name, nailed with three nails, on the thirtieth of December.
+
+**ADVANCED:** the two rows the same shape nine days apart, which cannot be told apart because a day is not a person. The space in the middle of a row about eight hundred days old, which no one in that room can account for and whose author does not know it exists. The stone sentence, whose seventh hand arrived in November, small and hurried and near the right-hand end, about nine words, stopping in the middle with the cutting clean behind it.
+
+**CARRIED AS DEBT:** the book on the table. It goes up two and comes down one and it is the answer while the answer is being looked for, and it is not the answer.
+
+**NOT OPENED, NOT CLOSED, NOT ASKED ABOUT:** the woman who cannot read. The woman who cannot hear a row read out. The woman with the short-handled broom. The two strangers who came up four flights and went down again, about whom nobody is going to find out whether this office put them off, and the four years are not up. **Brack's four-year sentence is undischarged and unargued and he has been told he is out by four.** The wrong hour is still above the right one. The two words in the stone are not printed and nothing is asserted about them. **Nothing is closed by a volume ending.**
+
 # VOLUME 18 BATCH 0005 ON DISK AND REPAIRED — **THE VOLUME-WIDE GATE AFTER CHAPTERS 891–900, REBUILT FROM THE CHAPTERS AFTER THE REPAIR PASS AGAINST THEM. MOVEMENT FIVE, *THE SPACE*, IS CLOSED. THE VOLUME IS CLOSED. ONE THREAD CLOSED BY INK (NINE YEARS OF AN OFFICE THAT COULD NOT BE SENT TO, BY 900), THREE ADVANCED (THE TWO ROWS, THE SPACE, THE STONE SENTENCE), ONE CARRIED AS DEBT (THE BOOK ON THE TABLE, STILL GOING UP TWO AND COMING DOWN ONE), AND NONE OF THE TWENTY-TWO MUST-NOTS BROKEN. THE HEAD IS PRINTED AT 900 ONLY. THE RAIL BREAKS ONCE, AT 900. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## WHAT 891–900 DID TO THE THREADS

@@ -54,7 +54,7 @@ Lin Hao stood at that rail with his hands empty and felt the truth of it go thro
 
 "Go and put it on the door. And when they come to my rail with the card in their hands instead of a question in their mouths, I will read them the foot of that page and tell them the hours, and that will be the whole of what I am for."
 
-He went back up that hill with the card in his breast pocket and the last chapter before the quarter-end behind him, written by a man who was not thanked and who was told in about four sentences what it will do to a lane, and at the top he stood in the dark of his own hall with his hands hanging and did the arithmetic of hands and flights and yards one more time without wanting to.
+He went back up that hill with the card in his breast pocket and the last week before the quarter-end behind him, a week in which he had told a man at a rail four true sentences about what it would do to a lane, and at the top he stood in the dark of his own hall with his hands hanging and did the arithmetic of hands and flights and yards one more time without wanting to.
 
 ## The Card In His Rooms
 

@@ -1,3 +1,28 @@
+# VOLUME 18 BATCH 0005 REVIEW-FIX — **THE SPINE BLOCK FOR 891–900 AFTER THE REVIEW PASS. NOTHING IN IT MOVED: 3,871 TO 3,929, SEAM 7, INTERIOR 58, RAIL 32 TO 90, THE HEAD PRINTED ONCE AT 900, NOTHING IN THE OFFICE HAND, THE INSIDE OF THAT COAT ON THE LEFT STILL EMPTY. WHAT THE REVIEW CHANGED IS FOUR DATES, ONE PHYSICAL FACT AND ONE TRUTH ABOUT A MAN, AND THE LAST OF THE THREE IS NOW CANON AND MAY NOT BE TIED UP.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE FOUR DATES THE REVIEW PASS PUT ON THE SPINE, AND WHY EACH WAS WRONG
+
+**1 · 896's READING-ONCE PRACTICE WAS TIED TO *THE MIDDLE OF LAST YEAR*.** It is **the tenth of June**, when the page stopped being turned towards anybody — `chapter-0870.md`, spine `3,729`, movement two's last day. **The rule an answer about a person has answered it since the tenth of June, and no chapter of 891–900 may date it to a phrase.**
+**2 · 896's NO-EXCEPTION-FOR-THE-DEAD RULE WAS TIED TO *THE MIDDLE OF AUGUST*.** It is **the eighteenth of August**, `3,797`, said out loud with about nine people in the room as witnesses, with no exception for the dead and none for the sister and none for anybody.
+**3 · 900's OPERAND DAY WAS CALLED *THE TWENTY-FOURTH OF THE MONTH BEFORE THIS ONE*, IN BOTH ITS OPENING PARAGRAPH AND ITS CLOSING LINE.** It is **the twenty-fourth of this one**. `3,900` is the first of December, `3,923 − 3,900 = 23`, and the twenty-fourth of the month before this one is `3,916`, which is 899's day. **A DATE NAMED AS A RELATIVE PHRASE INSTEAD OF AS A DAY RESOLVES TO THE WRONG DAY, AND IT DID HERE.**
+**4 · 892's CORRECTION BEAT SAT IN A ROOM WHERE THE BOOK WAS NOT.** The book goes into the flat file four floors down and about four hundred yards off at half past five and comes out of it at a quarter to ten. **Any beat about the day's first asking is a morning beat and any beat about the drawer is an evening beat, and the chapter now runs in that order.**
+
+## AND THE FACT THAT WAS NOT A FACT: WHERE THE BOOK IS
+
+**THE BOUND REGISTER IS IN ONE PLACE AT A TIME AND THE CHAPTER NOW SAYS WHICH.** Evening, half past five: the carriers take it down four flights and about four hundred yards and shut the drawer. Morning, a quarter to ten: two women take it out of that drawer and up, one under the bottom edge with both forearms and one at the strap, and the strap is the wrong length and goes round it twice. Midday: it is open on that table. **880's practice — an answer about a person is given only with that person in the room — has a floor to it, and the floor is a table in that room from a quarter to ten until half past five.**
+
+## THE THING THAT IS NOW CANON AND MAY NOT BE UNDONE
+
+**ON THE TWENTY-FIFTH OF AUGUST THAT OFFICE READ A ROW TO MRS AGGER THREE TIMES, AND IT WAS NOT ALLOWED TO.** Her husband was alive and was at the bottom of the stair and would not come up it. The practice forbidding it had been standing **seven days**. Lin Hao gave the reading and he is the man who made the practice four months later, on the eighteenth of August, with about nine people in that room as witnesses — **and in December he told the same woman that the practice he made is what is stopping him answering her, and that he made it three months after he had done this to her and not one day before.**
+
+**WHAT THIS IS NOW:** the reason 896's refusal is a refusal and not an accident; the standing contradiction inside the office's best rule; and **the answer to a question no chapter of 851–900 had asked, which is what a practice costs the man who makes one late.** His own entry in that room, made while another man was carrying a book up four flights with nothing in the world able to settle which of four words was right, is the twenty-third of August of the ninth year, and it is still not in that book and still may not be.
+
+## WHAT DID NOT MOVE
+
+**THE HEAD STANDS AT EIGHT HUNDRED AND FIFTY-TWO.** **SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT.** The second column four lines. The bundle twenty-six things. The drawer shut since the twenty-first of October of the seventh year, now fifty months and nine days. **THE INSIDE OF THAT COAT ON THE LEFT HAS BEEN EMPTY SINCE THE THIRD OF DECEMBER OF YEAR TEN AND NOTHING WENT INTO IT IN 891–900.**
+
+**AND THE THING THAT MOVED AT 900 IS A THING YOU CAN WALK TO.** A piece of stiff grey card with the street, the door and the hours on it, nailed with three nails, and not one name. **IT EXISTS IN EXACTLY ONE PLACE AND IT IS A DOOR.** No copy of it is made, no index of it is kept, and Perla Quist's refusal at 898 stands precisely because a copy is a second place where the thing it is about can be found — **and 900 now shows the thing a card on a door does not stop, which is a man at a counter telling a stranger where the door is in about four seconds with nine people listening.**
+
 # VOLUME 18 BATCH 0005 ON DISK AND REPAIRED — **THE SPINE BLOCK FOR 891–900, REBUILT FROM THE CHAPTERS AFTER THE REPAIR PASS AGAINST THEM. 3,871 TO 3,929. SEAM 7 IN ITS OWN COLUMN, INTERIOR 58 (`7 6 6 6 6 7 7 7 6`), AND THE §5b FENCE ROW WAS LEFT EXACTLY WHERE IT WAS AND VERIFIED TERM BY TERM AGAINST §5c. RAIL OFF 3,839: 32 · 39 · 45 · 51 · 57 · 63 · 70 · 77 · 84 · 90, THE FORTY-THIRD COMING DOWN AT FOUR ON THE THIRTIETH OF DECEMBER AND THE FORTY-FOURTH GOING UP CARRYING NO NEW LINE IN THE OFFICE HAND. HEAD PRINTED ONCE, AT 900, IN A DOORWAY. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE SPINE AS THE PAGE FIXED IT

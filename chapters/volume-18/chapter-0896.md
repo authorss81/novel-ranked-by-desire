@@ -16,15 +16,25 @@ She said it again. The clerk entered the date and the hour at the head of a row,
 
 ## The Worst Thing
 
-He stood there with both sentences available to him and felt the whole of nine years narrow to the width of that table, because from the middle of last year every answer about a person is read out in that room once, with the person it is about in the room and the person who asked in the room, and if the person it is about will not come then there is no answer and the row stands as it is.
+He stood there with both sentences available to him and felt the whole of nine years narrow to the width of that table, because since the tenth of June an answer about a person is read out in that room once, in the voice that office reads everything in, with the person it is about in the room and the person who asked in the room, and if the person it is about will not come then there is no answer and the row stands as it is.
 
-Her husband will not come. Her husband is dead. And from the middle of August an answer about a person is given only with that person in the room, with no exception for the dead, and none for anybody.
+Her husband will not come. Her husband is dead. And since the eighteenth of August an answer about a person is given only with that person in the room, with no exception for the dead, and none for anybody.
 
 "I cannot give you what you ask," said Lin Hao. "Not because it is not true. I do not know whether it is true, and this office has never once been able to say what a paper is about, and it has never once been wrong about a paper, and neither half reaches a man."
 
 "Then say he was good. You have his row. You read it to me in the autumn."
 
-"We read you four lines about a boundary. The date and the hour are in your hand and the clerk witnessed only that. What those lines say about him is not a thing this office can put in its own hand for you to carry down."
+"Three times," said Lin Hao. "On the twenty-fifth of August, in a room with the door open, with four lines about a boundary, and the practice had been standing seven days at that point, and you were not to have been read to at all."
+
+"I did that," said Lin Hao, and did not go straight on with it. "It was me at the end of that table, and I have not found a way to put it right since, and you have come up tonight for a paper about a man and I am going to have to tell you no, and the reason I have to is the thing I did to you in August."
+
+She looked at him for a while.
+
+"You read it three times because he would not come up the stair."
+
+"He would not come up the stair," said Lin Hao. "And I read it to you three times because it was mine to give and not hers, which is the whole error, and I did not have the practice yet that says so."
+
+"I made that practice on the eighteenth of August with about nine people in that room as witnesses," said Lin Hao. "And it is that practice which is stopping me answering you tonight, and I made it three months after I had done this to you and not one day before."
 
 She looked at him, and he saw her understand, the way people understand in that room, that he was going to refuse her and that the refusal was correct.
 
