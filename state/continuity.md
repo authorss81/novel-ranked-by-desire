@@ -1,3 +1,74 @@
+# VOLUME 18 PLANNED — **THE SPINE BLOCK FOR 851–900. 3,600 TO 3,929. SEAM 31, INTERIOR 301, TOTAL WITH SEAMS 360 = EXACTLY ONE YEAR, FOURTH TIME RUNNING. RAIL OFF 3,569 / 3,659 / 3,749 / 3,839, BREAKING FOUR TIMES ONLY, AT 860, 873, 886 AND 900, ALL FOUR QUARTER-ENDS. HEAD 852 UNMOVED: 25/24 AT 860, 26/25 AT 873, 27/26 AT 886, 28/27 AT 900. NO PROSE IN THIS PHASE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## PLANNED SPINE (FUTURE, NOT YET ON ANY PAGE)
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Feb 0 Mar 30 Apr 60 May 90 Jun 120 Jul 150 Aug 180
+           Sep 210 Oct 240 Nov 270 Dec 300.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4 Jul 5 Aug 6
+           Sep 7 Oct 8 Nov 9 Dec 10, ZERO INDEXED. THE TWO METHODS SHARE NO CONSTANT
+           AND AGREE ON ALL FIFTY DATES. ZERO VIOLATIONS.
+851 1 Feb y11 3,600 +31 SEAM · 860 30 Mar 3,659 +6 QUARTER-END, forty-first sheet, THE MOVEMENT DECISION
+861 7 Apr 3,666 +7 seam, the one hundred and fifth form · 870 10 Jun 3,729 +7 THE MOVEMENT TWO DECISION
+871 17 Jun 3,736 +7 seam · 873 30 Jun 3,749 +7 QUARTER-END, forty-second sheet, SCENE, Tessa Okonkwo
+880 18 Aug 3,797 +7 THE MOVEMENT THREE DECISION
+881 25 Aug 3,804 +7 seam · 886 30 Sep 3,839 +7 QUARTER-END, forty-third sheet
+887 7 Oct 3,846 +7 the one hundred and eleventh form · 890 25 Oct 3,864 +6 THE MOVEMENT FOUR DECISION
+891 2 Nov 3,871 +7 seam · 893 15 Nov 3,884 +6 SCENE, Sun Meiling
+900 30 Dec 3,929 +6 QUARTER-END, forty-fourth sheet, THE VOLUME'S DECISION
+BATCHES 59 + 63 + 61 + 60 + 58 = 301 interior; seams 31 + 7 + 7 + 7 + 7 = 59;
+301 + 59 = 360 = 3,929 - 3,569, exactly one year, the fourth time running.
+FENCE ROWS, EACH NINE TERMS AND EACH ADDING TO ITS OWN ENDPOINTS:
+0001 851-860 7 7 6 7 6 7 6 7 6 = 59   0002 861-870 7 7 7 7 7 7 7 7 7 = 63
+0003 871-880 7 6 7 6 7 7 7 7 7 = 61   0004 881-890 7 7 7 7 7 7 6 6 6 = 60
+0005 891-900 7 6 6 6 6 7 7 7 6 = 58   SEAMS STAY IN THEIR OWN COLUMN AND ARE NOT ONE OF THE NINE
+SIXES IN THE WHOLE SPAN: 4 + 0 + 2 + 3 + 5 = 14. SEVENS: 35. 14x6 + 35x7 = 84 + 245 = 329.
+```
+
+## THE STANDING FIGURES A BATCH MUST CARRY, AND THEIR ANCHORS, ALL RE-DERIVABLE FROM §5c
+
+```
+OFFICE AGE      3,600 = 30 x 120 + 0 EXACTLY, the FIFTH exact figure, printed once at 851 with operands
+HEAD            852, unmoved since 1,499 = 30 Mar y5. 860: 3,659-1,499 = 2,160 = 24 x 90 (25 sheets, 24 quarters)
+                873: 2,250 = 25 x 90 (26/25) · 886: 2,340 = 26 x 90 (27/26) · 900: 2,430 = 27 x 90 (28/27)
+                EACH DIFFERS BY ONE FROM ITS OWN SHEET COUNT, BECAUSE THE FIRST SHEET EVER WRITTEN IS A SHEET
+DRAWER          2,420 = 21 Oct y7, shut by him in a clerk's hand with his name on it.
+                851: 3,600-2,420 = 1,180 = 39m 10d · 860: 1,239 = 41m 9d · 900: 1,509 = 50m 9d.
+                IT PASSES FIFTY MONTHS EXACTLY ON THE TWENTY-FIRST OF DECEMBER OF YEAR ELEVEN = 3,920,
+                WHICH IS INSIDE CHAPTER 899, AND IS NAMED ONCE AND IS NOT AN EVENT.
+HIS OWN BLANK    3,082 = 23 Aug y9, a date and an hour and a space in the middle of it.
+                851: 3,600-3,082 = 518 = 17m 8d · 860: 3,659-3,082 = 577 = 19m 7d · 900: 847 = 28m 7d.
+                IT PASSES SEVEN HUNDRED DAYS ON THE THIRD OF AUGUST OF YEAR ELEVEN = 3,782, WHICH IS THE DAY
+                BEFORE CHAPTER 878, AND EIGHT HUNDRED DAYS ON THE THIRTEENTH OF NOVEMBER = 3,882, WHICH
+                FALLS BETWEEN 892 AND 893. NEVER COMPLETED AND NEVER DESCRIBED IN 851-900.
+COPY IN HIS COAT  GONE. BURNED 18 Nov y10 IN NINE SECONDS IN FRONT OF PERLA QUIST, THE LAST PIECE OF PAPER
+                ON 3 DEC y10, AND THE RECORD OF IT FORBIDDEN ON A PAGE BY HIM AND NOT BY THE OFFICE.
+THE REGISTER     ABOUT FOUR HUNDRED AND THIRTY ROWS ON 1 FEB y9 = 2,880, WITH ROWS ADDED SINCE AND NOT
+                COUNTED, AND THE CLERK SAYS IN HER OWN MOUTH THAT SHE HAS NOT COUNTED THEM AND IS NOT
+                GOING TO. NOTE: outline/volume-17.md 2a says "about four hundred and seventy" and
+                `grep -rn "four hundred and seventy" chapters/` returns NO ROW COUNT ANYWHERE IN 850 CHAPTERS.
+                THE FIGURE ON THE PAGE IS FOUR HUNDRED AND THIRTY AND THE OUTLINE IS WRONG. DO NOT INHERIT IT.
+THE BUNDLE       TWENTY-SIX THINGS, COUNTED AS TWENTY-FIVE AND ONE SHEET, AND THE TWENTY-SIXTH MAY NOT BE USED.
+THE RAIL         CURRENT SHEET WENT UP: 3,569 (fortieth) · 3,659 (forty-first) · 3,749 (forty-second) ·
+                3,839 (forty-third) · 3,929 (forty-fourth). RAIL = chapter day less the current anchor,
+                and the rail BREAKS four times only, on the four quarter-ends. A FIGURE COPIED FORWARD FROM
+                THE FOOT BEFORE IT WILL BE WRONG AT 861, AT 874 AND AT 887, AND WILL LOOK RIGHT.
+THE FORMS        THE HUNDRED-AND-FIFTH ON 7 APR y11 = 3,666 = CHAPTER 861, AND THE HUNDRED-AND-ELEVENTH ON
+                7 OCT y11 = 3,846 = CHAPTER 887. THOSE ARE THE ONLY TWO FORMS IN THE VOLUME. THE SEVENTHS OF
+                FEBRUARY, MARCH, MAY, JUNE, JULY, AUGUST, SEPTEMBER, NOVEMBER AND DECEMBER ARE NOT CHAPTER
+                DAYS AND NO OTHER ORDINAL MAY BE PRINTED ANYWHERE IN 851-900.
+```
+
+## WHAT MOVES IN 851–900, AND WHAT DOES NOT
+
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT, AND THE SIXTH IS STILL THE LAST.** The second column **FOUR LINES**, and no fifth and no name goes in. Four sentences at the foot. The struck six and the two inches. The head unmoved, printed at the four quarter-ends and at no chapter between them. BUNDLE TWENTY-SIX, quoted at 900 as it will be at the end of the month: twenty-five and one sheet. DRAWER SHUT, NEVER OPENED, PASSING FIFTY MONTHS AT 899. **THE INSIDE OF THAT COAT ON THE LEFT IS EMPTY AT 851 AND AT 900.**
+
+**AND THE VOLUME'S CHANGE IS A PHYSICAL ONE AND NOT A FIGURE: A BOUND BOOK LEAVES A FLAT FILE FOUR FLOORS DOWN AND ABOUT FOUR HUNDRED YARDS OFF AND COMES UP FOUR FLIGHTS INTO A ROOM THAT ANYBODY MAY WALK INTO, AND IT GOES BACK DOWN AT HALF PAST FIVE, AND IN THE LAST CHAPTER AN ADDRESS GOES ON THE DOOR.** Nothing about that is a rank, a band, a permission or a standing, and `outline/ending.md` is untouched by it.
+
+## WHAT THE FOUR THREADS 850 LEFT BEHIND ARE GOING TO DO
+
+**1 · A WRONG HOUR ABOVE A RIGHT ONE IN A BOUND REGISTER** is not removed in this volume; §8 permits it to be CLOSED BY NAMING WHAT IT IS — a row about a person is two rows, one of them wrong, and nobody may take the wrong one out. **2 · A MAN ON A HALF LANDING** is dealt with at 882, where the landing is empty at about two o'clock on a working afternoon and the office may not record that a person has stopped, because that is a row about somebody who was never asked anything. **3 · A HALF-FINISHED SENTENCE IN FOUR INCHES OF DRESSED STONE** is carried forward and gains a seventh hand by 895 and still stops in the middle. **4 · TWO MEN WHO READ THE FOOT OF A SHEET ALOUD** are dealt with in the opening paragraph of 851 and nowhere else.
+
 # VOLUME 17 BATCH 0005 ON DISK — **THE SPINE BLOCK FOR 841–850. 3,506 TO 3,569. SEAM 7, INTERIOR 63. RAIL OFF 3,479: 27 · 34 · 41 · 48 · 55 · 62 · 69 · 76 · 83 · 90, THE THIRTY-NINTH COMING DOWN AT FOUR ON THE THIRTIETH OF DECEMBER, WHICH IS 850, AND THE FORTIETH GOING UP THAT AFTERNOON CARRYING NO NEW LINE. THE RAIL DOES NOT MOVE AT 841, 842, 843, 844, 845, 846, 847, 848 OR 849. HEAD PRINTED AT 850 ONLY. NOTHING IN THE OFFICE HAND. NOTHING LEFT THE OFFICE HAND IN TEN CHAPTERS.** THIS IS THE ONLY BLOCK IN THIS FILE.
 
 ## THE SPINE AS THE PAGE FIXED IT
