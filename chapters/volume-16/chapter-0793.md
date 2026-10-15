@@ -18,7 +18,7 @@ The front room had a table with two chairs, a stove with a kettle on it, a shutt
 
 Petra took the loaf and put it on the table and cut two thick slices with a short knife and put butter on both, and they ate standing up by the stove because the chairs were cold enough to see.
 
-He loved her in the way he loved all nine, which is to say separately and without any one of them being like any other. What he wanted that evening was to ask her about a thing that had been standing for eleven years with nothing written behind it. That was the whole of what he wanted, and he had waited three hundred and eighty-seven chapters of his own life to ask it, though he would never have put it that way to her.
+He loved her in the way he loved all nine, which is to say separately and without any one of them being like any other. He had waited three hundred and eighty-seven chapters of his own life to ask her about a thing that had been standing for eleven years with nothing written behind it, though he would never have put it that way to her.
 
 ## What Binds Without A Paper
 
@@ -88,7 +88,7 @@ He felt his breath shorten, not from his chest but from wanting her, which was a
 
 ## The Back Room With The Lamp Low
 
-It went quickly and neither of them treated it as a thing that had been negotiated.
+It went quickly, and neither of them treated it as a thing that had been settled first.
 
 She had his coat off and his shirt open in about eleven seconds, with her fingers sure at the buttons, and then she had the shirt off over his head and his vest with it, and she ran her hands down his ribs and over his chest where the old spent place lay under bone and did not pity it and did not avoid it.
 

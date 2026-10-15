@@ -1,4 +1,4 @@
-# She Is Not On The Roll
+# Nine Names And A Pencil
 
 Three thousand one hundred and sixty was the eleventh of November and the eighteenth is day three thousand one hundred and sixty-seven, and three thousand one hundred and sixty-seven less three thousand one hundred and sixty is seven, and eighteen less eleven is seven by the month count.
 
@@ -12,7 +12,9 @@ Isolde Marchetti brought it to the branch office at about eight in the evening o
 
 “I have,” said Lin Hao.
 
-He wanted to know where Perla Quist stood in relation to it. That was the whole of what he wanted that evening, and he hated wanting it, because wanting it made a woman who had said no six times into a question about standing, and she had never once asked to be a question.
+What he wanted was the name off it. He had sworn her himself, years back, on a night with rain on it, and the name was the price of that, and he had never once in all the years since thought about what it would cost her to be found by any hand that ever went looking for her.
+
+He knew before half past eight that it was not coming off, because he had put it there and because she would not have asked him.
 
 Isolde unwrapped the linen and lifted the lid and turned the roll toward the lamp so he could see the nine names.
 
@@ -22,55 +24,53 @@ He read them, all nine, in order, with Petra Ilyin third among those who never l
 
 “She is on it,” said Lin Hao.
 
-“She is,” said Isolde. “And she is in the second column of your standing sheet as well, under two printed words, with a date and a sentence and a man name under it. She has both. Ask her which she would rather keep.”
+“She is on it in ink,” said Isolde. “And there is another kind of list in this city where a name goes in and cannot come out, and hers is not on that one. So she has the kind that can be lifted. Ask her what she wants done with it.”
 
-## What A Name In A Column Does
+## What A Name In Ink Does
 
 Petra came in at about nine with rain on her shawl and cold hands and the smell of the bakery stair still on her coat from the week before.
 
 Isolde did not leave. That was agreed without anyone saying it, because what was going to be said belonged to all three of them and not to any two.
 
-Lin Hao told her plainly what the fourth line holds, with the date of the third of December of the eighth year and the sentence about carrying sheets of pencil paper up four flights, and that the heading over it belongs to a works department two streets away and takes the name of whoever carries a sheet from one counter to another.
+Lin Hao told her the other kind, and told it plainly, because she would not take it from him in small pieces.
+
+A name in a column is entered in a clerk's hand by a clerk who may only enter what she is given, on a sheet that goes out four times a year to about two thousand counters. It may not be taken from afterwards. A man who is paid nothing reads it out loud to whoever is standing there and cannot be asked to read less of it.
+
+Hers is not in one. She is in neither of the two books in that room off a third court.
 
 Petra listened without moving, the way she listens when a thing is about her and she has decided beforehand not to stop it halfway.
 
-“So I am in a routing line,” she said at last. “Under a heading that was never meant for a person. With my name where a carrier name ought to be.”
+“So I am on the one kind that can be left,” she said at last.
 
 “Yes,” said Lin Hao.
 
-“And I am on the household roll,” said Petra. “Third among those who come in on the rota.”
-
-“Yes,” said Isolde.
-
 Petra warmed her hands at the stove for about a minute before she answered, and neither of them hurried her, because hurrying her had never once got anything out of her except silence.
 
-“A name on a roll is a thing people can ask about,” said Petra. “A name in a column is a thing people can ask about. I have both, and I would rather have neither.”
+“I have been inside a promise for eleven years,” she said, “with no paper behind it anywhere in Ostara. I cannot produce it. I cannot lift it. I cannot show it to a person who would believe me, and I have never once been able to point at the thing that is holding me.”
+
+She turned her hands over and looked at them as if they belonged to somebody else.
+
+“Give me the kind of name that people have to stop and ask about before they use it, and I will take the whole of it gladly and will not be thanked for it.”
 
 She said it once, levelly, looking at the stove and not at either of them.
 
-Lin Hao felt grief come up in him, sudden and sharp enough that he had to put a hand on the edge of the table to ride it out. He had put her in the column by entering what he was given in good faith eleven months back, and he had kept her on the roll by swearing her years before that, and both had been done with care and both had left her more exposed than before.
+Lin Hao felt grief come up in him, sudden and sharp enough that he had to put a hand on the edge of the table to ride it out. He had kept her on the roll by swearing her, and the roll was the one thing in Ostara he owned outright and had never once been asked about by any hand that could cite it, and it had left her more exposed than the one he had no standing over at all.
 
 “Do not say it twice,” said Isolde, gently. “Once is enough for him to hear it.”
 
 “I will not,” said Petra.
 
-## The Difference Between Them
+## What A Roll Is
 
 Wenna Raut had told him the difference that morning, in the office, with the book shut between them so that neither of them would be tempted to open it.
 
 “A roll is kept by people who love you,” she had said. “A column is kept by an office that does not know you. The first can be left. The second cannot be taken from. That is the whole difference, and it is larger than it looks.”
 
-He said it now to both women, in her words, because they were better than any he had.
-
-Isolde nodded. “She can leave the roll any morning she chooses, and we would still feed her and still keep her room and still put her on the rota page in pencil instead of ink. Leaving would cost her nothing except a line.”
-
-“And the column,” said Petra.
-
-“The column cannot be left,” said Lin Hao. “It was entered on the third of December by a clerk who may only enter what she is given, and it may not be taken from, and any man at any rail in Ostara will read it out for ever in the order it stands.”
+Isolde nodded at it. “She can leave the roll any morning she chooses, and we would still feed her and still keep her room and still put her on the rota page in pencil instead of ink. Leaving would cost her nothing except a line, and she would be the one to decide whether that line was worth it.”
 
 Petra pulled her shawl closer round her shoulders. Rain drummed on the shuttered window of the branch office and the lamp burned low and steady over the lacquered box.
 
-“Then I will keep both and like neither,” she said. “I will come in on the rota and I will carry sheets no more, and when anyone asks me where I have been I will tell them I have been carrying bread up a stair, which is true often enough to serve.”
+“Then I will keep it and be asked about it,” she said. “I will come in on the rota and I will carry sheets no more, and when I am asked where I have been I will tell them I have been carrying bread up a stair, which is true often enough to serve.”
 
 ## What He Did With The Box
 
@@ -80,15 +80,15 @@ He closed the lacquered box himself and wrapped it in undyed linen and tied the 
 
 Isolde took the box under her arm. At the door she stopped and looked back at him with an expression he had never seen on her before, fond and exasperated together.
 
-“You hoard the things that expose people,” she said. “You hoarded paper. You hoarded a route. You hoarded the one fact that this office might not be asked anything. Now you are hoarding her.”
+“You hoard the things that expose people,” she said. “You hoarded paper. You hoarded a route. You hoarded the one fact that this office might not be asked anything. Now you are hoarding a woman who has asked you for a pencil.”
 
-“I am not hoarding her,” said Lin Hao. “I am leaving her where she is, on a roll and in a column, and I am not using either one.”
+“I am not hoarding her,” said Lin Hao. “I am letting her decide what her own name is worth, which is the only thing I have ever had the standing to do.”
 
 Petra came to him after Isolde went down the stair with the box, and stood close enough that he could smell rain and yeast and cold wool, and put her forehead briefly against his.
 
-“You asked me last week what binds without a paper,” she murmured. “A roll binds without very much more. Ink on wood. Names in order. Love, mostly. It holds looser than a promise and it still holds.”
+“A roll binds without very much more than a promise does,” she murmured. “Ink on wood. Names in order. Love, mostly. It holds looser than what is holding me and it still holds, and you have just told me it can be put down, and that is more than I have been offered in eleven years.”
 
-She went after Isolde down the stair, leaving him alone in the branch office with the lamp and the rain and the knowledge that two lists held the same woman for opposite reasons and neither list would let her go entirely.
+She went after Isolde down the stair, leaving him alone in the branch office with the lamp and the rain and the knowledge that the one list in Ostara he could put his hand on was also the only one he had any business leaving alone.
 
 ## A Name In Pencil Instead Of Ink
 
@@ -98,23 +98,23 @@ Isolde came back up after about eleven minutes with rain on her shawl and the bo
 
 Petra stood in the doorway with water dripping from her shawl onto boards worn smooth by nine years of feet.
 
-“Put my roll name in pencil instead of ink,” she said. “Not out. Not struck. In pencil, so that anyone opening the box sees it can be lifted without a knife. A name in ink is a thing people can point at. A name in pencil is a thing people have to ask about first.”
+“Put my roll name in pencil instead of ink,” she said. “Not out. Not struck. In pencil, so that whoever opens that box sees at once that it can be lifted without a knife. A name in ink is a thing people can point at. A name in pencil is a thing people have to ask about first.”
 
-Lin Hao felt his chest tighten in the spent place, because she was asking for the one small looseness a roll allows and he could give it without touching any book.
+Lin Hao felt his chest tighten in the spent place, because she was asking for the one small looseness a roll allows and he could give it without touching any book, and because she was asking him for it in his own house, in front of the woman who keeps it.
 
 He unwrapped the linen and lifted the lid and found her name third among those who come in on the rota, and he took a pencil from his pocket and went over each letter in his own hand, light and exact, until ink showed only at the edges.
 
-“There,” he said. “Nine names still. Yours in pencil. Anyone can see it is yours and anyone can see it can be lifted.”
+“There,” he said. “Nine names still. Yours in pencil. You can see that it is hers and you can see that it can be lifted.”
 
 Petra looked at it for a long minute with her hands shut together to keep them from shaking, and then she nodded once.
 
-“I will still come in on the rota,” she said. “I will still carry bread up a stair. The column holds me in ink and the roll holds me in pencil, and that is as loose as anything holding me has ever been.”
+“I will still come in on the rota,” she said. “I will still carry bread up a stair. And the next person who opens that box has to stop and ask, and that is the whole of what I have been able to get out of nine years of being yours.”
 
-Isolde wrapped the box again and tied the cord, and both women went down the stair together, leaving him with the pencil still in his hand and the knowledge that he had loosened one list by the width of a lead mark and the other would hold her in ink for ever.
+Isolde wrapped the box again and tied the cord, and both women went down the stair together, leaving him with the pencil still in his hand and the knowledge that he had loosened the only list in this city that was his to loosen, by the width of a lead mark, in about four minutes, on an evening when he was not asked a single question.
 
 He stood at the window until both women were out of sight along the third court, and then he banked the stove and took up his washroom keys, because the night shift would start in about eleven minutes and rank one gets assigned work and he had asked for that shift and never once been sorry for it until that evening, when being rank one did not help him spare anyone anything.
 
-*Three thousand one hundred and sixty-seven days. Less three thousand one hundred and sixty, the eleventh of November of this year, is seven, and a roll with nine names on it and a column with four lines were set side by side and a woman who has both said she would rather have neither and did not say it twice.*
+*Three thousand one hundred and sixty-seven days. Less three thousand one hundred and sixty, the eleventh of November of this year, is seven, and a roll with nine names on it stood open on a table and one name on it was gone over in pencil in his own hand, and the woman it belonged to said she would rather be asked about than pointed at.*
 
 *Less three thousand one hundred and nineteen, the thirtieth of September of this year, is forty-eight, and the thirty-fifth sheet has been face up on that rail for every one of the last forty-eight of them.*
 

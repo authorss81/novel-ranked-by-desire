@@ -6,13 +6,13 @@ Three thousand one hundred and sixty-seven was the eighteenth of November and th
 
 The month form had been face up on the board by the kerb at the foot of the hill since the seventh, with the rain getting under one corner and the paste going soft along the top edge.
 
-Lin Hao stood eleven feet from it at about five in the afternoon with a pencil in his pocket nine inches from his hand and about two hundred people going past between five and half past five along the kerb.
+Lin Hao stood eleven feet from it at about five in the afternoon with a pencil in his pocket nine inches from his hand and the kerb going past in the wet.
 
-Both ruled squares at the foot of it were empty, as they had been since the morning of the eighth of October of the first year, when a clerk was handed a sheet and a form and no instruction and put two words into a box because the box was there.
+Both ruled squares at the foot of it were empty, and they have stood empty since the morning of the eighth of October of the first year, when a clerk was handed a sheet, a form and no instruction and put two words into a box because the box was there.
 
 One square was for the figure of the thing at the address. One was for the standing of it. The words were printed small under each, worn nearly smooth by seven years of weather and fingers.
 
-He wanted to know what a person who cannot read would do with them. That was the whole of what he wanted, and it had been in him since September, when a woman at a bench told him there was not one place in Ostara for a sheet like hers to live except a person.
+What had been in him since September, since a woman at a bench told him there was nowhere in Ostara for a sheet like hers to live except a person, was the question of what a person who cannot read would do with two boxes on a public board that are hers to fill and that she cannot fill. He had carried it down that slope every day since and asked it of nobody.
 
 A boy came up the slope with a paste brush in his fist and a fresh corner of paste on his cuff, squared the board with the toe of his shoe the way he always does, and went back up without looking at either square. Lin Hao did not speak to him. He had nothing to ask him and not one person in Ostara is entitled to ask it.
 
@@ -36,7 +36,7 @@ Brack shifted the slate under his arm. Rain ran off the brim of his cap and onto
 
 “Is there any form anywhere for asking what a box is for,” said Lin Hao.
 
-“Not one that was ever filled in,” said Brack. “There is a form in a division building that asks a person what a box on a form is for, and it has stood empty since the first year, because a person who writes in a box is a person who has been asked, and asking costs the asker more than the writer.”
+“Not one that was ever filled in,” said Brack. “There is a form in a division building that asks a person what a box on a form is for, and in seven years not one person in this city has put anything in one, because a person who writes in a box is a person who has been asked, and asking costs the asker more than the writer.”
 
 Lin Hao felt something ease in his chest, not relief but the smaller thing that comes before it, when a fact fits into a place that has been empty for months.
 
@@ -46,7 +46,7 @@ Lin Hao felt something ease in his chest, not relief but the smaller thing that 
 
 ## What The Corner Teaches
 
-About nine people came down low enough in the hour Lin Hao stood there, old and young, wet to the knees, bending to read four inches of dressed stone under the striking where about forty words in about four hands had stood since early October about a building off a third court.
+About nine people in a week get down low enough to read those four inches, and it is a week and not an hour, so he could not have told her how many of that week were in the hour he was standing in. They are old and young and wet to the knees, and about forty words in about four hands have stood under the striking since early October about a building off a third court.
 
 Not one of them looked at the two ruled squares. Not one of them put a hand toward them. The squares belonged to a month form and the stone belonged to everyone, and everyone knew which one was theirs without being told.
 
@@ -94,7 +94,7 @@ Lin Hao walked on up the slope alone after Brack turned down toward Cordwain wit
 
 He told Wenna Raut about it at about nine the next morning, with the book shut between them and the cold coming under the door.
 
-“A mark under two empty boxes is not a claim,” he said. “Brack said it plainly. A claim has a date on it. A mark has a hand on it. If a sheet with a pencil line comes to that board, it stays where it was left and no hand here lifts it into any book.”
+“A mark under two empty boxes is not a claim,” he said. “Brack said it plainly and I am not going to improve it here. If a sheet with a pencil line comes to that board, it stays where it was left and no hand in this office lifts it into any book.”
 
 Wenna nodded once. She did not pick the pen up, because there was nothing to enter and both of them knew it.
 

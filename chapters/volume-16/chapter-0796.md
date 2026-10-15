@@ -8,7 +8,7 @@ He carried it eight days and did not show it to anyone, not to Wenna Raut and no
 
 It was the fifth instruction that office ever made and the sixth line in the office hand at the foot of the page. The July line and the August line and the October line were already on the thirty-fifth sheet. This one would go out at four o clock on the thirtieth of December with the thirty-sixth.
 
-What he wanted was to open the only office in Ostara that could not be asked anything. That was the whole of what he wanted, and it had been in him since March, when eleven pieces of paper came through a front door in eight days with about nine people behind them and nowhere to wait that was not also being looked at.
+What he wanted was to open the only office in Ostara that could not be asked anything, and it had been in him since March, when eleven pieces of paper came through a front door in eight days with about nine people behind them and nowhere to wait that was not also being looked at.
 
 He was afraid. He had been afraid at the thirtieth of March and at the tenth of June and at the sixteenth of August and at the twentieth of October, and each time he had done it anyway, and each time the fear had been right.
 

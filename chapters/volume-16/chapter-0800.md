@@ -1,86 +1,86 @@
 # Twenty Sheets And Nineteen Quarters
 
-Three thousand two hundred and two was the twenty-third of December and the thirtieth is day three thousand two hundred and nine, and three thousand two hundred and nine less three thousand two hundred and two is seven, and thirty less twenty-three is seven by the month count, and it is the last working day of that month and of the quarter.
-
-## About Half Past Two, And Squaring Twice
-
-The thirty-sixth sheet went onto the table under the window at about half past two and she squared it against the wood in about three seconds, and then she squared it again about four minutes later, which is what she does at every quarter-end since the thirtieth of March and which neither of them has mentioned for nine months.
-
-About four hundred and nineteen lines stand under the head of it, each with a date against it and an hour against the date and no figure and no name.
-
-Under those, the second column, with four lines in it under two printed words. Nothing has gone into it in any month of this year and nothing goes into it now.
-
-Under that, four sentences at the foot.
-
-Under those, six lines under those with the fourth struck from the first letter to the last and a man name set under the striking, and two inches of nothing below that.
-
-And under the four sentences and above the striking and in no column anywhere on that sheet, six lines in the office hand, with a man name under each, in the order they went in.
-
-The thirtieth of March. The tenth of June. Nine words a man said at that counter on the nineteenth of July, in his own words. The sixteenth of August. The twentieth of October, about a denial being read out at a rail every morning by whoever is standing there. The second of December, about any person putting one question.
-
-Four of the six are instructions and one is a sentence a person said out loud in a room and one is about a denial, and the July line is the one that is a line and is not an instruction, and the book separates them itself.
+Three thousand two hundred and two was the twenty-third of December and the thirtieth is day three thousand two hundred and nine, and three thousand two hundred and nine less three thousand two hundred and two is seven, and thirty less twenty-three is seven by the month count, and the quarter ends with the month.
 
 ## The Figure At The Head Of It
 
 Eight hundred and fifty-two.
 
-It has held that value since the thirtieth of March of the fifth year and has not shifted once since, and not one person in Ostara has the standing to shift it, and there never has been one.
+That figure has not moved since the thirtieth of March of the fifth year, and it has not shifted once in the nine years since, and nothing in Ostara has the standing to shift it, and at no point in those nine years has anything had it.
 
-This is the count of sheets. It is unmoved across twenty sheets, counting the twentieth onward as the twenty that have carried that number since it was put there, and this afternoon is the thirty-sixth.
+This is a count of sheets. It is unmoved across twenty sheets, and the sheet it was first written at the top of is one of them and every sheet since has carried it, and this afternoon's is the thirty-sixth.
 
-And it is unmoved across nineteen quarters, which is the count of quarters, and it is a different count and it is also right, because a quarter here is a quarter-end later than that thirtieth of March and one has fallen every ninety days since. Three thousand two hundred and nine less one thousand four hundred and ninety-nine is one thousand seven hundred and ten, and that is nineteen times ninety exactly.
+And it stands unmoved across nineteen quarters as well. Nineteen is the count of quarter-ends, and it is a different count from the sheets and no less a right one, because a quarter in this city runs from one quarter-end to the next and the first of them is that same thirtieth of March, and ninety days is what one of them has always been.
 
-The two figures disagree by one, and anyone at a rail is going to be handed both of them, so the page has to say which one it is doing. This is the sheet count and also the quarter count, and both are right and they differ by one.
+Nineteen of them exactly, and the arithmetic does not argue. Three thousand two hundred and nine days less one thousand four hundred and ninety-nine is one thousand seven hundred and ten days, and one thousand seven hundred and ten is nineteen times ninety.
 
-## At About Ten Minutes To Five
+The two figures disagree by one, because the sheet that first carried the number is counted among the sheets and is not counted among the quarters that have gone by since it. Anyone at that rail this afternoon is going to be handed both of them, so the page has to say which one it is doing.
 
-There is a place in that passage where you can see the rail, the desk and the window behind it and not be in the way of anyone at it, and he has stood in it five times in nine years, and he stood in it at about ten minutes to five this afternoon.
+It is both of them. The sheets are the older count, because a sheet is a thing that was written on and a quarter is a thing that happened.
 
-About eleven people were at the rail. Not four. About eleven, which is what stands there at this hour on the last working day of a quarter, and which has been what stands there four times a year since the eighth of October of the first year.
+## The Thirty-Sixth Sheet, Squared Once
 
-The man behind the desk began at the top of the foot of that sheet and worked down it, and he went over the striking without slowing, and he read the four lines of the column as though each of them were an address, because that is what is written under those two words.
+Wenna Raut squared it against the wood at about half past two and that was all she did with it.
 
-Then he came to the six new lines and he read all six of them, in the order they stand, and he gave the July one the same weight as the other five, because it is nine words on a page and a man behind a counter reads what is on the page.
+For nine years she has squared a quarterly sheet twice, the second time about four minutes after the first, and neither of them has ever said a word about it. Lin Hao had noticed it at every quarter-end since the thirtieth of March of the fifth year and had not said anything either, and this afternoon the second squaring did not come, and he stood at that table and let the four minutes go past with nothing in them.
 
-He read the denial where it stands, about nine feet above the July line, and then he read the October line that says it is to be spoken every morning, and then the December line that says anyone may ask, and his voice did not change for any of them, because he cannot be asked to read less of any of them.
+Under the head of it, about four hundred and nineteen lines, and every one of them carries a date on it and an hour against the date and nothing whatever after that, no figure and no name.
 
-About four of the eleven asked him what the December line meant, and he said that is what it says, and about nine kitchens will hear of it by the new year.
+## The Five Things At The Foot Of It
 
-## The Corner At About Half Past Five
+Here is what the man at that rail reads, in the order it stands, and it is five things and it was four the last time he read it.
 
-Lin Hao stood at the kerb at about half past five with the cold in his coat and about two hundred people going past in the hour along the kerb and about nine of them getting down low enough to read the four inches at the foot of the wall.
+Four sentences at the foot. Four lines in the second column under two printed words that say **carried by**. Six lines under the sentences, with the fourth one struck through from its first letter to its last and a man's name set under the striking. Then the lines in the office hand, which were four the last time that rail was read.
 
-The four inches had about forty words in about four hands about a building off a third court, and a piece of office paper under the two ruled squares of a month form with a pencil line across the bottom of it in a hand of her own.
+And two inches of nothing at the bottom of all of it, the widest margin on any page in this city and the only part of that sheet that says nothing whatever.
 
-The two ruled squares were empty. One is for the figure of the thing at the address and one is for the standing of it, and both have been empty since the morning of the eighth of October of the first year, and the paper under them is not a figure and not a standing and not an entry, and the office has no instrument that can receive it.
+The office hand has six lines in it now. Five are instructions and one is a sentence a man said out loud in a room, and four of the five instructions were already on the sheet that stood on that rail from the thirtieth of September.
 
-Two words have never been written down in the bound book and are not written down there, at the corner or at the rail or on the thirty-sixth sheet. They are on a rubbing in the inside of a boy coat and nowhere else in Ostara, and they stay there.
+The fifth was entered on the second of December. It says that any person may put one question about any paper. It has a man's name under it and a date at the head of it, and it is the last line this office will ever write at the foot of its own page.
 
-About nine people went down low in the hour he stood there. One traced the pencil line with her eyes and did not touch it. The rest read the stone and went up again.
+## About Eleven At The Rail
 
-## What One Of The Eleven Asked Twice
+He had been into that passage four times in nine years to watch a page be read and this afternoon was the fifth, and he stood against the wall at the foot of the stair where the whole of the rail can be seen without anybody at it being stood in front of.
 
-One of the eleven at the rail, a woman who had been there in September, asked the counterman to read the December line again after he finished, and he did, in the same voice, without pause.
+About eleven people were at it, which is what stands there at that hour on the last working day of a quarter and has stood there four times a year since the eighth of October of the first year.
+
+The man behind the desk read all five of them in the order they stand. He did not hurry any of them and there was no standing anywhere in this city by which he could have been asked to. Where the striking was he went over it at the same speed as the rest of it, which is the whole of what has never once been objected to in nine years.
+
+The one that had not been on that rail before was the last of the six lines and he read it twice without being asked twice, because four of the eleven wanted to know what any person meant in it, and he told them that is what it says, and one of them asked him again what a person was.
+
+He read the July line with the same weight as the instructions, because it is nine words in a man's own hand and a man behind a counter reads what is on the page.
+
+## Four Of The Eleven Wrote It Down
+
+One of them asked him to read the December line again once he had finished, and he read it again in the same voice at the same speed, and about four of the eleven wrote it out afterwards on pencil paper in their own hands and folded it into coats and baskets and carried it out into the rain.
 
 “Any person may put one question about any paper,” he read. “And the office shall answer in writing. And both go in the bound book.”
 
-About four of the eleven wrote it down on the rail in pencil on pencil paper, in their own hands, and took it away folded into coats and baskets. The counterman watched them without stopping them, because a copy made by ear is not a copy and nothing in Ostara will let anyone set nine kitchen copies against two thousand originals.
+The counterman watched them write and did not stop them, because a copy made by ear is not a copy, and there is nothing in Ostara that would let one person set nine copies made in a passage against two thousand originals.
 
-Lin Hao watched from the place where you can see the rail and the desk and the window behind it, and he thought about a woman who had put eleven words into a book two weeks back and gotten a permission for an answer, and how that permission would now be read to anyone who asked, in the order it stands, for ever.
+Lin Hao listened to it from the wall and thought about a woman who had put eleven words into a book a week before and been given a permission for an answer, and about how that permission was now read to whoever asked, in the order it stands, for as long as the page stands up.
+
+## The Corner At About Half Past Five
+
+He went down to the foot of the hill after the reading because that is where he goes, and the month's form was still face up on the board with the paste gone soft along the top edge and the lower batten still holding a piece of office paper flat against the wood.
+
+About nine people in a week get down low enough to read the four inches of dressed stone under the striking, and he had an hour and not a week, and four of them came down while he stood there. One traced the line under the batten with her eyes and did not touch it.
+
+The two ruled squares at the foot of that form were empty, and they had stood empty since the morning of the eighth of October of the first year. What was under them is not a figure and not a standing and not an entry in any book, and the office has no instrument that can receive it and is not asked to.
+
+Two words have never been written down in the bound book and are not written down there, at the corner or at the rail or on the thirty-sixth sheet. There is one rubbing of them, in the inside of a boy's coat, and it stays there.
 
 ## About Four Hundred Kitchens
 
-About four hundred kitchens are never going to be told what any of it was for. Not the head. Not the four hundred and nineteen lines. Not the four lines in the column. Not the four sentences. Not the six lines in the office hand. Not the two inches of nothing. Not the two ruled squares with a piece of office paper under them.
+About four hundred kitchens are never going to be told what any of it was for. Not the head. Not the four hundred and nineteen lines under it. Not the four sentences, not the four lines in the column, not the six struck lines and the name under them, not the six lines in the office hand, not the two inches of nothing.
 
 About nine of them came and asked in the last month and got an answer, one to each, in writing, with a date and an hour against each, in the words the person used. Eight went down the stair with less than they brought up it.
 
-One was told a sentence about a building off a third court that somebody else said about her in front of about nine people, and she answered it, and her answer went under it, and a man who is paid nothing reads both now with the rest.
+One was told a sentence about a building off a third court that somebody else had said about her in front of about nine people, and she answered it, and her answer went under it, and a man who is paid nothing reads both now along with the rest.
 
-The thirty-fifth sheet had been face up on that rail for ninety days and came down off it at four this afternoon, and the thirty-sixth went up in its place and stands until the thirtieth of March.
+The thirty-fifth sheet had been face up on that rail for ninety days and came down off it at four this afternoon, and the clerk took it down herself and squared the thirty-sixth against the wood and set it up in its place, and it stands there until the thirtieth of March.
 
-The counterman squared the new sheet against the edge of the rail with his thumb after the reading, the way he does every time, and stood back from it with his hands at his sides while about eleven looked their fill and the light went from the window.
-
-Lin Hao walked back up the slope with the cold in his sleeves and the reading still in his ears, all five things at the foot of the page in the order they stand, and he did not write any of it down, because a row may be added to and may not be taken from and the page is the only place in Ostara where all of it stands together.
+Lin Hao walked back up the slope with the cold in his sleeves and the reading still in his ears, all five things at the foot of the page in the order they stand, and he wrote none of it down, because a row may be added to and may not be taken from, and that page is the only place in Ostara where the whole of it stands together.
 
 Under the lower batten of a board by a kerb, a sheet with a date at the top and a pencil line across the bottom in a hand of her own.
 

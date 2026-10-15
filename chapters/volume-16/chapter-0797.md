@@ -72,7 +72,7 @@ He went back up four flights in the evening and gave the sixth line to the clerk
 
 Wenna Raut took it and read it back once, standing up, in the voice she reads everything in, with the date and the name, and entered nothing new because it was already entered on the second.
 
-“It is the fifth instruction this office makes and the sixth line in the office hand,” she said. “The July line and the August line and the October line are already on the sheet that stands on the rail. This one joins them on the thirtieth. Three of the earlier five are about a person and one is a sentence a person said and one is about a denial and this one is about anyone at all.”
+“Five instructions now, and the sixth line in the office hand,” she said. “Four of the earlier five are instructions and the fifth of them is a sentence a man said out loud in a room and is not an instruction at all. The July line and the August line and the October line are already on the sheet that stands on the rail. This one joins them on the thirtieth, and it is about anyone at all.”
 
 She said the five apart the way the book separates them itself, and he listened without stopping her, because a clerk who may only enter what she is given is the only person in Ostara who can tell a record from a decision and she had just done it again.
 

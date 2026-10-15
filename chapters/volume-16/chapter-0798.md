@@ -12,7 +12,7 @@ Wenna Raut spent her one question of the morning on whether any question had bee
 
 ## The Corner At About Five
 
-At about five in the afternoon Lin Hao stood at the kerb at the foot of the hill with about two hundred people going past and a boy with a paste brush nowhere in sight, because the board had been up since the seventh and would not be touched again until the thirtieth.
+At about five in the afternoon Lin Hao stood at the kerb at the foot of the hill with a boy with a paste brush nowhere in sight, because the board had been up since the seventh and would not be touched again until the thirtieth.
 
 The month form was face up on the board with rain softening one corner and both ruled squares at the foot of it empty. One was for the figure of the thing at the address. One was for the standing of it. The printed words under each were worn nearly smooth.
 
@@ -32,7 +32,7 @@ She was sent by not one person. That was plain from the hour and the manner of i
 
 Who told her is not established. Lin Hao did not ask Brack, who had said she would come to the corner and not up four flights. He did not ask Perla Quist, who had read her four words once and written nothing down. He did not ask Wenna Raut, who may only enter what she is given. Establishing it would have meant asking her something, and nothing on which that office might ask her anything exists.
 
-He stood there until the light went and about nine people went down low to the stone and up again without glancing at the sheet, and one old man glanced at it and did not stop, because a sheet under two empty boxes is not a thing anyone was ever taught to read.
+He stood there until the light went. About nine people in a week get down low enough to read those four inches, and the hour he was standing in was not a week, so he could not say how many of them were his; four came down while he was there and went up again without glancing at the sheet, and one old man glanced at it and did not stop, because a sheet under two empty boxes is not a thing anyone was ever taught to read.
 
 ## The Batten Coming Loose
 

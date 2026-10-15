@@ -16,7 +16,7 @@ The counterman looked at the rail and then at the window.
 
 “It sounds the way it has sounded since the thirtieth of September,” he said. “Four sentences. Four lines in the column. Six lines under those with the fourth struck through and a name under the striking. Then four lines in the office hand. Then two inches of nothing.”
 
-Lin Hao wanted to hear whether the order had held for a month. That was the whole of what he wanted that morning, and he was ashamed of how much he wanted it, because a man who put lines on a page ought to be able to leave them alone for thirty days.
+Lin Hao wanted to hear whether the order had held for a month, and he was ashamed of how much he wanted it, because a man who put lines on a page ought to be able to leave them alone for thirty days.
 
 “Say the four in the office hand the way you say them,” said Lin Hao.
 

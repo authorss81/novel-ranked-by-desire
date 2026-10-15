@@ -22,9 +22,9 @@ On it, in a hand of her own, uneven and pressed hard enough to furrow the paper,
 
 Wenna Raut looked at her for about nine seconds without speaking, and then she did what the instruction of the thirtieth of March says to do when a person says a thing at that counter.
 
-She opened the bound Register to the page with the row of the twenty-first of October of the eighth year, with a date against it and an hour against the date and nothing whatever against the hour and a space in the middle of it where the words of the person who brought the paper were to go.
+She opened the bound Register to the page with the row of the twenty-first of October of the eighth year, with a date on it and an hour against the date and nothing whatever after the hour and a space in the middle of it where the words of the person who brought the paper were to go.
 
-It was the first empty field in that book in nine years. It had stood empty for fourteen months. It was about her and out of her mouth it had to be filled, and no other mouth would do.
+It was the older of the two spaces left in that book, and it had stood empty for twenty-six months and two days, which is seven hundred and eighty-two days, and it was about her, and out of her mouth it had to be filled, and no other mouth would do.
 
 “Will you say it again,” said Wenna Raut, “here, so that I can put down what you say in the words you use.”
 
@@ -32,7 +32,7 @@ The woman said it again, standing up, with her hand on the edge of the wood but 
 
 Wenna Raut entered it in the space in the middle of that row, out of the mouth of the person it was about, in her own words, with a date and an hour against it, and it cannot be improved afterwards and it cannot be taken from.
 
-The row of the twenty-first of October of the eighth year was complete. The volume had been permitted three completions and this was one of them, and it was not his.
+The row of the twenty-first of October of the eighth year was complete, and it had been filled out of her mouth and not his, which is the only way that space was ever going to be filled.
 
 ## The Answer That Is A Permission
 
@@ -80,7 +80,7 @@ The next morning on the first of his three off he went up four flights to a laun
 
 Perla squared the ruler against the edge of the bench and did not pick the pencil up.
 
-“Then the second sheet stays where it is,” she said. “Squared against the edge of a bench four flights up, with four words on the back of it. The row in the Register is still the only true sentence that office has published about her, and now there is a second true sentence under a blank that stood fourteen months.”
+“Then the second sheet stays where it is,” she said. “Squared against the edge of a bench four flights up, with four words on the back of it. The row in the Register is still the only true sentence that office has published about her, and now there is a second true sentence under a blank that had stood empty for twenty-six months.”
 
 She looked at him steadily.
 
@@ -92,7 +92,7 @@ Perla nodded once and wiped the pencil on the cloth on the nail by the door.
 
 “Then the stair worked the way it should,” she said. “She came on her own. She said her sentence. She got a permission for an answer. No hand sent her and no hand will follow her. That is the whole of it, and it is enough.”
 
-He went down four flights lighter than he had come up, with the permission in his head like something read back once in a clerk voice, and he knew the volume had closed the one blank field it was permitted to close, out of her mouth and not his.
+He went down four flights lighter than he had come up, with the permission in his head like something read back once in a clerk voice, and he knew the book had taken the one field it was ever going to take, out of her mouth and not his.
 
 His own blank row from August, with a date and an hour and nothing after the hour, stood untouched in the same book. No hand filled it that winter. It waits still, with its space in the middle of it, and the book holds it the way it holds everything, without hurry and without release.
 
