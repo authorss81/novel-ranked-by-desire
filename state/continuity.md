@@ -1,3 +1,60 @@
+# VOLUME 19 BATCH 0002 ON DISK — **THE SPINE IS 4,019 TO 4,082. SEAM 4,019 − 4,012 = 7 IN ITS OWN COLUMN AND NOT ONE OF THE NINE. INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE HEAD IS PRINTED ONCE, AT 911. THE RAIL BREAKS ONCE, AT 911. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND 914 PUTS ITS ONE PAGE IN THE INSIDE ON THE RIGHT AND SAYS SO.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Mar 30 Apr 60 May 90 Jun 120.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Mar 1 Apr 2 May 3 Jun 4. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS. 1 Feb y12 = 3,960.
+911 30 Mar 4,019 QUARTER-END, the forty-fifth sheet, THE HEAD PRINTED IN A PUBLIC PASSAGE, +7 SEAM
+912 7 Apr 4,026 a form on the seventh, the hundred-and-sixteenth, named and not an event
+913 14 Apr 4,033 SCENE, Runa Sato, 110 after 803, REPORTED AND NOT CERTIFIED, THE KNOCK, and the
+     falsified return told unasked, and nine corridors in nine weeks with no refusal in writing
+914 21 Apr 4,040 THE PHYSICAL RISK, four miles on foot in the wrong light, four hands, an order
+     written down and four people not written down
+915 28 Apr 4,047 A MAN AT TWO IN THE MORNING TURNED AWAY CORRECTLY, and the knocking wrong twice
+916 5 May 4,054 THE SECOND REFUSAL, A FIGURE, A STANDING AND A PLACE OFF A TRADE BILL, and the
+     office says out loud that it keeps no roll of who comes and the clerk writes that down
+917 12 May 4,061 NINE WAYS AND EIGHT OF THEM WORK, none of them written down, and a man in a
+     doorway asks whether it can be found by writing to it
+918 19 May 4,068 BRACK PRICES THE TELLING AND NOT THE DOOR, nine stools become two, the sooner
+     figure stands and the third figure gets older
+919 26 May 4,075 A QUARTER IN WHICH HE DOES NOT CHECK A FIGURE, three weeks of not going
+920 3 Jun 4,082 MOVEMENT TWO'S IRREVERSIBLE DECISION, HIS, A PRACTICE AND NOT INK: HE LETS THE
+     SLATE STAND, said in a lane with nine people in it, and the cost is the lane's own quiet
+SEAM 4,019-4,012 = 7 in its own column and not one of the nine. NINE 7 7 7 7 7 7 7 7 7 = 63 and
+4,019+63 = 4,082. THE §5b FENCE ROW WAS LEFT EXACTLY WHERE IT IS AND WAS VERIFIED TERM BY TERM AGAINST §5c.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+ANCHOR 3,929, the thirtieth of December. THE FORTY-FOURTH SHEET CAME DOWN AT FOUR ON 911.
+911 4,019-3,929 = 90, THE BREAK, and the forty-fifth went up on the same two nails with nothing new
+912 4,026-4,019 =  7      915 4,047-4,019 = 28      918 4,068-4,019 = 49
+913 4,033-4,019 = 14      916 4,054-4,019 = 35      919 4,075-4,019 = 56
+914 4,040-4,019 = 21      917 4,061-4,019 = 42      920 4,082-4,019 = 63
+IT BREAKS ONCE IN TEN CHAPTERS. EVERY FIGURE FROM 912 ONWARD IS DERIVED AGAINST 4,019 AND NOT
+AGAINST 3,929, AND EVERY ONE OF THE NINE FOOTERS NAMES THE THIRTIETH OF MARCH.
+```
+
+## THE DRAWER, 2,420, THE TWENTY-ONE OF OCTOBER OF THE SEVENTH YEAR
+
+```
+911 1,599 = 53 x 30 + 9   · 916 1,634 = 54 x 30 + 14
+912 1,606 = 53 x 30 + 16  · 917 1,641 = 54 x 30 + 21
+913 1,613 = 53 x 30 + 23  · 918 1,648 = 54 x 30 + 28
+914 1,620 = 54 x 30 + 0, PRINTED `no days` IN THE HOUSE FORM
+915 1,627 = 54 x 30 + 7   · 919 1,655 = 55 x 30 + 5
+                              920 1,662 = 55 x 30 + 12
+IT APPEARS IN THE FOOTER CLAUSE OF EACH FILE AND NOWHERE ELSE. NO AGE OF THAT DRAWER IS SPOKEN IN
+PROSE IN 911-920 AND 914 NAMES ITS ANCHOR DATE ONLY AS PART OF A COST.
+```
+
+## WHAT MOVED IN 911–920, AND WHAT DID NOT
+
+**THE HEAD STANDS AT EIGHT HUNDRED AND FIFTY-TWO AND IS PRINTED ONCE, AT 911, IN A PUBLIC PASSAGE, AND IT IS PRINTED AS A COUNT OF SHEETS: TWENTY-NINE SHEETS AND TWENTY-EIGHTH QUARTERS, DIFFERING BY ONE, `4,019 − 1,499 = 2,520 = 28 × 90`.** Six lines in the office hand and that is the whole of it, and the forty-fifth sheet went up at 911 carrying no new line. The second column four lines, and a woman asked about a fifth in the fourth month and was told that four is what it is going to be when the year turns. The bundle twenty-six things, untouched. The drawer shut. The coat-left empty, and **the one thing this batch put in a coat went into the inside on the RIGHT, at 914, and the chapter says so.** His own blank row nine hundred and thirty-seven days old at 911 and one thousand days old at 920, uncompleted, undescribed and unprinted. The stone seven hands, untouched, and not mentioned in ten chapters. The two scratched words not printed and nothing whatever asserted about them, and not mentioned in ten chapters. The four-year clock undischarged and unargued, and Brack's sooner figure standing in a public lane and now claimed out loud by the man it is about.
+
+**AND WHAT IS NEW ON THE PAGE AND MAY NOT BE UNDONE.** **1 · THE OFFICE KEEPS NO ROLL OF WHO COMES, AND THAT IS NOW WRITTEN ON A PAGE — not because somebody wrote it about the office, but because the office said it out loud with the door wide and the clerk entered the date and the hour and the words used, at 916. The cost of a rule entered is that in about four years a stranger can ask why a room with no roll in it nailed its address to a door, and the clerk named that cost before he spoke.** **2 · AN ORDER OF FOUR HANDS EXISTS ON A TORN PAGE IN THE INSIDE RIGHT POCKET OF ONE COAT, WITH THE FOUR PEOPLE TAKEN OUT ON PURPOSE.** **3 · TELLING IS NOW BEING PRICED AND THE PRICE IS PUBLIC: about nine strangers a fortnight at the rail, about nine a week in one lane, eight ways of finding that office that all work, and a division clerk who writes an address on a slip as a matter of procedure.** **4 · THE FIGURE ON BRACK'S SLATE HAS AN OWNER OUT LOUD IN NINE HEADS, AND A MAN WHO WORKS IN A DIVISION BUILDING WAS ONE OF THE NINE.** **5 · A MAN IN THIS CITY WALKED UP FOUR FLIGHTS IN THE DARK, DID EVERYTHING THE CARD TOLD HIM TO DO, AND WAS TURNED AWAY CORRECTLY AT HIS OWN DOOR BY THE MAN WHO WROTE THE CARD.**
+
 # VOLUME 19 BATCH 0001 REVIEW-FIXED — **THE SPINE IS UNMOVED AND EVERY FIGURE BELOW IT RE-DERIVED FROM THE SAME ANCHORS AFTER THE FIX: 3,949 TO 4,012, SEAM 20 IN ITS OWN COLUMN, INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE RAIL, THE DRAWER, THE HEAD AT 852, THE BLANK ROW AND THE COAT-LEFT DID NOT MOVE BY ONE DAY. THREE CHAPTERS WERE TOUCHED AND NONE OF THEM WAS TOUCHED IN ITS ARITHMETIC: 903 lost a *this week* and carries the twelfth instead, 907 lost a closure it had never been given, 908 lost the banned figure. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. 902 IS PRINTED AS *Seventeen Minutes Down Four Flights*. `outline/ending.md` UNTOUCHED.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
 
 # VOLUME 19 BATCH 0001 ON DISK — **THE SPINE AS THE PAGE FIXED IT. 3,949 TO 4,012. SEAM 20 IN ITS OWN COLUMN, INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE HEAD IS PRINTED NOWHERE IN 901–910 AND IS DUE AT 911. THE RAIL DOES NOT MOVE AT 901 THROUGH 910 AND CHANGES AT 911. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. THE DRAWER IS SHUT THROUGHOUT AND ITS AGE IS IN THE FOOTER CLAUSE ONLY.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
