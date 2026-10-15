@@ -1,3 +1,73 @@
+# VOLUME 19 BATCH 0003 ON DISK — **NOTHING MOVED OUT OF ITS PLACE. THE SPINE IS STILL 4,089 TO 4,151, THE SEAM IS STILL 4,089 − 4,082 = 7 IN ITS OWN COLUMN, THE INTERIOR NINE ARE STILL `7 7 7 6 7 7 7 7 7 = 62`, THE HEAD IS PRINTED ONCE, AT 924, THE RAIL STILL BREAKS ONCE, AT 924, THE DRAWER IS STILL SHUT, THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY AND NOTHING WENT IN IT, NOTHING ENTERED THE OFFICE HAND AT THE FOOT OF THE STANDING SHEET IN TEN CHAPTERS, THE SECOND COLUMN STILL HAS FOUR LINES, THE BUNDLE IS STILL TWENTY-SIX THINGS, AND `outline/ending.md` IS UNTOUCHED. TWELVE PROSE DEFECTS AND ONE GATE FAULT WERE REPAIRED BEFORE THIS BLOCK WAS WRITTEN AND NOT ONE OF THEM WAS A FIGURE.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Jun 120 Jul 150 Aug 180.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Jun 4 Jul 5 Aug 6. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+921 10 Jun 4,089 +7 SEAM   922 17 Jun 4,096 +7   923 24 Jun 4,103 +7 SCENE
+924 30 Jun 4,109 +6 QUARTER-END, the forty-sixth sheet, THE HEAD PRINTED IN A FILING ROOM
+925 7 Jul 4,116 +7         926 14 Jul 4,123 +7      927 21 Jul 4,130 +7
+928 28 Jul 4,137 +7         929 5 Aug 4,144 +7       930 12 Aug 4,151 +7 DECISION
+SEAM 4,089-4,082 = 7 in its own column and not one of the nine.
+NINE 7 7 7 6 7 7 7 7 7 = 62 and 4,089+62 = 4,151.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+ANCHOR 4,019, the thirtieth of March. THE FORTY-FIFTH SHEET CAME DOWN AT FOUR ON 924.
+921 4,089-4,019 = 70      924 4,109-4,019 = 90, THE BREAK, and it came down at four that afternoon
+922 4,096-4,019 = 77      925 4,116-4,109 =  7
+923 4,103-4,019 = 84      926 4,123-4,109 = 14
+                         927 4,130-4,109 = 21
+                         928 4,137-4,109 = 28
+                         929 4,144-4,109 = 35
+                         930 4,151-4,109 = 42
+IT BREAKS ONCE IN TEN CHAPTERS. EVERY FIGURE FROM 925 ONWARD IS DERIVED AGAINST 4,109 AND NOT
+AGAINST 4,019. THE ROW IN `outline/volume-19.md` §5b WAS VERIFIED TERM BY TERM AGAINST §5c.
+```
+
+## THE DRAWER, 2,420, THE TWENTY-ONE OF OCTOBER OF THE SEVENTH YEAR
+
+```
+921 1,669 = 55 x 30 + 19   · 926 1,703 = 56 x 30 + 23
+922 1,676 = 55 x 30 + 26   · 927 1,710 = 57 x 30 +  0   PRINTED `no days` IN THE HOUSE FORM
+923 1,683 = 56 x 30 +  3   · 928 1,717 = 57 x 30 +  7
+924 1,689 = 56 x 30 +  9   · 929 1,724 = 57 x 30 + 14
+925 1,696 = 56 x 30 + 16   · 930 1,731 = 57 x 30 + 21
+EVERY BREAKDOWN RE-DERIVED AS MONTHS x 30 + DAYS AND VERIFIED IN THE FOOTER TEXT OF EVERY FILE.
+```
+
+## THE FIGURES THIS BATCH TOOK OUT, AND WHERE THEY CAME FROM
+
+**THE HEAD AT 924, ONCE: `4,109 − 1,499 = 2,610 = 29 × 90`, THIRTY SHEETS AND TWENTY-NINE QUARTERS, DIFFERING BY ONE, SAID IN A FILING ROOM WITH NO WINDOW TO FOUR PEOPLE, ONE OF WHOM IS A YOUNG CLERK COMPILING THE DIVISION'S QUARTER FIGURES.** At 911 it was said in a public passage in a street. At 924 it is said indoors to people who will copy it. It is not moved, not raised, not confirmed and not corrected anywhere in 921–930.
+
+**THE CAPTION, WRITTEN BY HIM AND ENTERED BY HER, AND IT IS THE FIRST TRUE SENTENCE ABOUT THAT OFFICE IN A BUREAU RECORD: a count of sheets, not of people.** **THE PARAGRAPH, ABOUT SEVENTY WORDS, IN A BOARD'S CLERK'S HAND WITH NO NAME ON IT, SAID TWICE BY HIM ON A LANDING ON THE FOURTEENTH OF JULY AND PUT ON A WALL FOUR HUNDRED YARDS OFF ON THE EIGHTEENTH.** **THE TWO WRITTEN REFUSALS IN THAT BOOK: the first entered on the twenty-first of July because the clerk said the reason out loud first, and the second entered on the twenty-eighth, three sentences, written by him and entered in the words used.**
+
+**HIS OWN BLANK ROW, `3,082`: 1,007 DAYS OLD AT 921 AND ONE THOUSAND AND SIXTY-NINE AT 930. DERIVED, NEVER PRINTED AS A FIGURE IN THE PROSE, NEVER COMPLETED, AND ITS SPACE IS DESCRIBED ONCE AT 930 AND NOT FILLED IN.**
+
+## WHAT THIS BATCH ADDED TO THE PAGE AND WHAT A LATER PASS MUST NOT REINTRODUCE
+
+**1 · THE HOURS ON THE CARD ARE THE HOURS THE CARRIERS ARE IN THE BUILDING, AND THE PEOPLE WHO CANNOT USE THEM ARE THE PEOPLE WHO WORK.** 921's ninety minutes in a street, one hand, no name, is the standing fact of this movement. **THE CARD IS NOT RE-NAILED AND THE HOURS DO NOT CHANGE, and Brack's price for that is a man standing at a third stool from half past four who does not sit down.**
+
+**2 · THE OFFICE'S FIRST OFFER THAT THE CARD DOES NOT CARRY IS AN OFFER TO READ OUT LOUD TO ANYBODY WHO CANNOT HEAR, entered at 922 with the door open, and the clerk named the price herself: a person still has to be sent, and that person is a second thing that knows. THE OFFICE WILL NOT PUT IT ON THE CARD, and the clerk has already warned him that he will be tempted to and that it would be the seventh line.**
+
+**3 · A THING LEFT ON A LANDING BETWEEN TWO FLOORS BELONGS TO NEITHER FLOOR UNTIL SOMEBODY WRITES DOWN WHICH ONE IT CAME FROM, AND IN THAT BUILDING NOBODY WRITES IT DOWN AND THERE IS NO LINE ON ANY SHEET FOR IT.** This is the axis of the scene at 923 and it is the reason the copies have no origin and therefore can never be corrected by anybody. **THE WORD `AXIS` IS ZERO IN ALL TEN FILES AND NOBODY NAMES IT.**
+
+**4 · THE WRONG COPIES ARE BEING HANDED IN AT A RETURNS DESK, ABOUT NINE IN SIX WEEKS, BY THE PEOPLE HOLDING THEM.** Four went up four flights before the eleventh of June and came back with a second hand on them. **WREN KALLO HAS SINCE THROWN SIX OF THEM IN A WRONG BIN IN A FORTNIGHT, WATCHED THE CART GO OUT, AND TOLD NOBODY.**
+
+**5 · A FIGURE, A CAPTION AND ABOUT SEVENTY WORDS ARE ON A WALL FOUR HUNDWARD YARDS OFF WHERE ABOUT FOUR HUNDRED PEOPLE A WEEK GO PAST IT, AND THE CAPTION IS BEING READ BACKWARDS IN THAT HALL AT ABOUT NINE TIMES A DAY. THE OFFICE CORRECTS NOTHING ON IT AND HAS SAID SO.**
+
+**6 · A REFUSAL ON PAPER IS SHOWN TO PEOPLE WHO WERE NOT THERE AND EACH OF THEM COUNTS AS A SECOND REFUSAL, AND PAPER TRAVELS AT THE SPEED OF AN ANNOYANCE.** From the twelfth of August there is no third refusal on paper, ever, on any ground. **Every refusal is now given in person by him or by the clerk, five days in seven, on four flights, to about nine people a fortnight, and the man who wants a stamp comes back twice and is refused twice and goes on coming.**
+
+**7 · PERLA QUIST IS NOW DATING OTHER PEOPLE'S BAD SLIPS IN HER OWN HAND AND TOLD HIM BEFORE HE SAID A WORD, AND IS NOT GOING TO STOP.** One step to holding who comes through it, taken for him. **She holds no card and no copy of the hours and never will; the nine sheets under the third table stay shut and the question of whether they would answer a question the book upstairs cannot IS NOT OPENED.**
+
+**8 · THE REPROS THAT WERE REPAIRED BEFORE THIS BLOCK WAS WRITTEN, AND WHICH A LATER PASS MUST NOT REINTRODUCE.** Thirteen paragraphs were over roughly ninety words on the first pass and every one was split at a sentence boundary and none was trimmed. Three of those splits broke quotation parity and were rewritten so each paragraph carries its own pairs. **Sixteen weekday names were cut and replaced with dates or with the phrase a working morning, including a bare `Monday` at 925 and eleven `Thursday`s.** Two `settl` inflections in 929 were cut. **Four class-grep hits were re-shaped: `this book` twice at 921 and once at 922, and `in this volume` at 924.** The watch-construction row ran at eighteen narration and twelve speech on the first pass, both over cap, and was cut to six and seven by naming who does what instead of naming that a thing cannot be done. **The house clause `with the door open and both carriers in that passage`, which stood five times in the batch, now appears twice and the other five are `door wide, both carriers on that stair` and two other shapes.** 924 and 925 were reading the caption in identical sentences and 925 now describes the sentence off the wall in different words.
+
+## THE FIGURES A LATER PASS MUST NOT "CORRECT", AND EACH ONE IS ON THE PAGE
+
+**1 · THE HEAD IS EIGHT HUNDRED AND FIFTY-TWO AND IT HAS NOT MOVED SINCE THE THIRTIETH OF MARCH OF THE FIFTH YEAR. 2 · THE RAIL COUNTS DAYS SINCE THE CURRENT SHEET WENT UP AND THE CURRENT SHEET WENT UP AT `4,109`. 3 · THE CARD CARRIES THE STREET, THE DOOR AND THE HOURS, FIVE DAYS IN SEVEN, AND NOT ONE NAME, AND THE HOURS ARE A QUARTER TO TEN TO HALF PAST FIVE. 4 · THE REGISTER HAS ABOUT FOUR HUNDRED AND THIRTY ROWS ON THE FIRST OF FEBRUARY OF YEAR NINE AND ABOUT FOUR HUNDRED AND SEVENTY ON THE THIRD OF JUNE OF YEAR NINE, WHICH IS THE LAST DAY ANYBODY COUNTED THEM. 5 · A COUNT OF PIECES OF PAPER IS NEVER A COUNT OF CLAIMS AND NEVER A COUNT OF PEOPLE. 6 · THE SECOND COLUMN HAS FOUR LINES AND NO FIFTH GOES IN ANY CHAPTER OF THIS VOLUME. 7 · THE SIX LINES IN THE OFFICE'S HAND STAND AND A SEVENTH GOES IN NOWHERE IN 901–950. 8 · THE DRAWER IS SHUT UNDER AN INSTRUCTION WITH A MAN'S NAME UNDER IT AND IS NEVER OPENED. 9 · THE BUNDLE IS TWENTY-SIX THINGS AND NOTHING IS TAKEN OFF THAT TABLE AND NOTHING PUT ON IT.**
+
 # VOLUME 19 BATCH 0002 REVIEW-FIXED — **NOTHING MOVED. THE SPINE IS STILL 4,019 TO 4,082, THE SEAM IS STILL 4,019 − 4,012 = 7 IN ITS OWN COLUMN, THE INTERIOR NINE ARE STILL `7 7 7 7 7 7 7 7 7 = 63`, THE HEAD IS STILL PRINTED ONCE AT 911, THE RAIL STILL BREAKS ONCE AT 911, THE DRAWER IS STILL SHUT, THE COAT-LEFT IS STILL EMPTY, NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS, AND `outline/ending.md` IS UNTOUCHED. ELEVEN PROSE DEFECTS WERE REPAIRED AND NOT ONE OF THEM WAS A FIGURE.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
 
 **WHAT CHANGED AND WHAT A LATER PASS MUST NOT REINTRODUCE.**
