@@ -102,7 +102,7 @@ The man squared his own paper against the wood, the way everybody does in a room
 
 “It is wrong.”
 
-“You cannot read it and your wife can, and your wife took it to a woman who wrote out what your wife said,” said Lin Hao. “In about four weeks that same page goes out at four o’clock on the last working day of a quarter with one more line at the bottom of it than it has now.”
+“You cannot read it and your wife can, and your wife took it to a woman who wrote out what your wife said,” said Lin Hao. “In about seven weeks that same page goes out at four o’clock on the last working day of a quarter with two more lines at the bottom of it than it has now.”
 
 “And it will be read out loud to about nine people a week, and you will hear it, and not one person in this city will be able to tell you which of the two copies in your own kitchen is the one he read.”
 

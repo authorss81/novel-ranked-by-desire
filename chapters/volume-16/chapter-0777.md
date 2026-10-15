@@ -24,7 +24,7 @@ There were about four people behind them in that passage and they had come out o
 
 “That is a question about an address,” said the clerk, “and I can tell you whether an address is in my book and what is in the entry, and I cannot tell you whether it keeps anything, because this court does not keep anything and neither does anybody else in it. That is not modesty. It is the size of a book.”
 
-He put his fingers on the wood for about a second and drew them back, which is a thing that clerk has done about four times in five years.
+He put his fingers on the wood for about a second and drew them back, which is a thing the clerk has watched him do about four times in five years.
 
 “Ask me about the address and not about the wall.”
 
@@ -113,8 +113,6 @@ He went up the stairs with the pencil paper folded in two and did not stop on an
 Lin Hao walked back up the third court with the whole of it and he had it by about eleven and it was a fact about a building and it fits in on a page.
 
 And the clerk at that window had said the true thing about it twice, and neither of the two was the thing that would have helped, which was that the man was going to go down to the bottom of a wall and write a sentence about a building, and that the sentence would be better sourced than the one it replaced, and that this office is not permitted to ask him not to.
-
-Lin Hao walked back up the third court with the whole of it and he had it by about eleven and it was a fact about a building and it fits in on a page.
 
 *Three thousand and fifty-five days. Less three thousand and forty-eight, the nineteenth of July of this year, is seven, and a clerk at a window spent the one question of his morning and came back with a fact about a building, and the building has no stone on it and has had a day against it since the eighth of October of the first year.*
 

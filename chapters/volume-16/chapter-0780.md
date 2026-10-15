@@ -26,7 +26,7 @@ He said it in the ordinary voice and there were about nine people in that corrid
 
 “I said a sheet.”
 
-“You said a building and a stone and a wall and you said them in that order and in about nine seconds, and about nine people heard you, and one of them repeated it back to you before you got to the stair.”
+“You said a building and a stone and a wall and you said them in that order and in about nine seconds, and about nine people heard you, and four of them repeated it back to each other while I was writing, in the wrong order.”
 
 “Then it is wrong and I want it out.”
 
@@ -82,7 +82,7 @@ He said it. She listened to all of it and did not improve any part of it.
 
 She wrote it in about four minutes, which is twice as long as it takes her, and she wrote the date at the top of the line and his name at the foot of it. Then she read it back to him standing up, all the way through, with the date.
 
-It is the third line in this office’s hand added to the foot of one of its own pages in nine years, and it is the third instrument, and it is not the other two.
+It is the third instruction this office has made in its own hand since the year began, and it is the fourth line in this office’s hand at the foot of one of its own pages, because the nine words a man said at this counter on the nineteenth of July are down there as well, in the same hand and on the same sheet, and they are a line and they are not an instruction.
 
 The instruction of the thirtieth of March is about what a person says. The instruction of the tenth of June is about being told a thing about yourself. This one is about what a person says in answer to being told, and nothing in this city has ever done that for anybody.
 
@@ -114,7 +114,7 @@ She put the pen down across the book.
 
 “And he cannot be asked to read less of it.”
 
-“No,” said Wenna Raut. “He cannot, and he will not be told what any of it means, and about nine people a week will hear the answers as well as the questions, and they will be about people standing in a corridor, and that is what this office has bought with three lines in nine months, and there is no form in Ostara on which it can be given back.”
+“No,” said Wenna Raut. “He cannot, and he will not be told what any of it means, and about nine people a week will hear the answers as well as the questions, and they will be about people standing in a corridor, and that is what this office has bought with four lines in nine months, and there is no form in Ostara on which it can be given back.”
 
 He stood at the end of that table and understood the whole of it in about nine seconds.
 
@@ -150,11 +150,11 @@ He went down to the passage off Cordwain at about ten minutes to five and stood 
 
 The page in front of that man has a figure at the head of it that has not moved since the fifth year, and about four hundred and nineteen lines under the head with a date and an hour against every one, and a second column with four lines in it under two printed words that say **carried by**, and four sentences at the foot, and six lines under those with the fourth struck from the first letter to the last.
 
-It has two lines at the bottom of it now that it did not have in the year eight. In about six weeks the next one will have three.
+It has two lines at the bottom of it now that it did not have in the year eight. In about six weeks the next one will have four.
 
 And a man behind a counter will read all of them, in the order they stand, at the pace he reads everything at, to whoever is standing there, and there is no instruction in nine years that could shorten him by a single word.
 
-*Three thousand and seventy-five days. Less three thousand and sixty-eight, the ninth of August of this year, is seven, and a clerk entered the first answer ever entered in this city under a row in her own hand with a date and an hour against it, and a third line went into the foot of the page, and about four hundred people are now answerable in public and in their own words for what they said in a room.*
+*Three thousand and seventy-five days. Less three thousand and sixty-eight, the ninth of August of this year, is seven, and a clerk entered the first answer ever entered in this city under a row in her own hand with a date and an hour against it, and a third instruction went into the foot of the page, which is the fourth line in it, and about four hundred people are now answerable in public and in their own words for what they said in a room.*
 
 *Less three thousand and twenty-nine, the thirtieth of June of this year, is forty-six, and the thirty-fourth sheet has been face up on that rail for every one of the last forty-six of them.*
 

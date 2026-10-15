@@ -8,7 +8,7 @@ He came up the stair on the sixth of July with a piece of paper folded in four a
 
 It is about the size of the foot of a printed page and it is in pencil, in his own hand, with a date at the top of it in his own hand, and it is a copy of the bottom of a sheet he saw face up on a rail in a passage off Cordwain about a year ago.
 
-He has carried it up and down a street about eleven times a month for about a year. He has never once opened it in front of anybody, and when Lin Hao asked him about that on the second landing he gave the answer in four words and did not improve it.
+He carried it up and down a street about eleven times a month for about a year. He had never once opened it in front of anybody, and when Lin Hao asked him about that on the second landing he gave the answer in four words and did not improve it.
 
 “Because there is nothing in it I could use.”
 
@@ -74,7 +74,7 @@ The first is from the thirtieth of March and says that when a person says a thin
 
 The second is from the tenth of June. It is the shorter of the two and it is the one about the counter, and it is nine words longer in the original than it sounds when a clerk says it, and it ends with a clerk promising not to make a thing better.
 
-“Those are eleven weeks old and four days old,” she said, “and yours is about a year old, and there is no form anywhere in this city on which a copy is recalled from anybody it has been copied into.”
+“Those are ninety-six days old and twenty-six days old,” she said, “and yours is about a year old, and there is no form anywhere in this city on which a copy is recalled from anybody it has been copied into.”
 
 ## About Nine Of Them A Week
 
@@ -82,7 +82,7 @@ He put his fingers on the edge of the counter and then took them off it, which i
 
 “How many people have come here since the tenth of June for the reason you have just given me.”
 
-She had it, because she has counted every day of the instruction of the tenth of March since it went into that book, in a clerk’s hand, at that counter, and because she counted it before he asked and had been waiting about four seconds for somebody to ask her.
+She had it, because she has counted every day of the instruction of the tenth of June since it went into that book, in a clerk’s hand, at that counter, and because she counted it before he asked and had been waiting about four seconds for somebody to ask her.
 
 “About nine a week,” said Wenna Raut. “It has been between four and nine and it has been nine for four of the last eleven days, and it is a count of people at this counter and not of papers and not of rows and not of claims.”
 
@@ -118,6 +118,6 @@ She put the pen across the book.
 
 *Three thousand and thirty-five days. Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and a man opened a sheet he had carried for about a year at a counter and found that the fourth of four sentences was not about him, and that the page now carries two more lines at the bottom of it than it carried when he made his copy at a rail.*
 
-*Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and the thirty-fourth sheet has been face up on that rail for every one of the last six of them.*
+*Less three thousand and twenty-nine, the thirtieth of June of this year, is six, and it is the same six as the line above, because the day a sheet goes face up on a rail and the day a thing happens to a person are two different days, and nothing in this city says which of the two a man has written.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is six hundred and fifteen days, which is twenty months and fifteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

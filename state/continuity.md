@@ -1,4 +1,4 @@
-# VOLUME 16 BATCH 0003 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,016 TO 3,075. THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
+# VOLUME 16 BATCH 0003 ON DISK, AND REPAIRED AFTER REVIEW — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,016 TO 3,075. THE REVIEW-FIX PASS OF 15 OCTOBER 2026 TOUCHED NO SPINE FIGURE AND MOVED NO DATE: THIRTY FOOTER CLAUSES PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, RE-RUN FROM DISK AFTER THE LAST EDIT. IT RULED ONE COUNT, THE LINES AT THE FOOT OF THE PAGE, WHICH ARE FOUR AND NOT THREE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
 
@@ -33,7 +33,7 @@ METHOD A AND METHOD B AGREE ON TEN OF TEN.  ZERO MONOTONIC VIOLATIONS.
 
 ## WHAT MOVED ON THE PAGE IN 771–780, AND WHAT IS NOW A DIFFERENT SITUATION
 
-**THE PAGE NOW CARRIES THREE LINES IN THIS OFFICE'S HAND AT ITS FOOT.** The first (the thirtieth of March) and the second (the tenth of June) went out on the thirtieth of June and a man who is paid nothing read the whole of the bottom of it to eleven people. **The third, of the sixteenth of August, goes out on the thirtieth of September to about two thousand counters.**
+**THE PAGE CARRIES FOUR LINES IN THIS OFFICE'S HAND AT ITS FOOT AND THE REPAIR PASS OF 15 OCTOBER 2026 RULED ON THE COUNT.** The first (the thirtieth of March) and the second (the tenth of June) went out on the thirtieth of June and a man who is paid nothing read the whole of the bottom of it to eleven people. **The third is the nine words a man said at that counter on the nineteenth of July, in his own words, entered because a clerk may only enter what she is given — a line and NOT an instruction — and the fourth is the sixteenth of August. THE THIRD AND THE FOURTH GO OUT TOGETHER ON THE THIRTIETH OF SEPTEMBER TO ABOUT TWO THOUSAND COUNTERS, AND 787 PRINTS FOUR AND NOT THREE.**
 
 *From the sixteenth of August of this year, whatever a person says in answer to what this office has told them is to be entered in the same row, under what they were told, in the words that person used, with a date and an hour against it, and a row may not be taken from. Lin Hao.*
 

@@ -1,8 +1,8 @@
-# VOLUME 16 BATCH 0003 WRITTEN — **CHAPTERS 771–780 ARE ON DISK AND FINISHED. MOVEMENT THREE, *THE READING BACK*. 22,119 WORDS RAW, 21,467 ON THE BASIS OF RECORD, 21,527 ON `^##`, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE LAST EDIT.** TEN TITLES, ZERO COLLISIONS ACROSS 780 WRITTEN TITLE LINES. THE SCENE IS AT 773 AND IT IS MARGUERITE VALE'S. THE MOVEMENT'S IRREVERSIBLE DECISION IS AT 780 AND IT IS HIS. `state/current.md` LIVE BLOCK, `state/continuity.md` SPINE BLOCK, `state/open-threads.md` VOLUME-WIDE GATE, `state/chapter-summaries.md` TEN ROWS, THE CARDS FOR 771–780 WRITTEN AGAINST THE PAGE, AND `workspace/volume-16/batch-0004/PROMPT.md` ARE IN THE SAME COMMIT. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 16 BATCH 0003 WRITTEN, AND REPAIRED AFTER REVIEW — **CHAPTERS 771–780 ARE ON DISK AND FINISHED, AND THEY HAVE BEEN THROUGH ONE REVIEW-FIX PASS, 15 OCTOBER 2026. MOVEMENT THREE, *THE READING BACK*. 22,187 WORDS RAW, 21,535 ON THE BASIS OF RECORD, 21,595 ON `^##`, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE REPAIR.** NO CHAPTER WAS RESTARTED, NO DATE WAS RENUMBERED, NO SPINE FIGURE MOVED, NO TITLE CHANGED, AND THE PLANNED PLOT OF 771–780 IS EXACTLY WHAT IT WAS. **THE REVIEW-FIX PASS OF 15 OCTOBER 2026 IS §0i AND EVERY FINDING AND EVERY ANSWER IS IN IT.** TEN TITLES, ZERO COLLISIONS ACROSS 780 WRITTEN TITLE LINES. THE SCENE IS AT 773 AND IT IS MARGUERITE VALE'S. THE MOVEMENT'S IRREVERSIBLE DECISION IS AT 780 AND IT IS HIS. `state/current.md` LIVE BLOCK, `state/continuity.md` SPINE BLOCK, `state/open-threads.md` VOLUME-WIDE GATE, `state/chapter-summaries.md` TEN ROWS, THE CARDS FOR 771–780 WRITTEN AGAINST THE PAGE, AND `workspace/volume-16/batch-0004/PROMPT.md` ARE IN THE SAME COMMIT. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## 0z. WHAT THIS BATCH DELIVERED, IN ONE PLACE
 
-**THE STANDING SHEET NOW CARRIES THREE LINES IN THIS OFFICE'S HAND AT ITS FOOT AND A MAN WHO IS PAID NOTHING HAS READ ALL THREE OUT LOUD.** On the thirtieth of June the thirty-fourth sheet went face up on a rail in a passage off Cordwain at four o'clock with eleven people at it, and a woman on the end of the rail asked the counterman what the last of the two new lines was for, and he said *that is what it says*, and that there is not one person in this city entitled to tell him and there will not be one in about four years either. **He has now been asked by the office and by a reader, and he still is not going to be told what any of it means, and he cannot be asked to read less of it.**
+**THE STANDING SHEET CARRIES FOUR LINES IN THIS OFFICE'S HAND AT ITS FOOT, TWO OF THEM READ OUT LOUD BY A MAN WHO IS PAID NOTHING AND TWO OF THEM NOT READ AT ALL YET.** On the thirtieth of June the thirty-fourth sheet went face up on a rail in a passage off Cordwain at four o'clock with eleven people at it, and a woman on the end of the rail asked the counterman what the last of the two new lines was for, and he said *that is what it says*, and that there is not one person in this city entitled to tell him and there will not be one in about four years either. **He has now been asked by the office and by a reader, and he still is not going to be told what any of it means, and he cannot be asked to read less of it.**
 
 **AND THE DENIAL HAS TURNED INSIDE OUT.** A man said out loud at that counter on the nineteenth of July that a building off a third court keeps the stone at the foot of a wall. He had it in his own pencil, made in March from what a man at a rail read out with the building in it and not the wall. A clerk entered it in his own words with a date and an hour against it, because she may only enter what she is given, and **it goes out at four o'clock on the thirtieth of September to about two thousand counters in this office's hand.** The only answer available to her was to read him the denial of the sixteenth of August, which is nine feet higher up the same sheet, and she refused it out loud before he asked, because that would have been her putting a sentence into the mouth of a person who had not said it.
 
@@ -10,7 +10,7 @@
 
 **AND THE MONTH CLOCK IS PAID, IN BRACK'S OWN MOUTH, ON THE THIRTIETH OF JULY'S CHAPTER: about four kitchens in the last eight days and about nine by the thirtieth, and the cost of it is nine people a month who have stopped, and the reading did not stop with the writing, because about nine people a week are still going down to read four inches that are a hundred and twenty-two days old. THE FIGURE THE GOING QUIET COSTS IS PRINTED ONCE IN THE VOLUME, IN WORDS AND NOT IN GRAINS. THE FOUR-YEAR CLOCK IS GIVEN IN ITS OWN SENTENCE AND IS NOT DISCHARGED.**
 
-**AND THE DECISION, AT 780, IN THE OFFICE'S HAND, WITH THE DATE AT THE TOP AND HIS NAME UNDER IT, THE THIRD NEW LINE AT THE FOOT OF ONE OF ITS OWN PAGES IN NINE YEARS:**
+**AND THE DECISION, AT 780, IN THE OFFICE'S HAND, WITH THE DATE AT THE TOP AND HIS NAME UNDER IT, THE THIRD INSTRUCTION SINCE THE YEAR BEGAN AND THE FOURTH NEW LINE AT THE FOOT OF ONE OF ITS OWN PAGES:**
 
 *From the sixteenth of August of this year, whatever a person says in answer to what this office has told them is to be entered in the same row, under what they were told, in the words that person used, with a date and an hour against it, and a row may not be taken from. Lin Hao.*
 
@@ -28,21 +28,21 @@ BANK counted per file from disk and summed, never from a concatenation. **THE BA
 
 | Ch | raw | `^#` | `^##` |
 | --- | --- | --- | --- |
-| 771 | 2,023 | 1,953 | 1,961 |
-| 772 | 2,368 | 2,301 | 2,308 |
-| **773** | **3,269** | **3,189** | **3,195** |
-| 774 | 1,993 | 1,928 | 1,935 |
-| 775 | 2,195 | 2,120 | 2,125 |
-| 776 | 2,097 | 2,041 | 2,045 |
-| 777 | 1,929 | 1,867 | 1,873 |
-| 778 | 1,985 | 1,949 | 1,954 |
+| 771 | 2,022 | 1,952 | 1,960 |
+| 772 | 2,388 | 2,321 | 2,328 |
+| **773** | **3,258** | **3,178** | **3,184** |
+| 774 | 2,020 | 1,955 | 1,962 |
+| 775 | 2,192 | 2,117 | 2,122 |
+| 776 | 2,113 | 2,057 | 2,061 |
+| 777 | 1,896 | 1,834 | 1,840 |
+| 778 | 1,987 | 1,951 | 1,956 |
 | 779 | 1,906 | 1,847 | 1,853 |
-| 780 | 2,354 | 2,272 | 2,278 |
-| **BATCH** | **22,119** | **21,467** | **21,527** |
+| 780 | 2,405 | 2,323 | 2,329 |
+| **BATCH** | **22,187** | **21,535** | **21,595** |
 
 **THE FIRST EDITION OF THIS BATCH STOOD AT 17,453 raw AND 16,906 ON `^#`, AND EIGHT OF ITS TEN CHAPTERS WERE BELOW THE FLOOR OF THE BAND.** That is the same failure batch 0002 found on its own first edition and it is repaired in the prose: the eight short chapters were written longer, with new sections carrying new events — a fifth section at 775, a second sheet at 777, a frame and a sixth line at 778, a kitchen section at 779 — and no chapter was padded to reach a number.
 
-BAND **nine of ten inside 1,800–2,700 on the basis of record, the narrowest at 1,847 and the widest at 2,301. `chapter-0773.md` IS THE ONE CHAPTER OUTSIDE IT, AT 3,189 ON THE BASIS OF RECORD, AND THE REASON IS RECORDED HERE AS `outline/volume-16.md` §9 REQUIRES: it is the batch's scene, its axis is the favour, it carries a quarter-end and the reading and eleven people AND the scene in the same chapter, and the rule in `AGENTS.md` is that a scene is never compressed to fit a band. Volume 15's one chapter outside the band was 743 and Volume 16's two are 753 and 763, both scenes. NO CHAPTER IS BELOW THE FLOOR AND NONE WAS PADDED.**
+BAND **nine of ten inside 1,800–2,700 on the basis of record, the narrowest at 1,834 and the widest at 2,323. `chapter-0773.md` IS THE ONE CHAPTER OUTSIDE IT, AT 3,178 ON THE BASIS OF RECORD, AND THE REASON IS RECORDED HERE AS `outline/volume-16.md` §9 REQUIRES: it is the batch's scene, its axis is the favour, it carries a quarter-end and the reading and eleven people AND the scene in the same chapter, and the rule in `AGENTS.md` is that a scene is never compressed to fit a band. Volume 15's one chapter outside the band was 743 and Volume 16's two are 753 and 763, both scenes. NO CHAPTER IS BELOW THE FLOOR AND NONE WAS PADDED.**
 
 PARAGRAPHS **0 over roughly ninety words and 0 over roughly one hundred and twenty, across all ten files, and the longest paragraph in the batch is exactly ninety.** QUOTATION-MARK PARITY EVEN PER PARAGRAPH: 0 odd, and 0 odd `*` spans. ORPHAN SPEECH scanned separately: 0 paragraphs of speech with no quotation marks at all. THE MERGED-PARAGRAPH PROBE returns 0 sites in all ten files. **Eighteen paragraphs were over ninety words on the first edition of the prose as first written, two of them over one hundred and twenty, and all eighteen were broken at a sentence in the prose; one of the two also carried the phrase *in this chapter*, which is a class-grep hit, and the sentence was rewritten rather than the word deleted.**
 
@@ -192,7 +192,82 @@ the figure of the account in any form · any floor, ledger total or running bala
 2. **THE CARD AT 771 ASKED FOR THE FOURTH COLUMN TO FIND THE DISAGREEMENT. THE PAGE PUT IT IN A STRANGER'S HAND AT A COUNTER INSTEAD, AND PERLA QUIST IS NAMED ONLY AS THE PERSON WHO HAD ALREADY TOLD HIM, IN JUNE, WHICH DAY WAS NOT HIS — AND SHE WROTE NOTHING DOWN, AND HE DID NOT GO UP FOUR FLIGHTS.** 769 closed the stair for good and **this batch keeps it closed**: he is in that chapter only as a fact somebody else repeats, and no character asks her anything in any of the ten.
 3. **THE CARD AT 776 SAID *ABOUT NINE PEOPLE A WEEK NOW BELIEVE IT*, AND THE PAGE DID SOMETHING WORSE AND BETTER: a man said it out loud at that counter on the nineteenth of July and a clerk entered it, and it goes out on the thirtieth of September to about two thousand counters in this office's hand.** The belief is now on the page because this office put it there, and the card's *the office has a sentence in its own hand about nine feet away on the same sheet* is exactly what made it possible. **The chapter's real insight is that a denial is the only line on that page that names two things and then says they are not connected, and that what goes out of a passage is the two things.**
 4. **THE CARD AT 777 SAID THE CLERK *GETS A FACT ABOUT A BUILDING*. HE GETS ONE, AND IT IS THAT THE BUILDING HAS NO STONE ON IT AND HAS BEEN IN A BOOK SINCE THE EIGHTH OF OCTOBER OF THE FIRST YEAR, WHICH IS THE SAME DAY THE TWO RULED SQUARES WERE FIRST LEFT EMPTY — AND THE CHAPTER SAYS THE DATE IS NOT A REASON.** **And the turn is the man taking the fact down to the bottom of a wall and writing it there, which is a better-sourced sentence than the one it replaces and which this office is not permitted to ask him not to do.**
-5. **THE CARD AT 780 GAVE THE COST AS A MAN SAYING HE DOES NOT RECOGNISE HIS OWN WORDS, AND THE PAGE HAS HIM SAY THE OPPOSITE SENTENCE — *I said a building off a third court keeps a sheet. I never said a wall* — AND THE MAN HE DISPUTES IS THE MAN OF 776, WHO SAYS AT THE RAIL HE HAS HEARD IT AND IN A PASSAGE HE HAS HEARD IT INSIDE OUT.** **The three instruments stay three: the instruction of the thirtieth of March is about what a person says, the instruction of the tenth of June is about being told a thing about yourself, and this one is about what a person says in answer to being told, and Wenna Raut says so out loud at 780 in about nine seconds.**
+5. **THE CARD AT 780 GAVE THE COST AS A MAN SAYING HE DOES NOT RECOGNISE HIS OWN WORDS, AND THE PAGE HAS HIM SAY THE OPPOSITE SENTENCE — *I said a building off a third court keeps a sheet. I never said a wall* — AND THE MAN HE DISPUTES IS THE MAN OF 776, WHO SAYS AT THE RAIL HE HAS HEARD IT AND IN A PASSAGE HE HAS HEARD IT INSIDE OUT.** **THE LINES DOWN THERE ARE FOUR AND NOT THREE, BECAUSE THE NINE WORDS A MAN SAID AT THAT COUNTER ON THE NINETEENTH OF JULY ARE A LINE AND ARE NOT AN INSTRUCTION, AND 780 SAYS THAT IN ITS OWN NARRATION; `state/open-threads.md`, `outline/volume-16.md` SECTION 7 NOTE 11 AND `workspace/volume-16/batch-0004/PROMPT.md` SECTIONS 5 AND 7 ALL CARRY THE RULING SO THAT 787 PRINTS FOUR AND NOT THREE. The three instructions stay three: the instruction of the thirtieth of March is about what a person says, the instruction of the tenth of June is about being told a thing about yourself, and this one is about what a person says in answer to being told, and Wenna Raut says so out loud at 780 in about nine seconds.**
+
+## 0i. THE REVIEW-FIX PASS OF 15 OCTOBER 2026, EVERY FINDING, EVERY ANSWER, AND THE FOUR THE REVIEW DID NOT MAKE
+
+**THE REVIEW RETURNED FIVE BLOCKING FINDINGS, TEN MEDIUM AND FIVE MINOR, AND ITS RECOMMENDATION WAS ONE REPAIR PASS. ALL TWENTY ARE ANSWERED HERE. FOUR MORE DEFECTS OF THE SAME CLASS WERE FOUND WHILE MAKING THE REPAIRS AND ARE ALSO HERE. NO CHAPTER WAS RESTARTED. NO CARD WAS REWRITTEN AGAINST A NEW PLAN. `outline/ending.md` IS UNTOUCHED. NO DATE WAS RENUMBERED, NO SPINE FIGURE MOVED, NO TITLE CHANGED, AND THE PLANNED PLOT OF 771–780 IS EXACTLY WHAT IT WAS WHEN THE BATCH WAS WRITTEN.**
+
+### THE FIVE BLOCKING FINDINGS
+
+**1 · `chapter-0777.md` PRINTED ONE PARAGRAPH TWICE, FOUR LINES APART. ONE INSTANCE DELETED.** *Lin Hao walked back up the third court with the whole of it and he had it by about eleven and it was a fact about a building and it fits in on a page.* stood at the old `:113` and again at the old `:117`, with the chapter's own turn — *this office is not permitted to ask him not to* — between them. **THE SECOND INSTANCE IS GONE AND THE FIRST ONE STAYS WHERE IT IS, BECAUSE IT IS THE CHAPTER'S LAST MOVEMENT BEFORE THE FOOTERS AND THE TURN IS SUPPOSED TO BE THE LAST THING A READER HEARS.** §0e recorded a twenty-five-word prose run inside the batch and did not classify this one; **a gate that counts longest runs leaves an exact duplicate standing, and that is now written down as the seventh failure this repository carries.**
+
+**2 · `chapter-0772.md` WAS SET ON THE TWENTY-THIRD OF JUNE AND THE WOMAN SPOKE AS IF IT WERE THE NINTH OF AUGUST. TWO SENTENCES, AND ONE TRANSITION.** She said *I said it on the twenty-third of June and it is the ninth of August*, and *In about nine weeks there is going to be a third line*. **Both were left over from a draft in which the scene sat on the ninth, and `chapter-0779.md` fixes the conversation to the twenty-third of June, so the chapter was the draft that was wrong and not the chapter that checked it.** She now says she said it *on the stairs before you had got to the top of them, and it is still the twenty-third of June*, which agrees with `:37` — she has had it since the thirtieth of March and has not said it out loud to a person until this afternoon — and with 779. **The third line is now *in fifty-three days*, which is `3,075 − 3,022 = 53` and is the sixteenth of August, and the figure is checkable instead of approximate.** The cut from her front room to the top landing of a branch office is gone: he is now about three streets off it before he takes the pencil out.
+
+**3 · `chapter-0773.md` SAID *FOUR O'CLOCK IN THE AFTERNOON* INSIDE A SCENE THAT OPENS AT TEN PAST SIX AND ENDS AT ABOUT SEVEN.** The clause is cut. **Marguerite Vale still refuses to finish the sentence and still refuses it because he is rank one and has no standing, which is the reason and was always the reason.** Nothing else in the chapter moved.
+
+**4 · THE COUNT OF LINES AT THE FOOT OF THE PAGE DID NOT RECONCILE, AND 787 WOULD HAVE PRINTED THE WRONG NUMBER. ONE RULING WAS MADE, ON THE PAGE, IN 780's OWN NARRATION.** The first edition said three in three places and the page itself said four. **THE RULING: THE SHEET OF THE THIRTIETH OF SEPTEMBER CARRIES FOUR NEW LINES IN THIS OFFICE'S HAND UNDER THE FOUR SENTENCES AND ABOVE THE STRIKING — the thirtieth of March, the tenth of June, the nine words a man said at that counter on the nineteenth of July, and the sixteenth of August — AND THREE OF THE FOUR ARE INSTRUCTIONS AND THE JULY ONE IS NOT, BECAUSE IT IS A SENTENCE A PERSON SAID OUT LOUD IN A ROOM.** What changed, and nothing else:
+
+- `chapter-0780.md`:85 no longer says the sixteenth of August is *the third line*. **It now says it is the third instruction this office has made in its own hand since the year began and the fourth line down there, and gives the reason in the sentence.**
+- `chapter-0780.md`:153 no longer says the next sheet will have three lines. **It says four.**
+- `chapter-0780.md`:117 no longer says *three lines in nine months*. **It says four**, and it is the clerk's own mouth.
+- `chapter-0780.md`'s first footer no longer says *a third line went into the foot of the page*. **It says a third instruction went into the foot of the page, which is the fourth line in it.**
+- `chapter-0776.md`:123 no longer has the counterman claiming he has read three new lines when two of them are the only two that have gone out. **He now says he has read two, names which of the two he has read, and says the third is about the same kind of thing and goes out on the thirtieth of September.**
+- `chapter-0773.md`:119 no longer has Marguerite Vale counting three lines on the thirtieth of June. **She counts two**, which is what exists on that afternoon, and the second of them is still the tenth of June.
+- `chapter-0779.md`:105 no longer promises *one more line*. **It promises two**, which is what the thirtieth of September carries over the thirtieth of June, and the sentence about the timing is corrected from about four weeks to about seven weeks, which is `3,119 − 3,068 = 51`.
+- **`outline/volume-16.md` §7 movement-three note 11, the 787 card, `workspace/volume-16/batch-0004/PROMPT.md` §5 and §7 and `state/open-threads.md` all carry the ruling, and 787 is told in three places to print four and not three.**
+
+**5 · THE NINETEENTH OF JULY CORRIDOR HAD FOUR PEOPLE REPEATING THE SENTENCE IN 776 AND ONE IN 780. ONE SENTENCE.** Wenna Raut now says *four of them repeated it back to each other while I was writing, in the wrong order*, which is `:79` of 776 and which is what she would have seen. **The figure of about nine people hearing it in both chapters stands, because both are counting the corridor and not the four.**
+
+### THE TEN MEDIUM FINDINGS
+
+**6 · `776` CALLED THE SHEET ON THE RAIL *THE THIRTIETH OF JUNE ONE*.** It is the thirty-fourth sheet, face up since the thirtieth of June of this year, which is the chapter's own footer. **It now says of this year.**
+
+**7 · `776` SAID SEVENTY-TWO DAYS TO THE THIRTIETH OF SEPTEMBER.** `3,119 − 3,048 = 71`. **The sentence and the section heading both say seventy-one**, and the heading was as wrong as the sentence.
+
+**8 · `779` SAID THE SAME PAGE GOES OUT IN ABOUT FOUR WEEKS.** From the ninth of August the quarter-end is fifty-one days out. **It is about seven weeks now, and the line figure in the same sentence changed with finding 4.**
+
+**9 · `774:43` WAS REPORTED AS SAYING *ABOUT FOUR FEET OF DRESSED STONE*. IT SAYS *ABOUT NINE FEET*, AND IT SAID NINE FEET WHEN THE REVIEW READ IT. NO CHANGE WAS MADE AND NONE WAS NEEDED.** `chapter-0776.md`'s heading is *Nine Feet Of Dressed Stone* and `chapter-0779.md`:41 is *Nine feet of dressed stone*; the four feet in that sentence is the width of the corridor, which is what 776:77 and 777:15 also say. **A finding that does not survive being re-read against the file is not repaired, and the file is not changed to agree with it.**
+
+**10 · `771:31` PUT THE FIRST DAY IN *A LAIR OFF CORDWAIN*, AND `:43` PUT THE SAME WOMAN IN *A LAIR FOUR STREETS AWAY*.** Cordwain is the rail passage; the bench is four streets away on a street two streets wide and has been so since 751. **The first day is now written *at his own table*, which is what a man does before he takes a paper up four flights, and the woman is named.**
+
+**11 · `771:45` DESCRIBED HER AS *A WOMAN WHO KEEPS AN INDEX*.** **Perla Quist is now named at `:43` and `:45`, twice, which is what she is named in six files of 751–770 and what finding 14 below says the gate should have said.**
+
+**12 · `774:85` SAID *THE INSTRUCTION OF THE TENTH OF MARCH*, AND `:87` COUNTS THE SAME SERIES SINCE THE TENTH OF JUNE.** **It is the tenth of June**, and the count it supports is a count of people at a counter and not of papers.
+
+**13 · `775:31` SAID ABOUT NINE OF THEM WENT DOWN IN THE LAST SEVEN DAYS AND `775:43` HAS BRACK SAY *SEVEN*.** **Narration now reads seven for the last seven days, nine for the week before and nine for the week before that, and the chapter's whole argument — that this man counts, and that the counts are kept apart — is what it claims it is.**
+
+**14 · `774:119` AND `:121` PRINTED THE SAME SUBTRACTION TWICE.** **The second footer is rewritten and now carries new information instead of a repeat: the day a sheet goes face up on a rail and the day a thing happens to a person are two different days, and nothing in this city says which of the two a man has written.** The interval is unchanged and still parses. **It is the volume's own subject put in an arithmetic frame, and 771 opened the batch on it.**
+
+**15 · `state/open-threads.md` MUST-NOT 10 SAID PERLA QUIST IS NAMED THREE TIMES IN THIS BATCH. SHE WAS NAMED ZERO.** **She is now named twice, at 771, and the gate says so; at 778 she is one of the list of five and is not named inside it, which is better and was the page's own doing.** The claim is corrected in `state/open-threads.md` and nothing in the gate now asserts a count the files do not carry.
+
+**16 · `batch-0004/PROMPT.md` AND `outline/volume-16.md` CARRIED 790's INSTRUCTION AS REFERRING TO *THE SIXTEENTH OF AUGUST OF LAST YEAR*.** `780:79` dates it the sixteenth of August of this year and 790 is the twentieth of October of this year. **It is now of this year in both files, and the error was in the next prompt before it was dispatched.**
+
+### THE FIVE MINOR FINDINGS
+
+**17 · `777:27` READ *A THING THAT CLERK HAS DONE*.** **It now reads *which is a thing the clerk has watched him do about four times in five years*,** which is also the observation rather than the gesture.
+
+**18 · `775:19`'s *A MAN IN A WHITE PLATE* IS NOT A SLIP AND WAS NOT TOUCHED.** It is the white plate with no figure cut into it, it is in fifteen chapters of Volumes 14 and 15, and it is Lin Hao. **The reviewer read it as a garble for a coat; the batch's own summary row propagates the phrase correctly and both stand.**
+
+**19 · `772:9` READ *A CANOPY AT AND THE BULB*.** **It now reads *a canopy at night*,** which is also why there is no bulb in the lamp.
+
+**20 · `774:11` SLIPPED TENSE INSIDE ONE PARAGRAPH.** Present perfect, then past, then past. **It is now *He carried … He had never once opened … and when Lin Hao asked him…*, all past and all about one afternoon on a landing.**
+
+**21 · `773:143` READ *THAT IS ON THE HANDS OF ABOUT NINE PEOPLE IN THIS TRADE*.** **It is now *on about nine other pairs of hands in this trade and on hers*,** which is what the sentence in front of it describes.
+
+### THE FOUR THE REVIEW DID NOT MAKE, WHICH THE SAME WORK TURNED UP
+
+**22 · `774:77` GAVE THE AGE OF THE TWO LINES AS *ELEVEN WEEKS OLD AND FOUR DAYS OLD*, AND NEITHER IS TRUE.** The thirtieth of March is `3,035 − 2,939 = 96` days old and the tenth of June is `3,035 − 3,009 = 26`. **It now says ninety-six days and twenty-six days, and the sentence is checkable.** **A figure on this page that nobody re-computes is the figure that is wrong, and this one survived the first edition, the second and a review.**
+
+**23 · `776:71` HAD *WOULD HAVE HAVE BEEN ME PUTTING A SENTENCE INTO THE MOUTH*.** One *have* gone.
+
+**24 · `773:63` SAID *A FIRE IN IT IN THE FOURTH YEAR OF THE BOOK*.** **It now says in the fourth year**, which is the idiom of the volume and which 773:71 and 773:115 both use. **The meta class pattern carries *this book* and not *of the book*, and a pattern is not a gate.**
+
+**25 · `778:25` HAD A CLERK TELLING HIM, ON THE SECOND OF AUGUST, THAT ABOUT FOUR HUNDRED PEOPLE *WERE ANSWERABLE*.** That is the sixteenth of August's word and it means the opposite of what the chapter needs: on the second of August those four hundred have been written down and cannot answer. **It now says they had been written down in public and in their own words, and that there was no way at all in Ostara to give any of it back**, which is the state the list of five is built on. **780 keeps its word and keeps its date.**
+
+### AND THE GATE WAS RE-RUN FROM DISK AFTER ALL OF IT
+
+Word counts and both columns, the band, the paragraph lengths, the exact-duplicate line scan, the class grep, the markdown class, the digits, the weeknames, the bold and italic parity and the thirty footer subtractions were all re-measured in the same commit that made the repairs. **Ten files, thirty footer clauses parsed off thirty pages and re-derived against the chapter's own day, THIRTY PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES.** **The longest paragraph in the batch is exactly ninety words and is at 774, and it is a paragraph this pass edited and did not lengthen.** **Zero exact duplicate lines across all ten files, where there was one.** **Nine of ten inside the band, the narrowest at 1,834 and the widest at 2,323, and 773 outside it for the reason recorded in §0a.** **The spine, the rail and the head were not touched by any edit in this pass and re-derive exactly.** **No watch-construction figure moved: the no-form family is five, the no-instrument family is four, nobody and no one together are two, and the worst single chapter in any capped family is one.**
 
 # VOLUME 16 BATCH 0002 WRITTEN — **CHAPTERS 761–770 ARE ON DISK AND FINISHED. MOVEMENT TWO, *THE GOING QUIET*. 20,911 WORDS RAW, 20,338 ON THE BASIS OF RECORD, 20,394 ON `^##`, COUNTED PER FILE AND SUMMED FROM DISK AFTER THE REVIEW-FIX PASS.** TEN TITLES, ZERO COLLISIONS ACROSS 770 WRITTEN TITLE LINES. THE SCENE IS AT 763 AND IT IS TESSA OKONKWO'S. THE MOVEMENT'S IRREVERSIBLE DECISION IS AT 770 AND IT IS HIS. `state/current.md` LIVE BLOCK, `state/continuity.md` SPINE BLOCK, `state/open-threads.md` VOLUME-WIDE GATE, `state/chapter-summaries.md` TEN ROWS, THE CARDS FOR 761–770 WRITTEN AGAINST THE PAGE, AND `workspace/volume-16/batch-0003/PROMPT.md` ARE IN THE SAME COMMIT. `outline/ending.md` IS UNTOUCHED. `state/complete.md` IS NOT CREATED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 

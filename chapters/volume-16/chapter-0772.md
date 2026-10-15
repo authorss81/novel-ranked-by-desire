@@ -6,7 +6,7 @@ Three thousand and sixteen was the seventeenth of June and the twenty-third is d
 
 She has mended umbrellas in that front room for about nineteen years and the room is eleven feet by nine and has a board floor with the boards warped in a curve towards the door, and there are about forty umbrella ribs on the wall on nails and about nine canes in a bundle standing in the corner that is never moved.
 
-There is a frame on the bench, a wooden clamp, and a bed of nails with the shine worn off two of them. There is a lamp with a green shade and no bulb in it because the lamp is for looking through a canopy at and the bulb in it went in the third year and she never replaced it.
+There is a frame on the bench, a wooden clamp, and a bed of nails with the shine worn off two of them. There is a lamp with a green shade and no bulb in it because the lamp is for looking through a canopy at night and the bulb in it went in the third year and she never replaced it.
 
 She learned her writing in a schoolroom and had not needed it for about six years until the middle of last year, and she charges nothing, and she has never asked anybody for anything in that room.
 
@@ -76,7 +76,7 @@ She put the canopy down and squared a rib against the frame with her thumbnail.
 
 “You said there would be four more.”
 
-“I said there would be four other versions and that every one of them would be wrong in a different direction,” said the woman who mends umbrellas, “and I said it on the twenty-third of June and it is the ninth of August and there are three of them that I have been asked about by people who found out by themselves, and I have not been asked about the fourth because the woman who has it cannot read it either.”
+“I said there would be four other versions and that every one of them would be wrong in a different direction,” said the woman who mends umbrellas, “and I said it on the stairs before you had got to the top of them, and it is still the twenty-third of June, and there are three of them that have been brought to me by people who found out by themselves, and I have not been asked about the fourth because the woman who has it cannot read it either.”
 
 She turned round and looked at him properly for the first time that afternoon.
 
@@ -120,7 +120,7 @@ She put the frame down on the bench and turned the lamp shade a quarter, which s
 
 “Say it.”
 
-“In about nine weeks there is going to be a third line at the bottom of that page,” said the woman who mends umbrellas. “I have known that since the tenth of June, the same way I knew the other four, and I cannot tell you how I know it, and I have been wrong about two things in nineteen years and one of them was about a winding.”
+“In fifty-three days there is going to be a third line at the bottom of that page,” said the woman who mends umbrellas. “I have known that since the tenth of June, the same way I knew the other four, and I cannot tell you how I know it, and I have been wrong about two things in nineteen years and one of them was about a winding.”
 
 “Then you are right about that as well.”
 
@@ -132,7 +132,7 @@ She put her hand on the frame and left it there.
 
 “I will write it out because that is what this room is, and I will not keep one of them, and you can do what you like with that.”
 
-He wrote it on the back of his own left hand at about three o’clock on the top landing of a branch office, in pencil, and there were seven other things on that hand by then, and one of them had been there since the eighth of February.
+He was about three streets off it before he took the pencil out, and he wrote it on the back of his own left hand at about three o’clock on the top landing of a branch office, and there were seven other things on that hand by then, and one of them had been there since the eighth of February.
 
 *Three thousand and twenty-two days. Less three thousand and sixteen, the seventeenth of June of this year, is six, and a woman who mends umbrellas was right about a second thing about the foot of the page, and there is a word crossed out in pencil in this city on four different copies and a word struck in ink on a fifth, and she keeps none of them and has never had a reason to.*
 

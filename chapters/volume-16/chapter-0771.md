@@ -28,7 +28,7 @@ That is the whole of what was said about it and it took about nine seconds and b
 
 He said it because she asked, and she asked because a counter in this city is a thing that knows where a thing came from, and this is the part of it that takes about nine seconds and never varies.
 
-He wrote the first day in a lair off Cordwain in about October of last year. He wrote it at the bottom of his own paper and he put a day against it because a person puts a day against a thing they have done.
+He wrote the first day at his own table in about October of last year. He wrote it at the bottom of his own paper and he put a day against it because a person puts a day against a thing they have done.
 
 He took the paper up four flights to a bench off a street two streets wide because that is what about four hundred people have done with a paper in this city, and the woman at that bench carried it on.
 
@@ -40,9 +40,9 @@ The clerk at that window looked at it for about nine seconds and stamped the foo
 
 ## A Woman With A Pencil Told Him In June
 
-He had it before he came up the stair, because a woman in a lair four streets away had said it to him in June and had said it twice and had not wanted to be thanked for it.
+He had it before he came up the stair, because Perla Quist had said it to him in June at a bench four streets away and had said it twice and had not wanted to be thanked for it.
 
-A woman keeps an index up four flights of a stair two streets wide, and it may not be cited by anybody in any division in this city, and it has never once been cited in six years, and she has said no to him six times about nine different things and has been right six times.
+Perla Quist keeps an index up four flights of a stair two streets wide, and it may not be cited by anybody in any division in this city, and it has never once been cited in six years, and she has said no to him six times about nine different things and has been right six times.
 
 About nine people a month go up that stair with a piece of pencil paper and carry it on again. On the ninth of June this man was the eighth of those about nine, and she told him in about nine seconds that the second day was not his day, and she told him why, and she wrote nothing down.
 
@@ -74,7 +74,7 @@ He said it in the ordinary voice and about nine people were in that corridor and
 
 The instruction of the thirtieth of March says that when a person says a thing at that counter this office writes it down in the words that person used, with a date against it and an hour against the date, on the standing sheet and not in the second column.
 
-So there are now two lines under the four sentences on the sheet that goes out at four o’clock on the thirtieth of September, in this office’s hand, with a date and an hour against them, and neither of the two lines says anything about a person.
+So there are now two lines under the four sentences on the sheet that goes out at four o’clock on the thirtieth of June, in this office’s hand, with a date and an hour against them, and neither of the two lines says anything about a person.
 
 It goes out in thirteen days and about two thousand counters hold it.
 

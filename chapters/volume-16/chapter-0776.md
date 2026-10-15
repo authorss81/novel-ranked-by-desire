@@ -52,7 +52,7 @@ She wrote for about forty seconds in the words that were used, with the date at 
 
 Then she squared the book to the edge of the table with both hands.
 
-“It is under the four sentences and above the striking and in no column anywhere on it,” she said, “and the page goes out at four o’clock on the thirtieth of September, which is seventy-two days from now, and about two thousand counters will hold it, and a man who is paid nothing will read it out loud at a rail to about nine people a week.”
+“It is under the four sentences and above the striking and in no column anywhere on it,” she said, “and the page goes out at four o’clock on the thirtieth of September, which is seventy-one days from now, and about two thousand counters will hold it, and a man who is paid nothing will read it out loud at a rail to about nine people a week.”
 
 “I know what you have done.”
 
@@ -68,7 +68,7 @@ Wenna Raut did not pick the pen up.
 
 “That would have been better.”
 
-“That would have have been me putting a sentence into the mouth of a person who had not said it,” said Wenna Raut, “and you have spent nine years making sure that I never do that, and you have not once done it yourself, and if I started doing it this morning you would take that book away from me and you would be right to.”
+“That would have been me putting a sentence into the mouth of a person who had not said it,” said Wenna Raut, “and you have spent nine years making sure that I never do that, and you have not once done it yourself, and if I started doing it this morning you would take that book away from me and you would be right to.”
 
 She squared it again.
 
@@ -94,11 +94,11 @@ He put the pencil paper back in his coat.
 
 “No,” said Wenna Raut. “I can tell you that this office holds about four hundred pieces of paper and a page that goes out four times a year and that the office is not a stone and does not keep one. That is not the same sentence and I am not permitted to improve yours into mine.”
 
-## Seventy-Two Days
+## Seventy-One Days
 
 He went down to the passage off Cordwain at about ten minutes to five and stood nine feet back from the rail with his hands in his coat pockets and watched a man who is paid nothing read the bottom of a page to four people.
 
-The page in front of that man is the thirtieth of June one. It has four sentences at the foot of it and a denial and two lines in this office’s hand.
+The page in front of that man is the thirtieth of June of this year. It has four sentences at the foot of it and a denial and two lines in this office’s hand.
 
 The denial has the word *no* in it twice and it is about nine feet above the four lines of the column, and the two new lines are in this office’s hand with a man’s name under each of them, and about four hundred and nineteen lines run down the middle of it with a date and an hour against every one.
 
@@ -120,7 +120,7 @@ He stood there until the four had gone and there was not one person left at the 
 
 “I have.”
 
-“That is the third line that has come off that page since the year began and I have read all three of them and I could not tell you one thing about any of them,” said the counterman, “and the first two were not about anybody either, and now there are two of them that are about what people said, and about nine people a week are going to hear that.”
+“That is the third line that has come off that page since the year began and I have read two of them and I could not tell you one thing about either,” said the counterman, “and the second of the two was about what a person said in a room and went out on the thirtieth of June, and this one is about the same thing and it goes out on the thirtieth of September, and about nine people a week are going to hear it.”
 
 He put his thumb on the edge of the rail.
 

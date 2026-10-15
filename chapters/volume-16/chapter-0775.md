@@ -28,7 +28,7 @@ The bottom two inches of that wall under the striking at the foot of the hill ha
 
 That is a hundred and twenty-two days on the thirteenth of July, and a piece of rag paper about the size of the foot of a printed page, and about nine words in it, and it is about a thing that happened to somebody else in a doorway.
 
-About nine people in a week get down low enough to read those four inches. About nine of them did it in the last seven days and about nine of them did it the week before that and about nine of them did it the week before that.
+About nine people in a week get down low enough to read those four inches. Seven of them did it in the last seven days, and nine of them did it the week before that, and nine of them did it the week before that.
 
 They have been going down there since March and finding nothing, and they have gone down there again, and they will go down there again this week.
 

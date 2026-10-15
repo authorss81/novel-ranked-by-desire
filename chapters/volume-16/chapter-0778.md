@@ -22,7 +22,7 @@ It went into a laundry in June, when a woman with a pencil said no out loud for 
 
 It went into a lane in July, when a man with a slate said there was nowhere left to put a thing he wanted unprinted and then told him that four men had asked him about a building and that he had said no four times and it had not worked once.
 
-And it went into a room off a third court in July, where a clerk told him that about four hundred people were answerable in public and in their own words for what they said out loud, and that there was no way at all in Ostara to give any of it back.
+And it went into a room off a third court in July, where a clerk told him that about four hundred people had been written down in public and in their own words for what they said out loud, and that there was no way at all in Ostara to give any of it back.
 
 Five sentences in three months, out of five refusals, and not one of the five was against him.
 

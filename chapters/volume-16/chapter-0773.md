@@ -60,7 +60,7 @@ The eleven went back up the lane. He squared the sheet against the edge of the r
 
 He went down Cordwain at about ten past six with a question he had carried up two flights and down two corridors since the eighth of February.
 
-The guild house has a passage four feet wide and a door at the back of it with a bar across it, and behind that door a strongroom with a shelf of iron-strapped boxes on it and about four hundred ounces of wax in a pan on the corner, and the whole of that floor has been cold since a fire in it in the fourth year of the book.
+The guild house has a passage four feet wide and a door at the back of it with a bar across it, and behind that door a strongroom with a shelf of iron-strapped boxes on it and about four hundred ounces of wax in a pan on the corner, and the whole of that floor has been cold since a fire in it in the fourth year.
 
 The woman who brokers for four guilds in this city keeps nothing up those steps that may be read out to anybody, and the room she receives a person in is one floor above the bar.
 
@@ -116,13 +116,13 @@ She said it in the voice she uses over a counter, which is a voice about four pe
 
 “Yes.”
 
-“In the last three months that office has put three lines in its own hand at the foot of a page that goes to about two thousand counters four times a year,” said Marguerite Vale, “and the second of them says that a person may be told what that office holds about them.”
+“In the last three months that office has put two lines in its own hand at the foot of a page that goes to about two thousand counters four times a year,” said Marguerite Vale, “and the second of them says that a person may be told what that office holds about them.”
 
 “And in the last six weeks a man with a cap has read the bottom of that page out loud in a passage off Cordwain to about nine people a week. And about nine people a month have come up a stair to a counter and asked to be told something, and they have been told something.”
 
 She came round the table.
 
-“That is the thing I have wanted since before the Vant bought my books, and I am not going to say the rest of it in this room this evening because it is four o’clock in the afternoon and you are rank one and you have no standing to be told what I think about it.”
+“That is the thing I have wanted since before the Vant bought my books, and I am not going to say the rest of it in this room this evening because you are rank one and you have no standing to be told what I think about it.”
 
 Then she pulled her collar back off her neck with two fingers and did not go near the chair.
 
@@ -140,7 +140,7 @@ He said it.
 
 She took her clothes off the way a person takes off a thing that is in the way, over her head and off both arms, and one shoe and then the other hooked off with two fingers. She was quick at all of it and she was not once showing anybody anything.
 
-Her belly is soft below the front, and the skin at the sides of her nails has gone hard and glossy the way leather goes. That is on the hands of about nine people in this trade and on hers.
+Her belly is soft below the front, and the skin at the sides of her nails has gone hard and glossy the way leather goes. That is on about nine other pairs of hands in this trade and on hers.
 
 She got him out of the coat and out of the rest of it in about eleven seconds and then she put her mouth on him and took the whole of him, tongue first and then deep, and her hands at his hips did not go anywhere else and did not need to.
 
