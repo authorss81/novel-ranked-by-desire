@@ -1,3 +1,13 @@
+# VOLUME 16 BATCH 0005 ON DISK — **THE VOLUME-WIDE GATE. CHAPTERS 791–800 WRITTEN. VOLUME CLOSED. ONE THREAD OPENED (ANY PERSON MAY ASK), THREE PERMITTED CLOSURES COMPLETED, NONE OF THE TEN MUST-NOTS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THREADS ADVANCED AND CLOSED
+
+**OPENED: any person may now ask this office anything about any paper, with answer in writing, both in Register in words used.** First asker after second December is the woman who cannot read, at 799, answered with a permission. **CLOSED (permitted three): blank field of Oct year eight completed at 799 out of her mouth; second sheet at foot of wall at 798 with pencil line, row about non-event standing; month clock paid (about nine asked instead of about nine quiet, 791).** Four-year clock not discharged and may not be. His own August blank untouched and may never be completed in 751–800.
+
+## TEN MUST-NOTS, RE-RUN ACROSS TEN FILES
+
+1. NOBODY SENT / NOT TRACED / NOT ASKED: 798–799 she comes on her own; who told her not established; man with cap never named. 2. BROOM woman absent, unnamed, unasked. 3. BOY unasked, unaged; at 795/798/800 with brush/shoe, wanted sentence unsaid. 4. TWO WORDS never printed; 800 names them as unprinted. 5. NO YARD, NO DOCKET DATE, NO BAND/PERMISSION/RANK/SHIFT change; rank one branch nights intact. 6. HEAD once at 800 only. 7. NO RETURN-REACH argument, NO fourth condition, NO account figure/floor/total, settl 0. 8. NO NEW ENEMY. 9. ending.md UNTOUCHED. 10. PERLA standing on roll never stated nor denied; PC-44 holds.
+
 # VOLUME 16 BATCH 0004 ON DISK — **THE VOLUME-WIDE GATE, RE-RUN BY COMMAND AFTER THE LAST EDIT. CHAPTERS 781–790 ARE WRITTEN. ONE THREAD ADVANCED INTO A DIFFERENT SITUATION, ONE OPENED BY A MAN IN A CORRIDOR, NONE CLOSED, NONE OF THE TEN MUST-NOTS WAS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THE THREAD THAT ADVANCED AND IS NOW A DIFFERENT SITUATION

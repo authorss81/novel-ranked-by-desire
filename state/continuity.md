@@ -1,3 +1,22 @@
+# VOLUME 16 BATCH 0005 ON DISK — **THE SPINE BLOCK. 3,146 TO 3,209. EVERY INTERVAL SEVEN. RAIL 27 TO 90 OFF ANCHOR 3,119. HEAD AT 800. SECOND COLUMN FOUR LINES THROUGHOUT. VOLUME CLOSED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE SPINE AS THE PAGE FIXED IT
+
+```
+METHOD A (y-1)x360+off[m]+(d-1). METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4 Jul 5 Aug 6 Sep 7 Oct 8 Nov 9 Dec 10.
+791 27 Oct 3,146 +7 SEAM · 792 4 Nov 3,153 +7 · 793 11 Nov 3,160 +7 SCENE · 794 18 Nov 3,167 +7 · 795 25 Nov 3,174 +7 · 796 2 Dec 3,181 +7 IRREVERSIBLE · 797 9 Dec 3,188 +7 · 798 16 Dec 3,195 +7 · 799 23 Dec 3,202 +7 TWELFTH · 800 30 Dec 3,209 +7 QUARTER-END 36th sheet
+METHODS AGREE TEN OF TEN. ZERO VIOLATIONS.
+SEAM 3,146-3,139=7 own column. NINE 7x9=63 and 3,209-3,146=63.
+```
+
+## THE RAIL
+
+RULE chapter day less day current sheet went up; current sheet goes up on quarter-end. Thirty-fifth went up 3,119 on thirtieth September. `791 27 · 792 34 · 793 41 · 794 48 · 795 55 · 796 62 · 797 69 · 798 76 · 799 83 · 800 90, came down at four, thirty-sixth went up.` TEN CLAUSES RE-DERIVED, ZERO MISMATCHES.
+
+## WHAT MOVED IN 791–800
+
+PAGE NOW CARRIES SIX LINES IN OFFICE HAND: March · June · July nine words (line, not instruction) · August · October denial-read-aloud · December any-person-may-ask (last ever). HEAD 852 unmoved across twenty sheets and nineteen quarters at 800. COLUMN four lines, no fifth anywhere in batch. BUNDLE twenty-six, nothing on/off. DRAWER shut, never opened. REGISTER adds December questions in strangers words; blank field of Oct year eight completed at 799 out of her mouth; his own August blank untouched. CORNER: form since seventh, two squares empty, her sheet under them with pencil line in her own hand; forty words in four hands on stone since October; two words never written anywhere and not written here. KITCHENS: about four hundred never told why; about nine came and asked; one answer wrong and answered under.
+
 # VOLUME 16 BATCH 0004 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,082 TO 3,139. FORTY INTERVALS PARSED OFF THIRTY PAGES, FORTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, RE-RUN FROM DISK AFTER THE LAST EDIT. IT FOUND A DEFECT IN 787's OWN OPENER AND 787 WAS REWRITTEN IN THE PROSE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
