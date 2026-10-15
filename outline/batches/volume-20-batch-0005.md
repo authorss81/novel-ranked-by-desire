@@ -1,0 +1,296 @@
+# Volume 20 Batch 0005 — Chapters 991–1000 (THE LAST MORNING)
+
+**Batch number:** 0005. **Chapter range:** 991–1000. **Movement:** five of five (THE LAST MORNING, 28 October – 30 December year thirteen, spine 4,587–4,649). **Written against the page of 981–990 as batch 0004 wrote it and as its fourteen-item and nineteen-item fix passes repaired it, and against `state/continuity.md` §0d and `state/open-threads.md` §7e, §7f and §7g.** Movement five's one-line table in `outline/volume-20.md` §7 is replaced in place by what these cards say, **in the same commit as the chapters, including the row for 992, which is the one row in this volume no chapter could execute.**
+
+**Batch goal:** find out what a voice costs when it has been given away four times, find out that the mouth cannot be checked by the man who owns it, and end by stopping, in the only instrument in this book that cannot be called back.
+
+**Starting condition, read off the page of 981–990 and not off the plan:** the register is back, lighter and quieter, with a tradesman's mark in pencil inside its front board and its last row dated the twelfth of August, which is the day it went out of that room. The three of them have answered in their own words since the twenty-first of October and each has already said out loud that a stranger will get three different sentences for the same question. A rule that came off a stair with no date on it is being enforced by a person who is right about it every time. Agnete Lindqvist has been conceded the whole of her argument in her own mouth. A fourth true clause about the light has been welded onto those three lines by a man being kind since about the twenty-third of January and its author has gone. A man in a street says his price before he names the door and has never been up those four flights.
+
+**Batch midpoint:** 993, Isolde Marchetti, a scene, seven hundred and thirty-two chapters after 261.
+
+**Batch climax:** 1000, the volume's irreversible decision, his, in a mouth, at the foot of his own stair, in the dark.
+
+**Required character changes:** he finds out that the free pavement works and that his body has stopped being load-bearing; he finds out that the kindness he set off in January has become the hours of a door and cannot be traced; he is told by the last woman in the book that he has not given the office away, he has given it to a rehearsal; he is given a second true copy of those three lines out of a mouth he has never touched and cannot acknowledge; he cannot read his own card; he is told by a carrier with a bad back what his own decision did to her stair; he refuses a figure for the arithmetic reason rather than the moral one; he refuses to promise a thing he has not decided; and he stops.
+
+**Required power changes:** none. Rank one throughout. No band, permission, standing or shift change, the branch night shift is not moved and the four nights in seven are not moved. The mornings are not bought and not asked for. No reservoir and none drawn on. No gift used as a mechanism anywhere in this batch and none manufactured for anybody. **NO INK: there is not one mark made on one piece of paper by anybody in that building in any of the ten chapters.** No form falls on a chapter day in this batch.
+
+---
+
+## SPINE, RAIL, DRAWER, HEAD, FORM — RE-DERIVED HERE, NOT COPIED FROM THE CHAPTERS THEY CHECK
+
+```
+SPINE, 991-1000   991 4,587 · 992 4,594 · 993 4,601 · 994 4,608 · 995 4,615 ·
+                   996 4,622 · 997 4,629 · 998 4,636 · 999 4,643 · 1000 4,649
+Fence             interior nine 7 7 7 7 7 7 7 7 6 = 62, and 4,649 - 4,587 = 62
+                  seam to movement four 991-990 = 7, which is not the seam: the seam
+                  is the twenty-day renewal crossing 4,289 -> 4,309 and means that
+                  and nothing else
+                  METHOD A  (y-1) x 360 + off[m] + (d-1), off Oct 240 Nov 270 Dec 300
+                  METHOD B  i = (y-1)*12 + pos[m], day = 30i + (d-1), zero-indexed,
+                            pos Oct 8 Nov 9 Dec 10
+                  BOTH AGREE ON ALL TEN DATES AND SHARE NO CONSTANT. A JANUARY IS THE
+                  TWELFTH MONTH OF THE YEAR THAT BEGAN IN FEBRUARY AND i = (y-2)*12+11;
+                  THERE IS NO JANUARY AMONG THESE TEN DATES AND THE RULE IS CARRIED
+                  ANYWAY SO THAT A LATER BATCH DOES NOT HAVE TO DERIVE IT TWICE.
+CROSSINGS         991->992 AND 995->996, THE SECOND FORM, WORD FOR WORD, WITH THE
+                  CROSSING NAMED AS ITSELF AND THE DAY NUMBER NOT PRINTED INSIDE IT:
+                  "the twenty-eighth of this one and the fifth of the next one is day
+                   <D>, and <D> less <M>, the twenty-eighth of this one, is seven, and
+                   thirty less twenty-eight is two, and two with five taken out of the
+                   next month is seven by the month count with the crossing named as itself"
+                  995->996 IS THE SAME FORM AT ITS OWN OPERANDS: twenty-six and three,
+                  four out of the thirtieth and three out of the next month.
+                  THE OTHER SEVEN TAKE "the <N> of this one" WITH PLAIN SUBTRACTION.
+                  999->1000 IS A QUARTER-END INTERVAL AND NOT A CROSSING, SO IT PRINTS
+                  "the twenty-fourth of this one" WITH PLAIN SUBTRACTION AND SIX.
+                  *** 993 IS MARKED CROSSING IN ONE PLACE IN THE MOVEMENT-FIVE ROW OF THE
+                  PROMPT AND IS NOT ONE. NOVEMBER THE FIFTH TO NOVEMBER THE TWELFTH
+                  STAYS INSIDE ONE MONTH. THE INSTRUMENT GOVERNS. ***
+RAIL              THE ROW BREAKS AT 1000 AND NOWHERE ELSE. THE FIFTY-FIRST WENT UP AT
+                  4,559, THE THIRTIETH OF SEPTEMBER, AND EVERY FIGURE FROM 991 TO 1000
+                  IS RE-DERIVED AGAINST THAT ANCHOR AND NOT CARRIED DOWN:
+                   991 28 · 992 35 · 993 42 · 994 49 · 995 56 · 996 63 · 997 70 ·
+                   998 77 · 999 84 · 1000 90
+                  and at 1000 the fifty-first comes off that rail at about four and the
+                  fifty-second goes up on the same two nails carrying no new line.
+                  EVERY FOOTER NAMES ITS OWN ANCHOR IN FULL AND NOT A RELATIVE PHRASE.
+DRAWER            991 2,167 = 72 x 30 + 7 · 992 2,174 = 72 x 30 + 14 ·
+                  993 2,181 = 72 x 30 + 21 · 994 2,188 = 72 x 30 + 28 ·
+                  995 2,195 = 73 x 30 + 5 · 996 2,202 = 73 x 30 + 12 ·
+                  997 2,209 = 73 x 30 + 19 · 998 2,216 = 73 x 30 + 26 ·
+                  999 2,223 = 74 x 30 + 3 · 1000 2,229 = 74 x 30 + 9
+                  *** THE PROMPT'S OWN DRAWER ROW FOR 1000 READS 2,230 = 74 x 30 + 10
+                  AND IT IS WRONG BY ONE. 4,649 - 2,420 = 2,229. THE ERROR IS 999's
+                  CELL PLUS SEVEN INSTEAD OF PLUS SIX, AND PLUS SEVEN IS THE INTERVAL
+                  EVERY OTHER CHAPTER IN THIS BATCH RUNS ON. IT IS THE ONE FIGURE IN
+                  THIS PROMPT THAT WAS COPIED DOWN INSTEAD OF RE-DERIVED AND IT LOOKS
+                  RIGHT, BECAUSE SEVEN TO SEVEN TO SIX STILL CLIMBS. THE PAGE PRINTS
+                  2,229 = 74 x 30 + 9. SEE ADJUDICATION 1. ***
+                  The month count at 1000 is seventy-four months and nine days. The
+                  prompt's note of a seventy-seventh month at 1000 does not survive the
+                  same subtraction and no month is named in the body of any of the ten.
+HEAD              PRINTED AT 1000 AND AT NO OTHER CHAPTER IN THIS BATCH, WITH BOTH OF
+                  ITS FIGURES IN ONE BREATH, WHICH IS WHAT A SECOND REVIEW OF 971-980
+                  FOUND 974 WAS NOT DOING AND WHAT 987 FIXED: "four thousand six hundred
+                  and forty-nine less one thousand four hundred and ninety-nine is three
+                  thousand one hundred and fifty, which is thirty-five times ninety,
+                  thirty-six sheets and thirty-five quarters differing by one, and the
+                  figure standing at the head of that sheet is eight hundred and fifty-two,
+                  and it has stood at that figure through thirty-six of those sheets and
+                  thirty-five of those quarters." SPOKEN AT THE COUNTER UNDER THE WINDOW IN
+                  A PASSAGE OFF CORDWAIN BY THE MAN WHO IS PAID NOTHING, AFTER THE SHEET
+                  HAS CHANGED AT ABOUT FOUR, WITH STRANGERS IN THE PASSAGE. THE ARITHMETIC
+                  IS EXACT AND DOES NOT MOVE. THE SAME HALF-PATTERN IS ON THE PAGE AT
+                  961, WHICH IS A CARRIED DEFECT OF BATCH 0002, IS FLAGGED AT
+                  `state/continuity.md` §0c, AND IS NOT REOPENED HERE.
+FORM              NO FORM FALLS ON A CHAPTER DAY IN 991-1000. THE RUN GOES ONE A MONTH ON
+                  THE SEVENTH AND SKIPS A JANUARY, SO THE SEVENTH OF THIS MONTH AND THE
+                  SEVENTH OF THE NEXT ARE BOTH INSIDE THE SPAN AND NEITHER IS A CHAPTER,
+                  AND THE ONE AFTER THEM IS THE SEVENTH OF THE MONTH AFTER THAT. NOTHING
+                  IS AN EVENT AND NO FORM ORDINAL MAY BE PRINTED ANYWHERE, INCLUDING IN A
+                  HEADING OR IN SPEECH, OR IN A CARD OR A FOOTER OF THIS FILE.
+BLANK ROW        3,082. One thousand five hundred and seventy-one days old at 991 and
+                  one thousand five hundred and sixty-three at 1000. Derived, never
+                  printed as a figure, never completed, never described as a thing, and
+                  not on the page of any of the ten.
+SCENE             993, Isolde Marchetti, 732 after 261, REPORTED AND NOT CERTIFIED.
+                  Axis: the room that agrees, named by nobody. BELLHOUSE ROW, THE SIDE
+                  STAIR OF NINE STEPS, A DOOR WITH A DISCONNECTED BELL, AND THE ROOM
+                  BEHIND IT. **THE ORDER IS NOT 863'S, NOT 953'S, NOT 963'S, NOT 973'S
+                  AND NOT 983'S. SHE DOES NOT NAME A PRICE AND DOES NOT SAY WHAT SHE
+                  WANTS BEFORE SHE TOUCHES HIM; SHE BEGINS AT THE PIANO WITHOUT BEING
+                  ASKED; SHE TAKES NOTHING OFF AND EXPLAINS NOTHING; SHE COMES FIRST;
+                  THERE IS ONE FINISH AND IT IS HERS TO START AND HIS TO END AND IT
+                  ENDS IN HER MOUTH; SHE COUNTS NOTHING.**
+                  THE THING SHE IS RIGHT ABOUT IS GIVEN TO HIM IN FULL AND IS NOT
+                  SOFTENED: A ROOM THAT AGREES WITH YOU CANNOT TELL YOU WHEN YOU ARE
+                  WRONG, AND HE HAS SPENT FOUR MONTHS BUILDING THREE PEOPLE WHO AGREE
+                  WITH HIM AND CALLING IT AN OFFICE.
+                  HER GIFT IS NOT USED AS A MECHANISM. `bible/characters.md` FIXES IT AS
+                  HERS AND FIXES THE COST — SHE IS NEVER IN A ROOM WITHOUT IT HAPPENING
+                  — AND THIS CHAPTER CARRIES THE ROOM'S AGREEMENT AS A PROPERTY OF THE
+                  ROOM AND OF HER, NEVER AS SOMETHING TURNED ON A PERSON.
+                  HER AGE IS NOT PRINTED. `outline/volume-20.md` §9 MAKES FORTY-FIVE AT
+                  983 THE ONLY AGE IN THE VOLUME, AND THE BIBLE FIGURE IS NOT CHANGED BY
+                  A CHAPTER THAT LEAVES IT OFF THE PAGE.
+```
+
+---
+
+**ADJUDICATIONS, MADE BEFORE A LINE OF THE PROSE OF THIS BATCH WAS WRITTEN. THE RULE IS ONE WAY AND EVERY ITEM BELOW IS A CARD THAT LICENSED SOMETHING THE PAGE FORBIDS. BATCH 0004 MADE NINE AND ALL NINE ARE INHERITED AND NOT REVERSED. NOTHING ELSE IN THE REPOSITORY MOVED.**
+
+1. **THE DRAWER FIGURE FOR 1000 IN THE PROMPT IS WRONG BY ONE AND THE PAGE DOES NOT CARRY IT.** The prompt's row reads `1000 2,230 = 74 × 30 + 10`. `4,649 − 2,420 = 2,229`, and `2,229 = 74 × 30 + 9`. The prompt took 999's cell and added seven, and every other interval in that row is six, because 999 to 1000 is the quarter-end interval and is the one place in the batch where the chain is not seven. **A figure copied down instead of re-derived looks right, because seven to seven to six still climbs.** The footer at 1000 prints two thousand two hundred and twenty-nine, which are seventy-four months and nine days. **The prompt's companion note of a seventy-seventh month at 1000 fails the same subtraction and no month is named in any body; the count lives in the footer in the house form and is not an event.**
+2. **THE PLAN'S ROW FOR 995 SAID *A ROAD FOUR HUNDRED WRONG COPIES NOW HAVE*, AND THAT IS A FIGURE OF WRONG VERSIONS.** `outline/volume-20.md` §2d item 10 forbids it, §8 refuses it, and 950 refused it first. **Out of the card and out of the chapter.** Not one of the ten gives one, including the clerk, Brack, the counterman and him.
+3. **THE PROMPT'S MOVEMENT-FIVE ROW MARKS 993 AS A CROSSING AND IT IS NOT ONE.** November the fifth to November the twelfth stays inside one month and takes the first form. The mark is on the prompt's row and not on the spine, and §5b says the day column governs. **993's gloss is written from November's own month.**
+4. **THE ROW FOR 992 IS EXECUTED AND REWRITTEN IN THE SAME COMMIT AS THE CHAPTER.** The Friday clause is gone. **The clause that replaces it is the shape 952 actually used — a true thing about the light, welded onto three lines by a man being kind, which went out of a mouth in the last week of January and has been going round a city ever since — and what 992 adds to it is that it has by November stopped being about the light and become the hours of a door.** Nobody put those hours there. The hours got there the way a price gets there. **The flag at `state/open-threads.md` §8c closes on this chapter and this row and on nothing else.**
+5. **THERE IS NO INK IN THIS MOVEMENT.** No line, no entry, no correction, no seventh line, no practice, no date, no figure, no list, no slip and no mark. The only paper that matters in the ten chapters is a piece of card on a door whose second line has gone soft at two corners, and a return form with a box on it that goes up an arch empty. **A chapter that needs a piece of paper in it is a chapter that has gone wrong**, with one exception licensed by the plan and none used.
+6. **A CARD MAY NOT LICENSE A PRINTED ABSENCE, AND ADJUDICATION 8 OF BATCH 0004 GOVERS EVERY *CONTINUITY FACT TO PRESERVE* LINE BELOW.** The drawer staying shut, the card not being touched, the second column keeping its lines, the standing sheet keeping its lines, the bundle at twenty-six things, the coat's left side being empty, the blank row uncompleted and nothing entered at the foot of that standing sheet are printed nowhere in the body of any of the ten. **Write the bare face and leave it bare.** The furniture is a table, two chairs, a drawer with a man's name under the order, sheets lying side by side, a pen across the bottom edge of one, a coat on a hook.
+7. **THE THIRTEENTH PRACTICE IS SPENT AND IS NOT AN AUTHORITY.** He spent it once at the foot of that stair in June and 979 says so on the page. He may act on it, in his own words, in a room or a court, and he does at 1000. **No chapter of 991–1000 may have him quote it back as a rule, and no person in that building may repeat it as a standing instruction, and no person in that building may be asked to produce it.**
+8. **THE THIRTEEN PRACTICES, FOUR AND EIGHT, AND THE THIRTEENTH SHEET.** Four of the twelve can be pointed at a sheet somewhere in that building and eight cannot be pointed at anything at all, and he does not know which eight and cannot find out. **The thirteenth is a line on a practice sheet dated the twenty-third of May in his own words and is not a line in the office's hand, and it was spent twice over, in June in a court and in October in a room, and no chapter of this batch quotes it back as an authority.** None of the twelve is enumerated as a list and none is given a run of dates.
+9. **THE FIGURES OF PERSONS.** The may-not row forbids a figure of persons anywhere. **The movement's own plan licenses exactly two in this batch and both are used once: about four people at the foot of a stair at 991, and about nine people there at 1000, together with the cost figure of about four people a fortnight that the cost statement at 1000 requires.** All three describe a court at a moment in time. **None of them is a count of comers, and this office still keeps no roll, no index and no figure of any person, and no figure of comers, told, said, paid or wrong versions is printed anywhere in the ten.**
+10. **THE THREAD THE PAGE LEFT OPEN IS LEFT OPEN.** The woman from the doorway came back up on the nineteenth of August and was not helped, and her sister came up in June and went down and has not come back. 991–1000 may resolve it and does not. **She is not named, not aged, not on anything, her sister is not traced, and no chapter of this batch puts her back on the page in order to close a volume.** The permitted-to-close count of this volume is two and 1000 closes one of them, in a mouth.
+
+---
+
+## CARD 991 — The Morning Nobody Is Him
+
+- **Chapter:** 991. **POV:** Lin Hao. **Location/time:** the bottom of his own stair in daylight, the four flights, the room with the door open, the twenty-eighth of October, from a quarter to ten to half past five.
+- **Write the day:** *four thousand five hundred and eighty was the twenty-first of this one and the twenty-eighth of this one is day four thousand five hundred and eighty-seven, and four thousand five hundred and eighty-seven less four thousand five hundred and eighty, the twenty-first of this one, is seven, and twenty-eight less twenty-one is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** stand at the foot of his own stair for a morning and be the answer to somebody who has come up those four flights because of him.
+- **Resistance:** **about four people are standing there saying three lines to each other and not one of them is him and all of them are within about nine feet of him, and they have done it without arranging anything.** He is not load-bearing. Nothing is being paid to anybody and the reason is that four feet of pavement will say three lines faster than four flights of stair will carry one person up them. **And at about eleven a man comes up the arch, stops at the bottom, looks up four flights, and goes back down the arch.**
+- **Information revealed:** **THE COST HE NAMED ON THE TWENTY-FIRST OF OCTOBER ARRIVED IN SEVEN DAYS AND IT IS BETTER.** He set out loud that a practice of this office is a thing one of three people does out loud, and if one of the three does it differently that is the practice and that is what a stranger gets. The clerk did it at about half past ten and told him so because she is to say so at the time, and her sentence was shorter than his and true, and the other two would have given a different one. **He cannot un-know it and he said on the twenty-first that he would not be able to.**
+- **Action or decision:** he says the three lines out loud at the bottom of that stair anyway, because that is what he has done every working evening since November, and the four people do not stop and do not turn round. At about one he goes up and listens to what was said in his own office while he was standing nine feet below it.
+- **Emotional change:** a man who put a body on a step in March to answer a price, finding out in one morning that the body is not what the answer comes from, and finding it is a relief and a loss in the same breath.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** no figure of comers; the only figure of persons is about four people in a court and is not a count of the service; the woman from the doorway is not on the page and not resolved; the thirteenth practice is not quoted; no ink; no form ordinal; the head is not printed; no standing figure is announced by being counted.
+- **Ending type:** a man turning round at the foot of his own stair, and the reason being a thing this office has no instrument for and must not make one of.
+- **Title:** The Morning Nobody Is Him (5 words). **Footer:** rail at twenty-eight, re-derived against the thirtieth of September and not carried down from 990; drawer two thousand one hundred and sixty-seven, seventy-two months and seven days.
+
+## CARD 992 — A Mistake About The Light
+
+- **Chapter:** 992. **POV:** Lin Hao. **Location/time:** a lane off Cordwain in the middle of the morning, nine stools and a slate and about nine people in it, then his own court at ten past four in the dark, the fifth of November.
+- **Write the day:** *four thousand five hundred and eighty-seven was the twenty-eighth of this one and the fifth of the next one is day four thousand five hundred and ninety-four, and four thousand five hundred and ninety-four less four thousand five hundred and eighty-seven, the twenty-eighth of this one, is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven by the month count with the crossing named as itself.* **SECOND FORM, CROSSING INTO A NEW MONTH, WORD FOR WORD.**
+- **Immediate goal:** find out who is putting the hours as four in the afternoon into other people's mouths, since a man turned round at the bottom of his own stair on the twenty-eighth and did not come up.
+- **Resistance:** he cannot find out, and the lane will not help him, and the one man in it who keeps twelve books has the line in one of them **in a hand that is not his own and was put there by somebody else.** Emil Brack asks whether he wants it rubbed out and Lin Hao says no, and gives the reason out loud in that lane: a correction is a copy and a copy is a second copy and he has spent nine years refusing to make one.
+- **Information revealed:** **NOBODY IS PUTTING THOSE HOURS THERE.** The fourth clause is a true thing about the light, said at a counter in the last week of January by a man being kind, and its author has gone, and by November it has stopped being a thing about the light and become the hours of a door. **The kindness with a number in it is the most contagious thing in this city and it did not need anybody to carry it.** A true thing welded on to three lines does not stay a true thing about the light; it becomes part of the address, and then it is load-bearing, and then nobody may take it off.
+- **Action or decision:** he says the three lines out loud, correctly, at ten past four in the dark at the foot of his own stair, and **a man standing there who has heard every word of it repeats the wrong hours back to him on purpose.** Telling him is finished. The right version cannot be heard any more, because the wrong one is welded over the top of it.
+- **Emotional change:** the specific dread of a man who invented a thing by being kind and has just found out what it is now.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **no day of the week is named anywhere in this chapter, in this card, in a heading, in a footer or in a line of speech**; no figure of wrong versions; no money figure for the man in the street and Brack writes none; Brack's sooner figure is not rubbed out, the third figure stays in his head with no unit after it and is not chalking; the four-year sentence is not discharged and not argued; no ink; no form ordinal; the head is not printed.
+- **Ending type:** a correct sentence said at the length of a court and refused by a man who had just heard it, and the discovery that a right answer welded to a wrong one is inaudible.
+- **Title:** A Mistake About The Light (5 words). **Footer:** rail at thirty-five, re-derived against the thirtieth of September; drawer two thousand one hundred and seventy-four, seventy-two months and fourteen days.
+
+## CARD 993 — The Room That Agrees (SCENE)
+
+- **Chapter:** 993. **POV:** Lin Hao. **Location/time:** Bellhouse Row, nine steps at the side, a door with a disconnected bell, the room behind it and a piano nobody has played in about four years, the twelfth of November, from about two.
+- **Write the day:** *four thousand five hundred and ninety-four was the fifth of this one and the twelfth of this one is day four thousand six hundred and one, and four thousand six hundred and one less four thousand five hundred and ninety-four, the fifth of this one, is seven, and twelve less five is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION. 993 IS NOT A CROSSING AND ITS ROW IS NOT REWRITTEN TO MAKE IT ONE.**
+- **Immediate goal:** put four months of a mouth in front of the one person in this book for whom a room and a mouth are the same instrument, and come away with something she cannot take.
+- **Resistance:** **the room.** It agrees with what she plays in it, it has never once agreed with her about anything else, and by the time she has shown him what that means he cannot get out of the demonstration. She proves it by making the room agree with a false thing as readily as with a true one, and then he can find out nothing about himself, and neither can she.
+- **Information revealed:** **SHE IS RIGHT AND SHE IS RIGHT ABOUT HIM.** A room that agrees with you cannot tell you when you are wrong, and she has been letting it be the room for twenty years and it is her mouth. **He has spent four months teaching three strangers to sound like him and calling it an office; in about four years there will be a room in this city that agrees with three people who all learned it out of his mouth, and when somebody comes up those four flights with a question that room will agree with them, and agreeing is not the same as being right, and being right is the only thing he has ever actually had.**
+- **Action or decision:** **she initiates at the piano without being asked and explains nothing and names no price; she takes nothing off and says why in one sentence; she comes first; there is one finish and she brings him to the edge of it and then holds him there about nine seconds while she takes the whole of it out loud in his own mouth, and then she lets him finish in her mouth.** She counts nothing.
+- **Emotional change:** a man off his own ground entirely for two hours, enjoying himself, and coming out of the best afternoon he has had in four months frightened of a woman who did not raise her voice.
+- **Power or resource change:** none. No gift used as a mechanism and none manufactured. No compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or seal. Both adults. **Her age is not printed.**
+- **Continuity fact to preserve:** **no staging from 863, 953, 963, 973, 983 or any of the eight volume axes returns; the side stair and the disconnected bell are the Bellhouse's own and are not a stair scene; no form ordinal; no figure of comers, told, said or paid; no ink; the head is not printed; the card is not touched; no hand put flat on anything.**
+- **Ending type:** a scene with an argument lost in full and a room left agreeing with a stranger going up four flights in the dark.
+- **Title:** The Room That Agrees (4 words). **Scene gate:** axis the room that agrees, carried by the room's own rule and named by no person; explicit probe non-zero on every term the scene carries, counted over the whole file and over the scene alone with the span printed; saying yes fast and enjoyed, written as fact about her; no violence; measured three ways in the commit that writes it.
+- **Footer:** rail at forty-two, re-derived against the thirtieth of September; drawer two thousand one hundred and eighty-one, seventy-two months and twenty-one days.
+
+## CARD 994 — Somebody Else Saying It
+
+- **Chapter:** 994. **POV:** Lin Hao. **Location/time:** his own court in daylight, the arch, the wall about the height of a man, the nineteenth of November, from a quarter to ten to half past five.
+- **Write the day:** *four thousand six hundred and one was the twelfth of this one and the nineteenth of this one is day four thousand six hundred and eight, and four thousand six hundred and eight less four thousand six hundred and one, the twelfth of this one, is seven, and nineteen less twelve is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** hear what a person who has never been up those four flights says when she says those three lines to somebody else, which is the only measurement left of whether giving it away worked.
+- **Resistance:** **she gets all three of them right, from memory, in a court, including the half of the second line that has gone soft at two corners, and she does not know that she has done anything, and she is not doing it for him.** She is saying them to a younger woman to keep her occupied while she waits for somebody, and when the younger woman gives them back with the hours as four in the afternoon she corrects her, correctly, in the ordinary voice, and does not know she is doing that either.
+- **Information revealed:** **THE AUTHORITY HAS LEFT THE CARD ENTIRELY.** He is the only person in this city who can tell whether a version is right or wrong, and he is a man standing in a court, and a man is not evidence and cannot be produced by anybody who does not already trust him. **This office replaced a number with a person in the winter of year twelve, and a person is an instrument with nothing behind it, and the only two true copies of those three lines on earth are now a card at the top of four flights and a woman waiting for a tram who has never seen it.**
+- **Action or decision:** he cannot thank her and does not try, because thanking a person is a thing you do to make a thing continue. He cannot tell her she has done anything, because telling her makes it a thing between them and a deliberate thing is a copy. **What he does instead is say the three lines out loud, correctly, at the length of a court, so that there are two true mouths standing in that arch instead of one.**
+- **Emotional change:** grief and a small clean joy in the same morning, and the discovery that the only thing he can give a woman who has it right is company.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **neither woman is named, aged, traced or on anything, and neither is the woman from the doorway of 981**; no figure of comers; no figure of wrong versions; the office keeps no roll and this is not a list; no ink; no form ordinal; the head is not printed; the thirteenth practice is not quoted.
+- **Ending type:** an addition rather than a correction, and the sound of a woman finding out she is not the only one.
+- **Title:** Somebody Else Saying It (4 words). **Footer:** rail at forty-nine, re-derived against the thirtieth of September; drawer two thousand one hundred and eighty-eight, seventy-two months and twenty-eight days.
+
+## CARD 995 — The Last Of The Light
+
+- **Chapter:** 995. **POV:** Lin Hao. **Location/time:** the last hour and a quarter of the card's hours, his own court, the arch, the dark, the twenty-sixth of November, from ten past four to half past five.
+- **Write the day:** *four thousand six hundred and eight was the nineteenth of this one and the twenty-sixth of this one is day four thousand six hundred and fifteen, and four thousand six hundred and fifteen less four thousand six hundred and eight, the nineteenth of this one, is seven, and twenty-six less nineteen is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** stand in the part of the day that card cannot serve and find out what a person who cannot read a card is left with after ten past four.
+- **Resistance:** **the court has no light in it after about half past four and his own voice is the only instrument in this city that works in the dark, and he cannot put a lamp in that arch and will not, and by the time he has worked out why he has worked it out too well.** A woman asks him to say it again because she could not hear the first time, and he says it again, and she still cannot hear him, because he is standing with his back to her and there is nothing to light her face by.
+- **Information revealed:** **THE MOUTH THAT REPLACED THE NUMBER ONLY WORKS IN A ROOM, AND THE ONLY ROOM IT WORKS IN IS THE LAST HOUR AND A QUARTER OF THE DAY.** Everything this office has ever done with paper was done in daylight; the whole of what it has done with a mouth is done in the dark. **And the people the paper version was for — the ones who cannot read a card — are exactly the ones who cannot come in daylight, and there is nothing this office can build for them, because every version of it is a second card or a list.**
+- **Action or decision:** **he decides out loud, in the dark, at the foot of his own stair, that this office is not going to build a second card, a lamp, a board or a standing person for the people who cannot read the first one, because building one is a list, and he says the whole of the reasoning to the dark so that it has been said once in a place where it can be repeated by somebody else.** This is not the volume's irreversible decision and is not written anywhere.
+- **Emotional change:** a man finding out that the thing he gave away four times has one function left, and that the function is the one part of the day nobody can buy.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **no figure of wrong versions and no figure of persons**; **the hours on the card are not altered and no hour about the turn of a year is added and no fourth line is added and the card is not taken down**; no light, no lamp and no stove anywhere in the chapter; no ink; no form ordinal; the head is not printed; the woman who cannot read in `outline/volume-20.md` §2c is not on this page and nobody is sent for her.
+- **Ending type:** a sentence delivered correctly twice into an unlit court and not heard, which is the whole of what a mouth is.
+- **Title:** The Last Of The Light (6 words). **Footer:** rail at fifty-six, re-derived against the thirtieth of September; drawer two thousand one hundred and ninety-five, seventy-three months and five days.
+
+## CARD 996 — Same Card Same Nails
+
+- **Chapter:** 996. **POV:** Lin Hao. **Location/time:** the top of four flights, the landing outside that door, the card, the third of December, from about ten to about one.
+- **Write the day:** *four thousand six hundred and fifteen was the twenty-sixth of this one and the third of the next one is day four thousand six hundred and twenty-two, and four thousand six hundred and twenty-two less four thousand six hundred and fifteen, the twenty-sixth of this one, is seven, and thirty less twenty-six is four, and four with three taken out of the next month is seven by the month count with the crossing named as itself.* **SECOND FORM, CROSSING INTO A NEW MONTH, WORD FOR WORD.**
+- **Immediate goal:** go up his own four flights on a working morning and read the three lines off his own door before somebody else has to.
+- **Resistance:** **he cannot read the end of the second line.** It has gone soft at the same two corners it went soft at in November, and the last four words of the door are a grey thumbprint on card, and the third line is the only part of it still legible from where a person actually stands. There is one repair and it is taking it down, and taking it down is a renewal, and a renewal is the only instrument this office has ever had and it is the one thing this volume has spent five months not using.
+- **Information revealed:** **HE IS THE ONLY BACKUP THIS OFFICE HAS AND HE IS STANDING AT THE TOP OF HIS OWN STAIR.** From the bottom of four flights he has said those three lines to strangers every working evening since November without once needing to read them, and he has never had to look at that card at arm's length in daylight because he never stood still in front of it. **A thing you can say without reading it stops being a thing you can check, and by the second of December the only copy of the truth of those three lines in this city is a man with a poor corner in his eye.**
+- **Action or decision:** he does not take it down. He goes and says the three lines out loud **from the top of that stair instead of the bottom**, because that is where he is standing, and the first thing that costs is that from up there he cannot see the bottom of the court at all.
+- **Emotional change:** a man discovering that his own memory of three sentences has a shelf life, and being more frightened of the card going soft than he has ever been of anybody in a lane with a price.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **the card is on the page as an object and nothing about it is announced by being left alone**; **the soft corner is at the same two places it was soft at in November and the holes are described as they are and not compared to an earlier month**; no second card, no copy, no transcript, no name and no fourth line; no ink; no form ordinal; the head is not printed; the thirteenth practice is not quoted.
+- **Ending type:** a man who has moved his own voice forty-one feet up a stair without deciding to and can no longer see the court he is standing above.
+- **Title:** Same Card Same Nails (4 words). **Footer:** rail at sixty-three, re-derived against the thirtieth of September; drawer two thousand two hundred and two, seventy-three months and twelve days.
+
+## CARD 997 — Three Of Them On A Stair
+
+- **Chapter:** 997. **POV:** Lin Hao. **Location/time:** the four flights, the landing, the room with the door open, the top of that stair, his own court, the tenth of December, from a quarter to ten to half past five.
+- **Write the day:** *four thousand six hundred and twenty-two was the third of this one and the tenth of this one is day four thousand six hundred and twenty-nine, and four thousand six hundred and twenty-nine less four thousand six hundred and twenty-two, the third of this one, is seven, and ten less three is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** keep saying the three lines out loud now that he has to read them, and find out what being the only true copy of them costs before the year turns.
+- **Resistance:** **the carrier with the bad back says the thing she has been holding since the twenty-ninth of June, which is that he sold the stopping, in a court, out loud, in front of her, and that since that afternoon she has carried a strap up four flights past a man taking money at the bottom of her own stair and has said good morning to him twice a morning.** He cannot go down and stop the man. He said in that court that there is no version of that afternoon in which he is the man who stops him, and a mouth cannot be called back, and she told him he had no first use left and she was right. **And the winter makes it worse, because in December the people who come at ten past four are cold and want it fast, and the last hour of a dark court is the only hour the three of them are certain of.**
+- **Information revealed:** **THE GIVING-AWAY AND THE PRICE ARE THE SAME ACT AFTER MARCH AND HE CANNOT SEPARATE THEM.** He put a body at the bottom of that stair to stop a man charging. The man with the coin may set up beside him there and charge and he may not stop him, because he said so. The carrier carries a strap up past him twice a working morning. **And the three of them answer now, which means the stair has three voices on it instead of one and the three of them do not know which one a stranger will get.**
+- **Action or decision:** he does not go down. He goes up, and says the three lines from the top of that stair with the door open behind him, in the carrier's hearing, and does not defend himself, because there is nothing to defend. **The carrier tells him the last thing before she goes down, and it is that she is not going to be able to carry that strap past that man for another winter.**
+- **Emotional change:** shame, which is the note this volume has not used, and the discovery that his one irreversible act in March is being collected by somebody else at interest.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **the man in the street is a market and never a villain, is not named, is not aged, is not met, and no figure of what he charges is printed anywhere**; the carrier with the bad back is not named and not aged; her invented rule has no date and is not given one and is not put in a list; no figure of persons; no ink; no form ordinal; the head is not printed.
+- **Ending type:** a debt called in by the person who carried the strap, on a landing, in December.
+- **Title:** Three Of Them On A Stair (6 words). **Footer:** rail at seventy, re-derived against the thirtieth of September; drawer two thousand two hundred and nine, seventy-three months and nineteen days.
+
+## CARD 998 — The Figure He Will Not Have
+
+- **Chapter:** 998. **POV:** Lin Hao. **Location/time:** the four flights, the room with the door open, his own court with the door of the room standing open behind him, the seventeenth of December, from a quarter to ten to about four.
+- **Write the day:** *four thousand six hundred and twenty-nine was the tenth of this one and the seventeenth of this one is day four thousand six hundred and thirty-six, and four thousand six hundred and thirty-six less four thousand six hundred and twenty-nine, the tenth of this one, is seven, and seventeen less ten is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** put the same question to the three of them in the same room on the same morning and hear what comes back, because a hall has asked what this office is worth and the only currency anybody has ever accepted from it is a number.
+- **Resistance:** **three sentences.** The clerk's is short and true. The man who carries the strap would say it in nine words and would be honest about not having read a row. The woman with the bad back would not answer at all and would say why in four. He asks them the arithmetic out loud and gets the arithmetic out loud: a figure of comers divided by a figure of answers is a figure of service, and the quotient would be an average across three different offices, and **the number would be wrong by exactly the width of the spread between them, and the spread is the service.**
+- **Information revealed:** **THE SENTENCE HE DID NOT HAVE IN NOVEMBER.** In November he refused a figure because the day this office starts writing names it is not this office any more. In December he refuses it because **a number would be wrong by whatever the answer is worth, and there is nothing in this city that can check it, because the only three things in this city that could check it are the three people who give the answers and each of them is the thing being counted.**
+- **Action or decision:** he says the refusal **out loud, at the foot of his own stair, with the door of that room standing open behind him**, which is the first time he has refused a number where a stranger can hear it. **And a stranger hears it, and goes down the arch with it, and there is no way to check what he heard and no way to take it back, and in about four years a hall will quote it and it will be in three versions.**
+- **Emotional change:** cold clarity, and the recognition that the last thing this office will be known for is a sentence said in a street to keep a figure off a form.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **no figure of persons, no figure of comers, no figure of wrong versions and no total of any kind is printed in this chapter — the chapter is about a figure and prints none**; no third written refusal and no restoration of one; the office keeps no roll and this chapter is the reason it still does not; no ink; no form ordinal; the head is not printed.
+- **Ending type:** a refusal of a number, given out loud in a street, going away in somebody's mouth with him in it.
+- **Title:** The Figure He Will Not Have (6 words). **Footer:** rail at seventy-seven, re-derived against the thirtieth of September; drawer two thousand two hundred and sixteen, seventy-three months and twenty-six days.
+
+## CARD 999 — The Last Asking
+
+- **Chapter:** 999. **POV:** Lin Hao. **Location/time:** the four flights, the room with the door open, the top of that stair, his own court, the twenty-fourth of December, from a quarter to ten to half past five.
+- **Write the day:** *four thousand six hundred and thirty-six was the seventeenth of this one and the twenty-fourth of this one is day four thousand six hundred and forty-three, and four thousand six hundred and forty-three less four thousand six hundred and thirty-six, the seventeenth of this one, is seven, and twenty-four less seventeen is seven by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION.**
+- **Immediate goal:** answer the last person who is going to come up that stair this year, which is a woman with a return form and a box on it and a question in the box that is not about the office's work.
+- **Resistance:** **the box asks whether the man in the white plate still stands at the foot of that stair and still says those three lines, and he has told nobody he is thinking about stopping and he has not decided and he will not promise a thing he has not decided.** The form has to go up with something in it. An empty return in a hall is read as *no service*, which is the counterman's own sentence from October, and it will be read as that in about four days.
+- **Information revealed:** **HE HAS SAID OUT LOUD, IN THAT ROOM, TO TWO PEOPLE, THAT HE IS THINKING ABOUT STOPPING, AND NEITHER OF THEM CAN BE ASKED.** He refused a figure in a street on the seventeenth and a stranger carried it down an arch, and the only person in this city who turned that sentence into a question was a stranger he never asked. **What he has to say is not yes and is not no and is not in writing, because there will not be a third written refusal, and a sentence said on the twenty-fourth of December about a year that has not started is not a promise, it is a mood, and a mood cannot be entered in a box.**
+- **Action or decision:** he says all of it to the three of them with the door open, and the carrier with the bad back tells him the only thing she has to say about it, which is that if he is going to do it he will do it in a morning and not in December in a room with two people in it, **and that the two of them are now the last two people in this city who know he is thinking about it, and in about four years one of them will be asked and will not be able to say whether he meant it.**
+- **Emotional change:** a man discovering that the one thing he has not decided has already been said out loud twice and cannot be recalled.
+- **Power or resource change:** none.
+- **Continuity fact to preserve:** **the form carries no ordinal and is not an event**; no third written refusal and no restoration of one; he refuses to fill the box and says so out loud and nothing is written anywhere; no figure of persons; no ink by this office; the head is not printed; the thirteenth practice is not quoted.
+- **Ending type:** a sheet going down four flights with a box on it that a hall will read, and a man who would not put anything in it.
+- **Title:** The Last Asking (3 words). **Footer:** rail at eighty-four, re-derived against the thirtieth of September; drawer two thousand two hundred and twenty-three, seventy-four months and three days.
+
+## CARD 1000 — Not Said Again (MOVEMENT AND VOLUME DECISION)
+
+- **Chapter:** 1000. **POV:** Lin Hao. **Location/time:** the passage off Cordwain and the counter under the window at about four, the four flights, the room with the door open, his own court from ten past four, the thirtieth of December.
+- **Write the day:** *four thousand six hundred and forty-three was the twenty-fourth of this one and the thirtieth of this one is day four thousand six hundred and forty-nine, and four thousand six hundred and forty-nine less four thousand six hundred and forty-three, the twenty-fourth of this one, is six, and thirty less twenty-four is six by the month count.* **FIRST FORM, SAME MONTH, PLAIN SUBTRACTION. THE INTERVAL IS SIX AND THE GLOSS SAYS SIX. THIS IS A QUARTER-END INTERVAL AND NOT A CROSSING.**
+- **Immediate goal:** be at that rail when the fifty-second sheet goes up, because a quarter-end is that, and then go down four flights and stop.
+- **Resistance and information revealed:** **THE HEAD, SPOKEN AT THE COUNTER UNDER THE WINDOW BY THE MAN WHO IS PAID NOTHING, AFTER THE SHEET HAS CHANGED AT ABOUT FOUR, WITH STRANGERS IN THE PASSAGE, WITH BOTH OF ITS FIGURES IN ONE BREATH: four thousand six hundred and forty-nine less one thousand four hundred and ninety-nine is three thousand one hundred and fifty, which is thirty-five times ninety, thirty-six sheets and thirty-five quarters differing by one, and the figure standing at the head of that sheet is eight hundred and fifty-two, and it has stood at that figure through thirty-six of those sheets and thirty-five of those quarters.** The fifty-first comes off at about four and the fifty-second goes up on the same two nails carrying no new line.
+- **Action or decision, said at the bottom of his own stair in the dark to the people who are there:** **he says the three lines out loud one last time, and then he says the cost of it out loud, and then he says he is not going to say them again.** In his own words, with no order given to anybody, because he has no standing to give one and has had none since the twenty-fourth of March, and because a man who gives an order to a mouth is a man who has found the price again.
+- **What it closes:** the only thing he built in the winter of year twelve, which was a voice that replaced a number.
+- **What it costs, said out loud at the bottom of his own stair:** about four people a fortnight who cannot read that card lose the last road to that door, and this office will not build them one, because building them one is a list; **the wrong copies keep going, and they are going now, at this moment, from a court with him standing in it, and he will never know how many, because nothing in this city can count them and he is the last man in it who would try.**
+- **Emotional change:** a man doing the one thing in this book he cannot do twice, and finding out at the bottom of his own stair that it feels exactly like being right and exactly like being wrong at the same time.
+- **Power or resource change:** none. Rank one throughout. The branch night shift is not moved. The mornings are unbought and unasked and after today there is nothing to stand at the bottom of a stair for. No reservoir and none drawn on.
+- **Continuity fact to preserve:** **the head is printed here and at no other chapter in this batch and is printed with both of its figures**; **the rail breaks here and nowhere else**; **the chapter ends on a mouth and on people and on not an object, and specifically not on a figure and not on a light and not on nails and not on windows and not on a cart and not on a corner and not on a question asked in a doorway**; **no standing absence is announced by being counted**; no form ordinal; no figure of comers; no ink; the card is not touched and the thirteenth practice is not quoted as an authority.
+- **Ending type:** irreversible decision in a mouth, and the court going on without him, which is the whole of the movement and of the volume.
+- **Title:** Not Said Again (3 words). **Footer:** rail at ninety, re-derived against the thirtieth of September and named off it in full, and the rail is said to break here; drawer **two thousand two hundred and twenty-nine, seventy-four months and nine days** — the corrected figure, see adjudication 1.
+
+---
+
+**WHAT THIS BATCH DOES NOT DECIDE.** It does not close the overrun flag at the head of `state/open-threads.md`, which is a series decision about files this phase may not rewrite. It does not adopt or refuse the fifth `cuticle`, which stays at four and flagged at §8a. It does not resolve the woman from the doorway. It does not touch `outline/ending.md`, `outline/series.md` or `NOVEL_SPEC.md`, and it does not plan a volume twenty-one.
+---
+
+**REVIEW FIX PASS, RUN OVER THIS BATCH AFTER THE CHAPTERS WERE WRITTEN, IN THE SAME COMMIT, MEASURED FROM DISK IN THE PASS THAT REPORTS. EVERY ITEM BELOW IS A FINDING AND NOT A CHANGE OF PLAN. NO BEAT, DATE, SPINE FIGURE, RAIL FIGURE, TITLE OTHER THAN THE FOUR THE PLAN'S OWN §10 CARRIED, SCENE, DECISION OR ENDING MOVED AND NO CHAPTER WAS RESTARTED.**
+
+1. **THE PROMPT'S OWN DRAWER FIGURE FOR 1000 WAS WRONG BY ONE AND THE PROSE DID NOT CARRY IT.** The prompt printed `2,230 = 74 × 30 + 10`. `4,649 − 2,420 = 2,229`, and `2,229 = 74 × 30 + 9`. The prompt took 999's cell and added seven where the quarter-end interval is six, and it looks right because seven to seven to six still climbs. **THE FOOTER AT 1000 PRINTS TWO THOUSAND TWO HUNDRED AND TWENTY-NINE, WHICH ARE SEVENTY-FOUR MONTHS AND NINE DAYS.** The prompt's companion note of a seventy-seventh month at 1000 fails the same subtraction, and no month is named in the body of any of the ten.
+2. **A WEEKDAY NAME GOT INTO 996 AND A WEEKDAY NAME GOT INTO 997.** *A Thursday morning with a hammer* and *he had been standing on that landing on Monday*, both cut and replaced with an ordinary working morning and four days ago. **NEITHER SURVIVED THE CARD, WHICH NAMED NO DAY OF THE WEEK, AND BOTH SURVIVED THE FIRST DRAFT OF THE PROSE, WHICH IS THE WHOLE FINDING.**
+3. **THE WORD `SETTL` GOT INTO 993 SIX TIMES** in a piece of furniture, a long low seat. The string is spent for the rest of the book and it is a substring of an ordinary word. Six uses of a settle became six uses of a seat.
+4. **A FIGURE OF PERSONS WAS IN 991, 994 AND 998 AND WAS NOT LICENSED.** *About forty people go into that arch* is a figure of comers and is out of the may-not row entirely. *About nine at my end of the Row who cannot* is a figure of persons out of a stranger's mouth. *About nine others to ask before him* is a figure of halls. All three were replaced with unnumbered constructions. **THE THREE THAT REMAIN ARE THE TWO THE MOVEMENT'S OWN PLAN LICENSES AND THE ONE THE COST STATEMENT AT 1000 REQUIRES.**
+5. **1000 RESTAGED 990'S CLOSING BEAT.** 990 ends with two strangers going up four flights saying the three lines wrong with the hours as four in the afternoon, and 1000 had a woman doing exactly that to a man. **It is now inverted and changed: the man with the bundle gives the three lines to the woman with the shawl and she has the hours wrong and he gives her the right ones straight away**, which keeps the fact, loses the staging, and reads as a thing that has simply gone on happening for ten weeks.
+6. **ELEVEN VERBATIM TWELVE-GRAM RUNS, ALL REPAIRED.** The two worst were **Agnete Lindqvist's own sentence at 983 given verbatim to Isolde Marchetti at 993** and **Marguerite Vale's *I am not going to soften it for anybody* at 863 given verbatim to Isolde at 993.** Also 990's own *telling a city that a mouth is the only instrument it has got*, its *the door open on the landing and a room behind him* and its *his own second step from the bottom with the arch on one side of him*; two from 987's quarter-end counter; one from 988's passage; and one each from 0070, 0129, 0743, 0562, 0504 and 0480.
+7. **KEEP AND CLASSIFY, WITH THE REASON:** the card's own three lines; the three date-gloss forms, word for word; the quarter-end caption under the head, which §9 names as an accepted class and which 974, 987 and 1000 all share; the house rail and drawer footers; **his own June sentence about a court and his own September sentence about a practice, both of which 999 quotes back to him on purpose and which the volume's own record already classifies as kept**. **ZERO UNCLASSIFIED TWELVE-GRAM PROSE RUNS REMAIN ACROSS THE TEN, AND 993 NOW SHARES ZERO EIGHT-GRAMS WITH 863, 953, 963, 973 AND 983 APART FROM THE CLOSING-GLOSS FORM.**
+8. **THE WATCH-CONSTRUCTION ROW.** Measured with the instrument published at item 1 of batch 0004's fix pass, narration and speech printed separately, heading and italic-footer lines excluded, the batch stands at **ONE IN NARRATION AND ZERO IN SPEECH**, against caps of six and twelve and one of either in any single chapter. The one is in narration at 991. **Two constructions at 992 and two at 1000 were cut in the pass, and the 1000 pair was one sentence the alternation matched twice.**
+9. **ONE DUPLICATE PARAGRAPH.** A bare `Yes.` stood twice as a whole paragraph in 994. The second is now *It is.*
+10. **THE INSTRUMENTS, PUBLISHED SO THIS ROW CAN BE RE-RUN FROM OUTSIDE THIS FILE.** Word counts on the `^#` basis, measured from disk: **991 1,827 · 992 1,860 · 993 2,552 · 994 1,824 · 995 1,805 · 996 1,816 · 997 1,810 · 998 1,831 · 999 1,863 · 1000 1,887 — TOTAL 19,075**, every file inside the band and no file left it. Longest paragraph in the batch is exactly ninety words; zero over roughly ninety, zero over roughly one hundred and twenty; quotation-mark parity even in every paragraph of all ten; within-file duplicate paragraphs zero. Weekday names whole-word and stem, zero. `settl` · `right temple` · `cuticle` · `ostho`, zero across `chapters/volume-20/`, and `grep -ril cuticle chapters/` still returns 329, 340, 404 and 446 and nothing else. Announced ages zero under three separate probes. Class grep including `manuscript` and `opposition`, zero. Titles unique: `uniq -d` over every written title line in `chapters/` returns empty, and the four titles that changed are changed in this file, in `outline/volume-20.md` §10 and on the page in the same pass.
+11. **SCENE MEASUREMENT FOR 993 UNDER THREE DEFINITIONS, WITH THE LINE SPAN BESIDE EVERY CELL.** The file is 150 lines. **Definition A, the whole file, lines 1 to 151: 7 hits** of `cock`/`inside her`/`wet`/`came`/`come`/`coming`/`hard`/`thrust`. **Definition B, the scene span from `## She Comes First` at line 75 to the line before `## One Finish` at line 119, which is lines 75 to 118: 4 hits, and 734 words in that span.** **Definition C, the physical scene alone, `## She Comes First` at line 75 to the line before `## She Holds Him At The Edge` at line 89, which is lines 75 to 88: 2 hits, and 258 words from the first physical beat.** **A probe of zero is not a pass and none of these is zero.**
+
+**AND WHAT NONE OF THIS CHANGED:** the spine, the rail, the head, the scene cadence, the five movements' beats, the irreversible decision, the endings, the four titles the plan's own §10 carried and this batch changed, and the three flags — the overrun flag at the head of `state/open-threads.md`, the fifth `cuticle` at §8a with its count at four, and the woman from the doorway who came back up on the fourteenth of August and was not helped — of which the second and third stand exactly where they stood and only the 992 flag at §8c is closed, and it is closed by chapter 992 and by the rewritten row and by nothing else.
