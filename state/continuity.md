@@ -1,3 +1,61 @@
+# VOLUME 18 BATCH 0003 ON DISK — **THE SPINE BLOCK FOR 871–880, REBUILT FROM THE CHAPTERS. 3,736 TO 3,797. SEAM 7 IN ITS OWN COLUMN, INTERIOR 61 (`6 7 6 7 7 7 7 7 7`). RAIL OFF 3,659 TO 873: 77 · 83 · 90, THEN OFF 3,749: 6 · 13 · 20 · 27 · 34 · 41 · 48, THE FORTY-FIRST COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE AND THE FORTY-SECOND GOING UP CARRYING NO NEW LINE. HEAD PRINTED ONCE, AT 873. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE SPINE AS THE PAGE FIXED IT
+
+```
+METHOD A (y-1)x360+off[m]+(d-1), off Jun 120 Jul 150 Aug 180.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Jun 4 Jul 5 Aug 6. THE TWO METHODS SHARE NO CONSTANT
+AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
+871 17 Jun y11 3,736 +7 SEAM, a mother who cannot hear, read to twice, entered, nothing gained
+872 23 Jun 3,742 +6 THE FIRST DEAD PERSON, wife dead sixth month, one row dated second, no interval said
+873 30 Jun 3,749 +7 QUARTER-END, forty-second sheet, SCENE Tessa Okonkwo 110 after 763, HEAD PRINTED
+874 6 Jul 3,755 +6 the family together, what can and cannot be said, nine words between them
+875 13 Jul 3,762 +7 the line saying dead refused, even on a slip
+876 20 Jul 3,769 +7 the clerk cannot answer for her four-year-old entry, he reads, she witnesses
+877 27 Jul 3,776 +7 THE FOUR-YEAR CLAUSE READ BACK AND WRONG, first touch, sister untouched
+878 4 Aug 3,783 +7 THE SISTER UP FOUR FLIGHTS ALONE, first touch, one April row out of another mouth
+879 11 Aug 3,790 +7 the copy asked afterwards, refused, three payers
+880 18 Aug 3,797 +7 THE MOVEMENT DECISION: answer only with the person in the room, no exception for the dead
+SEAM 3,736-3,729=7 in its own column. NINE 6 7 6 7 7 7 7 7 7 = 61 and 3,797-3,736 = 61.
+```
+
+## THE RAIL, RE-DERIVED FROM ITS ANCHOR AND FROM NO CHAPTER'S OWN DAY
+
+```
+871 3,736-3,659 = 77      876 3,769-3,749 = 20
+872 3,742-3,659 = 83      877 3,776-3,749 = 27
+873 3,749-3,659 = 90      878 3,783-3,749 = 34
+    THE FORTY-FIRST CAME DOWN AT FOUR THIS AFTERNOON AND THE FORTY-SECOND
+    WENT UP CARRYING NO NEW LINE IN THE OFFICE HAND.
+874 3,755-3,749 =  6      879 3,790-3,749 = 41
+875 3,762-3,749 = 13      880 3,797-3,749 = 48
+THE ROW BREAKS ONCE ONLY, AT 873, AND IT BREAKS BECAUSE 873 IS A QUARTER-END AND NOT BECAUSE A FIGURE MOVED.
+```
+
+## EVERY INTERVAL THAT ANYBODY SAYS ALOUD, RE-DERIVED WITH BOTH OPERANDS
+
+```
+ANCHOR RAIL SHEET 3,659 = 30 Mar y11 to 873, then 3,749 = 30 Jun y11. ANCHOR DRAWER 2,420 = 21 Oct y7.
+ANCHOR HEAD 1,499 = 30 Mar y5.
+871 3736-3729 = 7 seam · 872 3742-3736 = 6 · 873 3749-3742 = 7
+874 3755-3749 = 6, month crossing 30-30+6 = 6 · 875 3762-3755 = 7 · 876 3769-3762 = 7
+877 3776-3769 = 7 · 878 3783-3776 = 7, month crossing (30-27)+4 = 7
+879 3790-3783 = 7 · 880 3797-3790 = 7
+HEAD 3,749-1,499 = 2,250 = 25 x 90, printed once at 873, twenty-six sheets and twenty-five quarters.
+THREE MONTHS 3,749-3,659 = 90 = 3 x 30 + 0, printed once at 873, first exact quarter figure since 851.
+DRAWER 1,316 = 43m 26d · 1,322 = 44m 2d · 1,329 = 44m 9d · 1,335 = 44m 15d · 1,342 = 44m 22d ·
+        1,349 = 44m 29d · 1,356 = 45m 6d · 1,363 = 45m 13d · 1,370 = 45m 20d · 1,377 = 45m 27d.
+872 CARRIES TWO ABSOLUTE DATES AND NO INTERVAL BY INSTRUCTION; 874 CARRIES NO COMPUTED INTERVAL.
+```
+
+## WHAT MOVED IN 871–880, AND WHAT DID NOT
+
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT, AND THE SIXTH IS STILL THE LAST.** The second column **FOUR LINES**, and nothing went in it. The head unmoved, printed once at 873. BUNDLE TWENTY-SIX, untouched. DRAWER SHUT, NEVER OPENED. **THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY.**
+
+**WHAT IT CLOSES, said out loud on the eighteenth of August with witnesses: answering about a person unless the person is in the room, with no exception for the dead, and none for the sister, and none for anybody.** From the tenth of June the page is not turned; from the eighteenth of August the answer needs the living in the room.
+
+**WHAT IT COSTS: a family in a street who came up four flights and were told the truth and were not given anything to hold; a sister who climbed twice; a clerk who witnesses her own rows in another mouth.**
+
 # VOLUME 18 BATCH 0002 ON DISK — **THE SPINE BLOCK FOR 861–870, REBUILT FROM THE CHAPTERS AND AGAIN AFTER THE REVIEW-FIX PASS. 3,666 TO 3,729. SEAM 7 IN ITS OWN COLUMN, INTERIOR 63, AND THIS IS THE ONLY RUN OF NINE SEVENES IN THE VOLUME'S FIVE BATCHES. RAIL OFF 3,659: 7 · 14 · 21 · 28 · 35 · 42 · 49 · 56 · 63 · 70, THE FORTY-FIRST SHEET STILL ON THAT RAIL AND IT DOES NOT MOVE AGAIN UNTIL 873. HEAD PRINTED NOWHERE IN 861–870. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 **AND THE TWO FIGURES THE INHERITANCE GOT WRONG, RESOLVED FROM THE CHAPTERS AND NOT THE OTHER WAY ROUND: THE INTERVAL FROM THE THIRTIETH OF MARCH TO THE TENTH OF JUNE IS SEVENTY DAYS, NOT SEVENTY-TWO, AND THE 840 INTERVAL IS TWO HUNDRED AND TWENTY-THREE DAYS, WHICH IS SEVEN MONTHS AND THIRTEEN DAYS.**
