@@ -1,4 +1,16 @@
-# VOLUME 18 BATCH 0003 ON DISK — **THE SPINE BLOCK FOR 871–880, REBUILT FROM THE CHAPTERS. 3,736 TO 3,797. SEAM 7 IN ITS OWN COLUMN, INTERIOR 61 (`6 7 6 7 7 7 7 7 7`). RAIL OFF 3,659 TO 873: 77 · 83 · 90, THEN OFF 3,749: 6 · 13 · 20 · 27 · 34 · 41 · 48, THE FORTY-FIRST COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE AND THE FORTY-SECOND GOING UP CARRYING NO NEW LINE. HEAD PRINTED ONCE, AT 873. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+# VOLUME 18 BATCH 0003 ON DISK — **THE SPINE BLOCK FOR 871–880, REBUILT FROM THE CHAPTERS AND AGAIN AFTER THE REVIEW-FIX PASS AGAINST COMMIT `4c8d2d9`. 3,736 TO 3,797. SEAM 7 IN ITS OWN COLUMN, INTERIOR 61 (`6 7 6 7 7 7 7 7 7`). RAIL OFF 3,659 TO 873: 77 · 83 · 90, THEN OFF 3,749: 6 · 13 · 20 · 27 · 34 · 41 · 48, THE FORTY-FIRST COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE AND THE FORTY-SECOND GOING UP CARRYING NO NEW LINE. HEAD PRINTED ONCE, AT 873. NOTHING IN THE OFFICE HAND. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. EVERY FIGURE IN THIS BLOCK RE-DERIVES AFTER THE PASS AND NO FOOTER OPERAND WAS TOUCHED BY IT.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## WHAT THE REVIEW-FIX PASS DID TO THE SPINE, AND IT WAS FIVE DATES AND NOTHING ELSE
+
+**THE PASS TOUCHED NOT ONE INTERVAL, NOT ONE RAIL OPERAND, NOT ONE DRAWER OPERAND AND NOT THE §5b FENCE ROW.** The spine was audited term by term against disk before and after. **WHAT CHANGED WERE FIVE CALENDAR REFERENCES INSIDE THE PROSE**, and every one of them is now correct:
+
+- **872** — the boxes are now asked for before he leaves, so the scene order holds; no date moves.
+- **875** — the family of the twenty-third came up **on the sixth of July**, not *three days into July*.
+- **877** — *the twenty-third and the sixth of July* → **the twenty-third of June and the sixth month**, because the man came on the twenty-third of June and the wife died in the sixth month.
+- **876** — *in eight days* → **in four weeks**, because the twentieth of July to the eighteenth of August is twenty-eight days.
+- **879** — *nine days after the fourth* → **seven days**; *one week left* / *four days off* / *three mornings left* → **the eighteenth is seven days off on the eleventh** and **six days off on the twelfth**, which is now the only morning after the chapter's own day and is named as such.
+
+**THE 877 CLAUSE AND THE 880 SIXTH LINE ARE TWO DIFFERENT OBJECTS AND THE TEXT NOW SAYS SO ON THE PAGE.** The four-year clause went in on **the twenty-third of December of last year**, under one row, in the clerk's hand, and it is his sentence and not the office's. The sixth line of the office hand went in on **the second of December of the year before last** under the standing sheet, and it is still the last. Both are canon (`chapter-0858.md`, `chapter-0870.md`) and both stand.
 
 ## THE SPINE AS THE PAGE FIXED IT
 
@@ -25,7 +37,7 @@ SEAM 3,736-3,729=7 in its own column. NINE 6 7 6 7 7 7 7 7 7 = 61 and 3,797-3,73
 871 3,736-3,659 = 77      876 3,769-3,749 = 20
 872 3,742-3,659 = 83      877 3,776-3,749 = 27
 873 3,749-3,659 = 90      878 3,783-3,749 = 34
-    THE FORTY-FIRST CAME DOWN AT FOUR THIS AFTERNOON AND THE FORTY-SECOND
+    THE FORTY-FIRST CAME DOWN AT FOUR ON THE THIRTIETH OF JUNE AND THE FORTY-SECOND
     WENT UP CARRYING NO NEW LINE IN THE OFFICE HAND.
 874 3,755-3,749 =  6      879 3,790-3,749 = 41
 875 3,762-3,749 = 13      880 3,797-3,749 = 48

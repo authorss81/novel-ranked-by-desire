@@ -80,21 +80,27 @@ The man nodded, and the nod was not acceptance, and he put his coat over his arm
 
 "Then look again," said Lin Hao, gently. "Under another name or in another box. It goes down in a fold and folds get put where folds get put."
 
+## The Boxes She Kept
+
+He did not let the man go with that, and asked him instead to sit down and tell him about the house, because a man will say what his wife kept for a good deal longer than he will say what an office refused him.
+
+"She kept boxes under the bed," the man said, and took the bench, and put his coat across his knees like a man ready to be told something long. "One for each year we were married. With letters and bills and the papers from every counter. She tied each bundle with string. After she died I opened all of them looking for your fold, and I found bundles for nine years, and the second month of this year holds a string with nothing under it."
+
+Lin Hao pictured the open box and the empty string, and felt the uselessness of an office that writes answers and folds them and hands them over, when a fold can slip behind a box and leave a man with boxes of everything and nothing of one winter morning.
+
+"The boxes are not the same boxes as the ones you are thinking of," the man said. "Mine are paper. Hers were paper. And a wall is paper. So somewhere in one of those nine years there is a piece of card about a wall, with a date on the outside of it, and I have not been able to be clever enough to find it."
+
+"Keep looking," said Lin Hao. "Behind the boxes and under the paper at the bottom. Folds travel in coats and get left in pockets. And if it does not come to light, come back, and the reading will be done again, in the voice we read everything in, for as long as you need it."
+
+The man nodded, and something in his face eased, though nothing had been given, because a promise of re-reading is not a page and is not nothing either.
+
+## Down The Four Flights
+
 The man went down the four flights, and his step on the stair was the step of somebody carrying something heavier than a coat, and Lin Hao stood at the head of that stair until the sound of him was gone, and felt anger at the room and at the promise and at himself, all three at once, and all three useless.
 
 Wenna Raut closed that Register and leaned back, and her hands were shaking a little, because the person a row is about had died in the sixth month and the row was dated the second, and both dates were on the page absolutely, and no interval was said aloud about them that morning.
 
-## The Boxes She Kept
-
-He asked the man about the house, and the man told him, standing at the bench with his coat refolded, because talking about the house was easier than talking about the room.
-
-"She kept boxes under the bed," he said. "One for each year we were married. With letters and bills and the papers from every counter. She tied each bundle with string. After she died I opened all of them looking for your fold, and I found bundles for nine years, and the second month of this year holds a string with nothing under it."
-
-Lin Hao pictured the open box and the empty string, and felt the uselessness of an office that writes answers and folds them and hands them over, when a fold can slip behind a box and leave a man with boxes of everything and nothing of one winter morning.
-
-"Keep looking," he said. "Behind the boxes and under the paper at the bottom. Folds travel in coats and get left in pockets. And if it does not come to light, come back, and the reading will be done again, in the voice we read everything in, for as long as you need it."
-
-The man nodded, and something in his face eased, though nothing had been given, because a promise of re-reading is not a page and is not nothing either.
+She asked him whether the family of the twenty-third would come up on their own or would have to be sent for, and he said they would come up on their own, because a family that has been refused something comes up twice unasked and will not be fetched.
 
 He went down that hill at about three and stood a while where the lane meets the road, thinking about a house where a woman had kept every paper and a man could not find one fold, and about what the office owes a family that has nothing at all, and he did not know, and the not knowing followed him back up the hill.
 

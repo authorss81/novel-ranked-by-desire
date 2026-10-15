@@ -4,7 +4,7 @@ Three thousand seven hundred and eighty-three was the fourth of this month and t
 
 ## Her Second Coming
 
-She came up again on the eleventh, nine days after the fourth, slower than before, with a stick she had not carried the first time, and she smiled at Wenna Raut as she came in, as if the room were a place she knew now.
+She came up again on the eleventh, seven days after the fourth, slower than before, with a stick she had not carried the first time, and she smiled at Wenna Raut as she came in, as if the room were a place she knew now.
 
 "I have come about something else," she said. "Not what I came for last time. What I asked for afterwards, which I did not know I wanted until I was home."
 
@@ -60,7 +60,7 @@ Wenna Raut entered the refusal in the words the sister had used, with the date a
 
 "That is the worst thing this room has done since March," she said.
 
-"I know," said Lin Hao, and went down that hill to the corner where the board goes up, and stood there until dark, thinking about who pays and how often, and about what August has left him to close.
+"I know," said Lin Hao, and went down that hill to the corner where the board goes up, and stood there until dark, thinking about who pays and how often, and about what is left of August.
 
 The board stood empty in the dark, and the paste on the top batten held fast, and he put the back of a knuckle against it the way he had in March, and it gave nothing, because months had passed and the work holds. He thought about the sister's stick tapping down four flights, and about the copy refused, and about how a room that answers honestly had answered her twice with nothing she could hold, and about how the eighteenth would have to end it.
 
@@ -68,25 +68,33 @@ About four people passed him on the path going down, and one nodded, and he nodd
 
 When he reached the bottom he turned and looked up at the four flights of windows, dark now except one, and thought about the eleventh and the fourth and the two comings that belong to her, and about how both would stand in the room on the eighteenth when he said the sentence that ends them.
 
-He walked home slowly through streets going dark, past windows lit and doors shut, thinking about copies and refusals and who pays, and about how the sister pays twice over, in breath and in holding nothing, and about how Wenna Raut pays in writing, and about how he pays in saying. Three payers for one refusal, and the refusal stands, and August has one week left, and the eighteenth will ask the most of all.
+He walked home slowly through streets going dark, past windows lit and doors shut, thinking about a basket with nine slips in it, and about the certificate one of those women would be holding in seven days, and about the refusal, which stands, and about the eighteenth being seven days off.
 
 At his own stair he stopped and rested, the way she had rested on the third landing, with his forehead near the wall though not against it, and thought about how little separates a man who climbs nightly for wages from a woman who climbed twice for nothing she could hold.
 
-The wall was cold through the air before it. He went up, and lay awake a while thinking about the stick tapping, and about the eighteenth, and about what saying it to everybody together would cost the brother who has not yet heard it.
+## Six Days Off
 
-He rose before light and wrote nothing, because nothing in the room may be written by him, and came up early to stand alone with the shut Register, the way he has done more mornings this summer than he admits.
+The wall was cold through the air before it. He went up, and lay awake the whole of the night with the days of the month arranged in his head the way he arranges everything now, and the arranging did not help, because what he was arranging was not time. It was the shape of a room at twelve o'clock on the eighteenth and the faces in it and the order they would speak in.
 
-Wenna Raut found him there, and the two of them worked the morning askings through together, and every reading landed heavier, because the eighteenth stood four days off and both of them knew what it would ask of the families, and of the sister most of all, and of him most after her.
+He rose before light on the twelfth and came up the four flights and stood with the shut Register on the table and did not open it, because there is nothing in it he does not already know and the carriers take it down at half past five and it belongs to them until then.
 
-When the askings were done and the room empty, Wenna Raut entered them all in the words each had used, with the dates and the hours, and the entering took the best part of an hour, and he stood at the window while she worked, thinking about copies refused and sticks on stairs and the sentence waiting four days off.
+Wenna Raut came in at the ordinary hour and put her bag down where she always puts it, and looked at him, and he saw that she had been up those same four flights in the dark, and neither of them said so, because saying so would have made it a thing they were doing together and neither of them had been asked.
 
-At half past five the carriers came as always, and the book went down, and the room stood empty with the door standing open, and tomorrow would bring the same, until the eighteenth ends the waiting.
+"Six days," said Wenna Raut.
 
-The waiting grows heavier each morning, and both of them feel it, and neither says so, because saying it would not lighten any morning for anybody. The work itself is the only answer the room has. August has three mornings left after this one. The eighteenth will end the waiting one way or another.
+"Six days," said Lin Hao. "And here is what I have not said to you and will not say to anybody before that room is full. I have not decided whether the sister is told before the eighteenth or on it."
 
-He slept little that night, and woke before light, and lay thinking about the stick tapping down four flights, until the morning came.
+"Is that a real question."
 
-The morning came cold and grey, and he rose and washed and went up early, before the carriers, to stand alone with the shut Register a while in the quiet.
+"It is the only question there is," said Lin Hao. "If I tell her before, she comes up a third time alone and hears it in a room with two of us in it, and she will not have been standing in the room where it is said to everybody else. If I tell her on it, she hears it in front of families she has never met and a young man with plaster on his hands who is going to be angry at somebody on her behalf."
+
+Wenna Raut did not answer, which was how she answered.
+
+"One of those is a kindness and one of those is not," said Lin Hao. "And I do not know which, and nothing in nine years has ever made me choose between two things where one of them is hurting a person I made hurt."
+
+"Then the eighteenth will decide it for you," said Wenna Raut, "the way the tenth of June decided itself, and you will find out which it was afterwards, in a lane, from a woman washing steps."
+
+"No," said Lin Hao. "On the tenth of June there was a woman standing in front of me and I could not unsay anything to her. The eighteenth I am choosing before anybody is in the room. And that is the whole difference, and it is not a small one, and I have not slept on it."
 
 *Three thousand seven hundred and ninety days. Less three thousand seven hundred and eighty-three, the fourth of this month, is seven, and what she asked for afterwards was not what she came for, and the refusal was given to her face, and she pays it and the clerk pays it and he pays it.*
 

@@ -28,7 +28,7 @@ She read it out in the voice that office reads everything in, with the sister st
 
 The sister listened on her feet, because she had not taken the bench, and her hands hung at her sides, and when the reading ended she nodded once, as if the words were the ones she had expected and expecting them had not made them easier.
 
-"That is what you hold about me," she said. "One row entered in April out of somebody else's mouth. And I must hear it, and I have heard it, and now I am here, and the coming was supposed to be the thing that answered it."
+"That is what you hold about me," she said. "One row entered in April out of somebody else's mouth. And I have come up four flights on my own to hear it. And I have heard it. And the coming was supposed to be the thing that answered it."
 
 Lin Hao felt his throat close, because she had done the thing the clause assumed everybody could do, and she had done it ill and in the cold and alone, and the doing of it proved the clause wrong rather than right.
 
@@ -40,7 +40,19 @@ He explained it to her as gently as he could, and every word of it hurt him goin
 
 She looked at him, and her eyes were clear and dry, and he understood that she had known this on the second flight and had come on anyway, because not coming would have been worse than coming for nothing.
 
-"I told no person I was coming. I left the house before light and I walked here slowly and I climbed your stair. And what the office holds about me is one row out of somebody else's mouth. And she must hear it. And I have heard it."
+"Then what were the four years for," she said. "If coming does not do it. What were they doing for me all that time with nothing under them."
+
+"They were doing for me the only thing they could," said Lin Hao. "They were letting me not decide. Every morning for four years I did not have to find out whether you were alive or dead, and a man in my position will build a great deal on not finding out."
+
+"That is an honest answer and I do not think I like it."
+
+"No," he said. "Nobody does. That is what the four years were."
+
+She said the word *column* out loud then, in the room, having picked it up from him two hours before, and asked him whether a column of the living and the dead would really be so much worse than a column of the living and the dead that were all still alive.
+
+He told her it would, and that he had tried it once and it had taken a week to say out loud, and that the reason a column is worse is not the people in it but that anybody can now go down the column and stop reading at whichever one they liked. She listened to the whole of that and then said, "Then you will not write one," in a voice so flat that he understood she was not asking.
+
+"I told no person I was coming. I left the house before light and I walked here slowly and I climbed your stair. And what the office holds about me is one row out of somebody else's mouth, and I have stood in the room and heard it read, and I am still standing here, which I would not be if it had been nothing."
 
 Wenna Raut stood at the table with tears on her face and did not wipe them, because a clerk who weeps in a room is a person and a clerk who leaves the room is absent, and she would not be absent for this.
 
@@ -66,21 +78,15 @@ He went back into the room and stood at the window looking down at the street, a
 
 They stood a while longer at the window, and the street emptied, and the cold came off the glass, and the room behind them held one row with nothing under it and a clause under that which is wrong, and both would wait for the eighteenth, and waiting is the only thing the office can do rightly now.
 
-He thought about the fourth of August for the rest of the day, between askings, and about a forehead against a wall on a third landing, and about how the climb had priced his December sentence step by step, and the pricing stayed with him through the afternoon like a figure on the back of a hand.
+He thought about the fourth of August for the rest of the day, between askings, and about a forehead against a wall on a third landing, and about how the climb had priced his December sentence step by step.
 
 At half past five he stood aside for the carriers as always, and went down himself on foot, counting the four flights the way she must have counted them coming up, and each landing turned him a little, and by the bottom he understood the climb with his legs and not only his head.
 
 In the yard he met one of the carriers coming back with the empty strap over her shoulder, and she nodded to him, and he nodded back, and neither spoke, because the day had said enough.
 
-He walked home through the cold with the count of the four flights in his legs, and thought about how the office holds one row about a sister and nothing under it, and about how tomorrow the row will still have nothing under it, and about how the nothing is now the heaviest thing in the room.
+He walked home through the cold with the count of the four flights in his legs, and once the climb had been priced and once more by legs that counted it going down, and the eighteenth would price it a third time for everybody together, and he would pay it gladly if the paying ends the clause.
 
-At his own door he stood a while looking back at the hill, and thought about foreheads against walls and sticks on stairs, and about how the heaviest things in this city are not books or slates but sentences, and about how one sentence written in December has now been priced twice.
-
-Once by a climb and once by legs that counted it going down, and the eighteenth will price it a third time, for everybody together, and he dreads it and will not turn from it, and the dread itself is part of the price, and he will pay it gladly if the paying ends the clause.
-
-The street was empty and the cold deepened, and he turned his collar up.
-
-He walked the rest of the way home slowly, counting nothing, and the cold steadied him, and the hill was quiet behind him.
+At his own door he stood a while looking back at the hill, and thought about the sentence waiting six weeks to be said aloud in a room with witnesses in it, and about how a week is nothing and a week is the whole of what is left to prepare.
 
 *Three thousand seven hundred and eighty-three days. Less three thousand seven hundred and seventy-six, the twenty-seventh of the month before this one, is seven, and the sister came up four flights on her own in the cold, and what the office holds about her is one row entered in April out of somebody else's mouth.*
 

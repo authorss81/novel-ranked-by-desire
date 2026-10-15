@@ -6,7 +6,7 @@ Three thousand seven hundred and forty-two was the twenty-third of this month an
 
 The dispensary stands two streets over from the lane with the nine stools, and the day room at the back of it holds nine beds along two walls, with a window at the far end that was open to the cold though it was the thirtieth of June.
 
-Tessa Okonkwo keeps the room in the afternoons when the morning round is done, and she was at the third bed with her sleeves up past the elbow when he came in, washing a man's feet in a basin, with the man's blanket pulled decently up and the man's face turned to the wall.
+Tessa Okonkwo keeps the room in the afternoons when the morning round is done, and she was at the third bed with her sleeves up past the elbow when he came in at about half past four, washing a man's feet in a basin, with the man's blanket pulled decently up and the man's face turned to the wall.
 
 The skin is gone from the base of the nails on both of her hands and has been gone for years, which is what soap and hot water do to a person who does not wear gloves indoors, and it is the only mark she has and no person in that building would call it one.
 
@@ -18,7 +18,7 @@ Two floors up a clerk writes the names down, which is the rule of that house, an
 
 He put his coat on the chair and stood with his hands behind his back, because the room has a way of making visitors hold themselves, and he looked at the nine beds and the nine blankets and the nine charts at the feet of them, and at the light coming in cold over the top of the sill.
 
-"I have come about the sheets," said Lin Hao. "The forty-first came down off that rail at four this afternoon and the forty-second went up in its place carrying no new line in the office hand. That is the second quarter-end of the four."
+"I have come about the sheets," said Lin Hao. "The forty-first came down off that rail at four and the forty-second went up in its place carrying no new line in the office hand. That is the second quarter-end of the four."
 
 "I know what day it is," said Tessa Okonkwo. She finished with the basin and dried her hands on her apron and pulled the blanket straight. "And I know you have come to say the head beside it, because you say it four times a year and this is the second of them, and you want somebody in the room who will not make you say it about a person."
 
@@ -26,7 +26,7 @@ He put his coat on the chair and stood with his hands behind his back, because t
 
 She nodded, wringing out the cloth.
 
-"And three thousand seven hundred and forty-nine less three thousand six hundred and fifty-nine is ninety, which is three times thirty and nothing over, three months exactly, and a sheet going up at four this afternoon carries no new line."
+"And three thousand seven hundred and forty-nine less three thousand six hundred and fifty-nine is ninety, which is three times thirty and nothing over, three months exactly, and the sheet that went up at four carries no new line."
 
 "That is the cleanest interval in your year," said Tessa Okonkwo. "And the first exact quarter figure since March. And you have said it in a room where no person may name the name of a person who is not lying in it, which means it cannot be said about anybody and therefore has to be said about the sheets."
 
@@ -46,7 +46,7 @@ He told her about the man whose wife died in the sixth month and whose row was d
 
 She came across to where he stood and stopped about a foot from him, and the room went quiet in the way it does when everybody in it is asleep or pretending to be.
 
-"You are rank one," said Tessa Okonkwo. "On a night shift you asked for. With a chest spent since the fourth year and no permission of any kind. And I have been absorbing other people's injuries for forty chapters of your life and I am tired of watching you carry paper up stairs."
+"You are rank one," said Tessa Okonkwo. "On a night shift you asked for. With a chest spent since the fourth year and no permission of any kind. And I have been taking a share off people in this room for nine years and I am tired of watching you carry paper up stairs."
 
 "Yes," he said.
 
@@ -100,6 +100,6 @@ He left her at the door of that room with the nine beds behind her and the clerk
 
 *Three thousand seven hundred and forty-nine days. Less three thousand seven hundred and forty-two, the twenty-third of this month, is seven, and the head stands at eight hundred and fifty-two, unmoved across twenty-six sheets and twenty-five quarters, both named in words, both right, differing by one, with three thousand seven hundred and forty-nine less one thousand four hundred and ninety-nine is two thousand two hundred and fifty, which is twenty-five times ninety.*
 
-*Less three thousand six hundred and fifty-nine, the thirtieth of March, is ninety, which is three times thirty and nothing over, and the forty-first sheet came down off that rail at four this afternoon and the forty-second went up in its place carrying no new line in the office hand.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is ninety, which is three times thirty and nothing over, and the forty-first sheet came down off that rail at four and the forty-second went up in its place carrying no new line in the office hand.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand three hundred and twenty-nine days, which is forty-four months and nine days after them, and a drawer in that room has been shut for every one of them under an instruction with a man's name under it.*

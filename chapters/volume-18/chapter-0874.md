@@ -4,7 +4,7 @@ Three thousand seven hundred and forty-nine was the thirtieth of the month befor
 
 ## The Family Comes Up Together
 
-They came up at about eleven on the sixth, three of them together, a brother and a sister and an older woman who held the rail all the way, and the brother did the talking because the other two had agreed he would.
+They came up at about eleven on the sixth, three of them together, a brother and a sister and an older woman who held the rail all the way, and the brother did the talking because the other two had agreed it would fall to him.
 
 "We are the family of the man who was here on the twenty-third," he said. "About his wife. Who died in the sixth month. Whose row is dated the second month."
 
@@ -56,25 +56,29 @@ Lin Hao looked at the small things on the linen, and felt the familiar pressure 
 
 The brother put his hand over his mother's hand where it rested on the linen, and the older woman folded the corners back over the key, and the gesture was practiced, as if she had folded and unfolded it many mornings.
 
+## At The Door
+
 At the door the brother turned back, and his anger had gone somewhere behind his eyes, and what was left was the plain tiredness of a man carrying for others.
 
 "We will look behind the boxes," he said. "As you said. And if the fold comes to light we will keep it with the key. And if it does not, we have the reading. Twice now. That is more than most houses hold of a winter."
 
-The older woman nodded at that, and the sister helped her up, and the three went down together into the afternoon, and the stair took them quietly, as if it knew they carried enough already.
+The older woman nodded at that, and the sister did not, because she was looking at Lin Hao instead of at her brother.
+
+"What do we tell people," she said. "When they ask what the office said about her."
+
+"Tell them we read her words back," said Lin Hao. "And that the reading took less than a minute. And that she came up four flights in the cold of the second month and was proud of a paper she had copied out twice. And then tell them the rest is not ours to give, and leave it there, because a street given nothing else will make up something better and be wrong about it as well."
+
+The sister said that was a hard thing to be handed at a door, and thanked him for it in the plain way of people who have run out of words, and the older woman touched his sleeve as she went past and said nothing at all.
 
 ## Down Four Flights With Nothing
 
-They stood a while without speaking, and Wenna Raut entered the morning in the words the brother had used, with the date and the hour, and the pen scratched softly and the older woman watched it as the mother on the seventeenth had watched it, as if writing were keeping.
+They went down the four flights together, slowly, because of the older woman, and he stood at the head of that stair and listened to them going until the stair was quiet.
 
-"What do we tell people," said the sister at the door. "When they ask what the office said about her."
-
-"Tell them we read her words back," said Lin Hao. "And that the reading took less than a minute. And that she came up four flights in the cold of the second month and was proud of a paper she had copied out twice."
-
-## The Walk To The Lane
-
-The older woman touched his sleeve as she went past, lightly, and said nothing, and the three of them went down the four flights together, slowly because of her, and he listened to them going until the stair was quiet.
+Then he stood in the room with Wenna Raut and the door open and nothing in it, and she entered the morning in the words the brother had used, with the date and the hour, and the pen scratched softly, and the bench where the older woman had been sitting for an hour still had the print of her in the wood.
 
 He felt a heaviness that was not his chest, though the chest was part of it, and he wanted to have given them something to hold, and the want stayed with him through the afternoon, because an office that answers honestly and in the open had answered, and the answer was true, and it was not enough, and it would not be enough in August either.
+
+## The Walk To The Lane
 
 He went down that hill at about three to walk the lane behind the building where the drain runs, because he needed to see water going under a wall with his own eyes after saying so much about it in a room. The water ran low and brown between the stones, and a woman washing steps nodded to him, and he nodded back, and neither spoke.
 
@@ -84,11 +88,17 @@ Wenna Raut had the room straight when he returned, and the pen put away, and she
 
 The two of them finished the day the way they finish every day now, with the book strapped at half past five and the stair quiet behind it, and the drain running low behind the building whether anybody watches it or not, and the key and the hair folded back in their linen in a house down the lane.
 
-Wenna Raut closed the pen into the tray and looked at him.
+## What The Third Family Will Ask
 
-"That is the second family," she said. "And there will be more. And the difference you said will have to be said every time."
+"That was the second family," said Wenna Raut, closing the pen into the tray. "And there will be a third before this month is out. I have the passage saying so."
 
-"I know," said Lin Hao, and went down that hill at about three to walk the lane behind the building where the drain runs, because he needed to see water going under a wall with his own eyes after saying so much about it in a room.
+"I know."
+
+"And the third will not be about somebody dead. It will be about somebody who is alive and lives on the fourth floor of a building on Cordwain and will not come down, and you have nothing said about that either, and I have watched you tell a man this office says nothing when it says something twice."
+
+He had no answer to that and did not make one, which was a thing he had not done at that end of that table in nine years.
+
+"Then say it again on the thirteenth in the same words," said Wenna Raut, "and do not get better at it as the summer goes on, because every time you get better at it they stop believing you and start believing the office, and the office has not earned that."
 
 *Three thousand seven hundred and fifty-five days. Less three thousand seven hundred and forty-nine, the thirtieth of the month before this one, is six, and a family came up four flights together about a wife who died in the sixth month and a row dated the second, and the office said what it can say and what it cannot, and the difference between them is about nine words long.*
 
