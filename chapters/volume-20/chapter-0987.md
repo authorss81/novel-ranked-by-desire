@@ -4,11 +4,11 @@ Four thousand five hundred and fifty-three was the twenty-fourth of this one and
 
 ## The Passage Off Cordwain At Half Past Two
 
-He went down and round and into the passage at about half past two because the last working day of a quarter is the one day in three months that the counter under that window has a sheet face up on the rail that anybody standing in that passage can read, and he had never once missed it and he was not going to start on the thirtieth of September.
+He went down and round and into the passage at about half past two because the last working day of a quarter is one day in three months on which that counter has a sheet face up on its rail where anybody standing in the passage can read the figure at the head of it, and he had not missed one in nine years and he was not going to start on the thirtieth of September.
 
-It was full. The queue was three deep and the man behind the counter was working, and Lin Hao stood on the far side with his shoulder to the wall and let him work, because a man who interrupts work in order to watch it has not understood what work is.
+It was busy. Three deep at the window and the man behind it working, so Lin Hao put his shoulder against the far wall and let him get on with it. He learned a long time ago that a man who puts his face in front of another man's work has not understood what the work is for.
 
-At about twenty past three the press thinned and the counterman came round the end of the counter with his sleeve turned back, and the sheet was still face up on its nail, and he did not look at Lin Hao at all.
+At about twenty past three the queue went down and the counterman came round the side of the counter with his sleeve turned back. The sheet was still face up on its nail and he did not look at Lin Hao at all.
 
 ## Four O'Clock
 
@@ -18,29 +18,25 @@ Then he turned it round so the figure at the head of it faced the passage, becau
 
 "Four thousand five hundred and fifty-nine less one thousand four hundred and ninety-nine is three thousand and sixty, which is thirty-four times ninety. Thirty-five sheets and thirty-four quarters, differing by one, and the figure standing at the head of that sheet is eight hundred and fifty-two, and it has stood at that figure through thirty-five of those sheets and thirty-four of those quarters."
 
-There were people in that passage who had never seen the man before and would not see him again. Two of them wrote something down. One of them asked a man beside her what it was and he said a number, and she said that was not what it was, and he said he had been behind that counter for nine years and it was a number.
+There were people in that passage who had never seen the man before and would not see him again. A woman near the front wrote something down, and the woman beside her asked a man what it was, and he said a number, and she said that was not what it was, and he said he had been behind that counter for nine years and it was a number.
 
 He had said it that way every quarter for nine years and had never once been asked by anybody to say it differently.
 
 Lin Hao had stood in that passage four times and watched it be said to people who had no idea what they were being told, and had never once thought to put it to him: what is the number for. He thought about it in the street afterwards and decided he was not going to, because he already knew what the answer would be, and because the man had turned that sheet round so that the figure faced the room and had never once been asked to do that either.
 
-## The Cart In The Yard
+## The Yard At About Four
 
-The cart came into the yard about ten minutes later and stopped where it had stopped on the twelfth of August.
+The carrier with the bad back had gone down at about half past three and come back up at about ten past four with it on the strap over her own shoulder, and the other carrier had the top end, and neither of them had said a word the whole way.
 
-Nobody had sent for it. It came because a man who hires carts had hired it on the twelfth for nine days, and nine days had gone by, and the cart had gone back to the yard, and it had come out again on a second booking that this office had never heard of, and the man at the tailboard did not know anything about a building four hundred yards off and had not known it when he took the load on.
+She had gone down once already that day, at about eleven in the morning, on her own errand, to a room off the market with a wide door open in daylight, and had asked a man at a bench whether a book of ours was still on it, and he had said it was, and she had gone back up the four flights with nothing on the strap and had said nothing about it to anybody in that building.
 
-The carrier with the bad back was at the kerb.
-
-She had gone down on foot at about eleven, on her own errand, to a room off the market with a wide door open in daylight, and she had said the book is mine and had said nothing else, and a man at a bench who had not seen her before had looked at her for about four seconds and then had unstrapped it and let her take it.
-
-She had it on the strap over her own shoulder and she came up the four flights behind the other carrier, who had the top end, and neither of them said a word the whole way.
+There was a cart standing in that yard with its shafts up, and the man at the tailboard had come out of it on a booking that had nothing to do with any building four hundred yards off and had never heard of this one.
 
 ## Lighter
 
-It went onto the table square, because for nine years it had been put down square by somebody.
+It went onto the table square, because somebody had been putting it down square on that table for nine years and neither of them had any idea why.
 
-It was lighter. He knew it in the hand before he had it on the boards and then again when he had it square on the table with his own two fingers under the bottom edge, and the difference was not small and not large and it was exactly the weight of about four inches of board that was no longer split along the bottom.
+It was lighter. He knew it in the hand before he had it off her shoulder and then again when he had it square on the table with his own two fingers under the bottom edge, and the difference was not small and not large and it was exactly the weight of about four inches of board that was no longer split along the bottom.
 
 The back board had been taken off and a new one had been let in. There was no daylight down the bottom of it and there was no sound coming out of it, and he stood there with his thumb where the split had been for two years and found flat board and nothing else.
 
@@ -60,7 +56,7 @@ He opened the front board on its hinge and there was a strip of paper the width 
 
 She stood in the doorway of that room with her hand on the strap and she listened.
 
-The room was not silent in the ordinary way a room with people in it is not silent. There were people at the far end of the table and somebody's chair went back about two flights down and there was a cart in the yard that did not need its shafts up. And she stood there and listened for about nine seconds anyway, in the way a person listens for a thing they have heard every working evening for two years.
+The room was not silent in the ordinary way a room with people in it is not silent. There were people at the far end of the table and somebody's chair went back about two flights down and the yard below it had a cart standing in it with the shafts up. And she stood there and listened for about nine seconds anyway, in the way a person listens for a thing they have heard every working evening for two years.
 
 "There is nothing in it," said the carrier with the bad back.
 
@@ -76,15 +72,21 @@ Wenna Raut had her hand on the cover and had not opened it.
 
 "Say it."
 
-"I am not going to announce a check," said Lin Hao. "A check that is announced is a practice, and we have thirteen of those and not one page that describes any of them, and if I make a fifteenth out of the first hour that that book has been out of this building since the twelfth of August then in about four years this room will have a rule about checking and not one person will be able to say who put it there."
+"I am not going to announce a check," said Lin Hao.
+
+"A check that is announced is a practice. We have the twelve of those and one more I put on a sheet of my own in May, and not one page that tells a stranger what any of them is. If I make another out of the first hour that book has been out of this building, then in about four years this room will have a rule about checking in it, and not one of the three of us could say which of us put it there."
 
 "Then what will you do."
 
 "I will look at it," said Lin Hao. "And you will not know that I have, and neither will he, and that is the whole of the instrument and it is a bad one and we are having it because it is the only one there is."
 
-He opened the book. The pages went over in the voice that a bound book makes when it has been opened nine thousand times and has been opened this morning for the first time by somebody else, and there was a date at the top of a row and an hour under the date and the words that had been used, and the last row in it was the fifteenth of August.
+He opened the book. The pages went over in the voice that a bound book makes when it has been opened nine thousand times and has been opened this morning for the first time by somebody else, and there was a date at the top of a row and an hour under the date and the words that had been used.
 
-He did not say a word about how far back it went and he did not count it, and nobody in that room asked him to. That was the whole of what nine years of refusing to count had bought him: a table, two chairs, a drawer with a man's name under the instruction on it, a woman at it, a book, and no number anywhere in the city.
+The last row in it was the twelfth of August. That is the day it went out of this room.
+
+Everything this office has said to anybody since then is standing in that door and it is in no hands at all. There is not one page anywhere in this city that says a word about it.
+
+He did not say a word about how far back it went and he did not count it, and the room let him get away with it. That was the whole of what nine years of refusing to count had bought him: a table, two chairs, a drawer with a name under the instruction, a woman at the far end of it, a book, and a door standing open.
 
 He did not read it. He put his finger on the page, and stopped, and then he took his finger off it and left the book open at nothing at all in the middle of the room with the door open.
 

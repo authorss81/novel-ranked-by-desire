@@ -8,7 +8,7 @@ He did it on the twenty-first, at about a quarter to ten, with the door open on 
 
 "From this morning the three of us answer," he said. "In this room, in our own words, whoever of us is standing here when the person comes up those four flights. I am going to be at the bottom of that stair from a quarter to ten to half past five as I have been since the twenty-fourth of March, and if anybody wants me they can come and get me and I will come up. That is the whole of it."
 
-Nobody in that room said anything for about four seconds and the door was open.
+The room said nothing back for about four seconds and the door was open.
 
 ## The Clerk's Objection, In Her Own Words
 
@@ -36,7 +36,7 @@ The other carrier stood at the top of that stair with the strap rolled up at his
 
 "It is a question to me and I am the one who is being put at the top of a table."
 
-He did not move. "I cannot tell you what a piece of paper in that book means. I have carried it past the table about nine thousand times. And if somebody comes up those four flights tomorrow with something in their hand and asks a question about it, then the person standing here will be me, and I will not be able to do it, and whoever is in the room will know that I cannot do it, including the person who came up the stair."
+He did not move. "I cannot tell you what a piece of paper in that book means. I have carried it past the table about a thousand times. And if somebody comes up those four flights tomorrow with something in their hand and asks a question about it, then the person standing here will be me, and I will not be able to do it, and whoever is in the room will know that I cannot do it, including the person who came up the stair."
 
 "Yes," said Lin Hao.
 
@@ -74,7 +74,7 @@ The carrier with the bad back went down at about ten with the strap over her sho
 
 "No," said Lin Hao. "It is the same as what you said on the landing in June, and I have not found a better sentence for it since and I am not going to invent one now."
 
-He put his shoulder against the frame of the door. "If nobody asks me then I am a man at the bottom of a stair. I have been one since the twenty-fourth of March. The only thing that has changed is that I am not the one they climb for."
+He put his shoulder against the frame of the door. "If a person does not ask me then I am a man at the bottom of a stair. I have been one since the twenty-fourth of March. The only thing that has changed is that I am not the one they climb for."
 
 She went down.
 
@@ -84,27 +84,31 @@ The other carrier stayed and rolled the strap up into a coil, and then unrolled 
 
 "You will find out in about nine days that you can do most of it," said Lin Hao, "and that the part you cannot do is the part I was doing, and that is the correct arrangement and I am not going to soften it for you now."
 
-Four thousand five hundred and eighty days.
+The carrier with the bad back was halfway down the second landing by then, and stopped, and said the last thing she had up the stairwell without any volume in it at all.
+
+"Anybody of the three of us can be wrong," she said. "That is what I came back up for. Nine years I have been up that stair telling that room that a person at that table cannot be wrong, and it was never true of the three of us, and I found that out this morning."
+
+Wenna Raut made a small sound that was not a laugh and was not anything else, and went back to the end of the table.
 
 ## At Half Past Five In The Dark
 
-He came down the four flights at half past five with his hands empty and the wire round the buckle twisted twice in his pocket doing nothing for anybody, and there was no tick in the strap and there had not been for three weeks, and he got to the bottom of his own stair at about twenty to five with the light gone off the wall above his own door for the season.
+He carried that book down the four flights at half past five, under his arm, with the wire round the buckle twisted twice, and there was no tick in it and there had not been for three weeks. He got to the bottom of his own stair at about twenty to five with the light gone off the wall above his own door for the season.
 
 He said the three lines out loud to his own court.
 
-There was nobody in it. He said them anyway, in the voice, at the length, standing on his own second step from the bottom with the arch on one side of him and the low wall on the other.
+The court was empty. He said them anyway, in the voice, at the length, standing on his own second step from the bottom with the arch on one side of him and the low wall on the other.
 
-He had said them in that place on and off since November. This was the first time he had said them as a man who was not going to be the answer at the top of that door, and there was nobody in the court to hear the difference, which was the last thing he was going to get to keep.
+He had said them in that place on and off since November. This was the first time he had said them as a man who was not going to be the answer at the top of that door, and the court was empty, so the difference could not be heard by anybody, which was the last thing he was going to get to keep.
 
 Then two people came up the arch and went past him into the court, and they were talking, and one of them said the three lines out loud to the other one to see whether she had them right.
 
-She did not have them right. She had the street and she had the door at the head of four flights and she had the hours as four in the afternoon, which is what the woman with the basket had in the middle of September, and it has been welded onto those three lines by somebody being kind since the twenty-third of January, and nobody knows whose it is.
+She did not have them right. She had the street and she had the door at the head of four flights and she had the hours as four in the afternoon, which is what the woman with the basket had on the tenth of last month, and it has been welded onto those three lines by somebody being kind since about the twenty-third of January, and its author has gone.
 
-Lin Hao did not stop them and did not correct them and did not say the right hours out loud from his own second step, which is the one thing he has been doing every working evening since the fourteenth of May and which would have taken about four seconds and fixed it for both of them.
+Lin Hao did not stop them and did not correct them and did not say the right hours out loud from his own second step, which is the one thing he has been doing every working evening since November and which would have taken about four seconds and fixed it for both of them.
 
 He let them go up the four flights together saying it wrong.
 
-That is what he gave away and he gave it away in a mouth on the twenty-first of October, in a room with the door open, in front of the two people it now belonged to, and there is not one instrument in this city that can call a mouth back.
+That is what he gave away, and he gave it away in a mouth on the twenty-first of October, in front of the two people it now belonged to, and nothing in this city can call a mouth back.
 
 Four thousand five hundred and eighty days. Less four thousand five hundred and seventy-three, the fourteenth of this one, is seven, and twenty-one less fourteen is seven, and a man stood at the top of four flights and told a clerk and a carrier that the three of them answer now, and he said the cost of it before he had done it once, and at twenty to five that evening two strangers said the three lines wrong at the foot of his own stair and he let them.
 

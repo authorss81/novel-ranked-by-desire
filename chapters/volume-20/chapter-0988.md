@@ -28,7 +28,7 @@ That was the arrangement and he had made it deliberately the evening before, and
 
 "That is not an answer, that is a noise."
 
-"It is the answer," said Lin Hao. "I told you what I was going to do last night at about four this room with the door open and you heard me."
+"It is the answer," said Lin Hao. "I told you what I was going to do last night at about four in this room with the door open and you heard me."
 
 "You said you would look at it."
 
@@ -38,7 +38,7 @@ That was the arrangement and he had made it deliberately the evening before, and
 
 "The board, the gutter, the front and the back and whether it is wet. That is what I have looked at and I have not said a word about it to anybody and neither are you going to."
 
-He did not raise his voice and there was a room with people in it. "Say one more word about a check in that voice in this room this morning and I will do it in front of all of them. And then it is a practice, and in about four years there will be a rule about checking in this office and not one person will be able to say which of the three of us put it there."
+He did not raise his voice and there was a room with people in it. "Say one more word about a check in that voice in this room this morning and I will do it in front of all of them. And then it is a practice, and in about four years this room will have a rule about checking in it, and every person in this city will assume it was always there, and the three of us will not be able to correct that either."
 
 She put both hands on the table.
 
@@ -50,7 +50,7 @@ She put both hands on the table.
 
 The carrier with the bad back wanted to open it at about eleven and he said not today.
 
-"You have been carrying an empty strap for thirty-two days and there is a new board in that thing."
+"You have been carrying an empty strap for forty-eight days and there is a new board in that thing."
 
 "There is a new board in it," he said, "and there is a row in it with a date on it, and I am not opening that row in front of anybody until I have sat on my own hands for one day. That is not a rule. It is a man who has been awake for two nights thinking about a strap."
 
@@ -82,7 +82,7 @@ The office at the top of that stair keeps no figure of any person and will not s
 
 "I did not expect you to, and I told you in June that you do not thank people for doing things, and it is no more true in September than it was in June."
 
-He put the pencil back on the string. "Go up your four flights and leave me alone. You have been outside for forty-eight days and there is a mark in that thing now that was not in it before it went, and there is no return on that rail for a mark. That is the only thing I know this month that is worth saying out loud."
+He put the pencil back on the string. "Go up your four flights and leave me alone. That book has been outside this building for fifty-five days and there is a mark in it now that was not in it before it went, and there is no return on that rail for a mark. That is the only thing I know this month that is worth saying out loud."
 
 ## Not Being Said Either
 
@@ -92,33 +92,33 @@ On the stair, about halfway up, he stood still for a moment.
 
 A man who is paid nothing had just told him something he had not thought of, and he was not going to pass it on, and he was not going to write it, and he was not going to say it out loud to the two of them at the top of that room either. The moment a thing like that is said in that room it becomes theirs, and then it becomes a thing somebody can be held to in four years.
 
-So he went up the remaining flights with it in his head and said nothing about it, which is the first thing he has kept off that room's own paper since the twenty-third of May, and the first time since the twenty-third of May that keeping it has cost him anything at all.
+So he went up the remaining flights with it in his head and said nothing about it, which was a new thing to do with a sentence and cost him something he had not budgeted for.
 
 ## Half Past Five Without A Sound In It
 
-The book went down those four flights at half past five in the ordinary way, in the dark, and he carried it the four hundred yards with the wire round the buckle twisted twice in his own pocket.
+At half past five he carried it down the four flights and out along that road in the ordinary way, the wire round the buckle twisted twice in his own pocket doing nothing that evening for anybody.
 
 He got about a hundred yards down the road before he worked out what was different and then he stood in the middle of the street and worked out the rest of it.
 
 There was nothing in it.
 
-For two years he had carried that thing down four flights and about four hundred yards every working evening with a tick against his ribs about every four seconds, and on the way back up he had never once been able to say what the noise had been, because he had known what it was, and now there was nothing and the strap was still going round his shoulder and the strap knew a different weight from the one it had been given for two years.
+For two years he had carried that thing down those stairs and out along that road every working evening with a tick against his ribs about every four seconds, and on the way back up he had never once been able to put a name on the noise, because he had known what it was, and now there was nothing, and the wire was still round the buckle where it had been every working evening for two years, and it had never once been the thing that made the noise.
 
-The carrier with the bad back came down behind him at about ten past six and found him standing in the road with a book under his arm and his hand on the buckle.
+The carrier with the bad back came down behind him about four minutes later and found him standing in the road with a book under his arm and his hand on the buckle.
 
 "You have stopped in the road," she said.
 
 "I have."
 
-"Then I will walk with you, because there is a man who hires carts on this road at about this hour and I would rather he did not do it twice." She took the other end of nothing at the tailboard of the cart that was not there and they walked the rest of the four hundred yards in silence.
+"Then I will walk with you, because there is a man who hires carts on this road at about this hour and I would rather he did not do it twice." She took the other end of the strap where it came down past his hip, and they walked the rest of the way in silence.
 
-"Thirty-two days," she said, at the gate.
+"Fifty-five days," she said, at the gate.
 
-"Forty-eight days out. Thirty-two of them past the nine he said."
+"Fifty-five days out. Forty-six of them past the nine he said."
 
-"Nine days on the bench," said the carrier with the bad back, "and forty-eight days in that room with four doors open. And not one person in this building knew it was due on the twenty-second of August except you, because you were the one who was told, and you told nobody, and that is not a thing I am going to argue with you about, and it is also not a thing I am going to forget."
+"Nine days on the bench," said the carrier with the bad back, "and forty-eight days in that room with four doors open, and a week of it since on that table. And not one person in this building knew it was due on the twenty-second of August except you, because you were the one who was told, and you told nobody, and that is not a thing I am going to argue with you about, and it is also not a thing I am going to forget."
 
-Four thousand five hundred and sixty-six days. Less four thousand five hundred and fifty-nine, the thirtieth of this one, is seven, and the month ended in between and there is nothing in it to take out, and a man checked a book that had been out of a building for forty-eight days with his own hands in about nine minutes and would not say so out loud.
+Four thousand five hundred and sixty-six days. Less four thousand five hundred and fifty-nine, the thirtieth of this one, is seven, and the month ended in between and there is nothing in it to take out, and a man checked a book that had been out of a building for fifty-five days with his own hands in about nine minutes and would not say so out loud.
 
 *Less four thousand five hundred and fifty-nine, the thirtieth of September, is seven, and the fifty-first sheet has been face up on that rail for every one of the last seven of them, and it does not move until the thirtieth of December.*
 

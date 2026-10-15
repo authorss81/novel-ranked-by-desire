@@ -58,9 +58,9 @@ The woman looked at him for a while.
 
 ## What He Said With The Door Open
 
-"Then I will tell you what it is not worth," said the woman. "It is not worth the difference, and there is no difference to find, and I have not come up here to find one. You told me in August that what I brought up was yours to read and not mine to ask about, and you told me yesterday that a woman with a strap cannot give me back what I asked about, Both of those were said to me like this office was being careful with me."
+"Then I will tell you what it is not worth," said the woman. "It is not worth the difference, there is no difference to find, and I did not come up here to find one. You told me in August that what I brought up was yours to read and not mine to ask about, and on the tenth of this month that a woman with a strap cannot hand it back. Both of those were said to me like this office was being careful with me."
 
-"It was. And I have been two streets off this court for eleven years and nobody has been careful with me about anything."
+"It was. And I have been in this quarter for eleven years and I have not had anybody careful with me about anything."
 
 She put two fingers on the sheet.
 
@@ -86,7 +86,7 @@ Then she said the thing that finished him.
 
 ## Asking The Only Question He Can Answer
 
-Nobody in that room said anything for a moment.
+The room went quiet for a moment.
 
 Wenna Raut looked at the table. The carrier with the bad back was three flights down with a strap that had nothing on it. Lin Hao understood that the woman had just taken the argument he had lived inside for nine years and put it down on the table between them, and that he was not going to get it back, and that the only honest thing he could do about that was to say so in front of a room.
 
@@ -96,7 +96,7 @@ Wenna Raut looked at the table. The carrier with the bad back was three flights 
 
 "Not for you. For everybody." He turned round to the room, which was not empty, which it never is. "I am going to say three lines out loud and I want the woman to take them, because she has never got them and she is the one person in this room who has never had a card."
 
-So he said the street, and the door at the head of four flights, and the hours between a quarter to ten and half past five on working mornings, five days in seven, and he said them the way he says them at the foot of his own stair, which is the way he has said them since the fourteenth of May.
+So he said the street, and the door at the head of four flights, and the hours between a quarter to ten and half past five on working mornings, five days in seven, and he said them the way he says them at the foot of his own stair, which is the way he has said them since November.
 
 The woman wrote nothing down. She said them back to him once, all of them, and she got all of them.
 

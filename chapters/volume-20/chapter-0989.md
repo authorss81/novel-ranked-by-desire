@@ -20,7 +20,7 @@ Wenna Raut let it stand for about four seconds, which was the most she had ever 
 
 "There is not a second half."
 
-"There is always a second half and you have known that since the seventh of July." She put her pen down. "Nine days is a count of days and anybody can check it against a calendar. Nine answers a day is a count of answers and nobody can check it against anything, and you know that, because you refused to check her against anything on the seventeenth of September and she told you what had saved her and it was not a figure."
+"There is always a second half and you have known that since the seventh of July." She put her pen down. "Nine days is a count of days and anybody can check it against a calendar. Nine answers a day is a count of answers and there is nothing in this city to check it against, and you know that, because you refused to check her against anything on the seventeenth of September and she told you what had saved her and it was not a figure."
 
 ## The Nine Days
 
@@ -28,7 +28,9 @@ Wenna Raut let it stand for about four seconds, which was the most she had ever 
 
 That was all it took, and he had known for a month that it would be all it took, and he had put off saying it for a fortnight because a man who has arranged to lose the only record he has spent a morning finding out that nothing happened does not get to say so lightly.
 
-"They held. Nobody found out. Nobody came back angry. There was no morning in the middle of that where a person came up those four flights and looked at the room and understood that anything was different, and I have been waiting since the twelfth of August for one of those mornings and it did not come, and that is the finding and I am going to say it out loud before either of you says it."
+"They held. They made no mark at all."
+
+"Everybody who came up in them got what they came for and not one of them came back angry. There was no morning in the middle of that where somebody came up those four flights and looked at the room and understood that anything was different. I have been waiting since the twelfth of August for one of those mornings and it did not come, and that is the finding, and I am going to say it out loud before either of you says it."
 
 "Lin Hao," said Wenna Raut.
 
@@ -62,11 +64,13 @@ He looked at the door and at the four flights of stair behind it. "And I have sp
 
 "Go on."
 
-"That book went out on the twelfth of August. A man said nine days and he was wrong or he was not, and either way it came back on the thirtieth of September." He said it slowly because he had said it to himself about forty times. "That is forty-eight days out. Nine of them were the ones I arranged and costed. The other thirty-nine were not anybody's arrangement and nobody has a figure for what happened in them and nobody is going to."
+"That book went out on the twelfth of August. A man said nine days and he was wrong or he was not, and either way it came back on the thirtieth of September." He said it slowly, because he had said it to himself about forty times.
+
+"That is forty-eight days out. Nine of them were the ones I arranged and costed. The other thirty-nine were not anybody's arrangement, and there is no figure of what happened in them in this city or in any other, and none is going to be."
 
 "Because there is no date on it," said Wenna Raut.
 
-"Because there is no date on it anywhere in the world except in my head, and I got it in a room with four doors open, and I did not send anybody, and I said on the fifth of July that a thing said once in a court belongs to the court and I was right about that and it is the same fault and not a different one."
+"Because there is no date on it anywhere in the world except in my head, and I got it in a room with four doors open, and I did not send anybody, and I said in June that a thing said once in a court belongs to the court and I was right about that and it is the same fault and not a different one."
 
 She nodded at that and did not soften it, which was the correct response and the reason he had said it out loud.
 
@@ -80,7 +84,7 @@ It had gone into the counterman's sentence, which was the only thing anybody had
 
 He had spent the whole of July treating that as a thing about a division return and a box on a form. It was not about a form at all. It was about this room. This room could not be defended, and he had known it since the seventh of July, and he had gone on running it anyway, and there was not one sheet in this building on which he could put the whole of that down.
 
-Which brought him back to the sentence he had written out on the twenty-fourth of September in front of two people, that a practice of this office is a thing one of three people does out loud in that room. Three people. He had chosen that number because it was the number of people who happened to be standing in the room, and he had not thought once, on the day he said it, about whether there would be a fourth.
+Which brought him back to the sentence he had said out loud on the twenty-fourth of September in front of two people, that a practice of this office is a thing one of three people does out loud in that room. Three people. He had chosen that number because it was the number of people who happened to be standing in the room, and he had not thought once, on the day he said it, about whether there would be a fourth.
 
 That was the anger and it had nowhere to go, because the only person it was about was a man who is paid nothing behind a counter under a window, and there was nothing to be done to him and nothing owed by him.
 
@@ -98,13 +102,15 @@ At half past three he was back on the landing and the other carrier was there wi
 
 "Not to do anything."
 
-"Not to do anything," said Lin Hao. "That is the arrangement and it has been the arrangement since the twenty-fourth of March."
+"Not to do anything," said Lin Hao. "That has been the arrangement since the twenty-fourth of March and it has not needed saying once."
 
 The other carrier stood at the top of that stair for a while and then said the thing that had been standing in that room since the twelfth of August and that not one of the three of them had been willing to be the first to say.
 
+"Say the rest of it."
+
 "There is going to be a morning," he said, "when somebody comes up those four flights and asks a question, and all three of us in this room know the answer, and the answer is going to be three different sentences."
 
-"Go on."
+"Keep going."
 
 "Then somebody is going to have to stop being the answer."
 
@@ -122,7 +128,9 @@ The carrier with the bad back was at the top of that stair at about ten past fou
 
 "Say it."
 
-"There is going to be a morning when somebody comes up those four flights and asks a question, and all three of us know the answer, and the answer is going to be three different sentences," said Lin Hao. "And I have been standing on this landing for about a fortnight working out what to do about that, and I have got it, and it is not a good one, and I would rather tell you than the clerk."
+"There is going to be a morning when somebody comes up those four flights and asks a question, and all three of us know the answer, and the answer is going to be three different sentences."
+
+He had said the identical sentence to the other carrier on that same landing about an hour before, and he was not going to pretend otherwise. "And I have been standing here for about a fortnight working out what to do about that, and I have got it, and it is not a good one, and I would rather tell you than the clerk."
 
 "Tell me."
 
@@ -134,9 +142,9 @@ The carrier with the bad back stood with the coil of the strap at her feet and d
 
 "Then somebody has to."
 
-"Go on and say the rest of it tomorrow with the door open, because I am not the only one who has to hear it and you know that as well as I do."
+"Say it out loud next week with the door open, because I am not the only one who has to hear it and you know that as well as I do."
 
-She shifted the coil with her heel. "And say it early. There is a person coming up those four flights tomorrow who wants a thing a stranger cannot give her, and it is going to fall on one of the three of you and not on me, because I am not answering anybody. I am only carrying."
+She shifted the coil with her heel. "And say it early. There is a person coming up those four flights next week who wants a thing a stranger cannot give her, and it is going to fall on one of the three of you and not on me, because I am not answering anybody. I am only carrying."
 
 Four thousand five hundred and seventy-three days. Less four thousand five hundred and sixty-six, the seventh of this one, is seven, and fourteen less seven is seven, and a man said nine days out loud in a room with the door open and found out that they had held, and that this office had been running on a woman since before he came to it, and that the only anger left in him was for a man behind a counter who could not be helped and was not owed anything.
 

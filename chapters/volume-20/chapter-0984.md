@@ -4,7 +4,7 @@ Four thousand five hundred and thirty-two was the third of this one and the tent
 
 ## On The Landing With Nothing On The Strap
 
-The carrier with the bad back was still coming up at a quarter to ten every working morning with the strap rolled up in a coil at her feet, and there was nothing on the other end of it, and she had not said she would stop and he had not asked her to.
+The carrier with the bad back was still coming up at a quarter to ten every working morning with the strap wound into a coil at her feet, and there was nothing on the other end of it, and she had not said she would stop and he had not asked her to.
 
 He got there at about ten and stood at the top of the stair with the coil of the strap on the boards between them.
 
@@ -22,7 +22,7 @@ He got there at about ten and stood at the top of the stair with the coil of the
 
 "Then where is it from."
 
-"Off the stair." She put her hand in the small of her back and left it there. "You put that book on my shoulder twice a day for two years and I carried it up and I carried it down, and not one thing in it ever went back the way it came, and I decided somewhere in the middle of that about paper, and I have been right about it every time."
+"Off the stair." She put her hand in the small of her back and left it there. "You put that book on my shoulder every working morning for two years and I carried it up, and a man carried it down in the evening, and not one thing that ever went up those four flights came back down them, and I decided somewhere in the middle of that about paper, and I have been right about it every time."
 
 "Have you."
 
@@ -60,11 +60,11 @@ She went down them slowly, one hand on the rail and no hurry at all, the way peo
 
 He did not say anything.
 
-He had it ready. He had the sentence ready and it was a true sentence and it was the sentence he had been saying out loud at the bottom of that stair since the fourteenth of May, and if he had said it then the carrier with the bad back would have been overruled by a man in a corridor and the whole of the arrangement that has held that stair together since March would have gone out of the room on a cart.
+He had it ready. He had the sentence ready and it was a true sentence and it was the sentence he had been saying out loud at the bottom of that stair since November, and if he had said it then the carrier with the bad back would have been overruled by a man in a corridor and the whole of the arrangement that has held that stair together since March would have gone out of the room on a cart.
 
 So he stood at the end of that table and let a woman who had been turned away under a rule with no date on it go down four flights, and he did it on purpose.
 
-And then he went and did the thing he had come up to do, which was to go through the twelve in his head, one at a time, in the order they were made, with a date against every one of them, and to find out which of them she had just enforced.
+Then he went through the twelve in his head, one at a time, in the order they were made, with a date against every one of them, hunting for the one she had just enforced.
 
 It was not one of them.
 
@@ -98,9 +98,11 @@ So he kept it for himself for seven days, and he told himself for those seven da
 
 ## Half Past Five With Nothing In His Hands
 
-He came down the four flights at half past five with his hands empty for the ninth working evening running and the wire round the buckle twisted twice in his pocket doing nothing at all for anybody.
+He came down the four flights at half past five with his hands empty for every working evening since the middle of August and the wire round the buckle twisted twice in his pocket doing nothing at all for anybody.
 
-At the bottom of his own stair in the last of the light he said the three lines out loud to the court. A woman going through the arch with a basket stopped and said them back to him to see whether she had them right. She had them right except for the hours, which she had as four in the afternoon, and he told her the light goes off that wall at about ten past four so that the last hour of those hours is a door in the dark.
+At the bottom of his own stair in the last of the light he said the three lines out loud to the court.
+
+A woman going through the arch with a basket stopped and said them back to him to see whether she had them right. She had them right except for the hours, which she had as four in the afternoon, and he told her the light goes off that wall at about ten past four so that the last hour of those hours is a door in the dark.
 
 That he can do. He did it, and she said thank you, and she went through the arch with her basket. Then he stood in his own court for another four minutes trying to work out why one of those two things was the easiest thing he does and the other one was a rule with no date on it that a woman with a bad back got off a stair.
 

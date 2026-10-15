@@ -1,4 +1,4 @@
-# OPEN THREADS — every thread with its status at Volume 20 movement three, chapter 980
+# OPEN THREADS — every thread with its status at Volume 20 movement four, chapter 990
 
 **Compacted 2026-10-15.** This file had twenty-two stacked blocks, 149 KB, each opening by announcing that it superseded the ones beneath it and none of them ever being deleted. What follows is the live block — the threads as the close audit left them — and nothing else. The full pre-compaction text is byte-for-byte in `state/archive/open-threads-v17-v19-superseded.md` and in the commit before this one; Volumes 1 to 16 are in `state/archive/open-threads-v9-v16-superseded.md` and the earlier generations beside it.
 
@@ -6,7 +6,7 @@
 
 **THE MANUSCRIPT IS NINE HUNDRED AND EIGHTY CHAPTERS AND THE PLAN SAYS FIVE HUNDRED, AND NOBODY HAS DECIDED WHICH IS TRUE.**
 
-`outline/ending.md` heads itself *Ending — Volume 10, "Returned" (chapters 451–500)* and reads *Ch 498: the last chapter*. `outline/series.md` says ten volumes, fifty chapters each, five hundred total. `NOVEL_SPEC.md` says the same. The manuscript is nine hundred and eighty chapters, nineteen volumes closed and one part-written. Chapters 501 to 980 — nine whole volumes and the first thirty chapters of a tenth — have no series outline, no ending outline and no planned destination.
+`outline/ending.md` heads itself *Ending — Volume 10, "Returned" (chapters 451–500)* and reads *Ch 498: the last chapter*. `outline/series.md` says ten volumes, fifty chapters each, five hundred total. `NOVEL_SPEC.md` says the same. The manuscript is nine hundred and ninety chapters, nineteen volumes closed and one part-written. Chapters 501 to 990 — nine whole volumes and the first forty chapters of a tenth — have no series outline, no ending outline and no planned destination.
 
 **The flag has been open since Volume 19's planning pass and no phase has closed it, because closing it means rewriting a file that every writing phase is forbidden to rewrite, and `scripts/completion_guard.py` only tests for a manuscript short of the plan.** It prints *ok* and exits zero, which is a fact about the guard's one-sided test and not a verdict on the book. **The guard's own line still reads 950, because the guard counts closed volumes and Volume 20 is not closed; the number it prints is not the number of chapter files on disk and must not be quoted as one.**
 
@@ -119,6 +119,65 @@ Mrs Imrie, asked nothing, ever, by anybody · Wren Kallo's bar, untested and not
 7. **TWO `since I was X` HITS ARE NOW REPORTED AS THEIR OWN PROBE ROW.** Neither announces an age; the binder, the cart man, both carriers, the counterman, Wenna Raut and Marguerite Vale remain unaged on the page.
 
 **AND WHAT NONE OF THIS CLOSED: the overrun flag at the head of this file stands exactly as it stood, the fifth `cuticle` at §8a stands exactly as it stood with its count at four, and the 992 row at §8c is still a plan that no chapter of this volume can execute. Writing thirty chapters and repairing them did not decide any of the three.**
+
+## 7e · WHAT VOLUME 20 BATCH 0004 OPENED ON THE PAGE, 981–990, AND WHAT IT CLOSED. MEASURED FROM DISK IN THE PASS THAT REPORTS, AFTER A FOURTEEN-ITEM FIX PASS.
+
+**THE ONE THING THIS MOVEMENT OPENED, NOW ON THE PAGE:** *that a practice of this office is a thing one of three people does out loud in that room, and that the moment that person stops it is not a practice any more, it is a thing that was true.* **What is on the page by 990:** a first morning that runs and costs nothing and finds out the office was running on a woman and not on a book; twelve practices said out loud in an empty room and found to be three different sets of words in three mouths; Agnete Lindqvist entirely right and conceded in full; a rule that came off a stair, has no date, is enforced in the ordinary voice, refuses a stranger, and is right every time; a woman who comes back on the seventh day glad and tells a room that what saved her was a person and not a record; four practices that can be pointed at on paper and eight that cannot be pointed at anything and no way on earth to tell which eight; the head at the counter under the window with both of its figures; a book forty-eight days late, lighter, quieter, with a tradesman's mark in it that is not a record and a last row dated the day it left; a first hour nobody has a practice for; nine days that held and the figure of answers given without merging with anything; and the answering handed to two other people in a mouth.
+
+**WHAT IT CLOSED:** the idea that a written record is what an office is. **It is not. It is three people and a stair, and the page says so out loud with the door open.** **AND IT CLOSED SOMETHING ELSE, WHICH IS WORSE: THE THIRTEENTH PRACTICE HAS NOW BEEN SPENT TWICE OVER. At 990 he acts on it in his own words, in a room, in front of two people who did not know he had ever written it down, and neither of them can produce it and neither of them has seen the sheet.**
+
+**AND THREE THINGS A LATER WRITER MUST CARRY, ALL OPEN:**
+
+1. **THE WOMAN FROM THE DOORWAY CAME BACK UP AND WAS NOT HELPED.** She asked him on the nineteenth of August whether it was free, and told him she had come on the fourteenth and gone back down because she did not have a question, and that her sister came up in June, was answered, went down, and has not come back and will not say why. **He told her he cannot find out and there is nothing in this city he could go and look at. She is not named, not aged and not on anything, her sister is not traced, and NOTHING ABOUT HER WAS RESOLVED IN 981–990.**
+2. **THE THIRTY-NINE DAYS ARE NOT ANYBODY'S.** The binder said nine days on a bench, in a mouth, in a room with four doors open, and no date for the return is on anything anywhere in the world. The nine days ended on the twenty-first of August. **Everything that office said to anybody in the other thirty-nine is in nobody's hands, including the answer given to a woman on the fifteenth of August by a woman enforcing a rule that has no date.**
+3. **THE THREE ANSWERS AND THE THIRD VOICE.** From the twenty-first of October the clerk and the two carriers answer, in their own words, in that room, and each of them has already said out loud that the three of them will give a stranger three different sentences for the same question. **The arrangement that is supposed to settle it is a sentence Lin Hao said out loud on the twenty-fourth of September in front of two people, is not written down, and cannot be quoted as an authority by anybody including him.** What the first of the three will actually say is unknown to everybody including the reader.
+
+**AND ONE THING A LATER WRITER MUST NOT RESTAGE:** there is not one mark made on one piece of paper by anybody in that building in any of the ten chapters. The only paper in this movement that matters is a strip inside the front board of a book with a tradesman's mark on it in pencil, and it is not a record and not a page and not in any of their hands.
+
+### 7f · THE FIX PASS OF 981–990, AND WHAT IT CHANGED ON THE PAGE. FOURTEEN FINDINGS, ALL REPAIRED, RECORDED IN FULL AT THE HEAD OF `outline/batches/volume-20-batch-0004.md`.
+
+1. **THE WATCH-CONSTRUCTION ROW WAS OVER BOTH CAPS AND OVER THE PER-CHAPTER CAP IN FIVE CHAPTERS** — sixteen in narration and twenty in speech against six and twelve, and one of either in any chapter, with 983 alone at three and four. **Twenty-one constructions rewritten; the row now reads three in narration and eight in speech with no chapter over one of either, and the instrument is published so the row can be re-run from outside the file that claims it.**
+2. **987 DATED THE LAST ROW IN THE BOOK THE FIFTEENTH OF AUGUST, WHICH IS IMPOSSIBLE** — the book left that room at half past five on the twelfth, and 984 and 985 both build on a woman answered on the fifteenth out of the clerk's memory. **It is the twelfth of August, which is the day it went out, and the sentence was making the opposite of the point it was in the chapter for.**
+3. **987's CART PARAGRAPH CONTRADICTED ITS OWN TIMING** and had a second booking with no connection to anything. **The book came on the strap on foot; the cart in that yard belongs to somebody else; and the carrier's errand is now used twice, once at eleven to ask after it and once at half past three to bring it up.**
+4. **987 SAID *A FIFTEENTH* AND 986 SAID *THIRTEEN THINGS* AND *THE THIRTEENTH ONE*.** A chapter about a rule with no number in it was reading as a thirteenth practice, and an office with a thirteenth practice since the twenty-third of May was being given a fifteenth. **The clerk says your twelve and one of hers, and he is talking about making another one rather than about a numbered set.**
+5. **986 NAMED A DATE THAT IS NOT ON ANY PAGE** — the fourteenth of May, in a book where 977 says he learned it in June. **It is in June.**
+6. **989 NAMED A DATE THAT IS NOT ON ANY PAGE AND TWO THAT WERE ON THE WRONG ONE** — the fifth of July, and *tomorrow* said twice on the fourteenth of October about a chapter a week away. **In June, and next week.**
+7. **988 CARRIED A FIGURE THAT WAS THREE DAYS OUT AND ANOTHER SEVEN** — the figure thirty-two was correct at 986 and was copied forward instead of re-derived, which is the exact failure §5b names. **Fifty-five days out, forty-six past the nine, forty-eight in that room, a week on the table.**
+8. **988 HAD A GARBLED SENTENCE** about taking the other end of nothing at the tailboard of a cart that was not there, and a missing *in*.
+9. **990 CARRIED A STRAY ONE-LINE PARAGRAPH** standing between a section heading and its section. Cut.
+10. **988 SAID IT WAS THE FIRST THING HE HAD KEPT OFF THAT ROOM'S OWN PAPER SINCE THE TWENTY-THIRD OF MAY**, which is a count of entries on that office's paper and is the printed absence reached by the back door. **It is now what it is, and it costs him something.**
+11. **FOURTEEN VERBATIM RUNS.** Agnete's own 564, and 973 on the very beat the scene card forbids 983 from lifting, and 943, 0105, 974, 961/975, 980, 070, 978, 0530, 968 and 500/644/647. **All repaired. Zero unclassified twelve-gram runs remain.**
+12. **FIVE PARAGRAPHS OVER ROUGHLY NINETY WORDS AND ONE DUPLICATE PARAGRAPH** — now zero and zero.
+13. **990 FELL TWO WORDS UNDER THE FLOOR** and a beat was added that the chapter wanted: the carrier with the bad back calling one sentence back up the stairwell from the second landing, which is the chapter's last objection answered by the person who invented the problem.
+14. **THE FIGURE WAS COPIED DOWN INSTEAD OF RE-DERIVED, WHICH IS THE ONE FINDING IN THIS PASS THAT IS ALSO A HOUSE RULE.**
+
+**AND WHAT NONE OF THIS CLOSED: the overrun flag at the head of this file stands exactly as it stood, the fifth `cuticle` at §8a stands with its count at four, and the 992 row at §8c is still a plan no chapter of this volume can execute. Writing ten more chapters and repairing them decided none of the three.**
+
+### 7g · THE SECOND REVIEW OF 981–990, AND WHAT IT FOUND. NINETEEN FINDINGS, ALL REPAIRED. THIS BLOCK IS NEW AND IT IS CANON BECAUSE THE CHAPTERS ON DISK CARRY IT.
+
+**AN INDEPENDENT REVIEW RAN OVER THE SAME TEN CHAPTERS AFTER THE FOURTEEN-ITEM FIX PASS HAD ALREADY CHANGED THEM, WAS GIVEN THE CARDS, THE PAGE, THE PREDECESSORS AND THE CANON, AND FOUND NINETEEN. ALL NINETEEN ARE REPAIRED. FULL RECORD: THE SECOND REVIEW FIX PASS BLOCK AT `outline/batches/volume-20-batch-0004.md`. AGAIN: NO BEAT, DATE, SPINE FIGURE, RAIL FIGURE, SCENE, DECISION OR ENDING MOVED, AND NO CHAPTER WAS RESTARTED.**
+
+1. **THE FIGURE THIRTY-TWO WAS WRONG AT 986 AND THE FIRST FIX PASS CERTIFIED IT.** The register had been out of that building **forty-two** days at 986, not thirty-two. Thirty-two is the lateness measured from the twenty-second, and one paragraph computing lateness is not authority for elapsed time three lines later.
+2. **AND THE SAME FIGURE WAS CARRIED FORWARD INTO 988 AND WAS SEVEN DAYS OUT.** Fifty-five days out, forty-six past the nine. **A figure was repaired at one end of a batch and then written wrong at the other end of it in the same pass, which is exactly the failure `outline/volume-20.md` §5b names and exactly the thing this repository keeps paying for.**
+3. **THE FOURTEENTH OF MAY WAS FIXED IN ONE PLACE AND LEFT STANDING IN THREE.** Canon dates his saying the three lines out loud to November and 960 dates his standing at the foot of that stair to the twenty-fourth of March. There is no fourteenth of May in the spine.
+4. **990 CARRIED THE REGISTER OUT OF THE BUILDING IN A CLAUSE LIFTED FROM 984**, where the book was genuinely out of the building. **He now comes down with it under his arm.**
+5. **THE CARRIER CLAIMED A HANDLING HISTORY THE CANON DENIES**, and the rule the whole movement is built on was derived from it. **She carried it up every working morning and watched a man carry it down every evening for two years, and not one thing that ever went up those four flights came back down them.**
+6. **985 SAID *YESTERDAY* FOR AN EVENT SEVEN DAYS OLD** in a chapter headed *On The Seventh Day*.
+7. **984 SAID *THE NINTH WORKING EVENING RUNNING*** for a span of about twenty.
+8. **A FOUR-WAY COINCIDENCE** between the doorway woman of 981 and the woman of 985 — same street, same month, a sister, eleven years — which would have resolved 981's thread by accident. **The doorway woman is now in a quarter of the city and her thread is exactly as open as §0d says.**
+9. **THE SCENE AT 983 WAS 973'S SCENE WITH THE ROOM CHANGED** — she initiates, she comes first, and then she finishes him inside her with her own hand and her mouth against his head, beat for beat. **The finish is now her hand, her forehead against his and her breathing on his mouth, in silence, which puts the chapter's own axis inside the act instead of beside it.**
+10. **AND ITS STAGING WAS 564'S** — plain benches, the bench row, the twenty-year figure, and her opening on a line about *the order*, which is the device 564 uses at exactly that narrative moment. **The chapel has a stone pier and a stone step and no benches, and the order line is gone.**
+11. **AND IT HAD MOVED AGNETE LINDQVIST'S DOCUMENTED GIFT OUT OF HER BODY AND INTO THE ARCHITECTURE**, which `chapter-0427.md`:65 fixes as hers and the card forbids as a mechanism. **The chapel is now silent because of a rule put up in that room before she came to it and never once tested.**
+12. **THE THIRTEENTH-PRACTICE COLLISION WAS REPORTED CLOSED BY THE FIRST PASS AND WAS STILL STANDING IN TWO PLACES.** **A REVIEW THAT REPORTS A FINDING CLOSED WITHOUT RE-READING THE FILE HAS NOT HAPPENED, AND THAT IS RECORDED HERE RATHER THAN QUIETLY SWAPPED.**
+13. **987 PRINTED A FIGURE OF PERSONS** against a row that forbids one.
+14. **987's REVELATION HAD NO SHORT SENTENCE TO LAND ON.** The last row in that book being the day it left is now three paragraphs and the middle one is one line.
+15. **987's OPENER SAID A YEAR HAS THREE QUARTER-ENDS.**
+16. **990 CARRIED 987'S NINE THOUSAND INTO A PLACE WHERE TWO YEARS AND FIVE DAYS IN SEVEN GIVES ABOUT A THOUSAND.**
+17. **988 RERAN 987'S ARGUMENT IN THE SAME WORDS** and now says something worse instead.
+18. **989 SAID THE SAME TWENTY-FIVE WORDS TWICE** and now says it is a repetition on the page.
+19. **THE TITLE ASSERTED A FIGURE THE CHAPTER CONTRADICTS.** **986 is `A Date In One Man's Head`,** corrected in the card, in `outline/volume-20.md` §10 and in `state/chapter-summaries.md` in the same pass.
+
+**AND WHAT NONE OF THIS CLOSED: the overrun flag at the head of this file, the fifth `cuticle` at §8a with its count at four, and the 992 row at §8c, which is still a plan no chapter of this volume can execute. Forty chapters written and thirty-three repairs and none of the three is decided.**
 
 ## 8 · TWO MORE FLAGS, RAISED BY THE REVIEW OF THE VOLUME 20 PLANNING PHASE ON THE FIFTEENTH OF OCTOBER 2026. NEITHER IS CLOSED. NEITHER IS OURS TO CLOSE.
 

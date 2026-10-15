@@ -12,7 +12,7 @@ Then he went up the four flights.
 
 ## The Room With The Table On It
 
-The door at the top stood open on its landing, as it stands every working morning, and inside it there was the room, and the table, and two chairs, and a drawer with a man's name under the instruction that keeps it shut, and a coat on a hook by the door that is not his coat and has not been anybody's coat since the winter before last.
+The door at the top stood open on its landing, as it stands every working morning, and inside it there was the room, and the table, and two chairs, and a drawer with a name written under the order on it, and a coat on a hook by the door that is not his coat and has not been anybody's coat since the winter before last.
 
 On the table there was a sheet with a date on the top of it and an hour under the date and a pen lying across the bottom edge, and it lay there all morning the way paper lies when there is one piece of it.
 
@@ -40,7 +40,7 @@ At about twelve he asked her what she had said to him.
 
 "That is the answer to a question about how you knew. That is not an answer to how you knew."
 
-She put her pen down on the line and squared it against the edge of the table with two fingers, which she does when a row is finished, and left it there, which she does not do.
+She put her pen down on the line and squared it against the edge of the table with two fingers, which is what she does at the end of a row, and then she left it lying there, which is what she does not do.
 
 "I was there," said Wenna Raut. "That is the whole of it and there is no second half of it. I have been at this table nine years and I have been at the other side of it for most of those, and when a person comes up those four flights with a piece of paper in their hand, then somebody in this room answered them, and nearly always it was me."
 
