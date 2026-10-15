@@ -4,7 +4,7 @@ Four thousand and eighty-nine was the tenth of this one and the seventeenth of t
 
 ## A Woman And A Girl On The Stair
 
-She came up those four flights at about ten in the morning with a girl of about nine behind her, and the woman was doing the thing with her hands that a woman does who has been deaf since she was born and has learned to say things fast, and she brought her up that stair one step at a time because she reads lips and a person who goes up fast is a person she cannot follow.
+She came up those four flights at about ten in the morning with a girl behind her, and the woman was doing the thing with her hands that a woman does who has been deaf since she was born and has learned to say things fast, and she brought her up that stair one step at a time because she reads lips and a person who goes up fast is a person she cannot follow.
 
 She had a slip in her own hand and it was not the true one. She put it on the table and turned it round so that the writing faced Lin Hao, and he read it before she had taken her hand off it, which is a thing about a person and not about the paper.
 
@@ -100,7 +100,7 @@ Under the wrong hours on that slip was the name of a building four hundred yards
 
 A counter that confirmed those hours would be a second copy of a door, so a counter in that building had not confirmed them, and the slip had gone to that counter anyway because a person holding a bad slip takes it to the institution the slip names.
 
-And a girl of about nine is going to knock at a quarter to eight on a working morning, in a lane, in front of nine people, on the strength of a building four hundred yards off that has already sent somebody up these stairs twice.
+And that girl is going to knock at a quarter to eight on a working morning, in a lane, in front of nine people, on the strength of a building four hundred yards off that has already sent somebody up these stairs twice.
 
 Four thousand and ninety-six days. Less four thousand and eighty-nine, the tenth of this one, is seven, and an office that can only speak out loud offered to speak out loud to a person who could not hear it, and a child wrote the hours across her own knuckles on a landing with no glass in the frame, and a woman said something three times to a man who got none of it.
 

@@ -10,7 +10,7 @@ The answer was in a fold with the flap gummed shut and the date and the hour on 
 
 He stood in the street.
 
-The light in that street at half past four in the sixth month comes off the tops of the roofs in one long sheet and does not reach the doorsteps, and the street is about nine feet wide and there is nothing at the far end of it to look at, and a man standing in it for ninety minutes is a man standing in it being looked at by every window on both sides.
+The light in that street at half past four in the fifth month comes off the tops of the roofs in one long sheet and does not reach the doorsteps, and the street is about nine feet wide and there is nothing at the far end of it to look at, and a man standing in it for ninety minutes is a man standing in it being looked at by every window on both sides.
 
 ## Ninety Minutes In A Street
 
@@ -94,7 +94,7 @@ He put his hands in his apron and did not point at anything.
 
 "That is nine stools' worth of one man."
 
-"It is one stool's worth of one man," said Brack, "and it is the only thing in that lane this year that is about you and not about me, and it costs me nothing, and I want you to understand that I have been trying since the ninth of last month to find a way of charging you for it and I cannot."
+"It is one stool's worth of one man," said Brack, "and it is the only thing in that lane this year that is about you and not about me, and it costs me nothing, and I want you to understand that I have been trying since the ninth of the month before last to find a way of charging you for it and I cannot."
 
 ## What He Said In The Lane
 
@@ -124,7 +124,7 @@ The book went down the four flights at half past five in the ordinary way, wired
 
 At the bottom of that yard he stood for about nine seconds with his hands in his coat and worked out the number of hours of the week that the door's hours are wrong for the people who use that door, and the number was not a figure he was going to say to anybody.
 
-It was somewhere between four and nine a week, and every one of them was a person who works, and every one of them had made their own arrangements about how to find a thing, and one of those arrangements had cost him an hour and three quarters on an ordinary working morning in the sixth month.
+It was somewhere between four and nine a week, and every one of them was a person who works, and every one of them had made their own arrangements about how to find a thing, and one of those arrangements had cost him an hour and three quarters on an ordinary working morning in the fifth month.
 
 Then he went up four flights again, because the book goes down at half past five and the stairs are right there, and stood on the landing outside that door for a while before he went in.
 

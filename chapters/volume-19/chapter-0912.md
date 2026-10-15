@@ -124,7 +124,7 @@ The reason he had not was that the first thing he would have asked her for, in t
 
 He had the order of nine off a clerk this morning who will not write it down. A woman four hundred yards off has been keeping that order in a book of her own since the ninth year, on her own two feet, and at that moment she was under a window two hundred yards below him, eating, and this office had never once asked her for a thing.
 
-Four thousand and twenty-six days. Less four thousand and nineteen, the thirtieth of this one, is seven, and eleven people stood at a rail in a week and nine people came up four flights in a week, and the two numbers are about two different crowds, and he was two hundred yards above the only person in this city who could have carried an answer to either of them.
+Four thousand and twenty-six days. Less four thousand and nineteen, the thirtieth of last month, is seven, and eleven people stood at a rail in a week and nine people came up four flights in a week, and the two numbers are about two different crowds, and he was two hundred yards above the only person in this city who could have carried an answer to either of them.
 
 *Less four thousand and nineteen, the thirtieth of March, is seven, and the forty-fifth sheet has been face up on that rail for every one of the last seven of them, and it does not move until the thirtieth of June.*
 

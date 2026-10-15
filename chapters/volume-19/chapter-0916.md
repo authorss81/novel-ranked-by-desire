@@ -44,7 +44,7 @@ The figure was not answerable. Nothing in this city lets a man at a rail be foun
 
 And that last thing is the part he had to say slowly, because it was four months old, and because the trade bill with his door written on it was lying on that table three feet from his own hand.
 
-There was one instrument that office ever had for finding out what is said about its address in a public street, and it was a man standing in that street on an ordinary afternoon, and the instrument was a man of about forty who is paid nothing and who says the six lines to whoever stands at the rail.
+There was one instrument that office ever had for finding out what is said about its address in a public street, and it was a man standing in that street on an ordinary afternoon, and the instrument was a man who is paid nothing and who says the six lines to whoever stands at the rail.
 
 He had taken that instrument away in the last month of that winter. He had stood at the counter under the window, asked for nothing, forbidden nothing, and been told he was wrong by a man who is paid nothing, and he had gone back up four flights and decided that the whole city ought not to end up owing that office for a thing it never did.
 
@@ -134,7 +134,7 @@ She stood in that doorway for nine seconds with the trade bill in her hand.
 
 Then she went down four flights with her own three things in her pocket and did not look back at the door.
 
-Four thousand and fifty-four days. Less four thousand and forty-seven, the twenty-eighth of this one, is seven, and a figure, a standing and a place came up four flights in three different hands and were refused entry for the second time, and the clerk wrote down the refusal because this time the office said it out loud.
+Four thousand and fifty-four days. Less four thousand and forty-seven, the twenty-eighth of last month, is seven, and a figure, a standing and a place came up four flights in three different hands and were refused entry for the second time, and the clerk wrote down the refusal because this time the office said it out loud.
 
 *Less four thousand and nineteen, the thirtieth of March, is thirty-five, and the forty-fifth sheet has been face up on that rail for every one of the last thirty-five of them, and it does not move until the thirtieth of June.*
 

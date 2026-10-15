@@ -74,7 +74,7 @@ The clerk's pen was about an inch off the page and stayed there.
 
 Then he said the rest of it, and he said it to the floor, and nobody in that room stopped him.
 
-"I have been to this office twice. Once in the spring, and once at two in the morning in the eighth month, because a piece of paper told me the hours and I went on the hours that were on it and got here in the dark to a shut door."
+"I have been to this office twice. Once in the spring, and once at two in the morning in the seventh month, because a piece of paper told me the hours and I went on the hours that were on it and got here in the dark to a shut door."
 
 "You were angry."
 

@@ -1,6 +1,6 @@
 # The Card Stands Its Winter
 
-Three thousand nine hundred and twenty-nine was the thirtieth of this one and the twentieth of this one is day three thousand nine hundred and forty-nine, and three thousand nine hundred and forty-nine less three thousand nine hundred and twenty-nine is twenty, and the card has stood nineteen days of January.
+Three thousand nine hundred and twenty-nine was the thirtieth of December and the twentieth of this one is day three thousand nine hundred and forty-nine, and three thousand nine hundred and forty-nine less three thousand nine hundred and twenty-nine is twenty, and the card has stood nineteen days of January.
 
 ## Before The Carriers
 

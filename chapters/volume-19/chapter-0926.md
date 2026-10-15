@@ -78,7 +78,7 @@ Then the supervisor put her own hand on the rail on the other side of him and as
 
 "It is the whole of it."
 
-"Then it is on the wall at four o'clock this afternoon and it is the first thing that has ever been written about your office by anybody who is not you," said the supervisor. "I have spent nineteen years asking one institution in this city for a statement of what it is and you have handed it to me in a stairwell in about ninety seconds, and I want you to know that I would not have got it out of you in a room."
+"Then it is on the wall at four o'clock on the eighteenth and it is the first thing that has ever been written about your office by anybody who is not you," said the supervisor. "I have spent nineteen years asking one institution in this city for a statement of what it is and you have handed it to me in a stairwell in about ninety seconds, and I want you to know that I would not have got it out of you in a room."
 
 "I would have said it in a room."
 
@@ -114,9 +114,9 @@ It has a figure on it and four words under the figure saying what that figure do
 
 It is on the wall because he said it twice on a landing, and the first of the two was true and the second of the two was nearly true, and a hall that has been refused a thing will always find somewhere to put the refusal.
 
-The second of the two also said that this office keeps no roll of who comes through it, and that sentence has now been read out loud by about nine hundred people a week going past a wall for about a year, and every one of them who repeats it will describe a place with no list in it, and there is a place four flights up with no list in it, and they will find it inside a month.
+The second of the two also said that this office keeps no roll of who comes through it, and that sentence is already being read out loud by about four hundred people a week going past that wall, and every one of them who repeats it will describe a place with no list in it, and there is a place four flights up with no list in it, and they will find it inside a month.
 
-And in a street two districts off there is a piece of paper in a woman's hand, folded twice and opened out again, with a building's name and the words RETURNS DESK at the bottom of it in a different hand, and a girl of about nine is going to be on that step on a working morning two hours before that office opens.
+And in a street two districts off there is a piece of paper in a woman's hand, folded twice and opened out again, with a building's name and the words RETURNS DESK at the bottom of it in a different hand, and that girl is going to be on that step on a working morning two hours before that office opens.
 
 Four thousand and one hundred and twenty-three days. Less four thousand and one hundred and sixteen, the seventh of this one, is seven, and a division building was refused three lines of hours to its face at about eleven in the morning and was given seventy words to put on a wall instead, and about nine people a fortnight still arrive once at the wrong end of the hours.
 

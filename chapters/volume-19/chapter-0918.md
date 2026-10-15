@@ -64,7 +64,7 @@ He put his hands in his coat.
 
 "And the telling."
 
-"And the telling is the only good thing that has happened to that lane in nine years," said Brack. "Nine strangers a week, every one of them polite, and four of them have said thank you to me, and I have not been thanked for anything since I was thirty."
+"And the telling is the only good thing that has happened to that lane in nine years," said Brack. "Nine strangers a week, every one of them polite, and four of them have said thank you to me, and I have not been thanked for anything since I was a boy."
 
 He set the chalk down on the ledge.
 

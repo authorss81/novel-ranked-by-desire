@@ -12,7 +12,7 @@ In the eight days since he had last been in that lane, a man had come to the thi
 
 That is what he had come down for and he had it in four minutes.
 
-The man had been about forty and he had wanted to be told whether the figure was still the case, and Brack had told him, and the man had believed it, and he had gone on down the lane to wherever he was going.
+The man had been at that counter a long time and he had wanted to be told whether the figure was still the case, and Brack had told him, and the man had believed it, and he had gone on down the lane to wherever he was going.
 
 That is a service. A man at a counter reading the foot of a quarterly sheet four times a year is a service with nine people a week in front of it now, and this one is a man in a lane with a board behind a door, and it costs nothing, and it has never been wrong.
 
@@ -76,7 +76,7 @@ The options at the top of that hill on the second were two, and he had held both
 
 He walked up the hill knowing that he was going to do the second one, on the grounds that a thing said in a room with a clerk at a table and a door open gets entered, and that he had wanted this one to get into that book, and that wanting that was the wrong reason and the reason he was actually acting on.
 
-He did not write it down. He wrote it down about three weeks later, in a lane, out loud, which is where it belonged and which he had known it belonged from the second.
+He did not write it down. He said it out loud a week later, in a lane, which is where it belonged and which he had known it belonged from the second.
 
 ## Wrong By About A Quarter
 
@@ -118,7 +118,7 @@ That was the whole of the twenty-sixth.
 
 The book came down at half past five and the wire went round the buckle twice and the yard was dark by the time he was standing at the bottom of it, and he stood there nine seconds and did not go down the hill.
 
-There were three weeks between that day and the last working day of the next month, and he had told a man in a public lane that he would come and ask him on the first morning of them, and he had already decided not to, and he had decided it in four seconds on the second and had spent twenty-four days letting the decision stand up in the open where he could not see it himself.
+There were five days between that day and the first working day of the next month, and he had told a man in a public lane that he would come and ask him on the first morning of them, and he had already decided not to, and he had decided it in four seconds on the second and had spent twenty-four days letting the decision stand up in the open where he could not see it himself.
 
 He used to be certain of a thing by the time he was halfway up the hill. This was the first decision in nine years that had taken longer to hold than it took to make, and it had made it in a lane on the second and had not been argued with since.
 

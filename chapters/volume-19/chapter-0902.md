@@ -60,7 +60,7 @@ He shut it and stood in that filing corridor with his arms hanging and waited fo
 
 Before he shut it he had looked at the back of that book, because the tongue had gone and the weight had shifted, and there was a pale place on the back board about two inches long where the strap had ridden every morning for eleven weeks, and the leather had marked it, and the mark was the shape of the strap and not the shape of the buckle.
 
-He put his thumb beside it and not on it. Nine years of other people's words, carried about two hundred times a week up four flights and four hundred times down them, and the first thing this winter has put into that book is a mark the book made on itself.
+He put his thumb beside it and not on it. Nine years of other people's words, carried about two hundred times up four flights and four hundred times down them, and the first thing this winter has put into that book is a mark the book made on itself.
 
 He is not a man who writes numbers down. He has not in nine years written down a number that was not already on some paper put there by somebody else, and seventeen is a number that only means anything in his own legs.
 

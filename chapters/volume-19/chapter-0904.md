@@ -92,7 +92,7 @@ That is the price, understood a second time, a week after buying it. Being found
 
 He went up the hill after that, slowly, with his hands in his coat, and on the third step from the bottom a delivery man going the other way said good evening to him and did not stop, and Lin Hao stood on a public step and found that he could say his own street, his own door and his own hours, complete, in about four seconds, without hesitating.
 
-He had carried them on the back of his hand for months without knowing he was carrying them, and about a fortnight ago he had written them out on a piece of stiff grey board and nailed that board to a door, and in the space between those two facts a thing that belongs to no particular person has become a thing that a stranger says to him in the street for nothing.
+He had carried them on the back of his hand for months without knowing he was carrying them, and about six weeks ago he had written them out on a piece of stiff grey board and nailed that board to a door, and in the space between those two facts a thing that belongs to no particular person has become a thing that a stranger says to him in the street for nothing.
 
 He got to the top of that hill and stood in the dark outside a building with no name over the door and no name on the yard gate and one card about washing on Thursdays that has been there so long the nail holes have closed over.
 
@@ -102,7 +102,7 @@ He had understood, halfway up, that it had been said nine times and was going to
 
 He did not turn back. There was no version of turning back that was not a man at a rail being told by a man in a white plate that his own passage is now his employer's, and he had come down here about four in the afternoon to be told the truth by somebody who gets no wage for it, and had been.
 
-Three thousand nine hundred and seventy days. Less three thousand nine hundred and sixty-three, the fourth of the month before this one, is seven, and a man at a rail has been saying the stair and the third door off the landing nine times since the card went up, in nine words, the same every time, and he will not stop.
+Three thousand nine hundred and seventy days. Less three thousand nine hundred and sixty-three, the fourth of this one, is seven, and a man at a rail has been saying the stair and the third door off the landing nine times since the card went up, in nine words, the same every time, and he will not stop.
 
 *Less three thousand nine hundred and twenty-nine, the thirtieth of December, is forty-one, and the forty-fourth sheet has been face up on that rail for every one of the last forty-one of them, and it does not move until the thirtieth of March.*
 

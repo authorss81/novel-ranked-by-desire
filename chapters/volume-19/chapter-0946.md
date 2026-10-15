@@ -1,6 +1,6 @@
 # Soft At The Corners
 
-Four thousand and two hundred and fifty-five was the twenty-sixth of this one and the third of this one is day four thousand and two hundred and sixty-two, and four thousand and two hundred and sixty-two less four thousand and two hundred and fifty-five is seven, and thirty less twenty-six is four, and four with three taken out of the next month is seven by the month count with the crossing named as itself.
+Four thousand and two hundred and fifty-five was the twenty-sixth of this one and the third of the next one is day four thousand and two hundred and sixty-two, and four thousand and two hundred and sixty-two less four thousand and two hundred and fifty-five is seven, and thirty less twenty-six is four, and four with three taken out of the next month is seven by the month count with the crossing named as itself.
 
 ## A Quarter To One On The Third
 
@@ -102,7 +102,7 @@ He said it with the door open and the light off the window and about nine people
 
 Then he went back in and left the door where it was, because that door stands open between a quarter to ten and half past five on working mornings, five days in seven, and at no other hour, and there was nothing in that landing that had changed the arrangement.
 
-Four thousand and two hundred and sixty-two days. Less four thousand and two hundred and fifty-five, the twenty-sixth of this one, is seven, and thirty less twenty-six is four, and four with three taken out of the next month is seven, and a card that had stood on a door for a year came off three nails and went back on the same three nails with nothing written on it and the holes about a quarter of an inch wider than they were in November.
+Four thousand and two hundred and sixty-two days. Less four thousand and two hundred and fifty-five, the twenty-sixth of last month, is seven, and thirty less twenty-six is four, and four with three taken out of the next month is seven, and a card that had stood on a door for a year came off three nails and went back on the same three nails with nothing written on it and the holes about a quarter of an inch wider than they were in November.
 
 *Less four thousand and one hundred and ninety-nine, the thirtieth of September, is sixty-three, and the forty-seventh sheet has been face up on that rail for every one of the last sixty-three of them, and it does not move until the thirtieth of December.*
 

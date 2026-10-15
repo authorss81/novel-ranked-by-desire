@@ -1,6 +1,6 @@
 # The Dark Comes Early
 
-Four thousand and two hundred and twenty-seven was the twenty-eighth of this one and the fifth of this one is day four thousand and two hundred and thirty-four, and four thousand and two hundred and thirty-four less four thousand and two hundred and twenty-seven is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven by the month count with the crossing named as itself.
+Four thousand and two hundred and twenty-seven was the twenty-eighth of this one and the fifth of the next one is day four thousand and two hundred and thirty-four, and four thousand and two hundred and thirty-four less four thousand and two hundred and twenty-seven is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven by the month count with the crossing named as itself.
 
 ## Five Mornings And The Same Frost
 
@@ -88,7 +88,7 @@ She put her coat on over her arm.
 
 "It is not a bad one. It is the same reasoning as every other one of them and you have got very good at it." She stopped in the doorway herself. "Say the rest of it. You have said the part that sounds like a decision and the cost has not been said."
 
-"It is this. In August I let a man in a passage off Cordwain read that address out loud for nothing, and I stood four feet off and let him do it."
+"It is this. In February I let a man in a passage off Cordwain read that address out loud for nothing, and I stood four feet off and let him do it."
 
 "You told me why."
 
@@ -112,7 +112,7 @@ There was a road out of that gate and about nine streets on it and one of them w
 
 He had a question for her. He had had it since the third of September and had not found a day.
 
-Four thousand and two hundred and thirty-four days. Less four thousand and two hundred and twenty-seven, the twenty-eighth of this one, is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven, and about nine people a night now find a door in the dark because a man says three lines out loud from his own second step.
+Four thousand and two hundred and thirty-four days. Less four thousand and two hundred and twenty-seven, the twenty-eighth of last month, is seven, and thirty less twenty-eight is two, and two with five taken out of the next month is seven, and about nine people a night now find a door in the dark because a man says three lines out loud from his own second step.
 
 *Less four thousand and one hundred and ninety-nine, the thirtieth of September, is thirty-five, and the forty-seventh sheet has been face up on that rail for every one of the last thirty-five of them, and it does not move until the thirtieth of December.*
 

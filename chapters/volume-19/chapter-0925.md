@@ -24,7 +24,7 @@ It took about nine seconds and about nine people heard it and two of them stoppe
 
 ## The Sentence Doing The Opposite Of Its Job
 
-The man who stopped was about thirty and he had a delivery docket in his hand and he asked, not unkindly, whether the figure was the number of people who went in and out of a door, because that is what a figure over a door on a wall is in this city.
+The man who stopped was young and he had a delivery docket in his hand and he asked, not unkindly, whether the figure was the number of people who went in and out of a door, because that is what a figure over a door on a wall is in this city.
 
 It is not. It is a count of pieces of paper and a caption written in a small hand four hundred yards off by a woman who has never seen the door.
 
@@ -100,11 +100,11 @@ She was not the filing clerk and she was not at the returns counter, and she had
 
 He stood at the bottom of that hill for a while after she had gone, because the sentence had come up the hill with her and he could not get rid of it.
 
-Every person in that hall knows which stair. About nine of them a week had already knocked on it, and he had sent nine of them away kindly, and he had refused a woman a paper in a doorway on the seventeenth of this month, and there was nothing wrong with any of that and it had all of it in it.
+Every person in that hall knows which stair. About nine of them a week had already knocked on it, and he had sent nine of them away kindly, and he had refused a woman a paper in a doorway on the seventeenth of last month, and there was nothing wrong with any of that and it had all of it in it.
 
 ## About Eleven Feet Back From It
 
-He went back into that hall for about four minutes on the way down the hill, because he wanted to see what a wall looks like after nine hundred people have walked past it in four days, and the paint round it is the only honest count anybody takes of a thing in this city.
+He went back into that hall for about four minutes on the way down the hill, because he wanted to see what a wall looks like after four hundred people have walked past it in a week, and the paint round it is the only honest count anybody takes of a thing in this city.
 
 There were about nine people standing in front of the wall and two of them were reading the caption out loud to a third, and the second of the two had it in the wrong order, because he had heard it once from a man with a delivery docket on the fourth day and had taken it that way round.
 
@@ -114,7 +114,7 @@ That is the wrong sentence and it was going out of that hall about nine times a 
 
 Lin Hao stood about eleven feet back and let it go. He did not go over and say anything, because a second sentence in that hall would make two sentences about one caption on one wall, and he had worked that out in a lane in June.
 
-Then he went down the hill, and it was three days later that three of them came up the stair to be told the caption was what it said it was, and nine of them went away satisfied, and he understood about two hours after the ninth that being satisfied was the dangerous part.
+Then he went down the hill, and it was some days after that when people began coming up the stair to be told the caption was what it said it was, and that was the first of the ways that sentence was going to leave that hall without him.
 
 Four thousand and one hundred and sixteen days. Less four thousand and one hundred and nine, the thirtieth of last month, is seven, and four true words went up on a wall four hundred yards off on the fourth day, and a man read them and asked a question they were written to prevent, and a woman in a boardman's coat told him at the bottom of a hill that his own refusal to make a copy had put a copy in every head in a hall.
 

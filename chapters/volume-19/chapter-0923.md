@@ -120,7 +120,7 @@ She was slick between the legs before she had touched him and she had been since
 
 She got two fingers into her own cunt where she was riding him and worked them and told him in the ordinary voice exactly what she wanted done about it, without softening it and without explaining any of it, and then she stopped saying anything and made a sound instead, and it went up through the boards and out into the hall.
 
-Then she put her hand back on him and made him come, and he did, hard, with the cage frames in his fists and the wheel still saying something under the floor, and she kept him there afterwards with her forehead against his collarbone for longer than either of them was counting.
+Then she took his hand back and made him come, and he did, hard, with the cage frames in his fists and the wheel still saying something under the floor, and she kept him there afterwards with her forehead against his collarbone for longer than either of them was counting.
 
 ## What She Wanted Out Of Him
 

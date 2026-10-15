@@ -60,7 +60,7 @@ The room got very quiet in the way that rooms with a table in them do.
 
 "I am not asking you to un-price it. I am telling you that you took it anyway and that you took it for the same reason you took it, which is that a man holding a slip he cannot read is going to go away not knowing, and you are not a person who lets a man go away not knowing."
 
-"No," said Perla Quist. "I am not, and I have not been since I was about nineteen, and it is the single most expensive habit I own, and it is the reason I have nine sheets under a table and never once gave them to anybody."
+"No," said Perla Quist. "I am not, and I have not been since I was a girl, and it is the single most expensive habit I own, and it is the reason I have nine sheets under a table and never once gave them to anybody."
 
 She let go of the chair.
 

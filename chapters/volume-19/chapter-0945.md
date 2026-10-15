@@ -70,7 +70,7 @@ She turned round and looked at him for the first time that afternoon.
 
 "The card on the door."
 
-"One copy," said Dagmar Oyelowo, "in one place, that cannot be produced, and about nine copies in this city that are all wrong. That is my book and your door and it is the same shape, and I worked it out at about nine years old and you have had about a year, and neither of us has ever been able to check a word of it against anything."
+"One copy," said Dagmar Oyelowo, "in one place, that cannot be produced, and about nine copies in this city that are all wrong. That is my book and your door and it is the same shape, and I worked it out when I was small and you have had about a year, and neither of us has ever been able to check a word of it against anything."
 
 ## What He Asked Her Instead
 

@@ -8,7 +8,7 @@ He came down the hill at about half past three on the seventeenth, which is an h
 
 The board stands nine feet back from the kerb and it has two ruled squares on it and it has had them for about nine years, and about once a month somebody comes up that hill and puts a month's form in the upper one, and the form goes up on the seventh and it stays up until the next one goes over it.
 
-There is no seventh between the twenty-eighth of October and the thirty-first of December.
+There is no seventh between the twenty-eighth of October and the thirtieth of December.
 
 ## What Was On The Rail In September
 

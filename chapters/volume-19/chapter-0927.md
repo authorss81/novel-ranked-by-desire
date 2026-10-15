@@ -20,7 +20,7 @@ That is what a true sentence does in a hall. It does not have to be wrong. It on
 
 ## What A Man Has To Do With A Refusal He Did Not Get
 
-He was about fifty and he had come off a night shift, and he put a slip on that table and put his thumb on it and said that he had come on the twelfth at a quarter to eight because that is what the paper he had been given said, and there was not one person on the landing, and he had gone back to work, and the woman whose hours they were had been told that by him.
+He was not young and he had come off a night shift, and he put a slip on that table and put his thumb on it and said that he had come on the twelfth at a quarter to eight because that is what the paper he had been given said, and there was not one person on the landing, and he had gone back to work, and the woman whose hours they were had been told that by him.
 
 "And she does not believe I went," he said. "She thinks I did not go, or she thinks I did not care, and I have told her I went twice and she has asked me for something I can show her."
 
@@ -108,7 +108,7 @@ She cannot go into a room and shut a door, and she will not be able to be kind a
 
 "The rota," he said.
 
-"I am on it four days and off three," said Wenna Raut, "and you are on four and seven at a branch office off a third court until half past five in the morning, and the two of us are the only two people who will ever say any of it."
+"I am on it four days and off three," said Wenna Raut, "and you are on four nights in seven at a branch office off a third court until half past five in the morning, and the two of us are the only two people who will ever say any of it."
 
 One refusal in a book, entered in that office's own hand because that office said it out loud, and a division building four hundred yards off that has been told twice now in writing that this office does not answer in writing, and a woman who went to a door at eight o'clock on the ninth of the month and came back able to report it.
 

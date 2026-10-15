@@ -22,7 +22,7 @@ It stopped calling in the fourth month of this year. A notice went up at the two
 
 There were about nine people on that platform at six o'clock in the morning, which is about nine times what there should be for a service that runs twice in the dark.
 
-"That is the fourth month," she said. "There were four people on this platform the week it stopped and there have been nine every morning since, and the ones who are here in October are not the ones who were here in May."
+"That is the fourth month," she said. "There were four people on this platform the week it stopped and there have been nine every morning since, and the ones who are here in September are not the ones who were here in May."
 
 ## What She Has Been Doing With Three Lines
 
