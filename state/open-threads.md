@@ -1,3 +1,9 @@
+# VOLUME 17 PLANNED — **THE VOLUME-WIDE GATE FOR 801–850. NO THREAD CLOSED IN THIS PHASE. ONE THREAD CARRIED IN (ANY PERSON MAY ASK), ONE PERMITTED CLOSURE (THE COPY IN HIS COAT, AT 844–846), ONE PERMITTED OPENING (ANSWERS OVERHEARD AND THE JOINT READING). TEN MUST-NOTS CARRIED FORWARD WITH ONE ADDED (NO SEVENTH OFFICE-HAND LINE).** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## CARRIED IN, PERMITTED, AND MUST-NOTS
+
+**CARRIED IN:** any person may put one question about any paper, answered in writing, both in Register in words used (796/800). First winter of asking is Volume 17's pressure. **PERMITTED TO CLOSE:** the copy in his coat (Perla's hand, four lines, no figure, since 5 Sep y9) — burned 844–846, witnessed, never reproduced. **PERMITTED TO OPEN:** that hand-carried answers are overheard and copied by ear, and the joint reading (asker and person together) is the only unoverhearable answer. **MUST-NOTS (11):** no return-reach argument · no account figure/floor/total · no two words printed or equated · nobody sent/traced/asked (woman who cannot read; broom fourth volume; boy unasked) · no yard/docket · no head move · no fifth column line · **no seventh office-hand line anywhere in 801–850** · no rank/band/permission/shift change · no new enemy · ending.md untouched · his August blank never completed.
+
 # VOLUME 16 BATCH 0005 ON DISK — **THE VOLUME-WIDE GATE. CHAPTERS 791–800 WRITTEN. VOLUME CLOSED. ONE THREAD OPENED (ANY PERSON MAY ASK), THREE PERMITTED CLOSURES COMPLETED, NONE OF THE TEN MUST-NOTS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 ## THREADS ADVANCED AND CLOSED

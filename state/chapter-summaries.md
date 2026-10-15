@@ -1,3 +1,5 @@
+# VOLUME 17 PLANNED — **NO CHAPTERS WRITTEN IN THIS PHASE. NO ROWS ADDED. PLAN IS `outline/volume-17.md` §7 (ONE LINE PER CHAPTER, 801–850) AND `outline/batches/volume-17-batch-0001.md` (FULL CARDS, 801–810). NEXT WRITER ADDS TEN ROWS FOR 801–810.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
 # VOLUME 16 BATCH 0005 — **CHAPTERS 791–800 ON DISK AND FINISHED. MOVEMENT FIVE, THE MARK. SCENE AT 793 PETRA ILYIN. IRREVERSIBLE AT 796 ANY PERSON MAY ASK. LAST CHAPTER AT 800. VOLUME CLOSED.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
 
 | **791** | the line at the foot of it | Four sentences, name in column, spoken denial, office-hand line saying what office holds. About nine kitchens got answers in a month; one wrong, told out loud, answered under. Change: wrong row now carries its denial with it to every rail reading. |
