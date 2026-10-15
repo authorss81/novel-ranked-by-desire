@@ -8,7 +8,7 @@ There were four people in that room on the morning of the sixteenth of this mont
 
 The man who had asked. The man it was about. The clerk, who read in the voice she reads everything in. And a man in a white plate with a name on it and no figure cut into it anywhere, standing at the end of the table because there are four chairs and there have been four chairs since the first year.
 
-It was the fourth time since the tenth of June that an answer about a person had been read out in that room with both of them in it. The rule was spoken once, in that room, by a man, and was not written at the foot of anything, and there are about nine questions a month and this was the fourth answer about a person out of them.
+It was the second time since the rule was spoken on the tenth of June that an answer about a person had been read out in that room with both of them in it. The rule was spoken once, in that room, by a man, and was not written at the foot of anything, and there are about nine questions a month through that door and this was the second answer about a person out of them.
 
 ## The Line That Is Wrong
 
@@ -96,9 +96,8 @@ About four people in that corridor heard a man in a white plate say the word onc
 
 “You have just cost this office the only thing it had left,” said the man who had asked, at the door, with his hat on.
 
-“It had a correct row with a wrong line in it and a right one underneath, nine minutes apart, for ever,”
+“It had a correct row with a wrong line in it and a right one underneath, nine minutes apart, for ever. That is what it had left. I have taken the other thing away and I would like somebody to write it down who is not me.”
 
-That is what it had left. I have taken the other thing away and I would like somebody to write it down who is not me.
 ## The Cost, Said Plainly To Four People
 
 “So the wrong one stays on top,” said Wenna Raut.

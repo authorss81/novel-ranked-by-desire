@@ -67,7 +67,7 @@ She put the frame down on the bench.
 “And they are never told whether it is right.”
 
 “No. And that is the last sentence in this room and I have been saying it for about nineteen years. You cannot have an answer to it, and if you come down here in four years with one I am going to tell you to put it in your own book and not in mine.”
-## A Copy Of A Line Is Not The Line
+## Why The Fourth Is Not One Of The Three
 
 She turned the lamp shade a quarter, which she does at about three o'clock because the light comes round that room and there is a board across the middle of it.
 
@@ -75,7 +75,7 @@ She turned the lamp shade a quarter, which she does at about three o'clock becau
 
 “Say it.”
 
-“A copy of a line is not the line,” she said. “It is what somebody did with their own hand about nine minutes after a man who is paid nothing read a page to a rail. It is a record that they heard it.”
+“The three of them are a record of a hearing,” she said. “A man read four sentences to whoever stood at that rail, and three people decided that was worth a piece of their own paper, and not one of them ever saw the room he read it in. The fourth is not that. She had it in her ear once and she wrote it out in her own words on a sill with about four people standing there, and she knew before she had finished whether it was right.”
 
 “It is not a record of what was said, and I have never once found out whether I was right, and I have never once been asked. If I had asked, they would not have come again, because a woman who corrects you is a woman you can be corrected by.”
 

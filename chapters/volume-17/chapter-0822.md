@@ -1,4 +1,4 @@
-# The Copy That Is Not A Copy
+# The Man Who Wrote It In The Rain
 
 Three thousand three hundred and seventy-six was the seventeenth of this month and the twenty-fourth is day three thousand three hundred and eighty-three, and three thousand three hundred and eighty-three less three thousand three hundred and seventy-six is seven, and twenty-four less seventeen is seven by the month count.
 
@@ -106,7 +106,7 @@ She pushed the paper back across the sill towards him.
 
 “No,” said Wenna Raut, “and I am going to tell you the true reason and it is not caution and it is not your good manners.”
 
-She squared the book to the edge of the table.
+She drew the book towards her by its edge and left her forearm lying across it.
 
 “If this office takes one piece of pencil paper made by a member of the public then it has begun keeping copies, and the first one was taken on the twenty-fourth of this month from a man who was told it was worth nothing, and in about four years there will be a drawer. And a drawer in this building is a list. That is the whole of the reason and I have not improved it.”
 

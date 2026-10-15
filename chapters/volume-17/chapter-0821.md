@@ -24,11 +24,11 @@ He took the row himself and read it back and the clerk entered it in the words u
 
 ## The Arithmetic He Did Standing Up
 
-There are two books in this city about four hundred yards apart and there is one man alive who has read both.
+There are two books in this city about four hundred yards apart. He has read both of them, and no arrangement in this city exists for finding out whether any other living person has.
 
-One is the bound Register on that table, open under the window with a ruler squared along the edge of it. The other is about nine sheets under a third table in a back room off a street two streets wide, four flights up and about four hundred yards off, and it may not be cited by anybody in any room and it has never been cited once.
+One is the bound Register on that table, open under the window with a ruler squared along the edge of it. The other one is in a laundry four hundred yards off and up four narrow flights, in a back room off a street that is two streets wide, and what is in it is about nine sheets of a woman's own paper under the edge of a third table, and it may not be cited by anybody in any room and it has never been cited once.
 
-He said the whole of it out loud at the end of the table with the door open, because the clerk is the only person in this city who can tell a record from a decision.
+He said the whole of it out loud at the end of the table with the door open, because there is one person in this city who can tell a record from a decision and she is standing on the other side of that table.
 
 “The second of June is in that book if anybody in this city brought a paper through that door on that day and somebody wrote down what they said about it. That is all. It is a day this office was given something about.”
 
@@ -54,7 +54,7 @@ He put two fingers on the row.
 
 “Now about four rows in nine are a day somebody asked about another person, and every one of them is in there in the same column in the same hand as the other five.”
 
-She squared the book to the edge of the table.
+She turned the book so that the day at the head of the row was facing him and not her, and put her finger on it and left it there.
 
 “So a day in that book is not a neutral thing. Four days in every five in it are days somebody asked about another person, and if you match one of those against a day in a laundry then you are matching a day about a person against a day about a person, and you will not be able to say afterwards which of the two it was that moved.”
 
@@ -68,7 +68,7 @@ He stood there for a while and did not say the next part.
 
 He went down the four flights at half past four in the afternoon with nothing in either hand, which is the only way to do it, and along about four hundred yards past a market end that is shut and a run of washrooms with the door propped, and up four narrow flights where two people going the other way have to agree about it.
 
-The street that laundry stands on is two streets wide, and that is why there has never been a door onto a street at the end of it.
+The street that laundry stands on is two streets wide, and that is why there has never been a door at the end of it onto a street.
 
 He had been up that stair four times in four years and not once since the third of June of the year before.
 
@@ -76,7 +76,7 @@ He had been up that stair four times in four years and not once since the third 
 
 She was not in.
 
-There is a back room off the front floor of that laundry, nine feet by eleven, and a third table in it with nothing on it, and nine sheets under the edge of that table, her own paper and her own hand, and a heading on a column of one of them since the twenty-first of February of the eighth year.
+There is a back room off the front floor of that laundry, nine feet by eleven, and a third table in it with nothing on it, and under the edge of that table nine sheets of her own paper in her own hand, and a heading on a column of one of them since the twenty-first of February of the eighth year.
 
 He stood in the doorway and did not go past it.
 

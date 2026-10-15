@@ -4,9 +4,11 @@ Three thousand three hundred and eighty-three was the twenty-fourth of this mont
 
 ## About Half Past Two, And A Sheet Squared
 
-The thirty-seventh came off the rail at four o’clock and the thirty-eighth went up in its place, ninety days after it went up, and it carried no new line in the office’s hand.
+The thirty-seventh came off the rail at four o’clock and the thirty-eighth went up in its place, ninety days after it went up, and it carried no new line in the office’s hand. It went up squared, the way it has gone up every quarter since the fifth year, because a sheet that is not squared cannot be read at a rail by nine people at once.
 
-Six lines at the foot of it, five of them instructions and one of them a sentence a man said out loud in a room. Four sentences under those. Four lines in the second column under two printed words, the fourth of them with a woman’s name in it in the middle of a sentence. Six lines under the sentences with the fourth struck through and a name under the striking. Two inches of nothing.
+It is the same page. He went down the length of it with her and counted, and it is the same six lines at the foot with the same one of them a sentence a man said out loud in a room, the same four sentences under those, the same four lines in the second column with a woman’s name in the middle of the fourth one, the same striking with a name under it and the same two inches of nothing at the bottom of it all.
+
+Nothing has been put under any of it and nothing has been taken off, and the second of December of the year before is still the last day anything was written at the foot of that page.
 
 ## The Number At The Top Of It, And Whose Count It Is
 
@@ -84,7 +86,7 @@ The lamp on the floor threw the underside of the far press lid up across the wal
 
 She was wet between the legs before she had touched him and had been since about the second he came round the end of the filing floor, and she told him that as a fact and not as a complaint, and then she took him inside her in one push and held there four seconds with her mouth open and her forehead against his jaw and her cunt pulsing round him while she got her breath.
 
-Then she said, “That is a woman in the third month of this year who came down that stair asking about her neighbour and went back up it without an answer, and you have had her row in front of you for thirteen days and you have not opened your mouth about it.”
+Then she said, “That is the woman who came up the four flights on the seventeenth of this month asking about her neighbour and went back down them without an answer, and you have had her row in front of you for thirteen days and you have not opened your mouth about it.”
 
 “Do not.”
 
@@ -132,7 +134,7 @@ She picked the barrow key out of her apron and turned it over once in her finger
 
 ## The One Sentence About A Person
 
-The woman who came down that stair in the third month of this year went back up it without an answer, and she was nine days older when she did, and there is nothing in this city she can be told about the nine days except that they were kept apart on purpose.
+The woman who came up the four flights on the seventeenth of this month is thirteen days older than she was in that corridor, and she has not come back up them, and there is nothing in this city she can be told about the thirteen days except that they were kept apart on purpose.
 
 He stood there and understood the rule perfectly.
 
