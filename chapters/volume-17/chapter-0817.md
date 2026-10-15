@@ -4,7 +4,7 @@ Three thousand three hundred and forty-one was the twelfth of this month and the
 
 ## Two Of Them, One Paper, And Neither Of Them Is The Person
 
-They came up the four flights within about nine minutes of each other on the morning of the nineteenth of this month and they did not come together and they did not know each other.
+They came up the four flights within nine minutes of each other on the morning of the nineteenth of this month and they did not come together and they did not know each other.
 
 The woman had been at that counter in March and had been back twice since. The man had been at it once, in April. Each of them had asked in their own words whether this office held a paper that some other person had brought.
 
@@ -16,7 +16,7 @@ Both questions were entered in the words each of them used. They were in the sam
 
 ## The Obvious Thing, Which He Did Not Do
 
-At about half past ten he stood at the end of the table and worked out in about four minutes what a clerk with two names and one paper would do, and it was the first thing anybody in this city would have done and it was wrong.
+At half past ten he stood at the end of the table and worked out in four minutes what a clerk with two names and one paper would do, and it was the first thing anybody in this city would have done and it was wrong.
 
 There is a second column on that quarterly page with four lines in it under two printed words that say *carried by*, and the fourth of those four was entered on the third of December of the year before and it has a woman’s name in the middle of a sentence and no figure on any of the four.
 
@@ -32,7 +32,7 @@ He said it out loud to the clerk before he did not do it.
 
 “Why.”
 
-“Because the two words at the head of that column are a works department’s routing line,” said Lin Hao. “A clerk at that table showed me one of their dockets out of a drawer, the same stock and the same press, and a woman four flights up had known it months before her. The line under those two words takes the name of whoever is carrying a sheet from one counter to another.
+“Because the two words at the head of that column are a works department’s routing line,” said Lin Hao. “A clerk at that table showed me one of their dockets out of a drawer, the same stock and the same press, and a woman four flights up had known it months before her. The line under those two words takes the name of whoever is carrying a sheet from one counter to another.”
 
 “If I put two askers in it, then the two askers are on a page that goes out four times a year to about two thousand counters, and about two thousand counters hold a routing line for a man who can come down here with a docket and ask where somebody has been.”
 
@@ -40,7 +40,7 @@ He said it out loud to the clerk before he did not do it.
 
 He stood there for a minute with his hand on the back of the second chair.
 
-“There is a woman’s name in the fourth line,” he said, “and it has been in there since the third of December of the year before, which is one hundred and sixty-six days, and it has been read out of a page by a man who is paid nothing about four times a week for all of them.”
+“There is a woman’s name in the fourth line,” he said, “and it has been in there since the third of December of the year before, which is one hundred and sixty-six days, and it has been read out of a page by a man who is paid nothing four times a week for all of them.”
 
 “Yes,” said Wenna Raut.
 
@@ -78,7 +78,7 @@ He did not say it in the corridor. He made her come to the wood, and he stood in
 
 “I cannot answer you about that paper alone.”
 
-She looked at him for about four seconds.
+She looked at him for four seconds.
 
 “Then what can you do.”
 
@@ -100,19 +100,19 @@ The woman looked at the floor for a moment and then up.
 
 “Not one person in this city will be able to help you then.”
 
-“No,” he said, “and I am sorry about that, and I have said that to about four people this month and I have not improved it once.”
+“No,” he said, “and I am sorry about that, and I have said that to four people this month and I have not improved it once.”
 
 ## What He Said To The Man, Four Minutes Later
 
-It took about forty seconds and it was the same words in the same order, because there was nothing else to say, and the man took it better than the woman did and said one thing before he went.
+It took forty seconds and it was the same words in the same order, because there was nothing else to say, and the man took it better than the woman did and said one thing before he went.
 
 “You have thought about this.”
 
 “I have thought about nothing else since the second of December.”
 
-The man went down the four flights and the woman went down about nine minutes behind him, and they were both seen standing at the bottom of the stair in the yard.
+The man went down the four flights and the woman went down nine minutes behind him, and they were both seen standing at the bottom of the stair in the yard.
 
-They were not speaking to each other. They were standing about four feet apart with their backs to the wall and looking at the yard gate, and about nine minutes later one of them said something short and the other one nodded, and then they went out through the gate in opposite directions.
+They were not speaking to each other. They were standing four feet apart with their backs to the wall and looking at the yard gate, and nine minutes later one of them said something short and the other one nodded, and then they went out through the gate in opposite directions.
 
 Neither of them knew the other one had been up those stairs that morning. Lin Hao watched that from the top of the stair through the window in the door and could not tell whether that was luck.
 
@@ -120,7 +120,7 @@ Neither of them knew the other one had been up those stairs that morning. Lin Ha
 
 That is the part of it that has changed.
 
-He refused both of them with the door open, which is the way that room has been run since the autumn, and the corridor outside it is about four feet wide and runs about nine paces, and there were about nine people in it at about half past eleven on the nineteenth of this month.
+He refused both of them with the door open, which is the way that room has been run since the autumn, and the corridor outside it is about four feet wide and runs about nine paces, and there were about nine people in it at half past eleven on the nineteenth of this month.
 
 Nine people heard the word refused.
 
@@ -136,9 +136,9 @@ An answer carried into a street can be opened by four feet of weather and come o
 
 He had spent four months building a practice about hands, and the practice had held in five mornings out of six, and on the sixth the thing that got out of the room was not an answer at all.
 
-It was the shape of the answer. He had said no twice, in order, about the same paper, and nine people had watched a shape go past them in about forty seconds and had made of it exactly what anybody in that corridor would make of it.
+It was the shape of the answer. He had said no twice, in order, about the same paper, and nine people had watched a shape go past them in forty seconds and had made of it exactly what anybody in that corridor would make of it.
 
-He stood in that room at about half past eleven on the nineteenth of this month with the door open and understood that a rule about what an answer may be carried in does nothing whatever about what a refusal sounds like from four feet, and that he had not thought about it for one second in four months.
+He stood in that room at half past eleven on the nineteenth of this month with the door open and understood that a rule about what an answer may be carried in does nothing whatever about what a refusal sounds like from four feet, and that he had not thought about it for one second in four months.
 
 *Three thousand three hundred and forty-eight days. Less three thousand three hundred and forty-one, the twelfth of this month, is seven, and two people who had never met asked about one paper on one morning and the paper was about a third person who was not in the building, and the second column stands at four lines, and about nine people in a corridor about four feet wide heard a refusal given twice.*
 

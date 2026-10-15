@@ -20,7 +20,7 @@ One of the boxes is for the figure of the thing at the address. The other is for
 
 Both of them have stood empty since a clerk was handed a sheet, a form and no instruction at all on the morning of the eighth of October of the first year, and put two words into one of them because the box was there and the words were there. Nothing has been written in either of them since.
 
-Neither box has been filled since a sheet, a form and nothing at all were handed to a clerk on the morning of the eighth of October in the first year. Not one person at that kerb has come at either of them in seven years and not one is going to, because filling a box is a thing a person does after being asked.
+Not one person at that kerb has come at either of them in nine years and not one is going to, because filling a box is a thing a person does after being asked.
 
 Under the lower batten, where the paste has gone thin, a piece of office paper is held flat against the wood. A date at the top of it in a clerk's hand. A pencil line drawn across the bottom of it in a hand of her own. Face down against the board, where a person would have to kneel on wet stone to guess that it was there at all.
 

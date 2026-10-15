@@ -6,7 +6,7 @@ Three thousand three hundred and sixty-two was the third of this month and the t
 
 The woman who was refused in a doorway on the third of May and the man who was refused on the nineteenth of the same month came up the four flights together on the morning of the tenth of this month, side by side, and neither of them knew why the other one was there.
 
-They had met on a pavement about nine feet from a rail in a street of eleven doors on one side and nine on the other, in the last week of the month before, in about four minutes, and they had not said one word about this office to each other since, and they had arranged it between them over eleven days with about nine conversations in a lane.
+They had stood at the bottom of that stair in the yard on the morning of the nineteenth of the month before, four feet apart with their backs to the wall and looking at the gate, and one of them had said something short and the other one had nodded, and they had gone out through the gate in opposite directions, and in the twenty-one days since then they had arranged it between them in a lane about nine times without saying one word about this office to any of it.
 
 They came up the stair together and they stood at the wood together and about nine people in a corridor about four feet wide heard every word of what they said, which is the arrangement of that corridor and has been since the second of December.
 
@@ -86,9 +86,9 @@ The man spoke for the first time since the stair.
 
 He did not improve that.
 
-## The Sheet Goes Up At Four Carrying Nothing
+## A Sheet Squared By A Man Who Is Paid Nothing
 
-He went down four flights and along about four hundred yards at about half past three and stood in a passage off Cordwain, nine feet back on the flags, and watched a man who is paid nothing square the thirty-seventh sheet against the edge of the rail with his thumb and go back behind the wood.
+He went down four flights and along about four hundred yards at half past three and stood in a passage off Cordwain, nine feet back on the flags, and watched a man who is paid nothing square the thirty-seventh sheet against the edge of the rail with his thumb and go back behind the wood.
 
 It has been face up there for seventy days and it is the same sheet it was on the thirtieth of March and it will come down on the thirtieth of June.
 
@@ -98,7 +98,7 @@ Nothing new at the bottom of it, and nothing at the bottom of it since the thirt
 
 The sixth line of the second of December is the last line this office will ever make at the foot of one of its own pages. He said so out loud in that room on the last working day of March and asked for it to be said.
 
-He stood there at about ten to four and let the man behind the wood read the whole of it to about eleven people at the same speed as the rest of it, and did not know what any of it was for, and was never going to be told.
+He stood there at ten to four and let the man behind the wood read the whole of it to about eleven people at the same speed as the rest of it, and did not know what any of it was for, and was never going to be told.
 
 ## The Guild House On Cordwain, And A Price
 
@@ -120,7 +120,7 @@ She wrote it down in a book of her own, which is a broker’s book and has no st
 
 “About half.”
 
-“More than half,” said Marguerite Vale. “The ones who will come will be the ones with a morning to spend. A man with a cart cannot stop at four. A woman who cooks for four people cannot come at eleven on a working morning. They will say yes and mean it and then not be there, and the room will be empty and the clerk will have read four lines to an empty room and the row will stand.
+“More than half,” said Marguerite Vale. “The ones who will come will be the ones with a morning to spend. A man with a cart cannot stop at four. A woman who cooks for four people cannot come at eleven on a working morning. They will say yes and mean it and then not be there, and the room will be empty and the clerk will have read four lines to an empty room and the row will stand.”
 
 “The ones who can afford to spend a morning standing in a room are the ones who have a morning. And they are not the ones asking.”
 
@@ -134,7 +134,7 @@ She looked up.
 
 ## What It Costs In That Room, And What Is Not Started
 
-He went back up four flights at about six in the evening and the two of them were still in the corridor and had been for about an hour and a half, which was longer than the clerk had ever had anybody wait.
+He went back up four flights at six in the evening and the two of them were still in the corridor and had been for about an hour and a half, which was longer than the clerk had ever had anybody wait.
 
 Wenna Raut stood up with the pen across the book.
 

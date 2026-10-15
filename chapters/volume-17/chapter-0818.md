@@ -28,7 +28,7 @@ Perla Quist put the hand-truck down against the wall. There is a split knuckle o
 
 ## What A Heading Is
 
-“A heading is a thing that can be asked to stop,” she said. “That is all. It is not a danger and it is not an offence. There is a woman in this city right now who has said the word *unrecorded* out loud in about four hundred kitchens and there is a man with a slate in a lane who has told at least one of them that he is right about what it means.
+“A heading is a thing that can be asked to stop,” she said. “That is all. It is not a danger and it is not an offence. There is a woman in this city right now who has said the word *unrecorded* out loud in about four hundred kitchens and there is a man with a slate in a lane who has told at least one of them that he is right about what it means.”
 
 “In about four years this office is going to have an answer a week about a person, and in about two years after that somebody is going to want them all under one name, and they will be right to want it. That is the whole of the danger. Not that they want it. That they will be right.”
 

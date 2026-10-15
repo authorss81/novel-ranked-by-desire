@@ -6,7 +6,7 @@ Three thousand three hundred and thirty-four was the fifth of this month and the
 
 On the ninth of March a man was told that any person in this city could ask to hear an answer read instead of carried, in that room, in the clerk's voice, with the reading itself entered as a row with its own date on it.
 
-He was not the man who asked for it. He asked for it about half an hour later and then asked for it with his sister-in-law in the room, which is a different thing and is still standing in the bound Register in his own words with a date and an hour against it and nothing at all under it.
+He was not the man who asked for it. He asked for it half an hour later and then asked for it with his sister-in-law in the room, which is a different thing and is still standing in the bound Register in his own words with a date and an hour against it and nothing at all under it.
 
 The offer is not a favour. It was said in a room to one man and it was said that any person could have it, and a clerk at that counter would say the same thing to anybody, and none of it is in a book because there is nowhere in that office to put a thing of that kind.
 
@@ -16,7 +16,7 @@ For sixty-one days it had not been taken.
 
 He was about fifty and he had rooms on the second floor and a paper he had brought up himself in the autumn, and he had wanted to hear it.
 
-That is the safe kind and both of them understood it in about nine seconds.
+That is the safe kind and both of them understood it in nine seconds.
 
 An answer about a paper a person brought up themselves is about that person. It is not about anybody else. It says what is on the page and stops there, and no person in this city is made smaller by hearing it.
 
@@ -34,7 +34,7 @@ An answer about a paper a person brought up themselves is about that person. It 
 
 “You have not asked about the second thing,” said Wenna Raut. “The second thing is that you will be standing in this room and four people will be standing outside it and there is not one of them who will know that what they are hearing is yours.”
 
-The man thought about it for about four seconds.
+The man thought about it for four seconds.
 
 “Read it.”
 
@@ -64,7 +64,7 @@ The fourth was a man who has lived four doors down from the man whose answer it 
 
 He was standing in that corridor with his own answer in his hand, in a fold, and he heard four lines read out in a level voice about a paper with a date on it and no figure and no name, and he had a piece of pencil paper in his coat because the man who reads a page at a rail had told him in March to carry paper.
 
-He went down four flights and stood in the street at the bottom and wrote all four of them out in his own hand in about two minutes, and folded it, and went home, and has not been near this building since.
+He went down four flights and stood in the street at the bottom and wrote all four of them out in his own hand in two minutes, and folded it, and went home, and has not been near this building since.
 
 He does not know what it was about. He has not asked. There are about four hundred people in this city who know a sentence and not what it is about, and this is one of them, and it is the first one this office has made on purpose.
 
@@ -74,7 +74,7 @@ The difference between that and this is nine seconds in a corridor.
 
 ## The Difference Between The Two Things, Said Out Loud
 
-Afterwards he asked her about it, and he asked her about it because he could not get the shape of it right, and she answered him in about nine words because she had been waiting four days for somebody to ask.
+Afterwards he asked her about it, and he asked her about it because he could not get the shape of it right, and she answered him in nine words because she had been waiting four days for somebody to ask.
 
 “In February she refused to read an answer out in that corridor and had not been asked to.”
 
@@ -104,7 +104,7 @@ He stood at the other end of that table for a while.
 
 “Say the last of it.”
 
-“The last of it is that it works,” said Wenna Raut. “It is the right thing to do and it is safe and it is what a person wants when they ask for it.
+“The last of it is that it works,” said Wenna Raut. “It is the right thing to do and it is safe and it is what a person wants when they ask for it.”
 
 “In about two months there will be four of these a week, and every one of them will be somebody’s own paper, and nobody will ever be hurt by any of them, and that will be true.”
 
@@ -116,7 +116,7 @@ He stood at the other end of that table for a while.
 
 ## What Is In The Street
 
-He went down at about ten to twelve with nothing in his coat.
+He went down at ten to twelve with nothing in his coat.
 
 One hundred and sixty days since the second of December, and the thirty-seventh sheet had been face up on that rail for every one of the last forty-two of them, and one man four doors down from another man had four lines in his own handwriting on a piece of pencil paper that did not come through a door.
 

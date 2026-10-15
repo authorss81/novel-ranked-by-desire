@@ -52,7 +52,7 @@ And a word that says *the answer to the question of the fourteenth is here* is a
 
 “Yes.”
 
-“I cannot do it,” said Wenna Raut, “and it is worth telling you why in the plainest words I have, because you have been treating it as a difficulty and it is not one.
+“I cannot do it,” said Wenna Raut, “and it is worth telling you why in the plainest words I have, because you have been treating it as a difficulty and it is not one.”
 
 “A clerk may only enter what she is given. Everything in that book got there because a person said it at this counter or handed it over that door. Every one of nine hundred and some pages of it is somebody’s mouth with a date against it, and that is the only reason the thing can be believed at all. A clerk cannot originate. That is not modesty, it is the whole of what the trade is.”
 

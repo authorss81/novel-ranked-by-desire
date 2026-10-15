@@ -1,4 +1,4 @@
-# VOLUME 17 BATCH 0002 ON DISK — **THE SPINE BLOCK FOR 811–820. 3,306 TO 3,369. SEAM 7, INTERIOR 63. RAIL OFF 3,299: 7 · 14 · 21 · 28 · 35 · 42 · 49 · 56 · 63 · 70, THE THIRTY-SEVENTH COMING DOWN AT FOUR ON THE TENTH OF JUNE AND THE THIRTY-EIGHTH GOING UP CARRYING NO NEW LINE. HEAD NOT PRINTED IN ANY OF THE TEN. NOTHING IN THE OFFICE HAND. EIGHTY LITERAL OPERAND STRINGS CHECKED AGAINST THE PAGE, ZERO MISSES.** THIS IS THE ONLY BLOCK IN THIS FILE.
+# VOLUME 17 BATCH 0002 ON DISK — **THE SPINE BLOCK FOR 811–820. 3,306 TO 3,369. SEAM 7, INTERIOR 63. RAIL OFF 3,299: 7 · 14 · 21 · 28 · 35 · 42 · 49 · 56 · 63 · 70, THE THIRTY-SEVENTH COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE, WHICH IS 823, AND THE THIRTY-EIGHTH GOING UP THAT AFTERNOON CARRYING NO NEW LINE. **THE RAIL DOES NOT MOVE AT 820.** HEAD NOT PRINTED IN ANY OF THE TEN. NOTHING IN THE OFFICE HAND. EIGHTY LITERAL OPERAND STRINGS CHECKED AGAINST THE PAGE, ZERO MISSES.** THIS IS THE ONLY BLOCK IN THIS FILE.
 
 ## THE SPINE AS THE PAGE FIXED IT
 
@@ -6,7 +6,7 @@
 METHOD A (y-1)x360+off[m]+(d-1). METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4.
 811 7 Apr y10 3,306 +7 SEAM · 812 14 Apr 3,313 +7 · 813 21 Apr 3,320 +7 SCENE · 814 28 Apr 3,327 +7
 815 5 May 3,334 +7 · 816 12 May 3,341 +7 · 817 19 May 3,348 +7 · 818 26 May 3,355 +7
-819 3 Jun 3,362 +7 · 820 10 Jun 3,369 +7 QUARTER-END, THIRTY-EIGHTH SHEET, IRREVERSIBLE
+819 3 Jun 3,362 +7 · 820 10 Jun 3,369 +7 IRREVERSIBLE, AND NOT A QUARTER-END
 METHODS AGREE TEN OF TEN. ZERO VIOLATIONS.
 SEAM 3,306-3,299=7 in its own column. NINE 7 7 7 7 7 7 7 7 7 = 63 and 3,369-3,306 = 63.
 ```
@@ -57,7 +57,7 @@ FOURTH LINE OF THE SECOND COLUMN, entered 3 Dec y8 = 3,182: 3,348-3,182 = 166 da
 
 ## WHAT MOVED IN 811–820, AND WHAT DID NOT
 
-**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT. THE SIXTH, ENTERED ON THE SECOND OF DECEMBER, IS STILL THE LAST, AND THE THIRTY-EIGHTH SHEET WENT UP AT FOUR ON THE TENTH OF JUNE CARRYING NO NEW LINE.** The head, eight hundred and fifty-two, is **not printed in any of the ten files**, which is the first full batch of this volume to go without it, and it is due again at 823 and 837 and 850. SECOND COLUMN **FOUR LINES**, the fourth with a woman's name in the middle of a sentence and no figure on any of the four, **and at 817 five words and a date were written out loud and not entered, because those two printed words are a works department's routing line and about two thousand counters hold the page and that woman is paid once for it.** Four sentences at the foot. Six lines under them with the fourth struck and a name under the striking. Two inches of nothing. BUNDLE TWENTY-SIX, untouched and unprinted. DRAWER SHUT, NEVER OPENED, UNPRINTED. COPY IN HIS COAT, UNTOUCHED, NOT TO BE TOUCHED BEFORE 844. HIS AUGUST BLANK STANDS WITH ITS SPACE IN IT AND NO HAND WENT NEAR IT.
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT. THE SIXTH, ENTERED ON THE SECOND OF DECEMBER, IS STILL THE LAST, AND AND NO SHEET WENT UP OR CAME DOWN ANYWHERE IN THIS BATCH, THE THIRTY-SEVENTH STILL BEING THE ONE ON THE RAIL ON THE TENTH OF JUNE, AND THE THIRTY-EIGHTH GOES UP ON THE THIRTIETH OF JUNE CARRYING NO NEW LINE.** The head, eight hundred and fifty-two, is **not printed in any of the ten files**, which is the first full batch of this volume to go without it, and it is due again at 823 and 837 and 850. SECOND COLUMN **FOUR LINES**, the fourth with a woman's name in the middle of a sentence and no figure on any of the four, **and at 817 five words and a date were written out loud and not entered, because those two printed words are a works department's routing line and about two thousand counters hold the page and that woman is paid once for it.** Four sentences at the foot. Six lines under them with the fourth struck and a name under the striking. Two inches of nothing. BUNDLE TWENTY-SIX, untouched and unprinted. DRAWER SHUT, NEVER OPENED, UNPRINTED. **THE INSIDE OF HIS COAT, ON THE LEFT, HOLDS FOUR THINGS AND NOT THREE**, and the fourth was put there on the third of this month: the four lines of the fourteenth, Perla Quist's copy, the empty sheet out of his own drawer, and the four lines that came back out of a doorway in daylight. COPY UNTOUCHED, NOT TO BE TOUCHED BEFORE 844. HIS AUGUST BLANK STANDS WITH ITS SPACE IN IT AND NO HAND WENT NEAR IT.
 
 **AND THE BATCH'S INSTRUMENT IS A REFUSAL, AND IT TRAVELS.** About nine people in a corridor about four feet wide heard a refusal given twice about one paper on the nineteenth of this month, and one of them said, in the ordinary voice: *so there is one.* **A rule about what an answer may be carried in does nothing whatever about what a refusal sounds like from four feet.**
 

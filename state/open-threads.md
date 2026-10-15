@@ -10,7 +10,7 @@
 
 **STILL PERMITTED TO OPEN AND NOW OPEN IN FACT: that the office and the ground-floor counter four hundred yards away are drawing from the same queue and that nothing in this city joins the two books.** About four people a month ask Wren Kallo at the second counter whether this office holds anything about their neighbour, will not say which office they mean, and have been sent away four times.
 
-**THE ONE INSTRUMENT THIS VOLUME MAY CLOSE, THE COPY IN HIS COAT, IS UNTOUCHED.** It has been carried down four flights and up again and back out of a room and back in, in the eighth year of the ninth and in the twenty-eighth of April of the tenth, and it has now been joined in the inside of that coat by an answer that cannot be given and by the empty sheet out of his own drawer. **None of the three may be delivered, produced or entered anywhere before 844 and none of them may be after.**
+**THE ONE INSTRUMENT THIS VOLUME MAY CLOSE, THE COPY IN HIS COAT, IS UNTOUCHED.** It has been carried down four flights and up again and back out of a room and back in, in the eighth year of the ninth and in the twenty-eighth of April of the tenth, and it has now been joined in the inside of that coat by an answer that cannot be given and by the empty sheet out of his own drawer, and by a fourth thing that went back into it on the third of this month, out of a doorway in daylight, so that **the inside of that coat on the left holds four and a later pass that counts three is counting it as it stood at 814. None of the four may be delivered, produced or entered anywhere before 844 and none of them may be after.**
 
 ## THE ELEVEN MUST-NOTS, RE-RUN ACROSS TEN FILES
 

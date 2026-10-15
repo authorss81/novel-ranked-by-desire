@@ -20,7 +20,7 @@ He said it standing up and he did not take his coat off.
 
 ## It Goes In In His Words
 
-She read it twice before she entered any of it, standing at the wood with the page flat under both her hands so that he could see her reading it and not see the pen moving.
+She read it twice before she entered any of it, standing at the wood with the page under both her hands so that he could see her reading it and not see the pen moving.
 
 Then she took the book round and put the date at the head of a new row and the hour against the date, and she wrote down in the words he had used that he asks whether a paper is held at this office that was brought to this office by some other person, and that he does not name the person and will not name the paper, and that he asks it a fourth time.
 
@@ -66,7 +66,7 @@ She read it once through and then again with two fingers following the line, and
 
 “I said the shape of it was right and I want to be exact, because you have now got four lines on a piece of pencil paper in a working man’s hand with a date and an hour on it, and that is not the shape of it. That is the whole of it.”
 
-She put her hands flat on either side of the page, which is a thing her hands do at a desk and is not a thing she did with it.
+She set her fingertips on the paper either side of the page, which is a thing her hands do at a desk and is not a thing she did with it.
 
 “One question. One paper, though the paper is not named. A date at the head and an hour against it. The words of the person asking and not yours, and I will say again that almost nothing else in this city does that and this office has been doing it since the second of December.”
 

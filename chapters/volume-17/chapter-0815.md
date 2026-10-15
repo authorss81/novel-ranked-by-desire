@@ -24,7 +24,7 @@ That is the sentence a clerk puts at the top of about nine answers a month. This
 
 A delivery is a very small thing and it is the whole of what this office has agreed to do.
 
-Four of them in four mornings was a good week. He came back up four flights each time at about eleven and at about half past two and he had nothing in his coat that anybody could use and he could answer the question anybody in the corridor wanted to ask him about him.
+Four of them in four mornings was a good week. He came back up four flights each time at eleven and at half past two and he had nothing in his coat that anybody could use and he could answer the question anybody in the corridor wanted to ask him about him.
 
 ## The Fifth Morning, And The Mistake He Made At A Door
 
@@ -32,13 +32,13 @@ The third of this month was a woman who had asked in April about a paper her hus
 
 The answer was four lines. It said that this office holds one row against that paper, with a date on it and an hour against the date, and no figure and no name, and it said what that is, and it stopped there.
 
-He had it in a fold inside his coat on the left with the other two things and he went down four flights at about half past ten and along about four hundred yards and the street was about nine feet wide.
+He had it in a fold inside his coat on the left with the other three things and he went down four flights at half past ten and along about four hundred yards and the street was about nine feet wide.
 
 He had done this four mornings running and he was tired in a way that had nothing to do with the stairs, and when she came to the door he was so tired of carrying a thing he could not say that he said the first line of it out loud, in the doorway, in the ordinary voice.
 
 “There is one row against that paper.”
 
-He heard himself do it about a second and a half after it had happened.
+He heard himself do it a second and a half after it had happened.
 
 “Stop,” said the woman.
 
@@ -50,7 +50,7 @@ That was the first cost. The second was four seconds later, when she put her han
 
 “Give it to me,” she said, “and do not say anything else.”
 
-He gave her the fold. She opened it in the doorway with her back to the street and read the whole of it, four lines, standing up, in about eleven seconds, and then she folded it again and held it out to him.
+He gave her the fold. She opened it in the doorway with her back to the street and read the whole of it, four lines, standing up, in eleven seconds, and then she folded it again and held it out to him.
 
 “You have just told me something,” she said. “Standing in a street. In daylight, where it is.”
 
@@ -62,7 +62,7 @@ She did not raise her voice. That was worse.
 
 “Take it back.”
 
-He stood in that doorway for about four seconds with it coming back toward him and did not put his hand out, and the four seconds were the whole of the rest of his life in that street.
+He stood in that doorway for four seconds with it coming back toward him and did not put his hand out, and the four seconds were the whole of the rest of his life in that street.
 
 “Ma’am —”
 
@@ -74,9 +74,9 @@ He took it back.
 
 He carried it back up four flights.
 
-It took him about fourteen minutes and he had to stop on the second landing with his back against the wall for a minute and a half, and the answer was in his hand and not in his coat, and a person coming up behind him had to stop in the stair and wait and did not say anything about it, and he knew the sound of that person turning round and going back down.
+It took him fourteen minutes and he had to stop on the second landing with his back against the wall for a minute and a half, and the answer was in his hand and not in his coat, and a person coming up behind him had to stop in the stair and wait and did not say anything about it, and he knew the sound of that person turning round and going back down.
 
-At about a quarter to twelve he put it on the table under the window, and Wenna Raut did not touch it.
+At a quarter to twelve he put it on the table under the window, and Wenna Raut did not touch it.
 
 “The row stays,” she said.
 
@@ -86,7 +86,7 @@ At about a quarter to twelve he put it on the table under the window, and Wenna 
 
 “I did not say anything about that.”
 
-“You were standing at that table for about four seconds with your mouth shut,” said Wenna Raut, “and you have been thinking about a line at the foot of that page since the third of this month, and I have watched you think about it four times this week, and if you put one line down about a delivery refused at a door then in about nine years there is a page that says it, and that page goes out four times a year to about two thousand counters.”
+“You were standing at that table for four seconds with your mouth shut,” said Wenna Raut, “and you have been thinking about a line at the foot of that page since the third of this month, and I have watched you think about it four times this week, and if you put one line down about a delivery refused at a door then in about nine years there is a page that says it, and that page goes out four times a year to about two thousand counters.”
 
 He did not answer that.
 
@@ -96,7 +96,7 @@ He did not answer that.
 
 It stayed in his coat.
 
-He put it in on the left with the man in the cap's four lines and beside them the copy Perla Quist wrote out in her own hand on her own paper, and he shut the coat and stood at the end of the table and did the only arithmetic that was available to him.
+He put it in on the left with the man in the cap's four lines and beside them the copy Perla Quist wrote out in her own hand on her own paper and the empty sheet he took out of his own drawer in the seventh year, and he shut the coat and stood at the end of the table and did the only arithmetic that was available to him.
 
 Two answers in writing that this office has written and not given. Two rows in a bound Register with a date and an hour against each and nothing under either of them. One of the two rows is a fortnight and two days old at about noon on the fifth of this month and the other is two days old, and the gap between them is four months and one week, and both gaps are in a book that about two people in this city can open.
 
@@ -106,7 +106,7 @@ Two answers in writing that this office has written and not given. Two rows in a
 
 “I gave a woman four lines of an answer about her husband in a street doorway in daylight before she had asked me for it, because I was tired.”
 
-Wenna Raut looked at him for about four seconds.
+Wenna Raut looked at him for four seconds.
 
 “That is not in the book,” she said, “because you have not asked me to enter it and a clerk may only enter what she is given.”
 
@@ -122,7 +122,7 @@ She put the pen down across the book.
 
 ## The Second Of The Four, And Three Floors
 
-He did the third floor that night from eleven until half past five. It was the second of his four and about four washrooms between the hours, and on the way down he stood at the basin on the half landing and put cold water on his face and his hands, which has been the habit since the fourth year and has never once got shorter.
+He did the third floor that night from eleven until half past five. It was the second of his four and four washrooms between the hours, and on the way down he stood at the basin on the half landing and put cold water on his face and his hands, which has been the habit since the fourth year and has never once got shorter.
 
 At about half past one he stopped for four minutes at the top of the stairs, and the reason he stopped was not the cold and was not his chest.
 
