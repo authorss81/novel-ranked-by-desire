@@ -1,0 +1,535 @@
+# Volume Twenty-One — The Disagreement (chapters 1001–1050)
+
+> In this volume, **Lin Hao must build a way for that office to be wrong in front of him**, or **three people who sound like him are the only version of it that survives him**.
+
+**THIS FILE WAS WRITTEN BY THE VOLUME-PLANNING PHASE THAT CLOSED VOLUME 20. IT WROTE NO PROSE. IT OPENED NO CHAPTER. IT RE-DATED NONE, RESTARTED NONE AND EDITED NO FINISHED FILE. IT DID NOT TOUCH `outline/ending.md`, `outline/series.md` OR `NOVEL_SPEC.md`, AND IT INTRODUCED NO NEW ENEMY.**
+
+**EVERY FIGURE BELOW THAT CARRIES ONE WAS DERIVED IN THIS PASS BY SUBTRACTION WITH ITS OPERANDS PRINTED, AND THE SPINE WAS DERIVED TWICE BY TWO METHODS THAT SHARE NO CONSTANT WHICH AGREE ON ALL FIFTY DATES. §7 IS PLAN AND EVERY ROW OF IT IS FUTURE.**
+
+**THE STANDING INSTRUCTION IT IS WRITTEN UNDER, EARNED AT COST FOUR VOLUMES RUNNING AND RE-STATED AT THE HEAD OF THE CLOSE AUDIT OF VOLUME 20:**
+
+> **A figure nobody re-computes is the figure that is wrong.**
+>
+> **A gate row that quotes the prose it is checking cannot catch the prose. Every interval is derived from the spine, twice, by methods that share no constant, with the operands printed — never copied out of the chapter it is meant to be checking. And every gate runs across the whole volume, not across its own ten files.**
+>
+> **A scene template is not a bug, it is a risk. Nine volumes have now ended scenes on forty named axes. The axis column in §4c is the row that catches it and no gram can.**
+
+**AND THE ROW THE LAST VOLUME CLOSE AUDIT LEFT AT THE HEAD OF EVERYTHING, WHICH THIS VOLUME IS BUILT ON:**
+
+> **A gate that greps for a word cannot catch a number, and a row that says a thing is checked is not a check. Measure from disk in the pass that reports, publish the instrument, and make the per-file row add up to the total.**
+
+`outline/ending.md` IS NOT TOUCHED BY THIS PHASE AND IS NOT TOUCHED BY ANY PHASE THAT USES THIS FILE. Everything it fixes is canon and is inherited whole: Lin Wei alive and classified and never out of the Classification Wing · the reservoir returned in full at 486 and **never replenished**, and the chest spent in the fourth year still spent · Lin Hao at rank one on a branch night shift he asked for, four nights and three off, and **not on the rota page, which carries four names and none of them is his** · the Church of the Quiet Number not dissolved, not vindicated and not converted into an institution · Ferreira lives · Sowe lives · **Adeyemi is Registrar of Unrecorded Merit** · no partner dies · no partner is left behind by a choice she does not explain.
+
+**THE PREVIOUS VOLUME CLOSED ITS OWN PROMISE AT 1000, IN A MOUTH, AND CLOSED IT BY STOPPING. IT OPENED NO NEW THREAD AND IT NAMED FIVE.** This volume is built out of those five and out of the one flag 993 raised against its own answer, which is the first time in nine hundred chapters that a woman in this book has told him the thing he was building was the thing that would outlive him.
+
+---
+
+## 1. THE SENTENCE, AND THE EIGHT THINGS THIS VOLUME IS NOT, AND THE NINTH WHICH IS A SHAPE
+
+**THE ONE QUESTION THIS VOLUME OWES THE READER, STATED ONCE AND NOT RESTATED IN THOSE WORDS AGAIN:**
+
+> **Since the twenty-first of October there have been three people answering in his own words in a room four flights above a third court, and every one of the three of them was chosen because they agree with him. A woman with no gift has told him, in her own mouth, that he did not give the office away — he gave it to three people who will sound like him, and in about four years there will be a room in this city that agrees with all three of them. He is the only copy of the right version of three lines, and he said in a court in the dark on the thirtieth of December that he was not going to say them again, and the card that carries them has a grey thumbprint on the end of its second line. What is going to be wrong in front of him, and who is going to notice?**
+
+**THE SECOND, STANDING SINCE 756 AND ADVANCED TWICE BY HIS OWN HAND AT 900, WHICH THIS VOLUME DOES NOT DISCHARGE:**
+
+> **About forty people will not have to be told where it came from, and the bottom two inches under that striking in about four hundred kitchens will go quiet a second time, and not one of the four hundred will ever be told why — and the second time they will not come back.** — `chapter-0756.md`, `chapter-0796.md`, `chapter-0900.md`. **THE FOUR-YEAR CLOCK STANDS. BRACK'S SOONER FIGURE STANDS BESIDE IT IN SMALL CHALK AND THIS VOLUME DOES NOT RUB OUT EITHER ONE.**
+
+**EIGHT RESTRAINTS, AND EACH ONE IS A WAY THIS MANUSCRIPT HAS ALREADY SPENT ITSELF. THE NINTH IS A SHAPE AND NOT A RESTRAINT.**
+
+1. **IT DOES NOT REOPEN THE RETURN, ARGUE ITS REACH, OR PRINT THE FIGURE OF THE ACCOUNT.** `outline/ending.md`:229–236 fixes the reach of 486's return as deliberately open to the end of the book. **No chapter of 1001–1050 argues for or against it and no character says the question is settled or that it is not.** The figure of the account is never printed; no floor, ledger total or running balance in grains is printed anywhere in this volume.
+2. **IT IS NOT A CLIMB.** He is rank one and stays there. **No chapter of 1001–1050 raises his band, buys a permission, offers him a standing, signs anything, or moves him off the branch night shift he asked for.**
+3. **IT INTRODUCES NO NEW ENEMY.** The opposition is **agreement**, and agreement is not a person. It is a woman who has argued for twenty years that a sentence nobody wrote down is worth exactly what it says and no more · a woman with no gift whatsoever whose memory is the only archive in this city and who has been wrong about about four of its entries in twenty years · a woman whose gift cannot tell a thing she has now heard three times from a thing that happened, and who cannot keep a secret · **three people in one room who are all right and all wrong in the same direction** — and, standing at the back of it, the only other man this book has ever had at the centre of a sentence. See §3.
+4. **IT ADDS NO SEVENTH LINE IN THE OFFICE'S HAND.** The sixth line of the second of December of the ninth year is the last this office will ever make. **No chapter of 1001–1050 enters an instruction, a line, a correction or a sentence at the foot of that page in the office's hand.**
+5. **IT ADDS NO FIFTH LINE TO THE SECOND COLUMN.** Four lines under two printed words, the fourth carrying a woman's name and no figure and paid once. **842 wrote a fifth line on a slip and it was torn in two. That is spent.**
+6. **IT DOES NOT RESTAGE THE CLOSE OF VOLUME 20.** 1000 said the three lines for the last time in a court and the court has them. **This volume opens by un-saying it at 1010, in that same court, in daylight, out loud, with the woman who handed the last sentence to the man beside her standing about nine feet off — and the cost of that is on the page and is not soft.** That is not a restaging. That is the only thing a mouth can do that a page cannot, which is come back.
+7. **IT DOES NOT PRINT THE TWO WORDS ON THE STONE**, does not assert that they are the same as any heading or as anything else on any page, and **no eighth hand goes in anywhere.** **It also does not move the head.** Eight hundred and fifty-two, unmoved since the thirtieth of March of the fifth year, printed at the volume's four quarter-ends and at no chapter between them — **1011, 1024, 1037, 1050** — and at 1050 the two counts are forty sheets and thirty-nine quarters, differing by one, with `5,009 − 1,499 = 3,510 = 39 × 90` exact.
+8. **AND THE NINTH, WHICH IS NOT A RESTRAINT BUT A SHAPE: THIS VOLUME'S INSTRUMENT IS A DISAGREEMENT.** Volume 18's damage was done by a bound book carried up a stair. Volume 19's by three lines on a card nailed to a door. Volume 20's by a mouth, and the mouth then stopped. **Volume 21's is done by two people in one room saying two different things about the same fact while a third person writes both of them down — and neither of the two can tell which is right, because one of them was taught by the man who is standing in the room.**
+
+---
+
+## 2. BEGINNING STATE ENTERING CHAPTER 1001 — EVERY FIGURE OFF A PAGE AND NOTHING INFERRED
+
+Read off `chapters/volume-20/chapter-1000.md`, `:0999.md`, `:0998.md`, `:0997.md`, `:0996.md`, `:0993.md`, `:0990.md`, `:0987.md`, `:0982.md` and `outline/volume-20.md`. **If a figure here cannot be found in one of those, it is wrong and this file is wrong.**
+
+### 2a. WHAT HE IS, AND WHAT HE HAS
+
+- **He is rank one.** A white plate in his coat with his name on it and **no figure cut into it anywhere.** A branch office off a third court, three floors of washrooms, a stairwell and a bin room, eleven at night until half past five, four nights and three off, on a rota, and he asked for that shift. **THE ROTA PAGE CARRIES FOUR NAMES: HIS, NADIA FERROUS'S, PETRA ILYIN'S AND ISOLDE MARCHETTI'S.**
+- **THE CARD IS ON THE DOOR AND IS A YEAR AND TWENTY DAYS OLD AT 1001.** Three lines in his own hand: the street, the door at the head of four flights off a third court, and the hours between a quarter to ten and half past five on working mornings, five days in seven, and at no other hour. Nothing else on it. Not one name. On three nails, put up on the thirtieth of December of year twelve. **THERE IS NO TRANSCRIPT OF IT ANYWHERE IN THE WORLD AND THERE NEVER WILL BE, AND NO SECOND CARD AND NO COPY AND NO WRITTEN ADDRESS FOR THAT OFFICE.**
+- **AND IT IS GOING.** The second line has gone soft at the same two top corners and **the last four words of it are a grey thumbprint with his own thumbprint in it.** The clerk reads it back to him at a foot and gets all of it, and neither of them has ever done that in nine years, and he has been saying those three lines from the top of that stair since the third of December because from up there he cannot see the bottom of his own court. **THE ONE REPAIR IS A RENEWAL AND A RENEWAL IS THE ONLY INSTRUMENT THAT OFFICE HAS.**
+- **HE STOPPED.** On the thirtieth of December, at about nine minutes to five, at the bottom of his own stair, in the dark, in front of about nine people, he said the three lines one last time and then said the cost out loud and then said he was not going to say them again, **and the woman at the back with the shawl over her head handed that last sentence to the man beside her in the third person**, and the court then took one of them and gave it to somebody else. **IT WAS SAID ONCE IN A COURT AND A THING SAID ONCE IN A COURT BELONGS TO THE COURT.**
+- **HE IS NOT ONE OF THE THREE ANSWERERS ANY MORE.** From the twenty-first of October the clerk and the two carriers answer, in their own words, in that room. Since the twenty-eighth of October nobody in that room has asked for him. **HE IS A MAN AT THE TOP OF A STAIR AND A MAN AT THE BOTTOM OF ONE AND NEITHER IS THE ANSWER.**
+- **THE STANDING SHEET.** The head stands at **eight hundred and fifty-two**, unmoved since the thirtieth of March of the fifth year, `1,499`. Below it about four hundred and nineteen lines with a date and an hour against every one and no figure and no name. The second column, four lines. Four sentences at the foot. Six lines in the office's hand, five instructions and one sentence, the last entered the second of December of the ninth year, **and no seventh goes in anywhere in this volume.**
+- **THE REGISTER.** **One book, two counts, both on the page, and they are not two books.** About four hundred and thirty rows on the first of February of year nine, `2,880`, and about four hundred and seventy on the third of June of year nine, `3,002`, **which is the last day anybody counted them.** Rows added since and not counted, **including every row the three of them have entered since the twenty-first of October, and the office has not counted them and will not.** The back board is new, there is no daylight and no tick, and there is a strip of paper inside the front board with a tradesman's mark on it in pencil, and **the only person in this city who could hear that book can no longer hear it.**
+- **THE BOOK'S HOURS AND ITS ONE FAILURE.** Up at a quarter to ten by two carriers, five days in seven, with the strap between them. Down at half past five by his own hands, in the dark, five days in seven. **THE REGISTER IS NEVER UPSTAIRS OVERNIGHT. THE FIRST HOUR AFTER A BOOK COMES BACK IS THE ONLY HOUR IN NINE YEARS IN WHICH ANYTHING ABOUT IT IS NEW AND NOT ONE PRACTICE IN THAT BUILDING COVERS IT.**
+- **HIS OWN BLANK ROW.** The twenty-third of August of the ninth year, `3,082`. A date at the head, an hour against the date, and **a space in the middle of it where the words of the man who carried up four flights a piece of pencil paper with nothing on it were to go.** **One thousand five hundred and eighty-seven days old at 1001 and one thousand six hundred and fifty at 1010 (`4,669 − 3,082 = 1,587` and `4,732 − 3,082 = 1,650`). IT IS NOT COMPLETED IN 1001–1050 AND NO CHAPTER MAY SAY WHAT WAS IN IT.**
+- **THE DRAWER.** Shut by him in a clerk's hand with his name on the twenty-first of October of the seventh year, `2,420`. **It can never be opened again by anybody, including him, and no chapter of 1001–1050 opens it.**
+- **THE BUNDLE.** Twenty-six things on a table, of which the twenty-sixth is the empty sheet he carried out of his own drawer. **TWENTY-SIX AT 1001 AND TWENTY-SIX AT 1050, AND NOTHING IS TAKEN OFF THAT TABLE AND NOTHING IS PUT ON IT.**
+- **THE INSIDE OF HIS COAT ON THE LEFT IS EMPTY. THE INSIDE OF THAT COAT ON THE RIGHT IS A PIECE OF STIFF GREY CARD ABOUT THE LENGTH OF A FOREARM, AND IT IS THE WINTER CARD HE CARRIED UP FOUR FLIGHTS EVERY MORNING FROM THE TWENTY-NINTH OF OCTOBER AND WHICH IS NOW ON A DOOR, AND NEITHER PIECE EVER GOES ANYWHERE ELSE.**
+- **HE HAS NOTHING LEFT TO SPEND.** The reservoir was returned in full at 486 and is never replenished. The chest he spent permanently in the fourth year is still spent, and in the winter of year twelve four flights of a quarter to ten cost him more than they did in the summer, and that is now a fact about his mornings.
+- **THE ACCOUNT.** Belongs to nobody, cannot be drawn against, allocated or closed. **NO CHAPTER OF 1001–1050 PRINTS IT AND NO CHAPTER PRINTS A FLOOR.**
+
+### 2b. THE STANDING PRACTICES, ALL OF THEM IN FORCE AT 1001, NONE OF THEM IN INK EXCEPT AS NAMED
+
+1. Answers go in writing. 2. Both question and answer are entered in the words used. 3. Nothing is taken from. 4. Every written answer is carried by hand to the person who asked, and the carrier writes down whose hand took it and in what order. 5. From the tenth of June of year eleven an answer about a paper the asker brought up themselves goes in a fold with the flap gummed shut and the date and the hour on the outside and nothing else; an answer about any other person is read out in that room once, in the voice that office reads everything in, with the person it is about in the room and the person who asked in the room, and if the person it is about will not come then there is no answer and the row stands as it is. 6. From the sixteenth of August of year ten an answer read once in that room may not be read again in that room with different people in it. 7. From the twentieth of October of year ten a question about a question is not entered, not even its refusal. 8. From the sixth of July of year ten a clerk in that office does not read a row back from memory anywhere. 9. From the second of December of year ten no row may describe a copy of the foot of the standing sheet. 10. From the eighteenth of August of year eleven an answer is about a person only with the person in the room, with no exception for the dead. 11. From the twenty-fifth of October of year eleven the book goes down at half past five by his own hands, five days in seven, and is never upstairs overnight. 12. From the thirtieth of December of year eleven the door carries the address, the door, and the hours, and nothing else, and not one name.
+
+- **AND THE THIRTEENTH, WHICH IS ON THE PRACTICE SHEET AND HAS BEEN SPENT TWICE OVER: from the twenty-third of May of year thirteen anybody may stand at the foot of that stair and say the three lines out loud on working mornings from a quarter to ten to half past five, and no person may be charged for it, and nobody is going to be stopped.** He said it once in that court in June and once in that room in October, in his own words, and **no file of record produces it, no person in that building has ever seen the sheet, and no chapter of 1001–1050 quotes it back as an authority or has anybody repeat it as a standing instruction.** He may still act on it and he may still be asked about it.
+- **AND THE FOURTEENTH, WHICH IS NOT A PRACTICE AND HAS NO DATE AND CAME OFF A STAIR: nothing that comes up those four flights goes back down them.** It is enforced in the ordinary voice by the carrier with the bad back and she is answerable to the stair and not to him. **It is right every time and it is not on anything.**
+
+### 2c. THE PEOPLE, AND WHAT EACH OF THEM IS CARRYING INTO 1001
+
+- **WENNA RAUT**, clerk, may only enter what she is given, is the hand that answers, and cannot leave the room while the book is in it. One of the three. **NOT AGED IN PROSE. NO AGE MAY BE GIVEN.**
+- **THE CARRIER WITH THE BAD BACK**, one of the three, who has carried that strap up past him twice a working morning and said good morning both times, and **whose held sentence is that there is going to be a morning when he does not answer her.** She is not aged and may not be.
+- **THE OTHER CARRIER**, one of the three, who has never read a row to anybody in his life and did not know that until four minutes after he found out.
+- **THE COUNTERMAN**, paid nothing, nine years behind a counter under a window in a passage off Cordwain, who tells about nine strangers a day where that door is and **who turns that rail three times in twelve months and lets a stranger in the street read the figure at the top of it.** Not aged.
+- **EMIL BRACK**, delivery coat, a lane off Cordwain, nine stools, nine districts, a slate, twelve books, right about every fact, with the head of the office's standing sheet in his small chalk beside a sooner figure that is not rubbed out and not argued, and **a third figure in his own head with no unit he can write after it.**
+- **PERLA QUIST**, who keeps an index under a third table, said no to holding a card with an address on it because a card in her rooms is one step to holding who comes through it.
+- **SANNA RUHL**, who works a floor at the end of a market and says the three lines out loud to people who cannot read a clock. **ILVA TERN**, who stands at a stop where the last service has stopped calling. **Neither is Nadia Ferrous, neither is aged, and neither is on a roll, an index or a count.** They have been saying different things for four months and do not know about each other.
+- **THE BOY WITH THE PASTE BRUSH** is not on the page in 1001–1050 and is not asked about anything by anybody. **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND NOT ASKED, FOR THE ELEVENTH RUNNING VOLUME.** **THE WOMAN WHO CANNOT READ IS NOT NAMED, NOT TRACED, NOT ASKED ANYTHING, AND NOBODY IS SENT TO FIND HER**, and her sheet lies unmoved, and **no chapter of 1001–1050 folds it, turns it over or takes it.**
+- **THE WOMAN FROM THE DOORWAY, WHO CAME BACK UP ON THE NINETEENTH OF AUGUST AND WAS NOT HELPED.** Her resolving was permitted at five points in Volume 20 and declined at every one. **She is not named, not aged, not on anything, her sister is not traced, and NO CHAPTER OF 1001–1050 RESOLVES HER.** 1010 may name her existence in one clause and may not use her.
+- **THE THIRTY-NINE DAYS ARE NOBODY'S** and no chapter closes them.
+
+### 2d. FIGURES A BATCH MUST NOT "CORRECT", AND EACH ONE IS ON THE PAGE
+
+**1 · THE ROW COUNT IS ABOUT FOUR HUNDRED AND THIRTY ON THE FIRST OF FEBRUARY OF YEAR NINE AND ABOUT FOUR HUNDRED AND SEVENTY ON THE THIRD OF JUNE OF YEAR NINE. BOTH ARE ON THE PAGE, THE THIRD OF JUNE IS THE LAST DAY ANYBODY COUNTED THEM.** **2 · A COUNT OF PIECES OF PAPER IS NEVER A COUNT OF CLAIMS AND NEVER A COUNT OF PEOPLE.** **3 · THE DOCKET'S DATE IS NOT PRINTED AND IS NOT READ ALOUD IN THIS VOLUME.** **4 · THE INVENTED-FIGURES SENTENCE IS SPENT FOR THE REST OF THE BOOK.** Zero verbatim and zero Tier 3 anywhere in 1001–1050. **5 · THE FOURTH CONDITION IS NOT REPROVED AND IS NOT DISPROVED BY ANYONE.** **6 · THE CARD CARRIES THREE LINES AND NOT ONE NAME, AND NO CHAPTER OF 1001–1050 PUTS A NAME ON IT, MAKES A COPY OF IT, OR KEEPS AN INDEX OF WHO HAS SAID IT OUT LOUD.** **7 · NO LIST OF COMERS, IN ANY FORM, FOR ANY REASON, WITHOUT A SECOND DECISION TAKEN OUT LOUD IN THAT ROOM WITH THE DOOR OPEN — AND 1030 IS THAT SECOND DECISION AND IT IS TAKEN IN A STREET, WHICH IS THE FIRST TIME IN NINE YEARS THAT IT HAS BEEN TAKEN ANYWHERE BUT IN THAT ROOM.** **8 · NO THIRD WRITTEN REFUSAL, AND NO RESTATION OF ONE.** **9 · NO SPOKEN COUNT OF HOW MANY WRONG VERSIONS OF THE THREE LINES EXIST, BY ANYBODY, INCLUDING HIM, IN ANY CHAPTER.**
+
+---
+
+## 3. FACTIONS AND PLACES THIS VOLUME ACTUALLY USES
+
+| Where | Who | What it is for in this volume |
+| --- | --- | --- |
+| **The room four flights up, a door with a card on it, a table, two chairs, a drawer ordered shut, a bound Register with a new back board** | **Wenna Raut; the two carriers; now three answerers and one man who is not one of them** | the office, the standing sheet, the Register, and the room that agrees with him. **1001–1050, daily** |
+| **The top of that stair, looking down his own court** | **Lin Hao, from the third of December** | he cannot see the bottom of his own court from up there, and he has been saying three lines from up there since. **1001, 1005, 1045** |
+| **The foot of that stair — a third court, the bottom step, a wall about the height of a man, about nine feet of pavement** | **Lin Hao to 1010 and then nobody** | where a thing said once in a court belongs, and where it is un-said at 1010, and where at 1050 he is one of the people in it. **1001–1010, and 1050** |
+| **A counter under a window in a passage off Cordwain, a rail, and a quarterly sheet face up on it** | **the counterman**, paid nothing | where the head is spoken, and where a stranger in the street is handed a figure and asks what it means. **1002, 1008, 1024, 1037, 1050** |
+| **A returns desk on a filing floor** | **Wren Kallo** | a thing she takes one question of at a time. **1003** |
+| **A lane off Cordwain, nine stools, nine districts, a slate, twelve books** | **Emil Brack**, right about every fact | the sooner figure in small chalk, the head in another man's chalk, and the one thing a lane can say that an office cannot. **1008, 1018** |
+| **An intake desk at the Terrace with twenty years behind it** | **Dagmar Oyelowo** | the only archive in this city, and the only person who is not asked anything. **1013** |
+| **A chapel where nothing can be compelled** | **Agnete Lindqvist** | the opposition again, and again right. **1023** |
+| **A stopped car in a bank of four on a night shift** | **Nadia Ferrous** | the one scene that is not about the office, and the one woman who has never once been able to leave. **1033** |
+| **A research wing, or a room somebody in a research wing comes to** | **Sun Meiling** | the other man in the sentence, seen from the outside for the first time. **1043** |
+| **The branch office off a third court at night** | **Nadia Ferrous, Petra Ilyin, Isolde Marchetti on the rota** | the nights. **1033, 1044** |
+| **A third court in daylight** | **nobody, this volume** | **where he stands at 1048 having asked two women for something.** |
+| **The foot of a hill, a board by a kerb, a month's form with two ruled squares** | nobody, this volume | **not on the page.** 948 closed it and said it is not reversed, and no chapter of this volume goes down that hill. |
+
+---
+
+## 4. THE SCENE SCHEDULE — **PLAN**
+
+**Volume 20's last scene is 993, Isolde Marchetti, on the twelfth of November of year thirteen. The next is 1003, and 1003 − 993 = 10.**
+
+**THE BAND IN `AGENTS.md` GOVERNS THE CADENCE BETWEEN SCENES IN THE BOOK. IT DOES NOT GOVERN THE GAP BETWEEN A WOMAN'S LAST SCENE AND HER NEXT ONE, AND NO FILE IN THIS REPOSITORY MAY CERTIFY THAT COLUMN AS IN BAND OR OUT OF IT.**
+
+| Chapter | Whose | **That woman's own last scene** | Gap from the previous scene in the book | Gap from her own last scene |
+| --- | --- | --- | --- | --- |
+| 993 | Isolde Marchetti. **Volume 20's last.** | 261 | — | — |
+| **1003** | **Wren Kallo** | **923** | 1003 − 993 = **10** | 1003 − 923 = **80** |
+| **1013** | **Dagmar Oyelowo** | **943** | 1013 − 1003 = **10** | 1013 − 943 = **70** |
+| **1023** | **Agnete Lindqvist** | **983** | 1023 − 1013 = **10** | 1023 − 983 = **40** |
+| **1033** | **Nadia Ferrous** | **933** | 1033 − 1023 = **10** | 1033 − 933 = **100** |
+| **1043** | **Sun Meiling** | **893** | 1043 − 1033 = **10** | 1043 − 893 = **150** |
+
+**CADENCE, RE-RUN BY ARITHMETIC: 10, 10, 10, 10, 10. Nothing under eight, nothing over fifteen.**
+
+**PER-WOMAN, RE-RUN: 80, 70, 40, 100, 150. REPORTED AND NOT CERTIFIED, and no file in this repository may say one of those five is inside the eight-to-fifteen band.**
+
+**AND TWO OF THESE ARE DECISIONS TAKEN OUT LOUD, WITH THE REASON:**
+
+1. **WREN KALLO AT 1003 OPENS THE VOLUME.** Her gift is that she cannot tell a thing she has now heard three times from a thing that happened, and her cost is that she cannot keep a secret. **A volume whose argument is that three copies of one man are not three witnesses opens with the only person in Ostara whose own trade cannot tell the difference, and who has been in a division for nine years saying the three lines to people who had no reason to hear them.**
+2. **SUN MEILING AT 1043 CLOSES THE VOLUME, ONE HUNDRED AND FIFTY CHAPTERS AFTER HER OWN AND ONCE IN FOUR HUNDRED AND THIRTY-ONE CHAPTERS AFTER A MAN SHE PARTNERED WITH DISAPPEARED INTO A ROOM NOBODY CAN PRODUCE FROM.** She is Lin Wei's research partner, she is core and unsworn, she refused the plate and the quarters, and `outline/volume-20.md` §8 carries her row and her bar as may-not-close. **A volume about who gets to be believed ends with the one person in this city who watched the whole of it from the outside and cannot hold a single thing still long enough to be asked about it.**
+
+### 4a. THE FIVE SCENES, ONE LINE EACH, AND NOT ONE CHAPTER'S CHOICE
+
+- **1003 — WREN KALLO.** She has been hearing the three lines said by other people in her own division for two months and cannot tell any of it from a thing she has now been told three times, and she cannot keep a secret, so she came in person instead of writing.
+- **1013 — DAGMAR OYELOWO.** She has sat opposite every rank in Ostara for twenty years and was never asked one question about any of it, and the only record of the whole of that is her memory, and she has been wrong about about four of it and has never had a way of finding out which four.
+- **1023 — AGNETE LINDQVIST.** She told him in September that a sentence nobody wrote down is worth exactly what it says and no more, and he conceded the whole of it, and she has come back with the other half of it, which is that a sentence three people agree on is worth less than one nobody agrees with.
+- **1033 — NADIA FERROUS.** She has never once in her life been able to leave a room, and she is the only person on that rota who understands a door she cannot get out of, and she wants him out loud and has wanted him out loud since she was nineteen.
+- **1043 — SUN MEILING.** She has been going past that court since November and has not come up, because she has been waiting nine years for somebody to ask her about her own brother and she has not been asked a single question about this one.
+
+### 4b. WHY THESE FIVE, ONE LINE EACH
+
+- **1003 — WREN KALLO.** A gift that cannot tell hearing from happening is the cheapest possible instrument for testing whether three agreeing voices are evidence.
+- **1013 — DAGMAR OYELOWO.** The volume needs the only person in this book who has never been able to be checked, and who is not sorry about it.
+- **1023 — AGNETE LINDQVIST.** The opposition is not cruelty in this volume either. It is a serious argument by a serious woman who has already won once.
+- **1033 — NADIA FERROUS.** The volume needs a scene with a person in it who is not thinking about the office, and the household has one and she has never been off that rota in four years.
+- **1043 — SUN MEILING.** The volume's last line has to be about the other man, and the only woman who can say anything true about him is the one who cannot see one thing clearly.
+
+### 4c. THE TEMPLATE AXES, AND THE FOURTH WALL
+
+**THE SCENE TEMPLATE IS THIS MANUSCRIPT'S SINGLE LARGEST DUPLICATION RISK AND IT IS NOT A BUG.** Each of the five must break at least one axis, carried by a rule of the room and named by nobody. **NONE OF THE FIVE AXES BELOW IS ONE OF VOLUME 12's FIVE — counted minute, terms, body described in words three times, quiet, voice — OR VOLUME 13's FIVE — witness, order, arithmetic said out loud, the one question, the hour — OR VOLUME 14's FIVE — two readings, stand, shelf, chart, copy in her hand — OR VOLUME 15's FIVE — the heading, the address, the third party, the day book, the rota — OR VOLUME 16's FIVE — correction, fortieth, favour, sheet, promise — OR VOLUME 17's FIVE — delivery, queue, folder, lift, unanswered — OR VOLUME 18's FIVE — the corner, the door in the middle, the name not in the room, the turn of a stair, the second trace — OR VOLUME 19's FIVE — the threshold, the knock, the landing, the passage, the winter light — OR VOLUME 20's FIVE — the echo, the far end, the second price, the silence after, the room that agrees. THAT IS FORTY-FIVE AXES AND ALL FORTY-FIVE WERE COMPARED AGAINST THE FIVE BELOW ONE FOR ONE, AND NONE OF THE FIVE BELOW IS ANY OF THEM.**
+
+| Ch | Axis to break | The room's rule that carries it, in-world | May anybody name it? |
+| --- | --- | --- | --- |
+| **1003** | **the third time** | in a returns desk a statement's weight is a function of how many separate hands hold it: one hand cannot be checked at all, and four hands is stronger than two, and nobody in that trade can tell a thing that happened from a thing that has now been said three times | **NO** |
+| **1013** | **what the desk is not asked** | an intake desk records only what a person asks about, so after twenty years the desk knows precisely what the public wants and nothing whatever about itself, and its holder has never once been asked a question by anybody who came to the counter | **NO** |
+| **1023** | **the second witness** | in that chapel no two people who have already said the same thing may witness to each other, and a witness who agrees with another witness is struck from the record without being asked why | **NO** |
+| **1033** | **the empty car** | in a bank of four the car that arrives first is the one that has been moving the whole time and has nothing for you, and nothing that arrives quickly has ever arrived with anything in it | **NO** |
+| **1043** | **the set** | a shape that appears in three sets of data is not confirmed, it is a habit, and it is confirmed only when it appears in one set that nothing else resembles — so she cannot hold one thing still and answers about a set every time she is asked about a thing | **NO** |
+
+**THE FOURTH-WALL GATE FOR ALL FIVE IS ZERO.** No character may name a scene, an axis, a chapter, a volume, a page, a book, a reader or her own performance, and the narrator may not address the reader. **The class grep must include the word `manuscript` and the word `opposition`, and must be run across the whole volume and not across one batch.**
+
+**EVERY SCENE IS BETWEEN A WOMAN AND A MAN WHO CANNOT PAY FOR WHAT SHE IS DOING, AND HE HAS A SPENT CHEST AND NO PERMISSION OF ANY KIND AND IS RANK ONE. NO SCENE MAY USE COMPULSION, SEDATION, EXHAUSTION, TOXIN, RESTRAINT, PSYCHIC CONTACT, TRANSE OR A SEAL AS ITS MECHANISM. NO SEXUAL CHARACTER IS UNDER EIGHTEEN. VIOLENCE AND SEX STAY IN SEPARATE REGISTERS. SAYING YES IS FAST AND IT IS ENJOYABLE TO HER AND THAT IS WRITTEN AS REAL AND SPECIFIC AND NOT AS RELUCTANCE. A SCENE CHAPTER MAY LEAVE THE 1,800–2,700 BAND AND MUST SAY WHY IN THE STATE FILE; IT MAY NEVER LEAVE THE SCENE UNWRITTEN.**
+
+### 4d. THE TABLE OF MARKS ALREADY OWNED — **INHERITED WHOLE FROM `outline/volume-20.md` §4d, WITH THE STANDING DECISIONS RESTATED AND THE THIRD ONE CHANGED**
+
+**A BORROWED BODY IS A CANON ERROR AND A TWELVE-GRAM SCAN CANNOT SEE ONE. Check borrowed bodies before borrowed sentences, and check borrowed STAGINGS, which a twelve-gram scan cannot see either.** The whole of Volume 20's table stands: Lin Hao's grey at the left temple and `right temple` at zero · **Ines Duarte's ink at the cuticles of the first two fingers of the right hand, and the four instances on disk at 329, 340, 404 and 446 — VOLUME 21 PLANS NO FIFTH AND MAY NOT PRINT ONE. The flag at `state/open-threads.md` §8a stays as it stands and this volume takes the branch it allows by printing none.** · Wren Kallo's two nails of the left hand · Sun Meiling's line of work across the top of her spine and no mark at all · Marguerite Vale's occupational cuticles · Ada's grey on one side, permanent · **Hanneke Ruis, no age fixed and none may ever be given, no mark of any kind, ever** · Agnete Lindqvist, forty-five, her 546, 564 and 663 stagings are hers and may be referenced and never restaged, **and her 983 staging is hers too and may be referenced and never restaged** · Runa Sato, Wren Kallo, Sun Meiling, Nadia Ferrous, Beatrix Halm, Tessa Okonkwo, Petra Ilyin, Isolde Marchetti, **check the page before planning a body** · Mavis Rooke's hands · Wenna Raut, **not aged** · Otho Pearse, **never *Ostho Pearse*** · **Beatrix Halm is deaf in one ear and has been since the Veil, and no chapter of any volume may move which ear.**
+
+**THE STANDING DECISIONS, RESTATED:**
+
+1. **NOBODY PUTS A HAND FLAT ON ANYTHING IN 1001–1050.** This is the eighth volume it binds. **THE RULE IS BREACHED THREE TIMES IN VOLUME 20 — AT `chapter-0963.md`:95 AND :99 AND AT `chapter-0993.md`:83 — AND THAT FLAG STANDS OPEN AND IS CARRIED, AND A LATER PASS THAT ENFORCES IT MUST DECIDE ABOUT THOSE THREE AND ABOUT 703, 713, 765 AND 803. THIS VOLUME DOES NOT REPAIR THEM AND MAY NOT REPAIR THEM; IT MAY NOT ADD A FOURTH.**
+2. **THE BOY IS NOT AGED AND IS NOT ASKED BY ANYBODY ABOUT ANYTHING, AND HE IS NOT ON THE PAGE IN 1001–1050 AT ALL.**
+3. **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND IS NOT ASKED, FOR THE ELEVENTH RUNNING VOLUME.**
+4. **THE WOMAN WHO CANNOT READ IS NOT NAMED, NOT TRACED, NOT ASKED ANYTHING, AND NOBODY IS SENT TO FIND HER.** **Her sheet is held against the wood under the lower batten, unmoved, with her own pencil line across the bottom of it, and no chapter of 1001–1050 folds it, turns it over or takes it.**
+5. **LIN HAO DOES NOT GO BACK TO THE STONE YARD AND THE DOCKET LEAVES HIS COAT.** Closed at 712. **No chapter of 1001–1050 enters a yard, names a docket, or prints its date.**
+6. **NO CHAPTER OF 1001–1050 ENTERS ANYTHING IN THE OFFICE'S HAND AT THE FOOT OF THE STANDING SHEET.** The sixth line of the second of December of the ninth year is still the last.
+7. **HIS OWN BLANK ROW IS NOT COMPLETED IN 1001–1050 AND NO CHAPTER SAYS WHAT WAS IN IT.**
+8. **NO CHAPTER OF 1001–1050 GIVES THE OFFICE A NAME OR A SIGN.**
+
+**AND THE TWO DECISIONS VOLUME 21 ADDS BEYOND THE EIGHT:**
+
+9. **NO CHAPTER OF 1001–1050 MAKES A SECOND CARD, A COPY OF THE CARD, A TRANSCRIPT OF ITS THREE LINES, A WRITTEN ADDRESS FOR THE OFFICE, A LIST OF THE PEOPLE WHO HAVE SAID THE THREE LINES OUT LOUD, OR A LIST OF THE PEOPLE WHO HAVE ANSWERED IN THAT ROOM SINCE THE TWENTY-FIRST OF OCTOBER.** The instrument of this volume is a disagreement and **none of it is written down anywhere, and that includes the disagreement.**
+10. **NO CHAPTER OF 1001–1050 TAKES THE CARD DOWN EXCEPT AT 1045, WHERE IT COMES DOWN AND GOES BACK UP ON THE SAME THREE NAILS WITH THE SAME THREE LINES IN HIS OWN HAND AND NOT ONE NAME, AND THE FOURTH-CLAUSE HOURS ARE NOT PUT BACK ON IT.** Twelve and twenty days after the card was last put up, it is renewed once in this volume, in daylight, at a door, with nobody told. **No other chapter touches it, and no chapter adds a name, a fourth line or an hour.**
+
+---
+
+## 5. THE CALENDAR AND THE SPINE
+
+### 5a. WHAT CARRIES FORWARD FROM `outline/volume-20.md` §5a, AND IT IS CARRIED WHOLE
+
+- **A month is thirty days and has no thirty-first. The thirtieth is the last working day of the month and of the quarter.**
+- **NO INTERVAL IN THIS VOLUME MAY BE DERIVED AGAINST A REAL CALENDAR. SUBTRACT DAY NUMBERS.**
+- **A year runs from the first of February to the thirtieth of January.** Every month from February to December is labelled by the year it sits in, **and a January is labelled by the February that follows it. The January after the thirtieth of December of year thirteen is therefore the twelfth month of year thirteen and is printed as the twentieth of January of year fourteen, and that is not a slip.**
+- **VOLUME 21 NAMES NO DAY OF THE WEEK AT ALL.** Seven names, whole-word and stem, zero, across every file the batch writes. **AND THE ORDINARY PAST TENSE OF *SIT* AND THE ORDINARY NOON *SUN* ARE PROSE AND ARE NOT WEEKDAYS, WHICH THE REVIEW OF 991–1000 ESTABLISHED THE HARD WAY: THE BARE `sat` STANDS AT NINE HUNDRED AND EIGHTY-SIX USES IN FOUR HUNDRED AND FIFTY-FOUR CHAPTERS, RE-MEASURED FROM DISK ON THE FIFTEENTH OF OCTOBER 2026, AND THE TWO ROWS ARE PUBLISHED SEPARATELY AND NEITHER IS ALLOWED TO STAND IN FOR THE OTHER.**
+- **NO CHAPTER OF 1001–1050 PRINTS A YEAR NUMBER IN ITS PROSE.**
+- **VOLUME 21 OPENS ON THE TWENTIETH OF JANUARY OF YEAR FOURTEEN AND CLOSES ON THE THIRTIETH OF DECEMBER OF YEAR FOURTEEN**, twenty days after the fifty-second sheet went up and nothing having been written about the card, said once at 1001 and not argued.
+- **THE DAY NUMBER IS THE AUTHORITY AND THE YEAR LABEL IS NOT.** Every interval is derived from the day column below.
+
+```
+day 0 = 1 February, year one        a month is thirty days and has no thirty-first
+month offset inside a year    Feb 0 · Mar 30 · Apr 60 · May 90 · Jun 120 · Jul 150 ·
+                               Aug 180 · Sep 210 · Oct 240 · Nov 270 · Dec 300 · Jan 330
+METHOD A   1 Feb of year y = (y-1) x 360
+           day of month d  = (y-1) x 360 + off[m] + (d-1)
+           ** EXCEPT A JANUARY, WHICH IS (y-2) x 360 + 330 + (d-1) **
+METHOD B   absolute month index i = (y-1)*12 + pos[m] for Feb-Dec; day = 30*i + (d-1)
+           ZERO INDEXING, WITH pos[Feb]=0, pos[Mar]=1, pos[Apr]=2, pos[May]=3, pos[Jun]=4,
+           pos[Jul]=5, pos[Aug]=6, pos[Sep]=7, pos[Oct]=8, pos[Nov]=9, pos[Dec]=10
+           ** A JANUARY IS THE TWELFTH MONTH OF THE YEAR THAT BEGAN IN FEBRUARY, so
+           IT IS THE LAST MONTH OF THE YEAR BEFORE THE ONE ITS LABEL NAMES:
+           pos[Jan]=11 WITH i = (y-2)*12 + 11. pos[m] = 11 IS RIGHT AND y-1 IS NOT. **
+           PRINTED IN EVERY BLOCK THAT USES IT.
+BOTH METHODS SHARE NO CONSTANT AND AGREE ON ALL FIFTY DATES BELOW. CHECK THEM YOURSELF.
+```
+
+### 5b. THE SPINE, RE-DERIVED IN THIS PASS BY TWO METHODS THAT SHARE NO CONSTANT
+
+```
+SPINE, 1001-1050
+  day 0                  1 February, year one
+  chapter 1000           30 December, year thirteen = 4,649          (carried from Volume 20)
+  chapter 1001           20 January, year fourteen = 4,669
+  the seam               4,669 - 4,649 = 20 days after chapter 1000, and it is the card's
+                         second year, said once at 1001 and not argued
+  chapter 1050           30 December, year fourteen = 5,009
+  span                   5,009 - 4,669 = 340 inside, plus seam 1001-1000 = 20,
+                         340 + 20 = 360 = 5,009 - 4,649, EXACTLY ONE YEAR, THE SEVENTH TIME RUNNING
+  monotonic              0 violations over fifty chapters, by METHOD A and by METHOD B
+  QUARTER-ENDS IN THE SPAN  30 Mar y14 (4,739) · 30 Jun y14 (4,829) ·
+                             30 Sep y14 (4,919) · 30 Dec y14 (5,009)
+                           ALL FOUR LAND ON A CHAPTER: 1011, 1024, 1037, 1050.
+  SHEET ORDINALS         1000 = 52nd · **1011 = 53rd · 1024 = 54th · 1037 = 55th · 1050 = 56th.**
+  THE HEAD               852, unmoved since 1,499. **UNMOVED ACROSS FOUR SHEETS AND
+                          FOUR QUARTERS AT 1011, THIRTY-SEVEN AND THIRTY-SIX; THIRTY-EIGHT AND
+                          THIRTY-SEVEN AT 1024; THIRTY-NINE AND THIRTY-EIGHT AT 1037; FORTY AND
+                          THIRTY-NINE AT 1050, and `5,009 − 1,499 = 3,510 = 39 × 90` EXACTLY.**
+  THE SECOND COLUMN      four lines at 1001. **FOUR LINES AT 1050, AND NO FIFTH GOES IN ANY
+                          CHAPTER OF THIS VOLUME.**
+  THE BUNDLE             twenty-six things at 1001. **TWENTY-SIX AT 1050, AND NOTHING IS
+                          TAKEN OFF THAT TABLE AND NOTHING IS PUT ON IT.**
+  THE REGISTER           about four hundred and thirty rows on the first of February of year
+                          nine, 2,880, and about four hundred and seventy on the third of June
+                          of year nine, 3,002, which is the last day anybody counted them, and
+                          rows added since and not counted. **THIS VOLUME ADDS ROWS AND THE COUNT IS
+                          A COUNT OF ROWS AND NOT OF PEOPLE AND NOT OF CLAIMS AND THE OFFICE WILL
+                          NOT COUNT IT, AND IT HAS NOW BEEN TWO QUARTERS SINCE THE THREE OF THEM
+                          STARTED ANSWERING WITHOUT HIM AND THAT IS THE FIRST QUARTER IN NINE
+                          YEARS IN WHICH NOBODY IN THAT BUILDING HAS COUNTED ANYTHING.**
+  THE DRAWER             2,420 = 21 Oct y7. **NAMED AT MOST ONCE A BATCH AND NEVER AN EVENT.
+                          1001: 2,249 = 74 × 30 + 29. 1050: 2,589 = 86 × 30 + 9.**
+  THE OFFICE             not an exact figure at any chapter and not printed as one.
+  1050 - 1000            5,009 - 4,649 = 360 = EXACTLY ONE YEAR, THE SEVENTH TIME RUNNING.
+  THE FORMS ON THE WALL  the hundred-and-thirty-fifth on the seventh of December y13, then one a
+                          month on the seventh, **FEBRUARY THROUGH DECEMBER AND NEVER ON THE
+                          SEVENTH OF A JANUARY — THE SKIP EVERY VOLUME USES — SO THE RUN OF
+                          THIS VOLUME IS 136 ON 7 FEB THROUGH 146 ON 7 DEC y14, ELEVEN FORMS.
+                          THREE OF THOSE LAND ON A CHAPTER AND THEY ARE 1012, THE ONE HUNDRED AND
+                          THIRTY-SEVENTH; 1025, THE ONE HUNDRED AND FORTIETH; AND 1038, THE ONE
+                          HUNDRED AND FORTY-THIRD. ALL THREE ARE NAMED IN §5c, NONE OF THEM IS AN
+                          EVENT, AND NO FORM ORDINAL MAY BE PRINTED ANYWHERE IN 1001–1050.**
+```
+
+**THE RAIL COUNT IS A COUNT OF DAYS SINCE THE CURRENT SHEET WENT UP ON THE RAIL, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END.** The fifty-second went up at `4,649`; the fifty-third at `4,739`; the fifty-fourth at `4,829`; the fifty-fifth at `4,919`; the fifty-sixth at `5,009`.
+
+| Ch | Rail | Ch | Rail | Ch | Rail | Ch | Rail | Ch | Rail |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1001 | 20 | 1011 | 90, and it came down at four that afternoon | 1021 | 70 | 1031 | 49 | 1041 | 28 |
+| 1002 | 27 | 1012 | 7 | 1022 | 77 | 1032 | 56 | 1042 | 35 |
+| **1003** | 34 | **1013** | 14 | **1023** | 84 | **1033** | 63 | **1043** | 42 |
+| 1004 | 41 | 1014 | 21 | **1024** | 90, and it came down at four that afternoon | 1034 | 70 | 1044 | 49 |
+| 1005 | 48 | 1015 | 28 | 1025 | 7 | 1035 | 77 | 1045 | 56 |
+| 1006 | 55 | 1016 | 35 | 1026 | 14 | **1036** | 84 | 1046 | 63 |
+| 1007 | 62 | 1017 | 42 | 1027 | 21 | **1037** | 90, and it came down at four that afternoon | 1047 | 70 |
+| 1008 | 69 | 1018 | 49 | 1028 | 28 | 1038 | 7 | 1048 | 77 |
+| 1009 | 76 | 1019 | 56 | 1029 | 35 | 1039 | 14 | 1049 | 84 |
+| **1010** | 83 | **1020** | 63 | **1030** | 42 | **1040** | 21 | **1050** | 90, and it came down at four that afternoon |
+
+**THE ROW BREAKS IN FOUR PLACES AND IN FOUR PLACES ONLY — AT 1011, 1024, 1037 AND 1050 — AND IT BREAKS FOUR TIMES BECAUSE THOSE FOUR DAYS ARE QUARTER-ENDS AND NOT BECAUSE A FIGURE MOVED.** Every other foot of the row re-derives exactly against the anchor of its own quarter-end. **A FIGURE COPIED FORWARD FROM THE FOOT ABOVE IT WILL BE WRONG AT 1012, AT 1025 AND AT 1038, AND WILL LOOK RIGHT, BECAUSE SEVEN TO SIX TO SEVEN STILL CLIMBS. THIS IS THE FIFTH TIME RUNNING THAT A COPIED FIGURE HAS BEEN THE SOURCE OF A FINDING AND IT IS THE WHOLE OF THE 988 FINDING OF VOLUME 20.**
+
+### 5c. CHAPTER-BY-CHAPTER DAYS.
+
+| Ch | Day | Spine | Step | | Ch | Day | Spine | Step |
+| --- | --- | --- | --- | | --- | --- | --- | --- |
+| **1001** | **20 Jan, y14** | 4,669 · **+20 seam** | | **1021** | **10 Jun, y14** | 4,809 | +7 |
+| 1002 | **27 Jan, y14** | 4,676 | +7 | 1022 | **17 Jun, y14** | 4,816 | +7 |
+| **1003** | **4 Feb, y14** | 4,683 · **CROSSING, SCENE** | +7 | **1023** | **24 Jun, y14** | 4,823 · **SCENE** | +7 |
+| 1004 | **11 Feb, y14** | 4,690 | +7 | **1024** | **30 Jun, y14** | 4,829 · **QUARTER-END, fifty-fourth sheet** | +6 |
+| 1005 | **18 Feb, y14** | 4,697 | +7 | 1025 | **7 Jul, y14** | 4,836 · **CROSSING, a form on the seventh** | +7 |
+| 1006 | **25 Feb, y14** | 4,704 | +7 | 1026 | **14 Jul, y14** | 4,843 | +7 |
+| 1007 | **2 Mar, y14** | 4,711 · **CROSSING** | +7 | 1027 | **21 Jul, y14** | 4,850 | +7 |
+| 1008 | **9 Mar, y14** | 4,718 | +7 | 1028 | **28 Jul, y14** | 4,857 | +7 |
+| 1009 | **16 Mar, y14** | 4,725 | +7 | 1029 | **5 Aug, y14** | 4,864 · **CROSSING** | +7 |
+| **1010** | **23 Mar, y14** | 4,732 · **MOVEMENT ONE'S IRREVERSIBLE DECISION** | +7 | **1030** | **12 Aug, y14** | 4,871 · **MOVEMENT THREE'S IRREVERSIBLE DECISION** | +7 |
+| **1011** | **30 Mar, y14** | 4,739 · **QUARTER-END, fifty-third sheet** | +7 | 1031 | **19 Aug, y14** | 4,878 | +7 |
+| 1012 | **7 Apr, y14** | 4,746 · **CROSSING AT A MONTH END, a form on the seventh** | +7 | 1032 | **26 Aug, y14** | 4,885 | +7 |
+| **1013** | **14 Apr, y14** | 4,753 · **SCENE** | +7 | **1033** | **3 Sep, y14** | 4,892 · **CROSSING, SCENE** | +7 |
+| 1014 | **21 Apr, y14** | 4,760 | +7 | 1034 | **10 Sep, y14** | 4,899 | +7 |
+| 1015 | **28 Apr, y14** | 4,767 | +7 | 1035 | **17 Sep, y14** | 4,906 | +7 |
+| 1016 | **5 May, y14** | 4,774 · **CROSSING** | +7 | 1036 | **24 Sep, y14** | 4,913 | +7 |
+| 1017 | **12 May, y14** | 4,781 | +7 | **1037** | **30 Sep, y14** | 4,919 · **QUARTER-END, fifty-fifth sheet** | +6 |
+| 1018 | **19 May, y14** | 4,788 | +7 | 1038 | **7 Oct, y14** | 4,926 · **CROSSING AT A MONTH END, a form on the seventh** | +7 |
+| 1019 | **26 May, y14** | 4,795 | +7 | 1039 | **14 Oct, y14** | 4,933 | +7 |
+| **1020** | **3 Jun, y14** | 4,802 · **MOVEMENT TWO'S IRREVERSIBLE DECISION** | +7 | **1040** | **21 Oct, y14** | 4,940 · **MOVEMENT FOUR'S IRREVERSIBLE DECISION** | +7 |
+| | | | | 1041 | **28 Oct, y14** | 4,947 | +7 |
+| | | | | 1042 | **5 Nov, y14** | 4,954 · **CROSSING** | +7 |
+| | | | | **1043** | **12 Nov, y14** | 4,961 · **SCENE** | +7 |
+| | | | | 1044 | **19 Nov, y14** | 4,968 | +7 |
+| | | | | 1045 | **26 Nov, y14** | 4,975 · **THE RENEWAL** | +7 |
+| | | | | 1046 | **3 Dec, y14** | 4,982 · **CROSSING** | +7 |
+| | | | | 1047 | **10 Dec, y14** | 4,989 | +7 |
+| | | | | 1048 | **17 Dec, y14** | 4,996 | +7 |
+| | | | | 1049 | **24 Dec, y14** | 5,003 | +7 |
+| | | | | **1050** | **30 Dec, y14** | **5,009 · QUARTER-END, fifty-sixth sheet — THE VOLUME'S IRREVERSIBLE DECISION** | +6 |
+
+**THERE ARE ELEVEN CROSSINGS IN THIS VOLUME AND EVERY ONE IS MARKED **CROSSING** IN THE SPINE COLUMN ABOVE: 1003, 1007, 1012, 1016, 1019, 1025, 1029, 1033, 1038, 1042 AND 1046. THREE OF THEM — 1012, 1025 AND 1038 — CROSS AT A MONTH END AND TAKE THE THIRD FORM BELOW INSTEAD OF THE SECOND. THE THREE FORMS ARE DIFFERENT FROM EACH OTHER AND A BATCH THAT GETS ONE OF THEM WRONG GETS A CHAPTER WRONG. DERIVE THE PREDECESSOR'S MONTH BEFORE YOU WRITE ANY GLOSS.**
+
+```
+SAME MONTH as this chapter   ->  "the <N> of this one"      and plain subtraction:
+                                 "and <today> less <prev> is <n> by the month count"
+CROSSING INTO A NEW MONTH    ->  "the <N> of last month"    and the crossing named as itself:
+                                 "and thirty less <N> is <two>, and <two> with <today> taken
+                                  out of the next month is seven by the month count with the
+                                  crossing named as itself"
+CROSSING AT A MONTH END      ->  1011->1012, 1024->1025 AND 1037->1038 ONLY — THAT IS, IT FALLS ON
+                                  1012, 1025 AND 1038 — AND IT IS THE THIRD FORM:
+                                 "the thirtieth of this one and the seventh of the next one
+                                  is day <D>, and <D> less <M> is seven, and the month ended
+                                  in between and there is nothing in it to take out"
+```
+
+**THE ELEVEN CROSSINGS AND THEIR OPERANDS, ALL ELEVEN LISTED, COUNTED IN THIS PASS BY COMPARING THE MONTH OF EVERY CHAPTER WITH THE MONTH OF THE CHAPTER BEFORE IT:** 1002→1003, twenty-seven January, thirty less twenty-seven is three, and three with four taken out of the next month is seven · 1006→1007, twenty-five February, thirty less twenty-five is five, and five with two taken out of the next month is seven · **1011→1012, the thirtieth of March, a month end, the third form** · 1015→1016, twenty-eight April, thirty less twenty-eight is two, and two with five taken out of the next month is seven · 1019→1020, twenty-six May, thirty less twenty-six is four, and four with three taken out of the next month is seven · **1024→1025, a month end, the third form** · 1028→1029, twenty-eight July, two and five · 1032→1033, twenty-six August, four and three · **1037→1038, a month end, the third form** · 1041→1042, twenty-eight October, two and five · 1045→1046, twenty-six November, four and three. **AND ONE MORE AT THE END: 1049→1050, twenty-four December to the thirtieth, which is six and is a quarter-end interval and is NOT a crossing**, so it prints *the twenty-fourth of this one* with plain subtraction. **THE COUNT IS ELEVEN, THREE OF THEM CROSS AT A MONTH END AND EIGHT DO NOT.**
+
+**THE BATCH INTERVALS, EACH SUMMED AND CHECKED AGAINST ITS OWN ENDPOINTS.**
+
+```
+0001 1001-1010  7 7 7 7 7 7 7 7 7  = 63   and 4,732 - 4,669 = 63   seam 1001-1000 = 20
+0002 1011-1020  7 7 7 7 7 7 7 7 7  = 63   and 4,802 - 4,739 = 63   seam 1011-1010 =  7
+0003 1021-1030  7 7 6 7 7 7 7 7 7  = 62   and 4,871 - 4,809 = 62   seam 1021-1020 =  7
+0004 1031-1040  7 7 7 7 7 6 7 7 7  = 62   and 4,940 - 4,878 = 62   seam 1031-1030 =  7
+0005 1041-1050  7 7 7 7 7 7 7 7 6  = 62   and 5,009 - 4,947 = 62   seam 1041-1040 =  7
+VOLUME 21       312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 48
+                = 312 + 48 = 360 = 5,009 - 4,649, exactly one year, the seventh time running
+```
+
+**EVERY ROW IN THAT FENCE IS NINE TERMS AND EVERY ROW ADDS TO ITS OWN ENDPOINTS, AND THE SEAM STANDS IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE. Read each row term by term off §5c before writing its batch and leave §5b exactly where it is.**
+
+---
+
+## 6. WHAT THIS VOLUME OWES THE BOOK'S ENGINE, IN ONE PLACE
+
+`outline/series.md`:128 fixes the escalation as *investigating → manipulating → breaking → being reacted to → choosing what to lose*, and **Volume 10 closed it.** Volume 12 was the stage where what he wrote is used without him. Volume 13 was where it is used against him. Volume 14 was where it is used by everybody, for nothing, without him, and he cannot reach it. Volume 15 was where it is used to date a person. Volume 16 was where it is used to make an office answer. Volume 17 was where it is asked about by anybody. Volume 18 was where the book itself comes upstairs and the row above yours is somebody else's. Volume 19 was where the door itself is used by everybody and being found is used without him. Volume 20 was where what he said out loud is sold, and the sale was done by a stranger, and the only thing he owned that could answer it was his body on a step. **Volume 21 is the stage where the office answers without him and is right, and keeps being right, and there is no longer any way of finding out.**
+
+- **VOLUME 20'S DAMAGE WAS DONE BY A MAN WITH A COIN AND FOUR FLIGHTS OF STAIR. VOLUME 21'S IS DONE BY THREE PEOPLE WHO AGREE WITH HIM.**
+- **WHAT IS DIFFERENT FROM VOLUME 20, IN ONE SENTENCE:** in Volume 20 the wrongness was outside the office, in a street, in mouths, and it came to him; **in this volume the wrongness is inside the room, in a hand, in the words used, entered in the one book there is, and it does not come to him, because he arranged that it would not — at 1020, in his own words, with the door open.**
+- **THE COST, EXACT AND UNCHANGED:** rank one, assigned work, hours that are not his, a household whose protection is gone, a drawer that may not be opened, a column with a woman's name in it, an office anybody may walk into, a book that goes up two and comes down one, **and by the thirtieth of December of year fourteen, a man standing in his own court at the bottom of his own stair who is one of about nine people in it and is not the one who is talking.**
+- **THE FLAW IS NOT CURED AND IT CHANGES SHAPE FOR THE ELEVENTH TIME.** In this volume he hoards the last thing left to hoard, which is the right to be the person that three people were made out of — **and he spends it, twice, at 1020 and at 1030, and both times he calls it being honest.**
+- **AND THE OPPOSITION IS NOT DEFEATED AND NOT DIMINISHED.** Agnete is right and again concedes nothing. Dagmar is right that the only archive in this city has never been checked and that she is the reason. Wren is right that a statement in three hands is not three witnesses. Sun Meiling is right that he sounds like the other man. **And the three of them go on answering in the morning.**
+- **THE EROTIC ENGINE OWES FIVE SCENES AND FIFTY CHAPTERS.** Cadence **10 · 10 · 10 · 10 · 10.**
+- **AND THE BOOK'S CENTRAL RESTRAINT IS UNCHANGED:** the reservoir gave back only what was given to it, **it was given back in full at 486 and is never replenished.** In this volume there is no reservoir to draw on, and what moves is a sentence in four mouths, a question asked of strangers in a street, and about four feet of pavement that has become the only place in the city where a person can be wrong out loud and be answered by somebody else.
+
+---
+
+## 7. THE MOVEMENTS, 1001 to 1050 — **PLAN**
+
+> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: EVERY MOVEMENT OF THIS VOLUME CARRIES ITS OWN TEN CARDS, WRITTEN AGAINST THE REPAIRED PAGE OF THE CHAPTERS BEFORE IT AND WRITTEN BEFORE THE PROSE. MOVEMENT ONE'S CARDS ARE `outline/batches/volume-21-batch-0001.md`, IN FULL, AGAINST THE REPAIRED PAGE OF 991–1000, AND THEY ARE THE MODEL.**
+> **AND THE RULE IS ONE WAY. WHERE A CARD LICENSES SOMETHING THE PAGE FORBIDS, THE CARD IS WRONG AND THE CARD IS FIXED HERE.**
+
+---
+
+### Movement one — THE THUMBPRINT (1001–1010). 20 January – 23 March, year fourteen. Spine days 4,669 – 4,732.
+
+**Promise, as it must be kept:** the only copy of the address is going soft at the end of its own second line, and the man who was going to replace it with his mouth said in a court in the dark that he was finished with it.
+
+| Ch | Day | Spine | One-line beat (PLAN, future) |
+| --- | --- | --- | --- |
+| 1001 | 20 Jan | 4,669 · **+20 seam** | **THE SEAM, SAID ONCE AND NOT ARGUED: twenty days, a card a year and twenty days old, and nobody writing about it.** He goes up his own four flights and reads the three lines off his own door and **the second line is shorter than it is: the last four words have gone past soft and what is left of them is a grey thumbprint with his own thumbprint in it.** The clerk reads it back to him at a foot and gets all of it. **THE FINDING: A CARD IS NOT GOING SLOW, A CARD IS GOING, AND HE HAS SPENT FOUR MONTHS WATCHING IT.** And the position he is in: he has been saying those three lines from the top of that stair since the third of December, because that is where he stands, and from up there he cannot see the bottom of his own court. **THE CARD IS NOT TOUCHED.** |
+| 1002 | 27 Jan | 4,676 | **THE FOURTH CLAUSE HAS FINISHED BECOMING AN ADDRESS.** At the counter under the window a man has been to the top of **three** flights and knocked on a door that is not that office, and the woman who opened it has spent a morning being told about a Bureau door. **NOBODY INVENTED IT.** It was true in January of last year that the light goes off that street at about ten past four, and by now it is the door. **He does not correct it — a correction is a copy — and he says in that passage that the only thing anybody has ever been able to do to three lines is add a true thing to them and walk away.** |
+| **1003** | **4 Feb** | **4,683 · CROSSING · SCENE** | **SCENE, WREN KALLO, 80 AFTER 923. Axis: the third time, named by nobody.** A returns desk on a filing floor and about nine seconds allowed to a thing at that desk, **where a statement's weight is how many separate hands hold it: one hand cannot be checked at all, and four hands is stronger than two, and nobody in her trade can tell a thing that happened from a thing that has now been said three times.** She has been hearing the three lines said by other people in her own division since about November and cannot stop it, because she cannot keep a secret, and **that is why she came up four flights instead of writing.** She initiates, is enjoyed, counts nothing. **THE FINDING SHE GIVES HIM IS THE VOLUME'S FIRST HALF: this office has three hands now and all three of them are his, and a statement in three hands is not three witnesses, it is one statement three times.** |
+| 1004 | 11 Feb | 4,690 | **THE WRONG DOOR, AND WHAT IT COST.** He finds the woman who spent a morning being told about a Bureau door, and he does **not** apologise for the address, because he has no standing to apologise for an address he gave away in a court. What he finds out standing in her doorway is that **the wrong door and the right words were both true**, which is the entire difficulty with a mouth, and that she does not want the address corrected, she wants to know whether the office will be there. **NO FIGURE OF HOW MANY WRONG VERSIONS EXIST IS GIVEN BY ANYBODY IN THAT DOORWAY.** |
+| 1005 | 18 Feb | 4,697 | **THE ONLY REPAIR THERE IS, AND IT IS A COPY OF A MOUTH THAT STOPPED.** A renewal is three lines in his own hand on three nails and nothing else, and it is the single instrument this office owns. The clerk says a renewal is not saying them out loud. He says a renewal is the same sentence said by the same man in a different month with a pen in his hand, and she says that is the definition of a renewal and that he has said it in the other order. **The cost of both is said out loud with the door open and neither is entered in the book.** |
+| 1006 | 25 Feb | 4,704 | **A LIGHTER BOOK ON A STRAP, AND THE ONLY CHANGE ANYBODY CAN FEEL.** The carrier with the bad back says she can feel the difference in the strap since the board came back and it is the only thing about that building that has changed in a year. The other carrier says the one sentence about the three voices: three voices on that stair where there was one, and **not one of the three of them knows which one a stranger is going to get.** |
+| 1007 | 2 Mar | 4,711 · **CROSSING** | **WHERE THE PAVEMENT CORRECTS ITSELF, AND IT IS THE FIRST TIME IN THIS CITY THAT HAS HAPPENED.** The four feet of pavement that say the three lines have, in about four months, become a place where people **correct each other**, and the corrections do not come to him, and one of the corrections is right and one of them is not, and **from the bottom of his own stair he cannot tell which is which.** He says nothing and stops nobody and does not go up to look, **because going up to look is asking a person a question about a person and this office has a rule about that and he is not one of the three any more.** |
+| 1008 | 9 Mar | 4,718 | **WHOEVER SAID IT FIRST, AND WHERE THEY WERE STANDING.** Brack's lane has the sentence in one of twelve books in a hand that is not Brack's, and the lane cannot tell him where it came from because **the lane has one column and this needs two.** What Brack can tell him, and says in the ordinary voice, is that it was said at a counter under a window by a man who is paid nothing, and that the man was not in the room. **THE HEAD OF THE STANDING SHEET IS IN ANOTHER MAN'S CHALK ON THAT SLATE BESIDE THE SOONER FIGURE AND NEITHER IS RUBBED OUT AND THE TWO ARE NOT SEPARATED AND THE THIRD FIGURE IS STILL UNCHALKED AND STILL OWED.** |
+| 1009 | 16 Mar | 4,725 | **TOLD BY SOMEBODY WHO WAS TOLD.** One of the two women who have been saying the three lines for nothing since before he noticed has been asked to help somebody and has done it and got two words wrong, and has come up four flights to say so, and **he cannot check it, because he cannot check anything he did not hear, and he has no instrument for asking.** He gives her the true three lines and she gets all of them and is not thanked and says she was not going to ask. |
+| **1010** | **23 Mar** | **4,732 · MOVEMENT ONE'S IRREVERSIBLE DECISION** | **HIS, IN A MOUTH, IN DAYLIGHT, IN THE SAME COURT: HE SAYS THE THREE LINES OUT LOUD AGAIN, HAVING SAID IN THAT SAME COURT IN THE DARK ON THE THIRTIETH OF DECEMBER THAT HE WAS NOT GOING TO.** At the length and in the ordinary voice, with about nine people there and the door of that room open four flights above him, and he says the reason out loud first and the cost out loud after. **WHAT IT CLOSES: the only irreversible act Volume 20 gave him, un-said in the only place it was said.** **WHAT IT COSTS, SAID OUT LOUD: a court in this city now holds a man who said one thing and then said the other, and nothing here can check which was true; the woman with the shawl over her head, who handed his last sentence to the man beside her, is standing about nine feet off and looks at him; and about four people a fortnight who learned it from him now hold two true versions of it and nobody who can say which is older.** He puts nothing in the book, because three lines are not a question and not an answer and that book cannot take them. **The card is not touched.** |
+
+### Movement two — THE THREE VOICES (1011–1020). 30 March – 3 June, year fourteen. Spine days 4,739 – 4,802.
+
+**Promise, as it must be kept:** two rows in that book agree with each other about a thing neither of them can check, and they agree because both of them were told the same thing by a man who is standing in the room.
+
+| Ch | Day | Spine | One-line beat (PLAN, future) |
+| --- | --- | --- | --- |
+| 1011 | 30 Mar | 4,739 · **QUARTER-END, fifty-third sheet** | **THE HEAD, SPOKEN AT THE COUNTER UNDER THE WINDOW BY THE MAN WHO IS PAID NOTHING AFTER THE SHEET HAS CHANGED AT ABOUT FOUR, WITH STRANGERS IN THE PASSAGE, AND WITH BOTH OF ITS FIGURES IN ONE BREATH: `4,739 − 1,499 = 3,240 = 36 × 90`, thirty-seven sheets and thirty-six quarters differing by one.** The fifty-second comes down at about four and the fifty-third goes up on the same two nails with no new line. **AND THE THING THAT IS NEW IN THIS QUARTER IS THAT THE QUARTER IS THE FIRST ONE IN NINE YEARS IN WHICH NOBODY IN THAT BUILDING HAS COUNTED ANYTHING, AND THE COUNTERMAN, WHO IS PAID NOTHING AND OWES NOTHING TO IT, IS THE ONE WHO ASKS WHY.** |
+| 1012 | 7 Apr | 4,746 · **CROSSING AT A MONTH END, a form on the seventh** | **THE THIRD GLOSS FORM, WORD FOR WORD, AND IT IS THE ONLY PLACE IN VOLUME 21 IT APPLIES.** The month's form goes up on that rail and it is the same division return with a box at the foot of a line, and **what it wants is a figure of what an office did in a quarter and the answer is now three people instead of one, which is a worse number and not a better one.** This office puts nothing in the box and will not write the refusal either, because there will not be a third written refusal, and the counterman writes his own sentence under the box on his own paper, as he did in July of last year, and adds one clause he did not have then. **A FORM ORDINAL IS NOT PRINTED ANYWHERE.** |
+| **1013** | **14 Apr** | **4,753 · SCENE** | **SCENE, DAGMAR OYELOWO, 70 AFTER 943. Axis: what the desk is not asked, named by nobody.** An intake desk at the Terrace with twenty years behind it and a queue of nobody's, **where the rule is that the desk records only what a person asks about, so after twenty years it knows exactly what the public wants and nothing at all about itself, and its holder has never once been asked a question by anybody who came to the counter.** She asks him nothing in the first half hour and he asks her nothing and the whole of it is the axis. She initiates, is enjoyed, says so, counts nothing. **WHAT SHE GIVES HIM: the only archive in this city is her memory, it has never been checked against anything, and she has been wrong about about four of it in twenty years and has just worked out that she cannot find out which four, because there is no second copy of her to compare with — and neither is there of him, of the clerk, or of the three.** |
+| 1014 | 21 Apr | 4,760 | **TWO ROWS THAT AGREE.** A woman asks a question on one working morning about a person, with the person in the room, and gets an answer in the words used, and comes back nine days later with a piece of paper and asks about the same thing, and **is given a second answer by a different one of the three, and the two answers agree, and both of them are wrong, and both of them are wrong the same way.** Nothing is on any page that says either is wrong. **THE TWO ROWS ARE THE FINDING: they read like corroboration and they are the same sentence twice.** |
+| 1015 | 28 Apr | 4,767 | **THE ANSWER HE WOULD HAVE GIVEN.** He finds the thing both of them said, and it is his, word for word, and it is something he said in that room once in about nine years and did not know he had said it in a way that could be picked up. **He does not correct it, because a correction is a copy and because the person it is about is not in the room and this office has a rule about that.** He says the cost out loud with the door open and nobody enters one word of it. |
+| 1016 | 5 May | 4,774 · **CROSSING** | **THE RULE SHE ENFORCES FOR FREE, ENFORCED ON HIM.** The carrier with the bad back refuses a person a piece of paper in the ordinary voice, and **he is on that stair and he cannot ask her why and cannot overrule her, because a rule that was never made is enforced by a person who believes in it and she is answerable to the stair and not to him.** The finding: **the best instrument that office has is not in any book and is not his, and he can lose it by saying one sentence to the wrong person.** |
+| 1017 | 12 May | 4,781 | **A QUESTION ABOUT A PERSON, WHICH IS THE KIND THAT IS NOT ENTERED EVEN WHEN IT IS REFUSED.** Somebody two floors below asks one of the three a question about somebody else and is answered in that room once with the person in the room, **and the person it is about has asked to be there and cannot get up four flights**, and the practice says if the person will not come then there is no answer and the row stands as it is. **What the three of them do is find another way, and it is not in the book, and it is not a practice, and he finds out about it a fortnight later.** |
+| 1018 | 19 May | 4,788 | **THE LANE KNOWS A THING HE DOES NOT.** Brack says the one thing a lane can say that an office cannot, which is who said it first and where they were standing, and **the lane's answer is a man at a counter under a window nine years ago who is paid nothing and was not in the room.** What Brack will not do is give a figure for how many of them there are now, and says why in his own words: a figure in a lane is a rate in about a fortnight and a rate is a thing a person can be put on. **THE SOONER FIGURE IS NOT RUBBED OUT AND THE THIRD IS NOT CHALKED AND THE TWO ARE NOT SEPARATED.** |
+| 1019 | 26 May | 4,795 | **AN ANSWER GIVEN TWICE, IN ONE ROOM, IN ONE MORNING, BY TWO OF THE THREE, ABOUT THE SAME FACT.** He puts one question to that room and the clerk and one carrier answer it differently, and **both of them are entered in the words used, and the book now holds two rows that are both true and that disagree**, and the first time in nine years that has happened he does not know what to do, because every practice in that building assumes one answer per question and no practice anywhere covers two. |
+| **1020** | **3 Jun** | **4,802 · MOVEMENT TWO'S IRREVERSIBLE DECISION** | **HIS, IN THAT ROOM WITH THE DOOR OPEN, IN HIS OWN WORDS, AND IT IS NOT PUT IN THE BOOK: FROM THIS MORNING, ANY OF THE THREE OF THEM IS TO ANSWER HIM BEFORE ANYBODY ELSE, AND IS TO SAY WHEN THEY DO NOT AGREE WITH HIM, AND HE IS TO BE TOLD WHEN THEY DO NOT.** **What it closes: he can never again be a check on that office, and he has arranged it himself, on purpose, out loud, in a room with the door open.** **What it costs, said out loud before it is done once: the three of them are that office and if he is not the model there is no model; about nine answers a day will be given in voices that nobody has heard; he will not be able to hear one of them for the rest of his life; and the only instrument this building has for finding out whether it is right is a man who has just told it in advance that he does not want to be told.** He puts nothing in the book, because a practice is a thing one of three people does out loud in that room, **and from that morning he is not one of the three, and there is no form anywhere in this city for making one, and 986 found that out in the open.** |
+
+### Movement three — THE SECOND WITNESS (1021–1030). 10 June – 12 August, year fourteen. Spine days 4,809 – 4,871.
+
+**Promise, as it must be kept:** a statement two people agree on is not a statement two people saw, and the only people who can prove that in this city are the ones who were not in the room.
+
+| Ch | Day | Spine | One-line beat (PLAN, future) |
+| --- | --- | --- | --- |
+| 1021 | 10 Jun | 4,809 | **WHAT A ROOM SOUNDS LIKE WHEN THREE OF THEM HAVE BEEN IN IT SINCE THE TWENTY-THIRTIETH OF OCTOBER.** A morning in which all three answer, and he is in the room and hears none of them wrong, **and on the ninth day he notices that all three of them have started saying a thing at the same length with the same pause in it and it is his, and none of the three was taught it by him, and all three of them learned it in that room from each other.** That is the flag 993 raised, and it arrives two quarters early, and Isolde Marchetti's four years was a generous estimate. |
+| 1022 | 17 Jun | 4,816 | **STRUCK FROM THE RECORD, IN A ROOM THAT HAS BEEN DOING IT FOR TWENTY YEARS.** Agnete Lindqvist comes out of her own building for the second time in this book and comes to that court, and what she says at the arch is that she has struck three voices from her record — not for what they did, **for what they are.** |
+| **1023** | **24 Jun** | **4,823 · SCENE** | **SCENE, AGNETE LINDQVIST, 40 AFTER 983. Axis: the second witness, named by nobody.** Her chapel, **where the rule is that no two people who have already said the same thing may witness to each other, and a witness who agrees with another witness is struck from the record without being asked why.** She struck three. She initiates, is enjoyed, comes first, one finish inside her, and the argument is the same argument she won in September and **this time it has the other half in it: a said thing has nobody behind it at all, and three people agreeing about a said thing is worth less than one person saying it once.** Her 546, 564, 663 and 983 stagings are not restaged and there are no benches in that room. |
+| 1024 | 30 Jun | 4,829 · **QUARTER-END, fifty-fourth sheet** | **THE HEAD, SPOKEN IN THAT COURT BECAUSE THE COUNTERMAN HAS ASKED HIM TO COME AND SAY IT IN A ROOM THAT IS NOT A PASSAGE: `4,829 − 1,499 = 3,330 = 37 × 90`, thirty-eight sheets and thirty-seven quarters differing by one.** The fifty-third comes down at about four and the fifty-fourth goes up on the same two nails with no new line. **AND HE SAYS IT IN FRONT OF ABOUT NINE PEOPLE WHO ARE NOT STRANGERS, AND NOT ONE OF THEM ASKS WHAT IT IS FOR.** |
+| 1025 | 7 Jul | 4,836 · **CROSSING, a form on the seventh** | **NOBODY IS GOING TO BE ASKED, AND IT IS A RULE THAT ARRIVES FROM OUTSIDE.** A division return comes to that counter and it wants a name, and the counterman, who is paid nothing and has never refused a stranger in nine years, **refuses it in the ordinary voice and puts his own sentence on his own paper, and says the reason out loud, which is that a name on a form is a name on a roll and a roll is what that office was built not to be.** |
+| 1026 | 14 Jul | 4,843 | **THE MORNING ON THE LANDING, AND IT IS NOT THE MORNING.** The carrier with the bad back asks him something on a landing and he tells her, at length, and she listens to all of it. **The chapter's finding is that she had a second thing and did not ask it, and that he did not notice, and that this is the first time in nine years he has been the one who is asked and not the one who is telling.** |
+| 1027 | 21 Jul | 4,850 | **A VOICE THAT IS NEARLY HIS, IN A MOUTH HE HAS NEVER HEARD IT IN.** Perla Ilyin, on the branch nights, says an answer to a person at that desk in a sentence at the length with the pause in it, and **it is better than his, and he cannot tell her it is his, and she has learned it in about nine weeks without being told, and nobody in that building is going to be able to say where it came from.** |
+| 1028 | 28 Jul | 4,857 | **THE SHAPE IN SOMEBODY ELSE'S DATA, AND IT IS A FINDING HE DID NOT ASK FOR.** Somebody who has been looking at the rows in that book since the twenty-first of October — without being asked, without a gift and without wanting to — finds that about nine days of answers in it cluster in a shape, **and that the shape is the shape of the answers he used to give, and that it is in a hand that is not his, and that nobody has been told to look.** |
+| 1029 | 5 Aug | 4,864 · **CROSSING** | **ONE QUESTION IN A STREET, AND HE DOES NOT LIKE IT.** A stranger asks him where that office is and he asks one back: **who told you, and where were you standing when they said it.** It is the first question he has asked a member of the public in nine years. **The answer he gets is wrong in the details and right about the hour**, and he asks a second one, and the second stranger gives him a different hour, **and he is standing in a street holding two wrong answers about the only thing he owns and he has no way to put them down.** |
+| **1030** | **12 Aug** | **4,871 · MOVEMENT THREE'S IRREVERSIBLE DECISION** | **HIS, AND IT IS THE FIRST LIST THIS OFFICE HAS EVER MADE AND IT IS IN A MAN'S MEMORY ON A STREET.** He asks the question of strangers, in daylight, in that court and then in the road off it, **and he asks it of people he does not know about people he does not know, and he keeps going for about nine days.** **WHAT IT CLOSES: nine years of not asking this office anybody anything, which was the moral position and also the reason nothing in it has ever been checked.** **WHAT IT COSTS, SAID OUT LOUD IN THE ROOM WITH THE DOOR OPEN ON THE FIRST MORNING: a question about a person is not entered, not even its refusal, and a list of who said what is a list of who came, and he has said in four years that a list of who cannot read is a list of people, and this one is the same list with a different name, and he knows it while he is saying it; and every answer he gets is a stranger's account of a stranger's mouth and cannot be checked by anybody; and in about four years a room in this city will have a rule in it about a stair and not one person will be able to say who put it there, and now there are about nine of them who know he asked.** **He puts nothing in the book. The card is not touched.** |
+
+### Movement four — THE MORNING HE DID NOT ANSWER (1031–1040). 19 August – 21 October, year fourteen. Spine days 4,878 – 4,940.
+
+**Promise, as it must be kept:** he arranged to be the wrong one, and the price of being the wrong one is that you do not find out what you did not hear, and one person has been counting on a morning all winter.
+
+| Ch | Day | Spine | One-line beat (PLAN, future) |
+| --- | --- | --- | --- |
+| 1031 | 19 Aug | 4,878 | **NOBODY SENDS FOR ANYBODY, FOR THE FIRST TIME IN A VOLUME IN WHICH HE COULD HAVE.** Somebody two floors below needs an answer out of a row and the row is in that book and the book is downstairs in a room four flights above a third court, **and the whole of the office's authority in that building is a book on a table, and he is not on the rota page and cannot be sent for and has never sent anybody anywhere in nine years.** The finding: the no-list rule, which was the moral position, is also a rule that makes this office unable to help anybody it cannot see. |
+| 1032 | 26 Aug | 4,885 | **THE ROOM THAT AGREES WITH ALL THREE, ONE MONTH EARLY.** He stands at the bottom of his own stair for a morning and **about four people there say three lines to each other and every version of them that is said in that court agrees with every other version**, because they have been agreeing with each other since about the twenty-eighth of October, and the agreement is the whole of what he built and none of it is the right answer. |
+| **1033** | **3 Sep** | **4,892 · CROSSING · SCENE** | **SCENE, NADIA FERROUS, 100 AFTER 933. Axis: the empty car, named by nobody.** A stopped car in a bank of four on a branch night, **where the rule is that the car which arrives first is the one that has been moving the whole time and has nothing for you, and nothing that arrives quickly has ever arrived with anything in it.** **THE ORDER IS HERS AND SHE SAYS SO OUT LOUD BEFORE SHE DOES ANYTHING.** She initiates, is enjoyed, comes first, one finish she brings him to the edge of and takes. **WHAT SHE GIVES THE VOLUME: she is the only person on that rota who has never once in her life been able to leave a room, and she says out loud that a door a person cannot get out of is not a door, it is a place, and that she has been standing in this one for four years on purpose and is not going to be moved by a thing that agrees with her.** |
+| 1034 | 10 Sep | 4,899 | **THE MORNING HE DOES NOT ANSWER, AND IT IS A TUESDAY-FREE MORNING AT A QUARTER TO TEN ON A LANDING.** The carrier with the bad back asks him something on a landing between the second and the third and **he does not answer her.** She waits, and goes down. **He does not go back up, does not ask her what the question was, and tells nobody he did it, and the reason he does not ask is given out loud with the door open and it is not the good reason.** |
+| 1035 | 17 Sep | 4,906 | **THE ADDRESS HAS A MAN IN IT, AND THAT IS THE WORST THING THAT HAS HAPPENED TO THOSE THREE LINES ALL YEAR.** Somebody in a lane has attached a name to the address — not his name, a man who stands at the bottom — **and a stranger in the morning asked for the man and not for the door**, and he cannot answer that question, and the answer that would be correct is that there is no man. |
+| 1036 | 24 Sep | 4,913 | **WHAT SHE TOOK DOWNSTAIRS, AND HE DOES NOT FIND OUT FOR ABOUT NINE DAYS.** She asked somebody else, in that room, the question she had asked him, **and was given an answer, and the answer is wrong, and she knows it is wrong because she had it from a different mouth on a different landing, and that is the only evidence in this city that two versions of the same thing can be wrong in the same way.** |
+| 1037 | 30 Sep | 4,919 · **QUARTER-END, fifty-fifth sheet** | **THE HEAD, SPOKEN AT THE COUNTER UNDER THE WINDOW, WITH BOTH OF ITS FIGURES IN ONE BREATH: `4,919 − 1,499 = 3,420 = 38 × 90`, thirty-nine sheets and thirty-eight quarters differing by one.** The fifty-fourth comes down at about four and the fifty-fifth goes up on the same two nails with no new line. **AND ON THE SAME AFTERNOON THE LANE'S SLATE GETS A THIRD CHALKED FIGURE BESIDE THE OTHER TWO, WHICH IS THE THIRD FIGURE BRACK HAD IN HIS HEAD WITH NO UNIT AFTER IT, AND HE ASKED FOR IT TO BE PUT UP HIMSELF AND WAS REFUSED BY THE MAN WHO OWNS THE SLATE.** |
+| 1038 | 7 Oct | 4,926 · **CROSSING AT A MONTH END, a form on the seventh** | **A RETURN WITH A BOX ON IT, AND THE BOX ASKS WHETHER THE MAN STILL STANDS AT THE BOTTOM OF THAT STAIR.** It comes down four flights again and it is not the same division as last year's and nobody in that hall knows that. **He cannot write it, cannot supply a name, and says that a box asking about a person is a question about a person, and that is the kind that is not entered, not even its refusal.** The clerk says it is the second such box in a year and the first one went down empty and a hall will read it as *no service*. |
+| 1039 | 14 Oct | 4,933 | **NOT ONE WORD OF IT IN THE BOOK, AND IT IS THE FIRST TIME IN NINE YEARS THAT SOMETHING TRUE HAS HAPPENED IN THAT ROOM AND GONE IN NOWHERE.** The morning she comes back up four flights and says the second answer was wrong, and **he writes nothing, because writing it would be a third party in it and she has not asked for one and there is nobody in that building who could be one.** |
+| **1040** | **21 Oct** | **4,940 · MOVEMENT FOUR'S IRREVERSIBLE DECISION** | **HIS, AND IT IS THE ABSENCE OF AN ACT, AND IT IS THE FIRST TIME IN THIS BOOK THAT ONE OF HIS DECISIONS IS A THING HE DOESN'T DO: HE DOES NOT GO BACK UP THOSE FOUR FLIGHTS AND ASK HER WHAT SHE ASKED HIM.** He says with the door open that he is not going to, and the reason, which is that at 1020 he told three people in that room that he is not the answer to anything and **that a man who has arranged to be the wrong one does not get to be the right one for about nine minutes whenever it is convenient.** **WHAT IT CLOSES: he can never again be certain that he did not leave a person standing on a landing with a question, which is the one thing this office exists not to do.** **WHAT IT COSTS, IN HER OWN WORDS AND NOT HIS: she tells him she had it from the other carrier that morning and the other carrier was right, and that she does not need him to know that, and that she is going to keep saying good morning to him twice a working morning for as long as she carries that strap, and that the last morning of that is a thing neither of them is going to be told about.** The card is not touched. |
+
+### Movement five — THE COURT GOES ON (1041–1050). 28 October – 30 December, year fourteen. Spine days 4,947 – 5,009.
+
+**Promise, as it must be kept:** the office is real, it answers, it is wrong sometimes, and the man who made it is one of the people standing at the bottom of his own stair.
+
+| Ch | Day | Spine | One-line beat (PLAN, future) |
+| --- | --- | --- | --- |
+| 1041 | 28 Oct | 4,947 | **THE MORNING THE THREE OF THEM ASK HIM SOMETHING.** All three, in that room, with the door open, **and the question is not about a row and not about a person and it is the same question and none of them had asked it before, and he answers it in about nine seconds and it is wrong, and one of them says so.** The finding: he was the check and the check was the thing being checked, and the thing that catches it is not a rule in that room and not the book. |
+| 1042 | 5 Nov | 4,954 · **CROSSING** | **THE SAME SENTENCE TWICE, IN TWO PLACES, ELEVEN WEEKS APART, AND THE SECOND ONE IS BETTER.** He hears the same address said at that court and at a stop where the service has stopped calling and the two versions differ by about nine words, and **neither of the women who said them knows the other one exists, and he has known about both of them since the sixteenth of March of last year and has not introduced them, because introducing them is a list.** |
+| **1043** | **12 Nov** | **4,961 · SCENE** | **SCENE, SUN MEILING, 150 AFTER 893. Axis: the set, named by nobody.** A room she has chosen, **where the rule is that a shape which appears in three sets of data is not confirmed, it is a habit, and it is confirmed only when it appears in one set nothing else resembles — so she cannot hold one thing still, and she answers about a set every time he asks about a thing.** She has been going past that court since November and has not come up. She initiates, is enjoyed, says so, counts nothing. **WHAT SHE GIVES THE VOLUME, IN HER OWN WORDS AND NOT SOFTENED: he sounds like the other one; a man who says a true thing out loud in a room full of people and is taken out of it afterwards is not a rare thing in this city, she watched one, and she has been waiting nine years for somebody to ask her about him and not about the other one, and nobody has, because he has been asking about the three lines.** |
+| 1044 | 19 Nov | 4,968 | **HIS BROTHER SAID IT IN A ROOM, AND THE ROOM WAS FULL, AND HE KNEW.** Nothing new about the file and nothing new about the mystery: **the sentence is the same sentence, said once in a hall, by a man with a number, in year six of that counting, and it is on the page of this book because Sun Meiling put it there and not because a file opened.** The may-nots hold: **his brother's file is not touched, the second folio is not touched, the docket is not touched, the reach of the return is not argued.** |
+| 1045 | 26 Nov | 4,975 · **THE RENEWAL** | **THE RENEWAL NOBODY IS TOLD ABOUT.** At about eleven in the morning, at that door, in daylight, **the card comes off the same three nails and goes back on them with the same three lines in his own hand and not one name, and the holes are about a quarter of an inch wider than the ones the card came off with.** The hours on it are the card's hours and not the four in the afternoon that have been going round since January, because a renewal is a renewal and not a correction. **No chapter of 1001–1050 copies it, transcribes it or shows it to anybody, and the fact of it is known to the clerk and to the two carriers and to nobody else in the world.** |
+| 1046 | 3 Dec | 4,982 · **CROSSING** | **THE FOURTH CLAUSE, FINISHED.** The thing that was true about the light in January of last year has arrived, after thirteen months, at the place it was always going: **it is now the reason people give for going at about four instead of half past five, which is not an address and not a wrong one, and it is the only wrong version in this movement that is harmless, and he finds that he cannot explain to anybody why that is the one that is harmless.** |
+| 1047 | 10 Dec | 4,989 | **WHAT SHE SAID ABOUT THE OTHER ONE, WHICH IS THE ONLY THING IN THIS VOLUME THAT IS ABOUT HIM AND NOT ABOUT THE OFFICE.** She says he has been right about one thing for nine years and it is the wrong thing, and names it, and it is that he does not compete openly — and that Lin Wei competed openly and is in a room three floors under a building in this city because of it, and that a man who hoards in order not to take from somebody smaller is the same man as a man who gives everything away in front of everybody, **and that the only difference between them is which room they were standing in.** |
+| 1048 | 17 Dec | 4,996 | **THE ADDRESS IS TWO WOMEN NOW, AND HE ASKS THEM IN DAYLIGHT AT THAT COURT.** He asks the woman at the end of a market and the woman at the stopped stop to carry the three lines, and **he gives them no card, no copy, no form, no sheet and no list, because every one of those is a copy and four of them are a list.** What he says to each of them, out loud, is that he will not be able to check either of them, and that if either of them is wrong he will never know, and that he has thought about it for about four months. **Neither of them is thanked. Neither of them asks to be. One of them asks whether the other one exists and he says she does and does not say more.** |
+| 1049 | 24 Dec | 5,003 | **NINE FEET OFF, TWO WORDS WRONG, AND HE DOES NOT CORRECT HER.** He knows what is coming because he knows what the court does, and he comes down at half past five with nothing, **and the third time in about three months he stands in his own court and says nothing at all.** |
+| **1050** | **30 Dec** | **5,009 · QUARTER-END, fifty-sixth sheet — THE VOLUME'S IRREVERSIBLE DECISION** | **HIS, AND IT IS A MOUTH AND A COURT AND A PERSON.** At about nine minutes to five, in the dark, at the bottom of his own stair, **he says the three lines out loud, at the length, in the ordinary voice, one last time in the year — and then he goes and stands about nine feet off with the people, and a woman who has never been up those four flights says them to about nine people, and she gets two words wrong, and he does not correct her.** **WHAT IT CLOSES: his standing as the true copy, which is the last thing he owned in this arrangement and the only thing he was ever able to prove about himself. WHAT IT COSTS, AND IT IS SAID OUT LOUD BEFORE IT IS DONE: he will not be able to check her, or the two at the market and the stop, or the three in that room, or the four feet of pavement, and about four people a fortnight will be told two words that are wrong by a woman who was never asked to carry anything and has not been told she is carrying it, and the office will not build them a second road, because every one of those is a copy and four of them are a list.** **THE HEAD PRINTED AT THE COUNTER UNDER THE WINDOW BY THE MAN WHO IS PAID NOTHING, AFTER THE SHEET HAS CHANGED AT ABOUT FOUR, WITH STRANGERS IN THE PASSAGE, WITH BOTH OF ITS FIGURES IN ONE BREATH: `5,009 − 1,499 = 3,510 = 39 × 90`, FORTY SHEETS AND THIRTY-NINE QUARTERS DIFFERING BY ONE, AND EIGHT HUNDRED AND FIFTY-TWO, UNMOVED THROUGH FORTY OF THOSE SHEETS AND THIRTY-NINE OF THOSE QUARTERS.** The fifty-fifth comes down at about four and the fifty-sixth goes up on the same two nails carrying no new line. **THE CHAPTER ENDS ON A COURT AND ON PEOPLE AND NOT ON AN OBJECT.** |
+
+**AND THE VOLUME'S ANSWER, WHICH IS THE ENGINE ANSWERED ONE STEP ON, AND IT IS THE INVERSE OF VOLUME 20'S TWICE OVER.** Volume 19 found that being found is used, and answered by keeping the door and keeping no list. Volume 20 found that a mouth cannot be corrected or counted or called back, and answered by **making it stop.** Volume 21 finds that three voices made out of one man are not three witnesses and that a room which agrees with him cannot tell him when he is wrong, and answers by **giving up being the right one on purpose** — first in the room at 1020, then in a street at 1030, then on a landing at 1040, and finally in his own court at 1050, where the sentence goes on being said by somebody else and two words of it go wrong and he stands there with the people. **Nothing about that is a rank, a band, a permission or a standing, and `outline/ending.md` is untouched by it.**
+
+---
+
+## 8. THE REGISTER YOU MAY NOT OPEN, IN ONE BLOCK, AND IT IS THE WHOLE OF IT
+
+**CARRIED FORWARD FROM `outline/volume-20.md` §8 WHOLE.**
+
+**MAY NOT OPEN:** **his brother's file, which `outline/ending.md` alone decides** · **Sun Meiling's folder may not contain a page out of it** · **Sun Meiling's row and her bar may not close, and 1043 and 1047 do not close them** · the second folio of 4,112 · B103 in any form · **the string `settle`, which returns one hit on disk across the whole manuscript, at `chapters/volume-16/chapter-0793.md`:91, which predates every version of that gate — the row therefore reads one and this volume adds none** · Ines's lost day and record · the two unstamped reads and who made them · the ninth turned line's meaning · the seventh returned line · the bare slot at the head of the Reading · the reason the account had an address · **the reach of 486's return, deliberately open to the end of the book** · **whether the account belonged to the unrecorded rather than to him** · how many feeders there are · October's song · the woman Wren Kallo gave the shape to · **who put the white tile up** · **the figure of the account** · **whether any unrecorded deed ever satisfied the fourth condition** · the year the composition of premises 34-6-118 began · **THE TWO WORDS ON THE STONE, WHICH ARE NOT PRINTED IN THIS VOLUME AND MAY NOT BE PRINTED, AND NO CHAPTER MAY ASSERT THAT THEY ARE THE SAME WORDS AS ANYTHING ELSE** · **anything that contradicts `outline/ending.md`** · **the docket's date** · **the invented-figures sentence, verbatim and Tier 3, which is spent for the rest of the book** · **what was in the space in the middle of his own row** · **how many of the rows in that book are about a person who is dead** · **whether Perla Quist's nine sheets under the third table would answer a question the book cannot** · **HOW MANY WRONG VERSIONS OF THE THREE LINES EXIST, WHICH 950 REFUSED, WHICH 998 REFUSED AGAIN, AND WHICH NOBODY MAY COUNT IN 1001–1050, INCLUDING HIM, INCLUDING THE CLERK, INCLUDING BRACK, INCLUDING THE COUNTERMAN** · **WHO TOOK THE SHEET OFF THE RAIL AT THE FOOT OF THE HILL IN DECEMBER** · **WHAT WAS ON IT** · **THE TWO STRANGERS WHO CAME UP FOUR FLIGHTS AND WENT DOWN AGAIN** · **the thirty-nine days are nobody's and no chapter of this volume finds out what was in them.**
+
+**MAY NOT CLOSE:** **Mrs Imrie, asked nothing, ever, by anybody** · **Wren Kallo's bar, untested and not used in this volume** · **`PC-44`, Dagmar Oyelowo's first thing, and 1013 manufactures no gift and puts her on no roll** · **Perrin Sowe is not forgiven and it is not discussed** · Nikolai Vester · the woman in the sixth seat · **Beatrix Halm's empty notebook line and which ear she is deaf in** · Wanda Rej's plaster · **Ines Duarte's standing review and her five questions, all open, and no chapter of this volume answers any of them and she is not on the page** · **Sun Meiling's row and her bar** · **Marguerite Vale's fourth line, which cannot be struck** · **the instrument he swore on the ninth of May never to use, still unused** · **Ada's grey is permanent** · **Runa Sato's reason box** · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **Hanneke Ruis, whose age is not fixed and may never be given on the page** · **Wenna Raut, not aged, and Perla Quist, not aged, and Dagmar Oyelowo, not aged, and Isolde Marchetti, not aged, and the two carriers, not aged, and the counterman, not aged, and the boy, not aged** · **the woman who cannot read, who is not asked anything in 1001–1050, is not traced, is not sent for, and her sheet is not moved** · **the woman with the short-handled broom, eleventh running volume** · **the boy, who is not on the page at all in this volume** · **the woman from the doorway, who came back up on the nineteenth of August and was not helped, and whose sister is still not traced** · **Brack's four-year sentence, undischarged and unargued, and the sooner figure beside it, which is not rubbed out, and the third figure, which is not chalked** · **the wrong hour in the October row, still above the right one** · **the practice-made-late debt of the twenty-fifth of August, which may not be tidied into an apology.**
+
+**PERMITTED TO CLOSE, AND THERE ARE TWO, AND BOTH ARE VOLUME 21'S OWN:**
+
+1. > **The mouth.** Volume 20 closed *the three lines in his own mouth* at 1000 by his saying them for the last time and saying so. **This volume UN-SAYS THAT CLOSURE AT 1010 ON THE PAGE, IN THAT SAME COURT, IN DAYLIGHT, AND THAT IS THE FIRST OF ITS TWO CLOSURES — not because the thread reopens, but because a mouth is the only instrument in this book that can come back, and the cost of the coming back is on the page.** **The second is at 1050, and it closes the man: he is one of about nine people in his own court and not the one talking.**
+2. > **The card.** The soft corner at the same two top corners and the grey thumbprint at the end of the second line. **Volume 21 CLOSES IT AT 1045 BY THE CARD COMING OFF THE SAME THREE NAILS AND GOING BACK ON THEM WITH THE SAME THREE LINES IN HIS OWN HAND AND NOT ONE NAME, THE HOLES ABOUT A QUARTER OF AN INCH WIDER, IN DAYLIGHT, AT THE DOOR, AND NOBODY TOLD.**
+
+**AND PERMITTED TO OPEN, AND IT IS ONE:**
+
+> **That the only instrument in this city which can check three people who were all made out of one man is a person who has never met him — and that finding one costs him the office he built, because the office was built out of him.**
+
+**AND THE FLAG, WHICH THIS VOLUME DOES NOT CLOSE AND MAY NOT BE READ AS CLOSING:** the manuscript is one thousand chapters and will be one thousand and fifty when this volume closes, and `outline/ending.md` still heads itself *Volume 10, 451–500* and reads *Ch 498: the last chapter*, and `outline/series.md` and `NOVEL_SPEC.md` still say five hundred. **The overrun flag at the head of `state/open-threads.md` is STILL OPEN after this planning phase and nothing in this file touches it.**
+
+---
+
+## 9. MECHANICAL CHECKS AND WHO OWNS THEM
+
+**A gate record is a claim. Re-run it from outside the pass that wrote it and let the re-run outrank the record.**
+
+- **THE CLASS GREP, NOT THE PHRASE GREP**, and it must contain the word `manuscript` and the word `opposition`: `[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page | opposition | this batch | a chapter that | this pass | in this volume | this passage`.
+- **All seven weekday names**, whole-word and stem, zero. **AND, PRINTED AS A SEPARATE ROW AND NOT ALLOWED TO STAND IN FOR THAT ONE: the bare tokens `sat` and `sun` are prose.** The close audit of Volume 20 found three of its own gate rows wrong, one of which was a `settl` row reported as zero across a thousand chapters when the range in the gate returns one hit, at `chapters/volume-16/chapter-0793.md`:91, which predates the gate by eight hundred and twenty-one chapters. **Publish the instrument and re-run it.**
+- **No announced age**, probed in eleven forms plus a bare `aged` sweep. **THE INSTRUMENT IS A GREP FOR `about` FOLLOWED BY A NUMBER PLUS A HUMAN EYE ON EVERY RESULT, PLUS THE THREE FORMS THAT GREP DOES NOT CATCH: `since I was X`, `X years old`, and `a man/woman/girl/boy of X`.** **EVERY `about N` MUST BE A CLOCK, A DURATION, A DISTANCE OR A COUNT OF SOMETHING THAT IS NOT A PERSON.** **The probe reports a number and not a verdict, and the close audit of Volume 20 published 426 such hits across fifty chapters and read every one and found no ages in them. Publish 426 and publish the reading. A probe that reports a number instead of a finding is the defect this row exists to prevent.** Agnete Lindqvist is forty-five and is the only age fixed anywhere in this book, **she is in this volume at 1023, and that one figure is printed and no other age is.**
+- **`grep -rio 'right temple' chapters/` must stay at zero.**
+- **`cuticle` is at four chapters on disk — 329, 340, 404, 446 — and this volume plans no fifth and may not print one.** **THE FLAG AT `state/open-threads.md` §8a STAYS OPEN AND NOT ADOPTED, AND THIS VOLUME TAKES THE BRANCH IT ALLOWS BY PRINTING NONE. NO FILE OF RECORD GRANTS A FIFTH AND NO FILE OF RECORD FORBIDS ONE FOREVER; THAT GAP IS NOT THIS VOLUME'S TO CLOSE.**
+- **`ostho` must stay at zero.** The name on the page is **Otho Pearse.**
+- **No floor. No ledger total. No running balance in grains.**
+- **THE THREE CROSSING FORMS OF §5c, AND THE MONTH-END FORM AT 1012, 1025 AND 1038, WHICH IS THE ONLY PLACE IT APPLIES.** **A GLOSS THAT CONTRADICTS THE SUBTRACTION THE SAME LINE PERFORMS IS THE WHOLE FAULT. SIXTEEN DATE GLOSSES WERE WRONG IN 921–930 AND ALL SIXTEEN SAID *of last month* ON A PAIR THAT STAYS INSIDE ONE MONTH. THIS VOLUME HAS FOUR QUARTER-ENDS AND ELEVEN CROSSINGS AND EVERY ONE OF THEM IS LISTED WITH ITS OPERANDS IN §5c, AND THE COUNT OF ELEVEN WAS MADE BY COMPARING MONTHS AND NOT BY EYE.**
+- **Paragraphs over roughly ninety words → 0; over roughly one hundred and twenty → 0. Quotation-mark parity per paragraph, 0 odd.**
+- **A WITHIN-FILE DUPLICATE-PARAGRAPH SCAN** and **a 12-gram scan first against every chapter in the book including the batch's own, then 11 and 8, every hit classified by hand. PROVE THE SCANNER ON `chapters/volume-12/chapter-0564.md` BEFORE TRUSTING IT.** Then borrowed bodies against §4d, read BEFORE a body is written. Then the scene-axis column against the forty-five. Then a scan at the VOLUME BOUNDARY, **and 1001 against 991 and 1050 against 990 and 1000 against 900 are three of those scans and all three are expected to share the card's three lines and the quarter-end language, and every gram that is not one of those is a finding.**
+- **A FOOTER-TO-FOOTER ROW**, run separately across every pair inside the batch and across the seam at 1000/1001, **deduplicated so that no pair can compare a file with itself.**
+- **EVERY SCENE MEASUREMENT PRINTED UNDER THREE DEFINITIONS WITH THE LINE SPAN PRINTED BESIDE EVERY CELL.** A scene count is not a proof. **A PROBE OF ZERO IS NOT A PASS.**
+- **THE EXPLICIT-VOCABULARY PROBE AT WORD BOUNDARY, OVER THE WHOLE FILE AND OVER THE SCENE ALONE, AND THE COUNT PUBLISHED IN THE SAME COMMIT THAT WRITES THE CHAPTER.**
+- **Count word banks per file and sum from disk. Never record a word count from a concatenation.** **THE BASIS OF RECORD IS `^#` — EVERY LINE BEGINNING WITH A `#` STRIPPED.** The band is 1,800–2,700; a scene may leave it and must say why.
+- **Titles unique across every file in `chapters/`,** and the title lines checked separately from the bodies. **The fifty lines in §10 were checked in this pass with `uniq -d` against all one thousand written title lines and against each other, and both columns returned empty.**
+- **THE WATCH-CONSTRUCTION ROW: `no form` · `not one form` · `there is no instrument` · `not one instrument` · `nobody` · `no one` · `nobody is thanked` · `there is no column` · `there is no way`, plus any `there is not one X` paraphrase, case-insensitive, at word boundary, title and heading lines excluded, narration and speech printed separately. THE CAP IS SIX IN NARRATION AND TWELVE IN SPEECH ACROSS TEN CHAPTERS, AND ONE OF EITHER IN ANY SINGLE CHAPTER.**
+- **A CLOSING-BEAT ROW.** Before accepting a closing, check it against the batch's own other nine and against the volume's other forty. **1000 ENDED ON A MOUTH CLOSING AND A COURT GOING ON WITHOUT HIM, AND 1050 MAY NOT END ON A MOUTH CLOSING AND A COURT GOING ON WITHOUT HIM, AND MAY NOT END ON NAILS, ON A FIGURE, ON A LIGHT, ON A CART, ON A CORNER OR ON A QUESTION ASKED IN A DOORWAY.** What 1050 may end on is a man who has said it and is standing with the people, and that is a different image from a man who has said it and is leaving.
+- **A STANDING-FIGURE ROW: every standing figure counted per chapter with object and scope.**
+- **AND THE ONE MEASUREMENT THIS VOLUME OWES THE NEXT ONE. A CHAPTER OF 1001–1050 THAT LEAVES THE 1,800–2,700 BAND RECORDS WHY IN `state/current.md` IN THE SAME COMMIT, AND A CHAPTER THAT CANNOT GIVE A REASON IS NOT FINISHED.**
+
+---
+
+## 10. THE TITLE BANK, 1001–1050 — **PLAN**
+
+**`uniq -d` over all one thousand written title lines and over these fifty against each other returned empty on both columns, and that is the only claim `uniq -d` is able to support — it counts duplicates and nothing else. Measured by other means, in this pass: all fifty are three to twelve words, none is over ninety characters, none begins with *What*, and none of them is a figure, a date, a duration, a season, a period or a chapter's own decision restated back to itself.**
+
+| Ch | Title | Ch | Title | Ch | Title | Ch | Title | Ch | Title |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1001 | The End Of The Second Line | 1011 | The Fifty-Third Sheet | 1021 | One Voice In Three Mouths | 1031 | Nobody Sends For Anybody | 1041 | The Morning They Asked Him |
+| 1002 | Three Flights And A Wrong Door | 1012 | A Box For Three People | 1022 | Struck From The Record | 1032 | Agreeing Is Not The Same | 1042 | The Same Sentence Twice |
+| **1003** | **Heard Three Times** | **1013** | **Nothing Asked At That Desk** | **1023** | **The Second Witness** | **1033** | **The Empty Car** | **1043** | **A Shape In Every Set** |
+| 1004 | Two True Things About One Door | 1014 | Two Rows That Agree | **1024** | **The Fifty-Fourth Sheet** | 1034 | The Question On The Landing | 1044 | He Said It In A Room |
+| 1005 | The Only Repair There Is | 1015 | The Answer He Would Have Given | 1025 | No Name On A Form | 1035 | The Address Has A Man In It | 1045 | The Renewal Nobody Is Told About |
+| 1006 | A Lighter Book On A Strap | 1016 | The Rule She Enforces For Free | 1026 | The Question She Did Not Ask | 1036 | The Answer She Got Instead | 1046 | The Fourth Clause, Finished |
+| 1007 | Where The Pavement Corrects Itself | 1017 | A Question About A Person | 1027 | A Voice That Is Nearly His | **1037** | **The Fifty-Fifth Sheet** | 1047 | Which Room He Was Standing In |
+| 1008 | Whoever Said It First | 1018 | The Lane Knows A Thing He Does Not | 1028 | A Shape In Somebody Else's Rows | 1038 | A Return With A Box On It | 1048 | The Address Is Two Women Now |
+| 1009 | Told By Somebody Who Was Told | 1019 | An Answer Given Twice | 1029 | One Question In A Street | 1039 | Not One Word Of It In The Book | 1049 | Nine Feet Off, Two Words Wrong |
+| **1010** | **Said Again In Daylight** | **1020** | **The Wrong One On Purpose** | **1030** | **Asked Of Strangers** | **1040** | **He Does Not Go Back Up** | **1050** | **The One Who Says It Now** |
+
+**THE FIVE IN BOLD ARE SCENES: 1003, 1013, 1023, 1033, 1043. 1010, 1020, 1030, 1040 AND 1050 ARE THE FIVE IRREVERSIBLE DECISIONS, ALL FIVE HIS, AND ALL FIVE ARE THINGS HE DOES NOT PUT IN THE BOOK — four of them are spoken with the door open and the fifth is an act of coming back or an act of not going back.**
+
+**THREE OF THESE FIFTY TITLES RESTATE A FIGURE AND THEY ARE QUARTER-ENDS: 1011, 1024 AND 1037, AFTER THE HOUSE USAGE OF 974 AND 987 AT `The Fiftieth Sheet` and `The Fifty-First Sheet`, WHICH ARE ON DISK AND UNCHALLENGED. THE FOURTH QUARTER-END, 1050, IS NAMED `The One Who Says It Now` AND NOT AFTER ITS SHEET, BECAUSE IT IS THE VOLUME'S DECISION CHAPTER AND A NUMBER ON IT WOULD BE THE WRONG EMPHASIS.**
+
+**ONE TITLE CARRIES A FLAG A BATCH MUST HONOUR: 1012, 1025 AND 1038 fall on the month's form and none of them is an event. NO FORM ORDINAL MAY BE PRINTED IN ANY CHAPTER OF 1001–1050, AND THE TITLE LINES ARE NOT CHAPTERS.**
