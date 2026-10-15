@@ -1,3 +1,5 @@
+# VOLUME 19 BATCH 0001 REVIEW-FIXED — **THE SPINE IS UNMOVED AND EVERY FIGURE BELOW IT RE-DERIVED FROM THE SAME ANCHORS AFTER THE FIX: 3,949 TO 4,012, SEAM 20 IN ITS OWN COLUMN, INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE RAIL, THE DRAWER, THE HEAD AT 852, THE BLANK ROW AND THE COAT-LEFT DID NOT MOVE BY ONE DAY. THREE CHAPTERS WERE TOUCHED AND NONE OF THEM WAS TOUCHED IN ITS ARITHMETIC: 903 lost a *this week* and carries the twelfth instead, 907 lost a closure it had never been given, 908 lost the banned figure. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. 902 IS PRINTED AS *Seventeen Minutes Down Four Flights*. `outline/ending.md` UNTOUCHED.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
+
 # VOLUME 19 BATCH 0001 ON DISK — **THE SPINE AS THE PAGE FIXED IT. 3,949 TO 4,012. SEAM 20 IN ITS OWN COLUMN, INTERIOR NINE `7 7 7 7 7 7 7 7 7 = 63`. THE HEAD IS PRINTED NOWHERE IN 901–910 AND IS DUE AT 911. THE RAIL DOES NOT MOVE AT 901 THROUGH 910 AND CHANGES AT 911. NOTHING ENTERED THE OFFICE HAND IN TEN CHAPTERS. THE INSIDE OF THAT COAT ON THE LEFT IS STILL EMPTY. THE DRAWER IS SHUT THROUGHOUT AND ITS AGE IS IN THE FOOTER CLAUSE ONLY.** THIS BLOCK IS LIVE AND SUPERSEDES NOTHING BELOW IT AND DELETES NONE OF IT.
 
 ```
@@ -23,9 +25,10 @@ THE TWO METHODS SHARE NO CONSTANT AND AGREE ON ALL TEN DATES. ZERO VIOLATIONS.
 906 25 Feb 3,984 +7 BRACK'S LANE, nine a week unmoved, the character changed, A THIRD FIGURE THAT WILL NOT
     BE CHALKED, and the cost of carrying it a month and being wrong by a month when it is written
 907 2 Mar 3,991 +7 A SLIP FROM A RETURNS DESK THAT A CLERK SENT BACK WITHOUT A QUESTION, and a copy wrong
-    by an hour at one end, and the refusal to correct any copy, AND THE REFUSAL MOVES FROM HIM TO THE CLERK
+    by an hour at one end, THE NEIGHBOUR KNOCKING AT A QUARTER TO EIGHT BECAUSE THAT IS WHAT THE BAD PAPER SAYS,
+    and the refusal to correct any copy, AND THE REFUSAL MOVES FROM HIM TO THE CLERK
 908 9 Mar 3,998 +7 THE CORNER, THE BOY AT THE BOARD AND NOT ONE THING ASKED OF HIM, no lamp, seven hands and
-    not one more, her sheet unmoved, and HE STOPS ASKING THAT HILL FOR ANYTHING
+    nothing cut past the end of the last one, her sheet unmoved, and HE STOPS ASKING THAT HILL FOR ANYTHING
 909 16 Mar 4,005 +7 THE CLERK PRICES THE WINTER: nine a month, every one knocks wrong once, none twice, the
     price is PATIENCE AND NOT HOURS, and she asks for one day a year and is given a quarter of it
 910 23 Mar 4,012 +7 MOVEMENT ONE'S IRREVERSIBLE DECISION, HIS, A PRACTICE AND NOT INK: FROM THE WORST WEEKS
@@ -60,7 +63,7 @@ IN 901-910. 910 NAMES ITS ANCHOR DATE ONLY, AS PART OF A COST, AND THAT IS NOT A
 
 ## WHAT DID NOT MOVE IN 901–910, AND WHAT IS NOW ON THE PAGE THAT WAS NOT
 
-**THE HEAD STANDS AT EIGHT HUNDRED AND FIFTY-TWO** and is printed in no file of this batch. **SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT.** The second column four lines. The bundle twenty-six things. The coat-left empty. His own blank row eight hundred and sixty-seven days old at 901, untouched and undescribed. The stone seven hands and not one more. The two scratched words not printed and not asserted. The four-year clock and Brack's sooner figure both standing, undischarged and unargued.
+**THE HEAD STANDS AT EIGHT HUNDRED AND FIFTY-TWO** and is printed in no file of this batch. **SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT.** The second column four lines. The bundle twenty-six things. The coat-left empty. His own blank row eight hundred and sixty-seven days old at 901, untouched and undescribed. The stone seven hands and nothing cut past the end of the last one. The two scratched words not printed and not asserted. The four-year clock and Brack's sooner figure both standing, undischarged and unargued.
 
 ## ONE THING A LATER PASS MUST NOT "FIX", BECAUSE IT IS DELIBERATE
 

@@ -339,9 +339,9 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 
 ---
 
-## 7. THE MOVEMENTS, 901 to 950 — **PLAN FOR 901–950. EVERY ROW BELOW IS FUTURE.**
+## 7. THE MOVEMENTS, 901 to 950 — **PLAN FOR 901–950. EVERY ROW BELOW THAT IS NOT YET WRITTEN IS FUTURE.**
 
-> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: THE TEN CARDS FOR BATCH 0001, CHAPTERS 901–910, ARE `outline/batches/volume-19-batch-0001.md`, IN FULL. MOVEMENTS TWO, THREE, FOUR AND FIVE CARRY A ONE-LINE BEAT FOR EVERY CHAPTER AND NO FULL CARD. A BATCH THAT TAKES ONE OF THESE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER, AND MUST REWRITE THIS FILE WITH IT IN THE SAME COMMIT.**
+> **THE HOUSE RULE FOR THIS SECTION, INHERITED AND NOT RELAXED: THE TEN CARDS FOR BATCH 0001, CHAPTERS 901–910, ARE `outline/batches/volume-19-batch-0001.md`, IN FULL, AND THAT BATCH IS ON DISK. THE TEN CARDS FOR BATCH 0002, CHAPTERS 911–920, ARE `outline/batches/volume-19-batch-0002.md`, IN FULL, WRITTEN AGAINST THE REPAIRED PAGE OF 901–910 AND IN FORCE. MOVEMENTS THREE, FOUR AND FIVE CARRY A ONE-LINE BEAT FOR EVERY CHAPTER AND NO FULL CARD. A BATCH THAT TAKES ONE OF THOSE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER, AND MUST REWRITE THIS FILE WITH IT IN THE SAME COMMIT.**
 >
 > **AND THE RULE IS ONE WAY. WHERE A CARD LICENSES SOMETHING THE PAGE FORBIDS, THE CARD IS WRONG AND THE CARD IS FIXED HERE.**
 
@@ -409,7 +409,7 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 | **933** | 3 Sep | 4,172 · **SCENE** | **SCENE, NADIA FERROUS, 100 AFTER 833.** The blank sheet for a person who cannot write the question down. |
 | 934 | 10 Sep | 4,179 | The sheet she will not touch: not the row, not the space, not the copy. |
 | 935 | 17 Sep | 4,186 | What the city felt in spring: the weight up four flights, heavier and quieter, and nobody writing it down. |
-| 936 | 24 Sep | 4,193 | The corner visited: no eighth hand, the paste four days old, the two words not among the seven. |
+| 936 | 24 Sep | 4,193 | The corner visited: seven hands and nothing cut past the last of them, the paste four days old, the two words not among the seven. |
 | **937** | 30 Sep | 4,199 · **QUARTER-END, forty-seventh sheet** | The head printed in the lane, thirty-one sheets and thirty quarters, `4,199 − 1,499 = 2,700 = 30 × 90`. |
 | 938 | 7 Oct | 4,206 · **a form on the seventh** | The month's form on the board by the kerb and not one word of it read aloud; the two ruled squares empty and the paste showing; the boy is not on the page. |
 | 939 | 14 Oct | 4,213 | The copied hours come back corrected wrong a second time; the office corrects no copy. |
@@ -487,7 +487,7 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 | Ch | Title | Ch | Title | Ch | Title | Ch | Title | Ch | Title |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 901 | The Card Stands Its Winter | 911 | The Forty-Fifth Sheet | 921 | The Lane Prices The Door | 931 | The Room That Cannot Wait | 941 | The Door Used By Everybody |
-| 902 | Nineteen Days Of January | 912 | Seven Days Out Of March | 922 | The Hours Read Twice | 932 | The Night Asking | 942 | Five Mornings In November |
+| 902 | Seventeen Minutes Down Four Flights | 912 | Seven Days Out Of March | 922 | The Hours Read Twice | 932 | The Night Asking | 942 | Five Mornings In November |
 | **903** | **A Promise Kept Eleven Years** | **913** | **A Field Officer's Return** | **923** | **The Returns Desk** | **933** | **The Stopped Platform** | **943** | **The Intake Desk** |
 | 904 | The First Stranger By Card | 914 | The Hand That Takes It | 924 | The Forty-Sixth Sheet | 934 | The Sheet She Leaves Alone | 944 | Twenty Years Without Scoring |
 | 905 | The Rail Tells Strangers | 915 | The Midnight Knocking | 925 | Seven Days Out Of June | 935 | The Row She Leaves Alone | 945 | Twenty Years Of Remembering |

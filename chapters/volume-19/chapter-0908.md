@@ -34,13 +34,13 @@ The light was on the stone just enough to make out the shapes of the cuts and no
 
 The seventh hand is low down at the right-hand end, cut small and hurried, about nine words, and it says that a woman came up four flights and was read to and went home, and then it stops in the middle with the cutting clean behind it.
 
-He looked along the stone at the place where an eighth hand would go, if one were ever coming.
+He looked along the stone past where that cut stopped, the way a man looks along a wall for the next thing on it.
 
 Nothing is cut there. The last inch and a half at that end is dressed flat and has been dressed flat for years, so anybody coming to add to it would have to take a chisel to a face with no history on it.
 
 That is a different act from adding to a wall that about four hundred people a week already read past, and a person who has never done the second one cannot be assumed to want the first.
 
-Two words are scratched small and hard in that stone, well apart from the seven, and they are not one of those seven and are never going to become one, and nothing whatever is said about them here either.
+Two words are scratched small and hard in that stone, well apart from the seven, and they are not one of those seven and are never going to become one, and he has never once found out who put them there and is not going to start this afternoon.
 
 ## Her Sheet Under The Batten
 
@@ -70,7 +70,7 @@ So he came down there with a question and went up it without one, and that is th
 
 He stayed about nine minutes at that corner and the work he had come to do took him about forty seconds.
 
-The paste was four days old. The two squares were empty. The stone had seven hands in it and no eighth. The boy had not said anything and had not looked up. Her sheet had not moved.
+The paste was four days old. The two squares were empty. The stone had seven hands in it and nothing cut past the end of the last one. The boy had not said anything and had not looked up. Her sheet had not moved.
 
 That corner gave him nothing at all, and he stood there in the cold until he understood that he had not come down that hill to find out anything.
 
@@ -92,7 +92,7 @@ Wenna Raut was at the table with that book open and about nine rows in it for th
 
 "Nothing since the seventh of November?"
 
-"Seven hands. No eighth. Both squares empty. Paste four days old. Her sheet unmoved. Nothing new and nothing to bring up and nothing to enter."
+"Seven hands and nothing cut past the last of them. Both squares empty. Paste four days old. Her sheet unmoved. Nothing new and nothing to bring up and nothing to enter."
 
 She put her pen down, which she does when a thing cannot go in a book.
 
@@ -104,7 +104,7 @@ Then she said: "You have gone down that corner twice this month and come back wi
 
 She opened the book again.
 
-Three thousand nine hundred and ninety-eight days. Less three thousand nine hundred and ninety-one, the second of this one, is seven, and the paste on the top batten of a board at the foot of that hill was four days old, and four inches of dressed stone at the foot of that hill hold seven hands and not one more, and nothing was asked of the boy with the brush.
+Three thousand nine hundred and ninety-eight days. Less three thousand nine hundred and ninety-one, the second of this one, is seven, and the paste on the top batten of a board at the foot of that hill was four days old, and four inches of dressed stone at the foot of that hill hold seven hands and the newest of them stops in the middle with the cutting clean behind it, and nothing was asked of the boy with the brush.
 
 *Less three thousand nine hundred and twenty-nine, the thirtieth of December, is sixty-nine, and the forty-fourth sheet has been face up on that rail for every one of the last sixty-nine of them, and it does not move until the thirtieth of March.*
 

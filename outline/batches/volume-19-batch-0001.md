@@ -33,7 +33,7 @@
 - **Ending type:** earned hook. **Next-chapter pull:** the frost on the stair and what fourteen minutes become in it.
 - **Title:** The Card Stands Its Winter (5 words). **Footer:** opening arithmetic paragraph returns to the house shape after 900's door close; seam operands printed.
 
-## CARD 902 — Nineteen Days Of January
+## CARD 902 — Seventeen Minutes Down Four Flights
 
 - **Chapter:** 902. **POV:** Lin Hao. **Location/time:** the stair and the flat file, half past five in the dark, the twenty-seventh of January.
 - **Immediate goal:** get the book down four flights and four hundred yards in frost without dropping it.
@@ -44,13 +44,13 @@
 - **Power or resource change:** none.
 - **Continuity fact to preserve:** book up two, down one; never overnight; strap wrong length going round twice.
 - **Ending type:** cost. **Next-chapter pull:** Petra Ilyin on the branch rota, and a promise eleven years old.
-- **Title:** Nineteen Days Of January (4 words).
+- **Title:** Seventeen Minutes Down Four Flights (5 words). **REVIEW FIX:** retitled from *Nineteen Days Of January*, which is 901's figure and not 902's — 902 is the twenty-seventh of January, never says nineteen, and is named by its own cost. No card fact changed and no plot moved.
 
 ## CARD 903 — A Promise Kept Eleven Years (SCENE)
 
 - **Chapter:** 903. **POV:** Lin Hao. **Location/time:** the branch office off a third court at night shifting into her rooms nearby, the fourth of February.
 - **Immediate goal:** stand a night shift beside Petra Ilyin, who is on the rota page and has asked him to stay after it.
-- **Resistance:** her promise: eleven years under a sworn promise nobody can produce, including her, and a stranger through the new door has asked her to produce it by week's end.
+- **Resistance:** her promise: eleven years under a sworn promise nobody can produce, including her, and the date she has set herself to go up four flights and say it aloud in a room with the door open. **REVIEW FIX:** the card used to put a stranger's demand on her closing by week's end. The page has no such stranger and no such demand, and 903 is the fourth while the walk is the twelfth, eight days out, so **the card now carries the page's date and a week's end would not fit between them.**
 - **Information revealed:** a sworn promise binds her body, nobody signs it, nobody files it, and it cannot be discharged in front of a witness. Her part in it: she stayed eleven years without knowing who made it.
 - **Action or decision:** she puts the promise on the table between them without producing it, and asks him to hold the week with her instead of solving it. He holds it.
 - **Emotional change:** tenderness without rescue; she is enjoyed and says so plainly, and he is wanted for staying, not for fixing.
@@ -116,7 +116,7 @@
 - **Chapter:** 908. **POV:** Lin Hao. **Location/time:** the foot of the hill, afternoon with no light on the wall, the ninth of March.
 - **Immediate goal:** check the board and the stone without reading anything aloud.
 - **Resistance:** no light on that wall; the words not readable at that distance; the temptation to read the stone to settle a question from 907.
-- **Information revealed:** fresh paste on the top batten, four days old; both ruled squares empty; her sheet unmoved with her own pencil line; about sixty words in seven hands, no eighth, the two words scratched apart not among them and nothing asserted.
+- **Information revealed:** fresh paste on the top batten, four days old; both ruled squares empty; her sheet unmoved with her own pencil line; about sixty words in seven hands, the last inch and a half at that end dressed flat for years and nothing cut on it, the two words scratched apart not among them and nothing whatever asserted about them. **§3 of the phase prompt governs: the absence of a further hand is never named or counted to on the page.**
 - **Action or decision:** he reads nothing, asserts nothing, asks the boy nothing; he stands longer than the work requires and goes back up.
 - **Emotional change:** quiet steadiness; the corner gives him nothing and he stops asking it for anything.
 - **Power or resource change:** none.

@@ -22,7 +22,7 @@ She came down at about four with her sleeves pushed back past her elbows and a c
 
 She put the cloth on the bucket.
 
-"I stood there and listened to my own address being read out in a shop by a woman selling bread, and I understood that the thing I have wanted to find for eleven years is now the easiest thing in this city to find, and that it is being handed round a counter with no name on it, and that this week is the week I go or I do not go and I have told the woman below as much."
+"I stood there and listened to my own address being read out in a shop by a woman selling bread, and I understood that the thing I have wanted to find for eleven years is now the easiest thing in this city to find, and that it is being handed round a counter with no name on it, and that the twelfth of this month is the day I go or I do not go, and I have told the woman below as much."
 
 "Then go," said Lin Hao.
 

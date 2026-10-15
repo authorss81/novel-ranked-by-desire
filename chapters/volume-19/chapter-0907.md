@@ -26,7 +26,7 @@ He put it down and left it where it lay, and about half an hour later a woman ca
 
 She came up at about eleven with a shawl over her arm in the cold and a piece of paper in her hand that was not folded, because it had been folded twice already and opened out again, and she put it on that table and put her thumb on it and did not let go of it.
 
-"My neighbour went up your four flights on the twenty-eighth and knocked," she said, "and there was nobody there, and she went again the next morning and found the same, and she says you have put hours on a door and that the hours are wrong, and she says it to everybody in the lane, and now they all think you are a place that lies."
+"My neighbour went up your four flights on the twenty-eighth and knocked," she said, "at a quarter to eight in the morning, because that is what that paper says, and there was nobody on the landing, and she went again the next morning at a quarter to eight and found the same, and she says you have put hours on a door and that the hours are wrong, and she says it to everybody in the lane, and now they all think you are a place that lies."
 
 "Give it to me."
 
@@ -68,7 +68,7 @@ She wrote them across her own knuckles with her own pencil while he was saying t
 
 "Then what am I to tell her," the woman said. "That you are right and my neighbour is wrong and it is not your fault, and that I have a piece of paper proving both of those things?"
 
-"You are to tell her that we are there between a quarter to ten and half past five on working mornings, and that on the twenty-eighth of the month before this one there was a reason, and that the reason is that office is shut at half past five and does not answer at any other hour, and that a piece of paper in a hand that is not ours is not evidence of anything except that somebody wrote it down."
+"You are to tell her that we are there between a quarter to ten and half past five on working mornings, that the twenty-eighth of the month before this one was an ordinary morning and that door was open at a quarter to ten like any other, that a quarter to eight in the morning is two hours before we open, and that the paper in your hand is not our paper and never was."
 
 That was the truth and it did not help her and he watched it fail to help her while she was standing there.
 
