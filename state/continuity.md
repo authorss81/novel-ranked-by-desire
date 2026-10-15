@@ -1,3 +1,55 @@
+# VOLUME 16 BATCH 0004 ON DISK — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,082 TO 3,139. FORTY INTERVALS PARSED OFF THIRTY PAGES, FORTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, RE-RUN FROM DISK AFTER THE LAST EDIT. IT FOUND A DEFECT IN 787's OWN OPENER AND 787 WAS REWRITTEN IN THE PROSE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
+
+```
+day 0 = 1 February, year one.  METHOD A (y-1)x360 + off[m] + (d-1).
+                                        METHOD B 30 x ((y-1)*12 + pos[m]) + (d-1), ZERO INDEXED,
+                                        pos[Feb]=0 pos[Mar]=1 pos[Apr]=2 pos[May]=3 pos[Jun]=4 pos[Jul]=5 pos[Aug]=6 pos[Sep]=7 pos[Oct]=8.
+781  23 Aug y9  3,082  +7 SEAM   786  24 Sep 3,113  +6
+782  29 Aug     3,088  +6        787  30 Sep 3,119  +6  Q-E  35th sheet
+783   5 Sep     3,094  +6 SCENE  788   7 Oct 3,126  +7  88th form
+784  12 Sep     3,101  +7        789  14 Oct 3,133  +7
+785  18 Sep     3,107  +6        790  20 Oct 3,139  +6  IRREVERSIBLE DECISION
+METHOD A AND METHOD B AGREE ON TEN OF TEN.  ZERO MONOTONIC VIOLATIONS BY EITHER METHOD.
+```
+
+**FORTY FOOTER AND OPENER INTERVALS WERE PARSED OFF THIRTY PAGES AND RE-DERIVED BY COMMAND: FORTY PARSED, FORTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, AND THE COUNT OF UNPARSED ROWS IS PRINTED AS A NUMBER.** Four clauses per file, all read out of the English on the page: the spine opener's day, the opener's interval, the first footer's day and interval, the rail clause's anchor and both of its counts, and the drawer clause's day and its month breakdown against `n × 30 + m`. Ten month breakdowns, **two of which use the house's month-crossing form** — *five out of the thirtieth, which is the last working day of that month* — and both were parsed as that form and checked against the previous chapter's own day.
+
+**AND THE PARSER FOUND A DEFECT IN THE PROSE AND NOT IN ITSELF.** 787 was first written with the month-crossing clause and six days from the twenty-fourth of September is the thirtieth of September and no month is crossed. **It now reads *thirty less twenty-four is six by the month count, and it is the last working day of that month and of the quarter.*** A figure nobody re-computes is the figure that is wrong.
+
+**THE SEAM IS SEVEN AND IT IS IN ITS OWN COLUMN AND IT IS NOT ONE OF THE NINE.** `3,082 − 3,075 = 7`. The nine interior intervals are `6 6 7 6 6 6 7 7 6 = 57` and `3,139 − 3,082 = 57`. The month-count check, read one term at a time against each chapter's own date, returns the same nine numbers, and the sixth of September is the sixth and the fifth of September is the sixth because the months are thirty days long.
+
+## THE RAIL, WHICH IS THE ROW THAT COST TEN CHAPTERS IN VOLUME 15, AND THE ANCHOR CHANGED ON THE LAST DAY OF THIS BATCH
+
+**THE RULE: THE CLAUSE IS `CHAPTER DAY − (THE DAY THE CURRENT SHEET WENT UP)`, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END. IT IS NOT A CHAPTER'S OWN DAY.** The thirty-third went up at `2,939` on the thirtieth of March. **The thirty-fourth went up at `3,029` on the thirtieth of June and stood ninety days.**
+
+```
+781  53 (34th)   782  59 (34th)   783  65 (34th)   784  72 (34th)
+785  78 (34th)   786  84 (34th)   787  90 (34th), and it came down at four that afternoon
+788   7 (35th)   789  14 (35th)   790  20 (35th)
+```
+
+**TEN CLAUSES, TEN RE-DERIVED, ZERO MISMATCHES. THE FIRST SIX RE-DERIVE FROM 2,939 — no: from 3,029, and not one chapter in this batch anchored on its own day. 787 IS THE DAY THE OLD SHEET REACHES NINETY, WHICH IS WHY IT ANCHORS ON 3,029 AND NOT ON 3,119, AND THE PARSER PRINTED THAT AS A MISMATCH BEFORE THE RULE WAS CORRECTED IN IT.**
+
+## WHAT MOVED ON THE PAGE IN 781–790, AND WHAT IS NOW A DIFFERENT SITUATION
+
+**THE PAGE CARRIES FIVE LINES IN THIS OFFICE'S HAND AT ITS FOOT AND THE FIFTH IS THE FIRST ONE THAT IS NOT ABOUT A PERSON.** The first and second (the thirtieth of March and the tenth of June) went out on the sheet of the thirtieth of June. The third and the fourth — nine words a man said out loud at that counter on the nineteenth of July, and the sixteenth of August — went out together on the thirtieth of September, and 787 prints four and not three, because the third of the four is a record and not an instruction. **The fifth is the twentieth of October, and it says the sentence entered on the sixteenth of August is to be read out at that rail every morning to whoever is standing there, by whoever is standing there.**
+
+**WHAT IT CLOSES, IN ONE SENTENCE: the life of a denial as a formality on a page about nine people a week read the bottom of.** What it costs is stated by a man who is paid nothing and by a clerk and by neither of them twice: a claim in a city hand spoken out loud in a passage about nine times a week for ever, by anybody who happens to be standing at that rail, and the man who reads it does not know what it is denying and in about four years is going to be asked and there is nobody entitled to answer him. **He read the tenth sentence before the ninth once, in an empty shop on the second of November, to see whether anybody said the first one, and nobody did, and he has done it about nine times since.**
+
+**AND HE IS NOW A ROW IN HIS OWN BOOK.** He brought a blank piece of pencil paper up four flights to his own counter and said nothing at it, and the row went in with a date and an hour and nothing whatever after the hour, and there is a space in the middle of that row where his words would go, and there are two such spaces in that book in nine years and he owns one of them.
+
+**AND A WOMAN WITH A PENCIL HAS GIVEN AWAY THE ONLY COPY IN THE WORLD OF THE SECOND COLUMN, IN HER OWN HAND, ON HER OWN PAPER, DATED, WITH NO FIGURE ON ANY OF THE FOUR LINES**, because for the first time in six years somebody asked her about the paper and not about her. **She keeps no list, and he kept none, and the copy is in the inside of a man's coat, which is the first thing that has left that building in a hand in nine years and is the only place in this city where a piece of paper has been kept twice.**
+
+**AND THE TWO PRINTED WORDS AT THE HEAD OF THAT COLUMN ARE NOT THIS OFFICE'S.** `carried by` is a works department's routing line and takes the name of whoever is carrying the sheet from one counter to another, and it has meant that on every sheet this office has ever printed, and the woman who keeps the index has known it since the seventh of December of last year, and that is the whole of why she said no five times. **The fourth line has a woman's name in it under a heading that belongs to a different office's book, entered by a clerk in good faith on the third of December of the eighth year, and it cannot be taken out and it cannot be improved.**
+
+**AND A CLERK REFUSED AN INSTRUCTION.** He brought her six words with no name in them on the twenty-fourth of September and she would not enter them, because it is the first line in nine years this office would have decided to say rather than written down, and she may only enter what she is given. **He had it read back aloud instead and about four people in a corridor about four feet wide have it, and the page carries four lines and not five.**
+
+**AND ABOUT FOUR PEOPLE A WEEK NOW BELIEVE THAT A BUILDING OFF A THIRD COURT KEEPS THE STONE AT THE FOOT OF A WALL, WHICH IS THE ROW OF THE NINETEENTH OF JULY BEING BELIEVED, AND THE MAN WHO READ IT TO THEM READ BOTH HALVES OF THE PAGE AND CANNOT BE ASKED TO READ LESS OF IT AND HAS NEVER BEEN TOLD WHAT ANY OF IT MEANS.** There are now three kitchens in this city with the ninth sentence of that page in it in a hand, one of them written out on a rail in front of the man who read it, and about nine people a week get down low enough to read four inches at the foot of a wall that have said nothing since the eleventh of March and have said about forty words since the fourth of October.
+
+**WHAT IS UNMOVED: THE HEAD (852, printed once in this batch, at 787, unmoved across nineteen sheets and eighteen quarters, both named in words, both right, differing by one), THE SECOND COLUMN AT FOUR LINES WITH NO FIFTH AND NOTHING GOING INTO IT IN ANY CHAPTER OF THIS BATCH, THE BUNDLE AT TWENTY-SIX THINGS WITH THE TWENTY-SIXTH STILL EMPTY AND NOTHING TAKEN OFF IT AND NOTHING PUT ON IT, THE DRAWER THAT CAN NEVER BE OPENED, THE TWO RULED SQUARES, THE BOY, THE WOMAN WITH THE SHORT-HANDED BROOM, THE WOMAN WHO CANNOT READ, THE TWO WORDS ON THE STONE, THE OFFICE'S MONTHS, THE SHUTTER, THE LANE'S MORNINGS, THE STRIKING, AND THE FIGURE OF THE ACCOUNT, WHICH IS NOT PRINTED ANYWHERE IN 751–800 AND MAY NOT BE.**
+
 # VOLUME 16 BATCH 0003 ON DISK, AND REPAIRED AFTER REVIEW TWICE — **THE SPINE BLOCK, RE-DERIVED BY TWO METHODS THAT SHARE NO CONSTANT AND BY EVERY FIGURE PARSED BACK OFF THE PAGE. 3,016 TO 3,075. BOTH REVIEW-FIX PASSES OF 15 OCTOBER 2026 TOUCHED NO SPINE FIGURE AND MOVED NO DATE: THIRTY FOOTER CLAUSES PARSED, THIRTY RE-DERIVED, ZERO UNPARSED, ZERO MISMATCHES, RE-RUN FROM DISK AFTER THE LAST EDIT. IT RULED ONE COUNT, THE LINES AT THE FOOT OF THE PAGE, WHICH ARE FOUR AND NOT THREE.** **THE SECOND PASS RESTORED `chapter-0774.md`'s RAIL CLAUSE, WHICH THE FIRST PASS HAD REPLACED WITH NARRATOR COMMENT, AND THAT CLAUSE WAS THE `6 (34th)` IN THE ROW BELOW BEFORE AND AFTER: `3,035 − 3,029 = 6`.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.**
 
 ## THE SPINE AS THE PAGE FIXED IT, AND EVERY INTERVAL RE-DERIVED FROM DAY NUMBERS
