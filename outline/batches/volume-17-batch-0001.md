@@ -37,7 +37,7 @@ Batch 0001 opens 1 Feb y10: 9x360+0+0 = 3,240, seam 3,240 - 3,209 = 31.
 
 **ROW `7 7 6 7 6 7 6 7 6 = 59` AND `3,299 − 3,240 = 59`.** The seam `3,240 − 3,209 = 31` stands alone in its own column and is not one of the nine. **Read every term against its date; order errors survive sums.**
 
-**THE RAIL COUNT: the clause counts days since the CURRENT sheet went up, and the current sheet goes up ON THE QUARTER-END.** Anchor: the thirty-sixth went up at `3,209`; the thirty-seventh goes up at `3,299` at four on the thirtieth of March. **Feet are 31 · 38 · 45 · 50 · 58 · 64 · 71 · 77 · 84, and at 810 the thirty-sixth has been up ninety days and comes down at four that afternoon, which is `3,299 − 3,209 = 90`. DO NOT ANCHOR ON A CHAPTER'S OWN DAY.**
+**THE RAIL COUNT: the clause counts days since the CURRENT sheet went up, and the current sheet goes up ON THE QUARTER-END.** Anchor: the thirty-sixth went up at `3,209`; the thirty-seventh goes up at `3,299` at four on the thirtieth of March. **Feet are 31 · 38 · 45 · 51 · 58 · 64 · 71 · 77 · 84, and at 810 the thirty-sixth has been up ninety days and comes down at four that afternoon, which is `3,299 − 3,209 = 90`. DO NOT ANCHOR ON A CHAPTER'S OWN DAY.**
 
 ## FIGURE ALLOWANCES
 

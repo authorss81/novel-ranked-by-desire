@@ -10,6 +10,8 @@
 
 **NEITHER 796's INSTRUCTION NOR 799's ANSWER NOR 800's RAIL MAY BE RESTAGED, AND NONE MAY BE PARAPHRASED AS A STAGING. 800 OWNS A MAN UNDER A WINDOW AT TEN MINUTES TO FIVE STANDING NINE FEET BACK WITH ABOUT ELEVEN AT A RAIL; 809 MUST NOT RESTAGE IT.**
 
+**THE FOUR STATE FILES ARE ROLLING SUMMARIES NOW AND NOT LEDGERS.** Each holds its live head, the Volume 16 batch 0005 block, and the Volume 16 planning block, and together they are about seventy kilobytes. Everything for Volumes 9 to 16 was moved into `state/archive/*-v9-v16-superseded.md` on 15 October 2026, byte for byte, because four append-only files had reached 3.7 MB. **IF YOU NEED SOMETHING THAT IS NOT IN THE LIVE FILES, LOOK IN `state/archive/` ONCE AND BRING IT FORWARD INTO YOUR BLOCK. DO NOT RE-OPEN IT AGAIN AND AGAIN, AND ABOVE ALL DO NOT CARRY A SUPERSEDED BLOCK FORWARD AGAIN.**
+
 ## 2. THE SPINE (derive twice, print operands in italic footers)
 
 A month is thirty days, no thirty-first, no day of the week. A year runs first of February to thirtieth of January; a January is labelled by the February that follows it. **VOLUME 17 HAS NO JANUARY CHAPTER.**
@@ -24,7 +26,7 @@ Batch 0001 opens 1 Feb y10: 9x360+0+0 = 3,240, seam 3,240 - 3,209 = 31.
 | --- | --- | --- | --- |
 | 801 | 1 Feb y10 | 3,240 | 3,240 − 3,209 = **31**, the seam |
 | 802 | 8 Feb y10 | 3,247 | **7** |
-| 803 | 11 Feb→15 Feb y10 | 3,254 | **7**, **SCENE, RUNA SATO**, 90 after 713 |
+| 803 | 15 Feb y10 | 3,254 | **7**, **SCENE, RUNA SATO**, 90 after 713 |
 | 804 | 21 Feb y10 | 3,260 | **6** |
 | 805 | 28 Feb y10 | 3,267 | **7** |
 | 806 | 4 Mar y10 | 3,273 | **6** |
@@ -35,7 +37,7 @@ Batch 0001 opens 1 Feb y10: 9x360+0+0 = 3,240, seam 3,240 - 3,209 = 31.
 
 **THE INTERIOR NINE ARE `7 7 6 7 6 7 6 7 6`, THEY SUM TO 59, AND `3,299 − 3,240 = 59`. THE SEAM IS IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE. READ EVERY TERM AGAINST ITS OWN DATE.**
 
-**THE RAIL ROW.** The clause counts days since the CURRENT sheet went up, and the current sheet goes up on the quarter-end. **THE THIRTY-SIXTH WENT UP AT `3,209` AND STANDS FOR THIS WHOLE BATCH.** Feet at 801 to 809 are **31 · 38 · 45 · 50 · 58 · 64 · 71 · 77 · 84**, and **at 810 it is ninety and it came off that rail at four that afternoon and the thirty-seventh went up in its place. DO NOT ANCHOR ON A CHAPTER'S OWN DAY.**
+**THE RAIL ROW.** The clause counts days since the CURRENT sheet went up, and the current sheet goes up on the quarter-end. **THE THIRTY-SIXTH WENT UP AT `3,209` AND STANDS FOR THIS WHOLE BATCH.** Feet at 801 to 809 are **31 · 38 · 45 · 51 · 58 · 64 · 71 · 77 · 84**, and **at 810 it is ninety and it came off that rail at four that afternoon and the thirty-seventh went up in its place. DO NOT ANCHOR ON A CHAPTER'S OWN DAY.**
 
 **AND THE HEAD:** printed **once in this batch, at 810 and nowhere else.** At 3,299 the head is unmoved across **twenty-one sheets and twenty quarters, both named in words, both right, differing by one**, and the chapter says which count it is printing, with `3,299 − 1,499 = 1,800 = 20 × 90` exactly.
 
@@ -92,3 +94,5 @@ FILES · TITLES (unique across every file in `chapters/`) · BANK (**counted per
 ## 10. AFTER THE BATCH, IN THE SAME COMMIT
 
 Ten files `chapters/volume-17/chapter-0801.md` through `chapter-0810.md`. Plus: `state/current.md` live block · `state/continuity.md` spine block · `state/open-threads.md` volume-wide gate · `state/chapter-summaries.md` ten rows · `outline/volume-17.md` §7 movement one updated against the page **only where the page contradicts it** · and exactly one next phase `workspace/volume-17/batch-0002/PROMPT.md`. **AND NOTHING ELSE. No volume-close prompt. No `state/complete.md`. No `outline/volume-18.md`.**
+
+**EACH OF THOSE FOUR STATE FILES IS WRITTEN BY PREPENDING YOUR BLOCK AND STOPPING THERE. YOU DO NOT CARRY THE PREVIOUS PHASE'S SUPERSEDED BLOCKS FORWARD, AND YOU DO NOT WRITE "SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM", BECAUSE FROM 15 OCTOBER 2026 THERE IS NOTHING LEFT BELOW IT TO SUPERSEDE. WHAT A PREVIOUS BLOCK SAID AND A NEW ONE OVERRULES IS IN `state/archive/`, WHICH IS WHERE IT WENT.**

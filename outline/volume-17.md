@@ -256,13 +256,15 @@ SPINE, 801-850
 | 801 | 31 | 811 | 7 | 821 | 77 | 831 | 53 | 841 | 27 |
 | 802 | 38 | 812 | 14 | 822 | 84 | 832 | 59 | 842 | 34 |
 | 803 | 45 | 813 | 21 | **823** | **90, and it went up at four that afternoon** | 833 | 65 | 843 | 41 |
-| 804 | 50 | 814 | 28 | 824 | 6 | 834 | 72 | 844 | 48 |
+| 804 | 51 | 814 | 28 | 824 | 6 | 834 | 72 | 844 | 48 |
 | 805 | 58 | 815 | 35 | 825 | 13 | 835 | 78 | 845 | 55 |
 | 806 | 64 | 816 | 42 | 826 | 19 | 836 | 84 | **846** | 62 |
 | 807 | 71 | 817 | 49 | 827 | 26 | **837** | **90, and it went up at four that afternoon** | 847 | 69 |
 | 808 | 77 | 818 | 56 | 828 | 32 | 838 | 7 | 848 | 76 |
 | 809 | 84 | 819 | 63 | 829 | 39 | 839 | 14 | 849 | 83 |
 | **810** | **90, and it came down at four that afternoon** | 820 | 70 | 830 | 46 | 840 | 20 | **850** | **90, and it came down at four that afternoon** |
+
+**THE ROW IS NOT A RUN OF SEVENS AND IT BREAKS IN ONE PLACE, AT 804, WHICH IS SIX DAYS AFTER 803 AND NOT SEVEN: `3,260 − 3,209 = 51`, NOT 50.** The other forty-nine feet re-derive exactly against the anchor of their own quarter-end. A figure copied forward from the foot before it will be wrong at 804 and will look right, because forty-five to fifty to fifty-eight still climbs.
 
 ### 5c. CHAPTER-BY-CHAPTER DAYS.
 
@@ -304,19 +306,16 @@ SPINE, 801-850
 ```
 0001 801-810   7 7 6 7 6 7 6 7 6  = 59   and 3,299 - 3,240 = 59   seam 801-800 = 31
 0002 811-820   7 7 7 7 7 7 7 7 7  = 63   and 3,369 - 3,306 = 63   seam 811-810 =  7
-0003 821-830   7 7 6 6 7 6 7 6 7  = 59   and 3,435 - 3,376 = 59   seam 821-820 =  7
-0004 831-840   7 6 6 7 6 6 6 7 7  = 58   and 3,499 - 3,442 = 57? — CORRECTED BELOW
-```
-
-**CORRECTION, ENTERED HERE AND NOT LEFT FOR A BATCH TO FIND: the 0004 row above is wrong by one and the spine table is right.** 831 to 840 is nine intervals: 832:6, 833:6, 834:7, 835:6, 836:6, 837:6, 838:7, 839:7, 840:6 = **57**, and `3,499 − 3,442 = 57`. The printed `58` miscounts 837's six as seven. **The nine numbers are `6 6 7 6 6 6 7 7 6 = 57`.**
-
-```
+0003 821-830   7 6 6 7 6 7 6 7 7  = 59   and 3,435 - 3,376 = 59   seam 821-820 =  7
+0004 831-840   6 6 7 6 6 6 7 7 6  = 57   and 3,499 - 3,442 = 57   seam 831-830 =  7
 0005 841-850   7 7 7 7 7 7 7 7 7  = 63   and 3,569 - 3,506 = 63   seam 841-840 =  7
-VOLUME 17      302 inside the five batches, plus a seam of 31 and four seams of 7
-               = 302 + 31 + 28 = 361? — CORRECTED: 59+63+57+57+63 = 299, plus 31+28 = 358?
+VOLUME 17      301 inside the five batches, plus a seam of 31 and four seams of 7
+               = 301 + 31 + 28 = 360 = 3,569 - 3,209, exactly one year
 ```
 
-**SECOND CORRECTION, SAME HAND: the volume total is `59 + 63 + 59 + 57 + 63 = 301`, plus seams `31 + 7 + 7 + 7 + 7 = 59`, which is `360 = 3,569 − 3,209`.** 0003 is 59 (3,435−3,376=59: intervals 7 6 6 7 6 7 6 7 7 = 59). A nine-number list is wrong if it does not add to its own endpoints, and it is also wrong if it adds to them in the wrong order.
+**EVERY ROW IN THAT FENCE IS NOW RIGHT IN THE FENCE, WHICH IS WHERE A FIGURE THAT WILL BE RE-DERIVED HAS TO STAND.** Two of them were wrong when this outline was first written and both were corrected underneath themselves instead of inside them, which left the wrong figures standing in the place a writer reads first. 0003 had its intervals printed `7 7 6 6 7 6 7 6 7`, which adds to 59 in the wrong order, and 0004 was printed `58` where `3,499 − 3,442 = 57`, because 837's six had been counted as a seven. The lists above were then read one term at a time off the §5c spine table, and each of the five batches' nine terms adds to its own endpoints.
+
+**A nine-number list is wrong if it does not add to its own endpoints, and it is also wrong if it adds to them in the wrong order.** A sum that happens to land on the right total is not a proof that the terms are the terms.
 
 ---
 
