@@ -10,7 +10,7 @@
 **Required power changes:** none. Rank one throughout. No band, permission, standing or shift change. The reservoir is never drawn on and there is none to draw on. No gift is used as a mechanism anywhere in this batch.
 **Required world reveals:** the card's hours bound the answering and do not bound the asking, because the building has people in it all night; a refusal said in a passage belongs to everybody going past and to nobody standing still, and that is the only place a safe answer lives, and the book cannot take anything from it; a question asked at two in the morning by a person who was not in the room cannot be entered in the words used, and that is the first hole in the first practice in nine years; people want the office to record that they came, because a visit is the only proof left now that a refusal on paper is gone; correcting a copy makes a second copy and the second copy is worse; the head on a slate in a lane beside a man's sooner figure is the first time a figure from that office has been in a lane in nine hundred chapters.
 **Open questions after the batch:** whether a refusal given only in person survives being described afterwards; whether the waiting room at the end of a platform is an answer or only a hiding place; whether the sheet on the board at the foot of the hill is a person asking or a person posting; whether the office can go a whole quarter without knowing how many people come.
-**Distribution:** political/social 2 (937, 940) · character/relationship 3 (931, 933, 934) · discovery 3 (932, 935, 939) · recovery/payoff 1 (936, the corner) · action/survival 1 (932, at two in the morning). 933 is the scene. No training chapter in this batch.
+**Distribution:** political/social 3 (937, 938, 940) · character/relationship 3 (931, 933, 934) · discovery 3 (932, 935, 939) · recovery/payoff 1 (936, the corner). 933 is the scene. No training chapter in this batch. **THE REAL DEADLINE SITS INSIDE 932 AND IS COUNTED ONCE: a man about forty minutes from being back out on a night shift, at about two in the morning, in a building where about nine people are awake. 932 IS A DISCOVERY CHAPTER AND IS NOT ALSO THE ACTION CHAPTER.**
 
 **SPINE (from `outline/volume-19.md` §5c, re-stated not re-derived):** 931 4,158 (+7 seam) · 932 4,165 (+7) · 933 4,172 (+7) SCENE, **CROSSING** · 934 4,179 (+7) · 935 4,186 (+7) · 936 4,193 (+7) · 937 4,199 (+6) QUARTER-END · 938 4,206 (+7) **CROSSING** · 939 4,213 (+7) · 940 4,220 (+7) DECISION. Fence: interior nine `7 7 7 7 7 6 7 7 7 = 62`, `4,220 − 4,158 = 62`, seam `4,158 − 4,151 = 7` in its own column and not one of the nine.
 **THE TWO CROSSINGS AND THE EIGHT SAME-MONTH PAIRS:** 933 crosses (26 Aug to 3 Sep) and prints *the twenty-sixth of last month*, thirty less twenty-six is four, and four with three taken out of the next month is seven, with the crossing named as itself. 938 crosses (30 Sep to 7 Oct) and prints *the thirtieth of last month*, thirty less thirty is no days, and no days with seven taken out of the next month is seven, with the crossing named as itself. **The other eight print `the <N> of this one` with plain subtraction and take no crossing.**
@@ -101,7 +101,7 @@
 - **Ending type:** recovery with a new fact in his hands he cannot use. **Next-chapter pull:** the thirtieth of the month, a rail that breaks at four, and a man who has asked for nothing but is owed an answer by the third quarter's arithmetic.
 - **Title:** The Stone Holds Seven Hands (5 words).
 
-## CARD 937 — The Forty-Seventh Sheet
+## CARD 937 — Same Two Nails
 
 - **Chapter:** 937. **POV:** Lin Hao. **Location/time:** the room, then a lane off Cordwain, the thirtieth of September, quarter-end, from about eleven to about five.
 - **Immediate goal:** get the forty-seventh sheet into order and put the head of that standing sheet where the people who have been asking what it counts can check it, which means a lane, and means saying it out loud again.
@@ -112,9 +112,9 @@
 - **Power or resource change:** none.
 - **Continuity fact to preserve:** the forty-sixth comes down at four and the forty-seventh goes up on the same two nails with nothing new at the foot of it; the six office-hand lines and the second column of four stand; the head is a count of sheets and not of people and is not printed again anywhere in this batch; the sooner figure is not rubbed out and not argued and the third figure is not chalking.
 - **Ending type:** quarter-end with a figure in public and a rail reset. **Next-chapter pull:** the seventh of the month, a form on a board, and about nine strangers who have read a number and want the address that goes with it.
-- **Title:** The Forty-Seventh Sheet (4 words).
+- **Title:** Same Two Nails (3 words).
 
-## CARD 938 — The Seventh Of October
+## CARD 938 — Twelve Feet Off
 
 - **Chapter:** 938. **POV:** Lin Hao. **Location/time:** the board by the kerb and the four flights, the seventh of October, from about four.
 - **Immediate goal:** get past a man's question at a public board without turning that board into a second copy of the thing that is nailed to his own door four flights up.
@@ -125,7 +125,7 @@
 - **Power or resource change:** none.
 - **Continuity fact to preserve:** **no form ordinal is printed anywhere in this chapter or in this batch**; the form is a month's form and nothing more; the boy with the paste brush is not on the page; her sheet under the lower batten is not moved; the caption and the paragraph four hundred yards off are not reprinted as a transcript and no sentence of them is read out in full.
 - **Ending type:** reversal with a public cost. **Next-chapter pull:** a clerk who has been carrying a question since the eighth of the month and now has a number to put to him.
-- **Title:** The Seventh Of October (5 words).
+- **Title:** Twelve Feet Off (3 words).
 
 ## CARD 939 — Corrected Wrong Twice
 
@@ -140,7 +140,7 @@
 - **Ending type:** reversal that costs somebody else something. **Next-chapter pull:** a number she can have by Thursday, and what it is that she is going to use it for.
 - **Title:** Corrected Wrong Twice (3 words).
 
-## CARD 940 — The Comers Without A List (MOVEMENT DECISION)
+## CARD 940 — A Rule She Cannot Keep (MOVEMENT DECISION)
 
 - **Chapter:** 940. **POV:** Lin Hao. **Location/time:** the room with the door open and the passage, then the stair, the twenty-first of October, from about half past ten.
 - **Immediate goal:** answer a division return that wants one figure out of this office for a quarter, and find out whether a number about people is a smaller thing than a list about people.
@@ -151,4 +151,4 @@
 - **Power or resource change:** none.
 - **Continuity fact to preserve:** two refusals stand in that book and a third is not promised and this one does not become one; the card is not re-nailed and the hours do not change; the sooner figure stands and is not rubbed out and the third figure is still unchalked and owed; the drawer is sixty months shut and that is named once and is not an event; the book goes up at a quarter to ten and down at half past five and never stays upstairs overnight.
 - **Ending type:** irreversible decision with the cost spoken aloud in a passage and named before it is spent. **Next-chapter pull:** movement five, the door used by everybody, and about nine strangers a fortnight with no list behind them and nowhere to knock but a door.
-- **Title:** The Comers Without A List (5 words).
+- **Title:** A Rule She Cannot Keep (5 words).

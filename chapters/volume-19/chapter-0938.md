@@ -1,8 +1,8 @@
-# The Seventh Of October
+# Twelve Feet Off
 
 Four thousand and one hundred and ninety-nine was the thirtieth of last month and the seventh of this one is day four thousand and two hundred and six, and four thousand and two hundred and six less four thousand and one hundred and ninety-nine is seven, and thirty less thirty is no days, and no days with seven taken out of the next month is seven by the month count with the crossing named as itself.
 
-## The Form That Goes Up On The Seventh
+## Cold Paste And Two Empty Squares
 
 It goes up on the seventh, one a month, and it is a form with two ruled squares on it and about nine lines of printing and no name anywhere on it, and somebody comes up that hill about once a month and does that and nothing else.
 
@@ -12,7 +12,7 @@ The two ruled squares were empty. Under the lower batten, her sheet was held aga
 
 ## A Man Who Has Been At That Corner Twice
 
-He had come down the hill at about four and was still twenty feet short of the board when a man about forty came up beside it and said, without any preamble at all, that he had been trying to make that out since the middle of the afternoon.
+He had come down the hill at about four and was still twenty feet short of the board when a man came up beside it and said, without any preamble at all, that he had been trying to make that out since the middle of the afternoon.
 
 "I cannot make it out at this end. I have been to the top end and it is worse. There is about nine lines and two of them are under my thumb and one of them looks like a time."
 
@@ -52,7 +52,7 @@ Lin Hao stood about twelve feet off for the whole of it and did not say one word
 
 He could have stopped it at about the fourth minute. Any one of about nine people standing within earshot would have listened to a man in a white plate say that a card on a door had the address on it and the hours on it, and the reading would have stopped.
 
-He said nothing, and the reading went on, and at the end of it a young man of about twenty came up off the road and asked the man with the paper whether he had to put his name in the square.
+He said nothing, and the reading went on, and at the end of it a young man came up off the road and asked the man with the paper whether he had to put his name in the square.
 
 "You do not have to do anything. It says a person can."
 
@@ -60,11 +60,11 @@ He said nothing, and the reading went on, and at the end of it a young man of ab
 
 He wrote nothing down. He was standing on a hill with about nine people on it who now had a street, a door and two ends of an hour, and every one of them went away without writing anything down, and that is the only thing he wanted out of the twenty minutes.
 
-## What He Could Have Said At The Seventh Reading
+## What He Could Have Said At The End Of It
 
-The seventh time, the man with the paper got the whole of it right without being corrected, and he said so, and about four people clapped, which was not meant for the man with the paper.
+By the last of them the man with the paper got the whole of it right without being corrected, and he said so, and about four people clapped, which was not meant for the man with the paper.
 
-A woman of about thirty came up the hill while they were clapping and asked what was being read, and the man read it to her, and she said thank you, and went down the hill towards the district it is in.
+A woman came up the hill while they were clapping and asked what was being read, and the man read it to her, and she said thank you, and went down the hill towards the district it is in.
 
 He was about twelve feet off the whole of that and he had a clear view of the top of the hill from where he was standing.
 

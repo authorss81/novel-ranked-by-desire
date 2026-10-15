@@ -18,7 +18,7 @@ Somebody knocked.
 
 Not the office knock, which is two knuckles and a pause, because the people who live in that building do not use the office knock. Three knocks, ordinary, on a door at two in the morning, which is a door somebody lives behind.
 
-He went up the last flight. The man on the other side of it was about thirty, dressed for work with his collar up, and he had come in off a night shift and was not out of breath, and he knew exactly where he was.
+He went up the last flight. The man on the other side of it was dressed for work with his collar up, and he had come in off a night shift and was not out of breath, and he knew exactly where he was.
 
 "You are the man on the card," he said. "I have got about forty minutes before I have to be back out and I would rather say this standing up."
 

@@ -1,6 +1,6 @@
 # The Room That Cannot Wait
 
-Four thousand and one hundred and forty-four was the twelfth of this one and the nineteenth of this one is day four thousand and one hundred and fifty-eight, and four thousand and one hundred and fifty-eight less four thousand and one hundred and forty-four is seven, and nineteen less twelve is seven by the month count.
+Four thousand and one hundred and fifty-one was the twelfth of this one and the nineteenth of this one is day four thousand and one hundred and fifty-eight, and four thousand and one hundred and fifty-eight less four thousand and one hundred and fifty-one is seven, and nineteen less twelve is seven by the month count.
 
 ## Twenty Past Four
 
@@ -122,7 +122,7 @@ She had come at the wrong hour about a person and she went down four flights wit
 
 Nobody up those four flights can say whether she told her sister about the offer or not. He put it in the passage on purpose, so that the reason would travel instead of the hours, and what it travelled to was a passage of a building, and a woman going down a stair with her coat on.
 
-Four thousand and one hundred and fifty-eight days. Less four thousand and one hundred and forty-four, the twelfth of this one, is seven, and a row about a person stood on that table with nothing under the hour in it and would stand there until that building came down, and a man in a white plate said out loud on four narrow flights that he would come to a house, and about nine people heard it.
+Four thousand and one hundred and fifty-eight days. Less four thousand and one hundred and fifty-one, the twelfth of this one, is seven, and a row about a person stood on that table with nothing under the hour in it and would stand there until that building came down, and a man in a white plate said out loud on four narrow flights that he would come to a house, and about nine people heard it.
 
 *Less four thousand and one hundred and nine, the thirtieth of June, is forty-nine, and the forty-sixth sheet has been face up on that rail for every one of the last forty-nine of them, and it does not move until the thirtieth of this month.*
 

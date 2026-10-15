@@ -496,11 +496,11 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 | 904 | The First Stranger By Card | 914 | The Hand That Takes It | 924 | The Forty-Sixth Sheet | 934 | The Sheet She Leaves Alone | 944 | Twenty Years Without Scoring |
 | 905 | The Rail Tells Strangers | 915 | The Midnight Knocking | 925 | Seven Days Out Of June | 935 | The Row She Leaves Alone | 945 | Twenty Years Of Remembering |
 | 906 | A Third Figure In Chalk | 916 | The Figure Without A Holder | 926 | The Copy Asked Plainly | 936 | The Stone Holds Seven Hands | 946 | Three Lines In Winter |
-| 907 | The Hours Copied Wrong | 917 | Nine Ways To Make A List | 927 | Refused In Writing Again | 937 | The Forty-Seventh Sheet | 947 | The Worn Card Read Back |
-| 908 | Paste Four Days Old | 918 | The Telling Priced Right | 928 | The Heavier Refusal | 938 | The Seventh Of October | 948 | The Board Bare With Paste |
+| 907 | The Hours Copied Wrong | 917 | Nine Ways To Make A List | 927 | Refused In Writing Again | 937 | Same Two Nails | 947 | The Worn Card Read Back |
+| 908 | Paste Four Days Old | 918 | The Telling Priced Right | 928 | The Heavier Refusal | 938 | Twelve Feet Off | 948 | The Board Bare With Paste |
 | 909 | About Nine Who Knock Wrong | 919 | The Sooner Figure Stands | 929 | Perla Prices The Copy | 939 | Corrected Wrong Twice | 949 | The Last Asking Of The Year |
-| **910** | **The Winter Mornings Kept** | **920** | **He Lets The Slate Stand** | **930** | **The Second Refusal Stands** | **940** | **The Comers Without A List** | **950** | **The Card Renewed** |
+| **910** | **The Winter Mornings Kept** | **920** | **He Lets The Slate Stand** | **930** | **The Second Refusal Stands** | **940** | **A Rule She Cannot Keep** | **950** | **The Card Renewed** |
 
 **THE FIVE IN BOLD IN THE THIRD ROW ARE SCENES: 903, 913, 923, 933, 943. 910, 920, 930, 940 AND 950 ARE THE FIVE IRREVERSIBLE DECISIONS, ALL FIVE HIS, AND THE ONE AT 950 IS THE VOLUME'S.**
 
-**ONE TITLE CARRIES A FLAG A BATCH MUST HONOUR: 938's ordinal is the one hundred and twenty-second form's month and is not an event. THE COUNT IS CARRIED FORWARD OFF VOLUME 18's OWN PRINTED CHAIN, WHICH ENDS AT THE HUNDRED-AND-THIRTEENTH ON THE SEVENTH OF DECEMBER y11, AND THE RUN OF THIS VOLUME IS THE HUNDRED-AND-FOURTEENTH ON THE SEVENTH OF FEBRUARY y12 THROUGH THE HUNDRED-AND-TWENTY-FOURTH ON THE SEVENTH OF DECEMBER y12, WITH NO FORM ON THE SEVENTH OF A JANUARY.**
+**ONE TITLE CARRIES A FLAG A BATCH MUST HONOUR: 938 falls on the one hundred and twenty-second form's month and is not an event. **THE TITLE ITSELF WAS CHANGED IN THE BATCH-0004 REVIEW-FIX PASS AND IS NOW `Twelve Feet Off`, BECAUSE `The Seventh Of October` WAS A DATE AND A DATE IS NOT A TITLE; THE MONTH'S FORM STILL GOES UP ON THE SEVENTH AND IS STILL NOT AN EVENT.** THE COUNT IS CARRIED FORWARD OFF VOLUME 18's OWN PRINTED CHAIN, WHICH ENDS AT THE HUNDRED-AND-THIRTEENTH ON THE SEVENTH OF DECEMBER y11, AND THE RUN OF THIS VOLUME IS THE HUNDRED-AND-FOURTEENTH ON THE SEVENTH OF FEBRUARY y12 THROUGH THE HUNDRED-AND-TWENTY-FOURTH ON THE SEVENTH OF DECEMBER y12, WITH NO FORM ON THE SEVENTH OF A JANUARY.**

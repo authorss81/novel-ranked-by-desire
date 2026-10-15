@@ -116,7 +116,7 @@ Wenna Raut had the pen in her hand and she had it over the page and she stopped.
 
 He did not offer the sheet to anybody else that week, and he did not put it away, and he did not throw it out, and it is still on that table because it is the twenty-sixth thing on that table and nothing is taken off it and nothing is put on it.
 
-At about half past four a woman of about sixty came up with a man of about thirty and neither of them had any paper, and he heard himself tell them that the hours were the hours on the door and that the office would not put them on anything, and then he heard himself say the second sentence, the one from the twentieth past four, about being able to come up and say a thing and have a person in the room write it down.
+At about half past four a woman came up with a man behind her and neither of them had any paper, and he heard himself tell them that the hours were the hours on the door and that the office would not put them on anything, and then he heard himself say the second sentence, the one from the twentieth past four, about being able to come up and say a thing and have a person in the room write it down.
 
 He did not get the sheet out of his coat because it is not in his coat. It is on the table, about three feet from his right hand, in the middle of that room, where it has been for about three years.
 
