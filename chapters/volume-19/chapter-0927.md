@@ -1,6 +1,6 @@
 # Refused In Writing Again
 
-Four thousand and one hundred and twenty-three was the fourteenth of last month and the twenty-first of this one is day four thousand and one hundred and thirty, and four thousand and one hundred and thirty less four thousand and one hundred and twenty-three is seven, and twenty-one less fourteen is seven by the month count.
+Four thousand and one hundred and twenty-three was the fourteenth of this one and the twenty-first of this one is day four thousand and one hundred and thirty, and four thousand and one hundred and thirty less four thousand and one hundred and twenty-three is seven, and twenty-one less fourteen is seven by the month count.
 
 ## Three Days After The Wall
 
@@ -112,7 +112,7 @@ She cannot go into a room and shut a door, and she will not be able to be kind a
 
 One refusal in a book, entered in that office's own hand because that office said it out loud, and a division building four hundred yards off that has been told twice now in writing that this office does not answer in writing, and a woman who went to a door at eight o'clock on the ninth of the month and came back able to report it.
 
-Four thousand and one hundred and thirty days. Less four thousand and one hundred and twenty-three, the fourteenth of last month, is seven, and a clerk answered a man before the man who owns the room did, and the office entered the reason for a refusal for the first time in nine years, and it cost her the door and him the proof.
+Four thousand and one hundred and thirty days. Less four thousand and one hundred and twenty-three, the fourteenth of this one, is seven, and a clerk answered a man before the man who owns the room did, and the office entered the reason for a refusal for the first time in nine years, and it cost her the door and him the proof.
 
 *Less four thousand and one hundred and nine, the thirtieth of June, is twenty-one, and the forty-sixth sheet has been face up on that rail for every one of the last twenty-one of them, and it does not move until the thirtieth of September.*
 

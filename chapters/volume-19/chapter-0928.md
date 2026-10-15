@@ -1,6 +1,6 @@
 # The Heavier Refusal
 
-Four thousand and one hundred and thirty was the twenty-first of last month and the twenty-eighth of this one is day four thousand and one hundred and thirty-seven, and four thousand and one hundred and thirty-seven less four thousand and one hundred and thirty is seven, and twenty-eight less twenty-one is seven by the month count.
+Four thousand and one hundred and thirty was the twenty-first of this one and the twenty-eighth of this one is day four thousand and one hundred and thirty-seven, and four thousand and one hundred and thirty-seven less four thousand and one hundred and thirty is seven, and twenty-eight less twenty-one is seven by the month count.
 
 ## The Person Who Was Entitled To Ask
 
@@ -114,7 +114,7 @@ Two refusals in a book and a paragraph on a wall four hundred yards off and a fi
 
 And somewhere in that building a clerk had thrown six of his slips in the wrong bin in a fortnight and watched the cart go out, and had told nobody at all, and would not be thanked for it.
 
-Four thousand and one hundred and thirty-seven days. Less four thousand and one hundred and thirty, the twenty-first of last month, is seven, and a division building asked for what an office is in writing and was given three sentences for ever, and the clerk named the price of them out loud in a room with the door open before they were written.
+Four thousand and one hundred and thirty-seven days. Less four thousand and one hundred and thirty, the twenty-first of this one, is seven, and a division building asked for what an office is in writing and was given three sentences for ever, and the clerk named the price of them out loud in a room with the door open before they were written.
 
 *Less four thousand and one hundred and nine, the thirtieth of June, is twenty-eight, and the forty-sixth sheet has been face up on that rail for every one of the last twenty-eight of them, and it does not move until the thirtieth of September.*
 

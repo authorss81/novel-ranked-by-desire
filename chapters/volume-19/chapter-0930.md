@@ -1,6 +1,6 @@
 # The Second Refusal Stands
 
-Four thousand and one hundred and forty-four was the fifth of last month and the twelfth of this one is day four thousand and one hundred and fifty-one, and four thousand and one hundred and fifty-one less four thousand and one hundred and forty-four is seven, and twelve less five is seven by the month count.
+Four thousand and one hundred and forty-four was the fifth of this one and the twelfth of this one is day four thousand and one hundred and fifty-one, and four thousand and one hundred and fifty-one less four thousand and one hundred and forty-four is seven, and twelve less five is seven by the month count.
 
 ## The Request That Was Already Reasonable
 
@@ -72,9 +72,9 @@ The man listened to all of it and then said, "You could have just written it."
 
 "Two sheets and a fortnight."
 
-"Then you are the only office in this city I have ever had to come up four flights for," said the man, "and I have come up them twice, and I am going to be back on Friday because I have got nothing else to do about it and because my sister will not believe me and I would like to be able to say that I went again."
+"Then you are the only office in this city I have ever had to come up four flights for," said the man, "and I have come up them twice, and I am going to be back in a week because I have got nothing else to do about it and because my sister will not believe me and I would like to be able to say that I went again."
 
-He went down with nothing. He said that on the Friday too, and on the Friday after that, and he was still coming in the middle of the next quarter with nothing in his hand, and this office refused him in person about two hundred times in the next two years, which is a number that was never written down.
+He went down with nothing. He came up again a week after, with nothing, and a week after that, with nothing, and he was still coming in the middle of the next quarter with nothing in his hand, and this office refused him in person on every one of those mornings, and about how many of them there were was never written down.
 
 ## Down The Hill, Where A Man Keeps Nine Stools
 
@@ -108,7 +108,7 @@ The demand travels further than the refusal. It always did.
 
 It travels about nine people a fortnight, and out to about nine more for every one of them, and there is a wall four hundred yards off that will keep saying in seventy words that this office does not answer in writing, and now the wall is right.
 
-Four thousand and one hundred and fifty-one days. Less four thousand and one hundred and forty-four, the fifth of last month, is seven, and the second written refusal stands and a third is not promised, and the only way this office will ever say no to somebody again is by being in front of them.
+Four thousand and one hundred and fifty-one days. Less four thousand and one hundred and forty-four, the fifth of this one, is seven, and the second written refusal stands and a third is not promised, and the only way this office will ever say no to somebody again is by being in front of them.
 
 *Less four thousand and one hundred and nine, the thirtieth of June, is forty-two, and the forty-sixth sheet has been face up on that rail for every one of the last forty-two of them, and it does not move until the thirtieth of September.*
 

@@ -1,6 +1,6 @@
 # The Copy Asked Plainly
 
-Four thousand and one hundred and sixteen was the seventh of last month and the fourteenth of this one is day four thousand and one hundred and twenty-three, and four thousand and one hundred and twenty-three less four thousand and one hundred and sixteen is seven, and fourteen less seven is seven by the month count.
+Four thousand and one hundred and sixteen was the seventh of this one and the fourteenth of this one is day four thousand and one hundred and twenty-three, and four thousand and one hundred and twenty-three less four thousand and one hundred and sixteen is seven, and fourteen less seven is seven by the month count.
 
 ## Two On The Landing And A Third
 
@@ -118,7 +118,7 @@ The second of the two also said that this office keeps no roll of who comes thro
 
 And in a street two districts off there is a piece of paper in a woman's hand, folded twice and opened out again, with a building's name and the words RETURNS DESK at the bottom of it in a different hand, and a girl of about nine is going to be on that step on a working morning two hours before that office opens.
 
-Four thousand and one hundred and twenty-three days. Less four thousand and one hundred and sixteen, the seventh of last month, is seven, and a division building was refused three lines of hours to its face at about eleven in the morning and was given seventy words to put on a wall instead, and about nine people a fortnight still arrive once at the wrong end of the hours.
+Four thousand and one hundred and twenty-three days. Less four thousand and one hundred and sixteen, the seventh of this one, is seven, and a division building was refused three lines of hours to its face at about eleven in the morning and was given seventy words to put on a wall instead, and about nine people a fortnight still arrive once at the wrong end of the hours.
 
 *Less four thousand and one hundred and nine, the thirtieth of June, is fourteen, and the forty-sixth sheet has been face up on that rail for every one of the last fourteen of them, and it does not move until the thirtieth of September.*
 

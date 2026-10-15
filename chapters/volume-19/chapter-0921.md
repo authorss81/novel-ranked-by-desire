@@ -1,6 +1,6 @@
 # The Lane Prices The Door
 
-Four thousand and eighty-two was the third of last month and the tenth of this one is day four thousand and eighty-nine, and four thousand and eighty-nine less four thousand and eighty-two is seven, and ten less three is seven by the month count.
+Four thousand and eighty-two was the third of this one and the tenth of this one is day four thousand and eighty-nine, and four thousand and eighty-nine less four thousand and eighty-two is seven, and ten less three is seven by the month count.
 
 ## The Fold In His Hand
 
@@ -130,7 +130,7 @@ Then he went up four flights again, because the book goes down at half past five
 
 This office has no way of reaching a person who keeps hours until six, and is not going to get one, and the card that promised otherwise is the thing he nailed up, and the promise was true about the building and was not true about the city.
 
-Four thousand and eighty-nine days. Less four thousand and eighty-two, the third of last month, is seven, and an answer was taken in one hand after ninety minutes, and a man stood at a third stool and did not sit down.
+Four thousand and eighty-nine days. Less four thousand and eighty-two, the third of this one, is seven, and an answer was taken in one hand after ninety minutes, and a man stood at a third stool and did not sit down.
 
 *Less four thousand and nineteen, the thirtieth of March, is seventy, and the forty-fifth sheet has been face up on that rail for every one of the last seventy of them, and it does not move until the thirtieth of this month.*
 

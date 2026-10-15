@@ -1,6 +1,6 @@
 # The Forty-Sixth Sheet
 
-Four thousand and one hundred and three was the twenty-fourth of last month and the thirtieth of this one is day four thousand and one hundred and nine, and four thousand and one hundred and nine less four thousand and one hundred and three is six, and thirty less twenty-four is six by the month count.
+Four thousand and one hundred and three was the twenty-fourth of this one and the thirtieth of this one is day four thousand and one hundred and nine, and four thousand and one hundred and nine less four thousand and one hundred and three is six, and thirty less twenty-four is six by the month count.
 
 ## Four Floors Down And About Four Hundred Yards Off
 
@@ -114,7 +114,7 @@ He went up four flights empty-handed and stood at the end of that table with the
 
 The book went down at half past five and was in the flat file by ten past, and the lamp on the bar in that room with no window was still on, and a column of quarter figures was going onto a wall in a division four hundred yards off with four words under one of them that he had said out loud in the voice that office reads everything in.
 
-Four thousand and one hundred and nine days. Less four thousand and one hundred and three, the twenty-fourth of last month, is six, and the head stood in a room with no window for the second time since the thirtieth of March, and thirty sheets and twenty-nine quarters went into an index with a caption under one of them, and the forty-fourth came off that rail at four and the forty-sixth went up on the same two nails.
+Four thousand and one hundred and nine days. Less four thousand and one hundred and three, the twenty-fourth of this one, is six, and the head stood in a room with no window for the second time since the thirtieth of March, and thirty sheets and twenty-nine quarters went into an index with a caption under one of them, and the forty-fourth came off that rail at four and the forty-sixth went up on the same two nails.
 
 *Less four thousand and nineteen, the thirtieth of March, is ninety, and the forty-fifth sheet was face up on that rail for every one of the last ninety of them, and it came down at four this afternoon and the forty-sixth went up on the same two nails carrying nothing new.*
 

@@ -1,6 +1,6 @@
 # The Returns Desk
 
-Four thousand and ninety-six was the seventeenth of last month and the twenty-fourth of this one is day four thousand and one hundred and three, and four thousand and one hundred and three less four thousand and ninety-six is seven, and twenty-four less seventeen is seven by the month count.
+Four thousand and ninety-six was the seventeenth of this one and the twenty-fourth of this one is day four thousand and one hundred and three, and four thousand and one hundred and three less four thousand and ninety-six is seven, and twenty-four less seventeen is seven by the month count.
 
 ## The Half-Landing Between Two Floors
 
@@ -124,7 +124,7 @@ Then she put her hand back on him and made him come, and he did, hard, with the 
 
 ## What She Wanted Out Of Him
 
-She got a cup out of a tap against the far wall and gave it to him and sat down on the boards with her back against a cage and let her knees go.
+She got a cup out of a tap against the far wall and gave it to him and went down onto the boards with her back against a cage and let her knees go.
 
 "I am going to ask you for a thing and you are going to refuse me and I want it refused fast."
 
@@ -160,7 +160,7 @@ He got his coat off the boards.
 
 "You are going to say something out loud in the next six days," said Wren Kallo, "and somebody in this division is going to need a caption for it, and I am telling you now so that you are not surprised and so that you know I have thought about it for longer than this morning."
 
-Four thousand and one hundred and three days. Less four thousand and ninety-six, the seventeenth of last month, is seven, and about nine wrong slips came in at a returns desk in six weeks because a person holding a bad slip takes it to the counter it names, and a clerk stopped sending them up four flights, and the copy of a thing left on a landing has no floor and therefore can never be corrected by anybody.
+Four thousand and one hundred and three days. Less four thousand and ninety-six, the seventeenth of this one, is seven, and about nine wrong slips came in at a returns desk in six weeks because a person holding a bad slip takes it to the counter it names, and a clerk stopped sending them up four flights, and the copy of a thing left on a landing has no floor and therefore can never be corrected by anybody.
 
 *Less four thousand and nineteen, the thirtieth of March, is eighty-four, and the forty-fifth sheet has been face up on that rail for every one of the last eighty-four of them, and it does not move until the thirtieth of this month.*
 
