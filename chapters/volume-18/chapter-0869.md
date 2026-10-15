@@ -1,116 +1,115 @@
 # The Office Says Nothing
 
-Three thousand seven hundred and eight was the nineteenth of the month before this one and the third of this one is day three thousand seven hundred and twenty-two, and three thousand seven hundred and twenty-two less three thousand seven hundred and eight is fourteen, and out of a month that begins on the first, thirty less nineteen plus three is fourteen.
+Three thousand seven hundred and fifteen was the twenty-sixth of this month and the third of the next is day three thousand seven hundred and twenty-two, and three thousand seven hundred and twenty-two less three thousand seven hundred and fifteen is seven, and thirty less twenty-six plus three is seven by the month count.
 
-## A Brother Eleven Streets Off
+## The Woman Who Came Up Because Of A Rail
 
-He came up at about eleven with a document of lease in a hand that was not his own and a question that was not about it.
+She came up at eleven on the third of this month and she had not been in that room in her life and she had a paper in her hand because she had walked from a lane with something on a rail in her head.
 
-“My brother,” he said. “He is alive. That is the first thing. He has been alive since the second year of that district and he is alive this morning and he is eleven streets off this building and he works from about five in the morning until about six at night and he has never heard of this office in his life and he never will hear of it from me, because I did not know it existed until a week ago.”
+She is about thirty and she has a child with her, which has never been brought up those four flights, and she put the child on the bench by the door before she said anything.
 
-He put the lease down and did not take his hand off it.
+“A woman at a rail under a window told me,” she said, “that the man in the white plate in this building spends four nights out of seven washing other people’s floors at an office off a third court. I want to know whether this office holds anything about him.”
 
-“I want to tell you that I understand what you are going to say,” he said. “I want to tell you that before you say it. I have known for about a week what you are going to say and I have come up four flights to hear it anyway, because there is nowhere else in this city I could take a document of lease that belongs to my brother.”
+Wenna Raut put her hands on the wood and then took them off it.
 
-“Does he know that a piece of paper of his came through this door.”
+“I cannot tell you that,” she said.
 
-“No,” said the man. “That is the second thing. He does not know, and would not know what to do with it if he did, and will not come up four flights, and you are going to tell me that you cannot read it out without him standing there.”
+## The Reason, Which Is The Twentieth Of October
 
-## The Rule, Which She Gave Without Explaining It
+“Then tell me why not.”
 
-She said it in the flat voice, standing at that table with her back to the open door so that about four people in the corridor heard it, which she does not usually do.
+Wenna Raut said it out loud and she said it in the voice she reads everything in, and about four people were in the passage outside that door.
 
-“There is no answer,” she said, “and I am not going to tell you why you already know why.”
+“It is the twentieth of October of last year,” she said. “A woman came up four flights on the sixteenth of that month and wanted to know whether a man living on the second floor had ever put a question in here, and I entered the question and the refusal, because a clerk enters what she is given.”
 
-“That is not an answer.”
+“And then.”
 
-“It is the only one this room has,” said Wenna Raut, “and I gave it to you in the same voice a few minutes ago about your own paper and you can hear that it is the same voice.”
+“And then, on the twentieth of that month, a man stood at that table and decided that a question about a question is not entered. Not the answer and not the refusal. Nothing.”
 
-He stood there.
+She turned round.
 
-He was going to stand there while that room said nothing about a living man eleven streets off it because the man had not come up four flights, and he had stood at the end of that table while about four people went past for about eleven minutes doing exactly that.
+“That is two hundred and twenty-three days ago and it is the reason I cannot tell you whether there is a row about a man. If I say there is not, then a person who knew better has just been told a false thing by this office. And if I say there is, then a stranger can put a name against a date and an hour in a book, and that is the one thing that book has never been.”
 
-“I am not going to stand here while we say nothing,” he said.
+“Who knows better.”
 
-## About Eleven Minutes Of The Room Saying Nothing
+“Whoever you are asking about, and me, and the man at the end of that table, and that is three people in a room and none of them can be in two places at once.”
 
-He did not go and stand outside. He stayed where he was, at the end of that table, for about eleven minutes, and the room went on doing what it does on an ordinary morning, and about four people went past the open door, and two of them stopped for a moment when they heard it and the other two did not.
+## Two Hundred And Twenty-Three Days
 
-In the eleven minutes a woman came in about a paper, got an answer in about nine minutes, said thank you and went out again. A man came in about a boundary and got four lines and went out. He was spoken to by nobody at all, because he was not a visitor and none of it was his business, and he had stood at the end of that table on nine different mornings this year saying things out loud in a room anybody can walk into.
+“Seven months and thirteen days,” said Lin Hao.
 
-“You are standing in a room being right,” said Wenna Raut. “There is about four people going past and not one of them can hear a difference between that and any other morning.”
+He said it standing up at the end of that table and the number was out before he had decided to say a number.
 
-## The Reason, Which Is A Date
+“Three thousand seven hundred and twenty-two less three thousand four hundred and ninety-nine is two hundred and twenty-three, and two hundred and twenty-three is seven months and thirteen days after the twentieth of October of last year, and in all of that time that practice has cost that room a woman at a desk who cannot say the same sentence twice in a week, and it has cost an unknown number of women like the one standing in front of you.”
 
-Wenna Raut did not look up from the page she was not working on.
+Three people in that room said nothing at all.
 
-“Then you will want the reason and it is a date and it is your own hand, and I am not going to soften it because you are standing there with a plate in your coat.”
+“You have been letting it go for two hundred and twenty-three days,” said Wenna Raut, “and on the twenty-eighth of April you wrote a figure on your own hand, and on the twelfth of this month you said out loud at that table that you were going to keep it, and I have not said one word about either, because I did not want to be the person who made you say a third thing.”
 
-“This office cannot send anybody to anybody. Not a clerk, not you, not anybody. There is no instruction in this city that lets a person leave that room and say that somebody has been asking after them. Not for a sick person. Not for a person who is ashamed. Not for a person who works from five in the morning until six at night and would have to lose a day to come up a stair and would not lose it.”
+“I know you did not.”
 
-“The reason it cannot send anybody is that on the twentieth of October of year ten the instrument that would have told this office who was asking about whom was closed, on your order, in that room, with the door open. Two hundred and twenty-three days ago.”
+“I am going to say a third thing now,” said Wenna Raut. “This office says nothing about a person who is not in this room, and it has been saying that for nine years, and every word of it is correct, and you are the only person in Ostara who can break it and you are not going to, because breaking it in a room with the door open is what you do instead of doing it in a book.”
 
-“That is seven months and thirteen days, by the month count and by the day count, and I put both of them in the same breath because the last time I gave one of those two numbers to anybody I was wrong and I was corrected at the figure.”
+## What He Did
 
-“I closed it.”
+She was wrong and he knew it and she knew he knew it and neither of them said so.
 
-“You closed it and I entered what you gave me and I did not improve it,” said Wenna Raut, “and it was the right decision on that morning and it has cost this office about four people since and it is costing it one now, and it is not the office that decided that this morning. I am a clerk in a room.”
+He stood at the end of that table with the child on the bench by the door and the woman standing in front of him and about four people in the passage, and he said it out loud in the ordinary voice, not the voice he keeps for that end of the table.
 
-## What He Would Have Had To Do Instead
+“Yes,” he said. “There is one row. It has a date and an hour on it and a space in the middle of it where nothing has ever been written, and it is about the twenty-third of August of the ninth year.”
 
-“And if it had not been closed.”
+“I am the man who works nights on that third court and it is me, and I did not know that was on the page until a man with a bundle asked me about it a fortnight ago. I have not put a word in that space and I am not going to.”
 
-“Then this office would have known that a man with a document of lease had come up four flights twice about a brother, and it would have had about nine days in which to work out how to reach him, and it would not have reached him, because no clerk is going out of that door, and I am not going out of that door for anybody.”
+The child said something to the woman and the woman did not answer it.
 
-She stopped. “But you would have had to decide that instead of deciding it was not possible, and deciding that a thing is impossible is about nine times cheaper than deciding to do it, and that is the whole of what you gave that office on the twentieth of October.”
+“You have broken it,” said Wenna Raut.
 
-“That is an argument against me.”
+“I have broken it in a corridor with four people in it, which is the only place I have ever broken anything in nine years.”
 
-“It is an argument against a date,” said Wenna Raut. “It happens to be yours.”
+“Yes,” she said. “You have. And you have not written a word of it down, and neither am I, and that means that in about four years this office will be able to say that it holds a row with a space in it and this city will not be able to say whether that row has anything under it.”
 
-## What He Said At The End Of That Table
+“That is better than what it was.”
 
-“You are right and I have been standing in that corridor being right at about four people at a time since the thirtieth of March,” said Lin Hao, “and I am going to say it here, in a room anybody can walk into, and roughly four people going past are going to get every word of it, and I am not going to improve it afterwards.”
+“It is much worse than what it was,” said Wenna Raut, “and you have paid for it out loud, which is at least a thing you are good at.”
 
-“If that room says nothing about your brother then your brother is a man this city has never asked anything about, and that is the safest condition a person can be in, and it is the condition this office was built to protect, and it is not going to be protected by me standing here.”
+## The Four People In The Passage
 
-“It is going to be protected by somebody carrying a sentence to him, because that is the only door that has ever been left open in nine years and I have had my back against it since the second year.”
+What the four people in that passage did with the next twenty minutes is their own.
 
-## The Door That Is Left Open
+Two of them were going up to a room on the second floor and neither said anything about it, and both took the stair the whole way rather than the hoist, which is about nine feet further and which they have never once done.
 
-The man looked at the back of him for a while.
+One of the other two is a woman who brings her paper up the first week of every month and who will say, in about four years, that she heard it said out loud in a passage, and that question cannot be put, because it is a question about a thing she heard.
 
-“Then say it to me,” he said. “Say what the office holds about my brother, in words, out loud, and I will take it to him tonight and I will come up here again in about four days and tell you whether he believed me or not.”
+The fourth has not been identified and is not going to be.
 
-“You will not need to come up again.”
+He said it in the ordinary voice and not the one he keeps for the end of that table, because a thing said in that voice is a decision and a thing said in the ordinary voice is a fact, and at about eleven in the morning on the third of this month he needed it to be a fact badly enough to put it in the wrong voice on purpose, and Wenna Raut heard him do it and has never mentioned it.
 
-“I will come up again anyway,” said the man. “Because if he does not believe me then you have told a stranger what a room four floors up said about him, and I am not going to be the only man in this city who knows it.”
+## What It Costs Her, Said Out Loud
 
-Lin Hao did not answer that for about nine seconds, and the man did not wait for him.
+“About four days a month I cannot say what we said,” said Wenna Raut, when the woman and the child were at the bottom of the stair. “That is a year and a half of my working life that has gone in about four days a month, and on those days I say it anyway and I cannot tell whether what I am saying is the row or my own memory of the row, and those two have been different to me for a long time.”
 
-## At The Bottom Of Four Flights
+“That is not what this morning was.”
 
-At about half past eleven he went down his own four flights and the man went up the street ahead of him, and neither of them said the number of the floor out loud on the pavement and neither of them said the name of anything, and about four hundred yards away a woman at a rail had said both of those things about nine times in a fortnight.
+“No,” she said. “It was, in a way. Because in about four days from now I am going to have to say out loud that a man in a white plate told a woman in a passage that he is the man in the row, and a stranger will put it to me in about four years, and I will have to say that I believe he did, and there will be a date and an hour on the page and my word against nothing.”
 
-He stood at the bottom of the stair in the yard and let the man get to the corner.
+He had nothing to offer her.
 
-The answer he had wanted for four days was a man carrying a sentence to somebody's brother.
+“All right,” he said.
 
-The reason it was an answer was that a sentence is the only thing in this city that goes down a street without becoming a list, and the reason it was the answer was the same reason it was a danger,
+“All right,” said Wenna Raut, “and you have said it, and I am going to be careful with it for about four years, and in four years you are going to be asked by somebody whether it was true and you are going to have to decide again, and this time you will not have a passage.”
 
-and no clause anywhere in nine years of that room told the difference between the two, and he had asked for the answer and the man had found it in about four minutes and it had taken him a fortnight to find it from the outside.
+## At The Bottom Of His Own Stair
 
-And the man was right about the second half of it as well, and had been right about it while he was still standing in the room, which Lin Hao had not been able to think about until about half past eleven.
+He went down at about half past four and the woman went down ahead of him with the child and neither of them said anything on any of the four flights.
 
-He went back up the four flights with nothing in either hand.
+At the bottom of that stair, where the stone goes down into a yard, a woman he had never seen was standing with a bundle of cloth on her arm, waiting for somebody who was not coming, and she looked up at him as he came out into the open and said, “That is the office, is it.”
 
-*Three thousand seven hundred and twenty-two days.
+He said nothing.
 
-Less three thousand seven hundred and eight, the nineteenth of the month before this one, is fourteen, and a man asked about a brother who is alive and eleven streets off, and this office said nothing, and the reason this office said nothing is a date on the twentieth of October of year ten,
+She said it a second time, not to him, the way a person says a thing to a street, and then she went along about four hundred yards and turned into a lane and was gone, and he stood in that yard for about nine seconds and then went down the hill and along and across to a branch office off a third court where a woman whose name is on his rota page was coming off at about half past five.
 
-and two hundred and twenty-three days is seven months and thirteen days, and the answer is a sentence carried to a door by a man who has been up four flights and has never heard the number of the floor.*
+*Three thousand seven hundred and twenty-two days. Less three thousand seven hundred and fifteen, the twenty-sixth of this month, is seven, and less three thousand four hundred and ninety-nine, the twentieth of October of last year, is two hundred and twenty-three days, which is seven months and thirteen days, and a man standing at the end of that table said out loud in a room with the door open that he is the man in the row with a space in the middle of it.*
 
 *Less three thousand five hundred and sixty-nine, the thirtieth of December, is sixty-three, and the forty-first sheet has been face up on that rail for every one of the last sixty-three of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand three hundred and two days, which is forty-three months and twelve days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-

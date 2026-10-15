@@ -1,122 +1,135 @@
 # A Finger On The Page
 
-Three thousand six hundred and eighty-seven was the twenty-eighth of the month before this one and the fifth of this one is day three thousand six hundred and ninety-four, and three thousand six hundred and ninety-four less three thousand six hundred and eighty-seven is seven, and out of a month that begins on the first, thirty less twenty-eight plus five is seven.
+Three thousand six hundred and eighty-seven was the twenty-eighth of this month and the fifth of the next is day three thousand six hundred and ninety-four, and three thousand six hundred and ninety-four less three thousand six hundred and eighty-seven is seven, and thirty less twenty-eight plus five is seven by the month count.
 
-## What Turning A Page Turns
+## What She Cut
 
-He put it on the table at about nine on the second morning of this month and four people heard it going past the open door, and it took about eleven seconds to say.
+She cut a strip of stiff grey card about the width of four lines and about nine inches long, out of the back of a requisition book that had been superseded, and squared the ends of it against the edge of the table with a knife she did not have to sharpen.
 
-When a page turns it takes three rows with it. The row above and the row below and the one in the middle, and the row above is not the row in the middle and belongs to somebody in this city who is not in the room and who has not been asked whether their row may be read.
+“I am not entering this anywhere,” she said, “and the strip is not a page and it is not a copy of anything, and when it is finished with it goes in that drawer and nothing goes on it.”
 
-“That is the whole of what happened,” he said. “And it happened because I promised a page and not a row, and I said the word *page* on the thirtieth of March in a corridor with about four people in it.”
+“What is it for.”
 
-“I am not going to have the page,” said Wenna Raut.
+“It is for putting over a page,” said Wenna Raut. “Everything except one row. You get the row and you get the paper around it.”
 
-## The Fix, Which Is Better Than His
+“That is the whole of the idea.”
 
-She had it ready. She had it ready before he came up that morning and she had it ready before the middle of the month and he worked out afterwards that she had had it ready since the second of April, and had not offered it, because he had not asked her anything.
+“That is the whole of the idea and I have had it since the fourteenth of April and I have not brought it up sooner because on the fourteenth of April I did not yet know what it was a fix for.”
 
-“A finger,” she said. “Here. And the page does not turn and the finger does not move and I read one row and stop, and when I have read the row I say that is the row and that is the end of it, and I put the book down.”
+## The Ninety Seconds
 
-“That is not what I promised a woman in March.”
+She tried it on a man who had asked about a paper of his own and got the row in about nine minutes.
 
-“No,” said Wenna Raut. “It is less than that and it is the only version of it that does not take somebody else’s row out into a corridor, and you are going to say that in about four words so that the people going past that door hear you say it, and then I am going to put my finger on a page at about ten and you are going to watch how long it takes.”
+She laid the strip along the top of the page and brought the page round, and the row stood in a long window of grey card with about an inch of the row above showing and about an inch of the row below, and the man read his own words.
 
-## How Long It Takes
+It took about ninety seconds from the finding of the row to his reading it, and ninety seconds of a bound page lying flat and open on a table in a room with the door open.
 
-She put her finger on it at about ten past ten and it took about nine minutes to find and then about forty seconds to read one row, and she did not turn the page, and she did not move the finger, and she did not once raise her eyes from the wood.
+They both watched it.
 
-And that was the price and it was not a small one and it was not the one he had brought up four flights to be told about.
+“Ninety seconds,” he said.
 
-A person who has asked to see what is written about them is going to stand at the end of a table and watch a clerk’s finger on a piece of paper for nine minutes and forty seconds without being spoken to, and then be told one row in a flat voice, and then be thanked.
+“Ninety seconds.”
 
-They will not have seen a thing.
+“A fortnight ago a woman on that page read the line above her own out loud in this room and four people heard a date and an hour,” said the man. “And the fix is that the ninety seconds is still there.”
 
-And that was not the price she had meant to charge. The price she had meant to charge was the stranger’s row, and the stranger’s row was gone, and the thing left over in its place was nine minutes and forty seconds of a person at the end of a table with nothing in her hands at all, looked after by nobody, in a room that now had an appointment to keep.
+“Yes,” said Wenna Raut.
 
-## The Fourth Person Of The Morning
+“You have closed about eleven seconds of it.”
 
-The fourth person that morning was a man with a works book under his arm who wanted to know whether a clerk of the third month had ever contradicted a statement about a water main, and he asked it in about four words and got it in about four minutes, and when he had it he said thank you and went.
+“I have closed the part where she reads it herself. I have not closed the part where a bound page lies open on a table for ninety seconds in a room anybody may walk into, and I could not, and I have thought about that since the fourteenth of April and I have not got round it.”
 
-That is what four of the five are.
+## The Part Nobody Had Said Out Loud
 
-It takes about nine minutes and about forty seconds and it ends in a person saying thank you, and it is the entire service, and nothing that has been built this month makes it worse and nothing that has been built this month makes it better.
+Then she showed him what she had not wanted to show him.
 
-## The Woman With Nothing In Her Hands
+She took a strip the length of that page and laid it down the middle of it, over four lines, and put her own hand on it.
 
-The twelfth of the month came up at about half past eleven with a question in her mouth and nothing in her hands, which is what she has done every time she has come up these four flights since the twenty-third of December, and she had been in the room for about nine minutes before he noticed that she was in it.
+“Now you read that row.”
 
-She had no paper. She had nothing to bring. She came up because of a person, and the person cannot come, and in nine years she has not been asked what the question is.
-
-He had Wenna Raut’s finger nine inches away on a page and about four people going past the open door and a woman standing at the end of the table who had been standing there for nine minutes.
-
-He did not ask her.
-
-He would not have been able to ask her, and that was not the reason, and the reason was worse than the finger.
-
-The finger took the room’s whole attention for about nine minutes and the room is one room with one clerk and about four people in the corridor, and a clerk with a finger on a page is a clerk who is doing the thing she is doing, and no version of that leaves anybody in that room also available.
-
-## What Nine Years Of Not Asking Is Worth
-
-He stood there and worked it out and he got it out in the ordinary way, in front of that clerk, in a room anybody can walk into, with about four people going past the doorway.
-
-“For nine years you have been the one person in this building who could be asked anything, and from the sixth of July of last year you have been a person who cannot repeat what she said about four days a month, and she can lose about four days and not be told which, and she has never once lost one of these past nine minutes because she would not put her finger down.”
-
-“I have never wanted to.”
-
-“Then this is not about want.”
-
-“No,” said Wenna Raut. “It is about a finger.”
-
-She said the last four words the way she says a figure, and he understood that she had decided this on the sixth of April, on her own, and had then spent about a month waiting for him to arrive at it, and that the arrangement he had made at the end of March had been quietly replaced in that room by something smaller and better about four days before he noticed it existed.
-
-## The Page That Was Promised, And The Row That Was Given
-
-“I want it said out loud here,” he said, “that a page is not being turned in that room any more, and that the man who promised it on the thirtieth of March knew about it on the sixth of this month and did not object for about four weeks.”
-
-“I will not enter it and I will not stop you.”
-
-“Then it will be said in a room anybody can walk into, and roughly four people going past will get all of it, and that is the whole of the record and there is no more record than that.”
-
-She went back to the row and read it out one more time for the woman who had asked for it, and that woman took it the way a person takes a piece of news about a hedge, and the woman who had come up with a question in her mouth was still standing at the end of that table where she had been standing for about nine minutes.
-
-## What She Said Before She Went
-
-“You have never asked me what it is,” she said.
+He leaned over. The clerk’s forearm was across the whole of the four lines and the page was flat and the room was lit from a window at the wrong end.
 
 “No.”
 
-“I have come up these four flights twice and asked for nothing twice and been helped about a third of a time.”
+“No,” said Wenna Raut. “You have a page nine inches from your face and you cannot read four lines of it, because I am standing at this table and my arm is where my arm is, and if I take it off to let you read then I am a person standing in the way of the page and not a clerk turning it for you.”
 
-“Not once,” said Lin Hao. “About four people a month come up here about a piece of paper and you are the one who comes about a person, and the whole of what we have is built on the paper, and that has been true for nine years and it has never cost anything until this month, and it is costing it today, and it is not costing it because of anything you did.”
+“You could point.”
 
-He stopped there, because the next sentence in his mouth was *and I will ask you now*, and he did not say it, and she waited about four seconds for it to come.
+“I can point at about nine words and then I have to put my finger down to keep the strip still, and then the rest of it is me saying it to you, and you wanted to read it and not have it said to you.”
 
-“I am not going to ask you here,” he said. “There are about four people in that corridor and they have heard every word of your month in about nine minutes, and that is not yours and it is not mine.”
+He stood there for a while.
 
-“You have never asked me in a street either.”
+“So a person cannot do the one thing they came up four flights to do.”
 
-“No,” said Lin Hao. “I have not.”
+“About nine times a month,” said Wenna Raut, “somebody who wanted to see their own row is told what is in it by a woman standing over it with her arm on the page, and they go down the four flights having been given it, and about four of those nine came up about another person rather than about a paper.”
 
-She went down the four flights. He let her go and did not follow her, and there is a rule he made in the second year about doorways and he has never broken it and it has cost about four people knowing things they should not and saved about nine people knowing things they should, and this morning it cost one of the four.
+“That is the opposite of what it was for.”
 
-## Is This The Place For The Papers
+“It is the same as what it is for, done with one arm,” said Wenna Raut. “A promise that a person may see the page is not a promise that a person may read the page, and we made the first one in about nine seconds on the thirtieth of March and neither of us asked about the second.”
 
-At about half past five the room was clearing and about four people went past that open door on their way down, and one of them said to the other, in the ordinary voice people use in a corridor:
+## The Ninety Seconds Nobody Has Got Round Yet
 
-“Is this the place for the papers?”
+“Then what about the ninety seconds,” he said. “That is the larger half of it and you have put a piece of card over the smaller half and called it done.”
 
-“I do not know,” said the other. “I was told four flights.”
+“I know exactly how large the ninety seconds is.”
 
-“That is what I was told.”
+“Then say how you would do it.”
 
-*Three thousand six hundred and ninety-four days.
+“Two ways,” said Wenna Raut. “Either the page is turned with a finger on it from the moment the corner lifts, which means somebody has to know the row before the corner lifts and stand over the book for the whole of the turn and be paid for standing there.”
 
-Less three thousand six hundred and eighty-seven, the twenty-eighth of the month before this one, is seven, and a page was not turned in that room for the first time since the seventh of April,
+“Or the book does not get turned at all, and the row is copied out into the words of the person it is about, which is a copy, and a copy is not a spare. A copy is a place.”
 
-because a clerk had worked out before the man did that the only version of a promise that does not take somebody else’s row into a corridor is a finger on one row and one row read out, and a woman who came up four flights with a question in her mouth stood at the end of that table for nine minutes and was not asked anything and was not helped.*
+“Both of those are worse than an arm.”
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is thirty-five, and the forty-first sheet has been face up on that rail for every one of the last thirty-five of them.*
+“The first is a wage and the second is a stove,” said Wenna Raut, “and I have been in rooms where both were done and I would rather be an arm.”
+
+He wrote nothing down, because there was nothing on that table for it to be written on, and because he had begun to notice that every hard decision he took came out of his mouth at the end of a table with the door open and then had nowhere to go.
+
+## The Woman From December
+
+The other one came up at about half past two with nothing at all in her hands.
+
+She came up in December with a question in her mouth and nothing in her hands, and that has happened once in nine years, and she asked whether the page could be turned.
+
+Wenna Raut found it in about nine minutes.
+
+It is the twenty-third of December and a date at the head and an hour against the date and then a question in the words she used, and there is nothing whatever under it, and there is going to be nothing under it for a long time yet, and the room put nothing to her about why.
+
+“There is nothing on the other side of it,” said Wenna Raut.
+
+“I know there is not.”
+
+“You know because you were here in December and there was nothing then either.”
+
+“I know because I have been turning it over since December,” said the woman, “and it does not fill up. That is what I have come up to tell you and you have found it in nine minutes and told me the thing I walked four flights to be told, and you have done it without asking me one word, and I would like to know what you are going to do about the strip of card.”
+
+“Nothing in that direction.”
+
+“No,” said the woman. “I did not think so. I have watched two of your colleagues work for about four years now without ever having to ask one for anything, and neither of them has ever asked me one question that was not about a piece of paper.”
+
+She thanked him and neither of them said anything about it.
+
+## The Drawer It Goes In
+
+The strip went into the drawer at about half past five, and that is a different drawer from the one in the wall on the left-hand side of that table, which has not been opened since the second year.
+
+That drawer holds about nine hundred requisition stubs in four sorts and nothing whatever that this office has written, and a piece of grey card about four lines wide lies in it now between the ninth month and the tenth month of a year that is not this one, and in about four years somebody in that room will want to know why there is a strip of card in there and there will not be a row about it.
+
+He had said nothing for about four minutes before that.
+
+“You have solved it in about nine seconds and it took me nine years to get to the same place,” he said. “And the thing you have solved is the arm.”
+
+“It is the arm.”
+
+“It is also the room, and the ninety seconds, and four people in a passage, and about nine years of a woman being hard of hearing because her own kitchen is at the back of the house.” He put his hands in the wrong pockets. “You have closed the thing a woman could do to herself on the fourteenth of April and left the four months open.”
+
+“I have left all of it open,” said Wenna Raut. “I have closed about eleven seconds out of a morning and I have done it with a piece of card cut out of the back of a book that was thrown out, and if you tell anybody in this city that this office has solved showing a person their own page then I will not be able to look at you again.”
+
+He said that he would not tell anybody.
+
+“I have believed you for about four minutes,” she said, “and I would like it noticed that this is the longest either of us has had.”
+
+*Three thousand six hundred and ninety-four days. Less three thousand six hundred and eighty-seven, the twenty-eighth of this month, is seven, out of a month of thirty that begins on the first, and a clerk laid a strip of card over a page and closed about eleven seconds of the morning, and a promise that a person may see a page turned out to be a promise that a person may not read one.*
+
+*Less three thousand five hundred and sixty-nine, the thirtieth of December, is thirty-five, and the forty-first sheet has been face up on that rail for every one of the last thirty-five of them, and that rail does not move again until the thirtieth of June.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and seventy-four days, which is forty-two months and fourteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-

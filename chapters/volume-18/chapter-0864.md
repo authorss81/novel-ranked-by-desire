@@ -2,125 +2,118 @@
 
 Three thousand six hundred and eighty was the twenty-first of this month and the twenty-eighth is day three thousand six hundred and eighty-seven, and three thousand six hundred and eighty-seven less three thousand six hundred and eighty is seven, and twenty-eight less twenty-one is seven by the month count.
 
-## Two Men Up The Same Stair
+## A Man Who Asked Once And Came Back
 
-They came up together at about ten and neither of them had been in the building before, and the younger one had a paper in his hand and the older one had nothing at all, and Wenna Raut put the two chairs at the same end of that table and asked which of them had the question.
+He came up at about a quarter past ten with a piece of his own paper in his hand and the corner of it gone soft where he had been holding it for eleven days.
 
-“We both have,” said the older one. “He has had one since the third month before last and I have had none, and I have come up four flights because he says an office four floors up has never once been wrong about a paper.”
+He keeps a horse and eleven rooms and he has been in that room before, on a morning in the last month of the year before last, and he asked then whether there was anything else here about him, and the answer was that there was not.
 
-The paper was a lease of a workshop in a street two streets wide and the question was whether this office had ever said anything about him to anybody.
+“Now tell me it is the second morning I have asked,” he said.
 
-“Have you got a reason for asking.”
+“It is the second morning you have asked.”
 
-“I have got the reason anybody has got,” said the older one. “My brother-in-law gave a copy of that lease to a man and the man has been using it, and the copy is not the lease, and somebody in this city said so out loud in about eleven words about six weeks ago, and it went to my brother-in-law through a man in a passage and he is using the copy, and I want to know whether it was said about the copy.”
+“Turn it.”
 
-## What The Row Actually Said
+Wenna Raut put one finger at the head of each line and came back through the book in about nine minutes, and two other people had asked since that book came up, and neither of the other two has been told about this one and neither of the two of them would find out from anybody in that room.
 
-She found it and read it out and it took about four minutes to find and about half a minute to read, and the older one listened to it with his hand on the back of his brother-in-law's chair and did not interrupt once.
+## What Was On It
 
-Then he said: “That is it. That is the whole of it, in those words, and my brother-in-law heard the same eleven words and has been saying them about ever since.”
+The row said that on a date in the eleventh month a person brought a paper up four flights and asked whether a boundary described in it ran where the paper said it ran.
 
-“Then this office has not been wrong about it.”
+And the answer under it, in the words she used, was that the boundary runs where the paper says it runs.
 
-“This office has not been wrong about anything,” said the older one. “That is what I have come up four flights to find out and it has taken me a week and a document of lease and I am not grateful for it and I am not ungrateful either.”
+That is true.
 
-## The Reading
+It is true the way nine rows out of ten in that book are true, and the man stood and read it, and then had it read to him because he said he wanted it read, and that took the clerk about nine seconds with four people in that room who were not being quiet.
 
-The row was there. She found it in about four minutes and every word on it was the exact words of the man who had brought that paper through the door in the third month before last, in the order he had used them, which is the whole of what a row has ever been.
+## The Part That Is Not About The Paper
 
-And it could not be given in a fold, because a fold goes to one person and this one concerned both of them, and it could not be read at the end of the table because the man it was about was standing at that table.
+“Who brought it up.”
 
-So she read it out.
+“I cannot tell you that.”
 
-She read it out in the voice she reads everything in, which is the flat voice that does not take a side, and about four people in that corridor about four feet wide were going past at ten in the morning and all of them got all of it.
+“Then whose paper is it.”
 
-It said that a man had brought a lease up four flights and had said that the copy of the lease was not the lease, and it said what he had said about the copy, and it said when he had said it,
+“Yours is the piece you have in your hand,” said Wenna Raut. “The page in front of you is ours. Who brought the other one is on neither of them and I would not know if it were.”
 
-which was at about four in the afternoon on the fourth of a month, and it said where he had said it, which was in the yard at the back of the workshop because the office was shut at four and the man had stood in that yard and said it through the door.
+The man stood at the end of that table for a while.
 
-## What Was True About It
+“Two years ago a hedge was taken out on the side of my far field, and a woman I have never spoken to told everybody on that lane that I had it out on her account. And I have known for two years that it was not true, and I have never once been able to put a single thing behind me.”
 
-The reading was true.
+“The boundary runs where the paper says it runs.”
 
-Every word of it was true, and the man who had brought the lease in the third month before last was standing at that table and knew it was true, and he said so.
+“That is what I have been trying to put behind me for two years, and you have just said it out loud with a date against it, in a room with four people in it.”
 
-“That is what I said.”
+The man turned round and put both hands on the back of the chair.
 
-“Yes,” said Wenna Raut. “And it is in your words and it is in the order you used them and it has not been read out in this room before, and there is nothing in it that is wrong.”
+“And the woman is at the end of my lane. And she knows this office has said so. And she did not know it a fortnight ago, and I have eaten my dinner four times since with a woman who believes she has been proved right, and I could not tell her where to go to be proved wrong.”
 
-“Nothing in it is wrong,” said the older one. “And the whole of this building has just heard where I stand at four o’clock and what I say in my own yard.”
+“So she has not been proved wrong.”
 
-He was not angry about it at all. He said it flat, the way a man says a thing he has carried a long way and has only now found out how heavy it is.
+“She has been proved right,” said the man, “and nobody told me that was going to be one of the two things that came out of the office.”
 
-“My mother lived in that yard for about thirty years,” he said. “And that is now the second street in this city where I know where my mother stood at four o’clock on a day in the middle of last winter, and neither of those was said to me by anybody. They were said to four people going past a door.”
+He thanked her, which nobody thanks anybody for in that room, and she told him not to do it and he did it again on the stair.
 
-## The Woman Who Works Upstairs
+## What He Came Down Four Flights For
 
-She came down at about eleven and stood at the end of that table with her arms down and did not say anything for about nine seconds, and then she said:
+He wanted to know how many people have had a page turned since that book came up.
 
-“I have known it since the fourth of April and have carried it about every working day since and I have not put it in that book, because you have not given me anything to put in it, and because a clerk told me nothing about it in that room, and a clerk is the only person in this building who is paid to notice something and decide not to enter it.”
+That is the whole of what he came down four flights for.
 
-“You could have said it to him.”
+It took him about four seconds to say it and about four minutes to give the reason. If it has been one other person, then he is the second, and a book about two men is a common thing. If it has been about nine, then there is a morning of nine people going up four flights with papers in their hands and a queue at the bottom of the stair.
 
-“No,” said Wenna Raut. “I would have had to have entered it, and then it would have been given to me, and then you would have had to decide what to do about it, and on the fourth of April you would have had a decision to make before you had a practice to make it with.”
+And if it is the four hundred and seventy a man behind a counter gave me as the last count anybody has taken, then this office has told everybody in this city a true thing about all of them inside three weeks, and every one of them would have gone home and told somebody, because that is what he did with it.
 
-## The Three Things, In That Order
+“We cannot tell you.”
 
-He went down about four hundred yards to a counter in a passage off Cordwain at about half past two and stood at the rail and worked it out, because it had arrived at him in a room and he needed it somewhere else.
+“No.”
 
-A figure came first.
+“Not because it is refused,” said Wenna Raut. “Because nobody in this building can find out. There is a clerk at that table and a man at the end of it and neither of us has written down a single one of the turnings, because a record of the turning would be a list of the people who have stood in front of their own page.”
 
-Somebody had said out loud, in a place he had not been, that there were about nine people a month going up four flights to a room off a third court to ask about pieces of paper. He had never said it.
+“That is the second time in a fortnight that somebody has refused me on the grounds that your refusal leaves no mark,” said the man. “And you are right and I am not going to argue with you about it, and I want you to understand that being right is what makes it expensive.”
 
-He had said it in that corridor with the door open on the first morning and about four people had heard it, and one of those four had said it in a market end on the second day of this month, and nothing in this city can take a sentence back out of a market end.
+## The Back Of His Own Hand
 
-Then a standing, and this one came quicker than he expected. Inside about a week there was a thing being said in about four places, and it was not a room and it was not a floor, it was *there is a place that does this*, and a place that does a thing is a thing that can be pointed at, and once it can be pointed at it stops being a thing that happens to people and becomes a thing people go to on purpose.
+He went out at about eleven and was in the passage for the best part of nine minutes going up and down, and Lin Hao came out of that room behind him and watched him for about four seconds and then went back in.
 
-The younger of the two brothers-in-law used those words himself on the twenty-fourth of this month, in that room, without any idea that he was doing it, when he said that there was a place in this city where you could go and find out what had been said about a paper. He said it as though he were describing a shop.
+The man went down the four flights. He had been in the room for about nine minutes and the only thing he had wanted was a figure, and no person in this city has ever been handed one of those.
 
-And then the place itself, about two weeks after that, and this one was in a street at about two o'clock in the afternoon, when a woman she had never met said to another woman she had never met: up the yard door, and four flights, and it is the fourth and not the third.
+“Who came up a fortnight ago,” said Lin Hao.
 
-“In that order,” said Lin Hao, “and in no other order, and none of the three was done by us.”
+He said it before he had decided to say it, into the open room, with about four people in that passage. Wenna Raut said *we cannot know that*, and he said *I know we cannot know it, I am not asking you to find it out.*
 
-## The Order Of The Three
+## The Figure That Is Not On Any Page
 
-He worked it out on the hill with about nine minutes to spare, and the order was the finding and the order was not the one anybody in this city would have guessed.
+He did not go down at eleven.
 
-A number is the mildest thing there is. A number can be doubted by anybody and a doubt costs nothing, and about nine people a month going up four flights is the mildest fact that has come out of that room in nine years.
+He went down at about half past eleven and put his hands in the basin by that door because a man who has been standing in a room for an hour in a coat thinks about his hands, and the water in it was cold enough that he noticed it, and he dried them on the sleeve of that coat.
 
-A standing is worse than a number, because a standing is a thing with a door in it whether or not there is a door, and once about four people have said *there is a place that does this* then the place exists as a thing to be sent to, and a thing to be sent to is the first step of every single thing that has ever happened in a room four floors up about a third court.
+The coat is one he has worn for nine years and the left side of it has been empty since the third of December, and the sleeve came off the figure.
 
-A place is last and a place is the worst, and a place is the yard door and four flights and the number of the landing, and a place is the only one of the three that a person can stand outside of.
+A number stood on the back of his left hand in pencil, in his own writing, and it was the number of people who had come up four flights that morning between nine and half past ten, and it was wrong by about four because he had not counted the man who was on the stair.
 
-## The Thing He Refused And Said Out Loud
+He looked at it for about nine seconds and then he understood that he had started it this morning.
 
-Nine years ago, in a room with the door shut, he had been asked whether this office could give anybody a number and he had said that it could not and that it was going to continue not being able to.
+There was no other account of it available and he went through all of them standing there. He had not written a figure on his own hand in about a year, and nothing in that room writes on a person, and the first person of that morning had gone in at about nine and the tenth at about half past ten, and he had been standing at the end of that table the whole of the time.
 
-He had been proud of it. He had said out loud afterwards, with the door open, in about four sentences, that a number in this room is a thing about a person dressed up as a thing about a piece of paper.
+He pulled the sleeve back over it and did not wash it out.
 
-And about nine people a month was now in a market end, and a room was a standing in about four mouths, and a woman in a street had given another woman a yard door and a number of flights, and the yard door is the only thing in this city that anybody in this city can be sent to.
+Washing it out would have been the end of an arrangement he had made with himself about what that number was for, and he wanted to know what he was going to do about it, and he has wanted to know what he was going to do about things every morning for nine years and had never once wanted it as much as he wanted it at half past eleven that morning.
 
-He had not built any of it. He had carried a book up four flights.
+A man who writes a figure on his own hand in the morning has not made a rule and has not broken one. He has done something smaller than either, and he has done it in about nine minutes on the eighth morning of a thing he believed he had finished deciding, and it happened out of the sight of every person in that room, and he cannot put it back in the water.
 
-## Two Women In A Street
+An hour later he said out loud in that room, with the door open, that there was a figure and a standing and a place in this city and that this office had spent nine years refusing to write the three of them down.
 
-He heard it at about half past two on his way back up the hill, in a street two streets wide, from about thirty feet off, and neither of the two women knew he was behind them.
+Wenna Raut did not look up from the page in front of her.
 
-“Up the yard door on the left and it is four flights.”
+“I know what a figure is,” she said. “It is the first of the three and it is the one everybody asks for. And I have been the one writing them for nine years, and that page carries none of them, and you know that better than I do.”
 
-“Four?”
+“This one page,” said Lin Hao. “Not one other. Since the thirtieth of March this room has a figure, and a standing, and a place, in that order, and it had them by the seventh of April, and it got them off the back of my own hand, and there is not a page in this city that says so.”
 
-“It is not three. It is four and the stair turns.”
-
-“You are sure?”
-
-“It is four,” said the first woman, and they went on up the street.
-
-He let them get thirty feet ahead of him before he went the other way, and there was nothing in the world he could do about it, and he had known there would not be, and the whole of what he had come down that hill for was to stand in a street and hear a thing he could not take back.
-
-*Three thousand six hundred and eighty-seven days. Less three thousand six hundred and eighty, the twenty-first of this month, is seven, and an answer was read out in that room in the office’s own voice for the second time, and it was true, and about four people in a corridor heard a man’s yard and a man’s hour, and in the six weeks since the book went up that office has become a figure and then a standing and then a street.*
+*Three thousand six hundred and eighty-seven days. Less three thousand six hundred and eighty, the twenty-first of this month, is seven, and the answer given to a man on the second morning he asked was true, and the truth told a woman at the end of his lane that she had been right, and a figure and a standing and a place came into a room four flights up inside three weeks.*
 
 *Less three thousand five hundred and sixty-nine, the thirtieth of December, is twenty-eight, and the forty-first sheet has been face up on that rail for every one of the last twenty-eight of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and sixty-seven days, which is forty-two months and seven days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
 
+*And the inside of a coat on the left is empty and has been since the third of December, and a figure is written on the back of the hand inside that coat, and it is wrong by about four.*

@@ -2,140 +2,154 @@
 
 Three thousand six hundred and seventy-three was the fourteenth of this month and the twenty-first is day three thousand six hundred and eighty, and three thousand six hundred and eighty less three thousand six hundred and seventy-three is seven, and twenty-one less fourteen is seven by the month count.
 
-## What That Room Is
+## The Counting House
 
-The counting house is two rooms with a door in the middle of the back wall and the door is never shut and has not been shut since the room was built.
+The counting house is two rooms with a door in the middle of the back wall, and that door has never been shut and was not shut on the twenty-first of this month and is not shut now.
 
 She keeps the near one.
 
-The other clerk keeps the far one, and she is called Ledger and has been at that desk about eleven years, and neither of those two women has ever carried one word from one of those rooms into the other,
+The other clerk keeps the far one and has been at that desk for about eleven years, and neither of those two women has ever carried one word out of one of those rooms into the other.
 
-and if one of them wants something from the other she writes it on a slip and the other one comes out and reads the slip and writes an answer on a slip and carries it back, and that is how it has been done every day of that building’s life.
+When one of them wants something from the other she writes it on a slip, and the other one comes out into the near room and reads the slip and writes an answer on a slip and carries it back, and that is how it has been done every working day of that building’s life and it is on no form and nobody has ever written it down.
 
-Nothing said in the near room is carried into the far one by anybody.
+“Your man in the white plate,” said the other clerk, from the far room, without coming out. “There is a figure on the eighth of March that wants a second pair of eyes and I would rather you did not look at it alone.”
 
-That is not a rule. It is what the door is for.
+“I will come through in a minute,” said Marguerite Vale, “and I will tell you what I think of it when I do, and you will go back and finish your page before I am through the door.”
+
+The other clerk went back to her page.
 
 ## Four Seconds
 
-He got as far as *about a person* on the stair and she was at the bench with a sheet in her left hand and a pen in the right, and she did not turn round.
+He got as far as *a neighbour* on the stair and she was at the bench with a sheet in her left hand and a pencil in the right and she did not turn round.
 
-“Yes,” said Marguerite Vale. “I know which one you mean. Come in and say it at the bench if you want to say it, and if you do not want to say it then we will do it anyway.”
+“Yes,” said Marguerite Vale.
 
 He had not finished the sentence.
 
-“I have had about nine men in that chair since you were last in this city,” she said, “and none of them came about the money, and the last two of them did not get to the end of it and I was not disappointed about either.”
+“I know which one you mean,” she said. “Come and stand at the bench and say it if you want to say it, and if you do not want to say it then we will do it anyway.”
 
-## The Bench, And The Sheet She Would Not Put Down
+“I have had four men at that stool since you were last in this city,” she said, “and three of them came about money, and the fourth did not get to the end of it and I was not disappointed about him either.”
 
-She rolled her two cuffs over and turned back and squared the sheet she was working on against the edge of the bench so that the figures were square with the wood, and then she took the front of her skirt up in her left hand and held it clear with the heel of her wrist the way a person holds a thing out of the way who is still working.
+## The Bench
 
-The sheet stayed in that hand. It was in that hand for the whole of it.
+The bench is the length of two men and it slopes back from the edge so that a sheet put on it does not walk off, with a bead along the bottom of the slope and a rule in a groove and an inkwell sunk in a hole at the left-hand end.
 
-Her fingers are ridged at the ends where the pen has gone in and the paper has got into the skin there about the length of a grain of rice, and there is a hard place at the base of each of them where the skin has come up over itself and come hard, the way a thing does that has been wet and dry and wet and dry about nine thousand times.
+She rolled her two cuffs back and squared her sheet against the bead so that the figures stood square with the wood, and then she took the front of her skirt up in her left hand and held it clear with the heel of that hand the way a person holds a thing out of the way who is still working.
 
-“You may have the bench,” she said. “Do not put your weight on the paper side, there is a thing going in at about eleven and I have not finished it.”
+The sheet stayed in that hand for the whole of it. She never put it down.
 
-## Into The Room Nobody Goes Into
+The ends of the first two fingers of her right hand have gone blunt, the actual tips gone, so that a sheet goes on to a pad and not on to a point, and there are two shallow creases in the lobes of her ears from spectacles she gave up wearing about eleven years ago because the light in this room is bad and she can do the arithmetic without them.
 
-Then she took him through the door in the middle of the back wall, which is the room the other clerk is in and the room that neither of them goes into, and the door stayed open behind them the way it always is.
+“You can have the stool,” she said. “Do not put your weight on the bench side of it, there is a thing going in at about eleven and I have not finished it.”
 
-Ledger was nine feet off with her back to them and a pen going and did not turn round, and neither of them looked at her and neither of them said one word to the other about it, and that is not rudeness and it is not trust. It is what the door is for.
+## What She Did With Him
 
-“She will not tell you anything about us,” said Marguerite Vale, “and I am not going to ask her, and if you had asked her I would not have spoken either. Now stop talking about your office and take your trousers down, because you have been carrying that book up and down this city since March and you have not once put it down.”
+She got him out herself with her right hand while her left went on holding the sheet clear, and she got him hard in about nine seconds, and she said the figure out loud when it happened, the way she says everything in that room, and he took the sound of it and asked nothing at all.
 
-## Working
+“Riding,” she said. “Get up on the stool properly, I am not doing this sideways.”
 
-He got his cock out against the edge of the bench and she put her right hand round it and did not hurry and did not stop talking, and what she talked about was a neighbour.
+He got up on the stool and she came over him with her knees either side of his hips and her skirt still gathered in her left hand against her ribs, and she went down onto him in one movement, and the far room was four feet away through a door that has never been shut.
 
-That is the way she came at it and it was in about four seconds and it was not a decision, and she had enjoyed him from the moment she said yes and she was not managing her face and did not appear to be trying to.
+She was wet inside about four seconds and she was not quiet about it.
 
-“You have been putting an office on a table,” she said, working up the length of him and looking at what she was doing, “and you have made a thing of it, and the first thing that happens is that a woman with grey in her hair reads a line that is not hers out loud in front of four people. Do you know what you have built.”
+“There,” she said. “That is four seconds and you did not have to do anything at all.”
 
-He put his back against the end of that bench and said nothing at all.
+“Do you understand what you are, to me? You are a man with a spent chest and a night shift and no permission of any kind, and not one instruction in this house would let me be careful with you.”
 
-“You have built a way of finding neighbours.”
+“I have gone thirty years being careful with everybody and it has made me exactly this, and I am going to enjoy you and I am not going to be polite about it.”
 
-## The Price Of One
+“Go on.”
 
-She had him hard before she had finished the second sentence and she said a figure out loud at the moment of it, and he had no idea what she meant and did not ask, the way a person does not ask somebody who has been doing a thing since before he was in the room.
+She went on.
 
-“A debt is a figure,” she said. “A figure can be disputed by the person who owes it, and that is the only good thing about a figure, and you have not got one.”
+She kept the sheet up in her left hand the entire time and read her own column out loud between them, in the voice she uses over a counter, a voice about four people at once and not a voice about one at all, and every figure she said was correct, and there was about nine minutes of it, and the pencil never went down.
 
-She took her thumb under him and worked down and back and her voice went down with it and stayed perfectly level.
+The lower corner of the sheet went soft where her wrist was against it about the third minute and she turned her hand over to keep the ink off it without stopping the reading, which is the sort of thing that only happens to a person who has been working for thirty years.
 
-“A favour is not a figure. You have had that priced to you before and you did not like it. Fine. Then look at what you have actually put on that table, which is not a debt and not a favour, and is newer than both, and is a date and an hour.”
+At about the sixth of those minutes she got a hand behind his head without letting go of the sheet with the other one and pulled his face into her collarbone and told him exactly what she was going to do next, and then did the other thing.
 
-She said the last four words in the voice she uses over a counter and she said them louder than she had said anything else that afternoon, and about nine feet away through an open door a woman who has been at the same desk for about eleven years did not look up, and he watched that not happen and understood that this room had been arranged so that nothing in it can ever be used against anybody in it, including what she had just said, including him.
+She came first, loudly, with her feet off the floor and both knees locked, and it took about four seconds, and she said one word out loud at the end of it and then said a column of figures straight through without a break, which is a thing she can do and which has cost her about nine mornings in thirty years of evenings.
 
-She stopped.
+His hand was on her thigh and she pushed it higher without looking down and made him keep it there, and she said *there, that is right, do not move it*, and she was not instructing him so much as telling a room where a thing had been put down.
 
-Not for long.
+“Again,” she said, and got him up under her with the heel of her hand and rode him out the rest of it in about two minutes, and did not put the sheet down for either of those either.
 
-She stopped for about four seconds because she had to turn round and write a figure on the sheet in her left hand with the one in her right, and she wrote it the way she writes everything, square with the wood, and she said out loud that she had to do it.
+He got both hands to her hips at the last of it and she let him keep them there, and she leaned down over him with the sheet still up in her left hand against her own ribs, and said into his ear, in the voice she uses over a counter, that she had been wet from the fourth second and had said nothing about it because she does not narrate a figure she has not finished.
 
-Then she came back to him with the sheet still in her left hand and her right hand shut on nothing at all, and she got two fingers under him and turned her wrist and pushed him all the way inside her wet cunt in one movement, standing up, with her hip against the corner of the second bench and about nine feet of open room between them and the other clerk.
+“If you ever tell anybody in this city that,” she said, “I will put your name in a book of my own, and it will be a book of people who are wrong about a room they have never been in, and I will put the word cunt in it as well, because you will have earned it.”
 
-## She Talked All The Way Through
+The second time was longer than the first and she made more noise in it and she was still reading a column out loud at the end of it, and when it was over she rode up off him, took the sheet in both hands, squared it against the bead of the bench, and said *nine minutes and forty seconds, and you will not find that in my figures either.*
 
-“A date and an hour is a person to anybody who knows it is a person,” she said, and she was moving on him while she said it and did not slow down for any of it. “That is what you have.”
+## The Slip Through The Door
 
-“Nine years of dates and hours and no names, and you thought the names were what was standing between a stranger and a neighbour, and it was never the names. It is that a neighbour is safe while the hour of him standing in his own yard stays unspoken.”
+About halfway through that the other clerk came as far as the door and stood in it.
 
-He got a hand into her hair where it had come loose at the back and she let him keep it there, and neither of his feet found anything to push against, and about nine feet away through the open door the other woman went on writing and did not look up, and he understood while it was happening that the two of them were not doing that for each other.
+“March the eighth,” she said. “The figure.”
 
-“You have gone up four flights and about four hundred yards off and put nine years of that on a table with the door open, and every mechanism you have invented this year finds neighbours faster than it protects them.”
+“Moved it two places,” said Marguerite Vale, not turning her head and not stopping. “It is two out and not one, because on the eighth of March it was two out, and whoever put it in the first place was copying a page from the year before.”
 
-“That is one,” she said, “and I have eight more, and I am going to say the other eight to your face, and I am not going to stop doing it after you have gone out of my door. That is the ninth sentence and it is the one I want you to keep.”
+“Take it out of my hand when I am finished and do not thank me for it.”
 
-## The Part She Took
+He was still going, and she was still reading a column out loud over the top of him, and the other clerk waited about four seconds and then went back to her own page and did not look into the near room again for the rest of the morning, and what had been said at that bench went through that door in neither direction.
 
-She worked him with the heel of her hand and her fingers together and told him what she had decided to do with the last of it, and he said nothing whatever about it, and about two minutes in she said his name once,
+He asked her about that afterward. She said she would have carried a slip with a man’s name on it through that door in about four minutes and she would not have carried a word.
 
-in the voice she uses over a counter, and made him say the other one, the one he uses when he is saying a decision, and he said it, and she laughed once in the middle of it and had to stop for two seconds and start the stroke again from the top.
+## After
 
-“You are going to come and you are going to do it while I am talking, and after that you are going to stay exactly where you are until I move first. That is the entire instruction and it is not negotiable and it does not expire when we are finished.”
+She got off him, went back to her sheet, and finished the column. Then she washed her hands in the basin on the shelf under the window, which she does between about eleven and about two every day of her life, and dried them on a cloth that has hung on that nail since the building was put up, and came back to the bench.
 
-## Afterwards
+He was still on the stool.
 
-She came with her mouth open and the sheet still crushed in her left hand and made exactly one sound, about nine seconds before the end of it, and then she hung on to him and let go in about four seconds and stayed there.
+“Say it again,” said Marguerite Vale. “The neighbour. Say the whole of it this time and I will price it.”
 
-She did not go looking for a cloth. She did not go to her cuffs either. She unrolled the sheet out of her fist, looked at the four figures on it, put them down on the corner of the second bench without straightening them up, and then got her skirt down and pushed it under with the flat of her wrist and did it again to be sure it had gone.
+## What A Neighbour Is
 
-He put his shirt on with his back to her.
+“A neighbour is not a stranger,” she said, before he had got far into it, “and that is the whole difficulty, and you have been walking up four flights for two weeks not knowing it.”
 
-“You may go through the door now,” she said. “Or you may stand there for a minute. It is nine minutes to the rail and I am not going to say a word about that either.”
+“Then price it.”
 
-## Nine Minutes In A Room With The Door Open
+“A thing you know about a neighbour is held by two people and one of them is you.” She put the pencil into the groove along the bead and left it there. “And you have made an office that will say it out loud, in a room with the door open, once, in front of the person it is about.”
 
-He stood.
+“Which means that from the thirtieth of March this house can hold a fact about a woman who lives four doors from the woman asking, and nothing in this city will let anybody prove which of those two it belongs to.”
 
-“Go on,” said Marguerite Vale. “Say it in a room. You are rank one with nothing cut into the plate in your coat, and the chest you spent in the fourth year is still spent, and you came down here to find out what a neighbour is worth, and you have now been told by the only woman in this city who has been pricing one for twenty-nine years.”
+“I have thought about that.”
 
-He said nothing.
+“You have thought about it and you have not worked out the price, because you have been thinking about the person who asks.” She turned her head. “Think about the woman who lives next door and hears it. What does she do with it?”
 
-“That is all right,” she said. “It is worth nothing to either of us and it cannot be given and it cannot be called in, and I told a man that once on the top of that stair and I have not moved an inch from it and you were not in the room then.”
+“She does not do anything with it.”
 
-Then she went through the door in the middle of the back wall and took her place at the bench in the near room and picked up her second sheet, and about nine minutes later Ledger came out of the far room and stood in the doorway for the length of time a person stands when they have to cross a room, and she did not look at Marguerite Vale and did not look at him.
+“She does not do anything with it for about nine years, and then somebody in a lane tells her, and then she has a neighbour she did not have and she cannot get rid of the one she has, and she will put that down to you, and she will be right, because you put it there.”
 
-Neither of them said one word about the nine minutes.
+## Nine Sentences
 
-## What He Was Carrying Down A Hill
+She stopped and looked at the door, and then she gave him the rest of it in about nine sentences, and she gave it in the flat voice she keeps for the bench, and he did not interrupt her once.
 
-He was on the hill by about four and the light had not gone yet and he had about nine minutes before it did, and he worked it out walking, which is the only place he works things out.
+“You have put a book of other people’s words on a table so that one person can look at themselves in it, and a neighbour is not a person. A neighbour is somebody you have to eat with, and the thing you have promised to anybody who asks is a promise to a woman about her husband’s brother.”
 
-Nine weeks ago a book went up four flights and about four hundred yards off on two pairs of arms and it stayed in that room until about half past five every working day, and he had thought that was a pair of arms and a stair.
+She turned the pencil a half turn in the groove without picking it up.
 
-It was not. It was an address, and an address in this city is a sentence, and a sentence travels on a person, and there are about nine of those a month going about four hundred yards a day in both directions.
+“And the moment this office answers honestly and in the open, every woman at a bench in this city has a choice between saying a hard thing about a neighbour and saying nothing, and she is going to say nothing, because a woman who keeps other people’s money alive is not a woman who spends it in a room with a door open.”
 
-And a book that lies open on a table in a room with an open door, in a building that can be walked up to by anybody in this city, is not a record of what an office said. It is a list of the mornings of this city, with nothing on it but mornings, and anybody in this city can be found on a morning.
+“And so your book goes quiet. And it goes quiet honestly, and it will be true, and it will be thin, and there will not be one instrument left anywhere in Ostara that can tell a true thin book from a careful one.”
 
-He got to the top of the hill and the light had gone on the buildings and had not gone on the ground.
+She set the pencil down on the wood and then took her hand off it, which she had not done all morning.
 
-*Three thousand six hundred and eighty days. Less three thousand six hundred and seventy-three, the fourteenth of this month, is seven, and a woman who has been counting paper for twenty-nine years gave a man four seconds and then priced him a neighbour through the whole of it, and said that the last thing of the nine sentences was that she was going to go on doing it after he had gone.*
+“That is the argument against everything you have done since the thirtieth of March,” said Marguerite Vale. “And I am going to go on making it after you have gone, and I am not going to soften it for anybody, and the day this house starts being careful in that room is the day it stops being worth a woman’s fear.”
+
+“I know.”
+
+“You do not know it. You have understood it and you are going to do the other thing anyway, because you have spent nine years refusing to hold an instrument and you have decided that not holding one is a virtue.” She pulled the sheet towards her. “Go on down the hill and count your stairs and come back when you have to.”
+
+## The Door, From The End Of The Street
+
+He went out at about half past four and the other clerk was still at her page in the far room with her back to the wall, and she did not look up when he went past, and she will not look up tomorrow either, and neither of those two women knows anything about what was said at the bench that afternoon.
+
+From the end of the street the door in the middle was still open and still doing what it has done since the house was built, which is that nothing said on one side of it is ever carried to the other by anybody, and which is also the only arrangement in that building that has held for thirty years.
+
+On the twenty-first of this month the near room had said the loudest thing anybody had said in that house in thirty years, and there was no way at all of keeping it in the near room.
+
+*Three thousand six hundred and eighty days. Less three thousand six hundred and seventy-three, the fourteenth of this month, is seven, and a woman who brokered for four guilds priced a neighbour at nothing and gave the argument against the whole arrangement in nine sentences, and nothing said in that room was carried through that door by anybody.*
 
 *Less three thousand five hundred and sixty-nine, the thirtieth of December, is twenty-one, and the forty-first sheet has been face up on that rail for every one of the last twenty-one of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and sixty days, which is forty-two months and no days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-
-

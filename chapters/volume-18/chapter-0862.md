@@ -2,117 +2,122 @@
 
 Three thousand six hundred and sixty-six was the seventh of this month and the fourteenth is day three thousand six hundred and seventy-three, and three thousand six hundred and seventy-three less three thousand six hundred and sixty-six is seven, and fourteen less seven is seven by the month count.
 
-## The Woman Who Reads Quickly
+## A Woman Who Came Up To Be Read To
 
-She came up at about a quarter to eleven and she was the second person in that room who had ever asked for a page to be turned, and the first of them had got the right one on the thirtieth of March and had not read it.
+She came up at about ten past eleven on the fourteenth with her own paper in a coat pocket and the look of somebody who has rehearsed a sentence on a stair and got it wrong.
 
-This one read it.
+She is a woman with the grey going out of it at the front, and she has mended a man’s winter coat twice in four years and charged him for neither, and that is how Wenna Raut knew inside about four seconds which of the two kinds of woman had come up those stairs.
 
-She had not asked about a paper. She had asked whether the office held anything about a boundary hedge that runs along the back of two gardens in a street whose name she gave without hesitating, and the hedge had come through the door of that room in the third month before last with a question about which side of it a drain was on, and the answer had taken nine minutes to find and had been true.
+“I want the page turned,” said the woman. “Not read out. Turned. I have had a thing read out to me before and I did not understand one word of it.”
 
-She had asked about the hedge twice before and had never asked for a page, and on this morning she said, before she had taken the chair, that if there was any way at all to see the row her own answer was written on she wanted it.
+“About four hundred and seventy rows in there, and that figure belongs to the third of June of the year before last, which was the last day anybody stood over it and counted. The older one is about four hundred and thirty and it belongs to the first of February of that same year, and it is also true.”
 
-Wenna Raut said there was.
+“Turned,” said the woman. “I want to look at it myself and I am quite capable of looking at a page.”
 
-She did not say anything else about it. She had had five weeks and a fortnight to find a way of saying what it would turn and had not found one that did not take four seconds of warning, and she had concluded on the sixth of April that four seconds of warning was not the difficulty and was the whole of it.
+Wenna Raut opened the Register on the table, squared it to the wood with the side of her hand, and went back through it with one finger at the head of each line.
 
-She found the page in about nine minutes with a finger, and turned the book round on the wood, and put her finger on the row and stopped.
+It took about nine minutes and it is the same nine minutes that everybody gets, and she found the row, and she brought the book round so that the row was in front of the woman, and the row above it was above that, and it had always been going to be above that.
 
-There were about four people in that corridor at ten to eleven on an ordinary working morning and that corridor is about four feet wide and the door of that room is open because the door of that room is always open.
+## What She Did With It
 
-## What A Reader Does
+She did not read her own row first.
 
-She read her own line first, slowly, with her head close to the paper, and then she went on.
+That is what neither of them expected. It took Wenna Raut about four seconds to see it happening and about nine minutes afterward to stop thinking about it.
 
-She did not go on the way people go on. She did not drift. She read the line above hers the way she had read her own — at the speed she reads anything — because she is a woman who has been reading things other people wrote since before she came up that stair, and she got to the end of it and looked up.
+The woman put her finger on the line under the one that had been turned to and read that one, and she read it out loud in a voice built for a kitchen with somebody at the back of it.
 
-She said it out loud.
+That is the whole of what happened on the fourteenth of this month and it took about eleven seconds.
 
-Not to anybody. To the air of that room, the way a person reads out a number they have found on a bill.
+A date went out through that door into the passage, and then an hour, and then the date again because she wanted to be sure of it, and four people were in the passage and every one of them heard both.
 
-“A man came up at eleven minutes past two on the eleventh of the twelfth month and he asked about a wall.”
+She never got to the words. She was still saying the hour when Wenna Raut put two fingers on the page, and Wenna Raut had about four seconds and did not use them, because she had both hands on a book that weighs what that book weighs and could not have got to the door in time from where she was.
 
-## Four Seconds Before Anybody Could Have Stopped Her
+## Who It Belonged To
 
-There was no sound after that for about four seconds.
+The row above was about a man, and the man was alive, and at that hour he was at home.
 
-He had been at the end of that table with his hand on the wood and he was standing nine feet off with nothing in either hand and he had had four seconds in which he could have said something and had not said it, and it was not because he did not know what a date and an hour are when they are read out of a room with the door open in a city this size.
+“Was that him,” said the woman.
 
-He had not said it because not one sentence in this city begins *forget what I just said*.
+“I cannot tell you that.”
 
-The four people in that corridor had all of it. A woman with grey going back from her temple and a copy of a register had told four people in about four seconds the date and the hour and the fact that a man came up four flights asking about a wall.
+“Why not.”
 
-Two of the four went on up the stair. One of them stopped at the window on the second landing, which is the window everybody stops at, and stood at it for about nine seconds and then went on.
+“Because if I tell you which of those lines is yours, then I have read your neighbour’s row out sideways, which is the one thing this room does not do.” He had been at the end of that table for about nine minutes. “And you have just read it out yourself, and I did not stop you, and that is a different fault and it is mine.”
 
-And the fourth was a man who had come up behind the woman and was still in the room, and he looked at the page, and then at her, and then at Wenna Raut, and said, in the voice of a man asking whether a rule applies to him, “Is that mine?”
+“I did not know whose it was.”
 
-“It is not,” said Wenna Raut.
+“No,” said Lin Hao. “You did not. That is not an excuse and I am not going to hand you one, because a row has a date and an hour on it and the hour is the only thing that tells it from about nine others, and a woman who cannot read quietly is going to take the line above her own every time she is ever in front of a page.”
 
-He went out without saying anything else and the woman with the grey in her hair said, “He thinks it is his.” And Wenna Raut said, “He will go on thinking it is his for about four years,” and the woman said, “Then he will come up here and ask about himself in about four years,” and Wenna Raut said, “He will,” and neither of them looked at Lin Hao, who was nine feet off with nothing in either hand.
+The woman looked at the page and then at him.
 
-## The Arithmetic Of It
+“You have just told me.”
 
-“The line above yours is not yours,” said Lin Hao.
+He said nothing at all.
 
-“I know what the line above mine is.”
+“You hesitated. That is all you did, and you have been doing that in that corner of that room for nine years, and a woman who has been listening to a room since she was a girl does not need it said out loud to know what a hesitation is.” She took her finger off the page. “I am not angry. I want to be very clear about that, because if I were angry it would be easier for both of us.”
 
-“You do not, because nobody in this city does, and that is the whole arrangement and it has held for nine years. You and about four people in that corridor now have a date and an hour, and that book carries no name at all, and that is the only reason you cannot use it.”
+## Four Minutes On A Bench By The Door
 
-“And in about four months a woman who has never been in that room is going to stand at a rail off Cordwain and say that she knows a man came up at eleven minutes past two on the eleventh of the twelfth month about a wall, and about four people will hear her, and not one of those four can do anything with it, and neither can she.”
+She went down onto the end of the bench by the door and put her hands in her lap and stayed there for the best part of four minutes.
 
-“So what do I do.”
+“You could say out loud, in that room, that I read it and that you did not give it to me,” she said. “You have about four people outside that door. You could put it in the room and it would be the end of it.”
 
-“You take it down four flights,” he said, “and you do not write it on anything.”
+“No.”
 
-“I am not going to do that.”
+“Why not.”
 
-## What She Did Instead
+“Because it would be the second thing to go out through that door in four minutes,” he said, “and the second thing is always the one people repeat.”
 
-She read the line above her own one more time before she gave the book back, and he watched her do it, and she was not looking for anything in it, she was putting it away somewhere so that it would not be lost.
+She nodded at that and he understood that she had been expecting the answer and had asked the question to hear it.
 
-That was the worst of it and he understood it in about nine seconds.
+“I mend coats,” said the woman. “That is all I do and it is not a trade anybody stops in a street for. Two years back there was a thing about a boundary on a piece of paper and my husband said it was a hedge and I said it was a hedge and it came to you and you wrote something down about it, and neither of us has ever been told what you wrote.”
 
-She gave the book back and Wenna Raut squared it against the edge of the wood, which she does about four times a morning and did not do this morning.
+“It was true.”
 
-“I have a husband,” the woman said. “If he was in that yard at eleven minutes past two on the eleventh of the month before last then there are four people in this city who know it and none of them are going to say whether he was.”
+“I know it was true. It was a hedge.” She turned her head to look at the open door. “I did not come up here to find out whether you were right. A man at the end of my lane has been telling anybody who stands still that there is an office in this building keeping a book, and I wanted to see what a person is supposed to look at when they are given the page about themselves.”
 
-“Yes.”
+“And?”
 
-“I am not going to be able to ask him now.”
+“And it is a date and an hour and some words in a hand that is not mine,” said the woman. “And I am not any more frightened than I was, and I have not been frightened for about two years. So whatever it was meant to do, it did that two years ago and not this morning.”
 
-“No,” said Lin Hao. “And that is what it costs and I told you this morning that you could have it and nobody told you what it was made of, because you did not ask what it was made of, and that is on me and not on you.”
+## What It Is Now
 
-“You are going to say to me that it is nobody else's business what I read.”
+The passage had cleared by then. There had been four people in it at about eleven and by about eleven and a half there was not one of them left, and they had gone down four flights or across about four hundred yards into whatever it is they do in the middle of a working morning.
 
-“I am going to say something worse than that,” he said. “I am going to say that I have said nothing at all to about four people going past an open door, and if I had said one word in the four seconds it would have been a word about you rather than about the man, and you would have heard it, and you would have known that this room can be made to stop and you would have tried it.”
+That part does not go back.
 
-The woman thought about that for about nine seconds.
+The date and the hour went out of that door into about four people, and nothing in this city can ask any of those four what they heard, and a thing a person hears in a passage is a thing that person owns, and a man who forbade a row describing a copy of the foot of a page is not going to get round this by forbidding something smaller.
 
-“Yes,” she said. “That is better and it is worse and it does not matter.”
+“I am going to be careful,” he said.
 
-## The Woman With A Husband At Eleven Minutes Past Two
+“You are going to be careful,” said Wenna Raut, “and careful is what I want, and it is going to cost me about nine minutes every time anybody asks from this morning, because the second half of careful is that I find the row first and cover what is above it with my hand, and I cannot do that and turn the page, because the page turns for about two seconds before my hand is anywhere near it.”
 
-She went down the four flights and he watched her go down them from the head of the stair, which he does not do, and at the bottom of them the yard door was open and the light off the top of the building opposite had just started to come down about the head.
+“Then turn it back afterwards.”
 
-Wenna Raut came out of that room about four minutes after the woman had gone and stood at the top of those four flights and did not go down them, because the book was on the table and a clerk does not leave a room that has a book in it, not even for four minutes and not even for a stair.
+“Then it has not been turned,” said Wenna Raut. “So the two of us will find out what the other arrangement is, and we will find it out about four times a year, in a room, with a woman standing at it, and it will be found out by somebody who is not you.”
 
-“He should have said something,” she said.
+## At About Two He Went Down And Stood At A Gate
 
-“He had four seconds.”
+He went down the four flights at about two and about four hundred yards and stood at a gate on a street of small houses where a lamp had been left burning over a door that wanted oil.
 
-“He had four seconds and he had nine years,” said Wenna Raut, “and in nine years he has said a sentence in this room with the door open about eleven hundred times and about four hundred of those were said after the sentence had already happened. That is the whole of what he is for and he is not for this.”
+The arrangement in that room is that a thing said about a person gets read out once in front of that person, and if they do not come then it is not read out at all and the row is left as it was found.
 
-“Write it down.”
+So he did not knock, and standing at that gate was the correct thing to do and it cost him nothing and it achieved nothing whatever, because the hour of that man's row had already been said out loud in a room with the door open by a woman mending coats who had no idea whose it was.
 
-“No,” she said. “What you want is for me to say a thing out loud to you in this room. What you have not done is hand me anything to put down, and putting things down is the one this office took nine years and about two thousand people to stop doing.”
+That is the first morning a rule in that room and a person in that city have been on opposite sides of the same fact, and nothing in either of them knows about the other, and it cannot be put together again in about four years because there is no way of asking about four people in a passage.
 
-At the top of those four flights the Register was lying open on that table with a finger on a row and about four people in a corridor who had gone back to their own afternoon, and the promise made at the end of March was not a promise that anybody had broken.
+## What She Did At The Bottom Of The Stair
 
-It was a promise that had stood in that room for about nine minutes with nothing on it that could hold a date and an hour still, and there was a man somewhere above them at the second-floor window deciding that a date and an hour he had heard going past an open door was about him, and he would be right to think that in about four years and wrong about it now, and that building could never have told him which.
+The woman went down the four flights and put her hand on the rail at the bottom of them, where the stone goes down into a yard, and stopped there.
 
-*Three thousand six hundred and seventy-three days. Less three thousand six hundred and sixty-six, the seventh of this month, is seven, and a woman read her own row out of that Register and went on and read the row above it out loud in a room with the door open, and about four people in a corridor about four feet wide heard a stranger’s date and hour, and the person it belonged to was at home.*
+Then she said the date and the hour out loud again, once, in the voice she had used in the room.
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is fourteen, and the forty-first sheet has been face up on that rail for every one of the last fourteen of them.*
+He was not in that yard. He had gone up instead of down and was in his own room with that door open and four people going past outside it, and Wenna Raut was putting the strap back on that book and taking it off again to see whether the corner it had lain in was the same corner it had lain in on the seventh.
+
+That date and that hour are in a woman in this city now, and in about four other people who were standing in a passage, and a man in a white plate is the only person in Ostara holding an instrument that could find out how many of them there are, and he closed that instrument on the twentieth of October and cannot open it.
+
+*Three thousand six hundred and seventy-three days. Less three thousand six hundred and sixty-six, the seventh of this month, is seven, and a woman read the line above her own out loud in a room with the door open, and four people in a passage heard a stranger’s date and an hour, and the person it belongs to was at home.*
+
+*Less three thousand five hundred and sixty-nine, the thirtieth of December, is fourteen, and the forty-first sheet has been face up on that rail for every one of the last fourteen of them, and that rail does not move again until the thirtieth of June.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and fifty-three days, which is forty-one months and twenty-three days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-

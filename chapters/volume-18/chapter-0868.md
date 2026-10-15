@@ -2,111 +2,114 @@
 
 Three thousand seven hundred and eight was the nineteenth of this month and the twenty-sixth is day three thousand seven hundred and fifteen, and three thousand seven hundred and fifteen less three thousand seven hundred and eight is seven, and twenty-six less nineteen is seven by the month count.
 
-## The Same Question, And A Different Morning
+## The Decision, At Nine In The Morning
 
-He came back on the twenty-sixth of this month at about eleven with a different piece of paper in his hand and the same question in his mouth, and Wenna Raut answered it before he had got it out, which she has done twice in nine years.
+He made it at nine in the morning in the room with the door open, standing up at the end of that table, in the voice he keeps for that end of the table, and about four people were in the passage.
 
-“No,” she said. “This office keeps nothing about that man and will not, and it is not going to be asked again today.”
+“This office will not answer about me,” he said, “and the reason is that the answer is mine to give and not yours, and it is going to stay that way, and I am telling you at nine in the morning because if I say it at four in the afternoon somebody will have heard a thing they ought not to have heard first.”
 
-The man put the paper on the table and left it there, and it was a bill of work for a broken shutter and he had brought it because he had understood by the nineteenth of this month that a person who wants to be answered in that room has to bring something with him, and he had gone and found something that was not about a man at all.
+Wenna Raut shut the Register.
 
-“It is going to be asked again every day until somebody tells me.”
+“You have been waiting about a week to say that.”
 
-“It will not be,” said Wenna Raut. “Because the answer is his to give and there is a thing in this room that says a thing like that is not an answer this office is able to give.”
+“I have been waiting about a week and I had it on the twenty-first of April and I have not said it and the reason I have not said it is that I do not know whether I am allowed to.”
 
-## Why She Was Right, And It Took Her Four Sentences
+“You are not allowed to,” she said. “From the second of December you forbade any row that describes a copy of the foot of that page. This is the other thing. This is the office answering about a person who is in this building, and that person is one of the two of us.”
 
-“If I tell you what that man is, then I have entered a row about a person,” she said. “And if I enter a row about a person then somebody has to decide which rows are about which persons, and that decision gets made twice a month in this room with a finger, and one day it gets made properly, and a book with a column in it is a list of people and I have told you nine years ago what a list of people is.”
+“That is not what I am refusing.”
 
-“That is not fair.”
+“It is the nearest thing to it and it is the one that would matter.”
 
-“It is not fair and it is correct and the second one is the one that matters in this room,” said Wenna Raut. “So this office will not tell you, and you may come up these four flights every day of your life about a piece of paper and you will be answered about the piece of paper.”
+## What It Closes
 
-He picked the bill of work up off the table and put it in his coat.
+He put his hands where he could see them, which is a thing he has done in that room perhaps nine times in nine years and always for a reason.
 
-“You have not put that bill in that book,” he said.
+“There is a row in that book with a date and an hour and a space in the middle of it,” he said, “and it is about six hundred and forty days old, and it is about a man who worked nights on a third court for about nine years before he started cleaning washrooms, and there is a man with a cart who came up here a week ago and asked whether it is me.”
 
-“No,” said Wenna Raut. “You did not ask me to and you did not put it on that table as a question and that is the only thing that has ever mattered in this room, and if you want it put in you have to say so out loud with your own mouth and then I will enter it in the words you used, and I will read it back once.”
+“He is welcome to ask again in about four years.”
 
-## He Let It Stand For About A Day
+“He is, and he will get the same nothing, and he will get it from me standing in this room looking at him, and he will not know that.”
 
-He had to decide that in about four minutes and he did it in about four minutes, with about four people going past the doorway on their way down.
+He stopped there.
 
-He let it stand.
+“I know what it costs,” he said. “It costs that in about four years that man will say in a yard gate that this office holds a row about the man in the white plate, because he has already half said it, and no two people in this city will ever be able to say whether that is true or whether he invented it in a yard, and nothing here can find out either of those.”
 
-He went down the four flights at about half past eleven and told himself that it was the correct decision and that a man who cleans washrooms at a branch office four nights and three off does not get to be a fact in a room in the middle of a morning, and he got to the bottom of his own stairs before he understood that the sentence he had just said to himself was a reason and not a finding.
+## What She Said About That
 
-A finding would have been that the man on the stair had been carrying it for a fortnight and had gone to somebody with it.
+“You have decided that you would rather be wrong about yourself than be described,” said Wenna Raut.
 
-The other finding, the one he did not make until about half past two, was that a person who has been refused an answer in a room does not stop asking in the room. A person who has been refused an answer in a room stops asking in the corridor, and in a market end, and at a rail, which is where about nine people a week stand in a passage off Cordwain and get told things by whoever was in the passage the day before.
+“I have decided that this office does not hold anything about its own people and that has been the arrangement for nine years and it is the only reason there is a room.”
 
-He stood at the bottom of his own stair for about nine minutes and then went and did the only thing he could think of that would make the refusal true, which was to keep out of that man’s way in the open for the rest of that day.
+“It is not the only reason there is a room. The reason there is a room is that you would not have it anywhere else.” She turned the pen over in the tray. “And I want to say this once and then I will not say it again. You are the only man in this building with anything to lose by being described, and you are the only one who could have stopped it, and you are going to sit on it.”
 
-## About Half Past Two, And A Rail Off Cordwain
+“I am going to sit on it.”
 
-The woman with the grey in her hair was at the counter off Cordwain at about half past two on the twenty-sixth of this month, because about four hundred yards from that counter there is a street she has business in, and she was talking to three people and then to four and then to about nine of them at the rail.
+“You are going to sit on it for about nine years, and you are going to be right, and it is going to be the correct decision and you are still going to be a man in this city that a woman at a rail can describe in one breath, and those two things have nothing to do with one another and both of them are going to happen.”
 
-She was not showing off and she was not doing it to anybody. She was telling them where to find a man, because a man had asked her at a market end how to get hold of the person who answers things about pieces of paper, and she had come up four flights and been answered, and she was going home.
+## The Woman At The Rail, At About Four
 
-“You go up the yard door on the left,” she said. “Four flights. And he is there about a quarter to ten and he is the one in the white plate. And he works nights, so do not go at four, go in the morning. He is the one who cleans the washrooms over at the branch and comes up here in his days.”
+He went down four flights and about four hundred yards at about four in the afternoon into the passage off Cordwain, where there is a counter under a window and a rail and a man behind it who is paid nothing.
 
-She said it the way people give directions. She gave it about nine times that afternoon, because nine people asked her, and every one of them asked a different question first.
+The counterman had his thumb along the edge of the rail and he had it there for about four seconds before he said anything at all.
 
-He was on the far side of that passage at about half past two when the eighth of the nine said it and he heard it from about nine feet off, and he had come down that hill on purpose to keep out of his way for the rest of the day, and he had managed about an hour of it.
+“A woman stood at that rail at about eleven this morning,” he said, “and told anybody who wanted to hear it, twice, that the man in the white plate in this building works four nights in a week in the washrooms of a branch office off a third court.”
 
-She said that he worked nights.
+“He said the part about him asking for it twice, and he said it the way a person says a thing they have been told by somebody they believe.”
 
-She said it as a fact and not as a disclosure and she did not lower her voice about it, and it was not spite, and about nine people had been given a way of getting hold of a man who cleans washrooms four floors from where he takes his mornings by a woman who had been in that room and been answered honestly.
+“And how many were standing there.”
 
-## What The Counterman Did About It
+“That is not what I have got,” said the counterman. “What I have got is that she said it in the ordinary voice, at that rail, with the sheet face up on the wood in front of her.”
 
-He went down about four hundred yards and stood at that rail about ten minutes later and asked the man behind the glass box whether anything had been read out.
+“By the time she had said it twice, the people behind her had repeated it back to one another in the way that people do. In about four days it will be in two lanes. In about four years it will be in a street.”
 
-“Nothing was read out,” said the counterman. “Nothing is read out that I have not been given. A woman stood at that rail for about half an hour and told about nine people where a building is and she was not wrong about the building and she was not wrong about the flights.”
+“Did she say where the office is.”
 
-“Did you correct her.”
+“She said *this building*, and she pointed at the rail she was standing at, and she is correct, and you cannot take either half of that off her.”
 
-“Do you want me to correct people at my own rail,” said the counterman. “I am paid nothing, I read what is put in front of me, and I have not got an instrument in this city that would tell me which of the two things she said is the one that matters.”
+## Where It Came From
 
-## A Street At About Half Past Four
+“It came off you,” said the counterman. “Not off me and not off her. Six weeks ago a woman in your room said the words *a man in a white plate* out loud with the door open, and about four people were in that passage, and she has been saying it to people since and she has not been to the passage off Cordwain in her life.”
 
-He found the man from the nineteenth of this month outside a yard about half a street away from his own, at about half past four in the afternoon, and he told him in daylight, in a street, with nothing in either hand, in about four seconds.
+“The fourteenth of this month.”
 
-“That is me.”
+“She said it on the fourteenth of this month, and it has been in this city for six weeks, and on the twenty-sixth of May it got itself said twice at a rail in the ordinary voice by a woman with no idea what she was carrying, and I am telling you because you came down here and because I am paid nothing and there is nobody else in this city you would have gone to.”
 
-The man took about four seconds over it and then said something that Lin Hao had not been ready for and had not been ready for at all, and it took the rest of the evening to get past.
+He took his thumb off the wood.
 
-“Where did you think I was going to use it.”
+“What you do about it is your own business,” said the counterman. “I have stood in that passage for nine years reading the bottom of a page to whoever will stand here and I have never been able to find out what any of it was for. It turns out that the one thing this office has never published about itself is the address, and the address is the only part of it that no outsider could put together for themselves.”
 
-“You have been carrying it about for a fortnight.”
+He did not ask that question, and he has not asked it in nine years, and it is the one thing about this morning that neither of them will put in a book if there is ever a book to put it in.
 
-“I have told you what I have been doing with it and you did not ask.” The man had gone about four feet away along the wall, which is what a man does when he is not being trusted and not meant to be.
+He has never asked that once in nine years and he did not ask it then, and about four people were in that passage and a question was not made by any of them.
 
-“I did not want to know what you do at night. I wanted to know whether this office keeps anything about me, and the man in the white plate was a way of asking it that did not make me say my own name on a fourth floor in front of a clerk.”
+The man who is paid nothing went back to the sheet on his rail and squared it with his thumb and read the six lines at the foot of it out to whoever came along next, at the speed he reads everything, and did not know that the man who had been in front of him a moment ago is the thing at the top of it.
 
-“I could have answered that.”
+That is the arrangement and it is not a comfort. He has been the last man in this city who is asked and cannot answer for nine years, and about four days ago a woman at that rail told him something about the man who stands in front of him, and he is going to carry it, and he has not been asked whether he will.
 
-“You could have asked me the question I had,” said the man. “You could have said, there is a man comes up your stairs, what is his name, and I would have said I do not know his name, and that would have been the end of it and I would have gone home.”
+## What He Said In The Passage About Four
 
-He went on up the street.
+He said one more thing on the way out of that room, at about eleven and a half, to the clerk and to about four people in the passage, and it was the only thing he said out loud that day that was not about a person in the room.
 
-## A Street With A Man Standing In It
+“If somebody in this city can now say what I do at night, then they can say it to my face, and I am not going to stand in a corridor and tell them not to. What I am going to do is go on cleaning the same washrooms on the same four nights and be the same man in the same coat, and let the description be wrong or right without me helping it, because the moment I help it, it is a thing somebody gave me.”
 
-He stood there in the street about nine minutes and worked out what had happened and it was the same thing that had happened at a gate about four hundred yards the other way on the twenty-fourth of the third month, and this time it had cost a fortnight of a man carrying a description of him around this city for nothing at all.
+“Does that help anybody?”
 
-He had been four seconds ahead of the person in front of him again.
+“It helps one person,” said Lin Hao, “and she has a rota page with four names on it and she does not need a man in a white plate standing up in a passage taking her part against a woman at a rail.”
 
-He had not known what the man wanted and had answered the other question, out loud, in a street, in daylight, to a stranger who had never asked to know where he slept, and he had done it because the answer to the other question was on his own coat and about four hundred people in that passage had heard it that afternoon anyway.
+## The Third Court, At About Eleven At Night
 
-That was the whole of the arithmetic and it did not have one good line in it.
+He went down about four hundred yards and across and along a street two streets wide and stopped on a pavement about forty feet off a yard he knows, at about eleven at night on a working night, with nothing in either pocket.
 
-*Three thousand seven hundred and fifteen days.
+There were lights on in the ground floor of a branch office off a third court and there are lights on in the ground floor of that branch office every night between about eleven and about half past five, and he has not looked at them from outside in nine years.
 
-Less three thousand seven hundred and eight, the nineteenth of this month, is seven, and this office refused to say in a room who the man in the white plate is, and was right, and he let that stand,
+He stood there for about four minutes.
 
-and on the same afternoon a woman who had been up four flights told about nine people at a counter in a passage off Cordwain exactly what the office had refused to write down, and he then went into a street and told a man a thing the man had not asked him for.*
+A woman in that office is on the rota with him and her name is on the same page as his, and there are two other names on that page, and about nine people in this city can now say what the four of them do at night and where.
+
+Then he turned round and went home, and it was the first night in nine years he had been on a pavement looking at a building he worked in and feeling that the building was not a place he had ever been inside.
+
+*Three thousand seven hundred and fifteen days. Less three thousand seven hundred and eight, the nineteenth of this month, is seven, and a man decided in a room with the door open that this office will not answer about him, and the sentence that did it went out of that room six weeks earlier in a woman’s mouth, and on the twenty-sixth of this month it was said twice at a rail under a window in a passage off Cordwain.*
 
 *Less three thousand five hundred and sixty-nine, the thirtieth of December, is fifty-six, and the forty-first sheet has been face up on that rail for every one of the last fifty-six of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and ninety-five days, which is forty-three months and five days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-

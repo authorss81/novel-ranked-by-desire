@@ -1,114 +1,131 @@
 # The Page Is Turned Away
 
-Three thousand seven hundred and fifteen was the twenty-sixth of the month before this one and the tenth of this one is day three thousand seven hundred and twenty-nine, and three thousand seven hundred and twenty-nine less three thousand seven hundred and fifteen is fourteen, and out of a month that begins on the first, thirty less twenty-six plus ten is fourteen.
+Three thousand seven hundred and twenty-two was the third of this month and the tenth is day three thousand seven hundred and twenty-nine, and three thousand seven hundred and twenty-nine less three thousand seven hundred and twenty-two is seven, and ten less three is seven by the month count.
 
-## The Woman Came Up At Eleven
+## She Came Back A Week Later With A Reason
 
-She came up at about eleven and she had been up those four flights twice before, and on the second of those she had read her own row out of that book and gone on and read the row above hers out loud in a room with the door open.
+She came up at about eleven on the tenth of this month with the same child and she had her coat unbuttoned, which she had not done the first time.
 
-She took the chair at the end of that table and did not take anything out of her coat.
+“I have thought about it for a week,” she said. “You told me that this office has a row with a date and an hour and a space in it about a man who works nights on a third court, and you did not deny it and you did not say what was in it, and I have had a week of it.”
 
-“I want the page,” she said. “The one my answer is on. Turned in front of me, the way you said on the thirtieth of March.”
+“I told you there was one.”
 
-He was standing nine feet off with his hands where he could see them.
+“You told me enough.” She put the fingers of one hand on the wood on the side away from the child, and took them off again. “So now I want my own. Whatever this office has about me, I want to see it, because I have been walking around this city for a week being a woman who has been told something and I would rather be a woman who has read it.”
 
-“I am not going to do that.”
+Wenna Raut closed the pen into the tray.
 
-She did not say anything for about four seconds, which is longer than most people take and much longer than she took on the fourteenth of April.
+She looked at him for about four seconds and he gave her a nod about a quarter of a second long, and that is the whole of what happened at nine in the morning in that room, and it was not said to anybody.
 
-“No,” she said. “You are not.”
+## Nine Minutes
 
-## Why, And Not A Reason
+It took about nine minutes to find the row and it was the right row, and there were about four people going up and down that passage while it was being done.
 
-He said it in about nine seconds and it was the plainest thing he has said in that room in nine years, and about four people in that corridor about four feet wide heard all of it.
+He brought the book round to the middle of the table and turned to the page and it lay there with the row on it in the ordinary way, and a woman with a child on the bench by the door was able to read it from about two feet away.
 
-“The row above yours is a stranger’s row. It is about a wall and a yard and a man who came up at eleven minutes past two on the eleventh of a month and said something through a door. That man has never been asked about anything. You read his row out loud in this room a month ago and four people heard it, and it is in you and you cannot set it down.”
+Her hands were already going towards it.
 
-“If I turn that page in front of you this morning then it goes in front of your eyes a second time and you will carry it out of this room a second time and about four people will hear it a second time, and that man has nothing in this city except that his row has never been read to anybody at all.”
+He put his own hand down on the page about nine inches above the row and kept it there.
 
-“That is all he has got. You have it and so do three people in that corridor and I gave all of it away on the fourteenth of April without stopping you, and I have not slept properly about it since.”
+“Look,” he said.
 
-He had to stop there for about four seconds and it was not for breath.
+She looked.
 
-“He does not know you exist,” he said. “That is not a figure of speech. He came up four flights about a wall and he spoke through a door and he went down again and there is nothing anywhere in this city that would let anybody put his name to that afternoon. And that is the only protection he has and it is the reason your row being turned this morning would be the end of it.”
+That is all that happened. His hand was on a page in a room with the door open and it was above the row and not on it, and about four people went past in the passage and a bound page cannot be read at a glance by anybody going past, and she was two feet away and she saw a hand and nothing else.
 
-“Why can you not do it for anybody else.”
+## What He Said And What He Closed
 
-“I can do it for anybody else,” he said. “That is what makes it a promise and not a rule. A rule would be the same for everybody. This is not the same for anybody. It is the same for about eight people in a hundred and it is not the same for you, and the difference between the eight and you is a man you have never met and a wall you have never seen.”
+“I am not going to turn it,” he said. “I was going to and I have not, and I am telling you that I was going to, because I am not going to lie to a person who has come up four flights.”
 
-## What She Gets Instead
+“You told me last week there was one row.”
 
-“Then what do I get.”
+“There is one row about me and the whole of the rest of that book is about pieces of paper, and about four of every nine of them are about a person, and I am in there, out loud, in a passage, seven days ago.”
 
-“The finger,” said Wenna Raut. “That is what has been happening since the sixth of this month. One row, read out, and the page does not turn, and I do not move my finger and I do not raise my eyes, and you see nothing, and you will hear your own nine words in a flat voice about nine minutes after I put my finger down.”
+“So?”
 
-“I have been up here twice for nothing.”
+“So if I turn that page towards you,” said Lin Hao, “then you get a page out of more rows than anybody has ever counted, and you have been told, by a woman at a rail, that a man who does four nights a week in washrooms on a third court is inside an office in this building.”
 
-“You have been up here twice and one of the two times you got your own row read to you and about four people heard a stranger’s hour, and nothing in this city can put that back.”
+“You will go through that page and you will take away everything on it about everybody either of us has ever had to do with. And that is not me protecting the book. That is me being one of the rows.”
 
-The woman put her fingers on the edge of the wood and then took them off again, and looked at the place on the wood where the strap had lain that morning and at the dust in the grain of it.
+He took his hand off it.
 
-“That mark is new,” she said. “In March there was no mark.”
-
-“There has been a mark on that table every working morning since the seventh of April and it is a mark the strap makes and it has never been mentioned and it is not going to be on anything.”
-
-“Everything in this room is a mark somebody is not mentioning,” said the woman, “and you have just found one and I have been in it twice without seeing it.”
-
-“Read it to me,” she said.
-
-Wenna Raut put her finger on it and it took about nine minutes to find and about forty seconds to read one row, and the woman at the end of that table did not see a single word of it.
-
-“Then you have had everything you came for and it is four lines in somebody else’s voice, and it is exactly what you would have got in a fold, and it took nine minutes longer.”
-
-“It is the same thing with the handle taken off,” said Wenna Raut, “and the handle is the part that could be taken out of the room.”
-
-“You could have turned it. I saw you look at it twice before you said you would not.”
-
-“I looked at it twice.”
-
-“Why did you not?”
-
-“Because he said no,” said Lin Hao, “and because about four people were in that corridor, and because I am the man who made the promise and I am not going to have my clerk hold up the reason for it.”
-
-## Seventy Days
-
-At about half past four he was alone in that room for about four minutes with the door open and about four people going past, and he said the rest of it out loud, because whatever is said at the end of that table at that hour goes down four flights afterwards in about four heads and no smaller room exists to take it back into.
-
-“In seventy days I made a promise at the end of that table on the thirtieth of March. Seventy days, and thirty of those were in April and thirty were in May and ten have been in this month. On that morning I said that a page could be turned in front of the person it was about, at their asking, and that nothing on it would be read sideways.”
-
-“I made that promise about four people hearing and I have had it standing for seventy days and it has been used twice and one of the two times it was used it took a stranger’s row into a corridor. Today I have turned it away from the person who asked for it.”
-
-“It is not withdrawn. Everybody may still ask. It is simply not kept for a woman with a husband and a row above hers, and nobody in this city will ever be able to tell it from the outside, because from the outside a person is either shown something or she is not.”
+“The promise I made on the thirtieth of March was that any person might ask to have the page their own answer is written on turned in front of them,” he said, “and it was in a corridor with four people in it and about nine minutes to carry the book up, and it has stood for seventy days, which is two months and ten days, and it is finished from this morning.”
 
 ## The Plainest Sentence In It
 
-He had laid the only copy of every true thing that office has ever said out open on a table in a room any person in this city may walk into, from the seventh of April to the tenth of June, and he gave the promise away in the same quarter,
+He said the next part at the end of that table with the door open, which is where he says things.
 
-and the promise he made on the thirtieth of March was cut in half on this morning because of a person and not because of a rule, and the price was paid by the person who asked to see her own page.
+“I had that book on that table for seventy days and I gave it away in the same quarter,” he said. “The promise I made on the thirtieth of March was cut in half this morning because of a person and not because of a rule, and the price was paid by the woman standing here, who asked to see her own page, and she is not getting it, and she asked politely and she asked twice in seven weeks and she has a child on that bench.”
 
-He is rank one. He cleans washrooms at a branch office off a third court, four nights and three off, on a rota he asked for before anybody thought of offering him one, and there is no figure cut into the plate in his coat anywhere, and none of that moved this morning and he did not ask for it to.
+## What She Said
 
-## About Half Past Five, In A Yard
+The woman did not shout.
 
-The two people came up those stairs at about half past five to take it down and he did not go with them, and the corridor was the width it is and they got past each other in it the way two people do.
+That is the part he has not been able to get past since, and it was worse than shouting, and she stood up off the bench and put the child's hand straight and then said one sentence.
 
-He went down the four flights about four minutes behind them and out through the yard door, because the room was a room with a bare table in it and there was nowhere else to be.
+“Then I have lost a week,” she said, “and a bus, and I am not going to be able to tell anybody in this city that I saw my own page in this building.”
 
-She was in that yard with her husband.
+“No.”
 
-She was not crying and she was not quiet either, and she was talking fast in a voice he had not heard her use, and the husband had her by the arm about four inches above the elbow and was looking past her at the yard door, and Lin Hao was eight feet away in the doorway.
+“You can read it to me.”
 
-He heard about half of one sentence. She said *we will go up again* and then she said something else that he did not get, and he stood there and did not go over, and it was not the rule about doorways he made in the second year and it was not about four people and it was not about nine.
+“I can read it to you. That is what I am offering and it is what you had before the thirtieth of March and it is about a third of what you asked for on the seventh of May and you have been told twice since then that it would not be today.” He put the book square against the wood. “And I know that is not a fair offer and I am making it anyway.”
 
-He had four seconds in which he could have crossed that yard and said one sentence, and he had it ready, and it was *I can show you a way of doing this that does not cost him*, and it was true, and she would have taken him up four flights on it and about four people would have heard the whole of it in the yard.
+“You could have said no on the seventh of May and saved us both.”
 
-He did not say it. That was the whole of what the promise had cost by that hour and neither of the two of them in that yard would ever be told it.
+“I could have,” said Lin Hao, “and then on the third of this month you would have gone down four flights with nothing and this morning you would be at home, and I would not have had to do what I have just done in front of a woman with a child.”
 
-He went out through the gate and left the two of them in it.
+She took the child down the four flights and he heard all of them and did not go after her.
 
-*Three thousand seven hundred and twenty-nine days. Less three thousand seven hundred and fifteen, the twenty-sixth of the month before this one, is fourteen, and a woman asked for the page her own answer was written on and it was not turned, and the promise made at the end of March on the thirtieth was seventy days old this morning, and thirty of those days were in April and thirty in May and ten have been in this month.*
+## The Other One Who Came Up At About One
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is seventy, and the forty-first sheet has been face up on that rail for every one of the last seventy of them and has not been changed since it went up on the thirtieth of March.*
+A man came up at about one with a paper of his own and asked for the page, and Wenna Raut found it in about nine minutes, and when the book was turned round he was told he could have it read to him.
+
+He did not argue.
+
+“I asked for it on the ninth of May,” he said. “I was told it would not be today and I was not angry about that, because today was the ninth of May and not the tenth of June, and I understood a thing being a day.”
+
+“It is not being done.”
+
+“That is different from being late,” said the man, and he stood there for about four seconds and then he said, “About a month ago I could have had it, and about a month ago this office would have said yes, and I would like somebody in this room to say that out loud in front of me.”
+
+“I am saying it,” said Lin Hao.
+
+The man nodded, and read his four lines standing up while his paper was still in his hand, and went down the four flights, and about nine people a month in this city will go on asking to have a page turned for the rest of this year and every one of them will be told that it is not turned, and every one of those is somebody who is not in this room.
+
+## What The Clerk Said About It
+
+“You have not had the authority to do that,” said Wenna Raut.
+
+“No.”
+
+“There is no instruction and there is no form and there is no sheet that says a page may not be turned. You have done it because of you, and in about four years somebody is going to stand in that passage and ask why that office stopped showing people their own page, and the true answer is that a man got himself into a row with a space in it and then could not bear to have the book turned towards anybody.”
+
+“Yes,” said Lin Hao.
+
+“I want it noted that I said that before you said it.”
+
+“It is noted in about four heads,” he said, “and the four of them are in that passage, and it is not going on a page.”
+
+“You said it would not go on a page.”
+
+“That is a practice and not a line on anything, and not one thing this morning went under the foot of a page,” he said, “and the sixth line under those four sentences, which went in on the second of December of the year before last, is still the last that this office will ever put at the foot of a page of its own.”
+
+## Half Past Five
+
+At about half past five the two people came back and the strap went round that book twice and was done up, and the woman with the strap had something to say and had clearly had it since about eleven.
+
+“You have not asked me one question since the seventh of April,” she said, “and I have been waiting seven weeks for you to ask me one, and I have decided that you are not going to, and that is fine, and I am going to tell you the thing anyway so that I have said it.”
+
+“Say it.”
+
+“We are not going to be able to do this in the autumn,” said the woman. “It is not my hands, it is my back, and the second one is worse than the first, because she has been on that stair since the first year and has not once said so out loud in front of anybody including me.”
+
+He said nothing at all, which was what she had said she expected.
+
+“All right,” she said, and went down four flights and about four hundred yards with a bound Register that weighs what nine years of other people’s words weighs, and the man who had come up it after them stood at the top of the stair for about four seconds and then went back into a room and left the door where it was, because that door has been open for nine years.
+
+*Three thousand seven hundred and twenty-nine days. Less three thousand seven hundred and twenty-two, the third of this month, is seven, and less three thousand six hundred and fifty-nine, the thirtieth of the month before this one, is seventy, which is two months and ten days, and a page that was promised to be turned towards anybody who asked was turned away from the person who asked, and nothing whatever about that went on a page.*
+
+*Less three thousand five hundred and sixty-nine, the thirtieth of December, is seventy, and the forty-first sheet has been face up on that rail for every one of the last seventy of them, and that rail does not move again until the thirtieth of June.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand three hundred and nine days, which is forty-three months and nineteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
-
