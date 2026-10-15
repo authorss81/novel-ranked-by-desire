@@ -1,8 +1,49 @@
-# CURRENT — Ranked by Desire · **ONE THOUSAND CHAPTERS ON DISK · VOLUME 20 WRITTEN THROUGH 1000 · VOLUME 20 CLOSE IS THE LIVE PHASE**
+# CURRENT — Ranked by Desire · **ONE THOUSAND CHAPTERS ON DISK · VOLUME 20 WRITTEN THROUGH 1000 · VOLUME 20 IS CLOSED AND AUDITED · THE OVERRUN FLAG AT THE HEAD OF `state/open-threads.md` IS STILL OPEN**
 
-**LIVE HEAD BLOCK, 2026-10-15, VOLUME 20 BATCH 0005 WRITING PHASE. `outline/volume-20.md` IS A PLAN AND IS NOW A PLAN WITH NO FUTURE ROWS LEFT IN IT: ALL FIVE MOVEMENTS' TABLES HAVE BEEN REPLACED IN PLACE BY WHAT THEIR CARDS PUT ON THE PAGE. THE CHAPTERS 991–1000 ARE ON DISK AND ARE CANON AND 1000 IS THE LAST CHAPTER OF VOLUME 20. THE ONE NEXT PHASE IS `workspace/volume-20/volume-close/PROMPT.md`, WHICH WRITES NO CHAPTERS.**
+**LIVE HEAD BLOCK, 2026-10-15, VOLUME 20 CLOSE AUDIT PHASE. THIS PHASE WROTE NO CHAPTER AND OPENED NONE. Chapters 951–1000 are on disk, are canon, and 1000 is the last chapter of Volume 20. FULL AUDIT AND RECORD: `reviews/volume-20/volume-close.md`. A volume close closes a volume; it does not declare the manuscript finished, it does not close the overrun flag, and it does not decide whether a Volume 21 is wanted.**
 
-## 0 · WHAT THE LIVE PHASE DID, IN ONE BLOCK
+## 0 · WHAT THE CLOSE AUDIT FOUND, IN ONE BLOCK
+
+**THE VOLUME CLOSED ON ITS OWN PROMISE AND BY THE PLANNED MECHANISM.** *Lin Hao must answer for the three lines that have left that building in other people's mouths, or the only service this office has ever offered becomes the one thing in Ostara anybody can buy.* It landed at **964**, where a woman who has paid that morning asks the man standing at the bottom of a third court to confirm the address and he confirms it and then tells her to her face what she has just bought, and she does not go up. **The cost was said out loud by a person before it was spent, at 960, when Wenna Raut made him say it.**
+
+**THE SECOND HALF, STATED PLAINLY: the service was not bought, and the reason is a price that dies at the bottom of a stair because four feet of pavement will say three lines faster than four flights will carry one person up them — which is not a defeat of the man in the street and is written as one.** He is right about the walk and is never a villain and is never met and no figure of what he charges is printed anywhere. **What is lost is not the price and it is not the service. It is him.**
+
+**THE VOLUME'S ANSWER IS A MOUTH AND THE MOUTH STOPS. 1000 DECIDES IT.** Not an instrument — 995 refuses the five instruments out loud, upstairs with the door open. Not a piece of card — 996 finds he cannot read the end of his own second line. Not a practice — 986 finds four of the twelve can be pointed at a sheet and eight cannot be pointed at anything. Not a refusal — 969 refuses out loud and cannot prove in four years that he ever said it. **The only thing left is the one thing that leaves nothing behind and cannot be called back, and the last thing he can do with it is stop.**
+
+**THE FIVE IRREVERSIBLE DECISIONS, ALL HIS, ONE PER BATCH, AND THE MOVEMENT FROM A PRACTICE TO A MOUTH IS THE VOLUME'S WHOLE SHAPE.** 960 a body on a step · 970 a line on a practice sheet and not the standing sheet · 980 a name on a stranger's tailboard slip, the only ink in the volume and not on the office's paper · 990 a sentence in a room with no ink in that movement at all · 1000 a sentence in a street in the dark that stops. **The instrument gets less durable at every step and the cost gets larger, and by the last one there is nothing left to give away but the saying.**
+
+**THE FIGURES: CLEAN.** Spine re-derived by two methods sharing no constant, agreeing on all fifty dates. Every opener and every closing prints both operands spelled and both check. Rail and drawer re-derived at all fifty chapters against their own named anchor. 230 deduplicated footer-to-footer pairs, no pair comparing a file with itself, both rows pass. Five batch interiors `63 · 63 · 62 · 62 · 62` = 312, seams 20 + 7 + 7 + 7 + 7 = 48, **360 = exactly one year, the sixth time running.** All four quarter-ends exact, sheets and quarters differing by one at all four.
+
+**AND TWO FIGURES IN THE INSTRUMENTS WERE WRONG, WHICH IS THE FIFTH TIME THIS VOLUME HAS BEEN CHARGED A CARRIED-DOWN FIGURE AND THE FIRST TIME THE INSTRUMENT CARRYING IT WAS AN AUDIT'S OWN BRIEF.** `340 inside the five batches plus 48 = 360` is false — 340 + 48 = 388, the interiors sum to 312, and 340 is the span 1000−951 which already contains the four internal seams. And `2,230 = 74 × 30 + 10` is false; the page's 2,229 = 74 × 30 + 9 is right. **Both corrected on the page of the record with the operands printed, and published rather than quietly fixed.**
+
+**NINE FINDINGS. NO CHAPTER OF 951–1000 WAS OPENED AND ALTERED.** Two were corrections to the instruments and are applied in the record and the state files. Seven were adjudicated and left standing, each with its reason and, where one exists, its reversible repair written out. The two a later writer must know: **the half-pattern at 961** (a quarter-end prints the arithmetic and not the standing figure of eight hundred and fifty-two, a carried defect of batch 0002, left standing because 961 and 974 agree and the reader is not mis-served, with the exact repair recorded at `chapter-0961.md`:37) and **two hands put flat at 963**, which is the seventh volume the hand-flat rule binds and which volumes 15, 16 and 17 also carry unrepaired.
+
+**WHAT THE VOLUME OPENED, WHICH WAS PERMITTED, AND THE ONE FLAG BESIDE IT.** It opened *that a service anybody wants can be sold by somebody who has never used it, and that the only answer a body can give to a price is to be at the bottom of the stair*, and it landed. **It opened one thing it was not permitted to open, in a woman's own mouth at 993: a room that agrees with you cannot tell you when you are wrong, and he has built three people who agree with him.** That is a flag for whoever plans what comes next and not a canon change, because nothing about the world of the book moved.
+
+**WHAT A VOLUME TWENTY-ONE WOULD HAVE TO CARRY, NAMED AND NOT PLANNED:** the soft corner on a card he will not take down · four feet of pavement that goes on without him · three people who agree with him and a room that agrees with all three · a carrier with a bad back who cannot carry a strap past a man for another winter · a refusal of a figure that is now in a stranger's mouth and cannot be checked. **`outline/volume-21.md` is not opened, no batch directory was created, and no batch prompt was written.**
+
+### The gates, run from disk in the pass that reports
+
+**THE FULL GATE TABLE, EVERY ROW WITH ITS INSTRUMENT, IS AT `reviews/volume-20/volume-close.md` PART THREE.** The rows that decide something:
+
+- **Spine, two methods sharing no constant:** agree on all fifty dates.
+- **§5c day column against the prose, both operands printed, the required gloss computed rather than read off the page:** zero operand failures in a hundred checks. Eight non-month-end crossings, eight arithmetic glosses correct, five phrase-correct and three divergent at 983, 992 and 996 — recorded, not repaired, and the two shapes the house uses are now carried at `state/continuity.md` §3.
+- **Scenes under three definitions with the line span beside every cell:** fifteen cells, none zero. 993 reproduces the batch record at 7 / 4 / 2, 734 words, 258 words.
+- **`axis` and `axes` by command:** zero in the volume. Three files elsewhere in the book and all three are the ordinary noun, at 774, 780 and 781.
+- **Fourth-wall class grep including `manuscript` and `opposition`:** zero.
+- **Weekday names:** zero. **Bare `sat`:** 22, every one the ordinary past tense of *sit*, read by eye; `sun` zero. **Two rows published separately and neither allowed to stand in for the other.**
+- **Announced ages:** four probes plus an eye on all 426 `about` hits. Zero ages. Agnete Lindqvist's forty-five at 983 is the only age in fifty chapters. **The probe reports 426 and cannot decide, and it is published as 426 because that is what the instrument returns.**
+- **`settl`:** zero in Volume 20. The §9 gate as written reads *zero across Volumes 09 to 20* and that range returns **one** hit, at `volume-16/chapter-0793.md`:91, which predates the gate by 765 chapters. **Three of this audit's own gate rows were wrong and were corrected in the record rather than left standing** — `settl`, `since I was X` (2, neither an age) and a naive `forty-five` probe (2, one of them the drawer footer's *nine hundred and forty-five*).
+- **Titles:** `uniq -d` over all one thousand written title lines returns empty.
+- **Structure:** 102,646 words over fifty chapters, every file inside 1,800–2,700; zero paragraphs over roughly ninety words; quotation parity even throughout; zero duplicate paragraphs.
+- **`cuticle`:** four files across the whole book, zero in the volume. **The flag at §8a stays open and is not closed here.**
+- **The overrun flag at the head of `state/open-threads.md`:** still open. **Writing fifty chapters of the last planned volume did not decide it and may not be read as deciding it.**
+
+### The three things this phase did not do
+
+**It did not write chapter 1001 and did not declare the manuscript finished. It did not close the overrun flag. It did not adopt or refuse the fifth `cuticle`.**
+
+## 0-PREV · WHAT BATCH 0005 DID, IN ONE BLOCK
 
 **Ten chapters, 991 to 1000, movement five of Volume 20, *The Last Morning*, the twenty-eighth of October to the thirtieth of December of year thirteen.** Full prose, ten of ten inside 1,800–2,700 on the basis of record `^#` stripped, **19,088 words over the ten, measured per file from disk with `sed 's/^#.*//' <file> | wc -w` IN THE PASS THAT REPORTS, and the per-file row adds to that total. THE 993 AND 1000 CELLS AND THE TOTAL WERE RE-MEASURED AFTER THE REVIEW FIX PASS AT §0a AND THE OTHER EIGHT ARE UNCHANGED; THE PRE-REPAIR ROW OF 19,075 IS SUPERSEDED, NOT DELETED.** Per file: **991 1,827 · 992 1,860 · 993 2,554 · 994 1,824 · 995 1,805 · 996 1,816 · 997 1,810 · 998 1,831 · 999 1,863 · 1000 1,898.** Minimum 1,805 at 995, maximum 2,554 at 993. **No chapter leaves the band, so no chapter owes a reason for leaving it.** One scene, at 993, Isolde Marchetti, 732 after 261, explicit, saying yes fast and enjoyed, measured three ways below with the line span beside every cell. **No system message in any of the ten. No bold, no blockquote, no code fence, no table, no rule, no Arabic digit, no em dash and no day of the week in any of the ten.**
 

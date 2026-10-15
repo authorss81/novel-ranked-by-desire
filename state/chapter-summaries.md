@@ -2,6 +2,20 @@
 
 **THE NEWEST ROWS IN THIS FILE ARE THE FIFTY AT THE FOOT, 951–1000, IN FIVE BLOCKS. `state/archive/chapter-summaries-v17-v19-superseded.md` AND `state/archive/chapter-summaries-v9-v16-superseded.md` HOLD EVERYTHING OLDER. THE 941–950 ROWS REMAIN THE VOLUME 19 CLOSE SET. THE 991–1000 ROWS CARRY THE REVIEW FIX PASS OF 2026-10-15 AND WERE RE-MEASURED FROM DISK AFTER IT.**
 
+**VOLUME 20 IS CLOSED AND AUDITED AND NO ROW BELOW CHANGED.** The close audit of 2026-10-15 read all fifty rows against `outline/volume-20.md` §1–§10 and against the pages, and **it corrected no row and rewrote no chapter.** Its full record is `reviews/volume-20/volume-close.md`. The five rows that a next writer should find first, and why:
+
+| Ch | Why it matters after the close |
+| --- | --- |
+| **964** | **where the volume's promise landed.** A woman who has paid that morning asks the man at the bottom of a third court to confirm the address, is told to her face what she has just bought, and does not go up. **This is the chapter the volume was written to reach.** |
+| **986** | the four practices that can be pointed at on a sheet and the eight that cannot be pointed at anything, and no way on earth to tell which eight. **This is why a practice cannot be the instrument.** |
+| **970** | the thirteenth practice, on the practice sheet and not the standing sheet, spent once in a court and never again as an authority, and the second half of the cost said by a woman with empty hands: *you have not got a first use left either.* |
+| **993** | Isolde Marchetti, and the one thing the volume opened that was not on its permitted list: **a room that agrees with you cannot tell you when you are wrong, and he has built three people who agree with him.** Flagged at `state/open-threads.md` §7l. |
+| **1000** | **the volume's answer, and the chapter that decides it.** A mouth, and the mouth stops. The fifty-second sheet, the head printed with both of its figures in one breath, and four feet of pavement going on without him. |
+
+**AND THE TWO FIGURES A NEXT WRITER MUST NOT CARRY DOWN.** The spine is 951 = 4,309 to 1000 = 4,649; the five batch interiors are `63 · 63 · 62 · 62 · 62` = **312**, the seams are 20 + 7 + 7 + 7 + 7 = **48**, and **312 + 48 = 360 = exactly one year, the sixth time running**. **4,649 − 4,309 = 340 is the span and already contains the four internal seams; 340 is not the interior sum and 340 + 48 is not 360.** And the drawer at 1000 is **2,229 = 74 × 30 + 9**, not 2,230.
+
+**AND TWO FINDINGS LEFT STANDING BY THE CLOSE, both with their repairs written out in `reviews/volume-20/volume-close.md` so that nobody has to re-derive them:** 961 prints the quarter-end arithmetic and not the standing figure of eight hundred and fifty-two, a carried defect of batch 0002, and **the flag stands**; and `chapter-0963.md`:95 and `:97 put two hands flat, which is the seventh volume the hand-flat rule binds and which volumes 15, 16 and 17 also carry unrepaired.**
+
 **COMPACTED 2026-10-15.** This file was 274 KB in thirteen stacked blocks. What is left is the live set: the ten rows below are **chapters 941–950 as they now stand, after the thirty-six repairs the close audit made across twenty-one chapters of Volume 19**. Nothing was rewritten in the compaction and no row changed.
 
 **Where the rest of the summaries are, and this is the whole map:**
