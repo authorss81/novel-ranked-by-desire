@@ -1,3 +1,29 @@
+# VOLUME 17 BATCH 0001 ON DISK — **THE VOLUME-WIDE GATE. CHAPTERS 801–810 WRITTEN. MOVEMENT ONE CLOSED ON A PRACTICE AND NOT ON INK. NO THREAD CLOSED. ONE THREAD ADVANCED INTO VIEW. NONE OF THE ELEVEN MUST-NOTS BROKEN.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## WHAT 801–810 DID TO THE THREADS
+
+**ADVANCED, NOT CLOSED: any person may put one question about any paper, answered in writing, both in the Register in words used.** Nine rows in the month before this one, nineteen since the second of December, and the two kinds of row have now been named aloud by the clerk as two kinds and cannot be told apart by anything on the page. **THE NEIGHBOUR QUESTION IS NOW A THING A THIRD PERSON READ OFF A RAIL.** A man in a cap has asked three times whether a paper is here that somebody else brought, would not say whose, and has been told that this office will not answer him alone; a district officer has read the question and said it is properly put; a woman has asked to have one answer read out with another person in the room; and a woman who was not there on the day has asked at the counter whether anything in that book is about her husband.
+
+**THE ONE INSTRUMENT THIS VOLUME MAY CLOSE, THE COPY IN HIS COAT, IS UNTOUCHED AND IS NOT TO BE TOUCHED BEFORE 844.** It was carried down four flights and up again in the eighth year of the ninth and has been in the inside of a coat ever since.
+
+**STILL PERMITTED TO OPEN, AND IT IS NOW OPEN IN FACT AND NOT YET IN THE BOOK: that hand-carried answers are overheard, copied by ear and carried up a lane, that a fold in a room with two people in it is not a sealed thing, and that carrying every hard answer himself is becoming the list he refused to make.** 807 proved the hand does not hold. 810 answered with a practice and not with ink.
+
+## THE ELEVEN MUST-NOTS, RE-RUN ACROSS TEN FILES
+
+1. **NOTHING RETURNING TO THE REACH OF 486, IN EITHER DIRECTION, BY ANYBODY.** No chapter argues it, and no character says it is settled or that it is not.
+2. **NO FIGURE OF THE ACCOUNT, no floor, no ledger total, no running balance in grains.** `grep -rio 'settl' chapters/volume-17/` returns **zero in every inflection**; `settled` is not available as a word in this volume and the gate found it once and it was cut.
+3. **THE TWO WORDS ON THE STONE NOT PRINTED AND NOT ASSERTED** to be the same as any heading, as the head of the second column, or as anything else on any page. 805 names them as unprinted and says the only rubbing is in the inside of a boy's coat.
+4. **NOBODY SENT, TRACED OR ASKED.** The woman who cannot read is not in this batch at all. The broom woman is unnamed and unasked at 805. The boy is unaged and unasked at 805 and looks at neither box.
+5. **NO YARD, NO DOCKET, NO DATE.** 803 is a division building, a pigeonhole rack, a street with a laundry at one end, and a booking room at the end of a corridor.
+6. **HEAD NOT PRINTED** in nine of ten files and printed once, at 810, with both counts named and the subtraction shown.
+7. **SECOND COLUMN FOUR LINES** in every chapter of the batch, the fourth carrying a woman's name and no figure, and nothing entered.
+8. **NO SEVENTH LINE IN THE OFFICE'S HAND, ANYWHERE.** 810 says out loud that he decided the sixth was the last one and asks for that to be said in the room, and the thirty-seventh sheet goes up carrying no new line.
+9. **HIS AUGUST BLANK NEVER COMPLETED.** 804 shows it standing with its space in the middle and no hand near it.
+10. **NO RANK, BAND, PERMISSION, STANDING OR SHIFT CHANGE.** Rank one, branch nights, four nights and three off, the rota with four names. Two stops in a cold room are mentioned at 803 because the chest has been spent since the fourth year.
+11. **NO NEW ENEMY.** The opposition this batch is a man in a cap, a district officer doing her job, a queue that talks, a thumbprint in grease, a girl up a back stair, and a man with a slate who is right.
+
+**AND ONE THING THIS BATCH SETS DOWN THAT A LATER PASS MUST NOT UNSET: THE ANSWERS WENT OUT ON SLIPS FROM THE SECOND OF DECEMBER TO THE THIRTIETH OF MARCH AND NOBODY ORDERED IT.** It happened because the instruction of the second of December says nothing about a rail and therefore nothing stopped it, and 810 closes it by practice. **A CHAPTER OF 811–850 MAY DESCRIBE WHAT HAPPENS TO A SLIP ALREADY IN A PASSAGE, AND MAY NOT REOPEN THE QUESTION OF WHETHER ANSWERS GO THERE.**
+
 # VOLUME 17 PLANNED — **THE VOLUME-WIDE GATE FOR 801–850. NO THREAD CLOSED IN THIS PHASE. ONE THREAD CARRIED IN (ANY PERSON MAY ASK), ONE PERMITTED CLOSURE (THE COPY IN HIS COAT, AT 844–846), ONE PERMITTED OPENING (ANSWERS OVERHEARD AND THE JOINT READING). TEN MUST-NOTS CARRIED FORWARD WITH ONE ADDED (NO SEVENTH OFFICE-HAND LINE).** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT. THE BLOCKS THAT USED TO SIT BELOW IT WERE MOVED TO `state/archive/open-threads-v9-v16-superseded.md` ON 15 OCTOBER 2026 AND NONE WAS DELETED, ALTERED, OR SUMMARISED.
 
 ## CARRIED IN, PERMITTED, AND MUST-NOTS

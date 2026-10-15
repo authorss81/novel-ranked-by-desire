@@ -1,3 +1,36 @@
+# VOLUME 17 BATCH 0001 ON DISK — **THE SPINE BLOCK FOR 801–810. 3,240 TO 3,299. SEAM 31, INTERIOR 59. RAIL OFF 3,209: 31 · 38 · 45 · 51 · 58 · 64 · 71 · 77 · 84 · 90, THE THIRTY-SIXTH COMING DOWN AT FOUR ON THE THIRTIETH AND THE THIRTY-SEVENTH GOING UP CARRYING NO NEW LINE. HEAD 852 UNMOVED AT 810 ACROSS TWENTY-ONE SHEETS AND TWENTY QUARTERS. NOTHING IN THE OFFICE HAND. 37 INTERVAL ROWS PARSED OFF THE PAGE, ZERO UNPARSED, ZERO MISMATCHES.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM.
+
+## THE SPINE AS THE PAGE FIXED IT
+
+```
+METHOD A (y-1)x360+off[m]+(d-1). METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4 Jul 5 Aug 6 Sep 7 Oct 8 Nov 9 Dec 10.
+801 1 Feb y10 3,240 +31 SEAM · 802 8 Feb 3,247 +7 · 803 15 Feb 3,254 +7 SCENE · 804 21 Feb 3,260 +6
+805 28 Feb 3,267 +7 · 806 4 Mar 3,273 +6 · 807 11 Mar 3,280 +7 · 808 17 Mar 3,286 +6 · 809 24 Mar 3,293 +7
+810 30 Mar 3,299 +6 QUARTER-END, THIRTY-SEVENTH SHEET, IRREVERSIBLE
+METHODS AGREE TEN OF TEN. ZERO VIOLATIONS.
+SEAM 3,240-3,209=31 own column. NINE 7 7 6 7 6 7 6 7 6 = 59 and 3,299-3,240 = 59.
+```
+
+## THE RAIL, RE-DERIVED FROM THE ANCHOR 3,209 AND NOT FROM ANY CHAPTER'S OWN DAY
+
+```
+801 31 · 802 38 · 803 45 · 804 51 · 805 58 · 806 64 · 807 71 · 808 77 · 809 84 · 810 90, down at four, thirty-seventh up.
+804 IS FIFTY-ONE AND NOT FIFTY, BECAUSE 804 IS SIX DAYS AFTER 803 AND NOT SEVEN: 3,260 - 3,209 = 51.
+TEN CLAUSES RE-DERIVED OFF THE PAGE, ZERO MISMATCHES. EVERY CLAUSE ON THE PAGE READS "LESS THREE THOUSAND TWO HUNDRED AND NINE, THE THIRTIETH OF DECEMBER OF THIS YEAR".
+```
+
+## THE DRAWER, IN EVERY FOOTER
+
+`2,420`, the twenty-first of October of the seventh year, and its month breakdowns, all printed and all re-derived: 801 27m 10d · 802 27m 17d · 803 27m 24d · **804 28m and no days** · 805 28m 7d · 806 28m 13d · 807 28m 20d · 808 28m 26d · 809 29m 3d · 810 29m 9d. Thirty-seven printed rows parsed off ten pages, zero unparsed, zero mismatches.
+
+## WHAT MOVED IN 801–810, AND WHAT DID NOT
+
+**PAGE CARRIES SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT. THE SIXTH, ENTERED ON THE SECOND OF DECEMBER, IS STILL THE LAST.** The thirty-seventh sheet went up at four on the thirtieth of March carrying **no new line**, and the thirty-sixth had been up ninety days. HEAD 852 unmoved across **twenty-one sheets and twenty quarters at 810**, both named in words, both right, differing by one, and the chapter says which count the page is printing; `3,299 − 1,499 = 1,800 = 20 × 90` exactly. **SECOND COLUMN FOUR LINES, the fourth with a woman's name in the middle of a sentence and no figure on any of the four, and nothing went into it in this batch and no fifth goes in anywhere in 801–850. BUNDLE TWENTY-SIX. DRAWER SHUT, NEVER OPENED. COPY IN HIS COAT, UNTOUCHED. HIS AUGUST BLANK STANDS WITH ITS SPACE IN IT AND NO HAND WENT NEAR IT.** REGISTER: nineteen rows from the second of December to the twenty-first of this month, seventeen about papers the asker brought and two about a person, one row holding two questions, one request for a joint reading entered in the words used.
+
+**AND THE BATCH'S INSTRUMENT IS NOW A THING THAT EXISTS ON THE PAGE.** From the thirtieth of March, every written answer goes by hand to the asker and into nobody else's hand, and the carrier writes whose hand took it and in what order in their own book. **THERE IS NO LINE FOR IT ANYWHERE AND THERE NEVER WILL BE ONE.** A **slip** ran from the second of December to the thirtieth of March without anybody ordering it: office paper about the size of a hand, question on one side, answer on the other, read out at the rail to about nine people a week who did not ask. **810 CLOSES IT.**
+
+**THE CORNER: THE MONTH'S FORM UP SINCE THE SEVENTH, HER SHEET UNDER THE LOWER BATTEN WITH HER OWN PENCIL LINE ACROSS IT, FACE DOWN, UNMOVED SINCE THE SIXTEENTH OF DECEMBER; TWO PRINTED BOXES BLANK; THE DRESSED STONE UNDER THE STRIKING NOW CARRIES FIVE HANDS, THE THREE NEWEST ABOUT ANSWERS, THE NEWEST OF ALL ABOUT A MAN WHO IS PAID NOTHING.** BOY UNAGED AND UNASKED, BROOM WOMAN UNNAMED AND UNASKED, THE TWO WORDS NEVER PRINTED AND NEVER ASSERTED TO BE ANYTHING ELSE.
+
 # VOLUME 17 PLANNED — **THE SPINE BLOCK FOR 801–850. 3,240 TO 3,569. SEAM 31, INTERIOR 301, TOTAL WITH SEAMS 360 = EXACTLY ONE YEAR. RAIL OFF 3,209 / 3,299 / 3,389 / 3,479. HEAD 852 UNMOVED: 21/20 AT 810, 22/21 AT 823, 23/22 AT 837, 24/23 AT 850. NO PROSE IN THIS PHASE.** THIS BLOCK SUPERSEDES EVERY BLOCK BELOW IT. THE BLOCKS THAT USED TO SIT BELOW IT WERE MOVED TO `state/archive/continuity-v9-v16-superseded.md` ON 15 OCTOBER 2026 AND NONE WAS DELETED, ALTERED, OR SUMMARISED.
 
 ## PLANNED SPINE (FUTURE, NOT YET ON ANY PAGE)

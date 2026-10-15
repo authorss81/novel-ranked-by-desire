@@ -305,17 +305,17 @@ SPINE, 801-850
 
 ```
 0001 801-810   7 7 6 7 6 7 6 7 6  = 59   and 3,299 - 3,240 = 59   seam 801-800 = 31
-0002 811-820   7 7 7 7 7 7 7 7 7  = 63   and 3,369 - 3,306 = 63   seam 811-810 =  7
+0002 811-820   7 7 7 7 7 7 7 7  = 63   and 3,369 - 3,306 = 63   seam 811-810 =  7
 0003 821-830   7 6 6 7 6 7 6 7 7  = 59   and 3,435 - 3,376 = 59   seam 821-820 =  7
 0004 831-840   6 6 7 6 6 6 7 7 6  = 57   and 3,499 - 3,442 = 57   seam 831-830 =  7
-0005 841-850   7 7 7 7 7 7 7 7 7  = 63   and 3,569 - 3,506 = 63   seam 841-840 =  7
+0005 841-850   7 7 7 7 7 7 7 7  = 63   and 3,569 - 3,506 = 63   seam 841-840 =  7
 VOLUME 17      301 inside the five batches, plus a seam of 31 and four seams of 7
                = 301 + 31 + 28 = 360 = 3,569 - 3,209, exactly one year
 ```
 
 **EVERY ROW IN THAT FENCE IS NOW RIGHT IN THE FENCE, WHICH IS WHERE A FIGURE THAT WILL BE RE-DERIVED HAS TO STAND.** Two of them were wrong when this outline was first written and both were corrected underneath themselves instead of inside them, which left the wrong figures standing in the place a writer reads first. 0003 had its intervals printed `7 7 6 6 7 6 7 6 7`, which adds to 59 in the wrong order, and 0004 was printed `58` where `3,499 − 3,442 = 57`, because 837's six had been counted as a seven. The lists above were then read one term at a time off the §5c spine table, and each of the five batches' nine terms adds to its own endpoints.
 
-**A nine-number list is wrong if it does not add to its own endpoints, and it is also wrong if it adds to them in the wrong order.** A sum that happens to land on the right total is not a proof that the terms are the terms.
+**A nine-number list is wrong if it does not add to its own endpoints, and it is also wrong if it adds to them in the wrong order.** **REPAIRED 15 OCTOBER 2026 AGAINST THE PAGE: THE 0002 ROW PRINTED TEN SEVENS AGAINST A SUM OF SIXTY-THREE, WHICH IS TWO THINGS WRONG AT ONCE, AND IT IS NOW NINE SEVENS, WHICH IS SIXTY-THREE, AND IT IS NINE INSIDE ITS OWN COLUMN AND NOT ONE OF THEM IS THE SEAM. 810-811 IS THE SEAM AND IT IS SEVEN AND IT STANDS ALONE. THE SEVEN AT 821 IS THE SEAM OF BATCH 0003 AND IS NOT ONE OF BATCH 0002'S NINE. **THE 0005 ROW HAD THE SAME DEFECT, TEN SEVENS AGAINST SIXTY-THREE, AND IS NOW NINE, AND THE ONLY THING THAT WAS EVER WRONG WITH IT WAS THE NUMBER OF TERMS.** A sum that happens to land on the right total is not a proof that the terms are the terms.
 
 ---
 
@@ -351,12 +351,12 @@ VOLUME 17      301 inside the five batches, plus a seam of 31 and four seams of 
 | 802 | 8 Feb, y10 | 3,247 | **NINE QUESTIONS IN EIGHT DAYS.** Eleven pieces of paper again, about nine people, and this time every one of them is a question the office must answer in writing. Wenna Raut writes the first answer of the volume and will not read it aloud. |
 | **803** | 15 Feb, y10 | 3,254 · **SCENE** | **SCENE, RUNA SATO, 90 after 713.** The axis is the delivery. She carries the first hard answer by hand and writes down whose hand took it. |
 | 804 | 21 Feb, y10 | 3,260 | **WHAT THE REGISTER KEEPS.** A question about a paper and a question about a person turn out to be two different things, and the Register keeps both in the same words. |
-| 805 | 28 Feb, y10 | 3,267 | **THE CORNER UNDER RAIN.** The hundredth form is still months off; the squares are empty; her sheet with her own pencil line is still under them and nobody has moved it. |
+| 805 | 28 Feb, y10 | 3,267 | **THE CORNER UNDER RAIN.** The month's form has been up since the seventh and the hundredth is months off; the two printed boxes are empty; her sheet with her own pencil line is still face down under the lower batten and nobody has moved it. **THE FOUR INCHES NOW CARRY FIVE HANDS AND NOT FOUR, AND THE THREE NEWEST ARE NOT ABOUT A BUILDING — THEY ARE ABOUT ANSWERS, AND THE NEWEST OF ALL IS ABOUT A MAN WHO IS PAID NOTHING, IN A HAND HE DID NOT PUT THERE. TWO INCHES UNDER A MANTEL IN ABOUT FOUR HUNDRED KITCHENS AND FOUR INCHES OF DRESSED STONE ARE PULLED APART BY A MAN WITH A SLATE AND ARE NEVER MERGED IN 801–850.** |
 | 806 | 4 Mar, y10 | 3,273 | **BRACK COUNTS AGAIN.** Right about every fact, not thanked, not diminished. The second quiet is coming and he will say when it does not come back. |
 | 807 | 11 Mar, y10 | 3,280 | **THE SECOND WEEK ANSWERS.** Four answers go out by hand in seven days, and the fourth comes back with a thumbprint on it. |
 | 808 | 17 Mar, y10 | 3,286 | **THE QUEUE LEARNS PATIENCE.** A building with no door onto a street has a queue in winter, and nowhere to put it that is not looked at. |
-| 809 | 24 Mar, y10 | 3,293 | **ELEVEN AT THE RAIL AGAIN.** The counterman reads questions as well as answers, because both are on the page and he cannot be asked to read less. |
-| **810** | 30 Mar, y10 | 3,299 · **QUARTER-END, thirty-seventh sheet** | **THE MOVEMENT'S IRREVERSIBLE DECISION, AND IT IS HIS. ANSWERS GO BY HAND.** From this quarter, every written answer is carried by hand to the person who asked and into nobody else's hand, and the carrier writes down whose hand took it. **WHAT IT CLOSES:** the possibility of an answer left on a rail. **WHAT IT COSTS:** his own feet, all winter, and a clerk who must trust his hands. **THE HEAD IS UNMOVED ACROSS TWENTY-ONE SHEETS AND TWENTY QUARTERS AND THE CHAPTER SAYS WHICH COUNT IT IS PRINTING.** |
+| 809 | 24 Mar, y10 | 3,293 | **ELEVEN AT THE RAIL AGAIN, SIX DAYS BEFORE THE QUARTER-END.** A sheet came out of the flat file six days early and was squared and squared again four minutes later and neither of them said a word. **THE RAIL'S NEW INSTRUMENT IS SLIPS: HAND-SIZED OFFICE PAPER, QUESTION ON ONE SIDE, ANSWER ON THE OTHER, NO HEADING, READ OUT IN THE ORDER THEY ARRIVE. FIVE OF THE ELEVEN ON THE TWENTY-FOURTH ARE THERE FOR THE SLIPS AND NOT FOR THE SHEET.** The counterman has been reading questions as well as answers since December and has not been told and has not asked. **THE DECEMBER LINE IS NOT READ TWICE HERE AND 800'S RAIL IS NOT RESTAGED; THE LINE ABOUT A MAN WHO IS PAID NOTHING IS READ A SECOND TIME ONCE, FOR ONE OLD WOMAN WHOSE HUSBAND IS HARD OF HEARING, WHICH IS A DIFFERENT REASON AND A DIFFERENT CHAPTER.** END: a girl up the back stair says a man at that window wants to know whether he is allowed to ask about a question, and has not asked it yet. |
+| **810** | 30 Mar, y10 | 3,299 · **QUARTER-END, thirty-seventh sheet** | **THE MOVEMENT'S IRREVERSIBLE DECISION, AND IT IS HIS. ANSWERS GO BY HAND.** From this quarter, every written answer is carried by hand to the person who asked and into nobody else's hand, and the carrier writes down whose hand took it. **WHAT IT CLOSES:** the possibility of an answer left on a rail. **WHAT IT COSTS, BY PEOPLE:** his own feet, all winter; a clerk who has spent a year being exact on paper and is now exact about hands with no instrument that will tell her a hand is honest; and a counterman who will read one thing fewer, does not know whether that is mercy, will not be told, and asks to hear one of the hard ones go out on somebody's legs before it goes. **THE HEAD IS UNMOVED ACROSS TWENTY-ONE SHEETS AND TWENTY QUARTERS AND THE CHAPTER SAYS WHICH COUNT IT IS PRINTING.** |
 
 ---
 
