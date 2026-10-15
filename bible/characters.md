@@ -271,6 +271,21 @@ partner in the book with no ability, she tells Lin Hao the truth about his broth
 is wanted and says so and it is tender and it is about being wanted at the bottom of the Board by a man
 who is at the top of it.
 
+**Chapter 943 is her second scene and it is the last scene in the book, five hundred and fifty-five
+chapters after 388, and it is the volume's close.** Axis: the winter light, carried by that hall's own
+rule that nothing on a wall is read after the light has gone off it, because reading by a carried lamp
+puts the shadow of whoever is holding it on the words — and nobody names it. **She initiates, is enjoyed
+and says so plainly, and `PC-44` is honoured: no gift is manufactured and she is put on no roll.** What
+she gives him is the volume's debt: a door with three lines on it is the only address in this city a
+person can find without producing anything, and she has spent twenty years refusing to be findable on
+purpose and does not want it back. What she will not do is let any of it be called a hardship. **What
+she asks for is the one thing he has given away about nine times a fortnight all year and has never
+given to her: she wants him to say his own three lines out loud, in daylight, in a public hall, with
+about nine people in it — and not one of them has a pen.** She is at the bottom of Volume 19 telling him
+that the only archive in this city is her memory, that it has never been checked against anything, and
+that she has been wrong about about four of it in twenty years. She is wanted, and she says so, and she
+still has not been thanked.
+
 ---
 
 ## The opposition
