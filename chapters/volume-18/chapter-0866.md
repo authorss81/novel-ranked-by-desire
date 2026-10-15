@@ -20,7 +20,7 @@ She had brought nothing with her because she had brought nothing the last two ti
 
 “I do not know,” said Lin Hao. “And I am going to tell you why, and it is going to take about nine minutes and it is going to be the worst hour either of us has had in this room, and then you can do your own sums about it.”
 
-## The End Of That Table, At Eleven
+## Nine Things On A Counterfoil
 
 He stood at the end of that table and made a clerk write nine things down on the back of the standing sheet’s own counterfoil, which is not a page and is not in the Register and goes in the wastepaper basket at about half past five, and he said out loud, with the door open, that he was about to try to find a person in a book that has never carried a name and has never been counted by anybody since that June.
 
@@ -78,7 +78,7 @@ There was about nine seconds in that room.
 
 “That is not a rate that comes out of a person,” said Wenna Raut. “That is a rate that comes out of a column.”
 
-## What It Is, Said By The Person It Is About
+## Why She Tells Him It Is Wrong
 
 “Then say what it is, because I have been carrying it since the twenty-fourth of March and I got it out of a street about four seconds early, and somebody in this room was going to tell me what it was and it was going to be wrong, and you have had seven weeks and it is you.”
 
@@ -88,13 +88,15 @@ Wenna Raut looked at the counterfoil with eight things on it.
 
 “That is the reason and not the thing.”
 
-“The thing is that you would rather not know,” said Wenna Raut, “and a column of hours is the only way in this city of not knowing and finding out at the same time, and you have found it, and it is wrong, and I am telling you it is wrong in a room with the door open because that is where things get said and not where they get decided.”
+“The thing is that you would rather not know,” said Wenna Raut, “and a column of hours is the only way in this city of not knowing and finding out at the same time, and you have found it, and it is wrong, and I am telling you it is wrong out loud, because that is where things get said and not where they get decided.”
 
 She did not write it down.
 
-## The Thing He Said Back
+## A Tired Man Builds A Column
 
 “Then I am going to do it anyway,” said Lin Hao.
+
+He had not come into that room with that in it. He had come in at about eleven with nine things on a counterfoil and the intention of killing eight of them and carrying the ninth away upstairs in his head, and what happened instead was that the ninth got out of him in front of four people, because Wenna Raut had been right out loud for nine minutes and he could not stand there for four minutes more being right at him.
 
 He said it at about eleven and a half with four people in that passage, standing at the end of that table in the voice he has always used there, and it went out through that door into a building in which about nine people a month come up a stair.
 
@@ -120,12 +122,12 @@ He went down at about four and came back at half past five, and he carried nothi
 
 The passage outside that door had four people in it when he came out and two of them were gone by the time he went down. One of the two was the woman with the coat buttoned to the throat, who had stood in that passage for the best part of an hour listening to a man describe the end of the only thing he had built in nine years, and who went up four flights afterwards and asked again, and was told again that it would not be today.
 
-The figure on the back of his left hand was wrong by about four and he had not washed it and he was not going to, and he had told the truth about himself out loud in a room with the door open, which was the first thing in nine years he had done that could not be taken back and was not a practice and would not be entered anywhere.
+The figure on the back of his left hand was wrong by about four and he had not washed it and he was not going to, and he had told the truth about himself out loud at that table, which was the first thing in nine years he had done that could not be taken back and was not a practice and would not be entered anywhere.
 
-*Three thousand seven hundred and one days. Less three thousand six hundred and ninety-four, the fifth of this month, is seven, and eight ways of finding a person in that book were killed in about nine minutes, and the ninth is the hour, and the size of that book has not been counted by anybody since a June in the year before last.*
+*Three thousand seven hundred and one days. Less three thousand six hundred and ninety-four, the fifth of this month, is seven, and eight ways of finding a person in that book were killed in the space of one morning, and the ninth is the hour, and the size of that book has not been counted by anybody since a June in the year before last.*
 
-*And the ninth way is the hour a person came up those stairs at, and a man said out loud in a room with the door open that he was going to keep it where it could not be read.*
+*And the ninth way is the hour a person came up those stairs at, and a man said out loud, standing up, that he was going to keep it where it could not be read.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is forty-two, and the forty-first sheet has been face up on that rail for every one of the last forty-two of them.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is forty-two, and the forty-first sheet has been face up on that rail for every one of the last forty-two of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and eighty-one days, which is forty-two months and twenty-one days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

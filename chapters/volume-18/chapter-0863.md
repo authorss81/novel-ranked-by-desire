@@ -42,7 +42,7 @@ The ends of the first two fingers of her right hand have gone blunt, the actual 
 
 “You can have the stool,” she said. “Do not put your weight on the bench side of it, there is a thing going in at about eleven and I have not finished it.”
 
-## What She Did With Him
+## The Sheet Never Went Down
 
 She got him out herself with her right hand while her left went on holding the sheet clear, and she got him hard in about nine seconds, and she said the figure out loud when it happened, the way she says everything in that room, and he took the sound of it and asked nothing at all.
 
@@ -86,7 +86,7 @@ About halfway through that the other clerk came as far as the door and stood in 
 
 “March the eighth,” she said. “The figure.”
 
-“Moved it two places,” said Marguerite Vale, not turning her head and not stopping. “It is two out and not one, because on the eighth of March it was two out, and whoever put it in the first place was copying a page from the year before.”
+“I had the sheet out of the drawer at four this morning,” said Marguerite Vale, not turning her head and not stopping. “It is two out and not one, and whoever put it in the first place is not in this building, and I am not going to raise my voice about it across that door.”
 
 “Take it out of my hand when I am finished and do not thank me for it.”
 
@@ -94,7 +94,7 @@ He was still going, and she was still reading a column out loud over the top of 
 
 He asked her about that afterward. She said she would have carried a slip with a man’s name on it through that door in about four minutes and she would not have carried a word.
 
-## After
+## The Cloth On That Nail
 
 She got off him, went back to her sheet, and finished the column. Then she washed her hands in the basin on the shelf under the window, which she does between about eleven and about two every day of her life, and dried them on a cloth that has hung on that nail since the building was put up, and came back to the bench.
 
@@ -108,7 +108,7 @@ He was still on the stool.
 
 “Then price it.”
 
-“A thing you know about a neighbour is held by two people and one of them is you.” She put the pencil into the groove along the bead and left it there. “And you have made an office that will say it out loud, in a room with the door open, once, in front of the person it is about.”
+“A thing you know about a neighbour is held by two people and one of them is you.” She put the pencil into the groove along the bead and left it there. “And you have made an office that will say it out loud, once, in front of the person it is about.”
 
 “Which means that from the thirtieth of March this house can hold a fact about a woman who lives four doors from the woman asking, and nothing in this city will let anybody prove which of those two it belongs to.”
 
@@ -150,6 +150,6 @@ On the twenty-first of this month the near room had said the loudest thing anybo
 
 *Three thousand six hundred and eighty days. Less three thousand six hundred and seventy-three, the fourteenth of this month, is seven, and a woman who brokered for four guilds priced a neighbour at nothing and gave the argument against the whole arrangement in nine sentences, and nothing said in that room was carried through that door by anybody.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is twenty-one, and the forty-first sheet has been face up on that rail for every one of the last twenty-one of them.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is twenty-one, and the forty-first sheet has been face up on that rail for every one of the last twenty-one of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and sixty days, which is forty-two months and no days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

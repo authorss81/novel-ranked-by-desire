@@ -28,7 +28,7 @@ The woman who had the strap put her shoulder under the corner and took the whole
 
 It did not go over the newel. It came to rest on the tread above it with the woman’s shoulder under one end and the man’s forearms under the other and both of them standing still on a half landing with their breath going.
 
-## He Was At The Head Of It And He Did Not Get A Hand To It
+## Nine Seconds At The Top Of That Stair
 
 He was at the top of that stair and he has thought about the two or three seconds since.
 
@@ -90,11 +90,11 @@ He went down that hill at about eleven and about four hundred yards and the boy 
 
 One of them said *he is always up about this time* to the other one, and the other one said *he is*, and neither of them said one word to him, and he did not look at two people carrying nine years of other people’s words up a hill past him.
 
-That is not an event. It is not on any page. It has gone on being the arrangement for nine years and nothing this morning changed it.
+That boy has been up that path every working day for nine years and this morning did not change it, and neither did the strap, and the thing he took down that hill with was not the nine seconds at the head of the stair. It was that she wanted three things to make that book lighter and he has got one of them, and two of the three are people, and he did not ask her a single question about either.
 
 *Three thousand six hundred and sixty-six days. Less three thousand six hundred and fifty-nine, the thirtieth of the month before this one, is seven, and the bound Register came up four flights about four hundred yards off for the first time on a standing arrangement, and the strap it went up in is a length that goes round it twice because it is the wrong one, and the drawer it came from holds about nine of them and nothing whatever saying which book goes in which.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is seven, and the forty-first sheet has been face up on that rail for every one of the last seven of them, and that rail does not move again until the thirtieth of June.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is seven, and the forty-first sheet has been face up on that rail for every one of the last seven of them, and that rail does not move again until the thirtieth of June.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and forty-six days, which is forty-one months and sixteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
 

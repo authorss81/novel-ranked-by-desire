@@ -76,13 +76,13 @@ And if it is the four hundred and seventy a man behind a counter gave me as the 
 
 He went out at about eleven and was in the passage for the best part of nine minutes going up and down, and Lin Hao came out of that room behind him and watched him for about four seconds and then went back in.
 
-The man went down the four flights. He had been in the room for about nine minutes and the only thing he had wanted was a figure, and no person in this city has ever been handed one of those.
+The man went down the four flights. He had been in the room long past the time he had meant to stay, and the only thing he had wanted was a figure, and no person in this city has ever been handed one of those.
 
 “Who came up a fortnight ago,” said Lin Hao.
 
 He said it before he had decided to say it, into the open room, with about four people in that passage. Wenna Raut said *we cannot know that*, and he said *I know we cannot know it, I am not asking you to find it out.*
 
-## The Figure That Is Not On Any Page
+## Half Past Eleven, By The Basin
 
 He did not go down at eleven.
 
@@ -112,7 +112,7 @@ Wenna Raut did not look up from the page in front of her.
 
 *Three thousand six hundred and eighty-seven days. Less three thousand six hundred and eighty, the twenty-first of this month, is seven, and the answer given to a man on the second morning he asked was true, and the truth told a woman at the end of his lane that she had been right, and a figure and a standing and a place came into a room four flights up inside three weeks.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is twenty-eight, and the forty-first sheet has been face up on that rail for every one of the last twenty-eight of them.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is twenty-eight, and the forty-first sheet has been face up on that rail for every one of the last twenty-eight of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and sixty-seven days, which is forty-two months and seven days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
 

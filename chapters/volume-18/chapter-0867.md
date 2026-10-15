@@ -34,7 +34,7 @@ The man with the bundle looked at it for about nine seconds.
 
 “No,” said Wenna Raut. “It is a row.”
 
-## What The Space Is For
+## Four Seconds In Which Nothing Was Said
 
 He looked at it again and then he looked at her and then he looked at the man at the end of the table.
 
@@ -86,7 +86,7 @@ He said nothing.
 
 ## Six Years Of A Man Coming Out Of That Door
 
-The man with the bundle talked for about nine minutes without being asked to, and neither of the other two stopped him, and what he said was this.
+The man with the bundle talked for the best part of a quarter of an hour without being asked to, and neither of the other two stopped him, and what he said was this.
 
 The man comes out at about eleven and never before. He comes out through the side door and not the yard gate and he has never used the gate.
 
@@ -100,7 +100,7 @@ The book on that table had a date and an hour against the row and a space in the
 
 That is what the space is not for, and he did not say so in that room, and there were about nine seconds at the end of that man’s nine minutes in which the two of them could have said it and neither of them did.
 
-## What The Man With The Bundle Did About It
+## It Is Nothing
 
 He did not go straight back down to the cart.
 
@@ -110,11 +110,11 @@ Then he went down four flights and about four hundred yards and put the bundle b
 
 He told one person. A man loading at the other end of that court asked why he had been away four hours and he said *it is nothing*, and the man loading did not ask again, and the sentence *it is nothing* is in this city now in one more mouth than it was that morning.
 
-## Half Past Five
+## A Woman With A Cart Of Her Own
 
 He went down at about twenty past four with the bundle still in both hands and he did not leave it, and at the bottom of the four flights he turned round and looked up the stairwell for about four seconds and then went out.
 
-At about half past five the two people came back for the book and the strap went round it twice and was done up, and the woman with the strap looked at him where he was standing at the end of the table.
+At about half past five the two people came for the book and he was still standing at the end of that table with it, and the woman at the strap looked at him before she looked at the strap.
 
 “You do not have to be here for this part,” she said.
 
@@ -130,6 +130,6 @@ She looked at him for about four seconds longer than the strap took.
 
 *Three thousand seven hundred and eight days. Less three thousand seven hundred and one, the twelfth of this month, is seven, and a man with a coat and a pair of gloves in a cloth asked whether this office held anything about the man who works nights on that third court, and it holds one row, and there is a space in the middle of it, and the three of them could not tell him what the space is for.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is forty-nine, and the forty-first sheet has been face up on that rail for every one of the last forty-nine of them.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is forty-nine, and the forty-first sheet has been face up on that rail for every one of the last forty-nine of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and eighty-eight days, which is forty-two months and twenty-eight days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

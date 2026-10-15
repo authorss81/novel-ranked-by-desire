@@ -18,11 +18,11 @@ Wenna Raut opened the Register on the table, squared it to the wood with the sid
 
 It took about nine minutes and it is the same nine minutes that everybody gets, and she found the row, and she brought the book round so that the row was in front of the woman, and the row above it was above that, and it had always been going to be above that.
 
-## What She Did With It
+## The Line Above Her Own
 
 She did not read her own row first.
 
-That is what neither of them expected. It took Wenna Raut about four seconds to see it happening and about nine minutes afterward to stop thinking about it.
+That is what neither of them expected. It took Wenna Raut about four seconds to see it happening and the rest of the morning to stop thinking about it.
 
 The woman put her finger on the line under the one that had been turned to and read that one, and she read it out loud in a voice built for a kitchen with somebody at the back of it.
 
@@ -32,7 +32,7 @@ A date went out through that door into the passage, and then an hour, and then t
 
 She never got to the words. She was still saying the hour when Wenna Raut put two fingers on the page, and Wenna Raut had about four seconds and did not use them, because she had both hands on a book that weighs what that book weighs and could not have got to the door in time from where she was.
 
-## Who It Belonged To
+## A Man Sitting At Home At That Hour
 
 The row above was about a man, and the man was alive, and at that hour he was at home.
 
@@ -80,7 +80,7 @@ She nodded at that and he understood that she had been expecting the answer and 
 
 “And it is a date and an hour and some words in a hand that is not mine,” said the woman. “And I am not any more frightened than I was, and I have not been frightened for about two years. So whatever it was meant to do, it did that two years ago and not this morning.”
 
-## What It Is Now
+## The Second Half Of Careful
 
 The passage had cleared by then. There had been four people in it at about eleven and by about eleven and a half there was not one of them left, and they had gone down four flights or across about four hundred yards into whatever it is they do in the middle of a working morning.
 
@@ -96,7 +96,7 @@ The date and the hour went out of that door into about four people, and nothing 
 
 “Then it has not been turned,” said Wenna Raut. “So the two of us will find out what the other arrangement is, and we will find it out about four times a year, in a room, with a woman standing at it, and it will be found out by somebody who is not you.”
 
-## At About Two He Went Down And Stood At A Gate
+## The Gate Where Knocking Would Have Cost Nothing
 
 He went down the four flights at about two and about four hundred yards and stood at a gate on a street of small houses where a lamp had been left burning over a door that wanted oil.
 
@@ -106,7 +106,7 @@ So he did not knock, and standing at that gate was the correct thing to do and i
 
 That is the first morning a rule in that room and a person in that city have been on opposite sides of the same fact, and nothing in either of them knows about the other, and it cannot be put together again in about four years because there is no way of asking about four people in a passage.
 
-## What She Did At The Bottom Of The Stair
+## The Yard At The Bottom
 
 The woman went down the four flights and put her hand on the rail at the bottom of them, where the stone goes down into a yard, and stopped there.
 
@@ -116,8 +116,8 @@ He was not in that yard. He had gone up instead of down and was in his own room 
 
 That date and that hour are in a woman in this city now, and in about four other people who were standing in a passage, and a man in a white plate is the only person in Ostara holding an instrument that could find out how many of them there are, and he closed that instrument on the twentieth of October and cannot open it.
 
-*Three thousand six hundred and seventy-three days. Less three thousand six hundred and sixty-six, the seventh of this month, is seven, and a woman read the line above her own out loud in a room with the door open, and four people in a passage heard a stranger’s date and an hour, and the person it belongs to was at home.*
+*Three thousand six hundred and seventy-three days. Less three thousand six hundred and sixty-six, the seventh of this month, is seven, and a woman read the line above her own out loud at that table, and four people in a passage heard a stranger’s date and an hour, and the person it belongs to was at home.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is fourteen, and the forty-first sheet has been face up on that rail for every one of the last fourteen of them, and that rail does not move again until the thirtieth of June.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is fourteen, and the forty-first sheet has been face up on that rail for every one of the last fourteen of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and fifty-three days, which is forty-one months and twenty-three days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

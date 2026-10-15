@@ -18,11 +18,11 @@ She cut a strip of stiff grey card about the width of four lines and about nine 
 
 ## The Ninety Seconds
 
-She tried it on a man who had asked about a paper of his own and got the row in about nine minutes.
+She tried it on a man who had asked about a paper of his own and found his row faster than she had expected.
 
 She laid the strip along the top of the page and brought the page round, and the row stood in a long window of grey card with about an inch of the row above showing and about an inch of the row below, and the man read his own words.
 
-It took about ninety seconds from the finding of the row to his reading it, and ninety seconds of a bound page lying flat and open on a table in a room with the door open.
+It took about ninety seconds from the finding of the row to his reading it, and ninety seconds of a bound page lying flat and open on a table for anybody who came in off that stair.
 
 They both watched it.
 
@@ -38,7 +38,7 @@ They both watched it.
 
 “I have closed the part where she reads it herself. I have not closed the part where a bound page lies open on a table for ninety seconds in a room anybody may walk into, and I could not, and I have thought about that since the fourteenth of April and I have not got round it.”
 
-## The Part Nobody Had Said Out Loud
+## The Arm Across Four Lines
 
 Then she showed him what she had not wanted to show him.
 
@@ -66,7 +66,7 @@ He stood there for a while.
 
 “It is the same as what it is for, done with one arm,” said Wenna Raut. “A promise that a person may see the page is not a promise that a person may read the page, and we made the first one in about nine seconds on the thirtieth of March and neither of us asked about the second.”
 
-## The Ninety Seconds Nobody Has Got Round Yet
+## Two Ways Of Closing It
 
 “Then what about the ninety seconds,” he said. “That is the larger half of it and you have put a piece of card over the smaller half and called it done.”
 
@@ -82,7 +82,7 @@ He stood there for a while.
 
 “The first is a wage and the second is a stove,” said Wenna Raut, “and I have been in rooms where both were done and I would rather be an arm.”
 
-He wrote nothing down, because there was nothing on that table for it to be written on, and because he had begun to notice that every hard decision he took came out of his mouth at the end of a table with the door open and then had nowhere to go.
+He wrote nothing down, because there was nothing on that table for it to be written on, and because he had begun to notice that every hard decision he took came out of his mouth at the end of that table and then had nowhere to go.
 
 ## The Woman From December
 
@@ -90,7 +90,7 @@ The other one came up at about half past two with nothing at all in her hands.
 
 She came up in December with a question in her mouth and nothing in her hands, and that has happened once in nine years, and she asked whether the page could be turned.
 
-Wenna Raut found it in about nine minutes.
+Wenna Raut found it faster than she expected.
 
 It is the twenty-third of December and a date at the head and an hour against the date and then a question in the words she used, and there is nothing whatever under it, and there is going to be nothing under it for a long time yet, and the room put nothing to her about why.
 
@@ -108,7 +108,7 @@ It is the twenty-third of December and a date at the head and an hour against th
 
 She thanked him and neither of them said anything about it.
 
-## The Drawer It Goes In
+## Nine Hundred Stubs
 
 The strip went into the drawer at about half past five, and that is a different drawer from the one in the wall on the left-hand side of that table, which has not been opened since the second year.
 
@@ -130,6 +130,6 @@ He said that he would not tell anybody.
 
 *Three thousand six hundred and ninety-four days. Less three thousand six hundred and eighty-seven, the twenty-eighth of this month, is seven, out of a month of thirty that begins on the first, and a clerk laid a strip of card over a page and closed about eleven seconds of the morning, and a promise that a person may see a page turned out to be a promise that a person may not read one.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is thirty-five, and the forty-first sheet has been face up on that rail for every one of the last thirty-five of them, and that rail does not move again until the thirtieth of June.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is thirty-five, and the forty-first sheet has been face up on that rail for every one of the last thirty-five of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand two hundred and seventy-four days, which is forty-two months and fourteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

@@ -41,6 +41,18 @@ Batch 0003 opens 17 Jun y11: 10x360+120+16 = 3,736, seam 3,736 - 3,729 = 7.
 
 **AND THE THING THE THIRTIETH OF JUNE COSTS THIS BATCH: `3,749 − 3,659 = 90 = 3 × 30 + 0`, THREE MONTHS, EXACTLY, AND A SHEET GOING UP AT FOUR ON THAT AFTERNOON CARRIES NO NEW LINE IN THE OFFICE HAND.** Three months is the cleanest interval in the volume and it is the first exact quarter figure since 851 and it is printed in that same room on that same afternoon.
 
+## 2a. WHAT THE REVIEW OF 861–870 FOUND WRONG AND WHAT YOU INHERIT FROM IT
+
+**BATCH 0002 WENT OUT WITH THREE FIGURES WRONG ON THE PAGE AND THREE STATE FILES RIGHT, WHICH IS THE WORST ORDER A STATE FILE CAN BE IN. ALL THREE CAUSES WERE THE SAME: A FIGURE WAS CARRIED FORWARD INSTEAD OF BEING RECOMPUTED FROM ITS ANCHOR. YOU HAVE ONE QUARTER-END IN THIS BATCH.**
+
+1. **THE RAIL OPERAND WAS STALE IN ALL TEN FOOTERS.** Every footer of 861–870 printed *less three thousand five hundred and sixty-nine, the thirtieth of December*, beside results counted off `3,659`. `3,666 − 3,569 = 97`, not seven. **They now read *less three thousand six hundred and fifty-nine, the thirtieth of March*. YOUR ANCHOR CHANGES AT 873 AND NOT BEFORE IT: 871, 872 and 873 are counted off `3,659`, and 874 through 880 are counted off `3,749`, and no clause may run across that break.**
+2. **868 ADDED THE INTERVAL SINCE THE LAST TIME A FIGURE WAS PRINTED INSTEAD OF SUBTRACTING FROM THE SPINE.** `3,715 − 3,082 = 633`, not 640. **A figure you have already printed is a figure you must subtract from today's spine, and a figure you have not printed is a figure you may compute once.**
+3. **863 HAD A CHARACTER ASSERT SOMETHING ABOUT A FINISHED CHAPTER'S PAGE.** The eighth of March of year eleven is `3,633`, which is chapter 856, and 856 contains no figure out by two places. **NO CHAPTER OF 871–880 MAY ASSERT ANYTHING ABOUT WHAT IS ON A FINISHED CHAPTER'S PAGE THAT THE CHAPTER ITSELF DOES NOT SAY. A CHARACTER MAY TALK ABOUT A DATE; SHE MAY NOT TALK ABOUT A CHAPTER.**
+4. **869 PRINTED AN AGE AND THE BATCH'S OWN GATE DID NOT CATCH IT.** *She is about thirty* stood through a state file that recorded a zero for announced ages. **A GREP GATE DOES NOT FIND AN AGE. THE COUNT IS A HAND ON A PAGE, AND YOU HAVE NOT HAD THAT PAGE YET WHEN YOU WRITE THE GATE.**
+5. **THE FOOTER APPARATUS ITSELF IS CORRECT AND IS NOT WHAT THE REVIEW MEANT.** The rail clause and the drawer clause are the spine device and they stand in every chapter of 851–870. What was wrong was one footer at 870 that restated its own chapter title and its own prose back to itself.
+6. **THE CLAUSE *WITH THE DOOR OPEN* WENT FROM EIGHTEEN USES IN NINE FILES TO SIX IN SIX, AND *ABOUT NINE MINUTES* FROM EIGHTEEN TO TEN, WITH NOT ONE FIGURE MOVED.** The rule that produced those numbers is the one on the page in `state/current.md` §0d: **the figure is the fact and the shape is only the shape.**
+7. **A `## ` HEADING IS A CHAPTER TITLE ONE LEVEL DOWN AND GETS THE SAME RULE.** Twenty-two of batch 0002's were contents lines, clock times, figures or a *it* with no referent, and all twenty-two were replaced with names. **Write names.**
+
 ## 3. FIGURE ALLOWANCES
 
 **SPENT AND NOT TO BE REPRINTED ANYWHERE IN 851–900:** the office's exact months, printed once at 851 · the head at anything other than 860, 873, 886 and 900 · the hundredth, hundred-and-first and hundred-and-second forms, spent in Volume 17 · the fourth exact figure · `settl` in every inflection.

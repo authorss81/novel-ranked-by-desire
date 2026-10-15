@@ -48,15 +48,15 @@ That is all that happened. His hand was on a page in a room with the door open a
 
 He took his hand off it.
 
-“The promise I made on the thirtieth of March was that any person might ask to have the page their own answer is written on turned in front of them,” he said, “and it was in a corridor with four people in it and about nine minutes to carry the book up, and it has stood for seventy days, which is two months and ten days, and it is finished from this morning.”
+“The promise I made on the thirtieth of March was that any person might ask to have the page their own answer is written on turned in front of them,” he said, “and it was in a corridor with four people in it and nine minutes to carry the book up, and it has stood for seventy days, which is two months and ten days, and it is finished from this morning.”
 
-## The Plainest Sentence In It
+## Seventy Days On A Table
 
-He said the next part at the end of that table with the door open, which is where he says things.
+He said the next part standing at that end of the table, which is where he says things.
 
 “I had that book on that table for seventy days and I gave it away in the same quarter,” he said. “The promise I made on the thirtieth of March was cut in half this morning because of a person and not because of a rule, and the price was paid by the woman standing here, who asked to see her own page, and she is not getting it, and she asked politely and she asked twice in seven weeks and she has a child on that bench.”
 
-## What She Said
+## The Woman Did Not Shout
 
 The woman did not shout.
 
@@ -76,9 +76,9 @@ That is the part he has not been able to get past since, and it was worse than s
 
 She took the child down the four flights and he heard all of them and did not go after her.
 
-## The Other One Who Came Up At About One
+## A Man Who Asked On The Ninth Of May
 
-A man came up at about one with a paper of his own and asked for the page, and Wenna Raut found it in about nine minutes, and when the book was turned round he was told he could have it read to him.
+A man came up at about one with a paper of his own and asked for the page, and Wenna Raut had it inside four minutes, and when the book was turned round he was told he could have it read to him.
 
 He did not argue.
 
@@ -92,7 +92,7 @@ He did not argue.
 
 The man nodded, and read his four lines standing up while his paper was still in his hand, and went down the four flights, and about nine people a month in this city will go on asking to have a page turned for the rest of this year and every one of them will be told that it is not turned, and every one of those is somebody who is not in this room.
 
-## What The Clerk Said About It
+## What She Wanted Noted
 
 “You have not had the authority to do that,” said Wenna Raut.
 
@@ -110,9 +110,9 @@ The man nodded, and read his four lines standing up while his paper was still in
 
 “That is a practice and not a line on anything, and not one thing this morning went under the foot of a page,” he said, “and the sixth line under those four sentences, which went in on the second of December of the year before last, is still the last that this office will ever put at the foot of a page of its own.”
 
-## Half Past Five
+## Her Back, Not Her Hands
 
-At about half past five the two people came back and the strap went round that book twice and was done up, and the woman with the strap had something to say and had clearly had it since about eleven.
+He had his coat on and was standing at that door about a minute before half past five when the two of them came up the corridor with the book already strapped, and the woman with the strap had something to say and had clearly had it since about eleven.
 
 “You have not asked me one question since the seventh of April,” she said, “and I have been waiting seven weeks for you to ask me one, and I have decided that you are not going to, and that is fine, and I am going to tell you the thing anyway so that I have said it.”
 
@@ -122,10 +122,10 @@ At about half past five the two people came back and the strap went round that b
 
 He said nothing at all, which was what she had said she expected.
 
-“All right,” she said, and went down four flights and about four hundred yards with a bound Register that weighs what nine years of other people’s words weighs, and the man who had come up it after them stood at the top of the stair for about four seconds and then went back into a room and left the door where it was, because that door has been open for nine years.
+“All right,” she said, and went down four flights and about four hundred yards with a bound Register that weighs what nine years of other people’s words weighs, and the man who had let them in stood in that corridor for about four seconds after the door had gone and then went back into the room and left the door where it was, because that door has been open for nine years.
 
-*Three thousand seven hundred and twenty-nine days. Less three thousand seven hundred and twenty-two, the third of this month, is seven, and less three thousand six hundred and fifty-nine, the thirtieth of the month before this one, is seventy, which is two months and ten days, and a page that was promised to be turned towards anybody who asked was turned away from the person who asked, and nothing whatever about that went on a page.*
+*Three thousand seven hundred and twenty-nine days. Less three thousand seven hundred and twenty-two, the third of this month, is seven, and less three thousand six hundred and fifty-nine, the thirtieth of the month before this one, is seventy, which is two months and ten days, and an arrangement that had stood since that same morning was ended in a room by a person, and not one word of it went on a page.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is seventy, and the forty-first sheet has been face up on that rail for every one of the last seventy of them, and that rail does not move again until the thirtieth of June.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is seventy, and the forty-first sheet has been face up on that rail for every one of the last seventy of them, and that rail does not move again until the thirtieth of June.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand three hundred and nine days, which is forty-three months and nineteen days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*

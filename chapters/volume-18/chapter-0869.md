@@ -6,7 +6,7 @@ Three thousand seven hundred and fifteen was the twenty-sixth of this month and 
 
 She came up at eleven on the third of this month and she had not been in that room in her life and she had a paper in her hand because she had walked from a lane with something on a rail in her head.
 
-She is about thirty and she has a child with her, which has never been brought up those four flights, and she put the child on the bench by the door before she said anything.
+She is a young woman with a child, and the child has never been brought up those four flights, and she put it on the bench by the door before she said anything.
 
 “A woman at a rail under a window told me,” she said, “that the man in the white plate in this building spends four nights out of seven washing other people’s floors at an office off a third court. I want to know whether this office holds anything about him.”
 
@@ -14,7 +14,7 @@ Wenna Raut put her hands on the wood and then took them off it.
 
 “I cannot tell you that,” she said.
 
-## The Reason, Which Is The Twentieth Of October
+## The Sixteenth And The Twentieth
 
 “Then tell me why not.”
 
@@ -34,7 +34,7 @@ She turned round.
 
 “Whoever you are asking about, and me, and the man at the end of that table, and that is three people in a room and none of them can be in two places at once.”
 
-## Two Hundred And Twenty-Three Days
+## The Number Was Out First
 
 “Seven months and thirteen days,” said Lin Hao.
 
@@ -48,9 +48,9 @@ Three people in that room said nothing at all.
 
 “I know you did not.”
 
-“I am going to say a third thing now,” said Wenna Raut. “This office says nothing about a person who is not in this room, and it has been saying that for nine years, and every word of it is correct, and you are the only person in Ostara who can break it and you are not going to, because breaking it in a room with the door open is what you do instead of doing it in a book.”
+“I am going to say a third thing now,” said Wenna Raut. “This office says nothing about a person who is not in this room, and it has been saying that for nine years, and every word of it is correct, and you are the only person in Ostara who can break it and you are not going to, because saying it out loud where people can hear you is what you do instead of doing it in a book.”
 
-## What He Did
+## The Wrong Voice On Purpose
 
 She was wrong and he knew it and she knew he knew it and neither of them said so.
 
@@ -72,7 +72,7 @@ The child said something to the woman and the woman did not answer it.
 
 “It is much worse than what it was,” said Wenna Raut, “and you have paid for it out loud, which is at least a thing you are good at.”
 
-## The Four People In The Passage
+## Two Of Them Took The Stair
 
 What the four people in that passage did with the next twenty minutes is their own.
 
@@ -84,7 +84,7 @@ The fourth has not been identified and is not going to be.
 
 He said it in the ordinary voice and not the one he keeps for the end of that table, because a thing said in that voice is a decision and a thing said in the ordinary voice is a fact, and at about eleven in the morning on the third of this month he needed it to be a fact badly enough to put it in the wrong voice on purpose, and Wenna Raut heard him do it and has never mentioned it.
 
-## What It Costs Her, Said Out Loud
+## A Year And A Half Of Her Working Life
 
 “About four days a month I cannot say what we said,” said Wenna Raut, when the woman and the child were at the bottom of the stair. “That is a year and a half of my working life that has gone in about four days a month, and on those days I say it anyway and I cannot tell whether what I am saying is the row or my own memory of the row, and those two have been different to me for a long time.”
 
@@ -108,8 +108,8 @@ He said nothing.
 
 She said it a second time, not to him, the way a person says a thing to a street, and then she went along about four hundred yards and turned into a lane and was gone, and he stood in that yard for about nine seconds and then went down the hill and along and across to a branch office off a third court where a woman whose name is on his rota page was coming off at about half past five.
 
-*Three thousand seven hundred and twenty-two days. Less three thousand seven hundred and fifteen, the twenty-sixth of this month, is seven, and less three thousand four hundred and ninety-nine, the twentieth of October of last year, is two hundred and twenty-three days, which is seven months and thirteen days, and a man standing at the end of that table said out loud in a room with the door open that he is the man in the row with a space in the middle of it.*
+*Three thousand seven hundred and twenty-two days. Less three thousand seven hundred and fifteen, the twenty-sixth of this month, is seven, and less three thousand four hundred and ninety-nine, the twentieth of October of last year, is two hundred and twenty-three days, which is seven months and thirteen days, and a man standing at the end of that table said out loud, in the ordinary voice, that he is the man in the row with a space in the middle of it.*
 
-*Less three thousand five hundred and sixty-nine, the thirtieth of December, is sixty-three, and the forty-first sheet has been face up on that rail for every one of the last sixty-three of them.*
+*Less three thousand six hundred and fifty-nine, the thirtieth of March, is sixty-three, and the forty-first sheet has been face up on that rail for every one of the last sixty-three of them.*
 
 *Less two thousand four hundred and twenty, the twenty-first of October of the seventh year, is one thousand three hundred and two days, which is forty-three months and twelve days after them, and a drawer in that room has been shut for every one of them under an instruction with a man’s name under it.*
