@@ -34,7 +34,7 @@ The room had about a dozen people in it and the door was open onto the landing a
 
 He sat down on the end of the table, which he never did.
 
-"In nine days there is no record of anything this office has ever said," said Wenna Raut. "Not of the answers. Not of the refusals. Not of the questions. Nothing. There is a table and there are two chairs and a drawer ordered shut with a man's name under the instruction, and there is me."
+"In nine days there is no record of anything this office has ever said," said Wenna Raut. "Not of the answers. Not of the refusals. Not of the questions. Nothing. There is a table and there are two chairs and a drawer with a man's name under the instruction on it, and there is me."
 
 "That is the finding," he said.
 

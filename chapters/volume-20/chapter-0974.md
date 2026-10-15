@@ -30,7 +30,7 @@ They stood in a row in the middle of that room: Wenna Raut, and the two carriers
 
 The quarter sheet was on its nail against the wall and Lin Hao took it off the nail and turned it round so that the figure at the head of it faced the three of them and himself, and he said it out loud in the voice that office reads everything in, because there was nothing else available.
 
-"Four thousand four hundred and sixty-nine less one thousand four hundred and ninety-nine is two thousand nine hundred and seventy, which is thirty-three times ninety," he said. "Thirty-four sheets and thirty-three quarters, differing by one."
+"Four thousand four hundred and sixty-nine less one thousand four hundred and ninety-nine is two thousand nine hundred and seventy, which is thirty-three times ninety," he said. "Thirty-four sheets and thirty-three quarters, differing by one, and the figure standing at the head of that sheet is eight hundred and fifty-two, and it has stood at that figure through thirty-four of those sheets and thirty-three of those quarters."
 
 Not one of them said anything, which was correct, and he went on with the part that goes with it.
 
@@ -106,7 +106,7 @@ The lamps on the bar across the middle of that room were the only light in it an
 
 ## Walking Up The Four Flights Afterwards
 
-He went up the four flights afterwards and the door was open and the room was half empty and the sixth of the six lines at the foot of that standing sheet was still the last one in it, and the second column still had four lines in it and was not going to get a fifth.
+He went up the four flights afterwards and the door was open and the room was half empty, and two people were still over a document at the far end of the table, and he took the near end of it and stood in the middle of the afternoon not saying anything.
 
 Wenna Raut had the practice sheet out. He looked at it and she moved her hand off it.
 

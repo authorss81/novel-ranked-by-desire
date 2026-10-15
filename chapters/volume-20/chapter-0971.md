@@ -106,7 +106,7 @@ The second time was slower and he got the last of the second line the way it is 
 
 And then he went up the four flights in the light, which he had not done in nine years, and stood in the doorway of that room with his coat on and the book back on the table and said that he was going down the road in the morning.
 
-Wenna Raut had her pen in her hand and the practice sheet beside the standing sheet, and the standing sheet kept six lines, and the last of the six was entered on the second of December of the ninth year.
+Wenna Raut had her pen in her hand and the practice sheet beside the standing sheet, and she was holding the pen an inch above the practice sheet and had been for some seconds, which is a thing she does when she is not going to use it.
 
 She looked at the practice sheet for a while and then she looked at him.
 
