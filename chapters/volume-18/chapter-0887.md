@@ -1,6 +1,6 @@
 # Two Days And Seven Days
 
-Three thousand eight hundred and thirty-nine was the thirtieth of the month before this one and the seventh of this one is day three thousand eight hundred and forty-six, and three thousand eight hundred and forty-six less three thousand eight hundred and thirty-nine is seven, and thirty less thirty plus seven is seven by the month count.
+Three thousand eight hundred and thirty-nine was the thirtieth of the month before this one and the seventh of this one is day three thousand eight hundred and forty-six, and three thousand eight hundred and forty-six less three thousand eight hundred and thirty-nine is seven, and seven days out of a month that begins on the first is seven by the month count.
 
 ## At The Kerb
 
@@ -80,7 +80,7 @@ They went back up at about eleven and the ordinary afternoon of the building wen
 
 About four people came up those four flights. A boy of about nine wanted to know whether a thing his mother had signed in the third month was still hers, and the answer was read to him in the voice that office reads everything in, and he wrote his own name on a paper of his own and the clerk witnessed that he wrote it and not that it came from there.
 
-The stair was loud from four and went quiet at six, and the two carriers came up it at half past four with the strap and took the book down into the yard with them, and the boy with the paste brush went past the arch about an hour after that with the old board under his arm and the empty kerb behind him.
+The stair was loud from four and went quiet at six, and the two carriers came up it at half past five with the strap and took the book down into the yard with them, and the boy with the paste brush went past the arch about an hour after that with the old board under his arm and the empty kerb behind him.
 
 "He comes back on the ninth," said Lin Hao, half to himself and half to Wenna Raut.
 

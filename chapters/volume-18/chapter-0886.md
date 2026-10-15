@@ -68,9 +68,9 @@ The yard went very quiet in a way that yards do not.
 
 "You told her."
 
-"I told her," said the counterman.
+"I told her," said the counterman, "and there is one word in that I have been carrying about for a week without saying it out loud. She did not ask me. She stood where you are standing and said that phrase out loud to the passage itself and went, and then I said it after her, to a woman with her back already out of that yard."
 
-"I am paid nothing and she asked me a plain question in a plain voice and I am a man who reads the foot of a sheet out loud to whoever stands at my rail, and that is the whole of what I am for. I did not think about it for a second. I have thought about it every second since and I would do it again this afternoon and I am telling you now instead of letting you find it in a lane."
+"I am paid nothing and she said a plain thing in a plain voice to nobody at all and I am a man who reads the foot of a sheet out loud to whoever stands at my rail, and that is the whole of what I am for. I did not think about it for a second. I have thought about it every second since and I would do it again this afternoon and I am telling you now instead of letting you find it in a lane."
 
 Lin Hao stood at that rail with about two people left in the passage and worked through it in the nine seconds he allowed himself.
 
@@ -78,7 +78,7 @@ A thing said at a rail goes home in about nine heads and it cannot be got back o
 
 "What did you say to her."
 
-"I said the stair at the back of the court, with the arch under it, and the one the carriers go up," said the counterman. "And she said *thank you*, and went. And I have thought about it every second since and I would do it again this afternoon."
+"I said the stair at the back of the court, with the arch under it, and the one the carriers go up," said the counterman. "And she said *thank you*, and went. I would do it again this afternoon."
 
 ## What Is Left
 

@@ -50,11 +50,13 @@ A woman was standing three stools further down the lane showing a piece of stamp
 
 He knew her before she turned round.
 
-"I brought it up four flights in August," she said, "and the clerk wrote down that I brought it, with the date and the hour, in my words. And he would not read it to me and he would not write it for me and he told me to spend the money on a chair with arms."
+"I brought it up four flights in August," she said, "and the clerk wrote down that I brought it, with the date and the hour, in my own words, and he has read those four lines to me every time I have come up for them since, and I have come up four times, and he would not put one word of it in his own hand for me to carry down, and he told me to spend the money on a chair with arms."
 
 "I remember."
 
-"I have not spent it on a chair." She got it back off the man in the doorway, who had been very polite about it, and folded it into four and put it inside her coat against her chest. "I have shown it to four people since the spring, and every one of them has understood it, and every one of them has gone away and still not known whether my husband was a good man, and it turns out that is the thing a piece of paper cannot do."
+"I have not spent it on a chair." She got it back off the man in the doorway, who had been very polite about it, and folded it into four and put it inside her coat against her chest.
+
+"I have shown it to four people in the seven weeks since I had it, and every one of them has understood it, and every one of them has gone away and still not known whether my husband was a good man, and it turns out that is the thing a piece of paper cannot do."
 
 Not one person in that lane said a word to her about it, because nine stools of men who carry things for a living have a rule about a woman and a paper, and she went on up the hill to a house with a lock on it and the four flights of that building were not the four flights this office is on.
 

@@ -90,7 +90,7 @@ The book went down at half past five and came up at a quarter to ten. Between th
 
 Not a night with the book out of the building. A night with the book at the bottom of four flights and the woman at the top of them, and the two of them as far apart as they can be made without anybody in this city being able to walk from one to the other in under half an hour.
 
-He got to his own door and stood in the dark of his own hall and worked out that this was not a gift. It was a gap in a day's work that had already been agreed to be shut, and he was proposing to make the gap permanent on the strength of a sentence said on a landing by a woman who carries paper for a wage and has never been thanked.
+He got to his own door and stood in the dark of his own hall and worked out that this was not a gift. It was a gap in a day's work that had already been agreed to be shut, and he was proposing to make the gap permanent on the strength of four seconds a woman gave away on a landing without being asked for anything back, and he was doing the arithmetic of her evening from his own front step and getting it wrong.
 
 And then he worked out the other half of it, which was that the gap did not exist unless the book came back up those four flights at a quarter to ten by one pair of hands instead of two, and that the whole thing turned on the sum he had been doing for eight days and could not make close, and that the sum closes at about a quarter to six in the evening, in the dark, in a yard, on the twenty-fifth of this month.
 
