@@ -106,6 +106,20 @@ Mrs Imrie, asked nothing, ever, by anybody · Wren Kallo's bar, untested and not
 
 **AND ONE THING A LATER WRITER MUST NOT RESTAGE:** the sixth of the six lines at the foot of that standing sheet, entered on the second of December of the ninth year, is still the last, and the only ink of this movement went onto a cart-hire slip at a tailboard and not onto any paper belonging to that office.
 
+### 7d · THE SECOND REVIEW OF 971–980, AND WHAT IT CHANGED ON THE PAGE. THIS BLOCK IS NEW AND IT IS CANON BECAUSE THE CHAPTERS ON DISK CARRY IT.
+
+**A SECOND INDEPENDENT REVIEW RAN OVER THE TEN CHAPTERS AFTER THE FIRST FIX PASS HAD ALREADY CHANGED THEM AND FOUND SEVEN THINGS. ALL SEVEN ARE REPAIRED. TRANSCRIPT `logs/batch-0003.review.log`; RECORD `reviews/volume-20/batch-0003.md` §8b; CARDS `outline/batches/volume-20-batch-0003.md` under SECOND REVIEW FIX PASS. NO BEAT, DATE, SPINE FIGURE, TITLE, SCENE, DECISION OR ENDING MOVED AND NO CHAPTER WAS RESTARTED.**
+
+1. **980's last page was carrying an orphan of the first pass's pre-fix draft**, three paragraphs after the book had been taken off the cart at the tailboard and two after the cart man had described the strap, saying there was no strap on that cart to see and no daylight and no back board. **It now stands as the consequence: she is going to look for that door in the morning, he wanted to say something and said nothing, and by morning it will be loose about the city without him. The batch's only money figure went out with it.**
+2. **980 contradicted itself and 972 about coming down that stair with empty hands.** He had not done it in nine years; it now says so.
+3. **EIGHT PRINTED ABSENCES CAME OUT OF FIVE CHAPTERS.** 971, 974, 977, 979, 980. **A standing figure of this office is shown by being on the page and is not announced by being counted. This is not a new thread and it closes nothing: it is the may-not row at `state/continuity.md` §0b applied to a batch whose own cards had licensed eight exceptions, and the cards' seventh adjudication is the fix.**
+4. **THE HEAD AT 974 IS NOW WHOLE.** Eight hundred and fifty-two is printed there in the same breath as the subtraction, which is the quarter-end pattern of 900:103 and 886:105. **THE SAME HALF-PATTERN IS ON THE PAGE AT 961 AND IS A CARRIED DEFECT OF BATCH 0002. IT IS FLAGGED IN `state/continuity.md` §0c AND WAS NOT REOPENED, because 961 is not this batch's to change. Its arithmetic is `4,379 − 1,499 = 2,880 = 32 × 90` and must not move.**
+5. **THE CLOSING-BEAT ROW WAS MISDESCRIBING 974 AND 980** and is rebuilt from the last narrative line of each file. **The review's own replacement for 974 was also wrong and is recorded as wrong.**
+6. **NO FIGURE OF WHAT THE MAN IN THE STREET CHARGES IS PRINTED IN 951–980.** The *two marks* was out with item 1 and adjudication 4 stands.
+7. **TWO `since I was X` HITS ARE NOW REPORTED AS THEIR OWN PROBE ROW.** Neither announces an age; the binder, the cart man, both carriers, the counterman, Wenna Raut and Marguerite Vale remain unaged on the page.
+
+**AND WHAT NONE OF THIS CLOSED: the overrun flag at the head of this file stands exactly as it stood, the fifth `cuticle` at §8a stands exactly as it stood with its count at four, and the 992 row at §8c is still a plan that no chapter of this volume can execute. Writing thirty chapters and repairing them did not decide any of the three.**
+
 ## 8 · TWO MORE FLAGS, RAISED BY THE REVIEW OF THE VOLUME 20 PLANNING PHASE ON THE FIFTEENTH OF OCTOBER 2026. NEITHER IS CLOSED. NEITHER IS OURS TO CLOSE.
 
 ### 8a · THE FIFTH `cuticle`, WHICH IS A FLAGGED PROPOSED CANON CHANGE AND REMAINS FLAGGED AND NOT ADOPTED

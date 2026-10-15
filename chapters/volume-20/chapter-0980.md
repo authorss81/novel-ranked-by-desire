@@ -6,7 +6,7 @@ Four thousand five hundred and four was the fifth of this one and the twelfth of
 
 The six lines were read out at a quarter to ten because that is the order they are read in, and the room got on with the day, and people came up the four flights and got what they had come for, and Lin Hao stood at the end of the table with his hands behind him and watched a book lie on a table for the last time before it was nine days old.
 
-Wenna Raut had the practice sheet out beside the standing sheet and had not asked for it and had brought it out anyway, which is a thing she does on a quarter-end and had never done on any other morning. The standing sheet kept six lines. The second column kept four lines. The bundle was on the side table where it is.
+Wenna Raut had the practice sheet out beside the standing sheet and had not asked for it and had brought it out anyway, and she left it where she could both of them see it from the door. The bundle was on the side table where it is.
 
 Not one person said anything about the book all day, because there was nothing to say about a book that was going to a binder, and the room went on the way it goes.
 
@@ -34,7 +34,7 @@ Lin Hao took the pencil off the string.
 
 He wrote his name on the tailboard of a hired cart, in his own hand, on paper that was not his office's paper, which had not been put in a file or entered in a book or read out in a room or corrected by anybody in nine years and had never once been done and was going out of that building in a man's pocket before the light went.
 
-That was the whole of the ink. There was nothing else. The standing sheet kept six lines and the last of them was the second of December of the ninth year and there was not going to be a seventh, and the practice sheet had one line on it dated the twenty-third of May about somebody else's mouth, and the cart slip had his name on it and the day and the nine days and nothing else.
+That was the whole of the ink he put anywhere. His own name on a stranger's paper, with the day on it and the number of days on it, and the practice sheet lying on the desk with a line in her hand dated the twenty-third of May, about somebody else's mouth.
 
 The man folded the slip into his coat.
 
@@ -80,7 +80,7 @@ That was the whole of it. It took about a minute and it was the first time in ni
 
 ## What Could Not Be Un-Been
 
-He walked back in the dark with nothing in his hands, which is not the way he comes down that stair and is the only way he came down it for nine years, and he understood on about the second hundred yards that nothing about it was reversible, and not because of the nine days.
+He walked back in the dark with nothing in his hands, which is not the way he comes down that stair, and is the only way he has ever come down it with nothing in his hands, and he understood on about the second hundred yards that nothing about it was reversible, and not because of the nine days.
 
 A sheet in a file can be brought back and no person need ever know it went. A book in a flat file can be taken out of a building and put back and the building does not know. And a thing which has been outside is a thing other people have seen, and nothing in this city or any other can put a thing back the way it was before a stranger looked at it in daylight.
 
@@ -102,7 +102,7 @@ Lin Hao was standing in the dark about ten feet off with his hands in his pocket
 
 It had happened on the first night, on the delivery, about an hour after the book had gone indoors, to a woman at a doorway who would be at the bottom of a third court in the morning to find out whether it was true.
 
-There was no strap on that cart to see and no daylight and no back board. That woman was going to go and find a door on the strength of a thing a man had said because he was being paid two marks and did not know what was in it.
+She was going to go and find that door in the morning on the strength of a thing a man had said for money and had not known what was in it. He wanted to say something and said nothing, and the rest of it belonged to a man with a bench and was nine days away, and by morning it would be loose about this city without him.
 
 ## Twenty To Seven
 

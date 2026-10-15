@@ -86,7 +86,7 @@ He stood in the middle of that room and let it arrive, because there was nowhere
 
 He did not write it down.
 
-He had said it out loud with the door open, which is where he says things, and the practice sheet was on the desk beside the standing sheet, and the standing sheet kept six lines with the last of them entered on the second of December of the ninth year, and he put both hands behind his back.
+He had said it out loud with the door open, which is where he says things, and the practice sheet was on the desk beside the standing sheet, and he put both hands behind his back.
 
 "Is that a practice," said Wenna Raut. "Because if that is a practice I will write it and put the date on it, and if it is not a practice then it is a thing that has been said in a room and that is all it is."
 
