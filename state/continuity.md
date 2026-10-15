@@ -1,24 +1,32 @@
-# VOLUME 17 BATCH 0002 ON DISK — **THE SPINE BLOCK FOR 811–820. 3,306 TO 3,369. SEAM 7, INTERIOR 63. RAIL OFF 3,299: 7 · 14 · 21 · 28 · 35 · 42 · 49 · 56 · 63 · 70, THE THIRTY-SEVENTH COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE, WHICH IS 823, AND THE THIRTY-EIGHTH GOING UP THAT AFTERNOON CARRYING NO NEW LINE. **THE RAIL DOES NOT MOVE AT 820.** HEAD NOT PRINTED IN ANY OF THE TEN. NOTHING IN THE OFFICE HAND. EIGHTY LITERAL OPERAND STRINGS CHECKED AGAINST THE PAGE, ZERO MISSES.** THIS IS THE ONLY BLOCK IN THIS FILE.
+# VOLUME 17 BATCH 0003 ON DISK — **THE SPINE BLOCK FOR 821–830. 3,376 TO 3,435. SEAM 7, INTERIOR 59. RAIL OFF 3,299: 77 · 84 · 90, THE THIRTY-SEVENTH COMING DOWN AT FOUR ON THE THIRTIETH OF JUNE, WHICH IS 823, AND THE THIRTY-EIGHTH GOING UP THAT AFTERNOON CARRYING NO NEW LINE; AND OFF 3,389 FROM 824 ON: 6 · 13 · 19 · 26 · 32 · 39 · 46. THE RAIL DOES NOT MOVE AT 820, AT 821 OR AT 822. HEAD PRINTED AT 823 ONLY. NOTHING IN THE OFFICE HAND. NOTHING LEFT THE OFFICE HAND IN TEN CHAPTERS.** THIS IS THE ONLY BLOCK IN THIS FILE.
 
 ## THE SPINE AS THE PAGE FIXED IT
 
 ```
-METHOD A (y-1)x360+off[m]+(d-1). METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4.
-811 7 Apr y10 3,306 +7 SEAM · 812 14 Apr 3,313 +7 · 813 21 Apr 3,320 +7 SCENE · 814 28 Apr 3,327 +7
-815 5 May 3,334 +7 · 816 12 May 3,341 +7 · 817 19 May 3,348 +7 · 818 26 May 3,355 +7
-819 3 Jun 3,362 +7 · 820 10 Jun 3,369 +7 IRREVERSIBLE, AND NOT A QUARTER-END
+METHOD A (y-1)x360+off[m]+(d-1), off Jun 120 Jul 150 Aug 180.
+METHOD B 30x((y-1)*12+pos[m])+(d-1), pos Feb 0 Mar 1 Apr 2 May 3 Jun 4.
+821 17 Jun y10 3,376 +7 SEAM · 822 24 Jun 3,383 +7 · 823 30 Jun 3,389 +6 QUARTER-END, thirty-eighth sheet, SCENE
+824 6 Jul 3,395 +6 · 825 13 Jul 3,402 +7 · 826 19 Jul 3,408 +6 · 827 26 Jul 3,415 +7
+828 2 Aug 3,421 +6 · 829 9 Aug 3,428 +7 · 830 16 Aug 3,435 +7 IRREVERSIBLE, AND NOT INK
 METHODS AGREE TEN OF TEN. ZERO VIOLATIONS.
-SEAM 3,306-3,299=7 in its own column. NINE 7 7 7 7 7 7 7 7 7 = 63 and 3,369-3,306 = 63.
+SEAM 3,376-3,369=7 in its own column. NINE 7 6 6 7 6 7 6 7 7 = 59 and 3,435-3,376 = 59.
 ```
 
-**AND THE FENCE IN `outline/volume-17.md` §5b WAS WRONG AND IS NOW RIGHT IN THE FENCE ITSELF.** The 0002 row and the 0005 row each printed **eight** sevens against a claimed sixty-three. Both now carry **nine**. The repair paragraph underneath the fence had recorded both as already fixed and neither was, which is the defect that paragraph exists to hold up, and it now says so in its own place.
-
-## THE RAIL, RE-DERIVED FROM THE ANCHOR 3,299 AND NOT FROM ANY CHAPTER'S OWN DAY
+## THE RAIL, RE-DERIVED FROM TWO ANCHORS AND FROM NO CHAPTER'S OWN DAY
 
 ```
-811 7 · 812 14 · 813 21 · 814 28 · 815 35 · 816 42 · 817 49 · 818 56 · 819 63 · 820 70.
-820 IS SEVENTY: the thirty-seventh sheet has been face up on that rail for seventy days and is the same sheet and comes down at four on the THIRTIETH OF JUNE, which is 823 and 824 and NOT 820. THE SHEET GOES UP ON THE QUARTER-END AND THIS QUARTER-END IS THE THIRTIETH OF JUNE.
-THE WHOLE BATCH IS A RUN OF SEVENS BECAUSE A WHOLE QUARTER IS NINETY DAYS AND THE BATCH IS SEVENTY DAYS OF IT, AND THAT IS A COINCIDENCE OF THIS QUARTER AND NOT A RULE.
+821 3,376-3,299 = 77
+822 3,383-3,299 = 84
+823 3,389-3,299 = 90   THE THIRTY-SEVENTH SHEET CAME DOWN AT FOUR THIS AFTERNOON AND THE THIRTY-EIGHTH WENT UP IN ITS PLACE,
+                     CARRYING NO NEW LINE IN THE OFFICE'S HAND. THAT IS THE ONLY DAY IN THIS VOLUME IT GOES UP.
+824 3,395-3,389 =  6   EVERY CLAUSE FROM HERE ON READS "LESS THREE THOUSAND THREE HUNDRED AND EIGHTY-NINE, THE THIRTIETH OF JUNE"
+825 3,402-3,389 = 13
+826 3,408-3,389 = 19
+827 3,415-3,389 = 26
+828 3,421-3,389 = 32
+829 3,428-3,389 = 39
+830 3,435-3,389 = 46
+THE ROW BREAKS AT 824 AND EVERY CLAUSE FROM 824 ON NAMES THE NEW ANCHOR IN FULL.
 ```
 
 ## EVERY INTERVAL THAT ANYBODY SAYS ALOUD, RE-DERIVED WITH BOTH OPERANDS
@@ -26,43 +34,41 @@ THE WHOLE BATCH IS A RUN OF SEVENS BECAUSE A WHOLE QUARTER IS NINETY DAYS AND TH
 **THE FOOTER GATE IS NOT THE INTERVAL GATE, AND BOTH RAN.**
 
 ```
-ANCHOR SLIP/INSTRUCTION 3,181 = 2 Dec y9. ANCHOR RAIL SHEET 3,299 = 30 Mar y10. ANCHOR DRAWER 2,420 = 21 Oct y7.
-811 3306-3299 =   7   the seam, standing alone in its own column
-812 3313-3306 =   7
-813 3320-3313 =   7
-814 3327-3320 =   7   and, inside the chapter, 3,327-3,313 = 14 — the fortnight between the question of
-                        the fourteenth and the answer of the twenty-fourth, which IS the engine of 814
-815 3334-3327 =   7
-816 3341-3334 =   7   and 3,341-3,280 = 61 days between the reading offered in a room on 9 Mar and the
-                        reading taken on 9 May, which is the whole clock of 816
-817 3348-3341 =   7
-818 3355-3348 =   7
-819 3362-3355 =   7
-820 3369-3362 =   7
-RAIL       3,369-3,299 = 70   and every clause from 811 on reads "less three thousand two hundred and
-                                ninety-nine, the thirtieth of March"
-STORE      3,306-3,209 = 97 and 3,369-3,209 = 160   (the thirty-seventh sheet's own age is printed at 811)
-DRAWER     3,306-2,420 = 886 = 29m 16d · 3,313 = 893 = 29m 23d · 3,320 = 900 = 30m AND NO DAYS ·
-           3,327 = 907 = 30m 7d · 3,334 = 914 = 30m 14d · 3,341 = 921 = 30m 21d · 3,348 = 928 = 30m 28d ·
-           3,355 = 935 = 31m 5d · 3,362 = 942 = 31m 12d · 3,369 = 949 = 31m 19d
-SINCE 2 DECEMBER   125 · 132 · 139 · 146 · 153 · 160 · 167 · 174 · 181 · 188
-FOURTH LINE OF THE SECOND COLUMN, entered 3 Dec y8 = 3,182: 3,348-3,182 = 166 days at 817
+ANCHOR SPINE/DECEMBER 3,181 = 2 Dec y9. ANCHOR RAIL SHEET (OLD) 3,299 = 30 Mar y10.
+ANCHOR RAIL SHEET (NEW) 3,389 = 30 Jun y10. ANCHOR DRAWER 2,420 = 21 Oct y7. ANCHOR HEAD 1,499 = 30 Mar y5.
+821 3376-3369 =  7   the seam, standing alone in its own column
+822 3383-3376 =  7
+823 3389-3383 =  6
+824 3395-3389 =  6
+825 3402-3395 =  7
+826 3408-3402 =  6
+827 3415-3408 =  7
+828 3421-3415 =  6
+829 3428-3421 =  7
+830 3435-3428 =  7
+RAIL       3376-3299 = 77 · 3383-3299 = 84 · 3389-3299 = 90 · then 6 · 13 · 19 · 26 · 32 · 39 · 46
+THE NINTH OF MARCH ROW, entered 3,280: 3,402-3,280 = 122 days at 825, which is the engine of that chapter
+HEAD       3,389-1,499 = 1,890 = 21 x 90 EXACTLY, printed at 823 and nowhere else in 811-850
+STORE      3,181 to the chapter days: 195 · 202 · 208 · 214 · 221 · 227 · 234 · 240 · 247 · 254
+DRAWER     3,376-2,420 = 956 = 31m 26d · 963 = 32m 3d · 969 = 32m 9d · 975 = 32m 15d · 982 = 32m 22d ·
+           988 = 32m 28d · 995 = 33m 5d · 1,001 = 33m 11d · 1,008 = 33m 18d · 1,015 = 33m 25d
+NINETY DAYS: the thirty-seventh sheet was face up on that rail for ninety days and came down at four on 30 June y10
 ```
 
-**ZERO INTERVAL IN THIS BATCH RESTS ON A NAME AND A FIGURE THAT CANNOT BOTH BE RIGHT. NO MONTH IS CALLED THIRTY-ONE DAYS LONG. NO WEEKDAY IS NAMED. NO YEAR NUMERAL IS PRINTED IN PROSE.**
+**TWO HUNDRED AND FORTY-FIVE LITERAL NUMERIC OPERAND PHRASES STAND IN THE TEN FILES AND EVERY ONE WAS RE-READ AGAINST THE PAGE AFTER THE LAST EDIT. ZERO MISSES. NO INTERVAL IN THIS BATCH RESTS ON A NAME AND A FIGURE THAT CANNOT BOTH BE RIGHT. NO MONTH IS CALLED THIRTY-ONE DAYS LONG. NO WEEKDAY IS NAMED. NO YEAR NUMERAL IS PRINTED IN PROSE.**
 
 ## THE DRAWER, IN EVERY FOOTER
 
-`2,420`, the twenty-first of October of the seventh year, and its month breakdowns, all printed and all re-derived: 811 29m 16d · 812 29m 23d · 813 **30 months and no days** · 814 30m 7d · 815 30m 14d · 816 30m 21d · 817 30m 28d · 818 31m 5d · 819 31m 12d · 820 31m 19d.
+`2,420`, the twenty-first of October of the seventh year, and its month breakdowns, all printed and all re-derived: 821 31m 26d · 822 32m 3d · 823 **32m 9d** · 824 32m 15d · 825 32m 22d · 826 32m 28d · 827 **33m 5d** · 828 33m 11d · 829 33m 18d · 830 33m 25d.
 
-## WHAT MOVED IN 811–820, AND WHAT DID NOT
+## WHAT MOVED IN 821–830, AND WHAT DID NOT
 
-**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT. THE SIXTH, ENTERED ON THE SECOND OF DECEMBER, IS STILL THE LAST, AND AND NO SHEET WENT UP OR CAME DOWN ANYWHERE IN THIS BATCH, THE THIRTY-SEVENTH STILL BEING THE ONE ON THE RAIL ON THE TENTH OF JUNE, AND THE THIRTY-EIGHTH GOES UP ON THE THIRTIETH OF JUNE CARRYING NO NEW LINE.** The head, eight hundred and fifty-two, is **not printed in any of the ten files**, which is the first full batch of this volume to go without it, and it is due again at 823 and 837 and 850. SECOND COLUMN **FOUR LINES**, the fourth with a woman's name in the middle of a sentence and no figure on any of the four, **and at 817 five words and a date were written out loud and not entered, because those two printed words are a works department's routing line and about two thousand counters hold the page and that woman is paid once for it.** Four sentences at the foot. Six lines under them with the fourth struck and a name under the striking. Two inches of nothing. BUNDLE TWENTY-SIX, untouched and unprinted. DRAWER SHUT, NEVER OPENED, UNPRINTED. **THE INSIDE OF HIS COAT, ON THE LEFT, HOLDS FOUR THINGS AND NOT THREE**, and the fourth was put there on the third of this month: the four lines of the fourteenth, Perla Quist's copy, the empty sheet out of his own drawer, and the four lines that came back out of a doorway in daylight. COPY UNTOUCHED, NOT TO BE TOUCHED BEFORE 844. HIS AUGUST BLANK STANDS WITH ITS SPACE IN IT AND NO HAND WENT NEAR IT.
+**PAGE: SIX LINES IN THE OFFICE HAND AND THAT IS THE WHOLE OF IT. THE SIXTH, ENTERED ON THE SECOND OF DECEMBER, IS STILL THE LAST, AND NO LINE WENT UNDER THE FOOT OF ANY PAGE IN THIS BATCH BY ANYBODY** — not at 824, where a practice was entered, and not at 830, where a refusal was entered, because both of those are a clerk's hand in a bound Register at a date and an hour. The head, eight hundred and fifty-two, **is printed at 823 and at no other chapter in 811–850.** SECOND COLUMN **FOUR LINES**, the fourth with a woman's name in the middle of a sentence and no figure on any of the four; at 828 a woman offers to carry a sheet for it and is refused on a landing, and **no fifth line and no name went in.** Four sentences at the foot. Six lines under them with the fourth struck and a name under the striking. Two inches of nothing. BUNDLE TWENTY-SIX, untouched and unprinted. DRAWER SHUT, NEVER OPENED, UNPRINTED. **THE INSIDE OF HIS COAT, ON THE LEFT, HOLDS FOUR THINGS AND NOT THREE, and at 828 he wrote six short lines on the back of his right hand in his own hand with the hour against each, which is a copy on skin and not a fifth thing in the coat.** COPY UNTOUCHED, NOT TO BE TOUCHED BEFORE 844. HIS AUGUST BLANK STANDS WITH ITS SPACE IN IT, NAMED ONCE AT 827, AND NO HAND WENT NEAR IT. THE NINE SHEETS UNDER A THIRD TABLE ARE UNDER THAT TABLE AND HAVE NOT BEEN MOVED.
 
-**AND THE BATCH'S INSTRUMENT IS A REFUSAL, AND IT TRAVELS.** About nine people in a corridor about four feet wide heard a refusal given twice about one paper on the nineteenth of this month, and one of them said, in the ordinary voice: *so there is one.* **A rule about what an answer may be carried in does nothing whatever about what a refusal sounds like from four feet.**
+**AND THE BATCH'S INSTRUMENT IS A DAY, AND IT IS A CORRECTION THAT GOES UNDER.** At 823 the rule of her floor is said out loud and unasked: a thing that was asked goes in under the day it was asked, a thing that was given goes in under the day it was given, and neither day may be moved to meet the other, because a day is the only thing that building has ever been able to stand on. At 825 a joint reading runs for the first time and the person it is about is the one who wanted to be told, and about four people in a corridor heard nine words of a row through the open door and two of them worked out there was a person in it. At 830 four lines are read once, one of them gives a day that is not the day the paper arrived, the man it is about gives the right day out loud, the clerk enters it under, and **a joint reading is requested nine minutes later so that both men hear the same thing, and it is refused, and the wrong line stays on top for ever, and nobody in this city can take it out.**
 
-**AND THE BATCH'S DECISION IS 820 AND IT IS NOT INK.** An answer about a paper the asker brought goes by hand in a fold with the flap gummed shut and the date and the hour on the outside and nothing else. An answer about any other person is not carried anywhere: it is read aloud once in that room with the person it is about in it and the person who asked in it, and if the person will not come there is no answer and the row stands. **WHAT IT CLOSES: answering one person about another alone, for ever. WHAT IT COSTS: the office has no instruction that lets it ask anybody anything they have not asked, so the practice cannot be written, cannot be taught, cannot be enforced, and falls hardest on the people who cannot spare the morning — which is about four of every five of them, and Marguerite Vale says so at a guild house on Cordwain and is right about the price.**
+**AND THE BATCH'S COSTS ARE PAID BY OTHER PEOPLE.** Perla Quist loses the only thing she had been standing in that back room on for nine years, which was the certainty that a person cannot see nine sheets from a door, and she says she cannot get it back and that he did not have to be clever or wicked to take it. A woman on a landing is refused a sheet of paper she has asked for in her own words and writes the four lines out on a corridor sill in about four seconds with about four people standing there. A clerk gives up re-reading a bound Register from memory and says she will now be wrong in about four days a month. Brack says he will go on saying the four-year sentence whether it is true or not. A woman who mends umbrellas asks a man in a white plate for the first thing anybody has asked her for in nineteen years, and it is a day in four years.
 
-**THE REGISTER.** Rows added, each with a date and an hour in the words used, and every printed total carries its scope. **TWO ROWS NOW STAND WITH NOTHING UNDER THEM: the question of the fourteenth, and the question of the third of May that was refused at a door.** Both refusals were entered in a clerk's hand at the date and the hour — one because a man asked for it in writing, one because the rule of the tenth of June obliges the clerk to enter a refusal in those words — and **neither is a seventh line in the office's hand and neither is at the foot of anything.**
+**THE REGISTER.** Rows added, each with a date and an hour in the words used, and every printed total carries its scope. **NO ROW IN THAT BOOK STANDS WITH NOTHING UNDER IT ANY MORE.** The two rows that stood empty — the question of the fourteenth of April and the question of the third of May refused at a door — were written under on the sixth of July in a clerk's hand with the words *no answer has been given and the person it is about has not come to that room*, and the clerk says out loud that nothing has been answered and that two people did not come, and that this is the first time in nine years that anything has been entered about those two rows rather than in them. A third row, the one asking on the ninth of March for an answer to be read with the asker's sister-in-law in the room, stood empty for **one hundred and twenty-two days** and was filled on the thirteenth of July, and it is a request and not a question and the book does not print which is which anywhere.
 
-**THE CORNER: the month's form up since the seventh with two printed boxes empty, her sheet with her own pencil line across the bottom still face down under the lower batten where she put it on the sixteenth of December, unmoved and unturned over. Boy unaged and unasked. Broom woman unnamed and unasked, fourth running volume. The two words never printed and never asserted to be anything else.**
+**THE CORNER: the month's form up since the seventh with two printed boxes empty, her sheet with her own pencil line across the bottom still face down under the lower batten where she put it on the sixteenth of December, unmoved and unturned over, and named once in this batch and not approached. Boy unaged and unasked. Broom woman unnamed and unasked, fourth running volume. The two words never printed and never asserted to be anything else. The four inches of dressed stone unmoved since the first year, and he stood nine feet back from them and did not go nearer.**

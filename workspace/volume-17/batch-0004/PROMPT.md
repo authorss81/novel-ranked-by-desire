@@ -1,0 +1,112 @@
+# VOLUME 17 · BATCH 0004 · CHAPTERS 831–840 · WRITING PHASE
+
+**A WRITING PHASE. YOU WRITE TEN FINISHED CHAPTERS AND NO PROSE THAT IS NOT ONE OF THEM. YOU DO NOT PLAN A VOLUME. YOU DO NOT REOPEN ANY CHAPTER OF 801–830 AND YOU DO NOT TOUCH `outline/ending.md`. THERE IS NO CHAPTER 841 IN THIS BATCH. MOVEMENT FOUR IS *THE HAND*, 831–840, AND IT ENDS ON THE SIXTEENTH OF OCTOBER, WHICH IS **NOT** A QUARTER-END: THE THIRTIETH OF SEPTEMBER IS 837, THAT IS WHERE THE THIRTY-NINTH SHEET GOES UP AT FOUR, AND 840 IS A WORKING DAY. WHEN YOU ARE DONE, CREATE EXACTLY ONE NEXT PHASE AND IT IS `workspace/volume-17/batch-0005/PROMPT.md`, A BATCH AND NOT A CLOSE, BECAUSE VOLUME 17 ENDS AT 850.**
+
+**BATCH 0003 IS ON DISK AND FINISHED. ITS CARDS OF RECORD ARE `outline/volume-17.md` §7 MOVEMENT THREE AS THE PAGE LEFT IT ON 15 OCTOBER 2026 — EVERY ROW IS THE RECORD AND NOT THE PLAN, AND EVERY ADDITION IN THOSE ROWS IS SOMETHING THE CHAPTER DID THAT THE ONE-LINE CARD DID NOT SAY. THE ONE-LINE CARDS FOR THIS BATCH ARE `outline/volume-17.md` §7 MOVEMENT FOUR, ONE LINE A CHAPTER, NO FULL CARD, **AND A BATCH THAT TAKES THOSE ON MUST WRITE ITS OWN CARD AGAINST THE PAGE BEFORE IT WRITES THE CHAPTER AND MUST REWRITE THAT TABLE IN THE SAME COMMIT**. WHERE THIS FILE AND `outline/volume-17.md` DIFFER, THIS FILE AND `AGENTS.md` GOVERN.**
+
+## 1. WHAT YOU READ, IN ORDER
+
+1. `AGENTS.md`. 2. `outline/ending.md`, in full, and then do not touch it. 3. `outline/volume-17.md` §1, §2, §3, §4 (all four subsections), §5, §6, §7 **MOVEMENT THREE AS THE PAGE LEFT IT**, §7 movement four, §8 and §9. 4. `state/current.md` **§0a to §0f, the Volume 17 batch 0003 block, which is the WHOLE of what you inherit. THE FOUR STATE FILES NOW HOLD ONE BLOCK EACH AND CARRY NOTHING FROM BATCH 0002; BATCH 0002'S GATE IS SUMMARISED IN BATCH 0003'S AND NOT REPEATED HERE.** 5. `state/continuity.md`, the whole file. 6. `state/open-threads.md`, the whole file. 7. Previous 20 chapters in full for voice: **811–830, with `chapter-0830.md` and `chapter-0823.md` read twice, because 830 is the decision you come from and 823 is the scene you come from.** 8. `state/chapter-summaries.md`, the ten rows for 821–830.
+
+**NEITHER 830's REFUSAL NOR 823's SCENE MAY BE RESTAGED, AND NEITHER MAY BE PARAPHRASED AS A STAGING. 830 OWNS A ROOM WITH FOUR PEOPLE IN IT, THREE RIGHT LINES AND ONE WRONG, A DAY SUPPLIED OUT LOUD BY THE MAN IT IS ABOUT, A CORRECTION ENTERED UNDER, A REFUSAL SPOKEN OUT LOUD WITH THE DOOR OPEN, AND A MAN WHO DECLINES TO BE FORGIVEN; 831 MUST NOT RESTAGE IT. 823 OWNS A QUARTER ROOM WITH A BARE STONE FLOOR, TWO EMPTY PRESSES STANDING OPEN AT OPPOSITE ENDS, NINE FEET OF STONE BETWEEN THEM, A LAMP ON THE FLOOR AND A SMALL HIGH WINDOW, AND A SCENE THAT RUNS BACKWARDS; 833 MUST NOT RESTAGE IT.** **THE RAIL DOES NOT CHANGE AT 840 AND THE THIRTY-EIGHTH SHEET STAYS ON IT THROUGH 836. IT CHANGES AT 837, WHICH IS THE THIRTIETH OF SEPTEMBER, AND A CHAPTER THAT PUTS THE THIRTY-NINTH SHEET UP ON ANY OTHER DAY IS WRONG.**
+
+## 2. THE SPINE (derive twice, print operands in italic footers)
+
+A month is thirty days, no thirty-first, no day of the week. A year runs first of February to thirtieth of January; a January is labelled by the February that follows it. **VOLUME 17 HAS NO JANUARY CHAPTER.**
+
+```
+METHOD A: 1 Feb y = (y-1) x 360; day d = (y-1) x 360 + off[m] + (d-1)
+METHOD B: day = 30*i + (d-1), i = (y-1)*12 + pos[m] ZERO INDEXED (pos[Jul]=5, pos[Aug]=6, pos[Sep]=7, pos[Oct]=8).
+Batch 0004 opens 23 Aug y10: 9x360+180+22 = 3,442, seam 3,442 - 3,435 = 7.
+```
+
+| Ch | Day | Spine | Interval |
+| --- | --- | --- | --- |
+| 831 | 23 Aug, y10 | 3,442 | 3,442 − 3,435 = **7**, the seam |
+| 832 | 29 Aug, y10 | 3,448 | **6** |
+| 833 | 5 Sep, y10 | 3,454 · **SCENE**, Nadia Ferrous | **6**, 120 after 703 |
+| 834 | 12 Sep, y10 | 3,461 | **7** |
+| 835 | 18 Sep, y10 | 3,467 | **6** |
+| 836 | 24 Sep, y10 | 3,473 | **6** |
+| 837 | 30 Sep, y10 | 3,479 · **QUARTER-END, thirty-ninth sheet** | **6** |
+| 838 | 7 Oct, y10 | 3,486 · **THE ONE HUNDREDTH FORM** | **7** |
+| 839 | 14 Oct, y10 | 3,493 | **7** |
+| 840 | 20 Oct, y10 | 3,499 · **MOVEMENT FOUR'S IRREVERSIBLE DECISION** | **6** |
+
+**THE INTERIOR NINE OF THIS BATCH ARE `832→840` AND THEY ARE `6 6 7 6 6 6 7 7 6`, THEY SUM TO 57, AND `3,499 − 3,442 = 57`. THE SEAM `3,442 − 3,435 = 7` STANDS ALONE IN ITS OWN COLUMN AND IS NOT ONE OF THE NINE.** **THIS ROW IS NOT A RUN OF SEVENS AND IT IS NOT A RUN OF SIXES: IT IS 6 6 7 6 6 6 7 7 6. THE SEVEN AT 833 AND THE TWO SEVENS AT 838 AND 839 ARE THE ONES THAT MOVE.**
+
+**THE RAIL, RE-DERIVED AGAINST THE THIRTY-EIGHTH SHEET'S ANCHOR `3,389`, THE THIRTIETH OF JUNE, AND THE ANCHOR MOVES ON THE THIRTIETH OF SEPTEMBER**: 831 **53** · 832 **59** · 833 **65** · 834 **72** · 835 **78** · 836 **84** · **837 90, and it came down at four and the thirty-ninth went up in its place** · 838 **7** · 839 **14** · 840 **20**. **DO NOT ANCHOR ON A CHAPTER'S OWN DAY.**
+
+**THE HEAD IS PRINTED AT 837 AND NOWHERE ELSE IN 831–850; IT IS DUE AGAIN AT 850 AND NOWHERE ELSE. At `3,499` it is unmoved across twenty-three sheets and twenty-two quarters, with `3,499 − 1,499 = 2,000`, and at `3,479` at 837 it is unmoved across twenty-three sheets and twenty-two quarters with `3,479 − 1,499 = 1,980 = 22 × 90` exactly. 837 IS THE ONLY CHAPTER OF 831–850 THAT MAY PRINT IT AND IT MUST NAME BOTH COUNTS IN WORDS AND SAY THEY DIFFER BY ONE.**
+
+**837 IS THE SCENE CADENCE MARKER, NOT A SCENE. THE SCENE IS AT 833 AND IT IS NADIA FERROUS'S, NINETY AFTER HER OWN AT 743, AND NO FILE MAY CERTIFY THAT COLUMN AS IN BAND OR OUT OF IT.**
+
+**NO EXACT MONTHS FIGURE MAY BE PRINTED ANYWHERE IN 831–850. The office's exact months were spent at 801 and the next exact day is `3,569` at 850. No exact figure of any kind may be printed at 838 except the ordinal of the form, which §7 MAY NAME ONCE WHEN IT LANDS AND WHICH IS NOT AN EVENT.**
+
+## 3. FIGURE ALLOWANCES
+
+**SPENT AND NOT TO BE REPRINTED ANYWHERE IN 811–850:** the office's exact months, printed once at 801 · the head at anything other than 823, 837 and 850 · **ANY ORDINAL OF A FORM EXCEPT THE ONE HUNDREDTH AT 838 AND ONLY ONCE, AND IT IS NOT AN EVENT** · the fourth exact figure · `settl` in every inflection, **and `settled` was caught and cut three times in this volume and is not available to you**.
+
+**NOT PRINTED, IN ANY FORM, ANYWHERE IN 801–850:** the figure of the account · any floor, ledger total or running balance in grains · the shutter's interval · the lane's mornings · the striking's interval · `411` · `771` · `1,131` unless the anchor is named in the same breath · the docket's date · **the two words on the stone** · the invented-figures sentence verbatim or Tier 3 · any age of any person · any year numeral in prose · **any day of the week, including the bare verb `sat` and the bare noun `sun`, and note that `Sun Meiling` is a woman and is permitted seven times at 823 and nowhere in this batch** · **any seventh line in the office's hand** · the reach of the return, argued in either direction by anybody.
+
+**THE COUNTS THAT ARE NEVER MERGED:** about four hundred and nineteen lines on the standing sheet · rows in the Register with scope and anchor · pieces of pencil paper · about four hundred kitchens · nine kitchens · nine sheets under a third table · questions · answers · people · **hands on a dressed stone** · **a person at a rail on a quarter-end and a person at a rail in the middle of a quarter, which are not the same count and 809 proved it** · **a morning a person spends and a morning a person is paid for** · **a refusal and an answer, and 817 proved they do not travel the same distance** · **a thing a person heard and a thing that was said, which 822 proved are not the same thing either**.
+
+## 4. THE BATCH IN TEN LINES, AND THE TITLES ARE FIXED
+
+831 Two Records And No List · 832 The Counterman Reads Twice · **833 The Lift Holds Two People (SCENE, Nadia Ferrous)** · 834 He Carries Nothing Up · 835 The Drawer Stays Shut · 836 The Bundle Stays Twenty-Six · **837 The Thirty-Ninth Sheet** · 838 The Hundredth Form · 839 A Man Asks About Himself · **840 No Question About A Question (MOVEMENT FOUR'S IRREVERSIBLE DECISION).**
+
+**833 IS THE SCENE AND 840 IS THE MOVEMENT'S IRREVERSIBLE DECISION AND NEITHER MAY BE SWAPPED FOR A QUIETER CHAPTER.**
+
+## 5. WHAT THIS BATCH OWES ITS WRITER, AND WHAT IT REFUSES
+
+- **831, TWO RECORDS AND NO LIST.** Every count stated with its object and its scope and never merged, his own blank row of the twenty-third of August standing untouched with a space in it and no hand going near it, and the second book about four hundred yards and four flights away that Perla Quist's certainty about has been lost. **The chapter's work is that the two records cannot be made into one instrument and must not be.**
+- **832, THE COUNTERMAN READS TWICE.** A question read in the morning and again at four, because about four of the eleven wanted to know what *any person* meant, and he told them that is what it says. **Do not restage 809's sheet squared twice six days early or a rail read from outside on the flags nine feet back.**
+- **833, THE SCENE, NADIA FERROUS, NINETY CHAPTERS AFTER 743, ON THE FIFTH OF SEPTEMBER.** The axis is the lift: a stopped lift holds two people and no paper, and what is said in it is said to the person and not to the book. **It is not the room over the counters, which is 733's; not the return well under the second counter, which is 813's; not the quarter room, which is 823's; not a booking room, which is 803's; not a corridor, which is 808's.** Build a different room. **Every scene is between a woman and a man who cannot pay for what she is doing, and he has a spent chest and no permission of any kind and is rank one. No scene may use compulsion, sedation, exhaustion, toxin, restraint, psychic contact, trance or a seal as its mechanism. No sexual character is under eighteen. Violence and sex stay in separate registers. Saying yes is fast and is enjoyable to her and that is written as real and specific and not as reluctance.**
+- **834, HE CARRIES NOTHING UP.** He goes up four flights and asks nothing, and the reason is the reason she gave him, unimproved. **834 may not restage 823's room and may not enter it.**
+- **835, THE DRAWER STAYS SHUT.** Named by its instruction date in every footer and never by its count, and never opened.
+- **836, THE BUNDLE STAYS TWENTY-SIX.** Nothing on, nothing off, the twenty-sixth still empty, and the copy still in his coat.
+- **837, THE THIRTY-NINTH SHEET.** It comes off the rail at four on the thirtieth of September after ninety days and the thirty-ninth goes up in its place, **the head unmoved across twenty-three sheets and twenty-two quarters, both named in words, both right, differing by one, and 837 is the only chapter of 831–850 that may print it.** About nine at the rail. **A STRANGER PROMISED AT 822 TO STAND AT THAT RAIL ON THIS DAY AND READ THE FOOT OF THE PAGE WITH HIS OWN EYES AND COMPARE IT AGAINST FOUR WORDS IN HIS OWN HAND, AND HE SAID HE WOULD TELL NEITHER THE CLERK NOR THE OFFICE WHETHER HE WAS RIGHT. PAY THAT OFF.**
+- **838, THE ONE HUNDREDTH FORM.** It goes up on the seventh with both printed boxes empty, the reason is given in four sentences by a man who is not a stonemason and not the boy, **and the ordinal may be named once here and nowhere else in 811–850.**
+- **839, A MAN ASKS ABOUT HIMSELF.** The only easy question in this volume and the answer is one row and a permission. **The magistrate's clerk is entitled to one question a day and not two and she is a different person from the clerk at 827.**
+- **840, THE MOVEMENT'S IRREVERSIBLE DECISION, AND IT IS HIS.** From this morning no question about the Register's own questions is entered. **WHAT IT CLOSES: the recursion that would turn the book of questions into a list of askers. WHAT IT COSTS: the only instrument that could find who is asking about whom.** **AND IT IS A PRACTICE AND A REFUSAL AND NOT INK, LIKE 810 AND 820 AND 830. The sixth line of the second of December is still the last line that office will ever make at the foot of one of its own pages and this batch may not reopen that.**
+
+**REFUSED:** the figure of the account · any floor or total · `settl` in any inflection · the invented-figures sentence verbatim or Tier 3 · **the reach of the return argued either way, by anybody** · the fourth condition reproved or disproved by anybody · who cut the two words · **Sander Vole** · **the stone yard entered, and the docket's date printed or read aloud** · either repainting box · the keeper's six words · **Hanneke Ruis** · **Agnete Lindqvist — she is 843's and she may not be in this batch** · **Ines Duarte** · **Dagmar Oyelowo** · **the woman with the short-handled broom, neither named nor asked, fifth running volume** · **the woman who cannot read, not named, not traced, nobody sent, nothing asked** · **the boy asked by anybody about anything, and he goes up on the seventh with a board and a paste brush** · **Lin Hao on the hill or through any yard gate** · a hand flat on anything · a permission, a standing, a band, a promotion, a new rank, or anything that moves him off the branch night shift he asked for · **any seventh line in the office's hand** · **the completion of his own blank row, which stands with a space in it** · a new enemy · anything about `outline/ending.md`.
+
+## 6. THE SCENE AT 833, AND ITS STAGING
+
+**NADIA FERROUS. CADENCE `833 − 823 = 10`, IN BAND. HER OWN LAST SCENE IS 743 AND `833 − 743 = 90`, REPORTED AND NOT CERTIFIED, AND NO FILE IN THIS REPOSITORY MAY CERTIFY THAT COLUMN AS IN BAND OR OUT OF IT.**
+
+**THE AXIS IS THE LIFT AND IT IS CARRIED BY A RULE OF THE ROOM AND NAMED BY NOBODY: a stopped lift holds two people and no paper, and what is said in it is said to the person and not to the book.** **IT IS NOT ONE OF VOLUME 12–16's AXES AND NOT ONE OF VOLUME 17's OTHER THREE, AND THE AXIS COLUMN IN §4c IS THE ROW THAT CATCHES THE REUSE AND NO GRAM CAN. IT IS NOT A ROOM, NOT A FLOOR, NOT A DESK AND NOT A STAIR.**
+
+**`cuticle` IS AT FOUR CHAPTERS IN THIS BOOK — 329, 340, 404, 446 — AND VOLUME 17 MAY NOT ADD A FIFTH. NO HAND FLAT ON ANYTHING IN 801–850.** §4d BEFORE THE BODY IS PLANNED AND AGAIN AFTER: Nadia Ferrous's line of work, **check the page before planning a body**, and her age may never be printed.
+
+Measured three ways with line spans printed; explicit probe at word boundary and PUBLISHED IN THE SAME COMMIT; **A PROBE OF ZERO IS A DEFECT.**
+
+## 7. THE PAGE, SO THAT NO CHAPTER INVENTS A FIFTH THING
+
+**THE STANDING SHEET THROUGH THIS BATCH, in order:** the head, 852, unmoved, **printed at 837 only and nowhere else in 811–850** · about four hundred and nineteen lines with a date and an hour and no figure and no name · **the second column with four lines under two printed words that say `carried by`, a works department's routing line, never re-derived or contradicted, the fourth carrying a woman's name and no figure, and NO FIFTH GOES IN** · four sentences at the foot · six lines under those with the fourth struck and a name under the striking, and two inches of nothing · **SIX lines in the office's hand above the striking, five instructions and one sentence, the last the second of December, and NO SEVENTH GOES IN.**
+
+**THE REGISTER.** Questions and answers from the second of December onward, each with date and hour in the words used. **It now carries one row with a wrong sentence above a right one nine minutes apart, and a correction goes under and never instead, and no instrument anywhere in this city can take the top one out.** Rows are added and every printed total carries its scope. **His own August blank stands untouched and no chapter of 831–850 completes it.**
+
+**AND THE THINGS YOU INHERIT AND MAY NOT UNSET.** **1 · THE ANSWER OF THE FOURTEENTH IS UNDELIVERED AND IS IN THE INSIDE OF HIS COAT ON THE LEFT, BESIDE PERLA QUIST'S COPY AND THE EMPTY SHEET OUT OF HIS OWN DRAWER AND THE FOUR LINES THAT WENT BACK OUT OF A DOORWAY. None of the four may be delivered, produced or entered anywhere in 831–850, and the copy is not to be touched before 844. AND SIX SHORT LINES ON THE BACK OF HIS RIGHT HAND COME OFF IN ABOUT A WEEK.** **2 · FROM THE TENTH OF JUNE AN ANSWER ABOUT A PERSON IS READ ALOUD WITH THAT PERSON IN THE ROOM OR IT IS NOT GIVEN, AN ANSWER ABOUT A PAPER THE ASKER BROUGHT UP THEMSELVES GOES BY HAND IN A FOLD WITH THE FLAP GUMMED SHUT AND THE DATE AND THE HOUR ON THE OUTSIDE AND NOTHING ELSE, AND FROM THE SIXTEENTH OF AUGUST AN ANSWER READ ONCE IN THAT ROOM MAY NOT BE READ AGAIN IN THAT ROOM WITH DIFFERENT PEOPLE IN IT.** **3 · A REFUSAL TRAVELS AND AN ANSWER DOES NOT TRAVEL AS FAR.** **4 · ABOUT FOUR PIECES OF PENCIL PAPER WITH THE LINE ABOUT ANY PERSON IN FOUR HANDS EXIST, A FIFTH WAS MADE ON A CORRIDOR SILL ON THE THIRTEENTH OF JULY, AND NOTHING IN THIS CITY CAN ASK ABOUT ANY OF THEM.**
+
+## 8. THE PROHIBITED STRINGS, EACH CHECKED BY COMMAND AFTER THE LAST EDIT
+
+`[a-z]+ volumes | this book | this chapter | this volume | no chapter | the axis | the reader | the novel | the story | the scene | Chapter [0-9]+ | chapter [0-9]+ | [0-9]+ chapters | manuscript | in this manuscript | this manuscript | this page | opposition | this batch | a chapter that | this pass | in this volume | this passage` — plus one chapter read against the paragraph by hand, because the grep is not the gate.
+
+Seven weekday names whole-word and stem, zero, including the bare verb `sat` and the bare noun `sun`. `settl` in every inflection, zero. `right temple` zero. `cuticle` four files in the book, no fifth. `ostho` zero. **No announced age.** **No digits in the prose.** No blockquote, table, rule or fence. Bold zero and italic as complete pairs and scarce. System panels at most one per chapter, in square brackets on their own line.
+
+**AND THE ROWS 821–830 ESTABLISHED THAT THIS PASS INHERITS:**
+
+- **THE WATCH-CONSTRUCTION ROW.** Title and `## ` lines excluded, narration and speech measured separately by quoted-span extraction and never netted. Cap six in narration and twelve in speech across ten chapters and one of any given family in any single chapter. Batch 0003 ended on **narration 1 and speech 3, with `nobody / no one` at zero in both, `no form` and `not one form` at zero in both, and `there is not one X` at zero in narration.** Keep them there and write *not one person* and *nothing in this city* instead.
+- **THE STANDING-FIGURE ROW.** Every figure counted per chapter with its object and its scope attached, and a figure restated verbatim in one chapter and differently in another is a defect. Batch 0003's new counts are in `state/current.md` §0d and **none of them may be restated with a different object or a different scope.**
+- **THE CLOSING-BEAT ROW.** **Batch 0002's ten closings and batch 0003's ten closings are listed in `state/current.md` and `state/chapter-summaries.md`; none of the twenty may be repeated. Batch 0003 ended on a revelation (821), a decision by a stranger (822), an emotional consequence (823), a person doing a thing you can only hear (824), a reversal (825), a revelation (826), an absence (827), a piece of paper on skin (828), a demand from a person who has never asked (829) and a decision (830). YOUR TEN MAY NOT LAND THREE ON A COUNTER AND MAY NOT END TWO CHAPTERS ON THE SAME KIND OF BEAT.**
+- **THE PARAGRAPH ROW.** Zero over roughly ninety words and zero over roughly one hundred and twenty, and **every paragraph opens and closes its own quotation.** Batch 0003 held zero unbalanced paragraphs across all eight hundred and thirty written chapters.
+- **THE NARRATED-INTERVAL ROW. THE FOOTER GATE IS NOT THE INTERVAL GATE.** Every interval anybody says aloud, and every one in narration, gets its own gate row with both operands and the subtraction shown. Three questions decide every one: *what is the anchor* — a date somebody named, converted once and shown; *what is the far end* — the chapter's own spine day; *does the named word agree with the figure*. **A named date and a named interval cannot both be right, and where the text gives both the figure is recomputed and the date is named explicitly. THE RULE IS NOT TO INVENT SMALLER NUMBERS.** Two hundred and forty-five literal numeric operand phrases were checked against the page in batch 0003 and the misses were zero. Do the same, and count them.
+- **THE GRAM ROW. PROVE THE SCANNER ON `chapters/volume-12/chapter-0564.md` BEFORE YOU TRUST IT.** Count distinct repeating `n`-grams over `[A-Za-z']+` tokens, case-folded, **with `#` title lines removed and italic footer lines KEPT**: five thousand five hundred and seventeen distinct twelve-grams and thirteen repeating inside itself. Drop the italic footers and you get five thousand two hundred and six and seven, which is the wrong scanner. **BOTH NUMBERS, AND THE PROSE-ONLY MAXIMUM RUN AGAINST ALL EIGHT HUNDRED AND THIRTY EARLIER CHAPTERS. Batch 0003 held the maximum shared run at TWELVE WORDS and every one of them was the spine arithmetic clause in an opening line. Anything longer that is not standing apparatus, canon fact restated, or a character's stock sentence is a lift.**
+
+## 9. AFTER THE BATCH, IN THE SAME COMMIT
+
+Ten files `chapters/volume-17/chapter-0831.md` through `chapter-0840.md`. Plus: `state/current.md` live block · `state/continuity.md` spine block · `state/open-threads.md` volume-wide gate · `state/chapter-summaries.md` ten rows · `outline/volume-17.md` §7 movement four rewritten against the page, and the §5b fence row for 0004 **verified term by term against §5c in the fence itself and not corrected underneath it** — it must read `6 6 7 6 6 6 7 7 6 = 57` with `3,499 − 3,442 = 57` and the seam `3,442 − 3,435 = 7` standing alone in its own column and not one of the nine · and exactly one next phase `workspace/volume-17/batch-0005/PROMPT.md`. **AND NOTHING ELSE. No volume-close prompt. No `state/complete.md`. No `outline/volume-18.md`.**
+
+**EACH OF THOSE FOUR STATE FILES IS WRITTEN BY PREPENDING YOUR BLOCK AND STOPPING THERE. YOU DO NOT CARRY THE PREVIOUS PHASE'S BLOCK FORWARD, AND YOU DO NOT WRITE "SUPERSEDES EVERY BLOCK BELOW IT AND DELETES NONE OF THEM".**
