@@ -78,7 +78,7 @@ Read off `chapters/volume-18/chapter-0900.md`, `:0899.md`, `:0898.md`, `:0897.md
 - **EMIL BRACK**, delivery coat, a lane off Cordwain, nine stools, nine districts, a slate, twelve books, right about every fact, who rubbed out his four-year figure and wrote it sooner in his own small hand where a person can check it.
 - **THE TWO CARRIERS**, who bring the book up at a quarter to ten and witnessed the door.
 - **THE WOMAN WITH THE BACK**, who carries the strap and said the sentence that decides carrying: a thing only ever carried one way is not being carried, it is being stored in a person.
-- **THE BOY WITH THE PASTE BRUSH**, unnamed, not aged, not asked about anything by anybody. **He is on the page of this volume TWICE AND NOT ONE MORE — both on sevenths of months — and both are not events.**
+- **THE BOY WITH THE PASTE BRUSH**, unnamed, not aged, not asked about anything by anybody. **He is on the page of this volume TWICE AND NOT ONE MORE — at 908 and at 948, and at no chapter between them — and neither is an event.**
 - **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND IS NOT ASKED, FOR THE EIGHTH RUNNING VOLUME.**
 - **THE WOMAN WHO CANNOT READ IS NOT NAMED, NOT TRACED, NOT ASKED ANYTHING, AND NOBODY IS SENT TO FIND HER.** Her sheet lies under the two ruled squares with a pencil line across the bottom of it in her own hand, and **it is not folded, not turned over and not taken in 901–950.**
 
@@ -100,7 +100,7 @@ Read off `chapters/volume-18/chapter-0900.md`, `:0899.md`, `:0898.md`, `:0897.md
 | **A returns desk in a division building** | **Wren Kallo**, counter-forensics, two nails of the left hand stained at the roots | the one question of a thing, and the hours copied wrong. **923, 926, 939** |
 | **A goods platform at the back of a market, five feet by five, running in a timber guide** | **Nadia Ferrous**, lift operator, who has no instrument and a rota | the blank sheet for a person who cannot write the question down. **933** |
 | **The Ninth Terrace intake hall** | **Dagmar Oyelowo**, twenty years, never scored once, no gift of any kind | twenty years at a counter, and the debt this book has carried since 388. **943** |
-| **The foot of a hill, a board by a kerb, a month's form with two ruled squares, four inches of dressed stone** | **the boy with a paste brush**, twice; **the woman with the short-handled broom**, unnamed, unasked | the two squares, the forms, and the only mark a person who cannot read can make. **908, 936, 948** |
+| **The foot of a hill, a board by a kerb, a month's form with two ruled squares, four inches of dressed stone** | **the boy with a paste brush**, twice, at 908 and at 948; **the woman with the short-handled broom**, unnamed, unasked, at 936 | the two squares, the forms, and the only mark a person who cannot read can make. **908, 936, 948** |
 | **A laundry and a back room, nine sheets under a third table** | **Perla Quist**, who will not hold a card | what an address on a door is worth to a woman who keeps an index. **906, 929** |
 
 ---
@@ -169,7 +169,7 @@ Read off `chapters/volume-18/chapter-0900.md`, `:0899.md`, `:0898.md`, `:0897.md
 **THE STANDING DECISIONS, RESTATED:**
 
 1. **NOBODY PUTS A HAND FLAT ON ANYTHING IN 901–950.** This is the sixth volume it binds.
-2. **THE BOY IS NOT AGED AND IS NOT ASKED BY ANYBODY ABOUT ANYTHING, AND HE IS ON THE PAGE TWICE AND NOT ONE MORE.**
+2. **THE BOY IS NOT AGED AND IS NOT ASKED BY ANYBODY ABOUT ANYTHING, AND HE IS ON THE PAGE TWICE AND NOT ONE MORE — 908 AND 948, AND THE BOY IS NOT ON THE PAGE AT 938, WHICH IS A SEVENTH.**
 3. **THE WOMAN WITH THE SHORT-HANDLED BROOM IS NOT NAMED AND IS NOT ASKED, FOR THE EIGHTH RUNNING VOLUME.**
 4. **THE WOMAN WHO CANNOT READ IS NOT NAMED, NOT TRACED, NOT ASKED ANYTHING, AND NOBODY IS SENT TO FIND HER.** Her sheet is held against the wood under the lower batten, unmoved, with her own pencil line across the bottom of it, and **no chapter of 901–950 folds it, turns it over or takes it.**
 5. **LIN HAO DOES NOT GO BACK TO THE STONE YARD AND THE DOCKET LEAVES HIS COAT.** Closed at 712. **No chapter of 901–950 enters a yard, names a docket, or prints its date.**
@@ -243,10 +243,18 @@ SPINE, 901-950
   950 - 900              4,289 - 3,929 = 360 = EXACTLY ONE YEAR, THE FIFTH TIME RUNNING.
   THE DRAWER             2,420 = 21 Oct y7. **SIXTY-TWO MONTHS AND NINE DAYS SHUT AT 950
                           (1,869 = 62 x 30 + 9), NAMED AT MOST ONCE AND NEVER AN EVENT.**
-  THE FORMS ON THE WALL  the hundred-and-fourteenth came down on the thirtieth of December y11,
-                          then monthly on sevenths. **TWO OF THOSE LAND ON CHAPTERS IN THIS
-                          VOLUME AND THEY ARE NAMED IN §5c, AND NEITHER IS AN EVENT, AND NO
-                          OTHER FORM ORDINAL MAY BE PRINTED ANYWHERE IN 901–950.**
+  THE FORMS ON THE WALL  the hundred-and-thirteenth on the seventh of December y11 and the
+                          hundred-and-fourteenth on the seventh of February y12, then one a month
+                          on the seventh, **FEBRUARY THROUGH DECEMBER AND NEVER ON THE SEVENTH OF
+                          A JANUARY — THE SKIP VOLUME 18 USES, AND THE REASON ITS HUNDRED-AND-
+                          THIRD FOLLOWS ITS HUNDRED-AND-SECOND ACROSS A JANUARY — SO THE RUN OF
+                          THIS VOLUME IS 114 ON 7 FEB THROUGH 124 ON 7 DEC y12, ELEVEN FORMS.**
+                          **THREE OF THOSE LAND ON A CHAPTER IN THIS VOLUME AND THEY ARE 912, THE
+                          ONE HUNDRED AND SIXTEENTH, ON THE SEVENTH OF APRIL AT 4,026; 925, THE
+                          ONE HUNDRED AND NINETEENTH, ON THE SEVENTH OF JULY AT 4,116; AND 938,
+                          THE ONE HUNDRED AND TWENTY-SECOND, ON THE SEVENTH OF OCTOBER AT 4,206.
+                          ALL THREE ARE NAMED IN §5c, NONE OF THEM IS AN EVENT, AND NO OTHER FORM
+                          ORDINAL MAY BE PRINTED ANYWHERE IN 901–950.**
 ```
 
 **THE RAIL COUNT IS A COUNT OF DAYS SINCE THE CURRENT SHEET WENT UP ON THE RAIL, AND THE CURRENT SHEET GOES UP ON THE QUARTER-END.** The forty-fourth went up at `3,929`; the forty-fifth at `4,019`; the forty-sixth at `4,109`; the forty-seventh at `4,199`; the forty-eighth at `4,289`.
@@ -274,20 +282,20 @@ SPINE, 901-950
 | 902 | **27 Jan, y12** | 3,956 | +7 | 922 | **17 Jun, y12** | 4,096 | +7 |
 | **903** | **4 Feb, y12** | 3,963 · **SCENE** | +7 | **923** | **24 Jun, y12** | 4,103 · **SCENE** | +7 |
 | 904 | **11 Feb, y12** | 3,970 | +7 | 924 | **30 Jun, y12** | 4,109 · **QUARTER-END, forty-sixth sheet** | +6 |
-| 905 | **18 Feb, y12** | 3,977 | +7 | 925 | **7 Jul, y12** | 4,116 | +7 |
+| 905 | **18 Feb, y12** | 3,977 | +7 | 925 | **7 Jul, y12** | 4,116 · **a form on the seventh** | +7 |
 | 906 | **25 Feb, y12** | 3,984 | +7 | 926 | **14 Jul, y12** | 4,123 | +7 |
 | 907 | **2 Mar, y12** | 3,991 | +7 | 927 | **21 Jul, y12** | 4,130 | +7 |
-| 908 | **11 Mar, y12** | 3,998 | +7 | 928 | **28 Jul, y12** | 4,137 | +7 |
+| 908 | **9 Mar, y12** | 3,998 | +7 | 928 | **28 Jul, y12** | 4,137 | +7 |
 | 909 | **16 Mar, y12** | 4,005 | +7 | 929 | **5 Aug, y12** | 4,144 | +7 |
 | 910 | **23 Mar, y12** | 4,012 · **MOVEMENT ONE'S IRREVERSIBLE DECISION** | +7 | 930 | **12 Aug, y12** | 4,151 | +7 |
 | **911** | **30 Mar, y12** | 4,019 · **QUARTER-END, forty-fifth sheet** | +7 | 931 | **19 Aug, y12** | 4,158 | +7 |
-| 912 | **7 Apr, y12** | 4,026 | +7 | 932 | **26 Aug, y12** | 4,165 | +7 |
+| 912 | **7 Apr, y12** | 4,026 · **a form on the seventh** | +7 | 932 | **26 Aug, y12** | 4,165 | +7 |
 | **913** | **14 Apr, y12** | 4,033 · **SCENE** | +7 | **933** | **3 Sep, y12** | 4,172 · **SCENE** | +7 |
 | 914 | **21 Apr, y12** | 4,040 | +7 | 934 | **10 Sep, y12** | 4,179 | +7 |
 | 915 | **28 Apr, y12** | 4,047 | +7 | 935 | **17 Sep, y12** | 4,186 | +7 |
 | 916 | **5 May, y12** | 4,054 | +7 | 936 | **24 Sep, y12** | 4,193 | +7 |
 | 917 | **12 May, y12** | 4,061 | +7 | **937** | **30 Sep, y12** | 4,199 · **QUARTER-END, forty-seventh sheet** | +6 |
-| 918 | **19 May, y12** | 4,068 | +7 | 938 | **7 Oct, y12** | 4,206 | +7 |
+| 918 | **19 May, y12** | 4,068 | +7 | 938 | **7 Oct, y12** | 4,206 · **a form on the seventh** | +7 |
 | 919 | **26 May, y12** | 4,075 | +7 | 939 | **14 Oct, y12** | 4,213 | +7 |
 | **920** | **3 Jun, y12** | 4,082 · **MOVEMENT TWO'S IRREVERSIBLE DECISION** | +7 | 940 | **21 Oct, y12** | 4,220 · **MOVEMENT FOUR'S IRREVERSIBLE DECISION** | +7 |
 | | | | | 941 | **28 Oct, y12** | 4,227 | +7 |
@@ -403,7 +411,7 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 | 935 | 17 Sep | 4,186 | What the city felt in spring: the weight up four flights, heavier and quieter, and nobody writing it down. |
 | 936 | 24 Sep | 4,193 | The corner visited: no eighth hand, the paste four days old, the two words not among the seven. |
 | **937** | 30 Sep | 4,199 · **QUARTER-END, forty-seventh sheet** | The head printed in the lane, thirty-one sheets and thirty quarters, `4,199 − 1,499 = 2,700 = 30 × 90`. |
-| 938 | 7 Oct | 4,206 | The boy's first day in this volume, named once and not an event. |
+| 938 | 7 Oct | 4,206 · **a form on the seventh** | The month's form on the board by the kerb and not one word of it read aloud; the two ruled squares empty and the paste showing; the boy is not on the page. |
 | 939 | 14 Oct | 4,213 | The copied hours come back corrected wrong a second time; the office corrects no copy. |
 | **940** | 21 Oct | 4,220 · **MOVEMENT FOUR'S IRREVERSIBLE DECISION** | **HIS, PRACTICE NOT INK: NO LIST OF COMERS, EVER.** What it closes: keeping hours by keeping people. What it costs: every knocking-wrong, for the rest of the year, said out loud. |
 
@@ -434,7 +442,7 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 
 **MAY NOT OPEN:** **his brother's file, which `outline/ending.md` alone decides** · **Sun Meiling's folder may not contain a page out of it** · the second folio of 4,112 · B103 in any form · **the string `settle`, which returns zero across Volumes 09 to 19** · Ines's lost day and record · the two unstamped reads and who made them · the ninth turned line's meaning · the seventh returned line · the bare slot at the head of the Reading · the reason the account had an address · **the reach of 486's return, deliberately open to the end of the book** · **whether the account belonged to the unrecorded rather than to him** · how many feeders there are · October's song · the woman Wren Kallo gave the shape to · **who put the white tile up** · **the figure of the account** · **whether any unrecorded deed ever satisfied the fourth condition** · the year the composition of premises 34-6-118 began · **THE TWO WORDS ON THE STONE, WHICH ARE NOT PRINTED IN THIS VOLUME AND MAY NOT BE PRINTED, AND NO CHAPTER MAY ASSERT THAT THEY ARE THE SAME WORDS AS ANYTHING ELSE** · **anything that contradicts `outline/ending.md`** · **the docket's date, which was read aloud in 712 and printed nowhere and is not read aloud again** · **the invented-figures sentence, verbatim and Tier 3, which is spent for the rest of the book** · **what was in the space in the middle of his own row** · **how many of the rows in that book are about a person who is dead, which nobody in this city can count and which this office will not count** · **whether Perla Quist's nine sheets under the third table would answer a question the book cannot.**
 
-**MAY NOT CLOSE:** **Mrs Imrie, asked nothing, ever, by anybody** · **Wren Kallo's bar, untested** · **`PC-44`, Dagmar Oyelowo's first thing; 943 is a scene and manufactures no gift and puts her on no roll** · **Perrin Sowe is not forgiven and it is not discussed** · Nikolai Vester · the woman in the sixth seat · Beatrix Halm's empty notebook line · Wanda Rej's plaster · **Ines Duarte's standing review** · **Ines Duarte's five questions, all open, and none answered in this volume** · **Sun Meiling's row and her bar** · **Marguerite Vale's fourth line, which cannot be struck** · **the instrument he swore on the ninth of May never to use, still unused** · **Ada's grey is permanent** · **Runa Sato's reason box** · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **Hanneke Ruis, whose age is not fixed and may never be given on the page** · **the woman who cannot read, who is not asked anything in 901–950, is not traced, and is not sent for, and her sheet is not moved** · **the woman with the short-handled broom, eighth running volume** · **the boy, who is not asked anything by anybody in this volume and is on the page twice** · **Brack's four-year sentence, undischarged and unargued, and the sooner figure beside it, which is not rubbed out** · **the two strangers who came up four flights and went down again, about whom nobody is going to find out whether this office put them off, and the four years are not up** · **the half-finished sentence in the stone; no eighth hand goes in** · **the wrong hour in the October row, still above the right one** · **the practice-made-late debt of the twenty-fifth of August, which may not be tidied into an apology.**
+**MAY NOT CLOSE:** **Mrs Imrie, asked nothing, ever, by anybody** · **Wren Kallo's bar, untested** · **`PC-44`, Dagmar Oyelowo's first thing; 943 is a scene and manufactures no gift and puts her on no roll** · **Perrin Sowe is not forgiven and it is not discussed** · Nikolai Vester · the woman in the sixth seat · Beatrix Halm's empty notebook line · Wanda Rej's plaster · **Ines Duarte's standing review** · **Ines Duarte's five questions, all open, and none answered in this volume** · **Sun Meiling's row and her bar** · **Marguerite Vale's fourth line, which cannot be struck** · **the instrument he swore on the ninth of May never to use, still unused** · **Ada's grey is permanent** · **Runa Sato's reason box** · **the certificate behind Hanneke Ruis's eight, which does not exist and will not** · **Hanneke Ruis, whose age is not fixed and may never be given on the page** · **the woman who cannot read, who is not asked anything in 901–950, is not traced, and is not sent for, and her sheet is not moved** · **the woman with the short-handled broom, eighth running volume** · **the boy, who is not asked anything by anybody in this volume and is on the page twice, at 908 and at 948** · **Brack's four-year sentence, undischarged and unargued, and the sooner figure beside it, which is not rubbed out** · **the two strangers who came up four flights and went down again, about whom nobody is going to find out whether this office put them off, and the four years are not up** · **the half-finished sentence in the stone; no eighth hand goes in** · **the wrong hour in the October row, still above the right one** · **the practice-made-late debt of the twenty-fifth of August, which may not be tidied into an apology.**
 
 **PERMITTED TO CLOSE, AND THERE ARE TWO:**
 
@@ -491,4 +499,4 @@ VOLUME 19      312 inside the five batches, plus seams of 20 + 7 + 7 + 7 + 7 = 4
 
 **THE FIVE IN BOLD IN THE THIRD ROW ARE SCENES: 903, 913, 923, 933, 943. 910, 920, 930, 940 AND 950 ARE THE FIVE IRREVERSIBLE DECISIONS, ALL FIVE HIS, AND THE ONE AT 950 IS THE VOLUME'S.**
 
-**ONE TITLE CARRIES A FLAG A BATCH MUST HONOUR: 938's ordinal is the one hundred and twelfth form's month and is not an event.**
+**ONE TITLE CARRIES A FLAG A BATCH MUST HONOUR: 938's ordinal is the one hundred and twenty-second form's month and is not an event. THE COUNT IS CARRIED FORWARD OFF VOLUME 18's OWN PRINTED CHAIN, WHICH ENDS AT THE HUNDRED-AND-THIRTEENTH ON THE SEVENTH OF DECEMBER y11, AND THE RUN OF THIS VOLUME IS THE HUNDRED-AND-FOURTEENTH ON THE SEVENTH OF FEBRUARY y12 THROUGH THE HUNDRED-AND-TWENTY-FOURTH ON THE SEVENTH OF DECEMBER y12, WITH NO FORM ON THE SEVENTH OF A JANUARY.**
