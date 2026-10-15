@@ -46,7 +46,7 @@ He gave her the three lines and she listened with her head on one side. Then she
 
 What he understood, standing there with the afternoon light going thin, was that every person who had ever wanted a door to knock on had now got a man in the way of it.
 
-About four people a week would learn the difference between a door a person could knock on and a man a person could walk past, and two of them would not come back up those flights at all. Not because they had been refused, and not because they had been turned away, but because a man in the way was a different thing to ask than a door, and some people would not ask it.
+Somebody who wanted a door to knock on had a man in the way of it now, and a person who would rather go without is not being turned away anywhere. She is choosing something else: a lane with no steps in it, a longer way round, a morning she does not spend on a stranger's question. He had put a body between that woman and a door and had gone on calling it a gift.
 
 He had moved being findable about four hundred yards without being asked whether he was entitled to, and being findable and being usable were different prices. That was the finding of the second week, and it was worse than the finding of the first, because the first had been about his own comfort and this one was about other people.
 
@@ -54,17 +54,17 @@ He had moved being findable about four hundred yards without being asked whether
 
 He said it out loud on the step at about four, to a carrier who stopped beside him with a bundle of answered slips.
 
-"Every person who wanted a door has now got a man in the way of it," said Lin Hao. "About four of them a week will learn the difference, and two of those will not come back up those flights at all. That is the second half of what this costs, and I am saying it here because it is spent here."
+"Every person who wanted a door has now got a man in the way of it," said Lin Hao. "Some of them will find that out on the step and some of them will go the long way round to another court and never come up these flights at all. I cannot tell you which is which and I am not going to stand here and find out. That is the second half of what this costs, and I am saying it here because it is spent here."
 
 The carrier looked at him for a moment and then nodded and went on up the court. He did not write it down and had not asked to have it written down, and that was the point of saying it on a step.
 
 At half past five he went up the four flights in the dark with the book under his arm and said it again in that room with the door open, with Wenna Raut at the table and her pen down.
 
-"The same thing, in here, because it concerns this room," said Lin Hao. "A man at the bottom is a man in the way, and about four a week will find it out, and two will not come back. I am not asking you to put that in anything."
+"The same thing, in here, because it concerns this room," said Lin Hao. "A man at the bottom is a man in the way, and people will find that out on the flags outside and go elsewhere instead. I am not asking you to put that in anything."
 
 "I am not putting it in anything," said Wenna Raut. "A body at the bottom of a stair is not a question and not an answer, and that book cannot take it. And you are right to say it twice, because a thing said once in a court belongs to the court."
 
-He felt anger then, sudden and clean, at himself and at the stair and at the week. He had given his three days off to a step that made some people turn away, and he had done it without asking the office and without asking the people. What he wanted, with the book heavy under his arm, was to move, to be up four flights where the door worked without him, and he could not move because the morning he had chosen required him to be still.
+He felt anger then, clean and cold, at himself and at the stair and at the week. He had given his three days off to a step that made some people turn away, and he had done it without asking the office and without asking the people. What he wanted, with the book heavy under his arm, was to move, to be up four flights where the door worked without him, and he could not move because the morning he had chosen required him to be still.
 
 "You are angry," said Wenna Raut.
 
@@ -78,7 +78,7 @@ He carried the book the four hundred yards in the dark with the back board ticki
 
 The form that had gone up that morning was face up on a rail four hundred yards off, with nothing on it that was an event, and he had not gone to look at it and did not need to. At the flat file he set the book down and stood for a moment with his hands empty, listening to the tick fade into the wood.
 
-On the way back he stopped at the bottom of his own stair, empty now, and looked up into the dark. A back platform at the end of a line was waiting for him in the morning, and a woman who heard things at the far end of a carriage. He felt the pull of it like a hand on his coat, and he was glad to have somewhere to go that was not a step.
+He came down the four flights last, after the carriers, and stood in the dark court with the book under his arm and the tick going out of it by inches. A back platform at the end of a line was waiting for him in the morning, and a woman who heard things at the far end of a carriage. The pull of it went through him like a hand on his coat, and he was glad to have somewhere to be that was not a step.
 
 Four thousand three hundred and eighty-six days. Less four thousand three hundred and seventy-nine, the thirtieth of this one, is seven, and the month ended in between and there is nothing in it to take out, and a man who could not be in two courts said the cost of it out loud on a step and in a room and asked for nothing to be written down.
 

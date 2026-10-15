@@ -6,7 +6,7 @@ Four thousand three hundred and ninety-three was the fourteenth of this one and 
 
 He was at the bottom of his own stair by a quarter to ten with his back to the wall and the morning bright around him. Four flights rose above a third court to a door with a card on it, and the card carried the street and the door and the hours and not one name. He had stood there eleven mornings and today was the twelfth, and his legs knew the flags by now the way his hands knew the grain of the table upstairs.
 
-He wanted to be asked the one question he had been waiting a fortnight for, and he wanted it the way a man wants a knock he has been listening for. What he felt, with the court filling and emptying around him, was a tight readiness that made his chest hurt less than usual because his attention was elsewhere.
+He wanted to be asked the one question he had been waiting a fortnight for, and he wanted it the way a man wants a knock he has been listening for. The readiness in him was tight and physical, and it took the ache out of his chest, because his attention was somewhere else entirely.
 
 At about half past ten a woman came into the court alone, walking fast with her coat buttoned and her hands empty. She stopped four feet off and looked up at the stair and then at him, and he saw at once that she had come from somewhere with purpose and had paid for the coming.
 
@@ -66,7 +66,7 @@ She nodded once, as if that closed something, and turned to go. At the mouth of 
 
 He stood a while with his shoulder to the wall and watched the light move across the flags. A boy ran through with a hoop and a woman followed with washing over her arm, and neither of them looked at the stair. He felt the morning loosen in him, the way a knot loosens when the rope is no longer pulled, and he was grateful for ordinary traffic that wanted nothing from him.
 
-He felt a fierce gladness rise in him, sudden and unwarranted, that had nothing to do with being right. He had thought standing there was an act of getting in the way, and it was an act of being the place where a price stopped.
+He felt a fierce gladness rise in him, warm and out of character, that had nothing to do with being right and that he could not have argued anybody out of. He had thought standing there was an act of getting in the way, and it was an act of being the place where a price stopped.
 
 The address was confirmed by a man who could not be led anywhere and did not charge, and the truth about her own transaction was told instead of only the door being pointed at. That was why the price died here, on the flags, in daylight, and not in a lane.
 
@@ -74,7 +74,7 @@ At half past five he went up and got the book down with his own hands and carrie
 
 Wenna Raut listened to the whole of it with her pen down and entered nothing, because a chain that cost money was not a question and not an answer. He felt tired in his bones and light in his chest at the same time, and he wanted tomorrow to be a morning when the four flights stood empty and he could find out what the absence of a man did to a door.
 
-Four flights with no person on them were waiting, and a morning when the man who stood at the bottom would not be there. He did not know it yet, but his chest knew, aching on the third landing in the dark.
+Four flights with no person on them were waiting, and a morning when the man who stood at the bottom would not be there. His chest knew it before he did, and it was already aching on the third landing in the dark.
 
 Four thousand four hundred days. Less four thousand three hundred and ninety-three, the fourteenth of this one, is seven, and a woman who had paid that morning for a walk was told on the flags what she had bought and did not go up.
 

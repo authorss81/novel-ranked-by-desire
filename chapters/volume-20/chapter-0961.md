@@ -1,4 +1,4 @@
-# The Forty-Ninth Sheet
+# Hands That Are Not Mine
 
 Four thousand three hundred and seventy-two was the twenty-third of this one and the thirtieth of this one is day four thousand three hundred and seventy-nine, and four thousand three hundred and seventy-nine less four thousand three hundred and seventy-two, the twenty-third of this one, is seven, and thirty less twenty-three is seven by the month count.
 
@@ -14,7 +14,7 @@ The fifth laid down the fold with the flap gummed shut and the reading aloud wit
 
 When she had finished he said that was the whole of it and she said it was, and the book was opened for the day. He wanted to get through the quarter-end without the rail breaking anything, and he wanted it the way a man wants a landing to hold when he puts his foot on it.
 
-What he felt, standing there with the six lines still in the air, was a thin impatience to be down at the bottom of his own stair where the morning was his.
+The six lines were still in the air and he wanted to be out of that room, four flights and a court below him, where the morning belonged to nobody and therefore to him.
 
 "You will be down there by ten," said Wenna Raut, without looking up from the page.
 

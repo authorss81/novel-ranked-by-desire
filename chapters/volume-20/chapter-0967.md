@@ -1,4 +1,4 @@
-# The Coin He Will Not Take
+# Three Floors Of Washrooms
 
 Four thousand four hundred and fourteen was the fifth of this one and the twelfth of this one is day four thousand four hundred and twenty-one, and four thousand four hundred and twenty-one less four thousand four hundred and fourteen, the fifth of this one, is seven, and twelve less five is seven by the month count.
 
@@ -18,7 +18,7 @@ He stood in the washrooms for about nine minutes, moving slowly from one floor t
 
 "I think about the water," said the counterman. "The pressure is low on the third floor and good on the first, and the second drain runs slow. You do this four nights a week with a bad chest and no help, and no person in this city has ever described it to any person."
 
-He wanted to meet the man who was paid nothing at the work he actually did, which was not the office four flights above a third court, and to find out what he thought of it. What he felt, standing with a mop in his hands in front of the one person he had never been able to pay, was a nervous respect that made him clumsy.
+He wanted to meet the man who was paid nothing at the work he actually did, which was not the office four flights above a third court, and to find out what he thought of it. Standing there with a mop in his hands in front of the one person he had never been able to pay, he was clumsy in a way he had not been clumsy in years.
 
 "That is not what I asked," said Lin Hao.
 
@@ -30,7 +30,7 @@ They went out into the yard behind the branch with the night cold around them, a
 
 "What a person pays a man in a street for is that they cannot manage a stair and a morning," said the counterman. "Not the address."
 
-"The address is on a door in the open and has been for months, and the man has never touched it. What costs is four flights twice over in the cold before work, with a bad knee or a child or a shift that starts at ten. That is labour and it is done again tomorrow, and a walk is a thing a person does."
+"That is what you should have asked me about," said the counterman. "The address is on a door in the open and has been for months, and the man has never touched it. What costs is four flights twice over in the cold before work, with a bad knee or a child or a shift that starts at ten. That is labour and it is done again tomorrow, and a walk is a thing a person does."
 
 He paused and looked up at the dark windows of the washrooms.
 

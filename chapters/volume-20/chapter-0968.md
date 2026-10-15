@@ -6,7 +6,7 @@ Four thousand four hundred and twenty-one was the twelfth of this one and the ni
 
 He went down to the lane off Cordwain at about half past one with his coat buttoned and his plate covered. The lane held nine stools and nine districts and a slate and twelve books, and Emil Brack stood behind the slate with chalk in his hand and his street door shut against the midday traffic. The sooner figure stood on the left in small chalk, unrubbed, and the head of the office's standing sheet stood on the right in four-inch letters, and the two were not separated.
 
-He wanted to find out what a lane had made of a man who would not move, before the lane made it into a rate. What he felt, stepping into the familiar smell of paper and dust, was a wary amusement that had been missing for weeks, because a lane was at least honest about what it did to people.
+He wanted to find out what a lane had made of a man who would not move, before the lane made it into a rate. Stepping into the familiar smell of paper and dust he found that he was enjoying himself, which was new, because a lane was at least honest about what it did to people.
 
 "You have got something," said Lin Hao.
 
@@ -50,7 +50,7 @@ Lin Hao looked at the slate with its two figures side by side, the sooner figure
 
 The third figure was still in Brack's head with no unit after it, still owed and still out by more than half a quarter, and it would not be chalked this year. He thought of the small chalk beside the four-inch letters, and how the two had stood together since the autumn without either harming the other, and how rare it was for two figures to share a slate in peace.
 
-He felt a sudden protectiveness toward the lane, strange and warm, because the lane had tried honestly to price him and had found honestly that it could not. What he wanted was to keep both figures off the slate, the one for standing and the one for telling, before either hardened into a rate.
+He felt a protectiveness toward the lane that startled him, warm and out of character, because the lane had tried honestly to price him and had found honestly that it could not. What he wanted was to keep both figures off the slate, the one for standing and the one for telling, before either hardened into a rate.
 
 "Do not write either figure," said Lin Hao. "Not the standing and not the telling. Leave the slate as it is, with the two that are there not separated and the head beside them not moved."
 
@@ -88,7 +88,7 @@ He thought of the woman who would come tomorrow to ask whether she might pay him
 
 He walked back up the lane into the afternoon with the light going thin. He felt lighter than he had in weeks, inventoried and found to be worth nothing, which was the only price he had ever wanted.
 
-What pulled him forward was not relief but the knowledge that the last chapter of the movement was waiting. A woman would offer him the only thing any person had offered him all year, and he would have to refuse it out loud, in a room with the door open.
+What pulled him forward up that lane was not relief. He had been thinking about the woman who stood along the wall below his stair and had been saying his three lines badly to strangers out loud, for nothing, for four months, because she liked the telling of it more than she had any use for the address. She had told him on the pavement, in her own words, that some morning she would come up those four flights and ask him for something. He had believed it would be money. He was no longer sure of that at all, and what he was sure of was that he would have to refuse it out loud, in a room with the door open, in front of the clerk and both carriers.
 
 Four thousand four hundred and twenty-eight days. Less four thousand four hundred and twenty-one, the twelfth of this one, is seven, and in a lane off Cordwain a man with chalk agreed to write nothing and the two figures on the slate were left where they were.
 
