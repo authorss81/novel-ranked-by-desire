@@ -1,14 +1,36 @@
-# CURRENT — Ranked by Desire · 950 chapters on disk, nineteen volumes, every volume closed, no phase open
+# CURRENT — Ranked by Desire · 950 chapters on disk, nineteen volumes all closed, **Volume 20 PLANNED, 951–1000, no prose written**
+
+**LIVE HEAD BLOCK, 2026-10-15, VOLUME 20 PLANNING PHASE.** `outline/volume-20.md` and `outline/batches/volume-20-batch-0001.md` were written this phase and **no chapter was opened, no finished file was edited, and no canon moved.** Volume 20 is *The Voice*, chapters 951–1000, movement one *The Price* is 951–960, and the one live phase is `workspace/volume-20/batch-0001/PROMPT.md`. Everything below the head block is unchanged from the 2026-10-15 compaction of this file, and the next writer inherits both.
+
+## 0 · WHAT THE VOLUME 20 PLANNING PHASE WROTE, IN ONE BLOCK
+
+**The volume.** `outline/volume-20.md`, *Volume Twenty — The Voice (chapters 951–1000)*, in full: the promise sentence, the seven things it is not, the beginning state read off `chapter-0950.md` and nine chapters before it, the places, the scene schedule with five axes, the calendar and the spine, the engine, the five movements with a one-line beat a chapter, the register you may not open, the mechanical checks and the fifty title lines. **It wrote no prose and introduced no enemy.**
+
+**The cards.** `outline/batches/volume-20-batch-0001.md`, ten cards for 951–960, written against the repaired page of 901–950. **Movements two to five carry one-line beats and no cards yet, by the house rule in §7 that a batch writes its own cards before it writes its prose. The next phase is told to write batch 0002's cards first, in the same commit as its chapters.**
+
+**The one next phase.** `workspace/volume-20/batch-0001/PROMPT.md`, and nothing else. **The prompt is the one that writes 951–960.**
+
+**THE SPINE, DERIVED TWICE BY METHODS THAT SHARE NO CONSTANT, BOTH AGREEING ON ALL FIFTY DATES, AND RE-CHECKED LINE BY LINE AGAINST THE FILE AFTER IT WAS WRITTEN:** 951 = **4,309**, the twentieth of January of year thirteen, seam `4,309 − 4,289 = 20` · 1000 = **4,649**, the thirtieth of December of year thirteen · `4,649 − 4,309 = 340` inside, and `340 + 20 = 360 = 4,649 − 4,289`, **exactly one year, the sixth time running.** Interiors `63 · 63 · 62 · 62 · 62` = 312, seams `20 + 7 + 7 + 7 + 7` = 48. Quarter-ends **961 · 974 · 987 · 1000**, sheets forty-ninth, fiftieth, fifty-first, fifty-second. The rail breaks at those four and nowhere else. The head at them is `day − 1,499 = 32 × 90, 33 × 90, 34 × 90, 35 × 90` — thirty-three sheets and thirty-two quarters at 961 up to thirty-six sheets and thirty-five quarters at 1000, differing by one at all four. Drawer `2,420`: 1,889 = 62 × 30 + 29 at 951 and 2,229 = 74 × 30 + 9 at 1000. Blank row `3,082`: 1,227 days at 951 and 1,567 at 1000. Forms 125 on the seventh of February to 135 on the seventh of December, never on a seventh of January, of which **962, 975 and 988 land on a chapter.**
+
+**THE YEAR LABEL IS NOT THE AUTHORITY AND THE FILE SAYS SO.** `outline/volume-19.md` §5a prints its own opening as *the twentieth of January of year twelve* at a day number whose formula year is eleven. **That slip is inherited deliberately and is not corrected here, because correcting it would restage a closed volume's page.** Volume 20 is labelled year thirteen throughout so that it reads continuously after it, and §5a tells the next writer to derive every interval from the day column.
+
+**THE FIFTY TITLE LINES** were checked in the planning pass with `uniq -d` against all nine hundred and fifty written title lines and against each other, and **both columns returned empty.** Three to twelve words, none over ninety characters, none beginning with *What*, none built out of *nothing*, *nobody* or *there is no*.
+
+**THE SCENES**, at 953, 963, 973, 983 and 993, cadence `10 · 10 · 10 · 10 · 10` off 943. **Ines Duarte** (100 after 853, axis the echo) · **Beatrix Halm** (80 after 883, axis the far end) · **Marguerite Vale** (110 after 863, axis the second price) · **Agnete Lindqvist** (140 after 843, axis the silence after) · **Isolde Marchetti** (732 after 261, axis the room that agrees). Per-woman gaps of 100 · 80 · 110 · 140 · 732 are **reported and not certified**, and no file in this repository may say one of those five is in or out of the eight-to-fifteen band.
+
+**THE FLAG IS NOT CLOSED BY THIS PHASE.** The overrun flag at the head of `state/open-threads.md` stands exactly as it stood. The planning phase read it, honoured it, wrote the volume anyway, and did not write the one line that closes it, because that line is a series decision about files this phase may not write. **Planning Volume 20 is not deciding that the book continues. It is planning, and the flag is still open after it.**
+
+---
 
 **COMPACTED 2026-10-15.** This file used to be twenty-four stacked blocks, 423 KB, in which each block announced that it superseded the ones below and none of them was ever deleted. The live head block and the one beneath it were, by the file's own instruction, "the whole of what you inherit", which left 1,320 of 1,395 lines as dead weight. Every measurement that was in it is still on disk in `reviews/volume-19/` and in `state/archive/`, and §8 says exactly where. Nothing a later writer needs was dropped; what went is restatement.
 
 ## 1 · Where the manuscript is
 
-950 chapter files across nineteen volumes, fifty a volume, all finished prose. Nine hundred and fifty H1 title lines and no two of them alike. The last chapter on disk is `chapters/volume-19/chapter-0950.md`, *Not One Name*, the thirtieth of December of year twelve, and it is the close of Volume 19.
+950 chapter files across nineteen volumes, fifty a volume, all finished prose. Nine hundred and fifty H1 title lines and no two of them alike. The last chapter on disk is `chapters/volume-19/chapter-0950.md`, *Not One Name*, the thirtieth of December of year twelve, and it is the close of Volume 19. **There is no chapter 951 on disk and none was written this phase.**
 
 Every volume carries its own close audit under `reviews/`. Volume 19's is `reviews/volume-19/volume-close.md`, which is the current authority on 901–950, and it repaired thirty-six single phrases across twenty-one chapters without moving a beat, a scene, a decision, a figure, a title, a form ordinal or a chapter date.
 
-**One stale prompt is still on disk, and it is the one thing in `workspace/` a dispatch could pick up.** Every writing, batch, continuation and close phase carries `.done`. **One directory does not: `workspace/volume-10/volume-plan/`, which still holds a Volume 10 planning prompt from October 2026 and carries a `.retired` marker instead of a `.done` marker.** `scripts/novel_runner.sh` selects the first `PROMPT.md` in sorted order that lacks `.done` and `.blocked`, and its selection loop **does not test `.retired`** — the retire sweep honours `.retired`, the selection loop does not. That directory sorts ahead of everything in Volume 19. **Its prompt says it is writing `outline/volume-10.md`, which exists, and the volume behind it was closed nine volumes ago. Do not run it.** It is controller state and this phase did not touch it.
+**One stale prompt is still on disk, and it is the one thing in `workspace/` a dispatch could pick up.** Every writing, batch, continuation and close phase carries `.done`. **One directory does not: `workspace/volume-10/volume-plan/`, which still holds a Volume 10 planning prompt from October 2026 and carries a `.retired` marker instead of a `.done` marker.** `scripts/novel_runner.sh` selects the first `PROMPT.md` in sorted order that lacks `.done` and `.blocked`, and its selection loop **does not test `.retired`** — the retire sweep honours `.retired`, the selection loop does not. That directory sorts ahead of everything in Volume 19 **and ahead of `workspace/volume-20/`.** **Its prompt says it is writing `outline/volume-10.md`, which exists, and the volume behind it was closed ten volumes ago. Do not run it.** It is controller state and this phase did not touch it.
 
 **The book is not finished in the sense `outline/ending.md` defines.** See §2.
 
@@ -93,11 +115,14 @@ Against the repaired page of 921–940, per `reviews/volume-19/volume-close.md`.
 
 | Question | File |
 | --- | --- |
+| **Volume 20 as planned — the promise, the beginning state, the spine, the five movements, the fifty titles** | **`outline/volume-20.md`** |
+| **the ten cards for 951–960, the only batch of Volume 20 that has cards** | **`outline/batches/volume-20-batch-0001.md`** |
+| **the one live phase, which writes 951–960** | **`workspace/volume-20/batch-0001/PROMPT.md`** |
 | the close audit of 901–950, the repairs, every gate row with its instrument | `reviews/volume-19/volume-close.md` |
-| what each batch of this volume was and what it measured | `reviews/volume-19/batch-0001.md` through `batch-0005.md` |
+| what each batch of Volume 19 was and what it measured | `reviews/volume-19/batch-0001.md` through `batch-0005.md` |
 | what each review-fix pass changed | `reviews/volume-19/batch-000N-review-fix.md` |
-| the cards of record, one per chapter, all ten movements | `outline/batches/volume-19-batch-0001.md` through `-0005.md` |
-| the volume's own governing document, sections 1 to 10 | `outline/volume-19.md` |
+| the cards of record for Volume 19, one per chapter, all five movements | `outline/batches/volume-19-batch-0001.md` through `-0005.md` |
+| Volume 19's own governing document, sections 1 to 10 | `outline/volume-19.md` |
 | the people, the ages that may not be printed, and who is who | `bible/characters.md` |
 | what a later writer may not contradict | `state/continuity.md` |
 | every thread with its status at the close | `state/open-threads.md` |

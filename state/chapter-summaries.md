@@ -1,5 +1,7 @@
 # CHAPTER SUMMARIES — chapters 941–950, the ten rows a next writer inherits
 
+**NO SUMMARY EXISTS FOR ANY CHAPTER ABOVE 950, BECAUSE NO CHAPTER ABOVE 950 EXISTS.** `outline/volume-20.md` plans chapters 951–1000 and `outline/batches/volume-20-batch-0001.md` holds the ten cards for 951–960, but the Volume 20 planning phase wrote a plan and not a page. **The rows below are therefore still the newest rows in this file, and the live inherit set for the next writer is unchanged.** When 951–960 are written, this file gains ten rows and nothing in the ten below moves.
+
 **COMPACTED 2026-10-15.** This file was 274 KB in thirteen stacked blocks. What is left is the live set: the ten rows below are **chapters 941–950 as they now stand, after the thirty-six repairs the close audit made across twenty-one chapters of Volume 19**. Nothing was rewritten in the compaction and no row changed.
 
 **Where the rest of the summaries are, and this is the whole map:**
